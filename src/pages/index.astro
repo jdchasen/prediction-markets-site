@@ -1,0 +1,96 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import ArticleCard from '../components/ArticleCard.astro';
+import CTABanner from '../components/CTABanner.astro';
+import { getCollection } from 'astro:content';
+
+const allPosts = (await getCollection('blog')).sort(
+  (a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
+);
+
+const featuredPosts = allPosts.slice(0, 6);
+
+const categories = [
+  { name: 'Kalshi', slug: 'kalshi', description: 'Guides and strategies for trading on Kalshi', color: 'bg-blue-50 border-blue-200 text-blue-900' },
+  { name: 'Polymarket', slug: 'polymarket', description: 'Everything about crypto prediction markets', color: 'bg-purple-50 border-purple-200 text-purple-900' },
+  { name: 'Strategies', slug: 'strategies', description: 'Trading strategies and edge-finding techniques', color: 'bg-green-50 border-green-200 text-green-900' },
+  { name: 'Beginners', slug: 'beginners', description: 'Start here if you are new to prediction markets', color: 'bg-orange-50 border-orange-200 text-orange-900' },
+];
+---
+
+<BaseLayout
+  title="Prediction Market Pro - Expert Guides & Strategies"
+  description="Expert analysis, strategies, and guides for prediction market traders. Learn to trade event contracts on Kalshi, Polymarket, and more."
+>
+  <section class="bg-gradient-to-b from-brand-50 to-white py-16">
+    <div class="mx-auto max-w-6xl px-4 text-center">
+      <h1 class="mb-4 text-4xl font-bold tracking-tight text-gray-900 md:text-5xl">
+        Master <span class="text-brand-600">Prediction Markets</span>
+      </h1>
+      <p class="mx-auto mb-8 max-w-2xl text-lg text-gray-600">
+        Expert strategies, platform reviews, and actionable guides from real traders.
+        Learn to find edge in event contracts on Kalshi, Polymarket, and beyond.
+      </p>
+      <div class="flex flex-wrap items-center justify-center gap-4">
+        <a
+          href="/blog"
+          class="rounded-md bg-brand-600 px-6 py-3 text-sm font-medium text-white transition-colors hover:bg-brand-700"
+        >
+          Read Articles
+        </a>
+        <a
+          href="/about"
+          class="rounded-md border border-gray-300 bg-white px-6 py-3 text-sm font-medium text-gray-700 transition-colors hover:bg-gray-50"
+        >
+          About Us
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <section class="py-12">
+    <div class="mx-auto max-w-6xl px-4">
+      <h2 class="mb-8 text-2xl font-bold text-gray-900">Browse by Category</h2>
+      <div class="grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-4">
+        {categories.map((cat) => (
+          <a
+            href={`/category/${cat.slug}`}
+            class:list={['rounded-lg border p-5 transition-shadow hover:shadow-md', cat.color]}
+          >
+            <h3 class="mb-1 font-semibold">{cat.name}</h3>
+            <p class="text-sm opacity-80">{cat.description}</p>
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <section class="py-12">
+    <div class="mx-auto max-w-6xl px-4">
+      <div class="mb-8 flex items-center justify-between">
+        <h2 class="text-2xl font-bold text-gray-900">Latest Articles</h2>
+        <a href="/blog" class="text-sm font-medium text-brand-600 hover:text-brand-700">
+          View all &rarr;
+        </a>
+      </div>
+      <div class="grid grid-cols-1 gap-6 md:grid-cols-2 lg:grid-cols-3">
+        {featuredPosts.map((post) => (
+          <ArticleCard
+            title={post.data.title}
+            description={post.data.description}
+            pubDate={post.data.pubDate}
+            category={post.data.category}
+            slug={post.id}
+            heroImage={post.data.heroImage}
+          />
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <section class="py-12">
+    <div class="mx-auto max-w-3xl px-4">
+      <CTABanner platform="kalshi" />
+    </div>
+  </section>
+</BaseLayout>

@@ -1,0 +1,69 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import ArticleCard from '../../components/ArticleCard.astro';
+import CTABanner from '../../components/CTABanner.astro';
+import { getCollection } from 'astro:content';
+
+const CATEGORY_META: Record<string, { title: string; description: string }> = {
+  kalshi: {
+    title: 'Kalshi Guides & Strategies',
+    description: 'Everything about trading event contracts on Kalshi — the CFTC-regulated prediction market platform.',
+  },
+  polymarket: {
+    title: 'Polymarket Guides & Strategies',
+    description: 'Guides and strategies for trading on Polymarket, the leading crypto prediction market.',
+  },
+  strategies: {
+    title: 'Prediction Market Strategies',
+    description: 'Trading strategies, edge-finding techniques, and analytical frameworks for prediction markets.',
+  },
+  beginners: {
+    title: 'Beginner Guides',
+    description: 'New to prediction markets? Start here with our beginner-friendly guides and explainers.',
+  },
+};
+
+export function getStaticPaths() {
+  const categories = ['kalshi', 'polymarket', 'strategies', 'beginners'];
+  return categories.map((category) => ({
+    params: { category },
+  }));
+}
+
+const { category } = Astro.params;
+const meta = CATEGORY_META[category] || { title: category, description: '' };
+
+const allPosts = (await getCollection('blog'))
+  .filter((post) => post.data.category === category)
+  .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+
+const affiliatePlatform = (category === 'kalshi' || category === 'polymarket') ? category : 'generic';
+---
+
+<BaseLayout title={meta.title} description={meta.description}>
+  <div class="mx-auto max-w-6xl px-4 py-12">
+    <h1 class="mb-2 text-3xl font-bold text-gray-900">{meta.title}</h1>
+    <p class="mb-10 text-gray-600">{meta.description}</p>
+
+    {allPosts.length === 0 ? (
+      <p class="text-gray-500">No articles in this category yet. Check back soon!</p>
+    ) : (
+      <div class="grid grid-cols-1 gap-6 md:grid-cols-2 lg:grid-cols-3">
+        {allPosts.map((post) => (
+          <ArticleCard
+            title={post.data.title}
+            description={post.data.description}
+            pubDate={post.data.pubDate}
+            category={post.data.category}
+            slug={post.id}
+            heroImage={post.data.heroImage}
+          />
+        ))}
+      </div>
+    )}
+
+    <div class="mx-auto mt-12 max-w-3xl">
+      <CTABanner platform={affiliatePlatform as 'kalshi' | 'polymarket' | 'generic'} />
+    </div>
+  </div>
+</BaseLayout>

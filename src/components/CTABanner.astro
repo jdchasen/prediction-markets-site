@@ -1,0 +1,46 @@
+---
+interface Props {
+  platform?: 'kalshi' | 'polymarket' | 'generic';
+}
+
+const { platform = 'generic' } = Astro.props;
+
+const ctas: Record<string, { heading: string; text: string; buttonText: string; href: string; color: string }> = {
+  kalshi: {
+    heading: 'Start Trading on Kalshi',
+    text: 'Trade real-money event contracts on weather, economics, politics, and more. CFTC-regulated and available to US residents.',
+    buttonText: 'Sign Up for Kalshi',
+    href: 'https://kalshi.com/sign-up/',
+    color: 'bg-blue-600 hover:bg-blue-700',
+  },
+  polymarket: {
+    heading: 'Try Polymarket',
+    text: 'The largest prediction market by volume. Trade on crypto-based event contracts with deep liquidity.',
+    buttonText: 'Explore Polymarket',
+    href: 'https://polymarket.com/',
+    color: 'bg-purple-600 hover:bg-purple-700',
+  },
+  generic: {
+    heading: 'Ready to Start Trading Prediction Markets?',
+    text: 'Prediction markets let you trade on real-world events. Start with a regulated platform and learn the fundamentals before risking real capital.',
+    buttonText: 'Compare Platforms',
+    href: '/blog/best-prediction-market-platforms',
+    color: 'bg-brand-600 hover:bg-brand-700',
+  },
+};
+
+const cta = ctas[platform];
+---
+
+<aside class="my-8 rounded-lg border border-gray-200 bg-gray-50 p-6">
+  <h3 class="mb-2 text-lg font-semibold text-gray-900">{cta.heading}</h3>
+  <p class="mb-4 text-sm text-gray-600">{cta.text}</p>
+  <a
+    href={cta.href}
+    target={platform !== 'generic' ? '_blank' : undefined}
+    rel={platform !== 'generic' ? 'noopener sponsored' : undefined}
+    class:list={['inline-block rounded-md px-5 py-2.5 text-sm font-medium text-white transition-colors', cta.color]}
+  >
+    {cta.buttonText}
+  </a>
+</aside>

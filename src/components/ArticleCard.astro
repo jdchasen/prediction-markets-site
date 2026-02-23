@@ -1,0 +1,67 @@
+---
+interface Props {
+  title: string;
+  description: string;
+  pubDate: Date;
+  category: string;
+  slug: string;
+  heroImage?: string;
+}
+
+const { title, description, pubDate, category, slug, heroImage } = Astro.props;
+
+const formattedDate = pubDate.toLocaleDateString('en-US', {
+  year: 'numeric',
+  month: 'long',
+  day: 'numeric',
+});
+
+const categoryColors: Record<string, string> = {
+  kalshi: 'bg-blue-100 text-blue-800',
+  polymarket: 'bg-purple-100 text-purple-800',
+  strategies: 'bg-green-100 text-green-800',
+  beginners: 'bg-orange-100 text-orange-800',
+};
+
+const colorClass = categoryColors[category] || 'bg-gray-100 text-gray-800';
+---
+
+<article class="group rounded-lg border border-gray-200 bg-white transition-shadow hover:shadow-md">
+  {heroImage && (
+    <a href={`/blog/${slug}`}>
+      <img
+        src={heroImage}
+        alt={title}
+        class="h-48 w-full rounded-t-lg object-cover"
+        loading="lazy"
+      />
+    </a>
+  )}
+  <div class="p-5">
+    <div class="mb-3 flex items-center gap-3">
+      <span class:list={['rounded-full px-2.5 py-0.5 text-xs font-medium capitalize', colorClass]}>
+        {category}
+      </span>
+      <time datetime={pubDate.toISOString()} class="text-xs text-gray-500">
+        {formattedDate}
+      </time>
+    </div>
+
+    <h2 class="mb-2 text-lg font-semibold text-gray-900 group-hover:text-brand-600">
+      <a href={`/blog/${slug}`} class="hover:underline">
+        {title}
+      </a>
+    </h2>
+
+    <p class="mb-4 text-sm leading-relaxed text-gray-600">
+      {description}
+    </p>
+
+    <a
+      href={`/blog/${slug}`}
+      class="text-sm font-medium text-brand-600 hover:text-brand-700"
+    >
+      Read more &rarr;
+    </a>
+  </div>
+</article>
