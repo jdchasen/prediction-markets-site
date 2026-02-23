@@ -1,5 +1,5 @@
 ---
-title: "5 Common Prediction Market Mistakes to Avoid"
+title: "5 Costly Prediction Market Mistakes (We Learned #1 the Hard Way)"
 description: "Avoid these costly prediction market mistakes. Learn what new traders get wrong and how to protect your capital from day one."
 pubDate: 2026-02-22
 category: "strategies"
@@ -17,7 +17,7 @@ Here is a concrete example. Say you spot a weather contract you like and buy Yes
 
 Now add fees. Kalshi charges roughly 2 cents on the buy side and 2 cents on the sell side for a contract in this price range. Some structures charge slightly more. After accounting for approximately 4 cents in round-trip fees, your 5-cent gross profit becomes a 1-cent net profit. Your 8.3% return just became 1.7%. Scale that across a hundred trades and you will wonder where all the money went.
 
-The fix is straightforward but requires discipline: **calculate your net profit after fees before you place any trade**. If a trade does not clear fees by a comfortable margin, skip it. As a rule of thumb, I look for at least a 7-to-10-cent expected edge before entering a position. Anything thinner and the fees eat too much of the upside. Beginners who trade on 3-cent or 4-cent edges thinking they will make it up in volume are slowly bleeding their accounts dry.
+The fix is straightforward but requires discipline: **calculate your net profit after fees before you place any trade**. If a trade does not clear fees by a comfortable margin, skip it. Our guide on [event contract pricing and probability](/blog/understanding-event-contract-pricing-and-probability) walks through the exact math for calculating edge after fees. As a rule of thumb, I look for at least a 7-to-10-cent expected edge before entering a position. Anything thinner and the fees eat too much of the upside. Beginners who trade on 3-cent or 4-cent edges thinking they will make it up in volume are slowly bleeding their accounts dry.
 
 ## 2. Overconcentrating on One Market Category
 
@@ -27,7 +27,7 @@ Weather markets are a good example. If you are exclusively trading temperature c
 
 The same problem shows up in financial markets. If all your capital is in S&P 500 range contracts and a surprise Fed announcement sends the index flying past your strikes, every position in your portfolio moves against you simultaneously.
 
-**Spread your capital across uncorrelated market categories.** A portfolio that includes weather contracts, economic event markets (like CPI or jobs reports), and financial range markets is far more resilient. When weather markets have a bad week, your economic positions are unaffected. When an unexpected rate decision blows up your Fed contracts, your temperature trades keep humming along. Diversification is not just a textbook concept -- it is the difference between a rough week and a blown account.
+**Spread your capital across uncorrelated market categories.** Our [best prediction market platforms guide](/blog/best-prediction-market-platforms) covers which platforms offer the widest market variety. A portfolio that includes weather contracts, economic event markets (like CPI or jobs reports), and financial range markets is far more resilient. When weather markets have a bad week, your economic positions are unaffected. When an unexpected rate decision blows up your Fed contracts, your temperature trades keep humming along. Diversification is not just a textbook concept -- it is the difference between a rough week and a blown account.
 
 ## 3. Trading Illiquid Markets
 
@@ -49,7 +49,7 @@ Financial range markets have their own quirks. An S&P 500 daily range contract s
 
 Economic event markets can be even more treacherous. A contract on whether monthly CPI will be above or below a certain number settles on the **initial release** from the Bureau of Labor Statistics, not on subsequent revisions. If the initial release comes in at 3.0% and the contract strike is 3.0%, you need to know exactly how the contract defines "above" versus "at or above."
 
-**Read the settlement rules for every contract you trade.** They are listed on the contract detail page on every reputable platform. Pay particular attention to the resolution source, the exact settlement time, and how boundary conditions are handled. A few minutes of reading can prevent a loss that feels unfair but is entirely your fault.
+**Read the settlement rules for every contract you trade.** They are listed on the contract detail page on every reputable platform. Pay particular attention to the resolution source, the exact settlement time, and how boundary conditions are handled. A few minutes of reading can prevent a loss that feels unfair but is entirely your fault. For practical examples of settlement quirks, see our guide on [trading weather markets on Kalshi](/blog/how-to-trade-weather-markets-on-kalshi).
 
 ## 5. Emotional Trading and Revenge Trading After Losses
 

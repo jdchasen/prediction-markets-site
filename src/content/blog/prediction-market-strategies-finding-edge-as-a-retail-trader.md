@@ -1,5 +1,5 @@
 ---
-title: "Prediction Market Strategies: Finding Edge as a Retail Trader"
+title: "How We Find Profitable Trades: Prediction Market Strategies That Actually Work"
 description: "Proven strategies for finding profitable trades in prediction markets. Learn how retail traders can compete with sophisticated players."
 pubDate: 2026-02-22
 category: "strategies"
@@ -23,7 +23,7 @@ On Kalshi, fees typically run around 7 cents round-trip per contract. That means
 
 ## Strategy 1: Weather Markets and Real-Time Data Advantages
 
-Weather markets on Kalshi are one of the best opportunities for retail traders to develop a systematic, repeatable edge. The reason is simple: professional-grade forecast data is freely available, the math for converting forecasts into probabilities is straightforward, and market prices frequently lag behind the latest forecast updates.
+Weather markets on Kalshi are one of the best opportunities for retail traders to develop a systematic, repeatable edge. We cover the full approach in our dedicated guide on [how to trade weather markets on Kalshi](/blog/how-to-trade-weather-markets-on-kalshi). The reason is simple: professional-grade forecast data is freely available, the math for converting forecasts into probabilities is straightforward, and market prices frequently lag behind the latest forecast updates.
 
 ### How the Edge Works
 
@@ -89,7 +89,7 @@ If a contract has a bid at $0.40 and an ask at $0.55, the midpoint is $0.475. If
 
 ### Cross-Platform Arbitrage
 
-Contracts on the same underlying event sometimes trade on both Kalshi and Polymarket. Price discrepancies between platforms create arbitrage opportunities. If a "Will the Fed cut rates in March?" contract trades at $0.35 on Kalshi and $0.40 on Polymarket, you can buy the cheap side and sell the expensive side for a near-riskless profit, adjusted for fees and settlement differences. These opportunities are rare and short-lived, but they exist, especially around major news events.
+Contracts on the same underlying event sometimes trade on both Kalshi and Polymarket. Our [Kalshi vs Polymarket comparison](/blog/kalshi-vs-polymarket-which-platform-should-you-use) covers the key differences between the two exchanges. Price discrepancies between platforms create arbitrage opportunities. If a "Will the Fed cut rates in March?" contract trades at $0.35 on Kalshi and $0.40 on Polymarket, you can buy the cheap side and sell the expensive side for a near-riskless profit, adjusted for fees and settlement differences. These opportunities are rare and short-lived, but they exist, especially around major news events.
 
 ## Position Sizing with the Kelly Criterion
 
@@ -126,5 +126,5 @@ The common thread: **information that updates faster than the prediction market 
 - **Range markets and liquidity gaps** create structural mispricings that more mature markets have already arbitraged away.
 - **Use the Kelly criterion** (fractional Kelly in practice) to size positions proportionally to your edge. Never risk more than 5% of your bankroll on a single contract.
 - **External data sources are your weapon.** NWS forecasts, options-implied vol, economic data feeds -- any information that updates faster than the market reprices is a source of edge.
-- **Automation amplifies every strategy.** A bot that monitors data feeds, calculates fair value, and executes trades in seconds will always outperform manual trading across dozens of contracts per day.
+- **Automation amplifies every strategy.** A bot that monitors data feeds, calculates fair value, and executes trades in seconds will always outperform manual trading across dozens of contracts per day. Learn how to build one in our [guide to prediction market APIs](/blog/how-to-use-apis-for-automated-prediction-market-trading).
 - **Track everything.** If your model says 70% and you are winning 55% of those trades, your model is wrong. Calibrate relentlessly or your edge will evaporate.

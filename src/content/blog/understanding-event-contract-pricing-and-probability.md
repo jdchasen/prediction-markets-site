@@ -1,5 +1,5 @@
 ---
-title: "Understanding Event Contract Pricing and Probability"
+title: "The Hidden Math Behind Event Contracts: Pricing, Probability, and Where the Edge Lives"
 description: "Master the relationship between event contract prices and implied probability. Learn how prediction market pricing works and how to spot mispriced contracts."
 pubDate: 2026-02-22
 category: "strategies"
@@ -33,7 +33,7 @@ Edge is the difference between your estimated probability and the market's impli
 
 **Edge = Your Estimated Probability - Market Implied Probability**
 
-Suppose you are a meteorologist, and you are looking at a contract on whether the daily high temperature in Chicago will exceed 35 degrees Fahrenheit tomorrow. The contract trades at $0.65 (implying 65%), but your weather model -- trained on local microclimate data, current pressure systems, and ensemble forecasts -- gives an 80% probability.
+Suppose you are a meteorologist, and you are looking at a contract on whether the daily high temperature in Chicago will exceed 35 degrees Fahrenheit tomorrow. (We cover this exact scenario in our guide on [trading weather markets on Kalshi](/blog/how-to-trade-weather-markets-on-kalshi).) The contract trades at $0.65 (implying 65%), but your weather model -- trained on local microclimate data, current pressure systems, and ensemble forecasts -- gives an 80% probability.
 
 Your edge is $0.80 - $0.65 = **$0.15**, or 15 cents per contract.
 
@@ -104,7 +104,7 @@ But efficiency breaks down in predictable ways:
 - **Temporal inefficiency**: Markets approaching settlement often become mispriced as liquidity providers withdraw and remaining participants trade on emotion rather than probability. Contracts with hours left to settle can deviate meaningfully from fair value.
 - **Bracket mispricing**: In range markets, individual brackets at the tails are frequently mispriced because fewer traders bother to model the full distribution. The market tends to focus on the most likely outcomes and neglect the edges.
 
-The systematic approach is to focus your efforts where you have a genuine informational or analytical advantage, and to avoid markets where you are just another noise trader.
+The systematic approach is to focus your efforts where you have a genuine informational or analytical advantage, and to avoid markets where you are just another noise trader. For concrete examples of how to apply these principles, see our [prediction market strategies guide](/blog/prediction-market-strategies-finding-edge-as-a-retail-trader).
 
 ## Building a Quantitative Framework
 
@@ -127,4 +127,4 @@ This process removes emotion from the equation and lets you evaluate your perfor
 - **Spreads are a hidden cost**: Factor the bid-ask spread into your edge calculation, especially in low-liquidity markets.
 - **Range markets create opportunity**: Bracket contracts express a full probability distribution. Mispricings at the tails are common because fewer traders model the extremes.
 - **Efficiency is uneven**: Popular markets are well-priced. Edge concentrates in niche markets, fast-moving news, and areas where you have domain expertise.
-- **Systematic beats discretionary**: Build a model, calculate edge, filter by threshold, size by Kelly, and track everything. Let the math compound over time.
+- **Systematic beats discretionary**: Build a model, calculate edge, filter by threshold, size by Kelly, and track everything. Let the math compound over time. If you are ready to automate this process, our [guide to building a trading bot](/blog/how-to-use-apis-for-automated-prediction-market-trading) shows you how.

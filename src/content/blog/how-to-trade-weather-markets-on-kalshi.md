@@ -1,5 +1,5 @@
 ---
-title: "How to Trade Weather Markets on Kalshi"
+title: "Trading the Weather: How We Turn Forecasts into Profits on Kalshi"
 description: "A practical guide to trading weather event contracts on Kalshi, from understanding temperature markets to building a data-driven edge."
 pubDate: 2026-02-22
 category: "kalshi"
@@ -39,7 +39,7 @@ This is where the opportunity lives. If your independent analysis says the proba
 
 The inverse works too. If the market prices a contract at $0.85 but your model says the true probability is only 70%, you can buy the No side at $0.15 and capture the difference.
 
-Understanding this probability-price equivalence is the foundation of every weather trading strategy.
+Understanding this probability-price equivalence is the foundation of every weather trading strategy. For a deeper dive into the math, see our guide on [event contract pricing and probability](/blog/understanding-event-contract-pricing-and-probability).
 
 ## Building an Edge with Forecast Data
 
@@ -98,7 +98,7 @@ Weather markets are one of the best candidates for automated trading on Kalshi, 
 
 An automated approach also removes the emotional element. When you are pricing 30 weather contracts per day, you do not want to be manually checking each one against a forecast. A bot can pull the latest NWS data, calculate fair value, compare it to the market price, and execute in seconds.
 
-If you are technically inclined, weather markets are an ideal place to start building a prediction market trading system. The data pipeline is clean, the contracts are simple, and the feedback loop is fast -- you know within a day whether your model was right.
+If you are technically inclined, weather markets are an ideal place to start building a prediction market trading system. Our [guide to prediction market APIs](/blog/how-to-use-apis-for-automated-prediction-market-trading) walks through the code for building an automated weather trading bot. The data pipeline is clean, the contracts are simple, and the feedback loop is fast -- you know within a day whether your model was right.
 
 ## Seasonal Patterns and Market Selection
 
@@ -128,4 +128,4 @@ Weather markets are low-stakes per contract (max loss is whatever you paid), but
 - **Automation is a natural fit** -- weather data is numerical, pricing math is simple, and Kalshi lists enough contracts to keep a systematic approach busy.
 - **Calibrate and track performance** relentlessly. Your sigma estimate is your edge. If it is wrong, your profitability disappears.
 
-Weather markets will not make you rich overnight, but they are one of the most intellectually honest trading opportunities on any prediction market platform. The data is public, the math is tractable, and the outcomes are unambiguous. If you are willing to put in the work to calibrate a model, the edge is real.
+Weather markets will not make you rich overnight, but they are one of the most intellectually honest trading opportunities on any prediction market platform. Weather is just one of several [strategies that work for retail traders](/blog/prediction-market-strategies-finding-edge-as-a-retail-trader). The data is public, the math is tractable, and the outcomes are unambiguous. If you are willing to put in the work to calibrate a model, the edge is real.

@@ -8,7 +8,7 @@ export async function GET(context: APIContext) {
   );
 
   return rss({
-    title: 'Prediction Market Pro',
+    title: 'Master Prediction Markets',
     description: 'Expert analysis, strategies, and guides for prediction market traders.',
     site: context.site!,
     items: posts.map((post) => ({

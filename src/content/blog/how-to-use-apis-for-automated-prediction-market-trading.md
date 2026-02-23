@@ -1,5 +1,5 @@
 ---
-title: "How to Use APIs for Automated Prediction Market Trading"
+title: "Build Your Own Trading Bot: A Developer's Guide to Prediction Market APIs"
 description: "Build automated trading systems for prediction markets using Kalshi and Polymarket APIs. Python examples and architecture guide."
 pubDate: 2026-02-22
 category: "strategies"
@@ -15,7 +15,7 @@ The case for automation goes beyond convenience. There are structural reasons wh
 
 ### Speed and Consistency
 
-When the National Weather Service updates its forecast and shifts Chicago's expected high by two degrees, the fair value of a dozen Kalshi weather contracts changes instantly. A bot monitoring the NWS API detects the shift, recalculates probabilities, and places orders within seconds. A manual trader checking the same forecast on a website might not notice for an hour -- by which time the market has already adjusted.
+When the National Weather Service updates its forecast and shifts Chicago's expected high by two degrees, the fair value of a dozen Kalshi weather contracts changes instantly. (We detail this exact strategy in our guide on [trading weather markets on Kalshi](/blog/how-to-trade-weather-markets-on-kalshi).) A bot monitoring the NWS API detects the shift, recalculates probabilities, and places orders within seconds. A manual trader checking the same forecast on a website might not notice for an hour -- by which time the market has already adjusted.
 
 ### Scale
 
@@ -208,7 +208,7 @@ Risk management is not optional. At minimum, your bot needs:
 
 ### Ignoring Fees in Edge Calculations
 
-A contract trading at 60 cents when your model says fair value is 64 cents looks like a 4-cent edge. After Kalshi's round-trip fees of approximately 7 cents, that trade is a loser. Always compute net expected profit after fees before executing. Many apparent edges evaporate once fees are included.
+A contract trading at 60 cents when your model says fair value is 64 cents looks like a 4-cent edge. After Kalshi's round-trip fees of approximately 7 cents, that trade is a loser. Always compute net expected profit after fees before executing. Many apparent edges evaporate once fees are included. This is one of the [5 costly mistakes](/blog/5-common-prediction-market-mistakes-to-avoid) that drain new trader accounts.
 
 ### Rate Limits
 
@@ -255,4 +255,4 @@ The most dangerous bugs in trading bots are order state management issues. An or
 - **Order state management is where bots blow up.** Reconcile your local position tracker with the exchange regularly, and build explicit guards against unintended short positions.
 - **Start with one market category** (weather is ideal due to clean data and fast feedback loops), prove your system works, then expand to other categories.
 
-Building an automated prediction market trading system is a serious engineering project, but the prediction market API landscape has matured enough that the infrastructure is no longer the hard part. The hard part is the same as it has always been: finding a genuine edge in your pricing model and managing risk while you exploit it.
+Building an automated prediction market trading system is a serious engineering project, but the prediction market API landscape has matured enough that the infrastructure is no longer the hard part. The hard part is the same as it has always been: finding a genuine edge in your pricing model and managing risk while you exploit it. For the strategy side of the equation, see our guide on [prediction market strategies that actually work](/blog/prediction-market-strategies-finding-edge-as-a-retail-trader).

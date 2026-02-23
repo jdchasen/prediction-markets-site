@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Content generation pipeline for Prediction Market Pro.
+Content generation pipeline for Master Prediction Markets.
 
 Usage:
   Single article:
@@ -34,7 +34,7 @@ except ImportError:
 CONTENT_DIR = Path(__file__).parent.parent / "src" / "content" / "blog"
 SITE_URL = "https://masterpredictionmarkets.com"
 
-SYSTEM_PROMPT = """You are an expert content writer for Prediction Market Pro, a site about prediction markets (Kalshi, Polymarket, event contracts). You write authoritative, SEO-optimized articles backed by real trading experience.
+SYSTEM_PROMPT = """You are an expert content writer for Master Prediction Markets, a site about prediction markets (Kalshi, Polymarket, event contracts). You write authoritative, SEO-optimized articles backed by real trading experience.
 
 Writing guidelines:
 - Write in a professional but accessible tone — like a knowledgeable friend explaining to a smart beginner
@@ -189,7 +189,7 @@ def process_csv(csv_path: str) -> list[dict]:
 
 
 def main():
-    parser = argparse.ArgumentParser(description='Generate SEO articles for Prediction Market Pro')
+    parser = argparse.ArgumentParser(description='Generate SEO articles for Master Prediction Markets')
     parser.add_argument('--topic', type=str, help='Article topic/title')
     parser.add_argument('--category', type=str, choices=['kalshi', 'polymarket', 'strategies', 'beginners'],
                         help='Article category')
