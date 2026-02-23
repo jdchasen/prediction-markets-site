@@ -11,7 +11,7 @@ Most prediction market traders lose money in their first few months. That is not
 
 ## 1. Ignoring the Impact of Fees
 
-This is the number one account killer for new traders, and it is the least obvious. On a platform like Kalshi, you pay fees on every trade -- both when you buy and when you sell. The fee structure typically runs around 7 cents per contract for a round-trip (buy and sell combined), with additional fees on settlement payouts. That might sound small, but it adds up fast and can turn apparently profitable trades into break-even or losing ones.
+This is the number one account killer for new traders, and it is the least obvious. On a platform like [Kalshi](https://kalshi.com/sign-up/?referral=f2e21ad4-75b7-4ffb-bfcc-f2fb36e07b21&m=true), you pay fees on every trade -- both when you buy and when you sell. The fee structure typically runs around 7 cents per contract for a round-trip (buy and sell combined), with additional fees on settlement payouts. That might sound small, but it adds up fast and can turn apparently profitable trades into break-even or losing ones.
 
 Here is a concrete example. Say you spot a weather contract you like and buy Yes at $0.60. The temperature comes in your direction, the contract moves up, and you sell at $0.65. On paper, you just made 5 cents per contract -- an 8.3% return on your capital. Sounds great.
 

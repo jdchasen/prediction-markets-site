@@ -7,7 +7,7 @@ tags: ["polymarket", "beginners", "crypto"]
 affiliate: "polymarket"
 ---
 
-The number one thing that stops people from trading on Polymarket is not understanding the markets -- it is figuring out how to get money onto the platform. Unlike [Kalshi, where you deposit dollars from your bank account](/blog/kalshi-review), Polymarket runs on **USDC on the Polygon network**. If those words mean nothing to you, do not worry. This guide walks through all three deposit methods step by step, including the common mistakes that cause people to lose money or wait days for stuck transactions.
+The number one thing that stops people from trading on [Polymarket](https://polymarket.us/1762) is not understanding the markets -- it is figuring out how to get money onto the platform. Unlike [Kalshi, where you deposit dollars from your bank account](/blog/kalshi-review), Polymarket runs on **USDC on the Polygon network**. If those words mean nothing to you, do not worry. This guide walks through all three deposit methods step by step, including the common mistakes that cause people to lose money or wait days for stuck transactions.
 
 ## What You Need to Know First
 

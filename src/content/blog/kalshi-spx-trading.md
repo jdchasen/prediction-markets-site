@@ -13,7 +13,7 @@ I trade these contracts daily, and they have become one of the most interesting 
 
 ## What Kalshi SPX Contracts Look Like
 
-Kalshi offers daily event contracts tied to the S&P 500 index closing price. The structure is a set of above/below strike contracts for a given trading day.
+[Kalshi](https://kalshi.com/sign-up/?referral=f2e21ad4-75b7-4ffb-bfcc-f2fb36e07b21&m=true) offers daily event contracts tied to the S&P 500 index closing price. The structure is a set of above/below strike contracts for a given trading day.
 
 For example, on a day when the S&P 500 is trading around 5,900, you might see contracts like:
 

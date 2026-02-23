@@ -21,7 +21,7 @@ Prediction markets are sometimes called "event markets," "decision markets," or 
 
 The idea is not new. Election betting has existed in organized form since at least the 1800s, when Wall Street curb exchanges offered wagers on presidential races. The modern era began with the Iowa Electronic Markets in 1988, an academic project at the University of Iowa that demonstrated prediction markets could outperform polls in forecasting elections.
 
-The 2020s brought an explosion of mainstream platforms. Kalshi received CFTC approval in 2020 to operate as a regulated exchange in the United States. Polymarket launched as a crypto-native alternative and grew rapidly during the 2024 U.S. presidential election cycle, processing hundreds of millions of dollars in volume. Today, prediction markets cover everything from weather and economics to sports and geopolitics.
+The 2020s brought an explosion of mainstream platforms. [Kalshi](https://kalshi.com/sign-up/?referral=f2e21ad4-75b7-4ffb-bfcc-f2fb36e07b21&m=true) received CFTC approval in 2020 to operate as a regulated exchange in the United States. [Polymarket](https://polymarket.us/1762) launched as a crypto-native alternative and grew rapidly during the 2024 U.S. presidential election cycle, processing hundreds of millions of dollars in volume. Today, prediction markets cover everything from weather and economics to sports and geopolitics.
 
 ## How Prediction Markets Work
 

@@ -7,7 +7,7 @@ tags: ["kalshi", "polymarket", "beginners"]
 affiliate: "kalshi"
 ---
 
-The two biggest names in prediction markets right now are Kalshi and Polymarket. One is a CFTC-regulated exchange built for US traders. The other is a crypto-native platform with global reach and massive liquidity on headline events. If you are deciding where to put your money -- or whether to use both -- the differences between these two platforms matter more than most comparisons let on.
+The two biggest names in prediction markets right now are [Kalshi](https://kalshi.com/sign-up/?referral=f2e21ad4-75b7-4ffb-bfcc-f2fb36e07b21&m=true) and [Polymarket](https://polymarket.us/1762). One is a CFTC-regulated exchange built for US traders. The other is a crypto-native platform with global reach and massive liquidity on headline events. If you are deciding where to put your money -- or whether to use both -- the differences between these two platforms matter more than most comparisons let on.
 
 We trade actively on both. This is not a surface-level overview pulled from marketing pages. This is a practical comparison from the perspective of traders who have placed thousands of contracts on each platform, dealt with their quirks, and learned where each one excels and falls short.
 

@@ -19,7 +19,7 @@ The price of the contract at any given time reflects the market's collective est
 
 You can buy or sell these contracts at any time before they settle, and your profit or loss is the difference between your entry price and either the settlement value ($1 or $0) or the price at which you sell.
 
-Here is a concrete example. Suppose Kalshi lists a contract: "Will the daily high temperature in Chicago exceed 40 degrees F on March 5?" The contract is currently trading at $0.65. If you buy one contract for $0.65 and the high temperature does exceed 40 degrees, the contract settles at $1.00 and you profit $0.35. If the temperature stays at or below 40 degrees, the contract settles at $0.00 and you lose your $0.65 stake.
+Here is a concrete example. Suppose [Kalshi](https://kalshi.com/sign-up/?referral=f2e21ad4-75b7-4ffb-bfcc-f2fb36e07b21&m=true) lists a contract: "Will the daily high temperature in Chicago exceed 40 degrees F on March 5?" The contract is currently trading at $0.65. If you buy one contract for $0.65 and the high temperature does exceed 40 degrees, the contract settles at $1.00 and you profit $0.35. If the temperature stays at or below 40 degrees, the contract settles at $0.00 and you lose your $0.65 stake.
 
 That is the entire mechanic. No leverage, no margin calls, no complex Greeks to calculate. Your maximum loss is always your purchase price.
 
@@ -86,7 +86,7 @@ Event contracts existed in legal gray areas for years. Platforms like Intrade an
 
 This was a watershed moment. It meant event contracts were recognized as legitimate financial instruments under US commodities law. It opened the door for regulated trading, proper fund segregation, and the kind of institutional trust that attracts real capital.
 
-Since then, the market has grown significantly. Kalshi has expanded its product lineup, Polymarket has become a major force in the crypto-based prediction market space, and other platforms have entered or are seeking regulatory approval. The total volume across prediction market platforms has grown from millions to billions of dollars annually.
+Since then, the market has grown significantly. Kalshi has expanded its product lineup, [Polymarket](https://polymarket.us/1762) has become a major force in the crypto-based prediction market space, and other platforms have entered or are seeking regulatory approval. The total volume across prediction market platforms has grown from millions to billions of dollars annually.
 
 The CFTC's ongoing engagement with event contracts -- including approvals for new contract types and enforcement actions against unregulated platforms -- suggests this is not a fad. Event contracts are becoming a permanent part of the financial landscape.
 

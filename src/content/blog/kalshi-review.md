@@ -7,7 +7,7 @@ tags: ["kalshi", "reviews", "prediction-markets"]
 affiliate: "kalshi"
 ---
 
-If you have been following prediction markets at all over the past few years, you have almost certainly come across Kalshi. It is the first CFTC-regulated prediction market exchange in the United States, and it has grown aggressively since launching in 2021. But the question most traders actually want answered is straightforward: is Kalshi worth trading on in 2026?
+If you have been following prediction markets at all over the past few years, you have almost certainly come across [Kalshi](https://kalshi.com/sign-up/?referral=f2e21ad4-75b7-4ffb-bfcc-f2fb36e07b21&m=true). It is the first CFTC-regulated prediction market exchange in the United States, and it has grown aggressively since launching in 2021. But the question most traders actually want answered is straightforward: is Kalshi worth trading on in 2026?
 
 We trade on Kalshi every day. Not a few casual bets here and there -- we run automated trading bots that execute hundreds of contracts across weather, economics, crypto, and financial markets. This review comes from that experience: thousands of trades, real P&L, and dealing with the platform's strengths and limitations firsthand.
 

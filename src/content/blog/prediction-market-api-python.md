@@ -9,7 +9,7 @@ affiliate: "kalshi"
 
 If you have been trading prediction markets manually -- refreshing pages, eyeballing prices, clicking buy buttons -- you are leaving money on the table. The edge in prediction markets often comes from speed and consistency: checking dozens of markets every few minutes, spotting mispriced contracts before the crowd, and executing without hesitation. You cannot do that by hand. You need code.
 
-This tutorial walks you through building a practical Python script that connects to the Kalshi API, fetches live market data, analyzes prices, and places orders. By the end, you will have a working price-checker that runs on a schedule and a foundation you can extend into a full trading bot.
+This tutorial walks you through building a practical Python script that connects to the [Kalshi](https://kalshi.com/sign-up/?referral=f2e21ad4-75b7-4ffb-bfcc-f2fb36e07b21&m=true) API, fetches live market data, analyzes prices, and places orders. By the end, you will have a working price-checker that runs on a schedule and a foundation you can extend into a full trading bot.
 
 We run automated trading systems on prediction markets every day. This guide reflects the patterns and pitfalls we have encountered in production. No toy examples -- everything here is designed to actually work.
 
@@ -405,7 +405,7 @@ def fetch_all_markets_throttled(session, tickers, delay=0.2):
 
 ## Connecting to Polymarket (Brief Overview)
 
-Polymarket uses a different architecture -- it is built on the Polygon blockchain, so interacting with it programmatically involves crypto libraries rather than simple REST calls. The basic setup:
+[Polymarket](https://polymarket.us/1762) uses a different architecture -- it is built on the Polygon blockchain, so interacting with it programmatically involves crypto libraries rather than simple REST calls. The basic setup:
 
 ```python
 # Polymarket uses the CLOB (Central Limit Order Book) API

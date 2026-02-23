@@ -7,7 +7,7 @@ tags: ["kalshi", "strategies"]
 affiliate: "kalshi"
 ---
 
-If you have traded on Kalshi for more than a week, you have probably noticed something uncomfortable: your winning trades do not feel like they pay as much as they should, and your losing trades sting more than expected. The reason is fees. Kalshi's fee structure is not outrageous by exchange standards, but it is significant enough that it can turn a profitable strategy into a losing one if you are not paying close attention.
+If you have traded on [Kalshi](https://kalshi.com/sign-up/?referral=f2e21ad4-75b7-4ffb-bfcc-f2fb36e07b21&m=true) for more than a week, you have probably noticed something uncomfortable: your winning trades do not feel like they pay as much as they should, and your losing trades sting more than expected. The reason is fees. Kalshi's fee structure is not outrageous by exchange standards, but it is significant enough that it can turn a profitable strategy into a losing one if you are not paying close attention.
 
 We run automated trading systems on Kalshi that execute hundreds of contracts per day. Fees are the single biggest line item in our cost structure -- larger than losses on bad trades in many weeks. This article breaks down exactly how Kalshi fees work, how they compound on small-edge trades, and what you can do to keep more of your profits.
 

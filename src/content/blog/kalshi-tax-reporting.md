@@ -7,7 +7,7 @@ tags: ["kalshi", "beginners"]
 affiliate: "kalshi"
 ---
 
-Nobody gets into prediction markets because they are excited about tax reporting. But if you are making money on Kalshi -- or even if you are losing money -- the IRS expects you to report it. And because Kalshi is a [CFTC-regulated exchange](/blog/is-kalshi-legal), it reports your activity directly to the IRS, so this is not something you can quietly ignore.
+Nobody gets into prediction markets because they are excited about tax reporting. But if you are making money on [Kalshi](https://kalshi.com/sign-up/?referral=f2e21ad4-75b7-4ffb-bfcc-f2fb36e07b21&m=true) -- or even if you are losing money -- the IRS expects you to report it. And because Kalshi is a [CFTC-regulated exchange](/blog/is-kalshi-legal), it reports your activity directly to the IRS, so this is not something you can quietly ignore.
 
 The good news is that the tax treatment of event contracts on a regulated exchange is more favorable than most people expect. The bad news is that the rules are not perfectly settled, and getting it right requires some attention to detail. This guide covers everything you need to know to file correctly and avoid surprises.
 
