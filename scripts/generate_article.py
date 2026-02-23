@@ -32,7 +32,7 @@ except ImportError:
     sys.exit(1)
 
 CONTENT_DIR = Path(__file__).parent.parent / "src" / "content" / "blog"
-SITE_URL = "https://predictionmarketpro.com"
+SITE_URL = "https://masterpredictionmarkets.com"
 
 SYSTEM_PROMPT = """You are an expert content writer for Prediction Market Pro, a site about prediction markets (Kalshi, Polymarket, event contracts). You write authoritative, SEO-optimized articles backed by real trading experience.
 
