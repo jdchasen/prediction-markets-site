@@ -1,0 +1,137 @@
+---
+title: "How to Calculate Implied Probability in Prediction Markets (With Worked Examples)"
+description: "Step-by-step guide to converting prediction market prices into implied probabilities, calculating expected value, and accounting for fees. Includes worked examples for Kalshi and Polymarket."
+pubDate: 2026-02-24
+category: "strategies"
+tags: ["strategies", "probability", "beginners", "kalshi"]
+affiliate: "kalshi"
+---
+
+Every prediction market contract has a price between $0.01 and $0.99, and that price tells you exactly what the market thinks the probability of the event is. If you can convert prices to probabilities accurately, account for fees, and calculate expected value, you have the foundation for every profitable trading decision you will ever make. This guide walks through the math step by step, with real examples you can apply immediately.
+
+## What Is Implied Probability?
+
+Implied probability is the probability of an event occurring as reflected by the current market price of a contract. The formula is simple:
+
+**Implied Probability = Contract Price / $1.00**
+
+A contract trading at $0.65 implies a 65% probability. A contract at $0.20 implies a 20% probability. This works because prediction market contracts pay out exactly $1.00 if the event occurs and $0.00 if it does not. The price you pay is your cost, and the $1.00 payout is your potential return.
+
+The mirror image matters too. If a YES contract trades at $0.65, the implied probability of the event NOT occurring is 35% -- which is why a NO contract on the same event would trade at approximately $0.35.
+
+## Step-by-Step: Converting Price to Probability
+
+Let's walk through two real examples to make this concrete.
+
+### Example 1: Weather Contract
+
+A contract on [Kalshi](https://kalshi.com/sign-up/?referral=f2e21ad4-75b7-4ffb-bfcc-f2fb36e07b21&m=true) asks: "Will the daily high temperature in Chicago exceed 40 degrees F tomorrow?" The YES contract is trading at $0.72.
+
+- **Implied probability of YES:** $0.72 / $1.00 = **72%**
+- **Implied probability of NO:** 1 - 0.72 = **28%**
+- **If you buy YES at $0.72 and win:** You receive $1.00, gross profit = $0.28
+- **If you buy YES at $0.72 and lose:** You receive $0.00, loss = $0.72
+
+The market is telling you there is a 72% chance the temperature will exceed 40 degrees. If your own analysis -- using NWS forecast data, for example -- says the probability is actually 85%, you have a potential edge. For a deeper dive into weather trading specifically, see our [guide to trading weather markets on Kalshi](/blog/how-to-trade-weather-markets-on-kalshi).
+
+### Example 2: Federal Reserve Decision
+
+A contract asks: "Will the Fed cut rates at the March FOMC meeting?" The YES contract is trading at $0.18.
+
+- **Implied probability of a rate cut:** $0.18 / $1.00 = **18%**
+- **Implied probability of NO cut:** 1 - 0.18 = **82%**
+- **If you buy YES at $0.18 and win:** Gross profit = $0.82
+- **If you buy YES at $0.18 and lose:** Loss = $0.18
+
+Notice the asymmetry: cheap contracts offer high potential returns but low probability. Expensive contracts offer small returns but high probability. Neither is inherently better -- what matters is whether the market price accurately reflects the true probability.
+
+## How Fees Change the Math
+
+This is where many traders make their first costly mistake. The raw implied probability does not account for platform fees, and fees shift your breakeven probability higher than the contract price alone suggests.
+
+On Kalshi, you pay a 7% fee on net profits from winning trades. This means if you buy a contract at $0.50 and it settles at $1.00, your gross profit is $0.50 but your net profit is $0.50 × 0.93 = $0.465. You keep 93 cents of every dollar of profit.
+
+On [Polymarket](https://polymarket.us/1762), there are no explicit trading fees, so the breakeven probability equals the implied probability.
+
+### Breakeven Probability Formula (Kalshi)
+
+Your breakeven probability -- the minimum true probability needed for a trade to be profitable on average -- is:
+
+**Breakeven = Cost / (Cost + (1 - Cost) × 0.93)**
+
+Here is how breakeven shifts at different price points:
+
+| Contract Price | Implied Probability | Breakeven (Kalshi) | Breakeven (No Fees) | Fee Impact |
+|---|---|---|---|---|
+| $0.20 | 20.0% | 21.2% | 20.0% | +1.2% |
+| $0.35 | 35.0% | 36.7% | 35.0% | +1.7% |
+| $0.50 | 50.0% | 51.8% | 50.0% | +1.8% |
+| $0.65 | 65.0% | 66.5% | 65.0% | +1.5% |
+| $0.80 | 80.0% | 81.2% | 80.0% | +1.2% |
+
+The fee impact is largest for contracts near $0.50 and smaller at the extremes. This is because mid-priced contracts have the most profit potential per dollar risked, so the percentage-based fee takes the biggest bite. For a complete breakdown of how Kalshi fees affect your trading, see our [detailed fees analysis](/blog/kalshi-fees-explained).
+
+> **Try it yourself:** Use our [Probability Calculator](/tools/probability-calculator) to instantly convert any contract price to implied probability, see breakeven with fees, and calculate expected value. No math required.
+
+## Calculating Expected Value
+
+Expected value (EV) is the single most important number in prediction market trading. It tells you the average profit or loss per contract over many trades, and it determines whether a trade is worth taking.
+
+**EV = (Your Probability × Net Win) - ((1 - Your Probability) × Cost)**
+
+Where:
+- **Net Win** = (1 - Price/100) × (1 - Fee Rate) -- your profit if you win, after fees
+- **Cost** = Price/100 -- what you pay per contract
+
+### Worked Example 1: Positive EV Trade
+
+You believe there is a 70% chance a weather event occurs. The contract is trading at $0.55 on Kalshi.
+
+- Cost per contract: $0.55
+- Net win per contract: ($1.00 - $0.55) × 0.93 = $0.4185
+- EV = (0.70 × $0.4185) - (0.30 × $0.55)
+- EV = $0.2930 - $0.1650 = **+$0.1280 per contract**
+
+This is a strong positive EV trade. Over 100 similar trades, you would expect to profit roughly $12.80 on average, assuming your 70% probability estimate is accurate.
+
+### Worked Example 2: Negative EV Trade (The Fee Trap)
+
+You think there is a 55% chance of an event. The contract is trading at $0.50 on Kalshi.
+
+- Cost per contract: $0.50
+- Net win per contract: $0.50 × 0.93 = $0.465
+- EV = (0.55 × $0.465) - (0.45 × $0.50)
+- EV = $0.2558 - $0.2250 = **+$0.0308 per contract**
+
+This trade is technically positive EV, but the edge is razor thin. A small error in your 55% probability estimate could flip it negative. This is why we recommend requiring at least a 5-10% edge above breakeven before entering a trade -- thin edges get consumed by estimation error and fees.
+
+### When to Walk Away
+
+If your EV calculation comes back negative, do not take the trade. It does not matter how confident you feel about the outcome. Negative EV means you lose money on average over many trades, and no amount of luck changes the long-run math.
+
+## Common Mistakes
+
+### 1. Anchoring on the Contract Price
+
+New traders often think a contract at $0.20 is "cheap" and therefore a good buy. But $0.20 implies a 20% chance -- meaning you lose this trade 80% of the time. If the true probability is also 20%, there is no edge and the trade is a waste of capital after fees. Price alone tells you nothing about value. Only the gap between implied probability and your estimated true probability matters.
+
+### 2. Ignoring Fees in Your Edge Calculation
+
+A 5-cent edge sounds profitable until you realize that Kalshi fees eat roughly 1.5-2 cents of that edge depending on the contract price. Always calculate breakeven probability with fees included, not the raw implied probability.
+
+### 3. Not Recalculating as Prices Move
+
+If you identified an edge at $0.50 and the contract has since moved to $0.58, your edge has shrunk by $0.08. Recalculate before deciding whether to enter or add to the position. Markets move, and an edge that existed an hour ago may no longer exist.
+
+## Putting It All Together
+
+Here is the workflow that we use for every trade:
+
+1. **Convert the contract price to implied probability.** This tells you what the market thinks.
+2. **Estimate your own probability.** Use data, models, or domain expertise -- not gut feeling.
+3. **Calculate breakeven probability with fees.** This is the hurdle your estimate must clear.
+4. **Compute expected value.** If EV is not clearly positive, skip the trade.
+5. **Size the position.** Use the [Kelly Calculator](/tools/kelly-calculator) to determine how many contracts to buy based on your edge and bankroll.
+6. **Track results.** Record every trade and compare your estimated probabilities against actual outcomes over time.
+
+This process takes the emotion out of trading and replaces it with math. Over hundreds of trades, disciplined application of these calculations is what separates profitable traders from everyone else. For a broader look at finding and exploiting edges, see our [prediction market strategies guide](/blog/prediction-market-strategies-finding-edge-as-a-retail-trader).

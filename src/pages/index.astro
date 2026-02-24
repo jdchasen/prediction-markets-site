@@ -5,9 +5,10 @@ import CTABanner from '../components/CTABanner.astro';
 import NewsletterForm from '../components/NewsletterForm.astro';
 import { getCollection } from 'astro:content';
 
-const allPosts = (await getCollection('blog')).sort(
-  (a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
-);
+const now = new Date();
+const allPosts = (await getCollection('blog'))
+  .filter((post) => post.data.pubDate.valueOf() <= now.valueOf())
+  .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
 
 const featuredPosts = allPosts.slice(0, 6);
 

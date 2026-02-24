@@ -57,7 +57,7 @@ A simple but effective approach: take the forecast high temperature and the expe
 
 For example, if the NWS forecasts a high of 72 degrees F for Austin on Thursday, and you estimate the forecast error at that lead time to be roughly 3 degrees F (one standard deviation), you can model the actual high as a normal distribution centered on 72 with a standard deviation of 3. The probability of exceeding a strike of 70 degrees would be approximately 75%.
 
-If the contract is trading at $0.60, you have a meaningful edge.
+If the contract is trading at $0.60, you have a meaningful edge. You can run this exact calculation using our [Probability Calculator](/tools/probability-calculator) — enter the contract price and your model probability to see the expected value after Kalshi fees.
 
 The key variable is **forecast error magnitude**, which depends heavily on:
 

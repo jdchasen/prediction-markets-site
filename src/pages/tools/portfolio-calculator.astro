@@ -1,0 +1,495 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import PlatformCTAs from '../../components/PlatformCTAs.astro';
+import NewsletterForm from '../../components/NewsletterForm.astro';
+---
+
+<BaseLayout
+  title="Portfolio Risk Calculator for Prediction Markets"
+  description="Analyze your prediction market portfolio risk. Calculate capital deployed, max loss, best/worst case P&L, and get warnings for concentration risk across Kalshi and Polymarket."
+>
+  <Fragment slot="head">
+    <script type="application/ld+json" set:html={JSON.stringify({
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "How do I calculate my total risk in prediction markets?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Your maximum loss equals your total capital deployed — the sum of (price × quantity) for every position. Since prediction market contracts settle at $0 or $1, you can lose your entire investment on any position. Add up the cost of all positions to find your total capital at risk."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is a good portfolio size for prediction market trading?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Most experienced traders recommend no single position should exceed 5% of your total bankroll, and no more than 25% in highly correlated positions. Diversify across market categories (weather, economics, politics) and platforms to reduce concentration risk."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How do fees affect prediction market portfolio returns?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Kalshi charges a 7% fee on net profits from winning trades. Polymarket has no explicit trading fees. Fees reduce your best-case returns but do not affect your worst-case loss. Always calculate expected returns after fees to get an accurate picture of portfolio performance."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Should I diversify across prediction market platforms?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Spreading positions across Kalshi and Polymarket reduces platform-specific risks like outages, regulatory changes, or resolution disputes. If more than 80% of your capital is on a single platform, consider rebalancing for better risk management."
+          }
+        }
+      ]
+    })} />
+    <script type="application/ld+json" set:html={JSON.stringify({
+      "@context": "https://schema.org",
+      "@type": "WebApplication",
+      "name": "Prediction Market Portfolio Risk Calculator",
+      "description": "Analyze portfolio risk, concentration, and expected returns for prediction market positions on Kalshi and Polymarket.",
+      "url": "https://masterpredictionmarkets.com/tools/portfolio-calculator",
+      "applicationCategory": "FinanceApplication",
+      "operatingSystem": "Any",
+      "offers": { "@type": "Offer", "price": "0", "priceCurrency": "USD" }
+    })} />
+  </Fragment>
+
+  <section class="bg-gradient-to-b from-brand-50 to-white py-12">
+    <div class="mx-auto max-w-6xl px-4">
+      <nav class="mb-6 text-sm text-gray-500">
+        <a href="/tools" class="hover:text-brand-600">Tools</a>
+        <span class="mx-2">/</span>
+        <span class="text-gray-900">Portfolio Calculator</span>
+      </nav>
+      <h1 class="mb-3 text-3xl font-bold tracking-tight text-gray-900 md:text-4xl">
+        Portfolio Risk Calculator
+      </h1>
+      <p class="max-w-2xl text-lg text-gray-600">
+        Add your prediction market positions to see total risk, best/worst case P&L, and concentration warnings. Accounts for Kalshi and Polymarket fee structures.
+      </p>
+    </div>
+  </section>
+
+  <section class="py-12">
+    <div class="mx-auto max-w-6xl px-4">
+      <!-- Risk Warnings -->
+      <div data-output="warnings" class="mb-6 space-y-3"></div>
+
+      <!-- Position Input Form -->
+      <div class="mb-8 rounded-lg border border-gray-200 bg-white p-6">
+        <div class="mb-4 flex items-center justify-between">
+          <h2 class="text-sm font-semibold uppercase tracking-wider text-gray-500">Positions</h2>
+          <button data-action="add-position" class="inline-flex items-center gap-1.5 rounded-md bg-brand-600 px-3 py-1.5 text-sm font-medium text-white transition-colors hover:bg-brand-700">
+            <svg class="h-4 w-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 4v16m8-8H4" /></svg>
+            Add Position
+          </button>
+        </div>
+
+        <div data-output="positions" class="space-y-4">
+          <!-- Positions rendered by JS -->
+        </div>
+
+        <p data-output="empty-state" class="py-8 text-center text-sm text-gray-400">Click "Add Position" to get started.</p>
+      </div>
+
+      <!-- Results Grid -->
+      <div data-output="results" class="hidden grid grid-cols-1 gap-6 lg:grid-cols-2">
+        <!-- Summary Panel -->
+        <div class="rounded-lg border border-gray-200 bg-white p-6">
+          <h2 class="mb-4 text-sm font-semibold uppercase tracking-wider text-gray-500">Portfolio Summary</h2>
+          <div class="space-y-3">
+            <div class="flex items-center justify-between">
+              <span class="text-sm text-gray-600">Total Positions</span>
+              <span data-output="total-positions" class="text-lg font-bold text-gray-900">0</span>
+            </div>
+            <div class="flex items-center justify-between">
+              <span class="text-sm text-gray-600">Capital Deployed</span>
+              <span data-output="capital-deployed" class="text-lg font-bold text-gray-900">$0.00</span>
+            </div>
+            <div class="flex items-center justify-between">
+              <span class="text-sm text-gray-600">Max Loss (all lose)</span>
+              <span data-output="max-loss" class="text-lg font-bold text-red-600">-$0.00</span>
+            </div>
+            <hr class="border-gray-100" />
+            <div class="flex items-center justify-between">
+              <span class="text-sm text-gray-600">Best Case P&L (all win)</span>
+              <span data-output="best-case" class="text-lg font-bold text-green-600">+$0.00</span>
+            </div>
+            <div class="flex items-center justify-between">
+              <span class="text-sm text-gray-600">Worst Case P&L (all lose)</span>
+              <span data-output="worst-case" class="text-lg font-bold text-red-600">-$0.00</span>
+            </div>
+            <hr class="border-gray-100" />
+            <div class="flex items-center justify-between">
+              <span class="text-sm text-gray-600">Avg Position Size</span>
+              <span data-output="avg-position" class="text-sm font-medium text-gray-900">$0.00</span>
+            </div>
+            <div class="flex items-center justify-between">
+              <span class="text-sm text-gray-600">Largest Position</span>
+              <span data-output="largest-position" class="text-sm font-medium text-gray-900">$0.00</span>
+            </div>
+          </div>
+        </div>
+
+        <!-- Position Table -->
+        <div class="rounded-lg border border-gray-200 bg-white p-6">
+          <h2 class="mb-4 text-sm font-semibold uppercase tracking-wider text-gray-500">Position Breakdown</h2>
+          <div class="overflow-x-auto">
+            <table class="w-full text-sm">
+              <thead>
+                <tr class="border-b border-gray-200 text-left">
+                  <th class="pb-2 font-medium text-gray-500">Name</th>
+                  <th class="pb-2 font-medium text-gray-500">Side</th>
+                  <th class="pb-2 font-medium text-gray-500">Cost</th>
+                  <th class="pb-2 font-medium text-gray-500">% Port</th>
+                  <th class="pb-2 font-medium text-gray-500">If Win</th>
+                  <th class="pb-2 font-medium text-gray-500">If Lose</th>
+                </tr>
+              </thead>
+              <tbody data-output="position-table" class="divide-y divide-gray-100">
+              </tbody>
+            </table>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Explanation -->
+  <section class="border-t border-gray-100 py-12">
+    <div class="mx-auto max-w-3xl px-4">
+      <h2 class="mb-6 text-2xl font-bold text-gray-900">How Portfolio Risk Works in Prediction Markets</h2>
+      <div class="space-y-4 text-sm leading-relaxed text-gray-600">
+        <p>
+          Every prediction market position has a defined maximum loss: the amount you paid to enter. If you buy 10 YES contracts at $0.40 each, your cost is $4.00 and your maximum loss is $4.00. Unlike stocks or options, there is no margin and no possibility of losing more than you invested.
+        </p>
+        <p>
+          The danger is not any single position — it is concentration. If three of your positions are all weather contracts in the same region, a single weather pattern can move all of them against you simultaneously. Similarly, putting most of your capital on one platform exposes you to platform-specific risks like outages or regulatory changes.
+        </p>
+        <p>
+          This calculator helps you visualize your total exposure, identify concentration risks, and understand the range of outcomes for your current portfolio. Use it alongside the <a href="/tools/kelly-calculator" class="text-brand-600 hover:text-brand-700 underline">Kelly Calculator</a> to ensure each position is properly sized, and the <a href="/tools/probability-calculator" class="text-brand-600 hover:text-brand-700 underline">Probability Calculator</a> to verify each trade has positive expected value before adding it to your portfolio.
+        </p>
+      </div>
+
+      <!-- FAQ -->
+      <div class="mt-10 space-y-4">
+        <h2 class="text-2xl font-bold text-gray-900">Frequently Asked Questions</h2>
+        <details class="rounded-lg border border-gray-200 bg-white">
+          <summary class="cursor-pointer px-5 py-3 text-sm font-medium text-gray-900">How do I calculate my total risk in prediction markets?</summary>
+          <p class="px-5 pb-4 text-sm text-gray-600">Your maximum loss equals your total capital deployed — the sum of (price × quantity) for every position. Since contracts settle at $0 or $1, you can lose your entire investment on any single position. The portfolio calculator adds up all position costs to show your total capital at risk.</p>
+        </details>
+        <details class="rounded-lg border border-gray-200 bg-white">
+          <summary class="cursor-pointer px-5 py-3 text-sm font-medium text-gray-900">What is a good portfolio size for prediction markets?</summary>
+          <p class="px-5 pb-4 text-sm text-gray-600">Keep any single position under 5% of your total bankroll, and avoid having more than 25% in highly correlated positions (e.g., multiple weather contracts in the same region). Diversify across categories and platforms to reduce risk.</p>
+        </details>
+        <details class="rounded-lg border border-gray-200 bg-white">
+          <summary class="cursor-pointer px-5 py-3 text-sm font-medium text-gray-900">How do fees affect my portfolio returns?</summary>
+          <p class="px-5 pb-4 text-sm text-gray-600">Kalshi charges a 7% fee on net profits from winning trades. Polymarket has no explicit fees. Fees reduce your upside on winning positions but do not change your downside. The calculator accounts for fees in the "If Win" column so you see realistic net returns.</p>
+        </details>
+        <details class="rounded-lg border border-gray-200 bg-white">
+          <summary class="cursor-pointer px-5 py-3 text-sm font-medium text-gray-900">Should I diversify across prediction market platforms?</summary>
+          <p class="px-5 pb-4 text-sm text-gray-600">Yes. Spreading positions across Kalshi and Polymarket reduces platform-specific risks. The calculator flags when more than 80% of your capital is concentrated on a single platform.</p>
+        </details>
+      </div>
+    </div>
+  </section>
+
+  <section class="py-12">
+    <div class="mx-auto max-w-3xl px-4 space-y-6">
+      <PlatformCTAs />
+      <NewsletterForm variant="banner" />
+    </div>
+  </section>
+</BaseLayout>
+
+<script>
+  interface Position {
+    id: number;
+    name: string;
+    side: 'YES' | 'NO';
+    price: number;
+    qty: number;
+    platform: 'kalshi' | 'polymarket';
+    category: string;
+  }
+
+  let positions: Position[] = [];
+  let nextId = 1;
+
+  const categories = ['Weather', 'Economics', 'Crypto', 'Politics', 'Sports', 'Financial', 'Other'];
+
+  const positionsContainer = document.querySelector('[data-output="positions"]') as HTMLElement;
+  const emptyState = document.querySelector('[data-output="empty-state"]') as HTMLElement;
+  const resultsPanel = document.querySelector('[data-output="results"]') as HTMLElement;
+  const warningsContainer = document.querySelector('[data-output="warnings"]') as HTMLElement;
+  const addBtn = document.querySelector('[data-action="add-position"]') as HTMLButtonElement;
+
+  addBtn.addEventListener('click', () => {
+    if (positions.length >= 20) return;
+    addPosition();
+  });
+
+  function addPosition() {
+    const pos: Position = {
+      id: nextId++,
+      name: '',
+      side: 'YES',
+      price: 50,
+      qty: 1,
+      platform: 'kalshi',
+      category: 'Other',
+    };
+    positions.push(pos);
+    renderPositions();
+    calculate();
+  }
+
+  function removePosition(id: number) {
+    positions = positions.filter(p => p.id !== id);
+    renderPositions();
+    calculate();
+  }
+
+  function renderPositions() {
+    emptyState.classList.toggle('hidden', positions.length > 0);
+
+    positionsContainer.innerHTML = '';
+    for (const pos of positions) {
+      const row = document.createElement('div');
+      row.className = 'rounded-md border border-gray-200 bg-gray-50 p-4';
+      row.innerHTML = `
+        <div class="flex items-start gap-3">
+          <div class="grid flex-1 grid-cols-2 gap-3 sm:grid-cols-3 lg:grid-cols-6">
+            <div class="col-span-2 sm:col-span-1 lg:col-span-2">
+              <label class="mb-1 block text-xs font-medium text-gray-500">Contract Name</label>
+              <input type="text" data-field="name" data-id="${pos.id}" value="${escapeHtml(pos.name)}" placeholder="e.g. S&P 500 > 6000"
+                class="w-full rounded-md border border-gray-300 px-2.5 py-1.5 text-sm focus:border-brand-500 focus:outline-none focus:ring-1 focus:ring-brand-500" />
+            </div>
+            <div>
+              <label class="mb-1 block text-xs font-medium text-gray-500">Side</label>
+              <div class="flex rounded-md border border-gray-300 bg-white">
+                <button data-field="side-yes" data-id="${pos.id}"
+                  class="flex-1 rounded-l-md px-2 py-1.5 text-xs font-medium transition-colors ${pos.side === 'YES' ? 'bg-green-100 text-green-700' : 'text-gray-500 hover:bg-gray-50'}">YES</button>
+                <button data-field="side-no" data-id="${pos.id}"
+                  class="flex-1 rounded-r-md px-2 py-1.5 text-xs font-medium transition-colors ${pos.side === 'NO' ? 'bg-red-100 text-red-700' : 'text-gray-500 hover:bg-gray-50'}">NO</button>
+              </div>
+            </div>
+            <div>
+              <label class="mb-1 block text-xs font-medium text-gray-500">Price (¢)</label>
+              <input type="number" data-field="price" data-id="${pos.id}" min="1" max="99" value="${pos.price}"
+                class="w-full rounded-md border border-gray-300 px-2.5 py-1.5 text-sm text-center focus:border-brand-500 focus:outline-none focus:ring-1 focus:ring-brand-500" />
+            </div>
+            <div>
+              <label class="mb-1 block text-xs font-medium text-gray-500">Qty</label>
+              <input type="number" data-field="qty" data-id="${pos.id}" min="1" max="10000" value="${pos.qty}"
+                class="w-full rounded-md border border-gray-300 px-2.5 py-1.5 text-sm text-center focus:border-brand-500 focus:outline-none focus:ring-1 focus:ring-brand-500" />
+            </div>
+            <div>
+              <label class="mb-1 block text-xs font-medium text-gray-500">Platform</label>
+              <select data-field="platform" data-id="${pos.id}"
+                class="w-full rounded-md border border-gray-300 px-2 py-1.5 text-sm focus:border-brand-500 focus:outline-none focus:ring-1 focus:ring-brand-500">
+                <option value="kalshi" ${pos.platform === 'kalshi' ? 'selected' : ''}>Kalshi</option>
+                <option value="polymarket" ${pos.platform === 'polymarket' ? 'selected' : ''}>Polymarket</option>
+              </select>
+            </div>
+            <div>
+              <label class="mb-1 block text-xs font-medium text-gray-500">Category</label>
+              <select data-field="category" data-id="${pos.id}"
+                class="w-full rounded-md border border-gray-300 px-2 py-1.5 text-sm focus:border-brand-500 focus:outline-none focus:ring-1 focus:ring-brand-500">
+                ${categories.map(c => `<option value="${c}" ${pos.category === c ? 'selected' : ''}>${c}</option>`).join('')}
+              </select>
+            </div>
+          </div>
+          <button data-action="remove" data-id="${pos.id}" class="mt-5 flex-shrink-0 rounded p-1 text-gray-400 transition-colors hover:bg-red-50 hover:text-red-500" title="Remove position">
+            <svg class="h-5 w-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" /></svg>
+          </button>
+        </div>
+      `;
+      positionsContainer.appendChild(row);
+    }
+
+    // Bind events
+    positionsContainer.querySelectorAll('[data-action="remove"]').forEach(btn => {
+      btn.addEventListener('click', () => {
+        const id = parseInt((btn as HTMLElement).dataset.id!);
+        removePosition(id);
+      });
+    });
+
+    positionsContainer.querySelectorAll('[data-field="name"]').forEach(el => {
+      el.addEventListener('input', () => {
+        const id = parseInt((el as HTMLElement).dataset.id!);
+        const pos = positions.find(p => p.id === id);
+        if (pos) { pos.name = (el as HTMLInputElement).value; calculate(); }
+      });
+    });
+
+    positionsContainer.querySelectorAll('[data-field="price"]').forEach(el => {
+      el.addEventListener('input', () => {
+        const id = parseInt((el as HTMLElement).dataset.id!);
+        const pos = positions.find(p => p.id === id);
+        if (pos) { pos.price = Math.min(99, Math.max(1, parseInt((el as HTMLInputElement).value) || 1)); calculate(); }
+      });
+    });
+
+    positionsContainer.querySelectorAll('[data-field="qty"]').forEach(el => {
+      el.addEventListener('input', () => {
+        const id = parseInt((el as HTMLElement).dataset.id!);
+        const pos = positions.find(p => p.id === id);
+        if (pos) { pos.qty = Math.max(1, parseInt((el as HTMLInputElement).value) || 1); calculate(); }
+      });
+    });
+
+    positionsContainer.querySelectorAll('[data-field="side-yes"]').forEach(btn => {
+      btn.addEventListener('click', () => {
+        const id = parseInt((btn as HTMLElement).dataset.id!);
+        const pos = positions.find(p => p.id === id);
+        if (pos) { pos.side = 'YES'; renderPositions(); calculate(); }
+      });
+    });
+
+    positionsContainer.querySelectorAll('[data-field="side-no"]').forEach(btn => {
+      btn.addEventListener('click', () => {
+        const id = parseInt((btn as HTMLElement).dataset.id!);
+        const pos = positions.find(p => p.id === id);
+        if (pos) { pos.side = 'NO'; renderPositions(); calculate(); }
+      });
+    });
+
+    positionsContainer.querySelectorAll('[data-field="platform"]').forEach(el => {
+      el.addEventListener('change', () => {
+        const id = parseInt((el as HTMLElement).dataset.id!);
+        const pos = positions.find(p => p.id === id);
+        if (pos) { pos.platform = (el as HTMLSelectElement).value as 'kalshi' | 'polymarket'; calculate(); }
+      });
+    });
+
+    positionsContainer.querySelectorAll('[data-field="category"]').forEach(el => {
+      el.addEventListener('change', () => {
+        const id = parseInt((el as HTMLElement).dataset.id!);
+        const pos = positions.find(p => p.id === id);
+        if (pos) { pos.category = (el as HTMLSelectElement).value; calculate(); }
+      });
+    });
+  }
+
+  function escapeHtml(str: string): string {
+    return str.replace(/&/g, '&amp;').replace(/"/g, '&quot;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+  }
+
+  function calculate() {
+    if (positions.length === 0) {
+      resultsPanel.classList.add('hidden');
+      warningsContainer.innerHTML = '';
+      return;
+    }
+
+    resultsPanel.classList.remove('hidden');
+
+    const posData = positions.map(p => {
+      const cost = (p.price / 100) * p.qty;
+      const feeRate = p.platform === 'kalshi' ? 0.07 : 0;
+      const winProfit = ((1 - p.price / 100) * (1 - feeRate)) * p.qty;
+      const loseLoss = -cost;
+      return { ...p, cost, winProfit, loseLoss, feeRate };
+    });
+
+    const totalCapital = posData.reduce((s, p) => s + p.cost, 0);
+    const bestCase = posData.reduce((s, p) => s + p.winProfit, 0);
+    const worstCase = -totalCapital;
+    const costs = posData.map(p => p.cost);
+    const avgPos = totalCapital / posData.length;
+    const largestPos = Math.max(...costs);
+
+    setText('total-positions', String(posData.length));
+    setText('capital-deployed', '$' + totalCapital.toFixed(2));
+    setText('max-loss', '-$' + totalCapital.toFixed(2));
+    setText('best-case', '+$' + bestCase.toFixed(2));
+    setText('worst-case', '-$' + totalCapital.toFixed(2));
+    setText('avg-position', '$' + avgPos.toFixed(2));
+    setText('largest-position', '$' + largestPos.toFixed(2));
+
+    // Position table
+    const tbody = document.querySelector('[data-output="position-table"]') as HTMLElement;
+    tbody.innerHTML = '';
+    for (const p of posData) {
+      const pctPort = totalCapital > 0 ? (p.cost / totalCapital * 100) : 0;
+      const tr = document.createElement('tr');
+      tr.innerHTML = `
+        <td class="py-2 text-gray-900 max-w-[120px] truncate" title="${escapeHtml(p.name || '(unnamed)')}">${escapeHtml(p.name || '(unnamed)')}</td>
+        <td class="py-2"><span class="inline-block rounded px-1.5 py-0.5 text-xs font-medium ${p.side === 'YES' ? 'bg-green-100 text-green-700' : 'bg-red-100 text-red-700'}">${p.side}</span></td>
+        <td class="py-2 text-gray-900">$${p.cost.toFixed(2)}</td>
+        <td class="py-2 text-gray-900">${pctPort.toFixed(1)}%</td>
+        <td class="py-2 font-medium text-green-600">+$${p.winProfit.toFixed(2)}</td>
+        <td class="py-2 font-medium text-red-600">-$${p.cost.toFixed(2)}</td>
+      `;
+      tbody.appendChild(tr);
+    }
+
+    // Risk warnings
+    const warnings: { level: 'red' | 'amber' | 'blue'; message: string }[] = [];
+
+    // Red: largest position > 50% of capital
+    if (totalCapital > 0 && largestPos / totalCapital > 0.5) {
+      warnings.push({ level: 'red', message: 'Your largest position exceeds 50% of total capital. A single loss could wipe out more than half your portfolio.' });
+    }
+
+    // Amber: single position > 25% of capital
+    if (totalCapital > 0 && largestPos / totalCapital > 0.25 && largestPos / totalCapital <= 0.5) {
+      warnings.push({ level: 'amber', message: 'A single position exceeds 25% of your capital. Consider reducing concentration to limit downside.' });
+    }
+
+    // Amber: 2+ positions in same category
+    const catCounts: Record<string, number> = {};
+    for (const p of posData) {
+      catCounts[p.category] = (catCounts[p.category] || 0) + 1;
+    }
+    const correlatedCats = Object.entries(catCounts).filter(([_, count]) => count >= 2).map(([cat]) => cat);
+    if (correlatedCats.length > 0) {
+      warnings.push({ level: 'amber', message: `Multiple positions in the same category (${correlatedCats.join(', ')}). Correlated positions amplify risk — if one loses, others may too.` });
+    }
+
+    // Blue: > 80% capital on one platform
+    const platformCapital: Record<string, number> = {};
+    for (const p of posData) {
+      platformCapital[p.platform] = (platformCapital[p.platform] || 0) + p.cost;
+    }
+    for (const [platform, capital] of Object.entries(platformCapital)) {
+      if (totalCapital > 0 && capital / totalCapital > 0.8 && Object.keys(platformCapital).length > 1) {
+        const name = platform === 'kalshi' ? 'Kalshi' : 'Polymarket';
+        warnings.push({ level: 'blue', message: `Over 80% of capital is on ${name}. Consider spreading across platforms to reduce platform-specific risk.` });
+      }
+    }
+
+    warningsContainer.innerHTML = '';
+    const colorMap = {
+      red: { bg: 'bg-red-50', border: 'border-red-200', icon: 'text-red-600', title: 'text-red-800', text: 'text-red-700' },
+      amber: { bg: 'bg-amber-50', border: 'border-amber-200', icon: 'text-amber-600', title: 'text-amber-800', text: 'text-amber-700' },
+      blue: { bg: 'bg-blue-50', border: 'border-blue-200', icon: 'text-blue-600', title: 'text-blue-800', text: 'text-blue-700' },
+    };
+    for (const w of warnings) {
+      const c = colorMap[w.level];
+      const div = document.createElement('div');
+      div.className = `rounded-lg border ${c.border} ${c.bg} p-4`;
+      div.innerHTML = `
+        <div class="flex items-start gap-3">
+          <svg class="mt-0.5 h-5 w-5 flex-shrink-0 ${c.icon}" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 9v2m0 4h.01m-6.938 4h13.856c1.54 0 2.502-1.667 1.732-2.5L13.732 4c-.77-.833-1.964-.833-2.732 0L4.072 16.5c-.77.833.192 2.5 1.732 2.5z" />
+          </svg>
+          <p class="text-sm ${c.text}">${w.message}</p>
+        </div>
+      `;
+      warningsContainer.appendChild(div);
+    }
+  }
+
+  function setText(key: string, value: string) {
+    const el = document.querySelector(`[data-output="${key}"]`);
+    if (el) el.textContent = value;
+  }
+</script>

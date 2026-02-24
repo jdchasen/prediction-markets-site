@@ -13,7 +13,7 @@ Most retail traders approach prediction markets the same way they approach sport
 
 Before diving into specific strategies, you need to internalize one concept: every prediction market contract price is an implied probability, and your job is to find contracts where that implied probability is wrong.
 
-If a contract trades at $0.50, the market is saying there is a 50% chance the event occurs. If your independent analysis puts the true probability at 65%, you have a 15-cent edge. Buy the contract, and over a large enough sample of similar trades, you will profit.
+If a contract trades at $0.50, the market is saying there is a 50% chance the event occurs. If your independent analysis puts the true probability at 65%, you have a 15-cent edge. Buy the contract, and over a large enough sample of similar trades, you will profit. Use our [Probability Calculator](/tools/probability-calculator) to instantly convert any contract price to implied probability and calculate expected value after fees.
 
 The critical follow-up question is: **how do you know the true probability better than the market?** That is where strategy comes in. You need an information source, a model, or a timing advantage that the majority of market participants do not have -- or are not using efficiently.
 
@@ -89,7 +89,7 @@ If a contract has a bid at $0.40 and an ask at $0.55, the midpoint is $0.475. If
 
 ### Cross-Platform Arbitrage
 
-Contracts on the same underlying event sometimes trade on both Kalshi and Polymarket. Our [Kalshi vs Polymarket comparison](/blog/kalshi-vs-polymarket-which-platform-should-you-use) covers the key differences between the two exchanges. Price discrepancies between platforms create arbitrage opportunities. If a "Will the Fed cut rates in March?" contract trades at $0.35 on Kalshi and $0.40 on Polymarket, you can buy the cheap side and sell the expensive side for a near-riskless profit, adjusted for fees and settlement differences. These opportunities are rare and short-lived, but they exist, especially around major news events.
+Contracts on the same underlying event sometimes trade on both Kalshi and Polymarket. Our [Kalshi vs Polymarket comparison](/blog/kalshi-vs-polymarket-which-platform-should-you-use) covers the key differences between the two exchanges. Price discrepancies between platforms create arbitrage opportunities. If a "Will the Fed cut rates in March?" contract trades at $0.35 on Kalshi and $0.40 on Polymarket, you can buy the cheap side and sell the expensive side for a near-riskless profit, adjusted for fees and settlement differences. Use our [Arbitrage Scanner](/tools/arbitrage-scanner) to calculate guaranteed profits after fees for any cross-platform price discrepancy. These opportunities are rare and short-lived, but they exist, especially around major news events.
 
 ## Position Sizing with the Kelly Criterion
 
@@ -99,7 +99,7 @@ The Kelly criterion provides a mathematically optimal sizing formula: **Kelly fr
 
 In practice, full Kelly is too aggressive for most traders. The standard approach is **fractional Kelly**, typically one-quarter to one-half of the Kelly-optimal bet size. This sacrifices some theoretical growth for significantly reduced drawdown risk.
 
-A few practical Kelly rules:
+Use our [Kelly Criterion Calculator](/tools/kelly-calculator) to find the exact optimal bet size for any trade — it accounts for platform fees and shows full, half, and quarter Kelly recommendations. A few practical Kelly rules:
 
 - **Never bet more than 5% of your bankroll on a single contract**, regardless of what Kelly suggests. Model uncertainty means your edge estimate is itself uncertain.
 - **Set a Kelly floor.** If Kelly sizing suggests fewer than 3 contracts, the edge probably is not worth trading after fees.

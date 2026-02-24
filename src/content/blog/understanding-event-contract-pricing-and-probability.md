@@ -25,7 +25,7 @@ This is not an approximation or a rough heuristic. Under risk-neutral pricing as
 
 **Fair Price = Probability of Yes x $1.00 + Probability of No x $0.00 = Probability of Yes**
 
-When the market price deviates from the true probability, there is an opportunity. The challenge, of course, is knowing the true probability better than the crowd.
+When the market price deviates from the true probability, there is an opportunity. The challenge, of course, is knowing the true probability better than the crowd. Our [Probability Calculator](/tools/probability-calculator) makes this comparison easy — enter the contract price and your estimated probability to see your edge and expected value instantly.
 
 ## Calculating Your Edge
 
@@ -113,7 +113,7 @@ Successful prediction market traders do not trade on gut feeling. They build mod
 1. **Estimate**: Run your model to produce a probability (or probability distribution for range markets).
 2. **Compare**: Calculate the edge by subtracting the market's implied probability from your estimate.
 3. **Filter**: Discard trades where the edge does not exceed your minimum threshold (typically 2-3x round-trip fees).
-4. **Size**: Use a position-sizing method like the Kelly criterion to determine how many contracts to buy, scaled down for model uncertainty.
+4. **Size**: Use the [Kelly Criterion Calculator](/tools/kelly-calculator) to determine how many contracts to buy, scaled down for model uncertainty.
 5. **Execute**: Place orders, accounting for the bid-ask spread and expected fill quality.
 6. **Track**: Record every trade, monitor calibration over time, and refine your model based on results.
 

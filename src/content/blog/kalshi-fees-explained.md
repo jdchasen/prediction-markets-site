@@ -62,7 +62,7 @@ Now consider a more common scenario. You think a contract priced at $0.52 should
 - Net profit: **$0.50**
 - Fee as percentage of gross profit: **80%**
 
-That 5-cent edge just became a 1-cent net edge after fees. And if the price only moves to $0.55 instead of $0.57, you are actually losing money after fees on a trade where your directional call was correct.
+That 5-cent edge just became a 1-cent net edge after fees. And if the price only moves to $0.55 instead of $0.57, you are actually losing money after fees on a trade where your directional call was correct. Use our [Probability Calculator](/tools/probability-calculator) to see exactly how fees shift your breakeven on any contract.
 
 ### Example 3: Rapid Scalping
 
@@ -93,7 +93,7 @@ To break even on fees alone, you need to generate $240-$360 per month in gross p
 
 ### 1. Only Trade When Your Edge Exceeds the Fee Hurdle
 
-This is the most important rule. For a round-trip trade (buy then sell), your minimum edge needs to be at least 4 cents per contract just to cover fees. In practice, you want at least a 7-8 cent edge to make the trade worthwhile after accounting for the times your edge estimate is wrong.
+This is the most important rule. For a round-trip trade (buy then sell), your minimum edge needs to be at least 4 cents per contract just to cover fees. In practice, you want at least a 7-8 cent edge to make the trade worthwhile after accounting for the times your edge estimate is wrong. The [Probability Calculator](/tools/probability-calculator) shows your breakeven probability with fees built in, so you can instantly see whether your estimated edge clears the hurdle.
 
 For trades you intend to hold to settlement, the hurdle is lower since you only pay the entry fee -- but you take on more binary risk by not having an exit strategy.
 

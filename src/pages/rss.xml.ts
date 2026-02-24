@@ -3,9 +3,10 @@ import { getCollection } from 'astro:content';
 import type { APIContext } from 'astro';
 
 export async function GET(context: APIContext) {
-  const posts = (await getCollection('blog')).sort(
-    (a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
-  );
+  const now = new Date();
+  const posts = (await getCollection('blog'))
+    .filter((post) => post.data.pubDate.valueOf() <= now.valueOf())
+    .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
 
   return rss({
     title: 'Master Prediction Markets',

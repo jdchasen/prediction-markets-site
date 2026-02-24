@@ -61,7 +61,7 @@ How much capital do you need to trade prediction markets seriously? It depends o
 - **Active trading ($500 to $2,000):** Enough to run a small portfolio of positions across multiple market categories. At this level, you can begin to see whether your analytical approach generates consistent edge.
 - **Serious trading ($2,000 to $10,000):** Enough to diversify across many simultaneous positions, absorb losing streaks without going bust, and generate returns that justify the time investment.
 
-The Kelly criterion -- a mathematical framework for optimal position sizing -- is essential at any bankroll level. It tells you how much to risk on each trade based on your edge and the odds. Without it, even a profitable strategy can go bust through overleveraging. Most experienced prediction market traders use a fractional Kelly approach, betting a fraction of what the full Kelly criterion suggests to reduce variance.
+The Kelly criterion -- a mathematical framework for optimal position sizing -- is essential at any bankroll level. It tells you how much to risk on each trade based on your edge and the odds. Without it, even a profitable strategy can go bust through overleveraging. Use our [Kelly Criterion Calculator](/tools/kelly-calculator) to find the optimal bet size for any trade — it accounts for Kalshi and Polymarket fees automatically. Most experienced prediction market traders use a fractional Kelly approach, betting a fraction of what the full Kelly criterion suggests to reduce variance.
 
 ## Realistic Return Expectations
 
@@ -119,4 +119,4 @@ But if you approach it with realistic expectations -- treating it as a skill to 
 
 Start small, track everything, and focus on markets where you have a genuine informational or analytical advantage. Do not trade every contract that looks interesting. If you want a framework for identifying those opportunities, our [strategy guide for retail traders](/blog/prediction-market-strategies-finding-edge-as-a-retail-trader) is the place to start.
 
-The traders who succeed in prediction markets are the ones who treat it like a business: measure the inputs, track the outputs, cut what is not working, and scale what is. It is not glamorous. But it works.
+The traders who succeed in prediction markets are the ones who treat it like a business: measure the inputs, track the outputs, cut what is not working, and scale what is. Our [free trading tools](/tools) can help with the math — from calculating implied probabilities to optimizing position sizes. It is not glamorous. But it works.

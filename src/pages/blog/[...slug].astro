@@ -7,7 +7,10 @@ import ArticleCard from '../../components/ArticleCard.astro';
 import { getCollection, render } from 'astro:content';
 
 export async function getStaticPaths() {
-  const posts = await getCollection('blog');
+  const now = new Date();
+  const posts = (await getCollection('blog')).filter(
+    (post) => post.data.pubDate.valueOf() <= now.valueOf()
+  );
   return posts.map((post) => ({
     params: { slug: post.id },
     props: post,
@@ -17,9 +20,10 @@ export async function getStaticPaths() {
 const post = Astro.props;
 const { Content, headings } = await render(post);
 
+const now = new Date();
 const allPosts = await getCollection('blog');
 const relatedPosts = allPosts
-  .filter((p) => p.id !== post.id && p.data.category === post.data.category)
+  .filter((p) => p.id !== post.id && p.data.category === post.data.category && p.data.pubDate.valueOf() <= now.valueOf())
   .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
   .slice(0, 3);
 

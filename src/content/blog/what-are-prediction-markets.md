@@ -123,7 +123,7 @@ Start small. Deposit an amount you are comfortable losing entirely while you lea
 
 ### Step 3: Understand the Market You Are Trading
 
-Before placing any trade, make sure you understand:
+Our [free trading tools](/tools) can help you evaluate any contract — convert prices to probabilities, calculate optimal bet sizes, and scan for arbitrage opportunities. Before placing any trade, make sure you understand:
 
 - **The exact resolution criteria.** What source determines the outcome? What happens in edge cases?
 - **The settlement timeline.** When exactly does this contract expire and pay out?

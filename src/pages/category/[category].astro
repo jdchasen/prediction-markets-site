@@ -33,8 +33,9 @@ export function getStaticPaths() {
 const { category } = Astro.params;
 const meta = CATEGORY_META[category] || { title: category, description: '' };
 
+const now = new Date();
 const allPosts = (await getCollection('blog'))
-  .filter((post) => post.data.category === category)
+  .filter((post) => post.data.category === category && post.data.pubDate.valueOf() <= now.valueOf())
   .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
 
 const affiliatePlatform = (category === 'kalshi' || category === 'polymarket') ? category : 'generic';

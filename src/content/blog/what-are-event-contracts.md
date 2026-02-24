@@ -47,7 +47,7 @@ Event contracts and sports bets are structurally similar -- both are wagers on b
 
 This is the most elegant thing about event contracts. The price in cents is the implied probability in percentage points. A contract at $0.45 implies a 45% probability. A contract at $0.92 implies a 92% probability.
 
-This means trading event contracts is fundamentally an exercise in probability assessment. If you believe the true probability of an event is higher than the market price, you buy. If you believe it is lower, you sell. Over a large number of trades, if your probability estimates are better calibrated than the market's, you will profit.
+This means trading event contracts is fundamentally an exercise in probability assessment. If you believe the true probability of an event is higher than the market price, you buy. If you believe it is lower, you sell. Over a large number of trades, if your probability estimates are better calibrated than the market's, you will profit. Our [Probability Calculator](/tools/probability-calculator) converts any contract price to implied probability and shows breakeven with fees — a useful starting point for evaluating any trade.
 
 The pricing also moves in real time as new information arrives. When a weather forecast shifts, the temperature contracts reprice. When an economic data release surprises, the Fed rate contracts move. The market is constantly updating its probability estimate, and your job as a trader is to determine whether it has updated correctly -- or whether it has overreacted, underreacted, or missed something.
 

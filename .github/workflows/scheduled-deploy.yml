@@ -1,0 +1,14 @@
+name: Scheduled Deploy
+
+on:
+  schedule:
+    # 9:00 AM ET (14:00 UTC) every day
+    - cron: '0 14 * * *'
+  workflow_dispatch: # Allow manual trigger
+
+jobs:
+  trigger-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger Cloudflare Pages deploy hook
+        run: curl -X POST "${{ secrets.CF_DEPLOY_HOOK_URL }}"

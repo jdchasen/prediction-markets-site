@@ -142,6 +142,6 @@ For most developers who want to build trading bots or automated strategies, Kals
 
 **Use both if:**
 - You are a US-based trader who wants Kalshi's regulatory safety and market diversity as your primary platform, but also wants access to Polymarket's deeper liquidity on major political events
-- You are looking for cross-platform arbitrage opportunities where the same event is priced differently on each exchange
+- You are looking for cross-platform arbitrage opportunities where the same event is priced differently on each exchange — use our [Arbitrage Scanner](/tools/arbitrage-scanner) to find them
 
 If you are new to event contracts entirely, our [beginner's guide to prediction markets](/blog/what-are-prediction-markets) covers the fundamentals. For most US-based traders getting started with prediction markets, Kalshi is the safer and more practical starting point. The regulation, USD deposits, and broad market selection make it the lower-friction choice. Add Polymarket when you have a specific reason to -- whether that is liquidity, a market that only exists there, or a price discrepancy worth capturing. The two platforms complement each other well, and serious prediction market traders in 2026 should know their way around both.
