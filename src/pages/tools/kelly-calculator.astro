@@ -51,17 +51,17 @@ import NewsletterForm from '../../components/NewsletterForm.astro';
     })} />
   </Fragment>
 
-  <section class="bg-gradient-to-b from-brand-50 to-white py-12">
+  <section class="bg-gradient-to-b from-brand-50 to-white dark:from-gray-900 dark:to-gray-950 py-12">
     <div class="mx-auto max-w-6xl px-4">
-      <nav class="mb-6 text-sm text-gray-500">
-        <a href="/tools" class="hover:text-brand-600">Tools</a>
+      <nav class="mb-6 text-sm text-gray-500 dark:text-gray-400">
+        <a href="/tools" class="hover:text-brand-600 dark:hover:text-brand-400">Tools</a>
         <span class="mx-2">/</span>
-        <span class="text-gray-900">Kelly Calculator</span>
+        <span class="text-gray-900 dark:text-white">Kelly Calculator</span>
       </nav>
-      <h1 class="mb-3 text-3xl font-bold tracking-tight text-gray-900 md:text-4xl">
+      <h1 class="mb-3 text-3xl font-bold tracking-tight text-gray-900 dark:text-white md:text-4xl">
         Kelly Criterion Calculator
       </h1>
-      <p class="max-w-2xl text-lg text-gray-600">
+      <p class="max-w-2xl text-lg text-gray-600 dark:text-gray-400">
         Find the mathematically optimal bet size for any prediction market trade. Accounts for platform fees on Kalshi and Polymarket.
       </p>
     </div>
@@ -73,74 +73,74 @@ import NewsletterForm from '../../components/NewsletterForm.astro';
         <!-- Inputs -->
         <div class="space-y-6">
           <!-- Bankroll -->
-          <div class="rounded-lg border border-gray-200 bg-white p-6">
-            <label class="mb-3 block text-sm font-semibold text-gray-900">Bankroll ($)</label>
+          <div class="rounded-lg border border-gray-200 dark:border-gray-700 bg-white dark:bg-gray-800 p-6">
+            <label class="mb-3 block text-sm font-semibold text-gray-900 dark:text-white">Bankroll ($)</label>
             <input
               type="number"
               data-input="bankroll"
               min="1" value="1000" step="100"
-              class="w-full rounded-md border border-gray-300 px-4 py-2.5 text-sm font-medium focus:border-brand-500 focus:outline-none focus:ring-1 focus:ring-brand-500"
+              class="w-full rounded-md border border-gray-300 dark:border-gray-600 bg-white dark:bg-gray-800 px-4 py-2.5 text-sm font-medium text-gray-900 dark:text-gray-100 focus:border-brand-500 focus:outline-none focus:ring-1 focus:ring-brand-500"
               placeholder="1000"
             />
           </div>
 
           <!-- Contract Price -->
-          <div class="rounded-lg border border-gray-200 bg-white p-6">
-            <label class="mb-3 block text-sm font-semibold text-gray-900">Contract Price (cents)</label>
+          <div class="rounded-lg border border-gray-200 dark:border-gray-700 bg-white dark:bg-gray-800 p-6">
+            <label class="mb-3 block text-sm font-semibold text-gray-900 dark:text-white">Contract Price (cents)</label>
             <div class="flex items-center gap-4">
               <input
                 type="range"
                 data-input="price-slider"
                 min="1" max="99" value="40"
-                class="h-2 flex-1 cursor-pointer appearance-none rounded-lg bg-gray-200 accent-brand-600"
+                class="h-2 flex-1 cursor-pointer appearance-none rounded-lg bg-gray-200 dark:bg-gray-700 accent-brand-600"
               />
               <div class="flex items-center">
-                <span class="mr-1 text-sm text-gray-500">$0.</span>
+                <span class="mr-1 text-sm text-gray-500 dark:text-gray-400">$0.</span>
                 <input
                   type="number"
                   data-input="price-number"
                   min="1" max="99" value="40"
-                  class="w-16 rounded-md border border-gray-300 px-2 py-1.5 text-center text-sm font-medium focus:border-brand-500 focus:outline-none focus:ring-1 focus:ring-brand-500"
+                  class="w-16 rounded-md border border-gray-300 dark:border-gray-600 bg-white dark:bg-gray-800 px-2 py-1.5 text-center text-sm font-medium text-gray-900 dark:text-gray-100 focus:border-brand-500 focus:outline-none focus:ring-1 focus:ring-brand-500"
                 />
               </div>
             </div>
           </div>
 
           <!-- True Probability -->
-          <div class="rounded-lg border border-gray-200 bg-white p-6">
-            <label class="mb-3 block text-sm font-semibold text-gray-900">Your True Probability (%)</label>
+          <div class="rounded-lg border border-gray-200 dark:border-gray-700 bg-white dark:bg-gray-800 p-6">
+            <label class="mb-3 block text-sm font-semibold text-gray-900 dark:text-white">Your True Probability (%)</label>
             <div class="flex items-center gap-4">
               <input
                 type="range"
                 data-input="prob-slider"
                 min="1" max="99" value="55"
-                class="h-2 flex-1 cursor-pointer appearance-none rounded-lg bg-gray-200 accent-brand-600"
+                class="h-2 flex-1 cursor-pointer appearance-none rounded-lg bg-gray-200 dark:bg-gray-700 accent-brand-600"
               />
               <div class="flex items-center">
                 <input
                   type="number"
                   data-input="prob-number"
                   min="1" max="99" value="55"
-                  class="w-16 rounded-md border border-gray-300 px-2 py-1.5 text-center text-sm font-medium focus:border-brand-500 focus:outline-none focus:ring-1 focus:ring-brand-500"
+                  class="w-16 rounded-md border border-gray-300 dark:border-gray-600 bg-white dark:bg-gray-800 px-2 py-1.5 text-center text-sm font-medium text-gray-900 dark:text-gray-100 focus:border-brand-500 focus:outline-none focus:ring-1 focus:ring-brand-500"
                 />
-                <span class="ml-1 text-sm text-gray-500">%</span>
+                <span class="ml-1 text-sm text-gray-500 dark:text-gray-400">%</span>
               </div>
             </div>
           </div>
 
           <!-- Platform -->
-          <div class="rounded-lg border border-gray-200 bg-white p-6">
-            <label class="mb-3 block text-sm font-semibold text-gray-900">Platform</label>
+          <div class="rounded-lg border border-gray-200 dark:border-gray-700 bg-white dark:bg-gray-800 p-6">
+            <label class="mb-3 block text-sm font-semibold text-gray-900 dark:text-white">Platform</label>
             <div class="flex gap-3">
-              <label class="flex cursor-pointer items-center gap-2 rounded-md border border-gray-200 px-4 py-2 text-sm has-[:checked]:border-green-500 has-[:checked]:bg-green-50">
+              <label class="flex cursor-pointer items-center gap-2 rounded-md border border-gray-200 dark:border-gray-700 px-4 py-2 text-sm text-gray-900 dark:text-gray-100 has-[:checked]:border-green-500 has-[:checked]:bg-green-50 dark:has-[:checked]:bg-green-900/30">
                 <input type="radio" name="platform" value="kalshi" checked class="accent-green-600" />
                 Kalshi (7% fee)
               </label>
-              <label class="flex cursor-pointer items-center gap-2 rounded-md border border-gray-200 px-4 py-2 text-sm has-[:checked]:border-blue-500 has-[:checked]:bg-blue-50">
+              <label class="flex cursor-pointer items-center gap-2 rounded-md border border-gray-200 dark:border-gray-700 px-4 py-2 text-sm text-gray-900 dark:text-gray-100 has-[:checked]:border-blue-500 has-[:checked]:bg-blue-50 dark:has-[:checked]:bg-blue-900/30">
                 <input type="radio" name="platform" value="polymarket" class="accent-blue-600" />
                 Polymarket
               </label>
-              <label class="flex cursor-pointer items-center gap-2 rounded-md border border-gray-200 px-4 py-2 text-sm has-[:checked]:border-gray-500 has-[:checked]:bg-gray-100">
+              <label class="flex cursor-pointer items-center gap-2 rounded-md border border-gray-200 dark:border-gray-700 px-4 py-2 text-sm text-gray-900 dark:text-gray-100 has-[:checked]:border-gray-500 has-[:checked]:bg-gray-100 dark:has-[:checked]:bg-gray-700">
                 <input type="radio" name="platform" value="none" class="accent-gray-600" />
                 No fees
               </label>
@@ -151,63 +151,63 @@ import NewsletterForm from '../../components/NewsletterForm.astro';
         <!-- Results -->
         <div class="space-y-4">
           <!-- Warning Banner -->
-          <div data-output="warning" class="hidden rounded-lg border border-amber-200 bg-amber-50 p-4">
+          <div data-output="warning" class="hidden rounded-lg border border-amber-200 dark:border-amber-700 bg-amber-50 dark:bg-amber-900/30 p-4">
             <div class="flex items-start gap-3">
-              <svg class="mt-0.5 h-5 w-5 flex-shrink-0 text-amber-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <svg class="mt-0.5 h-5 w-5 flex-shrink-0 text-amber-600 dark:text-amber-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 9v2m0 4h.01m-6.938 4h13.856c1.54 0 2.502-1.667 1.732-2.5L13.732 4c-.77-.833-1.964-.833-2.732 0L4.072 16.5c-.77.833.192 2.5 1.732 2.5z" />
               </svg>
               <div>
-                <p class="text-sm font-medium text-amber-800">High Kelly percentage</p>
-                <p class="mt-1 text-xs text-amber-700">Full Kelly suggests betting &gt;25% of bankroll. This is very aggressive — consider using half or quarter Kelly to reduce variance and protect against estimation errors.</p>
+                <p class="text-sm font-medium text-amber-800 dark:text-amber-300">High Kelly percentage</p>
+                <p class="mt-1 text-xs text-amber-700 dark:text-amber-400">Full Kelly suggests betting &gt;25% of bankroll. This is very aggressive — consider using half or quarter Kelly to reduce variance and protect against estimation errors.</p>
               </div>
             </div>
           </div>
 
           <!-- No Bet Banner -->
-          <div data-output="no-bet" class="hidden rounded-lg border border-gray-200 bg-gray-50 p-6 text-center">
-            <svg class="mx-auto mb-3 h-10 w-10 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <div data-output="no-bet" class="hidden rounded-lg border border-gray-200 dark:border-gray-700 bg-gray-50 dark:bg-gray-800 p-6 text-center">
+            <svg class="mx-auto mb-3 h-10 w-10 text-gray-400 dark:text-gray-500" fill="none" stroke="currentColor" viewBox="0 0 24 24">
               <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M18.364 18.364A9 9 0 005.636 5.636m12.728 12.728A9 9 0 015.636 5.636m12.728 12.728L5.636 5.636" />
             </svg>
-            <p class="text-lg font-semibold text-gray-700">No Bet</p>
-            <p class="mt-1 text-sm text-gray-500">Negative expected value — Kelly says don't bet.</p>
+            <p class="text-lg font-semibold text-gray-700 dark:text-gray-300">No Bet</p>
+            <p class="mt-1 text-sm text-gray-500 dark:text-gray-400">Negative expected value — Kelly says don't bet.</p>
           </div>
 
           <!-- Kelly Results -->
-          <div data-output="results-panel" class="rounded-lg border border-gray-200 bg-white p-6">
-            <h2 class="mb-4 text-sm font-semibold uppercase tracking-wider text-gray-500">Optimal Bet Sizing</h2>
+          <div data-output="results-panel" class="rounded-lg border border-gray-200 dark:border-gray-700 bg-white dark:bg-gray-800 p-6">
+            <h2 class="mb-4 text-sm font-semibold uppercase tracking-wider text-gray-500 dark:text-gray-400">Optimal Bet Sizing</h2>
             <div class="space-y-4">
-              <div class="rounded-md bg-brand-50 p-4">
-                <div class="text-xs font-medium uppercase text-brand-600">Full Kelly</div>
+              <div class="rounded-md bg-brand-50 dark:bg-brand-900/30 p-4">
+                <div class="text-xs font-medium uppercase text-brand-600 dark:text-brand-400">Full Kelly</div>
                 <div class="mt-1 flex items-baseline gap-2">
-                  <span data-output="full-pct" class="text-2xl font-bold text-gray-900">—</span>
-                  <span data-output="full-dollar" class="text-sm text-gray-500">—</span>
+                  <span data-output="full-pct" class="text-2xl font-bold text-gray-900 dark:text-white">—</span>
+                  <span data-output="full-dollar" class="text-sm text-gray-500 dark:text-gray-400">—</span>
                 </div>
-                <div data-output="full-contracts" class="text-xs text-gray-500 mt-1">—</div>
+                <div data-output="full-contracts" class="text-xs text-gray-500 dark:text-gray-400 mt-1">—</div>
               </div>
               <div class="grid grid-cols-2 gap-3">
-                <div class="rounded-md bg-gray-50 p-4">
-                  <div class="text-xs font-medium uppercase text-gray-500">Half Kelly</div>
+                <div class="rounded-md bg-gray-50 dark:bg-gray-800/50 p-4">
+                  <div class="text-xs font-medium uppercase text-gray-500 dark:text-gray-400">Half Kelly</div>
                   <div class="mt-1">
-                    <span data-output="half-pct" class="text-lg font-bold text-gray-900">—</span>
+                    <span data-output="half-pct" class="text-lg font-bold text-gray-900 dark:text-white">—</span>
                   </div>
-                  <div data-output="half-dollar" class="text-xs text-gray-500 mt-1">—</div>
+                  <div data-output="half-dollar" class="text-xs text-gray-500 dark:text-gray-400 mt-1">—</div>
                 </div>
-                <div class="rounded-md bg-gray-50 p-4">
-                  <div class="text-xs font-medium uppercase text-gray-500">Quarter Kelly</div>
+                <div class="rounded-md bg-gray-50 dark:bg-gray-800/50 p-4">
+                  <div class="text-xs font-medium uppercase text-gray-500 dark:text-gray-400">Quarter Kelly</div>
                   <div class="mt-1">
-                    <span data-output="quarter-pct" class="text-lg font-bold text-gray-900">—</span>
+                    <span data-output="quarter-pct" class="text-lg font-bold text-gray-900 dark:text-white">—</span>
                   </div>
-                  <div data-output="quarter-dollar" class="text-xs text-gray-500 mt-1">—</div>
+                  <div data-output="quarter-dollar" class="text-xs text-gray-500 dark:text-gray-400 mt-1">—</div>
                 </div>
               </div>
-              <hr class="border-gray-100" />
+              <hr class="border-gray-100 dark:border-gray-700" />
               <div class="space-y-2">
                 <div class="flex items-center justify-between">
-                  <span class="text-sm text-gray-600">Edge</span>
+                  <span class="text-sm text-gray-600 dark:text-gray-400">Edge</span>
                   <span data-output="edge" class="text-sm font-medium">—</span>
                 </div>
                 <div class="flex items-center justify-between">
-                  <span class="text-sm text-gray-600">Expected growth (full Kelly)</span>
+                  <span class="text-sm text-gray-600 dark:text-gray-400">Expected growth (full Kelly)</span>
                   <span data-output="growth" class="text-sm font-medium">—</span>
                 </div>
               </div>
@@ -215,19 +215,19 @@ import NewsletterForm from '../../components/NewsletterForm.astro';
           </div>
 
           <!-- Risk Table -->
-          <div data-output="risk-table-panel" class="rounded-lg border border-gray-200 bg-white p-6">
-            <h2 class="mb-4 text-sm font-semibold uppercase tracking-wider text-gray-500">Risk Comparison</h2>
+          <div data-output="risk-table-panel" class="rounded-lg border border-gray-200 dark:border-gray-700 bg-white dark:bg-gray-800 p-6">
+            <h2 class="mb-4 text-sm font-semibold uppercase tracking-wider text-gray-500 dark:text-gray-400">Risk Comparison</h2>
             <div class="overflow-x-auto">
               <table class="w-full text-sm">
                 <thead>
-                  <tr class="border-b border-gray-200 text-left">
-                    <th class="pb-2 font-medium text-gray-500">Fraction</th>
-                    <th class="pb-2 font-medium text-gray-500">Bet Size</th>
-                    <th class="pb-2 font-medium text-gray-500">Contracts</th>
-                    <th class="pb-2 font-medium text-gray-500">Growth</th>
+                  <tr class="border-b border-gray-200 dark:border-gray-700 text-left">
+                    <th class="pb-2 font-medium text-gray-500 dark:text-gray-400">Fraction</th>
+                    <th class="pb-2 font-medium text-gray-500 dark:text-gray-400">Bet Size</th>
+                    <th class="pb-2 font-medium text-gray-500 dark:text-gray-400">Contracts</th>
+                    <th class="pb-2 font-medium text-gray-500 dark:text-gray-400">Growth</th>
                   </tr>
                 </thead>
-                <tbody data-output="risk-table" class="divide-y divide-gray-100">
+                <tbody data-output="risk-table" class="divide-y divide-gray-100 dark:divide-gray-700">
                 </tbody>
               </table>
             </div>
@@ -238,10 +238,10 @@ import NewsletterForm from '../../components/NewsletterForm.astro';
   </section>
 
   <!-- Explanation -->
-  <section class="border-t border-gray-100 py-12">
+  <section class="border-t border-gray-100 dark:border-gray-700 py-12">
     <div class="mx-auto max-w-3xl px-4">
-      <h2 class="mb-6 text-2xl font-bold text-gray-900">How the Kelly Criterion Works</h2>
-      <div class="space-y-4 text-sm leading-relaxed text-gray-600">
+      <h2 class="mb-6 text-2xl font-bold text-gray-900 dark:text-white">How the Kelly Criterion Works</h2>
+      <div class="space-y-4 text-sm leading-relaxed text-gray-600 dark:text-gray-400">
         <p>
           The Kelly criterion, developed by John Kelly at Bell Labs in 1956, answers a fundamental question: given a bet with positive expected value, how much should you wager? Bet too little and you leave growth on the table. Bet too much and a losing streak can devastate your bankroll.
         </p>
@@ -251,7 +251,7 @@ import NewsletterForm from '../../components/NewsletterForm.astro';
         <p>
           In prediction markets, b = ((1 - price) × (1 - feeRate)) / price. So a $0.40 contract on Kalshi has b = (0.60 × 0.93) / 0.40 = 1.395. If you think the true probability is 55%, Kelly recommends f = (1.395 × 0.55 - 0.45) / 1.395 = 22.7% of your bankroll.
         </p>
-        <h3 class="text-lg font-semibold text-gray-900 pt-2">Why Use Fractional Kelly?</h3>
+        <h3 class="text-lg font-semibold text-gray-900 dark:text-white pt-2">Why Use Fractional Kelly?</h3>
         <p>
           Full Kelly assumes your probability estimate is perfectly accurate. In practice, it almost never is. Half Kelly (betting half of what Kelly recommends) achieves about 75% of the optimal growth rate but with significantly less variance. Quarter Kelly is even smoother. Most professional traders use half Kelly as a baseline and adjust down for uncertainty.
         </p>
@@ -259,18 +259,18 @@ import NewsletterForm from '../../components/NewsletterForm.astro';
 
       <!-- FAQ -->
       <div class="mt-10 space-y-4">
-        <h2 class="text-2xl font-bold text-gray-900">Frequently Asked Questions</h2>
-        <details class="rounded-lg border border-gray-200 bg-white">
-          <summary class="cursor-pointer px-5 py-3 text-sm font-medium text-gray-900">What is the Kelly criterion?</summary>
-          <p class="px-5 pb-4 text-sm text-gray-600">The Kelly criterion is a formula for optimal bet sizing that maximizes long-term growth of your bankroll. It tells you what fraction to risk on each bet given the odds and your estimated probability of winning, balancing growth and risk of ruin.</p>
+        <h2 class="text-2xl font-bold text-gray-900 dark:text-white">Frequently Asked Questions</h2>
+        <details class="rounded-lg border border-gray-200 dark:border-gray-700 bg-white dark:bg-gray-800">
+          <summary class="cursor-pointer px-5 py-3 text-sm font-medium text-gray-900 dark:text-white">What is the Kelly criterion?</summary>
+          <p class="px-5 pb-4 text-sm text-gray-600 dark:text-gray-400">The Kelly criterion is a formula for optimal bet sizing that maximizes long-term growth of your bankroll. It tells you what fraction to risk on each bet given the odds and your estimated probability of winning, balancing growth and risk of ruin.</p>
         </details>
-        <details class="rounded-lg border border-gray-200 bg-white">
-          <summary class="cursor-pointer px-5 py-3 text-sm font-medium text-gray-900">Should I use full Kelly or fractional Kelly?</summary>
-          <p class="px-5 pb-4 text-sm text-gray-600">Most professionals use half or quarter Kelly. Full Kelly maximizes growth but assumes your probability estimates are perfect. Half Kelly gives ~75% of the growth rate with much lower variance and is the most common recommendation.</p>
+        <details class="rounded-lg border border-gray-200 dark:border-gray-700 bg-white dark:bg-gray-800">
+          <summary class="cursor-pointer px-5 py-3 text-sm font-medium text-gray-900 dark:text-white">Should I use full Kelly or fractional Kelly?</summary>
+          <p class="px-5 pb-4 text-sm text-gray-600 dark:text-gray-400">Most professionals use half or quarter Kelly. Full Kelly maximizes growth but assumes your probability estimates are perfect. Half Kelly gives ~75% of the growth rate with much lower variance and is the most common recommendation.</p>
         </details>
-        <details class="rounded-lg border border-gray-200 bg-white">
-          <summary class="cursor-pointer px-5 py-3 text-sm font-medium text-gray-900">How do I apply Kelly to prediction markets?</summary>
-          <p class="px-5 pb-4 text-sm text-gray-600">The contract price determines your odds. A $0.40 YES contract gives net odds of (0.60 × (1 - fee)) / 0.40. Estimate the true probability, plug in the values, and Kelly tells you what fraction of your bankroll to risk. Account for platform fees — Kalshi charges 7% on profits.</p>
+        <details class="rounded-lg border border-gray-200 dark:border-gray-700 bg-white dark:bg-gray-800">
+          <summary class="cursor-pointer px-5 py-3 text-sm font-medium text-gray-900 dark:text-white">How do I apply Kelly to prediction markets?</summary>
+          <p class="px-5 pb-4 text-sm text-gray-600 dark:text-gray-400">The contract price determines your odds. A $0.40 YES contract gives net odds of (0.60 × (1 - fee)) / 0.40. Estimate the true probability, plug in the values, and Kelly tells you what fraction of your bankroll to risk. Account for platform fees — Kalshi charges 7% on profits.</p>
         </details>
       </div>
     </div>
@@ -397,10 +397,10 @@ import NewsletterForm from '../../components/NewsletterForm.astro';
       const g = p * Math.log(1 + row.frac * b) + q * Math.log(1 - row.frac);
       const tr = document.createElement('tr');
       tr.innerHTML = `
-        <td class="py-2 text-gray-900 font-medium">${row.label}</td>
-        <td class="py-2 text-gray-900">$${betSize.toFixed(2)}</td>
-        <td class="py-2 text-gray-900">${contracts}</td>
-        <td class="py-2 text-gray-900">${(g * 100).toFixed(3)}%</td>
+        <td class="py-2 text-gray-900 dark:text-gray-100 font-medium">${row.label}</td>
+        <td class="py-2 text-gray-900 dark:text-gray-100">$${betSize.toFixed(2)}</td>
+        <td class="py-2 text-gray-900 dark:text-gray-100">${contracts}</td>
+        <td class="py-2 text-gray-900 dark:text-gray-100">${(g * 100).toFixed(3)}%</td>
       `;
       tbody.appendChild(tr);
     }

@@ -3,6 +3,7 @@ import SEOHead from "../components/SEOHead.astro";
 import Header from "../components/Header.astro";
 import Footer from "../components/Footer.astro";
 import NewsletterPopup from "../components/NewsletterPopup.astro";
+import SearchDialog from "../components/SearchDialog.astro";
 
 interface Props {
   title: string;
@@ -25,6 +26,14 @@ const { title, description, image, article, pubDate } = Astro.props;
       article={article}
       pubDate={pubDate}
     />
+    <script is:inline>
+      (function() {
+        const theme = localStorage.getItem('theme');
+        if (theme === 'dark' || (!theme && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
+          document.documentElement.classList.add('dark');
+        }
+      })();
+    </script>
     <!-- Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-W07DSXGL25"></script>
     <script is:inline>
@@ -43,12 +52,13 @@ const { title, description, image, article, pubDate } = Astro.props;
     />
     <slot name="head" />
   </head>
-  <body class="bg-white text-gray-900 min-h-screen flex flex-col">
+  <body class="bg-white text-gray-900 dark:bg-gray-950 dark:text-gray-100 min-h-screen flex flex-col">
     <Header />
     <main class="flex-1">
       <slot />
     </main>
     <Footer />
     <NewsletterPopup />
+    <SearchDialog />
   </body>
 </html>

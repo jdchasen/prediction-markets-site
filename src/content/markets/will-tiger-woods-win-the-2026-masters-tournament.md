@@ -2,7 +2,7 @@
 title: "Will Tiger Woods win the 2026 Masters tournament?"
 description: "Current odds for Will Tiger Woods win the 2026 Masters tournament? on Polymarket — 0.9% YES. Live market data and analysis."
 marketQuestion: "Will Tiger Woods win the 2026 Masters tournament?"
-category: "politics"
+category: "sports"
 status: "active"
 lastUpdated: 2026-02-23
 expiryDate: 2026-04-13

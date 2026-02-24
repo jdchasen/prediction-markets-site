@@ -29,12 +29,19 @@ const ctas: Record<string, { heading: string; text: string; buttonText: string; 
   },
 };
 
+const accentBorder: Record<string, string> = {
+  kalshi: 'border-l-green-500',
+  polymarket: 'border-l-blue-500',
+  generic: 'border-l-brand-500',
+};
+
 const cta = ctas[platform];
+const accent = accentBorder[platform];
 ---
 
-<aside class="my-8 rounded-lg border border-gray-200 bg-gray-50 p-6">
-  <h3 class="mb-2 text-lg font-semibold text-gray-900">{cta.heading}</h3>
-  <p class="mb-4 text-sm text-gray-600">{cta.text}</p>
+<aside class:list={['my-8 rounded-lg border-l-4 bg-gray-50 dark:bg-gray-800 p-6', accent]}>
+  <h3 class="mb-2 text-xl font-semibold text-gray-900 dark:text-gray-100">{cta.heading}</h3>
+  <p class="mb-4 text-sm text-gray-600 dark:text-gray-300">{cta.text}</p>
   <a
     href={cta.href}
     target={platform !== 'generic' ? '_blank' : undefined}

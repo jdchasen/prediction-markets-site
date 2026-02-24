@@ -2,7 +2,7 @@
 title: "Will the Dallas Mavericks win the NBA Western Conference Finals?"
 description: "Current odds for Will the Dallas Mavericks win the NBA Western Conference Finals? on Polymarket — 0.5% YES. Live market data and analysis."
 marketQuestion: "Will the Dallas Mavericks win the NBA Western Conference Finals?"
-category: "politics"
+category: "sports"
 status: "active"
 lastUpdated: 2026-02-23
 expiryDate: 2026-06-16

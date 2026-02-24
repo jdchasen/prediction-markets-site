@@ -43,11 +43,11 @@ const affiliatePlatform = (category === 'kalshi' || category === 'polymarket') ?
 
 <BaseLayout title={meta.title} description={meta.description}>
   <div class="mx-auto max-w-6xl px-4 py-12">
-    <h1 class="mb-2 text-3xl font-bold text-gray-900">{meta.title}</h1>
-    <p class="mb-10 text-gray-600">{meta.description}</p>
+    <h1 class="mb-2 text-3xl font-bold text-gray-900 dark:text-white">{meta.title}</h1>
+    <p class="mb-10 text-gray-600 dark:text-gray-400">{meta.description}</p>
 
     {allPosts.length === 0 ? (
-      <p class="text-gray-500">No articles in this category yet. Check back soon!</p>
+      <p class="text-gray-500 dark:text-gray-400">No articles in this category yet. Check back soon!</p>
     ) : (
       <div class="grid grid-cols-1 gap-6 md:grid-cols-2 lg:grid-cols-3">
         {allPosts.map((post) => (

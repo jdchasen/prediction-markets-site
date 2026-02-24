@@ -59,17 +59,17 @@ import NewsletterForm from '../../components/NewsletterForm.astro';
     })} />
   </Fragment>
 
-  <section class="bg-gradient-to-b from-brand-50 to-white py-12">
+  <section class="bg-gradient-to-b from-brand-50 to-white dark:from-gray-900 dark:to-gray-950 py-12">
     <div class="mx-auto max-w-6xl px-4">
-      <nav class="mb-6 text-sm text-gray-500">
+      <nav class="mb-6 text-sm text-gray-500 dark:text-gray-400">
         <a href="/tools" class="hover:text-brand-600">Tools</a>
         <span class="mx-2">/</span>
-        <span class="text-gray-900">Arbitrage Scanner</span>
+        <span class="text-gray-900 dark:text-white">Arbitrage Scanner</span>
       </nav>
-      <h1 class="mb-3 text-3xl font-bold tracking-tight text-gray-900 md:text-4xl">
+      <h1 class="mb-3 text-3xl font-bold tracking-tight text-gray-900 dark:text-white md:text-4xl">
         Arbitrage Scanner
       </h1>
-      <p class="max-w-2xl text-lg text-gray-600">
+      <p class="max-w-2xl text-lg text-gray-600 dark:text-gray-400">
         Find guaranteed-profit opportunities across Kalshi and Polymarket. Enter prices from both platforms and see if an arbitrage exists after fees.
       </p>
     </div>
@@ -81,78 +81,78 @@ import NewsletterForm from '../../components/NewsletterForm.astro';
         <!-- Inputs -->
         <div class="space-y-6">
           <!-- Kalshi -->
-          <div class="rounded-lg border-2 border-green-200 bg-white p-6">
+          <div class="rounded-lg border-2 border-green-200 dark:border-green-800 bg-white dark:bg-gray-800 p-6">
             <div class="mb-4 flex items-center gap-2">
               <div class="h-3 w-3 rounded-full bg-green-500"></div>
-              <h2 class="text-sm font-semibold text-gray-900">Kalshi</h2>
+              <h2 class="text-sm font-semibold text-gray-900 dark:text-white">Kalshi</h2>
             </div>
             <div class="space-y-4">
               <div>
-                <label class="mb-2 block text-sm text-gray-600">YES Price (cents)</label>
+                <label class="mb-2 block text-sm text-gray-600 dark:text-gray-400">YES Price (cents)</label>
                 <div class="flex items-center gap-4">
                   <input
                     type="range"
                     data-input="kalshi-yes-slider"
                     min="1" max="99" value="45"
-                    class="h-2 flex-1 cursor-pointer appearance-none rounded-lg bg-gray-200 accent-green-600"
+                    class="h-2 flex-1 cursor-pointer appearance-none rounded-lg bg-gray-200 dark:bg-gray-700 accent-green-600"
                   />
                   <input
                     type="number"
                     data-input="kalshi-yes-number"
                     min="1" max="99" value="45"
-                    class="w-16 rounded-md border border-gray-300 px-2 py-1.5 text-center text-sm font-medium focus:border-green-500 focus:outline-none focus:ring-1 focus:ring-green-500"
+                    class="w-16 rounded-md border border-gray-300 dark:border-gray-600 bg-white dark:bg-gray-800 px-2 py-1.5 text-center text-sm font-medium dark:text-gray-100 focus:border-green-500 focus:outline-none focus:ring-1 focus:ring-green-500"
                   />
                 </div>
               </div>
               <div>
-                <label class="mb-2 block text-sm text-gray-600">Fee on profits</label>
+                <label class="mb-2 block text-sm text-gray-600 dark:text-gray-400">Fee on profits</label>
                 <div class="flex items-center gap-2">
                   <input
                     type="number"
                     data-input="kalshi-fee"
                     min="0" max="50" value="7" step="0.1"
-                    class="w-20 rounded-md border border-gray-300 px-2 py-1.5 text-center text-sm font-medium focus:border-green-500 focus:outline-none focus:ring-1 focus:ring-green-500"
+                    class="w-20 rounded-md border border-gray-300 dark:border-gray-600 bg-white dark:bg-gray-800 px-2 py-1.5 text-center text-sm font-medium dark:text-gray-100 focus:border-green-500 focus:outline-none focus:ring-1 focus:ring-green-500"
                   />
-                  <span class="text-sm text-gray-500">%</span>
+                  <span class="text-sm text-gray-500 dark:text-gray-400">%</span>
                 </div>
               </div>
             </div>
           </div>
 
           <!-- Polymarket -->
-          <div class="rounded-lg border-2 border-blue-200 bg-white p-6">
+          <div class="rounded-lg border-2 border-blue-200 dark:border-blue-800 bg-white dark:bg-gray-800 p-6">
             <div class="mb-4 flex items-center gap-2">
               <div class="h-3 w-3 rounded-full bg-blue-500"></div>
-              <h2 class="text-sm font-semibold text-gray-900">Polymarket</h2>
+              <h2 class="text-sm font-semibold text-gray-900 dark:text-white">Polymarket</h2>
             </div>
             <div class="space-y-4">
               <div>
-                <label class="mb-2 block text-sm text-gray-600">YES Price (cents)</label>
+                <label class="mb-2 block text-sm text-gray-600 dark:text-gray-400">YES Price (cents)</label>
                 <div class="flex items-center gap-4">
                   <input
                     type="range"
                     data-input="poly-yes-slider"
                     min="1" max="99" value="52"
-                    class="h-2 flex-1 cursor-pointer appearance-none rounded-lg bg-gray-200 accent-blue-600"
+                    class="h-2 flex-1 cursor-pointer appearance-none rounded-lg bg-gray-200 dark:bg-gray-700 accent-blue-600"
                   />
                   <input
                     type="number"
                     data-input="poly-yes-number"
                     min="1" max="99" value="52"
-                    class="w-16 rounded-md border border-gray-300 px-2 py-1.5 text-center text-sm font-medium focus:border-blue-500 focus:outline-none focus:ring-1 focus:ring-blue-500"
+                    class="w-16 rounded-md border border-gray-300 dark:border-gray-600 bg-white dark:bg-gray-800 px-2 py-1.5 text-center text-sm font-medium dark:text-gray-100 focus:border-blue-500 focus:outline-none focus:ring-1 focus:ring-blue-500"
                   />
                 </div>
               </div>
               <div>
-                <label class="mb-2 block text-sm text-gray-600">Fee on profits</label>
+                <label class="mb-2 block text-sm text-gray-600 dark:text-gray-400">Fee on profits</label>
                 <div class="flex items-center gap-2">
                   <input
                     type="number"
                     data-input="poly-fee"
                     min="0" max="50" value="0" step="0.1"
-                    class="w-20 rounded-md border border-gray-300 px-2 py-1.5 text-center text-sm font-medium focus:border-blue-500 focus:outline-none focus:ring-1 focus:ring-blue-500"
+                    class="w-20 rounded-md border border-gray-300 dark:border-gray-600 bg-white dark:bg-gray-800 px-2 py-1.5 text-center text-sm font-medium dark:text-gray-100 focus:border-blue-500 focus:outline-none focus:ring-1 focus:ring-blue-500"
                   />
-                  <span class="text-sm text-gray-500">%</span>
+                  <span class="text-sm text-gray-500 dark:text-gray-400">%</span>
                 </div>
               </div>
             </div>
@@ -162,54 +162,54 @@ import NewsletterForm from '../../components/NewsletterForm.astro';
         <!-- Results -->
         <div class="space-y-4">
           <!-- Arb Result Banner -->
-          <div data-output="arb-banner" class="rounded-lg border border-gray-200 bg-gray-50 p-6 text-center">
-            <p class="text-lg font-semibold text-gray-500">No arbitrage opportunity</p>
-            <p class="mt-1 text-sm text-gray-400">Adjust prices to find an arb</p>
+          <div data-output="arb-banner" class="rounded-lg border border-gray-200 dark:border-gray-700 bg-gray-50 dark:bg-gray-800/50 p-6 text-center">
+            <p class="text-lg font-semibold text-gray-500 dark:text-gray-400">No arbitrage opportunity</p>
+            <p class="mt-1 text-sm text-gray-400 dark:text-gray-500">Adjust prices to find an arb</p>
           </div>
 
           <!-- Execution Steps -->
-          <div data-output="steps-panel" class="hidden rounded-lg border border-gray-200 bg-white p-6">
-            <h2 class="mb-4 text-sm font-semibold uppercase tracking-wider text-gray-500">Execution</h2>
+          <div data-output="steps-panel" class="hidden rounded-lg border border-gray-200 dark:border-gray-700 bg-white dark:bg-gray-800 p-6">
+            <h2 class="mb-4 text-sm font-semibold uppercase tracking-wider text-gray-500 dark:text-gray-400">Execution</h2>
             <div class="space-y-3">
               <div class="flex items-start gap-3">
-                <span class="flex h-6 w-6 flex-shrink-0 items-center justify-center rounded-full bg-brand-100 text-xs font-bold text-brand-700">1</span>
-                <p data-output="step1" class="text-sm text-gray-700">—</p>
+                <span class="flex h-6 w-6 flex-shrink-0 items-center justify-center rounded-full bg-brand-100 dark:bg-brand-900/50 text-xs font-bold text-brand-700 dark:text-brand-300">1</span>
+                <p data-output="step1" class="text-sm text-gray-700 dark:text-gray-300">—</p>
               </div>
               <div class="flex items-start gap-3">
-                <span class="flex h-6 w-6 flex-shrink-0 items-center justify-center rounded-full bg-brand-100 text-xs font-bold text-brand-700">2</span>
-                <p data-output="step2" class="text-sm text-gray-700">—</p>
+                <span class="flex h-6 w-6 flex-shrink-0 items-center justify-center rounded-full bg-brand-100 dark:bg-brand-900/50 text-xs font-bold text-brand-700 dark:text-brand-300">2</span>
+                <p data-output="step2" class="text-sm text-gray-700 dark:text-gray-300">—</p>
               </div>
               <div class="flex items-start gap-3">
-                <span class="flex h-6 w-6 flex-shrink-0 items-center justify-center rounded-full bg-brand-100 text-xs font-bold text-brand-700">3</span>
-                <p class="text-sm text-gray-700">Wait for settlement. One side pays $1.00 regardless of outcome.</p>
+                <span class="flex h-6 w-6 flex-shrink-0 items-center justify-center rounded-full bg-brand-100 dark:bg-brand-900/50 text-xs font-bold text-brand-700 dark:text-brand-300">3</span>
+                <p class="text-sm text-gray-700 dark:text-gray-300">Wait for settlement. One side pays $1.00 regardless of outcome.</p>
               </div>
             </div>
           </div>
 
           <!-- Scaling Table -->
-          <div data-output="scaling-panel" class="hidden rounded-lg border border-gray-200 bg-white p-6">
-            <h2 class="mb-4 text-sm font-semibold uppercase tracking-wider text-gray-500">Scaling Table</h2>
+          <div data-output="scaling-panel" class="hidden rounded-lg border border-gray-200 dark:border-gray-700 bg-white dark:bg-gray-800 p-6">
+            <h2 class="mb-4 text-sm font-semibold uppercase tracking-wider text-gray-500 dark:text-gray-400">Scaling Table</h2>
             <div class="overflow-x-auto">
               <table class="w-full text-sm">
                 <thead>
-                  <tr class="border-b border-gray-200 text-left">
-                    <th class="pb-2 font-medium text-gray-500">Pairs</th>
-                    <th class="pb-2 font-medium text-gray-500">Total Cost</th>
-                    <th class="pb-2 font-medium text-gray-500">Fees</th>
-                    <th class="pb-2 font-medium text-gray-500">Net Profit</th>
-                    <th class="pb-2 font-medium text-gray-500">ROI</th>
+                  <tr class="border-b border-gray-200 dark:border-gray-700 text-left">
+                    <th class="pb-2 font-medium text-gray-500 dark:text-gray-400">Pairs</th>
+                    <th class="pb-2 font-medium text-gray-500 dark:text-gray-400">Total Cost</th>
+                    <th class="pb-2 font-medium text-gray-500 dark:text-gray-400">Fees</th>
+                    <th class="pb-2 font-medium text-gray-500 dark:text-gray-400">Net Profit</th>
+                    <th class="pb-2 font-medium text-gray-500 dark:text-gray-400">ROI</th>
                   </tr>
                 </thead>
-                <tbody data-output="scaling-table" class="divide-y divide-gray-100">
+                <tbody data-output="scaling-table" class="divide-y divide-gray-100 dark:divide-gray-700">
                 </tbody>
               </table>
             </div>
           </div>
 
           <!-- Caveats -->
-          <div class="rounded-lg border border-amber-200 bg-amber-50 p-5">
-            <h3 class="mb-2 text-sm font-semibold text-amber-800">Important Caveats</h3>
-            <ul class="space-y-1 text-xs text-amber-700">
+          <div class="rounded-lg border border-amber-200 dark:border-amber-700 bg-amber-50 dark:bg-amber-900/30 p-5">
+            <h3 class="mb-2 text-sm font-semibold text-amber-800 dark:text-amber-300">Important Caveats</h3>
+            <ul class="space-y-1 text-xs text-amber-700 dark:text-amber-400">
               <li><strong>Execution risk:</strong> Prices may move before you fill both legs. Always fill the less liquid side first.</li>
               <li><strong>Settlement risk:</strong> Kalshi and Polymarket may interpret ambiguous event outcomes differently.</li>
               <li><strong>Liquidity:</strong> Order book depth may not support large sizes at quoted prices.</li>
@@ -222,10 +222,10 @@ import NewsletterForm from '../../components/NewsletterForm.astro';
   </section>
 
   <!-- Explanation -->
-  <section class="border-t border-gray-100 py-12">
+  <section class="border-t border-gray-100 dark:border-gray-700 py-12">
     <div class="mx-auto max-w-3xl px-4">
-      <h2 class="mb-6 text-2xl font-bold text-gray-900">How Prediction Market Arbitrage Works</h2>
-      <div class="space-y-4 text-sm leading-relaxed text-gray-600">
+      <h2 class="mb-6 text-2xl font-bold text-gray-900 dark:text-white">How Prediction Market Arbitrage Works</h2>
+      <div class="space-y-4 text-sm leading-relaxed text-gray-600 dark:text-gray-400">
         <p>
           Arbitrage exploits price differences between platforms. When the same event is priced differently on Kalshi and Polymarket, you can sometimes buy contracts on both sides (YES on one platform, NO on the other) for a combined cost less than $1.00. Since the payout is always $1.00 regardless of outcome, the difference is guaranteed profit.
         </p>
@@ -235,7 +235,7 @@ import NewsletterForm from '../../components/NewsletterForm.astro';
         <p>
           Fees are the primary arb killer. Kalshi charges 7% on profits, which reduces your net payout from the winning side. An arb that looks like 5 cents of profit pre-fees might net only 1-2 cents after fees — or nothing at all. This calculator shows you the real numbers after all fees.
         </p>
-        <h3 class="text-lg font-semibold text-gray-900 pt-2">Practical Tips</h3>
+        <h3 class="text-lg font-semibold text-gray-900 dark:text-white pt-2">Practical Tips</h3>
         <p>
           Fill the less liquid side first (usually Kalshi). Use limit orders, not market orders. Check that the order book has enough depth at the quoted price. The wider the arb, the more likely it persists — tiny arbs often disappear before you can fill both sides. And always verify both platforms are pricing the exact same event with the same settlement criteria.
         </p>
@@ -243,22 +243,22 @@ import NewsletterForm from '../../components/NewsletterForm.astro';
 
       <!-- FAQ -->
       <div class="mt-10 space-y-4">
-        <h2 class="text-2xl font-bold text-gray-900">Frequently Asked Questions</h2>
-        <details class="rounded-lg border border-gray-200 bg-white">
-          <summary class="cursor-pointer px-5 py-3 text-sm font-medium text-gray-900">What is prediction market arbitrage?</summary>
-          <p class="px-5 pb-4 text-sm text-gray-600">Prediction market arbitrage is buying contracts on two different platforms so you profit regardless of the outcome. If the combined cost of YES on one platform and NO on the other is less than $1.00, you lock in the difference as guaranteed profit.</p>
+        <h2 class="text-2xl font-bold text-gray-900 dark:text-white">Frequently Asked Questions</h2>
+        <details class="rounded-lg border border-gray-200 dark:border-gray-700 bg-white dark:bg-gray-800">
+          <summary class="cursor-pointer px-5 py-3 text-sm font-medium text-gray-900 dark:text-white">What is prediction market arbitrage?</summary>
+          <p class="px-5 pb-4 text-sm text-gray-600 dark:text-gray-400">Prediction market arbitrage is buying contracts on two different platforms so you profit regardless of the outcome. If the combined cost of YES on one platform and NO on the other is less than $1.00, you lock in the difference as guaranteed profit.</p>
         </details>
-        <details class="rounded-lg border border-gray-200 bg-white">
-          <summary class="cursor-pointer px-5 py-3 text-sm font-medium text-gray-900">Can you arbitrage between Kalshi and Polymarket?</summary>
-          <p class="px-5 pb-4 text-sm text-gray-600">Yes, when the same event is listed on both platforms at different prices. Account for fees on both sides, execution risk (prices move), and settlement risk (platforms may resolve differently). Use limit orders and fill the less liquid side first.</p>
+        <details class="rounded-lg border border-gray-200 dark:border-gray-700 bg-white dark:bg-gray-800">
+          <summary class="cursor-pointer px-5 py-3 text-sm font-medium text-gray-900 dark:text-white">Can you arbitrage between Kalshi and Polymarket?</summary>
+          <p class="px-5 pb-4 text-sm text-gray-600 dark:text-gray-400">Yes, when the same event is listed on both platforms at different prices. Account for fees on both sides, execution risk (prices move), and settlement risk (platforms may resolve differently). Use limit orders and fill the less liquid side first.</p>
         </details>
-        <details class="rounded-lg border border-gray-200 bg-white">
-          <summary class="cursor-pointer px-5 py-3 text-sm font-medium text-gray-900">How do fees affect arbitrage?</summary>
-          <p class="px-5 pb-4 text-sm text-gray-600">Fees can eliminate apparent arb opportunities entirely. Kalshi's 7% profit fee reduces your payout on the winning side. Always calculate net profit after all platform fees — this calculator does it for you.</p>
+        <details class="rounded-lg border border-gray-200 dark:border-gray-700 bg-white dark:bg-gray-800">
+          <summary class="cursor-pointer px-5 py-3 text-sm font-medium text-gray-900 dark:text-white">How do fees affect arbitrage?</summary>
+          <p class="px-5 pb-4 text-sm text-gray-600 dark:text-gray-400">Fees can eliminate apparent arb opportunities entirely. Kalshi's 7% profit fee reduces your payout on the winning side. Always calculate net profit after all platform fees — this calculator does it for you.</p>
         </details>
-        <details class="rounded-lg border border-gray-200 bg-white">
-          <summary class="cursor-pointer px-5 py-3 text-sm font-medium text-gray-900">What are the risks of arbitrage?</summary>
-          <p class="px-5 pb-4 text-sm text-gray-600">Key risks: execution risk (prices move before you fill both legs), settlement risk (platforms resolve differently), liquidity risk (can't fill at quoted prices), and capital lockup (money tied up until settlement). These risks are real — arbitrage is low-risk, not no-risk.</p>
+        <details class="rounded-lg border border-gray-200 dark:border-gray-700 bg-white dark:bg-gray-800">
+          <summary class="cursor-pointer px-5 py-3 text-sm font-medium text-gray-900 dark:text-white">What are the risks of arbitrage?</summary>
+          <p class="px-5 pb-4 text-sm text-gray-600 dark:text-gray-400">Key risks: execution risk (prices move before you fill both legs), settlement risk (platforms resolve differently), liquidity risk (can't fill at quoted prices), and capital lockup (money tied up until settlement). These risks are real — arbitrage is low-risk, not no-risk.</p>
         </details>
       </div>
     </div>

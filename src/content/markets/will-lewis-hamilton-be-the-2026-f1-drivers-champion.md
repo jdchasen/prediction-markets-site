@@ -2,7 +2,7 @@
 title: "Will Lewis Hamilton be the 2026 F1 Drivers' Champion?"
 description: "Current odds for Will Lewis Hamilton be the 2026 F1 Drivers' Champion? on Polymarket — 9.1% YES. Live market data and analysis."
 marketQuestion: "Will Lewis Hamilton be the 2026 F1 Drivers' Champion?"
-category: "politics"
+category: "sports"
 status: "active"
 lastUpdated: 2026-02-23
 expiryDate: 2026-12-06

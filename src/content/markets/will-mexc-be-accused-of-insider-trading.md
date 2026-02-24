@@ -2,7 +2,7 @@
 title: "Will MEXC be accused of insider trading?"
 description: "Current odds for Will MEXC be accused of insider trading? on Polymarket — 12.5% YES. Live market data and analysis."
 marketQuestion: "Will MEXC be accused of insider trading?"
-category: "politics"
+category: "crypto"
 status: "active"
 lastUpdated: 2026-02-23
 tags: ["politics", "polymarket"]

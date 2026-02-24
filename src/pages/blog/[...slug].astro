@@ -47,23 +47,23 @@ const affiliatePlatform = post.data.affiliate as 'kalshi' | 'polymarket' | 'gene
       <div class="mb-4 flex items-center gap-3">
         <a
           href={`/category/${post.data.category}`}
-          class="rounded-full bg-brand-100 px-3 py-1 text-xs font-medium capitalize text-brand-800 hover:bg-brand-200"
+          class="rounded-full bg-brand-100 dark:bg-brand-900/50 px-3 py-1 text-xs font-medium capitalize text-brand-800 dark:text-brand-300 hover:bg-brand-200 dark:hover:bg-brand-900"
         >
           {post.data.category}
         </a>
-        <time datetime={post.data.pubDate.toISOString()} class="text-sm text-gray-500">
+        <time datetime={post.data.pubDate.toISOString()} class="text-sm text-gray-500 dark:text-gray-400">
           {formattedDate}
         </time>
       </div>
-      <h1 class="text-3xl font-bold leading-tight text-gray-900 md:text-4xl">
+      <h1 class="text-3xl font-bold leading-tight text-gray-900 dark:text-white md:text-4xl">
         {post.data.title}
       </h1>
-      <p class="mt-4 text-lg text-gray-600">{post.data.description}</p>
+      <p class="mt-4 text-lg text-gray-600 dark:text-gray-400">{post.data.description}</p>
     </header>
 
     <TableOfContents headings={headings} />
 
-    <div class="prose prose-gray max-w-none prose-headings:scroll-mt-20 prose-a:text-brand-600 prose-a:no-underline hover:prose-a:underline">
+    <div class="prose prose-gray dark:prose-invert max-w-none prose-headings:scroll-mt-20 prose-a:text-brand-600 dark:prose-a:text-brand-400 prose-a:no-underline hover:prose-a:underline">
       <Content />
     </div>
 
@@ -72,10 +72,10 @@ const affiliatePlatform = post.data.affiliate as 'kalshi' | 'polymarket' | 'gene
     <CTABanner platform={affiliatePlatform || 'generic'} />
 
     {post.data.tags.length > 0 && (
-      <div class="mt-8 border-t border-gray-200 pt-6">
+      <div class="mt-8 border-t border-gray-200 dark:border-gray-700 pt-6">
         <div class="flex flex-wrap gap-2">
           {post.data.tags.map((tag: string) => (
-            <span class="rounded-full bg-gray-100 px-3 py-1 text-xs text-gray-600">
+            <span class="rounded-full bg-gray-100 dark:bg-gray-800 px-3 py-1 text-xs text-gray-600 dark:text-gray-400">
               {tag}
             </span>
           ))}
@@ -85,9 +85,9 @@ const affiliatePlatform = post.data.affiliate as 'kalshi' | 'polymarket' | 'gene
   </article>
 
   {relatedPosts.length > 0 && (
-    <section class="border-t border-gray-200 bg-gray-50 py-12">
+    <section class="border-t border-gray-200 dark:border-gray-800 bg-gray-50 dark:bg-gray-900 py-12">
       <div class="mx-auto max-w-6xl px-4">
-        <h2 class="mb-8 text-2xl font-bold text-gray-900">Related Articles</h2>
+        <h2 class="mb-8 text-2xl font-bold text-gray-900 dark:text-white">Related Articles</h2>
         <div class="grid grid-cols-1 gap-6 md:grid-cols-3">
           {relatedPosts.map((related) => (
             <ArticleCard

@@ -649,8 +649,8 @@ def _parse_expiry(expiry_str: str) -> str:
         return ""
 
 
-def _categorize(raw_category: str) -> str:
-    """Normalize category to site taxonomy."""
+def _categorize(raw_category: str, title: str = "") -> str:
+    """Normalize category to site taxonomy, falling back to title-based inference."""
     cat = raw_category.lower().strip()
     mapping = {
         "us politics": "politics",
@@ -665,7 +665,48 @@ def _categorize(raw_category: str) -> str:
         "culture": "entertainment",
         "climate": "science",
     }
-    return mapping.get(cat, cat) if cat else "politics"
+    # Try direct mapping first
+    if cat:
+        mapped = mapping.get(cat, cat)
+        # Verify it's a valid site category
+        valid = {"politics", "economics", "crypto", "finance", "sports", "tech", "entertainment", "science"}
+        if mapped in valid:
+            return mapped
+
+    # Infer from title keywords — use word-boundary regex for short terms
+    t = title.lower()
+
+    def _match(kw: str) -> bool:
+        if len(kw) <= 4:
+            return bool(re.search(r'\b' + re.escape(kw) + r'\b', t))
+        return kw in t
+
+    title_rules = [
+        (["bitcoin", "btc", "ethereum", "eth", "crypto", "token", "coinbase",
+          "mexc", "backpack", "fdv", "usdai", "blockchain", "defi"], "crypto"),
+        (["nba", "nfl", "nhl", "mlb", "f1", "masters", "ligue", "premier league",
+          "champions league", "world cup", "mavericks", "bucks", "lakers", "celtics",
+          "commanders", "rookie of the year", "tiger woods", "hamilton", "lorient",
+          "super bowl"], "sports"),
+        (["oscar", "academy award", "emmy", "grammy", "golden globe", "best picture",
+          "best actor", "best actress", "best director", "best supporting",
+          "best costume", "fanning", "elordi", "frankenstein"], "entertainment"),
+        (["gdp", "cpi", "inflation", "interest rate", "bank of japan", "fed rate",
+          "unemployment", "jobs report", "economic"], "economics"),
+        (["stock", "s&p", "spx", "nasdaq", "ipo", "market cap", "tesla deliver",
+          "gold", "merger", "alphabet", "discord"], "finance"),
+        (["tweet", "elon musk", "spacex"], "tech"),
+        (["weather", "snow", "temperature", "hurricane", "rainfall"], "science"),
+        (["president", "prime minister", "election", "parliament", "coup",
+          "nuclear", "strike", "abraham accords", "putin", "trump", "iran",
+          "ukraine", "russia", "venezuela", "colombia", "mexico", "morocco",
+          "syria", "israel"], "politics"),
+    ]
+    for keywords, category in title_rules:
+        if any(_match(kw) for kw in keywords):
+            return category
+
+    return "politics"
 
 
 def _generate_tags(market: dict) -> list[str]:
@@ -681,7 +722,7 @@ def _generate_tags(market: dict) -> list[str]:
         tags.add("polymarket")
 
     # Category tag
-    norm_cat = _categorize(category)
+    norm_cat = _categorize(category, title_lower)
     tags.add(norm_cat)
 
     # Keyword-based tags
@@ -713,7 +754,7 @@ def generate_page(market: dict) -> tuple[str, str]:
     title = market["title"]
     slug = slugify(title)
     question = market.get("question", title)
-    category = _categorize(market.get("category", ""))
+    category = _categorize(market.get("category", ""), title)
     tags = _generate_tags(market)
     today = date.today().isoformat()
 

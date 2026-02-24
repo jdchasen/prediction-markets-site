@@ -2,7 +2,7 @@
 title: "Will the Washington Commanders win the 2027 NFL league championship?"
 description: "Current odds for Will the Washington Commanders win the 2027 NFL league championship? on Polymarket — 1.1% YES. Live market data and analysis."
 marketQuestion: "Will the Washington Commanders win the 2027 NFL league championship?"
-category: "politics"
+category: "sports"
 status: "active"
 lastUpdated: 2026-02-23
 expiryDate: 2027-03-31

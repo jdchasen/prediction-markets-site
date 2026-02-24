@@ -2,7 +2,7 @@
 title: "Will Frankenstein win Best Costume Design at the 98th Academy Awards?"
 description: "Current odds for Will Frankenstein win Best Costume Design at the 98th Academy Awards? on Polymarket — 90.5% YES. Live market data and analysis."
 marketQuestion: "Will Frankenstein win Best Costume Design at the 98th Academy Awards?"
-category: "politics"
+category: "entertainment"
 status: "active"
 lastUpdated: 2026-02-23
 expiryDate: 2026-03-15

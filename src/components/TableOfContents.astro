@@ -8,8 +8,8 @@ const toc = headings.filter((h) => h.depth >= 2 && h.depth <= 3);
 ---
 
 {toc.length > 0 && (
-  <nav class="mb-8 rounded-lg border border-gray-200 bg-gray-50 p-5">
-    <h2 class="mb-3 text-sm font-semibold uppercase tracking-wider text-gray-900">
+  <nav class="mb-8 rounded-lg border border-gray-200 dark:border-gray-700 bg-gray-50 dark:bg-gray-800/50 p-5">
+    <h2 class="mb-3 text-sm font-semibold uppercase tracking-wider text-gray-900 dark:text-gray-200">
       Table of Contents
     </h2>
     <ul class="space-y-1.5">
@@ -17,7 +17,7 @@ const toc = headings.filter((h) => h.depth >= 2 && h.depth <= 3);
         <li class:list={[heading.depth === 3 && 'ml-4']}>
           <a
             href={`#${heading.slug}`}
-            class="text-sm text-gray-600 hover:text-brand-600 hover:underline"
+            class="text-sm text-gray-600 dark:text-gray-400 hover:text-brand-600 dark:hover:text-brand-400 hover:underline"
           >
             {heading.text}
           </a>

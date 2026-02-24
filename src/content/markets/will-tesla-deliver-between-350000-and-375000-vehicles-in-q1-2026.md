@@ -2,7 +2,7 @@
 title: "Will Tesla deliver between 350000 and 375000 vehicles in Q1 2026"
 description: "Current odds for Will Tesla deliver between 350000 and 375000 vehicles in Q1 2026 on Polymarket — 12.0% YES. Live market data and analysis."
 marketQuestion: "Will Tesla deliver between 350000 and 375000 vehicles in Q1 2026"
-category: "politics"
+category: "finance"
 status: "active"
 lastUpdated: 2026-02-23
 expiryDate: 2026-03-31

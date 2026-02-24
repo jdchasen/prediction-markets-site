@@ -13,21 +13,56 @@ const navLinks = [
 const currentPath = Astro.url.pathname;
 ---
 
-<header class="border-b border-gray-200 bg-white">
-  <nav class="mx-auto flex max-w-6xl items-center justify-between px-4 py-4">
-    <a href="/" class="text-xl font-bold text-gray-900">
-      <span class="text-brand-600">Master</span>PredictionMarkets
+<header class="sticky top-0 z-40 border-b border-gray-200 dark:border-gray-800 bg-white/80 dark:bg-gray-900/80 backdrop-blur-md">
+  <nav class="mx-auto flex max-w-6xl items-center justify-between px-4 py-3">
+    <a href="/" class="text-xl font-bold text-gray-900 dark:text-white">
+      <span class="text-brand-600 dark:text-brand-400">Master</span>PredictionMarkets
     </a>
 
-    <button
-      id="mobile-menu-btn"
-      class="md:hidden rounded-md p-2 text-gray-600 hover:bg-gray-100"
-      aria-label="Toggle menu"
-    >
-      <svg class="h-6 w-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16" />
-      </svg>
-    </button>
+    <div class="flex items-center gap-2">
+      <!-- Search button (desktop) -->
+      <button
+        id="search-btn"
+        class="hidden md:inline-flex items-center gap-2 rounded-md border border-gray-200 dark:border-gray-700 bg-gray-50 dark:bg-gray-800 px-3 py-1.5 text-sm text-gray-500 dark:text-gray-400 transition-colors hover:border-gray-300 dark:hover:border-gray-600"
+        aria-label="Search"
+      >
+        <svg class="h-4 w-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
+        </svg>
+        <span class="hidden lg:inline">Search...</span>
+        <kbd class="hidden lg:inline rounded border border-gray-300 dark:border-gray-600 px-1.5 py-0.5 text-xs font-mono text-gray-400">⌘K</kbd>
+      </button>
+
+      <!-- Dark mode toggle -->
+      <button
+        id="theme-toggle"
+        class="hidden md:inline-flex rounded-md p-2 text-gray-500 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-800 transition-colors"
+        aria-label="Toggle dark mode"
+      >
+        <!-- Sun icon (shown in dark mode) -->
+        <svg class="h-5 w-5 hidden dark:block" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 3v1m0 16v1m9-9h-1M4 12H3m15.364 6.364l-.707-.707M6.343 6.343l-.707-.707m12.728 0l-.707.707M6.343 17.657l-.707.707M16 12a4 4 0 11-8 0 4 4 0 018 0z" />
+        </svg>
+        <!-- Moon icon (shown in light mode) -->
+        <svg class="h-5 w-5 block dark:hidden" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M20.354 15.354A9 9 0 018.646 3.646 9.003 9.003 0 0012 21a9.003 9.003 0 008.354-5.646z" />
+        </svg>
+      </button>
+
+      <!-- Mobile menu button -->
+      <button
+        id="mobile-menu-btn"
+        class="md:hidden rounded-md p-2 text-gray-600 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-800"
+        aria-label="Toggle menu"
+      >
+        <svg id="mobile-menu-open-icon" class="h-6 w-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16" />
+        </svg>
+        <svg id="mobile-menu-close-icon" class="h-6 w-6 hidden" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" />
+        </svg>
+      </button>
+    </div>
 
     <ul class="hidden md:flex items-center gap-6">
       {navLinks.map((link) => (
@@ -35,10 +70,10 @@ const currentPath = Astro.url.pathname;
           <a
             href={link.href}
             class:list={[
-              'text-sm font-medium transition-colors hover:text-brand-600',
+              'text-sm font-medium transition-colors hover:text-brand-600 dark:hover:text-brand-400',
               currentPath === link.href || currentPath.startsWith(link.href + '/')
-                ? 'text-brand-600'
-                : 'text-gray-600',
+                ? 'text-brand-600 dark:text-brand-400'
+                : 'text-gray-600 dark:text-gray-300',
             ]}
           >
             {link.label}
@@ -48,17 +83,43 @@ const currentPath = Astro.url.pathname;
     </ul>
   </nav>
 
-  <div id="mobile-menu" class="hidden border-t border-gray-200 md:hidden">
+  <!-- Mobile menu overlay -->
+  <div id="mobile-menu-overlay" class="fixed inset-0 z-40 bg-black/50 backdrop-blur-sm hidden md:hidden" aria-hidden="true"></div>
+
+  <!-- Mobile menu slide-in -->
+  <div id="mobile-menu" class="fixed top-0 right-0 z-50 h-full w-72 transform translate-x-full transition-transform duration-200 ease-in-out bg-white dark:bg-gray-900 border-l border-gray-200 dark:border-gray-800 md:hidden" aria-hidden="true">
+    <div class="flex items-center justify-between px-4 py-3 border-b border-gray-200 dark:border-gray-800">
+      <span class="text-sm font-semibold text-gray-900 dark:text-white">Menu</span>
+      <button id="mobile-menu-close" class="rounded-md p-2 text-gray-500 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-800" aria-label="Close menu">
+        <svg class="h-5 w-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" />
+        </svg>
+      </button>
+    </div>
+
+    <!-- Mobile search button -->
+    <div class="px-4 py-3 border-b border-gray-200 dark:border-gray-800">
+      <button
+        id="mobile-search-btn"
+        class="flex w-full items-center gap-2 rounded-md border border-gray-200 dark:border-gray-700 bg-gray-50 dark:bg-gray-800 px-3 py-2 text-sm text-gray-500 dark:text-gray-400"
+      >
+        <svg class="h-4 w-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
+        </svg>
+        Search articles...
+      </button>
+    </div>
+
     <ul class="space-y-1 px-4 py-3">
       {navLinks.map((link) => (
         <li>
           <a
             href={link.href}
             class:list={[
-              'block rounded-md px-3 py-2 text-sm font-medium transition-colors hover:bg-gray-100',
+              'block rounded-md px-3 py-2 text-sm font-medium transition-colors hover:bg-gray-100 dark:hover:bg-gray-800',
               currentPath === link.href || currentPath.startsWith(link.href + '/')
-                ? 'text-brand-600 bg-brand-50'
-                : 'text-gray-600',
+                ? 'text-brand-600 dark:text-brand-400 bg-brand-50 dark:bg-brand-950'
+                : 'text-gray-600 dark:text-gray-300',
             ]}
           >
             {link.label}
@@ -66,13 +127,86 @@ const currentPath = Astro.url.pathname;
         </li>
       ))}
     </ul>
+
+    <!-- Mobile dark mode toggle -->
+    <div class="px-4 py-3 border-t border-gray-200 dark:border-gray-800 mt-auto">
+      <button
+        id="mobile-theme-toggle"
+        class="flex w-full items-center gap-2 rounded-md px-3 py-2 text-sm font-medium text-gray-600 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-800 transition-colors"
+      >
+        <svg class="h-5 w-5 hidden dark:block" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 3v1m0 16v1m9-9h-1M4 12H3m15.364 6.364l-.707-.707M6.343 6.343l-.707-.707m12.728 0l-.707.707M6.343 17.657l-.707.707M16 12a4 4 0 11-8 0 4 4 0 018 0z" />
+        </svg>
+        <svg class="h-5 w-5 block dark:hidden" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M20.354 15.354A9 9 0 018.646 3.646 9.003 9.003 0 0012 21a9.003 9.003 0 008.354-5.646z" />
+        </svg>
+        <span class="dark:hidden">Dark mode</span>
+        <span class="hidden dark:inline">Light mode</span>
+      </button>
+    </div>
   </div>
 </header>
 
 <script>
-  const btn = document.getElementById('mobile-menu-btn');
+  // Dark mode toggle
+  function toggleTheme() {
+    const isDark = document.documentElement.classList.toggle('dark');
+    localStorage.setItem('theme', isDark ? 'dark' : 'light');
+  }
+
+  document.getElementById('theme-toggle')?.addEventListener('click', toggleTheme);
+  document.getElementById('mobile-theme-toggle')?.addEventListener('click', toggleTheme);
+
+  // Mobile menu
+  const menuBtn = document.getElementById('mobile-menu-btn');
+  const menuClose = document.getElementById('mobile-menu-close');
   const menu = document.getElementById('mobile-menu');
-  btn?.addEventListener('click', () => {
-    menu?.classList.toggle('hidden');
+  const overlay = document.getElementById('mobile-menu-overlay');
+  const openIcon = document.getElementById('mobile-menu-open-icon');
+  const closeIcon = document.getElementById('mobile-menu-close-icon');
+
+  function openMenu() {
+    menu?.classList.remove('translate-x-full');
+    menu?.classList.add('translate-x-0');
+    menu?.setAttribute('aria-hidden', 'false');
+    overlay?.classList.remove('hidden');
+    overlay?.setAttribute('aria-hidden', 'false');
+    openIcon?.classList.add('hidden');
+    closeIcon?.classList.remove('hidden');
+  }
+
+  function closeMenu() {
+    menu?.classList.add('translate-x-full');
+    menu?.classList.remove('translate-x-0');
+    menu?.setAttribute('aria-hidden', 'true');
+    overlay?.classList.add('hidden');
+    overlay?.setAttribute('aria-hidden', 'true');
+    openIcon?.classList.remove('hidden');
+    closeIcon?.classList.add('hidden');
+  }
+
+  menuBtn?.addEventListener('click', () => {
+    const isOpen = menu?.classList.contains('translate-x-0');
+    isOpen ? closeMenu() : openMenu();
+  });
+
+  menuClose?.addEventListener('click', closeMenu);
+  overlay?.addEventListener('click', closeMenu);
+
+  // Search button triggers
+  document.getElementById('search-btn')?.addEventListener('click', () => {
+    document.dispatchEvent(new CustomEvent('open-search'));
+  });
+  document.getElementById('mobile-search-btn')?.addEventListener('click', () => {
+    closeMenu();
+    document.dispatchEvent(new CustomEvent('open-search'));
+  });
+
+  // Cmd+K shortcut
+  document.addEventListener('keydown', (e) => {
+    if ((e.metaKey || e.ctrlKey) && e.key === 'k') {
+      e.preventDefault();
+      document.dispatchEvent(new CustomEvent('open-search'));
+    }
   });
 </script>

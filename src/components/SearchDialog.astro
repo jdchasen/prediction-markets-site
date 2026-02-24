@@ -1,0 +1,205 @@
+---
+import { getCollection } from 'astro:content';
+
+const now = new Date();
+const allPosts = (await getCollection('blog'))
+  .filter((post) => post.data.pubDate.valueOf() <= now.valueOf())
+  .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+
+const searchData = allPosts.map((post) => ({
+  title: post.data.title,
+  description: post.data.description,
+  category: post.data.category,
+  slug: post.id,
+}));
+
+const categoryColors: Record<string, string> = {
+  kalshi: 'bg-green-100 text-green-800 dark:bg-green-900/50 dark:text-green-300',
+  polymarket: 'bg-blue-100 text-blue-800 dark:bg-blue-900/50 dark:text-blue-300',
+  strategies: 'bg-purple-100 text-purple-800 dark:bg-purple-900/50 dark:text-purple-300',
+  beginners: 'bg-orange-100 text-orange-800 dark:bg-orange-900/50 dark:text-orange-300',
+};
+---
+
+<div
+  id="search-dialog"
+  class="fixed inset-0 z-50 hidden items-start justify-center bg-black/50 backdrop-blur-sm pt-[15vh]"
+  aria-hidden="true"
+>
+  <div class="relative mx-4 w-full max-w-xl rounded-xl bg-white dark:bg-gray-800 shadow-2xl overflow-hidden">
+    <!-- Search input -->
+    <div class="flex items-center gap-3 border-b border-gray-200 dark:border-gray-700 px-4 py-3">
+      <svg class="h-5 w-5 flex-shrink-0 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
+      </svg>
+      <input
+        id="search-input"
+        type="text"
+        placeholder="Search articles..."
+        class="flex-1 bg-transparent text-sm text-gray-900 dark:text-gray-100 placeholder-gray-400 dark:placeholder-gray-500 outline-none"
+        autocomplete="off"
+      />
+      <kbd class="rounded border border-gray-300 dark:border-gray-600 px-1.5 py-0.5 text-xs font-mono text-gray-400">Esc</kbd>
+    </div>
+
+    <!-- Results -->
+    <div id="search-results" class="max-h-[50vh] overflow-y-auto">
+      <div id="search-empty" class="px-4 py-8 text-center text-sm text-gray-500 dark:text-gray-400">
+        Type to search articles...
+      </div>
+      <ul id="search-list" class="hidden divide-y divide-gray-100 dark:divide-gray-700">
+      </ul>
+      <div id="search-no-results" class="hidden px-4 py-8 text-center text-sm text-gray-500 dark:text-gray-400">
+        No articles found.
+      </div>
+    </div>
+  </div>
+</div>
+
+<script define:vars={{ searchData, categoryColors }}>
+  window.__searchData = searchData;
+  window.__categoryColors = categoryColors;
+</script>
+
+<script>
+  const dialog = document.getElementById('search-dialog')!;
+  const input = document.getElementById('search-input') as HTMLInputElement;
+  const list = document.getElementById('search-list')!;
+  const empty = document.getElementById('search-empty')!;
+  const noResults = document.getElementById('search-no-results')!;
+
+  const data = (window as any).__searchData as Array<{ title: string; description: string; category: string; slug: string }>;
+  const catColors = (window as any).__categoryColors as Record<string, string>;
+
+  let activeIndex = -1;
+  let filteredResults: typeof data = [];
+
+  function openSearch() {
+    dialog.classList.remove('hidden');
+    dialog.classList.add('flex');
+    dialog.setAttribute('aria-hidden', 'false');
+    input.value = '';
+    input.focus();
+    renderResults('');
+  }
+
+  function closeSearch() {
+    dialog.classList.add('hidden');
+    dialog.classList.remove('flex');
+    dialog.setAttribute('aria-hidden', 'true');
+    activeIndex = -1;
+  }
+
+  function renderResults(query: string) {
+    const q = query.toLowerCase().trim();
+
+    if (!q) {
+      list.classList.add('hidden');
+      noResults.classList.add('hidden');
+      empty.classList.remove('hidden');
+      filteredResults = [];
+      activeIndex = -1;
+      return;
+    }
+
+    filteredResults = data.filter(
+      (item) =>
+        item.title.toLowerCase().includes(q) ||
+        item.description.toLowerCase().includes(q) ||
+        item.category.toLowerCase().includes(q)
+    );
+
+    empty.classList.add('hidden');
+
+    if (filteredResults.length === 0) {
+      list.classList.add('hidden');
+      noResults.classList.remove('hidden');
+      activeIndex = -1;
+      return;
+    }
+
+    noResults.classList.add('hidden');
+    list.classList.remove('hidden');
+
+    list.innerHTML = filteredResults
+      .slice(0, 10)
+      .map(
+        (item, i) => `
+        <li>
+          <a href="/blog/${item.slug}" class="search-result flex items-start gap-3 px-4 py-3 transition-colors hover:bg-gray-50 dark:hover:bg-gray-700/50 ${i === activeIndex ? 'bg-gray-50 dark:bg-gray-700/50' : ''}" data-index="${i}">
+            <div class="flex-1 min-w-0">
+              <div class="flex items-center gap-2 mb-1">
+                <span class="rounded-full px-2 py-0.5 text-xs font-medium capitalize ${catColors[item.category] || 'bg-gray-100 text-gray-800 dark:bg-gray-700 dark:text-gray-300'}">${item.category}</span>
+              </div>
+              <p class="text-sm font-medium text-gray-900 dark:text-gray-100 truncate">${item.title}</p>
+              <p class="text-xs text-gray-500 dark:text-gray-400 truncate mt-0.5">${item.description}</p>
+            </div>
+            <svg class="h-4 w-4 flex-shrink-0 mt-1 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
+            </svg>
+          </a>
+        </li>
+      `
+      )
+      .join('');
+
+    activeIndex = -1;
+  }
+
+  function updateActive() {
+    const items = list.querySelectorAll('.search-result');
+    items.forEach((el, i) => {
+      if (i === activeIndex) {
+        el.classList.add('bg-gray-50', 'dark:bg-gray-700/50');
+        el.scrollIntoView({ block: 'nearest' });
+      } else {
+        el.classList.remove('bg-gray-50', 'dark:bg-gray-700/50');
+      }
+    });
+  }
+
+  function navigateToActive() {
+    if (activeIndex >= 0 && activeIndex < filteredResults.length) {
+      window.location.href = `/blog/${filteredResults[activeIndex].slug}`;
+    }
+  }
+
+  // Open/close
+  document.addEventListener('open-search', openSearch);
+
+  dialog.addEventListener('click', (e) => {
+    if (e.target === dialog) closeSearch();
+  });
+
+  // Input
+  input.addEventListener('input', () => {
+    renderResults(input.value);
+  });
+
+  // Keyboard navigation
+  input.addEventListener('keydown', (e) => {
+    const max = Math.min(filteredResults.length, 10);
+
+    if (e.key === 'ArrowDown') {
+      e.preventDefault();
+      activeIndex = activeIndex < max - 1 ? activeIndex + 1 : 0;
+      updateActive();
+    } else if (e.key === 'ArrowUp') {
+      e.preventDefault();
+      activeIndex = activeIndex > 0 ? activeIndex - 1 : max - 1;
+      updateActive();
+    } else if (e.key === 'Enter') {
+      e.preventDefault();
+      navigateToActive();
+    } else if (e.key === 'Escape') {
+      closeSearch();
+    }
+  });
+
+  // Global Escape
+  document.addEventListener('keydown', (e) => {
+    if (e.key === 'Escape' && !dialog.classList.contains('hidden')) {
+      closeSearch();
+    }
+  });
+</script>

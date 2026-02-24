@@ -8,22 +8,31 @@ interface Props {
 }
 
 const { title, description, href, icon, color } = Astro.props;
+
+const accentColors: Record<string, string> = {
+  'bg-brand-100 text-brand-700': 'border-t-brand-500',
+  'bg-purple-100 text-purple-700': 'border-t-purple-500',
+  'bg-green-100 text-green-700': 'border-t-green-500',
+  'bg-amber-100 text-amber-700': 'border-t-amber-500',
+};
+
+const accentClass = accentColors[color] || 'border-t-brand-500';
 ---
 
 <a
   href={href}
-  class="group rounded-lg border border-gray-200 bg-white p-6 transition-all hover:shadow-md hover:border-gray-300"
+  class:list={['group rounded-lg border border-gray-200 dark:border-gray-700 border-t-4 bg-white dark:bg-gray-800 p-6 transition-all hover:shadow-md hover:border-gray-300 dark:hover:border-gray-600 hover:-translate-y-0.5', accentClass]}
 >
-  <div class:list={['mb-4 inline-flex h-12 w-12 items-center justify-center rounded-lg', color]}>
+  <div class:list={['mb-4 inline-flex h-14 w-14 items-center justify-center rounded-lg', color]}>
     <Fragment set:html={icon} />
   </div>
-  <h3 class="mb-2 text-lg font-semibold text-gray-900 group-hover:text-brand-600">
+  <h3 class="mb-2 text-lg font-semibold text-gray-900 dark:text-gray-100 group-hover:text-brand-600 dark:group-hover:text-brand-400">
     {title}
   </h3>
-  <p class="text-sm leading-relaxed text-gray-600">
+  <p class="text-sm leading-relaxed text-gray-600 dark:text-gray-400">
     {description}
   </p>
-  <span class="mt-3 inline-block text-sm font-medium text-brand-600 group-hover:text-brand-700">
+  <span class="mt-3 inline-block text-sm font-medium text-brand-600 dark:text-brand-400 group-hover:text-brand-700 dark:group-hover:text-brand-300">
     Open tool &rarr;
   </span>
 </a>
