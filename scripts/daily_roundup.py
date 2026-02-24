@@ -372,6 +372,78 @@ affiliate: "kalshi"
 
 
 # ---------------------------------------------------------------------------
+# Tweet generation + posting
+# ---------------------------------------------------------------------------
+
+def generate_tweet(article_date: date, article_body: str) -> str:
+    """Generate a punchy tweet for the daily article via Claude API."""
+    date_iso = article_date.isoformat()
+    article_url = f"https://masterpredictionmarkets.com/blog/daily-market-pulse-{date_iso}"
+
+    client = anthropic.Anthropic()
+    message = client.messages.create(
+        model="claude-sonnet-4-5-20250929",
+        max_tokens=300,
+        messages=[{
+            "role": "user",
+            "content": (
+                f"Write a tweet (max 200 characters BEFORE the URL and hashtags) "
+                f"promoting this daily prediction market roundup article. "
+                f"Include 1-2 specific data points from the article (e.g., prices, "
+                f"probabilities, volumes). Be punchy and attention-grabbing.\n\n"
+                f"ARTICLE:\n{article_body[:2000]}\n\n"
+                f"OUTPUT FORMAT (output ONLY this, no quotes):\n"
+                f"[tweet text]\n\n"
+                f"{article_url}\n\n"
+                f"#PredictionMarkets #Kalshi #Polymarket"
+            ),
+        }],
+    )
+    tweet = message.content[0].text.strip()
+
+    # Ensure URL and hashtags are present
+    if article_url not in tweet:
+        tweet = f"{tweet}\n\n{article_url}"
+    if "#PredictionMarkets" not in tweet:
+        tweet = f"{tweet}\n\n#PredictionMarkets #Kalshi #Polymarket"
+
+    return tweet
+
+
+def post_tweet(tweet_text: str) -> bool:
+    """Post a tweet via Twitter API v2 using tweepy. Returns True on success."""
+    api_key = os.environ.get("TWITTER_API_KEY", "")
+    api_secret = os.environ.get("TWITTER_API_SECRET", "")
+    access_token = os.environ.get("TWITTER_ACCESS_TOKEN", "")
+    access_token_secret = os.environ.get("TWITTER_ACCESS_TOKEN_SECRET", "")
+
+    if not all([api_key, api_secret, access_token, access_token_secret]):
+        print("  Twitter credentials not configured, skipping tweet")
+        return False
+
+    try:
+        import tweepy
+    except ImportError:
+        print("  tweepy not installed, skipping tweet")
+        return False
+
+    try:
+        client = tweepy.Client(
+            consumer_key=api_key,
+            consumer_secret=api_secret,
+            access_token=access_token,
+            access_token_secret=access_token_secret,
+        )
+        response = client.create_tweet(text=tweet_text)
+        tweet_id = response.data["id"]
+        print(f"  Tweet posted: https://x.com/master_mar686/status/{tweet_id}")
+        return True
+    except Exception as e:
+        print(f"  Twitter API error: {e}")
+        return False
+
+
+# ---------------------------------------------------------------------------
 # Main
 # ---------------------------------------------------------------------------
 
@@ -414,6 +486,13 @@ def main():
     filepath = CONTENT_DIR / filename
     filepath.write_text(content)
     print(f"  Saved: {filepath}")
+
+    # Step 4: Generate and post tweet
+    print("  Generating tweet via Claude API...")
+    tweet_text = generate_tweet(article_date, content)
+    print(f"  Tweet:\n{tweet_text}")
+    post_tweet(tweet_text)
+
     print(f"Done! Article: {filename}")
 
 
