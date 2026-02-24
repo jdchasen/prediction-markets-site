@@ -1,0 +1,206 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import CTABanner from '../../components/CTABanner.astro';
+import NewsletterForm from '../../components/NewsletterForm.astro';
+import ArticleCard from '../../components/ArticleCard.astro';
+import { getCollection, render } from 'astro:content';
+
+export async function getStaticPaths() {
+  const markets = await getCollection('markets');
+  return markets.map((market) => ({
+    params: { slug: market.id },
+    props: market,
+  }));
+}
+
+const market = Astro.props;
+const { Content } = await render(market);
+
+const KALSHI_REFERRAL = "https://kalshi.com/sign-up/?referral=f2e21ad4-75b7-4ffb-bfcc-f2fb36e07b21&m=true";
+const POLYMARKET_REFERRAL = "https://polymarket.us/1762";
+
+const isSettled = market.data.status === 'settled';
+const settledDaysAgo = isSettled && market.data.lastUpdated
+  ? Math.floor((Date.now() - new Date(market.data.lastUpdated).getTime()) / (1000 * 60 * 60 * 24))
+  : 0;
+const noindex = isSettled && settledDaysAgo > 90;
+
+const formattedDate = market.data.lastUpdated.toLocaleDateString('en-US', {
+  year: 'numeric',
+  month: 'long',
+  day: 'numeric',
+});
+
+// Find related blog articles by matching tags
+const allPosts = await getCollection('blog');
+const marketTags = new Set(market.data.tags.map((t: string) => t.toLowerCase()));
+const relatedPosts = allPosts
+  .map((post) => {
+    const overlap = post.data.tags.filter((t: string) => marketTags.has(t.toLowerCase())).length;
+    return { post, overlap };
+  })
+  .filter(({ overlap }) => overlap > 0)
+  .sort((a, b) => b.overlap - a.overlap)
+  .slice(0, 3)
+  .map(({ post }) => post);
+
+// Build FAQ schema
+const faqItems = [];
+const question = market.data.marketQuestion;
+
+if (market.data.kalshiYes !== undefined && market.data.polymarketYes !== undefined) {
+  faqItems.push({
+    "@type": "Question",
+    "name": `What are the current odds for "${question}"?`,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": `As of ${formattedDate}, Kalshi prices YES at ${market.data.kalshiYes}% and Polymarket prices YES at ${market.data.polymarketYes}%.`
+    }
+  });
+} else if (market.data.kalshiYes !== undefined) {
+  faqItems.push({
+    "@type": "Question",
+    "name": `What are the current odds for "${question}"?`,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": `As of ${formattedDate}, Kalshi prices YES at ${market.data.kalshiYes}%.`
+    }
+  });
+} else if (market.data.polymarketYes !== undefined) {
+  faqItems.push({
+    "@type": "Question",
+    "name": `What are the current odds for "${question}"?`,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": `As of ${formattedDate}, Polymarket prices YES at ${market.data.polymarketYes}%.`
+    }
+  });
+}
+
+faqItems.push({
+  "@type": "Question",
+  "name": "Where can I trade on this prediction market?",
+  "acceptedAnswer": {
+    "@type": "Answer",
+    "text": `You can trade this market on ${market.data.kalshiYes !== undefined ? 'Kalshi (US-regulated)' : ''}${market.data.kalshiYes !== undefined && market.data.polymarketYes !== undefined ? ' and ' : ''}${market.data.polymarketYes !== undefined ? 'Polymarket (crypto-based)' : ''}.`
+  }
+});
+
+faqItems.push({
+  "@type": "Question",
+  "name": "How do prediction market odds work?",
+  "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Prediction market prices represent the market's implied probability of an event occurring. A YES price of 75% means traders collectively believe there's a 75% chance the event will happen. You can buy YES (betting it will happen) or NO (betting it won't) and profit if you're correct."
+  }
+});
+
+const faqSchema = {
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": faqItems
+};
+
+const categoryColors: Record<string, string> = {
+  politics: 'bg-red-100 text-red-800',
+  economics: 'bg-yellow-100 text-yellow-800',
+  crypto: 'bg-purple-100 text-purple-800',
+  finance: 'bg-green-100 text-green-800',
+  sports: 'bg-orange-100 text-orange-800',
+  tech: 'bg-blue-100 text-blue-800',
+  entertainment: 'bg-pink-100 text-pink-800',
+  science: 'bg-teal-100 text-teal-800',
+};
+
+const catColor = categoryColors[market.data.category] || 'bg-gray-100 text-gray-800';
+---
+
+<BaseLayout
+  title={`${market.data.title} — Odds & Predictions`}
+  description={market.data.description}
+>
+  <Fragment slot="head">
+    <script type="application/ld+json" set:html={JSON.stringify(faqSchema)} />
+    {noindex && <meta name="robots" content="noindex" />}
+  </Fragment>
+
+  <article class="mx-auto max-w-3xl px-4 py-12">
+    {isSettled && (
+      <div class:list={[
+        'mb-6 rounded-lg border-2 p-4 text-center',
+        market.data.outcome === 'YES' ? 'border-green-300 bg-green-50' : 'border-red-300 bg-red-50',
+      ]}>
+        <p class="text-lg font-bold">
+          This market has settled:
+          <span class:list={[market.data.outcome === 'YES' ? 'text-green-700' : 'text-red-700']}>
+            {market.data.outcome || 'RESOLVED'}
+          </span>
+        </p>
+        <p class="mt-1 text-sm text-gray-600">
+          Settled on {formattedDate}
+        </p>
+      </div>
+    )}
+
+    <header class="mb-8">
+      <div class="mb-4 flex items-center gap-3">
+        <span class:list={['rounded-full px-2.5 py-0.5 text-xs font-medium capitalize', catColor]}>
+          {market.data.category}
+        </span>
+        <span class:list={[
+          'rounded-full px-2.5 py-0.5 text-xs font-medium',
+          isSettled ? 'bg-gray-200 text-gray-700' : 'bg-green-100 text-green-800',
+        ]}>
+          {isSettled ? 'Settled' : 'Active'}
+        </span>
+        <time class="text-sm text-gray-500">
+          Updated {formattedDate}
+        </time>
+      </div>
+      <h1 class="text-3xl font-bold leading-tight text-gray-900 md:text-4xl">
+        {market.data.title}
+      </h1>
+      <p class="mt-4 text-lg text-gray-600">{market.data.description}</p>
+    </header>
+
+    <div class="prose prose-gray max-w-none prose-headings:scroll-mt-20 prose-a:text-brand-600 prose-a:no-underline hover:prose-a:underline">
+      <Content />
+    </div>
+
+    <NewsletterForm variant="banner" />
+
+    <CTABanner platform="kalshi" />
+
+    {market.data.tags.length > 0 && (
+      <div class="mt-8 border-t border-gray-200 pt-6">
+        <div class="flex flex-wrap gap-2">
+          {market.data.tags.map((tag: string) => (
+            <span class="rounded-full bg-gray-100 px-3 py-1 text-xs text-gray-600">
+              {tag}
+            </span>
+          ))}
+        </div>
+      </div>
+    )}
+  </article>
+
+  {relatedPosts.length > 0 && (
+    <section class="border-t border-gray-200 bg-gray-50 py-12">
+      <div class="mx-auto max-w-6xl px-4">
+        <h2 class="mb-8 text-2xl font-bold text-gray-900">Related Articles</h2>
+        <div class="grid grid-cols-1 gap-6 md:grid-cols-3">
+          {relatedPosts.map((related) => (
+            <ArticleCard
+              title={related.data.title}
+              description={related.data.description}
+              pubDate={related.data.pubDate}
+              category={related.data.category}
+              slug={related.id}
+              heroImage={related.data.heroImage}
+            />
+          ))}
+        </div>
+      </div>
+    </section>
+  )}
+</BaseLayout>

@@ -1,0 +1,182 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import NewsletterForm from '../../components/NewsletterForm.astro';
+import { getCollection } from 'astro:content';
+
+const allMarkets = await getCollection('markets');
+
+// Sort: active first, then by volume (kalshi + polymarket combined)
+const sortedMarkets = allMarkets.sort((a, b) => {
+  // Active before settled
+  if (a.data.status !== b.data.status) {
+    return a.data.status === 'active' ? -1 : 1;
+  }
+  // Then by combined volume descending
+  const aVol = (a.data.kalshiVolume || 0) + (a.data.polymarketVolume || 0);
+  const bVol = (b.data.kalshiVolume || 0) + (b.data.polymarketVolume || 0);
+  return bVol - aVol;
+});
+
+// Collect unique categories for filter tabs
+const categories = [...new Set(allMarkets.map((m) => m.data.category))].sort();
+
+const categoryColors: Record<string, string> = {
+  politics: 'bg-red-100 text-red-800',
+  economics: 'bg-yellow-100 text-yellow-800',
+  crypto: 'bg-purple-100 text-purple-800',
+  finance: 'bg-green-100 text-green-800',
+  sports: 'bg-orange-100 text-orange-800',
+  tech: 'bg-blue-100 text-blue-800',
+  entertainment: 'bg-pink-100 text-pink-800',
+  science: 'bg-teal-100 text-teal-800',
+};
+
+function formatVolume(vol: number | undefined, platform: string): string {
+  if (!vol) return '';
+  if (platform === 'polymarket') {
+    if (vol >= 1_000_000) return `$${(vol / 1_000_000).toFixed(1)}M`;
+    if (vol >= 1_000) return `$${(vol / 1_000).toFixed(0)}K`;
+    return `$${vol.toLocaleString()}`;
+  }
+  if (vol >= 1_000_000) return `${(vol / 1_000_000).toFixed(1)}M`;
+  if (vol >= 1_000) return `${(vol / 1_000).toFixed(0)}K`;
+  return vol.toLocaleString();
+}
+---
+
+<BaseLayout
+  title="Prediction Market Odds — Live Probabilities & Prices"
+  description="Live prediction market odds for politics, crypto, economics, sports, and more. Compare prices across Kalshi and Polymarket."
+>
+  <section class="bg-gradient-to-b from-brand-50 to-white py-12">
+    <div class="mx-auto max-w-6xl px-4 text-center">
+      <h1 class="mb-4 text-3xl font-bold tracking-tight text-gray-900 md:text-4xl">
+        Prediction Market <span class="text-brand-600">Odds</span>
+      </h1>
+      <p class="mx-auto mb-6 max-w-2xl text-lg text-gray-600">
+        Live odds from Kalshi and Polymarket on politics, crypto, economics, sports, and more.
+        Updated daily with real market data.
+      </p>
+    </div>
+  </section>
+
+  <section class="py-8">
+    <div class="mx-auto max-w-6xl px-4">
+      <!-- Category filter tabs -->
+      <div class="mb-8 flex flex-wrap gap-2" id="category-filters">
+        <button
+          class="filter-btn active rounded-full border border-brand-600 bg-brand-600 px-4 py-1.5 text-sm font-medium text-white transition-colors"
+          data-category="all"
+        >
+          All
+        </button>
+        {categories.map((cat) => (
+          <button
+            class:list={[
+              'filter-btn rounded-full border border-gray-300 px-4 py-1.5 text-sm font-medium text-gray-600 transition-colors hover:border-brand-600 hover:text-brand-600',
+            ]}
+            data-category={cat}
+          >
+            {cat.charAt(0).toUpperCase() + cat.slice(1)}
+          </button>
+        ))}
+      </div>
+
+      <!-- Market cards grid -->
+      <div class="grid grid-cols-1 gap-4 md:grid-cols-2 lg:grid-cols-3" id="market-grid">
+        {sortedMarkets.map((market) => {
+          const catColor = categoryColors[market.data.category] || 'bg-gray-100 text-gray-800';
+          const isSettled = market.data.status === 'settled';
+          const primaryYes = market.data.kalshiYes ?? market.data.polymarketYes ?? 0;
+
+          return (
+            <a
+              href={`/odds/${market.id}`}
+              class="market-card group rounded-lg border border-gray-200 bg-white p-5 transition-shadow hover:shadow-md"
+              data-category={market.data.category}
+            >
+              <div class="mb-3 flex items-center gap-2">
+                <span class:list={['rounded-full px-2.5 py-0.5 text-xs font-medium capitalize', catColor]}>
+                  {market.data.category}
+                </span>
+                <span class:list={[
+                  'rounded-full px-2.5 py-0.5 text-xs font-medium',
+                  isSettled ? 'bg-gray-200 text-gray-700' : 'bg-green-100 text-green-800',
+                ]}>
+                  {isSettled ? 'Settled' : 'Active'}
+                </span>
+              </div>
+
+              <h2 class="mb-3 text-base font-semibold text-gray-900 group-hover:text-brand-600 line-clamp-2">
+                {market.data.marketQuestion}
+              </h2>
+
+              <div class="space-y-1.5">
+                {market.data.kalshiYes !== undefined && (
+                  <div class="flex items-center justify-between text-sm">
+                    <span class="text-gray-500">Kalshi</span>
+                    <div class="flex items-center gap-3">
+                      <span class="font-medium text-green-700">{market.data.kalshiYes}% Yes</span>
+                      <span class="text-gray-400">{formatVolume(market.data.kalshiVolume, 'kalshi')} vol</span>
+                    </div>
+                  </div>
+                )}
+                {market.data.polymarketYes !== undefined && (
+                  <div class="flex items-center justify-between text-sm">
+                    <span class="text-gray-500">Polymarket</span>
+                    <div class="flex items-center gap-3">
+                      <span class="font-medium text-blue-700">{market.data.polymarketYes}% Yes</span>
+                      <span class="text-gray-400">{formatVolume(market.data.polymarketVolume, 'polymarket')} vol</span>
+                    </div>
+                  </div>
+                )}
+              </div>
+            </a>
+          );
+        })}
+      </div>
+
+      {sortedMarkets.length === 0 && (
+        <div class="py-16 text-center">
+          <p class="text-lg text-gray-500">No market odds pages yet. Run the generation script to populate.</p>
+          <code class="mt-2 inline-block rounded bg-gray-100 px-3 py-1 text-sm text-gray-700">
+            python scripts/generate_odds_pages.py
+          </code>
+        </div>
+      )}
+    </div>
+  </section>
+
+  <section class="py-8">
+    <div class="mx-auto max-w-3xl px-4">
+      <NewsletterForm variant="banner" />
+    </div>
+  </section>
+</BaseLayout>
+
+<script>
+  const buttons = document.querySelectorAll('.filter-btn');
+  const cards = document.querySelectorAll('.market-card');
+
+  buttons.forEach((btn) => {
+    btn.addEventListener('click', () => {
+      // Update active state
+      buttons.forEach((b) => {
+        b.classList.remove('active', 'bg-brand-600', 'text-white', 'border-brand-600');
+        b.classList.add('border-gray-300', 'text-gray-600');
+      });
+      btn.classList.add('active', 'bg-brand-600', 'text-white', 'border-brand-600');
+      btn.classList.remove('border-gray-300', 'text-gray-600');
+
+      const category = (btn as HTMLElement).dataset.category;
+
+      cards.forEach((card) => {
+        if (category === 'all' || (card as HTMLElement).dataset.category === category) {
+          (card as HTMLElement).style.display = '';
+        } else {
+          (card as HTMLElement).style.display = 'none';
+        }
+      });
+    });
+  });
+</script>

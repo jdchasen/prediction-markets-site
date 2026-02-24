@@ -11,6 +11,16 @@ const allPosts = (await getCollection('blog')).sort(
 
 const featuredPosts = allPosts.slice(0, 6);
 
+const allMarkets = await getCollection('markets');
+const trendingMarkets = allMarkets
+  .filter((m) => m.data.status === 'active')
+  .sort((a, b) => {
+    const aVol = (a.data.kalshiVolume || 0) + (a.data.polymarketVolume || 0);
+    const bVol = (b.data.kalshiVolume || 0) + (b.data.polymarketVolume || 0);
+    return bVol - aVol;
+  })
+  .slice(0, 6);
+
 const categories = [
   { name: 'Kalshi', slug: 'kalshi', description: 'Guides and strategies for trading on Kalshi', color: 'bg-green-50 border-green-200 text-green-900' },
   { name: 'Polymarket', slug: 'polymarket', description: 'Everything about crypto prediction markets', color: 'bg-blue-50 border-blue-200 text-blue-900' },
@@ -89,6 +99,48 @@ const categories = [
       </div>
     </div>
   </section>
+
+  {trendingMarkets.length > 0 && (
+    <section class="border-t border-gray-100 py-12">
+      <div class="mx-auto max-w-6xl px-4">
+        <div class="mb-8 flex items-center justify-between">
+          <h2 class="text-2xl font-bold text-gray-900">Trending Market Odds</h2>
+          <a href="/odds" class="text-sm font-medium text-brand-600 hover:text-brand-700">
+            View all &rarr;
+          </a>
+        </div>
+        <div class="grid grid-cols-1 gap-4 md:grid-cols-2 lg:grid-cols-3">
+          {trendingMarkets.map((market) => {
+            const primaryYes = market.data.kalshiYes ?? market.data.polymarketYes ?? 0;
+            return (
+              <a
+                href={`/odds/${market.id}`}
+                class="group rounded-lg border border-gray-200 bg-white p-5 transition-shadow hover:shadow-md"
+              >
+                <h3 class="mb-3 text-base font-semibold text-gray-900 group-hover:text-brand-600 line-clamp-2">
+                  {market.data.marketQuestion}
+                </h3>
+                <div class="space-y-1.5">
+                  {market.data.kalshiYes !== undefined && (
+                    <div class="flex items-center justify-between text-sm">
+                      <span class="text-gray-500">Kalshi</span>
+                      <span class="font-medium text-green-700">{market.data.kalshiYes}% Yes</span>
+                    </div>
+                  )}
+                  {market.data.polymarketYes !== undefined && (
+                    <div class="flex items-center justify-between text-sm">
+                      <span class="text-gray-500">Polymarket</span>
+                      <span class="font-medium text-blue-700">{market.data.polymarketYes}% Yes</span>
+                    </div>
+                  )}
+                </div>
+              </a>
+            );
+          })}
+        </div>
+      </div>
+    </section>
+  )}
 
   <section class="py-12">
     <div class="mx-auto max-w-3xl px-4 space-y-6">

@@ -21,7 +21,7 @@ import os
 import re
 import sys
 import time
-from datetime import date, datetime
+from datetime import date, datetime, timezone, timedelta
 from pathlib import Path
 
 try:
@@ -146,8 +146,8 @@ def fetch_kalshi_markets(limit: int = 10) -> list[dict]:
         print(f"  Kalshi API error: {e}")
         return []
 
-    # Sort by volume descending, take top N
-    markets.sort(key=lambda m: m.get("volume", 0) or 0, reverse=True)
+    # Sort by 24h volume descending so the mix changes daily
+    markets.sort(key=lambda m: m.get("volume_24h", 0) or 0, reverse=True)
     results = []
     for m in markets[:limit]:
         yes_price = m.get("yes_ask") or m.get("last_price") or 0
@@ -253,6 +253,19 @@ def build_market_context(kalshi: list[dict], poly: list[dict]) -> str:
     return "\n".join(lines)
 
 
+def _load_yesterday_article(article_date: date) -> str:
+    """Load yesterday's article body to avoid repetition."""
+    yesterday = article_date - timedelta(days=1)
+    yesterday_file = CONTENT_DIR / f"daily-market-pulse-{yesterday.isoformat()}.md"
+    if yesterday_file.exists():
+        content = yesterday_file.read_text()
+        # Strip frontmatter
+        parts = content.split("---", 2)
+        if len(parts) >= 3:
+            return parts[2].strip()[:2000]  # first 2000 chars of body
+    return ""
+
+
 def generate_article(
     article_date: date,
     kalshi_markets: list[dict],
@@ -279,21 +292,35 @@ def generate_article(
     else:
         platform_note = "Only Polymarket data is available today — focus on Polymarket markets."
 
+    # Load yesterday's article for differentiation
+    yesterday_body = _load_yesterday_article(article_date)
+    yesterday_block = ""
+    if yesterday_body:
+        yesterday_block = f"""
+YESTERDAY'S ARTICLE (DO NOT repeat the same framing, lead story, section structure, or angles):
+{yesterday_body}
+"""
+
+    # Day-of-week for variety hooks
+    day_of_week = article_date.strftime("%A")  # e.g. "Monday"
+
     system = (
         "You are a prediction markets analyst writing a daily roundup for "
         "Master Prediction Markets (masterpredictionmarkets.com). Write in a "
         "professional, data-driven tone — like a Bloomberg terminal meets "
         "a knowledgeable friend. Reference specific prices and volumes. "
-        "Do NOT fabricate market data — only reference markets from the data provided."
+        "Do NOT fabricate market data — only reference markets from the data provided. "
+        "Each day's article MUST feel distinct — vary your opening style, section themes, "
+        "analytical angles, and which markets you lead with."
     )
 
-    prompt = f"""Write a daily prediction market roundup article for {date_str}.
+    prompt = f"""Write a daily prediction market roundup article for {date_str} ({day_of_week}).
 
 {platform_note}
 
 REAL MARKET DATA (use these numbers — do not invent markets):
 {market_context}
-
+{yesterday_block}
 REQUIREMENTS:
 1. Title format: "Daily Market Pulse: {date_str} — [catchy subtitle about the day's top story]"
 2. Write 800-1000 words covering:
@@ -313,6 +340,15 @@ REQUIREMENTS:
 8. Do NOT start with the title — just begin with an engaging opening paragraph
 9. Use H2 (##) for main sections, H3 (###) for subsections if needed
 10. Do NOT use the word "meme" to describe any markets
+11. CRITICAL: If yesterday's article is provided above, you MUST:
+    - Use a DIFFERENT opening style (don't start with "The prediction markets landscape...")
+    - Lead with a DIFFERENT market or angle than yesterday
+    - Use DIFFERENT H2 section names and groupings
+    - If the same market appeared yesterday, focus on what CHANGED (price moves, volume shifts)
+    - Choose DIFFERENT internal article links than yesterday used
+12. Vary your writing approach: some days lead with a single market deep-dive,
+    others with a cross-market theme, others with a surprising data point.
+    Don't settle into a formula.
 
 OUTPUT ONLY the markdown article body."""
 
@@ -460,7 +496,10 @@ def main():
     if args.date:
         article_date = date.fromisoformat(args.date)
     else:
-        article_date = date.today()
+        # Use ET (UTC-5) so the article date matches the US calendar day,
+        # even when the GitHub Actions runner is in UTC.
+        et = timezone(timedelta(hours=-5))
+        article_date = datetime.now(et).date()
 
     print(f"Generating Daily Market Pulse for {article_date.isoformat()}...")
 

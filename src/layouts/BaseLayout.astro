@@ -41,6 +41,7 @@ const { title, description, image, article, pubDate } = Astro.props;
       href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap"
       rel="stylesheet"
     />
+    <slot name="head" />
   </head>
   <body class="bg-white text-gray-900 min-h-screen flex flex-col">
     <Header />
