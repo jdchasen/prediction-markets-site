@@ -4,16 +4,16 @@ description: "Current odds for Will Russia enter Kramatorsk by June 30? on Polym
 marketQuestion: "Will Russia enter Kramatorsk by June 30?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-02-23
+lastUpdated: 2026-02-24
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
 polymarketYes: 18.5
 polymarketNo: 81.5
-polymarketVolume: 96555
+polymarketVolume: 96799
 polymarketUrl: "https://polymarket.com/event/will-russia-enter-kramatorsk-by-june-30-821-192"
 ---
 
-**"Will Russia enter Kramatorsk by June 30?"** is viewed as quite unlikely by traders, with strong odds favoring a NO outcome. Here's a breakdown of the current odds across prediction market platforms, updated as of February 23, 2026.
+**"Will Russia enter Kramatorsk by June 30?"** is viewed as quite unlikely by traders, with strong odds favoring a NO outcome. Here's a breakdown of the current odds across prediction market platforms, updated as of February 24, 2026.
 
 ## Current Odds
 
@@ -33,7 +33,7 @@ On **[Polymarket](https://polymarket.us/1762)**, you trade using USDC on the Pol
 
 ### What are the current odds for "Will Russia enter Kramatorsk by June 30?"?
 
-As of February 23, 2026, Polymarket prices YES at 18.5%. This is based on real-money trading activity.
+As of February 24, 2026, Polymarket prices YES at 18.5%. This is based on real-money trading activity.
 
 ### Where can I trade on this prediction market?
 

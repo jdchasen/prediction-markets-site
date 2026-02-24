@@ -3,8 +3,8 @@ title: "Will Coinbase be accused of insider trading?"
 description: "Current odds for Will Coinbase be accused of insider trading? on Polymarket — 3.2% YES. Live market data and analysis."
 marketQuestion: "Will Coinbase be accused of insider trading?"
 category: "crypto"
-status: "active"
-lastUpdated: 2026-02-23
+status: "settled"
+lastUpdated: 2026-02-24
 tags: ["politics", "polymarket", "sports"]
 polymarketYes: 3.2
 polymarketNo: 96.8

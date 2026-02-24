@@ -3,8 +3,8 @@ title: "Will Jacob Elordi win Best Supporting Actor at the 98th Academy Awards?"
 description: "Current odds for Will Jacob Elordi win Best Supporting Actor at the 98th Academy Awards? on Polymarket — 4.6% YES. Live market data and analysis."
 marketQuestion: "Will Jacob Elordi win Best Supporting Actor at the 98th Academy Awards?"
 category: "entertainment"
-status: "active"
-lastUpdated: 2026-02-23
+status: "settled"
+lastUpdated: 2026-02-24
 expiryDate: 2026-03-15
 tags: ["politics", "polymarket"]
 polymarketYes: 4.6

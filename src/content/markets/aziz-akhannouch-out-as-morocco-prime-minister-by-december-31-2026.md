@@ -1,25 +1,25 @@
 ---
 title: "Aziz Akhannouch out as Morocco Prime Minister by December 31, 2026?"
-description: "Current odds for Aziz Akhannouch out as Morocco Prime Minister by December 31, 2026? on Polymarket — 83.9% YES. Live market data and analysis."
+description: "Current odds for Aziz Akhannouch out as Morocco Prime Minister by December 31, 2026? on Polymarket — 83.7% YES. Live market data and analysis."
 marketQuestion: "Aziz Akhannouch out as Morocco Prime Minister by December 31, 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-02-23
+lastUpdated: 2026-02-24
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 83.9
-polymarketNo: 16.1
-polymarketVolume: 96017
+polymarketYes: 83.7
+polymarketNo: 16.3
+polymarketVolume: 96370
 polymarketUrl: "https://polymarket.com/event/aziz-akhannouch-out-as-morocco-prime-minister-by-december-31-2026"
 ---
 
-**"Aziz Akhannouch out as Morocco Prime Minister by December 31, 2026?"** is leaning likely according to market pricing, with a solid majority of traders betting YES. Here's a breakdown of the current odds across prediction market platforms, updated as of February 23, 2026.
+**"Aziz Akhannouch out as Morocco Prime Minister by December 31, 2026?"** is leaning likely according to market pricing, with a solid majority of traders betting YES. Here's a breakdown of the current odds across prediction market platforms, updated as of February 24, 2026.
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 83.9% | 16.1% | $96K | [Trade on Polymarket](https://polymarket.us/1762) |
+| Polymarket | 83.7% | 16.3% | $96K | [Trade on Polymarket](https://polymarket.us/1762) |
 
 ## What the Odds Mean
 
@@ -33,7 +33,7 @@ On **[Polymarket](https://polymarket.us/1762)**, you trade using USDC on the Pol
 
 ### What are the current odds for "Aziz Akhannouch out as Morocco Prime Minister by December 31, 2026?"?
 
-As of February 23, 2026, Polymarket prices YES at 83.9%. This is based on real-money trading activity.
+As of February 24, 2026, Polymarket prices YES at 83.7%. This is based on real-money trading activity.
 
 ### Where can I trade on this prediction market?
 

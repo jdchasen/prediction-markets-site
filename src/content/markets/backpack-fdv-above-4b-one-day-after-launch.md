@@ -4,22 +4,22 @@ description: "Current odds for Backpack FDV above $4B one day after launch? on P
 marketQuestion: "Backpack FDV above $4B one day after launch?"
 category: "crypto"
 status: "active"
-lastUpdated: 2026-02-23
+lastUpdated: 2026-02-24
 expiryDate: 2027-01-01
-tags: ["politics", "polymarket"]
+tags: ["crypto", "polymarket"]
 polymarketYes: 0.9
 polymarketNo: 99.2
-polymarketVolume: 97119
+polymarketVolume: 98342
 polymarketUrl: "https://polymarket.com/event/backpack-fdv-above-4b-one-day-after-launch-847-752-138"
 ---
 
-**"Backpack FDV above $4B one day after launch?"** is considered extremely unlikely by the market, with minimal chance of a YES resolution. Here's a breakdown of the current odds across prediction market platforms, updated as of February 23, 2026.
+**"Backpack FDV above $4B one day after launch?"** is considered extremely unlikely by the market, with minimal chance of a YES resolution. Here's a breakdown of the current odds across prediction market platforms, updated as of February 24, 2026.
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.9% | 99.2% | $97K | [Trade on Polymarket](https://polymarket.us/1762) |
+| Polymarket | 0.9% | 99.2% | $98K | [Trade on Polymarket](https://polymarket.us/1762) |
 
 ## What the Odds Mean
 
@@ -33,7 +33,7 @@ On **[Polymarket](https://polymarket.us/1762)**, you trade using USDC on the Pol
 
 ### What are the current odds for "Backpack FDV above $4B one day after launch?"?
 
-As of February 23, 2026, Polymarket prices YES at 0.9%. This is based on real-money trading activity.
+As of February 24, 2026, Polymarket prices YES at 0.9%. This is based on real-money trading activity.
 
 ### Where can I trade on this prediction market?
 

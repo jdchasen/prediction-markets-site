@@ -1,25 +1,25 @@
 ---
 title: "Will the U.S. test a nuclear weapon by March 31 2026?"
-description: "Current odds for Will the U.S. test a nuclear weapon by March 31 2026? on Polymarket — 1.8% YES. Live market data and analysis."
+description: "Current odds for Will the U.S. test a nuclear weapon by March 31 2026? on Polymarket — 1.6% YES. Live market data and analysis."
 marketQuestion: "Will the U.S. test a nuclear weapon by March 31 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-02-23
+lastUpdated: 2026-02-24
 expiryDate: 2026-03-31
 tags: ["politics", "polymarket"]
-polymarketYes: 1.8
-polymarketNo: 98.2
-polymarketVolume: 96542
+polymarketYes: 1.6
+polymarketNo: 98.4
+polymarketVolume: 96544
 polymarketUrl: "https://polymarket.com/event/will-the-us-test-a-nuclear-weapon-by-march-31-2026"
 ---
 
-**"Will the U.S. test a nuclear weapon by March 31 2026?"** is considered extremely unlikely by the market, with minimal chance of a YES resolution. Here's a breakdown of the current odds across prediction market platforms, updated as of February 23, 2026.
+**"Will the U.S. test a nuclear weapon by March 31 2026?"** is considered extremely unlikely by the market, with minimal chance of a YES resolution. Here's a breakdown of the current odds across prediction market platforms, updated as of February 24, 2026.
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 1.8% | 98.2% | $97K | [Trade on Polymarket](https://polymarket.us/1762) |
+| Polymarket | 1.6% | 98.4% | $97K | [Trade on Polymarket](https://polymarket.us/1762) |
 
 ## What the Odds Mean
 
@@ -33,7 +33,7 @@ On **[Polymarket](https://polymarket.us/1762)**, you trade using USDC on the Pol
 
 ### What are the current odds for "Will the U.S. test a nuclear weapon by March 31 2026?"?
 
-As of February 23, 2026, Polymarket prices YES at 1.8%. This is based on real-money trading activity.
+As of February 24, 2026, Polymarket prices YES at 1.6%. This is based on real-money trading activity.
 
 ### Where can I trade on this prediction market?
 

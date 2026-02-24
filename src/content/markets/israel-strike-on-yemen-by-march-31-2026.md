@@ -1,29 +1,29 @@
 ---
 title: "Israel strike on Yemen by March 31, 2026?"
-description: "Current odds for Israel strike on Yemen by March 31, 2026? on Polymarket — 43.5% YES. Live market data and analysis."
+description: "Current odds for Israel strike on Yemen by March 31, 2026? on Polymarket — 43.0% YES. Live market data and analysis."
 marketQuestion: "Israel strike on Yemen by March 31, 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-02-23
+lastUpdated: 2026-02-24
 expiryDate: 2026-03-31
 tags: ["politics", "polymarket"]
-polymarketYes: 43.5
-polymarketNo: 56.5
-polymarketVolume: 97389
+polymarketYes: 43.0
+polymarketNo: 57.0
+polymarketVolume: 97472
 polymarketUrl: "https://polymarket.com/event/israel-strike-on-yemen-by-march-31-2026"
 ---
 
-**"Israel strike on Yemen by March 31, 2026?"** is considered unlikely by the market, with odds leaning toward NO. Here's a breakdown of the current odds across prediction market platforms, updated as of February 23, 2026.
+**"Israel strike on Yemen by March 31, 2026?"** is considered unlikely by the market, with odds leaning toward NO. Here's a breakdown of the current odds across prediction market platforms, updated as of February 24, 2026.
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 43.5% | 56.5% | $97K | [Trade on Polymarket](https://polymarket.us/1762) |
+| Polymarket | 43.0% | 57.0% | $97K | [Trade on Polymarket](https://polymarket.us/1762) |
 
 ## What the Odds Mean
 
-At **44%**, this market is genuinely uncertain — close to a toss-up. These are often the most interesting markets to trade because the potential for price movement in either direction is high.
+At **43%**, this market is genuinely uncertain — close to a toss-up. These are often the most interesting markets to trade because the potential for price movement in either direction is high.
 
 ## How to Trade This Market
 
@@ -33,7 +33,7 @@ On **[Polymarket](https://polymarket.us/1762)**, you trade using USDC on the Pol
 
 ### What are the current odds for "Israel strike on Yemen by March 31, 2026?"?
 
-As of February 23, 2026, Polymarket prices YES at 43.5%. This is based on real-money trading activity.
+As of February 24, 2026, Polymarket prices YES at 43.0%. This is based on real-money trading activity.
 
 ### Where can I trade on this prediction market?
 

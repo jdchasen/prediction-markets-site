@@ -3,8 +3,8 @@ title: "Will Diosdado Cabello Rondón be the leader of Venezuela end of 2026?"
 description: "Current odds for Will Diosdado Cabello Rondón be the leader of Venezuela end of 2026? on Polymarket — 1.9% YES. Live market data and analysis."
 marketQuestion: "Will Diosdado Cabello Rondón be the leader of Venezuela end of 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-02-23
+status: "settled"
+lastUpdated: 2026-02-24
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 1.9

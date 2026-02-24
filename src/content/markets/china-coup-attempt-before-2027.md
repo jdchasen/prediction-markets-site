@@ -3,8 +3,8 @@ title: "China coup attempt before 2027?"
 description: "Current odds for China coup attempt before 2027? on Polymarket — 4.6% YES. Live market data and analysis."
 marketQuestion: "China coup attempt before 2027?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-02-23
+status: "settled"
+lastUpdated: 2026-02-24
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 4.6

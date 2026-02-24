@@ -1,25 +1,25 @@
 ---
-title: "Will Tiger Woods win the 2026 Masters tournament?"
-description: "Current odds for Will Tiger Woods win the 2026 Masters tournament? on Polymarket — 0.9% YES. Live market data and analysis."
-marketQuestion: "Will Tiger Woods win the 2026 Masters tournament?"
+title: "Will Tyrrell Hatton win the 2026 Masters tournament?"
+description: "Current odds for Will Tyrrell Hatton win the 2026 Masters tournament? on Polymarket — 1.1% YES. Live market data and analysis."
+marketQuestion: "Will Tyrrell Hatton win the 2026 Masters tournament?"
 category: "sports"
-status: "settled"
+status: "active"
 lastUpdated: 2026-02-24
 expiryDate: 2026-04-13
-tags: ["politics", "polymarket"]
-polymarketYes: 0.9
-polymarketNo: 99.1
-polymarketVolume: 99662
-polymarketUrl: "https://polymarket.com/event/will-tiger-woods-win-the-2026-masters-tournament"
+tags: ["polymarket", "sports"]
+polymarketYes: 1.1
+polymarketNo: 99.0
+polymarketVolume: 987416
+polymarketUrl: "https://polymarket.com/event/will-tyrrell-hatton-win-the-2026-masters-tournament"
 ---
 
-**"Will Tiger Woods win the 2026 Masters tournament?"** is considered extremely unlikely by the market, with minimal chance of a YES resolution. Here's a breakdown of the current odds across prediction market platforms, updated as of February 23, 2026.
+**"Will Tyrrell Hatton win the 2026 Masters tournament?"** is considered extremely unlikely by the market, with minimal chance of a YES resolution. Here's a breakdown of the current odds across prediction market platforms, updated as of February 24, 2026.
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.9% | 99.1% | $100K | [Trade on Polymarket](https://polymarket.us/1762) |
+| Polymarket | 1.1% | 99.0% | $987K | [Trade on Polymarket](https://polymarket.us/1762) |
 
 ## What the Odds Mean
 
@@ -31,9 +31,9 @@ On **[Polymarket](https://polymarket.us/1762)**, you trade using USDC on the Pol
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Tiger Woods win the 2026 Masters tournament?"?
+### What are the current odds for "Will Tyrrell Hatton win the 2026 Masters tournament?"?
 
-As of February 23, 2026, Polymarket prices YES at 0.9%. This is based on real-money trading activity.
+As of February 24, 2026, Polymarket prices YES at 1.1%. This is based on real-money trading activity.
 
 ### Where can I trade on this prediction market?
 

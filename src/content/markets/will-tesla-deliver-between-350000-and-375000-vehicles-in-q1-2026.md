@@ -1,25 +1,25 @@
 ---
 title: "Will Tesla deliver between 350000 and 375000 vehicles in Q1 2026"
-description: "Current odds for Will Tesla deliver between 350000 and 375000 vehicles in Q1 2026 on Polymarket — 12.0% YES. Live market data and analysis."
+description: "Current odds for Will Tesla deliver between 350000 and 375000 vehicles in Q1 2026 on Polymarket — 12.5% YES. Live market data and analysis."
 marketQuestion: "Will Tesla deliver between 350000 and 375000 vehicles in Q1 2026"
 category: "finance"
 status: "active"
-lastUpdated: 2026-02-23
+lastUpdated: 2026-02-24
 expiryDate: 2026-03-31
-tags: ["politics", "polymarket"]
-polymarketYes: 12.0
-polymarketNo: 88.0
-polymarketVolume: 97564
+tags: ["finance", "polymarket"]
+polymarketYes: 12.5
+polymarketNo: 87.5
+polymarketVolume: 98230
 polymarketUrl: "https://polymarket.com/event/will-tesla-deliver-between-350000-and-375000-vehicles-in-q1-2026"
 ---
 
-**"Will Tesla deliver between 350000 and 375000 vehicles in Q1 2026"** is viewed as quite unlikely by traders, with strong odds favoring a NO outcome. Here's a breakdown of the current odds across prediction market platforms, updated as of February 23, 2026.
+**"Will Tesla deliver between 350000 and 375000 vehicles in Q1 2026"** is viewed as quite unlikely by traders, with strong odds favoring a NO outcome. Here's a breakdown of the current odds across prediction market platforms, updated as of February 24, 2026.
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 12.0% | 88.0% | $98K | [Trade on Polymarket](https://polymarket.us/1762) |
+| Polymarket | 12.5% | 87.5% | $98K | [Trade on Polymarket](https://polymarket.us/1762) |
 
 ## What the Odds Mean
 
@@ -33,7 +33,7 @@ On **[Polymarket](https://polymarket.us/1762)**, you trade using USDC on the Pol
 
 ### What are the current odds for "Will Tesla deliver between 350000 and 375000 vehicles in Q1 2026"?
 
-As of February 23, 2026, Polymarket prices YES at 12.0%. This is based on real-money trading activity.
+As of February 24, 2026, Polymarket prices YES at 12.5%. This is based on real-money trading activity.
 
 ### Where can I trade on this prediction market?
 

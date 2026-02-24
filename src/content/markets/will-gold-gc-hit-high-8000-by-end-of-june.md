@@ -1,25 +1,25 @@
 ---
-title: "Claudia Sheinbaum out as President of Mexico by June 30?"
-description: "Current odds for Claudia Sheinbaum out as President of Mexico by June 30? on Polymarket — 6.3% YES. Live market data and analysis."
-marketQuestion: "Claudia Sheinbaum out as President of Mexico by June 30?"
-category: "politics"
-status: "settled"
+title: "Will Gold (GC) hit (HIGH) $8,000 by end of June?"
+description: "Current odds for Will Gold (GC) hit (HIGH) $8,000 by end of June? on Polymarket — 5.9% YES. Live market data and analysis."
+marketQuestion: "Will Gold (GC) hit (HIGH) $8,000 by end of June?"
+category: "finance"
+status: "active"
 lastUpdated: 2026-02-24
 expiryDate: 2026-06-30
-tags: ["politics", "polymarket", "sports"]
-polymarketYes: 6.3
-polymarketNo: 93.7
-polymarketVolume: 98292
-polymarketUrl: "https://polymarket.com/event/claudia-sheinbaum-out-as-president-of-mexico-by-june-30-791"
+tags: ["finance", "polymarket"]
+polymarketYes: 5.9
+polymarketNo: 94.0
+polymarketVolume: 97684
+polymarketUrl: "https://polymarket.com/event/gc-hit-8000-high-jun-2026-342-647-753"
 ---
 
-**"Claudia Sheinbaum out as President of Mexico by June 30?"** is considered extremely unlikely by the market, with minimal chance of a YES resolution. Here's a breakdown of the current odds across prediction market platforms, updated as of February 23, 2026.
+**"Will Gold (GC) hit (HIGH) $8,000 by end of June?"** is considered extremely unlikely by the market, with minimal chance of a YES resolution. Here's a breakdown of the current odds across prediction market platforms, updated as of February 24, 2026.
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 6.3% | 93.7% | $98K | [Trade on Polymarket](https://polymarket.us/1762) |
+| Polymarket | 5.9% | 94.0% | $98K | [Trade on Polymarket](https://polymarket.us/1762) |
 
 ## What the Odds Mean
 
@@ -31,9 +31,9 @@ On **[Polymarket](https://polymarket.us/1762)**, you trade using USDC on the Pol
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Claudia Sheinbaum out as President of Mexico by June 30?"?
+### What are the current odds for "Will Gold (GC) hit (HIGH) $8,000 by end of June?"?
 
-As of February 23, 2026, Polymarket prices YES at 6.3%. This is based on real-money trading activity.
+As of February 24, 2026, Polymarket prices YES at 5.9%. This is based on real-money trading activity.
 
 ### Where can I trade on this prediction market?
 

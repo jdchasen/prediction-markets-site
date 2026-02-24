@@ -14,6 +14,8 @@ Environment variables:
   KALSHI_PRIVATE_KEY    — base64-encoded RSA private key PEM
 """
 
+from __future__ import annotations
+
 import base64
 import json
 import os

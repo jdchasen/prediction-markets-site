@@ -3,8 +3,8 @@ title: "Will there be 14–16 inches of snow in NYC this weekend?"
 description: "Current odds for Will there be 14–16 inches of snow in NYC this weekend? on Polymarket — 0.1% YES. Live market data and analysis."
 marketQuestion: "Will there be 14–16 inches of snow in NYC this weekend?"
 category: "science"
-status: "active"
-lastUpdated: 2026-02-23
+status: "settled"
+lastUpdated: 2026-02-24
 tags: ["politics", "polymarket"]
 polymarketYes: 0.1
 polymarketNo: 99.9

@@ -3,8 +3,8 @@ title: "Will USD.AI launch a token by March 31?"
 description: "Current odds for Will USD.AI launch a token by March 31? on Polymarket — 83.0% YES. Live market data and analysis."
 marketQuestion: "Will USD.AI launch a token by March 31?"
 category: "crypto"
-status: "active"
-lastUpdated: 2026-02-23
+status: "settled"
+lastUpdated: 2026-02-24
 expiryDate: 2026-04-01
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 83.0

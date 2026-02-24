@@ -4,16 +4,16 @@ description: "Current odds for Will Lorient win the 2025–26 French Ligue 1? on
 marketQuestion: "Will Lorient win the 2025–26 French Ligue 1?"
 category: "sports"
 status: "active"
-lastUpdated: 2026-02-23
+lastUpdated: 2026-02-24
 expiryDate: 2026-05-30
-tags: ["politics", "polymarket"]
+tags: ["polymarket", "sports"]
 polymarketYes: 0.1
 polymarketNo: 100.0
 polymarketVolume: 98294
 polymarketUrl: "https://polymarket.com/event/will-lorient-win-the-202526-french-ligue-1"
 ---
 
-**"Will Lorient win the 2025–26 French Ligue 1?"** is considered extremely unlikely by the market, with minimal chance of a YES resolution. Here's a breakdown of the current odds across prediction market platforms, updated as of February 23, 2026.
+**"Will Lorient win the 2025–26 French Ligue 1?"** is considered extremely unlikely by the market, with minimal chance of a YES resolution. Here's a breakdown of the current odds across prediction market platforms, updated as of February 24, 2026.
 
 ## Current Odds
 
@@ -33,7 +33,7 @@ On **[Polymarket](https://polymarket.us/1762)**, you trade using USDC on the Pol
 
 ### What are the current odds for "Will Lorient win the 2025–26 French Ligue 1?"?
 
-As of February 23, 2026, Polymarket prices YES at 0.1%. This is based on real-money trading activity.
+As of February 24, 2026, Polymarket prices YES at 0.1%. This is based on real-money trading activity.
 
 ### Where can I trade on this prediction market?
 

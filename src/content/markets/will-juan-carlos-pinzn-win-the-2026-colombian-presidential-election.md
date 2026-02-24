@@ -4,7 +4,7 @@ description: "Current odds for Will Juan Carlos Pinzón win the 2026 Colombian p
 marketQuestion: "Will Juan Carlos Pinzón win the 2026 Colombian presidential election?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-02-23
+lastUpdated: 2026-02-24
 expiryDate: 2026-06-21
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.5
@@ -13,7 +13,7 @@ polymarketVolume: 98895
 polymarketUrl: "https://polymarket.com/event/will-juan-carlos-pinzn-win-the-2026-colombian-presidential-election"
 ---
 
-**"Will Juan Carlos Pinzón win the 2026 Colombian presidential election?"** is considered extremely unlikely by the market, with minimal chance of a YES resolution. Here's a breakdown of the current odds across prediction market platforms, updated as of February 23, 2026.
+**"Will Juan Carlos Pinzón win the 2026 Colombian presidential election?"** is considered extremely unlikely by the market, with minimal chance of a YES resolution. Here's a breakdown of the current odds across prediction market platforms, updated as of February 24, 2026.
 
 ## Current Odds
 
@@ -29,15 +29,11 @@ At **0%**, the market considers this outcome unlikely. Contrarian YES positions 
 
 On **[Polymarket](https://polymarket.us/1762)**, you trade using USDC on the Polygon blockchain. Polymarket offers deep liquidity and a wide range of markets on current events.
 
-## Learn More
-
-- [Polymarket Election Trading](/blog/polymarket-election-trading)
-
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Juan Carlos Pinzón win the 2026 Colombian presidential election?"?
 
-As of February 23, 2026, Polymarket prices YES at 0.5%. This is based on real-money trading activity.
+As of February 24, 2026, Polymarket prices YES at 0.5%. This is based on real-money trading activity.
 
 ### Where can I trade on this prediction market?
 

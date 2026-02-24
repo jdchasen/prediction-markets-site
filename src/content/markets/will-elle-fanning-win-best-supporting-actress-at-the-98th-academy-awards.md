@@ -1,25 +1,25 @@
 ---
 title: "Will Elle Fanning win Best Supporting Actress at the 98th Academy Awards?"
-description: "Current odds for Will Elle Fanning win Best Supporting Actress at the 98th Academy Awards? on Polymarket — 1.8% YES. Live market data and analysis."
+description: "Current odds for Will Elle Fanning win Best Supporting Actress at the 98th Academy Awards? on Polymarket — 1.7% YES. Live market data and analysis."
 marketQuestion: "Will Elle Fanning win Best Supporting Actress at the 98th Academy Awards?"
 category: "entertainment"
 status: "active"
-lastUpdated: 2026-02-23
+lastUpdated: 2026-02-24
 expiryDate: 2026-03-15
-tags: ["politics", "polymarket"]
-polymarketYes: 1.8
-polymarketNo: 98.2
-polymarketVolume: 97170
+tags: ["entertainment", "polymarket"]
+polymarketYes: 1.7
+polymarketNo: 98.4
+polymarketVolume: 98347
 polymarketUrl: "https://polymarket.com/event/will-elle-fanning-win-best-supporting-actress-at-the-98th-academy-awards"
 ---
 
-**"Will Elle Fanning win Best Supporting Actress at the 98th Academy Awards?"** is considered extremely unlikely by the market, with minimal chance of a YES resolution. Here's a breakdown of the current odds across prediction market platforms, updated as of February 23, 2026.
+**"Will Elle Fanning win Best Supporting Actress at the 98th Academy Awards?"** is considered extremely unlikely by the market, with minimal chance of a YES resolution. Here's a breakdown of the current odds across prediction market platforms, updated as of February 24, 2026.
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 1.8% | 98.2% | $97K | [Trade on Polymarket](https://polymarket.us/1762) |
+| Polymarket | 1.7% | 98.4% | $98K | [Trade on Polymarket](https://polymarket.us/1762) |
 
 ## What the Odds Mean
 
@@ -33,7 +33,7 @@ On **[Polymarket](https://polymarket.us/1762)**, you trade using USDC on the Pol
 
 ### What are the current odds for "Will Elle Fanning win Best Supporting Actress at the 98th Academy Awards?"?
 
-As of February 23, 2026, Polymarket prices YES at 1.8%. This is based on real-money trading activity.
+As of February 24, 2026, Polymarket prices YES at 1.7%. This is based on real-money trading activity.
 
 ### Where can I trade on this prediction market?
 

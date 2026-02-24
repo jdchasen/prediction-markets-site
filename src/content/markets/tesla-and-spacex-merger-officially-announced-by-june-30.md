@@ -4,16 +4,16 @@ description: "Current odds for Tesla and SpaceX merger officially announced by J
 marketQuestion: "Tesla and SpaceX merger officially announced by June 30?"
 category: "finance"
 status: "active"
-lastUpdated: 2026-02-23
+lastUpdated: 2026-02-24
 expiryDate: 2026-06-30
-tags: ["politics", "polymarket"]
+tags: ["finance", "polymarket"]
 polymarketYes: 11.5
 polymarketNo: 88.5
-polymarketVolume: 99848
+polymarketVolume: 99858
 polymarketUrl: "https://polymarket.com/event/tesla-and-spacex-merger-officially-announced-by-june-30"
 ---
 
-**"Tesla and SpaceX merger officially announced by June 30?"** is viewed as quite unlikely by traders, with strong odds favoring a NO outcome. Here's a breakdown of the current odds across prediction market platforms, updated as of February 23, 2026.
+**"Tesla and SpaceX merger officially announced by June 30?"** is viewed as quite unlikely by traders, with strong odds favoring a NO outcome. Here's a breakdown of the current odds across prediction market platforms, updated as of February 24, 2026.
 
 ## Current Odds
 
@@ -33,7 +33,7 @@ On **[Polymarket](https://polymarket.us/1762)**, you trade using USDC on the Pol
 
 ### What are the current odds for "Tesla and SpaceX merger officially announced by June 30?"?
 
-As of February 23, 2026, Polymarket prices YES at 11.5%. This is based on real-money trading activity.
+As of February 24, 2026, Polymarket prices YES at 11.5%. This is based on real-money trading activity.
 
 ### Where can I trade on this prediction market?
 
