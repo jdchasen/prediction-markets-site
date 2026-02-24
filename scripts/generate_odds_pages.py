@@ -37,8 +37,8 @@ KALSHI_REFERRAL = "https://kalshi.com/sign-up/?referral=f2e21ad4-75b7-4ffb-bfcc-
 POLYMARKET_REFERRAL = "https://polymarket.us/1762"
 
 # Minimum thresholds
-MIN_KALSHI_VOLUME = 5_000       # contracts
-MIN_POLYMARKET_VOLUME = 50_000  # USD
+MIN_KALSHI_VOLUME = 1_000       # contracts
+MIN_POLYMARKET_VOLUME = 10_000  # USD
 
 # Category whitelist (normalized lowercase)
 CATEGORY_WHITELIST = {
@@ -62,22 +62,46 @@ TITLE_BLOCKLIST = [
 
 MAX_PAGES = 150
 
-EXISTING_ARTICLES = [
-    ("/blog/what-are-prediction-markets", "What Are Prediction Markets", ["prediction markets", "beginner"]),
-    ("/blog/kalshi-review", "Kalshi Review", ["kalshi"]),
-    ("/blog/polymarket-guide-how-to-trade-crypto-prediction-markets", "Polymarket Guide", ["polymarket", "crypto"]),
-    ("/blog/kalshi-vs-polymarket-which-platform-should-you-use", "Kalshi vs Polymarket", ["kalshi", "polymarket"]),
-    ("/blog/how-to-trade-weather-markets-on-kalshi", "How to Trade Weather Markets", ["weather", "kalshi"]),
-    ("/blog/prediction-market-strategies-finding-edge-as-a-retail-trader", "Prediction Market Strategies", ["strategies", "edge"]),
-    ("/blog/understanding-event-contract-pricing-and-probability", "Event Contract Pricing", ["pricing", "probability"]),
-    ("/blog/kalshi-fees-explained", "Kalshi Fees Explained", ["kalshi", "fees"]),
-    ("/blog/best-prediction-market-platforms", "Best Prediction Market Platforms", ["platforms", "comparison"]),
-    ("/blog/prediction-markets-making-money", "Making Money with Prediction Markets", ["trading", "profit"]),
-    ("/blog/kalshi-spx-trading", "Kalshi SPX Trading", ["spx", "s&p", "stock"]),
-    ("/blog/what-are-event-contracts", "What Are Event Contracts", ["event contracts", "beginner"]),
-    ("/blog/prediction-markets-vs-sports-betting-key-differences", "Prediction Markets vs Sports Betting", ["sports", "betting"]),
-    ("/blog/polymarket-election-trading", "Polymarket Election Trading", ["election", "polymarket", "politics"]),
-]
+_BLOG_ARTICLES_CACHE: list[tuple[str, str, list[str]]] | None = None
+
+BLOG_DIR = Path(__file__).parent.parent / "src" / "content" / "blog"
+
+
+def _scan_blog_articles() -> list[tuple[str, str, list[str]]]:
+    """Scan src/content/blog/*.md frontmatter for (path, title, tags).
+
+    Results are cached at module level so repeated calls are free.
+    """
+    global _BLOG_ARTICLES_CACHE
+    if _BLOG_ARTICLES_CACHE is not None:
+        return _BLOG_ARTICLES_CACHE
+
+    articles: list[tuple[str, str, list[str]]] = []
+    if not BLOG_DIR.exists():
+        _BLOG_ARTICLES_CACHE = articles
+        return articles
+
+    for md_file in sorted(BLOG_DIR.glob("*.md")):
+        text = md_file.read_text(errors="replace")
+        # Parse YAML frontmatter between --- fences
+        fm_match = re.match(r"^---\s*\n(.*?)\n---", text, re.DOTALL)
+        if not fm_match:
+            continue
+        fm_text = fm_match.group(1)
+
+        title_m = re.search(r'^title:\s*"(.+)"', fm_text, re.MULTILINE)
+        title = title_m.group(1) if title_m else md_file.stem.replace("-", " ").title()
+
+        tags: list[str] = []
+        tags_m = re.search(r'^tags:\s*\[(.+)\]', fm_text, re.MULTILINE)
+        if tags_m:
+            tags = [t.strip().strip('"').strip("'") for t in tags_m.group(1).split(",")]
+
+        slug = md_file.stem
+        articles.append((f"/blog/{slug}", title, tags))
+
+    _BLOG_ARTICLES_CACHE = articles
+    return articles
 
 
 # ---------------------------------------------------------------------------
@@ -423,7 +447,7 @@ def _find_related_articles(market: dict) -> list[tuple[str, str]]:
     title_lower = market["title"].lower()
     cat_lower = (market.get("category") or "").lower()
     scored = []
-    for path, label, keywords in EXISTING_ARTICLES:
+    for path, label, keywords in _scan_blog_articles():
         score = sum(1 for kw in keywords if kw in title_lower or kw in cat_lower)
         if score > 0:
             scored.append((score, path, label))

@@ -1,6 +1,10 @@
 name: Scheduled Deploy
 
 on:
+  push:
+    branches: [main]
+    paths-ignore:
+      - '.github/workflows/**'
   schedule:
     # 9:00 AM ET (14:00 UTC) every day
     - cron: '0 14 * * *'
