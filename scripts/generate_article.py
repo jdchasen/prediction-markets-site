@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+from __future__ import annotations
 """
 Content generation pipeline for Master Prediction Markets.
 
@@ -12,9 +13,10 @@ Usage:
     python generate_article.py --csv keywords.csv
 
 CSV format:
-  topic,category,words,affiliate
+  topic,category,words,affiliate[,market_url]
   "How to Trade Weather Markets on Kalshi",kalshi,2000,kalshi
   "Polymarket Guide for Beginners",polymarket,1500,polymarket
+  "Will Bitcoin Hit $75K?",strategies,1500,kalshi,will-bitcoin-reach-75000-by-december-31-2026
 """
 
 import argparse
@@ -63,7 +65,7 @@ Requirements:
 6. Do NOT include a title line — just the article body in markdown
 7. Do NOT include frontmatter — just the article content
 8. Aim for exactly {words} words
-
+{market_url_instruction}
 Write the article now in markdown:"""
 
 
@@ -93,6 +95,7 @@ def generate_article(
     words: int = 1500,
     affiliate: str | None = None,
     tags: list[str] | None = None,
+    market_url: str | None = None,
 ) -> tuple[str, str]:
     """Generate an article using the Claude API.
 
@@ -100,6 +103,12 @@ def generate_article(
     """
     client = anthropic.Anthropic()
     keyword = extract_keyword(topic)
+
+    market_url_instruction = ""
+    if market_url:
+        urls = [u.strip() for u in market_url.split("|")]
+        links = " and ".join(f"{SITE_URL}/odds/{u}" for u in urls)
+        market_url_instruction = f"\n9. Naturally include a link to the live odds page(s): {links} — weave it into the article body (e.g. \"check the latest odds\" or \"see current market pricing\"), don't just drop a raw URL."
 
     message = client.messages.create(
         model="claude-sonnet-4-5-20250929",
@@ -112,6 +121,7 @@ def generate_article(
                 topic=topic,
                 category=category,
                 keyword=keyword,
+                market_url_instruction=market_url_instruction,
             ),
         }],
     )
@@ -179,12 +189,15 @@ def process_csv(csv_path: str) -> list[dict]:
     with open(csv_path, 'r') as f:
         reader = csv.DictReader(f)
         for row in reader:
-            articles.append({
+            config = {
                 'topic': row['topic'].strip(),
                 'category': row['category'].strip(),
                 'words': int(row.get('words', 1500)),
                 'affiliate': row.get('affiliate', '').strip() or None,
-            })
+            }
+            if row.get('market_url', '').strip():
+                config['market_url'] = row['market_url'].strip()
+            articles.append(config)
     return articles
 
 
