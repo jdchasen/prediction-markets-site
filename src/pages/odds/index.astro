@@ -66,7 +66,7 @@ function formatVolume(vol: number | undefined, platform: string): string {
       <div class="mb-8 flex flex-wrap gap-2" id="category-filters">
         <a
           href="/odds"
-          class="filter-btn active rounded-full border border-brand-600 bg-brand-600 px-4 py-1.5 text-sm font-medium text-white transition-colors"
+          class="filter-btn active rounded-full border border-brand-600 bg-brand-600 px-4 py-2 text-sm font-medium text-white transition-colors"
           data-category="all"
         >
           All
@@ -75,7 +75,7 @@ function formatVolume(vol: number | undefined, platform: string): string {
           <a
             href={`/odds/${cat}`}
             class:list={[
-              'filter-btn rounded-full border border-gray-300 dark:border-gray-600 px-4 py-1.5 text-sm font-medium text-gray-600 dark:text-gray-400 transition-colors hover:border-brand-600 hover:text-brand-600 dark:hover:border-brand-400 dark:hover:text-brand-400',
+              'filter-btn rounded-full border border-gray-300 dark:border-gray-600 px-4 py-2 text-sm font-medium text-gray-600 dark:text-gray-400 transition-colors hover:border-brand-600 hover:text-brand-600 dark:hover:border-brand-400 dark:hover:text-brand-400',
             ]}
             data-category={cat}
           >
@@ -117,7 +117,7 @@ function formatVolume(vol: number | undefined, platform: string): string {
                 {market.data.kalshiYes !== undefined && (
                   <div class="flex items-center justify-between text-sm">
                     <span class="text-gray-500 dark:text-gray-400">Kalshi</span>
-                    <div class="flex items-center gap-3">
+                    <div class="flex items-center gap-2">
                       <span class="font-medium text-green-700 dark:text-green-400">{market.data.kalshiYes}% Yes</span>
                       <span class="text-gray-400 dark:text-gray-500">{formatVolume(market.data.kalshiVolume, 'kalshi')} vol</span>
                     </div>
@@ -126,7 +126,7 @@ function formatVolume(vol: number | undefined, platform: string): string {
                 {market.data.polymarketYes !== undefined && (
                   <div class="flex items-center justify-between text-sm">
                     <span class="text-gray-500 dark:text-gray-400">Polymarket</span>
-                    <div class="flex items-center gap-3">
+                    <div class="flex items-center gap-2">
                       <span class="font-medium text-blue-700 dark:text-blue-400">{market.data.polymarketYes}% Yes</span>
                       <span class="text-gray-400 dark:text-gray-500">{formatVolume(market.data.polymarketVolume, 'polymarket')} vol</span>
                     </div>

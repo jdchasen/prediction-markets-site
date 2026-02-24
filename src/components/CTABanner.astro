@@ -46,7 +46,7 @@ const accent = accentBorder[platform];
     href={cta.href}
     target={platform !== 'generic' ? '_blank' : undefined}
     rel={platform !== 'generic' ? 'noopener sponsored' : undefined}
-    class:list={['inline-block rounded-md px-5 py-2.5 text-sm font-medium text-white transition-colors', cta.color]}
+    class:list={['block sm:inline-block w-full sm:w-auto text-center rounded-md px-5 py-3 text-sm font-medium text-white transition-colors', cta.color]}
   >
     {cta.buttonText}
   </a>

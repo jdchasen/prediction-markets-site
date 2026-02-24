@@ -104,6 +104,14 @@ const affiliatePlatform = post.data.affiliate as 'kalshi' | 'polymarket' | 'gene
       <Content />
     </div>
 
+    <style>
+      .prose :global(table) {
+        display: block;
+        overflow-x: auto;
+        -webkit-overflow-scrolling: touch;
+      }
+    </style>
+
     <NewsletterForm variant="banner" />
 
     <CTABanner platform={affiliatePlatform || 'generic'} />
@@ -165,7 +173,7 @@ const affiliatePlatform = post.data.affiliate as 'kalshi' | 'polymarket' | 'gene
                   {market.data.kalshiYes !== undefined && (
                     <div class="flex items-center justify-between text-sm">
                       <span class="text-gray-500 dark:text-gray-400">Kalshi</span>
-                      <div class="flex items-center gap-3">
+                      <div class="flex items-center gap-2">
                         <span class="font-medium text-green-700 dark:text-green-400">{market.data.kalshiYes}% Yes</span>
                         <span class="text-gray-400 dark:text-gray-500">{formatVolume(market.data.kalshiVolume, 'kalshi')} vol</span>
                       </div>
@@ -174,7 +182,7 @@ const affiliatePlatform = post.data.affiliate as 'kalshi' | 'polymarket' | 'gene
                   {market.data.polymarketYes !== undefined && (
                     <div class="flex items-center justify-between text-sm">
                       <span class="text-gray-500 dark:text-gray-400">Polymarket</span>
-                      <div class="flex items-center gap-3">
+                      <div class="flex items-center gap-2">
                         <span class="font-medium text-blue-700 dark:text-blue-400">{market.data.polymarketYes}% Yes</span>
                         <span class="text-gray-400 dark:text-gray-500">{formatVolume(market.data.polymarketVolume, 'polymarket')} vol</span>
                       </div>
