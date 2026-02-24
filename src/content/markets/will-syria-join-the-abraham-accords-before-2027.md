@@ -1,14 +1,14 @@
 ---
 title: "Will Syria join the Abraham Accords before 2027?"
-description: "Current odds for Will Syria join the Abraham Accords before 2027? on Polymarket — 20.5% YES. Live market data and analysis."
+description: "Current odds for Will Syria join the Abraham Accords before 2027? on Polymarket — 17.5% YES. Live market data and analysis."
 marketQuestion: "Will Syria join the Abraham Accords before 2027?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-02-24
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 20.5
-polymarketNo: 79.5
+polymarketYes: 17.5
+polymarketNo: 82.5
 polymarketVolume: 96738
 polymarketUrl: "https://polymarket.com/event/will-syria-join-the-abraham-accords-before-2027"
 ---
@@ -19,11 +19,11 @@ polymarketUrl: "https://polymarket.com/event/will-syria-join-the-abraham-accords
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 20.5% | 79.5% | $97K | [Trade on Polymarket](https://polymarket.us/1762) |
+| Polymarket | 17.5% | 82.5% | $97K | [Trade on Polymarket](https://polymarket.us/1762) |
 
 ## What the Odds Mean
 
-At **20%**, the market considers this outcome unlikely. Contrarian YES positions are cheap but high-risk. If you have a strong thesis that the market is wrong, these low-probability markets can offer outsized returns.
+At **18%**, the market considers this outcome unlikely. Contrarian YES positions are cheap but high-risk. If you have a strong thesis that the market is wrong, these low-probability markets can offer outsized returns.
 
 ## How to Trade This Market
 
@@ -33,7 +33,7 @@ On **[Polymarket](https://polymarket.us/1762)**, you trade using USDC on the Pol
 
 ### What are the current odds for "Will Syria join the Abraham Accords before 2027?"?
 
-As of February 24, 2026, Polymarket prices YES at 20.5%. This is based on real-money trading activity.
+As of February 24, 2026, Polymarket prices YES at 17.5%. This is based on real-money trading activity.
 
 ### Where can I trade on this prediction market?
 

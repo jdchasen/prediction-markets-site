@@ -9,7 +9,7 @@ expiryDate: 2027-01-01
 tags: ["crypto", "ethereum", "polymarket"]
 polymarketYes: 16.5
 polymarketNo: 83.5
-polymarketVolume: 97240
+polymarketVolume: 97270
 polymarketUrl: "https://polymarket.com/event/will-ethereum-reach-4500-by-december-31-2026"
 ---
 

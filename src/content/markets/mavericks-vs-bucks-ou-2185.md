@@ -1,14 +1,14 @@
 ---
 title: "Mavericks vs. Bucks: O/U 218.5"
-description: "Current odds for Mavericks vs. Bucks: O/U 218.5 on Polymarket — 60.5% YES. Live market data and analysis."
+description: "Current odds for Mavericks vs. Bucks: O/U 218.5 on Polymarket — 61.0% YES. Live market data and analysis."
 marketQuestion: "Mavericks vs. Bucks: O/U 218.5"
 category: "sports"
 status: "active"
 lastUpdated: 2026-02-24
 expiryDate: 2026-03-31
 tags: ["polymarket", "sports"]
-polymarketYes: 60.5
-polymarketNo: 39.5
+polymarketYes: 61.0
+polymarketNo: 39.0
 polymarketVolume: 97721
 polymarketUrl: "https://polymarket.com/event/nba-dal-mil-2026-01-25-total-218pt5"
 ---
@@ -19,11 +19,11 @@ polymarketUrl: "https://polymarket.com/event/nba-dal-mil-2026-01-25-total-218pt5
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 60.5% | 39.5% | $98K | [Trade on Polymarket](https://polymarket.us/1762) |
+| Polymarket | 61.0% | 39.0% | $98K | [Trade on Polymarket](https://polymarket.us/1762) |
 
 ## What the Odds Mean
 
-At **60%**, the market sees this as more likely than not. This probability reflects the collective wisdom of traders who have put real money behind their views. The remaining uncertainty means there's still meaningful upside for contrarian positions.
+At **61%**, the market sees this as more likely than not. This probability reflects the collective wisdom of traders who have put real money behind their views. The remaining uncertainty means there's still meaningful upside for contrarian positions.
 
 ## How to Trade This Market
 
@@ -33,7 +33,7 @@ On **[Polymarket](https://polymarket.us/1762)**, you trade using USDC on the Pol
 
 ### What are the current odds for "Mavericks vs. Bucks: O/U 218.5"?
 
-As of February 24, 2026, Polymarket prices YES at 60.5%. This is based on real-money trading activity.
+As of February 24, 2026, Polymarket prices YES at 61.0%. This is based on real-money trading activity.
 
 ### Where can I trade on this prediction market?
 

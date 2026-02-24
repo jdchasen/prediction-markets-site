@@ -3,7 +3,7 @@ title: "US strikes Iran by March 1, 2026?"
 description: "Current odds for US strikes Iran by March 1, 2026? on Polymarket — 19.5% YES. Live market data and analysis."
 marketQuestion: "US strikes Iran by March 1, 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-02-24
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]

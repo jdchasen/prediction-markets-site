@@ -9,7 +9,7 @@ expiryDate: 2026-12-06
 tags: ["polymarket", "sports"]
 polymarketYes: 10.0
 polymarketNo: 90.0
-polymarketVolume: 983240
+polymarketVolume: 983254
 polymarketUrl: "https://polymarket.com/event/will-lewis-hamilton-be-the-2026-f1-drivers-champion"
 ---
 

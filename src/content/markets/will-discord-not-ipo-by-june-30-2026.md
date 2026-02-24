@@ -9,7 +9,7 @@ expiryDate: 2026-06-30
 tags: ["finance", "polymarket"]
 polymarketYes: 16.5
 polymarketNo: 83.5
-polymarketVolume: 98602
+polymarketVolume: 98607
 polymarketUrl: "https://polymarket.com/event/will-discord-not-ipo-by-june-30-2026"
 ---
 

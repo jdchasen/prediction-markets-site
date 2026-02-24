@@ -1,15 +1,15 @@
 ---
 title: "Will Gold (GC) hit (HIGH) $7,000 by end of June?"
-description: "Current odds for Will Gold (GC) hit (HIGH) $7,000 by end of June? on Polymarket — 18.0% YES. Live market data and analysis."
+description: "Current odds for Will Gold (GC) hit (HIGH) $7,000 by end of June? on Polymarket — 16.5% YES. Live market data and analysis."
 marketQuestion: "Will Gold (GC) hit (HIGH) $7,000 by end of June?"
 category: "finance"
 status: "active"
 lastUpdated: 2026-02-24
 expiryDate: 2026-06-30
 tags: ["finance", "polymarket"]
-polymarketYes: 18.0
-polymarketNo: 82.0
-polymarketVolume: 97381
+polymarketYes: 16.5
+polymarketNo: 83.5
+polymarketVolume: 97441
 polymarketUrl: "https://polymarket.com/event/gc-hit-7000-high-jun-2026-433-244-291"
 ---
 
@@ -19,11 +19,11 @@ polymarketUrl: "https://polymarket.com/event/gc-hit-7000-high-jun-2026-433-244-2
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 18.0% | 82.0% | $97K | [Trade on Polymarket](https://polymarket.us/1762) |
+| Polymarket | 16.5% | 83.5% | $97K | [Trade on Polymarket](https://polymarket.us/1762) |
 
 ## What the Odds Mean
 
-At **18%**, the market considers this outcome unlikely. Contrarian YES positions are cheap but high-risk. If you have a strong thesis that the market is wrong, these low-probability markets can offer outsized returns.
+At **16%**, the market considers this outcome unlikely. Contrarian YES positions are cheap but high-risk. If you have a strong thesis that the market is wrong, these low-probability markets can offer outsized returns.
 
 ## How to Trade This Market
 
@@ -33,7 +33,7 @@ On **[Polymarket](https://polymarket.us/1762)**, you trade using USDC on the Pol
 
 ### What are the current odds for "Will Gold (GC) hit (HIGH) $7,000 by end of June?"?
 
-As of February 24, 2026, Polymarket prices YES at 18.0%. This is based on real-money trading activity.
+As of February 24, 2026, Polymarket prices YES at 16.5%. This is based on real-money trading activity.
 
 ### Where can I trade on this prediction market?
 
