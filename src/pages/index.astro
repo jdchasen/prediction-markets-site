@@ -2,6 +2,7 @@
 import BaseLayout from '../layouts/BaseLayout.astro';
 import ArticleCard from '../components/ArticleCard.astro';
 import CTABanner from '../components/CTABanner.astro';
+import NewsletterForm from '../components/NewsletterForm.astro';
 import { getCollection } from 'astro:content';
 
 const allPosts = (await getCollection('blog')).sort(
@@ -45,6 +46,7 @@ const categories = [
           About Us
         </a>
       </div>
+      <NewsletterForm variant="inline" />
     </div>
   </section>
 

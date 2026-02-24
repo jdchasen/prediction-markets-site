@@ -1,0 +1,132 @@
+---
+interface Props {
+  variant?: 'inline' | 'banner' | 'popup';
+}
+
+const { variant = 'inline' } = Astro.props;
+---
+
+{variant === 'banner' && (
+  <aside class="my-8 rounded-lg border border-gray-200 bg-gray-50 p-6" data-newsletter-form>
+    <h3 class="mb-2 text-lg font-semibold text-gray-900">Like this analysis?</h3>
+    <p class="mb-4 text-sm text-gray-600">
+      Get a free weekly digest with the top prediction market movers, strategies, and opportunities — straight to your inbox.
+    </p>
+    <form
+      action="https://buttondown.com/api/emails/newsletter-subscribe"
+      method="post"
+      target="buttondown-iframe"
+      class="flex flex-col gap-3 sm:flex-row"
+    >
+      <input type="hidden" name="tag" value="blog" />
+      <input
+        type="email"
+        name="email"
+        placeholder="you@example.com"
+        required
+        class="flex-1 rounded-md border border-gray-300 px-4 py-2.5 text-sm text-gray-900 placeholder-gray-400 focus:border-brand-500 focus:outline-none focus:ring-1 focus:ring-brand-500"
+      />
+      <button
+        type="submit"
+        class="rounded-md bg-brand-600 px-5 py-2.5 text-sm font-medium text-white transition-colors hover:bg-brand-700"
+      >
+        Subscribe
+      </button>
+    </form>
+    <p class="mt-2 text-xs text-gray-400">No spam. Unsubscribe anytime.</p>
+    <p class="hidden mt-3 text-sm font-medium text-green-700" data-newsletter-thanks>
+      Thanks! Check your inbox to confirm.
+    </p>
+  </aside>
+)}
+
+{variant === 'inline' && (
+  <div class="mt-6" data-newsletter-form>
+    <p class="mb-3 text-sm text-gray-500">
+      Join traders getting free weekly market analysis.
+    </p>
+    <form
+      action="https://buttondown.com/api/emails/newsletter-subscribe"
+      method="post"
+      target="buttondown-iframe"
+      class="flex flex-col gap-2 sm:flex-row sm:items-center sm:justify-center"
+    >
+      <input type="hidden" name="tag" value="homepage" />
+      <input
+        type="email"
+        name="email"
+        placeholder="you@example.com"
+        required
+        class="rounded-md border border-gray-300 px-4 py-2.5 text-sm text-gray-900 placeholder-gray-400 focus:border-brand-500 focus:outline-none focus:ring-1 focus:ring-brand-500 sm:w-64"
+      />
+      <button
+        type="submit"
+        class="rounded-md bg-brand-600 px-5 py-2.5 text-sm font-medium text-white transition-colors hover:bg-brand-700"
+      >
+        Subscribe
+      </button>
+    </form>
+    <p class="hidden mt-2 text-sm font-medium text-green-700" data-newsletter-thanks>
+      Thanks! Check your inbox to confirm.
+    </p>
+  </div>
+)}
+
+{variant === 'popup' && (
+  <div class="text-center" data-newsletter-form>
+    <h3 class="mb-2 text-xl font-bold text-gray-900">Stay ahead of the markets</h3>
+    <p class="mb-4 text-sm text-gray-600">
+      Free weekly digest — top movers, strategies, and opportunities from prediction markets.
+    </p>
+    <form
+      action="https://buttondown.com/api/emails/newsletter-subscribe"
+      method="post"
+      target="buttondown-iframe"
+      class="flex flex-col gap-3"
+    >
+      <input type="hidden" name="tag" value="popup" />
+      <input
+        type="email"
+        name="email"
+        placeholder="you@example.com"
+        required
+        class="w-full rounded-md border border-gray-300 px-4 py-2.5 text-sm text-gray-900 placeholder-gray-400 focus:border-brand-500 focus:outline-none focus:ring-1 focus:ring-brand-500"
+      />
+      <button
+        type="submit"
+        class="w-full rounded-md bg-brand-600 px-5 py-2.5 text-sm font-medium text-white transition-colors hover:bg-brand-700"
+      >
+        Subscribe
+      </button>
+    </form>
+    <p class="mt-2 text-xs text-gray-400">No spam. Unsubscribe anytime.</p>
+    <p class="hidden mt-3 text-sm font-medium text-green-700" data-newsletter-thanks>
+      Thanks! Check your inbox to confirm.
+    </p>
+  </div>
+)}
+
+<!-- Hidden iframe for form submission (no page redirect) -->
+<iframe name="buttondown-iframe" style="display:none" aria-hidden="true"></iframe>
+
+<script>
+  document.querySelectorAll('[data-newsletter-form] form').forEach((form) => {
+    form.addEventListener('submit', (e) => {
+      const container = form.closest('[data-newsletter-form]')!;
+      // Brief delay to let the iframe submission fire
+      setTimeout(() => {
+        form.classList.add('hidden');
+        const thanks = container.querySelector('[data-newsletter-thanks]');
+        if (thanks) thanks.classList.remove('hidden');
+        localStorage.setItem('newsletter_subscribed', 'true');
+      }, 300);
+    });
+  });
+
+  // Hide forms if already subscribed
+  if (localStorage.getItem('newsletter_subscribed') === 'true') {
+    document.querySelectorAll('[data-newsletter-form]').forEach((el) => {
+      (el as HTMLElement).style.display = 'none';
+    });
+  }
+</script>

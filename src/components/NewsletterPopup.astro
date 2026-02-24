@@ -1,0 +1,90 @@
+---
+import NewsletterForm from './NewsletterForm.astro';
+---
+
+<div
+  id="newsletter-popup"
+  class="fixed inset-0 z-50 hidden items-center justify-center bg-black/50 backdrop-blur-sm"
+  aria-hidden="true"
+>
+  <div class="relative mx-4 w-full max-w-md rounded-xl bg-white p-8 shadow-2xl">
+    <button
+      id="newsletter-popup-close"
+      class="absolute right-3 top-3 text-gray-400 hover:text-gray-600"
+      aria-label="Close"
+    >
+      <svg class="h-5 w-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" />
+      </svg>
+    </button>
+    <NewsletterForm variant="popup" />
+  </div>
+</div>
+
+<script>
+  const SUPPRESS_DAYS = 7;
+  const TRIGGER_DELAY_MS = 30_000;
+  const SCROLL_THRESHOLD = 0.5;
+
+  function shouldShow(): boolean {
+    if (localStorage.getItem('newsletter_subscribed') === 'true') return false;
+    const dismissed = localStorage.getItem('newsletter_popup_dismissed');
+    if (dismissed) {
+      const elapsed = Date.now() - parseInt(dismissed, 10);
+      if (elapsed < SUPPRESS_DAYS * 24 * 60 * 60 * 1000) return false;
+    }
+    return true;
+  }
+
+  function showPopup() {
+    const popup = document.getElementById('newsletter-popup');
+    if (!popup || popup.classList.contains('flex')) return; // already showing
+    popup.classList.remove('hidden');
+    popup.classList.add('flex');
+    popup.setAttribute('aria-hidden', 'false');
+  }
+
+  function closePopup() {
+    const popup = document.getElementById('newsletter-popup');
+    if (!popup) return;
+    popup.classList.add('hidden');
+    popup.classList.remove('flex');
+    popup.setAttribute('aria-hidden', 'true');
+    localStorage.setItem('newsletter_popup_dismissed', String(Date.now()));
+  }
+
+  if (shouldShow()) {
+    let triggered = false;
+
+    const trigger = () => {
+      if (triggered) return;
+      triggered = true;
+      showPopup();
+    };
+
+    // 30s timer
+    setTimeout(trigger, TRIGGER_DELAY_MS);
+
+    // 50% scroll
+    window.addEventListener('scroll', () => {
+      const scrollPct = (window.scrollY + window.innerHeight) / document.documentElement.scrollHeight;
+      if (scrollPct >= SCROLL_THRESHOLD) trigger();
+    }, { passive: true });
+
+    // Close handlers
+    document.getElementById('newsletter-popup-close')?.addEventListener('click', closePopup);
+
+    document.getElementById('newsletter-popup')?.addEventListener('click', (e) => {
+      if (e.target === e.currentTarget) closePopup();
+    });
+
+    document.addEventListener('keydown', (e) => {
+      if (e.key === 'Escape') closePopup();
+    });
+
+    // Also close if user subscribes via popup
+    document.getElementById('newsletter-popup')?.addEventListener('submit', () => {
+      setTimeout(closePopup, 2000);
+    });
+  }
+</script>

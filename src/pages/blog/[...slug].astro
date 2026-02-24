@@ -2,6 +2,7 @@
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import TableOfContents from '../../components/TableOfContents.astro';
 import CTABanner from '../../components/CTABanner.astro';
+import NewsletterForm from '../../components/NewsletterForm.astro';
 import ArticleCard from '../../components/ArticleCard.astro';
 import { getCollection, render } from 'astro:content';
 
@@ -61,6 +62,8 @@ const affiliatePlatform = post.data.affiliate as 'kalshi' | 'polymarket' | 'gene
     <div class="prose prose-gray max-w-none prose-headings:scroll-mt-20 prose-a:text-brand-600 prose-a:no-underline hover:prose-a:underline">
       <Content />
     </div>
+
+    <NewsletterForm variant="banner" />
 
     <CTABanner platform={affiliatePlatform || 'generic'} />
 
