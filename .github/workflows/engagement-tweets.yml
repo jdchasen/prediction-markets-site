@@ -1,0 +1,72 @@
+name: Engagement Tweets
+
+on:
+  schedule:
+    # 9:00 AM ET = 14:00 UTC
+    - cron: '0 14 * * *'
+    # 12:00 PM ET = 17:00 UTC
+    - cron: '0 17 * * *'
+    # 3:00 PM ET = 20:00 UTC
+    - cron: '0 20 * * *'
+    # 6:00 PM ET = 23:00 UTC
+    - cron: '0 23 * * *'
+    # 9:00 PM ET = 02:00 UTC (next day)
+    - cron: '0 2 * * *'
+  workflow_dispatch:
+    inputs:
+      slot:
+        description: 'Time slot'
+        required: false
+        type: choice
+        options:
+          - morning
+          - midday
+          - afternoon
+          - evening
+          - night
+
+jobs:
+  post-tweet:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install -r scripts/requirements.txt
+
+      - name: Determine slot
+        id: slot
+        run: |
+          if [ -n "${{ inputs.slot }}" ]; then
+            echo "value=${{ inputs.slot }}" >> "$GITHUB_OUTPUT"
+          else
+            HOUR=$(date -u +%H)
+            if [ "$HOUR" -eq 14 ]; then
+              echo "value=morning" >> "$GITHUB_OUTPUT"
+            elif [ "$HOUR" -eq 17 ]; then
+              echo "value=midday" >> "$GITHUB_OUTPUT"
+            elif [ "$HOUR" -eq 20 ]; then
+              echo "value=afternoon" >> "$GITHUB_OUTPUT"
+            elif [ "$HOUR" -eq 23 ]; then
+              echo "value=evening" >> "$GITHUB_OUTPUT"
+            else
+              echo "value=night" >> "$GITHUB_OUTPUT"
+            fi
+          fi
+
+      - name: Post engagement tweet
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          KALSHI_API_KEY: ${{ secrets.KALSHI_API_KEY }}
+          KALSHI_PRIVATE_KEY: ${{ secrets.KALSHI_PRIVATE_KEY }}
+          TWITTER_API_KEY: ${{ secrets.TWITTER_API_KEY }}
+          TWITTER_API_SECRET: ${{ secrets.TWITTER_API_SECRET }}
+          TWITTER_ACCESS_TOKEN: ${{ secrets.TWITTER_ACCESS_TOKEN }}
+          TWITTER_ACCESS_TOKEN_SECRET: ${{ secrets.TWITTER_ACCESS_TOKEN_SECRET }}
+        run: python scripts/tweet_engagement.py --slot ${{ steps.slot.outputs.value }}
