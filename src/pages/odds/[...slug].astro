@@ -104,9 +104,33 @@ const faqSchema = {
 const webPageSchema = {
   "@context": "https://schema.org",
   "@type": "WebPage",
-  "name": `${market.data.title} — Odds & Predictions`,
+  "name": market.data.title,
   "dateModified": market.data.lastUpdated.toISOString(),
   "description": market.data.description,
+};
+
+const breadcrumbSchema = {
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "https://masterpredictionmarkets.com",
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Odds",
+      "item": "https://masterpredictionmarkets.com/odds",
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "name": market.data.title,
+    },
+  ],
 };
 
 const categoryColors: Record<string, string> = {
@@ -124,12 +148,13 @@ const catColor = categoryColors[market.data.category] || 'bg-gray-100 text-gray-
 ---
 
 <BaseLayout
-  title={`${market.data.title} — Odds & Predictions`}
+  title={market.data.title}
   description={market.data.description}
 >
   <Fragment slot="head">
     <script type="application/ld+json" set:html={JSON.stringify(faqSchema)} />
     <script type="application/ld+json" set:html={JSON.stringify(webPageSchema)} />
+    <script type="application/ld+json" set:html={JSON.stringify(breadcrumbSchema)} />
     {noindex && <meta name="robots" content="noindex" />}
   </Fragment>
 

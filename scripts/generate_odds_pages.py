@@ -787,18 +787,24 @@ def generate_page(market: dict) -> tuple[str, str]:
     km = market.get("kalshi")
     pm = market.get("polymarket")
 
-    # SEO description (no quotes in description to avoid YAML issues)
+    # SEO description — action-oriented for CTR (no quotes to avoid YAML issues)
     if km and pm:
         avg_yes = (km["yes_price"] + pm["yes_price"]) / 2
-        desc = (
-            f"Current odds for {question} — "
-            f"Kalshi: {km['yes_price']}% YES, Polymarket: {pm['yes_price']}% YES. "
-            f"Compare prices and trade."
-        )
+        diff = abs(km["yes_price"] - pm["yes_price"])
+        if diff >= 5:
+            desc = (
+                f"{question} Odds: {km['yes_price']}% on Kalshi vs {pm['yes_price']}% on Polymarket. "
+                f"See the {diff:.0f}-point spread and compare platforms."
+            )
+        else:
+            desc = (
+                f"{question} Odds: {avg_yes:.0f}% YES across Kalshi and Polymarket. "
+                f"See live prices, platform spreads, and where to trade."
+            )
     elif km:
-        desc = f"Current odds for {question} on Kalshi — {km['yes_price']}% YES. Live market data and analysis."
+        desc = f"{question} Odds: {km['yes_price']}% YES on Kalshi. See live prices and trade this market."
     else:
-        desc = f"Current odds for {question} on Polymarket — {pm['yes_price']}% YES. Live market data and analysis."
+        desc = f"{question} Odds: {pm['yes_price']}% YES on Polymarket. See live prices and trade this market."
 
     # Truncate description to 160 chars
     if len(desc) > 160:
