@@ -33,7 +33,7 @@ In prediction markets, the net odds account for both the contract price and plat
 
 **b = ((1 - price) × (1 - feeRate)) / price**
 
-Where `price` is the contract price as a decimal (e.g., $0.40 = 0.40) and `feeRate` is 0.07 for [Kalshi](https://kalshi.com/sign-up/?referral=f2e21ad4-75b7-4ffb-bfcc-f2fb36e07b21&m=true) or 0 for [Polymarket](https://polymarket.us/1762).
+Where `price` is the contract price as a decimal (e.g., $0.40 = 0.40) and `feeRate` is 0.07 for [Kalshi](https://kalshi.com/sign-up/?referral=f2e21ad4-75b7-4ffb-bfcc-f2fb36e07b21&m=true&utm_source=masterpredictionmarkets&utm_medium=blog&utm_campaign=signup) or 0 for [Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=blog&utm_campaign=signup).
 
 ### Worked Example 1: Weather Contract on Kalshi
 

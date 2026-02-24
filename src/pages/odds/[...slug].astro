@@ -16,8 +16,8 @@ export async function getStaticPaths() {
 const market = Astro.props;
 const { Content } = await render(market);
 
-const KALSHI_REFERRAL = "https://kalshi.com/sign-up/?referral=f2e21ad4-75b7-4ffb-bfcc-f2fb36e07b21&m=true";
-const POLYMARKET_REFERRAL = "https://polymarket.us/1762";
+const KALSHI_REFERRAL = "https://kalshi.com/sign-up/?referral=f2e21ad4-75b7-4ffb-bfcc-f2fb36e07b21&m=true&utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup";
+const POLYMARKET_REFERRAL = "https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup";
 
 const isSettled = market.data.status === 'settled';
 const settledDaysAgo = isSettled && market.data.lastUpdated
@@ -101,6 +101,14 @@ const faqSchema = {
   "mainEntity": faqItems
 };
 
+const webPageSchema = {
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "name": `${market.data.title} — Odds & Predictions`,
+  "dateModified": market.data.lastUpdated.toISOString(),
+  "description": market.data.description,
+};
+
 const categoryColors: Record<string, string> = {
   politics: 'bg-red-100 text-red-800 dark:bg-red-900/50 dark:text-red-300',
   economics: 'bg-yellow-100 text-yellow-800 dark:bg-yellow-900/50 dark:text-yellow-300',
@@ -121,6 +129,7 @@ const catColor = categoryColors[market.data.category] || 'bg-gray-100 text-gray-
 >
   <Fragment slot="head">
     <script type="application/ld+json" set:html={JSON.stringify(faqSchema)} />
+    <script type="application/ld+json" set:html={JSON.stringify(webPageSchema)} />
     {noindex && <meta name="robots" content="noindex" />}
   </Fragment>
 

@@ -11,7 +11,7 @@ Arbitrage in prediction markets is the closest thing to a free lunch in trading:
 
 ## What Is Prediction Market Arbitrage?
 
-Arbitrage is the simultaneous purchase and sale of equivalent contracts at different prices to capture a risk-free profit. In prediction markets, this most commonly occurs when the same event is listed on both [Kalshi](https://kalshi.com/sign-up/?referral=f2e21ad4-75b7-4ffb-bfcc-f2fb36e07b21&m=true) and [Polymarket](https://polymarket.us/1762) at different prices.
+Arbitrage is the simultaneous purchase and sale of equivalent contracts at different prices to capture a risk-free profit. In prediction markets, this most commonly occurs when the same event is listed on both [Kalshi](https://kalshi.com/sign-up/?referral=f2e21ad4-75b7-4ffb-bfcc-f2fb36e07b21&m=true&utm_source=masterpredictionmarkets&utm_medium=blog&utm_campaign=signup) and [Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=blog&utm_campaign=signup) at different prices.
 
 The basic logic: if a YES contract on an event trades at $0.55 on Kalshi and $0.60 on Polymarket, or if you can buy YES on Kalshi for $0.55 and NO on Polymarket for $0.35 (implying YES at $0.65), the price difference creates an opportunity. If the prices on both platforms for a YES and the equivalent NO sum to less than $1.00 (after fees), you can profit.
 

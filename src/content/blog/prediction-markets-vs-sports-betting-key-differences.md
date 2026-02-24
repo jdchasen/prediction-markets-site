@@ -15,7 +15,7 @@ This guide breaks down the key differences so you can decide whether prediction 
 
 This is the single most important distinction. In sports betting, you are betting against the house -- the sportsbook. The book sets the lines, manages its own risk, and profits when you lose. The house has a built-in edge on every wager through the vig (vigorish), and the better you get, the more likely you are to be limited or banned entirely. Sportsbooks do not want winning customers.
 
-Prediction markets work like financial exchanges. On a platform like [Kalshi](https://kalshi.com/sign-up/?referral=f2e21ad4-75b7-4ffb-bfcc-f2fb36e07b21&m=true), you are trading against other participants, not against the platform itself. Kalshi operates the order book and charges a transaction fee, but it has no stake in the outcome. If you buy a "Yes" contract at $0.40, someone else is selling it to you. The exchange is a neutral intermediary.
+Prediction markets work like financial exchanges. On a platform like [Kalshi](https://kalshi.com/sign-up/?referral=f2e21ad4-75b7-4ffb-bfcc-f2fb36e07b21&m=true&utm_source=masterpredictionmarkets&utm_medium=blog&utm_campaign=signup), you are trading against other participants, not against the platform itself. Kalshi operates the order book and charges a transaction fee, but it has no stake in the outcome. If you buy a "Yes" contract at $0.40, someone else is selling it to you. The exchange is a neutral intermediary.
 
 This exchange-based structure has profound implications. There are no betting limits imposed because you are winning too much. There is no line manipulation to shade odds against sharp money. If you have a genuine edge, you can continue to exploit it without being shown the door. For anyone who has been throttled or limited at a sportsbook, this alone is reason enough to look at prediction markets.
 
@@ -25,7 +25,7 @@ Sports betting in the United States is regulated state by state. After the Supre
 
 Prediction markets follow a completely different regulatory path. Kalshi is regulated by the **Commodity Futures Trading Commission (CFTC)** -- the same federal agency that oversees futures exchanges like the CME and CBOE. Event contracts on Kalshi are classified as derivatives, not wagers. This means federally uniform regulation, segregated customer funds, and a legal framework designed for financial markets rather than gambling.
 
-[Polymarket](https://polymarket.us/1762), the largest crypto-native prediction market, operates outside U.S. regulatory frameworks entirely, running on blockchain infrastructure with no KYC requirements for basic trading.
+[Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=blog&utm_campaign=signup), the largest crypto-native prediction market, operates outside U.S. regulatory frameworks entirely, running on blockchain infrastructure with no KYC requirements for basic trading.
 
 The practical takeaway: prediction markets are not classified as gambling under federal law, which affects everything from tax treatment to how the platforms are allowed to operate.
 

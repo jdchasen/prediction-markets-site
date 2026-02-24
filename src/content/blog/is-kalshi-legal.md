@@ -9,7 +9,7 @@ affiliate: "kalshi"
 
 It is a fair question. You see an exchange where you can bet on whether it will rain tomorrow or whether the Fed will cut rates, and your first instinct is to wonder whether you are about to do something illegal. The prediction market space has a complicated legal history in the United States, and the line between "regulated exchange" and "offshore gambling site" is not always obvious to newcomers.
 
-Here is the short answer: **[Kalshi](https://kalshi.com/sign-up/?referral=f2e21ad4-75b7-4ffb-bfcc-f2fb36e07b21&m=true) is legal for US residents in most states.** It is the first and only prediction market exchange that operates as a CFTC-regulated designated contract market (DCM). That is not marketing language -- it is a specific legal designation that carries real weight.
+Here is the short answer: **[Kalshi](https://kalshi.com/sign-up/?referral=f2e21ad4-75b7-4ffb-bfcc-f2fb36e07b21&m=true&utm_source=masterpredictionmarkets&utm_medium=blog&utm_campaign=signup) is legal for US residents in most states.** It is the first and only prediction market exchange that operates as a CFTC-regulated designated contract market (DCM). That is not marketing language -- it is a specific legal designation that carries real weight.
 
 This article covers exactly what that regulation means, how it protects your money, where Kalshi is available, and how it compares to the legal gray areas that other platforms operate in.
 

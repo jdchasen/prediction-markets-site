@@ -7,7 +7,7 @@ tags: ["daily", "kalshi", "polymarket"]
 affiliate: "kalshi"
 ---
 
-The geopolitical tension markets are on fire. With over $2.6 million in 24-hour volume, the question of whether the United States will strike Iran within the next five days has become the single most-traded market on [Polymarket](https://polymarket.us/1762) today, capturing the attention of traders attempting to parse through escalating Middle East tensions. The February 28th deadline contract sits at 17.5¢ (17.5% implied probability), while shorter-dated contracts paint an even more skeptical picture of imminent military action.
+The geopolitical tension markets are on fire. With over $2.6 million in 24-hour volume, the question of whether the United States will strike Iran within the next five days has become the single most-traded market on [Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=blog&utm_campaign=signup) today, capturing the attention of traders attempting to parse through escalating Middle East tensions. The February 28th deadline contract sits at 17.5¢ (17.5% implied probability), while shorter-dated contracts paint an even more skeptical picture of imminent military action.
 
 ## Iran Strike Timeline: A Market-Based Risk Assessment
 
@@ -25,7 +25,7 @@ The Fed remains a focal point despite geopolitical headlines. The Judy Shelton n
 
 Perhaps more interesting is the March 2026 rate hike market, which trades at just 0.7¢ (99.4% probability of no hike) with nearly $1 million in daily volume. This extreme pricing—effectively zero chance of a 25+ basis point increase—reflects either strong conviction in the Fed's current pause stance or expectations that economic conditions will keep the central bank on hold. The $54.18 million in total volume on this contract suggests it's been a popular trading vehicle, likely attracting both directional bets and arbitrage activity.
 
-Both platforms offer Fed-related markets, though each has different strengths for policy traders. You can explore alternatives on [Kalshi](https://kalshi.com/sign-up/?referral=f2e21ad4-75b7-4ffb-bfcc-f2fb36e07b21&m=true) for CFTC-regulated Fed contracts.
+Both platforms offer Fed-related markets, though each has different strengths for policy traders. You can explore alternatives on [Kalshi](https://kalshi.com/sign-up/?referral=f2e21ad4-75b7-4ffb-bfcc-f2fb36e07b21&m=true&utm_source=masterpredictionmarkets&utm_medium=blog&utm_campaign=signup) for CFTC-regulated Fed contracts.
 
 ## Sports Markets: Hockey and Basketball Action
 

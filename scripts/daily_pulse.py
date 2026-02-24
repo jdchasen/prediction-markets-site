@@ -17,8 +17,8 @@ import requests
 POLY_GAMMA = "https://gamma-api.polymarket.com"
 KALSHI_API = "https://api.elections.kalshi.com/trade-api/v2"
 
-KALSHI_REFERRAL = "https://kalshi.com/sign-up/?referral=f2e21ad4-75b7-4ffb-bfcc-f2fb36e07b21&m=true"
-POLY_REFERRAL = "https://polymarket.us/1762"
+KALSHI_REFERRAL = "https://kalshi.com/sign-up/?referral=f2e21ad4-75b7-4ffb-bfcc-f2fb36e07b21&m=true&utm_source=masterpredictionmarkets&utm_medium=blog&utm_campaign=signup"
+POLY_REFERRAL = "https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=blog&utm_campaign=signup"
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
 BLOG_DIR = REPO_ROOT / "src" / "content" / "blog"
@@ -240,8 +240,16 @@ pubDate: <YYYY-MM-DD>
 category: "strategies"
 tags: ["daily", "kalshi", "polymarket"]
 affiliate: "kalshi"
+faqs:
+  - question: "<FAQ question 1 someone might search for>"
+    answer: "<Concise 1-2 sentence answer>"
+  - question: "<FAQ question 2>"
+    answer: "<Concise answer>"
+  - question: "<FAQ question 3>"
+    answer: "<Concise answer>"
 ---
 ```
+Include 3-5 FAQ items in the frontmatter. Questions should be things people might search about today's market moves. Answers should be factual, using data from the article.
 
 ## Structure
 After the frontmatter closing `---`, the body starts DIRECTLY with an opening paragraph. Do NOT include an H1 header — the title is rendered from frontmatter by the site template.
@@ -392,7 +400,7 @@ def main():
 
     # Validate required frontmatter fields
     frontmatter = content.split("---")[1]
-    required = ["pubDate:", "category:", "tags:", "affiliate:"]
+    required = ["pubDate:", "category:", "tags:", "affiliate:", "faqs:"]
     missing = [f for f in required if f not in frontmatter]
     if missing:
         print(f"[WARN] Missing frontmatter fields: {missing}. Injecting defaults.", file=sys.stderr)
@@ -406,6 +414,8 @@ def main():
             inject += '\ntags: ["daily", "kalshi", "polymarket"]'
         if "affiliate:" in missing:
             inject += '\naffiliate: "kalshi"'
+        if "faqs:" in missing:
+            inject += '\nfaqs:\n  - question: "What moved in prediction markets today?"\n    answer: "See the full daily pulse for today\'s biggest market movers and price changes."'
         # Insert before closing ---
         parts = content.split("---", 2)
         content = f"---{parts[1]}{inject}\n---{parts[2]}"

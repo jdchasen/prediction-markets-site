@@ -35,8 +35,8 @@ except ImportError:
 
 CONTENT_DIR = Path(__file__).parent.parent / "src" / "content" / "markets"
 
-KALSHI_REFERRAL = "https://kalshi.com/sign-up/?referral=f2e21ad4-75b7-4ffb-bfcc-f2fb36e07b21&m=true"
-POLYMARKET_REFERRAL = "https://polymarket.us/1762"
+KALSHI_REFERRAL = "https://kalshi.com/sign-up/?referral=f2e21ad4-75b7-4ffb-bfcc-f2fb36e07b21&m=true&utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup"
+POLYMARKET_REFERRAL = "https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup"
 
 # Minimum thresholds
 MIN_KALSHI_VOLUME = 1_000       # contracts

@@ -19,7 +19,7 @@ polymarketUrl: "https://polymarket.com/event/gc-hit-8000-high-jun-2026-342-647-7
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 5.9% | 94.0% | $98K | [Trade on Polymarket](https://polymarket.us/1762) |
+| Polymarket | 5.9% | 94.0% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## What the Odds Mean
 
@@ -27,7 +27,7 @@ At **6%**, the market considers this outcome unlikely. Contrarian YES positions 
 
 ## How to Trade This Market
 
-On **[Polymarket](https://polymarket.us/1762)**, you trade using USDC on the Polygon blockchain. Polymarket offers deep liquidity and a wide range of markets on current events.
+On **[Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup)**, you trade using USDC on the Polygon blockchain. Polymarket offers deep liquidity and a wide range of markets on current events.
 
 ## Frequently Asked Questions
 
@@ -37,7 +37,7 @@ As of February 24, 2026, Polymarket prices YES at 5.9%. This is based on real-mo
 
 ### Where can I trade on this prediction market?
 
-You can trade this market on [Polymarket](https://polymarket.us/1762) (crypto-based).
+You can trade this market on [Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) (crypto-based).
 
 ### How do prediction market odds work?
 

@@ -7,7 +7,7 @@ tags: ["kalshi", "beginners"]
 affiliate: "kalshi"
 ---
 
-Getting money into [Kalshi](https://kalshi.com/sign-up/?referral=f2e21ad4-75b7-4ffb-bfcc-f2fb36e07b21&m=true) is easy. Getting it out? Also easy -- but there are a few things about the withdrawal process that will save you time and frustration if you know them upfront. After processing hundreds of withdrawals over the past year, here is everything you need to know about moving your money off the platform.
+Getting money into [Kalshi](https://kalshi.com/sign-up/?referral=f2e21ad4-75b7-4ffb-bfcc-f2fb36e07b21&m=true&utm_source=masterpredictionmarkets&utm_medium=blog&utm_campaign=signup) is easy. Getting it out? Also easy -- but there are a few things about the withdrawal process that will save you time and frustration if you know them upfront. After processing hundreds of withdrawals over the past year, here is everything you need to know about moving your money off the platform.
 
 ## Withdrawal Methods
 

@@ -49,7 +49,7 @@ A common mistake among new traders is optimizing for win rate. But a strategy th
 
 ## The Role of Fees
 
-Fees are the silent killer of marginal edges. On platforms like [Kalshi](https://kalshi.com/sign-up/?referral=f2e21ad4-75b7-4ffb-bfcc-f2fb36e07b21&m=true), you will typically encounter a per-contract fee on both entry and exit. A common fee structure is around $0.02 per contract per side, which means a round-trip trade costs roughly $0.04 in fees alone.
+Fees are the silent killer of marginal edges. On platforms like [Kalshi](https://kalshi.com/sign-up/?referral=f2e21ad4-75b7-4ffb-bfcc-f2fb36e07b21&m=true&utm_source=masterpredictionmarkets&utm_medium=blog&utm_campaign=signup), you will typically encounter a per-contract fee on both entry and exit. A common fee structure is around $0.02 per contract per side, which means a round-trip trade costs roughly $0.04 in fees alone.
 
 This has a direct implication: **if your edge is less than your round-trip fee cost, the trade has negative expected value regardless of your probability estimate.**
 

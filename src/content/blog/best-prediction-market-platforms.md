@@ -22,7 +22,7 @@ I have traded actively on every platform covered here. This guide breaks down wh
 
 ## Kalshi
 
-[Kalshi](https://kalshi.com/sign-up/?referral=f2e21ad4-75b7-4ffb-bfcc-f2fb36e07b21&m=true) is the only fully CFTC-regulated designated contract market (DCM) for event contracts in the United States. That regulatory status is not just a marketing bullet point -- it means segregated customer funds, audited settlement sources, and legal clarity that no other prediction market can offer US residents.
+[Kalshi](https://kalshi.com/sign-up/?referral=f2e21ad4-75b7-4ffb-bfcc-f2fb36e07b21&m=true&utm_source=masterpredictionmarkets&utm_medium=blog&utm_campaign=signup) is the only fully CFTC-regulated designated contract market (DCM) for event contracts in the United States. That regulatory status is not just a marketing bullet point -- it means segregated customer funds, audited settlement sources, and legal clarity that no other prediction market can offer US residents.
 
 ### What Makes It Stand Out
 
@@ -53,7 +53,7 @@ Kalshi is the best choice for US-based traders who want the peace of mind of ful
 
 ## Polymarket
 
-[Polymarket](https://polymarket.us/1762) is the largest prediction market by trading volume, and it is not particularly close. Built on Polygon (an Ethereum Layer 2), it uses USDC as its settlement currency and operates a central limit order book that feels closer to a traditional exchange than most DeFi protocols.
+[Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=blog&utm_campaign=signup) is the largest prediction market by trading volume, and it is not particularly close. Built on Polygon (an Ethereum Layer 2), it uses USDC as its settlement currency and operates a central limit order book that feels closer to a traditional exchange than most DeFi protocols.
 
 ### What Makes It Stand Out
 

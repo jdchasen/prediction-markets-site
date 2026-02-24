@@ -7,7 +7,7 @@ tags: ["kalshi", "weather", "strategies"]
 affiliate: "kalshi"
 ---
 
-Weather markets are one of the most underappreciated corners of [Kalshi](https://kalshi.com/sign-up/?referral=f2e21ad4-75b7-4ffb-bfcc-f2fb36e07b21&m=true). Unlike political or crypto markets, where sentiment and narrative drive prices, weather contracts are grounded in hard physical data. Temperatures get recorded. Forecasts converge. Outcomes resolve with minimal ambiguity. That makes weather one of the cleanest prediction market categories for traders who want to build a systematic, data-driven edge.
+Weather markets are one of the most underappreciated corners of [Kalshi](https://kalshi.com/sign-up/?referral=f2e21ad4-75b7-4ffb-bfcc-f2fb36e07b21&m=true&utm_source=masterpredictionmarkets&utm_medium=blog&utm_campaign=signup). Unlike political or crypto markets, where sentiment and narrative drive prices, weather contracts are grounded in hard physical data. Temperatures get recorded. Forecasts converge. Outcomes resolve with minimal ambiguity. That makes weather one of the cleanest prediction market categories for traders who want to build a systematic, data-driven edge.
 
 I trade these markets daily with an automated bot, and in this guide I will walk through exactly how weather contracts work on Kalshi, how to find mispriced markets, and the practical mistakes to avoid.
 

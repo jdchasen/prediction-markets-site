@@ -18,7 +18,7 @@ polymarketUrl: "https://polymarket.com/event/will-coinbase-be-accused-of-insider
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 3.2% | 96.8% | $96K | [Trade on Polymarket](https://polymarket.us/1762) |
+| Polymarket | 3.2% | 96.8% | $96K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## What the Odds Mean
 
@@ -26,7 +26,7 @@ At **3%**, the market considers this outcome unlikely. Contrarian YES positions 
 
 ## How to Trade This Market
 
-On **[Polymarket](https://polymarket.us/1762)**, you trade using USDC on the Polygon blockchain. Polymarket offers deep liquidity and a wide range of markets on current events.
+On **[Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup)**, you trade using USDC on the Polygon blockchain. Polymarket offers deep liquidity and a wide range of markets on current events.
 
 ## Learn More
 
@@ -40,7 +40,7 @@ As of February 23, 2026, Polymarket prices YES at 3.2%. This is based on real-mo
 
 ### Where can I trade on this prediction market?
 
-You can trade this market on [Polymarket](https://polymarket.us/1762) (crypto-based).
+You can trade this market on [Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) (crypto-based).
 
 ### How do prediction market odds work?
 

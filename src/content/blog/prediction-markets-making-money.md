@@ -45,7 +45,7 @@ We target exit thresholds based on net return after fees. When a position hits o
 
 ## The Fee Reality
 
-Fees are the silent killer of prediction market profitability. On [Kalshi](https://kalshi.com/sign-up/?referral=f2e21ad4-75b7-4ffb-bfcc-f2fb36e07b21&m=true), fees typically run around 7 cents round-trip per contract. That means every trade starts in a 7-cent hole that you need to climb out of before you see any profit.
+Fees are the silent killer of prediction market profitability. On [Kalshi](https://kalshi.com/sign-up/?referral=f2e21ad4-75b7-4ffb-bfcc-f2fb36e07b21&m=true&utm_source=masterpredictionmarkets&utm_medium=blog&utm_campaign=signup), fees typically run around 7 cents round-trip per contract. That means every trade starts in a 7-cent hole that you need to climb out of before you see any profit.
 
 Let us do the math on a concrete example. You buy a contract at $0.45 and your model says the true probability is 60%. The expected settlement value is $0.60. Your expected gross profit is $0.15 per contract. After the 7-cent round-trip fee, your expected net profit is roughly $0.08 per contract. That is still positive, but it is barely half of what it looked like before fees.
 

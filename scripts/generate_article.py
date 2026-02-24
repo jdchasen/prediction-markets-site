@@ -77,6 +77,18 @@ Requirements:
 {market_url_instruction}
 Write the article now in markdown:"""
 
+FAQ_PROMPT = """Based on this article about "{topic}", generate 3-5 FAQ items that would help with SEO rich snippets.
+
+Each FAQ should be a question someone might search for, with a concise 1-2 sentence answer.
+
+Output ONLY valid YAML (no code fences), in this exact format:
+faqs:
+  - question: "What is X?"
+    answer: "X is..."
+  - question: "How does Y work?"
+    answer: "Y works by..."
+"""
+
 
 def slugify(text: str) -> str:
     """Convert text to URL-friendly slug."""
@@ -148,6 +160,24 @@ def generate_article(
     )
     description = meta_msg.content[0].text.strip().strip('"')
 
+    # Generate FAQ items for rich snippets
+    faq_msg = client.messages.create(
+        model="claude-sonnet-4-5-20250929",
+        max_tokens=500,
+        messages=[{
+            "role": "user",
+            "content": FAQ_PROMPT.format(topic=topic) + f"\n\nArticle:\n{body[:2000]}",
+        }],
+    )
+    faq_yaml = faq_msg.content[0].text.strip()
+    # Strip code fences if present
+    if faq_yaml.startswith("```"):
+        faq_yaml = re.sub(r'^```\w*\n?', '', faq_yaml)
+        faq_yaml = re.sub(r'\n?```$', '', faq_yaml)
+    # Ensure it starts with "faqs:" — if not, prepend it
+    if not faq_yaml.startswith("faqs:"):
+        faq_yaml = "faqs:\n" + faq_yaml
+
     # Auto-detect tags from content if not provided
     if not tags:
         tags = [category]
@@ -176,6 +206,7 @@ pubDate: {today}
 category: "{category}"
 tags: [{tags_yaml}]
 affiliate: "{affiliate or category}"
+{faq_yaml}
 ---"""
 
     full_content = f"{frontmatter}\n\n{body}\n"
