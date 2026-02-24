@@ -1,0 +1,413 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import PlatformCTAs from '../../components/PlatformCTAs.astro';
+import NewsletterForm from '../../components/NewsletterForm.astro';
+---
+
+<BaseLayout
+  title="Implied Probability Calculator for Prediction Markets"
+  description="Convert prediction market contract prices to implied probabilities. Calculate breakeven, expected value, and profit/loss with platform fees for Kalshi and Polymarket."
+>
+  <Fragment slot="head">
+    <script type="application/ld+json" set:html={JSON.stringify({
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "How do you calculate implied probability from a contract price?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The implied probability equals the contract price divided by 100. A contract trading at 65 cents implies a 65% probability of the event occurring. This assumes no fees — actual breakeven probability is slightly higher due to platform fees."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What fees do prediction markets charge?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Kalshi charges a 7% fee on net profits (you keep 93% of winnings). Polymarket charges no trading fees but has spread costs. Fee structures affect your breakeven price and should be factored into every trade decision."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is expected value in prediction market trading?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Expected value (EV) is the average profit or loss per dollar risked over many trades. EV = (your probability × net win) - ((1 - your probability) × cost). Positive EV means the trade is profitable on average; negative EV means you should skip it."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How do I know if a prediction market contract is a good trade?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A contract is a good trade when you believe the true probability is significantly higher than the breakeven probability (after fees). Use the expected value calculation to quantify your edge. Generally, look for at least 5-10% edge to account for uncertainty in your probability estimate."
+          }
+        }
+      ]
+    })} />
+    <script type="application/ld+json" set:html={JSON.stringify({
+      "@context": "https://schema.org",
+      "@type": "WebApplication",
+      "name": "Prediction Market Probability Calculator",
+      "description": "Convert contract prices to implied probabilities and calculate expected value with platform fees.",
+      "url": "https://masterpredictionmarkets.com/tools/probability-calculator",
+      "applicationCategory": "FinanceApplication",
+      "operatingSystem": "Any",
+      "offers": { "@type": "Offer", "price": "0", "priceCurrency": "USD" }
+    })} />
+  </Fragment>
+
+  <section class="bg-gradient-to-b from-brand-50 to-white py-12">
+    <div class="mx-auto max-w-6xl px-4">
+      <nav class="mb-6 text-sm text-gray-500">
+        <a href="/tools" class="hover:text-brand-600">Tools</a>
+        <span class="mx-2">/</span>
+        <span class="text-gray-900">Probability Calculator</span>
+      </nav>
+      <h1 class="mb-3 text-3xl font-bold tracking-tight text-gray-900 md:text-4xl">
+        Implied Probability Calculator
+      </h1>
+      <p class="max-w-2xl text-lg text-gray-600">
+        Convert contract prices to implied probabilities, see breakeven with fees, and calculate expected value for any prediction market trade.
+      </p>
+    </div>
+  </section>
+
+  <section class="py-12">
+    <div class="mx-auto max-w-6xl px-4">
+      <!-- Tab Toggle -->
+      <div class="mb-8 inline-flex rounded-lg border border-gray-200 bg-gray-50 p-1">
+        <button data-tab="simple" class="rounded-md px-4 py-2 text-sm font-medium transition-colors bg-white text-gray-900 shadow-sm">
+          Simple
+        </button>
+        <button data-tab="advanced" class="rounded-md px-4 py-2 text-sm font-medium transition-colors text-gray-500 hover:text-gray-700">
+          Advanced
+        </button>
+      </div>
+
+      <div class="grid grid-cols-1 gap-8 lg:grid-cols-2">
+        <!-- Inputs -->
+        <div class="space-y-6">
+          <!-- Contract Price -->
+          <div class="rounded-lg border border-gray-200 bg-white p-6">
+            <label class="mb-3 block text-sm font-semibold text-gray-900">Contract Price (cents)</label>
+            <div class="flex items-center gap-4">
+              <input
+                type="range"
+                data-input="price-slider"
+                min="1" max="99" value="50"
+                class="h-2 flex-1 cursor-pointer appearance-none rounded-lg bg-gray-200 accent-brand-600"
+              />
+              <div class="flex items-center">
+                <span class="mr-1 text-sm text-gray-500">$0.</span>
+                <input
+                  type="number"
+                  data-input="price-number"
+                  min="1" max="99" value="50"
+                  class="w-16 rounded-md border border-gray-300 px-2 py-1.5 text-center text-sm font-medium focus:border-brand-500 focus:outline-none focus:ring-1 focus:ring-brand-500"
+                />
+              </div>
+            </div>
+          </div>
+
+          <!-- Advanced: True Probability -->
+          <div data-panel="advanced" class="hidden rounded-lg border border-gray-200 bg-white p-6">
+            <label class="mb-3 block text-sm font-semibold text-gray-900">Your True Probability (%)</label>
+            <div class="flex items-center gap-4">
+              <input
+                type="range"
+                data-input="prob-slider"
+                min="1" max="99" value="60"
+                class="h-2 flex-1 cursor-pointer appearance-none rounded-lg bg-gray-200 accent-brand-600"
+              />
+              <div class="flex items-center">
+                <input
+                  type="number"
+                  data-input="prob-number"
+                  min="1" max="99" value="60"
+                  class="w-16 rounded-md border border-gray-300 px-2 py-1.5 text-center text-sm font-medium focus:border-brand-500 focus:outline-none focus:ring-1 focus:ring-brand-500"
+                />
+                <span class="ml-1 text-sm text-gray-500">%</span>
+              </div>
+            </div>
+          </div>
+
+          <!-- Advanced: Platform -->
+          <div data-panel="advanced" class="hidden rounded-lg border border-gray-200 bg-white p-6">
+            <label class="mb-3 block text-sm font-semibold text-gray-900">Platform</label>
+            <div class="flex gap-3">
+              <label class="flex cursor-pointer items-center gap-2 rounded-md border border-gray-200 px-4 py-2 text-sm has-[:checked]:border-green-500 has-[:checked]:bg-green-50">
+                <input type="radio" name="platform" value="kalshi" checked class="accent-green-600" />
+                Kalshi
+              </label>
+              <label class="flex cursor-pointer items-center gap-2 rounded-md border border-gray-200 px-4 py-2 text-sm has-[:checked]:border-blue-500 has-[:checked]:bg-blue-50">
+                <input type="radio" name="platform" value="polymarket" class="accent-blue-600" />
+                Polymarket
+              </label>
+              <label class="flex cursor-pointer items-center gap-2 rounded-md border border-gray-200 px-4 py-2 text-sm has-[:checked]:border-gray-500 has-[:checked]:bg-gray-100">
+                <input type="radio" name="platform" value="none" class="accent-gray-600" />
+                No fees
+              </label>
+            </div>
+          </div>
+        </div>
+
+        <!-- Results -->
+        <div class="space-y-4">
+          <!-- Simple Results -->
+          <div class="rounded-lg border border-gray-200 bg-white p-6">
+            <h2 class="mb-4 text-sm font-semibold uppercase tracking-wider text-gray-500">Results</h2>
+            <div class="space-y-3">
+              <div class="flex items-center justify-between">
+                <span class="text-sm text-gray-600">Implied Probability</span>
+                <span data-output="implied-prob" class="text-lg font-bold text-gray-900">50%</span>
+              </div>
+              <div class="flex items-center justify-between">
+                <span class="text-sm text-gray-600">NO Probability</span>
+                <span data-output="no-prob" class="text-lg font-bold text-gray-900">50%</span>
+              </div>
+              <hr class="border-gray-100" />
+              <div class="flex items-center justify-between">
+                <span class="text-sm text-gray-600">Breakeven (Kalshi)</span>
+                <span data-output="breakeven-kalshi" class="text-sm font-medium text-gray-900">—</span>
+              </div>
+              <div class="flex items-center justify-between">
+                <span class="text-sm text-gray-600">Breakeven (No fees)</span>
+                <span data-output="breakeven-nofee" class="text-sm font-medium text-gray-900">—</span>
+              </div>
+            </div>
+          </div>
+
+          <!-- Advanced Results -->
+          <div data-panel="advanced" class="hidden rounded-lg border border-gray-200 bg-white p-6">
+            <h2 class="mb-4 text-sm font-semibold uppercase tracking-wider text-gray-500">Expected Value</h2>
+            <div class="space-y-3">
+              <div class="flex items-center justify-between">
+                <span class="text-sm text-gray-600">Edge</span>
+                <span data-output="edge" class="text-lg font-bold">—</span>
+              </div>
+              <div class="flex items-center justify-between">
+                <span class="text-sm text-gray-600">EV per contract</span>
+                <span data-output="ev-per-contract" class="text-lg font-bold">—</span>
+              </div>
+              <div class="flex items-center justify-between">
+                <span class="text-sm text-gray-600">EV per dollar risked</span>
+                <span data-output="ev-per-dollar" class="text-sm font-medium">—</span>
+              </div>
+              <div data-output="ev-rating" class="mt-3 rounded-md p-3 text-center text-sm font-medium"></div>
+            </div>
+          </div>
+
+          <!-- P/L Table -->
+          <div class="rounded-lg border border-gray-200 bg-white p-6">
+            <h2 class="mb-4 text-sm font-semibold uppercase tracking-wider text-gray-500">Profit / Loss Table</h2>
+            <div class="overflow-x-auto">
+              <table class="w-full text-sm">
+                <thead>
+                  <tr class="border-b border-gray-200 text-left">
+                    <th class="pb-2 font-medium text-gray-500">Investment</th>
+                    <th class="pb-2 font-medium text-gray-500">Contracts</th>
+                    <th class="pb-2 font-medium text-gray-500">If YES</th>
+                    <th class="pb-2 font-medium text-gray-500">If NO</th>
+                  </tr>
+                </thead>
+                <tbody data-output="pl-table" class="divide-y divide-gray-100">
+                </tbody>
+              </table>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Explanation -->
+  <section class="border-t border-gray-100 py-12">
+    <div class="mx-auto max-w-3xl px-4">
+      <h2 class="mb-6 text-2xl font-bold text-gray-900">How Prediction Market Probabilities Work</h2>
+      <div class="space-y-4 text-sm leading-relaxed text-gray-600">
+        <p>
+          In prediction markets, every contract represents a yes/no question about a future event. The contract price — quoted in cents from $0.01 to $0.99 — reflects the market's collective estimate of the event's probability. A contract at $0.65 means the market thinks there's roughly a 65% chance of the event happening.
+        </p>
+        <p>
+          If the event occurs, YES contracts pay out $1.00. If it doesn't, they're worth $0.00. Your profit is the difference between the payout and what you paid, minus any platform fees. On Kalshi, for example, you keep 93% of profits (7% fee on net gains).
+        </p>
+        <p>
+          The key to profitable trading is finding contracts where your estimated probability differs significantly from the market price. If you believe an event has a 75% chance of happening but the contract trades at $0.60, you have a potential edge. Use the advanced mode above to calculate exactly how much edge you have and whether the trade has positive expected value.
+        </p>
+        <h3 class="text-lg font-semibold text-gray-900 pt-2">Understanding Breakeven Probability</h3>
+        <p>
+          Breakeven probability is the minimum true probability needed for a trade to be profitable on average. Without fees, it equals the contract price. With Kalshi's 7% profit fee, breakeven is slightly higher because fees reduce your net win. Always compare your estimated probability against the breakeven — not the raw contract price.
+        </p>
+      </div>
+
+      <!-- FAQ -->
+      <div class="mt-10 space-y-4">
+        <h2 class="text-2xl font-bold text-gray-900">Frequently Asked Questions</h2>
+        <details class="rounded-lg border border-gray-200 bg-white">
+          <summary class="cursor-pointer px-5 py-3 text-sm font-medium text-gray-900">How do you calculate implied probability from a contract price?</summary>
+          <p class="px-5 pb-4 text-sm text-gray-600">The implied probability equals the contract price divided by 100. A contract trading at 65 cents implies a 65% probability. This is a simplified view — actual breakeven is slightly higher when you account for platform fees.</p>
+        </details>
+        <details class="rounded-lg border border-gray-200 bg-white">
+          <summary class="cursor-pointer px-5 py-3 text-sm font-medium text-gray-900">What fees do prediction markets charge?</summary>
+          <p class="px-5 pb-4 text-sm text-gray-600">Kalshi charges a 7% fee on net profits (you keep 93% of winnings). Polymarket charges no explicit trading fees but has spread costs built into the order book. Always factor fees into your breakeven calculation.</p>
+        </details>
+        <details class="rounded-lg border border-gray-200 bg-white">
+          <summary class="cursor-pointer px-5 py-3 text-sm font-medium text-gray-900">What is expected value (EV) in prediction market trading?</summary>
+          <p class="px-5 pb-4 text-sm text-gray-600">EV is the average profit or loss per trade over many repetitions. Positive EV means a trade is profitable on average. EV = (your probability × net win) - ((1 - your probability) × cost). Use the advanced mode to calculate EV for any contract.</p>
+        </details>
+        <details class="rounded-lg border border-gray-200 bg-white">
+          <summary class="cursor-pointer px-5 py-3 text-sm font-medium text-gray-900">How do I know if a contract is a good trade?</summary>
+          <p class="px-5 pb-4 text-sm text-gray-600">A contract is worth trading when your true probability estimate is significantly above the breakeven probability (accounting for fees). Look for at least 5-10% edge to compensate for uncertainty in your probability estimate. The advanced EV calculator quantifies this exactly.</p>
+        </details>
+      </div>
+    </div>
+  </section>
+
+  <section class="py-12">
+    <div class="mx-auto max-w-3xl px-4 space-y-6">
+      <PlatformCTAs />
+      <NewsletterForm variant="banner" />
+    </div>
+  </section>
+</BaseLayout>
+
+<script>
+  // DOM references
+  const priceSlider = document.querySelector('[data-input="price-slider"]') as HTMLInputElement;
+  const priceNumber = document.querySelector('[data-input="price-number"]') as HTMLInputElement;
+  const probSlider = document.querySelector('[data-input="prob-slider"]') as HTMLInputElement;
+  const probNumber = document.querySelector('[data-input="prob-number"]') as HTMLInputElement;
+  const platformRadios = document.querySelectorAll('input[name="platform"]') as NodeListOf<HTMLInputElement>;
+  const tabButtons = document.querySelectorAll('[data-tab]') as NodeListOf<HTMLButtonElement>;
+  const advancedPanels = document.querySelectorAll('[data-panel="advanced"]') as NodeListOf<HTMLElement>;
+
+  let activeTab = 'simple';
+
+  // Tab toggle
+  tabButtons.forEach(btn => {
+    btn.addEventListener('click', () => {
+      activeTab = btn.dataset.tab!;
+      tabButtons.forEach(b => {
+        if (b.dataset.tab === activeTab) {
+          b.classList.add('bg-white', 'text-gray-900', 'shadow-sm');
+          b.classList.remove('text-gray-500');
+        } else {
+          b.classList.remove('bg-white', 'text-gray-900', 'shadow-sm');
+          b.classList.add('text-gray-500');
+        }
+      });
+      advancedPanels.forEach(p => {
+        p.classList.toggle('hidden', activeTab !== 'advanced');
+      });
+      calculate();
+    });
+  });
+
+  // Bidirectional slider sync
+  function syncInputs(slider: HTMLInputElement, number: HTMLInputElement) {
+    slider.addEventListener('input', () => { number.value = slider.value; calculate(); });
+    number.addEventListener('input', () => {
+      let v = Math.min(99, Math.max(1, parseInt(number.value) || 1));
+      slider.value = String(v);
+      calculate();
+    });
+  }
+  syncInputs(priceSlider, priceNumber);
+  syncInputs(probSlider, probNumber);
+  platformRadios.forEach(r => r.addEventListener('change', calculate));
+
+  function getFeeRate(): number {
+    const platform = (document.querySelector('input[name="platform"]:checked') as HTMLInputElement)?.value || 'kalshi';
+    if (platform === 'kalshi') return 0.07;
+    return 0;
+  }
+
+  function calculate() {
+    const price = parseInt(priceSlider.value);
+    const impliedProb = price / 100;
+    const noProb = 1 - impliedProb;
+    const feeRate = getFeeRate();
+
+    // Simple outputs
+    setText('implied-prob', (impliedProb * 100).toFixed(1) + '%');
+    setText('no-prob', (noProb * 100).toFixed(1) + '%');
+
+    // Breakeven calculations
+    // Kalshi: need trueProb where EV = 0 → p * (1-price/100) * 0.93 = (1-p) * price/100
+    // → p = (price/100) / (price/100 + (1-price/100)*0.93)
+    const cost = price / 100;
+    const beKalshi = cost / (cost + (1 - cost) * 0.93);
+    setText('breakeven-kalshi', (beKalshi * 100).toFixed(1) + '%');
+    setText('breakeven-nofee', (impliedProb * 100).toFixed(1) + '%');
+
+    // Advanced outputs
+    if (activeTab === 'advanced') {
+      const trueProb = parseInt(probSlider.value) / 100;
+      const netWin = (1 - cost) * (1 - feeRate);
+      const ev = (trueProb * netWin) - ((1 - trueProb) * cost);
+
+      const breakeven = feeRate > 0 ? beKalshi : impliedProb;
+      const edge = trueProb - breakeven;
+
+      setText('edge', (edge * 100).toFixed(1) + '%');
+      setColor('edge', edge >= 0 ? 'text-green-600' : 'text-red-600');
+
+      setText('ev-per-contract', (ev >= 0 ? '+' : '') + '$' + ev.toFixed(4));
+      setColor('ev-per-contract', ev >= 0 ? 'text-green-600' : 'text-red-600');
+
+      const evPerDollar = ev / cost;
+      setText('ev-per-dollar', (evPerDollar >= 0 ? '+' : '') + (evPerDollar * 100).toFixed(1) + '%');
+
+      const ratingEl = document.querySelector('[data-output="ev-rating"]') as HTMLElement;
+      if (ev > 0) {
+        ratingEl.textContent = 'Positive EV — This trade has edge';
+        ratingEl.className = 'mt-3 rounded-md p-3 text-center text-sm font-medium bg-green-50 text-green-700 border border-green-200';
+      } else {
+        ratingEl.textContent = 'Negative EV — Skip this trade';
+        ratingEl.className = 'mt-3 rounded-md p-3 text-center text-sm font-medium bg-red-50 text-red-700 border border-red-200';
+      }
+    }
+
+    // P/L Table
+    const investments = [1, 5, 10, 25, 50, 100, 250, 500, 1000];
+    const tbody = document.querySelector('[data-output="pl-table"]') as HTMLElement;
+    tbody.innerHTML = '';
+    for (const inv of investments) {
+      const contracts = Math.floor(inv / cost);
+      if (contracts < 1) continue;
+      const totalCost = contracts * cost;
+      const grossWin = contracts * 1;
+      const profit = grossWin - totalCost;
+      const netProfit = profit * (1 - feeRate);
+      const loss = -totalCost;
+
+      const tr = document.createElement('tr');
+      tr.innerHTML = `
+        <td class="py-2 text-gray-900">$${inv.toLocaleString()}</td>
+        <td class="py-2 text-gray-900">${contracts}</td>
+        <td class="py-2 font-medium text-green-600">+$${netProfit.toFixed(2)}</td>
+        <td class="py-2 font-medium text-red-600">-$${Math.abs(loss).toFixed(2)}</td>
+      `;
+      tbody.appendChild(tr);
+    }
+  }
+
+  function setText(key: string, value: string) {
+    const el = document.querySelector(`[data-output="${key}"]`);
+    if (el) el.textContent = value;
+  }
+
+  function setColor(key: string, colorClass: string) {
+    const el = document.querySelector(`[data-output="${key}"]`);
+    if (el) {
+      el.classList.remove('text-green-600', 'text-red-600');
+      el.classList.add(colorClass);
+    }
+  }
+
+  // Initial calculation
+  calculate();
+</script>

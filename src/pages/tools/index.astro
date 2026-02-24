@@ -1,0 +1,107 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import ToolCard from '../../components/ToolCard.astro';
+import PlatformCTAs from '../../components/PlatformCTAs.astro';
+import NewsletterForm from '../../components/NewsletterForm.astro';
+
+const tools = [
+  {
+    title: 'Probability Calculator',
+    description: 'Convert contract prices to implied probabilities, calculate breakeven points with fees, and find expected value on any trade.',
+    href: '/tools/probability-calculator',
+    icon: '<svg class="h-6 w-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 7h6m0 10v-3m-3 3h.01M9 17h.01M9 14h.01M12 14h.01M15 11h.01M12 11h.01M9 11h.01M7 21h10a2 2 0 002-2V5a2 2 0 00-2-2H7a2 2 0 00-2 2v14a2 2 0 002 2z" /></svg>',
+    color: 'bg-brand-100 text-brand-700',
+  },
+  {
+    title: 'Kelly Criterion Calculator',
+    description: 'Calculate optimal bet sizing using the Kelly criterion. Find the mathematically ideal position size for any edge you identify.',
+    href: '/tools/kelly-calculator',
+    icon: '<svg class="h-6 w-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 7h8m0 0v8m0-8l-8 8-4-4-6 6" /></svg>',
+    color: 'bg-purple-100 text-purple-700',
+  },
+  {
+    title: 'Arbitrage Scanner',
+    description: 'Find cross-platform arbitrage opportunities between Kalshi and Polymarket. Calculate guaranteed profits after fees.',
+    href: '/tools/arbitrage-scanner',
+    icon: '<svg class="h-6 w-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 7h12m0 0l-4-4m4 4l-4 4m0 6H4m0 0l4 4m-4-4l4-4" /></svg>',
+    color: 'bg-green-100 text-green-700',
+  },
+];
+---
+
+<BaseLayout
+  title="Free Trading Tools for Prediction Markets"
+  description="Free calculators and tools for prediction market traders. Probability calculator, Kelly criterion bet sizing, and cross-platform arbitrage scanner."
+>
+  <Fragment slot="head">
+    <script type="application/ld+json" set:html={JSON.stringify({
+      "@context": "https://schema.org",
+      "@type": "CollectionPage",
+      "name": "Prediction Market Trading Tools",
+      "description": "Free calculators and tools for prediction market traders.",
+      "url": "https://masterpredictionmarkets.com/tools",
+      "mainEntity": {
+        "@type": "ItemList",
+        "itemListElement": tools.map((tool, i) => ({
+          "@type": "ListItem",
+          "position": i + 1,
+          "name": tool.title,
+          "url": `https://masterpredictionmarkets.com${tool.href}`,
+        })),
+      },
+    })} />
+  </Fragment>
+
+  <section class="bg-gradient-to-b from-brand-50 to-white py-16">
+    <div class="mx-auto max-w-6xl px-4 text-center">
+      <h1 class="mb-4 text-4xl font-bold tracking-tight text-gray-900 md:text-5xl">
+        Free <span class="text-brand-600">Trading Tools</span>
+      </h1>
+      <p class="mx-auto mb-8 max-w-2xl text-lg text-gray-600">
+        Calculate probabilities, optimize bet sizes, and find arbitrage opportunities across prediction markets. All free, no signup required.
+      </p>
+    </div>
+  </section>
+
+  <section class="py-12">
+    <div class="mx-auto max-w-6xl px-4">
+      <div class="grid grid-cols-1 gap-6 md:grid-cols-3">
+        {tools.map((tool) => (
+          <ToolCard
+            title={tool.title}
+            description={tool.description}
+            href={tool.href}
+            icon={tool.icon}
+            color={tool.color}
+          />
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <section class="py-12">
+    <div class="mx-auto max-w-3xl px-4">
+      <div class="rounded-lg border border-gray-200 bg-gray-50 p-8">
+        <h2 class="mb-4 text-xl font-bold text-gray-900">Why Use These Tools?</h2>
+        <div class="space-y-4 text-sm leading-relaxed text-gray-600">
+          <p>
+            Prediction markets price event contracts between $0.01 and $0.99, where the price roughly equals the market's implied probability. But raw prices don't tell the whole story — platform fees, your own probability estimates, and position sizing all affect whether a trade is actually profitable.
+          </p>
+          <p>
+            These tools help you make better decisions. The <strong>Probability Calculator</strong> shows you breakeven prices after fees and expected value for any contract. The <strong>Kelly Calculator</strong> tells you exactly how much to risk based on your edge. And the <strong>Arbitrage Scanner</strong> finds guaranteed-profit opportunities across platforms.
+          </p>
+          <p>
+            All calculations run in your browser — nothing is sent to any server. Bookmark the tools you use most and come back anytime.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="py-12">
+    <div class="mx-auto max-w-3xl px-4 space-y-6">
+      <PlatformCTAs />
+      <NewsletterForm variant="banner" />
+    </div>
+  </section>
+</BaseLayout>
