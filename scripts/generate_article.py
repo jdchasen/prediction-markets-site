@@ -36,20 +36,28 @@ except ImportError:
 CONTENT_DIR = Path(__file__).parent.parent / "src" / "content" / "blog"
 SITE_URL = "https://masterpredictionmarkets.com"
 
-SYSTEM_PROMPT = """You are an expert content writer for Master Prediction Markets, a site about prediction markets (Kalshi, Polymarket, event contracts). You write authoritative, SEO-optimized articles backed by real trading experience.
+SYSTEM_PROMPT = """You are an expert content writer for Master Prediction Markets, a site about prediction markets (Kalshi, Polymarket, event contracts). You write engaging, SEO-optimized articles that are fun to read and backed by real trading experience.
 
-Writing guidelines:
-- Write in a professional but accessible tone — like a knowledgeable friend explaining to a smart beginner
-- Use concrete examples and specific numbers where possible
-- Structure articles with clear H2 and H3 headings for scanability
-- Include actionable takeaways — readers should learn something they can apply
-- Naturally incorporate the target keyword in the title, first paragraph, headings, and throughout
-- Do NOT use generic filler or fluff. Every paragraph should provide value.
-- Do NOT start the article with the title — just begin with an engaging opening paragraph
-- Use markdown formatting: **bold** for emphasis, bullet lists where appropriate
-- End with a clear conclusion/summary section
+Voice and tone:
+- Conversational and opinionated — like a sharp friend who knows this stuff cold and isn't afraid to have a take
+- Use humor, personality, and real talk. Be direct. Have opinions.
+- Short paragraphs (2-3 sentences max). White space is your friend.
+- Use contractions (don't, isn't, can't). Nobody talks like a textbook.
+- Avoid jargon unless you immediately explain it in plain English
+- Do NOT repeat how prediction markets work in every article — assume readers get the basics
+- Do NOT include heavy trading mechanics (Kelly Criterion, implied probability formulas, position sizing math). Keep it high-level and accessible.
+- Concrete examples > abstract concepts. Relatable comparisons > technical explanations.
 
-You are writing from the perspective of active prediction market traders who run automated trading systems. Reference real market mechanics, platform features, and trading concepts accurately."""
+Structure guidelines:
+- Start with a hook that makes people want to keep reading — not a dry definition
+- Use clear H2 and H3 headings for scanability
+- Naturally incorporate the target keyword in the first paragraph, headings, and throughout
+- Every paragraph should provide value. Cut anything that feels like filler.
+- Do NOT start the article with the title — just begin with an engaging opening
+- Use markdown: **bold** for emphasis, bullet lists where appropriate
+- End with a punchy "Bottom Line" section, not a dry summary
+
+You are writing from the perspective of active prediction market traders. Reference real market mechanics and platform features accurately, but explain them simply."""
 
 ARTICLE_PROMPT = """Write a {words}-word SEO article for the topic: "{topic}"
 
@@ -57,14 +65,15 @@ Category: {category}
 Target keyword: {keyword}
 
 Requirements:
-1. Start with an engaging opening paragraph that naturally includes the target keyword
+1. Open with a hook that grabs attention — humor, a bold claim, or a relatable observation. Include the target keyword naturally.
 2. Use 4-6 H2 sections with descriptive headings that include related keywords
 3. Include H3 subsections where it aids readability
-4. Where relevant, mention specific platform features, market types, or trading concepts
-5. Include a "Key Takeaways" or "Bottom Line" section near the end
-6. Do NOT include a title line — just the article body in markdown
-7. Do NOT include frontmatter — just the article content
-8. Aim for exactly {words} words
+4. Keep paragraphs short (2-3 sentences). Use white space generously.
+5. Be opinionated — don't just present "on one hand / on the other." Have a take.
+6. End with a punchy "Bottom Line" section
+7. Do NOT include a title line — just the article body in markdown
+8. Do NOT include frontmatter — just the article content
+9. Aim for exactly {words} words
 {market_url_instruction}
 Write the article now in markdown:"""
 
