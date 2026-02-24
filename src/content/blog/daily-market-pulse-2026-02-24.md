@@ -1,62 +1,46 @@
 ---
-title: "Daily Market Pulse: February 24, 2026"
-description: "Today's prediction market movers: Trump's State of the Union prop bets flood Kalshi and Polymarket, Iran strike odds hold at 20% for February, and AI model markets price Anthropic at 93%."
+title: "Daily Market Pulse: February 24, 2026 — Tottenham Dreams and Monetary Policy Reality Collide"
+description: "Stay ahead with today's prediction market insights as Tottenham's championship hopes clash with Fed rate decisions. Expert analysis of sports betting and economic forecasts."
 pubDate: 2026-02-24
 category: "strategies"
 tags: ["daily", "kalshi", "polymarket"]
 affiliate: "kalshi"
 ---
 
-Trump's State of the Union address tomorrow night is generating a wave of prop markets across both [Kalshi](https://kalshi.com/sign-up/?referral=f2e21ad4-75b7-4ffb-bfcc-f2fb36e07b21&m=true) and [Polymarket](https://polymarket.us/1762), from how many times he says "America" to how long his handshake with JD Vance will last. Meanwhile, Iran strike markets remain the highest-volume geopolitical trade on the board, and a new AI model market is drawing serious money.
+Nearly $9.4 million changed hands today on a single question: Can Tottenham Hotspur actually win the Premier League? With the football contract trading at just 0.1¢ (0.1% probability) despite leading all Polymarket markets in 24-hour volume at $9.36 million, we're witnessing what appears to be either the world's most confident short sellers or traders gaming liquidity mechanics on a market already viewed as essentially decided. The "No" side sits at a near-perfect 100.0¢, yet the sheer volume suggests this isn't just a dead market—it's become a testing ground for high-volume position management.
 
-## State of the Union Prop Markets Explode
+Meanwhile, the Federal Reserve speculation markets continue their own kind of improbable drama, with traders pricing near-certainty into outcomes that once seemed at least plausible just months ago.
 
-With Trump set to address Congress Tuesday night, prediction markets are offering dozens of bets on the speech's content, audience, and aftermath. The markets are a mix of serious policy indicators and pure entertainment.
+## The Fed's March Non-Event: $10.5 Million Says Don't Hold Your Breath
 
-On Polymarket, the "What will Trump say during SOTU?" market has pulled in $809,000 in volume. The market heavily favors Trump using "America" or "American" at least 25 times (96% probability) and at least 50 times (87%). The handshake duration market — specifically how long Trump and Vice President Vance shake hands — favors under two seconds.
+Federal Reserve positioning has crystallized into something approaching market consensus, with both rate-change scenarios for March trading at extreme probabilities. The question of whether the Fed will increase rates by 25+ basis points after the March meeting sits at 0.7¢ (0.7% probability) with $5.26 million in 24-hour volume and $58.57 million total. Its mirror image—a 50+ basis point decrease—trades at an identical 0.7¢ with $5.18 million in daily volume.
 
-Kalshi has gone deeper on the audience composition angle, offering markets on which senators and officials will attend. Susan Collins leads at 97% probability of attendance. For traders, the more actionable SOTU markets are the policy-adjacent ones: any specific tariff announcements, mentions of the Fed, or foreign policy signals could move related contracts across both platforms.
+These matching price points tell us everything about current expectations: March will bring no major monetary policy shifts. Combined, these two contracts have generated over $10.4 million in 24-hour trading volume, representing not speculation about policy changes but rather traders expressing certainty about the status quo. The market is effectively pricing in a hold or, at most, a 25bp adjustment in either direction.
 
-The SOTU markets are a textbook example of how prediction markets capture sentiment on events that traditional forecasting ignores entirely. For a primer on how to evaluate these kinds of markets, see our guide on [understanding event contract pricing](/blog/understanding-event-contract-pricing-and-probability).
+For those new to trading central bank decisions, the tight clustering around zero probability for major moves offers a textbook example of how [prediction markets](https://polymarket.us/1762) can crystallize consensus more effectively than traditional forecasting. When you see extreme pricing like this backed by millions in volume, it's the market's way of saying: this debate is over.
 
-## Iran Strike Odds: February Window Narrowing
+## Iran Strike Timeline: The Probability Cascade
 
-The Iran strike timeline remains the single most-traded geopolitical market on Polymarket, with the full series now exceeding $384 million in total volume. The key contracts heading into the final days of February:
+Geopolitical risk assessment remains front and center, with three distinct Iran strike contracts creating what amounts to a market-based probability curve across time horizons. The February 24th deadline (today) trades at 1.8¢ with $2.57 million in 24-hour volume—essentially a certainty that no strike has occurred. The February 28th contract, however, shows dramatically different positioning at 15.5¢, having generated $2.03 million in daily trading volume on top of its $40.3 million total volume base.
 
-| Contract | Price | Implied Probability | Volume |
-|---|---|---|---|
-| US strikes Iran by Feb 28 | $0.195 | 19.5% | $38.85M |
-| US strikes Iran by Mar 7 | $0.40 | 40% | — |
-| US strikes Iran by Mar 15 | $0.53 | 53% | — |
-| US strikes Iran by Mar 31 | $0.625 | 62.5% | $15.06M |
-| US strikes Iran by Jun 30 | $0.695 | 69.5% | $7.19M |
+The steepest jump comes with the March 31st contract, now trading at 61.5¢—a majority probability that represents traders betting on either eventual escalation or simply hedging against the accumulation of many small daily probabilities over time. With $1.22 million in 24-hour volume, this longer-dated contract has become the preferred vehicle for expressing medium-term geopolitical risk.
 
-The probability curve tells a clear story: traders see roughly a 1-in-5 chance of military action this week, rising to a coin flip by mid-March, and nearly 70% by summer. The Feb 28 contract has ticked up slightly from yesterday's 17.5% to 19.5%, suggesting modest directional pressure despite no breaking news.
+This probability cascade—from 1.8¢ to 15.5¢ to 61.5¢—reveals how markets price both time decay and event risk. Each additional day represents not just more opportunity for an event to occur, but also more uncertainty about diplomatic alternatives and intelligence reliability. The mathematical elegance of this pricing structure offers insights into how professional traders think about escalation scenarios.
 
-The related "Will Iranian regime fall before 2027?" contract sits at 37% with $5 million in volume — a market that would see significant repricing in any strike scenario.
+## Political Futures: 2028 Shadow Boxing Begins
 
-For traders considering positions in these geopolitical markets, the key risk is the binary nature of the outcome combined with thin exit liquidity as deadlines approach. Use our [Probability Calculator](/tools/probability-calculator) to evaluate whether the current pricing leaves enough edge after fees before entering.
+The 2028 presidential cycle is already generating serious trading interest, though the market remains firmly in price-discovery mode. Kentucky Governor Andy Beshear's contract for winning the 2028 election outright trades at just 1.8¢ despite $1.62 million in 24-hour volume—the kind of liquidity that suggests sophisticated traders are beginning to build positions on lesser-known candidates trading at long-shot prices.
 
-## AI Model Markets: Anthropic Dominates
+Minnesota Governor Tim Walz's nomination market (not general election) sits at 0.8¢ for winning the Democratic primary, with $994,420 in daily volume. That nearly $1 million in trading activity on a sub-1% probability contract demonstrates how early political positioning works: traders willing to deploy capital at extremely low entry prices, banking on the possibility that these figures become more prominent as the cycle develops.
 
-A newer market category is drawing significant volume: "Best AI model end of February" has generated $20 million in trading. Anthropic is the overwhelming favorite at 93%, with Google a distant second at 4%. This market is notable for the conviction level — 93% implies near-certainty, yet the contract still trades below $1.00, meaning there is theoretical value in the NO side if you believe a last-minute competitor release could shift the benchmark rankings.
+The Beshear contract illustrates a [prediction market strategy](/blog/prediction-market-strategies-finding-edge-as-a-retail-trader) worth noting: when you see significant volume on ultra-long-shot political outcomes, it often signals either informed money taking positions before broader market awareness, or contrarians betting against consensus frontrunners who haven't yet emerged.
 
-## Sports Volume Dominates Kalshi
+## Crypto Endpoints and Absurdist Contracts
 
-Kalshi's trading volume is heavily concentrated in sports, with $171.8 million in the last 24 hours across NBA and NHL markets. The standout movers:
+Bitcoin's February moon-shot question has been decisively answered, with the "$150,000 in February" market trading at 0.1¢ despite $1.21 million in 24-hour volume. With just days remaining in the month and Bitcoin nowhere near that threshold, this represents pure cleanup trading—positions being closed, final liquidity being absorbed, and the market mechanics of near-certain outcomes playing out in real-time.
 
-- **Milwaukee Bucks playoff qualification** crashed from 22¢ to 15¢ (down 32%) on 6,610 contracts — suggesting injury news or a losing streak has dramatically shifted expectations
-- **Detroit Pistons best regular-season record** collapsed from 32¢ to 13¢ (down 59%) — a market that was likely mispriced and is now correcting
-- **USA vs Canada hockey gold medal** pulled in $6.6 million in volume as the matchup approaches
-
-Crypto markets on Kalshi are also active at $11.6 million in daily volume, with Bitcoin price contracts the primary driver.
-
-## DHS Shutdown: Markets Price Extended Closure
-
-The Department of Homeland Security shutdown duration market on Polymarket reflects expectations of a prolonged closure, with "14+ days" at 98% and "21+ days" at 82%. The $914,000 in volume suggests this is more than idle speculation — traders are positioning around the political dynamics that make a quick resolution unlikely.
+The Richard Grenell/Venezuela market deserves mention purely for its surreal premise: "Will Richard Grenell be the leader of Venezuela end of 2026?" trades at 0.1¢ with $1.46 million in daily volume. The scenario seems far-fetched enough that the 0.1% probability feels generous, yet the volume suggests this contract has become something of a curiosity trade—perhaps a way to express extreme skepticism about unconventional foreign policy outcomes.
 
 ## What to Watch
 
-- **Tuesday night SOTU**: Real-time repricing across tariff, Fed, and geopolitical markets during and immediately after the speech. Speed matters — if you are positioned to trade during the address, the first movers capture the repricing. Read our [strategies for news-driven trading](/blog/prediction-market-strategies-finding-edge-as-a-retail-trader) for the framework.
-- **Iran Feb 28 deadline**: Four days remain on the highest-volume geopolitical contract. Any military positioning news or diplomatic developments could move this 19.5% contract sharply in either direction.
-- **Fed March meeting**: Rate decision markets remain near-certain for a hold (99% no change). The more interesting trade is in longer-dated rate contracts if SOTU contains any economic policy surprises.
+The Iran strike timeline cascade continues to develop, with the February 28th deadline just four days away. Watch for volume migration from the near-term contracts into the March 31st market as the month-end deadline approaches. Federal Reserve communication before the March meeting could shift those consensus probabilities, though any movement from 0.7¢ would require genuine policy surprises. The Tottenham market's extraordinary volume despite near-zero probability bears monitoring—when contracts with effectively decided outcomes still generate $9+ million in daily trading, it often signals either arbitrage opportunities or liquidity dynamics worth understanding for serious traders looking to navigate [platform mechanics effectively](/blog/kalshi-vs-polymarket-which-platform-should-you-use).
