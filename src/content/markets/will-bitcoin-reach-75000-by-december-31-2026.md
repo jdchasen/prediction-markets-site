@@ -3,7 +3,7 @@ title: "Will Bitcoin reach $75,000 by December 31, 2026?"
 description: "Current odds for Will Bitcoin reach $75,000 by December 31, 2026? on Polymarket — 73.0% YES. Live market data and analysis."
 marketQuestion: "Will Bitcoin reach $75,000 by December 31, 2026?"
 category: "crypto"
-status: "active"
+status: "settled"
 lastUpdated: 2026-02-24
 expiryDate: 2027-01-01
 tags: ["bitcoin", "crypto", "polymarket"]

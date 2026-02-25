@@ -1,6 +1,6 @@
 ---
 title: "Will Alphabet be the largest company in the world by market cap on December 31?"
-description: "Current odds for Will Alphabet be the largest company in the world by market cap on December 31? on Polymarket — 24.5% YES. Live market data and analysis."
+description: "Will Alphabet be the largest company in the world by market cap on December 31? Odds: 24.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Alphabet be the largest company in the world by market cap on December 31?"
 category: "finance"
 status: "active"
@@ -9,7 +9,7 @@ expiryDate: 2026-12-31
 tags: ["finance", "polymarket"]
 polymarketYes: 24.5
 polymarketNo: 75.5
-polymarketVolume: 99405
+polymarketVolume: 99415
 polymarketUrl: "https://polymarket.com/event/will-alphabet-be-the-largest-company-in-the-world-by-market-cap-on-december-31-872"
 ---
 

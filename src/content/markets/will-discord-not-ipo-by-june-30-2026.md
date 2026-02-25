@@ -1,15 +1,15 @@
 ---
 title: "Will Discord not IPO by June 30, 2026?"
-description: "Current odds for Will Discord not IPO by June 30, 2026? on Polymarket — 16.5% YES. Live market data and analysis."
+description: "Will Discord not IPO by June 30, 2026? Odds: 20.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Discord not IPO by June 30, 2026?"
 category: "finance"
 status: "active"
 lastUpdated: 2026-02-24
 expiryDate: 2026-06-30
 tags: ["finance", "polymarket"]
-polymarketYes: 16.5
-polymarketNo: 83.5
-polymarketVolume: 98607
+polymarketYes: 20.0
+polymarketNo: 80.0
+polymarketVolume: 98641
 polymarketUrl: "https://polymarket.com/event/will-discord-not-ipo-by-june-30-2026"
 ---
 

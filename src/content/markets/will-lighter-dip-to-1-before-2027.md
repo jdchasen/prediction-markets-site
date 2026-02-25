@@ -1,15 +1,15 @@
 ---
 title: "Will Lighter dip to $1 before 2027?"
-description: "Current odds for Will Lighter dip to $1 before 2027? on Polymarket — 72.0% YES. Live market data and analysis."
+description: "Will Lighter dip to $1 before 2027? Odds: 72.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Lighter dip to $1 before 2027?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-02-24
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]
-polymarketYes: 72.0
-polymarketNo: 28.0
-polymarketVolume: 98743
+polymarketYes: 72.5
+polymarketNo: 27.5
+polymarketVolume: 98750
 polymarketUrl: "https://polymarket.com/event/will-lighter-dip-to-1-before-2027-791"
 ---
 

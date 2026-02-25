@@ -1,6 +1,6 @@
 ---
 title: "Will Juan Carlos Pinzón win the 2026 Colombian presidential election?"
-description: "Current odds for Will Juan Carlos Pinzón win the 2026 Colombian presidential election? on Polymarket — 0.5% YES. Live market data and analysis."
+description: "Will Juan Carlos Pinzón win the 2026 Colombian presidential election? Odds: 0.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Juan Carlos Pinzón win the 2026 Colombian presidential election?"
 category: "politics"
 status: "active"
@@ -9,7 +9,7 @@ expiryDate: 2026-06-21
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.5
 polymarketNo: 99.5
-polymarketVolume: 98895
+polymarketVolume: 99387
 polymarketUrl: "https://polymarket.com/event/will-juan-carlos-pinzn-win-the-2026-colombian-presidential-election"
 ---
 

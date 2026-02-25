@@ -1,6 +1,6 @@
 ---
 title: "Will Lorient win the 2025–26 French Ligue 1?"
-description: "Current odds for Will Lorient win the 2025–26 French Ligue 1? on Polymarket — 0.1% YES. Live market data and analysis."
+description: "Will Lorient win the 2025–26 French Ligue 1? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Lorient win the 2025–26 French Ligue 1?"
 category: "sports"
 status: "active"

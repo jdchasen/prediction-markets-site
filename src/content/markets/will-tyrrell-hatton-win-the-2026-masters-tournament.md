@@ -1,6 +1,6 @@
 ---
 title: "Will Tyrrell Hatton win the 2026 Masters tournament?"
-description: "Current odds for Will Tyrrell Hatton win the 2026 Masters tournament? on Polymarket — 1.1% YES. Live market data and analysis."
+description: "Will Tyrrell Hatton win the 2026 Masters tournament? Odds: 1.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Tyrrell Hatton win the 2026 Masters tournament?"
 category: "sports"
 status: "active"
@@ -9,7 +9,7 @@ expiryDate: 2026-04-13
 tags: ["polymarket", "sports"]
 polymarketYes: 1.1
 polymarketNo: 99.0
-polymarketVolume: 987416
+polymarketVolume: 988860
 polymarketUrl: "https://polymarket.com/event/will-tyrrell-hatton-win-the-2026-masters-tournament"
 ---
 

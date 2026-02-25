@@ -1,15 +1,15 @@
 ---
 title: "Backpack FDV above $4B one day after launch?"
-description: "Current odds for Backpack FDV above $4B one day after launch? on Polymarket — 0.9% YES. Live market data and analysis."
+description: "Backpack FDV above $4B one day after launch? Odds: 1.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Backpack FDV above $4B one day after launch?"
 category: "crypto"
 status: "active"
 lastUpdated: 2026-02-24
 expiryDate: 2027-01-01
 tags: ["crypto", "polymarket"]
-polymarketYes: 0.9
-polymarketNo: 99.2
-polymarketVolume: 98342
+polymarketYes: 1.1
+polymarketNo: 98.9
+polymarketVolume: 98452
 polymarketUrl: "https://polymarket.com/event/backpack-fdv-above-4b-one-day-after-launch-847-752-138"
 ---
 

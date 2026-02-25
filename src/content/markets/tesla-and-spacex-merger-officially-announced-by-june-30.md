@@ -3,7 +3,7 @@ title: "Tesla and SpaceX merger officially announced by June 30?"
 description: "Current odds for Tesla and SpaceX merger officially announced by June 30? on Polymarket — 11.5% YES. Live market data and analysis."
 marketQuestion: "Tesla and SpaceX merger officially announced by June 30?"
 category: "finance"
-status: "active"
+status: "settled"
 lastUpdated: 2026-02-24
 expiryDate: 2026-06-30
 tags: ["finance", "polymarket"]
