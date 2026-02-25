@@ -1,0 +1,643 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import CTABanner from '../../components/CTABanner.astro';
+import { getCollection } from 'astro:content';
+
+const KALSHI_REFERRAL = "https://kalshi.com/sign-up/?referral=f2e21ad4-75b7-4ffb-bfcc-f2fb36e07b21&m=true&utm_source=masterpredictionmarkets&utm_medium=compare-page&utm_campaign=signup";
+const POLYMARKET_REFERRAL = "https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=compare-page&utm_campaign=signup";
+
+interface CategoryData {
+  title: string;
+  metaDescription: string;
+  verdict: string;
+  verdictWinner: 'kalshi' | 'polymarket' | 'tie';
+  kalshiStrengths: string[];
+  polymarketStrengths: string[];
+  analysis: string;
+  recommendation: string;
+  faqs: { question: string; answer: string }[];
+}
+
+const CATEGORY_DATA: Record<string, CategoryData> = {
+  crypto: {
+    title: 'Crypto',
+    metaDescription: 'Kalshi vs Polymarket for crypto markets — compare Bitcoin, Ethereum, and token prediction markets. See which platform has better odds, liquidity, and market selection.',
+    verdict: 'Polymarket wins for crypto markets. It was built by and for the crypto community, offers deeper liquidity on token price markets, and lets you trade with USDC — the native currency of crypto traders.',
+    verdictWinner: 'polymarket',
+    kalshiStrengths: [
+      'CFTC regulation provides legal certainty for US traders',
+      'Simple USD deposits via bank transfer or card',
+      'Bitcoin and Ethereum price markets with defined strike prices',
+      'No crypto wallet or blockchain knowledge required',
+    ],
+    polymarketStrengths: [
+      'Deepest liquidity for crypto price markets by far',
+      'Widest selection of token-specific markets (altcoins, DeFi, NFTs)',
+      'Crypto-native USDC trading feels natural for crypto traders',
+      'Faster market creation — new token events listed within hours',
+    ],
+    analysis: "For cryptocurrency prediction markets, Polymarket is the clear leader. The platform's crypto-native architecture means it attracts the exact audience that trades these markets — crypto enthusiasts who already hold USDC and understand blockchain mechanics. This creates a flywheel effect: more crypto traders means deeper order books, tighter spreads, and faster price discovery on token-related events.\n\nKalshi's advantage is regulatory clarity. If you're a US-based trader who wants exposure to crypto prediction markets without touching a blockchain wallet, Kalshi offers Bitcoin and Ethereum markets that you can fund with a bank account. The trade-off is fewer markets and thinner liquidity compared to Polymarket.\n\nThe volume difference is stark — Polymarket's crypto markets regularly see 10-50x more trading volume than equivalent Kalshi markets. For active traders, this liquidity advantage translates to better fills and tighter bid-ask spreads.",
+    recommendation: 'Use Polymarket if you already hold crypto and want the deepest liquidity. Use Kalshi if you prefer USD deposits and US regulation.',
+    faqs: [
+      {
+        question: 'Which platform has more crypto prediction markets?',
+        answer: 'Polymarket has significantly more crypto markets, covering Bitcoin, Ethereum, altcoins, DeFi protocols, and NFT-related events. Kalshi focuses on major crypto price milestones like BTC and ETH price targets.',
+      },
+      {
+        question: 'Can US residents trade crypto prediction markets?',
+        answer: 'Yes. Kalshi is fully available to US residents and offers crypto price markets. Polymarket has limited access for US users but remains accessible for many crypto-related markets.',
+      },
+      {
+        question: 'Which platform has better crypto market liquidity?',
+        answer: 'Polymarket has significantly deeper liquidity for crypto markets, often 10-50x more trading volume than equivalent Kalshi markets. This means tighter spreads and better fills for active traders.',
+      },
+    ],
+  },
+  politics: {
+    title: 'Politics',
+    metaDescription: 'Kalshi vs Polymarket for politics — compare election, policy, and geopolitics prediction markets. Find the best platform for political event trading.',
+    verdict: 'Polymarket leads for major political events like US elections with massive liquidity, but Kalshi offers CFTC-regulated political markets that are safer for US residents concerned about legal risk.',
+    verdictWinner: 'polymarket',
+    kalshiStrengths: [
+      'CFTC-regulated — full legal clarity for US political trading',
+      'Won legal battle to offer election markets in the US',
+      'Simple USD funding via bank transfer',
+      'Growing political market selection post-regulation',
+    ],
+    polymarketStrengths: [
+      'Largest political prediction market by volume globally',
+      'Extremely deep liquidity on major elections and policy events',
+      'Faster listing of emerging geopolitical events',
+      'Wider range of international politics markets',
+    ],
+    analysis: "Politics is the category where both platforms compete most directly. Polymarket gained massive attention during the 2024 US presidential election, attracting hundreds of millions in trading volume and becoming a go-to source for election odds cited by major media outlets.\n\nKalshi fought a landmark legal battle with the CFTC to offer election markets in the US and now provides regulated political prediction markets. For US traders, this regulatory approval removes legal ambiguity — you're trading on a CFTC-designated contract market, not an offshore platform.\n\nThe liquidity gap favors Polymarket for headline political events, but Kalshi is catching up quickly as its user base grows post-election. For niche policy markets (like specific legislation or agency decisions), both platforms have limited but growing coverage.",
+    recommendation: 'Use Polymarket for the deepest liquidity on major political events. Use Kalshi if you value US regulation and legal certainty.',
+    faqs: [
+      {
+        question: 'Is it legal to trade on political prediction markets in the US?',
+        answer: 'Yes. Kalshi is CFTC-regulated and legally offers political event contracts to US residents. Polymarket operates offshore and has more limited US access, though it remains the largest political prediction market by volume globally.',
+      },
+      {
+        question: 'Which platform is better for election betting?',
+        answer: 'Polymarket typically has deeper liquidity for major elections. Kalshi offers the same markets with full US regulatory compliance. For casual traders, either works; for large positions, Polymarket\'s liquidity advantage matters more.',
+      },
+      {
+        question: 'How accurate are political prediction markets?',
+        answer: 'Political prediction markets have historically been more accurate than polls for major elections. They aggregate real-money opinions from thousands of traders, creating incentive-aligned probability estimates.',
+      },
+    ],
+  },
+  economics: {
+    title: 'Economics',
+    metaDescription: 'Kalshi vs Polymarket for economics — compare GDP, inflation, interest rate, and jobs prediction markets. Find the best platform for macro event trading.',
+    verdict: 'Kalshi wins for economics markets. It offers the widest selection of macro-economic event contracts — Fed rate decisions, CPI prints, jobs reports, and GDP — with structured strike prices designed for serious macro traders.',
+    verdictWinner: 'kalshi',
+    kalshiStrengths: [
+      'Widest selection of economics markets (Fed, CPI, GDP, jobs, retail sales)',
+      'Structured contracts with defined strike prices for precise positioning',
+      'CFTC-regulated — institutional-grade compliance',
+      'Economics is Kalshi\'s strongest category by market count',
+    ],
+    polymarketStrengths: [
+      'Occasionally lists high-profile macro events (recession, rate cuts)',
+      'Higher volume when major economic events gain mainstream attention',
+      'Faster to list emerging economic narratives',
+      'No account minimums or complex onboarding',
+    ],
+    analysis: "Economics is where Kalshi has its clearest advantage over Polymarket. Kalshi was built with financial markets DNA — its founders came from quantitative finance, and it shows in the depth and structure of their economics offerings.\n\nKalshi offers granular contracts on virtually every major US economic release: FOMC rate decisions with specific basis-point outcomes, CPI prints at defined thresholds, nonfarm payrolls ranges, GDP growth brackets, and more. These structured contracts are designed for traders who want precise exposure to macro events — the kind of markets that appeal to finance professionals and macro enthusiasts.\n\nPolymarket covers economics more opportunistically. You'll find markets on headline topics like \"Will there be a recession?\" or \"Will the Fed cut rates?\" but without the granular strike-price structure that Kalshi offers. For serious economics trading, Kalshi is the clear choice.",
+    recommendation: 'Use Kalshi for economics markets — it has the deepest selection and most structured contracts for macro events.',
+    faqs: [
+      {
+        question: 'Which platform has more economics prediction markets?',
+        answer: 'Kalshi has significantly more economics markets, including FOMC rate decisions, CPI, GDP, nonfarm payrolls, jobless claims, and retail sales. Polymarket covers major events but lacks the granular strike prices.',
+      },
+      {
+        question: 'Can I trade on Fed interest rate decisions?',
+        answer: 'Yes. Kalshi offers structured contracts on FOMC rate decisions with specific basis-point outcomes. You can bet on the exact rate target or whether the Fed will cut, hold, or hike.',
+      },
+      {
+        question: 'Are economics prediction markets accurate?',
+        answer: 'Economics prediction markets tend to be well-calibrated for high-profile events like FOMC decisions. They aggregate views from informed traders with real money at stake, often matching or beating economist survey forecasts.',
+      },
+    ],
+  },
+  finance: {
+    title: 'Finance',
+    metaDescription: 'Kalshi vs Polymarket for finance — compare stock market, IPO, and market cap prediction markets. Find the best platform for financial event trading.',
+    verdict: 'Kalshi edges out Polymarket for financial markets, offering more structured contracts on stock indices, IPOs, and market-cap milestones with the regulatory backing that finance-oriented traders expect.',
+    verdictWinner: 'kalshi',
+    kalshiStrengths: [
+      'Structured contracts on S&P 500, Nasdaq, and individual stock events',
+      'IPO and M&A event markets with clear resolution criteria',
+      'CFTC regulation appeals to finance professionals',
+      'Natural extension for traders already in traditional markets',
+    ],
+    polymarketStrengths: [
+      'Higher volume on headline financial events (Tesla, Apple market cap)',
+      'Faster listing of emerging corporate events',
+      'Global access without US brokerage requirements',
+      'Broader selection of company-specific event markets',
+    ],
+    analysis: "Finance markets sit at the intersection of traditional trading and prediction markets, and both platforms have meaningful presence here. Kalshi's advantage is structural — its contracts on S&P 500 ranges, company earnings surprises, and IPO timelines are designed with the precision that finance professionals expect.\n\nPolymarket attracts higher volume on viral financial events — \"Will Tesla hit $X?\" or \"Will Company Y IPO?\" — because its crypto-native audience overlaps significantly with retail finance traders. The liquidity on these headline markets can be substantial.\n\nFor traders who view prediction markets as a complement to their existing portfolio, Kalshi's regulated structure and USD deposits make it the natural choice. For traders who want exposure to a wider range of speculative corporate events, Polymarket's faster market creation wins.",
+    recommendation: 'Use Kalshi for structured index and earnings markets. Use Polymarket for company-specific event speculation.',
+    faqs: [
+      {
+        question: 'Can I trade on stock market predictions?',
+        answer: 'Yes. Kalshi offers contracts on S&P 500 and Nasdaq price ranges. Polymarket covers major financial events like IPOs, M&A, and market cap milestones. Neither replaces actual stock trading — they\'re event-based contracts.',
+      },
+      {
+        question: 'Which platform is better for S&P 500 predictions?',
+        answer: 'Kalshi offers the most structured S&P 500 prediction markets with defined strike prices and hourly/daily contracts. These are designed for traders who want precise index exposure through event contracts.',
+      },
+      {
+        question: 'Are prediction markets different from stock trading?',
+        answer: 'Yes. Prediction markets are event contracts that pay out based on whether something happens, not on continuous price movements. A contract costs $0-$1 and pays $1 if the event occurs. They\'re closer to options than stocks.',
+      },
+    ],
+  },
+  sports: {
+    title: 'Sports',
+    metaDescription: 'Kalshi vs Polymarket for sports — compare NFL, NBA, MLB, and major sports prediction markets. Find the best platform for sports event trading.',
+    verdict: 'Neither platform dominates sports — traditional sportsbooks still offer better odds and selection. Polymarket covers major awards and events; Kalshi has limited but growing sports presence.',
+    verdictWinner: 'tie',
+    kalshiStrengths: [
+      'CFTC-regulated sports-adjacent event contracts',
+      'Growing selection of sports milestone markets',
+      'Legal clarity for US sports event trading',
+      'No gambling license concerns — classified as event contracts',
+    ],
+    polymarketStrengths: [
+      'More sports markets available, especially awards and seasonal events',
+      'Higher liquidity on major sports events (MVP, championships)',
+      'Faster listing of emerging sports storylines',
+      'Crypto community crossover drives volume on viral sports markets',
+    ],
+    analysis: "Sports is an emerging category for prediction markets, though both Kalshi and Polymarket are still far behind traditional sportsbooks for game-by-game betting. The prediction market advantage is in longer-duration markets — season awards, championship outcomes, and milestone events that sportsbooks may not cover or may offer poor odds on.\n\nPolymarket has more sports markets and better liquidity, particularly for awards (MVP, Rookie of the Year) and seasonal outcomes. Kalshi's sports presence is smaller but benefits from regulatory clarity — these are event contracts, not sports bets, which matters in states with restrictive gambling laws.\n\nFor head-to-head game betting, neither platform competes with established sportsbooks. For season-long and milestone sports events, Polymarket is the better choice, with Kalshi as a regulated alternative.",
+    recommendation: 'Use Polymarket for sports awards and season outcomes. For game-by-game betting, traditional sportsbooks remain superior.',
+    faqs: [
+      {
+        question: 'Can I bet on sports on Kalshi or Polymarket?',
+        answer: 'Both platforms offer sports-related event contracts (awards, championships, milestones) but not traditional game-by-game betting. For daily sports betting, traditional sportsbooks offer better selection and odds.',
+      },
+      {
+        question: 'Is sports prediction market trading legal in the US?',
+        answer: 'Kalshi\'s sports event contracts are CFTC-regulated and legal in all US states. They\'re classified as event contracts, not sports bets, which avoids state gambling restrictions.',
+      },
+      {
+        question: 'Which platform has better odds for sports?',
+        answer: 'Polymarket typically has more sports markets and better liquidity. However, for the best odds on specific games, traditional sportsbooks still offer tighter spreads and deeper markets.',
+      },
+    ],
+  },
+  tech: {
+    title: 'Tech',
+    metaDescription: 'Kalshi vs Polymarket for tech — compare AI, startup, and technology prediction markets. Find the best platform for tech event trading.',
+    verdict: 'Polymarket wins for tech markets. Its crypto-native audience overlaps heavily with tech enthusiasts, creating deeper liquidity on AI milestones, startup events, and technology predictions.',
+    verdictWinner: 'polymarket',
+    kalshiStrengths: [
+      'Regulated contracts on tech events with clear resolution criteria',
+      'Clean, structured markets for tech company milestones',
+      'USD deposits appeal to non-crypto tech enthusiasts',
+      'Growing AI and technology event coverage',
+    ],
+    polymarketStrengths: [
+      'Wider selection of tech and AI markets',
+      'Higher liquidity from crypto/tech crossover audience',
+      'Fast listing of emerging tech events and product launches',
+      'Community-driven markets on niche tech topics',
+    ],
+    analysis: "Technology prediction markets benefit from a natural audience overlap — the kind of people who follow AI breakthroughs, startup IPOs, and tech product launches are often the same people comfortable with crypto-based trading platforms. This gives Polymarket a built-in liquidity advantage for tech markets.\n\nPolymarket's tech coverage is broader and faster-moving. When a major AI announcement drops or a tech company makes headlines, Polymarket often has a market listed within hours. Kalshi's tech markets are fewer but more carefully structured, with clear resolution criteria and regulatory backing.\n\nFor traders interested in AI milestone markets (GPT benchmarks, AI company valuations, product launch timing), Polymarket is the primary venue. Kalshi is best suited for traders who want regulated exposure to major tech events without needing a crypto wallet.",
+    recommendation: 'Use Polymarket for the widest tech market selection and best liquidity. Use Kalshi for regulated tech event contracts.',
+    faqs: [
+      {
+        question: 'Can I trade on AI predictions?',
+        answer: 'Yes. Both platforms offer AI-related markets, such as AI benchmark achievements, company valuations, and product launch timing. Polymarket has broader AI market coverage; Kalshi has more structured contracts.',
+      },
+      {
+        question: 'Which platform covers more tech events?',
+        answer: 'Polymarket lists more tech events and does so faster. Its crypto-native audience drives strong volume on tech markets. Kalshi has fewer tech markets but offers US regulatory compliance.',
+      },
+      {
+        question: 'Are tech prediction markets accurate?',
+        answer: 'Tech prediction markets are reasonably accurate for well-defined events but can be noisy for speculative milestones. Markets with clear resolution criteria and high volume tend to be the most reliable.',
+      },
+    ],
+  },
+  entertainment: {
+    title: 'Entertainment',
+    metaDescription: 'Kalshi vs Polymarket for entertainment — compare Oscars, Emmys, and pop culture prediction markets. Find the best platform for entertainment event trading.',
+    verdict: 'Polymarket wins for entertainment. It covers more awards shows, celebrity events, and pop culture moments with strong liquidity driven by mainstream audience crossover.',
+    verdictWinner: 'polymarket',
+    kalshiStrengths: [
+      'CFTC-regulated entertainment event contracts',
+      'Structured awards show markets (Oscars, Grammys)',
+      'Legal certainty for US entertainment event trading',
+      'Growing entertainment market presence',
+    ],
+    polymarketStrengths: [
+      'Widest selection of entertainment and pop culture markets',
+      'Strong liquidity on major awards shows (Oscars, Emmys, Grammys)',
+      'Fast listing of viral pop culture events',
+      'Celebrity and media event markets not available elsewhere',
+    ],
+    analysis: "Entertainment prediction markets thrive on audience engagement, and Polymarket's broad user base gives it a natural edge. Awards show prediction markets (Oscars, Emmys, Grammys) are among the most popular entertainment markets, and Polymarket consistently offers the deepest liquidity in this category.\n\nKalshi covers major entertainment events but with fewer markets and lower volume. Its regulated structure means slower market creation — by the time a viral pop culture moment is listed on Kalshi, Polymarket may have already seen significant trading activity.\n\nFor awards season specifically, both platforms offer similar market structures (will X win Best Picture, etc.), but Polymarket's volume advantage means better fills and tighter spreads. Kalshi's advantage is limited to traders who specifically need US-regulated entertainment contracts.",
+    recommendation: 'Use Polymarket for entertainment markets — better selection, higher liquidity, and faster listings.',
+    faqs: [
+      {
+        question: 'Can I bet on the Oscars on prediction markets?',
+        answer: 'Yes. Both Kalshi and Polymarket offer Oscars prediction markets for major categories like Best Picture, Best Actor, and Best Director. Polymarket typically has deeper liquidity and more category-specific markets.',
+      },
+      {
+        question: 'Which platform has more entertainment markets?',
+        answer: 'Polymarket has significantly more entertainment markets, covering awards shows, celebrity events, and pop culture moments. Kalshi focuses on major awards shows with structured, regulated contracts.',
+      },
+      {
+        question: 'Are entertainment prediction markets accurate?',
+        answer: 'Entertainment prediction markets are often quite accurate for awards shows, especially as ceremonies approach and insider information gets priced in. They tend to outperform critic predictions for events like the Oscars.',
+      },
+    ],
+  },
+  science: {
+    title: 'Science',
+    metaDescription: 'Kalshi vs Polymarket for science — compare weather, climate, and scientific milestone prediction markets. Find the best platform for science-related event trading.',
+    verdict: 'Kalshi wins for science markets, particularly weather. Kalshi offers structured weather contracts (temperature, precipitation, snowfall) that no other prediction market matches in depth or granularity.',
+    verdictWinner: 'kalshi',
+    kalshiStrengths: [
+      'Market leader in weather prediction contracts by far',
+      'Granular weather markets: temperature ranges, snowfall, precipitation by city',
+      'CFTC-regulated — weather derivatives have institutional precedent',
+      'Active daily and weekly weather markets with consistent volume',
+    ],
+    polymarketStrengths: [
+      'Covers major scientific milestones and discoveries',
+      'Climate event markets (hurricanes, record temperatures)',
+      'Broader science categories (space, health, technology crossovers)',
+      'Higher volume on viral science events',
+    ],
+    analysis: "Science is the category where Kalshi has its most unique offering: structured weather prediction markets. Kalshi offers daily and weekly weather contracts for major US cities — temperature above/below specific thresholds, snowfall amounts, precipitation chances, and more. No other prediction market comes close to this depth of weather coverage.\n\nThese weather markets have genuine utility beyond speculation. They function similarly to weather derivatives used by energy companies, agriculture businesses, and event planners. Kalshi has made these accessible to retail traders at low cost.\n\nPolymarket's science coverage is more event-driven — major scientific discoveries, space milestones, and climate events. When a science story goes viral (like a major hurricane or space launch), Polymarket can attract significant volume. But for consistent, daily science-related trading, Kalshi's weather markets are unmatched.",
+    recommendation: 'Use Kalshi for weather markets — it has no real competition in this category. Use Polymarket for major scientific events and discoveries.',
+    faqs: [
+      {
+        question: 'Can I trade on weather predictions?',
+        answer: 'Yes. Kalshi offers the most comprehensive weather prediction markets available to retail traders — daily temperature, snowfall, and precipitation contracts for major US cities. Polymarket occasionally covers major weather events.',
+      },
+      {
+        question: 'Which platform is better for weather trading?',
+        answer: 'Kalshi is the clear leader for weather markets. It offers structured daily and weekly weather contracts with defined strike prices for cities across the US. No other prediction market matches this depth.',
+      },
+      {
+        question: 'Are weather prediction markets useful?',
+        answer: 'Yes. Weather prediction markets aggregate information from many participants and can complement official weather forecasts. They also serve as accessible versions of institutional weather derivatives used by energy and agriculture industries.',
+      },
+    ],
+  },
+};
+
+const VALID_CATEGORIES = ['crypto', 'politics', 'economics', 'finance', 'sports', 'tech', 'entertainment', 'science'];
+
+export function getStaticPaths() {
+  return ['crypto', 'politics', 'economics', 'finance', 'sports', 'tech', 'entertainment', 'science'].map((category) => ({
+    params: { category },
+  }));
+}
+
+const { category } = Astro.params;
+const data = CATEGORY_DATA[category];
+
+if (!data) {
+  return Astro.redirect('/compare');
+}
+
+// Fetch active markets in this category
+const allMarkets = await getCollection('markets');
+const categoryMarkets = allMarkets
+  .filter((m) => m.data.category === category && m.data.status === 'active')
+  .sort((a, b) => {
+    const aVol = (a.data.kalshiVolume || 0) + (a.data.polymarketVolume || 0);
+    const bVol = (b.data.kalshiVolume || 0) + (b.data.polymarketVolume || 0);
+    return bVol - aVol;
+  })
+  .slice(0, 6);
+
+function formatVolume(vol: number | undefined, platform: string): string {
+  if (!vol) return '';
+  if (platform === 'polymarket') {
+    if (vol >= 1_000_000) return `$${(vol / 1_000_000).toFixed(1)}M`;
+    if (vol >= 1_000) return `$${(vol / 1_000).toFixed(0)}K`;
+    return `$${vol.toLocaleString()}`;
+  }
+  if (vol >= 1_000_000) return `${(vol / 1_000_000).toFixed(1)}M`;
+  if (vol >= 1_000) return `${(vol / 1_000).toFixed(0)}K`;
+  return vol.toLocaleString();
+}
+
+const categoryColors: Record<string, string> = {
+  politics: 'bg-red-100 text-red-800 dark:bg-red-900/50 dark:text-red-300',
+  economics: 'bg-yellow-100 text-yellow-800 dark:bg-yellow-900/50 dark:text-yellow-300',
+  crypto: 'bg-purple-100 text-purple-800 dark:bg-purple-900/50 dark:text-purple-300',
+  finance: 'bg-green-100 text-green-800 dark:bg-green-900/50 dark:text-green-300',
+  sports: 'bg-orange-100 text-orange-800 dark:bg-orange-900/50 dark:text-orange-300',
+  tech: 'bg-blue-100 text-blue-800 dark:bg-blue-900/50 dark:text-blue-300',
+  entertainment: 'bg-pink-100 text-pink-800 dark:bg-pink-900/50 dark:text-pink-300',
+  science: 'bg-teal-100 text-teal-800 dark:bg-teal-900/50 dark:text-teal-300',
+};
+
+const catColor = categoryColors[category] || 'bg-gray-100 text-gray-800';
+const catLabel = data.title;
+
+const verdictColor = data.verdictWinner === 'kalshi'
+  ? 'border-green-400 bg-green-50 dark:border-green-600 dark:bg-green-900/20'
+  : data.verdictWinner === 'polymarket'
+    ? 'border-blue-400 bg-blue-50 dark:border-blue-600 dark:bg-blue-900/20'
+    : 'border-gray-400 bg-gray-50 dark:border-gray-600 dark:bg-gray-900/20';
+
+const verdictLabel = data.verdictWinner === 'kalshi'
+  ? 'Kalshi'
+  : data.verdictWinner === 'polymarket'
+    ? 'Polymarket'
+    : 'Tie';
+
+// Build FAQ schema
+const faqSchema = {
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": data.faqs.map((faq) => ({
+    "@type": "Question",
+    "name": faq.question,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": faq.answer,
+    },
+  })),
+};
+
+const breadcrumbSchema = {
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://masterpredictionmarkets.com" },
+    { "@type": "ListItem", "position": 2, "name": "Compare", "item": "https://masterpredictionmarkets.com/compare" },
+    { "@type": "ListItem", "position": 3, "name": `${catLabel} Comparison` },
+  ],
+};
+
+const webPageSchema = {
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "name": `Kalshi vs Polymarket for ${catLabel}`,
+  "description": data.metaDescription,
+};
+
+// Other categories for "More Comparisons" section
+const otherCategories = VALID_CATEGORIES.filter((c) => c !== category).slice(0, 4);
+---
+
+<BaseLayout
+  title={`Kalshi vs Polymarket for ${catLabel}: Which Platform Is Better?`}
+  description={data.metaDescription}
+>
+  <Fragment slot="head">
+    <script type="application/ld+json" set:html={JSON.stringify(faqSchema)} />
+    <script type="application/ld+json" set:html={JSON.stringify(breadcrumbSchema)} />
+    <script type="application/ld+json" set:html={JSON.stringify(webPageSchema)} />
+  </Fragment>
+
+  <!-- Breadcrumb -->
+  <nav class="mx-auto max-w-3xl px-4 pt-6" aria-label="Breadcrumb">
+    <ol class="flex items-center gap-2 text-sm text-gray-500 dark:text-gray-400">
+      <li><a href="/" class="hover:text-brand-600 dark:hover:text-brand-400">Home</a></li>
+      <li><span class="mx-1">/</span></li>
+      <li><a href="/compare" class="hover:text-brand-600 dark:hover:text-brand-400">Compare</a></li>
+      <li><span class="mx-1">/</span></li>
+      <li class="text-gray-900 dark:text-white font-medium">{catLabel}</li>
+    </ol>
+  </nav>
+
+  <article class="mx-auto max-w-3xl px-4 py-12">
+    <header class="mb-8">
+      <span class:list={['inline-block rounded-full px-2.5 py-0.5 text-xs font-medium capitalize mb-4', catColor]}>
+        {catLabel}
+      </span>
+      <h1 class="text-3xl font-bold leading-tight text-gray-900 dark:text-white md:text-4xl">
+        Kalshi vs Polymarket for {catLabel}: Which Platform Is Better?
+      </h1>
+    </header>
+
+    <!-- Quick Verdict Box -->
+    <div class:list={['rounded-lg border-2 p-6 mb-10', verdictColor]}>
+      <div class="flex items-center gap-2 mb-3">
+        <span class="text-sm font-semibold uppercase tracking-wider text-gray-500 dark:text-gray-400">Quick Verdict</span>
+        <span class:list={[
+          'rounded-full px-2.5 py-0.5 text-xs font-bold',
+          data.verdictWinner === 'kalshi' ? 'bg-green-200 text-green-800 dark:bg-green-800 dark:text-green-200' :
+          data.verdictWinner === 'polymarket' ? 'bg-blue-200 text-blue-800 dark:bg-blue-800 dark:text-blue-200' :
+          'bg-gray-200 text-gray-800 dark:bg-gray-700 dark:text-gray-200',
+        ]}>
+          {verdictLabel} Wins
+        </span>
+      </div>
+      <p class="text-gray-800 dark:text-gray-200">{data.verdict}</p>
+    </div>
+
+    <!-- Feature Comparison Table -->
+    <section class="mb-10">
+      <h2 class="text-2xl font-bold text-gray-900 dark:text-white mb-4">{catLabel} Platform Comparison</h2>
+      <div class="overflow-x-auto rounded-lg border border-gray-200 dark:border-gray-700">
+        <table class="w-full text-sm">
+          <thead>
+            <tr class="bg-gray-50 dark:bg-gray-800">
+              <th class="py-3 px-4 text-left font-semibold text-gray-900 dark:text-white">Feature</th>
+              <th class="py-3 px-4 text-left font-semibold text-green-700 dark:text-green-400">Kalshi</th>
+              <th class="py-3 px-4 text-left font-semibold text-blue-700 dark:text-blue-400">Polymarket</th>
+            </tr>
+          </thead>
+          <tbody class="divide-y divide-gray-200 dark:divide-gray-700">
+            <tr>
+              <td class="py-3 px-4 font-medium text-gray-600 dark:text-gray-400">Regulation</td>
+              <td class="py-3 px-4 text-gray-900 dark:text-gray-100">CFTC-regulated</td>
+              <td class="py-3 px-4 text-gray-900 dark:text-gray-100">Unregulated</td>
+            </tr>
+            <tr>
+              <td class="py-3 px-4 font-medium text-gray-600 dark:text-gray-400">Deposit</td>
+              <td class="py-3 px-4 text-gray-900 dark:text-gray-100">USD (bank, card)</td>
+              <td class="py-3 px-4 text-gray-900 dark:text-gray-100">USDC (crypto)</td>
+            </tr>
+            <tr>
+              <td class="py-3 px-4 font-medium text-gray-600 dark:text-gray-400">Trading Fees</td>
+              <td class="py-3 px-4 text-gray-900 dark:text-gray-100">No fees</td>
+              <td class="py-3 px-4 text-gray-900 dark:text-gray-100">No fees</td>
+            </tr>
+            <tr>
+              <td class="py-3 px-4 font-medium text-gray-600 dark:text-gray-400">US Access</td>
+              <td class="py-3 px-4 text-gray-900 dark:text-gray-100">Full access</td>
+              <td class="py-3 px-4 text-gray-900 dark:text-gray-100">Limited</td>
+            </tr>
+            <tr>
+              <td class="py-3 px-4 font-medium text-gray-600 dark:text-gray-400">{catLabel} Markets</td>
+              <td class="py-3 px-4 text-gray-900 dark:text-gray-100">{data.verdictWinner === 'kalshi' ? 'Extensive' : 'Moderate'}</td>
+              <td class="py-3 px-4 text-gray-900 dark:text-gray-100">{data.verdictWinner === 'polymarket' ? 'Extensive' : 'Moderate'}</td>
+            </tr>
+            <tr>
+              <td class="py-3 px-4 font-medium text-gray-600 dark:text-gray-400">{catLabel} Liquidity</td>
+              <td class="py-3 px-4 text-gray-900 dark:text-gray-100">{data.verdictWinner === 'kalshi' ? 'Strong' : 'Moderate'}</td>
+              <td class="py-3 px-4 text-gray-900 dark:text-gray-100">{data.verdictWinner === 'polymarket' ? 'Strong' : 'Moderate'}</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </section>
+
+    <!-- Strengths Comparison -->
+    <section class="mb-10">
+      <h2 class="text-2xl font-bold text-gray-900 dark:text-white mb-6">Platform Strengths for {catLabel}</h2>
+      <div class="grid grid-cols-1 gap-6 md:grid-cols-2">
+        <div class="rounded-lg border-2 border-green-300 dark:border-green-700 p-5">
+          <h3 class="mb-3 text-lg font-bold text-green-700 dark:text-green-400">Kalshi Strengths</h3>
+          <ul class="space-y-2">
+            {data.kalshiStrengths.map((s) => (
+              <li class="flex items-start gap-2 text-sm text-gray-700 dark:text-gray-300">
+                <span class="mt-1 text-green-500">&#x2713;</span>
+                <span>{s}</span>
+              </li>
+            ))}
+          </ul>
+        </div>
+        <div class="rounded-lg border-2 border-blue-300 dark:border-blue-700 p-5">
+          <h3 class="mb-3 text-lg font-bold text-blue-700 dark:text-blue-400">Polymarket Strengths</h3>
+          <ul class="space-y-2">
+            {data.polymarketStrengths.map((s) => (
+              <li class="flex items-start gap-2 text-sm text-gray-700 dark:text-gray-300">
+                <span class="mt-1 text-blue-500">&#x2713;</span>
+                <span>{s}</span>
+              </li>
+            ))}
+          </ul>
+        </div>
+      </div>
+    </section>
+
+    <!-- Category Analysis -->
+    <section class="mb-10">
+      <h2 class="text-2xl font-bold text-gray-900 dark:text-white mb-4">{catLabel} Market Analysis</h2>
+      <div class="prose prose-gray dark:prose-invert max-w-none">
+        {data.analysis.split('\n\n').map((paragraph) => (
+          <p>{paragraph}</p>
+        ))}
+      </div>
+    </section>
+
+    <!-- Our Recommendation -->
+    <section class="mb-10">
+      <div class="rounded-lg bg-brand-50 dark:bg-brand-900/20 border border-brand-200 dark:border-brand-800 p-6">
+        <h2 class="text-xl font-bold text-gray-900 dark:text-white mb-2">Our Recommendation</h2>
+        <p class="text-gray-700 dark:text-gray-300">{data.recommendation}</p>
+      </div>
+    </section>
+
+    <!-- Active Markets in Category -->
+    {categoryMarkets.length > 0 && (
+      <section class="mb-10">
+        <h2 class="text-2xl font-bold text-gray-900 dark:text-white mb-4">Active {catLabel} Markets</h2>
+        <div class="grid grid-cols-1 gap-3 sm:grid-cols-2">
+          {categoryMarkets.map((market) => (
+            <a
+              href={`/odds/${market.id}`}
+              class="group rounded-lg border border-gray-200 dark:border-gray-700 bg-white dark:bg-gray-800 p-4 transition-all hover:shadow-md hover:-translate-y-0.5"
+            >
+              <h3 class="mb-2 text-sm font-semibold text-gray-900 dark:text-gray-100 group-hover:text-brand-600 dark:group-hover:text-brand-400 line-clamp-2">
+                {market.data.marketQuestion}
+              </h3>
+              <div class="space-y-1">
+                {market.data.kalshiYes !== undefined && (
+                  <div class="flex items-center justify-between text-xs">
+                    <span class="text-gray-500 dark:text-gray-400">Kalshi</span>
+                    <span class="font-medium text-green-700 dark:text-green-400">{market.data.kalshiYes}% Yes</span>
+                  </div>
+                )}
+                {market.data.polymarketYes !== undefined && (
+                  <div class="flex items-center justify-between text-xs">
+                    <span class="text-gray-500 dark:text-gray-400">Polymarket</span>
+                    <span class="font-medium text-blue-700 dark:text-blue-400">{market.data.polymarketYes}% Yes</span>
+                  </div>
+                )}
+              </div>
+            </a>
+          ))}
+        </div>
+        <p class="mt-3 text-center">
+          <a href={`/odds/${category}`} class="text-sm font-medium text-brand-600 dark:text-brand-400 hover:underline">
+            View all {catLabel.toLowerCase()} markets &rarr;
+          </a>
+        </p>
+      </section>
+    )}
+
+    <!-- Dual CTAs -->
+    <section class="mb-10 grid grid-cols-1 gap-4 sm:grid-cols-2">
+      <a
+        href={KALSHI_REFERRAL}
+        target="_blank"
+        rel="noopener sponsored"
+        class="flex flex-col items-center rounded-lg border-2 border-green-300 dark:border-green-700 bg-green-50 dark:bg-green-900/20 p-6 text-center transition-all hover:shadow-md hover:-translate-y-0.5"
+      >
+        <span class="mb-2 text-lg font-bold text-green-700 dark:text-green-400">Try Kalshi</span>
+        <span class="mb-3 text-sm text-gray-600 dark:text-gray-400">CFTC-regulated, USD deposits</span>
+        <span class="rounded-md bg-green-600 px-5 py-2.5 text-sm font-medium text-white hover:bg-green-700 transition-colors">
+          Sign Up Free
+        </span>
+      </a>
+      <a
+        href={POLYMARKET_REFERRAL}
+        target="_blank"
+        rel="noopener sponsored"
+        class="flex flex-col items-center rounded-lg border-2 border-blue-300 dark:border-blue-700 bg-blue-50 dark:bg-blue-900/20 p-6 text-center transition-all hover:shadow-md hover:-translate-y-0.5"
+      >
+        <span class="mb-2 text-lg font-bold text-blue-700 dark:text-blue-400">Try Polymarket</span>
+        <span class="mb-3 text-sm text-gray-600 dark:text-gray-400">Deep liquidity, USDC trading</span>
+        <span class="rounded-md bg-blue-600 px-5 py-2.5 text-sm font-medium text-white hover:bg-blue-700 transition-colors">
+          Start Trading
+        </span>
+      </a>
+    </section>
+
+    <!-- FAQ Section -->
+    <section class="mb-10">
+      <h2 class="text-2xl font-bold text-gray-900 dark:text-white mb-6">Frequently Asked Questions</h2>
+      <div class="space-y-4">
+        {data.faqs.map((faq) => (
+          <details class="group rounded-lg border border-gray-200 dark:border-gray-700">
+            <summary class="flex cursor-pointer items-center justify-between p-4 text-gray-900 dark:text-white font-medium">
+              {faq.question}
+              <svg class="h-5 w-5 text-gray-500 transition-transform group-open:rotate-180" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+              </svg>
+            </summary>
+            <div class="px-4 pb-4 text-sm text-gray-600 dark:text-gray-400">
+              {faq.answer}
+            </div>
+          </details>
+        ))}
+      </div>
+    </section>
+
+    <!-- More Comparisons -->
+    <section>
+      <h2 class="text-2xl font-bold text-gray-900 dark:text-white mb-4">More Platform Comparisons</h2>
+      <div class="grid grid-cols-2 gap-3 sm:grid-cols-4">
+        {otherCategories.map((cat) => (
+          <a
+            href={`/compare/${cat}`}
+            class="rounded-lg border border-gray-200 dark:border-gray-700 p-3 text-center text-sm font-medium text-gray-700 dark:text-gray-300 transition-all hover:border-brand-400 hover:text-brand-600 dark:hover:text-brand-400 hover:shadow-sm"
+          >
+            {CATEGORY_DATA[cat].title}
+          </a>
+        ))}
+      </div>
+      <p class="mt-3 text-center">
+        <a href="/compare" class="text-sm font-medium text-brand-600 dark:text-brand-400 hover:underline">
+          View all comparisons &rarr;
+        </a>
+      </p>
+    </section>
+  </article>
+</BaseLayout>

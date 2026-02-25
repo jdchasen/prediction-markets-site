@@ -32,6 +32,12 @@ except ImportError:
     print("Error: requests package not installed. Run: pip install requests")
     sys.exit(1)
 
+try:
+    import anthropic
+    HAS_ANTHROPIC = True
+except ImportError:
+    HAS_ANTHROPIC = False
+
 
 CONTENT_DIR = Path(__file__).parent.parent / "src" / "content" / "markets"
 
@@ -652,12 +658,18 @@ def slugify(text: str) -> str:
 # ---------------------------------------------------------------------------
 
 def _find_related_articles(market: dict) -> list[tuple[str, str]]:
-    """Find 1-2 related blog articles based on keyword matching."""
+    """Find 1-2 related blog articles based on tag + title keyword matching."""
     title_lower = market["title"].lower()
     cat_lower = (market.get("category") or "").lower()
+    norm_cat = _categorize(market.get("category", ""), market["title"])
     scored = []
-    for path, label, keywords in _scan_blog_articles():
-        score = sum(1 for kw in keywords if kw in title_lower or kw in cat_lower)
+    for path, label, tags in _scan_blog_articles():
+        score = 0
+        # Tag overlap with market title/category
+        score += sum(1 for t in tags if t.lower() in title_lower or t.lower() == cat_lower or t.lower() == norm_cat)
+        # Blog title words matching market title (skip short/common words)
+        blog_words = [w for w in re.split(r'\W+', label.lower()) if len(w) > 3]
+        score += sum(0.5 for w in blog_words if w in title_lower)
         if score > 0:
             scored.append((score, path, label))
     scored.sort(reverse=True)
@@ -698,7 +710,105 @@ def _format_volume(volume: float, platform: str) -> str:
         return f"{volume:,.0f} contracts"
 
 
-def generate_body(market: dict) -> str:
+def _generate_analysis(market: dict) -> str:
+    """Generate 2-3 paragraph market analysis using Claude Haiku.
+
+    Returns empty string if the Anthropic SDK is not installed or API key missing.
+    """
+    if not HAS_ANTHROPIC:
+        return ""
+
+    api_key = os.environ.get("ANTHROPIC_API_KEY", "")
+    if not api_key:
+        return ""
+
+    title = market["title"]
+    category = _categorize(market.get("category", ""), title)
+    km = market.get("kalshi")
+    pm = market.get("polymarket")
+
+    if km and pm:
+        odds_text = f"Kalshi: {km['yes_price']}% YES, Polymarket: {pm['yes_price']}% YES"
+    elif km:
+        odds_text = f"Kalshi: {km['yes_price']}% YES"
+    else:
+        odds_text = f"Polymarket: {pm['yes_price']}% YES"
+
+    expiry = market.get("expiry", "")
+    expiry_text = f" Expiry: {expiry}." if expiry else ""
+
+    prompt = (
+        f"Write 2-3 concise paragraphs analyzing this prediction market for a website audience.\n"
+        f"Market: {title}\n"
+        f"Category: {category}\n"
+        f"Current odds: {odds_text}\n"
+        f"{expiry_text}\n\n"
+        f"Focus on: key factors driving the odds, what could change the probability, "
+        f"and what traders should watch for. Be specific and analytical, not generic. "
+        f"Do NOT use markdown headers. Do NOT repeat the market title or odds numbers. "
+        f"Write in a direct, expert tone. No filler sentences."
+    )
+
+    try:
+        client = anthropic.Anthropic(api_key=api_key)
+        message = client.messages.create(
+            model="claude-haiku-4-5-20251001",
+            max_tokens=500,
+            messages=[{"role": "user", "content": prompt}],
+        )
+        return message.content[0].text.strip()
+    except Exception as e:
+        print(f"  Claude API error for '{title[:50]}': {e}")
+        return ""
+
+
+def _find_related_markets(market: dict, all_markets: list[dict]) -> list[dict]:
+    """Find 2-3 same-category markets by volume (excluding self)."""
+    category = _categorize(market.get("category", ""), market["title"])
+    slug = slugify(market["title"])
+
+    same_cat = [
+        m for m in all_markets
+        if _categorize(m.get("category", ""), m["title"]) == category
+        and slugify(m["title"]) != slug
+    ]
+    same_cat.sort(key=lambda m: m.get("total_volume", 0), reverse=True)
+    return same_cat[:3]
+
+
+def _generate_key_dates(market: dict) -> str:
+    """Generate key dates section based on expiry and category."""
+    expiry_str = market.get("expiry", "")
+    if not expiry_str:
+        return ""
+
+    try:
+        expiry = datetime.fromisoformat(expiry_str.replace("Z", "+00:00"))
+    except ValueError:
+        return ""
+
+    expiry_date = expiry.strftime("%B %d, %Y")
+    days_until = (expiry.date() - date.today()).days
+    if days_until < 0:
+        return ""
+
+    lines = []
+    lines.append("## Key Dates")
+    lines.append("")
+    lines.append(f"- **Market Expiry**: {expiry_date} ({days_until} days from now)")
+
+    if days_until > 30:
+        midpoint = date.today() + timedelta(days=days_until // 2)
+        lines.append(f"- **Midpoint Check**: {midpoint.strftime('%B %d, %Y')} — reassess position")
+
+    if days_until <= 7:
+        lines.append("- **Final Trading**: Market approaches settlement — expect reduced liquidity")
+
+    lines.append("")
+    return "\n".join(lines)
+
+
+def generate_body(market: dict, analysis: str = "", related_markets: list[dict] | None = None) -> str:
     """Generate markdown body for a market odds page."""
     title = market["title"]
     question = market.get("question", title)
@@ -745,6 +855,18 @@ def generate_body(market: dict) -> str:
             f'| [Trade on Polymarket]({POLYMARKET_REFERRAL}) |'
         )
     lines.append("")
+
+    # Market Analysis (Claude-generated)
+    if analysis:
+        lines.append("## Market Analysis")
+        lines.append("")
+        lines.append(analysis)
+        lines.append("")
+
+    # Key Dates
+    key_dates = _generate_key_dates(market)
+    if key_dates:
+        lines.append(key_dates)
 
     # Analysis section
     lines.append("## What the Odds Mean")
@@ -796,6 +918,23 @@ def generate_body(market: dict) -> str:
                 f"**{diff:.1f} percentage point** difference in YES pricing. "
                 f"This consensus suggests the market has efficiently priced this event."
             )
+        lines.append("")
+
+    # Related Markets
+    if related_markets:
+        lines.append("## Related Markets")
+        lines.append("")
+        for rm in related_markets:
+            rm_slug = slugify(rm["title"])
+            rm_km = rm.get("kalshi")
+            rm_pm = rm.get("polymarket")
+            if rm_km and rm_pm:
+                rm_yes = (rm_km["yes_price"] + rm_pm["yes_price"]) / 2
+            elif rm_km:
+                rm_yes = rm_km["yes_price"]
+            else:
+                rm_yes = rm_pm["yes_price"]
+            lines.append(f"- [{rm['title']}](/odds/{rm_slug}) — {rm_yes:.0f}% YES")
         lines.append("")
 
     # How to trade section
@@ -984,7 +1123,7 @@ def _yaml_escape(s: str) -> str:
     return s.replace("\\", "\\\\").replace('"', '\\"')
 
 
-def generate_page(market: dict) -> tuple[str, str]:
+def generate_page(market: dict, analysis: str = "", related_markets: list[dict] | None = None) -> tuple[str, str]:
     """Generate a markdown page for a market. Returns (filename, content)."""
     title = market["title"]
     slug = slugify(title)
@@ -1051,7 +1190,7 @@ def generate_page(market: dict) -> tuple[str, str]:
     fm_lines.append("---")
 
     frontmatter = "\n".join(fm_lines)
-    body = generate_body(market)
+    body = generate_body(market, analysis=analysis, related_markets=related_markets)
 
     content = f"{frontmatter}\n\n{body}\n"
     filename = f"{slug}.md"
@@ -1103,6 +1242,120 @@ def update_settled_markets(kalshi_markets: list[dict], poly_markets: list[dict])
 # Main
 # ---------------------------------------------------------------------------
 
+def _read_existing_odds(filepath: Path) -> tuple[float | None, float | None]:
+    """Read existing .md file frontmatter and return (polymarketYes, kalshiYes)."""
+    if not filepath.exists():
+        return None, None
+    text = filepath.read_text(errors="replace")
+    fm_match = re.match(r"^---\s*\n(.*?)\n---", text, re.DOTALL)
+    if not fm_match:
+        return None, None
+    fm = fm_match.group(1)
+    poly_m = re.search(r"^polymarketYes:\s*([\d.]+)", fm, re.MULTILINE)
+    kalshi_m = re.search(r"^kalshiYes:\s*([\d.]+)", fm, re.MULTILINE)
+    poly_yes = float(poly_m.group(1)) if poly_m else None
+    kalshi_yes = float(kalshi_m.group(1)) if kalshi_m else None
+    return poly_yes, kalshi_yes
+
+
+def _read_existing_body(filepath: Path) -> str:
+    """Read existing .md file and return just the body (after frontmatter)."""
+    if not filepath.exists():
+        return ""
+    text = filepath.read_text(errors="replace")
+    fm_match = re.match(r"^---\s*\n.*?\n---\s*\n", text, re.DOTALL)
+    if not fm_match:
+        return ""
+    return text[fm_match.end():]
+
+
+def _odds_changed_significantly(market: dict, filepath: Path, threshold: float = 5.0) -> bool:
+    """Check if odds changed more than threshold percentage points."""
+    old_poly, old_kalshi = _read_existing_odds(filepath)
+    km = market.get("kalshi")
+    pm = market.get("polymarket")
+
+    if pm and old_poly is not None:
+        if abs(pm["yes_price"] - old_poly) >= threshold:
+            return True
+    if km and old_kalshi is not None:
+        if abs(km["yes_price"] - old_kalshi) >= threshold:
+            return True
+
+    # If file existed but had no matching odds fields, treat as changed
+    if old_poly is None and old_kalshi is None:
+        return True
+
+    return False
+
+
+def _update_frontmatter_only(market: dict, filepath: Path):
+    """Update only the frontmatter of an existing page, preserving the body."""
+    body = _read_existing_body(filepath)
+    if not body:
+        return  # fallback: will regenerate
+
+    # Generate new frontmatter
+    title = market["title"]
+    slug = slugify(title)
+    question = market.get("question", title)
+    category = _categorize(market.get("category", ""), title)
+    tags = _generate_tags(market)
+    today = date.today().isoformat()
+    km = market.get("kalshi")
+    pm = market.get("polymarket")
+
+    if km and pm:
+        avg_yes = (km["yes_price"] + pm["yes_price"]) / 2
+        diff = abs(km["yes_price"] - pm["yes_price"])
+        if diff >= 5:
+            desc = (
+                f"{question} Odds: {km['yes_price']}% on Kalshi vs {pm['yes_price']}% on Polymarket. "
+                f"See the {diff:.0f}-point spread and compare platforms."
+            )
+        else:
+            desc = (
+                f"{question} Odds: {avg_yes:.0f}% YES across Kalshi and Polymarket. "
+                f"See live prices, platform spreads, and where to trade."
+            )
+    elif km:
+        desc = f"{question} Odds: {km['yes_price']}% YES on Kalshi. See live prices and trade this market."
+    else:
+        desc = f"{question} Odds: {pm['yes_price']}% YES on Polymarket. See live prices and trade this market."
+
+    if len(desc) > 160:
+        desc = desc[:157] + "..."
+
+    expiry = _parse_expiry(market.get("expiry", ""))
+    tags_yaml = ", ".join(f'"{t}"' for t in tags)
+    fm_lines = [
+        "---",
+        f'title: "{_yaml_escape(title)}"',
+        f'description: "{_yaml_escape(desc)}"',
+        f'marketQuestion: "{_yaml_escape(question)}"',
+        f'category: "{category}"',
+        f'status: "active"',
+        f"lastUpdated: {today}",
+    ]
+    if expiry:
+        fm_lines.append(f"expiryDate: {expiry}")
+    fm_lines.append(f"tags: [{tags_yaml}]")
+    if km:
+        fm_lines.append(f"kalshiYes: {km['yes_price']}")
+        fm_lines.append(f"kalshiNo: {km['no_price']}")
+        fm_lines.append(f"kalshiVolume: {int(km['volume'])}")
+        fm_lines.append(f'kalshiUrl: "{km.get("url", "")}"')
+    if pm:
+        fm_lines.append(f"polymarketYes: {pm['yes_price']}")
+        fm_lines.append(f"polymarketNo: {pm['no_price']}")
+        fm_lines.append(f"polymarketVolume: {int(pm['volume'])}")
+        fm_lines.append(f'polymarketUrl: "{pm.get("url", "")}"')
+    fm_lines.append("---")
+    frontmatter = "\n".join(fm_lines)
+
+    filepath.write_text(f"{frontmatter}\n\n{body}")
+
+
 def main():
     import argparse
 
@@ -1145,27 +1398,45 @@ def main():
     print("  Checking for settled markets...")
     update_settled_markets(kalshi, poly)
 
-    # Step 4: Generate pages
+    # Step 4: Generate pages with smart caching
     CONTENT_DIR.mkdir(parents=True, exist_ok=True)
 
-    if args.update_only:
-        # Only update existing files
-        existing_slugs = {f.stem for f in CONTENT_DIR.glob("*.md")}
-        count = 0
-        for market in unified:
-            slug = slugify(market["title"])
-            if slug in existing_slugs:
-                filename, content = generate_page(market)
-                (CONTENT_DIR / filename).write_text(content)
-                count += 1
-        print(f"  Updated {count} existing pages")
-    else:
-        count = 0
-        for market in unified:
-            filename, content = generate_page(market)
-            (CONTENT_DIR / filename).write_text(content)
-            count += 1
-        print(f"  Generated {count} pages")
+    generated = 0
+    updated_fm_only = 0
+    skipped = 0
+    claude_calls = 0
+
+    for market in unified:
+        slug = slugify(market["title"])
+        filename = f"{slug}.md"
+        filepath = CONTENT_DIR / filename
+
+        if args.update_only and not filepath.exists():
+            skipped += 1
+            continue
+
+        # Smart caching: check if odds changed significantly
+        if filepath.exists() and not _odds_changed_significantly(market, filepath):
+            # Odds barely changed — just update frontmatter numbers
+            _update_frontmatter_only(market, filepath)
+            updated_fm_only += 1
+            continue
+
+        # File is new or odds changed >5pp — full regeneration with Claude analysis
+        analysis = ""
+        if HAS_ANTHROPIC and os.environ.get("ANTHROPIC_API_KEY"):
+            analysis = _generate_analysis(market)
+            if analysis:
+                claude_calls += 1
+
+        related = _find_related_markets(market, unified)
+        fn, content = generate_page(market, analysis=analysis, related_markets=related)
+        (CONTENT_DIR / fn).write_text(content)
+        generated += 1
+
+    print(f"  Generated {generated} pages (full), {updated_fm_only} frontmatter-only updates, {skipped} skipped")
+    if claude_calls:
+        print(f"  Claude API calls: {claude_calls} (~${claude_calls * 0.001:.3f} estimated cost)")
 
     print(f"Done! Pages in: {CONTENT_DIR}")
 
