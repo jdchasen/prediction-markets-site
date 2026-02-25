@@ -17,7 +17,7 @@ Federal Reserve positioning has crystallized into something approaching market c
 
 These matching price points tell us everything about current expectations: March will bring no major monetary policy shifts. Combined, these two contracts have generated over $10.4 million in 24-hour trading volume, representing not speculation about policy changes but rather traders expressing certainty about the status quo. The market is effectively pricing in a hold or, at most, a 25bp adjustment in either direction.
 
-For those new to trading central bank decisions, the tight clustering around zero probability for major moves offers a textbook example of how [prediction markets](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=blog&utm_campaign=signup) can crystallize consensus more effectively than traditional forecasting. When you see extreme pricing like this backed by millions in volume, it's the market's way of saying: this debate is over.
+For those new to trading central bank decisions, the tight clustering around zero probability for major moves offers a textbook example of how prediction markets on [Kalshi](https://kalshi.com/sign-up/?referral=f2e21ad4-75b7-4ffb-bfcc-f2fb36e07b21&m=true&utm_source=masterpredictionmarkets&utm_medium=blog&utm_campaign=signup) and [Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=blog&utm_campaign=signup) can crystallize consensus more effectively than traditional forecasting. When you see extreme pricing like this backed by millions in volume, it's the market's way of saying: this debate is over.
 
 ## Iran Strike Timeline: The Probability Cascade
 

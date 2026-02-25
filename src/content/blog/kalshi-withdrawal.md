@@ -92,6 +92,6 @@ There is no publicly stated maximum withdrawal amount, but very large withdrawal
 
 ## Final Thoughts
 
-Withdrawing from Kalshi is not complicated, but understanding the timeline and potential friction points saves headaches. The platform is regulated and your funds are held in segregated accounts, so the money is safe -- it is just a matter of standard banking timelines. For a full breakdown of the platform's features, fees, and markets, check out our [in-depth Kalshi review](/blog/kalshi-review). And if you are still deciding which platform to trade on, our [comparison of Kalshi and Polymarket](/blog/kalshi-vs-polymarket-which-platform-should-you-use) covers the key differences that matter for active traders.
+Withdrawing from Kalshi is not complicated, but understanding the timeline and potential friction points saves headaches. The platform is regulated and your funds are held in segregated accounts, so the money is safe -- it is just a matter of standard banking timelines. For a full breakdown of the platform's features, fees, and markets, check out our [in-depth Kalshi review](/blog/kalshi-review). And if you are still deciding which platform to trade on, our comparison of Kalshi and [Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=blog&utm_campaign=signup) covers [the key differences](/blog/kalshi-vs-polymarket-which-platform-should-you-use) that matter for active traders.
 
 Set up your bank account, verify your identity upfront, and plan your withdrawals around banking hours. That is all there is to it.

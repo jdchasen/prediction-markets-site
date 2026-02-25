@@ -126,7 +126,7 @@ If you are making a few thousand dollars per year on Kalshi and have a W-2 job w
 
 ## Comparison to Unregulated Platforms
 
-One of the practical advantages of trading on a regulated exchange like Kalshi is clean tax reporting. Kalshi issues a 1099, maintains detailed transaction records, and calculates your cost basis. Compare that to [crypto-native platforms like Polymarket](/blog/polymarket-guide-how-to-trade-crypto-prediction-markets), where you are responsible for tracking every blockchain transaction, calculating cost basis across USDC movements, and reporting everything yourself.
+One of the practical advantages of trading on a regulated exchange like Kalshi is clean tax reporting. Kalshi issues a 1099, maintains detailed transaction records, and calculates your cost basis. Compare that to crypto-native platforms like [Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=blog&utm_campaign=signup), where you are responsible for tracking every blockchain transaction, calculating cost basis across USDC movements, and reporting everything yourself.
 
 On unregulated platforms, you still owe taxes on your gains -- the IRS does not care whether the platform reports it or not. But the burden of record keeping and calculation falls entirely on you, and mistakes are easier to make.
 

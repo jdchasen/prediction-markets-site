@@ -98,7 +98,7 @@ Unlike gambling losses (which can only be deducted against gambling winnings), t
 
 ## How Kalshi Compares to Unregulated Platforms
 
-The prediction market space includes several platforms that operate outside of US regulatory oversight. [Polymarket](/blog/polymarket-guide-how-to-trade-crypto-prediction-markets), for example, is a crypto-native platform that settled with the CFTC in 2022 and subsequently blocked US users from its interface. It offers deeper liquidity on many markets and charges lower fees, but it lacks the regulatory protections that Kalshi provides.
+The prediction market space includes several platforms that operate outside of US regulatory oversight. [Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=blog&utm_campaign=signup), for example, is a crypto-native platform that settled with the CFTC in 2022 and subsequently blocked US users from its interface. It offers deeper liquidity on many markets and charges lower fees, but it lacks the regulatory protections that Kalshi provides.
 
 Here is a practical comparison:
 

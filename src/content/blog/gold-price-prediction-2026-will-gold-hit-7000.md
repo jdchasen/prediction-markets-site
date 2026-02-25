@@ -68,7 +68,7 @@ The "digital gold" debate is real, even if gold bugs hate hearing it. Some money
 
 ## Prediction Markets vs. Gold Futures
 
-If you want gold exposure, you have options. Here's how prediction market contracts compare to traditional futures:
+If you want gold exposure, you have options. Here's how prediction market contracts on [Kalshi](https://kalshi.com/sign-up/?referral=f2e21ad4-75b7-4ffb-bfcc-f2fb36e07b21&m=true&utm_source=masterpredictionmarkets&utm_medium=blog&utm_campaign=signup) compare to traditional futures:
 
 | | Gold Futures | Prediction Market |
 |--|-------------|-------------------|

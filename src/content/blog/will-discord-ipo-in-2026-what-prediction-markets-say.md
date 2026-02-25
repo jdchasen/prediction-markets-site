@@ -16,7 +16,7 @@ faqs:
 
 Discord has been "about to IPO" for what feels like forever. The company turned down a $12 billion Microsoft acquisition in 2021, has been building its business for over a decade, and at some point it's going to go public. The question is: will 2026 actually be the year?
 
-Prediction markets have [a live contract on this exact question](/odds/will-discord-not-ipo-by-june-30-2026), and the answer might surprise you.
+[Kalshi](https://kalshi.com/sign-up/?referral=f2e21ad4-75b7-4ffb-bfcc-f2fb36e07b21&m=true&utm_source=masterpredictionmarkets&utm_medium=blog&utm_campaign=signup) has [a live contract on this exact question](/odds/will-discord-not-ipo-by-june-30-2026), and the answer might surprise you.
 
 ## One Important Thing to Know First
 
