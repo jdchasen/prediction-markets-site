@@ -108,7 +108,7 @@ const breadcrumbSchema = {
   ],
 };
 
-const faqSchema = post.data.faqs?.length ? {
+const faqSchema = post.data.faqs.length ? {
   "@context": "https://schema.org",
   "@type": "FAQPage",
   "mainEntity": post.data.faqs.map((faq: { question: string; answer: string }) => ({

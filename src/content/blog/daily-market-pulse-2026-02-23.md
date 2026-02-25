@@ -5,6 +5,13 @@ pubDate: 2026-02-23
 category: "strategies"
 tags: ["daily", "kalshi", "polymarket"]
 affiliate: "kalshi"
+faqs:
+  - question: "What are the current prediction market odds on a US strike on Iran?"
+    answer: "As of February 23, 2026, Polymarket prices the chance of a US strike on Iran by February 28 at 17.5%, while the March 31 contract trades at 57.5%. Near-term contracts (today/tomorrow) are priced near zero, suggesting traders see minimal chance of immediate action but growing risk over coming weeks."
+  - question: "How do prediction markets price geopolitical risk across different timeframes?"
+    answer: "Markets create a probability cascade across contracts with different deadlines. Each additional day adds more uncertainty, so longer-dated contracts trade at higher probabilities. The spread between near-term and far-term contracts reveals how traders assess both timing risk and the accumulation of daily event probabilities."
+  - question: "What is the prediction market consensus on the Fed's March 2026 rate decision?"
+    answer: "The market is pricing near-certainty of no major rate change in March 2026. The 25+ basis point rate hike contract trades at just 0.7% probability with nearly $1 million in daily volume, reflecting overwhelming consensus that the Fed will hold or make only a minor adjustment."
 ---
 
 The geopolitical tension markets are on fire. With over $2.6 million in 24-hour volume, the question of whether the United States will strike Iran within the next five days has become the single most-traded market on [Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=blog&utm_campaign=signup) today, capturing the attention of traders attempting to parse through escalating Middle East tensions. The February 28th deadline contract sits at 17.5¢ (17.5% implied probability), while shorter-dated contracts paint an even more skeptical picture of imminent military action.
