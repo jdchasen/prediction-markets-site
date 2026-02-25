@@ -16,6 +16,10 @@ const blog = defineCollection({
       question: z.string(),
       answer: z.string(),
     })).min(2, "Every blog post must have at least 2 FAQs for rich snippet schema"),
+    howToSteps: z.array(z.object({
+      name: z.string(),
+      text: z.string(),
+    })).optional(),
     review: z.object({
       itemName: z.string(),
       itemType: z.string().default("Product"),

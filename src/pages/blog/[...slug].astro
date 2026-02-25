@@ -121,6 +121,19 @@ const faqSchema = post.data.faqs.length ? {
   })),
 } : null;
 
+const howToSchema = post.data.howToSteps?.length ? {
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "name": post.data.title,
+  "description": post.data.description,
+  "step": post.data.howToSteps.map((step: { name: string; text: string }, i: number) => ({
+    "@type": "HowToStep",
+    "position": i + 1,
+    "name": step.name,
+    "text": step.text,
+  })),
+} : null;
+
 const reviewSchema = post.data.review ? {
   "@context": "https://schema.org",
   "@type": "Review",
@@ -164,6 +177,9 @@ const reviewSchema = post.data.review ? {
     )}
     {reviewSchema && (
       <script type="application/ld+json" set:html={JSON.stringify(reviewSchema)} />
+    )}
+    {howToSchema && (
+      <script type="application/ld+json" set:html={JSON.stringify(howToSchema)} />
     )}
   </Fragment>
 

@@ -1,6 +1,6 @@
 ---
 title: "Gold Price Prediction 2026: Will Gold Hit $7,000?"
-description: "Prediction market odds on gold reaching $7,000 or $8,000 in 2026. Central bank buying, rate cuts, and geopolitical risk fuel the gold bull case."
+description: "Live prediction market odds on gold reaching $7,000 or $8,000 in 2026. Central bank buying, rate cuts, and geopolitical risk drive the bull case for gold."
 pubDate: 2026-02-24
 category: "strategies"
 tags: ["strategies", "kalshi"]

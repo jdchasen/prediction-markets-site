@@ -1,10 +1,23 @@
 ---
 title: "Build a Prediction Market Trading Bot (2026): Developer's Guide"
-description: "Build automated trading systems for prediction markets using Kalshi and Polymarket APIs. Python examples and architecture guide."
+description: "Build an automated prediction market trading bot with Kalshi and Polymarket APIs. Includes Python code, system architecture, and risk management patterns."
 pubDate: 2026-02-22
 category: "strategies"
 tags: ["strategies", "api", "automation", "kalshi"]
 affiliate: "kalshi"
+howToSteps:
+  - name: "Set up API authentication"
+    text: "Generate API key pairs from your Kalshi account settings or configure wallet signing for Polymarket's CLOB API. Store credentials securely."
+  - name: "Build data feed integrations"
+    text: "Connect to external data sources like the NWS weather API, forex feeds, or financial market APIs to provide inputs for your pricing model."
+  - name: "Implement the strategy layer"
+    text: "Write fair value calculation logic that converts data feed inputs into probability estimates for each market."
+  - name: "Build the execution layer"
+    text: "Create order placement functions that submit limit orders via the API, with retry logic and duplicate-position guards."
+  - name: "Add risk management controls"
+    text: "Set maximum position sizes per market, cap total exposure, implement convergence exit logic, and guard against unintended shorts."
+  - name: "Deploy and monitor"
+    text: "Run your bot on a cloud instance. Periodically reconcile your local position tracker with the exchange to prevent state drift."
 faqs:
   - question: "What APIs do prediction markets offer for automated trading?"
     answer: "Kalshi provides a REST API with WebSocket support for real-time market data, order placement, and portfolio management. Polymarket offers a CLOB API for its central limit order book, though it requires interacting with smart contracts on Polygon."

@@ -1,10 +1,21 @@
 ---
 title: "How to Deposit on Polymarket (2026): 3 Ways to Fund Your Account"
-description: "Step-by-step guide to depositing USDC on Polymarket using on-ramp, exchange transfer, or bridge from Ethereum."
+description: "Step-by-step guide to depositing USDC on Polymarket using card on-ramp, exchange transfer, or Ethereum bridge. Compare fees and avoid costly mistakes."
 pubDate: 2026-02-22
 category: "polymarket"
 tags: ["polymarket", "beginners", "crypto"]
 affiliate: "polymarket"
+howToSteps:
+  - name: "Choose your deposit method"
+    text: "Select from three options: card on-ramp (easiest, 2-3% fee), crypto exchange transfer (cheapest, $0-1), or Ethereum bridge (advanced, $2-15 gas)."
+  - name: "Get your Polymarket deposit address"
+    text: "In Polymarket, navigate to your wallet or deposit section and copy your Polygon wallet address. This is the destination for all deposit methods."
+  - name: "Purchase or prepare USDC"
+    text: "Buy USDC via the built-in card on-ramp, purchase it on an exchange like Coinbase, or use existing USDC in an Ethereum wallet."
+  - name: "Send USDC on the Polygon network"
+    text: "When withdrawing from an exchange, select the Polygon network — not Ethereum. Sending on the wrong network means your funds will not appear in Polymarket."
+  - name: "Confirm the deposit arrived"
+    text: "Wait 1-30 minutes depending on the method. Your USDC balance will appear in your Polymarket wallet once the transaction confirms on the Polygon blockchain."
 faqs:
   - question: "How do I deposit money on Polymarket?"
     answer: "There are three ways: use Polymarket's built-in card on-ramp to buy USDC with a debit or credit card (2-3% fee), transfer USDC from a crypto exchange like Coinbase directly to Polygon (cheapest option at $0-1), or bridge USDC from Ethereum to Polygon using the Polygon Bridge."

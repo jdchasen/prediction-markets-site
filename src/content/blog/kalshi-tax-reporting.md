@@ -1,10 +1,21 @@
 ---
 title: "Kalshi Taxes (2026): Complete Guide to Reporting Prediction Market Gains"
-description: "How to report Kalshi profits on your taxes. 1099 forms, capital gains treatment, and what the IRS expects from prediction market traders."
+description: "How to report Kalshi profits on your taxes, including 1099-B forms, Section 1256 treatment, and deductible losses. Save money with the right filing strategy."
 pubDate: 2026-02-22
 category: "kalshi"
 tags: ["kalshi", "beginners"]
 affiliate: "kalshi"
+howToSteps:
+  - name: "Download your 1099-B from Kalshi"
+    text: "Kalshi issues 1099-B forms by mid-February showing proceeds, cost basis, and gains or losses. Download and reconcile against your own records."
+  - name: "Determine your tax classification"
+    text: "Consult a CPA about whether your Kalshi contracts qualify for Section 1256 treatment (60/40 long-term/short-term split) or standard capital gains treatment."
+  - name: "Adjust cost basis for fees"
+    text: "Add Kalshi fees to your cost basis for each trade. A $0.50 contract with $0.02 in fees has a $0.52 cost basis, reducing your taxable gain."
+  - name: "Report gains and deduct losses"
+    text: "Report all trades on your return regardless of whether you received a 1099. Deduct net losses against capital gains or up to $3,000 against ordinary income."
+  - name: "Make estimated quarterly payments if needed"
+    text: "If you expect to owe more than $1,000 in federal taxes beyond W-2 withholding, make estimated quarterly payments to avoid underpayment penalties."
 faqs:
   - question: "Does Kalshi report to the IRS?"
     answer: "Yes. Kalshi issues a 1099-B form to traders who meet the reporting threshold, and this form is also sent directly to the IRS. You are required to report all gains and losses regardless of whether you receive a form."
