@@ -62,6 +62,22 @@ function formatVolume(vol: number | undefined, platform: string): string {
 
   <section class="py-8">
     <div class="mx-auto max-w-6xl px-4">
+      <!-- Search input -->
+      <div class="mb-4">
+        <div class="relative">
+          <svg class="absolute left-3 top-1/2 h-4 w-4 -translate-y-1/2 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
+          </svg>
+          <input
+            id="market-search"
+            type="text"
+            placeholder="Search markets... (e.g. Bitcoin, election, inflation)"
+            class="w-full rounded-lg border border-gray-200 dark:border-gray-700 bg-white dark:bg-gray-800 py-2.5 pl-10 pr-4 text-sm text-gray-900 dark:text-gray-100 placeholder-gray-400 dark:placeholder-gray-500 outline-none focus:border-brand-500 focus:ring-1 focus:ring-brand-500 transition-colors"
+            autocomplete="off"
+          />
+        </div>
+      </div>
+
       <!-- Category filter tabs -->
       <div class="mb-8 flex flex-wrap gap-2" id="category-filters">
         <a
@@ -138,6 +154,10 @@ function formatVolume(vol: number | undefined, platform: string): string {
         })}
       </div>
 
+      <div id="no-results" class="py-12 text-center" style="display: none;">
+        <p class="text-gray-500 dark:text-gray-400">No markets match your search. Try a different term or category.</p>
+      </div>
+
       {sortedMarkets.length === 0 && (
         <div class="py-16 text-center">
           <p class="text-lg text-gray-500 dark:text-gray-400">No market odds pages yet. Run the generation script to populate.</p>
@@ -159,10 +179,40 @@ function formatVolume(vol: number | undefined, platform: string): string {
 <script>
   const buttons = document.querySelectorAll('.filter-btn');
   const cards = document.querySelectorAll('.market-card');
+  const searchInput = document.getElementById('market-search') as HTMLInputElement;
+
+  let activeCategory = 'all';
+  let searchQuery = '';
+
+  function filterCards() {
+    const q = searchQuery.toLowerCase().trim();
+    let visibleCount = 0;
+
+    cards.forEach((card) => {
+      const el = card as HTMLElement;
+      const category = el.dataset.category || '';
+      const text = (el.textContent || '').toLowerCase();
+
+      const matchesCategory = activeCategory === 'all' || category === activeCategory;
+      const matchesSearch = !q || text.includes(q);
+
+      if (matchesCategory && matchesSearch) {
+        el.style.display = '';
+        visibleCount++;
+      } else {
+        el.style.display = 'none';
+      }
+    });
+
+    // Show/hide empty state
+    const emptyEl = document.getElementById('no-results');
+    if (emptyEl) {
+      emptyEl.style.display = visibleCount === 0 ? '' : 'none';
+    }
+  }
 
   buttons.forEach((btn) => {
     btn.addEventListener('click', () => {
-      // Update active state
       buttons.forEach((b) => {
         b.classList.remove('active', 'bg-brand-600', 'text-white', 'border-brand-600');
         b.classList.add('border-gray-300', 'dark:border-gray-600', 'text-gray-600', 'dark:text-gray-400');
@@ -170,15 +220,13 @@ function formatVolume(vol: number | undefined, platform: string): string {
       btn.classList.add('active', 'bg-brand-600', 'text-white', 'border-brand-600');
       btn.classList.remove('border-gray-300', 'dark:border-gray-600', 'text-gray-600', 'dark:text-gray-400');
 
-      const category = (btn as HTMLElement).dataset.category;
-
-      cards.forEach((card) => {
-        if (category === 'all' || (card as HTMLElement).dataset.category === category) {
-          (card as HTMLElement).style.display = '';
-        } else {
-          (card as HTMLElement).style.display = 'none';
-        }
-      });
+      activeCategory = (btn as HTMLElement).dataset.category || 'all';
+      filterCards();
     });
+  });
+
+  searchInput?.addEventListener('input', () => {
+    searchQuery = searchInput.value;
+    filterCards();
   });
 </script>

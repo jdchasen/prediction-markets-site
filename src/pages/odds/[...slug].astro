@@ -1,5 +1,6 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
+import Breadcrumbs from '../../components/Breadcrumbs.astro';
 import CTABanner from '../../components/CTABanner.astro';
 import NewsletterForm from '../../components/NewsletterForm.astro';
 import ArticleCard from '../../components/ArticleCard.astro';
@@ -164,6 +165,8 @@ const oddsTitle = primaryYes !== undefined
     <script type="application/ld+json" set:html={JSON.stringify(breadcrumbSchema)} />
     {noindex && <meta name="robots" content="noindex" />}
   </Fragment>
+
+  <Breadcrumbs items={[{ label: 'Odds', href: '/odds' }, { label: market.data.marketQuestion }]} />
 
   <article class="mx-auto max-w-3xl px-4 py-12">
     {isSettled && (

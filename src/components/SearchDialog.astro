@@ -6,18 +6,44 @@ const allPosts = (await getCollection('blog'))
   .filter((post) => post.data.pubDate.valueOf() <= now.valueOf())
   .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
 
-const searchData = allPosts.map((post) => ({
-  title: post.data.title,
-  description: post.data.description,
-  category: post.data.category,
-  slug: post.id,
-}));
+const allMarkets = (await getCollection('markets'))
+  .filter((m) => m.data.status === 'active')
+  .sort((a, b) => {
+    const aVol = (a.data.kalshiVolume || 0) + (a.data.polymarketVolume || 0);
+    const bVol = (b.data.kalshiVolume || 0) + (b.data.polymarketVolume || 0);
+    return bVol - aVol;
+  });
+
+const searchData = [
+  ...allPosts.map((post) => ({
+    title: post.data.title,
+    description: post.data.description,
+    category: post.data.category,
+    slug: post.id,
+    type: 'article' as const,
+  })),
+  ...allMarkets.map((market) => ({
+    title: market.data.marketQuestion,
+    description: market.data.description,
+    category: market.data.category,
+    slug: market.id,
+    type: 'market' as const,
+  })),
+];
 
 const categoryColors: Record<string, string> = {
   kalshi: 'bg-green-100 text-green-800 dark:bg-green-900/50 dark:text-green-300',
   polymarket: 'bg-blue-100 text-blue-800 dark:bg-blue-900/50 dark:text-blue-300',
   strategies: 'bg-purple-100 text-purple-800 dark:bg-purple-900/50 dark:text-purple-300',
   beginners: 'bg-orange-100 text-orange-800 dark:bg-orange-900/50 dark:text-orange-300',
+  politics: 'bg-red-100 text-red-800 dark:bg-red-900/50 dark:text-red-300',
+  economics: 'bg-yellow-100 text-yellow-800 dark:bg-yellow-900/50 dark:text-yellow-300',
+  crypto: 'bg-purple-100 text-purple-800 dark:bg-purple-900/50 dark:text-purple-300',
+  finance: 'bg-green-100 text-green-800 dark:bg-green-900/50 dark:text-green-300',
+  sports: 'bg-orange-100 text-orange-800 dark:bg-orange-900/50 dark:text-orange-300',
+  tech: 'bg-blue-100 text-blue-800 dark:bg-blue-900/50 dark:text-blue-300',
+  entertainment: 'bg-pink-100 text-pink-800 dark:bg-pink-900/50 dark:text-pink-300',
+  science: 'bg-teal-100 text-teal-800 dark:bg-teal-900/50 dark:text-teal-300',
 };
 ---
 
@@ -35,7 +61,7 @@ const categoryColors: Record<string, string> = {
       <input
         id="search-input"
         type="text"
-        placeholder="Search articles..."
+        placeholder="Search articles & markets..."
         class="flex-1 bg-transparent text-sm text-gray-900 dark:text-gray-100 placeholder-gray-400 dark:placeholder-gray-500 outline-none"
         autocomplete="off"
       />
@@ -45,12 +71,12 @@ const categoryColors: Record<string, string> = {
     <!-- Results -->
     <div id="search-results" class="max-h-[50vh] overflow-y-auto">
       <div id="search-empty" class="px-4 py-8 text-center text-sm text-gray-500 dark:text-gray-400">
-        Type to search articles...
+        Type to search articles & markets...
       </div>
       <ul id="search-list" class="hidden divide-y divide-gray-100 dark:divide-gray-700">
       </ul>
       <div id="search-no-results" class="hidden px-4 py-8 text-center text-sm text-gray-500 dark:text-gray-400">
-        No articles found.
+        No results found.
       </div>
     </div>
   </div>
@@ -68,8 +94,12 @@ const categoryColors: Record<string, string> = {
   const empty = document.getElementById('search-empty')!;
   const noResults = document.getElementById('search-no-results')!;
 
-  const data = (window as any).__searchData as Array<{ title: string; description: string; category: string; slug: string }>;
+  const data = (window as any).__searchData as Array<{ title: string; description: string; category: string; slug: string; type: 'article' | 'market' }>;
   const catColors = (window as any).__categoryColors as Record<string, string>;
+
+  function itemUrl(item: typeof data[0]): string {
+    return item.type === 'market' ? `/odds/${item.slug}` : `/blog/${item.slug}`;
+  }
 
   let activeIndex = -1;
   let filteredResults: typeof data = [];
@@ -126,10 +156,11 @@ const categoryColors: Record<string, string> = {
       .map(
         (item, i) => `
         <li>
-          <a href="/blog/${item.slug}" class="search-result flex items-start gap-3 px-4 py-3 transition-colors hover:bg-gray-50 dark:hover:bg-gray-700/50 ${i === activeIndex ? 'bg-gray-50 dark:bg-gray-700/50' : ''}" data-index="${i}">
+          <a href="${itemUrl(item)}" class="search-result flex items-start gap-3 px-4 py-3 transition-colors hover:bg-gray-50 dark:hover:bg-gray-700/50 ${i === activeIndex ? 'bg-gray-50 dark:bg-gray-700/50' : ''}" data-index="${i}">
             <div class="flex-1 min-w-0">
               <div class="flex items-center gap-2 mb-1">
                 <span class="rounded-full px-2 py-0.5 text-xs font-medium capitalize ${catColors[item.category] || 'bg-gray-100 text-gray-800 dark:bg-gray-700 dark:text-gray-300'}">${item.category}</span>
+                <span class="text-xs text-gray-400 dark:text-gray-500">${item.type === 'market' ? 'Market' : 'Article'}</span>
               </div>
               <p class="text-sm font-medium text-gray-900 dark:text-gray-100 truncate">${item.title}</p>
               <p class="text-xs text-gray-500 dark:text-gray-400 truncate mt-0.5">${item.description}</p>
@@ -160,7 +191,7 @@ const categoryColors: Record<string, string> = {
 
   function navigateToActive() {
     if (activeIndex >= 0 && activeIndex < filteredResults.length) {
-      window.location.href = `/blog/${filteredResults[activeIndex].slug}`;
+      window.location.href = itemUrl(filteredResults[activeIndex]);
     }
   }
 
