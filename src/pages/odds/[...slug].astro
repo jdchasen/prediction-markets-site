@@ -145,10 +145,17 @@ const categoryColors: Record<string, string> = {
 };
 
 const catColor = categoryColors[market.data.category] || 'bg-gray-100 text-gray-800 dark:bg-gray-700 dark:text-gray-300';
+
+// Build CTR-optimized title with odds context
+const primaryYes = market.data.kalshiYes ?? market.data.polymarketYes;
+const primaryPlatform = market.data.kalshiYes !== undefined ? 'Kalshi' : 'Polymarket';
+const oddsTitle = primaryYes !== undefined
+  ? `${market.data.title} (${primaryYes}% on ${primaryPlatform})`
+  : market.data.title;
 ---
 
 <BaseLayout
-  title={market.data.title}
+  title={oddsTitle}
   description={market.data.description}
 >
   <Fragment slot="head">

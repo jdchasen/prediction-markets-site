@@ -7,7 +7,11 @@ export default defineConfig({
   site: 'https://masterpredictionmarkets.com',
   integrations: [
     tailwind(),
-    sitemap(),
+    sitemap({
+      changefreq: 'daily',
+      priority: 0.7,
+      lastmod: new Date(),
+    }),
   ],
   markdown: {
     shikiConfig: {
