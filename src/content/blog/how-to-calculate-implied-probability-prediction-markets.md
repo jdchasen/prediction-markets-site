@@ -5,6 +5,13 @@ pubDate: 2026-02-24
 category: "strategies"
 tags: ["strategies", "probability", "beginners", "kalshi"]
 affiliate: "kalshi"
+faqs:
+  - question: "How do you calculate implied probability from prediction market prices?"
+    answer: "For a binary contract, the implied probability equals the contract price. A Yes contract trading at $0.65 implies a 65% probability. For more precision, account for the bid-ask spread by using the midpoint price."
+  - question: "What is expected value in prediction markets?"
+    answer: "Expected value (EV) is the average profit or loss per trade over many repetitions. EV = (probability of winning * profit if win) - (probability of losing * loss if lose). A positive EV means the trade is profitable on average."
+  - question: "How do fees affect implied probability calculations?"
+    answer: "Fees raise the breakeven probability. On Kalshi with ~7% settlement fees, a contract at $0.40 requires about a 43% true probability to break even, not 40%. Always account for fees when comparing your model probability to the market price."
 ---
 
 Every prediction market contract has a price between $0.01 and $0.99, and that price tells you exactly what the market thinks the probability of the event is. If you can convert prices to probabilities accurately, account for fees, and calculate expected value, you have the foundation for every profitable trading decision you will ever make. This guide walks through the math step by step, with real examples you can apply immediately.

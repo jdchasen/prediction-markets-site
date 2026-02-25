@@ -1,10 +1,19 @@
 ---
-title: "Event Contracts Explained: The Financial Instrument Wall Street Doesn't Want You to Know About"
+title: "What Are Event Contracts? Complete Guide (2026)"
 description: "What are event contracts and how do they work? The complete guide to this new asset class that's changing how people trade."
 pubDate: 2026-02-22
 category: "beginners"
 tags: ["beginners", "kalshi", "strategies"]
 affiliate: "kalshi"
+faqs:
+  - question: "What is an event contract?"
+    answer: "An event contract is a binary financial instrument that pays $1 if a specific real-world event occurs and $0 if it does not. The price at any time reflects the market's collective probability estimate -- a contract at $0.70 implies approximately a 70% chance."
+  - question: "How are event contracts different from stock options?"
+    answer: "Stock options have complex pricing based on volatility, time decay, and Greeks. Event contracts are simpler: the payout is binary ($1 or $0), the price directly represents a probability, and your maximum loss is always your purchase price with no margin requirements."
+  - question: "Can you lose more than you invest in event contracts?"
+    answer: "No. Event contracts have no margin requirement -- you pay the full contract price upfront, and that is the maximum you can lose. There is no scenario where you owe more than your initial investment."
+  - question: "How do event contracts settle?"
+    answer: "Every event contract has a predefined settlement source and time. Weather contracts settle on official NOAA data, financial contracts on official closing prices, and economic contracts on government data releases."
 ---
 
 There is a financial instrument that lets you trade on whether the Fed will cut rates, whether it will snow in New York tomorrow, or whether the S&P 500 will finish above a certain level -- all with defined risk, no margin requirements, and a maximum loss that you know before you click buy. It is called an event contract, and if you have not encountered them yet, you are about to hear a lot more about them.

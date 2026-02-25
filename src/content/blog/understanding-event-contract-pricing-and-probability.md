@@ -5,6 +5,13 @@ pubDate: 2026-02-22
 category: "strategies"
 tags: ["strategies", "pricing", "probability", "beginners"]
 affiliate: "kalshi"
+faqs:
+  - question: "How does prediction market pricing relate to probability?"
+    answer: "A contract's price is its implied probability. A Yes contract at $0.65 means the market estimates a 65% chance the event occurs. This relationship is exact for binary contracts: Fair Price = Probability of Yes."
+  - question: "How do you calculate edge in prediction markets?"
+    answer: "Edge equals your estimated probability minus the market's implied probability. If you estimate 80% and the contract trades at $0.65, your edge is 15 cents. A trade has positive expected value only when your edge exceeds the round-trip fee cost."
+  - question: "What is the bid-ask spread in prediction markets?"
+    answer: "The bid-ask spread is the gap between the highest price a buyer will pay and the lowest price a seller will accept. A tight spread (1-2 cents) indicates good liquidity, while a wide spread (5-10+ cents) signals thin liquidity and increases your trading cost."
 ---
 
 Every prediction market contract encodes a crowd-sourced probability estimate into a single number: its price. If you can read that number accurately, compare it against your own model, and account for transaction costs, you have the foundation of a systematic trading strategy. This guide breaks down exactly how event contract pricing works, where the edge comes from, and how quantitative traders exploit it.

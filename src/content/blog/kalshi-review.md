@@ -5,6 +5,19 @@ pubDate: 2026-02-22
 category: "kalshi"
 tags: ["kalshi", "reviews", "prediction-markets"]
 affiliate: "kalshi"
+review:
+  itemName: "Kalshi"
+  itemType: "Product"
+  rating: 4.5
+faqs:
+  - question: "Is Kalshi safe and legit?"
+    answer: "Yes. Kalshi is the first CFTC-regulated prediction market exchange in the United States. Your funds are held in segregated accounts, the exchange follows federal compliance rules, and you have legal recourse if something goes wrong."
+  - question: "What can you trade on Kalshi?"
+    answer: "Kalshi offers event contracts on weather, economics (Fed rates, CPI, jobless claims), financial markets (S&P 500, Nasdaq), crypto prices (Bitcoin, Ethereum), politics, and sports."
+  - question: "Does Kalshi have an API for automated trading?"
+    answer: "Yes. Kalshi provides a well-documented REST API with WebSocket support for real-time data, covering market discovery, order placement, position tracking, and portfolio queries."
+  - question: "How much are Kalshi fees per trade?"
+    answer: "Kalshi uses a maker-taker fee model. The maximum taker fee is approximately 1.75 cents per contract at a 50-cent price, with maker fees roughly one-quarter of that. There are no withdrawal or account fees."
 ---
 
 If you have been following prediction markets at all over the past few years, you have almost certainly come across [Kalshi](https://kalshi.com/sign-up/?referral=f2e21ad4-75b7-4ffb-bfcc-f2fb36e07b21&m=true&utm_source=masterpredictionmarkets&utm_medium=blog&utm_campaign=signup). It is the first CFTC-regulated prediction market exchange in the United States, and it has grown aggressively since launching in 2021. But the question most traders actually want answered is straightforward: is Kalshi worth trading on in 2026?

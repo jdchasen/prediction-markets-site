@@ -5,6 +5,15 @@ pubDate: 2026-02-22
 category: "kalshi"
 tags: ["kalshi", "beginners"]
 affiliate: "kalshi"
+faqs:
+  - question: "Is Kalshi legal in the United States?"
+    answer: "Yes. Kalshi is the first CFTC-regulated designated contract market (DCM) for event contracts in the US. Trading on Kalshi is legal in the vast majority of US states."
+  - question: "Is trading on Kalshi considered gambling?"
+    answer: "No. Kalshi is classified as a regulated derivatives exchange, not a gambling platform. It operates under federal CFTC oversight, which preempts state gambling laws."
+  - question: "What happens to my money if Kalshi goes bankrupt?"
+    answer: "Your funds are held in segregated accounts at custodian banks, separate from Kalshi's operating capital. Under CFTC regulations, customer funds cannot be used to pay the company's creditors."
+  - question: "How is Kalshi different from Polymarket legally?"
+    answer: "Kalshi is CFTC-regulated with segregated customer funds, mandatory KYC, 1099 tax reporting, and formal dispute resolution. Polymarket operates outside US regulatory oversight and officially blocks US users."
 ---
 
 It is a fair question. You see an exchange where you can bet on whether it will rain tomorrow or whether the Fed will cut rates, and your first instinct is to wonder whether you are about to do something illegal. The prediction market space has a complicated legal history in the United States, and the line between "regulated exchange" and "offshore gambling site" is not always obvious to newcomers.

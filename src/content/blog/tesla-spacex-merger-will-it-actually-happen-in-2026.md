@@ -5,6 +5,13 @@ pubDate: 2026-02-24
 category: "strategies"
 tags: ["strategies", "kalshi", "polymarket"]
 affiliate: "kalshi"
+faqs:
+  - question: "Will Tesla and SpaceX merge in 2026?"
+    answer: "Prediction markets show it's very unlikely by the current contract deadline. While the synergies are real, the legal complexity (Musk's conflict of interest as CEO of both), regulatory hurdles (SEC, FTC, ITAR), and valuation challenges make a near-term announcement improbable."
+  - question: "What would a Tesla-SpaceX merger be worth?"
+    answer: "SpaceX is valued at over $200 billion on the private market. Combined with Tesla, the entity could be worth over $1 trillion. However, determining a fair exchange ratio between shareholders is extremely complex and would face intense legal scrutiny."
+  - question: "How can I trade on a Tesla-SpaceX merger?"
+    answer: "Prediction markets like Kalshi and Polymarket offer binary contracts on whether the merger will be officially announced by a specific date. You can buy YES (merger happens) or NO (it doesn't) with defined risk."
 ---
 
 A Tesla-SpaceX merger. Just saying it out loud sounds like the plot of a sci-fi movie written by a finance bro. But it's not science fiction anymore — it's an actively traded prediction market contract with real money behind it. The question isn't "would it be cool?" (obviously) but "is it actually going to happen?"

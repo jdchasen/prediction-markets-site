@@ -5,6 +5,13 @@ pubDate: 2026-02-24
 category: "strategies"
 tags: ["strategies", "kalshi", "polymarket"]
 affiliate: "kalshi"
+faqs:
+  - question: "Who is favored to win at the 2026 Oscars?"
+    answer: "According to prediction markets, Elle Fanning is the frontrunner for Best Supporting Actress, Jacob Elordi leads Best Supporting Actor, and Frankenstein is favored for Best Costume Design."
+  - question: "How accurate are prediction markets for Oscar predictions?"
+    answer: "Heavy favorites (priced above 70%) win about 80% of the time. Moderate favorites (50-70%) win around 55-65% of the time. Genuine upsets where the winner was priced below 30% happen in maybe 5-10% of categories per year."
+  - question: "Can you bet on the Oscars on prediction markets?"
+    answer: "Yes. Platforms like Kalshi and Polymarket offer contracts on major Oscar categories. You buy YES or NO shares on whether a specific nominee will win, with prices reflecting the market's implied probability."
 ---
 
 Forget your office Oscar pool. Forget the guy on Film Twitter who's "never wrong." If you want the most accurate 2026 Oscar predictions available, look at where people are betting real money.

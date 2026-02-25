@@ -1,10 +1,19 @@
 ---
-title: "The Kelly Criterion for Prediction Markets: A Complete Guide to Optimal Bet Sizing"
+title: "Kelly Criterion for Prediction Markets (2026): Bet Sizing Guide"
 description: "Master the Kelly criterion for prediction market trading. Learn the formula, see worked examples with fees, and understand why fractional Kelly is the professional standard."
 pubDate: 2026-02-24
 category: "strategies"
 tags: ["strategies", "kalshi", "probability"]
 affiliate: "kalshi"
+faqs:
+  - question: "What is the Kelly criterion for prediction markets?"
+    answer: "The Kelly criterion calculates the optimal fraction of your bankroll to bet on a trade with positive expected value. For binary prediction market contracts, the formula is f = (b * p - q) / b, where b is net odds after fees, p is your estimated win probability, and q is 1 - p."
+  - question: "Why should I use half Kelly instead of full Kelly?"
+    answer: "Full Kelly assumes your probability estimate is perfectly accurate, which it never is. Half Kelly achieves roughly 75% of the optimal growth rate while cutting variance in half, making it the professional standard."
+  - question: "How do you account for Kalshi fees in the Kelly criterion?"
+    answer: "Multiply the profit portion by 0.93 to account for Kalshi's 7% settlement fee. The correct net odds formula is b = ((1 - price) * 0.93) / price. Forgetting this adjustment overstates your odds by about 7.5%."
+  - question: "What is the maximum you should bet on a single prediction market contract?"
+    answer: "Never risk more than 5% of your bankroll on a single contract, regardless of what Kelly recommends. This hard cap protects against model errors and situations where your probability estimate is significantly wrong."
 ---
 
 You have found a prediction market contract with positive expected value. You are confident in your edge. The question that determines whether you grow your account or blow it up is: how much should you bet? Too little and you leave money on the table. Too much and a run of bad luck wipes you out. The Kelly criterion answers this question with mathematical precision, and it is the position-sizing framework used by virtually every serious prediction market trader.

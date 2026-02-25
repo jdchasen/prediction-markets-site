@@ -108,6 +108,25 @@ const faqSchema = post.data.faqs?.length ? {
     },
   })),
 } : null;
+
+const reviewSchema = post.data.review ? {
+  "@context": "https://schema.org",
+  "@type": "Review",
+  "itemReviewed": {
+    "@type": post.data.review.itemType || "Product",
+    "name": post.data.review.itemName,
+  },
+  "reviewRating": {
+    "@type": "Rating",
+    "ratingValue": post.data.review.rating,
+    "bestRating": 5,
+    "worstRating": 1,
+  },
+  "author": {
+    "@type": "Organization",
+    "name": "Master Prediction Markets",
+  },
+} : null;
 ---
 
 <BaseLayout
@@ -120,6 +139,9 @@ const faqSchema = post.data.faqs?.length ? {
     <script type="application/ld+json" set:html={JSON.stringify(breadcrumbSchema)} />
     {faqSchema && (
       <script type="application/ld+json" set:html={JSON.stringify(faqSchema)} />
+    )}
+    {reviewSchema && (
+      <script type="application/ld+json" set:html={JSON.stringify(reviewSchema)} />
     )}
   </Fragment>
 

@@ -1,10 +1,17 @@
 ---
-title: "Kalshi Fees Are Eating Your Profits — Here's Exactly How Much"
+title: "Kalshi Fees (2026): How Much They're Really Eating From Your Profits"
 description: "Complete breakdown of Kalshi's fee structure and how to minimize costs. Real examples showing how fees impact your bottom line."
 pubDate: 2026-02-22
 category: "kalshi"
 tags: ["kalshi", "strategies"]
 affiliate: "kalshi"
+faqs:
+  - question: "How much does Kalshi charge per trade?"
+    answer: "Kalshi charges $0.02 per contract per side. A round-trip trade (buy and sell) costs $0.04 per contract in total fees. There are no monthly, inactivity, or withdrawal fees."
+  - question: "How do I reduce fees on Kalshi?"
+    answer: "Use limit orders for better price execution, favor holding to settlement over early exits to avoid the sell-side fee, size up on high-conviction trades, and only trade when your edge exceeds 7-8 cents per contract."
+  - question: "How do Kalshi fees compare to Polymarket and PredictIt?"
+    answer: "Polymarket charges no trading fees (though you pay gas costs and slippage). PredictIt charges 10% of profits plus 5% on withdrawals. Kalshi sits in the middle at $0.02 per contract per side."
 ---
 
 If you have traded on [Kalshi](https://kalshi.com/sign-up/?referral=f2e21ad4-75b7-4ffb-bfcc-f2fb36e07b21&m=true&utm_source=masterpredictionmarkets&utm_medium=blog&utm_campaign=signup) for more than a week, you have probably noticed something uncomfortable: your winning trades do not feel like they pay as much as they should, and your losing trades sting more than expected. The reason is fees. Kalshi's fee structure is not outrageous by exchange standards, but it is significant enough that it can turn a profitable strategy into a losing one if you are not paying close attention.

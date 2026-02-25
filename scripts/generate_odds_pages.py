@@ -42,6 +42,20 @@ POLYMARKET_REFERRAL = "https://polymarket.us/1762?utm_source=masterpredictionmar
 MIN_KALSHI_VOLUME = 1_000       # contracts
 MIN_POLYMARKET_VOLUME = 10_000  # USD
 
+# Economics-targeted thresholds (relaxed to capture niche markets)
+MIN_ECON_KALSHI_VOLUME = 200        # contracts
+MIN_ECON_POLYMARKET_VOLUME = 5_000  # USD
+MIN_ECON_EXPIRY_DAYS = 2            # days (vs 7 for general)
+
+ECONOMICS_TITLE_KEYWORDS = [
+    "gdp", "cpi", "inflation", "interest rate", "federal reserve", "fed funds",
+    "fed rate", "unemployment", "jobs report", "nonfarm", "payroll", "pce",
+    "fomc", "rate cut", "rate hike", "bank of japan", "ecb", "treasury",
+    "recession", "consumer price", "producer price", "retail sales",
+    "housing starts", "jobless claims", "core pce", "economic growth",
+    "yield curve",
+]
+
 # Category whitelist (normalized lowercase)
 CATEGORY_WHITELIST = {
     "politics", "economics", "crypto", "finance", "sports",
@@ -330,6 +344,199 @@ def fetch_polymarket_markets(limit: int = 200) -> list[dict]:
             break
 
     return results
+
+
+# ---------------------------------------------------------------------------
+# Economics-targeted fetching
+# ---------------------------------------------------------------------------
+
+def _is_economics_title(title: str) -> bool:
+    """Check if a market title relates to economics/macro events."""
+    t = title.lower()
+    return any(kw in t for kw in ECONOMICS_TITLE_KEYWORDS)
+
+
+def fetch_kalshi_economics_markets() -> list[dict]:
+    """Targeted fetch for economics markets from Kalshi with relaxed thresholds."""
+    api_key = os.environ.get("KALSHI_API_KEY", "")
+    private_key = _load_kalshi_private_key()
+
+    if not api_key or not private_key:
+        return []
+
+    base_url = "https://trading-api.kalshi.com/trade-api/v2"
+    path = "/trade-api/v2/markets"
+    all_markets = []
+    cursor = None
+
+    # Fetch more pages to find economics markets buried deeper
+    while len(all_markets) < 500:
+        params = {"limit": 100, "status": "open"}
+        if cursor:
+            params["cursor"] = cursor
+
+        try:
+            headers = _kalshi_headers(api_key, private_key, "GET", path)
+            resp = requests.get(f"{base_url}/markets", headers=headers, params=params, timeout=15)
+            resp.raise_for_status()
+            data = resp.json()
+            markets = data.get("markets", [])
+            all_markets.extend(markets)
+            cursor = data.get("cursor")
+            if not cursor or not markets:
+                break
+        except Exception as e:
+            print(f"  Kalshi economics API error: {e}")
+            break
+
+    now = datetime.now(timezone.utc)
+    min_expiry = now + timedelta(days=MIN_ECON_EXPIRY_DAYS)
+
+    results = []
+    for m in all_markets:
+        title = m.get("title", "")
+        if not _is_economics_title(title):
+            continue
+
+        volume = m.get("volume", 0) or 0
+        if volume < MIN_ECON_KALSHI_VOLUME:
+            continue
+
+        if _is_blocklisted(title):
+            continue
+
+        close_time = m.get("close_time", "")
+        if close_time:
+            try:
+                expiry = datetime.fromisoformat(close_time.replace("Z", "+00:00"))
+                if expiry < min_expiry:
+                    continue
+            except ValueError:
+                pass
+
+        yes_price = m.get("yes_ask") or m.get("last_price") or 0
+        no_price = m.get("no_ask") or (100 - yes_price if yes_price else 0)
+
+        results.append({
+            "platform": "kalshi",
+            "title": title,
+            "subtitle": m.get("subtitle", ""),
+            "question": m.get("title", ""),
+            "yes_price": yes_price,
+            "no_price": no_price,
+            "volume": volume,
+            "category": m.get("category", "") or "",
+            "event_ticker": m.get("event_ticker", ""),
+            "ticker": m.get("ticker", ""),
+            "close_time": close_time,
+            "url": f"https://kalshi.com/markets/{m.get('event_ticker', '')}",
+        })
+
+    results.sort(key=lambda m: m["volume"], reverse=True)
+    return results
+
+
+def fetch_polymarket_economics_markets() -> list[dict]:
+    """Targeted fetch for economics markets from Polymarket with relaxed thresholds."""
+    url = "https://gamma-api.polymarket.com/markets"
+    all_markets = []
+    offset = 0
+    page_size = 100
+
+    while len(all_markets) < 500:
+        params = {
+            "limit": page_size,
+            "offset": offset,
+            "active": "true",
+            "closed": "false",
+            "order": "volume",
+            "ascending": "false",
+        }
+        try:
+            resp = requests.get(url, params=params, timeout=15)
+            resp.raise_for_status()
+            markets = resp.json()
+            if not isinstance(markets, list):
+                markets = markets.get("data", []) if isinstance(markets, dict) else []
+            if not markets:
+                break
+            all_markets.extend(markets)
+            offset += page_size
+        except Exception as e:
+            print(f"  Polymarket economics API error: {e}")
+            break
+
+    now = datetime.now(timezone.utc)
+    min_expiry = now + timedelta(days=MIN_ECON_EXPIRY_DAYS)
+
+    results = []
+    for m in all_markets:
+        title = m.get("question", "") or m.get("title", "")
+        if not _is_economics_title(title):
+            continue
+
+        volume = float(m.get("volume", 0) or 0)
+        if volume < MIN_ECON_POLYMARKET_VOLUME:
+            continue
+
+        if _is_blocklisted(title):
+            continue
+
+        end_date = m.get("endDate", "")
+        if end_date:
+            try:
+                expiry = datetime.fromisoformat(end_date.replace("Z", "+00:00"))
+                if expiry < min_expiry:
+                    continue
+            except ValueError:
+                pass
+
+        outcomes = m.get("outcomePrices", "")
+        yes_price = 0
+        no_price = 0
+        if outcomes:
+            try:
+                prices = json.loads(outcomes) if isinstance(outcomes, str) else outcomes
+                if len(prices) >= 2:
+                    yes_price = round(float(prices[0]) * 100, 1)
+                    no_price = round(float(prices[1]) * 100, 1)
+                elif len(prices) == 1:
+                    yes_price = round(float(prices[0]) * 100, 1)
+                    no_price = round(100 - yes_price, 1)
+            except (json.JSONDecodeError, ValueError, TypeError):
+                pass
+
+        slug = m.get("slug", "")
+        results.append({
+            "platform": "polymarket",
+            "title": title,
+            "question": title,
+            "yes_price": yes_price,
+            "no_price": no_price,
+            "volume": volume,
+            "category": m.get("category", "") or "",
+            "end_date": end_date,
+            "slug": slug,
+            "url": f"https://polymarket.com/event/{slug}" if slug else "",
+        })
+
+    results.sort(key=lambda m: m["volume"], reverse=True)
+    return results
+
+
+def _merge_economics_markets(
+    main_markets: list[dict], econ_markets: list[dict]
+) -> list[dict]:
+    """Merge economics markets into main list, deduplicating by normalized title."""
+    existing = {_normalize_title(m["title"]) for m in main_markets}
+    added = 0
+    for m in econ_markets:
+        norm = _normalize_title(m["title"])
+        if norm not in existing:
+            main_markets.append(m)
+            existing.add(norm)
+            added += 1
+    return main_markets, added
 
 
 # ---------------------------------------------------------------------------
@@ -718,7 +925,9 @@ def _categorize(raw_category: str, title: str = "") -> str:
           "best actor", "best actress", "best director", "best supporting",
           "best costume", "fanning", "elordi", "frankenstein"], "entertainment"),
         (["gdp", "cpi", "inflation", "interest rate", "bank of japan", "fed rate",
-          "unemployment", "jobs report", "economic"], "economics"),
+          "unemployment", "jobs report", "economic", "federal reserve", "fomc",
+          "rate cut", "rate hike", "nonfarm", "payroll", "pce", "retail sales",
+          "jobless claims", "recession", "consumer price", "treasury yield"], "economics"),
         (["stock", "s&p", "spx", "nasdaq", "ipo", "market cap", "tesla deliver",
           "gold", "merger", "alphabet", "discord"], "finance"),
         (["tweet", "elon musk", "spacex"], "tech"),
@@ -914,6 +1123,14 @@ def main():
     print("  Fetching Polymarket markets...")
     poly = fetch_polymarket_markets(limit=200)
     print(f"  Got {len(poly)} Polymarket markets (filtered)")
+
+    # Step 1b: Targeted economics fetch (relaxed thresholds, deeper scan)
+    print("  Fetching targeted economics markets...")
+    econ_kalshi = fetch_kalshi_economics_markets()
+    kalshi, k_added = _merge_economics_markets(kalshi, econ_kalshi)
+    econ_poly = fetch_polymarket_economics_markets()
+    poly, p_added = _merge_economics_markets(poly, econ_poly)
+    print(f"  Economics: +{k_added} Kalshi, +{p_added} Polymarket (new)")
 
     if not kalshi and not poly:
         print("ERROR: Both APIs returned no data. Exiting.")

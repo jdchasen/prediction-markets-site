@@ -1,10 +1,19 @@
 ---
-title: "Kalshi Taxes: The Complete Guide to Reporting Your Prediction Market Gains"
+title: "Kalshi Taxes (2026): Complete Guide to Reporting Prediction Market Gains"
 description: "How to report Kalshi profits on your taxes. 1099 forms, capital gains treatment, and what the IRS expects from prediction market traders."
 pubDate: 2026-02-22
 category: "kalshi"
 tags: ["kalshi", "beginners"]
 affiliate: "kalshi"
+faqs:
+  - question: "Does Kalshi report to the IRS?"
+    answer: "Yes. Kalshi issues a 1099-B form to traders who meet the reporting threshold, and this form is also sent directly to the IRS. You are required to report all gains and losses regardless of whether you receive a form."
+  - question: "How are Kalshi profits taxed?"
+    answer: "Kalshi gains may qualify for Section 1256 treatment (60% long-term, 40% short-term capital gains) because Kalshi is a CFTC-regulated exchange. Otherwise, they are taxed as short-term capital gains at your ordinary income rate. Consult a CPA for your specific situation."
+  - question: "Can I deduct losses from Kalshi trading on my taxes?"
+    answer: "Yes. Kalshi trading losses can be deducted against capital gains from other investments. If net capital losses exceed gains, you can deduct up to $3,000 per year against ordinary income, with the remainder carrying forward."
+  - question: "Are Kalshi fees tax deductible?"
+    answer: "Yes. Fees paid on Kalshi are added to your cost basis, which reduces your reported taxable gains. If you buy a contract for $0.50 and pay $0.02 in fees, your cost basis is $0.52."
 ---
 
 Nobody gets into prediction markets because they are excited about tax reporting. But if you are making money on [Kalshi](https://kalshi.com/sign-up/?referral=f2e21ad4-75b7-4ffb-bfcc-f2fb36e07b21&m=true&utm_source=masterpredictionmarkets&utm_medium=blog&utm_campaign=signup) -- or even if you are losing money -- the IRS expects you to report it. And because Kalshi is a [CFTC-regulated exchange](/blog/is-kalshi-legal), it reports your activity directly to the IRS, so this is not something you can quietly ignore.

@@ -5,6 +5,13 @@ pubDate: 2026-02-24
 category: "strategies"
 tags: ["strategies", "kalshi"]
 affiliate: "kalshi"
+faqs:
+  - question: "Will Discord IPO in 2026?"
+    answer: "Prediction markets show the odds are against a Discord IPO by mid-2026. While the company is closer to IPO-ready than ever (near profitability, diversified revenue), it doesn't need capital urgently and the regulatory process takes 3-6 months."
+  - question: "What would a Discord IPO valuation be?"
+    answer: "Estimates range from $15-18 billion (conservative, Slack-comparable) to $20-25 billion (base case with strong user growth) to $30+ billion (bullish, full platform potential with AI and advertising upside)."
+  - question: "What signals would indicate a Discord IPO is coming?"
+    answer: "The most reliable signal is an S-1 filing with the SEC, which means the IPO is 2-3 months away. Other signals include underwriter selection (Goldman, Morgan Stanley), independent board appointments, and credible Bloomberg/WSJ reporting."
 ---
 
 Discord has been "about to IPO" for what feels like forever. The company turned down a $12 billion Microsoft acquisition in 2021, has been building its business for over a decade, and at some point it's going to go public. The question is: will 2026 actually be the year?

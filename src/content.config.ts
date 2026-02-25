@@ -16,6 +16,11 @@ const blog = defineCollection({
       question: z.string(),
       answer: z.string(),
     })).optional(),
+    review: z.object({
+      itemName: z.string(),
+      itemType: z.string().default("Product"),
+      rating: z.number(),
+    }).optional(),
   }),
 });
 

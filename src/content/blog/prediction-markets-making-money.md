@@ -1,10 +1,17 @@
 ---
-title: "Can You Actually Make Money on Prediction Markets? Here's Our Real P&L"
+title: "Can You Make Money on Prediction Markets (2026)? Real P&L Data"
 description: "An honest look at prediction market profitability. Real numbers from active traders on what works and what doesn't."
 pubDate: 2026-02-22
 category: "strategies"
 tags: ["strategies", "kalshi", "beginners"]
 affiliate: "kalshi"
+faqs:
+  - question: "Can you actually make money on prediction markets?"
+    answer: "Yes, but most participants break even or lose money. Profitable traders typically earn 5% to 40% annualized returns depending on skill level and automation. The majority of profit comes from exiting positions before settlement."
+  - question: "What kind of returns are realistic in prediction markets?"
+    answer: "Informed casual traders can expect 5% to 15% annualized returns. Systematic traders with automation may achieve 15% to 40%. Most participants earn zero or slightly negative returns due to fees and behavioral biases."
+  - question: "How do fees affect prediction market profitability?"
+    answer: "Fees are the silent killer of profitability. Kalshi charges roughly 7 cents per round-trip trade. A trade with only 5 cents of gross profit becomes a net loss after fees. You need edges of at least 10 cents to justify entering a position."
 ---
 
 Let us get the uncomfortable question out of the way first: can you actually make money trading prediction markets? The answer is yes -- but with caveats that most promotional content about these platforms conveniently ignores. We trade prediction markets daily with automated systems and real capital, and the honest picture is more nuanced than "buy low, sell high, collect profits."

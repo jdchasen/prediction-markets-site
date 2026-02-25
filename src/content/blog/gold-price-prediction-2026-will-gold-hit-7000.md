@@ -5,6 +5,13 @@ pubDate: 2026-02-24
 category: "strategies"
 tags: ["strategies", "kalshi"]
 affiliate: "kalshi"
+faqs:
+  - question: "Will gold hit $7,000 in 2026?"
+    answer: "Prediction markets currently show mixed odds on gold reaching $7,000. Central bank buying, potential Fed rate cuts, and geopolitical instability support the bull case, while a strong dollar and reduced inflation fears could cap gains."
+  - question: "What is driving gold prices higher in 2026?"
+    answer: "The three biggest drivers are central bank gold purchases (China, India, and others diversifying away from USD reserves), expectations of Federal Reserve rate cuts making gold more attractive, and elevated geopolitical risk creating safe-haven demand."
+  - question: "How can I trade gold price predictions?"
+    answer: "Kalshi offers binary contracts on whether gold will reach specific price targets by specific dates. You can buy YES if you think gold will hit the target, or NO if you think it won't, with your maximum loss limited to what you pay for the contract."
 ---
 
 Gold has been on an absolute tear, and the question on every investor's mind is simple: how much higher can it go? Will gold actually hit $7,000 in 2026?
