@@ -388,6 +388,37 @@ const webPageSchema = {
   "description": data.metaDescription,
 };
 
+// Review schema for the winning platform — enables star ratings in SERPs
+const reviewedPlatform = data.verdictWinner === 'kalshi' ? 'Kalshi' : data.verdictWinner === 'polymarket' ? 'Polymarket' : null;
+const reviewRating = data.verdictWinner === 'kalshi' ? 4.5 : data.verdictWinner === 'polymarket' ? 4.5 : null;
+const compareReviewSchema = reviewedPlatform ? {
+  "@context": "https://schema.org",
+  "@type": "Review",
+  "name": `Kalshi vs Polymarket for ${catLabel}: Which Platform Is Better?`,
+  "reviewBody": data.verdict,
+  "datePublished": "2026-02-24",
+  "itemReviewed": {
+    "@type": "Product",
+    "name": `${reviewedPlatform} for ${catLabel} Trading`,
+    "image": "https://masterpredictionmarkets.com/og-default.png",
+  },
+  "reviewRating": {
+    "@type": "Rating",
+    "ratingValue": reviewRating,
+    "bestRating": 5,
+    "worstRating": 1,
+  },
+  "author": {
+    "@type": "Organization",
+    "name": "Master Prediction Markets",
+    "url": "https://masterpredictionmarkets.com",
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Master Prediction Markets",
+  },
+} : null;
+
 // Other categories for "More Comparisons" section
 const otherCategories = VALID_CATEGORIES.filter((c) => c !== category).slice(0, 4);
 ---
@@ -400,6 +431,9 @@ const otherCategories = VALID_CATEGORIES.filter((c) => c !== category).slice(0, 
     <script type="application/ld+json" set:html={JSON.stringify(faqSchema)} />
     <script type="application/ld+json" set:html={JSON.stringify(breadcrumbSchema)} />
     <script type="application/ld+json" set:html={JSON.stringify(webPageSchema)} />
+    {compareReviewSchema && (
+      <script type="application/ld+json" set:html={JSON.stringify(compareReviewSchema)} />
+    )}
   </Fragment>
 
   <!-- Breadcrumb -->
