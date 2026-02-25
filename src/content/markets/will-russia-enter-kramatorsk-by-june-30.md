@@ -4,7 +4,7 @@ description: "Will Russia enter Kramatorsk by June 30? Odds: 18.0% YES on Polyma
 marketQuestion: "Will Russia enter Kramatorsk by June 30?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-02-24
+lastUpdated: 2026-02-25
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
 polymarketYes: 18.0

@@ -3,8 +3,8 @@ title: "Will annual inflation increase by 2.2% in February?"
 description: "Will annual inflation increase by 2.2% in February? Odds: 2.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will annual inflation increase by 2.2% in February?"
 category: "economics"
-status: "active"
-lastUpdated: 2026-02-24
+status: "settled"
+lastUpdated: 2026-02-25
 expiryDate: 2026-03-11
 tags: ["economics", "polymarket", "sports"]
 polymarketYes: 2.9

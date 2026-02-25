@@ -3,8 +3,8 @@ title: "Will Axiom be accused of insider trading?"
 description: "Will Axiom be accused of insider trading? Odds: 10.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Axiom be accused of insider trading?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-02-24
+status: "settled"
+lastUpdated: 2026-02-25
 tags: ["politics", "polymarket"]
 polymarketYes: 10.4
 polymarketNo: 89.5

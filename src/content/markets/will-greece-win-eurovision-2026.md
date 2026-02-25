@@ -1,34 +1,34 @@
 ---
-title: "Israel strike on Yemen by March 31, 2026?"
-description: "Israel strike on Yemen by March 31, 2026? Odds: 40.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Israel strike on Yemen by March 31, 2026?"
+title: "Will Greece win Eurovision 2026?"
+description: "Will Greece win Eurovision 2026? Odds: 14.8% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Greece win Eurovision 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-02-25
-expiryDate: 2026-03-31
+expiryDate: 2026-05-16
 tags: ["politics", "polymarket"]
-polymarketYes: 40.5
-polymarketNo: 59.5
-polymarketVolume: 97932
-polymarketUrl: "https://polymarket.com/event/israel-strike-on-yemen-by-march-31-2026"
+polymarketYes: 14.8
+polymarketNo: 85.2
+polymarketVolume: 98197
+polymarketUrl: "https://polymarket.com/event/will-greece-win-eurovision-2026"
 ---
 
-**"Israel strike on Yemen by March 31, 2026?"** is considered unlikely by the market, with odds leaning toward NO. Here's a breakdown of the current odds across prediction market platforms, updated as of February 25, 2026.
+**"Will Greece win Eurovision 2026?"** is viewed as quite unlikely by traders, with strong odds favoring a NO outcome. Here's a breakdown of the current odds across prediction market platforms, updated as of February 25, 2026.
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 40.5% | 59.5% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 14.8% | 85.2% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Key Dates
 
-- **Market Expiry**: March 31, 2026 (34 days from now)
-- **Midpoint Check**: March 14, 2026 — reassess position
+- **Market Expiry**: May 16, 2026 (80 days from now)
+- **Midpoint Check**: April 06, 2026 — reassess position
 
 ## What the Odds Mean
 
-At **40%**, this market is genuinely uncertain — close to a toss-up. These are often the most interesting markets to trade because the potential for price movement in either direction is high.
+At **15%**, the market considers this outcome unlikely. Contrarian YES positions are cheap but high-risk. If you have a strong thesis that the market is wrong, these low-probability markets can offer outsized returns.
 
 ## Related Markets
 
@@ -47,9 +47,9 @@ On **[Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Israel strike on Yemen by March 31, 2026?"?
+### What are the current odds for "Will Greece win Eurovision 2026?"?
 
-As of February 25, 2026, Polymarket prices YES at 40.5%. This is based on real-money trading activity.
+As of February 25, 2026, Polymarket prices YES at 14.8%. This is based on real-money trading activity.
 
 ### Where can I trade on this prediction market?
 

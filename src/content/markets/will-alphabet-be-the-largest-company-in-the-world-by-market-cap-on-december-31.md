@@ -4,12 +4,12 @@ description: "Will Alphabet be the largest company in the world by market cap on
 marketQuestion: "Will Alphabet be the largest company in the world by market cap on December 31?"
 category: "finance"
 status: "active"
-lastUpdated: 2026-02-24
+lastUpdated: 2026-02-25
 expiryDate: 2026-12-31
 tags: ["finance", "polymarket"]
 polymarketYes: 24.5
 polymarketNo: 75.5
-polymarketVolume: 99415
+polymarketVolume: 99468
 polymarketUrl: "https://polymarket.com/event/will-alphabet-be-the-largest-company-in-the-world-by-market-cap-on-december-31-872"
 ---
 

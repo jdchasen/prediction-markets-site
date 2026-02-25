@@ -4,12 +4,12 @@ description: "Will there be exactly 3 earthquakes of magnitude 7.0 or higher wor
 marketQuestion: "Will there be exactly 3 earthquakes of magnitude 7.0 or higher worldwide by June 30?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-02-24
+lastUpdated: 2026-02-25
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
 polymarketYes: 1.1
 polymarketNo: 98.9
-polymarketVolume: 96780
+polymarketVolume: 98331
 polymarketUrl: "https://polymarket.com/event/will-there-be-exactly-3-earthquakes-of-magnitude-7pt0-or-higher-worldwide-by-june-30"
 ---
 

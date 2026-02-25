@@ -3,8 +3,8 @@ title: "Will Syria join the Abraham Accords before 2027?"
 description: "Will Syria join the Abraham Accords before 2027? Odds: 18.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Syria join the Abraham Accords before 2027?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-02-24
+status: "settled"
+lastUpdated: 2026-02-25
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 18.5

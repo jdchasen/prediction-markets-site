@@ -4,7 +4,7 @@ description: "Will Elle Fanning win Best Supporting Actress at the 98th Academy 
 marketQuestion: "Will Elle Fanning win Best Supporting Actress at the 98th Academy Awards?"
 category: "entertainment"
 status: "active"
-lastUpdated: 2026-02-24
+lastUpdated: 2026-02-25
 expiryDate: 2026-03-15
 tags: ["entertainment", "polymarket"]
 polymarketYes: 1.8

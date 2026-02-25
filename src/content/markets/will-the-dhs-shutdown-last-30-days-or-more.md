@@ -3,8 +3,8 @@ title: "Will the DHS shutdown last 30 days or more?"
 description: "Will the DHS shutdown last 30 days or more? Odds: 64.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the DHS shutdown last 30 days or more?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-02-24
+status: "settled"
+lastUpdated: 2026-02-25
 expiryDate: 2026-03-14
 tags: ["politics", "polymarket"]
 polymarketYes: 64.0

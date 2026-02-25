@@ -4,12 +4,12 @@ description: "Will Elon Musk post 0-19 tweets in March 2026? Odds: 0.1% YES on P
 marketQuestion: "Will Elon Musk post 0-19 tweets in March 2026?"
 category: "tech"
 status: "active"
-lastUpdated: 2026-02-24
+lastUpdated: 2026-02-25
 expiryDate: 2026-04-01
 tags: ["polymarket", "tech"]
 polymarketYes: 0.1
 polymarketNo: 99.9
-polymarketVolume: 97905
+polymarketVolume: 98077
 polymarketUrl: "https://polymarket.com/event/elon-musk-of-tweets-march-2026-0-19"
 ---
 

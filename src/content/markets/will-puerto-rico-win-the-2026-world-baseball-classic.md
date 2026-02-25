@@ -1,34 +1,33 @@
 ---
-title: "Israel strike on Yemen by March 31, 2026?"
-description: "Israel strike on Yemen by March 31, 2026? Odds: 40.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Israel strike on Yemen by March 31, 2026?"
+title: "Will Puerto Rico win the 2026 World Baseball Classic?"
+description: "Will Puerto Rico win the 2026 World Baseball Classic? Odds: 3.4% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Puerto Rico win the 2026 World Baseball Classic?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-02-25
-expiryDate: 2026-03-31
+expiryDate: 2026-03-17
 tags: ["politics", "polymarket"]
-polymarketYes: 40.5
-polymarketNo: 59.5
-polymarketVolume: 97932
-polymarketUrl: "https://polymarket.com/event/israel-strike-on-yemen-by-march-31-2026"
+polymarketYes: 3.4
+polymarketNo: 96.7
+polymarketVolume: 99106
+polymarketUrl: "https://polymarket.com/event/will-puerto-rico-win-the-2026-world-baseball-classic"
 ---
 
-**"Israel strike on Yemen by March 31, 2026?"** is considered unlikely by the market, with odds leaning toward NO. Here's a breakdown of the current odds across prediction market platforms, updated as of February 25, 2026.
+**"Will Puerto Rico win the 2026 World Baseball Classic?"** is considered extremely unlikely by the market, with minimal chance of a YES resolution. Here's a breakdown of the current odds across prediction market platforms, updated as of February 25, 2026.
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 40.5% | 59.5% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 3.4% | 96.7% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Key Dates
 
-- **Market Expiry**: March 31, 2026 (34 days from now)
-- **Midpoint Check**: March 14, 2026 — reassess position
+- **Market Expiry**: March 17, 2026 (20 days from now)
 
 ## What the Odds Mean
 
-At **40%**, this market is genuinely uncertain — close to a toss-up. These are often the most interesting markets to trade because the potential for price movement in either direction is high.
+At **3%**, the market considers this outcome unlikely. Contrarian YES positions are cheap but high-risk. If you have a strong thesis that the market is wrong, these low-probability markets can offer outsized returns.
 
 ## Related Markets
 
@@ -47,9 +46,9 @@ On **[Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Israel strike on Yemen by March 31, 2026?"?
+### What are the current odds for "Will Puerto Rico win the 2026 World Baseball Classic?"?
 
-As of February 25, 2026, Polymarket prices YES at 40.5%. This is based on real-money trading activity.
+As of February 25, 2026, Polymarket prices YES at 3.4%. This is based on real-money trading activity.
 
 ### Where can I trade on this prediction market?
 
