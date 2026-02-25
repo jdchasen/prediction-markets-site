@@ -5,6 +5,10 @@ pubDate: 2026-02-22
 category: "kalshi"
 tags: ["kalshi", "strategies"]
 affiliate: "kalshi"
+review:
+  itemName: "Kalshi"
+  itemType: "Product"
+  rating: 4.0
 faqs:
   - question: "How much does Kalshi charge per trade?"
     answer: "Kalshi charges $0.02 per contract per side. A round-trip trade (buy and sell) costs $0.04 per contract in total fees. There are no monthly, inactivity, or withdrawal fees."

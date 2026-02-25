@@ -5,6 +5,10 @@ pubDate: 2026-02-22
 category: "kalshi"
 tags: ["kalshi", "beginners"]
 affiliate: "kalshi"
+review:
+  itemName: "Kalshi"
+  itemType: "Product"
+  rating: 4.5
 faqs:
   - question: "Is Kalshi legal in the United States?"
     answer: "Yes. Kalshi is the first CFTC-regulated designated contract market (DCM) for event contracts in the US. Trading on Kalshi is legal in the vast majority of US states."
