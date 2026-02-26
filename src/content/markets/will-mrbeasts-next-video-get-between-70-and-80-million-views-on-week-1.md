@@ -4,12 +4,12 @@ description: "Will MrBeast's next video get between 70 and 80 million views on w
 marketQuestion: "Will MrBeast's next video get between 70 and 80 million views on week 1?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-02-25
+lastUpdated: 2026-02-26
 expiryDate: 2026-05-31
 tags: ["politics", "polymarket"]
 polymarketYes: 0.1
 polymarketNo: 100.0
-polymarketVolume: 99275
+polymarketVolume: 99325
 polymarketUrl: "https://polymarket.com/event/will-mrbeasts-next-video-get-between-70-and-80-million-views-on-week-1-662"
 ---
 

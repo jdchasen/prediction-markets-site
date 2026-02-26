@@ -1,24 +1,30 @@
 ---
-title: "Will Hyperliquid be accused of insider trading?"
-description: "Will Hyperliquid be accused of insider trading? Odds: 0.9% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Hyperliquid be accused of insider trading?"
+title: "Will Portugal win Eurovision 2026?"
+description: "Will Portugal win Eurovision 2026? Odds: 0.6% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Portugal win Eurovision 2026?"
 category: "politics"
-status: "settled"
+status: "active"
 lastUpdated: 2026-02-26
+expiryDate: 2026-05-16
 tags: ["politics", "polymarket"]
-polymarketYes: 0.9
-polymarketNo: 99.2
-polymarketVolume: 976971
-polymarketUrl: "https://polymarket.com/event/will-hyperliquid-be-accused-of-insider-trading"
+polymarketYes: 0.6
+polymarketNo: 99.4
+polymarketVolume: 96680
+polymarketUrl: "https://polymarket.com/event/will-portugal-win-eurovision-2026"
 ---
 
-**"Will Hyperliquid be accused of insider trading?"** is considered extremely unlikely by the market, with minimal chance of a YES resolution. Here's a breakdown of the current odds across prediction market platforms, updated as of February 25, 2026.
+**"Will Portugal win Eurovision 2026?"** is considered extremely unlikely by the market, with minimal chance of a YES resolution. Here's a breakdown of the current odds across prediction market platforms, updated as of February 26, 2026.
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.9% | 99.2% | $977K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.6% | 99.4% | $97K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+
+## Key Dates
+
+- **Market Expiry**: May 16, 2026 (79 days from now)
+- **Midpoint Check**: April 06, 2026 — reassess position
 
 ## What the Odds Mean
 
@@ -26,9 +32,9 @@ At **1%**, the market considers this outcome unlikely. Contrarian YES positions 
 
 ## Related Markets
 
-- [Will Stephen A. Smith win the 2028 Democratic presidential nomination?](/odds/will-stephen-a-smith-win-the-2028-democratic-presidential-nomination) — 1% YES
-- [Will MrBeast's next video get between 70 and 80 million views on week 1?](/odds/will-mrbeasts-next-video-get-between-70-and-80-million-views-on-week-1) — 0% YES
-- [Will Puerto Rico win the 2026 World Baseball Classic?](/odds/will-puerto-rico-win-the-2026-world-baseball-classic) — 3% YES
+- [Will Stephen A. Smith win the 2028 Democratic presidential nomination?](/odds/will-stephen-a-smith-win-the-2028-democratic-presidential-nomination) — 2% YES
+- [Will the US confirm that aliens exist before 2027?](/odds/will-the-us-confirm-that-aliens-exist-before-2027) — 16% YES
+- [Will Thomas Massie win the 2028 Republican presidential nomination?](/odds/will-thomas-massie-win-the-2028-republican-presidential-nomination) — 2% YES
 
 ## How to Trade This Market
 
@@ -41,9 +47,9 @@ On **[Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Hyperliquid be accused of insider trading?"?
+### What are the current odds for "Will Portugal win Eurovision 2026?"?
 
-As of February 25, 2026, Polymarket prices YES at 0.9%. This is based on real-money trading activity.
+As of February 26, 2026, Polymarket prices YES at 0.6%. This is based on real-money trading activity.
 
 ### Where can I trade on this prediction market?
 

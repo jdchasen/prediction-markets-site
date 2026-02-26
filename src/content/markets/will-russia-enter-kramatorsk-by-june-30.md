@@ -1,15 +1,15 @@
 ---
 title: "Will Russia enter Kramatorsk by June 30?"
-description: "Will Russia enter Kramatorsk by June 30? Odds: 18.0% YES on Polymarket. See live prices and trade this market."
+description: "Will Russia enter Kramatorsk by June 30? Odds: 17.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Russia enter Kramatorsk by June 30?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-02-25
+lastUpdated: 2026-02-26
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
-polymarketYes: 18.0
-polymarketNo: 82.0
-polymarketVolume: 96918
+polymarketYes: 17.5
+polymarketNo: 82.5
+polymarketVolume: 97141
 polymarketUrl: "https://polymarket.com/event/will-russia-enter-kramatorsk-by-june-30-821-192"
 ---
 

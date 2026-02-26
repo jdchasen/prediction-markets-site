@@ -3,8 +3,8 @@ title: "Will Chinese Taipei win the 2026 World Baseball Classic?"
 description: "Will Chinese Taipei win the 2026 World Baseball Classic? Odds: 1.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Chinese Taipei win the 2026 World Baseball Classic?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-02-25
+status: "settled"
+lastUpdated: 2026-02-26
 expiryDate: 2026-03-17
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 1.1

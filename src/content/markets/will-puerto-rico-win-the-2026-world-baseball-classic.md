@@ -3,8 +3,8 @@ title: "Will Puerto Rico win the 2026 World Baseball Classic?"
 description: "Will Puerto Rico win the 2026 World Baseball Classic? Odds: 3.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Puerto Rico win the 2026 World Baseball Classic?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-02-25
+status: "settled"
+lastUpdated: 2026-02-26
 expiryDate: 2026-03-17
 tags: ["politics", "polymarket"]
 polymarketYes: 3.4

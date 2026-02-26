@@ -3,8 +3,8 @@ title: "Bank of Japan decreases interest rates after the April 2026 meeting?"
 description: "Bank of Japan decreases interest rates after the April 2026 meeting? Odds: 1.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Bank of Japan decreases interest rates after the April 2026 meeting?"
 category: "economics"
-status: "active"
-lastUpdated: 2026-02-25
+status: "settled"
+lastUpdated: 2026-02-26
 expiryDate: 2026-04-28
 tags: ["economics", "interest-rates", "polymarket"]
 polymarketYes: 1.4

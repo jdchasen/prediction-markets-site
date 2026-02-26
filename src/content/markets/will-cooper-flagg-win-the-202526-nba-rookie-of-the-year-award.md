@@ -3,8 +3,8 @@ title: "Will Cooper Flagg win the 2025–26 NBA Rookie of the Year award?"
 description: "Will Cooper Flagg win the 2025–26 NBA Rookie of the Year award? Odds: 68.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Cooper Flagg win the 2025–26 NBA Rookie of the Year award?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-02-25
+status: "settled"
+lastUpdated: 2026-02-26
 expiryDate: 2026-05-18
 tags: ["polymarket", "sports"]
 polymarketYes: 68.0

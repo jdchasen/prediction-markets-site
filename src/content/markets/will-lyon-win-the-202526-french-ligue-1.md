@@ -1,30 +1,30 @@
 ---
-title: "Will Opinion launch a token on March 24?"
-description: "Will Opinion launch a token on March 24? Odds: 2.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Opinion launch a token on March 24?"
-category: "crypto"
+title: "Will Lyon win the 2025–26 French Ligue 1?"
+description: "Will Lyon win the 2025–26 French Ligue 1? Odds: 2.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Lyon win the 2025–26 French Ligue 1?"
+category: "sports"
 status: "active"
 lastUpdated: 2026-02-26
-expiryDate: 2026-04-01
-tags: ["crypto", "polymarket"]
+expiryDate: 2026-05-30
+tags: ["polymarket", "sports"]
 polymarketYes: 2.5
 polymarketNo: 97.5
-polymarketVolume: 99216
-polymarketUrl: "https://polymarket.com/event/will-opinion-launch-a-token-on-march-24"
+polymarketVolume: 97844
+polymarketUrl: "https://polymarket.com/event/will-lyon-win-the-202526-french-ligue-1"
 ---
 
-**"Will Opinion launch a token on March 24?"** is considered extremely unlikely by the market, with minimal chance of a YES resolution. Here's a breakdown of the current odds across prediction market platforms, updated as of February 26, 2026.
+**"Will Lyon win the 2025–26 French Ligue 1?"** is considered extremely unlikely by the market, with minimal chance of a YES resolution. Here's a breakdown of the current odds across prediction market platforms, updated as of February 26, 2026.
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 2.5% | 97.5% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 2.5% | 97.5% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Key Dates
 
-- **Market Expiry**: April 01, 2026 (34 days from now)
-- **Midpoint Check**: March 15, 2026 — reassess position
+- **Market Expiry**: May 30, 2026 (93 days from now)
+- **Midpoint Check**: April 13, 2026 — reassess position
 
 ## What the Odds Mean
 
@@ -32,9 +32,9 @@ At **2%**, the market considers this outcome unlikely. Contrarian YES positions 
 
 ## Related Markets
 
-- [Backpack FDV above $4B one day after launch?](/odds/backpack-fdv-above-4b-one-day-after-launch) — 1% YES
-- [Will Ethereum reach $4,500 by December 31, 2026?](/odds/will-ethereum-reach-4500-by-december-31-2026) — 18% YES
-- [Will Ostium launch a token by December 31, 2026?](/odds/will-ostium-launch-a-token-by-december-31-2026) — 80% YES
+- [Will Newcastle win the 2025–26 English Premier League?](/odds/will-newcastle-win-the-202526-english-premier-league) — 0% YES
+- [Will Anthony Edwards win the 2025–2026 NBA MVP?](/odds/will-anthony-edwards-win-the-20252026-nba-mvp) — 0% YES
+- [Will Sweden qualify for the 2026 FIFA World Cup?](/odds/will-sweden-qualify-for-the-2026-fifa-world-cup) — 27% YES
 
 ## How to Trade This Market
 
@@ -43,11 +43,11 @@ On **[Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&
 ## Learn More
 
 - [Will Ethereum Reach $4,500 in 2026? What Prediction Markets Say](/blog/will-ethereum-reach-4500-in-2026-what-prediction-markets-say)
-- [Will Bitcoin Hit $75,000 in 2026? Price Prediction and Market Odds](/blog/will-bitcoin-hit-75000-in-2026-price-prediction-and-market-odds)
+- [Will Discord IPO in 2026? What Prediction Markets Say](/blog/will-discord-ipo-in-2026-what-prediction-markets-say)
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Opinion launch a token on March 24?"?
+### What are the current odds for "Will Lyon win the 2025–26 French Ligue 1?"?
 
 As of February 26, 2026, Polymarket prices YES at 2.5%. This is based on real-money trading activity.
 

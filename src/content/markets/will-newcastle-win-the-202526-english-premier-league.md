@@ -4,12 +4,12 @@ description: "Will Newcastle win the 2025–26 English Premier League? Odds: 0.1
 marketQuestion: "Will Newcastle win the 2025–26 English Premier League?"
 category: "sports"
 status: "active"
-lastUpdated: 2026-02-25
+lastUpdated: 2026-02-26
 expiryDate: 2026-05-27
 tags: ["polymarket", "sports"]
 polymarketYes: 0.1
 polymarketNo: 99.9
-polymarketVolume: 9685416
+polymarketVolume: 9748002
 polymarketUrl: "https://polymarket.com/event/will-newcastle-win-the-202526-english-premier-league"
 ---
 

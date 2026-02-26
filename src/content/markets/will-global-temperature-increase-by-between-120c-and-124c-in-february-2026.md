@@ -3,8 +3,8 @@ title: "Will global temperature increase by between 1.20ºC and 1.24ºC in Febru
 description: "Will global temperature increase by between 1.20ºC and 1.24ºC in February 2026? Odds: 21.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will global temperature increase by between 1.20ºC and 1.24ºC in February 2026?"
 category: "science"
-status: "active"
-lastUpdated: 2026-02-25
+status: "settled"
+lastUpdated: 2026-02-26
 expiryDate: 2026-03-10
 tags: ["polymarket", "science", "weather"]
 polymarketYes: 21.0

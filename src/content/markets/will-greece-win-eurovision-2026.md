@@ -3,8 +3,8 @@ title: "Will Greece win Eurovision 2026?"
 description: "Will Greece win Eurovision 2026? Odds: 14.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Greece win Eurovision 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-02-25
+status: "settled"
+lastUpdated: 2026-02-26
 expiryDate: 2026-05-16
 tags: ["politics", "polymarket"]
 polymarketYes: 14.8

@@ -1,15 +1,15 @@
 ---
 title: "Israel strike on Yemen by March 31, 2026?"
-description: "Israel strike on Yemen by March 31, 2026? Odds: 40.5% YES on Polymarket. See live prices and trade this market."
+description: "Israel strike on Yemen by March 31, 2026? Odds: 42.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Israel strike on Yemen by March 31, 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-02-25
+lastUpdated: 2026-02-26
 expiryDate: 2026-03-31
 tags: ["politics", "polymarket"]
-polymarketYes: 40.5
-polymarketNo: 59.5
-polymarketVolume: 97932
+polymarketYes: 42.5
+polymarketNo: 57.5
+polymarketVolume: 98322
 polymarketUrl: "https://polymarket.com/event/israel-strike-on-yemen-by-march-31-2026"
 ---
 
