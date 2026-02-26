@@ -5,6 +5,13 @@ pubDate: 2026-02-25
 category: "strategies"
 tags: ["daily", "kalshi", "polymarket"]
 affiliate: "kalshi"
+faqs:
+  - question: "What are prediction markets saying about a US strike on Iran?"
+    answer: "Traders have built a probability staircase across three timelines: 1.1% by Feb 25, 2.5% by Feb 26, 10.5% by Feb 28, and 60.5% by March 31. Over $9.5 million in 24-hour volume across these markets indicates serious positioning."
+  - question: "Why does the Bitcoin $150K February market still have $3.9M in volume?"
+    answer: "Despite trading at 0.1% with only days left, traders are managing existing positions and unwinding earlier bets. High volume on near-certain outcomes reflects exit mechanics, not new speculation."
+  - question: "What do prediction markets say about the Fed's March 2026 meeting?"
+    answer: "Both rate hike and rate cut scenarios trade below 1% with $3.5 million in combined daily volume, pricing in near-zero chance of major Fed action at the March meeting."
 ---
 
 When a geopolitical question pulls in $4 million in a single day, you pay attention. But when traders have laddered their bets across three different strike dates—today, tomorrow, and Friday—creating what amounts to a real-time probability staircase, you're watching something genuinely fascinating unfold.
