@@ -157,6 +157,13 @@ def format_polymarket_data(events: list[dict], markets: list[dict]) -> str:
         for m in sub_markets[:8]:
             prices = json.loads(m.get("outcomePrices", "[]"))
             yes_price = prices[0] if prices else "N/A"
+            # Skip near-zero-probability markets (under 5% or over 95%)
+            try:
+                yp = float(yes_price)
+                if yp < 0.05 or yp > 0.95:
+                    continue
+            except (ValueError, TypeError):
+                pass
             group_title = m.get("groupItemTitle", "") or m.get("question", "")[:80]
             m_vol24 = m.get("volume24hr", 0)
             m_vol = m.get("volumeNum", 0)
@@ -164,15 +171,26 @@ def format_polymarket_data(events: list[dict], markets: list[dict]) -> str:
         lines.append("")
 
     lines.append("\n### Top Individual Markets by 24h Volume\n")
-    for m in markets[:20]:
+    shown = 0
+    for m in markets:
+        if shown >= 20:
+            break
         prices = json.loads(m.get("outcomePrices", "[]"))
         yes_price = prices[0] if prices else "N/A"
+        # Skip near-zero-probability markets (under 5% or over 95%)
+        try:
+            yp = float(yes_price)
+            if yp < 0.05 or yp > 0.95:
+                continue
+        except (ValueError, TypeError):
+            pass
         title = m.get("groupItemTitle", "") or m.get("question", "")[:80]
         event_info = m.get("events", [{}])
         event_title = event_info[0].get("title", "") if event_info else ""
         vol_24h = m.get("volume24hr", 0)
         vol_total = m.get("volumeNum", 0)
         lines.append(f"- {title} [{event_title}]: YES={yes_price} | 24h=${vol_24h:,.0f} | total=${vol_total:,.0f}")
+        shown += 1
 
     return "\n".join(lines)
 
@@ -191,9 +209,13 @@ def format_kalshi_data(events: list[dict], series_data: dict[str, list[dict]]) -
         top_vol = sum(m.get("volume_24h", 0) for m in sub_markets)
         lines.append(f"**{title}** (category: {category}, ticker: {ticker}, combined 24h vol: {top_vol})")
         for m in sub_markets[:5]:
+            price = m.get('last_price', 0) or 0
+            # Skip near-zero or near-certain markets
+            if price < 5 or price > 95:
+                continue
             lines.append(
                 f"  - {m.get('title', '')[:80]} | "
-                f"price={m.get('last_price', 0)} | "
+                f"price={price} | "
                 f"vol24h={m.get('volume_24h', 0)} | "
                 f"yes_bid={m.get('yes_bid', 0)} yes_ask={m.get('yes_ask', 0)}"
             )
@@ -258,7 +280,8 @@ After the frontmatter closing `---`, the body starts DIRECTLY with an opening pa
 2. **3-5 H2 sections**: Each covering a distinct market theme (geopolitics, economics, crypto, sports, policy, etc.). Pick the most newsworthy/highest-volume themes from the data. Each section should:
    - Lead with why it's interesting, then bring in the numbers
    - Use markdown tables when comparing related contracts (keep tables clean and simple)
-   - Give the reader a quick opinion or takeaway — don't just dump data
+   - Give the reader a concrete betting angle — which side, why, and the risk/reward
+   - End with a one-liner on the catalyst to watch or when to enter
    - Where relevant, link to an internal article or tool (see list below)
 3. **Final H2: "What to Watch"**: 3-4 bullet points of upcoming catalysts. Keep them punchy — one sentence each if possible.
 
@@ -269,9 +292,18 @@ After the frontmatter closing `---`, the body starts DIRECTLY with an opening pa
 - Include 2-4 internal links per post, chosen contextually.
 - Do NOT include sports game-by-game results unless there's a genuinely interesting storyline.
 - Focus on markets that matter: geopolitics, economics, crypto, policy, elections. Sports only if the volume or story is notable.
+- SKIP markets priced under 5% or over 95% — these are essentially decided. Nobody wants to read about a 1-cent longshot. Focus on markets in the 10-90% range where there's genuine uncertainty and real trading opportunity.
 - Skip markets with near-zero volume or that have already resolved.
 - Do NOT include an H1 (#) header in the body. Start with a paragraph, then use only H2 (##) headers.
 - Keep the total post concise — aim for engaging, not exhaustive. Cut any section that feels like filler.
+
+## Actionable betting angles
+Every H2 section MUST include a concrete "how to bet" angle. Don't just report the odds — tell readers:
+- Which side looks interesting and why (e.g., "YES at 35% looks cheap if you think the Fed holds")
+- What catalysts could move the price (e.g., "Watch Friday's jobs report — a miss could push this from 40% to 60% overnight")
+- Where to trade it (Kalshi or Polymarket, with the referral link)
+- Risk/reward framing (e.g., "You're risking 35 cents to win 65 — that's nearly 2:1 if you believe X")
+Be opinionated. The reader came here for takes, not a Wikipedia summary. If a market looks mispriced, say so and explain why.
 
 ## Affiliate links (use EXACTLY these URLs)
 - Kalshi: {kalshi_ref}
@@ -363,8 +395,8 @@ def main():
 
     # Fetch data
     print("[INFO] Fetching Polymarket data...")
-    poly_events = fetch_polymarket_events(limit=15)
-    poly_markets = fetch_polymarket_markets(limit=30)
+    poly_events = fetch_polymarket_events(limit=25)
+    poly_markets = fetch_polymarket_markets(limit=50)
 
     print("[INFO] Fetching Kalshi data...")
     kalshi_events = fetch_kalshi_events(limit=20)
