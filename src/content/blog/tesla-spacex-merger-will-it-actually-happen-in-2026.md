@@ -14,7 +14,7 @@ faqs:
     answer: "Prediction markets like Kalshi and Polymarket offer binary contracts on whether the merger will be officially announced by a specific date. You can buy YES (merger happens) or NO (it doesn't) with defined risk."
 ---
 
-A Tesla-SpaceX merger. Just saying it out loud sounds like the plot of a sci-fi movie written by a finance bro. But it's not science fiction anymore — it's an actively traded prediction market contract with real money behind it. The question isn't "would it be cool?" (obviously) but "is it actually going to happen?"
+A Tesla-SpaceX merger. Just saying it out loud sounds like the plot of a sci-fi movie written by a finance bro. But it's not science fiction anymore — it's an actively traded contract on [Kalshi](https://kalshi.com/sign-up/?referral=f2e21ad4-75b7-4ffb-bfcc-f2fb36e07b21&m=true&utm_source=masterpredictionmarkets&utm_medium=blog&utm_campaign=signup) and [Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=blog&utm_campaign=signup) with real money behind it. The question isn't "would it be cool?" (obviously) but "is it actually going to happen?"
 
 [Check the current merger odds here](/odds/tesla-and-spacex-merger-officially-announced-by-june-30). Spoiler: the market has thoughts.
 

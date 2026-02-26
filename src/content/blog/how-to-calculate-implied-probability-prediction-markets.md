@@ -1,10 +1,21 @@
 ---
 title: "How to Calculate Implied Probability in Prediction Markets (With Worked Examples)"
-description: "Step-by-step guide to converting prediction market prices into implied probabilities, calculating expected value, and accounting for fees. Includes worked examples for Kalshi and Polymarket."
+description: "Convert prediction market prices into implied probabilities, calculate expected value, and account for fees. Worked examples for Kalshi and Polymarket."
 pubDate: 2026-02-24
 category: "strategies"
 tags: ["strategies", "probability", "beginners", "kalshi"]
 affiliate: "kalshi"
+howToSteps:
+  - name: "Convert contract price to implied probability"
+    text: "Divide the contract price by $1.00. A contract trading at $0.65 implies a 65% probability the event occurs."
+  - name: "Estimate your own probability"
+    text: "Use data, models, or domain expertise to form an independent probability estimate for the event."
+  - name: "Calculate breakeven probability with fees"
+    text: "Apply the formula Breakeven = Cost / (Cost + (1 - Cost) x 0.93) for Kalshi's 7% fee to find the minimum true probability needed for profitability."
+  - name: "Compute expected value"
+    text: "Use EV = (Your Probability x Net Win) - ((1 - Your Probability) x Cost). Only trade when EV is clearly positive."
+  - name: "Size the position with Kelly criterion"
+    text: "Use the Kelly criterion to determine how many contracts to buy based on your edge magnitude and total bankroll."
 faqs:
   - question: "How do you calculate implied probability from prediction market prices?"
     answer: "For a binary contract, the implied probability equals the contract price. A Yes contract trading at $0.65 implies a 65% probability. For more precision, account for the bid-ask spread by using the midpoint price."

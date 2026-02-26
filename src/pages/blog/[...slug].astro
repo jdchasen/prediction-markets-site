@@ -4,6 +4,7 @@ import TableOfContents from '../../components/TableOfContents.astro';
 import CTABanner from '../../components/CTABanner.astro';
 import NewsletterForm from '../../components/NewsletterForm.astro';
 import ArticleCard from '../../components/ArticleCard.astro';
+import SocialShare from '../../components/SocialShare.astro';
 import { getCollection, render } from 'astro:content';
 
 export async function getStaticPaths() {
@@ -22,14 +23,24 @@ const { Content, headings } = await render(post);
 
 const now = new Date();
 const allPosts = await getCollection('blog');
-const relatedPosts = allPosts
-  .filter((p) => p.id !== post.id && p.data.category === post.data.category && p.data.pubDate.valueOf() <= now.valueOf())
-  .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
-  .slice(0, 3);
+const publishedPosts = allPosts.filter((p) => p.id !== post.id && p.data.pubDate.valueOf() <= now.valueOf());
+
+// Score related posts: category match + tag overlap
+const postTags = new Set(post.data.tags.map((t: string) => t.toLowerCase()));
+const scoredPosts = publishedPosts.map((p) => {
+  let score = 0;
+  if (p.data.category === post.data.category) score += 3;
+  const tagOverlap = p.data.tags.filter((t: string) => postTags.has(t.toLowerCase())).length;
+  score += tagOverlap;
+  return { post: p, score };
+});
+const relatedPosts = scoredPosts
+  .sort((a, b) => b.score - a.score || b.post.data.pubDate.valueOf() - a.post.data.pubDate.valueOf())
+  .slice(0, 3)
+  .map(({ post }) => post);
 
 // Related markets — match by tag overlap (same approach odds pages use for blog linking)
 const allMarkets = await getCollection('markets');
-const postTags = new Set(post.data.tags.map((t: string) => t.toLowerCase()));
 const relatedMarkets = allMarkets
   .filter((m) => m.data.status === 'active')
   .map((m) => {
@@ -71,6 +82,7 @@ const formattedDate = post.data.pubDate.toLocaleDateString('en-US', {
 });
 
 const affiliatePlatform = post.data.affiliate as 'kalshi' | 'polymarket' | 'generic' | undefined;
+const postUrl = new URL(`/blog/${post.id}`, Astro.site).href;
 
 const breadcrumbSchema = {
   "@context": "https://schema.org",
@@ -96,7 +108,7 @@ const breadcrumbSchema = {
   ],
 };
 
-const faqSchema = post.data.faqs?.length ? {
+const faqSchema = post.data.faqs.length ? {
   "@context": "https://schema.org",
   "@type": "FAQPage",
   "mainEntity": post.data.faqs.map((faq: { question: string; answer: string }) => ({
@@ -106,6 +118,19 @@ const faqSchema = post.data.faqs?.length ? {
       "@type": "Answer",
       "text": faq.answer,
     },
+  })),
+} : null;
+
+const howToSchema = post.data.howToSteps?.length ? {
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "name": post.data.title,
+  "description": post.data.description,
+  "step": post.data.howToSteps.map((step: { name: string; text: string }, i: number) => ({
+    "@type": "HowToStep",
+    "position": i + 1,
+    "name": step.name,
+    "text": step.text,
   })),
 } : null;
 
@@ -152,6 +177,9 @@ const reviewSchema = post.data.review ? {
     )}
     {reviewSchema && (
       <script type="application/ld+json" set:html={JSON.stringify(reviewSchema)} />
+    )}
+    {howToSchema && (
+      <script type="application/ld+json" set:html={JSON.stringify(howToSchema)} />
     )}
   </Fragment>
 
@@ -203,6 +231,8 @@ const reviewSchema = post.data.review ? {
         </div>
       </div>
     )}
+
+    <SocialShare title={post.data.title} url={postUrl} />
   </article>
 
   {relatedPosts.length > 0 && (

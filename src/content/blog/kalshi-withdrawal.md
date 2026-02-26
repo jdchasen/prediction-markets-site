@@ -1,10 +1,19 @@
 ---
 title: "How to Withdraw from Kalshi (2026): Timeline, Methods & Tips"
-description: "Everything about withdrawing money from Kalshi — processing times, bank transfers, and tips to avoid delays."
+description: "How to withdraw money from Kalshi via ACH or wire transfer, with real processing times, common delay causes, and tips to get your funds faster."
 pubDate: 2026-02-22
 category: "kalshi"
 tags: ["kalshi", "beginners"]
 affiliate: "kalshi"
+howToSteps:
+  - name: "Verify your bank account is linked"
+    text: "Link your bank account in your Kalshi profile and complete identity verification before you need to withdraw. Mismatched names cause delays."
+  - name: "Close positions and cancel pending orders"
+    text: "Your withdrawable balance excludes capital in open positions or pending orders. Cancel orders and close positions you don't need before withdrawing."
+  - name: "Choose withdrawal method and submit"
+    text: "Go to your Kalshi portfolio, click Withdraw, and choose ACH (free, 2-5 business days) or wire transfer (faster, has a fee). Enter the amount and confirm."
+  - name: "Wait for bank processing"
+    text: "ACH withdrawals typically arrive in 3 business days. Initiate early in the week to avoid weekend delays. Wire transfers can settle same-day."
 faqs:
   - question: "How long does a Kalshi withdrawal take?"
     answer: "ACH withdrawals typically take 2 to 5 business days, with most landing in 3 business days. Wire transfers can settle same-day or next business day but carry a fee."
@@ -92,6 +101,6 @@ There is no publicly stated maximum withdrawal amount, but very large withdrawal
 
 ## Final Thoughts
 
-Withdrawing from Kalshi is not complicated, but understanding the timeline and potential friction points saves headaches. The platform is regulated and your funds are held in segregated accounts, so the money is safe -- it is just a matter of standard banking timelines. For a full breakdown of the platform's features, fees, and markets, check out our [in-depth Kalshi review](/blog/kalshi-review). And if you are still deciding which platform to trade on, our [comparison of Kalshi and Polymarket](/blog/kalshi-vs-polymarket-which-platform-should-you-use) covers the key differences that matter for active traders.
+Withdrawing from Kalshi is not complicated, but understanding the timeline and potential friction points saves headaches. The platform is regulated and your funds are held in segregated accounts, so the money is safe -- it is just a matter of standard banking timelines. For a full breakdown of the platform's features, fees, and markets, check out our [in-depth Kalshi review](/blog/kalshi-review). And if you are still deciding which platform to trade on, our comparison of Kalshi and [Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=blog&utm_campaign=signup) covers [the key differences](/blog/kalshi-vs-polymarket-which-platform-should-you-use) that matter for active traders.
 
 Set up your bank account, verify your identity upfront, and plan your withdrawals around banking hours. That is all there is to it.

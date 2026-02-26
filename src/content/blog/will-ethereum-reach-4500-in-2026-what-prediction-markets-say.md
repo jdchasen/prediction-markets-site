@@ -16,7 +16,7 @@ faqs:
 
 Ethereum has been the second-most-debated crypto asset for years, and the $4,500 price target for 2026 is where the conversation gets interesting. Not "will ETH survive?" — that ship has sailed — but "how high can it go?"
 
-Prediction markets give us something better than analyst guesses: a live, money-backed probability. You can [check the current ETH $4,500 odds right here](/odds/will-ethereum-reach-4500-by-december-31-2026) and see exactly what thousands of traders think when their wallets are on the line.
+Prediction markets on [Kalshi](https://kalshi.com/sign-up/?referral=f2e21ad4-75b7-4ffb-bfcc-f2fb36e07b21&m=true&utm_source=masterpredictionmarkets&utm_medium=blog&utm_campaign=signup) and [Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=blog&utm_campaign=signup) give us something better than analyst guesses: a live, money-backed probability. You can [check the current ETH $4,500 odds right here](/odds/will-ethereum-reach-4500-by-december-31-2026) and see exactly what thousands of traders think when their wallets are on the line.
 
 ## Why Prediction Markets Beat Analyst Price Targets
 

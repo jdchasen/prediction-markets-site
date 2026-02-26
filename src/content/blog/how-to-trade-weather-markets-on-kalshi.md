@@ -1,10 +1,23 @@
 ---
 title: "How to Trade Weather Markets on Kalshi (2026)"
-description: "A practical guide to trading weather event contracts on Kalshi, from understanding temperature markets to building a data-driven edge."
+description: "Learn how to trade weather contracts on Kalshi using free NWS forecast data. Build a data-driven edge with temperature probability models and automation."
 pubDate: 2026-02-22
 category: "kalshi"
 tags: ["kalshi", "weather", "strategies"]
 affiliate: "kalshi"
+howToSteps:
+  - name: "Understand weather contract structure"
+    text: "Kalshi weather contracts are binary bets on whether a city's daily high exceeds a specific strike. They settle using official NOAA station data."
+  - name: "Read implied probability from the contract price"
+    text: "The contract price equals the market's implied probability. A contract at $0.65 means a 65% chance the temperature exceeds the strike."
+  - name: "Gather forecast data from the NWS API"
+    text: "Use the free National Weather Service API or Open-Meteo for temperature forecasts and forecast error estimates."
+  - name: "Convert your forecast to a probability estimate"
+    text: "Model the actual high as a normal distribution centered on the forecast with a calibrated standard deviation, then calculate the probability of exceeding the strike."
+  - name: "Compare your probability to the market price"
+    text: "If your model probability diverges significantly from the implied probability, you have an estimated edge. Only trade when the gap exceeds fees."
+  - name: "Execute trades on 1-3 day out contracts"
+    text: "Target markets 1 to 3 days out for the best risk-reward balance. Avoid same-day markets where the daily high may have already been observed."
 faqs:
   - question: "How do weather markets work on Kalshi?"
     answer: "Kalshi offers binary contracts on whether a city's daily high temperature will be above or below a specific strike. Contracts settle based on official NOAA weather station data, typically the next morning after the observation day."

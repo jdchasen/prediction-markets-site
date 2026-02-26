@@ -5,6 +5,10 @@ pubDate: 2026-02-22
 category: "kalshi"
 tags: ["kalshi", "strategies"]
 affiliate: "kalshi"
+review:
+  itemName: "Kalshi"
+  itemType: "Product"
+  rating: 4.5
 faqs:
   - question: "How do Kalshi S&P 500 contracts work?"
     answer: "Kalshi offers daily binary contracts on whether the S&P 500 will close above specific strike prices. Each contract pays $1 if the index closes above the strike and $0 if it does not, with your maximum loss limited to what you paid."

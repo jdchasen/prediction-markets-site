@@ -5,6 +5,13 @@ pubDate: 2026-02-24
 category: "strategies"
 tags: ["daily", "kalshi", "polymarket"]
 affiliate: "kalshi"
+faqs:
+  - question: "Why is the Tottenham Premier League market generating $9 million in volume at near-zero probability?"
+    answer: "Despite trading at just 0.1% probability, the Tottenham contract led all Polymarket markets in 24-hour volume at $9.36 million. This likely reflects high-volume position management, liquidity mechanics testing, or confident short sellers rather than genuine belief Tottenham will win the league."
+  - question: "What do prediction markets say about the Fed's March 2026 meeting?"
+    answer: "Both the rate hike and major rate cut scenarios trade at 0.7% probability with over $10.4 million in combined daily volume, indicating near-total consensus that March will bring no significant monetary policy changes."
+  - question: "What are the prediction market odds on a US strike on Iran by March 2026?"
+    answer: "The probability cascade shows 1.8% for February 24, 15.5% by February 28, and 61.5% by March 31. The steep jump to majority probability at the one-month horizon suggests traders see growing risk of eventual escalation even as near-term action remains unlikely."
 ---
 
 Nearly $9.4 million changed hands today on a single question: Can Tottenham Hotspur actually win the Premier League? With the football contract trading at just 0.1¢ (0.1% probability) despite leading all Polymarket markets in 24-hour volume at $9.36 million, we're witnessing what appears to be either the world's most confident short sellers or traders gaming liquidity mechanics on a market already viewed as essentially decided. The "No" side sits at a near-perfect 100.0¢, yet the sheer volume suggests this isn't just a dead market—it's become a testing ground for high-volume position management.
@@ -17,7 +24,7 @@ Federal Reserve positioning has crystallized into something approaching market c
 
 These matching price points tell us everything about current expectations: March will bring no major monetary policy shifts. Combined, these two contracts have generated over $10.4 million in 24-hour trading volume, representing not speculation about policy changes but rather traders expressing certainty about the status quo. The market is effectively pricing in a hold or, at most, a 25bp adjustment in either direction.
 
-For those new to trading central bank decisions, the tight clustering around zero probability for major moves offers a textbook example of how [prediction markets](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=blog&utm_campaign=signup) can crystallize consensus more effectively than traditional forecasting. When you see extreme pricing like this backed by millions in volume, it's the market's way of saying: this debate is over.
+For those new to trading central bank decisions, the tight clustering around zero probability for major moves offers a textbook example of how prediction markets on [Kalshi](https://kalshi.com/sign-up/?referral=f2e21ad4-75b7-4ffb-bfcc-f2fb36e07b21&m=true&utm_source=masterpredictionmarkets&utm_medium=blog&utm_campaign=signup) and [Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=blog&utm_campaign=signup) can crystallize consensus more effectively than traditional forecasting. When you see extreme pricing like this backed by millions in volume, it's the market's way of saying: this debate is over.
 
 ## Iran Strike Timeline: The Probability Cascade
 

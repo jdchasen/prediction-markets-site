@@ -32,7 +32,7 @@ This is the same fundamental mechanic as other prediction markets, but Kalshi ha
 
 ## CFTC Regulation: Why It Matters
 
-Unregulated prediction markets -- including popular crypto-based platforms -- carry counterparty risk that most traders underestimate. Funds can be frozen, markets can be resolved incorrectly with no appeal, and you have no regulatory body to escalate to. Kalshi operates under CFTC oversight, which means it must comply with capital requirements, audit standards, and dispute resolution processes.
+Unregulated prediction markets -- including popular crypto-based platforms like [Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=blog&utm_campaign=signup) -- carry counterparty risk that most traders underestimate. Funds can be frozen, markets can be resolved incorrectly with no appeal, and you have no regulatory body to escalate to. Kalshi operates under CFTC oversight, which means it must comply with capital requirements, audit standards, and dispute resolution processes.
 
 In practice, this means your deposits are protected, market resolution rules are clearly defined in advance, and the exchange cannot simply change the rules after the fact. For anyone trading with meaningful capital, this is not a nice-to-have. It is a requirement.
 

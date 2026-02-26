@@ -1,6 +1,6 @@
 ---
 title: "Can You Make Money on Prediction Markets (2026)? Real P&L Data"
-description: "An honest look at prediction market profitability. Real numbers from active traders on what works and what doesn't."
+description: "Can you actually make money on prediction markets? Real P&L data from active Kalshi and Polymarket traders on what works and what doesn't."
 pubDate: 2026-02-22
 category: "strategies"
 tags: ["strategies", "kalshi", "beginners"]
@@ -68,7 +68,7 @@ How much capital do you need to trade prediction markets seriously? It depends o
 - **Active trading ($500 to $2,000):** Enough to run a small portfolio of positions across multiple market categories. At this level, you can begin to see whether your analytical approach generates consistent edge.
 - **Serious trading ($2,000 to $10,000):** Enough to diversify across many simultaneous positions, absorb losing streaks without going bust, and generate returns that justify the time investment.
 
-The Kelly criterion -- a mathematical framework for optimal position sizing -- is essential at any bankroll level. It tells you how much to risk on each trade based on your edge and the odds. Without it, even a profitable strategy can go bust through overleveraging. Use our [Kelly Criterion Calculator](/tools/kelly-calculator) to find the optimal bet size for any trade — it accounts for Kalshi and Polymarket fees automatically. Most experienced prediction market traders use a fractional Kelly approach, betting a fraction of what the full Kelly criterion suggests to reduce variance.
+The Kelly criterion -- a mathematical framework for optimal position sizing -- is essential at any bankroll level. It tells you how much to risk on each trade based on your edge and the odds. Without it, even a profitable strategy can go bust through overleveraging. Use our [Kelly Criterion Calculator](/tools/kelly-calculator) to find the optimal bet size for any trade — it accounts for Kalshi and [Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=blog&utm_campaign=signup) fees automatically. Most experienced prediction market traders use a fractional Kelly approach, betting a fraction of what the full Kelly criterion suggests to reduce variance.
 
 ## Realistic Return Expectations
 

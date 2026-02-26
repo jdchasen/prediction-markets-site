@@ -1,10 +1,21 @@
 ---
 title: "How to Deposit on Polymarket (2026): 3 Ways to Fund Your Account"
-description: "Step-by-step guide to depositing USDC on Polymarket using on-ramp, exchange transfer, or bridge from Ethereum."
+description: "Step-by-step guide to depositing USDC on Polymarket using card on-ramp, exchange transfer, or Ethereum bridge. Compare fees and avoid costly mistakes."
 pubDate: 2026-02-22
 category: "polymarket"
 tags: ["polymarket", "beginners", "crypto"]
 affiliate: "polymarket"
+howToSteps:
+  - name: "Choose your deposit method"
+    text: "Select from three options: card on-ramp (easiest, 2-3% fee), crypto exchange transfer (cheapest, $0-1), or Ethereum bridge (advanced, $2-15 gas)."
+  - name: "Get your Polymarket deposit address"
+    text: "In Polymarket, navigate to your wallet or deposit section and copy your Polygon wallet address. This is the destination for all deposit methods."
+  - name: "Purchase or prepare USDC"
+    text: "Buy USDC via the built-in card on-ramp, purchase it on an exchange like Coinbase, or use existing USDC in an Ethereum wallet."
+  - name: "Send USDC on the Polygon network"
+    text: "When withdrawing from an exchange, select the Polygon network — not Ethereum. Sending on the wrong network means your funds will not appear in Polymarket."
+  - name: "Confirm the deposit arrived"
+    text: "Wait 1-30 minutes depending on the method. Your USDC balance will appear in your Polymarket wallet once the transaction confirms on the Polygon blockchain."
 faqs:
   - question: "How do I deposit money on Polymarket?"
     answer: "There are three ways: use Polymarket's built-in card on-ramp to buy USDC with a debit or credit card (2-3% fee), transfer USDC from a crypto exchange like Coinbase directly to Polygon (cheapest option at $0-1), or bridge USDC from Ethereum to Polygon using the Polygon Bridge."
@@ -16,7 +27,7 @@ faqs:
     answer: "Transferring USDC from a crypto exchange like Coinbase directly to Polygon is the cheapest method, costing roughly $0-1 in withdrawal fees. For a $1,000 deposit, this saves you $20-30 compared to the card on-ramp's 2-3% processing fee."
 ---
 
-The number one thing that stops people from trading on [Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=blog&utm_campaign=signup) is not understanding the markets -- it is figuring out how to get money onto the platform. Unlike [Kalshi, where you deposit dollars from your bank account](/blog/kalshi-review), Polymarket runs on **USDC on the Polygon network**. If those words mean nothing to you, do not worry. This guide walks through all three deposit methods step by step, including the common mistakes that cause people to lose money or wait days for stuck transactions.
+The number one thing that stops people from trading on [Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=blog&utm_campaign=signup) is not understanding the markets -- it is figuring out how to get money onto the platform. Unlike [Kalshi](https://kalshi.com/sign-up/?referral=f2e21ad4-75b7-4ffb-bfcc-f2fb36e07b21&m=true&utm_source=masterpredictionmarkets&utm_medium=blog&utm_campaign=signup), where you [deposit dollars from your bank account](/blog/kalshi-review), Polymarket runs on **USDC on the Polygon network**. If those words mean nothing to you, do not worry. This guide walks through all three deposit methods step by step, including the common mistakes that cause people to lose money or wait days for stuck transactions.
 
 ## What You Need to Know First
 

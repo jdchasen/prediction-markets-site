@@ -1,10 +1,23 @@
 ---
 title: "Prediction Market API Python Tutorial (2026): Your First Trading Script"
-description: "Step-by-step Python tutorial for connecting to Kalshi and Polymarket APIs. Fetch markets, check prices, and place your first order."
+description: "Step-by-step Python tutorial for the Kalshi and Polymarket APIs. Build a price-monitoring script and place your first automated order with working code."
 pubDate: 2026-02-22
 category: "strategies"
 tags: ["strategies", "api", "automation", "kalshi"]
 affiliate: "kalshi"
+howToSteps:
+  - name: "Set up API keys and Python environment"
+    text: "Install Python 3.9+, the requests library, then generate Kalshi API keys from your account settings and store them as environment variables."
+  - name: "Authenticate with the Kalshi API"
+    text: "Send your credentials to the login endpoint to receive a session token, then attach it as a Bearer token to all subsequent API requests."
+  - name: "Fetch live market data"
+    text: "Call the /markets endpoint to retrieve active contracts with current bid, ask, and volume. Filter by series ticker to focus on specific categories."
+  - name: "Parse the order book"
+    text: "Fetch the order book for a specific market to see liquidity at each price level. Use this to decide between limit and market orders."
+  - name: "Place your first limit order"
+    text: "Submit a POST request to the /portfolio/orders endpoint with the ticker, side (yes/no), price in cents, and contract count."
+  - name: "Build a scheduled price checker"
+    text: "Combine market fetching with a watchlist and the schedule library to monitor prices periodically and flag opportunities."
 faqs:
   - question: "How do I connect to the Kalshi API with Python?"
     answer: "Use the requests library to make authenticated HTTP calls to Kalshi's REST API. You need an API key and RSA private key for authentication, then you can fetch markets, check prices, and place orders programmatically."

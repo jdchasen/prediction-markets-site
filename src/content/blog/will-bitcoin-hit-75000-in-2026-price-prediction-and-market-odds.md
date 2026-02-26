@@ -14,7 +14,7 @@ faqs:
     answer: "Prediction markets aggregate real-money bets from thousands of participants, making them generally more accurate than individual analyst forecasts. They process new information in real time and have no incentive to be bullish or bearish."
 ---
 
-Everyone has a Bitcoin price prediction. Your coworker, your Uber driver, that guy on Twitter with laser eyes in his profile picture. The difference with prediction markets is that people have to put their money where their mouth is — and right now, thousands of traders are betting real dollars on whether Bitcoin will hit $75,000 by the end of 2026.
+Everyone has a Bitcoin price prediction. Your coworker, your Uber driver, that guy on Twitter with laser eyes in his profile picture. The difference with prediction markets is that people have to put their money where their mouth is — and right now, thousands of traders on [Kalshi](https://kalshi.com/sign-up/?referral=f2e21ad4-75b7-4ffb-bfcc-f2fb36e07b21&m=true&utm_source=masterpredictionmarkets&utm_medium=blog&utm_campaign=signup) and [Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=blog&utm_campaign=signup) are betting real dollars on whether Bitcoin will hit $75,000 by the end of 2026.
 
 You can [see the live odds here](/odds/will-bitcoin-reach-75000-by-december-31-2026). No pundit spin, no clickbait — just the market's honest take, updated in real time.
 
