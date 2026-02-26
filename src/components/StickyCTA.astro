@@ -1,0 +1,84 @@
+---
+interface Props {
+  hasKalshi?: boolean;
+  hasPoly?: boolean;
+}
+
+const { hasKalshi = true, hasPoly = true } = Astro.props;
+
+const KALSHI_REFERRAL = 'https://kalshi.com/sign-up/?referral=f2e21ad4-75b7-4ffb-bfcc-f2fb36e07b21&m=true&utm_source=masterpredictionmarkets&utm_medium=sticky-cta&utm_campaign=signup';
+const POLYMARKET_REFERRAL = 'https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=sticky-cta&utm_campaign=signup';
+---
+
+<div
+  id="sticky-cta"
+  class="fixed bottom-0 inset-x-0 z-30 translate-y-full transition-transform duration-300 ease-out"
+>
+  <div class="border-t border-gray-200 dark:border-gray-700 bg-white/95 dark:bg-gray-900/95 backdrop-blur-sm shadow-lg">
+    <div class="mx-auto flex max-w-3xl items-center justify-between px-4 py-3">
+      <p class="hidden sm:block text-sm font-medium text-gray-700 dark:text-gray-300">
+        Trade this market now
+      </p>
+      <div class="flex w-full sm:w-auto items-center gap-2">
+        {hasKalshi && (
+          <a
+            href={KALSHI_REFERRAL}
+            target="_blank"
+            rel="noopener sponsored"
+            class="flex-1 sm:flex-none rounded-md bg-green-600 px-4 py-2 text-center text-sm font-medium text-white transition-colors hover:bg-green-700"
+          >
+            Kalshi
+          </a>
+        )}
+        {hasPoly && (
+          <a
+            href={POLYMARKET_REFERRAL}
+            target="_blank"
+            rel="noopener sponsored"
+            class="flex-1 sm:flex-none rounded-md bg-blue-600 px-4 py-2 text-center text-sm font-medium text-white transition-colors hover:bg-blue-700"
+          >
+            Polymarket
+          </a>
+        )}
+        <button
+          id="sticky-cta-dismiss"
+          class="rounded-md p-2 text-gray-400 hover:text-gray-600 dark:hover:text-gray-300 transition-colors"
+          aria-label="Dismiss"
+        >
+          <svg class="h-4 w-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" />
+          </svg>
+        </button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script>
+  const stickyCta = document.getElementById('sticky-cta');
+  const dismissBtn = document.getElementById('sticky-cta-dismiss');
+  let dismissed = false;
+  let shown = false;
+
+  function checkScroll() {
+    if (dismissed) return;
+    const scrolled = window.scrollY > window.innerHeight;
+    if (scrolled && !shown) {
+      stickyCta?.classList.remove('translate-y-full');
+      stickyCta?.classList.add('translate-y-0');
+      shown = true;
+    } else if (!scrolled && shown) {
+      stickyCta?.classList.add('translate-y-full');
+      stickyCta?.classList.remove('translate-y-0');
+      shown = false;
+    }
+  }
+
+  window.addEventListener('scroll', checkScroll, { passive: true });
+
+  dismissBtn?.addEventListener('click', () => {
+    dismissed = true;
+    stickyCta?.classList.add('translate-y-full');
+    stickyCta?.classList.remove('translate-y-0');
+  });
+</script>

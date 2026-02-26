@@ -3,6 +3,7 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 import ArticleCard from '../components/ArticleCard.astro';
 import CTABanner from '../components/CTABanner.astro';
 import NewsletterForm from '../components/NewsletterForm.astro';
+import AdUnit from '../components/AdUnit.astro';
 import { getCollection } from 'astro:content';
 
 const now = new Date();
@@ -141,6 +142,10 @@ const categories = [
       </div>
     </div>
   </section>
+
+  <div class="mx-auto max-w-6xl px-4">
+    <AdUnit slot="home-mid-page" />
+  </div>
 
   {trendingMarkets.length > 0 && (
     <section class="border-t border-gray-100 dark:border-gray-800 py-12">

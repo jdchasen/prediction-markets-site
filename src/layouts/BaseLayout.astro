@@ -4,6 +4,7 @@ import Header from "../components/Header.astro";
 import Footer from "../components/Footer.astro";
 import NewsletterPopup from "../components/NewsletterPopup.astro";
 import SearchDialog from "../components/SearchDialog.astro";
+import { ADSENSE_ENABLED, ADSENSE_PUBLISHER_ID } from "../config/ads";
 
 interface Props {
   title: string;
@@ -44,6 +45,9 @@ const { title, description, image, article, pubDate, updatedDate } = Astro.props
       gtag('js', new Date());
       gtag('config', 'G-W07DSXGL25');
     </script>
+    {ADSENSE_ENABLED && (
+      <script async src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${ADSENSE_PUBLISHER_ID}`} crossorigin="anonymous"></script>
+    )}
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <link rel="icon" href="/favicon.ico" />
     <link rel="preconnect" href="https://fonts.googleapis.com" />

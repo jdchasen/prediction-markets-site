@@ -4,6 +4,8 @@ import Breadcrumbs from '../../components/Breadcrumbs.astro';
 import CTABanner from '../../components/CTABanner.astro';
 import NewsletterForm from '../../components/NewsletterForm.astro';
 import ArticleCard from '../../components/ArticleCard.astro';
+import AdUnit from '../../components/AdUnit.astro';
+import StickyCTA from '../../components/StickyCTA.astro';
 import { getCollection, render } from 'astro:content';
 
 export async function getStaticPaths() {
@@ -234,6 +236,8 @@ if (hasKalshi && hasPoly) {
       <Content />
     </div>
 
+    <AdUnit slot="odds-before-newsletter" />
+
     <NewsletterForm variant="banner" />
 
     <CTABanner platform="kalshi" />
@@ -269,5 +273,9 @@ if (hasKalshi && hasPoly) {
         </div>
       </div>
     </section>
+  )}
+
+  {!isSettled && (
+    <StickyCTA hasKalshi={hasKalshi} hasPoly={hasPoly} />
   )}
 </BaseLayout>
