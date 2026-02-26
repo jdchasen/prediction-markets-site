@@ -5,7 +5,9 @@ import json
 import os
 import sys
 import time
+import xml.etree.ElementTree as ET
 from datetime import datetime, timezone, timedelta
+from html import unescape
 from pathlib import Path
 
 import anthropic
@@ -133,6 +135,66 @@ def fetch_kalshi_markets_by_series(series_tickers: list[str], limit: int = 10) -
         except Exception as e:
             print(f"[WARN] Kalshi series {ticker} fetch failed: {e}", file=sys.stderr)
     return results
+
+
+def fetch_trending_news(limit: int = 20) -> list[dict]:
+    """Fetch top news headlines from Google News RSS — no API key needed."""
+    feeds = [
+        ("Top Stories", "https://news.google.com/rss?hl=en-US&gl=US&ceid=US:en"),
+        ("Business", "https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en"),
+        ("World", "https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en"),
+    ]
+    seen_titles = set()
+    headlines = []
+
+    for category, url in feeds:
+        try:
+            resp = requests.get(url, timeout=15, headers={"User-Agent": "Mozilla/5.0"})
+            resp.raise_for_status()
+            root = ET.fromstring(resp.content)
+
+            for item in root.iter("item"):
+                title_el = item.find("title")
+                source_el = item.find("source")
+                pub_el = item.find("pubDate")
+
+                if title_el is None:
+                    continue
+
+                title = unescape(title_el.text or "").strip()
+                # Deduplicate across feeds
+                if title in seen_titles:
+                    continue
+                seen_titles.add(title)
+
+                source = source_el.text if source_el is not None else ""
+                pub_date = pub_el.text if pub_el is not None else ""
+
+                headlines.append({
+                    "title": title,
+                    "source": source,
+                    "category": category,
+                    "pub_date": pub_date,
+                })
+
+                if len(headlines) >= limit:
+                    break
+        except Exception as e:
+            print(f"[WARN] Google News ({category}) fetch failed: {e}", file=sys.stderr)
+
+    return headlines[:limit]
+
+
+def format_news_data(headlines: list[dict]) -> str:
+    """Format news headlines for Claude context."""
+    if not headlines:
+        return ""
+    lines = ["## TODAY'S TRENDING NEWS HEADLINES\n"]
+    lines.append("Use these to identify which prediction markets connect to current events.\n")
+    for h in headlines:
+        source = f" ({h['source']})" if h.get('source') else ""
+        lines.append(f"- [{h['category']}] {h['title']}{source}")
+    return "\n".join(lines)
 
 
 # ---------------------------------------------------------------------------
@@ -291,6 +353,7 @@ After the frontmatter closing `---`, the body starts DIRECTLY with an opening pa
 - Always include at least one markdown table.
 - Include 2-4 internal links per post, chosen contextually.
 - Do NOT include sports game-by-game results unless there's a genuinely interesting storyline.
+- **Prioritize markets that connect to today's trending news.** You'll receive current headlines — lead with markets that tie into what people are already talking about. This is what makes the pulse feel timely and relevant vs. a generic market report.
 - Focus on markets that matter: geopolitics, economics, crypto, policy, elections. Sports only if the volume or story is notable.
 - SKIP markets priced under 5% or over 95% — these are essentially decided. Nobody wants to read about a 1-cent longshot. Focus on markets in the 10-90% range where there's genuine uncertainty and real trading opportunity.
 - Skip markets with near-zero volume or that have already resolved.
@@ -322,7 +385,9 @@ Be opinionated. The reader came here for takes, not a Wikipedia summary. If a ma
 USER_PROMPT_TEMPLATE = """\
 Today's date: {date_str} ({day_of_week})
 
-Write the Daily Market Pulse for {formatted_date}. Here is today's market data:
+Write the Daily Market Pulse for {formatted_date}. Here is today's market data and current news:
+
+{news_data}
 
 {polymarket_data}
 
@@ -335,6 +400,7 @@ Output ONLY the complete markdown file including frontmatter. Start with --- and
 def generate_pulse(
     polymarket_data: str,
     kalshi_data: str,
+    news_data: str,
     pub_date: datetime,
 ) -> str:
     """Call Claude API to generate the daily pulse."""
@@ -358,6 +424,7 @@ def generate_pulse(
         date_str=date_str,
         day_of_week=day_of_week,
         formatted_date=formatted_date,
+        news_data=news_data,
         polymarket_data=polymarket_data,
         kalshi_data=kalshi_data,
     )
@@ -405,6 +472,9 @@ def main():
         limit=10,
     )
 
+    print("[INFO] Fetching trending news...")
+    headlines = fetch_trending_news(limit=20)
+
     if not poly_events and not poly_markets and not kalshi_events:
         print("[ERROR] No market data available from any source. Aborting.", file=sys.stderr)
         sys.exit(1)
@@ -412,13 +482,15 @@ def main():
     # Format data
     polymarket_data = format_polymarket_data(poly_events, poly_markets)
     kalshi_data = format_kalshi_data(kalshi_events, kalshi_series)
+    news_data = format_news_data(headlines)
 
     print(f"[INFO] Polymarket: {len(poly_events)} events, {len(poly_markets)} markets")
     print(f"[INFO] Kalshi: {len(kalshi_events)} events, {len(kalshi_series)} series")
+    print(f"[INFO] News headlines: {len(headlines)}")
 
     # Generate with Claude
     print("[INFO] Calling Claude API...")
-    content = generate_pulse(polymarket_data, kalshi_data, pub_date)
+    content = generate_pulse(polymarket_data, kalshi_data, news_data, pub_date)
 
     # Validate output
     if not content.startswith("---"):
