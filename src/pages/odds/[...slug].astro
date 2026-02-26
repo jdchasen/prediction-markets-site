@@ -147,17 +147,40 @@ const categoryColors: Record<string, string> = {
 
 const catColor = categoryColors[market.data.category] || 'bg-gray-100 text-gray-800 dark:bg-gray-700 dark:text-gray-300';
 
-// Build CTR-optimized title with odds context
+// Build CTR-optimized title — concise, keyword-rich, no question marks
 const primaryYes = market.data.kalshiYes ?? market.data.polymarketYes;
 const primaryPlatform = market.data.kalshiYes !== undefined ? 'Kalshi' : 'Polymarket';
+
+// Strip trailing question mark and "Will" prefix for cleaner SERP titles
+let cleanTitle = market.data.title.replace(/\?$/, '');
+if (cleanTitle.startsWith('Will ')) {
+  cleanTitle = cleanTitle.slice(5);
+  // Capitalize first letter
+  cleanTitle = cleanTitle.charAt(0).toUpperCase() + cleanTitle.slice(1);
+}
+
 const oddsTitle = primaryYes !== undefined
-  ? `${market.data.title} (${primaryYes}% on ${primaryPlatform})`
-  : market.data.title;
+  ? `${cleanTitle} Odds — ${primaryYes}% YES`
+  : cleanTitle;
+
+// Build compelling meta description mentioning both platforms when available
+const hasKalshi = market.data.kalshiYes !== undefined;
+const hasPoly = market.data.polymarketYes !== undefined;
+let oddsDescription: string;
+if (hasKalshi && hasPoly) {
+  oddsDescription = `${cleanTitle} odds: ${market.data.kalshiYes}% on Kalshi, ${market.data.polymarketYes}% on Polymarket. Compare live prices, track movements, and find the best entry. Updated ${formattedDate}.`;
+} else if (hasKalshi) {
+  oddsDescription = `${cleanTitle} odds: ${market.data.kalshiYes}% YES on Kalshi. Live prices, market analysis, and trading insights. Updated ${formattedDate}.`;
+} else if (hasPoly) {
+  oddsDescription = `${cleanTitle} odds: ${market.data.polymarketYes}% YES on Polymarket. Live prices, market analysis, and trading insights. Updated ${formattedDate}.`;
+} else {
+  oddsDescription = market.data.description;
+}
 ---
 
 <BaseLayout
   title={oddsTitle}
-  description={market.data.description}
+  description={oddsDescription}
 >
   <Fragment slot="head">
     <script type="application/ld+json" set:html={JSON.stringify(faqSchema)} />
