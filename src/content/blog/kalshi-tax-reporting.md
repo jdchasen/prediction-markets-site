@@ -153,7 +153,7 @@ Fees reduce your taxable gains. If you are not adjusting your cost basis for fee
 Losses offset gains. If you only report your winners, you are paying taxes on more income than you actually earned. Track and report every trade, winning and losing.
 
 ### 4. Assuming Crypto Platform Gains Are Tax-Free
-Some traders assume that because [Polymarket or other crypto platforms](/blog/best-prediction-market-platforms) do not issue 1099s, the gains are not taxable. They are. The IRS has been increasingly focused on crypto-related income, and failing to report it carries real penalties.
+Some traders assume that because [Polymarket or other crypto platforms](/platforms) do not issue 1099s, the gains are not taxable. They are. The IRS has been increasingly focused on crypto-related income, and failing to report it carries real penalties.
 
 ## When to Get Professional Help
 

@@ -118,7 +118,7 @@ Here is a practical comparison:
 
 Neither model is inherently "better" -- it depends on your priorities. If you are a US-based trader who wants legal certainty, fund protection, and clean tax reporting, Kalshi is the clear choice. If you prioritize global access, deeper liquidity, and lower fees, and you are comfortable with the regulatory uncertainty, unregulated platforms have their appeal.
 
-For a complete comparison of platforms, see our [guide to the best prediction market platforms](/blog/best-prediction-market-platforms).
+For a complete comparison of platforms, see our [guide to the best prediction market platforms](/platforms).
 
 ## Common Concerns Addressed
 

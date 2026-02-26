@@ -107,7 +107,7 @@ They also democratize access to markets that were previously available only to i
 
 For retail traders, the defined-risk nature of event contracts is transformative. There is no scenario where a trade blows up your account overnight. You cannot get margin-called. You cannot lose more than you put in. That does not mean you cannot lose money -- you absolutely can -- but the losses are always bounded and known in advance.
 
-If you are interested in getting started, our [beginner's guide to prediction markets](/blog/what-are-prediction-markets) covers the fundamentals, and our [platform comparison guide](/blog/best-prediction-market-platforms) will help you choose where to trade.
+If you are interested in getting started, our [beginner's guide to prediction markets](/blog/what-are-prediction-markets) covers the fundamentals, and our [platform comparison guide](/platforms) will help you choose where to trade.
 
 ## The Bottom Line
 

@@ -149,4 +149,4 @@ Withdrawals from Polymarket to your wallet are fast -- usually under 5 minutes. 
 
 Depositing on Polymarket is the biggest friction point for new traders, but it is a one-time learning curve. Once you have done it once, subsequent deposits take under a minute. The exchange transfer method (Method 2) gives you the best balance of cost and simplicity, and it is what we recommend for most traders.
 
-If you are deciding between Polymarket and a platform with simpler deposits, remember that the deposit method is a one-time hurdle, while the [trading experience, fees, and liquidity](/blog/best-prediction-market-platforms) affect every single trade you make. Do not let the crypto deposit process scare you away from the deepest prediction market in the world.
+If you are deciding between Polymarket and a platform with simpler deposits, remember that the deposit method is a one-time hurdle, while the [trading experience, fees, and liquidity](/platforms) affect every single trade you make. Do not let the crypto deposit process scare you away from the deepest prediction market in the world.

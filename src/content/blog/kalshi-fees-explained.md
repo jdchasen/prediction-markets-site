@@ -132,7 +132,7 @@ Download your transaction history from Kalshi regularly and calculate your total
 
 For context, [Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=blog&utm_campaign=signup) charges no trading fees on most markets, though you pay blockchain gas costs and potential slippage. PredictIt charges 10% of profits plus 5% on withdrawals, which is dramatically worse. Kalshi's fee structure sits in the middle -- fair for a regulated exchange, but high enough to matter.
 
-If you are evaluating [which platform to trade on](/blog/best-prediction-market-platforms), fees should be a primary consideration. A strategy that is profitable on a zero-fee platform might be underwater on Kalshi, and vice versa.
+If you are evaluating [which platform to trade on](/platforms), fees should be a primary consideration. A strategy that is profitable on a zero-fee platform might be underwater on Kalshi, and vice versa.
 
 ## The Bottom Line
 

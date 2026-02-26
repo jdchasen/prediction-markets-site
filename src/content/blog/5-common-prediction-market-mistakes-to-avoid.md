@@ -34,7 +34,7 @@ Weather markets are a good example. If you are exclusively trading temperature c
 
 The same problem shows up in financial markets. If all your capital is in S&P 500 range contracts and a surprise Fed announcement sends the index flying past your strikes, every position in your portfolio moves against you simultaneously.
 
-**Spread your capital across uncorrelated market categories.** Our [best prediction market platforms guide](/blog/best-prediction-market-platforms) covers which platforms offer the widest market variety. A portfolio that includes weather contracts, economic event markets (like CPI or jobs reports), and financial range markets is far more resilient. When weather markets have a bad week, your economic positions are unaffected. When an unexpected rate decision blows up your Fed contracts, your temperature trades keep humming along. Diversification is not just a textbook concept -- it is the difference between a rough week and a blown account.
+**Spread your capital across uncorrelated market categories.** Our [best prediction market platforms guide](/platforms) covers which platforms offer the widest market variety. A portfolio that includes weather contracts, economic event markets (like CPI or jobs reports), and financial range markets is far more resilient. When weather markets have a bad week, your economic positions are unaffected. When an unexpected rate decision blows up your Fed contracts, your temperature trades keep humming along. Diversification is not just a textbook concept -- it is the difference between a rough week and a blown account.
 
 ## 3. Trading Illiquid Markets
 
