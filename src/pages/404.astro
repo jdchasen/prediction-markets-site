@@ -1,0 +1,38 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+
+<BaseLayout
+  title="Page Not Found"
+  description="The page you're looking for doesn't exist."
+>
+  <section class="py-24">
+    <div class="mx-auto max-w-2xl px-4 text-center">
+      <p class="mb-4 text-6xl font-bold text-brand-600 dark:text-brand-400">404</p>
+      <h1 class="mb-4 text-2xl font-bold text-gray-900 dark:text-white">Page not found</h1>
+      <p class="mb-8 text-gray-600 dark:text-gray-400">
+        The page you're looking for doesn't exist or has been moved.
+      </p>
+      <div class="flex flex-wrap items-center justify-center gap-4">
+        <a
+          href="/"
+          class="rounded-lg bg-brand-600 px-6 py-3 text-sm font-medium text-white transition-colors hover:bg-brand-700"
+        >
+          Back to Home
+        </a>
+        <a
+          href="/odds"
+          class="rounded-lg border border-gray-300 dark:border-gray-600 px-6 py-3 text-sm font-medium text-gray-700 dark:text-gray-300 transition-colors hover:bg-gray-50 dark:hover:bg-gray-800"
+        >
+          Browse Odds
+        </a>
+        <a
+          href="/blog"
+          class="rounded-lg border border-gray-300 dark:border-gray-600 px-6 py-3 text-sm font-medium text-gray-700 dark:text-gray-300 transition-colors hover:bg-gray-50 dark:hover:bg-gray-800"
+        >
+          Read Articles
+        </a>
+      </div>
+    </div>
+  </section>
+</BaseLayout>
