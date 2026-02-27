@@ -1,5 +1,5 @@
 /** Google AdSense configuration — flip ADSENSE_ENABLED to true once approved */
-export const ADSENSE_ENABLED = true;
+export const ADSENSE_ENABLED = false;
 export const ADSENSE_PUBLISHER_ID = 'ca-pub-9622504523670792';
 
 export const AD_SLOTS: Record<string, string> = {
