@@ -3,7 +3,7 @@ title: "Will the US confirm that aliens exist before 2027?"
 description: "Will the US confirm that aliens exist before 2027? Odds: 16.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the US confirm that aliens exist before 2027?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-02-26
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]

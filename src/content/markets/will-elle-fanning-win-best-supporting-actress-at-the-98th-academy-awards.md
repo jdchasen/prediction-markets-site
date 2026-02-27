@@ -9,37 +9,50 @@ expiryDate: 2026-03-15
 tags: ["entertainment", "polymarket"]
 polymarketYes: 1.6
 polymarketNo: 98.5
-polymarketVolume: 98427
+polymarketVolume: 98859
 polymarketUrl: "https://polymarket.com/event/will-elle-fanning-win-best-supporting-actress-at-the-98th-academy-awards"
 ---
 
-**"Will Elle Fanning win Best Supporting Actress at the 98th Academy Awards?"** is considered extremely unlikely by the market, with minimal chance of a YES resolution. Here's a breakdown of the current odds across prediction market platforms, updated as of February 24, 2026.
+Elle Fanning faces extremely long odds at 1.6% for the 98th Academy Awards' Best Supporting Actress category, reflecting the fact that her 2025-2026 film slate remains largely unannounced and voting is still more than a year away.
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 1.7% | 98.4% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 1.6% | 98.5% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
-## What the Odds Mean
+## Market Analysis
 
-At **2%**, the market considers this outcome unlikely. Contrarian YES positions are cheap but high-risk. If you have a strong thesis that the market is wrong, these low-probability markets can offer outsized returns.
+The bull case hinges on Fanning securing a breakout supporting role in a prestige film releasing in late 2025. She has demonstrated dramatic range in films like "The Great" and "A Complete Unknown" (where she plays Sylvia Russo opposite Timothée Chalamet), though that's a 2024 release competing for the 97th Academy Awards, not the 98th. If she attaches to a major awards-season project from established directors like Paul Thomas Anderson, Yorgos Lanthimos, or Greta Gerwig filming in 2025 for awards qualifying by December 31, 2025, the odds could shift dramatically. Historical patterns show that actors in their mid-20s often break through in supporting categories when paired with the right material and director—think Florence Pugh's nomination at 23.
 
-## How to Trade This Market
+The bear case is straightforward: there are no confirmed projects in her pipeline positioned for the 2025 awards cycle, and the Academy rarely nominates actors without significant critical buzz building through fall festival premieres. The Venice Film Festival (late August 2025), Telluride (early September 2025), and Toronto International Film Festival (September 2025) serve as the traditional launching pads for Oscar campaigns. Without a film screening at these venues, building momentum becomes exponentially harder. Additionally, the supporting actress category historically favors scene-stealing character work or transformative performances, and Fanning's recent trajectory has leaned toward leading roles.
 
-On **[Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup)**, you trade using USDC on the Polygon blockchain. Polymarket offers deep liquidity and a wide range of markets on current events.
+Key catalysts to monitor include any project announcements in early 2025 that could shoot and complete post-production for a late-2025 release, festival lineup announcements in July-August 2025, and early critical reception from fall festivals. The Academy's eligibility window closes December 31, 2025, meaning any qualifying film must release in Los Angeles theaters by that date. Voting begins in January 2026, with nominations announced January 17, 2026, and the ceremony on March 15, 2026. Traders should watch whether Fanning joins any ensemble casts in limited series or supporting film roles that major studios position for awards consideration.
+
+## Key Dates
+
+- **Market Expiry**: March 15, 2026 (17 days from now)
+
+## Related Markets
+
+- [Will Renate Reinsve win Best Actress at the 98th Academy Awards?](/odds/will-renate-reinsve-win-best-actress-at-the-98th-academy-awards) — 2% YES
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Elle Fanning win Best Supporting Actress at the 98th Academy Awards?"?
+### Why are Elle Fanning's odds so low compared to typical Oscar frontrunners at this stage?
 
-As of February 24, 2026, Polymarket prices YES at 1.7%. This is based on real-money trading activity.
+She has no publicly announced films scheduled for the 2025 Oscar qualifying window (through December 31, 2025), making it impossible for industry insiders to evaluate potential nomination-worthy performances. Most serious contenders have projects either in production or post-production by this point in the cycle.
 
-### Where can I trade on this prediction market?
+### Could her role in "A Complete Unknown" impact these odds even though it's a 2024 release?
 
-You can trade this market on [Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) (crypto-based).
+No, "A Complete Unknown" qualifies for the 97th Academy Awards (2025 ceremony), not the 98th. Performances can only be nominated once, so any recognition for that film would be irrelevant to this market.
 
-### How do prediction market odds work?
+### What would need to happen in the next six months to make these odds move significantly higher?
 
-Prediction market prices represent the market's implied probability of an event occurring. A YES price of 75% means traders collectively believe there's a 75% chance the event will happen. You can buy YES (betting it will happen) or NO (betting it won't) and profit if you're correct.
+Fanning would need to be cast in a high-profile supporting role in a prestige film that can complete production and post-production for a fall 2025 festival premiere, followed by positive critical reception positioning her as a serious contender by late 2025.
+
+## Learn More
+
+- [2026 Oscar Predictions: What Betting Markets Say About the 98th Academy Awards](/blog/2026-oscar-predictions-what-betting-markets-say-about-the-98th-academy-awards)
+- [Will Ethereum Reach $4,500 in 2026? What Prediction Markets Say](/blog/will-ethereum-reach-4500-in-2026-what-prediction-markets-say)
 

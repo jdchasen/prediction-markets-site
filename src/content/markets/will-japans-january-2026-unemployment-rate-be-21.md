@@ -1,15 +1,15 @@
 ---
 title: "Will Japan’s January 2026 unemployment rate be ≤2.1%?"
-description: "Will Japan’s January 2026 unemployment rate be ≤2.1%? Odds: 4.0% YES on Polymarket. See live prices and trade this market."
+description: "Will Japan’s January 2026 unemployment rate be ≤2.1%? Odds: 2.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Japan’s January 2026 unemployment rate be ≤2.1%?"
 category: "economics"
 status: "active"
 lastUpdated: 2026-02-26
 expiryDate: 2026-03-03
 tags: ["economics", "polymarket"]
-polymarketYes: 4.0
-polymarketNo: 96.0
-polymarketVolume: 99335
+polymarketYes: 2.5
+polymarketNo: 97.5
+polymarketVolume: 99418
 polymarketUrl: "https://polymarket.com/event/will-japans-january-2026-unemployment-rate-be-2pt1"
 ---
 

@@ -45,8 +45,8 @@ KALSHI_REFERRAL = "https://kalshi.com/sign-up/?referral=f2e21ad4-75b7-4ffb-bfcc-
 POLYMARKET_REFERRAL = "https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup"
 
 # Minimum thresholds
-MIN_KALSHI_VOLUME = 1_000       # contracts
-MIN_POLYMARKET_VOLUME = 10_000  # USD
+MIN_KALSHI_VOLUME = 500         # contracts
+MIN_POLYMARKET_VOLUME = 5_000   # USD
 
 # Economics-targeted thresholds (relaxed to capture niche markets)
 MIN_ECON_KALSHI_VOLUME = 200        # contracts
@@ -82,7 +82,43 @@ TITLE_BLOCKLIST = [
     re.compile(r"(?i)suicide"),
 ]
 
-MAX_PAGES = 150
+MAX_PAGES = 300
+
+# Category-specific analysis guidance for Claude prompts
+CATEGORY_PROMPTS: dict[str, str] = {
+    "politics": (
+        "Reference relevant polling data, legislative calendars, or political dynamics. "
+        "Mention key dates like primaries, votes, or deadlines."
+    ),
+    "economics": (
+        "Reference specific economic indicators (CPI, NFP, FOMC schedule). "
+        "Mention upcoming data releases with dates and how they could move the market."
+    ),
+    "crypto": (
+        "Reference on-chain metrics, regulatory developments, or exchange flows where relevant. "
+        "Mention upcoming protocol upgrades, unlocks, or regulatory deadlines."
+    ),
+    "finance": (
+        "Reference relevant financial metrics, earnings dates, or index levels. "
+        "Mention upcoming catalysts like earnings reports, Fed meetings, or economic data."
+    ),
+    "sports": (
+        "Reference team/player matchup data, injury reports, or recent performance trends. "
+        "Mention upcoming games, playoff schedules, or roster decisions."
+    ),
+    "tech": (
+        "Reference product launch timelines, regulatory actions, or competitive dynamics. "
+        "Mention upcoming announcements, earnings, or policy decisions."
+    ),
+    "entertainment": (
+        "Reference awards season timelines, critical reception, or historical patterns. "
+        "Mention upcoming voting deadlines, ceremonies, or release dates."
+    ),
+    "science": (
+        "Reference historical data patterns, seasonal trends, or measurement methodology. "
+        "Mention upcoming observation windows or reporting dates."
+    ),
+}
 
 _BLOG_ARTICLES_CACHE: list[tuple[str, str, list[str]]] | None = None
 
@@ -212,7 +248,7 @@ def fetch_kalshi_markets(limit: int = 200) -> list[dict]:
     all_markets.sort(key=lambda m: m.get("volume", 0) or 0, reverse=True)
 
     now = datetime.now(timezone.utc)
-    min_expiry = now + timedelta(days=7)
+    min_expiry = now + timedelta(days=3)
 
     results = []
     for m in all_markets:
@@ -292,7 +328,7 @@ def fetch_polymarket_markets(limit: int = 200) -> list[dict]:
             break
 
     now = datetime.now(timezone.utc)
-    min_expiry = now + timedelta(days=7)
+    min_expiry = now + timedelta(days=3)
 
     results = []
     for m in all_markets:
@@ -676,24 +712,6 @@ def _find_related_articles(market: dict) -> list[tuple[str, str]]:
     return [(p, l) for _, p, l in scored[:2]]
 
 
-def _probability_text(yes_price: float) -> str:
-    """Generate conditional text based on probability range."""
-    if yes_price >= 90:
-        return "is considered highly likely by the market, with odds strongly favoring a YES outcome"
-    elif yes_price >= 70:
-        return "is leaning likely according to market pricing, with a solid majority of traders betting YES"
-    elif yes_price >= 55:
-        return "is a slight favorite according to current odds, though the outcome remains uncertain"
-    elif yes_price >= 45:
-        return "is essentially a coin flip according to market odds, with neither outcome clearly favored"
-    elif yes_price >= 30:
-        return "is considered unlikely by the market, with odds leaning toward NO"
-    elif yes_price >= 10:
-        return "is viewed as quite unlikely by traders, with strong odds favoring a NO outcome"
-    else:
-        return "is considered extremely unlikely by the market, with minimal chance of a YES resolution"
-
-
 def _format_volume(volume: float, platform: str) -> str:
     """Format volume with appropriate units."""
     if platform == "polymarket":
@@ -710,17 +728,23 @@ def _format_volume(volume: float, platform: str) -> str:
         return f"{volume:,.0f} contracts"
 
 
-def _generate_analysis(market: dict) -> str:
-    """Generate 2-3 paragraph market analysis using Claude Haiku.
+def _generate_analysis(market: dict, tier: str = "haiku") -> tuple[str, list[tuple[str, str]]]:
+    """Generate market analysis + FAQ using Claude.
 
-    Returns empty string if the Anthropic SDK is not installed or API key missing.
+    Args:
+        market: Unified market dict.
+        tier: "sonnet" for top markets by volume, "haiku" for the rest.
+
+    Returns:
+        (analysis_text, faq_list) where faq_list is [(question, answer), ...].
+        Returns ("", []) if the Anthropic SDK is not installed or API key missing.
     """
     if not HAS_ANTHROPIC:
-        return ""
+        return "", []
 
     api_key = os.environ.get("ANTHROPIC_API_KEY", "")
     if not api_key:
-        return ""
+        return "", []
 
     title = market["title"]
     category = _categorize(market.get("category", ""), title)
@@ -737,29 +761,82 @@ def _generate_analysis(market: dict) -> str:
     expiry = market.get("expiry", "")
     expiry_text = f" Expiry: {expiry}." if expiry else ""
 
+    category_guidance = CATEGORY_PROMPTS.get(category, "")
+
     prompt = (
-        f"Write 2-3 concise paragraphs analyzing this prediction market for a website audience.\n"
+        f"Write 3-4 concise paragraphs analyzing this prediction market for a website audience.\n"
         f"Market: {title}\n"
         f"Category: {category}\n"
         f"Current odds: {odds_text}\n"
         f"{expiry_text}\n\n"
+        f"Start with a one-sentence summary of where this market stands and why it matters right now.\n"
+        f"Include a concrete bull case AND bear case.\n"
+        f"Mention specific upcoming catalysts with dates where possible.\n"
+        f"{category_guidance}\n\n"
         f"Focus on: key factors driving the odds, what could change the probability, "
         f"and what traders should watch for. Be specific and analytical, not generic. "
         f"Do NOT use markdown headers. Do NOT repeat the market title or odds numbers. "
-        f"Write in a direct, expert tone. No filler sentences."
+        f"Write in a direct, expert tone. No filler sentences.\n\n"
+        f"After your analysis, output exactly this separator on its own line:\n"
+        f"---FAQ---\n"
+        f"Then output exactly 3 market-specific Q&A pairs in this format:\n"
+        f"Q: [specific question about this market]\n"
+        f"A: [concise 1-2 sentence answer]\n"
+        f"Q: [another question]\n"
+        f"A: [answer]\n"
+        f"Q: [third question]\n"
+        f"A: [answer]\n"
+        f"Make each question unique to THIS market — no generic prediction-market questions."
     )
+
+    model = "claude-sonnet-4-5-20250929" if tier == "sonnet" else "claude-haiku-4-5-20251001"
+    max_tokens = 1200 if tier == "sonnet" else 800
 
     try:
         client = anthropic.Anthropic(api_key=api_key)
         message = client.messages.create(
-            model="claude-haiku-4-5-20251001",
-            max_tokens=500,
+            model=model,
+            max_tokens=max_tokens,
             messages=[{"role": "user", "content": prompt}],
         )
-        return message.content[0].text.strip()
+        raw = message.content[0].text.strip()
+
+        # Split analysis from FAQ
+        if "---FAQ---" in raw:
+            analysis_part, faq_part = raw.split("---FAQ---", 1)
+            analysis = analysis_part.strip()
+            faqs = _parse_faqs(faq_part.strip())
+        else:
+            analysis = raw
+            faqs = []
+
+        return analysis, faqs
     except Exception as e:
         print(f"  Claude API error for '{title[:50]}': {e}")
-        return ""
+        return "", []
+
+
+def _parse_faqs(faq_text: str) -> list[tuple[str, str]]:
+    """Parse Q:/A: pairs from Claude FAQ output."""
+    faqs: list[tuple[str, str]] = []
+    lines = faq_text.strip().splitlines()
+    current_q = ""
+    current_a = ""
+
+    for line in lines:
+        line = line.strip()
+        if line.startswith("Q:"):
+            if current_q and current_a:
+                faqs.append((current_q, current_a))
+            current_q = line[2:].strip()
+            current_a = ""
+        elif line.startswith("A:"):
+            current_a = line[2:].strip()
+
+    if current_q and current_a:
+        faqs.append((current_q, current_a))
+
+    return faqs[:3]
 
 
 def _find_related_markets(market: dict, all_markets: list[dict]) -> list[dict]:
@@ -808,31 +885,27 @@ def _generate_key_dates(market: dict) -> str:
     return "\n".join(lines)
 
 
-def generate_body(market: dict, analysis: str = "", related_markets: list[dict] | None = None) -> str:
+def generate_body(
+    market: dict,
+    analysis: str = "",
+    faqs: list[tuple[str, str]] | None = None,
+    related_markets: list[dict] | None = None,
+) -> str:
     """Generate markdown body for a market odds page."""
     title = market["title"]
     question = market.get("question", title)
     km = market.get("kalshi")
     pm = market.get("polymarket")
 
-    # Pick primary odds for text
-    if km and pm:
-        avg_yes = (km["yes_price"] + pm["yes_price"]) / 2
-    elif km:
-        avg_yes = km["yes_price"]
-    else:
-        avg_yes = pm["yes_price"]
-
-    prob_text = _probability_text(avg_yes)
     lines = []
 
-    # Opening paragraph
-    lines.append(
-        f'**"{question}"** {prob_text}. '
-        f"Here's a breakdown of the current odds across prediction market platforms, "
-        f"updated as of {date.today().strftime('%B %d, %Y')}."
-    )
-    lines.append("")
+    # Opening: Claude analysis lede (first paragraph) or minimal fallback
+    if analysis:
+        # Use the first paragraph of analysis as the lede
+        paras = [p.strip() for p in analysis.split("\n\n") if p.strip()]
+        if paras:
+            lines.append(paras[0])
+            lines.append("")
 
     # Odds comparison table
     lines.append("## Current Odds")
@@ -842,61 +915,31 @@ def generate_body(market: dict, analysis: str = "", related_markets: list[dict] 
 
     if km:
         k_vol = _format_volume(km["volume"], "kalshi")
-        k_url = km.get("url", KALSHI_REFERRAL)
         lines.append(
             f'| Kalshi | {km["yes_price"]}% | {km["no_price"]}% | {k_vol} '
             f'| [Trade on Kalshi]({KALSHI_REFERRAL}) |'
         )
     if pm:
         p_vol = _format_volume(pm["volume"], "polymarket")
-        p_url = pm.get("url", POLYMARKET_REFERRAL)
         lines.append(
             f'| Polymarket | {pm["yes_price"]}% | {pm["no_price"]}% | {p_vol} '
             f'| [Trade on Polymarket]({POLYMARKET_REFERRAL}) |'
         )
     lines.append("")
 
-    # Market Analysis (Claude-generated)
+    # Market Analysis (Claude-generated, remaining paragraphs after lede)
     if analysis:
-        lines.append("## Market Analysis")
-        lines.append("")
-        lines.append(analysis)
-        lines.append("")
+        paras = [p.strip() for p in analysis.split("\n\n") if p.strip()]
+        if len(paras) > 1:
+            lines.append("## Market Analysis")
+            lines.append("")
+            lines.append("\n\n".join(paras[1:]))
+            lines.append("")
 
     # Key Dates
     key_dates = _generate_key_dates(market)
     if key_dates:
         lines.append(key_dates)
-
-    # Analysis section
-    lines.append("## What the Odds Mean")
-    lines.append("")
-
-    if avg_yes >= 90:
-        lines.append(
-            f"At **{avg_yes:.0f}%**, the market is pricing this as a near-certainty. "
-            f"However, even high-probability events can surprise — and the potential payout "
-            f"for a contrarian NO position reflects that risk."
-        )
-    elif avg_yes >= 60:
-        lines.append(
-            f"At **{avg_yes:.0f}%**, the market sees this as more likely than not. "
-            f"This probability reflects the collective wisdom of traders who have put real money behind their views. "
-            f"The remaining uncertainty means there's still meaningful upside for contrarian positions."
-        )
-    elif avg_yes >= 40:
-        lines.append(
-            f"At **{avg_yes:.0f}%**, this market is genuinely uncertain — close to a toss-up. "
-            f"These are often the most interesting markets to trade because the potential "
-            f"for price movement in either direction is high."
-        )
-    else:
-        lines.append(
-            f"At **{avg_yes:.0f}%**, the market considers this outcome unlikely. "
-            f"Contrarian YES positions are cheap but high-risk. If you have a strong thesis "
-            f"that the market is wrong, these low-probability markets can offer outsized returns."
-        )
-    lines.append("")
 
     # Platform comparison if multi-platform
     if km and pm:
@@ -937,21 +980,41 @@ def generate_body(market: dict, analysis: str = "", related_markets: list[dict] 
             lines.append(f"- [{rm['title']}](/odds/{rm_slug}) — {rm_yes:.0f}% YES")
         lines.append("")
 
-    # How to trade section
-    lines.append("## How to Trade This Market")
+    # FAQ section — Claude-generated market-specific, with fallback
+    lines.append("## Frequently Asked Questions")
     lines.append("")
-    if km:
-        lines.append(
-            f"On **[Kalshi]({KALSHI_REFERRAL})**, you can buy YES or NO contracts "
-            f"denominated in cents (1-99). Kalshi is CFTC-regulated and available to US residents. "
-            f"Contracts settle at $1 if the event occurs, $0 if it doesn't."
-        )
+    if faqs:
+        for q, a in faqs:
+            lines.append(f"### {q}")
+            lines.append("")
+            lines.append(a)
+            lines.append("")
+    else:
+        # Minimal fallback: 2 questions with actual market data
+        lines.append(f'### What are the current odds for "{question}"?')
         lines.append("")
-    if pm:
-        lines.append(
-            f"On **[Polymarket]({POLYMARKET_REFERRAL})**, you trade using USDC on the Polygon blockchain. "
-            f"Polymarket offers deep liquidity and a wide range of markets on current events."
-        )
+        if km and pm:
+            lines.append(
+                f"As of {date.today().strftime('%B %d, %Y')}, Kalshi prices YES at {km['yes_price']}% "
+                f"and Polymarket prices YES at {pm['yes_price']}%."
+            )
+        elif km:
+            lines.append(
+                f"As of {date.today().strftime('%B %d, %Y')}, Kalshi prices YES at {km['yes_price']}%."
+            )
+        else:
+            lines.append(
+                f"As of {date.today().strftime('%B %d, %Y')}, Polymarket prices YES at {pm['yes_price']}%."
+            )
+        lines.append("")
+        lines.append("### Where can I trade on this prediction market?")
+        lines.append("")
+        platforms = []
+        if km:
+            platforms.append(f"[Kalshi]({KALSHI_REFERRAL}) (US-regulated)")
+        if pm:
+            platforms.append(f"[Polymarket]({POLYMARKET_REFERRAL}) (crypto-based)")
+        lines.append(f'You can trade this market on {" and ".join(platforms)}.')
         lines.append("")
 
     # Related articles
@@ -962,46 +1025,6 @@ def generate_body(market: dict, analysis: str = "", related_markets: list[dict] 
         for path, label in related:
             lines.append(f"- [{label}]({path})")
         lines.append("")
-
-    # FAQ section for schema.org
-    lines.append("## Frequently Asked Questions")
-    lines.append("")
-    lines.append(f"### What are the current odds for \"{question}\"?")
-    lines.append("")
-    if km and pm:
-        lines.append(
-            f"As of {date.today().strftime('%B %d, %Y')}, Kalshi prices YES at {km['yes_price']}% "
-            f"and Polymarket prices YES at {pm['yes_price']}%. These odds are based on real-money "
-            f"trading activity."
-        )
-    elif km:
-        lines.append(
-            f"As of {date.today().strftime('%B %d, %Y')}, Kalshi prices YES at {km['yes_price']}%. "
-            f"This is based on real-money trading activity."
-        )
-    else:
-        lines.append(
-            f"As of {date.today().strftime('%B %d, %Y')}, Polymarket prices YES at {pm['yes_price']}%. "
-            f"This is based on real-money trading activity."
-        )
-    lines.append("")
-    lines.append("### Where can I trade on this prediction market?")
-    lines.append("")
-    platforms = []
-    if km:
-        platforms.append(f"[Kalshi]({KALSHI_REFERRAL}) (US-regulated)")
-    if pm:
-        platforms.append(f"[Polymarket]({POLYMARKET_REFERRAL}) (crypto-based)")
-    lines.append(f'You can trade this market on {" and ".join(platforms)}.')
-    lines.append("")
-    lines.append("### How do prediction market odds work?")
-    lines.append("")
-    lines.append(
-        "Prediction market prices represent the market's implied probability of an event occurring. "
-        "A YES price of 75% means traders collectively believe there's a 75% chance the event will happen. "
-        "You can buy YES (betting it will happen) or NO (betting it won't) and profit if you're correct."
-    )
-    lines.append("")
 
     return "\n".join(lines)
 
@@ -1123,7 +1146,12 @@ def _yaml_escape(s: str) -> str:
     return s.replace("\\", "\\\\").replace('"', '\\"')
 
 
-def generate_page(market: dict, analysis: str = "", related_markets: list[dict] | None = None) -> tuple[str, str]:
+def generate_page(
+    market: dict,
+    analysis: str = "",
+    faqs: list[tuple[str, str]] | None = None,
+    related_markets: list[dict] | None = None,
+) -> tuple[str, str]:
     """Generate a markdown page for a market. Returns (filename, content)."""
     title = market["title"]
     slug = slugify(title)
@@ -1190,7 +1218,7 @@ def generate_page(market: dict, analysis: str = "", related_markets: list[dict] 
     fm_lines.append("---")
 
     frontmatter = "\n".join(fm_lines)
-    body = generate_body(market, analysis=analysis, related_markets=related_markets)
+    body = generate_body(market, analysis=analysis, faqs=faqs, related_markets=related_markets)
 
     content = f"{frontmatter}\n\n{body}\n"
     filename = f"{slug}.md"
@@ -1356,6 +1384,85 @@ def _update_frontmatter_only(market: dict, filepath: Path):
     filepath.write_text(f"{frontmatter}\n\n{body}")
 
 
+def _delete_stale_settled(max_age_days: int = 30) -> int:
+    """Delete .md files for markets settled more than max_age_days ago."""
+    if not CONTENT_DIR.exists():
+        return 0
+
+    deleted = 0
+    today = date.today()
+
+    for md_file in list(CONTENT_DIR.glob("*.md")):
+        content = md_file.read_text(errors="replace")
+        if 'status: "settled"' not in content:
+            continue
+
+        # Extract lastUpdated date (= when it was marked settled)
+        date_match = re.search(r"^lastUpdated:\s*(\d{4}-\d{2}-\d{2})", content, re.MULTILINE)
+        if not date_match:
+            continue
+
+        try:
+            settled_date = date.fromisoformat(date_match.group(1))
+        except ValueError:
+            continue
+
+        age_days = (today - settled_date).days
+        if age_days > max_age_days:
+            md_file.unlink()
+            deleted += 1
+            print(f"  Deleted stale: {md_file.name} (settled {age_days} days ago)")
+
+    return deleted
+
+
+def _backfill_analysis(unified: list[dict]):
+    """Backfill Claude analysis on existing active pages that lack it.
+
+    Uses Sonnet for top-30 by volume, Haiku for the rest.
+    """
+    if not HAS_ANTHROPIC or not os.environ.get("ANTHROPIC_API_KEY"):
+        print("  Backfill skipped: ANTHROPIC_API_KEY not set or anthropic not installed")
+        return
+
+    if not CONTENT_DIR.exists():
+        return
+
+    # Build volume-ranked set of top-30 slugs for tier assignment
+    sorted_by_vol = sorted(unified, key=lambda m: m.get("total_volume", 0), reverse=True)
+    top_30_slugs = {slugify(m["title"]) for m in sorted_by_vol[:30]}
+
+    # Build slug→market lookup
+    market_by_slug = {slugify(m["title"]): m for m in unified}
+
+    backfilled = 0
+    for md_file in sorted(CONTENT_DIR.glob("*.md")):
+        content = md_file.read_text(errors="replace")
+        if 'status: "settled"' in content:
+            continue
+        if "## Market Analysis" in content:
+            continue
+
+        slug = md_file.stem
+        market = market_by_slug.get(slug)
+        if not market:
+            continue
+
+        tier = "sonnet" if slug in top_30_slugs else "haiku"
+        print(f"  Backfilling [{tier}]: {slug}")
+
+        analysis, faqs = _generate_analysis(market, tier=tier)
+        if not analysis:
+            continue
+
+        related = _find_related_markets(market, unified)
+        fn, new_content = generate_page(market, analysis=analysis, faqs=faqs, related_markets=related)
+        (CONTENT_DIR / fn).write_text(new_content)
+        backfilled += 1
+
+    print(f"  Backfilled {backfilled} pages with Claude analysis")
+
+
 def main():
     import argparse
 
@@ -1363,6 +1470,10 @@ def main():
     parser.add_argument(
         "--update-only", action="store_true",
         help="Only refresh odds on existing pages, don't create new ones",
+    )
+    parser.add_argument(
+        "--backfill", action="store_true",
+        help="Backfill Claude analysis on existing active pages missing it",
     )
     args = parser.parse_args()
 
@@ -1398,8 +1509,23 @@ def main():
     print("  Checking for settled markets...")
     update_settled_markets(kalshi, poly)
 
+    # Step 3b: Delete stale settled pages (>30 days old)
+    print("  Cleaning stale settled pages...")
+    stale_deleted = _delete_stale_settled(max_age_days=30)
+    if stale_deleted:
+        print(f"  Deleted {stale_deleted} stale settled pages")
+
+    # Step 3c: Backfill mode — generate analysis for existing pages missing it
+    if args.backfill:
+        print("  Running analysis backfill...")
+        _backfill_analysis(unified)
+
     # Step 4: Generate pages with smart caching
     CONTENT_DIR.mkdir(parents=True, exist_ok=True)
+
+    # Determine top-30 slugs for tier assignment
+    sorted_by_vol = sorted(unified, key=lambda m: m.get("total_volume", 0), reverse=True)
+    top_30_slugs = {slugify(m["title"]) for m in sorted_by_vol[:30]}
 
     generated = 0
     updated_fm_only = 0
@@ -1424,13 +1550,15 @@ def main():
 
         # File is new or odds changed >5pp — full regeneration with Claude analysis
         analysis = ""
+        faqs = []
         if HAS_ANTHROPIC and os.environ.get("ANTHROPIC_API_KEY"):
-            analysis = _generate_analysis(market)
+            tier = "sonnet" if slug in top_30_slugs else "haiku"
+            analysis, faqs = _generate_analysis(market, tier=tier)
             if analysis:
                 claude_calls += 1
 
         related = _find_related_markets(market, unified)
-        fn, content = generate_page(market, analysis=analysis, related_markets=related)
+        fn, content = generate_page(market, analysis=analysis, faqs=faqs, related_markets=related)
         (CONTENT_DIR / fn).write_text(content)
         generated += 1
 

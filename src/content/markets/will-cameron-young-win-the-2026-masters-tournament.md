@@ -3,7 +3,7 @@ title: "Will Cameron Young win the 2026 Masters tournament?"
 description: "Will Cameron Young win the 2026 Masters tournament? Odds: 1.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Cameron Young win the 2026 Masters tournament?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-02-26
 expiryDate: 2026-04-13
 tags: ["polymarket", "sports"]

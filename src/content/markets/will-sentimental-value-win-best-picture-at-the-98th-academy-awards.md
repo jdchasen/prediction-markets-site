@@ -3,7 +3,7 @@ title: "Will Sentimental Value win Best Picture at the 98th Academy Awards?"
 description: "Will Sentimental Value win Best Picture at the 98th Academy Awards? Odds: 0.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Sentimental Value win Best Picture at the 98th Academy Awards?"
 category: "entertainment"
-status: "active"
+status: "settled"
 lastUpdated: 2026-02-26
 expiryDate: 2026-03-15
 tags: ["entertainment", "polymarket"]
