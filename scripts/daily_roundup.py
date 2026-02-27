@@ -149,9 +149,14 @@ def fetch_kalshi_markets(limit: int = 10) -> list[dict]:
     # Sort by 24h volume descending so the mix changes daily
     markets.sort(key=lambda m: m.get("volume_24h", 0) or 0, reverse=True)
     results = []
-    for m in markets[:limit]:
+    for m in markets[:limit * 3]:  # oversample to compensate for filtering
         yes_price = m.get("yes_ask") or m.get("last_price") or 0
         no_price = m.get("no_ask") or (100 - yes_price if yes_price else 0)
+        # Skip markets with extreme odds — essentially already decided
+        if yes_price <= 5 or yes_price >= 95:
+            continue
+        if len(results) >= limit:
+            break
         results.append({
             "platform": "Kalshi",
             "title": m.get("title", ""),
@@ -188,7 +193,7 @@ def fetch_polymarket_markets(limit: int = 10) -> list[dict]:
         return []
 
     results = []
-    for m in markets[:limit]:
+    for m in markets[:limit * 3]:  # oversample to compensate for filtering
         outcomes = m.get("outcomePrices", "")
         yes_price = 0
         no_price = 0
@@ -204,6 +209,11 @@ def fetch_polymarket_markets(limit: int = 10) -> list[dict]:
             except (json.JSONDecodeError, ValueError, TypeError):
                 pass
 
+        # Skip markets with extreme odds — essentially already decided
+        if yes_price <= 5 or yes_price >= 95:
+            continue
+        if len(results) >= limit:
+            break
         results.append({
             "platform": "Polymarket",
             "title": m.get("question", "") or m.get("title", ""),
@@ -330,8 +340,9 @@ REQUIREMENTS:
    - Lead with the day's biggest mover or most interesting market
    - Group related markets into 3-5 thematic sections with H2 headers
    - For each notable market, mention the current price (as implied probability %) and volume
-   - Highlight any contracts trading near extreme levels (>90% or <10%)
-   - Note any interesting new markets or unusual categories
+   - Focus on CONTESTED markets where the outcome is uncertain and there is real debate
+   - Do NOT waste space on markets that are essentially settled (near 0% or 100%) — nobody cares about a team at 0.1% to win a championship
+   - Prioritize markets where something changed, prices moved, or there is a genuine decision point
 3. Include EXACTLY one Kalshi referral link: [Kalshi]({KALSHI_REFERRAL})
    — weave it naturally into text (e.g. "you can trade these markets on [Kalshi](...)")
 4. Include EXACTLY one Polymarket referral link: [Polymarket]({POLYMARKET_REFERRAL})
