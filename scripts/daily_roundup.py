@@ -393,6 +393,37 @@ OUTPUT ONLY the markdown article body."""
     )
     description = desc_msg.content[0].text.strip().strip('"').strip("'")
 
+    # Generate FAQs (required by blog schema)
+    faq_msg = client.messages.create(
+        model="claude-sonnet-4-5-20250929",
+        max_tokens=600,
+        messages=[{
+            "role": "user",
+            "content": (
+                f"Based on this prediction market roundup article, generate exactly "
+                f"3 FAQs as a YAML list. Each FAQ must have a 'question' and 'answer' field. "
+                f"Questions should be things a reader would search for. "
+                f"Answers should be 1-2 sentences max.\n\n"
+                f"ARTICLE TITLE: {title}\n"
+                f"ARTICLE BODY:\n{body[:2000]}\n\n"
+                f"OUTPUT FORMAT (output ONLY the YAML, no code fences or labels):\n"
+                f"  - question: \"...\"\n"
+                f"    answer: \"...\"\n"
+                f"  - question: \"...\"\n"
+                f"    answer: \"...\"\n"
+                f"  - question: \"...\"\n"
+                f"    answer: \"...\""
+            ),
+        }],
+    )
+    faqs_yaml = faq_msg.content[0].text.strip()
+    # Strip code fences if present
+    faqs_yaml = re.sub(r'^```(?:ya?ml)?\s*', '', faqs_yaml)
+    faqs_yaml = re.sub(r'\s*```$', '', faqs_yaml)
+    # Ensure proper indentation (each line indented 2 spaces under faqs:)
+    faq_lines = faqs_yaml.strip().splitlines()
+    faqs_block = "\n".join(f"  {line.strip()}" if line.strip().startswith("-") else f"    {line.strip()}" for line in faq_lines)
+
     # Build frontmatter
     tags_yaml = '"daily", "kalshi", "polymarket"'
     frontmatter = f'''---
@@ -402,6 +433,8 @@ pubDate: {date_iso}
 category: "strategies"
 tags: [{tags_yaml}]
 affiliate: "kalshi"
+faqs:
+{faqs_block}
 ---'''
 
     full_content = f"{frontmatter}\n\n{body}\n"

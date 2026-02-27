@@ -5,6 +5,13 @@ pubDate: 2026-02-26
 category: "strategies"
 tags: ["daily", "kalshi", "polymarket"]
 affiliate: "kalshi"
+faqs:
+  - question: "What are the current odds for Scott Bessent becoming Fed Chair?"
+    answer: "As of February 26, 2026, prediction markets price the probability of Trump nominating Scott Bessent as Fed Chair at just 0.1%, with $38 million in total volume on Polymarket."
+  - question: "What prediction markets are trending today?"
+    answer: "Top trending markets include the Scott Bessent Fed Chair nomination (0.1% Yes), Iran military strike timeline markets (1.4-8.5% by various dates), and Fed rate cut expectations for March 2026 (1.7% probability)."
+  - question: "Will the Fed cut rates in March 2026?"
+    answer: "Prediction markets show only a 1.7% implied probability of a 25 basis point Fed rate cut after the March 2026 FOMC meeting, with the March 18th meeting two weeks away."
 ---
 
 Someone just bet $18 million on Scott Bessent not becoming Fed chair—in a single day. The market "Will Trump nominate Scott Bessent as the next Fed chair?" pulled the biggest 24-hour volume on [Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=blog&utm_campaign=signup) today at $18 million, and traders have crushed the Yes price down to a nearly worthless 0.1¢. The No sits at 100.0¢. This isn't subtle hedging or gradual price discovery—this is a definitive statement.
