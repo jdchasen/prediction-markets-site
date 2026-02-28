@@ -23,19 +23,19 @@ faqs:
     answer: "Use the requests library to make authenticated HTTP calls to Kalshi's REST API. You need an API key and RSA private key for authentication, then you can fetch markets, check prices, and place orders programmatically."
   - question: "Can beginners build a prediction market trading bot?"
     answer: "Yes. If you know basic Python (HTTP requests, JSON parsing, loops), you can build a simple bot that fetches market data and places orders. Start with a read-only script that monitors prices before adding order execution."
-  - question: "What is the Polymarket API?"
+  - question: "What's the Polymarket API?"
     answer: "Polymarket's CLOB (Central Limit Order Book) API allows programmatic trading using USDC on the Polygon blockchain. It requires managing crypto wallets and signing transactions, adding complexity compared to Kalshi's traditional REST API."
 ---
 
-If you have been trading prediction markets manually -- refreshing pages, eyeballing prices, clicking buy buttons -- you are leaving money on the table. The edge in prediction markets often comes from speed and consistency: checking dozens of markets every few minutes, spotting mispriced contracts before the crowd, and executing without hesitation. You cannot do that by hand. You need code.
+If you've been trading prediction markets manually -- refreshing pages, eyeballing prices, clicking buy buttons -- you're leaving money on the table. The edge in prediction markets often comes from speed and consistency: checking dozens of markets every few minutes, spotting mispriced contracts before the crowd, and executing without hesitation. You can't do that by hand. You need code.
 
-This tutorial walks you through building a practical Python script that connects to the [Kalshi](https://kalshi.com/sign-up/?referral=f2e21ad4-75b7-4ffb-bfcc-f2fb36e07b21&m=true&utm_source=masterpredictionmarkets&utm_medium=blog&utm_campaign=signup) API, fetches live market data, analyzes prices, and places orders. By the end, you will have a working price-checker that runs on a schedule and a foundation you can extend into a full trading bot.
+This tutorial walks you through building a practical Python script that connects to the [Kalshi](https://kalshi.com/sign-up/?referral=f2e21ad4-75b7-4ffb-bfcc-f2fb36e07b21&m=true&utm_source=masterpredictionmarkets&utm_medium=blog&utm_campaign=signup) API, fetches live market data, analyzes prices, and places orders. By the end, you'll have a working price-checker that runs on a schedule and a foundation you can extend into a full trading bot.
 
-We run automated trading systems on prediction markets every day. This guide reflects the patterns and pitfalls we have encountered in production. No toy examples -- everything here is designed to actually work.
+We run automated trading systems on prediction markets every day. This guide reflects the patterns and pitfalls we've encountered in production. No toy examples -- everything here is designed to actually work.
 
 ## Prerequisites
 
-Before you start, you will need:
+Before you start, you'll need:
 
 - **Python 3.9+** installed
 - **A Kalshi account** with API access enabled
@@ -49,7 +49,7 @@ Kalshi provides a REST API that allows you to read market data, manage positions
 1. Log in to your [Kalshi account](https://kalshi.com)
 2. Navigate to your account settings or profile
 3. Find the API section and generate an API key pair
-4. You will receive an **API key** (sometimes called email) and **API secret** (your password or private key depending on the auth method)
+4. You'll receive an **API key** (sometimes called email) and **API secret** (your password or private key depending on the auth method)
 
 **Security note:** Never hardcode your API credentials in your script. Use environment variables or a `.env` file.
 
@@ -201,7 +201,7 @@ The order book tells you where the real liquidity sits. Thin books with wide spr
 
 ## Step 5: Placing a Limit Order
 
-Now for the part that matters -- placing an actual order. **Start with paper trading or very small sizes until you are confident your code is correct.** A bug in order placement code can drain your account fast.
+Now for the part that matters -- placing an actual order. **Start with paper trading or very small sizes until you're confident your code is correct.** A bug in order placement code can drain your account fast.
 
 ```python
 def place_order(session, ticker, side, price_cents, count):
@@ -231,7 +231,7 @@ def place_order(session, ticker, side, price_cents, count):
     }
 
     # Remove None values
-    payload = {k: v for k, v in payload.items() if v is not None}
+    payload = {k: v for k, v in payload.items() if v isn't None}
 
     print(f"Placing order: {side.upper()} {count}x {ticker} @ ${price_cents/100:.2f}")
 
@@ -252,7 +252,7 @@ order = place_order(session, "KXSPX-26FEB22-A6000", "yes", 45, 10)
 
 ### Canceling an Order
 
-Always implement a cancel function. You will need it more often than you think.
+Always implement a cancel function. You'll need it more often than you think.
 
 ```python
 def cancel_order(session, order_id):
@@ -271,7 +271,7 @@ def cancel_order(session, order_id):
 
 ## Step 6: Checking Your Positions
 
-After placing orders, you need to know what you are holding:
+After placing orders, you need to know what you're holding:
 
 ```python
 def get_positions(session):
@@ -409,7 +409,7 @@ def api_call_with_retry(func, *args, max_retries=3, **kwargs):
 
 ### Rate Limiting
 
-Kalshi's API has rate limits. If you are polling many markets frequently, space out your requests:
+Kalshi's API has rate limits. If you're polling many markets frequently, space out your requests:
 
 ```python
 import time
@@ -425,7 +425,7 @@ def fetch_all_markets_throttled(session, tickers, delay=0.2):
 
 ## Connecting to Polymarket (Brief Overview)
 
-[Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=blog&utm_campaign=signup) uses a different architecture -- it is built on the Polygon blockchain, so interacting with it programmatically involves crypto libraries rather than simple REST calls. The basic setup:
+[Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=blog&utm_campaign=signup) uses a different architecture -- it's built on the Polygon blockchain, so interacting with it programmatically involves crypto libraries rather than simple REST calls. The basic setup:
 
 ```python
 # Polymarket uses the CLOB (Central Limit Order Book) API
@@ -463,19 +463,19 @@ This tutorial gives you the foundation. Here are practical next steps:
 
 4. **Multi-market scanning.** Instead of a static watchlist, scan all open markets on Kalshi, filter for categories you understand, and rank them by estimated edge.
 
-5. **Logging and P&L tracking.** Log every trade, every price check, and every decision to a file or database. You cannot improve what you cannot measure.
+5. **Logging and P&L tracking.** Log every trade, every price check, and every decision to a file or database. You can't improve what you can't measure.
 
-If you are serious about building a trading system, study the [strategies that work in prediction markets](/blog/prediction-market-strategies-finding-edge-as-a-retail-trader) before writing code to automate them. Automating a bad strategy just helps you lose money faster.
+If you're serious about building a trading system, study the [strategies that work in prediction markets](/blog/prediction-market-strategies-finding-edge-as-a-retail-trader) before writing code to automate them. Automating a bad strategy just helps you lose money faster.
 
 ## Common Pitfalls
 
 - **Testing with real money.** Use small sizes (1-2 contracts) until your code is battle-tested. A loop that places orders instead of canceling them can drain your account in seconds.
 - **Ignoring fees.** Every order costs $0.02 per contract. Your code needs to account for fees when calculating expected profit. A trade that looks profitable before fees might be a loser after them.
 - **Not handling API errors.** Networks fail, tokens expire, rate limits hit. Every API call should have error handling. Silent failures are worse than loud crashes.
-- **Over-trading.** It is easy to build a bot that trades constantly. It is hard to build one that only trades when there is genuine edge. Restraint is a feature, not a limitation.
+- **Over-trading.** It's easy to build a bot that trades constantly. It's hard to build one that only trades when there's genuine edge. Restraint is a feature, not a limitation.
 
 ## The Bottom Line
 
 Automating your prediction market trading is the single highest-leverage thing you can do as a retail trader. The API gives you the ability to monitor more markets, react faster, and execute more consistently than any manual trader can. Start with the price checker in this guide, make sure it runs reliably, and gradually add execution logic as you gain confidence.
 
-The code here is a starting point, not a finished product. The traders making real money in prediction markets are the ones who [build, test, and iterate](/blog/5-common-prediction-market-mistakes-to-avoid) relentlessly. Your first script will be rough. Your tenth will be profitable.
+The code here's a starting point, not a finished product. The traders making real money in prediction markets are the ones who [build, test, and iterate](/blog/5-common-prediction-market-mistakes-to-avoid) relentlessly. Your first script will be rough. Your tenth will be profitable.

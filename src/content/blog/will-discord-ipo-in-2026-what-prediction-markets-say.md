@@ -33,7 +33,7 @@ It's a little confusing, but once you flip it in your head, it makes sense. [Che
 
 Discord has come a long way from "free chat app for gamers." It now has over 200 million monthly users, growing revenue from Nitro subscriptions, server boosts, and early advertising experiments. Most importantly, reports suggest the company has either reached profitability or is right on the doorstep.
 
-That matters because the IPO market in 2026 is not the "growth at all costs" market of 2021. Investors want to see a real business model. A profitable Discord is a much easier pitch to institutional buyers on a roadshow.
+That matters because the IPO market in 2026 isn't the "growth at all costs" market of 2021. Investors want to see a real business model. A profitable Discord is a much easier pitch to institutional buyers on a roadshow.
 
 ### The IPO Window Is Open
 

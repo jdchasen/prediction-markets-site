@@ -6,25 +6,25 @@ category: "strategies"
 tags: ["strategies", "kalshi", "probability"]
 affiliate: "kalshi"
 faqs:
-  - question: "What is the Kelly criterion for prediction markets?"
+  - question: "What's the Kelly criterion for prediction markets?"
     answer: "The Kelly criterion calculates the optimal fraction of your bankroll to bet on a trade with positive expected value. For binary prediction market contracts, the formula is f = (b * p - q) / b, where b is net odds after fees, p is your estimated win probability, and q is 1 - p."
   - question: "Why should I use half Kelly instead of full Kelly?"
     answer: "Full Kelly assumes your probability estimate is perfectly accurate, which it never is. Half Kelly achieves roughly 75% of the optimal growth rate while cutting variance in half, making it the professional standard."
   - question: "How do you account for Kalshi fees in the Kelly criterion?"
     answer: "Multiply the profit portion by 0.93 to account for Kalshi's 7% settlement fee. The correct net odds formula is b = ((1 - price) * 0.93) / price. Forgetting this adjustment overstates your odds by about 7.5%."
-  - question: "What is the maximum you should bet on a single prediction market contract?"
+  - question: "What's the maximum you should bet on a single prediction market contract?"
     answer: "Never risk more than 5% of your bankroll on a single contract, regardless of what Kelly recommends. This hard cap protects against model errors and situations where your probability estimate is significantly wrong."
 ---
 
-You have found a prediction market contract with positive expected value. You are confident in your edge. The question that determines whether you grow your account or blow it up is: how much should you bet? Too little and you leave money on the table. Too much and a run of bad luck wipes you out. The Kelly criterion answers this question with mathematical precision, and it is the position-sizing framework used by virtually every serious prediction market trader.
+You've found a prediction market contract with positive expected value. You're confident in your edge. The question that determines whether you grow your account or blow it up is: how much should you bet? Too little and you leave money on the table. Too much and a run of bad luck wipes you out. The Kelly criterion answers this question with mathematical precision, and it's the position-sizing framework used by virtually every serious prediction market trader.
 
 ## What Is the Kelly Criterion?
 
 The Kelly criterion is a formula developed by John Kelly at Bell Labs in 1956 that calculates the optimal fraction of your bankroll to wager on a bet with positive expected value. "Optimal" here means the bet size that maximizes the long-term growth rate of your wealth.
 
-The key insight is that there is a single bet size that grows your bankroll faster than any other over repeated bets. Bet less than Kelly and you grow more slowly than optimal. Bet more than Kelly and you actually grow slower -- because the oversized bets amplify variance and increase the chance of devastating drawdowns.
+The key insight is that there's a single bet size that grows your bankroll faster than any other over repeated bets. Bet less than Kelly and you grow more slowly than optimal. Bet more than Kelly and you actually grow slower -- because the oversized bets amplify variance and increase the chance of devastating drawdowns.
 
-Kelly is not a guarantee of profit on any single trade. It is a framework for making the mathematically best sizing decision given your edge, the odds, and the assumption that you will make many similar bets over time.
+Kelly isn't a guarantee of profit on any single trade. It's a framework for making the mathematically best sizing decision given your edge, the odds, and the assumption that you'll make many similar bets over time.
 
 ## The Kelly Formula for Prediction Markets
 
@@ -66,13 +66,13 @@ Note how both examples suggest roughly the same Kelly fraction despite very diff
 
 ## Why Full Kelly Is Too Aggressive
 
-Here is the uncomfortable truth: full Kelly sizing assumes your probability estimate is perfectly accurate. It is not. Nobody's is.
+Here's the uncomfortable truth: full Kelly sizing assumes your probability estimate is perfectly accurate. It's not. Nobody's is.
 
-If you estimate 55% probability and the true probability is actually 48%, your edge is not 15 cents -- it is negative. You are betting 22.7% of your bankroll on a losing proposition. A few trades like this and your account takes a hit that takes months to recover from.
+If you estimate 55% probability and the true probability is actually 48%, your edge isn't 15 cents -- it's negative. You're betting 22.7% of your bankroll on a losing proposition. A few trades like this and your account takes a hit that takes months to recover from.
 
 Full Kelly also produces extreme variance. Even with accurate probability estimates, full Kelly generates drawdowns of 50% or more with uncomfortable frequency. Mathematically, this is expected -- the formula maximizes the log-growth rate, not the smoothness of the equity curve.
 
-This is not theoretical. Professional traders, hedge funds, and serious sports bettors almost universally use fractional Kelly rather than full Kelly. The growth rate sacrifice is small; the variance reduction is enormous.
+This isn't theoretical. Professional traders, hedge funds, and serious sports bettors almost universally use fractional Kelly rather than full Kelly. The growth rate sacrifice is small; the variance reduction is enormous.
 
 > **Calculate it instantly:** Use our [Kelly Criterion Calculator](/tools/kelly-calculator) to find the optimal bet size for any prediction market trade. Enter your bankroll, contract price, probability estimate, and platform -- it shows full, half, and quarter Kelly with growth rate comparisons.
 
@@ -94,7 +94,7 @@ The math is elegant: half Kelly achieves roughly 75% of the optimal growth rate 
 
 Regardless of what Kelly says, never risk more than 5% of your bankroll on a single contract. This is a hard cap that protects against model error, black swan events, and the inevitable surprise where your "80% probability" estimate turns out to be 30%.
 
-If full Kelly suggests 30% of your bankroll and you are using half Kelly (15%), that is still above the 5% cap. In this case, the cap overrides Kelly and you bet 5%.
+If full Kelly suggests 30% of your bankroll and you're using half Kelly (15%), that is still above the 5% cap. In this case, the cap overrides Kelly and you bet 5%.
 
 In practice, this cap rarely binds on half Kelly for contracts priced between $0.20 and $0.80 with moderate edges. It mainly prevents disaster on extreme scenarios where Kelly produces an unusually large recommendation.
 
@@ -104,9 +104,9 @@ Real portfolios have multiple simultaneous positions, and Kelly needs to be adju
 
 The simplest approach: treat each position independently but use a shared bankroll. When you calculate Kelly for position B, use your current bankroll minus capital already committed to position A. This naturally scales down later positions and prevents over-commitment.
 
-A more rigorous approach accounts for correlation between positions. If two of your positions are both weather contracts in the same region, they are likely to win or lose together. Correlated positions should be sized more conservatively because a simultaneous loss has a compounding impact on your bankroll.
+A more rigorous approach accounts for correlation between positions. If two of your positions are both weather contracts in the same region, they're likely to win or lose together. Correlated positions should be sized more conservatively because a simultaneous loss has a compounding impact on your bankroll.
 
-The practical rule: if your total portfolio uses more than 20-25% of your bankroll across all positions (using fractional Kelly), you are likely over-concentrated. Either reduce individual position sizes or use the [Portfolio Calculator](/tools/portfolio-calculator) to check your overall exposure and concentration risk.
+The practical rule: if your total portfolio uses more than 20-25% of your bankroll across all positions (using fractional Kelly), you're likely over-concentrated. Either reduce individual position sizes or use the [Portfolio Calculator](/tools/portfolio-calculator) to check your overall exposure and concentration risk.
 
 ## Common Kelly Mistakes
 
@@ -120,11 +120,11 @@ Forgetting the 0.93 multiplier overstates your odds and leads to oversizing. On 
 
 ### 2. Applying Kelly to Negative EV Bets
 
-Kelly only works when expected value is positive. If your probability estimate does not exceed the breakeven probability after fees, Kelly returns zero or a negative number -- meaning "do not bet." Some traders override this because they "feel good" about a trade. Do not do this. Kelly is telling you the trade is a loser on average. Listen. Use the [Probability Calculator](/tools/probability-calculator) to verify positive EV before running Kelly.
+Kelly only works when expected value is positive. If your probability estimate doesn't exceed the breakeven probability after fees, Kelly returns zero or a negative number -- meaning "don't bet." Some traders override this because they "feel good" about a trade. Don't do this. Kelly is telling you the trade is a loser on average. Listen. Use the [Probability Calculator](/tools/probability-calculator) to verify positive EV before running Kelly.
 
 ### 3. Using a Static Bankroll
 
-Kelly fraction is applied to your current bankroll, not your starting bankroll. If you started with $1,000 and are now at $1,400, Kelly should be calculated on $1,400. If you have drawn down to $700, Kelly should use $700. This self-adjusting property is one of Kelly's key strengths -- it automatically sizes you down after losses and up after wins.
+Kelly fraction is applied to your current bankroll, not your starting bankroll. If you started with $1,000 and are now at $1,400, Kelly should be calculated on $1,400. If you've drawn down to $700, Kelly should use $700. This self-adjusting property is one of Kelly's key strengths -- it automatically sizes you down after losses and up after wins.
 
 ### 4. Ignoring Estimation Uncertainty
 
@@ -138,6 +138,6 @@ If you estimate 60% probability with high confidence (say, based on a well-calib
 - **Cap any single position at 5% of bankroll** regardless of what Kelly recommends.
 - **Scale Kelly to your confidence.** Strong models deserve half Kelly. Gut feelings deserve quarter Kelly or less.
 - **Recalculate as your bankroll changes.** Kelly uses current capital, not starting capital.
-- **Never apply Kelly to negative EV trades.** If Kelly says zero, the trade is not worth taking.
+- **Never apply Kelly to negative EV trades.** If Kelly says zero, the trade isn't worth taking.
 
-The Kelly criterion is not a guarantee of profits. It is a framework for making the mathematically optimal sizing decision given your inputs. Combined with disciplined [edge identification](/blog/prediction-market-strategies-finding-edge-as-a-retail-trader) and rigorous [probability calculation](/blog/how-to-calculate-implied-probability-prediction-markets), it is the closest thing to a formula for long-term success in prediction markets.
+The Kelly criterion isn't a guarantee of profits. It's a framework for making the mathematically optimal sizing decision given your inputs. Combined with disciplined [edge identification](/blog/prediction-market-strategies-finding-edge-as-a-retail-trader) and rigorous [probability calculation](/blog/how-to-calculate-implied-probability-prediction-markets), it's the closest thing to a formula for long-term success in prediction markets.

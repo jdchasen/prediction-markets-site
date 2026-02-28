@@ -50,7 +50,7 @@ The political environment has shifted in crypto's favor. Clearer rules — even 
 
 ### A Recession Would Hurt
 
-Bitcoin likes to call itself "digital gold," but in actual market stress, it trades more like a tech stock. During COVID and the 2022 crash, BTC sold off hard alongside everything else. A real recession could push prices well below where they are today, $75K target or not.
+Bitcoin likes to call itself "digital gold," but in actual market stress, it trades more like a tech stock. During COVID and the 2022 crash, BTC sold off hard alongside everything else. A real recession could push prices well below where they're today, $75K target or not.
 
 ### Another Exchange Blowup
 

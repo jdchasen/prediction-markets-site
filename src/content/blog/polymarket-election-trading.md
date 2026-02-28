@@ -39,7 +39,7 @@ The key data points:
 
 ## Why Markets Beat Polls
 
-Understanding why prediction markets outperformed polls is not just an academic exercise -- it is directly relevant to how you should trade political events going forward.
+Understanding why prediction markets outperformed polls isn't just an academic exercise -- it's directly relevant to how you should trade political events going forward.
 
 ### Skin in the Game
 
@@ -49,7 +49,7 @@ The effect is measurable. Studies dating back to the Iowa Electronic Markets in 
 
 ### Real-Time Information Processing
 
-Polls are snapshots. Even the best polling operations take days to field a survey, collect responses, weight the data, and publish results. By the time a poll is released, it is already reflecting information that is days old.
+Polls are snapshots. Even the best polling operations take days to field a survey, collect responses, weight the data, and publish results. By the time a poll is released, it's already reflecting information that is days old.
 
 Prediction markets reprice in real time. When a major campaign event occurs -- a debate gaffe, an endorsement, an October surprise -- the market reacts within minutes. Traders who have faster or better analysis immediately update the price. This continuous information processing means the market price at any given moment reflects the most current available information, not last week's snapshot.
 
@@ -57,17 +57,17 @@ Prediction markets reprice in real time. When a major campaign event occurs -- a
 
 No single analyst, pollster, or model has access to all relevant information. One trader might have deep expertise in turnout modeling. Another might be plugged into on-the-ground campaign operations in swing states. A third might be running sophisticated models on early vote data.
 
-The market price aggregates all of these perspectives simultaneously. This is the "wisdom of crowds" effect, but with a critical addition: participants are weighted by their conviction (how much they are willing to bet), which means better-informed participants tend to have a larger influence on the price.
+The market price aggregates all of these perspectives simultaneously. This is the "wisdom of crowds" effect, but with a critical addition: participants are weighted by their conviction (how much they're willing to bet), which means better-informed participants tend to have a larger influence on the price.
 
 ### Incorporating Non-Polling Information
 
-Polls measure stated preferences. Markets can incorporate anything: early voting data, voter registration trends, ground game reports, ad spending patterns, fundraising numbers, legal challenges, weather forecasts for election day, and a thousand other variables that polling simply does not capture.
+Polls measure stated preferences. Markets can incorporate anything: early voting data, voter registration trends, ground game reports, ad spending patterns, fundraising numbers, legal challenges, weather forecasts for election day, and a thousand other variables that polling simply doesn't capture.
 
 In 2024, some of the sharpest moves in Polymarket's election markets came from early vote data and registration trends that were publicly available but not yet reflected in polling models. Traders who monitored these data sources in real time had a systematic edge.
 
 ## How Election Markets Actually Work on Polymarket
 
-For traders who want to participate in the next cycle, here is how the mechanics work. If you are new to the platform, our [complete Polymarket guide](/blog/polymarket-guide-how-to-trade-crypto-prediction-markets) covers the setup process and interface.
+For traders who want to participate in the next cycle, here's how the mechanics work. If you're new to the platform, our [complete Polymarket guide](/blog/polymarket-guide-how-to-trade-crypto-prediction-markets) covers the setup process and interface.
 
 ### Contract Structure
 
@@ -99,9 +99,9 @@ As events approach, liquidity increases dramatically. The presidential election 
 
 ### 3. Correlated Markets Offer Hedging and Arbitrage
 
-Polymarket offered contracts on not just the presidential race, but also Senate races, House control, individual state outcomes, popular vote margins, and more. These contracts are correlated, and when one moves, the others should adjust accordingly. Sometimes they do not adjust simultaneously, creating brief arbitrage opportunities.
+Polymarket offered contracts on not just the presidential race, but also Senate races, House control, individual state outcomes, popular vote margins, and more. These contracts are correlated, and when one moves, the others should adjust accordingly. Sometimes they don't adjust simultaneously, creating brief arbitrage opportunities.
 
-For example, if a state-level contract reprices based on new polling data, the national-level presidential contract should also move -- but there is often a lag of minutes or even hours. Traders who monitor correlated markets can capture these dislocations.
+For example, if a state-level contract reprices based on new polling data, the national-level presidential contract should also move -- but there's often a lag of minutes or even hours. Traders who monitor correlated markets can capture these dislocations.
 
 ### 4. Exit Before Settlement When Possible
 
@@ -109,7 +109,7 @@ A contract trading at $0.92 the night before a likely outcome is confirmed offer
 
 ## What to Watch for 2026 Midterms
 
-The 2026 midterm elections will almost certainly generate significant prediction market activity, though likely at lower volumes than the presidential cycle. Here is what to watch:
+The 2026 midterm elections will almost certainly generate significant prediction market activity, though likely at lower volumes than the presidential cycle. Here's what to watch:
 
 - **Senate control:** Individual Senate race contracts and an overall Senate control contract will be the most liquid midterm markets.
 - **House control:** Similar structure to Senate, though individual House race contracts may have thin liquidity.

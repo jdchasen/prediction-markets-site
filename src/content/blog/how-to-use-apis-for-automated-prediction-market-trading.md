@@ -27,7 +27,7 @@ faqs:
     answer: "The infrastructure cost is minimal -- a basic VPS or cloud instance costs $5-20 per month. The real cost is the trading capital you deploy and the fees on each transaction. Most bots need at least $500-2,000 in trading capital to diversify effectively."
 ---
 
-Manual trading on prediction markets works fine when you are watching one or two contracts. But the moment you want to monitor dozens of weather markets, scan hundreds of Kalshi range contracts for mispriced strikes, or react to a forex data feed in real time, you hit a wall. The human refresh-and-click loop cannot compete with a script that polls an API every five seconds and executes in milliseconds. That is why every serious prediction market trader eventually ends up writing code. This guide walks through the practical reality of building automated trading systems on [Kalshi](https://kalshi.com/sign-up/?referral=f2e21ad4-75b7-4ffb-bfcc-f2fb36e07b21&m=true&utm_source=masterpredictionmarkets&utm_medium=blog&utm_campaign=signup) and [Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=blog&utm_campaign=signup) -- the APIs, the architecture, the code, and the mistakes that cost real money.
+Manual trading on prediction markets works fine when you're watching one or two contracts. But the moment you want to monitor dozens of weather markets, scan hundreds of Kalshi range contracts for mispriced strikes, or react to a forex data feed in real time, you hit a wall. The human refresh-and-click loop can't compete with a script that polls an API every five seconds and executes in milliseconds. That's why every serious prediction market trader eventually ends up writing code. This guide walks through the practical reality of building automated trading systems on [Kalshi](https://kalshi.com/sign-up/?referral=f2e21ad4-75b7-4ffb-bfcc-f2fb36e07b21&m=true&utm_source=masterpredictionmarkets&utm_medium=blog&utm_campaign=signup) and [Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=blog&utm_campaign=signup) -- the APIs, the architecture, the code, and the mistakes that cost real money.
 
 ## Why Automate Prediction Market Trading?
 
@@ -43,7 +43,7 @@ Kalshi lists hundreds of contracts on any given day across weather, economics, c
 
 ### 24/7 Operation and Discipline
 
-Markets move overnight. Economic data drops at 8:30 AM ET. Weather forecasts update at 4 AM. An automated system does not sleep, does not get bored, and does not make impulsive trades because a contract "feels" cheap. It follows the rules you define, every time, without exception.
+Markets move overnight. Economic data drops at 8:30 AM ET. Weather forecasts update at 4 AM. An automated system doesn't sleep, doesn't get bored, and doesn't make impulsive trades because a contract "feels" cheap. It follows the rules you define, every time, without exception.
 
 ## Kalshi REST API Overview
 
@@ -179,7 +179,7 @@ order = clob_client.create_and_post_order(
 
 ## Architecture of an Automated Trading Bot
 
-A production trading bot is not a single script. It is a system with distinct components that communicate through well-defined interfaces. Here is the architecture that works.
+A production trading bot isn't a single script. It's a system with distinct components that communicate through well-defined interfaces. Here's the architecture that works.
 
 ### Data Feeds
 
@@ -211,18 +211,18 @@ The strategy also decides position sizing. A fractional Kelly criterion approach
 
 The execution layer translates strategy signals into actual orders. It handles order placement, cancellation, and modification. Critical details here:
 
-- **Check existing positions** before placing new orders. You do not want to double up accidentally.
+- **Check existing positions** before placing new orders. You don't want to double up accidentally.
 - **Use limit orders**, not market orders. Market orders on thin prediction market order books will fill at terrible prices.
 - **Implement retry logic** for failed API calls. Networks are unreliable. A dropped order submission should be retried, not silently ignored.
 
 ### Risk Management
 
-Risk management is not optional. At minimum, your bot needs:
+Risk management isn't optional. At minimum, your bot needs:
 
 - **Maximum position size per market.** Cap the number of contracts in any single market.
 - **Maximum total exposure.** Limit the total capital deployed across all positions.
 - **Convergence exit logic.** As settlement approaches and a contract is deep in the money, sell to lock in profit rather than waiting for settlement. This frees capital and avoids settlement fees.
-- **Short position prevention.** If a sell order fills but the position tracker does not update correctly, the bot might keep selling into a short position. This is a real failure mode that can drain an account quickly. Build explicit guards against it.
+- **Short position prevention.** If a sell order fills but the position tracker doesn't update correctly, the bot might keep selling into a short position. This is a real failure mode that can drain an account quickly. Build explicit guards against it.
 
 ## Common Pitfalls
 
@@ -266,11 +266,11 @@ The most dangerous bugs in trading bots are order state management issues. An or
 
 ## Key Takeaways
 
-- **Automation gives you speed, scale, and discipline** that manual trading cannot match. If you are trading more than a handful of contracts, code is not optional -- it is the baseline.
+- **Automation gives you speed, scale, and discipline** that manual trading can't match. If you're trading more than a handful of contracts, code isn't optional -- it's the baseline.
 - **Kalshi's REST API** provides clean endpoints for market discovery, order placement, and position management. Authentication uses signed API key headers.
 - **Polymarket's CLOB API** offers similar functionality but requires cryptographic wallet signing for order submission. The `py-clob-client` library simplifies this.
 - **A production bot has four layers**: data feeds (weather, forex, financial, sports), strategy (fair value calculation and sizing), execution (order management with retries), and risk management (position limits and exit logic).
-- **Always calculate edge after fees.** Kalshi's fee structure eliminates many trades that look profitable on a gross basis. If your net expected value is not clearly positive, skip the trade.
+- **Always calculate edge after fees.** Kalshi's fee structure eliminates many trades that look profitable on a gross basis. If your net expected value isn't clearly positive, skip the trade.
 - **Respect rate limits** by implementing client-side throttling. Batch your API calls and avoid polling more frequently than necessary.
 - **Order state management is where bots blow up.** Reconcile your local position tracker with the exchange regularly, and build explicit guards against unintended short positions.
 - **Start with one market category** (weather is ideal due to clean data and fast feedback loops), prove your system works, then expand to other categories.

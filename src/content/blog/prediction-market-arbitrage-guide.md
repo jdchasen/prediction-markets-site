@@ -6,15 +6,15 @@ category: "strategies"
 tags: ["strategies", "kalshi", "polymarket"]
 affiliate: "kalshi"
 faqs:
-  - question: "What is prediction market arbitrage?"
-    answer: "Prediction market arbitrage means buying a contract on one platform where it is cheap and selling the equivalent on another platform where it is expensive, locking in a guaranteed profit regardless of the outcome."
+  - question: "What's prediction market arbitrage?"
+    answer: "Prediction market arbitrage means buying a contract on one platform where it's cheap and selling the equivalent on another platform where it's expensive, locking in a guaranteed profit regardless of the outcome."
   - question: "Can you arbitrage between Kalshi and Polymarket?"
-    answer: "Yes, when both platforms list contracts on the same event. If Kalshi prices YES at 40 cents and Polymarket prices YES at 55 cents, there is a potential arbitrage opportunity -- though fees, execution risk, and settlement differences affect profitability."
+    answer: "Yes, when both platforms list contracts on the same event. If Kalshi prices YES at 40 cents and Polymarket prices YES at 55 cents, there's a potential arbitrage opportunity -- though fees, execution risk, and settlement differences affect profitability."
   - question: "How much profit can you make from prediction market arbitrage?"
     answer: "Individual arbitrage trades typically yield 2-8% profit after fees. The challenge is finding opportunities, executing before they close, and managing capital across platforms. Automated scanning significantly improves detection speed."
 ---
 
-Arbitrage in prediction markets is the closest thing to a free lunch in trading: buy a contract on one platform where it is cheap, sell (or buy the opposite side on) another platform where it is expensive, and lock in a guaranteed profit regardless of the outcome. In theory, it is risk-free. In practice, fees, execution risk, and settlement differences make it far more nuanced than it appears. This guide walks through exactly how to find, calculate, and execute prediction market arbitrage -- and when to walk away.
+Arbitrage in prediction markets is the closest thing to a free lunch in trading: buy a contract on one platform where it's cheap, sell (or buy the opposite side on) another platform where it's expensive, and lock in a guaranteed profit regardless of the outcome. In theory, it's risk-free. In practice, fees, execution risk, and settlement differences make it far more nuanced than it appears. This guide walks through exactly how to find, calculate, and execute prediction market arbitrage -- and when to walk away.
 
 ## What Is Prediction Market Arbitrage?
 
@@ -26,7 +26,7 @@ Why do these discrepancies exist? Different platforms have different participant
 
 ## How to Identify an Arb
 
-Finding genuine arbitrage requires a systematic approach. Here is the three-step process.
+Finding genuine arbitrage requires a systematic approach. Here's the three-step process.
 
 ### Step 1: Find Overlapping Markets
 
@@ -38,11 +38,11 @@ Look for events that are listed on both Kalshi and Polymarket with identical (or
 - Major political outcomes
 - Election results
 
-The resolution criteria must match. "Will Bitcoin exceed $100,000 by December 31?" on Kalshi and "Bitcoin above $100K on Dec 31" on Polymarket are likely the same contract -- but verify the exact settlement source, time, and boundary conditions. A contract that settles at 11:59 PM ET on one platform and 00:00 UTC on another is not the same contract.
+The resolution criteria must match. "Will Bitcoin exceed $100,000 by December 31?" on Kalshi and "Bitcoin above $100K on Dec 31" on Polymarket are likely the same contract -- but verify the exact settlement source, time, and boundary conditions. A contract that settles at 11:59 PM ET on one platform and 00:00 UTC on another isn't the same contract.
 
 ### Step 2: Compare Prices Across Both Sides
 
-A real arbitrage requires the combined cost of covering both outcomes to be less than $1.00. Here is the math:
+A real arbitrage requires the combined cost of covering both outcomes to be less than $1.00. Here's the math:
 
 **Arb exists if: Kalshi YES price + Polymarket NO price < $1.00**
 
@@ -56,7 +56,7 @@ This is where most apparent arbs die. You must calculate the net profit after fe
 - Kalshi: receive $1.00, pay fee on profit, net = cost + (1 - cost) × 0.93
 - Polymarket: lose your NO cost entirely
 
-**Scenario B (Event does not occur):** Your Kalshi YES loses, your Polymarket NO wins.
+**Scenario B (Event doesn't occur):** Your Kalshi YES loses, your Polymarket NO wins.
 - Kalshi: lose your YES cost entirely
 - Polymarket: receive $1.00, net = cost + (1 - cost)
 
@@ -66,7 +66,7 @@ For the arb to be real, **both scenarios must be profitable** after fees.
 
 Suppose:
 - Kalshi YES (Fed cuts rates): $0.35
-- Polymarket NO (Fed does not cut): $0.58
+- Polymarket NO (Fed doesn't cut): $0.58
 
 Total cost: $0.35 + $0.58 = **$0.93**
 
@@ -79,7 +79,7 @@ Now calculate both outcomes:
 - Combined return: $0.9545 (Kalshi payout) + $0.00 (Poly NO expires worthless) = $0.9545
 - Net profit: $0.9545 - $0.93 = **+$0.0245**
 
-**If the Fed does not cut (Polymarket NO wins):**
+**If the Fed doesn't cut (Polymarket NO wins):**
 - Kalshi loss: -$0.35
 - Polymarket profit: $1.00 - $0.58 = $0.42 net profit → Total return = $0.58 + $0.42 = $1.00
 - Combined return: $0.00 (Kalshi YES expires worthless) + $1.00 (Poly NO payout) = $1.00
@@ -105,15 +105,15 @@ Total cost: $0.97. Looks like a potential 3-cent arb before fees.
 - Kalshi: ($1.00 - $0.48) × 0.93 = $0.4836 profit → Return = $0.9636
 - Net: $0.9636 - $0.97 = **-$0.0064** (LOSS)
 
-The Kalshi fee turned a 3-cent gross arb into a loss on one scenario. This is not a valid arb. You must be profitable in BOTH scenarios, and even a small fee can flip the math.
+The Kalshi fee turned a 3-cent gross arb into a loss on one scenario. This isn't a valid arb. You must be profitable in BOTH scenarios, and even a small fee can flip the math.
 
 **Rule of thumb:** On Kalshi, the fee erodes roughly 3.5 cents per contract on mid-priced contracts (around $0.50). Any cross-platform spread smaller than 4-5 cents after Kalshi fees is almost certainly not a profitable arb. The calculator handles this precisely, but knowing the approximate threshold saves you from chasing phantom opportunities.
 
 ## The Execution Checklist
 
-When you have identified a genuine arb, execute it methodically:
+When you've identified a genuine arb, execute it methodically:
 
-1. **Verify resolution criteria match.** Read the settlement rules on both platforms. Same event name is not enough -- confirm the data source, settlement time, and boundary conditions are identical.
+1. **Verify resolution criteria match.** Read the settlement rules on both platforms. Same event name isn't enough -- confirm the data source, settlement time, and boundary conditions are identical.
 
 2. **Check order book depth on both sides.** An arb at the top of book is meaningless if there are only 5 contracts available. You need enough liquidity to fill your desired size on both platforms simultaneously.
 
@@ -123,11 +123,11 @@ When you have identified a genuine arb, execute it methodically:
 
 5. **Confirm both fills.** Check that both orders are fully filled at your expected prices. Partial fills on one leg leave you with an imbalanced position.
 
-6. **Wait for settlement.** Once both legs are filled, there is nothing more to do. One side will pay out $1.00, the other will expire at $0.00, and your guaranteed profit is locked in.
+6. **Wait for settlement.** Once both legs are filled, there's nothing more to do. One side will pay out $1.00, the other will expire at $0.00, and your guaranteed profit is locked in.
 
 ## Risks That Are Not Priced In
 
-Arbitrage in prediction markets is not truly "risk-free" the way textbook arbitrage is. There are several risks that even a valid arb cannot eliminate.
+Arbitrage in prediction markets isn't truly "risk-free" the way textbook arbitrage is. There are several risks that even a valid arb can't eliminate.
 
 ### Execution Risk
 
@@ -139,7 +139,7 @@ Even when two contracts appear to cover the same event, subtle differences in se
 
 ### Liquidity Risk
 
-Thin order books mean you might not be able to fill your desired size on both legs. Worse, if you need to exit one leg early (because the other leg did not fill), you might face wide spreads that eat into your profits or turn the trade negative.
+Thin order books mean you might not be able to fill your desired size on both legs. Worse, if you need to exit one leg early (because the other leg didn't fill), you might face wide spreads that eat into your profits or turn the trade negative.
 
 ### Capital Lockup
 
@@ -147,7 +147,7 @@ Prediction market contracts tie up your capital until settlement, which could be
 
 ### Regulatory Risk
 
-You are operating across two platforms with very different regulatory statuses. Kalshi is CFTC-regulated; Polymarket is not. If one platform faces regulatory action, freezes funds, or disputes a settlement, your "risk-free" profit is suddenly at risk. For more on these differences, see our [Kalshi vs Polymarket comparison](/blog/kalshi-vs-polymarket-which-platform-should-you-use).
+You're operating across two platforms with very different regulatory statuses. Kalshi is CFTC-regulated; Polymarket is not. If one platform faces regulatory action, freezes funds, or disputes a settlement, your "risk-free" profit is suddenly at risk. For more on these differences, see our [Kalshi vs Polymarket comparison](/blog/kalshi-vs-polymarket-which-platform-should-you-use).
 
 ## Is Arb Worth It?
 
@@ -163,8 +163,8 @@ For most traders, the higher-return path is developing directional edge through 
 
 - **Arbitrage = buying both sides across platforms for less than $1.00.** Profit is guaranteed if both scenarios are profitable after fees.
 - **Fees kill most apparent arbs.** Kalshi's 7% profit fee means you need at least a 4-5 cent gross spread before an arb is viable.
-- **Always check both scenarios.** A trade that profits in one outcome but loses in the other is not an arb -- it is a directional bet.
-- **Verify resolution criteria match exactly.** Same event name does not guarantee same settlement rules.
+- **Always check both scenarios.** A trade that profits in one outcome but loses in the other isn't an arb -- it's a directional bet.
+- **Verify resolution criteria match exactly.** Same event name doesn't guarantee same settlement rules.
 - **Execute both legs simultaneously.** Delayed execution on one side turns a risk-free trade into a risky one.
 - **Account for capital lockup.** Annualize your return based on time to settlement, not just the raw percentage.
 - **Arbs are supplemental, not primary.** The big money in prediction markets comes from directional edge, not from arbitrage. But when arbs appear, take them.

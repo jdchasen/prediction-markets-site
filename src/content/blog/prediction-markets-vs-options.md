@@ -121,7 +121,7 @@ For high-frequency or big-size trading, options on liquid stocks are way cheaper
 
 **Bounded risk with no surprises.** No gap risk, no early assignment, no margin calls. You always know your max loss before you click buy.
 
-**Finding edge is more accessible.** To beat options markets, you've gotta be smarter than professional vol traders running sophisticated models. To beat prediction markets, you sometimes just need to follow the news more closely than the crowd. The bar for [finding edge](/blog/prediction-market-strategies-finding-edge-as-a-retail-trader) is lower.
+**Finding edge is more accessible.** To beat options markets, you have gotta be smarter than professional vol traders running sophisticated models. To beat prediction markets, you sometimes just need to follow the news more closely than the crowd. The bar for [finding edge](/blog/prediction-market-strategies-finding-edge-as-a-retail-trader) is lower.
 
 ## Where Options Win
 

@@ -52,7 +52,7 @@ Step back from individual markets and look at the pattern: $13.7 million in comb
 
 The Iran strike markets alone account for $9.8 million of that across multiple timeframes. The alien disclosure question adds another $1.7 million. Even the NBA games are pulling seven figures combined. This is what mature prediction market infrastructure looks like—deep enough liquidity that you can move size without crushing prices, diverse enough participation that you're not just trading against the house or a handful of whales.
 
-For anyone still asking whether [prediction markets](/blog/what-are-prediction-markets) can handle serious volume on consequential questions, today's data is your answer. When geopolitical crisis markets sustain $6 million in daily flow at sub-10¢ prices, we've moved past the experiment phase.
+For anyone still asking whether [prediction markets](/blog/what-are-prediction-markets) can handle serious volume on consequential questions, today's data is your answer. When geopolitical crisis markets sustain $6 million in daily flow at sub-10¢ prices, we have moved past the experiment phase.
 
 ## What to Watch
 

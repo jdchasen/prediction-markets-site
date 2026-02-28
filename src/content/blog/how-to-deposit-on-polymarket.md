@@ -13,21 +13,21 @@ howToSteps:
   - name: "Purchase or prepare USDC"
     text: "Buy USDC via the built-in card on-ramp, purchase it on an exchange like Coinbase, or use existing USDC in an Ethereum wallet."
   - name: "Send USDC on the Polygon network"
-    text: "When withdrawing from an exchange, select the Polygon network — not Ethereum. Sending on the wrong network means your funds will not appear in Polymarket."
+    text: "When withdrawing from an exchange, select the Polygon network — not Ethereum. Sending on the wrong network means your funds won't appear in Polymarket."
   - name: "Confirm the deposit arrived"
     text: "Wait 1-30 minutes depending on the method. Your USDC balance will appear in your Polymarket wallet once the transaction confirms on the Polygon blockchain."
 faqs:
   - question: "How do I deposit money on Polymarket?"
     answer: "There are three ways: use Polymarket's built-in card on-ramp to buy USDC with a debit or credit card (2-3% fee), transfer USDC from a crypto exchange like Coinbase directly to Polygon (cheapest option at $0-1), or bridge USDC from Ethereum to Polygon using the Polygon Bridge."
   - question: "Can I deposit USD directly on Polymarket?"
-    answer: "No, Polymarket only accepts USDC on the Polygon network. You cannot deposit dollars directly from a bank account. The simplest workaround is using the built-in card on-ramp, which converts your card payment to USDC automatically."
+    answer: "No, Polymarket only accepts USDC on the Polygon network. You can't deposit dollars directly from a bank account. The simplest workaround is using the built-in card on-ramp, which converts your card payment to USDC automatically."
   - question: "What happens if I send USDC on the wrong network to Polymarket?"
-    answer: "If you send USDC on Ethereum mainnet instead of Polygon, your funds will be sent to the correct address but on the wrong network. Polymarket only reads balances on Polygon, so your USDC will not appear. You would need to bridge it from Ethereum to Polygon yourself to access it."
-  - question: "What is the cheapest way to deposit on Polymarket?"
+    answer: "If you send USDC on Ethereum mainnet instead of Polygon, your funds will be sent to the correct address but on the wrong network. Polymarket only reads balances on Polygon, so your USDC won't appear. You would need to bridge it from Ethereum to Polygon yourself to access it."
+  - question: "What's the cheapest way to deposit on Polymarket?"
     answer: "Transferring USDC from a crypto exchange like Coinbase directly to Polygon is the cheapest method, costing roughly $0-1 in withdrawal fees. For a $1,000 deposit, this saves you $20-30 compared to the card on-ramp's 2-3% processing fee."
 ---
 
-The number one thing that stops people from trading on [Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=blog&utm_campaign=signup) is not understanding the markets -- it is figuring out how to get money onto the platform. Unlike [Kalshi](https://kalshi.com/sign-up/?referral=f2e21ad4-75b7-4ffb-bfcc-f2fb36e07b21&m=true&utm_source=masterpredictionmarkets&utm_medium=blog&utm_campaign=signup), where you [deposit dollars from your bank account](/blog/kalshi-review), Polymarket runs on **USDC on the Polygon network**. If those words mean nothing to you, do not worry. This guide walks through all three deposit methods step by step, including the common mistakes that cause people to lose money or wait days for stuck transactions.
+The number one thing that stops people from trading on [Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=blog&utm_campaign=signup) isn't understanding the markets -- it's figuring out how to get money onto the platform. Unlike [Kalshi](https://kalshi.com/sign-up/?referral=f2e21ad4-75b7-4ffb-bfcc-f2fb36e07b21&m=true&utm_source=masterpredictionmarkets&utm_medium=blog&utm_campaign=signup), where you [deposit dollars from your bank account](/blog/kalshi-review), Polymarket runs on **USDC on the Polygon network**. If those words mean nothing to you, don't worry. This guide walks through all three deposit methods step by step, including the common mistakes that cause people to lose money or wait days for stuck transactions.
 
 ## What You Need to Know First
 
@@ -52,7 +52,7 @@ This is the simplest method. Polymarket has a built-in on-ramp that lets you buy
 3. **Enter the amount** you want to deposit in USD.
 4. **Enter your card details.** Standard debit or credit card information -- number, expiration, CVV.
 5. **Complete any identity verification** the payment processor requires. This may include providing your name, address, and sometimes a photo ID. This is a one-time step.
-6. **Confirm the transaction.** The processor will show you the exact amount of USDC you will receive after fees.
+6. **Confirm the transaction.** The processor will show you the exact amount of USDC you'll receive after fees.
 7. **Wait for the deposit to arrive.** This usually takes 1-5 minutes. The USDC is purchased on your behalf and deposited directly into your Polymarket wallet on Polygon.
 
 ### Pros and Cons
@@ -78,7 +78,7 @@ If you have an account on a major crypto exchange, this is the most cost-effecti
 3. **Withdraw USDC to Polygon.** This is the critical step. Go to the withdrawal or send section of your exchange and:
    - **Paste your Polymarket wallet address** as the destination
    - **Select the Polygon network** (sometimes labeled "Polygon PoS" or "MATIC")
-   - **Double-check the network selection.** If you accidentally select Ethereum mainnet, your USDC will be sent to the right address but on the wrong network. It is recoverable but painful.
+   - **Double-check the network selection.** If you accidentally select Ethereum mainnet, your USDC will be sent to the right address but on the wrong network. It's recoverable but painful.
    - **Enter the amount** of USDC to send
    - **Confirm the transaction** and complete any 2FA verification
 
@@ -102,7 +102,7 @@ When withdrawing from an exchange, the network selection dropdown is the most im
 **Fees:** Ethereum gas fees ($2-15 depending on network congestion) + bridge fee
 **Speed:** 10-30 minutes
 
-If you already have USDC sitting in an Ethereum wallet (like MetaMask), you can bridge it to Polygon and then deposit on Polymarket. This is the most technically involved method and is only recommended if you are already comfortable with DeFi operations.
+If you already have USDC sitting in an Ethereum wallet (like MetaMask), you can bridge it to Polygon and then deposit on Polymarket. This is the most technically involved method and is only recommended if you're already comfortable with DeFi operations.
 
 ### Step by Step
 
@@ -117,7 +117,7 @@ If you already have USDC sitting in an Ethereum wallet (like MetaMask), you can 
 
 ### When to Use This Method
 
-Honestly, unless you already have USDC on Ethereum that you want to move, this method is not worth the hassle. The gas fees on Ethereum eat into your deposit, and the bridging process adds complexity. Method 2 (buying USDC on an exchange and withdrawing directly to Polygon) is cheaper and simpler in almost every case.
+Honestly, unless you already have USDC on Ethereum that you want to move, this method isn't worth the hassle. The gas fees on Ethereum eat into your deposit, and the bridging process adds complexity. Method 2 (buying USDC on an exchange and withdrawing directly to Polygon) is cheaper and simpler in almost every case.
 
 ## Fee Comparison Summary
 
@@ -131,13 +131,13 @@ For deposits under $200, the card on-ramp is fine -- the convenience is worth th
 
 ## After You Deposit: Placing Your First Trade
 
-Once your USDC appears in your Polymarket wallet, you are ready to trade. Navigate to any market, choose "Yes" or "No," enter your amount, and confirm. The [full guide to trading on Polymarket](/blog/polymarket-guide-how-to-trade-crypto-prediction-markets) covers market selection, order types, and strategies in detail.
+Once your USDC appears in your Polymarket wallet, you're ready to trade. Navigate to any market, choose "Yes" or "No," enter your amount, and confirm. The [full guide to trading on Polymarket](/blog/polymarket-guide-how-to-trade-crypto-prediction-markets) covers market selection, order types, and strategies in detail.
 
 A few quick tips for your first trade:
 
 - **Start small.** Put $10-20 on a market you understand well, just to get comfortable with the interface.
 - **Use limit orders** to avoid slippage on illiquid markets. Market orders on thin books can fill at worse prices than expected.
-- **Understand the contract.** Read the resolution criteria carefully. One of the most [common mistakes new traders make](/blog/5-common-prediction-market-mistakes-to-avoid) is not understanding exactly what needs to happen for a contract to settle in their favor.
+- **Understand the contract.** Read the resolution criteria carefully. One of the most [common mistakes new traders make](/blog/5-common-prediction-market-mistakes-to-avoid) isn't understanding exactly what needs to happen for a contract to settle in their favor.
 
 ## Withdrawing Funds
 
@@ -147,6 +147,6 @@ Withdrawals from Polymarket to your wallet are fast -- usually under 5 minutes. 
 
 ## The Bottom Line
 
-Depositing on Polymarket is the biggest friction point for new traders, but it is a one-time learning curve. Once you have done it once, subsequent deposits take under a minute. The exchange transfer method (Method 2) gives you the best balance of cost and simplicity, and it is what we recommend for most traders.
+Depositing on Polymarket is the biggest friction point for new traders, but it's a one-time learning curve. Once you've done it once, subsequent deposits take under a minute. The exchange transfer method (Method 2) gives you the best balance of cost and simplicity, and it's what we recommend for most traders.
 
-If you are deciding between Polymarket and a platform with simpler deposits, remember that the deposit method is a one-time hurdle, while the [trading experience, fees, and liquidity](/platforms) affect every single trade you make. Do not let the crypto deposit process scare you away from the deepest prediction market in the world.
+If you're deciding between Polymarket and a platform with simpler deposits, remember that the deposit method is a one-time hurdle, while the [trading experience, fees, and liquidity](/platforms) affect every single trade you make. Don't let the crypto deposit process scare you away from the deepest prediction market in the world.

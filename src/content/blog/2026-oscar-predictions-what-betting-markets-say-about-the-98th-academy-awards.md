@@ -6,7 +6,7 @@ category: "strategies"
 tags: ["strategies", "kalshi", "polymarket"]
 affiliate: "kalshi"
 faqs:
-  - question: "Who is favored to win at the 2026 Oscars?"
+  - question: "Who's favored to win at the 2026 Oscars?"
     answer: "According to prediction markets, Elle Fanning is the frontrunner for Best Supporting Actress, Jacob Elordi leads Best Supporting Actor, and Frankenstein is favored for Best Costume Design."
   - question: "How accurate are prediction markets for Oscar predictions?"
     answer: "Heavy favorites (priced above 70%) win about 80% of the time. Moderate favorites (50-70%) win around 55-65% of the time. Genuine upsets where the winner was priced below 30% happen in maybe 5-10% of categories per year."
