@@ -2,8 +2,10 @@ name: Daily Odds Pages
 
 on:
   schedule:
-    # 11:30 UTC = 6:30 AM ET — runs before daily article workflow (7 AM ET)
+    # 11:30 UTC = 6:30 AM ET — morning run before daily article workflow (7 AM ET)
     - cron: '30 11 * * *'
+    # 21:00 UTC = 4:00 PM ET — afternoon refresh
+    - cron: '0 21 * * *'
   workflow_dispatch: # Allow manual trigger for testing
 
 permissions:
