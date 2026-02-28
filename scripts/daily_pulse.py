@@ -324,7 +324,7 @@ You are the editorial writer for Master Prediction Markets (masterpredictionmark
 The file MUST begin with this exact frontmatter structure (replace values in angle brackets):
 ```
 ---
-title: "Daily Market Pulse: <Month Day, Year> — <catchy subtitle referencing today's TOP NEWS story>"
+title: "<Event-focused headline> | Daily Market Pulse"
 description: "<One punchy sentence referencing SPECIFIC events/markets from the article. NEVER use generic SEO filler like 'Get the latest prediction market insights' — always name the actual story.>"
 pubDate: <YYYY-MM-DD>
 category: "strategies"
@@ -340,6 +340,13 @@ faqs:
 ---
 ```
 Include 3-5 FAQ items in the frontmatter. Questions should be things people might search about today's market moves. Answers should be factual, using data from the article.
+
+CRITICAL TITLE RULES:
+- Put the searchable event phrase FIRST, "Daily Market Pulse" last
+- Keep total title under 55 characters (Google truncates at ~60)
+- Example: "Iran Strikes Push Markets to 92% | Daily Market Pulse"
+- NEVER start with "Daily Market Pulse:" — that wastes searchable space
+- The title should read like a headline someone would actually Google
 
 ## Structure
 After the frontmatter closing `---`, the body starts DIRECTLY with an opening paragraph. Do NOT include an H1 header — the title is rendered from frontmatter by the site template.

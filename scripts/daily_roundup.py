@@ -427,9 +427,13 @@ REAL MARKET DATA (use these numbers — do not invent markets):
 {market_context}
 {yesterday_block}
 REQUIREMENTS:
-1. Title format: "Daily Market Pulse: {date_str} — [catchy subtitle referencing today's TOP NEWS story]"
-   The subtitle MUST reference a specific news event or market move — NEVER use generic phrases
-   like "market movements" or "trending predictions" or "top forecasts."
+1. Title format: "[Event-focused phrase] | Daily Market Pulse"
+   - The event phrase goes FIRST — this is what people search for
+   - Keep total title under 55 characters (Google truncates at ~60)
+   - Examples: "Iran Strikes Push Markets to 92% | Daily Market Pulse"
+   - NEVER start with "Daily Market Pulse:" — that wastes searchable space
+   - NEVER use generic phrases like "market movements" or "top forecasts"
+   - The title should read like a headline someone would Google
 2. Write 800-1000 words covering:
    - LEAD with the prediction market most connected to today's top news headline
    - Group related markets into 3-5 thematic sections with H2 headers
@@ -480,9 +484,13 @@ OUTPUT ONLY the markdown article body."""
     else:
         title = f"Daily Market Pulse: {date_str}"
 
-    # Ensure title starts with "Daily Market Pulse:"
-    if not title.startswith("Daily Market Pulse:"):
-        title = f"Daily Market Pulse: {date_str} — {title}"
+    # Ensure title ends with "Daily Market Pulse" brand suffix
+    if "Daily Market Pulse" not in title:
+        title = f"{title} | Daily Market Pulse"
+    # Truncate to 60 chars for Google SERP display
+    if len(title) > 60:
+        # Keep the event phrase, trim the suffix if needed
+        title = title[:57] + "..."
 
     # Generate SEO description — must be specific, not generic
     desc_msg = client.messages.create(
