@@ -189,11 +189,17 @@ def format_news_data(headlines: list[dict]) -> str:
     """Format news headlines for Claude context."""
     if not headlines:
         return ""
-    lines = ["## TODAY'S TRENDING NEWS HEADLINES\n"]
-    lines.append("Use these to identify which prediction markets connect to current events.\n")
-    for h in headlines:
+    lines = [
+        "## TODAY'S TOP NEWS HEADLINES",
+        "",
+        "These are the stories dominating the news RIGHT NOW.",
+        "Your article MUST lead with the #1 story and connect it to prediction markets.",
+        "You MUST reference at least 3 of these headlines in your article.",
+        "",
+    ]
+    for i, h in enumerate(headlines, 1):
         source = f" ({h['source']})" if h.get('source') else ""
-        lines.append(f"- [{h['category']}] {h['title']}{source}")
+        lines.append(f"{i}. [{h['category']}] {h['title']}{source}")
     return "\n".join(lines)
 
 
@@ -318,8 +324,8 @@ You are the editorial writer for Master Prediction Markets (masterpredictionmark
 The file MUST begin with this exact frontmatter structure (replace values in angle brackets):
 ```
 ---
-title: "Daily Market Pulse: <Month Day, Year>"
-description: "<One punchy sentence summarizing the top 2-3 storylines. Make someone want to click.>"
+title: "Daily Market Pulse: <Month Day, Year> — <catchy subtitle referencing today's TOP NEWS story>"
+description: "<One punchy sentence referencing SPECIFIC events/markets from the article. NEVER use generic SEO filler like 'Get the latest prediction market insights' — always name the actual story.>"
 pubDate: <YYYY-MM-DD>
 category: "strategies"
 tags: ["daily", "kalshi", "polymarket"]
@@ -353,7 +359,7 @@ After the frontmatter closing `---`, the body starts DIRECTLY with an opening pa
 - Always include at least one markdown table.
 - Include 2-4 internal links per post, chosen contextually.
 - Do NOT include sports game-by-game results unless there's a genuinely interesting storyline.
-- **Prioritize markets that connect to today's trending news.** You'll receive current headlines — lead with markets that tie into what people are already talking about. This is what makes the pulse feel timely and relevant vs. a generic market report.
+- **NEWS-FIRST (MANDATORY):** You will receive today's top news headlines. Your opening paragraph and first H2 section MUST connect to the #1 headline. You MUST reference at least 3 specific headlines in your article, connecting each to a relevant prediction market. If a headline describes a major event that already happened (military strikes, elections, disasters), write about the market REACTION and AFTERMATH — not speculation about whether it will happen. Ignoring the top news story makes the article useless.
 - Focus on markets that matter: geopolitics, economics, crypto, policy, elections. Sports only if the volume or story is notable.
 - SKIP markets priced under 5% or over 95% — these are essentially decided. Nobody wants to read about a 1-cent longshot. Focus on markets in the 10-90% range where there's genuine uncertainty and real trading opportunity.
 - Skip markets with near-zero volume or that have already resolved.

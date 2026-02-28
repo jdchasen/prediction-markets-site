@@ -21,7 +21,9 @@ import os
 import re
 import sys
 import time
+import xml.etree.ElementTree as ET
 from datetime import date, datetime, timezone, timedelta
+from html import unescape
 from pathlib import Path
 
 try:
@@ -114,6 +116,74 @@ def _kalshi_headers(api_key: str, private_key, method: str, path: str) -> dict:
         "KALSHI-ACCESS-SIGNATURE": base64.b64encode(signature).decode("utf-8"),
         "KALSHI-ACCESS-TIMESTAMP": str(timestamp_ms),
     }
+
+
+# ---------------------------------------------------------------------------
+# News fetching
+# ---------------------------------------------------------------------------
+
+def fetch_trending_news(limit: int = 20) -> list[dict]:
+    """Fetch top news headlines from Google News RSS — no API key needed."""
+    feeds = [
+        ("Top Stories", "https://news.google.com/rss?hl=en-US&gl=US&ceid=US:en"),
+        ("Business", "https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en"),
+        ("World", "https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en"),
+    ]
+    seen_titles = set()
+    headlines = []
+
+    for category, url in feeds:
+        try:
+            resp = requests.get(url, timeout=15, headers={"User-Agent": "Mozilla/5.0"})
+            resp.raise_for_status()
+            root = ET.fromstring(resp.content)
+
+            for item in root.iter("item"):
+                title_el = item.find("title")
+                source_el = item.find("source")
+                pub_el = item.find("pubDate")
+
+                if title_el is None:
+                    continue
+
+                title = unescape(title_el.text or "").strip()
+                if title in seen_titles:
+                    continue
+                seen_titles.add(title)
+
+                source = source_el.text if source_el is not None else ""
+                pub_date = pub_el.text if pub_el is not None else ""
+
+                headlines.append({
+                    "title": title,
+                    "source": source,
+                    "category": category,
+                    "pub_date": pub_date,
+                })
+
+                if len(headlines) >= limit:
+                    break
+        except Exception as e:
+            print(f"  Google News ({category}) fetch failed: {e}")
+
+    return headlines[:limit]
+
+
+def format_news_context(headlines: list[dict]) -> str:
+    """Format news headlines for the Claude prompt."""
+    if not headlines:
+        return ""
+    lines = [
+        "=== TODAY'S TOP NEWS HEADLINES ===",
+        "These are the stories dominating the news RIGHT NOW.",
+        "Your article MUST connect prediction markets to these stories.",
+        "",
+    ]
+    for i, h in enumerate(headlines, 1):
+        source = f" ({h['source']})" if h.get('source') else ""
+        lines.append(f"{i}. [{h['category']}] {h['title']}{source}")
+    lines.append("")
+    return "\n".join(lines)
 
 
 # ---------------------------------------------------------------------------
@@ -280,6 +350,7 @@ def generate_article(
     article_date: date,
     kalshi_markets: list[dict],
     poly_markets: list[dict],
+    news_headlines=None,
 ) -> tuple[str, str]:
     """Generate the daily roundup article via Claude API.
 
@@ -289,6 +360,7 @@ def generate_article(
     date_iso = article_date.isoformat()
 
     market_context = build_market_context(kalshi_markets, poly_markets)
+    news_context = format_news_context(news_headlines or [])
 
     internal_links = "\n".join(
         f"- [{title}]({path})" for path, title in EXISTING_ARTICLES
@@ -324,24 +396,46 @@ YESTERDAY'S ARTICLE (DO NOT repeat the same framing, lead story, section structu
         "Do NOT fabricate market data — only reference markets from the data provided. "
         "Do NOT use academic language like 'probability cascade' or 'crystallize consensus.' "
         "Each day's article MUST feel distinct — vary your opening style, section themes, "
-        "analytical angles, and which markets you lead with."
+        "analytical angles, and which markets you lead with.\n\n"
+        "CRITICAL — NEWS-FIRST RULE: You will receive today's top news headlines. "
+        "Your article MUST lead with the biggest breaking news story and connect it "
+        "to relevant prediction markets. If a major world event happened (war, attacks, "
+        "political crisis, economic shock, natural disaster), that is ALWAYS the lead — "
+        "not just whatever market has the highest volume. Readers are coming to understand "
+        "how today's news moves prediction markets. If you ignore the top headline, "
+        "the article is useless."
     )
+
+    news_instruction = ""
+    if news_context:
+        news_instruction = (
+            "13. NEWS-FIRST (MANDATORY): The news headlines below are today's top stories. "
+            "Your opening paragraph and first H2 section MUST connect to the #1 headline. "
+            "You MUST reference at least 3 specific headlines from the list in your article, "
+            "connecting each to a relevant prediction market. If a headline describes a major "
+            "event that already happened (e.g., military strikes, elections, disasters), "
+            "write about the market REACTION and AFTERMATH — not speculation about whether "
+            "it will happen. The news is what makes this a daily pulse and not a stale market report."
+        )
 
     prompt = f"""Write a daily prediction market roundup article for {date_str} ({day_of_week}).
 
 {platform_note}
 
+{news_context}
 REAL MARKET DATA (use these numbers — do not invent markets):
 {market_context}
 {yesterday_block}
 REQUIREMENTS:
-1. Title format: "Daily Market Pulse: {date_str} — [catchy subtitle about the day's top story]"
+1. Title format: "Daily Market Pulse: {date_str} — [catchy subtitle referencing today's TOP NEWS story]"
+   The subtitle MUST reference a specific news event or market move — NEVER use generic phrases
+   like "market movements" or "trending predictions" or "top forecasts."
 2. Write 800-1000 words covering:
-   - Lead with the day's biggest mover or most interesting market
+   - LEAD with the prediction market most connected to today's top news headline
    - Group related markets into 3-5 thematic sections with H2 headers
    - For each notable market, mention the current price (as implied probability %) and volume
    - Focus on CONTESTED markets where the outcome is uncertain and there is real debate
-   - Do NOT waste space on markets that are essentially settled (near 0% or 100%) — nobody cares about a team at 0.1% to win a championship
+   - Do NOT waste space on markets that are essentially settled (near 0% or 100%)
    - Prioritize markets where something changed, prices moved, or there is a genuine decision point
 3. Include EXACTLY one Kalshi referral link: [Kalshi]({KALSHI_REFERRAL})
    — weave it naturally into text (e.g. "you can trade these markets on [Kalshi](...)")
@@ -363,6 +457,7 @@ REQUIREMENTS:
 12. Vary your writing approach: some days lead with a single market deep-dive,
     others with a cross-market theme, others with a surprising data point.
     Don't settle into a formula.
+{news_instruction}
 
 OUTPUT ONLY the markdown article body."""
 
@@ -389,16 +484,21 @@ OUTPUT ONLY the markdown article body."""
     if not title.startswith("Daily Market Pulse:"):
         title = f"Daily Market Pulse: {date_str} — {title}"
 
-    # Generate SEO description
+    # Generate SEO description — must be specific, not generic
     desc_msg = client.messages.create(
         model="claude-sonnet-4-5-20250929",
         max_tokens=200,
         messages=[{
             "role": "user",
             "content": (
-                f"Write a 150-character SEO meta description for a daily prediction "
-                f"market roundup article titled \"{title}\". Output ONLY the "
-                f"description text, no quotes or labels."
+                f"Write a 150-character meta description for this prediction market article. "
+                f"It MUST reference specific events, markets, or probabilities from the article. "
+                f"NEVER write generic SEO filler like 'Get the latest prediction market insights' "
+                f"or 'Today's top forecasts and market movements.' Instead, be specific: "
+                f"'US strikes Iran as Polymarket hits 77% on regime change — plus Bitcoin, Fed odds, and more.' "
+                f"Output ONLY the description text, no quotes or labels.\n\n"
+                f"TITLE: {title}\n"
+                f"ARTICLE OPENING:\n{body[:500]}"
             ),
         }],
     )
@@ -563,9 +663,14 @@ def main():
         print("ERROR: Both APIs returned no data. Skipping article generation.")
         sys.exit(0)  # exit 0 so CI doesn't fail
 
+    # Step 1b: Fetch trending news
+    print("  Fetching trending news...")
+    headlines = fetch_trending_news(limit=20)
+    print(f"  Got {len(headlines)} news headlines")
+
     # Step 2: Generate article
     print("  Generating article via Claude API...")
-    filename, content = generate_article(article_date, kalshi, poly)
+    filename, content = generate_article(article_date, kalshi, poly, headlines)
 
     # Step 3: Save
     CONTENT_DIR.mkdir(parents=True, exist_ok=True)
