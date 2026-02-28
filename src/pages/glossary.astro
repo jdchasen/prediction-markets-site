@@ -1,0 +1,113 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import CTABanner from '../components/CTABanner.astro';
+
+const terms = [
+  { term: "Above/Below Market", definition: "A prediction market format where you bet whether a value (e.g., S&P 500 closing price, temperature) will finish above or below a specified threshold. Common on Kalshi for index and weather markets." },
+  { term: "Arbitrage", definition: "Profiting from price differences for the same event across platforms or contracts. For example, if Kalshi prices YES at 40% and Polymarket prices YES at 50% on the same event, a trader can buy YES on Kalshi and NO on Polymarket to lock in a risk-free spread.", link: "/blog/prediction-market-arbitrage-guide", linkText: "Arbitrage guide" },
+  { term: "Binary Market", definition: "A market with exactly two outcomes: YES or NO. The contract pays $1 if the event occurs and $0 if it doesn't. Most prediction market contracts are binary." },
+  { term: "CFTC Regulation", definition: "The Commodity Futures Trading Commission (CFTC) regulates event contracts in the United States. Platforms like Kalshi operate as CFTC-regulated Designated Contract Markets (DCMs), making them legal for US residents.", link: "/blog/is-kalshi-legal", linkText: "Is Kalshi legal?" },
+  { term: "Circuit Breaker", definition: "An automatic mechanism that pauses or halts trading when prices move beyond set limits in a short period. Used by some platforms and trading bots to prevent excessive losses during volatile events." },
+  { term: "Convergence", definition: "The tendency of prediction market prices to move toward their final settlement value as the event approaches. Traders exploit convergence by buying underpriced contracts early and selling as the price corrects." },
+  { term: "Daily Loss Limit", definition: "A risk management rule that caps the maximum amount a trader can lose in a single day. Once hit, no new positions are opened until the next trading session." },
+  { term: "Event Contract", definition: "A financial contract that pays out based on the outcome of a real-world event. Prediction markets trade event contracts on topics ranging from elections and economic data to weather and sports.", link: "/blog/what-are-event-contracts", linkText: "What are event contracts?" },
+  { term: "Exit Strategy", definition: "A plan for closing a position before settlement. Because settlement win rates on speculative trades can be low, having a realistic exit path — selling to another trader at a profit — is critical for consistent returns." },
+  { term: "Expected Value (EV)", definition: "The average outcome of a trade if repeated many times. Calculated as (probability of winning x payout) minus (probability of losing x loss). Positive EV trades are profitable over the long run." },
+  { term: "Fill Price", definition: "The actual price at which your order executes. On thin markets, the fill price may differ from the quoted price due to slippage — especially on large orders or illiquid contracts." },
+  { term: "Hedge", definition: "A position taken to offset risk from another position. For example, if you hold YES on \"Will Bitcoin hit $100K?\", you might buy NO on a correlated market to reduce downside exposure." },
+  { term: "Implied Probability", definition: "The probability of an event occurring as derived from the market price. A YES contract trading at $0.65 implies a 65% probability. This is the market's consensus forecast.", link: "/blog/how-to-calculate-implied-probability-prediction-markets", linkText: "How to calculate implied probability" },
+  { term: "Kelly Criterion", definition: "A mathematical formula for optimal bet sizing. It tells you what fraction of your bankroll to risk based on your edge and the odds offered. Widely used by professional traders and gamblers.", link: "/blog/kelly-criterion-prediction-markets-guide", linkText: "Kelly criterion guide" },
+  { term: "Limit Order", definition: "An order to buy or sell a contract at a specific price or better. Unlike market orders that execute immediately at the best available price, limit orders only fill when the market reaches your price." },
+  { term: "Liquidity", definition: "How easily you can buy or sell a contract without significantly moving the price. High-liquidity markets have tight bid-ask spreads and deep order books. Low liquidity means you may struggle to exit positions." },
+  { term: "Live Trading", definition: "Trading with real money on a prediction market platform, as opposed to paper trading or backtesting. Live trading introduces real execution risks like slippage, fees, and emotional decision-making." },
+  { term: "Market Maker", definition: "A trader or algorithm that provides liquidity by continuously posting both buy and sell orders. Market makers profit from the bid-ask spread but take on inventory risk. On fee-heavy platforms, market making is often unprofitable for retail traders." },
+  { term: "Order Book", definition: "The list of all outstanding buy (bid) and sell (ask) orders for a contract. The order book shows available liquidity at each price level and determines what price you'll get when you trade." },
+  { term: "Overround", definition: "The total implied probability across all outcomes exceeding 100%. For a binary market, if YES is priced at 55% and NO at 50%, the overround is 5%. This margin represents the platform's built-in edge or fee structure." },
+  { term: "Paper Trading", definition: "Simulated trading without real money. Useful for testing strategies and learning platform mechanics before risking capital." },
+  { term: "Portfolio Exposure", definition: "The total amount of capital at risk across all open positions. Managing portfolio exposure prevents overconcentration in correlated markets." },
+  { term: "Position Sizing", definition: "Determining how much capital to allocate to each trade. Proper position sizing — often guided by the Kelly criterion — prevents catastrophic losses from any single trade." },
+  { term: "Prediction Market", definition: "A financial exchange where participants trade contracts on the outcomes of future events. Prices reflect the crowd's aggregate probability estimate. Used for politics, economics, sports, crypto, and more.", link: "/blog/what-are-prediction-markets", linkText: "What are prediction markets?" },
+  { term: "Prediction Market Fees", definition: "Costs charged by platforms for trading. Kalshi charges per-contract fees on both entry and exit. Polymarket charges no trading fees but has blockchain gas costs. Fees significantly impact profitability, especially on low-margin trades.", link: "/blog/kalshi-fees-explained", linkText: "Kalshi fees explained" },
+  { term: "Range Market", definition: "A prediction market format where you bet on a value falling within a specific range. For example, \"Will the S&P 500 close between 5,800 and 5,850?\" Range markets are common for financial indices and economic data." },
+  { term: "Settlement", definition: "The process of resolving a prediction market contract after the event occurs. Winning contracts pay out $1.00, losing contracts pay $0. Settlement is based on the official outcome as determined by the platform's resolution source." },
+  { term: "Spread", definition: "The difference between the best bid (highest buy price) and best ask (lowest sell price). Tight spreads indicate liquid markets. Wide spreads mean higher trading costs and difficulty entering or exiting positions." },
+  { term: "Stop Loss", definition: "An order that automatically closes a position when the price moves against you by a specified amount. Helps limit downside but may trigger prematurely in volatile markets." },
+  { term: "Time Decay", definition: "The erosion of a contract's value as its expiry approaches, particularly for contracts priced far from settlement thresholds. Similar to options theta decay — the less time remaining, the less uncertainty exists." },
+  { term: "Yes/No Contract", definition: "The standard prediction market instrument. A YES contract pays $1 if the event occurs; a NO contract pays $1 if it doesn't. Buying YES at $0.30 means you risk $0.30 to potentially profit $0.70.", link: "/blog/understanding-event-contract-pricing-and-probability", linkText: "Understanding event contract pricing" },
+];
+---
+
+<BaseLayout
+  title="Prediction Market Glossary — 30+ Key Terms Explained"
+  description="Complete glossary of prediction market terms. Learn about implied probability, event contracts, arbitrage, settlement, and more — explained by real traders."
+>
+  <div class="mx-auto max-w-3xl px-4 py-12">
+    <h1 class="mb-4 text-3xl font-bold text-gray-900 dark:text-white">Prediction Market Glossary</h1>
+    <p class="mb-8 text-lg text-gray-600 dark:text-gray-400">
+      Every prediction market term you need to know, explained in plain language by active traders.
+      Whether you're new to event contracts or refining your strategy, this glossary covers the
+      essential concepts from A to Z.
+    </p>
+
+    <nav class="mb-10 flex flex-wrap gap-2">
+      {[...new Set(terms.map(t => t.term[0].toUpperCase()))].map(letter => (
+        <a href={`#${letter.toLowerCase()}`} class="rounded bg-gray-100 px-3 py-1 text-sm font-medium text-gray-700 hover:bg-blue-100 hover:text-blue-700 dark:bg-gray-800 dark:text-gray-300 dark:hover:bg-blue-900 dark:hover:text-blue-300">
+          {letter}
+        </a>
+      ))}
+    </nav>
+
+    <div class="prose prose-gray dark:prose-invert max-w-none">
+      {terms.map((item, i) => {
+        const currentLetter = item.term[0].toUpperCase();
+        const prevLetter = i > 0 ? terms[i - 1].term[0].toUpperCase() : '';
+        const showLetterHeading = currentLetter !== prevLetter;
+        const anchorId = item.term.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/-+$/, '');
+
+        return (
+          <>
+            {showLetterHeading && (
+              <div id={currentLetter.toLowerCase()} class="mt-10 mb-4 border-b border-gray-200 pb-2 dark:border-gray-700">
+                <span class="text-2xl font-bold text-blue-600 dark:text-blue-400">{currentLetter}</span>
+              </div>
+            )}
+            <h2 id={anchorId} class="mt-6 mb-2 text-xl font-semibold text-gray-900 dark:text-white">
+              {item.term}
+            </h2>
+            <p>
+              {item.definition}
+              {item.link && (
+                <> <a href={item.link} class="text-blue-600 hover:underline dark:text-blue-400">Read more: {item.linkText} &rarr;</a></>
+              )}
+            </p>
+          </>
+        );
+      })}
+    </div>
+
+    <div class="mt-12 rounded-lg bg-gray-50 p-6 dark:bg-gray-800">
+      <h2 class="mb-3 text-xl font-bold text-gray-900 dark:text-white">Start Trading</h2>
+      <p class="mb-4 text-gray-600 dark:text-gray-400">
+        Ready to put these concepts into practice? Check out our
+        <a href="/blog/what-are-prediction-markets" class="text-blue-600 hover:underline dark:text-blue-400">beginner's guide</a>,
+        explore <a href="/odds" class="text-blue-600 hover:underline dark:text-blue-400">live market odds</a>,
+        or compare <a href="/blog/best-prediction-market-platforms" class="text-blue-600 hover:underline dark:text-blue-400">the best platforms</a>.
+      </p>
+    </div>
+
+    <CTABanner platform="kalshi" />
+  </div>
+
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": terms.slice(0, 10).map(item => ({
+      "@type": "Question",
+      "name": `What is ${item.term.toLowerCase()} in prediction markets?`,
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": item.definition
+      }
+    }))
+  })} />
+</BaseLayout>

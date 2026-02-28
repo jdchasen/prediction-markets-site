@@ -1,6 +1,6 @@
 ---
-title: "How to Trade Weather Markets on Kalshi (2026)"
-description: "Learn how to trade weather contracts on Kalshi using free NWS forecast data. Build a data-driven edge with temperature probability models and automation."
+title: "How to Trade Weather Markets on Kalshi (2026 Guide)"
+description: "I trade weather contracts daily with a bot. Here's how to use free NWS data to find mispriced Kalshi contracts — and the same-day trap that cost me money."
 pubDate: 2026-02-22
 category: "kalshi"
 tags: ["kalshi", "weather", "strategies"]
@@ -20,7 +20,7 @@ howToSteps:
     text: "Target markets 1 to 3 days out for the best risk-reward balance. Avoid same-day markets where the daily high may have already been observed."
 faqs:
   - question: "How do weather markets work on Kalshi?"
-    answer: "Kalshi offers binary contracts on whether a city's daily high temperature will be above or below a specific strike. Contracts settle based on official NOAA weather station data, typically the next morning after the observation day."
+    answer: "Kalshi offers binary contracts on whether a city's daily high will be above or below a strike temperature. You buy YES if you think it'll exceed the strike, NO if you think it won't. Contracts settle based on official NOAA station data, typically the next morning."
   - question: "What data sources can I use to trade weather on Kalshi?"
     answer: "The National Weather Service (NWS) API is free and should be your primary source. Open-Meteo provides free historical data for backtesting. Paid services like Tomorrow.io offer ensemble model outputs."
   - question: "When is the best time to trade weather contracts on Kalshi?"
