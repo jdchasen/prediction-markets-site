@@ -3,8 +3,8 @@ title: "Will Elle Fanning win Best Supporting Actress at the 98th Academy Awards
 description: "Will Elle Fanning win Best Supporting Actress at the 98th Academy Awards? Odds: 1.6% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Elle Fanning win Best Supporting Actress at the 98th Academy Awards?"
 category: "entertainment"
-status: "active"
-lastUpdated: 2026-02-26
+status: "settled"
+lastUpdated: 2026-02-28
 expiryDate: 2026-03-15
 tags: ["entertainment", "polymarket"]
 polymarketYes: 1.6

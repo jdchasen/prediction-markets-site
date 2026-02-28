@@ -3,8 +3,8 @@ title: "Will Jamal Murray win the 2025–2026 NBA Clutch Player of the Year?"
 description: "Will Jamal Murray win the 2025–2026 NBA Clutch Player of the Year? Odds: 0.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Jamal Murray win the 2025–2026 NBA Clutch Player of the Year?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-02-26
+status: "settled"
+lastUpdated: 2026-02-28
 expiryDate: 2026-06-30
 tags: ["polymarket", "sports"]
 polymarketYes: 0.9

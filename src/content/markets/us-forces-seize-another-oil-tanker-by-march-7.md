@@ -3,8 +3,8 @@ title: "U.S. forces seize another oil tanker by March 7?"
 description: "U.S. forces seize another oil tanker by March 7? Odds: 43.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "U.S. forces seize another oil tanker by March 7?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-02-26
+status: "settled"
+lastUpdated: 2026-02-28
 expiryDate: 2026-03-07
 tags: ["politics", "polymarket"]
 polymarketYes: 43.5

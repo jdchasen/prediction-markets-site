@@ -1,53 +1,54 @@
 ---
 title: "Will Scotland win Group C in the 2026 FIFA World Cup?"
-description: "Will Scotland win Group C in the 2026 FIFA World Cup? Odds: 6.0% YES on Polymarket. See live prices and trade this market."
+description: "Will Scotland win Group C in the 2026 FIFA World Cup? Odds: 5.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Scotland win Group C in the 2026 FIFA World Cup?"
 category: "sports"
 status: "active"
-lastUpdated: 2026-02-26
+lastUpdated: 2026-02-28
 expiryDate: 2026-06-27
 tags: ["polymarket", "sports"]
-polymarketYes: 6.0
-polymarketNo: 94.0
-polymarketVolume: 9797
+polymarketYes: 5.9
+polymarketNo: 94.1
+polymarketVolume: 9798
 polymarketUrl: "https://polymarket.com/event/will-scotland-win-group-c-in-the-2026-fifa-world-cup"
+analysisDate: 2026-02-28
 ---
 
-Scotland faces a steep 6% probability of winning Group C at the 2026 World Cup, reflecting widespread skepticism about their ability to navigate what will likely be a competitive group stage draw. This market matters now because the official group assignments occur in December 2025, which will dramatically shift odds based on which teams Scotland draws alongside—making the pre-draw period a critical window for value assessment.
+# Scotland's World Cup Group Stage Odds: A Steep Climb at 5.9%
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 6.0% | 94.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 5.9% | 94.1% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The bull case rests on Scotland's recent competitive trajectory: they qualified for Euro 2024 and have shown resilience in qualifying campaigns under manager Steve Clarke. If they draw a favorable group (avoiding top-20 FIFA-ranked teams), they possess a functional midfield with players like Scott McTominay and John McGinn, plus a defensively disciplined approach that won them 6 points in their last World Cup qualifying round. Their home advantage in Scottish matches could prove decisive in a tight group, and historical precedent shows smaller nations occasionally outperform expectations when group draws align favorably.
+The 5.9% probability reflects legitimate skepticism about Scotland's chances of topping Group C in 2026, a outcome that would require both strong performance and favorable results from competing nations. This market matters now because Scotland's qualifying campaign directly precedes the tournament draw in late 2025, making qualification status and draw placement critical variables over the next 18 months.
 
-However, the bear case is substantially stronger. Scotland ranks 37th in the latest FIFA rankings and has never advanced from a World Cup group stage. Their attacking depth remains limited—they lack a consistent goal scorer at the international level—and their recent tournament track record shows they struggled against competitive sides at Euro 2024. Most critically, the December 2025 group draw will almost certainly pair them with at least one top-10 team, and potentially two strong sides. Nations like France, Germany, Spain, Portugal, and Argentina are all realistic group opponents, any of which would dramatically reduce Scotland's qualification odds to near-zero.
+The bull case hinges on Scotland's recent competitive upswing and home advantage psychology. Steve Clarke's squad reached the Euro 2024 knockout stages and has shown resilience in qualifying campaigns, while their domestic talent pool—anchored by players like Andy Robertson, Scott McTominay, and emerging attacking talent—continues strengthening. If Scotland qualifies and draws a Group C without traditional powerhouses (the draw occurs in December 2025), they could realistically compete for first place. Their qualifying matches through late 2024 and early 2025 will signal whether they're genuinely trending upward or merely competitive midtiers. The bear case is more straightforward: Scotland has never topped a World Cup group in the modern era and typically faces stronger European sides in competitive draws. At 5.9%, the market is already pricing in a significant gap between Scotland and expected group favorites. Even if they qualify comfortably, facing traditional contenders like France, Germany, Spain, or England in Group C would make first place extremely unlikely. The qualifying phase ahead will be crucial—any stumbles against weaker opponents would justify even lower odds.
 
-The key catalyst is the December 2025 draw itself, which will provide concrete information about opponents' strength. Traders should monitor Scotland's Nations League matches in 2024-2025 for form trends and any emergence of new attacking talent. The 6% price appears fairly calibrated to the probability of an extremely fortunate draw combined with peak performance, but consider that even with a weak group, Scotland would need to finish ahead of two other nations—a scenario the market is pricing appropriately as unlikely.
+Key catalysts include Scotland's qualifying matches through March 2025 (which will demonstrate their trajectory), the December 2025 World Cup draw announcement (determining their actual group opponents), and final playoff confirmation in November 2025 if needed. Traders should monitor injury developments among core players like Robertson and McTominay, coaching staff stability, and particularly how Scotland performs in away matches during qualification. The group composition will ultimately determine whether 5.9% is mispriced upward or downward—drawing a weaker Group C could push odds to 15-20%, while traditional powerhouses in their group would validate or further compress current pricing.
 
 ## Related Markets
 
-- [Will Newcastle win the 2025–26 English Premier League?](/odds/will-newcastle-win-the-202526-english-premier-league) — 0% YES
+- [Will Liverpool win the 2025–26 English Premier League?](/odds/will-liverpool-win-the-202526-english-premier-league) — 0% YES
 - [Will New Zealand win the 2026 FIFA World Cup?](/odds/will-new-zealand-win-the-2026-fifa-world-cup) — 0% YES
-- [Will Anthony Edwards win the 2025–2026 NBA MVP?](/odds/will-anthony-edwards-win-the-20252026-nba-mvp) — 0% YES
+- [Will Leverkusen win the 2025–26 Champions League?](/odds/will-leverkusen-win-the-202526-champions-league) — 1% YES
 
 ## Frequently Asked Questions
 
-### How much will the group draw in December 2025 change the odds?
+### What does Scotland need to happen in the qualifying draw to make this a realistic outcome?
 
-Dramatically—a group with lower-ranked opponents could push YES odds to 15-20%, while drawing a top-5 team alongside another strong side could collapse them to 1-2%.
+Scotland would need to draw a Group C without established contenders and qualify comfortably themselves. A group with one stronger European side and developing nations would make first place plausible; drawing France or Germany would make the 5.9% odds seem generous by comparison.
 
-### What would constitute Scotland's most realistic path to winning the group?
+### How much does Scotland's Euro 2024 performance support or undermine these odds?
 
-Drawing a group with Canada, Australia, or similar lower-ranked sides, combined with at least 2-3 wins and a draw—a scenario that requires both favorable luck and near-peak performance.
+Their knockout stage appearance suggests competitive progression, but they've historically underperformed in World Cup qualifying relative to European Championship campaigns—the market may be correctly skeptical of translating tournament success to group-stage dominance.
 
-### Should bettors wait until after the December 2025 draw to trade this market?
+### When will the most important catalyst for this market occur?
 
-Yes—the draw provides actionable information; current 6% odds are most useful for those predicting the draw composition, not for directional World Cup outcome bets.
+The December 2025 World Cup draw announcement will be decisive, as group composition determines probability far more than Scotland's qualifying results; odds could swing dramatically once actual opponents are confirmed.
 
 ## Learn More
 

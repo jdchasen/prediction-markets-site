@@ -3,8 +3,8 @@ title: "Will Mallorca win the 2025–26 La Liga?"
 description: "Will Mallorca win the 2025–26 La Liga? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Mallorca win the 2025–26 La Liga?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-02-26
+status: "settled"
+lastUpdated: 2026-02-28
 expiryDate: 2026-05-30
 tags: ["politics", "polymarket"]
 polymarketYes: 0.1

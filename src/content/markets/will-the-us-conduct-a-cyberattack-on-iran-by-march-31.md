@@ -3,8 +3,8 @@ title: "Will the US conduct a cyberattack on Iran by March 31?"
 description: "Will the US conduct a cyberattack on Iran by March 31? Odds: 14.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the US conduct a cyberattack on Iran by March 31?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-02-26
+status: "settled"
+lastUpdated: 2026-02-28
 expiryDate: 2026-03-31
 tags: ["politics", "polymarket"]
 polymarketYes: 14.5

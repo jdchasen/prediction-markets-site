@@ -3,8 +3,8 @@ title: "Will PSG win the 2025–26 French Ligue 1?"
 description: "Will PSG win the 2025–26 French Ligue 1? Odds: 86.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will PSG win the 2025–26 French Ligue 1?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-02-26
+status: "settled"
+lastUpdated: 2026-02-28
 expiryDate: 2026-05-30
 tags: ["polymarket", "sports"]
 polymarketYes: 86.5

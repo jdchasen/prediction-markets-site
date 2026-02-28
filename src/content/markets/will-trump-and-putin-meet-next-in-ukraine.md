@@ -1,53 +1,54 @@
 ---
 title: "Will Trump and Putin meet next in Ukraine?"
-description: "Will Trump and Putin meet next in Ukraine? Odds: 0.9% YES on Polymarket. See live prices and trade this market."
+description: "Will Trump and Putin meet next in Ukraine? Odds: 0.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Trump and Putin meet next in Ukraine?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-02-26
+lastUpdated: 2026-02-28
 expiryDate: 2026-06-30
 tags: ["ai", "politics", "polymarket", "trump"]
-polymarketYes: 0.9
-polymarketNo: 99.1
-polymarketVolume: 98195
+polymarketYes: 0.4
+polymarketNo: 99.7
+polymarketVolume: 99001
 polymarketUrl: "https://polymarket.com/event/will-trump-and-putin-meet-next-in-ukraine-328-474"
+analysisDate: 2026-02-28
 ---
 
-The Polymarket odds of less than 1% reflect strong trader consensus that a Trump-Putin meeting on Ukrainian soil is extraordinarily unlikely through mid-2026, signaling both geopolitical realities and the symbolic weight such a summit would carry during an ongoing conflict.
+The market assigns an extremely low probability to Trump and Putin holding their next meeting on Ukrainian soil, reflecting the immense diplomatic, security, and political obstacles that would need to be overcome for such a historically unprecedented scenario.
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.9% | 99.1% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.4% | 99.7% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The bear case (supporting the low probability) rests on fundamental security and political constraints. Ukrainian President Zelensky would face massive domestic backlash for hosting Putin on territory Russia has invaded, making Kyiv's cooperation nearly impossible. Even in a scenario where Trump brokers a ceasefire or peace deal after his January 2025 inauguration, negotiations would more likely occur on neutral ground in locations like Geneva, Istanbul, or even Mar-a-Lago—venues that have historically hosted sensitive diplomatic talks. Putin's personal security concerns about traveling to an active conflict zone, combined with the optics of a Russian leader appearing on soil his military failed to fully conquer, create additional barriers. Trump's own advisors would likely resist the security risks of a presidential visit to Ukraine while any hostilities persist.
+The bear case (supporting the 0.4% odds) is overwhelming: a Trump-Putin meeting in Ukraine would require Putin to travel to a country his military is actively fighting, where he faces an ICC arrest warrant and legitimate assassination risk. Ukraine maintains air superiority concerns and active combat operations that make high-level diplomatic visits logistically complex even for allied leaders. Trump would also face enormous domestic political backlash for appearing in Ukraine alongside Putin, effectively legitimizing Russian territorial claims. Historical precedent shows adversarial leaders meet on neutral ground—Nixon went to China, Reagan met Gorbachev in Geneva and Reykjavik, not in contested war zones. Putin's pattern since 2022 shows extreme reluctance to travel even to ICC signatory nations, limiting trips primarily to allied states like China, Iran, and North Korea.
 
-The bull case requires an extraordinary chain of events: a comprehensive peace agreement by late 2025 that includes Russian troop withdrawal, followed by a highly choreographed reconciliation summit deliberately staged in Ukraine to symbolize the war's end. Trump has repeatedly claimed he could end the war "in 24 hours" and might view a Ukraine-based meeting as the ultimate proof of his negotiating prowess. Some scenarios envision a meeting in Russian-occupied Crimea, which Putin considers Russian territory but which could technically satisfy the market's Ukraine criterion. Watch for concrete peace negotiation frameworks emerging in Q1 2025 after Trump's inauguration, Russia's spring 2025 offensive outcomes that could shift battlefield dynamics, and any joint statements from the three leaders about potential summit locations.
+The bull case requires a dramatic resolution scenario: if a ceasefire or peace agreement were reached by late 2025 or early 2026 with terms favorable to Russia that included sanctions relief, Putin might consider a symbolic meeting in a "neutral" eastern Ukrainian city to formalize territorial arrangements. Trump, if re-elected and pursuing his stated goal of ending the war "in 24 hours," could frame such a meeting as a historic peace summit rather than capitulation. The market extends through June 2026, providing time for the 2024 election outcome, potential peace negotiations through 2025, and implementation in early 2026. Key catalysts include the November 2024 U.S. presidential election, any Trump administration transition meetings on Ukraine policy in late 2024, and the spring 2025 period when both sides traditionally reassess military positions before renewed offensives.
 
-Key catalysts include Trump's first 100 days of Ukraine policy starting January 20, 2025, Russia's May 9 Victory Day celebrations that could signal diplomatic openness or continued aggression, and the June 2025 G7 summit where Western coordination on Ukraine will be tested. Any announcement of formal peace talks with specified venues would immediately move these odds, as would significant territorial changes on the ground that might alter Putin's calculus about appearing in Ukraine.
+Traders should monitor Trump's specific Ukraine peace proposals if he wins in November, any shift in Russian territorial control that might create "safe" zones for such a meeting, and statements from Ukrainian officials about acceptable meeting venues. The April-May 2025 timeframe could prove critical if Trump pursues rapid negotiation attempts. Watch for trial balloons about meeting locations in any peace talks, though neutral sites like Turkey, Saudi Arabia, or even Mar-a-Lago remain exponentially more likely venues.
 
 ## Related Markets
 
 - [Will Trump nominate Judy Shelton as the next Fed chair?](/odds/will-trump-nominate-judy-shelton-as-the-next-fed-chair) — 4% YES
-- [Will Stephen A. Smith win the 2028 Democratic presidential nomination?](/odds/will-stephen-a-smith-win-the-2028-democratic-presidential-nomination) — 2% YES
-- [Will Mallorca win the 2025–26 La Liga?](/odds/will-mallorca-win-the-202526-la-liga) — 0% YES
+- [Will China invade Taiwan by end of 2026?](/odds/will-china-invade-taiwan-by-end-of-2026) — 12% YES
+- [Will Thomas Massie win the 2028 Republican presidential nomination?](/odds/will-thomas-massie-win-the-2028-republican-presidential-nomination) — 2% YES
 
 ## Frequently Asked Questions
 
-### Would a meeting in Crimea count as "in Ukraine" for this market's resolution?
+### Would a meeting in Crimea or Russian-occupied territories count as "Ukraine" for this market?
 
-This depends on the market's specific resolution criteria, but Crimea's status is disputed—Ukraine and most Western nations consider it Ukrainian territory, while Russia claims annexation. Traders should verify the platform's exact definition before taking positions.
+This depends on the market's resolution criteria, but typically prediction markets define territories by internationally recognized borders, meaning Russian-occupied areas would still count as Ukraine. Traders should verify the specific platform's resolution source.
 
-### What happens if Trump and Putin meet virtually with Zelensky physically in Ukraine?
+### Could a surprise visit to Kyiv or western Ukraine change these odds significantly?
 
-The market likely requires both Trump and Putin to be physically present in Ukraine simultaneously. A hybrid virtual-physical format would probably not satisfy the resolution criteria for a YES outcome.
+A Trump-Putin meeting in Kyiv or Lviv (rather than occupied territories) would be even less likely than the current odds suggest, as it would require Putin to enter areas under Ukrainian military protection where security guarantees would be impossible to credibly establish.
 
-### Could a surprise ceasefire announcement in early 2025 significantly increase these odds?
+### What historical precedent exists for adversarial leaders meeting on one side's contested territory?
 
-Yes, a credible ceasefire with Russian withdrawal commitments could push odds into the 5-15% range, as it would make the security and political obstacles more surmountable, though neutrality concerns would still favor third-country venues over Ukrainian soil.
+Essentially none in modern warfare—peace negotiations occur on neutral ground or in third countries, never in active conflict zones where one leader would face legitimate security threats from the host nation's opponent.
 
 ## Learn More
 

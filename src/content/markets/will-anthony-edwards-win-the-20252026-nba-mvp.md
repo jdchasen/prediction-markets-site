@@ -3,8 +3,8 @@ title: "Will Anthony Edwards win the 2025–2026 NBA MVP?"
 description: "Will Anthony Edwards win the 2025–2026 NBA MVP? Odds: 0.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Anthony Edwards win the 2025–2026 NBA MVP?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-02-26
+status: "settled"
+lastUpdated: 2026-02-28
 expiryDate: 2026-06-10
 tags: ["polymarket", "sports"]
 polymarketYes: 0.4

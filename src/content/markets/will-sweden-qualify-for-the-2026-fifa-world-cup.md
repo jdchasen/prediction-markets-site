@@ -3,8 +3,8 @@ title: "Will Sweden qualify for the 2026 FIFA World Cup?"
 description: "Will Sweden qualify for the 2026 FIFA World Cup? Odds: 23.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Sweden qualify for the 2026 FIFA World Cup?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-02-26
+status: "settled"
+lastUpdated: 2026-02-28
 expiryDate: 2026-04-12
 tags: ["polymarket", "sports"]
 polymarketYes: 23.5

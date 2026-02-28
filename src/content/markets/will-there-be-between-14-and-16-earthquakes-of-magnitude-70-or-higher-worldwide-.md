@@ -3,8 +3,8 @@ title: "Will there be between 14 and 16 earthquakes of magnitude 7.0 or higher w
 description: "Will there be between 14 and 16 earthquakes of magnitude 7.0 or higher worldwide in 2026? Odds: 23.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will there be between 14 and 16 earthquakes of magnitude 7.0 or higher worldwide in 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-02-26
+status: "settled"
+lastUpdated: 2026-02-28
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 23.0

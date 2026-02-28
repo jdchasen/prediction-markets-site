@@ -3,8 +3,8 @@ title: "U.S. x Iran Military Engagement by June 30, 2026?"
 description: "U.S. x Iran Military Engagement by June 30, 2026? Odds: 70.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "U.S. x Iran Military Engagement by June 30, 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-02-26
+status: "settled"
+lastUpdated: 2026-02-28
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
 polymarketYes: 70.0

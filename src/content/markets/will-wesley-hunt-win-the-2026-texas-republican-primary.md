@@ -3,8 +3,8 @@ title: "Will Wesley Hunt win the 2026 Texas Republican Primary?"
 description: "Will Wesley Hunt win the 2026 Texas Republican Primary? Odds: 2.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Wesley Hunt win the 2026 Texas Republican Primary?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-02-26
+status: "settled"
+lastUpdated: 2026-02-28
 expiryDate: 2026-03-03
 tags: ["politics", "polymarket"]
 polymarketYes: 2.5

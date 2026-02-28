@@ -3,8 +3,8 @@ title: "Will Stephen A. Smith win the 2028 Democratic presidential nomination?"
 description: "Will Stephen A. Smith win the 2028 Democratic presidential nomination? Odds: 1.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Stephen A. Smith win the 2028 Democratic presidential nomination?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-02-26
+status: "settled"
+lastUpdated: 2026-02-28
 expiryDate: 2028-11-07
 tags: ["politics", "polymarket"]
 polymarketYes: 1.8

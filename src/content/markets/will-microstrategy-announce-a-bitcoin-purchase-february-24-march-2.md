@@ -3,8 +3,8 @@ title: "Will Microstrategy announce a Bitcoin purchase February 24-March 2?"
 description: "Will Microstrategy announce a Bitcoin purchase February 24-March 2? Odds: 98.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Microstrategy announce a Bitcoin purchase February 24-March 2?"
 category: "crypto"
-status: "active"
-lastUpdated: 2026-02-26
+status: "settled"
+lastUpdated: 2026-02-28
 expiryDate: 2026-03-03
 tags: ["bitcoin", "crypto", "polymarket"]
 polymarketYes: 98.0

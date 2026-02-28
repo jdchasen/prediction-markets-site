@@ -3,8 +3,8 @@ title: "Will Connor McDavid win the 2025–2026 NHL Art Ross Trophy?"
 description: "Will Connor McDavid win the 2025–2026 NHL Art Ross Trophy? Odds: 31.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Connor McDavid win the 2025–2026 NHL Art Ross Trophy?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-02-26
+status: "settled"
+lastUpdated: 2026-02-28
 expiryDate: 2026-04-20
 tags: ["polymarket", "sports"]
 polymarketYes: 31.5

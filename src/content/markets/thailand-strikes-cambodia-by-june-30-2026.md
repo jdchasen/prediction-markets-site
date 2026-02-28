@@ -3,8 +3,8 @@ title: "Thailand strikes Cambodia by June 30, 2026?"
 description: "Thailand strikes Cambodia by June 30, 2026? Odds: 28.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Thailand strikes Cambodia by June 30, 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-02-26
+status: "settled"
+lastUpdated: 2026-02-28
 expiryDate: 2026-06-30
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 28.5

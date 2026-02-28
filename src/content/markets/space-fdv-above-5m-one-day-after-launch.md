@@ -3,8 +3,8 @@ title: "Space FDV above $5M one day after launch?"
 description: "Space FDV above $5M one day after launch? Odds: 80.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Space FDV above $5M one day after launch?"
 category: "crypto"
-status: "active"
-lastUpdated: 2026-02-26
+status: "settled"
+lastUpdated: 2026-02-28
 expiryDate: 2027-01-01
 tags: ["crypto", "polymarket"]
 polymarketYes: 80.0

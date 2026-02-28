@@ -3,8 +3,8 @@ title: "Will OpenAI have the third-best AI model at the end of March 2026?"
 description: "Will OpenAI have the third-best AI model at the end of March 2026? Odds: 10.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will OpenAI have the third-best AI model at the end of March 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-02-26
+status: "settled"
+lastUpdated: 2026-02-28
 expiryDate: 2026-03-31
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 10.0

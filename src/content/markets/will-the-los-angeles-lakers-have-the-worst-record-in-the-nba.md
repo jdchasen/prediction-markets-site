@@ -3,8 +3,8 @@ title: "Will the Los Angeles Lakers have the worst record in the NBA?"
 description: "Will the Los Angeles Lakers have the worst record in the NBA? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Los Angeles Lakers have the worst record in the NBA?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-02-26
+status: "settled"
+lastUpdated: 2026-02-28
 expiryDate: 2026-04-12
 tags: ["polymarket", "sports"]
 polymarketYes: 0.1
