@@ -160,37 +160,51 @@ const categoryColors: Record<string, string> = {
 
 const catColor = categoryColors[market.data.category] || 'bg-gray-100 text-gray-800 dark:bg-gray-700 dark:text-gray-300';
 
-// Build CTR-optimized title — keep question format, add odds answer
+// Build CTR-optimized title — short enough to never truncate
 const primaryYes = market.data.kalshiYes ?? market.data.polymarketYes;
 const primaryPlatform = market.data.kalshiYes !== undefined ? 'Kalshi' : 'Polymarket';
 const hasKalshi = market.data.kalshiYes !== undefined;
 const hasPoly = market.data.polymarketYes !== undefined;
 
-// Keep question intact but shorten for SERP (Google truncates ~60 chars)
+// Title strategy: "{Question} — {verdict}" (max ~55 chars visible)
+// Google truncates at ~55-60 chars. The question IS the query, verdict is the hook.
 let shortTitle = market.data.title;
-// Shorten common patterns to save characters
 shortTitle = shortTitle.replace(/by December 31, (\d{4})\?/, 'by End of $1?');
 shortTitle = shortTitle.replace(/by June 30, (\d{4})\?/, 'by Mid-$1?');
 shortTitle = shortTitle.replace(/by March 31, (\d{4})\?/, 'by Q1 $1?');
 
-const oddsTitle = primaryYes !== undefined
-  ? `${shortTitle} Odds: ${primaryYes}% Say Yes`
-  : shortTitle;
-
-// Build compelling meta description — lead with the verdict, create curiosity
-let oddsDescription: string;
 const yesVal = primaryYes ?? 0;
-let verdict: string;
-if (yesVal >= 70) verdict = "Traders think this is likely";
-else if (yesVal >= 40) verdict = "The market is split on this one";
-else if (yesVal >= 15) verdict = "The market says probably not";
-else verdict = "Traders see almost no chance";
+// Short verdict that fits after the title
+let shortVerdict: string;
+if (yesVal >= 80) shortVerdict = "Likely Yes";
+else if (yesVal >= 60) shortVerdict = "Leaning Yes";
+else if (yesVal >= 40) shortVerdict = "Toss-Up";
+else if (yesVal >= 15) shortVerdict = "Unlikely";
+else shortVerdict = "Very Unlikely";
+
+// If title + verdict fits in ~58 chars, use it. Otherwise just the title.
+const fullTitle = `${shortTitle} ${yesVal}% — ${shortVerdict}`;
+const oddsTitle = fullTitle.length <= 60 ? fullTitle : `${shortTitle} ${yesVal}%`;
+
+// Meta description: lead with the answer, then add unique context
+// No CTAs — Google users want information, not a sales pitch
+let oddsDescription: string;
+const updatedStr = market.data.lastUpdated.toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' });
 
 if (hasKalshi && hasPoly) {
-  const spread = Math.abs((market.data.kalshiYes ?? 0) - (market.data.polymarketYes ?? 0)).toFixed(0);
-  oddsDescription = `${verdict} — ${market.data.kalshiYes}% on Kalshi vs ${market.data.polymarketYes}% on Polymarket (${spread}% spread). See where the smart money is and trade this market.`;
+  const spread = Math.abs((market.data.kalshiYes ?? 0) - (market.data.polymarketYes ?? 0));
+  if (spread >= 5) {
+    oddsDescription = `${yesVal}% chance as of ${updatedStr}. Kalshi: ${market.data.kalshiYes}% vs Polymarket: ${market.data.polymarketYes}% (${spread.toFixed(0)}pp spread). Analysis, bull/bear cases, and key catalysts.`;
+  } else {
+    oddsDescription = `${yesVal}% chance as of ${updatedStr}. Both Kalshi and Polymarket agree within ${spread.toFixed(0)}pp. Expert analysis with bull/bear cases and upcoming catalysts.`;
+  }
 } else {
-  oddsDescription = `${verdict} — currently ${yesVal}% YES on ${primaryPlatform}. See how odds are moving and trade this prediction market.`;
+  oddsDescription = `${yesVal}% chance as of ${updatedStr} on ${primaryPlatform}. Expert analysis with bull case, bear case, and key catalysts to watch.`;
+}
+
+// Hard cap at 155 chars (Google truncates at ~155-160)
+if (oddsDescription.length > 155) {
+  oddsDescription = oddsDescription.slice(0, 152) + '...';
 }
 ---
 
