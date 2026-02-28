@@ -29,11 +29,6 @@ The bear case is straightforward: most crypto launches in 2024-2025 have seen im
 
 Critical factors to monitor include tokenomics announcements (total supply, initial circulating percentage, vesting schedules), confirmed exchange listings ahead of launch, and any strategic partnerships revealed before 2027. The actual launch date remains unconfirmed, giving this market extended uncertainty. Traders should watch for Backpack's official token documentation release and whether the project opts for a fair launch versus controlled distribution model. On-chain activity metrics from existing Backpack wallet addresses and MAD token holder engagement could signal community strength ahead of launch.
 
-## Key Dates
-
-- **Market Expiry**: January 01, 2027 (309 days from now)
-- **Midpoint Check**: July 30, 2026 — reassess position
-
 ## Related Markets
 
 - [Will Opinion launch a token on March 24?](/odds/will-opinion-launch-a-token-on-march-24) — 2% YES

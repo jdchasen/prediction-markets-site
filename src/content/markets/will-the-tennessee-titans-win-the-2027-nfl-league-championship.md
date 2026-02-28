@@ -29,11 +29,6 @@ The bear case is substantially stronger and explains the rock-bottom odds. Tenne
 
 Key catalysts include the 2025 NFL Draft (April 24-26, 2025) where Tennessee holds a top-three pick and must decide on a quarterback, the start of 2025 free agency (March 12, 2025) when cap flexibility could land major additions, and the Titans' 2025 season performance which will determine if they're trending toward competitiveness or another rebuild year. Traders should monitor quarterback evaluation reports throughout the pre-draft process and whether Tennessee commits significant resources to offensive line and pass-catching weapons.
 
-## Key Dates
-
-- **Market Expiry**: March 31, 2027 (398 days from now)
-- **Midpoint Check**: September 13, 2026 — reassess position
-
 ## Related Markets
 
 - [Will Newcastle win the 2025–26 English Premier League?](/odds/will-newcastle-win-the-202526-english-premier-league) — 0% YES

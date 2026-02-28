@@ -29,11 +29,6 @@ The bull case for YES rests on McGregor's historical willingness to fight rising
 
 Watch for McGregor's actual return date and first opponent announcement (likely Q2-Q3 2025), which will signal whether he's chasing legacy fights or rebuilding incrementally. Pimblett's ranking trajectory matters enormously—if he reaches top-5 lightweight status and McGregor exhausts other options, odds should drift higher. Conversely, if McGregor commits to a title shot path or retires speculation gains traction, the YES odds should compress further toward 10-15%.
 
-## Key Dates
-
-- **Market Expiry**: January 01, 2027 (309 days from now)
-- **Midpoint Check**: July 30, 2026 — reassess position
-
 ## Related Markets
 
 - [Will Trump nominate Judy Shelton as the next Fed chair?](/odds/will-trump-nominate-judy-shelton-as-the-next-fed-chair) — 4% YES

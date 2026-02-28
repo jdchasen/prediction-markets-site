@@ -29,10 +29,6 @@ The bear case is straightforward: no announced projects place Reinsve in content
 
 Critical dates to monitor include the Venice Film Festival lineup announcement in late July 2025, Toronto International Film Festival programming in August 2025, and the December 31, 2025 eligibility deadline. Traders should watch for any casting announcements attaching Reinsve to English-language prestige projects, particularly those from previous Oscar-winning directors. The October-November 2025 period will reveal whether she appears in any critics' awards conversations, which historically predict Oscar viability with 70-80% accuracy for eventual nominees.
 
-## Key Dates
-
-- **Market Expiry**: March 15, 2026 (17 days from now)
-
 ## Related Markets
 
 - [Will Elle Fanning win Best Supporting Actress at the 98th Academy Awards?](/odds/will-elle-fanning-win-best-supporting-actress-at-the-98th-academy-awards) — 2% YES

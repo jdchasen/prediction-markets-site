@@ -29,11 +29,6 @@ The bear case is overwhelming: Smith has zero political infrastructure, no polic
 
 Key catalysts include any formal political moves Smith makes in 2025-2026, such as establishing a PAC, hiring political consultants, or making appearances in Iowa or New Hampshire. The 2026 midterms will shape the Democratic Party's direction and reveal which messages resonate. If President Biden serves a full second term through January 2029, Vice President Harris becomes the presumptive frontrunner, making an outsider's path nearly impossible. Traders should monitor Smith's ESPN contract status (which ties him to sports media), any political endorsements he makes, and whether he begins the groundwork that actual candidates start 18-24 months before primaries begin.
 
-## Key Dates
-
-- **Market Expiry**: November 07, 2028 (985 days from now)
-- **Midpoint Check**: July 03, 2027 — reassess position
-
 ## Related Markets
 
 - [Will Trump nominate Judy Shelton as the next Fed chair?](/odds/will-trump-nominate-judy-shelton-as-the-next-fed-chair) — 4% YES

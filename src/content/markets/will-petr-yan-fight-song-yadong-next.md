@@ -31,11 +31,6 @@ The bear case assumes both fighters move up in weight class, that one retires pr
 
 Key catalysts include any title shot for either fighter (which might defer or accelerate the matchup timeline), significant losses that remove ranking eligibility, or fighter retirement announcements. Traders should monitor both fighters' fight announcements and ranking changes quarterly through the UFC's official standings. The long 48-month expiration window means this market likely remains illiquid and mispriced until closer to 2026.
 
-## Key Dates
-
-- **Market Expiry**: December 31, 2026 (308 days from now)
-- **Midpoint Check**: July 30, 2026 — reassess position
-
 ## Related Markets
 
 - [Will Trump nominate Judy Shelton as the next Fed chair?](/odds/will-trump-nominate-judy-shelton-as-the-next-fed-chair) — 4% YES

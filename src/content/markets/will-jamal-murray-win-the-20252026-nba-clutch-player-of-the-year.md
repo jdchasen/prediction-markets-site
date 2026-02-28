@@ -31,11 +31,6 @@ The bear case is more compelling. Murray operates in a Denver offense centered o
 
 Monitor these catalysts through the season: Denver's record in December (gauges team health and seeding trajectory), Murray's fourth-quarter usage rates through February (indicates role shift), any major Nuggets roster adjustments by the trade deadline, and his playoff seed heading into April. If Denver drops to a 5+ seed or Murray's clutch volume falls below the 15th percentile among guards, the odds should drift even lower. Watch injury reports closely—a hamstring or ankle issue could eliminate him from contention entirely given the award's dependence on availability and late-season performance.
 
-## Key Dates
-
-- **Market Expiry**: June 30, 2026 (124 days from now)
-- **Midpoint Check**: April 29, 2026 — reassess position
-
 ## Related Markets
 
 - [Will Newcastle win the 2025–26 English Premier League?](/odds/will-newcastle-win-the-202526-english-premier-league) — 0% YES

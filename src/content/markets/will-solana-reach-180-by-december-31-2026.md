@@ -31,11 +31,6 @@ The bear case centers on competitive pressure from Ethereum's staking ecosystem 
 
 Key dates to monitor: Treasury Department crypto guidance (typically Q1), any major SEC enforcement actions against Solana-native projects (ongoing since 2024), and quarterly updates on Firedancer client adoption by major validators. Traders should also watch for legislative developments around the Lummis-Gillibrand digital asset framework, which could clarify token treatment before mid-2026. The wide gap between current spot price and the $180 target, combined with Solana's history of 50%+ drawdowns, suggests the market is appropriately pricing tail risk—but underestimating the pro-crypto policy tailwinds now materializing.
 
-## Key Dates
-
-- **Market Expiry**: January 01, 2027 (309 days from now)
-- **Midpoint Check**: July 30, 2026 — reassess position
-
 ## Related Markets
 
 - [Will Trump nominate Judy Shelton as the next Fed chair?](/odds/will-trump-nominate-judy-shelton-as-the-next-fed-chair) — 4% YES

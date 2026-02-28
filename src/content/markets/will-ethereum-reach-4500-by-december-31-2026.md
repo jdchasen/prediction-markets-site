@@ -29,11 +29,6 @@ The bear case centers on Ethereum's declining network dominance and regulatory o
 
 Key catalysts include the Pectra upgrade execution in Q1 2025, quarterly spot ETF flow data (next significant report January 2025), and the SEC's final determination on ETH's security status expected following the current administration's transition. Traders should monitor the ETH/BTC ratio, which tends to lead absolute price moves, and on-chain burn rates versus issuance—currently showing near-zero net inflation. The March 2025 unlocking of approximately 1.6M ETH from Shanghai upgrade validators represents a potential sell pressure event. Any breakdown below 0.03 on the ETH/BTC ratio would effectively invalidate the bull case for this timeframe.
 
-## Key Dates
-
-- **Market Expiry**: January 01, 2027 (309 days from now)
-- **Midpoint Check**: July 30, 2026 — reassess position
-
 ## Related Markets
 
 - [Backpack FDV above $4B one day after launch?](/odds/backpack-fdv-above-4b-one-day-after-launch) — 1% YES

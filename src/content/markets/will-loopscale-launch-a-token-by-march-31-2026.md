@@ -31,11 +31,6 @@ The bear case emphasizes that scaling solutions face mounting regulatory headwin
 
 Traders should monitor for: (1) any Loopscale blog posts, GitHub commits, or governance forum discussions mentioning tokenomics timelines, (2) regulatory guidance specifically addressing scaling solution tokens in early 2025, (3) venture funding announcements that typically precede token launches by 6-12 months, and (4) exchange partnerships with tier-1 platforms like Coinbase or Kraken, which signal serious launch preparation. The January 2027 expiry gives 10 months of additional resolution time after March 2026, so odds may compress significantly if major announcements surface in Q3-Q4 2025.
 
-## Key Dates
-
-- **Market Expiry**: January 01, 2027 (309 days from now)
-- **Midpoint Check**: July 30, 2026 — reassess position
-
 ## Related Markets
 
 - [Backpack FDV above $4B one day after launch?](/odds/backpack-fdv-above-4b-one-day-after-launch) — 1% YES

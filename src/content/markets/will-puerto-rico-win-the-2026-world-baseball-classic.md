@@ -21,10 +21,6 @@ polymarketUrl: "https://polymarket.com/event/will-puerto-rico-win-the-2026-world
 |----------|-----|-----|--------|-------|
 | Polymarket | 3.4% | 96.7% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
-## Key Dates
-
-- **Market Expiry**: March 17, 2026 (20 days from now)
-
 ## What the Odds Mean
 
 At **3%**, the market considers this outcome unlikely. Contrarian YES positions are cheap but high-risk. If you have a strong thesis that the market is wrong, these low-probability markets can offer outsized returns.

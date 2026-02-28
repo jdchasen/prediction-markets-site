@@ -853,36 +853,8 @@ def _find_related_markets(market: dict, all_markets: list[dict]) -> list[dict]:
     return same_cat[:3]
 
 
-def _generate_key_dates(market: dict) -> str:
-    """Generate key dates section based on expiry and category."""
-    expiry_str = market.get("expiry", "")
-    if not expiry_str:
-        return ""
-
-    try:
-        expiry = datetime.fromisoformat(expiry_str.replace("Z", "+00:00"))
-    except ValueError:
-        return ""
-
-    expiry_date = expiry.strftime("%B %d, %Y")
-    days_until = (expiry.date() - date.today()).days
-    if days_until < 0:
-        return ""
-
-    lines = []
-    lines.append("## Key Dates")
-    lines.append("")
-    lines.append(f"- **Market Expiry**: {expiry_date} ({days_until} days from now)")
-
-    if days_until > 30:
-        midpoint = date.today() + timedelta(days=days_until // 2)
-        lines.append(f"- **Midpoint Check**: {midpoint.strftime('%B %d, %Y')} — reassess position")
-
-    if days_until <= 7:
-        lines.append("- **Final Trading**: Market approaches settlement — expect reduced liquidity")
-
-    lines.append("")
-    return "\n".join(lines)
+    # Key Dates removed from Python — now computed at build time in Astro
+    # from the expiryDate frontmatter field (always accurate on each deploy)
 
 
 def generate_body(
@@ -936,10 +908,7 @@ def generate_body(
             lines.append("\n\n".join(paras[1:]))
             lines.append("")
 
-    # Key Dates
-    key_dates = _generate_key_dates(market)
-    if key_dates:
-        lines.append(key_dates)
+    # Key Dates — rendered in Astro from expiryDate frontmatter
 
     # Platform comparison if multi-platform
     if km and pm:
@@ -1215,6 +1184,9 @@ def generate_page(
         fm_lines.append(f"polymarketVolume: {int(pm['volume'])}")
         fm_lines.append(f'polymarketUrl: "{pm.get("url", "")}"')
 
+    if analysis:
+        fm_lines.append(f"analysisDate: {today}")
+
     fm_lines.append("---")
 
     frontmatter = "\n".join(fm_lines)
@@ -1315,6 +1287,33 @@ def _odds_changed_significantly(market: dict, filepath: Path, threshold: float =
         return True
 
     return False
+
+
+def _analysis_is_stale(filepath: Path, max_age_days: int = 14) -> bool:
+    """Check if existing analysis is older than max_age_days."""
+    if not filepath.exists():
+        return False
+    text = filepath.read_text(errors="replace")
+    fm_match = re.match(r"^---\s*\n(.*?)\n---", text, re.DOTALL)
+    if not fm_match:
+        return False
+    fm = fm_match.group(1)
+
+    # No analysis at all — needs generation
+    if "## Market Analysis" not in text:
+        return True
+
+    # Check analysisDate in frontmatter
+    date_m = re.search(r"^analysisDate:\s*(\d{4}-\d{2}-\d{2})", fm, re.MULTILINE)
+    if not date_m:
+        # Has analysis but no date — treat as stale
+        return True
+
+    try:
+        analysis_date = date.fromisoformat(date_m.group(1))
+        return (date.today() - analysis_date).days > max_age_days
+    except ValueError:
+        return True
 
 
 def _update_frontmatter_only(market: dict, filepath: Path):
@@ -1541,9 +1540,10 @@ def main():
             skipped += 1
             continue
 
-        # Smart caching: check if odds changed significantly
-        if filepath.exists() and not _odds_changed_significantly(market, filepath):
-            # Odds barely changed — just update frontmatter numbers
+        # Smart caching: check if odds changed significantly or analysis is stale
+        stale = _analysis_is_stale(filepath)
+        if filepath.exists() and not _odds_changed_significantly(market, filepath) and not stale:
+            # Odds barely changed and analysis is fresh — just update frontmatter numbers
             _update_frontmatter_only(market, filepath)
             updated_fm_only += 1
             continue

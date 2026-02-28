@@ -21,10 +21,6 @@ polymarketUrl: "https://polymarket.com/event/will-sentimental-value-win-best-pic
 |----------|-----|-----|--------|-------|
 | Polymarket | 0.5% | 99.5% | $992K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
-## Key Dates
-
-- **Market Expiry**: March 15, 2026 (17 days from now)
-
 ## What the Odds Mean
 
 At **0%**, the market considers this outcome unlikely. Contrarian YES positions are cheap but high-risk. If you have a strong thesis that the market is wrong, these low-probability markets can offer outsized returns.

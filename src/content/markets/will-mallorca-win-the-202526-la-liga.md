@@ -29,11 +29,6 @@ The bull case requires acknowledging this is effectively a lottery ticket on cat
 
 Traders should monitor Mallorca's 2024-25 season performance as a baseline indicator, particularly their final league position by May 2025. Any ownership news, managerial changes, or unexpected investment announcements before August 2025 would be the only realistic catalysts for odds movement. The summer 2025 transfer window will definitively show whether Mallorca makes any moves suggesting genuine title ambitions versus normal mid-table operation.
 
-## Key Dates
-
-- **Market Expiry**: May 30, 2026 (93 days from now)
-- **Midpoint Check**: April 13, 2026 — reassess position
-
 ## Related Markets
 
 - [Will Trump nominate Judy Shelton as the next Fed chair?](/odds/will-trump-nominate-judy-shelton-as-the-next-fed-chair) — 4% YES

@@ -29,11 +29,6 @@ Key factors driving the low probability include the arbitrary nature of the cuto
 
 Traders should monitor the USGS earthquake catalog monthly for real-time magnitude 7.0+ confirmations, as initial magnitude estimates sometimes get revised up or down by 0.1-0.2 points, potentially moving borderline 6.9 or 7.1 events in or out of scope. Regional seismic patterns in Indonesia, Japan, and Chile - which account for roughly 60% of major quakes - deserve particular attention, as cluster periods in these zones can compress multiple events into weeks. The market's December 31, 2026 expiry means late-year seismic activity will be decisive, with historical data showing Q4 produces slightly above-average major earthquake frequency due to no particular physical mechanism but rather statistical noise in relatively small annual sample sizes.
 
-## Key Dates
-
-- **Market Expiry**: December 31, 2026 (308 days from now)
-- **Midpoint Check**: July 30, 2026 — reassess position
-
 ## Related Markets
 
 - [Will Trump nominate Judy Shelton as the next Fed chair?](/odds/will-trump-nominate-judy-shelton-as-the-next-fed-chair) — 4% YES

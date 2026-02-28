@@ -31,11 +31,6 @@ The bear case hinges on several overlooked risks: undefined tokenomics (allocati
 
 Key metrics to monitor include any announced launch date (which would immediately reprice this market), tokenomics details from the team, and early exchange commitments. Watch for regulatory signals around token launches in Q4 2024 and 2025, particularly any new SEC guidance on initial distributions. On-chain activity pre-launch (smart contract deployments, testnet usage) would validate team execution. If Space remains silent for 6+ months or faces technical delays, the 80% odds will compress downward as tail risks accumulate. The most probable repricing catalyst is a concrete launch timeline announcement.
 
-## Key Dates
-
-- **Market Expiry**: January 01, 2027 (309 days from now)
-- **Midpoint Check**: July 30, 2026 — reassess position
-
 ## Related Markets
 
 - [Backpack FDV above $4B one day after launch?](/odds/backpack-fdv-above-4b-one-day-after-launch) — 1% YES

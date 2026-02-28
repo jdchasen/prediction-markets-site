@@ -21,10 +21,6 @@ polymarketUrl: "https://polymarket.com/event/will-annual-inflation-increase-by-2
 |----------|-----|-----|--------|-------|
 | Polymarket | 2.9% | 97.0% | $9K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
-## Key Dates
-
-- **Market Expiry**: March 11, 2026 (14 days from now)
-
 ## What the Odds Mean
 
 At **3%**, the market considers this outcome unlikely. Contrarian YES positions are cheap but high-risk. If you have a strong thesis that the market is wrong, these low-probability markets can offer outsized returns.

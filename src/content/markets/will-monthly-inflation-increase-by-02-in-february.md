@@ -31,10 +31,6 @@ The resolution hinges on how base effects and seasonal adjustments interact with
 
 Traders should monitor January's CPI release for directional signals and watch Federal Reserve guidance closely. Economic data releases in late January—particularly retail sales, jobless claims, and producer prices—will provide early signals about February's inflation pressures. Watch for any shifts in oil prices or shipping costs in early February, as these typically feed through quickly to consumer prices. The market's current 34.5% odds leave room for repricing if data surprises, particularly if consecutive warm inflation reports suggest the Fed's rate-cutting cycle has ended prematurely.
 
-## Key Dates
-
-- **Market Expiry**: March 11, 2026 (15 days from now)
-
 ## What the Odds Mean
 
 At **34%**, the market considers this outcome unlikely. Contrarian YES positions are cheap but high-risk. If you have a strong thesis that the market is wrong, these low-probability markets can offer outsized returns.

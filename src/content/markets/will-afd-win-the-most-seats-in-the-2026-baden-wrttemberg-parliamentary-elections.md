@@ -29,10 +29,6 @@ The bull case, however slim, relies on a dramatic deterioration of Germany's eco
 
 Key factors to monitor include Baden-Württemberg-specific polling from institutes like Infratest dimap, particularly any movement in AfD support above 20%. Watch for developments at major employers like Mercedes-Benz and Porsche regarding layoffs or restructuring announcements. The CDU's candidate selection process in 2025 will matter significantly—a weak candidate could fragment the center-right vote. Additionally, any coalition tensions between Greens and CDU in the current government could reshape the competitive landscape, though even in fragmented scenarios, the 0.5% odds suggest traders see almost no path for AfD to actually finish first.
 
-## Key Dates
-
-- **Market Expiry**: March 08, 2026 (10 days from now)
-
 ## Related Markets
 
 - [Will Trump nominate Judy Shelton as the next Fed chair?](/odds/will-trump-nominate-judy-shelton-as-the-next-fed-chair) — 4% YES

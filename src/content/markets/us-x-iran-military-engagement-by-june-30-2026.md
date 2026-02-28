@@ -29,11 +29,6 @@ The bear case argues that direct engagement remains costly and politically unpop
 
 Key catalysts include the March 2025 IAEA Board of Governors meeting on Iran sanctions snapback, Israel's election cycle and Netanyahu government stability through mid-2025, and any Iranian breakout timeline assessments from U.S. intelligence agencies. Watch for Congressional action on Authorization for Use of Military Force against Iran, typically debated during defense appropriations cycles in spring and fall. Iranian Revolutionary Guard activities in the Strait of Hormuz and uranium enrichment reports issued quarterly by the IAEA serve as leading indicators. The May 2025 Iranian presidential transition and Cabinet appointments will signal regime intentions toward confrontation or negotiation.
 
-## Key Dates
-
-- **Market Expiry**: June 30, 2026 (124 days from now)
-- **Midpoint Check**: April 29, 2026 — reassess position
-
 ## Related Markets
 
 - [Will Trump nominate Judy Shelton as the next Fed chair?](/odds/will-trump-nominate-judy-shelton-as-the-next-fed-chair) — 4% YES

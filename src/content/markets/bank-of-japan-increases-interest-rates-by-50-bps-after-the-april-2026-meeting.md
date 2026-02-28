@@ -21,11 +21,6 @@ polymarketUrl: "https://polymarket.com/event/bank-of-japan-increases-interest-ra
 |----------|-----|-----|--------|-------|
 | Polymarket | 1.6% | 98.5% | $9K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
-## Key Dates
-
-- **Market Expiry**: April 28, 2026 (62 days from now)
-- **Midpoint Check**: March 28, 2026 — reassess position
-
 ## What the Odds Mean
 
 At **2%**, the market considers this outcome unlikely. Contrarian YES positions are cheap but high-risk. If you have a strong thesis that the market is wrong, these low-probability markets can offer outsized returns.

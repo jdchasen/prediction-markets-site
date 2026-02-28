@@ -31,11 +31,6 @@ Three concrete scenarios could materially shift these odds upward. First, if act
 
 Traders monitoring this should track the USGS earthquake database monthly, watching for both the running total and clustering patterns. The market's extreme illiquidity at these odds suggests limited liquidity for exits—position sizing should account for this. The key watch: if earthquake frequency dips meaningfully below historical norms by mid-2025, the exact-count constraint becomes less absurdly prohibitive, potentially offering value. Otherwise, this contract is primarily useful as a hedge for those betting on global seismic quiescence rather than as a directional bet.
 
-## Key Dates
-
-- **Market Expiry**: June 30, 2026 (126 days from now)
-- **Midpoint Check**: April 28, 2026 — reassess position
-
 ## What the Odds Mean
 
 At **1%**, the market considers this outcome unlikely. Contrarian YES positions are cheap but high-risk. If you have a strong thesis that the market is wrong, these low-probability markets can offer outsized returns.

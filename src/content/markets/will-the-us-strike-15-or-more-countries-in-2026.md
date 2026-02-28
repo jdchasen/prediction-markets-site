@@ -31,11 +31,6 @@ The bear case is historically grounded. Since 2001, the US has conducted sustain
 
 Critical catalysts to monitor: Ukraine's territorial status by Q2 2026 (if Ukraine collapses, NATO calculus shifts entirely); Iran's nuclear program status ahead of any JCPOA renegotiation deadline; North Korea ICBM test frequency (each test narrows response-option windows); and election-year polling on military interventionism heading into 2026 midterm cycle. The January 20, 2025 presidential transition will establish the tone—a dovish administration makes 15 strikes nearly impossible; a interventionist one raises probabilities materially. Watch Congressional appropriations debates (April-September 2026) for funding language that either constrains or enables new operations. The market's 1.1% odds suggest traders should scrutinize whether they're pricing in zero possibility of major unexpected shocks (a North Korea conflict, Iranian nuclear breakout, or Russian NATO escalation) rather than low probability.
 
-## Key Dates
-
-- **Market Expiry**: December 31, 2026 (308 days from now)
-- **Midpoint Check**: July 30, 2026 — reassess position
-
 ## Related Markets
 
 - [Will Trump nominate Judy Shelton as the next Fed chair?](/odds/will-trump-nominate-judy-shelton-as-the-next-fed-chair) — 4% YES

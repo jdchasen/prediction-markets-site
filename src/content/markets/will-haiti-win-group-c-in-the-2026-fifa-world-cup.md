@@ -31,11 +31,6 @@ The bear case is overwhelming: Haiti has never won a World Cup match in their si
 
 Catalysts to monitor: Haiti's performance in 2026 CONCACAF qualifiers (matches begin September 2024, with critical games in November 2024 and February 2025) will telegraph their actual 2026 prospects; any unexpected resurgence in their qualifying group standing could marginally shift odds upward, though not materially. The January 2025 Copa América could provide data on squad quality and development. Most critically, the 2026 World Cup group draw (scheduled for late 2025) will either eliminate this market's uncertainty entirely or prove Haiti drew a historically weak group—a scenario so unlikely that odds should remain under 1% even with favorable group composition.
 
-## Key Dates
-
-- **Market Expiry**: June 27, 2026 (121 days from now)
-- **Midpoint Check**: April 27, 2026 — reassess position
-
 ## Related Markets
 
 - [Will Newcastle win the 2025–26 English Premier League?](/odds/will-newcastle-win-the-202526-english-premier-league) — 0% YES

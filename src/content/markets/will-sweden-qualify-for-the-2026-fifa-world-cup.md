@@ -29,11 +29,6 @@ The bear case reflects tangible decline: Sweden finished third in their Euro 202
 
 Critical upcoming catalysts include the qualifying draw scheduled for July 13, 2025 in Zurich, which determines whether Sweden lands in a manageable group or faces an uphill battle. The qualifying matches run from September 2025 through November 2025, with the top group finishers advancing automatically and runners-up entering playoffs in March 2026. Traders should monitor Sweden's March 2025 friendlies for squad cohesion under Tomasson and track whether Victor Lindelöf and other veterans maintain their starting roles. The Nordic team's actual qualifying group assignment will dramatically shift these odds—drawing a group with a clear favorite plus beatable opposition changes the calculus entirely.
 
-## Key Dates
-
-- **Market Expiry**: April 12, 2026 (45 days from now)
-- **Midpoint Check**: March 20, 2026 — reassess position
-
 ## Related Markets
 
 - [Will Newcastle win the 2025–26 English Premier League?](/odds/will-newcastle-win-the-202526-english-premier-league) — 0% YES

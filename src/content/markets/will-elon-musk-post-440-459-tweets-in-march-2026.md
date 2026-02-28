@@ -29,11 +29,6 @@ The bear case argues that Musk's posting behavior is essentially immutable; he u
 
 Key catalysts to monitor include Tesla's Q1 2026 earnings announcement (typically late April, influencing March posting), any SEC enforcement action against Musk regarding tweet disclosures (possible given ongoing investigations), xAI's funding milestones or product announcements in Q1 2026, and geopolitical tensions affecting X's regulatory environment globally. The market's extreme odds (0.1% YES) suggest sophisticated traders believe the specificity of this range makes it nearly impossible to hit randomly—Musk would need to consciously target a precise 20-tweet-per-day window, something his behavior offers no evidence of supporting.
 
-## Key Dates
-
-- **Market Expiry**: April 01, 2026 (34 days from now)
-- **Midpoint Check**: March 15, 2026 — reassess position
-
 ## Related Markets
 
 - [Will Elon Musk post 560-579 tweets from February 24 to March 3, 2026?](/odds/will-elon-musk-post-560-579-tweets-from-february-24-to-march-3-2026) — 0% YES

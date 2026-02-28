@@ -29,11 +29,6 @@ The extremely low odds reflect Japan's structural labor market tightness and rec
 
 The primary catalysts that could shift these odds are an unexpected surge in job creation combined with labor force contraction—plausible if corporate hiring accelerates ahead of anticipated spring wage negotiations (shunto) or if demographic exodus from the workforce accelerates. Conversely, any economic slowdown, recession signals, or weakness in export-dependent sectors could push unemployment higher. Traders should monitor January 2026 employment data releases closely, including the job-to-applicant ratio and participation rate changes. The timing matters: unemployment statistics often include revisions, and seasonal adjustments in January can be volatile. Watch for any unexpected corporate restructuring announcements or shifts in hiring sentiment through late 2025, as these would signal whether the labor market can tighten further or is near its natural floor.
 
-## Key Dates
-
-- **Market Expiry**: March 03, 2026 (7 days from now)
-- **Final Trading**: Market approaches settlement — expect reduced liquidity
-
 ## What the Odds Mean
 
 At **5%**, the market considers this outcome unlikely. Contrarian YES positions are cheap but high-risk. If you have a strong thesis that the market is wrong, these low-probability markets can offer outsized returns.

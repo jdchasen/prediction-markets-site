@@ -29,11 +29,6 @@ The bear case is substantial: multiple countries suspended funding to UNRWA in e
 
 Key catalysts include the Norwegian Nobel Committee's announcement in early October 2026, any major Gaza peace agreement through 2025-2026, UNRWA's completion of independent investigations into staff conduct (expected throughout 2025), and restoration decisions by major donors like the United States and Germany. Traders should monitor Israeli-Palestinian negotiations, UN General Assembly discussions on UNRWA's mandate renewal (typically debated each December), and any high-profile humanitarian achievements attributed directly to the agency. The betting odds suggest the market views UNRWA's reputational damage as too severe to overcome within this timeframe.
 
-## Key Dates
-
-- **Market Expiry**: October 10, 2026 (226 days from now)
-- **Midpoint Check**: June 19, 2026 — reassess position
-
 ## Related Markets
 
 - [Will Trump nominate Judy Shelton as the next Fed chair?](/odds/will-trump-nominate-judy-shelton-as-the-next-fed-chair) — 4% YES

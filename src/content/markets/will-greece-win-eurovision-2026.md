@@ -21,11 +21,6 @@ polymarketUrl: "https://polymarket.com/event/will-greece-win-eurovision-2026"
 |----------|-----|-----|--------|-------|
 | Polymarket | 14.8% | 85.2% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
-## Key Dates
-
-- **Market Expiry**: May 16, 2026 (80 days from now)
-- **Midpoint Check**: April 06, 2026 — reassess position
-
 ## What the Odds Mean
 
 At **15%**, the market considers this outcome unlikely. Contrarian YES positions are cheap but high-risk. If you have a strong thesis that the market is wrong, these low-probability markets can offer outsized returns.

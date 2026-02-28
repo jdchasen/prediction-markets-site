@@ -31,11 +31,6 @@ The bear case hinges on regulatory uncertainty, particularly around whether a to
 
 Key catalysts to monitor include: Blur's continued market dominance metrics (watch weekly volume shares through late 2024), any executive changes at OpenSea signaling strategic pivot, guidance from the new SEC administration post-January 2025 regarding token classification, and direct statements from leadership during earnings or conferences. On-chain metrics worth tracking include OpenSea's unique user counts and transaction volumes relative to Blur—if the gap widens significantly in Q4 2024, launch probability should increase. The market's 87.5% odds suggest traders are pricing in ~11% risk for regulatory blockers and ~1.5% for business-line discontinuation, implying this is viewed as highly probable conditional on no major legal intervention.
 
-## Key Dates
-
-- **Market Expiry**: January 01, 2027 (309 days from now)
-- **Midpoint Check**: July 30, 2026 — reassess position
-
 ## Related Markets
 
 - [Backpack FDV above $4B one day after launch?](/odds/backpack-fdv-above-4b-one-day-after-launch) — 1% YES

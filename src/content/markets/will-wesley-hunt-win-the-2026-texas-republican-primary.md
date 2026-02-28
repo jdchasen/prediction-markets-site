@@ -29,11 +29,6 @@ The bear case is structural and overwhelming. Texas Republicans have shown consi
 
 Key catalysts to watch include the December 2025 Texas primary filing deadline, Hunt's Q1 and Q2 2025 FEC fundraising reports, and any announcements from Abbott, Cruz, or other statewide officials about their 2026 intentions. The Texas legislative session running January-May 2025 will reveal whether state-level Republicans create openings through scandal or retirement. Hunt's committee activity during the current Congress and any potential appointment to higher-profile committees in 2025 would signal his ambitions and establishment support.
 
-## Key Dates
-
-- **Market Expiry**: March 03, 2026 (5 days from now)
-- **Final Trading**: Market approaches settlement — expect reduced liquidity
-
 ## Related Markets
 
 - [Will Trump nominate Judy Shelton as the next Fed chair?](/odds/will-trump-nominate-judy-shelton-as-the-next-fed-chair) — 4% YES

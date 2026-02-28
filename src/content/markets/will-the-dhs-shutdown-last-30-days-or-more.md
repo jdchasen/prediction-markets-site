@@ -31,10 +31,6 @@ Several catalysts could materially shift these odds. An imminent election cycle 
 
 Key data points to track include labor market impact reports (extended government worker furloughs create political pressure) and any emergency funding mechanisms enacted. Watch whether House and Senate majorities align on resolution speed; divided government typically extends negotiations. Real-time indicators like CBO reports on shutdown economic costs and polling on public blame assignment should influence position sizing. The market's 64% valuation suggests meaningful uncertainty, so movements above 75% or below 50% would signal traders seeing genuine resolution paths rather than prolonged impasse.
 
-## Key Dates
-
-- **Market Expiry**: March 14, 2026 (18 days from now)
-
 ## What the Odds Mean
 
 At **64%**, the market sees this as more likely than not. This probability reflects the collective wisdom of traders who have put real money behind their views. The remaining uncertainty means there's still meaningful upside for contrarian positions.

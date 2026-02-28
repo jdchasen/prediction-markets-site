@@ -31,11 +31,6 @@ The bear case—reflected in the 82.5% NO odds—centers on mean reversion in U.
 
 Key catalysts traders should monitor include the December 18, 2024 FOMC decision and Powell's forward guidance, January-February 2025 earnings season (revealing 2026 guidance), the ECB's March 2026 meeting, and China's full-year economic stimulus announcements. Watch relative performance momentum monthly through Q1 2026; if the S&P 500 underperforms EAFE by more than 5% cumulatively by March, the YES odds should compress further toward 10-12%. The market is essentially betting against U.S. exceptionalism—a crowded short that could flip if earnings surprises materialize.
 
-## Key Dates
-
-- **Market Expiry**: December 31, 2026 (308 days from now)
-- **Midpoint Check**: July 30, 2026 — reassess position
-
 ## Related Markets
 
 - [Will Tesla deliver between 350000 and 375000 vehicles in Q1 2026](/odds/will-tesla-deliver-between-350000-and-375000-vehicles-in-q1-2026) — 12% YES

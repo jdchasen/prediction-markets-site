@@ -29,11 +29,6 @@ The bull case for Xiong hinges on several latent factors: the CA-11 primary coul
 
 Key catalysts include candidate filing deadlines (typically 3-4 months before the primary), which will reveal the actual field size and legitimacy of all contenders; any campaign announcements or funding disclosures that show Xiong's organizational capacity; and polling once major candidates declare. Watch for whether Xiong files officially and reports any fundraising; these are binary signals of serious candidacy. If the race fragments with 6+ viable candidates and Xiong demonstrates fundraising or media traction by early 2026, odds could move modestly higher. Conversely, consolidation around 2-3 frontrunners or Xiong's failure to file would confirm these basement odds are justified.
 
-## Key Dates
-
-- **Market Expiry**: June 02, 2026 (96 days from now)
-- **Midpoint Check**: April 15, 2026 — reassess position
-
 ## Related Markets
 
 - [Will Trump nominate Judy Shelton as the next Fed chair?](/odds/will-trump-nominate-judy-shelton-as-the-next-fed-chair) — 4% YES

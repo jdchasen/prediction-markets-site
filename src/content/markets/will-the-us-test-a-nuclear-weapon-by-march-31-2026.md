@@ -31,11 +31,6 @@ The bear case dominates current pricing because testing faces structural constra
 
 Traders should monitor: Trump's 2024 defense appointments and Cabinet confirmations (particularly Defense Secretary and STRATCOM nominations) throughout autumn; any formal Chinese or Russian nuclear deployments or test announcements that could trigger copycat pressure; and Congressional response to 2025 defense authorization bills that may include testing restrictions or funding earmarks. The Nevada National Security Site's operational readiness reports and any classified intelligence assessments leaked during budget debates could signal preparation timelines. Taiwan-related military incidents, Russian nuclear rhetoric escalation, or strategic surprise deployments represent the highest-likelihood catalysts that could reprice this market sharply, though even extreme scenarios would need to overcome institutional resistance.
 
-## Key Dates
-
-- **Market Expiry**: March 31, 2026 (33 days from now)
-- **Midpoint Check**: March 14, 2026 — reassess position
-
 ## Related Markets
 
 - [Will Trump nominate Judy Shelton as the next Fed chair?](/odds/will-trump-nominate-judy-shelton-as-the-next-fed-chair) — 4% YES

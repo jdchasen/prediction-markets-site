@@ -21,11 +21,6 @@ polymarketUrl: "https://polymarket.com/event/will-cooper-flagg-win-the-202526-nb
 |----------|-----|-----|--------|-------|
 | Polymarket | 68.0% | 32.0% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
-## Key Dates
-
-- **Market Expiry**: May 18, 2026 (82 days from now)
-- **Midpoint Check**: April 07, 2026 — reassess position
-
 ## What the Odds Mean
 
 At **68%**, the market sees this as more likely than not. This probability reflects the collective wisdom of traders who have put real money behind their views. The remaining uncertainty means there's still meaningful upside for contrarian positions.

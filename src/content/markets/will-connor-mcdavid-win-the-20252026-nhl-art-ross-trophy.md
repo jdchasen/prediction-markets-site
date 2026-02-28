@@ -31,11 +31,6 @@ The bear case focuses on increasing competition: Auston Matthews, Nathan MacKinn
 
 Watch Edmonton's next 15-20 games (January-February) for McDavid's actual pace relative to historical benchmarks; a sub-1.2 PPG stretch would meaningfully increase competition odds. Any injury report updates, roster changes affecting line construction, and playoff race tightness are critical catalysts. The Feb 3 and Feb 10 trade deadline windows could alter Edmonton's team composition and thus McDavid's scoring opportunity. Monitor point-total leaders through February to see if McDavid is tracking ahead of or behind typical 130-point pace.
 
-## Key Dates
-
-- **Market Expiry**: April 20, 2026 (53 days from now)
-- **Midpoint Check**: March 24, 2026 — reassess position
-
 ## Related Markets
 
 - [Will Newcastle win the 2025–26 English Premier League?](/odds/will-newcastle-win-the-202526-english-premier-league) — 0% YES

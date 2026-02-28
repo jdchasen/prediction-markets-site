@@ -31,11 +31,6 @@ The bear case (strong favorite) rests on Brighton's decade-long stability and in
 
 Watch for early-season performance metrics through October: if Brighton drops below 15 points in their first 15 games or suffers key injuries (particularly to their center-back pairing), odds will shift materially. Mid-January transfer activity and January injury reports become critical decision points. Monitor their away form specifically—Brighton struggles on the road statistically, and away losses compound relegation fears faster than home results. The injury status of their goalkeeper and center-backs around March represents the final catalyst window, as the stretch run determines whether they're merely safe or fighting for points.
 
-## Key Dates
-
-- **Market Expiry**: May 27, 2026 (90 days from now)
-- **Midpoint Check**: April 12, 2026 — reassess position
-
 ## Related Markets
 
 - [Will Newcastle win the 2025–26 English Premier League?](/odds/will-newcastle-win-the-202526-english-premier-league) — 0% YES

@@ -31,11 +31,6 @@ The bear case challenges the specificity of this weekly window: while MicroStrat
 
 Traders should monitor MicroStrategy's debt market activity and any SEC filings indicating new capital raises (typical precursors to Bitcoin buys), Bitcoin's price action relative to $40-45K support levels, and any executive commentary on treasury strategy. The expiration date in March 2026 provides unusual runway, suggesting this market may be testing whether the weekly specificity holds or if the resolution becomes a referendum on quarterly patterns instead.
 
-## Key Dates
-
-- **Market Expiry**: March 03, 2026 (5 days from now)
-- **Final Trading**: Market approaches settlement — expect reduced liquidity
-
 ## Related Markets
 
 - [Backpack FDV above $4B one day after launch?](/odds/backpack-fdv-above-4b-one-day-after-launch) — 1% YES

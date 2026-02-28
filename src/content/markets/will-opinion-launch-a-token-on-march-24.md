@@ -29,11 +29,6 @@ The bull case requires believing Opinion has maintained extraordinary operationa
 
 Key catalysts to monitor include any official communications from Opinion through their verified social channels, smart contract deployments to mainnet that suggest token infrastructure preparation, and potential exchange listing leaks or announcements. The lack of on-chain activity related to token contracts currently supports the bearish consensus. If Opinion is serious about a March 24 launch, expect to see testnet activity, auditor announcements, or tokenomics documentation appear by the first week of March at the absolute latest.
 
-## Key Dates
-
-- **Market Expiry**: April 01, 2026 (34 days from now)
-- **Midpoint Check**: March 15, 2026 — reassess position
-
 ## Related Markets
 
 - [Backpack FDV above $4B one day after launch?](/odds/backpack-fdv-above-4b-one-day-after-launch) — 1% YES

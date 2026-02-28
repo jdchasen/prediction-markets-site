@@ -31,11 +31,6 @@ Key catalysts to monitor include Federal Reserve interest rate decisions (ongoin
 
 The 71% YES odds appear inflated given BNB's historical support levels and the lack of imminent catalysts that would cause an immediate 40-50% crash from typical trading ranges. Traders should be skeptical of this pricing, especially given the market's miscategorization, which suggests retail interest or data errors rather than informed institutional betting. A contrarian position shorting the YES side could have edge if macro conditions remain stable or if crypto sentiment improves.
 
-## Key Dates
-
-- **Market Expiry**: January 01, 2027 (309 days from now)
-- **Midpoint Check**: July 30, 2026 — reassess position
-
 ## Related Markets
 
 - [Will Trump nominate Judy Shelton as the next Fed chair?](/odds/will-trump-nominate-judy-shelton-as-the-next-fed-chair) — 4% YES

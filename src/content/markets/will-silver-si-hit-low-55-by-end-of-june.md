@@ -31,11 +31,6 @@ Key catalysts include Federal Reserve policy decisions in January and March 2026
 
 Traders should monitor the dollar index closely—a weaker greenback in early 2026 would threaten this market's "NO" positioning. Watch spot silver breakouts below $28-29 as early warning signals of deflationary pressure, and track real interest rates (10-year TIPS yields) as the primary mechanical driver of precious metals risk appetite. Any recession probability spike above 40% in market-implied measures should immediately shift odds significantly toward the "YES" side.
 
-## Key Dates
-
-- **Market Expiry**: June 30, 2026 (124 days from now)
-- **Midpoint Check**: April 29, 2026 — reassess position
-
 ## Related Markets
 
 - [Will Trump nominate Judy Shelton as the next Fed chair?](/odds/will-trump-nominate-judy-shelton-as-the-next-fed-chair) — 4% YES

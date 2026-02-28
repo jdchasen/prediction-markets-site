@@ -29,11 +29,6 @@ The bear case rests on the substantial diplomatic efforts underway to prevent es
 
 Traders should monitor several key indicators: IAEA inspection reports issued quarterly (next due March 2025, June 2025), any changes in US military cyber posture or CYBERCOM readiness levels, Iranian statements about nuclear threshold status, and incidents involving US forces in the Middle East. Watch for Congressional briefings on Iran threats, which sometimes precede executive action, and any sudden diplomatic activity orenvoy deployments. Changes in Israeli rhetoric about unilateral action could also shift probabilities, as coordination between US and Israeli cyber capabilities has historical precedent.
 
-## Key Dates
-
-- **Market Expiry**: March 31, 2026 (33 days from now)
-- **Midpoint Check**: March 14, 2026 — reassess position
-
 ## Related Markets
 
 - [Will Trump nominate Judy Shelton as the next Fed chair?](/odds/will-trump-nominate-judy-shelton-as-the-next-fed-chair) — 4% YES

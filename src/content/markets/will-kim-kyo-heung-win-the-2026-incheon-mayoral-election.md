@@ -31,11 +31,6 @@ The bear case is straightforward: Incheon mayoral elections typically feature es
 
 Traders should monitor South Korean local political developments through 2025, particularly any internal struggles within major parties that might create opening for alternative candidates, public opinion shifts on Incheon's governance, and whether Kim gains prominent positions, media coverage, or coalition backing. The absence of meaningful polling this early makes this market speculative; any credible polling showing Kim above 5% would suggest severe mispricing at current odds.
 
-## Key Dates
-
-- **Market Expiry**: June 03, 2026 (97 days from now)
-- **Midpoint Check**: April 15, 2026 — reassess position
-
 ## Related Markets
 
 - [Will Trump nominate Judy Shelton as the next Fed chair?](/odds/will-trump-nominate-judy-shelton-as-the-next-fed-chair) — 4% YES

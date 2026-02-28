@@ -31,11 +31,6 @@ Multiple shocks could dramatically shift these odds upward. A significant deteri
 
 Traders should monitor labor reports and inflation data releases through late 2025 as the primary leading indicators. Watch for shifts in Fed communications—any pivot toward accelerated easing would be the earliest warning sign. The probability remains an asymmetric bet: extremely cheap insurance against tail risks that markets currently dismiss, though historical precedent shows such extreme moves do occur in crisis scenarios.
 
-## Key Dates
-
-- **Market Expiry**: April 29, 2026 (64 days from now)
-- **Midpoint Check**: March 28, 2026 — reassess position
-
 ## What the Odds Mean
 
 At **2%**, the market considers this outcome unlikely. Contrarian YES positions are cheap but high-risk. If you have a strong thesis that the market is wrong, these low-probability markets can offer outsized returns.

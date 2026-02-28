@@ -31,11 +31,6 @@ The bear case centers on regulatory uncertainty and execution risk. Parametric i
 
 Traders should monitor Pacifica's TVL trajectory and any public statements from leadership about tokenization timing. Watch for regulatory developments around insurance-linked tokens, particularly any SEC guidance letters or enforcement actions against similar projects. Exchange listing timelines for comparable insurance tokens and broader crypto market sentiment in Q4 2025 will also signal whether conditions favor launch. The 65.5% odds reflect genuine optionality—meaningful new information could swing this 15-20 percentage points in either direction within months.
 
-## Key Dates
-
-- **Market Expiry**: January 01, 2027 (309 days from now)
-- **Midpoint Check**: July 30, 2026 — reassess position
-
 ## Related Markets
 
 - [Backpack FDV above $4B one day after launch?](/odds/backpack-fdv-above-4b-one-day-after-launch) — 1% YES

@@ -29,11 +29,6 @@ The bull case for Russian capture rests on demonstrated capability: Russian forc
 
 Key catalysts include the status of Western military aid packages (particularly long-range weapons) through late 2025, any ceasefire announcements or peace negotiations, and Russian casualty rates in ongoing Pokrovsk-sector operations where forces are currently pushing hardest. Traders should monitor monthly front-line maps from independent sources like ISW or Frontline Live to track Russian advance rates; if quarterly movement drops below 5 kilometers or Ukrainian defensive lines solidify, odds should compress further. Any major NATO involvement, Ukrainian counteroffensive capability restoration, or explicit Russian strategic pivot away from Donetsk would dramatically reduce probability. Conversely, documented collapse of Ukrainian artillery capacity or sudden force reductions would be major bullish signals.
 
-## Key Dates
-
-- **Market Expiry**: March 31, 2026 (33 days from now)
-- **Midpoint Check**: March 14, 2026 — reassess position
-
 ## Related Markets
 
 - [Will Trump nominate Judy Shelton as the next Fed chair?](/odds/will-trump-nominate-judy-shelton-as-the-next-fed-chair) — 4% YES

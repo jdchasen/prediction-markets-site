@@ -29,11 +29,6 @@ The bear case emphasizes defensive intensity and game flow disruption. Both team
 
 Key catalysts include the teams' health status approaching any head-to-head matchup, particularly Lillard's availability and Dončić's minutes load. Watch Dallas's upcoming defensive rating over their next five games and whether Milwaukee maintains their improved defensive identity from January onward. The actual game date within the March 31st window matters significantly—playoff-positioning games in late March typically feature different intensity than mid-season contests. Traders should monitor pace statistics in each team's three games before they meet, as recent tempo trends are highly predictive for totals markets.
 
-## Key Dates
-
-- **Market Expiry**: March 31, 2026 (33 days from now)
-- **Midpoint Check**: March 14, 2026 — reassess position
-
 ## Related Markets
 
 - [Will Newcastle win the 2025–26 English Premier League?](/odds/will-newcastle-win-the-202526-english-premier-league) — 0% YES

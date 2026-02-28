@@ -31,11 +31,6 @@ The bear case (the consensus view priced at 99.9%) rests on the Lakers' structur
 
 Watch for injury reports in November-December 2025 and any front-office turnover announcements—these are the real catalysts that could shift this from theoretical to tangible. Trade deadline moves in February 2026 will be the final signal of whether the organization has abandoned the season. For traders, the 0.1% price offers minimal upside unless you believe a black-swan injury scenario carries 1-2% true probability, making this market efficiently priced for most retail participants.
 
-## Key Dates
-
-- **Market Expiry**: April 12, 2026 (45 days from now)
-- **Midpoint Check**: March 20, 2026 — reassess position
-
 ## Related Markets
 
 - [Will Newcastle win the 2025–26 English Premier League?](/odds/will-newcastle-win-the-202526-english-premier-league) — 0% YES

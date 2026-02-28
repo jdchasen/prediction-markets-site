@@ -29,11 +29,6 @@ The bull case requires an extraordinary chain of events: a comprehensive peace a
 
 Key catalysts include Trump's first 100 days of Ukraine policy starting January 20, 2025, Russia's May 9 Victory Day celebrations that could signal diplomatic openness or continued aggression, and the June 2025 G7 summit where Western coordination on Ukraine will be tested. Any announcement of formal peace talks with specified venues would immediately move these odds, as would significant territorial changes on the ground that might alter Putin's calculus about appearing in Ukraine.
 
-## Key Dates
-
-- **Market Expiry**: June 30, 2026 (124 days from now)
-- **Midpoint Check**: April 29, 2026 — reassess position
-
 ## Related Markets
 
 - [Will Trump nominate Judy Shelton as the next Fed chair?](/odds/will-trump-nominate-judy-shelton-as-the-next-fed-chair) — 4% YES

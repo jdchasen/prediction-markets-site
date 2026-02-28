@@ -31,11 +31,6 @@ The bear case dominates current market pricing for solid reasons: OpenAI's o1 re
 
 Watch for three concrete catalysts: Grok-3's public release and benchmark performance (expected summer 2025), any major xAI hiring announcements from competitor labs (talent flight could accelerate or decelerate development), and OpenAI's anticipated GPT-5 announcements or releases (likely Q1-Q2 2025). If xAI publishes third-party evaluated benchmarks by November 2025 showing top-3 performance across major categories, odds should shift materially higher. Conversely, any delay beyond August 2025 in releasing a competitive model or news of significant team departures would likely push these odds below 15%.
 
-## Key Dates
-
-- **Market Expiry**: March 31, 2026 (33 days from now)
-- **Midpoint Check**: March 14, 2026 — reassess position
-
 ## Related Markets
 
 - [Will Trump nominate Judy Shelton as the next Fed chair?](/odds/will-trump-nominate-judy-shelton-as-the-next-fed-chair) — 4% YES

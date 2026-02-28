@@ -31,11 +31,6 @@ The bear case dominates current odds at 59.5% because launching a new token at $
 
 Watch for StandX's funding announcements, team composition, and whether it's launching on a tier-1 blockchain or creating its own chain. Monitoring pre-launch token allocation (concentration risks), exchange listing confirmations, and any regulatory clarity on similar projects in early 2025 will be crucial. If comparable launches in late 2024 or early 2025 show $400M+ FDVs are achievable, odds should shift materially higher. Token unlock schedules and vesting cliffs post-launch will determine whether initial FDV holds or deflates.
 
-## Key Dates
-
-- **Market Expiry**: January 01, 2027 (309 days from now)
-- **Midpoint Check**: July 30, 2026 — reassess position
-
 ## Related Markets
 
 - [Backpack FDV above $4B one day after launch?](/odds/backpack-fdv-above-4b-one-day-after-launch) — 1% YES

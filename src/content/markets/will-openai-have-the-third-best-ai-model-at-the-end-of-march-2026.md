@@ -31,11 +31,6 @@ The bear case reflects DeepSeek's November 2024 emergence as a capable, efficien
 
 Key catalysts to monitor: Claude 4 announcement (likely Q1 2026), any Google Gemini 3.0 unveiling or capability claim, benchmark releases from independent evaluators in Feb-March 2026, and OpenAI's Q4 2025 earnings/guidance on model capabilities. The market's 10% floor suggests near-certainty that at least three non-OpenAI labs will stake legitimate "best-in-class" claims by March 31, 2026—a bet on competition consolidation rather than OpenAI collapse.
 
-## Key Dates
-
-- **Market Expiry**: March 31, 2026 (33 days from now)
-- **Midpoint Check**: March 14, 2026 — reassess position
-
 ## Related Markets
 
 - [Will Trump nominate Judy Shelton as the next Fed chair?](/odds/will-trump-nominate-judy-shelton-as-the-next-fed-chair) — 4% YES

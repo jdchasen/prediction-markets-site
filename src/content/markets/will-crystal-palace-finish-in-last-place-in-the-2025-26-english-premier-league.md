@@ -31,11 +31,6 @@ The bear case dominates because Palace has established sufficient organizational
 
 Traders should monitor: Glasner contract discussions (scheduled around January 2025), Palace's January transfer activity relative to injury status, and head-to-head records against traditional relegation-battlers (Luton, Southampton, Ipswich) through the 2025-26 season. Watch for any unexpected departures of Eze or Guéhi, which would materially alter squad composition. The market's confidence appears justified by fundamentals, but movement becomes probable only if multiple negative catalysts align simultaneously—making this a lay-heavy market absent dramatic news.
 
-## Key Dates
-
-- **Market Expiry**: May 27, 2026 (90 days from now)
-- **Midpoint Check**: April 12, 2026 — reassess position
-
 ## Related Markets
 
 - [Will Newcastle win the 2025–26 English Premier League?](/odds/will-newcastle-win-the-202526-english-premier-league) — 0% YES

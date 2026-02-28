@@ -31,11 +31,6 @@ The bear case, though slim, hinges on a perfect storm: simultaneous injuries to 
 
 Key dates to monitor include the summer 2025 transfer window (closed by late August) for Real Madrid's roster additions, the Copa del Rey draw in December 2025 for fixture congestion indicators, and the January 2026 winter transfer deadline. The market should reprice if Real Madrid suffers an unexpected managerial change or announces major players leaving for rival clubs. Watch for injury cascades during October–November 2025, as early-season injuries could signal deeper structural problems, though even injury-ravaged Madrid would likely limp to fourth place.
 
-## Key Dates
-
-- **Market Expiry**: May 30, 2026 (93 days from now)
-- **Midpoint Check**: April 13, 2026 — reassess position
-
 ## Related Markets
 
 - [Will Trump nominate Judy Shelton as the next Fed chair?](/odds/will-trump-nominate-judy-shelton-as-the-next-fed-chair) — 4% YES

@@ -21,11 +21,6 @@ polymarketUrl: "https://polymarket.com/event/israel-strike-on-yemen-by-march-31-
 |----------|-----|-----|--------|-------|
 | Polymarket | 40.5% | 59.5% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
-## Key Dates
-
-- **Market Expiry**: March 31, 2026 (34 days from now)
-- **Midpoint Check**: March 14, 2026 — reassess position
-
 ## What the Odds Mean
 
 At **40%**, this market is genuinely uncertain — close to a toss-up. These are often the most interesting markets to trade because the potential for price movement in either direction is high.

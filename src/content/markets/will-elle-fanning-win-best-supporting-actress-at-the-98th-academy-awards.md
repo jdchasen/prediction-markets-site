@@ -29,10 +29,6 @@ The bear case is straightforward: there are no confirmed projects in her pipelin
 
 Key catalysts to monitor include any project announcements in early 2025 that could shoot and complete post-production for a late-2025 release, festival lineup announcements in July-August 2025, and early critical reception from fall festivals. The Academy's eligibility window closes December 31, 2025, meaning any qualifying film must release in Los Angeles theaters by that date. Voting begins in January 2026, with nominations announced January 17, 2026, and the ceremony on March 15, 2026. Traders should watch whether Fanning joins any ensemble casts in limited series or supporting film roles that major studios position for awards consideration.
 
-## Key Dates
-
-- **Market Expiry**: March 15, 2026 (17 days from now)
-
 ## Related Markets
 
 - [Will Renate Reinsve win Best Actress at the 98th Academy Awards?](/odds/will-renate-reinsve-win-best-actress-at-the-98th-academy-awards) — 2% YES

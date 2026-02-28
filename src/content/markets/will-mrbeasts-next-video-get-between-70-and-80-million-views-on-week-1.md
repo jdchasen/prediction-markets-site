@@ -29,11 +29,6 @@ The bear case recognizes MrBeast's increasing viewership variance and trajectory
 
 Key catalysts include MrBeast's actual upload schedule (unpredictable but historically clusters around month-ends), any announced collaborations with other creators that might boost or cannibalize views, and YouTube's Q2 2025 platform updates scheduled for April-May 2026. Traders should monitor his Twitter/X announcements for video teases (typically 24-48 hours advance notice), track whether he's filming high-budget spectacles versus standard challenges based on behind-the-scenes posts, and watch competitor performance in the 50-100M view range as a proxy for algorithm favorability.
 
-## Key Dates
-
-- **Market Expiry**: May 31, 2026 (94 days from now)
-- **Midpoint Check**: April 14, 2026 — reassess position
-
 ## Related Markets
 
 - [Will Trump nominate Judy Shelton as the next Fed chair?](/odds/will-trump-nominate-judy-shelton-as-the-next-fed-chair) — 4% YES

@@ -31,11 +31,6 @@ The bear case is stronger structurally: both nations face higher domestic priori
 
 Key catalysts to monitor include any major Chinese military deployments to Cambodia (the largest potential trigger), border incidents around the Preah Vihear temple complex or maritime zones, changes in Thai government composition post-2025, and any ASEAN emergency sessions addressing bilateral tensions. Traders should watch Thai and Cambodian defense ministry statements between now and Q4 2025 as leading indicators.
 
-## Key Dates
-
-- **Market Expiry**: June 30, 2026 (124 days from now)
-- **Midpoint Check**: April 29, 2026 — reassess position
-
 ## Related Markets
 
 - [Will Trump nominate Judy Shelton as the next Fed chair?](/odds/will-trump-nominate-judy-shelton-as-the-next-fed-chair) — 4% YES

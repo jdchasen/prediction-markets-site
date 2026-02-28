@@ -29,11 +29,6 @@ The bear case is overwhelming. New Zealand has never advanced past the World Cup
 
 Key catalysts include the March 2025 FIFA international window where New Zealand faces meaningful friendlies against ranked opponents, and the 2026 Copa America qualification results revealing which powerhouse teams will arrive in peak form. Watch for injury updates on Chris Wood, their veteran striker and primary goal threat. The World Cup draw in late 2025 will determine if New Zealand receives a slightly favorable group, though even "easy" draws would include teams ranked 50+ spots higher.
 
-## Key Dates
-
-- **Market Expiry**: July 20, 2026 (144 days from now)
-- **Midpoint Check**: May 09, 2026 — reassess position
-
 ## Related Markets
 
 - [Will Newcastle win the 2025–26 English Premier League?](/odds/will-newcastle-win-the-202526-english-premier-league) — 0% YES

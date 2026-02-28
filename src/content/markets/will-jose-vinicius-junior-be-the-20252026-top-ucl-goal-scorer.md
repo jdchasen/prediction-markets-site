@@ -31,11 +31,6 @@ The bear case is structural: Vinicius is a winger, not a center-forward, and Rea
 
 Key catalysts include Real Madrid's formation changes during preseason (July-August 2025), their Group Stage draw (August 2025), and January 2026 transfer window developments. Monitor whether Madrid acquires a world-class striker (which would further reduce Vinicius' goal share) or relies on him for more central play. The odds suggest traders should evaluate whether 0.1% is rational or represents mispricing from category confusion—this market appears miscategorized as "politics" when it's clearly sports.
 
-## Key Dates
-
-- **Market Expiry**: May 30, 2026 (93 days from now)
-- **Midpoint Check**: April 13, 2026 — reassess position
-
 ## Related Markets
 
 - [Will Trump nominate Judy Shelton as the next Fed chair?](/odds/will-trump-nominate-judy-shelton-as-the-next-fed-chair) — 4% YES

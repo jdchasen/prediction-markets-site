@@ -31,11 +31,6 @@ The bear case dominates current pricing because Ukrainian defensive lines have s
 
 Key catalysts to monitor include Russian offensive pushes in spring-summer 2025 (historically Russia's strongest operational season), any major changes in U.S. or European military aid packages, casualty rate reports from Russian mobilization efforts, and Ukrainian force readiness assessments. Watch for shifts in Turkish or Polish diplomatic activity that might signal peace negotiations. If Russian forces achieve a major tactical breakthrough in early 2026, odds would likely spike; conversely, a stalled offensive or negotiated ceasefire would push probability toward single digits. The 18-month timeframe is long enough for significant geopolitical shifts but short enough that current military position matters substantially.
 
-## Key Dates
-
-- **Market Expiry**: June 30, 2026 (124 days from now)
-- **Midpoint Check**: April 29, 2026 — reassess position
-
 ## Related Markets
 
 - [Will Trump nominate Judy Shelton as the next Fed chair?](/odds/will-trump-nominate-judy-shelton-as-the-next-fed-chair) — 4% YES

@@ -31,11 +31,6 @@ The bear case hinges on three concrete failure modes. First, injury disruption: 
 
 Traders should monitor three specific catalysts: PSG's Champions League exit timeline (elimination before March intensifies domestic focus, but early exit signals tactical vulnerability), January transfer activity (if PSG fails to address midfield depth, late-season fixture congestion becomes dangerous), and head-to-head results against Monaco and Marseille in the autumn and spring (two losses to competitors while PSG drops points to mid-table teams would compress the title race substantially by winter). Recent form matters less than squad health and fixture management through April 2026; any significant injury to Neymar, Marquinhos, or star midfielder Vitinha should trigger market re-evaluation downward toward 75–80%.
 
-## Key Dates
-
-- **Market Expiry**: May 30, 2026 (93 days from now)
-- **Midpoint Check**: April 13, 2026 — reassess position
-
 ## Related Markets
 
 - [Will Newcastle win the 2025–26 English Premier League?](/odds/will-newcastle-win-the-202526-english-premier-league) — 0% YES

@@ -29,11 +29,6 @@ The bear case is overwhelming. Manchester City has won five of the last six Prem
 
 Key catalysts include Newcastle's final league position in May 2025, which determines Champions League qualification and attracts better players. The summer 2025 transfer window (June-August) will reveal whether they can sign difference-makers or continue incremental improvement. Any managerial change would significantly impact odds. Traders should monitor Newcastle's performance in big-six matchups throughout 2024-25, injury trends to their core players, and whether FFP constraints limit their spending power. The January 2026 window represents the final opportunity for transformative additions before the 2025-26 campaign's decisive spring months.
 
-## Key Dates
-
-- **Market Expiry**: May 27, 2026 (90 days from now)
-- **Midpoint Check**: April 12, 2026 — reassess position
-
 ## Related Markets
 
 - [Will New Zealand win the 2026 FIFA World Cup?](/odds/will-new-zealand-win-the-2026-fifa-world-cup) — 0% YES

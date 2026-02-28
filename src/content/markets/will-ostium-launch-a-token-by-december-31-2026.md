@@ -29,11 +29,6 @@ The bear case acknowledges that some protocols are deliberately avoiding tokens 
 
 Key catalysts include any public announcements from Ostium regarding tokenomics design or treasury formation, which typically precede launches by 6-12 months. Traders should monitor the protocol's TVL growth and trading volume metrics—sustained growth above critical mass thresholds ($50M+ TVL) would signal readiness for a token event. Regulatory clarity from pending court cases involving DeFi tokens throughout 2025-2026 will significantly impact timing decisions. Watch for venture unlock schedules from comparable 2023-2024 launches, as poor token performance across the sector could delay Ostium's plans.
 
-## Key Dates
-
-- **Market Expiry**: January 01, 2027 (309 days from now)
-- **Midpoint Check**: July 30, 2026 — reassess position
-
 ## Related Markets
 
 - [Backpack FDV above $4B one day after launch?](/odds/backpack-fdv-above-4b-one-day-after-launch) — 1% YES

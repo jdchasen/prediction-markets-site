@@ -48,6 +48,7 @@ const markets = defineCollection({
     polymarketNo: z.number().optional(),
     polymarketVolume: z.number().optional(),
     polymarketUrl: z.string().optional(),
+    analysisDate: z.coerce.date().optional(),
   }),
 });
 

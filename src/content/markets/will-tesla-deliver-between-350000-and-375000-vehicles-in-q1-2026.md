@@ -29,11 +29,6 @@ The bull case for hitting this specific band requires a precise scenario where T
 
 Critical catalysts include Tesla's quarterly earnings throughout 2025 (late January, April, July, and October), which will establish trajectory trends. The April 2025 shareholder meeting may reveal concrete details on the affordable Model 2 platform timeline. Monthly China insurance registration data provides real-time demand signals, while IRA tax credit modifications under changing political administrations could impact U.S. demand substantially. The narrow 25,000-unit range means even small shifts in production strategy or market conditions likely push results outside these boundaries.
 
-## Key Dates
-
-- **Market Expiry**: March 31, 2026 (33 days from now)
-- **Midpoint Check**: March 14, 2026 — reassess position
-
 ## Related Markets
 
 - [Will the S&P 500 have the best performance in 2026?](/odds/will-the-sp-500-have-the-best-performance-in-2026) — 18% YES

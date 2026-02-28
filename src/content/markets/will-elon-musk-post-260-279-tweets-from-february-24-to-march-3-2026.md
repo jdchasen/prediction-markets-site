@@ -29,11 +29,6 @@ The bear case emphasizes the extreme specificity required and multiple disruptio
 
 Key monitoring points include Musk's average daily tweet count in Q4 2025 and January 2026 to establish trend baselines, any announced Tesla/SpaceX events during the February 24-March 3 window, and his engagement patterns during the 2025 midterm political cycle which could signal sustained high or low activity phases heading into early 2026.
 
-## Key Dates
-
-- **Market Expiry**: March 03, 2026 (5 days from now)
-- **Final Trading**: Market approaches settlement — expect reduced liquidity
-
 ## Related Markets
 
 - [Will Elon Musk post 560-579 tweets from February 24 to March 3, 2026?](/odds/will-elon-musk-post-560-579-tweets-from-february-24-to-march-3-2026) — 0% YES

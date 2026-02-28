@@ -29,11 +29,6 @@ The bull case relies on identifying stable tweeting patterns by early 2026 and p
 
 Traders should track Musk's monthly tweet averages starting in late 2025 to establish baseline patterns. The critical observation window begins around January 2026, when eight-day rolling averages could reveal predictable behavior. Competition from other ranges in what's likely a multi-market set means relative value matters—if adjacent ranges show similar microscopic probabilities, the market may simply be mispriced across the board rather than reflecting genuine insight about this specific band.
 
-## Key Dates
-
-- **Market Expiry**: March 03, 2026 (5 days from now)
-- **Final Trading**: Market approaches settlement — expect reduced liquidity
-
 ## Related Markets
 
 - [Will Elon Musk post 260-279 tweets from February 24 to March 3, 2026?](/odds/will-elon-musk-post-260-279-tweets-from-february-24-to-march-3-2026) — 12% YES

@@ -31,10 +31,6 @@ The bear case emphasizes that major seizures have become less frequent as Iran a
 
 Key catalysts include any U.S. Treasury designations of new shipping entities (typically announced with 30-60 day enforcement delays), Iranian oil export data releases quarterly through 2025, and any military command posture changes announced at Congressional hearings. Traders should monitor administration statements on Iran policy (particularly any shifts away from maximum pressure) and regional incidents—Houthi attacks, Strait incidents, or Iranian naval provocations—that could either trigger or discourage interdiction operations.
 
-## Key Dates
-
-- **Market Expiry**: March 07, 2026 (9 days from now)
-
 ## Related Markets
 
 - [Will Trump nominate Judy Shelton as the next Fed chair?](/odds/will-trump-nominate-judy-shelton-as-the-next-fed-chair) — 4% YES

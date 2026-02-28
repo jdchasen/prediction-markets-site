@@ -29,11 +29,6 @@ The bear case is overwhelming: Edwards would need to overcome established supers
 
 Key catalysts include the first two months of the 2025-26 season (October-December 2025), when Edwards must establish MVP-caliber production immediately, and Minnesota's head-to-head results against Denver, Oklahoma City, and Dallas. The Timberwolves' chemistry with Mike Conley aging and bench depth questions could derail seeding goals. Edwards' durability and ability to reduce turnovers (3.1 per game) while increasing assists will be scrutinized. Any regression in Minnesota's defensive rating without Towns could force Edwards into an unsustainable offensive burden without the efficiency voters demand.
 
-## Key Dates
-
-- **Market Expiry**: June 10, 2026 (104 days from now)
-- **Midpoint Check**: April 19, 2026 — reassess position
-
 ## Related Markets
 
 - [Will Newcastle win the 2025–26 English Premier League?](/odds/will-newcastle-win-the-202526-english-premier-league) — 0% YES

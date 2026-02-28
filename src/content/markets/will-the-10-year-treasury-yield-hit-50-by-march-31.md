@@ -31,11 +31,6 @@ The bear case dominates and explains the 99.1% NO odds. The Fed has already begu
 
 For traders, this market is effectively betting against a severe inflation relapse or Fed emergency policy reversal. Watch for any deviation above 3.5% core CPI year-over-year in Q1 data releases, or unexpected commentary at the January 29, February 18, or March 18-19 FOMC meetings hinting at pausing or reversing cuts. A breakout above the 4.6% recent high on the cash 10-year would tighten the odds materially, but reaching 5.0% would require economic shock so severe it inverts base-case scenarios entirely.
 
-## Key Dates
-
-- **Market Expiry**: March 31, 2026 (33 days from now)
-- **Midpoint Check**: March 14, 2026 — reassess position
-
 ## Related Markets
 
 - [Will Japan’s January 2026 unemployment rate be ≤2.1%?](/odds/will-japans-january-2026-unemployment-rate-be-21) — 2% YES

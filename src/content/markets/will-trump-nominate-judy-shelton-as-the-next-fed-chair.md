@@ -29,11 +29,6 @@ The bear case is far stronger: Shelton failed Senate confirmation for the lesser
 
 Key catalysts include Trump's broader cabinet nomination patterns in early 2025, which will signal whether he's prioritizing confirmability or ideological purity. Powell's own statements about monetary policy through 2025 could influence Trump's calculus—if Powell maintains higher rates that Trump opposes, it might push him toward more unconventional choices. Watch for trial balloons floated to Republican senators, particularly Banking Committee members, around late 2025. Any public statements from Trump about Fed policy or Shelton specifically would move these odds significantly, as would Republican Senate leadership elections that could shift the confirmation environment.
 
-## Key Dates
-
-- **Market Expiry**: December 31, 2026 (308 days from now)
-- **Midpoint Check**: July 30, 2026 — reassess position
-
 ## Related Markets
 
 - [Will Stephen A. Smith win the 2028 Democratic presidential nomination?](/odds/will-stephen-a-smith-win-the-2028-democratic-presidential-nomination) — 2% YES

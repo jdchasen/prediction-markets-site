@@ -29,11 +29,6 @@ The bear case is overwhelming. Massie has alienated GOP leadership repeatedly, v
 
 Key catalysts include the 2026 midterm results, which will reveal whether the GOP maintains its populist-nationalist direction or shifts toward libertarian principles. Trump's eventual 2028 endorsement—likely coming in late 2027—will prove decisive for the entire field. Massie would need to demonstrate fundraising capability by the June 2027 FEC reporting deadline and secure at least 5% support in Iowa polling by summer 2027 to be considered viable. His voting record on must-pass legislation through 2025-2026, particularly debt ceiling votes and government funding bills, will either reinforce his principled brand or further isolate him from party power brokers who control debate access and donor networks.
 
-## Key Dates
-
-- **Market Expiry**: November 07, 2028 (985 days from now)
-- **Midpoint Check**: July 03, 2027 — reassess position
-
 ## Related Markets
 
 - [Will Trump nominate Judy Shelton as the next Fed chair?](/odds/will-trump-nominate-judy-shelton-as-the-next-fed-chair) — 4% YES

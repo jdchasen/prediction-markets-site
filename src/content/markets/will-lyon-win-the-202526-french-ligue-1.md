@@ -29,11 +29,6 @@ The bear case is overwhelming: Lyon has finished outside the top three for the p
 
 Key dates to monitor include the summer 2025 transfer window (June-September), which will reveal whether Lyon's ownership commits the €100+ million likely needed to compete, and the opening fixtures of the 2025-26 season in August. Early results against direct competitors will quickly establish whether this is a realistic campaign or another rebuilding year. Watch for any managerial changes if results disappoint in autumn 2025, and pay attention to potential sales of key assets like Cherki, which would definitively end any title hopes.
 
-## Key Dates
-
-- **Market Expiry**: May 30, 2026 (93 days from now)
-- **Midpoint Check**: April 13, 2026 — reassess position
-
 ## Related Markets
 
 - [Will Newcastle win the 2025–26 English Premier League?](/odds/will-newcastle-win-the-202526-english-premier-league) — 0% YES

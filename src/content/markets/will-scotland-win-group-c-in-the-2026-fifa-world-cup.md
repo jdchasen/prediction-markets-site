@@ -29,11 +29,6 @@ However, the bear case is substantially stronger. Scotland ranks 37th in the lat
 
 The key catalyst is the December 2025 draw itself, which will provide concrete information about opponents' strength. Traders should monitor Scotland's Nations League matches in 2024-2025 for form trends and any emergence of new attacking talent. The 6% price appears fairly calibrated to the probability of an extremely fortunate draw combined with peak performance, but consider that even with a weak group, Scotland would need to finish ahead of two other nations—a scenario the market is pricing appropriately as unlikely.
 
-## Key Dates
-
-- **Market Expiry**: June 27, 2026 (121 days from now)
-- **Midpoint Check**: April 27, 2026 — reassess position
-
 ## Related Markets
 
 - [Will Newcastle win the 2025–26 English Premier League?](/odds/will-newcastle-win-the-202526-english-premier-league) — 0% YES

@@ -31,10 +31,6 @@ Key catalysts that could move this market include January's CPI release (which p
 
 The core risk for YES position holders is that they're betting against overwhelming market consensus and months of favorable disinflation data. Unless traders see credible evidence of re-acceleration in prices, the sub-3% odds likely represent fair value. Watch for any revision to prior months' inflation figures or forward guidance from price-sensitive sectors like food and energy—these represent the only realistic paths to movement in this heavily-skewed market.
 
-## Key Dates
-
-- **Market Expiry**: March 11, 2026 (15 days from now)
-
 ## What the Odds Mean
 
 At **3%**, the market considers this outcome unlikely. Contrarian YES positions are cheap but high-risk. If you have a strong thesis that the market is wrong, these low-probability markets can offer outsized returns.

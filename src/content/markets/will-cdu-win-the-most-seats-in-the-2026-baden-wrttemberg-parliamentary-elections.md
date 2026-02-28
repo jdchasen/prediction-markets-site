@@ -31,10 +31,6 @@ The bear case centers on Green Party resilience in this traditionally progressiv
 
 Traders should monitor: (1) the federal election outcome on December 23, 2024 and subsequent coalition negotiations through early 2025—any CDU underperformance or governing instability cuts into regional tailwinds; (2) Green Party's response to Baden-Württemberg-specific policy challenges, especially on industrial energy costs and infrastructure; (3) regional candidate announcements (typically late 2024 or early 2025), which can reshape local dynamics; (4) polling trends from January 2025 onward, when campaign messaging intensifies and voter attention sharpens. The March 8 expiry is fixed, leaving no extension risk, but the 18-month runway means multiple political shocks could materially shift probabilities from current levels.
 
-## Key Dates
-
-- **Market Expiry**: March 08, 2026 (10 days from now)
-
 ## Related Markets
 
 - [Will Trump nominate Judy Shelton as the next Fed chair?](/odds/will-trump-nominate-judy-shelton-as-the-next-fed-chair) — 4% YES

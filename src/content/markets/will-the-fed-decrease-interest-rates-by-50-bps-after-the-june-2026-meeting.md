@@ -31,11 +31,6 @@ The odds could shift materially if recession signals intensify over the coming q
 
 The key uncertainty traders should monitor is whether rate cuts have already begun by June 2026 and at what pace. If the Fed has already cut 25-50 bps cumulatively by that meeting, the probability of a 50+ bp single cut drops further. This contract's value depends heavily on a scenario where cutting has been delayed or forestalled until a crisis forces an emergency response—a relatively narrow window given the 18-month timeframe.
 
-## Key Dates
-
-- **Market Expiry**: June 17, 2026 (113 days from now)
-- **Midpoint Check**: April 21, 2026 — reassess position
-
 ## What the Odds Mean
 
 At **6%**, the market considers this outcome unlikely. Contrarian YES positions are cheap but high-risk. If you have a strong thesis that the market is wrong, these low-probability markets can offer outsized returns.
