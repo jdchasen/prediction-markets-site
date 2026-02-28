@@ -82,6 +82,19 @@ TITLE_BLOCKLIST = [
     re.compile(r"(?i)suicide"),
 ]
 
+# Viral/high-interest topics get a 3x volume boost for ranking priority
+VIRAL_KEYWORDS = [
+    "trump", "elon musk", "musk", "doge", "iran", "russia", "ukraine", "putin",
+    "election", "midterm", "ai ", "openai", "chatgpt", "claude", "gpt",
+    "fed chair", "fed rate", "rate cut", "nuclear", "war",
+    "bitcoin", "btc", "ethereum", "eth", "crypto",
+    "tesla", "spacex", "tiktok", "ban",
+    "china", "tariff", "recession", "impeach",
+    "israel", "gaza", "taiwan",
+    "super bowl", "world cup", "olympics",
+]
+VIRAL_BOOST = 3  # multiplier applied to total_volume for sorting
+
 MAX_PAGES = 300
 
 # Category-specific analysis guidance for Claude prompts
@@ -594,6 +607,20 @@ def _matches_category(category: str) -> bool:
     return any(w in cat for w in CATEGORY_WHITELIST)
 
 
+def _is_viral(title: str) -> bool:
+    """Check if a market title matches viral/high-interest keywords."""
+    t = title.lower()
+    return any(kw in t for kw in VIRAL_KEYWORDS)
+
+
+def _boosted_volume(market: dict) -> float:
+    """Return volume with viral boost applied for sorting."""
+    vol = market.get("total_volume", 0)
+    if _is_viral(market.get("title", "")):
+        return vol * VIRAL_BOOST
+    return vol
+
+
 # ---------------------------------------------------------------------------
 # Cross-platform matching
 # ---------------------------------------------------------------------------
@@ -671,8 +698,8 @@ def cross_match_markets(
                 "multi_platform": False,
             })
 
-    # Sort by total volume descending, cap at MAX_PAGES
-    matched.sort(key=lambda m: m["total_volume"], reverse=True)
+    # Sort by boosted volume (viral topics rank higher), cap at MAX_PAGES
+    matched.sort(key=_boosted_volume, reverse=True)
     return matched[:MAX_PAGES]
 
 
@@ -1428,7 +1455,7 @@ def _backfill_analysis(unified: list[dict]):
         return
 
     # Build volume-ranked set of top-30 slugs for tier assignment
-    sorted_by_vol = sorted(unified, key=lambda m: m.get("total_volume", 0), reverse=True)
+    sorted_by_vol = sorted(unified, key=_boosted_volume, reverse=True)
     top_30_slugs = {slugify(m["title"]) for m in sorted_by_vol[:30]}
 
     # Build slug→market lookup
@@ -1523,7 +1550,7 @@ def main():
     CONTENT_DIR.mkdir(parents=True, exist_ok=True)
 
     # Determine top-30 slugs for tier assignment
-    sorted_by_vol = sorted(unified, key=lambda m: m.get("total_volume", 0), reverse=True)
+    sorted_by_vol = sorted(unified, key=_boosted_volume, reverse=True)
     top_30_slugs = {slugify(m["title"]) for m in sorted_by_vol[:30]}
 
     generated = 0
