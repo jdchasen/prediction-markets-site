@@ -3,7 +3,7 @@ title: "Will Gold (GC) hit (HIGH) $6,000 by end of June?"
 description: "Will Gold (GC) hit (HIGH) $6,000 by end of June? Odds: 63.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Gold (GC) hit (HIGH) $6,000 by end of June?"
 category: "finance"
-status: "active"
+status: "settled"
 lastUpdated: 2026-02-28
 expiryDate: 2026-06-30
 tags: ["finance", "polymarket"]

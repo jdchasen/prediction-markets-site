@@ -9,9 +9,8 @@ expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
 polymarketYes: 19.5
 polymarketNo: 80.5
-polymarketVolume: 98613
+polymarketVolume: 99279
 polymarketUrl: "https://polymarket.com/event/will-russia-enter-kramatorsk-by-june-30-821-192"
-analysisDate: 2026-02-28
 ---
 
 The market pricing Russian capture of Kramatorsk at under 20% reflects cautious pessimism about Moscow's ability to advance roughly 25 kilometers westward from current positions in Donbas over the next 16 months, though the timeline extends well beyond typical market horizons for active conflict zones.

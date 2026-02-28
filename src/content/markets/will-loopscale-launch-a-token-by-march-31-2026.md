@@ -11,7 +11,6 @@ polymarketYes: 8.0
 polymarketNo: 92.0
 polymarketVolume: 9827
 polymarketUrl: "https://polymarket.com/event/will-loopscale-launch-a-token-by-march-31-2026"
-analysisDate: 2026-02-28
 ---
 
 # Loopscale Token Launch Analysis

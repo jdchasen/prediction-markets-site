@@ -9,9 +9,8 @@ expiryDate: 2028-11-07
 tags: ["politics", "polymarket"]
 polymarketYes: 1.6
 polymarketNo: 98.5
-polymarketVolume: 990567
+polymarketVolume: 999978
 polymarketUrl: "https://polymarket.com/event/will-thomas-massie-win-the-2028-republican-presidential-nomination"
-analysisDate: 2026-02-28
 ---
 
 The prediction market gives Kentucky Representative Thomas Massie virtually no chance at securing the 2028 Republican nomination, reflecting his status as a libertarian-leaning Republican who has consistently alienated party leadership and mainstream GOP voters through contrarian votes and policy positions.

@@ -3,7 +3,7 @@ title: "Will Trump nominate Judy Shelton as the next Fed chair?"
 description: "Will Trump nominate Judy Shelton as the next Fed chair? Odds: 4.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Trump nominate Judy Shelton as the next Fed chair?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-02-28
 expiryDate: 2026-12-31
 tags: ["ai", "federal-reserve", "politics", "polymarket", "trump"]

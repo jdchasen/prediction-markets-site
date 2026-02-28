@@ -9,9 +9,8 @@ expiryDate: 2026-06-27
 tags: ["ai", "polymarket", "sports"]
 polymarketYes: 0.3
 polymarketNo: 99.7
-polymarketVolume: 9737
+polymarketVolume: 9746
 polymarketUrl: "https://polymarket.com/event/will-haiti-win-group-c-in-the-2026-fifa-world-cup"
-analysisDate: 2026-02-28
 ---
 
 # Haiti Group C Analysis: 2026 FIFA World Cup

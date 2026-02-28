@@ -3,7 +3,7 @@ title: "Will Renate Reinsve win Best Actress at the 98th Academy Awards?"
 description: "Will Renate Reinsve win Best Actress at the 98th Academy Awards? Odds: 1.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Renate Reinsve win Best Actress at the 98th Academy Awards?"
 category: "entertainment"
-status: "active"
+status: "settled"
 lastUpdated: 2026-02-28
 expiryDate: 2026-03-15
 tags: ["entertainment", "polymarket"]

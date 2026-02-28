@@ -3,7 +3,7 @@ title: "Will Liverpool win the 2025–26 English Premier League?"
 description: "Will Liverpool win the 2025–26 English Premier League? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Liverpool win the 2025–26 English Premier League?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-02-28
 expiryDate: 2026-05-27
 tags: ["polymarket", "sports"]

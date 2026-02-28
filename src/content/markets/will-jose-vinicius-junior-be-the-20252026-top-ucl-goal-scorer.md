@@ -1,17 +1,16 @@
 ---
 title: "Will Jose Vinicius Junior be the 2025/2026 top UCL goal scorer?"
-description: "Will Jose Vinicius Junior be the 2025/2026 top UCL goal scorer? Odds: 3.9% YES on Polymarket. See live prices and trade this market."
+description: "Will Jose Vinicius Junior be the 2025/2026 top UCL goal scorer? Odds: 5.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Jose Vinicius Junior be the 2025/2026 top UCL goal scorer?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-02-28
 expiryDate: 2026-05-30
 tags: ["politics", "polymarket"]
-polymarketYes: 3.9
-polymarketNo: 96.1
-polymarketVolume: 9925
+polymarketYes: 5.5
+polymarketNo: 94.5
+polymarketVolume: 9936
 polymarketUrl: "https://polymarket.com/event/will-jose-vinicius-junior-be-the-20252026-top-ucl-goal-scorer"
-analysisDate: 2026-02-28
 ---
 
 # Analysis

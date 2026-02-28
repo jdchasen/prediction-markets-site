@@ -11,7 +11,6 @@ polymarketYes: 0.1
 polymarketNo: 99.9
 polymarketVolume: 9658
 polymarketUrl: "https://polymarket.com/event/will-crystal-palace-finish-in-last-place-in-the-2025-26-english-premier-league"
-analysisDate: 2026-02-28
 ---
 
 # Crystal Palace Relegation Analysis

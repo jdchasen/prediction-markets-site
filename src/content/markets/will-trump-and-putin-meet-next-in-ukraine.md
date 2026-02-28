@@ -9,9 +9,8 @@ expiryDate: 2026-06-30
 tags: ["ai", "politics", "polymarket", "trump"]
 polymarketYes: 0.4
 polymarketNo: 99.7
-polymarketVolume: 99001
+polymarketVolume: 99404
 polymarketUrl: "https://polymarket.com/event/will-trump-and-putin-meet-next-in-ukraine-328-474"
-analysisDate: 2026-02-28
 ---
 
 The market assigns an extremely low probability to Trump and Putin holding their next meeting on Ukrainian soil, reflecting the immense diplomatic, security, and political obstacles that would need to be overcome for such a historically unprecedented scenario.

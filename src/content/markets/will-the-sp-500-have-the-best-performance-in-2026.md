@@ -3,7 +3,7 @@ title: "Will the S&P 500 have the best performance in 2026?"
 description: "Will the S&P 500 have the best performance in 2026? Odds: 18.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the S&P 500 have the best performance in 2026?"
 category: "finance"
-status: "active"
+status: "settled"
 lastUpdated: 2026-02-28
 expiryDate: 2026-12-31
 tags: ["finance", "polymarket", "stocks"]

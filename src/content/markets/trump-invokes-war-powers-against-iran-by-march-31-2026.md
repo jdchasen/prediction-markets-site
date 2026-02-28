@@ -3,7 +3,7 @@ title: "Trump invokes War Powers against Iran by March 31, 2026?"
 description: "Trump invokes War Powers against Iran by March 31, 2026? Odds: 87.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Trump invokes War Powers against Iran by March 31, 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-02-28
 expiryDate: 2026-03-31
 tags: ["ai", "politics", "polymarket", "trump"]

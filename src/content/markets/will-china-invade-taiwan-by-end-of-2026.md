@@ -1,17 +1,16 @@
 ---
 title: "Will China invade Taiwan by end of 2026?"
-description: "Will China invade Taiwan by end of 2026? Odds: 11.5% YES on Polymarket. See live prices and trade this market."
+description: "Will China invade Taiwan by end of 2026? Odds: 11.6% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will China invade Taiwan by end of 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-02-28
 expiryDate: 2026-12-31
 tags: ["ai", "politics", "polymarket"]
-polymarketYes: 11.5
-polymarketNo: 88.5
-polymarketVolume: 9706150
+polymarketYes: 11.6
+polymarketNo: 88.4
+polymarketVolume: 9750478
 polymarketUrl: "https://polymarket.com/event/will-china-invade-taiwan-before-2027"
-analysisDate: 2026-02-28
 ---
 
 Polymarket traders currently assign roughly 1-in-9 odds to a Chinese invasion of Taiwan before 2027, reflecting consensus that while cross-strait tensions remain elevated, full-scale military action remains unlikely in this timeframe despite increasingly aggressive rhetoric from Beijing.

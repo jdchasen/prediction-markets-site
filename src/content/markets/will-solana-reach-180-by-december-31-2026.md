@@ -3,7 +3,7 @@ title: "Will Solana reach $180 by December 31, 2026?"
 description: "Will Solana reach $180 by December 31, 2026? Odds: 22.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Solana reach $180 by December 31, 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-02-28
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]

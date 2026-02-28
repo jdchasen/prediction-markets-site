@@ -3,7 +3,7 @@ title: "Will Pakistan win the 2026 ICC Men’s T20 World Cup?"
 description: "Will Pakistan win the 2026 ICC Men’s T20 World Cup? Odds: 2.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Pakistan win the 2026 ICC Men’s T20 World Cup?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-02-28
 expiryDate: 2026-03-08
 tags: ["polymarket", "sports"]

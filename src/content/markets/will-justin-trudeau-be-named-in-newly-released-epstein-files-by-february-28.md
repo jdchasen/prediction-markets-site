@@ -3,7 +3,7 @@ title: "Will Justin Trudeau be named in newly released Epstein files by February
 description: "Will Justin Trudeau be named in newly released Epstein files by February 28? Odds: 1.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Justin Trudeau be named in newly released Epstein files by February 28?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-02-28
 tags: ["politics", "polymarket"]
 polymarketYes: 1.2

@@ -3,7 +3,7 @@ title: "Will \"Ultra-wide\" be said during the NYC Apple event on March 4?"
 description: "Will \"Ultra-wide\" be said during the NYC Apple event on March 4? Odds: 34.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will \"Ultra-wide\" be said during the NYC Apple event on March 4?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-02-28
 expiryDate: 2026-03-04
 tags: ["ai", "politics", "polymarket"]

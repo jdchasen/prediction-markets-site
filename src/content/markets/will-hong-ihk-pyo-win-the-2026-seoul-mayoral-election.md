@@ -3,7 +3,7 @@ title: "Will Hong Ihk-pyo win the 2026 Seoul Mayoral Election"
 description: "Will Hong Ihk-pyo win the 2026 Seoul Mayoral Election Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Hong Ihk-pyo win the 2026 Seoul Mayoral Election"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-02-28
 expiryDate: 2026-06-03
 tags: ["elections", "politics", "polymarket"]

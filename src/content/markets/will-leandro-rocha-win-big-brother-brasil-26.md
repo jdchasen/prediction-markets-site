@@ -9,9 +9,8 @@ expiryDate: 2026-04-30
 tags: ["politics", "polymarket"]
 polymarketYes: 0.6
 polymarketNo: 99.4
-polymarketVolume: 9870
+polymarketVolume: 9889
 polymarketUrl: "https://polymarket.com/event/will-leandro-rocha-win-big-brother-brasil-26"
-analysisDate: 2026-02-28
 ---
 
 # Big Brother Brasil 26 Winner Market Analysis

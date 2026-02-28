@@ -1,17 +1,16 @@
 ---
 title: "Will Kim Kyo-heung win the 2026 Incheon mayoral election?"
-description: "Will Kim Kyo-heung win the 2026 Incheon mayoral election? Odds: 2.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Kim Kyo-heung win the 2026 Incheon mayoral election? Odds: 1.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Kim Kyo-heung win the 2026 Incheon mayoral election?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-02-28
 expiryDate: 2026-06-03
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 2.5
-polymarketNo: 97.5
+polymarketYes: 1.8
+polymarketNo: 98.2
 polymarketVolume: 9715
 polymarketUrl: "https://polymarket.com/event/will-kim-kyo-heung-win-the-2026-incheon-mayoral-election"
-analysisDate: 2026-02-28
 ---
 
 # Analysis: Kim Kyo-heung 2026 Incheon Mayoral Race

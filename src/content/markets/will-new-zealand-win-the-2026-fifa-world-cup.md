@@ -9,9 +9,8 @@ expiryDate: 2026-07-20
 tags: ["polymarket", "sports"]
 polymarketYes: 0.2
 polymarketNo: 99.8
-polymarketVolume: 9795614
+polymarketVolume: 9993707
 polymarketUrl: "https://polymarket.com/event/will-new-zealand-win-the-2026-fifa-world-cup-635"
-analysisDate: 2026-02-28
 ---
 
 The market pricing New Zealand at 0.2% to win the 2026 World Cup reflects their status as extreme longshots, positioned as one of the weakest teams likely to qualify from the Oceania confederation. This matters as a bellwether for how markets assess teams from smaller footballing nations against European and South American powerhouses.

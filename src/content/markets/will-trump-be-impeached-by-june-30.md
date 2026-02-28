@@ -1,17 +1,16 @@
 ---
 title: "Will Trump be impeached by June 30?"
-description: "Will Trump be impeached by June 30? Odds: 5.1% YES on Polymarket. See live prices and trade this market."
+description: "Will Trump be impeached by June 30? Odds: 5.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Trump be impeached by June 30?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-02-28
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket", "trump"]
-polymarketYes: 5.1
-polymarketNo: 94.8
-polymarketVolume: 96536
+polymarketYes: 5.9
+polymarketNo: 94.2
+polymarketVolume: 97087
 polymarketUrl: "https://polymarket.com/event/will-trump-be-impeached-by-june-30"
-analysisDate: 2026-02-28
 ---
 
 The market assigns only a 5% probability to Trump facing impeachment by June 2026, reflecting both Republican control of the House through at least January 2027 and the high bar for initiating impeachment proceedings against a sitting president from the majority party. This matters as a gauge of whether traders anticipate any catastrophic political shift or scandal capable of fracturing GOP unity within the first 18 months of Trump's term.

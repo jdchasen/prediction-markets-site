@@ -3,7 +3,7 @@ title: "Will Donald Trump post 160-179 Truth Social posts from February 24 to Ma
 description: "Will Donald Trump post 160-179 Truth Social posts from February 24 to March 3, 2026? Odds: 13.6% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Donald Trump post 160-179 Truth Social posts from February 24 to March 3, 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-02-28
 expiryDate: 2026-03-03
 tags: ["politics", "polymarket", "trump"]

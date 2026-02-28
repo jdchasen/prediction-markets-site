@@ -3,7 +3,7 @@ title: "Will the US strike 15 or more countries in 2026?"
 description: "Will the US strike 15 or more countries in 2026? Odds: 1.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the US strike 15 or more countries in 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-02-28
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]

@@ -11,7 +11,6 @@ polymarketYes: 0.2
 polymarketNo: 99.8
 polymarketVolume: 9658
 polymarketUrl: "https://polymarket.com/event/will-jingchao-xiong-receive-the-most-votes-in-the-ca-11-primary"
-analysisDate: 2026-02-28
 ---
 
 # CA-11 Primary: Jingchao Xiong Prediction Market Analysis
