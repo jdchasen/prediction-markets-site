@@ -3,8 +3,8 @@ title: "Will The Greens win the second most seats in the 2026 Baden-Württemberg
 description: "Will The Greens win the second most seats in the 2026 Baden-Württemberg parliamentary elections? Odds: 59.5% YES on Polymarket. See live prices and trade thi..."
 marketQuestion: "Will The Greens win the second most seats in the 2026 Baden-Württemberg parliamentary elections?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-02-28
+status: "settled"
+lastUpdated: 2026-03-01
 expiryDate: 2026-03-08
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 59.5

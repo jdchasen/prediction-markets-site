@@ -3,8 +3,8 @@ title: "Will Al Gore be named in newly released Epstein files by February 28?"
 description: "Will Al Gore be named in newly released Epstein files by February 28? Odds: 2.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Al Gore be named in newly released Epstein files by February 28?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-02-28
+status: "settled"
+lastUpdated: 2026-03-01
 tags: ["politics", "polymarket"]
 polymarketYes: 2.4
 polymarketNo: 97.7

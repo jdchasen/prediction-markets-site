@@ -3,8 +3,8 @@ title: "Will the U.S. test a nuclear weapon by March 31 2026?"
 description: "Will the U.S. test a nuclear weapon by March 31 2026? Odds: 4.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the U.S. test a nuclear weapon by March 31 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-02-28
+status: "settled"
+lastUpdated: 2026-03-01
 expiryDate: 2026-03-31
 tags: ["politics", "polymarket"]
 polymarketYes: 4.4

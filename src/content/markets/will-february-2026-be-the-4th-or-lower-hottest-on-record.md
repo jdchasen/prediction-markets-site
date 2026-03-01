@@ -3,8 +3,8 @@ title: "Will February 2026 be the 4th or lower hottest on record?"
 description: "Will February 2026 be the 4th or lower hottest on record? Odds: 92.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will February 2026 be the 4th or lower hottest on record?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-02-28
+status: "settled"
+lastUpdated: 2026-03-01
 expiryDate: 2026-03-10
 tags: ["politics", "polymarket"]
 polymarketYes: 92.8

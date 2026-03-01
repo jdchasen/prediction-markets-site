@@ -3,8 +3,8 @@ title: "Another critical Cloudflare incident by February 28, 2026?"
 description: "Another critical Cloudflare incident by February 28, 2026? Odds: 3.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Another critical Cloudflare incident by February 28, 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-02-28
+status: "settled"
+lastUpdated: 2026-03-01
 expiryDate: 2026-03-31
 tags: ["politics", "polymarket"]
 polymarketYes: 3.9

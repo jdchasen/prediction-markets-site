@@ -1,17 +1,16 @@
 ---
 title: "Will the price of Ethereum be above $1,400 on March 6?"
-description: "Will the price of Ethereum be above $1,400 on March 6? Odds: 98.6% YES on Polymarket. See live prices and trade this market."
+description: "Will the price of Ethereum be above $1,400 on March 6? Odds: 98.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the price of Ethereum be above $1,400 on March 6?"
 category: "crypto"
 status: "active"
-lastUpdated: 2026-02-28
+lastUpdated: 2026-03-01
 expiryDate: 2026-03-06
 tags: ["crypto", "ethereum", "polymarket"]
-polymarketYes: 98.6
-polymarketNo: 1.4
-polymarketVolume: 9771
+polymarketYes: 98.5
+polymarketNo: 1.6
+polymarketVolume: 9915
 polymarketUrl: "https://polymarket.com/event/ethereum-above-1400-on-march-6"
-analysisDate: 2026-02-28
 ---
 
 # Ethereum Price Prediction Analysis

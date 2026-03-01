@@ -3,8 +3,8 @@ title: "Will the DHS shutdown end between March 16-19, 2026?"
 description: "Will the DHS shutdown end between March 16-19, 2026? Odds: 4.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the DHS shutdown end between March 16-19, 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-02-28
+status: "settled"
+lastUpdated: 2026-03-01
 expiryDate: 2026-03-31
 tags: ["politics", "polymarket"]
 polymarketYes: 4.9

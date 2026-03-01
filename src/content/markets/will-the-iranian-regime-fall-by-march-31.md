@@ -3,8 +3,8 @@ title: "Will the Iranian regime fall by March 31?"
 description: "Will the Iranian regime fall by March 31? Odds: 36.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Iranian regime fall by March 31?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-02-28
+status: "settled"
+lastUpdated: 2026-03-01
 expiryDate: 2026-03-31
 tags: ["politics", "polymarket"]
 polymarketYes: 36.4

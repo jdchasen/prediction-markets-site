@@ -1,17 +1,16 @@
 ---
 title: "Will Jasmine Crockett win the 2026 Texas Senate Democratic Primary Election and lose the 2026 Texas Senate General Election?"
-description: "Will Jasmine Crockett win the 2026 Texas Senate Democratic Primary Election and lose the 2026 Texas Senate General Election? Odds: 29.0% YES on Polymarket. S..."
+description: "Will Jasmine Crockett win the 2026 Texas Senate Democratic Primary Election and lose the 2026 Texas Senate General Election? Odds: 28.5% YES on Polymarket. S..."
 marketQuestion: "Will Jasmine Crockett win the 2026 Texas Senate Democratic Primary Election and lose the 2026 Texas Senate General Election?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-02-28
+lastUpdated: 2026-03-01
 expiryDate: 2026-11-03
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 29.0
-polymarketNo: 71.0
-polymarketVolume: 9953
+polymarketYes: 28.5
+polymarketNo: 71.5
+polymarketVolume: 9967
 polymarketUrl: "https://polymarket.com/event/will-jasmine-crockett-win-the-2026-texas-senate-democratic-primary-election-and-lose-the-2026-texas-senate-general-election"
-analysisDate: 2026-02-28
 ---
 
 # Analysis: Jasmine Crockett's 2026 Texas Senate Bid

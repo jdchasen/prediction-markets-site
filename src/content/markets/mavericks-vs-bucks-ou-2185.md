@@ -3,8 +3,8 @@ title: "Mavericks vs. Bucks: O/U 218.5"
 description: "Mavericks vs. Bucks: O/U 218.5 Odds: 43.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Mavericks vs. Bucks: O/U 218.5"
 category: "sports"
-status: "active"
-lastUpdated: 2026-02-28
+status: "settled"
+lastUpdated: 2026-03-01
 expiryDate: 2026-03-31
 tags: ["polymarket", "sports"]
 polymarketYes: 43.1

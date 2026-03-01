@@ -3,8 +3,8 @@ title: "Will Thomas Massie win the 2028 Republican presidential nomination?"
 description: "Will Thomas Massie win the 2028 Republican presidential nomination? Odds: 1.6% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Thomas Massie win the 2028 Republican presidential nomination?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-02-28
+status: "settled"
+lastUpdated: 2026-03-01
 expiryDate: 2028-11-07
 tags: ["politics", "polymarket"]
 polymarketYes: 1.6

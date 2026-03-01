@@ -3,8 +3,8 @@ title: "Will Inter win the 2025–26 Serie A league?"
 description: "Will Inter win the 2025–26 Serie A league? Odds: 93.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Inter win the 2025–26 Serie A league?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-02-28
+status: "settled"
+lastUpdated: 2026-03-01
 expiryDate: 2026-05-28
 tags: ["politics", "polymarket"]
 polymarketYes: 93.5

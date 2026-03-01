@@ -3,8 +3,8 @@ title: "Will Leandro Rocha win Big Brother Brasil 26?"
 description: "Will Leandro Rocha win Big Brother Brasil 26? Odds: 0.6% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Leandro Rocha win Big Brother Brasil 26?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-02-28
+status: "settled"
+lastUpdated: 2026-03-01
 expiryDate: 2026-04-30
 tags: ["politics", "polymarket"]
 polymarketYes: 0.6
