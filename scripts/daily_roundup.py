@@ -602,7 +602,10 @@ def generate_tweet(article_date: date, article_body: str) -> str:
 
 
 def post_tweet(tweet_text: str) -> bool:
-    """Post a tweet via Twitter API v2 using tweepy. Returns True on success."""
+    """Post a tweet via Twitter API v2 using tweepy. Returns True on success.
+    Retries once after a delay on 403 errors (common on free tier)."""
+    import time
+
     api_key = os.environ.get("TWITTER_API_KEY", "")
     api_secret = os.environ.get("TWITTER_API_SECRET", "")
     access_token = os.environ.get("TWITTER_ACCESS_TOKEN", "")
@@ -618,20 +621,40 @@ def post_tweet(tweet_text: str) -> bool:
         print("  tweepy not installed, skipping tweet")
         return False
 
-    try:
-        client = tweepy.Client(
-            consumer_key=api_key,
-            consumer_secret=api_secret,
-            access_token=access_token,
-            access_token_secret=access_token_secret,
-        )
-        response = client.create_tweet(text=tweet_text)
-        tweet_id = response.data["id"]
-        print(f"  Tweet posted: https://x.com/master_mar686/status/{tweet_id}")
-        return True
-    except Exception as e:
-        print(f"  Twitter API error: {e}")
-        return False
+    client = tweepy.Client(
+        consumer_key=api_key,
+        consumer_secret=api_secret,
+        access_token=access_token,
+        access_token_secret=access_token_secret,
+    )
+
+    for attempt in range(2):
+        try:
+            response = client.create_tweet(text=tweet_text)
+            tweet_id = response.data["id"]
+            print(f"  Tweet posted: https://x.com/master_mar686/status/{tweet_id}")
+            return True
+        except tweepy.Forbidden as e:
+            detail = ""
+            if hasattr(e, "response") and e.response is not None:
+                detail = f" | Response: {e.response.text}"
+            if hasattr(e, "api_messages"):
+                detail += f" | Messages: {e.api_messages}"
+            print(f"  Twitter 403 (attempt {attempt + 1}/2): {e}{detail}")
+            if attempt == 0:
+                print("  Retrying in 15 seconds...")
+                time.sleep(15)
+        except tweepy.TooManyRequests as e:
+            print(f"  Twitter rate limited (429): {e}")
+            if attempt == 0:
+                print("  Retrying in 30 seconds...")
+                time.sleep(30)
+        except Exception as e:
+            print(f"  Twitter API error: {e}")
+            return False
+
+    print("  Tweet failed after 2 attempts")
+    return False
 
 
 # ---------------------------------------------------------------------------

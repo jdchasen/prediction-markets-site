@@ -2,16 +2,12 @@ name: Engagement Tweets
 
 on:
   schedule:
-    # 9:00 AM ET = 14:00 UTC
-    - cron: '0 14 * * *'
-    # 12:00 PM ET = 17:00 UTC
-    - cron: '0 17 * * *'
-    # 3:00 PM ET = 20:00 UTC
-    - cron: '0 20 * * *'
-    # 6:00 PM ET = 23:00 UTC
-    - cron: '0 23 * * *'
-    # 9:00 PM ET = 02:00 UTC (next day)
-    - cron: '0 2 * * *'
+    # 10:00 AM ET = 15:00 UTC — morning market open recap
+    - cron: '0 15 * * *'
+    # 2:00 PM ET = 19:00 UTC — midday action
+    - cron: '0 19 * * *'
+    # 7:00 PM ET = 00:00 UTC (next day) — evening wrap
+    - cron: '0 0 * * *'
   workflow_dispatch:
     inputs:
       slot:
@@ -21,9 +17,7 @@ on:
         options:
           - morning
           - midday
-          - afternoon
           - evening
-          - night
 
 jobs:
   post-tweet:
@@ -47,16 +41,12 @@ jobs:
             echo "value=${{ inputs.slot }}" >> "$GITHUB_OUTPUT"
           else
             HOUR=$(date -u +%H)
-            if [ "$HOUR" -eq 14 ]; then
+            if [ "$HOUR" -eq 15 ]; then
               echo "value=morning" >> "$GITHUB_OUTPUT"
-            elif [ "$HOUR" -eq 17 ]; then
+            elif [ "$HOUR" -eq 19 ]; then
               echo "value=midday" >> "$GITHUB_OUTPUT"
-            elif [ "$HOUR" -eq 20 ]; then
-              echo "value=afternoon" >> "$GITHUB_OUTPUT"
-            elif [ "$HOUR" -eq 23 ]; then
-              echo "value=evening" >> "$GITHUB_OUTPUT"
             else
-              echo "value=night" >> "$GITHUB_OUTPUT"
+              echo "value=evening" >> "$GITHUB_OUTPUT"
             fi
           fi
 
