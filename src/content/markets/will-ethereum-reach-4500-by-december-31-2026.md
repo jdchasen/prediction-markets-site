@@ -1,17 +1,16 @@
 ---
 title: "Will Ethereum reach $4,500 by December 31, 2026?"
-description: "Will Ethereum reach $4,500 by December 31, 2026? Odds: 16.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Ethereum reach $4,500 by December 31, 2026? Odds: 19.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Ethereum reach $4,500 by December 31, 2026?"
 category: "crypto"
 status: "active"
 lastUpdated: 2026-03-01
 expiryDate: 2027-01-01
 tags: ["crypto", "ethereum", "polymarket"]
-polymarketYes: 16.5
-polymarketNo: 83.5
-polymarketVolume: 99098
+polymarketYes: 19.5
+polymarketNo: 80.5
+polymarketVolume: 99140
 polymarketUrl: "https://polymarket.com/event/will-ethereum-reach-4500-by-december-31-2026"
-analysisDate: 2026-03-01
 ---
 
 Ethereum trading at current levels needs to more than double in the next two years to hit $4,500, and the market assigns only about one-in-six odds to this happening—reflecting significant skepticism about crypto's near-term trajectory despite the extended timeframe.

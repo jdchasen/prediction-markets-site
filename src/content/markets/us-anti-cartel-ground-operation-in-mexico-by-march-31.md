@@ -3,7 +3,7 @@ title: "U.S. anti-cartel ground operation in Mexico by March 31?"
 description: "U.S. anti-cartel ground operation in Mexico by March 31? Odds: 7.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "U.S. anti-cartel ground operation in Mexico by March 31?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-01
 expiryDate: 2026-03-31
 tags: ["politics", "polymarket"]

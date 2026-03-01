@@ -3,7 +3,7 @@ title: "CSA T20 Division 1, Women: Lions vs Titans"
 description: "CSA T20 Division 1, Women: Lions vs Titans Odds: 61.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "CSA T20 Division 1, Women: Lions vs Titans"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-01
 expiryDate: 2026-03-08
 tags: ["politics", "polymarket"]

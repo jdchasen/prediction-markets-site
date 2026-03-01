@@ -1,17 +1,16 @@
 ---
 title: "Will Scotland win Group C in the 2026 FIFA World Cup?"
-description: "Will Scotland win Group C in the 2026 FIFA World Cup? Odds: 5.8% YES on Polymarket. See live prices and trade this market."
+description: "Will Scotland win Group C in the 2026 FIFA World Cup? Odds: 5.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Scotland win Group C in the 2026 FIFA World Cup?"
 category: "sports"
 status: "active"
 lastUpdated: 2026-03-01
 expiryDate: 2026-06-27
 tags: ["polymarket", "sports"]
-polymarketYes: 5.8
-polymarketNo: 94.2
-polymarketVolume: 9839
+polymarketYes: 5.5
+polymarketNo: 94.5
+polymarketVolume: 9939
 polymarketUrl: "https://polymarket.com/event/will-scotland-win-group-c-in-the-2026-fifa-world-cup"
-analysisDate: 2026-03-01
 ---
 
 Scotland faces exceptionally long odds to top Group C at the 2026 World Cup, with the market pricing their chances at under 6% amid significant uncertainty about draw outcomes and squad development over the next two years.

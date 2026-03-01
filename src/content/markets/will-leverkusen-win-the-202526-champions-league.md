@@ -9,9 +9,8 @@ expiryDate: 2026-05-31
 tags: ["polymarket", "sports"]
 polymarketYes: 0.7
 polymarketNo: 99.4
-polymarketVolume: 9837162
+polymarketVolume: 9900825
 polymarketUrl: "https://polymarket.com/event/will-leverkusen-win-the-202526-champions-league"
-analysisDate: 2026-03-01
 ---
 
 Bayer Leverkusen enters the 2025-26 Champions League conversation with microscopic 0.7% odds, reflecting the market's view that Europe's elite competition remains dominated by established powerhouses despite the German club's recent domestic success. This matters because Leverkusen's remarkable 2023-24 Bundesliga unbeaten season demonstrated they can compete at the highest level, yet translating that form into continental glory represents an entirely different challenge.

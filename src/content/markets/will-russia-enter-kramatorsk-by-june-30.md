@@ -1,17 +1,16 @@
 ---
 title: "Will Russia enter Kramatorsk by June 30?"
-description: "Will Russia enter Kramatorsk by June 30? Odds: 19.0% YES on Polymarket. See live prices and trade this market."
+description: "Will Russia enter Kramatorsk by June 30? Odds: 17.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Russia enter Kramatorsk by June 30?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-03-01
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
-polymarketYes: 19.0
-polymarketNo: 81.0
-polymarketVolume: 99424
+polymarketYes: 17.5
+polymarketNo: 82.5
+polymarketVolume: 99760
 polymarketUrl: "https://polymarket.com/event/will-russia-enter-kramatorsk-by-june-30-821-192"
-analysisDate: 2026-03-01
 ---
 
 The market pricing Kramatorsk's potential fall to Russian forces at just 19% reflects the significant military and logistical obstacles Russia faces in capturing this heavily fortified city in eastern Ukraine over the next 16 months. Kramatorsk, a key Ukrainian stronghold in Donetsk Oblast with pre-war population over 150,000, serves as a critical logistics hub and military command center for Ukrainian forces in the region. Current Russian advances in Donbas, while steady, proceed at a costly pace of roughly 2-3 kilometers per week, and Kramatorsk sits approximately 30-40 kilometers behind current front lines depending on the axis of advance.

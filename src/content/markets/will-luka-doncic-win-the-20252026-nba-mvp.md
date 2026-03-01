@@ -9,9 +9,8 @@ expiryDate: 2026-06-10
 tags: ["polymarket", "sports"]
 polymarketYes: 1.2
 polymarketNo: 98.8
-polymarketVolume: 9877585
+polymarketVolume: 9881291
 polymarketUrl: "https://polymarket.com/event/will-luka-doncic-win-the-20252026-nba-mvp"
-analysisDate: 2026-03-01
 ---
 
 The market assigns Luka Doncic minimal odds to win the 2025-2026 MVP despite his perennial All-NBA caliber play, reflecting deep skepticism about the Dallas Mavericks' regular season competitiveness and Doncic's own historical voting patterns. This matters because it represents a rare opportunity to buy low on an elite talent if circumstances shift dramatically in Dallas.

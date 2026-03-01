@@ -1,17 +1,16 @@
 ---
 title: "Will Silver (SI) hit (LOW) $55 by end of June?"
-description: "Will Silver (SI) hit (LOW) $55 by end of June? Odds: 26.0% YES on Polymarket. See live prices and trade this market."
+description: "Will Silver (SI) hit (LOW) $55 by end of June? Odds: 21.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Silver (SI) hit (LOW) $55 by end of June?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-03-01
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
-polymarketYes: 26.0
-polymarketNo: 74.0
-polymarketVolume: 98073
+polymarketYes: 21.5
+polymarketNo: 78.5
+polymarketVolume: 98658
 polymarketUrl: "https://polymarket.com/event/si-hit-55-low-jun-2026-421-352-265-253-168"
-analysisDate: 2026-03-01
 ---
 
 Silver reaching $55 per ounce by June 2026 is currently priced at roughly 1-in-4 odds, reflecting optimism about industrial demand but skepticism about sustained price momentum in precious metals markets.

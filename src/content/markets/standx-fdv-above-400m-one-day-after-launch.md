@@ -1,17 +1,16 @@
 ---
 title: "StandX FDV above $400M one day after launch?"
-description: "StandX FDV above $400M one day after launch? Odds: 44.0% YES on Polymarket. See live prices and trade this market."
+description: "StandX FDV above $400M one day after launch? Odds: 42.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "StandX FDV above $400M one day after launch?"
 category: "crypto"
 status: "active"
 lastUpdated: 2026-03-01
 expiryDate: 2027-01-01
 tags: ["crypto", "polymarket"]
-polymarketYes: 44.0
-polymarketNo: 56.0
-polymarketVolume: 9812
+polymarketYes: 42.5
+polymarketNo: 57.5
+polymarketVolume: 9814
 polymarketUrl: "https://polymarket.com/event/standx-fdv-above-400m-one-day-after-launch-281-522"
-analysisDate: 2026-03-01
 ---
 
 The market pricing StandX's fully diluted valuation at 44% to exceed $400M on day one reflects significant uncertainty around a token launch still years away, with traders weighing ambitious DeFi positioning against the reality that most 2027 launches will face vastly different market conditions than today's environment.

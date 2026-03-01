@@ -3,7 +3,7 @@ title: "Paradex FDV above $500M one day after launch?"
 description: "Paradex FDV above $500M one day after launch? Odds: 5.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Paradex FDV above $500M one day after launch?"
 category: "crypto"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-01
 expiryDate: 2027-01-01
 tags: ["crypto", "polymarket"]

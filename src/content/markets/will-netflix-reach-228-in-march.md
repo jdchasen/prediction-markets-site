@@ -3,7 +3,7 @@ title: "Will Netflix reach $228 in March?"
 description: "Will Netflix reach $228 in March? Odds: 4.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Netflix reach $228 in March?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-01
 expiryDate: 2026-04-01
 tags: ["politics", "polymarket"]

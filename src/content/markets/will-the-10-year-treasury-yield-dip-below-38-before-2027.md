@@ -1,17 +1,16 @@
 ---
 title: "Will the 10-year Treasury yield dip below 3.8% before 2027?"
-description: "Will the 10-year Treasury yield dip below 3.8% before 2027? Odds: 87.5% YES on Polymarket. See live prices and trade this market."
+description: "Will the 10-year Treasury yield dip below 3.8% before 2027? Odds: 91.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the 10-year Treasury yield dip below 3.8% before 2027?"
 category: "economics"
 status: "active"
 lastUpdated: 2026-03-01
 expiryDate: 2026-12-31
 tags: ["economics", "polymarket"]
-polymarketYes: 87.5
-polymarketNo: 12.5
-polymarketVolume: 9548
+polymarketYes: 91.0
+polymarketNo: 9.0
+polymarketVolume: 9656
 polymarketUrl: "https://polymarket.com/event/will-the-10-year-treasury-yield-dip-below-3pt8-before-2027-914"
-analysisDate: 2026-03-01
 ---
 
 # Treasury Yield Market Analysis

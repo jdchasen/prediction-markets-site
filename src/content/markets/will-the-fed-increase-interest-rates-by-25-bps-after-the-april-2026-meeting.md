@@ -9,9 +9,8 @@ expiryDate: 2026-04-29
 tags: ["economics", "federal-reserve", "interest-rates", "polymarket"]
 polymarketYes: 1.1
 polymarketNo: 98.9
-polymarketVolume: 938024
+polymarketVolume: 957910
 polymarketUrl: "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-april-2026-meeting"
-analysisDate: 2026-03-01
 ---
 
 The market assigns almost no probability to the Fed hiking rates by 25 basis points or more following its April 2026 FOMC meeting, reflecting strong consensus that the central bank will remain in a holding pattern or continue cutting from current levels nearly two years from now.

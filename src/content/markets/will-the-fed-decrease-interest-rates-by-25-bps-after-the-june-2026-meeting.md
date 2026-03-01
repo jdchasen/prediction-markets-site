@@ -1,17 +1,16 @@
 ---
 title: "Will the Fed decrease interest rates by 25 bps after the June 2026 meeting?"
-description: "Will the Fed decrease interest rates by 25 bps after the June 2026 meeting? Odds: 49.5% YES on Polymarket. See live prices and trade this market."
+description: "Will the Fed decrease interest rates by 25 bps after the June 2026 meeting? Odds: 51.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Fed decrease interest rates by 25 bps after the June 2026 meeting?"
 category: "economics"
 status: "active"
 lastUpdated: 2026-03-01
 expiryDate: 2026-06-17
 tags: ["economics", "federal-reserve", "interest-rates", "polymarket"]
-polymarketYes: 49.5
-polymarketNo: 50.5
-polymarketVolume: 96148
+polymarketYes: 51.0
+polymarketNo: 49.0
+polymarketVolume: 96646
 polymarketUrl: "https://polymarket.com/event/will-the-fed-decrease-interest-rates-by-25-bps-after-the-june-2026-meeting"
-analysisDate: 2026-03-01
 ---
 
 The market is essentially a coin flip on whether the Federal Reserve will cut rates by a quarter point following its June 2026 FOMC meeting, reflecting deep uncertainty about economic conditions more than two years out.

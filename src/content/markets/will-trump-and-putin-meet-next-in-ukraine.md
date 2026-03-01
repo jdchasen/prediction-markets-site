@@ -3,7 +3,7 @@ title: "Will Trump and Putin meet next in Ukraine?"
 description: "Will Trump and Putin meet next in Ukraine? Odds: 0.3% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Trump and Putin meet next in Ukraine?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-01
 expiryDate: 2026-06-30
 tags: ["ai", "politics", "polymarket", "trump"]

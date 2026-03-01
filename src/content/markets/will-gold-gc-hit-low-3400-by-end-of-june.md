@@ -1,17 +1,16 @@
 ---
 title: "Will Gold (GC) hit (LOW) $3,400 by end of June?"
-description: "Will Gold (GC) hit (LOW) $3,400 by end of June? Odds: 3.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Gold (GC) hit (LOW) $3,400 by end of June? Odds: 3.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Gold (GC) hit (LOW) $3,400 by end of June?"
 category: "finance"
-status: "settled"
+status: "active"
 lastUpdated: 2026-03-01
 expiryDate: 2026-06-30
 tags: ["finance", "polymarket"]
-polymarketYes: 3.5
-polymarketNo: 96.5
-polymarketVolume: 9719
+polymarketYes: 3.0
+polymarketNo: 97.0
+polymarketVolume: 9801
 polymarketUrl: "https://polymarket.com/event/gc-hit-3400-low-jun-2026-571-949-486"
-analysisDate: 2026-02-28
 ---
 
 # Gold $3,400 Floor by June 2026: A Low-Probability Bet Against Structural Support
