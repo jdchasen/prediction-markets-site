@@ -5,6 +5,7 @@ import Footer from "../components/Footer.astro";
 import NewsletterPopup from "../components/NewsletterPopup.astro";
 import SearchDialog from "../components/SearchDialog.astro";
 import { ADSENSE_ENABLED, ADSENSE_PUBLISHER_ID } from "../config/ads";
+import "../styles/fonts.css";
 
 interface Props {
   title: string;
@@ -37,25 +38,38 @@ const { title, description, image, article, pubDate, updatedDate } = Astro.props
         }
       })();
     </script>
-    <!-- Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-W07DSXGL25"></script>
+    <!-- Google Analytics (deferred to after first paint) -->
     <script is:inline>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-      gtag('config', 'G-W07DSXGL25');
+      (function() {
+        var loaded = false;
+        function loadGA() {
+          if (loaded) return;
+          loaded = true;
+          var s = document.createElement('script');
+          s.src = 'https://www.googletagmanager.com/gtag/js?id=G-W07DSXGL25';
+          s.async = true;
+          document.head.appendChild(s);
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          window.gtag = gtag;
+          gtag('js', new Date());
+          gtag('config', 'G-W07DSXGL25');
+        }
+        if ('requestIdleCallback' in window) {
+          requestIdleCallback(loadGA);
+        } else {
+          setTimeout(loadGA, 2000);
+        }
+      })();
     </script>
     {ADSENSE_ENABLED && (
       <script async src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${ADSENSE_PUBLISHER_ID}`} crossorigin="anonymous"></script>
     )}
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <link rel="icon" href="/favicon.ico" />
-    <link rel="preconnect" href="https://fonts.googleapis.com" />
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <link
-      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap"
-      rel="stylesheet"
-    />
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+    <link rel="manifest" href="/manifest.json" />
+    <link rel="preload" as="font" href="/fonts/Inter-Variable-latin.woff2" type="font/woff2" crossorigin />
     <slot name="head" />
   </head>
   <body class="bg-white text-gray-900 dark:bg-gray-950 dark:text-gray-100 min-h-screen flex flex-col">
