@@ -8,13 +8,13 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 >
   <div class="mx-auto max-w-3xl px-4 py-12">
     <h1 class="mb-6 text-3xl font-bold text-gray-900 dark:text-white">Privacy Policy</h1>
-    <p class="mb-8 text-sm text-gray-500 dark:text-gray-400">Last updated: February 27, 2026</p>
+    <p class="mb-8 text-sm text-gray-500 dark:text-gray-400">Last updated: March 1, 2026</p>
 
     <div class="prose prose-gray dark:prose-invert max-w-none">
       <p>
         Master Prediction Markets ("we", "us", "our") operates
-        <strong>masterpredictionmarkets.com</strong>. This page explains what data we collect,
-        how we use it, and your choices.
+        <strong>masterpredictionmarkets.com</strong> and the <strong>OddsView</strong> iOS app.
+        This page explains what data we collect, how we use it, and your choices.
       </p>
 
       <h2>Information We Collect</h2>
@@ -43,6 +43,25 @@ import BaseLayout from '../layouts/BaseLayout.astro';
         opt out of personalized advertising at
         <a href="https://www.google.com/settings/ads" rel="noopener noreferrer">Google Ads Settings</a>
         or via <a href="https://www.aboutads.info/choices/" rel="noopener noreferrer">aboutads.info</a>.
+      </p>
+
+      <h2>OddsView iOS App</h2>
+      <p>
+        The OddsView iOS app does <strong>not</strong> collect personal data, require sign-in,
+        or use analytics. No cookies, advertising SDKs, or third-party tracking frameworks are
+        included in the app.
+      </p>
+      <p>
+        Market data (odds, prices, spreads) is fetched from our API
+        (<code>mpm-odds-api.fly.dev</code>). No personal information is sent with these requests.
+      </p>
+      <p>
+        Favorites and watchlist data are stored locally on your device using UserDefaults and are
+        never transmitted to our servers or any third party.
+      </p>
+      <p>
+        Links to Kalshi and Polymarket within the app open in your system browser. Affiliate links
+        may apply as described in the Affiliate Links section below.
       </p>
 
       <h2>Cookies</h2>
