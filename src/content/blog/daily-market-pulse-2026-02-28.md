@@ -1,5 +1,5 @@
 ---
-title: "Daily Market Pulse: February 28, 2026"
+title: "Daily Market Pulse: February 28, 2026 — Khamenei Gone? Polymarket Hits 91.6%"
 description: "Netanyahu claims Khamenei gone as Polymarket hits 91.6% on Supreme Leader exit by Feb 28—$44M in volume, $11.5M traded today after US-Israeli strikes on Iran"
 pubDate: 2026-02-28
 category: "strategies"

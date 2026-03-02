@@ -1,6 +1,6 @@
 ---
 title: "Daily Market Pulse: February 24, 2026 — Tottenham Dreams and Monetary Policy Reality Collide"
-description: "Stay ahead with today's prediction market insights as Tottenham's championship hopes clash with Fed rate decisions. Expert analysis of sports betting and economic forecasts."
+description: "Tottenham's Premier League title odds surge as Fed rate markets hold steady. Prediction market odds, volume, and analysis across sports and economics."
 pubDate: 2026-02-24
 category: "strategies"
 tags: ["daily", "kalshi", "polymarket"]
