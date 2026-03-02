@@ -1,17 +1,16 @@
 ---
 title: "Will Nikola Jokic win the 2025–2026 NBA Clutch Player of the Year?"
-description: "Will Nikola Jokic win the 2025–2026 NBA Clutch Player of the Year? Odds: 1.4% YES on Polymarket. See live prices and trade this market."
+description: "Will Nikola Jokic win the 2025–2026 NBA Clutch Player of the Year? Odds: 1.6% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Nikola Jokic win the 2025–2026 NBA Clutch Player of the Year?"
 category: "sports"
-status: "settled"
-lastUpdated: 2026-02-28
+status: "active"
+lastUpdated: 2026-03-02
 expiryDate: 2026-06-30
 tags: ["polymarket", "sports"]
-polymarketYes: 1.4
-polymarketNo: 98.6
-polymarketVolume: 9653
+polymarketYes: 1.6
+polymarketNo: 98.5
+polymarketVolume: 9685
 polymarketUrl: "https://polymarket.com/event/nba-2025-26-clutch-player-of-the-year-nikola-jokic"
-analysisDate: 2026-02-28
 ---
 
 # Nikola Jokic 2025-2026 Clutch Player of the Year Analysis

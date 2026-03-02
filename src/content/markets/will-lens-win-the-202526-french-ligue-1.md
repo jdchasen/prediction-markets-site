@@ -3,7 +3,7 @@ title: "Will Lens win the 2025–26 French Ligue 1?"
 description: "Will Lens win the 2025–26 French Ligue 1? Odds: 3.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Lens win the 2025–26 French Ligue 1?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-02
 expiryDate: 2026-05-30
 tags: ["polymarket", "sports"]

@@ -3,7 +3,7 @@ title: "Will Bitcoin reach $1,000,000 by December 31, 2026?"
 description: "Will Bitcoin reach $1,000,000 by December 31, 2026? Odds: 1.6% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Bitcoin reach $1,000,000 by December 31, 2026?"
 category: "crypto"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-02
 expiryDate: 2027-01-01
 tags: ["bitcoin", "crypto", "polymarket"]

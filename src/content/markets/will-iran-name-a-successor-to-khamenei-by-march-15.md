@@ -3,7 +3,7 @@ title: "Will Iran name a successor to Khamenei by March 15?"
 description: "Will Iran name a successor to Khamenei by March 15? Odds: 73.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Iran name a successor to Khamenei by March 15?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-02
 expiryDate: 2026-03-31
 tags: ["politics", "polymarket"]

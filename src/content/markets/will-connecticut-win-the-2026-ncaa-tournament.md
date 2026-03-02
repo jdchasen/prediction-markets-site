@@ -3,7 +3,7 @@ title: "Will Connecticut win the 2026 NCAA Tournament?"
 description: "Will Connecticut win the 2026 NCAA Tournament? Odds: 6.6% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Connecticut win the 2026 NCAA Tournament?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-02
 expiryDate: 2026-04-04
 tags: ["politics", "polymarket"]

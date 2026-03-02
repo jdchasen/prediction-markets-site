@@ -1,17 +1,16 @@
 ---
 title: "Will Taylor Swift be the top Spotify artist for 2026?"
-description: "Will Taylor Swift be the top Spotify artist for 2026? Odds: 9.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Taylor Swift be the top Spotify artist for 2026? Odds: 9.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Taylor Swift be the top Spotify artist for 2026?"
 category: "politics"
-status: "settled"
-lastUpdated: 2026-03-01
+status: "active"
+lastUpdated: 2026-03-02
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 9.5
-polymarketNo: 90.5
-polymarketVolume: 9730
+polymarketYes: 9.0
+polymarketNo: 91.0
+polymarketVolume: 9749
 polymarketUrl: "https://polymarket.com/event/will-taylor-swift-be-the-top-spotify-artist-for-2026"
-analysisDate: 2026-02-28
 ---
 
 # Taylor Swift Spotify Dominance in 2026: A Market Misclassified

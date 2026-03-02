@@ -3,7 +3,7 @@ title: "Will Iran strike three countries in March?"
 description: "Will Iran strike three countries in March? Odds: 1.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Iran strike three countries in March?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-02
 expiryDate: 2026-03-31
 tags: ["politics", "polymarket"]

@@ -9,9 +9,8 @@ expiryDate: 2028-11-07
 tags: ["politics", "polymarket"]
 polymarketYes: 0.9
 polymarketNo: 99.2
-polymarketVolume: 9930131
+polymarketVolume: 9936777
 polymarketUrl: "https://polymarket.com/event/will-steve-bannon-win-the-2028-republican-presidential-nomination"
-analysisDate: 2026-03-02
 ---
 
 The market pricing Steve Bannon at under 1% for the 2028 Republican nomination reflects overwhelming skepticism that the former Trump strategist can translate his media influence into a viable presidential campaign, though his conviction status and ability to mobilize populist voters remain wildcards in an unpredictable primary field.

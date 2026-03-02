@@ -3,7 +3,7 @@ title: "Will Azerbaijan win Eurovision 2026?"
 description: "Will Azerbaijan win Eurovision 2026? Odds: 1.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Azerbaijan win Eurovision 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-02
 expiryDate: 2026-05-16
 tags: ["ai", "politics", "polymarket"]

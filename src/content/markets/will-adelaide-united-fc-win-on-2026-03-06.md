@@ -3,7 +3,7 @@ title: "Will Adelaide United FC win on 2026-03-06?"
 description: "Will Adelaide United FC win on 2026-03-06? Odds: 53.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Adelaide United FC win on 2026-03-06?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-02
 expiryDate: 2026-03-06
 tags: ["ai", "politics", "polymarket"]

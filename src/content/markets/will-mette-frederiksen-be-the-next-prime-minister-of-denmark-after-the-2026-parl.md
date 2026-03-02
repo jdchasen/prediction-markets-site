@@ -3,7 +3,7 @@ title: "Will Mette Frederiksen be the next prime minister of Denmark after the 2
 description: "Will Mette Frederiksen be the next prime minister of Denmark after the 2026 parliamentary elections? Odds: 78.5% YES on Polymarket. See live prices and trade..."
 marketQuestion: "Will Mette Frederiksen be the next prime minister of Denmark after the 2026 parliamentary elections?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-02
 expiryDate: 2026-03-24
 tags: ["elections", "politics", "polymarket"]

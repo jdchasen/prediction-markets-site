@@ -3,7 +3,7 @@ title: "Will Sadegh Larijani be the next Supreme Leader of Iran?"
 description: "Will Sadegh Larijani be the next Supreme Leader of Iran? Odds: 4.3% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Sadegh Larijani be the next Supreme Leader of Iran?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-02
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]

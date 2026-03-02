@@ -1,17 +1,16 @@
 ---
 title: "Puffpaw FDV above $50M one day after launch?"
-description: "Puffpaw FDV above $50M one day after launch? Odds: 63.5% YES on Polymarket. See live prices and trade this market."
+description: "Puffpaw FDV above $50M one day after launch? Odds: 64.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Puffpaw FDV above $50M one day after launch?"
 category: "crypto"
 status: "active"
 lastUpdated: 2026-03-02
 expiryDate: 2027-01-01
 tags: ["crypto", "polymarket"]
-polymarketYes: 63.5
-polymarketNo: 36.5
-polymarketVolume: 988573
+polymarketYes: 64.0
+polymarketNo: 36.0
+polymarketVolume: 991428
 polymarketUrl: "https://polymarket.com/event/puffpaw-fdv-above-50m-one-day-after-launch"
-analysisDate: 2026-03-02
 ---
 
 The market pricing Puffpaw's fully diluted valuation above $50M at 63.5% suggests cautious optimism for this token launch, with traders weighing the project's unique vaping-rewards model against challenging market conditions for new crypto projects in early 2025.

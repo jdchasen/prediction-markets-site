@@ -3,7 +3,7 @@ title: "Will Affirm Holdings (AFRM) be added to the S&P 500 by March 31, 2026?"
 description: "Will Affirm Holdings (AFRM) be added to the S&P 500 by March 31, 2026? Odds: 8.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Affirm Holdings (AFRM) be added to the S&P 500 by March 31, 2026?"
 category: "finance"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-02
 expiryDate: 2026-03-31
 tags: ["finance", "polymarket", "stocks"]

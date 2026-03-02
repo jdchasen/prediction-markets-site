@@ -3,15 +3,14 @@ title: "Will De'Aaron Fox win the 2025–2026 NBA Clutch Player of the Year?"
 description: "Will De'Aaron Fox win the 2025–2026 NBA Clutch Player of the Year? Odds: 0.3% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will De'Aaron Fox win the 2025–2026 NBA Clutch Player of the Year?"
 category: "sports"
-status: "settled"
-lastUpdated: 2026-02-28
+status: "active"
+lastUpdated: 2026-03-02
 expiryDate: 2026-06-30
 tags: ["polymarket", "sports"]
 polymarketYes: 0.3
 polymarketNo: 99.7
-polymarketVolume: 9625
+polymarketVolume: 9792
 polymarketUrl: "https://polymarket.com/event/nba-2025-26-clutch-player-of-the-year-de-aaron-fox"
-analysisDate: 2026-02-28
 ---
 
 # De'Aaron Fox Clutch Player of the Year Analysis

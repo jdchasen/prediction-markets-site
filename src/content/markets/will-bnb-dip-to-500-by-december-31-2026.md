@@ -3,7 +3,7 @@ title: "Will BNB dip to $500 by December 31, 2026?"
 description: "Will BNB dip to $500 by December 31, 2026? Odds: 73.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will BNB dip to $500 by December 31, 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-02
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]

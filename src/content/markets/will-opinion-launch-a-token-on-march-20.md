@@ -3,7 +3,7 @@ title: "Will Opinion launch a token on March 20?"
 description: "Will Opinion launch a token on March 20? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Opinion launch a token on March 20?"
 category: "crypto"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-02
 expiryDate: 2026-04-01
 tags: ["crypto", "polymarket"]
