@@ -29,7 +29,7 @@ faqs:
 
 [Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=blog&utm_campaign=signup) doesn't send you a 1099. It doesn't report your trades to the IRS. And it doesn't calculate your cost basis for you. But if you made money trading on Polymarket, you owe taxes on those gains — and the IRS is paying more attention to crypto income than ever.
 
-Because Polymarket runs on the Polygon blockchain and settles in USDC, your tax situation is meaningfully different from trading on a regulated exchange like [Kalshi](/blog/kalshi-tax-reporting). The burden of tracking, calculating, and reporting falls entirely on you. This guide walks through exactly how to handle it.
+Because Polymarket runs on the Polygon blockchain and settles in USDC, your tax situation is meaningfully different from trading on a regulated exchange like [Kalshi](/blog/kalshi-tax-reporting). If you haven't set up your account yet, our [Polymarket deposit guide](/blog/how-to-deposit-on-polymarket) covers getting USDC onto the platform. The burden of tracking, calculating, and reporting falls entirely on you. This guide walks through exactly how to handle it.
 
 **Disclaimer:** This is educational content, not tax advice. Tax law around crypto prediction markets is evolving. Talk to a CPA for advice specific to your situation.
 
@@ -39,7 +39,7 @@ When you trade on [Kalshi](/blog/kalshi-review), you get a 1099-B at the end of 
 
 Polymarket gives you none of that. No 1099-B. No annual summary. No cost basis calculation. You're responsible for tracking every transaction yourself.
 
-That doesn't mean your gains are invisible to the IRS. They've got blockchain analytics tools and they've been actively going after unreported crypto income. The question isn't whether they *can* find your Polymarket activity — it's whether they *choose* to look. With billions flowing through the platform, the odds of increased scrutiny keep going up.
+That doesn't mean your gains are invisible to the IRS. They've got blockchain analytics tools and they've been actively going after unreported crypto income. This is one of the key tradeoffs of trading on an [unregulated platform](/blog/is-polymarket-legal) versus a CFTC-registered exchange. The question isn't whether they *can* find your Polymarket activity — it's whether they *choose* to look. With billions flowing through the platform, the odds of increased scrutiny keep going up.
 
 ## How Polymarket Gains Are Taxed
 
@@ -106,7 +106,7 @@ Trading on Polymarket requires USDC, which adds an extra layer of transactions t
 2. **Transfer USDC** to your Polygon wallet
 3. **Deposit USDC** into Polymarket
 4. **Trade** on Polymarket
-5. **Withdraw USDC** from Polymarket
+5. **[Withdraw USDC](/blog/polymarket-withdrawal)** from Polymarket
 6. **Transfer USDC** back to an exchange
 7. **Sell USDC** for USD
 
@@ -148,7 +148,7 @@ Had a losing year on Polymarket? Those losses are worth real money at tax time:
 
 This makes tracking losers just as important as tracking winners. Every losing trade reduces your tax bill.
 
-One catch: if your gains get classified as gambling income, losses can only offset gambling winnings and only if you itemize. Another reason to talk to a tax professional about classification.
+One catch: if your gains get classified as gambling income, losses can only offset gambling winnings and only if you itemize. The line between prediction markets and gambling is blurry -- for more on that distinction, see [prediction markets vs sports betting](/blog/prediction-markets-vs-sports-betting-key-differences). Another reason to talk to a tax professional about classification.
 
 ## Gas Fees and Transaction Costs
 
@@ -205,12 +205,12 @@ For pure tax efficiency, Kalshi's the better platform. But Polymarket offers [di
 
 Talk to a CPA if any of these apply:
 
-- Your Polymarket gains exceed $5,000
+- Your Polymarket gains exceed $5,000 (see our guide on [making money on prediction markets](/blog/prediction-markets-making-money) for context on realistic returns)
 - You trade on multiple platforms or exchanges
 - You're not sure whether to classify gains as capital gains or gambling income
 - You've got significant losses to deduct
 - You're a non-US resident trading on Polymarket
-- You used leverage or complex strategies
+- You used leverage or complex [trading strategies](/blog/prediction-market-strategies-finding-edge-as-a-retail-trader)
 
 A crypto-savvy CPA runs $200-$500 for a consultation. Given the lack of clear IRS guidance on crypto prediction markets, professional advice is especially valuable. And the cost's deductible as a tax prep expense.
 

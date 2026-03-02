@@ -16,7 +16,7 @@ faqs:
     answer: "Never risk more than 5% of your bankroll on a single contract, regardless of what Kelly recommends. This hard cap protects against model errors and situations where your probability estimate is significantly wrong."
 ---
 
-You've found a prediction market contract with positive expected value. You're confident in your edge. The question that determines whether you grow your account or blow it up is: how much should you bet? Too little and you leave money on the table. Too much and a run of bad luck wipes you out. The Kelly criterion answers this question with mathematical precision, and it's the position-sizing framework used by virtually every serious prediction market trader.
+You've found a [prediction market](/blog/what-are-prediction-markets) contract with positive expected value. You're confident in your edge. The question that determines whether you grow your account or blow it up is: how much should you bet? Too little and you leave money on the table. Too much and a run of bad luck wipes you out. The Kelly criterion answers this question with mathematical precision, and it's the position-sizing framework used by virtually every serious prediction market trader.
 
 ## What Is the Kelly Criterion?
 
@@ -42,11 +42,11 @@ In prediction markets, the net odds account for both the contract price and plat
 
 **b = ((1 - price) × (1 - feeRate)) / price**
 
-Where `price` is the contract price as a decimal (e.g., $0.40 = 0.40) and `feeRate` is 0.07 for [Kalshi](https://kalshi.com/sign-up/?referral=f2e21ad4-75b7-4ffb-bfcc-f2fb36e07b21&m=true&utm_source=masterpredictionmarkets&utm_medium=blog&utm_campaign=signup) or 0 for [Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=blog&utm_campaign=signup).
+Where `price` is the contract price as a decimal (e.g., $0.40 = 0.40) and `feeRate` is 0.07 for [Kalshi](https://kalshi.com/sign-up/?referral=f2e21ad4-75b7-4ffb-bfcc-f2fb36e07b21&m=true&utm_source=masterpredictionmarkets&utm_medium=blog&utm_campaign=signup) (see our [full fee breakdown](/blog/kalshi-fees-explained)) or 0 for [Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=blog&utm_campaign=signup).
 
 ### Worked Example 1: Weather Contract on Kalshi
 
-A weather contract is trading at $0.40. Your model estimates a 55% probability the event occurs.
+A [weather contract](/blog/how-to-trade-weather-markets-on-kalshi) is trading at $0.40. Your model estimates a 55% probability the event occurs.
 
 1. **Calculate net odds:** b = (0.60 × 0.93) / 0.40 = 0.558 / 0.40 = **1.395**
 2. **Apply Kelly formula:** f = (1.395 × 0.55 - 0.45) / 1.395 = (0.7673 - 0.45) / 1.395 = **22.7%**
@@ -72,7 +72,7 @@ If you estimate 55% probability and the true probability is actually 48%, your e
 
 Full Kelly also produces extreme variance. Even with accurate probability estimates, full Kelly generates drawdowns of 50% or more with uncomfortable frequency. Mathematically, this is expected -- the formula maximizes the log-growth rate, not the smoothness of the equity curve.
 
-This isn't theoretical. Professional traders, hedge funds, and serious sports bettors almost universally use fractional Kelly rather than full Kelly. The growth rate sacrifice is small; the variance reduction is enormous.
+This isn't theoretical. Professional traders, hedge funds, and serious [sports bettors](/blog/prediction-markets-vs-sports-betting-key-differences) almost universally use fractional Kelly rather than full Kelly. The growth rate sacrifice is small; the variance reduction is enormous.
 
 > **Calculate it instantly:** Use our [Kelly Criterion Calculator](/tools/kelly-calculator) to find the optimal bet size for any prediction market trade. Enter your bankroll, contract price, probability estimate, and platform -- it shows full, half, and quarter Kelly with growth rate comparisons.
 
@@ -128,7 +128,7 @@ Kelly fraction is applied to your current bankroll, not your starting bankroll. 
 
 ### 4. Ignoring Estimation Uncertainty
 
-If you estimate 60% probability with high confidence (say, based on a well-calibrated weather model with thousands of backtested data points), half Kelly is reasonable. If you estimate 60% with low confidence (a gut feeling on a political outcome), quarter Kelly or less is appropriate. Your Kelly fraction should scale with the reliability of your probability estimate.
+If you estimate 60% probability with high confidence (say, based on a well-calibrated weather model with thousands of backtested data points), half Kelly is reasonable. If you estimate 60% with low confidence (a gut feeling on a [political outcome](/odds/politics)), quarter Kelly or less is appropriate. Your Kelly fraction should scale with the reliability of your probability estimate.
 
 ## Key Takeaways
 
@@ -138,6 +138,6 @@ If you estimate 60% probability with high confidence (say, based on a well-calib
 - **Cap any single position at 5% of bankroll** regardless of what Kelly recommends.
 - **Scale Kelly to your confidence.** Strong models deserve half Kelly. Gut feelings deserve quarter Kelly or less.
 - **Recalculate as your bankroll changes.** Kelly uses current capital, not starting capital.
-- **Never apply Kelly to negative EV trades.** If Kelly says zero, the trade isn't worth taking.
+- **Never apply Kelly to negative EV trades.** If Kelly says zero, the trade isn't worth taking. For a deeper look at [how contract pricing maps to implied probability](/blog/understanding-event-contract-pricing-and-probability), see our pricing guide.
 
 The Kelly criterion isn't a guarantee of profits. It's a framework for making the mathematically optimal sizing decision given your inputs. Combined with disciplined [edge identification](/blog/prediction-market-strategies-finding-edge-as-a-retail-trader) and rigorous [probability calculation](/blog/how-to-calculate-implied-probability-prediction-markets), it's the closest thing to a formula for long-term success in prediction markets.

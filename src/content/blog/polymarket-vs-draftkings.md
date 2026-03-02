@@ -70,9 +70,9 @@ Want to bet on Mahomes throwing over 2.5 TDs on Sunday? DraftKings, no question.
 
 Polymarket covers what sportsbooks can't or won't:
 
-- **Politics**: Elections, policy decisions, appointments
-- **Economics**: Fed rate decisions, inflation, GDP
-- **Crypto**: Bitcoin targets, ETF approvals, protocol upgrades
+- **Politics**: [Elections, policy decisions, appointments](/odds/politics)
+- **Economics**: [Fed rate decisions, inflation, GDP](/odds/economics)
+- **Crypto**: [Bitcoin targets, ETF approvals, protocol upgrades](/odds/crypto)
 - **Culture**: Award shows, social media, celebrity events
 - **Current events**: Geopolitical stuff, natural disasters, tech launches
 
@@ -120,7 +120,7 @@ Requires crypto:
 3. Connect wallet to Polymarket
 4. Trade
 
-If you've never touched crypto before, this is a real barrier. First time takes 15-30 minutes and involves unfamiliar concepts — wallets, networks, bridging.
+If you've never touched crypto before, this is a real barrier. First time takes 15-30 minutes and involves unfamiliar concepts — wallets, networks, bridging. Our [Polymarket deposit guide](/blog/how-to-deposit-on-polymarket) walks through every step.
 
 [Getting money back out](/blog/polymarket-withdrawal) is similarly multi-step compared to DraftKings' direct bank withdrawal.
 
@@ -154,7 +154,7 @@ This is where DraftKings has a huge structural advantage.
 
 If DraftKings goes under, state regulators have frameworks to protect your deposits. If Polymarket has issues, your USDC in their smart contract has no backstop.
 
-For US bettors who want regulatory protections *with* event markets, [Kalshi](https://kalshi.com/sign-up/?referral=f2e21ad4-75b7-4ffb-bfcc-f2fb36e07b21&m=true&utm_source=masterpredictionmarkets&utm_medium=blog&utm_campaign=signup) offers CFTC-regulated prediction markets — sort of a middle ground between Polymarket's event coverage and DraftKings' regulatory safety.
+For US bettors who want regulatory protections *with* event markets, [Kalshi](https://kalshi.com/sign-up/?referral=f2e21ad4-75b7-4ffb-bfcc-f2fb36e07b21&m=true&utm_source=masterpredictionmarkets&utm_medium=blog&utm_campaign=signup) offers CFTC-regulated prediction markets — sort of a middle ground between Polymarket's event coverage and DraftKings' regulatory safety. See our full [Kalshi review](/blog/kalshi-review) for a detailed walkthrough.
 
 ## When to Use Each
 
@@ -169,7 +169,7 @@ For US bettors who want regulatory protections *with* event markets, [Kalshi](ht
 - You want to trade events sportsbooks don't cover
 - You want zero fees (no vig)
 - You're comfortable with crypto and USDC
-- You're hunting [positive expected value](/blog/can-you-make-money-on-prediction-markets)
+- You're hunting [positive expected value](/blog/prediction-markets-making-money)
 - You're outside the US (or understand the [legal situation](/blog/is-polymarket-legal))
 
 **Use both when:**
@@ -193,6 +193,6 @@ Same win rate. Opposite outcomes. The vig isn't a minor detail — it's the diff
 
 ## The Bottom Line
 
-DraftKings and Polymarket aren't really competitors — they serve different markets with different models. DraftKings is a sportsbook for people who want convenience, a great app, and regulated protection. Polymarket is a trading exchange for people who want zero fees, unique markets, and peer-to-peer pricing.
+DraftKings and Polymarket aren't really competitors — they serve different markets with different models. For a broader look at how prediction markets stack up against traditional betting, see our [prediction markets vs sports betting](/blog/prediction-markets-vs-sports-betting-key-differences) comparison. DraftKings is a sportsbook for people who want convenience, a great app, and regulated protection. Polymarket is a trading exchange for people who want zero fees, unique markets, and peer-to-peer pricing.
 
 The most interesting opportunity? Sports bettors who've never considered prediction markets. If you're consistently paying 5-10% vig on DraftKings and wondering why it's so hard to be profitable, the [exchange model](/blog/what-are-prediction-markets) is worth a look — even if the events are different from what you're used to betting on.

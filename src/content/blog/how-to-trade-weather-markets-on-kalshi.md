@@ -29,9 +29,9 @@ faqs:
     answer: "Yes. Weather markets are ideal for automation because the inputs are numerical forecasts, the pricing math uses straightforward probability distributions, and Kalshi lists dozens of contracts across multiple cities daily."
 ---
 
-Weather markets are one of the most underappreciated corners of [Kalshi](https://kalshi.com/sign-up/?referral=f2e21ad4-75b7-4ffb-bfcc-f2fb36e07b21&m=true&utm_source=masterpredictionmarkets&utm_medium=blog&utm_campaign=signup). Unlike political or crypto markets, where sentiment and narrative drive prices, weather contracts are grounded in hard physical data. Temperatures get recorded. Forecasts converge. Outcomes resolve with minimal ambiguity. That makes weather one of the cleanest prediction market categories for traders who want to build a systematic, data-driven edge.
+Weather markets are one of the most underappreciated corners of [Kalshi](https://kalshi.com/sign-up/?referral=f2e21ad4-75b7-4ffb-bfcc-f2fb36e07b21&m=true&utm_source=masterpredictionmarkets&utm_medium=blog&utm_campaign=signup). Unlike [political](/blog/political-prediction-platforms) or crypto markets, where sentiment and narrative drive prices, weather contracts are grounded in hard physical data. Temperatures get recorded. Forecasts converge. Outcomes resolve with minimal ambiguity. That makes weather one of the cleanest prediction market categories for traders who want to build a systematic, data-driven edge.
 
-I trade these markets daily with an automated bot, and in this guide I will walk through exactly how weather contracts work on Kalshi, how to find mispriced markets, and the practical mistakes to avoid.
+I trade these markets daily with an automated bot, and in this guide I will walk through exactly how weather contracts work on Kalshi, how to find mispriced markets, and the practical mistakes to avoid. If you're new to Kalshi, start with our [full Kalshi review](/blog/kalshi-review) to understand the platform basics first.
 
 ## What Are Weather Markets on Kalshi?
 
@@ -41,7 +41,7 @@ For example, you might see a contract like:
 
 > *Will the daily high temperature in Chicago be above 35 degrees F on February 25?*
 
-You can buy **Yes** if you think the high will exceed 35 degrees, or buy **No** if you think it will stay at or below 35. Each contract settles at either $1.00 (if the outcome occurs) or $0.00 (if it doesn't).
+You can buy **Yes** if you think the high will exceed 35 degrees, or buy **No** if you think it will stay at or below 35. Each contract settles at either $1.00 (if the outcome occurs) or $0.00 (if it doesn't). This is the same binary structure used across all [event contracts](/blog/what-are-event-contracts).
 
 ### Cities and Coverage
 
@@ -55,7 +55,7 @@ That delay matters. It means the platform waits for the authoritative record rat
 
 ## How Pricing Works: Reading the Implied Probability
 
-If a weather contract is trading at **$0.65**, that price implies the market collectively assigns a **65% probability** that the temperature will exceed the strike. A contract at $0.15 implies only a 15% chance.
+If a weather contract is trading at **$0.65**, that price implies the market collectively assigns a **65% probability** that the temperature will exceed the strike. If you're new to reading contract prices as probabilities, our guide on [how to calculate implied probability](/blog/how-to-calculate-implied-probability-prediction-markets) covers the fundamentals. A contract at $0.15 implies only a 15% chance.
 
 This is where the opportunity lives. If your independent analysis says the probability of exceeding the strike is 80%, but the market is pricing it at 65 cents, you have an estimated 15-cent edge on that contract. Buy Yes at $0.65, and if you're right about the true probability, you'll profit over a large sample of trades.
 
@@ -134,9 +134,9 @@ Focus your attention where the forecast models disagree with each other. When GF
 
 ## Risk Management
 
-Weather markets are low-stakes per contract (max loss is whatever you paid), but losses compound quickly if your model is miscalibrated. A few principles:
+Weather markets are low-stakes per contract (max loss is whatever you paid), but losses compound quickly if your model is miscalibrated. Avoiding these losses is one of the [most common mistakes new traders face](/blog/5-common-prediction-market-mistakes-to-avoid). A few principles:
 
-- **Size positions based on edge magnitude**. A 5-cent edge deserves a smaller position than a 20-cent edge. Kelly criterion or a fractional Kelly approach works well here.
+- **Size positions based on edge magnitude**. A 5-cent edge deserves a smaller position than a 20-cent edge. [Kelly criterion](/blog/kelly-criterion-prediction-markets-guide) or a fractional Kelly approach works well here — use our [Kelly Calculator](/tools/kelly-calculator) to find the optimal bet size for a given edge.
 - **Diversify across cities and days**. Don't put all your capital into one city's weather outcome. Spread across multiple uncorrelated markets.
 - **Track your calibration**. If your model says "70% probability" but you're winning only 55% of those trades, your sigma estimate is wrong. Adjust it.
 
@@ -150,4 +150,4 @@ Weather markets are low-stakes per contract (max loss is whatever you paid), but
 - **Automation is a natural fit** -- weather data is numerical, pricing math is simple, and Kalshi lists enough contracts to keep a systematic approach busy.
 - **Calibrate and track performance** relentlessly. Your sigma estimate is your edge. If it's wrong, your profitability disappears.
 
-Weather markets won't make you rich overnight, but they're one of the most intellectually honest trading opportunities on any prediction market platform. Weather is just one of several [strategies that work for retail traders](/blog/prediction-market-strategies-finding-edge-as-a-retail-trader). The data is public, the math is tractable, and the outcomes are unambiguous. If you're willing to put in the work to calibrate a model, the edge is real.
+Weather markets won't make you rich overnight, but they're one of the most intellectually honest trading opportunities on any [prediction market platform](/blog/best-prediction-market-platforms). Weather is just one of several [strategies that work for retail traders](/blog/prediction-market-strategies-finding-edge-as-a-retail-trader). The data is public, the math is tractable, and the outcomes are unambiguous. If you're willing to put in the work to calibrate a model, the edge is real.

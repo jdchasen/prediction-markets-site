@@ -24,7 +24,7 @@ A prediction market is an exchange where participants buy and sell contracts tie
 
 The concept is straightforward: if you believe an event is more likely to occur than the current market price implies, you buy. If you believe it's less likely, you sell. The market price, expressed in cents, represents the crowd's consensus probability that the event will happen.
 
-Prediction markets are sometimes called "event markets," "decision markets," or "information markets." The underlying principle is the same across all of them: aggregate dispersed knowledge by giving people a financial incentive to be right.
+Prediction markets are sometimes called "[event markets](/blog/what-are-event-contracts)," "decision markets," or "information markets." The underlying principle is the same across all of them: aggregate dispersed knowledge by giving people a financial incentive to be right.
 
 ### A Brief History
 
@@ -42,7 +42,7 @@ The most common instrument is the binary contract, sometimes called a "yes/no" c
 - "Will the daily high temperature in New York exceed 50 degrees F tomorrow?"
 - "Will the Federal Reserve cut rates at the March FOMC meeting?"
 
-Each contract trades between $0.01 and $0.99 (one cent to ninety-nine cents). If you buy a "Yes" contract at $0.35, you're paying 35 cents for a contract that will either pay out $1.00 if the event happens, or $0.00 if it doesn't. The price effectively represents a 35% implied probability.
+Each contract trades between $0.01 and $0.99 (one cent to ninety-nine cents). If you buy a "Yes" contract at $0.35, you're paying 35 cents for a contract that will either pay out $1.00 if the event happens, or $0.00 if it doesn't. The price effectively represents a 35% [implied probability](/blog/how-to-calculate-implied-probability-prediction-markets).
 
 ### How Pricing Works
 
@@ -66,7 +66,7 @@ Fees vary by platform, and they matter more than most beginners realize.
 
 **Kalshi** charges a fee on each trade, typically around 7 cents per contract on both sides of a round-trip trade (buying and selling). There's also a fee structure on settlement payouts. These fees are important to factor into any strategy -- a contract bought at $0.50 and sold at $0.55 might look like a 10% gain, but after fees the net profit is significantly smaller.
 
-**Polymarket** operates differently. Since it runs on blockchain infrastructure, there are no platform trading fees on most markets. However, traders face blockchain gas fees for deposits and withdrawals, and the spread between bid and ask prices acts as an implicit cost.
+**Polymarket** operates differently. Since it runs on blockchain infrastructure, there are no platform trading fees on most markets. However, traders face blockchain gas fees for deposits and withdrawals, and the spread between bid and ask prices acts as an implicit cost. Our [Polymarket guide](/blog/polymarket-guide-how-to-trade-crypto-prediction-markets) walks through the full deposit and trading process.
 
 Understanding your platform's fee structure is essential before placing any trades. Strategies that look profitable on paper can become losers after fees are accounted for. For a detailed breakdown, see our guide on [event contract pricing and probability](/blog/understanding-event-contract-pricing-and-probability).
 
@@ -106,7 +106,7 @@ Weather trading is appealing because high-quality forecast data is widely availa
 
 Will the Fed raise, hold, or cut rates? Will CPI come in above or below consensus? Will the S&P 500 close within a specific range today? Economic markets let you trade directly on macroeconomic outcomes that traditionally required complex derivatives to express.
 
-Range markets are particularly interesting. Instead of a single yes/no question, a series of contracts covers different ranges (e.g., "S&P 500 closes between 5,950 and 6,000"). Only one range pays out, creating a probability distribution across outcomes that you can trade against.
+Range markets are particularly interesting. Instead of a single yes/no question, a series of contracts covers different ranges (e.g., "S&P 500 closes between 5,950 and 6,000"). Only one range pays out, creating a probability distribution across outcomes that you can trade against. You can browse [live odds across all market categories](/odds) to see what's currently available.
 
 ### Political and Geopolitical Events
 
@@ -122,7 +122,7 @@ Will Bitcoin reach a certain price by a certain date? Will Ethereum complete a m
 
 ### Step 1: Choose a Platform
 
-If you're a U.S. resident looking for regulatory protection and tax simplicity, start with Kalshi. If you're comfortable with crypto wallets and want access to the broadest range of markets with lower fees, Polymarket is worth exploring. Many active traders use both.
+If you're a U.S. resident looking for regulatory protection and tax simplicity, start with Kalshi. If you're comfortable with crypto wallets and want access to the broadest range of markets with lower fees, Polymarket is worth exploring. Many active traders use both -- our [platform comparison guide](/blog/best-prediction-market-platforms) breaks down the differences.
 
 ### Step 2: Fund Your Account
 
@@ -145,7 +145,7 @@ Start with a market you understand well. If you follow weather closely, try a te
 
 ### Step 5: Develop a Process
 
-Successful prediction market trading isn't about having opinions. It's about identifying situations where the market price diverges from the true probability, and doing so consistently. This requires:
+Successful prediction market trading isn't about having opinions. It's about identifying situations where the market price diverges from the true probability, and doing so consistently. Our [strategies guide](/blog/prediction-market-strategies-finding-edge-as-a-retail-trader) covers the specific approaches that work for retail traders. This requires:
 
 - A reliable source of information or a model that estimates probabilities
 - Discipline to only trade when you have an edge, not when you're bored
@@ -179,7 +179,7 @@ People are notoriously bad at estimating probabilities. Overconfidence, anchorin
 - **Prices represent probabilities.** A contract trading at $0.70 implies a 70% chance the event will occur, as estimated by the market.
 - **Binary contracts settle at $1.00 or $0.00.** You profit by buying low and selling high before settlement, or by holding through settlement on the correct side.
 - **Kalshi is the go-to regulated platform** for U.S. traders, offering CFTC oversight, bank deposits, and tax reporting. Polymarket offers deeper liquidity and lower fees but requires crypto infrastructure and lacks regulatory protection.
-- **Fees matter more than you think.** Always calculate your net profit after fees before deciding whether a trade is worth taking.
+- **Fees matter more than you think.** Always calculate your net profit after fees before deciding whether a trade is worth taking. Our [Kalshi fees guide](/blog/kalshi-fees-explained) has the full breakdown.
 - **Start small and learn the mechanics.** Fund a small account, trade markets you understand, and focus on building a repeatable process before scaling up.
 - **Prediction markets reward discipline, not opinions.** The edge comes from consistently identifying mispricings, not from having strong views on outcomes.
 

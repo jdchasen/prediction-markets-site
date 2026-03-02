@@ -26,7 +26,7 @@ The majority of our profitable trades are exits, not settlements. We buy a contr
 
 Settlement wins do contribute to P&L, but they're inherently volatile. You can have a streak of correct predictions followed by a streak of losses, and the binary nature of the outcomes means there's no partial credit. You're either right and collect $1.00, or wrong and get $0.00.
 
-Exit strategies -- taking profits when the market moves in your direction -- smooth out that volatility. They convert prediction market trading from a series of coin flips into something closer to systematic trading, where edge is captured incrementally over hundreds of small trades.
+Exit strategies -- taking profits when the market moves in your direction -- smooth out that volatility. They convert prediction market trading from a series of coin flips into something closer to systematic trading, where edge is captured incrementally over hundreds of small trades. Understanding [event contract pricing](/blog/understanding-event-contract-pricing-and-probability) is the foundation for knowing when to exit.
 
 ## Where the Money Actually Comes From
 
@@ -40,7 +40,7 @@ This is our single largest source of edge. It's not about being smarter than the
 
 ### 2. Probability Model Edges
 
-Some events have quantifiable probability distributions that the market consistently misprices. Weather is the best example: if you build a calibrated model that converts NWS forecast data into probability estimates, you'll find contracts where the market price diverges from your model's estimate by 10 to 20 cents or more. These are real, repeatable edges.
+Some events have quantifiable probability distributions that the market consistently misprices. Weather is the best example: if you build a calibrated model that converts NWS forecast data into probability estimates, you'll find contracts where the market price diverges from your model's estimate by 10 to 20 cents or more. Our [guide to weather market trading](/blog/how-to-trade-weather-markets-on-kalshi) covers this approach in detail. These are real, repeatable edges.
 
 The catch is that building and maintaining the model takes real work. You need to backtest against historical data, calibrate your forecast error estimates by city and season, and continuously validate that your model is still accurate. This isn't something you can do casually.
 
@@ -90,7 +90,7 @@ Stock trading offers the advantage of long-term market drift (the S&P 500 return
 
 ### vs. Options Trading
 
-Options trading offers more instruments, more strategies, and deeper liquidity -- but also more complexity and more ways to lose money. Event contracts are simpler and have defined risk by construction, but offer fewer strategic possibilities. For traders who find options overwhelming, prediction markets are a more accessible entry point into probability-based trading.
+Options trading offers more instruments, more strategies, and deeper liquidity -- but also more complexity and more ways to lose money. [Event contracts](/blog/what-are-event-contracts) are simpler and have defined risk by construction, but offer fewer strategic possibilities. For traders who find options overwhelming, prediction markets are a more accessible entry point into probability-based trading.
 
 ### vs. Sports Betting
 
@@ -120,10 +120,10 @@ Realistically, an active prediction market trader spends 5 to 15 hours per week 
 
 ## The Honest Bottom Line
 
-Can you make money on prediction markets? Yes. Will you? Probably not, at least not initially. The learning curve is real, the edges are thin, and fees punish undisciplined trading.
+Can you make money on prediction markets? Yes. Will you? Probably not, at least not initially. The learning curve is real, the edges are thin, and fees punish undisciplined trading. Learn [how to calculate implied probability](/blog/how-to-calculate-implied-probability-prediction-markets) and expected value before risking real money.
 
 But if you approach it with realistic expectations -- treating it as a skill to develop rather than a get-rich-quick scheme -- there's genuine opportunity. The markets are young, still growing, and less efficient than mature financial markets. Retail traders with good analytical frameworks and proper risk management can generate consistent, if modest, returns.
 
-Start small, track everything, and focus on markets where you have a genuine informational or analytical advantage. Don't trade every contract that looks interesting. If you want a framework for identifying those opportunities, our [strategy guide for retail traders](/blog/prediction-market-strategies-finding-edge-as-a-retail-trader) is the place to start.
+Start small, track everything, and focus on markets where you have a genuine informational or analytical advantage. Browse [live odds](/odds) to find markets in your areas of expertise. Don't trade every contract that looks interesting. If you want a framework for identifying those opportunities, our [strategy guide for retail traders](/blog/prediction-market-strategies-finding-edge-as-a-retail-trader) is the place to start.
 
 The traders who succeed in prediction markets are the ones who treat it like a business: measure the inputs, track the outputs, cut what isn't working, and scale what is. Our [free trading tools](/tools) can help with the math — from calculating implied probabilities to optimizing position sizes. It's not glamorous. But it works.

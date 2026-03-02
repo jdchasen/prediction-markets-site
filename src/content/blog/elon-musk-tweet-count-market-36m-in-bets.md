@@ -16,9 +16,9 @@ faqs:
     answer: "It depends on your risk tolerance and timeline. The market's pricing in 200-260 tweets (roughly 30 per day) as most likely, but there's massive uncertainty betting two years out. The extreme ranges might offer value if you think there's a higher chance of Elon going manic or quiet than current 1-2% odds suggest."
 ---
 
-Over $36 million has poured into a prediction market betting on how many times Elon Musk will tweet during a single week in February 2026. Yeah, you read that right — people are wagering serious money on Elon's posting habits more than two years in advance.
+Over $36 million has poured into a [prediction market](/blog/what-are-prediction-markets) betting on how many times Elon Musk will tweet during a single week in February 2026. Yeah, you read that right — people are wagering serious money on Elon's posting habits more than two years in advance.
 
-The market's focused on February 24 to March 3, 2026, and the betting action tells a fascinating story. With nearly $12 million traded in just the past 24 hours, this isn't some niche corner of the prediction market world. Traders are taking strong positions on where Elon's tweet volume will land.
+The market's focused on February 24 to March 3, 2026, and the betting action tells a fascinating story. With nearly $12 million traded in just the past 24 hours, this isn't some niche corner of the prediction market world. You can browse this and other trending markets on our [live odds page](/odds). Traders are taking strong positions on where Elon's tweet volume will land.
 
 ## What the Odds Are Saying
 
@@ -48,7 +48,7 @@ Meanwhile, the ranges from 180-259 tweets are seeing steady, confident volume. T
 
 ## How to Think About This Market
 
-The risk/reward here depends entirely on your Elon thesis. If you think he's going to stay heavily engaged on X (the platform he owns, after all), the 200-240 range looks fairly priced at around 20% each. That's implying roughly 5-to-1 odds.
+The risk/reward here depends entirely on your Elon thesis. The [Kelly criterion calculator](/tools/kelly-calculator) can help you figure out how much to wager based on your estimated edge. If you think he's going to stay heavily engaged on X (the platform he owns, after all), the 200-240 range looks fairly priced at around 20% each. That's implying roughly 5-to-1 odds.
 
 But here's the thing: we're betting on February 2026. That's forever in internet time. Elon could sell X, get bored of posting, face new time commitments, or double down even harder. The uncertainty is enormous.
 
@@ -60,12 +60,12 @@ For anyone new to this space, prediction markets work by letting you buy and sel
 
 The obvious catalyst is Elon's actual posting behavior as we get closer to February 2026. If he maintains current volumes (or increases them), the higher ranges will continue gaining probability.
 
-Major business developments matter too. If SpaceX lands a huge contract, if Tesla faces challenges, if X rolls out major new features — all of these could impact his engagement level. The OpenAI defense deal announced today shows how quickly the tech landscape can shift.
+Major business developments matter too. If SpaceX lands a huge contract, if [Tesla faces a merger question](/blog/tesla-spacec-merger-will-it-actually-happen-in-2026), if X rolls out major new features — all of these could impact his engagement level. The OpenAI defense deal announced today shows how quickly the tech landscape can shift.
 
-Political involvement is another factor. If Elon stays engaged in policy discussions or government work, that typically correlates with higher tweet volume. The guy loves a good argument.
+Political involvement is another factor. If Elon stays engaged in policy discussions or government work, that typically correlates with higher tweet volume. [Political prediction markets](/blog/political-prediction-platforms) have been tracking this dynamic closely. The guy loves a good argument.
 
 The real wildcard? Nobody knows what social media looks like in 2026. X could be thriving, dying, or transformed into something completely different. Elon's relationship with the platform he owns is the ultimate variable here.
 
 One thing's certain: traders are voting with real money, and they expect Elon to keep posting heavily. The [common mistakes](/blog/5-common-prediction-market-mistakes-to-avoid) in markets like this include overthinking short-term noise and underestimating how much things can change over two years.
 
-This market's a pure speculation play on one man's behavior two years from now. That's either incredibly stupid or incredibly interesting, depending on your perspective. Given the $36 million in volume, plenty of traders think it's the latter.
+This market's a pure speculation play on one man's behavior two years from now. That's either incredibly stupid or incredibly interesting, depending on your perspective. Given the $36 million in volume, plenty of traders think it's the latter. For more on getting started, check out the [best prediction market platforms](/blog/best-prediction-market-platforms) and see which one suits your style.

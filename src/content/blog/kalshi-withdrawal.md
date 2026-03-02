@@ -23,7 +23,7 @@ faqs:
     answer: "Common causes include unsettled recent deposits (wait 3 business days after depositing), capital tied up in open positions or pending orders, weekend/holiday timing, or bank-side processing delays."
 ---
 
-Getting money into [Kalshi](https://kalshi.com/sign-up/?referral=f2e21ad4-75b7-4ffb-bfcc-f2fb36e07b21&m=true&utm_source=masterpredictionmarkets&utm_medium=blog&utm_campaign=signup) is easy. Getting it out? Also easy -- but there are a few things about the withdrawal process that will save you time and frustration if you know them upfront. After processing hundreds of withdrawals over the past year, here is everything you need to know about moving your money off the platform.
+Getting money into [Kalshi](https://kalshi.com/sign-up/?referral=f2e21ad4-75b7-4ffb-bfcc-f2fb36e07b21&m=true&utm_source=masterpredictionmarkets&utm_medium=blog&utm_campaign=signup) -- the leading [CFTC-regulated prediction market](/blog/is-kalshi-legal) -- is easy. Getting it out? Also easy -- but there are a few things about the withdrawal process that will save you time and frustration if you know them upfront. After processing hundreds of withdrawals over the past year, here is everything you need to know about moving your money off the platform.
 
 ## Withdrawal Methods
 
@@ -41,7 +41,7 @@ The process is straightforward. Navigate to your portfolio page, click withdraw,
 
 Wire transfers are faster but come with a fee. If you need your funds quickly -- say, you want to move capital to another brokerage for an opportunity -- a wire can settle same-day or next business day depending on when you submit it.
 
-The wire transfer fee varies, so check Kalshi's current fee schedule before initiating one. For most retail traders, the fee isn't worth it unless you're moving a large sum and time matters. If you're withdrawing a few hundred dollars, stick with ACH.
+The wire transfer fee varies, so check Kalshi's current fee schedule before initiating one. For most retail traders, the fee isn't worth it unless you're moving a large sum and time matters -- perhaps to [move capital to Polymarket](/blog/how-to-deposit-on-polymarket) for a cross-platform opportunity. If you're withdrawing a few hundred dollars, stick with ACH.
 
 ## Identity Verification and Your First Withdrawal
 
@@ -69,11 +69,11 @@ If you recently deposited via ACH and the deposit hasn't fully settled, Kalshi m
 
 ### 2. Open Positions
 
-Your withdrawable balance is your total account value minus any capital tied up in open positions or pending orders. If you have active trades, the amount available for withdrawal will be less than your total portfolio value. Cancel any orders and close any positions you don't need before withdrawing.
+Your withdrawable balance is your total account value minus any capital tied up in open positions or pending orders. Understanding [how fees affect your balance](/blog/kalshi-fees-explained) helps you predict your withdrawable amount accurately. If you have active trades, the amount available for withdrawal will be less than your total portfolio value. Cancel any orders and close any positions you don't need before withdrawing.
 
 ### 3. Weekend and Holiday Timing
 
-Submitting a withdrawal on Friday afternoon is essentially the same as submitting it on Monday morning from a processing standpoint. If speed matters, initiate withdrawals early in the week -- Monday or Tuesday morning -- to maximize the number of business days before the weekend.
+Submitting a withdrawal on Friday afternoon is essentially the same as submitting it on Monday morning from a processing standpoint. If speed matters, initiate withdrawals early in the week -- Monday or Tuesday morning -- to maximize the number of business days before the weekend. For a broader look at how Kalshi stacks up, see our [best prediction market platforms](/blog/best-prediction-market-platforms) guide.
 
 ### 4. Bank-Side Delays
 
@@ -91,7 +91,7 @@ A few practical tips from someone who does this regularly:
 
 ## Tax Considerations
 
-Kalshi is a CFTC-regulated exchange, which means your trading activity is reportable. Kalshi issues 1099 forms for traders who meet the IRS reporting threshold. Your withdrawals themselves are not taxable events -- the taxable events are your individual trades and settlements throughout the year.
+Kalshi is a CFTC-regulated exchange, which means your trading activity is reportable. Kalshi issues 1099 forms for traders who meet the IRS reporting threshold -- see our [complete Kalshi tax guide](/blog/kalshi-tax-reporting) for details. Your withdrawals themselves are not taxable events -- the taxable events are your individual trades and settlements throughout the year.
 
 That said, keep track of your deposits and withdrawals for your own records. Having a clear ledger of money in and money out makes tax time significantly less painful. Kalshi provides transaction history exports that you can download directly from your account.
 
@@ -103,4 +103,4 @@ There's no publicly stated maximum withdrawal amount, but very large withdrawals
 
 Withdrawing from Kalshi isn't complicated, but understanding the timeline and potential friction points saves headaches. The platform is regulated and your funds are held in segregated accounts, so the money is safe -- it's just a matter of standard banking timelines. For a full breakdown of the platform's features, fees, and markets, check out our [in-depth Kalshi review](/blog/kalshi-review). And if you're still deciding which platform to trade on, our comparison of Kalshi and [Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=blog&utm_campaign=signup) covers [the key differences](/blog/kalshi-vs-polymarket-which-platform-should-you-use) that matter for active traders.
 
-Set up your bank account, verify your identity upfront, and plan your withdrawals around banking hours. That is all there's to it.
+Set up your bank account, verify your identity upfront, and plan your withdrawals around banking hours. That is all there's to it. Ready to start trading? Our [guide to prediction market strategies](/blog/prediction-market-strategies-finding-edge-as-a-retail-trader) covers how to find profitable opportunities on the platform.

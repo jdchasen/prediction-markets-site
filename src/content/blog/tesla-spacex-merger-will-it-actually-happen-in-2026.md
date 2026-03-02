@@ -14,15 +14,15 @@ faqs:
     answer: "Prediction markets like Kalshi and Polymarket offer binary contracts on whether the merger will be officially announced by a specific date. You can buy YES (merger happens) or NO (it doesn't) with defined risk."
 ---
 
-A Tesla-SpaceX merger. Just saying it out loud sounds like the plot of a sci-fi movie written by a finance bro. But it's not science fiction anymore — it's an actively traded contract on [Kalshi](https://kalshi.com/sign-up/?referral=f2e21ad4-75b7-4ffb-bfcc-f2fb36e07b21&m=true&utm_source=masterpredictionmarkets&utm_medium=blog&utm_campaign=signup) and [Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=blog&utm_campaign=signup) with real money behind it. The question isn't "would it be cool?" (obviously) but "is it actually going to happen?"
+A Tesla-SpaceX merger. Just saying it out loud sounds like the plot of a sci-fi movie written by a finance bro. But it's not science fiction anymore — it's an actively traded [event contract](/blog/what-are-event-contracts) on [Kalshi](https://kalshi.com/sign-up/?referral=f2e21ad4-75b7-4ffb-bfcc-f2fb36e07b21&m=true&utm_source=masterpredictionmarkets&utm_medium=blog&utm_campaign=signup) and [Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=blog&utm_campaign=signup) with real money behind it. The question isn't "would it be cool?" (obviously) but "is it actually going to happen?"
 
 [Check the current merger odds here](/odds/tesla-and-spacex-merger-officially-announced-by-june-30). Spoiler: the market has thoughts.
 
 ## What Exactly Are We Betting On?
 
-The contract is specific: will a Tesla-SpaceX merger be **officially announced** by June 30, 2026? Not completed — just announced. That's an important distinction because actually closing a deal this complex would take a year or more after the announcement.
+The contract is specific: will a Tesla-SpaceX merger be **officially announced** by June 30, 2026? Not completed — just announced. That's an important distinction because actually closing a deal this complex would take a year or more after the announcement. Understanding how [prediction market pricing works](/blog/understanding-event-contract-pricing-and-probability) will help you interpret what the contract price actually implies.
 
-For this contract to settle YES, you need an official press release, an SEC filing, or a formal joint statement. Elon tweeting "maybe I should merge them lol" at 2 AM doesn't count. (Yes, this clarification is necessary. Yes, that's partly why we love prediction markets.)
+For this contract to settle YES, you need an official press release, an SEC filing, or a formal joint statement. Elon tweeting "maybe I should merge them lol" at 2 AM doesn't count. (Yes, this clarification is necessary. Yes, that's partly why we love [prediction markets](/blog/what-are-prediction-markets).)
 
 ## Why It Could Happen
 
@@ -60,7 +60,7 @@ Any exchange ratio between Tesla and SpaceX shares would make one side feel shor
 
 SEC review. Potential FTC/DOJ antitrust scrutiny (both companies have government contracts). National security review (SpaceX launches classified satellites). ITAR compliance review (SpaceX makes rockets, which are literally regulated as weapons). Each of these processes takes months, and they don't run in parallel.
 
-Even if both companies wanted to merge tomorrow, the regulatory timeline alone makes June 30 nearly impossible.
+Even if both companies wanted to merge tomorrow, the regulatory timeline alone makes June 30 nearly impossible. If you're comparing platforms for trading this contract, our [Kalshi vs Polymarket comparison](/blog/kalshi-vs-polymarket-which-platform-should-you-use) covers the key differences.
 
 ## How to Think About This Trade
 
@@ -68,9 +68,9 @@ This contract is fundamentally asymmetric. There are two ways to play it:
 
 **The NO trade:** The structural barriers make a June 30 announcement extremely unlikely. If YES is trading at just a few cents, the NO side might not offer enough reward for the risk (you'd be betting 95 cents to make 5). But if YES is priced higher — say 10-15% — the NO trade gets interesting.
 
-**The YES trade as a lottery ticket:** Buying YES at a low price is like buying a cheap option. You'll probably lose, but if Musk somehow pulls it off, your shares go from pennies to a dollar. The expected value depends entirely on whether the market is underpricing the tail risk.
+**The YES trade as a lottery ticket:** Buying YES at a low price is like buying a cheap option. You'll probably lose, but if Musk somehow pulls it off, your shares go from pennies to a dollar. The expected value depends entirely on whether the market is underpricing the tail risk. Use our [probability calculator](/tools/probability-calculator) to check the implied odds against your own estimate.
 
-**The event-driven play:** This might be the smartest approach. Musk tweets and earnings calls can spike the YES price temporarily, even without an actual announcement. Buy low, sell into the hype. You don't need the merger to happen — you just need the market to get excited about it for five minutes.
+**The event-driven play:** This might be the smartest approach. Musk tweets and earnings calls can spike the YES price temporarily, even without an actual announcement. Buy low, sell into the hype. You don't need the merger to happen — you just need the market to get excited about it for five minutes. This is a core [prediction market strategy](/blog/prediction-market-strategies-finding-edge-as-a-retail-trader) that works across many contracts.
 
 ## What Would Actually Signal This Is Real
 
@@ -84,6 +84,6 @@ If a merger is coming, you'll see these signals (in order of reliability):
 
 ## Bottom Line
 
-The Tesla-SpaceX merger is one of those ideas that sounds amazing in theory and faces an absolute wall of practical obstacles. The synergies are real. The legal, regulatory, and valuation challenges are also very real — and they're probably insurmountable by June 30.
+The Tesla-SpaceX merger is one of those ideas that sounds amazing in theory and faces an absolute wall of practical obstacles. For another Musk-related market with massive volume, check out the [$36M Elon tweet count market](/blog/elon-musk-tweet-count-market-36m-in-bets). The synergies are real. The legal, regulatory, and valuation challenges are also very real — and they're probably insurmountable by June 30.
 
-[Check the live odds](/odds/tesla-and-spacex-merger-officially-announced-by-june-30) and decide for yourself. Just remember: when it comes to Elon Musk, never say never. But also maybe don't bet the house on it.
+[Check the live odds](/odds/tesla-and-spacex-merger-officially-announced-by-june-30) and decide for yourself. If you're weighing multiple positions, the [Kelly criterion calculator](/tools/kelly-calculator) can help you figure out how much to risk. Just remember: when it comes to Elon Musk, never say never. But also maybe don't bet the house on it.

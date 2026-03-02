@@ -27,7 +27,7 @@ faqs:
     answer: "Yes. Fees paid on Kalshi are added to your cost basis, which reduces your reported taxable gains. If you buy a contract for $0.50 and pay $0.02 in fees, your cost basis is $0.52."
 ---
 
-Nobody gets into prediction markets because they're excited about tax reporting. But if you're making money on [Kalshi](https://kalshi.com/sign-up/?referral=f2e21ad4-75b7-4ffb-bfcc-f2fb36e07b21&m=true&utm_source=masterpredictionmarkets&utm_medium=blog&utm_campaign=signup) -- or even if you're losing money -- the IRS expects you to report it. And because Kalshi is a [CFTC-regulated exchange](/blog/is-kalshi-legal), it reports your activity directly to the IRS, so this isn't something you can quietly ignore.
+Nobody gets into [prediction markets](/blog/what-are-prediction-markets) because they're excited about tax reporting. But if you're making money on [Kalshi](https://kalshi.com/sign-up/?referral=f2e21ad4-75b7-4ffb-bfcc-f2fb36e07b21&m=true&utm_source=masterpredictionmarkets&utm_medium=blog&utm_campaign=signup) -- or even if you're losing money -- the IRS expects you to report it. And because Kalshi is a [CFTC-regulated exchange](/blog/is-kalshi-legal), it reports your activity directly to the IRS, so this isn't something you can quietly ignore.
 
 The good news is that the tax treatment of event contracts on a regulated exchange is more favorable than most people expect. The bad news is that the rules are not perfectly settled, and getting it right requires some attention to detail. This guide covers everything you need to know to file correctly and avoid surprises.
 
@@ -46,11 +46,11 @@ The 1099-B will show:
 
 Kalshi typically makes these forms available in your account by mid-February for the prior tax year. Download them as soon as they're available and reconcile them against your own records. Mistakes happen, and it's much easier to fix discrepancies before you file than after.
 
-If your total proceeds are below the IRS reporting threshold, Kalshi may not issue a 1099-B. **You're still required to report your gains and losses regardless of whether you receive a form.** The IRS reporting obligation is on you, not on whether the exchange sends you paperwork.
+If your total proceeds are below the IRS reporting threshold, Kalshi may not issue a 1099-B. **You're still required to report your gains and losses regardless of whether you receive a form.** The IRS reporting obligation is on you, not on whether the exchange sends you paperwork. For a full overview of the platform, see our [Kalshi review](/blog/kalshi-review).
 
 ## How Kalshi Gains Are Classified
 
-This is where it gets nuanced. Event contracts on Kalshi could potentially be classified under a few different tax treatments, and the IRS hasn't issued definitive guidance specific to CFTC-regulated event contracts as of early 2026. Here are the two most likely treatments:
+This is where it gets nuanced. [Event contracts](/blog/what-are-event-contracts) on Kalshi could potentially be classified under a few different tax treatments, and the IRS hasn't issued definitive guidance specific to CFTC-regulated event contracts as of early 2026. Here are the two most likely treatments:
 
 ### Option 1: Section 1256 Contracts (60/40 Treatment)
 
@@ -117,7 +117,7 @@ If your Kalshi losses are treated as capital losses, you can deduct them against
 If your Kalshi contracts qualify as Section 1256, you get an additional benefit: net losses can be **carried back up to three years** and applied against Section 1256 gains from those prior years. This can generate a tax refund for a year you've already filed, which is a uniquely powerful feature of Section 1256 treatment.
 
 ### Trader Tax Status
-If you trade frequently enough and meet certain IRS criteria (trading is your primary activity, you trade on most business days, etc.), you may qualify for **trader tax status**. This allows you to deduct trading-related expenses (software, data feeds, home office) as business expenses and potentially elect mark-to-market accounting. This is an advanced strategy that requires professional guidance.
+If you trade frequently enough and meet certain IRS criteria (trading is your primary activity, you trade on most business days, etc.) -- perhaps using [automated trading systems](/blog/how-to-use-apis-for-automated-prediction-market-trading) -- you may qualify for **trader tax status**. This allows you to deduct trading-related expenses (software, data feeds, home office) as business expenses and potentially elect mark-to-market accounting. This is an advanced strategy that requires professional guidance.
 
 ## Estimated Quarterly Tax Payments
 
@@ -137,7 +137,7 @@ If you're making a few thousand dollars per year on Kalshi and have a W-2 job wi
 
 ## Comparison to Unregulated Platforms
 
-One of the practical advantages of trading on a regulated exchange like Kalshi is clean tax reporting. Kalshi issues a 1099, maintains detailed transaction records, and calculates your cost basis. Compare that to crypto-native platforms like [Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=blog&utm_campaign=signup), where you're responsible for tracking every blockchain transaction, calculating cost basis across USDC movements, and reporting everything yourself.
+One of the practical advantages of trading on a regulated exchange like Kalshi is clean tax reporting. Kalshi issues a 1099, maintains detailed transaction records, and calculates your cost basis. Compare that to crypto-native platforms like [Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=blog&utm_campaign=signup) (see our [Polymarket tax guide](/blog/polymarket-taxes) for details), where you're responsible for tracking every blockchain transaction, calculating cost basis across USDC movements, and reporting everything yourself.
 
 On unregulated platforms, you still owe taxes on your gains -- the IRS doesn't care whether the platform reports it or not. But the burden of record keeping and calculation falls entirely on you, and mistakes are easier to make.
 
@@ -160,7 +160,7 @@ Some traders assume that because [Polymarket or other crypto platforms](/platfor
 If any of the following apply to you, it's time to talk to a CPA who understands derivatives or financial instruments:
 
 - Your annual Kalshi gains exceed $5,000
-- You trade on multiple platforms (Kalshi, Polymarket, etc.)
+- You trade on [multiple platforms](/blog/kalshi-vs-polymarket-which-platform-should-you-use) (Kalshi, Polymarket, etc.)
 - You want to claim Section 1256 treatment
 - You're considering trader tax status
 - You have significant losses you want to deduct

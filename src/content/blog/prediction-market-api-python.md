@@ -27,7 +27,7 @@ faqs:
     answer: "Polymarket's CLOB (Central Limit Order Book) API allows programmatic trading using USDC on the Polygon blockchain. It requires managing crypto wallets and signing transactions, adding complexity compared to Kalshi's traditional REST API."
 ---
 
-If you've been trading prediction markets manually -- refreshing pages, eyeballing prices, clicking buy buttons -- you're leaving money on the table. The edge in prediction markets often comes from speed and consistency: checking dozens of markets every few minutes, spotting mispriced contracts before the crowd, and executing without hesitation. You can't do that by hand. You need code.
+If you've been trading [prediction markets](/blog/what-are-prediction-markets) manually -- refreshing pages, eyeballing prices, clicking buy buttons -- you're leaving money on the table. The edge in prediction markets often comes from speed and consistency: checking dozens of markets every few minutes, spotting mispriced contracts before the crowd, and executing without hesitation. You can't do that by hand. You need code.
 
 This tutorial walks you through building a practical Python script that connects to the [Kalshi](https://kalshi.com/sign-up/?referral=f2e21ad4-75b7-4ffb-bfcc-f2fb36e07b21&m=true&utm_source=masterpredictionmarkets&utm_medium=blog&utm_campaign=signup) API, fetches live market data, analyzes prices, and places orders. By the end, you'll have a working price-checker that runs on a schedule and a foundation you can extend into a full trading bot.
 
@@ -38,7 +38,7 @@ We run automated trading systems on prediction markets every day. This guide ref
 Before you start, you'll need:
 
 - **Python 3.9+** installed
-- **A Kalshi account** with API access enabled
+- **A [Kalshi account](/blog/kalshi-review)** with API access enabled
 - **Basic Python knowledge** (variables, functions, HTTP requests)
 - The `requests` and `schedule` libraries (`pip install requests schedule`)
 
@@ -455,13 +455,13 @@ Polymarket's API documentation is available on their GitHub. The [full guide to 
 
 This tutorial gives you the foundation. Here are practical next steps:
 
-1. **Automated fair value models.** Replace the hardcoded fair values in the watchlist with models that pull external data (weather forecasts, financial data, polls) and calculate probabilities dynamically.
+1. **Automated fair value models.** Replace the hardcoded fair values in the watchlist with models that pull external data (weather forecasts, financial data, polls) and [calculate probabilities](/blog/how-to-calculate-implied-probability-prediction-markets) dynamically.
 
 2. **Auto-execution.** When the price checker detects an opportunity above your edge threshold, have it automatically place a limit order instead of just printing an alert.
 
-3. **Position management.** Build a loop that monitors your open positions and automatically places sell orders when your profit target is hit or when your model's fair value shifts against you.
+3. **Position management.** Build a loop that monitors your open positions and automatically places sell orders when your profit target is hit or when your model's fair value shifts against you. The [Kelly criterion](/blog/kelly-criterion-prediction-markets-guide) can inform your sizing logic.
 
-4. **Multi-market scanning.** Instead of a static watchlist, scan all open markets on Kalshi, filter for categories you understand, and rank them by estimated edge.
+4. **Multi-market scanning.** Instead of a static watchlist, scan all open markets on Kalshi, filter for categories you understand, and rank them by estimated edge. Our [live odds page](/odds) shows you which markets are active across platforms.
 
 5. **Logging and P&L tracking.** Log every trade, every price check, and every decision to a file or database. You can't improve what you can't measure.
 
@@ -470,7 +470,7 @@ If you're serious about building a trading system, study the [strategies that wo
 ## Common Pitfalls
 
 - **Testing with real money.** Use small sizes (1-2 contracts) until your code is battle-tested. A loop that places orders instead of canceling them can drain your account in seconds.
-- **Ignoring fees.** Every order costs $0.02 per contract. Your code needs to account for fees when calculating expected profit. A trade that looks profitable before fees might be a loser after them.
+- **Ignoring [fees](/blog/kalshi-fees-explained).** Every order costs $0.02 per contract. Your code needs to account for fees when calculating expected profit. A trade that looks profitable before fees might be a loser after them.
 - **Not handling API errors.** Networks fail, tokens expire, rate limits hit. Every API call should have error handling. Silent failures are worse than loud crashes.
 - **Over-trading.** It's easy to build a bot that trades constantly. It's hard to build one that only trades when there's genuine edge. Restraint is a feature, not a limitation.
 

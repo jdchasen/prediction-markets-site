@@ -18,7 +18,7 @@ faqs:
 
 The prediction market for Iran's Supreme Leader Ayatollah Khamenei stepping down by February 28 has basically locked in at 99.9%. We're talking about $85 million in total volume, with over $62 million traded in just the last 24 hours alone.
 
-That's not normal activity. That's panic buying, informed speculation, or someone who knows something the rest of us don't.
+That's not normal activity. That's panic buying, informed speculation, or someone who knows something the rest of us don't. You can see how this market fits into the broader landscape on our [live odds page](/odds).
 
 With US-Israeli strikes hitting Iran, flights being cancelled across the region, and at least 148 dead after a reported strike on a school, the question isn't whether something massive is happening in Iran. It's whether Khamenei's grip on power is about to slip.
 
@@ -28,7 +28,7 @@ The escalation is real and it's fast. US and Israeli forces have launched coordi
 
 According to Iranian sources, 148 people were killed in what they're calling a strike on a school. Trump is doubling down, with Axios reporting his "Iran gamble is different than past regime overthrows." The New York Times is fact-checking his justifications, which tells you how much of the narrative is being contested in real-time.
 
-The question for prediction market traders: does military pressure from outside equal regime change inside? History says it's complicated.
+The question for prediction market traders: does military pressure from outside equal regime change inside? History says it's complicated. For a broader look at [political prediction platforms](/blog/political-prediction-platforms) and the geopolitical markets they host, see our overview.
 
 ## Breaking Down the 99.9% Odds
 
@@ -58,7 +58,7 @@ The Guardian is analyzing what US-Israeli strikes mean for oil prices, which tel
 
 Trump's approach is reportedly different from past regime change attempts, suggesting either better planning or at least the belief among his advisors that this time could work. That's the kind of factor that moves prediction markets when traders believe the White House has intelligence they don't.
 
-For traders on [Kalshi](https://kalshi.com/sign-up/?referral=f2e21ad4-75b7-4ffb-bfcc-f2fb36e07b21&m=true&utm_source=masterpredictionmarkets&utm_medium=blog&utm_campaign=signup) or Polymarket, the question becomes whether you trust the market consensus or see exploitable mispricing.
+For traders on [Kalshi](https://kalshi.com/sign-up/?referral=f2e21ad4-75b7-4ffb-bfcc-f2fb36e07b21&m=true&utm_source=masterpredictionmarkets&utm_medium=blog&utm_campaign=signup) or Polymarket, the question becomes whether you trust the market consensus or see exploitable mispricing. Our [Kalshi vs Polymarket comparison](/blog/kalshi-vs-polymarket-which-platform-should-you-use) covers which platform is better suited for high-stakes geopolitical bets.
 
 ## What Could Move These Odds Next
 
@@ -82,8 +82,8 @@ This isn't a market for beginners or anyone looking to learn [what are predictio
 
 If you're considering NO at 0.1%, you're making a max-risk, minimal-reward bet that requires near-perfect accuracy. One mistake and you lose everything. That's not how smart prediction market traders typically operate—avoiding [common mistakes](/blog/5-common-prediction-market-mistakes-to-avoid) means respecting when odds are too extreme to offer value.
 
-The YES side offers no value at all unless you literally have inside information about Khamenei's health or location. At 99.9%, you're essentially donating money to the platform in exchange for feeling like you're part of the action.
+The YES side offers no value at all unless you literally have inside information about Khamenei's health or location. At 99.9%, you're essentially donating money to the platform in exchange for feeling like you're part of the action. Understanding [event contract pricing](/blog/understanding-event-contract-pricing-and-probability) helps explain why extreme odds like these offer terrible risk/reward.
 
 The smartest play might be sitting this one out entirely and watching what happens. Sometimes the best bet is no bet, especially when massive volume has pushed odds to extremes that don't reflect realistic probabilities.
 
-Whatever you decide, the next two weeks will tell us whether $85 million in trader confidence was justified or whether this becomes a case study in how quickly prediction markets can missprice low-probability events during crisis moments.
+Whatever you decide, the next two weeks will tell us whether $85 million in trader confidence was justified or whether this becomes a case study in how quickly prediction markets can missprice low-probability events during crisis moments. This market was one of several headline-grabbing bets covered in our [top Polymarket markets of February 2026](/blog/top-polymarket-markets-february-2026) roundup.

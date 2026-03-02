@@ -27,7 +27,7 @@ faqs:
     answer: "There's no minimum withdrawal set by Polymarket. But gas fees and bridge costs make very small withdrawals impractical — withdrawing less than $10 might cost more in fees than it's worth. Better to batch your withdrawals."
 ---
 
-You won your bet on [Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=blog&utm_campaign=signup). Your shares settled at $1.00 and now you've got USDC sitting in your account. The problem? USDC in a Polymarket smart contract doesn't pay your rent. You need to get it into your bank account as actual dollars.
+You won your bet on [Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=blog&utm_campaign=signup). Your shares settled at $1.00 and now you've got USDC sitting in your account. (If you're still figuring out how to fund your account in the first place, see our [Polymarket deposit guide](/blog/how-to-deposit-on-polymarket).) The problem? USDC in a [Polymarket](/blog/polymarket-guide-how-to-trade-crypto-prediction-markets) smart contract doesn't pay your rent. You need to get it into your bank account as actual dollars.
 
 Unlike [Kalshi](/blog/kalshi-withdrawal), where you click "withdraw" and money shows up in your bank via ACH, Polymarket takes a few extra steps because it runs on crypto rails. It's not hard, but if you've never moved crypto between wallets and exchanges before, it can feel intimidating. This guide walks through everything.
 
@@ -45,11 +45,11 @@ Each step has different costs and timing. The whole thing typically takes 1-3 da
 
 Before you can withdraw, your USDC needs to be available — not locked up in active positions. Two options:
 
-**Sell your shares on the market.** Head to your Portfolio, find the position, and sell. You'll get USDC immediately at whatever the current market price is. Fastest option, but you might not love the price if liquidity's thin.
+**Sell your shares on the market.** Head to your Portfolio, find the position, and sell. You'll get USDC immediately at whatever the current market price is. Check the [implied probability](/blog/how-to-calculate-implied-probability-prediction-markets) before selling to make sure you're not giving up too much edge. Fastest option, but you might not love the price if liquidity's thin.
 
 **Wait for settlement.** If the event's close to resolving, just wait. Winning shares pay out $1.00 each, losers pay $0.00, and it's all automatic — the USDC shows up in your available balance.
 
-Once your USDC is free, you're ready to withdraw.
+Once your USDC is free, you're ready to withdraw. (If you're new to how prediction market contracts settle, our [what are event contracts](/blog/what-are-event-contracts) guide explains the mechanics.)
 
 ## Step 2: Withdraw from Polymarket to Your Wallet
 
@@ -146,7 +146,7 @@ Withdrawing itself isn't a taxable event. But selling your Polymarket shares (at
 
 ### Leaving Large Balances Sitting in Polymarket
 
-Your USDC sits in a smart contract, not a bank account. There's no FDIC insurance, no segregated fund protection. If there's a smart contract exploit or Polymarket has operational problems, your funds are at risk. Pull profits out regularly instead of letting them pile up.
+Your USDC sits in a smart contract, not a bank account. There's no FDIC insurance, no segregated fund protection. This is one of the key differences between Polymarket and [regulated platforms](/blog/best-prediction-market-platforms). If there's a smart contract exploit or Polymarket has operational problems, your funds are at risk. Pull profits out regularly instead of letting them pile up.
 
 ## Tips for Smoother Withdrawals
 
@@ -160,4 +160,4 @@ Your USDC sits in a smart contract, not a bank account. There's no FDIC insuranc
 
 Getting money out of Polymarket isn't as clean as a traditional exchange, but it's not hard once you've done it once. The Coinbase + Polygon route is the fastest and cheapest for most people. The whole thing — selling shares to dollars in your bank — takes 1-3 days and costs anywhere from zero to $20.
 
-If the multi-step process sounds annoying, you might prefer [Kalshi](/blog/kalshi-review) for its one-click withdrawals. If you value Polymarket's [deeper liquidity and broader markets](/blog/kalshi-vs-polymarket-which-platform-should-you-use), the withdrawal process is a minor hassle for what you get in return.
+If the multi-step process sounds annoying, you might prefer [Kalshi](/blog/kalshi-review) for its one-click withdrawals. If you value Polymarket's [deeper liquidity and broader markets](/blog/kalshi-vs-polymarket-which-platform-should-you-use), the withdrawal process is a minor hassle for what you get in return. Once you're comfortable with the mechanics, focus on [finding real edge](/blog/prediction-market-strategies-finding-edge-as-a-retail-trader) to make those withdrawals worth the effort.

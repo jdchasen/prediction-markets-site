@@ -54,11 +54,11 @@ Polymarket runs on the Polygon blockchain, which means you'll need USDC (a dolla
 
 The bigger consideration: Polymarket isn't regulated by any US financial authority. There's no FDIC insurance, no CFTC oversight, and limited recourse if something goes wrong with market resolution. For most traders, the deep liquidity and zero fees make the tradeoff worth it. But it's worth understanding what you're giving up. We break this down in detail in [Is Polymarket Legal?](/blog/is-polymarket-legal)
 
-There are also no trading fees on Polymarket, which is a massive advantage over every other platform on this list. That zero-fee structure means thin edges that would be unprofitable on Kalshi or PredictIt can still work here.
+There are also no trading fees on Polymarket, which is a massive advantage over every other platform on this list. That zero-fee structure means thin edges that would be unprofitable on Kalshi or PredictIt can still work here. You can compare [platform fee structures](/compare) in detail.
 
 ## Kalshi: Regulated Political Markets
 
-[Kalshi](https://kalshi.com/sign-up/?referral=f2e21ad4-75b7-4ffb-bfcc-f2fb36e07b21&m=true&utm_source=masterpredictionmarkets&utm_medium=blog&utm_campaign=signup) made history in 2024 when it won a federal court battle against the CFTC to list election contracts. That ruling established that political event contracts are legal, regulated financial instruments — not gambling.
+[Kalshi](https://kalshi.com/sign-up/?referral=f2e21ad4-75b7-4ffb-bfcc-f2fb36e07b21&m=true&utm_source=masterpredictionmarkets&utm_medium=blog&utm_campaign=signup) made history in 2024 when it won a federal court battle against the CFTC to list election contracts. That ruling established that political [event contracts](/blog/what-are-event-contracts) are legal, regulated financial instruments — not gambling.
 
 As a CFTC-regulated exchange, Kalshi offers protections that Polymarket can't: segregated customer funds, regulatory oversight, and tax reporting via 1099. If you're a US-based trader who wants to bet on political outcomes without touching crypto or worrying about regulatory gray areas, Kalshi is the straightforward choice.
 

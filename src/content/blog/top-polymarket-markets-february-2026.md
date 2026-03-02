@@ -14,7 +14,7 @@ faqs:
     answer: "February 2026 was dominated by Iran geopolitics (Khamenei regime change at 97%), US-Iran military strikes, Elon Musk tweet count speculation ($36M wagered), and the Fed's March rate decision (94% chance of no change). The 2028 presidential race also saw heavy early action."
 ---
 
-February 2026 was one of the wildest months in Polymarket's history. US airstrikes on Iran sent regime change odds to 97%. Traders wagered $36 million on how many times Elon Musk would tweet in a single week. And the Fed held rates steady while traders started positioning for the 2028 presidential race — three years early.
+February 2026 was one of the wildest months in Polymarket's history. US airstrikes on Iran sent [regime change odds to 97%](/blog/will-khamenei-lose-power-market-shows-999-odds). Traders wagered [$36 million on how many times Elon Musk would tweet](/blog/elon-musk-tweet-count-market-36m-in-bets) in a single week. And the Fed held rates steady while traders started positioning for the 2028 presidential race — three years early.
 
 Here's a rundown of the biggest markets that defined the month on [Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=blog&utm_campaign=signup).
 
@@ -44,7 +44,7 @@ This aligns with the broader macro picture — inflation remains sticky, the eco
 
 Speaking of which — the "Who will Trump nominate as Fed Chair?" market has attracted a staggering $551M in total volume, making it one of the highest-volume markets Polymarket has ever hosted. Kevin Warsh is the overwhelming favorite at 91%.
 
-This is a market where early positioning paid off. Warsh was priced much lower months ago, and traders who got in early have seen massive returns as the odds compressed.
+This is a market where early positioning paid off. Warsh was priced much lower months ago, and traders who got in early have seen massive returns as the odds compressed. This kind of early-mover edge is exactly what we cover in our guide on [prediction market strategies](/blog/prediction-market-strategies-finding-edge-as-a-retail-trader).
 
 ## 2028 Presidential Race: Already $733M in Volume
 
@@ -59,7 +59,7 @@ Sports markets continued to see massive liquidity:
 - **2026 FIFA World Cup Winner**: $223M total volume, Spain favored at 15%
 - **English Premier League Winner**: $276M total volume
 
-These markets consistently rank among Polymarket's highest-volume offerings, driven by global interest and ongoing season-long betting.
+These markets consistently rank among Polymarket's highest-volume offerings, driven by global interest and ongoing season-long betting. You can compare sports odds across platforms on our [live odds page](/odds).
 
 ## Venezuela: Political Transition at $69M
 
@@ -67,7 +67,7 @@ The Venezuela leadership market has attracted $68.6M in total volume, with Marí
 
 ## Bitcoin: Where Does It Go From Here?
 
-The "What price will Bitcoin hit in February?" market pulled in $121M in total volume, though by month's end the extreme targets ($120K+, $150K+) had all collapsed to 0%. Bitcoin spent February trading well below those aspirational levels, and traders have adjusted accordingly.
+The "What price will Bitcoin hit in February?" market pulled in $121M in total volume, though by month's end the extreme targets ($120K+, $150K+) had all collapsed to 0%. For a deeper look at BTC price predictions, see our analysis of whether [Bitcoin will hit $75,000 in 2026](/blog/will-bitcoin-hit-75000-in-2026-price-prediction-and-market-odds). Bitcoin spent February trading well below those aspirational levels, and traders have adjusted accordingly.
 
 ## Vietnam Leadership Transition
 
@@ -81,7 +81,7 @@ A few things stood out:
 
 **Novelty markets went mainstream.** The $66M wagered on Elon's tweet count shows that Polymarket's appeal goes far beyond traditional political betting. When someone asks [what prediction markets are](/blog/what-are-prediction-markets), this is the kind of market that captures attention.
 
-**Early 2028 positioning is real.** Over $1 billion in combined volume on 2028 election markets — three years before the vote — signals that prediction markets are becoming a permanent fixture of the political landscape, not just a novelty during election season.
+**Early 2028 positioning is real.** Over $1 billion in combined volume on 2028 election markets — three years before the vote — signals that prediction markets are becoming a permanent fixture of the [political landscape](/blog/political-prediction-platforms), not just a novelty during election season.
 
 ## How to Trade These Markets
 
@@ -89,4 +89,4 @@ If you're new to Polymarket, start with our [complete Polymarket guide](/blog/po
 
 For US-based traders who want similar markets with regulatory protection, [Kalshi](https://kalshi.com/sign-up/?referral=f2e21ad4-75b7-4ffb-bfcc-f2fb36e07b21&m=true&utm_source=masterpredictionmarkets&utm_medium=blog&utm_campaign=signup) offers CFTC-regulated event contracts on economics, weather, crypto, and more. Check our [Kalshi vs Polymarket comparison](/blog/kalshi-vs-polymarket-which-platform-should-you-use) to see which platform fits your needs.
 
-And if you made money this month, don't forget — [Polymarket doesn't send you a 1099](/blog/polymarket-taxes). You're responsible for tracking your own gains.
+And if you made money this month, don't forget — [Polymarket doesn't send you a 1099](/blog/polymarket-taxes). You're responsible for tracking your own gains. Need to [withdraw your profits](/blog/polymarket-withdrawal)? We've got a guide for that too.

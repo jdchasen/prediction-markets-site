@@ -16,7 +16,7 @@ faqs:
 
 Forget your office Oscar pool. Forget the guy on Film Twitter who's "never wrong." If you want the most accurate 2026 Oscar predictions available, look at where people are betting real money.
 
-Prediction markets have been outperforming expert panels at forecasting Oscar winners for over a decade. The reason is simple: when you have to bet your own cash on who's winning Best Supporting Actress, you get honest pretty fast. No hot takes for engagement, no hedging with "it could go either way" — just cold, hard probabilities backed by dollars.
+[Prediction markets](/blog/what-are-prediction-markets) have been outperforming expert panels at forecasting Oscar winners for over a decade. The reason is simple: when you have to bet your own cash on who's winning Best Supporting Actress, you get honest pretty fast. No hot takes for engagement, no hedging with "it could go either way" — just cold, hard [implied probabilities](/blog/how-to-calculate-implied-probability-prediction-markets) backed by dollars.
 
 Here's what the markets are saying about the biggest races at the 98th Academy Awards.
 
@@ -56,11 +56,11 @@ A few things working in his favor:
 
 ### The Upset Risk
 
-This category has produced some legendary upsets. Sometimes a veteran actor with a decades-long career gets the "it's their time" vote. Sometimes a late-surging performance catches fire in the final week. Keep an eye on how the prediction market price moves in the days before voting closes — sudden shifts often signal insider knowledge filtering into the market.
+This category has produced some legendary upsets. Sometimes a veteran actor with a decades-long career gets the "it's their time" vote. Sometimes a late-surging performance catches fire in the final week. Keep an eye on how the [event contract price](/blog/understanding-event-contract-pricing-and-probability) moves in the days before voting closes — sudden shifts often signal insider knowledge filtering into the market.
 
 ## Best Costume Design: Frankenstein
 
-Here's where it gets fun. The craft categories are the hidden gem of Oscar prediction markets — less attention, fewer traders, and often more opportunities to find mispriced odds.
+Here's where it gets fun. The craft categories are the hidden gem of Oscar prediction markets — less attention, fewer traders, and often more opportunities to find mispriced odds. This is how [making money in prediction markets](/blog/prediction-markets-making-money) actually works: find markets where the crowd isn't paying attention.
 
 [See Frankenstein's odds for Best Costume Design](/odds/will-frankenstein-win-best-costume-design-at-the-98th-academy-awards).
 
@@ -80,7 +80,7 @@ Pretty damn accurate, actually:
 - **Moderate favorites** (50-70%) win around 55-65% of the time
 - **Genuine upsets** (winner priced below 30%) happen in maybe 5-10% of categories per year
 
-That calibration is solid — when the market says 70%, it happens about 70% of the time. It's hard to consistently beat, but opportunities exist, especially in the less-liquid categories where fewer people are paying close attention.
+That calibration is solid — when the market says 70%, it happens about 70% of the time. It's hard to consistently beat, but opportunities exist, especially in the less-liquid categories where fewer people are paying close attention. Our [probability calculator](/tools/probability-calculator) can help you convert contract prices into true edge estimates.
 
 ## The Oscar Prediction Market Calendar
 
@@ -91,10 +91,10 @@ If you're going to trade Oscar contracts, timing matters:
 - **Final voting week:** Most efficient pricing, but late insider information can still create value.
 - **Ceremony day:** Frontrunners priced at 90%+. Not much edge left unless you're truly contrarian.
 
-The sweet spot for trading is between guild wins and the final voting deadline. That's when you have the most information but the market hasn't fully priced it in yet.
+Use the [Kelly criterion calculator](/tools/kelly-calculator) to size your Oscar bets optimally based on your edge. The sweet spot for trading is between guild wins and the final voting deadline. That's when you have the most information but the market hasn't fully priced it in yet. For more on timing your entries and exits, see our guide to [prediction market strategies](/blog/prediction-market-strategies-finding-edge-as-a-retail-trader).
 
 ## Bottom Line
 
 Prediction markets say Elle Fanning ([Supporting Actress](/odds/will-elle-fanning-win-best-supporting-actress-at-the-98th-academy-awards)), Jacob Elordi ([Supporting Actor](/odds/will-jacob-elordi-win-best-supporting-actor-at-the-98th-academy-awards)), and Frankenstein ([Costume Design](/odds/will-frankenstein-win-best-costume-design-at-the-98th-academy-awards)) are the ones to beat.
 
-History says they're probably right. But "probably" isn't "definitely" — and that gap is where it gets interesting. Whether you're a film buff with strong opinions or just someone who likes the idea of getting paid for being right about the Oscars, prediction markets on [Kalshi](https://kalshi.com/sign-up/?referral=f2e21ad4-75b7-4ffb-bfcc-f2fb36e07b21&m=true&utm_source=masterpredictionmarkets&utm_medium=blog&utm_campaign=signup) and [Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=blog&utm_campaign=signup) are the most fun way to put your knowledge to the test.
+History says they're probably right. But "probably" isn't "definitely" — and that gap is where it gets interesting. Whether you're a film buff with strong opinions or just someone who likes the idea of getting paid for being right about the Oscars, prediction markets on [Kalshi](https://kalshi.com/sign-up/?referral=f2e21ad4-75b7-4ffb-bfcc-f2fb36e07b21&m=true&utm_source=masterpredictionmarkets&utm_medium=blog&utm_campaign=signup) and [Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=blog&utm_campaign=signup) are the most fun way to put your knowledge to the test. Not sure which platform to pick? Read our [Kalshi review](/blog/kalshi-review), our [Polymarket guide](/blog/polymarket-guide-how-to-trade-crypto-prediction-markets), or our [head-to-head comparison](/blog/kalshi-vs-polymarket-which-platform-should-you-use).

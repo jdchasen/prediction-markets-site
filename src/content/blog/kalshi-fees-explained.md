@@ -20,7 +20,7 @@ faqs:
 
 If you've traded on [Kalshi](https://kalshi.com/sign-up/?referral=f2e21ad4-75b7-4ffb-bfcc-f2fb36e07b21&m=true&utm_source=masterpredictionmarkets&utm_medium=blog&utm_campaign=signup) for more than a week, you have probably noticed something uncomfortable: your winning trades don't feel like they pay as much as they should, and your losing trades sting more than expected. The reason is fees. Kalshi's fee structure isn't outrageous by exchange standards, but it's significant enough that it can turn a profitable strategy into a losing one if you're not paying close attention.
 
-We run automated trading systems on Kalshi that execute hundreds of contracts per day. Fees are the single biggest line item in our cost structure -- larger than losses on bad trades in many weeks. This article breaks down exactly how Kalshi fees work, how they compound on small-edge trades, and what you can do to keep more of your profits.
+We run [automated trading systems](/blog/how-to-use-apis-for-automated-prediction-market-trading) on Kalshi that execute hundreds of contracts per day. Fees are the single biggest line item in our cost structure -- larger than losses on bad trades in many weeks. This article breaks down exactly how Kalshi fees work, how they compound on small-edge trades, and what you can do to keep more of your profits.
 
 ## How Kalshi's Fee Structure Works
 
@@ -40,7 +40,7 @@ When a contract settles, Kalshi doesn't charge an additional settlement fee beyo
 
 ### No Platform or Account Fees
 
-Kalshi doesn't charge monthly fees, inactivity fees, or deposit/withdrawal fees for ACH transfers. The only costs are the per-contract trading fees, which keeps things simple.
+Kalshi doesn't charge monthly fees, inactivity fees, or deposit/[withdrawal fees](/blog/kalshi-withdrawal) for ACH transfers. The only costs are the per-contract trading fees, which keeps things simple.
 
 ## The Real Impact: Dollar Examples
 
@@ -48,7 +48,7 @@ Here is where it gets interesting -- and where many traders underestimate the dr
 
 ### Example 1: A Strong Edge Trade
 
-You identify a weather market where you believe there's a 75% chance the event occurs, but the contract is priced at $0.60. That's a solid 15-cent edge.
+You identify a [weather market](/blog/how-to-trade-weather-markets-on-kalshi) where you believe there's a 75% chance the event occurs, but the contract is priced at $0.60. That's a solid 15-cent edge.
 
 - You buy 50 contracts at $0.60 each: **$30.00 invested**
 - Entry fee: 50 x $0.02 = **$1.00**
@@ -87,7 +87,7 @@ Some traders try to scalp 2-3 cents on quick price movements. Let's see how that
 - Total fees paid: **$4.00**
 - Net profit: **-$1.00**
 
-You made a correct 3-cent call and still lost money. This is why pure scalping strategies are essentially impossible on Kalshi at the current fee level. The math simply doesn't work for edges under 4 cents if you're exiting before settlement.
+You made a correct 3-cent call and still lost money. This is why pure scalping strategies are essentially impossible on Kalshi at the current fee level. The math simply doesn't work for edges under 4 cents if you're exiting before settlement. For strategies that do work, see our guide on [making money in prediction markets](/blog/prediction-markets-making-money).
 
 ## How Fees Compound Over Time
 
@@ -122,15 +122,15 @@ That said, there are absolutely situations where taking profit early is correct 
 
 ### 4. Size Up on High-Conviction Trades
 
-Fees are a fixed cost per contract, not a percentage. This means they hurt small trades disproportionately. If you have a genuine 15-cent edge, trading 10 contracts versus 50 contracts costs you the same percentage in fees but gives you five times the dollar profit. Concentrating your capital on your best opportunities -- rather than spreading it thin across marginal trades -- is one of the most effective ways to improve net returns.
+Fees are a fixed cost per contract, not a percentage. This means they hurt small trades disproportionately. If you have a genuine 15-cent edge, trading 10 contracts versus 50 contracts costs you the same percentage in fees but gives you five times the dollar profit. Concentrating your capital on your best opportunities -- rather than spreading it thin across marginal trades -- is one of the most effective ways to improve net returns. The [Kelly criterion](/blog/kelly-criterion-prediction-markets-guide) provides a mathematical framework for sizing up on high-edge trades.
 
 ### 5. Track Your Fee Spend Religiously
 
-Download your transaction history from Kalshi regularly and calculate your total fee expense as a percentage of gross profit. If fees are eating more than 15-20% of your gross gains, you're probably trading too many marginal setups. Tighten your filters.
+Download your transaction history from Kalshi regularly and calculate your total fee expense as a percentage of gross profit. You'll also want these records come [tax season](/blog/kalshi-tax-reporting). If fees are eating more than 15-20% of your gross gains, you're probably trading too many marginal setups. Tighten your filters.
 
 ## How Kalshi Fees Compare
 
-For context, [Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=blog&utm_campaign=signup) charges no trading fees on most markets, though you pay blockchain gas costs and potential slippage. PredictIt charges 10% of profits plus 5% on withdrawals, which is dramatically worse. Kalshi's fee structure sits in the middle -- fair for a regulated exchange, but high enough to matter.
+For context, [Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=blog&utm_campaign=signup) charges no trading fees on most markets, though you pay blockchain gas costs and potential slippage. PredictIt charges 10% of profits plus 5% on withdrawals, which is dramatically worse. Kalshi's fee structure sits in the middle -- fair for a [CFTC-regulated exchange](/blog/is-kalshi-legal), but high enough to matter.
 
 If you're evaluating [which platform to trade on](/platforms), fees should be a primary consideration. A strategy that is profitable on a zero-fee platform might be underwater on Kalshi, and vice versa.
 

@@ -40,7 +40,7 @@ This isn't a theoretical distinction. In the crypto world, we've seen multiple e
 
 ### Market Integrity Rules
 
-Every contract that Kalshi lists must be approved by the CFTC or self-certified through a regulatory process. Resolution criteria must be clearly defined in advance using objective, verifiable sources. Kalshi can't retroactively change how a market resolves, and there are formal dispute resolution processes if something goes wrong.
+Every [event contract](/blog/what-are-event-contracts) that Kalshi lists must be approved by the CFTC or self-certified through a regulatory process. Resolution criteria must be clearly defined in advance using objective, verifiable sources. Kalshi can't retroactively change how a market resolves, and there are formal dispute resolution processes if something goes wrong.
 
 The exchange is also subject to surveillance requirements to detect market manipulation, wash trading, and other forms of abuse. These are the same standards applied to traditional derivatives markets.
 
@@ -58,7 +58,7 @@ This classification has important implications:
 
 1. **Federal preemption.** Because Kalshi is regulated at the federal level by the CFTC, state gambling laws generally don't apply. You don't need to be in a state with legal sports betting to trade on Kalshi.
 2. **Tax treatment.** Gains and losses on Kalshi are treated as financial instruments for tax purposes, not as gambling winnings. This affects how you report income and whether you can deduct losses. More on this below.
-3. **No house edge.** The exchange doesn't profit when you lose. It charges a flat fee per contract regardless of the outcome. Your counterparty is another trader, not the house.
+3. **No house edge.** The exchange doesn't profit when you lose. It charges a [flat fee per contract](/blog/kalshi-fees-explained) regardless of the outcome. Your counterparty is another trader, not the house.
 
 That said, the CFTC hasn't approved every type of event contract. Kalshi's attempt to list contracts on congressional elections was initially blocked by the CFTC before a court ruling in 2024 allowed political event contracts to proceed. The regulatory landscape is still evolving, and new contract types sometimes face legal challenges before they're approved.
 
@@ -78,7 +78,7 @@ With Kalshi, the answer is straightforward:
 
 - **Your funds are in segregated accounts** at custodian banks, not on Kalshi's balance sheet.
 - **CFTC oversight** means there's a regulatory body responsible for ensuring customer protection standards are met.
-- **Withdrawal rights** are protected. You can withdraw your funds at any time via ACH, and Kalshi can't prevent you from accessing your money outside of standard regulatory holds (like pending trade settlement).
+- **[Withdrawal](/blog/kalshi-withdrawal) rights** are protected. You can withdraw your funds at any time via ACH, and Kalshi can't prevent you from accessing your money outside of standard regulatory holds (like pending trade settlement).
 
 Compare this to unregulated platforms where your funds are held in the company's crypto wallet or bank account with no legal separation. If that company gets hacked, sued, or simply decides to shut down, your recourse is limited. On a [CFTC-regulated exchange like Kalshi](/blog/kalshi-review), you have a legal framework protecting your capital.
 
@@ -98,11 +98,11 @@ The practical advice is simple: keep detailed records of every trade, and consul
 
 ### Deductible Losses
 
-Unlike gambling losses (which can only be deducted against gambling winnings), trading losses on a regulated exchange may be deductible against other income, depending on your tax situation and how you classify your trading activity. This is a meaningful advantage over platforms that are classified as gambling.
+Unlike [sports betting](/blog/prediction-markets-vs-sports-betting-key-differences) losses (which can only be deducted against gambling winnings), trading losses on a regulated exchange may be deductible against other income, depending on your tax situation and how you classify your trading activity. This is a meaningful advantage over platforms that are classified as gambling.
 
 ## How Kalshi Compares to Unregulated Platforms
 
-The prediction market space includes several platforms that operate outside of US regulatory oversight. [Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=blog&utm_campaign=signup), for example, is a crypto-native platform that settled with the CFTC in 2022 and subsequently blocked US users from its interface. It offers deeper liquidity on many markets and charges lower fees, but it lacks the regulatory protections that Kalshi provides.
+The prediction market space includes several platforms that operate outside of US regulatory oversight. [Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=blog&utm_campaign=signup), for example, is a crypto-native platform that settled with the CFTC in 2022 and subsequently blocked US users from its interface. It offers deeper liquidity on many markets and charges lower fees, but it lacks the regulatory protections that Kalshi provides. For a detailed comparison, see our [Kalshi vs Polymarket guide](/blog/kalshi-vs-polymarket-which-platform-should-you-use).
 
 Here's a practical comparison:
 
@@ -138,6 +138,6 @@ No. Trading on a CFTC-regulated exchange is legal. You're not breaking any feder
 
 Kalshi is legal, regulated, and about as safe as a prediction market can be in the United States. The CFTC designation isn't a marketing gimmick -- it's a specific legal framework that provides real protections for your funds and your rights as a trader.
 
-If you're new to prediction markets and want to [understand how they work](/blog/what-are-prediction-markets), Kalshi is the safest on-ramp for US traders. The regulatory overhead means slightly higher fees and a narrower market selection compared to unregulated alternatives, but what you get in return -- legal certainty, fund protection, and clean tax reporting -- is worth the tradeoff for most people.
+If you're new to prediction markets and want to [understand how they work](/blog/what-are-prediction-markets), Kalshi is the safest on-ramp for US traders. The regulatory overhead means slightly higher fees and a narrower market selection compared to unregulated alternatives, but what you get in return -- legal certainty, fund protection, and clean tax reporting -- is worth the tradeoff for most people. Once you're set up, our [strategies guide](/blog/prediction-market-strategies-finding-edge-as-a-retail-trader) covers how to find profitable trades.
 
 The question isn't really "Is Kalshi legal?" The question is whether you're comfortable trading on platforms that are not.

@@ -16,7 +16,7 @@ faqs:
     answer: "Kalshi is the main legal alternative. It's fully CFTC-regulated, offers FDIC-eligible fund segregation, issues 1099 tax forms, and is available in most US states. Kalshi covers many of the same event categories as Polymarket, though with different market selection and typically lower liquidity on political markets."
 ---
 
-Polymarket is the biggest prediction market in the world by trading volume. Billions of dollars flow through its markets on everything from elections to interest rates to whether Elon Musk will tweet 200 times in a week. But there's a question that comes up constantly: is it actually legal?
+Polymarket is the biggest [prediction market](/blog/what-are-prediction-markets) in the world by trading volume. Billions of dollars flow through its markets on everything from elections to interest rates to whether Elon Musk will tweet 200 times in a week. But there's a question that comes up constantly: is it actually legal?
 
 The short answer is complicated. Polymarket isn't illegal the way running an unlicensed casino is illegal. But it's also not a regulated exchange, and it's got a real enforcement history with US regulators. Here's exactly where things stand.
 
@@ -37,14 +37,14 @@ After the settlement, Polymarket geo-blocked US IP addresses and started requiri
 
 Officially, no. Polymarket's terms of service prohibit US persons from using the platform, and the website blocks US IP addresses.
 
-In practice? It's murkier. Polymarket runs on public smart contracts deployed on the Polygon blockchain. These contracts are permissionless — anyone with a crypto wallet can interact with them directly, regardless of location. Some US users access the platform through VPNs or by interacting with the contracts without using Polymarket's frontend.
+In practice? It's murkier. Polymarket runs on public smart contracts deployed on the Polygon blockchain. For a full walkthrough of how the platform works, see our [Polymarket trading guide](/blog/polymarket-guide-how-to-trade-crypto-prediction-markets). These contracts are permissionless — anyone with a crypto wallet can interact with them directly, regardless of location. Some US users access the platform through VPNs or by interacting with the contracts without using Polymarket's frontend.
 
 This is a gray area. Using a VPN to get around the geo-block violates Polymarket's terms of service. Whether it violates US law is less clear. The CFTC went after Polymarket the company, not individual users. No US trader has been prosecuted for using the platform.
 
 That said, there are real risks:
 
 - **Account seizure**: Polymarket can freeze accounts it identifies as US-based
-- **Withdrawal issues**: If you get flagged, you may have trouble getting your money out
+- **Withdrawal issues**: If you get flagged, you may have trouble [getting your money out](/blog/polymarket-withdrawal)
 - **No legal recourse**: If something goes wrong, you've got no regulatory protections
 - **Evolving enforcement**: The CFTC could start going after users in the future
 
@@ -115,7 +115,7 @@ If you're a US-based trader interested in prediction markets, here's the straigh
 
 **If you choose to use Polymarket**, understand the risks. No fund protection, no tax forms (you'll need to [handle taxes yourself](/blog/polymarket-taxes)), and the possibility of account restrictions if you're identified as a US user. Keep meticulous records and use a dedicated wallet.
 
-**Watch the regulatory landscape.** Prediction market regulation is evolving fast. What's illegal or gray-area today could be fully legal within a year or two. The political will to expand prediction market access is growing on both sides of the aisle.
+**Watch the regulatory landscape.** Prediction market regulation is evolving fast. What's illegal or gray-area today could be fully legal within a year or two. The political will to expand prediction market access is growing on both sides of the aisle. For a broader look at your options, see our [best prediction market platforms](/blog/best-prediction-market-platforms) comparison.
 
 ## The Bottom Line
 

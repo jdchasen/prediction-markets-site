@@ -16,11 +16,11 @@ faqs:
 
 Gold has been on an absolute tear, and the question on every investor's mind is simple: how much higher can it go? Will gold actually hit $7,000 in 2026?
 
-If you want the no-BS answer, skip the analyst reports and look at where people are putting real money. Prediction markets have live contracts on gold hitting both [$7,000](/odds/will-gold-gc-hit-high-7000-by-end-of-june) and [$8,000](/odds/will-gold-gc-hit-high-8000-by-end-of-june) by mid-2026, and the odds tell a fascinating story.
+If you want the no-BS answer, skip the analyst reports and look at where people are putting real money. [Prediction markets](/blog/what-are-prediction-markets) have live contracts on gold hitting both [$7,000](/odds/will-gold-gc-hit-high-7000-by-end-of-june) and [$8,000](/odds/will-gold-gc-hit-high-8000-by-end-of-june) by mid-2026, and the odds tell a fascinating story.
 
 ## How to Read the Gold Odds
 
-These contracts are simple: if gold futures hit the target price at any point before expiry, YES pays $1.00. If not, NO pays $1.00. The current YES price is the market's probability estimate.
+These contracts are simple: if gold futures hit the target price at any point before expiry, YES pays $1.00. If not, NO pays $1.00. The current YES price is the market's [implied probability](/blog/how-to-calculate-implied-probability-prediction-markets).
 
 What's really interesting is comparing the two. The gap between the [$7,000 odds](/odds/will-gold-gc-hit-high-7000-by-end-of-june) and the [$8,000 odds](/odds/will-gold-gc-hit-high-8000-by-end-of-june) tells you how much upside the market sees beyond $7K. A big gap means traders think gold could reach $7,000 but probably won't keep running. A small gap means if gold gets to $7K, $8K isn't far behind.
 
@@ -64,11 +64,11 @@ After the run gold has had, some profit-taking is inevitable. Central banks migh
 
 ### Bitcoin Is Stealing Some Thunder
 
-The "digital gold" debate is real, even if gold bugs hate hearing it. Some money that would have flowed into gold — especially from younger investors — is going into Bitcoin instead. It's not enough to kill the gold trade, but it's a headwind.
+The "digital gold" debate is real, even if gold bugs hate hearing it. Some money that would have flowed into gold — especially from younger investors — is going into [Bitcoin](/blog/will-bitcoin-hit-75000-in-2026-price-prediction-and-market-odds) instead. It's not enough to kill the gold trade, but it's a headwind.
 
 ## Prediction Markets vs. Gold Futures
 
-If you want gold exposure, you have options. Here's how prediction market contracts on [Kalshi](https://kalshi.com/sign-up/?referral=f2e21ad4-75b7-4ffb-bfcc-f2fb36e07b21&m=true&utm_source=masterpredictionmarkets&utm_medium=blog&utm_campaign=signup) compare to traditional futures:
+If you want gold exposure, you have options. Here's how [event contracts](/blog/what-are-event-contracts) on [Kalshi](https://kalshi.com/sign-up/?referral=f2e21ad4-75b7-4ffb-bfcc-f2fb36e07b21&m=true&utm_source=masterpredictionmarkets&utm_medium=blog&utm_campaign=signup) compare to traditional futures:
 
 | | Gold Futures | Prediction Market |
 |--|-------------|-------------------|
@@ -77,11 +77,11 @@ If you want gold exposure, you have options. Here's how prediction market contra
 | Complexity | High | Low |
 | Profit type | Linear with price | All-or-nothing |
 
-Prediction markets are the simpler play. You're not managing margin or worrying about contract rollovers — you just buy YES or NO and wait (or sell early if the price moves your way).
+Prediction markets are the simpler play. You're not managing margin or worrying about contract rollovers — you just buy YES or NO and wait (or sell early if the price moves your way). If you're new to this, our guide on [understanding event contract pricing](/blog/understanding-event-contract-pricing-and-probability) covers the basics.
 
 ## A Clever Trade: Playing the Spread
 
-Here's something most people miss: you can trade the *gap* between the $7,000 and $8,000 contracts. If you think gold will hit $7,000 but probably won't make it to $8,000, buy YES on the [$7K contract](/odds/will-gold-gc-hit-high-7000-by-end-of-june) and NO on the [$8K contract](/odds/will-gold-gc-hit-high-8000-by-end-of-june). You profit if gold lands somewhere in between — a reasonable bet on a range-bound outcome.
+Here's something most people miss — and it's a [strategy for finding edge](/blog/prediction-market-strategies-finding-edge-as-a-retail-trader) as a retail trader: you can trade the *gap* between the $7,000 and $8,000 contracts. If you think gold will hit $7,000 but probably won't make it to $8,000, buy YES on the [$7K contract](/odds/will-gold-gc-hit-high-7000-by-end-of-june) and NO on the [$8K contract](/odds/will-gold-gc-hit-high-8000-by-end-of-june). You profit if gold lands somewhere in between — a reasonable bet on a range-bound outcome. Just be mindful of [Kalshi's fee structure](/blog/kalshi-fees-explained) when sizing the trade.
 
 ## What to Watch
 
@@ -95,6 +95,6 @@ A few things that will move gold (and these contracts) the most:
 
 ## Bottom Line
 
-Gold at $7,000 would be historic, but the ingredients are there: relentless central bank buying, falling rates, geopolitical chaos, and retail FOMO. The risks are real too — the move is big, the dollar could strengthen, and momentum eventually fades.
+Gold at $7,000 would be historic, but the ingredients are there: relentless central bank buying, falling rates, geopolitical chaos, and retail FOMO. The risks are real too — the move is big, the dollar could strengthen, and momentum eventually fades. Use our [probability calculator](/tools/probability-calculator) to convert the current contract prices into actionable probabilities.
 
 [Check the live odds](/odds/will-gold-gc-hit-high-7000-by-end-of-june) and decide for yourself. And if you're feeling ambitious, take a look at the [$8,000 contract](/odds/will-gold-gc-hit-high-8000-by-end-of-june) too — because if gold really gets going, $7K might just be a pit stop.

@@ -27,7 +27,7 @@ faqs:
     answer: "The infrastructure cost is minimal -- a basic VPS or cloud instance costs $5-20 per month. The real cost is the trading capital you deploy and the fees on each transaction. Most bots need at least $500-2,000 in trading capital to diversify effectively."
 ---
 
-Manual trading on prediction markets works fine when you're watching one or two contracts. But the moment you want to monitor dozens of weather markets, scan hundreds of Kalshi range contracts for mispriced strikes, or react to a forex data feed in real time, you hit a wall. The human refresh-and-click loop can't compete with a script that polls an API every five seconds and executes in milliseconds. That's why every serious prediction market trader eventually ends up writing code. This guide walks through the practical reality of building automated trading systems on [Kalshi](https://kalshi.com/sign-up/?referral=f2e21ad4-75b7-4ffb-bfcc-f2fb36e07b21&m=true&utm_source=masterpredictionmarkets&utm_medium=blog&utm_campaign=signup) and [Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=blog&utm_campaign=signup) -- the APIs, the architecture, the code, and the mistakes that cost real money.
+Manual trading on [prediction markets](/blog/what-are-prediction-markets) works fine when you're watching one or two contracts. But the moment you want to monitor dozens of weather markets, scan hundreds of [Kalshi](/blog/kalshi-review) range contracts for mispriced strikes, or react to a forex data feed in real time, you hit a wall. The human refresh-and-click loop can't compete with a script that polls an API every five seconds and executes in milliseconds. That's why every serious prediction market trader eventually ends up writing code. This guide walks through the practical reality of building automated trading systems on [Kalshi](https://kalshi.com/sign-up/?referral=f2e21ad4-75b7-4ffb-bfcc-f2fb36e07b21&m=true&utm_source=masterpredictionmarkets&utm_medium=blog&utm_campaign=signup) and [Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=blog&utm_campaign=signup) -- the APIs, the architecture, the code, and the mistakes that cost real money. If you're looking for a hands-on coding tutorial, see our [Python API tutorial](/blog/prediction-market-api-python) for step-by-step code.
 
 ## Why Automate Prediction Market Trading?
 
@@ -130,7 +130,7 @@ def place_order(self, ticker: str, side: str, price: int, count: int):
 
 ## Polymarket API Overview
 
-Polymarket operates on the Polygon blockchain using a central limit order book (CLOB). Its API is different from Kalshi's -- you interact with both a REST API for market data and order management, and the blockchain for settlement. Orders are signed using your Ethereum wallet's private key.
+Polymarket operates on the Polygon blockchain using a central limit order book (CLOB). Its API is different from Kalshi's -- for a full comparison, see our [Kalshi vs Polymarket breakdown](/blog/kalshi-vs-polymarket-which-platform-should-you-use). You interact with both a REST API for market data and order management, and the blockchain for settlement. Orders are signed using your Ethereum wallet's private key.
 
 ### Market Data
 
@@ -187,7 +187,7 @@ Your bot needs real-time or near-real-time data from external sources to calcula
 
 - **Weather**: National Weather Service API, Open-Meteo, or commercial providers like Tomorrow.io. These give you forecast temperatures, uncertainty ranges, and hourly breakdowns.
 - **Forex**: WebSocket feeds from providers like Twelve Data (for EUR/USD) or Yahoo Finance (for fallback and additional pairs like USD/JPY). Forex data drives pricing for Kalshi's currency range markets.
-- **Financial markets**: SPX spot prices from Chainlink on-chain oracles or exchange APIs. Used for S&P 500 range contract pricing.
+- **Financial markets**: SPX spot prices from Chainlink on-chain oracles or exchange APIs. Used for [S&P 500 range contract pricing](/blog/kalshi-spx-trading).
 - **Sports**: Odds feeds from providers that aggregate lines across sportsbooks. Useful for cross-referencing Kalshi sports markets.
 - **Economic calendar**: APIs that track FOMC dates, CPI releases, jobs reports, and other scheduled data drops.
 
@@ -205,7 +205,7 @@ def calculate_fair_value(forecast_high: float, sigma: float, strike: float):
     return prob_above
 ```
 
-The strategy also decides position sizing. A fractional Kelly criterion approach works well: bet proportional to your edge, but scale it down to reduce variance.
+The strategy also decides position sizing. A [fractional Kelly criterion](/blog/kelly-criterion-prediction-markets-guide) approach works well: bet proportional to your edge, but scale it down to reduce variance.
 
 ### Execution Layer
 
@@ -228,7 +228,7 @@ Risk management isn't optional. At minimum, your bot needs:
 
 ### Ignoring Fees in Edge Calculations
 
-A contract trading at 60 cents when your model says fair value is 64 cents looks like a 4-cent edge. After Kalshi's round-trip fees of approximately 7 cents, that trade is a loser. Always compute net expected profit after fees before executing. Many apparent edges evaporate once fees are included. This is one of the [5 costly mistakes](/blog/5-common-prediction-market-mistakes-to-avoid) that drain new trader accounts.
+A contract trading at 60 cents when your model says fair value is 64 cents looks like a 4-cent edge. After Kalshi's round-trip fees of approximately 7 cents, that trade is a loser. Always compute net expected profit after fees before executing -- the [Probability Calculator](/tools/probability-calculator) does this instantly. Many apparent edges evaporate once fees are included. This is one of the [5 costly mistakes](/blog/5-common-prediction-market-mistakes-to-avoid) that drain new trader accounts.
 
 ### Rate Limits
 
@@ -273,6 +273,6 @@ The most dangerous bugs in trading bots are order state management issues. An or
 - **Always calculate edge after fees.** Kalshi's fee structure eliminates many trades that look profitable on a gross basis. If your net expected value isn't clearly positive, skip the trade.
 - **Respect rate limits** by implementing client-side throttling. Batch your API calls and avoid polling more frequently than necessary.
 - **Order state management is where bots blow up.** Reconcile your local position tracker with the exchange regularly, and build explicit guards against unintended short positions.
-- **Start with one market category** (weather is ideal due to clean data and fast feedback loops), prove your system works, then expand to other categories.
+- **Start with one market category** (weather is ideal due to clean data and fast feedback loops), prove your system works, then expand to other categories. Browse [live market odds](/odds) to see which categories have the deepest liquidity.
 
 Building an automated prediction market trading system is a serious engineering project, but the prediction market API landscape has matured enough that the infrastructure is no longer the hard part. The hard part is the same as it has always been: finding a genuine edge in your pricing model and managing risk while you exploit it. For the strategy side of the equation, see our guide on [prediction market strategies that actually work](/blog/prediction-market-strategies-finding-edge-as-a-retail-trader).

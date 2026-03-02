@@ -26,7 +26,7 @@ We trade on Kalshi every day. Not a few casual bets here and there -- we run aut
 
 ## What Is Kalshi?
 
-Kalshi is an event contract exchange. You buy and sell binary contracts that pay out $1 if an event happens, and $0 if it doesn't. The price of a contract reflects the market's implied probability of that event occurring. If you buy a contract at 35 cents, you're effectively saying there's a greater than 35% chance the event happens. If it does, you collect $1 per contract. If it doesn't, you lose your 35-cent stake.
+Kalshi is an event contract exchange. You buy and sell binary [event contracts](/blog/what-are-event-contracts) that pay out $1 if an event happens, and $0 if it doesn't. The price of a contract reflects the market's [implied probability](/blog/how-to-calculate-implied-probability-prediction-markets) of that event occurring. If you buy a contract at 35 cents, you're effectively saying there's a greater than 35% chance the event happens. If it does, you collect $1 per contract. If it doesn't, you lose your 35-cent stake.
 
 This is the same fundamental mechanic as other prediction markets, but Kalshi has one critical differentiator: it's regulated by the Commodity Futures Trading Commission. That matters. It means your funds are held in segregated accounts, the exchange follows real compliance rules, and you have legal recourse if something goes wrong. For US-based traders, this is the single most important factor when choosing a prediction market.
 
@@ -66,7 +66,7 @@ For traders who follow macroeconomic data, these are some of the most intellectu
 
 Kalshi has rolled out a significant number of financial markets, including daily and weekly contracts on the S&P 500 (SPX), Nasdaq, and other indices. You can trade range contracts (will SPX close between 5,800 and 5,900 today?), above/below contracts, and end-of-day settlement contracts.
 
-These markets are essentially an alternative to options for making short-term directional or range-bound bets on equities indices. The structure is simpler than traditional options -- no Greeks to manage, no expiration curves to navigate -- though the tradeoff is less flexibility.
+These markets are essentially an [alternative to options](/blog/prediction-markets-vs-options) for making short-term directional or range-bound bets on equities indices. The structure is simpler than traditional options -- no Greeks to manage, no expiration curves to navigate -- though the tradeoff is less flexibility.
 
 ### Crypto Price Markets
 
@@ -103,7 +103,7 @@ Here's the honest truth from someone running automated strategies: **fees eat in
 
 Market making -- the strategy of placing both buy and sell orders to capture the bid-ask spread -- **doesn't work on Kalshi because of the fee structure.** On a traditional exchange with zero or near-zero maker fees, a market maker profits from the spread. On Kalshi, the maker fee, while lower than the taker fee, still eats into the spread enough to make pure market making unprofitable in most markets.
 
-This is the single biggest limitation of the platform for sophisticated traders. Your strategies need to have real directional or informational edge, not just liquidity provision edge. The fees force you to be selective and to only trade when your model gives you a meaningful probability advantage.
+This is the single biggest limitation of the platform for sophisticated traders. Your strategies need to have real directional or informational edge, not just liquidity provision edge. The fees force you to be selective and to only trade when your model gives you a meaningful probability advantage. For a full breakdown of the fee math, see our [Kalshi fees guide](/blog/kalshi-fees-explained).
 
 ## The Trading Interface
 
@@ -190,7 +190,7 @@ No withdrawal fees is a meaningful advantage. Some competing platforms make it e
 
 **Kalshi is a good fit if you:**
 - Are a US-based trader looking for a regulated prediction market
-- Have a quantitative or informational edge in weather, economics, or financial markets
+- Have a quantitative or informational edge in weather, economics, or financial markets (see our [strategies guide](/blog/prediction-market-strategies-finding-edge-as-a-retail-trader))
 - Want API access for automated or semi-automated trading
 - Are interested in prediction markets beyond just political event betting
 - Want the safety of CFTC regulation and segregated funds
@@ -203,10 +203,10 @@ No withdrawal fees is a meaningful advantage. Some competing platforms make it e
 
 ## Verdict: 7.5 / 10
 
-Kalshi is the best regulated prediction market exchange in the United States, and for many traders, it's the only serious option. The CFTC regulation provides genuine safety, the market selection is broad and growing, and the API is strong enough to support real algorithmic trading.
+Kalshi is the best regulated prediction market exchange in the United States, and for many traders, it's the only serious option. The CFTC regulation provides genuine safety, the market selection is broad and growing, and the API is strong enough to support real algorithmic trading. Browse [live Kalshi odds](/odds) to see what's available today.
 
 The fee structure is the platform's Achilles' heel. It's not unreasonable for casual traders making a handful of bets, but for active traders trying to grind out consistent profits, the fees are a constant headwind. Every strategy you build has to account for fees as a first-order concern, not an afterthought.
 
 Liquidity is the other area that still needs improvement, though the trajectory is positive. As the platform grows and attracts more participants, this should continue to get better.
 
-If you're a US-based trader with genuine edge in any of the markets Kalshi offers, the platform is worth your time. The regulatory safety, market variety, and API access make it the clear leader in the US prediction market space. Just go in with realistic expectations about fees and liquidity, and build your strategies accordingly. To see how Kalshi stacks up against the competition, read our [Kalshi vs Polymarket comparison](/blog/kalshi-vs-polymarket-which-platform-should-you-use).
+If you're a US-based trader with genuine edge in any of the markets Kalshi offers -- and you want to understand [whether prediction markets can actually be profitable](/blog/prediction-markets-making-money) -- the platform is worth your time. The regulatory safety, market variety, and API access make it the clear leader in the US prediction market space. Just go in with realistic expectations about fees and liquidity, and build your strategies accordingly. To see how Kalshi stacks up against the competition, read our [Kalshi vs Polymarket comparison](/blog/kalshi-vs-polymarket-which-platform-should-you-use).

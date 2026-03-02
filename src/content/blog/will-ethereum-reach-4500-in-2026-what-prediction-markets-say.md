@@ -20,9 +20,9 @@ Prediction markets on [Kalshi](https://kalshi.com/sign-up/?referral=f2e21ad4-75b
 
 ## Why Prediction Markets Beat Analyst Price Targets
 
-When a bank analyst publishes a $5,000 ETH target, nothing happens to them if they're wrong. They'll just quietly publish a new number next quarter. In prediction markets, bad predictions cost you money. Good ones make you money. It's a Darwinian process that tends to produce surprisingly accurate forecasts.
+When a bank analyst publishes a $5,000 ETH target, nothing happens to them if they're wrong. They'll just quietly publish a new number next quarter. In [prediction markets](/blog/what-are-prediction-markets), bad predictions cost you money. Good ones make you money. It's a Darwinian process that tends to produce surprisingly accurate forecasts.
 
-The [live Ethereum odds](/odds/will-ethereum-reach-4500-by-december-31-2026) reflect every piece of information the market knows — ETF flows, on-chain data, macro trends, insider sentiment — all baked into a single number.
+The [live Ethereum odds](/odds/will-ethereum-reach-4500-by-december-31-2026) reflect every piece of information the market knows — ETF flows, on-chain data, macro trends, insider sentiment — all baked into a single number. For a deeper dive into how these prices work, see our guide on [event contract pricing and probability](/blog/understanding-event-contract-pricing-and-probability).
 
 ## The Bull Case for ETH $4,500
 
@@ -66,6 +66,8 @@ Ethereum's roadmap is ambitious. More scaling, account abstraction, various upgr
 
 ## ETH vs. BTC: Which Prediction Market Bet Is Better?
 
+For more on the [Bitcoin $75K prediction](/blog/will-bitcoin-hit-75000-in-2026-price-prediction-and-market-odds), see our full breakdown.
+
 | Factor | Bitcoin $75K | Ethereum $4,500 |
 |--------|-------------|-----------------|
 | Distance from target | Moderate | Moderate-to-large |
@@ -74,18 +76,18 @@ Ethereum's roadmap is ambitious. More scaling, account abstraction, various upgr
 | Macro sensitivity | High | Higher |
 | Contract liquidity | Better | Thinner |
 
-The interesting insight: ETH contracts tend to be less efficiently priced because fewer sophisticated traders are active in them. More edge, but harder to exit when you want to.
+The interesting insight: ETH contracts tend to be less efficiently priced because fewer sophisticated traders are active in them. More edge, but harder to exit when you want to. Our [arbitrage scanner](/tools/arbitrage-scanner) can help you spot pricing gaps across platforms.
 
 ## How to Play This
 
-If you think ETH is heading to $4,500, prediction markets let you bet on it with a clear max loss. Buy YES shares and your worst case is losing what you paid. Best case? A nice payout if ETH gets there.
+If you think ETH is heading to $4,500, prediction markets let you bet on it with a clear max loss. Buy YES shares and your worst case is losing what you paid. Best case? A nice payout if ETH gets there. Browse [live crypto odds](/odds/crypto) for all available ETH contracts.
 
-The smarter approach is to **not just buy and hold until settlement.** If ETH rallies and your YES shares jump in value, consider taking the profit. A 30% gain you actually capture beats a theoretical 100% gain that evaporates because of a market dip.
+The smarter approach is to **not just buy and hold until settlement.** If ETH rallies and your YES shares jump in value, consider taking the profit. A 30% gain you actually capture beats a theoretical 100% gain that evaporates because of a market dip. For more on exit strategies, see our guide to [making money in prediction markets](/blog/prediction-markets-making-money).
 
-And the golden rule: **check if someone is actually bidding before you buy.** If you can't sell your position when you want to, your paper profit is meaningless.
+And the golden rule: **check if someone is actually bidding before you buy.** If you can't sell your position when you want to, your paper profit is meaningless. This is one of the [most common mistakes](/blog/5-common-prediction-market-mistakes-to-avoid) new traders make.
 
 ## Bottom Line
 
 The Ethereum $4,500 question comes down to whether ETF adoption, deflationary supply, and real-world asset tokenization can overcome Solana competition, regulatory uncertainty, and macro risk.
 
-Prediction markets are the best scoreboard for this debate. [Check the live odds](/odds/will-ethereum-reach-4500-by-december-31-2026), compare them to your own view, and act if you see a gap. Just size your bets carefully — ETH can move fast in both directions.
+Prediction markets are the best scoreboard for this debate. [Check the live odds](/odds/will-ethereum-reach-4500-by-december-31-2026), compare them to your own view, and act if you see a gap. Use the [Kelly criterion calculator](/tools/kelly-calculator) to size your bets carefully — ETH can move fast in both directions.

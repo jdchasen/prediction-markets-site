@@ -20,7 +20,7 @@ faqs:
     answer: "No, not all prediction markets require crypto. Kalshi accepts USD deposits via ACH, wire transfer, or debit card with no crypto involved. Only Polymarket requires USDC on the Polygon blockchain, though it offers a built-in card on-ramp to simplify the process."
 ---
 
-Prediction markets have gone from a niche curiosity to a legitimate asset class. The 2024 election cycle put them on the map for millions of new traders, and by 2026 the landscape has matured considerably. Regulated exchanges now offer contracts on everything from Fed rate decisions to daily high temperatures, while crypto-native platforms continue to push the boundaries on volume and global access.
+Prediction markets have gone from a niche curiosity to a legitimate asset class. If you're new to the concept, our [beginner's guide to prediction markets](/blog/what-are-prediction-markets) covers the fundamentals. The 2024 election cycle put them on the map for millions of new traders, and by 2026 the landscape has matured considerably. Regulated exchanges now offer [event contracts](/blog/what-are-event-contracts) on everything from Fed rate decisions to daily high temperatures, while crypto-native platforms continue to push the boundaries on volume and global access.
 
 I have traded actively on every platform covered here. This guide breaks down what each one actually feels like to use, where the edges are, and which platform fits different types of traders.
 
@@ -41,11 +41,11 @@ I have traded actively on every platform covered here. This guide breaks down wh
 
 The market selection is the broadest of any platform. You can trade contracts on whether the S&P 500 will close above a specific level today, whether Bitcoin will be above $90,000 by Friday, what the next CPI print will be, the daily high temperature in major cities, and hundreds of political and current-events markets. New categories are added regularly, and the diversity alone makes Kalshi the most versatile platform for serious traders.
 
-The API is production-grade. REST endpoints for order management, WebSocket feeds for real-time market data, and solid documentation. If you want to build automated trading strategies -- whether that is algo market-making, statistical arbitrage, or model-driven positioning -- Kalshi is the only regulated platform with the infrastructure to support it. Read our [full Kalshi review](/blog/kalshi-review) for an in-depth look at every feature.
+The API is production-grade. REST endpoints for order management, WebSocket feeds for real-time market data, and solid documentation. If you want to build automated trading strategies -- whether that is algo market-making, statistical arbitrage, or model-driven positioning -- Kalshi is the only regulated platform with the infrastructure to support it. Our [guide to prediction market APIs](/blog/how-to-use-apis-for-automated-prediction-market-trading) walks through the technical setup. Read our [full Kalshi review](/blog/kalshi-review) for an in-depth look at every feature.
 
 ### Fees and Costs
 
-Kalshi charges roughly 1 to 2 cents per contract on entry and exit. There are no deposit fees, no withdrawal fees, and no inactivity charges. Compared to PredictIt's punishing fee structure, the cost of trading on Kalshi is dramatically lower. That said, the per-contract fees do add up for high-frequency strategies, especially on contracts priced near 50 cents where the fee represents a larger percentage of potential profit.
+Kalshi charges roughly 1 to 2 cents per contract on entry and exit. For the full breakdown, see our [Kalshi fees guide](/blog/kalshi-fees-explained). There are no deposit fees, no withdrawal fees, and no inactivity charges. Compared to PredictIt's punishing fee structure, the cost of trading on Kalshi is dramatically lower. That said, the per-contract fees do add up for high-frequency strategies, especially on contracts priced near 50 cents where the fee represents a larger percentage of potential profit.
 
 ### Who Should Use Kalshi
 
@@ -131,7 +131,7 @@ Metaculus isn't a prediction market in the traditional sense -- you can't win or
 
 ### Why It Belongs on This List
 
-Even though no money changes hands, Metaculus is one of the best tools for developing the skills that make you a better prediction market trader. Calibration -- the ability to assign accurate probabilities to uncertain events -- is the foundational skill of profitable trading. Metaculus gives you a structured environment to practice that skill across hundreds of questions, with immediate feedback on your accuracy over time.
+Even though no money changes hands, Metaculus is one of the best tools for developing the skills that make you a better prediction market trader. Calibration -- the ability to assign accurate probabilities to uncertain events -- is the foundational skill of [profitable trading](/blog/prediction-markets-making-money). Metaculus gives you a structured environment to practice that skill across hundreds of questions, with immediate feedback on your accuracy over time.
 
 The community is also a valuable signal source. Metaculus aggregate forecasts have a strong track record on questions like pandemic trajectories, AI capability milestones, and geopolitical events. Checking Metaculus consensus before placing a trade on Kalshi or Polymarket is a legitimate edge.
 
@@ -164,7 +164,7 @@ The right platform depends on three things: where you live, how much you want to
 
 ### You Want to Get Better at Forecasting Before Risking Money
 
-**Start with Metaculus.** Spend a few months making predictions, reviewing your calibration, and studying how the community thinks about uncertainty. The skills you build there translate directly to better trading on any real-money platform.
+**Start with Metaculus.** Spend a few months making predictions, reviewing your calibration, and studying how the community thinks about uncertainty. The skills you build there translate directly to better trading on any real-money platform. When you're ready, our [prediction market strategies guide](/blog/prediction-market-strategies-finding-edge-as-a-retail-trader) covers the approaches that work.
 
 ### You Want to Trade Programmatically
 
@@ -176,4 +176,4 @@ The prediction market ecosystem in 2026 is in a fundamentally different place th
 
 If you can't decide between the top two, our [Kalshi vs Polymarket head-to-head comparison](/blog/kalshi-vs-polymarket-which-platform-should-you-use) breaks down every difference that matters. For most traders reading this, the practical answer is straightforward: open a Kalshi account for regulated, diverse market access. If you also want exposure to high-liquidity political markets or need global access, add Polymarket. Use Metaculus to sharpen your forecasting skills. And unless you have a specific reason, skip PredictIt -- the fees are not worth it in 2026.
 
-The best prediction market platform is ultimately the one that aligns with your goals, your risk tolerance, and your jurisdiction. But the good news is that the options have never been better.
+The best prediction market platform is ultimately the one that aligns with your goals, your risk tolerance, and your jurisdiction. Browse [live odds across all platforms](/odds) to see what's currently available. But the good news is that the options have never been better.

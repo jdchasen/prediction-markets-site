@@ -57,13 +57,13 @@ If you're in the US and choosing between the two, Kalshi's regulatory status alo
 
 ## Fees and Cost of Trading
 
-The fee structures are fundamentally different, and understanding them is critical to knowing where your strategies will actually be profitable.
+The fee structures are fundamentally different, and understanding them is critical to knowing where your [strategies will actually be profitable](/blog/prediction-markets-making-money).
 
 ### Kalshi Fees
 
 Kalshi uses a maker-taker model. Taker fees max out at roughly 1.75 cents per contract (on contracts priced near 50 cents) and drop significantly on contracts priced near the extremes. Maker fees are approximately one-quarter of taker fees. There are no deposit fees, no withdrawal fees, and no inactivity charges.
 
-The fees are transparent and predictable, but they add up. On a round trip -- buying and then selling a position -- you pay fees on both sides. For strategies with thin edges, this is a constant headwind. A 3-cent mispricing can lose more than half its value to fees before you see a profit.
+The fees are transparent and predictable, but they add up. On a round trip -- buying and then selling a position -- you pay fees on both sides. For strategies with thin edges, this is a constant headwind. A 3-cent mispricing can lose more than half its value to fees before you see a profit. Our [Kalshi fees guide](/blog/kalshi-fees-explained) has the full math.
 
 ### Polymarket Fees
 
@@ -85,7 +85,7 @@ This is where the two platforms diverge significantly.
 
 Kalshi offers the widest range of market categories of any prediction market platform. You can trade contracts on daily weather outcomes, economic data releases (CPI, jobs reports, Fed decisions), S&P 500 and Nasdaq price ranges, Bitcoin and Ethereum prices, political events, sports outcomes, and various current-events markets.
 
-This breadth matters for active traders. If your edge is in macroeconomic data, weather modeling, or financial markets, Kalshi is the only platform that offers structured contracts in those categories. Our [Kalshi review](/blog/kalshi-review) covers each market type in detail. The diversity also allows you to spread risk across uncorrelated market types rather than concentrating everything in politics or crypto.
+This breadth matters for active traders. If your edge is in macroeconomic data, [weather modeling](/blog/how-to-trade-weather-markets-on-kalshi), or financial markets, Kalshi is the only platform that offers structured [event contracts](/blog/what-are-event-contracts) in those categories. Our [Kalshi review](/blog/kalshi-review) covers each market type in detail. The diversity also allows you to spread risk across uncorrelated market types rather than concentrating everything in politics or crypto.
 
 ### Polymarket's Depth
 
@@ -115,7 +115,7 @@ Kalshi's web interface is clean and straightforward. Markets are organized by ca
 
 Polymarket's interface leans into a modern, crypto-native aesthetic. Market pages show trading volume, price charts, and the order book. The experience is smooth for anyone familiar with DeFi platforms. One advantage is that Polymarket's interface tends to surface trending and high-volume markets more effectively, which helps with market discovery.
 
-Neither platform offers advanced charting, custom alerts, or sophisticated order types natively. If you want those features, you'll need to build them yourself via each platform's API.
+Neither platform offers advanced charting, custom alerts, or sophisticated order types natively. If you want those features, you'll need to build them yourself via each platform's API. Our [free trading tools](/tools) -- including a [probability calculator](/tools/probability-calculator) and [Kelly calculator](/tools/kelly-calculator) -- fill some of those gaps.
 
 ## Liquidity: The Deciding Factor for Large Traders
 
@@ -157,4 +157,4 @@ For most developers who want to build trading bots or automated strategies, Kals
 - You're a US-based trader who wants Kalshi's regulatory safety and market diversity as your primary platform, but also wants access to Polymarket's deeper liquidity on major political events
 - You're looking for cross-platform arbitrage opportunities where the same event is priced differently on each exchange — use our [Arbitrage Scanner](/tools/arbitrage-scanner) to find them
 
-If you're new to event contracts entirely, our [beginner's guide to prediction markets](/blog/what-are-prediction-markets) covers the fundamentals. For most US-based traders getting started with prediction markets, Kalshi is the safer and more practical starting point. The regulation, USD deposits, and broad market selection make it the lower-friction choice. Add Polymarket when you have a specific reason to -- whether that is liquidity, a market that only exists there, or a price discrepancy worth capturing. The two platforms complement each other well, and serious prediction market traders in 2026 should know their way around both.
+If you're new to event contracts entirely, our [beginner's guide to prediction markets](/blog/what-are-prediction-markets) covers the fundamentals. For most US-based traders getting started with prediction markets, Kalshi is the safer and more practical starting point. The regulation, USD deposits, and broad market selection make it the lower-friction choice. Add Polymarket when you have a specific reason to -- whether that is liquidity, a market that only exists there, or a price discrepancy worth capturing. The two platforms complement each other well, and serious prediction market traders in 2026 should know their way around both. Browse [live odds across both platforms](/odds) to see the current landscape.

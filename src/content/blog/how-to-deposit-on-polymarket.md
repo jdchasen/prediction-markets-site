@@ -27,11 +27,11 @@ faqs:
     answer: "Transferring USDC from a crypto exchange like Coinbase directly to Polygon is the cheapest method, costing roughly $0-1 in withdrawal fees. For a $1,000 deposit, this saves you $20-30 compared to the card on-ramp's 2-3% processing fee."
 ---
 
-The number one thing that stops people from trading on [Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=blog&utm_campaign=signup) isn't understanding the markets -- it's figuring out how to get money onto the platform. Unlike [Kalshi](https://kalshi.com/sign-up/?referral=f2e21ad4-75b7-4ffb-bfcc-f2fb36e07b21&m=true&utm_source=masterpredictionmarkets&utm_medium=blog&utm_campaign=signup), where you [deposit dollars from your bank account](/blog/kalshi-review), Polymarket runs on **USDC on the Polygon network**. If those words mean nothing to you, don't worry. This guide walks through all three deposit methods step by step, including the common mistakes that cause people to lose money or wait days for stuck transactions.
+The number one thing that stops people from trading on [Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=blog&utm_campaign=signup) isn't understanding [the markets](/blog/what-are-prediction-markets) -- it's figuring out how to get money onto the platform. Unlike [Kalshi](https://kalshi.com/sign-up/?referral=f2e21ad4-75b7-4ffb-bfcc-f2fb36e07b21&m=true&utm_source=masterpredictionmarkets&utm_medium=blog&utm_campaign=signup), where you [deposit dollars from your bank account](/blog/kalshi-review), Polymarket runs on **USDC on the Polygon network**. (Note: Polymarket is [not officially available to US users](/blog/is-polymarket-legal) — understand the legal situation before depositing.) If those words mean nothing to you, don't worry. This guide walks through all three deposit methods step by step, including the common mistakes that cause people to lose money or wait days for stuck transactions.
 
 ## What You Need to Know First
 
-Polymarket uses **USDC** (USD Coin) as its currency. USDC is a stablecoin pegged 1:1 to the US dollar -- one USDC always equals one dollar. However, USDC exists on multiple blockchain networks (Ethereum, Polygon, Solana, etc.), and **Polymarket only accepts USDC on the Polygon network**.
+Polymarket uses **USDC** (USD Coin) as its currency. USDC is a stablecoin pegged 1:1 to the US dollar -- one USDC always equals one dollar. Keep in mind that Polymarket doesn't issue tax forms, so you'll need to track your deposits and trades yourself for [tax reporting purposes](/blog/polymarket-taxes). However, USDC exists on multiple blockchain networks (Ethereum, Polygon, Solana, etc.), and **Polymarket only accepts USDC on the Polygon network**.
 
 This is the single most important thing to understand before you deposit. If you send USDC on the wrong network, your funds can be lost or stuck. Read that again.
 
@@ -135,13 +135,13 @@ Once your USDC appears in your Polymarket wallet, you're ready to trade. Navigat
 
 A few quick tips for your first trade:
 
-- **Start small.** Put $10-20 on a market you understand well, just to get comfortable with the interface.
+- **Start small.** Put $10-20 on a market you understand well, just to get comfortable with the interface. Browse [live odds](/odds) to find markets with clear outcomes.
 - **Use limit orders** to avoid slippage on illiquid markets. Market orders on thin books can fill at worse prices than expected.
 - **Understand the contract.** Read the resolution criteria carefully. One of the most [common mistakes new traders make](/blog/5-common-prediction-market-mistakes-to-avoid) isn't understanding exactly what needs to happen for a contract to settle in their favor.
 
 ## Withdrawing Funds
 
-Getting money off Polymarket is essentially the reverse of Method 2. You withdraw USDC from Polymarket to your crypto wallet on Polygon, then either send it back to an exchange (where you sell for USD and withdraw to your bank) or hold it as USDC.
+For a full step-by-step on cashing out, see our dedicated [Polymarket withdrawal guide](/blog/polymarket-withdrawal). Getting money off Polymarket is essentially the reverse of Method 2. You withdraw USDC from Polymarket to your crypto wallet on Polygon, then either send it back to an exchange (where you sell for USD and withdraw to your bank) or hold it as USDC.
 
 Withdrawals from Polymarket to your wallet are fast -- usually under 5 minutes. The bottleneck is converting back to dollars on your exchange, which depends on the exchange's processing times.
 
@@ -149,4 +149,4 @@ Withdrawals from Polymarket to your wallet are fast -- usually under 5 minutes. 
 
 Depositing on Polymarket is the biggest friction point for new traders, but it's a one-time learning curve. Once you've done it once, subsequent deposits take under a minute. The exchange transfer method (Method 2) gives you the best balance of cost and simplicity, and it's what we recommend for most traders.
 
-If you're deciding between Polymarket and a platform with simpler deposits, remember that the deposit method is a one-time hurdle, while the [trading experience, fees, and liquidity](/platforms) affect every single trade you make. Don't let the crypto deposit process scare you away from the deepest prediction market in the world.
+If you're deciding between Polymarket and a platform with simpler deposits, remember that the deposit method is a one-time hurdle, while the [trading experience, fees, and liquidity](/platforms) affect every single trade you make. Our [Kalshi vs Polymarket comparison](/blog/kalshi-vs-polymarket-which-platform-should-you-use) breaks down the full tradeoffs. Don't let the crypto deposit process scare you away from the deepest prediction market in the world.

@@ -26,7 +26,7 @@ The critical follow-up question is: **how do you know the true probability bette
 
 ### The Fee Reality Check
 
-On Kalshi, fees typically run around 7 cents round-trip per contract. That means a trade where you buy at $0.50 and sell at $0.55 generates only $0.05 gross -- and roughly breaks even after fees. You need meaningful edges, typically 10 cents or more after fees, to justify a position. Always calculate your net expected value after fees before entering a trade. Ignore this rule and your account will bleed out slowly regardless of how good your probability estimates are.
+On Kalshi, [fees](/blog/kalshi-fees-explained) typically run around 7 cents round-trip per contract. That means a trade where you buy at $0.50 and sell at $0.55 generates only $0.05 gross -- and roughly breaks even after fees. You need meaningful edges, typically 10 cents or more after fees, to justify a position. Always calculate your net expected value after fees before entering a trade. Ignore this rule and your account will bleed out slowly regardless of how good your probability estimates are.
 
 ## Strategy 1: Weather Markets and Real-Time Data Advantages
 
@@ -76,7 +76,7 @@ You don't always need to hold through settlement to profit. If you buy a contrac
 
 ## Strategy 4: Range Markets and Probability Distributions
 
-Range markets -- where a series of contracts covers different outcome ranges for an event like the S&P 500 closing price -- offer unique strategic opportunities that pure binary markets don't.
+Range markets -- where a series of contracts covers different outcome ranges for an event like the [S&P 500 closing price](/blog/kalshi-spx-trading) -- offer unique strategic opportunities that pure binary markets don't.
 
 ### Finding Mispriced Ranges
 
@@ -126,7 +126,7 @@ The common thread: **information that updates faster than the prediction market 
 
 ## Key Takeaways
 
-- **Edge is the gap between market price and true probability.** Every profitable strategy reduces to finding and exploiting this gap consistently.
+- **Edge is the gap between market price and true probability.** Every profitable strategy reduces to finding and exploiting this gap consistently. Learn [how to calculate implied probability](/blog/how-to-calculate-implied-probability-prediction-markets) to quantify that gap.
 - **Weather markets offer some of the cleanest edges** because professional-grade forecast data is free, the math is tractable, and prices lag behind forecast updates.
 - **News-driven trading rewards speed**, but you don't need to be a high-frequency trader -- you just need to be faster than the average retail participant.
 - **Time decay works in your favor** when you buy underpriced contracts near settlement. Taking profit before settlement reduces variance and frees capital.
@@ -134,4 +134,4 @@ The common thread: **information that updates faster than the prediction market 
 - **Use the Kelly criterion** (fractional Kelly in practice) to size positions proportionally to your edge. Never risk more than 5% of your bankroll on a single contract.
 - **External data sources are your weapon.** NWS forecasts, options-implied vol, economic data feeds -- any information that updates faster than the market reprices is a source of edge.
 - **Automation amplifies every strategy.** A bot that monitors data feeds, calculates fair value, and executes trades in seconds will always outperform manual trading across dozens of contracts per day. Learn how to build one in our [guide to prediction market APIs](/blog/how-to-use-apis-for-automated-prediction-market-trading).
-- **Track everything.** If your model says 70% and you're winning 55% of those trades, your model is wrong. Calibrate relentlessly or your edge will evaporate.
+- **Track everything.** If your model says 70% and you're winning 55% of those trades, your model is wrong. Calibrate relentlessly or your edge will evaporate. Avoid the most common pitfalls outlined in our [5 prediction market mistakes to avoid](/blog/5-common-prediction-market-mistakes-to-avoid).

@@ -28,9 +28,9 @@ This guide covers everything you need to go from zero to placing your first trad
 
 ## What Is Polymarket?
 
-Polymarket is a prediction market exchange where you buy and sell shares in the outcome of real-world events. Each market poses a binary question -- "Will the Fed cut rates in March 2026?" or "Will Bitcoin be above $100,000 on March 31?" -- and the shares are priced between $0.00 and $1.00. If you buy a "Yes" share at $0.40 and the event occurs, that share settles at $1.00 and you pocket $0.60 per share in profit. If the event doesn't occur, your share settles at $0.00 and you lose your $0.40 stake.
+Polymarket is a prediction market exchange where you buy and sell shares in the outcome of real-world events. Each market poses a binary question -- "Will the Fed cut rates in March 2026?" or "Will Bitcoin be above $100,000 on March 31?" -- and the shares (also called [event contracts](/blog/what-are-event-contracts)) are priced between $0.00 and $1.00. If you buy a "Yes" share at $0.40 and the event occurs, that share settles at $1.00 and you pocket $0.60 per share in profit. If the event doesn't occur, your share settles at $0.00 and you lose your $0.40 stake.
 
-The share price reflects the market's consensus probability for the event. A "Yes" share priced at $0.72 implies the market thinks there's a 72% chance the event will happen. If you believe the true probability is higher or lower than what the market implies, you have a potential edge.
+The share price reflects the market's consensus probability for the event. A "Yes" share priced at $0.72 implies the market thinks there's a 72% chance the event will happen. Our guide on [how to calculate implied probability](/blog/how-to-calculate-implied-probability-prediction-markets) breaks down this math in detail. If you believe the true probability is higher or lower than what the market implies, you have a potential edge.
 
 ### Built on Polygon
 
@@ -149,7 +149,7 @@ Don't let "no fees" fool you into thinking trading is free. The spread is a real
 
 The easiest way to find edge on Polymarket is to trade markets where you have genuine informational or analytical advantage. If you follow politics closely, you may spot mispriced election markets before the broader market reacts to new polling data. If you understand crypto fundamentals, you may have better intuition on ETF approval timelines or protocol upgrade milestones.
 
-Don't trade markets you don't understand just because the price looks appealing. A "Yes" share at $0.10 isn't automatically a bargain -- it's cheap because the market thinks the event is highly unlikely.
+Don't trade markets you don't understand just because the price looks appealing. A "Yes" share at $0.10 isn't automatically a bargain -- it's cheap because the market thinks the event is highly unlikely. For more on these pitfalls, see our guide on [common prediction market mistakes](/blog/5-common-prediction-market-mistakes-to-avoid).
 
 ### Compare with Other Sources
 
@@ -157,7 +157,7 @@ Before placing a trade, check what other forecasting sources say. Look at pollin
 
 ### Diversify Across Markets
 
-Don't put your entire bankroll into one position. Prediction markets are inherently uncertain -- that's the whole point. Spread your capital across multiple markets with positive expected value, and let the law of large numbers work in your favor over time.
+Don't put your entire bankroll into one position. Prediction markets are inherently uncertain -- that's the whole point. Spread your capital across multiple markets with positive expected value, and let the law of large numbers work in your favor over time. Our [Portfolio Calculator](/tools/portfolio-calculator) can help you model diversified positions.
 
 ### Size Your Positions Using Implied Probability
 
@@ -165,7 +165,7 @@ Think about every trade in terms of your estimated probability versus the market
 
 ### Track Your Results
 
-Keep a simple spreadsheet of every trade: the market, your entry price, your estimated probability at the time, and the outcome. Over time, this data tells you whether you're actually calibrated or just getting lucky. If your 70% confidence picks are winning 50% of the time, your probability estimates are off and you need to recalibrate.
+Keep a simple spreadsheet of every trade: the market, your entry price, your estimated probability at the time, and the outcome. Understanding [Polymarket tax obligations](/blog/polymarket-taxes) is also important as your trading activity grows. Over time, this data tells you whether you're actually calibrated or just getting lucky. If your 70% confidence picks are winning 50% of the time, your probability estimates are off and you need to recalibrate.
 
 ## Risks to Understand
 
@@ -195,4 +195,4 @@ Even on Polymarket, not every market is liquid. If you take a large position in 
 - **Edge comes from better probability estimates.** Compare market prices to external forecasts, trade in your areas of expertise, diversify across markets, and track your results rigorously.
 - **Manage your positions actively.** Selling before settlement to lock in profits is often smarter than holding through resolution. Take profits when the market has moved in your direction and the remaining upside is thin.
 
-For more approaches to finding edge on any platform, see our [prediction market strategies guide](/blog/prediction-market-strategies-finding-edge-as-a-retail-trader). Polymarket is a powerful platform for traders who are comfortable with its crypto-native infrastructure and its unregulated status. The liquidity is real, the markets are diverse and growing, and the trading experience is closer to a real exchange than almost any other prediction market. Get your USDC on Polygon, start small, trade what you know, and scale up as you build a track record.
+For more approaches to finding edge on any platform, see our [prediction market strategies guide](/blog/prediction-market-strategies-finding-edge-as-a-retail-trader). Polymarket is a powerful platform for traders who are comfortable with its crypto-native infrastructure and its unregulated status. The liquidity is real, the markets are diverse and growing, and the trading experience is closer to a real exchange than almost any other [prediction market platform](/blog/best-prediction-market-platforms). Get your USDC on Polygon, start small, trade what you know, and scale up as you build a track record.

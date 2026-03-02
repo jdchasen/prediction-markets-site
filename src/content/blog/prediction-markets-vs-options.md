@@ -16,7 +16,7 @@ faqs:
     answer: "No. Prediction market contracts don't have delta, gamma, theta, or vega. The price just reflects the market's implied probability of the event happening. There's no time decay curve or volatility surface to worry about. Simpler to understand, but you also can't build the sophisticated hedging strategies that options allow."
 ---
 
-If you trade options, prediction markets might look familiar at first glance. Both let you take positions on future outcomes. Both have expiration dates. Both can be worth zero at expiry. But the mechanics are different in ways that actually matter for your P&L.
+If you trade options, [prediction markets](/blog/what-are-prediction-markets) might look familiar at first glance. Both let you take positions on future outcomes. Both have expiration dates. Both can be worth zero at expiry. But the mechanics are different in ways that actually matter for your P&L.
 
 This guide breaks down the real differences — not the textbook ones, but the ones that affect how you trade.
 
@@ -24,7 +24,7 @@ This guide breaks down the real differences — not the textbook ones, but the o
 
 The single biggest difference is the payoff structure.
 
-**Prediction markets** are binary. A contract settles at $1.00 (event happened) or $0.00 (it didn't). Buy a "Will the Fed cut rates in March?" contract at $0.40, and you either make $0.60 or lose $0.40. That's it.
+**Prediction markets** are binary. A contract settles at $1.00 (event happened) or $0.00 (it didn't). This is the core mechanic behind all [event contracts](/blog/what-are-event-contracts). Buy a "Will the Fed cut rates in March?" contract at $0.40, and you either make $0.60 or lose $0.40. That's it.
 
 **Options** have continuous payoffs. A call option's value at expiry depends on how far the underlying moved past the strike. Buy a $500 SPY call and SPY closes at $510? You make $10 per share. Closes at $550? You make $50. The further it moves your way, the more you make.
 
@@ -43,8 +43,8 @@ Options reward you for being right about *how much* something moves. Prediction 
 | Margin required | No | Yes (for selling) |
 | Settlement | Event outcome (yes/no) | Price of underlying at expiry |
 | Underlying assets | Events (elections, weather, crypto) | Stocks, ETFs, indices, commodities |
-| Regulation | CFTC (Kalshi) or unregulated (Polymarket) | SEC/CFTC regulated |
-| Tax treatment | Potentially Section 1256 (Kalshi) | Section 1256 (index options) or short-term |
+| Regulation | CFTC ([Kalshi](/blog/is-kalshi-legal)) or unregulated ([Polymarket](/blog/is-polymarket-legal)) | SEC/CFTC regulated |
+| Tax treatment | Potentially [Section 1256](/blog/kalshi-tax-reporting) (Kalshi) | Section 1256 (index options) or short-term |
 
 ## Pricing: Probability vs. Black-Scholes
 
@@ -60,7 +60,7 @@ This simplicity is genuinely useful. You don't need to model vol surfaces or cal
 
 Buy a contract at $0.40 and your max loss is $0.40. Max gain is $0.60. No matter what. No margin calls, no early assignment, no scenario where you owe more than you put in.
 
-Nobody has ever gotten a margin call from [Kalshi](https://kalshi.com/sign-up/?referral=f2e21ad4-75b7-4ffb-bfcc-f2fb36e07b21&m=true&utm_source=masterpredictionmarkets&utm_medium=blog&utm_campaign=signup).
+Nobody has ever gotten a margin call from [Kalshi](https://kalshi.com/sign-up/?referral=f2e21ad4-75b7-4ffb-bfcc-f2fb36e07b21&m=true&utm_source=masterpredictionmarkets&utm_medium=blog&utm_campaign=signup). See our [Kalshi review](/blog/kalshi-review) for a full breakdown of how the platform handles risk.
 
 ### Options: Flexible but Dangerous
 
@@ -94,7 +94,7 @@ Prediction markets cover stuff options can't touch:
 - Who wins the next presidential election?
 - Will the S&P close above 5,800 today?
 
-Some overlap exists (crypto prices, S&P levels), but plenty of these markets are unique to prediction markets. Want to trade weather or elections? This is the only game in town.
+Some overlap exists (crypto prices, S&P levels), but plenty of these markets are unique to prediction markets. Want to trade [weather](/blog/how-to-trade-weather-markets-on-kalshi) or [elections](/blog/political-prediction-platforms)? This is the only game in town.
 
 For the overlapping markets — like [trading S&P levels on Kalshi](/blog/kalshi-sp500-trading) — prediction markets offer a simpler deal. Instead of picking a strike, choosing an expiry, and managing Greeks, you just pick a price level and buy yes or no.
 
@@ -159,4 +159,4 @@ Prediction markets and options solve different problems. Options are sophisticat
 
 The best traders aren't choosing one over the other — they're using each where it has the advantage. If you're coming from options, prediction markets will feel refreshingly simple. If you're coming from prediction markets, options will feel overwhelmingly complex.
 
-Both reactions are correct. Start where you're comfortable and expand from there.
+Both reactions are correct. Start where you're comfortable and expand from there. For help choosing a platform, our [best prediction market platforms](/blog/best-prediction-market-platforms) guide covers all the major options, and you can browse [live odds](/odds) to see what's available right now.

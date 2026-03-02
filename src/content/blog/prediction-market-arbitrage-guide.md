@@ -14,15 +14,15 @@ faqs:
     answer: "Individual arbitrage trades typically yield 2-8% profit after fees. The challenge is finding opportunities, executing before they close, and managing capital across platforms. Automated scanning significantly improves detection speed."
 ---
 
-Arbitrage in prediction markets is the closest thing to a free lunch in trading: buy a contract on one platform where it's cheap, sell (or buy the opposite side on) another platform where it's expensive, and lock in a guaranteed profit regardless of the outcome. In theory, it's risk-free. In practice, fees, execution risk, and settlement differences make it far more nuanced than it appears. This guide walks through exactly how to find, calculate, and execute prediction market arbitrage -- and when to walk away.
+Arbitrage in [prediction markets](/blog/what-are-prediction-markets) is the closest thing to a free lunch in trading: buy a contract on one platform where it's cheap, sell (or buy the opposite side on) another platform where it's expensive, and lock in a guaranteed profit regardless of the outcome. In theory, it's risk-free. In practice, fees, execution risk, and settlement differences make it far more nuanced than it appears. This guide walks through exactly how to find, calculate, and execute prediction market arbitrage -- and when to walk away.
 
 ## What Is Prediction Market Arbitrage?
 
 Arbitrage is the simultaneous purchase and sale of equivalent contracts at different prices to capture a risk-free profit. In prediction markets, this most commonly occurs when the same event is listed on both [Kalshi](https://kalshi.com/sign-up/?referral=f2e21ad4-75b7-4ffb-bfcc-f2fb36e07b21&m=true&utm_source=masterpredictionmarkets&utm_medium=blog&utm_campaign=signup) and [Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=blog&utm_campaign=signup) at different prices.
 
-The basic logic: if a YES contract on an event trades at $0.55 on Kalshi and $0.60 on Polymarket, or if you can buy YES on Kalshi for $0.55 and NO on Polymarket for $0.35 (implying YES at $0.65), the price difference creates an opportunity. If the prices on both platforms for a YES and the equivalent NO sum to less than $1.00 (after fees), you can profit.
+The basic logic: if a YES [event contract](/blog/what-are-event-contracts) on an event trades at $0.55 on Kalshi and $0.60 on Polymarket, or if you can buy YES on Kalshi for $0.55 and NO on Polymarket for $0.35 (implying YES at $0.65), the price difference creates an opportunity. If the prices on both platforms for a YES and the equivalent NO sum to less than $1.00 (after fees), you can profit.
 
-Why do these discrepancies exist? Different platforms have different participant pools, different fee structures, different liquidity profiles, and different information propagation speeds. A news event might reprice a contract on Polymarket (which has deeper liquidity and faster-moving crypto-native traders) before Kalshi's order book adjusts. Or vice versa -- Kalshi traders with domain expertise in weather or economics might price those contracts more accurately while Polymarket lags.
+Why do these discrepancies exist? Different platforms have different participant pools, different [fee structures](/blog/kalshi-fees-explained), different liquidity profiles, and different information propagation speeds. A news event might reprice a contract on Polymarket (which has deeper liquidity and faster-moving crypto-native traders) before Kalshi's order book adjusts. Or vice versa -- Kalshi traders with domain expertise in weather or economics might price those contracts more accurately while Polymarket lags.
 
 ## How to Identify an Arb
 
@@ -34,7 +34,7 @@ Look for events that are listed on both Kalshi and Polymarket with identical (or
 
 - Federal Reserve rate decisions
 - CPI and economic data releases
-- Bitcoin and Ethereum price milestones
+- [Bitcoin](/blog/will-bitcoin-hit-75000-in-2026-price-prediction-and-market-odds) and [Ethereum](/blog/will-ethereum-reach-4500-in-2026-what-prediction-markets-say) price milestones
 - Major political outcomes
 - Election results
 
@@ -119,7 +119,7 @@ When you've identified a genuine arb, execute it methodically:
 
 3. **Calculate exact profit for both scenarios.** Use the [Arbitrage Scanner](/tools/arbitrage-scanner) or run the math manually. Both outcomes must show positive net profit after all fees.
 
-4. **Execute both legs as close to simultaneously as possible.** Place both orders within seconds. If you execute one leg and the other side moves before you fill, you no longer have an arb -- you have a directional bet.
+4. **Execute both legs as close to simultaneously as possible.** Place both orders within seconds. If you execute one leg and the other side moves before you fill, you no longer have an arb -- you have a directional bet. [Automated trading via API](/blog/how-to-use-apis-for-automated-prediction-market-trading) can help close both legs within seconds.
 
 5. **Confirm both fills.** Check that both orders are fully filled at your expected prices. Partial fills on one leg leave you with an imbalanced position.
 
@@ -143,11 +143,11 @@ Thin order books mean you might not be able to fill your desired size on both le
 
 ### Capital Lockup
 
-Prediction market contracts tie up your capital until settlement, which could be days, weeks, or months away. A 3% guaranteed return sounds good until you realize your capital is locked for 60 days. Annualized, that 3% over 60 days is roughly 18% -- still decent. But if settlement is 6 months away, the same 3% annualizes to just 6%. Consider the opportunity cost of locked capital.
+Prediction market contracts tie up your capital until settlement, which could be days, weeks, or months away. A 3% guaranteed return sounds good until you realize your capital is locked for 60 days. Annualized, that 3% over 60 days is roughly 18% -- still decent. But if settlement is 6 months away, the same 3% annualizes to just 6%. Consider the opportunity cost of locked capital. The [Kelly criterion](/blog/kelly-criterion-prediction-markets-guide) can help you decide whether the annualized return justifies the capital commitment.
 
 ### Regulatory Risk
 
-You're operating across two platforms with very different regulatory statuses. Kalshi is CFTC-regulated; Polymarket is not. If one platform faces regulatory action, freezes funds, or disputes a settlement, your "risk-free" profit is suddenly at risk. For more on these differences, see our [Kalshi vs Polymarket comparison](/blog/kalshi-vs-polymarket-which-platform-should-you-use).
+You're operating across two platforms with very different regulatory statuses. [Kalshi is CFTC-regulated](/blog/is-kalshi-legal); Polymarket is not. If one platform faces regulatory action, freezes funds, or disputes a settlement, your "risk-free" profit is suddenly at risk. For more on these differences, see our [Kalshi vs Polymarket comparison](/blog/kalshi-vs-polymarket-which-platform-should-you-use).
 
 ## Is Arb Worth It?
 
@@ -155,7 +155,7 @@ Let's be honest: prediction market arbitrage is rarely the primary profit driver
 
 - **Low-risk capital deployment.** If you have idle capital on two platforms, arbs put that capital to work with near-zero directional risk.
 - **Learning the mechanics.** Arb hunting forces you to understand both platforms deeply -- order books, fees, settlement rules, and execution. That knowledge pays dividends when you move to directional trading.
-- **Supplemental income.** A few arbs per month at 2-5% per trade on moderate size adds up, especially if settlement is quick.
+- **Supplemental income.** A few arbs per month at 2-5% per trade on moderate size adds up, especially if settlement is quick. Browse [live odds across platforms](/odds) to spot price discrepancies as they appear.
 
 For most traders, the higher-return path is developing directional edge through better probability estimates, as outlined in our [strategies guide](/blog/prediction-market-strategies-finding-edge-as-a-retail-trader). But arbitrage is a useful tool in the toolkit, and when a genuine opportunity appears, the math is straightforward and the risk is minimal.
 

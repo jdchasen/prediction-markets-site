@@ -14,11 +14,11 @@ faqs:
     answer: "Revenge trading is the instinct to immediately enter a new position to recover a loss, usually with thinner edges or larger sizes than your rules allow. Stop it by setting a daily loss limit and stopping trading entirely if you hit it."
 ---
 
-Most prediction market traders lose money in their first few months. That's not because prediction markets are rigged or because the odds are stacked against you -- it's because new traders make the same handful of preventable mistakes over and over again. These mistakes feel invisible in the moment. You place what looks like a smart trade, the math seems right, and you still end up with less money than you started with. After trading thousands of contracts across weather, economic, and financial markets, I can tell you exactly where the money disappears. Here are the five most common prediction market mistakes and how to avoid every one of them.
+Most [prediction market](/blog/what-are-prediction-markets) traders lose money in their first few months. That's not because prediction markets are rigged or because the odds are stacked against you -- it's because new traders make the same handful of preventable mistakes over and over again. These mistakes feel invisible in the moment. You place what looks like a smart trade, the math seems right, and you still end up with less money than you started with. After trading thousands of contracts across weather, economic, and financial markets, I can tell you exactly where the money disappears. Here are the five most common prediction market mistakes and how to avoid every one of them.
 
 ## 1. Ignoring the Impact of Fees
 
-This is the number one account killer for new traders, and it's the least obvious. On a platform like [Kalshi](https://kalshi.com/sign-up/?referral=f2e21ad4-75b7-4ffb-bfcc-f2fb36e07b21&m=true&utm_source=masterpredictionmarkets&utm_medium=blog&utm_campaign=signup), you pay fees on every trade -- both when you buy and when you sell. The fee structure typically runs around 7 cents per contract for a round-trip (buy and sell combined), with additional fees on settlement payouts. That might sound small, but it adds up fast and can turn apparently profitable trades into break-even or losing ones.
+This is the number one account killer for new traders, and it's the least obvious. On a platform like [Kalshi](https://kalshi.com/sign-up/?referral=f2e21ad4-75b7-4ffb-bfcc-f2fb36e07b21&m=true&utm_source=masterpredictionmarkets&utm_medium=blog&utm_campaign=signup), you pay [fees on every trade](/blog/kalshi-fees-explained) -- both when you buy and when you sell. The fee structure typically runs around 7 cents per contract for a round-trip (buy and sell combined), with additional fees on settlement payouts. That might sound small, but it adds up fast and can turn apparently profitable trades into break-even or losing ones.
 
 Here's a concrete example. Say you spot a weather contract you like and buy Yes at $0.60. The temperature comes in your direction, the contract moves up, and you sell at $0.65. On paper, you just made 5 cents per contract -- an 8.3% return on your capital. Sounds great.
 
@@ -32,7 +32,7 @@ New traders tend to find one type of market they understand -- usually weather o
 
 Weather markets are a good example. If you're exclusively trading temperature contracts in three or four cities, a single weather pattern can correlate your entire book. A broad warm front across the eastern United States could mean all of your Yes positions on temperature exceeding their strikes either win together or lose together. You haven't diversified -- you've made one big bet disguised as five small ones.
 
-The same problem shows up in financial markets. If all your capital is in S&P 500 range contracts and a surprise Fed announcement sends the index flying past your strikes, every position in your portfolio moves against you simultaneously.
+The same problem shows up in financial markets. If all your capital is in [S&P 500 range contracts](/blog/kalshi-spx-trading) and a surprise Fed announcement sends the index flying past your strikes, every position in your portfolio moves against you simultaneously.
 
 **Spread your capital across uncorrelated market categories.** Our [best prediction market platforms guide](/platforms) covers which platforms offer the widest market variety. A portfolio that includes weather contracts, economic event markets (like CPI or jobs reports), and financial range markets is far more resilient. When weather markets have a bad week, your economic positions are unaffected. When an unexpected rate decision blows up your Fed contracts, your temperature trades keep humming along. Diversification isn't just a textbook concept -- it's the difference between a rough week and a blown account.
 
@@ -44,7 +44,7 @@ Here's what happens in practice. You find a contract that looks mispriced at $0.
 
 Wide spreads create a hidden tax on every trade. If the bid-ask spread on a contract is 8 to 10 cents wide, you're losing 4 to 5 cents of value the moment you enter the position, on top of whatever fees you pay. That means a contract needs to move significantly in your favor just for you to break even.
 
-**Before entering any trade, check the order book.** Look at the bid-ask spread, the depth at each price level, and the recent trade history. A healthy market will have a spread of 1 to 3 cents with reasonable size on both sides. If the spread is 5 cents or wider, or if the order book has fewer than 10 to 20 contracts at the best bid, think twice. Stick to the most actively traded markets on the platform -- daily weather contracts in major cities, near-term S&P 500 ranges, and upcoming Fed decision markets tend to have the best liquidity. Leave the obscure, long-dated contracts to the market makers.
+**Before entering any trade, check the order book.** Look at the bid-ask spread, the depth at each price level, and the recent trade history. A healthy market will have a spread of 1 to 3 cents with reasonable size on both sides. If the spread is 5 cents or wider, or if the order book has fewer than 10 to 20 contracts at the best bid, think twice. Stick to the most actively traded markets on the platform -- daily weather contracts in major cities, near-term S&P 500 ranges, and upcoming Fed decision markets tend to have the best liquidity. Leave the obscure, long-dated contracts to the market makers. For a side-by-side look at where liquidity is deepest, see our [platform comparison](/compare).
 
 ## 4. Not Understanding Settlement Mechanics
 
@@ -68,12 +68,12 @@ A related pattern is emotional trading driven by conviction rather than data. Yo
 
 The antidote is simple to describe and hard to execute: **have a plan and follow it mechanically.** Define your entry criteria, your position sizing rules, and your exit conditions before you place any trade. When a trade goes against you, execute your exit and move on. Don't adjust your rules in the heat of the moment. If you find yourself wanting to increase your position size after a loss, close your laptop and take a break.
 
-One practical technique that works: set a daily loss limit. If you lose more than a fixed dollar amount in a single day -- say $50 or $100, depending on your account size -- stop trading for the rest of the day. This single rule prevents the worst damage from revenge trading spirals and gives you time to reassess with a clear head.
+One practical technique that works: use the [Kelly criterion](/blog/kelly-criterion-prediction-markets-guide) for sizing, and set a daily loss limit. If you lose more than a fixed dollar amount in a single day -- say $50 or $100, depending on your account size -- stop trading for the rest of the day. This single rule prevents the worst damage from revenge trading spirals and gives you time to reassess with a clear head.
 
 ## Key Takeaways
 
 - **Always calculate net profit after fees** before entering a trade. On Kalshi, round-trip fees can consume most or all of a 5-cent gain. Look for edges of at least 7 to 10 cents to trade profitably after costs.
-- **Diversify across market categories** -- weather, economics, financials -- so a single correlated event doesn't wipe out your entire book.
+- **Diversify across market categories** -- weather, economics, financials -- so a single correlated event doesn't wipe out your entire book. Browse [live odds](/odds) to see what's available across categories.
 - **Check the order book before you trade.** If the bid-ask spread is wider than 3 to 5 cents or the book is thin, the market is too illiquid to trade efficiently.
 - **Read the settlement rules** for every contract. Know the data source, the exact settlement time, and how boundary conditions are handled. Assumptions cost money.
-- **Follow a mechanical process** and set a daily loss limit. Revenge trading after losses is the fastest way to destroy a prediction market account. The best trade after a bad loss is often no trade at all.
+- **Follow a mechanical process** and set a daily loss limit. Revenge trading after losses is the fastest way to destroy a prediction market account. The best trade after a bad loss is often no trade at all. Our [strategies guide](/blog/prediction-market-strategies-finding-edge-as-a-retail-trader) covers how to build a repeatable process.

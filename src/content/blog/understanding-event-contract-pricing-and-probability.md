@@ -18,7 +18,7 @@ Every prediction market contract encodes a crowd-sourced probability estimate in
 
 ## How Binary Event Contracts Work
 
-A binary event contract is the simplest financial instrument you'll encounter. It pays out exactly **$1.00 if the event occurs** (a "Yes" resolution) and **$0.00 if it doesn't** (a "No" resolution). There's no partial payout, no leverage ratio to calculate, and no complex payoff curve. The entire analytical challenge lives in one question: what's the true probability of the event?
+A binary [event contract](/blog/what-are-event-contracts) is the simplest financial instrument you'll encounter. It pays out exactly **$1.00 if the event occurs** (a "Yes" resolution) and **$0.00 if it doesn't** (a "No" resolution). There's no partial payout, no leverage ratio to calculate, and no complex payoff curve. The entire analytical challenge lives in one question: what's the true probability of the event?
 
 When you buy a Yes contract at $0.70, you pay 70 cents now for the right to receive $1.00 if the event happens. If it does, your profit is $0.30. If it doesn't, you lose your $0.70 stake. The mirror image applies to the No side: someone selling you that Yes contract at $0.70 is effectively buying No at $0.30, risking 30 cents to make 70 cents if the event fails to occur.
 
@@ -56,7 +56,7 @@ A common mistake among new traders is optimizing for win rate. But a strategy th
 
 ## The Role of Fees
 
-Fees are the silent killer of marginal edges. On platforms like [Kalshi](https://kalshi.com/sign-up/?referral=f2e21ad4-75b7-4ffb-bfcc-f2fb36e07b21&m=true&utm_source=masterpredictionmarkets&utm_medium=blog&utm_campaign=signup), you'll typically encounter a per-contract fee on both entry and exit. A common fee structure is around $0.02 per contract per side, which means a round-trip trade costs roughly $0.04 in fees alone.
+Fees are the silent killer of marginal edges. On platforms like [Kalshi](https://kalshi.com/sign-up/?referral=f2e21ad4-75b7-4ffb-bfcc-f2fb36e07b21&m=true&utm_source=masterpredictionmarkets&utm_medium=blog&utm_campaign=signup), you'll typically encounter a per-contract fee on both entry and exit. Our [Kalshi fees guide](/blog/kalshi-fees-explained) has the complete fee schedule. A common fee structure is around $0.02 per contract per side, which means a round-trip trade costs roughly $0.04 in fees alone.
 
 This has a direct implication: **if your edge is less than your round-trip fee cost, the trade has negative expected value regardless of your probability estimate.**
 
@@ -97,7 +97,7 @@ Range markets offer unique opportunities for quantitative traders. If your model
 
 Contract prices move for the same reason any market price moves: new information changes the balance of supply and demand. A contract on "Will the Fed raise rates in March?" might trade at $0.25 on Monday, jump to $0.60 after a hawkish inflation print on Wednesday, and settle at $0.45 after a dovish Fed speech on Friday.
 
-Each new piece of information causes traders to update their probability estimates and adjust their positions. In liquid markets, this process is fast and the price converges toward the consensus probability. In thin markets, a single large order can move the price significantly, creating short-lived mispricings.
+Each new piece of information causes traders to update their probability estimates and adjust their positions. In liquid markets, this process is fast and the price converges toward the consensus probability. In thin markets, a single large order can move the price significantly, creating short-lived mispricings. You can monitor these price movements in real time on our [live odds page](/odds).
 
 ### Market Efficiency and Where It Breaks Down
 
@@ -105,7 +105,7 @@ Prediction markets are generally efficient in the same way financial markets are
 
 But efficiency breaks down in predictable ways:
 
-- **Niche markets**: Contracts on local weather, obscure economic indicators, or low-profile events attract fewer participants. Less competition means more mispricing.
+- **Niche markets**: Contracts on local weather, obscure economic indicators, or low-profile events attract fewer participants. Less competition means more mispricing. Compare opportunities across [the best prediction market platforms](/blog/best-prediction-market-platforms).
 - **Fast-moving news**: When breaking news hits, there's a window -- sometimes seconds, sometimes minutes -- where the market hasn't fully incorporated the information. Traders with faster information pipelines or pre-built models can capture this gap.
 - **Domain expertise**: A professional meteorologist trading weather contracts, a transportation analyst trading airline metrics, or a political operative trading local election outcomes all possess informational advantages that the broad market lacks.
 - **Temporal inefficiency**: Markets approaching settlement often become mispriced as liquidity providers withdraw and remaining participants trade on emotion rather than probability. Contracts with hours left to settle can deviate meaningfully from fair value.
@@ -134,4 +134,4 @@ This process removes emotion from the equation and lets you evaluate your perfor
 - **Spreads are a hidden cost**: Factor the bid-ask spread into your edge calculation, especially in low-liquidity markets.
 - **Range markets create opportunity**: Bracket contracts express a full probability distribution. Mispricings at the tails are common because fewer traders model the extremes.
 - **Efficiency is uneven**: Popular markets are well-priced. Edge concentrates in niche markets, fast-moving news, and areas where you have domain expertise.
-- **Systematic beats discretionary**: Build a model, calculate edge, filter by threshold, size by Kelly, and track everything. Let the math compound over time. If you're ready to automate this process, our [guide to building a trading bot](/blog/how-to-use-apis-for-automated-prediction-market-trading) shows you how.
+- **Systematic beats discretionary**: Build a model, calculate edge, filter by threshold, size by Kelly, and track everything. Our [implied probability guide](/blog/how-to-calculate-implied-probability-prediction-markets) walks through the math step by step. Let the math compound over time. If you're ready to automate this process, our [guide to building a trading bot](/blog/how-to-use-apis-for-automated-prediction-market-trading) shows you how.

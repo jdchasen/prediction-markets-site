@@ -22,7 +22,7 @@ faqs:
 
 On election night 2024, cable news pundits were still hedging. Polling models showed a toss-up. FiveThirtyEight had the presidential race within a point. But [Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=blog&utm_campaign=signup) already knew. Hours before major networks called the race, Polymarket's presidential election contract had moved decisively in one direction, pricing in what the polls were still unable to capture.
 
-This was not a lucky guess. Polymarket's election markets processed information from hundreds of thousands of participants putting real money behind their convictions, and the result was a probability estimate that outperformed every major polling aggregate. It was the most visible demonstration yet of a principle that economists have studied for decades: prediction markets, on average, are better forecasters than polls.
+This was not a lucky guess. Polymarket's election markets processed information from hundreds of thousands of participants putting real money behind their convictions, and the result was a probability estimate that outperformed every major polling aggregate. It was the most visible demonstration yet of a principle that economists have studied for decades: [prediction markets](/blog/what-are-prediction-markets), on average, are better forecasters than polls.
 
 ## The Numbers Behind the 2024 Election Markets
 
@@ -71,7 +71,7 @@ For traders who want to participate in the next cycle, here's how the mechanics 
 
 ### Contract Structure
 
-Election contracts on Polymarket are structured as binary outcomes. A presidential election contract might ask: "Will Candidate X win the 2024 presidential election?" You can buy Yes or No shares. Yes shares pay $1.00 if the candidate wins and $0.00 if they lose. No shares pay the inverse.
+Election contracts on Polymarket are structured as binary outcomes. A presidential election contract might ask: "Will Candidate X win the 2024 presidential election?" You can buy Yes or No shares. Yes shares pay $1.00 if the candidate wins and $0.00 if they lose. No shares pay the inverse. The share price directly represents the market's [implied probability](/blog/how-to-calculate-implied-probability-prediction-markets) of the outcome.
 
 ### Pricing and Liquidity
 
@@ -99,17 +99,17 @@ As events approach, liquidity increases dramatically. The presidential election 
 
 ### 3. Correlated Markets Offer Hedging and Arbitrage
 
-Polymarket offered contracts on not just the presidential race, but also Senate races, House control, individual state outcomes, popular vote margins, and more. These contracts are correlated, and when one moves, the others should adjust accordingly. Sometimes they don't adjust simultaneously, creating brief arbitrage opportunities.
+Polymarket offered contracts on not just the presidential race, but also Senate races, House control, individual state outcomes, popular vote margins, and more. These contracts are correlated, and when one moves, the others should adjust accordingly. Sometimes they don't adjust simultaneously, creating brief [arbitrage opportunities](/blog/prediction-market-arbitrage-guide). You can use our [Arbitrage Scanner](/tools/arbitrage-scanner) to spot these cross-market dislocations.
 
 For example, if a state-level contract reprices based on new polling data, the national-level presidential contract should also move -- but there's often a lag of minutes or even hours. Traders who monitor correlated markets can capture these dislocations.
 
 ### 4. Exit Before Settlement When Possible
 
-A contract trading at $0.92 the night before a likely outcome is confirmed offers limited upside ($0.08) with meaningful downside risk if something unexpected happens. In many cases, selling a winning position at $0.90 to $0.95 before final settlement is the better risk-adjusted play. This was a critical lesson from 2024 -- several traders held positions through contested-result uncertainty that could have been closed at favorable prices earlier.
+A contract trading at $0.92 the night before a likely outcome is confirmed offers limited upside ($0.08) with meaningful downside risk if something unexpected happens. Knowing when to exit is one of the most important [prediction market strategies](/blog/prediction-market-strategies-finding-edge-as-a-retail-trader). In many cases, selling a winning position at $0.90 to $0.95 before final settlement is the better risk-adjusted play. This was a critical lesson from 2024 -- several traders held positions through contested-result uncertainty that could have been closed at favorable prices earlier. This is one of the [most common mistakes](/blog/5-common-prediction-market-mistakes-to-avoid) in prediction market trading.
 
 ## What to Watch for 2026 Midterms
 
-The 2026 midterm elections will almost certainly generate significant prediction market activity, though likely at lower volumes than the presidential cycle. Here's what to watch:
+The 2026 midterm elections will almost certainly generate significant prediction market activity, though likely at lower volumes than the presidential cycle. You can track emerging political markets on our [live odds page](/odds/politics). Here's what to watch:
 
 - **Senate control:** Individual Senate race contracts and an overall Senate control contract will be the most liquid midterm markets.
 - **House control:** Similar structure to Senate, though individual House race contracts may have thin liquidity.
@@ -124,4 +124,4 @@ Polymarket's 2024 election performance was more than a trading story. It was a p
 
 For traders, the implication is clear: political event contracts are not going away. The volume, infrastructure, and mainstream awareness are all growing. If you want to trade these markets profitably, the time to develop your analytical framework is now -- before the next major cycle heats up.
 
-Whether you prefer Polymarket's crypto-based approach or a regulated exchange like [Kalshi](https://kalshi.com/sign-up/?referral=f2e21ad4-75b7-4ffb-bfcc-f2fb36e07b21&m=true&utm_source=masterpredictionmarkets&utm_medium=blog&utm_campaign=signup) for US-based political markets, the edge comes from the same place: better information, faster processing, and disciplined risk management. For help deciding between platforms, our [Kalshi vs. Polymarket comparison](/blog/kalshi-vs-polymarket-which-platform-should-you-use) breaks down the tradeoffs for different trading styles.
+Whether you prefer Polymarket's crypto-based approach or a regulated exchange like [Kalshi](https://kalshi.com/sign-up/?referral=f2e21ad4-75b7-4ffb-bfcc-f2fb36e07b21&m=true&utm_source=masterpredictionmarkets&utm_medium=blog&utm_campaign=signup) for US-based political markets, the edge comes from the same place: better information, faster processing, and disciplined risk management. For a breakdown of every platform that offers political markets, see our [political prediction platforms](/blog/political-prediction-platforms) guide. For help deciding between platforms, our [Kalshi vs. Polymarket comparison](/blog/kalshi-vs-polymarket-which-platform-should-you-use) breaks down the tradeoffs for different trading styles.

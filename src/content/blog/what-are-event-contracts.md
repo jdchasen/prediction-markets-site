@@ -40,7 +40,7 @@ If you've traded stock options or futures, event contracts will feel familiar in
 
 Stock options give you the right to buy or sell an underlying asset at a specific price. Their value depends on multiple factors: the stock price, strike price, time to expiration, volatility, and interest rates. Pricing requires models like Black-Scholes, and the risk profile can be complex -- especially for sellers.
 
-Event contracts strip all of that away. There's no underlying asset to track. The payout is binary: $1 or $0. The price is intuitive because it directly represents a probability. You don't need to understand delta, gamma, theta, or vega. You need to understand one thing: is the market's implied probability higher or lower than the true probability?
+Event contracts strip all of that away. There's no underlying asset to track. The payout is binary: $1 or $0. The price is intuitive because it directly represents a probability. You don't need to understand delta, gamma, theta, or vega. You need to understand one thing: is the market's [implied probability](/blog/how-to-calculate-implied-probability-prediction-markets) higher or lower than the true probability?
 
 ### vs. Futures
 
@@ -75,7 +75,7 @@ When a contract settles at $1.00, holders of Yes contracts receive $1.00 per con
 The range of tradeable events has expanded dramatically since the first CFTC-approved event contracts launched. Here's what's available on major platforms today:
 
 ### Financial Markets
-S&P 500 above/below contracts, Bitcoin and Ethereum price ranges, individual stock earnings outcomes, and interest rate decisions. These are some of the most liquid event contracts available and attract traders who want simpler alternatives to options.
+S&P 500 above/below contracts, Bitcoin and Ethereum price ranges, individual stock earnings outcomes, and interest rate decisions. These are some of the most liquid event contracts available and attract traders who want simpler alternatives to [options](/blog/prediction-markets-vs-options). Browse [live financial market odds](/odds/finance) to see what's currently trading.
 
 ### Economics
 Federal Reserve rate decisions, CPI and inflation data, unemployment claims, GDP releases, and other macroeconomic indicators. These contracts are particularly interesting because they let you directly express a view on economic data without having to trade the downstream instruments (bonds, equities) that react to them.
@@ -84,7 +84,7 @@ Federal Reserve rate decisions, CPI and inflation data, unemployment claims, GDP
 Daily high and low temperature contracts for major US cities. These are surprisingly tradeable for anyone willing to learn basic weather forecasting and probability modeling. Check out our [guide to weather market trading](/blog/how-to-trade-weather-markets-on-kalshi) for the full breakdown.
 
 ### Politics and Current Events
-Election outcomes, policy decisions, geopolitical events, and more. The 2024 election cycle generated massive volume on prediction markets and proved that these contracts can aggregate information more accurately than traditional polling.
+Election outcomes, policy decisions, geopolitical events, and more. The 2024 election cycle generated massive volume on [prediction market platforms](/blog/best-prediction-market-platforms) and proved that these contracts can aggregate information more accurately than traditional polling.
 
 ### Sports and Entertainment
 Some platforms offer contracts on game outcomes, award shows, and other entertainment events, though availability depends on regulatory status and platform.
@@ -111,6 +111,6 @@ If you're interested in getting started, our [beginner's guide to prediction mar
 
 ## The Bottom Line
 
-Event contracts are probability instruments with binary payoffs, defined risk, and intuitive pricing. They're not a get-rich-quick vehicle -- fees are real, and mispricing edges are often slim. But for traders who think in probabilities, who want exposure to events without the complexity of traditional derivatives, and who appreciate the simplicity of "it either happens or it doesn't," event contracts represent one of the most interesting developments in retail trading in years.
+Event contracts are probability instruments with binary payoffs, defined risk, and intuitive pricing. They're not a get-rich-quick vehicle -- [fees are real](/blog/kalshi-fees-explained), and mispricing edges are often slim. But for traders who think in probabilities, who want exposure to events without the complexity of traditional derivatives, and who appreciate the simplicity of "it either happens or it doesn't," event contracts represent one of the most interesting developments in retail trading in years. For strategies that work in this space, see our guide on [making money in prediction markets](/blog/prediction-markets-making-money).
 
 The asset class is still young. Liquidity is growing, new contract types are launching regularly, and the regulatory framework is solidifying. Getting familiar with event contracts now, while the market is still maturing, is a reasonable bet -- if you'll pardon the phrasing.

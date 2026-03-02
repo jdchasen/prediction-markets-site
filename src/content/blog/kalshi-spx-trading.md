@@ -18,7 +18,7 @@ faqs:
     answer: "Kalshi SPX contracts settle based on the official S&P 500 closing value at 4:00 PM ET as reported by S&P Global. After-hours trading doesn't affect settlement."
 ---
 
-If you've ever wanted to trade the S&P 500 without dealing with options Greeks, margin requirements, or the complexity of futures, Kalshi's SPX event contracts are worth your attention. They let you express a directional view on where the S&P 500 will close on a given day -- with a maximum loss you know before you enter the trade and no possibility of a margin call.
+If you've ever wanted to trade the S&P 500 without dealing with options Greeks, margin requirements, or the complexity of futures, Kalshi's SPX [event contracts](/blog/what-are-event-contracts) are worth your attention. They let you express a directional view on where the S&P 500 will close on a given day -- with a maximum loss you know before you enter the trade and no possibility of a margin call. Check [live S&P 500 odds](/odds/finance) to see today's available strikes.
 
 I trade these contracts daily, and they have become one of the most interesting product categories on the platform. Here's how they work, how they compare to traditional instruments, and when they make sense as part of a trading strategy.
 
@@ -46,7 +46,7 @@ If you've traded SPY options, Kalshi's SPX contracts will feel simultaneously fa
 
 An SPY option's price is a function of the underlying price, strike price, time to expiration, implied volatility, interest rates, and dividends. You need a model just to understand what you're paying for.
 
-A Kalshi SPX contract's price is a single number that represents the market's implied probability that the S&P 500 closes above the strike. That is it. If the contract is at $0.40, the market thinks there's a 40% chance the index closes above that level. You don't need to calculate delta, gamma, theta, or vega. You just need to assess whether 40% is right.
+A Kalshi SPX contract's price is a single number that represents the market's [implied probability](/blog/how-to-calculate-implied-probability-prediction-markets) that the S&P 500 closes above the strike. That is it. If the contract is at $0.40, the market thinks there's a 40% chance the index closes above that level. You don't need to calculate delta, gamma, theta, or vega. You just need to assess whether 40% is right.
 
 ### Defined Risk Without Margin
 
@@ -64,7 +64,7 @@ This creates interesting intraday trading dynamics. Contracts near the current p
 
 The simplest use case. If you think the market is going up today, buy an above-strike contract that is slightly out of the money. You get leveraged upside exposure (the contract might go from $0.35 to $0.80 if the market rallies) with a known maximum loss.
 
-This is conceptually similar to buying an out-of-the-money call option, but without the complexity of choosing an expiration, evaluating implied volatility, or managing time decay over multiple days.
+This is conceptually similar to buying an out-of-the-money call option, but without the complexity of choosing an expiration, evaluating implied volatility, or managing time decay over multiple days. For a deeper comparison, see our guide on [prediction markets vs options](/blog/prediction-markets-vs-options).
 
 ### Range Trading
 
@@ -80,7 +80,7 @@ Be cautious here. Late-day volatility can be sharp and unpredictable, and the bi
 
 ## Settlement Mechanics
 
-Kalshi SPX contracts settle based on the **official closing value of the S&P 500 index** as reported by S&P Global. This is typically the 4:00 PM ET regular session close. After-hours trading doesn't affect settlement.
+Kalshi SPX contracts settle based on the **official closing value of the S&P 500 index** as reported by S&P Global. This is typically the 4:00 PM ET regular session close. After-hours trading doesn't affect settlement. Understanding [settlement mechanics](/blog/understanding-event-contract-pricing-and-probability) is critical for avoiding surprise outcomes.
 
 Settlement usually processes within minutes to hours after market close. Your account is credited or debited based on the final outcome. There's no ambiguity -- the S&P 500 closing price is one of the most widely reported and verified numbers in financial markets.
 
@@ -96,15 +96,15 @@ For more on these timing strategies and how to build a systematic approach, our 
 
 ## Fees and Cost Considerations
 
-Kalshi's fee structure applies to SPX contracts just as it does to all other event contracts. Fees are charged on trades and typically run a few cents per contract round-trip. This means very tight edges -- buying at $0.50 and selling at $0.53 -- may not be profitable after fees. You generally need a meaningful probability edge (10 cents or more) to justify a position.
+Kalshi's fee structure applies to SPX contracts just as it does to all other event contracts. [Fees](/blog/kalshi-fees-explained) are charged on trades and typically run a few cents per contract round-trip. This means very tight edges -- buying at $0.50 and selling at $0.53 -- may not be profitable after fees. You generally need a meaningful probability edge (10 cents or more) to justify a position. The [Probability Calculator](/tools/probability-calculator) can help you verify your edge after fees.
 
-The fee structure also means that high-frequency scalping strategies are not viable on Kalshi. These contracts are best suited for traders who have a genuine analytical view on the day's price action rather than those trying to capture tiny intraday price oscillations.
+The fee structure also means that high-frequency scalping strategies are not viable on Kalshi. These contracts are best suited for traders who have a genuine analytical view on the day's price action rather than those trying to capture tiny intraday price oscillations. Proper [position sizing with the Kelly criterion](/blog/kelly-criterion-prediction-markets-guide) is essential for managing daily risk.
 
 ## Who Are SPX Contracts For?
 
 Kalshi SPX contracts are ideal for traders who want equity index exposure with absolute simplicity. If you understand the S&P 500, follow market news, and want to express a daily view without the overhead of options or futures, they're an excellent tool.
 
-They're also useful as a complement to existing positions. If you have a stock portfolio and want to hedge against a bad day without selling shares or buying put options, a small SPX below-strike contract on Kalshi can serve as a simple hedge.
+They're also useful as a complement to existing positions. If you have a stock portfolio and want to hedge against a bad day without selling shares or buying put options, a small SPX below-strike contract on Kalshi can serve as a simple hedge. You can even [automate this via the Kalshi API](/blog/how-to-use-apis-for-automated-prediction-market-trading).
 
 For a broader look at everything available on the platform and how SPX contracts fit into the overall product lineup, check out our [comprehensive Kalshi review](/blog/kalshi-review).
 

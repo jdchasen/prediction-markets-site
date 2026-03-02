@@ -30,9 +30,9 @@ This exchange-based structure has profound implications. There are no betting li
 
 Sports betting in the United States is regulated state by state. After the Supreme Court struck down PASPA in 2018, each state enacted its own licensing framework, rules, and tax structures. The result is a patchwork: legal in some states, illegal in others, and subject to different rules everywhere. Your sportsbook is licensed by a state gambling commission.
 
-Prediction markets follow a completely different regulatory path. Kalshi is regulated by the **Commodity Futures Trading Commission (CFTC)** -- the same federal agency that oversees futures exchanges like the CME and CBOE. Event contracts on Kalshi are classified as derivatives, not wagers. This means federally uniform regulation, segregated customer funds, and a legal framework designed for financial markets rather than gambling.
+Prediction markets follow a completely different regulatory path. Kalshi is regulated by the **Commodity Futures Trading Commission (CFTC)** -- the same federal agency that oversees futures exchanges like the CME and CBOE. [Event contracts](/blog/what-are-event-contracts) on Kalshi are classified as derivatives, not wagers. This means federally uniform regulation, segregated customer funds, and a legal framework designed for financial markets rather than gambling. For more on Kalshi's regulatory status, see [Is Kalshi Legal?](/blog/is-kalshi-legal).
 
-[Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=blog&utm_campaign=signup), the largest crypto-native prediction market, operates outside U.S. regulatory frameworks entirely, running on blockchain infrastructure with no KYC requirements for basic trading.
+[Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=blog&utm_campaign=signup), the largest crypto-native prediction market, operates outside U.S. regulatory frameworks entirely, running on blockchain infrastructure with no KYC requirements for basic trading. For a detailed comparison of the two, see [Kalshi vs Polymarket](/blog/kalshi-vs-polymarket-which-platform-should-you-use).
 
 The practical takeaway: prediction markets are not classified as gambling under federal law, which affects everything from tax treatment to how the platforms are allowed to operate.
 
@@ -44,7 +44,7 @@ Prediction markets cover nearly everything:
 
 - **Weather**: Will the high temperature in Chicago exceed 40 degrees F tomorrow?
 - **Economics**: Will the Fed cut rates at the next FOMC meeting? Will CPI come in above 3%?
-- **Financial markets**: Will the S&P 500 close above 6,000 on Friday?
+- **Financial markets**: Will the [S&P 500 close above 6,000](/blog/kalshi-spx-trading) on Friday?
 - **Politics**: Will a specific bill pass the Senate? Who wins the next presidential election?
 - **Crypto**: Will Bitcoin break $100,000 by end of quarter?
 - **Current events**: Will a government shutdown occur? Will a specific company announce layoffs?
@@ -70,7 +70,7 @@ This breadth isn't just a novelty -- it creates edge opportunities in categories
 
 In sports betting, the cost of doing business is baked into the odds. A standard -110/-110 line implies a combined overround of roughly 4.5%. You never see a separate fee -- it's embedded in the price you get. Some sportsbooks offer reduced juice (-105 lines), but the house edge is always there.
 
-On Kalshi, fees are transparent and separated from the price. You pay approximately 7 cents per contract on a round trip (buying and selling). There's no hidden spread manipulation by the platform. The bid-ask spread on the order book is set entirely by other traders. This means that when you see a price, you know exactly what you're paying and can calculate your breakeven with precision.
+On Kalshi, fees are transparent and separated from the price. You pay approximately 7 cents per contract on a round trip (buying and selling). Our [Kalshi fees guide](/blog/kalshi-fees-explained) breaks down exactly how these costs affect your edge. There's no hidden spread manipulation by the platform. The bid-ask spread on the order book is set entirely by other traders. This means that when you see a price, you know exactly what you're paying and can calculate your breakeven with precision.
 
 On Polymarket, there are no platform trading fees at all. The cost is the blockchain gas fee for deposits and withdrawals, plus whatever the bid-ask spread happens to be on a given market.
 
@@ -89,7 +89,7 @@ Some specific sources of inefficiency in prediction markets:
 - **Time decay**: As settlement approaches and uncertainty resolves, contracts move toward $0 or $1. Traders who understand how to model this convergence can take profit before settlement, rather than holding binary risk all the way to expiration.
 - **Cross-category knowledge**: A sports bettor who also understands weather data or macroeconomics can exploit markets where the typical participant has no domain expertise.
 
-The prediction market space today is roughly where online sports betting was in the early 2010s -- growing fast, but with fewer sharp participants and more pricing errors to exploit. For specific approaches, see our guide on [prediction market strategies that actually work](/blog/prediction-market-strategies-finding-edge-as-a-retail-trader).
+The prediction market space today is roughly where online sports betting was in the early 2010s -- growing fast, but with fewer sharp participants and more pricing errors to exploit. You can browse current opportunities across categories on our [live odds page](/odds). For specific approaches, see our guide on [prediction market strategies that actually work](/blog/prediction-market-strategies-finding-edge-as-a-retail-trader).
 
 ## Settlement Mechanics: Transparency by Design
 
@@ -103,4 +103,4 @@ This transparency is a meaningful upgrade for anyone who has ever been on the wr
 
 Prediction markets and sports betting share DNA -- both are fundamentally about pricing future outcomes correctly. But prediction markets offer structural advantages that matter: exchange-based trading where winning isn't punished, federal regulation with segregated funds, a vastly wider universe of tradeable events, transparent fees, and a market maturity level that still rewards early adopters with exploitable inefficiencies.
 
-If you're a sports bettor who has been limited, a quantitative thinker looking for new markets, or simply someone who wants to trade on more than just game outcomes, prediction markets are worth serious attention. Start with our [beginner's guide to prediction markets](/blog/what-are-prediction-markets) to learn the fundamentals. The learning curve is short for anyone who already thinks in probabilities. The opportunity set is large and growing. And unlike your sportsbook, the exchange won't shut you down for being too good.
+If you're a sports bettor who has been limited, a quantitative thinker looking for new markets, or simply someone who wants to trade on more than just game outcomes, prediction markets are worth serious attention. Start with our [beginner's guide to prediction markets](/blog/what-are-prediction-markets) to learn the fundamentals. The learning curve is short for anyone who already thinks in probabilities. Our [implied probability calculator](/tools/probability-calculator) can help you convert between odds formats and prediction market prices. The opportunity set is large and growing. And unlike your sportsbook, the exchange won't shut you down for being too good.

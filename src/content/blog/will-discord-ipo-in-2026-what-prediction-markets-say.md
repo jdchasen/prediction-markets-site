@@ -14,13 +14,13 @@ faqs:
     answer: "The most reliable signal is an S-1 filing with the SEC, which means the IPO is 2-3 months away. Other signals include underwriter selection (Goldman, Morgan Stanley), independent board appointments, and credible Bloomberg/WSJ reporting."
 ---
 
-Discord has been "about to IPO" for what feels like forever. The company turned down a $12 billion Microsoft acquisition in 2021, has been building its business for over a decade, and at some point it's going to go public. The question is: will 2026 actually be the year?
+Discord has been "about to IPO" for what feels like forever. The company turned down a $12 billion Microsoft acquisition in 2021, has been building its business for over a decade, and at some point it's going to go public. The question is: will 2026 actually be the year? [Prediction markets](/blog/what-are-prediction-markets) let us skip the speculation and look at where real money is being bet.
 
 [Kalshi](https://kalshi.com/sign-up/?referral=f2e21ad4-75b7-4ffb-bfcc-f2fb36e07b21&m=true&utm_source=masterpredictionmarkets&utm_medium=blog&utm_campaign=signup) has [a live contract on this exact question](/odds/will-discord-not-ipo-by-june-30-2026), and the answer might surprise you.
 
 ## One Important Thing to Know First
 
-The contract is phrased as "Will Discord **NOT** IPO by June 30, 2026?" — which is the opposite of what you might expect. So:
+The contract is phrased as "Will Discord **NOT** IPO by June 30, 2026?" — which is the opposite of what you might expect. Understanding how [event contract pricing](/blog/understanding-event-contract-pricing-and-probability) works is essential before trading contracts with inverted phrasing like this. So:
 
 - **YES** = Discord stays private (no IPO by June 30)
 - **NO** = Discord goes public (IPO happens by June 30)
@@ -47,7 +47,7 @@ Employees are feeling it too — many are sitting on stock options or RSUs that 
 
 ### It Looks Like They're Preparing
 
-Hiring senior finance executives from public companies? Check. Improving financial reporting infrastructure? Check. Diversifying revenue beyond subscriptions? Check. These are the classic moves companies make 12-18 months before going public. It's not proof, but it's a strong signal.
+Hiring senior finance executives from public companies? Check. Improving financial reporting infrastructure? Check. Diversifying revenue beyond subscriptions? Check. These are the classic moves companies make 12-18 months before going public. It's not proof, but it's a strong signal. Keeping an eye on the [live odds page](/odds) lets you see how the market reacts to each new development in real time.
 
 ## The Case Against (At Least by June 30)
 
@@ -85,9 +85,9 @@ If you see an S-1 filing, the contract price should move dramatically. That's th
 
 ## The Time Decay Angle
 
-Here's something interesting about this contract: every day that passes without IPO news is a small win for YES (Discord stays private). It's like selling options — time passing with nothing happening works in your favor.
+Here's something interesting about this contract: every day that passes without IPO news is a small win for YES (Discord stays private). It's like selling options — time passing with nothing happening works in your favor. This kind of time-decay dynamic is one of the [strategies for finding edge](/blog/prediction-market-strategies-finding-edge-as-a-retail-trader) in event contracts.
 
-For the NO side (Discord does IPO), you need a specific catalyst. Without it, you're slowly bleeding value as the deadline gets closer. That makes NO a higher-conviction trade — you should have a concrete reason to believe the IPO is coming, not just a vague sense that "it's about time."
+For the NO side (Discord does IPO), you need a specific catalyst. Without it, you're slowly bleeding value as the deadline gets closer. That makes NO a higher-conviction trade — you should have a concrete reason to believe the IPO is coming, not just a vague sense that "it's about time." Use the [probability calculator](/tools/probability-calculator) to check whether the current price gives you a positive expected value.
 
 ## What Would the IPO Look Like?
 
@@ -97,12 +97,12 @@ If Discord does go public, here's a rough valuation range:
 - **Base case ($20-25B):** Strong user growth, improving monetization, near-profitability
 - **Bullish ($30B+):** Full platform potential, AI features, advertising upside
 
-The valuation matters because better market conditions make an IPO more likely — nobody wants to leave money on the table. If tech stocks are ripping, Discord is more likely to pull the trigger.
+The valuation matters because better market conditions make an IPO more likely — nobody wants to leave money on the table. If tech stocks are ripping, Discord is more likely to pull the trigger. For more on how [Kalshi fees](/blog/kalshi-fees-explained) affect your potential returns on trades like this, read our breakdown.
 
 ## Bottom Line
 
-Discord's IPO is a matter of "when," not "if." The real question is whether "when" means before June 30, 2026.
+Discord's IPO is a matter of "when," not "if." The real question is whether "when" means before June 30, 2026. If you're exploring other high-profile prediction markets, check out [whether the Tesla-SpaceX merger will happen](/blog/tesla-spacec-merger-will-it-actually-happen-in-2026) — another binary bet on a major corporate event.
 
 The company is closer to IPO-ready than it's ever been: profitable (or close), diversified revenue, strong user growth. But it doesn't need the money, the timeline is tight, and there's no guarantee the window stays open.
 
-[Check the live odds](/odds/will-discord-not-ipo-by-june-30-2026) and remember to read the contract carefully — YES means no IPO, NO means IPO happens. Mix those up and you'll be betting the opposite of what you intended. (It happens more often than you'd think.)
+[Check the live odds](/odds/will-discord-not-ipo-by-june-30-2026) and remember to read the contract carefully — YES means no IPO, NO means IPO happens. Mix those up and you'll be betting the opposite of what you intended. (It happens more often than you'd think — see [common prediction market mistakes](/blog/5-common-prediction-market-mistakes-to-avoid) for more on this.)

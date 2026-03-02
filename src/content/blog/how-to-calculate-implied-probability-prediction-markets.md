@@ -25,7 +25,7 @@ faqs:
     answer: "Fees raise the breakeven probability. On Kalshi with ~7% settlement fees, a contract at $0.40 requires about a 43% true probability to break even, not 40%. Always account for fees when comparing your model probability to the market price."
 ---
 
-Every prediction market contract has a price between $0.01 and $0.99, and that price tells you exactly what the market thinks the probability of the event is. If you can convert prices to probabilities accurately, account for fees, and calculate expected value, you have the foundation for every profitable trading decision you'll ever make. This guide walks through the math step by step, with real examples you can apply immediately.
+Every [prediction market](/blog/what-are-prediction-markets) contract has a price between $0.01 and $0.99, and that price tells you exactly what the market thinks the probability of the event is. If you can convert prices to probabilities accurately, account for fees, and calculate expected value, you have the foundation for every profitable trading decision you'll ever make. This guide walks through the math step by step, with real examples you can apply immediately.
 
 ## What Is Implied Probability?
 
@@ -33,7 +33,7 @@ Implied probability is the probability of an event occurring as reflected by the
 
 **Implied Probability = Contract Price / $1.00**
 
-A contract trading at $0.65 implies a 65% probability. A contract at $0.20 implies a 20% probability. This works because prediction market contracts pay out exactly $1.00 if the event occurs and $0.00 if it doesn't. The price you pay is your cost, and the $1.00 payout is your potential return.
+A contract trading at $0.65 implies a 65% probability. A contract at $0.20 implies a 20% probability. This works because prediction market contracts -- also called [event contracts](/blog/what-are-event-contracts) -- pay out exactly $1.00 if the event occurs and $0.00 if it doesn't. The price you pay is your cost, and the $1.00 payout is your potential return.
 
 The mirror image matters too. If a YES contract trades at $0.65, the implied probability of the event NOT occurring is 35% -- which is why a NO contract on the same event would trade at approximately $0.35.
 
@@ -61,7 +61,7 @@ A contract asks: "Will the Fed cut rates at the March FOMC meeting?" The YES con
 - **If you buy YES at $0.18 and win:** Gross profit = $0.82
 - **If you buy YES at $0.18 and lose:** Loss = $0.18
 
-Notice the asymmetry: cheap contracts offer high potential returns but low probability. Expensive contracts offer small returns but high probability. Neither is inherently better -- what matters is whether the market price accurately reflects the true probability.
+Notice the asymmetry: cheap contracts offer high potential returns but low probability. Expensive contracts offer small returns but high probability. Neither is inherently better -- what matters is whether the market price accurately reflects the true probability. For a deeper look at pricing mechanics, see our guide on [event contract pricing and probability](/blog/understanding-event-contract-pricing-and-probability).
 
 ## How Fees Change the Math
 
@@ -125,7 +125,7 @@ This trade is technically positive EV, but the edge is razor thin. A small error
 
 ### When to Walk Away
 
-If your EV calculation comes back negative, don't take the trade. It doesn't matter how confident you feel about the outcome. Negative EV means you lose money on average over many trades, and no amount of luck changes the long-run math.
+If your EV calculation comes back negative, don't take the trade. It doesn't matter how confident you feel about the outcome. Negative EV means you lose money on average over many trades, and no amount of luck changes the long-run math. This is one of the [most common mistakes new traders make](/blog/5-common-prediction-market-mistakes-to-avoid).
 
 ## Common Mistakes
 
@@ -152,4 +152,4 @@ Here's the workflow that we use for every trade:
 5. **Size the position.** Use the [Kelly Calculator](/tools/kelly-calculator) to determine how many contracts to buy based on your edge and bankroll.
 6. **Track results.** Record every trade and compare your estimated probabilities against actual outcomes over time.
 
-This process takes the emotion out of trading and replaces it with math. Over hundreds of trades, disciplined application of these calculations is what separates profitable traders from everyone else. For a broader look at finding and exploiting edges, see our [prediction market strategies guide](/blog/prediction-market-strategies-finding-edge-as-a-retail-trader).
+This process takes the emotion out of trading and replaces it with math. Over hundreds of trades, disciplined application of these calculations is what separates [profitable traders](/blog/prediction-markets-making-money) from everyone else. For a broader look at finding and exploiting edges, see our [prediction market strategies guide](/blog/prediction-market-strategies-finding-edge-as-a-retail-trader).
