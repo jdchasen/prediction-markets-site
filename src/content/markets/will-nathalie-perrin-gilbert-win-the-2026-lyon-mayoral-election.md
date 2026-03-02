@@ -4,14 +4,13 @@ description: "Will Nathalie Perrin-Gilbert win the 2026 Lyon mayoral election? O
 marketQuestion: "Will Nathalie Perrin-Gilbert win the 2026 Lyon mayoral election?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-03-01
+lastUpdated: 2026-03-02
 expiryDate: 2026-05-22
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.3
 polymarketNo: 99.7
-polymarketVolume: 9845
+polymarketVolume: 9918
 polymarketUrl: "https://polymarket.com/event/will-nathalie-perrin-gilbert-win-the-2026-lyon-mayoral-election"
-analysisDate: 2026-03-01
 ---
 
 The Lyon mayoral race prediction market shows virtually no confidence in Nathalie Perrin-Gilbert's chances, reflecting her position as a political outsider with limited institutional backing heading into what will likely be a competitive 2026 contest for France's third-largest city.

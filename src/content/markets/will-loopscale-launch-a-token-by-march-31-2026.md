@@ -3,8 +3,8 @@ title: "Will Loopscale launch a token by March 31, 2026?"
 description: "Will Loopscale launch a token by March 31, 2026? Odds: 6.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Loopscale launch a token by March 31, 2026?"
 category: "crypto"
-status: "active"
-lastUpdated: 2026-03-01
+status: "settled"
+lastUpdated: 2026-03-02
 expiryDate: 2027-01-01
 tags: ["crypto", "polymarket"]
 polymarketYes: 6.5

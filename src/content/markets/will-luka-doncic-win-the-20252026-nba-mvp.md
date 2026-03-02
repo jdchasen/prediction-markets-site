@@ -3,8 +3,8 @@ title: "Will Luka Doncic win the 2025–2026 NBA MVP?"
 description: "Will Luka Doncic win the 2025–2026 NBA MVP? Odds: 1.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Luka Doncic win the 2025–2026 NBA MVP?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-03-01
+status: "settled"
+lastUpdated: 2026-03-02
 expiryDate: 2026-06-10
 tags: ["polymarket", "sports"]
 polymarketYes: 1.2

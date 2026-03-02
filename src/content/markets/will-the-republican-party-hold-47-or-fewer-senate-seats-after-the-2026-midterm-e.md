@@ -1,16 +1,15 @@
 ---
 title: "Will the Republican Party hold 47 or fewer Senate seats after the 2026 midterm elections?"
-description: "Will the Republican Party hold 47 or fewer Senate seats after the 2026 midterm elections? Odds: 15.5% YES on Polymarket. See live prices and trade this market."
+description: "Will the Republican Party hold 47 or fewer Senate seats after the 2026 midterm elections? Odds: 16.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Republican Party hold 47 or fewer Senate seats after the 2026 midterm elections?"
 category: "politics"
-status: "settled"
-lastUpdated: 2026-03-01
+status: "active"
+lastUpdated: 2026-03-02
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 15.5
-polymarketNo: 84.5
-polymarketVolume: 9790
+polymarketYes: 16.0
+polymarketNo: 84.0
+polymarketVolume: 9818
 polymarketUrl: "https://polymarket.com/event/will-the-republican-party-hold-47-or-fewer-senate-seats-after-the-2026-midterm-elections"
-analysisDate: 2026-02-28
 ---
 
 # Analysis: Republican Senate Control in 2026

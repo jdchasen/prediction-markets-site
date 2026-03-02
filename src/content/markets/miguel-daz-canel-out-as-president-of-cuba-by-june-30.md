@@ -3,8 +3,8 @@ title: "Miguel Díaz-Canel out as President of Cuba by June 30?"
 description: "Miguel Díaz-Canel out as President of Cuba by June 30? Odds: 39.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Miguel Díaz-Canel out as President of Cuba by June 30?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-01
+status: "settled"
+lastUpdated: 2026-03-02
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
 polymarketYes: 39.0

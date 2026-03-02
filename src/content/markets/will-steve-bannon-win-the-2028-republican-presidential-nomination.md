@@ -4,53 +4,54 @@ description: "Will Steve Bannon win the 2028 Republican presidential nomination?
 marketQuestion: "Will Steve Bannon win the 2028 Republican presidential nomination?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-03-01
+lastUpdated: 2026-03-02
 expiryDate: 2028-11-07
 tags: ["politics", "polymarket"]
 polymarketYes: 0.9
 polymarketNo: 99.2
-polymarketVolume: 9872979
+polymarketVolume: 9930131
 polymarketUrl: "https://polymarket.com/event/will-steve-bannon-win-the-2028-republican-presidential-nomination"
+analysisDate: 2026-03-02
 ---
 
-The market pricing Steve Bannon at under 1% for the 2028 Republican nomination reflects traders' view that he faces nearly insurmountable obstacles despite his continued influence in MAGA circles, a question made particularly relevant as the 2024 election outcome will reshape the entire GOP primary landscape.
+The market pricing Steve Bannon at under 1% for the 2028 Republican nomination reflects overwhelming skepticism that the former Trump strategist can translate his media influence into a viable presidential campaign, though his conviction status and ability to mobilize populist voters remain wildcards in an unpredictable primary field.
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.9% | 99.2% | $9.8M | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.9% | 99.2% | $9.9M | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The bear case dominates this market for concrete reasons. Bannon's 2024 conviction for contempt of Congress and his ongoing legal issues from the "We Build the Wall" fraud case create severe electability concerns that Republican primary voters have increasingly weighed against candidates. He lacks any electoral experience, having never run for office, and would be 74 years old in 2028. The GOP establishment remains hostile to him, and he has no fundraising infrastructure or donor network comparable to actual contenders like Ron DeSantis, Glenn Youngkin, or J.D. Vance. Primary voters have recently favored candidates with gubernatorial or Senate experience who can demonstrate executive competence, not media personalities.
+The bear case dominates this market for concrete reasons. Bannon's October 2022 conviction for contempt of Congress and subsequent four-month prison sentence creates immediate legal baggage that even Trump-aligned Republicans may find disqualifying. He lacks any electoral track record, having never run for office himself, and his influence operates primarily through his War Room podcast rather than institutional Republican support. Major GOP donors view him as too polarizing, and his confrontational style alienates the suburban voters Republicans need in general elections. The 2028 field will likely include sitting governors with executive experience, senators with legislative records, and potentially Trump family members who carry the brand without the legal complications.
 
-The bull case requires envisioning a scenario where Trump wins in 2024 but cannot run in 2028, creating a vacuum for his most loyal ideological heir. Bannon maintains significant influence through his "War Room" podcast, which reaches millions of populist voters daily, and he has credibility with the America First base that might reject more establishment-friendly Trump successors. If the GOP primary electorate radicalizes further between now and 2027, when candidates begin announcing (historically January-April of the year before the election), Bannon could position himself as the only authentic MAGA candidate. A major geopolitical crisis or immigration surge could also boost his hardline nationalist message.
+The bull case hinges on continued upheaval in Republican politics. If the party's populist wing continues demanding more combative figures and rejects traditional credentials, Bannon's ideological consistency and early MAGA loyalty could distinguish him. His media operation reaches millions of engaged Republican primary voters weekly, providing name recognition and a fundraising base. A fractured 2028 field with 8-10 candidates could theoretically allow a 25-30% plurality to win early states. Watch for his post-prison media activities through 2025 and whether he campaigns for House Republicans in the 2026 midterms, which would signal political ambitions beyond commentary.
 
-Key catalysts to monitor include the 2024 election result (which determines if there's even an open primary), the Iowa caucuses in February 2028, and the first debate in August 2027. Watch whether Bannon takes any steps toward building a political operation in Iowa or New Hampshire throughout 2025-2026, engages in retail politics, or starts a PAC. Trump's potential endorsement timeline will matter enormously—he traditionally announces support in the months before Iowa. Any resolution of Bannon's legal troubles or a presidential pardon from Trump would need to occur by mid-2027 to allow time for rehabilitation before primary season.
+Key catalysts include the 2026 midterm elections, where Bannon's endorsed candidates could either validate or diminish his kingmaker status. Trump's 2024 outcome matters significantly—a Trump loss might create space for his closest allies, while a Trump victory followed by a chosen successor in 2028 would foreclose Bannon's path. The Iowa Caucuses in February 2028 and New Hampshire primary will reveal whether any outsider candidate can replicate Trump's 2016 trajectory. Traders should monitor whether Bannon takes concrete steps like forming an exploratory committee by mid-2027 or hiring political operatives, neither of which he's currently positioned to do.
 
 ## Related Markets
 
-- [Will China invade Taiwan by end of 2026?](/odds/will-china-invade-taiwan-by-end-of-2026) — 12% YES
-- [U.S. anti-cartel ground operation in Mexico by March 31?](/odds/us-anti-cartel-ground-operation-in-mexico-by-march-31) — 8% YES
-- [Will Trump and Putin meet next in Ukraine?](/odds/will-trump-and-putin-meet-next-in-ukraine) — 0% YES
+- [Will Sadegh Larijani be the next Supreme Leader of Iran?](/odds/will-sadegh-larijani-be-the-next-supreme-leader-of-iran) — 4% YES
+- [Will Nigel Farage be the next Prime Minister of the United Kingdom in 2026?](/odds/will-nigel-farage-be-the-next-prime-minister-of-the-united-kingdom-in-2026) — 7% YES
+- [Will Connecticut win the 2026 NCAA Tournament?](/odds/will-connecticut-win-the-2026-ncaa-tournament) — 7% YES
 
 ## Frequently Asked Questions
 
-### Could Trump pardon Bannon's federal convictions and make him a viable candidate?
+### Does Bannon's criminal conviction legally prevent him from running for president or serving if elected?
 
-While a pardon would remove the federal contempt conviction, it wouldn't erase the political damage or change that Bannon has no campaign infrastructure, elected experience, or donor base that serious presidential candidates spend years building.
+No, the Constitution has no prohibition on convicted felons running for or serving as president. However, the contempt conviction significantly damages his viability with general election voters and even some Republican primary constituencies.
 
-### Has any major political podcast host or media figure ever successfully transitioned directly to winning a major party presidential nomination?
+### How does Bannon's influence compare to other media figures who attempted presidential runs?
 
-No podcast host has ever won a major party nomination without first holding elected office, and media figures who attempted the jump (like Pat Buchanan in his later runs) failed to win despite stronger political résumés than Bannon currently possesses.
+Unlike Pat Buchanan (who had campaign experience) or potential candidates like Tucker Carlson (who has broader mainstream appeal), Bannon's influence is narrowly concentrated in the most ideological segment of Trump's base without crossover potential to independents.
 
-### What would need to happen in the 2026 midterms to improve Bannon's chances?
+### What would need to happen for these odds to reach even 5-10%?
 
-A slate of Bannon-endorsed hardline candidates would need to win GOP primaries and general elections for Senate or governor, proving his kingmaker status and demonstrating his brand of politics can win beyond deep-red districts, but even this wouldn't address his personal electoral viability.
+Bannon would need to demonstrate actual campaign infrastructure by forming a PAC, hiring experienced political staff, and campaigning for 2026 candidates while polling above 3% in early 2028 Republican primary surveys—none of which currently exists.
 
 ## Learn More
 
+- [Will Khamenei Lose Power? Market Shows 99.9% Odds](/blog/will-khamenei-lose-power-market-shows-999-odds)
 - [Will Ethereum Reach $4,500 in 2026? What Prediction Markets Say](/blog/will-ethereum-reach-4500-in-2026-what-prediction-markets-say)
-- [Will Discord IPO in 2026? What Prediction Markets Say](/blog/will-discord-ipo-in-2026-what-prediction-markets-say)
 
