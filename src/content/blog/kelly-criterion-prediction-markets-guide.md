@@ -1,6 +1,6 @@
 ---
-title: "Kelly Criterion for Prediction Markets (2026): Bet Sizing Guide"
-description: "Master the Kelly criterion for prediction market trading. Learn the formula, see worked examples with fees, and understand why fractional Kelly is the professional standard."
+title: "Kelly Criterion for Prediction Markets (Guide)"
+description: "The formula pros use to size prediction market bets. Worked examples with Kalshi fees and why fractional Kelly beats full Kelly every time."
 pubDate: 2026-02-24
 category: "strategies"
 tags: ["strategies", "kalshi", "probability"]

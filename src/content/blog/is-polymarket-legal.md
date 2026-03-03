@@ -1,6 +1,6 @@
 ---
 title: "Is Polymarket Legal? US Rules Explained (2026)"
-description: "Polymarket settled with the CFTC for $1.4M in 2022 and left the US. Here's its current legal status and what US traders need to know."
+description: "Polymarket paid a $1.4M CFTC fine and geo-blocks US users. But millions still trade. Here's what's legal, what's risky, and how rules work in 2026."
 pubDate: 2026-02-28
 category: "polymarket"
 tags: ["polymarket", "beginners"]

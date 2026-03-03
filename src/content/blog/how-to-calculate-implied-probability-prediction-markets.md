@@ -1,6 +1,6 @@
 ---
-title: "How to Calculate Implied Probability in Prediction Markets (With Worked Examples)"
-description: "Convert prediction market prices into implied probabilities, calculate expected value, and account for fees. Worked examples for Kalshi and Polymarket."
+title: "Implied Probability Calculator for Prediction Markets"
+description: "Turn any prediction market price into a real probability. Worked examples for Kalshi and Polymarket with fee adjustments and expected value math."
 pubDate: 2026-02-24
 category: "strategies"
 tags: ["strategies", "probability", "beginners", "kalshi"]

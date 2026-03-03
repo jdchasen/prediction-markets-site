@@ -1,6 +1,6 @@
 ---
-title: "Khamenei Prediction Market: 99.9% Odds Explained"
-description: "Prediction markets give Khamenei's ouster 99.9% odds by Feb 28 with $103M traded — here's what's happening."
+title: "Khamenei Market: $103M Traded at 99.9% Odds"
+description: "$103M wagered on Khamenei's exit at 99.9% odds. How prediction markets reacted to the Iran strikes and what the remaining 0.1% is betting on."
 pubDate: 2026-03-02
 category: "strategies"
 tags: ["trending", "polymarket", "prediction-markets"]

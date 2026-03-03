@@ -1,6 +1,6 @@
 ---
 title: "Tesla SpaceX Merger: Will It Actually Happen in 2026?"
-description: "Prediction market odds on a Tesla-SpaceX merger. The bull case, the legal nightmare, and what the smart money actually thinks."
+description: "Prediction markets are pricing a Tesla-SpaceX merger. The bull case sounds crazy, the legal problems are real, and the smart money has picked a side."
 pubDate: 2026-02-24
 category: "strategies"
 tags: ["strategies", "kalshi", "polymarket"]

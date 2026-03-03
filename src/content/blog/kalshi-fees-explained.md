@@ -1,6 +1,6 @@
 ---
-title: "Kalshi Fees (2026): How Much They're Really Eating From Your Profits"
-description: "Complete breakdown of Kalshi's fee structure and how to minimize costs. Real examples showing how fees impact your bottom line."
+title: "Kalshi Fees Explained: The Real Cost Per Trade"
+description: "Kalshi charges up to 7 cents per contract on both sides. Here's exactly how much you lose per trade and 3 ways to minimize the fee damage."
 pubDate: 2026-02-22
 category: "kalshi"
 tags: ["kalshi", "strategies"]

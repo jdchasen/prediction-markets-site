@@ -1,5 +1,5 @@
 ---
-title: "Polymarket Taxes (2026): How to Report Crypto Prediction Market Gains"
+title: "Polymarket Taxes: No 1099, Still Owe (2026 Guide)"
 description: "Polymarket doesn't send a 1099 — but you still owe taxes. Here's how to track USDC, calculate cost basis, and report prediction market profits to the IRS."
 pubDate: 2026-02-28
 category: "polymarket"

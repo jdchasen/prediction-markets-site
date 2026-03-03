@@ -17,7 +17,7 @@ const { title, description, image, article = false, newsArticle = false, pubDate
 
 const canonicalURL = new URL(Astro.url.pathname, Astro.site);
 const ogImage = new URL(image || DEFAULT_IMAGE, Astro.site).href;
-const suffix = ` | ${SITE_NAME}`;
+const suffix = " | MPM";
 const fullTitle = (title.length + suffix.length) <= 60 ? `${title}${suffix}` : title;
 
 const isHomepage = Astro.url.pathname === '/' || Astro.url.pathname === '';

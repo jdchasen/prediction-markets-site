@@ -1,6 +1,6 @@
 ---
-title: "Can You Make Money on Prediction Markets (2026)? Real P&L Data"
-description: "Can you actually make money on prediction markets? Real P&L data from active Kalshi and Polymarket traders on what works and what doesn't."
+title: "Can You Make Money on Prediction Markets? [Real P&L]"
+description: "We share real profit and loss data from active Kalshi and Polymarket accounts. What actually works, what bleeds money, and realistic expectations."
 pubDate: 2026-02-22
 category: "strategies"
 tags: ["strategies", "kalshi", "beginners"]

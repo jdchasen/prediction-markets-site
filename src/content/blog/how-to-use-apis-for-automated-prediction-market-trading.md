@@ -1,6 +1,6 @@
 ---
-title: "Build a Prediction Market Trading Bot (2026): Developer's Guide"
-description: "Build an automated prediction market trading bot with Kalshi and Polymarket APIs. Includes Python code, system architecture, and risk management patterns."
+title: "Build a Prediction Market Trading Bot (2026)"
+description: "Full Python source code for a prediction market bot. Connects to Kalshi and Polymarket APIs, monitors prices, and places trades automatically."
 pubDate: 2026-02-22
 category: "strategies"
 tags: ["strategies", "api", "automation", "kalshi"]

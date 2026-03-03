@@ -1,6 +1,6 @@
 ---
 title: "Will Khamenei Lose Power? Market Shows 99.9% Odds"
-description: "Prediction markets show 99.9% odds Khamenei exits by February 28 with $85M wagered—here's what the massive volume means."
+description: "$85M wagered on one question: is Khamenei done? Markets say 99.9% yes by February 28. Here's what's driving the bet and who's on the other side."
 pubDate: 2026-03-01
 category: "strategies"
 tags: ["trending", "polymarket", "prediction-markets"]

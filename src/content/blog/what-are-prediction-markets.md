@@ -1,6 +1,6 @@
 ---
-title: "What Are Prediction Markets? How a $50B Market Predicts the Future"
-description: "Learn what prediction markets are, how they work, and why traders are flocking to platforms like Kalshi and Polymarket to trade on real-world events."
+title: "What Are Prediction Markets? ($50B and Growing)"
+description: "Prediction markets let you bet on anything — elections, weather, crypto prices. Here's how they work, why they beat polls, and how to start."
 pubDate: 2026-02-22
 category: "beginners"
 tags: ["beginners", "kalshi", "polymarket", "prediction-markets"]

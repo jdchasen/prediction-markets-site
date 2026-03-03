@@ -1,6 +1,6 @@
 ---
-title: "The Hidden Math Behind Event Contracts: Pricing, Probability, and Where the Edge Lives"
-description: "Master the relationship between event contract prices and implied probability. Learn how prediction market pricing works and how to spot mispriced contracts."
+title: "Event Contract Pricing: Where the Edge Hides"
+description: "A 65-cent contract isn't always 65% likely. Here's the math behind event contract pricing, how to spot mispriced markets, and where the real edge lives."
 pubDate: 2026-02-22
 category: "strategies"
 tags: ["strategies", "pricing", "probability", "beginners"]

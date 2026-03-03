@@ -1,6 +1,6 @@
 ---
-title: "Is Kalshi Legal? What Every US Trader Needs to Know in 2026"
-description: "Kalshi's legal status explained — CFTC regulation, state availability, and what it means for your money."
+title: "Is Kalshi Legal? State-by-State Guide (2026)"
+description: "Kalshi is CFTC-regulated but blocked in some states. Check your state, what's protected, and what the restrictions actually mean for your money."
 pubDate: 2026-02-22
 category: "kalshi"
 tags: ["kalshi", "beginners"]

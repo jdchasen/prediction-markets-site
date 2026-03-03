@@ -1,6 +1,6 @@
 ---
-title: "Event Contracts Explained: Trade Weather, Elections, and the S&P for $1"
-description: "What are event contracts and how do they work? The complete guide to this new asset class that's changing how people trade."
+title: "Event Contracts: Trade Any Event for $1"
+description: "Event contracts pay $1 if you're right, $0 if you're wrong. No margin, no Greeks, no surprises. Here's how this new asset class works and where to trade."
 pubDate: 2026-02-22
 category: "beginners"
 tags: ["beginners", "kalshi", "strategies"]

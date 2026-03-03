@@ -1,6 +1,6 @@
 ---
-title: "Kalshi Taxes (2026): Complete Guide to Reporting Prediction Market Gains"
-description: "How to report Kalshi profits on your taxes, including 1099-B forms, Section 1256 treatment, and deductible losses. Save money with the right filing strategy."
+title: "Kalshi Taxes 2026: Report Gains the Right Way"
+description: "Kalshi sends a 1099-B, but Section 1256 treatment could save you thousands. How to report prediction market gains and deduct your losses correctly."
 pubDate: 2026-02-22
 category: "kalshi"
 tags: ["kalshi", "beginners"]

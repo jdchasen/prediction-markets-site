@@ -1,6 +1,6 @@
 ---
-title: "2026 Oscar Predictions: What Betting Markets Say About the 98th Academy Awards"
-description: "Prediction market odds for the 2026 Oscars. See who's favored for Best Supporting Actor, Best Supporting Actress, and Best Costume Design."
+title: "2026 Oscar Predictions: Live Betting Market Odds"
+description: "Live prediction market odds for every 2026 Oscar category. See who the money is backing for Best Picture, Best Actor, and every major award."
 pubDate: 2026-02-24
 category: "strategies"
 tags: ["strategies", "kalshi", "polymarket"]

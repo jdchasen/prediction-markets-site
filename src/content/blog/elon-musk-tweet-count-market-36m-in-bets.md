@@ -1,6 +1,6 @@
 ---
 title: "Elon Musk Tweet Count Market: $36M in Bets"
-description: "Traders bet $36M on Elon's February 2026 tweet count, with 220-239 tweets at 20% odds. Here's what the market's saying."
+description: "Traders bet $36M on exactly how many times Elon tweets in February 2026. The 220-239 range leads at 20% odds. Here's the full breakdown."
 pubDate: 2026-02-28
 category: "strategies"
 tags: ["trending", "polymarket", "prediction-markets"]

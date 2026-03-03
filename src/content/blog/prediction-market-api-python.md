@@ -1,6 +1,6 @@
 ---
-title: "Prediction Market API Python Tutorial (2026): Your First Trading Script"
-description: "Step-by-step Python tutorial for the Kalshi and Polymarket APIs. Build a price-monitoring script and place your first automated order with working code."
+title: "Prediction Market API: Python Tutorial (2026)"
+description: "Working Python code for Kalshi and Polymarket APIs. Build a price monitor and place your first automated order in under 30 minutes."
 pubDate: 2026-02-22
 category: "strategies"
 tags: ["strategies", "api", "automation", "kalshi"]

@@ -1,6 +1,6 @@
 ---
-title: "Kuwait Downs 3 US Jets in Friendly Fire as Iran War Kills 4 Troops | Daily Market Pulse"
-description: "Kuwait downs 3 US jets as Iran war kills 4 troops—markets price 5.5% odds of ceasefire in 5 days on $1M volume, regime collapse bets surge amid friendly fire incident"
+title: "Kuwait Downs 3 US Jets in Friendly Fire | March 2"
+description: "Kuwait friendly fire downs 3 US jets as Iran war kills 4 troops. Markets price 5.5% ceasefire odds in 5 days as regime collapse bets surge."
 pubDate: 2026-03-02
 category: "strategies"
 tags: ["daily", "kalshi", "polymarket"]

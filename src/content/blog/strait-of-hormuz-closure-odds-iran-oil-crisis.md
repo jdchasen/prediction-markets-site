@@ -1,6 +1,6 @@
 ---
-title: "Strait of Hormuz Closure at 57% Odds as Oil Spikes 13% on Iran War"
-description: "Prediction markets price 57% odds Iran closes the Strait of Hormuz by March 31—oil hits $82/barrel as traders bet $7.2M on the world's most important chokepoint."
+title: "Strait of Hormuz: 57% Closure Odds, Oil Up 13%"
+description: "$7.2M bet on whether Iran shuts the world's most important oil chokepoint. Oil already spiked to $82/barrel. Here's what the market is pricing."
 pubDate: 2026-03-02
 category: "strategies"
 tags: ["trending", "polymarket", "kalshi", "prediction-markets"]

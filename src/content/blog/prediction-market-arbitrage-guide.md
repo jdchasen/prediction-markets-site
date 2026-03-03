@@ -1,6 +1,6 @@
 ---
-title: "Prediction Market Arbitrage: How to Lock in Risk-Free Profit Across Platforms"
-description: "Step-by-step guide to finding arbitrage opportunities between Kalshi and Polymarket. Learn how to identify, calculate, and execute cross-platform arbs with real examples."
+title: "Prediction Market Arbitrage: Risk-Free Profit Guide"
+description: "Find price gaps between Kalshi and Polymarket, then lock in guaranteed profit. Step-by-step with real examples, fee math, and a free calculator."
 pubDate: 2026-02-24
 category: "strategies"
 tags: ["strategies", "kalshi", "polymarket"]
