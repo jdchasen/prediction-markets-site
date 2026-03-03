@@ -1,5 +1,5 @@
 ---
-title: "Daily Market Pulse: February 23, 2026 — Iran Strike Odds Explode on $2.6M Volume"
+title: "Iran Strike Odds Explode on $2.6M Volume..."
 description: "Iran strike odds hit 17.5% on $2.6M daily volume as Polymarket's hottest market. Fed rate hike priced at 0.7%, plus early 2028 presidential positioning."
 pubDate: 2026-02-23
 category: "strategies"

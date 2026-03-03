@@ -12,11 +12,12 @@ interface Props {
   description: string;
   image?: string;
   article?: boolean;
+  newsArticle?: boolean;
   pubDate?: string;
   updatedDate?: string;
 }
 
-const { title, description, image, article, pubDate, updatedDate } = Astro.props;
+const { title, description, image, article, newsArticle, pubDate, updatedDate } = Astro.props;
 ---
 
 <!doctype html>
@@ -27,6 +28,7 @@ const { title, description, image, article, pubDate, updatedDate } = Astro.props
       description={description}
       image={image}
       article={article}
+      newsArticle={newsArticle}
       pubDate={pubDate}
       updatedDate={updatedDate}
     />

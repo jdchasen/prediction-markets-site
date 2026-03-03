@@ -4,6 +4,7 @@ interface Props {
   description: string;
   image?: string;
   article?: boolean;
+  newsArticle?: boolean;
   pubDate?: string;
   updatedDate?: string;
 }
@@ -12,7 +13,7 @@ const SITE_NAME = "Master Prediction Markets";
 const SITE_URL = "https://masterpredictionmarkets.com";
 const DEFAULT_IMAGE = "/og-default.png";
 
-const { title, description, image, article = false, pubDate, updatedDate } = Astro.props;
+const { title, description, image, article = false, newsArticle = false, pubDate, updatedDate } = Astro.props;
 
 const canonicalURL = new URL(Astro.url.pathname, Astro.site);
 const ogImage = new URL(image || DEFAULT_IMAGE, Astro.site).href;
@@ -91,7 +92,7 @@ const websiteSchema = {
 {article && (
   <script type="application/ld+json" set:html={JSON.stringify({
     "@context": "https://schema.org",
-    "@type": "Article",
+    "@type": newsArticle ? "NewsArticle" : "Article",
     "headline": title,
     "description": description,
     "image": ogImage,

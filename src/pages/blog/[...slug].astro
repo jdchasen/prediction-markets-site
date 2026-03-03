@@ -89,6 +89,8 @@ const formattedDate = post.data.pubDate.toLocaleDateString('en-US', {
 
 const affiliatePlatform = post.data.affiliate as 'kalshi' | 'polymarket' | 'generic' | undefined;
 const postUrl = new URL(`/blog/${post.id}`, Astro.site).href;
+const isNewsArticle = post.id.startsWith('daily-market-pulse-');
+const ogImage = post.data.heroImage || `/og/${post.id}.png`;
 
 const breadcrumbSchema = {
   "@context": "https://schema.org",
@@ -172,7 +174,9 @@ const reviewSchema = post.data.review ? {
 <BaseLayout
   title={post.data.title}
   description={post.data.description}
+  image={ogImage}
   article={true}
+  newsArticle={isNewsArticle}
   pubDate={post.data.pubDate.toISOString()}
   updatedDate={post.data.updatedDate?.toISOString() || post.data.pubDate.toISOString()}
 >

@@ -1,5 +1,5 @@
 ---
-title: "Daily Market Pulse: February 26, 2026 — Two Days to Bombs or Nothing"
+title: "Two Days to Bombs or Nothing | Daily Market Pulse"
 description: "Iran strike at 8.5% with 48 hours left despite $51M total volume. March 31 contract hits coin-flip territory at 53.5%. Alien disclosure odds climb to 18.5%."
 pubDate: 2026-02-26
 category: "strategies"

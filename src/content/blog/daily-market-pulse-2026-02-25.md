@@ -1,5 +1,5 @@
 ---
-title: "Daily Market Pulse: February 25, 2026 — The Three-Day Iran Strike Clock"
+title: "The Three-Day Iran Strike Clock | Daily Market Pulse"
 description: "Iran strike odds ladder: 1.1% today, 10.5% by Friday, 60.5% by March 31 — $9.5M in 24h volume. Bitcoin $150K dead at 0.1%. Fed priced at zero change."
 pubDate: 2026-02-25
 category: "strategies"

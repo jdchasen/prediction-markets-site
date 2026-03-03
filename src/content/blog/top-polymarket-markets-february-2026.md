@@ -1,5 +1,5 @@
 ---
-title: "Top Polymarket Markets in February 2026"
+title: "Polymarket February 2026: Iran at 97%, $36M on Elon's Tweets"
 description: "Iran regime change hit 97% odds, $36M bet on Elon's tweets, and the Fed held firm. Here are the biggest Polymarket markets of February 2026."
 pubDate: 2026-02-28
 category: "polymarket"

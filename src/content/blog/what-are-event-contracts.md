@@ -1,5 +1,5 @@
 ---
-title: "What Are Event Contracts? Complete Guide (2026)"
+title: "Event Contracts Explained: Trade Weather, Elections, and the S&P for $1"
 description: "What are event contracts and how do they work? The complete guide to this new asset class that's changing how people trade."
 pubDate: 2026-02-22
 category: "beginners"

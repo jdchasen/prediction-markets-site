@@ -1,5 +1,5 @@
 ---
-title: "Daily Market Pulse: February 27, 2026 — Tomorrow Arrives"
+title: "Tomorrow Arrives | Daily Market Pulse"
 description: "Iran strike market hits 25.5% with $55.7M total volume as Feb 28 deadline looms. March 31 contract at 67.5%. Plus: alien disclosure odds at 17.5%."
 pubDate: 2026-02-27
 category: "strategies"

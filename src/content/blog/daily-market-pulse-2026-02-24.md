@@ -1,5 +1,5 @@
 ---
-title: "Daily Market Pulse: February 24, 2026 — Tottenham Dreams and Monetary Policy Reality Collide"
+title: "Tottenham Dreams and Monetary Policy Reality Collide..."
 description: "Tottenham's Premier League title odds surge as Fed rate markets hold steady. Prediction market odds, volume, and analysis across sports and economics."
 pubDate: 2026-02-24
 category: "strategies"

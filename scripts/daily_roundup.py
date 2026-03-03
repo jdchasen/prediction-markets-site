@@ -482,15 +482,35 @@ OUTPUT ONLY the markdown article body."""
         body = body[:title_match.start()] + body[title_match.end():]
         body = body.strip()
     else:
-        title = f"Daily Market Pulse: {date_str}"
+        title = ""
 
-    # Ensure title ends with "Daily Market Pulse" brand suffix
+    # Fix title format: event-first, brand suffix last
+    # If Claude put "Daily Market Pulse:" at the start, flip it
+    flip_match = re.match(
+        r'^Daily Market Pulse[:\s—–-]+\s*(?:\w+ \d{1,2},? \d{4}\s*[—–-]\s*)?(.+)',
+        title, re.IGNORECASE
+    )
+    if flip_match:
+        event_phrase = flip_match.group(1).strip()
+        title = f"{event_phrase} | Daily Market Pulse"
+
+    # Ensure "Daily Market Pulse" brand is present
     if "Daily Market Pulse" not in title:
-        title = f"{title} | Daily Market Pulse"
-    # Truncate to 60 chars for Google SERP display
+        if title:
+            title = f"{title} | Daily Market Pulse"
+        else:
+            title = f"Prediction Market Roundup {date_str}"
+
+    # Truncate intelligently: drop the suffix before chopping the event phrase
     if len(title) > 60:
-        # Keep the event phrase, trim the suffix if needed
-        title = title[:57] + "..."
+        if " | Daily Market Pulse" in title:
+            event_part = title.replace(" | Daily Market Pulse", "")
+            if len(event_part) <= 60:
+                title = event_part + " | Daily Market Pulse"
+            else:
+                title = event_part[:57] + "..."
+        else:
+            title = title[:57] + "..."
 
     # Generate SEO description — must be specific, not generic
     desc_msg = client.messages.create(

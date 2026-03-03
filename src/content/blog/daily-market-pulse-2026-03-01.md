@@ -1,5 +1,5 @@
 ---
-title: "Daily Market Pulse: March 1, 2026 — Iran Regime Collapse Odds at 22% on $11.6M Volume"
+title: "Iran Regime Collapse Odds at 22% on $11.6M Volume..."
 description: "Khamenei's death triggers US-Israeli strikes as Polymarket prices 22% odds on Iranian regime collapse by March 31—$11.6M volume amid geopolitical chaos"
 pubDate: 2026-03-01
 category: "strategies"
