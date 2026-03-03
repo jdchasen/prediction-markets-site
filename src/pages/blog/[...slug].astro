@@ -216,6 +216,17 @@ const reviewSchema = post.data.review ? {
       <p class="mt-4 text-lg text-gray-600 dark:text-gray-400">{post.data.description}</p>
     </header>
 
+    <div class="mb-8 overflow-hidden rounded-lg">
+      <img
+        src={ogImage}
+        alt={post.data.title}
+        width="1200"
+        height="630"
+        class="w-full"
+        loading="eager"
+      />
+    </div>
+
     <TableOfContents headings={headings} />
 
     <AdUnit slot="blog-after-toc" />
