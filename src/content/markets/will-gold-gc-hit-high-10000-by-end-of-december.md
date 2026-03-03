@@ -1,17 +1,16 @@
 ---
 title: "Will Gold (GC) hit (HIGH) $10,000 by end of December?"
-description: "Will Gold (GC) hit (HIGH) $10,000 by end of December? Odds: 15.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Gold (GC) hit (HIGH) $10,000 by end of December? Odds: 15.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Gold (GC) hit (HIGH) $10,000 by end of December?"
 category: "finance"
 status: "active"
 lastUpdated: 2026-03-03
 expiryDate: 2026-12-31
 tags: ["finance", "polymarket"]
-polymarketYes: 15.5
-polymarketNo: 84.5
-polymarketVolume: 9723
+polymarketYes: 15.0
+polymarketNo: 85.0
+polymarketVolume: 9728
 polymarketUrl: "https://polymarket.com/event/will-gold-gc-hit-high-10000-by-end-of-december"
-analysisDate: 2026-03-03
 ---
 
 # Gold $10,000 by End of 2026: A Low-Probability Play on Macro Extremes

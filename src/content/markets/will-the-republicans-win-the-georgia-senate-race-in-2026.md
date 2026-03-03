@@ -7,10 +7,9 @@ status: "active"
 lastUpdated: 2026-03-03
 tags: ["politics", "polymarket"]
 polymarketYes: 19.1
-polymarketNo: 80.9
-polymarketVolume: 9808
+polymarketNo: 80.8
+polymarketVolume: 9950
 polymarketUrl: "https://polymarket.com/event/will-the-republicans-win-the-georgia-senate-race-in-2026"
-analysisDate: 2026-03-03
 ---
 
 # Georgia Senate 2026: Republicans Face Structural Headwinds in Purple State

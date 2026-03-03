@@ -3,7 +3,7 @@ title: "Will the Los Angeles Lakers win the NBA Western Conference Finals?"
 description: "Will the Los Angeles Lakers win the NBA Western Conference Finals? Odds: 3.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Los Angeles Lakers win the NBA Western Conference Finals?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-03
 expiryDate: 2026-06-16
 tags: ["polymarket", "sports"]

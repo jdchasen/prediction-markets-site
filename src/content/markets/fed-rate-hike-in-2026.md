@@ -3,7 +3,7 @@ title: "Fed rate hike in 2026?"
 description: "Fed rate hike in 2026? Odds: 11.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Fed rate hike in 2026?"
 category: "economics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-03
 expiryDate: 2026-12-09
 tags: ["economics", "federal-reserve", "polymarket"]

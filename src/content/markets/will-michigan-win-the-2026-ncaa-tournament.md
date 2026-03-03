@@ -9,9 +9,8 @@ expiryDate: 2026-04-04
 tags: ["politics", "polymarket"]
 polymarketYes: 19.5
 polymarketNo: 80.5
-polymarketVolume: 97611
+polymarketVolume: 98340
 polymarketUrl: "https://polymarket.com/event/will-michigan-win-the-2026-ncaa-tournament"
-analysisDate: 2026-03-03
 ---
 
 # Michigan NCAA Tournament 2026 Analysis

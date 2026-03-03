@@ -9,48 +9,49 @@ expiryDate: 2026-07-31
 tags: ["politics", "polymarket"]
 polymarketYes: 48.5
 polymarketNo: 51.5
-polymarketVolume: 9716638
+polymarketVolume: 9722570
 polymarketUrl: "https://polymarket.com/event/will-jesus-christ-return-before-gta-vi-665"
+analysisDate: 2026-03-03
 ---
 
-This market trading at near coin-flip odds represents a satirical take on Grand Theft Auto VI's repeatedly delayed release schedule, with traders essentially betting on whether Rockstar Games will actually launch the game before the July 2026 expiry date. The YES case hinges entirely on further GTA VI delays or a complete cancellation of the project, while the NO case bets on Rockstar following through with its stated 2025 release window.
+Nearly half of traders believe the Second Coming will occur before Rockstar Games releases its next Grand theft auto installment, a market that captures internet culture's fascination with GTA VI's notoriously extended development cycle while creating an essentially unfalsifiable prediction scenario. The market expires July 31, 2026, just over two years from now, while Rockstar has indicated GTA VI will launch in 2025—though the company has a history of delays that pushed GTA V back multiple times.
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 47.5% | 52.5% | $9.7M | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 48.5% | 51.5% | $9.7M | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The bull case for YES requires Rockstar Games to announce yet another delay beyond their current 2025 target, which would be consistent with the company's historical pattern of pushing back release dates. Red Dead Redemption 2 faced multiple delays, and GTA V's development took five years, establishing precedent for extended timelines. Additional pressure points include potential performance issues in pre-release testing, the complexity of launching simultaneously across PlayStation 5, Xbox Series X/S, and eventually PC platforms, or unexpected departures of key development talent. Take-Two Interactive's earnings calls in Q1 and Q2 of fiscal year 2026 (May-August 2025) will be critical catalyst dates where any delay would likely be announced.
+The bull case relies entirely on theological conviction or the bet that GTA VI suffers catastrophic delays beyond its 2025 target window. Rockstar confirmed in December 2023 that GTA VI targets a 2025 release, but the studio delayed Red Dead Redemption 2 by a full year and GTA V by six months from original announcements. If production issues, next-gen console optimization problems, or Rockstar's perfectionist culture push the release past mid-2026, the market hinges solely on religious belief. Given zero empirical evidence for predicting divine intervention, bulls are essentially wagering on game development dysfunction rather than eschatological certainty.
 
-The bear case for NO rests on Rockstar's May 2024 confirmation of a 2025 release window and the unprecedented development resources allocated to this project. Take-Two has publicly committed to the timeline in investor communications, creating significant financial and reputational stakes for meeting the deadline. The game has been in active development since 2014, giving the studio over a decade of work, and early trailer footage released in December 2023 showed polished gameplay, suggesting the project is in late-stage development rather than early phases where delays are more common.
+The bear case is straightforward: Rockstar has strong financial incentives to meet its 2025 target, and Take-Two Interactive's CEO Strauss Zelnick referenced fiscal 2025 in earnings calls when discussing the pipeline. The first trailer dropped December 2023 with over 150 million views, suggesting marketing momentum toward a 2025 launch. Even aggressive skeptics of the development timeline would need to believe in delays stretching 18+ months beyond the announced window. More fundamentally, the absence of verified Second Coming events in recorded history creates overwhelming empirical precedent for the "no" position.
 
-Traders should monitor Take-Two Interactive's quarterly earnings reports scheduled for May 2025 and August 2025, where any hint of delay language would dramatically shift odds toward YES. Pre-order dates and specific release date announcements expected in early-to-mid 2025 will serve as key signals, as will any changes in Take-Two's forward guidance on revenue expectations. Gaming industry insider reports from credible sources like Jason Schreier or Bloomberg's gaming desk have historically broken delay news weeks before official announcements, providing informed traders an edge.
+Key catalysts include Take-Two's quarterly earnings calls (next scheduled February 2025) where management provides development updates, any official release date announcement from Rockstar expected in 2024-2025, and subsequent confirmation of whether that date holds. Gaming industry trade shows like Summer Game Fest (typically June) could provide gameplay reveals indicating production status. The market's July 2026 expiration creates a narrow 6-12 month window after the targeted 2025 release where delays would need to compound dramatically.
 
 ## Related Markets
 
-- [Will Steve Bannon win the 2028 Republican presidential nomination?](/odds/will-steve-bannon-win-the-2028-republican-presidential-nomination) — 1% YES
+- [Will Gavin Newsom win the 2028 Democratic presidential nomination?](/odds/will-gavin-newsom-win-the-2028-democratic-presidential-nomination) — 25% YES
+- [Nothing Ever Happens: MicroStrategy](/odds/nothing-ever-happens-microstrategy) — 85% YES
 - [China x Taiwan military clash before 2027?](/odds/china-x-taiwan-military-clash-before-2027) — 16% YES
-- [Will Silver (SI) hit (LOW) $55 by end of June?](/odds/will-silver-si-hit-low-55-by-end-of-june) — 22% YES
 
 ## Frequently Asked Questions
 
-### What happens if GTA VI releases exactly on July 31, 2026 or after the market expiry date?
+### What happens if GTA VI releases exactly on July 31, 2026, the same day as market expiration?
 
-The market resolves NO if the game releases on or after the expiry date of July 31, 2026, since the question asks if Christ returns "before" GTA VI launches. Any release from that date forward counts as GTA VI coming out within the market timeframe.
+The market resolution depends on precise timing at noon UTC on that date. If the game launches before 12:00 PM UTC, the "no" side wins; any release after that timestamp or no release at all leaves the outcome dependent on the theological question.
 
-### How would an early access or partial release affect market resolution?
+### How would the market actually verify the Second Coming occurred?
 
-If Rockstar launches any official playable version to paying customers before July 31, 2026—including limited early access, beta with purchase, or platform-exclusive release—this would likely resolve as NO, since the game technically "released" even if not in final form.
+The market resolution criteria face fundamental epistemological challenges, as there's no consensus mechanism for validating religious events. This asymmetry heavily favors the "no" outcome since game releases are publicly verifiable through digital storefronts, while the alternative requires accepting extraordinary theological claims.
 
-### What if Rockstar cancels GTA VI entirely or rebrands it under a different name?
+### Could Rockstar's corporate strategy intentionally respond to this market's existence?
 
-Complete cancellation would resolve the market as YES since GTA VI would never return, while a rebrand to a different title would require examining the specific market rules, though most prediction markets would likely consider a renamed continuation of the same project as fulfilling the "GTA VI" release condition.
+While theoretically possible, a $10+ billion game franchise makes development decisions based on revenue optimization, not prediction markets with limited liquidity. However, the market's virality demonstrates how GTA VI delays have become a cultural meme, potentially creating reputational pressure for timely delivery.
 
 ## Learn More
 
 - [Will Khamenei Lose Power? Market Shows 99.9% Odds](/blog/will-khamenei-lose-power-market-shows-999-odds)
-- [Will Ethereum Reach $4,500 in 2026? What Prediction Markets Say](/blog/will-ethereum-reach-4500-in-2026-what-prediction-markets-say)
+- [Will Khamenei Lose Power? Market Says 100%](/blog/will-khamenei-lose-power-market-says-100)
 

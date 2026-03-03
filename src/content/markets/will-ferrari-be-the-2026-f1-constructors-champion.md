@@ -3,7 +3,7 @@ title: "Will Ferrari be the 2026 F1 Constructors' Champion?"
 description: "Will Ferrari be the 2026 F1 Constructors' Champion? Odds: 25.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Ferrari be the 2026 F1 Constructors' Champion?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-03
 expiryDate: 2026-12-06
 tags: ["polymarket", "sports"]

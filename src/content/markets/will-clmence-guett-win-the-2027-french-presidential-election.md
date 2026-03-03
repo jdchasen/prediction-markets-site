@@ -9,9 +9,8 @@ expiryDate: 2027-04-30
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.2
 polymarketNo: 99.8
-polymarketVolume: 97904
+polymarketVolume: 98238
 polymarketUrl: "https://polymarket.com/event/will-clmence-guett-win-the-2027-french-presidential-election"
-analysisDate: 2026-03-03
 ---
 
 This market prices in an extreme long-shot scenario where La France Insoumise deputy Clémence Guetté captures the French presidency, reflecting the radical left's persistent struggle to break through in the second-round runoff system that has historically favored centrist and mainstream candidates.

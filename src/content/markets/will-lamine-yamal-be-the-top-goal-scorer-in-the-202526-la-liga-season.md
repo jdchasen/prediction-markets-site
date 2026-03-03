@@ -3,7 +3,7 @@ title: "Will Lamine Yamal be the top goal scorer in the 2025–26 La Liga season
 description: "Will Lamine Yamal be the top goal scorer in the 2025–26 La Liga season? Odds: 3.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Lamine Yamal be the top goal scorer in the 2025–26 La Liga season?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-03
 expiryDate: 2026-05-30
 tags: ["politics", "polymarket"]

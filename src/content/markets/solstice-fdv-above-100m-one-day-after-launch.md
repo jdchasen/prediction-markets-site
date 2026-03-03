@@ -3,7 +3,7 @@ title: "Solstice FDV above $100M one day after launch?"
 description: "Solstice FDV above $100M one day after launch? Odds: 22.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Solstice FDV above $100M one day after launch?"
 category: "crypto"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-03
 expiryDate: 2027-01-01
 tags: ["crypto", "polymarket"]

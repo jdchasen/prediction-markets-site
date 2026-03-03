@@ -1,56 +1,58 @@
 ---
 title: "Will the 10-year treasury yield hit 4.8% by March 31?"
-description: "Will the 10-year treasury yield hit 4.8% by March 31? Odds: 1.1% YES on Polymarket. See live prices and trade this market."
+description: "Will the 10-year treasury yield hit 4.8% by March 31? Odds: 0.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the 10-year treasury yield hit 4.8% by March 31?"
 category: "economics"
 status: "active"
 lastUpdated: 2026-03-03
 expiryDate: 2026-03-31
 tags: ["economics", "polymarket"]
-polymarketYes: 1.1
-polymarketNo: 99.0
-polymarketVolume: 9353
+polymarketYes: 0.9
+polymarketNo: 99.1
+polymarketVolume: 9605
 polymarketUrl: "https://polymarket.com/event/will-the-10-year-treasury-yield-hit-4pt8-by-march-31"
+analysisDate: 2026-03-03
 ---
 
-# 10-Year Treasury Yield at 4.8% by March 2026: Market Analysis
+# Treasury Yield Market Analysis
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 1.1% | 99.0% | $9K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.9% | 99.1% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The market is pricing in an extremely low probability of the 10-year yield reaching 4.8% within the next 15 months, signaling broad consensus that either rates will remain stable or decline from current levels around 4.2-4.3%. This matters because treasury yields anchor borrowing costs across the economy—a spike to 4.8% would signal sustained inflation concerns or aggressive Fed tightening that could destabilize equity markets and mortgage rates. At 1.1% implied probability, traders are essentially betting against this outcome, but the question worth examining is whether current odds adequately reflect tail-risk scenarios.
+The 10-year Treasury yield hitting 4.8% by end of Q1 2026 is priced as an extreme longshot at under 1%, suggesting market participants view this level as highly unlikely given current economic conditions and Fed trajectory. This matters because the odds reflect consensus expectations about inflation, monetary policy, and growth—movements that would require a dramatic shift from today's pricing. With roughly 15 months remaining until expiry, the market is essentially saying that even a significant shock would struggle to push yields this high.
 
-The bull case for 4.8% relies on a resurgence in inflation expectations that forces the Fed's hand into another tightening cycle. If PCE or CPI data released before March 2026 shows persistent price pressures—particularly headline inflation moving back above 3.5%—bond markets would reprice rapidly. The February 2025 CPI print, March FOMC decision (March 18-19), and any surprise in labor data (NFP releases monthly) could trigger such repricing. A weakening dollar or fiscal shock (large deficit widening) could also push yields higher structurally. This scenario isn't priced in at all at 1.1%, making it technically undervalued if inflation risks reconcentrate.
+The bull case for 4.8% rests on a stagflationary scenario: persistent inflation above the Fed's 2% target forcing the central bank to either pause or extend rate cuts, combined with a widening fiscal deficit that requires higher Treasury yields to attract buyers. If 2025 CPI prints remain sticky (next release January 14), particularly in core inflation excluding food and energy, bond markets could reprice higher rates. A breakdown in labor markets—watch the February 7 NFP report for a potential catalyst—would likely trigger risk-off selling that initially benefits Treasuries, but if coupled with inflation resilience, could push the long end higher. The 4.8% level assumes yields would need to rise roughly 100+ basis points from current levels, possible only if the Fed capitulates on its easing cycle and shifts hawkish, or if unexpected fiscal deterioration spooks foreign buyers.
 
-The bear case dominates because the Fed has signaled a patient, data-dependent approach with rate cuts likely continuing through 2025. Unless inflation unexpectedly reignites, the terminal rate environment supports yields trending toward 4.0% or below, not 4.8%. Current Fed funds futures barely price in a 50bp total increase through March 2026, and each quarterly PCE release has shown disinflationary momentum. Major technical support for the 10-year also sits well below 4.8%, meaning yields would need to break through multiple resistance levels. The real risk to this market is that 4.8% is being treated as impossibly high when historical volatility could easily get there if geopolitical shock, fiscal deterioration, or unexpected wage acceleration occurs—but those scenarios carry low baseline probability.
+The bear case, which the market is heavily pricing, argues that the Fed has successfully engineered a soft landing and will continue gradual rate cuts through 2026. The Fed's December 2024 median projection showed only two 25bp cuts expected in 2025, and inflation expectations anchored around 2.3% suggest the terminal rate won't require much higher yields. The 10-year yield reflects long-term real rates plus inflation expectations; absent a recession or supply shock, both should remain stable. Additionally, demand from pension funds, insurance companies, and foreign central banks provides persistent support for Treasuries at current levels, limiting the need for sharply higher yields to clear supply.
 
-Traders should monitor FOMC minutes (released mid-month after meetings) for any hawkish revision in inflation language, weekly jobless claims data for labor market softening (which could reduce rate-cut pressure), and any speech by Fed officials signaling pause or reversal in the easing cycle. A surprise inflation print in Q1 2025 or early Q2 would be the primary catalyst moving odds higher; absent that, this market will likely expire deep out of the money unless external shocks dominate in late 2025.
+Key catalysts to monitor include the FOMC meetings (January 29, March 18-19), core PCE inflation data (January 31, February 28), and the NFP reports (January 10, February 7, March 7). Any indication that the Fed is pausing cuts sooner than expected would be the most direct bull catalyst. Conversely, evidence of disinflation or recession risk would reinforce the bear case. Traders should track the Fed funds futures curve, which currently prices minimal tightening through 2026—a significant flattening or repricing toward higher end-2026 rates would represent the early warning signal for this market moving materially higher.
 
 ## Related Markets
 
-- [Will monthly inflation increase by 0.4% or more in February?](/odds/will-monthly-inflation-increase-by-04-or-more-in-february) — 12% YES
+- [Will the Fed decrease interest rates by 25 bps after the April 2026 meeting?](/odds/will-the-fed-decrease-interest-rates-by-25-bps-after-the-april-2026-meeting) — 12% YES
+- [Will 12 or more Fed rate cuts happen in 2026?](/odds/will-12-or-more-fed-rate-cuts-happen-in-2026) — 3% YES
 
 ## Frequently Asked Questions
 
-### Why are odds so low when 4.8% doesn't seem historically extreme for the 10-year?
+### What specific yield level would traders need to see to dramatically increase the YES probability?
 
-4.8% would represent a 60+ basis point move higher from current levels in 15 months without clear catalyst in current consensus; it's possible but requires either Fed policy reversal or inflation reacceleration that markets don't expect.
+A sustained move to 4.5% or higher would signal momentum toward 4.8%, but the market would need clear evidence of Fed pause/tightening or inflation reacceleration to reprrice significantly; we're currently ~130bps away from the target.
 
-### Which single economic data release before March 31, 2026 would most likely push this market into the 5-10% range?
+### How does the Treasury supply auction schedule affect this market's outcome?
 
-A PCE inflation reading above 3.5% or consecutive hot CPI prints would immediately trigger repricing; any print showing disinflation stalling would be the critical catalyst.
+Large Treasury issuance in 2025 could pressure yields higher if demand weakens, but current foreign demand and domestic institutional buying suggest auction results are unlikely to force yields to 4.8% independently without a policy or inflation shock.
 
-### Could a geopolitical or fiscal shock be priced into these odds at all?
+### If the Fed cuts rates to 2.5% by mid-2026, does that make 4.8% on the 10-year impossible?
 
-Essentially no—the 1.1% is almost pure inflation/
+No—the 10-year
 
 ## Learn More
 
 - [Will Khamenei Lose Power? Market Shows 99.9% Odds](/blog/will-khamenei-lose-power-market-shows-999-odds)
-- [Will Ethereum Reach $4,500 in 2026? What Prediction Markets Say](/blog/will-ethereum-reach-4500-in-2026-what-prediction-markets-say)
+- [Will Khamenei Lose Power? Market Says 100%](/blog/will-khamenei-lose-power-market-says-100)
 

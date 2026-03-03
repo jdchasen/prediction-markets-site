@@ -3,7 +3,7 @@ title: "GPT-5.3 released by March 8, 2026?"
 description: "GPT-5.3 released by March 8, 2026? Odds: 77.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "GPT-5.3 released by March 8, 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-03
 expiryDate: 2026-03-08
 tags: ["politics", "polymarket"]

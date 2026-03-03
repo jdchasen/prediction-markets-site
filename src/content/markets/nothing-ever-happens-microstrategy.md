@@ -1,17 +1,16 @@
 ---
 title: "Nothing Ever Happens: MicroStrategy"
-description: "Nothing Ever Happens: MicroStrategy Odds: 87.0% YES on Polymarket. See live prices and trade this market."
+description: "Nothing Ever Happens: MicroStrategy Odds: 85.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Nothing Ever Happens: MicroStrategy"
 category: "politics"
 status: "active"
 lastUpdated: 2026-03-03
 expiryDate: 2026-03-31
 tags: ["politics", "polymarket"]
-polymarketYes: 87.0
-polymarketNo: 13.0
-polymarketVolume: 990408
+polymarketYes: 85.0
+polymarketNo: 15.0
+polymarketVolume: 996035
 polymarketUrl: "https://polymarket.com/event/nothing-ever-happens-microstrategy"
-analysisDate: 2026-03-03
 ---
 
 The market is pricing in an 87% probability that nothing dramatic happens to MicroStrategy through March 2026, reflecting trader confidence that the company will continue its Bitcoin accumulation strategy without major disruption despite ongoing volatility in crypto markets.

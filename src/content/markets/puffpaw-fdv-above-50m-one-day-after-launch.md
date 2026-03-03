@@ -9,9 +9,8 @@ expiryDate: 2027-01-01
 tags: ["crypto", "polymarket"]
 polymarketYes: 63.5
 polymarketNo: 36.5
-polymarketVolume: 991428
+polymarketVolume: 991632
 polymarketUrl: "https://polymarket.com/event/puffpaw-fdv-above-50m-one-day-after-launch"
-analysisDate: 2026-03-03
 ---
 
 The market reflects moderate confidence that Puffpaw will achieve a fully diluted valuation exceeding $50M within 24 hours of its token launch, though resolution won't occur until early 2027 when the actual launch happens. This matters as a gauge of expectations for yet another crypto wellness project attempting to tokenize health behaviors, specifically targeting smoking cessation through a vape-to-earn model that rewards users for quitting traditional cigarettes.

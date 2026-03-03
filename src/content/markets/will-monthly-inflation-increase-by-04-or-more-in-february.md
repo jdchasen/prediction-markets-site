@@ -3,7 +3,7 @@ title: "Will monthly inflation increase by 0.4% or more in February?"
 description: "Will monthly inflation increase by 0.4% or more in February? Odds: 11.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will monthly inflation increase by 0.4% or more in February?"
 category: "economics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-03
 expiryDate: 2026-03-11
 tags: ["economics", "polymarket", "sports"]

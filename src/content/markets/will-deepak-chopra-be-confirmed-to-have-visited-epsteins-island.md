@@ -11,7 +11,6 @@ polymarketYes: 15.5
 polymarketNo: 84.5
 polymarketVolume: 9803
 polymarketUrl: "https://polymarket.com/event/will-deepak-chopra-be-confirmed-to-have-visited-epsteins-island"
-analysisDate: 2026-03-03
 ---
 
 # Deepak Chopra Epstein Island Prediction Market Analysis

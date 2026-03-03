@@ -3,7 +3,7 @@ title: "Will Iran strike Syria in March?"
 description: "Will Iran strike Syria in March? Odds: 36.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Iran strike Syria in March?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-03
 expiryDate: 2026-03-07
 tags: ["politics", "polymarket"]

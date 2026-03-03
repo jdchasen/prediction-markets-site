@@ -3,7 +3,7 @@ title: "Will England win the 2026 ICC Men’s T20 World Cup?"
 description: "Will England win the 2026 ICC Men’s T20 World Cup? Odds: 15.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will England win the 2026 ICC Men’s T20 World Cup?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-03
 expiryDate: 2026-03-08
 tags: ["polymarket", "sports"]

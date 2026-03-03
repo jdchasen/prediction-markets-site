@@ -11,7 +11,6 @@ polymarketYes: 9.5
 polymarketNo: 90.5
 polymarketVolume: 9754
 polymarketUrl: "https://polymarket.com/event/will-taylor-swift-be-the-top-spotify-artist-for-2026"
-analysisDate: 2026-03-03
 ---
 
 # Taylor Swift Top Spotify Artist 2026 Market Analysis

@@ -1,17 +1,16 @@
 ---
 title: "Will Google have the third-best AI model at the end of March 2026?"
-description: "Will Google have the third-best AI model at the end of March 2026? Odds: 56.0% YES on Polymarket. See live prices and trade this market."
+description: "Will Google have the third-best AI model at the end of March 2026? Odds: 55.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Google have the third-best AI model at the end of March 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-03-03
 expiryDate: 2026-03-31
 tags: ["ai", "politics", "polymarket"]
-polymarketYes: 56.0
-polymarketNo: 44.0
-polymarketVolume: 9846
+polymarketYes: 55.5
+polymarketNo: 44.5
+polymarketVolume: 9930
 polymarketUrl: "https://polymarket.com/event/will-google-have-the-third-best-ai-model-at-the-end-of-march-2026"
-analysisDate: 2026-03-03
 ---
 
 # Google's AI Ranking: A Market Betting on Stagnation

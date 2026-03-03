@@ -3,7 +3,7 @@ title: "Hersonissos: Lui Maxted vs Harry Wendelken"
 description: "Hersonissos: Lui Maxted vs Harry Wendelken Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Hersonissos: Lui Maxted vs Harry Wendelken"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-03
 expiryDate: 2026-03-10
 tags: ["politics", "polymarket"]

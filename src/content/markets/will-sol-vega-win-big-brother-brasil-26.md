@@ -9,9 +9,8 @@ expiryDate: 2026-04-30
 tags: ["politics", "polymarket"]
 polymarketYes: 0.1
 polymarketNo: 99.9
-polymarketVolume: 9698
+polymarketVolume: 9885
 polymarketUrl: "https://polymarket.com/event/will-sol-vega-win-big-brother-brasil-26"
-analysisDate: 2026-03-03
 ---
 
 # Sol Vega's Big Brother Brasil 26 Odds: A Reality Competition Bet in a Political Category

@@ -1,17 +1,16 @@
 ---
 title: "Will Fernando Alonso be the 2026 F1 Drivers' Champion?"
-description: "Will Fernando Alonso be the 2026 F1 Drivers' Champion? Odds: 0.9% YES on Polymarket. See live prices and trade this market."
+description: "Will Fernando Alonso be the 2026 F1 Drivers' Champion? Odds: 0.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Fernando Alonso be the 2026 F1 Drivers' Champion?"
 category: "sports"
 status: "active"
 lastUpdated: 2026-03-03
 expiryDate: 2026-12-06
 tags: ["polymarket", "sports"]
-polymarketYes: 0.9
-polymarketNo: 99.2
-polymarketVolume: 968506
+polymarketYes: 0.5
+polymarketNo: 99.5
+polymarketVolume: 975541
 polymarketUrl: "https://polymarket.com/event/will-fernando-alonso-be-the-2026-f1-drivers-champion"
-analysisDate: 2026-03-03
 ---
 
 The market assigns less than a 1% probability to Fernando Alonso winning the 2026 F1 Drivers' Championship, reflecting the harsh reality that the 45-year-old Aston Martin driver faces nearly insurmountable odds despite his legendary status in the sport.

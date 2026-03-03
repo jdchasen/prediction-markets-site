@@ -11,7 +11,6 @@ polymarketYes: 1.2
 polymarketNo: 98.8
 polymarketVolume: 9821
 polymarketUrl: "https://polymarket.com/event/solstice-fdv-above-400m-one-day-after-launch"
-analysisDate: 2026-03-03
 ---
 
 # Solstice FDV Analysis

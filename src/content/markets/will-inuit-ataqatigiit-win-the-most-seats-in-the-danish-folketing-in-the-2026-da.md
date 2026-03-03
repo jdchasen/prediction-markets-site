@@ -3,7 +3,7 @@ title: "Will Inuit Ataqatigiit win the most seats in the Danish Folketing in the
 description: "Will Inuit Ataqatigiit win the most seats in the Danish Folketing in the 2026 Danish general election? Odds: 0.1% YES on Polymarket. See live prices and trad..."
 marketQuestion: "Will Inuit Ataqatigiit win the most seats in the Danish Folketing in the 2026 Danish general election?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-03
 expiryDate: 2026-03-24
 tags: ["elections", "politics", "polymarket"]

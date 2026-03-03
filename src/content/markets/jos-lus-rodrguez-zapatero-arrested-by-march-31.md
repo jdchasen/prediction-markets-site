@@ -1,17 +1,16 @@
 ---
 title: "José Luís Rodríguez Zapatero arrested by March 31?"
-description: "José Luís Rodríguez Zapatero arrested by March 31? Odds: 3.4% YES on Polymarket. See live prices and trade this market."
+description: "José Luís Rodríguez Zapatero arrested by March 31? Odds: 2.6% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "José Luís Rodríguez Zapatero arrested by March 31?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-03-03
 expiryDate: 2026-03-31
 tags: ["politics", "polymarket"]
-polymarketYes: 3.4
-polymarketNo: 96.6
-polymarketVolume: 96831
+polymarketYes: 2.6
+polymarketNo: 97.4
+polymarketVolume: 97485
 polymarketUrl: "https://polymarket.com/event/jos-lus-rodrguez-zapatero-arrested-by-march-31"
-analysisDate: 2026-03-03
 ---
 
 At 3.4%, this market prices in a very low probability of Spain's former prime minister facing arrest before the end of 2025, reflecting the current political consensus that such an outcome remains unlikely despite ongoing legal pressures. The odds matter because Zapatero has faced increasing scrutiny from Spanish and international authorities, and any material shift in his legal status would represent a significant political upheaval in Spain given his prominence as PSOE leader and former head of government (2004-2011).
