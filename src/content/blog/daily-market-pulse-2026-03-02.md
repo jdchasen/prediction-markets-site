@@ -1,5 +1,5 @@
 ---
-title: "Daily Market Pulse: March 02, 2026"
+title: "Kuwait Downs 3 US Jets in Friendly Fire as Iran War Kills 4 Troops | Daily Market Pulse"
 description: "Kuwait downs 3 US jets as Iran war kills 4 troops—markets price 5.5% odds of ceasefire in 5 days on $1M volume, regime collapse bets surge amid friendly fire incident"
 pubDate: 2026-03-02
 category: "strategies"
