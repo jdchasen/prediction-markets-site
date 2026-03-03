@@ -3,8 +3,8 @@ title: "Will Solana reach $150 in March?"
 description: "Will Solana reach $150 in March? Odds: 1.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Solana reach $150 in March?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-02
+status: "settled"
+lastUpdated: 2026-03-03
 expiryDate: 2026-04-01
 tags: ["politics", "polymarket"]
 polymarketYes: 1.8

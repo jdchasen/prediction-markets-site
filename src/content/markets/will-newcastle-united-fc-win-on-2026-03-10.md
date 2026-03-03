@@ -3,8 +3,8 @@ title: "Will Newcastle United FC win on 2026-03-10?"
 description: "Will Newcastle United FC win on 2026-03-10? Odds: 34.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Newcastle United FC win on 2026-03-10?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-02
+status: "settled"
+lastUpdated: 2026-03-03
 expiryDate: 2026-03-10
 tags: ["politics", "polymarket"]
 polymarketYes: 34.5

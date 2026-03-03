@@ -3,8 +3,8 @@ title: "Will Sanna Nielsen win Melodifestivalen 2026?"
 description: "Will Sanna Nielsen win Melodifestivalen 2026? Odds: 2.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Sanna Nielsen win Melodifestivalen 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-02
+status: "settled"
+lastUpdated: 2026-03-03
 expiryDate: 2026-03-07
 tags: ["politics", "polymarket"]
 polymarketYes: 2.9

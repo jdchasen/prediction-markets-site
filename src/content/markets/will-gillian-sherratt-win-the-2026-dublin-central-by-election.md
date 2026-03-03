@@ -1,17 +1,16 @@
 ---
 title: "Will Gillian Sherratt win the 2026 Dublin-central by-election?"
-description: "Will Gillian Sherratt win the 2026 Dublin-central by-election? Odds: 2.3% YES on Polymarket. See live prices and trade this market."
+description: "Will Gillian Sherratt win the 2026 Dublin-central by-election? Odds: 2.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Gillian Sherratt win the 2026 Dublin-central by-election?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-03-02
+lastUpdated: 2026-03-03
 expiryDate: 2026-12-31
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 2.3
-polymarketNo: 97.7
-polymarketVolume: 9762
+polymarketYes: 2.2
+polymarketNo: 97.8
+polymarketVolume: 9777
 polymarketUrl: "https://polymarket.com/event/will-gillian-sherratt-win-the-2026-dublin-central-by-election"
-analysisDate: 2026-03-02
 ---
 
 Gillian Sherratt faces extremely long odds at just 2.3% to win a potential Dublin Central by-election before the end of 2026, reflecting both uncertainty around whether a by-election will occur and her limited electoral profile in what would be a highly competitive multi-candidate race.

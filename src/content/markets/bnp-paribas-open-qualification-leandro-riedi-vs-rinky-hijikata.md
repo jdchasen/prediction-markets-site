@@ -3,8 +3,8 @@ title: "BNP Paribas Open, Qualification: Leandro Riedi vs Rinky Hijikata"
 description: "BNP Paribas Open, Qualification: Leandro Riedi vs Rinky Hijikata Odds: 53.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "BNP Paribas Open, Qualification: Leandro Riedi vs Rinky Hijikata"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-02
+status: "settled"
+lastUpdated: 2026-03-03
 expiryDate: 2026-03-09
 tags: ["politics", "polymarket"]
 polymarketYes: 53.0

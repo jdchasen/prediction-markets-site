@@ -3,8 +3,8 @@ title: "Will Nathalie Perrin-Gilbert win the 2026 Lyon mayoral election?"
 description: "Will Nathalie Perrin-Gilbert win the 2026 Lyon mayoral election? Odds: 0.3% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Nathalie Perrin-Gilbert win the 2026 Lyon mayoral election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-02
+status: "settled"
+lastUpdated: 2026-03-03
 expiryDate: 2026-05-22
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.3

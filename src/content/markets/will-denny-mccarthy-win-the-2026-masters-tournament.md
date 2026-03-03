@@ -1,17 +1,16 @@
 ---
 title: "Will Denny McCarthy win the 2026 Masters tournament?"
-description: "Will Denny McCarthy win the 2026 Masters tournament? Odds: 1.7% YES on Polymarket. See live prices and trade this market."
+description: "Will Denny McCarthy win the 2026 Masters tournament? Odds: 0.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Denny McCarthy win the 2026 Masters tournament?"
 category: "sports"
 status: "active"
-lastUpdated: 2026-03-02
+lastUpdated: 2026-03-03
 expiryDate: 2026-04-13
 tags: ["polymarket", "sports"]
-polymarketYes: 1.7
-polymarketNo: 98.3
-polymarketVolume: 96803
+polymarketYes: 0.7
+polymarketNo: 99.4
+polymarketVolume: 99952
 polymarketUrl: "https://polymarket.com/event/will-denny-mccarthy-win-the-2026-masters-tournament"
-analysisDate: 2026-03-02
 ---
 
 Denny McCarthy enters the 2026 Masters as a significant longshot at 1.7% probability, reflecting his status as a solid but unspectacular PGA Tour player who has yet to break through at golf's highest level. The market matters as it prices the realistic chances of a journeyman pro competing against the sport's elite at Augusta National, one of golf's most demanding and selective venues.

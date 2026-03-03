@@ -3,8 +3,8 @@ title: "Ukraine officially agrees to a US backed ceasefire framework by June 30?
 description: "Ukraine officially agrees to a US backed ceasefire framework by June 30? Odds: 28.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Ukraine officially agrees to a US backed ceasefire framework by June 30?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-02
+status: "settled"
+lastUpdated: 2026-03-03
 expiryDate: 2026-06-30
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 28.0

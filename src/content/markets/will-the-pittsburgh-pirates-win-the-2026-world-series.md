@@ -3,8 +3,8 @@ title: "Will the Pittsburgh Pirates win the 2026 World Series?"
 description: "Will the Pittsburgh Pirates win the 2026 World Series? Odds: 2.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Pittsburgh Pirates win the 2026 World Series?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-02
+status: "settled"
+lastUpdated: 2026-03-03
 expiryDate: 2026-10-31
 tags: ["politics", "polymarket"]
 polymarketYes: 2.5

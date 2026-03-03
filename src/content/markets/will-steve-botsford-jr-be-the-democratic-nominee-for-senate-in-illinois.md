@@ -3,8 +3,8 @@ title: "Will Steve Botsford Jr. be the Democratic nominee for Senate in Illinois
 description: "Will Steve Botsford Jr. be the Democratic nominee for Senate in Illinois? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Steve Botsford Jr. be the Democratic nominee for Senate in Illinois?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-02
+status: "settled"
+lastUpdated: 2026-03-03
 expiryDate: 2026-03-17
 tags: ["politics", "polymarket"]
 polymarketYes: 0.1

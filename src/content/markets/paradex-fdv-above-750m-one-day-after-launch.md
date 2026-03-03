@@ -1,17 +1,16 @@
 ---
 title: "Paradex FDV above $750M one day after launch?"
-description: "Paradex FDV above $750M one day after launch? Odds: 1.1% YES on Polymarket. See live prices and trade this market."
+description: "Paradex FDV above $750M one day after launch? Odds: 1.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Paradex FDV above $750M one day after launch?"
 category: "crypto"
 status: "active"
-lastUpdated: 2026-03-02
+lastUpdated: 2026-03-03
 expiryDate: 2027-01-01
 tags: ["crypto", "polymarket"]
-polymarketYes: 1.1
-polymarketNo: 98.9
-polymarketVolume: 99721
+polymarketYes: 1.7
+polymarketNo: 98.4
+polymarketVolume: 99858
 polymarketUrl: "https://polymarket.com/event/paradex-fdv-above-750m-one-day-after-launch-941-758-949-381"
-analysisDate: 2026-03-02
 ---
 
 The market assigns Paradex an extremely low 1.1% probability of achieving a $750M fully diluted valuation on its first trading day, reflecting deep skepticism about the derivatives DEX's ability to command premium valuations in a crowded perpetuals market.

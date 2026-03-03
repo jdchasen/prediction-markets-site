@@ -1,17 +1,16 @@
 ---
 title: "Will PLC win the most seats in the 2026 Colombian Senate election?"
-description: "Will PLC win the most seats in the 2026 Colombian Senate election? Odds: 0.2% YES on Polymarket. See live prices and trade this market."
+description: "Will PLC win the most seats in the 2026 Colombian Senate election? Odds: 0.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will PLC win the most seats in the 2026 Colombian Senate election?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-03-02
+lastUpdated: 2026-03-03
 expiryDate: 2026-03-08
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 0.2
-polymarketNo: 99.8
-polymarketVolume: 98509
+polymarketYes: 0.5
+polymarketNo: 99.5
+polymarketVolume: 99450
 polymarketUrl: "https://polymarket.com/event/will-plc-win-the-most-seats-in-the-2026-colombian-senate-election"
-analysisDate: 2026-03-02
 ---
 
 The prediction market shows near-zero confidence that the Liberal Party of Colombia (PLC) will capture the most Senate seats in March 2026, reflecting the party's continued decline in a fragmented political landscape where leftist and right-wing coalitions have dominated recent electoral cycles.

@@ -4,14 +4,13 @@ description: "Will Jay Collins be the Republican nominee for Florida Governor? O
 marketQuestion: "Will Jay Collins be the Republican nominee for Florida Governor?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-03-02
+lastUpdated: 2026-03-03
 expiryDate: 2026-08-18
 tags: ["politics", "polymarket"]
 polymarketYes: 5.8
 polymarketNo: 94.2
-polymarketVolume: 9737
+polymarketVolume: 9745
 polymarketUrl: "https://polymarket.com/event/will-jay-collins-be-the-republican-nominee-for-florida-governor"
-analysisDate: 2026-03-02
 ---
 
 # Jay Collins for Florida Governor 2026: A Long-Shot Bid
