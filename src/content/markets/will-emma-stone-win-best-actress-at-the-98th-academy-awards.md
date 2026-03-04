@@ -3,8 +3,8 @@ title: "Will Emma Stone win Best Actress at the 98th Academy Awards?"
 description: "Will Emma Stone win Best Actress at the 98th Academy Awards? Odds: 0.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Emma Stone win Best Actress at the 98th Academy Awards?"
 category: "entertainment"
-status: "active"
-lastUpdated: 2026-03-03
+status: "settled"
+lastUpdated: 2026-03-04
 expiryDate: 2026-03-15
 tags: ["entertainment", "polymarket"]
 polymarketYes: 0.5

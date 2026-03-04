@@ -3,8 +3,8 @@ title: "Another GTA VI trailer released by March 31?"
 description: "Another GTA VI trailer released by March 31? Odds: 21.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Another GTA VI trailer released by March 31?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-03
+status: "settled"
+lastUpdated: 2026-03-04
 expiryDate: 2026-03-31
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 21.5

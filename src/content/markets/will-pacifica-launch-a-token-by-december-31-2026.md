@@ -4,14 +4,13 @@ description: "Will Pacifica launch a token by December 31 2026? Odds: 61.0% YES 
 marketQuestion: "Will Pacifica launch a token by December 31 2026?"
 category: "crypto"
 status: "active"
-lastUpdated: 2026-03-03
+lastUpdated: 2026-03-04
 expiryDate: 2027-01-01
 tags: ["crypto", "polymarket"]
 polymarketYes: 61.0
 polymarketNo: 39.0
 polymarketVolume: 9891
 polymarketUrl: "https://polymarket.com/event/will-pacifica-launch-a-token-by-december-31-2026"
-analysisDate: 2026-03-03
 ---
 
 # Pacifica Token Launch Market Analysis

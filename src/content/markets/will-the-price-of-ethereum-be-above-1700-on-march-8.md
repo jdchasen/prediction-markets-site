@@ -3,8 +3,8 @@ title: "Will the price of Ethereum be above $1,700 on March 8?"
 description: "Will the price of Ethereum be above $1,700 on March 8? Odds: 94.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the price of Ethereum be above $1,700 on March 8?"
 category: "crypto"
-status: "active"
-lastUpdated: 2026-03-03
+status: "settled"
+lastUpdated: 2026-03-04
 expiryDate: 2026-03-08
 tags: ["crypto", "ethereum", "polymarket"]
 polymarketYes: 94.8

@@ -3,8 +3,8 @@ title: "Opinion FDV above $250M one day after launch?"
 description: "Opinion FDV above $250M one day after launch? Odds: 92.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Opinion FDV above $250M one day after launch?"
 category: "crypto"
-status: "active"
-lastUpdated: 2026-03-03
+status: "settled"
+lastUpdated: 2026-03-04
 expiryDate: 2027-01-01
 tags: ["crypto", "polymarket"]
 polymarketYes: 92.5

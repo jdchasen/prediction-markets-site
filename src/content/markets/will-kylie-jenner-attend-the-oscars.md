@@ -1,17 +1,16 @@
 ---
 title: "Will Kylie Jenner attend the Oscars?"
-description: "Will Kylie Jenner attend the Oscars? Odds: 91.0% YES on Polymarket. See live prices and trade this market."
+description: "Will Kylie Jenner attend the Oscars? Odds: 93.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Kylie Jenner attend the Oscars?"
 category: "entertainment"
 status: "active"
-lastUpdated: 2026-03-03
+lastUpdated: 2026-03-04
 expiryDate: 2026-03-15
 tags: ["entertainment", "polymarket"]
-polymarketYes: 91.0
-polymarketNo: 9.0
+polymarketYes: 93.0
+polymarketNo: 7.0
 polymarketVolume: 9910
 polymarketUrl: "https://polymarket.com/event/will-kylie-jenner-attend-the-oscars-487"
-analysisDate: 2026-03-03
 ---
 
 # Kylie Jenner Oscars Attendance Analysis

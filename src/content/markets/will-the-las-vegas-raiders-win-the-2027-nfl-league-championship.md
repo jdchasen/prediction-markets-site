@@ -3,8 +3,8 @@ title: "Will the Las Vegas Raiders win the 2027 NFL league championship?"
 description: "Will the Las Vegas Raiders win the 2027 NFL league championship? Odds: 0.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Las Vegas Raiders win the 2027 NFL league championship?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-03-03
+status: "settled"
+lastUpdated: 2026-03-04
 expiryDate: 2027-03-31
 tags: ["ai", "polymarket", "sports"]
 polymarketYes: 0.9

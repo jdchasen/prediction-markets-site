@@ -1,17 +1,16 @@
 ---
 title: "Clavicular charged again by June 30?"
-description: "Clavicular charged again by June 30? Odds: 20.5% YES on Polymarket. See live prices and trade this market."
+description: "Clavicular charged again by June 30? Odds: 22.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Clavicular charged again by June 30?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-03-03
+lastUpdated: 2026-03-04
 expiryDate: 2026-06-30
 tags: ["ai", "politics", "polymarket"]
-polymarketYes: 20.5
-polymarketNo: 79.5
+polymarketYes: 22.5
+polymarketNo: 77.5
 polymarketVolume: 9768
 polymarketUrl: "https://polymarket.com/event/clavicular-charged-again-by-june-30"
-analysisDate: 2026-03-03
 ---
 
 I appreciate your request, but I need to flag a critical issue: "Clavicular charged" does not appear to be a recognizable political figure, event, or term in current U.S. or international politics as of my knowledge cutoff. This makes it impossible to provide accurate analysis of the market's fundamentals, relevant catalysts, or political dynamics.

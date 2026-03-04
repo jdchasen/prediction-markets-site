@@ -3,8 +3,8 @@ title: "Nothing Ever Happens: MicroStrategy"
 description: "Nothing Ever Happens: MicroStrategy Odds: 85.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Nothing Ever Happens: MicroStrategy"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-03
+status: "settled"
+lastUpdated: 2026-03-04
 expiryDate: 2026-03-31
 tags: ["politics", "polymarket"]
 polymarketYes: 85.0

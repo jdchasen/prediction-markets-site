@@ -3,8 +3,8 @@ title: "Puffpaw FDV above $50M one day after launch?"
 description: "Puffpaw FDV above $50M one day after launch? Odds: 63.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Puffpaw FDV above $50M one day after launch?"
 category: "crypto"
-status: "active"
-lastUpdated: 2026-03-03
+status: "settled"
+lastUpdated: 2026-03-04
 expiryDate: 2027-01-01
 tags: ["crypto", "polymarket"]
 polymarketYes: 63.5

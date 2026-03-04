@@ -1,17 +1,16 @@
 ---
 title: "Zelenskyy out as Ukraine president by June 30, 2026?"
-description: "Zelenskyy out as Ukraine president by June 30, 2026? Odds: 13.5% YES on Polymarket. See live prices and trade this market."
+description: "Zelenskyy out as Ukraine president by June 30, 2026? Odds: 12.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Zelenskyy out as Ukraine president by June 30, 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-03-03
+lastUpdated: 2026-03-04
 expiryDate: 2026-06-30
 tags: ["ai", "politics", "polymarket"]
-polymarketYes: 13.5
-polymarketNo: 86.5
-polymarketVolume: 97222
+polymarketYes: 12.0
+polymarketNo: 88.0
+polymarketVolume: 97388
 polymarketUrl: "https://polymarket.com/event/zelenskyy-out-as-ukraine-president-by-january-31-2026"
-analysisDate: 2026-03-03
 ---
 
 Prediction markets are pricing in a strong likelihood that Volodymyr Zelenskyy remains Ukraine's president through mid-2026, with only a 13.5% chance of his departure, reflecting both wartime political dynamics and the constitutional framework that has kept him in power since Russia's February 2022 invasion.

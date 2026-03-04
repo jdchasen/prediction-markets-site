@@ -3,8 +3,8 @@ title: "Will the Republicans win the Georgia Senate race in 2026?"
 description: "Will the Republicans win the Georgia Senate race in 2026? Odds: 19.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Republicans win the Georgia Senate race in 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-03
+status: "settled"
+lastUpdated: 2026-03-04
 tags: ["politics", "polymarket"]
 polymarketYes: 19.1
 polymarketNo: 80.8

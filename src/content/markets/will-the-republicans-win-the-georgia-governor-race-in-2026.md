@@ -1,16 +1,15 @@
 ---
 title: "Will the Republicans win the Georgia governor race in 2026?"
-description: "Will the Republicans win the Georgia governor race in 2026? Odds: 39.5% YES on Polymarket. See live prices and trade this market."
+description: "Will the Republicans win the Georgia governor race in 2026? Odds: 40.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Republicans win the Georgia governor race in 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-03-03
+lastUpdated: 2026-03-04
 tags: ["politics", "polymarket"]
-polymarketYes: 39.5
-polymarketNo: 60.5
-polymarketVolume: 9720
+polymarketYes: 40.5
+polymarketNo: 59.5
+polymarketVolume: 9732
 polymarketUrl: "https://polymarket.com/event/will-the-republicans-win-the-georgia-governor-race-in-2026"
-analysisDate: 2026-03-03
 ---
 
 # Georgia Governor 2026: Republicans Face Headwinds in Swing State

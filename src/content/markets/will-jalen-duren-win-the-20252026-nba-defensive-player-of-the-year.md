@@ -4,14 +4,13 @@ description: "Will Jalen Duren win the 2025–2026 NBA Defensive Player of the Y
 marketQuestion: "Will Jalen Duren win the 2025–2026 NBA Defensive Player of the Year?"
 category: "sports"
 status: "active"
-lastUpdated: 2026-03-03
+lastUpdated: 2026-03-04
 expiryDate: 2026-06-30
 tags: ["polymarket", "sports"]
 polymarketYes: 0.1
 polymarketNo: 99.9
 polymarketVolume: 9785
 polymarketUrl: "https://polymarket.com/event/nba-2025-26-defensive-player-of-the-year-jalen-duren"
-analysisDate: 2026-03-03
 ---
 
 # Jalen Duren DPOY 2025-2026: A Massive Longshot with Youth on His Side

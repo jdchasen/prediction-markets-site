@@ -3,8 +3,8 @@ title: "U.S. evacuates Jerusalem embassy by March 31?"
 description: "U.S. evacuates Jerusalem embassy by March 31? Odds: 11.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "U.S. evacuates Jerusalem embassy by March 31?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-03
+status: "settled"
+lastUpdated: 2026-03-04
 expiryDate: 2026-03-31
 tags: ["politics", "polymarket"]
 polymarketYes: 11.2

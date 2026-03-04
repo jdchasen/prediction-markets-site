@@ -1,17 +1,16 @@
 ---
 title: "Will the 10-year treasury yield hit 4.8% by March 31?"
-description: "Will the 10-year treasury yield hit 4.8% by March 31? Odds: 0.9% YES on Polymarket. See live prices and trade this market."
+description: "Will the 10-year treasury yield hit 4.8% by March 31? Odds: 1.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the 10-year treasury yield hit 4.8% by March 31?"
 category: "economics"
 status: "active"
-lastUpdated: 2026-03-03
+lastUpdated: 2026-03-04
 expiryDate: 2026-03-31
 tags: ["economics", "polymarket"]
-polymarketYes: 0.9
-polymarketNo: 99.1
+polymarketYes: 1.0
+polymarketNo: 99.0
 polymarketVolume: 9605
 polymarketUrl: "https://polymarket.com/event/will-the-10-year-treasury-yield-hit-4pt8-by-march-31"
-analysisDate: 2026-03-03
 ---
 
 # Treasury Yield Market Analysis

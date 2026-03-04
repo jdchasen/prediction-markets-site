@@ -3,8 +3,8 @@ title: "Will Gavin Newsom win the 2028 Democratic presidential nomination?"
 description: "Will Gavin Newsom win the 2028 Democratic presidential nomination? Odds: 25.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Gavin Newsom win the 2028 Democratic presidential nomination?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-03
+status: "settled"
+lastUpdated: 2026-03-04
 expiryDate: 2028-11-07
 tags: ["politics", "polymarket"]
 polymarketYes: 25.1
