@@ -1,17 +1,16 @@
 ---
 title: "Will Wicked: For Good be the top grossing movie of 2026?"
-description: "Will Wicked: For Good be the top grossing movie of 2026? Odds: 0.3% YES on Polymarket. See live prices and trade this market."
+description: "Will Wicked: For Good be the top grossing movie of 2026? Odds: 0.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Wicked: For Good be the top grossing movie of 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-03-04
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 0.3
-polymarketNo: 99.7
+polymarketYes: 0.2
+polymarketNo: 99.8
 polymarketVolume: 99029
 polymarketUrl: "https://polymarket.com/event/will-wicked-for-good-be-the-top-grossing-movie-of-2026"
-analysisDate: 2026-03-04
 ---
 
 Polymarket traders are giving "Wicked: For Good" virtually no chance at becoming 2026's box office champion, pricing it at near-zero odds despite being the sequel to a billion-dollar cultural phenomenon. This market matters because it tests whether Universal can replicate the extraordinary success of late 2024's "Wicked" against a loaded 2026 slate that includes Avatar 4 (December 2026), Avengers: Doomsday (May 2026), and other major franchise entries.

@@ -3,7 +3,7 @@ title: "Will no next Prime Minister of the United Kingdom be appointed in 2026?"
 description: "Will no next Prime Minister of the United Kingdom be appointed in 2026? Odds: 30.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will no next Prime Minister of the United Kingdom be appointed in 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-04
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]

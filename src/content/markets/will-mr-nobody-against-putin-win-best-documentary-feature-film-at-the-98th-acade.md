@@ -1,17 +1,16 @@
 ---
 title: "Will Mr. Nobody Against Putin win Best Documentary Feature Film at the 98th Academy Awards?"
-description: "Will Mr. Nobody Against Putin win Best Documentary Feature Film at the 98th Academy Awards? Odds: 18.0% YES on Polymarket. See live prices and trade this mar..."
+description: "Will Mr. Nobody Against Putin win Best Documentary Feature Film at the 98th Academy Awards? Odds: 19.0% YES on Polymarket. See live prices and trade this mar..."
 marketQuestion: "Will Mr. Nobody Against Putin win Best Documentary Feature Film at the 98th Academy Awards?"
 category: "entertainment"
 status: "active"
 lastUpdated: 2026-03-04
 expiryDate: 2026-03-15
 tags: ["ai", "entertainment", "polymarket"]
-polymarketYes: 18.0
-polymarketNo: 82.0
-polymarketVolume: 9820
+polymarketYes: 19.0
+polymarketNo: 81.0
+polymarketVolume: 9862
 polymarketUrl: "https://polymarket.com/event/will-mr-nobody-against-putin-win-best-documentary-feature-film-at-the-98th-academy-awards"
-analysisDate: 2026-03-04
 ---
 
 # Mr. Nobody Against Putin at the 98th Academy Awards

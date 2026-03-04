@@ -9,9 +9,8 @@ expiryDate: 2026-06-30
 tags: ["polymarket", "sports"]
 polymarketYes: 1.1
 polymarketNo: 98.9
-polymarketVolume: 9812
+polymarketVolume: 9832
 polymarketUrl: "https://polymarket.com/event/nba-2025-26-clutch-player-of-the-year-de-aaron-fox"
-analysisDate: 2026-03-04
 ---
 
 # De'Aaron Fox 2025-2026 Clutch Player of the Year Analysis

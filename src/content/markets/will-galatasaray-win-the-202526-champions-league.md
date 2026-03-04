@@ -9,9 +9,8 @@ expiryDate: 2026-05-31
 tags: ["polymarket", "sports"]
 polymarketYes: 0.8
 polymarketNo: 99.2
-polymarketVolume: 9756406
+polymarketVolume: 9797519
 polymarketUrl: "https://polymarket.com/event/will-galatasaray-win-the-202526-champions-league"
-analysisDate: 2026-03-04
 ---
 
 Galatasaray faces near-insurmountable odds to claim the 2025-26 Champions League title, with prediction markets pricing their chances at less than 1%, reflecting the enormous gulf between Turkish domestic football and Europe's elite clubs competing for continental supremacy.

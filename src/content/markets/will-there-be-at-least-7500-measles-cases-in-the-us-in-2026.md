@@ -1,56 +1,57 @@
 ---
 title: "Will there be at least 7500 measles cases in the U.S. in 2026?"
-description: "Will there be at least 7500 measles cases in the U.S. in 2026? Odds: 28.0% YES on Polymarket. See live prices and trade this market."
+description: "Will there be at least 7500 measles cases in the U.S. in 2026? Odds: 29.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will there be at least 7500 measles cases in the U.S. in 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-03-04
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 28.0
-polymarketNo: 72.0
-polymarketVolume: 97869
+polymarketYes: 29.5
+polymarketNo: 70.5
+polymarketVolume: 97919
 polymarketUrl: "https://polymarket.com/event/will-there-be-at-least-7500-measles-cases-in-the-us-in-2026-287-181"
+analysisDate: 2026-03-04
 ---
 
-The measles prediction market currently prices in roughly a one-in-four chance of hitting 7,500 cases by end of 2026, a significant threshold given the U.S. has recorded fewer than 1,300 cases annually since 2019, making this bet essentially a wager on whether vaccine hesitancy and public health erosion will trigger a major outbreak.
+The measles prediction market currently prices less than a one-in-three chance of reaching 7,500 U.S. cases by end of 2026, reflecting baseline expectations despite recent outbreaks and declining vaccination rates that have pushed measles back into public health discourse.
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 27.5% | 72.5% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 29.5% | 70.5% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The bull case centers on accelerating anti-vaccine sentiment following RFK Jr.'s nomination to lead HHS and declining childhood MMR vaccination rates, which dropped to 92.7% for kindergarteners in 2023-24 (below the 95% herd immunity threshold). Several states have seen organized efforts to weaken vaccine mandates, with legislative sessions in early 2025 across states like Idaho, Missouri, and Texas considering bills to expand vaccine exemptions. A single large outbreak in an under-vaccinated community could easily produce 500-1,000 cases, and multiple such events over two years could push totals toward the threshold. The CDC's budget constraints and potential politicization of public health messaging under a new administration could further hamper outbreak response capabilities.
+The bull case centers on accelerating vaccine hesitancy trends amplified by political polarization around medical mandates. Measles vaccination rates among kindergarteners fell below 93% nationally in the 2023-2024 school year, below the 95% threshold needed for herd immunity, with some states like Idaho and Alaska reporting exemption rates above 12%. A significant outbreak in an undervaccinated community could spark exponential growth—the 2019 outbreak reached 1,274 cases after starting in tight-knit communities. Key catalysts include the 2025-2026 school year enrollment data (typically released in November 2025) and state legislative sessions running January-May 2025 where several states are considering further relaxing vaccine requirements. The new administration's health policy appointments and rhetoric around vaccine mandates could further legitimize hesitancy, creating conditions for larger outbreaks by late 2026.
 
-The bear case relies on the difficulty of sustaining widespread transmission in a country where 90%+ of adults have measles immunity through vaccination or prior infection. Even with pockets of low vaccination, measles outbreaks historically remain geographically contained due to aggressive ring vaccination and quarantine efforts by state health departments operating independently of federal politics. The 2019 outbreak peaked at 1,274 cases despite concentrated transmission in New York's Orthodox Jewish communities, demonstrating the resilience of local containment. Most pediatricians continue recommending MMR vaccines regardless of federal messaging, and many school districts maintain their own vaccination requirements that would be difficult to overturn quickly.
+The bear case recognizes that even with declining coverage, reaching 7,500 cases requires multiple simultaneous outbreaks of unprecedented scale. The 2019 outbreak, the worst in decades, stayed well below this threshold. Measles remains rare enough that individual cases trigger aggressive contact tracing and containment by local health departments. Most adults retain immunity from childhood vaccination, limiting transmission vectors. Additionally, the shock of any substantial outbreak tends to reverse local hesitancy temporarily—New York's 2018-2019 outbreak prompted emergency orders tightening exemptions that successfully contained spread.
 
-Key catalysts include state legislative outcomes on vaccine exemptions (most sessions conclude by May 2025), CDC vaccination coverage data releases (typically October annually), and any measles outbreak reports that could either validate concerns or demonstrate effective containment. Traders should monitor the Morbidity and Mortality Weekly Report for case counts, particularly multi-case clusters that suggest sustained community transmission rather than isolated importations. Senate confirmation proceedings for RFK Jr. and subsequent policy signals from HHS regarding vaccine guidance will shape public health infrastructure heading into 2026.
+Traders should monitor CDC's weekly measles case reports, state-level exemption data releases each fall, and legislative activity in states with historically low vaccination rates. The April 2025 annual immunization report from CDC will provide critical baseline data. Any cluster exceeding 100 cases in a single outbreak would significantly shift probabilities upward, as would concrete policy changes reducing school vaccine requirements in populous states like Texas or Florida during their 2025 legislative sessions.
 
 ## Related Markets
 
-- [Will Jesus Christ return before GTA VI?](/odds/will-jesus-christ-return-before-gta-vi) — 48% YES
-- [Will Gavin Newsom win the 2028 Democratic presidential nomination?](/odds/will-gavin-newsom-win-the-2028-democratic-presidential-nomination) — 25% YES
-- [Nothing Ever Happens: MicroStrategy](/odds/nothing-ever-happens-microstrategy) — 85% YES
+- [China x Taiwan military clash before 2027?](/odds/china-x-taiwan-military-clash-before-2027) — 16% YES
+- [Will Iran close the Strait of Hormuz before 2027?](/odds/will-iran-close-the-strait-of-hormuz-before-2027) — 85% YES
+- [Will another country strike Iran by March 31?](/odds/will-another-country-strike-iran-by-march-31) — 56% YES
 
 ## Frequently Asked Questions
 
-### What measles case count has the U.S. experienced in recent years for comparison?
+### What was the highest number of measles cases recorded in the U.S. in recent years?
 
-The U.S. has recorded between 13 and 1,274 cases annually from 2020-2023, with the 2019 outbreak of 1,274 cases representing the highest count in decades. The 7,500 threshold would require roughly a 6x increase over that peak year.
+The 2019 outbreak reached 1,274 confirmed cases, the highest since 1992. This remains far below the 7,500 threshold, requiring roughly six times that outbreak's magnitude.
 
-### How quickly can measles outbreaks escalate once they begin?
+### Which states pose the greatest risk for large measles outbreaks before 2026?
 
-Measles is extraordinarily contagious (R0 of 12-18), meaning one infected person typically infects 12-18 others in unvaccinated populations, allowing case counts to double every 10-14 days in susceptible communities without intervention.
+Idaho, Alaska, Arizona, and Wisconsin have vaccine exemption rates above 10%, creating vulnerable clusters. However, highly populated states like Texas and Florida with moderate exemption rates could contribute more cases in absolute terms if outbreaks occur.
 
-### Would state-level vaccination requirements remain intact regardless of federal policy changes?
+### How quickly can measles spread once introduced to an undervaccinated community?
 
-Yes, school vaccination mandates are set by state legislatures and enforced by local school districts, meaning federal HHS policy changes wouldn't automatically override existing state requirements, though federal messaging could influence state-level legislative efforts.
+Measles has an R0 of 12-18, making it extremely contagious—one infected person can infect 12-18 others in a susceptible population. However, modern surveillance and ring vaccination typically contain outbreaks within 3-6 months.
 
 ## Learn More
 
-- [Will Ethereum Reach $4,500 in 2026? What Prediction Markets Say](/blog/will-ethereum-reach-4500-in-2026-what-prediction-markets-say)
+- [Will ETH Hit $4,500 in 2026? Live Market Odds](/blog/will-ethereum-reach-4500-in-2026-what-prediction-markets-say)
 - [Will Discord IPO in 2026? What Prediction Markets Say](/blog/will-discord-ipo-in-2026-what-prediction-markets-say)
 

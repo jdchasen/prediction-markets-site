@@ -1,17 +1,16 @@
 ---
 title: "Will the Fed decrease interest rates by 25 bps after the April 2026 meeting?"
-description: "Will the Fed decrease interest rates by 25 bps after the April 2026 meeting? Odds: 10.5% YES on Polymarket. See live prices and trade this market."
+description: "Will the Fed decrease interest rates by 25 bps after the April 2026 meeting? Odds: 9.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Fed decrease interest rates by 25 bps after the April 2026 meeting?"
 category: "economics"
 status: "active"
 lastUpdated: 2026-03-04
 expiryDate: 2026-04-29
 tags: ["economics", "federal-reserve", "interest-rates", "polymarket"]
-polymarketYes: 10.5
-polymarketNo: 89.5
-polymarketVolume: 973008
+polymarketYes: 9.5
+polymarketNo: 90.5
+polymarketVolume: 988056
 polymarketUrl: "https://polymarket.com/event/will-the-fed-decrease-interest-rates-by-25-bps-after-the-april-2026-meeting"
-analysisDate: 2026-03-04
 ---
 
 The market assigns only a 10% probability to a Fed rate cut in April 2026, reflecting expectations that monetary policy will remain stable or potentially tight that far into the future, making this a contrarian bet on either economic deterioration or inflation victory by mid-2026.

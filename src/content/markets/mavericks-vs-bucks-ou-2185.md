@@ -1,17 +1,16 @@
 ---
 title: "Mavericks vs. Bucks: O/U 218.5"
-description: "Mavericks vs. Bucks: O/U 218.5 Odds: 59.0% YES on Polymarket. See live prices and trade this market."
+description: "Mavericks vs. Bucks: O/U 218.5 Odds: 58.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Mavericks vs. Bucks: O/U 218.5"
 category: "sports"
 status: "active"
 lastUpdated: 2026-03-04
 expiryDate: 2026-03-31
 tags: ["polymarket", "sports"]
-polymarketYes: 59.0
-polymarketNo: 41.0
+polymarketYes: 58.8
+polymarketNo: 41.2
 polymarketVolume: 98148
 polymarketUrl: "https://polymarket.com/event/nba-dal-mil-2026-01-25-total-218pt5"
-analysisDate: 2026-03-04
 ---
 
 The market pricing the Mavericks-Bucks total at over 218.5 points sits near 59% YES, reflecting moderate confidence in a high-scoring affair between two offenses that rank in the top third of the league. This matters because both teams employ pace-heavy systems with elite offensive talent, making total points markets particularly volatile based on defensive availability and recent form.

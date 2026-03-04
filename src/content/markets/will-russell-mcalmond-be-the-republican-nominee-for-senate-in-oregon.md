@@ -1,17 +1,16 @@
 ---
 title: "Will Russell McAlmond be the Republican nominee for Senate in Oregon?"
-description: "Will Russell McAlmond be the Republican nominee for Senate in Oregon? Odds: 13.6% YES on Polymarket. See live prices and trade this market."
+description: "Will Russell McAlmond be the Republican nominee for Senate in Oregon? Odds: 14.3% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Russell McAlmond be the Republican nominee for Senate in Oregon?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-03-04
 expiryDate: 2026-05-19
 tags: ["politics", "polymarket"]
-polymarketYes: 13.6
-polymarketNo: 86.4
-polymarketVolume: 9716
+polymarketYes: 14.3
+polymarketNo: 85.7
+polymarketVolume: 9850
 polymarketUrl: "https://polymarket.com/event/will-russell-mcalmond-be-the-republican-nominee-for-senate-in-oregon"
-analysisDate: 2026-03-04
 ---
 
 # Russell McAlmond Republican Senate Nomination Analysis

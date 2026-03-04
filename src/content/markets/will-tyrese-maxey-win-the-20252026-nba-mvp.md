@@ -9,9 +9,8 @@ expiryDate: 2026-06-10
 tags: ["polymarket", "sports"]
 polymarketYes: 0.3
 polymarketNo: 99.7
-polymarketVolume: 978548
+polymarketVolume: 981026
 polymarketUrl: "https://polymarket.com/event/will-tyrese-maxey-win-the-20252026-nba-mvp"
-analysisDate: 2026-03-04
 ---
 
 The market prices Tyrese Maxey as an extreme long shot for the 2025-2026 MVP award at 0.3% probability, reflecting his current status as a rising second-tier All-Star rather than a superstar candidate in a league dominated by established names like Nikola Jokic, Luka Dončić, and Shai Gilgeous-Alexander.

@@ -9,9 +9,8 @@ expiryDate: 2026-05-27
 tags: ["politics", "polymarket"]
 polymarketYes: 98.5
 polymarketNo: 1.5
-polymarketVolume: 9761
+polymarketVolume: 9910
 polymarketUrl: "https://polymarket.com/event/will-arsenal-finish-in-the-top-4-of-the-epl-202526-standings"
-analysisDate: 2026-03-04
 ---
 
 # Arsenal Top 4 EPL Finish 2025-26 Analysis

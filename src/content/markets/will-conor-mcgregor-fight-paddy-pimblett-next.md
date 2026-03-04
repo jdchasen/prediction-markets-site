@@ -3,7 +3,7 @@ title: "Will Conor McGregor fight Paddy Pimblett next?"
 description: "Will Conor McGregor fight Paddy Pimblett next? Odds: 16.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Conor McGregor fight Paddy Pimblett next?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-04
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]

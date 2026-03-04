@@ -3,7 +3,7 @@ title: "Will Juan Carlos Medrano win the 2026 Santa Cruz gubernatorial election?
 description: "Will Juan Carlos Medrano win the 2026 Santa Cruz gubernatorial election? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Juan Carlos Medrano win the 2026 Santa Cruz gubernatorial election?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-04
 expiryDate: 2026-03-22
 tags: ["elections", "politics", "polymarket"]

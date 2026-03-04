@@ -9,9 +9,8 @@ expiryDate: 2026-07-01
 tags: ["crypto", "polymarket"]
 polymarketYes: 15.0
 polymarketNo: 85.0
-polymarketVolume: 982264
+polymarketVolume: 982570
 polymarketUrl: "https://polymarket.com/event/will-metamask-launch-a-token-by-june-30"
-analysisDate: 2026-03-04
 ---
 
 MetaMask faces just 15% odds of launching a native token by mid-2025, reflecting widespread skepticism that Consensys will pivot from its longstanding "no token" stance despite mounting competitive pressure from token-equipped wallet rivals like Phantom and Rabby.

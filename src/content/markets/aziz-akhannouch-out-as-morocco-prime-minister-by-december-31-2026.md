@@ -3,7 +3,7 @@ title: "Aziz Akhannouch out as Morocco Prime Minister by December 31, 2026?"
 description: "Aziz Akhannouch out as Morocco Prime Minister by December 31, 2026? Odds: 63.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Aziz Akhannouch out as Morocco Prime Minister by December 31, 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-04
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]

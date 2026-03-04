@@ -3,7 +3,7 @@ title: "Will Khalil Mobasher Kashani be the next Supreme Leader of Iran?"
 description: "Will Khalil Mobasher Kashani be the next Supreme Leader of Iran? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Khalil Mobasher Kashani be the next Supreme Leader of Iran?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-04
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]

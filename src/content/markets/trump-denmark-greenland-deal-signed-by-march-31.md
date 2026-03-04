@@ -1,17 +1,16 @@
 ---
 title: "Trump-Denmark Greenland deal signed by March 31?"
-description: "Trump-Denmark Greenland deal signed by March 31? Odds: 2.5% YES on Polymarket. See live prices and trade this market."
+description: "Trump-Denmark Greenland deal signed by March 31? Odds: 2.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Trump-Denmark Greenland deal signed by March 31?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-03-04
 expiryDate: 2026-03-31
 tags: ["politics", "polymarket", "trump"]
-polymarketYes: 2.5
-polymarketNo: 97.5
-polymarketVolume: 973999
+polymarketYes: 2.7
+polymarketNo: 97.3
+polymarketVolume: 978572
 polymarketUrl: "https://polymarket.com/event/trump-x-greenland-deal-signed-by-march-31"
-analysisDate: 2026-03-04
 ---
 
 Traders are pricing in only a 2.5% chance that Donald Trump will secure a signed agreement with Denmark to acquire Greenland by March 31, 2026, reflecting deep skepticism about one of his most controversial foreign policy ambitions despite his renewed interest in the territory since returning to office.

@@ -3,7 +3,7 @@ title: "Will Jensen Huang be richest person on March 31?"
 description: "Will Jensen Huang be richest person on March 31? Odds: 0.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Jensen Huang be richest person on March 31?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-04
 expiryDate: 2026-03-31
 tags: ["politics", "polymarket"]

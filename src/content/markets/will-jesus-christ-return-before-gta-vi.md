@@ -3,7 +3,7 @@ title: "Will Jesus Christ return before GTA VI?"
 description: "Will Jesus Christ return before GTA VI? Odds: 48.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Jesus Christ return before GTA VI?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-04
 expiryDate: 2026-07-31
 tags: ["politics", "polymarket"]

@@ -9,9 +9,8 @@ expiryDate: 2026-06-02
 tags: ["politics", "polymarket"]
 polymarketYes: 0.2
 polymarketNo: 99.8
-polymarketVolume: 9776
+polymarketVolume: 9796
 polymarketUrl: "https://polymarket.com/event/will-jingchao-xiong-receive-the-most-votes-in-the-ca-11-primary"
-analysisDate: 2026-03-04
 ---
 
 # CA-11 Primary: Jingchao Xiong's Long-Shot Odds

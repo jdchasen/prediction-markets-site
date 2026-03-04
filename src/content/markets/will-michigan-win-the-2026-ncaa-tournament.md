@@ -9,9 +9,8 @@ expiryDate: 2026-04-04
 tags: ["politics", "polymarket"]
 polymarketYes: 17.5
 polymarketNo: 82.5
-polymarketVolume: 99066
+polymarketVolume: 99342
 polymarketUrl: "https://polymarket.com/event/will-michigan-win-the-2026-ncaa-tournament"
-analysisDate: 2026-03-04
 ---
 
 The Michigan Wolverines are trading at roughly one-in-six odds to cut down the nets in April 2026, a position that reflects both their program's recent championship pedigree and the inherent unpredictability of March Madness. This market appears miscategorized as politics when it's purely a college basketball futures bet, but the positioning makes sense given Michigan's 2023 Elite Eight run and strong Big Ten presence, though 17.5% represents a significant premium over most individual teams in a 68-team field where historical favorites typically trade between 5-15% preseason.

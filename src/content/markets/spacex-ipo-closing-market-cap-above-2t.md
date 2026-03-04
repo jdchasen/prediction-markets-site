@@ -1,17 +1,16 @@
 ---
 title: "SpaceX IPO closing market cap above $2T?"
-description: "SpaceX IPO closing market cap above $2T? Odds: 59.0% YES on Polymarket. See live prices and trade this market."
+description: "SpaceX IPO closing market cap above $2T? Odds: 55.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "SpaceX IPO closing market cap above $2T?"
 category: "finance"
 status: "active"
 lastUpdated: 2026-03-04
 expiryDate: 2027-12-31
 tags: ["finance", "polymarket"]
-polymarketYes: 59.0
-polymarketNo: 41.0
-polymarketVolume: 98632
+polymarketYes: 55.0
+polymarketNo: 45.0
+polymarketVolume: 99088
 polymarketUrl: "https://polymarket.com/event/spacex-ipo-closing-market-cap-above-2t-574"
-analysisDate: 2026-03-04
 ---
 
 Traders are pricing SpaceX's potential IPO valuation at nearly 60% odds to exceed $2 trillion by end of 2027, a threshold that would place it among the world's most valuable companies and significantly above current private market valuations estimated around $180-200 billion. This matters because SpaceX remains the largest privately-held company in the U.S., and any public offering would represent one of the most significant market debuts in history.

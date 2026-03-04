@@ -1,17 +1,16 @@
 ---
 title: "Will Nathan MacKinnon win the 2025–2026 NHL Art Ross Trophy?"
-description: "Will Nathan MacKinnon win the 2025–2026 NHL Art Ross Trophy? Odds: 18.0% YES on Polymarket. See live prices and trade this market."
+description: "Will Nathan MacKinnon win the 2025–2026 NHL Art Ross Trophy? Odds: 19.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Nathan MacKinnon win the 2025–2026 NHL Art Ross Trophy?"
 category: "sports"
 status: "active"
 lastUpdated: 2026-03-04
 expiryDate: 2026-04-20
 tags: ["polymarket", "sports"]
-polymarketYes: 18.0
-polymarketNo: 82.0
-polymarketVolume: 9724
+polymarketYes: 19.5
+polymarketNo: 80.5
+polymarketVolume: 9770
 polymarketUrl: "https://polymarket.com/event/nhl-2025-26-art-ross-trophy-nathan-mackinnon-winner"
-analysisDate: 2026-03-04
 ---
 
 At 18% implied probability, the market is pricing MacKinnon as a tier-two contender for the scoring title, behind consensus favorites like Connor McDavid and Auston Matthews, reflecting legitimate concerns about his ability to maintain the elite offensive pace required to win the Art Ross in a season where Colorado's depth and play-driving circumstances may limit his shot volume. This valuation matters now because MacKinnon's preseason form and Colorado's roster construction will largely determine whether he can sustain a 130+ point pace through April 2026.
