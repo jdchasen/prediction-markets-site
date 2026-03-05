@@ -16,3 +16,16 @@ jobs:
     steps:
       - name: Trigger Cloudflare Pages deploy hook
         run: curl -X POST "${{ secrets.CF_DEPLOY_HOOK_URL }}"
+
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Submit new URLs to IndexNow
+        run: python scripts/submit_indexnow.py

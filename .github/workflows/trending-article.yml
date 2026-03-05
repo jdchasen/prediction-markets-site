@@ -30,13 +30,20 @@ jobs:
         run: python scripts/trending_article.py
 
       - name: Commit and push if new article
+        id: commit
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add src/content/blog/*.md
           if git diff --cached --quiet; then
             echo "No new trending article to commit"
+            echo "pushed=false" >> "$GITHUB_OUTPUT"
           else
             git commit -m "Add trending market article for $(date -u +%Y-%m-%d)"
             git push
+            echo "pushed=true" >> "$GITHUB_OUTPUT"
           fi
+
+      - name: Submit new URLs to IndexNow
+        if: steps.commit.outputs.pushed == 'true'
+        run: python scripts/submit_indexnow.py
