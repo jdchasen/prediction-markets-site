@@ -3,8 +3,8 @@ title: "BNP Paribas Open: Joao Fonseca vs Raphael Collignon"
 description: "BNP Paribas Open: Joao Fonseca vs Raphael Collignon Odds: 54.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "BNP Paribas Open: Joao Fonseca vs Raphael Collignon"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-04
+status: "settled"
+lastUpdated: 2026-03-05
 expiryDate: 2026-03-11
 tags: ["politics", "polymarket"]
 polymarketYes: 54.5

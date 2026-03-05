@@ -3,8 +3,8 @@ title: "Will Real Madrid finish in the top 4 of the La Liga 2025–26 standings?
 description: "Will Real Madrid finish in the top 4 of the La Liga 2025–26 standings? Odds: 98.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Real Madrid finish in the top 4 of the La Liga 2025–26 standings?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-04
+status: "settled"
+lastUpdated: 2026-03-05
 expiryDate: 2026-05-30
 tags: ["politics", "polymarket"]
 polymarketYes: 98.4

@@ -1,17 +1,16 @@
 ---
 title: "Clavicular charged again by June 30?"
-description: "Clavicular charged again by June 30? Odds: 21.5% YES on Polymarket. See live prices and trade this market."
+description: "Clavicular charged again by June 30? Odds: 20.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Clavicular charged again by June 30?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-03-04
+lastUpdated: 2026-03-05
 expiryDate: 2026-06-30
 tags: ["ai", "politics", "polymarket"]
-polymarketYes: 21.5
-polymarketNo: 78.5
+polymarketYes: 20.0
+polymarketNo: 80.0
 polymarketVolume: 9868
 polymarketUrl: "https://polymarket.com/event/clavicular-charged-again-by-june-30"
-analysisDate: 2026-03-04
 ---
 
 I appreciate your request, but I need to flag a significant issue: "Clavicular charged again" doesn't appear to be a recognized political figure or event in current U.S. or international politics. This may be a misspelling, a fictional scenario, or a reference I'm unable to identify. Without clarity on what "charged" refers to (criminal charges, political candidacy, etc.) or who the subject is, I cannot provide accurate analysis of market dynamics, relevant catalysts, or betting factors.

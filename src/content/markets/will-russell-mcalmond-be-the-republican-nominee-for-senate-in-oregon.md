@@ -1,51 +1,56 @@
 ---
 title: "Will Russell McAlmond be the Republican nominee for Senate in Oregon?"
-description: "Will Russell McAlmond be the Republican nominee for Senate in Oregon? Odds: 14.3% YES on Polymarket. See live prices and trade this market."
+description: "Will Russell McAlmond be the Republican nominee for Senate in Oregon? Odds: 14.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Russell McAlmond be the Republican nominee for Senate in Oregon?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-03-04
+lastUpdated: 2026-03-05
 expiryDate: 2026-05-19
 tags: ["politics", "polymarket"]
-polymarketYes: 14.3
-polymarketNo: 85.7
+polymarketYes: 14.7
+polymarketNo: 85.3
 polymarketVolume: 9850
 polymarketUrl: "https://polymarket.com/event/will-russell-mcalmond-be-the-republican-nominee-for-senate-in-oregon"
+analysisDate: 2026-03-05
 ---
 
-# Russell McAlmond Republican Senate Nomination Analysis
+# Russell McAlmond Republican Nomination Analysis
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 13.6% | 86.4% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 14.7% | 85.3% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-At 13.6% implied probability, markets are pricing McAlmond as a meaningful but distinctly secondary candidate in Oregon's 2026 Republican Senate primary, suggesting significant structural headwinds against his nomination despite having time to build support. This race matters because Oregon is a perennial swing state where the Republican nominee's profile directly influences general-election viability, and McAlmond's odds reflect either establishment skepticism or limited name recognition relative to other potential candidates. The market is essentially saying there's roughly a one-in-seven chance he emerges from what could be a fragmented primary field, leaving substantial room for movement if dynamics shift.
+The market currently prices McAlmond at roughly 15% to win the GOP Senate nomination in Oregon, suggesting traders view him as a credible but unlikely contender in what will likely be a multi-candidate primary fight. This matters now because Oregon's Republican primary electorate is still consolidating around candidates, and early momentum or endorsements over the next 18 months could significantly shift these odds before the May 2026 primary election. McAlmond's path to nomination depends heavily on whether establishment Republican backing coalesces around him or fragments among multiple candidates.
 
-The bull case for McAlmond rests on potential advantages in a crowded field: if establishment-backed candidates split moderate votes and he consolidates grassroots or Trump-aligned support, primary arithmetic could favor him in a plurality-wins scenario. Oregon's Republican base has shown responsiveness to populist messaging in recent cycles, and if major competitors don't materialize or falter before the May 2026 primary date, a motivated candidate with adequate funding could advance. Additionally, if the eventual Democratic nominee becomes deeply unpopular or if McAlmond gains traction on specific issues resonating with primary voters, late momentum could substantially improve his odds. The current 13.6% reflects skepticism rather than impossibility.
+The bull case for McAlmond rests on Oregon Republicans' recent trend toward nominating more ideologically hardline candidates (Jeff Merkley faces re-election, and the seat leans Democratic, potentially attracting ambitious primary challengers). If McAlmond has demonstrated grassroots organization, notable donor support, or strong performance among the state's conservative base in early 2025, he could consolidate support as other candidates drop out. Additionally, if the Republican primary becomes crowded with 4+ candidates, a disciplined campaign could win with a 25-30% plurality, making 15% odds appear underpriced. The Republican National Committee's involvement in candidate recruitment and any endorsements from Oregon GOP leadership would be critical catalysts to watch through 2025-2026.
 
-The bear case is substantially more compelling: Oregon's Republican Party tends to coalesce around establishment-preferred nominees with higher name recognition, and McAlmond appears to lack that institutional backing. Likely stronger competitors with proven fundraising networks, prior electoral experience, or broader appeal would fragment his support, and a dominant frontrunner could secure nomination well before May 2026. Without evidence of McAlmond building a sophisticated campaign apparatus or demonstrating polling strength, his candidacy appears speculative. The 86% implied probability assigned to "NOT McAlmond" suggests the market views other candidates as more credible vehicles for the Republican nomination.
+The bear case is considerably stronger given that 85% odds against McAlmond reflects real structural headwinds. Oregon has trended Democratic statewide, meaning the nominee will likely be selected by a conservative primary electorate that may prefer an outsider or higher-profile challenger. If well-funded, establishment-backed candidates enter the race—particularly if current officeholders or nationally-known figures jump in—McAlmond's name recognition disadvantage becomes severe. The state's primary deadline typically falls in late March or early April 2026, providing roughly 18 months for better-funded alternatives to emerge and dominate early advertising and polling. Any McAlmond stumbles, fundraising shortfalls, or revelations about his record would rapidly erode his position.
 
-Watch for three concrete catalysts: candidate announcement timelines throughout 2024-2025 (which will determine field size and McAlmond's relative positioning), any polling data released by Oregon Republican organizations showing his name recognition and favorability versus competitors, and fundraising disclosures demonstrating whether McAlmond can attract serious financial backing. The May 2026 primary date provides nearly two years for circumstances to shift, but the current 13.6% odds primarily reflect that superior alternatives are likely to emerge. Traders should monitor whether major establishment candidates enter the race, as each additional competitor could theoretically improve McAlmond's chances in a fragmented primary, though current pricing suggests the market expects consolidation around stronger candidates instead.
+Key catalysts traders should monitor include: Oregon Republican Party convention activities and endorsements in spring-summer 2025, McAlmond's Q1 2025 FEC filings showing fundraising capacity, entry or exit of other major Republican candidates, early polling releases in Q4 2024 or Q1 2025, and any media coverage establishing him as a frontrunner or exposing vulnerabilities. The primary election on May 20, 2026, is the hard deadline, but meaningful probability shifts will likely occur 6-12 months earlier as the field consolidates.
 
 ## Related Markets
 
-- [Will Jesus Christ return before GTA VI?](/odds/will-jesus-christ-return-before-gta-vi) — 48% YES
 - [China x Taiwan military clash before 2027?](/odds/china-x-taiwan-military-clash-before-2027) — 16% YES
-- [Trump-Denmark Greenland deal signed by March 31?](/odds/trump-denmark-greenland-deal-signed-by-march-31) — 2% YES
+- [Will Iran close the Strait of Hormuz by June 30?](/odds/will-iran-close-the-strait-of-hormuz-by-june-30) — 83% YES
+- [Will Michigan win the 2026 NCAA Tournament?](/odds/will-michigan-win-the-2026-ncaa-tournament) — 18% YES
 
 ## Frequently Asked Questions
 
-### Who are the likely primary competitors McAlmond would face, and why does that matter for his odds?
+### What does McAlmond's current 15% odds tell us about how many serious Republican primary candidates are likely to run?
 
-While specific competitors haven't fully emerged, Oregon Republicans typically coalesce around candidates with prior statewide experience, significant fundraising capacity, or explicit party backing—categories where McAlmond currently shows no clear advantage. A fragmented field helps McAlmond's chances, but the market's 13.6% pricing implies the field will likely consolidate around 2-3 stronger alternatives rather than remain splintered.
+At 15% odds, the market is implicitly pricing in a competitive field of at least 3-4 viable candidates, since winning a crowded primary with 25-30% support would favor McAlmond's chances significantly if he's well-positioned. If only 2 serious candidates emerge, his odds should trade considerably higher.
 
-### What would cause a significant repricing upward for McAlmond?
+### How would a 2024 Republican Party endorsement or early polling showing McAlmond in second place change this market?
 
-Major primary competitors withdrawing from the race, McAlmond demonstrating unexpectedly strong grassroots fundraising or polling performance, or a significant shift in Oregon Republican primary voter preferences toward his specific profile (populist, grassroots-oriented, etc.) would all move odds meaningfully higher; currently these seem unlikely enough to keep him at roughly 14%.
+Either development would likely drive McAlmond's odds to 25-35% range immediately, as it would signal credible viability and reduce uncertainty about whether more established figures will challenge him. Early polling momentum is especially valuable in nominating contests.
+
+### Is McAlmond's 15% odds pricing in the assumption that Merkley will definitely retire?
+
+Yes—the market assumes an open seat primary for the 2026
 
 ## Learn More
 

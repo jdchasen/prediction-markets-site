@@ -3,8 +3,8 @@ title: "Will Nathan MacKinnon win the 2025–2026 NHL Art Ross Trophy?"
 description: "Will Nathan MacKinnon win the 2025–2026 NHL Art Ross Trophy? Odds: 19.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Nathan MacKinnon win the 2025–2026 NHL Art Ross Trophy?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-03-04
+status: "settled"
+lastUpdated: 2026-03-05
 expiryDate: 2026-04-20
 tags: ["polymarket", "sports"]
 polymarketYes: 19.5

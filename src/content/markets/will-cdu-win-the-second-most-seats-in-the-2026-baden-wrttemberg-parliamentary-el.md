@@ -3,8 +3,8 @@ title: "Will CDU win the second most seats in the 2026 Baden-Württemberg parlia
 description: "Will CDU win the second most seats in the 2026 Baden-Württemberg parliamentary elections? Odds: 17.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will CDU win the second most seats in the 2026 Baden-Württemberg parliamentary elections?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-04
+status: "settled"
+lastUpdated: 2026-03-05
 expiryDate: 2026-03-08
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 17.9

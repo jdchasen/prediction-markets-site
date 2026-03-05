@@ -3,8 +3,8 @@ title: "Will the Los Angeles Rams win the 2027 NFL league championship?"
 description: "Will the Los Angeles Rams win the 2027 NFL league championship? Odds: 8.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Los Angeles Rams win the 2027 NFL league championship?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-03-04
+status: "settled"
+lastUpdated: 2026-03-05
 expiryDate: 2027-03-31
 tags: ["polymarket", "sports"]
 polymarketYes: 8.5

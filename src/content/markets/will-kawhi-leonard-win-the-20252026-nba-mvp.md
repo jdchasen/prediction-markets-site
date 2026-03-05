@@ -4,14 +4,13 @@ description: "Will Kawhi Leonard win the 2025–2026 NBA MVP? Odds: 0.1% YES on 
 marketQuestion: "Will Kawhi Leonard win the 2025–2026 NBA MVP?"
 category: "sports"
 status: "active"
-lastUpdated: 2026-03-04
+lastUpdated: 2026-03-05
 expiryDate: 2026-06-10
 tags: ["polymarket", "sports"]
 polymarketYes: 0.1
 polymarketNo: 99.9
 polymarketVolume: 995329
 polymarketUrl: "https://polymarket.com/event/will-kawhi-leonard-win-the-20252026-nba-mvp"
-analysisDate: 2026-03-04
 ---
 
 The market has essentially priced Kawhi Leonard out of MVP contention for 2025-26 at 0.1%, reflecting both his age (he'll be 34-35 during that season) and his troubling injury history that has limited him to just 68 games over the past two seasons. This matters as a barometer for expectations around one of the league's most talented but physically compromised stars.

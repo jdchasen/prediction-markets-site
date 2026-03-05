@@ -1,17 +1,16 @@
 ---
 title: "Will Iran close the Strait of Hormuz by June 30?"
-description: "Will Iran close the Strait of Hormuz by June 30? Odds: 82.8% YES on Polymarket. See live prices and trade this market."
+description: "Will Iran close the Strait of Hormuz by June 30? Odds: 83.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Iran close the Strait of Hormuz by June 30?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-03-04
+lastUpdated: 2026-03-05
 expiryDate: 2026-06-30
 tags: ["ai", "politics", "polymarket"]
-polymarketYes: 82.8
-polymarketNo: 17.2
-polymarketVolume: 976949
+polymarketYes: 83.4
+polymarketNo: 16.7
+polymarketVolume: 984016
 polymarketUrl: "https://polymarket.com/event/will-iran-close-the-strait-of-hormuz-by-june-30"
-analysisDate: 2026-03-04
 ---
 
 Prediction markets show an overwhelming 82.8% probability that Iran will close the Strait of Hormuz by June 30, 2026, reflecting heightened concern about escalating tensions in the Persian Gulf following recent Israeli-Iranian military exchanges and Iran's advancing nuclear program.

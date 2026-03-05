@@ -4,14 +4,13 @@ description: "Will Vinicius Junior be the top goal scorer in the 2025–26 La Li
 marketQuestion: "Will Vinicius Junior be the top goal scorer in the 2025–26 La Liga season?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-03-04
+lastUpdated: 2026-03-05
 expiryDate: 2026-05-30
 tags: ["politics", "polymarket"]
 polymarketYes: 0.1
 polymarketNo: 99.9
 polymarketVolume: 9901
 polymarketUrl: "https://polymarket.com/event/will-vinicius-junior-be-the-top-goal-scorer-in-the-202526-la-liga-season"
-analysisDate: 2026-03-04
 ---
 
 # Vinicius Junior La Liga Top Scorer Odds Analysis

@@ -4,14 +4,13 @@ description: "Will Cutting Through Rocks win Best Documentary Feature Film at th
 marketQuestion: "Will Cutting Through Rocks win Best Documentary Feature Film at the 98th Academy Awards?"
 category: "entertainment"
 status: "active"
-lastUpdated: 2026-03-04
+lastUpdated: 2026-03-05
 expiryDate: 2026-03-15
 tags: ["entertainment", "polymarket"]
 polymarketYes: 2.4
 polymarketNo: 97.6
-polymarketVolume: 9960
+polymarketVolume: 9997
 polymarketUrl: "https://polymarket.com/event/will-cutting-through-rocks-win-best-documentary-feature-film-at-the-98th-academy-awards"
-analysisDate: 2026-03-04
 ---
 
 The documentary "Cutting Through Rocks" currently trades as a long-shot contender for Best Documentary Feature at the 2025 Oscars, reflecting skepticism about its ability to break through in an increasingly competitive field where established filmmakers and high-profile subjects typically dominate.

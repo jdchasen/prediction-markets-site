@@ -1,55 +1,54 @@
 ---
 title: "Will Mr. Nobody Against Putin win Best Documentary Feature Film at the 98th Academy Awards?"
-description: "Will Mr. Nobody Against Putin win Best Documentary Feature Film at the 98th Academy Awards? Odds: 19.0% YES on Polymarket. See live prices and trade this mar..."
+description: "Will Mr. Nobody Against Putin win Best Documentary Feature Film at the 98th Academy Awards? Odds: 17.5% YES on Polymarket. See live prices and trade this mar..."
 marketQuestion: "Will Mr. Nobody Against Putin win Best Documentary Feature Film at the 98th Academy Awards?"
 category: "entertainment"
 status: "active"
-lastUpdated: 2026-03-04
+lastUpdated: 2026-03-05
 expiryDate: 2026-03-15
 tags: ["ai", "entertainment", "polymarket"]
-polymarketYes: 19.0
-polymarketNo: 81.0
-polymarketVolume: 9862
+polymarketYes: 17.5
+polymarketNo: 82.5
+polymarketVolume: 9964
 polymarketUrl: "https://polymarket.com/event/will-mr-nobody-against-putin-win-best-documentary-feature-film-at-the-98th-academy-awards"
+analysisDate: 2026-03-05
 ---
 
-# Mr. Nobody Against Putin at the 98th Academy Awards
+The documentary "Mr. Nobody Against Putin" currently trades as a longshot at roughly 1-in-6 odds to win Best Documentary Feature at the 2025 Oscars, reflecting its status as a politically charged entry in a crowded field without established festival buzz or distributor momentum.
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 18.0% | 82.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 17.5% | 82.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The market is pricing this documentary as a significant but far-from-favored contender for Best Documentary Feature, reflecting both the film's acclaimed status and the historically competitive nature of this category. This matters now because documentary submissions for the 98th Oscars closed in October 2024, meaning the field is locked and distributors are executing their campaign strategies in the critical months before voting begins.
+The bull case rests on the Academy's demonstrated willingness to reward politically urgent documentaries, particularly those exposing authoritarian regimes—"Navalny" won this category just two years ago in 2023. If the film secures a high-profile streaming platform or theatrical distributor by fall 2025, gains traction at festivals like Telluride (late August) or Toronto (September), and builds critical consensus during the crucial October-December campaign period, it could replicate that success. The ongoing geopolitical relevance of its subject matter provides inherent newsworthiness that documentary branch voters often value. Strong reviews from early 2025 festival screenings would be the first signal of viability.
 
-The bull case rests on several concrete factors: the film has generated substantial international critical acclaim as a Ukrainian documentary addressing Russia's invasion, positioning it as a culturally relevant narrative during peak awards season discourse. Documentary Feature consistently rewards films with strong social impact and geopolitical weight—recent examples include *20 Days in Mariupol* (2023 nominee) and *All the Beauty and the Bloodshed* (2023 winner), both addressing urgent humanitarian crises. The Academy's documentary branch has demonstrated receptiveness to Eastern European perspectives on the conflict. Additionally, if the film secures nomination, it could benefit from sympathy voting and the general unpredictability of this category where non-obvious choices frequently emerge.
+The bear case is more straightforward: there's limited public information about the film's quality, distribution, or festival pedigree as of early 2025. Best Documentary Feature typically goes to films with months of critical acclaim, media coverage, and aggressive awards campaigns—none of which are currently evident here. The category has become increasingly competitive, with major streamers and studios investing heavily in documentary campaigns. Historical patterns show that longshots without significant festival recognition by Sundance (January), Berlin (February), or at minimum Cannes (May) rarely overcome better-positioned contenders. The 2025 shortlist announcement in December and final nominations on January 17, 2026 will progressively eliminate candidates without visible campaigns.
 
-The bear case is more substantial: at 18%, the odds reflect realistic headwinds. The Best Documentary Feature category typically features 5 nominees from 15+ eligible submissions, making the field intensely crowded. Major distributors with significant resources—Netflix, National Geographic, A24—will campaign aggressively for competing titles. Historical precedent shows that documentaries about geopolitical conflicts, while nominated, rarely win unless they combine artistic achievement with narrative accessibility; *Mr. Nobody Against Putin* may struggle against more formally innovative or emotionally immediate competitors. The nomination deadline has passed, meaning the film's campaign strength relative to rivals is already becoming apparent through trade coverage and early critical screenings.
-
-Key catalysts to monitor: the documentary shortlist announcement (typically December), which will reveal how many films made the semifinal round; Golden Globe and BAFTA nominations in early January 2025, which often predict Oscar momentum; and the final Oscar nomination announcement on January 23, 2025. If the film secures a nomination, watch February's Critics' Choice and Directors Guild screenings for updated sentiment. The ceremony itself occurs March 2, 2026, with voting closing approximately one week prior. Any major critical reevaluation or unexpected campaign momentum shifts between now and late February could materially move these odds.
+Key catalysts include any major festival premiere announcements through summer 2025, distribution deals that would signal industry confidence, and the Documentary Branch's 15-film shortlist reveal in mid-December 2025. Traders should monitor trade publications like Variety and The Hollywood Reporter for reviews, track whether the film qualifies through theatrical release or by winning specific documentary festivals, and watch for inclusion in critics' awards starting in November. Without tangible evidence of campaign infrastructure or critical reception by October 2025, these odds likely overestimate its chances.
 
 ## Related Markets
 
-- [Will Sinners win Best Original Screenplay at the 98th Academy Awards?](/odds/will-sinners-win-best-original-screenplay-at-the-98th-academy-awards) — 94% YES
-- [Will Inga Ibsdotter Lilleaas win Best Supporting Actress at the 98th Academy Awards?](/odds/will-inga-ibsdotter-lilleaas-win-best-supporting-actress-at-the-98th-academy-awa) — 2% YES
-- [Will Kylie Jenner attend the Oscars?](/odds/will-kylie-jenner-attend-the-oscars) — 93% YES
+- [Will Sinners win Best Original Screenplay at the 98th Academy Awards?](/odds/will-sinners-win-best-original-screenplay-at-the-98th-academy-awards) — 96% YES
+- [Will Inga Ibsdotter Lilleaas win Best Supporting Actress at the 98th Academy Awards?](/odds/will-inga-ibsdotter-lilleaas-win-best-supporting-actress-at-the-98th-academy-awa) — 1% YES
+- [Will Kylie Jenner attend the Oscars?](/odds/will-kylie-jenner-attend-the-oscars) — 95% YES
 
 ## Frequently Asked Questions
 
-### Has *Mr. Nobody Against Putin* already been nominated for the Oscar, or is this market predicting a nomination and subsequent win?
+### What precedent does "Navalny" set for this film's chances?
 
-The market is predicting the win itself; nomination and win are separate outcomes. The film must first make the final five-nominee slate (announced January 23, 2025) before winning on March 2, 2026.
+"Navalny" won Best Documentary Feature in 2023 with similar anti-Putin themes, but it had secured Sundance's Audience Award, a CNN Films distribution deal, and months of festival buzz—advantages this film hasn't yet demonstrated.
 
-### How does the Academy's historical preference for established filmmakers versus emerging directors affect this film's chances?
+### When does the film need to show momentum to remain viable?
 
-Documentary Feature nominates across experience levels, but recent winners have favored first-time or independent filmmakers telling underrepresented stories, which could favor a Ukrainian production, though the film's specific directorial profile matters significantly.
+The critical window is May through October 2025; films without festival recognition, distribution, and media coverage by the December shortlist announcement historically have no realistic path to nomination.
 
-### What percentage of Best Documentary Feature nominees typically come from conflict or geopolitical narratives, and has the category shown fatigue with Ukraine-related submissions?
+### How does the Academy's documentary branch voting work that affects this market?
 
-Roughly 1-2 of the five nominees typically address active geopolitical conflicts, but the Academy hasn't shown saturation; however, *20 Days in Mariupol* already filled this slot in recent memory, increasing competitive pressure for similar narratives.
+Documentary branch members watch submitted films and vote for the 15-film shortlist (December 2025), then all Academy members vote on the five nominees from that shortlist, meaning the film needs both specialist and broad appeal to win.
 
 ## Learn More
 

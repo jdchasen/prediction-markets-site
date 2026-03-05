@@ -1,17 +1,16 @@
 ---
 title: "Gensyn FDV above $400M one day after launch?"
-description: "Gensyn FDV above $400M one day after launch? Odds: 31.0% YES on Polymarket. See live prices and trade this market."
+description: "Gensyn FDV above $400M one day after launch? Odds: 32.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Gensyn FDV above $400M one day after launch?"
 category: "crypto"
 status: "active"
-lastUpdated: 2026-03-04
+lastUpdated: 2026-03-05
 expiryDate: 2027-01-01
 tags: ["crypto", "polymarket"]
-polymarketYes: 31.0
-polymarketNo: 69.0
+polymarketYes: 32.0
+polymarketNo: 68.0
 polymarketVolume: 98495
 polymarketUrl: "https://polymarket.com/event/gensyn-fdv-above-400m-one-day-after-launch"
-analysisDate: 2026-03-04
 ---
 
 The market pricing Gensyn's fully diluted valuation at nearly one-third probability of exceeding $400M signals moderate optimism for this AI compute marketplace protocol, though significant skepticism remains about whether hype can justify such a valuation at launch.

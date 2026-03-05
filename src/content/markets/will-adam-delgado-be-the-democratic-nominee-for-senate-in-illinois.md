@@ -4,14 +4,13 @@ description: "Will Adam Delgado be the Democratic nominee for Senate in Illinois
 marketQuestion: "Will Adam Delgado be the Democratic nominee for Senate in Illinois?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-03-04
+lastUpdated: 2026-03-05
 expiryDate: 2026-03-17
 tags: ["politics", "polymarket"]
 polymarketYes: 0.1
-polymarketNo: 99.9
+polymarketNo: 100.0
 polymarketVolume: 9967
 polymarketUrl: "https://polymarket.com/event/will-adam-delgado-be-the-democratic-nominee-for-senate-in-illinois"
-analysisDate: 2026-03-04
 ---
 
 # Adam Delgado Democratic Senate Nomination Analysis

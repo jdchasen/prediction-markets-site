@@ -3,8 +3,8 @@ title: "José Luís Rodríguez Zapatero arrested by March 31?"
 description: "José Luís Rodríguez Zapatero arrested by March 31? Odds: 2.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "José Luís Rodríguez Zapatero arrested by March 31?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-04
+status: "settled"
+lastUpdated: 2026-03-05
 expiryDate: 2026-03-31
 tags: ["politics", "polymarket"]
 polymarketYes: 2.2

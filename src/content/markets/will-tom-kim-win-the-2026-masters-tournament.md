@@ -3,8 +3,8 @@ title: "Will Tom Kim win the 2026 Masters tournament?"
 description: "Will Tom Kim win the 2026 Masters tournament? Odds: 0.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Tom Kim win the 2026 Masters tournament?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-03-04
+status: "settled"
+lastUpdated: 2026-03-05
 expiryDate: 2026-04-13
 tags: ["polymarket", "sports"]
 polymarketYes: 0.5

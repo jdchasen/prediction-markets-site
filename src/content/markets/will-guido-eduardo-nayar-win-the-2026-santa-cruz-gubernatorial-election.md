@@ -4,14 +4,13 @@ description: "Will Guido Eduardo Nayar win the 2026 Santa Cruz gubernatorial ele
 marketQuestion: "Will Guido Eduardo Nayar win the 2026 Santa Cruz gubernatorial election?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-03-04
+lastUpdated: 2026-03-05
 expiryDate: 2026-03-22
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.1
 polymarketNo: 99.9
-polymarketVolume: 9899
+polymarketVolume: 9996
 polymarketUrl: "https://polymarket.com/event/will-guido-eduardo-nayar-win-the-2026-santa-cruz-gubernatorial-election-894"
-analysisDate: 2026-03-04
 ---
 
 The prediction market gives Guido Eduardo Nayar virtually no chance of winning the 2026 Santa Cruz gubernatorial election, reflecting either his status as an extreme long-shot candidate or lack of name recognition in what appears to be a Brazilian state race scheduled for October 2026 (though the market closes in March, suggesting it may track primary outcomes or candidate viability).

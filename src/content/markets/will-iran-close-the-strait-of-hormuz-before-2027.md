@@ -3,8 +3,8 @@ title: "Will Iran close the Strait of Hormuz before 2027?"
 description: "Will Iran close the Strait of Hormuz before 2027? Odds: 85.3% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Iran close the Strait of Hormuz before 2027?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-04
+status: "settled"
+lastUpdated: 2026-03-05
 expiryDate: 2026-12-31
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 85.3

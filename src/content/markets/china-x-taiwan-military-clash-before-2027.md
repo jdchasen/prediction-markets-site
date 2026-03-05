@@ -1,17 +1,16 @@
 ---
 title: "China x Taiwan military clash before 2027?"
-description: "China x Taiwan military clash before 2027? Odds: 15.5% YES on Polymarket. See live prices and trade this market."
+description: "China x Taiwan military clash before 2027? Odds: 16.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "China x Taiwan military clash before 2027?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-03-04
+lastUpdated: 2026-03-05
 expiryDate: 2026-12-31
 tags: ["ai", "politics", "polymarket"]
-polymarketYes: 15.5
-polymarketNo: 84.5
-polymarketVolume: 991171
+polymarketYes: 16.5
+polymarketNo: 83.5
+polymarketVolume: 996416
 polymarketUrl: "https://polymarket.com/event/china-x-taiwan-military-clash-before-2027"
-analysisDate: 2026-03-04
 ---
 
 Prediction markets show traders assigning roughly 1-in-6 odds to a military clash between China and Taiwan before 2027, reflecting genuine geopolitical tension but skepticism that the situation will escalate to actual conflict within this timeframe. This matters because such a clash would represent the most significant great power military confrontation since World War II, with immediate implications for global trade, semiconductor supply chains, and the potential for U.S. military involvement under existing commitments.
