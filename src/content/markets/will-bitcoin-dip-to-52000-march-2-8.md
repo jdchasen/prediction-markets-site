@@ -3,7 +3,7 @@ title: "Will Bitcoin dip to $52,000 March 2-8?"
 description: "Will Bitcoin dip to $52,000 March 2-8? Odds: 0.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Bitcoin dip to $52,000 March 2-8?"
 category: "crypto"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-05
 expiryDate: 2026-03-09
 tags: ["bitcoin", "crypto", "polymarket"]

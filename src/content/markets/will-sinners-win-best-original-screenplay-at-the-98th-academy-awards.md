@@ -3,7 +3,7 @@ title: "Will Sinners win Best Original Screenplay at the 98th Academy Awards?"
 description: "Will Sinners win Best Original Screenplay at the 98th Academy Awards? Odds: 95.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Sinners win Best Original Screenplay at the 98th Academy Awards?"
 category: "entertainment"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-05
 expiryDate: 2026-03-15
 tags: ["entertainment", "polymarket"]

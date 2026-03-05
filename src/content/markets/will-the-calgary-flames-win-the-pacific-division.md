@@ -3,7 +3,7 @@ title: "Will the Calgary Flames win the Pacific Division?"
 description: "Will the Calgary Flames win the Pacific Division? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Calgary Flames win the Pacific Division?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-05
 expiryDate: 2026-04-30
 tags: ["politics", "polymarket"]

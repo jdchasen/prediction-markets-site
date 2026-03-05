@@ -3,7 +3,7 @@ title: "Will Cutting Through Rocks win Best Documentary Feature Film at the 98th
 description: "Will Cutting Through Rocks win Best Documentary Feature Film at the 98th Academy Awards? Odds: 2.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Cutting Through Rocks win Best Documentary Feature Film at the 98th Academy Awards?"
 category: "entertainment"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-05
 expiryDate: 2026-03-15
 tags: ["entertainment", "polymarket"]

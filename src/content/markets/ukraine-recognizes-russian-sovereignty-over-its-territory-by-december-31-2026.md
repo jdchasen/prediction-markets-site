@@ -3,7 +3,7 @@ title: "Ukraine recognizes Russian sovereignty over its territory by December 31
 description: "Ukraine recognizes Russian sovereignty over its territory by December 31, 2026? Odds: 14.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Ukraine recognizes Russian sovereignty over its territory by December 31, 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-05
 expiryDate: 2026-12-31
 tags: ["ai", "politics", "polymarket"]

@@ -9,9 +9,8 @@ expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
 polymarketYes: 17.0
 polymarketNo: 83.0
-polymarketVolume: 9817
+polymarketVolume: 9822
 polymarketUrl: "https://polymarket.com/event/will-harvey-weinstein-be-confirmed-to-have-visited-epsteins-island"
-analysisDate: 2026-03-05
 ---
 
 # Harvey Weinstein-Epstein Island Prediction Market Analysis

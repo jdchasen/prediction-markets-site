@@ -3,7 +3,7 @@ title: "Will Adam Delgado be the Democratic nominee for Senate in Illinois?"
 description: "Will Adam Delgado be the Democratic nominee for Senate in Illinois? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Adam Delgado be the Democratic nominee for Senate in Illinois?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-05
 expiryDate: 2026-03-17
 tags: ["politics", "polymarket"]

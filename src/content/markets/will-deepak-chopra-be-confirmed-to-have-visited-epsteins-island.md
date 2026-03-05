@@ -1,17 +1,16 @@
 ---
 title: "Will Deepak Chopra be confirmed to have visited Epstein’s island?"
-description: "Will Deepak Chopra be confirmed to have visited Epstein’s island? Odds: 16.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Deepak Chopra be confirmed to have visited Epstein’s island? Odds: 16.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Deepak Chopra be confirmed to have visited Epstein’s island?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-03-05
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
-polymarketYes: 16.5
-polymarketNo: 83.5
-polymarketVolume: 9822
+polymarketYes: 16.0
+polymarketNo: 84.0
+polymarketVolume: 9856
 polymarketUrl: "https://polymarket.com/event/will-deepak-chopra-be-confirmed-to-have-visited-epsteins-island"
-analysisDate: 2026-03-05
 ---
 
 # Deepak Chopra Epstein Island Prediction Market Analysis

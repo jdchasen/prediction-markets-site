@@ -3,7 +3,7 @@ title: "Will Arsenal finish in the top 4 of the EPL 2025–26 standings?"
 description: "Will Arsenal finish in the top 4 of the EPL 2025–26 standings? Odds: 98.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Arsenal finish in the top 4 of the EPL 2025–26 standings?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-05
 expiryDate: 2026-05-27
 tags: ["politics", "polymarket"]

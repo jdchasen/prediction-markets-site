@@ -3,7 +3,7 @@ title: "Will Crystal Palace finish in last place in the 2025-26 English Premier 
 description: "Will Crystal Palace finish in last place in the 2025-26 English Premier League? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Crystal Palace finish in last place in the 2025-26 English Premier League?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-05
 expiryDate: 2026-05-27
 tags: ["polymarket", "sports"]

@@ -3,7 +3,7 @@ title: "Clavicular charged again by June 30?"
 description: "Clavicular charged again by June 30? Odds: 20.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Clavicular charged again by June 30?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-05
 expiryDate: 2026-06-30
 tags: ["ai", "politics", "polymarket"]

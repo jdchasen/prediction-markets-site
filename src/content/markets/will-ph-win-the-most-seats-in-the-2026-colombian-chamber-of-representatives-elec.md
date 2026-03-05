@@ -3,7 +3,7 @@ title: "Will PH win the most seats in the 2026 Colombian Chamber of Representati
 description: "Will PH win the most seats in the 2026 Colombian Chamber of Representatives election? Odds: 79.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will PH win the most seats in the 2026 Colombian Chamber of Representatives election?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-05
 expiryDate: 2026-03-08
 tags: ["elections", "politics", "polymarket"]

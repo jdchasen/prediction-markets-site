@@ -3,7 +3,7 @@ title: "Will Guido Eduardo Nayar win the 2026 Santa Cruz gubernatorial election?
 description: "Will Guido Eduardo Nayar win the 2026 Santa Cruz gubernatorial election? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Guido Eduardo Nayar win the 2026 Santa Cruz gubernatorial election?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-05
 expiryDate: 2026-03-22
 tags: ["elections", "politics", "polymarket"]

@@ -3,7 +3,7 @@ title: "Will Kawhi Leonard win the 2025–2026 NBA MVP?"
 description: "Will Kawhi Leonard win the 2025–2026 NBA MVP? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Kawhi Leonard win the 2025–2026 NBA MVP?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-05
 expiryDate: 2026-06-10
 tags: ["polymarket", "sports"]

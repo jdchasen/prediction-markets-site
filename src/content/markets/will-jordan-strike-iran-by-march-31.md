@@ -3,7 +3,7 @@ title: "Will Jordan strike Iran by March 31?"
 description: "Will Jordan strike Iran by March 31? Odds: 10.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Jordan strike Iran by March 31?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-05
 tags: ["politics", "polymarket"]
 polymarketYes: 10.5

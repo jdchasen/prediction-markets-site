@@ -3,7 +3,7 @@ title: "Will Michigan win the 2026 NCAA Tournament?"
 description: "Will Michigan win the 2026 NCAA Tournament? Odds: 17.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Michigan win the 2026 NCAA Tournament?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-05
 expiryDate: 2026-04-04
 tags: ["politics", "polymarket"]

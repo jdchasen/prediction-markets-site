@@ -3,7 +3,7 @@ title: "Will Inga Ibsdotter Lilleaas win Best Supporting Actress at the 98th Aca
 description: "Will Inga Ibsdotter Lilleaas win Best Supporting Actress at the 98th Academy Awards? Odds: 1.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Inga Ibsdotter Lilleaas win Best Supporting Actress at the 98th Academy Awards?"
 category: "entertainment"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-05
 expiryDate: 2026-03-15
 tags: ["entertainment", "polymarket"]
