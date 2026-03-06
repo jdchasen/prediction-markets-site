@@ -6,6 +6,9 @@ import BaseLayout from '../layouts/BaseLayout.astro';
   title="Page Not Found"
   description="The page you're looking for doesn't exist."
 >
+  <Fragment slot="head">
+    <meta name="robots" content="noindex" />
+  </Fragment>
   <section class="py-24">
     <div class="mx-auto max-w-2xl px-4 text-center">
       <p class="mb-4 text-6xl font-bold text-brand-600 dark:text-brand-400">404</p>

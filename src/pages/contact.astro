@@ -1,0 +1,70 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+
+<BaseLayout
+  title="Contact Us"
+  description="Get in touch with the Master Prediction Markets team. Questions, feedback, partnerships, and press inquiries welcome."
+>
+  <div class="mx-auto max-w-3xl px-4 py-12">
+    <h1 class="mb-6 text-3xl font-bold text-gray-900 dark:text-white">Contact Us</h1>
+
+    <div class="prose prose-gray dark:prose-invert max-w-none">
+      <p class="text-lg text-gray-600 dark:text-gray-400">
+        We'd love to hear from you. Whether you have a question about prediction markets,
+        feedback on our content, or a partnership inquiry, reach out and we'll get back to you.
+      </p>
+    </div>
+
+    <div class="mt-10 grid grid-cols-1 gap-6 md:grid-cols-2">
+      <div class="rounded-lg border border-gray-200 dark:border-gray-700 bg-white dark:bg-gray-800 p-6">
+        <h2 class="text-lg font-semibold text-gray-900 dark:text-white">General Inquiries</h2>
+        <p class="mt-2 text-sm text-gray-600 dark:text-gray-400">
+          Questions about prediction markets, platform reviews, or our trading tools.
+        </p>
+        <a
+          href="mailto:hello@masterpredictionmarkets.com"
+          class="mt-4 inline-block text-brand-600 dark:text-brand-400 font-medium hover:underline"
+        >
+          hello@masterpredictionmarkets.com
+        </a>
+      </div>
+
+      <div class="rounded-lg border border-gray-200 dark:border-gray-700 bg-white dark:bg-gray-800 p-6">
+        <h2 class="text-lg font-semibold text-gray-900 dark:text-white">Partnerships & Press</h2>
+        <p class="mt-2 text-sm text-gray-600 dark:text-gray-400">
+          Media inquiries, advertising, affiliate partnerships, and collaboration opportunities.
+        </p>
+        <a
+          href="mailto:hello@masterpredictionmarkets.com"
+          class="mt-4 inline-block text-brand-600 dark:text-brand-400 font-medium hover:underline"
+        >
+          hello@masterpredictionmarkets.com
+        </a>
+      </div>
+    </div>
+
+    <div class="mt-10 rounded-lg border border-gray-200 dark:border-gray-700 bg-gray-50 dark:bg-gray-800/50 p-6">
+      <h2 class="text-lg font-semibold text-gray-900 dark:text-white">Frequently Asked</h2>
+      <dl class="mt-4 space-y-4">
+        <div>
+          <dt class="font-medium text-gray-900 dark:text-gray-200">How quickly do you respond?</dt>
+          <dd class="mt-1 text-sm text-gray-600 dark:text-gray-400">We typically reply within 24-48 hours on business days.</dd>
+        </div>
+        <div>
+          <dt class="font-medium text-gray-900 dark:text-gray-200">Do you offer financial advice?</dt>
+          <dd class="mt-1 text-sm text-gray-600 dark:text-gray-400">
+            No. Our content is educational and informational. We share market data, platform reviews, and trading strategies,
+            but nothing on this site constitutes personalized financial advice. See our <a href="/terms" class="text-brand-600 dark:text-brand-400 hover:underline">Terms of Service</a>.
+          </dd>
+        </div>
+        <div>
+          <dt class="font-medium text-gray-900 dark:text-gray-200">Can I contribute an article?</dt>
+          <dd class="mt-1 text-sm text-gray-600 dark:text-gray-400">
+            We're open to guest contributions from experienced prediction market traders. Send us a pitch with your topic and relevant experience.
+          </dd>
+        </div>
+      </dl>
+    </div>
+  </div>
+</BaseLayout>
