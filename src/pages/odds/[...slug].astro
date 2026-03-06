@@ -23,10 +23,10 @@ const KALSHI_REFERRAL = "https://kalshi.com/sign-up/?referral=f2e21ad4-75b7-4ffb
 const POLYMARKET_REFERRAL = "https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup";
 
 const isSettled = market.data.status === 'settled';
-const settledDaysAgo = isSettled && market.data.lastUpdated
-  ? Math.floor((Date.now() - new Date(market.data.lastUpdated).getTime()) / (1000 * 60 * 60 * 24))
-  : 0;
-const noindex = isSettled && settledDaysAgo > 7;
+// Noindex ALL individual odds pages — these are auto-generated thin content
+// that dilutes crawl budget on a new domain with no authority.
+// Keep /odds/ index and /odds/[category] pages indexed (aggregation pages).
+const noindex = true;
 
 const formattedDate = market.data.lastUpdated.toLocaleDateString('en-US', {
   year: 'numeric',

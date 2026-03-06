@@ -10,6 +10,20 @@ export default defineConfig({
     sitemap({
       changefreq: 'daily',
       lastmod: new Date(),
+      filter(page) {
+        // Exclude individual odds pages from sitemap — noindexed thin content.
+        // Keep /odds/ index and /odds/[category] pages.
+        const ODDS_CATEGORIES = ['politics', 'crypto', 'sports', 'finance', 'entertainment', 'economics', 'tech', 'science'];
+        const url = page.replace(/\/$/, '');
+        const oddsBase = 'https://masterpredictionmarkets.com/odds';
+        if (url === oddsBase) return true; // /odds/ index
+        if (url.startsWith(oddsBase + '/')) {
+          const slug = url.slice(oddsBase.length + 1).replace(/\/$/, '');
+          // Keep category pages, exclude individual market pages
+          return ODDS_CATEGORIES.includes(slug);
+        }
+        return true;
+      },
       serialize(item) {
         const pillarSlugs = [
           'what-are-prediction-markets',
@@ -48,9 +62,6 @@ export default defineConfig({
         } else if (item.url.includes('/blog/')) {
           item.priority = 0.7;
           item.changefreq = 'weekly';
-        } else if (item.url.includes('/odds/')) {
-          item.priority = 0.6;
-          item.changefreq = 'daily';
         } else {
           item.priority = 0.5;
         }
