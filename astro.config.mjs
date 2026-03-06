@@ -5,10 +5,6 @@ import sitemap from '@astrojs/sitemap';
 
 export default defineConfig({
   site: 'https://masterpredictionmarkets.com',
-  redirects: {
-    '/blog/will-khamenei-lose-power-market-says-100': '/blog/khamenei-prediction-market-999-odds-explained',
-    '/blog/will-khamenei-lose-power-market-shows-999-odds': '/blog/khamenei-prediction-market-999-odds-explained',
-  },
   integrations: [
     tailwind(),
     sitemap({
