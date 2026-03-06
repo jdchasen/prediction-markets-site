@@ -3,8 +3,8 @@ title: "Will GTA 6 cost $100+?"
 description: "Will GTA 6 cost $100+? Odds: 17.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will GTA 6 cost $100+?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-05
+status: "settled"
+lastUpdated: 2026-03-06
 expiryDate: 2027-02-28
 tags: ["politics", "polymarket"]
 polymarketYes: 17.0

@@ -3,8 +3,8 @@ title: "Will \"Frankenstein\" win exactly 2 awards at the Oscars?"
 description: "Will \"Frankenstein\" win exactly 2 awards at the Oscars? Odds: 12.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will \"Frankenstein\" win exactly 2 awards at the Oscars?"
 category: "entertainment"
-status: "active"
-lastUpdated: 2026-03-05
+status: "settled"
+lastUpdated: 2026-03-06
 expiryDate: 2026-03-15
 tags: ["entertainment", "polymarket"]
 polymarketYes: 12.0

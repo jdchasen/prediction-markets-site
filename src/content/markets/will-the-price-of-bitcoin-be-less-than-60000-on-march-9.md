@@ -3,8 +3,8 @@ title: "Will the price of Bitcoin be less than $60,000 on March 9?"
 description: "Will the price of Bitcoin be less than $60,000 on March 9? Odds: 0.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the price of Bitcoin be less than $60,000 on March 9?"
 category: "crypto"
-status: "active"
-lastUpdated: 2026-03-05
+status: "settled"
+lastUpdated: 2026-03-06
 expiryDate: 2026-03-09
 tags: ["bitcoin", "crypto", "polymarket"]
 polymarketYes: 0.9

@@ -3,8 +3,8 @@ title: "Will Marty Supreme win Best Production Design at the 98th Academy Awards
 description: "Will Marty Supreme win Best Production Design at the 98th Academy Awards? Odds: 1.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Marty Supreme win Best Production Design at the 98th Academy Awards?"
 category: "entertainment"
-status: "active"
-lastUpdated: 2026-03-05
+status: "settled"
+lastUpdated: 2026-03-06
 expiryDate: 2026-03-15
 tags: ["entertainment", "polymarket"]
 polymarketYes: 1.9

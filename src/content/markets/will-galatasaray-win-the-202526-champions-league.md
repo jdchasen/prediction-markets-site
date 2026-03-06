@@ -3,8 +3,8 @@ title: "Will Galatasaray win the 2025–26 Champions League?"
 description: "Will Galatasaray win the 2025–26 Champions League? Odds: 0.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Galatasaray win the 2025–26 Champions League?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-03-05
+status: "settled"
+lastUpdated: 2026-03-06
 expiryDate: 2026-05-31
 tags: ["polymarket", "sports"]
 polymarketYes: 0.8

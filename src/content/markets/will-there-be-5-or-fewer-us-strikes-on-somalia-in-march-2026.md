@@ -3,8 +3,8 @@ title: "Will there be 5 or fewer US strikes on Somalia in March 2026?"
 description: "Will there be 5 or fewer US strikes on Somalia in March 2026? Odds: 10.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will there be 5 or fewer US strikes on Somalia in March 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-05
+status: "settled"
+lastUpdated: 2026-03-06
 expiryDate: 2026-04-04
 tags: ["politics", "polymarket"]
 polymarketYes: 10.5

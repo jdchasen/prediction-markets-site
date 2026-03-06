@@ -3,8 +3,8 @@ title: "Will Kevin Durant win the 2025–2026 NBA MVP?"
 description: "Will Kevin Durant win the 2025–2026 NBA MVP? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Kevin Durant win the 2025–2026 NBA MVP?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-03-05
+status: "settled"
+lastUpdated: 2026-03-06
 expiryDate: 2026-06-10
 tags: ["polymarket", "sports"]
 polymarketYes: 0.1

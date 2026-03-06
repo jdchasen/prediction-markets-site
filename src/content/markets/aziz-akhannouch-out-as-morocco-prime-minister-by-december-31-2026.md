@@ -1,53 +1,54 @@
 ---
 title: "Aziz Akhannouch out as Morocco Prime Minister by December 31, 2026?"
-description: "Aziz Akhannouch out as Morocco Prime Minister by December 31, 2026? Odds: 64.5% YES on Polymarket. See live prices and trade this market."
+description: "Aziz Akhannouch out as Morocco Prime Minister by December 31, 2026? Odds: 63.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Aziz Akhannouch out as Morocco Prime Minister by December 31, 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-03-05
+lastUpdated: 2026-03-06
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 64.5
-polymarketNo: 35.5
-polymarketVolume: 98342
+polymarketYes: 63.8
+polymarketNo: 36.1
+polymarketVolume: 98394
 polymarketUrl: "https://polymarket.com/event/aziz-akhannouch-out-as-morocco-prime-minister-by-december-31-2026"
+analysisDate: 2026-03-06
 ---
 
-Traders are pricing nearly two-thirds probability that Aziz Akhannouch will leave Morocco's premiership within the next two and a half years, reflecting significant skepticism about his political durability amid mounting economic pressures and public discontent. As leader of the National Rally of Independents (RNI) and head of government since his coalition's September 2021 electoral victory, Akhannouch faces headwinds from persistent inflation, cost-of-living concerns, and criticism over his dual role as one of Morocco's wealthiest businessmen while managing economic policy.
+Traders are pricing in nearly two-thirds probability that Aziz Akhannouch will lose his position as Morocco's Prime Minister before 2027, reflecting mounting economic pressures and political headwinds facing his government since the 2021 elections. The coalition government led by his National Rally of Independents (RNI) party faces intensifying scrutiny over inflation, cost of living increases, and public dissatisfaction with economic management.
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 63.0% | 37.0% | $97K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 63.8% | 36.1% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The bull case for his departure centers on deteriorating approval ratings and Morocco's next parliamentary elections likely scheduled for 2026. Recent polling has shown declining satisfaction with the government's handling of inflation and public services, particularly affecting urban populations. If economic conditions worsen or the RNI performs poorly in local elections before 2026, coalition partners—including the Authenticity and Modernity Party and Istiqlal Party—could pressure for leadership changes. The market timeline conveniently ends just after when elections would typically occur, capturing potential political transition. Morocco's constitutional monarchy also gives King Mohammed VI significant influence over government composition, and royal dissatisfaction could precipitate an earlier exit regardless of electoral calendars.
+The bull case for Akhannouch's exit centers on deteriorating economic conditions and eroding public confidence. Morocco has experienced significant inflation spikes, particularly in food prices, which have sparked periodic protests and strikes. The 2026 timeline provides ample opportunity for a parliamentary confidence crisis or coalition fracture, especially if municipal elections scheduled for 2027 approach with poor polling for the RNI. King Mohammed VI maintains constitutional authority to dismiss the Prime Minister, and palace-driven changes have historically occurred when governments lose effectiveness. Additionally, Morocco's next legislative elections must occur by 2026, creating a natural inflection point where coalition partners might abandon Akhannouch to distance themselves from unpopular economic policies.
 
-The bear case argues that Akhannouch's coalition holds a commanding 270 of 395 parliamentary seats, providing substantial stability through the regular electoral cycle. Morocco's political system historically favors continuity, with prime ministers typically serving full terms unless extraordinary circumstances emerge. The RNI's strong party infrastructure and Akhannouch's personal resources give him tools to weather approval slumps. Morocco's successful co-hosting bid for the 2030 World Cup and ongoing infrastructure investments could deliver political wins by 2025-2026, potentially reversing negative sentiment. The coalition's diverse composition also means moderate policy adjustments could satisfy partners without requiring leadership changes.
+The bear case relies on Akhannouch's strong business credentials and the relative stability of Morocco's political system. As one of Morocco's wealthiest businessmen with deep establishment ties, Akhannouch maintains significant political capital and palace connections that could sustain him through turbulence. The RNI-led coalition holds a comfortable parliamentary majority, and Morocco's parties have historically preferred maintaining government stability over triggering crises. The 2026 legislative elections represent the main risk point, but if held late in the year, Akhannouch could technically survive through the December 31 deadline even with poor results, as government formation processes typically extend weeks beyond election day.
 
-Key catalysts include Morocco's 2024-2025 municipal and regional election results, which will signal public sentiment ahead of parliamentary contests. Watch for inflation trends and any IMF assessment updates on Morocco's economic reforms, as fiscal pressures could accelerate political instability. The 2026 parliamentary elections represent the critical inflection point—if held in summer or fall 2026 as typical, results would determine whether Akhannouch continues or a new coalition forms before the December 31 deadline. Any unusual royal intervention or coalition fractures would dramatically shift probabilities earlier in this timeline.
+Key catalysts include Morocco's 2024-2025 budget implementation and its impact on inflation rates, any social unrest requiring security crackdowns, and the timing of the 2026 legislative elections. Traders should monitor coalition cohesion between the RNI, PAM, and Istiqlal parties, watching for defections or public criticism from junior partners. Economic indicators like youth unemployment figures and wheat prices matter significantly given Morocco's import dependence. The palace's positioning becomes critical if protests escalate—any royal speeches criticizing government performance would dramatically shift exit probabilities.
 
 ## Related Markets
 
+- [GTA VI released before June 2026?](/odds/gta-vi-released-before-june-2026) — 3% YES
 - [Will Jesus Christ return before GTA VI?](/odds/will-jesus-christ-return-before-gta-vi) — 48% YES
-- [China x Taiwan military clash before 2027?](/odds/china-x-taiwan-military-clash-before-2027) — 16% YES
-- [Trump-Denmark Greenland deal signed by March 31?](/odds/trump-denmark-greenland-deal-signed-by-march-31) — 2% YES
+- [Trump-Denmark Greenland deal signed by March 31?](/odds/trump-denmark-greenland-deal-signed-by-march-31) — 3% YES
 
 ## Frequently Asked Questions
 
-### Does this market resolve YES if Akhannouch loses the 2026 election but remains PM until a successor is sworn in after December 31?
+### Does this market resolve YES if Akhannouch's party wins the 2026 elections but he's replaced as Prime Minister by another RNI member?
 
-This depends on the exact market resolution criteria, but typically these markets resolve based on who holds the office on the deadline date. If transition procedures extend past December 31, 2026, and Akhannouch remains acting PM, this could resolve NO despite electoral defeat.
+Yes, the market specifically concerns Akhannouch personally leaving the Prime Minister position, regardless of whether his party remains in power. Party leadership changes or the selection of a different coalition leader would trigger resolution.
 
-### Can King Mohammed VI remove Akhannouch without elections, and how would that affect the timeline?
+### Can King Mohammed VI directly remove Akhannouch without a parliamentary process?
 
-Morocco's King appoints the prime minister from the party winning parliamentary elections, but can effectively force resignation through political pressure. A mid-term departure would almost certainly result in YES resolution, though this remains unlikely given Morocco's constitutional framework favoring stability.
+Morocco's constitution grants the King authority to dismiss the Prime Minister through royal decree, though this typically occurs after consultation with political parties. The King can act unilaterally during political crises, making royal sentiment a critical variable independent of parliamentary mathematics.
 
-### What would happen if the RNI wins the 2026 elections but selects a different leader as prime minister?
+### What happens if the 2026 legislative elections occur in early December but coalition negotiations extend past December 31?
 
-This would resolve YES, as the market asks specifically about Akhannouch personally, not his party. Internal RNI leadership changes before or after elections would trigger resolution regardless of the party's electoral performance.
+The market would resolve based on who holds the Prime Minister position on December 31, 2026. If Akhannouch remains PM during coalition talks (as is customary until a new government forms), this would resolve NO even if his departure appears imminent.
 
 ## Learn More
 

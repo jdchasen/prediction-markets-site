@@ -3,8 +3,8 @@ title: "Will Ethereum dip to $1,400 in March?"
 description: "Will Ethereum dip to $1,400 in March? Odds: 11.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Ethereum dip to $1,400 in March?"
 category: "crypto"
-status: "active"
-lastUpdated: 2026-03-05
+status: "settled"
+lastUpdated: 2026-03-06
 expiryDate: 2026-04-01
 tags: ["crypto", "ethereum", "polymarket"]
 polymarketYes: 11.5

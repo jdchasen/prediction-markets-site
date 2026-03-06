@@ -3,8 +3,8 @@ title: "Will Czechia win the 2026 World Baseball Classic?"
 description: "Will Czechia win the 2026 World Baseball Classic? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Czechia win the 2026 World Baseball Classic?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-05
+status: "settled"
+lastUpdated: 2026-03-06
 expiryDate: 2026-03-17
 tags: ["politics", "polymarket"]
 polymarketYes: 0.1
