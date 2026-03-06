@@ -2,6 +2,7 @@
 title: "Prediction Market Arbitrage: Risk-Free Profit Guide"
 description: "Find price gaps between Kalshi and Polymarket, then lock in guaranteed profit. Step-by-step with real examples, fee math, and a free calculator."
 pubDate: 2026-02-24
+updatedDate: 2026-03-05
 category: "strategies"
 tags: ["strategies", "kalshi", "polymarket"]
 affiliate: "kalshi"

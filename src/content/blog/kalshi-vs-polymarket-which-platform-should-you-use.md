@@ -2,6 +2,7 @@
 title: "Kalshi vs Polymarket: One Clear Winner (2026)"
 description: "We trade both platforms daily. Kalshi charges 7% in fees, Polymarket charges zero. But fees aren't the whole story — here's the real verdict."
 pubDate: 2026-02-22
+updatedDate: 2026-03-05
 category: "beginners"
 tags: ["kalshi", "polymarket", "beginners"]
 affiliate: "kalshi"

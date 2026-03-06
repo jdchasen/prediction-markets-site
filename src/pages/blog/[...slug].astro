@@ -92,6 +92,15 @@ const postUrl = new URL(`/blog/${post.id}`, Astro.site).href;
 const isNewsArticle = post.id.startsWith('daily-market-pulse-');
 const ogImage = post.data.heroImage || `/og/${post.id}.png`;
 
+// Noindex stale daily pulse articles — keep only the latest one indexed
+const isDailyPulse = post.id.startsWith('daily-market-pulse-');
+const latestPulseId = isDailyPulse
+  ? allPosts
+      .filter((p) => p.id.startsWith('daily-market-pulse-'))
+      .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())[0]?.id
+  : null;
+const noindex = isDailyPulse && post.id !== latestPulseId;
+
 const breadcrumbSchema = {
   "@context": "https://schema.org",
   "@type": "BreadcrumbList",
@@ -181,6 +190,7 @@ const reviewSchema = post.data.review ? {
   updatedDate={post.data.updatedDate?.toISOString() || post.data.pubDate.toISOString()}
 >
   <Fragment slot="head">
+    {noindex && <meta name="robots" content="noindex" />}
     <script type="application/ld+json" set:html={JSON.stringify(breadcrumbSchema)} />
     {faqSchema && (
       <script type="application/ld+json" set:html={JSON.stringify(faqSchema)} />

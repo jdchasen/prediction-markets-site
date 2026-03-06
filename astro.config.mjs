@@ -5,23 +5,33 @@ import sitemap from '@astrojs/sitemap';
 
 export default defineConfig({
   site: 'https://masterpredictionmarkets.com',
+  redirects: {
+    '/blog/will-khamenei-lose-power-market-says-100': '/blog/khamenei-prediction-market-999-odds-explained',
+    '/blog/will-khamenei-lose-power-market-shows-999-odds': '/blog/khamenei-prediction-market-999-odds-explained',
+  },
   integrations: [
     tailwind(),
     sitemap({
       changefreq: 'daily',
       lastmod: new Date(),
       filter(page) {
-        // Exclude individual odds pages from sitemap — noindexed thin content.
+        const url = page.replace(/\/$/, '');
+
+        // Exclude individual odds pages — noindexed thin content.
         // Keep /odds/ index and /odds/[category] pages.
         const ODDS_CATEGORIES = ['politics', 'crypto', 'sports', 'finance', 'entertainment', 'economics', 'tech', 'science'];
-        const url = page.replace(/\/$/, '');
         const oddsBase = 'https://masterpredictionmarkets.com/odds';
-        if (url === oddsBase) return true; // /odds/ index
+        if (url === oddsBase) return true;
         if (url.startsWith(oddsBase + '/')) {
           const slug = url.slice(oddsBase.length + 1).replace(/\/$/, '');
-          // Keep category pages, exclude individual market pages
           return ODDS_CATEGORIES.includes(slug);
         }
+
+        // Exclude old daily pulse articles — only latest is indexed.
+        if (url.includes('/blog/daily-market-pulse-')) {
+          return false;
+        }
+
         return true;
       },
       serialize(item) {

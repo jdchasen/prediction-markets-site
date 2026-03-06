@@ -2,6 +2,7 @@
 title: "Is Polymarket Legal? US Rules Explained (2026)"
 description: "Polymarket paid a $1.4M CFTC fine and geo-blocks US users. But millions still trade. Here's what's legal, what's risky, and how rules work in 2026."
 pubDate: 2026-02-28
+updatedDate: 2026-03-05
 category: "polymarket"
 tags: ["polymarket", "beginners"]
 affiliate: "polymarket"

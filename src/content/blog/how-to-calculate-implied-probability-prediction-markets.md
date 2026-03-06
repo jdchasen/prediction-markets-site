@@ -2,6 +2,7 @@
 title: "Implied Probability Calculator for Prediction Markets"
 description: "Turn any prediction market price into a real probability. Worked examples for Kalshi and Polymarket with fee adjustments and expected value math."
 pubDate: 2026-02-24
+updatedDate: 2026-03-05
 category: "strategies"
 tags: ["strategies", "probability", "beginners", "kalshi"]
 affiliate: "kalshi"

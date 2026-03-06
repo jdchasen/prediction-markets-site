@@ -1,9 +1,9 @@
 name: Daily Market Pulse Article
 
 on:
-  schedule:
-    # 12:00 UTC = 7:00 AM ET
-    - cron: '0 12 * * *'
+  # schedule:
+  #   # 12:00 UTC = 7:00 AM ET — disabled to reduce AI content volume
+  #   - cron: '0 12 * * *'
   workflow_dispatch: # Allow manual trigger for testing
 
 permissions:

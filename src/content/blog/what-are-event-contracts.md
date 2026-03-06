@@ -2,6 +2,7 @@
 title: "Event Contracts: Trade Any Event for $1"
 description: "Event contracts pay $1 if you're right, $0 if you're wrong. No margin, no Greeks, no surprises. Here's how this new asset class works and where to trade."
 pubDate: 2026-02-22
+updatedDate: 2026-03-05
 category: "beginners"
 tags: ["beginners", "kalshi", "strategies"]
 affiliate: "kalshi"

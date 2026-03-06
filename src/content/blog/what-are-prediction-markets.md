@@ -2,6 +2,7 @@
 title: "What Are Prediction Markets? ($50B and Growing)"
 description: "Prediction markets let you bet on anything — elections, weather, crypto prices. Here's how they work, why they beat polls, and how to start."
 pubDate: 2026-02-22
+updatedDate: 2026-03-05
 category: "beginners"
 tags: ["beginners", "kalshi", "polymarket", "prediction-markets"]
 affiliate: "kalshi"
