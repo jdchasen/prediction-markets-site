@@ -9,9 +9,8 @@ expiryDate: 2026-04-13
 tags: ["polymarket", "sports"]
 polymarketYes: 0.5
 polymarketNo: 99.5
-polymarketVolume: 98425
+polymarketVolume: 98485
 polymarketUrl: "https://polymarket.com/event/will-sahith-theegala-win-the-2026-masters-tournament"
-analysisDate: 2026-03-06
 ---
 
 Sahith Theegala enters the 2026 Masters as a significant longshot at half a percent probability, reflecting his status as a talented player still seeking his first major championship breakthrough despite showing flashes of contention in big tournaments.

@@ -3,7 +3,7 @@ title: "Will Kendrick Lamar have the greatest number of monthly Spotify listener
 description: "Will Kendrick Lamar have the greatest number of monthly Spotify listeners this month? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Kendrick Lamar have the greatest number of monthly Spotify listeners this month?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-06
 expiryDate: 2026-03-31
 tags: ["politics", "polymarket"]

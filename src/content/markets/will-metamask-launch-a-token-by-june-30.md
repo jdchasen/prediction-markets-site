@@ -1,17 +1,16 @@
 ---
 title: "Will MetaMask launch a token by June 30?"
-description: "Will MetaMask launch a token by June 30? Odds: 14.5% YES on Polymarket. See live prices and trade this market."
+description: "Will MetaMask launch a token by June 30? Odds: 12.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will MetaMask launch a token by June 30?"
 category: "crypto"
 status: "active"
 lastUpdated: 2026-03-06
 expiryDate: 2026-07-01
 tags: ["crypto", "polymarket"]
-polymarketYes: 14.5
-polymarketNo: 85.5
-polymarketVolume: 983565
+polymarketYes: 12.5
+polymarketNo: 87.5
+polymarketVolume: 984996
 polymarketUrl: "https://polymarket.com/event/will-metamask-launch-a-token-by-june-30"
-analysisDate: 2026-03-06
 ---
 
 The MetaMask token launch market currently prices just a 14.5% probability of a native token by mid-2026, reflecting widespread skepticism that ConsenSys will reverse its longstanding anti-airdrop stance despite intense community pressure. This matters because MetaMask commands roughly 22 million monthly active users and dominates the wallet space, making any token launch one of the largest potential airdrops in crypto history and a significant signal about whether established Web3 infrastructure players will embrace tokenomics.

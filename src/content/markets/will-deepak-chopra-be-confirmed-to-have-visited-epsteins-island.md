@@ -9,9 +9,8 @@ expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
 polymarketYes: 15.5
 polymarketNo: 84.5
-polymarketVolume: 9856
+polymarketVolume: 9928
 polymarketUrl: "https://polymarket.com/event/will-deepak-chopra-be-confirmed-to-have-visited-epsteins-island"
-analysisDate: 2026-03-06
 ---
 
 # Deepak Chopra Epstein Island Market Analysis

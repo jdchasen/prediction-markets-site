@@ -3,7 +3,7 @@ title: "Will Microsoft be the largest company in the world by market cap on Marc
 description: "Will Microsoft be the largest company in the world by market cap on March 31? Odds: 0.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Microsoft be the largest company in the world by market cap on March 31?"
 category: "finance"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-06
 expiryDate: 2026-03-31
 tags: ["finance", "polymarket"]

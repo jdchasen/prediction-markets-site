@@ -3,7 +3,7 @@ title: "Will MrBeast hit 474 Million subscribers by March 31?"
 description: "Will MrBeast hit 474 Million subscribers by March 31? Odds: 32.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will MrBeast hit 474 Million subscribers by March 31?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-06
 expiryDate: 2026-03-31
 tags: ["politics", "polymarket"]

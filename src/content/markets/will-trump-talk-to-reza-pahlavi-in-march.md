@@ -3,7 +3,7 @@ title: "Will Trump talk to Reza Pahlavi in March?"
 description: "Will Trump talk to Reza Pahlavi in March? Odds: 23.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Trump talk to Reza Pahlavi in March?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-06
 expiryDate: 2026-03-31
 tags: ["politics", "polymarket", "trump"]

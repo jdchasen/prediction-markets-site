@@ -3,7 +3,7 @@ title: "Will Trump declare war on Iran by March 31, 2026?"
 description: "Will Trump declare war on Iran by March 31, 2026? Odds: 12.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Trump declare war on Iran by March 31, 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-06
 expiryDate: 2026-03-31
 tags: ["politics", "polymarket", "trump"]

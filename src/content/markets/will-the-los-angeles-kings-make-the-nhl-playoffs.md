@@ -1,17 +1,16 @@
 ---
 title: "Will the Los Angeles Kings make the NHL Playoffs?"
-description: "Will the Los Angeles Kings make the NHL Playoffs? Odds: 44.5% YES on Polymarket. See live prices and trade this market."
+description: "Will the Los Angeles Kings make the NHL Playoffs? Odds: 45.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Los Angeles Kings make the NHL Playoffs?"
 category: "sports"
 status: "active"
 lastUpdated: 2026-03-06
 expiryDate: 2026-04-16
 tags: ["polymarket", "sports"]
-polymarketYes: 44.5
-polymarketNo: 55.5
-polymarketVolume: 9673
+polymarketYes: 45.0
+polymarketNo: 55.0
+polymarketVolume: 9700
 polymarketUrl: "https://polymarket.com/event/will-the-los-angeles-kings-make-the-nhl-playoffs"
-analysisDate: 2026-03-06
 ---
 
 # Los Angeles Kings Playoff Odds Analysis

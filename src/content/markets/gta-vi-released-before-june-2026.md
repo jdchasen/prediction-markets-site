@@ -1,17 +1,16 @@
 ---
 title: "GTA VI released before June 2026?"
-description: "GTA VI released before June 2026? Odds: 2.6% YES on Polymarket. See live prices and trade this market."
+description: "GTA VI released before June 2026? Odds: 2.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "GTA VI released before June 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-03-06
 expiryDate: 2026-05-31
 tags: ["politics", "polymarket"]
-polymarketYes: 2.6
-polymarketNo: 97.4
-polymarketVolume: 9945583
+polymarketYes: 2.4
+polymarketNo: 97.6
+polymarketVolume: 9986002
 polymarketUrl: "https://polymarket.com/event/gta-vi-released-before-june-2026"
-analysisDate: 2026-03-06
 ---
 
 The market pricing GTA VI's release before June 2026 at just 2.6% reflects overwhelming skepticism that Rockstar Games will deliver its blockbuster title within the next 16 months, despite the company's official Fall 2025 target window announced in their December 2023 trailer.

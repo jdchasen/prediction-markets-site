@@ -3,7 +3,7 @@ title: "Will Elon Musk announce Presidential run before 2027?"
 description: "Will Elon Musk announce Presidential run before 2027? Odds: 3.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Elon Musk announce Presidential run before 2027?"
 category: "tech"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-06
 expiryDate: 2026-12-31
 tags: ["polymarket", "tech"]

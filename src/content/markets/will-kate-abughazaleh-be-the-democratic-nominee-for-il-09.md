@@ -1,17 +1,16 @@
 ---
 title: "Will Kate Abughazaleh be the Democratic nominee for IL-09?"
-description: "Will Kate Abughazaleh be the Democratic nominee for IL-09? Odds: 25.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Kate Abughazaleh be the Democratic nominee for IL-09? Odds: 28.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Kate Abughazaleh be the Democratic nominee for IL-09?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-03-06
 expiryDate: 2026-03-17
 tags: ["politics", "polymarket"]
-polymarketYes: 25.5
-polymarketNo: 74.5
-polymarketVolume: 9961
+polymarketYes: 28.5
+polymarketNo: 71.5
+polymarketVolume: 9977
 polymarketUrl: "https://polymarket.com/event/will-kate-abughazaleh-be-the-democratic-nominee-for-il-09"
-analysisDate: 2026-03-06
 ---
 
 # Analysis: Kate Abughazaleh's Path to IL-09 Democratic Nomination

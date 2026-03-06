@@ -1,17 +1,16 @@
 ---
 title: "Will Don Tracy be the Republican nominee for Senate in Illinois?"
-description: "Will Don Tracy be the Republican nominee for Senate in Illinois? Odds: 90.0% YES on Polymarket. See live prices and trade this market."
+description: "Will Don Tracy be the Republican nominee for Senate in Illinois? Odds: 90.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Don Tracy be the Republican nominee for Senate in Illinois?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-03-06
 expiryDate: 2026-03-17
 tags: ["politics", "polymarket"]
-polymarketYes: 90.0
-polymarketNo: 10.0
-polymarketVolume: 9728
+polymarketYes: 90.5
+polymarketNo: 9.5
+polymarketVolume: 9900
 polymarketUrl: "https://polymarket.com/event/will-don-tracy-be-the-republican-nominee-for-senate-in-illinois"
-analysisDate: 2026-03-06
 ---
 
 # Don Tracy Illinois Republican Senate Nomination Analysis

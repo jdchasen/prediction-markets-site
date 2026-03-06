@@ -9,9 +9,8 @@ expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 35.5
 polymarketNo: 64.5
-polymarketVolume: 9374
+polymarketVolume: 9377
 polymarketUrl: "https://polymarket.com/event/christine-lagarde-out-as-ecb-president-in-2026"
-analysisDate: 2026-03-06
 ---
 
 # ECB Leadership Transition: Lagarde's Tenure Under Scrutiny

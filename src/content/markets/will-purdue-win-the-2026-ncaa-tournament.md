@@ -9,9 +9,8 @@ expiryDate: 2026-04-04
 tags: ["politics", "polymarket"]
 polymarketYes: 3.0
 polymarketNo: 97.0
-polymarketVolume: 99226
+polymarketVolume: 99805
 polymarketUrl: "https://polymarket.com/event/will-purdue-win-the-2026-ncaa-tournament"
-analysisDate: 2026-03-06
 ---
 
 The Polymarket odds give Purdue just a 3% chance of cutting down the nets in April 2026, reflecting the mathematical reality that any single team faces long odds in a 68-team single-elimination tournament, even though this market is oddly categorized under politics rather than sports.

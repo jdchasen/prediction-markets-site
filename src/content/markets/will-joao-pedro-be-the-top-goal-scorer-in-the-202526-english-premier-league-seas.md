@@ -1,17 +1,16 @@
 ---
 title: "Will Joao Pedro be the top goal scorer in the 2025–26 English Premier League season?"
-description: "Will Joao Pedro be the top goal scorer in the 2025–26 English Premier League season? Odds: 3.3% YES on Polymarket. See live prices and trade this market."
+description: "Will Joao Pedro be the top goal scorer in the 2025–26 English Premier League season? Odds: 3.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Joao Pedro be the top goal scorer in the 2025–26 English Premier League season?"
 category: "sports"
 status: "active"
 lastUpdated: 2026-03-06
 expiryDate: 2026-05-27
 tags: ["polymarket", "sports"]
-polymarketYes: 3.3
-polymarketNo: 96.7
-polymarketVolume: 9801
+polymarketYes: 3.8
+polymarketNo: 96.2
+polymarketVolume: 9976
 polymarketUrl: "https://polymarket.com/event/will-joao-pedro-be-the-top-goal-scorer-in-the-202526-english-premier-league-season"
-analysisDate: 2026-03-06
 ---
 
 # Joao Pedro's Golden Boot Odds: A Contrarian Opportunity or Justified Skepticism?

@@ -1,17 +1,16 @@
 ---
 title: "Will Sinners win Best Production Design at the 98th Academy Awards?"
-description: "Will Sinners win Best Production Design at the 98th Academy Awards? Odds: 2.9% YES on Polymarket. See live prices and trade this market."
+description: "Will Sinners win Best Production Design at the 98th Academy Awards? Odds: 5.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Sinners win Best Production Design at the 98th Academy Awards?"
 category: "entertainment"
 status: "active"
 lastUpdated: 2026-03-06
 expiryDate: 2026-03-15
 tags: ["entertainment", "polymarket"]
-polymarketYes: 2.9
-polymarketNo: 97.1
-polymarketVolume: 9582
+polymarketYes: 5.2
+polymarketNo: 94.8
+polymarketVolume: 9781
 polymarketUrl: "https://polymarket.com/event/will-sinners-win-best-production-design-at-the-98th-academy-awards"
-analysisDate: 2026-03-06
 ---
 
 # Analysis: Sinners and Best Production Design at the 98th Academy Awards

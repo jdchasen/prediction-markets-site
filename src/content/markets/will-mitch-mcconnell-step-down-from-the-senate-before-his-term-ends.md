@@ -1,56 +1,54 @@
 ---
 title: "Will Mitch McConnell step down from the Senate before his term ends?"
-description: "Will Mitch McConnell step down from the Senate before his term ends? Odds: 34.0% YES on Polymarket. See live prices and trade this market."
+description: "Will Mitch McConnell step down from the Senate before his term ends? Odds: 59.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Mitch McConnell step down from the Senate before his term ends?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-03-06
 expiryDate: 2027-01-03
 tags: ["politics", "polymarket"]
-polymarketYes: 34.0
-polymarketNo: 66.0
-polymarketVolume: 96740
+polymarketYes: 59.5
+polymarketNo: 40.5
+polymarketVolume: 97509
 polymarketUrl: "https://polymarket.com/event/will-mitch-mcconnell-resign-from-the-senate-before-his-term-ends"
 analysisDate: 2026-03-06
 ---
 
-# Mitch McConnell's Senate Future: A 34% Resignation Probability
+Polymarket traders are pricing in a near 60% probability that Senate Minority Leader Mitch McConnell will vacate his seat before his current term expires in January 2027, reflecting serious concerns about the 82-year-old senator's health and political positioning following his two public freezing episodes in 2023 and subsequent stepping down from Republican leadership.
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 34.0% | 66.0% | $97K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 59.5% | 40.5% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The market is pricing a one-in-three chance that the 82-year-old Senate Republican Leader exits before January 2027, reflecting genuine uncertainty about his health trajectory and political positioning after his recent leadership transition. This matters now because McConnell just relinquished his role as Senate Minority Leader in February 2024, marking a potential inflection point for a figure who has dominated Republican strategy for nearly two decades.
+The bull case centers on McConnell's documented health issues and age-related concerns. After experiencing two visible episodes where he appeared to freeze mid-sentence during press conferences in summer 2023, questions about his neurological health intensified. While he was cleared by the attending physician, traders see elevated risk of resignation given Kentucky's Republican trifecta government, which would allow Governor Andy Beshear (though a Democrat until the 2023 special election law change) or a future Republican governor to appoint a replacement. McConnell already relinquished his leadership position effective November 2024, signaling a potential willingness to further reduce his role. His influence within the caucus has diminished substantially, reducing the political cost of departure.
 
-The bull case for early departure centers on McConnell's documented health vulnerabilities. He suffered a fall at the Kopelman Center in March 2023, was hospitalized for a concussion, and subsequently experienced another fall in July 2024—both incidents raising questions about his physical capacity to serve a full six-year term extending to January 2027. Age-related decline, particularly among octogenarians, is unpredictable; his stepping down would remove a potential distraction for Republicans navigating a divided Senate. Additionally, his diminished influence after stepping down from leadership could reduce his institutional incentive to remain.
+The bear case argues McConnell has consistently demonstrated determination to serve out his term despite health setbacks, explicitly stating his intention to complete his tenure through 2027. He remains an active legislator and continues committee work, suggesting functional capacity. Kentucky's political landscape changed with the 2023 law requiring gubernatorial Senate appointment replacements to come from the same party, making McConnell's seat secure for Republicans regardless—removing urgency for a strategic resignation timing. McConnell has a historical pattern of perseverance through difficulties, and his recent leadership transition may actually reduce stress while allowing him to serve in a less demanding capacity.
 
-The bear case is stronger structurally. McConnell has shown remarkable resilience through previous health scares and maintains significant financial resources for medical care. Critically, he faces no electoral pressure—his next primary isn't until 2026, and Kentucky Republicans are solidly behind him despite ideological differences. Stepping down voluntarily would cede influence entirely to whoever succeeds him, something unlikely for a politician of his stature. His Senate seat provides a power base regardless of leadership position; Mitch McConnell as a backbench Senator still wields enormous legislative and committee authority.
-
-Watch three catalysts: McConnell's health developments (any public incident before late 2025 would spike YES odds significantly), the 2026 primary cycle (if primary challenges emerge, he'd be more likely to stay and fight), and his legislative effectiveness in the 119th Congress under Trump administration dynamics. The current 34% pricing suggests the market correctly weights his health risks against his demonstrated determination and institutional incentives to serve out his term.
+Key catalysts include any additional health incidents that could force an immediate decision, the 2024 Senate leadership elections where new Republican leadership will be established, and Kentucky's 2027 gubernatorial race dynamics. Traders should monitor McConnell's public appearance schedule and speaking patterns, any extended absences from Senate votes (particularly on major legislation), and statements from his inner circle or Kentucky political figures. The 119th Congress convenes January 2025, providing an early test of his sustained participation. Primary filing deadlines for Kentucky's 2026 Senate race would also signal whether McConnell is actively preparing for succession planning.
 
 ## Related Markets
 
-- [GTA VI released before June 2026?](/odds/gta-vi-released-before-june-2026) — 3% YES
+- [GTA VI released before June 2026?](/odds/gta-vi-released-before-june-2026) — 2% YES
 - [Will Jesus Christ return before GTA VI?](/odds/will-jesus-christ-return-before-gta-vi) — 48% YES
 - [Trump-Denmark Greenland deal signed by March 31?](/odds/trump-denmark-greenland-deal-signed-by-march-31) — 3% YES
 
 ## Frequently Asked Questions
 
-### What specific health events could trigger a market repricing toward higher YES odds?
+### Does Kentucky law allow Governor Beshear to appoint a Democrat if McConnell resigns?
 
-Any publicized fall, hospitalization, or medical intervention requiring extended recovery would likely spike YES probability by 10-15 points, as the market currently assumes his health remains stable relative to 2024 patterns.
+No. Kentucky passed legislation in 2023 requiring the governor to appoint a replacement from a list of three names provided by the departing senator's party, ensuring Republican retention of the seat.
 
-### Would McConnell's succession plan actually matter to this market outcome?
+### What happens to McConnell's committee assignments and seniority if he steps down mid-term?
 
-Marginally—the market is pricing McConnell's personal choice, not Senate succession mechanics, though identifying a strong successor might marginally increase his willingness to step aside gracefully rather than exit due to health crisis.
+His seniority and committee positions would transfer to whichever Republican the governor appoints, though the replacement would start fresh in terms of institutional influence and relationship-building within the caucus.
 
-### How much does his loss of leadership status change the resignation calculus?
+### Could McConnell strategically time a resignation around Kentucky's gubernatorial election cycle?
 
-It removes some institutional incentive to stay, but backbench Senators retain substantial power through seniority and committee positions, so the impact on YES probability is limited—likely explaining why odds stayed at 34% rather than spiking higher after his February 2024 leadership transition.
+The gubernatorial race occurs in 2027 with Beshear term-limited, so resigning after a Republican governor takes office in December 2027 would miss the January 2027 market deadline, making pre-deadline timing more about health than political strategy.
 
 ## Learn More
 

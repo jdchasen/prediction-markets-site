@@ -3,7 +3,7 @@ title: "Will Harvey Weinstein be confirmed to have visited Epstein’s island?"
 description: "Will Harvey Weinstein be confirmed to have visited Epstein’s island? Odds: 17.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Harvey Weinstein be confirmed to have visited Epstein’s island?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-06
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]

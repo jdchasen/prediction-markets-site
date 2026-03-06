@@ -9,9 +9,8 @@ expiryDate: 2026-03-18
 tags: ["economics", "federal-reserve", "interest-rates", "polymarket"]
 polymarketYes: 0.2
 polymarketNo: 99.8
-polymarketVolume: 89991977
+polymarketVolume: 92123961
 polymarketUrl: "https://polymarket.com/event/will-the-fed-decrease-interest-rates-by-50-bps-after-the-march-2026-meeting"
-analysisDate: 2026-03-06
 ---
 
 The market essentially prices near-zero probability that the Federal Reserve will implement an emergency-style 50+ basis point cut by March 2026, reflecting expectations that no severe economic crisis will emerge requiring such aggressive monetary easing.

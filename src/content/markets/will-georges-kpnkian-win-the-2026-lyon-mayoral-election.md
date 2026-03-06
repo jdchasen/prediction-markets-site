@@ -11,7 +11,6 @@ polymarketYes: 0.2
 polymarketNo: 99.8
 polymarketVolume: 9865
 polymarketUrl: "https://polymarket.com/event/will-georges-kpnkian-win-the-2026-lyon-mayoral-election"
-analysisDate: 2026-03-06
 ---
 
 # Lyon Mayoral Election 2026: Képénékian's Longshot Bid

@@ -1,17 +1,16 @@
 ---
 title: "Will the Vancouver Canucks win the 2026 NHL Stanley Cup?"
-description: "Will the Vancouver Canucks win the 2026 NHL Stanley Cup? Odds: 0.2% YES on Polymarket. See live prices and trade this market."
+description: "Will the Vancouver Canucks win the 2026 NHL Stanley Cup? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Vancouver Canucks win the 2026 NHL Stanley Cup?"
 category: "sports"
 status: "active"
 lastUpdated: 2026-03-06
 expiryDate: 2026-06-30
 tags: ["polymarket", "sports"]
-polymarketYes: 0.2
-polymarketNo: 99.8
-polymarketVolume: 990071
+polymarketYes: 0.1
+polymarketNo: 99.9
+polymarketVolume: 991227
 polymarketUrl: "https://polymarket.com/event/will-the-vancouver-canucks-win-the-2026-nhl-stanley-cup"
-analysisDate: 2026-03-06
 ---
 
 The Vancouver Canucks face nearly impossible odds at 0.2% to capture their first Stanley Cup in franchise history by June 2026, reflecting deep skepticism about their competitive window despite recent improvements.

@@ -1,17 +1,16 @@
 ---
 title: "Will Charles Leclerc be the 2026 F1 Drivers' Champion?"
-description: "Will Charles Leclerc be the 2026 F1 Drivers' Champion? Odds: 14.2% YES on Polymarket. See live prices and trade this market."
+description: "Will Charles Leclerc be the 2026 F1 Drivers' Champion? Odds: 14.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Charles Leclerc be the 2026 F1 Drivers' Champion?"
 category: "sports"
 status: "active"
 lastUpdated: 2026-03-06
 expiryDate: 2026-12-06
 tags: ["polymarket", "sports"]
-polymarketYes: 14.2
-polymarketNo: 85.8
-polymarketVolume: 983883
+polymarketYes: 14.4
+polymarketNo: 85.5
+polymarketVolume: 990580
 polymarketUrl: "https://polymarket.com/event/will-charles-leclerc-be-the-2026-f1-drivers-champion"
-analysisDate: 2026-03-06
 ---
 
 Charles Leclerc's odds of winning the 2026 F1 Drivers' Championship sit at just over 14%, reflecting significant uncertainty about Ferrari's competitiveness under F1's incoming 2026 technical regulations that will introduce completely new power units and aerodynamic rules. This market matters because the regulation reset creates an opportunity for grid reshuffling, where historically dominant teams can stumble and midfield constructors can leap forward.

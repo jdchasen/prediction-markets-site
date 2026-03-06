@@ -1,17 +1,16 @@
 ---
 title: "Will DeepSeek have the best AI model at the end of June 2026?"
-description: "Will DeepSeek have the best AI model at the end of June 2026? Odds: 3.1% YES on Polymarket. See live prices and trade this market."
+description: "Will DeepSeek have the best AI model at the end of June 2026? Odds: 3.6% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will DeepSeek have the best AI model at the end of June 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-03-06
 expiryDate: 2026-06-30
 tags: ["ai", "politics", "polymarket"]
-polymarketYes: 3.1
-polymarketNo: 96.9
-polymarketVolume: 97521
+polymarketYes: 3.6
+polymarketNo: 96.4
+polymarketVolume: 97575
 polymarketUrl: "https://polymarket.com/event/will-deepseek-have-the-best-ai-model-at-the-end-of-june-2026"
-analysisDate: 2026-03-06
 ---
 
 Prediction markets are pricing in only a 3% chance that DeepSeek, the Chinese AI startup backed by High-Flyer Capital Management, will hold the leading AI model position by June 2026, reflecting skepticism that a relative newcomer can overtake entrenched leaders like OpenAI, Anthropic, and Google despite recent competitive releases.

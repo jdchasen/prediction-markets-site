@@ -3,7 +3,7 @@ title: "Will Iran strike Safaniya Field by March 31?"
 description: "Will Iran strike Safaniya Field by March 31? Odds: 39.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Iran strike Safaniya Field by March 31?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-06
 tags: ["politics", "polymarket"]
 polymarketYes: 39.0

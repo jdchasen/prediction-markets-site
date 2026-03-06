@@ -11,7 +11,6 @@ polymarketYes: 3.7
 polymarketNo: 96.3
 polymarketVolume: 9962
 polymarketUrl: "https://polymarket.com/event/nba-2025-26-clutch-player-of-the-year-de-aaron-fox"
-analysisDate: 2026-03-06
 ---
 
 # De'Aaron Fox Clutch Player of the Year 2025-2026 Analysis

@@ -3,7 +3,7 @@ title: "Will Japan win Pool C at the 2026 World Baseball Classic?"
 description: "Will Japan win Pool C at the 2026 World Baseball Classic? Odds: 94.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Japan win Pool C at the 2026 World Baseball Classic?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-06
 expiryDate: 2026-03-17
 tags: ["politics", "polymarket"]

@@ -3,7 +3,7 @@ title: "Thionville: Nicolai Budkov Kjaer vs Jan Choinski"
 description: "Thionville: Nicolai Budkov Kjaer vs Jan Choinski Odds: 65.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Thionville: Nicolai Budkov Kjaer vs Jan Choinski"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-06
 expiryDate: 2026-03-13
 tags: ["ai", "politics", "polymarket"]

@@ -1,17 +1,16 @@
 ---
 title: "Will the Democratic Party win the VA-06 House seat?"
-description: "Will the Democratic Party win the VA-06 House seat? Odds: 58.5% YES on Polymarket. See live prices and trade this market."
+description: "Will the Democratic Party win the VA-06 House seat? Odds: 54.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Democratic Party win the VA-06 House seat?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-03-06
 expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
-polymarketYes: 58.5
-polymarketNo: 41.5
-polymarketVolume: 9667
+polymarketYes: 54.5
+polymarketNo: 45.5
+polymarketVolume: 9950
 polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-va-06-house-seat"
-analysisDate: 2026-03-06
 ---
 
 # VA-06 Democratic Hold: Market Assessment

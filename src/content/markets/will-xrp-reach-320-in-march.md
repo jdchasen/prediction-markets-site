@@ -3,7 +3,7 @@ title: "Will XRP reach $3.20 in March?"
 description: "Will XRP reach $3.20 in March? Odds: 0.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will XRP reach $3.20 in March?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-06
 expiryDate: 2026-04-01
 tags: ["politics", "polymarket"]

@@ -3,7 +3,7 @@ title: "Will there be a new supreme leader of Iran before Kevin Warsh is confirm
 description: "Will there be a new supreme leader of Iran before Kevin Warsh is confirmed as Fed Chair? Odds: 94.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will there be a new supreme leader of Iran before Kevin Warsh is confirmed as Fed Chair?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-06
 expiryDate: 2026-10-31
 tags: ["ai", "federal-reserve", "politics", "polymarket"]

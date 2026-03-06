@@ -3,7 +3,7 @@ title: "Will The Secret Agent win Best Casting at the 98th Academy Awards?"
 description: "Will The Secret Agent win Best Casting at the 98th Academy Awards? Odds: 6.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will The Secret Agent win Best Casting at the 98th Academy Awards?"
 category: "entertainment"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-06
 tags: ["entertainment", "polymarket"]
 polymarketYes: 6.0

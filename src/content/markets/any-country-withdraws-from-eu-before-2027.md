@@ -9,9 +9,8 @@ expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 5.5
 polymarketNo: 94.5
-polymarketVolume: 96956
+polymarketVolume: 97192
 polymarketUrl: "https://polymarket.com/event/any-country-withdraws-from-eu-before-2027"
-analysisDate: 2026-03-06
 ---
 
 # EU Exit Market Analysis

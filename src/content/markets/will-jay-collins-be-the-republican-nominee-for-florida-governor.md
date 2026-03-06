@@ -11,7 +11,6 @@ polymarketYes: 4.9
 polymarketNo: 95.1
 polymarketVolume: 9947
 polymarketUrl: "https://polymarket.com/event/will-jay-collins-be-the-republican-nominee-for-florida-governor"
-analysisDate: 2026-03-06
 ---
 
 # Republican Florida Governor 2026: Jay Collins Long-Shot Analysis

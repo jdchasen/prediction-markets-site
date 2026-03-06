@@ -3,7 +3,7 @@ title: "Will Como win the 2025–26 Serie A league?"
 description: "Will Como win the 2025–26 Serie A league? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Como win the 2025–26 Serie A league?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-06
 expiryDate: 2026-05-28
 tags: ["politics", "polymarket"]

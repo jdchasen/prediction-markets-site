@@ -9,9 +9,8 @@ expiryDate: 2026-04-01
 tags: ["ethereum", "politics", "polymarket"]
 polymarketYes: 0.4
 polymarketNo: 99.7
-polymarketVolume: 9841
+polymarketVolume: 9846
 polymarketUrl: "https://polymarket.com/event/will-ethena-dip-to-0-in-march"
-analysisDate: 2026-03-06
 ---
 
 # Ethena March Dip Market Analysis

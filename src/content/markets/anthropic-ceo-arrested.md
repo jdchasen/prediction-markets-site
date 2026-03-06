@@ -1,17 +1,16 @@
 ---
 title: "Anthropic CEO arrested?"
-description: "Anthropic CEO arrested? Odds: 4.4% YES on Polymarket. See live prices and trade this market."
+description: "Anthropic CEO arrested? Odds: 4.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Anthropic CEO arrested?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-03-06
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
-polymarketYes: 4.4
-polymarketNo: 95.6
-polymarketVolume: 97946
+polymarketYes: 4.2
+polymarketNo: 95.8
+polymarketVolume: 98671
 polymarketUrl: "https://polymarket.com/event/anthropic-ceo-arrested"
-analysisDate: 2026-03-06
 ---
 
 # Anthropic CEO Arrest Market Analysis

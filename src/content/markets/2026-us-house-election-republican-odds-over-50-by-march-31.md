@@ -1,17 +1,16 @@
 ---
 title: "2026 U.S. House Election: Republican Odds over 50% by March 31?"
-description: "2026 U.S. House Election: Republican Odds over 50% by March 31? Odds: 1.6% YES on Polymarket. See live prices and trade this market."
+description: "2026 U.S. House Election: Republican Odds over 50% by March 31? Odds: 1.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "2026 U.S. House Election: Republican Odds over 50% by March 31?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-03-06
 expiryDate: 2026-03-31
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 1.6
-polymarketNo: 98.5
-polymarketVolume: 9620
+polymarketYes: 1.4
+polymarketNo: 98.7
+polymarketVolume: 9857
 polymarketUrl: "https://polymarket.com/event/2026-us-house-election-republican-odds-over-50-by-march-31"
-analysisDate: 2026-03-06
 ---
 
 # 2026 House Republican Odds Analysis

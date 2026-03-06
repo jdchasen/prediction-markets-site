@@ -11,7 +11,6 @@ polymarketYes: 11.5
 polymarketNo: 88.5
 polymarketVolume: 96743
 polymarketUrl: "https://polymarket.com/event/major-cex-insolvent-in-2026"
-analysisDate: 2026-03-06
 ---
 
 # Analysis

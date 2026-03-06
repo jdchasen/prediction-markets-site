@@ -11,7 +11,6 @@ polymarketYes: 0.1
 polymarketNo: 100.0
 polymarketVolume: 9818102
 polymarketUrl: "https://polymarket.com/event/will-sunderland-win-the-202526-english-premier-league"
-analysisDate: 2026-03-06
 ---
 
 Sunderland's Premier League title odds sit near zero because the club currently plays in the Championship (second tier) and would need both promotion and an unprecedented fairy-tale season to claim the title by May 2026.

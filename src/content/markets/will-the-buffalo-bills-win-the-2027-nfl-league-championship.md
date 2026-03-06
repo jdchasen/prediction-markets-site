@@ -9,9 +9,8 @@ expiryDate: 2027-03-31
 tags: ["polymarket", "sports"]
 polymarketYes: 6.5
 polymarketNo: 93.5
-polymarketVolume: 99025
+polymarketVolume: 99160
 polymarketUrl: "https://polymarket.com/event/will-the-buffalo-bills-win-the-2027-nfl-league-championship"
-analysisDate: 2026-03-06
 ---
 
 The Buffalo Bills are priced as a longshot to capture Super Bowl LXI, with traders assigning roughly 1-in-15 odds nearly two years before the championship game, reflecting skepticism about their ability to break through despite perennial playoff contention.
