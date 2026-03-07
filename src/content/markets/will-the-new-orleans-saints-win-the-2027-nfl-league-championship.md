@@ -9,9 +9,8 @@ expiryDate: 2027-03-31
 tags: ["ai", "polymarket", "sports"]
 polymarketYes: 0.9
 polymarketNo: 99.1
-polymarketVolume: 96834
+polymarketVolume: 98033
 polymarketUrl: "https://polymarket.com/event/will-the-new-orleans-saints-win-the-2027-nfl-league-championship"
-analysisDate: 2026-03-07
 ---
 
 # New Orleans Saints 2027 Super Bowl Analysis

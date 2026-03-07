@@ -1,17 +1,16 @@
 ---
 title: "Will Paul Dans be the Republican nominee for Senate in South Carolina?"
-description: "Will Paul Dans be the Republican nominee for Senate in South Carolina? Odds: 12.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Paul Dans be the Republican nominee for Senate in South Carolina? Odds: 11.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Paul Dans be the Republican nominee for Senate in South Carolina?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-03-07
 expiryDate: 2026-07-31
 tags: ["politics", "polymarket"]
-polymarketYes: 12.5
-polymarketNo: 87.5
-polymarketVolume: 9891
+polymarketYes: 11.5
+polymarketNo: 88.5
+polymarketVolume: 9897
 polymarketUrl: "https://polymarket.com/event/will-paul-dans-be-the-republican-nominee-for-senate-in-south-carolina"
-analysisDate: 2026-03-07
 ---
 
 # Paul Dans Republican Senate Nomination Analysis

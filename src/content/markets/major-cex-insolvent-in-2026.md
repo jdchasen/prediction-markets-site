@@ -9,9 +9,8 @@ expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]
 polymarketYes: 11.5
 polymarketNo: 88.5
-polymarketVolume: 98878
+polymarketVolume: 98880
 polymarketUrl: "https://polymarket.com/event/major-cex-insolvent-in-2026"
-analysisDate: 2026-03-07
 ---
 
 The market pricing an 11.5% chance of a major centralized exchange becoming insolvent in 2026 reflects cautious optimism about crypto infrastructure stability, though it suggests roughly 1-in-9 odds of a catastrophic failure in the sector. This matters because exchange collapses have historically triggered cascading contagion effects across crypto markets, as seen with FTX's November 2022 implosion that wiped out $32 billion in customer funds and triggered a liquidity crisis across the industry.

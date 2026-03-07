@@ -3,7 +3,7 @@ title: "Will Georges Képénékian win the 2026 Lyon mayoral election?"
 description: "Will Georges Képénékian win the 2026 Lyon mayoral election? Odds: 0.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Georges Képénékian win the 2026 Lyon mayoral election?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-07
 expiryDate: 2026-05-22
 tags: ["elections", "politics", "polymarket"]

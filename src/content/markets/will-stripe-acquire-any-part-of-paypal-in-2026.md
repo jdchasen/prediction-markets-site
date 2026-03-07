@@ -9,9 +9,8 @@ expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 55.0
 polymarketNo: 45.0
-polymarketVolume: 9622
+polymarketVolume: 9627
 polymarketUrl: "https://polymarket.com/event/will-stripe-acquire-any-part-of-paypal-in-2026"
-analysisDate: 2026-03-07
 ---
 
 # Stripe-PayPal Acquisition Analysis

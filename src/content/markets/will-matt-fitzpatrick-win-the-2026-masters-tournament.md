@@ -1,17 +1,16 @@
 ---
 title: "Will Matt Fitzpatrick win the 2026 Masters tournament?"
-description: "Will Matt Fitzpatrick win the 2026 Masters tournament? Odds: 1.4% YES on Polymarket. See live prices and trade this market."
+description: "Will Matt Fitzpatrick win the 2026 Masters tournament? Odds: 1.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Matt Fitzpatrick win the 2026 Masters tournament?"
 category: "sports"
 status: "active"
 lastUpdated: 2026-03-07
 expiryDate: 2026-04-13
 tags: ["polymarket", "sports"]
-polymarketYes: 1.4
-polymarketNo: 98.6
-polymarketVolume: 957811
+polymarketYes: 1.8
+polymarketNo: 98.2
+polymarketVolume: 962322
 polymarketUrl: "https://polymarket.com/event/will-matt-fitzpatrick-win-the-2026-masters-tournament"
-analysisDate: 2026-03-07
 ---
 
 The market prices Matt Fitzpatrick as a significant longshot to claim the 2026 Masters title, reflecting the intense difficulty of capturing major championships even for elite players. With the tournament still over a year away, these odds position him behind numerous favorites in what typically features the strongest field in golf.

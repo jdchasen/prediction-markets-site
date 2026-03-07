@@ -1,17 +1,16 @@
 ---
 title: "Will the Republican Party win the AL-04 House seat?"
-description: "Will the Republican Party win the AL-04 House seat? Odds: 93.5% YES on Polymarket. See live prices and trade this market."
+description: "Will the Republican Party win the AL-04 House seat? Odds: 94.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Republican Party win the AL-04 House seat?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-03-07
 expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
-polymarketYes: 93.5
-polymarketNo: 6.5
-polymarketVolume: 9791
+polymarketYes: 94.0
+polymarketNo: 6.0
+polymarketVolume: 9820
 polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-al-04-house-seat"
-analysisDate: 2026-03-07
 ---
 
 # AL-04 House Seat: Republican Stronghold Markets Near Certainty

@@ -1,17 +1,16 @@
 ---
 title: "Will Hassan Khomeini be head of state in Iran end of 2026?"
-description: "Will Hassan Khomeini be head of state in Iran end of 2026? Odds: 2.3% YES on Polymarket. See live prices and trade this market."
+description: "Will Hassan Khomeini be head of state in Iran end of 2026? Odds: 3.6% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Hassan Khomeini be head of state in Iran end of 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-03-07
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 2.3
-polymarketNo: 97.7
-polymarketVolume: 9580
+polymarketYes: 3.6
+polymarketNo: 96.4
+polymarketVolume: 9637
 polymarketUrl: "https://polymarket.com/event/will-hassan-khomeini-be-head-of-state-in-iran-end-of-2026"
-analysisDate: 2026-03-07
 ---
 
 # Hassan Khomeini for Iran's Head of State: A 2.3% Long Shot

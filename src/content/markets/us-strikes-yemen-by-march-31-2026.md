@@ -3,7 +3,7 @@ title: "US strikes Yemen by March 31, 2026?"
 description: "US strikes Yemen by March 31, 2026? Odds: 39.3% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "US strikes Yemen by March 31, 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-07
 expiryDate: 2026-03-31
 tags: ["politics", "polymarket"]

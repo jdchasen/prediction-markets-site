@@ -9,9 +9,8 @@ expiryDate: 2026-06-13
 tags: ["polymarket", "sports"]
 polymarketYes: 2.1
 polymarketNo: 97.9
-polymarketVolume: 963123
+polymarketVolume: 967003
 polymarketUrl: "https://polymarket.com/event/will-the-orlando-magic-win-the-nba-eastern-conference-finals"
-analysisDate: 2026-03-07
 ---
 
 The Orlando Magic are given minimal chances to reach the 2026 NBA Finals, reflecting their current status as a rebuilding franchise without established championship-caliber talent, though the two-year timeframe leaves room for significant organizational evolution.

@@ -1,15 +1,15 @@
 ---
 title: "Will inflation reach more than 3% in 2026?"
-description: "Will inflation reach more than 3% in 2026? Odds: 47.0% YES on Polymarket. See live prices and trade this market."
+description: "Will inflation reach more than 3% in 2026? Odds: 52.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will inflation reach more than 3% in 2026?"
 category: "economics"
 status: "active"
 lastUpdated: 2026-03-07
 expiryDate: 2026-12-31
 tags: ["economics", "polymarket", "sports"]
-polymarketYes: 47.0
-polymarketNo: 53.0
-polymarketVolume: 93948
+polymarketYes: 52.0
+polymarketNo: 48.0
+polymarketVolume: 97486
 polymarketUrl: "https://polymarket.com/event/will-inflation-reach-more-than-3-in-2026"
 analysisDate: 2026-03-07
 ---
@@ -20,37 +20,32 @@ analysisDate: 2026-03-07
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 47.0% | 53.0% | $94K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 52.0% | 48.0% | $97K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The market is currently pricing in roughly even odds that inflation will exceed 3% by year-end 2026, reflecting genuine uncertainty about whether the Federal Reserve can maintain price stability after years of elevated inflation. This matters now because it signals trader skepticism about the Fed's ability to anchor inflation expectations near its 2% target, particularly if economic growth remains resilient or geopolitical shocks disrupt supply chains. The current split probability suggests the market views both scenarios—successful disinflation and persistent inflation—as equally plausible.
+The market is nearly split on whether inflation will exceed 3% by year-end 2026, reflecting genuine uncertainty about whether the Fed can engineer a soft landing or will face persistent price pressures. This matters now because it directly influences Fed policy expectations, bond yields, and equity valuations for the next two years—traders betting on higher inflation should already be positioning accordingly. At 52% YES, the market is essentially pricing in a coin flip, suggesting neither sustained disinflation nor a re-acceleration has consensus support.
 
-The bull case for higher inflation rests on three pillars: sticky wage growth from a tight labor market, potential trade wars or tariff regimes that could raise import prices if the incoming administration pursues protectionist policies, and the lagged effects of recent fiscal stimulus on aggregate demand. If the January 2025 Consumer Price Index (CPI release on February 12) remains elevated, and if the Fed pauses rate cuts through 2025, upside inflation momentum could accelerate heading into 2026. Core PCE inflation, the Fed's preferred gauge, would need to stabilize above 2.5% for the YES case to gain traction.
+The bull case for >3% inflation centers on sticky service-sector inflation, wage growth outpacing productivity gains, and potential policy shifts. If the Fed cuts rates too aggressively in 2024-2025 to avoid recession, demand could remain elevated and erode the Fed's credibility on price stability. Energy shocks, geopolitical disruptions affecting supply chains, or fiscal stimulus remain real tail risks. Watch the Employment Cost Index (ECI) releases quarterly and focus on wage growth in non-farm payroll reports—if hourly earnings growth stays above 4% annualized into 2025, inflation will struggle to fall below 3% despite cooling headline numbers. The December 2025 and January 2026 CPI prints will be particularly influential as we approach the market's expiry.
 
-The bear case assumes the Fed successfully completes its disinflationary cycle, with the federal funds rate settling in the 3.5-4.0% range by mid-2026 and restrictive monetary conditions gradually cooling demand. Base effects from 2024's higher readings work in favor of lower 2026 comparisons, and energy prices—currently stable—would need to avoid major supply shocks. Monthly CPI readings throughout 2025 and 2026, particularly the September 2026 release (critical for year-end momentum), will be decisive; if the core CPI trend stays below 2.5%, the NO case strengthens substantially.
+The bear case assumes the Fed successfully anchors inflation expectations and that disinflation continues from current levels. Core PCE (the Fed's preferred metric) was around 2.8-3.0% in late 2024, and if the Fed maintains restrictive policy longer than markets currently price in, inflation could genuinely drift toward 2-2.5% by 2026. A stronger dollar would further suppress import prices, and productivity gains from AI and automation could offset wage pressures. The FOMC's quarterly Summary of Economic Projections (next due December 2024) will signal whether officials expect inflation durably below 3%, which would shift market odds significantly lower. Watch the personal consumption expenditures deflator (PCE) in early 2025—if it prints consistently below 2.5%, this market should drift toward 40% YES.
 
-Traders should monitor the FOMC's December 2024 and January 2025 meeting decisions for hawkish signals that could extend rate-hold periods, weekly jobless claims for labor market softness, and any commodity price movements signaling inflation risks. The employment situation reports (NFP) in late January, February, and March 2025 will establish whether wage pressures remain intact. If CPI surprises hot in early 2025 and the Fed signals fewer cuts ahead, the YES odds should shift higher; conversely, a soft landing scenario with moderating wages and energy prices will push odds toward NO.
+Key catalysts include FOMC decisions (especially any hawkish pivots in Q2 2025), monthly non-farm payroll data (focus on average hourly earnings trends), and quarterly CPI releases leading into December 2026. Any evidence of a wages-price spiral or a Fed pause/cut cycle that extends beyond Q1 2025 would rapidly push this market toward 60-65% YES. Conversely, three consecutive sub-2% core PCE prints in late 2025 would likely trigger a move toward 35% YES. Traders should monitor the Fed's forward guidance closely around the Jackson Hole Economic Symposium (August) and the terminal rate assumptions in FOMC projections—a material downward revision to long-term inflation expectations would be a bearish signal for this contract.
 
 ## Related Markets
 
-- [Will the Fed decrease interest rates by 50+ bps after the March 2026 meeting?](/odds/will-the-fed-decrease-interest-rates-by-50-bps-after-the-march-2026-meeting) — 0% YES
 - [Will the 10-year treasury yield hit 4.8% by March 31?](/odds/will-the-10-year-treasury-yield-hit-48-by-march-31) — 1% YES
-- [Will Argentina’s monthly inflation in February 2026 be between 2.8% and 3.0%?](/odds/will-argentinas-monthly-inflation-in-february-2026-be-between-28-and-30) — 58% YES
+- [Will Argentina’s monthly inflation in February 2026 be between 2.8% and 3.0%?](/odds/will-argentinas-monthly-inflation-in-february-2026-be-between-28-and-30) — 60% YES
 
 ## Frequently Asked Questions
 
-### How much does the market's 47% YES price depend on what happens in 2025 versus 2026 itself?
+### Does this market use CPI or PCE to measure inflation?
 
-Heavily on 2025. The Fed's policy path and early CPI readings this year will largely determine inflation momentum heading into 2026; a sustained rate-cut cycle would make 3%+ less likely, while prolonged rate holds signal persistent inflation risks.
+The contract typically references the Consumer Price Index (CPI) unless otherwise specified in fine print; confirm the exact benchmark with the platform, as PCE and CPI can diverge by 0.5% annualized.
 
-### If inflation falls to 2.1% by mid-2026, can it still breach 3% by December 31?
+### Could a significant oil price shock in 2026 push inflation above 3% even if core inflation is low?
 
-Unlikely but possible only if a severe supply shock (geopolitical or energy-related) occurs in Q4 2026; the market would need to reprice dramatically higher, making the current 47% odds reflect meaningful tail-risk premium for such scenarios.
-
-### Why is this market trading at near 50-50 rather than skewing toward the Fed's 2% target?
-
-Because traders are pricing in structural inflation persistence (wage stickiness, supply-chain fragility, and potential protectionist policy) as meaningful enough to challenge the Fed's disinflationary goal, making sub-2.5% inflation by end-2026 a n
+Yes—a major geopolitical event driving crude above $100/barrel could drive headline CPI above 3% for several months, potentially satisfying the >3% threshold depending on how the market resolves (point-in-time vs. average
 
 ## Learn More
 

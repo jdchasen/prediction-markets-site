@@ -3,7 +3,7 @@ title: "Will Oscar Piastri win the 2026 F1 Australian Grand Prix?"
 description: "Will Oscar Piastri win the 2026 F1 Australian Grand Prix? Odds: 3.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Oscar Piastri win the 2026 F1 Australian Grand Prix?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-07
 expiryDate: 2026-03-15
 tags: ["entertainment", "polymarket", "sports"]

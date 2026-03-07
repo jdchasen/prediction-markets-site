@@ -3,7 +3,7 @@ title: "Will the Central Bank of Colombia announce an increase at the March meet
 description: "Will the Central Bank of Colombia announce an increase at the March meeting? Odds: 90.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Central Bank of Colombia announce an increase at the March meeting?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-07
 expiryDate: 2026-03-31
 tags: ["politics", "polymarket"]

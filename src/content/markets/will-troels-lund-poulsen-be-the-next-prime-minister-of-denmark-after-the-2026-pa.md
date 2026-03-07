@@ -3,7 +3,7 @@ title: "Will Troels Lund Poulsen be the next prime minister of Denmark after the
 description: "Will Troels Lund Poulsen be the next prime minister of Denmark after the 2026 parliamentary elections? Odds: 10.0% YES on Polymarket. See live prices and tra..."
 marketQuestion: "Will Troels Lund Poulsen be the next prime minister of Denmark after the 2026 parliamentary elections?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-07
 expiryDate: 2026-03-24
 tags: ["elections", "politics", "polymarket"]

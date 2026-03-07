@@ -9,9 +9,8 @@ expiryDate: 2026-07-31
 tags: ["politics", "polymarket"]
 polymarketYes: 48.5
 polymarketNo: 51.5
-polymarketVolume: 9856174
+polymarketVolume: 9867553
 polymarketUrl: "https://polymarket.com/event/will-jesus-christ-return-before-gta-vi-665"
-analysisDate: 2026-03-07
 ---
 
 This satirical prediction market trades near even odds on whether the Second Coming will occur before Rockstar Games releases its next Grand Theft Auto installment, highlighting the gaming community's frustration with the decade-long wait since GTA V's 2013 launch. The market captures genuine uncertainty around GTA VI's timeline while functioning as commentary on Rockstar's notoriously slow development cycles.

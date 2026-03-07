@@ -1,17 +1,16 @@
 ---
 title: "Will StandX launch a token by March 31?"
-description: "Will StandX launch a token by March 31? Odds: 2.6% YES on Polymarket. See live prices and trade this market."
+description: "Will StandX launch a token by March 31? Odds: 2.3% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will StandX launch a token by March 31?"
 category: "crypto"
-status: "settled"
-lastUpdated: 2026-03-06
+status: "active"
+lastUpdated: 2026-03-07
 expiryDate: 2026-04-01
 tags: ["crypto", "polymarket"]
-polymarketYes: 2.6
-polymarketNo: 97.4
-polymarketVolume: 9639
+polymarketYes: 2.3
+polymarketNo: 97.7
+polymarketVolume: 9656
 polymarketUrl: "https://polymarket.com/event/will-standx-launch-a-token-by-march-31"
-analysisDate: 2026-03-06
 ---
 
 # StandX Token Launch Analysis

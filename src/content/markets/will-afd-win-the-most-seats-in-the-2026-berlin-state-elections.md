@@ -1,17 +1,16 @@
 ---
 title: "Will AfD win the most seats in the 2026 Berlin state elections?"
-description: "Will AfD win the most seats in the 2026 Berlin state elections? Odds: 9.8% YES on Polymarket. See live prices and trade this market."
+description: "Will AfD win the most seats in the 2026 Berlin state elections? Odds: 9.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will AfD win the most seats in the 2026 Berlin state elections?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-03-07
 expiryDate: 2026-09-20
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 9.8
-polymarketNo: 90.2
-polymarketVolume: 9911
+polymarketYes: 9.7
+polymarketNo: 90.3
+polymarketVolume: 9926
 polymarketUrl: "https://polymarket.com/event/will-afd-win-the-most-seats-in-the-2026-berlin-state-elections"
-analysisDate: 2026-03-07
 ---
 
 # AfD Berlin 2026 Analysis

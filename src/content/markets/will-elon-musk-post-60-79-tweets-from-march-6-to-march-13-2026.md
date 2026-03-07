@@ -3,7 +3,7 @@ title: "Will Elon Musk post 60-79 tweets from March 6 to March 13, 2026?"
 description: "Will Elon Musk post 60-79 tweets from March 6 to March 13, 2026? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Elon Musk post 60-79 tweets from March 6 to March 13, 2026?"
 category: "tech"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-07
 expiryDate: 2026-03-13
 tags: ["polymarket", "tech"]

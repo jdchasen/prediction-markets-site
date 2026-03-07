@@ -1,17 +1,16 @@
 ---
 title: "Will the US strike 5 countries in 2026?"
-description: "Will the US strike 5 countries in 2026? Odds: 4.3% YES on Polymarket. See live prices and trade this market."
+description: "Will the US strike 5 countries in 2026? Odds: 3.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the US strike 5 countries in 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-03-07
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 4.3
-polymarketNo: 95.7
-polymarketVolume: 9781
+polymarketYes: 3.7
+polymarketNo: 96.3
+polymarketVolume: 9783
 polymarketUrl: "https://polymarket.com/event/will-the-us-strike-5-countries-in-2026"
-analysisDate: 2026-03-07
 ---
 
 # US Military Strikes in 2026: A Low-Probability Event Priced by Risk Aversion

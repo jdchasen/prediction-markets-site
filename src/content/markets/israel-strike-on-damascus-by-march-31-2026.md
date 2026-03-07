@@ -1,53 +1,54 @@
 ---
 title: "Israel strike on Damascus by March 31, 2026?"
-description: "Israel strike on Damascus by March 31, 2026? Odds: 9.5% YES on Polymarket. See live prices and trade this market."
+description: "Israel strike on Damascus by March 31, 2026? Odds: 16.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Israel strike on Damascus by March 31, 2026?"
 category: "politics"
-status: "settled"
+status: "active"
 lastUpdated: 2026-03-07
 expiryDate: 2026-03-31
 tags: ["politics", "polymarket"]
-polymarketYes: 9.5
-polymarketNo: 90.5
-polymarketVolume: 96870
+polymarketYes: 16.5
+polymarketNo: 83.5
+polymarketVolume: 98316
 polymarketUrl: "https://polymarket.com/event/israel-strike-on-damascus-by-march-31-2026"
+analysisDate: 2026-03-07
 ---
 
-The market pricing a roughly 1-in-10 chance of an Israeli strike on Damascus within the next fifteen months reflects current Middle East tensions while acknowledging Syria's reduced strategic priority compared to Iranian and Lebanese threats. This probability matters as Israeli military doctrine increasingly emphasizes preemptive strikes against weapons transfers and Iranian entrenchment across the region.
+Traders are pricing a roughly one-in-six chance of an Israeli military strike on Damascus within the next 14 months, reflecting ongoing tensions around Syrian weapons proliferation and Iranian military infrastructure, though the odds suggest this remains a tail-risk scenario rather than a base case expectation.
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 10.3% | 89.7% | $97K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 16.5% | 83.5% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The bull case centers on Iran's continued use of Damascus International Airport and surrounding areas as transit hubs for weapons shipments to Hezbollah, which Israel has repeatedly declared unacceptable red lines. If intelligence indicates advanced weapons systems—particularly precision-guided missiles or air defense equipment—being staged in Damascus proper rather than peripheral military sites, Israel could escalate to strikes within the capital city limits. Recent precedent includes dozens of Israeli strikes on Syrian territory in 2023-2024, though most targeted peripheral installations. A significant Iranian military buildup in Syria following any potential nuclear deal breakdown or regional escalation involving Hezbollah would dramatically increase odds.
+The bull case centers on escalating Israeli concerns about advanced weapons systems reaching Hezbollah through Syrian territory and Iran's continued efforts to establish permanent military installations near Damascus. Israel has conducted hundreds of airstrikes on Syrian targets since 2011, but these have primarily hit weapons convoys, storage facilities, and military installations outside the capital. A direct Damascus strike would represent a significant escalation, potentially triggered by intelligence indicating imminent transfer of game-changing weapons like precision-guided missile components, advanced air defense systems, or chemical weapons. The normalization of Saudi-Israeli relations could also embolden Israel to take more aggressive action against Iranian proxies without fearing broader Arab world backlash. Additionally, Syria's weakened state following years of civil war means Assad has limited capacity to retaliate, reducing the operational risk for Israel.
 
-The bear case recognizes that Israel has largely achieved air superiority over Syria without needing to strike Damascus itself, preferring targets near the Lebanese border, Homs, and rural areas around the capital. The Assad regime's weakness and Russia's continued presence at Syrian bases create implicit boundaries that Israel has generally respected since 2018. Damascus strikes would risk Russian casualties or trigger stronger Syrian air defense responses, complications Israel typically avoids when peripheral strikes accomplish the same interdiction goals. The ongoing normalization of Israeli-Arab relations also incentivizes restraint in high-profile escalations.
+The bear case recognizes that Israel has historically avoided striking Damascus itself despite thousands of operations elsewhere in Syria, suggesting a strong preference to avoid direct confrontation with the Syrian government and triggering Russian intervention. Russia maintains significant air defense assets and personnel around Damascus, creating serious operational complications and diplomatic risks. The current regional détente, including indirect talks about maritime border disputes and prisoner exchanges, suggests both sides prefer managing tensions rather than escalating them. Furthermore, Israel has successfully degraded Iranian capabilities in Syria through targeted strikes outside major population centers, achieving strategic objectives without the reputational and civilian casualty costs of hitting a capital city of 2.5 million people.
 
-Key catalysts include any renewal of Iranian nuclear negotiations (talks potentially resuming mid-2025), which historically correlate with increased Iranian regional activity as leverage. Watch for IAEA reports on Iranian nuclear progress, typically issued quarterly, as breakout timeline compression could trigger preemptive regional operations. Syrian media reports and satellite imagery of Damascus airport activity provide leading indicators of weapons transfer attempts. The Syrian civil war's evolution matters less than Iranian Revolutionary Guard Corps movements, which Israeli intelligence typically detects weeks before potential strikes.
+Key catalysts to monitor include any Iranian breakthrough toward weapons-grade uranium enrichment (IAEA reports come quarterly), which could prompt preemptive Israeli action across multiple theaters including Syria. The formation of Israel's next government following any potential early elections would matter significantly, as a hard-right coalition would be more likely to authorize such strikes. Watch for Syrian chemical weapons intelligence, which historically triggers immediate international response and could justify Israeli action. Russia's bandwidth matters critically—if Moscow becomes more deeply entangled in Ukraine or faces domestic instability, Israel's operational freedom in Syrian airspace expands considerably.
 
 ## Related Markets
 
-- [GTA VI released before June 2026?](/odds/gta-vi-released-before-june-2026) — 3% YES
 - [Will Jesus Christ return before GTA VI?](/odds/will-jesus-christ-return-before-gta-vi) — 48% YES
-- [Trump-Denmark Greenland deal signed by March 31?](/odds/trump-denmark-greenland-deal-signed-by-march-31) — 3% YES
+- [Will the next Prime Minister of Hungary be László Toroczkai?](/odds/will-the-next-prime-minister-of-hungary-be-lszl-toroczkai) — 1% YES
+- [US x Iran ceasefire by April 30?](/odds/us-x-iran-ceasefire-by-april-30) — 49% YES
 
 ## Frequently Asked Questions
 
-### Would strikes on Damascus suburbs count for this market, or must they hit the city center?
+### Would a strike on military targets in Damascus's suburbs count for this market, or does it need to hit the city center?
 
-Market resolution depends on specific platform definitions, but "Damascus" typically includes the greater metropolitan area and military installations within the provincial boundaries, not exclusively the historic city center. Traders should verify exact geographic criteria in market rules.
+The market resolution likely depends on whether media and official sources describe it as a "strike on Damascus" rather than technical coordinates. Hits on military installations in the greater Damascus area would probably qualify, while strikes 20+ kilometers outside the city might not.
 
-### How does this differ from Israel's routine strikes elsewhere in Syria?
+### How does Russia's military presence in Syria affect the likelihood of this happening?
 
-Israel conducts regular strikes on Syrian territory but has largely avoided Damascus proper since approximately 2018, instead hitting peripheral targets. A Damascus strike would represent a significant escalation in targeting and likely indicates either high-value targets or a deliberate message about red lines.
+Russia operates S-400 air defense systems and has personnel at multiple Syrian bases, creating significant escalation risks if Israeli strikes near Damascus cause Russian casualties. This acts as a major deterrent, though Israel has occasionally struck despite Russian proximity when intelligence justified the risk.
 
-### What role does Russia play in constraining Israeli actions around Damascus?
+### What historical precedent exists for Israel striking an enemy capital versus military targets elsewhere?
 
-Russia maintains significant military presence at Syrian bases and has a deconfliction mechanism with Israel established since 2015. Damascus's proximity to Russian positions and diplomatic sensitivities make strikes there more complicated than in eastern or southern Syria where Russian interests are minimal.
+Israel has avoided striking Arab capitals for decades despite extensive military operations in Lebanon, Syria, Iraq, and Gaza, preferring precision strikes on specific military assets. The last comparable action was the 2007 strike on Syria's al-Kibar nuclear reactor, which was remote and unpopulated, suggesting extreme reluctance to hit urban capital areas.
 
 ## Learn More
 

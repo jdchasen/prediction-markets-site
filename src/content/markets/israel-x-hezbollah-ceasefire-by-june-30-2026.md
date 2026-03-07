@@ -3,7 +3,7 @@ title: "Israel x Hezbollah ceasefire by June 30, 2026?"
 description: "Israel x Hezbollah ceasefire by June 30, 2026? Odds: 33.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Israel x Hezbollah ceasefire by June 30, 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-07
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]

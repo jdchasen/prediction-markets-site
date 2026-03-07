@@ -11,7 +11,6 @@ polymarketYes: 2.1
 polymarketNo: 97.9
 polymarketVolume: 9597
 polymarketUrl: "https://polymarket.com/event/les-wexner-arrested-by-march-31"
-analysisDate: 2026-03-07
 ---
 
 # Les Wexner Arrest Market Analysis

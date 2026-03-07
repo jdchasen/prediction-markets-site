@@ -3,7 +3,7 @@ title: "idOS FDV above $100M one day after launch?"
 description: "idOS FDV above $100M one day after launch? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "idOS FDV above $100M one day after launch?"
 category: "crypto"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-07
 expiryDate: 2028-01-01
 tags: ["crypto", "polymarket"]

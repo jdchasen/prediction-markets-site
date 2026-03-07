@@ -1,17 +1,16 @@
 ---
 title: "Will Jay Collins be the Republican nominee for Florida Governor?"
-description: "Will Jay Collins be the Republican nominee for Florida Governor? Odds: 4.8% YES on Polymarket. See live prices and trade this market."
+description: "Will Jay Collins be the Republican nominee for Florida Governor? Odds: 5.3% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Jay Collins be the Republican nominee for Florida Governor?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-03-07
 expiryDate: 2026-08-18
 tags: ["politics", "polymarket"]
-polymarketYes: 4.8
-polymarketNo: 95.2
+polymarketYes: 5.3
+polymarketNo: 94.7
 polymarketVolume: 9967
 polymarketUrl: "https://polymarket.com/event/will-jay-collins-be-the-republican-nominee-for-florida-governor"
-analysisDate: 2026-03-07
 ---
 
 # Jay Collins for Florida Governor 2026: Market Analysis

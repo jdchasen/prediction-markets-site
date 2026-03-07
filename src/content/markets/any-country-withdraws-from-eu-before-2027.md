@@ -1,17 +1,16 @@
 ---
 title: "Any country withdraws from EU before 2027?"
-description: "Any country withdraws from EU before 2027? Odds: 5.5% YES on Polymarket. See live prices and trade this market."
+description: "Any country withdraws from EU before 2027? Odds: 4.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Any country withdraws from EU before 2027?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-03-07
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 5.5
-polymarketNo: 94.5
-polymarketVolume: 97268
+polymarketYes: 4.5
+polymarketNo: 95.5
+polymarketVolume: 98170
 polymarketUrl: "https://polymarket.com/event/any-country-withdraws-from-eu-before-2027"
-analysisDate: 2026-03-07
 ---
 
 Prediction markets assign only a 5.5% probability to any EU member state withdrawing before 2027, reflecting strong confidence that the bloc will maintain its current 27-member composition despite ongoing political turbulence across the continent.

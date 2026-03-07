@@ -3,7 +3,7 @@ title: "Will Moonshot have the best AI model for math on March 31?"
 description: "Will Moonshot have the best AI model for math on March 31? Odds: 0.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Moonshot have the best AI model for math on March 31?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-07
 expiryDate: 2026-03-31
 tags: ["ai", "politics", "polymarket"]

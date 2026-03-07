@@ -1,17 +1,16 @@
 ---
 title: "Will Marseille win the 2025–26 French Ligue 1?"
-description: "Will Marseille win the 2025–26 French Ligue 1? Odds: 0.2% YES on Polymarket. See live prices and trade this market."
+description: "Will Marseille win the 2025–26 French Ligue 1? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Marseille win the 2025–26 French Ligue 1?"
 category: "sports"
 status: "active"
 lastUpdated: 2026-03-07
 expiryDate: 2026-05-30
 tags: ["polymarket", "sports"]
-polymarketYes: 0.2
-polymarketNo: 99.8
-polymarketVolume: 96470
+polymarketYes: 0.1
+polymarketNo: 99.9
+polymarketVolume: 97013
 polymarketUrl: "https://polymarket.com/event/will-marseille-win-the-202526-french-ligue-1"
-analysisDate: 2026-03-07
 ---
 
 At 0.2% implied probability, Marseille is priced as a near-zero contender for the 2025–26 Ligue 1 title, reflecting the massive structural gap between France's financial heavyweights and the Provence club's resources. This market matters now because Marseille's summer 2025 transfer activity and managerial stability over the next 12 months will determine whether they can mount any credible challenge, yet current pricing suggests the market has already written them off entirely.
