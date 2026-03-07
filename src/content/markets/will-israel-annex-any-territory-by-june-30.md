@@ -1,19 +1,20 @@
 ---
 title: "Will Israel annex any territory by June 30?"
-description: "Will Israel annex any territory by June 30? Odds: 10.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Israel annex any territory by June 30? Odds: 10.6% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Israel annex any territory by June 30?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-03-06
+lastUpdated: 2026-03-07
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
-polymarketYes: 10.5
-polymarketNo: 89.5
-polymarketVolume: 96906
+polymarketYes: 10.6
+polymarketNo: 89.4
+polymarketVolume: 96950
 polymarketUrl: "https://polymarket.com/event/will-israel-annex-any-territory-by-june-30"
+analysisDate: 2026-03-07
 ---
 
-The market pricing Israeli annexation at roughly 11% reflects skepticism that formal territorial incorporation will occur before mid-2026, though Netanyahu's current coalition dynamics and Trump's return to the White House create plausible scenarios for such a move. This matters because annexation would fundamentally reshape Israeli-Palestinian relations, trigger international sanctions, and potentially collapse the Abraham Accords.
+The market is pricing only a 10.6% chance that Israel will formally annex territory by mid-2026, reflecting skepticism that the current government will take such a dramatic step despite considerable pressure from coalition partners and settlers who view the Trump administration as their best window for action.
 
 ## Current Odds
 
@@ -23,31 +24,31 @@ The market pricing Israeli annexation at roughly 11% reflects skepticism that fo
 
 ## Market Analysis
 
-The bull case centers on Netanyahu's dependence on far-right coalition partners like Bezalel Smotrich and Itamar Ben-Gvir, who explicitly advocate annexing West Bank settlements and have threatened to topple the government without territorial gains. Trump's previous recognition of Israeli sovereignty over the Golan Heights and his administration's tolerance of settlement expansion create a favorable window through January 2029. The ongoing Gaza war has shifted Israeli public opinion rightward on security issues, potentially providing political cover for annexation of strategic areas like the Jordan Valley or major settlement blocs. Netanyahu faces corruption trial pressures that incentivize bold moves to satisfy his base and maintain immunity through continued governance.
+The bull case centers on Israel's most right-wing government in history, led by Prime Minister Netanyahu who depends on pro-annexation parties like Bezalel Smotrich's Religious Zionism and Itamar Ben-Gvir's Jewish Power to maintain his coalition. With Donald Trump returning to the White House in January 2025—after previously recognizing Israeli sovereignty over the Golan Heights and allowing settlement expansion—annexation advocates see a narrow 18-month window before potential U.S. political shifts. Smotrich, who serves as Finance Minister with authority over West Bank civilian affairs, has explicitly stated his goal to apply Israeli sovereignty to Area C of the West Bank, which comprises roughly 60% of the territory. The Abraham Accords normalization framework has already demonstrated that Arab state opposition to Israeli actions can be more muted than historically assumed.
 
-The bear case emphasizes that even Trump's first term stopped short of supporting West Bank annexation when UAE normalization was at stake. The current Saudi normalization track—which the U.S. strongly backs—would likely collapse if Israel annexed territory, costing Netanyahu his signature foreign policy achievement. Knesset passage would require maintaining coalition unity through multiple legislative stages, vulnerable to defection. International economic consequences, including potential EU sanctions and credit rating downgrades, create financial deterrents. The military establishment generally opposes formal annexation as operationally disadvantageous compared to the status quo.
+The bear case emphasizes that even under favorable U.S. leadership, Israel faces significant constraints. The 2020 Trump peace plan, which allowed for limited annexation, still required Israeli acceptance of a two-state framework that Netanyahu ultimately avoided implementing. Current Israeli military and security establishment figures have consistently warned that formal annexation would destabilize security coordination with the Palestinian Authority, potentially triggering a third intifada and jeopardizing normalization prospects with Saudi Arabia—a key strategic priority. The Knesset would need to pass actual legislation formalizing annexation, which would face international condemnation, potential ICC actions, and economic consequences from Europe. Netanyahu has historically prioritized his own political survival over ideological commitments, and annexation could fracture his coalition or trigger early elections.
 
-Key catalysts include Israeli budget negotiations in early 2025, where coalition demands intensify; any progress on Saudi normalization talks that would raise the diplomatic cost; and Trump administration policy announcements on Middle East peace frameworks expected in Q1 2025. Watch for Knesset legislation titled "Sovereignty Bills" that have been drafted but not advanced, settlement construction approval rates as a leading indicator, and statements from Trump's incoming Middle East team. The market will likely remain range-bound until concrete legislative movement or explicit U.S. policy shifts emerge, with volatility around coalition crisis moments.
+Key catalysts include Trump's inauguration on January 20, 2025, and the subsequent appointment of his Middle East policy team, which will signal whether annexation has genuine U.S. backing. Israel's 2025 budget negotiations in the Knesset during February-March will reveal whether coalition partners demand annexation commitments in exchange for their votes. Any breakthrough in Saudi normalization talks would likely require Israel to shelve annexation plans. Traders should monitor statements from incoming Secretary of State Marco Rubio and Ambassador to Israel Mike Huckabee, both considered sympathetic to annexation, as well as any legislative proposals from Smotrich's ministry regarding Area C administration. The March 2026 timeframe represents the practical deadline for action if annexation advocates want completion before the 2026 U.S. midterm elections potentially shift congressional dynamics.
 
 ## Related Markets
 
-- [GTA VI released before June 2026?](/odds/gta-vi-released-before-june-2026) — 3% YES
 - [Will Jesus Christ return before GTA VI?](/odds/will-jesus-christ-return-before-gta-vi) — 48% YES
-- [Trump-Denmark Greenland deal signed by March 31?](/odds/trump-denmark-greenland-deal-signed-by-march-31) — 3% YES
+- [Will the next Prime Minister of Hungary be László Toroczkai?](/odds/will-the-next-prime-minister-of-hungary-be-lszl-toroczkai) — 1% YES
+- [Trump-Denmark Greenland deal signed by March 31?](/odds/trump-denmark-greenland-deal-signed-by-march-31) — 2% YES
 
 ## Frequently Asked Questions
 
-### Would applying Israeli civil law to existing settlements count as annexation for this market?
+### What specific territories would count as annexation for this market to resolve YES?
 
-Yes, extending Israeli civil law and administration to West Bank territory—even settlements where Israel already exercises control—would constitute de jure annexation for market resolution purposes, distinct from the current military occupation framework.
+Any formal application of Israeli sovereignty to West Bank areas (particularly Area C), parts of Gaza, or other disputed territories would qualify. Expanding settlement construction or administrative control without declaring sovereignty would not trigger a YES resolution.
 
-### How does the ongoing Gaza war affect annexation probability?
+### How does this differ from Israel's 1981 Golan Heights annexation?
 
-The war simultaneously creates political space for rightward moves while consuming Netanyahu's bandwidth and making additional international provocations costlier; it also strengthens the coalition position of annexation advocates who could demand territorial gains as their price for continued support.
+The Golan annexation occurred under different international circumstances with less coordinated opposition, involved non-Palestinian territory captured from Syria, and affected a much smaller population. West Bank annexation would directly impact millions of Palestinians and established Oslo framework agreements.
 
-### What specific West Bank areas are most likely to be annexed if this occurs?
+### Could Netanyahu announce annexation but delay implementation past June 2026?
 
-The Jordan Valley (for security justification), major settlement blocs like Gush Etzion and Maale Adumim (where 80%+ of settlers live close to the Green Line), and Area C settlements that Israel already fully controls administratively are the most probable targets for any partial annexation move.
+The market requires actual annexation, not just announcements or promises. Israel would need to pass Knesset legislation and begin applying Israeli civil law to the territory for the market to resolve YES, making symbolic declarations without legal follow-through insufficient.
 
 ## Learn More
 

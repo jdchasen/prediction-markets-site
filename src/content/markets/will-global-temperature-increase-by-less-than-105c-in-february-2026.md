@@ -3,8 +3,8 @@ title: "Will global temperature increase by less than 1.05ºC in February 2026?"
 description: "Will global temperature increase by less than 1.05ºC in February 2026? Odds: 3.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will global temperature increase by less than 1.05ºC in February 2026?"
 category: "science"
-status: "active"
-lastUpdated: 2026-03-06
+status: "settled"
+lastUpdated: 2026-03-07
 expiryDate: 2026-03-10
 tags: ["polymarket", "science", "weather"]
 polymarketYes: 3.7

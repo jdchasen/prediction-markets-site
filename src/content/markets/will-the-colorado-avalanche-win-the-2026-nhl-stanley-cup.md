@@ -3,8 +3,8 @@ title: "Will the Colorado Avalanche win the 2026 NHL Stanley Cup?"
 description: "Will the Colorado Avalanche win the 2026 NHL Stanley Cup? Odds: 23.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Colorado Avalanche win the 2026 NHL Stanley Cup?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-03-06
+status: "settled"
+lastUpdated: 2026-03-07
 expiryDate: 2026-06-30
 tags: ["polymarket", "sports"]
 polymarketYes: 23.2

@@ -3,15 +3,14 @@ title: "Will Mistral have the best AI model for coding on March 31?"
 description: "Will Mistral have the best AI model for coding on March 31? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Mistral have the best AI model for coding on March 31?"
 category: "politics"
-status: "settled"
-lastUpdated: 2026-03-06
+status: "active"
+lastUpdated: 2026-03-07
 expiryDate: 2026-03-31
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 0.1
 polymarketNo: 99.9
-polymarketVolume: 95851
+polymarketVolume: 96062
 polymarketUrl: "https://polymarket.com/event/will-mistral-have-the-best-ai-model-for-coding-on-march-31"
-analysisDate: 2026-03-06
 ---
 
 The market has effectively priced Mistral at near-zero probability to lead AI coding capabilities by March 2026, reflecting trader skepticism that the French startup can overtake entrenched competitors in a highly competitive 15-month window.

@@ -3,8 +3,8 @@ title: "Will Bitcoin reach $80,000 by December 31, 2026?"
 description: "Will Bitcoin reach $80,000 by December 31, 2026? Odds: 72.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Bitcoin reach $80,000 by December 31, 2026?"
 category: "crypto"
-status: "active"
-lastUpdated: 2026-03-06
+status: "settled"
+lastUpdated: 2026-03-07
 expiryDate: 2027-01-01
 tags: ["bitcoin", "crypto", "polymarket"]
 polymarketYes: 72.5

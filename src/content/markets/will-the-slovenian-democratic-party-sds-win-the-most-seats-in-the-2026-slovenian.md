@@ -3,8 +3,8 @@ title: "Will the Slovenian Democratic Party (SDS) win the most seats in the 2026
 description: "Will the Slovenian Democratic Party (SDS) win the most seats in the 2026 Slovenian parliamentary election? Odds: 92.5% YES on Polymarket. See live prices and..."
 marketQuestion: "Will the Slovenian Democratic Party (SDS) win the most seats in the 2026 Slovenian parliamentary election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-06
+status: "settled"
+lastUpdated: 2026-03-07
 expiryDate: 2026-03-31
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 92.5

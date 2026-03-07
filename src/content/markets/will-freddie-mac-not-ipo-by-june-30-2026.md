@@ -1,17 +1,16 @@
 ---
 title: "Will Freddie Mac not IPO by June 30, 2026?"
-description: "Will Freddie Mac not IPO by June 30, 2026? Odds: 95.3% YES on Polymarket. See live prices and trade this market."
+description: "Will Freddie Mac not IPO by June 30, 2026? Odds: 95.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Freddie Mac not IPO by June 30, 2026?"
 category: "finance"
 status: "active"
-lastUpdated: 2026-03-06
+lastUpdated: 2026-03-07
 expiryDate: 2026-06-30
 tags: ["finance", "polymarket"]
-polymarketYes: 95.3
-polymarketNo: 4.7
+polymarketYes: 95.2
+polymarketNo: 4.8
 polymarketVolume: 9931
 polymarketUrl: "https://polymarket.com/event/will-freddie-mac-not-ipo-by-june-30-2026"
-analysisDate: 2026-03-06
 ---
 
 The prediction market is pricing in a 95.3% probability that Freddie Mac remains private through mid-2026, reflecting deep skepticism about near-term IPO prospects despite recurring privatization discussions. This matters because Freddie Mac, one of two government-sponsored enterprises (GSEs) anchoring the $7+ trillion mortgage market, has faced privatization pressure for over a decade, yet political and operational hurdles have consistently derailed timelines.

@@ -3,8 +3,8 @@ title: "Will Purdue win the 2026 NCAA Tournament?"
 description: "Will Purdue win the 2026 NCAA Tournament? Odds: 3.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Purdue win the 2026 NCAA Tournament?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-06
+status: "settled"
+lastUpdated: 2026-03-07
 expiryDate: 2026-04-04
 tags: ["politics", "polymarket"]
 polymarketYes: 3.0

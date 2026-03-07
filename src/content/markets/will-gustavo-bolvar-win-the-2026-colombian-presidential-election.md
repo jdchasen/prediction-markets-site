@@ -3,15 +3,14 @@ title: "Will Gustavo Bolívar win the 2026 Colombian presidential election?"
 description: "Will Gustavo Bolívar win the 2026 Colombian presidential election? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Gustavo Bolívar win the 2026 Colombian presidential election?"
 category: "politics"
-status: "settled"
-lastUpdated: 2026-03-06
+status: "active"
+lastUpdated: 2026-03-07
 expiryDate: 2026-06-21
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.1
 polymarketNo: 99.9
-polymarketVolume: 960697
+polymarketVolume: 962509
 polymarketUrl: "https://polymarket.com/event/will-gustavo-bolvar-win-the-2026-colombian-presidential-election"
-analysisDate: 2026-03-06
 ---
 
 Gustavo Bolívar, a Colombian senator and screenwriter best known for creating "Sin Senos No Hay Paraíso," currently holds minimal market odds at 0.1% to win Colombia's 2026 presidential election, reflecting deep skepticism about his viability despite his high-profile media presence and progressive political platform.

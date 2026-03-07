@@ -4,14 +4,13 @@ description: "Will the Central Bank of Colombia announce an increase at the Marc
 marketQuestion: "Will the Central Bank of Colombia announce an increase at the March meeting?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-03-06
+lastUpdated: 2026-03-07
 expiryDate: 2026-03-31
 tags: ["politics", "polymarket"]
 polymarketYes: 90.5
 polymarketNo: 9.5
 polymarketVolume: 9955
 polymarketUrl: "https://polymarket.com/event/will-the-central-bank-of-colombia-announce-an-increase-at-the-march-meeting"
-analysisDate: 2026-03-06
 ---
 
 # Colombia Central Bank Rate Decision Analysis

@@ -1,17 +1,16 @@
 ---
 title: "Will One Battle After Another win Best Adapted Screenplay at the 98th Academy Awards?"
-description: "Will One Battle After Another win Best Adapted Screenplay at the 98th Academy Awards? Odds: 94.5% YES on Polymarket. See live prices and trade this market."
+description: "Will One Battle After Another win Best Adapted Screenplay at the 98th Academy Awards? Odds: 93.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will One Battle After Another win Best Adapted Screenplay at the 98th Academy Awards?"
 category: "entertainment"
 status: "active"
-lastUpdated: 2026-03-06
+lastUpdated: 2026-03-07
 expiryDate: 2026-03-15
 tags: ["entertainment", "polymarket"]
-polymarketYes: 94.5
-polymarketNo: 5.5
-polymarketVolume: 97858
+polymarketYes: 93.5
+polymarketNo: 6.5
+polymarketVolume: 98277
 polymarketUrl: "https://polymarket.com/event/will-one-battle-after-another-win-best-adapted-screenplay-at-the-98th-academy-awards"
-analysisDate: 2026-03-06
 ---
 
 The adapted screenplay race for the 98th Academy Awards is essentially considered locked up for "One Battle After Another" more than a year before the ceremony, with traders showing overwhelming confidence in its inevitable victory.

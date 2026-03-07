@@ -3,8 +3,8 @@ title: "Will Iran strike Ruwais Refinery by March 31?"
 description: "Will Iran strike Ruwais Refinery by March 31? Odds: 28.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Iran strike Ruwais Refinery by March 31?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-06
+status: "settled"
+lastUpdated: 2026-03-07
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 28.5
 polymarketNo: 71.5

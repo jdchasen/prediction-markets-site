@@ -4,14 +4,13 @@ description: "Ethereum all time high by September 30, 2026? Odds: 11.5% YES on P
 marketQuestion: "Ethereum all time high by September 30, 2026?"
 category: "crypto"
 status: "active"
-lastUpdated: 2026-03-06
+lastUpdated: 2026-03-07
 expiryDate: 2026-10-01
 tags: ["crypto", "ethereum", "polymarket"]
 polymarketYes: 11.5
 polymarketNo: 88.5
-polymarketVolume: 96595
+polymarketVolume: 97355
 polymarketUrl: "https://polymarket.com/event/ethereum-all-time-high-by-september-30-2026"
-analysisDate: 2026-03-06
 ---
 
 The market pricing Ethereum's chance of reaching a new all-time high above $4,878 by September 2026 at just 11.5% reflects deep skepticism about the network's ability to regain 2021 momentum despite having over two years to accomplish this milestone. This matters because it signals trader sentiment about Ethereum's fundamental value proposition post-Merge and its competitive position against layer-2 solutions and alternative layer-1 networks that are siphoning away transaction activity and total value locked.

@@ -3,8 +3,8 @@ title: "Brasilia: Adolfo Vallejo vs Facundo Acosta"
 description: "Brasilia: Adolfo Vallejo vs Facundo Acosta Odds: 65.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Brasilia: Adolfo Vallejo vs Facundo Acosta"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-06
+status: "settled"
+lastUpdated: 2026-03-07
 expiryDate: 2026-03-13
 tags: ["politics", "polymarket"]
 polymarketYes: 65.5

@@ -4,14 +4,13 @@ description: "Will Nico Iamaleava be the first pick of the 2026 NFL Draft? Odds:
 marketQuestion: "Will Nico Iamaleava be the first pick of the 2026 NFL Draft?"
 category: "sports"
 status: "active"
-lastUpdated: 2026-03-06
+lastUpdated: 2026-03-07
 expiryDate: 2026-04-25
 tags: ["polymarket", "sports"]
 polymarketYes: 0.3
 polymarketNo: 99.7
 polymarketVolume: 9731
 polymarketUrl: "https://polymarket.com/event/will-nico-iamaleava-be-the-first-pick-of-the-2026-nfl-draft"
-analysisDate: 2026-03-06
 ---
 
 # Nico Iamaleava 2026 NFL Draft Analysis

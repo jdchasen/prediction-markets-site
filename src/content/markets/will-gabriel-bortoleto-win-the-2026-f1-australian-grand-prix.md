@@ -3,8 +3,8 @@ title: "Will Gabriel Bortoleto win the 2026 F1 Australian Grand Prix?"
 description: "Will Gabriel Bortoleto win the 2026 F1 Australian Grand Prix? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Gabriel Bortoleto win the 2026 F1 Australian Grand Prix?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-03-06
+status: "settled"
+lastUpdated: 2026-03-07
 expiryDate: 2026-03-15
 tags: ["polymarket", "sports"]
 polymarketYes: 0.1

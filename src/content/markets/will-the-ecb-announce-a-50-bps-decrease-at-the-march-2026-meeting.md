@@ -4,14 +4,13 @@ description: "Will the ECB announce a 50+ bps decrease at the March 2026 meeting
 marketQuestion: "Will the ECB announce a 50+ bps decrease at the March 2026 meeting?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-03-06
+lastUpdated: 2026-03-07
 expiryDate: 2026-03-19
 tags: ["politics", "polymarket"]
 polymarketYes: 0.1
 polymarketNo: 99.9
-polymarketVolume: 90749
+polymarketVolume: 94662
 polymarketUrl: "https://polymarket.com/event/will-the-ecb-announce-a-50-bps-decrease-at-the-march-2026-meeting"
-analysisDate: 2026-03-06
 ---
 
 # ECB March 2026 Rate Cut Analysis

@@ -3,8 +3,8 @@ title: "Will Vladimir Peña win the 2026 Santa Cruz gubernatorial election?"
 description: "Will Vladimir Peña win the 2026 Santa Cruz gubernatorial election? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Vladimir Peña win the 2026 Santa Cruz gubernatorial election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-06
+status: "settled"
+lastUpdated: 2026-03-07
 expiryDate: 2026-03-22
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.1

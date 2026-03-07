@@ -3,8 +3,8 @@ title: "Will Crude Oil (CL) hit (HIGH) $100 by end of March?"
 description: "Will Crude Oil (CL) hit (HIGH) $100 by end of March? Odds: 72.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Crude Oil (CL) hit (HIGH) $100 by end of March?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-06
+status: "settled"
+lastUpdated: 2026-03-07
 expiryDate: 2026-03-31
 tags: ["politics", "polymarket"]
 polymarketYes: 72.0

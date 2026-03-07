@@ -1,16 +1,15 @@
 ---
 title: "Will the Cleveland Cavaliers finish with the best record in the NBA?"
-description: "Will the Cleveland Cavaliers finish with the best record in the NBA? Odds: 0.4% YES on Polymarket. See live prices and trade this market."
+description: "Will the Cleveland Cavaliers finish with the best record in the NBA? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Cleveland Cavaliers finish with the best record in the NBA?"
 category: "sports"
-status: "settled"
-lastUpdated: 2026-03-06
+status: "active"
+lastUpdated: 2026-03-07
 tags: ["polymarket", "sports"]
-polymarketYes: 0.4
-polymarketNo: 99.6
-polymarketVolume: 9598
+polymarketYes: 0.1
+polymarketNo: 99.9
+polymarketVolume: 9620
 polymarketUrl: "https://polymarket.com/event/will-the-cleveland-cavaliers-finish-with-the-best-record-in-the-nba"
-analysisDate: 2026-03-06
 ---
 
 # Cavaliers Best Record Analysis
