@@ -25,7 +25,7 @@ faqs:
 
 [Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=blog&utm_campaign=signup) processed more trading volume than every other prediction market combined during the 2024 US election cycle. That's not an exaggeration -- individual markets on the platform saw hundreds of millions of dollars in total volume, and it cemented Polymarket as the dominant crypto-native prediction market in the world. If you're interested in trading event contracts and you want access to the deepest liquidity available, Polymarket is a platform you need to understand.
 
-This guide covers everything you need to go from zero to placing your first trade: how the platform works, how to get funds on it, how to navigate markets, and -- most importantly -- how to think about finding edge. We trade prediction markets every day across multiple platforms, and we will share practical insights that go beyond what the official docs tell you.
+This guide covers everything you need to go from zero to placing your first trade: how the platform works, how to get funds on it, how to navigate markets, and -- most importantly -- how to think about finding edge. If you're [completely new to prediction markets](/blog/what-are-prediction-markets), start with our beginner's guide first. We trade prediction markets every day across multiple platforms, and we will share practical insights that go beyond what the official docs tell you.
 
 ## What Is Polymarket?
 
@@ -43,7 +43,7 @@ You don't need to be a crypto expert to use Polymarket, but you do need a basic 
 
 It's important to be upfront about this: **Polymarket isn't regulated by the CFTC or any US financial regulator.** Unlike [Kalshi](https://kalshi.com/sign-up/?referral=f2e21ad4-75b7-4ffb-bfcc-f2fb36e07b21&m=true&utm_source=masterpredictionmarkets&utm_medium=blog&utm_campaign=signup), which operates as a designated contract market under CFTC oversight with segregated customer funds, Polymarket is a crypto-native platform without that regulatory framework. For a detailed side-by-side breakdown, see our [Kalshi vs Polymarket comparison](/blog/kalshi-vs-polymarket-which-platform-should-you-use).
 
-This has real implications. There's no government-backed deposit insurance, dispute resolution is handled by the platform rather than a regulator, and Polymarket has faced regulatory scrutiny before -- in 2022, it settled with the CFTC and blocked US-based users from its interface. As of 2026, US users face restrictions, and you should understand the legal landscape in your jurisdiction before trading.
+This has real implications. There's no government-backed deposit insurance, dispute resolution is handled by the platform rather than a regulator, and Polymarket has faced regulatory scrutiny before. Our guide on [whether Polymarket is legal](/blog/is-polymarket-legal) covers the full regulatory picture -- in 2022, it settled with the CFTC and blocked US-based users from its interface. As of 2026, US users face restrictions, and you should understand the legal landscape in your jurisdiction before trading.
 
 The tradeoff is access: Polymarket is available globally without mandatory KYC for basic trading, it offers the deepest liquidity of any prediction market, and the crypto-native infrastructure means deposits and withdrawals are fast and permissionless.
 

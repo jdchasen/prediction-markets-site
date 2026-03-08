@@ -15,7 +15,7 @@ faqs:
     answer: "Yes. Automated systems that monitor data feeds, calculate fair value, and execute trades in seconds consistently outperform manual trading. Platforms like Kalshi and Polymarket offer APIs that enable fully automated strategies."
 ---
 
-Most retail traders approach prediction markets the same way they approach sports betting -- pick a side, hope for the best, and move on. That's a losing strategy. The traders who consistently profit in prediction markets treat them as what they actually are: mispriced probability instruments. The edge doesn't come from being right about outcomes more often than everyone else. It comes from identifying situations where the market price diverges from the true probability, sizing your position correctly, and repeating the process hundreds of times. This article lays out the specific strategies that work for retail traders, including many that I use daily in my own automated trading systems on [Kalshi](https://kalshi.com/sign-up/?referral=f2e21ad4-75b7-4ffb-bfcc-f2fb36e07b21&m=true&utm_source=masterpredictionmarkets&utm_medium=blog&utm_campaign=signup) and [Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=blog&utm_campaign=signup).
+Most retail traders approach [prediction markets](/blog/what-are-prediction-markets) the same way they approach sports betting -- pick a side, hope for the best, and move on. That's a losing strategy. The traders who consistently profit in prediction markets treat them as what they actually are: mispriced probability instruments. The edge doesn't come from being right about outcomes more often than everyone else. It comes from identifying situations where the market price diverges from the true probability, sizing your position correctly, and repeating the process hundreds of times. This article lays out the specific strategies that work for retail traders, including many that I use daily in my own automated trading systems on [Kalshi](https://kalshi.com/sign-up/?referral=f2e21ad4-75b7-4ffb-bfcc-f2fb36e07b21&m=true&utm_source=masterpredictionmarkets&utm_medium=blog&utm_campaign=signup) and [Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=blog&utm_campaign=signup).
 
 ## Understanding Edge: Implied Probability vs. True Probability
 
@@ -73,7 +73,7 @@ When a contract is near settlement and the outcome is becoming increasingly clea
 
 ### Profit-Taking Before Settlement
 
-You don't always need to hold through settlement to profit. If you buy a contract at $0.50 and it moves to $0.70 as the outcome becomes clearer, selling at $0.70 locks in a $0.20 gross profit per contract immediately. This exit strategy -- taking profit on convergence moves rather than waiting for binary settlement -- is often the primary P&L driver for systematic traders. It reduces variance and frees capital to redeploy into new opportunities.
+You don't always need to hold through settlement to profit. If you buy a contract at $0.50 and it moves to $0.70 as the outcome becomes clearer, selling at $0.70 locks in a $0.20 gross profit per contract immediately. This exit strategy -- taking profit on convergence moves rather than waiting for binary settlement -- is often the [primary P&L driver for systematic traders](/blog/prediction-markets-making-money). It reduces variance and frees capital to redeploy into new opportunities.
 
 ## Strategy 4: Range Markets and Probability Distributions
 
@@ -97,7 +97,7 @@ If a contract has a bid at $0.40 and an ask at $0.55, the midpoint is $0.475. If
 
 ### Cross-Platform Arbitrage
 
-Contracts on the same underlying event sometimes trade on both Kalshi and Polymarket. Our [Kalshi vs Polymarket comparison](/blog/kalshi-vs-polymarket-which-platform-should-you-use) covers the key differences between the two exchanges. Price discrepancies between platforms create arbitrage opportunities. If a "Will the Fed cut rates in March?" contract trades at $0.35 on Kalshi and $0.40 on Polymarket, you can buy the cheap side and sell the expensive side for a near-riskless profit, adjusted for fees and settlement differences. Use our [Arbitrage Scanner](/tools/arbitrage-scanner) to calculate guaranteed profits after fees for any cross-platform price discrepancy. These opportunities are rare and short-lived, but they exist, especially around major news events.
+Contracts on the same underlying event sometimes trade on both Kalshi and Polymarket. Our [Kalshi vs Polymarket comparison](/blog/kalshi-vs-polymarket-which-platform-should-you-use) covers the key differences between the two exchanges. Price discrepancies between platforms create arbitrage opportunities. If a "Will the Fed cut rates in March?" contract trades at $0.35 on Kalshi and $0.40 on Polymarket, you can buy the cheap side and sell the expensive side for a near-riskless profit, adjusted for fees and settlement differences. Use our [Arbitrage Scanner](/tools/arbitrage-scanner) to calculate guaranteed profits after fees for any cross-platform price discrepancy. These opportunities are rare and short-lived, but they exist, especially around major news events. Our [full arbitrage guide](/blog/prediction-market-arbitrage-guide) walks through the math and execution checklist.
 
 ## Position Sizing with the Kelly Criterion
 

@@ -10,7 +10,7 @@ faqs:
   - question: "What are prediction markets and how do they work?"
     answer: "Prediction markets are exchanges where you buy and sell contracts tied to real-world event outcomes. Each contract trades between $0.01 and $0.99, with the price representing the crowd's consensus probability. If the event occurs, the contract pays $1.00; if not, it pays $0.00."
   - question: "Are prediction markets legal in the United States?"
-    answer: "Yes. Kalshi is the first CFTC-regulated prediction market exchange in the U.S., operating under the same legal framework as futures exchanges like the CME. Polymarket operates on blockchain infrastructure outside traditional U.S. regulation."
+    answer: "Yes. Kalshi is the first CFTC-regulated prediction market exchange in the U.S., operating under the same legal framework as futures exchanges like the CME. See our full guide on whether Kalshi is legal for details. Polymarket operates on blockchain infrastructure outside traditional U.S. regulation."
   - question: "How much money do you need to start trading prediction markets?"
     answer: "You can start with as little as $50 to $200 to learn the mechanics and place your first trades. Most contracts cost between $0.01 and $0.99 each, so a small deposit is enough to begin."
   - question: "What's the difference between Kalshi and Polymarket?"
@@ -79,7 +79,7 @@ Kalshi is the first CFTC-regulated prediction market exchange in the United Stat
 
 Kalshi offers markets across a wide range of categories: economics (Fed rate decisions, inflation, GDP), weather (temperature, rainfall, snowfall for specific cities and dates), financial markets (S&P 500 closing ranges, individual stock milestones), and current events. The platform accepts standard U.S. bank deposits and provides 1099 tax reporting.
 
-For U.S.-based traders who want regulatory clarity and straightforward tax treatment, Kalshi is the default choice. Read our [full Kalshi review](/blog/kalshi-review) for a deeper look at the platform's strengths and limitations.
+For U.S.-based traders who want regulatory clarity and straightforward tax treatment, Kalshi is the default choice. Read our [full Kalshi review](/blog/kalshi-review) for a deeper look at the platform's strengths and limitations, or see our [Kalshi vs Polymarket comparison](/blog/kalshi-vs-polymarket-which-platform-should-you-use) for a side-by-side breakdown.
 
 ### Polymarket -- The Crypto-Native Platform
 
@@ -182,6 +182,6 @@ People are notoriously bad at estimating probabilities. Overconfidence, anchorin
 - **Kalshi is the go-to regulated platform** for U.S. traders, offering CFTC oversight, bank deposits, and tax reporting. Polymarket offers deeper liquidity and lower fees but requires crypto infrastructure and lacks regulatory protection.
 - **Fees matter more than you think.** Always calculate your net profit after fees before deciding whether a trade is worth taking. Our [Kalshi fees guide](/blog/kalshi-fees-explained) has the full breakdown.
 - **Start small and learn the mechanics.** Fund a small account, trade markets you understand, and focus on building a repeatable process before scaling up.
-- **Prediction markets reward discipline, not opinions.** The edge comes from consistently identifying mispricings, not from having strong views on outcomes.
+- **Prediction markets reward discipline, not opinions.** The edge comes from consistently identifying mispricings, not from having strong views on outcomes. See our guide on [making money with prediction markets](/blog/prediction-markets-making-money) for an honest look at what's realistic.
 
 Whether you're a seasoned trader looking for a new asset class or a complete beginner curious about event-driven trading, prediction markets offer a unique way to put your knowledge and analytical skills to work. The space is still early, the tools are improving rapidly, and the opportunities for informed participants are real. Before you dive in, make sure to review the [5 costly mistakes new traders make](/blog/5-common-prediction-market-mistakes-to-avoid) so you can avoid the most common pitfalls.

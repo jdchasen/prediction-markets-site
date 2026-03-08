@@ -103,7 +103,7 @@ Unlike [sports betting](/blog/prediction-markets-vs-sports-betting-key-differenc
 
 ## How Kalshi Compares to Unregulated Platforms
 
-The prediction market space includes several platforms that operate outside of US regulatory oversight. [Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=blog&utm_campaign=signup), for example, is a crypto-native platform that settled with the CFTC in 2022 and subsequently blocked US users from its interface. It offers deeper liquidity on many markets and charges lower fees, but it lacks the regulatory protections that Kalshi provides. For a detailed comparison, see our [Kalshi vs Polymarket guide](/blog/kalshi-vs-polymarket-which-platform-should-you-use).
+The prediction market space includes several platforms that operate outside of US regulatory oversight. [Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=blog&utm_campaign=signup), for example, is a crypto-native platform that [settled with the CFTC in 2022](/blog/is-polymarket-legal) and subsequently blocked US users from its interface. It offers deeper liquidity on many markets and charges lower fees, but it lacks the regulatory protections that Kalshi provides. For a detailed comparison, see our [Kalshi vs Polymarket guide](/blog/kalshi-vs-polymarket-which-platform-should-you-use).
 
 Here's a practical comparison:
 
@@ -119,7 +119,7 @@ Here's a practical comparison:
 
 Neither model is inherently "better" -- it depends on your priorities. If you're a US-based trader who wants legal certainty, fund protection, and clean tax reporting, Kalshi is the clear choice. If you prioritize global access, deeper liquidity, and lower fees, and you're comfortable with the regulatory uncertainty, unregulated platforms have their appeal.
 
-For a complete comparison of platforms, see our [guide to the best prediction market platforms](/platforms).
+For a complete comparison of platforms, see our [guide to the best prediction market platforms](/blog/best-prediction-market-platforms).
 
 ## Common Concerns Addressed
 

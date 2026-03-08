@@ -15,7 +15,7 @@ faqs:
     answer: "Fees are the silent killer of profitability. Kalshi charges roughly 7 cents per round-trip trade. A trade with only 5 cents of gross profit becomes a net loss after fees. You need edges of at least 10 cents to justify entering a position."
 ---
 
-Let's get the uncomfortable question out of the way first: can you actually make money trading prediction markets? The answer is yes -- but with caveats that most promotional content about these platforms conveniently ignores. We trade prediction markets daily with automated systems and real capital, and the honest picture is more nuanced than "buy low, sell high, collect profits."
+Let's get the uncomfortable question out of the way first: can you actually make money trading [prediction markets](/blog/what-are-prediction-markets)? The answer is yes -- but with caveats that most promotional content about these platforms conveniently ignores. We trade prediction markets daily with automated systems and real capital, and the honest picture is more nuanced than "buy low, sell high, collect profits."
 
 This article isn't a sales pitch. It's an honest accounting of where money is made, where it's lost, and what it actually takes to be profitable in this space.
 
@@ -53,7 +53,7 @@ We target exit thresholds based on net return after fees. When a position hits o
 
 ## The Fee Reality
 
-Fees are the silent killer of prediction market profitability. On [Kalshi](https://kalshi.com/sign-up/?referral=f2e21ad4-75b7-4ffb-bfcc-f2fb36e07b21&m=true&utm_source=masterpredictionmarkets&utm_medium=blog&utm_campaign=signup), fees typically run around 7 cents round-trip per contract. That means every trade starts in a 7-cent hole that you need to climb out of before you see any profit.
+Fees are the silent killer of prediction market profitability. On [Kalshi](https://kalshi.com/sign-up/?referral=f2e21ad4-75b7-4ffb-bfcc-f2fb36e07b21&m=true&utm_source=masterpredictionmarkets&utm_medium=blog&utm_campaign=signup), [fees](/blog/kalshi-fees-explained) typically run around 7 cents round-trip per contract. That means every trade starts in a 7-cent hole that you need to climb out of before you see any profit.
 
 Let's do the math on a concrete example. You buy a contract at $0.45 and your model says the true probability is 60%. The expected settlement value is $0.60. Your expected gross profit is $0.15 per contract. After the 7-cent round-trip fee, your expected net profit is roughly $0.08 per contract. That is still positive, but it's barely half of what it looked like before fees.
 

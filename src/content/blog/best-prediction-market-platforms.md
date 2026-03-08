@@ -99,7 +99,7 @@ Polymarket is ideal for high-volume traders who want deep liquidity on political
 
 ## PredictIt
 
-PredictIt launched in 2014 as an academic research project from Victoria University of Wellington, operating under a CFTC no-action letter. It was once the go-to platform for political prediction markets in the US, but its relevance has declined significantly as Kalshi and Polymarket have scaled.
+PredictIt launched in 2014 as an academic research project from Victoria University of Wellington, operating under a CFTC no-action letter. To understand [how Kalshi's full CFTC regulation differs](/blog/is-kalshi-legal) from PredictIt's limited authorization, see our legal guide. It was once the go-to platform for political prediction markets in the US, but its relevance has declined significantly as Kalshi and Polymarket have scaled.
 
 ### What Makes It Stand Out
 
@@ -157,7 +157,7 @@ The right platform depends on three things: where you live, how much you want to
 
 ### You Want Maximum Liquidity on Political Markets
 
-**Go with Polymarket.** If you're trading five-figure positions on elections or major geopolitical events, Polymarket has the deepest order books. You'll need to be comfortable with crypto wallets and USDC, and you should understand that there's no regulatory safety net.
+**Go with Polymarket.** If you're trading five-figure positions on elections or major geopolitical events, Polymarket has the deepest order books. Make sure you [understand Polymarket's legal status](/blog/is-polymarket-legal) first. You'll need to be comfortable with crypto wallets and USDC, and you should understand that there's no regulatory safety net.
 
 ### You Are Casual and Just Want to Bet on Elections
 
@@ -175,6 +175,6 @@ The right platform depends on three things: where you live, how much you want to
 
 The prediction market ecosystem in 2026 is in a fundamentally different place than it was even two years ago. Kalshi has expanded into weather, economics, and crypto price markets that didn't exist before. Polymarket has proven that crypto-native markets can achieve real institutional-scale liquidity. PredictIt is fading but still functional. And Metaculus continues to quietly produce some of the best crowd-sourced forecasts available anywhere.
 
-If you can't decide between the top two, our [Kalshi vs Polymarket head-to-head comparison](/blog/kalshi-vs-polymarket-which-platform-should-you-use) breaks down every difference that matters. For most traders reading this, the practical answer is straightforward: open a Kalshi account for regulated, diverse market access. If you also want exposure to high-liquidity political markets or need global access, add Polymarket. Use Metaculus to sharpen your forecasting skills. And unless you have a specific reason, skip PredictIt -- the fees are not worth it in 2026.
+If you can't decide between the top two, our [Kalshi vs Polymarket head-to-head comparison](/blog/kalshi-vs-polymarket-which-platform-should-you-use) breaks down every difference that matters. Trading on both platforms also opens up [cross-platform arbitrage opportunities](/blog/prediction-market-arbitrage-guide). For most traders reading this, the practical answer is straightforward: open a Kalshi account for regulated, diverse market access. If you also want exposure to high-liquidity political markets or need global access, add Polymarket. Use Metaculus to sharpen your forecasting skills. And unless you have a specific reason, skip PredictIt -- the fees are not worth it in 2026.
 
 The best prediction market platform is ultimately the one that aligns with your goals, your risk tolerance, and your jurisdiction. Browse [live odds across all platforms](/odds) to see what's currently available. But the good news is that the options have never been better.

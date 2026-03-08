@@ -21,7 +21,7 @@ Arbitrage in [prediction markets](/blog/what-are-prediction-markets) is the clos
 
 Arbitrage is the simultaneous purchase and sale of equivalent contracts at different prices to capture a risk-free profit. In prediction markets, this most commonly occurs when the same event is listed on both [Kalshi](https://kalshi.com/sign-up/?referral=f2e21ad4-75b7-4ffb-bfcc-f2fb36e07b21&m=true&utm_source=masterpredictionmarkets&utm_medium=blog&utm_campaign=signup) and [Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=blog&utm_campaign=signup) at different prices.
 
-The basic logic: if a YES [event contract](/blog/what-are-event-contracts) on an event trades at $0.55 on Kalshi and $0.60 on Polymarket, or if you can buy YES on Kalshi for $0.55 and NO on Polymarket for $0.35 (implying YES at $0.65), the price difference creates an opportunity. If the prices on both platforms for a YES and the equivalent NO sum to less than $1.00 (after fees), you can profit.
+The basic logic: if a YES [event contract](/blog/what-are-event-contracts) on an event trades at $0.55 on Kalshi and $0.60 on Polymarket, or if you can buy YES on Kalshi for $0.55 and NO on Polymarket for $0.35 ([implying](/blog/how-to-calculate-implied-probability-prediction-markets) YES at $0.65), the price difference creates an opportunity. If the prices on both platforms for a YES and the equivalent NO sum to less than $1.00 (after fees), you can profit.
 
 Why do these discrepancies exist? Different platforms have different participant pools, different [fee structures](/blog/kalshi-fees-explained), different liquidity profiles, and different information propagation speeds. A news event might reprice a contract on Polymarket (which has deeper liquidity and faster-moving crypto-native traders) before Kalshi's order book adjusts. Or vice versa -- Kalshi traders with domain expertise in weather or economics might price those contracts more accurately while Polymarket lags.
 
@@ -148,7 +148,7 @@ Prediction market contracts tie up your capital until settlement, which could be
 
 ### Regulatory Risk
 
-You're operating across two platforms with very different regulatory statuses. [Kalshi is CFTC-regulated](/blog/is-kalshi-legal); Polymarket is not. If one platform faces regulatory action, freezes funds, or disputes a settlement, your "risk-free" profit is suddenly at risk. For more on these differences, see our [Kalshi vs Polymarket comparison](/blog/kalshi-vs-polymarket-which-platform-should-you-use).
+You're operating across two platforms with very different regulatory statuses. [Kalshi is CFTC-regulated](/blog/is-kalshi-legal); [Polymarket is not](/blog/is-polymarket-legal). If one platform faces regulatory action, freezes funds, or disputes a settlement, your "risk-free" profit is suddenly at risk. For more on these differences, see our [Kalshi vs Polymarket comparison](/blog/kalshi-vs-polymarket-which-platform-should-you-use).
 
 ## Is Arb Worth It?
 

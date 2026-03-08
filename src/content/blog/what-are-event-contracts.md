@@ -92,7 +92,7 @@ Some platforms offer contracts on game outcomes, award shows, and other entertai
 
 ## A Brief History: How We Got Here
 
-Event contracts existed in legal gray areas for years. Platforms like Intrade and PredictIt operated under limited regulatory frameworks or academic exemptions. The real breakthrough came when Kalshi received CFTC approval in 2020 to operate as a designated contract market (DCM) for event contracts.
+Event contracts existed in legal gray areas for years. Platforms like Intrade and PredictIt operated under limited regulatory frameworks or academic exemptions. The real breakthrough came when Kalshi [received CFTC approval](/blog/is-kalshi-legal) in 2020 to operate as a designated contract market (DCM) for event contracts.
 
 This was a watershed moment. It meant event contracts were recognized as legitimate financial instruments under US commodities law. It opened the door for regulated trading, proper fund segregation, and the kind of institutional trust that attracts real capital.
 
@@ -112,6 +112,6 @@ If you're interested in getting started, our [beginner's guide to prediction mar
 
 ## The Bottom Line
 
-Event contracts are probability instruments with binary payoffs, defined risk, and intuitive pricing. They're not a get-rich-quick vehicle -- [fees are real](/blog/kalshi-fees-explained), and mispricing edges are often slim. But for traders who think in probabilities, who want exposure to events without the complexity of traditional derivatives, and who appreciate the simplicity of "it either happens or it doesn't," event contracts represent one of the most interesting developments in retail trading in years. For strategies that work in this space, see our guide on [making money in prediction markets](/blog/prediction-markets-making-money).
+Event contracts are probability instruments with binary payoffs, defined risk, and intuitive pricing. They're not a get-rich-quick vehicle -- [fees are real](/blog/kalshi-fees-explained), and mispricing edges are often slim. But for traders who [think in probabilities](/blog/prediction-market-strategies-finding-edge-as-a-retail-trader), who want exposure to events without the complexity of traditional derivatives, and who appreciate the simplicity of "it either happens or it doesn't," event contracts represent one of the most interesting developments in retail trading in years. For strategies that work in this space, see our guide on [making money in prediction markets](/blog/prediction-markets-making-money).
 
 The asset class is still young. Liquidity is growing, new contract types are launching regularly, and the regulatory framework is solidifying. Getting familiar with event contracts now, while the market is still maturing, is a reasonable bet -- if you'll pardon the phrasing.

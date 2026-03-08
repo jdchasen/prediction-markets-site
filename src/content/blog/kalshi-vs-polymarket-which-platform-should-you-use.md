@@ -46,9 +46,9 @@ We trade actively on both. This isn't a surface-level overview pulled from marke
 
 This is the single most important difference between the two platforms, and it should be the first thing you evaluate.
 
-Kalshi is a designated contract market regulated by the Commodity Futures Trading Commission. That means segregated customer funds, audited settlement sources, defined dispute resolution processes, and real legal accountability. If Kalshi mishandles your funds or resolves a market incorrectly, you have a regulatory body to escalate to. For US-based traders putting meaningful capital into prediction markets, this isn't a nice-to-have -- it's a fundamental requirement.
+[Kalshi is a designated contract market](/blog/is-kalshi-legal) regulated by the Commodity Futures Trading Commission. That means segregated customer funds, audited settlement sources, defined dispute resolution processes, and real legal accountability. If Kalshi mishandles your funds or resolves a market incorrectly, you have a regulatory body to escalate to. For US-based traders putting meaningful capital into prediction markets, this isn't a nice-to-have -- it's a fundamental requirement.
 
-Polymarket operates outside of any regulatory framework. It's built on Polygon, an Ethereum Layer 2 network, and uses USDC as its settlement currency. There's no deposit insurance, no segregated accounts, and no government agency overseeing operations. Your funds sit in a smart contract, and if something goes wrong -- a dispute over market resolution, a platform shutdown, a regulatory crackdown -- you have limited recourse.
+[Polymarket operates outside of any regulatory framework](/blog/is-polymarket-legal). It's built on Polygon, an Ethereum Layer 2 network, and uses USDC as its settlement currency. There's no deposit insurance, no segregated accounts, and no government agency overseeing operations. Your funds sit in a smart contract, and if something goes wrong -- a dispute over market resolution, a platform shutdown, a regulatory crackdown -- you have limited recourse.
 
 ### What This Means in Practice
 
@@ -156,6 +156,6 @@ For most developers who want to build trading bots or automated strategies, Kals
 
 **Use both if:**
 - You're a US-based trader who wants Kalshi's regulatory safety and market diversity as your primary platform, but also wants access to Polymarket's deeper liquidity on major political events
-- You're looking for cross-platform arbitrage opportunities where the same event is priced differently on each exchange — use our [Arbitrage Scanner](/tools/arbitrage-scanner) to find them
+- You're looking for [cross-platform arbitrage opportunities](/blog/prediction-market-arbitrage-guide) where the same event is priced differently on each exchange — use our [Arbitrage Scanner](/tools/arbitrage-scanner) to find them
 
 If you're new to event contracts entirely, our [beginner's guide to prediction markets](/blog/what-are-prediction-markets) covers the fundamentals. For most US-based traders getting started with prediction markets, Kalshi is the safer and more practical starting point. The regulation, USD deposits, and broad market selection make it the lower-friction choice. Add Polymarket when you have a specific reason to -- whether that is liquidity, a market that only exists there, or a price discrepancy worth capturing. The two platforms complement each other well, and serious prediction market traders in 2026 should know their way around both. Browse [live odds across both platforms](/odds) to see the current landscape.

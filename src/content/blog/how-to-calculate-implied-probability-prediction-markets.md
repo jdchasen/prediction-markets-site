@@ -70,7 +70,7 @@ This is where many traders make their first costly mistake. The raw implied prob
 
 On Kalshi, you pay a 7% fee on net profits from winning trades. This means if you buy a contract at $0.50 and it settles at $1.00, your gross profit is $0.50 but your net profit is $0.50 × 0.93 = $0.465. You keep 93 cents of every dollar of profit.
 
-On [Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=blog&utm_campaign=signup), there are no explicit trading fees, so the breakeven probability equals the implied probability.
+On [Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=blog&utm_campaign=signup), there are no explicit trading fees, so the breakeven probability equals the implied probability. See our [Kalshi vs Polymarket comparison](/blog/kalshi-vs-polymarket-which-platform-should-you-use) for more on how fee differences affect which platform is cheaper for your trades.
 
 ### Breakeven Probability Formula (Kalshi)
 

@@ -29,11 +29,11 @@ We trade on Kalshi every day. Not a few casual bets here and there -- we run aut
 
 Kalshi is an event contract exchange. You buy and sell binary [event contracts](/blog/what-are-event-contracts) that pay out $1 if an event happens, and $0 if it doesn't. The price of a contract reflects the market's [implied probability](/blog/how-to-calculate-implied-probability-prediction-markets) of that event occurring. If you buy a contract at 35 cents, you're effectively saying there's a greater than 35% chance the event happens. If it does, you collect $1 per contract. If it doesn't, you lose your 35-cent stake.
 
-This is the same fundamental mechanic as other prediction markets, but Kalshi has one critical differentiator: it's regulated by the Commodity Futures Trading Commission. That matters. It means your funds are held in segregated accounts, the exchange follows real compliance rules, and you have legal recourse if something goes wrong. For US-based traders, this is the single most important factor when choosing a prediction market.
+This is the same fundamental mechanic as other [prediction markets](/blog/what-are-prediction-markets), but Kalshi has one critical differentiator: it's regulated by the Commodity Futures Trading Commission. That matters. It means your funds are held in segregated accounts, the exchange follows real compliance rules, and you have legal recourse if something goes wrong. For US-based traders, this is the single most important factor when choosing a prediction market.
 
 ## CFTC Regulation: Why It Matters
 
-Unregulated prediction markets -- including popular crypto-based platforms like [Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=blog&utm_campaign=signup) -- carry counterparty risk that most traders underestimate. Funds can be frozen, markets can be resolved incorrectly with no appeal, and you have no regulatory body to escalate to. Kalshi operates under CFTC oversight, which means it must comply with capital requirements, audit standards, and dispute resolution processes.
+Unregulated prediction markets -- including popular crypto-based platforms like [Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=blog&utm_campaign=signup) -- carry counterparty risk that most traders underestimate. Funds can be frozen, markets can be resolved incorrectly with no appeal, and you have no regulatory body to escalate to. Kalshi operates under CFTC oversight, which means it must comply with capital requirements, audit standards, and dispute resolution processes. We cover the [full details of Kalshi's legal framework](/blog/is-kalshi-legal) in a separate guide.
 
 In practice, this means your deposits are protected, market resolution rules are clearly defined in advance, and the exchange can't simply change the rules after the fact. For anyone trading with meaningful capital, this isn't a nice-to-have. It's a requirement.
 
@@ -155,7 +155,7 @@ Liquidity on Kalshi is a mixed bag, and being honest about this matters more tha
 
 When liquidity is thin, bid-ask spreads widen, and you either have to cross the spread (paying taker fees on an already wide spread) or place a maker order and wait. For time-sensitive strategies, this can mean missed opportunities.
 
-The good news is that liquidity has been on a clear upward trajectory. The platform is growing, more traders are joining, and Kalshi has been actively adding market maker partnerships. Compared to where things stood in 2024, the improvement is substantial.
+The good news is that liquidity has been on a clear upward trajectory. The platform is growing, more traders are joining, and Kalshi has been actively adding market maker partnerships. The improving liquidity on both Kalshi and Polymarket also creates [cross-platform arbitrage opportunities](/blog/prediction-market-arbitrage-guide). Compared to where things stood in 2024, the improvement is substantial.
 
 ## Deposits and Withdrawals
 
