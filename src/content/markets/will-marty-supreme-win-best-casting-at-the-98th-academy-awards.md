@@ -3,8 +3,8 @@ title: "Will Marty Supreme win Best Casting at the 98th Academy Awards?"
 description: "Will Marty Supreme win Best Casting at the 98th Academy Awards? Odds: 4.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Marty Supreme win Best Casting at the 98th Academy Awards?"
 category: "entertainment"
-status: "active"
-lastUpdated: 2026-03-07
+status: "settled"
+lastUpdated: 2026-03-08
 tags: ["entertainment", "polymarket"]
 polymarketYes: 4.2
 polymarketNo: 95.8

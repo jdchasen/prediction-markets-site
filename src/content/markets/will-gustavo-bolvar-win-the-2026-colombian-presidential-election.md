@@ -4,14 +4,13 @@ description: "Will Gustavo Bolívar win the 2026 Colombian presidential election
 marketQuestion: "Will Gustavo Bolívar win the 2026 Colombian presidential election?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-03-07
+lastUpdated: 2026-03-08
 expiryDate: 2026-06-21
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.1
 polymarketNo: 99.9
-polymarketVolume: 964388
+polymarketVolume: 967985
 polymarketUrl: "https://polymarket.com/event/will-gustavo-bolvar-win-the-2026-colombian-presidential-election"
-analysisDate: 2026-03-07
 ---
 
 The market assigns near-zero probability to Gustavo Bolívar, the leftist senator and novelist, capturing Colombia's presidency in 2026, reflecting his limited national political infrastructure and the crowded field of candidates on the left competing for Gustavo Petro's coalition support.

@@ -3,8 +3,8 @@ title: "Will 1250 or more tornadoes occur in the United States in 2026?"
 description: "Will 1250 or more tornadoes occur in the United States in 2026? Odds: 36.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will 1250 or more tornadoes occur in the United States in 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-07
+status: "settled"
+lastUpdated: 2026-03-08
 expiryDate: 2027-01-10
 tags: ["politics", "polymarket"]
 polymarketYes: 36.0

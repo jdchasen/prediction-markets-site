@@ -3,8 +3,8 @@ title: "Will Big AI be out as #1 Free App in the US Apple Store by March 9?"
 description: "Will Big AI be out as #1 Free App in the US Apple Store by March 9? Odds: 67.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Big AI be out as #1 Free App in the US Apple Store by March 9?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-07
+status: "settled"
+lastUpdated: 2026-03-08
 expiryDate: 2026-04-03
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 67.0

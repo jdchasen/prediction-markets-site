@@ -3,8 +3,8 @@ title: "Will Unit launch a token by December 31, 2027?"
 description: "Will Unit launch a token by December 31, 2027? Odds: 53.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Unit launch a token by December 31, 2027?"
 category: "crypto"
-status: "active"
-lastUpdated: 2026-03-07
+status: "settled"
+lastUpdated: 2026-03-08
 expiryDate: 2028-01-01
 tags: ["crypto", "polymarket"]
 polymarketYes: 53.0

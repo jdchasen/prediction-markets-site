@@ -3,8 +3,8 @@ title: "Will ChatGPT be back in as the #1 Free App in the US Apple Store by Marc
 description: "Will ChatGPT be back in as the #1 Free App in the US Apple Store by March 7? Odds: 2.3% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will ChatGPT be back in as the #1 Free App in the US Apple Store by March 7?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-07
+status: "settled"
+lastUpdated: 2026-03-08
 expiryDate: 2026-03-15
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 2.3

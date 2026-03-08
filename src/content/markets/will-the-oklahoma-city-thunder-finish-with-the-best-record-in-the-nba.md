@@ -4,13 +4,12 @@ description: "Will the Oklahoma City Thunder finish with the best record in the 
 marketQuestion: "Will the Oklahoma City Thunder finish with the best record in the NBA?"
 category: "sports"
 status: "active"
-lastUpdated: 2026-03-07
+lastUpdated: 2026-03-08
 tags: ["polymarket", "sports"]
 polymarketYes: 70.5
 polymarketNo: 29.4
-polymarketVolume: 96462
+polymarketVolume: 96517
 polymarketUrl: "https://polymarket.com/event/will-the-oklahoma-city-thunder-finish-with-the-best-record-in-the-nba"
-analysisDate: 2026-03-07
 ---
 
 # Oklahoma City Thunder Best Record Analysis

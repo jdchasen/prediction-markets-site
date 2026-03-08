@@ -1,17 +1,16 @@
 ---
 title: "Metamask FDV above $700M one day after launch?"
-description: "Metamask FDV above $700M one day after launch? Odds: 35.4% YES on Polymarket. See live prices and trade this market."
+description: "Metamask FDV above $700M one day after launch? Odds: 34.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Metamask FDV above $700M one day after launch?"
 category: "crypto"
 status: "active"
-lastUpdated: 2026-03-07
+lastUpdated: 2026-03-08
 expiryDate: 2027-01-01
 tags: ["crypto", "polymarket"]
-polymarketYes: 35.4
-polymarketNo: 64.6
-polymarketVolume: 968615
+polymarketYes: 34.2
+polymarketNo: 65.8
+polymarketVolume: 969010
 polymarketUrl: "https://polymarket.com/event/metamask-fdv-above-700m-one-day-after-launch"
-analysisDate: 2026-03-07
 ---
 
 The market pricing MetaMask's fully diluted valuation at 35% odds of exceeding $700M reflects significant uncertainty around ConsenSys's token launch plans, which remain unconfirmed despite years of speculation about potential airdrops and tokenization of its flagship wallet product serving over 30 million monthly active users.

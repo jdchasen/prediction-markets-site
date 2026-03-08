@@ -4,14 +4,13 @@ description: "Will Kendrick Lamar have the greatest number of monthly Spotify li
 marketQuestion: "Will Kendrick Lamar have the greatest number of monthly Spotify listeners this month?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-03-07
+lastUpdated: 2026-03-08
 expiryDate: 2026-03-31
 tags: ["politics", "polymarket"]
 polymarketYes: 0.1
 polymarketNo: 99.9
-polymarketVolume: 9607
+polymarketVolume: 9613
 polymarketUrl: "https://polymarket.com/event/will-kendrick-lamar-have-the-greatest-number-of-monthly-spotify-listeners-this-month-731"
-analysisDate: 2026-03-07
 ---
 
 This market is severely mislabeled as "politics" when it tracks a music streaming metric, creating confusion about whether traders understand the actual resolution criteria. The 0.1% YES odds suggest the market has priced in an extremely low probability that Kendrick Lamar will lead Spotify's monthly listener rankings through March 31, 2026, but the categorization error raises questions about market integrity and whether this reflects genuine price discovery or administrative negligence.

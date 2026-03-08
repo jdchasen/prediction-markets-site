@@ -1,17 +1,16 @@
 ---
 title: "Israel strike on Damascus by March 31, 2026?"
-description: "Israel strike on Damascus by March 31, 2026? Odds: 16.5% YES on Polymarket. See live prices and trade this market."
+description: "Israel strike on Damascus by March 31, 2026? Odds: 13.6% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Israel strike on Damascus by March 31, 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-03-07
+lastUpdated: 2026-03-08
 expiryDate: 2026-03-31
 tags: ["politics", "polymarket"]
-polymarketYes: 16.5
-polymarketNo: 83.5
-polymarketVolume: 98316
+polymarketYes: 13.6
+polymarketNo: 86.5
+polymarketVolume: 99025
 polymarketUrl: "https://polymarket.com/event/israel-strike-on-damascus-by-march-31-2026"
-analysisDate: 2026-03-07
 ---
 
 Traders are pricing a roughly one-in-six chance of an Israeli military strike on Damascus within the next 14 months, reflecting ongoing tensions around Syrian weapons proliferation and Iranian military infrastructure, though the odds suggest this remains a tail-risk scenario rather than a base case expectation.

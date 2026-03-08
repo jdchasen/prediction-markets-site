@@ -3,8 +3,8 @@ title: "Will Sirāt win Best Sound at the 98th Academy Awards?"
 description: "Will Sirāt win Best Sound at the 98th Academy Awards? Odds: 4.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Sirāt win Best Sound at the 98th Academy Awards?"
 category: "entertainment"
-status: "active"
-lastUpdated: 2026-03-07
+status: "settled"
+lastUpdated: 2026-03-08
 expiryDate: 2026-03-15
 tags: ["entertainment", "polymarket"]
 polymarketYes: 4.9

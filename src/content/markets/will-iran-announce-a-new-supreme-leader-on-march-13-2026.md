@@ -3,8 +3,8 @@ title: "Will Iran announce a new supreme leader on March 13, 2026?"
 description: "Will Iran announce a new supreme leader on March 13, 2026? Odds: 5.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Iran announce a new supreme leader on March 13, 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-07
+status: "settled"
+lastUpdated: 2026-03-08
 expiryDate: 2026-03-31
 tags: ["politics", "polymarket"]
 polymarketYes: 5.5

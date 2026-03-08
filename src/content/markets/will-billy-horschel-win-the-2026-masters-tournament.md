@@ -4,14 +4,13 @@ description: "Will Billy Horschel win the 2026 Masters tournament? Odds: 0.4% YE
 marketQuestion: "Will Billy Horschel win the 2026 Masters tournament?"
 category: "sports"
 status: "active"
-lastUpdated: 2026-03-07
+lastUpdated: 2026-03-08
 expiryDate: 2026-04-13
 tags: ["polymarket", "sports"]
 polymarketYes: 0.4
 polymarketNo: 99.7
-polymarketVolume: 96041
+polymarketVolume: 97423
 polymarketUrl: "https://polymarket.com/event/will-billy-horschel-win-the-2026-masters-tournament"
-analysisDate: 2026-03-07
 ---
 
 # Billy Horschel 2026 Masters Analysis

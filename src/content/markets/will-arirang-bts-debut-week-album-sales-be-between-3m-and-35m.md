@@ -1,17 +1,16 @@
 ---
 title: "Will 'Arirang' - BTS debut week album sales be between 3m and 3.5m?"
-description: "Will 'Arirang' - BTS debut week album sales be between 3m and 3.5m? Odds: 2.9% YES on Polymarket. See live prices and trade this market."
+description: "Will 'Arirang' - BTS debut week album sales be between 3m and 3.5m? Odds: 3.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will 'Arirang' - BTS debut week album sales be between 3m and 3.5m?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-03-07
+lastUpdated: 2026-03-08
 expiryDate: 2026-03-20
 tags: ["politics", "polymarket"]
-polymarketYes: 2.9
-polymarketNo: 97.2
-polymarketVolume: 9940
+polymarketYes: 3.0
+polymarketNo: 97.0
+polymarketVolume: 9989
 polymarketUrl: "https://polymarket.com/event/will-arirang-bts-debut-week-album-sales-be-between-3m-and-3pt5m"
-analysisDate: 2026-03-07
 ---
 
 # Analysis

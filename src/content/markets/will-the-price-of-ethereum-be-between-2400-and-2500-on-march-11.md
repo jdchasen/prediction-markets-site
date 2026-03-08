@@ -3,8 +3,8 @@ title: "Will the price of Ethereum be between $2,400 and $2,500 on March 11?"
 description: "Will the price of Ethereum be between $2,400 and $2,500 on March 11? Odds: 1.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the price of Ethereum be between $2,400 and $2,500 on March 11?"
 category: "crypto"
-status: "active"
-lastUpdated: 2026-03-07
+status: "settled"
+lastUpdated: 2026-03-08
 expiryDate: 2026-03-11
 tags: ["crypto", "ethereum", "polymarket"]
 polymarketYes: 1.1

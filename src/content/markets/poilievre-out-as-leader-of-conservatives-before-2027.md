@@ -1,17 +1,17 @@
 ---
 title: "Poilievre out as leader of Conservatives before 2027?"
-description: "Poilievre out as leader of Conservatives before 2027? Odds: 29.5% YES on Polymarket. See live prices and trade this market."
+description: "Poilievre out as leader of Conservatives before 2027? Odds: 18.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Poilievre out as leader of Conservatives before 2027?"
 category: "politics"
-status: "settled"
-lastUpdated: 2026-03-07
+status: "active"
+lastUpdated: 2026-03-08
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 29.5
-polymarketNo: 70.5
-polymarketVolume: 95771
+polymarketYes: 18.0
+polymarketNo: 82.0
+polymarketVolume: 95897
 polymarketUrl: "https://polymarket.com/event/poilievre-out-as-leader-of-conservatives-before-2027"
-analysisDate: 2026-03-07
+analysisDate: 2026-03-08
 ---
 
 # Poilievre Leadership Market Analysis
@@ -20,35 +20,33 @@ analysisDate: 2026-03-07
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 29.5% | 70.5% | $96K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 18.0% | 82.0% | $96K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The market prices roughly a 30% chance that Pierre Poilievre exits as Conservative Party leader before year-end 2026, reflecting moderate but meaningful uncertainty about his tenure despite the party's strong electoral positioning. This matters immediately because Canada's next federal election is due by October 2025, making the 14-month window after that critical for assessing whether Poilievre can convert opposition advantage into government and maintain party unity through a potential transition.
+The 18% probability reflects moderate confidence that Pierre Poilievre will remain Conservative Party leader through 2026, suggesting traders see meaningful but not overwhelming risk of his departure before the next federal election cycle concludes. This matters immediately because Canada's political landscape is shifting—Justin Trudeau's resignation announcement in January 2025 has accelerated the timeline for a potential election, which could force a leadership reckoning within the Conservative Party sooner than expected.
 
-The bull case for YES (removal before 2027) rests on Poilievre's history of internal party friction and the Conservatives' track record of leadership instability. If the Conservatives lose the 2025 election—particularly if they underperform polling expectations—membership pressure to replace him could intensify rapidly; Stephen Harper faced similar dynamics after 2008. Additionally, Poilievre's harder ideological edges and sometimes-inflammatory rhetoric have created distance from moderate suburban voters in key ridings, and a defeat could trigger the recriminations that typically follow Conservative losses. Finally, the party's kingmakers and donor class retain significant leverage to force out an underperforming leader, as occurred with previous leaders.
+The bull case for Poilievre's removal centers on electoral performance and internal party dynamics. If the Conservatives underperform in a snap election called before mid-2025 (which is now plausible given Liberal leadership turmoil), grassroots pressure could mount for change, particularly from the party's establishment wing skeptical of his populist messaging. Additionally, a prolonged period without a federal election win could erode caucus support—Conservative MPs may grow restless if Poilievre fails to capitalize on a weakened Liberal government. The bear case argues Poilievre's grip on the party is firm: he controls the party apparatus, has substantial grassroots backing, and faces no credible internal challenger. Even modest improvements in polling or a Conservative electoral victory would eliminate any meaningful removal scenario, making the 18% odds potentially generous.
 
-The bear case for NO (he stays through 2026) is substantially stronger given current fundamentals. The Conservatives hold a consistent 10-15 point polling lead over the Liberals, with Poilievre personally outpacing Justin Trudeau on favorability metrics. A federal election in late 2025 would very likely produce a Conservative government, eliminating the primary trigger for his removal. Even in a minority government scenario, Poilievre would retain leadership legitimacy. The timeline is also tight—party constitution changes and nomination procedures create institutional friction against mid-term removals. The 30% odds likely overweight tail-risk scenarios (landslide loss, major scandal) relative to base-case trajectory.
-
-Key catalysts include the federal election outcome in October 2025, which will define whether Poilievre retains legitimacy as a winner, and any Conservative caucus revolts or high-profile defections during that campaign period. Watch for early 2025 polling shifts toward the Liberals, major gaffes during the campaign, and private reports of donor dissatisfaction. Post-election, if Poilievre forms government, his leadership becomes essentially secure for this market; if he loses unexpectedly, betting YES would spike immediately as internal challenges surface.
+Key catalysts include the timing of the next federal election (currently scheduled for October 2025, but likely earlier given Trudeau's departure), quarterly polling trends through spring 2025, and any major Conservative caucus rebellions. Watch specifically for third-quarter 2025 post-election data—if Conservatives win decisively, this market should crash toward 2-3%. Conversely, if they lose despite Liberal disarray, expect sharp upward movement in YES odds within weeks as media narratives shift toward leadership accountability.
 
 ## Related Markets
 
 - [Will Jesus Christ return before GTA VI?](/odds/will-jesus-christ-return-before-gta-vi) — 48% YES
 - [Will the next Prime Minister of Hungary be László Toroczkai?](/odds/will-the-next-prime-minister-of-hungary-be-lszl-toroczkai) — 1% YES
-- [Trump-Denmark Greenland deal signed by March 31?](/odds/trump-denmark-greenland-deal-signed-by-march-31) — 2% YES
+- [Trump-Denmark Greenland deal signed by March 31?](/odds/trump-denmark-greenland-deal-signed-by-march-31) — 3% YES
 
 ## Frequently Asked Questions
 
-### What specific triggers could cause Conservative MPs or members to move against Poilievre within the market window?
+### What specific internal triggers could force Poilievre's removal before year-end 2025?
 
-A narrow election loss or major underperformance relative to polling (losing 20+ seats unexpectedly), a significant personal scandal, or documented caucus fracture over policy like housing or immigration would most likely trigger removal efforts, though the 14-month post-election window limits logistical opportunity.
+A narrow election loss despite favorable conditions, significant caucus defections, or a major scandal would likely trigger formal or informal challenges; currently none are evident, which explains the low baseline odds.
 
-### How does this market price the scenario where Poilievre wins but forms a weak minority government?
+### How does the February 2025 Liberal leadership race timeline affect this market?
 
-Minority governments typically don't trigger leadership removal in the first 12-14 months unless performance is catastrophic; this market likely assigns only 5-8% probability to removal under that scenario, making YES odds dependent heavily on Poilievre losing the election outright.
+A strong new Liberal leader or improved party polling could delay or prevent an early election, extending Poilievre's runway and reducing removal pressure, while a chaotic transition could force an election where Conservative performance becomes the decisive factor.
 
-### Would Poilievre voluntarily stepping down count as YES for this contract?
+### Are there any scheduled Conservative Party review mechanisms that could accelerate a leadership vote?
 
-Confirmation depends on exact contract language, but most prediction markets on "leader out" resolve YES for both forced removals and voluntary resignations, making this relevant if personal health, family, or political exhaustion prompts him to step aside before end-2026.
+The Conservative Party constitution allows for automatic leadership reviews at conventions, typically held every two years, with the next major opportunity in 2026; however, extraordinary reviews require significant member support and are unlikely absent catastrophic electoral failure.
 

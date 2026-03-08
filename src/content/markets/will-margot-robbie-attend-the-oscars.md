@@ -3,8 +3,8 @@ title: "Will Margot Robbie attend the Oscars?"
 description: "Will Margot Robbie attend the Oscars? Odds: 53.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Margot Robbie attend the Oscars?"
 category: "entertainment"
-status: "active"
-lastUpdated: 2026-03-07
+status: "settled"
+lastUpdated: 2026-03-08
 expiryDate: 2026-03-15
 tags: ["entertainment", "polymarket"]
 polymarketYes: 53.5

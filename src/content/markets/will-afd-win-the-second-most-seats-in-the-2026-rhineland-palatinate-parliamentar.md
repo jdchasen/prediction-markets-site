@@ -3,8 +3,8 @@ title: "Will AfD win the second most seats in the 2026 Rhineland-Palatinate parl
 description: "Will AfD win the second most seats in the 2026 Rhineland-Palatinate parliamentary elections? Odds: 2.5% YES on Polymarket. See live prices and trade this mar..."
 marketQuestion: "Will AfD win the second most seats in the 2026 Rhineland-Palatinate parliamentary elections?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-07
+status: "settled"
+lastUpdated: 2026-03-08
 expiryDate: 2026-03-22
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 2.5

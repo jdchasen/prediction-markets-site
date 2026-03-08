@@ -3,8 +3,8 @@ title: "Will Atalanta win the 2025–26 Champions League?"
 description: "Will Atalanta win the 2025–26 Champions League? Odds: 1.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Atalanta win the 2025–26 Champions League?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-03-07
+status: "settled"
+lastUpdated: 2026-03-08
 expiryDate: 2026-05-31
 tags: ["polymarket", "sports"]
 polymarketYes: 1.4

@@ -3,8 +3,8 @@ title: "US x Iran ceasefire by April 30?"
 description: "US x Iran ceasefire by April 30? Odds: 49.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "US x Iran ceasefire by April 30?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-07
+status: "settled"
+lastUpdated: 2026-03-08
 tags: ["politics", "polymarket"]
 polymarketYes: 49.0
 polymarketNo: 51.0
