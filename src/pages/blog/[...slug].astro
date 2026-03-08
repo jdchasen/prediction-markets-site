@@ -7,7 +7,6 @@ import NewsletterForm from '../../components/NewsletterForm.astro';
 import ArticleCard from '../../components/ArticleCard.astro';
 import SocialShare from '../../components/SocialShare.astro';
 import AdUnit from '../../components/AdUnit.astro';
-import InlineCTA from '../../components/InlineCTA.astro';
 import { getCollection, render } from 'astro:content';
 
 export async function getStaticPaths() {
@@ -245,11 +244,6 @@ const reviewSchema = post.data.review ? {
       <Content />
     </div>
 
-    <!-- Hidden InlineCTA template injected after 2nd H2 via script -->
-    <template id="inline-cta-template">
-      <InlineCTA platform={affiliatePlatform || 'generic'} />
-    </template>
-
     <style>
       .prose :global(table) {
         display: block;
@@ -347,15 +341,4 @@ const reviewSchema = post.data.review ? {
     </section>
   )}
 
-  <script>
-    const template = document.getElementById('inline-cta-template') as HTMLTemplateElement;
-    const content = document.getElementById('blog-content');
-    if (template && content) {
-      const h2s = content.querySelectorAll('h2');
-      if (h2s.length >= 2) {
-        const clone = template.content.cloneNode(true);
-        h2s[1].parentNode?.insertBefore(clone, h2s[1]);
-      }
-    }
-  </script>
 </BaseLayout>
