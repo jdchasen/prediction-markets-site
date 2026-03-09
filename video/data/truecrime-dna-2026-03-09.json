@@ -1,0 +1,38 @@
+{
+  "date": "2026-03-09",
+  "channel": "truecrime",
+  "category": "dna",
+  "hookLine": "A killer kissed his victim before strangling her",
+  "cards": [
+    {
+      "title": "A Mother Alone",
+      "stat": "Age 32",
+      "subtitle": "January 30, 1976 \u2014 Hermosa Beach, California",
+      "emoji": "\ud83d\udc64",
+      "backgroundImage": "images/truecrime/karen-klaas-1976-ca-card-0-hermosa-beach-california.jpg"
+    },
+    {
+      "title": "The Kiss",
+      "stat": "Zero Witnesses",
+      "subtitle": "An intruder with a bizarre signature",
+      "emoji": "\ud83e\ude78",
+      "backgroundImage": "images/truecrime/karen-klaas-1976-ca-card-1-manhattan-beach-pier.jpg"
+    },
+    {
+      "title": "The Evidence Box",
+      "stat": "22 Years",
+      "subtitle": "DNA from saliva sat waiting for technology to catch up",
+      "emoji": "\ud83e\uddec",
+      "backgroundImage": "images/truecrime/karen-klaas-1976-ca-card-2-forensic-dna-analysis.png"
+    },
+    {
+      "title": "A Neighbor All Along",
+      "stat": "Solved 1998",
+      "subtitle": "Kenneth Troyer had lived four blocks away",
+      "emoji": "\u2696\ufe0f",
+      "backgroundImage": "images/truecrime/karen-klaas-1976-ca-card-3-los-angeles-superior-court.png"
+    }
+  ],
+  "ctaLine": "Follow Cold Trail for cases the mainstream forgot",
+  "voiceover": "In January nineteen seventy six, police found saliva on a murder victim's body. The killer had kissed her before strangling her to death.\n\nKaren Klaas was a thirty two year old mother, alone in her Hermosa Beach apartment while her son visited his father.\n\nAn intruder entered through a window, sexually assaulted and strangled her. He kissed her cheek before leaving.\n\nDetectives preserved the saliva evidence but had no way to analyze it. The case sat cold for twenty two years.\n\nIn nineteen ninety eight, DNA technology finally matched the sample to Kenneth Troyer, a neighbor who'd lived four blocks away.\n\nFollow Cold Trail for cases the mainstream forgot."
+}

@@ -1,14 +1,21 @@
 #!/usr/bin/env python3
 """
-Generate True Crime Video Data — uses Claude's knowledge of historic crime cases
-to create investigative-style short-form scripts. Focuses on obscure/lesser-known
-cases, cold cases solved by DNA, and wrongful convictions.
+Generate True Crime Video Data — single-case deep dive format.
+
+Uses Claude's knowledge of historic crime cases to create investigative-style
+short-form scripts. Each video covers ONE case in depth with 4 narrative beats:
+  1. The Victim (who, when, where)
+  2. The Crime (what happened)
+  3. The Investigation (evidence, suspects, forensics)
+  4. The Resolution or Open Question
+
+Focuses on obscure/lesser-known cases, cold cases solved by DNA,
+and wrongful convictions.
 
 Usage:
   python scripts/generate_truecrime_video.py                    # generate JSON
   python scripts/generate_truecrime_video.py --render            # generate + render
   python scripts/generate_truecrime_video.py --dry-run           # print JSON, don't save
-  python scripts/generate_truecrime_video.py --cards 4           # 4 cases instead of 3
   python scripts/generate_truecrime_video.py --category dna      # specific category
   python scripts/generate_truecrime_video.py --list-used         # show previously used cases
 
@@ -60,25 +67,25 @@ CATEGORY_WEIGHTS = {
 
 CATEGORY_DESCRIPTIONS = {
     "obscure": (
-        "Lesser-known historic criminal cases from the 1950s-2000s that most people "
+        "A lesser-known historic criminal case from the 1950s-2000s that most people "
         "have NEVER heard of. Regional crimes that didn't make national headlines. "
         "Unsolved mysteries from small towns. Cases with bizarre twists that fell "
         "through the cracks of media coverage. NOT famous serial killers."
     ),
     "dna": (
-        "Cold cases that were solved years or decades later through DNA evidence, "
+        "A cold case that was solved years or decades later through DNA evidence, "
         "genetic genealogy (like GEDmatch/CODIS), or forensic breakthroughs. "
         "Focus on the gap between the crime and the solve — the longer the better. "
         "Cases where the killer lived a normal life for decades before being caught."
     ),
     "wrongful": (
-        "Wrongful convictions where innocent people served years or decades in prison "
+        "A wrongful conviction where an innocent person served years or decades in prison "
         "before being exonerated. Focus on what went wrong — false confessions, "
         "bad forensic science, prosecutorial misconduct, eyewitness misidentification. "
         "Cases with DNA exonerations are ideal."
     ),
     "angle": (
-        "Fresh, lesser-known angles on famous cases. NOT retelling Bundy or Dahmer's "
+        "A fresh, lesser-known angle on a famous case. NOT retelling Bundy or Dahmer's "
         "story — instead cover: an unknown victim who was never identified, a piece "
         "of evidence that was overlooked, a surviving victim's untold story, a "
         "connection between cases that nobody talks about, or a wrongly accused "
@@ -98,10 +105,10 @@ def load_used_cases() -> list[str]:
     return []
 
 
-def save_used_case(case_ids: list[str]):
-    """Append case identifiers to the used cases log."""
+def save_used_case(case_id: str):
+    """Append a case identifier to the used cases log."""
     existing = load_used_cases()
-    existing.extend(case_ids)
+    existing.append(case_id)
     # Keep last 500 to prevent infinite growth
     existing = existing[-500:]
     USED_CASES_FILE.write_text(json.dumps({"cases": existing}, indent=2))
@@ -158,9 +165,8 @@ def generate_truecrime_json(
     target_date: date,
     category: str,
     used_cases: list[str],
-    num_cards: int = 3,
 ) -> dict:
-    """Use Claude to generate a true crime video script from its knowledge base."""
+    """Use Claude to generate a single-case deep-dive true crime video script."""
     date_str = target_date.strftime("%B %d, %Y")
     date_iso = target_date.isoformat()
     category_desc = CATEGORY_DESCRIPTIONS[category]
@@ -187,66 +193,104 @@ def generate_truecrime_json(
         "Do NOT fabricate or merge cases. Use real names, real dates, real locations."
     )
 
-    prompt = f"""Create a true crime short-form video for: {date_str}
+    prompt = f"""Create a single-case deep-dive true crime short for: {date_str}
 
-CATEGORY FOR THIS VIDEO: {category.upper()}
+CATEGORY: {category.upper()}
 {category_desc}
 
-Pick {num_cards} compelling cases from your knowledge that fit this category.
+Pick ONE compelling case and tell its full story across 4 narrative beats.
 {used_str}
 
+FORMAT: 4 cards telling ONE story — each card is a chapter of the same case:
+  Card 1: THE VICTIM — who they were, age, location, when they were last seen or found
+  Card 2: THE CRIME — what happened, the scene, the details that made it unusual
+  Card 3: THE INVESTIGATION — evidence, suspects, forensics, what went right or wrong
+  Card 4: THE RESOLUTION — how it ended (arrest, conviction, exoneration, or still unsolved)
+
+Each card needs:
+  - "title": Chapter heading (e.g. "A Teacher Who Never Came Home", "The DNA Match", "34 Years Later")
+  - "stat": Key number/fact for this beat (e.g. "Age 25", "Zero Witnesses", "Solved After 33 Years", "Still Unsolved")
+  - "subtitle": One-line context for this chapter
+  - "emoji": relevant emoji (🔍 🧬 ⚖️ 🚨 🔎 🏛️ 💀 🔬 👤 🩸 etc.)
+  - "imageQueries": list of 2-3 Wikipedia article titles to try for an inline image for THIS beat.
+    Each card should search for something relevant to its chapter:
+      Card 1 (victim): victim's full name, memorial/tribute page, their school/workplace
+      Card 2 (crime): the city or town, the street/neighborhood, a landmark near the scene
+      Card 3 (investigation): forensic technique used (e.g. "Genetic genealogy"), the police department or agency
+      Card 4 (resolution): perpetrator's full name (mugshots are public domain), the court case, the prison
+    Mugshots and public domain photos make the best images.
+
+Top-level fields:
+  - "caseId": unique identifier for tracking (e.g. "christy-mirack-1992-pa")
+  - "hookLine": cold open — the most dramatic moment of the case, under 10 words
+  - "ctaLine": "Follow for cases the mainstream forgot"
+  - "voiceover": the full narration (see structure below)
+
+VOICEOVER STRUCTURE — 6 paragraphs separated by \\n\\n:
+  Paragraph 1: HOOK — cold open, 1-2 sentences max. Creates an open loop.
+  Paragraph 2: THE VICTIM — 1-2 sentences. Who they were, humanize them briefly.
+  Paragraph 3: THE CRIME — 2 sentences max. Key facts only.
+  Paragraph 4: THE INVESTIGATION — 1-2 sentences. The critical evidence or failure.
+  Paragraph 5: THE RESOLUTION — 1-2 sentences. Land the twist or open question.
+  Paragraph 6: CTA — one sentence: "Follow Cold Trail for cases the mainstream forgot."
+
 RULES:
-1. Each card = one real historic case
-2. "hookLine" — dramatic but factual, under 8 words. e.g. "3 CASES NOBODY TALKS ABOUT"
-3. Each card needs:
-   - "title": Case name (victim or case name, ~5-8 words)
-   - "stat": Key number/fact (e.g. "Solved After 33 Years", "12 Years Wrongfully Imprisoned", "Body Never Found")
-   - "subtitle": One-line context (year, location, what happened)
-   - "emoji": relevant emoji (🔍 🧬 ⚖️ 🚨 🔎 🏛️ 💀 🔬 etc.)
-   - "caseId": A unique identifier for tracking (e.g. "doe-network-case-4567" or "green-river-unknown-victim-3")
-   - "imageQueries": A list of 4 Wikipedia article titles to try for background images, in priority order:
-     1. The perpetrator's full name (most likely to have a mugshot/photo on Wikipedia)
-     2. The case name as a Wikipedia article (e.g. "Murder of April Tinsley")
-     3. The victim's full name
-     4. The city or location name as a fallback (e.g. "Idaho Falls, Idaho")
-     Mugshots and court photos are public domain and make the best backgrounds.
-4. "voiceover" — connected narrative, paragraphs separated by \\n\\n
-   - Paragraph 1: Hook — one punchy sentence that creates an open loop
-   - Paragraphs 2-{num_cards+1}: One paragraph per card, building tension
-     * Lead with the victim as a person, not just a crime statistic
-     * Include at least one specific detail (date, age, location)
-     * End each card paragraph with an unresolved element when possible
-   - Last paragraph: CTA — "Subscribe for cases the mainstream missed."
-   - TOTAL = {num_cards + 2} paragraphs
-5. Keep total voiceover under 100 words (~40 seconds spoken)
-6. Written for SPEECH — use spoken numbers, flowing sentences
+1. Total voiceover: STRICTLY 110-130 words. This is CRITICAL — over 130 words makes the video too long.
+   Each paragraph should be 15-25 words. The CTA should be under 10 words.
+   Count your words carefully before responding.
+2. Written for SPEECH — use spoken numbers, flowing sentences
    NO lists, em-dashes, ellipses, or colons mid-sentence
+3. The hook paragraph should be the most gripping moment — NOT "today we're covering..."
+   Example: "In 1987, a hiker found a suitcase on the side of Highway 9. Inside was a woman no one has ever identified."
+4. Every detail must be REAL and verifiable
+5. Do NOT pick heavily-covered YouTube cases (no Bundy, Dahmer, Gacy, Zodiac, JonBenet unless "angle" category)
 
 OUTPUT FORMAT — respond with ONLY valid JSON, no markdown code fences:
 {{
   "date": "{date_iso}",
   "channel": "truecrime",
   "category": "{category}",
-  "hookLine": "DRAMATIC SHORT HOOK",
+  "caseId": "unique-case-identifier",
+  "hookLine": "COLD OPEN HOOK LINE",
   "cards": [
     {{
-      "title": "Case Title Here",
+      "title": "Chapter Title",
       "stat": "Key Stat",
-      "subtitle": "Year, location — what happened",
+      "subtitle": "Context line",
       "emoji": "🔍",
-      "caseId": "unique-case-identifier",
-      "imageQueries": ["Perpetrator Full Name", "Murder of Victim Name", "Victim Full Name", "City, State"]
+      "imageQueries": ["Victim Full Name", "Victim School or Workplace"]
+    }},
+    {{
+      "title": "Chapter Title",
+      "stat": "Key Stat",
+      "subtitle": "Context line",
+      "emoji": "🔍",
+      "imageQueries": ["City, State", "Neighborhood or Landmark"]
+    }},
+    {{
+      "title": "Chapter Title",
+      "stat": "Key Stat",
+      "subtitle": "Context line",
+      "emoji": "🔍",
+      "imageQueries": ["Forensic Technique", "Police Department"]
+    }},
+    {{
+      "title": "Chapter Title",
+      "stat": "Key Stat",
+      "subtitle": "Context line",
+      "emoji": "🔍",
+      "imageQueries": ["Perpetrator Full Name", "Court Case Name"]
     }}
   ],
-  "ctaLine": "Subscribe for cases the mainstream missed",
-  "voiceover": "Hook paragraph\\n\\nCard 1 paragraph\\n\\nCard 2 paragraph\\n\\nCard 3 paragraph\\n\\nCTA paragraph"
+  "ctaLine": "Follow Cold Trail for cases the mainstream forgot",
+  "voiceover": "Hook paragraph\\n\\nVictim paragraph\\n\\nCrime paragraph\\n\\nInvestigation paragraph\\n\\nResolution paragraph\\n\\nCTA paragraph"
 }}
 
 CRITICAL:
-- voiceover paragraph count MUST equal 1 + {num_cards} + 1 = {num_cards + 2}
-- Under 100 words total
-- Every case must be REAL and verifiable
-- Do NOT pick cases that have been heavily covered on YouTube (no Bundy, Dahmer, Gacy, Zodiac, JonBenet unless using the "angle" category with a genuinely fresh take)"""
+- voiceover MUST have exactly 6 paragraphs (hook + 4 beats + CTA)
+- STRICTLY 110-130 words total (count carefully)
+- ONE case, told in depth across 4 beats
+- Every fact must be REAL and verifiable"""
 
     client = anthropic.Anthropic()
     message = client.messages.create(
@@ -277,14 +321,13 @@ CRITICAL:
             print(f"ERROR: Missing required key '{key}' in generated data")
             sys.exit(1)
 
-    if len(data["cards"]) != num_cards:
-        print(f"WARNING: Expected {num_cards} cards, got {len(data['cards'])}")
+    if len(data["cards"]) != 4:
+        print(f"WARNING: Expected 4 cards, got {len(data['cards'])}")
 
     # Validate paragraph count
     paragraphs = [p for p in data["voiceover"].split("\n\n") if p.strip()]
-    expected = 1 + len(data["cards"]) + 1
-    if len(paragraphs) != expected:
-        print(f"WARNING: Voiceover has {len(paragraphs)} paragraphs, expected {expected}")
+    if len(paragraphs) != 6:
+        print(f"WARNING: Voiceover has {len(paragraphs)} paragraphs, expected 6")
 
     return data
 
@@ -292,18 +335,16 @@ CRITICAL:
 def fetch_images_for_data(data: dict) -> dict:
     """Fetch Wikipedia images for each card, trying multiple queries in priority order."""
     print("\nFetching images...")
+    case_id = data.get("caseId", "unknown")
     for i, card in enumerate(data.get("cards", [])):
         queries = card.get("imageQueries", [])
-        # Fallback to single imageQuery if present (backwards compat)
-        if not queries and card.get("imageQuery"):
-            queries = [card["imageQuery"]]
         if not queries:
             print(f"  Card {i+1}: no image queries provided")
             continue
 
         found = False
         for query in queries:
-            path = fetch_wikipedia_image(query, f"card-{i}-{query}")
+            path = fetch_wikipedia_image(query, f"{case_id}-card-{i}-{query}")
             if path:
                 card["backgroundImage"] = path
                 print(f"  Card {i+1}: {path} (from '{query}')")
@@ -315,17 +356,15 @@ def fetch_images_for_data(data: dict) -> dict:
         if not found:
             print(f"  Card {i+1}: no image found from any query")
 
-        # Remove image queries from output (not needed by renderer)
+        # Remove imageQueries from output (not needed by renderer)
         card.pop("imageQueries", None)
-        card.pop("imageQuery", None)
     return data
 
 
 def main():
     import argparse
 
-    parser = argparse.ArgumentParser(description="Generate true crime video data")
-    parser.add_argument("--cards", type=int, default=3, help="Number of cases (default: 3)")
+    parser = argparse.ArgumentParser(description="Generate true crime video data (single-case deep dive)")
     parser.add_argument("--date", help="Target date (YYYY-MM-DD)", default=None)
     parser.add_argument(
         "--category",
@@ -351,10 +390,9 @@ def main():
     target_date = date.fromisoformat(args.date) if args.date else date.today()
     category = pick_category(args.category)
 
-    print(f"Generating true crime video")
+    print(f"Generating true crime video (single-case deep dive)")
     print(f"  Date: {target_date.isoformat()}")
     print(f"  Category: {category}")
-    print(f"  Cards: {args.cards}")
     print("=" * 60)
 
     # Step 1: Load used cases for dedup
@@ -363,22 +401,17 @@ def main():
 
     # Step 2: Generate script via Claude
     print("\nGenerating script with Claude...")
-    data = generate_truecrime_json(target_date, category, used_cases, num_cards=args.cards)
+    data = generate_truecrime_json(target_date, category, used_cases)
 
+    case_id = data.get("caseId", "unknown")
+    print(f"  Case: {case_id}")
     print(f"  Hook: {data['hookLine']}")
-    print(f"  Cards: {len(data['cards'])}")
+    print(f"  Beats:")
     for i, card in enumerate(data["cards"]):
         print(f"    {i + 1}. {card.get('emoji', '🔍')} {card['title']} — {card['stat']}")
 
     # Step 3: Fetch images
     data = fetch_images_for_data(data)
-
-    # Step 4: Track used cases
-    new_case_ids = [card.get("caseId", card["title"]) for card in data["cards"]]
-
-    # Clean caseId from output (not needed by renderer)
-    for card in data["cards"]:
-        card.pop("caseId", None)
 
     # Validate and show voiceover
     paragraphs = data["voiceover"].split("\n\n")
@@ -391,7 +424,7 @@ def main():
         print(json.dumps(data, indent=2))
         return
 
-    # Step 5: Save JSON
+    # Step 4: Save JSON
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
     slug = f"truecrime-{category}-{target_date.isoformat()}"
     filename = f"{slug}.json"
@@ -401,11 +434,16 @@ def main():
 
     print(f"\nSaved: {output_path}")
 
-    # Step 6: Log used cases
-    save_used_case(new_case_ids)
-    print(f"  Logged {len(new_case_ids)} cases to used list")
+    # Step 5: Log used case
+    save_used_case(case_id)
+    print(f"  Logged case '{case_id}' to used list")
 
-    # Step 7: Optionally render
+    # Clean caseId from saved JSON (not needed by renderer)
+    data.pop("caseId", None)
+    with open(output_path, "w") as f:
+        json.dump(data, f, indent=2)
+
+    # Step 6: Optionally render
     if args.render:
         import subprocess
         print("\nRendering video...")

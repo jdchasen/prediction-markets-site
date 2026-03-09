@@ -187,21 +187,6 @@ export const TopicCard: React.FC<TopicCardProps> = ({
         </div>
       </div>
 
-      {/* Progress label */}
-      <div
-        style={{
-          position: "absolute",
-          top: 80,
-          fontFamily: BODY_FONT,
-          fontWeight: 700,
-          fontSize: 16,
-          color: "rgba(255,255,255,0.4)",
-          letterSpacing: "0.12em",
-          textTransform: "uppercase",
-        }}
-      >
-        {index + 1} OF {totalCards}
-      </div>
     </AbsoluteFill>
   );
 };

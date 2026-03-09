@@ -1,0 +1,36 @@
+{
+  "date": "2026-03-11",
+  "channel": "truecrime",
+  "category": "wrongful",
+  "hookLine": "He became the first death row inmate freed by DNA",
+  "cards": [
+    {
+      "title": "A Nine Year Old",
+      "stat": "Age 9",
+      "subtitle": "Dawn Hamilton disappeared from her Baltimore neighborhood",
+      "emoji": "\ud83d\udc64"
+    },
+    {
+      "title": "The Witness",
+      "stat": "5 Witnesses",
+      "subtitle": "Five people identified a man they'd never seen before",
+      "emoji": "\ud83d\udd0d",
+      "backgroundImage": "images/truecrime/kirk-bloodsworth-1984-md-card-1-baltimore-county-police-department.png"
+    },
+    {
+      "title": "Death Row",
+      "stat": "2 Years",
+      "subtitle": "Kirk Bloodsworth sentenced to death on circumstantial evidence",
+      "emoji": "\u2696\ufe0f",
+      "backgroundImage": "images/truecrime/kirk-bloodsworth-1984-md-card-2-maryland-state-penitentiary.jpg"
+    },
+    {
+      "title": "The Exoneration",
+      "stat": "9 Years",
+      "subtitle": "DNA testing proved he was innocent all along",
+      "emoji": "\ud83e\uddec"
+    }
+  ],
+  "ctaLine": "Follow Cold Trail for cases the mainstream forgot",
+  "voiceover": "In July nineteen eighty four, nine year old Dawn Hamilton was found dead in a wooded area near Baltimore. She had been sexually assaulted and beaten.\n\nKirk Bloodsworth, a former Marine with no criminal record, was arrested after five witnesses identified him from a composite sketch.\n\nNo physical evidence connected him to the crime. He was convicted on eyewitness testimony alone and sentenced to death.\n\nIn nineteen ninety three, newly available DNA testing excluded Bloodsworth completely. He became the first death row inmate exonerated by DNA evidence.\n\nHe served nine years for a murder he didn't commit. The real killer was identified in two thousand three through DNA.\n\nFollow Cold Trail for cases the mainstream forgot."
+}

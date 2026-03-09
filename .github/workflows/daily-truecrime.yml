@@ -2,8 +2,8 @@ name: Daily True Crime Video
 
 on:
   schedule:
-    # 14:00 UTC = 9:00 AM ET — post mid-morning for true crime audience
-    - cron: '0 14 * * 1-5'  # Weekdays only
+    # 21:00 UTC = 5:00 PM ET — post late afternoon when true crime audience is active
+    - cron: '0 21 * * 1-5'  # Weekdays only
   workflow_dispatch: # Allow manual trigger
 
 permissions:
@@ -67,11 +67,9 @@ jobs:
         working-directory: video
         if: ${{ env.YOUTUBE_TC_REFRESH_TOKEN != '' }}
         env:
-          YOUTUBE_TC_CLIENT_ID: ${{ secrets.YOUTUBE_TC_CLIENT_ID }}
-          YOUTUBE_TC_CLIENT_SECRET: ${{ secrets.YOUTUBE_TC_CLIENT_SECRET }}
+          YOUTUBE_CLIENT_ID: ${{ secrets.YOUTUBE_CLIENT_ID }}
+          YOUTUBE_CLIENT_SECRET: ${{ secrets.YOUTUBE_CLIENT_SECRET }}
           YOUTUBE_TC_REFRESH_TOKEN: ${{ secrets.YOUTUBE_TC_REFRESH_TOKEN }}
-          YOUTUBE_CLIENT_ID: ${{ secrets.YOUTUBE_TC_CLIENT_ID }}
-          YOUTUBE_CLIENT_SECRET: ${{ secrets.YOUTUBE_TC_CLIENT_SECRET }}
         run: npx tsx upload-youtube.ts --latest-truecrime
 
       - name: Post Twitter thread

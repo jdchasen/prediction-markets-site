@@ -1,0 +1,124 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" width="800" height="800">
+  <defs>
+    <!-- Near-black background with faint red undertone -->
+    <radialGradient id="bg" cx="50%" cy="45%" r="55%">
+      <stop offset="0%" style="stop-color:#120808"/>
+      <stop offset="100%" style="stop-color:#050202"/>
+    </radialGradient>
+
+    <!-- Blood gradient -->
+    <linearGradient id="blood" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#dc2626"/>
+      <stop offset="100%" style="stop-color:#7f1d1d"/>
+    </linearGradient>
+
+    <!-- Steel gradient for COLD text -->
+    <linearGradient id="steel" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#f4f4f5"/>
+      <stop offset="50%" style="stop-color:#a1a1aa"/>
+      <stop offset="100%" style="stop-color:#52525b"/>
+    </linearGradient>
+
+    <!-- Slash mark gradient -->
+    <linearGradient id="slashColor" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#991b1b"/>
+      <stop offset="50%" style="stop-color:#b91c1c"/>
+      <stop offset="100%" style="stop-color:#450a0a"/>
+    </linearGradient>
+
+    <!-- Red atmospheric glow behind text -->
+    <radialGradient id="atmo" cx="50%" cy="50%" r="40%">
+      <stop offset="0%" style="stop-color:#991b1b;stop-opacity:0.15"/>
+      <stop offset="100%" style="stop-color:#991b1b;stop-opacity:0"/>
+    </radialGradient>
+
+    <!-- Bottom fog -->
+    <radialGradient id="fog" cx="50%" cy="95%" r="45%">
+      <stop offset="0%" style="stop-color:#1a0505;stop-opacity:0.9"/>
+      <stop offset="100%" style="stop-color:#1a0505;stop-opacity:0"/>
+    </radialGradient>
+
+    <!-- Blood glow filter -->
+    <filter id="bloodGlow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="10" result="blur"/>
+      <feFlood flood-color="#dc2626" flood-opacity="0.35" result="color"/>
+      <feComposite in="color" in2="blur" operator="in" result="glow"/>
+      <feMerge>
+        <feMergeNode in="glow"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Heavy text shadow -->
+    <filter id="textShadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="6" stdDeviation="10" flood-color="#000" flood-opacity="0.85"/>
+    </filter>
+
+    <!-- Circle clip path -->
+    <clipPath id="circleClip">
+      <circle cx="400" cy="400" r="388"/>
+    </clipPath>
+  </defs>
+
+  <!-- Main circle background -->
+  <circle cx="400" cy="400" r="392" fill="url(#bg)"/>
+
+  <!-- Atmospheric red glow -->
+  <circle cx="400" cy="400" r="392" fill="url(#atmo)"/>
+
+  <!-- Content clipped to circle -->
+  <g clip-path="url(#circleClip)">
+
+    <!-- Three diagonal slash/claw marks -->
+    <g opacity="0.22">
+      <path d="M 180 50 Q 300 300 520 780" stroke="url(#slashColor)" stroke-width="20" fill="none" stroke-linecap="round"/>
+      <path d="M 240 30 Q 360 280 580 760" stroke="url(#slashColor)" stroke-width="28" fill="none" stroke-linecap="round"/>
+      <path d="M 310 20 Q 430 270 640 750" stroke="url(#slashColor)" stroke-width="18" fill="none" stroke-linecap="round"/>
+    </g>
+
+    <!-- Blood drips trailing from slashes -->
+    <g opacity="0.3" stroke-linecap="round" fill="none">
+      <path d="M 555 740 Q 558 762 553 782 Q 551 798 555 815" stroke="#7f1d1d" stroke-width="5"/>
+      <path d="M 615 730 Q 618 755 612 775" stroke="#7f1d1d" stroke-width="4"/>
+    </g>
+
+    <!-- Bottom fog/smoke layer -->
+    <circle cx="400" cy="400" r="392" fill="url(#fog)"/>
+
+  </g>
+
+  <!-- "COLD" — steel/silver, heavy condensed -->
+  <text x="400" y="385" text-anchor="middle"
+        font-family="Impact, 'Bebas Neue', 'Arial Narrow', sans-serif"
+        font-weight="900" font-size="195"
+        fill="url(#steel)" filter="url(#textShadow)"
+        letter-spacing="14">COLD</text>
+
+  <!-- Blood separator line -->
+  <rect x="145" y="405" width="510" height="5" rx="2" fill="url(#blood)" filter="url(#bloodGlow)" opacity="0.8"/>
+
+  <!-- Blood drips from separator -->
+  <g fill="none" opacity="0.45" stroke-linecap="round">
+    <path d="M 275 410 Q 277 438 273 458 Q 271 472 275 480" stroke="#991b1b" stroke-width="4"/>
+    <path d="M 510 410 Q 512 432 508 448" stroke="#991b1b" stroke-width="3.5"/>
+    <path d="M 400 410 Q 402 425 398 438 Q 396 448 400 456 Q 398 462 397 465" stroke="#991b1b" stroke-width="3"/>
+  </g>
+
+  <!-- "TRAIL" — blood red -->
+  <text x="400" y="545" text-anchor="middle"
+        font-family="Impact, 'Bebas Neue', 'Arial Narrow', sans-serif"
+        font-weight="900" font-size="160"
+        fill="url(#blood)" filter="url(#textShadow)"
+        letter-spacing="18">TRAIL</text>
+
+  <!-- Broken outer ring (distressed border) -->
+  <g fill="none" stroke="#dc2626" stroke-width="2.5" opacity="0.25" stroke-linecap="round">
+    <path d="M 400 8 A 392 392 0 0 1 720 170"/>
+    <path d="M 775 370 A 392 392 0 0 1 650 710"/>
+    <path d="M 490 788 A 392 392 0 0 1 130 670"/>
+    <path d="M 28 390 A 392 392 0 0 1 170 95"/>
+  </g>
+
+  <!-- Faint inner ring -->
+  <circle cx="400" cy="400" r="350" fill="none" stroke="#991b1b" stroke-width="1" opacity="0.1"/>
+</svg>

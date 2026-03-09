@@ -1,0 +1,38 @@
+{
+  "date": "2026-03-13",
+  "channel": "truecrime",
+  "category": "wrongful",
+  "hookLine": "He spent thirty years on death row for murders he didn't commit",
+  "cards": [
+    {
+      "title": "A Manager Shot Dead",
+      "stat": "February 1985",
+      "subtitle": "Two restaurant robberies turned fatal in Birmingham",
+      "emoji": "\ud83d\udd0d",
+      "backgroundImage": "images/truecrime/anthony-ray-hinton-1985-al-card-0-birmingham-alabama.jpg"
+    },
+    {
+      "title": "The Wrong Gun",
+      "stat": "Arrested",
+      "subtitle": "Police matched bullets to a revolver from his mother's house",
+      "emoji": "\ud83d\udd2c",
+      "backgroundImage": "images/truecrime/anthony-ray-hinton-1985-al-card-1-ballistic-fingerprinting.jpg"
+    },
+    {
+      "title": "Expert for Hire",
+      "stat": "$1,000 Budget",
+      "subtitle": "His court-appointed attorney could barely afford a forensics expert",
+      "emoji": "\u2696\ufe0f",
+      "backgroundImage": "images/truecrime/anthony-ray-hinton-1985-al-card-2-bryan-stevenson.jpg"
+    },
+    {
+      "title": "Freedom at Fifty-Eight",
+      "stat": "30 Years Later",
+      "subtitle": "Advanced ballistics testing proved the gun was never fired",
+      "emoji": "\ud83c\udfdb\ufe0f",
+      "backgroundImage": "images/truecrime/anthony-ray-hinton-1985-al-card-3-anthony-ray-hinton.jpg"
+    }
+  ],
+  "ctaLine": "Follow Cold Trail for cases the mainstream forgot",
+  "voiceover": "Anthony Ray Hinton walked out of Alabama's death row in twenty fifteen after three decades in a five by seven cell.\n\nHe was twenty nine when police arrested him for two restaurant murders in Birmingham. He had alibis placing him fifteen miles away at work.\n\nProsecutors built their case on a single piece of evidence: bullets that an expert claimed matched a revolver found at his mother's home.\n\nHis defense attorney had a thousand dollar budget for experts. The state's ballistics witness went unchallenged, despite a history of questionable testimony.\n\nNew testing proved the gun never fired those bullets. Hinton was fifty eight when he finally walked free.\n\nFollow Cold Trail for cases the mainstream forgot."
+}

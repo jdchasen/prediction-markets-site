@@ -1,0 +1,37 @@
+{
+  "date": "2026-03-12",
+  "channel": "truecrime",
+  "category": "obscure",
+  "hookLine": "A daughter vanished steps from her mother's home",
+  "cards": [
+    {
+      "title": "A Mother's Day Visit",
+      "stat": "Age 19",
+      "subtitle": "Rock Island, Illinois \u2014 May 10, 1991",
+      "emoji": "\ud83d\udc64",
+      "backgroundImage": "images/truecrime/maureen-brubaker-1991-il-card-0-rock-island-illinois.jpg"
+    },
+    {
+      "title": "The Discovery",
+      "stat": "48 Hours",
+      "subtitle": "Found in a wooded ravine near Bicentennial Park",
+      "emoji": "\ud83e\ude78",
+      "backgroundImage": "images/truecrime/maureen-brubaker-1991-il-card-1-rock-island-illinois.jpg"
+    },
+    {
+      "title": "The Evidence",
+      "stat": "DNA Profile",
+      "subtitle": "Physical evidence preserved but no match in databases",
+      "emoji": "\ud83d\udd2c",
+      "backgroundImage": "images/truecrime/maureen-brubaker-1991-il-card-2-dna-profiling.png"
+    },
+    {
+      "title": "34 Years Cold",
+      "stat": "Still Unsolved",
+      "subtitle": "Family continues seeking answers in 2025",
+      "emoji": "\ud83d\udd0d"
+    }
+  ],
+  "ctaLine": "Follow Cold Trail for cases the mainstream forgot",
+  "voiceover": "Nineteen year old Maureen Brubaker Farley left her mother's apartment on May tenth, nineteen ninety one. She never made it home.\n\nMaureen was a young mother working at a local mall in Rock Island, Illinois. She'd stopped by to visit her mom for Mother's Day.\n\nForty eight hours later, her body was discovered in a wooded ravine near Bicentennial Park. She had been sexually assaulted and strangled.\n\nPolice preserved DNA evidence from the scene. Despite a robust profile, no match has ever been found in state or federal databases.\n\nThirty four years later, Maureen's family still searches for answers. Her killer remains unidentified.\n\nFollow Cold Trail for cases the mainstream forgot."
+}

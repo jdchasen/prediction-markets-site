@@ -1,0 +1,150 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2560 1440" width="2560" height="1440">
+  <defs>
+    <!-- Dark background -->
+    <radialGradient id="bg" cx="50%" cy="50%" r="65%">
+      <stop offset="0%" style="stop-color:#120808"/>
+      <stop offset="100%" style="stop-color:#050202"/>
+    </radialGradient>
+
+    <!-- Blood gradient -->
+    <linearGradient id="blood" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#dc2626"/>
+      <stop offset="100%" style="stop-color:#7f1d1d"/>
+    </linearGradient>
+
+    <!-- Steel gradient -->
+    <linearGradient id="steel" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#f4f4f5"/>
+      <stop offset="50%" style="stop-color:#a1a1aa"/>
+      <stop offset="100%" style="stop-color:#52525b"/>
+    </linearGradient>
+
+    <!-- Slash gradient -->
+    <linearGradient id="slashColor" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#991b1b"/>
+      <stop offset="50%" style="stop-color:#b91c1c"/>
+      <stop offset="100%" style="stop-color:#450a0a"/>
+    </linearGradient>
+
+    <!-- Horizontal blood line gradient (fade edges) -->
+    <linearGradient id="bloodLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#dc2626;stop-opacity:0"/>
+      <stop offset="20%" style="stop-color:#dc2626;stop-opacity:0.8"/>
+      <stop offset="80%" style="stop-color:#dc2626;stop-opacity:0.8"/>
+      <stop offset="100%" style="stop-color:#dc2626;stop-opacity:0"/>
+    </linearGradient>
+
+    <!-- Center atmospheric glow -->
+    <radialGradient id="atmo" cx="50%" cy="50%" r="35%">
+      <stop offset="0%" style="stop-color:#991b1b;stop-opacity:0.12"/>
+      <stop offset="100%" style="stop-color:#991b1b;stop-opacity:0"/>
+    </radialGradient>
+
+    <!-- Left fog -->
+    <radialGradient id="fogL" cx="10%" cy="50%" r="30%">
+      <stop offset="0%" style="stop-color:#1a0505;stop-opacity:0.6"/>
+      <stop offset="100%" style="stop-color:#1a0505;stop-opacity:0"/>
+    </radialGradient>
+
+    <!-- Right fog -->
+    <radialGradient id="fogR" cx="90%" cy="50%" r="30%">
+      <stop offset="0%" style="stop-color:#1a0505;stop-opacity:0.6"/>
+      <stop offset="100%" style="stop-color:#1a0505;stop-opacity:0"/>
+    </radialGradient>
+
+    <!-- Blood glow filter -->
+    <filter id="bloodGlow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="12" result="blur"/>
+      <feFlood flood-color="#dc2626" flood-opacity="0.3" result="color"/>
+      <feComposite in="color" in2="blur" operator="in" result="glow"/>
+      <feMerge>
+        <feMergeNode in="glow"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Text shadow -->
+    <filter id="textShadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="5" stdDeviation="12" flood-color="#000" flood-opacity="0.85"/>
+    </filter>
+
+    <!-- Subtle text shadow for tagline -->
+    <filter id="lightShadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="3" stdDeviation="6" flood-color="#000" flood-opacity="0.7"/>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="2560" height="1440" fill="url(#bg)"/>
+
+  <!-- Atmospheric glow -->
+  <rect width="2560" height="1440" fill="url(#atmo)"/>
+
+  <!-- Diagonal slash marks spanning the banner -->
+  <g opacity="0.15">
+    <path d="M 300 0 Q 600 500 1000 1440" stroke="url(#slashColor)" stroke-width="24" fill="none" stroke-linecap="round"/>
+    <path d="M 400 0 Q 700 500 1100 1440" stroke="url(#slashColor)" stroke-width="32" fill="none" stroke-linecap="round"/>
+    <path d="M 520 0 Q 820 500 1220 1440" stroke="url(#slashColor)" stroke-width="20" fill="none" stroke-linecap="round"/>
+  </g>
+
+  <!-- Right side slash marks -->
+  <g opacity="0.12">
+    <path d="M 1600 0 Q 1900 500 2300 1440" stroke="url(#slashColor)" stroke-width="22" fill="none" stroke-linecap="round"/>
+    <path d="M 1700 0 Q 2000 500 2400 1440" stroke="url(#slashColor)" stroke-width="28" fill="none" stroke-linecap="round"/>
+    <path d="M 1810 0 Q 2110 500 2510 1440" stroke="url(#slashColor)" stroke-width="18" fill="none" stroke-linecap="round"/>
+  </g>
+
+  <!-- Blood drips from left slashes -->
+  <g opacity="0.2" stroke-linecap="round" fill="none">
+    <path d="M 980 1400 Q 984 1430 978 1460" stroke="#7f1d1d" stroke-width="5"/>
+    <path d="M 1080 1400 Q 1084 1425 1078 1445" stroke="#7f1d1d" stroke-width="4"/>
+  </g>
+
+  <!-- Edge fog -->
+  <rect width="2560" height="1440" fill="url(#fogL)"/>
+  <rect width="2560" height="1440" fill="url(#fogR)"/>
+
+  <!-- === SAFE AREA CONTENT (centered 1546x423) === -->
+
+  <!-- "COLD" — steel -->
+  <text x="1080" y="690" text-anchor="middle"
+        font-family="Impact, 'Bebas Neue', 'Arial Narrow', sans-serif"
+        font-weight="900" font-size="240"
+        fill="url(#steel)" filter="url(#textShadow)"
+        letter-spacing="18">COLD</text>
+
+  <!-- "TRAIL" — blood red -->
+  <text x="1700" y="690" text-anchor="middle"
+        font-family="Impact, 'Bebas Neue', 'Arial Narrow', sans-serif"
+        font-weight="900" font-size="240"
+        fill="url(#blood)" filter="url(#textShadow)"
+        letter-spacing="18">TRAIL</text>
+
+  <!-- Blood separator line (fades at edges) -->
+  <rect x="580" y="720" width="1400" height="5" rx="2" fill="url(#bloodLine)" filter="url(#bloodGlow)"/>
+
+  <!-- Blood drips from separator -->
+  <g fill="none" opacity="0.4" stroke-linecap="round">
+    <path d="M 1050 725 Q 1053 755 1048 775 Q 1046 788 1050 796" stroke="#991b1b" stroke-width="4"/>
+    <path d="M 1500 725 Q 1503 748 1498 762" stroke="#991b1b" stroke-width="3.5"/>
+    <path d="M 1280 725 Q 1282 742 1278 755 Q 1276 764 1280 770" stroke="#991b1b" stroke-width="3"/>
+  </g>
+
+  <!-- Tagline -->
+  <text x="1280" y="790" text-anchor="middle"
+        font-family="Impact, 'Bebas Neue', 'Arial Narrow', sans-serif"
+        font-weight="400" font-size="48"
+        fill="rgba(255,255,255,0.5)" filter="url(#lightShadow)"
+        letter-spacing="8">THE CASES NOBODY TALKS ABOUT</text>
+
+  <!-- Faint horizontal lines (atmospheric) -->
+  <line x1="0" y1="200" x2="2560" y2="200" stroke="#991b1b" stroke-width="1" opacity="0.06"/>
+  <line x1="0" y1="1240" x2="2560" y2="1240" stroke="#991b1b" stroke-width="1" opacity="0.06"/>
+
+  <!-- Corner vignette darkening -->
+  <radialGradient id="vignette" cx="50%" cy="50%" r="70%">
+    <stop offset="60%" style="stop-color:#000;stop-opacity:0"/>
+    <stop offset="100%" style="stop-color:#000;stop-opacity:0.5"/>
+  </radialGradient>
+  <rect width="2560" height="1440" fill="url(#vignette)"/>
+</svg>

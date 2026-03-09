@@ -1,0 +1,37 @@
+{
+  "date": "2026-03-10",
+  "channel": "truecrime",
+  "category": "obscure",
+  "hookLine": "A jogger vanished steps from her apartment door",
+  "cards": [
+    {
+      "title": "A Library Assistant",
+      "stat": "Age 20",
+      "subtitle": "Last seen jogging near her Placentia apartment",
+      "emoji": "\ud83d\udc64",
+      "backgroundImage": "images/truecrime/cathy-torrez-1994-ca-card-0-placentia-california.jpg"
+    },
+    {
+      "title": "Attacked at Dusk",
+      "stat": "February 12, 1994",
+      "subtitle": "Found stabbed in her vehicle the next morning",
+      "emoji": "\ud83d\udea8",
+      "backgroundImage": "images/truecrime/cathy-torrez-1994-ca-card-1-placentia-california.jpg"
+    },
+    {
+      "title": "A Boyfriend Cleared",
+      "stat": "Zero Physical Evidence",
+      "subtitle": "Investigators had a theory but no proof",
+      "emoji": "\ud83d\udd0d",
+      "backgroundImage": "images/truecrime/cathy-torrez-1994-ca-card-2-dna-profiling.png"
+    },
+    {
+      "title": "Genetic Genealogy",
+      "stat": "Solved After 25 Years",
+      "subtitle": "A coworker arrested in 2019 through familial DNA",
+      "emoji": "\ud83e\uddec"
+    }
+  ],
+  "ctaLine": "Follow Cold Trail for cases the mainstream forgot",
+  "voiceover": "February thirteenth, nineteen ninety four. A college student was found stabbed to death in her car, parked outside her own apartment.\n\nCathy Torrez was twenty years old, working at a university library while finishing her degree in Southern California.\n\nShe never returned from an evening jog. The next morning, neighbors found her body in her locked Honda Civic.\n\nDetectives suspected her ex-boyfriend but had no physical evidence. The case went cold for twenty five years.\n\nIn twenty nineteen, genetic genealogy identified a former coworker. Sam Herrera was arrested and convicted of her murder.\n\nFollow Cold Trail for cases the mainstream forgot."
+}
