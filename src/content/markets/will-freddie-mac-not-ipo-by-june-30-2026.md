@@ -3,8 +3,8 @@ title: "Will Freddie Mac not IPO by June 30, 2026?"
 description: "Will Freddie Mac not IPO by June 30, 2026? Odds: 95.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Freddie Mac not IPO by June 30, 2026?"
 category: "finance"
-status: "active"
-lastUpdated: 2026-03-08
+status: "settled"
+lastUpdated: 2026-03-09
 expiryDate: 2026-06-30
 tags: ["finance", "polymarket"]
 polymarketYes: 95.2

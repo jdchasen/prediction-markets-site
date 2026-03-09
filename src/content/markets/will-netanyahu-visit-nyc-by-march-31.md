@@ -1,17 +1,16 @@
 ---
 title: "Will Netanyahu visit NYC by March 31?"
-description: "Will Netanyahu visit NYC by March 31? Odds: 5.8% YES on Polymarket. See live prices and trade this market."
+description: "Will Netanyahu visit NYC by March 31? Odds: 5.3% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Netanyahu visit NYC by March 31?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-03-08
+lastUpdated: 2026-03-09
 expiryDate: 2026-03-31
 tags: ["politics", "polymarket"]
-polymarketYes: 5.8
-polymarketNo: 94.2
-polymarketVolume: 97116
+polymarketYes: 5.3
+polymarketNo: 94.7
+polymarketVolume: 98038
 polymarketUrl: "https://polymarket.com/event/will-netanyahu-visit-nyc-by-march-31"
-analysisDate: 2026-03-08
 ---
 
 # Netanyahu NYC Visit Market Analysis

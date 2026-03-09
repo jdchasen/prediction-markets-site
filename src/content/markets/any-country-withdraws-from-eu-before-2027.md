@@ -1,17 +1,16 @@
 ---
 title: "Any country withdraws from EU before 2027?"
-description: "Any country withdraws from EU before 2027? Odds: 4.5% YES on Polymarket. See live prices and trade this market."
+description: "Any country withdraws from EU before 2027? Odds: 5.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Any country withdraws from EU before 2027?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-03-08
+lastUpdated: 2026-03-09
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 4.5
-polymarketNo: 95.5
-polymarketVolume: 98206
+polymarketYes: 5.5
+polymarketNo: 94.5
+polymarketVolume: 99113
 polymarketUrl: "https://polymarket.com/event/any-country-withdraws-from-eu-before-2027"
-analysisDate: 2026-03-08
 ---
 
 # EU Withdrawal Market Analysis

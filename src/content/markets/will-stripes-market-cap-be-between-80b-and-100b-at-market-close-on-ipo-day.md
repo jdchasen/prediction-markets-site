@@ -3,8 +3,8 @@ title: "Will Stripe’s market cap be between $80B and $100B at market close on 
 description: "Will Stripe’s market cap be between $80B and $100B at market close on IPO day? Odds: 1.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Stripe’s market cap be between $80B and $100B at market close on IPO day?"
 category: "finance"
-status: "active"
-lastUpdated: 2026-03-08
+status: "settled"
+lastUpdated: 2026-03-09
 expiryDate: 2026-06-30
 tags: ["finance", "polymarket"]
 polymarketYes: 1.8

@@ -3,8 +3,8 @@ title: "Will Claude 5 be released by April 30, 2026?"
 description: "Will Claude 5 be released by April 30, 2026? Odds: 31.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Claude 5 be released by April 30, 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-08
+status: "settled"
+lastUpdated: 2026-03-09
 tags: ["politics", "polymarket"]
 polymarketYes: 31.5
 polymarketNo: 68.5

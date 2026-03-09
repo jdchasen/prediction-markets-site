@@ -4,14 +4,13 @@ description: "Will Republicans lose House majority before the midterms? Odds: 16
 marketQuestion: "Will Republicans lose House majority before the midterms?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-03-08
+lastUpdated: 2026-03-09
 expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
 polymarketYes: 16.0
 polymarketNo: 84.0
-polymarketVolume: 9828
+polymarketVolume: 9871
 polymarketUrl: "https://polymarket.com/event/will-republicans-lose-house-majority-before-the-midterms"
-analysisDate: 2026-03-08
 ---
 
 # Republican House Control Through 2026 Midterms

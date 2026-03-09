@@ -3,8 +3,8 @@ title: "Will \"Trump\" be said at the Oscars?"
 description: "Will \"Trump\" be said at the Oscars? Odds: 50.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will \"Trump\" be said at the Oscars?"
 category: "entertainment"
-status: "active"
-lastUpdated: 2026-03-08
+status: "settled"
+lastUpdated: 2026-03-09
 expiryDate: 2026-03-15
 tags: ["ai", "entertainment", "polymarket", "trump"]
 polymarketYes: 50.0

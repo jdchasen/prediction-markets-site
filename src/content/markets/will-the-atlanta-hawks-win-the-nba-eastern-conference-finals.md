@@ -1,17 +1,16 @@
 ---
 title: "Will the Atlanta Hawks win the NBA Eastern Conference Finals?"
-description: "Will the Atlanta Hawks win the NBA Eastern Conference Finals? Odds: 1.1% YES on Polymarket. See live prices and trade this market."
+description: "Will the Atlanta Hawks win the NBA Eastern Conference Finals? Odds: 0.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Atlanta Hawks win the NBA Eastern Conference Finals?"
 category: "sports"
 status: "active"
-lastUpdated: 2026-03-08
+lastUpdated: 2026-03-09
 expiryDate: 2026-06-13
 tags: ["polymarket", "sports"]
-polymarketYes: 1.1
-polymarketNo: 98.9
-polymarketVolume: 99013
+polymarketYes: 0.9
+polymarketNo: 99.1
+polymarketVolume: 99300
 polymarketUrl: "https://polymarket.com/event/will-the-atlanta-hawks-win-the-nba-eastern-conference-finals"
-analysisDate: 2026-03-08
 ---
 
 The Atlanta Hawks are given virtually no chance to reach the 2026 NBA Finals according to prediction markets, reflecting their current standing as a mid-tier Eastern Conference team without a clear path to contention over the next two seasons.

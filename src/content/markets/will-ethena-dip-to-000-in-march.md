@@ -3,8 +3,8 @@ title: "Will Ethena dip to $0.00 in March?"
 description: "Will Ethena dip to $0.00 in March? Odds: 0.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Ethena dip to $0.00 in March?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-08
+status: "settled"
+lastUpdated: 2026-03-09
 expiryDate: 2026-04-01
 tags: ["ethereum", "politics", "polymarket"]
 polymarketYes: 0.2

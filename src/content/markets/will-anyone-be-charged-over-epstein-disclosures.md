@@ -1,17 +1,16 @@
 ---
 title: "Will anyone be charged over Epstein disclosures?"
-description: "Will anyone be charged over Epstein disclosures? Odds: 24.5% YES on Polymarket. See live prices and trade this market."
+description: "Will anyone be charged over Epstein disclosures? Odds: 25.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will anyone be charged over Epstein disclosures?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-03-08
+lastUpdated: 2026-03-09
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 24.5
-polymarketNo: 75.5
-polymarketVolume: 96525
+polymarketYes: 25.5
+polymarketNo: 74.5
+polymarketVolume: 97188
 polymarketUrl: "https://polymarket.com/event/will-anyone-be-charged-over-epstein-disclosures"
-analysisDate: 2026-03-08
 ---
 
 # Epstein Disclosures Charging Market Analysis

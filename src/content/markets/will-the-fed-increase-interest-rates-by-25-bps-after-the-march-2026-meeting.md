@@ -4,14 +4,13 @@ description: "Will the Fed increase interest rates by 25+ bps after the March 20
 marketQuestion: "Will the Fed increase interest rates by 25+ bps after the March 2026 meeting?"
 category: "economics"
 status: "active"
-lastUpdated: 2026-03-08
+lastUpdated: 2026-03-09
 expiryDate: 2026-03-18
 tags: ["economics", "federal-reserve", "interest-rates", "polymarket"]
 polymarketYes: 0.2
 polymarketNo: 99.8
-polymarketVolume: 90116989
+polymarketVolume: 98592611
 polymarketUrl: "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-march-2026-meeting"
-analysisDate: 2026-03-08
 ---
 
 The market assigns virtually no probability to a rate hike following the March 2026 FOMC meeting, reflecting expectations that the Federal Reserve's current tightening cycle will have long concluded and likely shifted to cuts or extended holds by that timeframe.

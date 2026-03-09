@@ -3,8 +3,8 @@ title: "Will Ed Hale win the 2026 Maryland Governor Republican primary election?
 description: "Will Ed Hale win the 2026 Maryland Governor Republican primary election? Odds: 24.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Ed Hale win the 2026 Maryland Governor Republican primary election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-08
+status: "settled"
+lastUpdated: 2026-03-09
 expiryDate: 2026-06-23
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 24.1

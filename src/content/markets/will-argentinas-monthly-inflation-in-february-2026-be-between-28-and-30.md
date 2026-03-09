@@ -1,17 +1,16 @@
 ---
 title: "Will Argentina’s monthly inflation in February 2026 be between 2.8% and 3.0%?"
-description: "Will Argentina’s monthly inflation in February 2026 be between 2.8% and 3.0%? Odds: 62.0% YES on Polymarket. See live prices and trade this market."
+description: "Will Argentina’s monthly inflation in February 2026 be between 2.8% and 3.0%? Odds: 60.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Argentina’s monthly inflation in February 2026 be between 2.8% and 3.0%?"
 category: "economics"
 status: "active"
-lastUpdated: 2026-03-08
+lastUpdated: 2026-03-09
 expiryDate: 2026-03-12
 tags: ["economics", "polymarket", "sports"]
-polymarketYes: 62.0
-polymarketNo: 38.0
-polymarketVolume: 9674
+polymarketYes: 60.5
+polymarketNo: 39.5
+polymarketVolume: 9990
 polymarketUrl: "https://polymarket.com/event/will-argentinas-monthly-inflation-in-february-2026-be-between-2pt8-and-3pt0"
-analysisDate: 2026-03-08
 ---
 
 # Argentina's February 2026 Inflation: A Narrow Band Bet in a Volatile Economy

@@ -4,14 +4,13 @@ description: "Will Matt Fitzpatrick win the 2026 Masters tournament? Odds: 1.8% 
 marketQuestion: "Will Matt Fitzpatrick win the 2026 Masters tournament?"
 category: "sports"
 status: "active"
-lastUpdated: 2026-03-08
+lastUpdated: 2026-03-09
 expiryDate: 2026-04-13
 tags: ["polymarket", "sports"]
 polymarketYes: 1.8
 polymarketNo: 98.2
-polymarketVolume: 962608
+polymarketVolume: 974418
 polymarketUrl: "https://polymarket.com/event/will-matt-fitzpatrick-win-the-2026-masters-tournament"
-analysisDate: 2026-03-08
 ---
 
 The market prices Matt Fitzpatrick as a long-shot contender for the 2026 Masters, reflecting the reality that even elite golfers face steep odds in major championships where field depth consistently produces surprises. The current 1.8% probability aligns roughly with betting markets that typically give top-tier players between 12-1 and 25-1 odds at Augusta National, depending on form and course fit.

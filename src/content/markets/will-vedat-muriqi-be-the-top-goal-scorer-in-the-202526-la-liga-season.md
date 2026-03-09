@@ -1,17 +1,16 @@
 ---
 title: "Will Vedat Muriqi be the top goal scorer in the 2025–26 La Liga season?"
-description: "Will Vedat Muriqi be the top goal scorer in the 2025–26 La Liga season? Odds: 2.2% YES on Polymarket. See live prices and trade this market."
+description: "Will Vedat Muriqi be the top goal scorer in the 2025–26 La Liga season? Odds: 6.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Vedat Muriqi be the top goal scorer in the 2025–26 La Liga season?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-03-08
+lastUpdated: 2026-03-09
 expiryDate: 2026-05-30
 tags: ["politics", "polymarket"]
-polymarketYes: 2.2
-polymarketNo: 97.8
-polymarketVolume: 9757
+polymarketYes: 6.8
+polymarketNo: 93.2
+polymarketVolume: 9896
 polymarketUrl: "https://polymarket.com/event/will-vedat-muriqi-be-the-top-goal-scorer-in-the-202526-la-liga-season"
-analysisDate: 2026-03-08
 ---
 
 # Analysis

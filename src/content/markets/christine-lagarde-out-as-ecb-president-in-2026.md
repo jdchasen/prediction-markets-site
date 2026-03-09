@@ -1,17 +1,16 @@
 ---
 title: "Christine Lagarde out as ECB president in 2026?"
-description: "Christine Lagarde out as ECB president in 2026? Odds: 33.5% YES on Polymarket. See live prices and trade this market."
+description: "Christine Lagarde out as ECB president in 2026? Odds: 31.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Christine Lagarde out as ECB president in 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-03-08
+lastUpdated: 2026-03-09
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 33.5
-polymarketNo: 66.5
-polymarketVolume: 9450
+polymarketYes: 31.0
+polymarketNo: 69.0
+polymarketVolume: 9525
 polymarketUrl: "https://polymarket.com/event/christine-lagarde-out-as-ecb-president-in-2026"
-analysisDate: 2026-03-08
 ---
 
 The market is pricing a roughly one-in-three chance that Christine Lagarde steps down as ECB president before the end of 2026, reflecting genuine uncertainty about her tenure amid economic headwinds and political pressure in Europe. This matters now because Lagarde's leadership directly influences eurozone monetary policy during a period of persistent inflation concerns, slowing growth, and rising political fragmentation across member states.

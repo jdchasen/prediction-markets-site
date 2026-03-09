@@ -1,17 +1,16 @@
 ---
 title: "Will USD reach 1.8M Iranian rials by March 31?"
-description: "Will USD reach 1.8M Iranian rials by March 31? Odds: 19.0% YES on Polymarket. See live prices and trade this market."
+description: "Will USD reach 1.8M Iranian rials by March 31? Odds: 22.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will USD reach 1.8M Iranian rials by March 31?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-03-08
+lastUpdated: 2026-03-09
 expiryDate: 2026-03-31
 tags: ["politics", "polymarket"]
-polymarketYes: 19.0
-polymarketNo: 81.0
-polymarketVolume: 95749
+polymarketYes: 22.0
+polymarketNo: 78.0
+polymarketVolume: 96114
 polymarketUrl: "https://polymarket.com/event/will-usd-reach-1pt8m-iranian-rials-by-march-31"
-analysisDate: 2026-03-08
 ---
 
 The Iranian rial reaching 1.8 million per USD represents approximately a 25% depreciation from current levels around 1.44 million, with traders assigning less than one-in-five odds to this threshold being crossed by March 2026, reflecting skepticism that Iran's currency crisis will accelerate dramatically despite ongoing economic pressure.

@@ -3,8 +3,8 @@ title: "Will Netflix (NFLX) close at $60-$70 on the final day of trading of the 
 description: "Will Netflix (NFLX) close at $60-$70 on the final day of trading of the week of Mar 9 – Mar 13? Odds: 0.8% YES on Polymarket. See live prices and trade this ..."
 marketQuestion: "Will Netflix (NFLX) close at $60-$70 on the final day of trading of the week of Mar 9 – Mar 13?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-08
+status: "settled"
+lastUpdated: 2026-03-09
 expiryDate: 2026-03-13
 tags: ["politics", "polymarket", "sports"]
 polymarketYes: 0.8

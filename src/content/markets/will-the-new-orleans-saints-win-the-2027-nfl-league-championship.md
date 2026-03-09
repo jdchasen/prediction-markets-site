@@ -3,8 +3,8 @@ title: "Will the New Orleans Saints win the 2027 NFL league championship?"
 description: "Will the New Orleans Saints win the 2027 NFL league championship? Odds: 1.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the New Orleans Saints win the 2027 NFL league championship?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-03-08
+status: "settled"
+lastUpdated: 2026-03-09
 expiryDate: 2027-03-31
 tags: ["ai", "polymarket", "sports"]
 polymarketYes: 1.1

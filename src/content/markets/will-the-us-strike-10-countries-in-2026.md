@@ -1,17 +1,16 @@
 ---
 title: "Will the US strike 10 countries in 2026?"
-description: "Will the US strike 10 countries in 2026? Odds: 11.1% YES on Polymarket. See live prices and trade this market."
+description: "Will the US strike 10 countries in 2026? Odds: 11.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the US strike 10 countries in 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-03-08
+lastUpdated: 2026-03-09
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 11.1
-polymarketNo: 88.9
-polymarketVolume: 9678
+polymarketYes: 11.9
+polymarketNo: 88.1
+polymarketVolume: 9689
 polymarketUrl: "https://polymarket.com/event/will-the-us-strike-10-countries-in-2026"
-analysisDate: 2026-03-08
 ---
 
 # US Military Strikes Prediction Market Analysis

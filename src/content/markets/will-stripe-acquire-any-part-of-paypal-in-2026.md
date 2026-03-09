@@ -1,17 +1,16 @@
 ---
 title: "Will Stripe acquire any part of Paypal in 2026?"
-description: "Will Stripe acquire any part of Paypal in 2026? Odds: 55.0% YES on Polymarket. See live prices and trade this market."
+description: "Will Stripe acquire any part of Paypal in 2026? Odds: 54.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Stripe acquire any part of Paypal in 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-03-08
+lastUpdated: 2026-03-09
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 55.0
-polymarketNo: 45.0
-polymarketVolume: 9627
+polymarketYes: 54.5
+polymarketNo: 45.5
+polymarketVolume: 9713
 polymarketUrl: "https://polymarket.com/event/will-stripe-acquire-any-part-of-paypal-in-2026"
-analysisDate: 2026-03-08
 ---
 
 # Stripe-PayPal Acquisition Market Analysis

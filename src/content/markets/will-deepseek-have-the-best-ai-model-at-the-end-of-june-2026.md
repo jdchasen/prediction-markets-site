@@ -3,8 +3,8 @@ title: "Will DeepSeek have the best AI model at the end of June 2026?"
 description: "Will DeepSeek have the best AI model at the end of June 2026? Odds: 3.6% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will DeepSeek have the best AI model at the end of June 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-08
+status: "settled"
+lastUpdated: 2026-03-09
 expiryDate: 2026-06-30
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 3.6

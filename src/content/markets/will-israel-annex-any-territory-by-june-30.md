@@ -1,17 +1,16 @@
 ---
 title: "Will Israel annex any territory by June 30?"
-description: "Will Israel annex any territory by June 30? Odds: 11.6% YES on Polymarket. See live prices and trade this market."
+description: "Will Israel annex any territory by June 30? Odds: 11.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Israel annex any territory by June 30?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-03-08
+lastUpdated: 2026-03-09
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
-polymarketYes: 11.6
-polymarketNo: 88.4
-polymarketVolume: 97779
+polymarketYes: 11.5
+polymarketNo: 88.5
+polymarketVolume: 97882
 polymarketUrl: "https://polymarket.com/event/will-israel-annex-any-territory-by-june-30"
-analysisDate: 2026-03-08
 ---
 
 The market gives roughly 1-in-9 odds that Israel will formally annex territory before mid-2025, reflecting significant skepticism despite ongoing settlement expansion and the far-right composition of Netanyahu's coalition government. This matters because formal annexation would fundamentally alter the Israeli-Palestinian conflict's trajectory, likely trigger international sanctions, and potentially collapse the Abraham Accords framework.

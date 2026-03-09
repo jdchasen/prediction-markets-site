@@ -1,17 +1,16 @@
 ---
 title: "U.S. evacuates Beirut Embassy by March 31?"
-description: "U.S. evacuates Beirut Embassy by March 31? Odds: 19.5% YES on Polymarket. See live prices and trade this market."
+description: "U.S. evacuates Beirut Embassy by March 31? Odds: 22.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "U.S. evacuates Beirut Embassy by March 31?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-03-08
+lastUpdated: 2026-03-09
 expiryDate: 2026-03-31
 tags: ["politics", "polymarket"]
-polymarketYes: 19.5
-polymarketNo: 80.5
-polymarketVolume: 96613
+polymarketYes: 22.5
+polymarketNo: 77.5
+polymarketVolume: 99110
 polymarketUrl: "https://polymarket.com/event/us-evacuates-beirut-embassy-by-march-31"
-analysisDate: 2026-03-08
 ---
 
 # U.S. Embassy Evacuation Market Analysis

@@ -4,50 +4,51 @@ description: "Will Gustavo Bolívar win the 2026 Colombian presidential election
 marketQuestion: "Will Gustavo Bolívar win the 2026 Colombian presidential election?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-03-08
+lastUpdated: 2026-03-09
 expiryDate: 2026-06-21
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.1
 polymarketNo: 99.9
-polymarketVolume: 967985
+polymarketVolume: 973217
 polymarketUrl: "https://polymarket.com/event/will-gustavo-bolvar-win-the-2026-colombian-presidential-election"
+analysisDate: 2026-03-09
 ---
 
-The market assigns near-zero probability to Gustavo Bolívar, the leftist senator and novelist, capturing Colombia's presidency in 2026, reflecting his limited national political infrastructure and the crowded field of candidates on the left competing for Gustavo Petro's coalition support.
+Colombian Senator Gustavo Bolívar currently sits at near-zero odds to win the 2026 presidential election, reflecting trader skepticism about his viability despite his profile as a left-wing novelist-turned-politician and former ally of Gustavo Petro.
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.1% | 99.9% | $964K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.1% | 99.9% | $973K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The bull case for Bolívar centers on his national name recognition from his successful telenovela career and his role as one of Petro's most vocal legislative allies, which could position him as the continuity candidate if the current administration's reforms gain popularity by 2025. His strong social media presence and populist messaging on wealth redistribution resonate with urban youth voters who propelled Petro to victory in 2022. If Petro's government successfully implements pension reform and healthcare expansion in 2024-2025, Bolívar could inherit significant goodwill among the base. The left's primary process, likely occurring in early 2026, could favor an insider candidate if the Pacto Histórico coalition remains unified.
+The bear case dominates this market for several concrete reasons. Bolívar has experienced significant political turbulence, including his resignation from Petro's Historic Pact coalition in early 2023 amid corruption allegations and internal party conflicts. His approval ratings have suffered from controversial statements and his association with Petro's government as its popularity has declined—recent polling shows Petro's approval around 30-35%, dragging down allied politicians. Colombia's 2026 race is shaping up as a potential rejection election of the left, with centrist and center-right candidates like Federico Gutiérrez and Alex Char polling significantly ahead in early surveys. Additionally, the first round occurs on May 31, 2026, with potential runoff on June 21, 2026, giving Bolívar limited time to rebuild his brand and secure backing from major left-wing factions that have distanced themselves from him.
 
-The bear case is considerably stronger. Bolívar lacks executive experience and has never won a major electoral contest outside his Senate seat, while competitors like Bogotá Mayor Carlos Fernando Galán and former Medellín Mayor Federico Gutiérrez already command substantial regional political machines. Recent polling from Invamer and CNC shows generic left-wing candidates trailing centrist options by 10-15 points as Petro's approval ratings hover around 35-40%. Colombia's political landscape historically punishes continuity candidates when incumbent approval is weak, as seen in 2018 and 2022. The Constitutional Court's rulings on presidential term limits and campaign finance will be finalized by mid-2025, potentially constraining Bolívar's fundraising ability. Additionally, fragmentation within the Pacto Histórico coalition has already begun, with Francia Márquez and other key figures positioning for their own potential runs.
+The bull case requires several improbable developments aligning simultaneously. If Petro's administration achieves major policy wins in 2025—such as successful peace negotiations with remaining armed groups or economic recovery—it could rehabilitate the left's standing and Bolívar by extension. He could potentially unite fragmented progressive forces if other left-wing candidates falter or face legal troubles, positioning himself as the alternative to divided centrist opposition. Bolívar retains name recognition from his career as a telenovela writer and has demonstrated fundraising ability through grassroots support.
 
-Traders should monitor several catalysts: Petro's approval ratings through Invamer's monthly surveys, the October 2025 regional elections that will test leftist strength, and any formal candidate declarations expected between January-March 2026. The left's coalition primary mechanism and date announcement, likely coming in late 2025, will clarify whether Bolívar can even secure his party's nomination. Legislative progress on Petro's key reforms in the 2024-2025 congressional sessions will indicate whether a continuity candidate remains viable.
+Key catalysts include the official candidate registration period (likely February-March 2026), coalition formation negotiations throughout 2025, and any early polling from major firms like Invamer or Guarumo starting in late 2025. Traders should monitor whether Bolívar secures endorsements from labor unions, student movements, or environmental groups, and watch for any corruption investigations involving leading candidates that could reshape the field. The performance of Petro's government on security metrics and inflation rates through 2025 will directly impact any left-wing candidate's viability.
 
 ## Related Markets
 
-- [Will Jesus Christ return before GTA VI?](/odds/will-jesus-christ-return-before-gta-vi) — 48% YES
 - [Will the next Prime Minister of Hungary be László Toroczkai?](/odds/will-the-next-prime-minister-of-hungary-be-lszl-toroczkai) — 1% YES
-- [US x Iran ceasefire by April 30?](/odds/us-x-iran-ceasefire-by-april-30) — 49% YES
+- [Will Jesus Christ return before GTA VI?](/odds/will-jesus-christ-return-before-gta-vi) — 48% YES
+- [Will Wes Moore win the 2028 Democratic presidential nomination?](/odds/will-wes-moore-win-the-2028-democratic-presidential-nomination) — 2% YES
 
 ## Frequently Asked Questions
 
-### What are Gustavo Bolívar's main political accomplishments that could support a presidential run?
+### What happened between Gustavo Bolívar and President Petro that damaged his political standing?
 
-Bolívar has served as senator since 2018 and was a key architect of Petro's 2022 campaign strategy, but he lacks executive experience or major legislative victories to his name. His primary credential remains his cultural prominence from creating hit telenovelas like "Sin Senos No Hay Paraíso."
+Bolívar resigned from Petro's Historic Pact coalition in early 2023 amid internal disputes and faced corruption allegations related to congressional voting, creating distance from the presidential administration he once strongly supported.
 
-### Who are the likely stronger candidates that would prevent Bolívar from winning the left's nomination?
+### Who are the frontrunners that Bolívar would need to overcome to have any chance?
 
-Vice President Francia Márquez has higher name recognition and represents Afro-Colombian communities, while other Pacto Histórico figures like Senator Gustavo Petro's inner circle members have stronger organizational support. Centrist candidates like Carlos Fernando Galán currently lead general election polling by significant margins.
+Early polling favors center-right figures like Federico Gutiérrez (who narrowly lost in 2022) and Barranquilla mayor Alex Char, both polling in the 20-30% range for the first round, while Bolívar registers minimal support in available surveys.
 
-### Could Bolívar benefit if Petro's constitutional reform attempts succeed in allowing reelection?
+### Could Bolívar run as an independent or would he need party backing to be viable?
 
-If Petro successfully changes the constitution to allow consecutive reelection (currently prohibited), it would eliminate Bolívar's path entirely as Petro would almost certainly run himself. The Constitutional Court has consistently rejected such amendments, making this scenario unlikely.
+Colombia requires either established party support or collecting approximately 600,000 signatures to qualify for the ballot, making independent candidacy extremely difficult without organizational infrastructure he currently lacks after leaving the Historic Pact.
 
 ## Learn More
 

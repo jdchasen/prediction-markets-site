@@ -3,8 +3,8 @@ title: "Will Silver (SI) hit (HIGH) $150 by end of March?"
 description: "Will Silver (SI) hit (HIGH) $150 by end of March? Odds: 1.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Silver (SI) hit (HIGH) $150 by end of March?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-08
+status: "settled"
+lastUpdated: 2026-03-09
 expiryDate: 2026-03-31
 tags: ["politics", "polymarket"]
 polymarketYes: 1.1

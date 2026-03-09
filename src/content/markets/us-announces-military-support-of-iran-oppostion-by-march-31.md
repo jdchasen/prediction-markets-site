@@ -4,14 +4,13 @@ description: "US announces military support of Iran oppostion by March 31? Odds:
 marketQuestion: "US announces military support of Iran oppostion by March 31?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-03-08
+lastUpdated: 2026-03-09
 expiryDate: 2026-03-31
 tags: ["politics", "polymarket"]
 polymarketYes: 23.5
 polymarketNo: 76.5
-polymarketVolume: 96106
+polymarketVolume: 99626
 polymarketUrl: "https://polymarket.com/event/us-announces-military-support-of-iran-oppostion-by-march-31"
-analysisDate: 2026-03-08
 ---
 
 The market pricing US military support for Iranian opposition at roughly one-in-four odds reflects genuine uncertainty around Trump administration foreign policy toward Tehran, with significant implications for Middle East stability and oil markets. This represents a notable probability for what would constitute a major escalation in US-Iran tensions, though still implies traders see it as more likely than not that formal military support won't materialize by the deadline.

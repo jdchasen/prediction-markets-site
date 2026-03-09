@@ -4,14 +4,13 @@ description: "Will Panama win the 2026 World Baseball Classic? Odds: 0.1% YES on
 marketQuestion: "Will Panama win the 2026 World Baseball Classic?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-03-08
+lastUpdated: 2026-03-09
 expiryDate: 2026-03-17
 tags: ["politics", "polymarket"]
 polymarketYes: 0.1
 polymarketNo: 100.0
-polymarketVolume: 98300
+polymarketVolume: 99325
 polymarketUrl: "https://polymarket.com/event/will-panama-win-the-2026-world-baseball-classic"
-analysisDate: 2026-03-08
 ---
 
 # Panama's 2026 World Baseball Classic Chances: A Market Misclassification

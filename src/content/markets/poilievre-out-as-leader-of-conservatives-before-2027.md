@@ -1,17 +1,17 @@
 ---
 title: "Poilievre out as leader of Conservatives before 2027?"
-description: "Poilievre out as leader of Conservatives before 2027? Odds: 18.0% YES on Polymarket. See live prices and trade this market."
+description: "Poilievre out as leader of Conservatives before 2027? Odds: 31.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Poilievre out as leader of Conservatives before 2027?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-03-08
+lastUpdated: 2026-03-09
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 18.0
-polymarketNo: 82.0
-polymarketVolume: 95897
+polymarketYes: 31.0
+polymarketNo: 69.0
+polymarketVolume: 96171
 polymarketUrl: "https://polymarket.com/event/poilievre-out-as-leader-of-conservatives-before-2027"
-analysisDate: 2026-03-08
+analysisDate: 2026-03-09
 ---
 
 # Poilievre Leadership Market Analysis
@@ -20,33 +20,31 @@ analysisDate: 2026-03-08
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 18.0% | 82.0% | $96K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 31.0% | 69.0% | $96K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The 18% probability reflects moderate confidence that Pierre Poilievre will remain Conservative Party leader through 2026, suggesting traders see meaningful but not overwhelming risk of his departure before the next federal election cycle concludes. This matters immediately because Canada's political landscape is shifting—Justin Trudeau's resignation announcement in January 2025 has accelerated the timeline for a potential election, which could force a leadership reckoning within the Conservative Party sooner than expected.
+The current 31% probability reflects meaningful but minority-weighted odds that Pierre Poilievre loses the Conservative Party leadership before year-end 2026, suggesting markets view his position as substantially secure but far from bulletproof. This market matters now because Canada faces a federal election by October 2025, and Poilievre's performance during that campaign will likely determine whether internal party pressure mounts for a change. The timing is critical: a poor election result could trigger either voluntary resignation or a confidence vote within 12-24 months, making the 2026 deadline realistic for leadership change scenarios.
 
-The bull case for Poilievre's removal centers on electoral performance and internal party dynamics. If the Conservatives underperform in a snap election called before mid-2025 (which is now plausible given Liberal leadership turmoil), grassroots pressure could mount for change, particularly from the party's establishment wing skeptical of his populist messaging. Additionally, a prolonged period without a federal election win could erode caucus support—Conservative MPs may grow restless if Poilievre fails to capitalize on a weakened Liberal government. The bear case argues Poilievre's grip on the party is firm: he controls the party apparatus, has substantial grassroots backing, and faces no credible internal challenger. Even modest improvements in polling or a Conservative electoral victory would eliminate any meaningful removal scenario, making the 18% odds potentially generous.
+The bull case for YES (leadership loss) centers on three interconnected risks. First, if the Conservatives lose the October 2025 election despite leading polls, internal blame will land heavily on Poilievre's shoulders and could activate the party's review mechanism—the Conservatives allow a leadership review vote if 15% of party members petition for one, typically occurring at annual meetings. Second, Poilievre's unfavorable personal ratings (hovering around 35-40% approval compared to his party's ~40% support) suggest a ceiling on voter persuasion; if the Liberals retain power despite unpopularity, the narrative becomes "Poilievre couldn't close the deal." Third, moderate Conservative MPs have periodically expressed frustration with his more populist messaging, and a post-election reckoning could surface alternative leadership candidates like Danielle Smith or Michelle Rempel Garner.
 
-Key catalysts include the timing of the next federal election (currently scheduled for October 2025, but likely earlier given Trudeau's departure), quarterly polling trends through spring 2025, and any major Conservative caucus rebellions. Watch specifically for third-quarter 2025 post-election data—if Conservatives win decisively, this market should crash toward 2-3%. Conversely, if they lose despite Liberal disarray, expect sharp upward movement in YES odds within weeks as media narratives shift toward leadership accountability.
+The bear case for NO (leadership retention) is substantially stronger. Poilievre has consolidated control of the party apparatus since taking over in September 2022, removed rivals, and currently holds commanding leads in all polling for the next election. The Conservatives are positioned to win the October 2025 election outright according to most models, which would eliminate any plausible leadership challenge scenario entirely. Even a narrow loss would likely not trigger an immediate review—the party's constitution requires waiting for an annual meeting, and most losing parties give their leaders at least one full election cycle. Additionally, Conservative governance rules make removing a sitting leader difficult absent egregious personal scandal, which currently shows no signs of emerging.
+
+Watch specifically for the September 2025 election call (when the writ drops), October 2025 election results, and any January 2026 Conservative annual meeting announcements. If the party wins in October, this contract will almost certainly expire worthless. If they lose narrowly, the market price is likely to spike above 50% in Q1 2026 when annual meeting dates are set—that's the true danger zone for Poilievre's leadership. Polling in August-September 2025 will be critical: if Conservative support drops below 35% heading into the election, nervous MPs will begin positioning publicly, which would be the first real signal of leadership instability.
 
 ## Related Markets
 
-- [Will Jesus Christ return before GTA VI?](/odds/will-jesus-christ-return-before-gta-vi) — 48% YES
 - [Will the next Prime Minister of Hungary be László Toroczkai?](/odds/will-the-next-prime-minister-of-hungary-be-lszl-toroczkai) — 1% YES
-- [Trump-Denmark Greenland deal signed by March 31?](/odds/trump-denmark-greenland-deal-signed-by-march-31) — 3% YES
+- [Will Jesus Christ return before GTA VI?](/odds/will-jesus-christ-return-before-gta-vi) — 48% YES
+- [Will Wes Moore win the 2028 Democratic presidential nomination?](/odds/will-wes-moore-win-the-2028-democratic-presidential-nomination) — 2% YES
 
 ## Frequently Asked Questions
 
-### What specific internal triggers could force Poilievre's removal before year-end 2025?
+### What specific mechanism could remove Poilievre as Conservative leader before the deadline?
 
-A narrow election loss despite favorable conditions, significant caucus defections, or a major scandal would likely trigger formal or informal challenges; currently none are evident, which explains the low baseline odds.
+A member-initiated leadership review vote at the Conservatives' annual meeting (typically held in spring of odd-numbered years), which requires 15% of party members to petition for one and would likely only materialize if the party loses the 2025 election or faces a major scandal.
 
-### How does the February 2025 Liberal leadership race timeline affect this market?
+### Does Poilievre's current polling advantage make the 31% YES odds seem too high?
 
-A strong new Liberal leader or improved party polling could delay or prevent an early election, extending Poilievre's runway and reducing removal pressure, while a chaotic transition could force an election where Conservative performance becomes the decisive factor.
-
-### Are there any scheduled Conservative Party review mechanisms that could accelerate a leadership vote?
-
-The Conservative Party constitution allows for automatic leadership reviews at conventions, typically held every two years, with the next major opportunity in 2026; however, extraordinary reviews require significant member support and are unlikely absent catastrophic electoral failure.
+Not necessarily—polling leads don't guarantee election victory, and the real risk window opens only if he loses the 2025 election, at which point leadership questions materialize quickly; 31% roughly prices in a ~40-45% probability of election loss times higher conditional odds of leadership
 

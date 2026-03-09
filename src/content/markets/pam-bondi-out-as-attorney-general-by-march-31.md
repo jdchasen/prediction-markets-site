@@ -3,8 +3,8 @@ title: "Pam Bondi out as Attorney General by March 31?"
 description: "Pam Bondi out as Attorney General by March 31? Odds: 11.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Pam Bondi out as Attorney General by March 31?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-08
+status: "settled"
+lastUpdated: 2026-03-09
 expiryDate: 2026-03-31
 tags: ["politics", "polymarket"]
 polymarketYes: 11.1
