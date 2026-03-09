@@ -11,7 +11,6 @@ polymarketYes: 11.5
 polymarketNo: 88.5
 polymarketVolume: 98178
 polymarketUrl: "https://polymarket.com/event/ethereum-all-time-high-by-september-30-2026"
-analysisDate: 2026-03-09
 ---
 
 The market pricing ETH to break above $4,878 (its November 2021 peak) before September 2026 at just 11.5% reflects deep skepticism about Ethereum's near-term price momentum despite a 2.5-year window. This matters because it signals traders see structural headwinds outweighing the typical four-year crypto cycle pattern that would suggest a new all-time high during the next anticipated bull run peaking in 2025-2026.

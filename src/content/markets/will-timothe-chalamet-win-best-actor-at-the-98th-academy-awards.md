@@ -1,53 +1,54 @@
 ---
 title: "Will Timothée Chalamet win Best Actor at the 98th Academy Awards?"
-description: "Will Timothée Chalamet win Best Actor at the 98th Academy Awards? Odds: 44.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Timothée Chalamet win Best Actor at the 98th Academy Awards? Odds: 26.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Timothée Chalamet win Best Actor at the 98th Academy Awards?"
 category: "entertainment"
 status: "active"
 lastUpdated: 2026-03-09
 expiryDate: 2026-03-15
 tags: ["entertainment", "polymarket"]
-polymarketYes: 44.5
-polymarketNo: 55.5
-polymarketVolume: 975802
+polymarketYes: 26.5
+polymarketNo: 73.5
+polymarketVolume: 994546
 polymarketUrl: "https://polymarket.com/event/will-timothe-chalamet-win-best-actor-at-the-98th-academy-awards"
 analysisDate: 2026-03-09
 ---
 
-Timothée Chalamet sits at nearly even odds to win Best Actor at the 2026 Oscars, making this one of the most competitive Academy Award races traders are currently tracking with over a year until the ceremony on March 15, 2026.
+Timothée Chalamet currently sits at roughly one-in-four odds to win Best Actor at the 2026 Oscars, making him a notable contender but far from the frontrunner in what remains an extremely early and fluid race. This market matters because it's tracking a young actor who has become a consistent awards presence, with "A Complete Unknown" positioning him as Bob Dylan in a high-profile biopic—traditionally Oscar-friendly material that could either cement his status or prove he's still building toward that breakthrough win.
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 44.5% | 55.5% | $976K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 26.5% | 73.5% | $995K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The bull case centers on Chalamet's leading role in the highly anticipated "Marty Supreme" directed by Josh Safdie, reuniting the Safdie brothers' gritty dramatic style with a young actor hungry for his first Oscar win after a 2018 nomination for "Call Me by Your Name." The film's subject matter—a biographical drama about ping-pong player Marty Reisman—provides the type of transformative performance and period piece storytelling that Academy voters historically reward. Chalamet has proven box office appeal and critical credibility, and at 29 years old during the 2026 ceremony, he fits the profile of actors who win their first Oscar in prestige dramas. His main competition remains undefined this far out, and early festival buzz from a potential Cannes or Venice premiere in 2025 could establish him as the frontrunner.
+The bull case centers on biopic momentum and Chalamet's technical transformation. Playing Bob Dylan offers massive showcase potential for the kind of physical and vocal embodiment that Academy voters reward, particularly if the film generates strong reviews when it releases in late 2025. Chalamet has already demonstrated awards viability with his "Call Me by Your Name" nomination, and at 29, he fits the profile of an actor "due" for recognition after multiple high-profile performances. If "A Complete Unknown" premieres at fall festivals with critical acclaim and Chalamet dominates precursor awards (Golden Globes in January 2026, SAG and BAFTA in February-March 2026), these odds could surge past 50%.
 
-The bear case recognizes that handicapping an Oscar race 15 months before the ceremony is exceptionally speculative, as most serious contenders haven't even been filmed yet. The Academy's Best Actor category often produces surprise winners, and several major directors have projects slated for late 2025 release that could introduce stronger candidates. Ping-pong as a subject matter lacks the gravitas of recent Best Actor winners, and Chalamet's young age works against him in a category that typically favors older actors delivering career-defining work. The Safdie brothers' previous films have earned critical acclaim but minimal Oscar traction—"Uncut Gems" famously snubbed Adam Sandler despite widespread predictions.
+The bear case is that competition remains completely unknown and Academy voters may view Chalamet as having plenty of time for future wins. The 2026 race won't truly take shape until fall 2025 festival season (Telluride, Venice, Toronto in September), meaning numerous contenders haven't even emerged yet. Historical patterns show biopic performances don't automatically win—execution matters enormously, and if the film or performance receives mixed reviews, Chalamet could quickly fade. Additionally, the Academy has recently favored transformative older actors (Brendan Fraser, Brendan Gleeson types) or breakthrough performances from unexpected sources rather than young stars on predictable trajectories.
 
-Key catalysts include the film's release date announcement (likely fall 2025 for awards positioning), early festival screenings at Cannes (May 2025) or Telluride/Venice (September 2025), and the Critics Choice and Golden Globe nominations in December 2025. Traders should monitor whether A24 or the distributor launches a traditional awards campaign, Chalamet's performance in "Dune: Part Three" (December 2025) for industry momentum, and which veteran actors emerge as competition when studios reveal their 2025 slates at CinemaCon in April 2025.
+Key catalysts to monitor include the film's initial release and festival reception in Q3-Q4 2025, followed by Golden Globe nominations (December 2025), Critics Choice and SAG nominations (also December), and then the actual Oscar nomination announcement on January 17, 2026. The real inflection point comes with SAG Awards results in late February 2026—SAG winners have an 80%+ correlation with eventual Oscar winners in acting categories. Traders should watch for any signs of a "spoiler" performance emerging from Sundance or Cannes 2025 that could fragment the vote, as Best Actor fields with multiple strong contenders historically produce upset winners.
 
 ## Related Markets
 
+- [Will Hamnet win Best Adapted Screenplay at the 98th Academy Awards?](/odds/will-hamnet-win-best-adapted-screenplay-at-the-98th-academy-awards) — 3% YES
 - [Will Frankenstein win Best Cinematography at the 98th Academy Awards?](/odds/will-frankenstein-win-best-cinematography-at-the-98th-academy-awards) — 1% YES
 - [Will The Smashing Machine win Best Makeup and Hairstyling at the 98th Academy Awards?](/odds/will-the-smashing-machine-win-best-makeup-and-hairstyling-at-the-98th-academy-aw) — 1% YES
 
 ## Frequently Asked Questions
 
-### When will "Marty Supreme" likely be released and why does timing matter for Chalamet's Oscar chances?
+### What other roles might Chalamet be competing against for the 2026 Best Actor race?
 
-The film needs a release between October and December 2025 to maximize Academy visibility, as voters historically favor performances fresh in their memory during the January 2026 nomination voting period. A summer or early fall release could cause the performance to fade from consideration.
+The field remains largely unknown until fall 2025 festival debuts, but potential contenders include established stars in prestige dramas that haven't been fully revealed yet. Dark horse candidates often emerge from Sundance, Cannes, or limited releases that gain critical momentum throughout awards season.
 
-### Has a ping-pong or sports drama film ever won Best Actor at the Oscars?
+### How important is "A Complete Unknown" director James Mangold's track record for Chalamet's chances?
 
-Traditional sports dramas rarely win Best Actor—the last was arguably Jamie Foxx in "Ray" (2004) which centered on music rather than athletics. Unconventional sports subjects typically struggle unless the performance transcends the athletic elements entirely, which works against Chalamet's chances with this material.
+Mangold directed "Walk the Line" which earned Joaquin Phoenix an Oscar nomination for playing Johnny Cash, demonstrating he can guide actors through music biopics successfully. However, the film itself needs Best Picture traction—solo acting wins without Picture nominations are increasingly rare.
 
-### What other confirmed 2025 films could produce Best Actor contenders that would affect Chalamet's odds?
+### When do Academy members actually vote for Best Actor, and could late momentum shift the outcome?
 
-Paul Thomas Anderson's untitled Leonardo DiCaprio vehicle and Steven Spielberg's UFO film with potential lead performances are major wildcards, plus any prestige biopics announced at upcoming festivals. The odds will fluctuate dramatically as these projects reveal footage and release dates throughout 2025.
+Final Oscar voting opens approximately two weeks before the March 15, 2026 ceremony and closes about a week prior. Late momentum from SAG or BAFTA wins (both in February-March) can dramatically influence voters who wait until the last moment to submit ballots.
 
 ## Learn More
 

@@ -11,7 +11,6 @@ polymarketYes: 1.6
 polymarketNo: 98.5
 polymarketVolume: 96811
 polymarketUrl: "https://polymarket.com/event/will-arizona-diamondbacks-win-the-2026-national-league-championship-series"
-analysisDate: 2026-03-09
 ---
 
 # Arizona Diamondbacks 2026 NLCS Win Analysis

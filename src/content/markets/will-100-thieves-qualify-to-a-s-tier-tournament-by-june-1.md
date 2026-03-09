@@ -1,15 +1,15 @@
 ---
 title: "Will 100 Thieves qualify to a S-tier tournament by June 1 ? "
-description: "Will 100 Thieves qualify to a S-tier tournament by June 1 ?  Odds: 32.0% YES on Polymarket. See live prices and trade this market."
+description: "Will 100 Thieves qualify to a S-tier tournament by June 1 ?  Odds: 26.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will 100 Thieves qualify to a S-tier tournament by June 1 ? "
 category: "politics"
 status: "active"
 lastUpdated: 2026-03-09
 expiryDate: 2026-06-01
 tags: ["politics", "polymarket"]
-polymarketYes: 32.0
-polymarketNo: 68.0
-polymarketVolume: 9611
+polymarketYes: 26.0
+polymarketNo: 74.0
+polymarketVolume: 9954
 polymarketUrl: "https://polymarket.com/event/will-100-thieves-qualify-to-a-s-tier-tournament-by-june-1"
 analysisDate: 2026-03-09
 ---
@@ -20,17 +20,17 @@ analysisDate: 2026-03-09
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 32.0% | 68.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 26.0% | 74.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-This market is badly miscategorized and represents a fundamental data error: 100 Thieves is a professional esports organization primarily competing in League of Legends and Call of Duty, yet it's listed under "politics" with a June 1, 2026 deadline. The 32% odds likely reflect either algorithmic confusion or minimal liquidity with wide bid-ask spreads, as the political categorization makes no sense for a straightforward esports qualification question. Traders should first clarify whether this market actually concerns the organization's competitive performance or if there's been some unusual crossover event (sponsorship by politicians, policy changes affecting esports, etc.).
+There's a significant categorical mismatch here that creates immediate uncertainty: this market is tagged as "politics" but concerns 100 Thieves, a professional esports organization, competing in what appears to be a fighting game or esports circuit by June 2026. The 26% odds suggest the market recognizes structural ambiguity around both which S-tier tournament qualifies and whether 100 Thieves maintains competitive rosters across the relevant game title through the deadline. This matters because misclassification can lead to resolution disputes or volatile repricing if market participants suddenly clarify what tournament and game are actually in scope.
 
-The bull case rests on 100 Thieves' established infrastructure and track record in competitive esports. The organization has fielded competitive rosters in both League of Legends and Call of Duty historically and maintains sufficient financial backing and management expertise to field competitive teams through June 2026. If "S-tier tournament" refers to major international or regional championships (like Worlds, Champs, or franchised league playoffs), the organization has demonstrated ability to qualify in recent years and has roughly 18 months to secure a spot. Strong off-season roster investments or breakthrough performances by current players could improve qualification odds substantially.
+The bull case rests on 100 Thieves' historical competitive depth and franchise stability. The organization fields rosters across multiple esports titles and has demonstrated ability to field competitive teams in fighting games and other tournament circuits. If the S-tier tournament in question aligns with a game where 100 Thieves already has institutional knowledge or player development pipelines, qualification becomes a likely outcome within an 18-month window. Additionally, invitation-based qualifying systems or open bracket paths could significantly improve their probability if the organization commits roster investment toward this specific goal.
 
-The bear case centers on competitive volatility and the rising talent floor in esports. 100 Thieves has faced roster instability and declining performance in certain titles, particularly if their primary roster isn't performing at championship-level. If multiple organizations are strengthening simultaneously or if the organization pivots away from proven title investments, qualification becomes genuinely uncertain. The 18-month timeframe is lengthy enough for significant roster turnover, coaching changes, meta shifts, or organizational resource reallocation—any of which could eliminate qualification chances.
+The bear case hinges on competitive saturation and potential roster turnover. S-tier tournaments typically feature the world's elite players, and maintaining a championship-caliber roster through 2026 requires sustained financial and organizational commitment. Player departures, contract disputes, or strategic pivots toward different game titles could eliminate qualification pathways. The vagueness around which specific tournament qualifies—major regional championships, world championships, or circuit points races all differ substantially in qualification barriers—creates real resolution risk that could surprise traders who assumed a particular tournament.
 
-Key catalysts include 100 Thieves' 2025 roster announcements (typically occurring in November-December of the previous year), major league franchise playoffs across Call of Duty and League of Legends (winter 2024-spring 2025 seasons most critical), and international tournament invitations or qualifier schedules that typically finalize 6-12 months before events. Traders should monitor esports news sources for roster moves, management changes, and early tournament scheduling announcements in Q4 2024 and Q1 2025, as these will signal the organization's competitive trajectory.
+Traders should monitor 100 Thieves' roster announcements and sponsorship news through 2025, watch for official tournament circuit announcements that clarify S-tier tournament definitions before June 2026, and track the organization's stated competitive priorities in their public communications. If the market clarifies which specific tournament and game title are in scope, repricing could be substantial. The current odds appear to price in both organizational uncertainty and the non-trivial logistics of maintaining elite competitive status across an 18-month horizon.
 
 ## Related Markets
 
@@ -40,17 +40,17 @@ Key catalysts include 100 Thieves' 2025 roster announcements (typically occurrin
 
 ## Frequently Asked Questions
 
-### Does "S-tier tournament" have a standard definition in esports prediction markets, or is this qualification requirement ambiguous?
+### Does 100 Thieves need to win the S-tier tournament or only qualify for it?
 
-No official standard exists; this market's lack of specific tournament definition (Worlds? International LAN? League playoffs?) creates serious interpretation risk and suggests the market was poorly designed or miscategorized.
+Market language specifies "qualify to" rather than win, meaning reaching the tournament bracket or finals invitation counts as resolution YES, significantly lowering the bar compared to championship odds.
 
-### If 100 Thieves qualifies for a major league's seasonal playoffs but not an international championship, does this market resolve YES?
+### What happens if multiple S-tier tournaments exist and 100 Thieves qualifies for only some of them?
 
-The ambiguous wording makes this a critical trader question—clarification from the market creator is essential before committing significant capital.
+Resolution hinges on market creator's clarification of which specific tournament counts; ambiguity on this point is the primary resolution risk and could trigger appeals if the organization qualifies for a tournament excluded from the creator's intent.
 
-### Why would an esports market be categorized as "politics" and what does that suggest about market reliability?
+### Can 100 Thieves qualify through open bracket play or does qualification require franchise/circuit status?
 
-This is a major red flag indicating either systematic miscategorization by the platform, minimal liquidity/oversight, or potential platform errors that could affect resolution integrity.
+This depends entirely on the tournament structure once clarified, but many S-tier esports events allow open qualification paths, which would substantially raise the YES probability if that pathway is available.
 
 ## Learn More
 

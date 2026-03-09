@@ -9,9 +9,8 @@ expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 0.1
 polymarketNo: 99.9
-polymarketVolume: 9812
+polymarketVolume: 9818
 polymarketUrl: "https://polymarket.com/event/will-chappell-roan-be-the-top-spotify-artist-for-2026"
-analysisDate: 2026-03-09
 ---
 
 # Chappell Roan Top Spotify Artist 2026 Analysis

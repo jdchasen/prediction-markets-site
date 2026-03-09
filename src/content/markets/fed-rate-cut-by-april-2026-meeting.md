@@ -1,17 +1,16 @@
 ---
 title: "Fed rate cut by April 2026 meeting?"
-description: "Fed rate cut by April 2026 meeting? Odds: 18.5% YES on Polymarket. See live prices and trade this market."
+description: "Fed rate cut by April 2026 meeting? Odds: 15.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Fed rate cut by April 2026 meeting?"
 category: "economics"
 status: "active"
 lastUpdated: 2026-03-09
 expiryDate: 2026-04-29
 tags: ["economics", "federal-reserve", "interest-rates", "polymarket"]
-polymarketYes: 18.5
-polymarketNo: 81.5
-polymarketVolume: 90925
+polymarketYes: 15.5
+polymarketNo: 84.5
+polymarketVolume: 92244
 polymarketUrl: "https://polymarket.com/event/fed-rate-cut-by-april-2026-meeting"
-analysisDate: 2026-03-09
 ---
 
 The market assigns less than one-in-five odds to the Federal Reserve cutting interest rates by its April 2026 meeting, reflecting trader expectations that inflation remains elevated or economic conditions don't deteriorate enough to warrant monetary easing over the next two years.

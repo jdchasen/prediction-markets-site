@@ -11,7 +11,6 @@ polymarketYes: 0.4
 polymarketNo: 99.7
 polymarketVolume: 9624
 polymarketUrl: "https://polymarket.com/event/will-zai-have-the-top-ai-model-at-the-end-of-march-2026"
-analysisDate: 2026-03-09
 ---
 
 # Z.ai Top AI Model Market Analysis

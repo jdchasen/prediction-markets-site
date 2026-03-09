@@ -11,7 +11,6 @@ polymarketYes: 0.4
 polymarketNo: 99.7
 polymarketVolume: 97746
 polymarketUrl: "https://polymarket.com/event/will-kemi-badenoch-be-the-next-prime-minister-of-the-united-kingdom-in-2026-828"
-analysisDate: 2026-03-09
 ---
 
 # Kemi Badenoch PM Prediction Market Analysis

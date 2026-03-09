@@ -3,7 +3,7 @@ title: "Will Alex Vanopslagh be the next prime minister of Denmark after the 202
 description: "Will Alex Vanopslagh be the next prime minister of Denmark after the 2026 parliamentary elections? Odds: 2.7% YES on Polymarket. See live prices and trade th..."
 marketQuestion: "Will Alex Vanopslagh be the next prime minister of Denmark after the 2026 parliamentary elections?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-09
 expiryDate: 2026-03-24
 tags: ["elections", "politics", "polymarket"]

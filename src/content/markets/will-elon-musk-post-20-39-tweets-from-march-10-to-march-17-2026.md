@@ -11,7 +11,6 @@ polymarketYes: 0.1
 polymarketNo: 100.0
 polymarketVolume: 97404
 polymarketUrl: "https://polymarket.com/event/elon-musk-of-tweets-march-10-march-17-20-39"
-analysisDate: 2026-03-09
 ---
 
 This market essentially prices at near-zero the probability that Elon Musk will show unusual restraint in his Twitter/X posting activity during a specific week in March 2026, making it a narrow behavioral bet on one of the platform's most prolific users. The 0.1% odds reflect trader consensus that Musk posting fewer than 40 tweets over an 8-day period is extraordinarily unlikely given his established patterns.

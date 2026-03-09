@@ -9,9 +9,8 @@ expiryDate: 2026-12-06
 tags: ["polymarket", "sports"]
 polymarketYes: 0.4
 polymarketNo: 99.7
-polymarketVolume: 959365
+polymarketVolume: 961611
 polymarketUrl: "https://polymarket.com/event/will-alexander-albon-be-the-2026-f1-drivers-champion"
-analysisDate: 2026-03-09
 ---
 
 Alexander Albon's championship odds sit at an extremely marginal 0.4%, reflecting the market's view that Williams' current performance gap to top teams makes a 2026 title nearly impossible within Formula 1's typical competitive evolution timeframe.

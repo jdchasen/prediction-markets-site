@@ -11,7 +11,6 @@ polymarketYes: 0.4
 polymarketNo: 99.6
 polymarketVolume: 9617
 polymarketUrl: "https://polymarket.com/event/will-stephen-cloobeck-win-the-california-governor-election-in-2026"
-analysisDate: 2026-03-09
 ---
 
 # Stephen Cloobeck 2026 California Governor Analysis

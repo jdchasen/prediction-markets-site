@@ -8,10 +8,9 @@ lastUpdated: 2026-03-09
 expiryDate: 2028-11-07
 tags: ["politics", "polymarket"]
 polymarketYes: 1.5
-polymarketNo: 98.5
-polymarketVolume: 9851270
+polymarketNo: 98.6
+polymarketVolume: 9909610
 polymarketUrl: "https://polymarket.com/event/will-wes-moore-win-the-2028-democratic-presidential-nomination-714"
-analysisDate: 2026-03-09
 ---
 
 Maryland Governor Wes Moore sits at minimal odds to capture the 2028 Democratic nomination, reflecting his status as a political newcomer with limited national profile despite his compelling biography and strong 2022 gubernatorial victory.

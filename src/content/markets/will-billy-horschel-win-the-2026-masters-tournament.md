@@ -9,9 +9,8 @@ expiryDate: 2026-04-13
 tags: ["polymarket", "sports"]
 polymarketYes: 0.4
 polymarketNo: 99.7
-polymarketVolume: 99846
+polymarketVolume: 99906
 polymarketUrl: "https://polymarket.com/event/will-billy-horschel-win-the-2026-masters-tournament"
-analysisDate: 2026-03-09
 ---
 
 The market pricing Billy Horschel at less than half a percent to win the 2026 Masters reflects his career trajectory at Augusta National, where he's never seriously contended despite being a quality PGA Tour professional with multiple wins including the 2024 BMW Championship.

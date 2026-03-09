@@ -1,17 +1,16 @@
 ---
 title: "Will Cole Palmer win the 2026 Ballon d'Or?"
-description: "Will Cole Palmer win the 2026 Ballon d'Or? Odds: 1.2% YES on Polymarket. See live prices and trade this market."
+description: "Will Cole Palmer win the 2026 Ballon d'Or? Odds: 1.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Cole Palmer win the 2026 Ballon d'Or?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-03-09
 expiryDate: 2026-10-31
 tags: ["politics", "polymarket"]
-polymarketYes: 1.2
-polymarketNo: 98.8
+polymarketYes: 1.4
+polymarketNo: 98.6
 polymarketVolume: 9639
 polymarketUrl: "https://polymarket.com/event/will-cole-palmer-win-the-2026-ballon-dor"
-analysisDate: 2026-03-09
 ---
 
 # Cole Palmer and the 2026 Ballon d'Or: A Miscategorization Problem

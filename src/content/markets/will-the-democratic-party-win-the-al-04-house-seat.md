@@ -11,7 +11,6 @@ polymarketYes: 2.5
 polymarketNo: 97.5
 polymarketVolume: 9821
 polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-al-04-house-seat"
-analysisDate: 2026-03-09
 ---
 
 # AL-04 House Seat: Democratic Long Shot in Deep Red Territory

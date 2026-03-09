@@ -11,7 +11,6 @@ polymarketYes: 0.9
 polymarketNo: 99.1
 polymarketVolume: 9753
 polymarketUrl: "https://polymarket.com/event/will-the-smashing-machine-win-best-makeup-and-hairstyling-at-the-98th-academy-awards"
-analysisDate: 2026-03-09
 ---
 
 # The Smashing Machine's Makeup Oscar Chances Remain Vanishingly Slim

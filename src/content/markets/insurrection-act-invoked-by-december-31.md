@@ -3,7 +3,7 @@ title: "Insurrection Act invoked by December 31?"
 description: "Insurrection Act invoked by December 31? Odds: 36.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Insurrection Act invoked by December 31?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-09
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]

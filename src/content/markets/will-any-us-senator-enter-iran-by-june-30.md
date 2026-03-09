@@ -3,7 +3,7 @@ title: "Will any U.S. Senator enter Iran by June 30?"
 description: "Will any U.S. Senator enter Iran by June 30? Odds: 9.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will any U.S. Senator enter Iran by June 30?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-09
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]

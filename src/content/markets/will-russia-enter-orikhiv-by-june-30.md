@@ -11,7 +11,6 @@ polymarketYes: 35.0
 polymarketNo: 65.0
 polymarketVolume: 9858
 polymarketUrl: "https://polymarket.com/event/will-russia-enter-orikhiv-by-june-30"
-analysisDate: 2026-03-09
 ---
 
 # Russia's Potential Advance on Orikhiv: A 18-Month Outlook

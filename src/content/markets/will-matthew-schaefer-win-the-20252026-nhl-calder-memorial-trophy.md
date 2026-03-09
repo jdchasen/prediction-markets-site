@@ -1,17 +1,16 @@
 ---
 title: "Will Matthew Schaefer win the 2025–2026 NHL Calder Memorial Trophy?"
-description: "Will Matthew Schaefer win the 2025–2026 NHL Calder Memorial Trophy? Odds: 92.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Matthew Schaefer win the 2025–2026 NHL Calder Memorial Trophy? Odds: 93.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Matthew Schaefer win the 2025–2026 NHL Calder Memorial Trophy?"
 category: "sports"
 status: "active"
 lastUpdated: 2026-03-09
 expiryDate: 2026-06-30
 tags: ["polymarket", "sports"]
-polymarketYes: 92.5
-polymarketNo: 7.5
+polymarketYes: 93.5
+polymarketNo: 6.5
 polymarketVolume: 9615
 polymarketUrl: "https://polymarket.com/event/nhl-2025-26-calder-memorial-trophy-matthew-schaefer"
-analysisDate: 2026-03-09
 ---
 
 # Matthew Schaefer 2025-2026 Calder Trophy Analysis

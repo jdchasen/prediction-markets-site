@@ -9,9 +9,8 @@ expiryDate: 2026-06-03
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.1
 polymarketNo: 99.9
-polymarketVolume: 9886
+polymarketVolume: 9899
 polymarketUrl: "https://polymarket.com/event/will-kim-eun-hye-win-the-2026-gyeonggi-province-gubernatorial-election"
-analysisDate: 2026-03-09
 ---
 
 # Kim Eun-hye 2026 Gyeonggi Gubernatorial Race Analysis

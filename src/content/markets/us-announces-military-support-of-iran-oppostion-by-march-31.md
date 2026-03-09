@@ -3,7 +3,7 @@ title: "US announces military support of Iran oppostion by March 31?"
 description: "US announces military support of Iran oppostion by March 31? Odds: 23.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "US announces military support of Iran oppostion by March 31?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-09
 expiryDate: 2026-03-31
 tags: ["politics", "polymarket"]

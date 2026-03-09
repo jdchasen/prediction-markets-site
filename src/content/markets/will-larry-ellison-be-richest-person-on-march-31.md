@@ -9,9 +9,8 @@ expiryDate: 2026-03-31
 tags: ["politics", "polymarket"]
 polymarketYes: 0.1
 polymarketNo: 99.9
-polymarketVolume: 9947
+polymarketVolume: 9957
 polymarketUrl: "https://polymarket.com/event/will-larry-ellison-be-richest-person-on-march-31"
-analysisDate: 2026-03-09
 ---
 
 # Larry Ellison Richest Person Market Analysis

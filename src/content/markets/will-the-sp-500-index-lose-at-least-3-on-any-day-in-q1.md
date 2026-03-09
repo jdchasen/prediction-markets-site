@@ -3,7 +3,7 @@ title: "Will the S&P 500 Index lose at least 3% on any day in Q1?"
 description: "Will the S&P 500 Index lose at least 3% on any day in Q1? Odds: 38.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the S&P 500 Index lose at least 3% on any day in Q1?"
 category: "finance"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-09
 expiryDate: 2026-03-31
 tags: ["finance", "polymarket", "stocks"]

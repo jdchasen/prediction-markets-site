@@ -9,9 +9,8 @@ expiryDate: 2026-06-07
 tags: ["politics", "polymarket"]
 polymarketYes: 43.0
 polymarketNo: 57.0
-polymarketVolume: 9669
+polymarketVolume: 9749
 polymarketUrl: "https://polymarket.com/event/will-carlos-alcaraz-win-the-2026-mens-french-open"
-analysisDate: 2026-03-09
 ---
 
 # Carlos Alcaraz and the 2026 French Open: Market Analysis
