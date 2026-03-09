@@ -22,3 +22,10 @@ pnpm-debug.log*
 
 # jetbrains setting folder
 .idea/
+
+# video pipeline outputs
+scripts/output/
+scripts/__pycache__/
+video/public/audio/
+video/public/images/
+video/node_modules/

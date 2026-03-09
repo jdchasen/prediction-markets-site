@@ -1,0 +1,101 @@
+name: Daily True Crime Video
+
+on:
+  schedule:
+    # 14:00 UTC = 9:00 AM ET — post mid-morning for true crime audience
+    - cron: '0 14 * * 1-5'  # Weekdays only
+  workflow_dispatch: # Allow manual trigger
+
+permissions:
+  contents: write
+
+jobs:
+  generate-render-upload:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # --- Python: Generate true crime JSON ---
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install Python dependencies
+        run: pip install -r scripts/requirements.txt
+
+      - name: Generate true crime data
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python scripts/generate_truecrime_video.py
+
+      # --- Node.js: Render video + Upload ---
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install video dependencies
+        working-directory: video
+        run: npm ci
+
+      - name: Install Chrome for Remotion
+        run: npx remotion browser ensure
+
+      - name: Render video
+        working-directory: video
+        env:
+          ELEVENLABS_API_KEY: ${{ secrets.ELEVENLABS_API_KEY }}
+        run: |
+          TODAY=$(date -u +%Y-%m-%d)
+          JSON_FILE=$(ls -t data/truecrime-*-${TODAY}.json 2>/dev/null | head -1)
+          if [ -z "$JSON_FILE" ]; then
+            echo "No truecrime JSON for today ($TODAY), checking for latest..."
+            JSON_FILE=$(ls -t data/truecrime-*.json 2>/dev/null | head -1)
+          fi
+          if [ -z "$JSON_FILE" ]; then
+            echo "No truecrime JSON found"
+            exit 1
+          fi
+          echo "Rendering: $JSON_FILE"
+          npx tsx render.ts --topic "$JSON_FILE"
+
+      - name: Upload to YouTube
+        working-directory: video
+        if: ${{ env.YOUTUBE_TC_REFRESH_TOKEN != '' }}
+        env:
+          YOUTUBE_TC_CLIENT_ID: ${{ secrets.YOUTUBE_TC_CLIENT_ID }}
+          YOUTUBE_TC_CLIENT_SECRET: ${{ secrets.YOUTUBE_TC_CLIENT_SECRET }}
+          YOUTUBE_TC_REFRESH_TOKEN: ${{ secrets.YOUTUBE_TC_REFRESH_TOKEN }}
+          YOUTUBE_CLIENT_ID: ${{ secrets.YOUTUBE_TC_CLIENT_ID }}
+          YOUTUBE_CLIENT_SECRET: ${{ secrets.YOUTUBE_TC_CLIENT_SECRET }}
+        run: npx tsx upload-youtube.ts --latest-truecrime
+
+      - name: Post Twitter thread
+        if: ${{ env.TWITTER_API_KEY != '' }}
+        env:
+          TWITTER_API_KEY: ${{ secrets.TWITTER_API_KEY }}
+          TWITTER_API_SECRET: ${{ secrets.TWITTER_API_SECRET }}
+          TWITTER_ACCESS_TOKEN: ${{ secrets.TWITTER_ACCESS_TOKEN }}
+          TWITTER_ACCESS_TOKEN_SECRET: ${{ secrets.TWITTER_ACCESS_TOKEN_SECRET }}
+        run: |
+          pip install tweepy
+          TODAY=$(date -u +%Y-%m-%d)
+          JSON_FILE=$(ls -t video/data/truecrime-*-${TODAY}.json 2>/dev/null | head -1)
+          if [ -n "$JSON_FILE" ]; then
+            python scripts/post_twitter_thread.py "$JSON_FILE"
+          else
+            echo "No truecrime JSON found for thread"
+          fi
+
+      # --- Save artifacts for debugging ---
+      - name: Upload video artifact
+        uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: daily-truecrime-video
+          path: scripts/output/videos/rendered/shorts/*truecrime*.mp4
+          retention-days: 7
