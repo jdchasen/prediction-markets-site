@@ -154,19 +154,19 @@ function buildTrueCrimeMetadata(data: TopicVideoData) {
     "",
     cardLines,
     "",
-    "Subscribe for daily true crime updates!",
+    "Cold Trail — the cases nobody talks about. New case every day.",
     "",
-    "#truecrime #crime #coldcase #mystery #investigation #shorts",
+    "#truecrime #coldcase #coldtrail #unsolved #dna #crime #documentary #shorts",
   ].join("\n");
 
   const tags = [
     "true crime",
     "cold case",
-    "crime",
-    "mystery",
-    "investigation",
+    "cold trail",
+    "unsolved murders",
+    "crime documentary",
+    "DNA cold case",
     "shorts",
-    "crime news",
     ...data.cards.slice(0, 3).map((c) => c.title.toLowerCase().slice(0, 30)),
   ];
 
@@ -185,18 +185,20 @@ function buildFinanceMetadata(data: TopicVideoData) {
     "",
     cardLines,
     "",
-    "Subscribe for daily money tips!",
+    "Money Minute — daily money tips that actually work. New tip every weekday.",
     "",
-    "#personalfinance #money #finance #investing #savings #shorts",
+    "#personalfinance #money #moneyminute #investing #savings #budget #moneytips #shorts",
   ].join("\n");
 
   const tags = [
     "personal finance",
     "money",
+    "money minute",
     "finance",
     "investing",
     "savings",
     "budget",
+    "money tips",
     "shorts",
     ...data.cards.slice(0, 3).map((c) => c.title.toLowerCase().slice(0, 30)),
   ];
@@ -311,7 +313,7 @@ async function main() {
     roundup: "MPM",
     kids: "FactZap",
     truecrime: "True Crime",
-    finance: "Finance",
+    finance: "Money Minute",
   };
   const channelName = CHANNEL_NAMES[contentType];
 
@@ -393,6 +395,7 @@ async function main() {
         status: {
           privacyStatus: scheduledAt ? "private" : "public",
           selfDeclaredMadeForKids: false,
+          containsSyntheticMedia: true,
           ...(scheduledAt ? { publishAt: new Date(scheduledAt).toISOString() } : {}),
         },
       },
@@ -442,6 +445,7 @@ async function main() {
         status: {
           privacyStatus: scheduledAt ? "private" : "public",
           selfDeclaredMadeForKids: false,
+          containsSyntheticMedia: true,
           ...(scheduledAt ? { publishAt: new Date(scheduledAt).toISOString() } : {}),
         },
       },
@@ -490,6 +494,7 @@ async function main() {
         status: {
           privacyStatus: scheduledAt ? "private" : "public",
           selfDeclaredMadeForKids: false,
+          containsSyntheticMedia: true,
           ...(scheduledAt ? { publishAt: new Date(scheduledAt).toISOString() } : {}),
         },
       },
