@@ -3,7 +3,7 @@ title: "Will Finland win Eurovision 2026?"
 description: "Will Finland win Eurovision 2026? Odds: 36.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Finland win Eurovision 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-10
 expiryDate: 2026-05-16
 tags: ["politics", "polymarket"]

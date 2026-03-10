@@ -1,53 +1,54 @@
 ---
 title: "Trump-Denmark Greenland deal signed by March 31?"
-description: "Trump-Denmark Greenland deal signed by March 31? Odds: 1.3% YES on Polymarket. See live prices and trade this market."
+description: "Trump-Denmark Greenland deal signed by March 31? Odds: 1.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Trump-Denmark Greenland deal signed by March 31?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-03-10
 expiryDate: 2026-03-31
 tags: ["politics", "polymarket", "trump"]
-polymarketYes: 1.3
+polymarketYes: 1.4
 polymarketNo: 98.7
-polymarketVolume: 998412
+polymarketVolume: 998648
 polymarketUrl: "https://polymarket.com/event/trump-x-greenland-deal-signed-by-march-31"
+analysisDate: 2026-03-10
 ---
 
-This market gives almost no chance to a Trump-Denmark Greenland deal by March 2026, reflecting widespread skepticism that Denmark would agree to sell or transfer sovereignty of its autonomous territory within the next year. The question gained renewed attention after Trump's repeated statements about acquiring Greenland, but the 1.3% odds indicate traders view this as virtually impossible given Denmark's firm rejections and the constitutional complexities involved.
+Traders are pricing in an extremely low 1.4% probability that Trump will sign a formal agreement with Denmark to acquire Greenland by March 2026, reflecting widespread skepticism that such a complex territorial transfer could be negotiated and finalized within fourteen months.
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 1.3% | 98.7% | $997K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 1.4% | 98.7% | $999K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The bull case rests on Trump's demonstrated willingness to pursue unconventional diplomatic initiatives and potential economic pressure points. If the U.S. offered an extraordinarily large financial package—potentially hundreds of billions of dollars—combined with enhanced defense commitments amid rising Arctic tensions with Russia and China, Denmark might reconsider. Greenland's government, while part of the Danish realm, has increasing autonomy and could theoretically pursue independence followed by association with the U.S. The timeline would be extremely compressed, but a preliminary framework agreement could technically qualify as a "deal signed" even if implementation takes years.
+The bull case rests on Trump's demonstrated willingness to pursue unconventional diplomatic deals and his longstanding interest in acquiring Greenland, which he publicly floated during his first term in 2019. If Trump views this as a signature foreign policy achievement—potentially framing it as a strategic move against Chinese Arctic expansion—he could prioritize negotiations immediately upon taking office in January 2025. Denmark's current minority government, led by Prime Minister Mette Frederiksen, faces domestic economic pressures that theoretically could make a financially substantial offer more palatable than it was in 2019. The timeline allows approximately 14 months of negotiations following Trump's inauguration, and Trump has shown he's willing to bypass traditional diplomatic processes when pursuing headline-grabbing deals.
 
-The bear case is overwhelming: Denmark's Prime Minister has repeatedly stated Greenland is not for sale, and any transfer would require approval from Denmark's parliament, Greenland's parliament, and likely multiple referendums. Greenland's 57,000 residents have shown little interest in becoming U.S. territory, preferring either continued Danish association or full independence. Constitutional scholars note that Danish law makes territorial sales exceptionally difficult, requiring supermajorities and potentially constitutional amendments. The March 2026 deadline provides barely a year for negotiations that would typically take decades, and no formal diplomatic channels for such discussions have been established. Denmark's government has no political incentive to engage seriously given strong domestic opposition.
+The bear case is considerably stronger. Denmark has consistently stated Greenland is not for sale, and any sale would require approval from both the Danish Parliament and Greenland's own parliament (Inatsisartut), where self-governance sentiment runs extremely high. Greenland's 2009 Self-Government Act gives the territory substantial autonomy, and polling from Greenlandic institutions shows overwhelming public opposition to becoming part of the United States. The constitutional and legislative hurdles in three separate governing bodies—U.S. Congress for funding and treaty ratification, Danish Folketing, and Greenland's parliament—make a March 2026 deadline nearly impossible even if all parties were willing. European Union dynamics further complicate matters, as Denmark would face pressure from EU partners to reject any such arrangement that could set precedent for territorial transactions.
 
-Key catalysts to watch include any official state visits between Trump and Danish leadership, which would signal actual negotiations rather than rhetorical positioning. Denmark holds its next parliamentary election by June 2026 at the latest, though one could be called earlier if the Greenland issue destabilizes the government. Greenland's parliamentary elections aren't scheduled until 2025's end at the earliest. Arctic Council meetings and NATO summits in 2025 could provide venues for preliminary discussions, though these haven't been scheduled yet. Any concrete proposal would need to emerge by late 2025 to allow time for the legislative processes required before March 2026.
+Key catalysts to monitor include Trump's initial foreign policy priorities in the first 100 days after January 20, 2025, any state visits or formal diplomatic outreach to Copenhagen, and Denmark's April 2026 parliamentary elections (though this falls after the market deadline). Watch for leaked negotiation attempts, official Danish or Greenlandic government responses to any U.S. overtures, and whether Trump appoints an ambassador to Denmark focused on this objective. Congressional appropriations processes in spring 2025 would need to show any budgetary provisions for such an acquisition. Any movement above 5% probability would likely require confirmed bilateral negotiations, which would be impossible to keep secret given the political sensitivity in all three jurisdictions.
 
 ## Related Markets
 
-- [Will the next Prime Minister of Hungary be László Toroczkai?](/odds/will-the-next-prime-minister-of-hungary-be-lszl-toroczkai) — 1% YES
 - [Will Jesus Christ return before GTA VI?](/odds/will-jesus-christ-return-before-gta-vi) — 48% YES
-- [Will Wes Moore win the 2028 Democratic presidential nomination?](/odds/will-wes-moore-win-the-2028-democratic-presidential-nomination) — 2% YES
+- [Will Mark Kelly win the 2028 Democratic presidential nomination?](/odds/will-mark-kelly-win-the-2028-democratic-presidential-nomination) — 2% YES
+- [Will Rahm Emanuel win the 2028 Democratic presidential nomination?](/odds/will-rahm-emanuel-win-the-2028-democratic-presidential-nomination) — 2% YES
 
 ## Frequently Asked Questions
 
-### What would constitute a "deal signed" for this market's resolution criteria?
+### Would Greenland's population need to approve this deal directly through a referendum?
 
-This likely requires a formal bilateral agreement or treaty signed by authorized government representatives from both nations, not merely a preliminary memorandum of understanding or letter of intent. The specific resolution criteria should clarify whether legislative ratification is required or just executive signatures.
+While not constitutionally required, any credible transfer of sovereignty would almost certainly require a referendum in Greenland given the precedent of their 2008 self-governance vote and the politically explosive nature of such a decision. Denmark would face immense international criticism if it sold Greenland without explicit consent from Greenlanders themselves.
 
-### Could Greenland bypass Denmark and negotiate directly with the United States?
+### What happened when Trump previously proposed buying Greenland in 2019?
 
-While Greenland has substantial autonomy over domestic affairs, Denmark retains control over foreign policy and defense matters, meaning any sovereignty transfer would legally require Danish government participation and approval. Greenland could theoretically declare independence first, but that process alone would likely exceed the March 2026 timeline.
+Danish Prime Minister Mette Frederiksen called the idea "absurd" in August 2019, prompting Trump to cancel a planned state visit to Denmark. Greenland's foreign minister similarly rejected the concept, and the proposal went nowhere, establishing the diplomatic baseline that makes current negotiations even more unlikely.
 
-### Has the United States ever successfully purchased populated territory in modern times?
+### Could Trump use executive authority to sign an agreement without Congressional approval?
 
-The last major U.S. territorial purchase was the 1917 acquisition of the U.S. Virgin Islands from Denmark for $25 million, but modern international law and self-determination principles make such transactions far more complex today, requiring consent from the population involved through democratic processes.
+No—any acquisition of territory would require Congressional authorization for funding (likely hundreds of billions of dollars) and Senate ratification of a treaty or approval of a land purchase agreement. The Constitution grants Congress explicit power over territorial acquisition, making unilateral executive action legally impossible.
 
 ## Learn More
 

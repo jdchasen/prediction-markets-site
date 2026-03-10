@@ -9,9 +9,8 @@ expiryDate: 2026-03-15
 tags: ["ai", "entertainment", "polymarket"]
 polymarketYes: 0.9
 polymarketNo: 99.1
-polymarketVolume: 9774
+polymarketVolume: 9884
 polymarketUrl: "https://polymarket.com/event/will-the-smashing-machine-win-best-makeup-and-hairstyling-at-the-98th-academy-awards"
-analysisDate: 2026-03-10
 ---
 
 # The Smashing Machine's Makeup Oscar Odds: A Severe Long Shot

@@ -3,7 +3,7 @@ title: "Will Elon Musk post 500-519 tweets from March 6 to March 13, 2026?"
 description: "Will Elon Musk post 500-519 tweets from March 6 to March 13, 2026? Odds: 1.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Elon Musk post 500-519 tweets from March 6 to March 13, 2026?"
 category: "tech"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-10
 expiryDate: 2026-03-13
 tags: ["polymarket", "tech"]

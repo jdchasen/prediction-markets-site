@@ -11,7 +11,6 @@ polymarketYes: 0.1
 polymarketNo: 99.9
 polymarketVolume: 9602
 polymarketUrl: "https://polymarket.com/event/will-nicole-lee-ethington-be-the-republican-nominee-for-ky-04"
-analysisDate: 2026-03-10
 ---
 
 # Nicole Lee Ethington and Kentucky's Fourth District Republican Primary

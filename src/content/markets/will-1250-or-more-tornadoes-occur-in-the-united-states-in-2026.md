@@ -11,7 +11,6 @@ polymarketYes: 35.0
 polymarketNo: 65.0
 polymarketVolume: 9979
 polymarketUrl: "https://polymarket.com/event/will-1250-or-more-tornadoes-occur-in-the-united-states-in-2026"
-analysisDate: 2026-03-10
 ---
 
 # Tornado Prediction Market Analysis

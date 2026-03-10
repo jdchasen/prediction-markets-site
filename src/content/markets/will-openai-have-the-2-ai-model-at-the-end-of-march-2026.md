@@ -3,7 +3,7 @@ title: "Will OpenAI have the #2 AI model at the end of March 2026?"
 description: "Will OpenAI have the #2 AI model at the end of March 2026? Odds: 2.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will OpenAI have the #2 AI model at the end of March 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-10
 expiryDate: 2026-03-31
 tags: ["ai", "politics", "polymarket"]

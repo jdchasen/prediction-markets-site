@@ -1,17 +1,16 @@
 ---
 title: "Will Jay Huff lead the NBA in blocks during the 2025–26 NBA season?"
-description: "Will Jay Huff lead the NBA in blocks during the 2025–26 NBA season? Odds: 1.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Jay Huff lead the NBA in blocks during the 2025–26 NBA season? Odds: 0.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Jay Huff lead the NBA in blocks during the 2025–26 NBA season?"
 category: "sports"
 status: "active"
 lastUpdated: 2026-03-10
 expiryDate: 2026-04-12
 tags: ["polymarket", "sports"]
-polymarketYes: 1.5
-polymarketNo: 98.6
-polymarketVolume: 9580
+polymarketYes: 0.8
+polymarketNo: 99.2
+polymarketVolume: 9845
 polymarketUrl: "https://polymarket.com/event/nba-2025-26-bpg-leader-jay-huff"
-analysisDate: 2026-03-10
 ---
 
 # Jay Huff Block Leader Analysis

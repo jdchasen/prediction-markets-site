@@ -9,9 +9,8 @@ expiryDate: 2026-06-30
 tags: ["polymarket", "sports"]
 polymarketYes: 0.1
 polymarketNo: 99.9
-polymarketVolume: 973729
+polymarketVolume: 976237
 polymarketUrl: "https://polymarket.com/event/will-the-calgary-flames-win-the-2026-nhl-stanley-cup"
-analysisDate: 2026-03-10
 ---
 
 The Calgary Flames are essentially written off as 2026 Stanley Cup contenders with near-zero probability on prediction markets, reflecting a franchise in transition that currently sits outside playoff positioning in a highly competitive Western Conference. This matters now as the team faces critical decisions at the 2025 trade deadline (March 7) about whether to commit to a rebuild or make an unexpected push with their expiring veteran contracts.

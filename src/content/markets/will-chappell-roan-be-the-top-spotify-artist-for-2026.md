@@ -11,7 +11,6 @@ polymarketYes: 0.1
 polymarketNo: 99.9
 polymarketVolume: 9826
 polymarketUrl: "https://polymarket.com/event/will-chappell-roan-be-the-top-spotify-artist-for-2026"
-analysisDate: 2026-03-10
 ---
 
 # Chappell Roan's 2026 Spotify Dominance: A Misclassified Market

@@ -9,9 +9,8 @@ expiryDate: 2026-03-29
 tags: ["politics", "polymarket"]
 polymarketYes: 1.1
 polymarketNo: 99.0
-polymarketVolume: 97057
+polymarketVolume: 97402
 polymarketUrl: "https://polymarket.com/event/will-tyloo-win-blast-open-rotterdam-2026"
-analysisDate: 2026-03-10
 ---
 
 # Tyloo at Blast Open Rotterdam 2026

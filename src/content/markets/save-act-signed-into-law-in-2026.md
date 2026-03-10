@@ -3,7 +3,7 @@ title: "SAVE Act signed into law in 2026?"
 description: "SAVE Act signed into law in 2026? Odds: 17.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "SAVE Act signed into law in 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-10
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]

@@ -1,17 +1,16 @@
 ---
 title: "Will San Diego Padres win the 2026 National League Championship Series?"
-description: "Will San Diego Padres win the 2026 National League Championship Series? Odds: 8.8% YES on Polymarket. See live prices and trade this market."
+description: "Will San Diego Padres win the 2026 National League Championship Series? Odds: 8.3% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will San Diego Padres win the 2026 National League Championship Series?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-03-10
 expiryDate: 2026-11-01
 tags: ["politics", "polymarket"]
-polymarketYes: 8.8
-polymarketNo: 91.2
-polymarketVolume: 96426
+polymarketYes: 8.3
+polymarketNo: 91.7
+polymarketVolume: 96445
 polymarketUrl: "https://polymarket.com/event/will-san-diego-padres-win-the-2026-national-league-championship-series"
-analysisDate: 2026-03-10
 ---
 
 # San Diego Padres 2026 NLCS Prediction Market Analysis

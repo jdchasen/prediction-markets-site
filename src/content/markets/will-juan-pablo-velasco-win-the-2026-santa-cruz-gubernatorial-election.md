@@ -3,7 +3,7 @@ title: "Will Juan Pablo Velasco win the 2026 Santa Cruz gubernatorial election?"
 description: "Will Juan Pablo Velasco win the 2026 Santa Cruz gubernatorial election? Odds: 9.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Juan Pablo Velasco win the 2026 Santa Cruz gubernatorial election?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-10
 expiryDate: 2026-03-22
 tags: ["elections", "politics", "polymarket"]

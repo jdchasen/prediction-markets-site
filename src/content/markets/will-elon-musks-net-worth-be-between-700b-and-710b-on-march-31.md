@@ -3,7 +3,7 @@ title: "Will Elon Musk’s net worth be between $700b and $710b on March 31?"
 description: "Will Elon Musk’s net worth be between $700b and $710b on March 31? Odds: 3.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Elon Musk’s net worth be between $700b and $710b on March 31?"
 category: "tech"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-10
 expiryDate: 2026-03-31
 tags: ["polymarket", "tech"]

@@ -9,9 +9,8 @@ expiryDate: 2026-03-31
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 0.1
 polymarketNo: 99.9
-polymarketVolume: 96789
+polymarketVolume: 97289
 polymarketUrl: "https://polymarket.com/event/will-mistral-have-the-best-ai-model-for-coding-on-march-31"
-analysisDate: 2026-03-10
 ---
 
 The market essentially prices Mistral as having virtually no chance of leading AI coding capabilities by March 2026, reflecting skepticism about the French AI startup's ability to surpass well-funded American competitors despite recent technical progress.

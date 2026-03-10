@@ -9,9 +9,8 @@ expiryDate: 2026-05-20
 tags: ["politics", "polymarket"]
 polymarketYes: 0.1
 polymarketNo: 99.9
-polymarketVolume: 9960
+polymarketVolume: 9965
 polymarketUrl: "https://polymarket.com/event/will-colby-donaldson-win-survivor-season-50"
-analysisDate: 2026-03-10
 ---
 
 # Analysis

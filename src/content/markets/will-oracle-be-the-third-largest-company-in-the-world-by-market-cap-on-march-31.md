@@ -9,9 +9,8 @@ expiryDate: 2026-03-31
 tags: ["finance", "polymarket"]
 polymarketYes: 0.4
 polymarketNo: 99.7
-polymarketVolume: 96298
+polymarketVolume: 96318
 polymarketUrl: "https://polymarket.com/event/will-oracle-be-the-third-largest-company-in-the-world-by-market-cap-on-march-31"
-analysisDate: 2026-03-10
 ---
 
 # Oracle's Path to Third-Largest Company: A Contrarian Bet

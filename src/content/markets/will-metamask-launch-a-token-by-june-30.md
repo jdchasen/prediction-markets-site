@@ -1,53 +1,54 @@
 ---
 title: "Will MetaMask launch a token by June 30?"
-description: "Will MetaMask launch a token by June 30? Odds: 13.5% YES on Polymarket. See live prices and trade this market."
+description: "Will MetaMask launch a token by June 30? Odds: 11.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will MetaMask launch a token by June 30?"
 category: "crypto"
 status: "active"
 lastUpdated: 2026-03-10
 expiryDate: 2026-07-01
 tags: ["crypto", "polymarket"]
-polymarketYes: 13.5
-polymarketNo: 86.5
-polymarketVolume: 993298
+polymarketYes: 11.5
+polymarketNo: 88.5
+polymarketVolume: 994907
 polymarketUrl: "https://polymarket.com/event/will-metamask-launch-a-token-by-june-30"
+analysisDate: 2026-03-10
 ---
 
-MetaMask faces long odds of launching a native token by mid-2026, with traders pricing just a 13.5% probability despite years of community speculation about a potential airdrop from the widely-used Ethereum wallet.
+MetaMask launching a native token trades at just 11.5% probability through mid-2026, reflecting deep skepticism despite years of community speculation about the world's leading self-custody wallet airdropping a governance token. The low odds stem from parent company ConsenSys's consistent silence on tokenization plans and the reality that MetaMask already generates substantial revenue through swap fees (0.875% on transactions) without needing token-based incentives. With over 30 million monthly active users and a dominant market position, the wallet has less pressure than competitors to issue tokens for user acquisition or retention.
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 13.5% | 86.5% | $992K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 11.5% | 88.5% | $995K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The bull case centers on ConsenSys's shifting business incentives and competitive pressure. With rival wallets like Rabby and Rainbow gaining market share through token incentives and governance features, MetaMask may need its own token to retain users and create a sustainable revenue model beyond swap fees. ConsenSys laid off staff in 2024 and faces ongoing financial pressures that could make a token launch attractive for capital raising. The company has previously explored tokenization of other products, and parent company ConsenSys already operates in the token ecosystem through Infura and other services. A governance token could also help decentralize decision-making around MetaMask Snaps and future protocol development, potentially insulating ConsenSys from regulatory scrutiny.
+The bull case centers on competitive dynamics and regulatory clarity. Rivals like Phantom (Solana) and Rabby have gained ground by offering superior UX, while DeFi protocols increasingly reward users who interact through specific wallet interfaces. If the SEC provides clearer guidance on utility tokens in 2025—particularly after potential leadership changes—ConsenSys could launch a governance token for MetaMask DAO to decentralize development decisions and reward long-time users. The company's August 2024 layoffs (affecting 20% of staff) and ongoing legal battle with the SEC over whether MetaMask Swaps constitutes securities brokerage could also push leadership toward decentralization as a defensive strategy. A token launch would likely follow ConsenSys resolving its SEC dispute, with any settlement announcement serving as a potential catalyst.
 
-The bear case is straightforward: ConsenSys has repeatedly denied plans for a MetaMask token, most recently in 2024 statements from company leadership. The wallet generates substantial revenue from swap fees (estimated at over $200 million annually during peak periods) without needing token-based monetization. More critically, launching a token could trigger SEC enforcement action, particularly given the agency's aggressive stance on tokens that could be classified as securities. ConsenSys is already defending itself in ongoing litigation with the SEC over Ethereum-related matters, making a token launch legally risky. The company has shown no on-chain preparation activities—no test contracts, no governance framework proposals, and no community signaling that typically precedes major token launches.
+The bear case is straightforward: ConsenSys has actively avoided tokenization for over seven years despite constant community pressure, and founder Joseph Lubin has repeatedly emphasized building sustainable businesses rather than speculative token economies. The company raised $450 million in March 2022 at a $7 billion valuation with traditional equity, signaling preference for conventional corporate structures. MetaMask's business model—taking cuts from swaps, bridges, and staking—generates reliable revenue without the regulatory complexity and ongoing compliance burden that tokens introduce. The June 30, 2026 deadline gives ConsenSys just 18 months, but no internal signals, beta programs, or trademark filings suggest token development is underway.
 
-Key catalysts to monitor include any resolution to ConsenSys's SEC litigation (no specific date set), major competitive losses in wallet market share that could force strategic pivots, or changes in U.S. crypto regulatory framework following the 2024 election transition. Watch for any hiring related to tokenomics or governance roles at ConsenSys, deployment of governance-related smart contracts, or shifts in company messaging around decentralization. The 18-month window through June 2026 provides time for regulatory clarity to emerge, but absent concrete signals, the low probability reflects MetaMask's consistent denials and limited business case for tokenization.
+Key events to monitor include any ConsenSys SEC settlement terms (expected in 2025), MetaMask's 2025 product roadmap announcements typically shared at ETHDenver (February), and potential MetaMask Snaps protocol upgrades that could introduce governance mechanisms. Watch for ConsenSys quarterly financial disclosures and any hiring for tokenomics or token engineering roles. If MetaMask's market share drops below 50% among browser wallets—currently tracking around 65%—competitive pressure could accelerate token discussions.
 
 ## Related Markets
 
-- [Will Bitcoin reach $95,000 in March?](/odds/will-bitcoin-reach-95000-in-march) — 1% YES
-- [Will Bitcoin reach $90,000 in March?](/odds/will-bitcoin-reach-90000-in-march) — 3% YES
-- [Will Bitcoin dip to $55,000 in March?](/odds/will-bitcoin-dip-to-55000-in-march) — 16% YES
+- [USD.AI FDV above $150M one day after launch?](/odds/usdai-fdv-above-150m-one-day-after-launch) — 88% YES
+- [Will Ethereum reach $4,000 by December 31, 2026?](/odds/will-ethereum-reach-4000-by-december-31-2026) — 24% YES
+- [Solstice FDV above $400M one day after launch?](/odds/solstice-fdv-above-400m-one-day-after-launch) — 1% YES
 
 ## Frequently Asked Questions
 
-### Has ConsenSys or MetaMask made any official statements about launching a token?
+### Would a MetaMask token qualify existing users for an airdrop or only future activity?
 
-ConsenSys has repeatedly and explicitly denied plans for a MetaMask token, with company executives stating as recently as 2024 that no token launch is planned or under consideration.
+Historical precedent from wallet tokenizations like Uniswap suggests any MetaMask token would heavily reward historical transaction volume, swap fees paid, and wallet age. Users with pre-2023 accounts and consistent DeFi activity would likely receive the largest allocations.
 
-### What would MetaMask need to do technically before launching a token by June 2026?
+### How would ConsenSys's legal dispute with the SEC affect token launch timing?
 
-A legitimate launch would require developing and deploying smart contracts for token distribution, establishing a governance framework, conducting security audits, and likely running a testnet—activities that would be visible on-chain months in advance and have not yet appeared.
+ConsenSys sued the SEC in April 2024 challenging its authority over MetaMask Swaps; launching a token while this case remains active would introduce additional regulatory risk and likely complicate their legal argument. Resolution or settlement would need to occur first.
 
-### How does MetaMask's ongoing SEC litigation affect the probability of a token launch?
+### Could MetaMask launch a token on a layer-2 rather than Ethereum mainnet to reduce costs?
 
-ConsenSys is currently defending itself in SEC proceedings related to Ethereum infrastructure, making a token launch extremely risky since the SEC could classify a MetaMask token as an unregistered security, potentially exposing the company to additional enforcement action and penalties.
+A MetaMask token would almost certainly launch on an Ethereum L2 like Arbitrum, Optimism, or ConsenSys's own Linea network (launched August 2023), both to demonstrate L2 viability and avoid the gas fee criticism that plagued mainnet token distributions in 2020-2021.
 
 ## Learn More
 

@@ -11,7 +11,6 @@ polymarketYes: 0.1
 polymarketNo: 100.0
 polymarketVolume: 9668
 polymarketUrl: "https://polymarket.com/event/will-kenneth-walker-iii-play-for-san-francisco-49ers-in-2026-27"
-analysisDate: 2026-03-10
 ---
 
 This market sits at a vanishingly small 0.1% probability, reflecting the categorical mismatch between a sports figure and a political prediction market—Kenneth Walker III is an NFL running back, not a political actor, making this either a data error or a test of market categorization. The near-zero odds suggest the market has correctly identified that an athlete's NFL roster placement has no political relevance, though the listing under "politics" indicates possible platform classification problems worth monitoring.

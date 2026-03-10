@@ -9,9 +9,8 @@ expiryDate: 2026-05-31
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.2
 polymarketNo: 99.8
-polymarketVolume: 9591
+polymarketVolume: 9795
 polymarketUrl: "https://polymarket.com/event/will-daniel-quintero-win-the-1st-round-of-the-2026-colombian-presidential-election"
-analysisDate: 2026-03-10
 ---
 
 # Daniel Quintero's 2026 Colombian Presidential Chances: Deep Dive

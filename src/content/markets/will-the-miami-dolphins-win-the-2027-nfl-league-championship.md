@@ -3,7 +3,7 @@ title: "Will the Miami Dolphins win the 2027 NFL league championship?"
 description: "Will the Miami Dolphins win the 2027 NFL league championship? Odds: 0.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Miami Dolphins win the 2027 NFL league championship?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-10
 expiryDate: 2027-03-31
 tags: ["polymarket", "sports"]

@@ -8,10 +8,9 @@ lastUpdated: 2026-03-10
 expiryDate: 2027-01-25
 tags: ["polymarket", "sports"]
 polymarketYes: 1.1
-polymarketNo: 99.0
-polymarketVolume: 98119
+polymarketNo: 98.9
+polymarketVolume: 98141
 polymarketUrl: "https://polymarket.com/event/will-cleveland-browns-win-the-2027-nfl-afc-championship-776"
-analysisDate: 2026-03-10
 ---
 
 # Cleveland Browns 2027 AFC Championship Analysis

@@ -3,7 +3,7 @@ title: "Will Mistral have the top AI model at the end of March 2026?"
 description: "Will Mistral have the top AI model at the end of March 2026? Odds: 0.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Mistral have the top AI model at the end of March 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-10
 expiryDate: 2026-03-31
 tags: ["ai", "politics", "polymarket"]

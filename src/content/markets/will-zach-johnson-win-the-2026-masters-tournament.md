@@ -1,17 +1,16 @@
 ---
 title: "Will Zach Johnson win the 2026 Masters tournament?"
-description: "Will Zach Johnson win the 2026 Masters tournament? Odds: 0.4% YES on Polymarket. See live prices and trade this market."
+description: "Will Zach Johnson win the 2026 Masters tournament? Odds: 0.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Zach Johnson win the 2026 Masters tournament?"
 category: "sports"
 status: "active"
 lastUpdated: 2026-03-10
 expiryDate: 2026-04-13
 tags: ["polymarket", "sports"]
-polymarketYes: 0.4
-polymarketNo: 99.7
-polymarketVolume: 98479
+polymarketYes: 0.2
+polymarketNo: 99.8
+polymarketVolume: 98678
 polymarketUrl: "https://polymarket.com/event/will-zach-johnson-win-the-2026-masters-tournament"
-analysisDate: 2026-03-10
 ---
 
 # Zach Johnson 2026 Masters Analysis

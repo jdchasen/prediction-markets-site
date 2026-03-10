@@ -3,7 +3,7 @@ title: "Will Trump say \"Barack Hussein Obama\" this week? (March 15)"
 description: "Will Trump say \"Barack Hussein Obama\" this week? (March 15) Odds: 59.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Trump say \"Barack Hussein Obama\" this week? (March 15)"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-10
 expiryDate: 2026-03-15
 tags: ["politics", "polymarket", "trump"]

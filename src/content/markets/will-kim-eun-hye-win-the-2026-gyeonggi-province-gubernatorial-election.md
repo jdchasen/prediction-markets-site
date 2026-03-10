@@ -11,7 +11,6 @@ polymarketYes: 0.1
 polymarketNo: 99.9
 polymarketVolume: 9924
 polymarketUrl: "https://polymarket.com/event/will-kim-eun-hye-win-the-2026-gyeonggi-province-gubernatorial-election"
-analysisDate: 2026-03-10
 ---
 
 # Analysis: Kim Eun-hye's 2026 Gyeonggi Gubernatorial Bid

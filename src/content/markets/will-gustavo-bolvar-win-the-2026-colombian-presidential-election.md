@@ -3,7 +3,7 @@ title: "Will Gustavo Bolívar win the 2026 Colombian presidential election?"
 description: "Will Gustavo Bolívar win the 2026 Colombian presidential election? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Gustavo Bolívar win the 2026 Colombian presidential election?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-10
 expiryDate: 2026-06-21
 tags: ["elections", "politics", "polymarket"]

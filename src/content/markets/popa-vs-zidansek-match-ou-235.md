@@ -3,7 +3,7 @@ title: "Popa vs. Zidansek: Match O/U 23.5"
 description: "Popa vs. Zidansek: Match O/U 23.5 Odds: 100.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Popa vs. Zidansek: Match O/U 23.5"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-10
 expiryDate: 2026-03-17
 tags: ["politics", "polymarket"]

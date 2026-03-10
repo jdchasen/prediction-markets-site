@@ -3,7 +3,7 @@ title: "Ethereum all time high by September 30, 2026?"
 description: "Ethereum all time high by September 30, 2026? Odds: 11.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Ethereum all time high by September 30, 2026?"
 category: "crypto"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-10
 expiryDate: 2026-10-01
 tags: ["crypto", "ethereum", "polymarket"]

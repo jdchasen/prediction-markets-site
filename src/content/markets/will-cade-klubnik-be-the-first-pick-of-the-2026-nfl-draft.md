@@ -9,9 +9,8 @@ expiryDate: 2026-04-25
 tags: ["polymarket", "sports"]
 polymarketYes: 0.1
 polymarketNo: 99.9
-polymarketVolume: 9947
+polymarketVolume: 9952
 polymarketUrl: "https://polymarket.com/event/will-cade-klubnik-be-the-first-pick-of-the-2026-nfl-draft"
-analysisDate: 2026-03-10
 ---
 
 # Cade Klubnik First Overall Pick Analysis

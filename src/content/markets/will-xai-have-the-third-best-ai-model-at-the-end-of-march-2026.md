@@ -1,17 +1,16 @@
 ---
 title: "Will xAI have the third-best AI model at the end of March 2026?"
-description: "Will xAI have the third-best AI model at the end of March 2026? Odds: 4.1% YES on Polymarket. See live prices and trade this market."
+description: "Will xAI have the third-best AI model at the end of March 2026? Odds: 4.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will xAI have the third-best AI model at the end of March 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-03-10
 expiryDate: 2026-03-31
 tags: ["ai", "politics", "polymarket"]
-polymarketYes: 4.1
-polymarketNo: 95.9
+polymarketYes: 4.5
+polymarketNo: 95.5
 polymarketVolume: 9930
 polymarketUrl: "https://polymarket.com/event/will-xai-have-the-third-best-ai-model-at-the-end-of-march-2026"
-analysisDate: 2026-03-10
 ---
 
 # xAI Third-Best AI Model Market Analysis

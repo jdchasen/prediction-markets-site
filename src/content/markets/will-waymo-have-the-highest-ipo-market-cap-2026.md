@@ -9,9 +9,8 @@ expiryDate: 2026-12-31
 tags: ["finance", "polymarket"]
 polymarketYes: 0.4
 polymarketNo: 99.6
-polymarketVolume: 9682
+polymarketVolume: 9713
 polymarketUrl: "https://polymarket.com/event/will-waymo-have-the-highest-ipo-market-cap-2026-835"
-analysisDate: 2026-03-10
 ---
 
 # Waymo IPO Market Cap Analysis

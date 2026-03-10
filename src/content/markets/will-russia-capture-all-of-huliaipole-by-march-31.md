@@ -3,7 +3,7 @@ title: "Will Russia capture all of Huliaipole by March 31?"
 description: "Will Russia capture all of Huliaipole by March 31? Odds: 22.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Russia capture all of Huliaipole by March 31?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-10
 expiryDate: 2026-03-31
 tags: ["ai", "politics", "polymarket"]

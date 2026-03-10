@@ -1,17 +1,16 @@
 ---
 title: "USD.AI FDV above $150M one day after launch?"
-description: "USD.AI FDV above $150M one day after launch? Odds: 88.0% YES on Polymarket. See live prices and trade this market."
+description: "USD.AI FDV above $150M one day after launch? Odds: 88.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "USD.AI FDV above $150M one day after launch?"
 category: "crypto"
 status: "active"
 lastUpdated: 2026-03-10
 expiryDate: 2027-01-01
 tags: ["ai", "crypto", "polymarket"]
-polymarketYes: 88.0
-polymarketNo: 12.0
-polymarketVolume: 97990
+polymarketYes: 88.5
+polymarketNo: 11.5
+polymarketVolume: 98092
 polymarketUrl: "https://polymarket.com/event/usdai-fdv-above-150m-one-day-after-launch-349"
-analysisDate: 2026-03-10
 ---
 
 The market strongly favors USD.AI achieving a fully diluted valuation exceeding $150M within 24 hours of its token launch, with traders pricing in an 88% probability based on the current hype cycle around AI-crypto convergence plays and expectations of significant initial liquidity.

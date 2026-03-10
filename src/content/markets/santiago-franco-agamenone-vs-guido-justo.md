@@ -3,7 +3,7 @@ title: "Santiago: Franco Agamenone vs Guido Justo"
 description: "Santiago: Franco Agamenone vs Guido Justo Odds: 72.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Santiago: Franco Agamenone vs Guido Justo"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-10
 expiryDate: 2026-03-17
 tags: ["politics", "polymarket"]

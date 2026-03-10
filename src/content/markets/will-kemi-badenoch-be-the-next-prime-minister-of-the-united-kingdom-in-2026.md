@@ -9,9 +9,8 @@ expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 0.4
 polymarketNo: 99.7
-polymarketVolume: 97748
+polymarketVolume: 97761
 polymarketUrl: "https://polymarket.com/event/will-kemi-badenoch-be-the-next-prime-minister-of-the-united-kingdom-in-2026-828"
-analysisDate: 2026-03-10
 ---
 
 # Kemi Badenoch PM Prediction Analysis

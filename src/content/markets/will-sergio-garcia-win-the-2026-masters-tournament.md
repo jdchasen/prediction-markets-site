@@ -9,9 +9,8 @@ expiryDate: 2026-04-13
 tags: ["polymarket", "sports"]
 polymarketYes: 0.4
 polymarketNo: 99.6
-polymarketVolume: 95728
+polymarketVolume: 95789
 polymarketUrl: "https://polymarket.com/event/will-sergio-garcia-win-the-2026-masters-tournament"
-analysisDate: 2026-03-10
 ---
 
 # Sergio Garcia 2026 Masters Analysis

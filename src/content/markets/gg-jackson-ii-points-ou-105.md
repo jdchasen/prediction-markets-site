@@ -3,7 +3,7 @@ title: "GG Jackson II: Points O/U 10.5"
 description: "GG Jackson II: Points O/U 10.5 Odds: 52.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "GG Jackson II: Points O/U 10.5"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-10
 expiryDate: 2026-03-18
 tags: ["politics", "polymarket"]

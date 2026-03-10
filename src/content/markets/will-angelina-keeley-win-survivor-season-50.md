@@ -11,7 +11,6 @@ polymarketYes: 0.2
 polymarketNo: 99.8
 polymarketVolume: 9750
 polymarketUrl: "https://polymarket.com/event/will-angelina-keeley-win-survivor-season-50"
-analysisDate: 2026-03-10
 ---
 
 # Angelina Keeley Survivor 50 Market Analysis
