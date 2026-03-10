@@ -239,9 +239,14 @@ def main():
     print(f"{'='*60}")
 
     rendered: list[tuple[Path, str]] = []
-    for path, sched in zip(json_paths, schedule_times):
+    for i, (path, sched) in enumerate(zip(json_paths, schedule_times)):
         if render_video(path):
             rendered.append((path, sched))
+        # Delay between renders to avoid ElevenLabs TTS rate limiting
+        if i < len(json_paths) - 1:
+            import time
+            print("  Waiting 3s before next render (rate limit safety)...")
+            time.sleep(3)
 
     if not rendered:
         print("\nNo videos rendered. Exiting.")
