@@ -4,14 +4,13 @@ description: "Will Jesus Christ return before GTA VI? Odds: 48.5% YES on Polymar
 marketQuestion: "Will Jesus Christ return before GTA VI?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-03-09
+lastUpdated: 2026-03-10
 expiryDate: 2026-07-31
 tags: ["politics", "polymarket"]
 polymarketYes: 48.5
 polymarketNo: 51.5
-polymarketVolume: 9920837
+polymarketVolume: 9934693
 polymarketUrl: "https://polymarket.com/event/will-jesus-christ-return-before-gta-vi-665"
-analysisDate: 2026-03-09
 ---
 
 This prediction market, while framed humorously around the perpetually-delayed Grand Theft Auto VI release, essentially asks traders to bet on whether GTA VI will actually launch before its expiration date in July 2026. The near coin-flip odds reflect genuine uncertainty about Rockstar Games' ability to meet any timeline, given the game was announced in December 2022 with a vague 2025 target that has already slipped in investor expectations.

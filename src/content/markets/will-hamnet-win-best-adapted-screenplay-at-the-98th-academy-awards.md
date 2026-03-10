@@ -4,14 +4,13 @@ description: "Will Hamnet win Best Adapted Screenplay at the 98th Academy Awards
 marketQuestion: "Will Hamnet win Best Adapted Screenplay at the 98th Academy Awards?"
 category: "entertainment"
 status: "active"
-lastUpdated: 2026-03-09
+lastUpdated: 2026-03-10
 expiryDate: 2026-03-15
 tags: ["entertainment", "polymarket"]
 polymarketYes: 3.3
 polymarketNo: 96.7
-polymarketVolume: 99113
+polymarketVolume: 99863
 polymarketUrl: "https://polymarket.com/event/will-hamnet-win-best-adapted-screenplay-at-the-98th-academy-awards"
-analysisDate: 2026-03-09
 ---
 
 The adapted screenplay market for *Hamnet* sits at extremely low odds heading into the 2025-2026 awards season, reflecting deep skepticism about the film's competitive positioning in what will be a crowded field. At just over 3%, traders are essentially pricing this as a long-shot contender that would need extraordinary circumstances to break through.

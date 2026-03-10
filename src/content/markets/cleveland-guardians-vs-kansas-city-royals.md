@@ -3,8 +3,8 @@ title: "Cleveland Guardians vs. Kansas City Royals"
 description: "Cleveland Guardians vs. Kansas City Royals Odds: 97.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Cleveland Guardians vs. Kansas City Royals"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-09
+status: "settled"
+lastUpdated: 2026-03-10
 expiryDate: 2026-03-16
 tags: ["politics", "polymarket"]
 polymarketYes: 97.0

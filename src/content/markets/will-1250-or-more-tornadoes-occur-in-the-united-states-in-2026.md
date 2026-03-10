@@ -1,19 +1,20 @@
 ---
 title: "Will 1250 or more tornadoes occur in the United States in 2026?"
-description: "Will 1250 or more tornadoes occur in the United States in 2026? Odds: 36.0% YES on Polymarket. See live prices and trade this market."
+description: "Will 1250 or more tornadoes occur in the United States in 2026? Odds: 35.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will 1250 or more tornadoes occur in the United States in 2026?"
 category: "politics"
-status: "settled"
-lastUpdated: 2026-03-08
+status: "active"
+lastUpdated: 2026-03-10
 expiryDate: 2027-01-10
 tags: ["politics", "polymarket"]
-polymarketYes: 36.0
-polymarketNo: 64.0
-polymarketVolume: 9585
+polymarketYes: 35.0
+polymarketNo: 65.0
+polymarketVolume: 9979
 polymarketUrl: "https://polymarket.com/event/will-1250-or-more-tornadoes-occur-in-the-united-states-in-2026"
+analysisDate: 2026-03-10
 ---
 
-# 2026 U.S. Tornado Prediction Market Analysis
+# Tornado Prediction Market Analysis
 
 ## Current Odds
 
@@ -23,33 +24,29 @@ polymarketUrl: "https://polymarket.com/event/will-1250-or-more-tornadoes-occur-i
 
 ## Market Analysis
 
-The market currently prices in a roughly one-in-three chance of 1,250+ tornadoes occurring in 2026, reflecting genuine uncertainty around weather patterns that remain inherently difficult to forecast 12+ months in advance. This matters because the threshold sits near the upper range of historical activity, making it a meaningful test of whether climate patterns are shifting toward more severe convective weather.
+The market currently prices a 1,250+ tornado year at 35%, reflecting below-average confidence despite 2026 being within the active portion of the solar cycle that historically correlates with increased severe weather activity. This categorization as "politics" appears misplaced—tornado frequency is fundamentally a meteorological phenomenon driven by atmospheric conditions, jet stream positioning, and ocean temperature patterns rather than policy decisions, which makes the current pricing potentially exploitable based on climate and seasonal data rather than political dynamics.
 
-The bull case rests on two pillars: climate change's documented tendency to increase atmospheric instability in key tornado corridors (particularly the Great Plains and Southeast), and recent years showing elevated activity. The 2024 tornado season produced approximately 1,273 confirmed tornadoes through November—well above the historical average of around 1,000—suggesting a potentially sustained trend. If warming patterns continue driving stronger wind shear and CAPE (Convective Available Potential Energy) values during spring 2026, hitting 1,250+ becomes plausible. Additionally, the NOAA Climate Prediction Center's preliminary 2026 forecasts typically begin circulating in December 2025, which could move odds if their ensemble models show heightened tornado activity risk.
+The bull case rests on observable climate trends: 2024 saw 1,270 tornadoes (above the 1,250 threshold), and the multi-year pattern shows elevated tornado activity during certain phases of the solar cycle and Atlantic Multidecadal Oscillation. If 2025 maintains or exceeds 2024's activity levels, momentum traders may increase YES odds heading into 2026. The key catalyst arrives in March 2026 when spring severe weather season peaks—early season activity (March-May) typically accounts for 30-40% of annual tornado counts, and an exceptionally active spring could establish the trajectory toward 1,250. Historical data shows that years following above-average tornado counts often repeat that pattern due to persistent ocean temperatures.
 
-The bear case emphasizes that tornado counts are highly volatile year-to-year and heavily dependent on specific atmospheric conditions that can't be predicted reliably beyond seasonal timescales. The 2022 season produced only 1,092 tornadoes despite similar climate forcing, demonstrating that elevated climate risk doesn't guarantee elevated counts in any given year. Natural variability in jet stream positioning, upper-level divergence patterns, and soil moisture anomalies can suppress tornado development even when instability is present. Traders skeptical of the bull case note that hitting 1,250+ requires performing at the extreme upper end—roughly the 75th percentile historically—rather than merely an above-average year.
+The bear case emphasizes regression to the mean: the 30-year average sits around 1,000-1,050 tornadoes annually, and 2024's elevated count may represent an anomaly rather than a new baseline. Tornado detection has improved over decades (more Doppler radar coverage, storm chasers with cameras), artificially inflating recent counts relative to historical records—accounting for this measurement bias suggests true underlying activity may be closer to 900-950 events. Additionally, the solar cycle relationship, while statistically significant, explains only 10-15% of variance; random atmospheric variability dominates year-to-year fluctuations.
 
-Catalysts to watch include the official 2025 final tornado count (typically released by NOAA in early 2026), which will inform expectations for 2026 patterns and potentially shift market perception of whether the recent elevated activity represents a genuine regime change. The Climate Prediction Center's June 2025 Climate Outlooks for summer 2026 and their December 2025 seasonal forecasts offer data points traders should monitor. Any significant El Niño or La Niña transition announcement from NOAA would also matter, as ENSO states modulate tornado activity through their influence on jet stream positioning. Traders should differentiate between above-average seasons (which are trending upward) and the specific threshold of 1,250+, which requires both sustained climate shifts AND favorable short-term atmospheric configurations to align in 2026.
+Traders should monitor preliminary 2025 tornado counts (available monthly via NOAA) as the primary leading indicator—if 2025 falls below 1,100, the probability of hitting 1,250 in 2026 drops meaningfully. Watch for El Niño conditions developing in late 2025, which historically suppress Great Plains tornado activity. The December 2025 to February 2026 winter season will also matter; unusually warm or cold patterns can forecast spring jet stream behavior. Given the market's 35% odds appear roughly aligned with long-term frequency data, meaningful movement likely requires either an exceptionally active early 2026 severe season or a shift in large-scale climate indices that meteorologists flag as precursors.
 
 ## Related Markets
 
 - [Will Jesus Christ return before GTA VI?](/odds/will-jesus-christ-return-before-gta-vi) — 48% YES
-- [Will the next Prime Minister of Hungary be László Toroczkai?](/odds/will-the-next-prime-minister-of-hungary-be-lszl-toroczkai) — 1% YES
-- [Trump-Denmark Greenland deal signed by March 31?](/odds/trump-denmark-greenland-deal-signed-by-march-31) — 2% YES
+- [Will Mark Kelly win the 2028 Democratic presidential nomination?](/odds/will-mark-kelly-win-the-2028-democratic-presidential-nomination) — 2% YES
+- [Trump-Denmark Greenland deal signed by March 31?](/odds/trump-denmark-greenland-deal-signed-by-march-31) — 1% YES
 
 ## Frequently Asked Questions
 
-### How does the historical frequency of 1,250+ tornado seasons inform the current 35% odds?
+### How does tornado detection bias affect whether we actually hit 1,250 tornadoes in 2026?
 
-Since 1950, roughly 15-20% of seasons exceed 1,250 tornadoes, so current market odds of 35% already reflect belief in an elevated baseline versus historical norms—likely due to recent climate trends and the strong 2024 season.
+Modern Doppler radar and smartphone cameras catch weak tornadoes (EF0-EF1) that went unrecorded in the 1970s-1990s; accounting for this measurement improvement suggests the true "apples-to-apples" tornado frequency may be 15-20% lower than recent counts, making 1,250 a higher threshold than it appears on raw data.
 
-### What specific NOAA data release in 2025-2026 could most dramatically shift this market?
+### What specific ocean temperature metric should traders track to forecast 2026 tornado activity?
 
-The Climate Prediction Center's December 2025 seasonal forecast for spring 2026 and the official 2025 tornado count (early 2026) will be the highest-impact catalysts, as they directly inform expectations for the upcoming season.
-
-### Why is this market categorized as "politics" when tornado frequency is primarily a climate/weather phenomenon?
-
-The categorization likely reflects that tornado forecasting, climate attribution, and severe weather prepar
+Monitor Atlantic sea surface temperatures (especially the North Atlantic and Gulf of Mexico) from September 2025 onward; warmer-than-average waters increase atmospheric instability and wind shear, the two primary ingredients for tornado formation, with the strongest predictive signal emerging 2-3 months before the spring severe season.
 
 ## Learn More
 

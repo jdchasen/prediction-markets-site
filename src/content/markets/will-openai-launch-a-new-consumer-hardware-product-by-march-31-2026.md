@@ -1,16 +1,15 @@
 ---
 title: "Will OpenAI launch a new consumer hardware product by March 31, 2026?"
-description: "Will OpenAI launch a new consumer hardware product by March 31, 2026? Odds: 2.4% YES on Polymarket. See live prices and trade this market."
+description: "Will OpenAI launch a new consumer hardware product by March 31, 2026? Odds: 2.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will OpenAI launch a new consumer hardware product by March 31, 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-03-09
+lastUpdated: 2026-03-10
 tags: ["ai", "politics", "polymarket"]
-polymarketYes: 2.4
-polymarketNo: 97.6
-polymarketVolume: 95528
+polymarketYes: 2.2
+polymarketNo: 97.8
+polymarketVolume: 99142
 polymarketUrl: "https://polymarket.com/event/will-openai-launch-a-new-consumer-hardware-product-by-march-31-2026"
-analysisDate: 2026-03-09
 ---
 
 # OpenAI Consumer Hardware Market Analysis

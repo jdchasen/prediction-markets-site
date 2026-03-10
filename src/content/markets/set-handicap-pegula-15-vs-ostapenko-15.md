@@ -3,8 +3,8 @@ title: "Set Handicap: Pegula (-1.5) vs Ostapenko (+1.5)"
 description: "Set Handicap: Pegula (-1.5) vs Ostapenko (+1.5) Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Set Handicap: Pegula (-1.5) vs Ostapenko (+1.5)"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-09
+status: "settled"
+lastUpdated: 2026-03-10
 expiryDate: 2026-03-16
 tags: ["politics", "polymarket"]
 polymarketYes: 0.1

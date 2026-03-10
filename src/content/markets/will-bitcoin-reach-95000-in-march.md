@@ -3,8 +3,8 @@ title: "Will Bitcoin reach $95,000 in March?"
 description: "Will Bitcoin reach $95,000 in March? Odds: 1.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Bitcoin reach $95,000 in March?"
 category: "crypto"
-status: "active"
-lastUpdated: 2026-03-09
+status: "settled"
+lastUpdated: 2026-03-10
 expiryDate: 2026-04-01
 tags: ["bitcoin", "crypto", "polymarket"]
 polymarketYes: 1.1

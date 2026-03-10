@@ -1,17 +1,16 @@
 ---
 title: "Will Mark Kelly win the 2028 Democratic presidential nomination?"
-description: "Will Mark Kelly win the 2028 Democratic presidential nomination? Odds: 2.9% YES on Polymarket. See live prices and trade this market."
+description: "Will Mark Kelly win the 2028 Democratic presidential nomination? Odds: 2.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Mark Kelly win the 2028 Democratic presidential nomination?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-03-09
+lastUpdated: 2026-03-10
 expiryDate: 2028-11-07
 tags: ["politics", "polymarket"]
-polymarketYes: 2.9
-polymarketNo: 97.2
-polymarketVolume: 9577787
+polymarketYes: 2.4
+polymarketNo: 97.7
+polymarketVolume: 9667463
 polymarketUrl: "https://polymarket.com/event/will-mark-kelly-win-the-2028-democratic-presidential-nomination-479"
-analysisDate: 2026-03-09
 ---
 
 Mark Kelly's nomination chances sit near the bottom tier of Democratic contenders at under 3%, reflecting deep uncertainty about whether the Arizona senator will even enter what promises to be a crowded 2028 primary field. The market matters now because early positioning for 2028 has already begun, with potential candidates making strategic moves in key states and building donor networks while the Biden administration enters its final year.

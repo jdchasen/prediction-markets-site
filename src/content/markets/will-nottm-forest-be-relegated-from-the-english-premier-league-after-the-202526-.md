@@ -3,8 +3,8 @@ title: "Will Nottm Forest be relegated from the English Premier League after the
 description: "Will Nottm Forest be relegated from the English Premier League after the 2025–26 season? Odds: 25.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Nottm Forest be relegated from the English Premier League after the 2025–26 season?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-03-09
+status: "settled"
+lastUpdated: 2026-03-10
 expiryDate: 2026-05-27
 tags: ["polymarket", "sports"]
 polymarketYes: 25.5

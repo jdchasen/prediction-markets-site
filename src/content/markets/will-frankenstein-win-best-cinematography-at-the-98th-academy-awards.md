@@ -3,8 +3,8 @@ title: "Will Frankenstein win Best Cinematography at the 98th Academy Awards?"
 description: "Will Frankenstein win Best Cinematography at the 98th Academy Awards? Odds: 1.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Frankenstein win Best Cinematography at the 98th Academy Awards?"
 category: "entertainment"
-status: "active"
-lastUpdated: 2026-03-09
+status: "settled"
+lastUpdated: 2026-03-10
 expiryDate: 2026-03-15
 tags: ["entertainment", "polymarket"]
 polymarketYes: 1.1

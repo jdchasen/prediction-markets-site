@@ -3,8 +3,8 @@ title: "Will 100 Thieves qualify to a S-tier tournament by June 1 ? "
 description: "Will 100 Thieves qualify to a S-tier tournament by June 1 ?  Odds: 26.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will 100 Thieves qualify to a S-tier tournament by June 1 ? "
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-09
+status: "settled"
+lastUpdated: 2026-03-10
 expiryDate: 2026-06-01
 tags: ["politics", "polymarket"]
 polymarketYes: 26.0

@@ -3,8 +3,8 @@ title: "Will CDU win the most seats in the 2026 Rhineland-Palatinate parliamenta
 description: "Will CDU win the most seats in the 2026 Rhineland-Palatinate parliamentary elections? Odds: 60.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will CDU win the most seats in the 2026 Rhineland-Palatinate parliamentary elections?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-09
+status: "settled"
+lastUpdated: 2026-03-10
 expiryDate: 2026-03-22
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 60.0

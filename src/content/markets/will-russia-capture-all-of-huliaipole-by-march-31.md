@@ -1,56 +1,54 @@
 ---
 title: "Will Russia capture all of Huliaipole by March 31?"
-description: "Will Russia capture all of Huliaipole by March 31? Odds: 29.0% YES on Polymarket. See live prices and trade this market."
+description: "Will Russia capture all of Huliaipole by March 31? Odds: 22.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Russia capture all of Huliaipole by March 31?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-03-09
+lastUpdated: 2026-03-10
 expiryDate: 2026-03-31
 tags: ["ai", "politics", "polymarket"]
-polymarketYes: 29.0
-polymarketNo: 71.0
-polymarketVolume: 95688
+polymarketYes: 22.5
+polymarketNo: 77.5
+polymarketVolume: 99113
 polymarketUrl: "https://polymarket.com/event/will-russia-capture-all-of-huliaipole-by-march-31"
-analysisDate: 2026-03-09
+analysisDate: 2026-03-10
 ---
 
-# Russia-Huliaipole Capture Market Analysis
+The market pricing Russian capture of Huliaipole at roughly 1-in-5 odds reflects cautious assessment of Russia's grinding advance in southern Donetsk Oblast, where the strategic town sits at a key logistical junction connecting multiple axes toward Zaporizhzhia. This matters because Huliaipole's fall would open pathways to severing Ukrainian supply lines and potentially enable Russian forces to threaten the administrative capital of Zaporizhzhia Oblast itself.
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 29.0% | 71.0% | $96K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 22.5% | 77.5% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-At 29%, this market prices in a roughly one-in-three chance that Russian forces will control the entire town of Huliaipole in Zaporizhzhia Oblast by end of March 2026—a timeframe that stretches nearly two years into the future, making this a volatile long-dated bet on battlefield momentum in Ukraine. The odds matter because they reflect trader consensus on whether Russia can sustain offensive pressure through winter 2025-26 and overcome Ukrainian defensive positions in a town that has changed hands multiple times since the invasion began.
+The bull case centers on Russia's sustained momentum throughout early 2025, with incremental territorial gains accelerating in Donetsk and mounting pressure on Ukrainian defensive lines. Russian forces have demonstrated willingness to accept heavy casualties for strategic positions, and Huliaipole represents a natural objective in their southern push. If current attrition rates continue and Ukrainian reinforcement capacity remains constrained by manpower shortages, the 13-month timeline to March 2026 provides substantial opportunity for a breakthrough. Critical periods include spring 2025 offensive operations (typically April-June when ground conditions improve) and any potential winter 2025-2026 push.
 
-The bull case for Russian capture rests on sustained offensive gains in eastern Ukraine if Western military aid diminishes or stalls, combined with attrition grinding down Ukrainian forces without equivalent reinforcement. Russia has shown capacity to advance methodically in Donetsk and Zaporizhzhia when it concentrates forces, and a 14-month window provides material time for incremental territorial gains. If Ukraine faces domestic political pressure to negotiate (particularly after the 2026 US political cycle or EU fatigue), Russian leverage increases substantially. Key catalysts include any major shifts in US military assistance policy post-January 2025 transition, NATO support levels by Q2 2026, and whether Ukraine's front stabilizes or contracts further through 2025.
+The bear case emphasizes that even with recent Russian advances, capturing fortified urban positions requires dramatically different capabilities than taking rural areas. Ukrainian forces have extensively prepared Huliaipole's defenses since 2022, and the town's strategic value means Ukraine will likely commit significant resources to its defense. Russia's advance rate, even in favorable conditions, suggests capturing a defended town of this size within 13 months faces serious operational hurdles. Additionally, any major Western military aid packages or Ukrainian mobilization successes could stabilize defensive lines before Huliaipole comes under serious threat.
 
-The bear case emphasizes Ukrainian defensive entrenchment and the historical difficulty of capturing towns in peer warfare—Huliaipole sits in territory Ukraine has fought to hold and rebuild, and the 14-month timeline leaves substantial opportunity for defensive fortification. Artillery, drone warfare, and asymmetric tactics favor defenders with prepared positions. Additionally, any escalation in Western support (ATACMS supply, F-16 coordination, or NATO training intensification) could shift momentum. Ukrainian domestic politics could also harden resolve if security concerns dominate 2025 elections and domestic discourse.
-
-Watch for movement in this market around three milestones: shifts in US military aid packages announced in early 2025, any major Russian offensive breakthroughs or failures in Zaporizhzhia during late 2025, and geopolitical signals from peace negotiations (if they materialize). The current 29% odds suggest traders see Russian capture as unlikely but far from implausible—a referendum on sustained Russian offensive capacity over an extended period rather than near-term tactical inevitability.
+Traders should monitor monthly territorial control maps from reliable open-source intelligence accounts, watching specifically for Russian movement toward Vuhledar's flanks and progress along the T0509 highway. Ukrainian General Staff situation reports on the Vremivka salient will provide early warning of pressure building toward Huliaipole. Key inflection points include the outcome of spring 2025 ground offensives, any NATO summit decisions on Ukraine support (next scheduled July 2025), and Ukrainian mobilization law implementation results becoming apparent by summer 2025.
 
 ## Related Markets
 
-- [Will the next Prime Minister of Hungary be László Toroczkai?](/odds/will-the-next-prime-minister-of-hungary-be-lszl-toroczkai) — 1% YES
 - [Will Jesus Christ return before GTA VI?](/odds/will-jesus-christ-return-before-gta-vi) — 48% YES
-- [Will Wes Moore win the 2028 Democratic presidential nomination?](/odds/will-wes-moore-win-the-2028-democratic-presidential-nomination) — 2% YES
+- [Will Mark Kelly win the 2028 Democratic presidential nomination?](/odds/will-mark-kelly-win-the-2028-democratic-presidential-nomination) — 2% YES
+- [Trump-Denmark Greenland deal signed by March 31?](/odds/trump-denmark-greenland-deal-signed-by-march-31) — 1% YES
 
 ## Frequently Asked Questions
 
-### What does "capture all of Huliaipole" require for resolution—does it mean de facto control, formal Russian claims, or verified Ukrainian withdrawal?
+### What makes Huliaipole strategically significant beyond just another town in the conflict?
 
-Market resolution typically requires sustained Russian military control verified by reliable open-source intelligence (satellite imagery, independent reporting) rather than simply Russian claims or administrative assertions; temporary tactical gains that are later retaken would not resolve YES.
+Huliaipole sits at the intersection of critical supply routes connecting the southern Zaporizhzhia front to Donetsk Oblast, making it a potential chokepoint for Ukrainian logistics. Its capture would also provide Russia a staging area for operations threatening to cut off Ukrainian forces further south or push westward toward Zaporizhzhia city.
 
-### How much does this market price in the possibility that ceasefire or frozen-conflict negotiations halt fighting before March 2026?
+### How far are Russian forces currently from Huliaipole and what terrain lies between?
 
-The 29% odds implicitly assume continued active warfare; a negotiated settlement freezing lines before full Russian capture would resolve NO, making peace negotiations a major tail risk to YES positions that traders appear to partially discount.
+Russian forces are approximately 40-50 kilometers southeast of Huliaipole as of early 2025, with the Vremivka salient representing the nearest point of advance. The intervening terrain includes a mix of open agricultural land and fortified Ukrainian defensive positions, requiring Russia to overcome multiple prepared defensive lines.
 
-### If Russian forces capture 85-90% of Huliaipole but Ukrainian forces hold a small neighborhood or administrative pocket, how does this resolve?
+### Does "capture" mean complete control or could partial occupation resolve this market?
 
-"All of Huliaipole" typically requires comprehensive Russian control of the town's entire administrative boundaries; fragmented control or isolated Ukrainian holdouts would likely resolve NO unless market terms define otherwise, making edge-case scenarios worth clarifying before large positions.
+The market resolution depends on Polymarket's specific criteria, but typically "capture" in conflict markets requires Russian forces to control the entire town administratively, not just contested urban fighting. Traders should verify whether the market uses internationally recognized territorial control assessments or specific mapping sources.
 
 ## Learn More
 

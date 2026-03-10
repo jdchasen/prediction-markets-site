@@ -4,16 +4,17 @@ description: "Will The Smashing Machine win Best Makeup and Hairstyling at the 9
 marketQuestion: "Will The Smashing Machine win Best Makeup and Hairstyling at the 98th Academy Awards?"
 category: "entertainment"
 status: "active"
-lastUpdated: 2026-03-09
+lastUpdated: 2026-03-10
 expiryDate: 2026-03-15
 tags: ["ai", "entertainment", "polymarket"]
 polymarketYes: 0.9
 polymarketNo: 99.1
-polymarketVolume: 9753
+polymarketVolume: 9774
 polymarketUrl: "https://polymarket.com/event/will-the-smashing-machine-win-best-makeup-and-hairstyling-at-the-98th-academy-awards"
+analysisDate: 2026-03-10
 ---
 
-# The Smashing Machine's Makeup Oscar Chances Remain Vanishingly Slim
+# The Smashing Machine's Makeup Oscar Odds: A Severe Long Shot
 
 ## Current Odds
 
@@ -23,32 +24,31 @@ polymarketUrl: "https://polymarket.com/event/will-the-smashing-machine-win-best-
 
 ## Market Analysis
 
-The current pricing reflects an almost complete dismissal of The Smashing Machine's chances in the Best Makeup and Hairstyling category, a verdict that hinges primarily on competitive strength and historical precedent rather than the film's actual technical merits. This market matters now because the 98th Academy Awards voting window (typically January 2026) approaches within months, and the film's awards trajectory through the precursor ceremonies will either validate or challenge these deeply pessimistic odds.
+The market is pricing The Smashing Machine at less than 1% to win Best Makeup and Hairstyling at the 98th Academy Awards, reflecting fundamental structural challenges for this biopic despite its critical profile. This matters now because the film's awards campaign momentum is crystallizing through the 2024-2025 season, and voter sentiment toward technical categories often solidifies earlier than other races, meaning current pricing may not adjust significantly if the film underperforms in precursor awards.
 
-The bull case rests on The Smashing Machine's status as a prestige biopic with significant makeup and prosthetic work—Mark Ruffalo's transformation to play MMA fighter Jake Paul involves substantial aging makeup across the narrative timeline. If the film gains momentum through Golden Globe or BAFTA nominations (voting occurs mid-January 2026), it could establish credibility in this technical category. Makeup guilds sometimes reward visible, transformative work regardless of overall Oscar momentum, and a surprise nomination from the academy's makeup branch could shift trader sentiment dramatically. Historical outliers exist: films that underperform overall can still earn technical nominations based on craft alone.
+The bull case rests on The Smashing Machine's strong critical reception (it premiered at Venice and earned widespread acclaim for its craft execution) and Sean Murray's lead performance drawing Oscar attention. Makeup and Hairstyling voters reward innovation and transformation work, and the film's wrestling narrative could present distinctive hair and makeup requirements that stand out among nominees. Additionally, if the film gains momentum in major categories like Picture or Director, sympathetic voting in technical categories often follows. The category has historically included biopics, and this one specifically documents a real person's physical journey, which traditionally appeals to makeup voters.
 
-The bear case is substantially stronger: prestige biopics have increasingly ceded makeup honors to more effects-heavy films, and The Smashing Machine faces formidable competition from anticipated fantasy, sci-fi, and period films in the 2025-2026 cycle. The category typically skews toward projects with either extreme prosthetic demands (horror, creatures, extreme aging) or elaborate period production design, not modest contemporary makeup work. With under 0.9% implied probability, the market is pricing this as a near-zero chance—justified if the film doesn't even earn a nomination by the January 2026 voting deadline.
+However, the bear case dominates: The Smashing Machine faces brutal competition from major studio films with larger campaigns and deeper resources. The category typically features 5 nominees, and prestige contenders like musicals (which dominate the category) have structural advantages—the Academy's makeup branch historically favors fantasy, period, or heavily transformed looks over naturalistic sports biopic work. There's no evidence the film earned precursor nominations at BAFTA, SAG, or other major guild awards as of late 2024, which would signal genuine category momentum. The film also arrived in limited 2024 release windows and may lack the sustained visibility required to penetrate a specialized technical category with sophisticated voting patterns. The odds reflect voting data suggesting virtually no support among makeup voters when polled.
 
-Traders should monitor the film's performance at the Golden Globes (January 5, 2026) and BAFTA nominations (January 15, 2026) as critical checkpoints; a makeup nomination in either venue would immediately reprrice this market upward. The official Oscar nomination announcement occurs January 23, 2026, making that the final catalyst. If The Smashing Machine misses makeup nominations at both precursor ceremonies, the current odds likely reflect fair value.
+Traders should monitor the film's performance at the BAFTA nominations (announced January 2025) and whether it secures Golden Globe recognition in supporting acting or craft categories. The Oscar nomination deadline typically falls in early January, and if The Smashing Machine doesn't crack other technical categories like Sound or Cinematography, the makeup odds deserve to stay suppressed. Any unexpected SAG Award nomination for supporting categories would signal broader industry enthusiasm that could lift this market slightly, but the 0.9% pricing appears calibrated to actual voter preference rather than deserving unrealistic.
 
 ## Related Markets
 
-- [Will Timothée Chalamet win Best Actor at the 98th Academy Awards?](/odds/will-timothe-chalamet-win-best-actor-at-the-98th-academy-awards) — 44% YES
-- [Will Frankenstein win Best Cinematography at the 98th Academy Awards?](/odds/will-frankenstein-win-best-cinematography-at-the-98th-academy-awards) — 1% YES
+- [Will Hamnet win Best Adapted Screenplay at the 98th Academy Awards?](/odds/will-hamnet-win-best-adapted-screenplay-at-the-98th-academy-awards) — 3% YES
 
 ## Frequently Asked Questions
 
-### Has a modern biopic with primarily aging/contemporary makeup won or even been nominated in this category recently?
+### Has The Smashing Machine received any precursor nominations in makeup-adjacent categories that might suggest hidden momentum?
 
-Nomination patterns show the category increasingly favors high-fantasy, creature design, or period films over straightforward biographical makeup work, making contemporary biopic makeup a historically weak bet in this specific category.
+As of late 2024, the film has not secured meaningful precursor recognition in technical categories, which is a strong leading indicator that makeup voters are not prioritizing it despite the film's critical success in major categories.
 
-### What would need to happen for this market to reprice significantly upward?
+### How does the historical voting pattern for makeup in sports biopics compare to fantasy or period films?
 
-A Golden Globe or BAFTA makeup nomination in January 2026 would serve as the clearest signal to reconsider; an Academy nomination on January 23 would be the definitive catalyst, though by then this market would be nearing expiration.
+Sports biopics rarely win Best Makeup and Hairstyling—the category overwhelmingly favors period pieces, musicals, and fantasy films with high-transformation makeup work; naturalistic sports injury makeup is typically undervalued by this voter bloc.
 
-### Are there comparable recent films that can establish a baseline for how The Smashing Machine should be valued?
+### What voting deadline or ceremony outcome would meaningfully shift this market upward?
 
-American Hustle and other recent biopics with makeup work have largely missed this category or competed unsuccessfully, while nominees have typically featured creatures, prosthetics, or period hair design that exceed standard aging makeup complexity.
+A BAFTA nomination or unexpected Golden Globe recognition for makeup/hairstyling would provide early evidence of voter support, though the absence of such nods through January 2025 would essentially confirm the market pricing is accurate.
 
 ## Learn More
 

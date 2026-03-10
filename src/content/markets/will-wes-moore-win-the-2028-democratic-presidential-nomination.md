@@ -3,8 +3,8 @@ title: "Will Wes Moore win the 2028 Democratic presidential nomination?"
 description: "Will Wes Moore win the 2028 Democratic presidential nomination? Odds: 1.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Wes Moore win the 2028 Democratic presidential nomination?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-09
+status: "settled"
+lastUpdated: 2026-03-10
 expiryDate: 2028-11-07
 tags: ["politics", "polymarket"]
 polymarketYes: 1.5

@@ -3,8 +3,8 @@ title: "Will the next Prime Minister of Hungary be László Toroczkai?"
 description: "Will the next Prime Minister of Hungary be László Toroczkai? Odds: 1.3% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the next Prime Minister of Hungary be László Toroczkai?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-09
+status: "settled"
+lastUpdated: 2026-03-10
 expiryDate: 2026-04-12
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 1.3

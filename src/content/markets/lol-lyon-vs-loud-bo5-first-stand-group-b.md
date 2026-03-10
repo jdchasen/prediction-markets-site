@@ -3,8 +3,8 @@ title: "LoL: LYON vs LOUD (BO5) - First Stand Group B"
 description: "LoL: LYON vs LOUD (BO5) - First Stand Group B Odds: 77.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "LoL: LYON vs LOUD (BO5) - First Stand Group B"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-09
+status: "settled"
+lastUpdated: 2026-03-10
 expiryDate: 2026-03-18
 tags: ["politics", "polymarket"]
 polymarketYes: 77.5

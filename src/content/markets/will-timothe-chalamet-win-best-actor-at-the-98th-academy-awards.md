@@ -3,8 +3,8 @@ title: "Will Timothée Chalamet win Best Actor at the 98th Academy Awards?"
 description: "Will Timothée Chalamet win Best Actor at the 98th Academy Awards? Odds: 26.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Timothée Chalamet win Best Actor at the 98th Academy Awards?"
 category: "entertainment"
-status: "active"
-lastUpdated: 2026-03-09
+status: "settled"
+lastUpdated: 2026-03-10
 expiryDate: 2026-03-15
 tags: ["entertainment", "polymarket"]
 polymarketYes: 26.5

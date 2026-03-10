@@ -3,56 +3,57 @@ title: "Les Wexner arrested by March 31?"
 description: "Les Wexner arrested by March 31? Odds: 2.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Les Wexner arrested by March 31?"
 category: "politics"
-status: "settled"
-lastUpdated: 2026-03-08
+status: "active"
+lastUpdated: 2026-03-10
 expiryDate: 2026-03-31
 tags: ["politics", "polymarket"]
 polymarketYes: 2.1
-polymarketNo: 97.9
-polymarketVolume: 9597
+polymarketNo: 98.0
+polymarketVolume: 9816
 polymarketUrl: "https://polymarket.com/event/les-wexner-arrested-by-march-31"
+analysisDate: 2026-03-10
 ---
 
-# Les Wexner Arrest Market Analysis
+# Les Wexner Arrest Prediction Market Analysis
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 2.1% | 97.9% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 2.1% | 98.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-This market prices the probability of former L Brands CEO Les Wexner's arrest by March 31, 2026, at just 2.1%, reflecting the low likelihood of legal action against the prominent businessman in the near term despite his historical associations with Jeffrey Epstein. The extremely low odds suggest traders view arrest as highly improbable, though the market remains open for over a year, leaving room for unexpected legal developments. Wexner's involvement in the Epstein orbit has generated persistent scrutiny, but the absence of charges to date—despite the broader Epstein investigation spanning multiple administrations—indicates minimal near-term risk from law enforcement.
+The market is pricing an arrest of retail magnate Les Wexner by end of Q1 2026 at just 2.1%, reflecting extremely low conviction that this outcome materializes within the next 15 months. This market matters because Wexner remains a central figure in ongoing legal scrutiny related to Jeffrey Epstein connections and potential financial crimes, making any shift in prosecution strategy immediately relevant to traders.
 
-The bull case for arrest hinges on renewed federal or state investigations potentially accelerating in 2025-2026. If the incoming Trump administration's DOJ or state attorneys general launch fresh probes into Epstein-adjacent figures, Wexner could face subpoenas or charges related to financial dealings, potential knowledge of crimes, or charitable fund misuse. The Southern District of New York's Epstein-related cases have periodically resururfaced; any new witness testimony, unsealed documents, or cooperation deals could shift focus toward enablers rather than just the primary conspirator. Additionally, civil litigation against Wexner from Epstein survivors could generate evidence that triggers criminal referrals.
+The bull case rests on several active investigative threads: federal authorities have demonstrated sustained interest in Wexner's financial dealings, particularly around his relationship with Epstein and potential money laundering through his retail empire. Recent civil settlements and deposition testimony have uncovered new evidence patterns, and aggressive prosecutors could move quickly on financial crime charges given documented wire transfers and asset obscuration tactics. If new documentary evidence emerges from ongoing discovery in related cases—particularly from 2025 depositions in civil litigation—prosecutors might accelerate indictment timing to secure cooperation before statute of limitations concerns accelerate. The specific March 31, 2026 deadline captures the end of a fiscal period when financial crime investigations often culminate.
 
-The bear case—reflected in the 97.9% NO odds—rests on the simple fact that Wexner has avoided prosecution despite 15+ years of scrutiny following Epstein's 2008 conviction and the 2019 arrest that renewed investigations. No credible reporting suggests he faces imminent charges, and the statute of limitations on many potential crimes has passed. Wexner settled a lawsuit with Epstein survivors in 2022 without admitting wrongdoing, effectively containing reputational damage. Federal law enforcement rarely charges wealthy individuals in tangential roles without direct evidence of criminal conspiracy; Wexner's stated ignorance of Epstein's conduct, combined with his cooperation with investigators, makes prosecution politically and legally difficult.
+The bear case dominates current odds for rational reasons: Wexner is 87 years old with significant legal resources, making aggressive prosecution a lower priority for federal authorities managing resource constraints. No public indictment has materialized despite years of investigation, suggesting either insufficient evidence or prosecutorial hesitation about high-profile retail figure litigation. His primary co-conspirators in alleged schemes (Epstein deceased, others already convicted) reduce leverage for further arrests. The 15-month window is relatively short for federal criminal process—investigations of this complexity typically take 2-4 years from serious investigation to arrest.
 
-Watch for late 2025 DOJ personnel announcements and any unsealing of Epstein-related grand jury materials as primary catalysts. Civil depositions or bankruptcy proceedings involving Epstein's estate could also surface testimony that shifts the legal calculus. The market's 2.1% odds leave minimal room for surprise, suggesting traders are pricing near-zero arrest probability—a rational stance given historical precedent but one vulnerable to unexpected investigative developments.
+Traders should monitor Q2-Q3 2025 for any major developments in related civil discovery, statements from prosecutors about financial crime task forces, or surprising new witness testimony. Significant asset seizures or search warrants would be immediate probability shifters. The current 2.1% odds likely undervalue tail risk given the ongoing nature of investigations, but substantial evidence of imminent prosecution would need to emerge publicly for meaningful repricing.
 
 ## Related Markets
 
 - [Will Jesus Christ return before GTA VI?](/odds/will-jesus-christ-return-before-gta-vi) — 48% YES
-- [Will the next Prime Minister of Hungary be László Toroczkai?](/odds/will-the-next-prime-minister-of-hungary-be-lszl-toroczkai) — 1% YES
-- [Trump-Denmark Greenland deal signed by March 31?](/odds/trump-denmark-greenland-deal-signed-by-march-31) — 2% YES
+- [Will Mark Kelly win the 2028 Democratic presidential nomination?](/odds/will-mark-kelly-win-the-2028-democratic-presidential-nomination) — 2% YES
+- [Trump-Denmark Greenland deal signed by March 31?](/odds/trump-denmark-greenland-deal-signed-by-march-31) — 1% YES
 
 ## Frequently Asked Questions
 
-### What specific conduct could trigger Wexner's arrest under this market's terms?
+### What specific crimes would trigger an arrest—financial fraud, money laundering, or conspiracy charges?
 
-Potential charges could involve money laundering related to Epstein payments, conspiracy, obstruction of justice, or violations tied to his charitable foundations' management; however, prosecutors would need evidence of direct knowledge or participation in crimes, not merely association.
+Most likely vectors are wire fraud, money laundering through retail operations, or conspiracy related to Epstein-connected financial flows; prosecutors would need documentary evidence showing Wexner's personal knowledge and involvement in criminal schemes, not merely proximity to Epstein.
 
-### Has any new evidence or investigation targeting Wexner emerged since 2023?
+### Has any recent court filing or settlement suggested prosecutors are actively building a case against Wexner personally?
 
-No recent credible reporting indicates active federal or state investigations specifically targeting Wexner for criminal conduct; the 2022 civil settlement largely concluded the most visible legal exposure.
+Civil discovery has revealed concerning financial patterns and testimony, but no public criminal referral or grand jury activity targeting Wexner has been reported as of early 2025, distinguishing this from the clear prosecutorial momentum that preceded other Epstein-adjacent arrests.
 
-### How might a change in administration affect this market's probability?
+### How does Wexner's age and health status affect arrest probability?
 
-A more aggressive DOJ under Trump or a successor could theoretically revisit Epstein enablers, but Wexner's prior cooperation and lack of evidence of direct criminal involvement make arrest unlikely even under different prosecutorial priorities.
+His advanced age (87) makes federal prosecution less attractive as a resource allocation matter and raises questions about trial competency; prosecutors typically deprioritize elderly defendants with limited remaining liberty interest unless facing extraordinary political pressure to act.
 
 ## Learn More
 
-- [Prediction Market Roundup March 05, 2026](/blog/daily-market-pulse-2026-03-05)
-- [Prediction Market Roundup March 04, 2026](/blog/daily-market-pulse-2026-03-04)
+- [Fed March Rate Decision: Market Odds & Analysis](/blog/fed-march-rate-decision-market-odds-analysis)
+- [Fed March Decision Odds: What Markets Are Betting](/blog/fed-march-decision-odds-what-markets-are-betting)
 

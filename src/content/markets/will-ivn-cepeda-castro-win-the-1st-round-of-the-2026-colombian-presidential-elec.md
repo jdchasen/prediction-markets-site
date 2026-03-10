@@ -3,8 +3,8 @@ title: "Will Iván Cepeda Castro win the 1st round of the 2026 Colombian preside
 description: "Will Iván Cepeda Castro win the 1st round of the 2026 Colombian presidential election? Odds: 73.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Iván Cepeda Castro win the 1st round of the 2026 Colombian presidential election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-09
+status: "settled"
+lastUpdated: 2026-03-10
 expiryDate: 2026-05-31
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 73.0

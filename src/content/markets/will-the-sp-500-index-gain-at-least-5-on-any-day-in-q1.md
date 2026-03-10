@@ -3,8 +3,8 @@ title: "Will the S&P 500 Index gain at least 5% on any day in Q1?"
 description: "Will the S&P 500 Index gain at least 5% on any day in Q1? Odds: 5.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the S&P 500 Index gain at least 5% on any day in Q1?"
 category: "finance"
-status: "active"
-lastUpdated: 2026-03-09
+status: "settled"
+lastUpdated: 2026-03-10
 expiryDate: 2026-03-31
 tags: ["ai", "finance", "polymarket", "stocks"]
 polymarketYes: 5.5

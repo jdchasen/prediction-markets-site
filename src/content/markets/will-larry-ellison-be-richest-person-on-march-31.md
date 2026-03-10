@@ -3,8 +3,8 @@ title: "Will Larry Ellison be richest person on March 31?"
 description: "Will Larry Ellison be richest person on March 31? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Larry Ellison be richest person on March 31?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-09
+status: "settled"
+lastUpdated: 2026-03-10
 expiryDate: 2026-03-31
 tags: ["politics", "polymarket"]
 polymarketYes: 0.1
