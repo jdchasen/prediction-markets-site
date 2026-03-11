@@ -9,9 +9,8 @@ expiryDate: 2026-04-13
 tags: ["polymarket", "sports"]
 polymarketYes: 0.2
 polymarketNo: 99.8
-polymarketVolume: 99116
+polymarketVolume: 99550
 polymarketUrl: "https://polymarket.com/event/will-zach-johnson-win-the-2026-masters-tournament"
-analysisDate: 2026-03-11
 ---
 
 The market prices Zach Johnson at virtually zero chance to win the 2026 Masters, reflecting his age (50 by tournament time), declining performance, and the tournament's physical demands on Augusta National's challenging layout.

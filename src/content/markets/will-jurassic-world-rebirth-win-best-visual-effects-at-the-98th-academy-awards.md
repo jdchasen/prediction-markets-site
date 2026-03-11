@@ -3,7 +3,7 @@ title: "Will Jurassic World Rebirth win Best Visual Effects at the 98th Academy 
 description: "Will Jurassic World Rebirth win Best Visual Effects at the 98th Academy Awards? Odds: 0.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Jurassic World Rebirth win Best Visual Effects at the 98th Academy Awards?"
 category: "entertainment"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-11
 expiryDate: 2026-03-15
 tags: ["entertainment", "polymarket"]

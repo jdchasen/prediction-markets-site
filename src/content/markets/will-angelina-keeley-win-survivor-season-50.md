@@ -3,7 +3,7 @@ title: "Will Angelina Keeley win Survivor Season 50?"
 description: "Will Angelina Keeley win Survivor Season 50? Odds: 0.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Angelina Keeley win Survivor Season 50?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-11
 expiryDate: 2026-05-20
 tags: ["politics", "polymarket"]

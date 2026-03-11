@@ -3,7 +3,7 @@ title: "Will Powell say \"Fed\" or \"Federal Reserve\" 7+ times during March pre
 description: "Will Powell say \"Fed\" or \"Federal Reserve\" 7+ times during March press conference? Odds: 47.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Powell say \"Fed\" or \"Federal Reserve\" 7+ times during March press conference?"
 category: "economics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-11
 expiryDate: 2026-03-18
 tags: ["economics", "federal-reserve", "polymarket"]

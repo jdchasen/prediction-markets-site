@@ -9,9 +9,8 @@ expiryDate: 2026-04-25
 tags: ["ai", "polymarket", "sports"]
 polymarketYes: 0.1
 polymarketNo: 99.9
-polymarketVolume: 9831
+polymarketVolume: 9995
 polymarketUrl: "https://polymarket.com/event/will-jayden-maiava-be-the-first-pick-of-the-2026-nfl-draft"
-analysisDate: 2026-03-11
 ---
 
 # Jayden Maiava First Overall Pick Analysis

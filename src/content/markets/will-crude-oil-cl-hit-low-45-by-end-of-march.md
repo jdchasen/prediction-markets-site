@@ -9,9 +9,8 @@ expiryDate: 2026-03-31
 tags: ["politics", "polymarket"]
 polymarketYes: 0.9
 polymarketNo: 99.1
-polymarketVolume: 98248
-polymarketUrl: "https://polymarket.com/event/will-crude-oil-cl-hit-low-45-by-end-of-march-524-288-596-421-318"
-analysisDate: 2026-03-11
+polymarketVolume: 99486
+polymarketUrl: "https://polymarket.com/event/will-crude-oil-cl-hit-low-45-by-end-of-march-524-288-596-421-318-497-667"
 ---
 
 Crude oil futures hitting $45 per barrel by March 2026 is trading at near-zero probability, reflecting expectations that substantial new supply shocks or a severe global recession would be required to crash prices from current levels around $70-75.

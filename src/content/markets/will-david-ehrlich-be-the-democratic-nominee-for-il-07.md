@@ -3,7 +3,7 @@ title: "Will David Ehrlich be the Democratic Nominee for IL-07?"
 description: "Will David Ehrlich be the Democratic Nominee for IL-07? Odds: 0.6% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will David Ehrlich be the Democratic Nominee for IL-07?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-11
 expiryDate: 2026-03-17
 tags: ["politics", "polymarket"]

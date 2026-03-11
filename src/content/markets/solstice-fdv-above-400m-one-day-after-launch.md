@@ -1,17 +1,16 @@
 ---
 title: "Solstice FDV above $400M one day after launch?"
-description: "Solstice FDV above $400M one day after launch? Odds: 2.0% YES on Polymarket. See live prices and trade this market."
+description: "Solstice FDV above $400M one day after launch? Odds: 2.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Solstice FDV above $400M one day after launch?"
 category: "crypto"
 status: "active"
 lastUpdated: 2026-03-11
 expiryDate: 2027-01-01
 tags: ["crypto", "polymarket"]
-polymarketYes: 2.0
-polymarketNo: 98.0
+polymarketYes: 2.2
+polymarketNo: 97.8
 polymarketVolume: 9971
 polymarketUrl: "https://polymarket.com/event/solstice-fdv-above-400m-one-day-after-launch"
-analysisDate: 2026-03-11
 ---
 
 The Solstice token launch market is pricing in an extremely low probability of success, with traders showing near-complete skepticism that this project will achieve a $400M fully diluted valuation within 24 hours of going live. This matters because the sub-3% odds reveal either a complete lack of confidence in the project's fundamentals, concerns about initial token distribution mechanics, or expectations of limited liquidity at launch. The market expires January 1, 2027, suggesting the actual launch date remains uncertain or could occur anytime before then.

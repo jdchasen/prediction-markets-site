@@ -3,7 +3,7 @@ title: "Will the Atlanta Hawks win the 2026 NBA Finals?"
 description: "Will the Atlanta Hawks win the 2026 NBA Finals? Odds: 0.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Atlanta Hawks win the 2026 NBA Finals?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-11
 expiryDate: 2026-07-01
 tags: ["polymarket", "sports"]

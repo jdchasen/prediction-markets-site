@@ -3,7 +3,7 @@ title: "Will Ryan Gosling attend the Oscars?"
 description: "Will Ryan Gosling attend the Oscars? Odds: 66.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Ryan Gosling attend the Oscars?"
 category: "entertainment"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-11
 expiryDate: 2026-03-15
 tags: ["entertainment", "polymarket"]

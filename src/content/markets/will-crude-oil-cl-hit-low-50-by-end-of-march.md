@@ -9,9 +9,8 @@ expiryDate: 2026-03-31
 tags: ["politics", "polymarket"]
 polymarketYes: 1.2
 polymarketNo: 98.8
-polymarketVolume: 98043
-polymarketUrl: "https://polymarket.com/event/will-crude-oil-cl-hit-low-50-by-end-of-march-969-293-176-621-832-316"
-analysisDate: 2026-03-11
+polymarketVolume: 98959
+polymarketUrl: "https://polymarket.com/event/will-crude-oil-cl-hit-low-50-by-end-of-march-969-293-176-621-832-316-288-934"
 ---
 
 Crude oil trading at $50 or below by March 2026 represents a catastrophic collapse scenario that the market views as extremely unlikely, with traders pricing it at barely over 1% probability—a bet that would require an unprecedented supply shock or global demand destruction over the next fifteen months.

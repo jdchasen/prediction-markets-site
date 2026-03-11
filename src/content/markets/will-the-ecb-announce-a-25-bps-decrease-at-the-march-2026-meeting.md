@@ -3,7 +3,7 @@ title: "Will the ECB announce a 25 bps decrease at the March 2026 meeting?"
 description: "Will the ECB announce a 25 bps decrease at the March 2026 meeting? Odds: 0.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the ECB announce a 25 bps decrease at the March 2026 meeting?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-11
 expiryDate: 2026-03-19
 tags: ["politics", "polymarket"]

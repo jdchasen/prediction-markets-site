@@ -3,7 +3,7 @@ title: "Will Tyloo win Blast Open Rotterdam 2026? "
 description: "Will Tyloo win Blast Open Rotterdam 2026?  Odds: 0.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Tyloo win Blast Open Rotterdam 2026? "
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-11
 expiryDate: 2026-03-29
 tags: ["politics", "polymarket"]
