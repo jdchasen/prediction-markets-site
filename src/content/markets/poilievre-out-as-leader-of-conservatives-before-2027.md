@@ -3,8 +3,8 @@ title: "Poilievre out as leader of Conservatives before 2027?"
 description: "Poilievre out as leader of Conservatives before 2027? Odds: 28.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Poilievre out as leader of Conservatives before 2027?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-10
+status: "settled"
+lastUpdated: 2026-03-11
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 28.5

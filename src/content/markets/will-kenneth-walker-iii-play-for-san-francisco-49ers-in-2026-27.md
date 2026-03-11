@@ -3,8 +3,8 @@ title: "Will Kenneth Walker III play for San Francisco 49ers in 2026-27?"
 description: "Will Kenneth Walker III play for San Francisco 49ers in 2026-27? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Kenneth Walker III play for San Francisco 49ers in 2026-27?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-10
+status: "settled"
+lastUpdated: 2026-03-11
 expiryDate: 2026-09-01
 tags: ["ethereum", "politics", "polymarket"]
 polymarketYes: 0.1

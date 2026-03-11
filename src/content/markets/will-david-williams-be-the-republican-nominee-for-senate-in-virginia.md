@@ -3,8 +3,8 @@ title: "Will David Williams be the Republican nominee for Senate in Virginia?"
 description: "Will David Williams be the Republican nominee for Senate in Virginia? Odds: 17.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will David Williams be the Republican nominee for Senate in Virginia?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-10
+status: "settled"
+lastUpdated: 2026-03-11
 expiryDate: 2026-06-16
 tags: ["politics", "polymarket"]
 polymarketYes: 17.5

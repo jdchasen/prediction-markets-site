@@ -3,8 +3,8 @@ title: "Will Edgar Javier Rodriguez win the 2026 Cochabamba mayoral election?"
 description: "Will Edgar Javier Rodriguez win the 2026 Cochabamba mayoral election? Odds: 0.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Edgar Javier Rodriguez win the 2026 Cochabamba mayoral election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-10
+status: "settled"
+lastUpdated: 2026-03-11
 expiryDate: 2026-03-22
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.4

@@ -1,17 +1,16 @@
 ---
 title: "Will anyone be charged over Epstein disclosures?"
-description: "Will anyone be charged over Epstein disclosures? Odds: 28.5% YES on Polymarket. See live prices and trade this market."
+description: "Will anyone be charged over Epstein disclosures? Odds: 28.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will anyone be charged over Epstein disclosures?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-03-10
+lastUpdated: 2026-03-11
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 28.5
-polymarketNo: 71.5
-polymarketVolume: 98943
+polymarketYes: 28.0
+polymarketNo: 72.0
+polymarketVolume: 99176
 polymarketUrl: "https://polymarket.com/event/will-anyone-be-charged-over-epstein-disclosures"
-analysisDate: 2026-03-10
 ---
 
 The market pricing criminal charges related to Epstein document disclosures at roughly 3-to-1 against reflects skepticism that revelations will translate into prosecutions, despite ongoing document releases from the 2015 Giuffre v. Maxwell defamation case and potential new investigations. The timing matters because unsealed court documents continue trickling out through 2024-2025, naming high-profile individuals and raising questions about accountability for those connected to Epstein's activities.

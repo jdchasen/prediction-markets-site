@@ -3,8 +3,8 @@ title: "Will Google have the #3 AI model at the end of March 2026?"
 description: "Will Google have the #3 AI model at the end of March 2026? Odds: 66.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Google have the #3 AI model at the end of March 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-10
+status: "settled"
+lastUpdated: 2026-03-11
 expiryDate: 2026-03-31
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 66.0

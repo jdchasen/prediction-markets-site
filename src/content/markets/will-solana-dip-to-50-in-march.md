@@ -3,8 +3,8 @@ title: "Will Solana dip to $50 in March?"
 description: "Will Solana dip to $50 in March? Odds: 4.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Solana dip to $50 in March?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-10
+status: "settled"
+lastUpdated: 2026-03-11
 expiryDate: 2026-04-01
 tags: ["politics", "polymarket"]
 polymarketYes: 4.5

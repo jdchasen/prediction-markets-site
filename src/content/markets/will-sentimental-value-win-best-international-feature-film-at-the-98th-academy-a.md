@@ -3,8 +3,8 @@ title: "Will Sentimental Value win Best International Feature Film at the 98th A
 description: "Will Sentimental Value win Best International Feature Film at the 98th Academy Awards? Odds: 67.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Sentimental Value win Best International Feature Film at the 98th Academy Awards?"
 category: "entertainment"
-status: "active"
-lastUpdated: 2026-03-10
+status: "settled"
+lastUpdated: 2026-03-11
 expiryDate: 2026-03-15
 tags: ["entertainment", "polymarket"]
 polymarketYes: 67.5

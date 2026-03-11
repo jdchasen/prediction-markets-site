@@ -3,8 +3,8 @@ title: "Will The Smashing Machine win Best Makeup and Hairstyling at the 98th Ac
 description: "Will The Smashing Machine win Best Makeup and Hairstyling at the 98th Academy Awards? Odds: 0.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will The Smashing Machine win Best Makeup and Hairstyling at the 98th Academy Awards?"
 category: "entertainment"
-status: "active"
-lastUpdated: 2026-03-10
+status: "settled"
+lastUpdated: 2026-03-11
 expiryDate: 2026-03-15
 tags: ["ai", "entertainment", "polymarket"]
 polymarketYes: 0.9

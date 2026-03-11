@@ -4,14 +4,13 @@ description: "Will the Orlando Magic win the NBA Eastern Conference Finals? Odds
 marketQuestion: "Will the Orlando Magic win the NBA Eastern Conference Finals?"
 category: "sports"
 status: "active"
-lastUpdated: 2026-03-10
+lastUpdated: 2026-03-11
 expiryDate: 2026-06-13
 tags: ["polymarket", "sports"]
 polymarketYes: 2.2
 polymarketNo: 97.8
-polymarketVolume: 979587
+polymarketVolume: 982322
 polymarketUrl: "https://polymarket.com/event/will-the-orlando-magic-win-the-nba-eastern-conference-finals"
-analysisDate: 2026-03-10
 ---
 
 The Orlando Magic are given virtually no chance at reaching the NBA Finals by mid-2026, with traders pricing their Eastern Conference championship odds at barely over 2%, reflecting the franchise's long rebuilding path and the strength of established contenders like Boston and Milwaukee.

@@ -3,8 +3,8 @@ title: "BNP Paribas Open: Alexandra Eala vs Linda Noskova"
 description: "BNP Paribas Open: Alexandra Eala vs Linda Noskova Odds: 38.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "BNP Paribas Open: Alexandra Eala vs Linda Noskova"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-10
+status: "settled"
+lastUpdated: 2026-03-11
 expiryDate: 2026-03-17
 tags: ["politics", "polymarket"]
 polymarketYes: 38.5

@@ -3,8 +3,8 @@ title: "Will Nicole Lee Ethington be the Republican nominee for KY-04?"
 description: "Will Nicole Lee Ethington be the Republican nominee for KY-04? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Nicole Lee Ethington be the Republican nominee for KY-04?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-10
+status: "settled"
+lastUpdated: 2026-03-11
 expiryDate: 2026-05-19
 tags: ["ethereum", "politics", "polymarket"]
 polymarketYes: 0.1

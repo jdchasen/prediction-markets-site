@@ -3,8 +3,8 @@ title: "Will Rahm Emanuel win the 2028 Democratic presidential nomination?"
 description: "Will Rahm Emanuel win the 2028 Democratic presidential nomination? Odds: 1.6% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Rahm Emanuel win the 2028 Democratic presidential nomination?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-10
+status: "settled"
+lastUpdated: 2026-03-11
 expiryDate: 2028-11-07
 tags: ["politics", "polymarket"]
 polymarketYes: 1.6

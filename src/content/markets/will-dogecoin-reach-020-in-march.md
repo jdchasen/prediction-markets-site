@@ -3,8 +3,8 @@ title: "Will Dogecoin reach $0.20 in March?"
 description: "Will Dogecoin reach $0.20 in March? Odds: 1.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Dogecoin reach $0.20 in March?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-10
+status: "settled"
+lastUpdated: 2026-03-11
 expiryDate: 2026-04-01
 tags: ["politics", "polymarket"]
 polymarketYes: 1.9

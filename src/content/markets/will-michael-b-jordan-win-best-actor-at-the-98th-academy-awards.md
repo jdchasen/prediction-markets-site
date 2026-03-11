@@ -3,8 +3,8 @@ title: "Will Michael B. Jordan win Best Actor at the 98th Academy Awards?"
 description: "Will Michael B. Jordan win Best Actor at the 98th Academy Awards? Odds: 59.3% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Michael B. Jordan win Best Actor at the 98th Academy Awards?"
 category: "entertainment"
-status: "active"
-lastUpdated: 2026-03-10
+status: "settled"
+lastUpdated: 2026-03-11
 expiryDate: 2026-03-15
 tags: ["entertainment", "polymarket"]
 polymarketYes: 59.3

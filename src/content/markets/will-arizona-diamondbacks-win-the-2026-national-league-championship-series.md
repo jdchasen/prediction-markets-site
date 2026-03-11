@@ -3,8 +3,8 @@ title: "Will Arizona Diamondbacks win the 2026 National League Championship Seri
 description: "Will Arizona Diamondbacks win the 2026 National League Championship Series? Odds: 1.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Arizona Diamondbacks win the 2026 National League Championship Series?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-10
+status: "settled"
+lastUpdated: 2026-03-11
 expiryDate: 2026-11-01
 tags: ["politics", "polymarket"]
 polymarketYes: 1.8

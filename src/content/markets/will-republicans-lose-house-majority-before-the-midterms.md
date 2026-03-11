@@ -3,8 +3,8 @@ title: "Will Republicans lose House majority before the midterms?"
 description: "Will Republicans lose House majority before the midterms? Odds: 16.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Republicans lose House majority before the midterms?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-10
+status: "settled"
+lastUpdated: 2026-03-11
 expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
 polymarketYes: 16.5

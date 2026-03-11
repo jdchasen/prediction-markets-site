@@ -3,8 +3,8 @@ title: "Will Cade Klubnik be the first pick of the 2026 NFL Draft?"
 description: "Will Cade Klubnik be the first pick of the 2026 NFL Draft? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Cade Klubnik be the first pick of the 2026 NFL Draft?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-03-10
+status: "settled"
+lastUpdated: 2026-03-11
 expiryDate: 2026-04-25
 tags: ["polymarket", "sports"]
 polymarketYes: 0.1

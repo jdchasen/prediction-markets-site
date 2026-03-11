@@ -3,8 +3,8 @@ title: "Will Kim Eun-hye win the 2026 Gyeonggi Province Gubernatorial Election?"
 description: "Will Kim Eun-hye win the 2026 Gyeonggi Province Gubernatorial Election? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Kim Eun-hye win the 2026 Gyeonggi Province Gubernatorial Election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-10
+status: "settled"
+lastUpdated: 2026-03-11
 expiryDate: 2026-06-03
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.1

@@ -3,8 +3,8 @@ title: "Will \"Sinners\" win exactly 9 awards at the Oscars?"
 description: "Will \"Sinners\" win exactly 9 awards at the Oscars? Odds: 2.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will \"Sinners\" win exactly 9 awards at the Oscars?"
 category: "entertainment"
-status: "active"
-lastUpdated: 2026-03-10
+status: "settled"
+lastUpdated: 2026-03-11
 expiryDate: 2026-03-15
 tags: ["entertainment", "polymarket"]
 polymarketYes: 2.8

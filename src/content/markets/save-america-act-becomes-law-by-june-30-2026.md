@@ -3,8 +3,8 @@ title: "SAVE America Act becomes law by June 30, 2026?"
 description: "SAVE America Act becomes law by June 30, 2026? Odds: 31.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "SAVE America Act becomes law by June 30, 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-10
+status: "settled"
+lastUpdated: 2026-03-11
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
 polymarketYes: 31.0
