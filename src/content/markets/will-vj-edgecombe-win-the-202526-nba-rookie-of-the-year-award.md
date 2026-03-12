@@ -3,8 +3,8 @@ title: "Will V.J. Edgecombe win the 2025–26 NBA Rookie of the Year award?"
 description: "Will V.J. Edgecombe win the 2025–26 NBA Rookie of the Year award? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will V.J. Edgecombe win the 2025–26 NBA Rookie of the Year award?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-03-11
+status: "settled"
+lastUpdated: 2026-03-12
 expiryDate: 2026-05-18
 tags: ["polymarket", "sports"]
 polymarketYes: 0.1

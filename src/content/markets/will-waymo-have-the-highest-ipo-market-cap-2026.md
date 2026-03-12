@@ -3,8 +3,8 @@ title: "Will Waymo have the highest IPO Market Cap 2026?"
 description: "Will Waymo have the highest IPO Market Cap 2026? Odds: 0.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Waymo have the highest IPO Market Cap 2026?"
 category: "finance"
-status: "active"
-lastUpdated: 2026-03-11
+status: "settled"
+lastUpdated: 2026-03-12
 expiryDate: 2026-12-31
 tags: ["finance", "polymarket"]
 polymarketYes: 0.4

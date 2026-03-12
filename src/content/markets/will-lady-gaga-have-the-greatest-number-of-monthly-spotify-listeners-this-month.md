@@ -3,8 +3,8 @@ title: "Will Lady Gaga have the greatest number of monthly Spotify listeners thi
 description: "Will Lady Gaga have the greatest number of monthly Spotify listeners this month? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Lady Gaga have the greatest number of monthly Spotify listeners this month?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-11
+status: "settled"
+lastUpdated: 2026-03-12
 expiryDate: 2026-03-31
 tags: ["politics", "polymarket"]
 polymarketYes: 0.1

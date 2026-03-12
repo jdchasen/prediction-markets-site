@@ -3,8 +3,8 @@ title: "Will Kim Wan-seop win the 2026 Gangwon Province gubernatorial election?"
 description: "Will Kim Wan-seop win the 2026 Gangwon Province gubernatorial election? Odds: 0.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Kim Wan-seop win the 2026 Gangwon Province gubernatorial election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-11
+status: "settled"
+lastUpdated: 2026-03-12
 expiryDate: 2026-06-03
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.4

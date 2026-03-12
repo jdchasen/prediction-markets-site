@@ -3,8 +3,8 @@ title: "Will Kevin Hart attend the Oscars?"
 description: "Will Kevin Hart attend the Oscars? Odds: 20.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Kevin Hart attend the Oscars?"
 category: "entertainment"
-status: "active"
-lastUpdated: 2026-03-11
+status: "settled"
+lastUpdated: 2026-03-12
 expiryDate: 2026-03-15
 tags: ["entertainment", "polymarket"]
 polymarketYes: 20.0

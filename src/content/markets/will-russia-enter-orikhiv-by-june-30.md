@@ -3,8 +3,8 @@ title: "Will Russia enter Orikhiv by June 30?"
 description: "Will Russia enter Orikhiv by June 30? Odds: 34.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Russia enter Orikhiv by June 30?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-11
+status: "settled"
+lastUpdated: 2026-03-12
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
 polymarketYes: 34.5

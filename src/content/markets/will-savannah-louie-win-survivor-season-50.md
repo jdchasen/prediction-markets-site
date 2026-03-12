@@ -4,14 +4,13 @@ description: "Will Savannah Louie win Survivor Season 50? Odds: 0.1% YES on Poly
 marketQuestion: "Will Savannah Louie win Survivor Season 50?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-03-11
+lastUpdated: 2026-03-12
 expiryDate: 2026-05-20
 tags: ["politics", "polymarket"]
 polymarketYes: 0.1
 polymarketNo: 99.9
-polymarketVolume: 9933
+polymarketVolume: 9965
 polymarketUrl: "https://polymarket.com/event/will-savannah-louie-win-survivor-season-50"
-analysisDate: 2026-03-11
 ---
 
 Savannah Louie faces near-insurmountable odds at 0.1% to win Survivor Season 50, reflecting either her early elimination from the game or strong signals that other contestants have positioned themselves as frontrunners heading into the finale scheduled for May 2025.

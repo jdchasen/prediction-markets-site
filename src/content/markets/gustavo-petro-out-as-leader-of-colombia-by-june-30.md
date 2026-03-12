@@ -1,53 +1,52 @@
 ---
 title: "Gustavo Petro out as leader of Colombia by June 30?"
-description: "Gustavo Petro out as leader of Colombia by June 30? Odds: 2.9% YES on Polymarket. See live prices and trade this market."
+description: "Gustavo Petro out as leader of Colombia by June 30? Odds: 2.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Gustavo Petro out as leader of Colombia by June 30?"
 category: "politics"
-status: "settled"
-lastUpdated: 2026-03-11
+status: "active"
+lastUpdated: 2026-03-12
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
-polymarketYes: 2.9
+polymarketYes: 2.8
 polymarketNo: 97.2
-polymarketVolume: 97781
+polymarketVolume: 98151
 polymarketUrl: "https://polymarket.com/event/gustavo-petro-out-as-leader-of-colombia-by-june-30"
+analysisDate: 2026-03-12
 ---
 
-# Colombian Political Stability: Petro's Tenure Under Scrutiny
+The market assigns less than 3% probability to Colombian President Gustavo Petro being removed from office before June 30, 2026, reflecting the high constitutional bar for ousting a sitting president in Colombia's democratic system. This matters because Petro's leftist government has faced persistent tensions with Congress, corruption allegations within his administration, and declining approval ratings that have fueled opposition speculation about his political survival.
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 2.5% | 97.5% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 2.8% | 97.2% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The market currently prices in minimal risk of Colombian President Gustavo Petro's departure before mid-2026, reflecting confidence in institutional stability despite significant political turbulence. This matters because Petro's removal would signal either democratic breakdown or a constitutional crisis in South America's third-largest economy, with spillover effects on regional stability and investor confidence. At 2.5% implied probability, the market is essentially betting on continuity, but the low odds may underestimate genuine vulnerabilities in Petro's political position.
+The bull case for Petro's removal centers on ongoing investigations into his 2022 campaign financing, particularly allegations that his campaign violated spending limits and received illegal contributions. Colombia's National Electoral Council has been examining these claims, and if substantiated, they could theoretically trigger impeachment proceedings or disqualification. Additionally, Petro's approval ratings have hovered in the low 30s throughout 2024, and his coalition's fragmentation in Congress could make him vulnerable if allies abandon ship. His confrontational style with institutions like the Attorney General's office and judiciary has created powerful adversaries who might pursue legal avenues for removal.
 
-The bull case for removal hinges on Petro's eroding legislative coalition and mounting policy conflicts. His fragmented Congressional support—lacking a stable majority—has repeatedly blocked key legislation, including his ambitious tax and pension reforms. If his approval ratings continue declining (recent polls show weakness in key demographics), opposition parties could theoretically pursue a recall mechanism or constitutional amendment to accelerate elections, though Colombian law makes presidential removal extraordinarily difficult. Watch Congressional approval votes on major reforms in Q1-Q2 2025 as stress tests; failed votes on tax overhauls or energy policy could accelerate political instability.
+The bear case recognizes that Colombian constitutional mechanisms for removing a president are deliberately stringent, requiring either impeachment by the full Senate (needing two-thirds majority) or a criminal conviction while in office. Petro retains a base of support among leftist factions and social movements, and his coalition, while fractured, still includes enough legislators to block impeachment efforts. The historical precedent is clear: no Colombian president has been forcibly removed from office since the 1991 constitution was adopted. The 2026 timeline extends nearly to the end of his term anyway—elections are scheduled for May 2026—making voluntary resignation or successful legal action increasingly unlikely as the presidential transition approaches.
 
-The bear case is substantially stronger: Colombia's 1991 Constitution erected formidable barriers against presidential removal without formal impeachment processes requiring extraordinary Congressional majorities and judicial oversight. Petro retains executive powers over economic policy and can govern through decree on security matters—his core political base, particularly among youth and left-wing constituencies, remains mobilized despite recent protests. The 2026 timeline is crucial because it covers less than 18 months of remaining term; significant policy shifts or coalition repairs are still possible, and any viable removal mechanism would require multi-month legal processes.
-
-Key catalysts include Congressional votes on fiscal reform (expected Q1 2025), regional elections that could shift power dynamics, and approval trends—particularly if Petro dips below 25% in major polling firms. The judicial system's handling of ongoing investigations into campaign financing and protest response will matter considerably. Traders should monitor whether opposition parties seriously pursue recall petition signatures (requiring 40% of voters) or constitutional amendment votes, neither of which has materialized as credible threats yet.
+Key catalysts to watch include rulings from the National Electoral Council on campaign finance violations (expected in early 2025), Congress's September 2025 session when opposition parties may attempt censure motions, and any prosecutorial actions from the Attorney General's office. The formation of opposition coalitions ahead of the May 2026 elections could intensify political pressure, though removal remains a long shot given constitutional protections and the compressed timeline.
 
 ## Related Markets
 
 - [Will Jesus Christ return before GTA VI?](/odds/will-jesus-christ-return-before-gta-vi) — 48% YES
-- [Will Mark Kelly win the 2028 Democratic presidential nomination?](/odds/will-mark-kelly-win-the-2028-democratic-presidential-nomination) — 2% YES
-- [Trump-Denmark Greenland deal signed by March 31?](/odds/trump-denmark-greenland-deal-signed-by-march-31) — 1% YES
+- [Will Mark Kelly win the 2028 Democratic presidential nomination?](/odds/will-mark-kelly-win-the-2028-democratic-presidential-nomination) — 3% YES
+- [US-Iran nuclear deal by March 31?](/odds/us-iran-nuclear-deal-by-march-31) — 6% YES
 
 ## Frequently Asked Questions
 
-### What specific removal mechanisms could theoretically trigger this outcome before June 2026?
+### What specific legal mechanisms could remove Petro before June 2026?
 
-Colombia's Constitution permits presidential removal only through impeachment (requiring supermajority support unlikely with current fragmentation) or a recall referendum (requiring 40% of the electorate to sign petitions, never successfully attempted). Constitutional amendment to shorten Petro's term is theoretically possible but would require two Congressional votes in separate legislative sessions plus a referendum—an 18-month process that appears dormant.
+The Colombian Senate would need a two-thirds supermajority to impeach and convict him, or the National Electoral Council could theoretically disqualify him if campaign finance violations are proven severe enough. Both scenarios face substantial procedural and political hurdles.
 
-### How much of the market's 2.5% odds reflects judicial risk versus political coalition collapse?
+### How do the 2026 presidential elections affect this market's timeline?
 
-The odds appear weighted primarily toward coalition collapse triggering removal attempts rather than judicial mechanisms. Ongoing investigations into Petro's 2022 campaign and police conduct during protests present non-zero judicial exposure, but Colombian courts have historically resisted removing sitting presidents. Political fragmentation poses greater near-term risk if major reforms fail consecutively in 2025.
+Colombia's presidential elections are scheduled for May 2026, just one month before the market's June 30 deadline, meaning Petro would be in the final weeks of his term regardless. This compressed timeline makes voluntary resignation or removal even more improbable.
 
-### If Petro's approval falls below 20%, would this market reprrice significantly higher?
+### What role does Congress play in Petro's political vulnerability?
 
-Likely yes—approval below 20% would substantially increase political pressure and make removal mechanisms like recall petitions politically viable, though still constitutionally difficult. Current 2.5% odds appear calibrated to baseline institutional strength; a sustained sub-20% approval would probably move odds to 8-12% as opposition parties would have stronger incentives to pursue formal removal processes.
+While Petro's coalition has weakened and he faces legislative opposition on key reforms, his allies still command enough votes to block impeachment proceedings. The opposition would need significant defections from current government supporters to reach the constitutional threshold for removal.
 

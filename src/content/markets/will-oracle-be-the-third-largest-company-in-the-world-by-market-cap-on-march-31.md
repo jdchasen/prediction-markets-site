@@ -1,17 +1,16 @@
 ---
 title: "Will Oracle be the third-largest company in the world by market cap on March 31?"
-description: "Will Oracle be the third-largest company in the world by market cap on March 31? Odds: 0.4% YES on Polymarket. See live prices and trade this market."
+description: "Will Oracle be the third-largest company in the world by market cap on March 31? Odds: 0.3% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Oracle be the third-largest company in the world by market cap on March 31?"
 category: "finance"
-status: "settled"
-lastUpdated: 2026-03-11
+status: "active"
+lastUpdated: 2026-03-12
 expiryDate: 2026-03-31
 tags: ["finance", "polymarket"]
-polymarketYes: 0.4
+polymarketYes: 0.3
 polymarketNo: 99.7
-polymarketVolume: 98167
+polymarketVolume: 99272
 polymarketUrl: "https://polymarket.com/event/will-oracle-be-the-third-largest-company-in-the-world-by-market-cap-on-march-31"
-analysisDate: 2026-03-11
 ---
 
 Oracle becoming the world's third-largest company by market capitalization in just over a year represents an extreme long-shot scenario that would require unprecedented growth or catastrophic collapses among current market leaders, explaining the sub-1% probability pricing.

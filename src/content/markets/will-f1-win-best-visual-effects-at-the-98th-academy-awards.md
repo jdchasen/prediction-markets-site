@@ -3,8 +3,8 @@ title: "Will F1 win Best Visual Effects at the 98th Academy Awards?"
 description: "Will F1 win Best Visual Effects at the 98th Academy Awards? Odds: 2.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will F1 win Best Visual Effects at the 98th Academy Awards?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-03-11
+status: "settled"
+lastUpdated: 2026-03-12
 expiryDate: 2026-03-15
 tags: ["polymarket", "sports"]
 polymarketYes: 2.1

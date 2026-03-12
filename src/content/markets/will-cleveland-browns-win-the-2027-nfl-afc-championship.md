@@ -3,15 +3,14 @@ title: "Will Cleveland Browns win the 2027 NFL AFC Championship?"
 description: "Will Cleveland Browns win the 2027 NFL AFC Championship? Odds: 1.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Cleveland Browns win the 2027 NFL AFC Championship?"
 category: "sports"
-status: "settled"
-lastUpdated: 2026-03-11
+status: "active"
+lastUpdated: 2026-03-12
 expiryDate: 2027-01-25
 tags: ["polymarket", "sports"]
 polymarketYes: 1.2
 polymarketNo: 98.8
-polymarketVolume: 98224
+polymarketVolume: 98252
 polymarketUrl: "https://polymarket.com/event/will-cleveland-browns-win-the-2027-nfl-afc-championship-776"
-analysisDate: 2026-03-11
 ---
 
 The Cleveland Browns are given almost no chance of reaching the 2027 AFC Championship Game according to current market pricing, reflecting deep skepticism about the franchise's ability to build a contender over the next two seasons. This market matters because it captures long-term sentiment about one of the NFL's most embattled franchises, which has cycled through quarterbacks and coaching staffs while managing one of the league's most problematic roster situations with Deshaun Watson's massive guaranteed contract.
