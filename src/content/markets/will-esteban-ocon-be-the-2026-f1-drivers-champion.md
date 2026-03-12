@@ -3,7 +3,7 @@ title: "Will Esteban Ocon be the 2026 F1 Drivers' Champion?"
 description: "Will Esteban Ocon be the 2026 F1 Drivers' Champion? Odds: 0.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Esteban Ocon be the 2026 F1 Drivers' Champion?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-12
 expiryDate: 2026-12-06
 tags: ["polymarket", "sports"]

@@ -1,17 +1,16 @@
 ---
 title: "Backpack FDV above $1B one day after launch?"
-description: "Backpack FDV above $1B one day after launch? Odds: 4.5% YES on Polymarket. See live prices and trade this market."
+description: "Backpack FDV above $1B one day after launch? Odds: 5.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Backpack FDV above $1B one day after launch?"
 category: "crypto"
 status: "active"
 lastUpdated: 2026-03-12
 expiryDate: 2027-01-01
 tags: ["crypto", "polymarket"]
-polymarketYes: 4.5
-polymarketNo: 95.5
-polymarketVolume: 976675
+polymarketYes: 5.5
+polymarketNo: 94.5
+polymarketVolume: 985478
 polymarketUrl: "https://polymarket.com/event/backpack-fdv-above-1b-one-day-after-launch-512-337-259-162-253-174-131-115-249"
-analysisDate: 2026-03-12
 ---
 
 The market assigns just a 4.5% probability to Backpack achieving a fully diluted valuation above $1 billion within 24 hours of its token launch, reflecting deep skepticism about both the launch timeline and valuation prospects in the current crypto environment. This matters because Backpack, the crypto exchange and wallet platform founded by former FTX developer Armani Ferrante, represents one of the more anticipated ecosystem plays in Solana, yet the market clearly doubts it can command unicorn status immediately post-launch.

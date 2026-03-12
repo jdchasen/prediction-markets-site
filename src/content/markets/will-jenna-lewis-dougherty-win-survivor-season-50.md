@@ -3,7 +3,7 @@ title: "Will Jenna Lewis-Dougherty win Survivor Season 50?"
 description: "Will Jenna Lewis-Dougherty win Survivor Season 50? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Jenna Lewis-Dougherty win Survivor Season 50?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-12
 expiryDate: 2026-05-20
 tags: ["politics", "polymarket"]

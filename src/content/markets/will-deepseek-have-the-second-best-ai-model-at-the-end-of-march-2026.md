@@ -9,9 +9,8 @@ expiryDate: 2026-03-31
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 2.1
 polymarketNo: 98.0
-polymarketVolume: 9671
+polymarketVolume: 9680
 polymarketUrl: "https://polymarket.com/event/will-deepseek-have-the-second-best-ai-model-at-the-end-of-march-2026"
-analysisDate: 2026-03-12
 ---
 
 # DeepSeek's AI Model Rankings: A Market Severely Underpricing Disruption Risk

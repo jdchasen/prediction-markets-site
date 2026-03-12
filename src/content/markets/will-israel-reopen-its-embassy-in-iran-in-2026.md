@@ -3,7 +3,7 @@ title: "Will Israel reopen its embassy in Iran in 2026?"
 description: "Will Israel reopen its embassy in Iran in 2026? Odds: 11.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Israel reopen its embassy in Iran in 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-12
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]

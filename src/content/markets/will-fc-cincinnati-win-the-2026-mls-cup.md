@@ -1,17 +1,16 @@
 ---
 title: "Will FC Cincinnati win the 2026 MLS Cup?"
-description: "Will FC Cincinnati win the 2026 MLS Cup? Odds: 2.3% YES on Polymarket. See live prices and trade this market."
+description: "Will FC Cincinnati win the 2026 MLS Cup? Odds: 2.6% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will FC Cincinnati win the 2026 MLS Cup?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-03-12
 expiryDate: 2026-12-19
 tags: ["politics", "polymarket"]
-polymarketYes: 2.3
-polymarketNo: 97.7
-polymarketVolume: 97512
+polymarketYes: 2.6
+polymarketNo: 97.4
+polymarketVolume: 97668
 polymarketUrl: "https://polymarket.com/event/will-fc-cincinnati-win-the-2026-mls-cup"
-analysisDate: 2026-03-12
 ---
 
 FC Cincinnati sits at minimal odds to capture the 2026 MLS Cup, reflecting their current position as a mid-table franchise without the roster depth or track record of perennial contenders like LAFC, Inter Miami, or Columbus Crew. This market matters as an early gauge of how bettors view the club's trajectory heading into a critical 2025 season where roster decisions and coaching stability will determine whether they can build on recent playoff appearances or slide backward in an increasingly competitive Eastern Conference.

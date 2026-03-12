@@ -3,7 +3,7 @@ title: "Will Crude Oil (CL) hit (LOW) $70 by end of March?"
 description: "Will Crude Oil (CL) hit (LOW) $70 by end of March? Odds: 13.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Crude Oil (CL) hit (LOW) $70 by end of March?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-12
 expiryDate: 2026-03-31
 tags: ["politics", "polymarket"]

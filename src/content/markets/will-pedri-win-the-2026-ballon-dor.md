@@ -3,7 +3,7 @@ title: "Will Pedri win the 2026 Ballon d'Or?"
 description: "Will Pedri win the 2026 Ballon d'Or? Odds: 2.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Pedri win the 2026 Ballon d'Or?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-12
 expiryDate: 2026-10-31
 tags: ["politics", "polymarket"]

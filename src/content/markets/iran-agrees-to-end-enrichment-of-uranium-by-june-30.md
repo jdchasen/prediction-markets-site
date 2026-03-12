@@ -1,17 +1,16 @@
 ---
 title: " Iran agrees to end enrichment of uranium by June 30?"
-description: " Iran agrees to end enrichment of uranium by June 30? Odds: 23.0% YES on Polymarket. See live prices and trade this market."
+description: " Iran agrees to end enrichment of uranium by June 30? Odds: 24.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: " Iran agrees to end enrichment of uranium by June 30?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-03-12
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
-polymarketYes: 23.0
-polymarketNo: 77.0
-polymarketVolume: 99044
+polymarketYes: 24.5
+polymarketNo: 75.5
+polymarketVolume: 99684
 polymarketUrl: "https://polymarket.com/event/iran-agrees-to-end-enrichment-of-uranium-by-june-30"
-analysisDate: 2026-03-12
 ---
 
 The market gives roughly one-in-four odds that Iran will agree to completely halt uranium enrichment within the next two years, a development that would fundamentally reshape Middle Eastern geopolitics and U.S.-Iran relations amid ongoing nuclear tensions.

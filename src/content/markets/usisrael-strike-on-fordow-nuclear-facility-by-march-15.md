@@ -3,7 +3,7 @@ title: "US/Israel strike on Fordow nuclear facility by March 15?"
 description: "US/Israel strike on Fordow nuclear facility by March 15? Odds: 14.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "US/Israel strike on Fordow nuclear facility by March 15?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-12
 expiryDate: 2026-03-31
 tags: ["politics", "polymarket"]

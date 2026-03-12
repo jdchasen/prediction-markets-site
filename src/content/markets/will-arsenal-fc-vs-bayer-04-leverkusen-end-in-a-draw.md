@@ -3,7 +3,7 @@ title: "Will Arsenal FC vs. Bayer 04 Leverkusen end in a draw?"
 description: "Will Arsenal FC vs. Bayer 04 Leverkusen end in a draw? Odds: 15.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Arsenal FC vs. Bayer 04 Leverkusen end in a draw?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-12
 expiryDate: 2026-03-17
 tags: ["politics", "polymarket"]

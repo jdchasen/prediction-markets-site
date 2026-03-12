@@ -3,7 +3,7 @@ title: "Will Real Madrid reach the UEFA Champions League quarter-finals?"
 description: "Will Real Madrid reach the UEFA Champions League quarter-finals? Odds: 84.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Real Madrid reach the UEFA Champions League quarter-finals?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-12
 expiryDate: 2026-04-16
 tags: ["polymarket", "sports"]

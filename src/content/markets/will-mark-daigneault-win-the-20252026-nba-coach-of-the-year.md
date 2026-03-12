@@ -9,9 +9,8 @@ expiryDate: 2026-06-30
 tags: ["ai", "polymarket", "sports"]
 polymarketYes: 0.1
 polymarketNo: 99.9
-polymarketVolume: 9727
+polymarketVolume: 9732
 polymarketUrl: "https://polymarket.com/event/nba-2025-26-coach-of-the-year-mark-daigneault"
-analysisDate: 2026-03-12
 ---
 
 # Mark Daigneault 2025–2026 Coach of the Year Analysis

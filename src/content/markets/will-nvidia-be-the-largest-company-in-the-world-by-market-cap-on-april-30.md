@@ -3,7 +3,7 @@ title: "Will NVIDIA be the largest company in the world by market cap on April 3
 description: "Will NVIDIA be the largest company in the world by market cap on April 30? Odds: 91.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will NVIDIA be the largest company in the world by market cap on April 30?"
 category: "finance"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-12
 expiryDate: 2026-04-30
 tags: ["finance", "polymarket"]

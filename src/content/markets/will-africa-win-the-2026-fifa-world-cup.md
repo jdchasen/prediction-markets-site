@@ -1,16 +1,15 @@
 ---
 title: "Will Africa win the 2026 FIFA World Cup?"
-description: "Will Africa win the 2026 FIFA World Cup? Odds: 5.2% YES on Polymarket. See live prices and trade this market."
+description: "Will Africa win the 2026 FIFA World Cup? Odds: 5.3% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Africa win the 2026 FIFA World Cup?"
 category: "sports"
 status: "active"
 lastUpdated: 2026-03-12
 tags: ["polymarket", "sports"]
-polymarketYes: 5.2
-polymarketNo: 94.8
-polymarketVolume: 98536
+polymarketYes: 5.3
+polymarketNo: 94.7
+polymarketVolume: 98592
 polymarketUrl: "https://polymarket.com/event/will-africa-win-the-2026-fifa-world-cup"
-analysisDate: 2026-03-12
 ---
 
 African teams face historically long odds to win the 2026 World Cup, with the market pricing their chances at roughly one in twenty despite the continent's growing football talent and expanded tournament format.

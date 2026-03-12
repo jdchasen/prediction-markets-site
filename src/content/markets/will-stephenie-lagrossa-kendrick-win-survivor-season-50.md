@@ -1,17 +1,16 @@
 ---
 title: "Will Stephenie LaGrossa Kendrick win Survivor Season 50?"
-description: "Will Stephenie LaGrossa Kendrick win Survivor Season 50? Odds: 0.8% YES on Polymarket. See live prices and trade this market."
+description: "Will Stephenie LaGrossa Kendrick win Survivor Season 50? Odds: 0.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Stephenie LaGrossa Kendrick win Survivor Season 50?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-03-12
 expiryDate: 2026-05-20
 tags: ["politics", "polymarket"]
-polymarketYes: 0.8
+polymarketYes: 0.9
 polymarketNo: 99.2
-polymarketVolume: 9711
+polymarketVolume: 9774
 polymarketUrl: "https://polymarket.com/event/will-stephenie-lagrossa-kendrick-win-survivor-season-50"
-analysisDate: 2026-03-12
 ---
 
 # Survivor Season 50 Winner Market Analysis

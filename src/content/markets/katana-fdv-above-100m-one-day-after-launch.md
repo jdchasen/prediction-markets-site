@@ -1,17 +1,16 @@
 ---
 title: "Katana FDV above $100M one day after launch?"
-description: "Katana FDV above $100M one day after launch? Odds: 64.0% YES on Polymarket. See live prices and trade this market."
+description: "Katana FDV above $100M one day after launch? Odds: 66.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Katana FDV above $100M one day after launch?"
 category: "crypto"
 status: "active"
 lastUpdated: 2026-03-12
 expiryDate: 2028-01-01
 tags: ["crypto", "polymarket"]
-polymarketYes: 64.0
-polymarketNo: 36.0
-polymarketVolume: 99215
+polymarketYes: 66.0
+polymarketNo: 34.0
+polymarketVolume: 99554
 polymarketUrl: "https://polymarket.com/event/katana-fdv-above-100m-one-day-after-launch"
-analysisDate: 2026-03-12
 ---
 
 The market pricing Katana's fully diluted valuation above $100M at launch reflects strong confidence in the Ronin ecosystem's newest decentralized exchange, with traders betting nearly two-to-one odds that the token will achieve nine-figure valuation status immediately upon debut. This matters because successful launches of major infrastructure projects on gaming-focused chains like Ronin can signal broader health of the web3 gaming sector and validate alternative L2 scaling approaches.

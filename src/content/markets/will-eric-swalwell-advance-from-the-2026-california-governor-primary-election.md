@@ -9,9 +9,8 @@ expiryDate: 2026-06-02
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 69.0
 polymarketNo: 31.0
-polymarketVolume: 9840
+polymarketVolume: 9870
 polymarketUrl: "https://polymarket.com/event/will-eric-swalwell-get-the-first-or-second-most-votes-in-the-2026-california-governor-primary-election"
-analysisDate: 2026-03-12
 ---
 
 # Eric Swalwell's 2026 California Governor Primary Prospects

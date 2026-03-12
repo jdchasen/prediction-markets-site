@@ -9,9 +9,8 @@ expiryDate: 2027-01-01
 tags: ["crypto", "ethereum", "polymarket"]
 polymarketYes: 24.5
 polymarketNo: 75.5
-polymarketVolume: 97243
+polymarketVolume: 97248
 polymarketUrl: "https://polymarket.com/event/will-ethereum-reach-4000-by-december-31-2026"
-analysisDate: 2026-03-12
 ---
 
 Ethereum trading at roughly $1,800-$2,000 in early 2025 faces a nearly 2.5-year runway to more than double in value, with Polymarket traders pricing just under a one-in-four chance of success—a probability reflecting both the blockchain's technical maturation and significant macroeconomic headwinds.

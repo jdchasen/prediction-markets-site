@@ -1,17 +1,16 @@
 ---
 title: "Will LeBron James announce a Presidential run before 2027?"
-description: "Will LeBron James announce a Presidential run before 2027? Odds: 2.7% YES on Polymarket. See live prices and trade this market."
+description: "Will LeBron James announce a Presidential run before 2027? Odds: 2.6% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will LeBron James announce a Presidential run before 2027?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-03-12
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 2.7
-polymarketNo: 97.3
+polymarketYes: 2.6
+polymarketNo: 97.4
 polymarketVolume: 9674
 polymarketUrl: "https://polymarket.com/event/will-lebron-james-announce-a-presidential-run-before-2027"
-analysisDate: 2026-03-12
 ---
 
 # LeBron James Presidential Run Market Analysis

@@ -3,7 +3,7 @@ title: "Will Dollar Tree (DLTR) beat quarterly earnings?"
 description: "Will Dollar Tree (DLTR) beat quarterly earnings? Odds: 93.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Dollar Tree (DLTR) beat quarterly earnings?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-12
 expiryDate: 2026-03-16
 tags: ["politics", "polymarket"]

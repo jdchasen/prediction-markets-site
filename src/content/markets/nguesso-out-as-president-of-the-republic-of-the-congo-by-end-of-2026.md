@@ -9,9 +9,8 @@ expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 13.5
 polymarketNo: 86.5
-polymarketVolume: 9715
+polymarketVolume: 9789
 polymarketUrl: "https://polymarket.com/event/nguesso-out-as-president-of-the-republic-of-the-congo-by-end-of-2026"
-analysisDate: 2026-03-12
 ---
 
 # Analysis: Nguesso's Grip on Congo's Presidency

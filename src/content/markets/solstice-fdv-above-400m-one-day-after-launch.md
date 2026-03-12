@@ -3,7 +3,7 @@ title: "Solstice FDV above $400M one day after launch?"
 description: "Solstice FDV above $400M one day after launch? Odds: 2.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Solstice FDV above $400M one day after launch?"
 category: "crypto"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-12
 expiryDate: 2027-01-01
 tags: ["crypto", "polymarket"]
