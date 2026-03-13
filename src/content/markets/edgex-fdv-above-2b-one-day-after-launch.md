@@ -9,9 +9,8 @@ expiryDate: 2027-01-01
 tags: ["crypto", "polymarket"]
 polymarketYes: 10.5
 polymarketNo: 89.5
-polymarketVolume: 978557
+polymarketVolume: 979720
 polymarketUrl: "https://polymarket.com/event/edgex-fdv-above-2b-one-day-after-launch-617-354"
-analysisDate: 2026-03-13
 ---
 
 The market pricing EdgeX at only a 10.5% chance of achieving a $2B fully diluted valuation on launch day reflects deep skepticism about yet another token launch in an oversaturated infrastructure narrative. This matters because EdgeX represents Oracle's push into decentralized edge computing, and a weak launch would signal that institutional crypto plays may be losing their premium valuation advantage in current market conditions.

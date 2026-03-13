@@ -3,7 +3,7 @@ title: "Will the Arizona Coyotes win the Central Division?"
 description: "Will the Arizona Coyotes win the Central Division? Odds: 0.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Arizona Coyotes win the Central Division?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-13
 expiryDate: 2026-04-30
 tags: ["politics", "polymarket"]

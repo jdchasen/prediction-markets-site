@@ -3,7 +3,7 @@ title: "Trump approval Up or Down this week?"
 description: "Trump approval Up or Down this week? Odds: 48.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Trump approval Up or Down this week?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-13
 expiryDate: 2026-03-21
 tags: ["politics", "polymarket", "trump"]

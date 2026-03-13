@@ -3,7 +3,7 @@ title: "Will Scream 7 be the February film with the highest domestic gross on Ma
 description: "Will Scream 7 be the February film with the highest domestic gross on March 31? Odds: 99.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Scream 7 be the February film with the highest domestic gross on March 31?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-13
 expiryDate: 2026-03-31
 tags: ["politics", "polymarket"]

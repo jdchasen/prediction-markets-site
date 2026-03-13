@@ -3,7 +3,7 @@ title: "Will Fernando Haddad finish in second place in the first round of the 20
 description: "Will Fernando Haddad finish in second place in the first round of the 2026 Brazilian presidential election? Odds: 1.1% YES on Polymarket. See live prices and..."
 marketQuestion: "Will Fernando Haddad finish in second place in the first round of the 2026 Brazilian presidential election?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-13
 expiryDate: 2026-10-04
 tags: ["elections", "politics", "polymarket"]

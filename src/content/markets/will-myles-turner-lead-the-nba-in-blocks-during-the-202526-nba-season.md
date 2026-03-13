@@ -3,7 +3,7 @@ title: "Will Myles Turner lead the NBA in blocks during the 2025–26 NBA season
 description: "Will Myles Turner lead the NBA in blocks during the 2025–26 NBA season? Odds: 0.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Myles Turner lead the NBA in blocks during the 2025–26 NBA season?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-13
 expiryDate: 2026-04-12
 tags: ["polymarket", "sports"]

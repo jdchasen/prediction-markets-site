@@ -11,7 +11,6 @@ polymarketYes: 2.1
 polymarketNo: 98.0
 polymarketVolume: 9902
 polymarketUrl: "https://polymarket.com/event/will-forsen-be-the-nlc-2026-winter-split-mvp"
-analysisDate: 2026-03-13
 ---
 
 # Analysis: Forsen NLC 2026 Winter Split MVP

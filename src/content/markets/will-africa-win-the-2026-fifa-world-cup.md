@@ -8,9 +8,8 @@ lastUpdated: 2026-03-13
 tags: ["polymarket", "sports"]
 polymarketYes: 4.9
 polymarketNo: 95.1
-polymarketVolume: 98934
+polymarketVolume: 98985
 polymarketUrl: "https://polymarket.com/event/will-africa-win-the-2026-fifa-world-cup"
-analysisDate: 2026-03-13
 ---
 
 The market pricing Africa's chances at under 5% for a 2026 World Cup victory reflects the continent's historical performance ceiling, though the expanded 48-team format provides unprecedented opportunity with nine African nations qualifying for the first time.

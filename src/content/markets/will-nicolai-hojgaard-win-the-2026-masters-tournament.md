@@ -1,17 +1,16 @@
 ---
 title: "Will Nicolai Hojgaard win the 2026 Masters tournament?"
-description: "Will Nicolai Hojgaard win the 2026 Masters tournament? Odds: 0.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Nicolai Hojgaard win the 2026 Masters tournament? Odds: 0.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Nicolai Hojgaard win the 2026 Masters tournament?"
 category: "sports"
 status: "active"
 lastUpdated: 2026-03-13
 expiryDate: 2026-04-13
 tags: ["ai", "polymarket", "sports"]
-polymarketYes: 0.5
-polymarketNo: 99.5
-polymarketVolume: 97262
+polymarketYes: 0.4
+polymarketNo: 99.6
+polymarketVolume: 97753
 polymarketUrl: "https://polymarket.com/event/will-nicolai-hojgaard-win-the-2026-masters-tournament"
-analysisDate: 2026-03-13
 ---
 
 The betting market prices Nicolai Højgaard as a distant longshot for the 2026 Masters, reflecting both his relative youth on tour and the extreme difficulty of winning golf's most prestigious major championship.

@@ -9,9 +9,8 @@ expiryDate: 2026-03-17
 tags: ["politics", "polymarket"]
 polymarketYes: 0.3
 polymarketNo: 99.7
-polymarketVolume: 9699
+polymarketVolume: 9752
 polymarketUrl: "https://polymarket.com/event/will-doug-bennett-be-the-republican-nominee-for-senate-in-illinois"
-analysisDate: 2026-03-13
 ---
 
 # Doug Bennett for Illinois Republican Senate Nomination Analysis

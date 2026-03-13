@@ -1,17 +1,16 @@
 ---
 title: "Will Evan Mobley lead the NBA in blocks during the 2025–26 NBA season?"
-description: "Will Evan Mobley lead the NBA in blocks during the 2025–26 NBA season? Odds: 0.9% YES on Polymarket. See live prices and trade this market."
+description: "Will Evan Mobley lead the NBA in blocks during the 2025–26 NBA season? Odds: 0.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Evan Mobley lead the NBA in blocks during the 2025–26 NBA season?"
 category: "sports"
 status: "active"
 lastUpdated: 2026-03-13
 expiryDate: 2026-04-12
 tags: ["polymarket", "sports"]
-polymarketYes: 0.9
-polymarketNo: 99.1
-polymarketVolume: 9578
+polymarketYes: 0.5
+polymarketNo: 99.5
+polymarketVolume: 9693
 polymarketUrl: "https://polymarket.com/event/nba-2025-26-bpg-leader-evan-mobley"
-analysisDate: 2026-03-13
 ---
 
 # Evan Mobley Blocks Leader Analysis

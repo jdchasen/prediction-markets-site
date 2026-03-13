@@ -3,7 +3,7 @@ title: "Tampa Bay Rays vs. Detroit Tigers"
 description: "Tampa Bay Rays vs. Detroit Tigers Odds: 50.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Tampa Bay Rays vs. Detroit Tigers"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-13
 expiryDate: 2026-03-16
 tags: ["politics", "polymarket"]

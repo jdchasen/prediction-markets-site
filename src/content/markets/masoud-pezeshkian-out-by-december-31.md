@@ -9,9 +9,8 @@ expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 45.5
 polymarketNo: 54.5
-polymarketVolume: 97510
+polymarketVolume: 97910
 polymarketUrl: "https://polymarket.com/event/masoud-pezeshkian-out-by-december-31"
-analysisDate: 2026-03-13
 ---
 
 # Masoud Pezeshkian Departure Market Analysis

@@ -1,17 +1,16 @@
 ---
 title: "Will Toy Story 5 be the top grossing movie of 2026?"
-description: "Will Toy Story 5 be the top grossing movie of 2026? Odds: 2.7% YES on Polymarket. See live prices and trade this market."
+description: "Will Toy Story 5 be the top grossing movie of 2026? Odds: 2.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Toy Story 5 be the top grossing movie of 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-03-13
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 2.7
-polymarketNo: 97.3
-polymarketVolume: 99115
+polymarketYes: 2.4
+polymarketNo: 97.7
+polymarketVolume: 99180
 polymarketUrl: "https://polymarket.com/event/will-toy-story-5-be-the-top-grossing-movie-of-2026"
-analysisDate: 2026-03-13
 ---
 
 The market assigns minimal probability to Toy Story 5 becoming 2026's box office champion, reflecting skepticism that a fifth franchise installment can outperform major competitors despite Pixar's track record.

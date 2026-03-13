@@ -3,7 +3,7 @@ title: "Will Shabana Mahmood be the next Prime Minister of the United Kingdom in
 description: "Will Shabana Mahmood be the next Prime Minister of the United Kingdom in 2026? Odds: 3.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Shabana Mahmood be the next Prime Minister of the United Kingdom in 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-13
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]

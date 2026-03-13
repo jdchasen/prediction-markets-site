@@ -3,7 +3,7 @@ title: "Will Liberal Alliance win the most seats in the Danish Folketing in the 
 description: "Will Liberal Alliance win the most seats in the Danish Folketing in the 2026 Danish general election? Odds: 1.1% YES on Polymarket. See live prices and trade..."
 marketQuestion: "Will Liberal Alliance win the most seats in the Danish Folketing in the 2026 Danish general election?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-13
 expiryDate: 2026-03-24
 tags: ["elections", "politics", "polymarket"]

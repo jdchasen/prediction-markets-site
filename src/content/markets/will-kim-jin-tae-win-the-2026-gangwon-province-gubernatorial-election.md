@@ -3,7 +3,7 @@ title: "Will Kim Jin-tae win the 2026 Gangwon Province gubernatorial election?"
 description: "Will Kim Jin-tae win the 2026 Gangwon Province gubernatorial election? Odds: 13.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Kim Jin-tae win the 2026 Gangwon Province gubernatorial election?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-13
 expiryDate: 2026-06-03
 tags: ["elections", "politics", "polymarket"]

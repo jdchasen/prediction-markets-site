@@ -9,9 +9,8 @@ expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 0.4
 polymarketNo: 99.6
-polymarketVolume: 9882
+polymarketVolume: 9892
 polymarketUrl: "https://polymarket.com/event/will-gholam-ali-haddad-adel-be-head-of-state-in-iran-end-of-2026"
-analysisDate: 2026-03-13
 ---
 
 # Iran Head of State Market Analysis

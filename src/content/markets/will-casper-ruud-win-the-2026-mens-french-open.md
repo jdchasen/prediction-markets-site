@@ -9,9 +9,8 @@ expiryDate: 2026-06-07
 tags: ["politics", "polymarket"]
 polymarketYes: 1.4
 polymarketNo: 98.7
-polymarketVolume: 9834
+polymarketVolume: 9925
 polymarketUrl: "https://polymarket.com/event/will-casper-ruud-win-the-2026-mens-french-open"
-analysisDate: 2026-03-13
 ---
 
 # Analysis: Casper Ruud 2026 French Open Prediction Market

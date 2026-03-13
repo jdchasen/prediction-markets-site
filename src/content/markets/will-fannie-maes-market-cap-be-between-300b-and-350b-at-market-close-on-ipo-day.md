@@ -1,17 +1,16 @@
 ---
 title: "Will Fannie Mae’s market cap be between $300B and $350B at market close on IPO day?"
-description: "Will Fannie Mae’s market cap be between $300B and $350B at market close on IPO day? Odds: 2.1% YES on Polymarket. See live prices and trade this market."
+description: "Will Fannie Mae’s market cap be between $300B and $350B at market close on IPO day? Odds: 2.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Fannie Mae’s market cap be between $300B and $350B at market close on IPO day?"
 category: "finance"
 status: "active"
 lastUpdated: 2026-03-13
 expiryDate: 2026-06-30
 tags: ["finance", "polymarket"]
-polymarketYes: 2.1
-polymarketNo: 97.9
-polymarketVolume: 9672
+polymarketYes: 2.4
+polymarketNo: 97.6
+polymarketVolume: 9791
 polymarketUrl: "https://polymarket.com/event/will-fannie-maes-market-cap-be-between-300b-and-350b-at-market-close-on-ipo-day"
-analysisDate: 2026-03-13
 ---
 
 # Fannie Mae IPO Market Cap Analysis

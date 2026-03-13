@@ -11,7 +11,6 @@ polymarketYes: 0.4
 polymarketNo: 99.7
 polymarketVolume: 9886
 polymarketUrl: "https://polymarket.com/event/will-viktor-gyokeres-be-the-top-goal-scorer-in-the-202526-english-premier-league-season"
-analysisDate: 2026-03-13
 ---
 
 # Viktor Gyokeres Top Scorer Analysis

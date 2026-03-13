@@ -3,7 +3,7 @@ title: "No change in the Selic rate after Bank of Brazil's March 2026 meeting?"
 description: "No change in the Selic rate after Bank of Brazil's March 2026 meeting? Odds: 13.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "No change in the Selic rate after Bank of Brazil's March 2026 meeting?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-13
 expiryDate: 2026-03-17
 tags: ["politics", "polymarket"]

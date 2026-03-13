@@ -3,7 +3,7 @@ title: "Will Rihanna have the greatest number of monthly Spotify listeners this 
 description: "Will Rihanna have the greatest number of monthly Spotify listeners this month? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Rihanna have the greatest number of monthly Spotify listeners this month?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-13
 expiryDate: 2026-03-31
 tags: ["politics", "polymarket"]

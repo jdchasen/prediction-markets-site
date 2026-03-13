@@ -3,7 +3,7 @@ title: "Will Accenture (ACN) beat quarterly earnings?"
 description: "Will Accenture (ACN) beat quarterly earnings? Odds: 89.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Accenture (ACN) beat quarterly earnings?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-13
 expiryDate: 2026-03-19
 tags: ["politics", "polymarket"]

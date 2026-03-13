@@ -7,10 +7,9 @@ status: "active"
 lastUpdated: 2026-03-13
 tags: ["polymarket", "sports"]
 polymarketYes: 81.0
-polymarketNo: 19.1
-polymarketVolume: 96974
+polymarketNo: 19.0
+polymarketVolume: 97090
 polymarketUrl: "https://polymarket.com/event/will-the-oklahoma-city-thunder-finish-with-the-best-record-in-the-nba"
-analysisDate: 2026-03-13
 ---
 
 # Oklahoma City Thunder Best Record Market Analysis

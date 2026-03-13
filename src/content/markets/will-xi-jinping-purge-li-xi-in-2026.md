@@ -3,7 +3,7 @@ title: "Will Xi Jinping purge Li Xi in 2026?"
 description: "Will Xi Jinping purge Li Xi in 2026? Odds: 7.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Xi Jinping purge Li Xi in 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-13
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]

@@ -9,9 +9,8 @@ expiryDate: 2026-05-27
 tags: ["polymarket", "sports"]
 polymarketYes: 0.2
 polymarketNo: 99.8
-polymarketVolume: 9561
+polymarketVolume: 9632
 polymarketUrl: "https://polymarket.com/event/will-florian-wirtz-be-the-top-goal-scorer-in-the-202526-english-premier-league-season"
-analysisDate: 2026-03-13
 ---
 
 # Florian Wirtz Premier League Golden Boot Analysis

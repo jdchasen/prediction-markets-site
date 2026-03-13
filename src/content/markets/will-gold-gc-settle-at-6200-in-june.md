@@ -1,17 +1,16 @@
 ---
 title: "Will Gold (GC) settle at >$6,200 in June?"
-description: "Will Gold (GC) settle at >$6,200 in June? Odds: 14.7% YES on Polymarket. See live prices and trade this market."
+description: "Will Gold (GC) settle at >$6,200 in June? Odds: 13.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Gold (GC) settle at >$6,200 in June?"
 category: "finance"
 status: "active"
 lastUpdated: 2026-03-13
 expiryDate: 2026-06-30
 tags: ["finance", "polymarket"]
-polymarketYes: 14.7
-polymarketNo: 85.3
-polymarketVolume: 97667
+polymarketYes: 13.7
+polymarketNo: 86.4
+polymarketVolume: 98106
 polymarketUrl: "https://polymarket.com/event/gc-settle-above-6200-jun-2026"
-analysisDate: 2026-03-13
 ---
 
 # Gold Settlement Analysis: June 2026 Target

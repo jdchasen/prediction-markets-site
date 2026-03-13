@@ -1,17 +1,16 @@
 ---
 title: "Will Oman join the Abraham Accords before 2027?"
-description: "Will Oman join the Abraham Accords before 2027? Odds: 16.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Oman join the Abraham Accords before 2027? Odds: 16.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Oman join the Abraham Accords before 2027?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-03-13
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 16.5
-polymarketNo: 83.5
-polymarketVolume: 97047
+polymarketYes: 16.0
+polymarketNo: 84.0
+polymarketVolume: 97048
 polymarketUrl: "https://polymarket.com/event/will-oman-join-the-abraham-accords-before-2027"
-analysisDate: 2026-03-13
 ---
 
 # Oman and the Abraham Accords: A 16.5% Probability Play

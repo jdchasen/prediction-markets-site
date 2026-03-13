@@ -1,53 +1,54 @@
 ---
 title: "Iran nuclear test before 2027?"
-description: "Iran nuclear test before 2027? Odds: 11.5% YES on Polymarket. See live prices and trade this market."
+description: "Iran nuclear test before 2027? Odds: 12.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Iran nuclear test before 2027?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-03-13
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 11.5
-polymarketNo: 88.5
-polymarketVolume: 96584
+polymarketYes: 12.5
+polymarketNo: 87.5
+polymarketVolume: 98682
 polymarketUrl: "https://polymarket.com/event/iran-nuclear-test-before-2027"
+analysisDate: 2026-03-13
 ---
 
-Prediction markets currently price a nuclear test by Iran before 2027 at roughly one-in-eight odds, reflecting heightened tensions following Israel's expanded military operations and the collapse of diplomatic constraints that previously limited Tehran's nuclear program.
+Traders are pricing in a roughly one-in-eight chance that Iran will conduct a nuclear weapons test before the end of 2026, reflecting heightened concerns about the Islamic Republic's advancing atomic program amid the collapse of diplomatic constraints.
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 12.5% | 87.5% | $97K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 12.5% | 87.5% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The bull case centers on Iran's accelerating enrichment activities and reduced breakout time to weapons-grade uranium, now estimated at weeks rather than months. The JCPOA's effective death since 2018 removed international monitoring safeguards, while Iran has installed advanced IR-6 centrifuges at Fordow and continues enriching uranium to 60% purity—just below weapons-grade 90%. Israel's reported strikes on Iranian nuclear scientists and facilities in 2023-2024 may paradoxically push Tehran toward demonstrating deterrent capability through a test. Pakistan's nuclear test in May 1998 provides a precedent for how regional security dynamics can trigger rapid weaponization decisions. Iran's Supreme Leader has historically maintained fatwa-based opposition to nuclear weapons, but hardliners could argue a "peaceful nuclear explosion" for scientific purposes circumvents religious prohibitions.
+The bull case centers on Iran's accelerated uranium enrichment to 60% purity—close to the 90% needed for weapons-grade material—and the International Atomic Energy Agency's recent reports confirming Iran has accumulated enough enriched uranium for multiple bombs if further processed. Israel's military campaign against Iranian proxies has weakened Tehran's conventional deterrence, potentially increasing the strategic appeal of nuclear weapons. The February 2025 IAEA Board of Governors meeting censured Iran for insufficient cooperation, triggering Iranian threats to revise its nuclear doctrine. Hardliners in Tehran, emboldened after the death of moderating voices, may calculate that a test would establish irreversible nuclear status similar to North Korea's 2006 breakthrough, particularly if they assess that international response mechanisms remain fractured.
 
-The bear case emphasizes that a test would trigger devastating economic consequences and potential military strikes that Iranian leadership may view as existential threats. Russia and China, Iran's key economic partners, would face intense pressure to support new UN Security Council sanctions. Iranian officials have consistently maintained their nuclear program remains peaceful, and crossing to weaponization would validate decades of Western accusations, potentially unifying fractured international opposition. The technical challenges of conducting a successful underground test without detection are substantial, requiring preparation activities that Western intelligence agencies actively monitor through satellite imagery and seismic networks. Iran's strategic calculus likely favors maintaining ambiguity—keeping the capability without paying the costs of actual testing.
+The bear case emphasizes that Iran's Supreme Leader Ali Khamenei has repeatedly issued fatwas declaring nuclear weapons religiously forbidden, and Tehran has maintained for decades that its program remains peaceful despite having technical capability. A nuclear test would immediately trigger crushing international sanctions, likely including secondary sanctions from Europe that have previously remained reluctant, while potentially unifying regional rivals and justifying Israeli military strikes on nuclear facilities. Iran's recent agreement to limit enrichment to 60% in informal negotiations with European powers suggests continued preference for strategic ambiguity over overt weaponization. Intelligence assessments consistently indicate Iran has not made a political decision to build a bomb, maintaining the optionality of a rapid breakout without crossing the threshold that would invite existential military threats.
 
-Key catalysts include IAEA Board of Governors meetings (quarterly, with the next scheduled for March 2025) where inspectors report on Iranian compliance, potential Israeli or U.S. military action against nuclear facilities, and any change in Iran's Supreme Leader Khamenei's health status that could trigger internal power struggles. Traders should monitor commercial satellite imagery of known test sites like the Lut Desert, unusual seismic activity readings, and diplomatic signaling from Tehran regarding NPT withdrawal—a likely prerequisite that would provide 3 months advance notice per treaty requirements.
+Key catalysts include the IAEA quarterly reports in March, June, September, and December 2025-2026, which will detail enrichment levels and cooperation status. The U.S. presidential transition and subsequent Iran policy review in early 2025 could either restart diplomatic talks or intensify pressure through maximum sanctions. Watch for Iranian responses to any Israeli strikes on nuclear facilities, movements of enrichment equipment to Fordow's underground facility, and official statements from the Supreme National Security Council about revising nuclear doctrine. Satellite imagery of potential test site preparation at Lut Desert or other locations would provide advance warning, though Iran could potentially conduct a test with limited observable preparation.
 
 ## Related Markets
 
 - [Will Mark Kelly win the 2028 Democratic presidential nomination?](/odds/will-mark-kelly-win-the-2028-democratic-presidential-nomination) — 3% YES
-- [US-Iran nuclear deal by March 31?](/odds/us-iran-nuclear-deal-by-march-31) — 4% YES
-- [Will the Democrats (D) win the most seats in the 2026 Slovenian parliamentary election?](/odds/will-the-democrats-d-win-the-most-seats-in-the-2026-slovenian-parliamentary-elec) — 1% YES
+- [Will the Iranian regime fall before 2027?](/odds/will-the-iranian-regime-fall-before-2027) — 34% YES
+- [Russia strike impacts Kyiv municipality during week of March 2, 2026?](/odds/russia-strike-impacts-kyiv-municipality-during-week-of-march-2-2026) — 100% YES
 
 ## Frequently Asked Questions
 
-### Would Iran need to withdraw from the Nuclear Non-Proliferation Treaty before conducting a test?
+### What would constitute a "nuclear test" for this market's resolution criteria?
 
-Not legally required, but North Korea withdrew three months before its 2006 test, and such a move would signal intentions while technically complying with treaty procedures. Iran remaining in the NPT while testing would be unprecedented and create complex diplomatic fallout.
+This would require a confirmed underground or atmospheric detonation of a nuclear device by Iran, verified by seismic data or official acknowledgment. Subcritical tests or computer simulations would not qualify.
 
-### How would markets distinguish between a peaceful nuclear explosion and a weapons test?
+### How quickly could Iran move from its current 60% enrichment to a testable weapon?
 
-The distinction is largely political rather than technical—both require similar capabilities and would likely trigger the same international response. Iran might claim scientific purposes, but the market would almost certainly resolve YES for any nuclear detonation regardless of stated intent.
+Intelligence estimates suggest Iran could produce enough weapons-grade uranium for one bomb in 1-2 weeks, though weaponization—designing and building a deliverable device—would likely take several additional months to over a year depending on prior covert work.
 
-### What seismic magnitude would indicate a successful nuclear test versus a failed attempt?
+### What happened after North Korea's first nuclear test that might inform Iran's calculus?
 
-North Korea's first test in 2006 registered around magnitude 4.3 and was considered partially successful, while Pakistan's 1998 tests ranged from 4.5-5.2. Anything above magnitude 4.0 with characteristic seismic signatures would likely constitute a test for market resolution purposes, even if the yield was lower than designed.
+North Korea faced intensified sanctions after its 2006 test but ultimately secured its regime survival and gained leverage in negotiations, though its extreme isolation and economic devastation present a cautionary precedent that Iran's more integrated economy makes particularly costly.
 
 ## Learn More
 

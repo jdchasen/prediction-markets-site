@@ -1,55 +1,56 @@
 ---
 title: "Will the US strike 10 countries in 2026?"
-description: "Will the US strike 10 countries in 2026? Odds: 11.2% YES on Polymarket. See live prices and trade this market."
+description: "Will the US strike 10 countries in 2026? Odds: 11.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the US strike 10 countries in 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-03-13
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 11.2
-polymarketNo: 88.8
-polymarketVolume: 9783
+polymarketYes: 11.8
+polymarketNo: 88.2
+polymarketVolume: 9790
 polymarketUrl: "https://polymarket.com/event/will-the-us-strike-10-countries-in-2026"
+analysisDate: 2026-03-13
 ---
 
-# US Military Strikes Prediction Market Analysis
+# US Military Strikes Market Analysis
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 8.0% | 92.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 11.8% | 88.2% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-At 8% implied probability, markets are pricing a "10-country strike" scenario as a tail risk event rather than a baseline expectation, but this low odds figure masks significant uncertainty around how "strikes" get defined and what geopolitical conditions could rapidly shift these dynamics. This matters because it reveals where sophisticated traders see genuine but contained escalation risk heading into 2026, a year that could see major shifts in US foreign policy depending on election outcomes and regional conflicts.
+The 11.8% probability reflects market skepticism that the US will conduct military strikes against ten separate countries within calendar year 2026, a threshold that requires either dramatic escalation or a significant redefinition of what constitutes a "strike." This market matters because it captures trader expectations about geopolitical risk and the Biden/Trump administration's military posture during what could be a volatile year following 2024 elections and potential shifts in foreign policy doctrine.
 
-The bull case for higher odds centers on three plausible escalation paths: (1) the Israel-Iran conflict expanding if Iran conducts another major attack, pulling the US into strikes against Iranian targets across multiple countries or proxies; (2) continued North Korean weapons tests prompting limited strikes as part of coordinated responses; (3) Yemen/Red Sea operations expanding significantly if Houthi attacks continue. The 2024 election outcome heavily influences this—a second Trump administration might pursue more aggressive posturing toward Iran, China, or Russia, while a Democratic administration would likely maintain current operational tempo. Regional conflicts show no sign of cooling, and each cycle of escalation (Iranian strikes, Houthi attacks, North Korean tests) creates decision points for the White House throughout 2025-2026.
+The bull case centers on several realistic escalation pathways: continued Iranian proxy activity could trigger retaliatory strikes in Iraq, Syria, and Yemen; potential military action against North Korea following weapons tests; possible Taiwan Strait confrontation; unresolved conflicts in Ukraine, Gaza, and the broader Middle East; plus smaller counter-terrorism operations across Africa and Southeast Asia. If one treats drone strikes, cruise missile attacks, and air campaigns as equivalent events—which the market definition likely does—reaching ten countries becomes mathematically feasible. The incoming administration's stated willingness to use military force more aggressively, combined with legacy conflicts in multiple theaters, creates a non-trivial scenario where ten strikes could materialize.
 
-The bear case—which currently dominates pricing—argues that actual strike operations across 10 distinct countries remain extraordinarily high-friction even in escalatory scenarios. Modern US strikes tend to concentrate in 1-3 theater countries (Afghanistan, Iraq, Syria, Yemen) rather than dispersing globally. "Strikes" at the threshold of 10 countries would require either simultaneous major-power conflicts or an unprecedented expansion of operational scope. Institutional military planning, Congressional dynamics, and global economic interdependence all create friction against this outcome. Additionally, if major powers (Iran, Russia, China) remain nuclear-armed, the escalation ladder stops well before reaching 10-country deployment.
+The bear case argues that true escalation to ten countries would represent unprecedented simultaneous conflict expansion requiring either a major black swan event or deliberate multi-theater war strategy—neither of which current indicators suggest. NATO allies, Congress, and domestic political constraints would likely restrain such activity. Most US military action concentrates in 3-5 ongoing theaters rather than rapid expansion. The high bar of "ten countries" versus "strikes occur" is the critical distinction; most traders expect continued strikes but not against a tenth distinct nation.
 
-Key catalysts to monitor: Iranian nuclear program milestones in early 2025 (IAEA reporting), any major terrorist attacks linked to state actors, North Korean weapons tests or provocations, election dynamics through November 2024 with final presidency determined, and any shifts in the Russia-Ukraine conflict that pull in additional actors. The definition ambiguity here matters enormously—does this require 10 countries with kinetic operations or does it include cyber/drone/proxy operations? Market participants should clarify whether "strikes" means actual manned/unmanned sorties or includes broader military action, as this could swing odds 2-3x in either direction.
+Key catalysts to monitor include North Korea weapons test responses (early 2026), potential Israeli escalation involving US support (ongoing), Iran nuclear negotiations status (March 2026 timeframe), and any major terrorist attack triggering retaliatory campaigns. Congressional war powers votes and budget appropriations for military operations in spring 2026 will signal institutional appetite for expansion. Election results from other vulnerable regions and any major coup or state collapse could rapidly shift probabilities higher.
 
 ## Related Markets
 
-- [Will the next Prime Minister of Hungary be László Toroczkai?](/odds/will-the-next-prime-minister-of-hungary-be-lszl-toroczkai) — 1% YES
-- [Will Jesus Christ return before GTA VI?](/odds/will-jesus-christ-return-before-gta-vi) — 48% YES
-- [Will Wes Moore win the 2028 Democratic presidential nomination?](/odds/will-wes-moore-win-the-2028-democratic-presidential-nomination) — 2% YES
+- [Will Mark Kelly win the 2028 Democratic presidential nomination?](/odds/will-mark-kelly-win-the-2028-democratic-presidential-nomination) — 3% YES
+- [Will the Iranian regime fall before 2027?](/odds/will-the-iranian-regime-fall-before-2027) — 34% YES
+- [Russia strike impacts Kyiv municipality during week of March 2, 2026?](/odds/russia-strike-impacts-kyiv-municipality-during-week-of-march-2-2026) — 100% YES
 
 ## Frequently Asked Questions
 
-### What definition of "strikes" would determine this market outcome?
+### Does "strike" include drone operations, or only manned aircraft and missiles?
 
-The market likely requires actual military strikes (kinetic action with munitions) on territory in at least 10 countries. Cyber operations, sanctions, or proxy-only actions probably don't count, though the contract specifications should be checked for exact language around what constitutes a qualifying strike.
+The market definition almost certainly encompasses all forms of direct military action including drone strikes, as these comprise the majority of US operations; excluding them would make the market historically unprecedented.
 
-### How does an Israel-Iran war escalation affect these odds?
+### How does the market account for cyber operations or intelligence operations without kinetic strikes?
 
-A major Iran conflict could quickly produce strikes across Iran, Iraq, Syria, Yemen, Lebanon, and potentially other locations depending on proxy involvement, potentially reaching 5-6 countries alone—making the remaining 4-5 countries the question, which shifts odds materially upward.
+Prediction markets typically require observable, publicly verifiable military action; covert cyber operations wouldn't count unless they escalate to kinetic strikes, which narrows the definition.
 
-### Why is the 8% figure so low given current Middle East tensions?
+### If the US conducts 50 strikes against one country in 2026, does that count as one country or multiple?
 
-Ten countries is an extremely high bar requiring either simultaneous multi-theater wars or massive geographic dispersal. Current regional conflicts remain concentrated in 2-3 core countries (Iraq, Syria, Yemen), and historical precedent shows US strike operations rarely exceed this geographic footprint even during high-intensity periods
+One—the market specifies "10 countries," so the quantity of strikes per nation is irrelevant; geographic diversity across nations is what matters.
 
 ## Learn More
 

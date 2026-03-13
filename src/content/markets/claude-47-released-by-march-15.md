@@ -3,7 +3,7 @@ title: "Claude 4.7 released by March 15?"
 description: "Claude 4.7 released by March 15? Odds: 1.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Claude 4.7 released by March 15?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-13
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]

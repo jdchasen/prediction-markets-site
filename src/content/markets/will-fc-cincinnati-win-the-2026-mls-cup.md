@@ -1,17 +1,16 @@
 ---
 title: "Will FC Cincinnati win the 2026 MLS Cup?"
-description: "Will FC Cincinnati win the 2026 MLS Cup? Odds: 2.4% YES on Polymarket. See live prices and trade this market."
+description: "Will FC Cincinnati win the 2026 MLS Cup? Odds: 2.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will FC Cincinnati win the 2026 MLS Cup?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-03-13
 expiryDate: 2026-12-19
 tags: ["politics", "polymarket"]
-polymarketYes: 2.4
-polymarketNo: 97.7
-polymarketVolume: 97886
+polymarketYes: 2.1
+polymarketNo: 97.9
+polymarketVolume: 98166
 polymarketUrl: "https://polymarket.com/event/will-fc-cincinnati-win-the-2026-mls-cup"
-analysisDate: 2026-03-13
 ---
 
 # FC Cincinnati 2026 MLS Cup Analysis

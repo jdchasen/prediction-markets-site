@@ -1,17 +1,16 @@
 ---
 title: "Will Lee Kwang-jae win the 2026 Gangwon Province gubernatorial election?"
-description: "Will Lee Kwang-jae win the 2026 Gangwon Province gubernatorial election? Odds: 1.2% YES on Polymarket. See live prices and trade this market."
+description: "Will Lee Kwang-jae win the 2026 Gangwon Province gubernatorial election? Odds: 1.3% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Lee Kwang-jae win the 2026 Gangwon Province gubernatorial election?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-03-13
 expiryDate: 2026-06-03
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 1.2
-polymarketNo: 98.8
+polymarketYes: 1.3
+polymarketNo: 98.7
 polymarketVolume: 9633
 polymarketUrl: "https://polymarket.com/event/will-lee-kwang-jae-win-the-2026-gangwon-province-gubernatorial-election"
-analysisDate: 2026-03-13
 ---
 
 # Lee Kwang-jae 2026 Gangwon Gubernatorial Election Analysis

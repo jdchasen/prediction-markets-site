@@ -9,9 +9,8 @@ expiryDate: 2026-03-31
 tags: ["politics", "polymarket"]
 polymarketYes: 4.5
 polymarketNo: 95.5
-polymarketVolume: 96706
+polymarketVolume: 96742
 polymarketUrl: "https://polymarket.com/event/megaquake-by-march-31"
-analysisDate: 2026-03-13
 ---
 
 # Megaquake by March 31, 2026: Market Analysis

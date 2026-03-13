@@ -9,9 +9,8 @@ expiryDate: 2028-01-01
 tags: ["crypto", "polymarket"]
 polymarketYes: 18.0
 polymarketNo: 82.0
-polymarketVolume: 96709
+polymarketVolume: 99343
 polymarketUrl: "https://polymarket.com/event/predictfun-fdv-above-800m-one-day-after-launch"
-analysisDate: 2026-03-13
 ---
 
 # Predict.fun FDV Analysis

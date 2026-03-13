@@ -11,7 +11,6 @@ polymarketYes: 0.8
 polymarketNo: 99.2
 polymarketVolume: 99176
 polymarketUrl: "https://polymarket.com/event/will-mohamed-salah-be-the-20252026-top-ucl-goal-scorer"
-analysisDate: 2026-03-13
 ---
 
 The market pricing Mohamed Salah as a 0.8% longshot to win the 2025/2026 Champions League Golden Boot reflects extreme skepticism about Liverpool's participation and his individual form trajectory, though this appears to be a sports betting market miscategorized as politics.
