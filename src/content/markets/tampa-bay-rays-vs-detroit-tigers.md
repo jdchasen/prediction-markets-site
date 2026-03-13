@@ -1,17 +1,16 @@
 ---
 title: "Tampa Bay Rays vs. Detroit Tigers"
-description: "Tampa Bay Rays vs. Detroit Tigers Odds: 49.5% YES on Polymarket. See live prices and trade this market."
+description: "Tampa Bay Rays vs. Detroit Tigers Odds: 50.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Tampa Bay Rays vs. Detroit Tigers"
 category: "politics"
 status: "active"
-lastUpdated: 2026-03-12
+lastUpdated: 2026-03-13
 expiryDate: 2026-03-16
 tags: ["politics", "polymarket"]
-polymarketYes: 49.5
-polymarketNo: 50.5
-polymarketVolume: 96470
+polymarketYes: 50.5
+polymarketNo: 49.5
+polymarketVolume: 96491
 polymarketUrl: "https://polymarket.com/event/mlb-tb-det-2026-03-09"
-analysisDate: 2026-03-12
 ---
 
 # Tampa Bay Rays vs. Detroit Tigers Politics Market Analysis

@@ -3,8 +3,8 @@ title: "Will Tesla be the third-largest company in the world by market cap on Ma
 description: "Will Tesla be the third-largest company in the world by market cap on March 31? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Tesla be the third-largest company in the world by market cap on March 31?"
 category: "finance"
-status: "active"
-lastUpdated: 2026-03-12
+status: "settled"
+lastUpdated: 2026-03-13
 expiryDate: 2026-03-31
 tags: ["finance", "polymarket"]
 polymarketYes: 0.1

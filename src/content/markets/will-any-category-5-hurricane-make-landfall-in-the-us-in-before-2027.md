@@ -1,49 +1,48 @@
 ---
 title: "Will any Category 5 hurricane make landfall in the US in before 2027?"
-description: "Will any Category 5 hurricane make landfall in the US in before 2027? Odds: 16.5% YES on Polymarket. See live prices and trade this market."
+description: "Will any Category 5 hurricane make landfall in the US in before 2027? Odds: 17.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will any Category 5 hurricane make landfall in the US in before 2027?"
 category: "science"
 status: "active"
-lastUpdated: 2026-03-12
+lastUpdated: 2026-03-13
 expiryDate: 2026-12-31
 tags: ["polymarket", "science"]
-polymarketYes: 16.5
-polymarketNo: 83.5
-polymarketVolume: 95693
+polymarketYes: 17.5
+polymarketNo: 82.5
+polymarketVolume: 95875
 polymarketUrl: "https://polymarket.com/event/will-any-category-5-hurricane-make-landfall-in-the-us-in-before-2027"
+analysisDate: 2026-03-13
 ---
 
-# Category 5 Hurricane Landfall Analysis
+# Category 5 Hurricane Landfall Before 2027
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 16.0% | 84.0% | $96K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 17.5% | 82.5% | $96K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The prediction market is pricing an approximately 1-in-6 chance of a Category 5 hurricane striking the US mainland before year-end 2026, a meaningful bet that reflects genuine uncertainty about extreme weather events during the tail end of an active Atlantic hurricane cycle. This matters now because we're in the peak years of the current warm Atlantic Multidecadal Oscillation phase (which typically supports more intense storms), the 2024-2026 hurricane seasons represent the critical observation window, and the market's low odds may underestimate tail risk given observed climate trends.
+Traders are pricing in a roughly 1-in-6 chance of a major hurricane disaster in the continental US over the next two years, a relatively low probability that reflects both declining major hurricane frequency in recent decades and the inherent rarity of Category 5 systems. This matters now because we're entering peak Atlantic hurricane season (August-October), and any significant storm activity in 2024-2025 could substantially shift market pricing based on real-world conditions and seasonal forecasts.
 
-The bull case rests on several factors: Category 5 hurricanes have made US landfall in recent decades (Camille 1969, Andrew 1992, Charley 2004, Katrina 2005, Harvey 2017 saw rapid intensification), with four such events across the last 55 years suggesting roughly 7% annual probability at the baseline. Warmer ocean temperatures—particularly in the Gulf of Mexico and Atlantic main development region—have been documented to support rapid intensification, and sea surface temperatures are projected to remain above historical averages through 2026. The 2024 and 2025 Atlantic hurricane seasons (running through November 30 each year) represent critical observation periods; any major storms during these windows would shift market odds meaningfully upward.
+The bull case rests on climate-driven intensification: sea surface temperatures in the Atlantic have reached record highs in 2024, and research indicates warming oceans enable hurricanes to rapidly intensify to extreme categories more frequently than historical baselines would suggest. Additionally, the market expires at end-2026, leaving roughly 27 months of hurricane seasons (2.25 full seasons), and only one major Cat 5 landfall is needed to resolve YES—the 2004-2005 period saw three such storms. The bear case is stronger: only four Category 5 hurricanes have made US landfall since 1950 (Camille 1969, Andrew 1992, Charley 2004, Michael 2018), yielding a raw historical rate of roughly 3% per two-year window. Most storms weaken significantly before landfall due to cooler continental shelf waters and wind shear, and modern hurricane tracking has improved evacuation efficiency, meaning even intense systems frequently degrade to Cat 3-4 by the time they hit land.
 
-The bear case emphasizes that true Category 5 landfalls remain statistically rare: only four have occurred since 1950 in the contiguous US, and recent decades show improvement in forecast accuracy and evacuation protocols that reduce fatalities despite similar storm frequency. Additionally, hurricane tracks are chaotic and influenced by steering patterns that aren't predictable years in advance—most Category 5s either track away from the US or weaken before landfall. The market's 16% probability already prices in above-baseline risk, and further tightening of odds would require either multiple near-misses during the 2024-2025 seasons or notable ocean cooling anomalies.
-
-Key catalysts to monitor: the official August 2024 and 2025 National Hurricane Center seasonal forecasts (typically issued in May), real-time tracking of any major storms during peak season (August-October), and monthly sea surface temperature readings in traditional development zones. Traders should note that the market resolves on December 31, 2026, meaning the 2026 hurricane season (active through November) is the final observation window. Any Category 4 storms that nearly achieve Category 5 status before 2027 would likely signal rising market sentiment even if they don't directly trigger resolution.
+The critical catalysts are the seasonal outlooks due in late May/early June from NOAA, which will model Atlantic activity for the 2024 and 2025 seasons—an above-normal forecast would likely tighten the odds. Watch the August-October 2024 and 2025 hurricane seasons closely; any rapid intensification events in real-time provide data points on whether ocean conditions are genuinely anomalous. The National Hurricane Center's intensity forecasts and actual observed intensification rates during these windows will be your leading indicator. Additionally, any major landfalls at Category 3-4 strength will increase marginal probability of Cat 5, since they suggest conditions are favorable for extreme storms. The measurement methodology is straightforward—Saffir-Simpson scale at time of landfall—but traders should note that the NHC sometimes revises historical classifications; the Michael 2018 reclassification from Cat 4 to Cat 5 after landfall shows classification can shift, though only pre-landfall or at-landfall measurements should count here.
 
 ## Frequently Asked Questions
 
-### How does the market distinguish between a storm that briefly reaches Category 5 intensity offshore versus one that makes landfall at that intensity?
+### Does the market resolve YES if a Category 5 hurricane weakens to Category 4 before making landfall?
 
-Resolution criteria typically require the Saffir-Simpson rating at the moment of landfall (generally defined as the first point of land contact), not peak intensity at any point in the storm's lifecycle. A storm weakening from Cat 5 to Cat 4 before crossing the coast would not trigger YES resolution.
+No—the market requires landfall specifically as a Category 5, so any weakening before reaching the coast resolves NO, regardless of peak intensity offshore.
 
-### Why hasn't rapid ocean warming since 2023 pushed these odds higher given the well-documented link between sea surface temperature and hurricane intensity?
+### How much would a strong El Niño or La Niña pattern typically shift these odds?
 
-While warmer oceans support stronger storms, the probability is still constrained by the intrinsic rarity of Category 5 formation and track uncertainty—the market reflects that even with elevated conditions, most hurricanes don't reach Cat 5 status and most that do miss the US entirely.
+La Niña favors Atlantic hurricane activity (and could increase odds), while El Niño suppresses it; NOAA's seasonal forecasts in May/June will clarify the likely pattern and could swing the market 5-10 percentage points.
 
-### What specific geographic area counts as "the US" for landfall resolution purposes?
+### What if a Category 5 hurricane hits Mexico or the Caribbean island first before potentially reaching the US mainland?
 
-Prediction markets typically define
+The resolution hinges on US landfall specifically, so a storm that hits Mexico, Puerto Rico, or other non-US territory as a Cat 5 would not trigger a YES resolution.
 
 ## Learn More
 

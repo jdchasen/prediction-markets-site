@@ -3,8 +3,8 @@ title: "Will Ventuals launch a token by March 31 2026?"
 description: "Will Ventuals launch a token by March 31 2026? Odds: 0.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Ventuals launch a token by March 31 2026?"
 category: "crypto"
-status: "active"
-lastUpdated: 2026-03-12
+status: "settled"
+lastUpdated: 2026-03-13
 expiryDate: 2027-01-01
 tags: ["crypto", "polymarket"]
 polymarketYes: 0.9

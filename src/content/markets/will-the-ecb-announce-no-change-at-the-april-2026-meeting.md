@@ -3,8 +3,8 @@ title: "Will the ECB announce no change at the April 2026 meeting?"
 description: "Will the ECB announce no change at the April 2026 meeting? Odds: 86.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the ECB announce no change at the April 2026 meeting?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-12
+status: "settled"
+lastUpdated: 2026-03-13
 expiryDate: 2026-04-30
 tags: ["politics", "polymarket"]
 polymarketYes: 86.9

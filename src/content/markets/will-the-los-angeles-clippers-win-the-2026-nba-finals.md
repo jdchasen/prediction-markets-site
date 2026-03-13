@@ -3,8 +3,8 @@ title: "Will the Los Angeles Clippers win the 2026 NBA Finals?"
 description: "Will the Los Angeles Clippers win the 2026 NBA Finals? Odds: 1.6% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Los Angeles Clippers win the 2026 NBA Finals?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-03-12
+status: "settled"
+lastUpdated: 2026-03-13
 expiryDate: 2026-07-01
 tags: ["polymarket", "sports"]
 polymarketYes: 1.6

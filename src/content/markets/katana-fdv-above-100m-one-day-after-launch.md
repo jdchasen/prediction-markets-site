@@ -3,8 +3,8 @@ title: "Katana FDV above $100M one day after launch?"
 description: "Katana FDV above $100M one day after launch? Odds: 66.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Katana FDV above $100M one day after launch?"
 category: "crypto"
-status: "active"
-lastUpdated: 2026-03-12
+status: "settled"
+lastUpdated: 2026-03-13
 expiryDate: 2028-01-01
 tags: ["crypto", "polymarket"]
 polymarketYes: 66.0

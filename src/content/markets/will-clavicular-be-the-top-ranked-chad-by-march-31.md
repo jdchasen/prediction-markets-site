@@ -3,8 +3,8 @@ title: "Will Clavicular be the top ranked Chad by March 31?"
 description: "Will Clavicular be the top ranked Chad by March 31? Odds: 49.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Clavicular be the top ranked Chad by March 31?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-12
+status: "settled"
+lastUpdated: 2026-03-13
 expiryDate: 2026-03-31
 tags: ["politics", "polymarket"]
 polymarketYes: 49.0

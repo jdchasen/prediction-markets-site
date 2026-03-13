@@ -4,14 +4,13 @@ description: "Will Newcastle United FC win on 2026-03-18? Odds: 18.5% YES on Pol
 marketQuestion: "Will Newcastle United FC win on 2026-03-18?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-03-12
+lastUpdated: 2026-03-13
 expiryDate: 2026-03-18
 tags: ["politics", "polymarket"]
 polymarketYes: 18.5
 polymarketNo: 81.5
-polymarketVolume: 9646
+polymarketVolume: 9812
 polymarketUrl: "https://polymarket.com/event/ucl-fcb1-new-2026-03-18-new"
-analysisDate: 2026-03-12
 ---
 
 # Newcastle United FC Match Analysis: March 18, 2026

@@ -4,13 +4,14 @@ description: "Megaquake by March 31? Odds: 4.5% YES on Polymarket. See live pric
 marketQuestion: "Megaquake by March 31?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-03-12
+lastUpdated: 2026-03-13
 expiryDate: 2026-03-31
 tags: ["politics", "polymarket"]
 polymarketYes: 4.5
 polymarketNo: 95.5
-polymarketVolume: 96576
+polymarketVolume: 96706
 polymarketUrl: "https://polymarket.com/event/megaquake-by-march-31"
+analysisDate: 2026-03-13
 ---
 
 # Megaquake by March 31, 2026: Market Analysis
@@ -19,35 +20,37 @@ polymarketUrl: "https://polymarket.com/event/megaquake-by-march-31"
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 4.5% | 95.5% | $96K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 4.5% | 95.5% | $97K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-This market is pricing a major seismic event as extremely unlikely over the next 15 months, with odds suggesting traders view the probability at less than 5%, reflecting both the inherent unpredictability of earthquakes and the technical challenge of timing seismic activity. The market's categorization under "politics" is unusual and suggests this may be tracking political fallout or policy response to a major earthquake rather than the geological event itself, though the listing lacks clarity on what "megaquake" specifically means (magnitude threshold, location, casualties). What matters right now is understanding whether this contract hinges on earthquake occurrence (scientifically unmeasurable in advance) or political consequences tied to disaster response.
+This market is pricing a major seismic event at roughly 1-in-22 odds over the next 15 months, which appears disconnected from both scientific consensus and historical frequency data. The classification as "politics" is unusual and suggests the resolution criteria may hinge on political declarations, emergency declarations, or policy responses rather than pure seismic measurement—a critical distinction that traders need clarified before committing capital. At 4.5%, the market implies either significant tail-risk hedging activity or confusion about what "megaquake" actually triggers a YES resolution.
 
-The bull case for higher odds rests on seismic reality: major fault lines globally—particularly the San Andreas, Cascadia, Japan Trench, and Alpide Belt—accumulate stress continuously, and a magnitude 7.5+ event within 15 months is geologically plausible even if statistically uncommon. Historical precedent shows clusters of major quakes can occur within compressed timeframes, and no predictive model can rule out such events with high confidence. If the market actually requires visible political consequences (legislation, emergency declarations, international response), any 7.5+ magnitude earthquake in a populated region would likely trigger the threshold, making the 4.5% odds potentially underpriced. The bear case dominates here: earthquake prediction remains impossible, major megaquakes occur roughly once per year globally but often in remote areas with minimal political ripple, and the 15-month window is relatively short given that many years pass without significant seismic activity in developed nations where political consequences materialize most clearly. Traders pricing this at 4.5% are essentially betting that either a megaquake won't occur or that if one does, it won't register as politically significant—a reasonable default assumption given base rates.
+The bull case rests on genuine geophysical risk: several major fault systems (Cascadia, San Andreas, Hayward) are overdue for major ruptures on geological timescales, and a 9.0+ magnitude event in the Pacific Northwest would have immediate political consequences—emergency declarations, federal aid packages, and regulatory overhauls. If the market's resolution criteria include any seismic event above 7.5 magnitude occurring along US-adjacent zones, historical data shows roughly 15-20 events of that magnitude annually worldwide, making North American occurrence non-trivial. Additionally, if "megaquake" is defined loosely enough to include significant aftershocks or secondary events from a major quake, the probability window expands.
 
-Key catalysts to monitor include the USGS Earthquake Hazards Program updates (ongoing, quarterly assessments), any major quakes exceeding 7.0 magnitude anywhere globally (triggering immediate reassessment), and Japan's earthquake preparedness statements (given Cascadia and subduction zone tensions escalating monitoring). Spring and summer 2025 seismic activity in California, Pacific Northwest, or Japan should be watched closely, as increased minor quake swarms sometimes precede larger events, though this remains scientifically debated. Traders should clarify the contract's exact trigger criteria immediately—does "megaquake" require a specific magnitude, location, casualty threshold, or political response milestone? Without this clarity, positions are essentially bets on undefined thresholds, making the 4.5% odds difficult to interpret rationally.
+The bear case is substantially stronger: true megaquakes (8.0+) in populated North American zones occur on century-plus timescales. The 2024 Cascadia Subduction Zone studies showed no imminent rupture signatures, and the USGS maintains that long-term probabilities don't translate to short-term predictability. A 15-month window for a specific catastrophic event is scientifically implausible given earthquake unpredictability. The political classification suggests resolution may depend on subjective political interpretation rather than objective seismic measurement, introducing ambiguity that typically resolves conservatively (NO). Unless the market creator defines "megaquake" as 6.5+ magnitude, current odds appear generous for event frequency.
+
+Traders should immediately investigate the exact resolution criteria on the platform—specifically the magnitude threshold, geographic scope, and whether political declarations factor into determination. Watch for any USGS advisories or updated seismic hazard assessments through mid-2026, though these rarely predict specific timeframes. The real risk here is definitional arbitrage: if YES resolves on a 7.0+ magnitude event anywhere in North America, odds are underpriced; if it requires 8.5+ in a specific zone, the market may be overpriced by 2-3x.
 
 ## Related Markets
 
-- [Will Jesus Christ return before GTA VI?](/odds/will-jesus-christ-return-before-gta-vi) — 48% YES
-- [Will Mark Kelly win the 2028 Democratic presidential nomination?](/odds/will-mark-kelly-win-the-2028-democratic-presidential-nomination) — 3% YES
-- [US-Iran nuclear deal by March 31?](/odds/us-iran-nuclear-deal-by-march-31) — 6% YES
+- [Will Mark Kelly win the 2028 Democratic presidential nomination?](/odds/will-mark-kelly-win-the-2028-democratic-presidential-nomination) — 2% YES
+- [Will Robert F. Kennedy Jr. win the 2028 Republican presidential nomination?](/odds/will-robert-f-kennedy-jr-win-the-2028-republican-presidential-nomination) — 1% YES
+- [No change in the Selic rate after Bank of Brazil's March 2026 meeting?](/odds/no-change-in-the-selic-rate-after-bank-of-brazils-march-2026-meeting) — 14% YES
 
 ## Frequently Asked Questions
 
-### What geological definition of "megaquake" would trigger this contract—is it magnitude 7.0+, 7.5+, or tied to casualty counts?
+### What does "megaquake" specifically mean in this market's resolution criteria?
 
-The market listing doesn't specify, which is a critical flaw; traders should demand clarification from the platform before wagering, as magnitude thresholds dramatically affect probability calculations.
+The listing doesn't clarify whether it means 7.0+, 8.0+, or 9.0+ magnitude, or whether it's restricted to North America—this ambiguity is the primary trading risk and must be verified on Polymarket's contract details before betting.
 
-### If a major earthquake hits a remote ocean location with no deaths or political response, does the contract resolve YES?
+### Why is this market classified under "politics" rather than science or disaster?
 
-That depends on the resolution criteria, which again aren't clearly stated; this ambiguity is why such a low probability persists despite meaningful seismic risk.
+The political classification suggests resolution may depend on official declarations (presidential emergency declarations, FEMA activation, or legislative responses) rather than purely seismic data, making political interpretation a hidden variable.
 
-### Why is this contract categorized under "politics" rather than "science" or "natural disasters"?
+### How does the 15-month timeframe compare to actual megaquake frequency?
 
-The categorization suggests the contract may require political consequences or policy responses rather than just earthquake occurrence, which would substantially lower the probability compared to pure seismic
+Major quakes (8.0+) strike globally roughly once per year, but North American megaquakes on century timescales make a specific occurrence by March 2026 scientifically improbable—the 4.5% odds appear
 
 ## Learn More
 

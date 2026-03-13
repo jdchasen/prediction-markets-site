@@ -4,14 +4,13 @@ description: "Will Powell say \"Sorry\" or \"Pardon\" during March press confere
 marketQuestion: "Will Powell say \"Sorry\" or \"Pardon\" during March press conference?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-03-12
+lastUpdated: 2026-03-13
 expiryDate: 2026-03-18
 tags: ["politics", "polymarket"]
 polymarketYes: 76.5
 polymarketNo: 23.5
 polymarketVolume: 9594
 polymarketUrl: "https://polymarket.com/event/will-powell-say-sorry-or-pardon-during-march-press-conference-745-799"
-analysisDate: 2026-03-12
 ---
 
 # Powell's March Press Conference: Language Prediction Analysis

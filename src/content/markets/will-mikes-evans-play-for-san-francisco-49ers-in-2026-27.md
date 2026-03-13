@@ -3,8 +3,8 @@ title: "Will Mikes Evans play for San Francisco 49ers in 2026-27?"
 description: "Will Mikes Evans play for San Francisco 49ers in 2026-27? Odds: 99.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Mikes Evans play for San Francisco 49ers in 2026-27?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-12
+status: "settled"
+lastUpdated: 2026-03-13
 expiryDate: 2026-09-01
 tags: ["politics", "polymarket"]
 polymarketYes: 99.8

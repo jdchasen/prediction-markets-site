@@ -3,8 +3,8 @@ title: "Will Mark Daigneault win the 2025–2026 NBA Coach of the Year?"
 description: "Will Mark Daigneault win the 2025–2026 NBA Coach of the Year? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Mark Daigneault win the 2025–2026 NBA Coach of the Year?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-03-12
+status: "settled"
+lastUpdated: 2026-03-13
 expiryDate: 2026-06-30
 tags: ["ai", "polymarket", "sports"]
 polymarketYes: 0.1

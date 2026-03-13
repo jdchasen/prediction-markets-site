@@ -3,8 +3,8 @@ title: "Will the Democrats (D) win the most seats in the 2026 Slovenian parliame
 description: "Will the Democrats (D) win the most seats in the 2026 Slovenian parliamentary election? Odds: 1.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Democrats (D) win the most seats in the 2026 Slovenian parliamentary election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-12
+status: "settled"
+lastUpdated: 2026-03-13
 expiryDate: 2026-03-31
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 1.0

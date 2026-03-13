@@ -3,8 +3,8 @@ title: "Will Moussa Diabate lead the NBA in rebounds during the 2025–26 NBA se
 description: "Will Moussa Diabate lead the NBA in rebounds during the 2025–26 NBA season? Odds: 0.3% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Moussa Diabate lead the NBA in rebounds during the 2025–26 NBA season?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-03-12
+status: "settled"
+lastUpdated: 2026-03-13
 expiryDate: 2026-04-12
 tags: ["polymarket", "sports"]
 polymarketYes: 0.3

@@ -1,17 +1,16 @@
 ---
 title: "Maduro guilty of all counts?"
-description: "Maduro guilty of all counts? Odds: 35.5% YES on Polymarket. See live prices and trade this market."
+description: "Maduro guilty of all counts? Odds: 36.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Maduro guilty of all counts?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-03-12
+lastUpdated: 2026-03-13
 expiryDate: 2027-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 35.5
-polymarketNo: 64.5
-polymarketVolume: 96625
+polymarketYes: 36.0
+polymarketNo: 64.0
+polymarketVolume: 96659
 polymarketUrl: "https://polymarket.com/event/maduro-guilty-of-all-counts"
-analysisDate: 2026-03-12
 ---
 
 The current 35.5% probability reflects significant uncertainty around whether Nicolás Maduro will face conviction on all charges, with the outcome heavily dependent on Venezuela's political trajectory and the jurisdiction where any trial occurs. This matters now because the market expires in late 2027, giving roughly three years for either regime collapse, international intervention, or continued entrenchment to resolve the question.

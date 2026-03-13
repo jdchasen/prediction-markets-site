@@ -3,8 +3,8 @@ title: "T20 World Cup Sub Regional Americas Qualifier B: Suriname vs Argentina"
 description: "T20 World Cup Sub Regional Americas Qualifier B: Suriname vs Argentina Odds: 4.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "T20 World Cup Sub Regional Americas Qualifier B: Suriname vs Argentina"
 category: "sports"
-status: "active"
-lastUpdated: 2026-03-12
+status: "settled"
+lastUpdated: 2026-03-13
 expiryDate: 2026-03-19
 tags: ["polymarket", "sports"]
 polymarketYes: 4.7

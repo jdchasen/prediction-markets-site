@@ -4,14 +4,13 @@ description: "Will Heather McPherson win the Canadian NDP Leadership election? O
 marketQuestion: "Will Heather McPherson win the Canadian NDP Leadership election?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-03-12
+lastUpdated: 2026-03-13
 expiryDate: 2026-03-29
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 11.3
-polymarketNo: 88.7
-polymarketVolume: 9943
+polymarketNo: 88.6
+polymarketVolume: 9967
 polymarketUrl: "https://polymarket.com/event/will-heather-mcpherson-win-the-canadian-ndp-leadership-election"
-analysisDate: 2026-03-12
 ---
 
 # NDP Leadership Market Analysis

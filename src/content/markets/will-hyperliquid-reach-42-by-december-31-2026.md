@@ -3,8 +3,8 @@ title: "Will Hyperliquid reach $42 by December 31, 2026?"
 description: "Will Hyperliquid reach $42 by December 31, 2026? Odds: 88.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Hyperliquid reach $42 by December 31, 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-12
+status: "settled"
+lastUpdated: 2026-03-13
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]
 polymarketYes: 88.5

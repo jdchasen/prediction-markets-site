@@ -3,8 +3,8 @@ title: "Will Juan Daniel Oviedo win the 1st round of the 2026 Colombian presiden
 description: "Will Juan Daniel Oviedo win the 1st round of the 2026 Colombian presidential election? Odds: 0.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Juan Daniel Oviedo win the 1st round of the 2026 Colombian presidential election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-12
+status: "settled"
+lastUpdated: 2026-03-13
 expiryDate: 2026-05-31
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.4

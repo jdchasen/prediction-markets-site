@@ -3,8 +3,8 @@ title: "US-Iran nuclear deal by March 31?"
 description: "US-Iran nuclear deal by March 31? Odds: 4.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "US-Iran nuclear deal by March 31?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-12
+status: "settled"
+lastUpdated: 2026-03-13
 expiryDate: 2026-03-31
 tags: ["politics", "polymarket"]
 polymarketYes: 4.5

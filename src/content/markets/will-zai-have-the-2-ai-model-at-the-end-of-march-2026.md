@@ -3,8 +3,8 @@ title: "Will Z.ai have the #2 AI model at the end of March 2026?"
 description: "Will Z.ai have the #2 AI model at the end of March 2026? Odds: 0.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Z.ai have the #2 AI model at the end of March 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-12
+status: "settled"
+lastUpdated: 2026-03-13
 expiryDate: 2026-03-31
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 0.9

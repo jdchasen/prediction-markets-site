@@ -3,8 +3,8 @@ title: "Will Al Mina be the Republican nominee for Senate in Virginia?"
 description: "Will Al Mina be the Republican nominee for Senate in Virginia? Odds: 3.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Al Mina be the Republican nominee for Senate in Virginia?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-12
+status: "settled"
+lastUpdated: 2026-03-13
 expiryDate: 2026-06-16
 tags: ["politics", "polymarket"]
 polymarketYes: 3.5
