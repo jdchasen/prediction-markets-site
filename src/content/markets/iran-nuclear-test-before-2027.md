@@ -3,8 +3,8 @@ title: "Iran nuclear test before 2027?"
 description: "Iran nuclear test before 2027? Odds: 12.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Iran nuclear test before 2027?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-13
+status: "settled"
+lastUpdated: 2026-03-14
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 12.5

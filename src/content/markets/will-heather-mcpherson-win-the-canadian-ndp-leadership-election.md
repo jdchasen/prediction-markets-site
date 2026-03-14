@@ -3,8 +3,8 @@ title: "Will Heather McPherson win the Canadian NDP Leadership election?"
 description: "Will Heather McPherson win the Canadian NDP Leadership election? Odds: 11.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Heather McPherson win the Canadian NDP Leadership election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-13
+status: "settled"
+lastUpdated: 2026-03-14
 expiryDate: 2026-03-29
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 11.5

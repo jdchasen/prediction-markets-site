@@ -1,17 +1,16 @@
 ---
 title: "Will Luis Diaz be the 2025/2026 top UCL goal scorer?"
-description: "Will Luis Diaz be the 2025/2026 top UCL goal scorer? Odds: 0.7% YES on Polymarket. See live prices and trade this market."
+description: "Will Luis Diaz be the 2025/2026 top UCL goal scorer? Odds: 0.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Luis Diaz be the 2025/2026 top UCL goal scorer?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-03-13
+lastUpdated: 2026-03-14
 expiryDate: 2026-05-30
 tags: ["politics", "polymarket"]
-polymarketYes: 0.7
-polymarketNo: 99.3
-polymarketVolume: 9733
+polymarketYes: 0.8
+polymarketNo: 99.2
+polymarketVolume: 9869
 polymarketUrl: "https://polymarket.com/event/will-luis-diaz-be-the-20252026-top-ucl-goal-scorer"
-analysisDate: 2026-03-13
 ---
 
 # Luis Diaz 2025/2026 UCL Top Scorer Market Analysis

@@ -4,14 +4,13 @@ description: "Will Sunderland win the 2025–26 English Premier League? Odds: 0.
 marketQuestion: "Will Sunderland win the 2025–26 English Premier League?"
 category: "sports"
 status: "active"
-lastUpdated: 2026-03-13
+lastUpdated: 2026-03-14
 expiryDate: 2026-05-27
 tags: ["polymarket", "sports"]
 polymarketYes: 0.1
 polymarketNo: 100.0
-polymarketVolume: 9867366
+polymarketVolume: 9867370
 polymarketUrl: "https://polymarket.com/event/will-sunderland-win-the-202526-english-premier-league"
-analysisDate: 2026-03-13
 ---
 
 Sunderland's Premier League title odds sit at near-zero levels as the Championship club faces the dual challenge of first securing promotion and then somehow competing with elite clubs like Manchester City, Arsenal, and Liverpool. This extreme long-shot betting opportunity essentially prices in the overwhelming historical improbability of a newly-promoted side capturing England's top division.

@@ -3,8 +3,8 @@ title: "Will Laura Fine be the Democratic nominee for IL-09?"
 description: "Will Laura Fine be the Democratic nominee for IL-09? Odds: 4.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Laura Fine be the Democratic nominee for IL-09?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-13
+status: "settled"
+lastUpdated: 2026-03-14
 expiryDate: 2026-03-17
 tags: ["politics", "polymarket"]
 polymarketYes: 4.5

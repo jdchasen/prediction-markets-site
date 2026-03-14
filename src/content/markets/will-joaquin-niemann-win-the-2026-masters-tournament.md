@@ -1,17 +1,16 @@
 ---
 title: "Will Joaquin Niemann win the 2026 Masters tournament?"
-description: "Will Joaquin Niemann win the 2026 Masters tournament? Odds: 0.4% YES on Polymarket. See live prices and trade this market."
+description: "Will Joaquin Niemann win the 2026 Masters tournament? Odds: 0.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Joaquin Niemann win the 2026 Masters tournament?"
 category: "sports"
 status: "active"
-lastUpdated: 2026-03-13
+lastUpdated: 2026-03-14
 expiryDate: 2026-04-13
 tags: ["polymarket", "sports"]
-polymarketYes: 0.4
-polymarketNo: 99.6
-polymarketVolume: 98899
+polymarketYes: 0.5
+polymarketNo: 99.5
+polymarketVolume: 99372
 polymarketUrl: "https://polymarket.com/event/will-joaquin-niemann-win-the-2026-masters-tournament"
-analysisDate: 2026-03-13
 ---
 
 The market prices Joaquin Niemann as a longshot for the 2026 Masters at less than half a percent, reflecting both the difficulty of predicting major championship winners two years out and his current competitive standing relative to the field's elite players.

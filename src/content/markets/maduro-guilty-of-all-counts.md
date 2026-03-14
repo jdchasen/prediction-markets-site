@@ -1,17 +1,16 @@
 ---
 title: "Maduro guilty of all counts?"
-description: "Maduro guilty of all counts? Odds: 36.0% YES on Polymarket. See live prices and trade this market."
+description: "Maduro guilty of all counts? Odds: 35.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Maduro guilty of all counts?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-03-13
+lastUpdated: 2026-03-14
 expiryDate: 2027-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 36.0
-polymarketNo: 64.0
+polymarketYes: 35.5
+polymarketNo: 64.5
 polymarketVolume: 96734
 polymarketUrl: "https://polymarket.com/event/maduro-guilty-of-all-counts"
-analysisDate: 2026-03-13
 ---
 
 # Maduro Guilty of All Counts Market Analysis

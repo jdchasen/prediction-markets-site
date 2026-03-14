@@ -4,14 +4,13 @@ description: "Will Mark Kelly win the 2028 Democratic presidential nomination? O
 marketQuestion: "Will Mark Kelly win the 2028 Democratic presidential nomination?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-03-13
+lastUpdated: 2026-03-14
 expiryDate: 2028-11-07
 tags: ["politics", "polymarket"]
 polymarketYes: 2.6
 polymarketNo: 97.4
-polymarketVolume: 9944940
+polymarketVolume: 9983900
 polymarketUrl: "https://polymarket.com/event/will-mark-kelly-win-the-2028-democratic-presidential-nomination-479"
-analysisDate: 2026-03-13
 ---
 
 Mark Kelly's odds for the 2028 Democratic nomination sit in low single digits, reflecting his position as a second-tier prospect behind more prominent national figures like Gavin Newsom, Gretchen Whitmer, and potential Biden administration successors. The Arizona senator offers a compelling biographical narrative as a former astronaut and Navy pilot married to Gabby Giffords, combined with proven electoral success in a swing state, but he lacks the national profile and fundraising network typically required for a presidential run.

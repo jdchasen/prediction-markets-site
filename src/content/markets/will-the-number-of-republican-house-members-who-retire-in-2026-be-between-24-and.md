@@ -1,17 +1,16 @@
 ---
 title: "Will the number of Republican House members who retire in 2026 be between 24 and 27 inclusive?"
-description: "Will the number of Republican House members who retire in 2026 be between 24 and 27 inclusive? Odds: 3.5% YES on Polymarket. See live prices and trade this m..."
+description: "Will the number of Republican House members who retire in 2026 be between 24 and 27 inclusive? Odds: 3.4% YES on Polymarket. See live prices and trade this m..."
 marketQuestion: "Will the number of Republican House members who retire in 2026 be between 24 and 27 inclusive?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-03-13
+lastUpdated: 2026-03-14
 expiryDate: 2026-08-31
 tags: ["politics", "polymarket"]
-polymarketYes: 3.5
-polymarketNo: 96.5
-polymarketVolume: 9636
+polymarketYes: 3.4
+polymarketNo: 96.6
+polymarketVolume: 9650
 polymarketUrl: "https://polymarket.com/event/will-the-number-of-republican-house-members-who-retire-in-2026-be-between-24-and-27-inclusive"
-analysisDate: 2026-03-13
 ---
 
 # Republican House Retirements in 2026: A Market Severely Underpricing Historical Norms

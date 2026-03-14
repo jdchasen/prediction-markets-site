@@ -3,8 +3,8 @@ title: "Will Viktor Gyokeres be the top goal scorer in the 2025–26 English Pre
 description: "Will Viktor Gyokeres be the top goal scorer in the 2025–26 English Premier League season? Odds: 0.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Viktor Gyokeres be the top goal scorer in the 2025–26 English Premier League season?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-03-13
+status: "settled"
+lastUpdated: 2026-03-14
 expiryDate: 2026-05-27
 tags: ["polymarket", "sports"]
 polymarketYes: 0.4

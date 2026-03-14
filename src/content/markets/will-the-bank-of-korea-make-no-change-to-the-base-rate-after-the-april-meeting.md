@@ -3,8 +3,8 @@ title: "Will the Bank of Korea make no change to the base rate after the April M
 description: "Will the Bank of Korea make no change to the base rate after the April Meeting? Odds: 88.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Bank of Korea make no change to the base rate after the April Meeting?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-13
+status: "settled"
+lastUpdated: 2026-03-14
 expiryDate: 2026-04-10
 tags: ["politics", "polymarket"]
 polymarketYes: 88.5

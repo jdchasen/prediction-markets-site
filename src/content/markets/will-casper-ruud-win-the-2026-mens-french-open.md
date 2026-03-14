@@ -3,8 +3,8 @@ title: "Will Casper Ruud win the 2026 Men's French Open?"
 description: "Will Casper Ruud win the 2026 Men's French Open? Odds: 1.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Casper Ruud win the 2026 Men's French Open?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-13
+status: "settled"
+lastUpdated: 2026-03-14
 expiryDate: 2026-06-07
 tags: ["politics", "polymarket"]
 polymarketYes: 1.4

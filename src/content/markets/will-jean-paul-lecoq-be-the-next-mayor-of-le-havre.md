@@ -3,8 +3,8 @@ title: "Will Jean-Paul Lecoq be the next mayor of Le Havre?"
 description: "Will Jean-Paul Lecoq be the next mayor of Le Havre? Odds: 29.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Jean-Paul Lecoq be the next mayor of Le Havre?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-13
+status: "settled"
+lastUpdated: 2026-03-14
 expiryDate: 2026-03-22
 tags: ["politics", "polymarket"]
 polymarketYes: 29.5

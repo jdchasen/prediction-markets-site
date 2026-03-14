@@ -4,14 +4,13 @@ description: "Will the Iranian regime fall before 2027? Odds: 34.5% YES on Polym
 marketQuestion: "Will the Iranian regime fall before 2027?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-03-13
+lastUpdated: 2026-03-14
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 34.5
 polymarketNo: 65.5
-polymarketVolume: 9633178
+polymarketVolume: 9702711
 polymarketUrl: "https://polymarket.com/event/will-the-iranian-regime-fall-by-the-end-of-2026"
-analysisDate: 2026-03-13
 ---
 
 Prediction markets currently price a roughly one-in-three chance of Iran's government collapsing within the next three years, a significant probability that reflects genuine regime fragility amid unprecedented economic pressure, social unrest, and regional military setbacks.

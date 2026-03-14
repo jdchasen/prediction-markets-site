@@ -3,15 +3,14 @@ title: "Will Bryce Reeves be the Republican nominee for Senate in Virginia?"
 description: "Will Bryce Reeves be the Republican nominee for Senate in Virginia? Odds: 0.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Bryce Reeves be the Republican nominee for Senate in Virginia?"
 category: "politics"
-status: "settled"
-lastUpdated: 2026-03-11
+status: "active"
+lastUpdated: 2026-03-14
 expiryDate: 2026-06-16
 tags: ["politics", "polymarket"]
 polymarketYes: 0.5
 polymarketNo: 99.5
-polymarketVolume: 9760
+polymarketVolume: 9815
 polymarketUrl: "https://polymarket.com/event/will-bryce-reeves-be-the-republican-nominee-for-senate-in-virginia"
-analysisDate: 2026-03-10
 ---
 
 # Bryce Reeves' Path to Virginia GOP Senate Nomination Faces Steep Odds

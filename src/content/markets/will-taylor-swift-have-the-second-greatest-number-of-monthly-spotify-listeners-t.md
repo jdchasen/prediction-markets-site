@@ -3,8 +3,8 @@ title: "Will Taylor Swift have the second-greatest number of monthly Spotify lis
 description: "Will Taylor Swift have the second-greatest number of monthly Spotify listeners this month? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Taylor Swift have the second-greatest number of monthly Spotify listeners this month?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-13
+status: "settled"
+lastUpdated: 2026-03-14
 expiryDate: 2026-03-31
 tags: ["politics", "polymarket"]
 polymarketYes: 0.1

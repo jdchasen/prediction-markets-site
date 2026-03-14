@@ -1,47 +1,48 @@
 ---
 title: "Will any Category 5 hurricane make landfall in the US in before 2027?"
-description: "Will any Category 5 hurricane make landfall in the US in before 2027? Odds: 16.5% YES on Polymarket. See live prices and trade this market."
+description: "Will any Category 5 hurricane make landfall in the US in before 2027? Odds: 17.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will any Category 5 hurricane make landfall in the US in before 2027?"
 category: "science"
 status: "active"
-lastUpdated: 2026-03-13
+lastUpdated: 2026-03-14
 expiryDate: 2026-12-31
 tags: ["polymarket", "science"]
-polymarketYes: 16.5
-polymarketNo: 83.5
-polymarketVolume: 96305
+polymarketYes: 17.0
+polymarketNo: 83.0
+polymarketVolume: 96340
 polymarketUrl: "https://polymarket.com/event/will-any-category-5-hurricane-make-landfall-in-the-us-in-before-2027"
+analysisDate: 2026-03-14
 ---
 
-# Category 5 Hurricane Landfall Before 2027
+# Category 5 Hurricane Landfall Analysis
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 17.5% | 82.5% | $96K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 17.0% | 83.0% | $96K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-Traders are pricing in a roughly 1-in-6 chance of a major hurricane disaster in the continental US over the next two years, a relatively low probability that reflects both declining major hurricane frequency in recent decades and the inherent rarity of Category 5 systems. This matters now because we're entering peak Atlantic hurricane season (August-October), and any significant storm activity in 2024-2025 could substantially shift market pricing based on real-world conditions and seasonal forecasts.
+At 17%, traders are pricing in roughly a one-in-six chance of a Category 5 hurricane striking the US mainland before year-end 2026, implying this outcome is unlikely but far from negligible given the stakes of extreme weather events. The timing matters because we're currently in peak Atlantic hurricane season (August-October), and the market expires in roughly 24 months—a window that captures two additional full hurricane seasons (2025 and 2026) plus the remainder of 2024's season. This is a genuine tail-risk assessment given that Category 5 landfalls are rare but devastating when they occur.
 
-The bull case rests on climate-driven intensification: sea surface temperatures in the Atlantic have reached record highs in 2024, and research indicates warming oceans enable hurricanes to rapidly intensify to extreme categories more frequently than historical baselines would suggest. Additionally, the market expires at end-2026, leaving roughly 27 months of hurricane seasons (2.25 full seasons), and only one major Cat 5 landfall is needed to resolve YES—the 2004-2005 period saw three such storms. The bear case is stronger: only four Category 5 hurricanes have made US landfall since 1950 (Camille 1969, Andrew 1992, Charley 2004, Michael 2018), yielding a raw historical rate of roughly 3% per two-year window. Most storms weaken significantly before landfall due to cooler continental shelf waters and wind shear, and modern hurricane tracking has improved evacuation efficiency, meaning even intense systems frequently degrade to Cat 3-4 by the time they hit land.
+The bull case rests on three converging factors: warmer sea surface temperatures in the Atlantic are trending higher due to climate change and the recent transition to El Niño conditions, which historically correlate with more intense storm development; the National Hurricane Center's 2024 forecast predicts an above-normal season with 17-25 named storms; and since 1851, the US has experienced roughly one Category 5 landfall per decade, meaning statistically the 24-month window should see non-trivial probability. Hurricane Helene (2024) and Milton (2024) both approached Category 5 status, demonstrating the system's capacity to generate extreme storms. The bear case counters that actual Category 5 landfalls are rarer than raw hurricane frequency suggests—only 4 have hit the continental US since 1851 (1935, 1992, 2004, 2017), yielding a long-term frequency closer to one per 25+ years. Additionally, even intense storms often weaken during the final approach to shore due to land interaction and cooling, and Florida's improved building codes and detection systems have reduced the historical baseline somewhat.
 
-The critical catalysts are the seasonal outlooks due in late May/early June from NOAA, which will model Atlantic activity for the 2024 and 2025 seasons—an above-normal forecast would likely tighten the odds. Watch the August-October 2024 and 2025 hurricane seasons closely; any rapid intensification events in real-time provide data points on whether ocean conditions are genuinely anomalous. The National Hurricane Center's intensity forecasts and actual observed intensification rates during these windows will be your leading indicator. Additionally, any major landfalls at Category 3-4 strength will increase marginal probability of Cat 5, since they suggest conditions are favorable for extreme storms. The measurement methodology is straightforward—Saffir-Simpson scale at time of landfall—but traders should note that the NHC sometimes revises historical classifications; the Michael 2018 reclassification from Cat 4 to Cat 5 after landfall shows classification can shift, though only pre-landfall or at-landfall measurements should count here.
+Watch the National Hurricane Center's Saffir-Simpson classification methodology closely, particularly how they measure wind speeds at landfall versus peak intensity. The upcoming 2025 and 2026 Atlantic seasons will carry the real catalysts—peak season runs June through November each year, with September statistically most active. Sea surface temperature anomalies reported monthly by NOAA through their Coral Reef Watch program and Atlantic Multidecadal Oscillation (AMO) index readings will signal whether conditions are strengthening or weakening for Category 5 development. If the 2025 Atlantic hurricane season produces multiple Cat 4+ storms with landfalls, odds should shift materially higher; conversely, below-normal seasons in 2025 or 2026 would contract the probability.
+
+## Related Markets
+
+- [Will global temperature increase by between 1.10ºC and 1.14ºC in March 2026?](/odds/will-global-temperature-increase-by-between-110c-and-114c-in-march-2026) — 18% YES
 
 ## Frequently Asked Questions
 
-### Does the market resolve YES if a Category 5 hurricane weakens to Category 4 before making landfall?
+### What measurement standard does the market use—Category 5 intensity at peak or at the exact moment of landfall?
 
-No—the market requires landfall specifically as a Category 5, so any weakening before reaching the coast resolves NO, regardless of peak intensity offshore.
+The market definition typically requires the storm to be classified as Category 5 according to the Saffir-Simpson scale at the point of landfall; a storm that reaches Cat 5 offshore but weakens to Cat 4 before hitting land does not trigger a YES resolution, which tightens the actual probability below raw Cat 5 formation rates.
 
-### How much would a strong El Niño or La Niña pattern typically shift these odds?
+### How have warming oceans in 2023-2024 affected this market's odds compared to historical baselines?
 
-La Niña favors Atlantic hurricane activity (and could increase odds), while El Niño suppresses it; NOAA's seasonal forecasts in May/June will clarify the likely pattern and could swing the market 5-10 percentage points.
-
-### What if a Category 5 hurricane hits Mexico or the Caribbean island first before potentially reaching the US mainland?
-
-The resolution hinges on US landfall specifically, so a storm that hits Mexico, Puerto Rico, or other non-US territory as a Cat 5 would not trigger a YES resolution.
+Record Atlantic sea surface temperatures in 2023 and persistent warmth in 2024 have elevated odds relative to 20th-century norms; the 17% current price likely reflects roughly 2-3 percentage points of climate-driven intensification beyond 1851-2000 baseline frequencies.
 
 ## Learn More
 

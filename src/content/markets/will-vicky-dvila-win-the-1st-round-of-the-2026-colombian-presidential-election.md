@@ -1,17 +1,16 @@
 ---
 title: "Will Vicky Dávila win the 1st round of the 2026 Colombian presidential election?"
-description: "Will Vicky Dávila win the 1st round of the 2026 Colombian presidential election? Odds: 0.8% YES on Polymarket. See live prices and trade this market."
+description: "Will Vicky Dávila win the 1st round of the 2026 Colombian presidential election? Odds: 0.6% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Vicky Dávila win the 1st round of the 2026 Colombian presidential election?"
 category: "politics"
-status: "settled"
-lastUpdated: 2026-03-13
+status: "active"
+lastUpdated: 2026-03-14
 expiryDate: 2026-05-31
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 0.8
-polymarketNo: 99.2
-polymarketVolume: 95633
+polymarketYes: 0.6
+polymarketNo: 99.4
+polymarketVolume: 95692
 polymarketUrl: "https://polymarket.com/event/will-vicky-dvila-win-the-1st-round-of-the-2026-colombian-presidential-election"
-analysisDate: 2026-03-13
 ---
 
 The market assigns negligible odds to journalist Vicky Dávila securing a first-round victory in Colombia's 2026 presidential election, reflecting deep skepticism about her ability to build a winning coalition despite her high media profile as director of Semana magazine and her confrontational investigative journalism targeting the Petro administration.

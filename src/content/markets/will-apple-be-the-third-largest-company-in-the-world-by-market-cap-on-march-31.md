@@ -3,8 +3,8 @@ title: "Will Apple be the third-largest company in the world by market cap on Ma
 description: "Will Apple be the third-largest company in the world by market cap on March 31? Odds: 32.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Apple be the third-largest company in the world by market cap on March 31?"
 category: "finance"
-status: "active"
-lastUpdated: 2026-03-13
+status: "settled"
+lastUpdated: 2026-03-14
 expiryDate: 2026-03-31
 tags: ["finance", "polymarket"]
 polymarketYes: 32.0

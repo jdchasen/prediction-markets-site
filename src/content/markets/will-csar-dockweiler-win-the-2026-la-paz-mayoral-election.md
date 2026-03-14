@@ -3,8 +3,8 @@ title: "Will César Dockweiler win the 2026 La Paz mayoral election?"
 description: "Will César Dockweiler win the 2026 La Paz mayoral election? Odds: 84.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will César Dockweiler win the 2026 La Paz mayoral election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-13
+status: "settled"
+lastUpdated: 2026-03-14
 expiryDate: 2026-03-22
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 84.1

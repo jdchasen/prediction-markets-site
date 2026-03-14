@@ -3,8 +3,8 @@ title: "Will Nikita Kucherov win the 2025–2026 NHL Hart Memorial Trophy?"
 description: "Will Nikita Kucherov win the 2025–2026 NHL Hart Memorial Trophy? Odds: 17.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Nikita Kucherov win the 2025–2026 NHL Hart Memorial Trophy?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-03-13
+status: "settled"
+lastUpdated: 2026-03-14
 expiryDate: 2026-06-30
 tags: ["polymarket", "sports"]
 polymarketYes: 17.8

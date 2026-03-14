@@ -3,8 +3,8 @@ title: "Russia strike impacts Kyiv municipality during week of March 2, 2026?"
 description: "Russia strike impacts Kyiv municipality during week of March 2, 2026? Odds: 99.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Russia strike impacts Kyiv municipality during week of March 2, 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-13
+status: "settled"
+lastUpdated: 2026-03-14
 tags: ["politics", "polymarket"]
 polymarketYes: 99.9
 polymarketNo: 0.1

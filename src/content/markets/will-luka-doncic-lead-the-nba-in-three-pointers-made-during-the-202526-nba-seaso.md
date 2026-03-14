@@ -1,54 +1,56 @@
 ---
 title: "Will Luka Doncic lead the NBA in three pointers made during the 2025–26 NBA season?"
-description: "Will Luka Doncic lead the NBA in three pointers made during the 2025–26 NBA season? Odds: 46.7% YES on Polymarket. See live prices and trade this market."
+description: "Will Luka Doncic lead the NBA in three pointers made during the 2025–26 NBA season? Odds: 55.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Luka Doncic lead the NBA in three pointers made during the 2025–26 NBA season?"
 category: "sports"
 status: "active"
-lastUpdated: 2026-03-13
+lastUpdated: 2026-03-14
 expiryDate: 2026-04-12
 tags: ["polymarket", "sports"]
-polymarketYes: 46.7
-polymarketNo: 53.3
-polymarketVolume: 9773
+polymarketYes: 55.1
+polymarketNo: 44.9
+polymarketVolume: 9952
 polymarketUrl: "https://polymarket.com/event/nba-2025-26-3pm-leader-luka-doncic"
-analysisDate: 2026-03-13
+analysisDate: 2026-03-14
 ---
 
-# Luka Doncic Three-Pointer Leader Market Analysis
+# Luka Doncic Three-Point Leader Market Analysis
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 46.7% | 53.3% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 55.1% | 44.9% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-This market prices Doncic's chances at slightly below even money despite him being a viable contender, reflecting genuine uncertainty about whether volume, efficiency, or competition will work against him. The question matters now because roster construction decisions for the 2025–26 season are either finalized or imminent, and Doncic's three-point attempt rate—which directly determines his ceiling for total makes—depends heavily on Dallas's offensive system and supporting cast.
+The market is pricing Luka Doncic as a slight favorite to lead the NBA in three-pointers made next season, but this hinges entirely on whether Dallas' offensive system and his usage rate remain stable through 2025-26. At 55.1% YES odds, bettors are essentially saying the probability is nearly a coin flip—reflecting genuine uncertainty about both Doncic's volume and whether a competitor will overtake him over a full 82-game season plus playoffs.
 
-The bull case centers on Doncic's trajectory: he's already a high-volume three-point shooter (averaging 8+ attempts per game in recent seasons) with improving efficiency, and the Dallas offense typically runs through him. If the Mavericks lose Kyrie Irving or run a system that demands more perimeter shooting from Doncic, his attempt volume could exceed 9+ per game. At even league-average conversion rates (37%), that's 300+ makes over a full season—a genuinely competitive total. The bear case is equally compelling: Stephen Curry, Damian Lillard, and Deshaun Murray (if volume increases) all project to shoot 8+ threes nightly. Doncic has never led the league in three-pointers made, and his efficiency remains slightly below elite volume shooters like Curry. Injury risk matters too—any significant absence costs him 15–20 games and removes him from contention.
+The bull case rests on Doncic's elite shot creation and track record: he's consistently among the league's top three-point volume shooters, attempting 7+ threes per game in recent seasons. If the Mavericks maintain their offensive philosophy and Doncic stays healthy through April 2026, his combination of usage rate and elite efficiency gives him a structural advantage. Dallas has committed to spacing around him, and new additions or coaching adjustments could actually increase his three-point attempts. Additionally, most other high-volume three-point candidates (Stephen Curry, Damian Lillard, Jaylen Brown) play on more defensively-focused teams where shot distribution may tighten in April playoffs.
 
-Watch the Mavericks' offseason moves through summer 2025 for clues on system design. If Dallas trades Irving or replaces him with a non-ball-handling wing, Doncic's usage and three-point attempts spike materially. Monitor his October–November 2025 shooting splits once the season starts; if he's launching 9+ threes at 38%+ efficiency through the first month, YES odds should compress significantly. Conversely, any move that adds another high-usage guard narrows his path. Injury reports before the 2025–26 tipoff in late October will also shift odds sharply—even a preseason concern would lengthen YES odds.
+The bear case is stronger than the 55% odds suggest: Doncic has never actually led the league in three-pointers made despite high volume, often finishing 3rd or 4th. Stephon Curry, even in decline, remains lethal and could reclaim the title with Golden State's entire system built around him. A mid-season trade, injury, or coaching change in Dallas could slash Doncic's three-point attempts. The Dallas supporting cast matters enormously—if injuries hit Kyrie Irving or Derrick Jones Jr., the offense may become more isolation-heavy rather than spaced-out, reducing threes. Over a full 82-game season, consistency across 26+ weeks matters more than peak performance.
+
+Watch the Mavericks' preseason rotation and any trade activity before October 2025, Doncic's three-point attempt rate in November-December games, and Curry's early-season volume to gauge whether the market's "slight favorite" pricing holds. If Doncic is healthy and averaging 8+ threes per game by December 2025, YES becomes significantly underpriced; if he dips below 6.5 attempts per game, the bear case gains traction. The expiry in April 2026 means this resolves during the playoffs, so teams' three-point distribution strategies in March will be the final catalyst.
 
 ## Related Markets
 
-- [Will the Golden State Warriors win the NBA Western Conference Finals?](/odds/will-the-golden-state-warriors-win-the-nba-western-conference-finals) — 1% YES
 - [Will Sunderland win the 2025–26 English Premier League?](/odds/will-sunderland-win-the-202526-english-premier-league) — 0% YES
 - [Will Curaçao win the 2026 FIFA World Cup?](/odds/will-curaao-win-the-2026-fifa-world-cup) — 0% YES
+- [Will Joaquin Niemann win the 2026 Masters tournament?](/odds/will-joaquin-niemann-win-the-2026-masters-tournament) — 0% YES
 
 ## Frequently Asked Questions
 
-### Has Doncic ever finished top-5 in three-pointers made in a single season?
+### Has Luka Doncic ever won the three-pointers-made title in his career?
 
-No; he's typically finished outside the top-10 despite high volume because Curry, Lillard, Thompson, and others have higher attempt rates or efficiency. Leading the league requires him to either significantly increase attempts or play 75+ games while maintaining 37%+ efficiency.
+No—despite ranking top-5 in attempts most seasons, he's typically finished 3rd or 4th behind Curry or other high-volume shooters, making this an underperformance relative to his usage.
 
-### How much does Doncic's three-point volume depend on whether Kyrie Irving stays with Dallas?
+### How much does Kyrie Irving's health impact Doncic's three-point volume?
 
-Substantially; Irving's presence creates more isolation opportunities for Doncic off-ball and can reduce his required offensive load. If Irving departs or is traded, Doncic's attempts could increase 1–2 per game, materially improving his odds.
+Significantly; when Irving is out, Dallas offense becomes more isolation-heavy on Doncic with fewer spacing opportunities, potentially reducing his three-point attempts by 1-2 per game.
 
-### What three-pointer total would Doncic need to have a realistic shot at leading the league?
+### Could Stephon Curry realistically win this title ahead of Doncic?
 
-Approximately 280+ makes, which requires 280–310 attempts (depending on efficiency) and roughly 37%+ conversion over 75+ games. For context, league leaders typically land in the 310–350 make range.
+Yes—Curry is still attempting 8+ threes per game and Golden State's entire system prioritizes his shooting over any other scorer, making him the primary threat to Doncic despite age.
 
 ## Learn More
 

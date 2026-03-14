@@ -3,8 +3,8 @@ title: "Will 70 to 99 tornadoes occur in the United States in March 2026?"
 description: "Will 70 to 99 tornadoes occur in the United States in March 2026? Odds: 2.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will 70 to 99 tornadoes occur in the United States in March 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-13
+status: "settled"
+lastUpdated: 2026-03-14
 expiryDate: 2026-04-10
 tags: ["politics", "polymarket"]
 polymarketYes: 2.8

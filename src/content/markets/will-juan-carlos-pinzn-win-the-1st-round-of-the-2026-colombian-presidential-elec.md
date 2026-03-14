@@ -3,15 +3,14 @@ title: "Will Juan Carlos Pinzón win the 1st round of the 2026 Colombian preside
 description: "Will Juan Carlos Pinzón win the 1st round of the 2026 Colombian presidential election? Odds: 0.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Juan Carlos Pinzón win the 1st round of the 2026 Colombian presidential election?"
 category: "politics"
-status: "settled"
-lastUpdated: 2026-03-13
+status: "active"
+lastUpdated: 2026-03-14
 expiryDate: 2026-05-31
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.4
 polymarketNo: 99.6
-polymarketVolume: 9585
+polymarketVolume: 9620
 polymarketUrl: "https://polymarket.com/event/will-juan-carlos-pinzn-win-the-1st-round-of-the-2026-colombian-presidential-election"
-analysisDate: 2026-03-13
 ---
 
 # Juan Carlos Pinzón's 2026 Colombian Presidential First-Round Prospects

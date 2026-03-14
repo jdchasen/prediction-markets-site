@@ -3,8 +3,8 @@ title: "Will \"Project Hail Mary\" Opening Weekend Box Office be greater than 90
 description: "Will \"Project Hail Mary\" Opening Weekend Box Office be greater than 90m? Odds: 12.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will \"Project Hail Mary\" Opening Weekend Box Office be greater than 90m?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-13
+status: "settled"
+lastUpdated: 2026-03-14
 expiryDate: 2026-03-23
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 12.0

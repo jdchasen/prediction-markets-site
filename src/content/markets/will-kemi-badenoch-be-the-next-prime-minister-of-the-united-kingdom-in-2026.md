@@ -4,14 +4,13 @@ description: "Will Kemi Badenoch be the next Prime Minister of the United Kingdo
 marketQuestion: "Will Kemi Badenoch be the next Prime Minister of the United Kingdom in 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-03-13
+lastUpdated: 2026-03-14
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 0.4
 polymarketNo: 99.7
-polymarketVolume: 98139
+polymarketVolume: 98397
 polymarketUrl: "https://polymarket.com/event/will-kemi-badenoch-be-the-next-prime-minister-of-the-united-kingdom-in-2026-828"
-analysisDate: 2026-03-13
 ---
 
 Kemi Badenoch's path to becoming UK Prime Minister by December 2026 faces extraordinarily long odds at 0.4%, reflecting the reality that Labour's Keir Starmer currently holds power with a commanding parliamentary majority secured in July 2024, making any transition to Conservative leadership—let alone specifically to Badenoch—highly improbable within this timeframe.

@@ -3,8 +3,8 @@ title: "Will Forsen be the NLC 2026 Winter Split MVP?"
 description: "Will Forsen be the NLC 2026 Winter Split MVP? Odds: 2.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Forsen be the NLC 2026 Winter Split MVP?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-13
+status: "settled"
+lastUpdated: 2026-03-14
 expiryDate: 2026-03-31
 tags: ["politics", "polymarket"]
 polymarketYes: 2.1

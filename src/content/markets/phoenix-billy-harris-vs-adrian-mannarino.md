@@ -3,8 +3,8 @@ title: "Phoenix: Billy Harris vs Adrian Mannarino"
 description: "Phoenix: Billy Harris vs Adrian Mannarino Odds: 37.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Phoenix: Billy Harris vs Adrian Mannarino"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-13
+status: "settled"
+lastUpdated: 2026-03-14
 expiryDate: 2026-03-20
 tags: ["politics", "polymarket"]
 polymarketYes: 37.0

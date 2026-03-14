@@ -1,55 +1,54 @@
 ---
 title: "Will Gholam-Ali Haddad-Adel be head of state in Iran end of 2026?"
-description: "Will Gholam-Ali Haddad-Adel be head of state in Iran end of 2026? Odds: 0.4% YES on Polymarket. See live prices and trade this market."
+description: "Will Gholam-Ali Haddad-Adel be head of state in Iran end of 2026? Odds: 0.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Gholam-Ali Haddad-Adel be head of state in Iran end of 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-03-13
+lastUpdated: 2026-03-14
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 0.4
-polymarketNo: 99.6
-polymarketVolume: 9892
+polymarketYes: 0.5
+polymarketNo: 99.5
+polymarketVolume: 9982
 polymarketUrl: "https://polymarket.com/event/will-gholam-ali-haddad-adel-be-head-of-state-in-iran-end-of-2026"
+analysisDate: 2026-03-14
 ---
 
-# Iran Head of State Market Analysis
+This market prices Haddad-Adel as a near-zero-probability candidate for Iran's head of state by year-end 2026, reflecting his current political position as a mid-tier conservative figure without a clear pathway to supreme power. The question matters because it tests whether prediction markets accurately assess the extremely low odds of non-establishment figures reaching Iran's top executive role under the current constitutional system.
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.4% | 99.6% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.5% | 99.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-This prediction market is pricing an extremely low probability for Gholam-Ali Haddad-Adel to become Iran's head of state by year-end 2026, reflecting both structural barriers to his ascension and the volatile nature of Iranian succession politics. The market matters now because Iran's next presidential election is scheduled for June 2025, making 2026 the critical window where any new leadership would be consolidating power—yet current odds suggest the market views Haddad-Adel as a long-shot candidate despite his significant political background as a former parliamentary speaker and nuclear negotiator.
+The bull case rests on Iran's unpredictable political dynamics and Haddad-Adel's background as a former parliament speaker and current advisor with connections to conservative networks. If the Supreme Leader faced succession pressure, health crises, or if unexpected political realignment created openings for compromise candidates, Haddad-Adel's relative moderation within conservative circles could theoretically position him as a bridge figure. The 2024 presidential election cycle (results finalized in August 2024) and the 2026 legislative elections create windows where coalition-building could theoretically elevate unexpected figures. A dramatic shift in factional power would be required—essentially a wholesale rejection of current power structures.
 
-The bull case rests on Haddad-Adel's establishment credentials and potential positioning as a compromise candidate. If reformist factions gain unexpected ground in the June 2025 presidential election and seek a centrist figure to navigate international relations and economic pressure, Haddad-Adel's experience in nuclear diplomacy under the JCPOA could become suddenly valuable. A major geopolitical shift—such as sanctions relief from a U.S. policy change or a regional conflict requiring diplomatic expertise—could elevate his profile before the June 2025 ballot. Additionally, if the current supreme leader's health deteriorates significantly, succession dynamics could favor experienced pragmatists outside the current power structure.
+The bear case dominates: Iran's head of state is functionally subordinate to the Supreme Leader, who selects from pre-approved candidates through the Guardian Council vetting process. Haddad-Adel lacks the security apparatus control, Revolutionary Guard backing, or clerical credentials typically required for advancement to Iran's top executive position. The Supreme Leader (Khamenei, age 85) would need to die or step down before succession questions arise, an event the market assigns minimal probability by 2026. Even in succession scenarios, the system typically elevates figures with deeper institutional power bases—intelligence chiefs, military commanders, or senior clerics—not secondary parliamentary figures.
 
-The bear case is overwhelming: Iran's presidential elections are tightly controlled by the Guardian Council's vetting process, which regularly disqualifies candidates deemed insufficiently ideologically aligned. Haddad-Adel, despite his conservative credentials, has been viewed skeptically by hardliners due to his nuclear negotiations role. The current supreme leader Khamenei has shown preference for loyalists within his inner circle, and any president elected in June 2025 would need to be confirmed by Khamenei-controlled institutions by December 2026. The 0.4% pricing suggests traders view the confluence of factors needed for his election as near-impossible given these structural constraints.
-
-Key catalysts include the Guardian Council's June 2025 candidate vetting announcements (typically March-April 2025), the June presidential election itself, and any statements by Khamenei regarding succession preferences. Traders should monitor whether Haddad-Adel receives invitations to state positions or media rehabilitation prior to vetting season, which would signal elite backing. Regional developments with nuclear implications in early 2025 could shift demand for his expertise, though this alone would not override institutional gatekeeping. The market will likely remain illiquid and underestimate tail-risk scenarios until vetting outcomes clarify the actual field of viable candidates.
+Traders should monitor Supreme Leader health signals, factional shifts after the 2026 parliamentary elections (scheduled for February/March 2026), and any unexpected Guardian Council decisions that could signal changing power dynamics. Watch for whether Haddad-Adel gains formal positions between now and 2026. The extremely low odds appropriately reflect institutional constraints rather than pure candidate capability; meaningful movement would require structural changes to Iran's governing system, which this timeframe makes highly unlikely.
 
 ## Related Markets
 
-- [Will Mark Kelly win the 2028 Democratic presidential nomination?](/odds/will-mark-kelly-win-the-2028-democratic-presidential-nomination) — 2% YES
+- [Will Mark Kelly win the 2028 Democratic presidential nomination?](/odds/will-mark-kelly-win-the-2028-democratic-presidential-nomination) — 3% YES
+- [Will the Iranian regime fall before 2027?](/odds/will-the-iranian-regime-fall-before-2027) — 34% YES
 - [Will Robert F. Kennedy Jr. win the 2028 Republican presidential nomination?](/odds/will-robert-f-kennedy-jr-win-the-2028-republican-presidential-nomination) — 1% YES
-- [No change in the Selic rate after Bank of Brazil's March 2026 meeting?](/odds/no-change-in-the-selic-rate-after-bank-of-brazils-march-2026-meeting) — 14% YES
 
 ## Frequently Asked Questions
 
-### Has Haddad-Adel been publicly vetted as acceptable to Iran's Guardian Council in past elections?
+### What's the difference between Iran's head of state and actual executive power?
 
-Haddad-Adel was permitted to run in the 2021 presidential election but received minimal support, and there's no guarantee he'll clear the 2025 vetting process, especially given hardliner skepticism of his JCPOA involvement.
+Iran's president (head of state) answers to the Supreme Leader and controls limited independent authority; real power lies with the Supreme Leader, the Guardian Council, and security apparatus, making the presidency a secondary position that Haddad-Adel would still need to win through the vetting process.
 
-### What would need to happen between now and June 2025 for his odds to materially improve?
+### Could Haddad-Adel become head of state if the current Supreme Leader dies before end of 2026?
 
-A major shift in Khamenei's policy preferences toward nuclear diplomacy, a public endorsement from the supreme leader, or a significant weakening of current hardline faction control could improve his viability, though even then his path to the presidency remains uncertain.
+Technically possible but extremely unlikely—succession would require both Khamenei's death (market assigns very low probability) and the Assembly of Experts selecting Haddad-Adel over figures with deeper security/clerical credentials, a near-zero compounded probability.
 
-### Does becoming Iran's president automatically make someone "head of state" for this market's purposes?
+### What specific catalysts in 2026 could move this market?
 
-Yes—in Iran's system, the president serves as head of government while the supreme leader is head of state, so this market likely resolves on whether Haddad-
+The February/March 2026 parliamentary elections could alter factional balances and reveal whether Haddad-Adel gains institutional leverage, and any unusual appointments or public health statements regarding the Supreme Leader would signal succession probability changes.
 
 ## Learn More
 

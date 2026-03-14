@@ -1,17 +1,16 @@
 ---
 title: "Markwayne Mullin confirmed as DHS Secretary by March 31, 2026?"
-description: "Markwayne Mullin confirmed as DHS Secretary by March 31, 2026? Odds: 79.5% YES on Polymarket. See live prices and trade this market."
+description: "Markwayne Mullin confirmed as DHS Secretary by March 31, 2026? Odds: 77.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Markwayne Mullin confirmed as DHS Secretary by March 31, 2026?"
 category: "politics"
-status: "settled"
-lastUpdated: 2026-03-13
+status: "active"
+lastUpdated: 2026-03-14
 expiryDate: 2026-04-30
 tags: ["politics", "polymarket"]
-polymarketYes: 79.5
-polymarketNo: 20.5
-polymarketVolume: 9602
+polymarketYes: 77.0
+polymarketNo: 23.0
+polymarketVolume: 9650
 polymarketUrl: "https://polymarket.com/event/markwayne-mullin-confirmed-as-dhs-secretary-by-march-31-2026"
-analysisDate: 2026-03-13
 ---
 
 # DHS Secretary Confirmation Market Analysis

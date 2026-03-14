@@ -3,8 +3,8 @@ title: "Will Doug Bennett be the Republican nominee for Senate in Illinois?"
 description: "Will Doug Bennett be the Republican nominee for Senate in Illinois? Odds: 0.3% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Doug Bennett be the Republican nominee for Senate in Illinois?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-13
+status: "settled"
+lastUpdated: 2026-03-14
 expiryDate: 2026-03-17
 tags: ["politics", "polymarket"]
 polymarketYes: 0.3

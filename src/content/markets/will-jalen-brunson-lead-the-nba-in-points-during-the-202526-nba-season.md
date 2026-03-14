@@ -1,17 +1,16 @@
 ---
 title: "Will Jalen Brunson lead the NBA in points during the 2025–26 NBA season?"
-description: "Will Jalen Brunson lead the NBA in points during the 2025–26 NBA season? Odds: 0.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Jalen Brunson lead the NBA in points during the 2025–26 NBA season? Odds: 0.6% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Jalen Brunson lead the NBA in points during the 2025–26 NBA season?"
 category: "sports"
 status: "active"
-lastUpdated: 2026-03-13
+lastUpdated: 2026-03-14
 expiryDate: 2026-04-12
 tags: ["polymarket", "sports"]
-polymarketYes: 0.5
-polymarketNo: 99.5
-polymarketVolume: 9685
+polymarketYes: 0.6
+polymarketNo: 99.4
+polymarketVolume: 9803
 polymarketUrl: "https://polymarket.com/event/nba-2025-26-ppg-leader-jalen-brunson"
-analysisDate: 2026-03-13
 ---
 
 The Dallas Mavericks point guard is priced at essentially zero probability to lead the league in scoring next season, reflecting market skepticism about his scoring volume and competitive landscape rather than his individual talent. This market matters now because the 2025–26 season rosters are crystallizing, and Brunson's role alongside Kyrie Irving and Luka Doncic will be finalized by training camp in October 2025.
