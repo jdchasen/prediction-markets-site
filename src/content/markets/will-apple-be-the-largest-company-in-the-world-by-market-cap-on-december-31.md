@@ -1,17 +1,16 @@
 ---
 title: "Will Apple be the largest company in the world by market cap on December 31?"
-description: "Will Apple be the largest company in the world by market cap on December 31? Odds: 15.0% YES on Polymarket. See live prices and trade this market."
+description: "Will Apple be the largest company in the world by market cap on December 31? Odds: 14.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Apple be the largest company in the world by market cap on December 31?"
 category: "finance"
 status: "active"
 lastUpdated: 2026-03-14
 expiryDate: 2026-12-31
 tags: ["finance", "polymarket"]
-polymarketYes: 15.0
-polymarketNo: 85.0
-polymarketVolume: 97280
+polymarketYes: 14.5
+polymarketNo: 85.5
+polymarketVolume: 97614
 polymarketUrl: "https://polymarket.com/event/will-apple-be-the-largest-company-in-the-world-by-market-cap-on-december-31-291"
-analysisDate: 2026-03-14
 ---
 
 # Apple's Path to #1 Market Cap by End of 2026

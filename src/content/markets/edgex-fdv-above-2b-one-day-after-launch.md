@@ -1,17 +1,16 @@
 ---
 title: "EdgeX FDV above $2B one day after launch?"
-description: "EdgeX FDV above $2B one day after launch? Odds: 10.5% YES on Polymarket. See live prices and trade this market."
+description: "EdgeX FDV above $2B one day after launch? Odds: 9.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "EdgeX FDV above $2B one day after launch?"
 category: "crypto"
 status: "active"
 lastUpdated: 2026-03-14
 expiryDate: 2027-01-01
 tags: ["crypto", "polymarket"]
-polymarketYes: 10.5
-polymarketNo: 89.5
-polymarketVolume: 981042
+polymarketYes: 9.5
+polymarketNo: 90.5
+polymarketVolume: 983058
 polymarketUrl: "https://polymarket.com/event/edgex-fdv-above-2b-one-day-after-launch-617-354"
-analysisDate: 2026-03-14
 ---
 
 The market pricing EdgeX's fully diluted valuation at only 10.5% chance of exceeding $2 billion on day one signals deep skepticism about this launch in a challenging crypto environment where most tokens have struggled to maintain elevated valuations post-TGE. This matters because it reflects broader concerns about token launch dynamics in 2024-2025, where retail appetite has weakened and initial valuations have compressed significantly compared to the 2021 bull cycle.

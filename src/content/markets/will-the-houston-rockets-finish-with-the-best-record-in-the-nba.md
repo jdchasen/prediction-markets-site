@@ -8,9 +8,8 @@ lastUpdated: 2026-03-14
 tags: ["polymarket", "sports"]
 polymarketYes: 0.4
 polymarketNo: 99.6
-polymarketVolume: 9820
+polymarketVolume: 9828
 polymarketUrl: "https://polymarket.com/event/will-the-houston-rockets-finish-with-the-best-record-in-the-nba"
-analysisDate: 2026-03-14
 ---
 
 # Houston Rockets Best Record Market Analysis

@@ -3,7 +3,7 @@ title: "Will FC Barcelona vs. Newcastle United FC end in a draw?"
 description: "Will FC Barcelona vs. Newcastle United FC end in a draw? Odds: 20.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will FC Barcelona vs. Newcastle United FC end in a draw?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-14
 expiryDate: 2026-03-18
 tags: ["politics", "polymarket"]

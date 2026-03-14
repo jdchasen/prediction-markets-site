@@ -9,9 +9,8 @@ expiryDate: 2026-04-01
 tags: ["politics", "polymarket"]
 polymarketYes: 9.5
 polymarketNo: 90.5
-polymarketVolume: 99297
+polymarketVolume: 99533
 polymarketUrl: "https://polymarket.com/event/will-solana-dip-to-60-in-march-2026"
-analysisDate: 2026-03-14
 ---
 
 The market pricing Solana at under 10% probability of hitting $60 in March reflects strong confidence in the layer-1 blockchain's current price floor around $120-140, but the April 2026 expiry date suggests this may actually be asking about March 2026, not the immediate March 2025. This matters for crypto traders assessing downside risk in a sector known for 70-80% drawdowns during bear cycles.

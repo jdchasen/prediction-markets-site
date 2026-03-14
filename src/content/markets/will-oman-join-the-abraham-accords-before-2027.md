@@ -9,9 +9,8 @@ expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 16.5
 polymarketNo: 83.5
-polymarketVolume: 98713
+polymarketVolume: 98742
 polymarketUrl: "https://polymarket.com/event/will-oman-join-the-abraham-accords-before-2027"
-analysisDate: 2026-03-14
 ---
 
 # Oman and the Abraham Accords: A Low-Probability Outlier

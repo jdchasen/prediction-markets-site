@@ -1,17 +1,16 @@
 ---
 title: "Will Maverick McNealy win the 2026 Masters tournament?"
-description: "Will Maverick McNealy win the 2026 Masters tournament? Odds: 0.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Maverick McNealy win the 2026 Masters tournament? Odds: 0.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Maverick McNealy win the 2026 Masters tournament?"
 category: "sports"
 status: "active"
 lastUpdated: 2026-03-14
 expiryDate: 2026-04-13
 tags: ["polymarket", "sports"]
-polymarketYes: 0.5
-polymarketNo: 99.5
-polymarketVolume: 97880
+polymarketYes: 0.4
+polymarketNo: 99.6
+polymarketVolume: 98386
 polymarketUrl: "https://polymarket.com/event/will-maverick-mcnealy-win-the-2026-masters-tournament"
-analysisDate: 2026-03-14
 ---
 
 # Maverick McNealy's Masters Odds: A Longshot Bet on Breakthrough Performance

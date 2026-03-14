@@ -3,7 +3,7 @@ title: "Megaquake by March 31?"
 description: "Megaquake by March 31? Odds: 8.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Megaquake by March 31?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-14
 expiryDate: 2026-03-31
 tags: ["politics", "polymarket"]

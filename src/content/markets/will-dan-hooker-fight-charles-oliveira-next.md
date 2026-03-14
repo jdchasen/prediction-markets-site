@@ -11,7 +11,6 @@ polymarketYes: 1.5
 polymarketNo: 98.5
 polymarketVolume: 9896
 polymarketUrl: "https://polymarket.com/event/will-dan-hooker-fight-charles-oliveira-next-613-656"
-analysisDate: 2026-03-14
 ---
 
 # Analysis

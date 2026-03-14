@@ -3,7 +3,7 @@ title: "Nguesso out as President of the Republic of the Congo by end of 2026?"
 description: "Nguesso out as President of the Republic of the Congo by end of 2026? Odds: 13.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Nguesso out as President of the Republic of the Congo by end of 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-14
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]

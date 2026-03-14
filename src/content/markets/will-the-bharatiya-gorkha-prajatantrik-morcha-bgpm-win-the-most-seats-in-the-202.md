@@ -3,7 +3,7 @@ title: "Will the Bharatiya Gorkha Prajatantrik Morcha (BGPM) win the most seats 
 description: "Will the Bharatiya Gorkha Prajatantrik Morcha (BGPM) win the most seats in the 2026 West Bengal Legislative Assembly election? Odds: 0.1% YES on Polymarket. ..."
 marketQuestion: "Will the Bharatiya Gorkha Prajatantrik Morcha (BGPM) win the most seats in the 2026 West Bengal Legislative Assembly election?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-14
 expiryDate: 2026-05-07
 tags: ["elections", "politics", "polymarket"]

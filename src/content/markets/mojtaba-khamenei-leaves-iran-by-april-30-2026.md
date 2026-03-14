@@ -3,7 +3,7 @@ title: "Mojtaba Khamenei leaves Iran by April 30, 2026?"
 description: "Mojtaba Khamenei leaves Iran by April 30, 2026? Odds: 6.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Mojtaba Khamenei leaves Iran by April 30, 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-14
 expiryDate: 2026-04-30
 tags: ["politics", "polymarket"]

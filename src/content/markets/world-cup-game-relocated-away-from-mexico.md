@@ -9,9 +9,8 @@ expiryDate: 2026-06-10
 tags: ["polymarket", "sports"]
 polymarketYes: 5.5
 polymarketNo: 94.5
-polymarketVolume: 98396
+polymarketVolume: 98413
 polymarketUrl: "https://polymarket.com/event/will-a-world-cup-game-in-mexico-be-relocated-abroad"
-analysisDate: 2026-03-14
 ---
 
 The market reflects strong confidence that Mexico will retain its scheduled 2026 FIFA World Cup matches, with minimal probability of relocation despite ongoing security and infrastructure concerns that have historically plagued major sporting events in the country.

@@ -3,7 +3,7 @@ title: "Will Gholam-Ali Haddad-Adel be head of state in Iran end of 2026?"
 description: "Will Gholam-Ali Haddad-Adel be head of state in Iran end of 2026? Odds: 0.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Gholam-Ali Haddad-Adel be head of state in Iran end of 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-14
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]

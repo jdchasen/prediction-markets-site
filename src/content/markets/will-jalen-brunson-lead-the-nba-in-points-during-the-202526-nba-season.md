@@ -3,7 +3,7 @@ title: "Will Jalen Brunson lead the NBA in points during the 2025–26 NBA seaso
 description: "Will Jalen Brunson lead the NBA in points during the 2025–26 NBA season? Odds: 0.6% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Jalen Brunson lead the NBA in points during the 2025–26 NBA season?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-14
 expiryDate: 2026-04-12
 tags: ["polymarket", "sports"]

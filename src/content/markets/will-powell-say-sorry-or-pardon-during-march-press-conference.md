@@ -3,7 +3,7 @@ title: "Will Powell say \"Sorry\" or \"Pardon\" during March press conference?"
 description: "Will Powell say \"Sorry\" or \"Pardon\" during March press conference? Odds: 80.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Powell say \"Sorry\" or \"Pardon\" during March press conference?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-14
 expiryDate: 2026-03-18
 tags: ["politics", "polymarket"]

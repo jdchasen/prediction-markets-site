@@ -1,17 +1,16 @@
 ---
 title: "Fed rate cut by March 2026 meeting?"
-description: "Fed rate cut by March 2026 meeting? Odds: 0.5% YES on Polymarket. See live prices and trade this market."
+description: "Fed rate cut by March 2026 meeting? Odds: 0.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Fed rate cut by March 2026 meeting?"
 category: "economics"
 status: "active"
 lastUpdated: 2026-03-14
 expiryDate: 2026-03-18
 tags: ["economics", "federal-reserve", "interest-rates", "polymarket"]
-polymarketYes: 0.5
-polymarketNo: 99.5
-polymarketVolume: 906156
+polymarketYes: 0.7
+polymarketNo: 99.3
+polymarketVolume: 912167
 polymarketUrl: "https://polymarket.com/event/fed-rate-cut-by-march-2026-meeting"
-analysisDate: 2026-03-14
 ---
 
 The market is pricing in virtually zero chance of a rate cut by March 2026, reflecting overwhelming trader conviction that the Federal Reserve will maintain or increase rates through the next two years amid persistent inflation concerns.

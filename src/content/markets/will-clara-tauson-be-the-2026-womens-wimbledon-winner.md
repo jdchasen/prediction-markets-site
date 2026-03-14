@@ -3,7 +3,7 @@ title: "Will Clara Tauson be the 2026 Women’s Wimbledon Winner?"
 description: "Will Clara Tauson be the 2026 Women’s Wimbledon Winner? Odds: 1.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Clara Tauson be the 2026 Women’s Wimbledon Winner?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-14
 expiryDate: 2026-07-12
 tags: ["politics", "polymarket"]

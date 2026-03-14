@@ -9,9 +9,8 @@ expiryDate: 2026-05-20
 tags: ["politics", "polymarket"]
 polymarketYes: 0.9
 polymarketNo: 99.1
-polymarketVolume: 9582
+polymarketVolume: 9679
 polymarketUrl: "https://polymarket.com/event/will-rizo-velovic-win-survivor-season-50"
-analysisDate: 2026-03-14
 ---
 
 # Rizo Velovic Survivor Season 50 Analysis

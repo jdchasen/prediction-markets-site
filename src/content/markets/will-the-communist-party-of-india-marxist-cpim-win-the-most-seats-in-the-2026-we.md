@@ -11,7 +11,6 @@ polymarketYes: 0.1
 polymarketNo: 99.9
 polymarketVolume: 9270
 polymarketUrl: "https://polymarket.com/event/will-the-communist-party-of-india-marxist-cpim-win-the-most-seats-in-the-2026-west-bengal-legislative-assembly-election-145"
-analysisDate: 2026-03-14
 ---
 
 # CPI(M)'s Near-Zero Odds in 2026 West Bengal Election Reflect Historical Decline and Regional Consolidation

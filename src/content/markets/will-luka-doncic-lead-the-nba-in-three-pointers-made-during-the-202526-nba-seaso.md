@@ -3,7 +3,7 @@ title: "Will Luka Doncic lead the NBA in three pointers made during the 2025–2
 description: "Will Luka Doncic lead the NBA in three pointers made during the 2025–26 NBA season? Odds: 55.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Luka Doncic lead the NBA in three pointers made during the 2025–26 NBA season?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-14
 expiryDate: 2026-04-12
 tags: ["polymarket", "sports"]

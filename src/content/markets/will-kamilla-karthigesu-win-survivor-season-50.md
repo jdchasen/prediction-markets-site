@@ -3,7 +3,7 @@ title: "Will Kamilla Karthigesu win Survivor Season 50?"
 description: "Will Kamilla Karthigesu win Survivor Season 50? Odds: 1.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Kamilla Karthigesu win Survivor Season 50?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-14
 expiryDate: 2026-05-20
 tags: ["politics", "polymarket"]

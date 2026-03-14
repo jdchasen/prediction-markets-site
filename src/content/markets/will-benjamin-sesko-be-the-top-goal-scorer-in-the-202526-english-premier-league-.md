@@ -11,7 +11,6 @@ polymarketYes: 0.2
 polymarketNo: 99.8
 polymarketVolume: 9886
 polymarketUrl: "https://polymarket.com/event/will-benjamin-sesko-be-the-top-goal-scorer-in-the-202526-english-premier-league-season"
-analysisDate: 2026-03-14
 ---
 
 Benjamin Sesko's odds of winning the Premier League's Golden Boot in 2025-26 sit at 0.2%, reflecting widespread skepticism about the RB Leipzig forward's likelihood of leading England's top division in goals despite his potential move to a Premier League club. This market matters now because Sesko's transfer destination and timing will determine whether he even competes in this race, making the next few weeks critical to reassess his viability as a contender.

@@ -1,17 +1,16 @@
 ---
 title: "Gustavo Petro out as leader of Colombia by June 30?"
-description: "Gustavo Petro out as leader of Colombia by June 30? Odds: 2.2% YES on Polymarket. See live prices and trade this market."
+description: "Gustavo Petro out as leader of Colombia by June 30? Odds: 1.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Gustavo Petro out as leader of Colombia by June 30?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-03-14
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
-polymarketYes: 2.2
-polymarketNo: 97.8
-polymarketVolume: 98869
+polymarketYes: 1.9
+polymarketNo: 98.0
+polymarketVolume: 99217
 polymarketUrl: "https://polymarket.com/event/gustavo-petro-out-as-leader-of-colombia-by-june-30"
-analysisDate: 2026-03-14
 ---
 
 The market shows extreme confidence that Colombian President Gustavo Petro will remain in power through mid-2026, with traders assigning only a 2.2% probability to his removal—a reflection of Colombia's constitutional stability despite ongoing political turbulence surrounding his administration.

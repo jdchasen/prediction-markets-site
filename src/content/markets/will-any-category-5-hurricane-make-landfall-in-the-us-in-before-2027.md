@@ -11,7 +11,6 @@ polymarketYes: 17.0
 polymarketNo: 83.0
 polymarketVolume: 96340
 polymarketUrl: "https://polymarket.com/event/will-any-category-5-hurricane-make-landfall-in-the-us-in-before-2027"
-analysisDate: 2026-03-14
 ---
 
 # Category 5 Hurricane Landfall Analysis

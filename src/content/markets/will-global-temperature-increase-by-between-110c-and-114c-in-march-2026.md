@@ -3,7 +3,7 @@ title: "Will global temperature increase by between 1.10ºC and 1.14ºC in March
 description: "Will global temperature increase by between 1.10ºC and 1.14ºC in March 2026? Odds: 18.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will global temperature increase by between 1.10ºC and 1.14ºC in March 2026?"
 category: "science"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-14
 expiryDate: 2026-04-10
 tags: ["polymarket", "science", "weather"]

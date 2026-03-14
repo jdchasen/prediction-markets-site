@@ -9,9 +9,8 @@ expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
 polymarketYes: 48.5
 polymarketNo: 51.5
-polymarketVolume: 971042
+polymarketVolume: 978178
 polymarketUrl: "https://polymarket.com/event/2026-balance-of-power-d-senate-d-house-949"
-analysisDate: 2026-03-14
 ---
 
 Democrats hold a near-even 48.5% chance of controlling both chambers after the 2026 midterms, reflecting historical headwinds for the party holding the White House but also significant structural advantages in the upcoming Senate map.

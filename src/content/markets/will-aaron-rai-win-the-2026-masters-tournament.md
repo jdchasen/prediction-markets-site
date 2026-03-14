@@ -9,9 +9,8 @@ expiryDate: 2026-04-13
 tags: ["ai", "polymarket", "sports"]
 polymarketYes: 0.4
 polymarketNo: 99.7
-polymarketVolume: 97960
+polymarketVolume: 98264
 polymarketUrl: "https://polymarket.com/event/will-aaron-rai-win-the-2026-masters-tournament"
-analysisDate: 2026-03-14
 ---
 
 The market prices Aaron Rai as an extreme longshot for the 2026 Masters at just 0.4%, reflecting his current status as a solid but unspectacular professional golfer without a major championship profile. This matters because Rai, a consistent performer on the European Tour with multiple wins, represents the type of mid-tier talent that occasionally breaks through in golf's unpredictable major championship environment.

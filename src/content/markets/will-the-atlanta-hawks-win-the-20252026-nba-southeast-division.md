@@ -1,17 +1,16 @@
 ---
 title: "Will the Atlanta Hawks win the 2025–2026 NBA Southeast Division?"
-description: "Will the Atlanta Hawks win the 2025–2026 NBA Southeast Division? Odds: 13.4% YES on Polymarket. See live prices and trade this market."
+description: "Will the Atlanta Hawks win the 2025–2026 NBA Southeast Division? Odds: 13.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Atlanta Hawks win the 2025–2026 NBA Southeast Division?"
 category: "sports"
 status: "active"
 lastUpdated: 2026-03-14
 expiryDate: 2026-04-12
 tags: ["polymarket", "sports"]
-polymarketYes: 13.4
-polymarketNo: 86.7
-polymarketVolume: 96814
+polymarketYes: 13.7
+polymarketNo: 86.3
+polymarketVolume: 96887
 polymarketUrl: "https://polymarket.com/event/nba-2025-26-southeast-division-winner-atlanta-hawks"
-analysisDate: 2026-03-14
 ---
 
 # Atlanta Hawks 2025–2026 Southeast Division Outlook

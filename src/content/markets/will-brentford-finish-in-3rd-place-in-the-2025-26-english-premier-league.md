@@ -1,17 +1,16 @@
 ---
 title: "Will Brentford finish in 3rd place in the 2025-26 English Premier League?"
-description: "Will Brentford finish in 3rd place in the 2025-26 English Premier League? Odds: 1.6% YES on Polymarket. See live prices and trade this market."
+description: "Will Brentford finish in 3rd place in the 2025-26 English Premier League? Odds: 1.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Brentford finish in 3rd place in the 2025-26 English Premier League?"
 category: "sports"
 status: "active"
 lastUpdated: 2026-03-14
 expiryDate: 2026-05-27
 tags: ["polymarket", "sports"]
-polymarketYes: 1.6
-polymarketNo: 98.5
-polymarketVolume: 9809
+polymarketYes: 1.1
+polymarketNo: 98.9
+polymarketVolume: 9874
 polymarketUrl: "https://polymarket.com/event/will-brentford-finish-in-3rd-place-in-the-2025-26-english-premier-league"
-analysisDate: 2026-03-14
 ---
 
 # Brentford 3rd Place 2025-26 Analysis
