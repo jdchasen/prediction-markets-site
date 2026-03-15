@@ -3,8 +3,8 @@ title: "Iran x Israel/US conflict ends by December 31?"
 description: "Iran x Israel/US conflict ends by December 31? Odds: 83.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Iran x Israel/US conflict ends by December 31?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-14
+status: "settled"
+lastUpdated: 2026-03-15
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket", "sports"]
 polymarketYes: 83.5

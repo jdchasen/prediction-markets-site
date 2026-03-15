@@ -4,14 +4,13 @@ description: "Will Juan Carlos Pinzón win the 1st round of the 2026 Colombian p
 marketQuestion: "Will Juan Carlos Pinzón win the 1st round of the 2026 Colombian presidential election?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-03-14
+lastUpdated: 2026-03-15
 expiryDate: 2026-05-31
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.4
 polymarketNo: 99.6
-polymarketVolume: 9621
+polymarketVolume: 9661
 polymarketUrl: "https://polymarket.com/event/will-juan-carlos-pinzn-win-the-1st-round-of-the-2026-colombian-presidential-election"
-analysisDate: 2026-03-14
 ---
 
 Juan Carlos Pinzón, the former defense minister and current senator, is priced at near-zero viability for advancing past Colombia's first-round presidential vote in May 2026, suggesting markets view him as a fringe candidate despite his security credentials and political resume. This pricing matters because Pinzón represents one of the few viable right-of-center alternatives to Álvaro Uribe's political machine, and any shift in his viability could reshape how traders assess the fragmented Colombian opposition.

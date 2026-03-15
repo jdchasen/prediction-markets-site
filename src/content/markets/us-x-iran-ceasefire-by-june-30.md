@@ -1,17 +1,16 @@
 ---
 title: "US x Iran ceasefire by June 30?"
-description: "US x Iran ceasefire by June 30? Odds: 57.5% YES on Polymarket. See live prices and trade this market."
+description: "US x Iran ceasefire by June 30? Odds: 59.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "US x Iran ceasefire by June 30?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-03-14
+lastUpdated: 2026-03-15
 expiryDate: 2026-05-31
 tags: ["politics", "polymarket"]
-polymarketYes: 57.5
-polymarketNo: 42.5
-polymarketVolume: 970479
+polymarketYes: 59.0
+polymarketNo: 41.0
+polymarketVolume: 990065
 polymarketUrl: "https://polymarket.com/event/us-x-iran-ceasefire-by-june-30-752"
-analysisDate: 2026-03-14
 ---
 
 The market pricing a ceasefire between the United States and Iran at nearly 60% probability by June 2025 reflects cautious optimism that escalating tensions can be diplomatically resolved, a significant indicator given the strategic implications for Middle East stability and global energy markets.

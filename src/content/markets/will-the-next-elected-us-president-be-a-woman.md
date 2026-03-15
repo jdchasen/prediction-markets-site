@@ -1,17 +1,16 @@
 ---
 title: "Will the next elected US president be a woman?"
-description: "Will the next elected US president be a woman? Odds: 18.5% YES on Polymarket. See live prices and trade this market."
+description: "Will the next elected US president be a woman? Odds: 22.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the next elected US president be a woman?"
 category: "politics"
-status: "settled"
-lastUpdated: 2026-03-14
+status: "active"
+lastUpdated: 2026-03-15
 expiryDate: 2028-11-07
 tags: ["politics", "polymarket"]
-polymarketYes: 18.5
-polymarketNo: 81.5
-polymarketVolume: 9566
+polymarketYes: 22.0
+polymarketNo: 78.0
+polymarketVolume: 9632
 polymarketUrl: "https://polymarket.com/event/will-the-next-elected-us-president-be-a-woman"
-analysisDate: 2026-03-14
 ---
 
 # Female Presidential Candidate Market Analysis

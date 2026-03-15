@@ -4,14 +4,13 @@ description: "Will Ed Sheeran have the second-greatest number of monthly Spotify
 marketQuestion: "Will Ed Sheeran have the second-greatest number of monthly Spotify listeners this month?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-03-14
+lastUpdated: 2026-03-15
 expiryDate: 2026-03-31
 tags: ["politics", "polymarket"]
 polymarketYes: 0.1
 polymarketNo: 99.9
 polymarketVolume: 9616
 polymarketUrl: "https://polymarket.com/event/will-ed-sheeran-have-the-second-greatest-number-of-monthly-spotify-listeners-this-month"
-analysisDate: 2026-03-14
 ---
 
 # Analysis

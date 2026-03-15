@@ -3,8 +3,8 @@ title: "Will the Communist Party of India (Marxist) (CPI(M)) win the most seats 
 description: "Will the Communist Party of India (Marxist) (CPI(M)) win the most seats in the 2026 West Bengal Legislative Assembly election? Odds: 0.1% YES on Polymarket. ..."
 marketQuestion: "Will the Communist Party of India (Marxist) (CPI(M)) win the most seats in the 2026 West Bengal Legislative Assembly election?"
 category: "economics"
-status: "active"
-lastUpdated: 2026-03-14
+status: "settled"
+lastUpdated: 2026-03-15
 expiryDate: 2026-05-07
 tags: ["economics", "elections", "polymarket"]
 polymarketYes: 0.1

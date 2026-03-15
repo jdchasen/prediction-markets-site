@@ -3,8 +3,8 @@ title: "Spread: Grizzlies (-1.5)"
 description: "Spread: Grizzlies (-1.5) Odds: 22.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Spread: Grizzlies (-1.5)"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-14
+status: "settled"
+lastUpdated: 2026-03-15
 expiryDate: 2026-03-18
 tags: ["politics", "polymarket"]
 polymarketYes: 22.5

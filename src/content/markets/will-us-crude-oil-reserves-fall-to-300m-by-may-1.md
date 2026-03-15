@@ -3,8 +3,8 @@ title: "Will US crude oil reserves fall to 300M by May 1?"
 description: "Will US crude oil reserves fall to 300M by May 1? Odds: 16.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will US crude oil reserves fall to 300M by May 1?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-14
+status: "settled"
+lastUpdated: 2026-03-15
 expiryDate: 2026-05-01
 tags: ["politics", "polymarket"]
 polymarketYes: 16.0

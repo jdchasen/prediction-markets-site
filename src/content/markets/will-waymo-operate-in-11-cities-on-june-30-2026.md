@@ -1,17 +1,16 @@
 ---
 title: "Will Waymo operate in 11 cities on June 30 2026?"
-description: "Will Waymo operate in 11 cities on June 30 2026? Odds: 26.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Waymo operate in 11 cities on June 30 2026? Odds: 26.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Waymo operate in 11 cities on June 30 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-03-14
+lastUpdated: 2026-03-15
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
-polymarketYes: 26.5
-polymarketNo: 73.5
+polymarketYes: 26.0
+polymarketNo: 74.0
 polymarketVolume: 9656
 polymarketUrl: "https://polymarket.com/event/will-waymo-operate-in-11-cities-on-june-30-2026"
-analysisDate: 2026-03-14
 ---
 
 # Waymo 11-City Expansion by Mid-2026: What 26.5% Odds Tell Us

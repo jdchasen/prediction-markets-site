@@ -3,8 +3,8 @@ title: "Will Enrique Valderrama win the 2026 Peruvian presidential election?"
 description: "Will Enrique Valderrama win the 2026 Peruvian presidential election? Odds: 0.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Enrique Valderrama win the 2026 Peruvian presidential election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-14
+status: "settled"
+lastUpdated: 2026-03-15
 expiryDate: 2026-04-12
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.4

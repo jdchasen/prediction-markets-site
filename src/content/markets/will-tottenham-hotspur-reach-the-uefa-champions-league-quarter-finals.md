@@ -3,8 +3,8 @@ title: "Will Tottenham Hotspur reach the UEFA Champions League quarter-finals?"
 description: "Will Tottenham Hotspur reach the UEFA Champions League quarter-finals? Odds: 4.6% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Tottenham Hotspur reach the UEFA Champions League quarter-finals?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-03-14
+status: "settled"
+lastUpdated: 2026-03-15
 expiryDate: 2026-04-16
 tags: ["polymarket", "sports"]
 polymarketYes: 4.6

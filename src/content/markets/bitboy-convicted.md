@@ -1,17 +1,16 @@
 ---
 title: "BitBoy convicted?"
-description: "BitBoy convicted? Odds: 17.5% YES on Polymarket. See live prices and trade this market."
+description: "BitBoy convicted? Odds: 18.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "BitBoy convicted?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-03-14
+lastUpdated: 2026-03-15
 expiryDate: 2026-03-31
 tags: ["politics", "polymarket"]
-polymarketYes: 17.5
-polymarketNo: 82.5
-polymarketVolume: 97322
+polymarketYes: 18.2
+polymarketNo: 81.8
+polymarketVolume: 99971
 polymarketUrl: "https://polymarket.com/event/bitboy-convicted"
-analysisDate: 2026-03-14
 ---
 
 # BitBoy Conviction Market Analysis

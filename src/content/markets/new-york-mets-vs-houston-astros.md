@@ -3,8 +3,8 @@ title: "New York Mets vs. Houston Astros"
 description: "New York Mets vs. Houston Astros Odds: 46.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "New York Mets vs. Houston Astros"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-14
+status: "settled"
+lastUpdated: 2026-03-15
 expiryDate: 2026-03-21
 tags: ["politics", "polymarket"]
 polymarketYes: 46.5

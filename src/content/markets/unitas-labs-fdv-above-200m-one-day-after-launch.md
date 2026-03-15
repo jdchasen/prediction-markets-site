@@ -3,8 +3,8 @@ title: "Unitas Labs FDV above $200M one day after launch?"
 description: "Unitas Labs FDV above $200M one day after launch? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Unitas Labs FDV above $200M one day after launch?"
 category: "crypto"
-status: "active"
-lastUpdated: 2026-03-14
+status: "settled"
+lastUpdated: 2026-03-15
 expiryDate: 2028-01-01
 tags: ["crypto", "polymarket"]
 polymarketYes: 0.1

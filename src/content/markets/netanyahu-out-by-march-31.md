@@ -1,17 +1,16 @@
 ---
 title: "Netanyahu out by March 31?"
-description: "Netanyahu out by March 31? Odds: 7.5% YES on Polymarket. See live prices and trade this market."
+description: "Netanyahu out by March 31? Odds: 5.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Netanyahu out by March 31?"
 category: "politics"
-status: "settled"
-lastUpdated: 2026-03-09
+status: "active"
+lastUpdated: 2026-03-15
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 7.5
-polymarketNo: 92.5
-polymarketVolume: 9604
+polymarketYes: 5.9
+polymarketNo: 94.2
+polymarketVolume: 9921897
 polymarketUrl: "https://polymarket.com/event/netanyahu-out-by-march-31-854"
-analysisDate: 2026-03-08
 ---
 
 # Netanyahu Out by March 31, 2026: Market Analysis

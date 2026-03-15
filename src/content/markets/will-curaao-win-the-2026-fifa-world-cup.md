@@ -4,14 +4,13 @@ description: "Will Curaçao win the 2026 FIFA World Cup? Odds: 0.1% YES on Polym
 marketQuestion: "Will Curaçao win the 2026 FIFA World Cup?"
 category: "sports"
 status: "active"
-lastUpdated: 2026-03-14
+lastUpdated: 2026-03-15
 expiryDate: 2026-07-20
 tags: ["polymarket", "sports"]
 polymarketYes: 0.1
 polymarketNo: 99.9
-polymarketVolume: 9843069
+polymarketVolume: 9880243
 polymarketUrl: "https://polymarket.com/event/will-curaao-win-the-2026-fifa-world-cup"
-analysisDate: 2026-03-14
 ---
 
 The Curaçao World Cup market sits at essentially zero probability, reflecting the Caribbean nation's extreme long-shot status in a tournament they have minimal realistic chance of winning. This matters as a test case for how prediction markets price truly unlikely sporting events versus absolute impossibilities.

@@ -1,17 +1,16 @@
 ---
 title: "Will Russia enter Druzkhivka by June 30?"
-description: "Will Russia enter Druzkhivka by June 30? Odds: 24.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Russia enter Druzkhivka by June 30? Odds: 25.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Russia enter Druzkhivka by June 30?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-03-14
+lastUpdated: 2026-03-15
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
-polymarketYes: 24.5
-polymarketNo: 75.5
-polymarketVolume: 97955
+polymarketYes: 25.5
+polymarketNo: 74.5
+polymarketVolume: 97988
 polymarketUrl: "https://polymarket.com/event/will-russia-enter-druzkhivka-by-june-30-933-897"
-analysisDate: 2026-03-14
 ---
 
 The market pricing Russian forces capturing Druzkhivka at roughly 1-in-4 odds by mid-2025 reflects uncertainty about the pace of Russian advances in Ukraine's Donbas region, where the town sits in Donetsk Oblast near current front lines. This matters as Druzkhivka (also spelled Druzhkivka) lies west of the key cities of Kramatorsk and Sloviansk, meaning its capture would signal a significant Russian breakthrough beyond current grinding positional warfare.

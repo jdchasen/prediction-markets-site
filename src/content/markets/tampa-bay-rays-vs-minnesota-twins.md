@@ -3,8 +3,8 @@ title: "Tampa Bay Rays vs. Minnesota Twins"
 description: "Tampa Bay Rays vs. Minnesota Twins Odds: 99.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Tampa Bay Rays vs. Minnesota Twins"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-14
+status: "settled"
+lastUpdated: 2026-03-15
 expiryDate: 2026-03-21
 tags: ["politics", "polymarket"]
 polymarketYes: 99.9

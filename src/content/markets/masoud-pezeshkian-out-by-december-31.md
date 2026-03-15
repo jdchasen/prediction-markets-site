@@ -1,53 +1,54 @@
 ---
 title: "Masoud Pezeshkian out by December 31?"
-description: "Masoud Pezeshkian out by December 31? Odds: 45.5% YES on Polymarket. See live prices and trade this market."
+description: "Masoud Pezeshkian out by December 31? Odds: 40.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Masoud Pezeshkian out by December 31?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-03-14
+lastUpdated: 2026-03-15
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 45.5
-polymarketNo: 54.5
-polymarketVolume: 98036
+polymarketYes: 40.0
+polymarketNo: 60.0
+polymarketVolume: 98423
 polymarketUrl: "https://polymarket.com/event/masoud-pezeshkian-out-by-december-31"
+analysisDate: 2026-03-15
 ---
 
-# Analysis: Pezeshkian's Political Survival Through 2026
+# Masoud Pezeshkian Exit Market Analysis
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 44.5% | 55.5% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 40.0% | 60.0% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The market is pricing in roughly a 45-55 split on whether Iran's president completes his term, reflecting genuine uncertainty about his political durability in a system where the supreme leader holds ultimate authority. This matters because Pezeshkian's removal would signal major shifts in Iran's domestic power dynamics or international posture, with potential implications for nuclear negotiations, regional policy, and factional balance within the Iranian regime.
+The 40% probability that Iran's president leaves office before 2027 reflects genuine uncertainty about his political survival, but leans toward continuity given institutional constraints that make mid-term presidential removal extremely unlikely in Iran's system. This market matters because Pezeshkian's fate carries implications for Iran's nuclear negotiations, regional posture, and internal reformist-hardliner dynamics heading into 2026 legislative elections. The odds suggest traders price in health crises, impeachment, or voluntary resignation as low-probability events despite recent tensions within Iran's fractious political establishment.
 
-The bull case for removal centers on Pezeshkian's vulnerability as a reformist operating in a hardline-dominated system. He won election in 2024 on promises of engagement and economic relief, but faces institutional headwinds: the Guardian Council (dominated by conservatives) can block legislation, the IRGC constrains foreign policy, and parliament has become increasingly hardline following 2024 elections. Economic underperformance—inflation remains above 40% despite his reformist platform—could erode his political capital. A major geopolitical escalation (Israeli strikes on nuclear facilities, for example) could trigger a palace coup or constitutional crisis that forces him out. The 2026 midterm parliamentary elections and potential shifts in factional alignments create additional pressure points.
+The bull case for exit rests on three mechanisms: first, Pezeshkian's documented health vulnerabilities (he survived two heart attacks before becoming president), creating genuine tail risk over a 24-month window; second, the constitutional impeachment route, which requires parliamentary majority and has been weaponized in Iran's factional wars, particularly if hardliners gain seats in the 2026 Majlis elections scheduled for February 2026; third, the possibility of voluntary resignation if his reform agenda faces complete obstruction. The February 2026 legislative elections represent the key catalyst—if hardliners capture parliament, they could manufacture impeachment charges over nuclear negotiation failures or economic management. Additionally, any major escalation with Israel (assassination of key figures, military strikes) could destabilize his position or trigger unexpected exits.
 
-The bear case argues Pezeshkian has proven more durable than expected despite constraints. Supreme Leader Khamenei selected him as the acceptable reformist candidate in 2024, suggesting tacit approval for his term. Iran's constitutional and procedural barriers to presidential removal are high—impeachment requires parliamentary supermajority support unlikely given mixed factional composition. Most importantly, early removal would signal regime instability to the outside world and domestic audiences, creating incentive for even hardliners to avoid that optics cost. Barring severe economic collapse or war, the path of least resistance is allowing him to serve through 2026.
+The bear case dominates because Iran's system rarely removes sitting presidents through formal mechanisms; the last impeachment attempt (Ahmadinejad's allies, 2011) failed despite parliamentary majority. Pezeshkian controls substantial patronage networks and maintains backing from Supreme Leader Khamenei, who has shown no sign of withdrawing support. Constitutional terms in Iran run full courses absent extraordinary circumstances. Health risks, while real, haven't materialized into acute crises during his first 16 months in office. Voluntary resignation is historically unprecedented for Iranian presidents facing normal political friction. The 40% odds likely overweight low-base-rate scenarios.
 
-Key catalysts to monitor: nuclear diplomacy breakthroughs or breakdowns (early 2025), the implementation phase of his economic reforms and inflation trajectory (ongoing), the 2026 parliamentary midterms in March, and any geopolitical escalation with Israel or the US. Watch for statements from Khamenei about Pezeshkian's performance and factional positioning within clerical circles. If inflation drops noticeably or negotiations produce sanctions relief, removal odds should compress downward. If economic conditions worsen or regional conflict intensifies, expect repricing toward higher removal probability.
+Traders should monitor: (1) any health incidents or hospitalization reports, (2) hardliner rhetoric escalating toward impeachment frameworks in autumn 2025 ahead of the February 2026 elections, (3) nuclear negotiation breakdowns that hardliners could weaponize politically, and (4) statements from Khamenei's office regarding confidence in Pezeshkian's leadership. The legislative elections themselves will be the true turning point—a hardliner supermajority would dramatically raise removal odds, while reformist gains would cement his position through 2026. Current odds appear fairly calibrated around base institutional resistance to mid-term removal, with modest premium for health and factional warfare scenarios.
 
 ## Related Markets
 
-- [Will Mark Kelly win the 2028 Democratic presidential nomination?](/odds/will-mark-kelly-win-the-2028-democratic-presidential-nomination) — 3% YES
-- [Will the Iranian regime fall before 2027?](/odds/will-the-iranian-regime-fall-before-2027) — 34% YES
+- [Netanyahu out by March 31?](/odds/netanyahu-out-by-march-31) — 6% YES
+- [Will the Iranian regime fall before 2027?](/odds/will-the-iranian-regime-fall-before-2027) — 38% YES
 - [Will Robert F. Kennedy Jr. win the 2028 Republican presidential nomination?](/odds/will-robert-f-kennedy-jr-win-the-2028-republican-presidential-nomination) — 1% YES
 
 ## Frequently Asked Questions
 
-### How much does Pezeshkian's control over government implementation actually matter given the supreme leader's authority?
+### What does "out" specifically mean in this contract—does resignation count equally with removal or death?
 
-Significantly—while Khamenei holds veto power, Pezeshkian controls executive agencies and budget allocation, making his ability to deliver on economic promises crucial to his political survival; failure here accelerates factional pressure for his removal.
+Standard prediction market language for "out by date" includes death, removal through impeachment, voluntary resignation, or any mechanism ending his presidency before the deadline, with all treated as equivalent YES outcomes.
 
-### If a major military conflict erupts between Iran and Israel in 2025, does that increase or decrease removal probability?
+### Could the February 2026 Majlis elections realistically trigger Pezeshkian's removal within that year?
 
-It cuts both ways: war could rally around the president (rally effect) or expose him as weak on security, but the timing and outcome matter enormously; an Israeli strike on nuclear facilities paired with perceived weak retaliation would create removal momentum.
+Yes—if hardliners secure supermajority control, they'd have both motive and mechanism to pursue impeachment in 2026, making the post-election period critical to watch, though historical precedent for successful mid-term impeachment remains very weak.
 
-### What would a removal actually look like procedurally in the Iranian system?
+### How much does Pezeshkian's documented health history actually move these odds versus pure political risk?
 
-The most likely mechanisms are parliamentary impeachment (requires 124 of 290 votes), a constitutional crisis orchestrated by hardliners, or Khamenei's direct intervention citing incompetence; outright resignation is unlikely absent extreme pressure.
+Health risk likely accounts for roughly 15-20% of the 40
 

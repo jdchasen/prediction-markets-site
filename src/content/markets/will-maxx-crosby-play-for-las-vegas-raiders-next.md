@@ -1,53 +1,54 @@
 ---
 title: "Will Maxx Crosby play for Las Vegas Raiders next?"
-description: "Will Maxx Crosby play for Las Vegas Raiders next? Odds: 80.0% YES on Polymarket. See live prices and trade this market."
+description: "Will Maxx Crosby play for Las Vegas Raiders next? Odds: 81.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Maxx Crosby play for Las Vegas Raiders next?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-03-14
+lastUpdated: 2026-03-15
 expiryDate: 2026-09-01
 tags: ["ai", "politics", "polymarket"]
-polymarketYes: 80.0
-polymarketNo: 20.0
-polymarketVolume: 9751
+polymarketYes: 81.2
+polymarketNo: 18.8
+polymarketVolume: 9758
 polymarketUrl: "https://polymarket.com/event/will-maxx-crosby-play-for-las-vegas-raiders-next"
+analysisDate: 2026-03-15
 ---
 
-# Maxx Crosby's Future with the Las Vegas Raiders
+# Maxx Crosby Raiders Market Analysis
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 78.5% | 21.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 81.2% | 18.8% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The market is pricing in a 78.5% probability that defensive end Maxx Crosby remains with the Raiders through the 2026 season, reflecting confidence in his long-term tenure despite the team's recent instability. This matters now because the Raiders are in a critical rebuilding phase following multiple coaching and management changes, and Crosby represents one of their few established defensive anchors—his retention signals organizational commitment and affects franchise direction through September 2026.
+The current 81.2% YES probability reflects strong market confidence that defensive end Maxx Crosby will remain with Las Vegas through the 2026 season, though this odds level may not fully account for the volatility inherent in NFL roster decisions over a multi-year window. This market matters now because Crosby is entering the final year of his current contract (expiring after 2025), making the upcoming offseason a critical juncture for both player and franchise negotiations. The September 2026 expiration gives traders roughly 18 months to watch how contract talks develop and whether the Raiders commit to their defensive anchor or pivot toward a rebuild scenario.
 
-The bull case for Crosby staying relies on several factors: he's signed through 2026 with a reasonable contract, he's entering his prime years as a pass rusher (age 26-27 during the expiry window), and trading him would represent another destabilizing move for a franchise already dealing with the fallout from the Antonio Pierce hiring and ongoing quarterback uncertainty. The Raiders have minimal salary cap incentive to move him before 2026, and defensive continuity matters when rebuilding. Conversely, the bear case hinges on potential trade value maximization—if the Raiders enter a competitive window and need cap relief, or if a new regime (post-2025 coaching search) views restructuring the defense as priority, Crosby becomes tradeable. Team instability could also accelerate a rebuild timeline that results in moving veterans.
+The bull case for continued Crosby-Raiders alignment rests on several factors: Crosby is a foundational defensive talent and three-time Pro Bowler who commands top-tier compensation, making him valuable trade bait only if the Raiders explicitly tank; the organization has already invested significantly in him and typically shows loyalty to proven edge rushers; and the team's 2025 season performance may not be dire enough to trigger a fire sale. If the Raiders win 6+ games in 2025, expect renewed contract discussions favoring retention. The bear case centers on potential rebuild dynamics if Las Vegas finishes bottom-5 in the AFC West again—the Raiders could trade Crosby mid-2025 or let him walk in free agency to accumulate draft capital. Additionally, if a new head coach or general manager arrives post-2024, they might deprioritize Crosby's premium salary in favor of younger defensive prospects.
 
-Key catalysts to monitor include the 2025 NFL Draft (April), where the Raiders' defensive philosophy will become clearer, and the 2026 offseason when the next coaching evaluation cycle begins. Contract restructuring discussions typically occur in March of each year, which will signal the organization's commitment level. The Raiders' quarterback situation—whether they draft, trade for, or develop a prospect—significantly impacts defense budgeting and could trigger roster moves by mid-2025.
+Key catalysts to monitor: the Raiders' 2024-2025 win-loss record (critical for determining organizational direction by January 2025), any coaching changes announced before free agency opens (mid-March 2025), and contract extension talks that typically heat up during the NFL draft period (late April 2025). If the Raiders extend Crosby before June 2025, this resolves firmly YES; conversely, if they trade him by the deadline or he hits unrestricted free agency with the team showing no interest, odds should collapse toward 15-20% within weeks of that announcement.
 
 ## Related Markets
 
-- [Will Mark Kelly win the 2028 Democratic presidential nomination?](/odds/will-mark-kelly-win-the-2028-democratic-presidential-nomination) — 3% YES
-- [Will the Iranian regime fall before 2027?](/odds/will-the-iranian-regime-fall-before-2027) — 34% YES
+- [Netanyahu out by March 31?](/odds/netanyahu-out-by-march-31) — 6% YES
+- [Will the Iranian regime fall before 2027?](/odds/will-the-iranian-regime-fall-before-2027) — 38% YES
 - [Will Robert F. Kennedy Jr. win the 2028 Republican presidential nomination?](/odds/will-robert-f-kennedy-jr-win-the-2028-republican-presidential-nomination) — 1% YES
 
 ## Frequently Asked Questions
 
-### What would cause the odds to shift materially lower before September 2026?
+### What happens if the Raiders trade Maxx Crosby to another team before his contract expires?
 
-A trade announcement, contract restructuring that signals financial distress, or a coaching change that specifically targets defensive overhaul would immediately crush YES odds, as would public reporting about teams inquiring on Crosby.
+The market resolves NO, as he would no longer be playing for Las Vegas, regardless of when the trade occurs before September 2026.
 
-### Why does this market expire in 2026 rather than at the next deadline or trade deadline?
+### Does a contract extension before the 2025 season begins essentially lock in a YES resolution?
 
-The September 2026 date captures the full roster uncertainty through two offseasons and one complete coaching cycle, making it more meaningful than single-season windows that don't account for cumulative organizational change.
+Yes—a multi-year extension would make a YES outcome highly probable unless a catastrophic injury or dramatic policy shift occurs, as teams rarely trade recently extended players.
 
-### Could the Raiders' draft class or free agency moves this offseason inform Crosby's likelihood of staying?
+### If Crosby hits unrestricted free agency in March 2026, can he re-sign with the Raiders and still count as YES?
 
-Yes—if the Raiders invest heavily in pass rush depth through the 2025 draft or free agency, it suggests confidence in defensive direction and makes Crosby more likely to stay; conversely, defensive neglect could indicate a pivot toward trading veterans.
+Yes, re-signing with Las Vegas as a free agent still satisfies the "play for Las Vegas" condition through the September 2026 expiry date.
 
 ## Learn More
 

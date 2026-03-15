@@ -3,8 +3,8 @@ title: "Will White House post 100-119 posts from March 17 to March 24, 2026?"
 description: "Will White House post 100-119 posts from March 17 to March 24, 2026? Odds: 17.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will White House post 100-119 posts from March 17 to March 24, 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-14
+status: "settled"
+lastUpdated: 2026-03-15
 expiryDate: 2026-03-24
 tags: ["politics", "polymarket"]
 polymarketYes: 17.5

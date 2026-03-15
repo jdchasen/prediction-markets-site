@@ -4,14 +4,13 @@ description: "Will Bryce Reeves be the Republican nominee for Senate in Virginia
 marketQuestion: "Will Bryce Reeves be the Republican nominee for Senate in Virginia?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-03-14
+lastUpdated: 2026-03-15
 expiryDate: 2026-06-16
 tags: ["politics", "polymarket"]
 polymarketYes: 0.5
 polymarketNo: 99.5
-polymarketVolume: 9819
+polymarketVolume: 9843
 polymarketUrl: "https://polymarket.com/event/will-bryce-reeves-be-the-republican-nominee-for-senate-in-virginia"
-analysisDate: 2026-03-14
 ---
 
 # Bryce Reeves Virginia Senate Nomination Analysis

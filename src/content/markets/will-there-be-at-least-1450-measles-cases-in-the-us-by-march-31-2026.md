@@ -1,55 +1,56 @@
 ---
 title: "Will there be at least 1450 measles cases in the U.S. by March 31, 2026?"
-description: "Will there be at least 1450 measles cases in the U.S. by March 31, 2026? Odds: 98.5% YES on Polymarket. See live prices and trade this market."
+description: "Will there be at least 1450 measles cases in the U.S. by March 31, 2026? Odds: 98.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will there be at least 1450 measles cases in the U.S. by March 31, 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-03-14
+lastUpdated: 2026-03-15
 expiryDate: 2026-03-31
 tags: ["politics", "polymarket"]
-polymarketYes: 98.5
-polymarketNo: 1.6
-polymarketVolume: 9743
+polymarketYes: 98.9
+polymarketNo: 1.1
+polymarketVolume: 9792
 polymarketUrl: "https://polymarket.com/event/will-there-be-at-least-1450-measles-cases-in-the-us-by-march-31-2026"
+analysisDate: 2026-03-15
 ---
 
-# Measles Cases Market Analysis
+# Measles Cases Prediction Analysis
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 98.4% | 1.7% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 98.9% | 1.1% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The market is pricing in overwhelming confidence that the U.S. will see at least 1,450 measles cases by next March, reflecting genuine epidemiological momentum rather than political speculation despite the "politics" categorization. This threshold matters because 1,450 cases would mark a significant outbreak by modern U.S. standards—we've averaged far fewer cases annually over the past decade, making this prediction hinge on whether declining vaccination rates and clustering in undervaccinated communities will accelerate disease spread. The near-98% pricing suggests traders view this as nearly certain, but the market may be underweighting seasonal and policy intervention factors.
+The market is pricing in near-certainty that the U.S. will exceed 1,450 measles cases by next spring, reflecting genuine epidemiological concern rather than speculative excess. This threshold matters because 1,450 cases would represent the largest outbreak since measles elimination was declared in 2000, making it a meaningful public health inflection point. The 98.9% probability suggests traders see substantial structural factors already in motion rather than contingent on unlikely future events.
 
-The bull case rests on measurable declines in U.S. vaccination coverage, particularly MMR immunization rates dropping below 95% in numerous states and pockets of hesitancy concentrated in specific regions. Recent years have already seen measles cluster outbreaks (2019 saw 1,282 cases), and each cycle becomes easier to trigger as regional immunity thresholds erode. The 14-month window provides sufficient time for a winter outbreak cycle (measles peaks seasonally in winter/spring), and no major legislative or public health interventions are currently mandated to reverse vaccination trends. Anti-vaccine political movements have sustained momentum through 2024-2025, with no imminent federal mandates or enforcement actions scheduled.
+The bull case rests on declining vaccination rates among specific demographics and the persistence of undervaccinated clusters that measles can exploit rapidly. The U.S. already recorded 272 cases in 2024, and pockets like Rockland County, New York have shown how quickly outbreaks escalate in low-immunity communities. Anti-vaccine sentiment has hardened post-COVID, with some states seeing MMR vaccination rates drop below 90% for school-aged children—the threshold epidemiologists flag as concerning. Additionally, international travel from endemic regions creates repeated seeding opportunities, particularly during winter months (peak measles transmission season extends through Q1 2026). If even one major outbreak reaches a vulnerable community between now and March 2026, the trajectory to 1,450+ cases becomes highly probable.
 
-The bear case argues that 1,450 cases represents a relatively modest threshold that requires only a moderate outbreak, not a major epidemic—the U.S. still maintains 92-94% MMR coverage nationally, preventing truly explosive spread. State health departments have rapid response protocols, and measles' visibility as a threat keeps some preventive pressure alive. Additionally, winter 2025-26 could see behavioral changes (increased vaccination uptake ahead of known risk periods) or unexpected policy shifts if a new administration prioritizes public health. The market may be anchoring too heavily on worst-case trajectories without accounting for natural immune system effects and vaccination catch-up campaigns.
+The bear case hinges on the assumption that heightened awareness from recent outbreaks will trigger reactive vaccination campaigns before March 2026. Public health agencies have response infrastructure that can mobilize quickly; the 2019 New York outbreak prompted aggressive catch-up vaccination that contained spread. Measles also remains symptomatic and recognizable, enabling faster isolation compared to respiratory viruses—healthcare providers are now alert to measles mimics. If vaccination rates stabilize even slightly in key counties, or if winter 2025-26 sees lower-than-expected international introductions, case counts could plateau below 1,450 by the deadline.
 
-Key catalysts to monitor include CDC vaccination coverage reports (typically released mid-year), any measles clusters that emerge in fall 2025, school enrollment season (which reveals vaccination exemptions), and January 2026 legislative sessions where vaccine mandate rollbacks or defenses may emerge. Watch for measles cases in winter 2025-26; if fewer than 300-400 cases appear by January, the threshold becomes less likely. Political dynamics matter indirectly—state-level regulatory changes around vaccine exemptions, happening now in state legislatures, will determine immunity landscape heading into spring 2026.
+Traders should monitor CDC weekly surveillance reports (released Fridays) for outbreak cluster formations through fall 2025 and into early 2026. State vaccination data releases, particularly from low-MMR-uptake states like Wyoming and Mississippi, will offer real-time signals on immunity gaps. Any major outbreaks announced by February 2026 would likely push this market even higher, while evidence of coordinated public health vaccination pushes in vulnerable areas could create meaningful downside. The market's current pricing assumes measles dynamics continue on current trajectory—disruptions to that baseline will move probabilities substantially.
 
 ## Related Markets
 
-- [Will Mark Kelly win the 2028 Democratic presidential nomination?](/odds/will-mark-kelly-win-the-2028-democratic-presidential-nomination) — 3% YES
-- [Will the Iranian regime fall before 2027?](/odds/will-the-iranian-regime-fall-before-2027) — 34% YES
+- [Netanyahu out by March 31?](/odds/netanyahu-out-by-march-31) — 6% YES
+- [Will the Iranian regime fall before 2027?](/odds/will-the-iranian-regime-fall-before-2027) — 38% YES
 - [Will Robert F. Kennedy Jr. win the 2028 Republican presidential nomination?](/odds/will-robert-f-kennedy-jr-win-the-2028-republican-presidential-nomination) — 1% YES
 
 ## Frequently Asked Questions
 
-### Why is this market categorized as "politics" when measles is primarily a public health issue?
+### What vaccination rate threshold would need to be breached to make the bear case viable?
 
-Vaccination policy has become explicitly politicized in the U.S., with anti-vaccine movements aligned with specific political constituencies and state-level policies increasingly dependent on political orientation, making case projections dependent on political momentum and regulatory choices.
+Epidemiologists generally flag sub-90% MMR vaccination coverage as enabling rapid measles transmission; the U.S. average is around 92%, but dozens of counties fall well below this. Measurable increases back above 93% in currently vulnerable clusters would meaningfully reduce outbreak risk.
 
-### What specific measles threshold does the 1,450 case target represent compared to historical norms?
+### How many measles cases were reported in 2024, and does that trajectory alone get us to 1,450 by March 2026?
 
-This target sits between typical recent years (200-500 cases annually) and the 2019 cluster peak (1,282 cases), making it achievable through one moderate regional outbreak or several simultaneous clusters rather than a nationwide epidemic.
+The U.S. recorded approximately 272 cases in 2024. Linear extrapolation would fall short, but measles outbreak dynamics are non-linear—one major cluster in an undervaccinated area can trigger hundreds of cases in weeks, making 1,450 plausible even without sustained high case rates throughout 2025.
 
-### Could a major measles case surge emerge and then resolve before March 31, 2026, affecting whether this market resolves YES?
+### Which upcoming public health reporting deadlines or vaccination campaign announcements could shift this market?
 
-Yes—if a winter 2025-26 outbreak peaks in January-February with 1,500+ cases but mostly resolves by March, the March 31 cumulative total would still resolve YES despite the outbreak being contained, meaning
+CDC's annual vaccination coverage report (typically released in September) and state-level MMR data releases in fall 2025 will be critical; any announced major public vaccination campaigns or new outbreak
 
 ## Learn More
 

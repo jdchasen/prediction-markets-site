@@ -3,8 +3,8 @@ title: "Will Clavicular get frame mogged by Gorlock the Destroyer on stream duri
 description: "Will Clavicular get frame mogged by Gorlock the Destroyer on stream during Mog World Order? Odds: 46.0% YES on Polymarket. See live prices and trade this mar..."
 marketQuestion: "Will Clavicular get frame mogged by Gorlock the Destroyer on stream during Mog World Order?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-14
+status: "settled"
+lastUpdated: 2026-03-15
 expiryDate: 2026-04-13
 tags: ["politics", "polymarket"]
 polymarketYes: 46.0
