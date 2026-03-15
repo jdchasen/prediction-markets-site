@@ -70,7 +70,7 @@ def generate_dalle_image(prompt: str, name: str) -> str | None:
         response = client.images.generate(
             model="dall-e-3",
             prompt=prompt,
-            size="1024x1024",
+            size="1024x1792",
             quality="standard",
             n=1,
         )
@@ -133,15 +133,13 @@ def generate_kids_facts(category: str, num_facts: int = 3) -> dict:
     today = date.today().isoformat()
 
     system = (
-        "You are a kids educator creating short-form video scripts "
-        "for YouTube Shorts. Your audience is kids aged 8-12. "
-        "Keep facts accurate and age-appropriate. Use simple words an 8-year-old can understand. "
+        "You are a kids educator creating ultra-short YouTube Shorts (under 15 seconds). "
+        "Your audience is kids aged 8-12. Create ONE mind-blowing fact with a surprising bonus detail. "
+        "Keep it accurate and age-appropriate. Use simple words an 8-year-old can understand. "
         "NEVER use filler phrases like 'How cool is that!', 'That's amazing!', 'Can you believe it?', "
         "'Isn't that wild?'. Every sentence must teach something new. "
-        "Move fast — each fact voiceover should add a bonus detail or context, not just restate the on-screen text. "
-        "Put the MOST mind-blowing fact FIRST. It's the hook — if it doesn't make a kid say 'WAIT WHAT?!' it belongs later. "
-        "For the FIRST fact's voiceover, start with a dramatic STATEMENT of the fact. "
-        "NO 'Did you know', 'Get ready', 'Here's something', or any other warm-up. Just state the amazing thing."
+        "Start with a dramatic STATEMENT of the fact — NO warm-up phrases. "
+        "The voiceover should be 2-3 sentences, 25-35 words total."
     )
 
     prompt = f"""Create {num_facts} amazing "Did You Know?" facts about: {category}
@@ -149,11 +147,11 @@ def generate_kids_facts(category: str, num_facts: int = 3) -> dict:
 For each fact, provide:
 1. A short, punchy on-screen text (max 15 words)
 2. An emoji that represents the fact
-3. A voiceover script (2 sentences, spoken naturally to a kid). Each sentence must add NEW information — no filler, no reactions, no restating the on-screen text. Keep each fact voiceover 15-18 words.
-4. A dallePrompt — a simple, clean prompt for DALL-E 3 to generate a cartoon illustration. Follow these rules EXACTLY:
-   - Start with: "Simple 3D cartoon illustration of"
+3. A voiceover script (2-3 sentences, 25-30 words). Each sentence must add NEW information — give a bonus detail or surprising context. More depth on each fact.
+4. A dallePrompt — a simple, clean prompt for DALL-E 3 to generate a full-screen cartoon illustration. Follow these rules EXACTLY:
+   - Start with: "Vibrant 3D cartoon illustration of"
    - Describe ONE single subject (one animal, one planet, one object) — never multiple
-   - End with: "Solid pastel background. No text, no words, no letters, no numbers."
+   - End with: "Colorful pastel background, portrait orientation, centered composition. No text, no words, no letters, no numbers."
    - Keep it SHORT (under 25 words). Less detail = better results.
    - NEVER ask for comparisons, size references, or multiple objects side by side
    - NEVER mention "Earth for scale" or "surrounded by" — DALL-E duplicates objects
@@ -183,11 +181,11 @@ OUTPUT FORMAT — respond with ONLY valid JSON, no markdown code fences:
       "factText": "Short on-screen fact text",
       "emoji": "relevant emoji",
       "voiceover": "Spoken version for TTS — 2-3 sentences, enthusiastic and fun",
-      "dallePrompt": "Simple 3D cartoon illustration of a friendly smiling [subject]. Solid pastel background. No text, no words, no letters, no numbers."
+      "dallePrompt": "Vibrant 3D cartoon illustration of a friendly smiling [subject]. Colorful pastel background, portrait orientation, centered composition. No text, no words, no letters, no numbers."
     }}
   ],
-  "ctaLine": "FOLLOW FOR MORE!",
-  "voiceover": "Fact 1 voiceover\\n\\nFact 2 voiceover\\n\\nFact 3 voiceover\\n\\nCTA paragraph"
+  "ctaLine": "WHICH ONE SURPRISED YOU?",
+  "voiceover": "Fact voiceover\\n\\nEngagement question CTA"
 }}
 
 IMPORTANT:
@@ -195,9 +193,9 @@ IMPORTANT:
 - The FIRST fact's voiceover must start with a dramatic STATEMENT — NO "Did you know", "Get ready", "Here's something". Just state the amazing thing directly.
 - voiceover MUST have exactly {num_facts + 1} paragraphs separated by \\n\\n
   ({num_facts} facts + 1 CTA). NO hook paragraph — the first fact IS the hook.
-- CTA paragraph: 1 short sentence (under 6 words), e.g. "Follow for more facts!"
-- The full voiceover should be ~55-65 words total (~22-26 seconds spoken). This is critical — videos over 30s lose viewers.
-- dallePrompt MUST follow the exact format: "Simple 3D cartoon illustration of [ONE subject]. Solid pastel background. No text, no words, no letters, no numbers."
+- CTA paragraph: 1 short engagement question (under 8 words), e.g. "Which one surprised you? Comment below!"
+- The full voiceover should be ~30-40 words total (~12-16 seconds spoken). This is critical — shorter videos loop better and get more views.
+- dallePrompt MUST follow the exact format: "Vibrant 3D cartoon illustration of [ONE subject]. Colorful pastel background, portrait orientation, centered composition. No text, no words, no letters, no numbers."
 - ONE subject only — never two objects, never comparisons, never "surrounded by"
 - Under 25 words total. Simpler = better."""
 
@@ -255,7 +253,7 @@ def main():
 
     parser = argparse.ArgumentParser(description="Generate kids 'Did You Know?' video data")
     parser.add_argument("category", help="Topic category (e.g., Animals, Space, Dinosaurs)")
-    parser.add_argument("--facts", type=int, default=3, help="Number of facts (default: 3)")
+    parser.add_argument("--facts", type=int, default=1, help="Number of facts (default: 1)")
     parser.add_argument("--no-images", action="store_true", help="Skip DALL-E image generation")
     parser.add_argument("--render", action="store_true", help="Also render the video after generating data")
     args = parser.parse_args()

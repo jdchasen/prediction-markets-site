@@ -53,6 +53,12 @@ except ImportError:
     print("Error: anthropic package not installed. Run: pip install anthropic")
     sys.exit(1)
 
+try:
+    from openai import OpenAI
+except ImportError:
+    print("Warning: openai package not installed. DALL-E images will be skipped.")
+    OpenAI = None  # type: ignore
+
 OUTPUT_DIR = Path(__file__).parent.parent / "video" / "data"
 IMAGE_DIR = Path(__file__).parent.parent / "video" / "public" / "images" / "truecrime"
 USED_CASES_FILE = Path(__file__).parent / "truecrime_used_cases.json"
@@ -125,39 +131,50 @@ def pick_category(explicit: str | None = None) -> str:
     return random.choices(categories, weights=weights, k=1)[0]
 
 
-def fetch_wikipedia_image(query: str, name: str) -> str | None:
-    """Fetch a Wikipedia image for a topic and download it locally."""
+def generate_dalle_image(prompt: str, name: str) -> str | None:
+    """Generate a cinematic scene image via DALL-E 3 (portrait 1024x1792)."""
     IMAGE_DIR.mkdir(parents=True, exist_ok=True)
-    headers = {"User-Agent": "TrueCrimeBot/1.0"}
+
+    api_key = os.environ.get("OPENAI_API_KEY")
+    if not api_key:
+        print("    WARNING: OPENAI_API_KEY not set, skipping image generation")
+        return None
+
+    if OpenAI is None:
+        print("    WARNING: openai package not installed, skipping")
+        return None
+
+    safe_name = re.sub(r'[^a-z0-9]+', '-', name.lower()).strip('-')
+    filename = f"{safe_name}.png"
+    filepath = IMAGE_DIR / filename
+
+    if filepath.exists() and filepath.stat().st_size > 0:
+        print(f"    Image cached: {filename}")
+        return f"images/truecrime/{filename}"
 
     try:
-        title = query.replace(" ", "_")
-        url = f"https://en.wikipedia.org/api/rest_v1/page/summary/{title}"
-        resp = requests.get(url, headers=headers, timeout=10)
-        resp.raise_for_status()
-        data = resp.json()
-        img_url = data.get("originalimage", {}).get("source", "") or data.get("thumbnail", {}).get("source", "")
+        client = OpenAI(api_key=api_key)
+        response = client.images.generate(
+            model="dall-e-3",
+            prompt=prompt,
+            size="1024x1792",
+            quality="standard",
+            n=1,
+        )
 
-        if not img_url or ".svg" in img_url.lower():
-            return None
-
-        # Download
-        safe_name = re.sub(r'[^a-z0-9]+', '-', name.lower()).strip('-')
-        ext = ".png" if ".png" in img_url.lower() else ".jpg"
-        filename = f"{safe_name}{ext}"
-        filepath = IMAGE_DIR / filename
-
-        if filepath.exists() and filepath.stat().st_size > 0:
-            return f"images/truecrime/{filename}"
-
-        img_resp = requests.get(img_url, headers=headers, timeout=15)
+        image_url = response.data[0].url
+        img_resp = requests.get(image_url, timeout=30)
         img_resp.raise_for_status()
+
         with open(filepath, "wb") as f:
             f.write(img_resp.content)
 
+        size_kb = filepath.stat().st_size / 1024
+        print(f"    Generated: {filename} ({size_kb:.0f}KB)")
         return f"images/truecrime/{filename}"
+
     except Exception as e:
-        print(f"  WARNING: Wikipedia image failed for '{query}': {e}")
+        print(f"    WARNING: DALL-E generation failed for '{name}': {e}")
         return None
 
 
@@ -187,8 +204,9 @@ def generate_truecrime_json(
         "Tone: serious, measured, building tension. Like a Dateline narrator.\n"
         "Never sensationalize victims. Focus on facts, suspects, and timelines.\n"
         "Use precise language — dates, locations, evidence details.\n"
-        "NO filler phrases. NO 'shocking twist' or 'you won't believe'.\n"
-        "Let the facts speak for themselves.\n\n"
+        "NO filler phrases. Let the facts speak for themselves.\n"
+        "The hookLine (YouTube title) must be viscerally provocative. "
+        "The voiceover stays measured and factual — the title sells, the narration delivers.\n\n"
         "CRITICAL: Every case you mention must be a REAL case with verifiable facts. "
         "Do NOT fabricate or merge cases. Use real names, real dates, real locations."
     )
@@ -212,18 +230,34 @@ Each card needs:
   - "stat": Key number/fact for this beat (e.g. "Age 25", "Zero Witnesses", "Solved After 33 Years", "Still Unsolved")
   - "subtitle": One-line context for this chapter
   - "emoji": relevant emoji (🔍 🧬 ⚖️ 🚨 🔎 🏛️ 💀 🔬 👤 🩸 etc.)
-  - "imageQueries": list of 2-3 Wikipedia article titles to try for an inline image for THIS beat.
-    Each card should search for something relevant to its chapter:
-      Card 1 (victim): victim's full name, memorial/tribute page, their school/workplace
-      Card 2 (crime): the city or town, the street/neighborhood, a landmark near the scene
-      Card 3 (investigation): forensic technique used (e.g. "Genetic genealogy"), the police department or agency
-      Card 4 (resolution): perpetrator's full name (mugshots are public domain), the court case, the prison
-    Mugshots and public domain photos make the best images.
+  - "dallePrompt": a DALL-E 3 prompt for a cinematic, atmospheric background image.
+    Rules for dallePrompt:
+    - Style: "Cinematic dark photograph, [scene description]. Moody dramatic lighting, shallow depth of field."
+    - NEVER include people, faces, or bodies — only locations, objects, and atmosphere
+    - NEVER include text, words, letters, or numbers in the image
+    - Card 1 (victim): the location/setting where the victim lived or was last seen
+    - Card 2 (crime): the crime scene atmosphere — a dark road, empty room, evidence markers
+    - Card 3 (investigation): forensic/detective atmosphere — lab equipment, case files, evidence bags
+    - Card 4 (resolution): courtroom, prison exterior, or justice/freedom imagery
+    - Keep prompts under 80 words
+    - The image will be displayed full-screen at 1080x1920 portrait — compose vertically
 
 Top-level fields:
   - "caseId": unique identifier for tracking (e.g. "christy-mirack-1992-pa")
-  - "hookLine": cold open — the most dramatic moment of the case, under 10 words
-  - "ctaLine": "Follow for cases the mainstream forgot"
+  - "hookLine": the YouTube title — this determines whether anyone watches.
+    Rules for hookLine:
+    - Max 50 characters (Shorts truncate on mobile)
+    - Use ONE word in ALL CAPS for emphasis
+    - Must create visceral curiosity — an intimate, disturbing, or bizarre detail
+    - Pattern: [Specific human action/role] + [Shocking outcome]
+    - GOOD: "Her Killer KISSED Her Before Strangling Her"
+    - GOOD: "She Called 911. The Operator HUNG UP."
+    - GOOD: "A Nurse Vanished Inside Her Own HOSPITAL"
+    - BAD: "A wife vanished after a morning jog" (too passive, too generic)
+    - BAD: "Unsolved murder in rural town" (no human detail)
+    - Never start with "A man" or "A woman" — use a specific role (teacher, nurse, mother)
+    - Must make someone physically unable to scroll past
+  - "ctaLine": "WHAT DO YOU THINK HAPPENED?"
   - "voiceover": the full narration (see structure below)
 
 VOICEOVER STRUCTURE — 6 paragraphs separated by \\n\\n:
@@ -232,7 +266,7 @@ VOICEOVER STRUCTURE — 6 paragraphs separated by \\n\\n:
   Paragraph 3: THE CRIME — 2 sentences max. Key facts only.
   Paragraph 4: THE INVESTIGATION — 1-2 sentences. The critical evidence or failure.
   Paragraph 5: THE RESOLUTION — 1-2 sentences. Land the twist or open question.
-  Paragraph 6: CTA — one sentence: "Follow Cold Trail for cases the mainstream forgot."
+  Paragraph 6: CTA — one short engagement question: "What do you think really happened? Comment below."
 
 RULES:
 1. Total voiceover: STRICTLY 110-130 words. This is CRITICAL — over 130 words makes the video too long.
@@ -258,31 +292,31 @@ OUTPUT FORMAT — respond with ONLY valid JSON, no markdown code fences:
       "stat": "Key Stat",
       "subtitle": "Context line",
       "emoji": "🔍",
-      "imageQueries": ["Victim Full Name", "Victim School or Workplace"]
+      "dallePrompt": "Cinematic dark photograph, [victim's setting]. Moody dramatic lighting, shallow depth of field."
     }},
     {{
       "title": "Chapter Title",
       "stat": "Key Stat",
       "subtitle": "Context line",
       "emoji": "🔍",
-      "imageQueries": ["City, State", "Neighborhood or Landmark"]
+      "dallePrompt": "Cinematic dark photograph, [crime scene atmosphere]. Moody dramatic lighting, shallow depth of field."
     }},
     {{
       "title": "Chapter Title",
       "stat": "Key Stat",
       "subtitle": "Context line",
       "emoji": "🔍",
-      "imageQueries": ["Forensic Technique", "Police Department"]
+      "dallePrompt": "Cinematic dark photograph, [investigation atmosphere]. Moody dramatic lighting, shallow depth of field."
     }},
     {{
       "title": "Chapter Title",
       "stat": "Key Stat",
       "subtitle": "Context line",
       "emoji": "🔍",
-      "imageQueries": ["Perpetrator Full Name", "Court Case Name"]
+      "dallePrompt": "Cinematic dark photograph, [resolution atmosphere]. Moody dramatic lighting, shallow depth of field."
     }}
   ],
-  "ctaLine": "Follow Cold Trail for cases the mainstream forgot",
+  "ctaLine": "WHAT DO YOU THINK HAPPENED?",
   "voiceover": "Hook paragraph\\n\\nVictim paragraph\\n\\nCrime paragraph\\n\\nInvestigation paragraph\\n\\nResolution paragraph\\n\\nCTA paragraph"
 }}
 
@@ -332,32 +366,26 @@ CRITICAL:
     return data
 
 
-def fetch_images_for_data(data: dict) -> dict:
-    """Fetch Wikipedia images for each card, trying multiple queries in priority order."""
-    print("\nFetching images...")
+def generate_card_images(data: dict) -> dict:
+    """Generate DALL-E 3 cinematic images for each card."""
+    print("\nGenerating DALL-E images...")
     case_id = data.get("caseId", "unknown")
     for i, card in enumerate(data.get("cards", [])):
-        queries = card.get("imageQueries", [])
-        if not queries:
-            print(f"  Card {i+1}: no image queries provided")
+        dalle_prompt = card.get("dallePrompt", "")
+        if not dalle_prompt:
+            print(f"  Card {i+1}: no dallePrompt, skipping")
             continue
 
-        found = False
-        for query in queries:
-            path = fetch_wikipedia_image(query, f"{case_id}-card-{i}-{query}")
-            if path:
-                card["backgroundImage"] = path
-                print(f"  Card {i+1}: {path} (from '{query}')")
-                found = True
-                break
-            else:
-                print(f"  Card {i+1}: no image for '{query}', trying next...")
+        name = f"{case_id}-card-{i}"
+        print(f"  Generating image {i + 1}/{len(data['cards'])}: {dalle_prompt[:80]}...")
+        path = generate_dalle_image(dalle_prompt, name)
+        if path:
+            card["backgroundImage"] = path
+        else:
+            print(f"  Card {i+1}: image generation failed")
 
-        if not found:
-            print(f"  Card {i+1}: no image found from any query")
-
-        # Remove imageQueries from output (not needed by renderer)
-        card.pop("imageQueries", None)
+        # Remove dallePrompt from output (not needed by renderer)
+        card.pop("dallePrompt", None)
     return data
 
 
@@ -374,6 +402,7 @@ def main():
     )
     parser.add_argument("--render", action="store_true", help="Also render the video")
     parser.add_argument("--dry-run", action="store_true", help="Print JSON, don't save")
+    parser.add_argument("--no-images", action="store_true", help="Skip DALL-E image generation")
     parser.add_argument("--list-used", action="store_true", help="List previously used cases")
     args = parser.parse_args()
 
@@ -410,9 +439,6 @@ def main():
     for i, card in enumerate(data["cards"]):
         print(f"    {i + 1}. {card.get('emoji', '🔍')} {card['title']} — {card['stat']}")
 
-    # Step 3: Fetch images
-    data = fetch_images_for_data(data)
-
     # Validate and show voiceover
     paragraphs = data["voiceover"].split("\n\n")
     word_count = len(data["voiceover"].split())
@@ -423,6 +449,17 @@ def main():
         print(f"\n  [DRY RUN] Generated data:")
         print(json.dumps(data, indent=2))
         return
+
+    # Step 3: Generate DALL-E images (unless --no-images)
+    if not args.no_images:
+        data = generate_card_images(data)
+        image_count = sum(1 for c in data["cards"] if c.get("backgroundImage"))
+        print(f"\n  Images generated: {image_count}/4")
+        print(f"  DALL-E cost: ${image_count * 0.06:.2f} ({image_count} × $0.06)")
+    else:
+        print("\nSkipping image generation (--no-images)")
+        for card in data["cards"]:
+            card.pop("dallePrompt", None)
 
     # Step 4: Save JSON
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)

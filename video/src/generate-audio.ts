@@ -19,7 +19,7 @@ export interface AudioResult {
   segmentTimings: SegmentTiming[];
 }
 
-export type VoiceProfile = "default" | "kids" | "truecrime" | "finance";
+export type VoiceProfile = "default" | "kids" | "truecrime" | "finance" | "braindrop" | "mindtrap" | "lostfiles" | "redacted";
 
 // Voice IDs
 const VOICE_ID_DEFAULT = "TxGEqnHWrfWFTfGW9XjX"; // Josh — male, young, fast-paced
@@ -39,13 +39,24 @@ function getVoiceConfig(profile: VoiceProfile) {
       },
     };
   }
-  if (profile === "truecrime") {
+  if (profile === "truecrime" || profile === "mindtrap" || profile === "lostfiles" || profile === "redacted") {
     return {
       voiceId: VOICE_ID_TRUECRIME,
       settings: {
         stability: 0.7,
         similarityBoost: 0.75,
         style: 0.4, // dramatic, measured delivery
+        useSpeakerBoost: true,
+      },
+    };
+  }
+  if (profile === "braindrop") {
+    return {
+      voiceId: VOICE_ID_DEFAULT,
+      settings: {
+        stability: 0.4,
+        similarityBoost: 0.75,
+        style: 0.3, // confident, energetic, faster pace
         useSpeakerBoost: true,
       },
     };

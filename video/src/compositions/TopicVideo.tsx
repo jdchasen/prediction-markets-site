@@ -11,7 +11,7 @@ import {
 import type { TopicVideoProps, SegmentTiming } from "../types";
 import { getChannelTheme } from "../themes";
 import { HookSlide } from "../components/HookSlide";
-import { TopicCard } from "../components/TopicCard";
+import { TopicCardCinematic } from "../components/TopicCardCinematic";
 import { TopicCTA } from "../components/TopicCTA";
 import { AnimatedCaption } from "../components/AnimatedCaption";
 import { GOOGLE_FONTS_CSS, HEADING_FONT } from "../styles/fonts";
@@ -44,27 +44,36 @@ function getSegmentFrames(
 const ThemedCaption: React.FC<{
   wordTimestamps: TopicVideoProps["wordTimestamps"];
   highlightColor: string;
-}> = ({ wordTimestamps, highlightColor }) => {
+  hookEndFrame: number;
+}> = ({ wordTimestamps, highlightColor, hookEndFrame }) => {
   const frame = useCurrentFrame();
   const { fps } = useVideoConfig();
 
   if (!wordTimestamps || wordTimestamps.length === 0) return null;
 
+  // Hide captions during hook slide — hook text IS the visual
+  if (frame < hookEndFrame) return null;
+
+  // Filter out all hook words so they never appear in caption chunks
+  const hookEndTime = hookEndFrame / fps;
+  const captionWords = wordTimestamps.filter((wt) => wt.startTime >= hookEndTime);
+  if (captionWords.length === 0) return null;
+
   const currentTime = frame / fps;
 
   let activeIndex = -1;
-  for (let i = 0; i < wordTimestamps.length; i++) {
+  for (let i = 0; i < captionWords.length; i++) {
     if (
-      currentTime >= wordTimestamps[i].startTime &&
-      currentTime < wordTimestamps[i].endTime
+      currentTime >= captionWords[i].startTime &&
+      currentTime < captionWords[i].endTime
     ) {
       activeIndex = i;
       break;
     }
     if (
-      i < wordTimestamps.length - 1 &&
-      currentTime >= wordTimestamps[i].endTime &&
-      currentTime < wordTimestamps[i + 1].startTime
+      i < captionWords.length - 1 &&
+      currentTime >= captionWords[i].endTime &&
+      currentTime < captionWords[i + 1].startTime
     ) {
       activeIndex = i;
       break;
@@ -73,18 +82,18 @@ const ThemedCaption: React.FC<{
 
   if (
     activeIndex === -1 &&
-    wordTimestamps.length > 0 &&
-    currentTime > wordTimestamps[wordTimestamps.length - 1].endTime
+    captionWords.length > 0 &&
+    currentTime > captionWords[captionWords.length - 1].endTime
   ) {
     return null;
   }
 
-  if (activeIndex === -1 && currentTime < wordTimestamps[0].startTime) {
+  if (activeIndex === -1 && currentTime < captionWords[0].startTime) {
     return null;
   }
 
   if (activeIndex === -1) {
-    activeIndex = wordTimestamps.length - 1;
+    activeIndex = captionWords.length - 1;
   }
 
   const WORDS_PER_CHUNK = 6;
@@ -92,11 +101,11 @@ const ThemedCaption: React.FC<{
   const chunkStart = chunkIndex * WORDS_PER_CHUNK;
   const chunkEnd = Math.min(
     chunkStart + WORDS_PER_CHUNK,
-    wordTimestamps.length
+    captionWords.length
   );
-  const visibleWords = wordTimestamps.slice(chunkStart, chunkEnd);
+  const visibleWords = captionWords.slice(chunkStart, chunkEnd);
 
-  const activeWord = wordTimestamps[activeIndex];
+  const activeWord = captionWords[activeIndex];
   const wordProgress =
     activeWord.endTime > activeWord.startTime
       ? (currentTime - activeWord.startTime) /
@@ -108,7 +117,7 @@ const ThemedCaption: React.FC<{
     <div
       style={{
         position: "absolute",
-        bottom: 180,
+        bottom: 700,
         left: 40,
         right: 40,
         display: "flex",
@@ -228,8 +237,31 @@ export const TopicVideo: React.FC<TopicVideoProps> = ({
     <AbsoluteFill>
       <link rel="stylesheet" href={GOOGLE_FONTS_CSS} />
 
-      {/* Audio track */}
+      {/* Voiceover audio track */}
       {audioSrc && <Audio src={staticFile(audioSrc)} />}
+
+      {/* Background music — ducks during voiceover, louder during transitions */}
+      {theme.musicTrack && (
+        <Audio
+          src={staticFile(theme.musicTrack)}
+          volume={(f) => {
+            const envelope = interpolate(
+              f,
+              [0, 15, durationInFrames - 45, durationInFrames],
+              [0, 1, 1, 0],
+              { extrapolateLeft: "clamp", extrapolateRight: "clamp" }
+            );
+            const isVoiceover = hasSegments && segmentTimings!.some((seg) => {
+              const segStart = Math.round(seg.startTime * fps);
+              const segEnd = Math.round(seg.endTime * fps);
+              return f >= segStart && f < segEnd;
+            });
+            const level = isVoiceover ? 0.06 : 0.15;
+            return envelope * level;
+          }}
+          loop
+        />
+      )}
 
       {/* Background — themed dark gradient */}
       <Sequence from={0} durationInFrames={durationInFrames}>
@@ -265,7 +297,7 @@ export const TopicVideo: React.FC<TopicVideoProps> = ({
             from={timing.from}
             durationInFrames={dur}
           >
-            <TopicCard
+            <TopicCardCinematic
               card={card}
               index={i}
               totalCards={cardCount}
@@ -299,9 +331,31 @@ export const TopicVideo: React.FC<TopicVideoProps> = ({
           <ThemedCaption
             wordTimestamps={wordTimestamps}
             highlightColor={theme.captionHighlight}
+            hookEndFrame={hookEnd}
           />
         </Sequence>
       )}
+
+      {/* === LOOP FADE — dark overlay for seamless loop === */}
+      {(() => {
+        const fadeOpacity = interpolate(
+          frame,
+          [durationInFrames - 10, durationInFrames],
+          [0, 0.4],
+          { extrapolateLeft: "clamp", extrapolateRight: "clamp" }
+        );
+        return fadeOpacity > 0 ? (
+          <div
+            style={{
+              position: "absolute",
+              inset: 0,
+              background: "black",
+              opacity: fadeOpacity,
+              pointerEvents: "none",
+            }}
+          />
+        ) : null;
+      })()}
     </AbsoluteFill>
   );
 };
