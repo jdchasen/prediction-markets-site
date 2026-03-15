@@ -1,17 +1,16 @@
 ---
 title: "Will Crude Oil (CL) hit (LOW) $35 by end of June?"
-description: "Will Crude Oil (CL) hit (LOW) $35 by end of June? Odds: 2.4% YES on Polymarket. See live prices and trade this market."
+description: "Will Crude Oil (CL) hit (LOW) $35 by end of June? Odds: 2.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Crude Oil (CL) hit (LOW) $35 by end of June?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-03-15
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
-polymarketYes: 2.4
-polymarketNo: 97.6
+polymarketYes: 2.5
+polymarketNo: 97.5
 polymarketVolume: 9572
 polymarketUrl: "https://polymarket.com/event/cl-hit-35-low-jun-2026-847"
-analysisDate: 2026-03-15
 ---
 
 # Crude Oil $35 Prediction Market Analysis

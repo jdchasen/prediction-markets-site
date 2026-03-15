@@ -3,7 +3,7 @@ title: "Will Collin Morikawa win the 2026 Masters tournament?"
 description: "Will Collin Morikawa win the 2026 Masters tournament? Odds: 2.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Collin Morikawa win the 2026 Masters tournament?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-15
 expiryDate: 2026-04-13
 tags: ["polymarket", "sports"]

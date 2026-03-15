@@ -8,9 +8,8 @@ lastUpdated: 2026-03-15
 tags: ["polymarket", "sports"]
 polymarketYes: 5.1
 polymarketNo: 95.0
-polymarketVolume: 99181
+polymarketVolume: 99256
 polymarketUrl: "https://polymarket.com/event/will-africa-win-the-2026-fifa-world-cup"
-analysisDate: 2026-03-15
 ---
 
 African teams have never advanced past the quarterfinals in World Cup history, making the 5% odds for continental victory in 2026 reflect both historical precedent and cautious optimism about the region's football trajectory.

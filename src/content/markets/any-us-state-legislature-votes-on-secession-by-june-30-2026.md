@@ -1,17 +1,16 @@
 ---
 title: "Any US state legislature votes on secession by June 30, 2026?"
-description: "Any US state legislature votes on secession by June 30, 2026? Odds: 5.8% YES on Polymarket. See live prices and trade this market."
+description: "Any US state legislature votes on secession by June 30, 2026? Odds: 5.6% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Any US state legislature votes on secession by June 30, 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-03-15
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
-polymarketYes: 5.8
-polymarketNo: 94.2
-polymarketVolume: 9607
+polymarketYes: 5.6
+polymarketNo: 94.4
+polymarketVolume: 9637
 polymarketUrl: "https://polymarket.com/event/any-us-state-legislature-votes-on-secession-by-june-30-2026"
-analysisDate: 2026-03-15
 ---
 
 # US State Legislature Secession Vote Analysis

@@ -9,9 +9,8 @@ expiryDate: 2026-04-12
 tags: ["polymarket", "sports"]
 polymarketYes: 0.2
 polymarketNo: 99.8
-polymarketVolume: 9654
+polymarketVolume: 9979
 polymarketUrl: "https://polymarket.com/event/nba-2025-26-rpg-leader-nic-claxton"
-analysisDate: 2026-03-15
 ---
 
 # Nic Claxton Rebound Leader Market Analysis

@@ -1,17 +1,16 @@
 ---
 title: "Will any Category 5 hurricane make landfall in the US in before 2027?"
-description: "Will any Category 5 hurricane make landfall in the US in before 2027? Odds: 16.5% YES on Polymarket. See live prices and trade this market."
+description: "Will any Category 5 hurricane make landfall in the US in before 2027? Odds: 15.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will any Category 5 hurricane make landfall in the US in before 2027?"
 category: "science"
 status: "active"
 lastUpdated: 2026-03-15
 expiryDate: 2026-12-31
 tags: ["polymarket", "science"]
-polymarketYes: 16.5
-polymarketNo: 83.5
-polymarketVolume: 96430
+polymarketYes: 15.5
+polymarketNo: 84.5
+polymarketVolume: 96497
 polymarketUrl: "https://polymarket.com/event/will-any-category-5-hurricane-make-landfall-in-the-us-in-before-2027"
-analysisDate: 2026-03-15
 ---
 
 This market prices the probability of catastrophic hurricane landfalls at roughly one in six over the next two years, reflecting genuine but historically uncommon risk during an active Atlantic hurricane cycle. The stakes matter for insurers, coastal property valuations, and disaster preparedness planning as we enter peak hurricane season (August-October) in both 2025 and 2026.

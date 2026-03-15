@@ -3,7 +3,7 @@ title: "Will Espanyol win the 2025–26 La Liga?"
 description: "Will Espanyol win the 2025–26 La Liga? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Espanyol win the 2025–26 La Liga?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-15
 expiryDate: 2026-05-30
 tags: ["politics", "polymarket"]

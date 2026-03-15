@@ -1,16 +1,15 @@
 ---
 title: "Will the Houston Rockets finish with the best record in the NBA?"
-description: "Will the Houston Rockets finish with the best record in the NBA? Odds: 0.3% YES on Polymarket. See live prices and trade this market."
+description: "Will the Houston Rockets finish with the best record in the NBA? Odds: 0.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Houston Rockets finish with the best record in the NBA?"
 category: "sports"
 status: "active"
 lastUpdated: 2026-03-15
 tags: ["polymarket", "sports"]
-polymarketYes: 0.3
-polymarketNo: 99.7
+polymarketYes: 0.2
+polymarketNo: 99.8
 polymarketVolume: 9838
 polymarketUrl: "https://polymarket.com/event/will-the-houston-rockets-finish-with-the-best-record-in-the-nba"
-analysisDate: 2026-03-15
 ---
 
 # Houston Rockets Best Record Analysis

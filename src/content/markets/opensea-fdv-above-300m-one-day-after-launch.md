@@ -1,17 +1,16 @@
 ---
 title: "Opensea FDV above $300M one day after launch?"
-description: "Opensea FDV above $300M one day after launch? Odds: 78.0% YES on Polymarket. See live prices and trade this market."
+description: "Opensea FDV above $300M one day after launch? Odds: 76.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Opensea FDV above $300M one day after launch?"
 category: "crypto"
 status: "active"
 lastUpdated: 2026-03-15
 expiryDate: 2027-01-01
 tags: ["crypto", "polymarket"]
-polymarketYes: 78.0
-polymarketNo: 22.0
-polymarketVolume: 9744
+polymarketYes: 76.5
+polymarketNo: 23.5
+polymarketVolume: 9764
 polymarketUrl: "https://polymarket.com/event/opensea-fdv-above-300m-one-day-after-launch-444-132"
-analysisDate: 2026-03-15
 ---
 
 # OpenSea FDV Above $300M Post-Launch Analysis

@@ -3,7 +3,7 @@ title: "Hersonissos 2: Maxim Mrva vs Toby Samuel"
 description: "Hersonissos 2: Maxim Mrva vs Toby Samuel Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Hersonissos 2: Maxim Mrva vs Toby Samuel"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-15
 expiryDate: 2026-03-22
 tags: ["politics", "polymarket"]

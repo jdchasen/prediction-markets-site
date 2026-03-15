@@ -1,17 +1,16 @@
 ---
 title: "Will AC Milan finish in the top 4 in the 2025-26 Serie A season?"
-description: "Will AC Milan finish in the top 4 in the 2025-26 Serie A season? Odds: 92.8% YES on Polymarket. See live prices and trade this market."
+description: "Will AC Milan finish in the top 4 in the 2025-26 Serie A season? Odds: 94.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will AC Milan finish in the top 4 in the 2025-26 Serie A season?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-03-15
 expiryDate: 2026-05-28
 tags: ["politics", "polymarket"]
-polymarketYes: 92.8
-polymarketNo: 7.1
-polymarketVolume: 9535
+polymarketYes: 94.2
+polymarketNo: 5.8
+polymarketVolume: 9536
 polymarketUrl: "https://polymarket.com/event/will-ac-milan-finish-in-the-top-4-in-the-2025-26-serie-a-season"
-analysisDate: 2026-03-15
 ---
 
 # AC Milan Top 4 Finish Analysis

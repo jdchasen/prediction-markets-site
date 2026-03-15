@@ -1,16 +1,17 @@
 ---
 title: "Tim Walz charged by December 31, 2026?"
-description: "Tim Walz charged by December 31, 2026? Odds: 19.0% YES on Polymarket. See live prices and trade this market."
+description: "Tim Walz charged by December 31, 2026? Odds: 20.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Tim Walz charged by December 31, 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-03-15
 expiryDate: 2026-03-31
 tags: ["politics", "polymarket"]
-polymarketYes: 19.0
-polymarketNo: 81.0
-polymarketVolume: 96769
+polymarketYes: 20.5
+polymarketNo: 79.5
+polymarketVolume: 96805
 polymarketUrl: "https://polymarket.com/event/tim-walz-charged-by-december-31-2026"
+analysisDate: 2026-03-15
 ---
 
 # Tim Walz Charged by December 31, 2026 Analysis
@@ -19,37 +20,37 @@ polymarketUrl: "https://polymarket.com/event/tim-walz-charged-by-december-31-202
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 17.5% | 82.5% | $97K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 20.5% | 79.5% | $97K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The market is pricing a roughly one-in-six chance that Minnesota Governor and current Vice President Tim Walz faces criminal charges within the next 14 months, reflecting significant uncertainty about potential legal exposure despite his ascent to national office. This matters now because the Trump administration has signaled aggressive prosecutorial priorities, and Walz's previous role as National Guard commander during 2020 civil unrest, combined with documented communications, creates potential vectors for federal investigation that weren't viable under the Biden DOJ.
+At 20.5% YES, traders are pricing in a meaningful but minority probability that Minnesota Governor and Vice President-elect Tim Walz faces criminal charges within roughly two years—a scenario that would require either a dramatic federal investigation or state-level prosecution to materialize. This market matters because Walz's political future and the Biden-Harris administration's stability could depend on whether investigations into his past conduct accelerate or stall. The relatively low odds suggest the market currently sees limited evidence of imminent charges, yet the non-trivial probability reflects awareness that political prosecutions can move quickly when political winds shift.
 
-The bull case rests on three concrete vulnerabilities: First, Trump's DOJ has shown willingness to prosecute political opponents, and Walz's handling of Minneapolis riots—particularly alleged suppression of National Guard deployment options and questionable communications with protest organizers—provides documented paper trails. Second, investigations into 2020 election-related events are expanding, and Walz testified before Congress; third-party litigation or discovery could expose new evidence. Third, the January 2025-December 2026 window encompasses aggressive Trump administration prosecutions of perceived enemies. The specific risk is charges under obstruction statutes or conspiracy laws tied to 2020 civil disorder response, which have lower evidentiary bars than direct criminal culpability.
+The bull case hinges on several potential catalysts. Congressional Republicans, particularly after 2024 midterm gains, could launch aggressive oversight investigations into Walz's tenure as Minnesota governor—specifically his handling of 2020 civil unrest, National Guard deployment decisions, or campaign finance practices. The House Judiciary Committee under new leadership might subpoena records or refer findings to the DOJ. Additionally, Minnesota state prosecutors or federal authorities could initiate inquiries into his gubernatorial conduct if new evidence surfaces. The timeline is tight but feasible: a criminal referral in 2025 could translate to charges by year-end 2026, especially if prosecutors move expeditiously. Recent precedent with other political figures shows charging decisions can happen within 12-18 months of investigation launch.
 
-The bear case is substantially stronger: Walz holds the Vice Presidency, creating enormous political costs and constitutional complications for prosecution. No credible evidence of actual criminal conduct exists in public reporting—controversial judgments during crisis management typically don't meet criminal thresholds. Federal prosecutors face heavy burden of proof standards, and partisan prosecutions of sitting VPs face severe institutional blowback. The current 17.5% odds already price in elevated baseline risk; additional evidence would need to emerge through formal investigations, and Republican prosecutors must weigh political sustainability of targeting the sitting VP against institutional legitimacy.
+The bear case, currently favored by markets, rests on the absence of any credible public allegations of criminal conduct directed at Walz specifically. Unlike predecessors caught in specific scandals, Walz has avoided major legal entanglements; his handling of the 2020 riots and pandemic lockdowns remain politically contentious but legally ambiguous. Federal prosecutors would need to identify concrete violations—conspiracy charges, abuse of power, or financial crimes—with evidentiary support. The Biden-Harris administration's DOJ has shown reluctance to prosecute sitting VPs or their predecessors aggressively, and a Democratic successor (if 2024 produces one) would have little incentive to pursue charges. By December 2026, many Republicans may have moved focus to 2028 campaign priorities rather than litigation.
 
-Key catalysts include any formal DOJ investigation announcements (unlikely before mid-2025 given current DOJ structure), civil litigation discovery from 2020 cases that generates criminal referrals, and congressional investigations if House majorities change in 2026. Traders should monitor federal grand jury activity reports, any statements from Trump's Justice Department regarding 2020 investigations, and developments in pending litigation related to 2020 civil unrest. The March 31, 2026 expiry is critically tight—most criminal charges take 6-18 months from investigation opening to indictment, meaning the investigation window is essentially closing soon.
+Traders should monitor congressional committee assignments in January 2025, any House Republicans requesting DOJ investigations into Walz's governorship, and media reporting on new evidence regarding 2020 civil unrest responses or National Guard decisions. Key watch dates include House committee hearings in Q1-Q2 2025 and any DOJ or state prosecutor statements about investigations. Political momentum matters enormously here—if Republicans win the presidency in 2024 and pursue aggressive use of DOJ authority against Democratic figures, odds should spike significantly. Conversely, if 2025 proceeds without Republican charges materializing against other Democratic officials, Walz's odds should contract.
 
 ## Related Markets
 
-- [US x Iran ceasefire by March 15?](/odds/us-x-iran-ceasefire-by-march-15) — 1% YES
 - [Will the Iranian regime fall before 2027?](/odds/will-the-iranian-regime-fall-before-2027) — 38% YES
 - [Will Robert F. Kennedy Jr. win the 2028 Republican presidential nomination?](/odds/will-robert-f-kennedy-jr-win-the-2028-republican-presidential-nomination) — 1% YES
+- [Will Alexandria Ocasio-Cortez win the 2028 US Presidential Election?](/odds/will-alexandria-ocasio-cortez-win-the-2028-us-presidential-election) — 5% YES
 
 ## Frequently Asked Questions
 
-### Why would Trump's DOJ prosecute its own Vice President rather than wait until after he leaves office?
+### What specific conduct would prosecutors need to identify to charge Walz?
 
-They likely wouldn't unless evidence emerged forcing their hand; the 17.5% odds reflect expectation of investigation discovery rather than intentional political prosecution. The real risk is that pre-existing investigations (inherited from previous administrations) uncover prosecutable conduct through normal investigative channels.
+Prosecutors would likely focus on National Guard deployment decisions during 2020 unrest, potential abuse of gubernatorial power, campaign finance violations, or civil rights violations—though no such investigation has been publicly reported to date.
 
-### Could civil litigation related to 2020 Minneapolis events trigger criminal referrals to DOJ?
+### Does Walz's vice presidency shield him from prosecution during his term?
 
-Yes—discovery in Floyd family litigation or civil rights cases against Walz's administration could surface communications or evidence that DOJ determines meets criminal thresholds, which is a more legally defensible prosecution pathway than direct political charges.
+Vice presidents lack absolute immunity and can face criminal charges, though prosecuting a sitting VP would be extraordinary and politically explosive; state-level charges in Minnesota would face fewer obstacles than federal prosecution.
 
-### What would need to happen for this probability to spike significantly higher before the March 2026 deadline?
+### Why is the expiry date March 31, 2026, if the prediction asks about December 31, 2026?
 
-A formal grand jury empanelment, investigative subpoenas becoming public, or DOJ announcing it's reviewing Walz's 2020 conduct would all substantially increase odds. The current timeline makes charging by year-end 2026 difficult unless investigation machinery is already in motion.
+This appears to be a data error in the market structure—the expiry predates
 
 ## Learn More
 

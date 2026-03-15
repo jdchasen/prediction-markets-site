@@ -3,7 +3,7 @@ title: "Will Manchester United finish in 3rd place in the 2025-26 English Premie
 description: "Will Manchester United finish in 3rd place in the 2025-26 English Premier League? Odds: 40.6% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Manchester United finish in 3rd place in the 2025-26 English Premier League?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-15
 expiryDate: 2026-05-27
 tags: ["polymarket", "sports"]

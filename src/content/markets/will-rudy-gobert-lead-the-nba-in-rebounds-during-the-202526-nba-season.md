@@ -3,7 +3,7 @@ title: "Will Rudy Gobert lead the NBA in rebounds during the 2025–26 NBA seaso
 description: "Will Rudy Gobert lead the NBA in rebounds during the 2025–26 NBA season? Odds: 1.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Rudy Gobert lead the NBA in rebounds during the 2025–26 NBA season?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-15
 expiryDate: 2026-04-12
 tags: ["polymarket", "sports"]

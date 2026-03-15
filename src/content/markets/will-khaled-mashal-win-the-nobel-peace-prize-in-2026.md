@@ -9,9 +9,8 @@ expiryDate: 2026-10-10
 tags: ["politics", "polymarket"]
 polymarketYes: 0.4
 polymarketNo: 99.6
-polymarketVolume: 95403
+polymarketVolume: 98233
 polymarketUrl: "https://polymarket.com/event/will-khaled-mashal-win-the-nobel-peace-prize-in-2026-787"
-analysisDate: 2026-03-15
 ---
 
 # Khaled Mashal Nobel Peace Prize 2026 Market Analysis

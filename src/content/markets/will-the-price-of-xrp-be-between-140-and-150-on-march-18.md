@@ -3,7 +3,7 @@ title: "Will the price of XRP be between $1.40 and $1.50 on March 18?"
 description: "Will the price of XRP be between $1.40 and $1.50 on March 18? Odds: 33.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the price of XRP be between $1.40 and $1.50 on March 18?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-15
 expiryDate: 2026-03-18
 tags: ["politics", "polymarket"]

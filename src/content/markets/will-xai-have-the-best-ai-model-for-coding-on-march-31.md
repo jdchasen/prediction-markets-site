@@ -3,7 +3,7 @@ title: "Will xAI have the best AI model for coding on March 31?"
 description: "Will xAI have the best AI model for coding on March 31? Odds: 0.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will xAI have the best AI model for coding on March 31?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-15
 expiryDate: 2026-03-31
 tags: ["ai", "politics", "polymarket"]

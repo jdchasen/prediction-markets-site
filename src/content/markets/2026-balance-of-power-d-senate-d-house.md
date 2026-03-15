@@ -9,9 +9,8 @@ expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
 polymarketYes: 47.5
 polymarketNo: 52.5
-polymarketVolume: 983200
+polymarketVolume: 984371
 polymarketUrl: "https://polymarket.com/event/2026-balance-of-power-d-senate-d-house-949"
-analysisDate: 2026-03-15
 ---
 
 The market pricing Democratic control of both chambers at 47.5% reflects significant uncertainty about whether Democrats can defend their Senate map while simultaneously flipping the House in 2026, a challenging dual objective that requires both successful defense and offense.

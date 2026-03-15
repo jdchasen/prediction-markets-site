@@ -3,7 +3,7 @@ title: "Will Bilibili Gaming win First Stand 2026?"
 description: "Will Bilibili Gaming win First Stand 2026? Odds: 18.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Bilibili Gaming win First Stand 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-15
 expiryDate: 2026-03-22
 tags: ["politics", "polymarket"]

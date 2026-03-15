@@ -1,17 +1,16 @@
 ---
 title: "Will Ann Diener win the Alaska Senate race in 2026?"
-description: "Will Ann Diener win the Alaska Senate race in 2026? Odds: 0.8% YES on Polymarket. See live prices and trade this market."
+description: "Will Ann Diener win the Alaska Senate race in 2026? Odds: 1.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Ann Diener win the Alaska Senate race in 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-03-15
 expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
-polymarketYes: 0.8
-polymarketNo: 99.2
+polymarketYes: 1.1
+polymarketNo: 98.9
 polymarketVolume: 9571
 polymarketUrl: "https://polymarket.com/event/will-ann-diener-win-the-alaska-senate-race-in-2026"
-analysisDate: 2026-03-15
 ---
 
 # Alaska Senate 2026: Ann Diener's Longshot Bid

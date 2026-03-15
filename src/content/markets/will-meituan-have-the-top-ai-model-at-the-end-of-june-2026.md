@@ -9,9 +9,8 @@ expiryDate: 2026-06-30
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 2.6
 polymarketNo: 97.4
-polymarketVolume: 95871
+polymarketVolume: 95957
 polymarketUrl: "https://polymarket.com/event/will-meituan-have-the-top-ai-model-at-the-end-of-june-2026"
-analysisDate: 2026-03-15
 ---
 
 Meituan's chances of achieving top AI model status by June 2026 are currently priced near floor levels at under 3%, reflecting deep skepticism that a company primarily known for food delivery and local services can outpace established AI leaders like OpenAI, Anthropic, Google, and Chinese competitors Baidu and ByteDance within two years.

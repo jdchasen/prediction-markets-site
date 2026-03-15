@@ -1,17 +1,16 @@
 ---
 title: "Will Jeff Merkley be the Democratic nominee for Senate in Oregon?"
-description: "Will Jeff Merkley be the Democratic nominee for Senate in Oregon? Odds: 98.2% YES on Polymarket. See live prices and trade this market."
+description: "Will Jeff Merkley be the Democratic nominee for Senate in Oregon? Odds: 98.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Jeff Merkley be the Democratic nominee for Senate in Oregon?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-03-15
 expiryDate: 2026-05-19
 tags: ["politics", "polymarket"]
-polymarketYes: 98.2
-polymarketNo: 1.8
-polymarketVolume: 9826
+polymarketYes: 98.9
+polymarketNo: 1.1
+polymarketVolume: 9843
 polymarketUrl: "https://polymarket.com/event/will-jeff-merkley-be-the-democratic-nominee-for-senate-in-oregon"
-analysisDate: 2026-03-15
 ---
 
 # Jeff Merkley's 2026 Oregon Senate Nomination: A Near-Certain Outcome

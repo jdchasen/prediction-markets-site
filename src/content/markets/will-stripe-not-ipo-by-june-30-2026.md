@@ -1,17 +1,16 @@
 ---
 title: "Will Stripe not IPO by June 30, 2026?"
-description: "Will Stripe not IPO by June 30, 2026? Odds: 86.9% YES on Polymarket. See live prices and trade this market."
+description: "Will Stripe not IPO by June 30, 2026? Odds: 86.6% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Stripe not IPO by June 30, 2026?"
 category: "finance"
 status: "active"
 lastUpdated: 2026-03-15
 expiryDate: 2026-06-30
 tags: ["finance", "polymarket"]
-polymarketYes: 86.9
-polymarketNo: 13.2
-polymarketVolume: 9511
+polymarketYes: 86.6
+polymarketNo: 13.5
+polymarketVolume: 9531
 polymarketUrl: "https://polymarket.com/event/will-stripe-not-ipo-by-june-30-2026"
-analysisDate: 2026-03-15
 ---
 
 # Stripe IPO Market Analysis

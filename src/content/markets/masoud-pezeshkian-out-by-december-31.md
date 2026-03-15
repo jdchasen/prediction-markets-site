@@ -1,17 +1,16 @@
 ---
 title: "Masoud Pezeshkian out by December 31?"
-description: "Masoud Pezeshkian out by December 31? Odds: 40.0% YES on Polymarket. See live prices and trade this market."
+description: "Masoud Pezeshkian out by December 31? Odds: 44.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Masoud Pezeshkian out by December 31?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-03-15
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 40.0
-polymarketNo: 60.0
-polymarketVolume: 98423
+polymarketYes: 44.0
+polymarketNo: 56.0
+polymarketVolume: 98495
 polymarketUrl: "https://polymarket.com/event/masoud-pezeshkian-out-by-december-31"
-analysisDate: 2026-03-15
 ---
 
 # Masoud Pezeshkian Exit Market Analysis

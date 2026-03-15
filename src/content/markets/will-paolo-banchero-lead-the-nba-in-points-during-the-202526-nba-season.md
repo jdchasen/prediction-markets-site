@@ -11,7 +11,6 @@ polymarketYes: 0.1
 polymarketNo: 99.9
 polymarketVolume: 9567
 polymarketUrl: "https://polymarket.com/event/nba-2025-26-ppg-leader-paolo-banchero"
-analysisDate: 2026-03-15
 ---
 
 # Paolo Banchero Scoring Title Analysis

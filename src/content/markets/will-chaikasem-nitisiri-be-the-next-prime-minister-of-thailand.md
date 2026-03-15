@@ -9,9 +9,8 @@ expiryDate: 2026-12-31
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 0.2
 polymarketNo: 99.8
-polymarketVolume: 95581
+polymarketVolume: 96044
 polymarketUrl: "https://polymarket.com/event/will-chaikasem-nitisiri-be-the-next-prime-minister-of-thailand-after-the-election"
-analysisDate: 2026-03-15
 ---
 
 # Analysis: Chaikasem Nitisiri as Thailand's Next PM

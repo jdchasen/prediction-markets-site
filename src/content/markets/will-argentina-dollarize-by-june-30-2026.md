@@ -1,17 +1,16 @@
 ---
 title: "Will Argentina dollarize by June 30, 2026?"
-description: "Will Argentina dollarize by June 30, 2026? Odds: 2.1% YES on Polymarket. See live prices and trade this market."
+description: "Will Argentina dollarize by June 30, 2026? Odds: 6.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Argentina dollarize by June 30, 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-03-15
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
-polymarketYes: 2.1
-polymarketNo: 97.9
-polymarketVolume: 9565
+polymarketYes: 6.2
+polymarketNo: 93.8
+polymarketVolume: 9823
 polymarketUrl: "https://polymarket.com/event/will-argentina-dollarize-by-june-30-2026"
-analysisDate: 2026-03-15
 ---
 
 # Argentina Dollarization Market Analysis

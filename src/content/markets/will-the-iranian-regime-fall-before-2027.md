@@ -9,45 +9,46 @@ expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 37.5
 polymarketNo: 62.5
-polymarketVolume: 9879582
+polymarketVolume: 9932966
 polymarketUrl: "https://polymarket.com/event/will-the-iranian-regime-fall-by-the-end-of-2026"
+analysisDate: 2026-03-15
 ---
 
-Prediction markets currently give roughly one-in-three odds that Iran's Islamic Republic will collapse within the next three years, a significant probability reflecting genuine instability following years of protests, economic crisis, and the regime's weakened regional position after losses in Syria and Lebanon.
+The market pricing Iranian regime collapse at roughly one-in-three odds reflects sustained domestic unrest and economic pressure, though traders remain skeptical that the Islamic Republic will actually fall within this three-year window. This matters now because escalating tensions with Israel, continued protests over women's rights following Mahsa Amini's death, and potential succession issues surrounding Supreme Leader Khamenei's age (85) create multiple pressure points that could destabilize the government.
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 37.5% | 62.5% | $9.8M | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 37.5% | 62.5% | $9.9M | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The bull case centers on accelerating internal pressure: Iran faces 70%+ inflation, youth unemployment near 25%, and persistent women-led protests despite brutal crackdowns. Supreme Leader Khamenei is 85 years old, and his death could trigger a succession crisis that fractures the Revolutionary Guard's unity. Israel's systematic degradation of Iranian proxies—particularly Hezbollah's recent decimation and Assad's fall in Syria—has stripped Tehran of its "axis of resistance" deterrent. If protests re-escalate during the March 2025 Nowruz period (Persian New Year, historically a flashpoint) or following Khamenei's death, security forces might fracture rather than fire on crowds, as happened in 1979. The reimposition of maximum pressure sanctions under a potential Trump administration could further choke the economy.
+The bull case centers on converging crises: Khamenei's advanced age makes succession a near-term event, potentially triggering internal power struggles between the Revolutionary Guard Corps and reformist factions. Economic conditions continue deteriorating with inflation exceeding 40% annually, youth unemployment near 25%, and international sanctions limiting recovery options. The "Woman, Life, Freedom" protest movement demonstrated the regime's vulnerability, particularly among Gen Z Iranians who comprise 25% of the population and show minimal loyalty to revolutionary ideology. Israeli strikes on Iranian nuclear facilities or IRGC commanders could spark broader civil disorder that security forces prove unable or unwilling to suppress, especially if combined with ethnic unrest in Kurdish, Baloch, or Arab-majority regions.
 
-The bear case emphasizes the regime's proven resilience and ruthlessness: the Islamic Republic survived the 2009 Green Movement, 2019 fuel protests (with 1,500+ killed), and 2022's Mahsa Amini protests through overwhelming force. The Revolutionary Guard controls an estimated 40% of the economy and commands well-funded paramilitary Basij forces numbering in the millions. No organized opposition exists inside Iran with military capacity, and external powers show little appetite for intervention beyond sanctions. Russia and China provide economic lifelines that blunt Western pressure. Succession plans likely exist within the Guardian Council and Assembly of Experts, making orderly transition more probable than chaos.
+The bear case acknowledges the regime has survived worse. The Revolutionary Guard controls an estimated $200 billion in business interests, giving elites strong incentives to maintain order. Security apparatus reforms after 2009's Green Movement protests created more effective suppression capabilities, including cyber surveillance and decentralized Basij militia units numbering around 600,000. Regional allies like Russia provide sanctions-busting mechanisms and technical support. Most critically, no unified opposition exists—the protest movement lacks centralized leadership, the exiled opposition remains fractured between monarchists and MEK members, and ethnic separatist movements pursue conflicting agendas. Historical precedent suggests authoritarian regimes rarely fall from protests alone without military defection or external invasion.
 
-Key catalysts include Khamenei's health status (any hospitalization would spike market odds immediately), Iran's parliamentary elections in 2026, and potential Israeli or U.S. military strikes on nuclear facilities that could either rally nationalist sentiment or trigger regime collapse. Traders should monitor protest intensity in major cities, any signs of Revolutionary Guard dissent, oil revenue figures, and whether Trump wins in 2024 and reimplements aggressive Iran policy. The March 2025 Nowruz period and the 2026 anniversary dates of previous protest movements represent specific windows where social unrest historically intensifies.
+Key catalysts include Khamenei's health status and any succession announcement, the next Majlis elections in 2028 (though scheduled beyond this market's window), and potential Israeli military action following October 2023 tensions. Traders should monitor provincial governor appointments for signs of IRGC consolidation, oil export levels to gauge sanctions enforcement effectiveness, and arrest figures during Mahsa Amini death anniversaries each September. The March 2024 Majlis elections showed record-low turnout at 41%, indicating eroding legitimacy, though this hasn't translated to organized resistance capable of toppling the government.
 
 ## Related Markets
 
-- [US x Iran ceasefire by March 15?](/odds/us-x-iran-ceasefire-by-march-15) — 1% YES
 - [Will Robert F. Kennedy Jr. win the 2028 Republican presidential nomination?](/odds/will-robert-f-kennedy-jr-win-the-2028-republican-presidential-nomination) — 1% YES
-- [2026 Balance of Power: D Senate, D House](/odds/2026-balance-of-power-d-senate-d-house) — 48% YES
+- [Will Alexandria Ocasio-Cortez win the 2028 US Presidential Election?](/odds/will-alexandria-ocasio-cortez-win-the-2028-us-presidential-election) — 5% YES
+- [Trump announces end of military operations against Iran by March 15th?](/odds/trump-announces-end-of-military-operations-against-iran-by-march-15th) — 0% YES
 
 ## Frequently Asked Questions
 
-### What qualifies as "regime fall" for this market's resolution criteria?
+### What specific events would constitute "regime fall" for market resolution purposes?
 
-Typically requires the Supreme Leader position to be abolished or the Islamic Republic's governing structure to fundamentally change—not merely a leadership transition within the existing theocratic framework. The Guardian Council losing veto power over elections would likely qualify.
+Typically requires the Supreme Leader position being abolished or opposition forces controlling Tehran and declaring a new government. Simple leadership succession within the existing Islamic Republic structure would not qualify.
 
-### How would Khamenei's death specifically affect the odds?
+### How does this market account for scenarios where the regime transforms but doesn't completely collapse?
 
-His death would likely spike YES odds to 50-60% temporarily due to succession uncertainty, but odds would fall back if the Assembly of Experts smoothly appoints a successor and the Revolutionary Guard maintains unity, as the system is designed to survive individual deaths.
+Gradual liberalization or constitutional reforms maintaining the basic Islamic Republic framework likely wouldn't trigger YES resolution, creating edge cases if Iran experiences significant change without complete regime replacement.
 
-### Could international military action against Iran trigger regime collapse or strengthen it?
+### Why are odds relatively high compared to historical regime change frequency?
 
-Historical precedent is mixed—airstrikes on nuclear facilities might rally nationalism short-term, but sustained economic warfare combined with domestic unrest creates conditions for fracture, particularly if the military suffers humiliating defeats that undermine the Guard's legitimacy among its own ranks.
+Markets likely overweight recent protest visibility and Khamenei's age while underweighting the regime's demonstrated resilience, massive security apparatus, and lack of organized opposition—a common bias in forecasting low-probability, high-salience events.
 
 ## Learn More
 

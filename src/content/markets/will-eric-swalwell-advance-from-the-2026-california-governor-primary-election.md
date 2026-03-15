@@ -3,7 +3,7 @@ title: "Will Eric Swalwell advance from the 2026 California Governor primary ele
 description: "Will Eric Swalwell advance from the 2026 California Governor primary election? Odds: 69.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Eric Swalwell advance from the 2026 California Governor primary election?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-15
 expiryDate: 2026-06-02
 tags: ["elections", "politics", "polymarket"]

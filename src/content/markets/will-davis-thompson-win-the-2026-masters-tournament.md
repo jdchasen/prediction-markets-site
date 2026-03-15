@@ -9,9 +9,8 @@ expiryDate: 2026-04-13
 tags: ["polymarket", "sports"]
 polymarketYes: 0.2
 polymarketNo: 99.8
-polymarketVolume: 96131
+polymarketVolume: 96680
 polymarketUrl: "https://polymarket.com/event/will-davis-thompson-win-the-2026-masters-tournament"
-analysisDate: 2026-03-15
 ---
 
 # Davis Thompson 2026 Masters Analysis

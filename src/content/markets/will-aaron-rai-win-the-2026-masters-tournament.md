@@ -9,9 +9,8 @@ expiryDate: 2026-04-13
 tags: ["ai", "polymarket", "sports"]
 polymarketYes: 0.4
 polymarketNo: 99.7
-polymarketVolume: 98749
+polymarketVolume: 99582
 polymarketUrl: "https://polymarket.com/event/will-aaron-rai-win-the-2026-masters-tournament"
-analysisDate: 2026-03-15
 ---
 
 Aaron Rai faces astronomical odds at 0.4% to capture the 2026 Masters, reflecting his current status as a solid but not elite PGA Tour player without the tournament credentials typically associated with Augusta National champions.

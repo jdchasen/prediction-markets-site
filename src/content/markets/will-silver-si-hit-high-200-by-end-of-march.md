@@ -9,9 +9,8 @@ expiryDate: 2026-03-31
 tags: ["politics", "polymarket"]
 polymarketYes: 0.4
 polymarketNo: 99.6
-polymarketVolume: 97344
+polymarketVolume: 97975
 polymarketUrl: "https://polymarket.com/event/will-silver-si-hit-high-200-by-end-of-march"
-analysisDate: 2026-03-15
 ---
 
 # Silver Price Prediction Market Analysis

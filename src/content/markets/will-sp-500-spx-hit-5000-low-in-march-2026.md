@@ -3,7 +3,7 @@ title: "Will S&P 500 (SPX) hit $5,000 (LOW) in March 2026?"
 description: "Will S&P 500 (SPX) hit $5,000 (LOW) in March 2026? Odds: 1.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will S&P 500 (SPX) hit $5,000 (LOW) in March 2026?"
 category: "finance"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-15
 expiryDate: 2026-03-31
 tags: ["finance", "polymarket", "stocks"]

@@ -9,9 +9,8 @@ expiryDate: 2026-04-13
 tags: ["polymarket", "sports"]
 polymarketYes: 0.4
 polymarketNo: 99.6
-polymarketVolume: 99075
+polymarketVolume: 99562
 polymarketUrl: "https://polymarket.com/event/will-maverick-mcnealy-win-the-2026-masters-tournament"
-analysisDate: 2026-03-15
 ---
 
 The market prices Maverick McNealy as an extreme longshot for the 2026 Masters with less than half a percent chance of victory, reflecting his current standing as a solid but unspectacular PGA Tour player who has never contended at a major championship. McNealy has yet to win a PGA Tour event despite turning professional in 2017, though he's accumulated several top-10 finishes and maintains steady form in the 40-60 world ranking range. His best Masters finish came in 2023 when he tied for 39th, showing he can make the cut but hasn't demonstrated the form needed to challenge Augusta National's elite field.

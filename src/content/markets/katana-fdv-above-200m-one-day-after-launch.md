@@ -1,17 +1,16 @@
 ---
 title: "Katana FDV above $200M one day after launch?"
-description: "Katana FDV above $200M one day after launch? Odds: 21.5% YES on Polymarket. See live prices and trade this market."
+description: "Katana FDV above $200M one day after launch? Odds: 18.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Katana FDV above $200M one day after launch?"
 category: "crypto"
 status: "active"
 lastUpdated: 2026-03-15
 expiryDate: 2028-01-01
 tags: ["crypto", "polymarket"]
-polymarketYes: 21.5
-polymarketNo: 78.5
-polymarketVolume: 98935
+polymarketYes: 18.5
+polymarketNo: 81.5
+polymarketVolume: 99899
 polymarketUrl: "https://polymarket.com/event/katana-fdv-above-200m-one-day-after-launch-765-899"
-analysisDate: 2026-03-15
 ---
 
 The market pricing Katana's fully diluted valuation at roughly one-in-five odds to exceed $200M on day one reflects significant skepticism about the upcoming token launch, despite substantial anticipation around this Ronin-based DEX that serves the Axie Infinity ecosystem. The current probability suggests traders view a $200M+ FDV as achievable but far from certain, positioning this as a moderate-cap launch rather than a mega-event.

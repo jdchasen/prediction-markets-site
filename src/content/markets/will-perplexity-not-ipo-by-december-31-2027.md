@@ -11,7 +11,6 @@ polymarketYes: 70.0
 polymarketNo: 30.0
 polymarketVolume: 95371
 polymarketUrl: "https://polymarket.com/event/will-perplexity-not-ipo-by-december-31-2027"
-analysisDate: 2026-03-15
 ---
 
 # Perplexity IPO Probability Analysis

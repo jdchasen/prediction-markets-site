@@ -1,17 +1,16 @@
 ---
 title: "Will Thunder Parley advance from the 2026 California Governor primary election?"
-description: "Will Thunder Parley advance from the 2026 California Governor primary election? Odds: 1.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Thunder Parley advance from the 2026 California Governor primary election? Odds: 1.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Thunder Parley advance from the 2026 California Governor primary election?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-03-15
 expiryDate: 2026-06-02
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 1.5
-polymarketNo: 98.5
-polymarketVolume: 9925
+polymarketYes: 1.7
+polymarketNo: 98.3
+polymarketVolume: 9927
 polymarketUrl: "https://polymarket.com/event/will-thunder-parley-get-the-first-or-second-most-votes-in-the-2026-california-governor-primary-election"
-analysisDate: 2026-03-15
 ---
 
 # Thunder Parley 2026 California Governor Primary Analysis
