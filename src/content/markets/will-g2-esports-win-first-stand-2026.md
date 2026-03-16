@@ -3,8 +3,8 @@ title: "Will G2 Esports win First Stand 2026?"
 description: "Will G2 Esports win First Stand 2026? Odds: 3.3% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will G2 Esports win First Stand 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-15
+status: "settled"
+lastUpdated: 2026-03-16
 expiryDate: 2026-03-22
 tags: ["politics", "polymarket"]
 polymarketYes: 3.3

@@ -4,14 +4,13 @@ description: "Will Morgan Wallen be the top Spotify artist for 2026? Odds: 0.2% 
 marketQuestion: "Will Morgan Wallen be the top Spotify artist for 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-03-15
+lastUpdated: 2026-03-16
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 0.2
 polymarketNo: 99.8
-polymarketVolume: 9991
+polymarketVolume: 9996
 polymarketUrl: "https://polymarket.com/event/will-morgan-wallen-be-the-top-spotify-artist-for-2026"
-analysisDate: 2026-03-15
 ---
 
 # Morgan Wallen Top Spotify Artist 2026 Analysis

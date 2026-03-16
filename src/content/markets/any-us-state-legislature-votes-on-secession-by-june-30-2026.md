@@ -1,55 +1,56 @@
 ---
 title: "Any US state legislature votes on secession by June 30, 2026?"
-description: "Any US state legislature votes on secession by June 30, 2026? Odds: 5.6% YES on Polymarket. See live prices and trade this market."
+description: "Any US state legislature votes on secession by June 30, 2026? Odds: 5.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Any US state legislature votes on secession by June 30, 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-03-15
+lastUpdated: 2026-03-16
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
-polymarketYes: 5.6
-polymarketNo: 94.4
+polymarketYes: 5.7
+polymarketNo: 94.3
 polymarketVolume: 9637
 polymarketUrl: "https://polymarket.com/event/any-us-state-legislature-votes-on-secession-by-june-30-2026"
+analysisDate: 2026-03-16
 ---
 
-# US State Legislature Secession Vote Analysis
+# Secession Legislation Market Analysis
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 5.8% | 94.2% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 5.7% | 94.3% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-With 18 months remaining before expiry, prediction markets are pricing secession legislation as a remote but non-zero possibility, currently holding at roughly 1 in 17 odds. This market matters because it captures tail-risk sentiment around potential constitutional crises tied to deepening regional political polarization, particularly if the 2024-2026 election cycle produces outcomes that alienate entire regions from the federal government. The resolution criteria—any US state legislature voting on secession, not passage—sets a relatively low bar, requiring only that a vote occurs, not that it succeeds or gains traction.
+The 5.7% odds reflect extremely low probability that any US state legislature will formally vote on secession within 18 months, though recent political polarization and post-2024 election tensions have created modest tail-risk conditions. This matters because secession votes would signal unprecedented constitutional breakdown, making even small probability shifts meaningful for political risk assessment. The market is pricing in the base rate of legislative gridlock and constitutional constraints, while leaving room for black-swan scenarios around contested elections or severe federal-state conflicts.
 
-The bull case rests on Texas and Alaska precedent. Texas has a documented secessionist movement with periodic legislative proposals; a Republican-controlled legislature facing federal overreach, Supreme Court defeats on energy policy, or immigration enforcement could theoretically introduce such a resolution as a political statement or constitutional test. Alaska similarly has historical secessionist sentiment. A severe constitutional breakdown—such as contested 2024 election results, federal-state conflicts over abortion or climate policy, or judicial rulings perceived as existential threats—could motivate a legislature to formally vote on the question as a political protest or negotiating tactic. The 2025-2026 legislative calendar provides multiple windows for such symbolic votes.
+The bull case centers on post-election political upheaval: if the 2024 election results trigger major constitutional disputes or if courts invalidate federal authority in key areas (tariffs, regulation, law enforcement), some state legislatures might introduce secession resolutions as symbolic or strategic measures. Texas, Alaska, and California have historical secessionist movements with legislative sympathizers. Additionally, a 18-month window encompasses two full state legislative sessions in most states, plus potential special sessions during crises. European precedents (Catalonia's 2017 independence vote, Brexit) show that seemingly impossible political outcomes can rapidly escalate through legislative processes once initiated.
 
-The bear case is substantially stronger. No state legislature has seriously pursued secession since 1861; cultural and economic integration make exit prohibitively costly for any state. Even Texas, the strongest secessionist candidate, has no meaningful legislative movement—GOP leadership has consistently rejected secession proposals as frivolous. Federal law is unambiguous: secession is unconstitutional following the Civil War. Any legislature voting on secession would face immediate national ridicule, legal jeopardy, and market consequences. Democratic legislatures in blue states show zero secessionist appetite. Republican legislatures, despite rhetoric about "states' rights," avoid formal secession votes that would invite legal action and undermine their credibility with moderate voters.
+The bear case is structurally stronger: US constitutional law treats secession as settled since 1865, making any serious legislative vote politically toxic and virtually certain to face immediate legal challenges that would mute enthusiasm. No major-party politician currently advocates secession; even Trump's Republican Party emphasizes federalism rather than state exit. State legislative leaders recognize that merely introducing such measures risks career destruction and federal investigation under sedition statutes. The past 160 years produced zero votes despite genuine crises (Civil War Reconstruction, 1960s-70s separatism, 2012 post-election petitions), establishing a durable precedent against formal legislative action.
 
-Traders should monitor Texas legislative activity most closely, particularly if the state faces federal litigation over energy policy or border enforcement in 2025-2026. Watch for polarizing Supreme Court decisions in June 2025 and 2026 that might provoke symbolic protest votes. The resolution hinges on whether any legislator perceives secession theater as politically beneficial—an exceptionally low-probability event despite real constitutional tension. At 5.8%, the market is pricing appropriate skepticism while acknowledging genuine tail risk.
+Key catalysts to monitor: results of 2024 federal court rulings on state power by Q1 2025, state legislative sessions beginning January 2025 in 46 states, and any major federal-state confrontation over law enforcement or regulatory authority by mid-2025. If a state legislature does introduce a secession resolution, it would likely occur during a 2025 session following a trigger event. Watch for procedural votes in Texas House/Senate (which meets odd-numbered years, so 2025 is the next opportunity) as the most concrete early indicator. Polling shows 20-30% of Republicans and 15-20% of Democrats support state-level secession referendums in aggregate surveys, but this hasn't translated to legislative sponsorship, suggesting a massive gap between sentiment and action.
 
 ## Related Markets
 
-- [Netanyahu out by March 31?](/odds/netanyahu-out-by-march-31) — 6% YES
-- [Will the Iranian regime fall before 2027?](/odds/will-the-iranian-regime-fall-before-2027) — 38% YES
+- [US x Iran ceasefire by March 31?](/odds/us-x-iran-ceasefire-by-march-31) — 12% YES
 - [Will Robert F. Kennedy Jr. win the 2028 Republican presidential nomination?](/odds/will-robert-f-kennedy-jr-win-the-2028-republican-presidential-nomination) — 1% YES
+- [Will Alexandria Ocasio-Cortez win the 2028 US Presidential Election?](/odds/will-alexandria-ocasio-cortez-win-the-2028-us-presidential-election) — 5% YES
 
 ## Frequently Asked Questions
 
-### Does the resolution require a secession vote to pass, or just be introduced?
+### Does the market require an actual secession vote or just introduction of a secession bill?
 
-The market resolves YES on any vote occurring in a state legislature, regardless of outcome. A failed or symbolic vote counts.
+Most prediction markets of this type resolve YES only on a formal legislative floor vote, not merely bill introduction or committee action—verify the exact resolution criteria with the specific platform.
 
-### Which state is most likely to hold such a vote if one occurs?
+### Could a state hold a non-binding secession referendum without a legislature vote?
 
-Texas, given documented secessionist sentiment and Republican legislative control, though even there the probability remains extremely low given leadership's consistent rejection of such proposals.
+The market specifically requires a *legislature* vote, so state-initiated referendums or ballot initiatives would not satisfy resolution conditions even if one passes.
 
-### Could a Democratic-controlled legislature vote on secession in response to federal actions?
+### Why hasn't Alaska, which has an active secession movement, pushed this to a legislative vote?
 
-Extremely unlikely. Blue-state legislatures face zero political pressure toward secession and have institutional disincentives. Any such vote would require an unprecedented constitutional crisis affecting Democratic-leaning states' core interests.
+Alaska's secessionist momentum remains grassroots and activist-driven; state legislators avoid formal votes because they'd face federal prosecution and career consequences, plus Alaska's legislature depends heavily on federal funding for operations.
 
 ## Learn More
 

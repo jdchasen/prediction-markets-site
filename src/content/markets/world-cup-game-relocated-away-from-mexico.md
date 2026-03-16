@@ -3,8 +3,8 @@ title: " World Cup game relocated away from Mexico?"
 description: " World Cup game relocated away from Mexico? Odds: 5.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: " World Cup game relocated away from Mexico?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-03-15
+status: "settled"
+lastUpdated: 2026-03-16
 expiryDate: 2026-06-10
 tags: ["polymarket", "sports"]
 polymarketYes: 5.5

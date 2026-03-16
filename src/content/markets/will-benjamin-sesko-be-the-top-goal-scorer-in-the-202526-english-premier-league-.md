@@ -3,8 +3,8 @@ title: "Will Benjamin Sesko be the top goal scorer in the 2025–26 English Prem
 description: "Will Benjamin Sesko be the top goal scorer in the 2025–26 English Premier League season? Odds: 0.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Benjamin Sesko be the top goal scorer in the 2025–26 English Premier League season?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-03-15
+status: "settled"
+lastUpdated: 2026-03-16
 expiryDate: 2026-05-27
 tags: ["polymarket", "sports"]
 polymarketYes: 0.2

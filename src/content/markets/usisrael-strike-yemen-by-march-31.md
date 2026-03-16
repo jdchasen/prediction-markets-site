@@ -1,59 +1,57 @@
 ---
 title: "US/Israel strike Yemen by March 31?"
-description: "US/Israel strike Yemen by March 31? Odds: 61.5% YES on Polymarket. See live prices and trade this market."
+description: "US/Israel strike Yemen by March 31? Odds: 35.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "US/Israel strike Yemen by March 31?"
 category: "politics"
-status: "settled"
-lastUpdated: 2026-03-07
+status: "active"
+lastUpdated: 2026-03-16
 expiryDate: 2026-03-31
 tags: ["politics", "polymarket"]
-polymarketYes: 61.5
-polymarketNo: 38.5
-polymarketVolume: 9847
+polymarketYes: 35.5
+polymarketNo: 64.5
+polymarketVolume: 97516
 polymarketUrl: "https://polymarket.com/event/usisrael-strike-yemen-by-march-31"
-analysisDate: 2026-03-06
+analysisDate: 2026-03-16
 ---
 
-# US/Israel Strike Yemen Analysis
+The market pricing a roughly one-in-three chance of US or Israeli military strikes on Yemen by March 2026 reflects ongoing tensions with Houthi forces, though traders appear skeptical that escalation will reach direct American or Israeli involvement in the 14-month timeframe. This matters because Houthi attacks on Red Sea shipping and periodic missile launches toward Israel have already drawn US defensive actions, making the threshold between defensive responses and offensive strikes increasingly blurred.
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 61.5% | 38.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 35.5% | 64.5% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The market is pricing roughly 2-in-3 odds for a US/Israel strike on Yemen by end of March 2026, reflecting elevated but uncertain escalation risk in an already volatile regional conflict. This matters because the timeframe is relatively near-term (just over a year away), making this tradeable on concrete geopolitical developments rather than pure speculation, and because such strikes would materially impact energy markets, shipping insurance, and broader Middle East stability.
+The bull case centers on escalation dynamics already in motion. Houthi forces have demonstrated willingness to target commercial vessels and launch ballistic missiles toward Eilat, creating pressure on both Washington and Jerusalem to move beyond defensive intercepts. If a Houthi attack causes mass casualties—particularly hitting an American vessel or killing Israeli civilians—domestic political pressure could force a significant retaliation. Israel has shown willingness to strike Houthi positions in Hodeidah port following attacks, and the US conducted limited strikes on radar installations in 2024. A widening of the Gaza conflict or Iranian escalation could pull Yemen more directly into a regional war, with the US presidential transition in January 2025 potentially bringing either a more hawkish administration or one seeking to demonstrate strength early in its term.
 
-The bull case rests on several concrete factors: Houthi drone and missile attacks on shipping in the Red Sea have persisted despite previous Israeli strikes, with the group showing no signs of backing down militarily. If attacks accelerate or target US/Israeli territory directly in the next 12 months, pressure for another coordinated strike campaign becomes difficult for either government to resist politically. Regional escalation following potential strikes on Iranian nuclear facilities (a separate but related risk) could also push the timeline forward. Additionally, a second Trump administration (taking office January 2025) has historically shown more willingness to authorize military action with fewer multilateral constraints than Biden officials, lowering the political friction for such strikes.
+The bear case emphasizes both nations' limited strategic interest in another Middle Eastern entanglement. The US has consistently opted for defensive measures and narrowly targeted strikes rather than sustained campaigns, given Yemen's humanitarian crisis and the risk of deeper involvement in another intractable conflict. Israel's military resources remain concentrated on Gaza, Lebanon, and the Iranian nuclear threat—higher priorities than Yemen, where Houthis operate hundreds of miles away with limited ability to inflict serious damage given Israeli air defenses. Saudi Arabia's ongoing diplomatic engagement with the Houthis and desire to exit its Yemen involvement also reduces regional appetite for escalation. The 14-month window extends well into 2026, but neither country has demonstrated interest in offensive operations beyond isolated retaliatory strikes.
 
-The bear case argues that incremental strikes and containment have proven sufficient so far—neither the US nor Israel has felt compelled to launch a major new campaign despite months of provocation. A negotiated ceasefire in Gaza could dramatically reduce Houthi incentive to escalate. The costs of another major air campaign are substantial (logistical, diplomatic, and in terms of international backlash), and both governments face competing priorities: Israel's northern border with Hezbollah and ongoing Gaza operations, the US's focus on broader China strategy. Market participants should monitor three specific triggers: any major Houthi attack causing significant US/Israeli casualties or hitting critical infrastructure, ceasefire negotiations in Yemen itself (which would lower odds), and shifts in Trump administration Middle East policy statements after January 20, 2025.
-
-Traders should watch intelligence reporting on Houthi capabilities and intent closely, as the market is implicitly betting these will worsen rather than plateau. Congressional votes on military authorization (if sought) and any public statements from US Central Command about "operational readiness" in the region would signal shifting probabilities. The current 61.5% odds suggest the market sees this as more likely than not but with material uncertainty—typical for geopolitical events where multiple veto players (Israel's government, US administration, international community) all have influence over the final decision.
+Key catalysts include the US presidential inauguration on January 20, 2025, which could shift policy toward either greater restraint or more aggressive posturing toward Iran's proxies. The trajectory of ceasefire negotiations in Gaza throughout 2025 will matter significantly—a settlement could reduce Houthi attacks as part of broader de-escalation, while continued fighting maintains pressure. Traders should monitor the frequency and severity of Houthi attacks on shipping, particularly any strikes on US military or Israeli-linked vessels. Iranian decision-making remains central, as Tehran provides the weapons systems enabling long-range Houthi strikes and could either restrain or encourage escalation based on nuclear negotiations and regional calculus.
 
 ## Related Markets
 
-- [GTA VI released before June 2026?](/odds/gta-vi-released-before-june-2026) — 2% YES
-- [Will Jesus Christ return before GTA VI?](/odds/will-jesus-christ-return-before-gta-vi) — 48% YES
-- [Trump-Denmark Greenland deal signed by March 31?](/odds/trump-denmark-greenland-deal-signed-by-march-31) — 3% YES
+- [US x Iran ceasefire by March 31?](/odds/us-x-iran-ceasefire-by-march-31) — 12% YES
+- [Will Robert F. Kennedy Jr. win the 2028 Republican presidential nomination?](/odds/will-robert-f-kennedy-jr-win-the-2028-republican-presidential-nomination) — 1% YES
+- [Will Alexandria Ocasio-Cortez win the 2028 US Presidential Election?](/odds/will-alexandria-ocasio-cortez-win-the-2028-us-presidential-election) — 5% YES
 
 ## Frequently Asked Questions
 
-### What's the difference between isolated Israeli strikes (which have already happened) and the strike this market would resolve YES on?
+### What types of military action would qualify as a "strike" for this market's resolution?
 
-The resolution likely hinges on whether any new coordinated US/Israel strike occurs by March 31, 2026, regardless of scale. Even a single air campaign involving both nations would likely qualify, making historical precedent (January 2024 strikes) relevant but not determinative of future likelihood.
+The market likely requires offensive military operations beyond defensive intercepts—meaning deliberate targeting of Houthi military infrastructure, weapons depots, or command facilities, not simply shooting down incoming missiles or drones.
 
-### How much does a Gaza ceasefire actually lower these odds, and when would we know?
+### How does the Saudi Arabia peace process with the Houthis affect the probability of US or Israeli strikes?
 
-A ceasefire would materially reduce Houthi motivation to escalate, potentially dropping odds 10-15 percentage points, but wouldn't eliminate strike risk entirely if Iran-linked activities continue. Any framework agreement would likely be negotiated by mid-2025, giving traders 9 months to adjust positions.
+Saudi diplomatic engagement with the Houthis reduces regional tolerance for escalation and could create backlash if US or Israeli strikes disrupt negotiations, making Riyadh less likely to provide intelligence support or airspace access that would facilitate such operations.
 
-### Why does Trump's return matter specifically for this market versus Biden policy?
+### Why does this market extend to March 2026 rather than a shorter timeframe?
 
-Trump administration officials have previously supported rapid military escalation with minimal diplomatic delays; Biden officials imposed more restraint. If Trump's team signals approval for strikes or Iran policy shifts dramatically hawkish, the market would likely reprrice upward, whereas dovish statements would pressure
+The lengthy timeframe captures both immediate escalation risks from current Gaza-related tensions and longer-term possibilities of new provocations or policy shifts, though it also increases uncertainty as regional dynamics and political leadership may change substantially over 14 months.
 
 ## Learn More
 
-- [Prediction Market Roundup March 05, 2026](/blog/daily-market-pulse-2026-03-05)
-- [Prediction Market Roundup March 04, 2026](/blog/daily-market-pulse-2026-03-04)
+- [Fed March Rate Decision: What the Odds Say](/blog/fed-march-rate-decision-what-the-odds-say)
+- [Fed March Rate Decision: What Prediction Markets Say](/blog/fed-march-rate-decision-what-prediction-markets-say)
 

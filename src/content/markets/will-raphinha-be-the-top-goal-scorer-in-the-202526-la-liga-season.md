@@ -1,17 +1,16 @@
 ---
 title: "Will Raphinha be the top goal scorer in the 2025–26 La Liga season?"
-description: "Will Raphinha be the top goal scorer in the 2025–26 La Liga season? Odds: 0.7% YES on Polymarket. See live prices and trade this market."
+description: "Will Raphinha be the top goal scorer in the 2025–26 La Liga season? Odds: 0.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Raphinha be the top goal scorer in the 2025–26 La Liga season?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-03-15
+lastUpdated: 2026-03-16
 expiryDate: 2026-05-30
 tags: ["politics", "polymarket"]
-polymarketYes: 0.7
-polymarketNo: 99.4
-polymarketVolume: 9847
+polymarketYes: 0.4
+polymarketNo: 99.7
+polymarketVolume: 9954
 polymarketUrl: "https://polymarket.com/event/will-raphinha-be-the-top-goal-scorer-in-the-202526-la-liga-season"
-analysisDate: 2026-03-15
 ---
 
 # Raphinha La Liga Top Scorer Market Analysis

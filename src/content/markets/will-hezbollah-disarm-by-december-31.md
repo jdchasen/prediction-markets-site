@@ -3,8 +3,8 @@ title: "Will Hezbollah disarm by December 31?"
 description: "Will Hezbollah disarm by December 31? Odds: 36.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Hezbollah disarm by December 31?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-15
+status: "settled"
+lastUpdated: 2026-03-16
 expiryDate: 2026-03-31
 tags: ["politics", "polymarket"]
 polymarketYes: 36.0

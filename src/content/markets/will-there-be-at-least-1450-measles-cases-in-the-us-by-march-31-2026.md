@@ -3,8 +3,8 @@ title: "Will there be at least 1450 measles cases in the U.S. by March 31, 2026?
 description: "Will there be at least 1450 measles cases in the U.S. by March 31, 2026? Odds: 97.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will there be at least 1450 measles cases in the U.S. by March 31, 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-15
+status: "settled"
+lastUpdated: 2026-03-16
 expiryDate: 2026-03-31
 tags: ["politics", "polymarket"]
 polymarketYes: 97.4

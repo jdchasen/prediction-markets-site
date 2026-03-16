@@ -3,8 +3,8 @@ title: "Will any European country expel a U.S. ambassador by March 31?"
 description: "Will any European country expel a U.S. ambassador by March 31? Odds: 1.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will any European country expel a U.S. ambassador by March 31?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-15
+status: "settled"
+lastUpdated: 2026-03-16
 expiryDate: 2026-03-31
 tags: ["politics", "polymarket"]
 polymarketYes: 1.8

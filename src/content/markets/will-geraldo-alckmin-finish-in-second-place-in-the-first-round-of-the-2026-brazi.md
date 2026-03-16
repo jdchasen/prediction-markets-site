@@ -3,8 +3,8 @@ title: "Will Geraldo Alckmin finish in second place in the first round of the 20
 description: "Will Geraldo Alckmin finish in second place in the first round of the 2026 Brazilian presidential election? Odds: 0.3% YES on Polymarket. See live prices and..."
 marketQuestion: "Will Geraldo Alckmin finish in second place in the first round of the 2026 Brazilian presidential election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-15
+status: "settled"
+lastUpdated: 2026-03-16
 expiryDate: 2026-10-04
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.3

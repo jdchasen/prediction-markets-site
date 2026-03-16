@@ -3,8 +3,8 @@ title: "Trump announces end of military operations against Iran by March 15th?"
 description: "Trump announces end of military operations against Iran by March 15th? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Trump announces end of military operations against Iran by March 15th?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-15
+status: "settled"
+lastUpdated: 2026-03-16
 expiryDate: 2026-03-31
 tags: ["ai", "politics", "polymarket", "trump"]
 polymarketYes: 0.1

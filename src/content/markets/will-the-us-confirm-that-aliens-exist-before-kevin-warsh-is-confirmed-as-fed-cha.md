@@ -3,8 +3,8 @@ title: "Will the US confirm that aliens exist before Kevin Warsh is confirmed as
 description: "Will the US confirm that aliens exist before Kevin Warsh is confirmed as Fed Chair? Odds: 2.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the US confirm that aliens exist before Kevin Warsh is confirmed as Fed Chair?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-15
+status: "settled"
+lastUpdated: 2026-03-16
 expiryDate: 2026-10-31
 tags: ["ai", "federal-reserve", "politics", "polymarket"]
 polymarketYes: 2.5

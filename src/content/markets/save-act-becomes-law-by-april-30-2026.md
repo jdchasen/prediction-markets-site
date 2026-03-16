@@ -3,8 +3,8 @@ title: "SAVE Act becomes law by April 30, 2026?"
 description: "SAVE Act becomes law by April 30, 2026? Odds: 6.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "SAVE Act becomes law by April 30, 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-15
+status: "settled"
+lastUpdated: 2026-03-16
 expiryDate: 2026-04-30
 tags: ["politics", "polymarket"]
 polymarketYes: 6.5

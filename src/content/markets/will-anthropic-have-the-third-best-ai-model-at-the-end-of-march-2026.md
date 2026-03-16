@@ -3,8 +3,8 @@ title: "Will Anthropic have the third-best AI model at the end of March 2026?"
 description: "Will Anthropic have the third-best AI model at the end of March 2026? Odds: 4.3% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Anthropic have the third-best AI model at the end of March 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-15
+status: "settled"
+lastUpdated: 2026-03-16
 expiryDate: 2026-03-31
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 4.3

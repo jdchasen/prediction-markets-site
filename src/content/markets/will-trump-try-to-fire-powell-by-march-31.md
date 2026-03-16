@@ -3,8 +3,8 @@ title: "Will Trump try to Fire Powell by March 31?"
 description: "Will Trump try to Fire Powell by March 31? Odds: 0.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Trump try to Fire Powell by March 31?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-15
+status: "settled"
+lastUpdated: 2026-03-16
 expiryDate: 2026-03-31
 tags: ["politics", "polymarket", "trump"]
 polymarketYes: 0.5

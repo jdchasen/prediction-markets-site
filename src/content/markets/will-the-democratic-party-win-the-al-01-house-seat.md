@@ -1,17 +1,16 @@
 ---
 title: "Will the Democratic Party win the AL-01 House seat?"
-description: "Will the Democratic Party win the AL-01 House seat? Odds: 5.3% YES on Polymarket. See live prices and trade this market."
+description: "Will the Democratic Party win the AL-01 House seat? Odds: 5.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Democratic Party win the AL-01 House seat?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-03-15
+lastUpdated: 2026-03-16
 expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
-polymarketYes: 5.3
-polymarketNo: 94.7
-polymarketVolume: 9605
+polymarketYes: 5.4
+polymarketNo: 94.6
+polymarketVolume: 9622
 polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-al-01-house-seat"
-analysisDate: 2026-03-15
 ---
 
 # AL-01 Democratic Victory Odds: A 5.3% Longshot in Deep Red Territory
