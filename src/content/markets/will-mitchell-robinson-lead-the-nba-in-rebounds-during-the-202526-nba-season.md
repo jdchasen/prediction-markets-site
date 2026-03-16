@@ -9,9 +9,8 @@ expiryDate: 2026-04-12
 tags: ["polymarket", "sports"]
 polymarketYes: 0.1
 polymarketNo: 99.9
-polymarketVolume: 9642
+polymarketVolume: 9811
 polymarketUrl: "https://polymarket.com/event/nba-2025-26-rpg-leader-mitchell-robinson"
-analysisDate: 2026-03-16
 ---
 
 This market is pricing Mitchell Robinson as an extreme longshot to lead the NBA in rebounds next season, reflecting legitimate structural barriers that make his path nearly impossible. The 0.1% odds suggest traders view this outcome as requiring a catastrophic shift in either Robinson's circumstances or the league's landscape, making it worth examining what would actually need to happen for this bet to cash.

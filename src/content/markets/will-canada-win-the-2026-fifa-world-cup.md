@@ -9,9 +9,8 @@ expiryDate: 2026-07-20
 tags: ["polymarket", "sports"]
 polymarketYes: 0.5
 polymarketNo: 99.5
-polymarketVolume: 9611249
+polymarketVolume: 9642442
 polymarketUrl: "https://polymarket.com/event/will-canada-win-the-2026-fifa-world-cup-755"
-analysisDate: 2026-03-16
 ---
 
 Canada faces near-insurmountable odds to win the 2026 FIFA World Cup on home soil, with traders pricing their chances at essentially zero despite the automatic qualification advantage as co-hosts alongside the United States and Mexico.

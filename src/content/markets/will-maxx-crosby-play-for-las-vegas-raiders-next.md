@@ -11,7 +11,6 @@ polymarketYes: 80.0
 polymarketNo: 20.0
 polymarketVolume: 9776
 polymarketUrl: "https://polymarket.com/event/will-maxx-crosby-play-for-las-vegas-raiders-next"
-analysisDate: 2026-03-16
 ---
 
 # Market Analysis: Maxx Crosby and the Las Vegas Raiders

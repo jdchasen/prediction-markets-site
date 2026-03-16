@@ -11,7 +11,6 @@ polymarketYes: 0.4
 polymarketNo: 99.6
 polymarketVolume: 9747
 polymarketUrl: "https://polymarket.com/event/will-benjamin-coach-wade-win-survivor-season-50"
-analysisDate: 2026-03-16
 ---
 
 # Benjamin Wade and Survivor Season 50: A Miscategorized Market Analysis

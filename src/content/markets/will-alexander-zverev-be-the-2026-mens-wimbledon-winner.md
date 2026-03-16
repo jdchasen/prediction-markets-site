@@ -11,7 +11,6 @@ polymarketYes: 2.1
 polymarketNo: 97.9
 polymarketVolume: 97490
 polymarketUrl: "https://polymarket.com/event/will-alexander-zverev-be-the-2026-mens-wimbledon-winner"
-analysisDate: 2026-03-16
 ---
 
 # Zverev at Wimbledon 2026: A Contrarian Opportunity in a Crowded Field

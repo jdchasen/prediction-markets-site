@@ -1,16 +1,15 @@
 ---
 title: "Will Iran strike Dimona by March 31?"
-description: "Will Iran strike Dimona by March 31? Odds: 7.0% YES on Polymarket. See live prices and trade this market."
+description: "Will Iran strike Dimona by March 31? Odds: 6.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Iran strike Dimona by March 31?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-03-16
 tags: ["politics", "polymarket"]
-polymarketYes: 7.0
-polymarketNo: 93.0
-polymarketVolume: 99200
+polymarketYes: 6.5
+polymarketNo: 93.5
+polymarketVolume: 99742
 polymarketUrl: "https://polymarket.com/event/will-iran-strike-dimona-by-march-31"
-analysisDate: 2026-03-16
 ---
 
 This market tracks whether Iran will conduct a military strike on Israel's Dimona nuclear facility before March 31, 2025, with current odds suggesting only a 7% probability despite ongoing regional tensions following recent Israeli-Iranian escalations.

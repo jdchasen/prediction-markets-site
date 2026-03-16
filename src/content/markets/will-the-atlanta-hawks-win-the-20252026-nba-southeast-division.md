@@ -8,10 +8,9 @@ lastUpdated: 2026-03-16
 expiryDate: 2026-04-12
 tags: ["polymarket", "sports"]
 polymarketYes: 11.9
-polymarketNo: 88.0
-polymarketVolume: 97491
+polymarketNo: 88.1
+polymarketVolume: 97585
 polymarketUrl: "https://polymarket.com/event/nba-2025-26-southeast-division-winner-atlanta-hawks"
-analysisDate: 2026-03-16
 ---
 
 # Atlanta Hawks 2025–2026 Southeast Division Outlook

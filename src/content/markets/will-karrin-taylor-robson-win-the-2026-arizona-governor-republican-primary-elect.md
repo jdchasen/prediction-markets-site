@@ -1,17 +1,16 @@
 ---
 title: "Will Karrin Taylor Robson win the 2026 Arizona Governor Republican primary election?"
-description: "Will Karrin Taylor Robson win the 2026 Arizona Governor Republican primary election? Odds: 2.6% YES on Polymarket. See live prices and trade this market."
+description: "Will Karrin Taylor Robson win the 2026 Arizona Governor Republican primary election? Odds: 2.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Karrin Taylor Robson win the 2026 Arizona Governor Republican primary election?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-03-16
 expiryDate: 2026-07-21
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 2.6
-polymarketNo: 97.4
-polymarketVolume: 9925
+polymarketYes: 2.1
+polymarketNo: 97.9
+polymarketVolume: 9928
 polymarketUrl: "https://polymarket.com/event/will-karrin-taylor-robson-win-the-2026-arizona-governor-republican-primary-election"
-analysisDate: 2026-03-16
 ---
 
 # 2026 Arizona Republican Governor Primary Analysis

@@ -1,17 +1,16 @@
 ---
 title: "Will Han Dong-hoon win the 2026 Gyeonggi Province Gubernatorial Election?"
-description: "Will Han Dong-hoon win the 2026 Gyeonggi Province Gubernatorial Election? Odds: 0.7% YES on Polymarket. See live prices and trade this market."
+description: "Will Han Dong-hoon win the 2026 Gyeonggi Province Gubernatorial Election? Odds: 0.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Han Dong-hoon win the 2026 Gyeonggi Province Gubernatorial Election?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-03-16
 expiryDate: 2026-06-03
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 0.7
-polymarketNo: 99.3
-polymarketVolume: 98461
+polymarketYes: 0.5
+polymarketNo: 99.5
+polymarketVolume: 98882
 polymarketUrl: "https://polymarket.com/event/will-han-dong-hoon-win-the-2026-gyeonggi-province-gubernatorial-election"
-analysisDate: 2026-03-16
 ---
 
 The market gives Han Dong-hoon virtually no chance of winning Gyeonggi Province's gubernatorial race in June 2026, reflecting his current political isolation following the collapse of his People Power Party (PPP) leadership and South Korea's broader conservative coalition crisis after President Yoon's impeachment.

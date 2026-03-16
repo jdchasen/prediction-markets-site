@@ -11,7 +11,6 @@ polymarketYes: 0.4
 polymarketNo: 99.6
 polymarketVolume: 99320
 polymarketUrl: "https://polymarket.com/event/will-khaled-mashal-win-the-nobel-peace-prize-in-2026-787"
-analysisDate: 2026-03-16
 ---
 
 # Analysis: Khaled Mashal Nobel Peace Prize 2026

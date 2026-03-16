@@ -9,9 +9,8 @@ expiryDate: 2027-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 32.0
 polymarketNo: 68.0
-polymarketVolume: 97484
+polymarketVolume: 97490
 polymarketUrl: "https://polymarket.com/event/maduro-guilty-of-all-counts"
-analysisDate: 2026-03-16
 ---
 
 # Maduro Guilty of All Counts: Market Analysis

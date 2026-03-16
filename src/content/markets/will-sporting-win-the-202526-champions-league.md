@@ -9,9 +9,8 @@ expiryDate: 2026-05-31
 tags: ["polymarket", "sports"]
 polymarketYes: 0.2
 polymarketNo: 99.8
-polymarketVolume: 9567670
+polymarketVolume: 9768404
 polymarketUrl: "https://polymarket.com/event/will-sporting-win-the-202526-champions-league"
-analysisDate: 2026-03-16
 ---
 
 Sporting CP faces astronomical odds at 0.2% to win the 2025-26 Champions League, reflecting the massive gulf between Portuguese league clubs and European super-powers, though their current season performance under manager Ruben Amorim has reignited discussions about their potential trajectory.

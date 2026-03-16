@@ -9,9 +9,8 @@ expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
 polymarketYes: 16.5
 polymarketNo: 83.5
-polymarketVolume: 9667
+polymarketVolume: 9672
 polymarketUrl: "https://polymarket.com/event/will-waymo-operate-in-11-cities-on-june-30-2026"
-analysisDate: 2026-03-16
 ---
 
 # Waymo's 11-City Expansion by Mid-2026: A Test of Autonomous Vehicle Regulatory Momentum

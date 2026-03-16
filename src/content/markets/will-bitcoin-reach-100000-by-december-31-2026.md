@@ -9,9 +9,8 @@ expiryDate: 2027-01-01
 tags: ["bitcoin", "crypto", "polymarket"]
 polymarketYes: 43.0
 polymarketNo: 57.0
-polymarketVolume: 996810
+polymarketVolume: 999581
 polymarketUrl: "https://polymarket.com/event/will-bitcoin-reach-100000-by-december-31-2026-571-361-361"
-analysisDate: 2026-03-16
 ---
 
 Bitcoin's path to $100,000 by year-end 2026 sits near coin-flip territory at 43% probability, reflecting genuine uncertainty about whether institutional adoption and supply dynamics can overcome macroeconomic headwinds over the next three years.

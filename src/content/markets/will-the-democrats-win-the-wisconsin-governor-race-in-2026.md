@@ -10,7 +10,6 @@ polymarketYes: 78.0
 polymarketNo: 22.0
 polymarketVolume: 9682
 polymarketUrl: "https://polymarket.com/event/will-the-democrats-win-the-wisconsin-governor-race-in-2026"
-analysisDate: 2026-03-16
 ---
 
 # Wisconsin Governor Race 2026: Democrats' Structural Advantage vs. Incumbent Vulnerability

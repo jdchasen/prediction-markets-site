@@ -3,7 +3,7 @@ title: "US x Iran ceasefire by March 31?"
 description: "US x Iran ceasefire by March 31? Odds: 11.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "US x Iran ceasefire by March 31?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-16
 tags: ["politics", "polymarket"]
 polymarketYes: 11.5

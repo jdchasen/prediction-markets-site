@@ -3,7 +3,7 @@ title: "Will BYU win the 2026 NCAA Tournament?"
 description: "Will BYU win the 2026 NCAA Tournament? Odds: 0.6% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will BYU win the 2026 NCAA Tournament?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-16
 expiryDate: 2026-04-04
 tags: ["politics", "polymarket"]

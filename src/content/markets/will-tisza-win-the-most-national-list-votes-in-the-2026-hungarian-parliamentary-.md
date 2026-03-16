@@ -3,7 +3,7 @@ title: "Will Tisza win the most national list votes in the 2026 Hungarian parlia
 description: "Will Tisza win the most national list votes in the 2026 Hungarian parliamentary election? Odds: 73.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Tisza win the most national list votes in the 2026 Hungarian parliamentary election?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-16
 expiryDate: 2026-04-12
 tags: ["elections", "politics", "polymarket"]

@@ -1,17 +1,16 @@
 ---
 title: "Will Alexandria Ocasio-Cortez win the 2028 US Presidential Election?"
-description: "Will Alexandria Ocasio-Cortez win the 2028 US Presidential Election? Odds: 4.9% YES on Polymarket. See live prices and trade this market."
+description: "Will Alexandria Ocasio-Cortez win the 2028 US Presidential Election? Odds: 5.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Alexandria Ocasio-Cortez win the 2028 US Presidential Election?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-03-16
 expiryDate: 2028-11-07
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 4.9
-polymarketNo: 95.2
-polymarketVolume: 9717722
+polymarketYes: 5.0
+polymarketNo: 95.0
+polymarketVolume: 9730165
 polymarketUrl: "https://polymarket.com/event/will-alexandria-ocasio-cortez-win-the-2028-us-presidential-election"
-analysisDate: 2026-03-16
 ---
 
 The market pricing AOC at under 5% for a 2028 presidential victory reflects substantial skepticism about her viability as a Democratic nominee, despite her high national profile and fundraising prowess. This matters because she represents a litmus test for whether progressive populism can capture the Democratic establishment or remains confined to safe blue districts and activist circles.

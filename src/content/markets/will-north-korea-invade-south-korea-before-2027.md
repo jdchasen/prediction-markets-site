@@ -1,17 +1,16 @@
 ---
 title: "Will North Korea invade South Korea before 2027?"
-description: "Will North Korea invade South Korea before 2027? Odds: 10.4% YES on Polymarket. See live prices and trade this market."
+description: "Will North Korea invade South Korea before 2027? Odds: 9.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will North Korea invade South Korea before 2027?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-03-16
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 10.4
-polymarketNo: 89.5
-polymarketVolume: 9849
+polymarketYes: 9.8
+polymarketNo: 90.1
+polymarketVolume: 9939
 polymarketUrl: "https://polymarket.com/event/will-north-korea-invade-south-korea-before-2027"
-analysisDate: 2026-03-16
 ---
 
 # North Korea Invasion Market Analysis

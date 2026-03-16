@@ -11,7 +11,6 @@ polymarketYes: 0.2
 polymarketNo: 99.8
 polymarketVolume: 9677
 polymarketUrl: "https://polymarket.com/event/will-florian-wirtz-be-the-top-goal-scorer-in-the-202526-english-premier-league-season"
-analysisDate: 2026-03-16
 ---
 
 The 0.2% odds reflect near-universal skepticism that Florian Wirtz, currently at Bayer Leverkusen, will outscore every Premier League striker over a full 2025-26 campaign—a probability so compressed it suggests traders view this outcome as virtually impossible under baseline conditions. This market matters now because it tests whether a generational talent's potential Premier League move could fundamentally reshape goal-scoring hierarchy in England's top division.

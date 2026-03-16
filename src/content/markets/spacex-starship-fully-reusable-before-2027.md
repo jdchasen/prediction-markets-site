@@ -3,7 +3,7 @@ title: "SpaceX Starship fully reusable before 2027?"
 description: "SpaceX Starship fully reusable before 2027? Odds: 46.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "SpaceX Starship fully reusable before 2027?"
 category: "tech"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-16
 expiryDate: 2026-12-31
 tags: ["polymarket", "tech"]

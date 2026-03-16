@@ -3,7 +3,7 @@ title: "Will Maxx Crosby play for Baltimore Ravens next?"
 description: "Will Maxx Crosby play for Baltimore Ravens next? Odds: 3.6% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Maxx Crosby play for Baltimore Ravens next?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-16
 expiryDate: 2026-09-01
 tags: ["politics", "polymarket"]

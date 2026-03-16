@@ -9,9 +9,8 @@ expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
 polymarketYes: 2.6
 polymarketNo: 97.4
-polymarketVolume: 99833
+polymarketVolume: 99838
 polymarketUrl: "https://polymarket.com/event/gustavo-petro-out-as-leader-of-colombia-by-june-30"
-analysisDate: 2026-03-16
 ---
 
 The market gives Colombian President Gustavo Petro only a 2.6% chance of leaving power before June 2026, reflecting strong confidence he'll complete his term despite ongoing political turbulence and approval ratings hovering in the low 30s. This matters because Petro represents Colombia's first leftist president, and his tenure has been marked by ambitious reform attempts and significant institutional friction.

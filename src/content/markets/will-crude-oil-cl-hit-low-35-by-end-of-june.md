@@ -9,9 +9,8 @@ expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
 polymarketYes: 2.5
 polymarketNo: 97.5
-polymarketVolume: 9666
+polymarketVolume: 9714
 polymarketUrl: "https://polymarket.com/event/cl-hit-35-low-jun-2026-847"
-analysisDate: 2026-03-16
 ---
 
 # Crude Oil $35 Target by June 2026: Market Analysis

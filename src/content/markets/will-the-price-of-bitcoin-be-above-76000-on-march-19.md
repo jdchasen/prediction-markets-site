@@ -3,7 +3,7 @@ title: "Will the price of Bitcoin be above $76,000 on March 19?"
 description: "Will the price of Bitcoin be above $76,000 on March 19? Odds: 27.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the price of Bitcoin be above $76,000 on March 19?"
 category: "crypto"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-16
 expiryDate: 2026-03-19
 tags: ["bitcoin", "crypto", "polymarket"]

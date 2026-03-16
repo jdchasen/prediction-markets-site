@@ -8,9 +8,8 @@ lastUpdated: 2026-03-16
 tags: ["politics", "polymarket"]
 polymarketYes: 55.0
 polymarketNo: 45.0
-polymarketVolume: 9587
+polymarketVolume: 9799
 polymarketUrl: "https://polymarket.com/event/will-the-democrats-win-the-iowa-governor-race-in-2026"
-analysisDate: 2026-03-16
 ---
 
 # Iowa Governor 2026: Democrats at Even Money Despite Structural Headwinds

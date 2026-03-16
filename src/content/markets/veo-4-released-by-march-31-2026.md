@@ -11,7 +11,6 @@ polymarketYes: 2.1
 polymarketNo: 98.0
 polymarketVolume: 9631
 polymarketUrl: "https://polymarket.com/event/veo-4-released-by-march-31-2026"
-analysisDate: 2026-03-16
 ---
 
 # VEO 4 Release Market Analysis

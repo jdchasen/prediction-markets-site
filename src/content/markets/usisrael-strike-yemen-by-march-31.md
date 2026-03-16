@@ -3,7 +3,7 @@ title: "US/Israel strike Yemen by March 31?"
 description: "US/Israel strike Yemen by March 31? Odds: 35.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "US/Israel strike Yemen by March 31?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-16
 expiryDate: 2026-03-31
 tags: ["politics", "polymarket"]

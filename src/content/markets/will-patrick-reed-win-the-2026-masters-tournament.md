@@ -1,17 +1,16 @@
 ---
 title: "Will Patrick Reed win the 2026 Masters tournament?"
-description: "Will Patrick Reed win the 2026 Masters tournament? Odds: 2.2% YES on Polymarket. See live prices and trade this market."
+description: "Will Patrick Reed win the 2026 Masters tournament? Odds: 2.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Patrick Reed win the 2026 Masters tournament?"
 category: "sports"
 status: "active"
 lastUpdated: 2026-03-16
 expiryDate: 2026-04-13
 tags: ["polymarket", "sports"]
-polymarketYes: 2.2
-polymarketNo: 97.8
-polymarketVolume: 96069
+polymarketYes: 2.1
+polymarketNo: 98.0
+polymarketVolume: 98217
 polymarketUrl: "https://polymarket.com/event/will-patrick-reed-win-the-2026-masters-tournament"
-analysisDate: 2026-03-16
 ---
 
 # Patrick Reed 2026 Masters Analysis

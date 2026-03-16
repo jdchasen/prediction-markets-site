@@ -9,9 +9,8 @@ expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
 polymarketYes: 47.5
 polymarketNo: 52.5
-polymarketVolume: 987326
+polymarketVolume: 987651
 polymarketUrl: "https://polymarket.com/event/2026-balance-of-power-d-senate-d-house-949"
-analysisDate: 2026-03-16
 ---
 
 The 2026 midterm prediction market currently prices unified Democratic control of Congress at roughly coin-flip odds, reflecting genuine uncertainty about whether Democrats can defend their Senate majority while simultaneously reclaiming the House from Republicans.

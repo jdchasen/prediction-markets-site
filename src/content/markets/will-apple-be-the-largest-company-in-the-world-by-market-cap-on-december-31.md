@@ -9,9 +9,8 @@ expiryDate: 2026-12-31
 tags: ["finance", "polymarket"]
 polymarketYes: 13.5
 polymarketNo: 86.5
-polymarketVolume: 98385
+polymarketVolume: 99258
 polymarketUrl: "https://polymarket.com/event/will-apple-be-the-largest-company-in-the-world-by-market-cap-on-december-31-291"
-analysisDate: 2026-03-16
 ---
 
 # Apple's Path to Top Market Cap: A 13.5% Probability Story

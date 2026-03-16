@@ -1,17 +1,16 @@
 ---
 title: "Will Rajasthan Royals win the 2026 Indian Premier League?"
-description: "Will Rajasthan Royals win the 2026 Indian Premier League? Odds: 7.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Rajasthan Royals win the 2026 Indian Premier League? Odds: 7.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Rajasthan Royals win the 2026 Indian Premier League?"
 category: "sports"
 status: "active"
 lastUpdated: 2026-03-16
 expiryDate: 2026-05-31
 tags: ["polymarket", "sports"]
-polymarketYes: 7.5
-polymarketNo: 92.5
-polymarketVolume: 9812
+polymarketYes: 7.0
+polymarketNo: 93.0
+polymarketVolume: 9829
 polymarketUrl: "https://polymarket.com/event/will-rajasthan-royals-win-the-2026-indian-premier-league"
-analysisDate: 2026-03-16
 ---
 
 # Rajasthan Royals 2026 IPL Championship Analysis

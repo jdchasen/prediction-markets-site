@@ -11,7 +11,6 @@ polymarketYes: 18.5
 polymarketNo: 81.5
 polymarketVolume: 96242
 polymarketUrl: "https://polymarket.com/event/israel-and-saudi-arabia-normalize-relations-before-2027"
-analysisDate: 2026-03-16
 ---
 
 The prediction market gives less than one-in-five odds for Israeli-Saudi normalization by 2027, reflecting deep skepticism despite years of diplomatic momentum that has stalled amid regional conflict and domestic political constraints in both nations.

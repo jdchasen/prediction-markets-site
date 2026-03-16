@@ -3,7 +3,7 @@ title: "Miami Open, Qualification: Mattia Bellucci vs Nicolas Jarry"
 description: "Miami Open, Qualification: Mattia Bellucci vs Nicolas Jarry Odds: 62.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Miami Open, Qualification: Mattia Bellucci vs Nicolas Jarry"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-16
 expiryDate: 2026-03-23
 tags: ["politics", "polymarket"]
