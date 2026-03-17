@@ -8,10 +8,9 @@ lastUpdated: 2026-03-17
 expiryDate: 2026-04-12
 tags: ["polymarket", "sports"]
 polymarketYes: 0.4
-polymarketNo: 99.7
-polymarketVolume: 9762
+polymarketNo: 99.6
+polymarketVolume: 9787
 polymarketUrl: "https://polymarket.com/event/nba-2025-26-3pm-leader-derrick-white"
-analysisDate: 2026-03-17
 ---
 
 # Derrick White Three-Pointer Leader Analysis

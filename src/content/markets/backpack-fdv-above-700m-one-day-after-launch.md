@@ -9,9 +9,8 @@ expiryDate: 2027-01-01
 tags: ["crypto", "polymarket"]
 polymarketYes: 7.5
 polymarketNo: 92.5
-polymarketVolume: 964787
+polymarketVolume: 969062
 polymarketUrl: "https://polymarket.com/event/backpack-fdv-above-700m-one-day-after-launch-883-479-717-394-856-479-516-889"
-analysisDate: 2026-03-17
 ---
 
 The market assigns only a 7.5% probability that Backpack will achieve a fully diluted valuation exceeding $700 million within 24 hours of its token launch, reflecting deep skepticism about retail and institutional appetite for another exchange token in a saturated market. This matters because Backpack, founded by former FTX developer Armani Ferrante and his Mad Lads team, represents one of the few post-FTX attempts to build credibility in the centralized exchange space, but launching into hostile market conditions.

@@ -3,7 +3,7 @@ title: "Will Bayern München reach the UEFA Champions League quarter-finals?"
 description: "Will Bayern München reach the UEFA Champions League quarter-finals? Odds: 99.6% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Bayern München reach the UEFA Champions League quarter-finals?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-17
 expiryDate: 2026-04-16
 tags: ["polymarket", "sports"]

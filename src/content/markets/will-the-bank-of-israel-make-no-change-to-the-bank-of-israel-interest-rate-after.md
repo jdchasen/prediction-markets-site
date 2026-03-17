@@ -1,17 +1,16 @@
 ---
 title: "Will the Bank of Israel make no change to the Bank of Israel Interest Rate after the March decision?"
-description: "Will the Bank of Israel make no change to the Bank of Israel Interest Rate after the March decision? Odds: 87.5% YES on Polymarket. See live prices and trade..."
+description: "Will the Bank of Israel make no change to the Bank of Israel Interest Rate after the March decision? Odds: 91.5% YES on Polymarket. See live prices and trade..."
 marketQuestion: "Will the Bank of Israel make no change to the Bank of Israel Interest Rate after the March decision?"
 category: "economics"
 status: "active"
 lastUpdated: 2026-03-17
 expiryDate: 2026-03-30
 tags: ["economics", "interest-rates", "polymarket"]
-polymarketYes: 87.5
-polymarketNo: 12.5
-polymarketVolume: 9403
+polymarketYes: 91.5
+polymarketNo: 8.5
+polymarketVolume: 9426
 polymarketUrl: "https://polymarket.com/event/will-the-bank-of-israel-make-no-change-to-the-bank-of-israel-interest-rate-after-the-march-decision"
-analysisDate: 2026-03-17
 ---
 
 # Bank of Israel Interest Rate Market Analysis

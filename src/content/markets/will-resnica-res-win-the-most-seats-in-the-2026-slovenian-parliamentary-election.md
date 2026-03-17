@@ -11,7 +11,6 @@ polymarketYes: 0.1
 polymarketNo: 100.0
 polymarketVolume: 97909
 polymarketUrl: "https://polymarket.com/event/will-resnica-res-win-the-most-seats-in-the-2026-slovenian-parliamentary-election"
-analysisDate: 2026-03-17
 ---
 
 The prediction market gives Resni.ca virtually no chance of winning the most seats in Slovenia's 2026 parliamentary election, reflecting the party's current marginal position in Slovenian politics. This matters as Slovenia's political landscape remains fluid following recent coalition reshuffles, with established parties like SDS and Gibanje Svoboda dominating the parliamentary scene.

@@ -9,9 +9,8 @@ expiryDate: 2026-03-31
 tags: ["politics", "polymarket"]
 polymarketYes: 18.5
 polymarketNo: 81.5
-polymarketVolume: 97667
+polymarketVolume: 97738
 polymarketUrl: "https://polymarket.com/event/tim-walz-charged-by-december-31-2026"
-analysisDate: 2026-03-17
 ---
 
 # Tim Walz Criminal Charges Market Analysis

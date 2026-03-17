@@ -9,9 +9,8 @@ expiryDate: 2026-10-10
 tags: ["politics", "polymarket"]
 polymarketYes: 0.4
 polymarketNo: 99.6
-polymarketVolume: 99413
+polymarketVolume: 99753
 polymarketUrl: "https://polymarket.com/event/will-khaled-mashal-win-the-nobel-peace-prize-in-2026-787"
-analysisDate: 2026-03-17
 ---
 
 The market pricing Khaled Mashal's Nobel Peace Prize chances at 0.4% reflects extreme skepticism that Hamas's former political leader could receive this honor, given his ongoing controversial status and the Nobel Committee's historical patterns. While the odds are minimal, this market captures broader questions about Middle East peace processes and how dramatically the geopolitical landscape would need to shift for such an outcome.

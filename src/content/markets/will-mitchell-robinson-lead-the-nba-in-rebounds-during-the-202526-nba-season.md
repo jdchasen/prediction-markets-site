@@ -9,9 +9,8 @@ expiryDate: 2026-04-12
 tags: ["polymarket", "sports"]
 polymarketYes: 0.1
 polymarketNo: 99.9
-polymarketVolume: 9822
+polymarketVolume: 9897
 polymarketUrl: "https://polymarket.com/event/nba-2025-26-rpg-leader-mitchell-robinson"
-analysisDate: 2026-03-17
 ---
 
 Mitchell Robinson's rebound title odds sit at 0.1%, reflecting the extremely low probability that a backup center with injury history and limited playing time will lead the entire league in boards during 2025–26. This market matters now because the 2024–25 season is underway, providing real data on Robinson's availability and role, which directly informs whether he could realistically accumulate the ~1,000+ rebounds typically needed to lead the NBA.

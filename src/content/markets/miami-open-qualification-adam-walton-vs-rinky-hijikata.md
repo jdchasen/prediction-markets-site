@@ -3,7 +3,7 @@ title: "Miami Open, Qualification: Adam Walton vs Rinky Hijikata"
 description: "Miami Open, Qualification: Adam Walton vs Rinky Hijikata Odds: 43.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Miami Open, Qualification: Adam Walton vs Rinky Hijikata"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-17
 expiryDate: 2026-03-24
 tags: ["politics", "polymarket"]

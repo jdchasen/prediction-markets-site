@@ -1,17 +1,16 @@
 ---
 title: "Deel IPO before 2027?"
-description: "Deel IPO before 2027? Odds: 16.5% YES on Polymarket. See live prices and trade this market."
+description: "Deel IPO before 2027? Odds: 17.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Deel IPO before 2027?"
 category: "finance"
 status: "active"
 lastUpdated: 2026-03-17
 expiryDate: 2026-12-31
 tags: ["finance", "polymarket"]
-polymarketYes: 16.5
-polymarketNo: 83.5
-polymarketVolume: 99486
+polymarketYes: 17.0
+polymarketNo: 83.0
+polymarketVolume: 99674
 polymarketUrl: "https://polymarket.com/event/deel-ipo-before-2027"
-analysisDate: 2026-03-17
 ---
 
 Deel, the global payroll and HR platform for remote workers, faces skeptical odds for a public debut before 2027, with traders pricing in less than a one-in-five chance despite the company's strong fundamentals and previous IPO momentum in the HR-tech space.

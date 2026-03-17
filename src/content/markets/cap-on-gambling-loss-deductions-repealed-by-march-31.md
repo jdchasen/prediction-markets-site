@@ -1,17 +1,16 @@
 ---
 title: "Cap on gambling loss deductions repealed by March 31?"
-description: "Cap on gambling loss deductions repealed by March 31? Odds: 4.2% YES on Polymarket. See live prices and trade this market."
+description: "Cap on gambling loss deductions repealed by March 31? Odds: 3.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Cap on gambling loss deductions repealed by March 31?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-03-17
 expiryDate: 2026-03-31
 tags: ["politics", "polymarket"]
-polymarketYes: 4.2
-polymarketNo: 95.8
-polymarketVolume: 96385
+polymarketYes: 3.0
+polymarketNo: 97.0
+polymarketVolume: 98782
 polymarketUrl: "https://polymarket.com/event/cap-on-gambling-loss-deductions-repealed-by-march-31"
-analysisDate: 2026-03-17
 ---
 
 # Analysis: Gambling Loss Deduction Cap Repeal Market

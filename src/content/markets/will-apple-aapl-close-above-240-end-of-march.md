@@ -3,7 +3,7 @@ title: "Will Apple (AAPL) close above $240 end of March?"
 description: "Will Apple (AAPL) close above $240 end of March? Odds: 84.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Apple (AAPL) close above $240 end of March?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-17
 expiryDate: 2026-03-31
 tags: ["politics", "polymarket"]

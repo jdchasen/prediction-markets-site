@@ -1,17 +1,16 @@
 ---
 title: "Will the Fed decide differently in the next three decisions (Jan–Mar–Apr)?"
-description: "Will the Fed decide differently in the next three decisions (Jan–Mar–Apr)? Odds: 1.7% YES on Polymarket. See live prices and trade this market."
+description: "Will the Fed decide differently in the next three decisions (Jan–Mar–Apr)? Odds: 1.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Fed decide differently in the next three decisions (Jan–Mar–Apr)?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-03-17
 expiryDate: 2026-04-29
 tags: ["federal-reserve", "politics", "polymarket"]
-polymarketYes: 1.7
-polymarketNo: 98.4
-polymarketVolume: 95983
+polymarketYes: 1.8
+polymarketNo: 98.2
+polymarketVolume: 96273
 polymarketUrl: "https://polymarket.com/event/will-the-fed-decide-differently-in-the-next-three-decisions-janmarapr"
-analysisDate: 2026-03-17
 ---
 
 This market is pricing in an extremely low probability that the Federal Reserve will reverse course across three consecutive decision meetings spanning January through April 2025, reflecting broad expectations for policy continuity despite persistent inflation concerns. The ultra-low odds matter because they reveal where the market believes monetary policy is headed and suggest traders see little catalyst for the Fed to materially shift its current trajectory within this compressed timeframe.

@@ -1,17 +1,16 @@
 ---
 title: "Will Bruce Blakeman win the 2026 New York Governor Republican primary election?"
-description: "Will Bruce Blakeman win the 2026 New York Governor Republican primary election? Odds: 94.0% YES on Polymarket. See live prices and trade this market."
+description: "Will Bruce Blakeman win the 2026 New York Governor Republican primary election? Odds: 93.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Bruce Blakeman win the 2026 New York Governor Republican primary election?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-03-17
 expiryDate: 2026-06-23
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 94.0
-polymarketNo: 6.0
+polymarketYes: 93.5
+polymarketNo: 6.5
 polymarketVolume: 9827
 polymarketUrl: "https://polymarket.com/event/will-bruce-blakeman-win-the-2026-new-york-governor-republican-primary-election"
-analysisDate: 2026-03-17
 ---
 
 # 2026 NY Republican Governor Primary: Bruce Blakeman's Commanding Position

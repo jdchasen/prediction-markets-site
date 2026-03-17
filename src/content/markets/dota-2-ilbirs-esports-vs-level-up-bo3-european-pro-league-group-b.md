@@ -3,7 +3,7 @@ title: "Dota 2: Ilbirs eSports vs Level UP (BO3) - European Pro League Group B"
 description: "Dota 2: Ilbirs eSports vs Level UP (BO3) - European Pro League Group B Odds: 35.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Dota 2: Ilbirs eSports vs Level UP (BO3) - European Pro League Group B"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-17
 expiryDate: 2026-03-20
 tags: ["politics", "polymarket"]

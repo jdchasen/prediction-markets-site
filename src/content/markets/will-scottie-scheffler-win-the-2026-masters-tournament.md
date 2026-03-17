@@ -1,17 +1,16 @@
 ---
 title: "Will Scottie Scheffler win the 2026 Masters tournament?"
-description: "Will Scottie Scheffler win the 2026 Masters tournament? Odds: 18.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Scottie Scheffler win the 2026 Masters tournament? Odds: 17.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Scottie Scheffler win the 2026 Masters tournament?"
 category: "sports"
 status: "active"
 lastUpdated: 2026-03-17
 expiryDate: 2026-04-13
 tags: ["polymarket", "sports"]
-polymarketYes: 18.5
-polymarketNo: 81.5
-polymarketVolume: 97933
+polymarketYes: 17.5
+polymarketNo: 82.5
+polymarketVolume: 99560
 polymarketUrl: "https://polymarket.com/event/will-scottie-scheffler-win-the-2026-masters-tournament"
-analysisDate: 2026-03-17
 ---
 
 Scottie Scheffler enters the 2026 Masters conversation with nearly one-in-five odds, reflecting his status as golf's most dominant player but also the inherent difficulty of predicting a major championship winner two years out. The market prices in his elite ball-striking, proven Augusta National pedigree (2022 winner, multiple top-10 finishes), and current world number one ranking, while acknowledging the variance inherent in golf and the long time horizon.

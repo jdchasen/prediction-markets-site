@@ -9,9 +9,8 @@ expiryDate: 2026-04-13
 tags: ["polymarket", "sports"]
 polymarketYes: 0.7
 polymarketNo: 99.4
-polymarketVolume: 97977
+polymarketVolume: 98348
 polymarketUrl: "https://polymarket.com/event/will-max-homa-win-the-2026-masters-tournament"
-analysisDate: 2026-03-17
 ---
 
 The market prices Max Homa at less than 1% to win the 2026 Masters, reflecting his status as a solid but not elite major championship contender despite his success in PGA Tour events. This matters because Homa represents a category of consistently strong tour players who excel in standard events but haven't broken through in golf's biggest tournaments, making this a test of whether regular-season form translates to Augusta National success.

@@ -9,9 +9,8 @@ expiryDate: 2028-11-07
 tags: ["politics", "polymarket"]
 polymarketYes: 0.8
 polymarketNo: 99.2
-polymarketVolume: 9884396
+polymarketVolume: 9897949
 polymarketUrl: "https://polymarket.com/event/will-robert-f-kennedy-jr-win-the-2028-republican-presidential-nomination"
-analysisDate: 2026-03-17
 ---
 
 The market gives RFK Jr. almost no chance of winning the 2028 Republican nomination, reflecting deep skepticism that the former independent candidate and Kennedy Democrat can transform into a viable GOP standard-bearer within four years.

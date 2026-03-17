@@ -9,9 +9,8 @@ expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
 polymarketYes: 5.6
 polymarketNo: 94.4
-polymarketVolume: 9639
+polymarketVolume: 9645
 polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-al-01-house-seat"
-analysisDate: 2026-03-17
 ---
 
 # AL-01 Democratic Viability: A Deep Structural Disadvantage Reflected in Current Odds

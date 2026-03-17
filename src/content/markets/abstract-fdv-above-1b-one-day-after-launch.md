@@ -9,9 +9,8 @@ expiryDate: 2028-01-01
 tags: ["crypto", "polymarket"]
 polymarketYes: 16.5
 polymarketNo: 83.5
-polymarketVolume: 9758
+polymarketVolume: 9828
 polymarketUrl: "https://polymarket.com/event/abstract-fdv-above-1b-one-day-after-launch"
-analysisDate: 2026-03-17
 ---
 
 # Analysis: Abstract FDV Above $1B at Launch

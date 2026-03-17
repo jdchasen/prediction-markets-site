@@ -1,17 +1,16 @@
 ---
 title: "Will S&P 500 (SPX) hit $7,000 (HIGH) in March 2026?"
-description: "Will S&P 500 (SPX) hit $7,000 (HIGH) in March 2026? Odds: 15.0% YES on Polymarket. See live prices and trade this market."
+description: "Will S&P 500 (SPX) hit $7,000 (HIGH) in March 2026? Odds: 14.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will S&P 500 (SPX) hit $7,000 (HIGH) in March 2026?"
 category: "finance"
 status: "active"
 lastUpdated: 2026-03-17
 expiryDate: 2026-03-31
 tags: ["finance", "polymarket", "stocks"]
-polymarketYes: 15.0
-polymarketNo: 85.0
-polymarketVolume: 9697
+polymarketYes: 14.0
+polymarketNo: 86.0
+polymarketVolume: 9734
 polymarketUrl: "https://polymarket.com/event/will-sp-500-spx-hit-7000-high-in-march-2026"
-analysisDate: 2026-03-17
 ---
 
 # S&P 500 at $7,000 by March 2026: A 15% Probability in Question

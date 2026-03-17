@@ -1,17 +1,16 @@
 ---
 title: "Backpack FDV above $500M one day after launch?"
-description: "Backpack FDV above $500M one day after launch? Odds: 21.5% YES on Polymarket. See live prices and trade this market."
+description: "Backpack FDV above $500M one day after launch? Odds: 18.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Backpack FDV above $500M one day after launch?"
 category: "crypto"
 status: "active"
 lastUpdated: 2026-03-17
 expiryDate: 2027-01-01
 tags: ["crypto", "polymarket"]
-polymarketYes: 21.5
-polymarketNo: 78.5
-polymarketVolume: 981902
+polymarketYes: 18.5
+polymarketNo: 81.5
+polymarketVolume: 993580
 polymarketUrl: "https://polymarket.com/event/backpack-fdv-above-500m-one-day-after-launch-438-945-648-297-327-559-281"
-analysisDate: 2026-03-17
 ---
 
 The market pricing Backpack's fully diluted valuation above $500M at just over one-in-five odds reflects substantial skepticism about the exchange platform achieving a premium valuation in what has become an increasingly crowded crypto exchange landscape. With the expiry set for January 2027 and the specific trigger being "one day after launch," traders are essentially betting on whether Backpack can command a valuation comparable to mid-tier exchanges despite launching into a market dominated by established players like Binance, Coinbase, and emerging competitors.

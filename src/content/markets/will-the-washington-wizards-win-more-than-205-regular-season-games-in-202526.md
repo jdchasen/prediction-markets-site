@@ -11,7 +11,6 @@ polymarketYes: 30.6
 polymarketNo: 69.4
 polymarketVolume: 97119
 polymarketUrl: "https://polymarket.com/event/will-the-washington-wizards-win-more-than-20pt5-regular-season-games-in-202526"
-analysisDate: 2026-03-17
 ---
 
 # Analysis

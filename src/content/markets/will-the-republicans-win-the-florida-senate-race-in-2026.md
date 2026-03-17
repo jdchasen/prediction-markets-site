@@ -10,7 +10,6 @@ polymarketYes: 83.5
 polymarketNo: 16.5
 polymarketVolume: 9615
 polymarketUrl: "https://polymarket.com/event/will-the-republicans-win-the-florida-senate-race-in-2026"
-analysisDate: 2026-03-17
 ---
 
 # Florida Senate 2026: Republicans Heavily Favored but Structural Headwinds Loom

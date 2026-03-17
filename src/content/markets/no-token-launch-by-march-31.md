@@ -1,17 +1,16 @@
 ---
 title: "No token launch by March 31"
-description: "No token launch by March 31 Odds: 1.4% YES on Polymarket. See live prices and trade this market."
+description: "No token launch by March 31 Odds: 0.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "No token launch by March 31"
 category: "crypto"
 status: "active"
 lastUpdated: 2026-03-17
 expiryDate: 2026-04-01
 tags: ["crypto", "polymarket"]
-polymarketYes: 1.4
-polymarketNo: 98.7
-polymarketVolume: 9683
+polymarketYes: 0.9
+polymarketNo: 99.1
+polymarketVolume: 9776
 polymarketUrl: "https://polymarket.com/event/no-token-launch-by-march-31-273"
-analysisDate: 2026-03-17
 ---
 
 # Token Launch Prediction Market Analysis

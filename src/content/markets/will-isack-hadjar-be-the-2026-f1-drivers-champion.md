@@ -9,9 +9,8 @@ expiryDate: 2026-12-06
 tags: ["polymarket", "sports"]
 polymarketYes: 0.4
 polymarketNo: 99.7
-polymarketVolume: 989248
+polymarketVolume: 992228
 polymarketUrl: "https://polymarket.com/event/will-isack-hadjar-be-the-2026-f1-drivers-champion"
-analysisDate: 2026-03-17
 ---
 
 The market gives Isack Hadjar virtually no chance at capturing the 2026 F1 Drivers' Championship, reflecting the immense difficulty of a rookie or second-year driver achieving motorsport's ultimate prize in their first competitive seasons.

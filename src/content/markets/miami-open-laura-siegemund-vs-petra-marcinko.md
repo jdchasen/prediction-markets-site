@@ -3,7 +3,7 @@ title: "Miami Open: Laura Siegemund vs Petra Marcinko"
 description: "Miami Open: Laura Siegemund vs Petra Marcinko Odds: 56.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Miami Open: Laura Siegemund vs Petra Marcinko"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-17
 expiryDate: 2026-03-24
 tags: ["politics", "polymarket"]

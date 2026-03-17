@@ -9,9 +9,8 @@ expiryDate: 2026-04-01
 tags: ["politics", "polymarket"]
 polymarketYes: 0.8
 polymarketNo: 99.2
-polymarketVolume: 9948
+polymarketVolume: 9953
 polymarketUrl: "https://polymarket.com/event/will-bnb-dip-to-300-in-march"
-analysisDate: 2026-03-17
 ---
 
 # BNB Price Prediction Market Analysis

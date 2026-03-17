@@ -8,10 +8,9 @@ lastUpdated: 2026-03-17
 expiryDate: 2026-05-27
 tags: ["polymarket", "sports"]
 polymarketYes: 0.4
-polymarketNo: 99.6
+polymarketNo: 99.7
 polymarketVolume: 99433
 polymarketUrl: "https://polymarket.com/event/will-liverpool-be-relegated-from-the-english-premier-league-after-the-202526-season"
-analysisDate: 2026-03-17
 ---
 
 The market pricing Liverpool's relegation chances at less than half a percent reflects the overwhelming consensus that one of English football's most decorated clubs faces virtually no risk of dropping to the Championship, though the mere existence of this market captures how dramatically their 2024-25 campaign has underperformed historical standards.

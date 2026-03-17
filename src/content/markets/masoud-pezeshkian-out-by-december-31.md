@@ -1,17 +1,16 @@
 ---
 title: "Masoud Pezeshkian out by December 31?"
-description: "Masoud Pezeshkian out by December 31? Odds: 41.0% YES on Polymarket. See live prices and trade this market."
+description: "Masoud Pezeshkian out by December 31? Odds: 42.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Masoud Pezeshkian out by December 31?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-03-17
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 41.0
-polymarketNo: 59.0
-polymarketVolume: 99709
+polymarketYes: 42.5
+polymarketNo: 57.5
+polymarketVolume: 99733
 polymarketUrl: "https://polymarket.com/event/masoud-pezeshkian-out-by-december-31"
-analysisDate: 2026-03-17
 ---
 
 Traders are pricing in roughly two-in-five odds that Iranian President Masoud Pezeshkian will be removed from office before the end of 2026, reflecting deep uncertainty about the regime's stability and the reformist president's ability to navigate Iran's factional politics following his July 2024 election. This market matters because Pezeshkian's tenure represents a test of whether relatively moderate voices can survive within Iran's theocratic system amid economic crisis, ongoing protests, and regional tensions.

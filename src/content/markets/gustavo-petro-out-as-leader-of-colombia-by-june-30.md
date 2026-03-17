@@ -3,7 +3,7 @@ title: "Gustavo Petro out as leader of Colombia by June 30?"
 description: "Gustavo Petro out as leader of Colombia by June 30? Odds: 2.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Gustavo Petro out as leader of Colombia by June 30?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-17
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]

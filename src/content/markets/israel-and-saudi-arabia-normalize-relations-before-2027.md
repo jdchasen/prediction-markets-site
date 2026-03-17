@@ -1,17 +1,16 @@
 ---
 title: "Israel and Saudi Arabia normalize relations before 2027?"
-description: "Israel and Saudi Arabia normalize relations before 2027? Odds: 19.0% YES on Polymarket. See live prices and trade this market."
+description: "Israel and Saudi Arabia normalize relations before 2027? Odds: 20.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Israel and Saudi Arabia normalize relations before 2027?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-03-17
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 19.0
-polymarketNo: 81.0
-polymarketVolume: 96661
+polymarketYes: 20.5
+polymarketNo: 79.5
+polymarketVolume: 96906
 polymarketUrl: "https://polymarket.com/event/israel-and-saudi-arabia-normalize-relations-before-2027"
-analysisDate: 2026-03-17
 ---
 
 Traders are pricing less than a one-in-five chance of Israel-Saudi normalization by 2027, reflecting significant geopolitical obstacles despite ongoing backchannel discussions that have intensified since the Abraham Accords framework established a pathway for Arab-Israeli relations in 2020.
