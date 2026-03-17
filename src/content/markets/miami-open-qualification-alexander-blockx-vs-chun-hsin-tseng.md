@@ -3,8 +3,8 @@ title: "Miami Open, Qualification: Alexander Blockx vs Chun-Hsin Tseng"
 description: "Miami Open, Qualification: Alexander Blockx vs Chun-Hsin Tseng Odds: 100.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Miami Open, Qualification: Alexander Blockx vs Chun-Hsin Tseng"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-16
+status: "settled"
+lastUpdated: 2026-03-17
 expiryDate: 2026-03-23
 tags: ["politics", "polymarket"]
 polymarketYes: 100.0

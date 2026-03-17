@@ -3,8 +3,8 @@ title: "Miami Open: Shuai Zhang vs Sorana Cirstea"
 description: "Miami Open: Shuai Zhang vs Sorana Cirstea Odds: 25.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Miami Open: Shuai Zhang vs Sorana Cirstea"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-16
+status: "settled"
+lastUpdated: 2026-03-17
 expiryDate: 2026-03-24
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 25.5

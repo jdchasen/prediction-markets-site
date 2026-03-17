@@ -3,8 +3,8 @@ title: "US strike on Cuba by March 31?"
 description: "US strike on Cuba by March 31? Odds: 3.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "US strike on Cuba by March 31?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-16
+status: "settled"
+lastUpdated: 2026-03-17
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 3.9

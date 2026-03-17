@@ -1,45 +1,48 @@
 ---
 title: "Will the Bank of Israel make no change to the Bank of Israel Interest Rate after the March decision?"
-description: "Will the Bank of Israel make no change to the Bank of Israel Interest Rate after the March decision? Odds: 87.0% YES on Polymarket. See live prices and trade..."
+description: "Will the Bank of Israel make no change to the Bank of Israel Interest Rate after the March decision? Odds: 87.5% YES on Polymarket. See live prices and trade..."
 marketQuestion: "Will the Bank of Israel make no change to the Bank of Israel Interest Rate after the March decision?"
 category: "economics"
 status: "active"
-lastUpdated: 2026-03-16
+lastUpdated: 2026-03-17
 expiryDate: 2026-03-30
 tags: ["economics", "interest-rates", "polymarket"]
-polymarketYes: 87.0
-polymarketNo: 13.0
-polymarketVolume: 9383
+polymarketYes: 87.5
+polymarketNo: 12.5
+polymarketVolume: 9403
 polymarketUrl: "https://polymarket.com/event/will-the-bank-of-israel-make-no-change-to-the-bank-of-israel-interest-rate-after-the-march-decision"
+analysisDate: 2026-03-17
 ---
 
-The market is pricing in a 82.5% probability that the Bank of Israel holds rates steady at its March 2026 decision, reflecting expectations for a pause in the central bank's monetary policy cycle. This matters because Israeli inflation has been volatile, and rate decisions directly impact shekel strength, bond yields, and consumer borrowing costs across the economy.
+# Bank of Israel Interest Rate Market Analysis
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 82.5% | 17.5% | $9K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 87.5% | 12.5% | $9K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The bull case for no change rests on several factors: if inflation moderates toward the BoI's 1-3% target band by Q1 2026, policymakers will have less urgency to move rates in either direction. Recent BoI guidance has emphasized patience after a tightening cycle, and a pause allows them to assess data before year-end decisions. Additionally, if global central banks (particularly the Fed) signal slower rate cuts or hold steady through early 2026, the BoI will face less pressure to deviate. The bear case centers on upside inflation surprises: if Israeli CPI prints above 3% in the months leading to March, or if core inflation remains sticky, the BoI could signal another hike to anchor expectations. Geopolitical risks and currency depreciation (which imported goods prices higher) could force an earlier tightening move than markets expect.
+The prediction market is heavily pricing in monetary stability from the Bank of Israel at its March 2026 decision, reflecting expectations of a prolonged holding pattern in Israeli monetary policy. This matters because Israel's central bank has been navigating conflicting pressures—inflation persistence, shekel volatility against the dollar, and geopolitical uncertainty—making rate decisions consequential for both domestic asset prices and regional economic sentiment. A 87.5% probability of no change suggests traders believe the BoI will maintain its current stance rather than pivot toward cuts or hikes.
 
-Watch for Israel's monthly CPI releases (typically mid-month) through February 2026—any print above 3.5% would immediately shift odds toward a hike. The BoI's January 2026 monetary policy statement and accompanying inflation forecast will be critical; if the bank revises its 2026 inflation expectations higher, the no-change probability could compress sharply. Track the U.S. Fed's February and March 2026 decisions closely, since dollar strength or unexpected Fed tightening could weaken the shekel and force Israeli rate support. Finally, monitor geopolitical developments and any major fiscal stimulus announcements from the Israeli government, both of which can drive inflation and shift the BoI's hand before the March meeting.
+The bull case for unchanged rates rests on the BoI's demonstrated commitment to inflation targeting and the lag effects from prior tightening cycles. If Israeli CPI data between now and March shows inflation stabilizing around the 2% target (with key releases expected monthly through Q1 2026), the BoI will have little reason to alter course. Additionally, any strengthening of the shekel versus the dollar would reduce imported inflation pressures, further supporting a hold. The Fed's monetary path matters directly here: if the FOMC maintains elevated rates through early 2026 or signals hawkishness at its January and March meetings, carry-trade dynamics will keep BoI rates elevated by comparison. The bear case for a rate cut hinges on recession risk. If Israeli GDP growth disappoints in Q4 2025 data (released by late February), or if unemployment ticks upward beyond the BoI's comfort zone, March could bring a surprise 25bp cut. Geopolitical escalation or a sharp shekel appreciation could also force the BoI's hand—a suddenly weaker dollar environment might allow rate cuts without inflation risks, making the market's 12.5% cut probability underpriced.
+
+Watch three specific data releases: Israeli CPI on January 15, February 15, and March 15 (the last one could arrive after the March 31 decision date, so February's print matters most); monthly unemployment figures through February; and shekel spot rates against the dollar, which traders should monitor for any rapid appreciation that might signal a policy window for cuts. The FOMC's January 29 and March 18-19 meeting decisions will establish the broader rate-differential context. Any surprise disinflation in Israeli data or external demand shock would move this market toward the 12.5% cut probability—conversely, sticky inflation or stronger-than-expected growth would lock in the 87.5% hold probability.
 
 ## Frequently Asked Questions
 
-### Why is the probability for no change so high at 82.5% when we're still nine months away from the decision?
+### What is the current Bank of Israel benchmark rate, and why does that matter for interpreting the March decision?
 
-The BoI typically signals policy direction well in advance through forward guidance; current market pricing reflects consensus that the central bank has completed its tightening cycle and prefers to hold while monitoring inflation data, which would need to deteriorate significantly to justify another move.
+As of late 2025, the BoI rate stands at approximately 4.75%, having been cut modestly from earlier peaks; any March decision will hinge on whether inflation remains anchored at this level or whether fresh pressures demand further adjustment.
 
-### If the Fed cuts rates in early 2026, wouldn't that force the BoI to cut as well to prevent shekel appreciation?
+### How does Israeli inflation data frequency affect this market's accuracy compared to other central banks?
 
-Not necessarily—the BoI prioritizes domestic inflation control over currency management; if Israeli inflation remains elevated, the bank could hold or even hike while the Fed cuts, accepting shekel appreciation as a side effect.
+The BoI releases CPI monthly (unlike quarterly cycles in some economies), giving traders frequent real-time signals; this high-frequency data flow reduces surprise probabilities and likely explains the market's confidence in a hold.
 
-### What specific Israeli economic data releases between now and March would most likely flip this market to a rate-hike outcome?
+### If the shekel strengthens significantly against the dollar before March, would the BoI be more likely to cut?
 
-Two consecutive months of headline CPI above 3.5% or a core inflation print (excluding volatile items like energy and food) above 2.5% would be the most credible signals that the BoI needs to hike rather than pause.
+Yes, a stronger shekel reduces imported inflation risk and import-dependent growth, potentially giving the BoI room to ease without overshooting its price-stability mandate, which would shift odds meaningfully toward cuts.
 
 ## Learn More
 

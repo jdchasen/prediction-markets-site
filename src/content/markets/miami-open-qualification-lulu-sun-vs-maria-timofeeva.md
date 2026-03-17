@@ -3,8 +3,8 @@ title: "Miami Open, Qualification: Lulu Sun vs Maria Timofeeva"
 description: "Miami Open, Qualification: Lulu Sun vs Maria Timofeeva Odds: 100.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Miami Open, Qualification: Lulu Sun vs Maria Timofeeva"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-16
+status: "settled"
+lastUpdated: 2026-03-17
 expiryDate: 2026-03-22
 tags: ["politics", "polymarket"]
 polymarketYes: 100.0

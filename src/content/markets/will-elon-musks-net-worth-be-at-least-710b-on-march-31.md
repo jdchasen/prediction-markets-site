@@ -3,8 +3,8 @@ title: "Will Elon Musk’s net worth be at least $710b on March 31?"
 description: "Will Elon Musk’s net worth be at least $710b on March 31? Odds: 18.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Elon Musk’s net worth be at least $710b on March 31?"
 category: "tech"
-status: "active"
-lastUpdated: 2026-03-16
+status: "settled"
+lastUpdated: 2026-03-17
 expiryDate: 2026-03-31
 tags: ["polymarket", "tech"]
 polymarketYes: 18.0

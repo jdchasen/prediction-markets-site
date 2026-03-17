@@ -3,8 +3,8 @@ title: "Andy Jassy out as Amazon CEO before 2027?"
 description: "Andy Jassy out as Amazon CEO before 2027? Odds: 21.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Andy Jassy out as Amazon CEO before 2027?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-16
+status: "settled"
+lastUpdated: 2026-03-17
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 21.0

@@ -3,8 +3,8 @@ title: "Will Houston win the 2026 NCAA Tournament?"
 description: "Will Houston win the 2026 NCAA Tournament? Odds: 6.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Houston win the 2026 NCAA Tournament?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-16
+status: "settled"
+lastUpdated: 2026-03-17
 expiryDate: 2026-04-04
 tags: ["politics", "polymarket"]
 polymarketYes: 6.5

@@ -3,8 +3,8 @@ title: "Will the Fed Pause–Pause–Pause in the next three decisions (Mar–Ap
 description: "Will the Fed Pause–Pause–Pause in the next three decisions (Mar–Apr–Jun)? Odds: 60.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Fed Pause–Pause–Pause in the next three decisions (Mar–Apr–Jun)?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-16
+status: "settled"
+lastUpdated: 2026-03-17
 expiryDate: 2026-06-17
 tags: ["federal-reserve", "politics", "polymarket"]
 polymarketYes: 60.5

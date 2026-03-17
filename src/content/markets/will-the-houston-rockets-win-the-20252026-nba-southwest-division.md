@@ -3,8 +3,8 @@ title: "Will the Houston Rockets win the 2025–2026 NBA Southwest Division?"
 description: "Will the Houston Rockets win the 2025–2026 NBA Southwest Division? Odds: 3.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Houston Rockets win the 2025–2026 NBA Southwest Division?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-03-16
+status: "settled"
+lastUpdated: 2026-03-17
 expiryDate: 2026-04-12
 tags: ["polymarket", "sports"]
 polymarketYes: 3.0

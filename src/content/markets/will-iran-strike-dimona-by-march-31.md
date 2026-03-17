@@ -3,8 +3,8 @@ title: "Will Iran strike Dimona by March 31?"
 description: "Will Iran strike Dimona by March 31? Odds: 6.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Iran strike Dimona by March 31?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-16
+status: "settled"
+lastUpdated: 2026-03-17
 tags: ["politics", "polymarket"]
 polymarketYes: 6.5
 polymarketNo: 93.5

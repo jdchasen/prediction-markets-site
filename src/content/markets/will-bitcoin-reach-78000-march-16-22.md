@@ -3,8 +3,8 @@ title: "Will Bitcoin reach $78,000 March 16-22?"
 description: "Will Bitcoin reach $78,000 March 16-22? Odds: 51.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Bitcoin reach $78,000 March 16-22?"
 category: "crypto"
-status: "active"
-lastUpdated: 2026-03-16
+status: "settled"
+lastUpdated: 2026-03-17
 expiryDate: 2026-03-23
 tags: ["bitcoin", "crypto", "polymarket"]
 polymarketYes: 51.5

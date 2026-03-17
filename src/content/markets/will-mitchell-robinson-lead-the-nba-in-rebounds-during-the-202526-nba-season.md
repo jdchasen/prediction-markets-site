@@ -4,16 +4,17 @@ description: "Will Mitchell Robinson lead the NBA in rebounds during the 2025–
 marketQuestion: "Will Mitchell Robinson lead the NBA in rebounds during the 2025–26 NBA season?"
 category: "sports"
 status: "active"
-lastUpdated: 2026-03-16
+lastUpdated: 2026-03-17
 expiryDate: 2026-04-12
 tags: ["polymarket", "sports"]
 polymarketYes: 0.1
 polymarketNo: 99.9
-polymarketVolume: 9811
+polymarketVolume: 9822
 polymarketUrl: "https://polymarket.com/event/nba-2025-26-rpg-leader-mitchell-robinson"
+analysisDate: 2026-03-17
 ---
 
-This market is pricing Mitchell Robinson as an extreme longshot to lead the NBA in rebounds next season, reflecting legitimate structural barriers that make his path nearly impossible. The 0.1% odds suggest traders view this outcome as requiring a catastrophic shift in either Robinson's circumstances or the league's landscape, making it worth examining what would actually need to happen for this bet to cash.
+Mitchell Robinson's rebound title odds sit at 0.1%, reflecting the extremely low probability that a backup center with injury history and limited playing time will lead the entire league in boards during 2025–26. This market matters now because the 2024–25 season is underway, providing real data on Robinson's availability and role, which directly informs whether he could realistically accumulate the ~1,000+ rebounds typically needed to lead the NBA.
 
 ## Current Odds
 
@@ -23,31 +24,31 @@ This market is pricing Mitchell Robinson as an extreme longshot to lead the NBA 
 
 ## Market Analysis
 
-The bull case hinges on Robinson's ceiling as a rim-running, lob-catching center with legitimate rebounding instincts when healthy. At 7'1" with a 7'6" wingspan, he possesses the physical tools to compete for boards, and if he avoids the chronic injury issues that have plagued his career, he could theoretically average 12+ rebounds per game alongside Isaiah Hartenstein and Jalen Brunson in New York's system. A scenario where he plays 75+ games without setbacks while benefiting from increased usage following a potential Knicks trade or free agency move could shift his volume. However, this requires him to break a troubling pattern: Robinson has played more than 61 games in a season exactly once in his career (2022-23 season: 72 games). The Knicks would also need to significantly shift their defensive scheme and bench rotations to maximize his rebounding opportunities rather than deploying Julius Randle or other bigs.
+The bull case requires a near-perfect storm: Robinson must stay healthy for an entire season (he's missed significant time in each of the past three years with foot and ankle issues), earn starter minutes or significant bench production with the Knicks, and outrebound perennial leaders like Joel Embiid, Domantas Sabonis, and Anthony Davis. If the Knicks experience injuries to their frontcourt or dramatically increase Robinson's role, and he avoids injury, he could theoretically accumulate 30+ minutes per game. His 13.2 rebounds per 36 minutes last season is respectable, but he'd need to maintain that efficiency over a full season while playing 2,000+ minutes—a feat he hasn't accomplished since 2019–20.
 
-The bear case is overwhelming and explains the near-zero odds. Nikola Jokic, Joel Embiid, Bam Adebayo, and Anthony Davis will almost certainly occupy the top rebounding spots, with each averaging 11-14 boards and playing 70+ games on star-heavy teams. Robinson would need to not only stay healthy but drastically outrebound established centers in their primes—a tall order for a player with just 248 career games played across six seasons. His injury history (foot problems, multiple surgeries) remains the core issue; the Knicks have limited incentive to run their offense through Robinson when Randle and Hartenstein offer more reliability. Even if Robinson hits his ceiling, he'd likely finish 6th-10th among centers in rebounds rather than leading the entire league.
+The bear case is far more compelling: Robinson is 25 years old with a chronic injury pattern that has limited him to 113 games over the past three seasons. The Knicks have Julius Randle and currently deploy Robinson as a backup, meaning volume is capped. Even elite rebounders like Embiid and Sabonis only average 11–12 boards per game; Robinson would need to maintain elite efficiency AND play starter's minutes, which seems incompatible with current roster construction. Additionally, established rebounding leaders already have established roles and team commitment—Robinson would need to significantly outperform players who log more minutes and have better health track records.
 
-Traders should monitor Robinson's availability during the 2025-26 season itself, particularly any foot or ankle complications that emerge in the first half. The Knicks' rotation decisions in November-December 2025 will signal whether management trusts him with heavy minutes, while all-star selections in January will indicate if he's even in contention for high-volume rebounding nights. Any significant trade or free agency movement involving Robinson before the season would be a major catalyst, as would surprise injuries to Jokic, Embiid, or Davis—though betting on those injuries rather than Robinson's health is an unfavorable path to profitability.
+Catalysts to watch include the Knicks' frontcourt injury reports through the 2024–25 season (January–April 2025), any mid-season trades that might increase Robinson's role, and his actual game log performance for rebounding volume. The critical period is the trade deadline in February 2025; if the Knicks add another center, Robinson's path becomes impossible. By draft season in June 2025, his role for 2025–26 should be clarified. At 0.1% implied probability, this market is pricing Robinson as a near-impossible candidate—traders should only consider YES positions if he dramatically increases his playing time or if multiple frontcourt players ahead of him suffer season-ending injuries by mid-season 2024–25.
 
 ## Related Markets
 
 - [Will the Dallas Mavericks win the 2026 NBA Finals?](/odds/will-the-dallas-mavericks-win-the-2026-nba-finals) — 0% YES
 - [Will Canada win the 2026 FIFA World Cup?](/odds/will-canada-win-the-2026-fifa-world-cup) — 0% YES
-- [Will Sporting win the 2025–26 Champions League?](/odds/will-sporting-win-the-202526-champions-league) — 0% YES
+- [Will Isack Hadjar be the 2026 F1 Drivers' Champion?](/odds/will-isack-hadjar-be-the-2026-f1-drivers-champion) — 0% YES
 
 ## Frequently Asked Questions
 
-### What's Robinson's career rebounding average compared to the typical league leader?
+### What injury history specifically disqualifies Robinson from being a favorite?
 
-Robinson averages 9.3 rebounds per game across his limited games played, while recent rebounding leaders (Jokic, Adebayo) average 11-13 boards—a significant gap he'd need to close while actually staying on the court.
+Robinson has suffered foot and ankle injuries in three consecutive seasons (2022–2025), missing 75+ games combined, making a full healthy 2025–26 season statistically unlikely given his injury trajectory.
 
-### Could a trade to a different team improve his chances?
+### Would Robinson need to change teams for this bet to have value?
 
-Potentially, but only if he moved to a rebuilding team willing to run a post-heavy offense through him; contenders with playoff aspirations will prioritize more reliable, durable centers.
+Yes—a trade to a contender needing rebounding depth could increase his minutes, but even then he'd need to outpace established stars, making the probability remain extremely low regardless of team.
 
-### Is this market efficiently priced at 0.1%, or is there value for contrarians?
+### What rebound average would Robinson need over 2,000 minutes to realistically win this market?
 
-The odds appear rational given Robinson's injury history and competition; the only contrarian play would require believing multiple star centers will miss significant time and
+He'd need approximately 13–14 rebounds per game average to accumulate 1,050–1,120 total rebounds, which would only lead the league if current leaders (Embiid, Sabonis) significantly underperform or miss time.
 
 ## Learn More
 

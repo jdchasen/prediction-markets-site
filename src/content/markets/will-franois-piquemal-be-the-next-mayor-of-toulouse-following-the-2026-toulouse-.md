@@ -3,8 +3,8 @@ title: "Will François Piquemal be the next mayor of Toulouse following the 2026
 description: "Will François Piquemal be the next mayor of Toulouse following the 2026 Toulouse municipal election? Odds: 39.1% YES on Polymarket. See live prices and trade..."
 marketQuestion: "Will François Piquemal be the next mayor of Toulouse following the 2026 Toulouse municipal election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-16
+status: "settled"
+lastUpdated: 2026-03-17
 expiryDate: 2026-03-22
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 39.1

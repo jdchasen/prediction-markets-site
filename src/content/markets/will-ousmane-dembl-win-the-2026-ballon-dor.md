@@ -3,8 +3,8 @@ title: "Will Ousmane Dembélé win the 2026 Ballon d'Or?"
 description: "Will Ousmane Dembélé win the 2026 Ballon d'Or? Odds: 3.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Ousmane Dembélé win the 2026 Ballon d'Or?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-16
+status: "settled"
+lastUpdated: 2026-03-17
 expiryDate: 2026-10-31
 tags: ["politics", "polymarket"]
 polymarketYes: 3.2

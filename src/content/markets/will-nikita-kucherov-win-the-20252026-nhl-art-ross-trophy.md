@@ -3,8 +3,8 @@ title: "Will Nikita Kucherov win the 2025–2026 NHL Art Ross Trophy?"
 description: "Will Nikita Kucherov win the 2025–2026 NHL Art Ross Trophy? Odds: 33.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Nikita Kucherov win the 2025–2026 NHL Art Ross Trophy?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-03-16
+status: "settled"
+lastUpdated: 2026-03-17
 expiryDate: 2026-04-20
 tags: ["polymarket", "sports"]
 polymarketYes: 33.8

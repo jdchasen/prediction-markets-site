@@ -3,8 +3,8 @@ title: "Will Mustafa Hijri be head of state in Iran end of 2026?"
 description: "Will Mustafa Hijri be head of state in Iran end of 2026? Odds: 0.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Mustafa Hijri be head of state in Iran end of 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-16
+status: "settled"
+lastUpdated: 2026-03-17
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 0.7

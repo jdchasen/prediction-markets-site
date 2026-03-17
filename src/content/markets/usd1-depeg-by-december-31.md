@@ -3,8 +3,8 @@ title: "USD1 depeg by December 31?"
 description: "USD1 depeg by December 31? Odds: 16.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "USD1 depeg by December 31?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-16
+status: "settled"
+lastUpdated: 2026-03-17
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]
 polymarketYes: 16.0

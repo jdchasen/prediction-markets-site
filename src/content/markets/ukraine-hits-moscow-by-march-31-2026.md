@@ -3,8 +3,8 @@ title: "Ukraine hits Moscow by March 31, 2026?"
 description: "Ukraine hits Moscow by March 31, 2026? Odds: 9.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Ukraine hits Moscow by March 31, 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-16
+status: "settled"
+lastUpdated: 2026-03-17
 expiryDate: 2026-03-31
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 9.5

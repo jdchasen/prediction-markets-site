@@ -3,8 +3,8 @@ title: "Will Benjamin \"Coach\" Wade win Survivor Season 50?"
 description: "Will Benjamin \"Coach\" Wade win Survivor Season 50? Odds: 0.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Benjamin \"Coach\" Wade win Survivor Season 50?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-16
+status: "settled"
+lastUpdated: 2026-03-17
 expiryDate: 2026-05-20
 tags: ["politics", "polymarket"]
 polymarketYes: 0.4

@@ -1,17 +1,16 @@
 ---
 title: "Will Ahmad Hosseini Khorasani be head of state in Iran end of 2026?"
-description: "Will Ahmad Hosseini Khorasani be head of state in Iran end of 2026? Odds: 0.6% YES on Polymarket. See live prices and trade this market."
+description: "Will Ahmad Hosseini Khorasani be head of state in Iran end of 2026? Odds: 0.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Ahmad Hosseini Khorasani be head of state in Iran end of 2026?"
 category: "politics"
-status: "settled"
-lastUpdated: 2026-03-16
+status: "active"
+lastUpdated: 2026-03-17
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 0.6
-polymarketNo: 99.4
-polymarketVolume: 9529
+polymarketYes: 0.4
+polymarketNo: 99.7
+polymarketVolume: 9788
 polymarketUrl: "https://polymarket.com/event/will-ahmad-hosseini-khorasani-be-head-of-state-in-iran-end-of-2026"
-analysisDate: 2026-03-16
 ---
 
 # Ahmad Hosseini Khorasani as Iran's Head of State by End of 2026

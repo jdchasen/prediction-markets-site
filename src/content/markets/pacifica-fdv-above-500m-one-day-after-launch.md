@@ -3,8 +3,8 @@ title: "Pacifica FDV above $500M one day after launch?"
 description: "Pacifica FDV above $500M one day after launch? Odds: 11.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Pacifica FDV above $500M one day after launch?"
 category: "crypto"
-status: "active"
-lastUpdated: 2026-03-16
+status: "settled"
+lastUpdated: 2026-03-17
 expiryDate: 2027-01-01
 tags: ["crypto", "polymarket"]
 polymarketYes: 11.0
