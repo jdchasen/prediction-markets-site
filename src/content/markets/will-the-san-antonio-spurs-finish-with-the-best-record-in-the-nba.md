@@ -3,8 +3,8 @@ title: "Will the San Antonio Spurs finish with the best record in the NBA?"
 description: "Will the San Antonio Spurs finish with the best record in the NBA? Odds: 5.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the San Antonio Spurs finish with the best record in the NBA?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-03-17
+status: "settled"
+lastUpdated: 2026-03-18
 tags: ["polymarket", "sports"]
 polymarketYes: 5.9
 polymarketNo: 94.1

@@ -3,8 +3,8 @@ title: "Will Israel strike 6 countries in 2026?"
 description: "Will Israel strike 6 countries in 2026? Odds: 4.3% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Israel strike 6 countries in 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-17
+status: "settled"
+lastUpdated: 2026-03-18
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 4.3

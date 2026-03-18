@@ -4,16 +4,17 @@ description: "Will Chaikasem Nitisiri be the next prime minister of Thailand? Od
 marketQuestion: "Will Chaikasem Nitisiri be the next prime minister of Thailand?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-03-17
+lastUpdated: 2026-03-18
 expiryDate: 2026-12-31
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 0.2
 polymarketNo: 99.8
-polymarketVolume: 97187
+polymarketVolume: 97443
 polymarketUrl: "https://polymarket.com/event/will-chaikasem-nitisiri-be-the-next-prime-minister-of-thailand-after-the-election"
+analysisDate: 2026-03-18
 ---
 
-# Chaikasem Nitisiri's Path to Thai PM: An Ultra-Long Shot
+# Chaikasem Nitisiri for Thai Prime Minister
 
 ## Current Odds
 
@@ -23,33 +24,33 @@ polymarketUrl: "https://polymarket.com/event/will-chaikasem-nitisiri-be-the-next
 
 ## Market Analysis
 
-The market has priced Chaikasem Nitisiri as an extreme longshot at 0.2%, reflecting the current political consensus that he faces nearly insurmountable barriers to the premiership before the end of 2026. This matters because Thailand's political instability and frequent leadership transitions create occasional outsider scenarios, yet the odds suggest Bangkok insiders and international observers view him as essentially locked out of the top job through the market's expiration window.
+Chaikasem Nitisiri, a former deputy prime minister and longtime politician with the Palang Pracharath Party, faces an extremely narrow path to the premiership by end-2026, reflected in near-zero odds that signal the market views his candidacy as a long-shot scenario. This matters because Thailand's political landscape remains volatile following the 2023 coup and constitution rewrite, making succession dynamics and coalition arithmetic genuinely uncertain despite current leadership stability.
 
-The bull case rests on Thailand's proven capacity for political upheaval: military coups, court interventions, and coalition collapses have repeatedly upended succession plans in recent decades. Chaikasem currently serves as Deputy Prime Minister under Prayut Chan-o-cha, positioning him within the institutional power structure. If Prayut's government fractures due to coalition disputes—likely triggers include tensions between the military-aligned Palang Pracharath party and civilian coalition partners—Chaikasem could theoretically mobilize patronage networks or secure military backing to claim the premiership. The 2026 constitutional deadline for new elections creates a plausible pivot point where backroom negotiations might elevate an existing power player over external candidates.
+The bull case rests on Chaikasem's extensive bureaucratic and executive credentials, his previous deputy PM role, and Thailand's pattern of recycling experienced technocrats into top posts. If current Prime Minister Srettha Thavisin's government collapses due to internal coalition friction—plausible given tensions between chart Thai Ruam and Move Forward factions—or faces constitutional challenges before 2026, Chaikasem's centrist Palang Pracharath could position itself as a compromise candidacy acceptable to both civilian and military power brokers. A 2024 reshuffle that elevates him could also shift parliamentary math in his favor heading into potential 2026 elections or negotiations.
 
-The bear case is substantially stronger. Prayut remains entrenched despite opposition, and Thailand's power structure heavily favors establishment figures with direct military or royal connections over mid-level technocrats. Chaikasem lacks the faction-building capacity of rivals like Interior Minister Anutin Charnvirakul (Bhumjaithai leader with independent party infrastructure) or Finance Minister Pichai Chunhavajira. Elections scheduled for 2026 or earlier would likely elevate elected MPs rather than appointed deputies—a structural disadvantage Chaikasem cannot overcome without controlling a significant parliamentary coalition.
+The bear case is decisive: Chaikasem represents an older generation of establishment politics in a moment when Thai politics increasingly pivots on generational and ideological lines. Srettha's coalition holds a working majority, and while fragile, has no immediate expiration before the 2026 election cycle. More importantly, stronger candidates with higher name recognition—including active cabinet members and rising figures like Paetongtarn Shinawatra—command far greater support and institutional backing. Chaikasem's Palang Pracharath holds minimal parliamentary seats and leverage relative to larger coalition partners, making him an unlikely choice in genuine succession negotiations.
 
-Key catalysts include the May 2026 constitutional election deadline, any confidence votes or cabinet reshuffles that might elevate Chaikasem's profile, and potential anti-government protests that could destabilize current arrangements. Traders should monitor coalition stability reports and any shifts in his portfolio responsibility; promotion to Finance or Interior Ministry would materially strengthen his position. Current legislative dynamics heavily favor continuation of Prayut-aligned governance, making this contract a pure tail-risk bet on extraordinary political volatility.
+Key catalysts to monitor include any major cabinet reshuffle (typically announced mid-year), signs of coalition breakdown around June 2024 budget negotiations or 2025 legislative deadlines, and the 2025 local elections outcome, which could shift party power dynamics. Constitutional Court rulings on dissolution cases involving Move Forward before mid-2025 could destabilize current arrangements. Unless Chaikasem receives a visible promotion or his party gains seats through defection, odds at 0.2% accurately reflect his marginal position in succession calculations.
 
 ## Related Markets
 
 - [Will Robert F. Kennedy Jr. win the 2028 Republican presidential nomination?](/odds/will-robert-f-kennedy-jr-win-the-2028-republican-presidential-nomination) — 1% YES
 - [Will Alexandria Ocasio-Cortez win the 2028 US Presidential Election?](/odds/will-alexandria-ocasio-cortez-win-the-2028-us-presidential-election) — 5% YES
-- [Will Anthropic have the best AI model at the end of March 2026?](/odds/will-anthropic-have-the-best-ai-model-at-the-end-of-march-2026) — 93% YES
+- [Will Our Country (ND) win the most seats in the 2026 Slovenian parliamentary election?](/odds/will-our-country-nd-win-the-most-seats-in-the-2026-slovenian-parliamentary-elect) — 0% YES
 
 ## Frequently Asked Questions
 
-### What would need to happen for Chaikasem to actually reach 5%+ odds in this market?
+### What role did Chaikasem play in the 2023 political transition that might affect his current standing?
 
-A major coalition collapse combined with military signaling that Chaikasem has institutional backing as a compromise successor to Prayut—essentially a scenario where existing powerholders view him as preferable to letting competitive elections determine leadership.
+Chaikasem served as deputy prime minister under Prayut's post-coup government, giving him continuity with the military-adjacent establishment, though this same association may limit his appeal to reform-minded factions now influential in parliament.
 
-### How does his Deputy PM role actually constrain rather than help his chances?
+### How many seats does Palang Pracharath hold and does it matter for his candidacy?
 
-Deputy PM appointments in Thailand are typically administrative positions without independent power bases; he lacks the party leadership or military rank that would allow him to mobilize support independently if Prayut's government destabilizes.
+Palang Pracharath holds a marginal share (roughly 40 of 500 seats), making it nearly impossible for the party to claim premiership without pivoting dramatically toward kingmaker status in a fractured coalition—a position larger parties would likely preempt.
 
-### If elections occur before year-end 2026, does that essentially eliminate his odds?
+### What would need to happen for Chaikasem's odds to move meaningfully higher?
 
-Effectively yes—electoral outcomes in Thailand are heavily dependent on party strength and parliamentary seat counts, which Chaikasem cannot control as an unelected official, making appointed-deputy-to-PM transitions only viable through non-electoral political crises.
+Either a major government collapse requiring emergency consensus PM (unlikely with current stability), a sudden high-profile promotion positioning him as a frontrunner, or unexpected electoral gains by Palang Pracharath in 2025-2026 local or national elections.
 
 ## Learn More
 

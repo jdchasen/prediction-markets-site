@@ -3,8 +3,8 @@ title: "Tim Walz charged by December 31, 2026?"
 description: "Tim Walz charged by December 31, 2026? Odds: 18.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Tim Walz charged by December 31, 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-17
+status: "settled"
+lastUpdated: 2026-03-18
 expiryDate: 2026-03-31
 tags: ["politics", "polymarket"]
 polymarketYes: 18.5

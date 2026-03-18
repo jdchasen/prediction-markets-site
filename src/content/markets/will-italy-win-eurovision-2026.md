@@ -1,17 +1,16 @@
 ---
 title: "Will Italy win Eurovision 2026?"
-description: "Will Italy win Eurovision 2026? Odds: 2.7% YES on Polymarket. See live prices and trade this market."
+description: "Will Italy win Eurovision 2026? Odds: 2.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Italy win Eurovision 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-03-17
+lastUpdated: 2026-03-18
 expiryDate: 2026-05-16
 tags: ["politics", "polymarket"]
-polymarketYes: 2.7
-polymarketNo: 97.3
-polymarketVolume: 967645
+polymarketYes: 2.5
+polymarketNo: 97.5
+polymarketVolume: 983291
 polymarketUrl: "https://polymarket.com/event/will-italy-win-eurovision-2026"
-analysisDate: 2026-03-17
 ---
 
 Prediction markets are pricing Italy's chances at Eurovision 2026 victory at just 2.7%, reflecting modest expectations despite the country's strong recent track record in the competition, including wins in 2021 with Måneskin and multiple top-five finishes this decade.

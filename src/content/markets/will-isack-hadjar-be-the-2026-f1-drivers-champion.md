@@ -3,8 +3,8 @@ title: "Will Isack Hadjar be the 2026 F1 Drivers' Champion?"
 description: "Will Isack Hadjar be the 2026 F1 Drivers' Champion? Odds: 0.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Isack Hadjar be the 2026 F1 Drivers' Champion?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-03-17
+status: "settled"
+lastUpdated: 2026-03-18
 expiryDate: 2026-12-06
 tags: ["polymarket", "sports"]
 polymarketYes: 0.4

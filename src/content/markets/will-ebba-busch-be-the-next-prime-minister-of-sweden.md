@@ -4,14 +4,13 @@ description: "Will Ebba Busch be the next Prime Minister of Sweden? Odds: 0.8% Y
 marketQuestion: "Will Ebba Busch be the next Prime Minister of Sweden?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-03-17
+lastUpdated: 2026-03-18
 expiryDate: 2026-09-13
 tags: ["politics", "polymarket"]
 polymarketYes: 0.8
 polymarketNo: 99.2
-polymarketVolume: 9615
+polymarketVolume: 9842
 polymarketUrl: "https://polymarket.com/event/will-ebba-busch-be-the-next-prime-minister-of-sweden"
-analysisDate: 2026-03-17
 ---
 
 # Ebba Busch PM Prediction Market Analysis

@@ -1,17 +1,16 @@
 ---
 title: "Will Vladimir Cerrón win the 2026 Peruvian presidential election?"
-description: "Will Vladimir Cerrón win the 2026 Peruvian presidential election? Odds: 0.4% YES on Polymarket. See live prices and trade this market."
+description: "Will Vladimir Cerrón win the 2026 Peruvian presidential election? Odds: 0.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Vladimir Cerrón win the 2026 Peruvian presidential election?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-03-17
+lastUpdated: 2026-03-18
 expiryDate: 2026-04-12
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 0.4
-polymarketNo: 99.6
-polymarketVolume: 97520
+polymarketYes: 0.7
+polymarketNo: 99.4
+polymarketVolume: 98098
 polymarketUrl: "https://polymarket.com/event/will-vladimir-cerrn-win-the-2026-peruvian-presidential-election"
-analysisDate: 2026-03-17
 ---
 
 The market assigns Vladimir Cerrón virtually no chance of winning Peru's 2026 presidential election, reflecting his status as a fugitive from justice and the broader collapse of his Peru Libre party's political viability following President Dina Boluarte's administration.

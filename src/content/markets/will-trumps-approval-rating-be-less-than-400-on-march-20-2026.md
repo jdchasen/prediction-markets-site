@@ -3,8 +3,8 @@ title: "Will Trump’s approval rating be less than 40.0 on March 20, 2026?"
 description: "Will Trump’s approval rating be less than 40.0 on March 20, 2026? Odds: 4.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Trump’s approval rating be less than 40.0 on March 20, 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-17
+status: "settled"
+lastUpdated: 2026-03-18
 expiryDate: 2026-03-21
 tags: ["politics", "polymarket", "trump"]
 polymarketYes: 4.2

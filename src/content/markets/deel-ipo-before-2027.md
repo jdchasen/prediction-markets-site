@@ -3,8 +3,8 @@ title: "Deel IPO before 2027?"
 description: "Deel IPO before 2027? Odds: 17.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Deel IPO before 2027?"
 category: "finance"
-status: "active"
-lastUpdated: 2026-03-17
+status: "settled"
+lastUpdated: 2026-03-18
 expiryDate: 2026-12-31
 tags: ["finance", "polymarket"]
 polymarketYes: 17.0

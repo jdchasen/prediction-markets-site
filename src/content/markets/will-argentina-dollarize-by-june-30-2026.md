@@ -1,16 +1,17 @@
 ---
 title: "Will Argentina dollarize by June 30, 2026?"
-description: "Will Argentina dollarize by June 30, 2026? Odds: 3.4% YES on Polymarket. See live prices and trade this market."
+description: "Will Argentina dollarize by June 30, 2026? Odds: 3.6% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Argentina dollarize by June 30, 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-03-17
+lastUpdated: 2026-03-18
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
-polymarketYes: 3.4
-polymarketNo: 96.7
-polymarketVolume: 9895
+polymarketYes: 3.6
+polymarketNo: 96.4
+polymarketVolume: 9994
 polymarketUrl: "https://polymarket.com/event/will-argentina-dollarize-by-june-30-2026"
+analysisDate: 2026-03-18
 ---
 
 # Argentina Dollarization Market Analysis
@@ -19,37 +20,35 @@ polymarketUrl: "https://polymarket.com/event/will-argentina-dollarize-by-june-30
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 3.8% | 96.2% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 3.6% | 96.4% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-At 3.8% implied probability, traders are pricing dollarization as highly unlikely within the next 18 months, yet President Javier Milei has made it a stated policy priority since taking office in December 2023. This disconnect reflects skepticism about whether Milei can overcome congressional opposition, central bank resistance, and the technical challenges of currency conversion while managing Argentina's ongoing economic crisis. The market is essentially betting against a radical monetary reform that would formally replace the peso with the US dollar.
+At 3.6% implied probability, traders are pricing dollarization as a low-probability tail risk within the next 18 months—reflecting skepticism that President Javier Milei can overcome legislative, constitutional, and economic barriers despite making it a cornerstone policy. The timing matters because Argentina's economic stabilization trajectory, Central Bank reserves position, and Congressional composition will crystallize during 2025-2026, determining whether dollarization moves from rhetoric to reality.
 
-The bull case rests on Milei's ideological commitment and recent momentum: his coalition gained seats in the 2023 general election, his popularity initially strengthened as inflation declined from 300% to under 200% annually, and he has already eliminated Argentina's central bank's independence through decree. If legislative conditions align—particularly if his coalition performs strongly in the 2025 midterm elections scheduled for October—he could potentially force a dollarization bill through Congress or pursue executive action. Economic desperation could also accelerate timelines if the peso collapses further; the black market peso has weakened considerably against the dollar, creating political pressure for dramatic action. The bull case peaks around October 2025 when midterm results will either strengthen or weaken Milei's hand for the final eight months before expiration.
+The bull case rests on Milei's extraordinary mandate and ideological commitment: he campaigned explicitly on dollarization, controls the executive branch with technocrat economists like Luis Caputo driving orthodox reforms, and Congress approved a sweeping omnibus law in December 2024 granting emergency powers through December 2025. If inflation continues declining (currently around 200% annualized but falling), dollar reserves accumulate, and Congressional elections in October 2025 strengthen libertarian representation, a formal dollarization bill could gain traction by early 2026. The bear case is substantially more formidable: dollarization requires either a constitutional amendment (66 Senate votes) or supermajority legislative approval—Milei's coalition controls roughly 38% of the Chamber—while the Peronist opposition remains powerful and fragmented. The Central Bank would need substantially higher dollar reserves (currently ~$30 billion, insufficient for full monetary transition), the banking system requires restructuring, and the political cost of eliminating the peso during an election year creates immense friction. Even sympathetic economists acknowledge the timing is unrealistic given 18-month technical requirements.
 
-The bear case, reflected in the current odds, emphasizes structural barriers. Congress remains fragmented with multiple competing blocs, and dollarization requires either legislative supermajority support or sustained executive authority that Milei may lack. The Peronist opposition, which dominated Argentine politics for decades, retains significant congressional seats and would likely block formal dollarization. Technically, converting trillions of pesos into dollars would require massive foreign exchange reserves Argentina doesn't possess—the central bank holds roughly $30 billion in reserves against an M2 money supply exceeding $150 billion. Even Milei's closest advisors have acknowledged 2026 as unrealistic, with some suggesting 2027-2028 as more plausible. Inflation stabilization through orthodox fiscal measures could also reduce the political urgency driving dollarization.
-
-Watch the October 2025 midterm elections as the critical catalyst—if Milei's coalition gains seats rather than loses them, dollarization odds should spike materially. Secondary indicators include any formal legislative proposals submitted to Congress (none have advanced substantively as of late 2024), monthly inflation data showing whether the declining trend holds, and statements from the International Monetary Fund regarding Argentina's standby agreements, which typically restrict unilateral currency decisions. By mid-2025, the market should be pricing in clearer probabilities based on actual legislative progress rather than ideology alone.
+Key catalysts to monitor: October 2025 midterm elections will reveal whether Milei's support has consolidated or eroded—poor results would kill dollarization momentum entirely. Congressional votes on any formal dollarization bill would likely occur in Q4 2025 or early 2026, requiring either unexpected opposition collapse or constitutional change. The Central Bank's reserve accumulation rate (track quarterly data releases) and inflation trajectory through mid-2025 will signal whether economic conditions support the policy. Watch for any bills formally introduced in the lower or upper chambers—their reception will provide real-time probability calibration that current markets may underweight.
 
 ## Related Markets
 
 - [Will Robert F. Kennedy Jr. win the 2028 Republican presidential nomination?](/odds/will-robert-f-kennedy-jr-win-the-2028-republican-presidential-nomination) — 1% YES
 - [Will Alexandria Ocasio-Cortez win the 2028 US Presidential Election?](/odds/will-alexandria-ocasio-cortez-win-the-2028-us-presidential-election) — 5% YES
-- [Will Anthropic have the best AI model at the end of March 2026?](/odds/will-anthropic-have-the-best-ai-model-at-the-end-of-march-2026) — 93% YES
+- [Will Our Country (ND) win the most seats in the 2026 Slovenian parliamentary election?](/odds/will-our-country-nd-win-the-most-seats-in-the-2026-slovenian-parliamentary-elect) — 0% YES
 
 ## Frequently Asked Questions
 
-### Why would Argentina's central bank oppose dollarization when Milei controls the institution?
+### What specific Congressional vote threshold would dollarization require, and does Milei currently have it?
 
-While Milei has weakened central bank independence, formal dollarization would require congressional approval and eliminate Argentina's monetary policy flexibility entirely—a step even Milei's own economic team considers premature without deeper reserve accumulation and inflation stabilization first.
+A constitutional amendment requires 66 Senate votes (Milei lacks this); a supermajority legislative vote requires 129 Chamber votes (he commands roughly 38%). Neither pathway is viable without major opposition defection or electoral gains in October 2025.
 
-### How much would Argentina need in foreign reserves to dollarize successfully?
+### How much dollar reserves does Argentina need for credible dollarization, and is it on track?
 
-Argentina would need approximately $100+ billion in reserves to credibly back its broad money supply in dollars; with only ~$30 billion currently available, the gap is a major technical constraint that cannot be closed in 18 months without massive capital inflows.
+Economists estimate $35-50 billion minimum for reserve backing and transition costs; Argentina held ~$30 billion as of late 2024, growing modestly but insufficient for a 2026 transition without external financing that appears unlikely.
 
-### Could Milei dollarize by executive decree without Congress, similar to how he eliminated central bank independence?
+### If midterm elections in October 2025 weaken Milei's position, does dollarization effectively die before June 2026?
 
-Unlikely—courts and Congress would likely block decree-based dollarization as a fundamental constitutional change, whereas central bank restructuring operated in legal gray areas
+Yes—poor electoral results would signal voter rejection and give opposition momentum to block any legislation, effectively zeroing the probability for this contract's timeframe.
 
 ## Learn More
 

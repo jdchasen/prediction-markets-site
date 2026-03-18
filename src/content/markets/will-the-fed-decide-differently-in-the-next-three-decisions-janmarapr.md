@@ -3,8 +3,8 @@ title: "Will the Fed decide differently in the next three decisions (Jan–Mar�
 description: "Will the Fed decide differently in the next three decisions (Jan–Mar–Apr)? Odds: 1.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Fed decide differently in the next three decisions (Jan–Mar–Apr)?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-17
+status: "settled"
+lastUpdated: 2026-03-18
 expiryDate: 2026-04-29
 tags: ["federal-reserve", "politics", "polymarket"]
 polymarketYes: 1.8

@@ -1,17 +1,17 @@
 ---
 title: "Will Perplexity not IPO by December 31, 2027?"
-description: "Will Perplexity not IPO by December 31, 2027? Odds: 70.0% YES on Polymarket. See live prices and trade this market."
+description: "Will Perplexity not IPO by December 31, 2027? Odds: 51.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Perplexity not IPO by December 31, 2027?"
 category: "finance"
-status: "settled"
-lastUpdated: 2026-03-16
+status: "active"
+lastUpdated: 2026-03-18
 expiryDate: 2027-12-31
 tags: ["finance", "polymarket"]
-polymarketYes: 70.0
-polymarketNo: 30.0
-polymarketVolume: 95376
+polymarketYes: 51.0
+polymarketNo: 49.0
+polymarketVolume: 96307
 polymarketUrl: "https://polymarket.com/event/will-perplexity-not-ipo-by-december-31-2027"
-analysisDate: 2026-03-16
+analysisDate: 2026-03-18
 ---
 
 # Perplexity IPO Market Analysis
@@ -20,37 +20,31 @@ analysisDate: 2026-03-16
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 70.0% | 30.0% | $95K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 51.0% | 49.0% | $96K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The market currently prices a 70% probability that Perplexity will remain private through the end of 2027, reflecting significant skepticism about near-term public market ambitions for the AI search startup. This matters now because Perplexity has raised substantial capital at a reported $9 billion valuation (as of late 2024) and operates in the hyper-competitive AI space where public market comparables like Nvidia, Microsoft, and OpenAI's potential IPO plans will influence investor appetite and valuation benchmarks.
+The market is essentially split on whether the AI search startup will remain private through end-2027, with nearly even odds reflecting genuine uncertainty about both the company's trajectory and broader AI market conditions. This matters because Perplexity's IPO timing signals investor appetite for capital-intensive AI infrastructure plays and reveals how quickly the generative search category can mature to public markets. At 51% YES (no IPO), the market suggests skeptics slightly outnumber believers in a near-term public offering, despite the company's rapid growth and recent funding rounds.
 
-The bull case for staying private hinges on Perplexity's relatively recent scaling trajectory—the company raised its Series B in 2024 and faces uncertainty around sustainable unit economics in AI search where infrastructure costs remain punishing. Regulatory headwinds around AI, potential antitrust scrutiny from dominant search players, and the difficulty of proving differentiated moat against both traditional search giants and well-funded rivals like Anthropic suggest the company may prioritize profitability and market validation over public markets. Additionally, the broader tech IPO market softened considerably in 2023-2024; if venture funding remains abundant through 2025-2027, private capital may provide better terms than public market alternatives.
+The bull case for remaining private centers on Perplexity's ability to raise capital efficiently at high valuations—the company was valued at $3 billion in its Series C (late 2024) and could reach $5+ billion in a Series D without needing public markets. Keeping the company private allows founders to maintain control through what may still be a proving ground for profitability; generative search remains capital-intensive with uncertain unit economics. The company can also avoid quarterly earnings scrutiny and the disclosure requirements that would expose margins competitors like Google and OpenAI would scrutinize. With 3+ years until expiration, there's ample runway to demonstrate sustainable business models before considering an IPO.
 
-The bear case assumes Perplexity achieves accelerating adoption and demonstrable path to profitability, forcing management to capitalize on public market windows. If the company hits $500M+ ARR with improving unit economics by late 2026 or early 2027, IPO pressure from board members and investors seeking liquidity becomes acute. Tech IPO windows typically open in spring and fall; late 2027 would give the company a three-year post-Series B window to prove business model durability—a standard timeline for venture-backed exits. Regulatory clarity around AI by 2027 could also remove a key barrier to going public.
+The bear case—that Perplexity will go public—hinges on the company's need to fund expanding inference costs and R&D to compete with OpenAI, Google, and Microsoft. If Perplexity reaches $100+ million ARR with clear paths to profitability, an IPO becomes strategically attractive for acquiring talent and signaling stability to enterprise customers. Market windows matter: if the AI rally sustains and tech IPO sentiment remains constructive through 2026-2027, underwriters will actively pitch a public offering. The company's founding team (Aravind Srinivas) has never taken a company public and may lack appetite for the operational burden, but that cuts both ways—new leadership could shift calculus.
 
-Key catalysts to monitor include Perplexity's next funding round (timing and valuation signal management's confidence), quarterly growth metrics and gross margin trends if publicly discussed, any M&A activity among competitors, Fed rate decisions affecting venture capital appetite, and statements from the company's board or CEO regarding capital strategy. The 2026 midterms and any AI regulation passed by Congress will matter for sentiment around tech IPOs. Watch for comparables: if OpenAI files or achieves a major valuation milestone, it could either accelerate or delay Perplexity's timeline depending on market reception.
-
-## Related Markets
-
-- [Will Apple be the largest company in the world by market cap on December 31?](/odds/will-apple-be-the-largest-company-in-the-world-by-market-cap-on-december-31) — 14% YES
-- [Vanta IPO before 2027?](/odds/vanta-ipo-before-2027) — 12% YES
-- [Deel IPO before 2027?](/odds/deel-ipo-before-2027) — 16% YES
+Key catalysts to watch include Perplexity's next funding round (likely 2025), which will signal valuation trajectory and insider confidence; any major revenue or profitability announcements; and broader shifts in Fed policy and interest rates between now and mid-2026 (which typically sets the IPO calendar for late 2026-2027 debuts). Watch also for M&A interest from strategic acquirers like Microsoft or Apple, which could alter the independence assumption underlying this market.
 
 ## Frequently Asked Questions
 
-### What valuation would trigger an IPO attempt despite current market skepticism?
+### What valuation would make an IPO most likely for Perplexity by 2027?
 
-Perplexity would likely feel compelled to test public markets if it reaches $1B+ ARR with 20%+ gross margins or achieves a private round at $20B+ valuation, as these metrics reduce IPO downside risk and unlock shareholder liquidity pressure.
+An IPO becomes highly probable if the company reaches $50M+ ARR with clear gross margins above 60% and a path to profitability by 2026; at that scale, public markets would value the company at $20B+, making founder liquidity attractive.
 
-### How much does Perplexity's AI search moat matter to IPO timing?
+### How does Perplexity's cash burn rate affect this market's outcome?
 
-If Perplexity demonstrates defensible advantages in speed, accuracy, or user retention versus OpenAI and Google by 2026, an IPO becomes viable; persistent commoditization of LLM search would favor staying private longer to prove differentiation.
+If cash burn exceeds $50M annually and the company exhausts Series D capital before profitability, IPO becomes nearly inevitable; conversely, if the company reaches cash-flow breakeven or positive, founders retain optionality to stay private indefinitely.
 
-### Could an acquisition by a larger tech company resolve this market before 2027?
+### Could an acquisition by Microsoft, Google, or Apple resolve this market as NO?
 
-An acquisition would require the market to resolve before 2027, but given Perplexity's recent $9B valuation and growth trajectory, only a strategic buyer (Microsoft, Apple, or Amazon) would likely bid at IPO-equivalent or premium valuations, making outright sale less probable than public markets.
+Acquisitions are not typically counted as IPO outcomes in prediction markets—this market resolves YES only if the company remains independent and unacquired through December 31, 2027, making strategic M&A a material scenario that isn't directly priced in.
 
 ## Learn More
 

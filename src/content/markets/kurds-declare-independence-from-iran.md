@@ -1,17 +1,16 @@
 ---
 title: "Kurds declare independence from Iran?"
-description: "Kurds declare independence from Iran? Odds: 17.5% YES on Polymarket. See live prices and trade this market."
+description: "Kurds declare independence from Iran? Odds: 15.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Kurds declare independence from Iran?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-03-17
+lastUpdated: 2026-03-18
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
-polymarketYes: 17.5
-polymarketNo: 82.5
-polymarketVolume: 96308
+polymarketYes: 15.5
+polymarketNo: 84.5
+polymarketVolume: 97434
 polymarketUrl: "https://polymarket.com/event/kurds-declare-independence-from-iran"
-analysisDate: 2026-03-17
 ---
 
 The market pricing Kurdish independence from Iran at 17.5% reflects skepticism about formal secession while acknowledging rising regional tensions and Iran's internal vulnerabilities, making this a long-tail geopolitical bet with implications for Middle Eastern stability through mid-2026.

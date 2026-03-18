@@ -3,8 +3,8 @@ title: "Miami Open: McCartney Kessler vs Magdalena Frech"
 description: "Miami Open: McCartney Kessler vs Magdalena Frech Odds: 100.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Miami Open: McCartney Kessler vs Magdalena Frech"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-17
+status: "settled"
+lastUpdated: 2026-03-18
 expiryDate: 2026-03-24
 tags: ["politics", "polymarket"]
 polymarketYes: 100.0

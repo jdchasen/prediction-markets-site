@@ -1,17 +1,16 @@
 ---
 title: "Military action against Iran ends on March 21, 2026?"
-description: "Military action against Iran ends on March 21, 2026? Odds: 0.2% YES on Polymarket. See live prices and trade this market."
+description: "Military action against Iran ends on March 21, 2026? Odds: 0.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Military action against Iran ends on March 21, 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-03-17
+lastUpdated: 2026-03-18
 expiryDate: 2026-03-31
 tags: ["ai", "politics", "polymarket"]
-polymarketYes: 0.2
-polymarketNo: 99.8
-polymarketVolume: 97322
+polymarketYes: 0.7
+polymarketNo: 99.3
+polymarketVolume: 99442
 polymarketUrl: "https://polymarket.com/event/military-action-against-iran-ends-on-march-21-2026"
-analysisDate: 2026-03-17
 ---
 
 The market pricing military action against Iran at near-zero probability reflects current geopolitical stability and the absence of immediate crisis triggers between now and March 2026, though the extremely low odds may underestimate tail risks in one of the world's most volatile regions.

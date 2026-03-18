@@ -3,8 +3,8 @@ title: "Will Liverpool reach the UEFA Champions League quarter-finals?"
 description: "Will Liverpool reach the UEFA Champions League quarter-finals? Odds: 70.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Liverpool reach the UEFA Champions League quarter-finals?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-03-17
+status: "settled"
+lastUpdated: 2026-03-18
 expiryDate: 2026-04-16
 tags: ["polymarket", "sports"]
 polymarketYes: 70.0

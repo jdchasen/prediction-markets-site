@@ -3,8 +3,8 @@ title: "VEO 4 released by March 31, 2026?"
 description: "VEO 4 released by March 31, 2026? Odds: 2.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "VEO 4 released by March 31, 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-17
+status: "settled"
+lastUpdated: 2026-03-18
 expiryDate: 2026-03-31
 tags: ["politics", "polymarket"]
 polymarketYes: 2.9

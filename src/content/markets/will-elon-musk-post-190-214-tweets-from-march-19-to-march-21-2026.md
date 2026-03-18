@@ -3,8 +3,8 @@ title: "Will Elon Musk post 190-214 tweets from March 19 to March 21, 2026?"
 description: "Will Elon Musk post 190-214 tweets from March 19 to March 21, 2026? Odds: 0.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Elon Musk post 190-214 tweets from March 19 to March 21, 2026?"
 category: "tech"
-status: "active"
-lastUpdated: 2026-03-17
+status: "settled"
+lastUpdated: 2026-03-18
 expiryDate: 2026-03-21
 tags: ["polymarket", "tech"]
 polymarketYes: 0.5

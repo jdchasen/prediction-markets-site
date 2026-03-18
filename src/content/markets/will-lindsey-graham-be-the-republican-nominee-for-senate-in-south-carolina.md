@@ -3,8 +3,8 @@ title: "Will Lindsey Graham be the Republican nominee for Senate in South Caroli
 description: "Will Lindsey Graham be the Republican nominee for Senate in South Carolina? Odds: 75.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Lindsey Graham be the Republican nominee for Senate in South Carolina?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-17
+status: "settled"
+lastUpdated: 2026-03-18
 expiryDate: 2026-07-31
 tags: ["politics", "polymarket"]
 polymarketYes: 75.0

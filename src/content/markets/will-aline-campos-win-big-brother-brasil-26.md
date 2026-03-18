@@ -4,14 +4,13 @@ description: "Will Aline Campos win Big Brother Brasil 26? Odds: 0.1% YES on Pol
 marketQuestion: "Will Aline Campos win Big Brother Brasil 26?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-03-17
+lastUpdated: 2026-03-18
 expiryDate: 2026-04-30
 tags: ["politics", "polymarket"]
 polymarketYes: 0.1
 polymarketNo: 100.0
 polymarketVolume: 9874
 polymarketUrl: "https://polymarket.com/event/will-aline-campos-win-big-brother-brasil-26"
-analysisDate: 2026-03-17
 ---
 
 # Aline Campos and Big Brother Brasil 26: A Market Mismatch

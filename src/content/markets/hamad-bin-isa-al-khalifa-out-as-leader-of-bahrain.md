@@ -3,8 +3,8 @@ title: "Hamad bin Isa Al Khalifa out as leader of Bahrain?"
 description: "Hamad bin Isa Al Khalifa out as leader of Bahrain? Odds: 8.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Hamad bin Isa Al Khalifa out as leader of Bahrain?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-17
+status: "settled"
+lastUpdated: 2026-03-18
 expiryDate: 2026-06-30
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 8.5

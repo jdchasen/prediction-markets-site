@@ -3,8 +3,8 @@ title: "Will the Rachida Dati List win the most citywide list votes in the runof
 description: "Will the Rachida Dati List win the most citywide list votes in the runoff of the 2026 Paris municipal election? Odds: 25.0% YES on Polymarket. See live price..."
 marketQuestion: "Will the Rachida Dati List win the most citywide list votes in the runoff of the 2026 Paris municipal election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-17
+status: "settled"
+lastUpdated: 2026-03-18
 expiryDate: 2026-03-22
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 25.0

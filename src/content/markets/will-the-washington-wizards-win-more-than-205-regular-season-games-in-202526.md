@@ -3,8 +3,8 @@ title: "Will the Washington Wizards win more than 20.5 regular season games in 2
 description: "Will the Washington Wizards win more than 20.5 regular season games in 2025–26? Odds: 30.6% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Washington Wizards win more than 20.5 regular season games in 2025–26?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-17
+status: "settled"
+lastUpdated: 2026-03-18
 expiryDate: 2026-04-12
 tags: ["politics", "polymarket"]
 polymarketYes: 30.6

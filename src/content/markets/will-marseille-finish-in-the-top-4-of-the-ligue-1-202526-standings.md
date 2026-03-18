@@ -4,14 +4,13 @@ description: "Will Marseille finish in the top 4 of the Ligue 1 2025–26 standi
 marketQuestion: "Will Marseille finish in the top 4 of the Ligue 1 2025–26 standings?"
 category: "sports"
 status: "active"
-lastUpdated: 2026-03-17
+lastUpdated: 2026-03-18
 expiryDate: 2026-05-30
 tags: ["polymarket", "sports"]
 polymarketYes: 92.0
 polymarketNo: 8.0
-polymarketVolume: 9646
+polymarketVolume: 9656
 polymarketUrl: "https://polymarket.com/event/will-marseille-finish-in-the-top-4-of-the-ligue-1-202526-standings"
-analysisDate: 2026-03-17
 ---
 
 # Marseille Top-4 Finish Analysis

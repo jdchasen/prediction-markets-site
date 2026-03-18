@@ -3,8 +3,8 @@ title: "Will the Minnesota Wild win the Central Division?"
 description: "Will the Minnesota Wild win the Central Division? Odds: 0.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Minnesota Wild win the Central Division?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-17
+status: "settled"
+lastUpdated: 2026-03-18
 expiryDate: 2026-04-30
 tags: ["politics", "polymarket"]
 polymarketYes: 0.7

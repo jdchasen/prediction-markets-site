@@ -3,8 +3,8 @@ title: "Alexandre de Moraes out as Brazil Supreme Court Justice?"
 description: "Alexandre de Moraes out as Brazil Supreme Court Justice? Odds: 28.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Alexandre de Moraes out as Brazil Supreme Court Justice?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-17
+status: "settled"
+lastUpdated: 2026-03-18
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 28.0

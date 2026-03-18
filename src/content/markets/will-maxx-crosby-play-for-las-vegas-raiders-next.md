@@ -1,17 +1,16 @@
 ---
 title: "Will Maxx Crosby play for Las Vegas Raiders next?"
-description: "Will Maxx Crosby play for Las Vegas Raiders next? Odds: 60.6% YES on Polymarket. See live prices and trade this market."
+description: "Will Maxx Crosby play for Las Vegas Raiders next? Odds: 58.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Maxx Crosby play for Las Vegas Raiders next?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-03-17
+lastUpdated: 2026-03-18
 expiryDate: 2026-09-01
 tags: ["ai", "politics", "polymarket"]
-polymarketYes: 60.6
-polymarketNo: 39.4
-polymarketVolume: 9832
+polymarketYes: 58.5
+polymarketNo: 41.5
+polymarketVolume: 9855
 polymarketUrl: "https://polymarket.com/event/will-maxx-crosby-play-for-las-vegas-raiders-next"
-analysisDate: 2026-03-17
 ---
 
 # Analysis: Maxx Crosby and the Raiders

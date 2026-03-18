@@ -3,8 +3,8 @@ title: "Will Cristian Sanabria win the 2026 Sucre mayoral election?"
 description: "Will Cristian Sanabria win the 2026 Sucre mayoral election? Odds: 43.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Cristian Sanabria win the 2026 Sucre mayoral election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-17
+status: "settled"
+lastUpdated: 2026-03-18
 expiryDate: 2026-03-22
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 43.0

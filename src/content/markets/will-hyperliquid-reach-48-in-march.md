@@ -3,8 +3,8 @@ title: "Will Hyperliquid reach $48 in March?"
 description: "Will Hyperliquid reach $48 in March? Odds: 17.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Hyperliquid reach $48 in March?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-17
+status: "settled"
+lastUpdated: 2026-03-18
 expiryDate: 2026-04-01
 tags: ["politics", "polymarket"]
 polymarketYes: 17.8

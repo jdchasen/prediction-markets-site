@@ -4,14 +4,13 @@ description: "Will there be 22 or more US strikes on Somalia in March 2026? Odds
 marketQuestion: "Will there be 22 or more US strikes on Somalia in March 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-03-17
+lastUpdated: 2026-03-18
 expiryDate: 2026-04-04
 tags: ["politics", "polymarket"]
 polymarketYes: 0.5
 polymarketNo: 99.5
-polymarketVolume: 9683
+polymarketVolume: 9764
 polymarketUrl: "https://polymarket.com/event/will-there-be-22-or-more-us-strikes-on-somalia-in-march-2026"
-analysisDate: 2026-03-17
 ---
 
 This market prices in an extremely low probability of sustained US military operations against Somalia next spring, reflecting both current policy constraints and the historical rarity of 22+ strikes in a single month. The prediction matters because it tests whether markets accurately gauge the threshold between occasional counterterrorism operations and sustained campaign-level activity—a distinction that separates routine drone strikes from escalated military engagement.

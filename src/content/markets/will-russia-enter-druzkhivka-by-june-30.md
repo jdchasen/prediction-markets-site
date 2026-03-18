@@ -3,8 +3,8 @@ title: "Will Russia enter Druzkhivka by June 30?"
 description: "Will Russia enter Druzkhivka by June 30? Odds: 25.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Russia enter Druzkhivka by June 30?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-17
+status: "settled"
+lastUpdated: 2026-03-18
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
 polymarketYes: 25.0

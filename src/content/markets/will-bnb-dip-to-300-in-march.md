@@ -3,8 +3,8 @@ title: "Will BNB dip to $300 in March?"
 description: "Will BNB dip to $300 in March? Odds: 0.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will BNB dip to $300 in March?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-17
+status: "settled"
+lastUpdated: 2026-03-18
 expiryDate: 2026-04-01
 tags: ["politics", "polymarket"]
 polymarketYes: 0.8

@@ -3,8 +3,8 @@ title: "Will Google reach $320 in March?"
 description: "Will Google reach $320 in March? Odds: 49.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Google reach $320 in March?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-17
+status: "settled"
+lastUpdated: 2026-03-18
 expiryDate: 2026-04-01
 tags: ["politics", "polymarket"]
 polymarketYes: 49.5
