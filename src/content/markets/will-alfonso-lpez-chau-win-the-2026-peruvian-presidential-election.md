@@ -3,7 +3,7 @@ title: "Will Alfonso López Chau win the 2026 Peruvian presidential election?"
 description: "Will Alfonso López Chau win the 2026 Peruvian presidential election? Odds: 19.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Alfonso López Chau win the 2026 Peruvian presidential election?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-18
 expiryDate: 2026-04-12
 tags: ["elections", "politics", "polymarket"]

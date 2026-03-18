@@ -11,7 +11,6 @@ polymarketYes: 0.1
 polymarketNo: 99.9
 polymarketVolume: 9899
 polymarketUrl: "https://polymarket.com/event/will-tiffany-nicole-ervin-win-survivor-season-50"
-analysisDate: 2026-03-18
 ---
 
 # Survivor Season 50 Winner Market Analysis

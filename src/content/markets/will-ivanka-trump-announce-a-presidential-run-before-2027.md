@@ -9,9 +9,8 @@ expiryDate: 2026-12-31
 tags: ["politics", "polymarket", "trump"]
 polymarketYes: 6.5
 polymarketNo: 93.5
-polymarketVolume: 9576
+polymarketVolume: 9688
 polymarketUrl: "https://polymarket.com/event/will-ivanka-trump-announce-a-presidential-run-before-2027"
-analysisDate: 2026-03-18
 ---
 
 # Ivanka Trump Presidential Run Market Analysis

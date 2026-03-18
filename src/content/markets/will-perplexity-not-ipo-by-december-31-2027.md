@@ -9,9 +9,8 @@ expiryDate: 2027-12-31
 tags: ["finance", "polymarket"]
 polymarketYes: 51.0
 polymarketNo: 49.0
-polymarketVolume: 96307
+polymarketVolume: 97203
 polymarketUrl: "https://polymarket.com/event/will-perplexity-not-ipo-by-december-31-2027"
-analysisDate: 2026-03-18
 ---
 
 # Perplexity IPO Market Analysis

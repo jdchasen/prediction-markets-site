@@ -11,7 +11,6 @@ polymarketYes: 0.1
 polymarketNo: 100.0
 polymarketVolume: 98467
 polymarketUrl: "https://polymarket.com/event/will-the-hungarian-socialist-party-mszp-win-the-most-seats-in-the-next-hungarian-parliamentary-election"
-analysisDate: 2026-03-18
 ---
 
 The Hungarian Socialist Party faces near-impossible odds at just 0.1% to win the most seats in the 2026 parliamentary election, reflecting their catastrophic decline from governing party to irrelevance in Hungarian politics. This market matters as a barometer of whether any opposition force can challenge Fidesz's supermajority, though bettors have essentially written off the once-dominant MSZP as that vehicle.

@@ -3,7 +3,7 @@ title: "Will Xavier Iturralde win the 2026 La Paz mayoral election?"
 description: "Will Xavier Iturralde win the 2026 La Paz mayoral election? Odds: 4.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Xavier Iturralde win the 2026 La Paz mayoral election?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-18
 expiryDate: 2026-03-22
 tags: ["elections", "politics", "polymarket"]

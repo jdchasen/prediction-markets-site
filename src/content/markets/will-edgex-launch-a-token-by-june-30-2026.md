@@ -3,7 +3,7 @@ title: "Will EdgeX launch a token by June 30, 2026?"
 description: "Will EdgeX launch a token by June 30, 2026? Odds: 98.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will EdgeX launch a token by June 30, 2026?"
 category: "crypto"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-18
 expiryDate: 2027-01-01
 tags: ["crypto", "polymarket"]

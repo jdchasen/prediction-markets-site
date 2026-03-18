@@ -11,7 +11,6 @@ polymarketYes: 6.2
 polymarketNo: 93.8
 polymarketVolume: 97852
 polymarketUrl: "https://polymarket.com/event/openai-receives-federal-backstop-for-infrastructure-before-july"
-analysisDate: 2026-03-18
 ---
 
 Traders are pricing less than a 7% chance that OpenAI secures a federal infrastructure backstop by July 2026, reflecting deep skepticism about Washington's ability to move quickly on novel AI policy despite growing national security rhetoric around the technology.

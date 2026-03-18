@@ -1,17 +1,16 @@
 ---
 title: "Will Bitcoin reach $105,000 in March?"
-description: "Will Bitcoin reach $105,000 in March? Odds: 0.6% YES on Polymarket. See live prices and trade this market."
+description: "Will Bitcoin reach $105,000 in March? Odds: 0.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Bitcoin reach $105,000 in March?"
 category: "crypto"
 status: "active"
 lastUpdated: 2026-03-18
 expiryDate: 2026-04-01
 tags: ["bitcoin", "crypto", "polymarket"]
-polymarketYes: 0.6
-polymarketNo: 99.4
-polymarketVolume: 985982
+polymarketYes: 0.5
+polymarketNo: 99.5
+polymarketVolume: 993670
 polymarketUrl: "https://polymarket.com/event/will-bitcoin-reach-105k-in-march-2026"
-analysisDate: 2026-03-18
 ---
 
 The market shows extreme skepticism about Bitcoin hitting $105,000 by March, with traders assigning virtually no chance of this outcome materializing in the next few weeks. This matters because it reflects broader sentiment about near-term price catalysts and suggests the market sees current resistance levels as formidable barriers.

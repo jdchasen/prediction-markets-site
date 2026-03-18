@@ -3,7 +3,7 @@ title: "Will Barcelona reach the UEFA Champions League quarter-finals?"
 description: "Will Barcelona reach the UEFA Champions League quarter-finals? Odds: 76.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Barcelona reach the UEFA Champions League quarter-finals?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-18
 expiryDate: 2026-04-16
 tags: ["polymarket", "sports"]

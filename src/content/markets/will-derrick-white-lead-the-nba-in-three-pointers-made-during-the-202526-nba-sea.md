@@ -3,7 +3,7 @@ title: "Will Derrick White lead the NBA in three pointers made during the 2025�
 description: "Will Derrick White lead the NBA in three pointers made during the 2025–26 NBA season? Odds: 0.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Derrick White lead the NBA in three pointers made during the 2025–26 NBA season?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-18
 expiryDate: 2026-04-12
 tags: ["polymarket", "sports"]

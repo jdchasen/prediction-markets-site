@@ -9,9 +9,8 @@ expiryDate: 2028-11-07
 tags: ["politics", "polymarket"]
 polymarketYes: 0.8
 polymarketNo: 99.2
-polymarketVolume: 9952002
+polymarketVolume: 9965731
 polymarketUrl: "https://polymarket.com/event/will-robert-f-kennedy-jr-win-the-2028-republican-presidential-nomination"
-analysisDate: 2026-03-18
 ---
 
 The market gives Robert F. Kennedy Jr. less than 1% chance of winning the 2028 Republican nomination, reflecting extreme skepticism about his viability despite his recent appointment as HHS Secretary under Trump. This matters because Kennedy's current cabinet position provides unprecedented visibility and resources that could theoretically launch a presidential bid, yet traders see insurmountable obstacles to winning over GOP primary voters.

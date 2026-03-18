@@ -3,7 +3,7 @@ title: "Will the Emmanuel Grégoire List win the most citywide list votes in the
 description: "Will the Emmanuel Grégoire List win the most citywide list votes in the runoff of the 2026 Paris municipal election by 5–10%? Odds: 20.5% YES on Polymarket. ..."
 marketQuestion: "Will the Emmanuel Grégoire List win the most citywide list votes in the runoff of the 2026 Paris municipal election by 5–10%?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-18
 expiryDate: 2026-03-22
 tags: ["elections", "politics", "polymarket"]

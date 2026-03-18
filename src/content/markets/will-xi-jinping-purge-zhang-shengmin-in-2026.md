@@ -9,9 +9,8 @@ expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 9.0
 polymarketNo: 91.0
-polymarketVolume: 9557
+polymarketVolume: 9673
 polymarketUrl: "https://polymarket.com/event/will-xi-jinping-purge-zhang-shengmin-in-2026"
-analysisDate: 2026-03-18
 ---
 
 # Xi Jinping and Zhang Shengmin: Reading the 9% Purge Probability

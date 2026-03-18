@@ -9,9 +9,8 @@ expiryDate: 2028-11-07
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 4.7
 polymarketNo: 95.3
-polymarketVolume: 9785593
+polymarketVolume: 9792245
 polymarketUrl: "https://polymarket.com/event/will-alexandria-ocasio-cortez-win-the-2028-us-presidential-election"
-analysisDate: 2026-03-18
 ---
 
 The market pricing AOC at under 5% to win the 2028 presidential election reflects deep skepticism that a progressive House member from a safe Democratic district can secure both the nomination and general election, though her national profile and fundraising prowess keep the possibility alive.

@@ -11,7 +11,6 @@ polymarketYes: 0.2
 polymarketNo: 99.8
 polymarketVolume: 97443
 polymarketUrl: "https://polymarket.com/event/will-chaikasem-nitisiri-be-the-next-prime-minister-of-thailand-after-the-election"
-analysisDate: 2026-03-18
 ---
 
 # Chaikasem Nitisiri for Thai Prime Minister

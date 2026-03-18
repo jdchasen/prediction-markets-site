@@ -3,7 +3,7 @@ title: "Will the Social Democrats (SD) win the most seats in the 2026 Slovenian 
 description: "Will the Social Democrats (SD) win the most seats in the 2026 Slovenian parliamentary election? Odds: 0.1% YES on Polymarket. See live prices and trade this ..."
 marketQuestion: "Will the Social Democrats (SD) win the most seats in the 2026 Slovenian parliamentary election?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-18
 expiryDate: 2026-03-31
 tags: ["elections", "politics", "polymarket"]

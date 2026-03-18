@@ -3,7 +3,7 @@ title: "Will Bilibili Gaming win the LPL 2026 season?"
 description: "Will Bilibili Gaming win the LPL 2026 season? Odds: 55.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Bilibili Gaming win the LPL 2026 season?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-18
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]

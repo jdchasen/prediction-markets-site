@@ -3,7 +3,7 @@ title: "Will Trump visit China by May 31?"
 description: "Will Trump visit China by May 31? Odds: 70.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Trump visit China by May 31?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-18
 expiryDate: 2026-03-31
 tags: ["politics", "polymarket", "trump"]

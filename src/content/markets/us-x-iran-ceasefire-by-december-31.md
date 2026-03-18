@@ -3,7 +3,7 @@ title: "US x Iran ceasefire by December 31?"
 description: "US x Iran ceasefire by December 31? Odds: 70.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "US x Iran ceasefire by December 31?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-18
 expiryDate: 2026-05-31
 tags: ["politics", "polymarket"]

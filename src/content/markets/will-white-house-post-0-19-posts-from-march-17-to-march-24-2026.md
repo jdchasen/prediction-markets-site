@@ -1,17 +1,16 @@
 ---
 title: "Will White House post 0-19 posts from March 17 to March 24, 2026?"
-description: "Will White House post 0-19 posts from March 17 to March 24, 2026? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
+description: "Will White House post 0-19 posts from March 17 to March 24, 2026? Odds: 0.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will White House post 0-19 posts from March 17 to March 24, 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-03-18
 expiryDate: 2026-03-24
 tags: ["politics", "polymarket"]
-polymarketYes: 0.1
-polymarketNo: 100.0
+polymarketYes: 0.4
+polymarketNo: 99.6
 polymarketVolume: 9611
 polymarketUrl: "https://polymarket.com/event/white-house-of-tweets-march-17-march-24-2026-0-19"
-analysisDate: 2026-03-18
 ---
 
 # White House Social Media Silence: A Highly Unlikely but Consequential Bet

@@ -1,17 +1,16 @@
 ---
 title: "Vanta IPO before 2027?"
-description: "Vanta IPO before 2027? Odds: 12.5% YES on Polymarket. See live prices and trade this market."
+description: "Vanta IPO before 2027? Odds: 11.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Vanta IPO before 2027?"
 category: "finance"
-status: "settled"
-lastUpdated: 2026-03-17
+status: "active"
+lastUpdated: 2026-03-18
 expiryDate: 2026-12-31
 tags: ["finance", "polymarket"]
-polymarketYes: 12.5
-polymarketNo: 87.5
-polymarketVolume: 97756
+polymarketYes: 11.5
+polymarketNo: 88.5
+polymarketVolume: 97807
 polymarketUrl: "https://polymarket.com/event/vanta-ipo-before-2027"
-analysisDate: 2026-03-17
 ---
 
 Vanta, the enterprise security compliance automation platform, currently trades at just 12.5% odds to go public before 2027, reflecting substantial skepticism about a near-term IPO despite its status as a highly-valued cybersecurity unicorn. This matters because Vanta represents a bellwether for the broader SaaS IPO market, which has been essentially frozen since late 2021, and any movement toward public markets would signal a significant thaw in tech listings.

@@ -9,9 +9,8 @@ expiryDate: 2026-06-23
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 25.9
 polymarketNo: 74.2
-polymarketVolume: 9797
+polymarketVolume: 9803
 polymarketUrl: "https://polymarket.com/event/will-ed-hale-win-the-2026-maryland-governor-republican-primary-election"
-analysisDate: 2026-03-18
 ---
 
 # Ed Hale 2026 Maryland GOP Primary Analysis

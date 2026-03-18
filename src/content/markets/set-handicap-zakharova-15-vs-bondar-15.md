@@ -3,7 +3,7 @@ title: "Set Handicap: Zakharova (-1.5) vs Bondar (+1.5)"
 description: "Set Handicap: Zakharova (-1.5) vs Bondar (+1.5) Odds: 44.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Set Handicap: Zakharova (-1.5) vs Bondar (+1.5)"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-18
 expiryDate: 2026-03-25
 tags: ["politics", "polymarket"]

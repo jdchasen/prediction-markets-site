@@ -1,17 +1,16 @@
 ---
 title: "Will George Forsyth win the 2026 Peruvian presidential election?"
-description: "Will George Forsyth win the 2026 Peruvian presidential election? Odds: 0.5% YES on Polymarket. See live prices and trade this market."
+description: "Will George Forsyth win the 2026 Peruvian presidential election? Odds: 0.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will George Forsyth win the 2026 Peruvian presidential election?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-03-18
 expiryDate: 2026-04-12
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 0.5
-polymarketNo: 99.5
-polymarketVolume: 96117
+polymarketYes: 0.4
+polymarketNo: 99.6
+polymarketVolume: 96934
 polymarketUrl: "https://polymarket.com/event/will-george-forsyth-win-the-2026-peruvian-presidential-election"
-analysisDate: 2026-03-18
 ---
 
 George Forsyth, the former mayor of La Victoria district in Lima, currently trades at essentially zero probability to win Peru's 2026 presidential election, reflecting deep skepticism about his political viability despite once being considered a rising star in Peruvian politics.

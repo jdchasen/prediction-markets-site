@@ -3,7 +3,7 @@ title: "Will Kuwait strike Iran by March 31?"
 description: "Will Kuwait strike Iran by March 31? Odds: 5.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Kuwait strike Iran by March 31?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-18
 expiryDate: 2026-03-31
 tags: ["ai", "politics", "polymarket"]

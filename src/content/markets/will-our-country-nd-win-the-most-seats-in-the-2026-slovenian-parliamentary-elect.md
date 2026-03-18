@@ -9,9 +9,8 @@ expiryDate: 2026-03-31
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.1
 polymarketNo: 100.0
-polymarketVolume: 986582
+polymarketVolume: 990782
 polymarketUrl: "https://polymarket.com/event/will-our-country-nd-win-the-most-seats-in-the-2026-slovenian-parliamentary-election"
-analysisDate: 2026-03-18
 ---
 
 The market has essentially priced Our Country (Naša dežela, ND) out of contention for winning the most seats in Slovenia's 2026 parliamentary election, with near-zero odds reflecting the party's marginal position in Slovenian politics. This matters as it demonstrates how traders view the stability of Slovenia's current political landscape dominated by established parties like Freedom Movement, SDS, and New Slovenia.

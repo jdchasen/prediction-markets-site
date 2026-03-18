@@ -3,7 +3,7 @@ title: "Will Apple release a touchscreen MacBook in 2026?"
 description: "Will Apple release a touchscreen MacBook in 2026? Odds: 60.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Apple release a touchscreen MacBook in 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-18
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]

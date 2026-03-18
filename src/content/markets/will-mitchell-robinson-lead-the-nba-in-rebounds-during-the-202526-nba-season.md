@@ -11,7 +11,6 @@ polymarketYes: 0.1
 polymarketNo: 99.9
 polymarketVolume: 9916
 polymarketUrl: "https://polymarket.com/event/nba-2025-26-rpg-leader-mitchell-robinson"
-analysisDate: 2026-03-18
 ---
 
 # Mitchell Robinson Rebound Leader Analysis

@@ -3,7 +3,7 @@ title: "Will Rand Paul announce a presidential run before 2027?"
 description: "Will Rand Paul announce a presidential run before 2027? Odds: 8.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Rand Paul announce a presidential run before 2027?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-18
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]

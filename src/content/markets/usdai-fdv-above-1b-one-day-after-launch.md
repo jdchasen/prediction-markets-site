@@ -8,10 +8,9 @@ lastUpdated: 2026-03-18
 expiryDate: 2027-01-01
 tags: ["ai", "crypto", "polymarket"]
 polymarketYes: 1.5
-polymarketNo: 98.5
-polymarketVolume: 97750
+polymarketNo: 98.6
+polymarketVolume: 97814
 polymarketUrl: "https://polymarket.com/event/usdai-fdv-above-1b-one-day-after-launch-171-371-497-941"
-analysisDate: 2026-03-18
 ---
 
 The market pricing a mere 1.5% chance of USD.AI reaching a $1 billion fully diluted valuation within 24 hours of launch reflects extreme skepticism about this AI-crypto project's ability to generate immediate hype in a challenging market environment. This matters because it signals trader expectations for token launches in 2027 and whether AI narrative tokens can still command premium valuations.

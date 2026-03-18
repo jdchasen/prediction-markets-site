@@ -1,17 +1,16 @@
 ---
 title: "Will Venezuela become 51st state?"
-description: "Will Venezuela become 51st state? Odds: 3.4% YES on Polymarket. See live prices and trade this market."
+description: "Will Venezuela become 51st state? Odds: 3.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Venezuela become 51st state?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-03-18
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 3.4
-polymarketNo: 96.6
-polymarketVolume: 96689
+polymarketYes: 3.5
+polymarketNo: 96.5
+polymarketVolume: 96730
 polymarketUrl: "https://polymarket.com/event/will-venezuela-become-51st-state"
-analysisDate: 2026-03-18
 ---
 
 This market prices Venezuelan statehood at 3.4%, reflecting near-zero probability despite ongoing geopolitical tension—a rational assessment given the astronomical political barriers involved. The odds matter because they reveal how prediction markets quantify scenarios with multiple veto points and virtually no institutional momentum. The bull case rests on catastrophic state collapse forcing humanitarian intervention, subsequent military occupation, and an unprecedented constitutional realignment where Congress votes to admit a former nation-state. This would require Venezuela's government to completely collapse, the U.S. to occupy the territory, and both chambers of Congress to achieve the supermajority needed for statehood—a convergence so unlikely that even crisis scenarios don't seriously contemplate it. The bear case is overwhelming: Venezuela's admission would face constitutional challenges, require 67 Senate votes in an era of extreme partisanship, provoke international legal complications under existing treaties, and contradict over a century of non-annexation precedent in U.S. foreign policy. No serious policy figure in either party has advocated for this outcome, and the political cost would be enormous across both domestic and international audiences.

@@ -9,9 +9,8 @@ expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 15.5
 polymarketNo: 84.5
-polymarketVolume: 95767
+polymarketVolume: 96207
 polymarketUrl: "https://polymarket.com/event/will-reza-pahlavi-be-head-of-state-in-iran-end-of-2026"
-analysisDate: 2026-03-18
 ---
 
 # Reza Pahlavi Head of State Prediction Market Analysis

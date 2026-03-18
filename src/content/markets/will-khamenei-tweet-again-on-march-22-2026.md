@@ -1,17 +1,16 @@
 ---
 title: "Will Khamenei tweet again on March 22, 2026?"
-description: "Will Khamenei tweet again on March 22, 2026? Odds: 73.0% YES on Polymarket. See live prices and trade this market."
+description: "Will Khamenei tweet again on March 22, 2026? Odds: 72.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Khamenei tweet again on March 22, 2026?"
 category: "tech"
 status: "active"
 lastUpdated: 2026-03-18
 expiryDate: 2026-03-23
 tags: ["ai", "polymarket", "tech"]
-polymarketYes: 73.0
-polymarketNo: 27.0
-polymarketVolume: 9622
+polymarketYes: 72.0
+polymarketNo: 28.0
+polymarketVolume: 9762
 polymarketUrl: "https://polymarket.com/event/will-khamenei-tweet-again-on-march-22-2026-622-684"
-analysisDate: 2026-03-18
 ---
 
 # Khamenei Twitter Activity Prediction Market Analysis

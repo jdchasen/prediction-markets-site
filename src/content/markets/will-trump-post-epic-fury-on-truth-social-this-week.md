@@ -1,17 +1,16 @@
 ---
 title: "Will Trump post \"Epic Fury\" on Truth Social this week?"
-description: "Will Trump post \"Epic Fury\" on Truth Social this week? Odds: 47.0% YES on Polymarket. See live prices and trade this market."
+description: "Will Trump post \"Epic Fury\" on Truth Social this week? Odds: 51.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Trump post \"Epic Fury\" on Truth Social this week?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-03-18
 expiryDate: 2026-03-22
 tags: ["politics", "polymarket", "trump"]
-polymarketYes: 47.0
-polymarketNo: 53.0
-polymarketVolume: 9890
+polymarketYes: 51.5
+polymarketNo: 48.5
+polymarketVolume: 9956
 polymarketUrl: "https://polymarket.com/event/will-trump-post-epic-fury-on-truth-social-this-week"
-analysisDate: 2026-03-18
 ---
 
 This market reflects genuine uncertainty about Trump's social media behavior during a specific week in March 2026, with nearly even odds suggesting traders lack strong conviction either direction. The relevance hinges on whether "Epic Fury" represents a coded phrase with political significance or simply Trump's typical rhetorical style, making resolution itself potentially contentious.

@@ -1,17 +1,16 @@
 ---
 title: "Will Ivan Demidov win the 2025–2026 NHL Calder Memorial Trophy?"
-description: "Will Ivan Demidov win the 2025–2026 NHL Calder Memorial Trophy? Odds: 0.7% YES on Polymarket. See live prices and trade this market."
+description: "Will Ivan Demidov win the 2025–2026 NHL Calder Memorial Trophy? Odds: 0.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Ivan Demidov win the 2025–2026 NHL Calder Memorial Trophy?"
 category: "sports"
 status: "active"
 lastUpdated: 2026-03-18
 expiryDate: 2026-06-30
 tags: ["polymarket", "sports"]
-polymarketYes: 0.7
-polymarketNo: 99.3
-polymarketVolume: 9635
+polymarketYes: 0.4
+polymarketNo: 99.6
+polymarketVolume: 9670
 polymarketUrl: "https://polymarket.com/event/nhl-2025-26-calder-memorial-trophy-ivan-demidov"
-analysisDate: 2026-03-18
 ---
 
 # Ivan Demidov and the 2025–2026 Calder Race: An Extreme Long Shot

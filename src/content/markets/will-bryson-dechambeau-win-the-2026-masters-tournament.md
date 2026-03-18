@@ -9,9 +9,8 @@ expiryDate: 2026-04-13
 tags: ["polymarket", "sports"]
 polymarketYes: 4.5
 polymarketNo: 95.5
-polymarketVolume: 99551
+polymarketVolume: 99567
 polymarketUrl: "https://polymarket.com/event/will-bryson-dechambeau-win-the-2026-masters-tournament"
-analysisDate: 2026-03-18
 ---
 
 # DeChambeau 2026 Masters Analysis

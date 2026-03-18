@@ -9,9 +9,8 @@ expiryDate: 2026-03-31
 tags: ["politics", "polymarket"]
 polymarketYes: 0.8
 polymarketNo: 99.2
-polymarketVolume: 97090
+polymarketVolume: 97125
 polymarketUrl: "https://polymarket.com/event/yoon-out-of-custody-by-march-31"
-analysisDate: 2026-03-18
 ---
 
 # Analysis: Yoon Custody Market
