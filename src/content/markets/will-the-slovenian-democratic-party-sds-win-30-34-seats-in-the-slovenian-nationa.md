@@ -3,8 +3,8 @@ title: "Will the Slovenian Democratic Party (SDS) win 30-34 seats in the Sloveni
 description: "Will the Slovenian Democratic Party (SDS) win 30-34 seats in the Slovenian National Assembly in this election? Odds: 16.5% YES on Polymarket. See live prices..."
 marketQuestion: "Will the Slovenian Democratic Party (SDS) win 30-34 seats in the Slovenian National Assembly in this election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-18
+status: "settled"
+lastUpdated: 2026-03-19
 expiryDate: 2026-03-22
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 16.5

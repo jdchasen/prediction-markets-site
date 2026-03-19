@@ -3,8 +3,8 @@ title: "Major solar storm by April 30?"
 description: "Major solar storm by April 30? Odds: 35.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Major solar storm by April 30?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-18
+status: "settled"
+lastUpdated: 2026-03-19
 expiryDate: 2026-04-30
 tags: ["politics", "polymarket"]
 polymarketYes: 35.5

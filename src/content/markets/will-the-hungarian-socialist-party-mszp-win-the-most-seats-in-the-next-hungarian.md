@@ -3,8 +3,8 @@ title: "Will the Hungarian Socialist Party (MSZP) win the most seats in the next
 description: "Will the Hungarian Socialist Party (MSZP) win the most seats in the next Hungarian parliamentary election? Odds: 0.1% YES on Polymarket. See live prices and ..."
 marketQuestion: "Will the Hungarian Socialist Party (MSZP) win the most seats in the next Hungarian parliamentary election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-18
+status: "settled"
+lastUpdated: 2026-03-19
 expiryDate: 2026-04-12
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.1

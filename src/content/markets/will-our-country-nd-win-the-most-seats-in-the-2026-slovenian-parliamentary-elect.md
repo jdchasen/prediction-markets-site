@@ -3,8 +3,8 @@ title: "Will Our Country (ND) win the most seats in the 2026 Slovenian parliamen
 description: "Will Our Country (ND) win the most seats in the 2026 Slovenian parliamentary election? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Our Country (ND) win the most seats in the 2026 Slovenian parliamentary election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-18
+status: "settled"
+lastUpdated: 2026-03-19
 expiryDate: 2026-03-31
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.1

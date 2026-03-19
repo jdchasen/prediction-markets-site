@@ -3,8 +3,8 @@ title: "Will Hyperliquid dip to $16 in March?"
 description: "Will Hyperliquid dip to $16 in March? Odds: 1.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Hyperliquid dip to $16 in March?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-18
+status: "settled"
+lastUpdated: 2026-03-19
 expiryDate: 2026-04-01
 tags: ["politics", "polymarket"]
 polymarketYes: 1.0

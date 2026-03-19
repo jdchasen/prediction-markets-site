@@ -1,17 +1,16 @@
 ---
 title: "Will France win Eurovision 2026?"
-description: "Will France win Eurovision 2026? Odds: 11.1% YES on Polymarket. See live prices and trade this market."
+description: "Will France win Eurovision 2026? Odds: 11.6% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will France win Eurovision 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-03-18
+lastUpdated: 2026-03-19
 expiryDate: 2026-05-16
 tags: ["politics", "polymarket"]
-polymarketYes: 11.1
-polymarketNo: 88.9
-polymarketVolume: 961379
+polymarketYes: 11.6
+polymarketNo: 88.4
+polymarketVolume: 982805
 polymarketUrl: "https://polymarket.com/event/will-france-win-eurovision-2026"
-analysisDate: 2026-03-18
 ---
 
 France faces long odds at roughly 1-in-9 to claim Eurovision 2026, reflecting the country's historically underwhelming performance in a competition where Western European powerhouses have increasingly struggled against Eastern European and Scandinavian entries.

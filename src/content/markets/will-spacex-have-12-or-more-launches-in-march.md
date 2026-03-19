@@ -3,8 +3,8 @@ title: "Will SpaceX have 12 or more launches in March?"
 description: "Will SpaceX have 12 or more launches in March? Odds: 98.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will SpaceX have 12 or more launches in March?"
 category: "tech"
-status: "active"
-lastUpdated: 2026-03-18
+status: "settled"
+lastUpdated: 2026-03-19
 expiryDate: 2026-03-31
 tags: ["polymarket", "tech"]
 polymarketYes: 98.8

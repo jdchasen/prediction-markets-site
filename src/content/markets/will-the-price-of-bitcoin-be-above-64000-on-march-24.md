@@ -3,8 +3,8 @@ title: "Will the price of Bitcoin be above $64,000 on March 24?"
 description: "Will the price of Bitcoin be above $64,000 on March 24? Odds: 93.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the price of Bitcoin be above $64,000 on March 24?"
 category: "crypto"
-status: "active"
-lastUpdated: 2026-03-18
+status: "settled"
+lastUpdated: 2026-03-19
 expiryDate: 2026-03-24
 tags: ["bitcoin", "crypto", "polymarket"]
 polymarketYes: 93.8

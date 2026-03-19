@@ -3,8 +3,8 @@ title: "Will Robert F. Kennedy Jr. win the 2028 Republican presidential nominati
 description: "Will Robert F. Kennedy Jr. win the 2028 Republican presidential nomination? Odds: 0.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Robert F. Kennedy Jr. win the 2028 Republican presidential nomination?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-18
+status: "settled"
+lastUpdated: 2026-03-19
 expiryDate: 2028-11-07
 tags: ["politics", "polymarket"]
 polymarketYes: 0.8

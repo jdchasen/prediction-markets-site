@@ -3,8 +3,8 @@ title: "Backpack FDV above $700M one day after launch?"
 description: "Backpack FDV above $700M one day after launch? Odds: 8.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Backpack FDV above $700M one day after launch?"
 category: "crypto"
-status: "active"
-lastUpdated: 2026-03-18
+status: "settled"
+lastUpdated: 2026-03-19
 expiryDate: 2027-01-01
 tags: ["crypto", "polymarket"]
 polymarketYes: 8.0

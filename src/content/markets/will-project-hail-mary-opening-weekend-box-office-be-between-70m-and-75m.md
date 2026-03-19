@@ -3,8 +3,8 @@ title: "Will \"Project Hail Mary\" Opening Weekend Box Office be between 70m and
 description: "Will \"Project Hail Mary\" Opening Weekend Box Office be between 70m and 75m? Odds: 21.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will \"Project Hail Mary\" Opening Weekend Box Office be between 70m and 75m?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-18
+status: "settled"
+lastUpdated: 2026-03-19
 expiryDate: 2026-03-23
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 21.5

@@ -3,8 +3,8 @@ title: "USD.AI FDV above $1B one day after launch?"
 description: "USD.AI FDV above $1B one day after launch? Odds: 1.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "USD.AI FDV above $1B one day after launch?"
 category: "crypto"
-status: "active"
-lastUpdated: 2026-03-18
+status: "settled"
+lastUpdated: 2026-03-19
 expiryDate: 2027-01-01
 tags: ["ai", "crypto", "polymarket"]
 polymarketYes: 1.5

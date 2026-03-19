@@ -4,50 +4,51 @@ description: "Will George Forsyth win the 2026 Peruvian presidential election? O
 marketQuestion: "Will George Forsyth win the 2026 Peruvian presidential election?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-03-18
+lastUpdated: 2026-03-19
 expiryDate: 2026-04-12
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.4
 polymarketNo: 99.6
-polymarketVolume: 96934
+polymarketVolume: 97908
 polymarketUrl: "https://polymarket.com/event/will-george-forsyth-win-the-2026-peruvian-presidential-election"
+analysisDate: 2026-03-19
 ---
 
-George Forsyth, the former mayor of La Victoria district in Lima, currently trades at essentially zero probability to win Peru's 2026 presidential election, reflecting deep skepticism about his political viability despite once being considered a rising star in Peruvian politics.
+George Forsyth, the former mayor of La Victoria and ex-goalkeeper, currently sits at near-negligible odds in prediction markets for Peru's 2026 presidential race, reflecting severe erosion of his political capital since his strong showing in the 2021 election when he briefly led early polls.
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.5% | 99.5% | $96K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.4% | 99.6% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The bear case driving these minimal odds is straightforward: Forsyth's political trajectory has collapsed since his failed 2021 presidential run where he placed sixth with just 13.4% in the first round despite leading early polls. His party Somos Perú has fractured internally, he lacks a clear organizational base, and Peru's volatile political environment has elevated anti-establishment candidates while traditional political figures struggle. Peru has cycled through six presidents since 2016, creating an environment where voters increasingly reject establishment politicians, and Forsyth's technocratic image appears misaligned with current sentiment. His absence from recent national polling—where candidates like Antauro Humala, Rafael López Aliaga, and Daniel Urresti dominate—suggests he has failed to remain politically relevant.
+The bull case hinges on Forsyth's continued name recognition and his potential to rebuild momentum as a centrist technocratic alternative in Peru's fragmented political landscape. His youth, sports celebrity background, and previous ability to poll competitively demonstrate he can capture media attention and voter interest when the spotlight turns to him. If Peru's economy continues struggling under current leadership and traditional parties remain discredited, Forsyth could position himself as the outsider candidate who successfully governed at the municipal level. The first-round election scheduled for April 2026 gives him roughly 18 months to reconstruct his political operation, and Peru's volatile electorate has repeatedly elevated previously dismissed candidates in compressed timeframes.
 
-The bull case requires significant political rehabilitation over the next 18 months before campaigning intensifies. If Forsyth secured a prominent government position or cabinet role under current President Dina Barte, he could rebuild credibility and visibility. Peru's fragmented political landscape, where no party commands sustained loyalty and new frontrunners emerge rapidly, theoretically allows for comeback narratives. His background as a former footballer gives him celebrity recognition, and if he positioned himself as an outsider critic of the current political establishment—despite his prior candidacy—he might capture protest votes. The first-round election on April 5, 2026 requires only plurality support to advance to a runoff.
+The bear case is considerably stronger, explaining the current odds. Forsyth's 2021 campaign collapsed dramatically—he finished seventh with just 5.7% despite once leading polls at over 20%—revealing fundamental weaknesses in campaign execution and political infrastructure. His party Restauración Nacional has fractured and lacks congressional representation, leaving him without an organizational vehicle. More critically, Forsyth has maintained minimal political visibility since 2021, failing to build the sustained presence necessary for a comeback. Peru's presidential field will likely include 15-20 candidates, and voters have moved toward more radical options on both left and right, squeezing the centrist lane Forsyth occupies. His previous frontrunner status actually works against him—voters already evaluated and rejected him once.
 
-Key catalysts include party registration deadlines in late 2025, when we'll know definitively whether Forsyth has a viable vehicle to run. Polling throughout 2025 will reveal whether he registers any measurable support, with Peruvian pollsters like IEP and Ipsos typically beginning presidential tracking 12-18 months before elections. Congressional elections occurring simultaneously with the presidential race could reshape party dynamics. Traders should monitor whether Forsyth takes any prominent political appointments in 2025 or launches policy initiatives that generate media coverage, as continued silence would confirm his political irrelevance.
+Traders should monitor several specific indicators: any polling data from Peruvian firms like Ipsos or IEP starting in late 2025 when presidential surveys begin in earnest, Forsyth's ability to secure a viable party structure by early 2026 when candidate registration occurs, and whether he can attract campaign financing from business sectors seeking a moderate alternative. The congressional elections coinciding with the first round could influence dynamics if parties backing similar candidates gain momentum. Watch for the official candidate registration deadline, typically falling in January 2026, which will clarify the field's composition and whether Forsyth has assembled the logistical requirements to mount a serious bid.
 
 ## Related Markets
 
-- [Will Robert F. Kennedy Jr. win the 2028 Republican presidential nomination?](/odds/will-robert-f-kennedy-jr-win-the-2028-republican-presidential-nomination) — 1% YES
 - [Will Alexandria Ocasio-Cortez win the 2028 US Presidential Election?](/odds/will-alexandria-ocasio-cortez-win-the-2028-us-presidential-election) — 5% YES
-- [Will Our Country (ND) win the most seats in the 2026 Slovenian parliamentary election?](/odds/will-our-country-nd-win-the-most-seats-in-the-2026-slovenian-parliamentary-elect) — 0% YES
+- [Will J.B. Pritzker win the 2028 Democratic presidential nomination?](/odds/will-jb-pritzker-win-the-2028-democratic-presidential-nomination) — 3% YES
+- [Will OpenAI have the best AI model at the end of March 2026?](/odds/will-openai-have-the-best-ai-model-at-the-end-of-march-2026) — 1% YES
 
 ## Frequently Asked Questions
 
-### Why did George Forsyth's political support collapse after leading polls before the 2021 election?
+### Why did Forsyth's 2021 campaign collapse so dramatically after leading early polls?
 
-Forsyth failed to articulate substantive policy positions during the campaign and struggled in debates, revealing a lack of depth that caused voters to abandon him for candidates with clearer ideological positions. His technocratic, apolitical brand failed to resonate once scrutiny intensified.
+His campaign suffered from organizational chaos, inability to articulate clear policy positions beyond general anti-corruption messaging, and lack of a political machine to sustain momentum once scrutiny intensified. His inexperience in national politics became apparent during debates and media appearances.
 
-### Could Forsyth run under a different party since Somos Perú has weakened significantly?
+### What would Forsyth need to do differently to become competitive by 2026?
 
-Yes, Peruvian politicians frequently switch party vehicles, but he would need to secure a spot with an established party or help a new one meet registration requirements including thousands of signatures and regional representation by late 2025.
+He would require a functioning political party with congressional candidates, consistent media presence over the next 18 months to rebuild credibility, endorsements from credible political figures, and demonstrated policy expertise beyond his mayoral record—none of which he has shown signs of developing.
 
-### What makes Peru's 2026 presidential race particularly difficult to predict this far out?
+### How does Peru's electoral system affect Forsyth's chances of even reaching a runoff?
 
-Peru's extreme political fragmentation means polling leaders often collapse before election day—in 2021, three different candidates led at various points and the eventual runoff featured two candidates who weren't frontrunners until late in the race.
+Peru uses a two-round system where the top two candidates advance if no one wins 50% in the first round, and with 15-20 candidates typically competing, even 15-20% can secure a runoff spot—but Forsyth would need to quintuple his 2021 performance just to reach that threshold in an even more crowded field.
 
 ## Learn More
 

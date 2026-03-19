@@ -1,53 +1,54 @@
 ---
 title: "USD1 depeg by December 31?"
-description: "USD1 depeg by December 31? Odds: 16.0% YES on Polymarket. See live prices and trade this market."
+description: "USD1 depeg by December 31? Odds: 13.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "USD1 depeg by December 31?"
 category: "politics"
-status: "settled"
-lastUpdated: 2026-03-17
+status: "active"
+lastUpdated: 2026-03-19
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]
-polymarketYes: 16.0
-polymarketNo: 84.0
-polymarketVolume: 9909
+polymarketYes: 13.0
+polymarketNo: 87.0
+polymarketVolume: 9923
 polymarketUrl: "https://polymarket.com/event/usd1-depeg-by-december-31-842"
+analysisDate: 2026-03-19
 ---
 
-# USD Depeg Market Analysis
+# USD Depeg Analysis
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 14.5% | 85.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 13.0% | 87.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-This market prices in a roughly 1-in-7 chance that the US dollar loses its peg to the USD (a contradiction suggesting this is likely a malformed market or referring to dollar devaluation/collapse scenarios), with nearly three years until expiration creating substantial time for macro shifts. The question matters because it captures trader beliefs about extreme fiscal deterioration, Federal Reserve credibility loss, or systemic financial breakdown—tail risks that currently appear underpriced relative to base-case policy trajectories. The 2027 expiration is critical because it spans multiple election cycles, potential debt ceiling crises, and shifts in monetary policy regime.
+This market prices the probability that the US dollar loses its peg to its current value by year-end 2024 at roughly 1-in-7 odds, reflecting baseline skepticism about major currency crises despite persistent macro volatility. The prediction matters because a dollar depeg would signal either hyperinflation, capital flight, or fundamental loss of confidence in US fiscal credibility—outcomes that would reshape asset allocation strategies and geopolitical power dynamics within months.
 
-The bull case for depeg rests on three pillars: (1) continued unsustainable deficit spending with 2024-2026 fiscal projections showing deficits above $1.8 trillion annually, accelerating if tax cuts extend without offsets; (2) the incoming Trump administration's stated protectionist trade agenda potentially triggering dollar weakness through capital flight or retaliatory currency moves; (3) geopolitical fragmentation that reduces dollar reserve demand, particularly if sanctions on Russia/China accelerate de-dollarization efforts. The January 2025 debt ceiling negotiation and any brinkmanship around it could spike this probability if markets perceive genuine default risk. Foreign central banks have already begun modest reserve diversification, and any coordinated shift away from dollar holdings would compress odds rapidly.
+The bull case rests on three structural pressures: US debt-to-GDP exceeding 120% with deficits expanding under any administration, potential trade wars in 2025 that could trigger stagflation, and foreign central banks gradually diversifying away from dollar reserves (China and Russia have accelerated this since 2022). If the incoming administration pursues aggressive tariffs without corresponding spending cuts, Treasury yields could spike sharply, forcing the Fed into a policy bind that undermines dollar stability. The fiscal situation worsens substantially after the 2024 election when spending authorities reset, meaning January-March 2025 becomes a critical window for market stress tests.
 
-The bear case—currently dominating trader positioning at 85.5% NO—emphasizes structural dollar strength: the US still commands unmatched military, technological, and institutional advantages; competing currencies (euro, yuan) face their own structural challenges; and there's simply no viable alternative reserve currency at scale. The Fed retains credibility on inflation control despite fiscal chaos, and even in stressed scenarios, dollar depreciation occurs gradually rather than through "depegging." Most crucially, 2025-2027 projections assume Congress addresses deficits before true fiscal deterioration, with primary deficit stabilization likely occurring after 2026 elections. Treasury auctions continue clearing at reasonable rates despite skepticism.
+The bear case—currently dominant in pricing—emphasizes that the dollar remains the world's default reserve currency with no viable alternative, that US asset markets still offer the deepest liquidity globally, and that relative currency moves require comparative weakness elsewhere. The Fed retains credibility to defend the dollar if needed, and recent strength in Treasury demand (even at higher yields) suggests institutional demand remains firm. A depeg would require not just fiscal deterioration but an actual confidence event—think a Treasury auction failure or ratings downgrade—neither of which markets price as imminent before year-end 2024.
 
-Watch the March 2025 debt ceiling vote closely—any genuine brinkmanship or failed negotiations would immediately reprrice this market upward. Track 10-year Treasury yields above 4.5% as a canary for lost creditor confidence, and monitor foreign central bank dollar reserve holdings in IMF reports (quarterly). The 2026 midterms could shift expectations about fiscal correction; if Republicans maintain power, depeg odds might compress further assuming budget discipline. Conversely, any Fed pivot toward emergency monetary measures or actual default-like behavior would compress the timeline dramatically and reprice tail risks higher.
+Watch three specific triggers: (1) the January 2025 Treasury refunding announcements and Q1 deficit data, which will show whether new spending projections force a yield spike; (2) any trade war escalation beyond current expectations, particularly if implemented without offsetting fiscal restraint; (3) foreign central bank reserve composition reports (typically released quarterly) showing accelerated dollar diversification. The odds would likely shift sharply upward only if two of these three factors simultaneously deteriorate, which current market pricing suggests traders view as unlikely within the compressed 12-month window.
 
 ## Related Markets
 
-- [US x Iran ceasefire by March 31?](/odds/us-x-iran-ceasefire-by-march-31) — 12% YES
-- [Will Robert F. Kennedy Jr. win the 2028 Republican presidential nomination?](/odds/will-robert-f-kennedy-jr-win-the-2028-republican-presidential-nomination) — 1% YES
 - [Will Alexandria Ocasio-Cortez win the 2028 US Presidential Election?](/odds/will-alexandria-ocasio-cortez-win-the-2028-us-presidential-election) — 5% YES
+- [Will J.B. Pritzker win the 2028 Democratic presidential nomination?](/odds/will-jb-pritzker-win-the-2028-democratic-presidential-nomination) — 3% YES
+- [Will OpenAI have the best AI model at the end of March 2026?](/odds/will-openai-have-the-best-ai-model-at-the-end-of-march-2026) — 1% YES
 
 ## Frequently Asked Questions
 
-### Why does this market exist if the USD is already the standard unit of account—what would "depegging" even mean operationally?
+### Why does this market expire in 2027 but ask about December 31, 2024?
 
-The market likely refers to abandonment of a dollar standard system by major economies or loss of dollar dominance as the global reserve currency, rather than literal depegging from a commodity, reflecting extreme scenarios like coordinated de-dollarization or monetary system collapse.
+The contract creation date was likely late 2024, setting expiration 2+ years forward to allow resolution clarity, even though the outcome question itself references an earlier date that may already have passed or be imminent depending on current context.
 
-### How much would the US deficit actually need to deteriorate to make this outcome plausible?
+### What specifically counts as a "depeg"—does the dollar need to lose 20% value, or any measurable decline?
 
-Markets historically tolerate primary deficits around 3-4% of GDP; scenarios pricing depeg assume primary deficits sustaining above 5-6% indefinitely without correction, combined with concurrent loss of Fed credibility on inflation—roughly a 10-15% probability band based on historical fiscal breakdowns in developed economies.
+The resolution criteria depend entirely on the market's specific definition language, which typically requires either an official policy change (abandoning dollar stability as a policy goal) or a technical threshold like sustained trading outside a specified band, not merely relative weakness.
 
-### If foreign central banks are already diversifying away from dollars, shouldn't this market be higher?
+### Could geopolitical events like a major US-China conflict force a depeg before fiscal factors do?
 
-Reserve
+Yes—capital controls, sanctions, or a breakdown in the Treasury market's functioning could trigger depeg faster than deficit dynamics alone, which is why geopolitical tail risks matter more for shorter timeframes than structural debt concerns.
 

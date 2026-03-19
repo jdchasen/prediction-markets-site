@@ -3,8 +3,8 @@ title: "Will 130 to 149 tornadoes occur in the United States in March 2026?"
 description: "Will 130 to 149 tornadoes occur in the United States in March 2026? Odds: 0.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will 130 to 149 tornadoes occur in the United States in March 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-18
+status: "settled"
+lastUpdated: 2026-03-19
 expiryDate: 2026-04-10
 tags: ["politics", "polymarket"]
 polymarketYes: 0.5

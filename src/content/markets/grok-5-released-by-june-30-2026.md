@@ -3,8 +3,8 @@ title: "Grok 5 released by June 30, 2026?"
 description: "Grok 5 released by June 30, 2026? Odds: 40.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Grok 5 released by June 30, 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-18
+status: "settled"
+lastUpdated: 2026-03-19
 tags: ["politics", "polymarket"]
 polymarketYes: 40.0
 polymarketNo: 60.0

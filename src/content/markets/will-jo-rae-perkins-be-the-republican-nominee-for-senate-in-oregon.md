@@ -1,17 +1,16 @@
 ---
 title: "Will Jo Rae Perkins be the Republican nominee for Senate in Oregon?"
-description: "Will Jo Rae Perkins be the Republican nominee for Senate in Oregon? Odds: 62.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Jo Rae Perkins be the Republican nominee for Senate in Oregon? Odds: 60.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Jo Rae Perkins be the Republican nominee for Senate in Oregon?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-03-18
+lastUpdated: 2026-03-19
 expiryDate: 2026-05-19
 tags: ["politics", "polymarket"]
-polymarketYes: 62.5
-polymarketNo: 37.5
-polymarketVolume: 9608
+polymarketYes: 60.0
+polymarketNo: 40.0
+polymarketVolume: 9631
 polymarketUrl: "https://polymarket.com/event/will-jo-rae-perkins-be-the-republican-nominee-for-senate-in-oregon"
-analysisDate: 2026-03-18
 ---
 
 # Jo Rae Perkins Republican Senate Nomination Analysis

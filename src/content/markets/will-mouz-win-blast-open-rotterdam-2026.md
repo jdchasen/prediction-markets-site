@@ -3,8 +3,8 @@ title: "Will Mouz win Blast Open Rotterdam 2026? "
 description: "Will Mouz win Blast Open Rotterdam 2026?  Odds: 7.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Mouz win Blast Open Rotterdam 2026? "
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-18
+status: "settled"
+lastUpdated: 2026-03-19
 expiryDate: 2026-03-29
 tags: ["politics", "polymarket"]
 polymarketYes: 7.0

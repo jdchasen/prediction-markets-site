@@ -3,8 +3,8 @@ title: "Will Finland be in the top 5 at Eurovision 2026?"
 description: "Will Finland be in the top 5 at Eurovision 2026? Odds: 77.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Finland be in the top 5 at Eurovision 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-18
+status: "settled"
+lastUpdated: 2026-03-19
 expiryDate: 2026-05-16
 tags: ["politics", "polymarket"]
 polymarketYes: 77.5

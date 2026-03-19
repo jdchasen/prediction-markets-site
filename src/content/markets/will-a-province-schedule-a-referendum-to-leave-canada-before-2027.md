@@ -3,8 +3,8 @@ title: "Will a province schedule a referendum to leave Canada before 2027?"
 description: "Will a province schedule a referendum to leave Canada before 2027? Odds: 47.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will a province schedule a referendum to leave Canada before 2027?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-18
+status: "settled"
+lastUpdated: 2026-03-19
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 47.0

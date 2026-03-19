@@ -3,8 +3,8 @@ title: "Will Liverpool be relegated from the English Premier League after the 20
 description: "Will Liverpool be relegated from the English Premier League after the 2025–26 season? Odds: 0.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Liverpool be relegated from the English Premier League after the 2025–26 season?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-03-18
+status: "settled"
+lastUpdated: 2026-03-19
 expiryDate: 2026-05-27
 tags: ["polymarket", "sports"]
 polymarketYes: 0.4
