@@ -10,7 +10,6 @@ polymarketYes: 75.0
 polymarketNo: 25.0
 polymarketVolume: 9762
 polymarketUrl: "https://polymarket.com/event/will-the-democrats-win-the-wisconsin-governor-race-in-2026"
-analysisDate: 2026-03-19
 ---
 
 # Wisconsin Governor 2026: Democrats Favored but Vulnerable to Backlash

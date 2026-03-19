@@ -11,7 +11,6 @@ polymarketYes: 15.0
 polymarketNo: 85.0
 polymarketVolume: 9849
 polymarketUrl: "https://polymarket.com/event/abstract-fdv-above-1b-one-day-after-launch"
-analysisDate: 2026-03-19
 ---
 
 # Abstract FDV Prediction Market Analysis

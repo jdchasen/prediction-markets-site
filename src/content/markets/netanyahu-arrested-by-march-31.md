@@ -1,17 +1,16 @@
 ---
 title: "Netanyahu arrested by March 31?"
-description: "Netanyahu arrested by March 31? Odds: 1.5% YES on Polymarket. See live prices and trade this market."
+description: "Netanyahu arrested by March 31? Odds: 1.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Netanyahu arrested by March 31?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-03-19
 expiryDate: 2026-03-31
 tags: ["politics", "polymarket"]
-polymarketYes: 1.5
-polymarketNo: 98.6
-polymarketVolume: 97602
+polymarketYes: 1.4
+polymarketNo: 98.7
+polymarketVolume: 97891
 polymarketUrl: "https://polymarket.com/event/netanyahu-arrested-by-march-31"
-analysisDate: 2026-03-19
 ---
 
 # Netanyahu Arrest Market Analysis

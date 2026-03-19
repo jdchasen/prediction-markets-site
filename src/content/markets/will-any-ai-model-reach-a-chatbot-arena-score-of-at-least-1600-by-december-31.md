@@ -11,7 +11,6 @@ polymarketYes: 31.5
 polymarketNo: 68.5
 polymarketVolume: 9840
 polymarketUrl: "https://polymarket.com/event/will-any-ai-model-reach-a-chatbot-arena-score-of-at-least-1600-by-december-31"
-analysisDate: 2026-03-19
 ---
 
 # AI Chatbot Arena Score Market Analysis

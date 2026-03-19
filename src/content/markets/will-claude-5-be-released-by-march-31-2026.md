@@ -8,9 +8,8 @@ lastUpdated: 2026-03-19
 tags: ["politics", "polymarket"]
 polymarketYes: 4.8
 polymarketNo: 95.2
-polymarketVolume: 968464
+polymarketVolume: 969328
 polymarketUrl: "https://polymarket.com/event/will-claude-5-be-released-by-march-31-2026-243-489-141-184"
-analysisDate: 2026-03-19
 ---
 
 Traders are pricing in less than a 5% chance that Anthropic will launch Claude 5 by early 2026, reflecting skepticism about rapid major version releases despite the company's recent momentum in AI development.

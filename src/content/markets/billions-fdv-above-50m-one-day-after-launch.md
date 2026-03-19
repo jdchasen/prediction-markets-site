@@ -3,7 +3,7 @@ title: "Billions FDV above $50M one day after launch?"
 description: "Billions FDV above $50M one day after launch? Odds: 91.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Billions FDV above $50M one day after launch?"
 category: "crypto"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-19
 expiryDate: 2028-01-01
 tags: ["crypto", "polymarket"]

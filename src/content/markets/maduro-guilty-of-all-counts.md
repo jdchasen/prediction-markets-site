@@ -11,7 +11,6 @@ polymarketYes: 31.5
 polymarketNo: 68.5
 polymarketVolume: 97735
 polymarketUrl: "https://polymarket.com/event/maduro-guilty-of-all-counts"
-analysisDate: 2026-03-19
 ---
 
 # Maduro Guilty of All Counts Market Analysis

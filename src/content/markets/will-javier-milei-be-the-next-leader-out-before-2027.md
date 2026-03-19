@@ -3,7 +3,7 @@ title: "Will Javier Milei be the next leader out before 2027?"
 description: "Will Javier Milei be the next leader out before 2027? Odds: 0.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Javier Milei be the next leader out before 2027?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-19
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]

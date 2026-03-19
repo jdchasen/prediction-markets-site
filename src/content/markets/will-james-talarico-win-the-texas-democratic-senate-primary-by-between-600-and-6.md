@@ -9,9 +9,8 @@ expiryDate: 2026-11-30
 tags: ["politics", "polymarket"]
 polymarketYes: 97.2
 polymarketNo: 2.8
-polymarketVolume: 98905
+polymarketVolume: 98911
 polymarketUrl: "https://polymarket.com/event/will-james-talarico-win-the-texas-democratic-senate-primary-by-between-6pt00-and-6pt50"
-analysisDate: 2026-03-19
 ---
 
 # Texas Democratic Senate Primary Margin Analysis

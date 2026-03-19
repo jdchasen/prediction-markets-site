@@ -9,9 +9,8 @@ expiryDate: 2026-04-12
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.4
 polymarketNo: 99.6
-polymarketVolume: 97908
+polymarketVolume: 98996
 polymarketUrl: "https://polymarket.com/event/will-george-forsyth-win-the-2026-peruvian-presidential-election"
-analysisDate: 2026-03-19
 ---
 
 George Forsyth, the former mayor of La Victoria and ex-goalkeeper, currently sits at near-negligible odds in prediction markets for Peru's 2026 presidential race, reflecting severe erosion of his political capital since his strong showing in the 2021 election when he briefly led early polls.

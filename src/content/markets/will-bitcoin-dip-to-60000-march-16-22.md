@@ -3,7 +3,7 @@ title: "Will Bitcoin dip to $60,000 March 16-22?"
 description: "Will Bitcoin dip to $60,000 March 16-22? Odds: 2.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Bitcoin dip to $60,000 March 16-22?"
 category: "crypto"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-19
 expiryDate: 2026-03-23
 tags: ["bitcoin", "crypto", "polymarket"]

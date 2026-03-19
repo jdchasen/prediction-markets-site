@@ -9,9 +9,8 @@ expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 0.4
 polymarketNo: 99.7
-polymarketVolume: 9606
+polymarketVolume: 9675
 polymarketUrl: "https://polymarket.com/event/will-mostafa-pourmohammadi-be-head-of-state-in-iran-end-of-2026"
-analysisDate: 2026-03-19
 ---
 
 # Iran Head of State Market: Pourmohammadi's Minimal Path to Power

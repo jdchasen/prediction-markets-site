@@ -3,7 +3,7 @@ title: "Will the price of Ethereum be above $2,100 on March 22?"
 description: "Will the price of Ethereum be above $2,100 on March 22? Odds: 55.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the price of Ethereum be above $2,100 on March 22?"
 category: "crypto"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-19
 expiryDate: 2026-03-22
 tags: ["crypto", "ethereum", "polymarket"]

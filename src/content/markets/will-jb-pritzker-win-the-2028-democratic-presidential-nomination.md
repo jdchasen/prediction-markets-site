@@ -1,17 +1,16 @@
 ---
 title: "Will J.B. Pritzker win the 2028 Democratic presidential nomination?"
-description: "Will J.B. Pritzker win the 2028 Democratic presidential nomination? Odds: 2.6% YES on Polymarket. See live prices and trade this market."
+description: "Will J.B. Pritzker win the 2028 Democratic presidential nomination? Odds: 2.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will J.B. Pritzker win the 2028 Democratic presidential nomination?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-03-19
 expiryDate: 2028-11-07
 tags: ["politics", "polymarket"]
-polymarketYes: 2.6
-polymarketNo: 97.4
-polymarketVolume: 9652592
+polymarketYes: 2.8
+polymarketNo: 97.2
+polymarketVolume: 9755067
 polymarketUrl: "https://polymarket.com/event/will-jb-pritzker-win-the-2028-democratic-presidential-nomination-288"
-analysisDate: 2026-03-19
 ---
 
 The market currently prices Illinois Governor J.B. Pritzker as a long-shot for the 2028 Democratic nomination at under 3%, reflecting his low national profile despite significant personal wealth and governing experience in a major blue state. This market matters because the 2028 Democratic field remains unusually undefined, with no clear frontrunner emerging and Vice President Kamala Harris's political future uncertain following the 2024 cycle.

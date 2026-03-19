@@ -1,53 +1,54 @@
 ---
 title: "Military action against Iran ends on March 19, 2026?"
-description: "Military action against Iran ends on March 19, 2026? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
+description: "Military action against Iran ends on March 19, 2026? Odds: 0.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Military action against Iran ends on March 19, 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-03-19
 expiryDate: 2026-03-31
 tags: ["ai", "politics", "polymarket"]
-polymarketYes: 0.1
-polymarketNo: 100.0
-polymarketVolume: 96269
+polymarketYes: 0.4
+polymarketNo: 99.6
+polymarketVolume: 98319
 polymarketUrl: "https://polymarket.com/event/military-action-against-iran-ends-on-march-19-2026"
+analysisDate: 2026-03-19
 ---
 
-This market essentially prices the risk of major U.S. or allied military strikes on Iranian targets by mid-March 2026 at near-zero, reflecting current geopolitical stability despite ongoing regional tensions. The question matters because Iran's nuclear program advancement, proxy conflicts across the Middle East, and shifting U.S. administrations create persistent flashpoints that could escalate rapidly.
+The market currently prices an overwhelming likelihood that military action against Iran will NOT conclude by March 19, 2026, reflecting the current absence of active hostilities and the low probability of both a conflict emerging and resolving within the narrow timeframe.
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.1% | 99.9% | $96K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.4% | 99.6% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The bull case for military action centers on Iran's continued uranium enrichment approaching weapons-grade levels, which Israeli intelligence estimates could enable breakout capability within months. If Iran expels IAEA inspectors or conducts a significant attack on U.S. forces in Iraq or Syria through proxy militias—similar to the Tower 22 attack in January 2024 that killed three American servicemembers—pressure for retaliation would intensify dramatically. Israel's willingness to conduct unilateral strikes, potentially drawing the U.S. into a broader conflict, represents another pathway, particularly if Hezbollah escalates beyond current border skirmishes or if Iran directly supplies advanced weapons to Houthi forces disrupting Red Sea shipping.
+The bear case for a YES outcome (keeping odds under 1%) is straightforward: there is no ongoing military conflict between Western powers and Iran as of early 2025. For this market to resolve YES, hostilities would need to begin soon enough to conclude by the specific March 19 deadline—an extremely restrictive window. Iran's nuclear program continues advancing, with IAEA reports in late 2024 showing increased enrichment activities, but diplomatic channels remain open. The Biden administration's approach emphasized containment over confrontation, and while Trump's return to office in January 2025 brings more aggressive rhetoric toward Iran, actual military escalation requires substantial provocation. Regional tensions involving Iran-backed proxies in Yemen, Iraq, and Lebanon create flashpoints, but these conflicts typically don't constitute direct "military action against Iran" as the market likely intends.
 
-The bear case, reflected in the market's rock-bottom odds, recognizes that both Washington and Tehran have consistently chosen de-escalation over the past two decades despite numerous provocations. The U.S. faces domestic political constraints on new Middle Eastern conflicts regardless of administration, while Iran's economic fragility and internal protests make leadership cautious about inviting direct confrontation. Diplomatic channels remain open, and even hawkish U.S. policymakers understand that strikes would likely accelerate rather than halt Iran's nuclear program while destabilizing oil markets. The JCPOA framework, though dormant, provides templates for renewed negotiations.
+The bull case requires a chain of low-probability events: a significant provocation (Iranian nuclear breakthrough, attack on US forces, or closure of the Strait of Hormuz) triggering limited military strikes that achieve objectives and cease before March 19, 2026. Israel's ongoing concerns about Iran's nuclear timeline create the most plausible catalyst, particularly if intelligence suggests Iran is approaching weapons-grade capability. The Trump administration's appointment of Iran hawks to key positions and renewal of "maximum pressure" sanctions in early 2025 could accelerate confrontation. A brief, targeted operation against nuclear facilities—similar to historical Israeli strikes on Iraq (1981) or Syria (2007)—represents the scenario most compatible with both initiation and conclusion within the market's window.
 
-Key catalysts include IAEA quarterly reports (next expected February 2025 and May 2025) detailing Iran's enrichment levels and cooperation status, Israeli election cycles that could empower more aggressive leadership, and any major regional incident involving U.S. casualties. Traders should monitor Iran's stockpile of 60% enriched uranium—crossing 50kg would represent a critical threshold—and watch for changes in U.S. force posture in the Gulf, including carrier deployments or bomber rotations that historically precede military options being placed on the table.
+Key catalysts to monitor include IAEA quarterly reports (next major update expected April 2025), Israeli cabinet discussions on preemptive action, and any Iranian moves to expel nuclear inspectors or withdraw from the NPT. The market's March 19 end date is oddly specific and may reference historical significance (Iraq War began March 19, 2003), but this creates additional ambiguity about what constitutes an "end" to military action. Traders should watch for escalatory incidents in the Persian Gulf, changes in US carrier deployments to the region, and Israeli military readiness indicators through spring 2025.
 
 ## Related Markets
 
-- [Will Robert F. Kennedy Jr. win the 2028 Republican presidential nomination?](/odds/will-robert-f-kennedy-jr-win-the-2028-republican-presidential-nomination) — 1% YES
 - [Will Alexandria Ocasio-Cortez win the 2028 US Presidential Election?](/odds/will-alexandria-ocasio-cortez-win-the-2028-us-presidential-election) — 5% YES
-- [Will Our Country (ND) win the most seats in the 2026 Slovenian parliamentary election?](/odds/will-our-country-nd-win-the-most-seats-in-the-2026-slovenian-parliamentary-elect) — 0% YES
+- [Will J.B. Pritzker win the 2028 Democratic presidential nomination?](/odds/will-jb-pritzker-win-the-2028-democratic-presidential-nomination) — 3% YES
+- [Will the U.S. invade Iran before 2027?](/odds/will-the-us-invade-iran-before-2027) — 58% YES
 
 ## Frequently Asked Questions
 
-### Does this market resolve YES only for U.S. military action, or would Israeli strikes on Iranian nuclear facilities count?
+### Why does the market specify March 19, 2026 as the end date rather than just asking whether action occurs?
 
-The market wording suggests any significant military action against Iran would qualify, including Israeli operations. Traders should verify resolution criteria, as unilateral Israeli strikes are considerably more probable than direct U.S. involvement.
+The March 19 date likely references the Iraq War anniversary, but critically, this market requires not just that military action begins but that it definitively concludes by that specific date—a much more restrictive condition that suppresses the probability significantly.
 
-### How would the market treat limited strikes on Iranian proxies in Syria or Iraq versus direct attacks on Iranian territory?
+### Would limited airstrikes against Iranian nuclear facilities count as military action that could "end" by the deadline?
 
-Minor skirmishes with proxy forces likely wouldn't qualify, but sustained bombing campaigns targeting IRGC infrastructure in those countries could fall into ambiguous territory. Direct strikes on Iranian soil or major naval engagements would unambiguously trigger resolution.
+Yes, a contained operation targeting specific facilities would qualify, and this represents the most realistic YES scenario—though traders must assess whether such action would truly cease rather than trigger ongoing retaliation cycles that extend beyond March 2026.
 
-### What happens if military action begins before March 19, 2026 but continues past that date?
+### How would the market resolve if military strikes occurred but sporadic attacks continued past March 19?
 
-The market asks whether action "ends" by March 19, so ongoing operations at that date would result in NO resolution. This makes the timing particularly specific—a brief strike campaign in early 2026 that concludes by mid-March would resolve YES.
+This creates significant resolution ambiguity—if a formal campaign ends but Iran-backed proxy attacks or periodic strikes continue, interpretation of "ends" becomes crucial, making the exact resolution criteria a key risk factor for traders.
 
 ## Learn More
 

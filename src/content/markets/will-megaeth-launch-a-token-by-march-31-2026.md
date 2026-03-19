@@ -11,7 +11,6 @@ polymarketYes: 1.0
 polymarketNo: 99.0
 polymarketVolume: 98984
 polymarketUrl: "https://polymarket.com/event/will-megaeth-launch-a-token-by-march-31-2026"
-analysisDate: 2026-03-19
 ---
 
 The market is pricing in near-certain failure for MegaETH to launch its token before the March 31, 2026 deadline, with traders signaling either skepticism about the project's timeline or concerns about its viability altogether.

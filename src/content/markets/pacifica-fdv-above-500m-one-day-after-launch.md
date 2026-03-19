@@ -9,9 +9,8 @@ expiryDate: 2027-01-01
 tags: ["crypto", "polymarket"]
 polymarketYes: 12.0
 polymarketNo: 88.0
-polymarketVolume: 9654
+polymarketVolume: 9661
 polymarketUrl: "https://polymarket.com/event/pacifica-fdv-above-500m-one-day-after-launch-171"
-analysisDate: 2026-03-19
 ---
 
 # Pacifica FDV Prediction Market Analysis

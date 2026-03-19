@@ -11,7 +11,6 @@ polymarketYes: 13.0
 polymarketNo: 87.0
 polymarketVolume: 9923
 polymarketUrl: "https://polymarket.com/event/usd1-depeg-by-december-31-842"
-analysisDate: 2026-03-19
 ---
 
 # USD Depeg Analysis

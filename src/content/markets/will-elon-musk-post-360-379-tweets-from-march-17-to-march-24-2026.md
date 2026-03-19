@@ -9,9 +9,8 @@ expiryDate: 2026-03-24
 tags: ["polymarket", "tech"]
 polymarketYes: 12.5
 polymarketNo: 87.5
-polymarketVolume: 96675
+polymarketVolume: 99807
 polymarketUrl: "https://polymarket.com/event/elon-musk-of-tweets-march-17-march-24-360-379"
-analysisDate: 2026-03-19
 ---
 
 This market betting on a highly specific tweet volume range reflects traders' skepticism that Elon Musk's posting activity can be predicted with such granular precision over a week-long period two years from now, resulting in odds hovering around 1-in-8 despite a reasonably wide 20-tweet range.

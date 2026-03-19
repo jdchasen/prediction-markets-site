@@ -3,7 +3,7 @@ title: "Will Bubba Watson win the 2026 Masters tournament?"
 description: "Will Bubba Watson win the 2026 Masters tournament? Odds: 0.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Bubba Watson win the 2026 Masters tournament?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-19
 expiryDate: 2026-04-13
 tags: ["polymarket", "sports"]

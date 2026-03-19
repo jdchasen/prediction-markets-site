@@ -1,17 +1,16 @@
 ---
 title: "Will Sadegh Mahsouli be head of state in Iran end of 2026?"
-description: "Will Sadegh Mahsouli be head of state in Iran end of 2026? Odds: 0.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Sadegh Mahsouli be head of state in Iran end of 2026? Odds: 0.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Sadegh Mahsouli be head of state in Iran end of 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-03-19
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 0.5
-polymarketNo: 99.5
-polymarketVolume: 9637
+polymarketYes: 0.4
+polymarketNo: 99.6
+polymarketVolume: 9646
 polymarketUrl: "https://polymarket.com/event/will-sadegh-mahsouli-be-head-of-state-in-iran-end-of-2026"
-analysisDate: 2026-03-19
 ---
 
 # Iran's Leadership Succession: An Extremely Unlikely Path for Mahsouli

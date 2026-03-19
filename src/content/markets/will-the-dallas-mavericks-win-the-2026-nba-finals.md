@@ -9,9 +9,8 @@ expiryDate: 2026-07-01
 tags: ["polymarket", "sports"]
 polymarketYes: 0.1
 polymarketNo: 100.0
-polymarketVolume: 9818879
+polymarketVolume: 9819882
 polymarketUrl: "https://polymarket.com/event/will-the-dallas-mavericks-win-the-2026-nba-finals"
-analysisDate: 2026-03-19
 ---
 
 The Dallas Mavericks are trading at virtually zero probability to win the 2026 NBA Finals, reflecting significant skepticism about their championship ceiling despite having Luka Dončić in his prime years.

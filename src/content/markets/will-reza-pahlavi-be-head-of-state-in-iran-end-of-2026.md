@@ -9,9 +9,8 @@ expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 14.5
 polymarketNo: 85.5
-polymarketVolume: 98085
+polymarketVolume: 98139
 polymarketUrl: "https://polymarket.com/event/will-reza-pahlavi-be-head-of-state-in-iran-end-of-2026"
-analysisDate: 2026-03-19
 ---
 
 The market prices Reza Pahlavi's chances of leading Iran at roughly 1-in-7 odds, a significant probability given he lives in exile and the Islamic Republic has controlled Iran for 45 years—yet low enough to reflect the massive hurdles to regime change.

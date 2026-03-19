@@ -9,9 +9,8 @@ expiryDate: 2026-04-12
 tags: ["polymarket", "sports"]
 polymarketYes: 0.5
 polymarketNo: 99.5
-polymarketVolume: 9824
+polymarketVolume: 9829
 polymarketUrl: "https://polymarket.com/event/nba-2025-26-3pm-leader-donovan-mitchell"
-analysisDate: 2026-03-19
 ---
 
 # Donovan Mitchell Three-Pointer Leader Analysis

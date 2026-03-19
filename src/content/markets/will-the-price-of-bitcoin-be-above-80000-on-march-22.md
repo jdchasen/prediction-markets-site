@@ -3,7 +3,7 @@ title: "Will the price of Bitcoin be above $80,000 on March 22?"
 description: "Will the price of Bitcoin be above $80,000 on March 22? Odds: 0.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the price of Bitcoin be above $80,000 on March 22?"
 category: "crypto"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-19
 expiryDate: 2026-03-22
 tags: ["bitcoin", "crypto", "polymarket"]

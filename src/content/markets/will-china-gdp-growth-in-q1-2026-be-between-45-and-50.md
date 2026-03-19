@@ -3,7 +3,7 @@ title: "Will China GDP growth in Q1 2026 be between 4.5% and 5.0%?"
 description: "Will China GDP growth in Q1 2026 be between 4.5% and 5.0%? Odds: 63.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will China GDP growth in Q1 2026 be between 4.5% and 5.0%?"
 category: "economics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-19
 expiryDate: 2026-04-17
 tags: ["economics", "polymarket"]

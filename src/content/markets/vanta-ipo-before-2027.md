@@ -9,9 +9,8 @@ expiryDate: 2026-12-31
 tags: ["finance", "polymarket"]
 polymarketYes: 11.5
 polymarketNo: 88.5
-polymarketVolume: 97835
+polymarketVolume: 97856
 polymarketUrl: "https://polymarket.com/event/vanta-ipo-before-2027"
-analysisDate: 2026-03-19
 ---
 
 # Vanta IPO Market Analysis

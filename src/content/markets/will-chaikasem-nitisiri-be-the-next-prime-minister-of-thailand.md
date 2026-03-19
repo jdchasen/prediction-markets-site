@@ -1,17 +1,16 @@
 ---
 title: "Will Chaikasem Nitisiri be the next prime minister of Thailand?"
-description: "Will Chaikasem Nitisiri be the next prime minister of Thailand? Odds: 0.2% YES on Polymarket. See live prices and trade this market."
+description: "Will Chaikasem Nitisiri be the next prime minister of Thailand? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Chaikasem Nitisiri be the next prime minister of Thailand?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-03-19
 expiryDate: 2026-12-31
 tags: ["ai", "politics", "polymarket"]
-polymarketYes: 0.2
-polymarketNo: 99.8
+polymarketYes: 0.1
+polymarketNo: 99.9
 polymarketVolume: 99181
 polymarketUrl: "https://polymarket.com/event/will-chaikasem-nitisiri-be-the-next-prime-minister-of-thailand-after-the-election"
-analysisDate: 2026-03-19
 ---
 
 Chaikasem Nitisiri, a relatively obscure figure in Thai politics, faces near-impossible odds of becoming Thailand's next prime minister, with markets pricing his chances at essentially zero—a reflection of Thailand's complex political landscape where established parties and military-aligned factions dominate succession dynamics.
