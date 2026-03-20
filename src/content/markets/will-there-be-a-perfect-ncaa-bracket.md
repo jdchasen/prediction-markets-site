@@ -3,7 +3,7 @@ title: "Will there be a perfect NCAA bracket?"
 description: "Will there be a perfect NCAA bracket? Odds: 1.6% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will there be a perfect NCAA bracket?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-20
 expiryDate: 2026-04-07
 tags: ["politics", "polymarket"]

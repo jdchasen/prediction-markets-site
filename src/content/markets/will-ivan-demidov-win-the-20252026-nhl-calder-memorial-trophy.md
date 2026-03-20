@@ -9,9 +9,8 @@ expiryDate: 2026-06-30
 tags: ["polymarket", "sports"]
 polymarketYes: 0.3
 polymarketNo: 99.7
-polymarketVolume: 9695
+polymarketVolume: 9696
 polymarketUrl: "https://polymarket.com/event/nhl-2025-26-calder-memorial-trophy-ivan-demidov"
-analysisDate: 2026-03-20
 ---
 
 # Ivan Demidov Calder Trophy Analysis

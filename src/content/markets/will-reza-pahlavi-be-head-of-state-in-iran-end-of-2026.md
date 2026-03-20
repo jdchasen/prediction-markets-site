@@ -3,7 +3,7 @@ title: "Will Reza Pahlavi be head of state in Iran end of 2026?"
 description: "Will Reza Pahlavi be head of state in Iran end of 2026? Odds: 14.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Reza Pahlavi be head of state in Iran end of 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-20
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]

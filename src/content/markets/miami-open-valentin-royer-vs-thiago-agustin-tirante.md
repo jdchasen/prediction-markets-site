@@ -3,7 +3,7 @@ title: "Miami Open: Valentin Royer vs Thiago Agustin Tirante"
 description: "Miami Open: Valentin Royer vs Thiago Agustin Tirante Odds: 53.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Miami Open: Valentin Royer vs Thiago Agustin Tirante"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-20
 expiryDate: 2026-03-26
 tags: ["politics", "polymarket"]

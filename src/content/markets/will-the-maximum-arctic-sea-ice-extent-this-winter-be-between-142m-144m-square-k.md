@@ -9,9 +9,8 @@ expiryDate: 2026-04-01
 tags: ["politics", "polymarket"]
 polymarketYes: 90.5
 polymarketNo: 9.5
-polymarketVolume: 9615
+polymarketVolume: 9800
 polymarketUrl: "https://polymarket.com/event/will-the-maximum-arctic-sea-ice-extent-this-winter-be-between-14pt2m-14pt4m-square-kilometers"
-analysisDate: 2026-03-20
 ---
 
 This market reflects extremely high confidence that Arctic sea ice will fall within a relatively narrow band this winter, suggesting either strong consensus on climate trends or potential overconfidence in a complex environmental prediction. The 90.5% pricing appears aggressive for a binary outcome spanning just 0.2 million square kilometers when historical Arctic extent data shows considerable year-to-year volatility driven by unpredictable atmospheric and oceanic conditions.

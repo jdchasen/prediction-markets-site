@@ -1,17 +1,16 @@
 ---
 title: "Will Artemis II launch by April 30?"
-description: "Will Artemis II launch by April 30? Odds: 73.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Artemis II launch by April 30? Odds: 72.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Artemis II launch by April 30?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-03-20
 expiryDate: 2026-03-31
 tags: ["politics", "polymarket"]
-polymarketYes: 73.5
-polymarketNo: 26.5
-polymarketVolume: 98648
+polymarketYes: 72.5
+polymarketNo: 27.5
+polymarketVolume: 98890
 polymarketUrl: "https://polymarket.com/event/will-artemis-ii-launch-by-april-30-584-422"
-analysisDate: 2026-03-20
 ---
 
 Traders are pricing in nearly three-in-four odds that NASA's Artemis II crewed lunar mission will launch before the end of April 2025, reflecting confidence in the agency's revised timeline despite the program's history of delays. This market matters because Artemis II represents America's return to crewed deep-space exploration after five decades and serves as a critical test before the planned lunar landing mission.

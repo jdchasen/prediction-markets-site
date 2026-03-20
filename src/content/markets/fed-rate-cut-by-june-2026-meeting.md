@@ -3,7 +3,7 @@ title: "Fed rate cut by June 2026 meeting?"
 description: "Fed rate cut by June 2026 meeting? Odds: 13.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Fed rate cut by June 2026 meeting?"
 category: "economics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-20
 expiryDate: 2026-06-17
 tags: ["economics", "federal-reserve", "interest-rates", "polymarket"]

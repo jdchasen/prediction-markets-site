@@ -1,17 +1,16 @@
 ---
 title: "Will the Vegas Golden Knights win the 2026 NHL Stanley Cup?"
-description: "Will the Vegas Golden Knights win the 2026 NHL Stanley Cup? Odds: 5.1% YES on Polymarket. See live prices and trade this market."
+description: "Will the Vegas Golden Knights win the 2026 NHL Stanley Cup? Odds: 5.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Vegas Golden Knights win the 2026 NHL Stanley Cup?"
 category: "sports"
 status: "active"
 lastUpdated: 2026-03-20
 expiryDate: 2026-06-30
 tags: ["polymarket", "sports"]
-polymarketYes: 5.1
-polymarketNo: 95.0
-polymarketVolume: 983305
+polymarketYes: 5.5
+polymarketNo: 94.5
+polymarketVolume: 992391
 polymarketUrl: "https://polymarket.com/event/will-the-vegas-golden-knights-win-the-2026-nhl-stanley-cup"
-analysisDate: 2026-03-20
 ---
 
 The Vegas Golden Knights sit at roughly 5% to win the 2026 Stanley Cup, placing them in the middle tier of contenders more than a year before the championship, reflecting a franchise that remains competitive but faces significant obstacles to claiming another title.

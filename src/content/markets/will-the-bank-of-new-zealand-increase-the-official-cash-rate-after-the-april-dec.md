@@ -3,7 +3,7 @@ title: "Will the Bank of New Zealand increase the official cash rate after the A
 description: "Will the Bank of New Zealand increase the official cash rate after the April decision? Odds: 8.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Bank of New Zealand increase the official cash rate after the April decision?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-20
 expiryDate: 2026-04-07
 tags: ["politics", "polymarket"]

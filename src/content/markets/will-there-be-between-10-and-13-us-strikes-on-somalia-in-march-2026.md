@@ -9,9 +9,8 @@ expiryDate: 2026-04-04
 tags: ["politics", "polymarket"]
 polymarketYes: 20.0
 polymarketNo: 80.0
-polymarketVolume: 9934
+polymarketVolume: 9947
 polymarketUrl: "https://polymarket.com/event/will-there-be-between-10-and-13-us-strikes-on-somalia-in-march-2026"
-analysisDate: 2026-03-20
 ---
 
 # Somalia Strike Prediction Market Analysis

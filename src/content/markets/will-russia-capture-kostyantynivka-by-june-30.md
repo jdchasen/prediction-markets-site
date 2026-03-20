@@ -9,9 +9,8 @@ expiryDate: 2026-03-31
 tags: ["politics", "polymarket"]
 polymarketYes: 66.0
 polymarketNo: 34.0
-polymarketVolume: 97362
+polymarketVolume: 98326
 polymarketUrl: "https://polymarket.com/event/will-russia-capture-kostyantynivka-by-june-30-382-954"
-analysisDate: 2026-03-20
 ---
 
 The market strongly favors Russian capture of Kostyantynivka by June 30, 2025, reflecting current battlefield momentum as Russian forces advance through the Donetsk Oblast at their fastest pace since 2022. This eastern Ukrainian city sits approximately 20 kilometers from current front lines and represents a strategically significant logistics hub for Ukrainian defenses in the region.

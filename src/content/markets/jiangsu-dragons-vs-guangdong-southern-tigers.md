@@ -3,7 +3,7 @@ title: "Jiangsu Dragons vs. Guangdong Southern Tigers"
 description: "Jiangsu Dragons vs. Guangdong Southern Tigers Odds: 21.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Jiangsu Dragons vs. Guangdong Southern Tigers"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-20
 expiryDate: 2026-03-27
 tags: ["politics", "polymarket"]

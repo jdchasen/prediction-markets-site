@@ -9,9 +9,8 @@ expiryDate: 2026-03-29
 tags: ["politics", "polymarket"]
 polymarketYes: 0.1
 polymarketNo: 99.9
-polymarketVolume: 96140
+polymarketVolume: 97982
 polymarketUrl: "https://polymarket.com/event/will-9z-win-blast-open-rotterdam-2026"
-analysisDate: 2026-03-20
 ---
 
 # Analysis

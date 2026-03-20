@@ -1,17 +1,16 @@
 ---
 title: "Netanyahu arrested by March 31?"
-description: "Netanyahu arrested by March 31? Odds: 2.1% YES on Polymarket. See live prices and trade this market."
+description: "Netanyahu arrested by March 31? Odds: 1.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Netanyahu arrested by March 31?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-03-20
 expiryDate: 2026-03-31
 tags: ["politics", "polymarket"]
-polymarketYes: 2.1
-polymarketNo: 97.9
-polymarketVolume: 99378
+polymarketYes: 1.8
+polymarketNo: 98.2
+polymarketVolume: 99942
 polymarketUrl: "https://polymarket.com/event/netanyahu-arrested-by-march-31"
-analysisDate: 2026-03-20
 ---
 
 The prediction market shows minimal confidence in Benjamin Netanyahu being arrested before the end of March 2026, reflecting skepticism that Israel's domestic political and legal systems will move against a sitting or recent Prime Minister in this timeframe despite ongoing corruption trials and international pressure.

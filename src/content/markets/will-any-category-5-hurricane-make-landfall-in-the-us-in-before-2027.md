@@ -1,47 +1,48 @@
 ---
 title: "Will any Category 5 hurricane make landfall in the US in before 2027?"
-description: "Will any Category 5 hurricane make landfall in the US in before 2027? Odds: 15.5% YES on Polymarket. See live prices and trade this market."
+description: "Will any Category 5 hurricane make landfall in the US in before 2027? Odds: 16.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will any Category 5 hurricane make landfall in the US in before 2027?"
 category: "science"
 status: "active"
 lastUpdated: 2026-03-20
 expiryDate: 2026-12-31
 tags: ["polymarket", "science"]
-polymarketYes: 15.5
-polymarketNo: 84.5
-polymarketVolume: 96933
+polymarketYes: 16.0
+polymarketNo: 84.0
+polymarketVolume: 97363
 polymarketUrl: "https://polymarket.com/event/will-any-category-5-hurricane-make-landfall-in-the-us-in-before-2027"
+analysisDate: 2026-03-20
 ---
 
-# Category 5 Hurricane Landfall Analysis
+This market trades at a relatively low probability that one of nature's most powerful storms will directly strike US shores within the next three years, reflecting both the rarity of Category 5 landfalls and the challenge of storms maintaining peak intensity through landfall.
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 15.5% | 84.5% | $97K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 16.0% | 84.0% | $97K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The market is pricing a roughly 1-in-6 chance of a major hurricane disaster in the continental US within the next two years, reflecting skepticism about the rarest weather events despite rising hurricane activity. This matters now because we're entering peak Atlantic hurricane season (August-October) while climate patterns are shifting, and any major storm could dramatically reprrice this market months before expiry.
+The bull case centers on increasing sea surface temperatures in the Atlantic and Gulf of Mexico, which provide the energy necessary for hurricane intensification. Since 1924, only four Category 5 hurricanes have made US landfall: the 1935 Labor Day Hurricane, Camille (1969), Andrew (1992), and Michael (2018). The 26-year gap between Andrew and Michael suggests these events may be clustering more frequently in recent decades. The 2024 and 2025 Atlantic hurricane seasons (June 1 through November 30 each year) represent the most critical observation windows, with August through October historically producing the most intense storms. Climate models indicate the Gulf of Mexico is experiencing unprecedented warming, creating conditions where rapid intensification—jumping multiple categories in 24 hours—becomes more probable.
 
-The bull case rests on three converging factors: sea surface temperatures in the Atlantic and Gulf of Mexico are running 1-2°F above historical averages, creating the thermodynamic fuel for rapid intensification; the 2024-2026 period coincides with a warming phase of the Atlantic Multidecadal Oscillation, historically correlated with more frequent intense storms; and the US coastline exposure is enormous—any major hurricane hitting Florida, Louisiana, or the Carolinas creates multiple opportunities for Category 5 status before landfall. Statistically, the US experiences a direct major hurricane hit roughly every 2-3 years, though Category 5 landfalls specifically occur much less frequently (roughly 1 per decade). The bear case argues that Cat 5 landfalls are exceptionally rare by definition: only four have hit the continental US since 1851 (1935 Labor Day, 1992 Andrew, 2004 Charley, and 2017 Irma made it close but weakened). The market's 15.5% odds actually *overstate* historical frequency if you assume independent events, suggesting traders are already pricing in climate-driven intensification.
+The bear case emphasizes that maintaining Category 5 status (sustained winds of 157+ mph) through actual landfall is exceptionally rare. Many hurricanes that reach Category 5 intensity over open water weaken before striking land due to eyewall replacement cycles, cooler coastal waters, or increased wind shear. Hurricane Dorian (2019) exemplified this: it reached Category 5 but weakened to Category 2 before brushing the US coast. The Saffir-Simpson scale requires sustained one-minute average winds measured at landfall, creating a narrow technical window. Even in active seasons, the specific combination of perfect atmospheric conditions, trajectory, and timing needed for a Category 5 landfall makes this a low-probability event across any three-year span.
 
-The critical catalysts are the monthly Atlantic hurricane forecasts released by NOAA (next major update in early August before peak season), real-time sea surface temperature anomalies throughout August-September, and any actual Category 4+ storms that form and threaten US coasts. The NHC's official intensity forecast methodology has improved significantly but still underestimates rapid intensification 30-40% of the time, meaning a storm could unexpectedly reach Cat 5 status in the 24-48 hours before potential landfall. Watch the September and October 2024-2025 hurricane seasons most closely, as tropical activity typically peaks then; a quiet 2024 season would naturally lower odds for the full window.
+Traders should monitor NOAA's seasonal hurricane forecasts released in May and updated in August each year, which provide anticipated storm counts and overall activity levels. The 2025 and 2026 pre-season forecasts will be particularly significant. Real-time tracking during peak season requires watching the National Hurricane Center's intensity estimates and forecast tracks, particularly for storms entering the Gulf or approaching Florida. Water temperature anomalies in the Main Development Region and ENSO phase (El Niño typically suppresses Atlantic hurricanes while La Niña enhances activity) serve as leading indicators months in advance.
 
 ## Frequently Asked Questions
 
-### What counts as "landfall" for this market—does the storm need to hit at Category 5 strength, or just reach Cat 5 status anywhere before crossing the coast?
+### What's the technical definition that determines if a hurricane counts as Category 5 at landfall?
 
-The market resolution will likely require Category 5 status at or very near the moment of landfall based on NHC official classifications; a storm that weakens to Cat 4 before making landfall wouldn't resolve YES, even if it was Cat 5 offshore.
+The storm must have sustained one-minute average winds of at least 157 mph measured at the moment the eye crosses the coastline. Post-storm reanalysis by the National Hurricane Center can later reclassify storms based on evidence like damage indicators, so the official determination may come weeks or months after landfall.
 
-### How do climate models currently projecting increased Atlantic hurricane frequency affect this market's fair odds?
+### How does rapid intensification affect the probability of a Category 5 landfall?
 
-IPCC consensus suggests frequency may increase 10-20% by 2050, but that's gradual—the 2-year window here (2024-2026) may be too short to meaningfully shift baseline Cat 5 probability away from historical 1-in-10 year rates, though warmer oceans do compress intensification timelines.
+Rapid intensification—when a storm strengthens 35+ mph in 24 hours—has become more common in warming waters and can catch forecasters by surprise, giving storms less time to weaken before landfall. Hurricane Michael intensified to Category 5 just before its 2018 Florida Panhandle landfall, demonstrating how this phenomenon increases the chances of peak-intensity impacts.
 
-### If a major hurricane reaches Category 5 in the Pacific instead of the Atlantic, does this market resolve?
+### Which US coastlines face the highest risk for Category 5 landfall before 2027?
 
-No—the market specifically states "US" landfall, which in meteorological context means Atlantic/Gulf-originating storms; Eastern Pacific storms affecting the Southwest would not qualify even if they reached Cat 5 status.
+The Florida Peninsula and Gulf Coast from Texas to Alabama present the greatest risk due to consistently warm Gulf waters and favorable storm tracks. The Southeast Atlantic coast faces lower but non-zero probability, while Category 5 landfalls north of the Carolinas are virtually unprecedented due to cooler waters.
 
 ## Learn More
 

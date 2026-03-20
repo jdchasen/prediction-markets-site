@@ -3,7 +3,7 @@ title: "Pakistan x Afghanistan ceasefire by March 31?"
 description: "Pakistan x Afghanistan ceasefire by March 31? Odds: 13.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Pakistan x Afghanistan ceasefire by March 31?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-20
 expiryDate: 2026-03-31
 tags: ["politics", "polymarket"]

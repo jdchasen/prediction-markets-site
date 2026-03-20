@@ -9,9 +9,8 @@ expiryDate: 2028-11-07
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 4.8
 polymarketNo: 95.2
-polymarketVolume: 9916049
+polymarketVolume: 9928213
 polymarketUrl: "https://polymarket.com/event/will-alexandria-ocasio-cortez-win-the-2028-us-presidential-election"
-analysisDate: 2026-03-20
 ---
 
 The prediction market gives Alexandria Ocasio-Cortez less than a 5% chance of winning the 2028 presidency, reflecting widespread skepticism that the progressive congresswoman can navigate the path from representing New York's 14th district to securing both the Democratic nomination and general election victory in four years.

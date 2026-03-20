@@ -3,7 +3,7 @@ title: "Will the Bank of Mexico announce a decrease at the March meeting?"
 description: "Will the Bank of Mexico announce a decrease at the March meeting? Odds: 69.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Bank of Mexico announce a decrease at the March meeting?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-20
 expiryDate: 2026-03-26
 tags: ["politics", "polymarket"]

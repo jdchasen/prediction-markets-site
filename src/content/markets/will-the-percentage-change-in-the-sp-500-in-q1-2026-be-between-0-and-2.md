@@ -3,7 +3,7 @@ title: "Will the percentage change in the S&P 500 in Q1 2026 be between 0% and 2
 description: "Will the percentage change in the S&P 500 in Q1 2026 be between 0% and 2%? Odds: 3.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the percentage change in the S&P 500 in Q1 2026 be between 0% and 2%?"
 category: "finance"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-20
 expiryDate: 2026-03-31
 tags: ["finance", "polymarket", "stocks"]

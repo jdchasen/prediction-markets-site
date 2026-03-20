@@ -1,17 +1,16 @@
 ---
 title: "Will Waymo launch in Denver by June 30 2026?"
-description: "Will Waymo launch in Denver by June 30 2026? Odds: 7.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Waymo launch in Denver by June 30 2026? Odds: 9.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Waymo launch in Denver by June 30 2026?"
 category: "politics"
-status: "settled"
-lastUpdated: 2026-03-19
+status: "active"
+lastUpdated: 2026-03-20
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
-polymarketYes: 7.5
-polymarketNo: 92.5
-polymarketVolume: 9612
+polymarketYes: 9.0
+polymarketNo: 91.0
+polymarketVolume: 9817
 polymarketUrl: "https://polymarket.com/event/will-waymo-launch-in-denver-by-june-30-2026"
-analysisDate: 2026-03-19
 ---
 
 # Waymo Denver Launch Market Analysis

@@ -9,9 +9,8 @@ expiryDate: 2026-05-30
 tags: ["polymarket", "sports"]
 polymarketYes: 93.0
 polymarketNo: 7.0
-polymarketVolume: 9685
+polymarketVolume: 9690
 polymarketUrl: "https://polymarket.com/event/will-marseille-finish-in-the-top-4-of-the-ligue-1-202526-standings"
-analysisDate: 2026-03-20
 ---
 
 # Marseille Top 4 Finish Analysis

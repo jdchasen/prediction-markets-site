@@ -1,16 +1,15 @@
 ---
 title: "Will Claude 5 be released by March 31, 2026?"
-description: "Will Claude 5 be released by March 31, 2026? Odds: 4.0% YES on Polymarket. See live prices and trade this market."
+description: "Will Claude 5 be released by March 31, 2026? Odds: 3.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Claude 5 be released by March 31, 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-03-20
 tags: ["politics", "polymarket"]
-polymarketYes: 4.0
-polymarketNo: 96.0
-polymarketVolume: 970069
+polymarketYes: 3.1
+polymarketNo: 96.9
+polymarketVolume: 973351
 polymarketUrl: "https://polymarket.com/event/will-claude-5-be-released-by-march-31-2026-243-489-141-184"
-analysisDate: 2026-03-20
 ---
 
 This market trades at extremely low odds because Anthropic has never released a product called "Claude 5" and the company's naming convention has moved from numbered versions to named releases like Claude 3 Opus, Sonnet, and Haiku. The categorization as "politics" appears to be an error, as this is purely a technology product release question.

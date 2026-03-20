@@ -3,7 +3,7 @@ title: "Will the price of XRP be above $1.50 on March 23?"
 description: "Will the price of XRP be above $1.50 on March 23? Odds: 28.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the price of XRP be above $1.50 on March 23?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-20
 expiryDate: 2026-03-23
 tags: ["politics", "polymarket"]

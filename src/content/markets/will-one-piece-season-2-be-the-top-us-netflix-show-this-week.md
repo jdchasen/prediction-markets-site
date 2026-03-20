@@ -3,7 +3,7 @@ title: "Will \"One Piece: Season 2\" be the top US Netflix show this week?"
 description: "Will \"One Piece: Season 2\" be the top US Netflix show this week? Odds: 2.3% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will \"One Piece: Season 2\" be the top US Netflix show this week?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-20
 expiryDate: 2026-03-24
 tags: ["politics", "polymarket"]

@@ -3,7 +3,7 @@ title: "Will Chennai Super Kings win the 2026 Indian Premier League?"
 description: "Will Chennai Super Kings win the 2026 Indian Premier League? Odds: 14.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Chennai Super Kings win the 2026 Indian Premier League?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-20
 expiryDate: 2026-05-31
 tags: ["ai", "polymarket", "sports"]

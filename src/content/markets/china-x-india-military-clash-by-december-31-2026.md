@@ -3,7 +3,7 @@ title: "China x India military clash by December 31, 2026?"
 description: "China x India military clash by December 31, 2026? Odds: 21.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "China x India military clash by December 31, 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-20
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]

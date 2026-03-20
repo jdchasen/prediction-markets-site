@@ -1,17 +1,16 @@
 ---
 title: "Mavericks vs. Bucks: O/U 218.5"
-description: "Mavericks vs. Bucks: O/U 218.5 Odds: 56.8% YES on Polymarket. See live prices and trade this market."
+description: "Mavericks vs. Bucks: O/U 218.5 Odds: 54.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Mavericks vs. Bucks: O/U 218.5"
 category: "sports"
 status: "active"
 lastUpdated: 2026-03-20
 expiryDate: 2026-03-31
 tags: ["polymarket", "sports"]
-polymarketYes: 56.8
-polymarketNo: 43.2
-polymarketVolume: 99715
+polymarketYes: 54.0
+polymarketNo: 46.0
+polymarketVolume: 99774
 polymarketUrl: "https://polymarket.com/event/nba-dal-mil-2026-01-25-total-218pt5"
-analysisDate: 2026-03-20
 ---
 
 The market favoring the over at 56.8% on a 218.5 total suggests traders expect an offensive shootout when Dallas visits Milwaukee, reflecting both teams' high-powered offenses and the Mavericks' recent defensive struggles on the road.

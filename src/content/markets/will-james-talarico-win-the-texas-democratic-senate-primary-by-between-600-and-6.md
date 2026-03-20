@@ -3,7 +3,7 @@ title: "Will James Talarico win the Texas Democratic Senate Primary by between 6
 description: "Will James Talarico win the Texas Democratic Senate Primary by between 6.00% and 6.50%? Odds: 96.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will James Talarico win the Texas Democratic Senate Primary by between 6.00% and 6.50%?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-20
 expiryDate: 2026-11-30
 tags: ["politics", "polymarket"]

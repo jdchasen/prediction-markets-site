@@ -1,17 +1,16 @@
 ---
 title: "Will Mostafa Pourmohammadi be head of state in Iran end of 2026?"
-description: "Will Mostafa Pourmohammadi be head of state in Iran end of 2026? Odds: 0.3% YES on Polymarket. See live prices and trade this market."
+description: "Will Mostafa Pourmohammadi be head of state in Iran end of 2026? Odds: 0.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Mostafa Pourmohammadi be head of state in Iran end of 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-03-20
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 0.3
-polymarketNo: 99.7
-polymarketVolume: 9711
+polymarketYes: 0.4
+polymarketNo: 99.6
+polymarketVolume: 9893
 polymarketUrl: "https://polymarket.com/event/will-mostafa-pourmohammadi-be-head-of-state-in-iran-end-of-2026"
-analysisDate: 2026-03-20
 ---
 
 # Analysis: Mostafa Pourmohammadi as Iranian Head of State by End of 2026

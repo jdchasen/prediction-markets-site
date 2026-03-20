@@ -3,7 +3,7 @@ title: "Will Simona Mohamsson be the next Prime Minister of Sweden?"
 description: "Will Simona Mohamsson be the next Prime Minister of Sweden? Odds: 0.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Simona Mohamsson be the next Prime Minister of Sweden?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-20
 expiryDate: 2026-09-13
 tags: ["politics", "polymarket"]

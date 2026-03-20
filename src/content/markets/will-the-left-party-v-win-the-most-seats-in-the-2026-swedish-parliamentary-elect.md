@@ -3,7 +3,7 @@ title: "Will the Left Party (V) win the most seats in the 2026 Swedish parliamen
 description: "Will the Left Party (V) win the most seats in the 2026 Swedish parliamentary election? Odds: 0.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Left Party (V) win the most seats in the 2026 Swedish parliamentary election?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-20
 expiryDate: 2026-09-13
 tags: ["elections", "politics", "polymarket"]

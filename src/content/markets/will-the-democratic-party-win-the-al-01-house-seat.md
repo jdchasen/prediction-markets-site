@@ -11,7 +11,6 @@ polymarketYes: 5.1
 polymarketNo: 94.9
 polymarketVolume: 9681
 polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-al-01-house-seat"
-analysisDate: 2026-03-20
 ---
 
 # Alabama's 1st Congressional District: Democrats Face Structural Headwinds in Deep Red Territory

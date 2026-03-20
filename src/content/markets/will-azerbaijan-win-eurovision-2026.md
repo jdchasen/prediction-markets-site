@@ -9,9 +9,8 @@ expiryDate: 2026-05-16
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 0.2
 polymarketNo: 99.8
-polymarketVolume: 957365
+polymarketVolume: 993942
 polymarketUrl: "https://polymarket.com/event/will-azerbaijan-win-eurovision-2026"
-analysisDate: 2026-03-20
 ---
 
 The Azerbaijan Eurovision 2026 market trades at essentially zero, reflecting the country's withdrawal from the competition in 2024 over political disputes with the European Broadcasting Union regarding human rights concerns and the Nagorno-Karabakh conflict. This market matters as a proxy for geopolitical reconciliation between Azerbaijan and European institutions ahead of the May 2026 contest in Basel, Switzerland.

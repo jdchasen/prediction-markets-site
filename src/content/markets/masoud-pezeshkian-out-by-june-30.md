@@ -1,17 +1,16 @@
 ---
 title: "Masoud Pezeshkian out by June 30?"
-description: "Masoud Pezeshkian out by June 30? Odds: 41.5% YES on Polymarket. See live prices and trade this market."
+description: "Masoud Pezeshkian out by June 30? Odds: 37.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Masoud Pezeshkian out by June 30?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-03-20
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 41.5
-polymarketNo: 58.5
-polymarketVolume: 96938
+polymarketYes: 37.0
+polymarketNo: 63.0
+polymarketVolume: 97022
 polymarketUrl: "https://polymarket.com/event/masoud-pezeshkian-out-by-june-30"
-analysisDate: 2026-03-20
 ---
 
 # Masoud Pezeshkian Exit Analysis
