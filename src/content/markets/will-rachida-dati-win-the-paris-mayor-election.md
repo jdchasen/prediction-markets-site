@@ -3,8 +3,8 @@ title: "Will Rachida Dati win the Paris mayor election?"
 description: "Will Rachida Dati win the Paris mayor election? Odds: 28.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Rachida Dati win the Paris mayor election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-19
+status: "settled"
+lastUpdated: 2026-03-20
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 28.5
 polymarketNo: 71.5

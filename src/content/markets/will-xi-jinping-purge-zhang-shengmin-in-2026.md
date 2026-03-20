@@ -3,8 +3,8 @@ title: "Will Xi Jinping purge Zhang Shengmin in 2026?"
 description: "Will Xi Jinping purge Zhang Shengmin in 2026? Odds: 9.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Xi Jinping purge Zhang Shengmin in 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-19
+status: "settled"
+lastUpdated: 2026-03-20
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 9.0

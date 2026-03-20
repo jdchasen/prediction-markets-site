@@ -1,57 +1,57 @@
 ---
 title: "Will Azerbaijan win Eurovision 2026?"
-description: "Will Azerbaijan win Eurovision 2026? Odds: 1.1% YES on Polymarket. See live prices and trade this market."
+description: "Will Azerbaijan win Eurovision 2026? Odds: 0.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Azerbaijan win Eurovision 2026?"
 category: "politics"
-status: "settled"
-lastUpdated: 2026-03-02
+status: "active"
+lastUpdated: 2026-03-20
 expiryDate: 2026-05-16
 tags: ["ai", "politics", "polymarket"]
-polymarketYes: 1.1
-polymarketNo: 99.0
-polymarketVolume: 98137
+polymarketYes: 0.2
+polymarketNo: 99.8
+polymarketVolume: 957365
 polymarketUrl: "https://polymarket.com/event/will-azerbaijan-win-eurovision-2026"
-analysisDate: 2026-03-02
+analysisDate: 2026-03-20
 ---
 
-The market shows minimal confidence in an Azerbaijani Eurovision victory in 2026, reflecting the country's limited track record at the contest despite its considerable financial investment in the competition over the years.
+The Azerbaijan Eurovision 2026 market trades at essentially zero, reflecting the country's withdrawal from the competition in 2024 over political disputes with the European Broadcasting Union regarding human rights concerns and the Nagorno-Karabakh conflict. This market matters as a proxy for geopolitical reconciliation between Azerbaijan and European institutions ahead of the May 2026 contest in Basel, Switzerland.
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 1.1% | 99.0% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.2% | 99.8% | $957K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The bear case is straightforward: Azerbaijan has won Eurovision only once in 2011 with Ell & Nikki, and since hosting in 2012, the country has struggled to replicate that success, finishing in the top five just twice in the past decade. The contest's voting dynamics have shifted toward Western European entries and crowd-pleasing pop acts, while Azerbaijan's strategic song selections and elaborate stagings haven't translated into victories. Additionally, ongoing geopolitical tensions with Armenia and broader regional conflicts could impact jury voting sentiment, particularly given increased scrutiny of political factors in Eurovision outcomes. The European Broadcasting Union's evolving standards on human rights and press freedom have periodically put Azerbaijan under pressure, potentially dampening support.
+The bear case is overwhelming: Azerbaijan formally withdrew from Eurovision in 2024 and has shown no indication of reconsidering that decision. The EBU's increasing emphasis on human rights compliance creates structural barriers to re-entry, particularly given ongoing international criticism of Azerbaijan's treatment of Armenian populations and domestic press freedoms. The country would need to not only rejoin the competition but also submit an entry, navigate the semi-final process, and win against approximately 40 countries—making the combined probability microscopic even if relations normalized tomorrow.
 
-The bull case centers on Azerbaijan's state commitment to Eurovision success and deep pockets for talent acquisition. The country has consistently hired international songwriters, producers, and vocal coaches, demonstrating willingness to invest heavily in competitive entries. If Azerbaijan secures a compelling artist and song combination that resonates with both juries and televoters—similar to their 2011 winning formula—the low odds present value. Key catalysts include the national selection process (typically held in February-March 2026), the identity of competing nations and their entries as they're revealed through spring 2026, and the semi-final draw results that will determine Azerbaijan's performance slot and competitive context.
+The bull case requires a dramatic geopolitical shift where Azerbaijan resolves its disputes with the EBU and European institutions, likely tied to broader peace agreements with Armenia facilitated by the EU or other international mediators. If Azerbaijan rejoined by the December 2025 participation deadline, it could theoretically leverage its historical Eurovision success (winning in 2011) and submit a competitive entry. The country previously invested heavily in Eurovision soft power, and a return could signal major political realignment.
 
-Traders should monitor Azerbaijan's selection announcement expected in early 2026, watching for recognizable international collaborators or breakthrough local talent. The contest's location (to be announced following the 2025 winner) matters significantly, as regional hosting can influence voting blocs. Semi-final performance order, revealed shortly before the May 2026 contest, historically impacts outcomes substantially—later slots in the running order correlate with higher scores.
+Key catalysts include any peace negotiations between Armenia and Azerbaijan in late 2025, which could create political space for Eurovision re-entry. The EBU's participant confirmation deadline in December 2025 represents the critical date—without announcement by then, the market resolves to zero regardless of other factors. Traders should monitor statements from Azerbaijan's public broadcaster İTV and any EBU communications about potential new participants, though current political dynamics make movement above 1-2% probability highly unlikely without concrete diplomatic breakthroughs.
 
 ## Related Markets
 
-- [Will Steve Bannon win the 2028 Republican presidential nomination?](/odds/will-steve-bannon-win-the-2028-republican-presidential-nomination) — 1% YES
-- [Will Sadegh Larijani be the next Supreme Leader of Iran?](/odds/will-sadegh-larijani-be-the-next-supreme-leader-of-iran) — 4% YES
-- [Will Nigel Farage be the next Prime Minister of the United Kingdom in 2026?](/odds/will-nigel-farage-be-the-next-prime-minister-of-the-united-kingdom-in-2026) — 7% YES
+- [Will J.B. Pritzker win the 2028 Democratic presidential nomination?](/odds/will-jb-pritzker-win-the-2028-democratic-presidential-nomination) — 2% YES
+- [Will Alexandria Ocasio-Cortez win the 2028 US Presidential Election?](/odds/will-alexandria-ocasio-cortez-win-the-2028-us-presidential-election) — 5% YES
+- [Will France win Eurovision 2026?](/odds/will-france-win-eurovision-2026) — 12% YES
 
 ## Frequently Asked Questions
 
-### Has Azerbaijan's financial investment in Eurovision translated into consistent success?
+### Can Azerbaijan even participate in Eurovision 2026 given their 2024 withdrawal?
 
-Despite significant spending on production, international songwriters, and staging, Azerbaijan has won only once (2011) and hasn't finished top three since 2013, suggesting money alone doesn't guarantee victory in the modern voting era.
+Yes, technically—countries can rejoin after withdrawal by reapplying through their national broadcaster and meeting EBU membership requirements. However, this would require resolving the political disputes that caused their departure and meeting the December 2025 participation deadline.
 
-### How do geopolitical factors affect Azerbaijan's Eurovision prospects?
+### What were the specific reasons Azerbaijan withdrew from Eurovision?
 
-The ongoing conflict with Armenia and human rights concerns have historically influenced jury voting, with some countries' professional juries potentially scoring Azerbaijan lower on political grounds, though televoting remains less predictable.
+Azerbaijan withdrew in 2024 citing tensions with the EBU over criticism of its human rights record and editorial disputes, particularly regarding coverage of the Nagorno-Karabakh conflict. The withdrawal reflected broader deterioration in relations between Azerbaijan and European broadcasting institutions.
 
-### What type of entry would give Azerbaijan the best chance in 2026?
+### How competitive was Azerbaijan historically at Eurovision before their withdrawal?
 
-A contemporary pop song with English lyrics, strong vocal performance, and memorable staging that appeals to younger televoters while maintaining musical credibility for jury panels—similar to recent winners Sweden (2023) and Switzerland (2024).
+Azerbaijan won Eurovision in 2011 and qualified for the grand final in most of their participations since debuting in 2008, demonstrating strong competitive ability. However, winning requires first rejoining the competition, then defeating dozens of countries—making historical success largely irrelevant to this market's near-zero odds.
 
 ## Learn More
 
-- [Will Ethereum Reach $4,500 in 2026? What Prediction Markets Say](/blog/will-ethereum-reach-4500-in-2026-what-prediction-markets-say)
+- [Will ETH Hit $4,500 in 2026? Live Market Odds](/blog/will-ethereum-reach-4500-in-2026-what-prediction-markets-say)
 - [Will Discord IPO in 2026? What Prediction Markets Say](/blog/will-discord-ipo-in-2026-what-prediction-markets-say)
 

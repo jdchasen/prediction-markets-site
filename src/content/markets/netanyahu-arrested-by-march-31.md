@@ -1,55 +1,54 @@
 ---
 title: "Netanyahu arrested by March 31?"
-description: "Netanyahu arrested by March 31? Odds: 1.4% YES on Polymarket. See live prices and trade this market."
+description: "Netanyahu arrested by March 31? Odds: 2.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Netanyahu arrested by March 31?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-03-19
+lastUpdated: 2026-03-20
 expiryDate: 2026-03-31
 tags: ["politics", "polymarket"]
-polymarketYes: 1.4
-polymarketNo: 98.7
-polymarketVolume: 97891
+polymarketYes: 2.1
+polymarketNo: 97.9
+polymarketVolume: 99378
 polymarketUrl: "https://polymarket.com/event/netanyahu-arrested-by-march-31"
+analysisDate: 2026-03-20
 ---
 
-# Netanyahu Arrest Market Analysis
+The prediction market shows minimal confidence in Benjamin Netanyahu being arrested before the end of March 2026, reflecting skepticism that Israel's domestic political and legal systems will move against a sitting or recent Prime Minister in this timeframe despite ongoing corruption trials and international pressure.
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 1.5% | 98.6% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 2.1% | 97.9% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The market is pricing an extremely low probability of Netanyahu's arrest by end of Q1 2026, reflecting skepticism about near-term legal consequences despite ongoing judicial proceedings in Israel. This matters because it reveals how traders are assessing the practical likelihood of Israel's Prime Minister facing criminal detention during an active conflict and politically charged period, rather than merely evaluating the merits of the underlying corruption charges.
+The bull case centers on Netanyahu's existing corruption trial in Jerusalem, where he faces charges of fraud, breach of trust, and bribery across three separate cases. Conviction on any charge could theoretically lead to immediate arrest, and the trial has been proceeding intermittently since 2020 with witness testimony continuing through 2024. The International Criminal Court's November 2024 arrest warrant for alleged war crimes in Gaza adds another vector, though this would require Netanyahu traveling to a country that recognizes ICC jurisdiction and chooses to enforce it. Political instability in his coalition could also precipitate a scenario where he loses immunity protections, particularly if far-right or ultra-Orthodox partners withdraw support over disagreements on judicial reforms or military exemptions.
 
-The bull case rests on three concrete factors: Netanyahu's three ongoing criminal trials for bribery, fraud, and breach of trust could accelerate toward conviction and sentencing before March 31, 2026, particularly if the Jerusalem District Court expedites proceedings; Israeli security services have arrested sitting ministers before (though rarely prime ministers); and international pressure combined with domestic opposition could create political conditions favoring enforcement. The trials' timeline matters—conviction is theoretically possible by late 2025, and appeals could be exhausted by early 2026, though sentencing delays are typical. Additionally, any dramatic shifts in Israeli coalition politics could remove his parliamentary immunity protections if Knesset coalitions fracture.
+The bear case is straightforward: Netanyahu has successfully navigated legal challenges for years while maintaining political power, and Israeli courts move slowly with extensive appeals processes that make a definitive conviction and arrest unlikely within 15 months. Even if convicted at the district level, automatic appeals to the Supreme Court would delay any custodial sentence well beyond March 2026. The ICC warrant carries no enforcement mechanism within Israel, and Netanyahu can simply avoid travel to ICC member states. His coalition, while fragile, has survived multiple crises, and Israeli political culture has historically been reluctant to criminally prosecute top leaders. The two-percent odds reflect that arrest requires not just legal jeopardy but actual detention, which demands either a complete political collapse or a final, unappealable conviction on an expedited timeline that contradicts Israel's legal norms.
 
-The bear case dominates current odds because Netanyahu's political survival mechanisms remain intact: he controls the government that would enforce arrest, his coalition partners depend on maintaining him in office, arrest would likely trigger constitutional crisis and immediate coalition collapse, and Israeli courts have historically shown extreme reluctance to imprison sitting prime ministers. The trials themselves move slowly—Netanyahu's defense strategy explicitly aims to delay proceedings until he can leverage political changes. Even if convicted, standard Israeli sentencing practices for white-collar offenses involve appeals processes extending years beyond initial verdict. The 15-month timeframe is extraordinarily compressed for a system that typically takes 3-5 years from conviction to enforcement.
-
-Key catalysts include trial verdict dates (the bribery trial could reach closing arguments in 2025), any dramatic coalition shifts threatening Netanyahu's immunity status, and geopolitical de-escalation that might reduce his "wartime necessity" justifications. Traders should monitor Knesset elections (unlikely before 2026 unless forced) and whether any coalition partners break ranks. The market's 1.5% pricing reflects consensus that legal processes move too slowly and political incentives too strongly favor delay, making arrest by March 2026 an extreme tail scenario.
+Key catalysts to monitor include scheduled corruption trial hearings in Jerusalem (witness testimony phases), any coalition confidence votes in the Knesset, and potential Supreme Court rulings on judicial reform legislation that could affect Netanyahu's legal strategy. The political calendar matters less than courtroom developments, as the trial schedule dictates whether verdicts could even theoretically arrive before March 2026. Traders should watch for unexpected coalition fractures, health issues, or any indication Netanyahu might travel to Europe where ICC enforcement becomes possible.
 
 ## Related Markets
 
+- [Will J.B. Pritzker win the 2028 Democratic presidential nomination?](/odds/will-jb-pritzker-win-the-2028-democratic-presidential-nomination) — 2% YES
 - [Will Alexandria Ocasio-Cortez win the 2028 US Presidential Election?](/odds/will-alexandria-ocasio-cortez-win-the-2028-us-presidential-election) — 5% YES
-- [Will J.B. Pritzker win the 2028 Democratic presidential nomination?](/odds/will-jb-pritzker-win-the-2028-democratic-presidential-nomination) — 3% YES
-- [Will OpenAI have the best AI model at the end of March 2026?](/odds/will-openai-have-the-best-ai-model-at-the-end-of-march-2026) — 1% YES
+- [Will France win Eurovision 2026?](/odds/will-france-win-eurovision-2026) — 12% YES
 
 ## Frequently Asked Questions
 
-### Could Netanyahu lose parliamentary immunity before March 2026?
+### Does the ICC arrest warrant increase the probability of Netanyahu's actual arrest significantly?
 
-Immunity removal requires Knesset vote with specific majority and is politically unlikely while his coalition controls the government; coalition collapse would be necessary, which current polling doesn't suggest happening by Q1 2026.
+Not substantially, since Netanyahu controls his own travel schedule and can avoid the 124 countries that recognize ICC jurisdiction. Arrest requires physical presence in a cooperating state willing to enforce the warrant, which he can simply prevent.
 
-### How do the three separate trials affect arrest probability?
+### Could Netanyahu be arrested even while serving as Prime Minister?
 
-The bribery trial is furthest along and most likely to reach verdict first, but even conviction doesn't automatically trigger arrest—sentencing, appeals, and enforcement discretion by a government Netanyahu controls create multiple delay mechanisms.
+Israeli law doesn't explicitly grant sitting Prime Ministers immunity from arrest, but the corruption trial has proceeded for years without detention. Arrest would more likely follow a final conviction after exhausting appeals, or a complete loss of political power.
 
-### Would a ceasefire in Gaza/Lebanon change these odds?
+### What would need to happen in the corruption trial specifically for arrest by March 2026?
 
-Yes—ending active conflict would remove Netanyahu's strongest political shield and potentially increase domestic pressure for accountability, likely pushing probability higher if fighting stops before early 2026.
+A guilty verdict at the district court level, followed by denied or expedited appeals, and a custodial sentence imposed—all within 15 months. Given that the trial began in 2020 and is still hearing witnesses, this timeline appears extremely compressed compared to the actual pace of proceedings.
 
 ## Learn More
 

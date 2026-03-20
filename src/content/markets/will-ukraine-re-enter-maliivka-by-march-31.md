@@ -1,17 +1,16 @@
 ---
 title: "Will Ukraine re-enter Maliivka by March 31?"
-description: "Will Ukraine re-enter Maliivka by March 31? Odds: 13.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Ukraine re-enter Maliivka by March 31? Odds: 14.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Ukraine re-enter Maliivka by March 31?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-03-19
+lastUpdated: 2026-03-20
 expiryDate: 2026-03-31
 tags: ["ai", "politics", "polymarket"]
-polymarketYes: 13.5
-polymarketNo: 86.5
-polymarketVolume: 9847
+polymarketYes: 14.0
+polymarketNo: 86.0
+polymarketVolume: 9932
 polymarketUrl: "https://polymarket.com/event/will-ukraine-re-enter-maliivka-by-march-31"
-analysisDate: 2026-03-19
 ---
 
 # Ukraine Re-entry into Maliivka Analysis

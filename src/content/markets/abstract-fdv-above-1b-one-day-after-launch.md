@@ -3,8 +3,8 @@ title: "Abstract FDV above $1B one day after launch?"
 description: "Abstract FDV above $1B one day after launch? Odds: 15.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Abstract FDV above $1B one day after launch?"
 category: "crypto"
-status: "active"
-lastUpdated: 2026-03-19
+status: "settled"
+lastUpdated: 2026-03-20
 expiryDate: 2028-01-01
 tags: ["crypto", "polymarket"]
 polymarketYes: 15.0

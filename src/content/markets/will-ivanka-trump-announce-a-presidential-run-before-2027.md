@@ -3,8 +3,8 @@ title: "Will Ivanka Trump announce a presidential run before 2027?"
 description: "Will Ivanka Trump announce a presidential run before 2027? Odds: 7.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Ivanka Trump announce a presidential run before 2027?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-19
+status: "settled"
+lastUpdated: 2026-03-20
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket", "trump"]
 polymarketYes: 7.0

@@ -3,8 +3,8 @@ title: "Will Donovan Mitchell lead the NBA in three pointers made during the 202
 description: "Will Donovan Mitchell lead the NBA in three pointers made during the 2025–26 NBA season? Odds: 0.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Donovan Mitchell lead the NBA in three pointers made during the 2025–26 NBA season?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-03-19
+status: "settled"
+lastUpdated: 2026-03-20
 expiryDate: 2026-04-12
 tags: ["polymarket", "sports"]
 polymarketYes: 0.5

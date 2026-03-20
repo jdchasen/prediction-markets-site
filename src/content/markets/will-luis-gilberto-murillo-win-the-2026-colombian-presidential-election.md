@@ -3,8 +3,8 @@ title: "Will Luis Gilberto Murillo win the 2026 Colombian presidential election?
 description: "Will Luis Gilberto Murillo win the 2026 Colombian presidential election? Odds: 0.3% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Luis Gilberto Murillo win the 2026 Colombian presidential election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-19
+status: "settled"
+lastUpdated: 2026-03-20
 expiryDate: 2026-06-21
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.3

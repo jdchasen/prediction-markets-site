@@ -4,13 +4,14 @@ description: "Maduro guilty of all counts? Odds: 31.5% YES on Polymarket. See li
 marketQuestion: "Maduro guilty of all counts?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-03-19
+lastUpdated: 2026-03-20
 expiryDate: 2027-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 31.5
 polymarketNo: 68.5
-polymarketVolume: 97735
+polymarketVolume: 97832
 polymarketUrl: "https://polymarket.com/event/maduro-guilty-of-all-counts"
+analysisDate: 2026-03-20
 ---
 
 # Maduro Guilty of All Counts Market Analysis
@@ -23,33 +24,31 @@ polymarketUrl: "https://polymarket.com/event/maduro-guilty-of-all-counts"
 
 ## Market Analysis
 
-The 31.5% YES odds reflect deep uncertainty about whether Venezuelan President Nicolás Maduro will face conviction on all charges before the 2027 year-end deadline, with the outcome hinging on whether international courts gain jurisdiction and whether political conditions shift dramatically enough to enable prosecution. This matters because Maduro currently controls Venezuela's government and security apparatus, making any conviction dependent on either a regime change or unprecedented international enforcement mechanisms—neither of which markets currently price as highly likely within four years.
+The current 31.5% YES probability reflects deep uncertainty about whether Venezuelan President Nicolás Maduro will face conviction on all charges before year-end 2027, with the outcome hinging on geopolitical leverage, ICC jurisdiction, and regime stability rather than traditional legal processes. This market matters because it encodes expectations about whether international pressure will successfully constrain Maduro's rule or whether his government will retain the power to evade accountability.
 
-The bull case for conviction rests on several converging pressures: the International Criminal Court has an active preliminary investigation into crimes against humanity, multiple countries including the U.S. maintain arrest warrants, and sustained international isolation could eventually force Maduro from power, enabling prosecution either domestically or internationally. If the opposition consolidates control following potential 2024-2025 political instability or if ICC investigators accelerate their investigation with testimony from defecting officials, conviction on "all counts" becomes materially more probable. The recent pattern of regional democratic backsliding reversals (Argentina, Brazil) shows political momentum can shift quickly in Latin America, potentially creating an opening for prosecutorial action.
+The bull case for conviction rests on three pillars: the International Criminal Court's ongoing preliminary examination into crimes against humanity, which could formally proceed to investigation and prosecution; potential regime collapse or power transition that removes Maduro's ability to shield himself; and escalating U.S. and allied pressure including sanctions that could force an extradition or trial scenario. The bear case is substantially stronger: Maduro controls Venezuela's security apparatus, has consistently evaded previous accountability mechanisms, maintains support from Russia and China who block Security Council action, and the ICC lacks enforcement mechanisms independent of member state cooperation—Venezuela is not an ICC member. Additionally, "guilty of all counts" is an exceptionally high bar requiring not just conviction but conviction on every single charge, making partial acquittals or dropped counts highly likely even in a conviction scenario.
 
-The bear case is far more straightforward: Maduro maintains tight control of the military and judiciary, Venezuela's courts remain captured institutions incapable of independent judgment, and international bodies lack enforcement power without regime collapse or voluntary surrender. The ICC typically requires either state cooperation or Security Council referral—both unlikely given Russia and China's blocking positions. Even if Maduro loses power, prosecution on "all counts" across multiple jurisdictions (ICC, U.S. courts, Colombian courts) simultaneously by 2027 is an extraordinarily high bar requiring perfect coordination among disparate legal systems with different evidentiary standards.
-
-Traders should monitor: (1) any signs of military fracturing or defections, which would be the primary catalyst for regime change; (2) ICC prosecutor statements and witness testimony submissions expected in 2025-2026; (3) U.S. diplomatic posture shifts after the 2024 election that could affect extradition pressure; and (4) Venezuelan opposition unity around a transitional justice framework, which remains contested internally. The market's current pricing suggests conviction on all counts is treated as roughly a 1-in-3 long-shot, consistent with the high barriers to international enforcement but perhaps underweighting the possibility of rapid political change in the region.
+Key catalysts through 2027 include any formal ICC Office of the Prosecutor decision to open an investigation (currently in preliminary examination phase with no firm timeline), potential changes in Venezuelan leadership following presidential elections or political instability, and shifts in U.S. administration priorities regarding Venezuela policy. The Venezuelan opposition's fragmentation and Maduro's demonstrated ability to maintain control despite hyperinflation and emigration suggest regime durability remains the base case. Watch for ICC prosecutor statements regarding timeline, any Venezuelan governmental transitions, and whether upcoming elections (if held) shift power dynamics.
 
 ## Related Markets
 
+- [Will J.B. Pritzker win the 2028 Democratic presidential nomination?](/odds/will-jb-pritzker-win-the-2028-democratic-presidential-nomination) — 2% YES
 - [Will Alexandria Ocasio-Cortez win the 2028 US Presidential Election?](/odds/will-alexandria-ocasio-cortez-win-the-2028-us-presidential-election) — 5% YES
-- [Will J.B. Pritzker win the 2028 Democratic presidential nomination?](/odds/will-jb-pritzker-win-the-2028-democratic-presidential-nomination) — 3% YES
-- [Will OpenAI have the best AI model at the end of March 2026?](/odds/will-openai-have-the-best-ai-model-at-the-end-of-march-2026) — 1% YES
+- [Will France win Eurovision 2026?](/odds/will-france-win-eurovision-2026) — 12% YES
 
 ## Frequently Asked Questions
 
-### What does "guilty of all counts" mean specifically in this market—is it ICC charges, U.S. charges, or some combination?
+### What does "guilty of all counts" specifically mean versus just a Maduro conviction?
 
-The market's resolution criteria matter enormously here; clarification from Polymarket on whether conviction in any single jurisdiction counts or requires multiple jurisdictions would significantly shift fair odds, as ICC conviction is more plausible than simultaneous U.S. court conviction.
+The market requires conviction on every charge the ICC brings, not just a guilty verdict on some charges. Prosecutors typically bring multiple counts (crimes against humanity, torture, etc.), so acquittal on even one count triggers a NO resolution.
 
-### Could Maduro avoid this outcome by voluntarily stepping down and fleeing to a non-extradition country like Russia?
+### Could Maduro be tried in absentia and still count as "guilty of all counts" for this market?
 
-Yes—if Maduro negotiates a soft exit with asylum guarantees (as some opposition figures have discussed), he'd likely escape "all counts" conviction, making the political survival vs. prosecution dynamic the key variable rather than legal evidence strength.
+This depends entirely on the resolution criteria—absent explicit language in the market terms, an in-absentia conviction would likely count, but you should verify the exact resolution language since some markets require physical custody or presence at trial.
 
-### How much does the timing of the 2027 deadline affect this odds level?
+### If Maduro dies or leaves office before 2027, what happens to this market?
 
-Critically—the four-year window requires both regime change AND completed multi-jurisdictional prosecutions, which even optimistic scenarios put at 5-7 years minimum, suggesting the deadline itself may be artificially constraining the YES probability below what longer-dated markets would show.
+That depends on resolution specifications, but typically if the market asks whether Maduro will be guilty by 2027, death or exile doesn't automatically resolve it unless the trial completes with a guilty verdict—the market would likely remain open if prosecution is still pending.
 
 ## Learn More
 

@@ -3,15 +3,14 @@ title: "Will Brock Boeser win the 2025–2026 NHL Hart Memorial Trophy?"
 description: "Will Brock Boeser win the 2025–2026 NHL Hart Memorial Trophy? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Brock Boeser win the 2025–2026 NHL Hart Memorial Trophy?"
 category: "sports"
-status: "settled"
-lastUpdated: 2026-03-19
+status: "active"
+lastUpdated: 2026-03-20
 expiryDate: 2026-06-30
 tags: ["polymarket", "sports"]
 polymarketYes: 0.1
 polymarketNo: 99.9
-polymarketVolume: 9610
+polymarketVolume: 9749
 polymarketUrl: "https://polymarket.com/event/nhl-2025-26-hart-memorial-trophy-brock-boeser"
-analysisDate: 2026-03-19
 ---
 
 # Brock Boeser Hart Trophy Analysis

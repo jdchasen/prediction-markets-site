@@ -4,14 +4,13 @@ description: "Will Cameron Norrie win the 2026 Men's French Open? Odds: 0.2% YES
 marketQuestion: "Will Cameron Norrie win the 2026 Men's French Open?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-03-19
+lastUpdated: 2026-03-20
 expiryDate: 2026-06-07
 tags: ["politics", "polymarket"]
 polymarketYes: 0.2
 polymarketNo: 99.8
-polymarketVolume: 9873
+polymarketVolume: 9883
 polymarketUrl: "https://polymarket.com/event/will-cameron-norrie-win-the-2026-mens-french-open"
-analysisDate: 2026-03-19
 ---
 
 # Cameron Norrie 2026 French Open Analysis

@@ -3,8 +3,8 @@ title: "Will any AI model reach a Chatbot Arena score of at least 1600 by Decemb
 description: "Will any AI model reach a Chatbot Arena score of at least 1600 by December 31? Odds: 31.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will any AI model reach a Chatbot Arena score of at least 1600 by December 31?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-19
+status: "settled"
+lastUpdated: 2026-03-20
 expiryDate: 2026-12-31
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 31.5

@@ -3,8 +3,8 @@ title: "Will Furman win the 2026 NCAA Tournament?"
 description: "Will Furman win the 2026 NCAA Tournament? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Furman win the 2026 NCAA Tournament?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-19
+status: "settled"
+lastUpdated: 2026-03-20
 expiryDate: 2026-04-04
 tags: ["politics", "polymarket"]
 polymarketYes: 0.1

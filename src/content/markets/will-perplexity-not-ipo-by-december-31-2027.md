@@ -1,17 +1,16 @@
 ---
 title: "Will Perplexity not IPO by December 31, 2027?"
-description: "Will Perplexity not IPO by December 31, 2027? Odds: 58.0% YES on Polymarket. See live prices and trade this market."
+description: "Will Perplexity not IPO by December 31, 2027? Odds: 61.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Perplexity not IPO by December 31, 2027?"
 category: "finance"
 status: "active"
-lastUpdated: 2026-03-19
+lastUpdated: 2026-03-20
 expiryDate: 2027-12-31
 tags: ["finance", "polymarket"]
-polymarketYes: 58.0
-polymarketNo: 42.0
-polymarketVolume: 97282
+polymarketYes: 61.5
+polymarketNo: 38.5
+polymarketVolume: 97779
 polymarketUrl: "https://polymarket.com/event/will-perplexity-not-ipo-by-december-31-2027"
-analysisDate: 2026-03-19
 ---
 
 # Perplexity IPO Market Analysis

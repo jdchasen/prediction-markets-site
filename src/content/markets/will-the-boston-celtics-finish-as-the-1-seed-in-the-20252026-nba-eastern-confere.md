@@ -3,8 +3,8 @@ title: "Will the Boston Celtics finish as the #1 seed in the 2025–2026 NBA Eas
 description: "Will the Boston Celtics finish as the #1 seed in the 2025–2026 NBA Eastern Conference? Odds: 22.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Boston Celtics finish as the #1 seed in the 2025–2026 NBA Eastern Conference?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-03-19
+status: "settled"
+lastUpdated: 2026-03-20
 expiryDate: 2026-04-12
 tags: ["polymarket", "sports"]
 polymarketYes: 22.1

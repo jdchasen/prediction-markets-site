@@ -1,52 +1,48 @@
 ---
 title: "Fed rate cut by June 2026 meeting?"
-description: "Fed rate cut by June 2026 meeting? Odds: 14.5% YES on Polymarket. See live prices and trade this market."
+description: "Fed rate cut by June 2026 meeting? Odds: 13.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Fed rate cut by June 2026 meeting?"
 category: "economics"
 status: "active"
-lastUpdated: 2026-03-19
+lastUpdated: 2026-03-20
 expiryDate: 2026-06-17
 tags: ["economics", "federal-reserve", "interest-rates", "polymarket"]
-polymarketYes: 14.5
-polymarketNo: 85.5
-polymarketVolume: 97303
+polymarketYes: 13.5
+polymarketNo: 86.5
+polymarketVolume: 98408
 polymarketUrl: "https://polymarket.com/event/fed-rate-cut-by-june-2026-meeting"
+analysisDate: 2026-03-20
 ---
 
-The market assigns only a 15.5% probability to the Federal Reserve cutting rates by its June 2026 meeting, reflecting broad trader conviction that elevated rates will persist for at least another two years despite mounting recession concerns.
+The market pricing only 13.5% odds of a Fed rate cut by June 2026 reflects trader conviction that the current restrictive monetary policy stance will persist for an extended period, likely driven by expectations of sustained inflation or economic resilience that prevents the FOMC from pivoting dovish within the next two and a half years.
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 15.5% | 84.5% | $92K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 13.5% | 86.5% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The bull case for a rate cut hinges on a sharp deterioration in labor markets or a sustained disinflationary trend. If monthly CPI prints consistently fall below 2% annualized and unemployment rises above 4.5%, the Fed would face pressure to ease policy even before mid-2026. A financial stability event—such as regional bank stress similar to March 2023 or a credit crunch in commercial real estate—could force emergency cuts regardless of inflation levels. Additionally, if core PCE (the Fed's preferred inflation gauge) averages below target for three consecutive quarters through 2025, the central bank may preemptively cut to avoid an overly restrictive stance. The January 2026 FOMC meeting minutes would likely telegraph such a shift months in advance.
+The bull case for a rate cut hinges on a recession scenario materializing over the next 18-24 months, where consecutive negative GDP prints and unemployment rising above 5% would force the Fed's hand regardless of inflation levels. Deteriorating labor markets visible through monthly NFP releases (published first Friday of each month) showing sub-100K job gains for multiple consecutive months would signal economic weakness justifying cuts. The December 2025 FOMC meeting would be a critical inflection point where updated Summary of Economic Projections could reveal a dovish shift if core PCE inflation sustainably trends toward the 2% target throughout 2025.
 
-The bear case, which odds heavily favor, assumes inflation remains stubbornly above the 2% target or re-accelerates from current levels. Persistent services inflation driven by wage growth, particularly if average hourly earnings continue above 4% year-over-year in monthly NFP reports, would keep the Fed cautious. Traders should monitor the March 19, 2025 FOMC decision and subsequent dot plot projections, which will clarify the committee's rate path expectations. If the median dot remains above 3.5% through 2026, it reinforces the low probability of June 2026 cuts. Strong Q4 2024 and Q1 2025 GDP growth above 2.5% would further validate the higher-for-longer narrative, suggesting the neutral rate has risen and current policy isn't sufficiently restrictive.
+The bear case dominates current pricing because inflation has proven stickier than anticipated, with core CPI remaining elevated in recent prints. Even if headline CPI moderates, the Fed has signaled it will prioritize inflation control over growth concerns, as evidenced by the dot plot from recent FOMC meetings projecting a higher terminal rate for longer. Services inflation, particularly shelter costs which lag in the data, could keep core PCE above 2.5% well into 2025, eliminating any justification for cuts. The Fed's credibility mandate after the 2021-2022 inflation surge means they're likely to maintain restrictive policy even if unemployment ticks modestly higher.
 
-Key catalysts include the February 7, 2025 employment report, which will reveal whether January's labor market shows cooling, and the February 12 CPI release for January data. The May 2025 FOMC meeting represents a critical checkpoint where the Fed may signal whether 2026 cuts remain under consideration. Traders should track the Cleveland Fed's inflation nowcasts and Atlanta Fed's GDPNow between official releases, as these real-time estimates often move market expectations before FOMC members enter their blackout periods. Any surprise rate cut in 2025 would dramatically reshape this market's odds, making the December 2025 FOMC meeting particularly significant for establishing the 2026 trajectory.
-
-## Related Markets
-
-- [Will China GDP growth in Q1 2026 be between 4.5% and 5.0%?](/odds/will-china-gdp-growth-in-q1-2026-be-between-45-and-50) — 64% YES
-- [Will the Bank of Israel make no change to the Bank of Israel Interest Rate after the March decision?](/odds/will-the-bank-of-israel-make-no-change-to-the-bank-of-israel-interest-rate-after) — 94% YES
+Key catalysts include the January 29, 2025 FOMC decision and February 12, 2025 CPI release, which will set the tone for whether 2025 sees any rate cuts at all—prerequisite context for June 2026 pricing. The April 30, 2025 Q1 GDP advance estimate and May 2, 2025 employment report will reveal if economic momentum is weakening enough to change the trajectory. Traders should monitor the Fed's preferred core PCE inflation metric released monthly around the final week, with sustained readings below 2.3% needed to justify an eventual cutting cycle that reaches June 2026.
 
 ## Frequently Asked Questions
 
-### Does this market resolve YES if the Fed cuts rates at any meeting before or during June 2026, or only if they cut at the specific June 2026 meeting?
+### Why are odds so low when June 2026 is more than two years away?
 
-The market resolves YES if the Fed implements a rate cut at or before the June 2026 FOMC meeting, not exclusively at that meeting. Any cut from now through June 17, 2026 triggers a YES resolution.
+The market expects the Fed to hold rates elevated throughout 2025 and much of 2026, meaning even if cuts eventually occur, they likely won't begin until the latter half of 2026 or later given current inflation dynamics and the Fed's cautious forward guidance.
 
-### How would a recession declared by NBER in late 2025 impact the probability of this market resolving YES?
+### What unemployment rate would likely trigger cuts by this meeting date?
 
-A recession declaration would significantly increase YES odds since the Fed historically cuts rates during recessions, though NBER's dating lag means markets would react to real-time deterioration in employment and GDP data months before any official announcement.
+Historical patterns suggest the Fed typically cuts when unemployment rises 0.5 percentage points or more from cyclical lows, meaning sustained readings above 4.5-5% in monthly NFP reports through early 2026 would significantly increase cut probability.
 
-### If the Fed pauses but doesn't cut through all of 2025, would that make a June 2026 cut more or less likely?
+### How would a 2025 recession change these odds?
 
-A prolonged pause through 2025 could increase June 2026 cut probability if the pause results from inflation normalizing rather than remaining elevated, as it would give the Fed room to ease in 2026 without reigniting price pressures.
+A technical recession declared in 2025 with two consecutive quarters of negative GDP would dramatically increase odds to 60-80%, as the Fed would likely begin an aggressive cutting cycle by late 2025, easily encompassing the June 2026 meeting date.
 
 ## Learn More
 

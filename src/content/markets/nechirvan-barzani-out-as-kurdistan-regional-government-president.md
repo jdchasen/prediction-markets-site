@@ -4,14 +4,13 @@ description: "Nechirvan Barzani out as Kurdistan Regional Government President? 
 marketQuestion: "Nechirvan Barzani out as Kurdistan Regional Government President?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-03-19
+lastUpdated: 2026-03-20
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
 polymarketYes: 10.1
 polymarketNo: 89.9
-polymarketVolume: 9697
+polymarketVolume: 9711
 polymarketUrl: "https://polymarket.com/event/nechirvan-barzani-out-as-kurdistan-regional-government-president"
-analysisDate: 2026-03-19
 ---
 
 # Nechirvan Barzani KRG Presidency Market Analysis

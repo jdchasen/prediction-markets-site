@@ -3,8 +3,8 @@ title: "Will the U.S. invade Iran before 2027?"
 description: "Will the U.S. invade Iran before 2027? Odds: 57.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the U.S. invade Iran before 2027?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-19
+status: "settled"
+lastUpdated: 2026-03-20
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 57.5

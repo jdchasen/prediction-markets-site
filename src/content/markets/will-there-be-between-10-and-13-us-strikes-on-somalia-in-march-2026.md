@@ -1,56 +1,56 @@
 ---
 title: "Will there be between 10 and 13 US strikes on Somalia in March 2026?"
-description: "Will there be between 10 and 13 US strikes on Somalia in March 2026? Odds: 29.5% YES on Polymarket. See live prices and trade this market."
+description: "Will there be between 10 and 13 US strikes on Somalia in March 2026? Odds: 20.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will there be between 10 and 13 US strikes on Somalia in March 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-03-19
+lastUpdated: 2026-03-20
 expiryDate: 2026-04-04
 tags: ["politics", "polymarket"]
-polymarketYes: 29.5
-polymarketNo: 70.5
-polymarketVolume: 9722
+polymarketYes: 20.0
+polymarketNo: 80.0
+polymarketVolume: 9934
 polymarketUrl: "https://polymarket.com/event/will-there-be-between-10-and-13-us-strikes-on-somalia-in-march-2026"
-analysisDate: 2026-03-19
+analysisDate: 2026-03-20
 ---
 
-# US Military Strikes on Somalia: March 2026 Market Analysis
+# Somalia Strike Prediction Market Analysis
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 29.5% | 70.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 20.0% | 80.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The 29.5% probability reflects moderate skepticism that the US will conduct between 10-13 strikes on Somalia specifically during March 2026, suggesting traders see this outcome as unlikely but plausible given historical patterns of counterterrorism operations. This market matters because it captures expectations around US military posture in the Horn of Africa, where Al-Shabaab remains a persistent counterterrorism target and regional instability directly influences strike frequency.
+The current 20% probability reflects skepticism that the US will conduct between 10-13 strikes on Somalia specifically during March 2026, suggesting traders view either fewer strikes or a different operational tempo as more likely. This market matters because US counterterrorism operations in the Horn of Africa have historically fluctuated based on administration priorities, regional security dynamics, and Al-Shabaab activity levels—making the precise March window and strike count critical variables. The April 4 expiration leaves roughly 14 months of uncertainty around geopolitical shifts that could dramatically alter US military engagement patterns.
 
-The bull case rests on demonstrated operational tempo: the US has conducted sustained drone and airstrike campaigns against Al-Shabaab in Somalia over the past decade, with 2024 seeing elevated activity. If the terrorist group escalates attacks or demonstrates capability gains in early 2026, the military could respond with concentrated strike campaigns. Additionally, if a new administration takes office in January 2026 (following the 2024 election), shifting counterterrorism priorities toward Africa could increase Somalia operations. The 10-13 strike threshold is notably specific—not extreme, but representing steady campaign activity rather than sporadic strikes.
+The bull case for the 10-13 strike threshold rests on two foundations: first, the Biden administration (or its successor in 2025) has maintained relatively consistent Somalia operations as part of broader counterterrorism strategy, with Al-Shabaab remaining designated as a terrorist organization requiring pressure; second, spring 2026 could coincide with seasonal increases in militant activity or renewed policy emphasis if there's a transition to a more hawkish administration post-2024 elections. If the next administration prioritizes Africa counterterrorism or if Al-Shabaab launches major attacks requiring immediate response, the strike floor could easily be breached. Historical precedent shows the US has conducted multi-digit monthly strike counts in Somalia during escalation periods.
 
-The bear case emphasizes operational restraint and geopolitical complications. Somalia's federal government has grown more assertive about US military presence, and excessive strikes risk diplomatic friction at a moment when the US seeks regional stability cooperation. December 2024 through early 2026 will likely determine whether momentum builds toward higher strike rates or stabilizes at lower levels. If Al-Shabaab remains relatively dormant or if the US pivots resources toward other regions (Middle East, Indo-Pacific), the strike count could easily fall below 10. The specificity of the 10-13 band also works against traders—even if strikes occur, hitting this exact range requires consistency.
+The bear case centers on three factors pulling toward lower probabilities: first, the extremely specific 10-13 range creates a narrow target—hitting exactly this band requires precise operational tempo rather than either sustained heavy engagement or minimal activity; second, broader geopolitical priorities (Ukraine, China, Middle East) may continue crowding out Somalia operations; third, political constraints in 2026 could include post-election fatigue, budget pressures, or renewed focus on force preservation. Even if US operations continue, they could easily fall below 10 strikes monthly or exceed 13, invalidating the market thesis without indicating strategic withdrawal.
 
-Watch for three signals: Al-Shabaab attack patterns and claimed capability demonstrations in Q4 2024 and early 2026; any policy statements from the incoming US administration (January 2025 onward) regarding Africa counterterrorism priorities; and bilateral US-Somalia military cooperation announcements, which telegraph operational intensity. The expiry on April 4, 2026 gives traders nearly 14 months to reassess based on actual operational data from late 2025 and early 2026.
+Traders should monitor the 2024 presidential election outcome (November) as the primary catalyst—a Trump return would likely increase Africa counterterrorism intensity, while a Harris administration might maintain status quo. Watch for any major Al-Shabaab attacks through late 2025 that could trigger policy recalibration. Congressional appropriations debates in fall 2025 and early 2026 will signal budget availability for sustained operations. Finally, track public US Africa Command (AFRICOM) statements and official strike disclosures in 2025—the current 20% odds assume moderate skepticism that the specific 10-13 threshold will be hit, suggesting the market is pricing in either below-10 or above-13 outcomes as more probable.
 
 ## Related Markets
 
+- [Will J.B. Pritzker win the 2028 Democratic presidential nomination?](/odds/will-jb-pritzker-win-the-2028-democratic-presidential-nomination) — 2% YES
 - [Will Alexandria Ocasio-Cortez win the 2028 US Presidential Election?](/odds/will-alexandria-ocasio-cortez-win-the-2028-us-presidential-election) — 5% YES
-- [Will J.B. Pritzker win the 2028 Democratic presidential nomination?](/odds/will-jb-pritzker-win-the-2028-democratic-presidential-nomination) — 3% YES
-- [Will the U.S. invade Iran before 2027?](/odds/will-the-us-invade-iran-before-2027) — 58% YES
+- [Will France win Eurovision 2026?](/odds/will-france-win-eurovision-2026) — 12% YES
 
 ## Frequently Asked Questions
 
-### How many strikes has the US historically conducted per month against Somalia?
+### How does the historical frequency of US strikes on Somalia in recent years compare to the 10-13 monthly threshold this market requires?
 
-Strike frequency has varied significantly—some months see zero publicly acknowledged strikes, while surge periods have seen 3-5 per month. A 10-13 strike range for March suggests elevated but not unprecedented activity.
+Public AFRICOM data shows monthly strike counts have varied widely, sometimes exceeding 13 in peak escalation periods but more typically ranging from 3-8 strikes monthly in recent years, making the 10-13 band represent a significant uptick from current operational tempo.
 
-### Why is the market pricing this at 29.5% rather than higher, given the US maintains active counterterrorism operations in Somalia?
+### What would trigger a major repricing of this market before March 2026?
 
-The specificity of the 10-13 range makes this harder to hit than a broader threshold; traders may believe strikes will either be more frequent (13+) or less frequent (<10) depending on 2025 developments, but rarely land in this narrow band.
+A major Al-Shabaab attack causing US casualties, a confirmed shift in counterterrorism policy by the incoming 2025 administration, or congressional action explicitly increasing or decreasing Somalia operations funding would be primary catalysts for substantial odds movement.
 
-### Could a change in US administration between now and March 2026 significantly move these odds?
+### Why does the narrow 10-13 range make this market harder to hit than a simple "yes, US strikes Somalia in March" market would be?
 
-Yes—the January 2025 transition could shift Africa policy substantially; a more hawkish administration might increase strike authorizations, while a restraint-focused one could decrease them, both moving the needle away from the 10-13 middle ground.
+The specificity means traders must predict not just whether
 
 ## Learn More
 

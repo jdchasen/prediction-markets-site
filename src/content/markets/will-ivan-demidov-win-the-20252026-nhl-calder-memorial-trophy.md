@@ -4,32 +4,33 @@ description: "Will Ivan Demidov win the 2025–2026 NHL Calder Memorial Trophy? 
 marketQuestion: "Will Ivan Demidov win the 2025–2026 NHL Calder Memorial Trophy?"
 category: "sports"
 status: "active"
-lastUpdated: 2026-03-19
+lastUpdated: 2026-03-20
 expiryDate: 2026-06-30
 tags: ["polymarket", "sports"]
 polymarketYes: 0.3
 polymarketNo: 99.7
-polymarketVolume: 9675
+polymarketVolume: 9695
 polymarketUrl: "https://polymarket.com/event/nhl-2025-26-calder-memorial-trophy-ivan-demidov"
+analysisDate: 2026-03-20
 ---
 
-# Ivan Demidov 2025-2026 Calder Trophy Analysis
+# Ivan Demidov Calder Trophy Analysis
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.4% | 99.6% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.3% | 99.7% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The 0.4% odds reflect deep skepticism about Demidov's Calder candidacy despite legitimate talent, making this one of prediction markets' most pessimistic assessments of a top prospect's rookie season impact. This valuation matters because it tests whether markets are properly pricing elite draft prospects against the statistical reality that most Calder winners emerge as surprise breakout candidates rather than consensus top-prospects. Demidov's 2024-25 performance trajectory and Montreal's roster construction will heavily influence whether he becomes a contender by season's end.
+At 0.3% implied probability, the market is pricing Demidov as an extreme longshot for the 2025-2026 Rookie of the Year award, reflecting significant skepticism about his NHL readiness and immediate impact relative to other highly-touted prospects entering the league. This valuation matters now because Demidov is still pre-NHL, making the market heavily dependent on where he lands, his deployment trajectory, and whether he can outpace generational talent like Macklin Celebrini, Connor Bedard's draft class peers, and other lottery-eligible freshmen.
 
-The bull case centers on Demidov's exceptional offensive upside as Montreal's first-overall pick in 2024, assuming he secures consistent first-line playing time in 2025-26. If he produces at a 1+ point-per-game clip (feasible given his elite skating and playmaking in development leagues), he enters a Calder conversation alongside other rookie forwards. The Canadiens' weak 2024-25 season creates opportunity for significant ice time—there's minimal veteran competition for top-six minutes. His age (likely 19-20 at season start) doesn't disqualify him, as recent Calder winners have included young players, and the award follows performance, not prospect rankings.
+The bull case hinges on Demidov's exceptional production in the KHL last season and his skill set—elite playmaking, hockey IQ, and a frame approaching 6'3"—that has drawn comparisons to franchise cornerstones. If he lands with a contender needing immediate scoring depth, logs 15+ minutes nightly, and posts a 60+ point pace as a rookie, he'd crack the Calder conversation. The Montreal Canadiens hold his rights, and deploying him alongside established centermen could unlock scoring-line minutes typically reserved for Calder candidates. A hot start through October-November could dramatically shift sentiment and tighten these odds.
 
-The bear case is structural: Demidov must overcome the Montreal organization's historical development timeline for young players and compete against established prospects with full 2024-25 seasons of data. The Calder typically rewards either elite production (80+ points for forwards) or exceptional defensive play, which unproven 19-year-olds rarely deliver in their first NHL season. Additionally, elite goaltenders or defensemen often carry meaningful odds despite lower point totals—if a top-prospect netminder debuts strong, Demidov would need extraordinary point production to overcome positional bias. The market's 0.4% reflects justified skepticism that a prospect entering his first season defeats both seasoned rookies and established young players.
+The bear case is substantial: Demidov has never played in North America, faces a significant adjustment curve to the NHL's pace and physicality, and competes in a class loaded with consensus top-5 picks who have skating and strength advantages. The Habs' recent emphasis on youth development suggests he may begin in a sheltered role rather than the high-leverage minutes required for Calder contention. Injury, performance struggles in his first 20 games, or a demotion to the AHL would effectively eliminate his candidacy. The 0.3% price already accounts for these baseline risks—movement hinges on preseason tape, opening-week performance, and roster utilization decisions by late September 2025.
 
-Key catalysts include Demidov's preseason performance and roster placement (Watch October 2025), his point-pace trajectory through November-December benchmarks, and Montreal's competitive standing—a basement-dwelling team gives him volume but hurts his narrative. Traders should monitor comparable rookie performances weekly throughout October-March; if he averages 0.8+ points per game by the 2025 Winter Classic, odds should spike meaningfully. Injury news affecting competing prospects (particularly other first-round forwards) could shift value late in the season, as the Calder field typically narrows to 3-4 serious candidates by April 2026.
+Watch October 2025 closely: Demidov's first five games will reveal whether the Habs deploy him as a scoring threat or ease him in gradually. Monitor ice time trends through November and December alongside point totals; anyone under 0.5 points-per-game or skating under 12 minutes per night post-October should signal declining probability. Compare his trajectory to other European rookie debuts and track injury reports throughout the season, as even a five-game absence could crater already minimal odds.
 
 ## Related Markets
 
@@ -39,17 +40,17 @@ Key catalysts include Demidov's preseason performance and roster placement (Watc
 
 ## Frequently Asked Questions
 
-### What is Demidov's main statistical hurdle to win the Calder, given he's competing against established 2024-25 rookies?
+### What role must Demidov play for his Calder odds to improve meaningfully?
 
-He'd need 75+ points as a forward (roughly 0.9+ PPG over 82 games) to crack the finalist conversation, but the 2024-25 season already crowned other early-season performers, making late-season momentum unlikely to overcome their established claims by March 2026.
+He needs consistent third-line or better deployment (14+ minutes nightly) with primary offensive responsibilities from game one; a purely sheltered fourth-line role makes the award mathematically improbable.
 
-### How does Montreal's weak roster situation help or hurt Demidov's Calder odds?
+### How much does playing for Montreal versus another team impact his candidacy?
 
-High ice time helps accumulate points, but a non-competitive team narrative weakens his "impact player" candidacy; voters favor rookies who helped drive playoff positioning or were essential to a winning team.
+Montreal's rebuilding timeline and reluctance to artificially inflate rookie usage actually hurts his odds—a trade to a contender needing immediate scoring depth would substantially improve his win probability, potentially doubling or tripling these odds.
 
-### Could an injury to other top rookie prospects meaningfully shift this market before June 2026?
+### Are there recent comparable European prospects whose Calder performance can benchmark Demidov's risk?
 
-Yes—if 2-3 leading candidates suffer
+Artemi Panarin debuted at age 23 and won the award, while Pavel Zacha and other high-ceiling European rookies disappointed relative to expectations—Demidov's adjustment timeline is genuinely uncertain and the sub-1% pricing reflects this legitimate execution risk.
 
 ## Learn More
 

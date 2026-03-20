@@ -1,17 +1,16 @@
 ---
 title: "Will Justin Thomas win the 2026 Masters tournament?"
-description: "Will Justin Thomas win the 2026 Masters tournament? Odds: 1.1% YES on Polymarket. See live prices and trade this market."
+description: "Will Justin Thomas win the 2026 Masters tournament? Odds: 1.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Justin Thomas win the 2026 Masters tournament?"
 category: "sports"
 status: "active"
-lastUpdated: 2026-03-19
+lastUpdated: 2026-03-20
 expiryDate: 2026-04-13
 tags: ["polymarket", "sports"]
-polymarketYes: 1.1
-polymarketNo: 98.9
-polymarketVolume: 98183
+polymarketYes: 1.2
+polymarketNo: 98.8
+polymarketVolume: 98841
 polymarketUrl: "https://polymarket.com/event/will-justin-thomas-win-the-2026-masters-tournament"
-analysisDate: 2026-03-19
 ---
 
 # Justin Thomas 2026 Masters Analysis

@@ -3,8 +3,8 @@ title: "Will Anthony Edwards lead the NBA in points during the 2025–26 NBA sea
 description: "Will Anthony Edwards lead the NBA in points during the 2025–26 NBA season? Odds: 0.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Anthony Edwards lead the NBA in points during the 2025–26 NBA season?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-03-19
+status: "settled"
+lastUpdated: 2026-03-20
 expiryDate: 2026-04-12
 tags: ["polymarket", "sports"]
 polymarketYes: 0.2
