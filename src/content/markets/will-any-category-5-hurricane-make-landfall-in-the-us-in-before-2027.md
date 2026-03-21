@@ -9,39 +9,42 @@ expiryDate: 2026-12-31
 tags: ["polymarket", "science"]
 polymarketYes: 15.0
 polymarketNo: 85.0
-polymarketVolume: 97529
+polymarketVolume: 97864
 polymarketUrl: "https://polymarket.com/event/will-any-category-5-hurricane-make-landfall-in-the-us-in-before-2027"
+analysisDate: 2026-03-21
 ---
 
-This market trades at a relatively low probability that one of nature's most powerful storms will directly strike US shores within the next three years, reflecting both the rarity of Category 5 landfalls and the challenge of storms maintaining peak intensity through landfall.
+# Category 5 Hurricane Landfall Analysis
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 16.0% | 84.0% | $97K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 15.0% | 85.0% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The bull case centers on increasing sea surface temperatures in the Atlantic and Gulf of Mexico, which provide the energy necessary for hurricane intensification. Since 1924, only four Category 5 hurricanes have made US landfall: the 1935 Labor Day Hurricane, Camille (1969), Andrew (1992), and Michael (2018). The 26-year gap between Andrew and Michael suggests these events may be clustering more frequently in recent decades. The 2024 and 2025 Atlantic hurricane seasons (June 1 through November 30 each year) represent the most critical observation windows, with August through October historically producing the most intense storms. Climate models indicate the Gulf of Mexico is experiencing unprecedented warming, creating conditions where rapid intensification—jumping multiple categories in 24 hours—becomes more probable.
+The market is currently pricing a roughly one-in-six chance of a major hurricane striking the US mainland by end of 2026, which appears conservative relative to historical frequency but reflects uncertainty about storm intensity classification and landfall precision. This matters now because we're entering the peak Atlantic hurricane season (August-October), and 2024-2026 will provide the empirical foundation for assessing whether current atmospheric conditions favor extreme intensification and US-directed tracks.
 
-The bear case emphasizes that maintaining Category 5 status (sustained winds of 157+ mph) through actual landfall is exceptionally rare. Many hurricanes that reach Category 5 intensity over open water weaken before striking land due to eyewall replacement cycles, cooler coastal waters, or increased wind shear. Hurricane Dorian (2019) exemplified this: it reached Category 5 but weakened to Category 2 before brushing the US coast. The Saffir-Simpson scale requires sustained one-minute average winds measured at landfall, creating a narrow technical window. Even in active seasons, the specific combination of perfect atmospheric conditions, trajectory, and timing needed for a Category 5 landfall makes this a low-probability event across any three-year span.
+The bull case rests on several converging factors: warmer-than-normal sea surface temperatures in the Atlantic and Gulf of Mexico are already being observed, providing fuel for rapid intensification; climate modeling suggests increasing proportions of Category 4-5 storms as oceans warm; and the Atlantic Multidecadal Oscillation has shifted toward a warm phase favoring more active seasons. Additionally, since 1851, approximately 35 Category 5 hurricanes have occurred in the Atlantic basin, with roughly 6-7 making US landfall—suggesting a baseline probability around 15-20% per five-year window if patterns hold. The upcoming 2024 and 2025 hurricane seasons (peak months: August-October in both years) represent critical observation windows where early track record could shift trader positioning significantly.
 
-Traders should monitor NOAA's seasonal hurricane forecasts released in May and updated in August each year, which provide anticipated storm counts and overall activity levels. The 2025 and 2026 pre-season forecasts will be particularly significant. Real-time tracking during peak season requires watching the National Hurricane Center's intensity estimates and forecast tracks, particularly for storms entering the Gulf or approaching Florida. Water temperature anomalies in the Main Development Region and ENSO phase (El Niño typically suppresses Atlantic hurricanes while La Niña enhances activity) serve as leading indicators months in advance.
+The bear case emphasizes that landfall probability is substantially lower than formation probability; most Category 5 hurricanes weaken before reaching the US, and many track away from populated coasts entirely. The National Hurricane Center's forecast models have improved markedly in recent years, and land interaction and wind shear often degrade systems before impact. Critically, the resolution of this market requires direct Category 5 classification at landfall—marginal storms peaking at Category 4 before losing intensity over land would not settle YES. Historical data from 1980-2023 shows only one US Category 5 landfall (Hurricane Michael in 2018), suggesting the true five-year probability may cluster closer to 10%.
+
+Watch for National Hurricane Center intensity forecasts and sea surface temperature readings in July-September 2024 and 2025, real-time satellite wind speed data during any developing systems (NOAA's methodology for Category 5 determination uses sustained winds ≥157 mph and is rigorous), and the actual expiration mechanics—this market resolves on December 31, 2026, so any Category 5 making landfall during the 2026 season (even in December) counts. Any major ocean warming spikes or significant early-season Category 4+ systems that barely miss landfall could trigger sharp probability repricing.
 
 ## Frequently Asked Questions
 
-### What's the technical definition that determines if a hurricane counts as Category 5 at landfall?
+### What specific wind speed threshold determines whether a hurricane qualifies for Category 5 status in this market?
 
-The storm must have sustained one-minute average winds of at least 157 mph measured at the moment the eye crosses the coastline. Post-storm reanalysis by the National Hurricane Center can later reclassify storms based on evidence like damage indicators, so the official determination may come weeks or months after landfall.
+The NOAA Saffir-Simpson Scale classifies Category 5 as sustained winds of 157+ mph, and this market's settlement will depend on official National Hurricane Center documentation at the moment of landfall or peak intensity near land.
 
-### How does rapid intensification affect the probability of a Category 5 landfall?
+### Does a storm need to be *classified* as Category 5 while making landfall, or can it count if it reached Category 5 intensity earlier in its lifecycle?
 
-Rapid intensification—when a storm strengthens 35+ mph in 24 hours—has become more common in warming waters and can catch forecasters by surprise, giving storms less time to weaken before landfall. Hurricane Michael intensified to Category 5 just before its 2018 Florida Panhandle landfall, demonstrating how this phenomenon increases the chances of peak-intensity impacts.
+The market language "make landfall" typically implies the storm must be at Category 5 strength at or immediately before the point of US land contact; weakening to Category 4 before crossing the coast would likely not resolve YES depending on exact settlement criteria from the market operator.
 
-### Which US coastlines face the highest risk for Category 5 landfall before 2027?
+### How do sea surface temperature anomalies in August 2024 relate to this market's probability?
 
-The Florida Peninsula and Gulf Coast from Texas to Alabama present the greatest risk due to consistently warm Gulf waters and favorable storm tracks. The Southeast Atlantic coast faces lower but non-zero probability, while Category 5 landfalls north of the Carolinas are virtually unprecedented due to cooler waters.
+Anomalies exceeding +0.5°C above baseline in the Main Development Region (10-20°
 
 ## Learn More
 

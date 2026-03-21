@@ -9,9 +9,8 @@ expiryDate: 2026-07-01
 tags: ["polymarket", "sports"]
 polymarketYes: 1.1
 polymarketNo: 98.9
-polymarketVolume: 9740356
+polymarketVolume: 9748752
 polymarketUrl: "https://polymarket.com/event/will-the-miami-heat-win-the-2026-nba-finals"
-analysisDate: 2026-03-21
 ---
 
 The Miami Heat are currently viewed as extreme long shots to win the 2026 NBA Finals, with traders pricing their chances at roughly 1-in-90, reflecting significant skepticism about the franchise's medium-term trajectory in an increasingly competitive Eastern Conference.

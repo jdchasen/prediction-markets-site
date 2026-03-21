@@ -1,17 +1,16 @@
 ---
 title: "Will the Florida Panthers win the 2026 NHL Stanley Cup?"
-description: "Will the Florida Panthers win the 2026 NHL Stanley Cup? Odds: 0.4% YES on Polymarket. See live prices and trade this market."
+description: "Will the Florida Panthers win the 2026 NHL Stanley Cup? Odds: 0.3% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Florida Panthers win the 2026 NHL Stanley Cup?"
 category: "sports"
 status: "active"
 lastUpdated: 2026-03-21
 expiryDate: 2026-06-30
 tags: ["polymarket", "sports"]
-polymarketYes: 0.4
+polymarketYes: 0.3
 polymarketNo: 99.7
-polymarketVolume: 973008
+polymarketVolume: 978529
 polymarketUrl: "https://polymarket.com/event/will-the-florida-panthers-win-the-2026-nhl-stanley-cup"
-analysisDate: 2026-03-21
 ---
 
 The Florida Panthers are currently priced as extreme longshots to capture the 2026 Stanley Cup at just 0.4% on Polymarket, reflecting skepticism about their ability to sustain championship-level performance two years from now despite being recent contenders who won the Cup in 2024.

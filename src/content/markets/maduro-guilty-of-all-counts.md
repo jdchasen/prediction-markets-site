@@ -9,9 +9,8 @@ expiryDate: 2027-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 31.5
 polymarketNo: 68.5
-polymarketVolume: 97908
+polymarketVolume: 97918
 polymarketUrl: "https://polymarket.com/event/maduro-guilty-of-all-counts"
-analysisDate: 2026-03-21
 ---
 
 Traders are pricing in roughly one-in-three odds that Venezuelan President Nicolás Maduro will be convicted on all counts in a potential criminal prosecution, reflecting deep skepticism about whether he'll ever face comprehensive legal accountability despite mounting international pressure and investigations. This market matters as a barometer of whether the international community can successfully prosecute an authoritarian leader still in power, with implications for similar cases worldwide.

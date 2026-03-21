@@ -3,7 +3,7 @@ title: "Will 9z win Blast Open Rotterdam 2026? "
 description: "Will 9z win Blast Open Rotterdam 2026?  Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will 9z win Blast Open Rotterdam 2026? "
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-21
 expiryDate: 2026-03-29
 tags: ["politics", "polymarket"]

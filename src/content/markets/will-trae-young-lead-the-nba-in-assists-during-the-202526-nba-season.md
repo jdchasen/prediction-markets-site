@@ -9,47 +9,48 @@ expiryDate: 2026-04-12
 tags: ["polymarket", "sports"]
 polymarketYes: 0.5
 polymarketNo: 99.5
-polymarketVolume: 97284
+polymarketVolume: 97659
 polymarketUrl: "https://polymarket.com/event/nba-2025-26-apg-leader-trae-young"
+analysisDate: 2026-03-21
 ---
 
-# Trae Young Assists Leader Analysis
+# Trae Young Assists Leader Market Analysis
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.9% | 99.1% | $97K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.5% | 99.5% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The 0.9% odds reflect near-consensus skepticism that Trae Young will lead the NBA in assists during 2025–26, despite his career positioning as an elite playmaker. This market matters because it isolates one specific achievement threshold rather than broader team performance, creating a narrow but measurable outcome that hinges on both Young's individual play and competitive landscape shifts across the league.
+At 0.5% implied probability, this market prices in an extremely unlikely outcome, reflecting the structural challenges Trae Young faces in accumulating the highest assist total across an entire NBA season. The ultra-low odds suggest serious doubts about his capacity to lead the league in a metric increasingly dominated by high-usage playmakers on high-scoring offenses, making this a contrarian bet that would require significant roster and performance shifts for Atlanta.
 
-The bull case centers on Trae's consistent assist volume and usage rate. Young averaged 10.8 assists per game in 2024–25 and has consistently ranked in the league's top 5 for assist leaders. If he maintains 10+ APG and no other point guard significantly elevates their playmaking role, he enters the conversation. The Hawks' roster composition matters critically here—if Atlanta adds complementary creators around Young, his assist opportunities may actually decrease due to ball distribution, but if the roster stagnates, he could see higher volume. Injury to rival playmakers like Luka Dončić, Nikola Jokić (in his facilitating capacity), or Tyrese Haliburton would dramatically shift probability upward.
+The bull case rests on Trae's proven elite playmaking ability—he averaged 9.0 APG last season and has consistently ranked among the league's top assisters. If the Hawks restructure their offense around him as the primary ball-handler, eliminate competing usage patterns, and he maintains health over 82 games, he could realistically post 10+ assists per game. A deep playoff run combined with high offensive volume in the regular season could carry him past competitors. Additionally, younger stars like Luka Dončić and Jalen Brunson, who typically compete in this race, could see reduced minutes or usage due to injuries or team load management, creating a relative advantage.
 
-The bear case is substantially stronger. Jokić averaged 11.8 APG in recent seasons and remains a central playmaking hub regardless of role; Dončić and Haliburton are both younger and in high-volume systems. Young's assist rate has plateaued rather than grown, and Atlanta's competitive window may push toward roster changes that actually reduce his touches. Additionally, the 2025–26 season runs through April 2026, meaning the entire regular season plus any deadline trades will impact final numbers—a mid-season Hawks rebuild could tank his assists if Atlanta prioritizes youth development.
+The bear case is more compelling: Trae hasn't led the league in assists since 2020-21 and faces entrenched competitors with better team situations. Luka Dončić (Dallas's cornerstone with heavy usage), Jalen Brunson (Knicks' elevated offensive role), and Nikola Jokic (Denver's MVP-caliber hub) all operate in higher-leverage offensive systems. More critically, Young plays for the Hawks, a team likely to distribute playmaking responsibility and potentially compete in the East playoffs, which limits minutes and volume. Injury history across the league is unpredictable, but Young's own injury record (wrist, ankle issues) adds risk over 82 games.
 
-Traders should monitor three specific catalysts: Atlanta's offseason roster decisions (free agency moves through July 2025), the Hawks' win-loss record through January 2026 (which may trigger deadline trades), and injury reports for competing playmakers entering the stretch run. Trae would need a near-perfect storm—sustained 11+ APG volume, no significant competition intensifying their playmaking roles, and stable teammates through April 2026—making these 0.9% odds roughly accurate from a probabilistic standpoint.
+Watch for three catalysts: the Hawks' offseason roster moves and coaching adjustments (likely announced by October 2025), early-season performance trends through November-December 2025 that signal whether Trae's touches are increasing, and injury reports affecting top competitors by mid-season. If Brunson or Dončić suffer significant injuries by All-Star break (February 2026), odds could shift materially, but at current pricing, the market is essentially pricing this as a long-shot hedge rather than a genuine expectation.
 
 ## Related Markets
 
 - [Will the Dallas Mavericks win the 2026 NBA Finals?](/odds/will-the-dallas-mavericks-win-the-2026-nba-finals) — 0% YES
 - [Will the Miami Heat win the 2026 NBA Finals?](/odds/will-the-miami-heat-win-the-2026-nba-finals) — 1% YES
-- [Will the Vegas Golden Knights win the 2026 NHL Stanley Cup?](/odds/will-the-vegas-golden-knights-win-the-2026-nhl-stanley-cup) — 6% YES
+- [Will the Phoenix Suns win the 2026 NBA Finals?](/odds/will-the-phoenix-suns-win-the-2026-nba-finals) — 1% YES
 
 ## Frequently Asked Questions
 
-### Has Trae Young ever led the NBA in assists in a full season?
+### What assist-per-game average would Trae Young realistically need to win this market?
 
-No. He has finished top-5 multiple times but has never led the league, with peak seasons around 9.3–10.8 APG, consistently trailing Jokić and other high-volume facilitators.
+Approximately 10.5+ APG over the full season, as this typically falls within or above the league-leading range; he'd also need competitors to stay below 10.2 APG.
 
-### How much would Trae's assist average need to increase to realistically compete for the title?
+### How much does Trae's injury history impact the 0.5% odds?
 
-He would likely need to reach 11.5+ APG consistently, which would require increased ball-handling volume and fewer complementary creators on the Hawks—a scenario that conflicts with roster-building priorities.
+Significantly—traders are factoring in durability risk over 82 games plus playoffs, since any extended absence (wrist, ankle issues) in a compressed season severely limits his volume and consistency needed to lead.
 
-### Could a mid-season trade deadline deal improve or hurt Trae's odds?
+### Could the Hawks' playoff success actually hurt Trae's chances of leading in regular-season assists?
 
-A trade sending Trae to a better playmaking situation could improve odds, but Atlanta dealing him away is unlikely given his contract; internal roster changes more likely reduce his assist opportunities if the Hawks become less competitive.
+Yes; heavy playoff rotation would reduce his regular-season sample, and teams often manage star playmakers' minutes in playoff years, whereas deeper bench rotations in non-contenders can inflate assist totals.
 
 ## Learn More
 

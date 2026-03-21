@@ -3,7 +3,7 @@ title: "AI data center moratorium passed before 2027?"
 description: "AI data center moratorium passed before 2027? Odds: 35.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "AI data center moratorium passed before 2027?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-21
 expiryDate: 2026-12-31
 tags: ["ai", "politics", "polymarket"]

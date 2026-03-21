@@ -1,53 +1,54 @@
 ---
 title: "Tim Walz charged by December 31, 2026?"
-description: "Tim Walz charged by December 31, 2026? Odds: 20.5% YES on Polymarket. See live prices and trade this market."
+description: "Tim Walz charged by December 31, 2026? Odds: 22.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Tim Walz charged by December 31, 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-03-21
 expiryDate: 2026-03-31
 tags: ["politics", "polymarket"]
-polymarketYes: 20.5
-polymarketNo: 79.5
-polymarketVolume: 98351
+polymarketYes: 22.5
+polymarketNo: 77.5
+polymarketVolume: 98462
 polymarketUrl: "https://polymarket.com/event/tim-walz-charged-by-december-31-2026"
+analysisDate: 2026-03-21
 ---
 
-The prediction market gives Tim Walz less than a one-in-five chance of facing criminal charges by the end of 2026, reflecting broad skepticism that the Minnesota governor and former vice presidential candidate has exposure to prosecutable offenses despite intensified Republican scrutiny following the 2024 campaign.
+The market pricing Tim Walz's potential criminal charges at roughly 1-in-4 odds reflects significant uncertainty around the Minnesota governor's legal exposure, particularly given his position as Vice Presidential nominee in the 2024 election and heightened scrutiny that accompanies national campaigns.
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 18.5% | 81.5% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 22.5% | 77.5% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The bull case for charges centers on potential federal investigations into Minnesota's COVID-era programs, particularly the $250 million Feeding Our Future fraud scandal that occurred under Walz's administration. While Walz hasn't been directly implicated, traders betting YES likely anticipate that ongoing FBI investigations could expand to examine oversight failures or that House Republican committees will uncover evidence warranting DOJ referral. Political pressure from a Republican-controlled House through 2026 could maintain investigative momentum, and any connection to campaign finance irregularities from his VP run would accelerate timelines. The market extends through December 2026, providing a nearly three-year window for investigations to develop and charges to materialize.
+The bull case for charges centers on potential investigations into Walz's handling of the 2020 Minneapolis riots response, questions about his military service record claims that surfaced during the VP campaign, or financial disclosure issues that could emerge from opposition research. Federal prosecutors or Minnesota state authorities could pursue charges related to misconduct in office, false statements, or campaign finance violations. The timeline extending through December 2026 provides ample opportunity for investigations to develop, especially if Republicans control investigative committees after 2024 elections or if a new administration's DOJ takes interest. Historical precedent shows governors face legal jeopardy—Illinois alone has seen multiple governors charged and convicted in recent decades.
 
-The bear case is considerably stronger given the absence of evidence connecting Walz personally to criminal conduct. Minnesota's Feeding Our Future prosecutions have focused on fraudsters who exploited pandemic programs, not state officials who administered them. Walz faces reelection in November 2026, and Minnesota's DFL-controlled state apparatus would likely shield him from state-level charges. Federal prosecutors have shown no indication of investigating Walz himself, and the DOJ historically avoids charging sitting governors without overwhelming evidence. The 18.5% probability appears to price in mostly tail risk scenarios rather than concrete investigative developments.
+The bear case recognizes that charging a sitting governor and former VP nominee requires extraordinary evidence of wrongdoing. Walz has no apparent major scandals in his gubernatorial tenure, and the claims about his military service, while politically damaging, don't constitute criminal matters. Minnesota's divided government and professional prosecutorial standards make politically motivated charges unlikely. The 22.5% probability may overestimate risk based on speculation rather than concrete evidence of criminal activity. Most political controversies, even those involving intense partisan scrutiny, don't result in criminal charges.
 
-Key catalysts to monitor include the conclusion of Feeding Our Future trials throughout 2025, which could reveal (or fail to reveal) evidence of state-level misconduct. House Oversight Committee hearings in early 2025 may signal whether Republicans pursue Walz aggressively or focus elsewhere. Minnesota's 2026 gubernatorial primary filing deadline in June 2026 matters because an indictment before then would dramatically reshape the race, while charges after his potential reelection in November 2026 seem less politically motivated. Traders should track whether any plea deals in ongoing Minnesota fraud cases implicate state officials and monitor for unusual grand jury activity in the District of Minnesota.
+Key catalysts include the November 2024 election outcome and whether Republicans gain subpoena power in Congress, Minnesota's legislative session beginning January 2025 where new investigations could launch, and any announcements from the FBI or DOJ about investigations into Minnesota state government. Traders should monitor local Minnesota media for investigative reporting, federal court filings in Minnesota districts, and whether Walz seeks reelection as governor in 2026 or pursues other political opportunities that might affect his legal exposure.
 
 ## Related Markets
 
 - [Will Alexandria Ocasio-Cortez win the 2028 US Presidential Election?](/odds/will-alexandria-ocasio-cortez-win-the-2028-us-presidential-election) — 5% YES
-- [Will Emmanuel Grégoire win the Paris mayor election?](/odds/will-emmanuel-grgoire-win-the-paris-mayor-election) — 78% YES
-- [Will Azerbaijan win Eurovision 2026?](/odds/will-azerbaijan-win-eurovision-2026) — 0% YES
+- [Will Chris Murphy win the 2028 Democratic presidential nomination?](/odds/will-chris-murphy-win-the-2028-democratic-presidential-nomination) — 1% YES
+- [Will Greece win Eurovision 2026?](/odds/will-greece-win-eurovision-2026) — 6% YES
 
 ## Frequently Asked Questions
 
-### Does this market resolve YES if Walz is charged only at the state level, or must charges be federal?
+### Would charges filed in early January 2027 resolve this market as YES or NO?
 
-The market resolves YES for any criminal charges, whether federal, state, or local. The jurisdiction doesn't matter as long as formal charges are filed by December 31, 2026.
+This market resolves NO since it specifically requires charges by December 31, 2026. The expiry date of March 31, 2027 only determines when the market settles, not the deadline for charges to occur.
 
-### Would charges related to Walz's time in Congress rather than as governor count toward resolution?
+### What types of charges would qualify for YES resolution in this market?
 
-Yes, any criminal charges against Tim Walz regardless of which period of his career they relate to would trigger a YES resolution, as the market doesn't specify that charges must stem from his gubernatorial actions.
+Any criminal charges filed by federal, state, or local prosecutors would likely qualify, including felonies or misdemeanors. Civil charges, ethics violations, or impeachment proceedings would not count as criminal charges.
 
-### How does Walz potentially winning or losing the 2026 Minnesota governor's race affect the likelihood of charges?
+### How would Walz's status as VP (if the ticket wins) affect the likelihood of charges?
 
-A loss in November 2026 would remove political complications around charging a sitting governor and eliminate concerns about disrupting state government, potentially increasing the probability of charges in the final two months before the market's deadline.
+A sitting Vice President would have greater legal protections and DOJ policy against charging sitting executive officers could apply, potentially reducing charge probability. However, state-level charges from Minnesota prosecutors would remain possible regardless of federal office.
 
 ## Learn More
 

@@ -3,7 +3,7 @@ title: "Miami Open: Aleksandar Vukic vs Rafael Jodar"
 description: "Miami Open: Aleksandar Vukic vs Rafael Jodar Odds: 22.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Miami Open: Aleksandar Vukic vs Rafael Jodar"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-21
 expiryDate: 2026-03-27
 tags: ["politics", "polymarket"]

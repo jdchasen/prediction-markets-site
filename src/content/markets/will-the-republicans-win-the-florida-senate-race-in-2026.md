@@ -3,7 +3,7 @@ title: "Will the Republicans win the Florida Senate race in 2026?"
 description: "Will the Republicans win the Florida Senate race in 2026? Odds: 84.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Republicans win the Florida Senate race in 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-21
 tags: ["politics", "polymarket"]
 polymarketYes: 84.0

@@ -8,10 +8,9 @@ lastUpdated: 2026-03-21
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 1.6
-polymarketNo: 98.5
-polymarketVolume: 98293
+polymarketNo: 98.4
+polymarketVolume: 98501
 polymarketUrl: "https://polymarket.com/event/will-yariv-levin-be-the-next-prime-minister-of-israel"
-analysisDate: 2026-03-21
 ---
 
 Yariv Levin, Israel's current Justice Minister and a senior Likud member, trades at minimal odds to become Prime Minister by end of 2026, reflecting both his controversial profile from the judicial overhaul push and the structural challenges of displacing Netanyahu within Likud's power dynamics.

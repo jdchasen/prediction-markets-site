@@ -3,7 +3,7 @@ title: "Will Fidesz-KDNP win <70 seats in the Hungarian National Assembly in thi
 description: "Will Fidesz-KDNP win <70 seats in the Hungarian National Assembly in this election? Odds: 15.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Fidesz-KDNP win <70 seats in the Hungarian National Assembly in this election?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-21
 expiryDate: 2026-04-12
 tags: ["elections", "politics", "polymarket"]

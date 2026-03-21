@@ -3,7 +3,7 @@ title: "Will the maximum Arctic sea ice extent this winter be between 14.2m & 14
 description: "Will the maximum Arctic sea ice extent this winter be between 14.2m & 14.4m square kilometers? Odds: 92.5% YES on Polymarket. See live prices and trade this ..."
 marketQuestion: "Will the maximum Arctic sea ice extent this winter be between 14.2m & 14.4m square kilometers?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-21
 expiryDate: 2026-04-01
 tags: ["politics", "polymarket"]

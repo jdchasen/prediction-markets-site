@@ -3,7 +3,7 @@ title: "Zhejiang Golden Bulls vs. Jilin Northeast Tigers"
 description: "Zhejiang Golden Bulls vs. Jilin Northeast Tigers Odds: 92.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Zhejiang Golden Bulls vs. Jilin Northeast Tigers"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-21
 expiryDate: 2026-03-28
 tags: ["politics", "polymarket"]

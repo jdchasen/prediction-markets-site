@@ -1,17 +1,16 @@
 ---
 title: "Callum Turner announced as next James Bond?"
-description: "Callum Turner announced as next James Bond? Odds: 22.0% YES on Polymarket. See live prices and trade this market."
+description: "Callum Turner announced as next James Bond? Odds: 23.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Callum Turner announced as next James Bond?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-03-21
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
-polymarketYes: 22.0
-polymarketNo: 78.0
-polymarketVolume: 96964
+polymarketYes: 23.5
+polymarketNo: 76.5
+polymarketVolume: 97555
 polymarketUrl: "https://polymarket.com/event/callum-turner-announced-as-next-james-bond"
-analysisDate: 2026-03-21
 ---
 
 # Callum Turner as Next James Bond: Market Analysis

@@ -11,7 +11,6 @@ polymarketYes: 9.8
 polymarketNo: 90.2
 polymarketVolume: 9842
 polymarketUrl: "https://polymarket.com/event/will-waymo-launch-in-denver-by-june-30-2026"
-analysisDate: 2026-03-21
 ---
 
 # Waymo Denver Launch Prediction Market Analysis

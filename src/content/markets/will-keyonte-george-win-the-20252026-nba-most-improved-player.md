@@ -9,9 +9,8 @@ expiryDate: 2026-06-30
 tags: ["polymarket", "sports"]
 polymarketYes: 0.7
 polymarketNo: 99.4
-polymarketVolume: 9739
+polymarketVolume: 9742
 polymarketUrl: "https://polymarket.com/event/nba-2025-26-most-improved-player-keyonte-george"
-analysisDate: 2026-03-21
 ---
 
 # Keyonte George MIP Analysis

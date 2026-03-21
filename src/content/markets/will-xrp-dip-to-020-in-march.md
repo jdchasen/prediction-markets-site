@@ -3,7 +3,7 @@ title: "Will XRP dip to $0.20 in March?"
 description: "Will XRP dip to $0.20 in March? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will XRP dip to $0.20 in March?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-21
 expiryDate: 2026-04-01
 tags: ["politics", "polymarket"]

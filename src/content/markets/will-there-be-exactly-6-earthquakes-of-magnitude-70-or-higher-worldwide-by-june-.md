@@ -1,55 +1,54 @@
 ---
 title: "Will there be exactly 6 earthquakes of magnitude 7.0 or higher worldwide by June 30?"
-description: "Will there be exactly 6 earthquakes of magnitude 7.0 or higher worldwide by June 30? Odds: 22.0% YES on Polymarket. See live prices and trade this market."
+description: "Will there be exactly 6 earthquakes of magnitude 7.0 or higher worldwide by June 30? Odds: 22.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will there be exactly 6 earthquakes of magnitude 7.0 or higher worldwide by June 30?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-03-21
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
-polymarketYes: 22.0
-polymarketNo: 78.0
-polymarketVolume: 97898
+polymarketYes: 22.5
+polymarketNo: 77.5
+polymarketVolume: 99473
 polymarketUrl: "https://polymarket.com/event/will-there-be-exactly-6-earthquakes-of-magnitude-7pt0-or-higher-worldwide-by-june-30"
+analysisDate: 2026-03-21
 ---
 
-# Earthquake Magnitude 7.0+ Market Analysis
+Traders are pricing just over one-in-five odds that exactly six major earthquakes will strike globally through mid-2026, a precise numerical target that makes this an unusual geophysical prediction market with little room for error.
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 21.5% | 78.5% | $96K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 22.5% | 77.5% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-This market's 21.5% odds reflect genuine scientific uncertainty about seismic activity over an 18-month window, though the categorization as "politics" appears to be a platform error since earthquake frequency is purely a geological matter with no political dimension. The pricing suggests traders view exactly six magnitude 7.0+ events as a meaningful but below-baseline outcome compared to historical trends.
+The bull case rests on historical patterns showing reasonable consistency in major earthquake frequency. From 2000-2023, the annual average of magnitude 7.0+ earthquakes worldwide was approximately 15 events per year, though with significant yearly variation ranging from 6 to 24. If 2024 through June 2025 has already produced several such quakes, reaching exactly six by the June 30, 2026 deadline becomes more plausible as the market can track toward that specific number. The Pacific Ring of Fire maintains constant tectonic activity, and seismologists note that strain accumulation in subduction zones near Japan, Indonesia, and Chile suggests elevated probability for major events in this timeframe.
 
-The bull case for six earthquakes relies on elevated seismic activity in key zones. The Pacific Ring of Fire, particularly regions around Japan, Indonesia, and the west coasts of North and South America, experiences frequent major earthquakes. Recent years have seen increased activity in the Ridgecrest area of California, the Hikurangi subduction zone near New Zealand, and Sumatra. If multiple subduction zones activate simultaneously between now and June 2026—a scenario with ~15-20% historical probability—the six-event threshold becomes plausible. Additionally, larger magnitude events sometimes trigger secondary earthquakes in nearby fault systems, potentially clustering events.
+The bear case highlights the extreme difficulty of hitting a precise count rather than a range. Getting exactly six earthquakes requires not only sufficient seismic activity (not landing at four or five) but also not exceeding the target. Historical data shows that magnitude 7.0+ events cluster unpredictably—2011 saw 19 such quakes largely due to aftershock sequences following the Tōhoku earthquake, while 2008 had only 12. A single major earthquake can trigger multiple subsequent events above the magnitude threshold, easily overshooting six. Additionally, the 18-month window from now until expiry makes the exact count highly sensitive to whether any megathrust events occur, which could cascade into the count within days.
 
-The bear case is stronger given historical baselines. Since 2000, the world averages approximately 15-18 earthquakes of magnitude 7.0 or higher annually, meaning six events over 18 months falls well below the trend line. For the market to resolve NO, seismic activity would need to drop to roughly one-third normal rates, which would require an unusual global calming. The USGS provides monthly earthquake reports that will serve as key data points; traders should monitor their M7.0+ counts throughout 2025 and early 2026 to assess whether unusual clustering or drought is occurring.
-
-Specific catalysts to watch include the USGS Earthquake Hazards Program monthly reports (released consistently) and any major seismic events above 7.0 that occur before mid-2026. Each confirmed magnitude 7.0+ earthquake will update the running tally and shift odds materially. By mid-2025, if the count sits at 3-4 events, the YES odds should rise significantly; if still under 2 events, odds should compress lower. The market's current pricing at 21.5% appears reasonable given that six events requires below-average seismic activity, making it a contrarian bet on global earthquake suppression rather than elevated activity.
+Key monitoring points include real-time USGS earthquake tracking data, which updates within minutes of any magnitude 7.0+ event globally. Traders should watch the current running count closely—if the tally reaches four or five earthquakes by late 2025 or early 2026, the probability could spike as the exact target comes within reach. Conversely, if seven events occur by March 2026, the market resolves NO immediately. Seismic activity forecasts from agencies like UNAVCO and plate boundary stress studies provide limited predictive value given earthquake unpredictability, making this primarily a statistical tracking exercise rather than one driven by identifiable catalysts.
 
 ## Related Markets
 
-- [Will J.B. Pritzker win the 2028 Democratic presidential nomination?](/odds/will-jb-pritzker-win-the-2028-democratic-presidential-nomination) — 2% YES
 - [Will Alexandria Ocasio-Cortez win the 2028 US Presidential Election?](/odds/will-alexandria-ocasio-cortez-win-the-2028-us-presidential-election) — 5% YES
-- [Will France win Eurovision 2026?](/odds/will-france-win-eurovision-2026) — 12% YES
+- [Will Chris Murphy win the 2028 Democratic presidential nomination?](/odds/will-chris-murphy-win-the-2028-democratic-presidential-nomination) — 1% YES
+- [Will Greece win Eurovision 2026?](/odds/will-greece-win-eurovision-2026) — 6% YES
 
 ## Frequently Asked Questions
 
-### How many magnitude 7.0+ earthquakes typically occur globally per year, and what does that imply for this market?
+### How is the earthquake count being tracked and what constitutes the official count for market resolution?
 
-The historical average is 15-18 per year worldwide, meaning six events over 18 months represents roughly one-third the typical rate. The market essentially prices in a significant slowdown in major seismic activity.
+Resolution typically relies on USGS or similar authoritative seismological databases that catalog all magnitude 7.0+ earthquakes globally. Aftershocks count separately if they individually meet the magnitude threshold, which significantly complicates hitting the exact number.
 
-### What role do aftershocks and foreshocks play in whether events get counted toward the six?
+### What happens if we're at five earthquakes by June 15, 2026—does the market become highly volatile?
 
-The USGS uses strict criteria distinguishing independent earthquakes from aftershock sequences; typically only the main shock counts toward the total, so a major event's secondary tremors won't inflate the count.
+Yes, extreme volatility would occur as traders bet on whether exactly one more qualifying earthquake strikes in the final two weeks versus zero or multiple events. The precision requirement makes end-game scenarios particularly sensitive to daily seismic monitoring.
 
-### Which geographic regions should traders monitor most closely to assess market probability?
+### Why is this categorized under politics rather than science or general events?
 
-The subduction zones around Japan, Indonesia, and the circum-Pacific region account for roughly 80% of magnitude 7.0+ events, so increased activity there in 2025 would be the primary signal shifting odds upward.
+This appears to be a miscategorization, as earthquake occurrence has no political component. The market should logically fall under science, nature, or general prediction categories rather than politics, which may affect its visibility to relevant traders.
 
 ## Learn More
 

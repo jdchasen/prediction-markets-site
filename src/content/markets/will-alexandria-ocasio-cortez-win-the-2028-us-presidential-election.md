@@ -9,9 +9,8 @@ expiryDate: 2028-11-07
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 4.8
 polymarketNo: 95.2
-polymarketVolume: 9946625
+polymarketVolume: 9956858
 polymarketUrl: "https://polymarket.com/event/will-alexandria-ocasio-cortez-win-the-2028-us-presidential-election"
-analysisDate: 2026-03-21
 ---
 
 The market pricing AOC's 2028 presidential chances at under 5% reflects significant skepticism about her path to the Democratic nomination, though she represents a prominent progressive voice with growing national profile and would be 38 years old—meeting the constitutional age requirement just in time.

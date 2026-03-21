@@ -8,10 +8,9 @@ lastUpdated: 2026-03-21
 expiryDate: 2026-03-31
 tags: ["politics", "polymarket"]
 polymarketYes: 1.1
-polymarketNo: 98.9
-polymarketVolume: 97157
+polymarketNo: 99.0
+polymarketVolume: 97425
 polymarketUrl: "https://polymarket.com/event/will-crude-oil-cl-settle-at-60-65-in-march-449"
-analysisDate: 2026-03-21
 ---
 
 # Crude Oil Price Prediction Analysis

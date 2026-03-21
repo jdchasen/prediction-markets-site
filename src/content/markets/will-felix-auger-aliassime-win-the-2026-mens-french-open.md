@@ -3,7 +3,7 @@ title: "Will Felix Auger Aliassime win the 2026 Men's French Open?"
 description: "Will Felix Auger Aliassime win the 2026 Men's French Open? Odds: 0.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Felix Auger Aliassime win the 2026 Men's French Open?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-21
 expiryDate: 2026-06-07
 tags: ["politics", "polymarket"]

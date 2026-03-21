@@ -9,9 +9,8 @@ expiryDate: 2026-12-31
 tags: ["finance", "polymarket"]
 polymarketYes: 12.5
 polymarketNo: 87.5
-polymarketVolume: 97987
+polymarketVolume: 97992
 polymarketUrl: "https://polymarket.com/event/vanta-ipo-before-2027"
-analysisDate: 2026-03-21
 ---
 
 The cybersecurity compliance startup Vanta currently trades at just 12.5% odds for an IPO before 2027, reflecting significant market skepticism despite the company's strong fundamentals and over $150 million in ARR as of late 2023. This market matters because it serves as a real-time gauge of IPO window sentiment for high-growth SaaS companies in an environment where the technology public offering market remains largely frozen compared to 2020-2021 levels.

@@ -11,7 +11,6 @@ polymarketYes: 26.6
 polymarketNo: 73.5
 polymarketVolume: 9888
 polymarketUrl: "https://polymarket.com/event/will-ed-hale-win-the-2026-maryland-governor-republican-primary-election"
-analysisDate: 2026-03-21
 ---
 
 # Maryland 2026 Republican Governor Primary Analysis

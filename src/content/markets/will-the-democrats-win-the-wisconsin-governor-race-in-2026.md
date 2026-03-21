@@ -3,7 +3,7 @@ title: "Will the Democrats win the Wisconsin governor race in 2026?"
 description: "Will the Democrats win the Wisconsin governor race in 2026? Odds: 75.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Democrats win the Wisconsin governor race in 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-21
 tags: ["politics", "polymarket"]
 polymarketYes: 75.0
