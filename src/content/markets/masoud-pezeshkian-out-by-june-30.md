@@ -1,53 +1,54 @@
 ---
 title: "Masoud Pezeshkian out by June 30?"
-description: "Masoud Pezeshkian out by June 30? Odds: 37.0% YES on Polymarket. See live prices and trade this market."
+description: "Masoud Pezeshkian out by June 30? Odds: 33.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Masoud Pezeshkian out by June 30?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-03-20
+lastUpdated: 2026-03-21
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 37.0
-polymarketNo: 63.0
-polymarketVolume: 97022
+polymarketYes: 33.5
+polymarketNo: 66.5
+polymarketVolume: 97138
 polymarketUrl: "https://polymarket.com/event/masoud-pezeshkian-out-by-june-30"
+analysisDate: 2026-03-21
 ---
 
-# Masoud Pezeshkian Exit Analysis
+# Analysis: Masoud Pezeshkian's Political Survival Through Mid-2026
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 41.5% | 58.5% | $97K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 33.5% | 66.5% | $97K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The market is pricing in a 41.5% chance that Iran's president exits office before June 30, 2025—a meaningful probability that reflects genuine political volatility in Tehran despite Pezeshkian's recent election. This matters because presidential turnover in Iran would signal either constitutional crisis, severe health issues, or catastrophic political collapse, each carrying major implications for nuclear negotiations, regional stability, and US-Iran relations.
+The current 33.5% probability reflects genuine uncertainty about whether Iran's president will remain in office through June 30, 2026—a relatively short timeline that captures real political volatility in Tehran's power structure. This market matters because Pezeshkian, elected in 2024, faces multiple institutional pressures that could force early departure, from parliamentary opposition to potential constitutional challenges or health crises. The modest YES odds suggest traders view his position as more stable than precarious, but the near-term expiry date (2.5 years) means many plausible scenarios could materialize.
 
-The bull case for early exit rests on Iran's history of political instability and Pezeshkian's precarious position within the regime hierarchy. He won the September 2024 election as a compromise candidate after the death of Raisi, meaning he lacks a deep factional power base and depends on Supreme Leader Khamenei's support. Health concerns are a secondary factor—Iran's presidents have faced medical crises before, and the 69-year-old Pezeshkian's cardiac background adds non-zero risk. Most critically, the hardline-dominated parliament can weaponize investigations, budgetary disputes, or impeachment procedures if Pezeshkian proves insufficiently obedient. Watch for escalation in the nuclear file or sanctions pressure that could destabilize his standing by spring 2025.
+The bull case for removal rests on Iran's factional power dynamics and the supreme leader's ultimate authority. Pezeshkian's reformist coalition lacks a parliamentary supermajority—the 2024 legislative elections returned conservative-dominated chambers—creating gridlock on policy. The Majlis (parliament) could theoretically engineer a no-confidence motion, though historically this requires supreme leader acquiescence. Additionally, health concerns (Pezeshkian is 69) or strategic shifts in Iran's foreign policy, particularly around nuclear negotiations or Gaza-related tensions, could trigger elite decisions to replace him. The June 2025 municipal elections and any major regional escalation could accelerate elite reshuffling.
 
-The bear case is stronger structurally. Pezeshkian was handpicked by Khamenei as a stabilizing figure after regional tensions spiked; removing him within 18 months would signal regime weakness, not strength. Iran's constitution and political norms strongly favor allowing elected presidents to serve full terms unless death or incapacity intervenes. The 41.5% odds appear overweighted to tail-risk scenarios (sudden cardiac event, assassination) rather than credible political removal mechanics. Barring a major external shock—Israeli military action, US escalation, or internal power struggle over succession—Pezeshkian will likely remain in office through mid-2025.
+The bear case emphasizes institutional stability and Pezeshkian's legitimacy as a relatively recent electoral choice. Supreme leader Ayatollah Khamenei's preference for maintaining some democratic facade makes sudden removal risky; the 2024 election was his preferred outcome after Raisi's death. Early removal would signal instability to international observers and complicate ongoing nuclear diplomacy. Pezeshkian also controls appointment powers and has cultivated technocratic support. The timeline to June 2026 is relatively short for forcing constitutional or parliamentary procedures that require sustained pressure.
 
-Key catalysts to monitor include US-Iran nuclear talks (resumption or collapse could destabilize him), regional flare-ups with Israel or proxy forces, and parliamentary budget negotiations scheduled for early 2025. Any significant health incident, major corruption investigation, or open defiance from hardline factions by March would sharply increase exit odds. The market's 41.5% reflects real uncertainty but likely overestimates political removal risk relative to survival baseline.
+Key catalysts include the June 2025 municipal elections (barometer of regime stability and reformist support), any escalation in Israeli-Iranian tensions or ceasefire negotiations, parliamentary votes on major legislation that could expose divisions, and announcements regarding JCPOA (nuclear deal) negotiations with incoming U.S. administrations. Traders should monitor reports from inside Tehran about supreme leader-president relations and any unexpected absences or health announcements. Watch for structural tests of presidential power—conflicts over central bank leadership, judiciary appointments, or economic policy will reveal whether Pezeshkian retains effective authority or faces systematic obstruction.
 
 ## Related Markets
 
-- [Will J.B. Pritzker win the 2028 Democratic presidential nomination?](/odds/will-jb-pritzker-win-the-2028-democratic-presidential-nomination) — 2% YES
 - [Will Alexandria Ocasio-Cortez win the 2028 US Presidential Election?](/odds/will-alexandria-ocasio-cortez-win-the-2028-us-presidential-election) — 5% YES
-- [Will France win Eurovision 2026?](/odds/will-france-win-eurovision-2026) — 12% YES
+- [Will Chris Murphy win the 2028 Democratic presidential nomination?](/odds/will-chris-murphy-win-the-2028-democratic-presidential-nomination) — 1% YES
+- [Iran leadership change by April 30?](/odds/iran-leadership-change-by-april-30) — 33% YES
 
 ## Frequently Asked Questions
 
-### What specific mechanisms could force Pezeshkian out before June 30, 2025?
+### What mechanisms could actually force Pezeshkian out before June 2026?
 
-Constitutional death or incapacity (cardiac event given his age/history), parliament-led impeachment if he defies hardliners on nuclear/sanctions issues, or assassination/internal coup if regime stability deteriorates. Political resignation is unlikely absent external coercion.
+A no-confidence parliamentary motion (requires 124+ votes) with supreme leader backing is the primary path; alternatively, constitutional disability rulings or a sudden elite decision to replace him during a major crisis. Historically, Iranian presidents rarely face formal removal, making this an unusually high-risk bet.
 
-### How does Pezeshkian's factional position compare to previous Iranian presidents at this stage?
+### How do these odds compare to typical survival rates for Iranian presidents?
 
-He lacks the independent power base of Raisi or Rouhani and is explicitly a Khamenei compromise pick, making him more vulnerable to hardline pressure but also less likely to be removed since his weakness *is* the point—Khamenei prefers controllable presidents.
+Of Iran's post-1979 presidents, only one (Mahmoud Ahmadinejad in 2009) faced serious removal threats, though none were actually ousted before completing terms. A 33.5% removal probability in 2.5 years is exceptionally high by historical precedent.
 
-### If Pezeshkian exits, who would succeed him and how?
+### Does the June 2025 municipal election outcome directly impact this market's probability?
 
-The constitution mandates the First Vice President assumes office temporarily pending elections within 50 days, but any early exit would likely trigger a regime-controlled snap election favoring a hardline candidate, significantly shifting Iran's political trajectory.
+Indirectly—a reformist collapse would signal weakness and potentially encourage conservative hardliners to move against Pezeshkian, while a strong showing would strengthen his hand and lower removal risk substantially.
 

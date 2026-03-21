@@ -3,8 +3,8 @@ title: "Will MrBeast hit 115 billion views by March 31?"
 description: "Will MrBeast hit 115 billion views by March 31? Odds: 99.6% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will MrBeast hit 115 billion views by March 31?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-20
+status: "settled"
+lastUpdated: 2026-03-21
 expiryDate: 2026-03-31
 tags: ["politics", "polymarket"]
 polymarketYes: 99.6

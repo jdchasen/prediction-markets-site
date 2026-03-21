@@ -3,8 +3,8 @@ title: "Will the Bank of Russia decrease the key rate after the April Meeting?"
 description: "Will the Bank of Russia decrease the key rate after the April Meeting? Odds: 82.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Bank of Russia decrease the key rate after the April Meeting?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-20
+status: "settled"
+lastUpdated: 2026-03-21
 expiryDate: 2026-04-24
 tags: ["politics", "polymarket"]
 polymarketYes: 82.5

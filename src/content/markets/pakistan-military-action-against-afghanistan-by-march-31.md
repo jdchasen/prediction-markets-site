@@ -3,8 +3,8 @@ title: "Pakistan military action against Afghanistan by March 31?"
 description: "Pakistan military action against Afghanistan by March 31? Odds: 55.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Pakistan military action against Afghanistan by March 31?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-20
+status: "settled"
+lastUpdated: 2026-03-21
 expiryDate: 2026-03-31
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 55.5

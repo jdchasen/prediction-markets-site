@@ -1,17 +1,16 @@
 ---
 title: "Tim Walz charged by December 31, 2026?"
-description: "Tim Walz charged by December 31, 2026? Odds: 18.5% YES on Polymarket. See live prices and trade this market."
+description: "Tim Walz charged by December 31, 2026? Odds: 20.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Tim Walz charged by December 31, 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-03-20
+lastUpdated: 2026-03-21
 expiryDate: 2026-03-31
 tags: ["politics", "polymarket"]
-polymarketYes: 18.5
-polymarketNo: 81.5
-polymarketVolume: 98048
+polymarketYes: 20.5
+polymarketNo: 79.5
+polymarketVolume: 98351
 polymarketUrl: "https://polymarket.com/event/tim-walz-charged-by-december-31-2026"
-analysisDate: 2026-03-20
 ---
 
 The prediction market gives Tim Walz less than a one-in-five chance of facing criminal charges by the end of 2026, reflecting broad skepticism that the Minnesota governor and former vice presidential candidate has exposure to prosecutable offenses despite intensified Republican scrutiny following the 2024 campaign.

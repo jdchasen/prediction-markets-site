@@ -4,14 +4,13 @@ description: "Will Perplexity not IPO by December 31, 2027? Odds: 61.5% YES on P
 marketQuestion: "Will Perplexity not IPO by December 31, 2027?"
 category: "finance"
 status: "active"
-lastUpdated: 2026-03-20
+lastUpdated: 2026-03-21
 expiryDate: 2027-12-31
 tags: ["finance", "polymarket"]
 polymarketYes: 61.5
 polymarketNo: 38.5
-polymarketVolume: 97779
+polymarketVolume: 97793
 polymarketUrl: "https://polymarket.com/event/will-perplexity-not-ipo-by-december-31-2027"
-analysisDate: 2026-03-20
 ---
 
 Traders are betting nearly two-to-one that Perplexity, the AI-powered search startup, will remain private through the end of 2027, reflecting skepticism about the company's near-term path to public markets despite its rapid growth in the generative AI sector.

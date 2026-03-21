@@ -3,8 +3,8 @@ title: "Will Brandon Miller lead the NBA in three pointers made during the 2025�
 description: "Will Brandon Miller lead the NBA in three pointers made during the 2025–26 NBA season? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Brandon Miller lead the NBA in three pointers made during the 2025–26 NBA season?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-03-20
+status: "settled"
+lastUpdated: 2026-03-21
 expiryDate: 2026-04-12
 tags: ["polymarket", "sports"]
 polymarketYes: 0.1

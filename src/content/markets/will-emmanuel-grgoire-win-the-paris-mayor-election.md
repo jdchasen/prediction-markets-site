@@ -3,8 +3,8 @@ title: "Will Emmanuel Grégoire win the Paris mayor election?"
 description: "Will Emmanuel Grégoire win the Paris mayor election? Odds: 77.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Emmanuel Grégoire win the Paris mayor election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-20
+status: "settled"
+lastUpdated: 2026-03-21
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 77.5
 polymarketNo: 22.5

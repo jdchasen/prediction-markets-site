@@ -3,8 +3,8 @@ title: "Yoon out of custody by March 31?"
 description: "Yoon out of custody by March 31? Odds: 0.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Yoon out of custody by March 31?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-20
+status: "settled"
+lastUpdated: 2026-03-21
 expiryDate: 2026-03-31
 tags: ["politics", "polymarket"]
 polymarketYes: 0.7

@@ -3,8 +3,8 @@ title: "Miami Open: Jelena Ostapenko vs Dayana Yastremska"
 description: "Miami Open: Jelena Ostapenko vs Dayana Yastremska Odds: 58.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Miami Open: Jelena Ostapenko vs Dayana Yastremska"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-20
+status: "settled"
+lastUpdated: 2026-03-21
 expiryDate: 2026-03-27
 tags: ["politics", "polymarket"]
 polymarketYes: 58.0

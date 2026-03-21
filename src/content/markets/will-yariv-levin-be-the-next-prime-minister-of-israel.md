@@ -4,50 +4,51 @@ description: "Will Yariv Levin be the next Prime Minister of Israel? Odds: 1.6% 
 marketQuestion: "Will Yariv Levin be the next Prime Minister of Israel?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-03-20
+lastUpdated: 2026-03-21
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 1.6
-polymarketNo: 98.4
-polymarketVolume: 96809
+polymarketNo: 98.5
+polymarketVolume: 98293
 polymarketUrl: "https://polymarket.com/event/will-yariv-levin-be-the-next-prime-minister-of-israel"
+analysisDate: 2026-03-21
 ---
 
-Yariv Levin, Israel's current Justice Minister and a senior Likud figure, faces extremely low odds of becoming Prime Minister by the end of 2026, reflecting both structural party dynamics and the dominance of Benjamin Netanyahu within Likud. This market matters because it captures succession planning within Israel's ruling party at a time when Netanyahu faces ongoing legal challenges and political pressures that could theoretically create leadership openings.
+Yariv Levin, Israel's current Justice Minister and a senior Likud member, trades at minimal odds to become Prime Minister by end of 2026, reflecting both his controversial profile from the judicial overhaul push and the structural challenges of displacing Netanyahu within Likud's power dynamics.
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 1.5% | 98.6% | $96K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 1.6% | 98.5% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The bull case hinges on Netanyahu's potential inability to continue leading, whether through legal disqualification from his ongoing corruption trial, health issues, or a catastrophic political failure that forces his resignation. Levin has positioned himself as a loyal Netanyahu ally through his controversial judicial reform efforts in 2023, potentially making him acceptable to the party's base as a continuity candidate. If Netanyahu were forced out before the next scheduled election in 2026, Levin's role as Justice Minister and his standing in Likud's central committee could position him for an internal party succession. Additionally, Israel's coalition dynamics could shift dramatically if war developments in Gaza or Lebanon create political instability requiring new elections.
+The bear case dominates this market: Netanyahu shows no indication of stepping aside voluntarily, and Levin became one of Israel's most polarizing figures during 2023's judicial reform crisis, making him toxic to centrist voters needed for coalition-building. Within Likud, he faces competition from more popular figures like Israel Katz and Yoav Gallant for any succession scenario. His hardline positioning during the overhaul protests, where hundreds of thousands demonstrated against his proposals, severely damaged his broader electability. Even if Netanyahu exits due to legal issues or health concerns before 2026, Likud primaries would likely favor candidates with stronger public approval ratings and less baggage from the constitutional crisis.
 
-The bear case is substantially stronger. Netanyahu has repeatedly demonstrated an ability to survive political crises, and Likud leadership succession historically doesn't favor sitting ministers without independent power bases. Recent polling shows no significant groundswell of support for Levin as a future leader, with other Likud figures like Nir Barkat and Israel Katz typically polling higher in hypothetical successor scenarios. Levin's association with the deeply unpopular judicial overhaul attempt in 2023—which sparked massive protests and was eventually paused—has damaged his broader appeal beyond the hard-right base. Most critically, even if Netanyahu exits, Levin would face competition from multiple senior Likud members in any leadership primary.
+The bull case requires a narrow path: Netanyahu's departure from politics combined with Levin consolidating the Likud right wing in a fractured primary field. If criminal proceedings against Netanyahu accelerate or coalition instability forces early elections in 2025, an internal Likud succession battle could emerge. Levin maintains strong ideological credentials with the party base and has demonstrated organizational capability as Justice Minister. A scenario where multiple centrist Likud candidates split the moderate vote could allow Levin to win a plurality in primaries, similar to how factional candidates sometimes emerge in divided fields.
 
-Key catalysts to monitor include Netanyahu's trial proceedings, particularly any verdict in the corruption cases which could emerge in late 2025 or 2026. The next scheduled Knesset election in 2026 represents a critical juncture, though early elections remain possible if the coalition collapses. Watch for Likud internal polling and central committee movements, as well as any signs of Levin building an independent political operation separate from Netanyahu's shadow. Coalition stability and potential defections from smaller right-wing parties could trigger early elections that reshape the timeline entirely.
+Key catalysts include Netanyahu's ongoing trial proceedings, with court sessions continuing through 2024-2025, any coalition collapse that might trigger Likud leadership questions, and potential health issues given Netanyahu's age (75). The next scheduled Israeli elections are not until 2026 unless the current coalition fractures earlier. Traders should monitor Likud internal polling, Netanyahu's legal calendar, and whether coalition partners like Ben-Gvir or Smotrich create government crises that could destabilize the current arrangement.
 
 ## Related Markets
 
-- [Will J.B. Pritzker win the 2028 Democratic presidential nomination?](/odds/will-jb-pritzker-win-the-2028-democratic-presidential-nomination) — 2% YES
 - [Will Alexandria Ocasio-Cortez win the 2028 US Presidential Election?](/odds/will-alexandria-ocasio-cortez-win-the-2028-us-presidential-election) — 5% YES
-- [Will France win Eurovision 2026?](/odds/will-france-win-eurovision-2026) — 12% YES
+- [Will Chris Murphy win the 2028 Democratic presidential nomination?](/odds/will-chris-murphy-win-the-2028-democratic-presidential-nomination) — 1% YES
+- [Iran leadership change by April 30?](/odds/iran-leadership-change-by-april-30) — 33% YES
 
 ## Frequently Asked Questions
 
-### What would need to happen for Levin to become PM without winning an election?
+### Why are Levin's odds so low despite being a senior Likud minister?
 
-Netanyahu would need to resign or be incapacitated, and Likud's central committee would need to select Levin over other senior contenders like Barkat or Katz, followed by maintaining the current coalition's confidence—an extremely unlikely sequence of events.
+His central role in the deeply unpopular judicial overhaul made him a lightning rod for opposition, with approval ratings that make him unelectable in a general election. Within Likud, other ministers maintained lower profiles during the crisis and preserve better electability.
 
-### How did Levin's judicial reform push affect his political standing for this market?
+### What would need to happen for Levin to actually become Prime Minister?
 
-The 2023 judicial overhaul attempt severely damaged Levin's approval ratings among centrist voters and even some Likud supporters, making him a weak general election candidate and reducing his viability as a consensus successor to Netanyahu.
+Netanyahu would need to exit politics unexpectedly, Levin would need to win a Likud primary against stronger candidates, and then either maintain the current right-wing coalition or somehow rebuild his centrist credibility—an extremely unlikely sequence of events.
 
-### Could this market resolve YES if Levin becomes interim PM briefly?
+### Could the ongoing war in Gaza change Levin's political positioning?
 
-The market likely requires Levin to serve as actual Prime Minister by the December 2026 deadline, so a brief interim or acting role might qualify, but traders should verify the specific resolution criteria regarding minimum tenure requirements.
+The war has somewhat overshadowed the judicial reform controversy, but Levin hasn't held a major security portfolio that would give him credentials to capitalize on wartime dynamics the way Defense Minister Gallant or other security-focused Likud figures have.
 
 ## Learn More
 

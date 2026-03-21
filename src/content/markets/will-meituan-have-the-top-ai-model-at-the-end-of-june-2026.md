@@ -1,53 +1,54 @@
 ---
 title: "Will Meituan have the top AI model at the end of June 2026?"
-description: "Will Meituan have the top AI model at the end of June 2026? Odds: 2.6% YES on Polymarket. See live prices and trade this market."
+description: "Will Meituan have the top AI model at the end of June 2026? Odds: 2.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Meituan have the top AI model at the end of June 2026?"
 category: "politics"
-status: "settled"
-lastUpdated: 2026-03-20
+status: "active"
+lastUpdated: 2026-03-21
 expiryDate: 2026-06-30
 tags: ["ai", "politics", "polymarket"]
-polymarketYes: 2.6
-polymarketNo: 97.4
-polymarketVolume: 96136
+polymarketYes: 2.5
+polymarketNo: 97.5
+polymarketVolume: 96141
 polymarketUrl: "https://polymarket.com/event/will-meituan-have-the-top-ai-model-at-the-end-of-june-2026"
+analysisDate: 2026-03-21
 ---
 
-This market captures widespread skepticism that Meituan, China's dominant food delivery and local services platform, will produce a frontier AI model competitive with OpenAI, Anthropic, or DeepSeek by mid-2026, with just 2.6% odds reflecting the company's limited AI research credentials and primary focus on logistics optimization rather than large language model development.
+This market gives Chinese food delivery giant Meituan just a 2.5% chance of developing the world's leading AI model by June 2026, reflecting deep skepticism that a company primarily known for logistics and local services can leapfrog established AI leaders in under two years.
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 2.6% | 97.4% | $96K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 2.5% | 97.5% | $96K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The bear case is straightforward: Meituan has no established track record in frontier AI research, lacks the published research presence of Baidu, Alibaba, or Tencent in this domain, and its core business centers on delivery logistics, mapping, and local commerce—areas that benefit from applied AI but don't require building state-of-the-art foundation models. The company would need to assemble a world-class research team, secure massive compute infrastructure, and leapfrog well-funded competitors like ByteDance (which already has significant LLM investments) in under two years. Chinese tech giants with far more AI investment haven't consistently produced models rated as globally superior, making Meituan's chances even more remote.
+The bear case is overwhelming: Meituan has no track record in frontier AI model development, lacks the specialized talent pipelines of Alibaba, Baidu, or ByteDance, and would need to outpace OpenAI, Anthropic, Google DeepMind, and Chinese competitors with multi-year head starts. The company's AI investments have focused on delivery routing optimization and recommendation systems rather than large language models or multimodal AI. Building competitive infrastructure for training frontier models requires years of GPU procurement, data center buildout, and research team formation—timelines that don't align with a June 2026 deadline. The market definition of "top AI model" likely references benchmark performance on standard evaluations, where current leaders already score in the 80-90% range, making incremental gains extremely difficult.
 
-The bull case relies on potential stealth development programs not yet public, massive capital deployment leveraging Meituan's $20+ billion market cap, or acquisition of AI talent/teams from struggling competitors. China's competitive AI landscape saw rapid advances in 2024-2025, with models like DeepSeek challenging Western assumptions about compute efficiency. If Meituan views AI as strategically critical for autonomous delivery, personalized recommendations, or defending market share, they could theoretically announce a major initiative. The definition of "top AI model" may also matter—if it refers specifically to certain benchmarks or Chinese domestic rankings rather than global consensus, the bar could be lower.
+The bull case hinges on Meituan's massive data advantage and potential strategic pivot. The company processes billions of real-world transactions across food delivery, hotel bookings, and local services—creating unique training data for embodied AI or multimodal models that understand physical world logistics. If Meituan announced a major acquisition of an AI research lab or partnership with a leading model developer in 2025, the probability would spike. Chinese regulatory pressure for domestic AI champions could also accelerate resource allocation, particularly if U.S. export controls tighten further on Nvidia chips, creating opportunities for Chinese firms with alternative approaches.
 
-Key catalysts to monitor include Meituan's quarterly earnings calls through 2025-2026 for any AI R&D spending announcements, Chinese government AI development initiatives that might direct resources to unexpected players, and benchmark releases from organizations like SuperCLUE or CAIS that establish what "top" means. Major AI conferences (NeurIPS in December annually, ICLR in spring) would be venues for Meituan to demonstrate serious research if they're building capacity. Watch for executive hires from leading Chinese AI labs or unusual compute infrastructure purchases that might signal hidden ambitions.
+Key catalysts include Meituan's Q1 2025 earnings call (expected late March 2025) and any AI strategy announcements at China's "Two Sessions" legislative meetings in March 2025, where tech policy priorities emerge. Watch for executive appointments of prominent AI researchers, capital expenditure guidance suggesting major GPU purchases, or partnerships with Tsinghua or Peking University AI labs. The May 2026 benchmark results from major AI evaluation suites will provide the clearest signal whether any dark horse contender is emerging.
 
 ## Related Markets
 
 - [Will Alexandria Ocasio-Cortez win the 2028 US Presidential Election?](/odds/will-alexandria-ocasio-cortez-win-the-2028-us-presidential-election) — 5% YES
-- [Will J.B. Pritzker win the 2028 Democratic presidential nomination?](/odds/will-jb-pritzker-win-the-2028-democratic-presidential-nomination) — 3% YES
-- [Will OpenAI have the best AI model at the end of March 2026?](/odds/will-openai-have-the-best-ai-model-at-the-end-of-march-2026) — 1% YES
+- [Will Chris Murphy win the 2028 Democratic presidential nomination?](/odds/will-chris-murphy-win-the-2028-democratic-presidential-nomination) — 1% YES
+- [Iran leadership change by April 30?](/odds/iran-leadership-change-by-april-30) — 33% YES
 
 ## Frequently Asked Questions
 
-### What criteria determine if Meituan has the "top" AI model, and who makes that judgment?
+### What qualifies as the "top AI model" for this market's resolution criteria?
 
-The market resolution likely depends on widely recognized benchmarks (MMLU, HumanEval, etc.) or authoritative rankings from organizations like Stanford's HELM or Chinese evaluators like SuperCLUE. Ambiguity in "top" creates resolution risk if Meituan excels in narrow metrics while trailing overall.
+The market likely references standard benchmark performance across evaluations like MMLU, HumanEval, or multimodal assessments, though the exact resolution criteria should be verified in the market's full terms. Meituan would need demonstrable superiority over GPT-series, Claude, Gemini, and Chinese models like Ernie or Qwen.
 
-### Has Meituan announced any AI research initiatives that would suggest they're even attempting to build frontier models?
+### Does Meituan currently have any published AI research or model development programs?
 
-Meituan has publicized AI applications for delivery routing and demand prediction but has not announced foundation model research programs, published significant papers at major AI conferences, or hired visible clusters of LLM researchers like competitors have.
+Meituan's AI work focuses primarily on applied machine learning for delivery logistics, demand forecasting, and search ranking rather than frontier model research. The company has not published significant papers at major AI conferences like NeurIPS or released any large language models.
 
-### Could Meituan simply acquire or white-label another company's model and claim it as their own?
+### Could Meituan acquire or partner its way to a top model rather than building internally?
 
-Most market interpretations would require Meituan to develop or substantially own the model rather than simply licensing technology, though resolution criteria should be verified—acquisition of an AI startup that then produces a top model could potentially qualify.
+Acquisition would be the most plausible path but faces regulatory hurdles—China's antitrust authorities scrutinize major tech deals, and any leading AI lab would command valuations of billions. Strategic partnerships or exclusive licensing arrangements offer alternatives but typically wouldn't satisfy "having" the top model for market resolution purposes.
 
 ## Learn More
 
