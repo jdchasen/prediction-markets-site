@@ -9,9 +9,8 @@ expiryDate: 2026-03-31
 tags: ["politics", "polymarket"]
 polymarketYes: 2.4
 polymarketNo: 97.7
-polymarketVolume: 9682
+polymarketVolume: 9697
 polymarketUrl: "https://polymarket.com/event/will-silver-si-settle-at-105-110-in-march"
-analysisDate: 2026-03-22
 ---
 
 # Silver Price Settlement Analysis: March 2026

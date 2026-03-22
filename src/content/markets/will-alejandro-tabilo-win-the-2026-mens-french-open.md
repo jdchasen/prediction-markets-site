@@ -3,7 +3,7 @@ title: "Will Alejandro Tabilo win the 2026 Men's French Open?"
 description: "Will Alejandro Tabilo win the 2026 Men's French Open? Odds: 0.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Alejandro Tabilo win the 2026 Men's French Open?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-22
 expiryDate: 2026-06-07
 tags: ["politics", "polymarket"]

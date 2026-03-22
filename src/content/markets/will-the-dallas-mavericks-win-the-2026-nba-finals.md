@@ -9,9 +9,8 @@ expiryDate: 2026-07-01
 tags: ["polymarket", "sports"]
 polymarketYes: 0.1
 polymarketNo: 100.0
-polymarketVolume: 9824372
+polymarketVolume: 9824383
 polymarketUrl: "https://polymarket.com/event/will-the-dallas-mavericks-win-the-2026-nba-finals"
-analysisDate: 2026-03-22
 ---
 
 The Dallas Mavericks are essentially priced as non-contenders for the 2026 NBA Finals with near-zero probability, reflecting severe structural concerns about their championship viability over the next two seasons. This market matters as a long-term value proposition on whether Dallas can build a sustainable contender around their current core before the 2025-26 season concludes.

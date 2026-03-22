@@ -8,10 +8,9 @@ lastUpdated: 2026-03-22
 expiryDate: 2026-04-13
 tags: ["polymarket", "sports"]
 polymarketYes: 1.1
-polymarketNo: 98.9
-polymarketVolume: 96403
+polymarketNo: 99.0
+polymarketVolume: 98000
 polymarketUrl: "https://polymarket.com/event/will-corey-conners-win-the-2026-masters-tournament"
-analysisDate: 2026-03-22
 ---
 
 # Corey Conners 2026 Masters Analysis

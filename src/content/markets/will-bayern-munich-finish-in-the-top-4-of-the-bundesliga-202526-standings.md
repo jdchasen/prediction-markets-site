@@ -11,7 +11,6 @@ polymarketYes: 99.4
 polymarketNo: 0.6
 polymarketVolume: 96283
 polymarketUrl: "https://polymarket.com/event/will-bayern-munich-finish-in-the-top-4-of-the-bundesliga-202526-standings"
-analysisDate: 2026-03-22
 ---
 
 # Bayern Munich Top 4 Finish Analysis

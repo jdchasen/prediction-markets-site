@@ -3,7 +3,7 @@ title: "Will Trump say \"UK\" or \"United Kingdom\" this week? (March 29)"
 description: "Will Trump say \"UK\" or \"United Kingdom\" this week? (March 29) Odds: 65.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Trump say \"UK\" or \"United Kingdom\" this week? (March 29)"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-22
 expiryDate: 2026-03-29
 tags: ["politics", "polymarket", "trump"]

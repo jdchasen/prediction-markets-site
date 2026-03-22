@@ -3,7 +3,7 @@ title: "Will Switzerland win Eurovision 2026?"
 description: "Will Switzerland win Eurovision 2026? Odds: 0.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Switzerland win Eurovision 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-22
 expiryDate: 2026-05-16
 tags: ["politics", "polymarket"]

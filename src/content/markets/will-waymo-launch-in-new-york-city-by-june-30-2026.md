@@ -11,7 +11,6 @@ polymarketYes: 6.5
 polymarketNo: 93.5
 polymarketVolume: 9643
 polymarketUrl: "https://polymarket.com/event/will-waymo-launch-in-new-york-city-by-june-30-2026"
-analysisDate: 2026-03-22
 ---
 
 The market is pricing Waymo's NYC launch as a long-shot bet, with less than 7% implied probability despite the company's operational success in other major cities, reflecting genuine regulatory and political obstacles in New York rather than pure skepticism about autonomous vehicles. This matters now because Waymo is actively expanding, and the next 18 months will determine whether New York's notoriously restrictive political environment can be overcome before the deadline.

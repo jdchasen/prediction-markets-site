@@ -9,9 +9,8 @@ expiryDate: 2026-07-01
 tags: ["polymarket", "sports"]
 polymarketYes: 0.7
 polymarketNo: 99.4
-polymarketVolume: 9714260
+polymarketVolume: 9747568
 polymarketUrl: "https://polymarket.com/event/will-the-phoenix-suns-win-the-2026-nba-finals"
-analysisDate: 2026-03-22
 ---
 
 The Phoenix Suns are currently priced as extreme long shots to capture the 2026 NBA championship, reflecting a franchise in organizational flux despite having star talent on the roster. This market matters because it measures whether Phoenix can overcome significant structural challenges—including limited draft capital, an aging core, and restrictive salary cap constraints—over the next 18 months.

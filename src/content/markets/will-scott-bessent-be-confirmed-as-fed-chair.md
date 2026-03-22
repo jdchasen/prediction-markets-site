@@ -3,15 +3,14 @@ title: "Will Scott Bessent be confirmed as Fed Chair?"
 description: "Will Scott Bessent be confirmed as Fed Chair? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Scott Bessent be confirmed as Fed Chair?"
 category: "politics"
-status: "settled"
-lastUpdated: 2026-03-13
+status: "active"
+lastUpdated: 2026-03-22
 expiryDate: 2026-10-31
 tags: ["ai", "federal-reserve", "politics", "polymarket"]
 polymarketYes: 0.1
 polymarketNo: 99.9
-polymarketVolume: 96559
+polymarketVolume: 996638
 polymarketUrl: "https://polymarket.com/event/will-scott-bessent-be-confirmed-as-fed-chair"
-analysisDate: 2026-03-13
 ---
 
 Traders are pricing an extremely low probability of Scott Bessent becoming Federal Reserve Chair, reflecting the political reality that President Trump has nominated him for Treasury Secretary, not Fed Chair, and Jerome Powell's term doesn't expire until May 2026. This market matters as a test case for understanding how political appointments and Fed independence could evolve under a second Trump administration.

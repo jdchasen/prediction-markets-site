@@ -1,17 +1,16 @@
 ---
 title: "Will Yariv Levin be the next Prime Minister of Israel?"
-description: "Will Yariv Levin be the next Prime Minister of Israel? Odds: 1.6% YES on Polymarket. See live prices and trade this market."
+description: "Will Yariv Levin be the next Prime Minister of Israel? Odds: 1.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Yariv Levin be the next Prime Minister of Israel?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-03-22
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 1.6
+polymarketYes: 1.5
 polymarketNo: 98.5
 polymarketVolume: 98502
 polymarketUrl: "https://polymarket.com/event/will-yariv-levin-be-the-next-prime-minister-of-israel"
-analysisDate: 2026-03-22
 ---
 
 Yariv Levin, Israel's current Justice Minister and a senior Likud member, faces extremely long odds to become Prime Minister by the end of 2026, with markets pricing his chances at just 1.6% amid the dominance of Benjamin Netanyahu and other more prominent political figures.

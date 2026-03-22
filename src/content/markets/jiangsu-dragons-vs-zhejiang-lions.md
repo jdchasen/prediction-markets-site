@@ -3,7 +3,7 @@ title: "Jiangsu Dragons vs. Zhejiang Lions"
 description: "Jiangsu Dragons vs. Zhejiang Lions Odds: 13.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Jiangsu Dragons vs. Zhejiang Lions"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-22
 expiryDate: 2026-03-29
 tags: ["politics", "polymarket"]

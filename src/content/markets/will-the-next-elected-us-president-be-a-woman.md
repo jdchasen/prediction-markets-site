@@ -9,9 +9,8 @@ expiryDate: 2028-11-07
 tags: ["politics", "polymarket"]
 polymarketYes: 19.0
 polymarketNo: 81.0
-polymarketVolume: 9949
+polymarketVolume: 9959
 polymarketUrl: "https://polymarket.com/event/will-the-next-elected-us-president-be-a-woman"
-analysisDate: 2026-03-22
 ---
 
 # Women in the Presidency: A 19% Probability Assessment

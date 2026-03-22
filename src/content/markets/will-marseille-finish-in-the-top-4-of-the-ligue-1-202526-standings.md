@@ -1,35 +1,36 @@
 ---
 title: "Will Marseille finish in the top 4 of the Ligue 1 2025–26 standings?"
-description: "Will Marseille finish in the top 4 of the Ligue 1 2025–26 standings? Odds: 85.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Marseille finish in the top 4 of the Ligue 1 2025–26 standings? Odds: 78.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Marseille finish in the top 4 of the Ligue 1 2025–26 standings?"
 category: "sports"
-status: "settled"
+status: "active"
 lastUpdated: 2026-03-22
 expiryDate: 2026-05-30
 tags: ["polymarket", "sports"]
-polymarketYes: 85.5
-polymarketNo: 14.5
-polymarketVolume: 9733
+polymarketYes: 78.0
+polymarketNo: 22.0
+polymarketVolume: 9762
 polymarketUrl: "https://polymarket.com/event/will-marseille-finish-in-the-top-4-of-the-ligue-1-202526-standings"
+analysisDate: 2026-03-22
 ---
 
-# Marseille Top-4 Ligue 1 Finish 2025–26 Analysis
+# Marseille Top 4 Prediction Market Analysis
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 81.0% | 19.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 78.0% | 22.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-Marseille is priced as a heavy favorite to secure a Champions League spot next season, with the 81% YES price reflecting confidence in the club's competitive position, but this wager hinges entirely on sustained roster stability and De Zerbi's tactical consistency through a full campaign. The market is essentially betting that OM maintains its recent resurgence and finishes ahead of clubs like Monaco, Rennes, Lyon, and potentially Lens—a crowded battle where injury depth and transfer strategy will separate contenders from pretenders.
+The market is pricing Marseille's top-four finish at a robust 78%, reflecting confidence in the club's competitive positioning but leaving meaningful room for downside scenarios over an 11-month window. This matters now because Marseille's current roster construction, managerial stability under De Zerbi, and fixture difficulty over the 2025–26 campaign will determine whether they consolidate as a consistent European contender or fall back into the mid-table pack. At 78%, traders are essentially betting the club avoids both catastrophic collapse and a late-season implosion—a non-trivial assumption in a league where PSG, Monaco, and Lyon remain volatile competitors.
 
-The bull case rests on three pillars: De Zerbi's proven track record turning underperforming squads into top-four finishers (he achieved this at Sassuolo and Shakhtar), Marseille's recent January-March 2025 form suggesting the team has found tactical footing after a slow start, and the club's financial investment in quality attacking talent (notably Greenwood if he remains healthy). If Marseille can maintain defensive solidity—particularly through a fit center-back pairing—and generate consistent attacking output from their wide players, the 81% odds look justified. Upcoming fixtures in September and October 2025 will be critical; strong performances against PSG and Lyon early in the campaign would reinforce market confidence.
+The bull case rests on Marseille's recent trajectory: they finished second in 2023–24 and have maintained a top-three squad value in Ligue 1. De Zerbi's tactical system has shown early promise in stabilizing the defense (a historical weakness), and key players like Pierre-Emerick Aubameyang and Matteo Guendouzi remain in their prime. If Marseille can avoid significant injuries to their core XI through the winter transfer window and spring months, and if they secure 2–3 reinforcements in attacking depth, staying within four points of the fourth-place cutoff is highly plausible. The fixture list before Christmas 2025 will be critical—games against PSG, Monaco, and Lens in rapid succession will signal whether De Zerbi's system can compete at the elite level consistently.
 
-The bear case hinges on Marseille's historical volatility: the club hasn't finished top-four since 2020 and has a pattern of mid-season collapses when facing fixture congestion or key injuries. A serious injury to a cornerstone player (Greenwood, Payet if still active, or their primary left-back) could derail the campaign. Additionally, the competitive density in Ligue 1 is increasing; Monaco, Lens, and Rennes all have strong recruitment strategies and lower wage burdens, making it plausible that OM finishes 5th or 6th despite quality football. Transfer departures in summer 2025 (particularly if a key player leaves for a bigger league) represent tail risk the market may be underpricing.
+The bear case hinges on Marseille's historical fragility under pressure and their thin squad depth. Injuries to Aubameyang or Guendouzi would expose significant gaps; Marseille's bench has underperformed in previous seasons when starters were unavailable. Additionally, PSG's spending power, Monaco's consistency, Lille's recent upswing, and Lyon's potential reinvestment create a congested top-four race. If De Zerbi departs (contract stability through mid-2026 is uncertain), transitional chaos could derail a campaign quickly. The market's 78% confidence may underweight the probability of a mid-season managerial change or a January transfer exodus if results slip to 6th–8th place by February 2026.
 
-Traders should monitor three specific catalysts: the summer 2025 transfer window (late June–early September) for any major roster exits or defensive acquisitions, Marseille's opening-month form in August–September 2025 against mid-table and top-six opponents, and injury reports for Greenwood specifically come October 2025, when fixture congestion typically increases. The November 2025 international break will provide a natural checkpoint to reassess; if Marseille sits 4th or higher at that point with a healthy squad, the 81% odds are likely efficient. If they're 6th or lower, the price should compress significantly toward 40–50% range.
+Traders should monitor three catalysts: De Zerbi's contract extension announcement (any delay past Q4 2025 signals instability), Marseille's December 2025 form against top-six sides, and January transfer activity. If Marseille sits outside the top six by late January, the odds should compress sharply downward. Conversely, a five-point buffer over fifth place by March 2026 would likely push the YES odds above 85%.
 
 ## Related Markets
 
@@ -39,13 +40,17 @@ Traders should monitor three specific catalysts: the summer 2025 transfer window
 
 ## Frequently Asked Questions
 
-### How much does Roberto De Zerbi's coaching continuity matter to this odds price?
+### What is De Zerbi's contract status, and how could managerial change impact these odds?
 
-Significantly—the 81% price assumes De Zerbi remains and maintains tactical discipline throughout 2025–26; if he leaves for a top-five league or loses the dressing room mid-season (both precedents at Marseille), the probability of top-four drops to 55–60% instantly.
+De Zerbi signed through mid-2026 but hasn't secured a long-term extension publicly; if Marseille underperforms or he receives interest from a richer club, early departure risk is real and would likely drop YES odds 10–15 points.
 
-### What's the realistic toughness of Marseille's top-4 competition next season?
+### How much does Aubameyang's fitness matter to this market outcome?
 
-Monaco, Lens, Rennes, and Lyon will all compete for the 2nd–5th positions alongside PSG and Marseille; if any of these clubs reinforce defensively or sustain their youth development (Lens), Marseille could easily finish 5th despite strong performances,
+Aubameyang is Marseille's primary goal threat; a long-term injury (ACL, hamstring) would materially weaken their top-four chances, potentially dropping odds to 65–70%, so injury reports are a key watch point each month.
+
+### What is the historical correlation between Marseille's winter form and final league position?
+
+Marse
 
 ## Learn More
 

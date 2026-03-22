@@ -9,9 +9,8 @@ expiryDate: 2026-06-10
 tags: ["polymarket", "sports"]
 polymarketYes: 0.1
 polymarketNo: 100.0
-polymarketVolume: 9620405
+polymarketVolume: 9710264
 polymarketUrl: "https://polymarket.com/event/will-devin-booker-win-the-20252026-nba-mvp"
-analysisDate: 2026-03-22
 ---
 
 Devin Booker's MVP odds sit at essentially zero on Polymarket, reflecting the Phoenix Suns' turbulent 2024-25 season and the steep uphill climb required for the 2025-26 campaign. The market matters because it reveals how traders view both Booker's individual ceiling and the Suns' championship window with their aging core.

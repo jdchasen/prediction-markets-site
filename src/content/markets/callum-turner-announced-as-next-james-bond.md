@@ -9,9 +9,8 @@ expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
 polymarketYes: 23.5
 polymarketNo: 76.5
-polymarketVolume: 97666
+polymarketVolume: 98203
 polymarketUrl: "https://polymarket.com/event/callum-turner-announced-as-next-james-bond"
-analysisDate: 2026-03-22
 ---
 
 # James Bond Casting Market Analysis

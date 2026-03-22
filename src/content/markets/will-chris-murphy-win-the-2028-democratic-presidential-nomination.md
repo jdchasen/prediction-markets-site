@@ -1,17 +1,16 @@
 ---
 title: "Will Chris Murphy win the 2028 Democratic presidential nomination?"
-description: "Will Chris Murphy win the 2028 Democratic presidential nomination? Odds: 0.9% YES on Polymarket. See live prices and trade this market."
+description: "Will Chris Murphy win the 2028 Democratic presidential nomination? Odds: 1.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Chris Murphy win the 2028 Democratic presidential nomination?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-03-22
 expiryDate: 2028-11-07
 tags: ["politics", "polymarket"]
-polymarketYes: 0.9
-polymarketNo: 99.1
-polymarketVolume: 9778838
+polymarketYes: 1.1
+polymarketNo: 99.0
+polymarketVolume: 9808975
 polymarketUrl: "https://polymarket.com/event/will-chris-murphy-win-the-2028-democratic-presidential-nomination"
-analysisDate: 2026-03-22
 ---
 
 Connecticut Senator Chris Murphy registers at less than 1% on Polymarket to win the 2028 Democratic nomination, reflecting his current position as a long-shot candidate in an exceptionally crowded field that will likely feature higher-profile Democrats. The market matters as an early indicator of how traders assess the progressive wing's viability and whether Murphy's gun safety advocacy can translate into presidential appeal.

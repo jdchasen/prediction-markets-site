@@ -3,7 +3,7 @@ title: "Will the Bank of Canada announce no change at the April meeting?"
 description: "Will the Bank of Canada announce no change at the April meeting? Odds: 92.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Bank of Canada announce no change at the April meeting?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-22
 expiryDate: 2026-04-29
 tags: ["politics", "polymarket"]

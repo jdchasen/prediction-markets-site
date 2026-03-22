@@ -1,17 +1,16 @@
 ---
 title: "Will Keyonte George win the 2025–2026 NBA Most Improved Player?"
-description: "Will Keyonte George win the 2025–2026 NBA Most Improved Player? Odds: 0.6% YES on Polymarket. See live prices and trade this market."
+description: "Will Keyonte George win the 2025–2026 NBA Most Improved Player? Odds: 0.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Keyonte George win the 2025–2026 NBA Most Improved Player?"
 category: "sports"
 status: "active"
 lastUpdated: 2026-03-22
 expiryDate: 2026-06-30
 tags: ["polymarket", "sports"]
-polymarketYes: 0.6
-polymarketNo: 99.4
+polymarketYes: 0.8
+polymarketNo: 99.2
 polymarketVolume: 9761
 polymarketUrl: "https://polymarket.com/event/nba-2025-26-most-improved-player-keyonte-george"
-analysisDate: 2026-03-22
 ---
 
 # Keyonte George MIP Market Analysis

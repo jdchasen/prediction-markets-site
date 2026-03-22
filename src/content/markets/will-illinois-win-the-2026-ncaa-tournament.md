@@ -9,9 +9,8 @@ expiryDate: 2026-04-04
 tags: ["politics", "polymarket"]
 polymarketYes: 4.2
 polymarketNo: 95.9
-polymarketVolume: 961581
+polymarketVolume: 972120
 polymarketUrl: "https://polymarket.com/event/will-illinois-win-the-2026-ncaa-tournament"
-analysisDate: 2026-03-22
 ---
 
 The Illinois Fighting Illini currently sit at just over 4% to capture the 2026 NCAA Championship, a modest but non-negligible probability that reflects the program's recent competitive positioning under head coach Brad Underwood. This market matters as an early indicator of how bettors view Illinois's recruiting trajectory and roster construction heading into the 2025-26 season, with the championship game scheduled for April 6, 2026 in Indianapolis.

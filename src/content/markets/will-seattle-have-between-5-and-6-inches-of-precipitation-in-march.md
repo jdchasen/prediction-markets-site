@@ -3,7 +3,7 @@ title: "Will Seattle have between 5 and 6 inches of precipitation in March?"
 description: "Will Seattle have between 5 and 6 inches of precipitation in March? Odds: 39.3% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Seattle have between 5 and 6 inches of precipitation in March?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-22
 expiryDate: 2026-03-31
 tags: ["politics", "polymarket"]

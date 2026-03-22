@@ -1,17 +1,16 @@
 ---
 title: "Will Mauricio Pochettino be appointed as manager of Tottenham?"
-description: "Will Mauricio Pochettino be appointed as manager of Tottenham? Odds: 37.0% YES on Polymarket. See live prices and trade this market."
+description: "Will Mauricio Pochettino be appointed as manager of Tottenham? Odds: 35.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Mauricio Pochettino be appointed as manager of Tottenham?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-03-22
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 37.0
-polymarketNo: 63.0
+polymarketYes: 35.0
+polymarketNo: 65.0
 polymarketVolume: 9813
 polymarketUrl: "https://polymarket.com/event/will-mauricio-pochettino-be-appointed-as-manager-of-tottenham"
-analysisDate: 2026-03-22
 ---
 
 # Pochettino to Tottenham Market Analysis

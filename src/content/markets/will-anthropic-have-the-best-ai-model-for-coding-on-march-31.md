@@ -3,7 +3,7 @@ title: "Will Anthropic have the best AI model for coding on March 31?"
 description: "Will Anthropic have the best AI model for coding on March 31? Odds: 7.3% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Anthropic have the best AI model for coding on March 31?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-22
 expiryDate: 2026-03-31
 tags: ["ai", "politics", "polymarket"]

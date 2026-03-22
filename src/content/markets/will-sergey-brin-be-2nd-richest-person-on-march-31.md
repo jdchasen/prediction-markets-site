@@ -3,7 +3,7 @@ title: "Will Sergey Brin be 2nd richest person on March 31?"
 description: "Will Sergey Brin be 2nd richest person on March 31? Odds: 0.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Sergey Brin be 2nd richest person on March 31?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-22
 expiryDate: 2026-03-31
 tags: ["politics", "polymarket"]

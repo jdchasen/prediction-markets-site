@@ -3,7 +3,7 @@ title: "Will Will Zalatoris win the 2026 Masters tournament?"
 description: "Will Will Zalatoris win the 2026 Masters tournament? Odds: 0.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Will Zalatoris win the 2026 Masters tournament?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-22
 expiryDate: 2026-04-13
 tags: ["polymarket", "sports"]

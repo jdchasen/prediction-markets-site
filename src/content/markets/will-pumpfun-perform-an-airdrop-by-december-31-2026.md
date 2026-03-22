@@ -1,17 +1,16 @@
 ---
 title: "Will Pump.fun perform an airdrop by December 31, 2026"
-description: "Will Pump.fun perform an airdrop by December 31, 2026 Odds: 25.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Pump.fun perform an airdrop by December 31, 2026 Odds: 28.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Pump.fun perform an airdrop by December 31, 2026"
 category: "politics"
 status: "active"
 lastUpdated: 2026-03-22
 expiryDate: 2026-03-31
 tags: ["ai", "politics", "polymarket"]
-polymarketYes: 25.5
-polymarketNo: 74.5
-polymarketVolume: 99085
+polymarketYes: 28.0
+polymarketNo: 72.0
+polymarketVolume: 99592
 polymarketUrl: "https://polymarket.com/event/will-pumpfun-perform-an-airdrop-by-december-31-2026"
-analysisDate: 2026-03-22
 ---
 
 The market pricing a roughly one-in-four chance of a Pump.fun airdrop by end of 2026 reflects significant uncertainty about whether this Solana-based token launch platform will reward early users and participants, despite growing precedent for airdrops in the crypto space.

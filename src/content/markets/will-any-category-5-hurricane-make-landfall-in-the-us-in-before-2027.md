@@ -1,16 +1,17 @@
 ---
 title: "Will any Category 5 hurricane make landfall in the US in before 2027?"
-description: "Will any Category 5 hurricane make landfall in the US in before 2027? Odds: 15.0% YES on Polymarket. See live prices and trade this market."
+description: "Will any Category 5 hurricane make landfall in the US in before 2027? Odds: 14.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will any Category 5 hurricane make landfall in the US in before 2027?"
 category: "science"
 status: "active"
 lastUpdated: 2026-03-22
 expiryDate: 2026-12-31
 tags: ["polymarket", "science"]
-polymarketYes: 15.0
-polymarketNo: 85.0
-polymarketVolume: 97864
+polymarketYes: 14.5
+polymarketNo: 85.5
+polymarketVolume: 97924
 polymarketUrl: "https://polymarket.com/event/will-any-category-5-hurricane-make-landfall-in-the-us-in-before-2027"
+analysisDate: 2026-03-22
 ---
 
 # Category 5 Hurricane Landfall Analysis
@@ -19,31 +20,29 @@ polymarketUrl: "https://polymarket.com/event/will-any-category-5-hurricane-make-
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 15.0% | 85.0% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 14.5% | 85.5% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The market is currently pricing a roughly one-in-six chance of a major hurricane striking the US mainland by end of 2026, which appears conservative relative to historical frequency but reflects uncertainty about storm intensity classification and landfall precision. This matters now because we're entering the peak Atlantic hurricane season (August-October), and 2024-2026 will provide the empirical foundation for assessing whether current atmospheric conditions favor extreme intensification and US-directed tracks.
+Current pricing at 14.5% implies traders view a direct US Category 5 landfall in the next ~two years as unlikely but non-negligible, reflecting both historical rarity and genuine climatological uncertainty. This matters now because we're entering peak Atlantic hurricane season (August-October), and any major storm system could immediately shift sentiment; additionally, with roughly 24 months until expiry, the market captures two complete hurricane seasons where conditions could align for an extreme event.
 
-The bull case rests on several converging factors: warmer-than-normal sea surface temperatures in the Atlantic and Gulf of Mexico are already being observed, providing fuel for rapid intensification; climate modeling suggests increasing proportions of Category 4-5 storms as oceans warm; and the Atlantic Multidecadal Oscillation has shifted toward a warm phase favoring more active seasons. Additionally, since 1851, approximately 35 Category 5 hurricanes have occurred in the Atlantic basin, with roughly 6-7 making US landfall—suggesting a baseline probability around 15-20% per five-year window if patterns hold. The upcoming 2024 and 2025 hurricane seasons (peak months: August-October in both years) represent critical observation windows where early track record could shift trader positioning significantly.
+The bull case rests on three concrete factors: ocean temperatures in the Atlantic Main Development Region and Gulf of Mexico are running above historical averages in 2024-2025, which correlates with intensification potential; climate datasets show a modest long-term trend toward more rapid intensification events; and historically, Category 5 hurricanes form roughly every 2-3 years in the Atlantic basin, meaning ~33-50% do so by 2026. If we see even one Category 5 develop and track toward Florida, Louisiana, or Texas, the market would likely spike 30-50 percentage points. The bear case is more compelling: only 37 Category 5 hurricanes have made US landfall since 1851 (roughly 0.2 per year), and most dissipate over ocean or recurve out to sea before reaching shore. Land interaction and wind shear typically weaken storms in the final 24-48 hours. The ~14.5% implied probability actually *overestimates* raw historical frequency when accounting for the specific requirement of landfall rather than mere formation.
 
-The bear case emphasizes that landfall probability is substantially lower than formation probability; most Category 5 hurricanes weaken before reaching the US, and many track away from populated coasts entirely. The National Hurricane Center's forecast models have improved markedly in recent years, and land interaction and wind shear often degrade systems before impact. Critically, the resolution of this market requires direct Category 5 classification at landfall—marginal storms peaking at Category 4 before losing intensity over land would not settle YES. Historical data from 1980-2023 shows only one US Category 5 landfall (Hurricane Michael in 2018), suggesting the true five-year probability may cluster closer to 10%.
-
-Watch for National Hurricane Center intensity forecasts and sea surface temperature readings in July-September 2024 and 2025, real-time satellite wind speed data during any developing systems (NOAA's methodology for Category 5 determination uses sustained winds ≥157 mph and is rigorous), and the actual expiration mechanics—this market resolves on December 31, 2026, so any Category 5 making landfall during the 2026 season (even in December) counts. Any major ocean warming spikes or significant early-season Category 4+ systems that barely miss landfall could trigger sharp probability repricing.
+Key catalysts to monitor include the September 2024 and 2025 peak season months—any storm reaching Category 4-5 status within 500 miles of the US coast will move this market sharply. The National Hurricane Center's official seasonal forecast (released June and updated monthly) will provide meteorological consensus. Watch accumulated cyclone energy (ACE) data released monthly by NOAA; years with anomalously high ACE tend to produce more intense systems. Real-time sea surface temperature anomalies during boreal summer 2025 will be critical—if the Gulf stays above 30°C into September, intensification risk rises substantially. The market expires December 31, 2026, meaning all activity through the entire 2026 Atlantic season counts, extending the observation window.
 
 ## Frequently Asked Questions
 
-### What specific wind speed threshold determines whether a hurricane qualifies for Category 5 status in this market?
+### How does the 14.5% odds compare to the actual historical landfall frequency of Category 5 hurricanes?
 
-The NOAA Saffir-Simpson Scale classifies Category 5 as sustained winds of 157+ mph, and this market's settlement will depend on official National Hurricane Center documentation at the moment of landfall or peak intensity near land.
+Since 1851, roughly 37 Category 5s have made US landfall out of ~1000+ Atlantic hurricanes, or about 3.7% per decade; the market is pricing ~7.25% probability per year, approximately double historical base rates—the premium reflects genuine climate/ocean temp anomalies in 2024-2025 and genuine uncertainty about future intensification trends.
 
-### Does a storm need to be *classified* as Category 5 while making landfall, or can it count if it reached Category 5 intensity earlier in its lifecycle?
+### What specific measurement determines if this market resolves YES?
 
-The market language "make landfall" typically implies the storm must be at Category 5 strength at or immediately before the point of US land contact; weakening to Category 4 before crossing the coast would likely not resolve YES depending on exact settlement criteria from the market operator.
+The resolution criteria typically require a hurricane to reach Category 5 on the Saffir-Simpson scale (sustained winds ≥157 mph) at any point during the storm's lifecycle AND make landfall (center crosses the US coastline) before December 31, 2026; weakening to Category 4 at landfall would not resolve YES.
 
-### How do sea surface temperature anomalies in August 2024 relate to this market's probability?
+### Which US regions carry the highest Category 5 landfall risk in this timeframe?
 
-Anomalies exceeding +0.5°C above baseline in the Main Development Region (10-20°
+Historically, South Florida, the Florida Panhandle, and coastal Louisiana see the highest frequency of Category 5 landfalls due to warm Gulf waters and storm track geography; however, the Atlantic Main Development Region's elevated
 
 ## Learn More
 
