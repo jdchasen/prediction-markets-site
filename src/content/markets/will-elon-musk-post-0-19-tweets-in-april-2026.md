@@ -4,14 +4,13 @@ description: "Will Elon Musk post 0-19 tweets in April 2026? Odds: 0.2% YES on P
 marketQuestion: "Will Elon Musk post 0-19 tweets in April 2026?"
 category: "tech"
 status: "active"
-lastUpdated: 2026-03-21
+lastUpdated: 2026-03-22
 expiryDate: 2026-05-01
 tags: ["polymarket", "tech"]
 polymarketYes: 0.2
 polymarketNo: 99.8
-polymarketVolume: 97835
+polymarketVolume: 98040
 polymarketUrl: "https://polymarket.com/event/elon-musk-of-tweets-april-2026-0-19"
-analysisDate: 2026-03-21
 ---
 
 The market overwhelmingly expects Elon Musk to continue his prolific Twitter/X posting behavior through April 2026, with traders assigning essentially zero probability to a near-complete social media silence from someone who has averaged 20-50+ posts daily for years.

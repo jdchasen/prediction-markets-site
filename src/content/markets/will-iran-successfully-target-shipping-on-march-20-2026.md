@@ -3,8 +3,8 @@ title: "Will Iran successfully target shipping on March 20, 2026?"
 description: "Will Iran successfully target shipping on March 20, 2026? Odds: 3.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Iran successfully target shipping on March 20, 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-21
+status: "settled"
+lastUpdated: 2026-03-22
 expiryDate: 2026-03-31
 tags: ["politics", "polymarket"]
 polymarketYes: 3.2

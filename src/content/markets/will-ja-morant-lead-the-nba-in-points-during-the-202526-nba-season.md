@@ -4,14 +4,13 @@ description: "Will Ja Morant lead the NBA in points during the 2025–26 NBA sea
 marketQuestion: "Will Ja Morant lead the NBA in points during the 2025–26 NBA season?"
 category: "sports"
 status: "active"
-lastUpdated: 2026-03-21
+lastUpdated: 2026-03-22
 expiryDate: 2026-04-12
 tags: ["polymarket", "sports"]
 polymarketYes: 0.1
 polymarketNo: 99.9
 polymarketVolume: 9918
 polymarketUrl: "https://polymarket.com/event/nba-2025-26-ppg-leader-ja-morant"
-analysisDate: 2026-03-21
 ---
 
 # Ja Morant's 2025-26 Scoring Title: An Extreme Longshot with Minimal Catalyst

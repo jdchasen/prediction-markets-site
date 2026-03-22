@@ -1,17 +1,16 @@
 ---
 title: "Will Jake Paul announce a run for public office in 2026?"
-description: "Will Jake Paul announce a run for public office in 2026? Odds: 17.0% YES on Polymarket. See live prices and trade this market."
+description: "Will Jake Paul announce a run for public office in 2026? Odds: 15.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Jake Paul announce a run for public office in 2026?"
 category: "politics"
-status: "settled"
-lastUpdated: 2026-03-21
+status: "active"
+lastUpdated: 2026-03-22
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 17.0
-polymarketNo: 83.0
-polymarketVolume: 9836
+polymarketYes: 15.5
+polymarketNo: 84.5
+polymarketVolume: 9842
 polymarketUrl: "https://polymarket.com/event/will-jake-paul-announce-a-run-for-public-office-in-2026"
-analysisDate: 2026-03-21
 ---
 
 # Jake Paul Political Candidacy Market Analysis

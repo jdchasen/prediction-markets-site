@@ -3,8 +3,8 @@ title: "Vanta IPO before 2027?"
 description: "Vanta IPO before 2027? Odds: 12.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Vanta IPO before 2027?"
 category: "finance"
-status: "active"
-lastUpdated: 2026-03-21
+status: "settled"
+lastUpdated: 2026-03-22
 expiryDate: 2026-12-31
 tags: ["finance", "polymarket"]
 polymarketYes: 12.5

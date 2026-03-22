@@ -3,8 +3,8 @@ title: "Nechirvan Barzani out as Kurdistan Regional Government President?"
 description: "Nechirvan Barzani out as Kurdistan Regional Government President? Odds: 10.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Nechirvan Barzani out as Kurdistan Regional Government President?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-21
+status: "settled"
+lastUpdated: 2026-03-22
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
 polymarketYes: 10.1

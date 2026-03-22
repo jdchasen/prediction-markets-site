@@ -3,8 +3,8 @@ title: "Will Gold (GC) hit (LOW) $4,000 by end of March?"
 description: "Will Gold (GC) hit (LOW) $4,000 by end of March? Odds: 5.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Gold (GC) hit (LOW) $4,000 by end of March?"
 category: "finance"
-status: "active"
-lastUpdated: 2026-03-21
+status: "settled"
+lastUpdated: 2026-03-22
 expiryDate: 2026-03-31
 tags: ["finance", "polymarket"]
 polymarketYes: 5.1

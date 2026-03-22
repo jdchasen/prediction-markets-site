@@ -4,14 +4,13 @@ description: "Will Joel Embiid lead the NBA in blocks during the 2025–26 NBA s
 marketQuestion: "Will Joel Embiid lead the NBA in blocks during the 2025–26 NBA season?"
 category: "sports"
 status: "active"
-lastUpdated: 2026-03-21
+lastUpdated: 2026-03-22
 expiryDate: 2026-04-12
 tags: ["polymarket", "sports"]
 polymarketYes: 0.1
 polymarketNo: 99.9
 polymarketVolume: 9856
 polymarketUrl: "https://polymarket.com/event/nba-2025-26-bpg-leader-joel-embiid"
-analysisDate: 2026-03-21
 ---
 
 # Joel Embiid Blocks Leader Analysis

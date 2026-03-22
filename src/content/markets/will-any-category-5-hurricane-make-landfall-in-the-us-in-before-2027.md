@@ -4,14 +4,13 @@ description: "Will any Category 5 hurricane make landfall in the US in before 20
 marketQuestion: "Will any Category 5 hurricane make landfall in the US in before 2027?"
 category: "science"
 status: "active"
-lastUpdated: 2026-03-21
+lastUpdated: 2026-03-22
 expiryDate: 2026-12-31
 tags: ["polymarket", "science"]
 polymarketYes: 15.0
 polymarketNo: 85.0
 polymarketVolume: 97864
 polymarketUrl: "https://polymarket.com/event/will-any-category-5-hurricane-make-landfall-in-the-us-in-before-2027"
-analysisDate: 2026-03-21
 ---
 
 # Category 5 Hurricane Landfall Analysis

@@ -3,8 +3,8 @@ title: "ChatGPT Full Outage by March 31?"
 description: "ChatGPT Full Outage by March 31? Odds: 5.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "ChatGPT Full Outage by March 31?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-21
+status: "settled"
+lastUpdated: 2026-03-22
 expiryDate: 2026-03-31
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 5.5

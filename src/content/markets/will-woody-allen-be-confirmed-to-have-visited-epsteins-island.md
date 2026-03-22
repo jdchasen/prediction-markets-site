@@ -1,17 +1,16 @@
 ---
 title: "Will Woody Allen be confirmed to have visited Epstein’s island?"
-description: "Will Woody Allen be confirmed to have visited Epstein’s island? Odds: 11.0% YES on Polymarket. See live prices and trade this market."
+description: "Will Woody Allen be confirmed to have visited Epstein’s island? Odds: 10.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Woody Allen be confirmed to have visited Epstein’s island?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-03-21
+lastUpdated: 2026-03-22
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
-polymarketYes: 11.0
-polymarketNo: 89.0
-polymarketVolume: 9870
+polymarketYes: 10.5
+polymarketNo: 89.5
+polymarketVolume: 9910
 polymarketUrl: "https://polymarket.com/event/will-woody-allen-be-confirmed-to-have-visited-epsteins-island"
-analysisDate: 2026-03-21
 ---
 
 # Woody Allen Epstein Island Market Analysis

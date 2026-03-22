@@ -4,14 +4,13 @@ description: "Will Venezuela become 51st state? Odds: 3.4% YES on Polymarket. Se
 marketQuestion: "Will Venezuela become 51st state?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-03-21
+lastUpdated: 2026-03-22
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 3.4
 polymarketNo: 96.6
-polymarketVolume: 96743
+polymarketVolume: 96843
 polymarketUrl: "https://polymarket.com/event/will-venezuela-become-51st-state"
-analysisDate: 2026-03-21
 ---
 
 # Venezuela Statehood Market Analysis

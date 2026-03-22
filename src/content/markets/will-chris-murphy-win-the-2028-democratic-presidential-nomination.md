@@ -4,50 +4,51 @@ description: "Will Chris Murphy win the 2028 Democratic presidential nomination?
 marketQuestion: "Will Chris Murphy win the 2028 Democratic presidential nomination?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-03-21
+lastUpdated: 2026-03-22
 expiryDate: 2028-11-07
 tags: ["politics", "polymarket"]
 polymarketYes: 0.9
 polymarketNo: 99.1
-polymarketVolume: 9673695
+polymarketVolume: 9778838
 polymarketUrl: "https://polymarket.com/event/will-chris-murphy-win-the-2028-democratic-presidential-nomination"
+analysisDate: 2026-03-22
 ---
 
-Connecticut Senator Chris Murphy currently sits at less than 1% odds to win the 2028 Democratic nomination, reflecting his position as a second-tier prospect in an unsettled field with no clear frontrunner following Biden's presidency. The market matters because it captures early positioning for what will likely be the Democrats' first truly open primary since 2020, with potential candidates already maneuvering behind the scenes.
+Connecticut Senator Chris Murphy registers at less than 1% on Polymarket to win the 2028 Democratic nomination, reflecting his current position as a long-shot candidate in an exceptionally crowded field that will likely feature higher-profile Democrats. The market matters as an early indicator of how traders assess the progressive wing's viability and whether Murphy's gun safety advocacy can translate into presidential appeal.
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.9% | 99.1% | $9.7M | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.9% | 99.1% | $9.8M | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The bull case for Murphy centers on his aggressive advocacy for gun control following Sandy Hook, which gives him a signature issue with strong Democratic base appeal, plus his foreign policy expertise from the Senate Foreign Relations Committee. He's demonstrated fundraising capability and media savvy, particularly on social media where he's built a substantial following. Murphy would enter as a sitting senator from a safe blue state, allowing him to campaign without risking his seat, and his blue-collar Connecticut roots could help counter perceptions that Democrats have abandoned working-class voters. If the party decides it needs a white male candidate from the Northeast to win back swing voters—particularly after analyzing 2024 results—Murphy fits that profile while maintaining progressive credibility on healthcare and economic issues.
+The bull case rests on Murphy's distinctive brand as the Senate's leading voice on gun violence prevention following his 15-hour filibuster after the Pulse nightclub shooting, combined with his foreign policy expertise on the Senate Foreign Relations Committee. He represents a younger generation of Democrats (turning 55 in 2028) without the baggage of a Biden administration role, and Connecticut's wealth could provide crucial fundraising infrastructure. If the 2028 race fractures between establishment centrists and progressives, Murphy could emerge as a consensus "reform moderate" who satisfies both factions while appealing to suburban voters concerned about gun violence.
 
-The bear case is straightforward: Murphy lacks national name recognition outside political circles, has never run a campaign beyond Connecticut, and would face competition from governors with executive experience who typically perform better in presidential primaries. Vice President Kamala Harris, if she runs, would consolidate establishment support and fundraising networks that typically determine nominations. Governors like Gavin Newsom, Gretchen Whitmer, Josh Shapiro, and Wes Moore all poll significantly better in early 2028 speculation. Murphy's Senate voting record provides ample opposition research material, and his policy positions don't distinguish him sufficiently in a crowded Democratic field where most candidates will share similar stances on gun control and healthcare.
+The bear case is overwhelming: Murphy lacks national name recognition outside political circles, has never run statewide in a competitive presidential primary state, and would face formidable competition from governors with executive experience, sitting Vice President Kamala Harris if she runs, and other senators with higher profiles like Cory Booker or Amy Klobuchar. His Senate record skews left on many issues, which could handicap him in a general election argument, yet he's not progressive enough to capture the Warren-Sanders coalition. Democratic primary voters historically favor candidates who've previously competed at the presidential level or served as governors.
 
-Key catalysts to watch include the 2024 presidential election results (available November 2024), which will shape the party's appetite for different candidate profiles, and the 2026 midterms where potential candidates can demonstrate their national fundraising and campaigning abilities. Murphy would need to build a national profile through major legislative achievements in the 119th Congress (2025-2026) or take a leading role in opposing a potential second Trump administration. The invisible primary begins in earnest by mid-2026, when serious candidates start hiring staff in Iowa and New Hampshire. If Murphy hasn't shown movement in polls or endorsements by early 2027—when candidates typically announce exploratory committees—his odds should drift even lower.
+Key catalysts include the 2026 midterm results, which will establish which Democratic governors emerge as national figures, and Murphy's own 2024 Senate reelection campaign performance as a baseline for his appeal. The informal presidential campaign season typically begins in late 2026 with Iowa and New Hampshire visits—Murphy would need to show unexpected strength in early 2027 polling to justify reassessment of these odds. Watch whether he takes on higher-profile legislation in 2025-2026 or secures leadership positions that would boost his national profile, though committee assignments are typically finalized by February 2025.
 
 ## Related Markets
 
 - [Will Alexandria Ocasio-Cortez win the 2028 US Presidential Election?](/odds/will-alexandria-ocasio-cortez-win-the-2028-us-presidential-election) — 5% YES
-- [Iran leadership change by April 30?](/odds/iran-leadership-change-by-april-30) — 33% YES
-- [Will Greece win Eurovision 2026?](/odds/will-greece-win-eurovision-2026) — 7% YES
+- [Will Switzerland win Eurovision 2026?](/odds/will-switzerland-win-eurovision-2026) — 0% YES
+- [Will Estonia win Eurovision 2026?](/odds/will-estonia-win-eurovision-2026) — 0% YES
 
 ## Frequently Asked Questions
 
-### How does Murphy compare to other potential Senate candidates like Cory Booker or Amy Klobuchar who also have presidential ambitions?
+### How does Murphy's gun control advocacy help or hurt him in a Democratic primary versus a general election?
 
-Murphy would compete in the same lane as other Senate Democrats but lacks Booker's national profile and fundraising network or Klobuchar's previous presidential campaign experience from 2020. His main advantage is that he's younger (born 1973) than many Senate colleagues and hasn't yet suffered a presidential primary loss.
+In the primary, his gun safety leadership provides a clear differentiator and emotional appeal to the Democratic base, particularly after mass shootings. However, this signature issue could mobilize Republican turnout in swing states during a general election, creating electability concerns that primary voters might weigh heavily.
 
-### What would Murphy need to accomplish legislatively to improve his nomination chances?
+### What would Murphy need to demonstrate in 2025-2026 to make his candidacy viable enough to shift these odds significantly?
 
-Murphy would need to pass landmark gun control legislation or broker a major foreign policy achievement—both extremely difficult with likely Republican congressional control through 2026—to elevate his national profile beyond his current status as a reliable progressive voice.
+He would need to pass landmark legislation with his name attached, build a national fundraising network beyond Connecticut donors, and poll above 5% in early Iowa and New Hampshire surveys by mid-2027—none of which current indicators suggest is likely given the Senate's narrow margins and his current national profile.
 
-### Could Murphy position himself as a running mate instead, and would that affect this market?
+### Does Murphy benefit or suffer from not serving in the Biden-Harris administration?
 
-Murphy's profile makes him a plausible VP candidate for a nominee needing Northeastern representation or Senate foreign policy credentials, but this market is specifically about winning the presidential nomination, so a VP selection would result in a "NO" resolution.
+Murphy benefits from distance if Biden's popularity remains low through 2027, allowing him to run as a fresh face, but he suffers from lack of the executive experience and enhanced media exposure that Cabinet members gain, plus he misses the built-in fundraising and organizational advantages of administration alumni networks.
 
 ## Learn More
 

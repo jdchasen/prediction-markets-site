@@ -1,35 +1,36 @@
 ---
 title: "Will Keyonte George win the 2025–2026 NBA Most Improved Player?"
-description: "Will Keyonte George win the 2025–2026 NBA Most Improved Player? Odds: 0.7% YES on Polymarket. See live prices and trade this market."
+description: "Will Keyonte George win the 2025–2026 NBA Most Improved Player? Odds: 0.6% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Keyonte George win the 2025–2026 NBA Most Improved Player?"
 category: "sports"
 status: "active"
-lastUpdated: 2026-03-21
+lastUpdated: 2026-03-22
 expiryDate: 2026-06-30
 tags: ["polymarket", "sports"]
-polymarketYes: 0.7
+polymarketYes: 0.6
 polymarketNo: 99.4
-polymarketVolume: 9742
+polymarketVolume: 9761
 polymarketUrl: "https://polymarket.com/event/nba-2025-26-most-improved-player-keyonte-george"
+analysisDate: 2026-03-22
 ---
 
-# Keyonte George MIP Analysis
+# Keyonte George MIP Market Analysis
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.7% | 99.4% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.6% | 99.4% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-At 0.7% implied probability, the market is pricing George as an extreme longshot for the 2025-2026 Most Improved Player award, reflecting significant skepticism about his trajectory despite his youth and potential. This valuation matters because George is entering only his second NBA season, making him theoretically eligible for one of the most volatile awards—yet the odds suggest consensus believes other players are vastly more likely candidates. The extremely low odds indicate either market confidence in established veterans or concern about George's baseline performance level limiting his upside.
+The 0.6% odds severely discount Keyonte George's chances despite the Utah Jazz guard entering a critical development year where significant improvement is both possible and necessary. This micro-probability suggests the market views established stars and second-year breakout candidates as overwhelming favorites, but George's trajectory and usage patterns deserve closer examination before dismissing him entirely.
 
-The bull case hinges on George's age and the award's mechanics: he's 21 years old with room to develop, and MIP historically rewards sharp year-over-year improvement from a mediocre baseline rather than absolute star performance. If the Charlotte Hornets make unexpected playoff strides or if George emerges as a primary offensive option averaging 20+ PPG (up from last season's 16.7 PPG), his improvement trajectory could become compelling. The Hornets' roster construction around LaMelo Ball is still forming, and George's shooting efficiency and decision-making could accelerate if given more shot volume. Watch for performance spikes during back-to-back games in January-February 2026, as MIP voters heavily weight mid-season form.
+The bull case centers on George's role expansion and team context. At 22 years old with one full NBA season under his belt, he logged 24.1 PPG on 43.4% FG in 2024–25—legitimate efficiency for a high-usage young guard. The Jazz, rebuilding around him and Lauri Markkanen, will prioritize his development heavily, potentially pushing him toward 27+ PPG if he improves his 3-point shot (currently 32.3%) and playmaking. MIP voting rewards dramatic year-over-year jumps, and George has the green light and minutes to achieve them. His schedule includes manageable February-March stretches where sustained offensive explosions could build momentum with voters.
 
-The bear case is dominant: George was already viewed as a quality young starter as a rookie, limiting the "improvement" narrative that defines MIP winners. More critically, established players like Donovan Mitchell, Brandon Ingram, or rising stars on deeper teams will likely show more dramatic statistical leaps, making George's advancement seem incremental by comparison. The Hornets' win total and playoff probability will heavily influence whether George receives consideration—if Charlotte remains a lottery team, individual improvement gets discounted. Additionally, any soft tissue injury or shooting slump would crater his odds further, especially if the team pivots to other younger pieces.
+The bear case is more compelling. MIP historically goes to All-Star caliber players with 8-15 PPG floors breaking out to 20+ PPG, not players already at 24 PPG. George would need to reach 28-30 PPG while maintaining efficiency to truly stand out, and shooting improvements at that volume rarely materialize dramatically. Injury risk exists with his knee history, and competition from Donovan Clingan, Matas Buzelis, and second-year wings in better positions will be fierce. The Jazz's win-total expectations (sub-40 wins likely) may also suppress voter consideration since MIP voters occasionally weight team success.
 
-Key catalysts include Charlotte's performance trajectory through January 2026 (if they're under .500, George's MIP case weakens significantly), his three-point percentage trends (must sustain above 35% to show tangible improvement), and December 2025 All-Star voting as an early indicator of national perception. Monitor rookie extension discussions around December 2025, as contract negotiations may signal the franchise's confidence in his development arc. A mid-season trade deadline move involving George would essentially eliminate his candidacy, while a healthy full season with 20+ PPG on improved efficiency could push odds to 2-3%.
+Watch for George's shooting splits in November-December road games and his assist rate by All-Star break; either stagnation or progress toward 5+ APG would clarify whether he's genuinely improving or consolidating. Any missed time or decline in efficiency below 42% FG invalidates the case entirely. The Jazz's mid-season trade deadline decisions and playoff positioning (or lack thereof) will also influence voter attention toward George versus more visible competitors.
 
 ## Related Markets
 
@@ -39,17 +40,17 @@ Key catalysts include Charlotte's performance trajectory through January 2026 (i
 
 ## Frequently Asked Questions
 
-### Does the extremely low 0.7% reflect that George was already too good as a rookie to win MIP?
+### How much would George's scoring need to increase to genuinely contend for MIP voting?
 
-Partially—MIP rewards dramatic improvement, not just good play. If George was already a 16+ PPG starter, his path to "most improved" requires exceptional relative gains that are harder to achieve than a bench player reaching 18 PPG.
+He'd likely need to reach 28-30 PPG on 44%+ FG while adding 2-3 assists per game; maintaining his current 24 PPG with incremental improvements is insufficient against established breakout candidates.
 
-### What statistical threshold would George need to hit to become genuinely competitive for MIP consideration?
+### Does Utah's likely poor win-total hurt George's MIP chances compared to players on playoff teams?
 
-A jump to 22-24 PPG with 35%+ three-point shooting and improved playmaking (4+ APG) would make him viable, but even then, he'd need Charlotte's win total to spike significantly for voters to overlook more dramatic improvements elsewhere.
+Yes, significantly—voters sometimes favor guards on winning teams, and a sub-40 win Jazz team may receive less media coverage during MVP/MIP narrative building despite George's individual numbers.
 
-### How much does the Hornets' playoff probability matter to George's MIP odds?
+### What's the realistic path to 0.6% odds being profitable before June 2026?
 
-Substantially—MIP voting historically skews toward players on winning teams. If Charlotte stays lottery-bound, George's individual improvement gets heavily discounted relative to similarly performing players on playoff teams, potentially capping his odds below 2% regardless of stats.
+Betting YES only makes sense if George reaches 28+ PPG by February with clear All-Star consideration; otherwise, exits at 1-2% after poor December data become prudent risk management.
 
 ## Learn More
 

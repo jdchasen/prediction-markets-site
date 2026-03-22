@@ -1,56 +1,56 @@
 ---
 title: "Will Mauricio Pochettino be appointed as manager of Tottenham?"
-description: "Will Mauricio Pochettino be appointed as manager of Tottenham? Odds: 42.0% YES on Polymarket. See live prices and trade this market."
+description: "Will Mauricio Pochettino be appointed as manager of Tottenham? Odds: 37.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Mauricio Pochettino be appointed as manager of Tottenham?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-03-21
+lastUpdated: 2026-03-22
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 42.0
-polymarketNo: 58.0
-polymarketVolume: 9740
+polymarketYes: 37.0
+polymarketNo: 63.0
+polymarketVolume: 9813
 polymarketUrl: "https://polymarket.com/event/will-mauricio-pochettino-be-appointed-as-manager-of-tottenham"
-analysisDate: 2026-03-21
+analysisDate: 2026-03-22
 ---
 
-# Analysis: Mauricio Pochettino and Tottenham Management
+# Pochettino to Tottenham Market Analysis
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 42.0% | 58.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 37.0% | 63.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-This market appears miscategorized as "politics" when it concerns sports management, but the 42% YES odds reflect genuine uncertainty about whether the Argentine manager will return to lead Spurs before the end of 2026. The question's relevance hinges on Tottenham's current managerial situation and Pochettino's availability in the market over the next two years.
+The market is currently pricing a 37% probability of Mauricio Pochettino returning to manage Tottenham before the end of 2026, reflecting genuine uncertainty about both managerial stability in North London and Pochettino's future availability. This matters now because Tottenham's current manager situation has become volatile following managerial changes, and the market is attempting to price in the likelihood of a high-profile reunion during a specific window.
 
-The bull case for Pochettino's appointment rests on his proven track record at Spurs (2014-2019), where he transformed the club into a Champions League finalist and established a distinctive playing philosophy that many fans and observers believe was prematurely cut short. If Tottenham's current manager underperforms or the club experiences instability, Pochettino becomes an obvious candidate given his prior success and deep institutional knowledge. His previous experience managing Paris Saint-Germain and Chelsea provides relevant recent credentials. Additionally, the extended timeline through December 2026 allows for multiple managerial cycles and unexpected departures that could trigger his hiring.
+The bull case centers on Pochettino's proven history with Tottenham—he managed the club from 2014-2019, established their playing identity, and reached a Champions League final, creating institutional memory and fan desire for his return. If Tottenham's current manager underperforms significantly or is sacked before late 2026, or if Pochettino becomes available from a top club (particularly if he's removed from a role like Chelsea or a major European side), the market probability should spike materially. The 37% odds suggest the market sees a meaningful path to appointment, likely within the next 12-18 months during a potential managerial transition window.
 
-The bear case centers on Pochettino's current commitment elsewhere. If he remains employed at a competitive club or secures another high-profile position, Tottenham would need to make an unusually aggressive move to dislodge him. Tottenham's tendency to hire managers with different philosophies (Jose Mourinho, Antonio Conte) suggests the club may prefer fresh approaches rather than retreading past relationships. The 42% odds already price in substantial doubt about his return, implying traders view alternative candidates as more likely to fill the role before 2027.
+The bear case is substantial: Pochettino may be unavailable at the critical moment Tottenham needs a manager, tied to longer contracts at other clubs or focused on national team management. Additionally, Tottenham's ownership may prefer alternatives—younger managers with different tactical approaches or candidates with recent success at comparable or bigger clubs. The expiry date of end-2026 is relatively distant, giving multiple opportunities for other candidates to become entrenched or for Pochettino to move in different directions entirely, reducing the probability his path aligns with a Tottenham opening.
 
-Key catalysts to monitor include mid-season managerial changes (typically November-December and March-April), Tottenham's performance trajectory through the 2024-25 and 2025-26 seasons, and Pochettino's own managerial moves. Any announcement of his hiring elsewhere would likely drive YES odds down sharply, while Tottenham managerial instability or explicit player/fan campaigns for his return could move odds higher.
+Key catalysts include any managerial change at Tottenham's current helm (which could happen mid-season or during summer transfers), Pochettino's status changes at his current club, and mid-season results that trigger board discussions about continuity or change. Traders should monitor Tottenham's league position and fan sentiment quarterly, managerial speculation in English football media, and any contract updates for Pochettino. The market will likely compress dramatically if Tottenham appoints another manager on a long-term deal or if Pochettino signs a new extended contract elsewhere, while spiking if either party enters negotiations.
 
 ## Related Markets
 
 - [Will Alexandria Ocasio-Cortez win the 2028 US Presidential Election?](/odds/will-alexandria-ocasio-cortez-win-the-2028-us-presidential-election) — 5% YES
 - [Will Chris Murphy win the 2028 Democratic presidential nomination?](/odds/will-chris-murphy-win-the-2028-democratic-presidential-nomination) — 1% YES
-- [Will Greece win Eurovision 2026?](/odds/will-greece-win-eurovision-2026) — 6% YES
+- [Will Switzerland win Eurovision 2026?](/odds/will-switzerland-win-eurovision-2026) — 0% YES
 
 ## Frequently Asked Questions
 
-### Does Pochettino need to be without a job for this market to resolve YES, or could he move directly from another club to Tottenham?
+### What's the primary reason this market is at 37% rather than much higher given Pochettino's history with the club?
 
-The market would likely resolve YES regardless of employment status—a direct move from another club counts as an appointment. The key is whether Tottenham announces him as their manager before the December 31, 2026 deadline.
+The market is discounting for timing risk—Pochettino may be unavailable when Tottenham actually needs a manager, and club ownership may prefer alternative candidates, making simultaneous availability less likely than nostalgia alone would suggest.
 
-### How would this market resolve if Pochettino is appointed as interim manager or in a temporary capacity?
+### How would confirmation of a new long-term Tottenham manager appointment affect this market?
 
-This depends on the exact market language, but most prediction markets distinguish between interim and permanent appointments. Clarify whether "appointed as manager" requires a formal, multi-year contract versus temporary leadership.
+It would collapse the probability sharply downward, potentially to single digits, since appointing another manager significantly reduces the likelihood of a Pochettino appointment before 2027 unless that manager is quickly sacked.
 
-### If Pochettino is appointed to a different Premier League club before 2026, does that make his Tottenham appointment less likely?
+### If Pochettino were removed from his current position in 2025, how would that change the odds?
 
-Yes, significantly. Being locked into a competitive job elsewhere would make a mid-contract move to Tottenham highly unlikely unless he's sacked first, which would damage his stock and Tottenham's willingness to hire him.
+It would likely cause a sharp increase in the probability, as his availability would suddenly align with potential Tottenham openings, removing a major constraint on the market pricing.
 
 ## Learn More
 

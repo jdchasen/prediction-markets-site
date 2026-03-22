@@ -4,14 +4,13 @@ description: "Cuban regime falls in 2026? Odds: 37.5% YES on Polymarket. See liv
 marketQuestion: "Cuban regime falls in 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-03-21
+lastUpdated: 2026-03-22
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 37.5
 polymarketNo: 62.5
-polymarketVolume: 97864
+polymarketVolume: 98249
 polymarketUrl: "https://polymarket.com/event/cuban-regime-falls-in-2026"
-analysisDate: 2026-03-21
 ---
 
 Prediction markets are giving roughly one-in-three odds that Cuba's communist government will collapse within the next two years, reflecting growing awareness of the regime's economic fragility while acknowledging the system's historical resilience despite decades of pressure.

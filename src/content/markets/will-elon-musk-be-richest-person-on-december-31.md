@@ -1,17 +1,16 @@
 ---
 title: "Will Elon Musk be richest person on December 31?"
-description: "Will Elon Musk be richest person on December 31? Odds: 88.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Elon Musk be richest person on December 31? Odds: 89.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Elon Musk be richest person on December 31?"
 category: "tech"
-status: "settled"
-lastUpdated: 2026-03-20
+status: "active"
+lastUpdated: 2026-03-22
 expiryDate: 2026-12-31
 tags: ["polymarket", "tech"]
-polymarketYes: 88.5
-polymarketNo: 11.5
-polymarketVolume: 95768
+polymarketYes: 89.5
+polymarketNo: 10.5
+polymarketVolume: 95930
 polymarketUrl: "https://polymarket.com/event/will-elon-musk-be-richest-person-on-december-31-797"
-analysisDate: 2026-03-20
 ---
 
 Traders are heavily backing Elon Musk to retain his position as the world's wealthiest person through the end of 2026, reflecting confidence in Tesla's trajectory and his diversified empire despite significant volatility ahead.

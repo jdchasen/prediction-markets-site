@@ -1,17 +1,16 @@
 ---
 title: "Will the Montreal Canadiens win the 2026 NHL Stanley Cup?"
-description: "Will the Montreal Canadiens win the 2026 NHL Stanley Cup? Odds: 2.9% YES on Polymarket. See live prices and trade this market."
+description: "Will the Montreal Canadiens win the 2026 NHL Stanley Cup? Odds: 3.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Montreal Canadiens win the 2026 NHL Stanley Cup?"
 category: "sports"
 status: "active"
-lastUpdated: 2026-03-21
+lastUpdated: 2026-03-22
 expiryDate: 2026-06-30
 tags: ["polymarket", "sports"]
-polymarketYes: 2.9
-polymarketNo: 97.1
-polymarketVolume: 964036
+polymarketYes: 3.0
+polymarketNo: 97.0
+polymarketVolume: 969028
 polymarketUrl: "https://polymarket.com/event/will-the-montreal-canadiens-win-the-2026-nhl-stanley-cup"
-analysisDate: 2026-03-21
 ---
 
 The Montreal Canadiens sit near the bottom of Stanley Cup futures with just under 3% implied probability, reflecting their position as one of the NHL's rebuilding franchises with minimal expectations for championship contention by 2026.

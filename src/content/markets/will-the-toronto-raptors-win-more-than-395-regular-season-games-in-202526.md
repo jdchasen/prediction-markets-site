@@ -3,8 +3,8 @@ title: "Will the Toronto Raptors win more than 39.5 regular season games in 2025
 description: "Will the Toronto Raptors win more than 39.5 regular season games in 2025–26? Odds: 99.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Toronto Raptors win more than 39.5 regular season games in 2025–26?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-21
+status: "settled"
+lastUpdated: 2026-03-22
 expiryDate: 2026-04-12
 tags: ["politics", "polymarket"]
 polymarketYes: 99.5

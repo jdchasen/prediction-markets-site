@@ -3,8 +3,8 @@ title: "Will the Democratic Coalition (DK) win the most seats in the next Hungar
 description: "Will the Democratic Coalition (DK) win the most seats in the next Hungarian parliamentary election? Odds: 0.1% YES on Polymarket. See live prices and trade t..."
 marketQuestion: "Will the Democratic Coalition (DK) win the most seats in the next Hungarian parliamentary election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-21
+status: "settled"
+lastUpdated: 2026-03-22
 expiryDate: 2026-04-12
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.1

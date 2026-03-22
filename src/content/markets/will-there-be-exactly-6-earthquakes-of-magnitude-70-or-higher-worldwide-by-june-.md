@@ -1,17 +1,16 @@
 ---
 title: "Will there be exactly 6 earthquakes of magnitude 7.0 or higher worldwide by June 30?"
-description: "Will there be exactly 6 earthquakes of magnitude 7.0 or higher worldwide by June 30? Odds: 22.5% YES on Polymarket. See live prices and trade this market."
+description: "Will there be exactly 6 earthquakes of magnitude 7.0 or higher worldwide by June 30? Odds: 25.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will there be exactly 6 earthquakes of magnitude 7.0 or higher worldwide by June 30?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-03-21
+lastUpdated: 2026-03-22
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
-polymarketYes: 22.5
-polymarketNo: 77.5
-polymarketVolume: 99473
+polymarketYes: 25.5
+polymarketNo: 74.5
+polymarketVolume: 99724
 polymarketUrl: "https://polymarket.com/event/will-there-be-exactly-6-earthquakes-of-magnitude-7pt0-or-higher-worldwide-by-june-30"
-analysisDate: 2026-03-21
 ---
 
 Traders are pricing just over one-in-five odds that exactly six major earthquakes will strike globally through mid-2026, a precise numerical target that makes this an unusual geophysical prediction market with little room for error.

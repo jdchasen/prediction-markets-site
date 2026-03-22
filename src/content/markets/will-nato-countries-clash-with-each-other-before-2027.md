@@ -4,14 +4,13 @@ description: "Will NATO countries clash with each other before 2027? Odds: 7.8% 
 marketQuestion: "Will NATO countries clash with each other before 2027?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-03-21
+lastUpdated: 2026-03-22
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 7.8
 polymarketNo: 92.2
-polymarketVolume: 9902
+polymarketVolume: 9919
 polymarketUrl: "https://polymarket.com/event/will-nato-countries-clash-with-each-other-before-2027"
-analysisDate: 2026-03-21
 ---
 
 # NATO Internal Conflict: A Low-Probability Event Reflected in 7.8% Odds
