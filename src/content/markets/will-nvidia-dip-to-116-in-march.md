@@ -4,14 +4,13 @@ description: "Will NVIDIA dip to $116 in March? Odds: 0.5% YES on Polymarket. Se
 marketQuestion: "Will NVIDIA dip to $116 in March?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-03-22
+lastUpdated: 2026-03-23
 expiryDate: 2026-04-01
 tags: ["politics", "polymarket"]
 polymarketYes: 0.5
 polymarketNo: 99.5
-polymarketVolume: 98446
+polymarketVolume: 98599
 polymarketUrl: "https://polymarket.com/event/will-nvda-dip-to-116-in-march"
-analysisDate: 2026-03-22
 ---
 
 This market shows extreme skepticism about NVIDIA shares falling to $116 by April 2026, with traders pricing just a half-percent chance of such a dramatic decline from current levels around $140 (as of March 2025), though notably the stock would need to remain suppressed for over a year to resolve YES.

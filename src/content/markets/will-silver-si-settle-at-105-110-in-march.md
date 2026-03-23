@@ -3,8 +3,8 @@ title: "Will Silver (SI) settle at $105-$110 in March?"
 description: "Will Silver (SI) settle at $105-$110 in March? Odds: 2.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Silver (SI) settle at $105-$110 in March?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-22
+status: "settled"
+lastUpdated: 2026-03-23
 expiryDate: 2026-03-31
 tags: ["politics", "polymarket"]
 polymarketYes: 2.4

@@ -1,55 +1,56 @@
 ---
 title: "Will AC Milan finish in the top 4 in the 2025-26 Serie A season?"
-description: "Will AC Milan finish in the top 4 in the 2025-26 Serie A season? Odds: 92.2% YES on Polymarket. See live prices and trade this market."
+description: "Will AC Milan finish in the top 4 in the 2025-26 Serie A season? Odds: 90.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will AC Milan finish in the top 4 in the 2025-26 Serie A season?"
 category: "politics"
-status: "settled"
-lastUpdated: 2026-03-22
+status: "active"
+lastUpdated: 2026-03-23
 expiryDate: 2026-05-28
 tags: ["politics", "polymarket"]
-polymarketYes: 92.2
-polymarketNo: 7.8
-polymarketVolume: 9599
+polymarketYes: 90.5
+polymarketNo: 9.4
+polymarketVolume: 9728
 polymarketUrl: "https://polymarket.com/event/will-ac-milan-finish-in-the-top-4-in-the-2025-26-serie-a-season"
+analysisDate: 2026-03-23
 ---
 
-# AC Milan Top-4 Finish 2025-26 Analysis
+# AC Milan Top-4 Finish Analysis
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 92.9% | 7.1% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 90.5% | 9.4% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The market is pricing AC Milan as a near-certain top-four finisher next season, with 92.9% confidence suggesting traders view them as structurally positioned among Serie A's elite despite recent inconsistency. This matters now because Milan's current squad composition, January transfer window activity, and managerial stability will largely determine whether they can sustain Champions League qualification over the next 18 months.
+The market is pricing AC Milan as a near-certainty to finish in Serie A's top four next season, but this confidence appears misaligned with the club's recent trajectory and structural vulnerabilities. With nearly 18 months until the May 2026 finish line, there's substantial time for roster changes, managerial shifts, and competitive dynamics to shift the outcome, yet the 90.5% odds suggest traders are underweighting downside scenarios.
 
-The bull case rests on Milan's historical strength, existing star power (particularly in attack), and the likelihood that new ownership/management will inject resources to compete. Milan has finished top-four in most recent seasons and faces a relatively weak mid-table Serie A where only Inter, Napoli, and Juventus consistently compete at their level. If they secure 1-2 marquee midfield signings before the August 2025 transfer deadline and maintain managerial continuity, finishing outside the top four would require substantial underperformance. The Serie A calendar typically features a winter break (late December through early January), creating natural reset points where struggling clubs can course-correct.
+The bull case rests on AC Milan's historical pedigree, current squad quality, and the likelihood that ownership will invest aggressively in January and summer 2025 transfers to close gaps with Inter and Juventus. The club's investment in young talent like Theo Hernández and recent additions provide a foundation, and Serie A's relative competitive depth means finishing fourth requires consistency rather than dominance. If current manager Paulo Fonseca stabilizes the defense and the midfield (particularly Ismael Benjanin Yedder or comparable January signings) performs, Milan has the offensive weapons through Leão and Pulisic to accumulate enough points. The market is essentially betting that a club of Milan's resources and ambition won't catastrophically underperform over a full season.
 
-The bear case centers on Milan's volatility and documented injury problems that could derail a thin squad. Juventus and Roma have shown Serie A's mid-tier teams can execute well when properly managed, and if Milan experiences significant departures (losing a key player to injury long-term or summer exits), their depth becomes vulnerable. Additionally, the 2025-26 season's Champions League calendar will intensify fixture congestion starting September 2025, potentially exposing squad weaknesses. Historical precedent shows Milan has missed top-four only twice in the last 15 years, but both instances involved managerial crises that theoretically could recur.
+The bear case hinges on execution risk and recent underperformance. Milan finished second last season but has shown inconsistency in closing out matches and converting chances; a fractional drop in conversion rates compounds over 38 games. Injuries to key players like Leão or defensive anchor Fikayo Tomori could derail a season, and Fonseca's tactical approach has drawn criticism. More critically, Inter and Juventus are spending aggressively while Roma, Lazio, and Atalanta (if they maintain focus) represent tighter competition for top-four spots than the odds suggest. If Milan's January transfer window underperforms or a key midfielder departs, the gap widens materially.
 
-Key catalysts to monitor: the January 2025 transfer window closing date (February 3) will signal Milan's ambition level; any managerial change would significantly alter trajectory; and Milan's opening 8-10 Serie A matches (August-September 2025) will provide early form indicators. Traders should watch for injury updates on key players and any reported unrest in the dressing room, both of which could compress these odds downward if they signal systemic problems rather than temporary slumps.
+Traders should monitor three catalysts: AC Milan's January 2025 transfer activity (watch for spending levels relative to rivals by late January), Fonseca's job security through the first half of 2025-26 (managerial instability typically correlates with mid-table finishes), and injury reports on Leão, Tomori, and Calabria. The odds compress risk substantially; a 10-15% correction downward would be justified if Milan stumbles in early 2025-26 or if Inter/Juve make marquee signings that widen the gap. This market is overpriced for a club with real execution uncertainty.
 
 ## Related Markets
 
-- [US x Iran ceasefire by March 31?](/odds/us-x-iran-ceasefire-by-march-31) — 12% YES
-- [Will Robert F. Kennedy Jr. win the 2028 Republican presidential nomination?](/odds/will-robert-f-kennedy-jr-win-the-2028-republican-presidential-nomination) — 1% YES
-- [Will Alexandria Ocasio-Cortez win the 2028 US Presidential Election?](/odds/will-alexandria-ocasio-cortez-win-the-2028-us-presidential-election) — 5% YES
+- [Will Chris Murphy win the 2028 Democratic presidential nomination?](/odds/will-chris-murphy-win-the-2028-democratic-presidential-nomination) — 1% YES
+- [Trump out as President by March 31?](/odds/trump-out-as-president-by-march-31) — 0% YES
+- [Will Austria win Eurovision 2026?](/odds/will-austria-win-eurovision-2026) — 0% YES
 
 ## Frequently Asked Questions
 
-### Why is a sports market categorized as "politics"?
+### What specific transfer spending or signings would materially shift these odds downward?
 
-This appears to be a data error or miscategorization on the platform; AC Milan's league finish is a sports prediction with no political component and should fall under sports markets.
+Failure to reinforce midfield depth by late January 2025 or loss of a key attacking player like Leão to injury or transfer would likely push the YES odds down 5-10 points; conversely, landing a top-tier midfielder (e.g., Florian Wirtz-caliber player) would reinforce the 90%+ odds.
 
-### What specific transfer activity would most threaten this market outcome?
+### How much does Milan's historical status as a "Big Three" club inflate these odds versus their actual recent performance?
 
-Departure of either Theo Hernández or Rafael Leão in summer 2025 without adequate replacement would meaningfully increase top-four failure risk, as these players represent irreplaceable attacking/defensive contributions.
+Milan finished second in 2023-24 but has shown inconsistency in clutch moments; the 90.5% odds appear to price in legacy and spending power rather than demonstrated execution, suggesting a 5-8% risk premium for clubs relying on historical expectations.
 
-### How much does the Italian Cup (Coppa Italia) schedule impact this prediction?
+### If Juventus or Inter make a dominant transfer window move in summer 2025, how would that reshape the competitive math?
 
-Coppa Italia fixture congestion (matches typically occur mid-week through January-February 2026) directly affects squad rotation and injury risk management, making a deep run more taxing on depth than a first-round exit would be.
+A marqu
 
 ## Learn More
 

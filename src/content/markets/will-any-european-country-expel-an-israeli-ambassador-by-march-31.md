@@ -3,8 +3,8 @@ title: "Will any European country expel an Israeli ambassador by March 31?"
 description: "Will any European country expel an Israeli ambassador by March 31? Odds: 2.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will any European country expel an Israeli ambassador by March 31?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-22
+status: "settled"
+lastUpdated: 2026-03-23
 expiryDate: 2026-03-31
 tags: ["politics", "polymarket"]
 polymarketYes: 2.9

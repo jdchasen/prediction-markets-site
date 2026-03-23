@@ -3,8 +3,8 @@ title: "Will Dan Hooker fight Charles Oliveira next?"
 description: "Will Dan Hooker fight Charles Oliveira next? Odds: 1.6% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Dan Hooker fight Charles Oliveira next?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-22
+status: "settled"
+lastUpdated: 2026-03-23
 expiryDate: 2027-03-01
 tags: ["politics", "polymarket"]
 polymarketYes: 1.6

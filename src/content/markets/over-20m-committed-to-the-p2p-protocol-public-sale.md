@@ -1,17 +1,16 @@
 ---
 title: "Over $20M committed to the P2P Protocol public sale?"
-description: "Over $20M committed to the P2P Protocol public sale? Odds: 46.0% YES on Polymarket. See live prices and trade this market."
+description: "Over $20M committed to the P2P Protocol public sale? Odds: 50.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Over $20M committed to the P2P Protocol public sale?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-03-22
+lastUpdated: 2026-03-23
 expiryDate: 2026-07-01
 tags: ["politics", "polymarket"]
-polymarketYes: 46.0
-polymarketNo: 54.0
-polymarketVolume: 9852
+polymarketYes: 50.5
+polymarketNo: 49.5
+polymarketVolume: 9916
 polymarketUrl: "https://polymarket.com/event/over-20m-committed-to-the-p2p-protocol-public-sale-545-292-663"
-analysisDate: 2026-03-22
 ---
 
 # P2P Protocol Public Sale Market Analysis

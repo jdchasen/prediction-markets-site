@@ -3,8 +3,8 @@ title: "Will the next UK election be called by June 30, 2026?"
 description: "Will the next UK election be called by June 30, 2026? Odds: 5.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the next UK election be called by June 30, 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-22
+status: "settled"
+lastUpdated: 2026-03-23
 expiryDate: 2026-06-30
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 5.9

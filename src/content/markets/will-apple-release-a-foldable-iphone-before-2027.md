@@ -3,8 +3,8 @@ title: "Will Apple release a foldable iPhone before 2027?"
 description: "Will Apple release a foldable iPhone before 2027? Odds: 80.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Apple release a foldable iPhone before 2027?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-22
+status: "settled"
+lastUpdated: 2026-03-23
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 80.5

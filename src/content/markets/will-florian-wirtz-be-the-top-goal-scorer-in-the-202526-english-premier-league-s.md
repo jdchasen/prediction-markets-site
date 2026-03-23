@@ -3,8 +3,8 @@ title: "Will Florian Wirtz be the top goal scorer in the 2025–26 English Premi
 description: "Will Florian Wirtz be the top goal scorer in the 2025–26 English Premier League season? Odds: 1.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Florian Wirtz be the top goal scorer in the 2025–26 English Premier League season?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-03-22
+status: "settled"
+lastUpdated: 2026-03-23
 expiryDate: 2026-05-27
 tags: ["polymarket", "sports"]
 polymarketYes: 1.0

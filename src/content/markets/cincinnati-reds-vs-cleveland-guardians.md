@@ -3,8 +3,8 @@ title: "Cincinnati Reds vs. Cleveland Guardians"
 description: "Cincinnati Reds vs. Cleveland Guardians Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Cincinnati Reds vs. Cleveland Guardians"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-22
+status: "settled"
+lastUpdated: 2026-03-23
 expiryDate: 2026-03-29
 tags: ["politics", "polymarket"]
 polymarketYes: 0.1

@@ -3,8 +3,8 @@ title: "Will Larry Page be 2nd richest person on March 31?"
 description: "Will Larry Page be 2nd richest person on March 31? Odds: 97.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Larry Page be 2nd richest person on March 31?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-22
+status: "settled"
+lastUpdated: 2026-03-23
 expiryDate: 2026-03-31
 tags: ["politics", "polymarket"]
 polymarketYes: 97.5

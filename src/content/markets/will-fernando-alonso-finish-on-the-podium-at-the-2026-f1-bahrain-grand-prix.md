@@ -4,14 +4,13 @@ description: "Will Fernando Alonso finish on the podium at the 2026 F1 Bahrain G
 marketQuestion: "Will Fernando Alonso finish on the podium at the 2026 F1 Bahrain Grand Prix?"
 category: "sports"
 status: "active"
-lastUpdated: 2026-03-22
+lastUpdated: 2026-03-23
 expiryDate: 2026-04-19
 tags: ["ai", "polymarket", "sports"]
 polymarketYes: 46.0
 polymarketNo: 54.0
-polymarketVolume: 9729
+polymarketVolume: 9856
 polymarketUrl: "https://polymarket.com/event/f1-bahrain-grand-prix-driver-podium-alonso-2026-04-12"
-analysisDate: 2026-03-22
 ---
 
 # Analysis: Alonso's 2026 Bahrain Podium Chances

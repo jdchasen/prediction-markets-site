@@ -3,8 +3,8 @@ title: "Will gas hit (Low) $3.10 by March 31?"
 description: "Will gas hit (Low) $3.10 by March 31? Odds: 2.6% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will gas hit (Low) $3.10 by March 31?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-22
+status: "settled"
+lastUpdated: 2026-03-23
 expiryDate: 2026-03-31
 tags: ["politics", "polymarket"]
 polymarketYes: 2.6

@@ -3,8 +3,8 @@ title: "Will Sophia Chikirou win the Paris mayor election?"
 description: "Will Sophia Chikirou win the Paris mayor election? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Sophia Chikirou win the Paris mayor election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-22
+status: "settled"
+lastUpdated: 2026-03-23
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.1
 polymarketNo: 100.0

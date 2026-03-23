@@ -3,8 +3,8 @@ title: "Fannie Mae IPO before 2027?"
 description: "Fannie Mae IPO before 2027? Odds: 13.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Fannie Mae IPO before 2027?"
 category: "finance"
-status: "active"
-lastUpdated: 2026-03-22
+status: "settled"
+lastUpdated: 2026-03-23
 expiryDate: 2026-12-31
 tags: ["finance", "polymarket"]
 polymarketYes: 13.5

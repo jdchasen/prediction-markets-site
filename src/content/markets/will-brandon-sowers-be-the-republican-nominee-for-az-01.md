@@ -3,8 +3,8 @@ title: "Will Brandon Sowers be the Republican nominee for AZ-01?"
 description: "Will Brandon Sowers be the Republican nominee for AZ-01? Odds: 2.3% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Brandon Sowers be the Republican nominee for AZ-01?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-22
+status: "settled"
+lastUpdated: 2026-03-23
 expiryDate: 2026-08-04
 tags: ["politics", "polymarket"]
 polymarketYes: 2.3

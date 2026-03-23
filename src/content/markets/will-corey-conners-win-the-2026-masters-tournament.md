@@ -3,8 +3,8 @@ title: "Will Corey Conners win the 2026 Masters tournament?"
 description: "Will Corey Conners win the 2026 Masters tournament? Odds: 1.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Corey Conners win the 2026 Masters tournament?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-03-22
+status: "settled"
+lastUpdated: 2026-03-23
 expiryDate: 2026-04-13
 tags: ["polymarket", "sports"]
 polymarketYes: 1.1

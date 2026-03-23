@@ -3,8 +3,8 @@ title: "Meloni out as Prime Minister of Italy by June 30?"
 description: "Meloni out as Prime Minister of Italy by June 30? Odds: 5.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Meloni out as Prime Minister of Italy by June 30?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-22
+status: "settled"
+lastUpdated: 2026-03-23
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
 polymarketYes: 5.8

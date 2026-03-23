@@ -3,8 +3,8 @@ title: "Will Ted Cruz post 20-39 posts from March 20 to March 27, 2026?"
 description: "Will Ted Cruz post 20-39 posts from March 20 to March 27, 2026? Odds: 0.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Ted Cruz post 20-39 posts from March 20 to March 27, 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-22
+status: "settled"
+lastUpdated: 2026-03-23
 expiryDate: 2026-03-27
 tags: ["politics", "polymarket"]
 polymarketYes: 0.7

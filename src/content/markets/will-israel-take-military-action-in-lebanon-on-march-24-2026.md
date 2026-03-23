@@ -3,8 +3,8 @@ title: "Will Israel take military action in Lebanon on March 24, 2026?"
 description: "Will Israel take military action in Lebanon on March 24, 2026? Odds: 94.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Israel take military action in Lebanon on March 24, 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-22
+status: "settled"
+lastUpdated: 2026-03-23
 expiryDate: 2026-03-31
 tags: ["politics", "polymarket"]
 polymarketYes: 94.5

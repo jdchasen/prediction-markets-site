@@ -3,8 +3,8 @@ title: "Will the price of Ethereum be between $1,900 and $2,000 on March 27?"
 description: "Will the price of Ethereum be between $1,900 and $2,000 on March 27? Odds: 20.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the price of Ethereum be between $1,900 and $2,000 on March 27?"
 category: "crypto"
-status: "active"
-lastUpdated: 2026-03-22
+status: "settled"
+lastUpdated: 2026-03-23
 expiryDate: 2026-03-27
 tags: ["crypto", "ethereum", "polymarket"]
 polymarketYes: 20.0
