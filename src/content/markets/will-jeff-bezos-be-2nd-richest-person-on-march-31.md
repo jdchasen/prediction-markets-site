@@ -3,7 +3,7 @@ title: "Will Jeff Bezos be 2nd richest person on March 31?"
 description: "Will Jeff Bezos be 2nd richest person on March 31? Odds: 1.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Jeff Bezos be 2nd richest person on March 31?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-23
 expiryDate: 2026-03-31
 tags: ["politics", "polymarket"]

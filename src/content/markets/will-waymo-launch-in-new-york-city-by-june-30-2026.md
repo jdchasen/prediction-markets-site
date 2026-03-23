@@ -9,9 +9,8 @@ expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
 polymarketYes: 8.5
 polymarketNo: 91.5
-polymarketVolume: 9929
+polymarketVolume: 9946
 polymarketUrl: "https://polymarket.com/event/will-waymo-launch-in-new-york-city-by-june-30-2026"
-analysisDate: 2026-03-23
 ---
 
 # Waymo NYC Launch Market Analysis

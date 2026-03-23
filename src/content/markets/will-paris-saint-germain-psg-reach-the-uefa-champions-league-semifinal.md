@@ -3,7 +3,7 @@ title: "Will Paris Saint-Germain (PSG) reach the UEFA Champions League semifinal
 description: "Will Paris Saint-Germain (PSG) reach the UEFA Champions League semifinal? Odds: 60.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Paris Saint-Germain (PSG) reach the UEFA Champions League semifinal?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-23
 expiryDate: 2026-05-07
 tags: ["ai", "polymarket", "sports"]

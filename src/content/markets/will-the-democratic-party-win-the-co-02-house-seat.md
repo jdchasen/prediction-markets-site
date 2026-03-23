@@ -11,7 +11,6 @@ polymarketYes: 92.0
 polymarketNo: 8.0
 polymarketVolume: 9573
 polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-co-02-house-seat"
-analysisDate: 2026-03-23
 ---
 
 # CO-02 Democratic Hold Analysis

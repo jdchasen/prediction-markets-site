@@ -1,16 +1,15 @@
 ---
 title: "Will Claude 5 be released by March 31, 2026?"
-description: "Will Claude 5 be released by March 31, 2026? Odds: 1.8% YES on Polymarket. See live prices and trade this market."
+description: "Will Claude 5 be released by March 31, 2026? Odds: 3.3% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Claude 5 be released by March 31, 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-03-23
 tags: ["politics", "polymarket"]
-polymarketYes: 1.8
-polymarketNo: 98.2
-polymarketVolume: 986003
+polymarketYes: 3.3
+polymarketNo: 96.7
+polymarketVolume: 994592
 polymarketUrl: "https://polymarket.com/event/will-claude-5-be-released-by-march-31-2026-243-489-141-184"
-analysisDate: 2026-03-23
 ---
 
 This market trades at extreme long-shot odds because Claude 5 represents a major AI model release that Anthropic hasn't announced or hinted at publicly, while the March 2026 deadline sits just over two years away—an eternity in prediction markets but a compressed timeline for developing frontier AI systems.

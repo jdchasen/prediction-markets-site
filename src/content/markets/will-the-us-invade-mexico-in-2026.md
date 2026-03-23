@@ -9,9 +9,8 @@ expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 8.5
 polymarketNo: 91.5
-polymarketVolume: 95897
+polymarketVolume: 96067
 polymarketUrl: "https://polymarket.com/event/will-the-us-invade-mexico-in-2026"
-analysisDate: 2026-03-23
 ---
 
 # U.S. Invasion of Mexico in 2026: Market Analysis

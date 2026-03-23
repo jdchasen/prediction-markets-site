@@ -1,17 +1,16 @@
 ---
 title: "Will Alibaba have the best AI model at the end of June 2026?"
-description: "Will Alibaba have the best AI model at the end of June 2026? Odds: 0.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Alibaba have the best AI model at the end of June 2026? Odds: 0.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Alibaba have the best AI model at the end of June 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-03-23
 expiryDate: 2026-06-30
 tags: ["ai", "politics", "polymarket"]
-polymarketYes: 0.5
-polymarketNo: 99.5
-polymarketVolume: 95673
+polymarketYes: 0.4
+polymarketNo: 99.6
+polymarketVolume: 96754
 polymarketUrl: "https://polymarket.com/event/will-alibaba-have-the-best-ai-model-at-the-end-of-june-2026"
-analysisDate: 2026-03-23
 ---
 
 The market gives Alibaba virtually no chance of producing the world's leading AI model by mid-2026, reflecting deep skepticism about Chinese AI companies competing with American frontier labs despite China's significant AI investments and talent pool.

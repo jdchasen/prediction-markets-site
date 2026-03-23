@@ -3,7 +3,7 @@ title: "Will Carlos Espá win the 2026 Peruvian presidential election?"
 description: "Will Carlos Espá win the 2026 Peruvian presidential election? Odds: 0.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Carlos Espá win the 2026 Peruvian presidential election?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-23
 expiryDate: 2026-04-12
 tags: ["elections", "politics", "polymarket"]

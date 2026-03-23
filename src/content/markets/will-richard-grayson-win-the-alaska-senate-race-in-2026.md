@@ -11,7 +11,6 @@ polymarketYes: 0.2
 polymarketNo: 99.8
 polymarketVolume: 9707
 polymarketUrl: "https://polymarket.com/event/will-richard-grayson-win-the-alaska-senate-race-in-2026"
-analysisDate: 2026-03-23
 ---
 
 # Alaska Senate 2026: Richard Grayson's Longshot Bid

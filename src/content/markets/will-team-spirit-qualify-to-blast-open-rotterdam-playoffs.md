@@ -3,7 +3,7 @@ title: "Will Team Spirit qualify to Blast Open Rotterdam Playoffs?"
 description: "Will Team Spirit qualify to Blast Open Rotterdam Playoffs? Odds: 71.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Team Spirit qualify to Blast Open Rotterdam Playoffs?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-23
 expiryDate: 2026-03-29
 tags: ["politics", "polymarket"]

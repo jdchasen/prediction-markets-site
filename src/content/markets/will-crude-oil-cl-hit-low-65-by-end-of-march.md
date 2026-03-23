@@ -9,9 +9,8 @@ expiryDate: 2026-03-31
 tags: ["politics", "polymarket"]
 polymarketYes: 2.8
 polymarketNo: 97.2
-polymarketVolume: 984898
+polymarketVolume: 997498
 polymarketUrl: "https://polymarket.com/event/will-crude-oil-cl-hit-low-65-by-end-of-march-687-631-179-583-222-896-946-953-469-231"
-analysisDate: 2026-03-23
 ---
 
 Traders are pricing in less than 3% probability that crude oil prices will collapse to $65 or lower by March 2026, reflecting confidence that fundamental supply constraints and geopolitical tensions will maintain price floors well above this level.

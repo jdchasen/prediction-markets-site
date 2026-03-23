@@ -11,7 +11,6 @@ polymarketYes: 0.8
 polymarketNo: 99.2
 polymarketVolume: 96130
 polymarketUrl: "https://polymarket.com/event/will-casey-desantis-be-the-republican-nominee-for-florida-governor"
-analysisDate: 2026-03-23
 ---
 
 # Casey DeSantis Republican Nomination Analysis

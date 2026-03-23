@@ -11,7 +11,6 @@ polymarketYes: 0.1
 polymarketNo: 100.0
 polymarketVolume: 97797
 polymarketUrl: "https://polymarket.com/event/elon-musk-of-tweets-march-2026-1040-1079"
-analysisDate: 2026-03-23
 ---
 
 This hyper-specific prediction market on Elon Musk's tweet volume for a narrow 40-tweet range in March 2026 trades at virtually zero probability, reflecting the extreme precision required and the 24-month forecasting horizon that makes it nearly pure speculation.

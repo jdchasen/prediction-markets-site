@@ -1,17 +1,16 @@
 ---
 title: "Will Lando Norris be the 2026 F1 Drivers' Champion?"
-description: "Will Lando Norris be the 2026 F1 Drivers' Champion? Odds: 2.4% YES on Polymarket. See live prices and trade this market."
+description: "Will Lando Norris be the 2026 F1 Drivers' Champion? Odds: 2.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Lando Norris be the 2026 F1 Drivers' Champion?"
 category: "sports"
 status: "active"
 lastUpdated: 2026-03-23
 expiryDate: 2026-12-06
 tags: ["polymarket", "sports"]
-polymarketYes: 2.4
-polymarketNo: 97.7
-polymarketVolume: 968988
+polymarketYes: 2.2
+polymarketNo: 97.8
+polymarketVolume: 971013
 polymarketUrl: "https://polymarket.com/event/will-lando-norris-be-the-2026-f1-drivers-champion"
-analysisDate: 2026-03-23
 ---
 
 The market prices Lando Norris as a long-shot for the 2026 F1 title at under 3%, reflecting skepticism about McLaren's ability to compete with Red Bull and Ferrari over the next two seasons while Max Verstappen remains in his prime.

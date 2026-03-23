@@ -3,7 +3,7 @@ title: "Will there be exactly 1 earthquake of magnitude 6.5 or higher worldwide 
 description: "Will there be exactly 1 earthquake of magnitude 6.5 or higher worldwide by March 29? Odds: 31.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will there be exactly 1 earthquake of magnitude 6.5 or higher worldwide by March 29?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-23
 expiryDate: 2026-03-29
 tags: ["politics", "polymarket"]

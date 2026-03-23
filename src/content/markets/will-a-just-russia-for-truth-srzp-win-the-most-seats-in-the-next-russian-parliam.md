@@ -11,7 +11,6 @@ polymarketYes: 0.7
 polymarketNo: 99.4
 polymarketVolume: 97175
 polymarketUrl: "https://polymarket.com/event/will-a-just-russia-for-truth-srzp-win-the-most-seats-in-the-next-russian-parliamentary-election"
-analysisDate: 2026-03-23
 ---
 
 The market assigns less than 1% probability to A Just Russia – For Truth winning the most seats in Russia's 2026 parliamentary elections, reflecting the near-total dominance of United Russia in the current political system and the party's structural advantages heading into the next electoral cycle.

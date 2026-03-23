@@ -9,9 +9,8 @@ expiryDate: 2026-05-16
 tags: ["politics", "polymarket"]
 polymarketYes: 0.4
 polymarketNo: 99.7
-polymarketVolume: 969881
+polymarketVolume: 997237
 polymarketUrl: "https://polymarket.com/event/will-portugal-win-eurovision-2026"
-analysisDate: 2026-03-23
 ---
 
 The market gives Portugal virtually no chance of winning Eurovision 2026, trading at less than half a percent, reflecting both historical patterns and current competitive dynamics in the contest where the "Big Five" funding countries and regional voting blocs typically dominate.

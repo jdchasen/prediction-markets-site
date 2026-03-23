@@ -3,7 +3,7 @@ title: "Will NVIDIA (NVDA) close above $180 end of March?"
 description: "Will NVIDIA (NVDA) close above $180 end of March? Odds: 44.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will NVIDIA (NVDA) close above $180 end of March?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-23
 expiryDate: 2026-03-31
 tags: ["politics", "polymarket"]

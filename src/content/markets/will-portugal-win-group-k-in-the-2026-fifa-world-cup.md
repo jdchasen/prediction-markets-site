@@ -1,17 +1,16 @@
 ---
 title: "Will Portugal win Group K in the 2026 FIFA World Cup?"
-description: "Will Portugal win Group K in the 2026 FIFA World Cup? Odds: 67.0% YES on Polymarket. See live prices and trade this market."
+description: "Will Portugal win Group K in the 2026 FIFA World Cup? Odds: 66.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Portugal win Group K in the 2026 FIFA World Cup?"
 category: "sports"
 status: "active"
 lastUpdated: 2026-03-23
 expiryDate: 2026-06-27
 tags: ["polymarket", "sports"]
-polymarketYes: 67.0
-polymarketNo: 33.0
-polymarketVolume: 9635
+polymarketYes: 66.5
+polymarketNo: 33.5
+polymarketVolume: 9660
 polymarketUrl: "https://polymarket.com/event/will-portugal-win-group-k-in-the-2026-fifa-world-cup"
-analysisDate: 2026-03-23
 ---
 
 # Portugal Group K Analysis: 67% Odds Reflect Strong But Vulnerable Favorites

@@ -11,7 +11,6 @@ polymarketYes: 0.9
 polymarketNo: 99.2
 polymarketVolume: 97232
 polymarketUrl: "https://polymarket.com/event/will-the-arizona-diamondbacks-win-the-2026-world-series"
-analysisDate: 2026-03-23
 ---
 
 # Arizona Diamondbacks 2026 World Series Analysis

@@ -1,17 +1,16 @@
 ---
 title: "Will Elon Musk post 2000+ tweets in April 2026?"
-description: "Will Elon Musk post 2000+ tweets in April 2026? Odds: 1.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Elon Musk post 2000+ tweets in April 2026? Odds: 1.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Elon Musk post 2000+ tweets in April 2026?"
 category: "tech"
 status: "active"
 lastUpdated: 2026-03-23
 expiryDate: 2026-05-01
 tags: ["polymarket", "tech"]
-polymarketYes: 1.5
-polymarketNo: 98.5
-polymarketVolume: 9624
+polymarketYes: 1.4
+polymarketNo: 98.7
+polymarketVolume: 9757
 polymarketUrl: "https://polymarket.com/event/elon-musk-of-tweets-april-2026-2000plus"
-analysisDate: 2026-03-23
 ---
 
 # Analysis: Elon Musk Tweet Volume in April 2026

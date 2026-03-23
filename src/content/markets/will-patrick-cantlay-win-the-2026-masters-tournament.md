@@ -9,9 +9,8 @@ expiryDate: 2026-04-13
 tags: ["polymarket", "sports"]
 polymarketYes: 1.1
 polymarketNo: 99.0
-polymarketVolume: 95896
+polymarketVolume: 98665
 polymarketUrl: "https://polymarket.com/event/will-patrick-cantlay-win-the-2026-masters-tournament"
-analysisDate: 2026-03-23
 ---
 
 Patrick Cantlay's Masters chances are priced at basement levels, reflecting his age (currently 32), inconsistent major championship performance, and the depth of elite competitors who will compete at Augusta in April 2026. This market matters now because Cantlay remains a top-20 world-ranked player with tournament wins in 2024-2025, meaning the 1.1% odds may be undervaluing a player capable of contending at golf's most prestigious event.

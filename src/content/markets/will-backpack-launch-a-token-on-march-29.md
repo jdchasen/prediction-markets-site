@@ -3,7 +3,7 @@ title: "Will Backpack launch a token on March 29?"
 description: "Will Backpack launch a token on March 29? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Backpack launch a token on March 29?"
 category: "crypto"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-23
 expiryDate: 2026-04-01
 tags: ["crypto", "polymarket"]

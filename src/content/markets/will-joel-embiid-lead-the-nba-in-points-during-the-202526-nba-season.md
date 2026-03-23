@@ -9,9 +9,8 @@ expiryDate: 2026-04-12
 tags: ["polymarket", "sports"]
 polymarketYes: 0.1
 polymarketNo: 99.9
-polymarketVolume: 9595
+polymarketVolume: 9803
 polymarketUrl: "https://polymarket.com/event/nba-2025-26-ppg-leader-joel-embiid"
-analysisDate: 2026-03-23
 ---
 
 # Joel Embiid Scoring Title Analysis

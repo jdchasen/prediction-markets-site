@@ -9,9 +9,8 @@ expiryDate: 2026-09-13
 tags: ["ethereum", "politics", "polymarket"]
 polymarketYes: 0.2
 polymarketNo: 99.8
-polymarketVolume: 9682
+polymarketVolume: 9707
 polymarketUrl: "https://polymarket.com/event/will-elisabeth-thand-ringqvist-be-the-next-prime-minister-of-sweden"
-analysisDate: 2026-03-23
 ---
 
 # Elisabeth Thand Ringqvist as Sweden's Next PM: A 0.2% Outlier Bet

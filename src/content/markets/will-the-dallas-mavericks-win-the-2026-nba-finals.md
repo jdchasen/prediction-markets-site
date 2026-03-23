@@ -11,7 +11,6 @@ polymarketYes: 0.1
 polymarketNo: 100.0
 polymarketVolume: 9828449
 polymarketUrl: "https://polymarket.com/event/will-the-dallas-mavericks-win-the-2026-nba-finals"
-analysisDate: 2026-03-23
 ---
 
 The Dallas Mavericks are essentially written off by prediction markets for the 2026 NBA Finals, trading at near-zero probability more than a year before the championship round, reflecting deep skepticism about their roster construction and competitive trajectory in a stacked Western Conference.

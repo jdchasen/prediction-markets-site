@@ -9,9 +9,8 @@ expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 0.9
 polymarketNo: 99.2
-polymarketVolume: 96753
+polymarketVolume: 96757
 polymarketUrl: "https://polymarket.com/event/will-gavin-newsom-be-the-next-leader-out-before-2027-485"
-analysisDate: 2026-03-23
 ---
 
 # Newsom Leadership Market Analysis

@@ -9,9 +9,8 @@ expiryDate: 2026-06-30
 tags: ["polymarket", "sports"]
 polymarketYes: 0.2
 polymarketNo: 99.8
-polymarketVolume: 998678
+polymarketVolume: 999134
 polymarketUrl: "https://polymarket.com/event/will-the-florida-panthers-win-the-2026-nhl-stanley-cup"
-analysisDate: 2026-03-23
 ---
 
 The Florida Panthers face microscopic odds of winning the 2026 Stanley Cup, with prediction markets pricing them at near-zero probability more than a year before the championship series, reflecting severe skepticism about the team's medium-term trajectory despite their recent Finals appearances in 2023 and 2024.

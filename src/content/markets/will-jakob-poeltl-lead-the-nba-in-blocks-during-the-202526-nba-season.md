@@ -3,15 +3,14 @@ title: "Will Jakob Poeltl lead the NBA in blocks during the 2025–26 NBA season
 description: "Will Jakob Poeltl lead the NBA in blocks during the 2025–26 NBA season? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Jakob Poeltl lead the NBA in blocks during the 2025–26 NBA season?"
 category: "sports"
-status: "settled"
+status: "active"
 lastUpdated: 2026-03-23
 expiryDate: 2026-04-12
 tags: ["polymarket", "sports"]
 polymarketYes: 0.1
 polymarketNo: 99.9
-polymarketVolume: 9761
+polymarketVolume: 9781
 polymarketUrl: "https://polymarket.com/event/nba-2025-26-bpg-leader-jakob-poeltl"
-analysisDate: 2026-03-22
 ---
 
 # Jakob Poeltl Blocks Leader Market Analysis

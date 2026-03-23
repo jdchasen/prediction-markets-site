@@ -3,7 +3,7 @@ title: "Will Austria win Eurovision 2026?"
 description: "Will Austria win Eurovision 2026? Odds: 0.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Austria win Eurovision 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-23
 expiryDate: 2026-05-16
 tags: ["politics", "polymarket"]

@@ -9,9 +9,8 @@ expiryDate: 2026-04-30
 tags: ["politics", "polymarket"]
 polymarketYes: 23.0
 polymarketNo: 77.0
-polymarketVolume: 98202
+polymarketVolume: 99169
 polymarketUrl: "https://polymarket.com/event/mojtaba-khamenei-seen-in-public-by-april-30"
-analysisDate: 2026-03-23
 ---
 
 # Analysis: Mojtaba Khamenei Public Appearance Market

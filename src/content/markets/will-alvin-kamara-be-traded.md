@@ -10,7 +10,6 @@ polymarketYes: 14.0
 polymarketNo: 86.0
 polymarketVolume: 9832
 polymarketUrl: "https://polymarket.com/event/will-alvin-kamara-be-traded"
-analysisDate: 2026-03-23
 ---
 
 # Alvin Kamara Trade Market Analysis
