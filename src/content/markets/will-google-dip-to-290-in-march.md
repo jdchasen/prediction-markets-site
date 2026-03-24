@@ -3,8 +3,8 @@ title: "Will Google dip to $290 in March?"
 description: "Will Google dip to $290 in March? Odds: 39.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Google dip to $290 in March?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-23
+status: "settled"
+lastUpdated: 2026-03-24
 expiryDate: 2026-04-01
 tags: ["politics", "polymarket"]
 polymarketYes: 39.5

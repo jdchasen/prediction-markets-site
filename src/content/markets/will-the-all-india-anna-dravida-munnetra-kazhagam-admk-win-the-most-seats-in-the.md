@@ -3,8 +3,8 @@ title: "Will the All India Anna Dravida Munnetra Kazhagam (ADMK) win the most se
 description: "Will the All India Anna Dravida Munnetra Kazhagam (ADMK) win the most seats in the 2026 Tamil Nadu Legislative Assembly election? Odds: 22.4% YES on Polymark..."
 marketQuestion: "Will the All India Anna Dravida Munnetra Kazhagam (ADMK) win the most seats in the 2026 Tamil Nadu Legislative Assembly election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-23
+status: "settled"
+lastUpdated: 2026-03-24
 expiryDate: 2026-05-10
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 22.4

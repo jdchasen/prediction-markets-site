@@ -3,8 +3,8 @@ title: "Will Tisza win at least 130 seats?"
 description: "Will Tisza win at least 130 seats? Odds: 21.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Tisza win at least 130 seats?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-23
+status: "settled"
+lastUpdated: 2026-03-24
 expiryDate: 2026-04-12
 tags: ["politics", "polymarket"]
 polymarketYes: 21.0

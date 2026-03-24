@@ -4,16 +4,17 @@ description: "Will Joel Embiid lead the NBA in points during the 2025–26 NBA s
 marketQuestion: "Will Joel Embiid lead the NBA in points during the 2025–26 NBA season?"
 category: "sports"
 status: "active"
-lastUpdated: 2026-03-23
+lastUpdated: 2026-03-24
 expiryDate: 2026-04-12
 tags: ["polymarket", "sports"]
 polymarketYes: 0.1
 polymarketNo: 99.9
-polymarketVolume: 9803
+polymarketVolume: 9943
 polymarketUrl: "https://polymarket.com/event/nba-2025-26-ppg-leader-joel-embiid"
+analysisDate: 2026-03-24
 ---
 
-# Joel Embiid Scoring Title Analysis
+# Joel Embiid 2025-26 Scoring Title Analysis
 
 ## Current Odds
 
@@ -23,33 +24,33 @@ polymarketUrl: "https://polymarket.com/event/nba-2025-26-ppg-leader-joel-embiid"
 
 ## Market Analysis
 
-The market is pricing Embiid at essentially zero percent for the 2025–26 scoring title, reflecting legitimate concerns about his injury durability and competition from younger scorers entering their primes. This is worth scrutinizing because if Embiid stays healthy and maintains his current scoring efficiency (currently averaging 34.3 PPG this season), the 0.1% odds may severely undervalue his chances.
+At 0.1% odds, the market is essentially pricing out Embiid's chances of leading the league in scoring, reflecting legitimate structural concerns about his injury history and the competitive landscape he'll face. This valuation matters because it represents peak pessimism—any material shift in his health status or roster composition could dramatically reprrice this contract before the 2025-26 season tips off in October 2025.
 
-The bull case rests on Embiid's established elite scoring ability and his team's likely offensive architecture around him. He's led the league in scoring once before (2022–23) and remains the focal point of Philadelphia's offense. If the 76ers commit to a high-volume scoring role for him and he avoids significant injury through the 2025–26 season, he'd be competing against Luka Dončić, Jayson Tatum, and Shai Gilgeous-Alexander—none of whom are lock to average 30+ PPG consistently. Embiid's usage rate and shot volume have both increased this season, suggesting the team sees offensive load-carrying as central to winning.
+The bull case hinges on Embiid's elite scoring talent and Philadelphia's likely offensive architecture around him. When healthy, he averages 33+ points per game and remains the NBA's most dominant low-post scorer; if the 76ers construct their roster to maximize his usage without significant roster turnover, he enters the season as a legitimate contender. The catalyst to watch is the 76ers' roster construction this offseason and Embiid's conditioning reports during preseason (September-October 2025). Any evidence of full health recovery from his 2024-25 season injuries, combined with reduced defensive load or load management, would compress these odds significantly.
 
-The bear case is severe and largely explains the extreme odds: Embiid has played 51 games or fewer in four of the last six seasons, and foot/ankle injuries have been recurring issues. Missing 20–30 games makes it nearly impossible to win a scoring title, as eligible players typically need substantial playing time for credibility. Additionally, he'll be 31 years old during the 2025–26 season, and there's meaningful downside risk to both his volume and efficiency at that age following multiple serious injuries. Younger competitors like SGA and Tatum are entering peak years with fewer injury flags.
+The bear case is more compelling: Embiid has missed 50+ games in three of the last four seasons, and the league's scoring title typically goes to volume scorers who stay on the court. Luka Doncic, Shai Gilgeous-Alexander, and potentially Jayson Tatum are more durable alternatives with similar offensive capabilities. Even if Embiid plays 70+ games—an optimistic scenario—his lower game frequency relative to competitors makes the title statistically unlikely. The 76ers have also shown willingness to rest him strategically, which directly undermines scoring title odds.
 
-Watch for Embiid's game log through the remainder of 2024–25 and any preseason conditioning updates in October 2025. The real catalyst will be his availability rate during the 2025–26 regular season itself; if he plays 70+ games healthy, reassess the odds significantly upward. Current roster construction and trade deadline moves (particularly around whether Philly trades key pieces) will also signal commitment to Embiid's scoring volume.
+The market is essentially betting against Embiid's availability and durability rather than his ceiling talent. Traders should monitor his playoff performance in April-May 2025, his offseason training reports (July-August 2025), and any front office statements about usage philosophy before next season. If he plays 75+ games in 2024-25 without setbacks, these odds could spike to 1-2% range; conversely, any significant injury setback would cement the 0.1% valuation as fair.
 
 ## Related Markets
 
-- [Will Devin Booker win the 2025–2026 NBA MVP?](/odds/will-devin-booker-win-the-20252026-nba-mvp) — 0% YES
 - [Will the Phoenix Suns win the 2026 NBA Finals?](/odds/will-the-phoenix-suns-win-the-2026-nba-finals) — 1% YES
-- [Will the Dallas Mavericks win the 2026 NBA Finals?](/odds/will-the-dallas-mavericks-win-the-2026-nba-finals) — 0% YES
+- [Will the Miami Heat win the 2026 NBA Finals?](/odds/will-the-miami-heat-win-the-2026-nba-finals) — 1% YES
+- [Will Qatar win the 2026 FIFA World Cup?](/odds/will-qatar-win-the-2026-fifa-world-cup) — 0% YES
 
 ## Frequently Asked Questions
 
-### What's the minimum games Embiid would realistically need to play to have a legitimate scoring title chance?
+### What specific injury concerns are priced into these odds?
 
-Generally 65+ games, though 70+ would be required to seriously contend against a full-health field. Missing significant time mathematically disadvantages a player's per-game average visibility and narrative weight among voters.
+The market reflects Embiid's chronic knee and foot issues—he's played 51, 56, and 39 games respectively over the last three seasons. Even one significant absence in 2025-26 would likely eliminate his scoring title candidacy.
 
-### How much does the 76ers' supporting cast (Maxey, Okafor, Drummond) matter to Embiid winning the scoring title?
+### How does the 76ers' potential Evan Turner contract situation affect this market?
 
-It matters moderately; a weak supporting cast could force Embiid into unsustainable shot volume, risking efficiency loss and burnout. A stronger cast allows sustainable high-volume scoring. However, the scoring title is purely PPG average, so fit is secondary to his own availability and shot diet.
+If Philadelphia makes major roster changes that reduce Embiid's usage rate (e.g., acquiring another alpha scorer), his scoring title probability drops further, though this scenario seems unlikely given their current trajectory.
 
-### If Embiid averages 32+ PPG through 75+ games next season, would the market reassess these odds meaningfully?
+### Would winning the MVP award in 2024-25 increase these odds heading into 2025-26?
 
-Yes—that would likely push him into 5–15% range at minimum, as he'd be the statistical frontrunner. The current 0.1% odds rely almost entirely on durability pessimism rather than his scoring ability being in doubt.
+Marginally—it would signal improved health durability, but scoring titles specifically reward volume and consistency, not accolades. Embiid would need 72+ games played in back-to-back seasons to become a realistic contender.
 
 ## Learn More
 

@@ -3,8 +3,8 @@ title: "Will Alvin Kamara be traded?"
 description: "Will Alvin Kamara be traded? Odds: 14.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Alvin Kamara be traded?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-23
+status: "settled"
+lastUpdated: 2026-03-24
 tags: ["politics", "polymarket"]
 polymarketYes: 14.0
 polymarketNo: 86.0

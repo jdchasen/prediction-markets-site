@@ -3,8 +3,8 @@ title: "Bank of England rate hike in 2026?"
 description: "Bank of England rate hike in 2026? Odds: 84.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Bank of England rate hike in 2026?"
 category: "economics"
-status: "active"
-lastUpdated: 2026-03-23
+status: "settled"
+lastUpdated: 2026-03-24
 expiryDate: 2026-12-31
 tags: ["economics", "polymarket"]
 polymarketYes: 84.0

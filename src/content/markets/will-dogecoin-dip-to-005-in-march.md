@@ -3,8 +3,8 @@ title: "Will Dogecoin dip to $0.05 in March?"
 description: "Will Dogecoin dip to $0.05 in March? Odds: 1.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Dogecoin dip to $0.05 in March?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-23
+status: "settled"
+lastUpdated: 2026-03-24
 expiryDate: 2026-04-01
 tags: ["politics", "polymarket"]
 polymarketYes: 1.7

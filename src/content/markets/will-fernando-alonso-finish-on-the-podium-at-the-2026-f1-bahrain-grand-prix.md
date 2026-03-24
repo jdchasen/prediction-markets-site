@@ -3,8 +3,8 @@ title: "Will Fernando Alonso finish on the podium at the 2026 F1 Bahrain Grand P
 description: "Will Fernando Alonso finish on the podium at the 2026 F1 Bahrain Grand Prix? Odds: 47.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Fernando Alonso finish on the podium at the 2026 F1 Bahrain Grand Prix?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-03-23
+status: "settled"
+lastUpdated: 2026-03-24
 expiryDate: 2026-04-19
 tags: ["ai", "polymarket", "sports"]
 polymarketYes: 47.0

@@ -1,17 +1,16 @@
 ---
 title: "Will Ausar Thompson lead the NBA in steals during the 2025–26 NBA season?"
-description: "Will Ausar Thompson lead the NBA in steals during the 2025–26 NBA season? Odds: 3.2% YES on Polymarket. See live prices and trade this market."
+description: "Will Ausar Thompson lead the NBA in steals during the 2025–26 NBA season? Odds: 1.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Ausar Thompson lead the NBA in steals during the 2025–26 NBA season?"
 category: "sports"
 status: "active"
-lastUpdated: 2026-03-23
+lastUpdated: 2026-03-24
 expiryDate: 2026-04-12
 tags: ["polymarket", "sports"]
-polymarketYes: 3.2
-polymarketNo: 96.8
-polymarketVolume: 9690
+polymarketYes: 1.7
+polymarketNo: 98.4
+polymarketVolume: 9923
 polymarketUrl: "https://polymarket.com/event/nba-2025-26-spg-leader-ausar-thompson"
-analysisDate: 2026-03-23
 ---
 
 # Ausar Thompson Steals Leader Analysis

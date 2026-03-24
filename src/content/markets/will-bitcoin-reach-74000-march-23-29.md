@@ -3,8 +3,8 @@ title: "Will Bitcoin reach $74,000 March 23-29?"
 description: "Will Bitcoin reach $74,000 March 23-29? Odds: 49.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Bitcoin reach $74,000 March 23-29?"
 category: "crypto"
-status: "active"
-lastUpdated: 2026-03-23
+status: "settled"
+lastUpdated: 2026-03-24
 expiryDate: 2026-03-30
 tags: ["bitcoin", "crypto", "polymarket"]
 polymarketYes: 49.0

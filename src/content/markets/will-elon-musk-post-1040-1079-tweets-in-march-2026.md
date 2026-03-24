@@ -3,8 +3,8 @@ title: "Will Elon Musk post 1040-1079 tweets in March 2026?"
 description: "Will Elon Musk post 1040-1079 tweets in March 2026? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Elon Musk post 1040-1079 tweets in March 2026?"
 category: "tech"
-status: "active"
-lastUpdated: 2026-03-23
+status: "settled"
+lastUpdated: 2026-03-24
 expiryDate: 2026-04-01
 tags: ["polymarket", "tech"]
 polymarketYes: 0.1

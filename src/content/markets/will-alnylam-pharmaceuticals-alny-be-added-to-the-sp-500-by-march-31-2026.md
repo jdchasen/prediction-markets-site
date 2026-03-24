@@ -3,8 +3,8 @@ title: "Will Alnylam Pharmaceuticals (ALNY) be added to the S&P 500 by March 31,
 description: "Will Alnylam Pharmaceuticals (ALNY) be added to the S&P 500 by March 31, 2026? Odds: 0.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Alnylam Pharmaceuticals (ALNY) be added to the S&P 500 by March 31, 2026?"
 category: "finance"
-status: "active"
-lastUpdated: 2026-03-23
+status: "settled"
+lastUpdated: 2026-03-24
 expiryDate: 2026-03-31
 tags: ["finance", "polymarket", "stocks"]
 polymarketYes: 0.8

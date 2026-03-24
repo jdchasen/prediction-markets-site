@@ -4,14 +4,13 @@ description: "Will the Iranian regime fall by April 30? Odds: 8.5% YES on Polyma
 marketQuestion: "Will the Iranian regime fall by April 30?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-03-23
+lastUpdated: 2026-03-24
 expiryDate: 2026-04-30
 tags: ["politics", "polymarket"]
 polymarketYes: 8.5
 polymarketNo: 91.5
-polymarketVolume: 9641040
+polymarketVolume: 9851921
 polymarketUrl: "https://polymarket.com/event/will-the-iranian-regime-fall-by-april-30"
-analysisDate: 2026-03-23
 ---
 
 Prediction markets currently price an Iranian regime collapse at under 10%, reflecting widespread skepticism that the Islamic Republic will fall within the next year despite ongoing domestic unrest and international pressure. This market matters because regime change in Iran would fundamentally reshape Middle Eastern geopolitics, nuclear negotiations, and global energy markets.

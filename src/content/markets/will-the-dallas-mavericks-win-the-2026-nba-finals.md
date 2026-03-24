@@ -3,8 +3,8 @@ title: "Will the Dallas Mavericks win the 2026 NBA Finals?"
 description: "Will the Dallas Mavericks win the 2026 NBA Finals? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Dallas Mavericks win the 2026 NBA Finals?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-03-23
+status: "settled"
+lastUpdated: 2026-03-24
 expiryDate: 2026-07-01
 tags: ["polymarket", "sports"]
 polymarketYes: 0.1

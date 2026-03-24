@@ -4,14 +4,13 @@ description: "Will Meituan have the top AI model at the end of June 2026? Odds: 
 marketQuestion: "Will Meituan have the top AI model at the end of June 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-03-23
+lastUpdated: 2026-03-24
 expiryDate: 2026-06-30
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 3.4
-polymarketNo: 96.7
-polymarketVolume: 96282
+polymarketNo: 96.6
+polymarketVolume: 96382
 polymarketUrl: "https://polymarket.com/event/will-meituan-have-the-top-ai-model-at-the-end-of-june-2026"
-analysisDate: 2026-03-23
 ---
 
 The market assigns only a 3.4% probability to Meituan, China's leading food delivery and local services platform, developing the world's top AI model by June 2026, reflecting deep skepticism that a company outside the traditional AI leader circle can reach frontier performance within 28 months.

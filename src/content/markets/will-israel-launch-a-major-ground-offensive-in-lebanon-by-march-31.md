@@ -3,8 +3,8 @@ title: "Will Israel launch a major ground offensive in Lebanon by March 31?"
 description: "Will Israel launch a major ground offensive in Lebanon by March 31? Odds: 99.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Israel launch a major ground offensive in Lebanon by March 31?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-23
+status: "settled"
+lastUpdated: 2026-03-24
 expiryDate: 2026-03-31
 tags: ["politics", "polymarket"]
 polymarketYes: 99.7
