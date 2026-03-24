@@ -1,17 +1,16 @@
 ---
 title: "Will \"The Super Mario Galaxy Movie\" Opening Weekend Box Office be between 170m and 180m?"
-description: "Will \"The Super Mario Galaxy Movie\" Opening Weekend Box Office be between 170m and 180m? Odds: 16.0% YES on Polymarket. See live prices and trade this market."
+description: "Will \"The Super Mario Galaxy Movie\" Opening Weekend Box Office be between 170m and 180m? Odds: 15.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will \"The Super Mario Galaxy Movie\" Opening Weekend Box Office be between 170m and 180m?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-03-24
 expiryDate: 2026-04-06
 tags: ["politics", "polymarket"]
-polymarketYes: 16.0
-polymarketNo: 84.0
-polymarketVolume: 9877
+polymarketYes: 15.8
+polymarketNo: 84.2
+polymarketVolume: 9928
 polymarketUrl: "https://polymarket.com/event/will-the-super-mario-galaxy-movie-opening-weekend-box-office-be-between-170m-and-180m"
-analysisDate: 2026-03-24
 ---
 
 # Super Mario Galaxy Movie Opening Weekend Analysis

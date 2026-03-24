@@ -3,15 +3,14 @@ title: "Will Elon Musk post 1600-1679 tweets in April 2026?"
 description: "Will Elon Musk post 1600-1679 tweets in April 2026? Odds: 3.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Elon Musk post 1600-1679 tweets in April 2026?"
 category: "tech"
-status: "settled"
+status: "active"
 lastUpdated: 2026-03-24
 expiryDate: 2026-05-01
 tags: ["polymarket", "tech"]
 polymarketYes: 3.8
 polymarketNo: 96.2
-polymarketVolume: 95572
+polymarketVolume: 95712
 polymarketUrl: "https://polymarket.com/event/elon-musk-of-tweets-april-2026-1600-1679"
-analysisDate: 2026-03-23
 ---
 
 This market offers traders a narrow window to bet on Musk's Twitter activity hitting a specific range in April 2026, representing approximately 54-56 tweets per day, with current odds suggesting the platform views this as unlikely given the precision required and distance to settlement.

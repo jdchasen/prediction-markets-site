@@ -1,17 +1,16 @@
 ---
 title: "Will KOSPI Composite Index (^KS11) hit 4800 (LOW) in Q1 2026?"
-description: "Will KOSPI Composite Index (^KS11) hit 4800 (LOW) in Q1 2026? Odds: 1.1% YES on Polymarket. See live prices and trade this market."
+description: "Will KOSPI Composite Index (^KS11) hit 4800 (LOW) in Q1 2026? Odds: 0.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will KOSPI Composite Index (^KS11) hit 4800 (LOW) in Q1 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-03-24
 expiryDate: 2026-03-31
 tags: ["politics", "polymarket"]
-polymarketYes: 1.1
-polymarketNo: 99.0
+polymarketYes: 0.9
+polymarketNo: 99.1
 polymarketVolume: 9946
 polymarketUrl: "https://polymarket.com/event/will-kospi-composite-ks11-hit-4800-low-in-q1-2026"
-analysisDate: 2026-03-24
 ---
 
 # KOSPI Index Market Analysis

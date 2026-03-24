@@ -3,7 +3,7 @@ title: "Will Waymo launch in New York City by June 30 2026?"
 description: "Will Waymo launch in New York City by June 30 2026? Odds: 8.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Waymo launch in New York City by June 30 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-24
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]

@@ -3,7 +3,7 @@ title: "Will the Desiya Murpokku Dravida Kazhagam (DMDK) win the most seats in t
 description: "Will the Desiya Murpokku Dravida Kazhagam (DMDK) win the most seats in the 2026 Tamil Nadu Legislative Assembly election? Odds: 0.1% YES on Polymarket. See l..."
 marketQuestion: "Will the Desiya Murpokku Dravida Kazhagam (DMDK) win the most seats in the 2026 Tamil Nadu Legislative Assembly election?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-24
 expiryDate: 2026-05-10
 tags: ["elections", "politics", "polymarket"]

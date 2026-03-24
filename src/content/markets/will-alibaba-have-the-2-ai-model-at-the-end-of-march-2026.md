@@ -9,9 +9,8 @@ expiryDate: 2026-03-31
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 0.2
 polymarketNo: 99.8
-polymarketVolume: 9602
+polymarketVolume: 9707
 polymarketUrl: "https://polymarket.com/event/will-alibaba-have-the-2-ai-model-at-the-end-of-march-2026"
-analysisDate: 2026-03-24
 ---
 
 # Alibaba's Race to #2 in AI: A Market Severely Underpricing Chinese Competition

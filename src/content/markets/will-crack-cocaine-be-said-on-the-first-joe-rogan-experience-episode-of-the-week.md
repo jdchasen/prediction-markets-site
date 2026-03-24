@@ -3,7 +3,7 @@ title: "Will \"Crack Cocaine\" be said on the first Joe Rogan Experience episode
 description: "Will \"Crack Cocaine\" be said on the first Joe Rogan Experience episode of the week? (March 29) Odds: 8.0% YES on Polymarket. See live prices and trade this m..."
 marketQuestion: "Will \"Crack Cocaine\" be said on the first Joe Rogan Experience episode of the week? (March 29)"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-24
 expiryDate: 2026-03-29
 tags: ["ai", "politics", "polymarket"]

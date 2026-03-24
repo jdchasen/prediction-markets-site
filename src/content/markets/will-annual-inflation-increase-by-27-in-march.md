@@ -1,56 +1,59 @@
 ---
 title: "Will annual inflation increase by 2.7% in March?"
-description: "Will annual inflation increase by 2.7% in March? Odds: 0.7% YES on Polymarket. See live prices and trade this market."
+description: "Will annual inflation increase by 2.7% in March? Odds: 0.6% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will annual inflation increase by 2.7% in March?"
 category: "economics"
 status: "active"
 lastUpdated: 2026-03-24
 expiryDate: 2026-04-10
 tags: ["economics", "polymarket", "sports"]
-polymarketYes: 0.7
+polymarketYes: 0.6
 polymarketNo: 99.4
-polymarketVolume: 92779
+polymarketVolume: 92979
 polymarketUrl: "https://polymarket.com/event/will-annual-inflation-increase-by-2pt7-in-march-955"
+analysisDate: 2026-03-24
 ---
 
-This market is pricing in an extremely low probability that annual inflation will spike by 2.7% or more in March 2025, suggesting traders expect either continued disinflation or stable price growth through early next year. The timing matters because inflation data in early 2025 will heavily influence Federal Reserve policy decisions and potentially reshape market expectations for interest rate cuts throughout the first half of 2026.
+# Inflation Market Analysis
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.4% | 99.6% | $91K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.6% | 99.4% | $93K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The bull case for YES relies on several potential shocks: energy price spikes (particularly oil, which has geopolitical vulnerabilities), supply chain disruptions from trade policy shifts under the incoming administration, or a wage-price spiral if labor markets remain tight. The Consumer Price Index release in mid-April 2025 will be the direct catalyst—if it shows month-over-month increases significantly above trend, annual inflation comparisons could surprise to the upside. Additionally, if the Federal Reserve pauses rate cuts sooner than expected due to persistent inflation concerns, it could validate higher price pressures emerging in Q1.
+The market is pricing an extremely low probability—less than 1%—that annual inflation will increase by 2.7% in March, suggesting traders view further disinflation or stable inflation as virtually certain over the next several months. This matters because it reflects consensus expectations that the Fed's rate-hiking cycle has sufficiently cooled demand, and a significant reacceleration of inflation would force major portfolio repositioning and potentially extend the hiking cycle beyond current expectations.
 
-The bear case—reflected in the 0.4% odds—dominates market thinking because base effects from early 2024 actually work against inflation acceleration. The Fed's 2024 rate cuts have had time to cool demand, and most forecasters expect inflation to drift toward the 2% target through 2025. Energy prices would need to spike sharply, and wage growth would need to remain elevated despite potential labor market softening. The March jobs report (April 4th NFP) and the March CPI release (April 11th) are the key data points; if both show moderation, this market likely expires worthless.
+The bull case for a YES outcome rests on energy price shocks, wage pressures persisting longer than anticipated, or a surprise surge in demand. Oil prices have shown volatility this year, and any geopolitical disruption affecting supply could push headline inflation higher. Additionally, labor markets remain tighter than historical averages, particularly in services sectors where pass-through to consumer prices occurs with a lag. A strong January or February jobs report (NFP data due early February and March) combined with wage growth accelerating could trigger a repricing upward. The core PCE and CPI releases scheduled for early March would be critical reads before the March expiry.
 
-Traders should monitor the December 2024 PCE inflation data (January release) as the strongest early signal of momentum heading into Q1. Any hawkish Fed communication in January's FOMC meeting could shift probabilities if officials signal surprise durability in inflation. Oil prices and the dollar's trajectory will matter significantly—a weaker dollar combined with crude above $85/barrel by February could create real tail-risk conditions for this market, though current positioning suggests the market is appropriately skeptical of a 2.7% annual increase.
+The bear case—which the market clearly favors—points to the Fed's restrictive rate environment already doing its work, with headline inflation pressures from energy having normalized and base effects becoming favorable through early 2026. Recent CPI reports have shown cooling, and traders expect this disinflationary momentum to persist. An increase of 2.7% year-over-year would represent a meaningful reacceleration from current levels near the Fed's 2% target, making it a tail-risk outcome. Unless commodity prices spike unexpectedly or labor data shocks to the upside, baseline forecasts support the bear thesis.
+
+Watch the CPI release scheduled for mid-February (January data) and early March (February data), as these will provide the freshest inflation reads before the contract expires April 10th. The FOMC meeting in early March and accompanying dot plot projections could also move expectations if officials signal surprise concerns about inflation re-emerging. Non-farm payroll data in February and March will be critical—if job growth remains strong and wage growth stays elevated, it could raise tail-risk probabilities for a 2.7% inflation print.
 
 ## Related Markets
 
-- [Will annual inflation increase by ≤2.6% in March?](/odds/will-annual-inflation-increase-by-26-in-march) — 3% YES
-- [Bank of England rate hike in 2026?](/odds/bank-of-england-rate-hike-in-2026) — 84% YES
-- [Will China GDP growth in Q1 2026 be less than 3.5%?](/odds/will-china-gdp-growth-in-q1-2026-be-less-than-35) — 0% YES
+- [Will there be no change in Fed interest rates after the June 2026 meeting?](/odds/will-there-be-no-change-in-fed-interest-rates-after-the-june-2026-meeting) — 86% YES
+- [Will 11 Fed rate cuts happen in 2026?](/odds/will-11-fed-rate-cuts-happen-in-2026) — 0% YES
+- [Will 8 Fed rate cuts happen in 2026?](/odds/will-8-fed-rate-cuts-happen-in-2026) — 1% YES
 
 ## Frequently Asked Questions
 
-### Does this market require year-over-year inflation to increase BY 2.7%, or TO 2.7%?
+### Why is the current probability so low when inflation could theoretically spike?
 
-The wording "increase by 2.7%" means the annual inflation rate must rise by that magnitude from the previous month's annual rate, not settle at 2.7%—a much more extreme condition than simply hitting a specific level.
+The market has priced in the Fed's cumulative rate hikes as sufficient to anchor inflation expectations; a 2.7% increase would require a shock large enough to overcome 18+ months of restrictive monetary conditions, which traders assess as unlikely.
 
-### How much would oil prices need to move to shift this market's odds meaningfully?
+### What specific inflation measure does this contract track—headline or core?
 
-A sustained move above $95-100 per barrel combined with sticky core services inflation would be the primary supply-side shock that could move these odds beyond token levels, though even then the base-effect headwind makes major moves unlikely.
+The contract language specifies "annual inflation" without distinguishing headline vs. core; clarifying which index is used for settlement is essential, as energy price shocks could spike headline without affecting core, changing payoff probabilities significantly.
 
-### If the March jobs report shows significant employment losses, would this market's odds increase?
+### If the February CPI comes in hotter than expected, how would this market likely react?
 
-Counterintuitively, weak employment could actually keep odds low because it would reduce inflation pressure and increase Fed rate-cut expectations, though it could create volatility if accompanied by price acceleration from supply shocks.
+A 0.5%+ month-over-month CPI beat would likely push YES odds from <1% to 2-4%, as it would suggest disinflationary momentum is stalling and year-over-year comparisons could reaccelerate through March.
 
 ## Learn More
 
+- [Will Oil Hit $100? March Crude Prediction Market Odds](/blog/will-oil-hit-100-march-crude-prediction-market-odds)
 - [Fed March Meeting: Will Rates Change? Market Says No](/blog/fed-march-meeting-will-rates-change-market-says-no)
-- [Fed March Meeting Odds: Will Rates Change?](/blog/fed-march-meeting-odds-will-rates-change)
 

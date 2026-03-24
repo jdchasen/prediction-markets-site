@@ -11,7 +11,6 @@ polymarketYes: 43.0
 polymarketNo: 57.0
 polymarketVolume: 9849
 polymarketUrl: "https://polymarket.com/event/will-spacex-ipo-by-june-30-2026"
-analysisDate: 2026-03-24
 ---
 
 # SpaceX IPO Prediction Analysis

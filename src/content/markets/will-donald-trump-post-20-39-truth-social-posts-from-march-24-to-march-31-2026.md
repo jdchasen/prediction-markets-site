@@ -3,7 +3,7 @@ title: "Will Donald Trump post 20-39 Truth Social posts from March 24 to March 3
 description: "Will Donald Trump post 20-39 Truth Social posts from March 24 to March 31, 2026? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Donald Trump post 20-39 Truth Social posts from March 24 to March 31, 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-24
 expiryDate: 2026-03-31
 tags: ["politics", "polymarket", "trump"]

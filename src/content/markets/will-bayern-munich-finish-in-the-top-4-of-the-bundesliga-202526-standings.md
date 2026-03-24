@@ -9,9 +9,8 @@ expiryDate: 2026-05-28
 tags: ["politics", "polymarket"]
 polymarketYes: 99.3
 polymarketNo: 0.7
-polymarketVolume: 98536
+polymarketVolume: 98537
 polymarketUrl: "https://polymarket.com/event/will-bayern-munich-finish-in-the-top-4-of-the-bundesliga-202526-standings"
-analysisDate: 2026-03-24
 ---
 
 # Bayern Munich Top 4 Finish Analysis

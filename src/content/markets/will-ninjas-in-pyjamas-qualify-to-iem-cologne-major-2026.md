@@ -1,17 +1,16 @@
 ---
 title: "Will Ninjas in Pyjamas qualify to IEM Cologne Major 2026? "
-description: "Will Ninjas in Pyjamas qualify to IEM Cologne Major 2026?  Odds: 51.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Ninjas in Pyjamas qualify to IEM Cologne Major 2026?  Odds: 50.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Ninjas in Pyjamas qualify to IEM Cologne Major 2026? "
 category: "politics"
 status: "active"
 lastUpdated: 2026-03-24
 expiryDate: 2026-06-21
 tags: ["politics", "polymarket"]
-polymarketYes: 51.5
-polymarketNo: 48.5
+polymarketYes: 50.5
+polymarketNo: 49.5
 polymarketVolume: 9582
 polymarketUrl: "https://polymarket.com/event/will-ninjas-in-pyjamas-qualify-to-iem-cologne-major-2026"
-analysisDate: 2026-03-24
 ---
 
 # Ninjas in Pyjamas IEM Cologne 2026 Analysis

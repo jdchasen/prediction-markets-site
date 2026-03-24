@@ -1,17 +1,16 @@
 ---
 title: "Will Tisza win 90–99 seats in the Hungarian National Assembly in this election?"
-description: "Will Tisza win 90–99 seats in the Hungarian National Assembly in this election? Odds: 16.0% YES on Polymarket. See live prices and trade this market."
+description: "Will Tisza win 90–99 seats in the Hungarian National Assembly in this election? Odds: 15.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Tisza win 90–99 seats in the Hungarian National Assembly in this election?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-03-24
 expiryDate: 2026-04-12
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 16.0
-polymarketNo: 84.0
-polymarketVolume: 9642
+polymarketYes: 15.0
+polymarketNo: 85.0
+polymarketVolume: 9748
 polymarketUrl: "https://polymarket.com/event/will-tisza-win-9099-seats-in-the-hungarian-national-assembly-in-this-election"
-analysisDate: 2026-03-24
 ---
 
 # Tisza's 90–99 Seat Range: A Tight Corridor in Fragmented Hungarian Politics

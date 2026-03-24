@@ -3,7 +3,7 @@ title: "Will Joel Embiid lead the NBA in points during the 2025–26 NBA season?
 description: "Will Joel Embiid lead the NBA in points during the 2025–26 NBA season? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Joel Embiid lead the NBA in points during the 2025–26 NBA season?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-24
 expiryDate: 2026-04-12
 tags: ["polymarket", "sports"]

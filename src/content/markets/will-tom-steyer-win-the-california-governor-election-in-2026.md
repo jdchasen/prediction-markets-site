@@ -3,7 +3,7 @@ title: "Will Tom Steyer win the California Governor Election in 2026?"
 description: "Will Tom Steyer win the California Governor Election in 2026? Odds: 7.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Tom Steyer win the California Governor Election in 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-24
 expiryDate: 2026-11-03
 tags: ["elections", "politics", "polymarket"]

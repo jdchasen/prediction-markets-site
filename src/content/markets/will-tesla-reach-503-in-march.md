@@ -1,17 +1,16 @@
 ---
 title: "Will Tesla reach $503 in March?"
-description: "Will Tesla reach $503 in March? Odds: 0.4% YES on Polymarket. See live prices and trade this market."
+description: "Will Tesla reach $503 in March? Odds: 0.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Tesla reach $503 in March?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-03-24
 expiryDate: 2026-04-01
 tags: ["politics", "polymarket"]
-polymarketYes: 0.4
-polymarketNo: 99.6
-polymarketVolume: 9682
+polymarketYes: 0.2
+polymarketNo: 99.8
+polymarketVolume: 9847
 polymarketUrl: "https://polymarket.com/event/will-tsla-reach-503-in-march"
-analysisDate: 2026-03-24
 ---
 
 # Tesla Stock Price Prediction Market Analysis

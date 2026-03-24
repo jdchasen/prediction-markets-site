@@ -1,17 +1,16 @@
 ---
 title: "Will Israel take military action in Gaza on March 23, 2026?"
-description: "Will Israel take military action in Gaza on March 23, 2026? Odds: 8.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Israel take military action in Gaza on March 23, 2026? Odds: 11.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Israel take military action in Gaza on March 23, 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-03-24
 expiryDate: 2026-03-31
 tags: ["politics", "polymarket"]
-polymarketYes: 8.5
-polymarketNo: 91.5
-polymarketVolume: 9630
+polymarketYes: 11.5
+polymarketNo: 88.5
+polymarketVolume: 9924
 polymarketUrl: "https://polymarket.com/event/will-israel-take-military-action-in-gaza-on-march-23-2026"
-analysisDate: 2026-03-24
 ---
 
 # Israel-Gaza Military Action Market Analysis

@@ -3,7 +3,7 @@ title: "Spain snap election called in 2026?"
 description: "Spain snap election called in 2026? Odds: 32.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Spain snap election called in 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-24
 expiryDate: 2026-12-31
 tags: ["ai", "elections", "politics", "polymarket"]

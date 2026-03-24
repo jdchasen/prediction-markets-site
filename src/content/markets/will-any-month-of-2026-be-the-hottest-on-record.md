@@ -9,9 +9,8 @@ expiryDate: 2027-01-10
 tags: ["politics", "polymarket"]
 polymarketYes: 73.5
 polymarketNo: 26.5
-polymarketVolume: 98928
+polymarketVolume: 98939
 polymarketUrl: "https://polymarket.com/event/will-any-month-of-2026-be-the-hottest-on-record"
-analysisDate: 2026-03-24
 ---
 
 The market strongly favors 2026 producing a monthly temperature record at 73.5%, reflecting scientific expectations that El Niño/La Niña cycles combined with long-term warming trends make new records increasingly likely. This matters because monthly temperature records have accelerated dramatically—2024 saw 12 consecutive months break records from June 2023 to May 2024, establishing a pattern that suggests the baseline has shifted significantly upward.

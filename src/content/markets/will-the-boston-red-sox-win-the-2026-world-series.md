@@ -9,9 +9,8 @@ expiryDate: 2026-10-31
 tags: ["politics", "polymarket"]
 polymarketYes: 7.6
 polymarketNo: 92.4
-polymarketVolume: 963914
+polymarketVolume: 964008
 polymarketUrl: "https://polymarket.com/event/will-the-boston-red-sox-win-the-2026-world-series"
-analysisDate: 2026-03-24
 ---
 
 The Boston Red Sox are trading at 7.6% to win the 2026 World Series, reflecting their position as a mid-tier contender in a league where approximately 30 teams compete and only one can win, though this categorization as "politics" appears to be an error as this is purely a sports betting market.

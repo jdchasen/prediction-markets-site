@@ -9,9 +9,8 @@ expiryDate: 2026-07-20
 tags: ["polymarket", "sports"]
 polymarketYes: 0.4
 polymarketNo: 99.6
-polymarketVolume: 9602248
+polymarketVolume: 9603936
 polymarketUrl: "https://polymarket.com/event/will-paraguay-win-the-2026-fifa-world-cup-967"
-analysisDate: 2026-03-24
 ---
 
 Paraguay's 2026 World Cup championship market trades at microscopic odds reflecting their status as heavy underdogs, though the tournament's upcoming expansion to 48 teams creates unprecedented qualification opportunities for CONMEBOL nations.

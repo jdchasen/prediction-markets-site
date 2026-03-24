@@ -3,7 +3,7 @@ title: "Will A Just Russia – For Truth (SRZP) win the most seats in the next R
 description: "Will A Just Russia – For Truth (SRZP) win the most seats in the next Russian parliamentary election? Odds: 0.8% YES on Polymarket. See live prices and trade ..."
 marketQuestion: "Will A Just Russia – For Truth (SRZP) win the most seats in the next Russian parliamentary election?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-24
 expiryDate: 2026-09-30
 tags: ["elections", "politics", "polymarket"]

@@ -9,9 +9,8 @@ expiryDate: 2026-07-20
 tags: ["polymarket", "sports"]
 polymarketYes: 0.2
 polymarketNo: 99.8
-polymarketVolume: 9621728
+polymarketVolume: 9684409
 polymarketUrl: "https://polymarket.com/event/will-qatar-win-the-2026-fifa-world-cup"
-analysisDate: 2026-03-24
 ---
 
 Qatar faces near-impossible odds to win the 2026 World Cup, with traders pricing their chances at effectively zero, reflecting the harsh reality that the host nation of 2022 remains one of Asia's weakest footballing nations despite massive investment in infrastructure and development.

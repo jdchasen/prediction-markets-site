@@ -1,17 +1,16 @@
 ---
 title: "Based FDV above $100M one day after launch?"
-description: "Based FDV above $100M one day after launch? Odds: 19.5% YES on Polymarket. See live prices and trade this market."
+description: "Based FDV above $100M one day after launch? Odds: 15.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Based FDV above $100M one day after launch?"
 category: "crypto"
 status: "active"
 lastUpdated: 2026-03-24
 expiryDate: 2027-01-01
 tags: ["crypto", "polymarket"]
-polymarketYes: 19.5
-polymarketNo: 80.5
-polymarketVolume: 98295
+polymarketYes: 15.5
+polymarketNo: 84.5
+polymarketVolume: 99172
 polymarketUrl: "https://polymarket.com/event/based-fdv-above-100m-one-day-after-launch-312-684-529-225"
-analysisDate: 2026-03-24
 ---
 
 # Analysis: FDV >$100M at Launch

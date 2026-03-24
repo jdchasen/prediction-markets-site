@@ -1,17 +1,16 @@
 ---
 title: "Will Moonshot have the best AI model at the end of June 2026?"
-description: "Will Moonshot have the best AI model at the end of June 2026? Odds: 0.3% YES on Polymarket. See live prices and trade this market."
+description: "Will Moonshot have the best AI model at the end of June 2026? Odds: 0.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Moonshot have the best AI model at the end of June 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-03-24
 expiryDate: 2026-06-30
 tags: ["ai", "politics", "polymarket"]
-polymarketYes: 0.3
-polymarketNo: 99.7
-polymarketVolume: 98888
+polymarketYes: 0.2
+polymarketNo: 99.8
+polymarketVolume: 99092
 polymarketUrl: "https://polymarket.com/event/will-moonshot-have-the-best-ai-model-at-the-end-of-june-2026"
-analysisDate: 2026-03-24
 ---
 
 The market assigns an extremely low 0.3% probability to Moonshot—an AI company with limited public profile—surpassing established leaders like OpenAI, Anthropic, and Google by June 2026, reflecting near-consensus skepticism about a dramatic competitive upset in the AI race over the next two years.

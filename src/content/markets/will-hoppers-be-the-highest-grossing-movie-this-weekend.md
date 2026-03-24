@@ -11,7 +11,6 @@ polymarketYes: 0.1
 polymarketNo: 100.0
 polymarketVolume: 9820
 polymarketUrl: "https://polymarket.com/event/will-hoppers-be-the-highest-grossing-movie-this-weekend-923"
-analysisDate: 2026-03-24
 ---
 
 # Analysis: "Hoppers" Box Office Prediction Market

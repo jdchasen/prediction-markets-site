@@ -11,7 +11,6 @@ polymarketYes: 6.5
 polymarketNo: 93.5
 polymarketVolume: 9733
 polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-ca-52-house-seat"
-analysisDate: 2026-03-24
 ---
 
 # CA-52 House Seat: Republican Longshot in Democratic Territory

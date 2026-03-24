@@ -3,7 +3,7 @@ title: "Will Netflix dip to $0 in April?"
 description: "Will Netflix dip to $0 in April? Odds: 2.3% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Netflix dip to $0 in April?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-24
 expiryDate: 2026-05-01
 tags: ["politics", "polymarket"]

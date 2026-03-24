@@ -11,7 +11,6 @@ polymarketYes: 66.5
 polymarketNo: 33.5
 polymarketVolume: 9699
 polymarketUrl: "https://polymarket.com/event/will-portugal-win-group-k-in-the-2026-fifa-world-cup"
-analysisDate: 2026-03-24
 ---
 
 # Portugal Group K Analysis

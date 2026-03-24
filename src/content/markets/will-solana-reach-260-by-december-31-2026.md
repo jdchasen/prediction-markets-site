@@ -11,7 +11,6 @@ polymarketYes: 12.0
 polymarketNo: 88.0
 polymarketVolume: 9609
 polymarketUrl: "https://polymarket.com/event/will-solana-reach-260-by-december-31-2026"
-analysisDate: 2026-03-24
 ---
 
 # Solana Price Prediction Market Analysis

@@ -9,9 +9,8 @@ expiryDate: 2026-04-17
 tags: ["economics", "polymarket"]
 polymarketYes: 0.2
 polymarketNo: 99.8
-polymarketVolume: 9503
+polymarketVolume: 9609
 polymarketUrl: "https://polymarket.com/event/will-china-gdp-growth-in-q1-2026-be-less-than-3pt5"
-analysisDate: 2026-03-24
 ---
 
 # China Q1 2026 GDP Growth Market Analysis

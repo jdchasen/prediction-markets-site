@@ -11,7 +11,6 @@ polymarketYes: 1.2
 polymarketNo: 98.8
 polymarketVolume: 9631
 polymarketUrl: "https://polymarket.com/event/theo-james-announced-as-next-james-bond"
-analysisDate: 2026-03-24
 ---
 
 # Theo James as Next James Bond: A Market Analysis

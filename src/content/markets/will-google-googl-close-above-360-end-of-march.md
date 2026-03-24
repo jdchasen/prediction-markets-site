@@ -1,17 +1,16 @@
 ---
 title: "Will Google (GOOGL) close above $360 end of March?"
-description: "Will Google (GOOGL) close above $360 end of March? Odds: 0.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Google (GOOGL) close above $360 end of March? Odds: 0.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Google (GOOGL) close above $360 end of March?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-03-24
 expiryDate: 2026-03-31
 tags: ["politics", "polymarket"]
-polymarketYes: 0.5
-polymarketNo: 99.5
-polymarketVolume: 98288
+polymarketYes: 0.4
+polymarketNo: 99.6
+polymarketVolume: 98342
 polymarketUrl: "https://polymarket.com/event/googl-above-360-on-march-31-2026"
-analysisDate: 2026-03-24
 ---
 
 # Google Stock Price Prediction Analysis

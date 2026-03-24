@@ -3,15 +3,14 @@ title: "Will Silver (SI) settle over $120 on the final trading day of June 2026?
 description: "Will Silver (SI) settle over $120 on the final trading day of June 2026? Odds: 13.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Silver (SI) settle over $120 on the final trading day of June 2026?"
 category: "politics"
-status: "settled"
+status: "active"
 lastUpdated: 2026-03-24
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
 polymarketYes: 13.5
 polymarketNo: 86.5
-polymarketVolume: 9694
+polymarketVolume: 9714
 polymarketUrl: "https://polymarket.com/event/si-above-120-jun-2026"
-analysisDate: 2026-03-23
 ---
 
 # Silver Price Prediction Analysis: June 2026

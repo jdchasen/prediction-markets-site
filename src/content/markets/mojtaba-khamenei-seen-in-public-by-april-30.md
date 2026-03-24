@@ -9,9 +9,8 @@ expiryDate: 2026-04-30
 tags: ["politics", "polymarket"]
 polymarketYes: 22.5
 polymarketNo: 77.5
-polymarketVolume: 99447
+polymarketVolume: 99487
 polymarketUrl: "https://polymarket.com/event/mojtaba-khamenei-seen-in-public-by-april-30"
-analysisDate: 2026-03-24
 ---
 
 The market pricing a roughly one-in-five chance of Mojtaba Khamenei appearing publicly by April 2026 reflects deep uncertainty around succession dynamics within Iran's Islamic Republic, where the 85-year-old Supreme Leader's son remains a shadowy figure whose political ascent would mark a historic shift toward dynastic rule.

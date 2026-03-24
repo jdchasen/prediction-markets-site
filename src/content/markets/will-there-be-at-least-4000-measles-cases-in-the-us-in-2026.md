@@ -1,17 +1,16 @@
 ---
 title: "Will there be at least 4000 measles cases in the U.S. in 2026?"
-description: "Will there be at least 4000 measles cases in the U.S. in 2026? Odds: 68.5% YES on Polymarket. See live prices and trade this market."
+description: "Will there be at least 4000 measles cases in the U.S. in 2026? Odds: 71.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will there be at least 4000 measles cases in the U.S. in 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-03-24
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 68.5
-polymarketNo: 31.5
-polymarketVolume: 96781
+polymarketYes: 71.0
+polymarketNo: 29.0
+polymarketVolume: 97266
 polymarketUrl: "https://polymarket.com/event/will-there-be-at-least-4000-measles-cases-in-the-us-in-2026"
-analysisDate: 2026-03-24
 ---
 
 # Measles Cases in the U.S. in 2026: A Public Health Prediction Market

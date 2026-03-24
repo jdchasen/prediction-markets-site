@@ -9,9 +9,8 @@ expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
 polymarketYes: 0.2
 polymarketNo: 99.8
-polymarketVolume: 9736
+polymarketVolume: 9788
 polymarketUrl: "https://polymarket.com/event/will-richard-grayson-win-the-alaska-senate-race-in-2026"
-analysisDate: 2026-03-24
 ---
 
 # Alaska Senate 2026: Richard Grayson's Long-Shot Bid

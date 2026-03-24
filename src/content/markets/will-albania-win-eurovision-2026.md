@@ -3,7 +3,7 @@ title: "Will Albania win Eurovision 2026?"
 description: "Will Albania win Eurovision 2026? Odds: 0.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Albania win Eurovision 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-24
 expiryDate: 2026-05-16
 tags: ["politics", "polymarket"]

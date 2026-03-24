@@ -1,17 +1,16 @@
 ---
 title: "OpenAI receives federal backstop for infrastructure before July?"
-description: "OpenAI receives federal backstop for infrastructure before July? Odds: 5.2% YES on Polymarket. See live prices and trade this market."
+description: "OpenAI receives federal backstop for infrastructure before July? Odds: 4.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "OpenAI receives federal backstop for infrastructure before July?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-03-24
 expiryDate: 2026-06-30
 tags: ["ai", "federal-reserve", "politics", "polymarket"]
-polymarketYes: 5.2
-polymarketNo: 94.8
-polymarketVolume: 98603
+polymarketYes: 4.9
+polymarketNo: 95.2
+polymarketVolume: 98664
 polymarketUrl: "https://polymarket.com/event/openai-receives-federal-backstop-for-infrastructure-before-july"
-analysisDate: 2026-03-24
 ---
 
 The market reflects significant skepticism that OpenAI will secure federal infrastructure backing before July 2026, with traders pricing only a 5% likelihood despite growing national concerns about AI competitiveness with China.

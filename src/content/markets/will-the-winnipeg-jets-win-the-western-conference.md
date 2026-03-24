@@ -11,7 +11,6 @@ polymarketYes: 0.4
 polymarketNo: 99.7
 polymarketVolume: 9872
 polymarketUrl: "https://polymarket.com/event/will-the-winnipeg-jets-win-the-western-conference-417"
-analysisDate: 2026-03-24
 ---
 
 # Winnipeg Jets Western Conference Analysis

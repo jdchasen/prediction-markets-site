@@ -11,7 +11,6 @@ polymarketYes: 0.2
 polymarketNo: 99.8
 polymarketVolume: 9750
 polymarketUrl: "https://polymarket.com/event/will-elisabeth-thand-ringqvist-be-the-next-prime-minister-of-sweden"
-analysisDate: 2026-03-24
 ---
 
 # Elisabeth Thand Ringqvist for Swedish PM: An Extreme Longshot

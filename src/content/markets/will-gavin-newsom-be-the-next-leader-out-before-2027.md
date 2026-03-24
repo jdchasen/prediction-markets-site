@@ -1,17 +1,16 @@
 ---
 title: "Will Gavin Newsom be the next leader out before 2027?"
-description: "Will Gavin Newsom be the next leader out before 2027? Odds: 0.4% YES on Polymarket. See live prices and trade this market."
+description: "Will Gavin Newsom be the next leader out before 2027? Odds: 0.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Gavin Newsom be the next leader out before 2027?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-03-24
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 0.4
-polymarketNo: 99.6
-polymarketVolume: 97074
+polymarketYes: 0.7
+polymarketNo: 99.4
+polymarketVolume: 97517
 polymarketUrl: "https://polymarket.com/event/will-gavin-newsom-be-the-next-leader-out-before-2027-485"
-analysisDate: 2026-03-24
 ---
 
 # Gavin Newsom Leadership Market Analysis

@@ -9,9 +9,8 @@ expiryDate: 2026-05-16
 tags: ["politics", "polymarket"]
 polymarketYes: 0.5
 polymarketNo: 99.5
-polymarketVolume: 965545
+polymarketVolume: 980490
 polymarketUrl: "https://polymarket.com/event/will-norway-win-eurovision-2026"
-analysisDate: 2026-03-24
 ---
 
 Prediction markets give Norway virtually no chance of winning Eurovision 2026, with traders pricing victory at just half a percent—a reflection of the country's recent underwhelming performances despite its strong historical record in the competition.

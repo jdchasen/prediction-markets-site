@@ -3,7 +3,7 @@ title: "Will Trump say \"Paid a big price\" or \"Paying a big price\" this week?
 description: "Will Trump say \"Paid a big price\" or \"Paying a big price\" this week? (March 29) Odds: 26.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Trump say \"Paid a big price\" or \"Paying a big price\" this week? (March 29)"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-24
 expiryDate: 2026-03-29
 tags: ["ai", "politics", "polymarket", "trump"]

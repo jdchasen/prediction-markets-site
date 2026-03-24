@@ -11,7 +11,6 @@ polymarketYes: 0.1
 polymarketNo: 100.0
 polymarketVolume: 9707
 polymarketUrl: "https://polymarket.com/event/nhl-2025-26-presidents-trophy-winner-philadelphia-flyers"
-analysisDate: 2026-03-24
 ---
 
 The Philadelphia Flyers face essentially zero probability of winning the Presidents' Trophy this season, and that near-zero pricing reflects the brutal reality of their competitive position relative to league favorites. This market matters because it reveals how prediction markets value long-shot outcomes and whether any realistic path exists for a franchise rebuild to produce an 82-game dominance narrative by April 2026.

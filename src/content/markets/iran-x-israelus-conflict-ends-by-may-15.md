@@ -1,54 +1,54 @@
 ---
 title: "Iran x Israel/US conflict ends by May 15?"
-description: "Iran x Israel/US conflict ends by May 15? Odds: 53.5% YES on Polymarket. See live prices and trade this market."
+description: "Iran x Israel/US conflict ends by May 15? Odds: 59.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Iran x Israel/US conflict ends by May 15?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-03-24
 expiryDate: 2026-05-15
 tags: ["politics", "polymarket", "sports"]
-polymarketYes: 53.5
-polymarketNo: 46.5
-polymarketVolume: 962969
-polymarketUrl: "https://polymarket.com/event/iran-x-israelus-conflict-ends-by-may-15-562-372-916"
+polymarketYes: 59.5
+polymarketNo: 40.5
+polymarketVolume: 989963
+polymarketUrl: "https://polymarket.com/event/iran-x-israelus-conflict-ends-by-may-15-562-372-916-721-496"
 analysisDate: 2026-03-24
 ---
 
-The Polymarket odds slightly favor a resolution to the Iran-Israel-US conflict by mid-May 2026, with traders pricing in marginally better than even chances that this multi-party confrontation reaches some form of conclusion within the next 15 months.
+Traders are pricing nearly 60% odds that the Iran-Israel-US conflict will reach some form of resolution within the next year, reflecting cautious optimism about diplomatic pathways despite ongoing military tensions in the region.
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 53.5% | 46.5% | $963K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 59.5% | 40.5% | $990K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The bull case rests on several plausible de-escalation pathways. Direct negotiations between the US and Iran could resume, particularly if American political pressure mounts ahead of the 2026 midterm elections in November. Regional mediators like Qatar, Oman, or Turkey have historically brokered temporary arrangements, and economic pressure on all parties—especially Iran's struggling economy and Israel's military expenditure burden—creates incentives for diplomatic off-ramps. The May 2026 timeline also allows for potential changes in Israeli government composition, as coalition instability could bring in leadership more amenable to ceasefire terms. Any major breakthrough in nuclear talks would likely correlate with broader conflict de-escalation.
+The bull case centers on exhaustion dynamics and economic pressure. Iran faces severe sanctions strain and domestic unrest, while Israel's prolonged military operations create fiscal and manpower burdens. The US has consistently signaled preference for diplomatic off-ramps, with potential framework agreements involving uranium enrichment limits, sanctions relief, and regional security guarantees. Key inflection points include the IAEA Board of Governors meetings (June 2025 and September 2025), where Iran's nuclear program compliance gets assessed, and any US-brokered regional summit that could emerge from ongoing backchannel negotiations reportedly involving Oman and Qatar as intermediaries. The May 15, 2026 deadline provides sufficient runway for a phased de-escalation following potential ceasefire arrangements in Gaza that could reduce Iran-proxy tensions.
 
-The bear case emphasizes the deeply entrenched positions and structural obstacles to resolution. Iran's support for proxy forces across the region (Hezbollah, various militias in Syria and Iraq) creates multiple conflict theaters that resist unified resolution. Israel's security establishment may view sustained pressure on Iran as strategically necessary regardless of diplomatic costs. The US faces its own political constraints—any perceived concessions to Iran play poorly with Congressional hawks and could become weaponized in the 2026 midterm campaigns (primaries begin as early as March 2026 in Texas). Previous conflicts in this region have demonstrated remarkable staying power; the Yemen war persisted for nearly a decade despite multiple ceasefire attempts.
+The bear case emphasizes structural obstacles to conflict termination. Iran's nuclear program advancement continues accelerating—the IAEA reported 60% enrichment levels in recent inspections, approaching weapons-grade threshold. Israel's stated position treats Iranian nuclear capability as an existential red line, making genuine resolution nearly impossible without verification mechanisms Iran historically resists. Regional proxy dynamics through Hezbollah, Houthi forces, and Iraqi militias create multiple flashpoints independent of direct state negotiations. Hardliners in Tehran's Revolutionary Guard Corps maintain significant influence over decision-making, often undermining diplomatic overtures. The conflict definition itself remains ambiguous—does "ends" require a formal treaty, cessation of proxy attacks, or merely reduced intensity?
 
-Key catalysts include the US midterm election cycle beginning spring 2026, which could either pressure the administration toward a deal to claim foreign policy success or conversely make any Iran diplomacy politically toxic. Watch for IAEA reports on Iran's nuclear program (typically quarterly), any shifts in Israeli coalition politics, and oil price movements that might force economic recalculations. The Iranian calendar's Nowruz holiday (March 20, 2026) has historically provided diplomatic windows, while the approach of Ramadan 2026 (beginning late February) could trigger either escalation or humanitarian pause pressures.
+Critical monitoring points include Iran's uranium stockpile reports (quarterly IAEA updates), Israeli cabinet decisions on potential preemptive strikes against nuclear facilities, US Congressional action on additional sanctions packages, and any major incidents in the Strait of Hormuz affecting global oil markets. The 2025 Iranian budget allocation (announced March 2025) will signal whether Tehran prioritizes military escalation or economic stabilization. Trump administration policy shifts or potential 2024 Democratic successor approaches could fundamentally alter US mediation credibility and leverage with both parties.
 
 ## Related Markets
 
-- [Will the Iranian regime fall by April 30?](/odds/will-the-iranian-regime-fall-by-april-30) — 8% YES
-- [Will Claude 5 be released by March 31, 2026?](/odds/will-claude-5-be-released-by-march-31-2026) — 4% YES
-- [Will Albania win Eurovision 2026?](/odds/will-albania-win-eurovision-2026) — 0% YES
+- [Will Claude 5 be released by March 31, 2026?](/odds/will-claude-5-be-released-by-march-31-2026) — 3% YES
+- [Will Israel win Eurovision 2026?](/odds/will-israel-win-eurovision-2026) — 4% YES
+- [Will xAI have the best AI model at the end of March 2026?](/odds/will-xai-have-the-best-ai-model-at-the-end-of-march-2026) — 1% YES
 
 ## Frequently Asked Questions
 
-### What specific definition of "conflict ends" would satisfy this market's resolution criteria?
+### What qualifies as the conflict "ending" for resolution purposes in this market?
 
-This requires careful examination of Polymarket's resolution terms, as different interpretations (comprehensive peace treaty vs. sustained ceasefire vs. cessation of active military operations) would dramatically affect outcomes. Traders should verify whether proxy conflicts count or only direct state-to-state engagement matters.
+The market requires significant de-escalation including cessation of direct military strikes between parties and substantial reduction in proxy warfare, though the exact threshold remains subject to market creator interpretation. A formal peace treaty is likely not required, but ongoing missile exchanges or major attacks would keep the conflict "active."
 
-### How do Iran's June 2025 presidential election results impact the May 2026 timeline?
+### How does Iran's nuclear enrichment timeline affect the probability of resolution by May 2026?
 
-A new Iranian president taking office in August 2025 would have approximately nine months to negotiate and implement any conflict resolution, making the administration's early foreign policy priorities and negotiating team appointments critical indicators to monitor in summer 2025.
+Iran potentially reaching weapons-grade enrichment capacity by late 2025 creates a critical deadline that could either force urgent diplomacy or trigger Israeli military action, making the next 6-8 months decisive. If Iran crosses the nuclear threshold without triggering strikes, negotiations become either more urgent (deal to avoid full weaponization) or collapse entirely (Israel acts unilaterally).
 
-### Does this market resolve YES if only bilateral Israel-Iran tensions end while US involvement continues?
+### What role do regional proxy groups play in determining whether this conflict can "end"?
 
-The market's inclusion of "x" notation and "/US" suggests all parties must reach conflict conclusion, meaning a partial resolution between two parties while hostilities continue with the third would likely resolve NO—though traders should confirm the exact resolution criteria.
+Hezbollah, Houthis, and Iraqi militias operate with varying degrees of Iranian control, meaning Tehran may struggle to fully enforce any de-escalation agreement even if willing. The market likely resolves YES even with residual proxy activity, provided Iran visibly constrains major operations and direct state-to-state hostilities cease.
 
 ## Learn More
 

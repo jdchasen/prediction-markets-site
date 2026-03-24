@@ -9,9 +9,8 @@ expiryDate: 2026-03-31
 tags: ["politics", "polymarket"]
 polymarketYes: 0.1
 polymarketNo: 100.0
-polymarketVolume: 957537
+polymarketVolume: 959537
 polymarketUrl: "https://polymarket.com/event/will-clavicular-be-irans-next-supreme-leader-by-march-31st"
-analysisDate: 2026-03-24
 ---
 
 This market exploring whether "Clavicular" will become Iran's next Supreme Leader by March 2026 trades at near-zero probability because the premise appears fundamentally flawed—there is no known Iranian political figure by this name in the succession picture for Ayatollah Ali Khamenei, who has held the position since 1989.

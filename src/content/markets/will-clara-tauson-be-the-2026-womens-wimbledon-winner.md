@@ -11,7 +11,6 @@ polymarketYes: 0.7
 polymarketNo: 99.3
 polymarketVolume: 96445
 polymarketUrl: "https://polymarket.com/event/will-clara-tauson-be-the-2026-womens-wimbledon-winner"
-analysisDate: 2026-03-24
 ---
 
 # Clara Tauson 2026 Wimbledon Analysis

@@ -9,9 +9,8 @@ expiryDate: 2026-07-20
 tags: ["polymarket", "sports"]
 polymarketYes: 0.4
 polymarketNo: 99.7
-polymarketVolume: 9606659
+polymarketVolume: 9674495
 polymarketUrl: "https://polymarket.com/event/will-scotland-win-the-2026-fifa-world-cup"
-analysisDate: 2026-03-24
 ---
 
 Scotland faces near-impossible odds at 0.4% on Polymarket to capture their first-ever World Cup title in 2026, reflecting both their historical underperformance on the global stage and the overwhelming strength of traditional powerhouses like Brazil, France, and Argentina.

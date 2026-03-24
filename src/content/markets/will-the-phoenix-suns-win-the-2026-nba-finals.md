@@ -3,7 +3,7 @@ title: "Will the Phoenix Suns win the 2026 NBA Finals?"
 description: "Will the Phoenix Suns win the 2026 NBA Finals? Odds: 0.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Phoenix Suns win the 2026 NBA Finals?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-24
 expiryDate: 2026-07-01
 tags: ["polymarket", "sports"]
