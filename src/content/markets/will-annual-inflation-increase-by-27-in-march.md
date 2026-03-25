@@ -1,17 +1,16 @@
 ---
 title: "Will annual inflation increase by 2.7% in March?"
-description: "Will annual inflation increase by 2.7% in March? Odds: 0.6% YES on Polymarket. See live prices and trade this market."
+description: "Will annual inflation increase by 2.7% in March? Odds: 0.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will annual inflation increase by 2.7% in March?"
 category: "economics"
 status: "active"
-lastUpdated: 2026-03-24
+lastUpdated: 2026-03-25
 expiryDate: 2026-04-10
 tags: ["economics", "polymarket", "sports"]
-polymarketYes: 0.6
-polymarketNo: 99.4
-polymarketVolume: 92979
+polymarketYes: 0.5
+polymarketNo: 99.5
+polymarketVolume: 93584
 polymarketUrl: "https://polymarket.com/event/will-annual-inflation-increase-by-2pt7-in-march-955"
-analysisDate: 2026-03-24
 ---
 
 # Inflation Market Analysis

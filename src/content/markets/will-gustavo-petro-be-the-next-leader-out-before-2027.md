@@ -3,8 +3,8 @@ title: "Will Gustavo Petro be the next leader out before 2027?"
 description: "Will Gustavo Petro be the next leader out before 2027? Odds: 1.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Gustavo Petro be the next leader out before 2027?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-24
+status: "settled"
+lastUpdated: 2026-03-25
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 1.2

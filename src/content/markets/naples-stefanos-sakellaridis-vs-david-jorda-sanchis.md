@@ -3,8 +3,8 @@ title: "Naples: Stefanos Sakellaridis vs David Jorda Sanchis"
 description: "Naples: Stefanos Sakellaridis vs David Jorda Sanchis Odds: 100.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Naples: Stefanos Sakellaridis vs David Jorda Sanchis"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-24
+status: "settled"
+lastUpdated: 2026-03-25
 expiryDate: 2026-03-31
 tags: ["politics", "polymarket"]
 polymarketYes: 100.0

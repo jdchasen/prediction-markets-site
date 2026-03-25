@@ -3,8 +3,8 @@ title: "Will the Memphis Grizzlies win the NBA Western Conference Finals?"
 description: "Will the Memphis Grizzlies win the NBA Western Conference Finals? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Memphis Grizzlies win the NBA Western Conference Finals?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-03-24
+status: "settled"
+lastUpdated: 2026-03-25
 expiryDate: 2026-06-16
 tags: ["polymarket", "sports"]
 polymarketYes: 0.1

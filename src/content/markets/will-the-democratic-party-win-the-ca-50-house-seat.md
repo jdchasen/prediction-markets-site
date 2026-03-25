@@ -3,8 +3,8 @@ title: "Will the Democratic Party win the CA-50 House seat?"
 description: "Will the Democratic Party win the CA-50 House seat? Odds: 89.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Democratic Party win the CA-50 House seat?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-24
+status: "settled"
+lastUpdated: 2026-03-25
 expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
 polymarketYes: 89.5

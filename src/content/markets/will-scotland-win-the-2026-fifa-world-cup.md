@@ -3,8 +3,8 @@ title: "Will Scotland win the 2026 FIFA World Cup?"
 description: "Will Scotland win the 2026 FIFA World Cup? Odds: 0.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Scotland win the 2026 FIFA World Cup?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-03-24
+status: "settled"
+lastUpdated: 2026-03-25
 expiryDate: 2026-07-20
 tags: ["polymarket", "sports"]
 polymarketYes: 0.4

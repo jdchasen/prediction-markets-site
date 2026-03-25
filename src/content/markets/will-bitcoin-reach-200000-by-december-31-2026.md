@@ -3,8 +3,8 @@ title: "Will Bitcoin reach $200,000 by December 31, 2026?"
 description: "Will Bitcoin reach $200,000 by December 31, 2026? Odds: 4.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Bitcoin reach $200,000 by December 31, 2026?"
 category: "crypto"
-status: "active"
-lastUpdated: 2026-03-24
+status: "settled"
+lastUpdated: 2026-03-25
 expiryDate: 2027-01-01
 tags: ["bitcoin", "crypto", "polymarket"]
 polymarketYes: 4.8

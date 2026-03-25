@@ -3,8 +3,8 @@ title: "Will Alexander Zverev win the 2026 men's singles tournament at the Miami
 description: "Will Alexander Zverev win the 2026 men's singles tournament at the Miami Open? Odds: 7.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Alexander Zverev win the 2026 men's singles tournament at the Miami Open?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-24
+status: "settled"
+lastUpdated: 2026-03-25
 expiryDate: 2026-03-30
 tags: ["politics", "polymarket"]
 polymarketYes: 7.8

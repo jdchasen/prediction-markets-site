@@ -3,8 +3,8 @@ title: "Anthropic $500B+ valuation in 2026?"
 description: "Anthropic $500B+ valuation in 2026? Odds: 84.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Anthropic $500B+ valuation in 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-24
+status: "settled"
+lastUpdated: 2026-03-25
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 84.5

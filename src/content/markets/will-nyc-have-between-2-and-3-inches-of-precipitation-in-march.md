@@ -3,8 +3,8 @@ title: "Will NYC have between 2 and 3 inches of precipitation in March?"
 description: "Will NYC have between 2 and 3 inches of precipitation in March? Odds: 0.3% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will NYC have between 2 and 3 inches of precipitation in March?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-24
+status: "settled"
+lastUpdated: 2026-03-25
 expiryDate: 2026-03-31
 tags: ["politics", "polymarket"]
 polymarketYes: 0.3

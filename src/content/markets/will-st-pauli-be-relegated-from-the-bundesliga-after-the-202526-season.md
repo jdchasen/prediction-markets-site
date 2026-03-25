@@ -3,8 +3,8 @@ title: "Will St. Pauli be relegated from the Bundesliga after the 2025–26 seas
 description: "Will St. Pauli be relegated from the Bundesliga after the 2025–26 season? Odds: 41.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will St. Pauli be relegated from the Bundesliga after the 2025–26 season?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-24
+status: "settled"
+lastUpdated: 2026-03-25
 expiryDate: 2026-05-28
 tags: ["politics", "polymarket"]
 polymarketYes: 41.0

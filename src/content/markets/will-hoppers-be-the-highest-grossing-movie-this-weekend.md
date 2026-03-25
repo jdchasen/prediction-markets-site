@@ -3,8 +3,8 @@ title: "Will \"Hoppers\" be the highest grossing movie this weekend?"
 description: "Will \"Hoppers\" be the highest grossing movie this weekend? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will \"Hoppers\" be the highest grossing movie this weekend?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-24
+status: "settled"
+lastUpdated: 2026-03-25
 expiryDate: 2026-03-30
 tags: ["politics", "polymarket"]
 polymarketYes: 0.1

@@ -3,8 +3,8 @@ title: "Will Israel win Eurovision 2026?"
 description: "Will Israel win Eurovision 2026? Odds: 4.3% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Israel win Eurovision 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-24
+status: "settled"
+lastUpdated: 2026-03-25
 expiryDate: 2026-05-16
 tags: ["politics", "polymarket"]
 polymarketYes: 4.3

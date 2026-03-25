@@ -3,8 +3,8 @@ title: "Bucaramanga: Benjamin Thomas George vs Ivan Marrero"
 description: "Bucaramanga: Benjamin Thomas George vs Ivan Marrero Odds: 24.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Bucaramanga: Benjamin Thomas George vs Ivan Marrero"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-24
+status: "settled"
+lastUpdated: 2026-03-25
 expiryDate: 2026-03-31
 tags: ["politics", "polymarket"]
 polymarketYes: 24.5

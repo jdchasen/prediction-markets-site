@@ -3,8 +3,8 @@ title: "Will any month of 2026 be the hottest on record?"
 description: "Will any month of 2026 be the hottest on record? Odds: 73.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will any month of 2026 be the hottest on record?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-24
+status: "settled"
+lastUpdated: 2026-03-25
 expiryDate: 2027-01-10
 tags: ["politics", "polymarket"]
 polymarketYes: 73.5

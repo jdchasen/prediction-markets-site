@@ -3,8 +3,8 @@ title: "Will Norway win Eurovision 2026?"
 description: "Will Norway win Eurovision 2026? Odds: 0.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Norway win Eurovision 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-24
+status: "settled"
+lastUpdated: 2026-03-25
 expiryDate: 2026-05-16
 tags: ["politics", "polymarket"]
 polymarketYes: 0.5

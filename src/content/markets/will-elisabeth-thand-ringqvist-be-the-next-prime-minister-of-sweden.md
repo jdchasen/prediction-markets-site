@@ -3,8 +3,8 @@ title: "Will Elisabeth Thand Ringqvist be the next Prime Minister of Sweden?"
 description: "Will Elisabeth Thand Ringqvist be the next Prime Minister of Sweden? Odds: 0.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Elisabeth Thand Ringqvist be the next Prime Minister of Sweden?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-24
+status: "settled"
+lastUpdated: 2026-03-25
 expiryDate: 2026-09-13
 tags: ["ethereum", "politics", "polymarket"]
 polymarketYes: 0.2

@@ -3,8 +3,8 @@ title: "Will Opendoor (OPEN) close above $1.00 end of March?"
 description: "Will Opendoor (OPEN) close above $1.00 end of March? Odds: 100.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Opendoor (OPEN) close above $1.00 end of March?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-24
+status: "settled"
+lastUpdated: 2026-03-25
 expiryDate: 2026-03-31
 tags: ["politics", "polymarket"]
 polymarketYes: 100.0

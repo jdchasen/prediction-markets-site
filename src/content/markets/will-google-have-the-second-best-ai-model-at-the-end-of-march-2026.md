@@ -3,8 +3,8 @@ title: "Will Google have the second-best AI model at the end of March 2026?"
 description: "Will Google have the second-best AI model at the end of March 2026? Odds: 2.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Google have the second-best AI model at the end of March 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-24
+status: "settled"
+lastUpdated: 2026-03-25
 expiryDate: 2026-03-31
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 2.1

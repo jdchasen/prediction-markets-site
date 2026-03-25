@@ -3,8 +3,8 @@ title: "Will the National People’s Party (NPEP) win the most seats in the 2026
 description: "Will the National People’s Party (NPEP) win the most seats in the 2026 Tamil Nadu Legislative Assembly election? Odds: 0.1% YES on Polymarket. See live price..."
 marketQuestion: "Will the National People’s Party (NPEP) win the most seats in the 2026 Tamil Nadu Legislative Assembly election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-24
+status: "settled"
+lastUpdated: 2026-03-25
 expiryDate: 2026-05-10
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.1

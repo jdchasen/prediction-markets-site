@@ -3,8 +3,8 @@ title: "Will Elon Musk pay TSA salaries?"
 description: "Will Elon Musk pay TSA salaries? Odds: 3.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Elon Musk pay TSA salaries?"
 category: "tech"
-status: "active"
-lastUpdated: 2026-03-24
+status: "settled"
+lastUpdated: 2026-03-25
 expiryDate: 2026-04-14
 tags: ["polymarket", "tech"]
 polymarketYes: 3.7

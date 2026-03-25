@@ -3,8 +3,8 @@ title: "Will the Philadelphia Flyers win the 2025–2026 NHL Presidents' Trophy?
 description: "Will the Philadelphia Flyers win the 2025–2026 NHL Presidents' Trophy? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Philadelphia Flyers win the 2025–2026 NHL Presidents' Trophy?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-03-24
+status: "settled"
+lastUpdated: 2026-03-25
 expiryDate: 2026-04-20
 tags: ["polymarket", "sports"]
 polymarketYes: 0.1

@@ -3,8 +3,8 @@ title: "Theo James announced as next James Bond?"
 description: "Theo James announced as next James Bond? Odds: 1.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Theo James announced as next James Bond?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-24
+status: "settled"
+lastUpdated: 2026-03-25
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
 polymarketYes: 1.2

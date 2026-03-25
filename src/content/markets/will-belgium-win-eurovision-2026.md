@@ -4,14 +4,13 @@ description: "Will Belgium win Eurovision 2026? Odds: 0.4% YES on Polymarket. Se
 marketQuestion: "Will Belgium win Eurovision 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-03-24
+lastUpdated: 2026-03-25
 expiryDate: 2026-05-16
 tags: ["politics", "polymarket"]
 polymarketYes: 0.4
-polymarketNo: 99.7
-polymarketVolume: 960872
+polymarketNo: 99.6
+polymarketVolume: 999771
 polymarketUrl: "https://polymarket.com/event/will-belgium-win-eurovision-2026"
-analysisDate: 2026-03-24
 ---
 
 Trading at less than half a percent, the market reflects extreme skepticism about Belgium's chances at Eurovision 2026, though this low probability persists more than a year before the contest with significant uncertainty remaining about the actual competition field and song quality.

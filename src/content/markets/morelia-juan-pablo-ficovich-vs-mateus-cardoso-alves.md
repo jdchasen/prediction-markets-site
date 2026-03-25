@@ -3,8 +3,8 @@ title: "Morelia: Juan Pablo Ficovich vs Mateus Cardoso Alves"
 description: "Morelia: Juan Pablo Ficovich vs Mateus Cardoso Alves Odds: 100.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Morelia: Juan Pablo Ficovich vs Mateus Cardoso Alves"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-24
+status: "settled"
+lastUpdated: 2026-03-25
 expiryDate: 2026-03-31
 tags: ["politics", "polymarket"]
 polymarketYes: 100.0

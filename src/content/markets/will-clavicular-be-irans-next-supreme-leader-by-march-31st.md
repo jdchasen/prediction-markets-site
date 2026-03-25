@@ -3,8 +3,8 @@ title: "Will Clavicular be Iran's next Supreme Leader by March 31st?"
 description: "Will Clavicular be Iran's next Supreme Leader by March 31st? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Clavicular be Iran's next Supreme Leader by March 31st?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-24
+status: "settled"
+lastUpdated: 2026-03-25
 expiryDate: 2026-03-31
 tags: ["politics", "polymarket"]
 polymarketYes: 0.1

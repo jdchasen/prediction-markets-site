@@ -3,8 +3,8 @@ title: "Will Alphabet be the largest company in the world by market cap on March
 description: "Will Alphabet be the largest company in the world by market cap on March 31? Odds: 0.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Alphabet be the largest company in the world by market cap on March 31?"
 category: "finance"
-status: "active"
-lastUpdated: 2026-03-24
+status: "settled"
+lastUpdated: 2026-03-25
 expiryDate: 2026-03-31
 tags: ["finance", "polymarket"]
 polymarketYes: 0.2

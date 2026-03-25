@@ -3,8 +3,8 @@ title: "Will Jack Antonoff attend Taylor Swift's wedding?"
 description: "Will Jack Antonoff attend Taylor Swift's wedding? Odds: 74.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Jack Antonoff attend Taylor Swift's wedding?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-24
+status: "settled"
+lastUpdated: 2026-03-25
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 74.0

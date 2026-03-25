@@ -3,8 +3,8 @@ title: "Detroit Tigers vs. Colorado Rockies"
 description: "Detroit Tigers vs. Colorado Rockies Odds: 100.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Detroit Tigers vs. Colorado Rockies"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-24
+status: "settled"
+lastUpdated: 2026-03-25
 expiryDate: 2026-03-31
 tags: ["politics", "polymarket"]
 polymarketYes: 100.0

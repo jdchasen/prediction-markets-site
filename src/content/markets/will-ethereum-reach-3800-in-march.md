@@ -3,8 +3,8 @@ title: "Will Ethereum reach $3,800 in March?"
 description: "Will Ethereum reach $3,800 in March? Odds: 0.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Ethereum reach $3,800 in March?"
 category: "crypto"
-status: "active"
-lastUpdated: 2026-03-24
+status: "settled"
+lastUpdated: 2026-03-25
 expiryDate: 2026-04-01
 tags: ["crypto", "ethereum", "polymarket"]
 polymarketYes: 0.2

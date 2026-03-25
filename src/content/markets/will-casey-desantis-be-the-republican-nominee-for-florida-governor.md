@@ -3,8 +3,8 @@ title: "Will Casey DeSantis be the Republican nominee for Florida Governor?"
 description: "Will Casey DeSantis be the Republican nominee for Florida Governor? Odds: 0.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Casey DeSantis be the Republican nominee for Florida Governor?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-24
+status: "settled"
+lastUpdated: 2026-03-25
 expiryDate: 2026-08-18
 tags: ["politics", "polymarket"]
 polymarketYes: 0.8

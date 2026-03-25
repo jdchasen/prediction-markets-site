@@ -3,8 +3,8 @@ title: "Mojtaba Khamenei seen in public by April 30?"
 description: "Mojtaba Khamenei seen in public by April 30? Odds: 22.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Mojtaba Khamenei seen in public by April 30?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-24
+status: "settled"
+lastUpdated: 2026-03-25
 expiryDate: 2026-04-30
 tags: ["politics", "polymarket"]
 polymarketYes: 22.5

@@ -3,8 +3,8 @@ title: "Halys vs. Zverev: Set 1 Games O/U 8.5"
 description: "Halys vs. Zverev: Set 1 Games O/U 8.5 Odds: 88.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Halys vs. Zverev: Set 1 Games O/U 8.5"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-24
+status: "settled"
+lastUpdated: 2026-03-25
 expiryDate: 2026-04-01
 tags: ["politics", "polymarket"]
 polymarketYes: 88.5
