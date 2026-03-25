@@ -1,17 +1,16 @@
 ---
 title: "Will Maxx Crosby play for Baltimore Ravens next?"
-description: "Will Maxx Crosby play for Baltimore Ravens next? Odds: 8.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Maxx Crosby play for Baltimore Ravens next? Odds: 5.3% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Maxx Crosby play for Baltimore Ravens next?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-03-25
 expiryDate: 2026-09-01
 tags: ["politics", "polymarket"]
-polymarketYes: 8.5
-polymarketNo: 91.5
-polymarketVolume: 9928
+polymarketYes: 5.3
+polymarketNo: 94.7
+polymarketVolume: 9945
 polymarketUrl: "https://polymarket.com/event/will-maxx-crosby-play-for-baltimore-ravens-next"
-analysisDate: 2026-03-25
 ---
 
 The market gives less than one-in-ten odds that star Raiders defensive end Maxx Crosby will join the Baltimore Ravens, reflecting widespread skepticism about a trade materializing despite persistent rumors linking him to contending teams. This matters because Crosby represents one of the NFL's premier pass rushers still in his prime, and any movement would significantly reshape both the Raiders' rebuilding timeline and the Ravens' Super Bowl window.

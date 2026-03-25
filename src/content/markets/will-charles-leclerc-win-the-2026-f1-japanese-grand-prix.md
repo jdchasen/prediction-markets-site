@@ -3,7 +3,7 @@ title: "Will Charles Leclerc win the 2026 F1 Japanese Grand Prix?"
 description: "Will Charles Leclerc win the 2026 F1 Japanese Grand Prix? Odds: 8.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Charles Leclerc win the 2026 F1 Japanese Grand Prix?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-25
 expiryDate: 2026-04-05
 tags: ["polymarket", "sports"]

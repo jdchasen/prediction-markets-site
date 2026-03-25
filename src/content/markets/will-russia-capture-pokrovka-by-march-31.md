@@ -1,56 +1,54 @@
 ---
 title: "Will Russia capture Pokrovka by March 31?"
-description: "Will Russia capture Pokrovka by March 31? Odds: 11.0% YES on Polymarket. See live prices and trade this market."
+description: "Will Russia capture Pokrovka by March 31? Odds: 16.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Russia capture Pokrovka by March 31?"
 category: "politics"
-status: "settled"
+status: "active"
 lastUpdated: 2026-03-25
 expiryDate: 2026-03-31
 tags: ["politics", "polymarket"]
-polymarketYes: 11.0
-polymarketNo: 89.0
-polymarketVolume: 9745
+polymarketYes: 16.0
+polymarketNo: 84.0
+polymarketVolume: 9870
 polymarketUrl: "https://polymarket.com/event/will-russia-capture-pokrovka-by-march-31"
-analysisDate: 2026-03-24
+analysisDate: 2026-03-25
 ---
 
-# Russia-Pokrovka Capture Prediction Market Analysis
+The market pricing Pokrovka's capture at 16% reflects skepticism that Russian forces can take this strategically important Donetsk Oblast town within the next fourteen months, despite its proximity to current front lines. Pokrovsk (formerly Pokrovka) serves as a critical Ukrainian logistics hub, with railways and roads connecting multiple sectors of the eastern front, making its fall potentially significant for Russia's Donbas campaign.
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 11.0% | 89.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 16.0% | 84.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-At 11% implied probability, traders are pricing in a low but non-negligible chance that Russian forces capture Pokrovka within the next 14+ months, reflecting current military stalemate conditions but acknowledging significant uncertainty in a prolonged conflict. This matters because Pokrovka sits in the Donetsk region and represents a tactical objective that could signal meaningful Russian advances or conversely, Ukrainian stabilization—either outcome would reshape broader conflict narratives and geopolitical risk assessments heading into 2026.
+The bull case for capture rests on Russian forces' gradual advances throughout 2024, having moved within approximately 7 kilometers of the city's outskirts by early 2025. Russia has demonstrated willingness to accept heavy casualties for incremental territorial gains, and the town sits in relatively flat terrain compared to more defensible positions elsewhere. If Ukrainian ammunition shortages persist or Western military aid falters in 2025, Russia could exploit weakened defenses to push through defensive lines. Additionally, the extended timeline through March 2026 gives Russian forces considerable time to grind forward using their established attrition tactics.
 
-The bull case for Russian capture rests on three factors: incremental Russian advances in eastern Ukraine have continued despite attrition, Russian domestic production capacity appears sustainable through 2025-2026, and Western military aid fatigue could accelerate post-U.S. election shifts in policy (particularly if Ukraine aid becomes politically contested in 2025 Congressional budget cycles). If Russia maintains its current grinding offensive pace—roughly 100-150 square kilometers monthly in late 2024—and Ukrainian defenses face personnel or equipment shortages, the 14-month window provides mathematical plausibility for capturing a town within Russia's operational sphere. Escalation scenarios (NATO involvement, weapons restrictions lifted on Ukraine) could accelerate this timeline dramatically.
+The bear case centers on Ukraine's determination to hold Pokrovsk given its operational importance and the increasingly fortified defensive positions established over months of preparation. Ukrainian forces have successfully slowed Russian advances to meters per day in many sectors, and capturing an urban area of this size typically requires significantly more combat power than Russia has concentrated in this sector. The timeline also works against Russia—sustaining offensive operations for over a year while maintaining pressure across a 1,000-kilometer front stretches already strained logistics and manpower. Historical precedents like Bakhmut show that even successful Russian urban captures can take 8-10 months of intense fighting for smaller objectives.
 
-The bear case is stronger: Pokrovka's capture would require Russia to breakthrough entrenched Ukrainian positions while simultaneously sustaining advances across multiple fronts, something Russian forces have failed to do despite numerical superiority. Ukrainian defensive doctrine has hardened since 2022, Western weapons systems continue improving (Storm Shadow, ATACMS availability through 2025), and the political cost of Ukrainian territorial loss remains a rallying point for sustained Western support. A ceasefire agreement before March 2026—while uncertain—would effectively freeze current lines and make capture impossible; ongoing diplomatic channels and war fatigue could shift incentives toward negotiation by late 2025.
-
-The critical catalyst window spans early 2025 through fall 2025. Watch for three indicators: Russian casualty figures and mobilization capacity reports (spring 2025), the trajectory of U.S. Ukraine policy post-inauguration (January 2025 onward), and any major Ukrainian counteroffensive attempts that could disrupt Russian offensive sequencing. Intelligence assessments of Russian operational reserves and logistics will become declassified periodically; significant degradation would lower capture probability. Conversely, any successful Russian breakthrough near Pokrovka or a collapse in Western aid would sharply increase odds. Traders should monitor conflict maps monthly and cross-reference with defense budget appropriations in Western legislatures—U.S. FY2025 spending bills (passed by late 2024) will signal the ceiling for Ukrainian support through Q1 2025.
+Key catalysts include the U.S. Congressional budget cycle in spring 2025, which will determine future military aid packages, and any potential peace negotiations that could accelerate after the U.S. presidential transition. Traders should monitor monthly Institute for the Study of War mapping updates for Russian advance rates, Ukrainian General Staff reports on force rotations in the Pokrovsk sector, and announcements of new Western weapons deliveries. The winter months typically slow offensive operations, so significant movement would more likely occur between April and November of 2025.
 
 ## Related Markets
 
-- [Will Claude 5 be released by March 31, 2026?](/odds/will-claude-5-be-released-by-march-31-2026) — 3% YES
-- [Will Israel win Eurovision 2026?](/odds/will-israel-win-eurovision-2026) — 4% YES
-- [Iran x Israel/US conflict ends by May 15?](/odds/iran-x-israelus-conflict-ends-by-may-15) — 60% YES
+- [Will Australia win Eurovision 2026?](/odds/will-australia-win-eurovision-2026) — 5% YES
+- [Bucaramanga: Peter Bertran vs Matias Soto](/odds/bucaramanga-peter-bertran-vs-matias-soto) — 0% YES
+- [Will the Arizona Diamondbacks win the 2026 World Series?](/odds/will-the-arizona-diamondbacks-win-the-2026-world-series) — 1% YES
 
 ## Frequently Asked Questions
 
-### What makes Pokrovka specifically important as a military objective versus other towns in Donetsk?
+### What exactly defines "capture" for this market's resolution criteria?
 
-Pokrovka's location along supply routes and defensive lines makes it operationally significant for either breakthrough momentum or defensive depth, though it lacks the symbolic weight of larger cities; Russian focus on this particular town suggests it's a next logical objective in their grinding advance rather than a critical strategic point.
+Markets typically resolve YES when Russian forces establish control over the city center and Ukrainian forces withdraw, similar to how Bakhmut or Avdiivka were determined. Contested status or partial occupation generally wouldn't trigger resolution.
 
-### How would a ceasefire agreement affect this market's outcome?
+### Why is Pokrovsk specifically important compared to other front-line towns?
 
-Any formal ceasefire or frozen conflict agreement would almost certainly resolve this market NO unless it explicitly ceded Pokrovka to Russian control, since ceasefires typically freeze current battle lines; ongoing diplomatic talks throughout 2025 represent the primary non-military path to market resolution.
+Pokrovsk sits at a critical railway junction connecting supply lines to Ukrainian forces in Chasiv Yar, Kostiantynivka, and southern Donetsk sectors—its loss would severely complicate Ukrainian logistics across multiple axes and potentially force withdrawals from advanced positions.
 
-### What intelligence metrics should traders monitor to adjust their positions before March 2026?
+### How far have Russian forces actually advanced toward Pokrovsk in recent months?
 
-Track publicly available casualty estimates, Russian monthly territorial gains (measured in square kilometers),
+Russian forces captured Avdiivka in February 2024 approximately 40 kilometers southeast of Pokrovsk and have since taken several smaller settlements, but advance rates slowed significantly to 1-3 kilometers per month as they approached more fortified Ukrainian defensive belts in late 2024.
 
 ## Learn More
 

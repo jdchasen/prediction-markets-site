@@ -9,9 +9,8 @@ expiryDate: 2026-04-17
 tags: ["economics", "polymarket"]
 polymarketYes: 0.2
 polymarketNo: 99.8
-polymarketVolume: 9552
+polymarketVolume: 9652
 polymarketUrl: "https://polymarket.com/event/will-china-gdp-growth-in-q1-2026-be-at-least-6pt0"
-analysisDate: 2026-03-25
 ---
 
 The market assigns near-zero probability to China achieving 6% GDP growth in Q1 2026, reflecting deep skepticism about the country's economic trajectory amid structural headwinds including property sector collapse, demographic decline, and weakening consumer confidence.

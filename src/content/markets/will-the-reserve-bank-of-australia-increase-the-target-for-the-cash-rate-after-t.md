@@ -9,9 +9,8 @@ expiryDate: 2026-05-05
 tags: ["politics", "polymarket"]
 polymarketYes: 41.5
 polymarketNo: 58.5
-polymarketVolume: 9955
+polymarketVolume: 9982
 polymarketUrl: "https://polymarket.com/event/will-the-reserve-bank-of-australia-increase-the-target-for-the-cash-rate-after-the-may-meeting"
-analysisDate: 2026-03-25
 ---
 
 Traders are pricing in a 41.5% chance the RBA will raise its cash rate target following the May 2025 board meeting, reflecting uncertainty about whether Australia's inflation will prove stubborn enough to warrant another tightening cycle after the central bank held rates steady through early 2025.

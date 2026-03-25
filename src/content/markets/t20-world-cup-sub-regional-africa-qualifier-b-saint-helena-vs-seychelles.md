@@ -3,7 +3,7 @@ title: "T20 World Cup, Sub Regional Africa, Qualifier B: Saint Helena vs Seychel
 description: "T20 World Cup, Sub Regional Africa, Qualifier B: Saint Helena vs Seychelles Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "T20 World Cup, Sub Regional Africa, Qualifier B: Saint Helena vs Seychelles"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-25
 expiryDate: 2026-04-01
 tags: ["ai", "polymarket", "sports"]

@@ -3,7 +3,7 @@ title: "Jilin Northeast Tigers vs. Liaoning Flying Leopards"
 description: "Jilin Northeast Tigers vs. Liaoning Flying Leopards Odds: 100.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Jilin Northeast Tigers vs. Liaoning Flying Leopards"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-25
 expiryDate: 2026-04-01
 tags: ["politics", "polymarket"]

@@ -3,7 +3,7 @@ title: "Will NVIDIA dip to $116 in March?"
 description: "Will NVIDIA dip to $116 in March? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will NVIDIA dip to $116 in March?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-25
 expiryDate: 2026-04-01
 tags: ["politics", "polymarket"]

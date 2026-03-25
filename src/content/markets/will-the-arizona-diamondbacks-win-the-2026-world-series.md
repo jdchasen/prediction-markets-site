@@ -11,7 +11,6 @@ polymarketYes: 0.9
 polymarketNo: 99.2
 polymarketVolume: 99550
 polymarketUrl: "https://polymarket.com/event/will-the-arizona-diamondbacks-win-the-2026-world-series"
-analysisDate: 2026-03-25
 ---
 
 The Arizona Diamondbacks are trading as extreme long shots at under 1% to win the 2026 World Series, reflecting their current position as a middle-tier National League team without obvious advantages over perennial contenders like the Dodgers, Braves, or Phillies.

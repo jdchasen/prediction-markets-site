@@ -3,51 +3,52 @@ title: "Will Scotland win the 2026 FIFA World Cup?"
 description: "Will Scotland win the 2026 FIFA World Cup? Odds: 0.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Scotland win the 2026 FIFA World Cup?"
 category: "sports"
-status: "settled"
+status: "active"
 lastUpdated: 2026-03-25
 expiryDate: 2026-07-20
 tags: ["polymarket", "sports"]
 polymarketYes: 0.4
 polymarketNo: 99.7
-polymarketVolume: 9674495
+polymarketVolume: 9898964
 polymarketUrl: "https://polymarket.com/event/will-scotland-win-the-2026-fifa-world-cup"
+analysisDate: 2026-03-25
 ---
 
-Scotland faces near-impossible odds at 0.4% on Polymarket to capture their first-ever World Cup title in 2026, reflecting both their historical underperformance on the global stage and the overwhelming strength of traditional powerhouses like Brazil, France, and Argentina.
+The market pricing Scotland at less than half a percent to win the 2026 World Cup reflects their longstanding struggles on football's biggest stage, though their recent qualification represents a symbolic milestone worth tracking for bettors interested in extreme longshot scenarios.
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.4% | 99.7% | $9.6M | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.4% | 99.7% | $9.9M | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The bull case, however slim, rests on Scotland's recent qualification success and their strongest squad in years. Steve Clarke has built a cohesive unit that reached Euro 2024, ending a lengthy tournament drought. Players like Andy Robertson, Scott McTominay, and young talent like Ben Doak provide genuine quality across the pitch. The 2026 tournament's expanded 48-team format increases knockout round unpredictability, and Scotland has shown they can defend resolutely against superior opponents. If they draw a favorable group and avoid early elimination, a dream run similar to Morocco's 2022 semifinal appearance isn't theoretically impossible—just exceptionally unlikely.
+The bull case requires acknowledging Scotland's achievement in reaching their first World Cup since 1998, ending a 28-year drought. Their qualification campaign showed resilience, and the expanded 48-team format in 2026 creates more chaos potential for underdogs. Key players like Scott McTominay, who scored seven goals in qualifying, and Liverpool's Andy Robertson provide a competitive spine. The tournament's North American venues could neutralize traditional powerhouse home advantages, and Scotland's group draw in late 2025 will be critical—landing in a softer group could enable advancement to knockout rounds where single-match upsets become possible. Manager Steve Clarke has built genuine squad cohesion rarely seen in Scottish football.
 
-The bear case is overwhelming and explains the 0.4% probability. Scotland has never progressed beyond the group stage in any World Cup appearance across eight tournaments. Their FIFA ranking hovers around 35-45 globally, far below the elite tier needed to win seven consecutive matches against increasingly difficult opposition. They lack a world-class striker and creative playmaker who could decide tight knockout games. Even reaching the quarterfinals would represent their greatest achievement ever, making a championship run statistically negligible. Nations like England, Spain, Germany, and South American giants possess superior talent depth and tournament experience.
+The bear case is overwhelming and explains the pricing. Scotland has never advanced beyond the group stage in any World Cup appearance across eight previous tournaments. Their FIFA ranking typically hovers between 35-45, far below the elite tier needed for championship contention. Recent performances show a significant quality gap—they managed just one point at Euro 2024 and have struggled against top-20 opposition. The squad lacks world-class depth, particularly in attacking positions beyond McTominay's contributions from midfield. Injury to Robertson or goalkeeper Angus Gunn would severely compromise their defensive stability. Statistically, no team ranked outside the top 15 has won a World Cup in the modern era, and Scotland would need to defeat multiple continental champions in succession.
 
-Key catalysts to monitor include the World Cup draw in late 2025, which determines Scotland's group opponents and potential knockout path. Any major injuries to core players like Robertson or McTominay during the 2025-26 club season would further diminish already minuscule chances. Scotland's Nations League fixtures through 2025 will indicate form heading into the tournament, though friendly results rarely predict World Cup success. Traders should watch for extreme long-shot value only if Scotland somehow navigates to the quarterfinals, though even then, championship odds would remain distant.
+Key catalysts include the World Cup draw scheduled for late 2025, which will determine if Scotland faces an impossible group including teams like Brazil, France, or Argentina. Upcoming UEFA Nations League matches in 2025 will test Scotland's form trajectory and reveal whether Clarke can develop tactical solutions against elite opposition. Monitor McTominay's club season at Napoli and whether young talents like Ben Doak at Middlesbrough (on loan from Liverpool) develop into genuine international-quality options. Any significant injuries to the core seven or eight starters between now and June 2026 would functionally eliminate even theoretical championship chances.
 
 ## Related Markets
 
-- [Will the Phoenix Suns win the 2026 NBA Finals?](/odds/will-the-phoenix-suns-win-the-2026-nba-finals) — 1% YES
-- [Will the Miami Heat win the 2026 NBA Finals?](/odds/will-the-miami-heat-win-the-2026-nba-finals) — 1% YES
 - [Will Qatar win the 2026 FIFA World Cup?](/odds/will-qatar-win-the-2026-fifa-world-cup) — 0% YES
+- [Will Cade Cunningham lead the NBA in points during the 2025–26 NBA season?](/odds/will-cade-cunningham-lead-the-nba-in-points-during-the-202526-nba-season) — 0% YES
+- [Will Portugal win Group K in the 2026 FIFA World Cup?](/odds/will-portugal-win-group-k-in-the-2026-fifa-world-cup) — 66% YES
 
 ## Frequently Asked Questions
 
-### Has Scotland ever won a knockout match at the World Cup?
+### Has Scotland ever advanced past the World Cup group stage that would make a championship run remotely plausible?
 
-No, Scotland has never won a knockout game because they've never advanced past the group stage in their eight World Cup appearances, last qualifying in 1998.
+No, Scotland has failed to escape the group stage in all eight of their previous World Cup appearances, making the leap to tournament winners historically unprecedented and statistically implausible.
 
-### What would need to happen for Scotland to realistically contend for the 2026 title?
+### What would Scotland's group draw need to look like for these odds to move meaningfully higher?
 
-Scotland would need to win seven consecutive matches against progressively elite opposition while avoiding teams like Brazil, France, Argentina, and Spain—a scenario with no historical precedent given their squad quality and tournament pedigree.
+Scotland would need to avoid all top-10 ranked teams and draw three opponents ranked 30th or lower, an virtually impossible scenario given the pot system that places European qualifiers, which would still only improve knockout access rather than championship probability.
 
-### How does the expanded 48-team format affect Scotland's chances?
+### Which Scotland players' fitness status should traders monitor most closely before the tournament?
 
-While the larger tournament increases Scotland's probability of advancing from the group stage, it doesn't meaningfully impact championship odds since they'd still need to defeat multiple top-10 nations in knockout rounds they've never before reached.
+Andy Robertson (Liverpool), Scott McTominay (Napoli), and Angus Gunn (Norwich) are irreplaceable given Scotland's lack of depth—injuries to any of these three would effectively end even theoretical upset potential.
 
 ## Learn More
 

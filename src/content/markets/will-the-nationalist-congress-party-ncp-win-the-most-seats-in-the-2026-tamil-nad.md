@@ -3,7 +3,7 @@ title: "Will the Nationalist Congress Party (NCP) win the most seats in the 2026
 description: "Will the Nationalist Congress Party (NCP) win the most seats in the 2026 Tamil Nadu Legislative Assembly election? Odds: 0.1% YES on Polymarket. See live pri..."
 marketQuestion: "Will the Nationalist Congress Party (NCP) win the most seats in the 2026 Tamil Nadu Legislative Assembly election?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-25
 expiryDate: 2026-04-23
 tags: ["elections", "politics", "polymarket"]
