@@ -3,7 +3,7 @@ title: "Will Alexander Zverev be the 2026 Men’s Wimbledon winner?"
 description: "Will Alexander Zverev be the 2026 Men’s Wimbledon winner? Odds: 2.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Alexander Zverev be the 2026 Men’s Wimbledon winner?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-26
 expiryDate: 2026-07-12
 tags: ["politics", "polymarket"]

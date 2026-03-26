@@ -3,7 +3,7 @@ title: "Will Bernard Arnault be richest person on March 31?"
 description: "Will Bernard Arnault be richest person on March 31? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Bernard Arnault be richest person on March 31?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-26
 expiryDate: 2026-03-31
 tags: ["politics", "polymarket"]

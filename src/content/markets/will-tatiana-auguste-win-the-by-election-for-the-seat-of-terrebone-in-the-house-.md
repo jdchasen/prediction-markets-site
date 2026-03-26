@@ -3,7 +3,7 @@ title: "Will Tatiana Auguste win the by-election for the seat of Terrebone in th
 description: "Will Tatiana Auguste win the by-election for the seat of Terrebone in the House of Commons of Canada? Odds: 58.5% YES on Polymarket. See live prices and trad..."
 marketQuestion: "Will Tatiana Auguste win the by-election for the seat of Terrebone in the House of Commons of Canada?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-26
 expiryDate: 2026-04-13
 tags: ["elections", "politics", "polymarket"]

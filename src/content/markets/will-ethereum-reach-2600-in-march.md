@@ -1,17 +1,16 @@
 ---
 title: "Will Ethereum reach $2,600 in March?"
-description: "Will Ethereum reach $2,600 in March? Odds: 1.4% YES on Polymarket. See live prices and trade this market."
+description: "Will Ethereum reach $2,600 in March? Odds: 1.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Ethereum reach $2,600 in March?"
 category: "crypto"
 status: "active"
 lastUpdated: 2026-03-26
 expiryDate: 2026-04-01
 tags: ["crypto", "ethereum", "polymarket"]
-polymarketYes: 1.4
-polymarketNo: 98.6
-polymarketVolume: 965383
+polymarketYes: 1.0
+polymarketNo: 99.0
+polymarketVolume: 977596
 polymarketUrl: "https://polymarket.com/event/will-ethereum-reach-2600-in-march-2026"
-analysisDate: 2026-03-26
 ---
 
 The market shows near-zero confidence in Ethereum reaching $2,600 by March 2025, reflecting extreme bearish sentiment on a token currently trading around $1,600-$1,800 range. This matters because it signals traders expect continued weakness through Q1 2025, contradicting any narrative of a quick recovery following the typical post-halving cycle expectations that some analysts promoted.

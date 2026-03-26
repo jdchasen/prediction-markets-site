@@ -9,9 +9,8 @@ expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 0.1
 polymarketNo: 99.9
-polymarketVolume: 97449
+polymarketVolume: 99693
 polymarketUrl: "https://polymarket.com/event/will-robert-jenrick-be-the-next-prime-minister-of-the-united-kingdom-in-2026-325"
-analysisDate: 2026-03-26
 ---
 
 # Robert Jenrick PM Analysis

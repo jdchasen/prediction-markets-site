@@ -3,7 +3,7 @@ title: "Bab el-Mandeb Strait effectively closed by March 31?"
 description: "Bab el-Mandeb Strait effectively closed by March 31? Odds: 3.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Bab el-Mandeb Strait effectively closed by March 31?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-26
 expiryDate: 2026-04-30
 tags: ["ai", "politics", "polymarket"]

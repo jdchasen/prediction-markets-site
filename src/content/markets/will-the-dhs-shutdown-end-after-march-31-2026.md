@@ -1,54 +1,54 @@
 ---
 title: "Will the DHS shutdown end after March 31, 2026?"
-description: "Will the DHS shutdown end after March 31, 2026? Odds: 67.9% YES on Polymarket. See live prices and trade this market."
+description: "Will the DHS shutdown end after March 31, 2026? Odds: 46.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the DHS shutdown end after March 31, 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-03-26
 expiryDate: 2026-03-31
 tags: ["politics", "polymarket"]
-polymarketYes: 67.9
-polymarketNo: 32.1
-polymarketVolume: 971213
+polymarketYes: 46.4
+polymarketNo: 53.6
+polymarketVolume: 987464
 polymarketUrl: "https://polymarket.com/event/will-the-dhs-shutdown-end-after-march-31-2026"
 analysisDate: 2026-03-26
 ---
 
-The market shows traders pricing in roughly two-in-three odds that any Department of Homeland Security shutdown will conclude by the end of March 2026, signaling moderate confidence that political gridlock won't extend beyond the fiscal quarter. This matters because DHS oversees critical functions including border security, TSA, FEMA, and immigration enforcement—operations that become flashpoints during budget standoffs.
+The market gives roughly even odds on whether a Department of Homeland Security shutdown will conclude after March 31, 2026, signaling trader uncertainty about whether congressional dysfunction will extend into spring or resolve sooner.
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 67.9% | 32.1% | $971K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 46.4% | 53.6% | $987K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The bull case rests on historical precedent and political pragmatism. Federal shutdowns rarely extend beyond a few weeks due to public backlash and operational necessity. DHS functions are particularly sensitive: airport security delays and suspended border operations create immediate, visible consequences that pressure both parties toward resolution. The 2018-2019 shutdown lasted 35 days but still ended before similar market deadlines would have expired. By late March 2026, appropriations committees typically face pressure to finalize spending bills ahead of the summer recess, and primary season dynamics (with key House and Senate primaries occurring March through May in competitive states) make prolonged dysfunction politically costly. Leadership from either party would likely seek resolution before voter anger peaks in what could be a midterm election cycle.
+The bull case for YES (shutdown ending after March 31) centers on escalating partisan tensions over immigration enforcement, border security funding, and potential impeachment proceedings that could paralyze appropriations processes through Q1 2026. If House Republicans demand significant policy concessions tied to DHS funding—such as mandatory detention expansions or border wall allocations—while holding a narrow majority, negotiations could easily stretch past the March deadline. The 2025 debt ceiling fight and its spillover effects into 2026 appropriations cycles create multiple pressure points where DHS could become a bargaining chip. Historical precedent from the 2018-2019 DHS shutdown shows these standoffs can persist for 35+ days when immigration policy becomes central to negotiations.
 
-The bear case centers on unprecedented partisan polarization and potential hostage-taking over immigration policy. If a shutdown begins in late 2025 or early 2026 tied to fundamental disagreements over border wall funding, asylum processing reforms, or Title 42-style policies, neither party may have incentive to capitulate quickly. The Republican House or Democratic Senate (depending on 2024 outcomes) could view DHS funding as leverage for broader immigration overhauls. Additionally, if the shutdown begins closer to March 2026, resolution mechanics alone—requiring conference committees, procedural votes, and potential veto overrides—could push past the March 31 deadline even if political will exists. Essential personnel continue working during shutdowns, potentially reducing urgency.
+The bear case for NO (shutdown ending by March 31) rests on the economic and political costs of prolonged DHS disruptions becoming untenable. TSA and Border Patrol agents working without pay creates immediate public pressure, particularly as spring break travel season intensifies in March 2026. Senate leadership from both parties typically pushes for short-term continuing resolutions to avoid prolonged shutdowns affecting national security agencies. If a shutdown begins in late 2025, the 2026 midterm primary season (beginning in earnest by March-April 2026) would create electoral incentives for vulnerable members to resolve the impasse before facing voters.
 
-Key catalysts include the FY2026 budget submission (typically February 2025), appropriations markup sessions in spring 2025, and any continuing resolution deadlines throughout late 2025. Traders should monitor immigration-related legislative packages, border incident reports that might harden positions, and polling on DHS performance. Watch for statements from House Appropriations Committee leadership and whether the Senate majority uses reconciliation procedures that could complicate DHS funding. Any actual shutdown announcement would dramatically shift these odds based on stated negotiating positions and whether leadership frames it as brief or protracted.
+Key catalysts include the FY2026 appropriations deadline (likely October 1, 2025), any continuing resolution expiration dates through winter 2025-2026, and early 2026 primary filing deadlines for competitive House districts. Traders should monitor House Freedom Caucus positioning on DHS appropriations riders, Senate Republicans' willingness to negotiate bipartisan deals, and polling on immigration issues heading into the midterms. The Congressional Budget Office's updated immigration cost projections and any major border incidents could dramatically shift negotiating dynamics.
 
 ## Related Markets
 
-- [Will Bulgaria win Eurovision 2026?](/odds/will-bulgaria-win-eurovision-2026) — 1% YES
+- [Will China invade Taiwan by March 31, 2026?](/odds/will-china-invade-taiwan-by-march-31-2026) — 0% YES
+- [Fact Check: Maduro capture staged?](/odds/fact-check-maduro-capture-staged) — 0% YES
 - [Will Clémentine Autain win the 2027 French presidential election?](/odds/will-clmentine-autain-win-the-2027-french-presidential-election) — 0% YES
-- [Will the Boston Red Sox win the 2026 World Series?](/odds/will-the-boston-red-sox-win-the-2026-world-series) — 5% YES
 
 ## Frequently Asked Questions
 
-### Does this market resolve YES if there's no DHS shutdown at all before March 31, 2026?
+### Does this market resolve YES if a DHS shutdown starts before March 31, 2026 and continues past that date?
 
-Yes, the market resolves YES either if a shutdown ends by the deadline or if no shutdown occurs. Only an active, ongoing DHS shutdown extending past March 31, 2026 would trigger a NO resolution.
+Yes, the market resolves YES if the shutdown extends beyond March 31, 2026, regardless of when it began. Even a shutdown starting in March and lasting into April would trigger a YES resolution.
 
-### What happens to essential DHS personnel like TSA agents and Border Patrol during a shutdown?
+### What counts as a "DHS shutdown" for this market—partial unfunded operations or complete closure?
 
-They're designated "essential" and required to work without pay until the shutdown ends and back pay is authorized. This creates operational continuity but also generates political pressure as stories of unpaid agents surface, historically accelerating resolution timelines.
+This likely refers to a lapse in DHS appropriations forcing the agency to operate under shutdown protocols, with essential personnel working without pay and non-essential functions suspended. Partial shutdowns affecting only DHS would count, not just government-wide shutdowns.
 
-### Could a partial government shutdown affect this market differently than a full shutdown?
+### How would a long-term continuing resolution or omnibus bill passed in early 2026 affect this market?
 
-If only DHS is shut down (agency-specific appropriations failure) while other departments remain funded, resolution pressure might actually decrease since broader economic disruption is limited—potentially extending the timeline past March 31 and favoring NO.
+If Congress passes full-year DHS funding or a CR extending beyond March 31 before that date, it would make a shutdown extremely unlikely and push odds strongly toward NO, as the funding mechanism would be in place through the resolution period.
 
 ## Learn More
 

@@ -3,7 +3,7 @@ title: "Will Gold (GC) hit (HIGH) $6,600 by end of March?"
 description: "Will Gold (GC) hit (HIGH) $6,600 by end of March? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Gold (GC) hit (HIGH) $6,600 by end of March?"
 category: "finance"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-26
 expiryDate: 2026-03-31
 tags: ["finance", "polymarket"]

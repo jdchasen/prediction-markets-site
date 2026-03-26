@@ -11,7 +11,6 @@ polymarketYes: 0.2
 polymarketNo: 99.8
 polymarketVolume: 9688
 polymarketUrl: "https://polymarket.com/event/will-matteo-berrettini-win-the-2026-mens-french-open"
-analysisDate: 2026-03-26
 ---
 
 This market appears miscategorized as "politics" when it's clearly a sports prediction, and the 0.2% odds suggest traders are pricing in near-zero probability of an Italian tennis player winning the French Open in 2026. The mismatch between category and content raises questions about market legitimacy and whether serious capital is actually deployed here.

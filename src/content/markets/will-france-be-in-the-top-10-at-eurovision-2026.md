@@ -11,7 +11,6 @@ polymarketYes: 75.5
 polymarketNo: 24.5
 polymarketVolume: 9598
 polymarketUrl: "https://polymarket.com/event/will-france-be-in-the-top-10-at-eurovision-2026"
-analysisDate: 2026-03-26
 ---
 
 # Eurovision 2026: France's Top-10 Prospects

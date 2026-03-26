@@ -1,17 +1,16 @@
 ---
 title: "Will NVIDIA reach $208 in March?"
-description: "Will NVIDIA reach $208 in March? Odds: 1.2% YES on Polymarket. See live prices and trade this market."
+description: "Will NVIDIA reach $208 in March? Odds: 1.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will NVIDIA reach $208 in March?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-03-26
 expiryDate: 2026-04-01
 tags: ["politics", "polymarket"]
-polymarketYes: 1.2
-polymarketNo: 98.8
-polymarketVolume: 9826
+polymarketYes: 1.1
+polymarketNo: 98.9
+polymarketVolume: 9831
 polymarketUrl: "https://polymarket.com/event/will-nvda-reach-208-in-march"
-analysisDate: 2026-03-26
 ---
 
 # NVIDIA Stock Price Prediction Market Analysis

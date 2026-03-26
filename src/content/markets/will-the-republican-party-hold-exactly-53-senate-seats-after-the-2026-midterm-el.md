@@ -8,9 +8,8 @@ lastUpdated: 2026-03-26
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 6.5
 polymarketNo: 93.5
-polymarketVolume: 9879
+polymarketVolume: 9904
 polymarketUrl: "https://polymarket.com/event/will-the-republican-party-hold-exactly-53-senate-seats-after-the-2026-midterm-elections"
-analysisDate: 2026-03-26
 ---
 
 # Republican Senate Seat Count 2026: A Highly Precise Prediction

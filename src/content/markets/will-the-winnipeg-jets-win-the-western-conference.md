@@ -3,7 +3,7 @@ title: "Will the Winnipeg Jets win the Western Conference?"
 description: "Will the Winnipeg Jets win the Western Conference? Odds: 0.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Winnipeg Jets win the Western Conference?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-26
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]

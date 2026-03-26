@@ -1,17 +1,16 @@
 ---
 title: "Will Chainlink dip to $2 in March?"
-description: "Will Chainlink dip to $2 in March? Odds: 0.2% YES on Polymarket. See live prices and trade this market."
+description: "Will Chainlink dip to $2 in March? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Chainlink dip to $2 in March?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-03-26
 expiryDate: 2026-04-01
 tags: ["ai", "politics", "polymarket"]
-polymarketYes: 0.2
-polymarketNo: 99.8
-polymarketVolume: 9903
+polymarketYes: 0.1
+polymarketNo: 99.9
+polymarketVolume: 9910
 polymarketUrl: "https://polymarket.com/event/will-chainlink-dip-to-2-in-march"
-analysisDate: 2026-03-26
 ---
 
 # Chainlink Price Prediction Analysis

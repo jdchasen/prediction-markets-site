@@ -11,7 +11,6 @@ polymarketYes: 0.1
 polymarketNo: 99.9
 polymarketVolume: 9702
 polymarketUrl: "https://polymarket.com/event/will-bukayo-saka-be-the-20252026-top-ucl-goal-scorer"
-analysisDate: 2026-03-26
 ---
 
 # Analysis

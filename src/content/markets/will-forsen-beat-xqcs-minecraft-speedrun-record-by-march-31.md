@@ -9,9 +9,8 @@ expiryDate: 2026-03-31
 tags: ["politics", "polymarket"]
 polymarketYes: 4.5
 polymarketNo: 95.5
-polymarketVolume: 98283
+polymarketVolume: 98828
 polymarketUrl: "https://polymarket.com/event/will-forsen-beat-xqcs-minecraft-speedrun-record-by-march-31"
-analysisDate: 2026-03-26
 ---
 
 # Analysis

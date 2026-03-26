@@ -3,7 +3,7 @@ title: "Arizona Diamondbacks vs. Los Angeles Dodgers"
 description: "Arizona Diamondbacks vs. Los Angeles Dodgers Odds: 30.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Arizona Diamondbacks vs. Los Angeles Dodgers"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-26
 expiryDate: 2026-04-03
 tags: ["politics", "polymarket"]

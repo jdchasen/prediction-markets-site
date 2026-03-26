@@ -1,51 +1,52 @@
 ---
 title: "Putin out as President of Russia by June 30?"
-description: "Putin out as President of Russia by June 30? Odds: 4.8% YES on Polymarket. See live prices and trade this market."
+description: "Putin out as President of Russia by June 30? Odds: 4.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Putin out as President of Russia by June 30?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-03-26
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
-polymarketYes: 4.8
-polymarketNo: 95.2
-polymarketVolume: 973678
+polymarketYes: 4.2
+polymarketNo: 95.9
+polymarketVolume: 980724
 polymarketUrl: "https://polymarket.com/event/putin-out-as-president-of-russia-by-june-30"
+analysisDate: 2026-03-26
 ---
 
-Prediction markets are pricing just a 3.5% probability that Vladimir Putin will cease being Russian President by June 30, 2026, reflecting the entrenched nature of his authoritarian control despite ongoing challenges from the Ukraine war and recent domestic security incidents like the March 2024 Crocus City Hall attack.
+Prediction markets are pricing just a 4% chance that Vladimir Putin will no longer serve as Russian President by June 30, 2026, reflecting widespread consensus that his grip on power remains secure despite ongoing challenges from the war in Ukraine and domestic economic pressures. This market matters as a real-time gauge of regime stability in a nuclear-armed state whose leadership transition could reshape global geopolitics.
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 3.5% | 96.5% | $963K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 4.2% | 95.9% | $981K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The bear case for Putin's removal centers on his 25-year grip on power through constitutional changes, suppression of opposition (Navalny's death in February 2024), control of security services, and the March 2024 presidential election that extended his term through 2030. Russia's political system has no meaningful succession mechanism or institutional checks that could force him out. Even military setbacks in Ukraine have not translated into elite defection, and the recent Wagner mutiny in June 2023 was quickly contained without threatening his position. The two-year window to June 2026 provides limited opportunity for unexpected health crises or palace coups in a system designed around one-man rule.
+The bull case for Putin's departure centers on accumulating pressures that could trigger a palace coup or health crisis. Russia's military casualties in Ukraine continue mounting, with some estimates exceeding 700,000 killed and wounded, while Western sanctions have constrained long-term economic growth. Elite dissatisfaction could crystallize if battlefield setbacks accelerate, particularly if Ukraine's counteroffensives in 2025 reclaim significant territory. Putin turns 73 in October 2025, and recurring speculation about health issues—though unconfirmed—creates non-zero probability of incapacitation. A dramatic military collapse or economic crisis forcing capital controls could embolden security service factions to act.
 
-The bull case rests on low-probability but high-impact scenarios: sudden health deterioration (Putin turns 74 in October 2026), an unexpected military collapse in Ukraine that triggers elite panic, or internal security service fractures. The International Criminal Court warrant issued in March 2023 has isolated him diplomatically, potentially weakening his position among pragmatic elites seeking sanctions relief. Russia's 2024 economy faces intensifying pressures from sanctions and war costs, which could reach a breaking point by 2025-2026. Historical precedents like the rapid collapse of seemingly stable authoritarian regimes (Soviet Union in 1991) suggest non-zero tail risks.
+The bear case is straightforward: Putin has systematically eliminated political opposition, controls all security apparatus, and demonstrates no meaningful internal threats to his rule. Russia's 2024 presidential election delivered him another six-year term with reported 87% support through a tightly controlled process. The March 2026 parliamentary elections will similarly reinforce United Russia's dominance. Recent history shows the regime can absorb shocks—the Prigozhin mutiny in June 2023 was suppressed within 24 hours, demonstrating Putin's command over force structures. Russia's oil revenues have stabilized despite sanctions through shadow fleet operations and Asian buyers, providing fiscal cushion.
 
-Traders should monitor Putin's public appearances for health signals, Russian military performance in Ukraine's eastern oblasts through 2025, any signs of FSB or military leadership changes, and economic indicators like inflation and reserve depletion rates. The May 9, 2025 Victory Day parade will be a key visibility test, while the winter 2025-2026 period could prove decisive for both Ukraine military operations and Russian economic stability.
+Key catalysts to monitor include Russia's spring 2025 and 2026 offensive operations, which could either break Ukrainian lines or exhaust Russian reserves. The September 2025 regional elections across Russia may signal elite confidence or fractures. Any sudden disappearance from public view exceeding two weeks would warrant attention, as would unusual central bank interventions or ruble collapses below 150 to the dollar. The actual March 2026 State Duma elections, while predetermined, offer windows for protest that could indicate deeper instability.
 
 ## Related Markets
 
-- [Will Claude 5 be released by March 31, 2026?](/odds/will-claude-5-be-released-by-march-31-2026) — 3% YES
-- [Will Israel win Eurovision 2026?](/odds/will-israel-win-eurovision-2026) — 4% YES
-- [Iran x Israel/US conflict ends by May 15?](/odds/iran-x-israelus-conflict-ends-by-may-15) — 60% YES
+- [Will China invade Taiwan by March 31, 2026?](/odds/will-china-invade-taiwan-by-march-31-2026) — 0% YES
+- [Fact Check: Maduro capture staged?](/odds/fact-check-maduro-capture-staged) — 0% YES
+- [Will Clémentine Autain win the 2027 French presidential election?](/odds/will-clmentine-autain-win-the-2027-french-presidential-election) — 0% YES
 
 ## Frequently Asked Questions
 
-### Does Putin dying of natural causes count as him being "out" as President for this market?
+### Does this market resolve YES if Putin transitions to another position like Prime Minister or State Council head while maintaining effective control?
 
-Yes, any scenario where Putin is no longer serving as President by the deadline would resolve YES, including death, resignation, removal by coup, or constitutional changes forcing him out.
+No—the market specifically requires Putin to no longer hold the office of President of Russia. A formal title change while retaining de facto power would resolve NO.
 
-### What would happen if Russia formally changes Putin's title but he retains actual power, like he did during his Prime Minister period from 2008-2012?
+### What happens if Putin dies or becomes incapacitated but the Kremlin conceals this and continues governing in his name?
 
-The market specifically asks about the "President" title, so if Putin moves to a different formal position (even while retaining de facto control), it would likely resolve YES depending on the exact market resolution criteria.
+The market would resolve based on official Russian government announcements and internationally recognized facts about who holds the presidency. Unconfirmed rumors or conspiracy theories wouldn't trigger resolution.
 
-### How would a prolonged medical incapacitation where Putin remains technically President but unconscious affect this market?
+### How would a military coup that removes Putin but takes months to consolidate power affect this market?
 
-This gray area depends on official announcements—if Russia formally maintains he is President despite incapacitation with no acting President declared, the market would likely resolve NO, though resolution criteria should be checked carefully.
+The market resolves YES if Putin is no longer serving as President by the June 30, 2026 deadline, regardless of how stable or internationally recognized the successor government is at that moment.
 

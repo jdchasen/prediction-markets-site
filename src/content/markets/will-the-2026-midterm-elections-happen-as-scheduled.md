@@ -9,9 +9,8 @@ expiryDate: 2026-12-31
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 90.0
 polymarketNo: 10.0
-polymarketVolume: 98517
+polymarketVolume: 98823
 polymarketUrl: "https://polymarket.com/event/will-the-2026-midterm-elections-happen-as-scheduled"
-analysisDate: 2026-03-26
 ---
 
 The Polymarket odds strongly favor the 2026 midterms occurring on schedule, reflecting deep confidence in American democratic continuity despite ongoing political tensions. This matters because any disruption to the electoral calendar would represent an unprecedented constitutional crisis in modern U.S. history.

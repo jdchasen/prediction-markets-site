@@ -1,17 +1,16 @@
 ---
 title: "Will Paramount close Warner Bros. acquisition by end of 2026?"
-description: "Will Paramount close Warner Bros. acquisition by end of 2026? Odds: 71.2% YES on Polymarket. See live prices and trade this market."
+description: "Will Paramount close Warner Bros. acquisition by end of 2026? Odds: 69.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Paramount close Warner Bros. acquisition by end of 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-03-26
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 71.2
-polymarketNo: 28.7
-polymarketVolume: 97484
+polymarketYes: 69.2
+polymarketNo: 30.9
+polymarketVolume: 98559
 polymarketUrl: "https://polymarket.com/event/will-paramount-close-warner-bros-acquisition-by-end-of-2026"
-analysisDate: 2026-03-26
 ---
 
 The market pricing a 71% chance of Paramount closing an acquisition of Warner Bros. Discovery by end of 2026 reflects growing trader conviction that media consolidation will accelerate despite regulatory headwinds, with significant implications for the streaming wars and traditional Hollywood studio power structures.

@@ -3,7 +3,7 @@ title: "Will Crude Oil (CL) settle at $85-$90 in March?"
 description: "Will Crude Oil (CL) settle at $85-$90 in March? Odds: 15.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Crude Oil (CL) settle at $85-$90 in March?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-26
 expiryDate: 2026-03-31
 tags: ["politics", "polymarket"]

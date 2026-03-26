@@ -1,17 +1,16 @@
 ---
 title: "Will Oscar Piastri be the 2026 F1 Drivers' Champion?"
-description: "Will Oscar Piastri be the 2026 F1 Drivers' Champion? Odds: 1.1% YES on Polymarket. See live prices and trade this market."
+description: "Will Oscar Piastri be the 2026 F1 Drivers' Champion? Odds: 1.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Oscar Piastri be the 2026 F1 Drivers' Champion?"
 category: "sports"
 status: "active"
 lastUpdated: 2026-03-26
 expiryDate: 2026-12-06
 tags: ["entertainment", "polymarket", "sports"]
-polymarketYes: 1.1
-polymarketNo: 99.0
-polymarketVolume: 982494
+polymarketYes: 1.2
+polymarketNo: 98.8
+polymarketVolume: 993219
 polymarketUrl: "https://polymarket.com/event/will-oscar-piastri-be-the-2026-f1-drivers-champion"
-analysisDate: 2026-03-26
 ---
 
 The betting market shows extreme skepticism about Oscar Piastri's championship chances in 2026, pricing him at just over 1% probability despite his undeniable talent—a reflection of both McLaren's recent competitive struggles and the dominance expected from Max Verstappen and Red Bull through the current regulation cycle.

@@ -9,9 +9,8 @@ expiryDate: 2026-06-30
 tags: ["polymarket", "sports"]
 polymarketYes: 0.1
 polymarketNo: 99.9
-polymarketVolume: 9596
+polymarketVolume: 9738
 polymarketUrl: "https://polymarket.com/event/nhl-2025-26-calder-memorial-trophy-seamus-casey"
-analysisDate: 2026-03-26
 ---
 
 # Seamus Casey 2025-2026 Calder Trophy Analysis

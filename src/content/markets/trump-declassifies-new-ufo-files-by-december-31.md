@@ -1,17 +1,16 @@
 ---
 title: "Trump declassifies new UFO files by December 31?"
-description: "Trump declassifies new UFO files by December 31? Odds: 66.5% YES on Polymarket. See live prices and trade this market."
+description: "Trump declassifies new UFO files by December 31? Odds: 65.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Trump declassifies new UFO files by December 31?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-03-26
 expiryDate: 2026-03-31
 tags: ["politics", "polymarket", "trump"]
-polymarketYes: 66.5
-polymarketNo: 33.5
-polymarketVolume: 9787
+polymarketYes: 65.5
+polymarketNo: 34.5
+polymarketVolume: 9966
 polymarketUrl: "https://polymarket.com/event/trump-declassifies-new-ufo-files-by-december-31"
-analysisDate: 2026-03-26
 ---
 
 # Trump UFO Declassification Market Analysis

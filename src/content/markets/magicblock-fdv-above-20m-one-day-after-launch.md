@@ -3,7 +3,7 @@ title: "MagicBlock FDV above $20M one day after launch?"
 description: "MagicBlock FDV above $20M one day after launch? Odds: 35.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "MagicBlock FDV above $20M one day after launch?"
 category: "crypto"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-26
 expiryDate: 2027-01-01
 tags: ["crypto", "polymarket"]

@@ -9,9 +9,8 @@ expiryDate: 2027-04-30
 tags: ["ai", "elections", "politics", "polymarket"]
 polymarketYes: 0.2
 polymarketNo: 99.8
-polymarketVolume: 990387
+polymarketVolume: 992567
 polymarketUrl: "https://polymarket.com/event/will-clmentine-autain-win-the-2027-french-presidential-election"
-analysisDate: 2026-03-26
 ---
 
 The market pricing Clémentine Autain's 2027 presidential chances at 0.2% reflects her position as a far-left deputy from La France Insoumise (LFI) with virtually no pathway to the Élysée Palace under current political conditions. While she represents the radical left's ideological wing in the National Assembly, French presidential elections historically punish candidates from the extreme flanks, and her polling numbers have never approached the 5-10% threshold that would signal viability even for a first-round showing.

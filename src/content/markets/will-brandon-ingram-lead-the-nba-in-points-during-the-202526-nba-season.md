@@ -11,7 +11,6 @@ polymarketYes: 0.1
 polymarketNo: 100.0
 polymarketVolume: 99760
 polymarketUrl: "https://polymarket.com/event/nba-2025-26-ppg-leader-brandon-ingram"
-analysisDate: 2026-03-26
 ---
 
 Brandon Ingram's chances of leading the NBA in scoring next season are virtually non-existent according to current market pricing, reflecting both his individual limitations and the league's elite scoring hierarchy that shows little sign of shifting dramatically.

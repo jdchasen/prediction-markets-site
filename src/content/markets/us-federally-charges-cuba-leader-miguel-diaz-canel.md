@@ -1,17 +1,16 @@
 ---
 title: "US federally charges Cuba leader Miguel Diaz-Canel?"
-description: "US federally charges Cuba leader Miguel Diaz-Canel? Odds: 33.5% YES on Polymarket. See live prices and trade this market."
+description: "US federally charges Cuba leader Miguel Diaz-Canel? Odds: 32.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "US federally charges Cuba leader Miguel Diaz-Canel?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-03-26
 expiryDate: 2026-06-30
 tags: ["federal-reserve", "politics", "polymarket"]
-polymarketYes: 33.5
-polymarketNo: 66.5
-polymarketVolume: 9672
+polymarketYes: 32.5
+polymarketNo: 67.5
+polymarketVolume: 9680
 polymarketUrl: "https://polymarket.com/event/us-federally-charges-cuba-leader-miguel-diaz-canel"
-analysisDate: 2026-03-26
 ---
 
 # Cuba Sanctions Market Analysis

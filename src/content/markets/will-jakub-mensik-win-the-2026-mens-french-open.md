@@ -11,7 +11,6 @@ polymarketYes: 0.7
 polymarketNo: 99.4
 polymarketVolume: 9814
 polymarketUrl: "https://polymarket.com/event/will-jakub-mensik-win-the-2026-mens-french-open"
-analysisDate: 2026-03-26
 ---
 
 # Analysis

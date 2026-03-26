@@ -9,9 +9,8 @@ expiryDate: 2026-05-16
 tags: ["politics", "polymarket"]
 polymarketYes: 0.5
 polymarketNo: 99.5
-polymarketVolume: 964499
+polymarketVolume: 972699
 polymarketUrl: "https://polymarket.com/event/will-lithuania-win-eurovision-2026"
-analysisDate: 2026-03-26
 ---
 
 The Lithuanian Eurovision entry currently trades at extremely long odds, reflecting both the country's historical performance in the competition and the inherent difficulty of predicting the winner more than a year in advance.
