@@ -1,17 +1,16 @@
 ---
 title: "Will Bayern Munich finish in the top 4 of the Bundesliga 2025–26 standings?"
-description: "Will Bayern Munich finish in the top 4 of the Bundesliga 2025–26 standings? Odds: 99.3% YES on Polymarket. See live prices and trade this market."
+description: "Will Bayern Munich finish in the top 4 of the Bundesliga 2025–26 standings? Odds: 99.6% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Bayern Munich finish in the top 4 of the Bundesliga 2025–26 standings?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-03-25
+lastUpdated: 2026-03-26
 expiryDate: 2026-05-28
 tags: ["politics", "polymarket"]
-polymarketYes: 99.3
-polymarketNo: 0.7
-polymarketVolume: 98544
+polymarketYes: 99.6
+polymarketNo: 0.4
+polymarketVolume: 98755
 polymarketUrl: "https://polymarket.com/event/will-bayern-munich-finish-in-the-top-4-of-the-bundesliga-202526-standings"
-analysisDate: 2026-03-25
 ---
 
 This market is essentially pricing in Bayern Munich's complete dominance of German football, with near-certainty odds reflecting the club's historical stranglehold on Bundesliga standings despite recent wobbles in the current 2024-25 season.

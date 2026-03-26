@@ -3,8 +3,8 @@ title: "Bucaramanga: Peter Bertran vs Matias Soto"
 description: "Bucaramanga: Peter Bertran vs Matias Soto Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Bucaramanga: Peter Bertran vs Matias Soto"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-25
+status: "settled"
+lastUpdated: 2026-03-26
 expiryDate: 2026-04-01
 tags: ["politics", "polymarket"]
 polymarketYes: 0.1

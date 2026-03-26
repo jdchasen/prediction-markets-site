@@ -3,15 +3,14 @@ title: "Will the Toronto Raptors win the 2026 NBA Finals?"
 description: "Will the Toronto Raptors win the 2026 NBA Finals? Odds: 0.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Toronto Raptors win the 2026 NBA Finals?"
 category: "sports"
-status: "settled"
-lastUpdated: 2026-03-25
+status: "active"
+lastUpdated: 2026-03-26
 expiryDate: 2026-07-01
 tags: ["polymarket", "sports"]
 polymarketYes: 0.7
 polymarketNo: 99.4
-polymarketVolume: 9547760
+polymarketVolume: 9833058
 polymarketUrl: "https://polymarket.com/event/will-the-toronto-raptors-win-the-2026-nba-finals"
-analysisDate: 2026-03-24
 ---
 
 The Toronto Raptors are essentially written off as 2026 NBA Finals contenders with sub-1% odds, reflecting their current rebuild phase and lack of a clear championship core two years out from the target date.

@@ -3,8 +3,8 @@ title: "Will Zcash reach $600 by December 31, 2026?"
 description: "Will Zcash reach $600 by December 31, 2026? Odds: 19.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Zcash reach $600 by December 31, 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-25
+status: "settled"
+lastUpdated: 2026-03-26
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]
 polymarketYes: 19.0

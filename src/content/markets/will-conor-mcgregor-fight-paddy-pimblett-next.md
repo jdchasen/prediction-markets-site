@@ -1,59 +1,59 @@
 ---
 title: "Will Conor McGregor fight Paddy Pimblett next?"
-description: "Will Conor McGregor fight Paddy Pimblett next? Odds: 15.3% YES on Polymarket. See live prices and trade this market."
+description: "Will Conor McGregor fight Paddy Pimblett next? Odds: 10.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Conor McGregor fight Paddy Pimblett next?"
 category: "politics"
-status: "settled"
-lastUpdated: 2026-03-24
+status: "active"
+lastUpdated: 2026-03-26
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]
-polymarketYes: 15.3
-polymarketNo: 84.7
-polymarketVolume: 9813
+polymarketYes: 10.2
+polymarketNo: 89.8
+polymarketVolume: 9886
 polymarketUrl: "https://polymarket.com/event/will-conor-mcgregor-fight-paddy-pimblett-next"
-analysisDate: 2026-03-24
+analysisDate: 2026-03-26
 ---
 
-# McGregor vs. Pimblett Prediction Market Analysis
+# McGregor vs Pimblett Market Analysis
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 15.3% | 84.7% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 10.2% | 89.8% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-This market sits at 15.3% YES odds with a three-year window, reflecting significant skepticism that these two UFC fighters will ever face each other despite both competing in the same promotion. The low probability makes sense given the massive skill and experience gap—McGregor is a former two-division champion and mainstream celebrity, while Pimblett is a rising lightweight prospect—making a competitive matchup unlikely under normal circumstances. What matters now is whether either fighter's career trajectory, injury status, or promotional decisions could realistically create conditions for this bout.
+This market sits at roughly 10% probability despite significant categorization confusion—it's listed under "politics" when it concerns two UFC fighters, suggesting either a data error or unusual market placement that may suppress liquidity and accurate pricing. The exceptionally low odds reflect the rarity of such a matchup occurring within three years, given the substantial gap in their career trajectories and fighting weight classes.
 
-The bull case rests on McGregor's unpredictable comeback narrative and UFC's willingness to manufacture marquee fights. McGregor has signaled interest in returning to competition following multiple injuries; if he drops significantly in the rankings or faces a long injury recovery, fighting an exciting prospect like Pimblett could serve as a comeback opponent. Additionally, if Pimblett's hype continues building and he reaches top-5 status, UFC might greenlight a super-fight featuring McGregor against an emerging British star with strong European marketing appeal. The three-year window provides sufficient time for unexpected circumstances—injuries to other fighters, McGregor's frustration with his ranking, or Pimblett's rapid ascension—to make this viable.
+The bull case hinges on McGregor's demonstrated willingness to take unconventional fights for promotional value and his history of calling out fighters across divisions. McGregor has shifted toward lower-profile opponents as his career has progressed post-injury, and Pimblett's marketability in the UK could appeal to McGregor's brand-building instincts. If McGregor faces extended injury recovery or seeks a comeback fight against a rising star, this pairing becomes plausible. Additionally, UFC matchmaking often prioritizes narratives over rankings—a potential trash-talk buildup between them could materialize if both remain active through 2026.
 
-The bear case is more compelling: this matchup serves no strategic purpose for either fighter. McGregor will likely pursue higher-ranked opponents or mega-fights to justify his comeback; fighting Pimblett would be a step backward that risks his legacy. Pimblett needs to prove himself against proven competition, not past-their-prime superstars. UFC has no financial incentive to pair them when McGregor fights generate revenue through nostalgia and mainstream appeal, while Pimblett's value depends on organic skill development against ranked competition. Unless both fighters hit career dead-ends simultaneously, market forces push strongly against this outcome.
+The bear case is substantially stronger: McGregor typically targets fighters at or above his historical status when competing, while Pimblett remains a developing lightweight prospect without championship credentials. Their 155-pound weight class alignment is the only structural advantage, but McGregor has shown little interest in actually competing at lightweight in recent years. The UFC's incentive structure favors either McGregor fighting established draws or Pimblett fighting legitimate contenders, making their intersection unlikely. McGregor's injury history and reduced fighting frequency make any specific matchup prediction uncertain.
 
-Key catalysts include McGregor's return timeline (expected late 2025 or 2026), Pimblett's next 2-3 ranked fights (approximately every 4-5 months through 2025-2026), and any major injuries to either fighter's intended opponents. Watch for UFC announcements about McGregor's comeback fight in Q3-Q4 2025; if that opponent falls through or McGregor demands a lower-ranked opponent, probability shifts upward. Conversely, if Pimblett reaches the top 5 legitimately, the odds should drift even lower as both fighters' value increases.
+Key catalysts include McGregor's return timeline from his recent leg injury (likely mid-2024 or later), Pimblett's championship progression, and UFC contractual developments through 2026. Traders should monitor McGregor's official comeback announcements and whether either fighter sustains injuries or experiences career derailment. The market's "politics" miscategorization suggests potential mispricing due to reduced discovery—this could represent either value or a sign the market lacks sufficient UFC-focused traders.
 
 ## Related Markets
 
-- [Will the Iranian regime fall by April 30?](/odds/will-the-iranian-regime-fall-by-april-30) — 8% YES
-- [Will Claude 5 be released by March 31, 2026?](/odds/will-claude-5-be-released-by-march-31-2026) — 4% YES
-- [Will Albania win Eurovision 2026?](/odds/will-albania-win-eurovision-2026) — 0% YES
+- [Will Bulgaria win Eurovision 2026?](/odds/will-bulgaria-win-eurovision-2026) — 1% YES
+- [Will Clémentine Autain win the 2027 French presidential election?](/odds/will-clmentine-autain-win-the-2027-french-presidential-election) — 0% YES
+- [Will the Boston Red Sox win the 2026 World Series?](/odds/will-the-boston-red-sox-win-the-2026-world-series) — 5% YES
 
 ## Frequently Asked Questions
 
-### What would realistically need to happen for McGregor and Pimblett to fight?
+### Why is this market categorized as "politics" when it concerns UFC fighters?
 
-Either McGregor must struggle to secure top-ranked opponents and accept a lower-ranked replacement, or both fighters must simultaneously become less marketable/ranked—essentially both hitting career walls at the same time.
+This appears to be a platform categorization error or data entry mistake, which could explain the low trading volume and potentially inaccurate odds relative to similar MMA prediction markets.
 
-### Does Pimblett's growing popularity make this more likely?
+### Does McGregor's weight class history make this matchup more or less likely?
 
-No, it makes it less likely; the more successful Pimblett becomes, the more he'll pursue ranked competition instead of fighting a potentially declining McGregor, and McGregor has no reason to fight a rising prospect.
+Less likely—while both fight at 155 pounds, McGregor has largely avoided lightweight competition in recent years despite earlier career success there, preferring welterweight or catchweight arrangements.
 
-### Why is this market categorized as "politics" when it's about sports?
+### What would most significantly increase this probability before 2027?
 
-This appears to be a miscategorization on the platform; this is a sports betting market, not a political prediction, and should be disregarded as an error in market taxonomy.
+A public callout or UFC promotion actively building narrative conflict between them, combined with both fighters remaining active and injury-free through 2026, would be the primary driver of odds movement upward.
 
 ## Learn More
 
+- [Will Oil Hit $100? March Crude Prediction Market Odds](/blog/will-oil-hit-100-march-crude-prediction-market-odds)
 - [Will ETH Hit $4,500 in 2026? Live Market Odds](/blog/will-ethereum-reach-4500-in-2026-what-prediction-markets-say)
-- [Will Discord IPO in 2026? What Prediction Markets Say](/blog/will-discord-ipo-in-2026-what-prediction-markets-say)
 

@@ -3,8 +3,8 @@ title: "Will Francisco Cerundolo win the 2026 Men's French Open?"
 description: "Will Francisco Cerundolo win the 2026 Men's French Open? Odds: 0.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Francisco Cerundolo win the 2026 Men's French Open?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-25
+status: "settled"
+lastUpdated: 2026-03-26
 expiryDate: 2026-06-07
 tags: ["politics", "polymarket"]
 polymarketYes: 0.7

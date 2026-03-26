@@ -4,14 +4,13 @@ description: "Will Portugal win Group K in the 2026 FIFA World Cup? Odds: 66.0% 
 marketQuestion: "Will Portugal win Group K in the 2026 FIFA World Cup?"
 category: "sports"
 status: "active"
-lastUpdated: 2026-03-25
+lastUpdated: 2026-03-26
 expiryDate: 2026-06-27
 tags: ["polymarket", "sports"]
 polymarketYes: 66.0
 polymarketNo: 34.0
-polymarketVolume: 9894
+polymarketVolume: 9896
 polymarketUrl: "https://polymarket.com/event/will-portugal-win-group-k-in-the-2026-fifa-world-cup"
-analysisDate: 2026-03-25
 ---
 
 Portugal enters Group K as the heavy favorite at two-thirds probability, reflecting their status as a traditional European power facing what appears to be a manageable qualifying group draw. With the expanded 48-team format for 2026, Group K composition and Portugal's ability to navigate it will determine whether these odds hold or shift dramatically over the next two years.

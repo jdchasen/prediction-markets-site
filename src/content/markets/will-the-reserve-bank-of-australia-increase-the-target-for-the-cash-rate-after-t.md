@@ -3,8 +3,8 @@ title: "Will the Reserve Bank of Australia increase the target for the cash rate
 description: "Will the Reserve Bank of Australia increase the target for the cash rate after the May Meeting? Odds: 41.5% YES on Polymarket. See live prices and trade this..."
 marketQuestion: "Will the Reserve Bank of Australia increase the target for the cash rate after the May Meeting?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-25
+status: "settled"
+lastUpdated: 2026-03-26
 expiryDate: 2026-05-05
 tags: ["politics", "polymarket"]
 polymarketYes: 41.5

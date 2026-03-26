@@ -3,8 +3,8 @@ title: "Will Russia capture Pokrovka by March 31?"
 description: "Will Russia capture Pokrovka by March 31? Odds: 16.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Russia capture Pokrovka by March 31?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-25
+status: "settled"
+lastUpdated: 2026-03-26
 expiryDate: 2026-03-31
 tags: ["politics", "polymarket"]
 polymarketYes: 16.0
