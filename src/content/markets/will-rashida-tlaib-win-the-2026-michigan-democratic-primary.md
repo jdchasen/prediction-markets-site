@@ -3,7 +3,7 @@ title: "Will Rashida Tlaib win the 2026 Michigan Democratic Primary?"
 description: "Will Rashida Tlaib win the 2026 Michigan Democratic Primary? Odds: 0.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Rashida Tlaib win the 2026 Michigan Democratic Primary?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-27
 expiryDate: 2026-08-04
 tags: ["ai", "politics", "polymarket"]

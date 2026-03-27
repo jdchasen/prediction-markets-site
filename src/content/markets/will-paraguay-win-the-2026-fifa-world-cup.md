@@ -9,9 +9,8 @@ expiryDate: 2026-07-20
 tags: ["polymarket", "sports"]
 polymarketYes: 0.4
 polymarketNo: 99.6
-polymarketVolume: 9869634
+polymarketVolume: 9911374
 polymarketUrl: "https://polymarket.com/event/will-paraguay-win-the-2026-fifa-world-cup-967"
-analysisDate: 2026-03-27
 ---
 
 Paraguay's virtually non-existent 0.4% odds to win the 2026 World Cup reflect their historically mediocre standing in South American football, though the market carries significance as an extreme longshot play with potential 250x returns for contrarians betting on a miracle run.

@@ -3,7 +3,7 @@ title: "Will Iran take military action against a Gulf State on March 24, 2026?"
 description: "Will Iran take military action against a Gulf State on March 24, 2026? Odds: 81.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Iran take military action against a Gulf State on March 24, 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-27
 expiryDate: 2026-03-31
 tags: ["ai", "politics", "polymarket"]

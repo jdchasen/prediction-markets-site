@@ -3,7 +3,7 @@ title: "Will the New Jersey Devils win the Eastern Conference?"
 description: "Will the New Jersey Devils win the Eastern Conference? Odds: 1.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the New Jersey Devils win the Eastern Conference?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-27
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]

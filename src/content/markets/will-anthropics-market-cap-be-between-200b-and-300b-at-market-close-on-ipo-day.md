@@ -11,7 +11,6 @@ polymarketYes: 0.6
 polymarketNo: 99.4
 polymarketVolume: 99228
 polymarketUrl: "https://polymarket.com/event/will-anthropics-market-cap-be-between-200b-and-300b-at-market-close-on-ipo-day"
-analysisDate: 2026-03-27
 ---
 
 # Anthropic IPO Valuation Market Analysis

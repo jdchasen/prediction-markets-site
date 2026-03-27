@@ -3,7 +3,7 @@ title: "threadguy mindshare all time high by March 31?"
 description: "threadguy mindshare all time high by March 31? Odds: 4.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "threadguy mindshare all time high by March 31?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-27
 expiryDate: 2026-04-01
 tags: ["politics", "polymarket"]

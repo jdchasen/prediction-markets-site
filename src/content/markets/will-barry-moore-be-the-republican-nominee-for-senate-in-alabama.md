@@ -3,7 +3,7 @@ title: "Will Barry Moore be the Republican nominee for Senate in Alabama?"
 description: "Will Barry Moore be the Republican nominee for Senate in Alabama? Odds: 84.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Barry Moore be the Republican nominee for Senate in Alabama?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-27
 expiryDate: 2026-05-19
 tags: ["politics", "polymarket"]

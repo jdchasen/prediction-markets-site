@@ -3,7 +3,7 @@ title: "Will SpaceX be the largest company in the world by market cap on Decembe
 description: "Will SpaceX be the largest company in the world by market cap on December 31? Odds: 0.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will SpaceX be the largest company in the world by market cap on December 31?"
 category: "finance"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-27
 expiryDate: 2026-12-31
 tags: ["finance", "polymarket"]

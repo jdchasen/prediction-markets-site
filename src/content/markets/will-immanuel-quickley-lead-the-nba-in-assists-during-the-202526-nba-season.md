@@ -9,9 +9,8 @@ expiryDate: 2026-04-12
 tags: ["polymarket", "sports"]
 polymarketYes: 0.4
 polymarketNo: 99.6
-polymarketVolume: 98477
+polymarketVolume: 98631
 polymarketUrl: "https://polymarket.com/event/nba-2025-26-apg-leader-immanuel-quickley"
-analysisDate: 2026-03-27
 ---
 
 # Immanuel Quickley Assists Leader Market Analysis

@@ -11,7 +11,6 @@ polymarketYes: 14.5
 polymarketNo: 85.5
 polymarketVolume: 9978
 polymarketUrl: "https://polymarket.com/event/will-lithuania-be-in-the-top-10-at-eurovision-2026"
-analysisDate: 2026-03-27
 ---
 
 # Eurovision 2026: Lithuania's Top 10 Odds

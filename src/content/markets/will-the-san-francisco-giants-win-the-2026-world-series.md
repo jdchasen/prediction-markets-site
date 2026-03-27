@@ -9,9 +9,8 @@ expiryDate: 2026-10-31
 tags: ["politics", "polymarket"]
 polymarketYes: 0.9
 polymarketNo: 99.1
-polymarketVolume: 96452
+polymarketVolume: 96556
 polymarketUrl: "https://polymarket.com/event/will-the-san-francisco-giants-win-the-2026-world-series"
-analysisDate: 2026-03-27
 ---
 
 # San Francisco Giants 2026 World Series Prediction Market Analysis

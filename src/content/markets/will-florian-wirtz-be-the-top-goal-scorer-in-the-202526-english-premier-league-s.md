@@ -11,7 +11,6 @@ polymarketYes: 0.4
 polymarketNo: 99.6
 polymarketVolume: 9780
 polymarketUrl: "https://polymarket.com/event/will-florian-wirtz-be-the-top-goal-scorer-in-the-202526-english-premier-league-season"
-analysisDate: 2026-03-27
 ---
 
 # Florian Wirtz Premier League Top Scorer Analysis

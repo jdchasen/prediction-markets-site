@@ -11,7 +11,6 @@ polymarketYes: 2.9
 polymarketNo: 97.2
 polymarketVolume: 96311
 polymarketUrl: "https://polymarket.com/event/bill-clinton-divorce-by-june-30"
-analysisDate: 2026-03-27
 ---
 
 # Clinton Divorce Market Analysis

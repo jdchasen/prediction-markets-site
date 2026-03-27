@@ -11,7 +11,6 @@ polymarketYes: 15.5
 polymarketNo: 84.5
 polymarketVolume: 9646
 polymarketUrl: "https://polymarket.com/event/solana-all-time-high-by-december-31-2026"
-analysisDate: 2026-03-27
 ---
 
 # Solana All-Time High by December 31, 2026 Analysis

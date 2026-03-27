@@ -1,17 +1,16 @@
 ---
 title: "Another US bank failure by March 31?"
-description: "Another US bank failure by March 31? Odds: 2.9% YES on Polymarket. See live prices and trade this market."
+description: "Another US bank failure by March 31? Odds: 3.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Another US bank failure by March 31?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-03-27
 expiryDate: 2026-03-31
 tags: ["ai", "politics", "polymarket"]
-polymarketYes: 2.9
-polymarketNo: 97.2
-polymarketVolume: 98965
+polymarketYes: 3.0
+polymarketNo: 97.0
+polymarketVolume: 99480
 polymarketUrl: "https://polymarket.com/event/another-us-bank-failure-by-march-31"
-analysisDate: 2026-03-27
 ---
 
 The market pricing bank failure risk at under 3% through March 2026 reflects current financial system stability, though it matters as a barometer for whether the regional banking stress of March 2023 could resurface amid ongoing commercial real estate pressures and interest rate uncertainties.

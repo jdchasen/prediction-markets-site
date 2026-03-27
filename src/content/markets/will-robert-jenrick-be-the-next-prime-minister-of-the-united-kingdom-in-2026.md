@@ -11,7 +11,6 @@ polymarketYes: 0.1
 polymarketNo: 99.9
 polymarketVolume: 99700
 polymarketUrl: "https://polymarket.com/event/will-robert-jenrick-be-the-next-prime-minister-of-the-united-kingdom-in-2026-325"
-analysisDate: 2026-03-27
 ---
 
 Robert Jenrick's path to 10 Downing Street by 2026 is rated nearly impossible by markets at 0.1%, reflecting both his current position outside Parliament's leadership and the significant obstacles between him and the premiership in a compressed timeframe.

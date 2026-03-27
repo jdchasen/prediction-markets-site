@@ -1,17 +1,16 @@
 ---
 title: "Will DeepSeek have the top AI model at the end of March 2026?"
-description: "Will DeepSeek have the top AI model at the end of March 2026? Odds: 0.4% YES on Polymarket. See live prices and trade this market."
+description: "Will DeepSeek have the top AI model at the end of March 2026? Odds: 0.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will DeepSeek have the top AI model at the end of March 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-03-27
 expiryDate: 2026-03-31
 tags: ["ai", "politics", "polymarket"]
-polymarketYes: 0.4
-polymarketNo: 99.6
-polymarketVolume: 97321
+polymarketYes: 0.5
+polymarketNo: 99.5
+polymarketVolume: 98606
 polymarketUrl: "https://polymarket.com/event/will-deepseek-have-the-top-ai-model-at-the-end-of-march-2026"
-analysisDate: 2026-03-27
 ---
 
 Traders are pricing DeepSeek's chances of holding the top AI model position in March 2026 at near-zero, reflecting skepticism that the Chinese AI lab can maintain competitive advantage against major U.S. players like OpenAI, Anthropic, and Google over a 14-month horizon. This market matters as a proxy for the broader U.S.-China AI race and whether resource-constrained challengers can compete with frontier labs spending billions on compute and talent.

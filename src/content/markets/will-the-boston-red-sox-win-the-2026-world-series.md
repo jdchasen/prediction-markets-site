@@ -1,17 +1,16 @@
 ---
 title: "Will the Boston Red Sox win the 2026 World Series?"
-description: "Will the Boston Red Sox win the 2026 World Series? Odds: 5.1% YES on Polymarket. See live prices and trade this market."
+description: "Will the Boston Red Sox win the 2026 World Series? Odds: 5.3% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Boston Red Sox win the 2026 World Series?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-03-27
 expiryDate: 2026-10-31
 tags: ["politics", "polymarket"]
-polymarketYes: 5.1
-polymarketNo: 94.9
-polymarketVolume: 993463
+polymarketYes: 5.3
+polymarketNo: 94.7
+polymarketVolume: 998928
 polymarketUrl: "https://polymarket.com/event/will-the-boston-red-sox-win-the-2026-world-series"
-analysisDate: 2026-03-27
 ---
 
 The Boston Red Sox face long odds at around 5% to capture the 2026 World Series, reflecting their current position as a middle-tier franchise in rebuild mode amid fierce American League competition. This market matters because it aggregates early assessments of team trajectory nearly two years before the event, capturing offseason moves, player development, and competitive balance shifts that will unfold through 2025 and into 2026.

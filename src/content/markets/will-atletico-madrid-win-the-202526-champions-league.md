@@ -9,9 +9,8 @@ expiryDate: 2026-05-31
 tags: ["polymarket", "sports"]
 polymarketYes: 3.2
 polymarketNo: 96.8
-polymarketVolume: 9666406
+polymarketVolume: 9902187
 polymarketUrl: "https://polymarket.com/event/will-atletico-madrid-win-the-202526-champions-league"
-analysisDate: 2026-03-27
 ---
 
 Atletico Madrid faces extremely long odds at just over 3% to capture the 2025-26 Champions League title, reflecting their status as perennial contenders who consistently fall short of European glory despite domestic competitiveness in La Liga.

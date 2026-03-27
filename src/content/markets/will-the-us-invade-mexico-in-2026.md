@@ -11,7 +11,6 @@ polymarketYes: 7.5
 polymarketNo: 92.5
 polymarketVolume: 97048
 polymarketUrl: "https://polymarket.com/event/will-the-us-invade-mexico-in-2026"
-analysisDate: 2026-03-27
 ---
 
 # U.S. Mexico Invasion Market Analysis

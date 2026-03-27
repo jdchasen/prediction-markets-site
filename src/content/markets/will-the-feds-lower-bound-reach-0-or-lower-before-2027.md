@@ -1,17 +1,16 @@
 ---
 title: "Will the Fed’s lower bound reach 0% or lower before 2027?"
-description: "Will the Fed’s lower bound reach 0% or lower before 2027? Odds: 6.0% YES on Polymarket. See live prices and trade this market."
+description: "Will the Fed’s lower bound reach 0% or lower before 2027? Odds: 5.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Fed’s lower bound reach 0% or lower before 2027?"
 category: "politics"
-status: "settled"
-lastUpdated: 2026-03-26
+status: "active"
+lastUpdated: 2026-03-27
 expiryDate: 2026-12-31
 tags: ["federal-reserve", "politics", "polymarket"]
-polymarketYes: 6.0
-polymarketNo: 94.0
-polymarketVolume: 9681
+polymarketYes: 5.0
+polymarketNo: 95.0
+polymarketVolume: 9721
 polymarketUrl: "https://polymarket.com/event/will-the-feds-lower-bound-reach-0-or-lower-before-2027-196-363-557-457-329-251-881"
-analysisDate: 2026-03-26
 ---
 
 # Federal Funds Rate at Zero or Below Before 2027

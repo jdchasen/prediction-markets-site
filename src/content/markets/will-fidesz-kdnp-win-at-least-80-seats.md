@@ -9,9 +9,8 @@ expiryDate: 2026-04-12
 tags: ["politics", "polymarket"]
 polymarketYes: 56.5
 polymarketNo: 43.5
-polymarketVolume: 96842
+polymarketVolume: 97163
 polymarketUrl: "https://polymarket.com/event/will-fidesz-kdnp-win-at-least-80-seats"
-analysisDate: 2026-03-27
 ---
 
 # Fidesz-KDNP 2026 Hungarian Election Analysis

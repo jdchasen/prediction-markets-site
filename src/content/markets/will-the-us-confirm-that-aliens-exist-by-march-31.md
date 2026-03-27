@@ -3,7 +3,7 @@ title: "Will the US confirm that aliens exist by March 31?"
 description: "Will the US confirm that aliens exist by March 31? Odds: 0.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the US confirm that aliens exist by March 31?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-27
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]

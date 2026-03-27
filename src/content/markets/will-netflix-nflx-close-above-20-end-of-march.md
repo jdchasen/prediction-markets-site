@@ -11,7 +11,6 @@ polymarketYes: 99.9
 polymarketNo: 0.1
 polymarketVolume: 9648
 polymarketUrl: "https://polymarket.com/event/nflx-above-20-on-march-31-2026"
-analysisDate: 2026-03-27
 ---
 
 # Netflix Stock Price Prediction Analysis

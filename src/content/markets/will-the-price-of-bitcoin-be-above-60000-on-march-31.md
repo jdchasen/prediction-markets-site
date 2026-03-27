@@ -3,7 +3,7 @@ title: "Will the price of Bitcoin be above $60,000 on March 31?"
 description: "Will the price of Bitcoin be above $60,000 on March 31? Odds: 94.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the price of Bitcoin be above $60,000 on March 31?"
 category: "crypto"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-27
 expiryDate: 2026-03-31
 tags: ["bitcoin", "crypto", "polymarket"]

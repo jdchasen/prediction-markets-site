@@ -11,7 +11,6 @@ polymarketYes: 1.1
 polymarketNo: 98.9
 polymarketVolume: 9791
 polymarketUrl: "https://polymarket.com/event/will-linda-mcmahon-be-the-next-to-leave-the-trump-cabinet-before-2027-372"
-analysisDate: 2026-03-27
 ---
 
 # Linda McMahon Cabinet Departure Analysis

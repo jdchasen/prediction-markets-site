@@ -1,17 +1,16 @@
 ---
 title: "Will Jon Rothstein tweet \"This is March\" 51–60 times during March Madness?"
-description: "Will Jon Rothstein tweet \"This is March\" 51–60 times during March Madness? Odds: 40.0% YES on Polymarket. See live prices and trade this market."
+description: "Will Jon Rothstein tweet \"This is March\" 51–60 times during March Madness? Odds: 38.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Jon Rothstein tweet \"This is March\" 51–60 times during March Madness?"
 category: "tech"
 status: "active"
 lastUpdated: 2026-03-27
 expiryDate: 2026-04-07
 tags: ["polymarket", "tech"]
-polymarketYes: 40.0
-polymarketNo: 60.0
-polymarketVolume: 9698
+polymarketYes: 38.0
+polymarketNo: 62.0
+polymarketVolume: 9886
 polymarketUrl: "https://polymarket.com/event/will-jon-rothstein-tweet-this-is-march-5160-times-during-march-madness"
-analysisDate: 2026-03-27
 ---
 
 # Jon Rothstein "This is March" Tweet Frequency Market Analysis

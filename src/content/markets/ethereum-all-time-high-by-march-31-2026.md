@@ -9,9 +9,8 @@ expiryDate: 2026-04-01
 tags: ["crypto", "ethereum", "polymarket"]
 polymarketYes: 0.1
 polymarketNo: 99.9
-polymarketVolume: 995937
+polymarketVolume: 997158
 polymarketUrl: "https://polymarket.com/event/ethereum-all-time-high-by-march-31-2026"
-analysisDate: 2026-03-27
 ---
 
 The market pricing Ethereum's odds of reaching a new all-time high above $4,878 by March 31, 2026 at just 0.1% reflects extreme skepticism that the cryptocurrency can surpass its November 2021 peak within the next 16 months, despite substantial time remaining.

@@ -3,7 +3,7 @@ title: "Will the next diplomatic US-Iran meeting be in Qatar?"
 description: "Will the next diplomatic US-Iran meeting be in Qatar? Odds: 2.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the next diplomatic US-Iran meeting be in Qatar?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-27
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]

@@ -11,7 +11,6 @@ polymarketYes: 1.5
 polymarketNo: 98.6
 polymarketVolume: 98642
 polymarketUrl: "https://polymarket.com/event/will-al-carns-be-the-next-prime-minister-of-the-united-kingdom-in-2026-126"
-analysisDate: 2026-03-27
 ---
 
 # Al Carns for UK Prime Minister 2026: Market Analysis

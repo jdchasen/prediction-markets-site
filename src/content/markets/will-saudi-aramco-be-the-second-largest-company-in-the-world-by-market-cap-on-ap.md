@@ -3,7 +3,7 @@ title: "Will Saudi Aramco be the second-largest company in the world by market c
 description: "Will Saudi Aramco be the second-largest company in the world by market cap on April 30? Odds: 0.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Saudi Aramco be the second-largest company in the world by market cap on April 30?"
 category: "finance"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-27
 expiryDate: 2026-04-30
 tags: ["finance", "polymarket"]
