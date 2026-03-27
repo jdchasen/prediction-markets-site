@@ -1,17 +1,16 @@
 ---
 title: "European country agrees to give Ukraine security guarantee by June 30? "
-description: "European country agrees to give Ukraine security guarantee by June 30?  Odds: 11.5% YES on Polymarket. See live prices and trade this market."
+description: "European country agrees to give Ukraine security guarantee by June 30?  Odds: 12.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "European country agrees to give Ukraine security guarantee by June 30? "
 category: "politics"
 status: "active"
-lastUpdated: 2026-03-26
+lastUpdated: 2026-03-27
 expiryDate: 2026-06-30
 tags: ["ai", "politics", "polymarket"]
-polymarketYes: 11.5
-polymarketNo: 88.5
-polymarketVolume: 98029
+polymarketYes: 12.0
+polymarketNo: 88.0
+polymarketVolume: 98038
 polymarketUrl: "https://polymarket.com/event/european-country-agrees-to-give-ukraine-security-guarantee-by-june-30"
-analysisDate: 2026-03-26
 ---
 
 # European Security Guarantee for Ukraine Market Analysis

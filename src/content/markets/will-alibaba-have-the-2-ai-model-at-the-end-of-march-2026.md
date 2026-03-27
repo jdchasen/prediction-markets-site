@@ -3,8 +3,8 @@ title: "Will Alibaba have the #2 AI model at the end of March 2026?"
 description: "Will Alibaba have the #2 AI model at the end of March 2026? Odds: 0.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Alibaba have the #2 AI model at the end of March 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-26
+status: "settled"
+lastUpdated: 2026-03-27
 expiryDate: 2026-03-31
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 0.2

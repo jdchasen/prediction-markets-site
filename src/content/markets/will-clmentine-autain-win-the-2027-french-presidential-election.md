@@ -3,8 +3,8 @@ title: "Will Clémentine Autain win the 2027 French presidential election?"
 description: "Will Clémentine Autain win the 2027 French presidential election? Odds: 0.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Clémentine Autain win the 2027 French presidential election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-26
+status: "settled"
+lastUpdated: 2026-03-27
 expiryDate: 2027-04-30
 tags: ["ai", "elections", "politics", "polymarket"]
 polymarketYes: 0.2

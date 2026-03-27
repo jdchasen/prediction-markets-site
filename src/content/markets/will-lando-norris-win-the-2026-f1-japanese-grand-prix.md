@@ -3,8 +3,8 @@ title: "Will Lando Norris win the 2026 F1 Japanese Grand Prix?"
 description: "Will Lando Norris win the 2026 F1 Japanese Grand Prix? Odds: 2.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Lando Norris win the 2026 F1 Japanese Grand Prix?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-03-26
+status: "settled"
+lastUpdated: 2026-03-27
 expiryDate: 2026-04-05
 tags: ["polymarket", "sports"]
 polymarketYes: 2.1

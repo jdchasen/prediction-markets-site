@@ -3,8 +3,8 @@ title: "Will Brandon Ingram lead the NBA in points during the 2025–26 NBA seas
 description: "Will Brandon Ingram lead the NBA in points during the 2025–26 NBA season? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Brandon Ingram lead the NBA in points during the 2025–26 NBA season?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-03-26
+status: "settled"
+lastUpdated: 2026-03-27
 expiryDate: 2026-04-12
 tags: ["polymarket", "sports"]
 polymarketYes: 0.1

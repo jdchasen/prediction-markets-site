@@ -4,14 +4,13 @@ description: "Will Lille win the 2025–26 French Ligue 1? Odds: 0.1% YES on Pol
 marketQuestion: "Will Lille win the 2025–26 French Ligue 1?"
 category: "sports"
 status: "active"
-lastUpdated: 2026-03-26
+lastUpdated: 2026-03-27
 expiryDate: 2026-05-30
 tags: ["polymarket", "sports"]
 polymarketYes: 0.1
 polymarketNo: 100.0
 polymarketVolume: 97494
 polymarketUrl: "https://polymarket.com/event/will-lille-win-the-202526-french-ligue-1"
-analysisDate: 2026-03-26
 ---
 
 # Lille 2025-26 Ligue 1 Title Analysis

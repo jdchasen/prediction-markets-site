@@ -3,8 +3,8 @@ title: "Will Bukayo Saka be the 2025/2026 top UCL goal scorer?"
 description: "Will Bukayo Saka be the 2025/2026 top UCL goal scorer? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Bukayo Saka be the 2025/2026 top UCL goal scorer?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-26
+status: "settled"
+lastUpdated: 2026-03-27
 expiryDate: 2026-05-30
 tags: ["politics", "polymarket"]
 polymarketYes: 0.1

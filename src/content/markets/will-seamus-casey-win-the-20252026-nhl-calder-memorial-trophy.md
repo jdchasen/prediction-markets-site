@@ -3,8 +3,8 @@ title: "Will Seamus Casey win the 2025–2026 NHL Calder Memorial Trophy?"
 description: "Will Seamus Casey win the 2025–2026 NHL Calder Memorial Trophy? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Seamus Casey win the 2025–2026 NHL Calder Memorial Trophy?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-03-26
+status: "settled"
+lastUpdated: 2026-03-27
 expiryDate: 2026-06-30
 tags: ["polymarket", "sports"]
 polymarketYes: 0.1

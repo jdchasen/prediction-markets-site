@@ -1,17 +1,16 @@
 ---
 title: "Will Rihanna release an album in 2026?"
-description: "Will Rihanna release an album in 2026? Odds: 31.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Rihanna release an album in 2026? Odds: 32.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Rihanna release an album in 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-03-26
+lastUpdated: 2026-03-27
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 31.5
-polymarketNo: 68.5
+polymarketYes: 32.0
+polymarketNo: 68.0
 polymarketVolume: 9907
 polymarketUrl: "https://polymarket.com/event/will-rihanna-release-an-album-in-2026"
-analysisDate: 2026-03-26
 ---
 
 This market is fundamentally mispriced because it conflates an entertainment prediction with a political category, creating confusion about what traders are actually assessing. At 31.5% YES, the odds suggest meaningful skepticism about a Rihanna album release within the next two years, despite her recent return to music and public visibility that contradicts this low probability.

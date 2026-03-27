@@ -3,8 +3,8 @@ title: "Will Hugo Ekitike be the top goal scorer in the 2025–26 English Premie
 description: "Will Hugo Ekitike be the top goal scorer in the 2025–26 English Premier League season? Odds: 0.6% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Hugo Ekitike be the top goal scorer in the 2025–26 English Premier League season?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-03-26
+status: "settled"
+lastUpdated: 2026-03-27
 expiryDate: 2026-05-27
 tags: ["polymarket", "sports"]
 polymarketYes: 0.6

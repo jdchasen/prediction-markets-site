@@ -4,14 +4,13 @@ description: "Will the St. Louis Blues win the 2026 NHL Stanley Cup? Odds: 0.1% 
 marketQuestion: "Will the St. Louis Blues win the 2026 NHL Stanley Cup?"
 category: "sports"
 status: "active"
-lastUpdated: 2026-03-26
+lastUpdated: 2026-03-27
 expiryDate: 2026-06-30
 tags: ["polymarket", "sports"]
 polymarketYes: 0.1
-polymarketNo: 100.0
-polymarketVolume: 983249
+polymarketNo: 99.9
+polymarketVolume: 985466
 polymarketUrl: "https://polymarket.com/event/will-the-st-louis-blues-win-the-2026-nhl-stanley-cup"
-analysisDate: 2026-03-26
 ---
 
 The St. Louis Blues are essentially written off as Stanley Cup contenders for 2026, with the market pricing them at near-zero probability as they struggle through a rebuild amid the Western Conference's most competitive tier.

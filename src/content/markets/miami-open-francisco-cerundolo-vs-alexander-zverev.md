@@ -3,8 +3,8 @@ title: "Miami Open: Francisco Cerundolo vs Alexander Zverev"
 description: "Miami Open: Francisco Cerundolo vs Alexander Zverev Odds: 28.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Miami Open: Francisco Cerundolo vs Alexander Zverev"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-26
+status: "settled"
+lastUpdated: 2026-03-27
 expiryDate: 2026-04-02
 tags: ["politics", "polymarket"]
 polymarketYes: 28.5

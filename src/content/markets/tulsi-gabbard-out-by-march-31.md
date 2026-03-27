@@ -1,17 +1,16 @@
 ---
 title: "Tulsi Gabbard out by March 31?"
-description: "Tulsi Gabbard out by March 31? Odds: 2.8% YES on Polymarket. See live prices and trade this market."
+description: "Tulsi Gabbard out by March 31? Odds: 2.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Tulsi Gabbard out by March 31?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-03-26
+lastUpdated: 2026-03-27
 expiryDate: 2026-03-31
 tags: ["politics", "polymarket"]
-polymarketYes: 2.8
-polymarketNo: 97.2
-polymarketVolume: 96094
+polymarketYes: 2.4
+polymarketNo: 97.7
+polymarketVolume: 96188
 polymarketUrl: "https://polymarket.com/event/tulsi-gabbard-out-by-march-31"
-analysisDate: 2026-03-26
 ---
 
 # Tulsi Gabbard Departure Analysis

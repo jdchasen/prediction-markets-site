@@ -3,8 +3,8 @@ title: "Will no listed leader be out before 2027?"
 description: "Will no listed leader be out before 2027? Odds: 1.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will no listed leader be out before 2027?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-26
+status: "settled"
+lastUpdated: 2026-03-27
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 1.5

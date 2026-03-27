@@ -4,16 +4,17 @@ description: "Will Immanuel Quickley lead the NBA in assists during the 2025–2
 marketQuestion: "Will Immanuel Quickley lead the NBA in assists during the 2025–26 NBA season?"
 category: "sports"
 status: "active"
-lastUpdated: 2026-03-26
+lastUpdated: 2026-03-27
 expiryDate: 2026-04-12
 tags: ["polymarket", "sports"]
 polymarketYes: 0.4
 polymarketNo: 99.6
 polymarketVolume: 98477
 polymarketUrl: "https://polymarket.com/event/nba-2025-26-apg-leader-immanuel-quickley"
+analysisDate: 2026-03-27
 ---
 
-# Analysis: Immanuel Quickley Assists Leader Market
+# Immanuel Quickley Assists Leader Market Analysis
 
 ## Current Odds
 
@@ -23,29 +24,31 @@ polymarketUrl: "https://polymarket.com/event/nba-2025-26-apg-leader-immanuel-qui
 
 ## Market Analysis
 
-The market is pricing Quickley at 0.4% to lead the NBA in assists during 2025–26, reflecting near-zero conviction that the Toronto Raptors guard will average more dimes than elite playmakers like Luka Doncic, Nikola Jokic, and Tyrese Maxey. This matters because it represents a potential value opportunity if Quickley's role unexpectedly expands into a primary ballhandler position, or a trap for contrarians betting against overwhelming odds. The expiration date of April 12, 2026, captures the full regular season plus potential playoff impact, though the bulk of the market's logic hinges on regular-season performance.
+The 0.4% odds reflect the market's overwhelming consensus that Quickley has virtually no chance of leading the NBA in assists next season, a judgment rooted in both his role constraints and the presence of dominant playmakers across the league. This market matters now because the 2025–26 season will begin in October 2025, giving current roster decisions and trade activity just months to shift the probability meaningfully. At current odds, bettors are pricing in an outcome so unlikely that even a significant leap in Quickley's offensive usage would struggle to overcome the structural disadvantages baked into the probability.
 
-The bull case requires a significant scenario shift: Quickley would need to become Toronto's primary offensive engine while playing 35+ minutes nightly, combined with a sharp decline in assist totals from established elite playmakers. Quickley averaged 6.7 assists per game in limited starts last season and has shown capability as a secondary playmaker, but reaching 9+ assists per game (the typical threshold for league leaders) would demand a role transformation on a Raptors team still in transition. A catastrophic injury to multiple contenders' point guards could mathematically improve his odds, though this remains speculative. The bull thesis also assumes the Raptors commit to Quickley as a full-time starter, which depends on their roster construction decisions in the 2025 offseason and how they integrate recent draft picks.
+The bull case hinges on an unlikely but non-zero scenario: Quickley would need a dramatic role expansion or to be traded to a team that makes him its primary offensive engine, similar to how Trae Young or Luka Doncic dominate possession. Currently with the Chicago Bulls, Quickley averages around 3.5–4 assists per game in a bench role, meaning he'd need to nearly triple his current output and become a starting point guard in high volume—highly improbable given the Bulls' construction around DeMar DeRozan and Zach LaVine. A trade to a rebuilding team lacking a strong lead ball-handler is the only realistic path, but even then, he'd be competing against established playmakers like Nikola Jokic, Luka Doncic, Shai Gilgeous-Alexander, and Tyrese Haliburton, each of whom operates at 8+ assists per game in elite offenses.
 
-The bear case is straightforward and dominant: Quickley has never demonstrated the playmaking volume or consistency of the five-to-eight guards who typically contest for league assists leadership. Doncic (9.0 APG), Jokic (9.8 APG), and Maxey (8.0 APG) are entrenched in their roles with high offensive usage, and even secondary threats like Jamal Murray and De'Aaron Fox average 7+ assists. Quickley's ceiling appears limited by his position profile and the Raptors' uncertain offensive identity heading into 2025–26. Injuries to Quickley himself could eliminate any remaining probability entirely.
-
-Key catalysts to monitor: the 2025 NBA Draft (late June) and free agency period to assess whether Toronto adds another primary ballhandler or commits to Quickley's development; preseason performance in October 2025 and early regular-season starts through November; and any major trades or injuries to top-tier playmakers through the season. Traders should track Quickley's minutes per game and assist attempts once the season begins—if he's not averaging 6+ assist attempts nightly by December 2025, the probability should remain at or below 0.5%. The odds will only shift meaningfully if Quickley becomes a starter averaging 30+ minutes AND the playmaking landscape experiences unexpected disruption.
+The bear case is straightforward and overwhelming: Quickley has never averaged above 5 assists per game in his NBA career, and league leaders typically post 9–11 assists nightly. His skill set favors scoring and off-ball movement rather than initiating offense, and no credible trade rumors suggest a major role shift incoming. The Bulls showed commitment to their current core at the 2025 trade deadline, making a mid-season overhaul unlikely. Even if injuries or trades reshape the landscape by October 2025, Quickley would need unprecedented usage and opportunity simultaneously—a scenario the market appropriately treats as negligible. Watch for any trade activity in the summer of 2025 and early preseason performance data, but absent a seismic roster move, this probability should remain in the fractional range.
 
 ## Related Markets
 
 - [Will the Toronto Raptors win the 2026 NBA Finals?](/odds/will-the-toronto-raptors-win-the-2026-nba-finals) — 1% YES
 - [Will Paraguay win the 2026 FIFA World Cup?](/odds/will-paraguay-win-the-2026-fifa-world-cup) — 0% YES
-- [Will Oscar Piastri be the 2026 F1 Drivers' Champion?](/odds/will-oscar-piastri-be-the-2026-f1-drivers-champion) — 1% YES
+- [Will Atletico Madrid win the 2025–26 Champions League?](/odds/will-atletico-madrid-win-the-202526-champions-league) — 3% YES
 
 ## Frequently Asked Questions
 
-### What would Quickley need to average to have a realistic chance at leading the league in assists?
+### What's Quickley's career-high assists per game, and how far off is he from league-leading pace?
 
-He'd need to sustain roughly 9.5+ assists per game over an 82-game season while current leaders decline significantly, a multi-sigma outcome given his historical 6-7 APG range and the consistency of established playmakers.
+Quickley has never exceeded 5.1 assists per game in a season; NBA assists leaders typically average 9–11 per game, meaning he'd need to nearly double his best performance to be competitive for the title.
 
-### Could a trade sending Quickley to a different team increase his probability?
+### Could a trade to a rebuilding team like Charlotte or Portland meaningfully improve these odds?
 
-Yes, if he were traded to a team running him as a true point guard with high offensive load (e.g., a rebuilding franchise), his opportunity volume could increase, though this remains highly speculative and would be reflected in market repricing.
+Yes—if traded to a team making him the primary point guard, odds could move 2–5x higher, but even then he'd face entrenched playmakers and would need to sustain elite efficiency at a position outside his skill profile.
+
+### When should traders monitor this market for movement, and what catalyst would be most significant?
+
+The offseason (May–August 2025) is critical for trade rumors and roster changes; any mid-market trade acquiring a lead ball-handler or Quickley departing Chicago would be the primary catalyst to reassess these odds.
 
 ## Learn More
 

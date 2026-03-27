@@ -4,14 +4,13 @@ description: "Will Trump meet with Vladimir Putin in March 2026? Odds: 0.4% YES 
 marketQuestion: "Will Trump meet with Vladimir Putin in March 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-03-26
+lastUpdated: 2026-03-27
 expiryDate: 2026-03-31
 tags: ["politics", "polymarket", "trump"]
 polymarketYes: 0.4
 polymarketNo: 99.6
-polymarketVolume: 9710
+polymarketVolume: 9815
 polymarketUrl: "https://polymarket.com/event/will-trump-meet-with-vladimir-putin-in-march-2026-246"
-analysisDate: 2026-03-26
 ---
 
 # Trump-Putin Meeting in March 2026: A Near-Zero Probability Event

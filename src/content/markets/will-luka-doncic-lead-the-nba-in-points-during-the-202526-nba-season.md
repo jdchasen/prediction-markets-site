@@ -1,51 +1,56 @@
 ---
 title: "Will Luka Doncic lead the NBA in points during the 2025–26 NBA season?"
-description: "Will Luka Doncic lead the NBA in points during the 2025–26 NBA season? Odds: 97.9% YES on Polymarket. See live prices and trade this market."
+description: "Will Luka Doncic lead the NBA in points during the 2025–26 NBA season? Odds: 97.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Luka Doncic lead the NBA in points during the 2025–26 NBA season?"
 category: "sports"
 status: "active"
-lastUpdated: 2026-03-26
+lastUpdated: 2026-03-27
 expiryDate: 2026-04-12
 tags: ["polymarket", "sports"]
-polymarketYes: 97.9
-polymarketNo: 2.1
-polymarketVolume: 97460
+polymarketYes: 97.7
+polymarketNo: 2.3
+polymarketVolume: 97475
 polymarketUrl: "https://polymarket.com/event/nba-2025-26-ppg-leader-luka-doncic"
+analysisDate: 2026-03-27
 ---
 
-# Analysis: Luka Doncic Scoring Title Prediction 2025-26
+# Luka Doncic NBA Scoring Leader 2025-26: Analysis
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 96.9% | 3.1% | $97K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 97.7% | 2.3% | $97K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The near-certainty odds of 96.9% reflect justified confidence in Doncic's elite scoring ability, but this pricing leaves minimal room for the realistic scenarios that could derail him. Doncic has finished top-three in scoring in four of his last five seasons and leads the league in usage rate, making him structurally positioned to accumulate volume. The market is essentially betting that no unforeseen injury, roster construction change, or career-altering development will materially reduce his scoring output across an 82-game season—a high bar at such extreme odds.
+The market is pricing Doncic as an overwhelming favorite to lead the league in scoring next season, reflecting his consistent elite offensive production and Dallas's roster construction around his usage rate. This extreme confidence warrants scrutiny given the volatility inherent in season-long NBA performance metrics and the presence of other high-volume scorers entering 2025-26.
 
-The bull case centers on Doncic's consistent, compounding dominance: he's averaged 33.9 PPG over the last two seasons while his team's spacing and roster construction have only improved. His mid-range and three-point volume remain elite despite higher three-point attempt rates across the league, and there's no credible scoring threat emerging in the Western Conference (SGA, Booker, and Jokic command defensive focus differently). The Dallas Mavericks' playoff run trajectory through spring 2026 will matter—if they secure a high seed early, Doncic's regular-season scoring pace is unlikely to drop significantly given his mentality. His injury history, while concerning in March 2024, has stabilized, and no structural red flags exist heading into 2025-26.
+The bull case rests on Doncic's track record: he finished top-3 in scoring in each of the last three seasons and averaged 33.9 PPG in 2023-24. The Mavericks' roster prioritizes his offensive touches, and Kyrie Irving's presence actually reduces defensive pressure on Doncic by spacing the floor. At age 26 entering 2025-26, he's in his athletic prime. Dallas's playoff positioning and potential offensive philosophy adjustments throughout the season will likely keep his usage rate elevated. Recent performance through the 2024-25 season shows no regression in his scoring efficiency or volume.
 
-The bear case hinges on three overlapping risks: (1) A serious injury during the 2024-25 season or early 2025-26 could force load management or alter his scoring role; (2) The emergence of a high-efficiency scorer (Shai Gilgeous-Alexander, if healthy and on a favorable team, or an unexpected breakout) could chip into volume-based advantages; (3) A mid-season Mavericks collapse forcing reduced minutes or systemic offensive changes. The market should track Dallas's December 2025 record and Doncic's shooting efficiency trends through January—if his TS% dips below .600 or the team struggles to 20-25 wins, rest protocols or changes to offensive scheme could meaningfully reduce scoring. Additionally, any significant trades or roster additions that shift Dallas's offensive gravity away from Doncic would be immediate catalysts.
+The bear case centers on competitive threats and structural changes. Shai Gilgeous-Alexander has closed the gap with elite scoring seasons, and the emergence of young high-volume scorers like LaMelo Ball or improved seasons from Stephen Curry could challenge Doncic's dominance. Injury risk—particularly knee or ankle problems that have occasionally sidelined him—poses a quantifiable threat over an 82-game season. Additionally, playoff-style defensive adjustments in January and February could moderately suppress his PPG average. If Dallas pursues mid-season roster moves or adjusts its offensive gameplan, Doncic's touches could decrease relative to expectations baked into current pricing.
 
-Traders should monitor three key indicators through the 2025-26 season: Doncic's minutes per game (any sustained drop below 35 MPG is a yellow flag), the Mavericks' playoff positioning by February 2026 (contenders rarely reduce star volume), and whether any top-tier scorer emerges with a genuine efficiency advantage. The 96.9% odds suggest the market has essentially priced in only catastrophic injury risk; any structural decline in role, team performance, or emergence of a more efficient volume scorer represents genuine value for contrarian positions.
+Key catalysts to monitor: the opening month of the 2025-26 season (October 2025) establishes whether Doncic maintains 33+ PPG pace; All-Star voting in February 2026 serves as a mid-season checkpoint; and any significant Dallas roster trades or injuries to Dallas's supporting cast would immediately reshape offensive dynamics. Traders should track Doncic's game logs from November-December 2025 for early statistical trends that contradict the 97.7% probability and look for line movements if SGA or another challenger emerges with unexpectedly high scoring rates in the season's first quarter.
 
 ## Related Markets
 
 - [Will the Toronto Raptors win the 2026 NBA Finals?](/odds/will-the-toronto-raptors-win-the-2026-nba-finals) — 1% YES
 - [Will Paraguay win the 2026 FIFA World Cup?](/odds/will-paraguay-win-the-2026-fifa-world-cup) — 0% YES
-- [Will Oscar Piastri be the 2026 F1 Drivers' Champion?](/odds/will-oscar-piastri-be-the-2026-f1-drivers-champion) — 1% YES
+- [Will Atletico Madrid win the 2025–26 Champions League?](/odds/will-atletico-madrid-win-the-202526-champions-league) — 3% YES
 
 ## Frequently Asked Questions
 
-### Has Doncic's scoring efficiency remained stable enough to sustain a scoring title without increased volume?
+### What happens to this market if Doncic suffers a significant injury that limits him to 50 games?
 
-His true shooting percentage has held between .580-.620 over the last two seasons despite rising three-point volume, meaning he can lead the league through efficiency gains alone if usage dips—making the odds even more resilient than volume-dependent cases suggest.
+The market would likely collapse toward NO regardless of his per-game average, since total season scoring leadership requires durability; an injury extending past late March would effectively eliminate his chances.
 
-### What happens to this market if the Mavericks acquire another star scorer via trade before the season starts?
+### How much would Doncic's scoring average need to drop for him to lose this market?
 
-Any major roster addition that shares offensive load (like acquiring a secondary ball-handler or scoring wing) would materially increase competition for touches; the market shows almost no probability assigned to this scenario despite it being structurally possible in a trade-
+If he averages below 29-30 PPG for the full season while a competitor like SGA averages 33+, he'd lose; the market is assuming he maintains at least a 32+ PPG pace despite increased competition.
+
+### Could changes to Dallas's roster composition before the 2025-26 season significantly impact these odds?
+
+Yes—if the Mavericks trade away Irving or add a high-usage wing scorer, reduced offensive touches could drop Doncic below 31 PPG and dramatically increase the probability that a higher-volume scorer leads the league.
 
 ## Learn More
 

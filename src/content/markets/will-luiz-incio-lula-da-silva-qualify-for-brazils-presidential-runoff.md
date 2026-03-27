@@ -4,14 +4,13 @@ description: "Will Luiz Inácio Lula da Silva qualify for Brazil's presidential 
 marketQuestion: "Will Luiz Inácio Lula da Silva qualify for Brazil's presidential runoff?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-03-26
+lastUpdated: 2026-03-27
 expiryDate: 2026-10-04
 tags: ["politics", "polymarket"]
 polymarketYes: 73.5
 polymarketNo: 26.5
-polymarketVolume: 96177
+polymarketVolume: 96334
 polymarketUrl: "https://polymarket.com/event/will-luiz-incio-lula-da-silva-qualify-for-brazils-presidential-runoff"
-analysisDate: 2026-03-26
 ---
 
 # Lula's 2026 Presidential Runoff: Market Analysis

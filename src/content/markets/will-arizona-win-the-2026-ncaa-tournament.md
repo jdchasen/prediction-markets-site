@@ -3,8 +3,8 @@ title: "Will Arizona win the 2026 NCAA Tournament?"
 description: "Will Arizona win the 2026 NCAA Tournament? Odds: 20.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Arizona win the 2026 NCAA Tournament?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-26
+status: "settled"
+lastUpdated: 2026-03-27
 expiryDate: 2026-04-04
 tags: ["politics", "polymarket"]
 polymarketYes: 20.0

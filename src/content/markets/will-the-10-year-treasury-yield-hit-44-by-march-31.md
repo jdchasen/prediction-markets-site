@@ -3,8 +3,8 @@ title: "Will the 10-year treasury yield hit 4.4% by March 31?"
 description: "Will the 10-year treasury yield hit 4.4% by March 31? Odds: 100.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the 10-year treasury yield hit 4.4% by March 31?"
 category: "economics"
-status: "active"
-lastUpdated: 2026-03-26
+status: "settled"
+lastUpdated: 2026-03-27
 expiryDate: 2026-03-31
 tags: ["economics", "polymarket"]
 polymarketYes: 100.0

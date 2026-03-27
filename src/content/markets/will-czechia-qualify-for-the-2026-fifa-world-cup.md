@@ -3,8 +3,8 @@ title: "Will Czechia qualify for the 2026 FIFA World Cup?"
 description: "Will Czechia qualify for the 2026 FIFA World Cup? Odds: 20.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Czechia qualify for the 2026 FIFA World Cup?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-03-26
+status: "settled"
+lastUpdated: 2026-03-27
 expiryDate: 2026-04-12
 tags: ["polymarket", "sports"]
 polymarketYes: 20.5

@@ -4,14 +4,13 @@ description: "Will Crude Oil (CL) settle at <$60 in March? Odds: 0.2% YES on Pol
 marketQuestion: "Will Crude Oil (CL) settle at <$60 in March?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-03-26
+lastUpdated: 2026-03-27
 expiryDate: 2026-03-31
 tags: ["politics", "polymarket"]
 polymarketYes: 0.2
 polymarketNo: 99.8
-polymarketVolume: 97810
+polymarketVolume: 99160
 polymarketUrl: "https://polymarket.com/event/will-crude-oil-cl-settle-at-60-in-march"
-analysisDate: 2026-03-26
 ---
 
 # Crude Oil Settlement Analysis: March 2026

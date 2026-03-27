@@ -3,8 +3,8 @@ title: "Aryna Sabalenka vs. Elena Rybakina: Total Sets O/U 2.5"
 description: "Aryna Sabalenka vs. Elena Rybakina: Total Sets O/U 2.5 Odds: 46.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Aryna Sabalenka vs. Elena Rybakina: Total Sets O/U 2.5"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-26
+status: "settled"
+lastUpdated: 2026-03-27
 expiryDate: 2026-04-03
 tags: ["politics", "polymarket"]
 polymarketYes: 46.0

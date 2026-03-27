@@ -3,8 +3,8 @@ title: "Will BNB reach $800 in March?"
 description: "Will BNB reach $800 in March? Odds: 0.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will BNB reach $800 in March?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-26
+status: "settled"
+lastUpdated: 2026-03-27
 expiryDate: 2026-04-01
 tags: ["politics", "polymarket"]
 polymarketYes: 0.4

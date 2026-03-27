@@ -3,8 +3,8 @@ title: "Will Ethereum dip to $1,900 March 23-29?"
 description: "Will Ethereum dip to $1,900 March 23-29? Odds: 15.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Ethereum dip to $1,900 March 23-29?"
 category: "crypto"
-status: "active"
-lastUpdated: 2026-03-26
+status: "settled"
+lastUpdated: 2026-03-27
 expiryDate: 2026-03-30
 tags: ["crypto", "ethereum", "polymarket"]
 polymarketYes: 15.0

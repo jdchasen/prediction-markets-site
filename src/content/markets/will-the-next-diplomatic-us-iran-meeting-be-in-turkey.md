@@ -3,8 +3,8 @@ title: "Will the next diplomatic US-Iran meeting be in Turkey?"
 description: "Will the next diplomatic US-Iran meeting be in Turkey? Odds: 11.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the next diplomatic US-Iran meeting be in Turkey?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-26
+status: "settled"
+lastUpdated: 2026-03-27
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
 polymarketYes: 11.1
