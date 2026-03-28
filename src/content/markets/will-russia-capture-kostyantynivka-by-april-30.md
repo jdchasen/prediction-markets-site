@@ -3,7 +3,7 @@ title: "Will Russia capture Kostyantynivka by April 30?"
 description: "Will Russia capture Kostyantynivka by April 30? Odds: 25.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Russia capture Kostyantynivka by April 30?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-28
 expiryDate: 2026-03-31
 tags: ["politics", "polymarket"]

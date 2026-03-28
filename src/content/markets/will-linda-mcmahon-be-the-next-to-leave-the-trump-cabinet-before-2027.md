@@ -8,10 +8,9 @@ lastUpdated: 2026-03-28
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket", "trump"]
 polymarketYes: 1.1
-polymarketNo: 98.9
-polymarketVolume: 9796
+polymarketNo: 99.0
+polymarketVolume: 9811
 polymarketUrl: "https://polymarket.com/event/will-linda-mcmahon-be-the-next-to-leave-the-trump-cabinet-before-2027-372"
-analysisDate: 2026-03-28
 ---
 
 # Linda McMahon Cabinet Tenure Analysis

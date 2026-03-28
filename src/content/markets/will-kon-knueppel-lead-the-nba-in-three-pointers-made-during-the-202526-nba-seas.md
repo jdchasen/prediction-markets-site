@@ -1,52 +1,55 @@
 ---
 title: "Will Kon Knueppel lead the NBA in three pointers made during the 2025–26 NBA season?"
-description: "Will Kon Knueppel lead the NBA in three pointers made during the 2025–26 NBA season? Odds: 1.1% YES on Polymarket. See live prices and trade this market."
+description: "Will Kon Knueppel lead the NBA in three pointers made during the 2025–26 NBA season? Odds: 1.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Kon Knueppel lead the NBA in three pointers made during the 2025–26 NBA season?"
 category: "sports"
 status: "active"
 lastUpdated: 2026-03-28
 tags: ["polymarket", "sports"]
-polymarketYes: 1.1
-polymarketNo: 98.9
+polymarketYes: 1.0
+polymarketNo: 99.0
 polymarketVolume: 9778
 polymarketUrl: "https://polymarket.com/event/will-kon-knueppel-lead-the-nba-in-three-pointers-made-during-the-202526-nba-season"
+analysisDate: 2026-03-28
 ---
 
-This market prices Kon Knueppel as an extreme longshot to lead the NBA in three-pointers made next season, reflecting both his current roster situation and the historical dominance of elite shooters in this statistical category. The 1.3% implied probability suggests the market views this outcome as nearly impossible, making it worth examining whether that consensus accurately reflects Knueppel's trajectory and opportunity.
+# Kon Knueppel 3-Pointer Leader Market Analysis
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 1.3% | 98.7% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 1.0% | 99.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The bull case hinges on volume and opportunity cost. Knueppel would need to land with a team featuring heavy three-point volume, minimal competition for shot attempts, and a willingness to feature him as a primary scorer. If he signed with a rebuilding squad desperate for spacing or a team dealing with injuries to star perimeter players, he could theoretically accumulate enough attempts to compete. His shooting percentages have been respectable in limited NBA minutes (he played sparingly for the Grizzlies), and if given 25+ minutes per game with 6-7 three-point attempts nightly, the math becomes less impossible. However, this would still require beating Stephen Curry, Damian Lillard, or other established high-volume shooters who typically launch 8-10 threes per game.
+This market is essentially pricing Knueppel out of contention for the 2025–26 three-point lead, a bet that reflects both his current role uncertainty and the historical dominance of elite volume shooters in this category. The 1.0% odds suggest traders view this outcome as nearly impossible, though the extremely low price creates asymmetric risk-reward dynamics worth examining before the season tips off in October 2025.
 
-The bear case is overwhelming and grounded in reality. Leading the NBA in three-pointers made typically requires 200+ makes, which demands both elite scoring roles and high-volume opportunity. Knueppel has never been a primary offensive option at any level and has minimal NBA experience. The 2025-26 season will feature Curry, Lillard, Jaylen Brown, and other stars with 15+ years of three-point volume dominance ahead of him. Unless a catastrophic injury wave removes multiple elite shooters simultaneously, Knueppel lacks the opportunity architecture to accumulate the necessary volume. Teams don't restructure their offenses around depth shooters, and his roster fit matters more than raw shooting ability.
+The bull case hinges on Knueppel receiving significant offensive usage in a system built around perimeter shooting. If he lands on a contender needing wing spacing—or if he becomes a starter for a rebuilding team willing to feature him—his catch-and-shoot efficiency could translate into high volume. Knueppel has demonstrated reliable three-point shooting throughout his career, and a 35+ game starting role with 6+ three-point attempts per game would put him in legitimate contention. The market's 1.0% odds also leave room for injury attrition among presumed favorites like Stephen Curry or Damian Lillard, creating an opening for secondary volume shooters to lead the league.
 
-Key catalysts to monitor include the 2025 NBA Draft and free agency period (July 2025), when Knueppel's destination becomes clear and his projected role materializes. If he signs with a contending team, his odds should remain near current levels. If he lands with a lottery team as a volume shooter, modest repricing might occur, but even then, his odds should stay sub-5%. Watch his per-game three-point attempt rate once the season begins in October 2025—anything below 5 attempts per game makes this market unwinnable. Injury reports for established shooters in November-December 2025 could theoretically create temporary repricing, but the market would need to envision multiple sustained injuries to top-10 three-point shooters.
+The bear case is far stronger and explains the market pricing: Knueppel is not a franchise centerpiece, and teams built around maximizing three-point volume will deploy established stars like Curry, Lillard, Luka Doncic, or Tyrese Maxey. Knueppel's role is typically as a complementary bench or role player, limiting his attempts to 3–4 per game—far below what's needed to lead the league. A league leader typically requires 7+ attempts nightly and 200+ makes on the season; only elite volume users in high-usage systems reach that threshold. Knueppel would need both opportunity and elite efficiency to overcome heavy favorites, a dual requirement rarely satisfied outside the NBA's top offensive focal points.
+
+Watch for Knueppel's preseason usage rate and team assignment in late September 2025, particularly whether he's starting or coming off the bench. His first 10 games will signal whether he's in a high-volume role; if he averages under 4 three-point attempts through November, the 1.0% odds will have been appropriately priced. A trade to a contender needing wing shooting or a surprise mid-season role expansion are the only realistic catalysts that could move this market materially. Compare his shooting volume to secondary options on contenders, not the presumed favorites.
 
 ## Related Markets
 
-- [Will the Toronto Raptors win the 2026 NBA Finals?](/odds/will-the-toronto-raptors-win-the-2026-nba-finals) — 1% YES
-- [Will Paraguay win the 2026 FIFA World Cup?](/odds/will-paraguay-win-the-2026-fifa-world-cup) — 0% YES
-- [Will Atletico Madrid win the 2025–26 Champions League?](/odds/will-atletico-madrid-win-the-202526-champions-league) — 3% YES
+- [Will Algeria win the 2026 FIFA World Cup?](/odds/will-algeria-win-the-2026-fifa-world-cup) — 0% YES
+- [Will Cape Verde win the 2026 FIFA World Cup?](/odds/will-cape-verde-win-the-2026-fifa-world-cup) — 0% YES
+- [Will Egypt win the 2026 FIFA World Cup?](/odds/will-egypt-win-the-2026-fifa-world-cup) — 0% YES
 
 ## Frequently Asked Questions
 
-### What three-point volume would Knueppel need to win this market?
+### What three-point attempt volume would Knueppel need to be in contention for the league lead?
 
-He'd need approximately 200+ made threes over 82 games, requiring roughly 6-7 attempts per night with 40%+ accuracy—a threshold only elite primary scorers achieve. This is virtually impossible for a bench/role player.
+Historically, the league leader makes 200+ three-pointers, requiring roughly 7+ attempts per game over a full season. Knueppel would likely need 6+ attempts nightly to have a realistic chance, well above typical role-player usage.
 
-### Has any player outside the NBA's top 20 scorers ever led in three-pointers made in a single season?
+### Could injuries to elite shooters like Curry or Lillard materially shift this market?
 
-No. This market requires not just elite shooting, but primary offensive opportunity that teams simply don't allocate to players without Knueppel's resume or draft pedigree.
+Yes—a season-ending injury to multiple top-volume shooters would dramatically reduce competition, but Knueppel would still need a starting role and 6+ attempts per game to capitalize, making it a two-factor dependency rather than a pure injury play.
 
-### Would a trade to a contender or injury to a star shooter meaningfully change these odds?
+### Is there a date or event when this market becomes clearer to price?
 
-A trade to a contender would keep odds near current levels since he'd still compete for limited three-point attempts. Only simultaneous injuries to 3-4 of the league's top shooters would move
+The first month of the 2025–26 season (October–November 2025) will reveal his actual usage rate and team assignment; by Thanksgiving, traders will have enough games to determine if he's in genuine contention or
 
 ## Learn More
 

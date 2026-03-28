@@ -9,9 +9,8 @@ expiryDate: 2026-07-20
 tags: ["polymarket", "sports"]
 polymarketYes: 0.4
 polymarketNo: 99.7
-polymarketVolume: 9585292
+polymarketVolume: 9745760
 polymarketUrl: "https://polymarket.com/event/will-egypt-win-the-2026-fifa-world-cup"
-analysisDate: 2026-03-28
 ---
 
 The market pricing Egypt at 0.4% to win the 2026 World Cup reflects their status as extreme longshots, though this matters as a benchmark for measuring African teams' chances at the expanded 48-team tournament where CAF receives nine guaranteed slots.

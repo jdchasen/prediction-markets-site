@@ -11,7 +11,6 @@ polymarketYes: 6.0
 polymarketNo: 94.0
 polymarketVolume: 9894
 polymarketUrl: "https://polymarket.com/event/will-the-feds-lower-bound-reach-0-or-lower-before-2027-196-363-557-457-329-251-881"
-analysisDate: 2026-03-28
 ---
 
 # Federal Reserve Lower Bound Analysis

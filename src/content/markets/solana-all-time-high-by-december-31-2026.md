@@ -9,9 +9,8 @@ expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]
 polymarketYes: 15.5
 polymarketNo: 84.5
-polymarketVolume: 9646
+polymarketVolume: 9650
 polymarketUrl: "https://polymarket.com/event/solana-all-time-high-by-december-31-2026"
-analysisDate: 2026-03-28
 ---
 
 # Solana All-Time High by December 31, 2026 Analysis

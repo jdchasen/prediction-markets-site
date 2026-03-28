@@ -1,17 +1,16 @@
 ---
 title: "Will Max Verstappen be the 2026 F1 Drivers' Champion?"
-description: "Will Max Verstappen be the 2026 F1 Drivers' Champion? Odds: 2.4% YES on Polymarket. See live prices and trade this market."
+description: "Will Max Verstappen be the 2026 F1 Drivers' Champion? Odds: 2.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Max Verstappen be the 2026 F1 Drivers' Champion?"
 category: "sports"
 status: "active"
 lastUpdated: 2026-03-28
 expiryDate: 2026-12-06
 tags: ["polymarket", "sports"]
-polymarketYes: 2.4
-polymarketNo: 97.7
-polymarketVolume: 981087
+polymarketYes: 2.1
+polymarketNo: 98.0
+polymarketVolume: 993738
 polymarketUrl: "https://polymarket.com/event/will-max-verstappen-be-the-2026-f1-drivers-champion"
-analysisDate: 2026-03-28
 ---
 
 The market heavily discounts Max Verstappen's chances at the 2026 title, pricing him at minimal odds despite his dominance through 2023, reflecting extreme uncertainty around F1's radical 2026 regulation changes and Red Bull's technical position.

@@ -3,7 +3,7 @@ title: "Will Taylor Fritz win the 2026 Men's French Open?"
 description: "Will Taylor Fritz win the 2026 Men's French Open? Odds: 0.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Taylor Fritz win the 2026 Men's French Open?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-28
 expiryDate: 2026-06-07
 tags: ["politics", "polymarket"]

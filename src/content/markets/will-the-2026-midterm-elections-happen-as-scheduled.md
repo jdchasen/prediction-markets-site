@@ -9,9 +9,8 @@ expiryDate: 2026-12-31
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 89.5
 polymarketNo: 10.5
-polymarketVolume: 99307
+polymarketVolume: 99821
 polymarketUrl: "https://polymarket.com/event/will-the-2026-midterm-elections-happen-as-scheduled"
-analysisDate: 2026-03-28
 ---
 
 The prediction market assigns an 89.5% probability that the 2026 midterm elections will occur on their scheduled date (the first Tuesday after the first Monday in November 2026, which falls on November 3rd), a question that matters because any deviation would represent an unprecedented constitutional crisis in American democracy.

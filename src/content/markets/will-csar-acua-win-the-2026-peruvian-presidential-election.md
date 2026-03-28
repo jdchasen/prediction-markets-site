@@ -1,17 +1,16 @@
 ---
 title: "Will César Acuña win the 2026 Peruvian presidential election?"
-description: "Will César Acuña win the 2026 Peruvian presidential election? Odds: 0.2% YES on Polymarket. See live prices and trade this market."
+description: "Will César Acuña win the 2026 Peruvian presidential election? Odds: 0.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will César Acuña win the 2026 Peruvian presidential election?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-03-28
 expiryDate: 2026-04-12
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 0.2
-polymarketNo: 99.8
-polymarketVolume: 96150
+polymarketYes: 0.4
+polymarketNo: 99.7
+polymarketVolume: 96828
 polymarketUrl: "https://polymarket.com/event/will-csar-acua-win-the-2026-peruvian-presidential-election"
-analysisDate: 2026-03-28
 ---
 
 César Acuña's virtually nonexistent 0.2% odds reflect a dramatic collapse in viability for the Alliance for Progress (APP) founder, who has run unsuccessfully in 2011, 2016, and 2021, with traders essentially pricing him out of contention nearly two years before Peru's April 2026 first-round vote.

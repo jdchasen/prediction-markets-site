@@ -9,9 +9,8 @@ expiryDate: 2026-12-31
 tags: ["economics", "polymarket", "sports"]
 polymarketYes: 25.0
 polymarketNo: 75.0
-polymarketVolume: 9858
+polymarketVolume: 9863
 polymarketUrl: "https://polymarket.com/event/will-inflation-reach-more-than-5-in-2026-282"
-analysisDate: 2026-03-28
 ---
 
 # Inflation Predictions for 2026: Low Odds Reflect Fed Confidence in Disinflation Trajectory

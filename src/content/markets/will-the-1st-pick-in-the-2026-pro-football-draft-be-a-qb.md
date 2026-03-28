@@ -3,7 +3,7 @@ title: "Will the 1st pick in the 2026 Pro Football draft be a QB? "
 description: "Will the 1st pick in the 2026 Pro Football draft be a QB?  Odds: 97.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the 1st pick in the 2026 Pro Football draft be a QB? "
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-28
 expiryDate: 2026-04-23
 tags: ["politics", "polymarket"]

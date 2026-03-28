@@ -9,9 +9,8 @@ expiryDate: 2026-05-01
 tags: ["polymarket", "tech"]
 polymarketYes: 2.9
 polymarketNo: 97.0
-polymarketVolume: 96888
+polymarketVolume: 97028
 polymarketUrl: "https://polymarket.com/event/elon-musk-of-tweets-april-2026-1600-1679"
-analysisDate: 2026-03-28
 ---
 
 This market prices in an extremely low probability that Musk will post within this narrow 80-tweet range in April 2026, reflecting both the specificity of the bracket and uncertainty about his posting patterns two years out. The 2.9% odds suggest traders view this as a very precise bet on someone whose behavior has proven volatile and dependent on his business priorities at any given moment.

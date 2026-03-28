@@ -3,7 +3,7 @@ title: "Will Ned Lamont win the 2026 Connecticut Governor Democratic primary ele
 description: "Will Ned Lamont win the 2026 Connecticut Governor Democratic primary election? Odds: 92.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Ned Lamont win the 2026 Connecticut Governor Democratic primary election?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-28
 expiryDate: 2026-08-11
 tags: ["elections", "politics", "polymarket"]

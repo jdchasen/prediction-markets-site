@@ -9,9 +9,8 @@ expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
 polymarketYes: 2.9
 polymarketNo: 97.2
-polymarketVolume: 96321
+polymarketVolume: 96351
 polymarketUrl: "https://polymarket.com/event/bill-clinton-divorce-by-june-30"
-analysisDate: 2026-03-28
 ---
 
 # Bill Clinton Divorce Market Analysis

@@ -1,17 +1,16 @@
 ---
 title: "Will France be in the top 10 at Eurovision 2026?"
-description: "Will France be in the top 10 at Eurovision 2026? Odds: 74.5% YES on Polymarket. See live prices and trade this market."
+description: "Will France be in the top 10 at Eurovision 2026? Odds: 75.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will France be in the top 10 at Eurovision 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-03-28
 expiryDate: 2026-05-16
 tags: ["politics", "polymarket"]
-polymarketYes: 74.5
-polymarketNo: 25.5
-polymarketVolume: 9698
+polymarketYes: 75.5
+polymarketNo: 24.5
+polymarketVolume: 9700
 polymarketUrl: "https://polymarket.com/event/will-france-be-in-the-top-10-at-eurovision-2026"
-analysisDate: 2026-03-28
 ---
 
 # Eurovision 2026: France's Top-10 Prospects at 74.5% Yes

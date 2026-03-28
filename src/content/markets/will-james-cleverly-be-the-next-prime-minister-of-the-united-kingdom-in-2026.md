@@ -3,7 +3,7 @@ title: "Will James Cleverly be the next Prime Minister of the United Kingdom in 
 description: "Will James Cleverly be the next Prime Minister of the United Kingdom in 2026? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will James Cleverly be the next Prime Minister of the United Kingdom in 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-28
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]

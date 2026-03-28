@@ -1,52 +1,53 @@
 ---
 title: "Will Israel or the US target Fordow nuclear facility?"
-description: "Will Israel or the US target Fordow nuclear facility? Odds: 9.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Israel or the US target Fordow nuclear facility? Odds: 5.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Israel or the US target Fordow nuclear facility?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-03-28
 tags: ["politics", "polymarket"]
-polymarketYes: 9.5
-polymarketNo: 90.5
-polymarketVolume: 97888
+polymarketYes: 5.5
+polymarketNo: 94.5
+polymarketVolume: 98504
 polymarketUrl: "https://polymarket.com/event/will-israel-or-the-us-target-fordow-nuclear-facility"
+analysisDate: 2026-03-28
 ---
 
-The market pricing a 9.5% chance of US or Israeli strikes on Iran's Fordow nuclear facility reflects deep skepticism about military escalation in the near term, despite ongoing nuclear tensions. This assessment matters because Fordow represents Iran's most fortified enrichment site, buried deep underground near Qom, making it the ultimate red line facility that would signal maximum military commitment.
+The Fordow nuclear facility strike market sits at minimal odds of 5.5%, reflecting widespread skepticism that either the US or Israel will escalate to direct military action against Iran's most fortified enrichment site in the foreseeable timeframe.
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 9.5% | 90.5% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 5.5% | 94.5% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The bull case hinges on Iran's accelerating nuclear program and recent IAEA reports showing enrichment levels reaching 60% purity—just steps from weapons-grade 90%. Israel has repeatedly stated that Iran reaching breakout capacity represents an existential threat requiring preemptive action, and Fordow's strategic value as Iran's most hardened facility makes it a logical target if military action occurs. The incoming Trump administration has appointed Iran hawks to key positions, and Israel's newly emboldened position after degrading Hamas and Hezbollah could create a window for broader regional objectives. Recent Israeli strikes on Iranian territory in October 2024 demonstrate willingness to hit Iranian soil directly, breaking previous taboos.
+The bear case against a strike is compelling: Fordow is buried deep inside a mountain near Qom, making it extremely difficult to destroy even with bunker-buster munitions. Any attack would likely trigger regional war, close the Strait of Hormuz, and spike oil prices globally—outcomes both Washington and Jerusalem would prefer to avoid absent an imminent nuclear breakout. The US has consistently signaled preference for diplomatic pressure and sanctions over military action, while Israel's recent focus has been Gaza and Hezbollah rather than initiating a new front with Iran. The Biden administration's reluctance to support offensive operations against Iranian nuclear infrastructure, combined with the facility's strategic depth, makes a unilateral Israeli strike technically challenging without US logistical support.
 
-The bear case centers on the extreme operational difficulty and geopolitical cost of striking Fordow. The facility requires bunker-busting munitions that only the US possesses in sufficient quantity, and even then success is uncertain given its depth. Any strike would likely trigger a major regional war, potentially closing the Strait of Hormuz and spiking global oil prices—consequences that neither Washington nor Jerusalem has shown appetite for. The Biden administration continues pursuing diplomatic channels, and even with Trump's return, he has historically avoided new Middle Eastern conflicts. China and Russia would vehemently oppose such action at the UN Security Council, and Saudi Arabia's recent normalization efforts with Iran suggest regional powers prefer détente.
+The bull case centers on Iran's accelerating enrichment activities at Fordow specifically. Iran has been enriching uranium to 60% purity at this site—a short technical step from weapons-grade 90%—and recently expelled IAEA inspectors from key monitoring positions. If intelligence indicates Iran is weaponizing at Fordow or has moved materials there for final enrichment to weapons grade, Israel's calculus could shift dramatically. Prime Minister Netanyahu has repeatedly stated that Iran will not be allowed to obtain nuclear weapons "under any circumstances." A key catalyst would be IAEA reports suggesting Iran has enriched beyond 60% or evidence of parallel weaponization activities; the next IAEA Board of Governors meeting is scheduled for March 2025. Additionally, if incoming US administration signals green-light support or provides necessary military assets, Israeli strike probability increases substantially.
 
-Key catalysts include the next IAEA Board of Governors meeting in March 2025, which could produce censure resolutions or snapback sanctions discussions. Trump's inauguration on January 20, 2025, marks a policy shift, but his actual Iran strategy remains unclear beyond "maximum pressure" rhetoric. Israeli elections, if called early in 2025 due to Netanyahu's coalition pressures, could change calculus. Watch for Iranian announcements about enrichment levels above 60% or IAEA inspector access restrictions, either of which would dramatically shift probabilities upward.
+Traders should monitor IAEA quarterly reports for enrichment level changes at Fordow, statements from Israeli defense officials about operational readiness against hardened targets, and any US deployments of GBU-57 bunker-busters to the region. Iran's response to potential snapback sanctions or E3 pressure could also trigger escalation if Tehran expels all inspectors or announces withdrawal from the NPT. The market may be underpricing tail risk if diplomatic channels completely collapse by mid-2025.
 
 ## Related Markets
 
 - [Will Erika Kirk win the 2028 Republican presidential nomination?](/odds/will-erika-kirk-win-the-2028-republican-presidential-nomination) — 0% YES
 - [Will Jon Stewart win the 2028 Democratic presidential nomination?](/odds/will-jon-stewart-win-the-2028-democratic-presidential-nomination) — 2% YES
-- [Putin out as President of Russia by June 30?](/odds/putin-out-as-president-of-russia-by-june-30) — 4% YES
+- [US x Iran ceasefire by April 7?](/odds/us-x-iran-ceasefire-by-april-7) — 10% YES
 
 ## Frequently Asked Questions
 
-### Why is Fordow specifically significant compared to other Iranian nuclear facilities like Natanz?
+### Why is Fordow specifically significant compared to other Iranian nuclear sites?
 
-Fordow is built into a mountain near Qom, making it nearly impervious to conventional strikes and representing Iran's most protected enrichment capability. Targeting it would require the most advanced US bunker-busters and signal an intent to completely eliminate Iran's nuclear program, not just set it back.
+Fordow is Iran's most heavily fortified enrichment facility, built inside a mountain specifically to withstand airstrikes. It's also where Iran conducts its highest-level enrichment to 60%, making it the most sensitive target for any military operation.
 
-### Would Israel have the military capability to strike Fordow without direct US participation?
+### What would constitute definitive evidence that would trigger a strike decision?
 
-Israel lacks the heavy bunker-busting munitions (GBU-57 Massive Ordnance Penetrators) and long-range bombers required to effectively target Fordow's deep underground halls. Any serious strike would require either direct US involvement or transfer of specialized American weapons, making this fundamentally a joint decision.
+Intelligence showing enrichment beyond 60% toward weapons-grade, evidence of weaponization activities like neutron initiator development at the site, or satellite imagery indicating final assembly of a nuclear device would likely force immediate action from Israel regardless of diplomatic costs.
 
-### How would Iran likely respond to a Fordow strike compared to previous Israeli attacks on its territory?
+### Can Israel actually destroy Fordow without US assistance?
 
-A Fordow strike would constitute an attack on Iran's core nuclear program and could trigger massive retaliation including ballistic missile volleys at Israeli cities, activation of regional proxy forces, and potential attempts to close the Strait of Hormuz—a fundamentally different scale than responses to strikes on IRGC facilities or weapons depots.
+Highly unlikely—the facility requires multiple strikes with GBU-28 or larger bunker-busters, mid-air refueling for the distance, and potentially sequential bombing runs. Israel would need either direct US military support or at minimum tacit approval to overfly airspace and access to specialized American munitions.
 
 ## Learn More
 

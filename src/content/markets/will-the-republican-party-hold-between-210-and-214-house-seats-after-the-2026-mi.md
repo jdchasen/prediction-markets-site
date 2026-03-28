@@ -3,7 +3,7 @@ title: "Will the Republican Party hold between 210 and 214 House seats after the
 description: "Will the Republican Party hold between 210 and 214 House seats after the 2026 midterm elections? Odds: 1.5% YES on Polymarket. See live prices and trade this..."
 marketQuestion: "Will the Republican Party hold between 210 and 214 House seats after the 2026 midterm elections?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-28
 expiryDate: 2026-11-03
 tags: ["elections", "politics", "polymarket"]

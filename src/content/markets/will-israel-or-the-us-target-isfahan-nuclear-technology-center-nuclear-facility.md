@@ -1,16 +1,15 @@
 ---
 title: "Will Israel or the US target Isfahan Nuclear Technology Center nuclear facility?"
-description: "Will Israel or the US target Isfahan Nuclear Technology Center nuclear facility? Odds: 16.2% YES on Polymarket. See live prices and trade this market."
+description: "Will Israel or the US target Isfahan Nuclear Technology Center nuclear facility? Odds: 17.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Israel or the US target Isfahan Nuclear Technology Center nuclear facility?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-03-28
 tags: ["politics", "polymarket"]
-polymarketYes: 16.2
-polymarketNo: 83.8
-polymarketVolume: 97736
+polymarketYes: 17.5
+polymarketNo: 82.5
+polymarketVolume: 98354
 polymarketUrl: "https://polymarket.com/event/will-israel-or-the-us-target-isfahan-nuclear-technology-center-nuclear-facility"
-analysisDate: 2026-03-28
 ---
 
 The market placing roughly 1-in-6 odds on strikes against Isfahan's nuclear facility reflects cautious assessment that escalating tensions could trigger direct action against Iran's most critical nuclear research infrastructure, though diplomatic paths and deterrence factors still dominate trader sentiment.

@@ -3,7 +3,7 @@ title: "Will Poland win on 2026-03-31?"
 description: "Will Poland win on 2026-03-31? Odds: 23.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Poland win on 2026-03-31?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-28
 expiryDate: 2026-03-31
 tags: ["politics", "polymarket"]

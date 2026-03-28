@@ -1,17 +1,16 @@
 ---
 title: "Will McLaren be the 2026 F1 Constructors' Champion?"
-description: "Will McLaren be the 2026 F1 Constructors' Champion? Odds: 4.0% YES on Polymarket. See live prices and trade this market."
+description: "Will McLaren be the 2026 F1 Constructors' Champion? Odds: 3.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will McLaren be the 2026 F1 Constructors' Champion?"
 category: "sports"
 status: "active"
 lastUpdated: 2026-03-28
 expiryDate: 2026-12-06
 tags: ["polymarket", "sports"]
-polymarketYes: 4.0
-polymarketNo: 96.0
-polymarketVolume: 990521
+polymarketYes: 3.9
+polymarketNo: 96.1
+polymarketVolume: 992431
 polymarketUrl: "https://polymarket.com/event/will-mclaren-be-the-2026-f1-constructors-champion"
-analysisDate: 2026-03-28
 ---
 
 McLaren's championship odds sit at just 4% for the 2026 season, reflecting skepticism that the Woking-based team can sustain momentum two years into F1's current technical regulations while competing against Red Bull's established dominance and Ferrari's resources.

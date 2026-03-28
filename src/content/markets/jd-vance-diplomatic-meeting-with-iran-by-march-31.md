@@ -3,7 +3,7 @@ title: "JD Vance diplomatic meeting with Iran by March 31?"
 description: "JD Vance diplomatic meeting with Iran by March 31? Odds: 6.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "JD Vance diplomatic meeting with Iran by March 31?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-28
 expiryDate: 2026-04-30
 tags: ["politics", "polymarket"]

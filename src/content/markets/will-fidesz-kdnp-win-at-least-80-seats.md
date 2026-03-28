@@ -1,54 +1,54 @@
 ---
 title: "Will Fidesz-KDNP win at least 80 seats?"
-description: "Will Fidesz-KDNP win at least 80 seats? Odds: 48.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Fidesz-KDNP win at least 80 seats? Odds: 59.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Fidesz-KDNP win at least 80 seats?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-03-28
 expiryDate: 2026-04-12
 tags: ["politics", "polymarket"]
-polymarketYes: 48.5
-polymarketNo: 51.5
-polymarketVolume: 98452
+polymarketYes: 59.0
+polymarketNo: 41.0
+polymarketVolume: 99372
 polymarketUrl: "https://polymarket.com/event/will-fidesz-kdnp-win-at-least-80-seats"
 analysisDate: 2026-03-28
 ---
 
-# Fidesz-KDNP Seat Prediction Analysis
+The market gives Fidesz-KDNP a 59% chance of securing at least 80 seats in Hungary's 2026 parliamentary elections, reflecting cautious optimism about the ruling coalition maintaining its supermajority in a political environment where opposition unity remains uncertain. This threshold matters because 80 seats represents roughly 40% of the 199-seat National Assembly, a baseline that would indicate Fidesz maintains dominant status even if it loses its two-thirds supermajority of 133 seats.
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 48.5% | 51.5% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 59.0% | 41.0% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The Hungarian coalition faces near coin-flip odds of clearing the 80-seat threshold in the April 2026 parliamentary elections, reflecting genuine uncertainty about Viktor Orbán's governing coalition's ability to maintain supermajority control. This matters because 80 seats represents a critical buffer—below that level, Fidesz-KDNP loses its two-thirds supermajority needed to pass constitutional changes unilaterally, fundamentally altering Hungary's political balance. Current polling suggests the coalition will likely remain dominant but faces erosion from both the left and newer right-wing challengers.
+The bull case centers on Fidesz's entrenched structural advantages: control over state media, gerrymandered electoral districts that favor rural strongholds, and a fragmented opposition that struggled to maintain unity after the 2022 election. Prime Minister Viktor Orbán's government retains strong support in rural areas and among older voters, while economic measures like utility price caps and family subsidies maintain a loyal base. Recent municipal election results in 2024 showed Fidesz resilience outside Budapest, and the opposition coalition that challenged them in 2022 has since fractured, with Péter Magyar's Tisza Party splitting the anti-Fidesz vote rather than consolidating it.
 
-The bull case rests on Fidesz's institutional advantages: control of state media, gerrymandered district boundaries that favor rural conservative voters, and voter inertia among core supporters. Polling from late 2024 typically shows Fidesz-KDNP in the 45-50% range, which under Hungary's mixed electoral system historically translates to supermajorities despite lower vote shares. The coalition's traditional base remains intact in rural areas. However, the bear case is strengthening. Peter Magyar's Tisza Party has surged to 25-30% in recent polls, fragmenting the opposition more effectively than previous challengers. Youth disengagement, frustration over economic conditions, and EU tensions over judicial independence and media freedom all create headwinds. The two-thirds threshold is mathematically achievable but no longer assured—any slight outperformance by Magyar's party or higher-than-expected turnout among younger, urban voters could push Fidesz below 80 seats.
+The bear case highlights emerging vulnerabilities: Magyar's Tisza Party has polled competitively with Fidesz throughout 2025, some surveys showing near-parity in the 30-40% range. Economic headwinds including persistent inflation and weakening forint could erode support among swing voters. The government's continued battles with the EU over rule of law and frozen funds create uncertainty, while corruption scandals periodically surface. If opposition parties unite behind a single candidate in each constituency—as they attempted in 2022—the winner-take-all single-member districts could swing dramatically against Fidesz even with modest national vote share changes.
 
-Key catalysts include Hungary's EU relations and any escalation of judicial reform disputes before spring 2026, which could mobilize younger voters. Polling shifts from January through March 2026 will provide concrete signals; if Tisza maintains 25%+ support, 80 seats becomes increasingly unlikely. The April 12 election itself will be the ultimate catalyst, though by then the market will simply reflect outcome certainty. Watch also for any coalition between opposition parties—currently fragmented among multiple groups—which could concentrate anti-Fidesz votes more efficiently and materially reduce the coalition's seat count.
+Key catalysts include opposition party congresses and coalition negotiations expected through late 2025 and early 2026, which will determine whether anti-Fidesz forces run unified candidates or split the vote. Economic indicators through winter 2025-2026 will be critical, particularly inflation data and any potential EU funding agreements. Polling aggregates should be monitored monthly as the April 2026 election approaches, with particular attention to seat projection models that account for Hungary's mixed electoral system. The candidate registration deadline approximately 60 days before the election will clarify whether opposition coordination materializes.
 
 ## Related Markets
 
 - [Will Erika Kirk win the 2028 Republican presidential nomination?](/odds/will-erika-kirk-win-the-2028-republican-presidential-nomination) — 0% YES
 - [Will Jon Stewart win the 2028 Democratic presidential nomination?](/odds/will-jon-stewart-win-the-2028-democratic-presidential-nomination) — 2% YES
-- [Putin out as President of Russia by June 30?](/odds/putin-out-as-president-of-russia-by-june-30) — 4% YES
+- [US x Iran ceasefire by April 7?](/odds/us-x-iran-ceasefire-by-april-7) — 10% YES
 
 ## Frequently Asked Questions
 
-### What electoral system factors make 80 seats specifically meaningful for Fidesz-KDNP?
+### What's the difference between 80 seats and the two-thirds supermajority threshold that gets more attention?
 
-Hungary's mixed system allocates 199 seats total, and 134 seats constitutes a two-thirds supermajority needed for constitutional amendments; 80 seats represents the practical threshold where the coalition maintains comfortable parliamentary control without supermajority powers, making it psychologically and politically significant.
+While Fidesz's two-thirds supermajority (133 seats) allows constitutional changes, this 80-seat threshold represents a much lower bar assessing whether they remain the dominant parliamentary force versus complete collapse. It's essentially asking if Fidesz stays above 40% of seats rather than maintaining absolute control.
 
-### How much has Peter Magyar's Tisza Party's rise specifically changed the probability of this market?
+### How does Hungary's mixed electoral system affect whether Fidesz can reach 80 seats?
 
-Tisza's emergence from obscurity to 25-30% in polling directly explains why the market moved from historically favoring Fidesz supermajorities (which would've priced 80+ seats at 70%+) down to the current near-toss-up, as it fragments the opposition less efficiently while still eating Fidesz votes.
+Hungary elects 106 MPs from single-member districts and 93 from national party lists, with the single-member districts heavily gerrymandered to favor Fidesz in rural areas. Even if Fidesz loses significant vote share, they could still secure 80+ seats through these geographic advantages unless opposition parties run unified candidates to consolidate anti-government votes.
 
-### What polling trend would most clearly signal the outcome is moving away from 80 seats?
+### What role does Péter Magyar's Tisza Party play in this market outcome?
 
-If Magyar's Tisza sustains above 27% while Fidesz drops below 43%, and opposition parties fail to merge, seat projections typically show Fidesz-KDNP falling into the 75-85 range, making sub-80 outcomes more probable than the current 51.5% implied by these odds.
+Tisza Party's emergence as a major opposition force creates uncertainty—it could either consolidate anti-Fidesz voters more effectively than the previous fragmented opposition, or split the vote and inadvertently help Fidesz retain more seats. Whether Magyar coordinates with other opposition parties or runs independently will likely determine if Fidesz clears 80 seats comfortably.
 
 ## Learn More
 

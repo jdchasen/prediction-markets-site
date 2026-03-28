@@ -11,7 +11,6 @@ polymarketYes: 0.1
 polymarketNo: 99.9
 polymarketVolume: 9756
 polymarketUrl: "https://polymarket.com/event/will-bukayo-saka-be-the-20252026-top-ucl-goal-scorer"
-analysisDate: 2026-03-28
 ---
 
 This market is severely mispriced at 0.1% because it conflates sports analytics with political categorization, creating an arbitrage opportunity for those who understand football betting. The odds reflect either a categorization error or an assumption that Saka will face catastrophic injury/performance collapse before the 2025/26 UCL season concludes in May 2026.

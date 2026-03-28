@@ -9,9 +9,8 @@ expiryDate: 2028-11-07
 tags: ["politics", "polymarket"]
 polymarketYes: 0.5
 polymarketNo: 99.5
-polymarketVolume: 9705689
+polymarketVolume: 9745385
 polymarketUrl: "https://polymarket.com/event/will-erika-kirk-win-the-2028-republican-presidential-nomination"
-analysisDate: 2026-03-28
 ---
 
 The market pricing Erika Kirk at 0.5% to win the 2028 Republican nomination reflects extreme skepticism about an unknown candidate capturing the GOP's top prize, highlighting how prediction markets currently view the 2028 field as wide open but dominated by established national figures.

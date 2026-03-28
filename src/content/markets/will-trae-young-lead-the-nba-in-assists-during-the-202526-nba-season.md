@@ -1,55 +1,54 @@
 ---
 title: "Will Trae Young lead the NBA in assists during the 2025–26 NBA season?"
-description: "Will Trae Young lead the NBA in assists during the 2025–26 NBA season? Odds: 0.3% YES on Polymarket. See live prices and trade this market."
+description: "Will Trae Young lead the NBA in assists during the 2025–26 NBA season? Odds: 0.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Trae Young lead the NBA in assists during the 2025–26 NBA season?"
 category: "sports"
 status: "active"
 lastUpdated: 2026-03-28
 expiryDate: 2026-04-12
 tags: ["polymarket", "sports"]
-polymarketYes: 0.3
-polymarketNo: 99.7
-polymarketVolume: 98434
+polymarketYes: 0.5
+polymarketNo: 99.5
+polymarketVolume: 99477
 polymarketUrl: "https://polymarket.com/event/nba-2025-26-apg-leader-trae-young"
+analysisDate: 2026-03-28
 ---
 
-# Trae Young Assists Leader Market Analysis
+The market prices Trae Young's chances of leading the NBA in assists next season at essentially zero, reflecting skepticism that the Atlanta Hawks guard can overcome structural disadvantages despite his elite playmaking ability.
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.4% | 99.7% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.5% | 99.5% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The market is pricing Trae Young as a severe long shot to lead the NBA in assists next season, with implied probability hovering near the floor. This extremely low pricing reflects legitimate structural headwinds: Young finished the 2024–25 season averaging 9.9 assists per game, trailing multiple elite facilitators including Nikola Jokic (9.0 APG as of recent data) and other high-volume playmakers. The assists crown typically goes to players in high-volume offensive systems with fewer scoring alternatives, and the Atlanta Hawks—despite their rebuilding trajectory—have moved toward a more balanced roster construction that reduces Young's usage rate relative to historical levels.
+**Bull Case:** Young has demonstrated elite passing vision throughout his career, finishing second in assists per game in 2021-22 (9.7 APG) and consistently ranking in the top five. If Atlanta fully commits to a pace-and-space offense that maximizes his pick-and-roll opportunities, and if the Hawks add floor-spacing shooters who convert his passes at high rates, Young could approach 11+ assists per game. His usage rate remains among the league's highest, and at 26 years old during the 2025-26 season, he'll be entering his prime years. A coaching change or roster overhaul that centers the offense entirely around his facilitating could unlock historic assist numbers similar to what Chris Paul achieved in his peak years.
 
-The bull case hinges on three factors: Young's proven ability to string together elite playmaking stretches when fully healthy and in rhythm, the possibility of further Hawks roster turnover that could make him the overwhelming offensive focal point by 2025–26, and the natural volatility in the assists leaderboard where injuries to competitors or system changes can shake the hierarchy overnight. If Atlanta trades away Clint Capela or other scoring threats, and Young maintains his elite court vision while operating in a pure point-guard role, his assist totals could spike from current levels. Additionally, watch for the Hawks' offseason moves through the 2025 NBA Draft (June) and free agency (July); any move toward a smaller-ball, guard-centric offense meaningfully improves his odds.
+**Bear Case:** The odds reflect harsh realities: Young hasn't led the league in assists yet despite multiple opportunities, and the Hawks' current roster construction doesn't optimize for assist generation. More critically, younger point guards like Tyrese Haliburton (who led the league in 2023-24 with 10.9 APG) play in faster-paced offensive systems with better spacing. Oklahoma City's system with Shai Gilgeous-Alexander and Dallas's setup with Luka Dončić consistently generate more assist opportunities per game than Atlanta's offense. Young's ball-dominance style can also limit overall team assists, and Atlanta's rebuilding trajectory may involve increased tanking rather than win-now roster moves that would boost his assist totals.
 
-The bear case is more compelling: Young's assist rate has been trending downward relative to his scoring opportunities, suggesting his playmaking role is naturally constrained by his scoring volume and shot selection. Competitors like Luka Doncic, Jokic, and potential emerging facilitators operate in systems explicitly optimized for ball movement and high assist totals. Even if Young finishes top-5 in assists per game, raw counting stats depend on minutes played and games—injuries could derail a season, or the Hawks might rest him strategically. The 0.4% pricing suggests sharp money sees almost no realistic path, and that reflects the multi-year trend of Young's assist rates not approaching league-leading territory.
-
-Watch the Hawks' roster construction through training camp (October 2025) and the first two months of the season (November–December 2025) to assess whether the organization has committed to a playmaking-heavy system around Young. Any significant departure from the current Hawks core would be a red flag to watch. Additionally, monitor Young's assist-to-usage ratio in the 2024–25 season finale—if he's posting double-digit assists on lower volume, that could nudge odds slightly higher. The expiry in April 2026 gives roughly 11 months for team composition changes to materially shift incentive structures.
+**Key Catalysts:** Monitor Atlanta's offseason roster moves beginning after the 2025 NBA Draft (June 25, 2025) and free agency (July 1, 2025 onward). Any trades involving Dejounte Murray's replacement or additions of elite catch-and-shoot wings would signal offensive philosophy shifts. The Hawks' coaching decisions for 2025-26 will be announced in summer 2025. Watch Young's assist numbers through the end of the current 2024-25 season (ending April 2025) and Atlanta's final win-loss record, which determines their competitive positioning. Early season pace metrics and team offensive rating in October-November 2025 will indicate whether systemic changes favor higher assist production.
 
 ## Related Markets
 
-- [Will the Toronto Raptors win the 2026 NBA Finals?](/odds/will-the-toronto-raptors-win-the-2026-nba-finals) — 1% YES
-- [Will Paraguay win the 2026 FIFA World Cup?](/odds/will-paraguay-win-the-2026-fifa-world-cup) — 0% YES
-- [Will Atletico Madrid win the 2025–26 Champions League?](/odds/will-atletico-madrid-win-the-202526-champions-league) — 3% YES
+- [Will Algeria win the 2026 FIFA World Cup?](/odds/will-algeria-win-the-2026-fifa-world-cup) — 0% YES
+- [Will Cape Verde win the 2026 FIFA World Cup?](/odds/will-cape-verde-win-the-2026-fifa-world-cup) — 0% YES
+- [Will Egypt win the 2026 FIFA World Cup?](/odds/will-egypt-win-the-2026-fifa-world-cup) — 0% YES
 
 ## Frequently Asked Questions
 
-### What assist per game average would Trae Young realistically need to win this market?
+### Who are Trae Young's main competitors for the assists title in 2025-26?
 
-Approximately 10.5+ APG would put him in contention, but he'd likely need 11+ to seriously threaten the leader, depending on which other playmakers remain healthy and active.
+Tyrese Haliburton leads the current generation after topping the league in 2023-24, while Luka Dončić consistently ranks top-three with Dallas's heliocentric offense. Younger facilitators like Cade Cunningingham and LaMelo Ball are also emerging as high-volume passers in uptempo systems.
 
-### How much does Trae Young's current supporting cast (De'Andre Hunter, Clint Capela) impact his assist ceiling?
+### What specific roster changes would most improve Young's chances of leading in assists?
 
-Significantly—having established scoring threats reduces his ball-handling necessity and opportunity creation; if the Hawks strip the roster around him, his assists would likely increase 1–2 APG.
+Atlanta would need to add multiple 40%+ three-point shooters who can convert spot-up opportunities and run effective pick-and-roll actions, similar to how Indiana surrounds Haliburton with elite floor spacers like Buddy Hield and Aaron Nesmith.
 
-### Could an injury to a competitor like Luka Doncic or Nikola Jokic meaningfully shift this market before April 2026?
+### Has Trae Young's assist production been trending up or down recently?
 
-Yes, if a top-3 assist leader goes down for an extended
+Young's assists have plateaued around 10-11 per game the past two seasons after peaking at 9.7 in 2021-22, as Atlanta's offensive system has become more balanced with Dejounte Murray's arrival rather than fully heliocentric around Young's playmaking.
 
 ## Learn More
 

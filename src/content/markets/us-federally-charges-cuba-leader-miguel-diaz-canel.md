@@ -9,9 +9,8 @@ expiryDate: 2026-06-30
 tags: ["federal-reserve", "politics", "polymarket"]
 polymarketYes: 32.5
 polymarketNo: 67.5
-polymarketVolume: 9774
+polymarketVolume: 9797
 polymarketUrl: "https://polymarket.com/event/us-federally-charges-cuba-leader-miguel-diaz-canel"
-analysisDate: 2026-03-28
 ---
 
 # Analysis: US Federal Charges Against Diaz-Canel

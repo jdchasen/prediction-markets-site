@@ -9,9 +9,8 @@ expiryDate: 2026-04-12
 tags: ["polymarket", "sports"]
 polymarketYes: 0.4
 polymarketNo: 99.7
-polymarketVolume: 9729
+polymarketVolume: 9807
 polymarketUrl: "https://polymarket.com/event/nba-2025-26-rpg-leader-kel-el-ware"
-analysisDate: 2026-03-28
 ---
 
 # Kel'el Ware Rebounds Leader Market Analysis

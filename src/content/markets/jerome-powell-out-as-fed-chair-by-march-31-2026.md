@@ -9,45 +9,46 @@ expiryDate: 2026-05-14
 tags: ["ai", "federal-reserve", "politics", "polymarket"]
 polymarketYes: 0.1
 polymarketNo: 99.9
-polymarketVolume: 972369
+polymarketVolume: 975151
 polymarketUrl: "https://polymarket.com/event/jerome-powell-out-as-fed-chair-by-march-31-2026"
+analysisDate: 2026-03-28
 ---
 
-Prediction markets give Jerome Powell near-zero chance of leaving his Federal Reserve Chair position before March 31, 2026, reflecting the strong institutional protections around Fed independence and Powell's term structure that runs through May 2026.
+Prediction markets are pricing near-zero probability that Jerome Powell will leave his position as Federal Reserve Chair before March 31, 2026, reflecting strong institutional stability and the political protection typically afforded to Fed independence despite ongoing economic uncertainty and political pressures.
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.1% | 99.9% | $969K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.1% | 99.9% | $975K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The bear case for Powell's continued tenure centers on potential political pressure from President Trump, who has repeatedly criticized Powell's monetary policy decisions and floated the idea of firing him. Trump could attempt to manufacture a "for cause" removal, arguing policy disagreements constitute dereliction of duty, though legal scholars broadly agree the Federal Reserve Act's provisions protect chairs from removal except for malfeasance or neglect. A more plausible scenario involves Powell voluntarily resigning under sustained political attacks or personal pressure, though his past behavior suggests he would resist this approach to preserve institutional norms. The upcoming FOMC meetings in January, March, and May 2025 could trigger presidential outbursts if rate decisions displease the administration, potentially escalating tensions.
+The bear case for Powell's tenure remaining intact is straightforward: Fed Chairs historically serve their full terms, and Powell's current term doesn't expire until May 2026, just weeks after this market's cutoff. Removing a sitting Fed Chair would require extraordinary circumstances like resignation under pressure, impeachment, or voluntary departure for personal reasons. Powell has weathered significant criticism over inflation management in 2021-2023 and maintained bipartisan respect for his commitment to price stability. The institutional norm of Fed independence makes political interference unlikely even in a contentious election year, and Powell has shown no indication of wanting to step down early. His recent communication suggests he intends to complete his term through the critical period of potential rate cuts in 2025-2026.
 
-The bull case for Powell remaining in office is straightforward: the Federal Reserve Act provides substantial legal protection, and no Fed Chair has ever been involuntarily removed by a president. Powell's term as Chair specifically runs until May 15, 2026, while his term as a Fed Governor extends to January 2028, giving him multiple layers of job security. Senate Republicans, despite party loyalty pressures, have historically defended Fed independence, and several moderate GOP senators would likely oppose any removal attempt. Powell has shown no indication of voluntary departure, having weathered previous Trump criticism during his first term. The Supreme Court's removal power jurisprudence, particularly the Humphrey's Executor precedent regarding independent agencies, creates formidable legal barriers to presidential action.
+The bull case for an early Powell exit, while unlikely, centers on several scenarios. A severe economic crisis or policy misstep could generate sufficient bipartisan pressure for resignation, particularly if the economy enters recession during 2025. Health issues or personal reasons could prompt voluntary departure. More speculatively, a president hostile to Powell's approach could attempt unprecedented pressure tactics, though this would face significant legal and institutional resistance. The 2024 presidential election outcome matters here—President Trump previously expressed frustration with Powell's rate decisions and could theoretically attempt to remove him, though legal scholars debate whether a president has such authority without cause.
 
-Key catalysts to monitor include any formal Trump administration legal opinion from the Office of Legal Counsel regarding Fed Chair removal authority, which would need to overcome decades of established precedent. The Senate Banking Committee hearings for Powell's successor nomination (likely beginning in March-April 2026 for the May transition) will reveal whether Powell faces pressure to leave early. January 2025 FOMC rate decisions and Powell's subsequent press conferences represent flashpoints where presidential criticism could intensify, though criticism alone doesn't create a viable removal path.
+Key catalysts to monitor include Fed policy decisions at the eight annual FOMC meetings through March 2026, particularly the January 28-29, 2025, March 18-19, 2025, and subsequent meetings where rate trajectories will be set. Any deterioration in inflation data or employment numbers released monthly by the Bureau of Labor Statistics could intensify scrutiny. Presidential actions or statements regarding the Fed following the January 20, 2025 inauguration would signal potential political pressure. Congressional testimony by Powell, traditionally occurring in February and July, provides windows for confrontation. The real test comes in late 2025 if economic conditions deviate significantly from Fed projections, though even then institutional momentum strongly favors Powell completing his term.
 
 ## Related Markets
 
-- [Will China invade Taiwan by March 31, 2026?](/odds/will-china-invade-taiwan-by-march-31-2026) — 0% YES
-- [Will the Boston Red Sox win the 2026 World Series?](/odds/will-the-boston-red-sox-win-the-2026-world-series) — 5% YES
-- [Fact Check: Maduro capture staged?](/odds/fact-check-maduro-capture-staged) — 0% YES
+- [Will Erika Kirk win the 2028 Republican presidential nomination?](/odds/will-erika-kirk-win-the-2028-republican-presidential-nomination) — 0% YES
+- [Will Jon Stewart win the 2028 Democratic presidential nomination?](/odds/will-jon-stewart-win-the-2028-democratic-presidential-nomination) — 2% YES
+- [US x Iran ceasefire by April 7?](/odds/us-x-iran-ceasefire-by-april-7) — 10% YES
 
 ## Frequently Asked Questions
 
-### Could Trump actually fire Powell before his term ends, or is this legally impossible?
+### Can the President actually fire the Fed Chair before their term expires?
 
-Legal consensus holds that Trump cannot fire Powell without demonstrating "for cause" reasons like malfeasance or neglect of duty under the Federal Reserve Act, making removal for policy disagreements nearly impossible. Any attempt would face immediate legal challenges backed by strong precedent protecting independent agency heads.
+The Federal Reserve Act only allows removal "for cause," and legal scholars broadly agree that policy disagreements don't constitute sufficient cause. Any attempted removal would likely trigger immediate legal challenges and create significant market instability.
 
-### What would it take for Powell to voluntarily resign before March 2026?
+### What would happen to this market if Powell announced he's leaving in April 2026, after the March 31 cutoff?
 
-Powell would likely need to face either extreme personal circumstances or conclude that his continued presence was itself damaging Fed credibility beyond repair, neither of which appears remotely probable given his demonstrated commitment to institutional independence during previous political pressure campaigns.
+The market would resolve as NO since it specifically asks about departure by March 31, 2026. Powell's term officially ends May 15, 2026, so a normal term completion would result in NO resolution regardless of succession timing.
 
-### Why does this market extend only to March 31, 2026 when Powell's term ends in May 2026?
+### Has a Fed Chair ever been forced out or left early before completing their term?
 
-The March 31 cutoff creates a cleaner test of premature departure, since any exit in the final six weeks before his natural term end in mid-May could be characterized as a normal transition rather than a forced or pressured removal.
+G. William Miller left early in 1979 to become Treasury Secretary, and several chairs haven't been reappointed for additional terms, but no modern Fed Chair has been involuntarily removed or pressured to resign mid-term due to policy disputes.
 
 ## Learn More
 

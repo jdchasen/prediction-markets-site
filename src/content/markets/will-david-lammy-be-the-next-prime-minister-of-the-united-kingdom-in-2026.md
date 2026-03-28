@@ -8,10 +8,9 @@ lastUpdated: 2026-03-28
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 0.7
-polymarketNo: 99.3
+polymarketNo: 99.4
 polymarketVolume: 96613
 polymarketUrl: "https://polymarket.com/event/will-david-lammy-be-the-next-prime-minister-of-the-united-kingdom-in-2026-654"
-analysisDate: 2026-03-28
 ---
 
 # David Lammy as UK Prime Minister in 2026: An Extremely Long-Shot Scenario

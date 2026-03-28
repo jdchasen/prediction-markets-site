@@ -1,17 +1,16 @@
 ---
 title: "Will Ethena reach $0.28 in March?"
-description: "Will Ethena reach $0.28 in March? Odds: 0.4% YES on Polymarket. See live prices and trade this market."
+description: "Will Ethena reach $0.28 in March? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Ethena reach $0.28 in March?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-03-28
 expiryDate: 2026-04-01
 tags: ["ethereum", "politics", "polymarket"]
-polymarketYes: 0.4
-polymarketNo: 99.7
-polymarketVolume: 9641
+polymarketYes: 0.1
+polymarketNo: 99.9
+polymarketVolume: 9663
 polymarketUrl: "https://polymarket.com/event/will-ethena-reach-0pt28-in-march"
-analysisDate: 2026-03-28
 ---
 
 # Ethena Price Target Analysis

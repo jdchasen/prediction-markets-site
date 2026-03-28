@@ -3,7 +3,7 @@ title: "Will Al Carns be the next Prime Minister of the United Kingdom in 2026?"
 description: "Will Al Carns be the next Prime Minister of the United Kingdom in 2026? Odds: 1.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Al Carns be the next Prime Minister of the United Kingdom in 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-28
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
