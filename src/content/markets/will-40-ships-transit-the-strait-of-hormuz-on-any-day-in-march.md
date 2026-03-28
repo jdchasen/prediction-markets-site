@@ -3,8 +3,8 @@ title: "Will 40 ships transit the Strait of Hormuz on any day in March?"
 description: "Will 40 ships transit the Strait of Hormuz on any day in March? Odds: 4.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will 40 ships transit the Strait of Hormuz on any day in March?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-27
+status: "settled"
+lastUpdated: 2026-03-28
 expiryDate: 2026-03-31
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 4.2

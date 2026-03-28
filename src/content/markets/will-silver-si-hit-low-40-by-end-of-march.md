@@ -3,8 +3,8 @@ title: "Will Silver (SI) hit (LOW) $40 by end of March?"
 description: "Will Silver (SI) hit (LOW) $40 by end of March? Odds: 0.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Silver (SI) hit (LOW) $40 by end of March?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-27
+status: "settled"
+lastUpdated: 2026-03-28
 expiryDate: 2026-03-31
 tags: ["politics", "polymarket"]
 polymarketYes: 0.8

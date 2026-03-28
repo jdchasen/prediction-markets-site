@@ -3,8 +3,8 @@ title: "Will Luka Doncic lead the NBA in points during the 2025–26 NBA season?
 description: "Will Luka Doncic lead the NBA in points during the 2025–26 NBA season? Odds: 97.6% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Luka Doncic lead the NBA in points during the 2025–26 NBA season?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-03-27
+status: "settled"
+lastUpdated: 2026-03-28
 expiryDate: 2026-04-12
 tags: ["polymarket", "sports"]
 polymarketYes: 97.6

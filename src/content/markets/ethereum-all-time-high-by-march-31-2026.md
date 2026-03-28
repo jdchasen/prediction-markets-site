@@ -3,8 +3,8 @@ title: "Ethereum all time high by March 31, 2026?"
 description: "Ethereum all time high by March 31, 2026? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Ethereum all time high by March 31, 2026?"
 category: "crypto"
-status: "active"
-lastUpdated: 2026-03-27
+status: "settled"
+lastUpdated: 2026-03-28
 expiryDate: 2026-04-01
 tags: ["crypto", "ethereum", "polymarket"]
 polymarketYes: 0.1

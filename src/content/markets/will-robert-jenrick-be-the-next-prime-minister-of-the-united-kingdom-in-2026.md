@@ -3,8 +3,8 @@ title: "Will Robert Jenrick be the next Prime Minister of the United Kingdom in 
 description: "Will Robert Jenrick be the next Prime Minister of the United Kingdom in 2026? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Robert Jenrick be the next Prime Minister of the United Kingdom in 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-27
+status: "settled"
+lastUpdated: 2026-03-28
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 0.1

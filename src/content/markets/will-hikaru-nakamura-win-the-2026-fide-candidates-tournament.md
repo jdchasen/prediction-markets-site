@@ -1,17 +1,16 @@
 ---
 title: "Will Hikaru Nakamura win the 2026 FIDE Candidates Tournament?"
-description: "Will Hikaru Nakamura win the 2026 FIDE Candidates Tournament? Odds: 22.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Hikaru Nakamura win the 2026 FIDE Candidates Tournament? Odds: 20.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Hikaru Nakamura win the 2026 FIDE Candidates Tournament?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-03-27
+lastUpdated: 2026-03-28
 expiryDate: 2026-04-17
 tags: ["politics", "polymarket"]
-polymarketYes: 22.5
-polymarketNo: 77.5
-polymarketVolume: 95733
+polymarketYes: 20.5
+polymarketNo: 79.5
+polymarketVolume: 98530
 polymarketUrl: "https://polymarket.com/event/will-hikaru-nakamura-win-the-2026-fide-candidates-tournament"
-analysisDate: 2026-03-27
 ---
 
 # Analysis

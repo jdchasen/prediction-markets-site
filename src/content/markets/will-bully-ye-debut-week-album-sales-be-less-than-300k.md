@@ -3,8 +3,8 @@ title: "Will 'BULLY' - Ye debut week album sales be less than 300k?"
 description: "Will 'BULLY' - Ye debut week album sales be less than 300k? Odds: 72.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will 'BULLY' - Ye debut week album sales be less than 300k?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-27
+status: "settled"
+lastUpdated: 2026-03-28
 expiryDate: 2026-04-06
 tags: ["politics", "polymarket"]
 polymarketYes: 72.5

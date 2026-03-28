@@ -3,8 +3,8 @@ title: "Will there be between 20 and 30 average daily transits of the Strait of 
 description: "Will there be between 20 and 30 average daily transits of the Strait of Hormuz on March 31? Odds: 0.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will there be between 20 and 30 average daily transits of the Strait of Hormuz on March 31?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-27
+status: "settled"
+lastUpdated: 2026-03-28
 expiryDate: 2026-03-31
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 0.5

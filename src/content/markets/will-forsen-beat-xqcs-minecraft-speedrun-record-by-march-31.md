@@ -3,8 +3,8 @@ title: "Will Forsen beat xQc's Minecraft speedrun record by March 31?"
 description: "Will Forsen beat xQc's Minecraft speedrun record by March 31? Odds: 3.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Forsen beat xQc's Minecraft speedrun record by March 31?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-27
+status: "settled"
+lastUpdated: 2026-03-28
 expiryDate: 2026-03-31
 tags: ["politics", "polymarket"]
 polymarketYes: 3.5

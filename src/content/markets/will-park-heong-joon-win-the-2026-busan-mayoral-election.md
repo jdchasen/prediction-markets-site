@@ -3,8 +3,8 @@ title: "Will Park Heong-joon win the 2026 Busan Mayoral Election?"
 description: "Will Park Heong-joon win the 2026 Busan Mayoral Election? Odds: 24.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Park Heong-joon win the 2026 Busan Mayoral Election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-27
+status: "settled"
+lastUpdated: 2026-03-28
 expiryDate: 2026-06-03
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 24.5

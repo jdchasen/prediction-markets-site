@@ -4,14 +4,13 @@ description: "Will Mathilde Panot win the 2027 French presidential election? Odd
 marketQuestion: "Will Mathilde Panot win the 2027 French presidential election?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-03-27
+lastUpdated: 2026-03-28
 expiryDate: 2027-04-30
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.1
 polymarketNo: 99.9
-polymarketVolume: 987877
+polymarketVolume: 991023
 polymarketUrl: "https://polymarket.com/event/will-mathilde-panot-win-the-2027-french-presidential-election"
-analysisDate: 2026-03-27
 ---
 
 The prediction market gives Mathilde Panot, the current head of France's far-left La France Insoumise (LFI) party, virtually no chance of winning the 2027 presidential election, reflecting her position as a radical opposition figure in a French political landscape that has historically rejected extremes in runoff elections.

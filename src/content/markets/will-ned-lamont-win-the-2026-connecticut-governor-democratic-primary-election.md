@@ -4,14 +4,13 @@ description: "Will Ned Lamont win the 2026 Connecticut Governor Democratic prima
 marketQuestion: "Will Ned Lamont win the 2026 Connecticut Governor Democratic primary election?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-03-27
+lastUpdated: 2026-03-28
 expiryDate: 2026-08-11
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 92.5
 polymarketNo: 7.5
 polymarketVolume: 9590
 polymarketUrl: "https://polymarket.com/event/will-ned-lamont-win-the-2026-connecticut-governor-democratic-primary-election"
-analysisDate: 2026-03-27
 ---
 
 # 2026 Connecticut Democratic Primary for Governor

@@ -1,17 +1,16 @@
 ---
 title: "Will Larry Page be richest person on December 31?"
-description: "Will Larry Page be richest person on December 31? Odds: 1.2% YES on Polymarket. See live prices and trade this market."
+description: "Will Larry Page be richest person on December 31? Odds: 0.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Larry Page be richest person on December 31?"
 category: "politics"
-status: "settled"
-lastUpdated: 2026-03-27
+status: "active"
+lastUpdated: 2026-03-28
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 1.2
-polymarketNo: 98.8
-polymarketVolume: 99344
+polymarketYes: 0.9
+polymarketNo: 99.1
+polymarketVolume: 99820
 polymarketUrl: "https://polymarket.com/event/will-larry-page-be-richest-person-on-december-31"
-analysisDate: 2026-03-26
 ---
 
 # Larry Page Wealth Ranking Analysis

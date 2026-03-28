@@ -3,8 +3,8 @@ title: "Will Eric Swalwell win the California Governor Election in 2026?"
 description: "Will Eric Swalwell win the California Governor Election in 2026? Odds: 60.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Eric Swalwell win the California Governor Election in 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-27
+status: "settled"
+lastUpdated: 2026-03-28
 expiryDate: 2026-11-03
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 60.5

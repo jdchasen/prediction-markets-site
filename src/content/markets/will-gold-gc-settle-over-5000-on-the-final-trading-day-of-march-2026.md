@@ -3,8 +3,8 @@ title: "Will Gold (GC) settle over $5,000 on the final trading day of March 2026
 description: "Will Gold (GC) settle over $5,000 on the final trading day of March 2026? Odds: 4.3% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Gold (GC) settle over $5,000 on the final trading day of March 2026?"
 category: "finance"
-status: "active"
-lastUpdated: 2026-03-27
+status: "settled"
+lastUpdated: 2026-03-28
 expiryDate: 2026-03-31
 tags: ["finance", "polymarket"]
 polymarketYes: 4.3

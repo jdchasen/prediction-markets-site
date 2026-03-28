@@ -1,19 +1,20 @@
 ---
 title: "Will the Fed’s lower bound reach 0% or lower before 2027?"
-description: "Will the Fed’s lower bound reach 0% or lower before 2027? Odds: 5.0% YES on Polymarket. See live prices and trade this market."
+description: "Will the Fed’s lower bound reach 0% or lower before 2027? Odds: 6.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Fed’s lower bound reach 0% or lower before 2027?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-03-27
+lastUpdated: 2026-03-28
 expiryDate: 2026-12-31
 tags: ["federal-reserve", "politics", "polymarket"]
-polymarketYes: 5.0
-polymarketNo: 95.0
-polymarketVolume: 9721
+polymarketYes: 6.0
+polymarketNo: 94.0
+polymarketVolume: 9894
 polymarketUrl: "https://polymarket.com/event/will-the-feds-lower-bound-reach-0-or-lower-before-2027-196-363-557-457-329-251-881"
+analysisDate: 2026-03-28
 ---
 
-# Federal Funds Rate at Zero or Below Before 2027
+# Federal Reserve Lower Bound Analysis
 
 ## Current Odds
 
@@ -23,33 +24,31 @@ polymarketUrl: "https://polymarket.com/event/will-the-feds-lower-bound-reach-0-o
 
 ## Market Analysis
 
-The market is pricing in only a 6% probability that the Fed's lower bound will hit 0% or lower within the next two years, reflecting current consensus that economic conditions would need to deteriorate substantially to warrant such dramatic monetary easing. This matters because it signals market confidence in either sustained economic growth or at least moderate resilience, though tail-risk scenarios—severe recession, financial crisis, or deflationary shock—could quickly rewrite these odds.
+The market is pricing in a 6% probability that the Fed's policy rate hits zero or below within the next two years, reflecting current consensus that aggressive rate cuts are unlikely despite persistent inflation concerns and potential economic slowdown. This matters now because Fed decisions over the next 12-18 months will heavily determine whether deflationary pressures or sticky inflation dominate, fundamentally reshaping both monetary and fiscal policy heading into 2026-2027.
 
-The bull case rests on plausible recessionary scenarios that could materialize within the betting window. A sharp economic contraction triggered by credit market dysfunction, commercial real estate collapse, or geopolitical crisis could force the Fed into emergency rate cuts. The labor market remains the key vulnerability; if unemployment spikes from current levels (around 4.2%) to 6%+ within 12-18 months, the Fed would likely cut aggressively. Inflation cooling faster than expected could also prompt deeper cuts if deflation risks emerge. The 2024-2025 earnings season and Q1 2025 GDP reports will be critical data points for assessing recession probability.
+The bull case for YES relies on a severe recession scenario: if unemployment spikes sharply, GDP contracts meaningfully, or financial conditions tighten dramatically, the Fed would feel compelled to cut aggressively toward zero or negative rates as a last-resort stimulus measure. The 2024-2025 economic data will be crucial here—corporate earnings misses, credit market stress, or a hard landing would rapidly shift expectations. However, the bear case is substantially stronger. Inflation remains above the Fed's 2% target in most measures, core PCE has proven sticky, and Fed Chair Jerome Powell has signaled hawkish resolve. The Fed typically cuts only after clear evidence of economic deterioration, and current labor market resilience, wage growth, and Treasury yields suggest the committee sees little need for emergency accommodation. A 0% or lower bound would require not just normal recession dynamics but Depression-like conditions, which markets currently assign very low probability.
 
-The bear case—reflected in the 94% NO odds—relies on the Fed's demonstrated commitment to maintaining rates well above zero even during soft-landing scenarios. Current Fed guidance suggests rates could stay elevated through mid-2025 if inflation remains sticky, and policymakers have explicitly rejected negative rate policy as practiced in Europe and Japan. Barring a genuine financial systemic crisis, the Fed is more likely to cut gradually from 4-5% down to 2-3% rather than plunge to zero. The political environment also matters: a change in Fed leadership after Chair Powell's term ends in 2026 could shift policy philosophy, but incoming leadership would need crisis-level conditions to justify near-zero rates.
-
-Traders should monitor Q1-Q2 2025 economic data closely, especially January's PCE inflation reports and February's jobs report, which will establish whether the Fed maintains its hawkish hold or accelerates cuts. The 2024 election outcome and incoming administration's fiscal policy stance could reshape recession risk; large-scale stimulus could inflate away deflationary pressures, while austerity could increase them. Watch for any credit stress signals in corporate bond spreads, bank lending standards surveys, or emerging market turmoil—these would be the earliest signs the market is repricing toward recession scenarios that justify this bet.
+Watch the quarterly PCE releases (January, April, July, October) and monthly jobs reports for signs of demand destruction. The December 2024 FOMC meeting and Q1 2025 earnings season will be critical inflection points—if companies guide down sharply or mass layoffs begin, recession fears spike and YES odds could jump 3-5x. Additionally, any Treasury market dysfunction, credit spread widening, or geopolitical shock that disrupts financial conditions could accelerate the timeline. Conversely, stable inflation readings and steady labor force participation would reinforce the bear case and keep YES odds anchored near 5-10%.
 
 ## Related Markets
 
-- [Will Bulgaria win Eurovision 2026?](/odds/will-bulgaria-win-eurovision-2026) — 1% YES
-- [Will Clémentine Autain win the 2027 French presidential election?](/odds/will-clmentine-autain-win-the-2027-french-presidential-election) — 0% YES
-- [Will the Boston Red Sox win the 2026 World Series?](/odds/will-the-boston-red-sox-win-the-2026-world-series) — 5% YES
+- [Will Erika Kirk win the 2028 Republican presidential nomination?](/odds/will-erika-kirk-win-the-2028-republican-presidential-nomination) — 0% YES
+- [Will Jon Stewart win the 2028 Democratic presidential nomination?](/odds/will-jon-stewart-win-the-2028-democratic-presidential-nomination) — 2% YES
+- [Putin out as President of Russia by June 30?](/odds/putin-out-as-president-of-russia-by-june-30) — 4% YES
 
 ## Frequently Asked Questions
 
-### What specific economic data would trigger significant repricing of this market toward YES?
+### Why is this market trading at only 6% when historical precedent shows the Fed cuts to zero in every major crisis?
 
-A sharp rise in unemployment (breaking above 5.5%), negative GDP growth, or widening credit spreads would signal recession risk; a core PCE reading below 2% with declining inflation momentum would suggest deflation fears warranting deeper cuts.
+The Fed has only reached zero during the 2008 financial crisis and COVID-19 shock—two Black Swan events. The market is pricing the probability of *another* systemic crisis of that magnitude occurring specifically between now and end-2026, not the general ability to cut to zero.
 
-### Why doesn't the Fed's historical reluctance to go negative (unlike ECB or BoJ) drive these odds even lower?
+### If the Fed starts cutting rates in 2025, doesn't that increase the probability of reaching zero?
 
-The 6% reflects genuine tail risk—if financial system stability required near-zero rates, policy rules could be broken; the odds acknowledge non-zero probability of Black Swan scenarios like 2008-style crises rather than baseline economic management.
+Not necessarily. Rate cuts from 4-5% toward 2-3% during a mild slowdown is the base case and already priced in; reaching zero requires those cuts to continue past neutral into emergency territory, which only happens in severe economic collapse scenarios.
 
-### How much does Fed leadership transition in 2026 affect this market's probability?
+### Could negative rates via other mechanisms (like NIRP on bank reserves) count toward YES before traditional 0% is hit?
 
-A new chair could shift policy philosophy, but incoming leadership would still face the same constraints—going negative requires crisis conditions that are already rare; the leadership change matters more for determining the *floor* (2-3% range) than the zero-or-below threshold.
+The market language specifies "0% or lower," which typically means the federal funds target rate itself; Fed reverse repo rates or other technical facilities wouldn't normally qualify unless the contract explicitly defines negative rates as such, so clarify the exact resolution criteria before betting large.
 
 ## Learn More
 

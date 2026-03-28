@@ -1,17 +1,16 @@
 ---
 title: "Will Luiz Inácio Lula da Silva qualify for Brazil's presidential runoff?"
-description: "Will Luiz Inácio Lula da Silva qualify for Brazil's presidential runoff? Odds: 71.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Luiz Inácio Lula da Silva qualify for Brazil's presidential runoff? Odds: 72.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Luiz Inácio Lula da Silva qualify for Brazil's presidential runoff?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-03-27
+lastUpdated: 2026-03-28
 expiryDate: 2026-10-04
 tags: ["politics", "polymarket"]
-polymarketYes: 71.5
-polymarketNo: 28.5
-polymarketVolume: 96353
+polymarketYes: 72.5
+polymarketNo: 27.5
+polymarketVolume: 96357
 polymarketUrl: "https://polymarket.com/event/will-luiz-incio-lula-da-silva-qualify-for-brazils-presidential-runoff"
-analysisDate: 2026-03-27
 ---
 
 # Lula's 2026 Runoff Odds: Strong Favorite to Advance But Vulnerable to Economic Headwinds

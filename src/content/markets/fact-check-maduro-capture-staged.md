@@ -3,8 +3,8 @@ title: "Fact Check: Maduro capture staged?"
 description: "Fact Check: Maduro capture staged? Odds: 0.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Fact Check: Maduro capture staged?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-27
+status: "settled"
+lastUpdated: 2026-03-28
 expiryDate: 2026-03-31
 tags: ["politics", "polymarket"]
 polymarketYes: 0.4

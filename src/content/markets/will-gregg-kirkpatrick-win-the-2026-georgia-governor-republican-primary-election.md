@@ -3,8 +3,8 @@ title: "Will Gregg Kirkpatrick win the 2026 Georgia Governor Republican primary 
 description: "Will Gregg Kirkpatrick win the 2026 Georgia Governor Republican primary election? Odds: 1.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Gregg Kirkpatrick win the 2026 Georgia Governor Republican primary election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-27
+status: "settled"
+lastUpdated: 2026-03-28
 expiryDate: 2026-05-19
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 1.1

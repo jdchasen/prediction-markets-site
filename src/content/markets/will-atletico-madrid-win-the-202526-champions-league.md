@@ -3,8 +3,8 @@ title: "Will Atletico Madrid win the 2025–26 Champions League?"
 description: "Will Atletico Madrid win the 2025–26 Champions League? Odds: 3.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Atletico Madrid win the 2025–26 Champions League?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-03-27
+status: "settled"
+lastUpdated: 2026-03-28
 expiryDate: 2026-05-31
 tags: ["polymarket", "sports"]
 polymarketYes: 3.2
