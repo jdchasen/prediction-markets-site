@@ -9,9 +9,8 @@ expiryDate: 2028-11-07
 tags: ["politics", "polymarket"]
 polymarketYes: 2.2
 polymarketNo: 97.8
-polymarketVolume: 9698879
+polymarketVolume: 9813109
 polymarketUrl: "https://polymarket.com/event/will-jon-stewart-win-the-2028-democratic-presidential-nomination-518"
-analysisDate: 2026-03-29
 ---
 
 The market prices Jon Stewart's chances of winning the 2028 Democratic nomination at just over 2%, reflecting extreme skepticism that the comedian-turned-political commentator will make a serious White House run despite his cultural influence and progressive credibility. This matters because Stewart's return to "The Daily Show" in 2024 and his vocal advocacy on issues like veteran healthcare have reignited speculation about his political ambitions, even as he's repeatedly dismissed the idea.

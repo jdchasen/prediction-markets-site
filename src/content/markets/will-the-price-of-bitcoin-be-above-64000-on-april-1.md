@@ -3,7 +3,7 @@ title: "Will the price of Bitcoin be above $64,000 on April 1?"
 description: "Will the price of Bitcoin be above $64,000 on April 1? Odds: 82.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the price of Bitcoin be above $64,000 on April 1?"
 category: "crypto"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-29
 expiryDate: 2026-04-01
 tags: ["bitcoin", "crypto", "polymarket"]

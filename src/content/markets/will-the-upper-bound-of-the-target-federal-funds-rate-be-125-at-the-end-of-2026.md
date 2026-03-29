@@ -11,7 +11,6 @@ polymarketYes: 0.5
 polymarketNo: 99.5
 polymarketVolume: 97197
 polymarketUrl: "https://polymarket.com/event/will-the-upper-bound-of-the-target-federal-funds-rate-be-1pt25-at-the-end-of-2026-681"
-analysisDate: 2026-03-29
 ---
 
 # Federal Funds Rate Target Analysis: 2026 Year-End Outlook

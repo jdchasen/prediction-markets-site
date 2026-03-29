@@ -3,7 +3,7 @@ title: "Will Mother's Milk die in \"The Boys: Season 5\"?"
 description: "Will Mother's Milk die in \"The Boys: Season 5\"? Odds: 21.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Mother's Milk die in \"The Boys: Season 5\"?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-29
 expiryDate: 2026-05-20
 tags: ["politics", "polymarket"]

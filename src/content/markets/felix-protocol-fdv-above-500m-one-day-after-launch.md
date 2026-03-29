@@ -1,17 +1,16 @@
 ---
 title: "Felix Protocol FDV above $500M one day after launch?"
-description: "Felix Protocol FDV above $500M one day after launch? Odds: 2.4% YES on Polymarket. See live prices and trade this market."
+description: "Felix Protocol FDV above $500M one day after launch? Odds: 2.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Felix Protocol FDV above $500M one day after launch?"
 category: "crypto"
 status: "active"
 lastUpdated: 2026-03-29
 expiryDate: 2027-01-01
 tags: ["crypto", "polymarket"]
-polymarketYes: 2.4
-polymarketNo: 97.6
+polymarketYes: 2.5
+polymarketNo: 97.5
 polymarketVolume: 9856
 polymarketUrl: "https://polymarket.com/event/felix-protocol-fdv-above-500m-one-day-after-launch-477-288"
-analysisDate: 2026-03-29
 ---
 
 # Felix Protocol FDV Analysis

@@ -1,17 +1,16 @@
 ---
 title: "Will Extended launch a token by June 30 2026?"
-description: "Will Extended launch a token by June 30 2026? Odds: 17.0% YES on Polymarket. See live prices and trade this market."
+description: "Will Extended launch a token by June 30 2026? Odds: 17.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Extended launch a token by June 30 2026?"
 category: "crypto"
 status: "active"
 lastUpdated: 2026-03-29
 expiryDate: 2027-01-01
 tags: ["crypto", "polymarket"]
-polymarketYes: 17.0
-polymarketNo: 83.0
+polymarketYes: 17.5
+polymarketNo: 82.5
 polymarketVolume: 9835
 polymarketUrl: "https://polymarket.com/event/will-extended-launch-a-token-by-june-30-2026"
-analysisDate: 2026-03-29
 ---
 
 # Extended Token Launch Market Analysis

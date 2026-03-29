@@ -3,7 +3,7 @@ title: "Colorado Rockies vs. Miami Marlins"
 description: "Colorado Rockies vs. Miami Marlins Odds: 36.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Colorado Rockies vs. Miami Marlins"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-29
 expiryDate: 2026-04-05
 tags: ["politics", "polymarket"]

@@ -3,7 +3,7 @@ title: "Lai Ching-te impeached by June 30?"
 description: "Lai Ching-te impeached by June 30? Odds: 3.6% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Lai Ching-te impeached by June 30?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-29
 expiryDate: 2026-06-30
 tags: ["ai", "politics", "polymarket"]

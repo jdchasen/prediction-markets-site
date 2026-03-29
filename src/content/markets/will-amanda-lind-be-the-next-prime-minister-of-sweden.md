@@ -9,9 +9,8 @@ expiryDate: 2026-09-13
 tags: ["politics", "polymarket"]
 polymarketYes: 0.4
 polymarketNo: 99.7
-polymarketVolume: 9804
+polymarketVolume: 9824
 polymarketUrl: "https://polymarket.com/event/will-amanda-lind-be-the-next-prime-minister-of-sweden"
-analysisDate: 2026-03-29
 ---
 
 # Amanda Lind Prime Minister Analysis

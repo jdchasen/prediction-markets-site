@@ -3,7 +3,7 @@ title: "Will Israel or the US target Fordow nuclear facility?"
 description: "Will Israel or the US target Fordow nuclear facility? Odds: 7.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Israel or the US target Fordow nuclear facility?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-29
 tags: ["politics", "polymarket"]
 polymarketYes: 7.5

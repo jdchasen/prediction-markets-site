@@ -3,55 +3,55 @@ title: "Will Clémence Guetté win the 2027 French presidential election?"
 description: "Will Clémence Guetté win the 2027 French presidential election? Odds: 0.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Clémence Guetté win the 2027 French presidential election?"
 category: "politics"
-status: "settled"
-lastUpdated: 2026-03-04
+status: "active"
+lastUpdated: 2026-03-29
 expiryDate: 2027-04-30
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.2
 polymarketNo: 99.8
-polymarketVolume: 98308
+polymarketVolume: 972555
 polymarketUrl: "https://polymarket.com/event/will-clmence-guett-win-the-2027-french-presidential-election"
-analysisDate: 2026-03-04
+analysisDate: 2026-03-29
 ---
 
-The prediction market gives La France Insoumise deputy Clémence Guetté virtually no chance of winning the 2027 French presidential election, reflecting her limited national profile and the structural challenges facing far-left candidates in France's two-round system.
+The market prices Clémence Guetté, a far-left France Insoumise (LFI) deputy, as having virtually no chance at the French presidency, reflecting her position as a backbench National Assembly member with minimal national recognition and LFI's internal divisions over who will succeed Jean-Luc Mélenchon as their standard-bearer.
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.2% | 99.8% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.2% | 99.8% | $973K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The bear case is straightforward and explains the near-zero odds. Guetté, elected to represent Seine-Saint-Denis's 9th constituency in 2022, remains a backbench member of the National Assembly with minimal name recognition outside activist circles. Jean-Luc Mélenchon remains the dominant figure in La France Insoumise and secured 22% in the 2022 presidential first round; any LFI candidacy would almost certainly go through him or a high-profile successor like Manuel Bompard. The French presidential system heavily favors candidates who can build coalitions for the runoff, and polling consistently shows far-left candidates struggle to expand beyond their base of 20-25%. Guetté would also need to navigate LFI's internal selection process, where Mélenchon's influence remains decisive.
+The bear case is straightforward: Guetté lacks the national profile, party infrastructure, and broad appeal necessary for a presidential run. LFI remains dominated by Mélenchon's personality, and potential 2027 candidates like Manuel Bompard or Mathilde Panot have stronger claims to party leadership. The French far-left has historically struggled to unite behind lesser-known figures, and Guetté's legislative record focuses on environmental issues without the populist economic messaging that drove Mélenchon's 22% showing in 2022. France's two-round system requires either consolidating the entire left or breaking into the top two—both extremely difficult for a candidate polling in the low single digits if at all.
 
-The bull case requires a series of improbable developments. If Mélenchon definitively steps aside and major LFI figures like Bompard or Mathilde Panot decline to run, a younger candidate like Guetté could emerge as a generational change candidate. Her profile as a feminist activist and younger woman could theoretically appeal beyond traditional LFI demographics if the political landscape shifts dramatically. A major economic crisis or social upheaval between now and 2027 could create space for outsider candidates, similar to how Macron's 2017 victory upended traditional party structures.
+The bull case requires LFI's complete implosion and reconstitution around a fresh face. If Mélenchon's preferred successors are tainted by party infighting or fail to distinguish themselves from his increasingly unpopular brand, LFI might turn to a younger, less controversial figure. Guetté could position herself as a unity candidate if the 2027 left primaries (likely held in late 2026) become deadlocked between establishment socialists and orthodox Mélenchonists. Environmental catastrophes or climate-driven protests between now and 2026 could elevate her portfolio. The odds would need legislative elections or major political realignments to give her visibility before primary season begins.
 
-Key catalysts include LFI's candidate selection timeline, likely to begin in late 2026 or early 2027, and Mélenchon's public statements about his political future. Watch for polling of potential LFI candidates once the race crystallizes in 2026, legislative activity that could raise Guetté's profile, and the results of the 2026 local elections that might reshape the left's dynamics. The first round occurs on April 10, 2027, with the runoff on April 24, 2027. Any significant movement in this market would require Guetté announcing a candidacy and securing LFI's nomination, neither of which appears remotely likely given current party dynamics.
+Key catalysts include LFI's 2025-2026 internal jockeying for Mélenchon's succession, any potential left-wing primary announcements (historically held 6-8 months before the April election), and the 2026 municipal elections that could showcase rising political talent. Watch for Guetté's media appearances on climate legislation and whether she breaks with party orthodoxy on contentious issues. The European Parliament's climate policy debates through 2025-2026 may create opportunities for French environmental politicians to gain prominence, though this typically favors Green Party candidates over LFI members.
 
 ## Related Markets
 
-- [Will Jesus Christ return before GTA VI?](/odds/will-jesus-christ-return-before-gta-vi) — 48% YES
-- [China x Taiwan military clash before 2027?](/odds/china-x-taiwan-military-clash-before-2027) — 16% YES
-- [Trump-Denmark Greenland deal signed by March 31?](/odds/trump-denmark-greenland-deal-signed-by-march-31) — 2% YES
+- [Will Jon Stewart win the 2028 Democratic presidential nomination?](/odds/will-jon-stewart-win-the-2028-democratic-presidential-nomination) — 2% YES
+- [Will Mathilde Panot win the 2027 French presidential election?](/odds/will-mathilde-panot-win-the-2027-french-presidential-election) — 0% YES
+- [Jerome Powell out as Fed Chair by March 31, 2026?](/odds/jerome-powell-out-as-fed-chair-by-march-31-2026) — 0% YES
 
 ## Frequently Asked Questions
 
-### Why isn't Jean-Luc Mélenchon himself more likely to be LFI's 2027 candidate instead of Guetté?
+### Could Clémence Guetté run as a Green Party candidate instead of representing LFI?
 
-Mélenchon will be 75 in 2027 and has run three times already, though he hasn't ruled out another campaign. If LFI seeks a new face, party leaders like Manuel Bompard or Mathilde Panot would be far ahead of Guetté in the succession queue.
+While she focuses on environmental issues, Guetté is firmly positioned within LFI's organizational structure and would face resistance from established Green Party (EELV) figures who maintain their own presidential ambitions for 2027.
 
-### Could Guetté run as an independent or with a different left-wing party if LFI doesn't select her?
+### What would need to happen for these odds to reach even 5%?
 
-Running outside LFI would effectively eliminate any path to victory, as she would lack party infrastructure, funding, and the ability to reach the 500 mayor signatures required to appear on the ballot. The market specifically asks about winning, which requires major party backing.
+Guetté would need to either win or place second in a left-wing primary, which requires LFI formally selecting her as their candidate over higher-profile members—an outcome that would demand major party leadership changes or scandal eliminating current frontrunners.
 
-### What would Clémence Guetté need to do in the National Assembly to significantly improve these odds?
+### Has any candidate with similar low name recognition won a French presidential election?
 
-She would need to become a nationally recognized figure through high-profile legislative initiatives, media presence, or leadership on major issues that receive sustained coverage—a transformation that typically takes years and would still leave her behind established LFI leadership in any nomination contest.
+Emmanuel Macron in 2017 came from relative obscurity outside political circles, but he had served as Economy Minister and launched his movement 12 months before the election—Guetté has neither cabinet experience nor an independent political vehicle with two years remaining.
 
 ## Learn More
 
-- [Will Khamenei Lose Power? Market Shows 99.9% Odds](/blog/will-khamenei-lose-power-market-shows-999-odds)
-- [Will Khamenei Lose Power? Market Says 100%](/blog/will-khamenei-lose-power-market-says-100)
+- [Will Oil Hit $100? March Crude Prediction Market Odds](/blog/will-oil-hit-100-march-crude-prediction-market-odds)
+- [Will ETH Hit $4,500 in 2026? Live Market Odds](/blog/will-ethereum-reach-4500-in-2026-what-prediction-markets-say)
 

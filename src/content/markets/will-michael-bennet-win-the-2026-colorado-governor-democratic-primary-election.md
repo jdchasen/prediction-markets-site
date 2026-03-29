@@ -1,17 +1,16 @@
 ---
 title: "Will Michael Bennet win the 2026 Colorado Governor Democratic primary election?"
-description: "Will Michael Bennet win the 2026 Colorado Governor Democratic primary election? Odds: 79.0% YES on Polymarket. See live prices and trade this market."
+description: "Will Michael Bennet win the 2026 Colorado Governor Democratic primary election? Odds: 78.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Michael Bennet win the 2026 Colorado Governor Democratic primary election?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-03-29
 expiryDate: 2026-06-30
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 79.0
-polymarketNo: 21.0
-polymarketVolume: 9744
+polymarketYes: 78.5
+polymarketNo: 21.5
+polymarketVolume: 9822
 polymarketUrl: "https://polymarket.com/event/will-michael-bennet-win-the-2026-colorado-governor-democratic-primary-election"
-analysisDate: 2026-03-29
 ---
 
 # Michael Bennett's 2026 Colorado Democratic Primary Dominance

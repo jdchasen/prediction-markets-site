@@ -3,7 +3,7 @@ title: "Will Tread launch a token by March 31, 2026?"
 description: "Will Tread launch a token by March 31, 2026? Odds: 0.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Tread launch a token by March 31, 2026?"
 category: "crypto"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-29
 expiryDate: 2027-01-01
 tags: ["crypto", "polymarket"]

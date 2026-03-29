@@ -3,7 +3,7 @@ title: "Will Cape Verde win the 2026 FIFA World Cup?"
 description: "Will Cape Verde win the 2026 FIFA World Cup? Odds: 0.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Cape Verde win the 2026 FIFA World Cup?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-29
 expiryDate: 2026-07-20
 tags: ["polymarket", "sports"]

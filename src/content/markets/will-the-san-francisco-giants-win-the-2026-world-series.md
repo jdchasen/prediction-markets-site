@@ -3,7 +3,7 @@ title: "Will the San Francisco Giants win the 2026 World Series?"
 description: "Will the San Francisco Giants win the 2026 World Series? Odds: 0.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the San Francisco Giants win the 2026 World Series?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-29
 expiryDate: 2026-10-31
 tags: ["politics", "polymarket"]

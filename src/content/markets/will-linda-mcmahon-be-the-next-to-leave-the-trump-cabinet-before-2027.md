@@ -3,7 +3,7 @@ title: "Will Linda McMahon be the next to leave the Trump Cabinet before 2027?"
 description: "Will Linda McMahon be the next to leave the Trump Cabinet before 2027? Odds: 0.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Linda McMahon be the next to leave the Trump Cabinet before 2027?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-29
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket", "trump"]

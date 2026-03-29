@@ -9,9 +9,8 @@ expiryDate: 2027-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 32.5
 polymarketNo: 67.5
-polymarketVolume: 98556
+polymarketVolume: 98571
 polymarketUrl: "https://polymarket.com/event/maduro-guilty-of-all-counts"
-analysisDate: 2026-03-29
 ---
 
 Traders are currently pricing in just under a one-in-three chance that Venezuelan President Nicolás Maduro will be found guilty on all counts in what appears to be a hypothetical international criminal proceeding, though the three-year timeline to December 2027 reflects significant uncertainty about both jurisdiction and enforcement mechanisms.

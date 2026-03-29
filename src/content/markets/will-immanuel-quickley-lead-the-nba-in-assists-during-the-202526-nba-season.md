@@ -1,17 +1,16 @@
 ---
 title: "Will Immanuel Quickley lead the NBA in assists during the 2025–26 NBA season?"
-description: "Will Immanuel Quickley lead the NBA in assists during the 2025–26 NBA season? Odds: 0.8% YES on Polymarket. See live prices and trade this market."
+description: "Will Immanuel Quickley lead the NBA in assists during the 2025–26 NBA season? Odds: 0.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Immanuel Quickley lead the NBA in assists during the 2025–26 NBA season?"
 category: "sports"
 status: "active"
 lastUpdated: 2026-03-29
 expiryDate: 2026-04-12
 tags: ["polymarket", "sports"]
-polymarketYes: 0.8
-polymarketNo: 99.2
-polymarketVolume: 99367
+polymarketYes: 0.4
+polymarketNo: 99.6
+polymarketVolume: 99403
 polymarketUrl: "https://polymarket.com/event/nba-2025-26-apg-leader-immanuel-quickley"
-analysisDate: 2026-03-29
 ---
 
 Immanuel Quickley leading the NBA in assists at less than 1% probability reflects the extreme long-shot nature of this wager, as the Toronto Raptors guard has never approached elite playmaking numbers and faces entrenched competition from established assist leaders. The market matters primarily as a speculative lottery ticket on a dramatic role transformation.

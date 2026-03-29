@@ -3,7 +3,7 @@ title: "Will Fidesz-KDNP win at least 80 seats?"
 description: "Will Fidesz-KDNP win at least 80 seats? Odds: 58.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Fidesz-KDNP win at least 80 seats?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-29
 expiryDate: 2026-04-12
 tags: ["politics", "polymarket"]

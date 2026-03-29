@@ -3,7 +3,7 @@ title: "Will the price of Bitcoin be above $70,000 on April 3?"
 description: "Will the price of Bitcoin be above $70,000 on April 3? Odds: 21.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the price of Bitcoin be above $70,000 on April 3?"
 category: "crypto"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-29
 expiryDate: 2026-04-03
 tags: ["bitcoin", "crypto", "polymarket"]

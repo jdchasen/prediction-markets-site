@@ -11,7 +11,6 @@ polymarketYes: 0.3
 polymarketNo: 99.7
 polymarketVolume: 9711
 polymarketUrl: "https://polymarket.com/event/will-chung-jin-suk-win-the-2026-chungcheongnam-province-gubernatorial-election"
-analysisDate: 2026-03-29
 ---
 
 # Analysis: Chung Jin-suk 2026 Chungcheongnam Gubernatorial Race

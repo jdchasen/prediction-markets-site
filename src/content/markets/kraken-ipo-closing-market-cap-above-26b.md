@@ -1,17 +1,16 @@
 ---
 title: "Kraken IPO closing market cap above $26B?"
-description: "Kraken IPO closing market cap above $26B? Odds: 22.0% YES on Polymarket. See live prices and trade this market."
+description: "Kraken IPO closing market cap above $26B? Odds: 26.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Kraken IPO closing market cap above $26B?"
 category: "finance"
 status: "active"
 lastUpdated: 2026-03-29
 expiryDate: 2027-01-01
 tags: ["finance", "polymarket"]
-polymarketYes: 22.0
-polymarketNo: 78.0
-polymarketVolume: 9850
+polymarketYes: 26.0
+polymarketNo: 74.0
+polymarketVolume: 9870
 polymarketUrl: "https://polymarket.com/event/kraken-ipo-closing-market-cap-above-26b"
-analysisDate: 2026-03-29
 ---
 
 # Kraken IPO Valuation Market Analysis

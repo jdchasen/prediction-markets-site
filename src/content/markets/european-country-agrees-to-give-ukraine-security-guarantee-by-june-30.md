@@ -1,53 +1,54 @@
 ---
 title: "European country agrees to give Ukraine security guarantee by June 30? "
-description: "European country agrees to give Ukraine security guarantee by June 30?  Odds: 11.5% YES on Polymarket. See live prices and trade this market."
+description: "European country agrees to give Ukraine security guarantee by June 30?  Odds: 12.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "European country agrees to give Ukraine security guarantee by June 30? "
 category: "politics"
 status: "active"
 lastUpdated: 2026-03-29
 expiryDate: 2026-06-30
 tags: ["ai", "politics", "polymarket"]
-polymarketYes: 11.5
-polymarketNo: 88.5
-polymarketVolume: 98355
+polymarketYes: 12.5
+polymarketNo: 87.5
+polymarketVolume: 98773
 polymarketUrl: "https://polymarket.com/event/european-country-agrees-to-give-ukraine-security-guarantee-by-june-30"
+analysisDate: 2026-03-29
 ---
 
-The market pricing a European security guarantee for Ukraine at just 11.5% reflects deep skepticism that any individual European nation will formalize a bilateral defense commitment within the next two years, despite ongoing discussions about post-war European security architecture.
+The market assigns just 12.5% probability to a European nation providing Ukraine with formal security guarantees by mid-2026, reflecting deep skepticism about Europe's willingness to make binding defense commitments without U.S. backing. This matters because such guarantees would represent a fundamental shift in European security architecture and Ukraine's post-war status, especially as the country seeks alternatives to NATO membership.
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 11.5% | 88.5% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 12.5% | 87.5% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The bull case hinges on several potential developments: Poland and the Baltic states have shown the strongest willingness to provide hard security guarantees, with Polish defense minister Władysław Kosiniak-Kamysz repeatedly advocating for bilateral defense pacts. The UK already signed a "100-year partnership" with Ukraine in January 2024 that includes mutual security provisions, though whether this meets the market's threshold for a "security guarantee" remains debatable. If Russia achieves significant battlefield gains in 2025, pressure could mount on frontline European states to formalize defense commitments as deterrence. France has also floated the possibility of deploying troops to Ukraine, and any escalation in that direction could formalize into an explicit guarantee. The June 2025 German federal elections could produce a coalition more amenable to robust security commitments, particularly if the CDU/CSU returns to power with a more hawkish stance.
+The bull case centers on several European powers already discussing bilateral security frameworks. Britain and France have floated concepts of security assurances short of Article 5 guarantees, and Poland's increasingly hawkish stance under Donald Tusk could drive Warsaw to offer concrete commitments. The Nordic and Baltic states, having witnessed Russian aggression firsthand, might formalize protection pledges if a ceasefire materializes in 2025. Germany's February 2025 elections could produce a coalition more willing to take leadership on European defense, particularly if the CDU/CSU returns to power. Any negotiated settlement to the current conflict would likely accelerate discussions, as European capitals would face pressure to prevent future Russian aggression through credible deterrence mechanisms.
 
-The bear case is substantially stronger: NATO membership remains Ukraine's primary security goal, and individual bilateral guarantees could actually undermine the push for full Alliance integration by providing a half-measure alternative. Most European nations lack the military capability to credibly guarantee Ukraine's security unilaterally, making such promises politically risky and strategically hollow. The Budapest Memorandum's failure still looms large in Ukrainian thinking—security "assurances" without Article 5-level commitments are viewed skeptically. Legal and constitutional constraints in countries like Germany severely limit the ability to enter binding defense obligations outside NATO frameworks. With the 2025 legislative calendars across Europe already crowded with budget negotiations and domestic concerns, few governments have appetite for controversial foreign defense commitments.
+The bear case recognizes the enormous political and military hurdles to such guarantees. Security guarantees typically require parliamentary ratification and obligate military responses to aggression—commitments that remain politically toxic across much of Western Europe given fiscal constraints and war fatigue. France's tradition of strategic autonomy makes binding commitments unlikely, while Germany's constitutional restrictions and historical reluctance toward military engagement create additional barriers. Eastern European nations willing to offer guarantees lack the military capability to make them credible without broader NATO involvement, which defeats the purpose of bilateral arrangements. The EU's institutional structure makes collective security guarantees legally complex and politically contentious, requiring unanimous agreement from 27 member states with divergent threat perceptions.
 
-Key catalysts include the NATO summit in The Hague scheduled for June 2025, where European security architecture discussions will intensify. The conclusion of any ceasefire negotiations between Russia and Ukraine would create immediate pressure for Western security guarantees to underwrite a settlement. Watch France's defense policy statements in early 2025 as Macron positions for his final years in office. Poland's October 2025 presidential election could also influence Warsaw's willingness to extend formal guarantees. The market's low probability reflects that even enthusiastic European supporters are more likely to pursue collective frameworks or NATO pathways rather than individual bilateral commitments that would leave single nations exposed.
+Key catalysts include the German federal election results expected by late February 2025, any ceasefire negotiations throughout 2025, and the European Council summits in June and December 2025 where defense commitments could be formalized. Traders should monitor statements from the Weimar Triangle (France, Germany, Poland) meetings, track defense spending announcements in national budgets for 2026, and watch for legislative movement on bilateral security treaties in individual parliaments. The NATO summit scheduled for mid-2025 will likely clarify whether Ukraine receives a membership pathway, which would either accelerate European backup guarantees or render them unnecessary.
 
 ## Related Markets
 
-- [Will Erika Kirk win the 2028 Republican presidential nomination?](/odds/will-erika-kirk-win-the-2028-republican-presidential-nomination) — 0% YES
 - [Will Jon Stewart win the 2028 Democratic presidential nomination?](/odds/will-jon-stewart-win-the-2028-democratic-presidential-nomination) — 2% YES
-- [US x Iran ceasefire by April 7?](/odds/us-x-iran-ceasefire-by-april-7) — 10% YES
+- [Will Mathilde Panot win the 2027 French presidential election?](/odds/will-mathilde-panot-win-the-2027-french-presidential-election) — 0% YES
+- [Jerome Powell out as Fed Chair by March 31, 2026?](/odds/jerome-powell-out-as-fed-chair-by-march-31-2026) — 0% YES
 
 ## Frequently Asked Questions
 
-### Would the UK's existing 100-year partnership agreement count as resolving this market YES?
+### What qualifies as a "security guarantee" for this market to resolve YES?
 
-This depends on the market's specific resolution criteria, but most interpretations would require a new agreement signed during the market period. The January 2024 UK-Ukraine partnership predates this market and likely wouldn't qualify unless explicitly included.
+The market requires a formal, binding commitment from a European government to defend Ukraine militarily if attacked, not merely arms supplies or training assistance. This would typically need parliamentary ratification and explicit language obligating military intervention.
 
-### What's the difference between a security guarantee and a security assurance that would matter for this market?
+### Why are the odds so low despite strong European rhetoric supporting Ukraine?
 
-A security guarantee typically involves binding defense commitments similar to NATO Article 5, while assurances are political statements of support without automatic military intervention obligations. Markets like this usually require the stronger guarantee language with specific defense obligations.
+Rhetorical support differs vastly from legally binding defense obligations that could require sending troops into combat against Russia. No European nation has shown willingness to make such commitments without either NATO collective defense mechanisms or substantial U.S. involvement.
 
-### Could an EU-wide security guarantee resolve this market, or does it require an individual country?
+### Could multiple smaller European nations collectively provide guarantees instead of a major power?
 
-The market specifies "European country" (singular), suggesting an individual nation-state commitment would qualify. An EU-wide guarantee might not meet the resolution criteria unless the market creator clarifies that the EU as an entity counts as satisfying the condition.
+Yes, but the credibility question remains central—Baltic states or Poland offering guarantees without backing from France, Germany, or Britain would lack the military capacity for effective deterrence, making such arrangements politically symbolic rather than strategically meaningful.
 
 ## Learn More
 

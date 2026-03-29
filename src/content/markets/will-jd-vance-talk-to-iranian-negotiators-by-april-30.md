@@ -3,7 +3,7 @@ title: "Will JD Vance talk to Iranian negotiators by April 30?"
 description: "Will JD Vance talk to Iranian negotiators by April 30? Odds: 48.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will JD Vance talk to Iranian negotiators by April 30?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-29
 expiryDate: 2026-04-30
 tags: ["politics", "polymarket"]

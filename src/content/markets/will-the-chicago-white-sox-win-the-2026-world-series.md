@@ -9,9 +9,8 @@ expiryDate: 2026-10-31
 tags: ["politics", "polymarket"]
 polymarketYes: 0.4
 polymarketNo: 99.6
-polymarketVolume: 96976
+polymarketVolume: 97377
 polymarketUrl: "https://polymarket.com/event/will-the-chicago-white-sox-win-the-2026-world-series"
-analysisDate: 2026-03-29
 ---
 
 # Chicago White Sox 2026 World Series Market Analysis
