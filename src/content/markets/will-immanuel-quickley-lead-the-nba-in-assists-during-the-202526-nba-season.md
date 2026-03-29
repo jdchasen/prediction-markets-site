@@ -4,52 +4,51 @@ description: "Will Immanuel Quickley lead the NBA in assists during the 2025–2
 marketQuestion: "Will Immanuel Quickley lead the NBA in assists during the 2025–26 NBA season?"
 category: "sports"
 status: "active"
-lastUpdated: 2026-03-28
+lastUpdated: 2026-03-29
 expiryDate: 2026-04-12
 tags: ["polymarket", "sports"]
 polymarketYes: 0.8
 polymarketNo: 99.2
-polymarketVolume: 99352
+polymarketVolume: 99367
 polymarketUrl: "https://polymarket.com/event/nba-2025-26-apg-leader-immanuel-quickley"
+analysisDate: 2026-03-29
 ---
 
-# Immanuel Quickley Assists Leader Analysis
+Immanuel Quickley leading the NBA in assists at less than 1% probability reflects the extreme long-shot nature of this wager, as the Toronto Raptors guard has never approached elite playmaking numbers and faces entrenched competition from established assist leaders. The market matters primarily as a speculative lottery ticket on a dramatic role transformation.
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.4% | 99.6% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.8% | 99.2% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-At 0.4% implied probability, the market is pricing Quickley as an extreme long-shot for the 2025-26 assists title, reflecting both historical precedent and current roster construction. This market matters because it reveals how prediction markets evaluate breakout potential versus entrenched statistical leaders, particularly for a young guard whose usage patterns could shift significantly depending on team needs and lineup changes heading into next season.
+The bull case requires multiple factors aligning perfectly: Quickley would need to assume primary point guard duties with significantly increased usage, the Raptors would need to run an offense entirely through him, and current assist leaders like Trae Young, Tyrese Haliburton, or Luka Dončić would need to miss substantial time or see reduced roles. Quickley averaged 6.8 assists per game during the 2024-25 season when given extended ball-handling opportunities, showing he has playmaking ability. If Toronto commits to building around him as a true floor general and he plays 75+ games while the top assist leaders face injuries during the 2025-26 season, there's a narrow mathematical path.
 
-The bull case rests on Quickley's trajectory with the Toronto Raptors and the possibility of a dramatic offensive role expansion. If the Raptors trade away Chris Boucher or Scottie Barnes before the 2025-26 season begins, Quickley could become the primary ball-handler in a high-usage system, potentially approaching 7-8 assists per game. His 2024-25 season performance and playoff visibility will be critical—any evidence of him handling 25%+ of possessions in crunch time scenarios suggests the team views him as a future lead facilitator. Additionally, if injuries sideline traditional assists leaders (Luka Dončić, Tyrese Haliburton, Jalen Brunson), the threshold for the title drops considerably, from the typical 8.5+ APG to potentially 8.0.
+The bear case is overwhelming: Quickley has never averaged more than 7 assists per game in any season, while typical assist leaders post 10-11+ per game. His shooting-first mentality and combo guard skill set don't align with the high-volume facilitator profile needed to lead the league. Trae Young has led or been top-three in assists for multiple seasons, while emerging talents like Cade Cunningham and established stars maintain the primary playmaking roles on their teams. Even if Quickley improves, he'd need to leap over approximately 15-20 superior passers.
 
-The bear case is substantially stronger and explains the 0.4% odds. Quickley has never averaged more than 3.5 assists per game in any season, while current league leaders operate at 8-10 APG—a gap that cannot be closed by minor role adjustments. Even if he becomes Toronto's primary playmaker, historical guards in similar situations (Shai Gilgeous-Alexander's first year with OKC, Donovan Mitchell) required years to hit 7+ APG. The Raptors' current roster construction suggests they'll acquire another established playmaker rather than build around Quickley's development in that role. The 2025-26 season doesn't offer obvious catalyst dates for this narrative—training camp in September 2025 will reveal intent, but Raptors' front office decisions typically signal plans months earlier.
-
-Traders should monitor Raptors roster moves through the 2024-25 trade deadline and offseason free agency, Quickley's assist rate in the final 20 games of 2024-25, and any coaching changes that might signal a philosophical shift toward pace-and-space systems. The market price reflects accurate probability, but if unexpected injuries strike multiple assist leaders in preseason 2025, or if the Raptors execute a shocking mid-roster purge, sharp traders could exploit profitable positions.
+Key factors to monitor include Toronto's preseason rotation decisions and whether they commit to Quickley as the undisputed lead ball-handler before the October 2025 season start. Watch assist totals from the first month of the 2025-26 season (November 2025) to see if any established leaders suffer injuries or role changes. RJ Barrett's usage and Scottie Barnes' playmaking development will directly impact Quickley's assist opportunities, as will any major Raptors roster moves before the February 2026 trade deadline.
 
 ## Related Markets
 
-- [Will Algeria win the 2026 FIFA World Cup?](/odds/will-algeria-win-the-2026-fifa-world-cup) — 0% YES
-- [Will Manchester City win the 2025–26 English Premier League?](/odds/will-manchester-city-win-the-202526-english-premier-league) — 12% YES
 - [Will Egypt win the 2026 FIFA World Cup?](/odds/will-egypt-win-the-2026-fifa-world-cup) — 0% YES
+- [Will Cape Verde win the 2026 FIFA World Cup?](/odds/will-cape-verde-win-the-2026-fifa-world-cup) — 0% YES
+- [Will Manchester City win the 2025–26 English Premier League?](/odds/will-manchester-city-win-the-202526-english-premier-league) — 12% YES
 
 ## Frequently Asked Questions
 
-### How many assists per game would Quickley realistically need to average to win the title?
+### What would Immanuel Quickley need to average in assists per game to realistically lead the NBA in 2025-26?
 
-Approximately 8.5+ APG, based on recent seasons where leaders range from 8.5-10.5; Quickley's career high is 3.5 APG, making this a massive statistical leap.
+Based on recent seasons, he'd likely need 10.5-11.5 assists per game over a full season. This represents a roughly 4-5 assist increase from his current career-best pace, requiring a complete offensive system overhaul in Toronto.
 
-### What single Raptors roster move would most increase his odds?
+### Who are the primary competitors Quickley would need to surpass to win the assists title?
 
-A trade sending Scottie Barnes to another team would position Quickley as the primary ball-handler, though even then his odds would likely only reach 2-3% given historical assist-rate ceilings.
+Trae Young (consistent 10+ APG), Tyrese Haliburton, Luka Dončić, and emerging playmakers like Cade Cunningham currently dominate assist leaderboards. All four have demonstrated superior court vision and higher-volume facilitating roles than Quickley's current profile.
 
-### Why doesn't Quickley's youth work in his favor for this prediction?
+### Has any combo guard similar to Quickley's profile ever led the NBA in assists?
 
-While age allows time for development, the assists title is won annually by established playmakers with defined roles; a 23-year-old guard jumping from 3.5 to 8.5+ APG in a single season contradicts NBA
+True combo guards rarely lead the league in assists, as the title typically goes to primary point guards with elite vision like Chris Paul, Russell Westbrook, or Steve Nash. Quickley would need to fundamentally transform his role from score-first guard to pure facilitator.
 
 ## Learn More
 

@@ -4,14 +4,13 @@ description: "Will Trump sell 1-100 Gold Cards in 2026? Odds: 19.4% YES on Polym
 marketQuestion: "Will Trump sell 1-100 Gold Cards in 2026?"
 category: "finance"
 status: "active"
-lastUpdated: 2026-03-28
+lastUpdated: 2026-03-29
 expiryDate: 2026-12-31
 tags: ["finance", "polymarket", "trump"]
 polymarketYes: 19.4
 polymarketNo: 80.6
-polymarketVolume: 9870
+polymarketVolume: 9915
 polymarketUrl: "https://polymarket.com/event/will-trump-sell-1-100-gold-cards-in-2026"
-analysisDate: 2026-03-28
 ---
 
 # Trump Gold Card Sales Prediction: Analysis

@@ -4,14 +4,13 @@ description: "Will Manchester City win the 2025–26 English Premier League? Odd
 marketQuestion: "Will Manchester City win the 2025–26 English Premier League?"
 category: "sports"
 status: "active"
-lastUpdated: 2026-03-28
+lastUpdated: 2026-03-29
 expiryDate: 2026-05-27
 tags: ["polymarket", "sports"]
 polymarketYes: 11.5
 polymarketNo: 88.5
-polymarketVolume: 9683372
+polymarketVolume: 9685141
 polymarketUrl: "https://polymarket.com/event/will-manchester-city-win-the-202526-english-premier-league"
-analysisDate: 2026-03-28
 ---
 
 Manchester City's 11.5% probability to win the 2025-26 Premier League reflects significant uncertainty around the club's future following their recent charges from the Premier League and the potential departure of Pep Guardiola, whose contract situation remains unresolved beyond the current season.

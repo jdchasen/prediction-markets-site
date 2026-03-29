@@ -3,8 +3,8 @@ title: "Will Iowa win the 2026 NCAA Tournament?"
 description: "Will Iowa win the 2026 NCAA Tournament? Odds: 1.6% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Iowa win the 2026 NCAA Tournament?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-28
+status: "settled"
+lastUpdated: 2026-03-29
 expiryDate: 2026-04-04
 tags: ["politics", "polymarket"]
 polymarketYes: 1.6

@@ -1,17 +1,16 @@
 ---
 title: "Will Fidesz-KDNP win at least 80 seats?"
-description: "Will Fidesz-KDNP win at least 80 seats? Odds: 59.0% YES on Polymarket. See live prices and trade this market."
+description: "Will Fidesz-KDNP win at least 80 seats? Odds: 58.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Fidesz-KDNP win at least 80 seats?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-03-28
+lastUpdated: 2026-03-29
 expiryDate: 2026-04-12
 tags: ["politics", "polymarket"]
-polymarketYes: 59.0
-polymarketNo: 41.0
-polymarketVolume: 99372
+polymarketYes: 58.5
+polymarketNo: 41.5
+polymarketVolume: 99808
 polymarketUrl: "https://polymarket.com/event/will-fidesz-kdnp-win-at-least-80-seats"
-analysisDate: 2026-03-28
 ---
 
 The market gives Fidesz-KDNP a 59% chance of securing at least 80 seats in Hungary's 2026 parliamentary elections, reflecting cautious optimism about the ruling coalition maintaining its supermajority in a political environment where opposition unity remains uncertain. This threshold matters because 80 seats represents roughly 40% of the 199-seat National Assembly, a baseline that would indicate Fidesz maintains dominant status even if it loses its two-thirds supermajority of 133 seats.

@@ -1,17 +1,16 @@
 ---
 title: "Will Daniel Cameron be the Republican nominee for Senate in Kentucky?"
-description: "Will Daniel Cameron be the Republican nominee for Senate in Kentucky? Odds: 19.4% YES on Polymarket. See live prices and trade this market."
+description: "Will Daniel Cameron be the Republican nominee for Senate in Kentucky? Odds: 20.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Daniel Cameron be the Republican nominee for Senate in Kentucky?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-03-28
+lastUpdated: 2026-03-29
 expiryDate: 2026-05-19
 tags: ["politics", "polymarket"]
-polymarketYes: 19.4
-polymarketNo: 80.6
+polymarketYes: 20.4
+polymarketNo: 79.5
 polymarketVolume: 9670
 polymarketUrl: "https://polymarket.com/event/will-daniel-cameron-be-the-republican-nominee-for-senate-in-kentucky"
-analysisDate: 2026-03-28
 ---
 
 # Daniel Cameron's 2026 Senate Bid: Why the Republican Establishment is Skeptical

@@ -3,8 +3,8 @@ title: "Solana all time high by December 31, 2026?"
 description: "Solana all time high by December 31, 2026? Odds: 15.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Solana all time high by December 31, 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-28
+status: "settled"
+lastUpdated: 2026-03-29
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]
 polymarketYes: 15.5

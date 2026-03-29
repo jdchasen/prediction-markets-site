@@ -4,50 +4,51 @@ description: "Will César Acuña win the 2026 Peruvian presidential election? Od
 marketQuestion: "Will César Acuña win the 2026 Peruvian presidential election?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-03-28
+lastUpdated: 2026-03-29
 expiryDate: 2026-04-12
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.4
 polymarketNo: 99.7
-polymarketVolume: 96828
+polymarketVolume: 98941
 polymarketUrl: "https://polymarket.com/event/will-csar-acua-win-the-2026-peruvian-presidential-election"
+analysisDate: 2026-03-29
 ---
 
-César Acuña's virtually nonexistent 0.2% odds reflect a dramatic collapse in viability for the Alliance for Progress (APP) founder, who has run unsuccessfully in 2011, 2016, and 2021, with traders essentially pricing him out of contention nearly two years before Peru's April 2026 first-round vote.
+César Acuña's chances of winning Peru's 2026 presidential election are currently priced near zero on prediction markets, reflecting deep skepticism about his viability despite his persistent political presence as founder of the Alliance for Progress party.
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.2% | 99.8% | $96K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.4% | 99.7% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The bear case dominates: Acuña faces persistent plagiarism scandals that derailed his 2016 campaign when allegations emerged about his master's thesis, severely damaging his credibility among educated voters. His party's performance has declined significantly since its regional stronghold days, and Peru's fragmented political landscape now features stronger populist and anti-establishment candidates who have absorbed much of the outsider appeal Acuña once commanded. The APP's representation in Congress has weakened, reducing his institutional platform, and early 2025 polling consistently shows him in single digits or excluded entirely from top-tier candidate discussions. Peru's volatile electorate has repeatedly rejected recycled candidates, particularly those associated with corruption allegations or ethical lapses.
+The bear case dominating current pricing stems from Acuña's track record of failed presidential bids and ongoing credibility issues. He finished third in the 2016 first round with 10% and was disqualified from that race due to vote-buying allegations. His 2021 campaign was similarly unsuccessful, finishing fifth in the first round with just 6%. Peru's fragmented political landscape has repeatedly rejected him despite his party's regional strength, and plagiarism scandals involving his academic credentials continue to damage his public image. Most recent polling for 2026 shows him in single digits, far behind frontrunners, and Peru's anti-establishment mood has favored political outsiders over established party figures.
 
-The bull case requires acknowledging Acuña's substantial financial resources and established political machinery in northern Peru, particularly Trujillo and La Libertad region where APP maintains organizational strength. If the 2025-2026 field becomes extraordinarily fragmented with a dozen viable candidates, his loyal base of 5-8% could theoretically become relevant in a chaotic first round. A major corruption scandal eliminating multiple frontrunners between now and the candidate registration deadline in January 2026 could create unexpected openings.
+The bull case, though weak, rests on Peru's extreme political volatility and the possibility of a drastically changed field by 2026. Alliance for Progress maintains significant infrastructure and local government positions, particularly in northern Peru, giving Acuña organizational capacity that could matter if major competitors face disqualification or scandal. Peru has seen multiple presidents removed or resign since 2016, and voter preferences remain highly fluid—no clear frontrunner has emerged as dominant. If the field fractures among numerous candidates and traditional frontrunners stumble, Acuña's loyal base could theoretically propel him into a runoff position where anything becomes possible.
 
-Traders should monitor Peru's political polling from firms like Ipsos Perú and CPI throughout 2025, particularly after the likely candidate field crystallizes in Q4 2025. The official candidate registration period in January 2026 and the subsequent first debate season will provide clarity on whether Acuña can even secure his party's nomination or if APP fields an alternative candidate. Any major anti-corruption operations by Peru's prosecutor's office targeting current frontrunners would represent the only realistic catalyst for meaningful odds movement upward.
+Key catalysts to watch include party primary selections in late 2025 and early 2026, the candidate registration deadline (typically January 2026), and any legal developments affecting top-tier candidates. Peru's first round is scheduled for April 2026, with a likely runoff in June. The next major polling data will emerge in mid-2025 as the field solidifies. Traders should monitor whether current frontrunners like Rafael López Aliaga or Keiko Fujimori face legal or political setbacks that could reshape the race, though even a wide-open field would likely elevate fresher faces rather than Acuña.
 
 ## Related Markets
 
-- [Will Erika Kirk win the 2028 Republican presidential nomination?](/odds/will-erika-kirk-win-the-2028-republican-presidential-nomination) — 0% YES
 - [Will Jon Stewart win the 2028 Democratic presidential nomination?](/odds/will-jon-stewart-win-the-2028-democratic-presidential-nomination) — 2% YES
-- [Putin out as President of Russia by June 30?](/odds/putin-out-as-president-of-russia-by-june-30) — 4% YES
+- [Will Mathilde Panot win the 2027 French presidential election?](/odds/will-mathilde-panot-win-the-2027-french-presidential-election) — 0% YES
+- [Will Al Mina be the Republican nominee for Senate in Virginia?](/odds/will-al-mina-be-the-republican-nominee-for-senate-in-virginia) — 7% YES
 
 ## Frequently Asked Questions
 
-### Why has Acuña run unsuccessfully three times previously, and what changed since 2021?
+### Why did César Acuña get disqualified from the 2016 presidential race?
 
-Acuña placed fifth in 2016 (6.97%) before being disqualified for vote-buying, and eighth in 2021 (5.71%) as his plagiarism scandals and ethical issues crystallized into permanent reputation damage. His party has also lost considerable congressional representation and regional governorships since its peak.
+Acuña was disqualified by Peru's electoral jury for distributing money and goods to voters during his campaign, violating electoral laws against vote-buying. This scandal significantly damaged his reputation heading into subsequent elections.
 
-### Could Acuña's regional base in northern Peru provide a pathway to competitiveness?
+### Does Alliance for Progress have enough political infrastructure to mount a competitive 2026 campaign?
 
-While APP retains some organizational presence in La Libertad, Peru's increasingly nationalized media environment and candidate debates mean regional strongholds matter far less than in previous decades, and his 5-8% ceiling appears insufficient even in highly fragmented scenarios requiring 15%+ for first-round qualification.
+While Alliance for Progress controls several regional governments and municipal positions especially in northern Peru, this hasn't translated into national presidential success—Acuña's vote share actually declined from 10% in 2016 to 6% in 2021 despite maintaining this party structure.
 
-### What would need to happen for these odds to reach even 5-10%?
+### What would need to happen for Acuña to even reach a runoff given current polling?
 
-A systematic elimination of at least four current top-tier candidates through corruption prosecutions, health issues, or disqualifications, combined with Acuña avoiding any new scandals and APP demonstrating renewed organizational capacity in polling by late 2025—an extremely unlikely confluence of events.
+The field would need extreme fragmentation with at least 8-10 viable candidates splitting the vote, combined with multiple frontrunners facing disqualification or major scandals, allowing Acuña's 6-10% base to potentially secure a second-place finish in the first round—an unlikely scenario given Peru's tendency to consolidate around anti-establishment outsiders rather than recycled politicians.
 
 ## Learn More
 

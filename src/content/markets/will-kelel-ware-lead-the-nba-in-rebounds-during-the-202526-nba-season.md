@@ -3,8 +3,8 @@ title: "Will Kel'el Ware lead the NBA in rebounds during the 2025–26 NBA seaso
 description: "Will Kel'el Ware lead the NBA in rebounds during the 2025–26 NBA season? Odds: 0.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Kel'el Ware lead the NBA in rebounds during the 2025–26 NBA season?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-03-28
+status: "settled"
+lastUpdated: 2026-03-29
 expiryDate: 2026-04-12
 tags: ["polymarket", "sports"]
 polymarketYes: 0.4

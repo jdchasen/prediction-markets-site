@@ -3,8 +3,8 @@ title: "Will Matthias Bluebaum win the 2026 FIDE Candidates Tournament?"
 description: "Will Matthias Bluebaum win the 2026 FIDE Candidates Tournament? Odds: 1.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Matthias Bluebaum win the 2026 FIDE Candidates Tournament?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-28
+status: "settled"
+lastUpdated: 2026-03-29
 expiryDate: 2026-04-17
 tags: ["politics", "polymarket"]
 polymarketYes: 1.8

@@ -3,8 +3,8 @@ title: "Will Clavicular be unbanned from Kick by March 31?"
 description: "Will Clavicular be unbanned from Kick by March 31? Odds: 98.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Clavicular be unbanned from Kick by March 31?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-28
+status: "settled"
+lastUpdated: 2026-03-29
 expiryDate: 2026-04-15
 tags: ["politics", "polymarket", "sports"]
 polymarketYes: 98.7

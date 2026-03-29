@@ -3,8 +3,8 @@ title: "US Men's Clay Court Championships: Aleksandar Kovacevic vs Rinky Hijikat
 description: "US Men's Clay Court Championships: Aleksandar Kovacevic vs Rinky Hijikata Odds: 62.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "US Men's Clay Court Championships: Aleksandar Kovacevic vs Rinky Hijikata"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-28
+status: "settled"
+lastUpdated: 2026-03-29
 expiryDate: 2026-04-06
 tags: ["politics", "polymarket"]
 polymarketYes: 62.0

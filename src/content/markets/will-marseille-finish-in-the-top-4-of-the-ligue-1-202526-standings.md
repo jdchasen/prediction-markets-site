@@ -1,17 +1,16 @@
 ---
 title: "Will Marseille finish in the top 4 of the Ligue 1 2025–26 standings?"
-description: "Will Marseille finish in the top 4 of the Ligue 1 2025–26 standings? Odds: 80.0% YES on Polymarket. See live prices and trade this market."
+description: "Will Marseille finish in the top 4 of the Ligue 1 2025–26 standings? Odds: 79.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Marseille finish in the top 4 of the Ligue 1 2025–26 standings?"
 category: "sports"
 status: "active"
-lastUpdated: 2026-03-28
+lastUpdated: 2026-03-29
 expiryDate: 2026-05-30
 tags: ["polymarket", "sports"]
-polymarketYes: 80.0
-polymarketNo: 20.0
-polymarketVolume: 9974
+polymarketYes: 79.5
+polymarketNo: 20.5
+polymarketVolume: 9998
 polymarketUrl: "https://polymarket.com/event/will-marseille-finish-in-the-top-4-of-the-ligue-1-202526-standings"
-analysisDate: 2026-03-28
 ---
 
 The betting market is pricing Marseille as a strong favorite to secure a Champions League spot, but that confidence rests on roster stability and managerial continuity that remains uncertain heading into the 2025–26 campaign. This matters now because transfer windows close in late August 2025, and any departures of key players (particularly Mattéo Guendouzi or Pierre-Emerick Aubameyang) could reshape competitive outlook before a single league match is played.

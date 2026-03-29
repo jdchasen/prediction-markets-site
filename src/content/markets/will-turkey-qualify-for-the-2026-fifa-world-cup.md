@@ -3,8 +3,8 @@ title: "Will Turkey qualify for the 2026 FIFA World Cup?"
 description: "Will Turkey qualify for the 2026 FIFA World Cup? Odds: 68.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Turkey qualify for the 2026 FIFA World Cup?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-03-28
+status: "settled"
+lastUpdated: 2026-03-29
 expiryDate: 2026-04-12
 tags: ["polymarket", "sports"]
 polymarketYes: 68.0

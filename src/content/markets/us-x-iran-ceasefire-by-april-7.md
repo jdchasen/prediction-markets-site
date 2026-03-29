@@ -3,8 +3,8 @@ title: "US x Iran ceasefire by April 7?"
 description: "US x Iran ceasefire by April 7? Odds: 10.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "US x Iran ceasefire by April 7?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-28
+status: "settled"
+lastUpdated: 2026-03-29
 expiryDate: 2026-04-07
 tags: ["politics", "polymarket"]
 polymarketYes: 10.5

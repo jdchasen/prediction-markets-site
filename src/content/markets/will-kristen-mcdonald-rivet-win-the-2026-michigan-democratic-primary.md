@@ -3,8 +3,8 @@ title: "Will Kristen McDonald Rivet win the 2026 Michigan Democratic Primary?"
 description: "Will Kristen McDonald Rivet win the 2026 Michigan Democratic Primary? Odds: 0.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Kristen McDonald Rivet win the 2026 Michigan Democratic Primary?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-28
+status: "settled"
+lastUpdated: 2026-03-29
 expiryDate: 2026-08-04
 tags: ["politics", "polymarket"]
 polymarketYes: 0.2

@@ -3,8 +3,8 @@ title: "Will the 2026 Midterm Elections happen as scheduled?"
 description: "Will the 2026 Midterm Elections happen as scheduled? Odds: 89.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the 2026 Midterm Elections happen as scheduled?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-28
+status: "settled"
+lastUpdated: 2026-03-29
 expiryDate: 2026-12-31
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 89.5

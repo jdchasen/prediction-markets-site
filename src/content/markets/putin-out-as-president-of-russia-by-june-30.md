@@ -3,8 +3,8 @@ title: "Putin out as President of Russia by June 30?"
 description: "Putin out as President of Russia by June 30? Odds: 3.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Putin out as President of Russia by June 30?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-28
+status: "settled"
+lastUpdated: 2026-03-29
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
 polymarketYes: 3.8

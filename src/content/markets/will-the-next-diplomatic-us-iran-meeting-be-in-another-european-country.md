@@ -1,17 +1,16 @@
 ---
 title: "Will the next diplomatic US-Iran meeting be in another European country?"
-description: "Will the next diplomatic US-Iran meeting be in another European country? Odds: 3.6% YES on Polymarket. See live prices and trade this market."
+description: "Will the next diplomatic US-Iran meeting be in another European country? Odds: 1.6% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the next diplomatic US-Iran meeting be in another European country?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-03-28
+lastUpdated: 2026-03-29
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
-polymarketYes: 3.6
-polymarketNo: 96.4
-polymarketVolume: 9667
+polymarketYes: 1.6
+polymarketNo: 98.5
+polymarketVolume: 9809
 polymarketUrl: "https://polymarket.com/event/will-the-next-diplomatic-us-iran-meeting-be-in-another-european-country-311"
-analysisDate: 2026-03-28
 ---
 
 The market is pricing in an extremely low probability that the next US-Iran diplomatic meeting occurs on European soil, reflecting both historical precedent and current geopolitical realities that make such engagement unlikely through mid-2026. This matters because it reveals trader sentiment about US-Iran relations during a period spanning a presidential transition and potential shifts in Middle East policy. The 3.6% YES odds suggest markets believe direct talks are either unlikely to materialize at all, or if they do occur, will happen in neutral venues like Qatar, Oman, or through indirect channels rather than European capitals.

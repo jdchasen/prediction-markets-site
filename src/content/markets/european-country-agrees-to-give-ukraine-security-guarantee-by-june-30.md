@@ -4,14 +4,13 @@ description: "European country agrees to give Ukraine security guarantee by June
 marketQuestion: "European country agrees to give Ukraine security guarantee by June 30? "
 category: "politics"
 status: "active"
-lastUpdated: 2026-03-28
+lastUpdated: 2026-03-29
 expiryDate: 2026-06-30
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 11.5
 polymarketNo: 88.5
-polymarketVolume: 98345
+polymarketVolume: 98355
 polymarketUrl: "https://polymarket.com/event/european-country-agrees-to-give-ukraine-security-guarantee-by-june-30"
-analysisDate: 2026-03-28
 ---
 
 The market pricing a European security guarantee for Ukraine at just 11.5% reflects deep skepticism that any individual European nation will formalize a bilateral defense commitment within the next two years, despite ongoing discussions about post-war European security architecture.
