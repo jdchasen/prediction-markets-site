@@ -3,8 +3,8 @@ title: "Will the Miami Heat make the NBA Playoffs?"
 description: "Will the Miami Heat make the NBA Playoffs? Odds: 56.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Miami Heat make the NBA Playoffs?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-03-29
+status: "settled"
+lastUpdated: 2026-03-30
 expiryDate: 2026-04-12
 tags: ["polymarket", "sports"]
 polymarketYes: 56.0

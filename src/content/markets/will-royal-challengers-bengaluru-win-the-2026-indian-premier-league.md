@@ -3,8 +3,8 @@ title: "Will Royal Challengers Bengaluru win the 2026 Indian Premier League?"
 description: "Will Royal Challengers Bengaluru win the 2026 Indian Premier League? Odds: 15.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Royal Challengers Bengaluru win the 2026 Indian Premier League?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-03-29
+status: "settled"
+lastUpdated: 2026-03-30
 expiryDate: 2026-05-31
 tags: ["polymarket", "sports"]
 polymarketYes: 15.5

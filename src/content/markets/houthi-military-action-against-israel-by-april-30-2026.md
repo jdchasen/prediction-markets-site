@@ -3,8 +3,8 @@ title: "Houthi military action against Israel by April 30, 2026?"
 description: "Houthi military action against Israel by April 30, 2026? Odds: 60.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Houthi military action against Israel by April 30, 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-29
+status: "settled"
+lastUpdated: 2026-03-30
 expiryDate: 2026-04-30
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 60.5

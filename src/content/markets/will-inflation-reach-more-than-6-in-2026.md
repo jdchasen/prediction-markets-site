@@ -4,14 +4,13 @@ description: "Will inflation reach more than 6% in 2026? Odds: 13.5% YES on Poly
 marketQuestion: "Will inflation reach more than 6% in 2026?"
 category: "economics"
 status: "active"
-lastUpdated: 2026-03-29
+lastUpdated: 2026-03-30
 expiryDate: 2026-12-31
 tags: ["economics", "polymarket", "sports"]
 polymarketYes: 13.5
 polymarketNo: 86.5
-polymarketVolume: 9551
+polymarketVolume: 9588
 polymarketUrl: "https://polymarket.com/event/will-inflation-reach-more-than-6-in-2026-978"
-analysisDate: 2026-03-29
 ---
 
 # Inflation 2026: A Low-Probability Outlier Event

@@ -3,8 +3,8 @@ title: "Will Fernando Olivera win the 2026 Peruvian presidential election?"
 description: "Will Fernando Olivera win the 2026 Peruvian presidential election? Odds: 0.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Fernando Olivera win the 2026 Peruvian presidential election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-29
+status: "settled"
+lastUpdated: 2026-03-30
 expiryDate: 2026-04-12
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.4

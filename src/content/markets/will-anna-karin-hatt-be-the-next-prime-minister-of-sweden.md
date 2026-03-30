@@ -3,8 +3,8 @@ title: "Will Anna-Karin Hatt be the next Prime Minister of Sweden?"
 description: "Will Anna-Karin Hatt be the next Prime Minister of Sweden? Odds: 0.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Anna-Karin Hatt be the next Prime Minister of Sweden?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-29
+status: "settled"
+lastUpdated: 2026-03-30
 expiryDate: 2026-09-13
 tags: ["politics", "polymarket"]
 polymarketYes: 0.2

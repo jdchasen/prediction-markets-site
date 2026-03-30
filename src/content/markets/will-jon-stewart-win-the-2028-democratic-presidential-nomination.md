@@ -3,8 +3,8 @@ title: "Will Jon Stewart win the 2028 Democratic presidential nomination?"
 description: "Will Jon Stewart win the 2028 Democratic presidential nomination? Odds: 2.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Jon Stewart win the 2028 Democratic presidential nomination?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-29
+status: "settled"
+lastUpdated: 2026-03-30
 expiryDate: 2028-11-07
 tags: ["politics", "polymarket"]
 polymarketYes: 2.2

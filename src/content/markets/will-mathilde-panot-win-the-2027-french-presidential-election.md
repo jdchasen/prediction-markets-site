@@ -3,8 +3,8 @@ title: "Will Mathilde Panot win the 2027 French presidential election?"
 description: "Will Mathilde Panot win the 2027 French presidential election? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Mathilde Panot win the 2027 French presidential election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-29
+status: "settled"
+lastUpdated: 2026-03-30
 expiryDate: 2027-04-30
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.1

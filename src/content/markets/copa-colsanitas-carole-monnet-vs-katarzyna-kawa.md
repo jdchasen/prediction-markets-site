@@ -3,8 +3,8 @@ title: "Copa Colsanitas: Carole Monnet vs Katarzyna Kawa"
 description: "Copa Colsanitas: Carole Monnet vs Katarzyna Kawa Odds: 36.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Copa Colsanitas: Carole Monnet vs Katarzyna Kawa"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-29
+status: "settled"
+lastUpdated: 2026-03-30
 expiryDate: 2026-04-06
 tags: ["politics", "polymarket"]
 polymarketYes: 36.0

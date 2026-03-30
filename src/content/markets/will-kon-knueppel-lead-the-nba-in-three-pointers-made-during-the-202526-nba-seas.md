@@ -4,13 +4,12 @@ description: "Will Kon Knueppel lead the NBA in three pointers made during the 2
 marketQuestion: "Will Kon Knueppel lead the NBA in three pointers made during the 2025–26 NBA season?"
 category: "sports"
 status: "active"
-lastUpdated: 2026-03-29
+lastUpdated: 2026-03-30
 tags: ["polymarket", "sports"]
 polymarketYes: 0.2
 polymarketNo: 99.8
 polymarketVolume: 9893
 polymarketUrl: "https://polymarket.com/event/will-kon-knueppel-lead-the-nba-in-three-pointers-made-during-the-202526-nba-season"
-analysisDate: 2026-03-29
 ---
 
 # Analysis

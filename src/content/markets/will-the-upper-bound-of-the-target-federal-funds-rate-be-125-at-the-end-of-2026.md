@@ -4,50 +4,51 @@ description: "Will the upper bound of the target federal funds rate be 1.25% at 
 marketQuestion: "Will the upper bound of the target federal funds rate be 1.25% at the end of 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-03-29
+lastUpdated: 2026-03-30
 expiryDate: 2026-12-09
 tags: ["federal-reserve", "politics", "polymarket"]
 polymarketYes: 0.5
 polymarketNo: 99.5
-polymarketVolume: 97197
+polymarketVolume: 99125
 polymarketUrl: "https://polymarket.com/event/will-the-upper-bound-of-the-target-federal-funds-rate-be-1pt25-at-the-end-of-2026-681"
+analysisDate: 2026-03-30
 ---
 
-# Federal Funds Rate Target Analysis: 2026 Year-End Outlook
+The market assigns virtually no chance (0.5%) that the Federal Reserve will slash rates to a 1.00-1.25% target range by end of 2026, reflecting strong conviction that rates will remain substantially higher even three years out. This matters as a bellwether for trader expectations about inflation persistence and the Fed's commitment to maintaining restrictive policy despite political pressures.
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.5% | 99.5% | $97K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.5% | 99.5% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The market is pricing in an extremely low probability that the Fed will maintain its upper bound at 1.25% through end-2026, reflecting widespread expectation of either higher rates or a different policy regime entirely. This matters because the federal funds rate is the Fed's primary tool for inflation control and economic management, making rate trajectory one of the most consequential economic forecasts for 2026 investment strategy and consumer planning.
+The bull case for YES requires a severe economic crisis between now and late 2026. A deep recession with unemployment spiking above 6-7%, combined with inflation falling well below the Fed's 2% target to deflationary levels around 0-1%, could force the FOMC to cut rates by 400+ basis points from current levels near 4.25-4.50%. Financial system stress comparable to 2008 or a global economic shock would accelerate this timeline. Traders should monitor the ISM Manufacturing Index (released monthly) and quarterly GDP prints, with Q1 2025 data due April 30th providing the first major signal of economic trajectory.
 
-The bull case for 1.25% hinges on a deflationary or stagnationary scenario where the Fed cuts rates aggressively to combat economic weakness. If a recession materializes in 2025 with inflation collapsing back toward 2%, the Fed could plausibly cut from current levels (5.25-5.50%) down to the 1.25% band by late 2026. Historical precedent suggests the Fed responds quickly to recession signals—the 2020 pandemic cuts dropped rates to near-zero in weeks. A significant slowdown in labor markets, coupled with core PCE falling below 2%, would trigger this scenario. The bear case dominates current pricing for good reason: inflation remains sticky above target despite recent progress, and the Fed has signaled conviction about maintaining "higher for longer" policy. Even if growth slows moderately, the Fed historically resists cutting below 2% unless facing severe contraction. Current market expectations (as of late 2024) price in only 3-4 rate cuts in 2025 and similar modest cuts in 2026, leaving the terminal rate well above 1.25%. The Fed would need to reverse its entire recent messaging around inflation persistence and hawkish membership composition—Jerome Powell, Barr, and other voting FOMC members have shown reluctance to move aggressively toward accommodation.
+The bear case, which the market overwhelmingly prices in, centers on sticky inflation and economic resilience. Core PCE inflation has remained above 2.5% throughout 2024, and even optimistic Fed projections from the December 2024 FOMC meeting showed rates only declining to 3.00-3.50% by end of 2026. The labor market continues showing strength with unemployment below 4.5%, giving the Fed little urgency to cut aggressively. Structural factors like deglobalization, fiscal deficits exceeding $1.8 trillion, and tight labor markets suggest inflation could remain elevated around 2.5-3.0% for years. Each FOMC meeting (next scheduled for January 28-29, 2025, March 18-19, and May 6-7) will provide updated dot plots showing policymaker rate expectations.
 
-Key catalysts include the June 2025 FOMC meeting (when full-year rate paths become clearer), Q1 2026 inflation data releases (January-March CPI reports), and any recession signals from employment reports through mid-2026. The presidential election in November 2024 and potential policy shifts from the incoming administration could reshape inflation expectations and fiscal stimulus assumptions, though the Fed operates with statutory independence. Watch the 2-year Treasury yield as a market-based rate expectations indicator—if it trades consistently below 1.5%, it would suggest serious rate-cut pricing that could tighten these odds. Core PCE data arriving monthly provides the most direct inflation signal the Fed targets.
+Key catalysts include the January 2025 CPI report (due February 12th) and the subsequent FOMC meetings throughout 2025. The Fed's Summary of Economic Projections released quarterly will show whether officials' median rate forecast drops significantly. Traders should watch whether the 2-year Treasury yield falls below 2.5% (currently around 4.2%), which would signal bond markets pricing in aggressive cuts. Political pressure from the new administration could influence Fed policy, though Chair Powell's term extends through May 2026, providing institutional independence through most of the market's timeframe.
 
 ## Related Markets
 
-- [Will Jon Stewart win the 2028 Democratic presidential nomination?](/odds/will-jon-stewart-win-the-2028-democratic-presidential-nomination) — 2% YES
-- [Will Mathilde Panot win the 2027 French presidential election?](/odds/will-mathilde-panot-win-the-2027-french-presidential-election) — 0% YES
-- [Will Al Mina be the Republican nominee for Senate in Virginia?](/odds/will-al-mina-be-the-republican-nominee-for-senate-in-virginia) — 7% YES
+- [Will TISZA – Respect and Freedom Party (TISZA) win the most seats in the next Hungarian parliamentary election?](/odds/will-tisza-respect-and-freedom-party-tisza-win-the-most-seats-in-the-next-hungar) — 68% YES
+- [Jerome Powell out as Fed Chair by March 31, 2026?](/odds/jerome-powell-out-as-fed-chair-by-march-31-2026) — 0% YES
+- [Will the People Power Party (PPP) win the 2026 South Korean local elections?](/odds/will-the-people-power-party-ppp-win-the-2026-south-korean-local-elections) — 4% YES
 
 ## Frequently Asked Questions
 
-### What specific inflation level would need to occur for this outcome to become likely?
+### What would the federal funds rate need to be today for a decline to 1.25% by end of 2026 to be realistic?
 
-Core PCE would need to undershoot 1.5% and remain there through late 2026, signaling persistent disinflationary pressure that would justify Fed cuts to the 1.25% band—well below the Fed's 2% target.
+Starting from the current 4.25-4.50% range, rates would need to be cut by at least 300 basis points (12 cuts of 25bps each), requiring either a severe recession or deflationary spiral that the Fed currently assigns very low probability in its baseline forecasts.
 
-### Could geopolitical shocks or financial crises change these odds significantly?
+### Has the federal funds rate ever been at 1.25% in recent history, and what caused it?
 
-Yes—a banking crisis, credit market seizure, or severe recession would dramatically raise the probability by forcing emergency Fed cuts, similar to 2008 or 2020 precedents, potentially moving this from 0.5% to 20-40% range.
+Yes, the upper bound reached 1.25% briefly in late 2017 during the gradual normalization after the 2008 crisis, and rates were held near 0-0.25% from 2008-2015 and 2020-2022 due to financial crises. Reaching 1.25% by 2026 would require crisis-level conditions given the current starting point.
 
-### Why is the upper bound of 1.25% specifically significant rather than any lower rate?
+### When will we have enough data to know if this outcome is becoming more likely?
 
-The 1.25% upper bound represents the middle of a 25-basis-point corridor that the Fed typically targets; if rates fall to that level, policy would be approaching the "lower bound" territory where unconventional tools become necessary.
+The critical window is Q2-Q4 2025; if unemployment rises above 5% or core inflation falls below 2% during this period with sustained weakness in GDP growth, the probability would increase meaningfully. The Fed's June 2025 and September 2025 FOMC projections will be particularly telling.
 
 ## Learn More
 

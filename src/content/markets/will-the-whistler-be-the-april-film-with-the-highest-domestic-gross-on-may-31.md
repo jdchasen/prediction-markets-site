@@ -3,8 +3,8 @@ title: "Will \"The Whistler\" be the April film with the highest domestic gross 
 description: "Will \"The Whistler\" be the April film with the highest domestic gross on May 31? Odds: 0.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will \"The Whistler\" be the April film with the highest domestic gross on May 31?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-29
+status: "settled"
+lastUpdated: 2026-03-30
 expiryDate: 2026-05-31
 tags: ["politics", "polymarket"]
 polymarketYes: 0.4

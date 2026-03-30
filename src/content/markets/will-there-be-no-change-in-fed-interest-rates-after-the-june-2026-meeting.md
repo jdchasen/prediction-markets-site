@@ -4,14 +4,13 @@ description: "Will there be no change in Fed interest rates after the June 2026 
 marketQuestion: "Will there be no change in Fed interest rates after the June 2026 meeting?"
 category: "economics"
 status: "active"
-lastUpdated: 2026-03-29
+lastUpdated: 2026-03-30
 expiryDate: 2026-06-17
 tags: ["economics", "federal-reserve", "interest-rates", "polymarket"]
 polymarketYes: 86.5
 polymarketNo: 13.5
-polymarketVolume: 978224
+polymarketVolume: 986600
 polymarketUrl: "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-june-2026-meeting"
-analysisDate: 2026-03-29
 ---
 
 The market is pricing in an 86.5% probability that the Federal Reserve will hold rates steady following its June 2026 meeting, reflecting trader expectations that monetary policy will have reached equilibrium by mid-2026 after the current easing cycle concludes.

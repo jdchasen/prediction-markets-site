@@ -3,8 +3,8 @@ title: "Will Jorge Nieto finish in first place in the first round of the 2026 Pe
 description: "Will Jorge Nieto finish in first place in the first round of the 2026 Peruvian presidential election? Odds: 11.4% YES on Polymarket. See live prices and trad..."
 marketQuestion: "Will Jorge Nieto finish in first place in the first round of the 2026 Peruvian presidential election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-29
+status: "settled"
+lastUpdated: 2026-03-30
 expiryDate: 2026-04-12
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 11.4

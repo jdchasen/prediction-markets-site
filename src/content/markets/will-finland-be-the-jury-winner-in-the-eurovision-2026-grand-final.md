@@ -3,8 +3,8 @@ title: "Will Finland be the Jury Winner in the Eurovision 2026 Grand Final?"
 description: "Will Finland be the Jury Winner in the Eurovision 2026 Grand Final? Odds: 12.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Finland be the Jury Winner in the Eurovision 2026 Grand Final?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-29
+status: "settled"
+lastUpdated: 2026-03-30
 expiryDate: 2026-05-16
 tags: ["politics", "polymarket"]
 polymarketYes: 12.5
