@@ -1,17 +1,16 @@
 ---
 title: "Will David Lammy be the next Prime Minister of the United Kingdom in 2026?"
-description: "Will David Lammy be the next Prime Minister of the United Kingdom in 2026? Odds: 0.7% YES on Polymarket. See live prices and trade this market."
+description: "Will David Lammy be the next Prime Minister of the United Kingdom in 2026? Odds: 0.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will David Lammy be the next Prime Minister of the United Kingdom in 2026?"
 category: "politics"
-status: "settled"
-lastUpdated: 2026-03-29
+status: "active"
+lastUpdated: 2026-03-30
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 0.7
-polymarketNo: 99.4
-polymarketVolume: 96613
+polymarketYes: 0.8
+polymarketNo: 99.2
+polymarketVolume: 98072
 polymarketUrl: "https://polymarket.com/event/will-david-lammy-be-the-next-prime-minister-of-the-united-kingdom-in-2026-654"
-analysisDate: 2026-03-29
 ---
 
 # David Lammy as UK Prime Minister 2026: Market Analysis

@@ -3,7 +3,7 @@ title: "Will SpaceX raise between $70B and $80B in its IPO?"
 description: "Will SpaceX raise between $70B and $80B in its IPO? Odds: 25.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will SpaceX raise between $70B and $80B in its IPO?"
 category: "finance"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-30
 tags: ["ai", "finance", "polymarket"]
 polymarketYes: 25.5

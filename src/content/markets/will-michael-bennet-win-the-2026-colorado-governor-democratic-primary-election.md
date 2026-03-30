@@ -11,7 +11,6 @@ polymarketYes: 78.5
 polymarketNo: 21.5
 polymarketVolume: 9857
 polymarketUrl: "https://polymarket.com/event/will-michael-bennet-win-the-2026-colorado-governor-democratic-primary-election"
-analysisDate: 2026-03-30
 ---
 
 Michael Bennet's position as a three-term U.S. Senator gives him commanding odds at 78.5% to win Colorado's 2026 Democratic gubernatorial primary, though the race remains over a year away with no formal announcement from Bennet yet.

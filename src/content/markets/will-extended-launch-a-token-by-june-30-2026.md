@@ -11,7 +11,6 @@ polymarketYes: 18.5
 polymarketNo: 81.5
 polymarketVolume: 9840
 polymarketUrl: "https://polymarket.com/event/will-extended-launch-a-token-by-june-30-2026"
-analysisDate: 2026-03-30
 ---
 
 # Extended Token Launch Analysis

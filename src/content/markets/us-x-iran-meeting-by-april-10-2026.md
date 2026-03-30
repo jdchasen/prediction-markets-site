@@ -3,7 +3,7 @@ title: "US x Iran meeting by April 10, 2026?"
 description: "US x Iran meeting by April 10, 2026? Odds: 16.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "US x Iran meeting by April 10, 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-30
 expiryDate: 2026-04-10
 tags: ["politics", "polymarket"]

@@ -3,7 +3,7 @@ title: "Will José Luna win the 2026 Peruvian presidential election?"
 description: "Will José Luna win the 2026 Peruvian presidential election? Odds: 0.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will José Luna win the 2026 Peruvian presidential election?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-30
 expiryDate: 2026-04-12
 tags: ["elections", "politics", "polymarket"]

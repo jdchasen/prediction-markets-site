@@ -1,17 +1,16 @@
 ---
 title: "Will the Fed’s upper bound reach 4.5% or higher before 2027?"
-description: "Will the Fed’s upper bound reach 4.5% or higher before 2027? Odds: 4.7% YES on Polymarket. See live prices and trade this market."
+description: "Will the Fed’s upper bound reach 4.5% or higher before 2027? Odds: 4.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Fed’s upper bound reach 4.5% or higher before 2027?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-03-30
 expiryDate: 2026-12-31
 tags: ["federal-reserve", "politics", "polymarket"]
-polymarketYes: 4.7
-polymarketNo: 95.3
+polymarketYes: 4.8
+polymarketNo: 95.2
 polymarketVolume: 9817
 polymarketUrl: "https://polymarket.com/event/will-the-feds-upper-bound-reach-4pt5-or-higher-before-2027-835-459"
-analysisDate: 2026-03-30
 ---
 
 # Fed Rate Ceiling Market Analysis

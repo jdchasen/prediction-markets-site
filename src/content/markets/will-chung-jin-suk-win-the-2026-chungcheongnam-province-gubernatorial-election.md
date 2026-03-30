@@ -11,7 +11,6 @@ polymarketYes: 0.3
 polymarketNo: 99.7
 polymarketVolume: 9881
 polymarketUrl: "https://polymarket.com/event/will-chung-jin-suk-win-the-2026-chungcheongnam-province-gubernatorial-election"
-analysisDate: 2026-03-30
 ---
 
 The near-zero probability of 0.3% reflects traders' assessment that Chung Jin-suk faces an extremely uphill battle in the June 2026 Chungcheongnam Province gubernatorial race, with this market essentially pricing in his non-candidacy or certain defeat in what has become a critical swing region in South Korean politics.

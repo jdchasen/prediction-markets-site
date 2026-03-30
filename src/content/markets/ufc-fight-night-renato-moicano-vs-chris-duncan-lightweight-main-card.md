@@ -3,7 +3,7 @@ title: "UFC Fight Night: Renato Moicano vs. Chris Duncan (Lightweight, Main Card
 description: "UFC Fight Night: Renato Moicano vs. Chris Duncan (Lightweight, Main Card) Odds: 36.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "UFC Fight Night: Renato Moicano vs. Chris Duncan (Lightweight, Main Card)"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-30
 expiryDate: 2026-04-05
 tags: ["ai", "politics", "polymarket"]

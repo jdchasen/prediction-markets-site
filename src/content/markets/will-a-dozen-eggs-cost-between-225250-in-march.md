@@ -3,7 +3,7 @@ title: "Will a dozen eggs cost between $2.25–2.50 in March?"
 description: "Will a dozen eggs cost between $2.25–2.50 in March? Odds: 55.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will a dozen eggs cost between $2.25–2.50 in March?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-30
 expiryDate: 2026-04-10
 tags: ["politics", "polymarket"]

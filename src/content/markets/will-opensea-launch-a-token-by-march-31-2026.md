@@ -3,7 +3,7 @@ title: "Will OpenSea launch a token by March 31, 2026?"
 description: "Will OpenSea launch a token by March 31, 2026? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will OpenSea launch a token by March 31, 2026?"
 category: "crypto"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-30
 expiryDate: 2027-01-01
 tags: ["crypto", "polymarket"]

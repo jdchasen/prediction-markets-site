@@ -1,17 +1,16 @@
 ---
 title: "Maduro guilty of all counts?"
-description: "Maduro guilty of all counts? Odds: 31.5% YES on Polymarket. See live prices and trade this market."
+description: "Maduro guilty of all counts? Odds: 27.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Maduro guilty of all counts?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-03-30
 expiryDate: 2027-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 31.5
-polymarketNo: 68.5
-polymarketVolume: 98629
+polymarketYes: 27.5
+polymarketNo: 72.5
+polymarketVolume: 98679
 polymarketUrl: "https://polymarket.com/event/maduro-guilty-of-all-counts"
-analysisDate: 2026-03-30
 ---
 
 Prediction markets currently assign roughly a one-in-three chance that Venezuelan President Nicolás Maduro will be found guilty on all counts in a formal legal proceeding by the end of 2027, reflecting significant uncertainty about whether he'll face trial at all and the likelihood of comprehensive conviction if he does.

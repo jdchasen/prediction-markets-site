@@ -11,45 +11,44 @@ polymarketYes: 1.8
 polymarketNo: 98.2
 polymarketVolume: 9759
 polymarketUrl: "https://polymarket.com/event/will-samuel-alito-announce-his-retirement-by-march-31-2026"
+analysisDate: 2026-03-30
 ---
 
-# Samuel Alito Retirement Market Analysis
+The market is pricing in an extremely low probability of retirement, reflecting both Alito's historical resistance to early departure and the political costs of a conservative justice stepping down during a Republican administration. This matters because Alito's potential exit would fundamentally reshape the Court's ideological balance and has become a focal point in post-2024 election political calculations.
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 1.7% | 98.4% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 1.8% | 98.2% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The market is pricing Alito's departure before March 31, 2026 at just 1.7%, reflecting consensus that the 73-year-old Justice is unlikely to step down in the next 15 months despite sustained pressure from progressive activists and Democratic lawmakers. This timing matters because it precedes both the 2026 midterm elections and the 2028 presidential cycle—windows that would significantly impact who could replace a retiring conservative justice.
+The bull case for retirement rests on accumulated pressure: Alito authored the Dobbs decision overturning Roe v. Wade in June 2022, sparking sustained criticism and security concerns—his home was targeted by an armed individual in June 2024. He is 74 years old and has served since 2006, meeting the tenure threshold many justices use to retire. If Republicans maintain Senate control through 2026, the political window for him to secure a favorable replacement remains open, particularly if health concerns emerge or threats escalate. The leaked draft opinion in 2022 and subsequent public harassment created a baseline of pressure that hasn't fully dissipated.
 
-The bull case rests on several concrete vulnerabilities: Alito's drafting of the Dobbs opinion triggered sustained harassment campaigns and security concerns; a forthcoming book reportedly detailing his interactions with gun rights advocates could damage his institutional standing; and declining health or personal circumstances could force an unexpected exit. Additionally, if Democrats maintain Senate control through 2026, there's marginal incentive for Alito to retire strategically before Republicans potentially regain the chamber. However, this scenario requires multiple low-probability events stacking simultaneously.
+The bear case is considerably stronger: Alito has shown no public indication of retirement plans and conservatives have actively discouraged such moves following the chaos of Kennedy's 2024 exit. The Court's current 6-3 conservative majority gives Alito institutional influence he might be reluctant to surrender mid-term. With a Republican president in office and Senate control potentially secure, there's no electoral urgency driving his departure. The March 31, 2026 deadline falls just before the 2026 midterm elections—a politically awkward window that further reduces the probability of strategic retirement timing.
 
-The bear case dominates market pricing for good reason. Alito has shown exceptional resilience despite the Dobbs backlash, refusing to recuse himself or acknowledge external pressure. Conservative justices historically time retirements strategically to ensure ideological continuity—Alito is unlikely to hand Biden or a Democratic Senate a replacement opportunity. The expiry date falling after the November 2026 midterms means any retirement window would likely close if Republicans recapture the Senate, which polling currently favors. Alito's manifest intention to serve longer, combined with Republican Senate control until 2025, makes unplanned departure the only realistic path.
-
-Key catalysts to monitor include the book release (likely 2025), any major health-related news, and Senate composition after 2026 midterms in November. Watch whether Alito recuses from major cases or signals diminished workload. The March 31, 2026 deadline specifically targets the period before midterm elections crystallize—suggesting traders should pivot expectations sharply if Republicans appear poised to retain Senate control through 2028.
+Key catalysts to monitor include Supreme Court health announcements, any major security incidents targeting justices, and shifts in Senate composition after the 2026 midterm elections (November 5, 2026). The Court's 2024-2025 term concludes in June 2025, which is historically when retirement announcements occur, making the spring of 2025 the likeliest moment for any decision. Watch for any public statements from conservative leadership signaling openness to another retirement, legislative proposals to expand the Court, or significant rulings from Alito's docket that might indicate shifting priorities. If the 2026 midterms shift power to Democrats, retirement becomes substantially less likely after March 31.
 
 ## Related Markets
 
-- [Will Jon Stewart win the 2028 Democratic presidential nomination?](/odds/will-jon-stewart-win-the-2028-democratic-presidential-nomination) — 2% YES
-- [Will Mathilde Panot win the 2027 French presidential election?](/odds/will-mathilde-panot-win-the-2027-french-presidential-election) — 0% YES
 - [Jerome Powell out as Fed Chair by March 31, 2026?](/odds/jerome-powell-out-as-fed-chair-by-march-31-2026) — 0% YES
+- [Will the People Power Party (PPP) win the 2026 South Korean local elections?](/odds/will-the-people-power-party-ppp-win-the-2026-south-korean-local-elections) — 4% YES
+- [Netanyahu out by end of 2026?](/odds/netanyahu-out-by-end-of-2026) — 42% YES
 
 ## Frequently Asked Questions
 
-### Why does the March 31, 2026 date matter more than later in 2026?
+### Why does the deadline fall on March 31, 2026 rather than June 2025, when justices typically announce retirements?
 
-March 31 marks the end of the Court's spring recess and precedes midterm elections by seven months, creating a natural deadline before Republicans likely regain Senate control and eliminate any strategic retirement incentive.
+The market expires December 31, 2026, but the March 31 deadline captures the strategic window before midterm elections when retirement would benefit the appointing president's party in electoral messaging. June 2025 would be before this cutoff, making it technically possible but the March date reflects political timing preferences.
 
-### Could a health crisis or security incident dramatically shift these odds?
+### How would a Democratic takeover of the Senate in the 2026 midterms affect this market?
 
-Yes—Alito's documented harassment and security concerns could theoretically trigger forced recusal or health-related resignation, though the 1.7% odds suggest the market views this as extremely unlikely given his demonstrated resilience.
+If Democrats gain Senate control after November 5, 2026, Alito's incentive to retire drops sharply since any successor would likely face hostile confirmation proceedings, making retirement after the midterms extremely unlikely and pricing the market closer to zero.
 
-### What would cause traders to significantly increase YES bets?
+### What specific security threats or health crises would most likely trigger a retirement announcement?
 
-Credible reporting of declining health, major political fractures within the Court's conservative bloc, or a dramatic shift in Senate control projections heading into 2026 could move the needle, though none are currently priced in.
+A serious breach of Court security (like the armed individual at his home in 2024) or public disclosure of significant health issues could create political cover for retirement, though Alito has resisted such pressure previously and would need substantial justification to reverse his implicit commitment to the current bench.
 
 ## Learn More
 

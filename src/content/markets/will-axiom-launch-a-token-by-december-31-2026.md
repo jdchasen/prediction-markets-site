@@ -10,7 +10,6 @@ polymarketYes: 33.0
 polymarketNo: 67.0
 polymarketVolume: 97541
 polymarketUrl: "https://polymarket.com/event/will-axiom-launch-a-token-by-december-31-2026"
-analysisDate: 2026-03-30
 ---
 
 Axiom's potential token launch by end of 2026 sits at one-in-three odds, reflecting uncertainty around whether this zero-knowledge proof infrastructure protocol will follow the typical crypto playbook of issuing a native asset. The market matters because Axiom has raised significant venture funding and provides critical ZK coprocessing services to Ethereum applications, making any token potentially valuable for governance, staking, or protocol fee accrual.

@@ -9,9 +9,8 @@ expiryDate: 2026-10-31
 tags: ["politics", "polymarket"]
 polymarketYes: 0.4
 polymarketNo: 99.7
-polymarketVolume: 98350
+polymarketVolume: 99493
 polymarketUrl: "https://polymarket.com/event/will-the-chicago-white-sox-win-the-2026-world-series"
-analysisDate: 2026-03-30
 ---
 
 The Chicago White Sox are given virtually no chance to win the 2026 World Series at 0.4% odds, reflecting their historic collapse in 2024 when they lost 121 games and their current position as one of baseball's worst franchises. This matters because it represents the extreme end of sports betting markets where traders are essentially pricing in organizational dysfunction rather than normal competitive variance.

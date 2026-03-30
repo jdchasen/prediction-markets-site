@@ -9,9 +9,8 @@ expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
 polymarketYes: 0.9
 polymarketNo: 99.1
-polymarketVolume: 98776
+polymarketVolume: 99041
 polymarketUrl: "https://polymarket.com/event/will-the-seattle-kraken-win-the-western-conference-139"
-analysisDate: 2026-03-30
 ---
 
 The Seattle Kraken are priced as extreme longshots to win the Western Conference by June 2026, reflecting their position as a young expansion franchise still building toward contention in a highly competitive NHL landscape. This market matters because it captures the challenge of projecting development timelines for expansion teams against established powerhouses like Colorado, Edmonton, and Dallas.

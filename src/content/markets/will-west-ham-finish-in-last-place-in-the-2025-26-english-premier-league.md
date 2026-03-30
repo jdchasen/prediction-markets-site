@@ -3,7 +3,7 @@ title: "Will West Ham finish in last place in the 2025-26 English Premier League
 description: "Will West Ham finish in last place in the 2025-26 English Premier League? Odds: 0.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will West Ham finish in last place in the 2025-26 English Premier League?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-30
 expiryDate: 2026-05-27
 tags: ["polymarket", "sports"]

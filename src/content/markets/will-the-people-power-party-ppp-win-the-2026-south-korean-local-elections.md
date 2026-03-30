@@ -1,53 +1,54 @@
 ---
 title: "Will the People Power Party (PPP) win the 2026 South Korean local elections?"
-description: "Will the People Power Party (PPP) win the 2026 South Korean local elections? Odds: 4.1% YES on Polymarket. See live prices and trade this market."
+description: "Will the People Power Party (PPP) win the 2026 South Korean local elections? Odds: 4.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the People Power Party (PPP) win the 2026 South Korean local elections?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-03-30
 expiryDate: 2026-06-03
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 4.1
-polymarketNo: 95.9
-polymarketVolume: 987677
+polymarketYes: 4.0
+polymarketNo: 96.0
+polymarketVolume: 987777
 polymarketUrl: "https://polymarket.com/event/will-the-people-power-party-ppp-win-the-2026-south-korean-local-elections"
+analysisDate: 2026-03-30
 ---
 
-The People Power Party faces overwhelming odds against winning South Korea's 2026 local elections, with the market pricing their chances at barely 4%, reflecting their deeply damaged political standing following President Yoon Suk Yeol's December 2024 impeachment crisis and subsequent removal from office.
+Traders are pricing in overwhelming odds against South Korea's ruling People Power Party winning the June 2026 local elections at just 4%, reflecting historical patterns where governing parties typically face severe backlash in mid-term contests and current political headwinds facing the conservative party.
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 4.2% | 95.8% | $987K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 4.0% | 96.0% | $988K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The bear case dominating current odds stems from the PPP's association with Yoon's attempted martial law declaration, which triggered his impeachment and created a generational political liability for the conservative party. Recent polling shows the Democratic Party holding commanding leads across most mayoral and gubernatorial races, with the PPP losing support even in traditional strongholds like Daegu and North Gyeongsang Province. The party faces internal fractures between pro-Yoon loyalists and reform-minded members attempting to distance themselves from the scandal. Local elections in South Korea typically favor the party controlling national sentiment, and the Constitutional Court's decision to uphold Yoon's impeachment in February 2025 cemented negative public perception heading into the critical campaign period beginning in May 2026.
+The bear case for PPP victory is substantial: South Korean local elections have consistently punished the party in power since democratization, with the ruling party losing in 2018, 2014, and 2010. President Yoon Suk-yeol's approval ratings have fluctuated between 30-40% throughout 2024, providing little coattail benefit for down-ballot races. The opposition Democratic Party controls 169 of 300 National Assembly seats following their decisive April 2024 legislative victory, giving them superior organizational infrastructure and momentum heading into local contests. Local elections will determine 17 metropolitan mayors and provincial governors plus hundreds of lower-level positions, where the DP currently holds strong advantages in critical regions including the Seoul Capital Area.
 
-The bull case requires a dramatic political realignment over the next 16 months. If the Democratic Party-led government stumbles badly on economic management—particularly if youth unemployment worsens or a property market crisis deepens—voters might separate local governance competence from national scandals. The PPP could benefit if they successfully rebrand under new leadership and if factional infighting within the Democratic Party creates openings in competitive districts. Presidential by-elections expected in early 2025 will serve as a crucial test; a surprisingly strong PPP performance could signal voters' willingness to compartmentalize local versus national issues.
+The bull case hinges on potential political realignment over the next 18 months. If North Korea escalates provocations or conducts another nuclear test, national security concerns could drive voters toward the conservative PPP, as historically happened with the 2010 Cheonan sinking incident. Economic recovery coupled with successful prosecution of high-profile corruption cases against opposition figures could shift public sentiment. The PPP also benefits if opposition overreach in the National Assembly generates voter fatigue with the DP's supermajority. President Yoon's administration has time to implement popular policies before the critical campaign period begins in April-May 2026.
 
-Key catalysts include the Constitutional Court's final ruling timeline (completed February 2025), the presidential by-election in March-April 2025, and candidate registration deadlines in May 2026. Traders should monitor quarterly approval ratings for Democratic governors and mayors, economic indicators like GDP growth and housing prices through Q4 2025 and Q1 2026, and any corruption scandals that might emerge involving Democratic Party officials at the local level. The official campaign period begins 14 days before the June 3, 2026 election date, when polling blackouts commence and final momentum becomes visible through crowd sizes and ground operation strength.
+Key catalysts include the March 2026 primaries where both parties will select candidates for major metropolitan races, particularly Seoul and Busan mayoral contests that serve as bellwethers. Polling conducted in early 2026 will provide the first reliable signals, though Korean local election polling has proven volatile within the final two months. Traders should monitor Yoon's approval trajectory through the end of 2025, any major scandals affecting either party, and whether economic indicators like youth unemployment show meaningful improvement by Q1 2026.
 
 ## Related Markets
 
-- [Will Jon Stewart win the 2028 Democratic presidential nomination?](/odds/will-jon-stewart-win-the-2028-democratic-presidential-nomination) — 2% YES
-- [Will Mathilde Panot win the 2027 French presidential election?](/odds/will-mathilde-panot-win-the-2027-french-presidential-election) — 0% YES
 - [Jerome Powell out as Fed Chair by March 31, 2026?](/odds/jerome-powell-out-as-fed-chair-by-march-31-2026) — 0% YES
+- [Netanyahu out by end of 2026?](/odds/netanyahu-out-by-end-of-2026) — 42% YES
+- [OpenAI receives federal backstop for infrastructure before July?](/odds/openai-receives-federal-backstop-for-infrastructure-before-july) — 26% YES
 
 ## Frequently Asked Questions
 
-### What exactly constitutes a PPP "win" in this market given that local elections cover hundreds of races?
+### What specific regions would the PPP need to win to make this market resolve YES?
 
-The market resolution likely depends on the PPP winning a majority of the major metropolitan mayor and provincial governor positions (typically 17 races), not every city council or county-level seat. Specific resolution criteria should verify whether it requires an outright majority or plurality of these top-tier positions.
+The market likely requires the PPP to win a majority of the 17 metropolitan mayor and provincial governor positions, meaning they would need to capture at least 9 seats including defending traditional strongholds like Daegu and Gyeongbuk while flipping competitive areas like Seoul or Gyeonggi Province.
 
-### How did the PPP perform in the most recent 2022 local elections before the impeachment crisis?
+### How did the PPP perform in the most recent April 2024 legislative elections compared to this market's odds?
 
-The PPP won the 2022 local elections decisively, capturing 12 of 17 major mayoral and gubernatorial seats including Seoul and Busan, making the current 4% odds a dramatic reversal from their recent local election dominance.
+The PPP suffered a significant defeat in April 2024, winning only 108 seats versus the opposition's 192, which established the current pessimistic baseline for these odds—though local elections have different dynamics with greater emphasis on regional candidates and local issues rather than national party platforms.
 
-### Could the PPP win specific regional strongholds even while losing nationally, and would that affect this market?
+### Does the market resolution depend on vote share, seat count, or a specific threshold of victories?
 
-While the PPP will likely retain some seats in Daegu and parts of North Gyeongsang Province, the market structure requires them to win the overall local elections nationally, meaning isolated regional victories won't trigger a YES resolution without broader success across multiple provinces.
+The market structure isn't fully specified here, but Korean local election "wins" are typically determined by which party captures more of the 17 major executive positions (metropolitan mayors and provincial governors), not aggregate vote share, making individual races in swing regions like Incheon and Sejong City critical to the outcome.
 
 ## Learn More
 

@@ -3,7 +3,7 @@ title: "Will TISZA – Respect and Freedom Party (TISZA) win the most seats in t
 description: "Will TISZA – Respect and Freedom Party (TISZA) win the most seats in the next Hungarian parliamentary election? Odds: 67.5% YES on Polymarket. See live price..."
 marketQuestion: "Will TISZA – Respect and Freedom Party (TISZA) win the most seats in the next Hungarian parliamentary election?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-30
 expiryDate: 2026-04-12
 tags: ["elections", "politics", "polymarket"]

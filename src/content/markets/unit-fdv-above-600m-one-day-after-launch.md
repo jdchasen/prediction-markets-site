@@ -11,7 +11,6 @@ polymarketYes: 27.0
 polymarketNo: 73.0
 polymarketVolume: 9804
 polymarketUrl: "https://polymarket.com/event/unit-fdv-above-600m-one-day-after-launch"
-analysisDate: 2026-03-30
 ---
 
 # Analysis: Unit FDV Above $600M Launch Valuation
