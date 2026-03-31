@@ -4,14 +4,13 @@ description: "Will Marin Cilic win the 2026 Men's French Open? Odds: 0.2% YES on
 marketQuestion: "Will Marin Cilic win the 2026 Men's French Open?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-03-30
+lastUpdated: 2026-03-31
 expiryDate: 2026-06-07
 tags: ["politics", "polymarket"]
 polymarketYes: 0.2
 polymarketNo: 99.8
-polymarketVolume: 9840
+polymarketVolume: 9903
 polymarketUrl: "https://polymarket.com/event/will-marin-cilic-win-the-2026-mens-french-open"
-analysisDate: 2026-03-30
 ---
 
 This market is severely miscategorized as "politics" when it concerns professional tennis, and the 0.2% price reflects Cilic's age and injury history making a Grand Slam victory in 2026 extraordinarily unlikely. The mispricing matters because it reveals either a platform error or extreme confidence in Cilic's improbability rather than genuine market intelligence about the sport.

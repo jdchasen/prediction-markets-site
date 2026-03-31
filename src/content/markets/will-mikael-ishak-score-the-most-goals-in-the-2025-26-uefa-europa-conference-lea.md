@@ -3,8 +3,8 @@ title: "Will Mikael Ishak score the most goals in the 2025-26 UEFA Europa Confer
 description: "Will Mikael Ishak score the most goals in the 2025-26 UEFA Europa Conference League? Odds: 67.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Mikael Ishak score the most goals in the 2025-26 UEFA Europa Conference League?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-30
+status: "settled"
+lastUpdated: 2026-03-31
 expiryDate: 2026-05-21
 tags: ["politics", "polymarket"]
 polymarketYes: 67.0

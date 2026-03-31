@@ -1,17 +1,16 @@
 ---
 title: "Will the Fed increase interest rates by 25 bps after the June 2026 meeting?"
-description: "Will the Fed increase interest rates by 25 bps after the June 2026 meeting? Odds: 5.3% YES on Polymarket. See live prices and trade this market."
+description: "Will the Fed increase interest rates by 25 bps after the June 2026 meeting? Odds: 4.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Fed increase interest rates by 25 bps after the June 2026 meeting?"
 category: "economics"
 status: "active"
-lastUpdated: 2026-03-30
+lastUpdated: 2026-03-31
 expiryDate: 2026-06-17
 tags: ["economics", "federal-reserve", "interest-rates", "polymarket"]
-polymarketYes: 5.3
-polymarketNo: 94.7
-polymarketVolume: 934142
+polymarketYes: 4.5
+polymarketNo: 95.5
+polymarketVolume: 951549
 polymarketUrl: "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-june-2026-meeting"
-analysisDate: 2026-03-30
 ---
 
 The market assigns only a 5.3% probability to a June 2026 rate hike, reflecting expectations that the Federal Reserve will have completed its easing cycle well before then and will be in a holding pattern or potentially even cutting further depending on economic conditions.

@@ -3,8 +3,8 @@ title: "Will the Netherlands send warships through the Strait of Hormuz by April
 description: "Will the Netherlands send warships through the Strait of Hormuz by April 30, 2026? Odds: 4.3% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Netherlands send warships through the Strait of Hormuz by April 30, 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-30
+status: "settled"
+lastUpdated: 2026-03-31
 expiryDate: 2026-04-30
 tags: ["ai", "ethereum", "politics", "polymarket"]
 polymarketYes: 4.3

@@ -4,14 +4,13 @@ description: "Will Braga win the 2025-26 UEFA Europa League? Odds: 4.1% YES on P
 marketQuestion: "Will Braga win the 2025-26 UEFA Europa League?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-03-30
+lastUpdated: 2026-03-31
 expiryDate: 2026-05-24
 tags: ["politics", "polymarket"]
 polymarketYes: 4.1
 polymarketNo: 95.9
-polymarketVolume: 98125
+polymarketVolume: 98177
 polymarketUrl: "https://polymarket.com/event/will-braga-win-the-2025-26-uefa-europa-league"
-analysisDate: 2026-03-30
 ---
 
 The market assigns Braga only a 4.1% chance of winning the 2025-26 Europa League, reflecting their status as a mid-tier Portuguese club facing overwhelming competition from Europe's elite, though the tournament's unpredictability keeps some value on the table.

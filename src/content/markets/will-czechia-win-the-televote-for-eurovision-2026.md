@@ -3,8 +3,8 @@ title: "Will Czechia win the televote for Eurovision 2026?"
 description: "Will Czechia win the televote for Eurovision 2026? Odds: 0.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Czechia win the televote for Eurovision 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-30
+status: "settled"
+lastUpdated: 2026-03-31
 expiryDate: 2026-05-16
 tags: ["politics", "polymarket"]
 polymarketYes: 0.4

@@ -3,8 +3,8 @@ title: "Netanyahu out by end of 2026?"
 description: "Netanyahu out by end of 2026? Odds: 41.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Netanyahu out by end of 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-30
+status: "settled"
+lastUpdated: 2026-03-31
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 41.5

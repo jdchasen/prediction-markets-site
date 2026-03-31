@@ -3,8 +3,8 @@ title: "Will Cody Gakpo be the top goal scorer in the 2025–26 English Premier 
 description: "Will Cody Gakpo be the top goal scorer in the 2025–26 English Premier League season? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Cody Gakpo be the top goal scorer in the 2025–26 English Premier League season?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-03-30
+status: "settled"
+lastUpdated: 2026-03-31
 expiryDate: 2026-05-27
 tags: ["polymarket", "sports"]
 polymarketYes: 0.1

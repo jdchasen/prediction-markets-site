@@ -3,8 +3,8 @@ title: "Will Nasdaq 100 (NDX) hit $23,000 (LOW) in December?"
 description: "Will Nasdaq 100 (NDX) hit $23,000 (LOW) in December? Odds: 100.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Nasdaq 100 (NDX) hit $23,000 (LOW) in December?"
 category: "finance"
-status: "active"
-lastUpdated: 2026-03-30
+status: "settled"
+lastUpdated: 2026-03-31
 expiryDate: 2026-12-31
 tags: ["finance", "polymarket", "stocks"]
 polymarketYes: 100.0

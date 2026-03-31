@@ -4,14 +4,13 @@ description: "Will Isaiah Hartenstein lead the NBA in rebounds during the 2025â€
 marketQuestion: "Will Isaiah Hartenstein lead the NBA in rebounds during the 2025â€“26 NBA season?"
 category: "sports"
 status: "active"
-lastUpdated: 2026-03-30
+lastUpdated: 2026-03-31
 expiryDate: 2026-04-12
 tags: ["ai", "polymarket", "sports"]
 polymarketYes: 0.1
 polymarketNo: 99.9
 polymarketVolume: 9815
 polymarketUrl: "https://polymarket.com/event/nba-2025-26-rpg-leader-isaiah-hartenstein"
-analysisDate: 2026-03-30
 ---
 
 # Isaiah Hartenstein Rebound Leader Analysis

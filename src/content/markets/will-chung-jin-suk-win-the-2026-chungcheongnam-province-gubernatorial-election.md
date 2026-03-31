@@ -3,8 +3,8 @@ title: "Will Chung Jin-suk win the 2026 Chungcheongnam Province gubernatorial el
 description: "Will Chung Jin-suk win the 2026 Chungcheongnam Province gubernatorial election? Odds: 0.3% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Chung Jin-suk win the 2026 Chungcheongnam Province gubernatorial election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-30
+status: "settled"
+lastUpdated: 2026-03-31
 expiryDate: 2026-06-03
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.3

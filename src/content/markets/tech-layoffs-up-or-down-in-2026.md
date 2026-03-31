@@ -3,8 +3,8 @@ title: "Tech Layoffs Up or Down in 20​26?"
 description: "Tech Layoffs Up or Down in 20​26? Odds: 88.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Tech Layoffs Up or Down in 20​26?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-30
+status: "settled"
+lastUpdated: 2026-03-31
 expiryDate: 2027-02-28
 tags: ["politics", "polymarket"]
 polymarketYes: 88.5

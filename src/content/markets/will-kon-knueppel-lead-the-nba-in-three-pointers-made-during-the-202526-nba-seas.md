@@ -3,8 +3,8 @@ title: "Will Kon Knueppel lead the NBA in three pointers made during the 2025–
 description: "Will Kon Knueppel lead the NBA in three pointers made during the 2025–26 NBA season? Odds: 0.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Kon Knueppel lead the NBA in three pointers made during the 2025–26 NBA season?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-03-30
+status: "settled"
+lastUpdated: 2026-03-31
 tags: ["polymarket", "sports"]
 polymarketYes: 0.2
 polymarketNo: 99.8

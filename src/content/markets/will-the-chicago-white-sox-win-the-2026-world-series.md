@@ -3,8 +3,8 @@ title: "Will the Chicago White Sox win the 2026 World Series?"
 description: "Will the Chicago White Sox win the 2026 World Series? Odds: 0.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Chicago White Sox win the 2026 World Series?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-30
+status: "settled"
+lastUpdated: 2026-03-31
 expiryDate: 2026-10-31
 tags: ["politics", "polymarket"]
 polymarketYes: 0.4

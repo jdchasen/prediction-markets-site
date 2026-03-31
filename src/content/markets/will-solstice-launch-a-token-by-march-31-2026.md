@@ -4,13 +4,12 @@ description: "Will Solstice launch a token by March 31 2026? Odds: 0.1% YES on P
 marketQuestion: "Will Solstice launch a token by March 31 2026?"
 category: "crypto"
 status: "active"
-lastUpdated: 2026-03-30
+lastUpdated: 2026-03-31
 tags: ["crypto", "polymarket"]
 polymarketYes: 0.1
 polymarketNo: 100.0
-polymarketVolume: 98151
+polymarketVolume: 98251
 polymarketUrl: "https://polymarket.com/event/will-solstice-launch-a-token-by-march-31-2026"
-analysisDate: 2026-03-30
 ---
 
 The market pricing Solstice token launch odds at near-zero reflects deep skepticism that this protocol will issue a native token within the next 15 months, likely driven by lack of official announcements, roadmap commitments, or any organizational structure suggesting token plans are underway.

@@ -4,50 +4,51 @@ description: "Maduro guilty of all counts? Odds: 27.5% YES on Polymarket. See li
 marketQuestion: "Maduro guilty of all counts?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-03-30
+lastUpdated: 2026-03-31
 expiryDate: 2027-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 27.5
 polymarketNo: 72.5
-polymarketVolume: 98679
+polymarketVolume: 98699
 polymarketUrl: "https://polymarket.com/event/maduro-guilty-of-all-counts"
+analysisDate: 2026-03-31
 ---
 
-Prediction markets currently assign roughly a one-in-three chance that Venezuelan President Nicolás Maduro will be found guilty on all counts in a formal legal proceeding by the end of 2027, reflecting significant uncertainty about whether he'll face trial at all and the likelihood of comprehensive conviction if he does.
+The prediction market shows roughly one-in-four odds that Venezuelan President Nicolás Maduro will be found guilty on all counts in some legal proceeding by the end of 2027, a significant political question as international pressure mounts following the disputed 2024 presidential election and ongoing International Criminal Court investigations.
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 31.5% | 68.5% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 27.5% | 72.5% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The bull case centers on mounting international pressure and Venezuela's deteriorating political situation. The International Criminal Court has been investigating alleged crimes against humanity in Venezuela since 2021, with prosecutors documenting systematic repression following the disputed 2024 election results. If Maduro loses power through internal collapse, military defection, or negotiated transition—scenarios that gained plausibility after opposition candidate María Corina Machado's claimed victory—he could face prosecution either at the ICC or through a successor Venezuelan government. Argentina, Chile, and other regional powers have actively supported accountability mechanisms, and the U.S. has offered sanctions relief contingent on democratic reforms. A guilty verdict on "all counts" becomes more feasible if he faces a narrow, focused indictment rather than dozens of charges spanning years.
+The bull case centers on escalating international legal mechanisms and regime change scenarios. The ICC has been investigating Maduro since 2021 for crimes against humanity, including extrajudicial killings and torture during civil unrest. If Maduro loses power through either internal collapse or external intervention—increasingly plausible given Venezuela's economic crisis and opposition gains—he could face trial at The Hague or in Venezuelan courts. Historical precedents like Charles Taylor's conviction demonstrate that sitting leaders can eventually face justice. The U.S. indictment from March 2020 charging Maduro with narco-terrorism creates additional pathways, particularly if he's captured or extradited. Recent defections from Venezuelan military and intelligence services strengthen the evidence base.
 
-The bear case acknowledges the immense practical obstacles. Maduro retains control of Venezuela's military and security apparatus, making regime change highly uncertain within this timeframe. Even if overthrown, he might negotiate immunity as part of an exit agreement—the standard playbook for authoritarian transitions in Latin America. The ICC moves slowly; preliminary examinations can take years before formal charges, let alone trials and verdicts. Russia and allied nations could offer Maduro sanctuary, preventing any trial. Most critically, "all counts" sets an extremely high bar. Historical precedent shows that even when dictators face justice, partial acquittals or convictions on limited charges are common, as prosecutors struggle to meet evidentiary standards across every alleged crime.
+The bear case recognizes the immense practical barriers to prosecuting a sitting autocrat. Maduro retains control over Venezuela's military and security apparatus, with support from Russia, China, and Cuba providing diplomatic cover and economic lifelines. The ICC lacks enforcement power and cannot compel arrests without state cooperation. Even if Maduro were charged formally, convictions on "all counts" represent an extremely high bar—partial convictions or plea deals are more typical outcomes in international tribunals. The 2027 timeframe may be too short for the notoriously slow international justice system, where cases often take 5-10 years from indictment to verdict. Maduro could also die, flee to a friendly nation, or negotiate immunity as part of a transition deal.
 
-Key catalysts include Venezuela's 2024 presidential election aftermath and any potential 2025 regional negotiations. Watch for military defections or security force fractures, which would dramatically increase prosecution probability. The ICC prosecutor's next report on Venezuela, typically issued in the fall, could signal whether formal charges are imminent. U.S. sanctions policy shifts under any administration through 2027 might either strengthen Maduro's position or accelerate his exit. The market hinges less on legal technicalities than on whether Maduro loses power and subsequently faces comprehensive prosecution—two sequential, low-probability events that must both occur.
+Key catalysts include Venezuela's next scheduled presidential election in 2025, though legitimacy concerns persist. Watch for ICC prosecutor announcements on Venezuela investigations, typically released quarterly. Any significant political instability in Caracas, particularly military defections or attempted coups, would dramatically shift probabilities. The U.S. sanctions policy under the current administration and potential shifts after the 2024 U.S. elections will influence regime stability. Regional pressure from Colombia and Brazil, both led by left-leaning governments theoretically more sympathetic to dialogue, could either accelerate or delay accountability mechanisms depending on whether they prioritize justice or stability.
 
 ## Related Markets
 
-- [Will TISZA – Respect and Freedom Party (TISZA) win the most seats in the next Hungarian parliamentary election?](/odds/will-tisza-respect-and-freedom-party-tisza-win-the-most-seats-in-the-next-hungar) — 68% YES
+- [Will JB Pritzker win the 2028 US Presidential Election?](/odds/will-jb-pritzker-win-the-2028-us-presidential-election) — 2% YES
 - [Jerome Powell out as Fed Chair by March 31, 2026?](/odds/jerome-powell-out-as-fed-chair-by-march-31-2026) — 0% YES
-- [Will the People Power Party (PPP) win the 2026 South Korean local elections?](/odds/will-the-people-power-party-ppp-win-the-2026-south-korean-local-elections) — 4% YES
+- [Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?](/odds/will-amanda-anisimova-be-the-2026-womens-wimbledon-winner) — 6% YES
 
 ## Frequently Asked Questions
 
-### Does this market resolve YES if Maduro is convicted in a Venezuelan court rather than an international tribunal?
+### What specific charges would need guilty verdicts for this market to resolve YES?
 
-Market resolution likely depends on the specific market rules, but conviction in any legitimate judicial proceeding would typically count, whether ICC, domestic Venezuelan courts post-transition, or third-country universal jurisdiction cases.
+The market resolution depends on the specific legal proceedings referenced, but likely requires conviction on every single charge brought—whether that's all counts in an ICC indictment for crimes against humanity or all charges in the U.S. narco-terrorism case. Even one acquittal or dropped charge would result in a NO resolution.
 
-### What happens if Maduro is found guilty on most but not all charges—would that resolve as NO?
+### Could this resolve YES if Maduro is tried in absentia while still controlling Venezuela?
 
-Yes, the "all counts" language requires conviction on every single charge brought against him, making this significantly harder to achieve than a simple guilty verdict on major charges.
+Yes, international tribunals and some domestic courts can convict defendants in absentia, so Maduro doesn't necessarily need to lose power for a guilty verdict, though enforcement and legitimacy would be questionable without custody.
 
-### How quickly could the ICC realistically bring a case to verdict if they formally charged Maduro tomorrow?
+### What happens if Maduro dies before 2027 or negotiates immunity as part of a power transition?
 
-ICC trials typically take 3-5 years from indictment to final verdict, meaning charges would need to come by 2023-2024 to reach conclusion by the 2027 deadline—the investigation is ongoing but no formal charges have been filed yet.
+Either scenario would almost certainly result in NO resolution, as death prevents prosecution and immunity deals explicitly preclude criminal convictions, even though they sometimes require admissions of wrongdoing.
 
 ## Learn More
 

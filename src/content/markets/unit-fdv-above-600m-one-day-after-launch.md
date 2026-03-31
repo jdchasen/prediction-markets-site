@@ -3,8 +3,8 @@ title: "Unit FDV above $600M one day after launch?"
 description: "Unit FDV above $600M one day after launch? Odds: 27.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Unit FDV above $600M one day after launch?"
 category: "crypto"
-status: "active"
-lastUpdated: 2026-03-30
+status: "settled"
+lastUpdated: 2026-03-31
 expiryDate: 2028-01-01
 tags: ["crypto", "polymarket"]
 polymarketYes: 27.0

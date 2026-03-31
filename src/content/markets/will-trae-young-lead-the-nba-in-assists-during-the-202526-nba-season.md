@@ -3,8 +3,8 @@ title: "Will Trae Young lead the NBA in assists during the 2025–26 NBA season?
 description: "Will Trae Young lead the NBA in assists during the 2025–26 NBA season? Odds: 0.3% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Trae Young lead the NBA in assists during the 2025–26 NBA season?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-03-30
+status: "settled"
+lastUpdated: 2026-03-31
 expiryDate: 2026-04-12
 tags: ["polymarket", "sports"]
 polymarketYes: 0.3

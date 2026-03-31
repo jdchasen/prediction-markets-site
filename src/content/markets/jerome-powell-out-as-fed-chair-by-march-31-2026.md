@@ -4,14 +4,13 @@ description: "Jerome Powell out as Fed Chair by March 31, 2026? Odds: 0.1% YES o
 marketQuestion: "Jerome Powell out as Fed Chair by March 31, 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-03-30
+lastUpdated: 2026-03-31
 expiryDate: 2026-05-14
 tags: ["ai", "federal-reserve", "politics", "polymarket"]
 polymarketYes: 0.1
 polymarketNo: 100.0
-polymarketVolume: 989680
+polymarketVolume: 994282
 polymarketUrl: "https://polymarket.com/event/jerome-powell-out-as-fed-chair-by-march-31-2026"
-analysisDate: 2026-03-30
 ---
 
 The market assigns near-zero probability to Jerome Powell's departure as Federal Reserve Chair before March 31, 2026, reflecting the strong institutional protections around Fed independence and Powell's term extending until May 2026. This matters because any forced removal would represent an unprecedented assault on central bank autonomy with massive implications for monetary policy credibility and financial markets.

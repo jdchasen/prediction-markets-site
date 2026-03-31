@@ -3,8 +3,8 @@ title: "US Men's Clay Court Championships: Adolfo Vallejo vs Zachary Svajda"
 description: "US Men's Clay Court Championships: Adolfo Vallejo vs Zachary Svajda Odds: 100.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "US Men's Clay Court Championships: Adolfo Vallejo vs Zachary Svajda"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-30
+status: "settled"
+lastUpdated: 2026-03-31
 expiryDate: 2026-04-06
 tags: ["politics", "polymarket"]
 polymarketYes: 100.0

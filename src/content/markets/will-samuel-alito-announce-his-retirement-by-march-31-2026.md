@@ -1,17 +1,16 @@
 ---
 title: "Will Samuel Alito announce his retirement by March 31, 2026?"
-description: "Will Samuel Alito announce his retirement by March 31, 2026? Odds: 1.8% YES on Polymarket. See live prices and trade this market."
+description: "Will Samuel Alito announce his retirement by March 31, 2026? Odds: 1.6% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Samuel Alito announce his retirement by March 31, 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-03-30
+lastUpdated: 2026-03-31
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 1.8
-polymarketNo: 98.2
+polymarketYes: 1.6
+polymarketNo: 98.5
 polymarketVolume: 9759
 polymarketUrl: "https://polymarket.com/event/will-samuel-alito-announce-his-retirement-by-march-31-2026"
-analysisDate: 2026-03-30
 ---
 
 The market is pricing in an extremely low probability of retirement, reflecting both Alito's historical resistance to early departure and the political costs of a conservative justice stepping down during a Republican administration. This matters because Alito's potential exit would fundamentally reshape the Court's ideological balance and has become a focal point in post-2024 election political calculations.

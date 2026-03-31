@@ -3,8 +3,8 @@ title: "Will Ante Budimir be the top goal scorer in the 2025–26 La Liga season
 description: "Will Ante Budimir be the top goal scorer in the 2025–26 La Liga season? Odds: 0.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Ante Budimir be the top goal scorer in the 2025–26 La Liga season?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-30
+status: "settled"
+lastUpdated: 2026-03-31
 expiryDate: 2026-05-30
 tags: ["politics", "polymarket"]
 polymarketYes: 0.4

@@ -3,8 +3,8 @@ title: "Will Karen Khachanov win the 2026 Men's French Open?"
 description: "Will Karen Khachanov win the 2026 Men's French Open? Odds: 0.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Karen Khachanov win the 2026 Men's French Open?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-30
+status: "settled"
+lastUpdated: 2026-03-31
 expiryDate: 2026-06-07
 tags: ["politics", "polymarket"]
 polymarketYes: 0.4

@@ -3,8 +3,8 @@ title: "Will Kosovo qualify for the 2026 FIFA World Cup?"
 description: "Will Kosovo qualify for the 2026 FIFA World Cup? Odds: 32.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Kosovo qualify for the 2026 FIFA World Cup?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-03-30
+status: "settled"
+lastUpdated: 2026-03-31
 expiryDate: 2026-04-12
 tags: ["polymarket", "sports"]
 polymarketYes: 32.5
