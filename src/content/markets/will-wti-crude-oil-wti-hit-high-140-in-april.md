@@ -3,7 +3,7 @@ title: "Will WTI Crude Oil (WTI) hit (HIGH) $140 in April?"
 description: "Will WTI Crude Oil (WTI) hit (HIGH) $140 in April? Odds: 24.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will WTI Crude Oil (WTI) hit (HIGH) $140 in April?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-31
 expiryDate: 2026-05-01
 tags: ["politics", "polymarket"]

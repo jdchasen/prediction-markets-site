@@ -11,7 +11,6 @@ polymarketYes: 0.9
 polymarketNo: 99.1
 polymarketVolume: 99057
 polymarketUrl: "https://polymarket.com/event/will-the-seattle-kraken-win-the-western-conference-139"
-analysisDate: 2026-03-31
 ---
 
 The Seattle Kraken face near-impossible odds to win the Western Conference by June 2026, with the market pricing in less than 1% probability due to their current standing as one of the NHL's weakest teams this season. This market matters as a case study in extreme longshot betting, where even a modest playoff run could generate significant returns despite the franchise's struggles in just its fourth year of existence.

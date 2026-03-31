@@ -9,9 +9,8 @@ expiryDate: 2026-05-12
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 93.5
 polymarketNo: 6.5
-polymarketVolume: 9740
+polymarketVolume: 9868
 polymarketUrl: "https://polymarket.com/event/will-jim-pillen-win-the-2026-nebraska-governor-republican-primary-election"
-analysisDate: 2026-03-31
 ---
 
 # Jim Pillen 2026 Nebraska Governor Republican Primary Analysis

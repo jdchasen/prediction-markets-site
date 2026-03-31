@@ -3,7 +3,7 @@ title: "Will Bill Gates be confirmed to have visited Epstein’s island?"
 description: "Will Bill Gates be confirmed to have visited Epstein’s island? Odds: 7.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Bill Gates be confirmed to have visited Epstein’s island?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-31
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]

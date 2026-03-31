@@ -9,9 +9,8 @@ expiryDate: 2026-06-30
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 78.5
 polymarketNo: 21.5
-polymarketVolume: 9857
+polymarketVolume: 9869
 polymarketUrl: "https://polymarket.com/event/will-michael-bennet-win-the-2026-colorado-governor-democratic-primary-election"
-analysisDate: 2026-03-31
 ---
 
 # 2026 Colorado Democratic Governor Primary Analysis

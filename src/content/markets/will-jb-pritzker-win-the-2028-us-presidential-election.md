@@ -9,9 +9,8 @@ expiryDate: 2028-11-07
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 1.6
 polymarketNo: 98.4
-polymarketVolume: 9836727
+polymarketVolume: 9958692
 polymarketUrl: "https://polymarket.com/event/will-jb-pritzker-win-the-2028-us-presidential-election"
-analysisDate: 2026-03-31
 ---
 
 The market pricing JB Pritzker's 2028 presidential chances at under 2% reflects widespread skepticism that the Illinois governor can break through a crowded Democratic field, though his significant personal wealth and executive experience keep him from being dismissed entirely.

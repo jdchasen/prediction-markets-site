@@ -11,7 +11,6 @@ polymarketYes: 2.0
 polymarketNo: 98.0
 polymarketVolume: 9745
 polymarketUrl: "https://polymarket.com/event/will-march-be-the-best-month-for-bitcoin-in-2026"
-analysisDate: 2026-03-31
 ---
 
 # Bitcoin March 2026 Performance Analysis

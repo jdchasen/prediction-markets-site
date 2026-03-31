@@ -3,7 +3,7 @@ title: "Los Angeles Angels vs. Chicago Cubs"
 description: "Los Angeles Angels vs. Chicago Cubs Odds: 42.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Los Angeles Angels vs. Chicago Cubs"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-31
 expiryDate: 2026-04-07
 tags: ["politics", "polymarket"]

@@ -1,17 +1,16 @@
 ---
 title: "US recession by end of 2026?"
-description: "US recession by end of 2026? Odds: 37.5% YES on Polymarket. See live prices and trade this market."
+description: "US recession by end of 2026? Odds: 34.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "US recession by end of 2026?"
 category: "economics"
 status: "active"
 lastUpdated: 2026-03-31
 expiryDate: 2027-01-31
 tags: ["economics", "polymarket"]
-polymarketYes: 37.5
-polymarketNo: 62.5
-polymarketVolume: 936273
+polymarketYes: 34.5
+polymarketNo: 65.5
+polymarketVolume: 946514
 polymarketUrl: "https://polymarket.com/event/us-recession-by-end-of-2026"
-analysisDate: 2026-03-31
 ---
 
 Prediction markets currently price just over one-in-three odds of a US recession materializing by end of 2026, a probability that reflects elevated uncertainty around the incoming administration's trade policies and the Fed's ability to engineer a soft landing amid persistent inflation pressures.

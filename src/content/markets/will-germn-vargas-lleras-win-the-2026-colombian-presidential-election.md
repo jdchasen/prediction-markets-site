@@ -9,9 +9,8 @@ expiryDate: 2026-06-21
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.2
 polymarketNo: 99.8
-polymarketVolume: 985460
+polymarketVolume: 985471
 polymarketUrl: "https://polymarket.com/event/will-germn-vargas-lleras-win-the-2026-colombian-presidential-election"
-analysisDate: 2026-03-31
 ---
 
 Germán Vargas Lleras faces extremely long odds at 0.2% for Colombia's 2026 presidential election, reflecting his damaged political standing after a weak fifth-place finish in 2018 and ongoing political headwinds that have diminished his viability as a serious contender.

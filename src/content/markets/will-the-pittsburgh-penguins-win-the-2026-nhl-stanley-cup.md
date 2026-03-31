@@ -1,17 +1,16 @@
 ---
 title: "Will the Pittsburgh Penguins win the 2026 NHL Stanley Cup?"
-description: "Will the Pittsburgh Penguins win the 2026 NHL Stanley Cup? Odds: 2.8% YES on Polymarket. See live prices and trade this market."
+description: "Will the Pittsburgh Penguins win the 2026 NHL Stanley Cup? Odds: 2.6% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Pittsburgh Penguins win the 2026 NHL Stanley Cup?"
 category: "sports"
 status: "active"
 lastUpdated: 2026-03-31
 expiryDate: 2026-06-30
 tags: ["polymarket", "sports"]
-polymarketYes: 2.8
-polymarketNo: 97.2
-polymarketVolume: 987055
+polymarketYes: 2.6
+polymarketNo: 97.4
+polymarketVolume: 989850
 polymarketUrl: "https://polymarket.com/event/will-the-pittsburgh-penguins-win-the-2026-nhl-stanley-cup"
-analysisDate: 2026-03-31
 ---
 
 The Pittsburgh Penguins are essentially written off as Stanley Cup contenders with under 3% odds reflecting a franchise in decline phase as their aging core faces an increasingly uncertain future over the next two seasons.

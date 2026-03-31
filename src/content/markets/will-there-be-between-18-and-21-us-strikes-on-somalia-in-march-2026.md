@@ -3,7 +3,7 @@ title: "Will there be between 18 and 21 US strikes on Somalia in March 2026?"
 description: "Will there be between 18 and 21 US strikes on Somalia in March 2026? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will there be between 18 and 21 US strikes on Somalia in March 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-03-31
 expiryDate: 2026-04-04
 tags: ["politics", "polymarket"]

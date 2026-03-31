@@ -9,9 +9,8 @@ expiryDate: 2026-05-27
 tags: ["polymarket", "sports"]
 polymarketYes: 11.5
 polymarketNo: 88.5
-polymarketVolume: 9736688
+polymarketVolume: 9742664
 polymarketUrl: "https://polymarket.com/event/will-manchester-city-win-the-202526-english-premier-league"
-analysisDate: 2026-03-31
 ---
 
 Manchester City's championship odds have collapsed to just 11.5% for the 2025-26 season, reflecting unprecedented uncertainty around the club's immediate future as they face serious charges from the Premier League that could result in severe sanctions including points deductions or even relegation before this market's May 2026 resolution.
