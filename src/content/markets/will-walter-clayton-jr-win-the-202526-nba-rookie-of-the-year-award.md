@@ -4,50 +4,51 @@ description: "Will Walter Clayton Jr. win the 2025–26 NBA Rookie of the Year a
 marketQuestion: "Will Walter Clayton Jr. win the 2025–26 NBA Rookie of the Year award?"
 category: "sports"
 status: "active"
-lastUpdated: 2026-03-31
+lastUpdated: 2026-04-01
 expiryDate: 2026-05-18
 tags: ["polymarket", "sports"]
 polymarketYes: 0.1
 polymarketNo: 100.0
-polymarketVolume: 98602
+polymarketVolume: 98607
 polymarketUrl: "https://polymarket.com/event/will-walter-clayton-jr-win-the-202526-nba-rookie-of-the-year-award-262-418"
+analysisDate: 2026-04-01
 ---
 
-The market has essentially written off Walter Clayton Jr.'s chances at NBA Rookie of the Year for the 2025-26 season, pricing him at near-zero probability despite the award being over a year away.
+Walter Clayton Jr.'s odds of winning the 2025–26 NBA Rookie of the Year award sit at near-zero levels, reflecting that he went undrafted in the 2025 NBA Draft and currently has no clear path to an NBA roster spot for the upcoming season.
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.1% | 100.0% | $97K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.1% | 100.0% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The bear case is straightforward and reflected in current pricing: Clayton went undrafted in the 2024 NBA Draft after his senior season at Florida, where he averaged 17.8 points per game. At 23 years old entering the league, he faces long odds of even securing a roster spot for 2025-26, let alone competing for ROY honors. The award historically goes to high lottery picks who receive 30+ minutes per game on rebuilding teams—think Victor Wembanyama types, not undrafted guards fighting for G-League assignments. Even if Clayton signs a two-way or makes an NBA roster, he'd need to leapfrog whoever becomes the consensus number one pick in the 2025 NBA Draft (likely projected in June 2025), which would require an unprecedented performance gap.
+The bear case is overwhelming: Clayton, a 6'3" guard from the University of Florida, failed to hear his name called in either round of the 2025 draft despite averaging 17.8 points per game in his final college season. Undrafted players rarely compete for major awards, as they typically secure two-way contracts or G League assignments with minimal NBA minutes. Even successful undrafted rookies like Fred VanVleet or Duncan Robinson required years of development before earning rotation roles. For Clayton to win ROY, he would need to not only make an NBA roster but immediately produce at an All-Rookie level—something virtually unprecedented for undrafted guards. The award historically goes to high lottery picks who receive 25+ minutes per game from day one.
 
-The bull case requires Clayton to defy historical precedent entirely. He'd need to sign with an NBA team before the 2025-26 season begins in October 2025, earn significant rotation minutes, and dramatically outperform both the 2025 draft class and any two-way players who break out. The closest comparison might be someone like Fred VanVleet's trajectory, though VanVleet never won ROY. Clayton's scoring ability and improved three-point shooting (36.4% his senior year) could theoretically translate if he lands in an ideal situation with injury-depleted backcourt depth.
+The bull case requires Clayton to sign a training camp deal in September or early October 2025, impress enough to earn a roster spot, and land in an ideal situation where backcourt injuries or a rebuilding team's needs create unexpected playing time. If he showcases the three-point shooting and defensive versatility that NBA teams covet, he could carve out 20+ minutes per game. The 2025-26 draft class has been criticized as weaker than recent years, potentially lowering the statistical bar for ROY consideration. Key catalysts include Summer League performances in July 2025, where strong showings could generate contracts, and the October roster deadline when teams must finalize their 15-man rosters.
 
-Key catalysts include NBA Summer League 2025 (typically July), where Clayton could showcase himself for training camp invites, and the 2025 NBA Draft order announcement following the lottery in May 2025. Traders should monitor whether he secures any training camp deals ahead of the October 2025 season opener and track the profiles of top 2025 draft prospects—if the draft class appears weak, his microscopic odds might tick slightly higher, though remain functionally negligible.
+Traders should monitor summer league box scores, any team workouts Clayton attends, and which organizations show interest in signing him. The preseason period from October 5-15, 2025 will be critical—this is when bubble roster players either secure their positions or get cut. If Clayton remains unsigned by late October, these odds would justify dropping even further toward zero.
 
 ## Related Markets
 
 - [Will Manchester City win the 2025–26 English Premier League?](/odds/will-manchester-city-win-the-202526-english-premier-league) — 12% YES
-- [Will the Pittsburgh Penguins win the 2026 NHL Stanley Cup?](/odds/will-the-pittsburgh-penguins-win-the-2026-nhl-stanley-cup) — 3% YES
 - [Will Haas be the 2026 F1 Constructors' Champion?](/odds/will-haas-be-the-2026-f1-constructors-champion) — 0% YES
+- [Will Deni Avdija win the 2025–2026 NBA Most Improved Player?](/odds/will-deni-avdija-win-the-20252026-nba-most-improved-player) — 7% YES
 
 ## Frequently Asked Questions
 
 ### Has an undrafted player ever won NBA Rookie of the Year?
 
-No undrafted player has ever won the award in NBA history. The closest was Ben Wallace making an All-Defensive team as a second-year player, but he never competed for ROY honors.
+No undrafted player has ever won the award in NBA history. The closest was Ben Wallace making an All-Defensive team years after his rookie season, but he never contended for ROY.
 
-### What would Clayton need to average to realistically contend for this award?
+### What would Clayton need to average statistically to have any chance at this award?
 
-He'd likely need 18+ points, 5+ assists per game on a playoff-contending team while the 2025 draft's top picks underperform significantly—a scenario with no historical precedent for an undrafted 23-year-old rookie.
+He would likely need at least 15 points, 4 assists, and strong efficiency on a playoff-contending team to compete with lottery picks who receive featured roles. Even 12-15 points per game typically isn't enough unless accompanied by exceptional defense or winning impact.
 
-### When will we know if Clayton has secured an NBA roster spot for 2025-26?
+### Which NBA teams might be most likely to sign Clayton to a training camp deal?
 
-Most training camp rosters are finalized by late September 2025, with final cuts happening in mid-October 2025 before the regular season, though two-way contract signings can occur throughout the year.
+Rebuilding teams with backcourt needs like the Wizards, Pistons, or Trail Blazers typically take flyers on undrafted guards, though none have publicly expressed interest as of May 2025.
 
 ## Learn More
 

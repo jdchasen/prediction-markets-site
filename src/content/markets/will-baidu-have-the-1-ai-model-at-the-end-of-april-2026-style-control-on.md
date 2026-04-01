@@ -3,8 +3,8 @@ title: "Will Baidu have the #1 AI model at the end of April 2026 (Style Control 
 description: "Will Baidu have the #1 AI model at the end of April 2026 (Style Control On)? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Baidu have the #1 AI model at the end of April 2026 (Style Control On)?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-31
+status: "settled"
+lastUpdated: 2026-04-01
 expiryDate: 2026-04-30
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 0.1

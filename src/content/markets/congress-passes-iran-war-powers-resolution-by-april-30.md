@@ -3,8 +3,8 @@ title: "Congress passes Iran war powers resolution by April 30?"
 description: "Congress passes Iran war powers resolution by April 30? Odds: 14.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Congress passes Iran war powers resolution by April 30?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-31
+status: "settled"
+lastUpdated: 2026-04-01
 expiryDate: 2026-04-30
 tags: ["politics", "polymarket"]
 polymarketYes: 14.5

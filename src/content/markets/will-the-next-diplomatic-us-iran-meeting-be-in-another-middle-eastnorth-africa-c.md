@@ -3,8 +3,8 @@ title: "Will the next diplomatic US-Iran meeting be in another Middle East/North
 description: "Will the next diplomatic US-Iran meeting be in another Middle East/North Africa country? Odds: 0.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the next diplomatic US-Iran meeting be in another Middle East/North Africa country?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-31
+status: "settled"
+lastUpdated: 2026-04-01
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
 polymarketYes: 0.4

@@ -3,8 +3,8 @@ title: "Credit One Charleston Open: Anna Bondar vs Magdalena Frech"
 description: "Credit One Charleston Open: Anna Bondar vs Magdalena Frech Odds: 50.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Credit One Charleston Open: Anna Bondar vs Magdalena Frech"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-31
+status: "settled"
+lastUpdated: 2026-04-01
 expiryDate: 2026-04-08
 tags: ["politics", "polymarket"]
 polymarketYes: 50.0

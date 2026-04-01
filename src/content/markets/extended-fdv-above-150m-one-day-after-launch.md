@@ -1,17 +1,16 @@
 ---
 title: "Extended FDV above $150M one day after launch?"
-description: "Extended FDV above $150M one day after launch? Odds: 56.5% YES on Polymarket. See live prices and trade this market."
+description: "Extended FDV above $150M one day after launch? Odds: 58.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Extended FDV above $150M one day after launch?"
 category: "crypto"
 status: "active"
-lastUpdated: 2026-03-31
+lastUpdated: 2026-04-01
 expiryDate: 2027-01-01
 tags: ["crypto", "polymarket"]
-polymarketYes: 56.5
-polymarketNo: 43.5
-polymarketVolume: 97452
+polymarketYes: 58.5
+polymarketNo: 41.5
+polymarketVolume: 97556
 polymarketUrl: "https://polymarket.com/event/extended-fdv-above-150m-one-day-after-launch-452"
-analysisDate: 2026-03-31
 ---
 
 The market pricing Extended's fully diluted valuation above $150M at 56.5% represents near-consensus uncertainty about whether this token launch will capture sufficient initial demand, with traders essentially viewing it as a coin flip slightly favoring the bulls. This matters because FDV assessments at launch have become critical indicators of token distribution strategy success, particularly as the crypto market enters 2025 with heightened scrutiny on inflated valuations and low float scenarios.

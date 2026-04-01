@@ -3,8 +3,8 @@ title: "Will Fidesz–KDNP win the most national list votes in the 2026 Hungaria
 description: "Will Fidesz–KDNP win the most national list votes in the 2026 Hungarian parliamentary election? Odds: 26.5% YES on Polymarket. See live prices and trade this..."
 marketQuestion: "Will Fidesz–KDNP win the most national list votes in the 2026 Hungarian parliamentary election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-31
+status: "settled"
+lastUpdated: 2026-04-01
 expiryDate: 2026-04-12
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 26.5

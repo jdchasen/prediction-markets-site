@@ -3,8 +3,8 @@ title: "Will Marin Cilic win the 2026 Men's French Open?"
 description: "Will Marin Cilic win the 2026 Men's French Open? Odds: 0.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Marin Cilic win the 2026 Men's French Open?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-31
+status: "settled"
+lastUpdated: 2026-04-01
 expiryDate: 2026-06-07
 tags: ["politics", "polymarket"]
 polymarketYes: 0.2

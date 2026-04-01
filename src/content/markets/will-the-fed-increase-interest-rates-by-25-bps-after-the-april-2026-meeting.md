@@ -1,53 +1,54 @@
 ---
 title: "Will the Fed increase interest rates by 25+ bps after the April 2026 meeting?"
-description: "Will the Fed increase interest rates by 25+ bps after the April 2026 meeting? Odds: 1.1% YES on Polymarket. See live prices and trade this market."
+description: "Will the Fed increase interest rates by 25+ bps after the April 2026 meeting? Odds: 0.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Fed increase interest rates by 25+ bps after the April 2026 meeting?"
 category: "economics"
 status: "active"
-lastUpdated: 2026-03-31
+lastUpdated: 2026-04-01
 expiryDate: 2026-04-29
 tags: ["economics", "federal-reserve", "interest-rates", "polymarket"]
-polymarketYes: 1.1
-polymarketNo: 99.0
-polymarketVolume: 9614783
+polymarketYes: 0.8
+polymarketNo: 99.2
+polymarketVolume: 9908201
 polymarketUrl: "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-april-2026-meeting"
+analysisDate: 2026-04-01
 ---
 
-The market assigns an extremely low probability to the Fed hiking rates after its April 2026 meeting, reflecting broad consensus that the current tightening cycle has ended and the central bank will either hold steady or continue cutting from current levels.
+The market pricing just 0.8% odds for a rate hike following the April 2026 FOMC meeting reflects strong trader conviction that the Fed will be in an extended holding pattern or cutting cycle by spring 2026, making any 25+ basis point increase extraordinarily unlikely under baseline economic scenarios.
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.9% | 99.1% | $9.5M | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.8% | 99.2% | $9.9M | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The bull case for a rate increase hinges on a scenario where inflation proves structurally sticky or resurges dramatically by early 2026. If core CPI—which the Fed targets around 2%—remains elevated above 3.5% through 2025 despite rate cuts, or if a fiscal shock or commodity crisis reignites price pressures in late 2025, the FOMC could reverse course and resume hiking. This would require not just elevated inflation readings but sustained labor market tightness with nonfarm payrolls consistently above 250,000 monthly and wage growth accelerating beyond 4-5% annually. The March 2026 FOMC meeting (scheduled for March 17-18) would be crucial, as Fed communications there would signal any hawkish pivot ahead of the April meeting.
+The bear case (against a rate hike) dominates current positioning for compelling reasons. By April 2026, the Fed will be roughly three years past its 2023 peak rate, and historical patterns suggest a complete hiking cycle typically concludes well before this timeframe. Current CPI trends showing disinflation momentum would need to sustain through 2025 for the Fed to maintain its projected cutting path outlined in the December 2025 and March 2026 SEP (Summary of Economic Projections) dots. The labor market would need to achieve a soft landing without reigniting wage pressures—nonfarm payrolls averaging 100,000-150,000 monthly gains would support this trajectory. Additionally, if the Fed cuts rates through 2025 as markets anticipate, reversing course with hikes in early 2026 would signal a major policy error.
 
-The bear case—and the reason for current pricing—is that the Fed's terminal rate for this cycle has already been reached, with the trajectory pointing toward cuts as inflation normalizes. The FOMC's own dot plot projections from recent meetings have signaled rate reductions through 2025-2026. For rates to increase in April 2026, the Fed would need to have already cut rates substantially and then encounter an inflation reacceleration severe enough to warrant reversing policy within months. Historical precedent shows the Fed rarely hikes immediately after cutting unless facing a genuine crisis, making this scenario extraordinarily unlikely under standard economic conditions.
+The bull case requires a severe inflation resurgence scenario. This would demand either a major supply shock (geopolitical crisis disrupting energy markets, unexpected commodity spike) or a demand-driven reacceleration where core PCE inflation climbs back above 3.5-4% through 2025. Specific triggers could include persistent housing inflation (shelter CPI remaining sticky above 5% annually), a fiscal stimulus package passing in 2025 that overheats the economy, or wage growth reaccelerating above 5% if unemployment falls below 3.5%. The Fed would need to cut rates in 2024-2025, see conditions deteriorate, then reverse course dramatically—a whipsaw that historically occurs only during genuine economic crises.
 
-Key catalysts include the January 2026 CPI release (typically mid-February), February employment report (early March with NFP data), and the March FOMC meeting statement. Traders should monitor whether core PCE inflation—the Fed's preferred measure—remains on a disinflationary path through 2025, with monthly readings around 0.2% or below. Any December 2025 or January 2026 FOMC guidance explicitly opening the door to future hikes would dramatically shift these odds, but absent a major economic regime change, the probability remains near zero.
+Key catalysts to monitor include every monthly CPI and PCE release through early 2026, particularly the January and February 2026 inflation prints that would inform the April FOMC decision. The March 2026 FOMC meeting (scheduled for March 17-18) will be critical for signaling April's direction through both the policy statement and Chair Powell's press conference. Employment situation reports on the first Friday of each month will signal labor market temperature, while Q4 2025 and Q1 2026 GDP advance estimates will confirm whether the economy requires restrictive policy. The January 2026 FOMC meeting projections will show whether any officials anticipate 2026 hikes in their dot plots.
 
 ## Related Markets
 
-- [Will 8 Fed rate cuts happen in 2026?](/odds/will-8-fed-rate-cuts-happen-in-2026) — 1% YES
-- [Will the Fed increase interest rates by 25 bps after the June 2026 meeting?](/odds/will-the-fed-increase-interest-rates-by-25-bps-after-the-june-2026-meeting) — 4% YES
-- [US recession by end of 2026?](/odds/us-recession-by-end-of-2026) — 38% YES
+- [US recession by end of 2026?](/odds/us-recession-by-end-of-2026) — 30% YES
+- [Will the Bank of Israel make no change to the Bank of Israel Interest Rate after the May decision?](/odds/will-the-bank-of-israel-make-no-change-to-the-bank-of-israel-interest-rate-after) — 85% YES
+- [Bank of England increases interest rates by 25 bps after June 2026 meeting?](/odds/bank-of-england-increases-interest-rates-by-25-bps-after-june-2026-meeting) — 32% YES
 
 ## Frequently Asked Questions
 
-### What inflation level would realistically force the Fed to hike rates in April 2026?
+### What would the Fed funds rate need to be entering the April 2026 meeting for a hike to be plausible?
 
-Core CPI would likely need to be running above 4% year-over-year with accelerating momentum through early 2026, combined with clear evidence that previous rate cuts had been premature and were fueling demand-driven inflation.
+The rate would likely need to be significantly below the neutral rate estimate (around 2.5-3%) after multiple cuts, with inflation simultaneously surging back above 4%, creating clear evidence that cuts were premature and monetary policy had become too accommodative.
 
-### Could geopolitical events like an oil shock make this market resolve YES?
+### Has the Fed ever hiked rates in April of an election year like 2026?
 
-A severe supply shock causing stagflation could theoretically prompt rate hikes, but the Fed would more likely tolerate temporary energy-driven inflation rather than hike into weakening growth, making even this scenario an insufficient catalyst on its own.
+While the Fed maintains political independence, hiking in April 2026 (seven months before midterms) during an election year would be exceptionally rare unless inflation truly demanded it, as the Fed typically avoids major policy shifts close to elections when possible.
 
-### If the Fed cuts rates multiple times in 2025, does that increase the chance of April 2026 hikes?
+### What inflation level would typically justify the Fed resuming hikes after a cutting cycle?
 
-Only marginally—it would require that those cuts were policy errors that overheated the economy, creating conditions severe enough to reverse course within months, a scenario the Fed's data-dependent approach is designed to avoid.
+Historical precedent suggests core PCE inflation persistently above 3-3.5% with rising trajectory, combined with inflation expectations becoming unanchored above 3%, would likely trigger the Fed to pause cuts and consider resuming hikes to reassert credibility.
 
 ## Learn More
 

@@ -4,50 +4,51 @@ description: "Maduro guilty of all counts? Odds: 26.5% YES on Polymarket. See li
 marketQuestion: "Maduro guilty of all counts?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-03-31
+lastUpdated: 2026-04-01
 expiryDate: 2027-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 26.5
 polymarketNo: 73.5
-polymarketVolume: 99068
+polymarketVolume: 99084
 polymarketUrl: "https://polymarket.com/event/maduro-guilty-of-all-counts"
+analysisDate: 2026-04-01
 ---
 
-The prediction market shows roughly one-in-four odds that Venezuelan President Nicolás Maduro will be found guilty on all counts in some legal proceeding by the end of 2027, a significant political question as international pressure mounts following the disputed 2024 presidential election and ongoing International Criminal Court investigations.
+Traders are pricing just over one-in-four odds that Venezuelan President Nicolás Maduro will be found guilty on all counts in a legal proceeding by the end of 2027, reflecting deep uncertainty about whether any jurisdiction can successfully prosecute him while he maintains power in Caracas.
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 27.5% | 72.5% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 26.5% | 73.5% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The bull case centers on escalating international legal mechanisms and regime change scenarios. The ICC has been investigating Maduro since 2021 for crimes against humanity, including extrajudicial killings and torture during civil unrest. If Maduro loses power through either internal collapse or external intervention—increasingly plausible given Venezuela's economic crisis and opposition gains—he could face trial at The Hague or in Venezuelan courts. Historical precedents like Charles Taylor's conviction demonstrate that sitting leaders can eventually face justice. The U.S. indictment from March 2020 charging Maduro with narco-terrorism creates additional pathways, particularly if he's captured or extradited. Recent defections from Venezuelan military and intelligence services strengthen the evidence base.
+The bull case rests on escalating international pressure following Venezuela's disputed 2024 election, where evidence suggests opposition candidate Edmundo González won decisively. The International Criminal Court has an active investigation into crimes against humanity allegedly committed under Maduro's regime since 2017, and prosecutors could potentially advance charges related to systematic repression, extrajudicial killings, and torture. If Maduro's grip on power weakens due to economic collapse, military defection, or diplomatic isolation intensifying beyond current sanctions, he could face trial either internationally or through a transitional justice mechanism. The U.S. has offered a $15 million reward for information leading to his arrest on narco-terrorism charges, creating pathways for prosecution if he's removed from office.
 
-The bear case recognizes the immense practical barriers to prosecuting a sitting autocrat. Maduro retains control over Venezuela's military and security apparatus, with support from Russia, China, and Cuba providing diplomatic cover and economic lifelines. The ICC lacks enforcement power and cannot compel arrests without state cooperation. Even if Maduro were charged formally, convictions on "all counts" represent an extremely high bar—partial convictions or plea deals are more typical outcomes in international tribunals. The 2027 timeframe may be too short for the notoriously slow international justice system, where cases often take 5-10 years from indictment to verdict. Maduro could also die, flee to a friendly nation, or negotiate immunity as part of a transition deal.
+The bear case centers on Maduro's demonstrated survival skills and lack of viable enforcement mechanisms. Even if the ICC or U.S. courts issue verdicts, Maduro controls Venezuela's military and has shown no indication of voluntarily surrendering power. Russia, China, and Iran continue providing economic and diplomatic support that insulates him from complete isolation. Historical precedent suggests sitting heads of state rarely face successful prosecution—Omar al-Bashir of Sudan evaded ICC arrest warrants for over a decade while in power. The market requires conviction on "all counts," a high bar even if prosecution proceeds, as partial acquittals or plea arrangements are more common outcomes in complex political cases.
 
-Key catalysts include Venezuela's next scheduled presidential election in 2025, though legitimacy concerns persist. Watch for ICC prosecutor announcements on Venezuela investigations, typically released quarterly. Any significant political instability in Caracas, particularly military defections or attempted coups, would dramatically shift probabilities. The U.S. sanctions policy under the current administration and potential shifts after the 2024 U.S. elections will influence regime stability. Regional pressure from Colombia and Brazil, both led by left-leaning governments theoretically more sympathetic to dialogue, could either accelerate or delay accountability mechanisms depending on whether they prioritize justice or stability.
+Key catalysts include Venezuela's next scheduled presidential election in 2030, though Maduro's manipulation of the 2024 contest suggests he won't allow free elections. Watch for signals of military fracture within Venezuela's armed forces, particularly among generals whose loyalty depends on patronage networks that could collapse if oil revenues continue declining. The ICC Pre-Trial Chamber could issue arrest warrants in 2025-2026 if prosecutors compile sufficient evidence, though enforcement would require Maduro traveling to signatory countries or being removed from power domestically. U.S. sanctions policy shifts under different administrations could either increase pressure or open negotiation channels that grant Maduro immunity in exchange for transition.
 
 ## Related Markets
 
-- [Will JB Pritzker win the 2028 US Presidential Election?](/odds/will-jb-pritzker-win-the-2028-us-presidential-election) — 2% YES
-- [Jerome Powell out as Fed Chair by March 31, 2026?](/odds/jerome-powell-out-as-fed-chair-by-march-31-2026) — 0% YES
-- [Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?](/odds/will-amanda-anisimova-be-the-2026-womens-wimbledon-winner) — 6% YES
+- [Will Tulsi Gabbard win the 2028 Republican presidential nomination?](/odds/will-tulsi-gabbard-win-the-2028-republican-presidential-nomination) — 1% YES
+- [Will the next Prime Minister of Hungary be István Kapitány?](/odds/will-the-next-prime-minister-of-hungary-be-istvn-kapitny) — 0% YES
+- [Iran leadership change by December 31?](/odds/iran-leadership-change-by-december-31) — 34% YES
 
 ## Frequently Asked Questions
 
-### What specific charges would need guilty verdicts for this market to resolve YES?
+### What specific charges could Maduro face that this market is referencing?
 
-The market resolution depends on the specific legal proceedings referenced, but likely requires conviction on every single charge brought—whether that's all counts in an ICC indictment for crimes against humanity or all charges in the U.S. narco-terrorism case. Even one acquittal or dropped charge would result in a NO resolution.
+The ICC investigation focuses on crimes against humanity including murder, torture, and political persecution since 2017, while U.S. indictments charge narco-terrorism and drug trafficking. The market's "all counts" requirement means traders are betting on complete conviction rather than mixed verdicts.
 
-### Could this resolve YES if Maduro is tried in absentia while still controlling Venezuela?
+### Could Maduro be convicted while still serving as Venezuela's president?
 
-Yes, international tribunals and some domestic courts can convict defendants in absentia, so Maduro doesn't necessarily need to lose power for a guilty verdict, though enforcement and legitimacy would be questionable without custody.
+Yes, courts could technically convict him in absentia, but the market's real challenge is enforcement—conviction means little without either his voluntary surrender or forced removal from power through domestic collapse or international intervention.
 
-### What happens if Maduro dies before 2027 or negotiates immunity as part of a power transition?
+### What happened with similar cases against other sitting leaders that might inform this market?
 
-Either scenario would almost certainly result in NO resolution, as death prevents prosecution and immunity deals explicitly preclude criminal convictions, even though they sometimes require admissions of wrongdoing.
+Libya's Gaddafi and Yugoslavia's Milošević only faced trial after losing power through violent conflict, while Sudan's al-Bashir avoided ICC prosecution for years until a 2019 coup, suggesting regime change is typically a prerequisite to enforcement.
 
 ## Learn More
 

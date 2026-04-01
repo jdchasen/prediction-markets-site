@@ -3,8 +3,8 @@ title: "Will Kevin Hern be the Republican nominee for Senate in Oklahoma?"
 description: "Will Kevin Hern be the Republican nominee for Senate in Oklahoma? Odds: 93.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Kevin Hern be the Republican nominee for Senate in Oklahoma?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-31
+status: "settled"
+lastUpdated: 2026-04-01
 expiryDate: 2026-06-16
 tags: ["politics", "polymarket"]
 polymarketYes: 93.5

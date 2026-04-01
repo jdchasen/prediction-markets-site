@@ -1,17 +1,16 @@
 ---
 title: "Will the next Prime Minister of Hungary be István Kapitány?"
-description: "Will the next Prime Minister of Hungary be István Kapitány? Odds: 0.4% YES on Polymarket. See live prices and trade this market."
+description: "Will the next Prime Minister of Hungary be István Kapitány? Odds: 0.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the next Prime Minister of Hungary be István Kapitány?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-03-31
+lastUpdated: 2026-04-01
 expiryDate: 2026-04-12
 tags: ["politics", "polymarket"]
-polymarketYes: 0.4
-polymarketNo: 99.6
-polymarketVolume: 9818276
+polymarketYes: 0.2
+polymarketNo: 99.8
+polymarketVolume: 9903253
 polymarketUrl: "https://polymarket.com/event/will-the-next-prime-minister-of-hungary-be-istvn-kapitny"
-analysisDate: 2026-03-31
 ---
 
 The market assigns negligible probability to István Kapitány becoming Hungary's next Prime Minister, reflecting the extreme unlikelihood of anyone outside Viktor Orbán's Fidesz party—or Orbán himself—assuming the role before April 2026.

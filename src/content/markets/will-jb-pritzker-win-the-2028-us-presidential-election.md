@@ -3,8 +3,8 @@ title: "Will JB Pritzker win the 2028 US Presidential Election?"
 description: "Will JB Pritzker win the 2028 US Presidential Election? Odds: 1.6% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will JB Pritzker win the 2028 US Presidential Election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-03-31
+status: "settled"
+lastUpdated: 2026-04-01
 expiryDate: 2028-11-07
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 1.6

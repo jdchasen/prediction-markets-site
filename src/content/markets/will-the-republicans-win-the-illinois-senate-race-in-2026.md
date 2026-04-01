@@ -1,16 +1,15 @@
 ---
 title: "Will the Republicans win the Illinois Senate race in 2026?"
-description: "Will the Republicans win the Illinois Senate race in 2026? Odds: 5.4% YES on Polymarket. See live prices and trade this market."
+description: "Will the Republicans win the Illinois Senate race in 2026? Odds: 4.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Republicans win the Illinois Senate race in 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-03-31
+lastUpdated: 2026-04-01
 tags: ["politics", "polymarket"]
-polymarketYes: 5.4
-polymarketNo: 94.6
-polymarketVolume: 9890
+polymarketYes: 4.9
+polymarketNo: 95.1
+polymarketVolume: 9968
 polymarketUrl: "https://polymarket.com/event/will-the-republicans-win-the-illinois-senate-race-in-2026"
-analysisDate: 2026-03-31
 ---
 
 # Illinois Senate 2026: Republicans Face Long Odds in Democratic Stronghold

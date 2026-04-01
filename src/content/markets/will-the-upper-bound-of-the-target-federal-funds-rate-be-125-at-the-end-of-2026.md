@@ -1,53 +1,54 @@
 ---
 title: "Will the upper bound of the target federal funds rate be 1.25% at the end of 2026?"
-description: "Will the upper bound of the target federal funds rate be 1.25% at the end of 2026? Odds: 0.8% YES on Polymarket. See live prices and trade this market."
+description: "Will the upper bound of the target federal funds rate be 1.25% at the end of 2026? Odds: 0.6% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the upper bound of the target federal funds rate be 1.25% at the end of 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-03-31
+lastUpdated: 2026-04-01
 expiryDate: 2026-12-09
 tags: ["federal-reserve", "politics", "polymarket"]
-polymarketYes: 0.8
-polymarketNo: 99.2
+polymarketYes: 0.6
+polymarketNo: 99.4
 polymarketVolume: 99522
 polymarketUrl: "https://polymarket.com/event/will-the-upper-bound-of-the-target-federal-funds-rate-be-1pt25-at-the-end-of-2026-681"
+analysisDate: 2026-04-01
 ---
 
-The market gives less than 1% probability to the federal funds rate target reaching as low as 1.25% by end of 2026, reflecting strong trader consensus that the Fed will maintain significantly higher rates despite any potential economic slowdown over the next three years.
+The market pricing a near-zero probability for the federal funds rate upper bound to hit exactly 1.25% by end of 2026 reflects traders' view that this specific target is extremely unlikely given current Fed policy frameworks and economic projections.
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.5% | 99.5% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.6% | 99.4% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The bear case against this outcome centers on the Federal Reserve's institutional commitment to avoiding the zero-lower-bound trap it experienced from 2008-2015. Current terminal rate expectations hover around 3.75-4.00% for 2025, and even aggressive cutting cycles historically take years to reach such low levels. The Fed would need to cut rates by approximately 300+ basis points from current levels, requiring either a severe recession or deflationary crisis—neither of which is consensus among economists. Fed Chair Powell has repeatedly emphasized data-dependency and higher-for-longer messaging, suggesting reluctance to return to emergency-level rates without extraordinary circumstances. Additionally, structural inflation concerns from deglobalization, demographic shifts, and fiscal policy make sub-2% rates politically and economically challenging.
+The bear case (against 1.25%) is straightforward: the Federal Reserve operates in 25 basis point increments and would need to execute a precise sequence of cuts from the current 4.25-4.50% range to land exactly at 1.00-1.25%. Most economic forecasts and Fed dot plots suggest rates settling somewhere in the 3-4% range by late 2026, assuming inflation moderates without triggering recession. The January 2025 FOMC meeting showed Fed officials maintaining a cautious stance on rate cuts, with core PCE inflation still above target at 2.8% as of December 2024. For rates to fall this dramatically, we'd need either a severe recession or complete inflation normalization—scenarios the market currently views as improbable given labor market resilience.
 
-The bull case requires a perfect storm: a hard landing materializing in 2025-2026, inflation falling well below the 2% target into deflationary territory, and the Fed responding with unprecedented cutting speed. This scenario might unfold if commercial real estate losses cascade through regional banks, consumer debt defaults spike above 5%, or a geopolitical shock triggers global recession. Traders should monitor the December 2024 and March 2025 FOMC meetings for any pivot toward accelerated cuts, as well as monthly CPI releases through Q1 2025. If core PCE inflation drops below 1.5% for consecutive quarters in 2025, odds could shift dramatically.
+The bull case requires a significant economic deterioration starting in late 2025 or early 2026. If a recession materializes in Q3-Q4 2025, the Fed could begin aggressive easing cycles similar to 2019-2020, potentially cutting 200-300 basis points. The critical catalysts to monitor include the March 19, 2025 FOMC meeting for any shift in forward guidance, Q1 and Q2 2026 GDP reports that would reveal recession signals, and monthly CPI releases throughout 2025-2026. A deflationary shock from global trade disruptions or financial system stress could accelerate this timeline.
 
-Key catalysts include the February 2025 employment report (release date March 7), which will show whether labor market cooling accelerates, and the Fed's Summary of Economic Projections updates in March, June, September, and December 2025. Any quarterly GDP prints below -1% would force market repricing. The Treasury yield curve steepness and 2-year/10-year spread will signal recession expectations months in advance—watch for sustained inversion beyond Q2 2025. Regional bank stress tests in June 2025 and commercial real estate refinancing deadlines throughout 2025-2026 could trigger financial stability concerns forcing the Fed's hand.
+Key near-term indicators include the February 7, 2025 jobs report, which will inform the March FOMC decision, and the Fed's Summary of Economic Projections updates at the June 18 and September 17, 2025 FOMC meetings. The Atlanta Fed's GDPNow tracker and the Conference Board's Leading Economic Index will provide real-time recession probability updates. Traders should particularly watch whether 10-year Treasury yields invert further below the fed funds rate, which has preceded prior easing cycles. The current 60 basis point market pricing suggests minimal conviction in any scenario producing this exact rate target.
 
 ## Related Markets
 
-- [Will JB Pritzker win the 2028 US Presidential Election?](/odds/will-jb-pritzker-win-the-2028-us-presidential-election) — 2% YES
-- [Jerome Powell out as Fed Chair by March 31, 2026?](/odds/jerome-powell-out-as-fed-chair-by-march-31-2026) — 0% YES
-- [Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?](/odds/will-amanda-anisimova-be-the-2026-womens-wimbledon-winner) — 6% YES
+- [Will Tulsi Gabbard win the 2028 Republican presidential nomination?](/odds/will-tulsi-gabbard-win-the-2028-republican-presidential-nomination) — 1% YES
+- [Will the next Prime Minister of Hungary be István Kapitány?](/odds/will-the-next-prime-minister-of-hungary-be-istvn-kapitny) — 0% YES
+- [Iran leadership change by December 31?](/odds/iran-leadership-change-by-december-31) — 34% YES
 
 ## Frequently Asked Questions
 
-### What would need to happen economically for rates to fall to 1.25% by end of 2026?
+### Why is 1.25% specifically such an unlikely target compared to nearby rates like 1.00% or 1.50%?
 
-The U.S. would likely need to experience a severe recession with unemployment rising above 6-7% combined with deflation (negative CPI readings for multiple months), forcing the Fed to cut rates by 25-50 basis points at nearly every FOMC meeting for two years straight.
+The Fed adjusts rates in 25 basis point increments, making any single target equally probable mechanically. However, 1.25% represents an 8-9 rate cut journey from current levels—a magnitude that requires specific recessionary conditions that current economic data doesn't support.
 
-### Has the Fed ever cut rates from current levels to 1.25% within a three-year period?
+### What would differentiate a scenario leading to 1.25% versus the Fed stopping at 2.50-3.00%?
 
-Yes, during the 2007-2008 financial crisis, the Fed cut from 5.25% in September 2007 to effectively 0-0.25% by December 2008, but this remains the fastest cutting cycle in modern history and required an extraordinary financial system collapse.
+Reaching 1.25% would require not just a recession but a prolonged downturn with significant deflationary pressure, similar to 2008-2009 conditions. A standard recession might prompt cuts to 2.50-3.00%, but getting below 2% requires either financial crisis or sustained demand destruction.
 
-### Why are traders so confident this won't happen despite recession concerns?
+### How do the 2026 mid-term elections affect the probability of this rate target?
 
-The Fed has explicitly stated it wants to avoid returning to near-zero rates due to the policy constraints experienced in the 2010s, and current inflation dynamics suggest the neutral rate is structurally higher than pre-2020 levels, likely around 2.5-3%.
+Political pressure on the Fed could intensify in 2026 during election season, potentially influencing communication strategy but unlikely to drive actual policy to 1.25% absent genuine economic deterioration. The Fed would need concrete data justification given its independence mandate.
 
 ## Learn More
 

@@ -3,8 +3,8 @@ title: "EdgeX FDV above $300M one day after launch?"
 description: "EdgeX FDV above $300M one day after launch? Odds: 99.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "EdgeX FDV above $300M one day after launch?"
 category: "crypto"
-status: "active"
-lastUpdated: 2026-03-31
+status: "settled"
+lastUpdated: 2026-04-01
 expiryDate: 2027-01-01
 tags: ["crypto", "polymarket"]
 polymarketYes: 99.0

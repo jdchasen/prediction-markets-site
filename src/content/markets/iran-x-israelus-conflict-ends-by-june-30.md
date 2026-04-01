@@ -1,59 +1,57 @@
 ---
 title: "Iran x Israel/US conflict ends by June 30?"
-description: "Iran x Israel/US conflict ends by June 30? Odds: 81.0% YES on Polymarket. See live prices and trade this market."
+description: "Iran x Israel/US conflict ends by June 30? Odds: 68.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Iran x Israel/US conflict ends by June 30?"
 category: "politics"
-status: "settled"
-lastUpdated: 2026-03-03
-expiryDate: 2026-03-31
+status: "active"
+lastUpdated: 2026-04-01
+expiryDate: 2026-06-30
 tags: ["politics", "polymarket", "sports"]
-polymarketYes: 81.0
-polymarketNo: 19.0
-polymarketVolume: 9694
-polymarketUrl: "https://polymarket.com/event/iran-x-israelus-conflict-ends-by-june-30"
-analysisDate: 2026-03-03
+polymarketYes: 68.5
+polymarketNo: 31.5
+polymarketVolume: 980342
+polymarketUrl: "https://polymarket.com/event/iran-x-israelus-conflict-ends-by-june-30-813-454-138-725"
+analysisDate: 2026-04-01
 ---
 
-# Iran-Israel/US Conflict Resolution Market Analysis
+The market shows roughly two-thirds confidence that the Iran-Israel-US conflict will conclude within the next 16 months, a significant bet on regional de-escalation amid ongoing tensions that have already seen direct Iranian missile strikes on Israel and Israeli operations across multiple theaters. This matters because it reflects trader sentiment on whether diplomatic efforts or military exhaustion will overcome the cycle of retaliation that has characterized 2024-2025.
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 81.0% | 19.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 68.5% | 31.5% | $980K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-Traders are pricing in an 81% probability that major hostilities between Iran and Israel/US will cease by June 30, 2026—a remarkably bullish assessment given the region's volatility and the market's three-year timeframe. This pricing reflects either confidence in diplomatic off-ramps or a significant underestimation of tail risks, making it a critical barometer for geopolitical risk appetite. The expiry extending to March 31, 2026 creates a three-month buffer before the June 30 settlement date, giving traders a window to reassess as conditions develop.
+The bull case for resolution rests on several factors: potential Saudi-Israel normalization talks creating pressure for regional stability, Iran's struggling economy making sustained conflict increasingly costly, and possible US-brokered frameworks if there's movement on Gaza or Lebanon. Trump administration officials have signaled interest in a "maximum pressure 2.0" strategy that could theoretically bring Iran to negotiations, while Israel faces growing domestic pressure over hostage situations and reserve mobilization costs. The Knesset's budget cycles and Israel's need for economic stability provide institutional pressure for de-escalation.
 
-The bull case rests on several structural factors: fatigue from both sides after sustained conflict, pressure from regional allies (Gulf states prioritizing stability), potential US administration changes in 2024-2025 shifting toward containment over escalation, and the economic cost of prolonged tensions on Iran's sanctioned economy. If the incoming US administration pursues diplomatic engagement or a modified JCPOA framework by late 2025, or if Israel achieves clear military objectives and declares victory, the 81% odds become justified. Key catalysts include any US-Iran backchannel negotiations (likely signaled through intermediaries like Oman), Israeli domestic elections (potential shifts in hawkish vs. dovish coalition dynamics), and OPEC+ production decisions reflecting confidence in regional stability.
+The bear case points to deeply entrenched positions and structural incentives for continued conflict. Iran's nuclear program advancement continues regardless of skirmishes, with IAEA reports in February 2025 showing further enrichment progress. Israel's coalition government under Netanyahu faces internal pressures that often push toward hardline positions rather than compromise. Hezbollah's integration into Lebanese politics and Hamas's organizational structure mean there's no clear negotiating partner for comprehensive deals. The Syrian power vacuum and ongoing Houthi attacks on shipping represent additional conflict vectors that operate semi-independently of any bilateral agreements.
 
-The bear case hinges on the market dramatically underpricing irreversible escalation dynamics. A single Israeli strike on Iranian nuclear facilities, Iranian ballistic missile strikes on US bases in the Gulf, or destabilization of Iraq (the strategic buffer zone) could trigger tit-for-tat cycles that consume the entire 18-month window. Regional proxy networks (Houthis, Hezbollah, militias in Iraq) operate with semi-autonomous command structures, creating hair-trigger risks. Additionally, 81% implies only a 19% chance of active conflict continuation—a probability that seems to ignore the region's historical pattern of cyclical escalations and the political incentives for hardliners on both sides to demonstrate strength.
-
-Watch for three bellwethers: any official dialogue announcements between US and Iran before Q2 2025, Israeli casualty levels and domestic political tolerance for continued operations, and Iranian retaliation restraint following provocations. The March 2025 US budget debates and potential sanctions relief discussions will signal whether diplomatic tracks are opening. If by September 2025 there's been no meaningful de-escalation mechanism (prisoner exchanges, sanctions freezes, or ceasefire proposals), the market should reprice substantially lower.
+Key catalysts include Israel's April 2025 budget deadline, which could trigger government instability; Iran's June 2025 presidential dynamics following Raisi's death; and any US diplomatic initiatives around the September 2025 UN General Assembly. Traders should monitor IAEA quarterly reports on Iran's nuclear program, Israeli casualty figures that affect domestic support for operations, and Saudi statements on normalization—Crown Prince Mohammed's position has been that Palestinian statehood progress is prerequisite. The market's 16-month timeframe means it's betting on sustained trends rather than temporary ceasefires, requiring genuine structural changes to resolve YES.
 
 ## Related Markets
 
-- [Will Jesus Christ return before GTA VI?](/odds/will-jesus-christ-return-before-gta-vi) — 48% YES
-- [Nothing Ever Happens: MicroStrategy](/odds/nothing-ever-happens-microstrategy) — 87% YES
-- [China x Taiwan military clash before 2027?](/odds/china-x-taiwan-military-clash-before-2027) — 14% YES
+- [Will Tulsi Gabbard win the 2028 Republican presidential nomination?](/odds/will-tulsi-gabbard-win-the-2028-republican-presidential-nomination) — 1% YES
+- [Will the next Prime Minister of Hungary be István Kapitány?](/odds/will-the-next-prime-minister-of-hungary-be-istvn-kapitny) — 0% YES
+- [Iran leadership change by December 31?](/odds/iran-leadership-change-by-december-31) — 34% YES
 
 ## Frequently Asked Questions
 
-### How does the market define "ends" in this context—does a temporary ceasefire count, or must it be a durable peace agreement?
+### Does a temporary ceasefire or pause in hostilities count as the conflict "ending" for this market?
 
-Market language typically requires cessation of "military operations" or "active conflict," meaning a temporary truce would likely satisfy settlement, not necessarily a formal peace treaty; traders should verify the exact resolution criteria on Polymarket's contract page, as temporary humanitarian pauses in Gaza-style conflicts have previously triggered ambiguous rulings.
+This depends entirely on the market's resolution criteria, but typically such markets require a sustained end to active military operations rather than temporary truces. Traders should verify whether periodic flare-ups or isolated incidents would disqualify a YES resolution.
 
-### What specific Iranian or Israeli leadership changes by mid-2026 could most dramatically shift these odds?
+### How would regime change in Iran affect the probability of conflict resolution by mid-2026?
 
-A significant Israeli coalition collapse forcing elections, or internal Iranian power struggles resulting in pragmatist factions gaining ascendancy post-2025 elections, could rapidly change diplomatic feasibility; conversely, hardliner consolidation in either capital would sharply increase conflict odds.
+Regime change could dramatically shift odds either direction—a reformist government might pursue rapid de-escalation, while internal instability could trigger more aggressive external posturing to consolidate power. The transition period itself typically increases unpredictability and potential for miscalculation.
 
-### Why does the expiry date (March 31, 2026) precede the actual outcome date (June 30, 2026) by three months?
+### What role does the US election cycle play in the timeline of potential conflict resolution?
 
-The market expires early
+The 2024 US election result shapes diplomatic approach, but the June 2026 deadline falls well into the next administration's second year when Middle East policy typically becomes more concrete. Early 2026 will be critical as any new administration's diplomatic initiatives either gain traction or stall out.
 
 ## Learn More
 
 - [Polymarket February 2026: Iran at 97%, $36M on Elon's Tweets](/blog/top-polymarket-markets-february-2026)
-- [Strait of Hormuz Closure at 57% Odds as Oil Spikes 13% on Iran War](/blog/strait-of-hormuz-closure-odds-iran-oil-crisis)
+- [Israel Lebanon Ground Offensive: Market at 100%](/blog/israel-lebanon-ground-offensive-market-at-100)
 

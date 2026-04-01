@@ -4,14 +4,13 @@ description: "Will Tulsi Gabbard win the 2028 Republican presidential nomination
 marketQuestion: "Will Tulsi Gabbard win the 2028 Republican presidential nomination?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-03-31
+lastUpdated: 2026-04-01
 expiryDate: 2028-11-07
 tags: ["politics", "polymarket"]
 polymarketYes: 1.1
 polymarketNo: 99.0
-polymarketVolume: 9765747
+polymarketVolume: 9969876
 polymarketUrl: "https://polymarket.com/event/will-tulsi-gabbard-win-the-2028-republican-presidential-nomination"
-analysisDate: 2026-03-31
 ---
 
 The market pricing Tulsi Gabbard at just over 1% to win the 2028 Republican nomination reflects extreme skepticism about her path to the GOP's top spot, though her recent appointment as Director of National Intelligence under Trump has given her a platform within the party infrastructure that didn't exist during her Democratic years.

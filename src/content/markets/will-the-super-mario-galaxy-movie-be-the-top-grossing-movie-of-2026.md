@@ -1,17 +1,16 @@
 ---
 title: "Will The Super Mario Galaxy Movie be the top grossing movie of 2026?"
-description: "Will The Super Mario Galaxy Movie be the top grossing movie of 2026? Odds: 32.5% YES on Polymarket. See live prices and trade this market."
+description: "Will The Super Mario Galaxy Movie be the top grossing movie of 2026? Odds: 31.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will The Super Mario Galaxy Movie be the top grossing movie of 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-03-31
+lastUpdated: 2026-04-01
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 32.5
-polymarketNo: 67.5
-polymarketVolume: 97521
+polymarketYes: 31.5
+polymarketNo: 68.5
+polymarketVolume: 99358
 polymarketUrl: "https://polymarket.com/event/will-movie-a-be-the-top-grossing-movie-of-2026"
-analysisDate: 2026-03-31
 ---
 
 The Super Mario Galaxy movie sits at roughly one-in-three odds to become 2026's highest-grossing film, a notable position given Nintendo's track record but also the uncertainty around an unannounced project's release timing and competition. This market matters because it tests whether the Mario film franchise can replicate the surprise success of 2023's Super Mario Bros. Movie, which earned $1.36 billion globally, and whether animated sequels can dominate an increasingly competitive theatrical landscape.

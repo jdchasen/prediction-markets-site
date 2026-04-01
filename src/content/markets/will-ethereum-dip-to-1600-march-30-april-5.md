@@ -3,8 +3,8 @@ title: "Will Ethereum dip to $1,600 March 30-April 5?"
 description: "Will Ethereum dip to $1,600 March 30-April 5? Odds: 1.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Ethereum dip to $1,600 March 30-April 5?"
 category: "crypto"
-status: "active"
-lastUpdated: 2026-03-31
+status: "settled"
+lastUpdated: 2026-04-01
 expiryDate: 2026-04-06
 tags: ["crypto", "ethereum", "polymarket"]
 polymarketYes: 1.9
