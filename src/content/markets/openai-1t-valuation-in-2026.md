@@ -1,17 +1,16 @@
 ---
 title: "OpenAI $1T+ valuation in 2026?"
-description: "OpenAI $1T+ valuation in 2026? Odds: 77.0% YES on Polymarket. See live prices and trade this market."
+description: "OpenAI $1T+ valuation in 2026? Odds: 77.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "OpenAI $1T+ valuation in 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-04-01
 expiryDate: 2026-12-31
 tags: ["ai", "politics", "polymarket"]
-polymarketYes: 77.0
-polymarketNo: 23.0
-polymarketVolume: 9786
+polymarketYes: 77.5
+polymarketNo: 22.5
+polymarketVolume: 9808
 polymarketUrl: "https://polymarket.com/event/openai-1t-valuation-in-2026"
-analysisDate: 2026-04-01
 ---
 
 # OpenAI $1T Valuation by 2026: Market Analysis

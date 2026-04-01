@@ -1,17 +1,16 @@
 ---
 title: "Will Novak Djokovic win the 2026 Men's French Open?"
-description: "Will Novak Djokovic win the 2026 Men's French Open? Odds: 3.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Novak Djokovic win the 2026 Men's French Open? Odds: 3.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Novak Djokovic win the 2026 Men's French Open?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-04-01
 expiryDate: 2026-06-07
 tags: ["politics", "polymarket"]
-polymarketYes: 3.5
-polymarketNo: 96.5
-polymarketVolume: 97376
+polymarketYes: 3.4
+polymarketNo: 96.7
+polymarketVolume: 97390
 polymarketUrl: "https://polymarket.com/event/will-novak-djokovic-win-the-2026-mens-french-open"
-analysisDate: 2026-04-01
 ---
 
 # Djokovic French Open 2026 Analysis

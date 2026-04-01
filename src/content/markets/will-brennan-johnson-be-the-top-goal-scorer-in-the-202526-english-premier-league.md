@@ -11,7 +11,6 @@ polymarketYes: 0.2
 polymarketNo: 99.8
 polymarketVolume: 9797
 polymarketUrl: "https://polymarket.com/event/will-brennan-johnson-be-the-top-goal-scorer-in-the-202526-english-premier-league-season"
-analysisDate: 2026-04-01
 ---
 
 # Brennan Johnson Top Premier League Scorer Analysis

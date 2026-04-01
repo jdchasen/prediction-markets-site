@@ -9,9 +9,8 @@ expiryDate: 2026-05-27
 tags: ["polymarket", "sports"]
 polymarketYes: 11.5
 polymarketNo: 88.5
-polymarketVolume: 9751187
+polymarketVolume: 9768366
 polymarketUrl: "https://polymarket.com/event/will-manchester-city-win-the-202526-english-premier-league"
-analysisDate: 2026-04-01
 ---
 
 Manchester City's 11.5% probability to win the 2025-26 Premier League reflects deep uncertainty about the club's immediate future amid an ongoing investigation into 115 alleged Financial Fair Play breaches, with a verdict expected in early 2025 that could result in severe penalties including points deductions or relegation.

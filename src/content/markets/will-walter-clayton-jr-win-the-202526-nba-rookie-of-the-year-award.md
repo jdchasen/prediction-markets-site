@@ -11,7 +11,6 @@ polymarketYes: 0.1
 polymarketNo: 100.0
 polymarketVolume: 98607
 polymarketUrl: "https://polymarket.com/event/will-walter-clayton-jr-win-the-202526-nba-rookie-of-the-year-award-262-418"
-analysisDate: 2026-04-01
 ---
 
 Walter Clayton Jr.'s odds of winning the 2025–26 NBA Rookie of the Year award sit at near-zero levels, reflecting that he went undrafted in the 2025 NBA Draft and currently has no clear path to an NBA roster spot for the upcoming season.

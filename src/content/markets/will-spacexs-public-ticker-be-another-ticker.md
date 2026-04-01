@@ -3,7 +3,7 @@ title: "Will SpaceX's public ticker be another ticker?"
 description: "Will SpaceX's public ticker be another ticker? Odds: 44.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will SpaceX's public ticker be another ticker?"
 category: "tech"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-01
 expiryDate: 2027-12-31
 tags: ["polymarket", "tech"]

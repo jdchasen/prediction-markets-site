@@ -3,7 +3,7 @@ title: "Will Freddie Mac’s market cap be $300B or greater at market close on I
 description: "Will Freddie Mac’s market cap be $300B or greater at market close on IPO day? Odds: 1.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Freddie Mac’s market cap be $300B or greater at market close on IPO day?"
 category: "finance"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-01
 expiryDate: 2026-06-30
 tags: ["finance", "polymarket"]

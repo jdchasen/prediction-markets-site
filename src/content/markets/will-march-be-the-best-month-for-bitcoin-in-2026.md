@@ -3,7 +3,7 @@ title: "Will March be the best month for Bitcoin in 2026?"
 description: "Will March be the best month for Bitcoin in 2026? Odds: 1.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will March be the best month for Bitcoin in 2026?"
 category: "crypto"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-01
 expiryDate: 2027-01-01
 tags: ["bitcoin", "crypto", "polymarket"]

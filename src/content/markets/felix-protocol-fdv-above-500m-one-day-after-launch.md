@@ -11,7 +11,6 @@ polymarketYes: 2.5
 polymarketNo: 97.5
 polymarketVolume: 9856
 polymarketUrl: "https://polymarket.com/event/felix-protocol-fdv-above-500m-one-day-after-launch-477-288"
-analysisDate: 2026-04-01
 ---
 
 # Felix Protocol FDV Analysis

@@ -3,7 +3,7 @@ title: "Will Rafael López Aliaga finish in first place in the first round of th
 description: "Will Rafael López Aliaga finish in first place in the first round of the 2026 Peruvian presidential election? Odds: 27.0% YES on Polymarket. See live prices ..."
 marketQuestion: "Will Rafael López Aliaga finish in first place in the first round of the 2026 Peruvian presidential election?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-01
 expiryDate: 2026-04-12
 tags: ["elections", "politics", "polymarket"]

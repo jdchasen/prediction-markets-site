@@ -3,7 +3,7 @@ title: "Pittsburgh Pirates vs. Cincinnati Reds"
 description: "Pittsburgh Pirates vs. Cincinnati Reds Odds: 59.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Pittsburgh Pirates vs. Cincinnati Reds"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-01
 expiryDate: 2026-04-08
 tags: ["politics", "polymarket"]

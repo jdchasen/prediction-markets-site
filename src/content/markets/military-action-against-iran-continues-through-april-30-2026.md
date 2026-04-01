@@ -3,7 +3,7 @@ title: "Military action against Iran continues through April 30, 2026?"
 description: "Military action against Iran continues through April 30, 2026? Odds: 52.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Military action against Iran continues through April 30, 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-01
 expiryDate: 2026-04-30
 tags: ["ai", "politics", "polymarket"]

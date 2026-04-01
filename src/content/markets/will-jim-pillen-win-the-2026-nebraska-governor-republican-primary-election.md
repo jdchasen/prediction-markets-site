@@ -3,7 +3,7 @@ title: "Will Jim Pillen win the 2026 Nebraska Governor Republican primary electi
 description: "Will Jim Pillen win the 2026 Nebraska Governor Republican primary election? Odds: 92.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Jim Pillen win the 2026 Nebraska Governor Republican primary election?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-01
 expiryDate: 2026-05-12
 tags: ["elections", "politics", "polymarket"]

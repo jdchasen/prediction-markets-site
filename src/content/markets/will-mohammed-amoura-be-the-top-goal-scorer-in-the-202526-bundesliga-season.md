@@ -3,7 +3,7 @@ title: "Will Mohammed Amoura be the top goal scorer in the 2025–26 Bundesliga 
 description: "Will Mohammed Amoura be the top goal scorer in the 2025–26 Bundesliga season? Odds: 0.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Mohammed Amoura be the top goal scorer in the 2025–26 Bundesliga season?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-01
 expiryDate: 2026-05-28
 tags: ["politics", "polymarket"]

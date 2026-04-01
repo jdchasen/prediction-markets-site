@@ -9,9 +9,8 @@ expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
 polymarketYes: 0.9
 polymarketNo: 99.2
-polymarketVolume: 99351
+polymarketVolume: 99366
 polymarketUrl: "https://polymarket.com/event/james-norton-announced-as-next-james-bond-575"
-analysisDate: 2026-04-01
 ---
 
 The market gives James Norton less than 1% odds of being announced as the next James Bond before mid-2026, reflecting deep skepticism that Eon Productions will make any casting decision in this timeframe. This matters because the Bond franchise has remained in limbo since "No Time to Die" (2021), with producer Barbara Broccoli repeatedly stating they haven't even begun the search process and won't start until they have a solid creative direction for the next film.

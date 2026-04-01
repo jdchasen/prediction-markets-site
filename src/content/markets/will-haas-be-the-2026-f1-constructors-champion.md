@@ -9,9 +9,8 @@ expiryDate: 2026-12-06
 tags: ["polymarket", "sports"]
 polymarketYes: 0.5
 polymarketNo: 99.5
-polymarketVolume: 991094
+polymarketVolume: 991350
 polymarketUrl: "https://polymarket.com/event/will-haas-be-the-2026-f1-constructors-champion"
-analysisDate: 2026-04-01
 ---
 
 The market reflects extreme skepticism about Haas F1's championship prospects, pricing their chances at essentially zero despite the team's recent upward trajectory under new ownership and technical leadership.

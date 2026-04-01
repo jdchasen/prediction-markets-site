@@ -3,7 +3,7 @@ title: "Will Bitcoin reach $70,000 March 30-April 5?"
 description: "Will Bitcoin reach $70,000 March 30-April 5? Odds: 68.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Bitcoin reach $70,000 March 30-April 5?"
 category: "crypto"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-01
 expiryDate: 2026-04-06
 tags: ["bitcoin", "crypto", "polymarket"]

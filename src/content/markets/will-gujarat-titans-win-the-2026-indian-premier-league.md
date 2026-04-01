@@ -3,7 +3,7 @@ title: "Will Gujarat Titans win the 2026 Indian Premier League?"
 description: "Will Gujarat Titans win the 2026 Indian Premier League? Odds: 7.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Gujarat Titans win the 2026 Indian Premier League?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-01
 expiryDate: 2026-05-31
 tags: ["polymarket", "sports"]

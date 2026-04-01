@@ -3,7 +3,7 @@ title: "Will ByteDance have the #1 AI model at the end of April 2026 (Style Cont
 description: "Will ByteDance have the #1 AI model at the end of April 2026 (Style Control On)? Odds: 0.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will ByteDance have the #1 AI model at the end of April 2026 (Style Control On)?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-01
 expiryDate: 2026-04-30
 tags: ["ai", "politics", "polymarket"]

@@ -3,7 +3,7 @@ title: "DeepSeek V4 released by April 15?"
 description: "DeepSeek V4 released by April 15? Odds: 61.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "DeepSeek V4 released by April 15?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-01
 expiryDate: 2026-04-15
 tags: ["politics", "polymarket"]

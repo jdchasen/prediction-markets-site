@@ -11,7 +11,6 @@ polymarketYes: 5.8
 polymarketNo: 94.2
 polymarketVolume: 993752
 polymarketUrl: "https://polymarket.com/event/will-amanda-anisimova-be-the-2026-womens-wimbledon-winner"
-analysisDate: 2026-04-01
 ---
 
 The market pricing Amanda Anisimova at under 6% to win Wimbledon 2026 reflects her current ranking struggles and inconsistent form, though her talent ceiling remains evident to anyone who watched her reach the 2019 French Open semifinals at age 17. This matters because Anisimova represents a classic high-variance bet on a former prodigy recapturing elite form with over two years until the tournament.

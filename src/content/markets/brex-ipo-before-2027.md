@@ -9,9 +9,8 @@ expiryDate: 2026-12-31
 tags: ["finance", "polymarket"]
 polymarketYes: 7.0
 polymarketNo: 93.0
-polymarketVolume: 97713
+polymarketVolume: 97752
 polymarketUrl: "https://polymarket.com/event/brex-ipo-before-2027"
-analysisDate: 2026-04-01
 ---
 
 # Brex IPO Before 2027 Analysis

@@ -1,17 +1,16 @@
 ---
 title: "Will Xi Jinping meet with Cheng Li-wun by June 30?"
-description: "Will Xi Jinping meet with Cheng Li-wun by June 30? Odds: 97.2% YES on Polymarket. See live prices and trade this market."
+description: "Will Xi Jinping meet with Cheng Li-wun by June 30? Odds: 98.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Xi Jinping meet with Cheng Li-wun by June 30?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-04-01
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
-polymarketYes: 97.2
-polymarketNo: 2.8
-polymarketVolume: 975549
+polymarketYes: 98.0
+polymarketNo: 1.9
+polymarketVolume: 987570
 polymarketUrl: "https://polymarket.com/event/will-xi-jinping-meet-with-cheng-li-wun-before-2027"
-analysisDate: 2026-04-01
 ---
 
 This market indicates overwhelming confidence that a meeting between Xi Jinping and Cheng Li-wun will occur before the June 30, 2026 deadline, with traders pricing in only a 2.8% chance of failure—a remarkably strong consensus for a geopolitical event nearly two years out.

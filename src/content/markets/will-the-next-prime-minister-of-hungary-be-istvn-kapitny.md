@@ -3,7 +3,7 @@ title: "Will the next Prime Minister of Hungary be István Kapitány?"
 description: "Will the next Prime Minister of Hungary be István Kapitány? Odds: 0.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the next Prime Minister of Hungary be István Kapitány?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-01
 expiryDate: 2026-04-12
 tags: ["politics", "polymarket"]

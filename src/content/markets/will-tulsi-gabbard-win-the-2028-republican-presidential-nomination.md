@@ -3,7 +3,7 @@ title: "Will Tulsi Gabbard win the 2028 Republican presidential nomination?"
 description: "Will Tulsi Gabbard win the 2028 Republican presidential nomination? Odds: 1.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Tulsi Gabbard win the 2028 Republican presidential nomination?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-01
 expiryDate: 2028-11-07
 tags: ["politics", "polymarket"]
