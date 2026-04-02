@@ -3,7 +3,7 @@ title: "Will Galatasaray win the Süper Lig?"
 description: "Will Galatasaray win the Süper Lig? Odds: 88.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Galatasaray win the Süper Lig?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-02
 expiryDate: 2026-05-24
 tags: ["politics", "polymarket"]

@@ -8,10 +8,9 @@ lastUpdated: 2026-04-02
 expiryDate: 2026-05-19
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.4
-polymarketNo: 99.6
-polymarketVolume: 9827
+polymarketNo: 99.7
+polymarketVolume: 9830
 polymarketUrl: "https://polymarket.com/event/will-chael-sonnen-win-the-2026-oregon-governor-republican-primary-election"
-analysisDate: 2026-04-02
 ---
 
 # Chael Sonnen's 2026 Oregon Governor Primary: A Longshot Bet on Celebrity Disruption

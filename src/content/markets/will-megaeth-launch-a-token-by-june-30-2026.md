@@ -3,7 +3,7 @@ title: "Will MegaETH launch a token by June 30, 2026?"
 description: "Will MegaETH launch a token by June 30, 2026? Odds: 68.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will MegaETH launch a token by June 30, 2026?"
 category: "crypto"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-02
 expiryDate: 2027-01-01
 tags: ["crypto", "ethereum", "polymarket"]

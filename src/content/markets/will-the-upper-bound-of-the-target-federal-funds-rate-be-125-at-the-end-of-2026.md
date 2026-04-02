@@ -8,10 +8,9 @@ lastUpdated: 2026-04-02
 expiryDate: 2026-12-09
 tags: ["federal-reserve", "politics", "polymarket"]
 polymarketYes: 0.7
-polymarketNo: 99.3
-polymarketVolume: 99522
+polymarketNo: 99.4
+polymarketVolume: 99749
 polymarketUrl: "https://polymarket.com/event/will-the-upper-bound-of-the-target-federal-funds-rate-be-1pt25-at-the-end-of-2026-681"
-analysisDate: 2026-04-02
 ---
 
 This market is pricing in an exceptionally low probability that the Federal Reserve will slash interest rates to near-zero levels by late 2026, reflecting strong consensus that such dramatic easing would require a severe economic crisis. The question focuses on whether the upper bound of the fed funds rate target range will be exactly 1.25%, not merely at or below that level, which adds an additional layer of specificity that makes the outcome even less likely.

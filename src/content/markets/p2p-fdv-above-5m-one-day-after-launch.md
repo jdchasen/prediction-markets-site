@@ -3,7 +3,7 @@ title: "P2P FDV above $5M one day after launch?"
 description: "P2P FDV above $5M one day after launch? Odds: 99.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "P2P FDV above $5M one day after launch?"
 category: "crypto"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-02
 expiryDate: 2028-01-01
 tags: ["crypto", "polymarket"]

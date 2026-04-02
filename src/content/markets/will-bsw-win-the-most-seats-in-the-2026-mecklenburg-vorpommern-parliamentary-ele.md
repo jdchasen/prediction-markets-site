@@ -3,7 +3,7 @@ title: "Will BSW win the most seats in the 2026 Mecklenburg-Vorpommern parliamen
 description: "Will BSW win the most seats in the 2026 Mecklenburg-Vorpommern parliamentary elections? Odds: 0.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will BSW win the most seats in the 2026 Mecklenburg-Vorpommern parliamentary elections?"
 category: "politics"
-status: "settled"
+status: "active"
 lastUpdated: 2026-04-02
 expiryDate: 2026-09-20
 tags: ["elections", "politics", "polymarket"]
@@ -11,7 +11,6 @@ polymarketYes: 0.8
 polymarketNo: 99.2
 polymarketVolume: 9743
 polymarketUrl: "https://polymarket.com/event/will-bsw-win-the-most-seats-in-the-2026-mecklenburg-vorpommern-parliamentary-elections"
-analysisDate: 2026-04-01
 ---
 
 # BSW's 2026 Mecklenburg-Vorpommern Gamble: A Negligible Odds Story with Structural Headwinds

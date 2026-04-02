@@ -1,17 +1,16 @@
 ---
 title: "Will March 2026 be the 1st hottest on record?"
-description: "Will March 2026 be the 1st hottest on record? Odds: 0.4% YES on Polymarket. See live prices and trade this market."
+description: "Will March 2026 be the 1st hottest on record? Odds: 0.3% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will March 2026 be the 1st hottest on record?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-04-02
 expiryDate: 2026-04-10
 tags: ["politics", "polymarket"]
-polymarketYes: 0.4
+polymarketYes: 0.3
 polymarketNo: 99.7
-polymarketVolume: 98213
+polymarketVolume: 98474
 polymarketUrl: "https://polymarket.com/event/will-march-2026-be-the-1st-hottest-on-record"
-analysisDate: 2026-04-02
 ---
 
 The market pricing March 2026 as having only a 0.4% chance of being the hottest March on record reflects both the difficulty of breaking temperature records in any single month and the 13-month lead time creating substantial uncertainty. This matters because it serves as a real-time gauge of climate expectations and could signal acceleration in warming trends if odds shift dramatically upward.

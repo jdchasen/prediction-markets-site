@@ -1,17 +1,16 @@
 ---
 title: "James Norton announced as next James Bond?"
-description: "James Norton announced as next James Bond? Odds: 0.9% YES on Polymarket. See live prices and trade this market."
+description: "James Norton announced as next James Bond? Odds: 0.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "James Norton announced as next James Bond?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-04-02
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
-polymarketYes: 0.9
-polymarketNo: 99.2
-polymarketVolume: 99366
+polymarketYes: 0.4
+polymarketNo: 99.6
+polymarketVolume: 99395
 polymarketUrl: "https://polymarket.com/event/james-norton-announced-as-next-james-bond-575"
-analysisDate: 2026-04-02
 ---
 
 The market is pricing in less than 1% probability that James Norton will be officially announced as the next James Bond by mid-2026, reflecting extreme skepticism despite his status as a long-rumored frontrunner for the role. This matters because the Bond franchise represents one of cinema's most valuable properties, and the casting announcement will likely drive significant media attention and reshape public discourse around the character's future direction.

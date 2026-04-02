@@ -3,7 +3,7 @@ title: "Will Ethereum reach $2,600 March 30-April 5?"
 description: "Will Ethereum reach $2,600 March 30-April 5? Odds: 0.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Ethereum reach $2,600 March 30-April 5?"
 category: "crypto"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-02
 expiryDate: 2026-04-06
 tags: ["crypto", "ethereum", "polymarket"]

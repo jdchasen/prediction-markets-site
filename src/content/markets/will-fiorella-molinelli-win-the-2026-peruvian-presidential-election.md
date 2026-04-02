@@ -9,9 +9,8 @@ expiryDate: 2026-04-12
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.2
 polymarketNo: 99.8
-polymarketVolume: 97508
+polymarketVolume: 97946
 polymarketUrl: "https://polymarket.com/event/will-fiorella-molinelli-win-the-2026-peruvian-presidential-election"
-analysisDate: 2026-04-02
 ---
 
 Fiorella Molinelli registers as an extreme long-shot for Peru's 2026 presidential race at 0.2% odds, reflecting her status as a relatively unknown figure in a fragmented political landscape where establishment candidates traditionally struggle and outsiders can surge unexpectedly.

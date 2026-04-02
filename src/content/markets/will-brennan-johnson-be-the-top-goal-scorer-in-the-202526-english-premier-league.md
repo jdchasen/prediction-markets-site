@@ -11,7 +11,6 @@ polymarketYes: 0.2
 polymarketNo: 99.8
 polymarketVolume: 9797
 polymarketUrl: "https://polymarket.com/event/will-brennan-johnson-be-the-top-goal-scorer-in-the-202526-english-premier-league-season"
-analysisDate: 2026-04-02
 ---
 
 Brennan Johnson is priced at 0.2% to win the Premier League's Golden Boot in 2025–26, reflecting deep skepticism about his ability to outscore elite competitors despite playing for Tottenham, a top-four squad with consistent attacking output. This micro-probability matters because it either represents genuine value if Johnson rediscovers his form, or confirmation that the market has rightfully written off his chances given recent performance trends and the strength of competing strikers.

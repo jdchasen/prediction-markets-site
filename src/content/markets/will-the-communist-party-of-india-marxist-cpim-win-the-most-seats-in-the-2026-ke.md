@@ -3,7 +3,7 @@ title: "Will the Communist Party of India (Marxist) (CPI(M)) win the most seats 
 description: "Will the Communist Party of India (Marxist) (CPI(M)) win the most seats in the 2026 Kerala Legislative Assembly election? Odds: 24.0% YES on Polymarket. See ..."
 marketQuestion: "Will the Communist Party of India (Marxist) (CPI(M)) win the most seats in the 2026 Kerala Legislative Assembly election?"
 category: "economics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-02
 expiryDate: 2026-04-09
 tags: ["economics", "elections", "polymarket"]

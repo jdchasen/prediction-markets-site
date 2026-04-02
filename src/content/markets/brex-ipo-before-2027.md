@@ -1,17 +1,16 @@
 ---
 title: "Brex IPO before 2027?"
-description: "Brex IPO before 2027? Odds: 7.3% YES on Polymarket. See live prices and trade this market."
+description: "Brex IPO before 2027? Odds: 6.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Brex IPO before 2027?"
 category: "finance"
 status: "active"
 lastUpdated: 2026-04-02
 expiryDate: 2026-12-31
 tags: ["finance", "polymarket"]
-polymarketYes: 7.3
-polymarketNo: 92.7
-polymarketVolume: 97754
+polymarketYes: 6.2
+polymarketNo: 93.8
+polymarketVolume: 98964
 polymarketUrl: "https://polymarket.com/event/brex-ipo-before-2027"
-analysisDate: 2026-04-02
 ---
 
 # Brex IPO Before 2027: A Contrarian Bet on a Well-Funded Fintech

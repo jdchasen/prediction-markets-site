@@ -9,9 +9,8 @@ expiryDate: 2026-07-30
 tags: ["politics", "polymarket"]
 polymarketYes: 56.0
 polymarketNo: 44.0
-polymarketVolume: 98648
+polymarketVolume: 98654
 polymarketUrl: "https://polymarket.com/event/will-yu-deng-win-the-2026-fields-medal"
-analysisDate: 2026-04-02
 ---
 
 The market currently prices Yu Deng at 56% to win the 2026 Fields Medal, reflecting strong recognition of his groundbreaking work in mathematical physics and geometric analysis, though the inherent uncertainty of predicting a highly competitive and opaque selection process keeps odds from reaching consensus levels.

@@ -1,55 +1,56 @@
 ---
 title: "Will the Fed decrease interest rates by 25 bps after the April 2026 meeting?"
-description: "Will the Fed decrease interest rates by 25 bps after the April 2026 meeting? Odds: 8.5% YES on Polymarket. See live prices and trade this market."
+description: "Will the Fed decrease interest rates by 25 bps after the April 2026 meeting? Odds: 0.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Fed decrease interest rates by 25 bps after the April 2026 meeting?"
 category: "economics"
-status: "settled"
-lastUpdated: 2026-03-05
+status: "active"
+lastUpdated: 2026-04-02
 expiryDate: 2026-04-29
 tags: ["economics", "federal-reserve", "interest-rates", "polymarket"]
-polymarketYes: 8.5
-polymarketNo: 91.5
-polymarketVolume: 992118
+polymarketYes: 0.8
+polymarketNo: 99.2
+polymarketVolume: 9534780
 polymarketUrl: "https://polymarket.com/event/will-the-fed-decrease-interest-rates-by-25-bps-after-the-april-2026-meeting"
-analysisDate: 2026-03-05
+analysisDate: 2026-04-02
 ---
 
-The market assigns less than 9% probability to a Federal Reserve rate cut in April 2026, reflecting expectations that monetary policy will remain restrictive or neutral that far out, with traders pricing in minimal likelihood of economic conditions deteriorating enough to warrant easing by then.
+The market assigns less than 1% probability to a Fed rate cut following the April 2026 FOMC meeting, reflecting expectations that monetary policy will either hold steady or continue tightening cycles that far into the future—a stance that matters now as it shapes long-term investment positioning and inflation expectations.
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 8.5% | 91.5% | $992K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.8% | 99.2% | $9.5M | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The bear case for a rate cut (supporting the low probability) centers on persistent inflationary pressures and a resilient labor market. If core CPI remains elevated above the Fed's 2% target through 2025 and into 2026, with monthly NFP prints consistently above 150,000, the Fed will have no justification for accommodation. The FOMC's March 2026 meeting (scheduled for March 17-18) would likely telegraph their April stance through dot plots and forward guidance, and current economic momentum suggests the terminal rate could stay elevated longer than previous cycles. Supply-side constraints in housing and services inflation have proven stickier than anticipated, and if wage growth remains above 4% annually heading into 2026, the Fed will prioritize inflation control over preemptive easing.
+The bear case against a rate cut dominates current pricing. If inflation proves sticky through 2025-2026, with Core PCE remaining above the Fed's 2% target, the central bank will have no room to ease policy. Strong labor market conditions—sustained NFP prints above 150K and unemployment below 4.5%—would reinforce a higher-for-longer stance. The Fed's dot plot projections from upcoming FOMC meetings (June 2025, September 2025, December 2025, March 2026) will provide critical guidance, and any hawkish revisions would cement expectations against cuts. Geopolitical shocks driving energy prices higher or persistent wage growth above 4% would further eliminate cutting scenarios.
 
-The bull case for a cut requires a significant economic slowdown materializing in late 2025 or early 2026. A sharp deterioration in labor markets—with NFP prints turning negative for consecutive months and unemployment rising above 4.5%—combined with core PCE inflation sustainably below 2.5% would create conditions for easing. Financial stability concerns, such as renewed banking sector stress or credit market dislocations, could also force the Fed's hand. The January 2026 FOMC meeting (January 27-28) and subsequent February employment report (released March 6, 2026) will be critical indicators of whether the economy is tracking toward recession territory that would necessitate rate cuts.
+The bull case requires a significant economic deterioration that current data doesn't suggest. A recession starting in late 2025 or early 2026, marked by consecutive negative GDP quarters and unemployment spiking above 5%, could force the Fed's hand. Financial stability concerns—such as banking sector stress or credit market freezes—would create urgency for easing. Key catalysts include Q4 2025 and Q1 2026 GDP releases (expected January and April 2026), CPI and PCE data throughout 2025 showing meaningful disinflation below 2%, and the March 2026 FOMC meeting statement signaling dovish shifts. The January 2026 employment report would be particularly telling about labor market health heading into the April decision.
 
-Key catalysts include the entire 2025 inflation trajectory, particularly Q4 2025 CPI prints (released monthly, with December 2025 data coming January 14, 2026), and the labor market's evolution through the February 2026 jobs report. The December 2025 FOMC meeting (December 16-17) will provide crucial forward guidance through updated Summary of Economic Projections. Traders should monitor whether the Fed's preferred core PCE measure shows sustained disinflation below 2.5% by late 2025, and whether any recession indicators—such as inverted yield curves normalizing through economic contraction rather than rate cuts—emerge in Q1 2026.
+Traders should monitor the Fed's Summary of Economic Projections at each 2025 FOMC meeting for shifts in the terminal rate forecast and 2026 projections. The December 2025 dot plot will be especially critical as it provides the last comprehensive guidance before April 2026. Monthly CPI releases (particularly January-March 2026 readings published in mid-month) and the March 7, 2026 employment report will directly influence pre-meeting positioning. Any forward guidance language changes regarding the "sufficiently restrictive" policy stance would signal potential policy pivots worth trading.
 
 ## Related Markets
 
-- [Will the 10-year treasury yield hit 4.8% by March 31?](/odds/will-the-10-year-treasury-yield-hit-48-by-march-31) — 1% YES
+- [Will the Fed increase interest rates by 50+ bps after the July 2026 meeting?](/odds/will-the-fed-increase-interest-rates-by-50-bps-after-the-july-2026-meeting) — 1% YES
+- [Will the Bank of Israel make no change to the Bank of Israel Interest Rate after the May decision?](/odds/will-the-bank-of-israel-make-no-change-to-the-bank-of-israel-interest-rate-after) — 90% YES
 
 ## Frequently Asked Questions
 
-### Why is the probability so low compared to typical Fed easing cycles?
+### Why is the probability so low when the market extends nearly two years out?
 
-Markets expect the Fed to have completed any necessary rate cuts well before April 2026, or alternatively to maintain restrictive policy if inflation remains problematic. The April 2026 timeframe is too distant for a reactive 25 bps cut unless economic deterioration is both severe and late-developing.
+Markets anticipate either stable rates or potential hikes if inflation persists, and the Fed's current trajectory suggests rates will remain elevated through 2026 absent a severe economic shock that isn't priced into baseline forecasts.
 
-### What would cause this probability to increase significantly before the market resolves?
+### What unemployment rate would typically justify a 25 bps cut in April 2026?
 
-A sharp economic downturn beginning in late 2025 with consecutive negative GDP quarters, unemployment spiking above 5%, and core inflation falling below 2% would shift expectations toward easing. Alternatively, a financial crisis in Q1 2026 requiring emergency Fed intervention could rapidly increase cut probability.
+Historical patterns suggest unemployment would need to rise to at least 5-5.5% with clear deteriorating trends, signaling labor market distress that outweighs inflation concerns and mandates Fed action.
 
-### How does the April 2026 timing differ from other FOMC meeting windows for rate cut expectations?
+### How would the March 2026 FOMC meeting impact this market's resolution?
 
-April 2026 sits far enough out that traders expect the Fed's rate cycle positioning to be largely established by then, making it an unlikely inflection point. Markets typically price higher probabilities for cuts at meetings immediately following clear economic deterioration, not 18+ months in advance.
+The March meeting occurs just weeks before the April deadline, so any dovish pivot or explicit guidance about April actions would dramatically shift probabilities, though the market resolves based on post-April meeting actions specifically.
 
 ## Learn More
 
-- [Will ETH Hit $4,500 in 2026? Live Market Odds](/blog/will-ethereum-reach-4500-in-2026-what-prediction-markets-say)
-- [Will Discord IPO in 2026? What Prediction Markets Say](/blog/will-discord-ipo-in-2026-what-prediction-markets-say)
+- [Fed March Meeting: Will Rates Change? Market Says No](/blog/fed-march-meeting-will-rates-change-market-says-no)
+- [Fed March Meeting Odds: Will Rates Change?](/blog/fed-march-meeting-odds-will-rates-change)
 

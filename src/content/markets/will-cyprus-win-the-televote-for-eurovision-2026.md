@@ -11,7 +11,6 @@ polymarketYes: 0.7
 polymarketNo: 99.4
 polymarketVolume: 97630
 polymarketUrl: "https://polymarket.com/event/will-cyprus-win-the-televote-for-eurovision-2026"
-analysisDate: 2026-04-02
 ---
 
 # Eurovision 2026 Cyprus Televote Analysis

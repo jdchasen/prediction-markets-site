@@ -1,17 +1,16 @@
 ---
 title: "Will Russia capture all of Lyman by December 31, 2026?"
-description: "Will Russia capture all of Lyman by December 31, 2026? Odds: 66.0% YES on Polymarket. See live prices and trade this market."
+description: "Will Russia capture all of Lyman by December 31, 2026? Odds: 65.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Russia capture all of Lyman by December 31, 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-04-02
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 66.0
-polymarketNo: 34.0
-polymarketVolume: 99746
+polymarketYes: 65.5
+polymarketNo: 34.5
+polymarketVolume: 99928
 polymarketUrl: "https://polymarket.com/event/will-russia-capture-all-of-lyman-by-december-31-2026"
-analysisDate: 2026-04-02
 ---
 
 The market strongly favors Russia capturing Lyman by the end of 2026, reflecting persistent Russian territorial ambitions in Donetsk Oblast and the current military dynamics where Russia has held the strategic momentum through much of 2024-2025. Lyman, a critical railway hub that Ukraine recaptured in October 2022, sits at the intersection of Donetsk and Luhansk oblasts and remains vital for controlling logistics in the northern Donbas region.

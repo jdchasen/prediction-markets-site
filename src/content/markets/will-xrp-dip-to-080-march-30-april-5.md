@@ -3,7 +3,7 @@ title: "Will XRP dip to $0.80 March 30-April 5?"
 description: "Will XRP dip to $0.80 March 30-April 5? Odds: 1.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will XRP dip to $0.80 March 30-April 5?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-02
 expiryDate: 2026-04-06
 tags: ["politics", "polymarket"]
