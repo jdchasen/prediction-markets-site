@@ -1,17 +1,16 @@
 ---
 title: "Will Fernando Mendoza be the second pick in the 2026 NFL draft?"
-description: "Will Fernando Mendoza be the second pick in the 2026 NFL draft? Odds: 10.3% YES on Polymarket. See live prices and trade this market."
+description: "Will Fernando Mendoza be the second pick in the 2026 NFL draft? Odds: 8.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Fernando Mendoza be the second pick in the 2026 NFL draft?"
 category: "sports"
 status: "active"
-lastUpdated: 2026-04-01
+lastUpdated: 2026-04-02
 expiryDate: 2026-04-23
 tags: ["polymarket", "sports"]
-polymarketYes: 10.3
-polymarketNo: 89.6
-polymarketVolume: 9837
+polymarketYes: 8.8
+polymarketNo: 91.1
+polymarketVolume: 9951
 polymarketUrl: "https://polymarket.com/event/will-fernando-mendoza-be-the-second-pick-in-the-2026-nfl-draft"
-analysisDate: 2026-04-01
 ---
 
 # Fernando Mendoza 2026 NFL Draft Analysis

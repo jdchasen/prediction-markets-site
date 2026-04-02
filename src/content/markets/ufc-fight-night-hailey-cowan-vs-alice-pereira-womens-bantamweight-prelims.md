@@ -3,8 +3,8 @@ title: "UFC Fight Night: Hailey Cowan vs. Alice Pereira (Women's Bantamweight, P
 description: "UFC Fight Night: Hailey Cowan vs. Alice Pereira (Women's Bantamweight, Prelims) Odds: 44.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "UFC Fight Night: Hailey Cowan vs. Alice Pereira (Women's Bantamweight, Prelims)"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-01
+status: "settled"
+lastUpdated: 2026-04-02
 expiryDate: 2026-04-05
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 44.5

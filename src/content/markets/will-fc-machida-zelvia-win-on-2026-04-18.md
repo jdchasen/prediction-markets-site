@@ -3,8 +3,8 @@ title: "Will FC Machida Zelvia win on 2026-04-18?"
 description: "Will FC Machida Zelvia win on 2026-04-18? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will FC Machida Zelvia win on 2026-04-18?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-01
+status: "settled"
+lastUpdated: 2026-04-02
 expiryDate: 2026-04-18
 tags: ["politics", "polymarket"]
 polymarketYes: 0.1

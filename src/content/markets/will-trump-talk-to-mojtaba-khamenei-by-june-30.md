@@ -3,8 +3,8 @@ title: "Will Trump talk to Mojtaba Khamenei by June 30?"
 description: "Will Trump talk to Mojtaba Khamenei by June 30? Odds: 8.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Trump talk to Mojtaba Khamenei by June 30?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-01
+status: "settled"
+lastUpdated: 2026-04-02
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket", "trump"]
 polymarketYes: 8.2

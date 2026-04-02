@@ -3,8 +3,8 @@ title: "Will 3DMAX qualify to IEM Cologne Major 2026? "
 description: "Will 3DMAX qualify to IEM Cologne Major 2026?  Odds: 63.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will 3DMAX qualify to IEM Cologne Major 2026? "
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-01
+status: "settled"
+lastUpdated: 2026-04-02
 expiryDate: 2026-06-21
 tags: ["politics", "polymarket"]
 polymarketYes: 63.1

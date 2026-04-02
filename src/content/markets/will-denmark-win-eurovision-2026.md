@@ -3,8 +3,8 @@ title: "Will Denmark win Eurovision 2026?"
 description: "Will Denmark win Eurovision 2026? Odds: 10.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Denmark win Eurovision 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-01
+status: "settled"
+lastUpdated: 2026-04-02
 expiryDate: 2026-05-16
 tags: ["politics", "polymarket"]
 polymarketYes: 10.7

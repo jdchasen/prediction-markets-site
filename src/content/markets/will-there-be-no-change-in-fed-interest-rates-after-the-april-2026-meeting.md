@@ -1,17 +1,16 @@
 ---
 title: "Will there be no change in Fed interest rates after the April 2026 meeting?"
-description: "Will there be no change in Fed interest rates after the April 2026 meeting? Odds: 98.2% YES on Polymarket. See live prices and trade this market."
+description: "Will there be no change in Fed interest rates after the April 2026 meeting? Odds: 98.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will there be no change in Fed interest rates after the April 2026 meeting?"
 category: "economics"
 status: "active"
-lastUpdated: 2026-04-01
+lastUpdated: 2026-04-02
 expiryDate: 2026-04-29
 tags: ["economics", "federal-reserve", "interest-rates", "polymarket"]
-polymarketYes: 98.2
-polymarketNo: 1.8
-polymarketVolume: 9363134
+polymarketYes: 98.0
+polymarketNo: 2.1
+polymarketVolume: 9674886
 polymarketUrl: "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-april-2026-meeting"
-analysisDate: 2026-04-01
 ---
 
 The market shows overwhelming conviction that the Federal Reserve will hold rates steady after its April 2026 meeting, reflecting trader expectations that by mid-2026 the Fed will be deep into a rate-cutting cycle that began in 2024 and likely paused well before this date. This matters because it signals market belief that monetary policy will have already found its new equilibrium more than a year from now.

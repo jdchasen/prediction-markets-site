@@ -1,53 +1,54 @@
 ---
 title: "Will Russia capture all of Lyman by December 31, 2026?"
-description: "Will Russia capture all of Lyman by December 31, 2026? Odds: 65.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Russia capture all of Lyman by December 31, 2026? Odds: 66.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Russia capture all of Lyman by December 31, 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-04-01
+lastUpdated: 2026-04-02
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 65.5
-polymarketNo: 34.5
-polymarketVolume: 99338
+polymarketYes: 66.0
+polymarketNo: 34.0
+polymarketVolume: 99746
 polymarketUrl: "https://polymarket.com/event/will-russia-capture-all-of-lyman-by-december-31-2026"
+analysisDate: 2026-04-02
 ---
 
-Traders are pricing Russian capture of Lyman at roughly two-in-three odds by end of 2026, reflecting expectations that Russia's material advantages will eventually overcome Ukrainian defensive positions in this strategically significant Donetsk Oblast city that has changed hands multiple times since 2022.
+The market strongly favors Russia capturing Lyman by the end of 2026, reflecting persistent Russian territorial ambitions in Donetsk Oblast and the current military dynamics where Russia has held the strategic momentum through much of 2024-2025. Lyman, a critical railway hub that Ukraine recaptured in October 2022, sits at the intersection of Donetsk and Luhansk oblasts and remains vital for controlling logistics in the northern Donbas region.
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 66.5% | 33.5% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 66.0% | 34.0% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The bull case centers on Russia's sustained artillery superiority, larger manpower reserves despite heavy casualties, and the tactical importance of Lyman as a rail junction that controls access to deeper Donetsk territory. Russian forces have demonstrated willingness to absorb significant losses for incremental territorial gains, exemplified by their grinding advances in nearby Bakhmut and Avdiivka throughout 2023-2024. If Western military aid continues facing congressional delays or European fatigue sets in—particularly with potential shifts in U.S. support after the 2024 election cycle—Ukraine's defensive capabilities around Lyman could degrade substantially. The extended timeline to December 2026 gives Russia over two years to methodically advance, potentially exploiting seasonal windows when Ukrainian counteroffensive capabilities are limited.
+The bull case centers on Russia's demonstrated ability to sustain grinding offensive operations despite heavy casualties, combined with Ukraine's persistent ammunition shortages and manpower challenges. Russian forces have increasingly adopted attritional warfare tactics that favor their numerical advantages, and the 2.5-year timeline to end-2026 provides ample opportunity for multiple offensive attempts. Additionally, potential shifts in Western military aid—particularly if U.S. support diminishes following the 2024 elections—could tilt battlefield equations further in Russia's favor. The proximity of Lyman to Russian-held territory in Luhansk makes it a logical target for any renewed push to consolidate control over Donetsk Oblast.
 
-The bear case rests on Ukraine's proven ability to defend and recapture Lyman (they liberated it in October 2022) combined with evolving defensive fortifications and continued Western weapons deliveries. Ukraine's strategic calculus prioritizes holding key logistics nodes like Lyman, and they've successfully held similar positions against extended Russian pressure. The March 2025 supplemental aid package discussions in the U.S. Congress and the EU's planned €50 billion Ukraine Facility through 2027 represent critical support benchmarks. If Ukraine receives F-16s and long-range strike capabilities as promised through 2024-2025, they could degrade Russian supply lines supporting any Lyman offensive. Additionally, Russian offensive capacity may deteriorate if equipment and precision munitions stocks continue depleting faster than production allows.
+The bear case emphasizes Ukraine's proven ability to defend key positions and launch effective counteroffensives when properly supplied, as demonstrated by the original liberation of Lyman. Ukrainian forces have established prepared defensive positions throughout the region following two years of static warfare. European nations, particularly Poland and the Baltic states, show commitment to long-term military support regardless of U.S. policy shifts. The spring 2025 offensive season will be crucial—if Ukraine can launch successful counterattacks using newly-arrived F-16s and long-range strike capabilities, it could reset territorial dynamics. Furthermore, Russia's equipment losses and demographic constraints may limit their ability to sustain large-scale offensives through 2026.
 
-Key catalysts include the 2024 U.S. presidential election outcome in November, which fundamentally shapes aid flows through 2026, and the spring-summer 2025 campaign season when either side might launch major offensives. Watch for Russian force concentrations in the Kreminna-Svatove-Lyman axis and Ukrainian fortification efforts. The resolution of Ukraine's 2024 mobilization law implementation will signal defensive sustainability, while Russian casualties reported through verified sources indicate offensive capacity constraints.
+Key catalysts include the 2025 spring offensive season (April-June), when weather permits major operations; the finalization of 2025 U.S. defense budgets (expected March 2025) which determines aid levels; and any potential ceasefire negotiations that may emerge. Traders should monitor Russian force concentrations near the Kreminna-Lyman axis, Ukrainian defensive fortification efforts, and monthly casualty assessments from open-source intelligence. The autumn 2025 period (September-November) represents another critical window before winter conditions limit mobility.
 
 ## Related Markets
 
-- [Will Tulsi Gabbard win the 2028 Republican presidential nomination?](/odds/will-tulsi-gabbard-win-the-2028-republican-presidential-nomination) — 1% YES
-- [Will the next Prime Minister of Hungary be István Kapitány?](/odds/will-the-next-prime-minister-of-hungary-be-istvn-kapitny) — 0% YES
-- [Iran leadership change by December 31?](/odds/iran-leadership-change-by-december-31) — 34% YES
+- [Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?](/odds/will-amanda-anisimova-be-the-2026-womens-wimbledon-winner) — 6% YES
+- [Will Croatia win Eurovision 2026?](/odds/will-croatia-win-eurovision-2026) — 1% YES
+- [Will the People Power Party (PPP) win the 2026 South Korean local elections?](/odds/will-the-people-power-party-ppp-win-the-2026-south-korean-local-elections) — 2% YES
 
 ## Frequently Asked Questions
 
-### Does this market resolve on temporary capture or sustained Russian control of Lyman?
+### Does Russia need to control all of Lyman city proper, or does the market include surrounding settlements?
 
-The market requires Russian forces to control all of Lyman at the specific moment of December 31, 2026. Temporary captures followed by Ukrainian recapture would not resolve as YES unless Russia holds the city on that exact date.
+The market specifies "all of Lyman," which typically means the administrative boundaries of Lyman city itself, not the broader municipality. Control of surrounding villages like Yampil or Torske would not satisfy resolution criteria unless Lyman proper falls.
 
-### How does Lyman's previous capture and liberation history affect these odds?
+### What happened when Russia previously held Lyman and why did they lose it in October 2022?
 
-Lyman changed hands from Ukrainian to Russian control in May 2022, then back to Ukraine in October 2022, demonstrating both its strategic contestability and Ukraine's capability to recapture defended positions, which tempers the current 66.5% odds despite Russian advantages.
+Russia occupied Lyman in May 2022 but lost it during Ukraine's Kharkiv counteroffensive when Ukrainian forces threatened to encircle Russian troops there. The rushed Russian withdrawal demonstrated Lyman's vulnerability when supply lines from the east are threatened.
 
-### What specific military developments around Lyman should traders monitor most closely?
+### How would a ceasefire or frozen conflict affect this market's resolution?
 
-Track Russian progress in the Kreminna-Svatove sector immediately north of Lyman, as control of these areas is prerequisite to any sustained Lyman assault, plus Ukrainian construction of defensive lines west of the city that would indicate preparation for potential withdrawal or defense-in-depth strategies.
+A ceasefire with Russia controlling only part of Lyman would resolve as NO, since the market requires capture of "all" of the city. Any negotiated settlement freezing current lines before Russian capture would similarly result in NO resolution.
 
 ## Learn More
 

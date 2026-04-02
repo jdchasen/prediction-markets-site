@@ -4,14 +4,13 @@ description: "Mojtaba Khamenei leaves Iran by April 30, 2026? Odds: 2.6% YES on 
 marketQuestion: "Mojtaba Khamenei leaves Iran by April 30, 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-04-01
+lastUpdated: 2026-04-02
 expiryDate: 2026-04-30
 tags: ["politics", "polymarket"]
 polymarketYes: 2.6
 polymarketNo: 97.4
-polymarketVolume: 98451
+polymarketVolume: 98676
 polymarketUrl: "https://polymarket.com/event/mojtaba-khamenei-leaves-iran-by-april-30-2026"
-analysisDate: 2026-04-01
 ---
 
 This prediction market tracking whether Mojtaba Khamenei, the second son of Iran's Supreme Leader and rumored successor, will leave Iran before April 30, 2026, sits at exceptionally low odds of 2.6%, reflecting widespread expectation that he'll remain positioned within Iran's power structure as his father ages and succession planning intensifies.

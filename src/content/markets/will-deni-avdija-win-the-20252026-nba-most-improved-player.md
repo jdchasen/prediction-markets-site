@@ -1,33 +1,34 @@
 ---
 title: "Will Deni Avdija win the 2025–2026 NBA Most Improved Player?"
-description: "Will Deni Avdija win the 2025–2026 NBA Most Improved Player? Odds: 8.3% YES on Polymarket. See live prices and trade this market."
+description: "Will Deni Avdija win the 2025–2026 NBA Most Improved Player? Odds: 8.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Deni Avdija win the 2025–2026 NBA Most Improved Player?"
 category: "sports"
 status: "active"
-lastUpdated: 2026-04-01
+lastUpdated: 2026-04-02
 expiryDate: 2026-06-30
 tags: ["polymarket", "sports"]
-polymarketYes: 8.3
-polymarketNo: 91.7
-polymarketVolume: 98744
+polymarketYes: 8.0
+polymarketNo: 92.0
+polymarketVolume: 98999
 polymarketUrl: "https://polymarket.com/event/nba-2025-26-most-improved-player-deni-avdija"
+analysisDate: 2026-04-02
 ---
 
-The market pricing Deni Avdija at 7.3% to win the 2025-26 Most Improved Player award reflects skepticism about the Portland Trail Blazers forward making a dramatic statistical leap, though his recent trajectory and expanded opportunity create a plausible path to contention. Avdija averaged 14.4 points, 7.2 rebounds, and 3.8 assists in his first season with Portland after being traded from Washington, showing flashes of the versatile two-way game that made him the ninth overall pick in 2020.
+The market pricing Deni Avdija at 8% to win Most Improved Player reflects skepticism about his breakout potential on the Portland Trail Blazers, though his increased role after leaving Washington provides a meaningful foundation for a dark-horse case. This matters because MIP awards often go to players on their second or third team who finally get consistent minutes and offensive responsibility—precisely Avdija's current situation.
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 7.3% | 92.7% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 8.0% | 92.0% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The bull case centers on Portland's rebuild providing Avdija with a featured role alongside young core pieces like Scoot Henderson and Shaedon Sharpe. If he increases his scoring to the 18-20 point range while maintaining his playmaking and defensive versatility, he fits the MIP profile perfectly—a former lottery pick breaking out in his fifth season with expanded usage. Portland's likely continued struggles mean high shot volume opportunities, and Avdija's three-point shooting improved to 37.4% post-trade, suggesting offensive growth potential. The award historically favors players on improving teams who make substantial statistical jumps, and if Portland exceeds low expectations while Avdija emerges as their best player, the narrative works.
+The bull case centers on Avdija's expanded opportunity in Portland's rebuilding roster. After averaging 14.7 points and 7.2 rebounds in his final Washington season, he's now a featured wing player getting 30+ minutes nightly alongside young guards Scoot Henderson and Shaedon Sharpe. If Portland's offense coalesces and Avdija pushes his scoring to 18-20 points per game while maintaining his playmaking and improved three-point shooting (currently around 37%), he'd fit the MIP profile perfectly. Recent performance shows flashes—he's had multiple 20+ point games and his usage rate has climbed significantly. The narrative of an Israeli player thriving after escaping a bench role in Washington could resonate with voters if the statistical jump materializes.
 
-The bear case is straightforward: Avdija faces stiff competition from younger players with higher ceilings and better situations. Players like Cade Cunningham, Jalen Green, and Gradey Dick have more explosive scoring potential and could post gaudier numbers. Avdija's all-around game may improve incrementally rather than dramatically—going from 14 to 17 points won't turn heads when MIP typically requires a 6-8 point scoring increase or a leap into All-Star consideration. Portland's poor team performance could also work against him, as MIP voters often favor players on playoff-bound or significantly improved squads.
+The bear case is straightforward: Portland is tanking, and MIP rarely goes to players on bottom-feeding teams losing 50+ games. Voters gravitate toward winners or teams making the play-in tournament at minimum. Additionally, Avdija faces steep competition from candidates like Jalen Williams, Cade Cunningham, and other young players on better teams showing dramatic improvement. His defensive inconsistency and Portland's chaotic roster construction limit his ceiling—he may improve but not enough to separate from the pack. Historical MIP winners typically make All-Star leaps, and Avdija's current trajectory suggests solid starter rather than emerging star.
 
-Key catalysts include Portland's first 20-25 games (October through December 2025) which will establish Avdija's role and usage rate in the new season. His performance in nationally televised games and against playoff contenders will matter for award visibility. Watch for any offseason trades that could alter Portland's hierarchy or bring in veterans who reduce Avdija's touches. The February 2026 trade deadline represents another inflection point—if Portland moves pieces and commits fully to youth, Avdija's opportunity expands, but if they acquire scoring help, his candidacy diminishes.
+Key catalysts include Portland's February trade deadline decisions—if they move veterans and give Avdija even more touches, his numbers could spike in the season's second half when MIP narratives solidify. Watch his performance in nationally televised games and matchups against playoff teams through March and April, as these showcase moments influence voter perception. His three-point percentage sustainability over the next two months will determine if he's genuinely improved or just benefiting from volume. The April 10-13 season finale stretch will be critical for final statistical positioning before June voting.
 
 ## Related Markets
 
@@ -37,17 +38,17 @@ Key catalysts include Portland's first 20-25 games (October through December 202
 
 ## Frequently Asked Questions
 
-### How does Avdija's current statistical profile compare to recent MIP winners?
+### What statistical thresholds would Avdija need to reach to become a serious MIP contender?
 
-Recent winners like Lauri Markkanen (25.6 ppg) and Ja Morant (27.4 ppg in his MIP season) posted much higher scoring numbers than Avdija's 14.4 points. He would need to approach 20+ points per game with strong efficiency to match typical MIP production levels.
+He'd likely need to average at least 18-19 points, 7+ rebounds, and 4+ assists while maintaining efficiency above 55% true shooting percentage. A jump from 14.7 to 19+ points would represent the significant year-over-year improvement MIP voters reward.
 
-### What would Portland's team success need to look like for Avdija to have a realistic shot at MIP?
+### How does Portland's expected win total impact Avdija's chances compared to previous MIP winners?
 
-Portland would likely need to improve from their 21-61 record to at least 35-40 wins and playoff contention, as voters rarely reward players on bottom-feeding teams regardless of individual stats. The only exception would be truly historic statistical improvement that demands recognition.
+Recent MIP winners like Lauri Markkanen (2023) and Ja Morant (2022) played for teams with 38+ wins or clear playoff trajectories. Portland projecting for 25-30 wins creates a significant voter bias hurdle that Avdija must overcome with undeniable statistics.
 
-### Which players pose the biggest competition to Avdija in the 2025-26 MIP race?
+### Which competing candidates pose the biggest threat to Avdija's MIP odds?
 
-High-usage young guards like Cade Cunningham, Jalen Green, and Scoot Henderson present the biggest threats, along with any lottery picks from the 2024-25 draft classes who break out in their second or third seasons with scoring jumps above 20 points per game.
+Jalen Williams (Oklahoma City) and Cade Cunningham (Detroit) are leading candidates with better team situations and stronger statistical profiles. If Evan Mobley or Franz Wagner make All-Star leaps, they'd also dominate the MIP conversation given their higher profiles and winning team contexts.
 
 ## Learn More
 

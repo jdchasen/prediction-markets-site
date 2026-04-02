@@ -3,8 +3,8 @@ title: "FC Nordsjælland vs. Viborg FF: O/U 2.5"
 description: "FC Nordsjælland vs. Viborg FF: O/U 2.5 Odds: 48.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "FC Nordsjælland vs. Viborg FF: O/U 2.5"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-01
+status: "settled"
+lastUpdated: 2026-04-02
 expiryDate: 2026-04-19
 tags: ["politics", "polymarket"]
 polymarketYes: 48.0

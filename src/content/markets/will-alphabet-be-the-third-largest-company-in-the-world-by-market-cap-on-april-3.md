@@ -3,8 +3,8 @@ title: "Will Alphabet be the third-largest company in the world by market cap on
 description: "Will Alphabet be the third-largest company in the world by market cap on April 30? Odds: 69.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Alphabet be the third-largest company in the world by market cap on April 30?"
 category: "finance"
-status: "active"
-lastUpdated: 2026-04-01
+status: "settled"
+lastUpdated: 2026-04-02
 expiryDate: 2026-04-30
 tags: ["finance", "polymarket"]
 polymarketYes: 69.0

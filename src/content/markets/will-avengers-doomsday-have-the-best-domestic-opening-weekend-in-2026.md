@@ -4,14 +4,13 @@ description: "Will Avengers: Doomsday have the best domestic opening weekend in 
 marketQuestion: "Will Avengers: Doomsday have the best domestic opening weekend in 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-04-01
+lastUpdated: 2026-04-02
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 81.5
 polymarketNo: 18.5
-polymarketVolume: 97737
+polymarketVolume: 98164
 polymarketUrl: "https://polymarket.com/event/will-avengers-doomsday-have-the-best-domestic-opening-weekend-in-2026"
-analysisDate: 2026-04-01
 ---
 
 Traders are betting heavily that Marvel's Avengers: Doomsday will dominate the 2026 domestic box office opening weekend, with over four-fifths probability priced in nearly two years before the film's May 1, 2026 release date.
