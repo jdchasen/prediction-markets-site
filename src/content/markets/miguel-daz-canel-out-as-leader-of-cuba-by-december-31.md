@@ -9,9 +9,8 @@ expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 53.5
 polymarketNo: 46.5
-polymarketVolume: 97769
+polymarketVolume: 98470
 polymarketUrl: "https://polymarket.com/event/miguel-daz-canel-out-as-leader-of-cuba-by-december-31-113-682"
-analysisDate: 2026-04-03
 ---
 
 # Analysis: Díaz-Canel Leadership Market

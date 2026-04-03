@@ -9,9 +9,8 @@ expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 8.0
 polymarketNo: 92.0
-polymarketVolume: 99358
+polymarketVolume: 99368
 polymarketUrl: "https://polymarket.com/event/will-the-us-invade-mexico-in-2026"
-analysisDate: 2026-04-03
 ---
 
 The market assigns less than one-in-ten odds to a U.S. military invasion of Mexico by the end of 2026, reflecting how such action would shatter decades of bilateral relations and diplomatic norms, yet the probability remains notably above zero amid escalating cross-border security rhetoric.

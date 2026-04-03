@@ -11,7 +11,6 @@ polymarketYes: 0.1
 polymarketNo: 99.9
 polymarketVolume: 9850
 polymarketUrl: "https://polymarket.com/event/nba-2025-26-clutch-player-of-the-year-demar-derozan"
-analysisDate: 2026-04-03
 ---
 
 DeMar DeRozan faces near-prohibitive odds at 0.1% to win the 2025-2026 Clutch Player of the Year award, reflecting the severe structural headwinds against a 36-year-old perimeter player winning an individual accolade that typically rewards high-volume scorers and usage-rate leaders. The market's pricing matters because it reveals how dismissive traders are of aging veteran narratives in clutch contexts, yet DeRozan's career arc and team situation create non-zero scenarios worth evaluating.

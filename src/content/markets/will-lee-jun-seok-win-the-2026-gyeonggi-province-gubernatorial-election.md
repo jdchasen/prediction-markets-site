@@ -9,9 +9,8 @@ expiryDate: 2026-06-03
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.2
 polymarketNo: 99.8
-polymarketVolume: 99357
+polymarketVolume: 99367
 polymarketUrl: "https://polymarket.com/event/will-lee-jun-seok-win-the-2026-gyeonggi-province-gubernatorial-election"
-analysisDate: 2026-04-03
 ---
 
 The prediction market gives Lee Jun-seok virtually no chance of winning the 2026 Gyeonggi Province gubernatorial race, reflecting his current political isolation and the structural challenges he faces in South Korea's largest electoral battleground.

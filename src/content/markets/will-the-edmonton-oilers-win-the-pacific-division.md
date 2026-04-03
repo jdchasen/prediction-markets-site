@@ -1,17 +1,16 @@
 ---
 title: "Will the Edmonton Oilers win the Pacific Division?"
-description: "Will the Edmonton Oilers win the Pacific Division? Odds: 40.5% YES on Polymarket. See live prices and trade this market."
+description: "Will the Edmonton Oilers win the Pacific Division? Odds: 41.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Edmonton Oilers win the Pacific Division?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-04-03
 expiryDate: 2026-04-30
 tags: ["politics", "polymarket"]
-polymarketYes: 40.5
-polymarketNo: 59.5
-polymarketVolume: 99602
+polymarketYes: 41.0
+polymarketNo: 59.0
+polymarketVolume: 99931
 polymarketUrl: "https://polymarket.com/event/will-the-edmonton-oilers-win-the-pacific-division-823"
-analysisDate: 2026-04-03
 ---
 
 The Edmonton Oilers are trading at roughly 40% to capture the Pacific Division title by April 2025, reflecting a competitive race where they're considered a legitimate contender but not the frontrunner. This matters for NHL bettors and sports traders as division winners secure home-ice advantage and more favorable playoff matchups, with significant implications for Stanley Cup odds.

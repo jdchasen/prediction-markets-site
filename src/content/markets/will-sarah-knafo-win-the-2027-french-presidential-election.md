@@ -9,9 +9,8 @@ expiryDate: 2027-04-30
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 2.9
 polymarketNo: 97.0
-polymarketVolume: 977009
+polymarketVolume: 987515
 polymarketUrl: "https://polymarket.com/event/will-sarah-knafo-win-the-2027-french-presidential-election"
-analysisDate: 2026-04-03
 ---
 
 Sarah Knafo, a 34-year-old Member of the European Parliament from the Reconquête party, sits at under 3% odds to win France's 2027 presidential election—a long-shot position reflecting her limited national profile but growing visibility within the nationalist right.

@@ -9,9 +9,8 @@ expiryDate: 2026-04-10
 tags: ["politics", "polymarket"]
 polymarketYes: 0.7
 polymarketNo: 99.3
-polymarketVolume: 98970
+polymarketVolume: 99271
 polymarketUrl: "https://polymarket.com/event/will-march-2026-be-the-1st-hottest-on-record"
-analysisDate: 2026-04-03
 ---
 
 The market pricing March 2026 as having less than 1% chance of being the hottest March on record reflects both the difficulty of beating recent temperature extremes and the near-term forecasting limitations. This matters because it reveals how traders assess climate volatility against the backdrop of 2024's record-breaking temperatures, which saw multiple months claim hottest-ever status.

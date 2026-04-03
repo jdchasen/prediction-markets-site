@@ -9,9 +9,8 @@ expiryDate: 2026-05-27
 tags: ["polymarket", "sports"]
 polymarketYes: 11.5
 polymarketNo: 88.5
-polymarketVolume: 9789437
+polymarketVolume: 9804837
 polymarketUrl: "https://polymarket.com/event/will-manchester-city-win-the-202526-english-premier-league"
-analysisDate: 2026-04-03
 ---
 
 Manchester City enters the 2025-26 season as a significant underdog at 11.5% despite their historic dominance, reflecting major uncertainty around their ongoing Premier League charges hearing and potential sanctions that could reshape English football's competitive landscape.

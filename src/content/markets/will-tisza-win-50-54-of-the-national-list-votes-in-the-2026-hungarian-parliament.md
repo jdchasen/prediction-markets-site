@@ -9,9 +9,8 @@ expiryDate: 2026-04-12
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 25.5
 polymarketNo: 74.5
-polymarketVolume: 9808
+polymarketVolume: 9829
 polymarketUrl: "https://polymarket.com/event/will-tisza-win-50-54-of-the-national-list-votes-in-the-2026-hungarian-parliamentary-election"
-analysisDate: 2026-04-03
 ---
 
 # TISZA 2026 Hungarian Election Market Analysis

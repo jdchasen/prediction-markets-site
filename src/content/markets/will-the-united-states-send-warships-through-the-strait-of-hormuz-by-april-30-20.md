@@ -1,56 +1,54 @@
 ---
 title: "Will the United States send warships through the Strait of Hormuz by April 30, 2026?"
-description: "Will the United States send warships through the Strait of Hormuz by April 30, 2026? Odds: 45.5% YES on Polymarket. See live prices and trade this market."
+description: "Will the United States send warships through the Strait of Hormuz by April 30, 2026? Odds: 12.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the United States send warships through the Strait of Hormuz by April 30, 2026?"
 category: "politics"
-status: "settled"
-lastUpdated: 2026-03-29
+status: "active"
+lastUpdated: 2026-04-03
 expiryDate: 2026-04-30
 tags: ["ai", "politics", "polymarket"]
-polymarketYes: 45.5
-polymarketNo: 54.5
-polymarketVolume: 9983
+polymarketYes: 12.5
+polymarketNo: 87.5
+polymarketVolume: 99673
 polymarketUrl: "https://polymarket.com/event/will-the-united-states-send-warships-through-the-strait-of-hormuz-by-april-30-2026"
-analysisDate: 2026-03-28
+analysisDate: 2026-04-03
 ---
 
-# Analysis: US Warship Transits Through the Strait of Hormuz
+The market assigns just a 12.5% probability to U.S. warships transiting the Strait of Hormuz before late April 2026, reflecting expectations that America's military presence in the Persian Gulf will remain minimal or that alternative routes will be prioritized amid ongoing regional tensions with Iran.
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 45.5% | 54.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 12.5% | 87.5% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The market is pricing in roughly even odds that the US Navy will conduct a freedom-of-navigation operation through the Strait of Hormuz within the next 16 months, reflecting genuine uncertainty about both geopolitical escalation and the current administration's risk calculus. This matters because such transits serve as a barometer for US-Iran tensions and could signal either deepening conflict or tacit acceptance of Iranian maritime claims. The Strait's importance as a chokepoint for global oil flows makes any escalation economically consequential.
+The bear case for transit centers on the Biden administration's pattern of avoiding direct confrontation with Iran and the possibility of this approach continuing under future leadership. If diplomatic channels with Tehran remain open or improve, the U.S. Navy may continue routing carrier strike groups through alternative paths or maintaining a reduced Fifth Fleet presence based outside the strait itself. The ongoing negotiations over Iran's nuclear program, even if stalled, create incentives to avoid provocative actions. Additionally, if a Democratic administration continues past January 2025, the strategic pivot toward Indo-Pacific operations could further deprioritize Gulf deployments that require Hormuz passage.
 
-The bull case rests on established US policy: freedom-of-navigation operations through the Strait have occurred repeatedly under both Democratic and Republican administrations, with the Navy regularly asserting rights against Iranian claims. Regional tensions remain elevated following the 2024 election period and potential changes in Iran policy; any Israeli-Iranian military exchange or new nuclear negotiations collapse could prompt US naval posturing. Additionally, the 2026 timeframe covers a full presidential cycle where rhetoric could shift dramatically depending on who controls the White House and Congress after the 2024 elections. Historical precedent suggests at least one such transit occurs every 12-18 months under normal conditions.
+The bull case hinges on escalating Iranian aggression or a shift in U.S. foreign policy following the 2024 elections. A Republican administration taking office in January 2025 would likely adopt a more confrontational Iran posture, potentially including freedom of navigation operations explicitly through Hormuz to demonstrate resolve. Specific catalysts include Iran's advancing uranium enrichment milestones (IAEA reports quarterly), any Iranian seizure of commercial vessels in the strait, or attacks on U.S. partners like Saudi Arabia or the UAE. The U.S. Navy's standard carrier rotation schedules typically include Gulf deployments, and any crisis requiring rapid power projection would necessitate Hormuz transit given the Fifth Fleet's Bahrain headquarters.
 
-The bear case emphasizes active de-escalation efforts and structural constraints on military adventurism. The current administration has shown preference for diplomatic channels with Iran, and explicit warship transits risk triggering precisely the kind of tit-for-tat cycle that destabilizes oil markets—economically damaging in an election year (2026 has the midterm cycle approaching). Iran's naval capabilities, while limited, could produce a symbolic victory through confrontation. Finally, "warships" requires specification: routine carrier task force movements near the Strait differ materially from deliberate freedom-of-navigation declarations, and market interpretation may diverge on what counts.
-
-Watch for three catalysts: any Iranian nuclear escalation or new sanctions after UN-brokered talks break down (likely by Q3 2025), Israeli military operations in the region that force a US response, and explicit policy statements from whoever controls the Pentagon in 2025-2026. Congressional votes on Iran sanctions or Middle East military authorizations will signal risk appetite. Oil price movements above $100/barrel often precede US show-of-force operations to stabilize markets. The 16-month window is long enough for significant regime change in US foreign policy posture.
+Key factors to monitor include IAEA reports on Iran's nuclear program (next major update expected in late 2024), the outcome of the November 2024 U.S. presidential election and subsequent foreign policy appointments, and any incidents involving Iranian Revolutionary Guard naval forces in Gulf waters. The Pentagon's fiscal year deployment schedules, typically announced months in advance, will provide concrete signals about carrier strike group routing. Traders should also watch for changes in Bahrain basing agreements or emergency repositioning orders from Central Command.
 
 ## Related Markets
 
-- [Will Erika Kirk win the 2028 Republican presidential nomination?](/odds/will-erika-kirk-win-the-2028-republican-presidential-nomination) — 0% YES
-- [Will Jon Stewart win the 2028 Democratic presidential nomination?](/odds/will-jon-stewart-win-the-2028-democratic-presidential-nomination) — 2% YES
-- [US x Iran ceasefire by April 7?](/odds/us-x-iran-ceasefire-by-april-7) — 10% YES
+- [Will Pete Buttigieg win the 2028 Democratic presidential nomination?](/odds/will-pete-buttigieg-win-the-2028-democratic-presidential-nomination) — 4% YES
+- [Will the People Power Party (PPP) win the 2026 South Korean local elections?](/odds/will-the-people-power-party-ppp-win-the-2026-south-korean-local-elections) — 5% YES
+- [Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?](/odds/will-amanda-anisimova-be-the-2026-womens-wimbledon-winner) — 6% YES
 
 ## Frequently Asked Questions
 
-### What counts as a "warship" transit—does a carrier strike group passing through the Strait satisfy this, or only explicitly declared freedom-of-navigation operations?
+### Does routine U.S. Navy presence in Bahrain require Strait of Hormuz transits to count as "warships passing through"?
 
-Market language typically requires a deliberate transit by combatant vessels; routine naval movements that don't constitute an explicit freedom-of-navigation assertion likely wouldn't settle YES, though borderline cases may face dispute resolution on the specific platform.
+No, ships already stationed at the Fifth Fleet headquarters in Bahrain don't need to transit the strait for routine operations. The market resolves YES only if warships actually pass through the Strait of Hormuz itself, whether entering or exiting the Persian Gulf.
 
-### How would a change in US administration after the 2024 election affect settlement odds?
+### What type of incident with Iran would most likely trigger a U.S. warship transit through Hormuz?
 
-A Trump administration would likely increase the probability of explicit FON operations as part of harder-line Iran policy, while a continuation of Democratic leadership would favor diplomatic approaches, potentially lowering the odds significantly.
+Iranian seizure of a U.S.-flagged commercial vessel or direct attacks on American military assets would almost certainly prompt a freedom of navigation operation, while attacks on partner nations would depend on the severity and whether the current administration views a show of force as strategically necessary.
 
-### Does this market account for Iranian counter-actions like mining the Strait or missile strikes that could trigger US warship response?
+### How does the 2025 presidential transition affect the probability of this happening?
 
-No—the market only requires US warships to transit, not what precedes or follows the transit; a defensive or retaliatory transit after Iranian action would still settle YES.
+A new administration taking office in January 2025 could fundamentally reshape Gulf policy within weeks through National Security Council directives, making the 16-month window between inauguration and market expiry critical for any policy-driven transits resulting from changed deterrence strategies toward Iran.
 
 ## Learn More
 

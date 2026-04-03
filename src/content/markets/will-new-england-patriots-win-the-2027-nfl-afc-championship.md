@@ -1,17 +1,16 @@
 ---
 title: "Will New England Patriots win the 2027 NFL AFC Championship?"
-description: "Will New England Patriots win the 2027 NFL AFC Championship? Odds: 11.0% YES on Polymarket. See live prices and trade this market."
+description: "Will New England Patriots win the 2027 NFL AFC Championship? Odds: 10.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will New England Patriots win the 2027 NFL AFC Championship?"
 category: "sports"
 status: "active"
 lastUpdated: 2026-04-03
 expiryDate: 2027-01-25
 tags: ["polymarket", "sports"]
-polymarketYes: 11.0
-polymarketNo: 89.0
+polymarketYes: 10.5
+polymarketNo: 89.5
 polymarketVolume: 9779
 polymarketUrl: "https://polymarket.com/event/will-new-england-patriots-win-the-2027-nfl-afc-championship-417"
-analysisDate: 2026-04-03
 ---
 
 # Patriots AFC Championship Odds Analysis

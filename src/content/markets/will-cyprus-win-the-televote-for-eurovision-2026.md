@@ -9,9 +9,8 @@ expiryDate: 2026-05-16
 tags: ["politics", "polymarket"]
 polymarketYes: 0.7
 polymarketNo: 99.4
-polymarketVolume: 97711
+polymarketVolume: 97966
 polymarketUrl: "https://polymarket.com/event/will-cyprus-win-the-televote-for-eurovision-2026"
-analysisDate: 2026-04-03
 ---
 
 # Cyprus Eurovision Televote Analysis

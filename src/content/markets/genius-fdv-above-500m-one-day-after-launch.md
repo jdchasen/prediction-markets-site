@@ -1,17 +1,16 @@
 ---
 title: "Genius FDV above $500M one day after launch?"
-description: "Genius FDV above $500M one day after launch? Odds: 1.3% YES on Polymarket. See live prices and trade this market."
+description: "Genius FDV above $500M one day after launch? Odds: 1.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Genius FDV above $500M one day after launch?"
 category: "crypto"
 status: "active"
 lastUpdated: 2026-04-03
 expiryDate: 2028-01-01
 tags: ["crypto", "polymarket"]
-polymarketYes: 1.3
-polymarketNo: 98.7
-polymarketVolume: 9763
+polymarketYes: 1.2
+polymarketNo: 98.8
+polymarketVolume: 9833
 polymarketUrl: "https://polymarket.com/event/genius-fdv-above-500m-one-day-after-launch"
-analysisDate: 2026-04-03
 ---
 
 # Genius FDV Analysis

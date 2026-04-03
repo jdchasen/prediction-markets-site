@@ -3,7 +3,7 @@ title: "Will Romania win Eurovision 2026?"
 description: "Will Romania win Eurovision 2026? Odds: 2.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Romania win Eurovision 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-03
 expiryDate: 2026-05-16
 tags: ["politics", "polymarket"]

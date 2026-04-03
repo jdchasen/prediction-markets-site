@@ -1,17 +1,16 @@
 ---
 title: "FC Nordsjælland vs. Viborg FF: O/U 2.5"
-description: "FC Nordsjælland vs. Viborg FF: O/U 2.5 Odds: 47.5% YES on Polymarket. See live prices and trade this market."
+description: "FC Nordsjælland vs. Viborg FF: O/U 2.5 Odds: 50.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "FC Nordsjælland vs. Viborg FF: O/U 2.5"
 category: "politics"
-status: "settled"
+status: "active"
 lastUpdated: 2026-04-03
 expiryDate: 2026-04-19
 tags: ["politics", "polymarket"]
-polymarketYes: 47.5
-polymarketNo: 52.5
+polymarketYes: 50.5
+polymarketNo: 49.5
 polymarketVolume: 9741
 polymarketUrl: "https://polymarket.com/event/den-nor-vib-2026-04-19-total-2pt5"
-analysisDate: 2026-04-02
 ---
 
 I need to flag a critical issue with this market listing: it's categorized as "politics" but describes a sports match between two Danish football clubs (FC Nordsjælland vs. Viborg FF with an Over/Under 2.5 goals bet). This categorical mismatch suggests either a data error in the source system or misclassification that undermines confidence in the market's integrity.

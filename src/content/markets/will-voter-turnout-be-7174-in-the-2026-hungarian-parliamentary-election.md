@@ -3,7 +3,7 @@ title: "Will voter turnout be 71–74% in the 2026 Hungarian parliamentary elect
 description: "Will voter turnout be 71–74% in the 2026 Hungarian parliamentary election? Odds: 35.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will voter turnout be 71–74% in the 2026 Hungarian parliamentary election?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-03
 expiryDate: 2026-04-12
 tags: ["elections", "politics", "polymarket"]

@@ -3,7 +3,7 @@ title: "Will Mexico win Group A in the 2026 FIFA World Cup?"
 description: "Will Mexico win Group A in the 2026 FIFA World Cup? Odds: 47.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Mexico win Group A in the 2026 FIFA World Cup?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-03
 expiryDate: 2026-06-27
 tags: ["polymarket", "sports"]

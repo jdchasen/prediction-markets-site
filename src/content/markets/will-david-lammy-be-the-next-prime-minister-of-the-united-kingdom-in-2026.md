@@ -11,7 +11,6 @@ polymarketYes: 0.8
 polymarketNo: 99.2
 polymarketVolume: 98487
 polymarketUrl: "https://polymarket.com/event/will-david-lammy-be-the-next-prime-minister-of-the-united-kingdom-in-2026-654"
-analysisDate: 2026-04-03
 ---
 
 David Lammy, currently serving as Foreign Secretary under Prime Minister Keir Starmer, faces near-insurmountable odds at 0.8% to become PM by the end of 2026, reflecting both his limited political profile for leadership and the structural realities of Labour's current governing position.
