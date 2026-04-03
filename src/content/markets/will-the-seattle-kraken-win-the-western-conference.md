@@ -3,8 +3,8 @@ title: "Will the Seattle Kraken win the Western Conference?"
 description: "Will the Seattle Kraken win the Western Conference? Odds: 0.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Seattle Kraken win the Western Conference?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-02
+status: "settled"
+lastUpdated: 2026-04-03
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
 polymarketYes: 0.9

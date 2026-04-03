@@ -4,14 +4,13 @@ description: "Will Israel strike 14 countries in 2026? Odds: 0.1% YES on Polymar
 marketQuestion: "Will Israel strike 14 countries in 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-04-02
+lastUpdated: 2026-04-03
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 0.1
 polymarketNo: 99.9
-polymarketVolume: 97366
+polymarketVolume: 98750
 polymarketUrl: "https://polymarket.com/event/will-israel-strike-14-countries-in-2026"
-analysisDate: 2026-04-02
 ---
 
 This market is trading at near-zero probability because striking 14 separate countries would require an unprecedented regional conflict far beyond Israel's historical military operations or current strategic posture. The extreme threshold makes this essentially a bet on civilizational-scale warfare in the Middle East.

@@ -3,8 +3,8 @@ title: "Will Ronaldo Caiado win the 2026 Brazilian presidential election?"
 description: "Will Ronaldo Caiado win the 2026 Brazilian presidential election? Odds: 2.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Ronaldo Caiado win the 2026 Brazilian presidential election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-02
+status: "settled"
+lastUpdated: 2026-04-03
 expiryDate: 2026-10-04
 tags: ["ai", "elections", "politics", "polymarket"]
 polymarketYes: 2.8

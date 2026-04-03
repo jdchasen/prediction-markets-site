@@ -1,17 +1,16 @@
 ---
 title: "Will Silver (SI) hit (LOW) $45 by end of June?"
-description: "Will Silver (SI) hit (LOW) $45 by end of June? Odds: 13.0% YES on Polymarket. See live prices and trade this market."
+description: "Will Silver (SI) hit (LOW) $45 by end of June? Odds: 14.3% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Silver (SI) hit (LOW) $45 by end of June?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-04-02
+lastUpdated: 2026-04-03
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
-polymarketYes: 13.0
-polymarketNo: 87.1
-polymarketVolume: 98103
+polymarketYes: 14.3
+polymarketNo: 85.7
+polymarketVolume: 98205
 polymarketUrl: "https://polymarket.com/event/si-hit-45-low-jun-2026-219-813-452-716-437"
-analysisDate: 2026-04-02
 ---
 
 # Silver Price Prediction Market Analysis

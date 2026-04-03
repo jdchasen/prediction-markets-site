@@ -1,57 +1,57 @@
 ---
 title: "US x Iran ceasefire by December 31?"
-description: "US x Iran ceasefire by December 31? Odds: 70.5% YES on Polymarket. See live prices and trade this market."
+description: "US x Iran ceasefire by December 31? Odds: 69.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "US x Iran ceasefire by December 31?"
 category: "politics"
-status: "settled"
-lastUpdated: 2026-03-18
-expiryDate: 2026-05-31
+status: "active"
+lastUpdated: 2026-04-03
+expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 70.5
-polymarketNo: 29.5
-polymarketVolume: 99223
-polymarketUrl: "https://polymarket.com/event/us-x-iran-ceasefire-by-december-31"
-analysisDate: 2026-03-18
+polymarketYes: 69.5
+polymarketNo: 30.5
+polymarketVolume: 998008
+polymarketUrl: "https://polymarket.com/event/us-x-iran-ceasefire-by-december-31-969-392"
+analysisDate: 2026-04-03
 ---
 
-Traders are pricing in a strong likelihood (70.5%) that the United States and Iran will reach a ceasefire agreement by the end of 2025, reflecting growing optimism around diplomatic engagement despite ongoing tensions in the Middle East. This matters now as the Trump administration has signaled renewed willingness to negotiate with Tehran, particularly around Iran's nuclear program and regional proxy conflicts.
+Prediction markets are pricing in a roughly 70% probability of a US-Iran ceasefire by the end of 2026, reflecting cautious optimism that nearly three years provides sufficient runway for diplomatic breakthrough despite decades of hostility between the two nations.
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 70.5% | 29.5% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 69.5% | 30.5% | $998K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The bull case rests on several concrete factors: Trump's stated preference for dealmaking over military confrontation, potential backchanneling through intermediaries like Oman or Qatar, and Iran's severe economic strain from sanctions creating pressure for negotiated relief. The February-March 2025 timeframe could prove critical as both sides face domestic political windows—Iran's government needs economic wins before potential unrest, while Trump may seek a major foreign policy achievement before the 2026 midterm campaign season begins in earnest. Additional momentum could come from IAEA inspections scheduled throughout 2025 that might provide verification frameworks for any agreement.
+The bull case rests on several structural factors favoring eventual de-escalation. The extended timeline through December 2026 allows for multiple diplomatic windows, including potential bilateral talks facilitated by third parties like Oman or Qatar, which have historically served as intermediaries. Iran's economic situation continues to deteriorate under sanctions, creating domestic pressure on Tehran's leadership to pursue relief through negotiation rather than confrontation. The 2024 US presidential election outcome will be critical—if it produces an administration prioritizing Middle East diplomacy, formal or informal ceasefire agreements become significantly more likely. Additionally, the framework established by previous negotiations like the JCPOA demonstrates that both sides can reach agreements when political will exists, and regional exhaustion from proxy conflicts in Syria, Yemen, and Iraq may push both parties toward stability.
 
-The bear case centers on fundamental trust deficits and hardline factions on both sides. Iran's Supreme Leader Khamenei has repeatedly rejected direct negotiations with Washington, and the Islamic Revolutionary Guard Corps maintains significant influence over foreign policy decisions. Specific flashpoints to watch include any Israeli strikes on Iranian nuclear facilities (which intelligence assessments suggest could occur in Q2 2025), escalation of Houthi attacks on shipping that force U.S. military responses, or the June 2025 Iranian presidential election if hardliners consolidate power. The definition of "ceasefire" also remains ambiguous—it's unclear whether this market requires a formal bilateral agreement or simply a de-escalation of proxy conflicts in Syria, Iraq, and Yemen.
+The bear case highlights fundamental obstacles that have prevented rapprochement for decades. No active military conflict currently exists between the US and Iran that would require a formal "ceasefire" in the traditional sense—their confrontation operates through proxies, cyber operations, and economic pressure rather than direct warfare. This definitional ambiguity raises questions about what would constitute market resolution. Iran's support for groups like Hezbollah, Hamas, and various Iraqi militias represents core strategic interests unlikely to be abandoned, while US commitment to Israel's security and Gulf Arab partnerships creates irreconcilable red lines. Congressional dynamics matter significantly: any substantial agreement would face intense scrutiny from both parties, with Republicans consistently opposing Iran engagement and many Democrats wary after the JCPOA withdrawal. Iran's nuclear program advancement continues, potentially crossing thresholds that make military action more likely than negotiation. The June 2025 Iranian presidential election could install hardliners even less willing to compromise.
 
-Key catalysts include the UN General Assembly in September 2025 where direct talks could be brokered, the November G20 summit providing neutral ground for intermediary discussions, and any breakthrough in the stalled JCPOA negotiations that European parties continue facilitating. Traders should monitor Treasury Department sanctions announcements, particularly any OFAC general licenses that would signal warming relations, and statements from Senate Foreign Relations Committee leadership about treaty ratification prospects. The market's extended expiry through May 2026 provides significant runway, but the December 31, 2025 deadline means meaningful progress must materialize in the next 10-11 months.
+Key catalysts to monitor include the Iranian presidential election in June 2025, which will determine whether pragmatists or hardliners control negotiations. The UN Security Council meetings on Iran sanctions scheduled for Q2 2025 could signal shifting international consensus. Watch for third-party diplomatic initiatives from Oman, which facilitated secret US-Iran talks before the JCPOA, particularly around IAEA inspections scheduled quarterly through 2026. Any direct military escalation between Israel and Iran—such as strikes on nuclear facilities or significant attacks on US forces in Iraq and Syria—would dramatically reduce ceasefire probability. Conversely, prisoner swaps or limited agreements on frozen assets, like the September 2023 exchange, could indicate warming relations and boost odds.
 
 ## Related Markets
 
-- [Will Robert F. Kennedy Jr. win the 2028 Republican presidential nomination?](/odds/will-robert-f-kennedy-jr-win-the-2028-republican-presidential-nomination) — 1% YES
-- [Will Alexandria Ocasio-Cortez win the 2028 US Presidential Election?](/odds/will-alexandria-ocasio-cortez-win-the-2028-us-presidential-election) — 5% YES
-- [Will Our Country (ND) win the most seats in the 2026 Slovenian parliamentary election?](/odds/will-our-country-nd-win-the-most-seats-in-the-2026-slovenian-parliamentary-elect) — 0% YES
+- [Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?](/odds/will-amanda-anisimova-be-the-2026-womens-wimbledon-winner) — 6% YES
+- [Will the People Power Party (PPP) win the 2026 South Korean local elections?](/odds/will-the-people-power-party-ppp-win-the-2026-south-korean-local-elections) — 4% YES
+- [Will Romania win Eurovision 2026?](/odds/will-romania-win-eurovision-2026) — 2% YES
 
 ## Frequently Asked Questions
 
-### Does this market resolve YES if there's just a de-escalation of proxy conflicts, or does it require a formal signed agreement between the US and Iran?
+### What exactly would constitute a "ceasefire" between the US and Iran when they're not technically at war?
 
-The resolution criteria likely hinge on whether a publicly acknowledged ceasefire agreement exists by year-end 2025, though ambiguity around "ceasefire" versus broader détente creates interpretation risk. Traders should verify if informal understandings or only documented bilateral agreements count.
+The market likely resolves based on formal agreements ending proxy hostilities, cessation of attacks on US forces in the region, or comprehensive diplomatic frameworks that include mutual de-escalation commitments. Ambiguity in resolution criteria represents a significant risk for traders.
 
-### How would an Israeli preemptive strike on Iranian nuclear facilities affect this market's probability?
+### How would the 2024 US presidential election outcome affect the probability of this ceasefire?
 
-A significant Israeli military action would likely crash the YES probability by 20-30 points, as it would eliminate near-term diplomatic pathways and trigger Iranian retaliation cycles that make negotiations politically impossible for months.
+A Trump administration would likely pursue maximum pressure rather than negotiation based on his first-term withdrawal from the JCPOA, while a Democratic administration might prioritize diplomatic engagement, though domestic political constraints have tightened considerably since 2015. The administration taking office in January 2025 will set the tone for the subsequent two years.
 
-### What role does Iran's June 2025 presidential election play in the likelihood of reaching a ceasefire by December?
+### Could Iran's nuclear program advancement actually increase ceasefire likelihood rather than decrease it?
 
-If reformists or pragmatists win in June, it could accelerate negotiations in the July-December window, but a hardliner victory would substantially reduce chances as new leadership typically takes months to establish negotiating positions and faces domestic pressure to demonstrate strength rather than compromise.
+Yes, if Iran reaches threshold nuclear capability, both sides might prefer negotiating from positions of mutual deterrence rather than risking military confrontation, similar to how nuclear weapons froze other conflicts. However, Israel's likely opposition to accepting a nuclear-capable Iran complicates this scenario significantly.
 
 ## Learn More
 
 - [Iran War Day 5: Only 15% Ceasefire Odds](/blog/iran-war-ceasefire-odds-day-5)
-- [Polymarket February 2026: Iran at 97%, $36M on Elon's Tweets](/blog/top-polymarket-markets-february-2026)
+- [US Forces Enter Iran Odds: What Markets Are Betting](/blog/us-forces-enter-iran-odds-what-markets-are-betting)
 

@@ -3,8 +3,8 @@ title: "Iran x Israel/US conflict ends by April 7?"
 description: "Iran x Israel/US conflict ends by April 7? Odds: 1.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Iran x Israel/US conflict ends by April 7?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-02
+status: "settled"
+lastUpdated: 2026-04-03
 expiryDate: 2026-04-07
 tags: ["politics", "polymarket", "sports"]
 polymarketYes: 1.4

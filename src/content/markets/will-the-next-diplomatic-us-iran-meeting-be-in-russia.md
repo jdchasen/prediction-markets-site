@@ -3,8 +3,8 @@ title: "Will the next diplomatic US-Iran meeting be in Russia?"
 description: "Will the next diplomatic US-Iran meeting be in Russia? Odds: 1.6% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the next diplomatic US-Iran meeting be in Russia?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-02
+status: "settled"
+lastUpdated: 2026-04-03
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
 polymarketYes: 1.6

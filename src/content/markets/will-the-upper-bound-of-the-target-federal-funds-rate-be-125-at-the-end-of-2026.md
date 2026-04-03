@@ -3,8 +3,8 @@ title: "Will the upper bound of the target federal funds rate be 1.25% at the en
 description: "Will the upper bound of the target federal funds rate be 1.25% at the end of 2026? Odds: 0.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the upper bound of the target federal funds rate be 1.25% at the end of 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-02
+status: "settled"
+lastUpdated: 2026-04-03
 expiryDate: 2026-12-09
 tags: ["federal-reserve", "politics", "polymarket"]
 polymarketYes: 0.7

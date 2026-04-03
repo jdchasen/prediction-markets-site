@@ -1,17 +1,16 @@
 ---
 title: "Will the Democratic Party win the MS-01 House seat?"
-description: "Will the Democratic Party win the MS-01 House seat? Odds: 5.6% YES on Polymarket. See live prices and trade this market."
+description: "Will the Democratic Party win the MS-01 House seat? Odds: 5.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Democratic Party win the MS-01 House seat?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-04-02
+lastUpdated: 2026-04-03
 expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
-polymarketYes: 5.6
-polymarketNo: 94.4
+polymarketYes: 5.5
+polymarketNo: 94.5
 polymarketVolume: 9791
 polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-ms-01-house-seat"
-analysisDate: 2026-04-02
 ---
 
 # MS-01 Democratic Viability in 2026

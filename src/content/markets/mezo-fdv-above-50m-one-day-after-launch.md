@@ -3,8 +3,8 @@ title: "Mezo FDV above $50M one day after launch?"
 description: "Mezo FDV above $50M one day after launch? Odds: 100.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Mezo FDV above $50M one day after launch?"
 category: "crypto"
-status: "active"
-lastUpdated: 2026-04-02
+status: "settled"
+lastUpdated: 2026-04-03
 expiryDate: 2027-01-01
 tags: ["crypto", "polymarket"]
 polymarketYes: 100.0

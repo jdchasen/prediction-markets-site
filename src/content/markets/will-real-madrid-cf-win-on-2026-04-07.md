@@ -3,8 +3,8 @@ title: "Will Real Madrid CF win on 2026-04-07?"
 description: "Will Real Madrid CF win on 2026-04-07? Odds: 32.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Real Madrid CF win on 2026-04-07?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-02
+status: "settled"
+lastUpdated: 2026-04-03
 expiryDate: 2026-04-07
 tags: ["politics", "polymarket"]
 polymarketYes: 32.5

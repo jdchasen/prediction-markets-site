@@ -4,14 +4,13 @@ description: "Will SPD win the most seats in the 2026 Sachsen-Anhalt parliamenta
 marketQuestion: "Will SPD win the most seats in the 2026 Sachsen-Anhalt parliamentary elections?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-04-02
+lastUpdated: 2026-04-03
 expiryDate: 2026-09-06
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.5
 polymarketNo: 99.5
-polymarketVolume: 99612
+polymarketVolume: 99642
 polymarketUrl: "https://polymarket.com/event/will-spd-win-the-most-seats-in-the-2026-sachsen-anhalt-parliamentary-elections"
-analysisDate: 2026-04-02
 ---
 
 The market gives the SPD virtually no chance (0.5%) of winning the most seats in Sachsen-Anhalt's 2026 state election, reflecting the party's catastrophic collapse in this eastern German state where the CDU currently dominates with an absolute majority.

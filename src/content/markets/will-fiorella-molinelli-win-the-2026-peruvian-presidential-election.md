@@ -3,8 +3,8 @@ title: "Will Fiorella Molinelli win the 2026 Peruvian presidential election?"
 description: "Will Fiorella Molinelli win the 2026 Peruvian presidential election? Odds: 0.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Fiorella Molinelli win the 2026 Peruvian presidential election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-02
+status: "settled"
+lastUpdated: 2026-04-03
 expiryDate: 2026-04-12
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.2

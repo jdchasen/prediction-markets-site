@@ -1,17 +1,16 @@
 ---
 title: "Will Bill Gates be confirmed to have visited Epstein’s island?"
-description: "Will Bill Gates be confirmed to have visited Epstein’s island? Odds: 5.0% YES on Polymarket. See live prices and trade this market."
+description: "Will Bill Gates be confirmed to have visited Epstein’s island? Odds: 5.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Bill Gates be confirmed to have visited Epstein’s island?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-04-02
+lastUpdated: 2026-04-03
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
-polymarketYes: 5.0
-polymarketNo: 95.0
-polymarketVolume: 99081
+polymarketYes: 5.5
+polymarketNo: 94.5
+polymarketVolume: 99641
 polymarketUrl: "https://polymarket.com/event/will-bill-gates-be-confirmed-to-have-visited-epsteins-island"
-analysisDate: 2026-04-02
 ---
 
 The market currently prices just a 5% probability that Bill Gates will be confirmed to have visited Jeffrey Epstein's private island before June 2026, reflecting both the lack of evidence to date and the high bar for definitive "confirmation" in a legal or documentary sense.

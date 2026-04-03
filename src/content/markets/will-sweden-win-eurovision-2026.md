@@ -3,8 +3,8 @@ title: "Will Sweden win Eurovision 2026?"
 description: "Will Sweden win Eurovision 2026? Odds: 3.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Sweden win Eurovision 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-02
+status: "settled"
+lastUpdated: 2026-04-03
 expiryDate: 2026-05-16
 tags: ["politics", "polymarket"]
 polymarketYes: 3.0
