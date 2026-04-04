@@ -3,8 +3,8 @@ title: "Will MINHxDYNASTY win the Legend Trade Series?"
 description: "Will MINHxDYNASTY win the Legend Trade Series? Odds: 14.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will MINHxDYNASTY win the Legend Trade Series?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-03
+status: "settled"
+lastUpdated: 2026-04-04
 expiryDate: 2026-04-16
 tags: ["politics", "polymarket"]
 polymarketYes: 14.5

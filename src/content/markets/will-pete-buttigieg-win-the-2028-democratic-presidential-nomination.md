@@ -4,14 +4,13 @@ description: "Will Pete Buttigieg win the 2028 Democratic presidential nominatio
 marketQuestion: "Will Pete Buttigieg win the 2028 Democratic presidential nomination?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-04-03
+lastUpdated: 2026-04-04
 expiryDate: 2028-11-07
 tags: ["politics", "polymarket"]
 polymarketYes: 4.0
 polymarketNo: 96.0
-polymarketVolume: 9750965
+polymarketVolume: 9761872
 polymarketUrl: "https://polymarket.com/event/will-pete-buttigieg-win-the-2028-democratic-presidential-nomination-687"
-analysisDate: 2026-04-03
 ---
 
 Pete Buttigieg currently sits at long-shot odds to capture the 2028 Democratic nomination, reflecting his limited national profile despite serving as Transportation Secretary and his status as a past presidential candidate who failed to gain significant traction beyond Iowa in 2020.

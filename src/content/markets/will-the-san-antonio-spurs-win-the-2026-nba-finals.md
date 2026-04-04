@@ -3,8 +3,8 @@ title: "Will the San Antonio Spurs win the 2026 NBA Finals?"
 description: "Will the San Antonio Spurs win the 2026 NBA Finals? Odds: 17.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the San Antonio Spurs win the 2026 NBA Finals?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-04-03
+status: "settled"
+lastUpdated: 2026-04-04
 expiryDate: 2026-07-01
 tags: ["polymarket", "sports"]
 polymarketYes: 17.9

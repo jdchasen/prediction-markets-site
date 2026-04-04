@@ -3,8 +3,8 @@ title: "Will Luis Gilberto Murillo win the 1st round of the 2026 Colombian presi
 description: "Will Luis Gilberto Murillo win the 1st round of the 2026 Colombian presidential election? Odds: 0.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Luis Gilberto Murillo win the 1st round of the 2026 Colombian presidential election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-03
+status: "settled"
+lastUpdated: 2026-04-04
 expiryDate: 2026-05-31
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.2

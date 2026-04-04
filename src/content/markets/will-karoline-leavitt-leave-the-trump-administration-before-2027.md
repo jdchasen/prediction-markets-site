@@ -3,8 +3,8 @@ title: "Will Karoline Leavitt leave the Trump administration before 2027?"
 description: "Will Karoline Leavitt leave the Trump administration before 2027? Odds: 46.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Karoline Leavitt leave the Trump administration before 2027?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-03
+status: "settled"
+lastUpdated: 2026-04-04
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket", "trump"]
 polymarketYes: 46.5

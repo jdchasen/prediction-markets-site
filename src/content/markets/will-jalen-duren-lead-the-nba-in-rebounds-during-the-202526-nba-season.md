@@ -4,14 +4,13 @@ description: "Will Jalen Duren lead the NBA in rebounds during the 2025–26 NBA
 marketQuestion: "Will Jalen Duren lead the NBA in rebounds during the 2025–26 NBA season?"
 category: "sports"
 status: "active"
-lastUpdated: 2026-04-03
+lastUpdated: 2026-04-04
 expiryDate: 2026-04-12
 tags: ["polymarket", "sports"]
 polymarketYes: 0.1
 polymarketNo: 99.9
 polymarketVolume: 9732
 polymarketUrl: "https://polymarket.com/event/nba-2025-26-rpg-leader-jalen-duren"
-analysisDate: 2026-04-03
 ---
 
 # Jalen Duren NBA Rebounds Leader Analysis

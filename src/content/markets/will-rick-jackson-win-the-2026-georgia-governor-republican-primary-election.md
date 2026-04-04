@@ -3,8 +3,8 @@ title: "Will Rick Jackson win the 2026 Georgia Governor Republican primary elect
 description: "Will Rick Jackson win the 2026 Georgia Governor Republican primary election? Odds: 58.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Rick Jackson win the 2026 Georgia Governor Republican primary election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-03
+status: "settled"
+lastUpdated: 2026-04-04
 expiryDate: 2026-05-19
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 58.5

@@ -4,14 +4,13 @@ description: "Will the Kansas City Royals win the 2026 World Series? Odds: 3.0% 
 marketQuestion: "Will the Kansas City Royals win the 2026 World Series?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-04-03
+lastUpdated: 2026-04-04
 expiryDate: 2026-10-31
 tags: ["politics", "polymarket"]
 polymarketYes: 3.0
 polymarketNo: 97.0
-polymarketVolume: 97331
+polymarketVolume: 98047
 polymarketUrl: "https://polymarket.com/event/will-the-kansas-city-royals-win-the-2026-world-series"
-analysisDate: 2026-04-03
 ---
 
 # Kansas City Royals 2026 World Series Analysis

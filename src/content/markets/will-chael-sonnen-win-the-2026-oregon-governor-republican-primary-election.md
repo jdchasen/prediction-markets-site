@@ -3,8 +3,8 @@ title: "Will Chael Sonnen win the 2026 Oregon Governor Republican primary electi
 description: "Will Chael Sonnen win the 2026 Oregon Governor Republican primary election? Odds: 0.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Chael Sonnen win the 2026 Oregon Governor Republican primary election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-03
+status: "settled"
+lastUpdated: 2026-04-04
 expiryDate: 2026-05-19
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.4

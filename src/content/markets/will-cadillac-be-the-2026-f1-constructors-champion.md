@@ -4,14 +4,13 @@ description: "Will Cadillac be the 2026 F1 Constructors' Champion? Odds: 0.5% YE
 marketQuestion: "Will Cadillac be the 2026 F1 Constructors' Champion?"
 category: "sports"
 status: "active"
-lastUpdated: 2026-04-03
+lastUpdated: 2026-04-04
 expiryDate: 2026-12-06
 tags: ["polymarket", "sports"]
 polymarketYes: 0.5
 polymarketNo: 99.5
-polymarketVolume: 976798
+polymarketVolume: 985356
 polymarketUrl: "https://polymarket.com/event/will-cadillac-be-the-2026-f1-constructors-champion"
-analysisDate: 2026-04-03
 ---
 
 Cadillac's championship odds sit at an extremely skeptical 0.5%, reflecting the monumental challenge of a new F1 entrant winning a constructors' title in their debut season—something that hasn't occurred in the sport's modern era.

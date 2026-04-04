@@ -3,8 +3,8 @@ title: "Will Sarah Knafo win the 2027 French presidential election?"
 description: "Will Sarah Knafo win the 2027 French presidential election? Odds: 2.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Sarah Knafo win the 2027 French presidential election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-03
+status: "settled"
+lastUpdated: 2026-04-04
 expiryDate: 2027-04-30
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 2.9

@@ -3,8 +3,8 @@ title: "Will the United States send warships through the Strait of Hormuz by Apr
 description: "Will the United States send warships through the Strait of Hormuz by April 30, 2026? Odds: 12.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the United States send warships through the Strait of Hormuz by April 30, 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-03
+status: "settled"
+lastUpdated: 2026-04-04
 expiryDate: 2026-04-30
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 12.5

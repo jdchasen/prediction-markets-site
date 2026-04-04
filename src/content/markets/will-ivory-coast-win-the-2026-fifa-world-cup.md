@@ -4,14 +4,13 @@ description: "Will Ivory Coast win the 2026 FIFA World Cup? Odds: 0.4% YES on Po
 marketQuestion: "Will Ivory Coast win the 2026 FIFA World Cup?"
 category: "sports"
 status: "active"
-lastUpdated: 2026-04-03
+lastUpdated: 2026-04-04
 expiryDate: 2026-07-20
 tags: ["polymarket", "sports"]
 polymarketYes: 0.4
 polymarketNo: 99.6
-polymarketVolume: 9808568
+polymarketVolume: 9901577
 polymarketUrl: "https://polymarket.com/event/will-ivory-coast-win-the-2026-fifa-world-cup"
-analysisDate: 2026-04-03
 ---
 
 The Ivory Coast faces overwhelming odds at 0.4% to capture their first World Cup title in 2026, reflecting their status as a mid-tier African nation in a tournament historically dominated by European and South American powerhouses. This market essentially serves as a long-shot speculative play on a massive upset, similar to betting against the field in a tournament where Brazil, France, Argentina, and England are the clear favorites.

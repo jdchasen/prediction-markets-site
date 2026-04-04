@@ -1,17 +1,16 @@
 ---
 title: "Will Bitcoin hit $60k or $80k first?"
-description: "Will Bitcoin hit $60k or $80k first? Odds: 66.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Bitcoin hit $60k or $80k first? Odds: 64.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Bitcoin hit $60k or $80k first?"
 category: "crypto"
 status: "active"
-lastUpdated: 2026-04-03
+lastUpdated: 2026-04-04
 expiryDate: 2027-01-01
 tags: ["bitcoin", "crypto", "polymarket"]
-polymarketYes: 66.5
-polymarketNo: 33.5
-polymarketVolume: 989926
+polymarketYes: 64.5
+polymarketNo: 35.5
+polymarketVolume: 992532
 polymarketUrl: "https://polymarket.com/event/will-bitcoin-hit-60k-or-80k-first-965"
-analysisDate: 2026-04-03
 ---
 
 The market strongly favors Bitcoin reaching $80k before $60k at roughly 2:1 odds, which makes sense given Bitcoin currently trades around $95k-100k, meaning a 40% drop would be needed to hit $60k versus roughly 15-20% downside to $80k. This effectively becomes a bet on whether Bitcoin enters a sustained bear market or simply experiences normal bull cycle volatility over the next two years.

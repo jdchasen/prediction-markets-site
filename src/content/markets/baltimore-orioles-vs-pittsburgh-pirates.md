@@ -3,8 +3,8 @@ title: "Baltimore Orioles vs. Pittsburgh Pirates"
 description: "Baltimore Orioles vs. Pittsburgh Pirates Odds: 9.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Baltimore Orioles vs. Pittsburgh Pirates"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-03
+status: "settled"
+lastUpdated: 2026-04-04
 expiryDate: 2026-04-10
 tags: ["politics", "polymarket"]
 polymarketYes: 9.5

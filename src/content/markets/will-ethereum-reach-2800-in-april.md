@@ -3,8 +3,8 @@ title: "Will Ethereum reach $2,800 in April?"
 description: "Will Ethereum reach $2,800 in April? Odds: 4.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Ethereum reach $2,800 in April?"
 category: "crypto"
-status: "active"
-lastUpdated: 2026-04-03
+status: "settled"
+lastUpdated: 2026-04-04
 expiryDate: 2026-05-01
 tags: ["crypto", "ethereum", "polymarket"]
 polymarketYes: 4.1

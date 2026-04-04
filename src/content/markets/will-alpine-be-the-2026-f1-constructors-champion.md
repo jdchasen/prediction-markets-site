@@ -3,8 +3,8 @@ title: "Will Alpine be the 2026 F1 Constructors' Champion?"
 description: "Will Alpine be the 2026 F1 Constructors' Champion? Odds: 0.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Alpine be the 2026 F1 Constructors' Champion?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-04-03
+status: "settled"
+lastUpdated: 2026-04-04
 expiryDate: 2026-12-06
 tags: ["polymarket", "sports"]
 polymarketYes: 0.4

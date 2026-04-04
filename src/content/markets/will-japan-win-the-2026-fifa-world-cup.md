@@ -3,8 +3,8 @@ title: "Will Japan win the 2026 FIFA World Cup?"
 description: "Will Japan win the 2026 FIFA World Cup? Odds: 1.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Japan win the 2026 FIFA World Cup?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-04-03
+status: "settled"
+lastUpdated: 2026-04-04
 expiryDate: 2026-07-20
 tags: ["polymarket", "sports"]
 polymarketYes: 1.8

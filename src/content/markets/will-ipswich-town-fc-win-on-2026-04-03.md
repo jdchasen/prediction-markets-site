@@ -3,8 +3,8 @@ title: "Will Ipswich Town FC win on 2026-04-03?"
 description: "Will Ipswich Town FC win on 2026-04-03? Odds: 33.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Ipswich Town FC win on 2026-04-03?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-03
+status: "settled"
+lastUpdated: 2026-04-04
 expiryDate: 2026-04-28
 tags: ["politics", "polymarket"]
 polymarketYes: 33.5

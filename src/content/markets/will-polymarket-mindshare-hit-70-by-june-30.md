@@ -3,8 +3,8 @@ title: "Will Polymarket mindshare hit 70% by June 30?"
 description: "Will Polymarket mindshare hit 70% by June 30? Odds: 99.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Polymarket mindshare hit 70% by June 30?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-03
+status: "settled"
+lastUpdated: 2026-04-04
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
 polymarketYes: 99.5

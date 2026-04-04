@@ -1,17 +1,16 @@
 ---
 title: "Will Ana Paula Renault win Big Brother Brasil 26?"
-description: "Will Ana Paula Renault win Big Brother Brasil 26? Odds: 89.0% YES on Polymarket. See live prices and trade this market."
+description: "Will Ana Paula Renault win Big Brother Brasil 26? Odds: 89.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Ana Paula Renault win Big Brother Brasil 26?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-04-03
+lastUpdated: 2026-04-04
 expiryDate: 2026-04-30
 tags: ["politics", "polymarket"]
-polymarketYes: 89.0
-polymarketNo: 11.0
-polymarketVolume: 98726
+polymarketYes: 89.5
+polymarketNo: 10.5
+polymarketVolume: 98850
 polymarketUrl: "https://polymarket.com/event/will-ana-paula-renault-win-big-brother-brasil-26"
-analysisDate: 2026-04-03
 ---
 
 # Ana Paula Renault and Big Brother Brasil 26
