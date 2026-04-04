@@ -9,9 +9,8 @@ expiryDate: 2026-05-16
 tags: ["politics", "polymarket"]
 polymarketYes: 0.7
 polymarketNo: 99.4
-polymarketVolume: 98791
+polymarketVolume: 99105
 polymarketUrl: "https://polymarket.com/event/will-cyprus-win-the-televote-for-eurovision-2026"
-analysisDate: 2026-04-04
 ---
 
 Trading at less than 1%, this market reflects Cyprus's historically weak televote performance at Eurovision, though the country has never finished in the top three of the public vote since the current voting system began in 2016. The 2026 contest will be held in Basel, Switzerland on May 17, 2026, meaning traders have over a year to position themselves as Cyprus begins its national selection process and song development.

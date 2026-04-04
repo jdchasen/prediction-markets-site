@@ -9,9 +9,8 @@ expiryDate: 2026-07-12
 tags: ["politics", "polymarket"]
 polymarketYes: 5.9
 polymarketNo: 94.1
-polymarketVolume: 994094
+polymarketVolume: 994107
 polymarketUrl: "https://polymarket.com/event/will-amanda-anisimova-be-the-2026-womens-wimbledon-winner"
-analysisDate: 2026-04-04
 ---
 
 The market shows traders giving Amanda Anisimova roughly 1-in-17 odds to claim the 2026 Wimbledon title, reflecting both her undeniable talent and significant questions about consistency and grass-court readiness over the next two seasons.

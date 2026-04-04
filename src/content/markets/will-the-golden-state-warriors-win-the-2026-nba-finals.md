@@ -9,9 +9,8 @@ expiryDate: 2026-07-01
 tags: ["polymarket", "sports"]
 polymarketYes: 0.2
 polymarketNo: 99.8
-polymarketVolume: 9788766
+polymarketVolume: 9861796
 polymarketUrl: "https://polymarket.com/event/will-the-golden-state-warriors-win-the-2026-nba-finals"
-analysisDate: 2026-04-04
 ---
 
 The Golden State Warriors are currently given virtually no chance to win the 2026 NBA Finals according to prediction markets, reflecting a franchise at a crossroads as their championship core ages and their competitive window appears to have closed.

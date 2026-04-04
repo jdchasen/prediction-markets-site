@@ -3,7 +3,7 @@ title: "Miguel Díaz-Canel out as leader of Cuba by December 31?"
 description: "Miguel Díaz-Canel out as leader of Cuba by December 31? Odds: 53.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Miguel Díaz-Canel out as leader of Cuba by December 31?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-04
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]

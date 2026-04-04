@@ -3,7 +3,7 @@ title: "Genius FDV above $20M one day after launch?"
 description: "Genius FDV above $20M one day after launch? Odds: 99.6% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Genius FDV above $20M one day after launch?"
 category: "crypto"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-04
 expiryDate: 2028-01-01
 tags: ["crypto", "polymarket"]

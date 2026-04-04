@@ -9,43 +9,31 @@ expiryDate: 2027-01-01
 tags: ["crypto", "polymarket"]
 polymarketYes: 7.5
 polymarketNo: 92.5
-polymarketVolume: 9770
+polymarketVolume: 9795
 polymarketUrl: "https://polymarket.com/event/ink-fdv-above-2b-one-day-after-launch-664-291"
 ---
-
-# Ink FDV Analysis
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 8.5% | 91.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
-
-## Market Analysis
-
-At 8.5% YES, the market is pricing in extreme skepticism about Ink reaching a $2 billion fully diluted valuation within 24 hours of launch—a threshold that would require either massive pre-launch hype, strategic partnerships, or unusual market conditions to achieve. This matters because Ink appears to be positioning itself as a serious protocol entrant, and the valuation milestone signals how much confidence the market has in both the project's fundamentals and near-term momentum. The three-year expiry provides ample time for reassessment, but the "one day after launch" condition is deliberately punitive, forcing the market to price in only explosive first-day appreciation rather than gradual adoption.
-
-The bull case hinges on Ink launching with significant institutional backing, a functioning ecosystem of applications, and genuine differentiation in what appears to be a crowded market. If Ink secures major exchange listings (Coinbase, Kraken, or Binance) before launch and enters with substantial TVL commitments from DeFi protocols, $2 billion FDV becomes plausible—comparable to how Arbitrum and Optimism launched with significant valuations. Hype cycles in crypto can drive tokens to $2B+ market caps within hours if adoption narratives align with narrative momentum. Community size pre-launch, social media engagement metrics, and any announced token allocations for major ecosystem participants would be early signals worth monitoring.
-
-The bear case—and the reason 8.5% odds prevail—is that hitting $2B FDV on day one demands irrational exuberance in a market increasingly focused on proven utility rather than speculation. Most layer-2 or application-specific blockchains have launched below this valuation and accrued it over weeks or months. Without disclosed tokenomics, clear competitive advantages, or extraordinary pre-launch demand, Ink faces an uphill battle against entrenched competitors. Regulatory uncertainty around new token launches, potential SEC scrutiny of crypto projects, and macroeconomic headwinds through 2024-2025 all weigh against day-one explosion. Additionally, if token distribution heavily favors founders/insiders, liquidity constraints on launch day could artificially inflate price rather than reflect genuine demand.
-
-Watch for these catalysts: any major partnership announcements in Q4 2024 or Q1 2025, exchange listing confirmations (especially tier-one exchanges), tokenomics disclosure with community reception metrics, and pre-launch community metrics (Twitter followers, Discord activity). Monitor on-chain metrics closer to launch—TVL commitments and early smart contract deployments signal real developer interest. If Ink launches during a broader crypto bull run (BTC >$70K sustained), the odds should shift higher; conversely, regulatory negative headlines or major competitor launches would suppress probability further.
+| Polymarket | 7.5% | 92.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Bitcoin hit $60k or $80k first?](/odds/will-bitcoin-hit-60k-or-80k-first) — 66% YES
 - [Will Axiom launch a token by December 31, 2026?](/odds/will-axiom-launch-a-token-by-december-31-2026) — 36% YES
-- [Extended FDV above $150M one day after launch?](/odds/extended-fdv-above-150m-one-day-after-launch) — 62% YES
+- [Felix Protocol FDV above $500M one day after launch?](/odds/felix-protocol-fdv-above-500m-one-day-after-launch) — 2% YES
 
 ## Frequently Asked Questions
 
-### What exactly constitutes "launch" for this market—token trading or mainnet activation?
+### What are the current odds for "Ink FDV above $2B one day after launch?"?
 
-The market likely triggers on when trading first becomes available on major exchanges, not mainnet activation, as FDV is measured by price × circulating supply at public markets. Clarify with the market creator if ambiguity exists.
+As of April 04, 2026, Polymarket prices YES at 7.5%.
 
-### How does Ink's token distribution (circulating vs. total supply) affect the $2B FDV threshold?
+### Where can I trade on this prediction market?
 
-If circulating supply at launch is small (locked founder/VC tokens), a lower token price achieves $2B FDV faster; if high circulating supply is distributed immediately, price must rise more sharply. Check the tokenomics breakdown before launch.
+You can trade this market on [Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) (crypto-based).
 
 ## Learn More
 

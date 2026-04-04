@@ -9,9 +9,8 @@ expiryDate: 2026-06-30
 tags: ["polymarket", "sports"]
 polymarketYes: 0.1
 polymarketNo: 99.9
-polymarketVolume: 9850
+polymarketVolume: 9855
 polymarketUrl: "https://polymarket.com/event/nba-2025-26-clutch-player-of-the-year-demar-derozan"
-analysisDate: 2026-04-04
 ---
 
 # DeMar DeRozan 2025–2026 Clutch Player of the Year Analysis

@@ -9,9 +9,8 @@ expiryDate: 2026-05-25
 tags: ["economics", "interest-rates", "polymarket"]
 polymarketYes: 89.0
 polymarketNo: 11.0
-polymarketVolume: 9451
+polymarketVolume: 9456
 polymarketUrl: "https://polymarket.com/event/will-the-bank-of-israel-make-no-change-to-the-bank-of-israel-interest-rate-after-the-may-decision"
-analysisDate: 2026-04-04
 ---
 
 # Bank of Israel Interest Rate May 2026 Analysis

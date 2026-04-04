@@ -3,7 +3,7 @@ title: "Will Deni Avdija win the 2025–2026 NBA Most Improved Player?"
 description: "Will Deni Avdija win the 2025–2026 NBA Most Improved Player? Odds: 5.6% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Deni Avdija win the 2025–2026 NBA Most Improved Player?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-04
 expiryDate: 2026-06-30
 tags: ["polymarket", "sports"]

@@ -11,7 +11,6 @@ polymarketYes: 14.0
 polymarketNo: 86.0
 polymarketVolume: 97558
 polymarketUrl: "https://polymarket.com/event/rippling-ipo-before-2027"
-analysisDate: 2026-04-04
 ---
 
 # Rippling IPO Analysis

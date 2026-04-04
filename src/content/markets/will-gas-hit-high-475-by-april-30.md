@@ -3,7 +3,7 @@ title: "Will gas hit (High) $4.75 by April 30?"
 description: "Will gas hit (High) $4.75 by April 30? Odds: 28.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will gas hit (High) $4.75 by April 30?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-04
 expiryDate: 2026-04-30
 tags: ["politics", "polymarket"]

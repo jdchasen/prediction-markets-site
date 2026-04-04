@@ -1,53 +1,54 @@
 ---
 title: "Will Bitcoin hit $60k or $80k first?"
-description: "Will Bitcoin hit $60k or $80k first? Odds: 64.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Bitcoin hit $60k or $80k first? Odds: 65.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Bitcoin hit $60k or $80k first?"
 category: "crypto"
 status: "active"
 lastUpdated: 2026-04-04
 expiryDate: 2027-01-01
 tags: ["bitcoin", "crypto", "polymarket"]
-polymarketYes: 64.5
-polymarketNo: 35.5
-polymarketVolume: 992532
+polymarketYes: 65.5
+polymarketNo: 34.5
+polymarketVolume: 994406
 polymarketUrl: "https://polymarket.com/event/will-bitcoin-hit-60k-or-80k-first-965"
+analysisDate: 2026-04-04
 ---
 
-The market strongly favors Bitcoin reaching $80k before $60k at roughly 2:1 odds, which makes sense given Bitcoin currently trades around $95k-100k, meaning a 40% drop would be needed to hit $60k versus roughly 15-20% downside to $80k. This effectively becomes a bet on whether Bitcoin enters a sustained bear market or simply experiences normal bull cycle volatility over the next two years.
+Polymarket traders are pricing in a 65.5% chance that Bitcoin reaches $80k before hitting $60k, reflecting continued bullish sentiment despite BTC currently trading in the low $80k range following its 2024 surge past previous all-time highs. This market matters because it tests whether the current cycle has staying power or if a significant retracement is imminent before the 2027 deadline.
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 66.5% | 33.5% | $990K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 65.5% | 34.5% | $994K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The bull case for hitting $80k first centers on Bitcoin's historical four-year cycle pattern, with 2024's halving in April typically preceding 12-18 months of price appreciation. On-chain metrics show long-term holder supply remains near all-time highs with minimal distribution, while exchange balances continue declining—suggesting strong conviction among existing holders. The approval of spot Bitcoin ETFs in January 2024 created sustained institutional inflows exceeding $20 billion, with BlackRock's IBIT alone accumulating over 500,000 BTC. These structural buyers provide a price floor that didn't exist in previous cycles. Additionally, corporate treasury adoption continues expanding, with companies like Strategy (formerly MicroStrategy) maintaining consistent accumulation schedules.
+The bull case centers on spot Bitcoin ETF inflows continuing to absorb supply, with BlackRock's IBIT and Fidelity's FBTC having accumulated over $30 billion in combined net inflows since launch in January 2024. MicroStrategy's ongoing accumulation strategy and potential inclusion in the S&P 500 could trigger index fund buying. The April 2024 halving reduced miner selling pressure to roughly 450 BTC daily, while exchange reserves continue declining to multi-year lows below 2.3 million BTC. If institutional adoption accelerates through Q1 2025 with corporate treasury additions or sovereign wealth fund allocations, $80k becomes the floor rather than a target.
 
-The bear case requires Bitcoin to fall more than 38% from current levels to $60k before any potential recovery to $80k—a scenario that would likely need either a major macro shock or crypto-specific catastrophe. Potential triggers include Federal Reserve policy remaining tighter for longer if inflation proves sticky, forcing risk asset liquidation across markets. Regulatory enforcement could intensify, particularly if the SEC pursues additional actions against crypto infrastructure providers or if international jurisdictions implement restrictive frameworks. The Mt. Gox distributions, while largely completed in 2024, still have remaining tranches that could create selling pressure. A critical failure in Bitcoin's Lightning Network or discovery of a fundamental protocol vulnerability, while extremely unlikely, would crater confidence.
+The bear case hinges on macroeconomic deterioration forcing risk-off positioning across all assets. Rising long-term Treasury yields or a recession in 2025-2026 could trigger leveraged position liquidations. The Mt. Gox distribution of approximately 140,000 BTC to creditors, along with continued German government sales, represents tangible sell pressure. On-chain metrics showing declining active addresses or stablecoin supply falling below $150 billion would signal weakening demand. A regulatory crackdown on stablecoins or exchange operations in major jurisdictions could crater market structure. Given Bitcoin's historical 70-80% drawdowns in previous cycles, a move back to $60k represents only a 25% correction from current levels.
 
-Key catalysts to monitor include the Federal Reserve's rate decision schedule throughout 2025, particularly the March, June, and September FOMC meetings where sustained cuts would benefit risk assets. The Bitcoin network's next difficulty adjustment cycle matters less than macro conditions, but sustained hashrate growth above 700 EH/s signals miner confidence. Watch for any Congressional movement on stablecoin legislation or comprehensive crypto regulation, with potential votes expected in Q2 2025. Grayscale's GBTC continues experiencing outflows while other ETFs see inflows—this dynamic shift could indicate changing institutional sentiment. The $60k level represents the realized price where most Bitcoin last moved on-chain, making it a psychologically significant support level that, if broken, could trigger cascading liquidations in leveraged positions.
+Key catalysts include the Federal Reserve's rate decision schedule through 2025, particularly any pivot toward rate cuts that historically correlates with Bitcoin rallies. Watch the Bitcoin Dominance metric—currently near 60%—as a breakdown below 55% might indicate capital rotation into alts and general risk-off sentiment. The SEC's ongoing litigation against major exchanges and potential regulatory clarity by mid-2025 could dramatically shift probabilities. Traders should monitor CME futures open interest, funding rates on perpetual swaps turning negative, and whale wallet movements above 1,000 BTC as early warning signals.
 
 ## Related Markets
 
 - [Will Axiom launch a token by December 31, 2026?](/odds/will-axiom-launch-a-token-by-december-31-2026) — 36% YES
-- [Extended FDV above $150M one day after launch?](/odds/extended-fdv-above-150m-one-day-after-launch) — 62% YES
-- [Will Ethereum reach $2,800 in April?](/odds/will-ethereum-reach-2800-in-april) — 4% YES
+- [Felix Protocol FDV above $500M one day after launch?](/odds/felix-protocol-fdv-above-500m-one-day-after-launch) — 2% YES
+- [Ink FDV above $2B one day after launch?](/odds/ink-fdv-above-2b-one-day-after-launch) — 8% YES
 
 ## Frequently Asked Questions
 
-### What Bitcoin price level makes $80k hitting first essentially certain?
+### Does Bitcoin need to stay above $60k for the entire period until 2027 for YES to win?
 
-If Bitcoin stays above $85k, the odds of $80k hitting first approach near-certainty since only a 6% dip would be needed. The market becomes interesting primarily when Bitcoin trades between $70k-85k where both outcomes remain plausible.
+No, the market only asks which level Bitcoin hits first from its current position. If it touches $80k at any point before touching $60k, YES wins regardless of what happens afterward.
 
-### How would a broader equity market crash affect this outcome?
+### What happens if Bitcoin trades sideways between $60k-$80k through January 2027 without touching either target?
 
-A significant S&P 500 correction of 20%+ would likely drag Bitcoin below $60k given its 0.4-0.6 correlation with tech stocks, particularly if accompanied by credit market stress that forces institutional deleveraging across all risk assets including crypto holdings.
+The market would resolve based on which level is hit first before the expiry date, but if neither level is reached by January 1, 2027, specific resolution criteria would apply—though this scenario seems extremely unlikely given Bitcoin's historical volatility.
 
-### Does the 2027 expiry date change how traders should evaluate this market?
+### How do the current spot ETF flows affect the probability of hitting $60k versus $80k first?
 
-Yes significantly—the extended timeframe allows for multiple boom-bust cycles, meaning even if Bitcoin briefly touches $60k in a 2025 correction, it could still recover to $80k afterward, making temporary drawdowns less decisive than in shorter-dated markets.
+Sustained daily net inflows of $200M+ into spot ETFs create structural bid support that makes downside to $60k less likely, as these products alone represent ~25,000 BTC monthly in buying pressure that must be absorbed before significant selling can push prices lower.
 
 ## Learn More
 

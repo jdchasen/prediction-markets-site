@@ -9,9 +9,8 @@ expiryDate: 2027-01-01
 tags: ["crypto", "polymarket"]
 polymarketYes: 2.5
 polymarketNo: 97.5
-polymarketVolume: 9856
+polymarketVolume: 9882
 polymarketUrl: "https://polymarket.com/event/felix-protocol-fdv-above-500m-one-day-after-launch-477-288"
-analysisDate: 2026-04-04
 ---
 
 # Felix Protocol FDV Analysis

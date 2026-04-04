@@ -3,7 +3,7 @@ title: "Will TISZA win 50-54% of the national list votes in the 2026 Hungarian P
 description: "Will TISZA win 50-54% of the national list votes in the 2026 Hungarian Parliamentary election? Odds: 24.5% YES on Polymarket. See live prices and trade this ..."
 marketQuestion: "Will TISZA win 50-54% of the national list votes in the 2026 Hungarian Parliamentary election?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-04
 expiryDate: 2026-04-12
 tags: ["elections", "politics", "polymarket"]

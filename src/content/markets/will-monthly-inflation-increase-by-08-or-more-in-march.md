@@ -1,17 +1,16 @@
 ---
 title: "Will monthly inflation increase by 0.8% or more in March?"
-description: "Will monthly inflation increase by 0.8% or more in March? Odds: 94.7% YES on Polymarket. See live prices and trade this market."
+description: "Will monthly inflation increase by 0.8% or more in March? Odds: 96.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will monthly inflation increase by 0.8% or more in March?"
 category: "economics"
 status: "active"
 lastUpdated: 2026-04-04
 expiryDate: 2026-04-10
 tags: ["economics", "polymarket", "sports"]
-polymarketYes: 94.7
-polymarketNo: 5.3
-polymarketVolume: 94731
+polymarketYes: 96.4
+polymarketNo: 3.6
+polymarketVolume: 96690
 polymarketUrl: "https://polymarket.com/event/will-monthly-inflation-increase-by-0pt8-or-more-in-march-692"
-analysisDate: 2026-04-04
 ---
 
 # Inflation Market Analysis

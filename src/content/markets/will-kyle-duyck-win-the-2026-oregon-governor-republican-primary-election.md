@@ -8,10 +8,9 @@ lastUpdated: 2026-04-04
 expiryDate: 2026-05-19
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.9
-polymarketNo: 99.1
-polymarketVolume: 9867
+polymarketNo: 99.2
+polymarketVolume: 9910
 polymarketUrl: "https://polymarket.com/event/will-kyle-duyck-win-the-2026-oregon-governor-republican-primary-election"
-analysisDate: 2026-04-04
 ---
 
 # 2026 Oregon Republican Governor Primary: Kyle Duyck Market Analysis

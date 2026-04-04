@@ -3,7 +3,7 @@ title: "Will Alibaba have the best AI model at the end of April 2026?"
 description: "Will Alibaba have the best AI model at the end of April 2026? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Alibaba have the best AI model at the end of April 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-04
 expiryDate: 2026-04-30
 tags: ["ai", "politics", "polymarket"]

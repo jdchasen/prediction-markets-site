@@ -11,7 +11,6 @@ polymarketYes: 0.1
 polymarketNo: 99.9
 polymarketVolume: 9908
 polymarketUrl: "https://polymarket.com/event/will-alliance-for-rights-and-freedoms-aps-win-the-most-seats-in-the-2026-bulgarian-parliamentary-election"
-analysisDate: 2026-04-04
 ---
 
 # Bulgarian Parliamentary Elections 2026: APS Viability Analysis

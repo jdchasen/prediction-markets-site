@@ -1,17 +1,16 @@
 ---
 title: "Will the U.S. invade Mexico in 2026?"
-description: "Will the U.S. invade Mexico in 2026? Odds: 8.0% YES on Polymarket. See live prices and trade this market."
+description: "Will the U.S. invade Mexico in 2026? Odds: 7.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the U.S. invade Mexico in 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-04-04
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 8.0
-polymarketNo: 92.0
+polymarketYes: 7.5
+polymarketNo: 92.5
 polymarketVolume: 99383
 polymarketUrl: "https://polymarket.com/event/will-the-us-invade-mexico-in-2026"
-analysisDate: 2026-04-04
 ---
 
 The market pricing an 8% probability of a U.S. invasion of Mexico by end of 2026 reflects extreme tail-risk speculation on unprecedented military action against a neighboring ally and major trading partner, gaining attention amid escalating Republican rhetoric on cartel operations and border security.

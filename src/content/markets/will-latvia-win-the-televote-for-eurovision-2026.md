@@ -9,9 +9,8 @@ expiryDate: 2026-05-16
 tags: ["politics", "polymarket"]
 polymarketYes: 0.4
 polymarketNo: 99.7
-polymarketVolume: 9773
+polymarketVolume: 9907
 polymarketUrl: "https://polymarket.com/event/will-latvia-win-the-televote-for-eurovision-2026"
-analysisDate: 2026-04-04
 ---
 
 # Eurovision 2026 Latvia Televote Analysis

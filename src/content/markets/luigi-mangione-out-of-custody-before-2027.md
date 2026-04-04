@@ -3,7 +3,7 @@ title: "Luigi Mangione out of custody before 2027?"
 description: "Luigi Mangione out of custody before 2027? Odds: 5.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Luigi Mangione out of custody before 2027?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-04
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
