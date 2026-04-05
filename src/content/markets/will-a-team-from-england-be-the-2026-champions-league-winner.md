@@ -3,7 +3,7 @@ title: "Will a team from England be the 2026 Champions League winner?"
 description: "Will a team from England be the 2026 Champions League winner? Odds: 32.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will a team from England be the 2026 Champions League winner?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-05
 expiryDate: 2026-06-13
 tags: ["polymarket", "sports"]

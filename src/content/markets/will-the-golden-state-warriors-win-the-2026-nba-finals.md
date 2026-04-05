@@ -3,7 +3,7 @@ title: "Will the Golden State Warriors win the 2026 NBA Finals?"
 description: "Will the Golden State Warriors win the 2026 NBA Finals? Odds: 0.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Golden State Warriors win the 2026 NBA Finals?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-05
 expiryDate: 2026-07-01
 tags: ["polymarket", "sports"]

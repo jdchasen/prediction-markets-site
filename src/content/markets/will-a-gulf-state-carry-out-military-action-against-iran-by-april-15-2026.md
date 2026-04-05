@@ -3,7 +3,7 @@ title: "Will a Gulf State carry out military action against Iran by April 15, 20
 description: "Will a Gulf State carry out military action against Iran by April 15, 2026? Odds: 16.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will a Gulf State carry out military action against Iran by April 15, 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-05
 expiryDate: 2026-04-30
 tags: ["ai", "politics", "polymarket"]

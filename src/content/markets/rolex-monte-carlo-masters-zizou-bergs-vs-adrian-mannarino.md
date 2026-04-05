@@ -3,7 +3,7 @@ title: "Rolex Monte Carlo Masters: Zizou Bergs vs Adrian Mannarino"
 description: "Rolex Monte Carlo Masters: Zizou Bergs vs Adrian Mannarino Odds: 75.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Rolex Monte Carlo Masters: Zizou Bergs vs Adrian Mannarino"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-05
 expiryDate: 2026-04-13
 tags: ["polymarket", "sports"]

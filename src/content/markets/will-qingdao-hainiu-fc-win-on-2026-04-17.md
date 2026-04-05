@@ -11,7 +11,6 @@ polymarketYes: 30.0
 polymarketNo: 70.0
 polymarketVolume: 9703
 polymarketUrl: "https://polymarket.com/event/chi-hai-qin-2026-04-17-hai"
-analysisDate: 2026-04-05
 ---
 
 # Analysis

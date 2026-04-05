@@ -9,47 +9,46 @@ expiryDate: 2026-04-10
 tags: ["economics", "polymarket", "sports"]
 polymarketYes: 0.1
 polymarketNo: 99.9
-polymarketVolume: 96363
+polymarketVolume: 96659
 polymarketUrl: "https://polymarket.com/event/will-annual-inflation-increase-by-2pt2-in-march"
+analysisDate: 2026-04-05
 ---
 
-# Inflation Increase Market Analysis
+# Inflation Market Analysis
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.1% | 99.9% | $96K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.1% | 99.9% | $97K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The market is pricing in an extremely low probability that annual inflation will rise by 2.2% in March, reflecting confidence that the Federal Reserve's inflation-fighting efforts have largely succeeded in anchoring price growth. This matters because it signals trader conviction that disinflation has solidified—yet the ultra-low odds also suggest limited room for the market to reprrice if economic data surprises to the upside. With an April 2026 expiry, this contract is betting on a specific outcome nearly two years out, making it highly sensitive to Fed policy trajectory and labor market resilience.
+The market is pricing an extremely low probability that annual inflation will increase by exactly 2.2% in March, suggesting traders believe either deflation or inflation above that threshold is far more likely given current economic conditions. This tight specification matters because it isolates a precise inflation target rather than a range, making the outcome highly sensitive to how the Bureau of Labor Statistics rounds or reports year-over-year CPI changes. With the expiry date of April 10, 2026, traders have roughly a year to assess whether the Fed's policy trajectory will land inflation at this exact point.
 
-The bull case for a YES outcome rests on potential wage pressure resurfacing if the unemployment rate remains tight, coupled with any fiscal stimulus that could reignite demand. Energy price shocks (geopolitical disruptions, OPEC+ production cuts) or supply-chain disruptions could also push inflation higher. Upcoming NFP releases throughout 2024–2025 will be critical: sustained job growth above 200K monthly could tighten labor markets, while Fed rate decisions—particularly if the FOMC pauses cuts prematurely—could stabilize inflation expectations. Core CPI prints are the most direct catalyst; if core PCE (the Fed's preferred metric) stops declining and begins creeping back toward 2.5%–3%, the market would need to reassess.
+The bull case relies on the Fed successfully engineering a soft landing where inflation gradually converges toward the 2% target without triggering a recession. If the FOMC maintains rates in the 3.5%-3.75% range through 2025 and inflation continues its measured decline from current levels, annual headline CPI could plausibly settle near 2.2% by March 2026. The February and March 2026 CPI releases—due mid-March and mid-April respectively—will be critical, as will any PCE deflator readings that might suggest core inflation is cooling faster than expected. A series of softer-than-expected jobs reports (NFP data released monthly on the first Friday) or weakness in producer prices could accelerate disinflation and push the market higher.
 
-The bear case, which the 0.1% odds reflect, argues that disinflation is now entrenched. The Fed has likely done enough rate hiking to suppress demand durably, and we're seeing confirmed evidence in softer shelter costs and easing goods inflation. Even if headline inflation drifts upward temporarily due to base effects or energy, the annual change threshold of 2.2% is modest and historically achievable in a moderately cooling economy. Each CPI release showing year-over-year stability or decline below 3% reinforces this view and further pressures YES odds downward.
-
-Traders should monitor the CPI calendar closely, particularly March 2026 data (released mid-April, just before expiry). Watch for any Fed signal shifts toward keeping rates higher for longer—dovish pivot talk would increase inflation-rise risk. The January 2025 FOMC meeting and subsequent monthly jobs reports through early 2026 will set the tone for inflation expectations. A sustained tight labor market or unexpected commodity surge could slowly move these odds, though breaking through the 0.1% floor requires a dramatic fundamental shift in inflation outlook.
+The bear case—reflected in the 0.1% odds—argues that 2.2% is an improbably narrow band. Inflation could undershoot this level if demand weakens sharply, supply chains remain persistently loose, or the Fed cuts rates too aggressively in 2025, potentially triggering renewed disinflation. Conversely, sticky wage growth, energy price shocks, or geopolitical disruptions could keep inflation above 2.2%. The January 2026 CPI report and December 2025 PCE data will be the first major catalysts traders watch; if those readings show inflation stalled above or below the threshold, the probability will need substantial repricing. Any surprise FOMC decision or shift in forward guidance could also compress or widen the implied inflation range traders expect.
 
 ## Related Markets
 
 - [Will 9 Fed rate cuts happen in 2026?](/odds/will-9-fed-rate-cuts-happen-in-2026) — 0% YES
-- [Bank of Japan increases interest rates by 50+ bps after the April 2026 meeting?](/odds/bank-of-japan-increases-interest-rates-by-50-bps-after-the-april-2026-meeting) — 1% YES
-- [Will monthly inflation increase by 0.8% or more in March?](/odds/will-monthly-inflation-increase-by-08-or-more-in-march) — 96% YES
+- [Will 9 Fed rate cuts happen in 2026?](/odds/will-9-fed-rate-cuts-happen-in-2026) — 0% YES
+- [Will the Fed increase interest rates by 50+ bps after the June 2026 meeting?](/odds/will-the-fed-increase-interest-rates-by-50-bps-after-the-june-2026-meeting) — 1% YES
 
 ## Frequently Asked Questions
 
-### Does this market specifically require annual inflation to exceed 2.2%, or just reach it?
+### Why is this market priced at 0.1% when 2.2% is close to the Fed's 2% target?
 
-The contract likely requires annual inflation to increase *by* 2.2% (meaning it rises 2.2 percentage points), not simply be *at* 2.2%, making it a much stricter threshold than typical inflation targets.
+The specificity of 2.2% makes it a narrow band—inflation could easily land at 1.8%, 2.4%, or 2.5%, all of which would resolve this market as NO. Traders are essentially betting that inflation will miss this exact point by at least ±0.2%.
 
-### How much would March 2026 CPI need to print for this market to see meaningful probability movement?
+### Which single economic release matters most for this market?
 
-A print showing year-over-year inflation rising sharply—say above 3.5%—combined with accelerating month-over-month growth, would begin to reprrice this market materially upward from its current 0.1% level.
+The March 2026 year-over-year headline CPI print (released mid-April) is the decisive catalyst, as it directly determines the outcome; the February 2026 CPI will signal which direction the trend is moving.
 
-### Why would traders bet on such extreme odds with nearly two years until expiry?
+### Could this market move significantly before March 2026 even arrives?
 
-Contrarians might use this as a cheap hedge against stagflation scenarios (wage-price spiral), or to profit from volatility if unexpected inflation data emerges and longer-dated inflation expectations reset higher.
+Yes—a string of CPI readings in late 2025 that show inflation trending clearly above or below 2.2% would cause repricing well before the resolution month, as traders update their probability of hitting that exact band.
 
 ## Learn More
 

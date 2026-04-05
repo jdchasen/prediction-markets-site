@@ -9,9 +9,8 @@ expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
 polymarketYes: 24.5
 polymarketNo: 75.5
-polymarketVolume: 96746
+polymarketVolume: 97125
 polymarketUrl: "https://polymarket.com/event/gemini-3pt5-released-by-june-30-224-585-669"
-analysisDate: 2026-04-05
 ---
 
 # Gemini 3.5 Release by June 30, 2026: Market Analysis

@@ -3,7 +3,7 @@ title: "Will Aubry Bracco win Survivor Season 50?"
 description: "Will Aubry Bracco win Survivor Season 50? Odds: 86.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Aubry Bracco win Survivor Season 50?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-05
 expiryDate: 2026-05-20
 tags: ["politics", "polymarket"]

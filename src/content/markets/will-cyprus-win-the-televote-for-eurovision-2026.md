@@ -9,9 +9,8 @@ expiryDate: 2026-05-16
 tags: ["politics", "polymarket"]
 polymarketYes: 0.7
 polymarketNo: 99.4
-polymarketVolume: 99302
+polymarketVolume: 99561
 polymarketUrl: "https://polymarket.com/event/will-cyprus-win-the-televote-for-eurovision-2026"
-analysisDate: 2026-04-05
 ---
 
 Traders are pricing Cyprus as an extreme longshot to win the Eurovision 2026 televote at less than 1%, reflecting the island nation's historically modest performance in the competition despite occasional strong entries.

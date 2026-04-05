@@ -9,9 +9,8 @@ expiryDate: 2026-12-31
 tags: ["finance", "polymarket"]
 polymarketYes: 13.5
 polymarketNo: 86.5
-polymarketVolume: 99071
+polymarketVolume: 99190
 polymarketUrl: "https://polymarket.com/event/rippling-ipo-before-2027"
-analysisDate: 2026-04-05
 ---
 
 Rippling, the workforce management unicorn last valued at $13.5 billion in a 2023 funding round, faces skepticism from traders who see only a 13.5% chance of going public before 2027, reflecting broader concerns about the IPO market's prolonged freeze and the company's ability to sustain growth momentum.

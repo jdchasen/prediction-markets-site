@@ -9,9 +9,8 @@ expiryDate: 2028-11-07
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 17.6
 polymarketNo: 82.4
-polymarketVolume: 9699712
+polymarketVolume: 9719336
 polymarketUrl: "https://polymarket.com/event/will-jd-vance-win-the-2028-us-presidential-election"
-analysisDate: 2026-04-05
 ---
 
 JD Vance currently sits at 17.6% to win the 2028 presidency, reflecting his position as a young, nationally recognized VP with MAGA credibility, though substantial uncertainty remains about his ability to consolidate Trump's coalition and win a general election.

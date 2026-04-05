@@ -1,16 +1,15 @@
 ---
 title: "Will the Republicans win the Mississippi Senate race in 2026?"
-description: "Will the Republicans win the Mississippi Senate race in 2026? Odds: 89.5% YES on Polymarket. See live prices and trade this market."
+description: "Will the Republicans win the Mississippi Senate race in 2026? Odds: 90.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Republicans win the Mississippi Senate race in 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-04-05
 tags: ["politics", "polymarket"]
-polymarketYes: 89.5
-polymarketNo: 10.5
-polymarketVolume: 9762
+polymarketYes: 90.0
+polymarketNo: 10.0
+polymarketVolume: 9782
 polymarketUrl: "https://polymarket.com/event/will-the-republicans-win-the-mississippi-senate-race-in-2026"
-analysisDate: 2026-04-05
 ---
 
 # Mississippi Senate 2026: Republicans Face Structural Headwinds Despite Heavy Favorites Status

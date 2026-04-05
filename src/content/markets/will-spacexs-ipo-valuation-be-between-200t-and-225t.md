@@ -8,9 +8,8 @@ lastUpdated: 2026-04-05
 tags: ["finance", "polymarket"]
 polymarketYes: 18.5
 polymarketNo: 81.5
-polymarketVolume: 9728
+polymarketVolume: 9837
 polymarketUrl: "https://polymarket.com/event/will-spacexs-ipo-valuation-be-between-2pt00t-and-2pt25t"
-analysisDate: 2026-04-05
 ---
 
 # SpaceX IPO Valuation Market Analysis

@@ -1,17 +1,16 @@
 ---
 title: "Will the DHS shutdown end between April 29-30, 2026?"
-description: "Will the DHS shutdown end between April 29-30, 2026? Odds: 2.1% YES on Polymarket. See live prices and trade this market."
+description: "Will the DHS shutdown end between April 29-30, 2026? Odds: 2.6% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the DHS shutdown end between April 29-30, 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-04-05
 expiryDate: 2026-04-30
 tags: ["politics", "polymarket"]
-polymarketYes: 2.1
-polymarketNo: 98.0
-polymarketVolume: 9815
+polymarketYes: 2.6
+polymarketNo: 97.4
+polymarketVolume: 9955
 polymarketUrl: "https://polymarket.com/event/will-the-dhs-shutdown-end-between-april-29-30-2026-142"
-analysisDate: 2026-04-05
 ---
 
 The prediction market is pricing in an extremely low probability (2.1%) that a Department of Homeland Security shutdown will be resolved within a two-day window at the end of April 2026, suggesting traders believe either no shutdown will occur or any shutdown will last beyond April 30th. This market matters because DHS funding shutdowns carry real operational consequences for border security, immigration enforcement, and national security agencies, making the timing and resolution of budget disputes a material political and economic question.

@@ -3,7 +3,7 @@ title: "Will Brennan Johnson be the top goal scorer in the 2025–26 English Pre
 description: "Will Brennan Johnson be the top goal scorer in the 2025–26 English Premier League season? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Brennan Johnson be the top goal scorer in the 2025–26 English Premier League season?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-05
 expiryDate: 2026-05-27
 tags: ["polymarket", "sports"]

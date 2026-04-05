@@ -11,7 +11,6 @@ polymarketYes: 7.5
 polymarketNo: 92.5
 polymarketVolume: 9795
 polymarketUrl: "https://polymarket.com/event/ink-fdv-above-2b-one-day-after-launch-664-291"
-analysisDate: 2026-04-05
 ---
 
 # Ink FDV Analysis

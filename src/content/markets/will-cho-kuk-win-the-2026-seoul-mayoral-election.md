@@ -9,9 +9,8 @@ expiryDate: 2026-06-03
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.5
 polymarketNo: 99.5
-polymarketVolume: 989577
+polymarketVolume: 992580
 polymarketUrl: "https://polymarket.com/event/will-cho-kuk-win-the-2026-seoul-mayoral-election"
-analysisDate: 2026-04-05
 ---
 
 Cho Kuk faces near-insurmountable odds at just 0.5% probability to win Seoul's mayoral race in June 2026, reflecting both his ongoing legal troubles and the dominance of establishment parties in South Korea's capital city politics.

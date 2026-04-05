@@ -9,9 +9,8 @@ expiryDate: 2026-04-10
 tags: ["economics", "polymarket", "sports"]
 polymarketYes: 0.1
 polymarketNo: 100.0
-polymarketVolume: 92821
+polymarketVolume: 93821
 polymarketUrl: "https://polymarket.com/event/will-annual-inflation-increase-by-2pt1-in-march"
-analysisDate: 2026-04-05
 ---
 
 # Inflation Market Analysis

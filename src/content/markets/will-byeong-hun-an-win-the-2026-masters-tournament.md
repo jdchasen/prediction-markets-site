@@ -9,9 +9,8 @@ expiryDate: 2026-04-13
 tags: ["polymarket", "sports"]
 polymarketYes: 0.2
 polymarketNo: 99.8
-polymarketVolume: 973706
+polymarketVolume: 993501
 polymarketUrl: "https://polymarket.com/event/will-byeong-hun-an-win-the-2026-masters-tournament"
-analysisDate: 2026-04-05
 ---
 
 Byeong Hun An sits at the extreme long-shot tier for the 2026 Masters with barely measurable odds, reflecting his career trajectory as a solid but non-elite PGA Tour player who has never seriously contended at Augusta National. The Korean golfer currently ranks outside the top 50 in the Official World Golf Ranking and has missed the cut in three of his five Masters appearances, with a best finish of T32 in 2018.

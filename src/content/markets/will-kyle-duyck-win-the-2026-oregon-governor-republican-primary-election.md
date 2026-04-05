@@ -11,7 +11,6 @@ polymarketYes: 0.5
 polymarketNo: 99.5
 polymarketVolume: 9939
 polymarketUrl: "https://polymarket.com/event/will-kyle-duyck-win-the-2026-oregon-governor-republican-primary-election"
-analysisDate: 2026-04-05
 ---
 
 # Kyle Duyck 2026 Oregon Republican Primary Analysis
