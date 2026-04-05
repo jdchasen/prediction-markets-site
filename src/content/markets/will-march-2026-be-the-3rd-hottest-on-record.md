@@ -3,8 +3,8 @@ title: "Will March 2026 be the 3rd hottest on record?"
 description: "Will March 2026 be the 3rd hottest on record? Odds: 2.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will March 2026 be the 3rd hottest on record?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-04
+status: "settled"
+lastUpdated: 2026-04-05
 expiryDate: 2026-04-10
 tags: ["politics", "polymarket"]
 polymarketYes: 2.1

@@ -3,8 +3,8 @@ title: "Will Jerome Powell be confirmed as Fed Chair?"
 description: "Will Jerome Powell be confirmed as Fed Chair? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Jerome Powell be confirmed as Fed Chair?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-04
+status: "settled"
+lastUpdated: 2026-04-05
 expiryDate: 2026-10-31
 tags: ["ai", "federal-reserve", "politics", "polymarket"]
 polymarketYes: 0.1

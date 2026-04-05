@@ -3,8 +3,8 @@ title: "Will Iran strike Lebanon by April 30, 2026?"
 description: "Will Iran strike Lebanon by April 30, 2026? Odds: 26.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Iran strike Lebanon by April 30, 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-04
+status: "settled"
+lastUpdated: 2026-04-05
 expiryDate: 2026-04-30
 tags: ["politics", "polymarket"]
 polymarketYes: 26.0

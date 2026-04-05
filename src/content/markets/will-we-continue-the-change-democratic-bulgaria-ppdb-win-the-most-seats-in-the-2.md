@@ -1,17 +1,16 @@
 ---
 title: "Will We Continue the Change – Democratic Bulgaria (PP–DB) win the most seats in the 2026 Bulgarian parliamentary election?"
-description: "Will We Continue the Change – Democratic Bulgaria (PP–DB) win the most seats in the 2026 Bulgarian parliamentary election? Odds: 0.7% YES on Polymarket. See ..."
+description: "Will We Continue the Change – Democratic Bulgaria (PP–DB) win the most seats in the 2026 Bulgarian parliamentary election? Odds: 0.6% YES on Polymarket. See ..."
 marketQuestion: "Will We Continue the Change – Democratic Bulgaria (PP–DB) win the most seats in the 2026 Bulgarian parliamentary election?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-04-04
+lastUpdated: 2026-04-05
 expiryDate: 2026-04-19
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 0.7
+polymarketYes: 0.6
 polymarketNo: 99.4
 polymarketVolume: 9684
 polymarketUrl: "https://polymarket.com/event/will-we-continue-the-change-democratic-bulgaria-ppdb-win-the-most-seats-in-the-2026-bulgarian-parliamentary-election"
-analysisDate: 2026-04-04
 ---
 
 # Bulgaria's 2026 Election: PP–DB's Dominance Priced Out at Historic Lows

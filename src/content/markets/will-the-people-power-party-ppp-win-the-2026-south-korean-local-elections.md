@@ -3,8 +3,8 @@ title: "Will the People Power Party (PPP) win the 2026 South Korean local electi
 description: "Will the People Power Party (PPP) win the 2026 South Korean local elections? Odds: 4.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the People Power Party (PPP) win the 2026 South Korean local elections?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-04
+status: "settled"
+lastUpdated: 2026-04-05
 expiryDate: 2026-06-03
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 4.1

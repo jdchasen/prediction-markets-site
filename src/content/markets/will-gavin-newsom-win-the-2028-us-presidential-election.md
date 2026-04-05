@@ -3,8 +3,8 @@ title: "Will Gavin Newsom win the 2028 US Presidential Election?"
 description: "Will Gavin Newsom win the 2028 US Presidential Election? Odds: 17.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Gavin Newsom win the 2028 US Presidential Election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-04
+status: "settled"
+lastUpdated: 2026-04-05
 expiryDate: 2028-11-07
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 17.1

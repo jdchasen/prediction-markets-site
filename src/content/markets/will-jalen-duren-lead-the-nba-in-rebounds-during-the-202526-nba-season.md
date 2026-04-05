@@ -3,8 +3,8 @@ title: "Will Jalen Duren lead the NBA in rebounds during the 2025–26 NBA seaso
 description: "Will Jalen Duren lead the NBA in rebounds during the 2025–26 NBA season? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Jalen Duren lead the NBA in rebounds during the 2025–26 NBA season?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-04-04
+status: "settled"
+lastUpdated: 2026-04-05
 expiryDate: 2026-04-12
 tags: ["polymarket", "sports"]
 polymarketYes: 0.1

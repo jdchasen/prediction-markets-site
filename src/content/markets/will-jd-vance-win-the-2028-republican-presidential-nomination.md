@@ -3,8 +3,8 @@ title: "Will J.D. Vance win the 2028 Republican presidential nomination?"
 description: "Will J.D. Vance win the 2028 Republican presidential nomination? Odds: 36.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will J.D. Vance win the 2028 Republican presidential nomination?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-04
+status: "settled"
+lastUpdated: 2026-04-05
 expiryDate: 2028-11-07
 tags: ["politics", "polymarket"]
 polymarketYes: 36.7

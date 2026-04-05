@@ -4,14 +4,13 @@ description: "Bank of Japan increases interest rates by 50+ bps after the April 
 marketQuestion: "Bank of Japan increases interest rates by 50+ bps after the April 2026 meeting?"
 category: "economics"
 status: "active"
-lastUpdated: 2026-04-04
+lastUpdated: 2026-04-05
 expiryDate: 2026-04-28
 tags: ["economics", "interest-rates", "polymarket"]
 polymarketYes: 0.8
 polymarketNo: 99.2
-polymarketVolume: 98313
+polymarketVolume: 98667
 polymarketUrl: "https://polymarket.com/event/bank-of-japan-increases-interest-rates-by-50-bps-after-the-april-2026-meeting"
-analysisDate: 2026-04-04
 ---
 
 The market pricing near zero probability for a 50+ basis point Bank of Japan rate hike after April 2026 reflects widespread skepticism that the BOJ will abandon its historically cautious approach to monetary tightening, even as it has begun normalizing policy after years of ultra-loose conditions.

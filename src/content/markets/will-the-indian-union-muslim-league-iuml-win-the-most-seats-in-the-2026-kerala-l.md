@@ -3,8 +3,8 @@ title: "Will the Indian Union Muslim League (IUML) win the most seats in the 202
 description: "Will the Indian Union Muslim League (IUML) win the most seats in the 2026 Kerala Legislative Assembly election? Odds: 0.1% YES on Polymarket. See live prices..."
 marketQuestion: "Will the Indian Union Muslim League (IUML) win the most seats in the 2026 Kerala Legislative Assembly election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-04
+status: "settled"
+lastUpdated: 2026-04-05
 expiryDate: 2026-04-09
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.1

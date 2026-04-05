@@ -3,8 +3,8 @@ title: "Los Angeles Dodgers vs. Washington Nationals"
 description: "Los Angeles Dodgers vs. Washington Nationals Odds: 98.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Los Angeles Dodgers vs. Washington Nationals"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-04
+status: "settled"
+lastUpdated: 2026-04-05
 expiryDate: 2026-04-11
 tags: ["politics", "polymarket"]
 polymarketYes: 98.8

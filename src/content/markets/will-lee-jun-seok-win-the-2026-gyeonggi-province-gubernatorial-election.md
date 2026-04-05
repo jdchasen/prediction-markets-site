@@ -3,8 +3,8 @@ title: "Will Lee Jun-seok win the 2026 Gyeonggi Province Gubernatorial Election?
 description: "Will Lee Jun-seok win the 2026 Gyeonggi Province Gubernatorial Election? Odds: 0.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Lee Jun-seok win the 2026 Gyeonggi Province Gubernatorial Election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-04
+status: "settled"
+lastUpdated: 2026-04-05
 expiryDate: 2026-06-03
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.2

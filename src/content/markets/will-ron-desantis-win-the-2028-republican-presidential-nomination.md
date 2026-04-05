@@ -3,8 +3,8 @@ title: "Will Ron DeSantis win the 2028 Republican presidential nomination?"
 description: "Will Ron DeSantis win the 2028 Republican presidential nomination? Odds: 2.6% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Ron DeSantis win the 2028 Republican presidential nomination?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-04
+status: "settled"
+lastUpdated: 2026-04-05
 expiryDate: 2028-11-07
 tags: ["politics", "polymarket"]
 polymarketYes: 2.6

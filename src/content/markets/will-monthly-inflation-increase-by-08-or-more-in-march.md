@@ -1,55 +1,54 @@
 ---
 title: "Will monthly inflation increase by 0.8% or more in March?"
-description: "Will monthly inflation increase by 0.8% or more in March? Odds: 96.4% YES on Polymarket. See live prices and trade this market."
+description: "Will monthly inflation increase by 0.8% or more in March? Odds: 95.3% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will monthly inflation increase by 0.8% or more in March?"
 category: "economics"
 status: "active"
-lastUpdated: 2026-04-04
+lastUpdated: 2026-04-05
 expiryDate: 2026-04-10
 tags: ["economics", "polymarket", "sports"]
-polymarketYes: 96.4
-polymarketNo: 3.6
-polymarketVolume: 96690
+polymarketYes: 95.3
+polymarketNo: 4.7
+polymarketVolume: 98435
 polymarketUrl: "https://polymarket.com/event/will-monthly-inflation-increase-by-0pt8-or-more-in-march-692"
+analysisDate: 2026-04-05
 ---
 
-# Inflation Market Analysis
+The market is pricing in overwhelming confidence that March 2026 will see monthly inflation climb by at least 0.8%, a threshold that would signal significant inflationary pressure returning to the economy well over a year from now.
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 94.7% | 5.3% | $95K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 95.3% | 4.7% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The market is pricing in extremely high confidence that March 2026 will see monthly inflation of at least 0.8%, suggesting traders believe persistent price pressures will remain elevated well into next year. This matters because a 0.8% monthly reading would annualize to nearly 10%, signaling either a significant Fed policy failure or external shock that hasn't yet been priced into longer-dated rate expectations. The April 10 expiry gives participants roughly two months of data visibility, with the critical March CPI release (scheduled mid-April) serving as the decisive trigger.
+The bull case for this high probability rests on structural inflationary pressures that traders expect will persist or re-emerge by early 2026. These include potential fiscal stimulus from the new administration, supply chain disruptions that could intensify through 2025, wage-price spiral dynamics if labor markets remain tight, and possible commodity price shocks. If the Federal Reserve cuts rates too aggressively in 2024-2025 and reignites demand-pull inflation, or if deglobalization trends accelerate production costs, reaching 0.8% monthly inflation becomes highly plausible. The March 2026 CPI report, typically released around April 10th (coinciding with market expiry), would capture inflation during a period when seasonal factors sometimes push prices higher, particularly in categories like apparel and services.
 
-The bull case rests on three pillars: sticky services inflation that has proven resistant to rate hikes, potential energy price shocks from geopolitical disruption, and wage growth remaining above 4% year-over-year, which would support demand-driven inflation. If labor markets remain tight through Q1 2026 and the Fed pauses rate cuts, core inflation momentum could easily exceed 0.8% monthly. Additionally, any supply-chain disruption or tariff implementation could push goods prices higher, and base effects from early 2025 aren't sufficiently disinflationary to offset fresh pressures. The 94.7% odds reflect genuine tail-risk aversion—traders are essentially betting the Fed has lost control of inflation dynamics.
+The bear case challenges whether such extreme monthly inflation is realistic given the Fed's demonstrated commitment to price stability and the lag effects of monetary policy. Even if annual inflation remains elevated, achieving 0.8% in a single month requires exceptional circumstances—this would annualize to nearly 10% inflation if sustained. Historical CPI data shows monthly increases of this magnitude are rare outside of severe supply shocks or hyperinflationary episodes. If the Fed maintains restrictive policy through 2025, if productivity gains from AI adoption materialize to dampen price pressures, or if a recession emerges before March 2026, inflation could remain subdued with monthly readings closer to 0.2-0.4%.
 
-The bear case hinges on mean reversion: a 0.8% monthly print is well above the recent trend, and even moderately hawkish policy through early 2026 should cool demand and push inflation lower. Housing costs, which drive shelter inflation, typically lag rate increases by 12-18 months, meaning aggressive 2024-2025 tightening should finally show up in March 2026 prints. A strong dollar, cooling wage growth, and potential demand destruction from higher rates would all work toward sub-0.8% monthly inflation. The market's high probability may also reflect positioning: if consensus expects 0.4-0.6% monthly inflation, the YES side is overpaying for tail risk.
-
-Key catalysts arrive in sequence: the February 12 jobs report will signal labor market momentum, the February 19 PPI reading provides early inflation signals, and the February 26 core PCE print offers the most timely inflation gauge before March data. If any of these surprise to the downside, the 94.7% floor could crack quickly, as the market appears to have baked in very little room for disinflation. Traders should watch Fed speaker commentary in March—any dovish pivot would undermine the bull case by signaling confidence that price pressures are easing.
+Traders should monitor the January and February 2026 CPI reports (released in mid-February and mid-March 2026 respectively) for trend acceleration, FOMC meeting statements throughout 2025 for policy trajectory signals, and monthly NFP reports to gauge wage pressure sustainability. The February 2026 jobs report, released in early March, will be particularly crucial for understanding whether labor market tightness is fueling the type of inflationary momentum needed to reach the 0.8% threshold. Energy price movements and geopolitical developments affecting commodity markets through late 2025 and early 2026 will also serve as leading indicators for this outcome.
 
 ## Related Markets
 
 - [Will 9 Fed rate cuts happen in 2026?](/odds/will-9-fed-rate-cuts-happen-in-2026) — 0% YES
+- [Will the Fed increase interest rates by 50+ bps after the June 2026 meeting?](/odds/will-the-fed-increase-interest-rates-by-50-bps-after-the-june-2026-meeting) — 1% YES
 - [Bank of Japan increases interest rates by 50+ bps after the April 2026 meeting?](/odds/bank-of-japan-increases-interest-rates-by-50-bps-after-the-april-2026-meeting) — 1% YES
-- [Will the Bank of Israel make no change to the Bank of Israel Interest Rate after the May decision?](/odds/will-the-bank-of-israel-make-no-change-to-the-bank-of-israel-interest-rate-after) — 89% YES
 
 ## Frequently Asked Questions
 
-### Why is this market pricing 94.7% odds when a 0.8% monthly inflation read is historically elevated and hasn't occurred regularly since 2022?
+### Does this market measure month-over-month inflation or year-over-year inflation?
 
-The high odds reflect traders' concern about structural inflation persistence and tail-risk hedging rather than a confident forecast; markets tend to overprice extreme outcomes when central bank credibility is questioned, and 15+ months of uncertainty leaves room for adverse scenarios.
+The market specifically measures month-over-month inflation—the change from February 2026 to March 2026—not the annual comparison to March 2025, making the 0.8% threshold represent an extremely high single-month increase.
 
-### How does the base effect from March 2025 factor into whether this market resolves YES?
+### What would cause monthly inflation to spike to 0.8% when recent years have seen much lower monthly increases?
 
-A weak March 2025 CPI print would create a favorable base for March 2026 comparisons, making 0.8% monthly inflation harder to reach; if March 2025 prints around 0.3-0.4%, the year-over-year bar becomes easier to clear despite month-over-month strength.
+Major catalysts would include severe energy price shocks, significant currency devaluation, implementation of large-scale tariffs that immediately raise import costs, or supply disruptions in critical sectors combined with strong demand that prevents prices from stabilizing.
 
-### If the Fed cuts rates to near-zero by late 2025, would that increase the probability of this market resolving YES?
+### How does the April 10th expiry date align with when the March CPI data becomes available?
 
-Paradoxically,
+The Bureau of Labor Statistics typically releases monthly CPI data around the 10th-15th of the following month, so the March 2026 inflation data should be published right at or just after market expiry, creating minimal time between data release and resolution.
 
 ## Learn More
 

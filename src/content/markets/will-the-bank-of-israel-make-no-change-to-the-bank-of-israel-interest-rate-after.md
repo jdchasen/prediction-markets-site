@@ -1,55 +1,54 @@
 ---
 title: "Will the Bank of Israel make no change to the Bank of Israel Interest Rate after the May decision?"
-description: "Will the Bank of Israel make no change to the Bank of Israel Interest Rate after the May decision? Odds: 89.0% YES on Polymarket. See live prices and trade t..."
+description: "Will the Bank of Israel make no change to the Bank of Israel Interest Rate after the May decision? Odds: 80.0% YES on Polymarket. See live prices and trade t..."
 marketQuestion: "Will the Bank of Israel make no change to the Bank of Israel Interest Rate after the May decision?"
 category: "economics"
 status: "active"
-lastUpdated: 2026-04-04
+lastUpdated: 2026-04-05
 expiryDate: 2026-05-25
 tags: ["economics", "interest-rates", "polymarket"]
-polymarketYes: 89.0
-polymarketNo: 11.0
-polymarketVolume: 9456
+polymarketYes: 80.0
+polymarketNo: 20.0
+polymarketVolume: 9471
 polymarketUrl: "https://polymarket.com/event/will-the-bank-of-israel-make-no-change-to-the-bank-of-israel-interest-rate-after-the-may-decision"
+analysisDate: 2026-04-05
 ---
 
-# Bank of Israel Interest Rate May 2026 Analysis
+The market is pricing in an 80% probability that the Bank of Israel holds rates steady at its May 2026 decision, reflecting expectations for monetary policy stability after months of rate-cutting cycles. This matters because Israel's central bank decisions directly influence shekel strength, inflation expectations, and regional economic sentiment during a period of geopolitical volatility and post-conflict economic recovery.
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 89.0% | 11.0% | $9K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 80.0% | 20.0% | $9K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The market is pricing in a 89% probability that the Bank of Israel will hold rates steady at its May 2026 decision, reflecting widespread expectations of monetary policy stability in the near term. This matters because Israel's central bank has been navigating competing pressures from inflation concerns and growth considerations, making any deviation from consensus highly consequential for shekel valuation and local asset prices. The high probability reflects both recent hawkish signaling from BoI leadership and the typical operational pattern of maintaining steady policy between major reassessments.
+The bull case for no change rests on several anchors. If Israeli inflation remains anchored near the 2% target through Q1 2026, the BoI will have limited justification for further cuts, particularly given that the shekel has shown weakness that makes imports more expensive. The central bank has signaled a measured approach after aggressive cuts in 2024-2025, and reaching a neutral rate would suggest a natural pause point. Additionally, if the Federal Reserve maintains higher-for-longer rates through mid-2026 (current FOMC guidance suggests rate cuts will be gradual), the BoI may feel pressure to defend the shekel by holding its own rates steady.
 
-The bull case for "no change" rests on the BoI's demonstrated preference for gradual, measured adjustments and the likelihood that May 2026 falls between major policy cycles. If Israeli CPI moderates toward the 2% target band by Q1 2026 and global central banks signal extended pause cycles, the BoI has little incentive to move. The BoI's recent communication has emphasized data dependency rather than preset rate paths, which typically favors holding when inflation trends are stabilizing. Additionally, any rate cut in May would signal dovish pivot that contradicts the current hawkish narrative around sticky services inflation in Israel's economy.
+The bear case hinges on potential economic deterioration. A surprise deflationary print in March or April 2026 CPI data (typically released mid-month) could force the BoI's hand toward another cut if core inflation dips below 1.5%. Labor market weakness—watch April 2026 unemployment figures released in early May—could also trigger a rate cut if joblessness ticks above 4.5%. Tourism and tech sector performance data from Q1 2026 earnings reports (released March-April) will signal whether Israel's growth trajectory justifies holding rates; sustained weakness could justify easing. Geopolitical escalation would be a wildcard that historically prompts defensive rate cuts.
 
-The bear case hinges on two scenarios: either Israeli inflation proves sticky and the BoI tightens further (moving away from 89% odds), or unexpected economic weakness forces a rate cut before May. Watch for monthly CPI releases throughout late 2025 and early 2026—if core inflation consistently runs above 2.5%, the BoI may telegraph a hike rather than hold. Geopolitical escalation or a sharp shekel appreciation could also pressure the BoI toward easing. The FOMC's December 2024 and January 2025 decisions will anchor expectations for the Fed's terminal rate, which indirectly influences BoI optionality through currency and capital flow mechanics.
-
-Key data releases to monitor include monthly CPI reports (typically mid-month), the BoI's quarterly inflation expectations survey, and any revisions to Israel's unemployment figures. The Fed's March 2025 and April 2025 meetings will set the tone for global rate expectations ahead of the May BoI decision. If the Fed signals further cuts or pause, the BoI faces less pressure to justify holding. Conversely, any hawkish surprise from the Fed or uptick in Israeli wage growth data could narrow the 89% window and create uncertainty around the May outcome.
+Traders should monitor the BoI's April 2026 decision as a leading indicator; if they cut then, expectations for May would shift dramatically lower. Watch the shekel/dollar exchange rate in the weeks before May—significant weakness could push the central bank toward maintaining current rates despite growth concerns. Israeli CPI data (released monthly, mid-month) and wage growth figures are critical; rapid wage pressures post-conflict could keep the central bank on pause. Finally, track any dovish shifts in FOMC communications after the May 1-2 FOMC meeting, as a surprise Fed cut would immediately increase pressure on the BoI to follow suit, lowering the probability of a hold.
 
 ## Related Markets
 
 - [Will 9 Fed rate cuts happen in 2026?](/odds/will-9-fed-rate-cuts-happen-in-2026) — 0% YES
+- [Will the Fed increase interest rates by 50+ bps after the June 2026 meeting?](/odds/will-the-fed-increase-interest-rates-by-50-bps-after-the-june-2026-meeting) — 1% YES
 - [Bank of Japan increases interest rates by 50+ bps after the April 2026 meeting?](/odds/bank-of-japan-increases-interest-rates-by-50-bps-after-the-april-2026-meeting) — 1% YES
-- [Will monthly inflation increase by 0.8% or more in March?](/odds/will-monthly-inflation-increase-by-08-or-more-in-march) — 95% YES
 
 ## Frequently Asked Questions
 
-### What specific inflation threshold would make the BoI likely to hike instead of hold in May?
+### What is the Bank of Israel's current neutral rate range, and how does it relate to the May decision?
 
-If Israeli core CPI consistently exceeds 2.5% in the months leading to May, particularly driven by sticky services inflation, the BoI would likely signal a hike rather than hold, which would collapse the 89% probability.
+The BoI's estimated neutral rate is approximately 3.25-3.75%, and the current rate as of late 2025 is expected to be in the 2.75-3.25% range; if rates reach the neutral zone by May, a hold becomes more likely as further cuts would be stimulative rather than normalization.
 
-### How much does Fed policy determine the BoI's May decision?
+### How could the April 2026 BoI decision affect this May market?
 
-While the BoI is independent, Fed rate expectations heavily influence shekel carry trades and capital flows; if the Fed cuts aggressively before May, it removes pressure on the BoI to hold, making a cut more plausible and reducing "no change" odds.
+If the BoI cuts again in April, the May no-change odds would collapse as markets would price in further easing momentum; conversely, a hold in April would strongly reinforce expectations for a May pause.
 
-### Could geopolitical events in the Middle East swing this market materially before May 2026?
+### What specific economic data released in April-May 2026 poses the biggest risk to the current 80% probability?
 
-Yes—major escalation could trigger safe-haven demand for shekels and force the BoI to ease despite inflation concerns, while regional de-escalation might embolden the BoI to maintain hawkish hold bias.
+Israeli CPI data (typically released mid-April for March inflation) is the most market-moving release; if it shows deflation or drops below 0.5% month-over-month, it could trigger a 10-15 percentage point swing toward cuts, dragging the hold probability below 70%.
 
 ## Learn More
 

@@ -1,17 +1,16 @@
 ---
 title: "Will Pete Buttigieg win the 2028 Democratic presidential nomination?"
-description: "Will Pete Buttigieg win the 2028 Democratic presidential nomination? Odds: 3.8% YES on Polymarket. See live prices and trade this market."
+description: "Will Pete Buttigieg win the 2028 Democratic presidential nomination? Odds: 3.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Pete Buttigieg win the 2028 Democratic presidential nomination?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-04-04
+lastUpdated: 2026-04-05
 expiryDate: 2028-11-07
 tags: ["politics", "polymarket"]
-polymarketYes: 3.8
+polymarketYes: 3.9
 polymarketNo: 96.2
-polymarketVolume: 9770597
+polymarketVolume: 9777318
 polymarketUrl: "https://polymarket.com/event/will-pete-buttigieg-win-the-2028-democratic-presidential-nomination-687"
-analysisDate: 2026-04-04
 ---
 
 Pete Buttigieg currently sits at the outer edge of 2028 Democratic nomination contenders with less than 4% odds, reflecting skepticism about his ability to overcome his 2020 primary weaknesses while newer stars emerge in the party.
