@@ -1,17 +1,16 @@
 ---
 title: "Will Nancy Dahlstrom win the 2026 Alaska governor election?"
-description: "Will Nancy Dahlstrom win the 2026 Alaska governor election? Odds: 10.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Nancy Dahlstrom win the 2026 Alaska governor election? Odds: 7.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Nancy Dahlstrom win the 2026 Alaska governor election?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-04-06
 expiryDate: 2026-11-03
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 10.5
-polymarketNo: 89.5
-polymarketVolume: 98327
+polymarketYes: 7.2
+polymarketNo: 92.8
+polymarketVolume: 98373
 polymarketUrl: "https://polymarket.com/event/will-nancy-dahlstrom-win-the-2026-alaska-governor-election"
-analysisDate: 2026-04-06
 ---
 
 Nancy Dahlstrom faces long odds at roughly 10% to win Alaska's 2026 gubernatorial race, reflecting significant skepticism about her path to victory in a state with complex political dynamics and top-four ranked-choice voting that tends to favor moderate candidates.

@@ -9,9 +9,8 @@ expiryDate: 2026-07-29
 tags: ["economics", "federal-reserve", "interest-rates", "polymarket"]
 polymarketYes: 1.8
 polymarketNo: 98.2
-polymarketVolume: 96528
+polymarketVolume: 97068
 polymarketUrl: "https://polymarket.com/event/will-the-fed-decrease-interest-rates-by-50-bps-after-the-july-2026-meeting"
-analysisDate: 2026-04-06
 ---
 
 # Fed Rate Cut Market Analysis

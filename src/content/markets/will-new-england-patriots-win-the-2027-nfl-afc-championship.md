@@ -11,7 +11,6 @@ polymarketYes: 10.0
 polymarketNo: 90.0
 polymarketVolume: 9885
 polymarketUrl: "https://polymarket.com/event/will-new-england-patriots-win-the-2027-nfl-afc-championship-417"
-analysisDate: 2026-04-06
 ---
 
 # New England Patriots 2027 AFC Championship Analysis

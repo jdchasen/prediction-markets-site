@@ -3,7 +3,7 @@ title: "Will Natural Gas (NG) hit (HIGH) $3.20 in April?"
 description: "Will Natural Gas (NG) hit (HIGH) $3.20 in April? Odds: 38.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Natural Gas (NG) hit (HIGH) $3.20 in April?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-06
 expiryDate: 2026-05-01
 tags: ["politics", "polymarket"]

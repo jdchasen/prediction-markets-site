@@ -3,7 +3,7 @@ title: "Will Netherlands win the 2026 FIFA World Cup?"
 description: "Will Netherlands win the 2026 FIFA World Cup? Odds: 3.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Netherlands win the 2026 FIFA World Cup?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-06
 expiryDate: 2026-07-20
 tags: ["ethereum", "polymarket", "sports"]

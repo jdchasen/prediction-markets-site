@@ -1,17 +1,16 @@
 ---
 title: "Gemini 3.5 released by April 30?"
-description: "Gemini 3.5 released by April 30? Odds: 6.6% YES on Polymarket. See live prices and trade this market."
+description: "Gemini 3.5 released by April 30? Odds: 7.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Gemini 3.5 released by April 30?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-04-06
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
-polymarketYes: 6.6
-polymarketNo: 93.4
-polymarketVolume: 99558
+polymarketYes: 7.0
+polymarketNo: 93.0
+polymarketVolume: 99755
 polymarketUrl: "https://polymarket.com/event/gemini-3pt5-released-by-april-31"
-analysisDate: 2026-04-06
 ---
 
 The market gives Google's next major AI model release less than 7% probability by the end of April, reflecting skepticism that the company can deliver a significant Gemini upgrade in the next few weeks despite intensifying competitive pressure from OpenAI and Anthropic.

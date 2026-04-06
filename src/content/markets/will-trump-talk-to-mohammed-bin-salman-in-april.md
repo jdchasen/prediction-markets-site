@@ -3,7 +3,7 @@ title: "Will Trump talk to Mohammed bin Salman in April?"
 description: "Will Trump talk to Mohammed bin Salman in April? Odds: 83.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Trump talk to Mohammed bin Salman in April?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-06
 expiryDate: 2026-04-30
 tags: ["politics", "polymarket", "trump"]

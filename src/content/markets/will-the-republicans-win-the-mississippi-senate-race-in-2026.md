@@ -10,7 +10,6 @@ polymarketYes: 90.5
 polymarketNo: 9.5
 polymarketVolume: 9787
 polymarketUrl: "https://polymarket.com/event/will-the-republicans-win-the-mississippi-senate-race-in-2026"
-analysisDate: 2026-04-06
 ---
 
 # Republican Mississippi Senate Dominance in 2026: Reading the 90%+ Consensus

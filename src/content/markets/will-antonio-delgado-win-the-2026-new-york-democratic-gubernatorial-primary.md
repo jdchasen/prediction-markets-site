@@ -3,7 +3,7 @@ title: "Will Antonio Delgado win the 2026 New York Democratic Gubernatorial Prim
 description: "Will Antonio Delgado win the 2026 New York Democratic Gubernatorial Primary? Odds: 2.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Antonio Delgado win the 2026 New York Democratic Gubernatorial Primary?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-06
 expiryDate: 2026-06-23
 tags: ["politics", "polymarket"]

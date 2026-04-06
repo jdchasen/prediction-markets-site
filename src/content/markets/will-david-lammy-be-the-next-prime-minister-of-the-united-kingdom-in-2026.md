@@ -9,9 +9,8 @@ expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 0.8
 polymarketNo: 99.2
-polymarketVolume: 98548
+polymarketVolume: 99048
 polymarketUrl: "https://polymarket.com/event/will-david-lammy-be-the-next-prime-minister-of-the-united-kingdom-in-2026-654"
-analysisDate: 2026-04-06
 ---
 
 David Lammy becoming Prime Minister by 2026 is trading at less than 1%, reflecting his position as Foreign Secretary rather than a leadership contender, with no clear path to the top job under current UK political dynamics.

@@ -9,9 +9,8 @@ expiryDate: 2026-04-17
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 30.0
 polymarketNo: 70.0
-polymarketVolume: 9717
+polymarketVolume: 9754
 polymarketUrl: "https://polymarket.com/event/chi-hai-qin-2026-04-17-hai"
-analysisDate: 2026-04-06
 ---
 
 # Market Analysis: Qingdao Hainiu FC Victory Prediction

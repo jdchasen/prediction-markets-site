@@ -1,17 +1,16 @@
 ---
 title: "Will Iran strike Ukraine by April 30, 2026?"
-description: "Will Iran strike Ukraine by April 30, 2026? Odds: 4.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Iran strike Ukraine by April 30, 2026? Odds: 4.3% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Iran strike Ukraine by April 30, 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-04-06
 expiryDate: 2026-04-30
 tags: ["ai", "politics", "polymarket"]
-polymarketYes: 4.5
-polymarketNo: 95.5
-polymarketVolume: 9858
+polymarketYes: 4.3
+polymarketNo: 95.7
+polymarketVolume: 9908
 polymarketUrl: "https://polymarket.com/event/will-iran-strike-ukraine-by-april-30-2026"
-analysisDate: 2026-04-06
 ---
 
 # Iran-Ukraine Strike Market Analysis

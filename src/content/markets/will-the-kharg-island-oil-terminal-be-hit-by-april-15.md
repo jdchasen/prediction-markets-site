@@ -3,7 +3,7 @@ title: "Will the Kharg Island oil terminal be hit by April 15?"
 description: "Will the Kharg Island oil terminal be hit by April 15? Odds: 23.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Kharg Island oil terminal be hit by April 15?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-06
 expiryDate: 2026-04-15
 tags: ["politics", "polymarket"]

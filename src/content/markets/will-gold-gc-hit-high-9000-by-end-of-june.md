@@ -9,9 +9,8 @@ expiryDate: 2026-06-30
 tags: ["finance", "polymarket"]
 polymarketYes: 1.5
 polymarketNo: 98.6
-polymarketVolume: 97293
+polymarketVolume: 97324
 polymarketUrl: "https://polymarket.com/event/will-gold-gc-hit-high-9000-by-end-of-june"
-analysisDate: 2026-04-06
 ---
 
 # Gold's $9,000 Target: Why Traders Are Heavily Skeptical

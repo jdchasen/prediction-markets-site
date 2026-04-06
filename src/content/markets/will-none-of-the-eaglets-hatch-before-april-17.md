@@ -3,7 +3,7 @@ title: "Will none of the eaglets hatch before April 17?"
 description: "Will none of the eaglets hatch before April 17? Odds: 5.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will none of the eaglets hatch before April 17?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-06
 expiryDate: 2026-04-16
 tags: ["politics", "polymarket"]

@@ -9,9 +9,8 @@ expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 7.5
 polymarketNo: 92.5
-polymarketVolume: 99802
+polymarketVolume: 99826
 polymarketUrl: "https://polymarket.com/event/will-the-us-invade-mexico-in-2026"
-analysisDate: 2026-04-06
 ---
 
 The market pricing a U.S. invasion of Mexico at 7.5% reflects extremely low but non-zero probability of direct military intervention, mattering primarily as a gauge of how seriously traders view escalating cartel-related tensions and Trump administration rhetoric about cross-border operations. This represents one of the more extreme scenarios in U.S.-Mexico relations, requiring either a catastrophic border incident or dramatic expansion of executive power claims.

@@ -3,15 +3,14 @@ title: "Will the Democratic Party win the MS-04 House seat?"
 description: "Will the Democratic Party win the MS-04 House seat? Odds: 6.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Democratic Party win the MS-04 House seat?"
 category: "politics"
-status: "settled"
-lastUpdated: 2026-04-05
+status: "active"
+lastUpdated: 2026-04-06
 expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
 polymarketYes: 6.5
 polymarketNo: 93.5
-polymarketVolume: 9680
+polymarketVolume: 9686
 polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-ms-04-house-seat"
-analysisDate: 2026-04-05
 ---
 
 # MS-04 Democratic Hold: A Long-Shot Bet Against Southern Republican Dominance

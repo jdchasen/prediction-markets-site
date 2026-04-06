@@ -9,9 +9,8 @@ expiryDate: 2026-06-17
 tags: ["economics", "federal-reserve", "interest-rates", "polymarket"]
 polymarketYes: 0.8
 polymarketNo: 99.2
-polymarketVolume: 962214
+polymarketVolume: 975800
 polymarketUrl: "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-50-bps-after-the-june-2026-meeting"
-analysisDate: 2026-04-06
 ---
 
 The market assigns negligible probability to a dramatic Fed pivot toward aggressive rate hikes by mid-2026, reflecting expectations that inflation will remain controlled and economic conditions won't warrant emergency tightening measures. This matters because a 50+ basis point increase would signal either a severe inflation resurgence or economic overheating that current forecasts don't anticipate.

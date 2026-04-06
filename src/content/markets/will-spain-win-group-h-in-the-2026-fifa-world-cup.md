@@ -1,17 +1,16 @@
 ---
 title: "Will Spain win Group H in the 2026 FIFA World Cup?"
-description: "Will Spain win Group H in the 2026 FIFA World Cup? Odds: 80.0% YES on Polymarket. See live prices and trade this market."
+description: "Will Spain win Group H in the 2026 FIFA World Cup? Odds: 80.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Spain win Group H in the 2026 FIFA World Cup?"
 category: "sports"
 status: "active"
 lastUpdated: 2026-04-06
 expiryDate: 2026-06-27
 tags: ["ai", "polymarket", "sports"]
-polymarketYes: 80.0
-polymarketNo: 20.0
-polymarketVolume: 9774
+polymarketYes: 80.5
+polymarketNo: 19.5
+polymarketVolume: 9888
 polymarketUrl: "https://polymarket.com/event/will-spain-win-group-h-in-the-2026-fifa-world-cup"
-analysisDate: 2026-04-06
 ---
 
 # Spain's Group H Dominance: A High-Confidence Bet That Hinges on Roster Depth

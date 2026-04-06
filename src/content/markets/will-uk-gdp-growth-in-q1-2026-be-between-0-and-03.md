@@ -11,7 +11,6 @@ polymarketYes: 7.0
 polymarketNo: 93.0
 polymarketVolume: 9335
 polymarketUrl: "https://polymarket.com/event/will-uk-gdp-growth-in-q1-2026-be-between-0-and-0pt3"
-analysisDate: 2026-04-06
 ---
 
 # UK GDP Growth Q1 2026: Stagnation Priced as Unlikely

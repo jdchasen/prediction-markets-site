@@ -1,17 +1,16 @@
 ---
 title: "Will Kyle Duyck win the 2026 Oregon Governor Republican primary election?"
-description: "Will Kyle Duyck win the 2026 Oregon Governor Republican primary election? Odds: 0.7% YES on Polymarket. See live prices and trade this market."
+description: "Will Kyle Duyck win the 2026 Oregon Governor Republican primary election? Odds: 0.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Kyle Duyck win the 2026 Oregon Governor Republican primary election?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-04-06
 expiryDate: 2026-05-19
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 0.7
-polymarketNo: 99.4
-polymarketVolume: 9946
+polymarketYes: 0.9
+polymarketNo: 99.1
+polymarketVolume: 9977
 polymarketUrl: "https://polymarket.com/event/will-kyle-duyck-win-the-2026-oregon-governor-republican-primary-election"
-analysisDate: 2026-04-06
 ---
 
 # Kyle Duyck 2026 Oregon Governor Republican Primary Analysis

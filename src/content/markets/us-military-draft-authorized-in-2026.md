@@ -1,17 +1,16 @@
 ---
 title: "US military draft authorized in 2026?"
-description: "US military draft authorized in 2026? Odds: 13.0% YES on Polymarket. See live prices and trade this market."
+description: "US military draft authorized in 2026? Odds: 11.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "US military draft authorized in 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-04-06
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 13.0
-polymarketNo: 87.0
-polymarketVolume: 98828
+polymarketYes: 11.5
+polymarketNo: 88.5
+polymarketVolume: 99384
 polymarketUrl: "https://polymarket.com/event/us-military-draft-authorized-in-2026"
-analysisDate: 2026-04-06
 ---
 
 The market pricing a military draft at 13% probability through 2026 reflects relatively low but non-negligible concern about major conflict escalation, with traders weighing geopolitical tensions against the massive political barriers to reinstating conscription in the United States.
