@@ -4,14 +4,13 @@ description: "Will Austria win Group J in the 2026 FIFA World Cup? Odds: 17.5% Y
 marketQuestion: "Will Austria win Group J in the 2026 FIFA World Cup?"
 category: "sports"
 status: "active"
-lastUpdated: 2026-04-05
+lastUpdated: 2026-04-06
 expiryDate: 2026-06-27
 tags: ["polymarket", "sports"]
 polymarketYes: 17.5
 polymarketNo: 82.5
-polymarketVolume: 9736
+polymarketVolume: 9746
 polymarketUrl: "https://polymarket.com/event/will-austria-win-group-j-in-the-2026-fifa-world-cup"
-analysisDate: 2026-04-05
 ---
 
 # Austria's Group J Chances at 2026 World Cup

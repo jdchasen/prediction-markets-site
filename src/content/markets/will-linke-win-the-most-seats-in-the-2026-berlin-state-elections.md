@@ -4,14 +4,13 @@ description: "Will Linke win the most seats in the 2026 Berlin state elections? 
 marketQuestion: "Will Linke win the most seats in the 2026 Berlin state elections?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-04-05
+lastUpdated: 2026-04-06
 expiryDate: 2026-09-20
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 10.0
 polymarketNo: 90.0
-polymarketVolume: 9843
+polymarketVolume: 9899
 polymarketUrl: "https://polymarket.com/event/will-linke-win-the-most-seats-in-the-2026-berlin-state-elections"
-analysisDate: 2026-04-05
 ---
 
 # Berlin State Elections 2026: The Left Party's Slim Path to Victory

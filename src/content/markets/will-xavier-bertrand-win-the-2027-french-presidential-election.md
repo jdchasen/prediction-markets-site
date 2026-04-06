@@ -4,14 +4,13 @@ description: "Will Xavier Bertrand win the 2027 French presidential election? Od
 marketQuestion: "Will Xavier Bertrand win the 2027 French presidential election?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-04-05
+lastUpdated: 2026-04-06
 expiryDate: 2027-04-30
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.7
 polymarketNo: 99.4
-polymarketVolume: 990246
+polymarketVolume: 998522
 polymarketUrl: "https://polymarket.com/event/will-xavier-bertrand-win-the-2027-french-presidential-election"
-analysisDate: 2026-04-05
 ---
 
 Xavier Bertrand's microscopic 0.7% odds reflect his current positioning as a long-shot candidate for the 2027 French presidency, despite his experience as Hauts-de-France regional president and his previous bids for the conservative Republican nomination.

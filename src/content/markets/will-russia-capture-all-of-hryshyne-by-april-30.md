@@ -3,8 +3,8 @@ title: "Will Russia capture all of Hryshyne by April 30?"
 description: "Will Russia capture all of Hryshyne by April 30? Odds: 10.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Russia capture all of Hryshyne by April 30?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-05
+status: "settled"
+lastUpdated: 2026-04-06
 expiryDate: 2026-04-30
 tags: ["politics", "polymarket"]
 polymarketYes: 10.5

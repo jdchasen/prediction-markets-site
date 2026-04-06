@@ -3,8 +3,8 @@ title: "Will the Cincinnati Reds win the 2026 World Series?"
 description: "Will the Cincinnati Reds win the 2026 World Series? Odds: 1.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Cincinnati Reds win the 2026 World Series?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-05
+status: "settled"
+lastUpdated: 2026-04-06
 expiryDate: 2026-10-31
 tags: ["politics", "polymarket"]
 polymarketYes: 1.1

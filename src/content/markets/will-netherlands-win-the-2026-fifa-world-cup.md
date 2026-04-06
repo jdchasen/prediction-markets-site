@@ -4,14 +4,13 @@ description: "Will Netherlands win the 2026 FIFA World Cup? Odds: 3.4% YES on Po
 marketQuestion: "Will Netherlands win the 2026 FIFA World Cup?"
 category: "sports"
 status: "active"
-lastUpdated: 2026-04-05
+lastUpdated: 2026-04-06
 expiryDate: 2026-07-20
 tags: ["ethereum", "polymarket", "sports"]
 polymarketYes: 3.4
 polymarketNo: 96.7
-polymarketVolume: 9814496
+polymarketVolume: 9835990
 polymarketUrl: "https://polymarket.com/event/will-netherlands-win-the-2026-fifa-world-cup-739"
-analysisDate: 2026-04-05
 ---
 
 The Netherlands enters the 2026 World Cup with modest 3.4% implied probability to lift the trophy, reflecting their status as a solid European contender without the star power or recent dominance of favorites like France, Brazil, or Argentina. This market matters because the tournament is still 18 months away, leaving substantial time for the odds to shift based on qualification performances, player development, and tactical evolution under manager Ronald Koeman.

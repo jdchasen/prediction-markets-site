@@ -3,8 +3,8 @@ title: "Will Byeong Hun An win the 2026 Masters tournament?"
 description: "Will Byeong Hun An win the 2026 Masters tournament? Odds: 0.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Byeong Hun An win the 2026 Masters tournament?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-04-05
+status: "settled"
+lastUpdated: 2026-04-06
 expiryDate: 2026-04-13
 tags: ["polymarket", "sports"]
 polymarketYes: 0.2

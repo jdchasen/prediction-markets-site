@@ -4,14 +4,13 @@ description: "Will Croatia be the Jury Winner in the Eurovision 2026 Grand Final
 marketQuestion: "Will Croatia be the Jury Winner in the Eurovision 2026 Grand Final?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-04-05
+lastUpdated: 2026-04-06
 expiryDate: 2026-05-16
 tags: ["politics", "polymarket"]
 polymarketYes: 0.7
 polymarketNo: 99.4
-polymarketVolume: 9780
+polymarketVolume: 9830
 polymarketUrl: "https://polymarket.com/event/will-croatia-be-the-jury-winner-in-the-eurovision-2026-grand-final"
-analysisDate: 2026-04-05
 ---
 
 # Eurovision 2026 Jury Winner Analysis

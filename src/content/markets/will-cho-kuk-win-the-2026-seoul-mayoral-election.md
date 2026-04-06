@@ -3,8 +3,8 @@ title: "Will Cho Kuk win the 2026 Seoul Mayoral Election"
 description: "Will Cho Kuk win the 2026 Seoul Mayoral Election Odds: 0.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Cho Kuk win the 2026 Seoul Mayoral Election"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-05
+status: "settled"
+lastUpdated: 2026-04-06
 expiryDate: 2026-06-03
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.5

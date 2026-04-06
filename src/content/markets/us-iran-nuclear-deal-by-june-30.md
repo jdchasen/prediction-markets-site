@@ -1,17 +1,16 @@
 ---
 title: "US-Iran nuclear deal by June 30?"
-description: "US-Iran nuclear deal by June 30? Odds: 21.5% YES on Polymarket. See live prices and trade this market."
+description: "US-Iran nuclear deal by June 30? Odds: 24.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "US-Iran nuclear deal by June 30?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-04-05
+lastUpdated: 2026-04-06
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
-polymarketYes: 21.5
-polymarketNo: 78.5
-polymarketVolume: 972730
+polymarketYes: 24.5
+polymarketNo: 75.5
+polymarketVolume: 985302
 polymarketUrl: "https://polymarket.com/event/us-iran-nuclear-deal-by-june-30"
-analysisDate: 2026-04-05
 ---
 
 Prediction markets give a nuclear deal between the United States and Iran only a one-in-five chance of materializing by mid-2026, reflecting deep skepticism about whether diplomatic conditions will align despite the extended timeline. This matters because any breakthrough would reshape Middle Eastern geopolitics, energy markets, and the ongoing Israeli-Iranian shadow war that has escalated significantly since October 2023.

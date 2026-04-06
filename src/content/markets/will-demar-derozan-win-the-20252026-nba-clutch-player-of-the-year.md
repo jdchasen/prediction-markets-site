@@ -4,16 +4,17 @@ description: "Will DeMar DeRozan win the 2025–2026 NBA Clutch Player of the Ye
 marketQuestion: "Will DeMar DeRozan win the 2025–2026 NBA Clutch Player of the Year?"
 category: "sports"
 status: "active"
-lastUpdated: 2026-04-05
+lastUpdated: 2026-04-06
 expiryDate: 2026-06-30
 tags: ["polymarket", "sports"]
 polymarketYes: 0.1
 polymarketNo: 99.9
 polymarketVolume: 9937
 polymarketUrl: "https://polymarket.com/event/nba-2025-26-clutch-player-of-the-year-demar-derozan"
+analysisDate: 2026-04-06
 ---
 
-# DeMar DeRozan Clutch Player of the Year Analysis
+# DeMar DeRozan 2025-2026 Clutch Player of the Year Analysis
 
 ## Current Odds
 
@@ -23,29 +24,33 @@ polymarketUrl: "https://polymarket.com/event/nba-2025-26-clutch-player-of-the-ye
 
 ## Market Analysis
 
-The market is pricing DeRozan at near-zero probability for winning NBA Clutch Player of the Year in 2025–2026, reflecting legitimate structural headwinds for a 35-year-old wing operating in a crowded field of candidates. This valuation matters now because the 2025–26 season tips off in October 2025, meaning the probability window is tightening and any mid-season injury, trade, or statistical collapse would cement these long odds as correct. Conversely, a hot playoff run could force recalibration if DeRozan suddenly becomes a closing-minute weapon.
+At 0.1%, this market reflects near-zero confidence in DeRozan winning an individual award that typically goes to players on championship or deep playoff teams. The Clutch Player of the Year award is rarely given to mid-tier performers, making this primarily a bet on both DeRozan's individual excellence and his team's postseason success. Current pricing suggests the market views this outcome as statistical noise rather than a realistic possibility.
 
-The bull case rests on DeRozan's proven mid-range excellence and playoff experience with the Chicago Bulls, combined with potential rule changes or coaching adjustments that emphasize half-court execution over three-point shooting. If the Bulls improve their playoff seeding significantly—currently tracking outside the East's top four—and DeRozan logs high usage rates in clutch situations (final 5 minutes, games within 5 points), he could accumulate the fourth-quarter scoring necessary to compete. Historical precedent exists: DeRozan finished top-10 in clutch scoring in 2023–24, so the infrastructure for candidacy is present. A playoff deep run to the Eastern Conference Finals would dramatically shift narrative weight in his favor, particularly if he outperforms younger guards in elimination games.
+The bull case hinges on DeRozan's documented clutch credentials and potential playoff trajectory. DeRozan has consistently ranked among league leaders in fourth-quarter scoring and clutch time performance metrics, and if the Chicago Bulls make an unexpected Finals run or deep conference finals appearance with DeRozan as the primary closer, award voters could recognize his high-leverage contributions. The 2025-26 season represents a potential opportunity window if the Bulls' roster configuration—assuming Nikola Vucevic remains healthy and another star-caliber acquisition materializes—elevates them to contention. DeRozan's mid-range mastery becomes increasingly valuable in playoff basketball where three-point variance matters less.
 
-The bear case is overwhelming. The Clutch Player of the Year award typically goes to players under 32 years old who play high-volume three-point shooting roles—think Jamal Murray, Anthony Davis, or Donovan Mitchell in recent years. DeRozan's mid-range diet and age work against him in a league increasingly won in the final possession via three-point shooting. The Bulls' roster construction (Coby White, Nikola Vucevic, Lonzo Ball) doesn't guarantee playoff dominance, and DeRozan's mid-range reliance becomes less valuable when defenses compress in tight moments. Additionally, he's competing against Luka Doncic, Shai Gilgeous-Alexander, and Jayson Tatum—all younger, more versatile scorers who command higher usage and better odds.
+The bear case is overwhelming. DeRozan has never won major individual awards despite elite clutch credentials, and the Bulls have underperformed expectations for two consecutive seasons. The Clutch Player of the Year typically goes to players on 60+ win teams or Finals participants, and Chicago's current trajectory doesn't suggest that caliber of success. Additionally, even if the Bulls do make a Finals run, award voters are more likely to recognize a younger star (like a potential Lamelo Ball or Paolo Banchero in their prime) or the team's best overall player rather than a secondary contributor. DeRozan's scoring volume and usage rate would need to significantly increase from current levels while maintaining efficiency—unlikely given the team's likely roster construction.
 
-Watch whether DeRozan's clutch FG% (currently sitting around 43% in tight games) sustains or declines through January 2026. If the Bulls miss the playoffs or finish below the fourth seed, this market effectively closes. Conversely, if Chicago reaches the second round and DeRozan averages 15+ points per game in clutch situations during the playoffs, odds should shift to 0.5–1.0%. The expiry date of June 30, 2026, means the entire playoff slate (April–June) represents the critical evaluation window—traders should monitor his closing role and usage rate once the postseason begins.
+Key catalysts to monitor include the Bulls' performance in early 2026 (Jan-Feb) to assess playoff likelihood, any major roster moves at the February trade deadline, and DeRozan's clutch time metrics through March and April. His shooting efficiency in the final 24 games of the regular season will signal whether he's trending toward peak performance. If Chicago wins 55+ games and DeRozan averages 20+ points in clutch situations (within 5 points in final 5 minutes), probability could drift toward 0.5-1%. Current odds represent appropriate pessimism given award voting patterns.
 
 ## Related Markets
 
-- [Will the Golden State Warriors win the 2026 NBA Finals?](/odds/will-the-golden-state-warriors-win-the-2026-nba-finals) — 0% YES
-- [Will Manchester City win the 2025–26 English Premier League?](/odds/will-manchester-city-win-the-202526-english-premier-league) — 14% YES
 - [Will Netherlands win the 2026 FIFA World Cup?](/odds/will-netherlands-win-the-2026-fifa-world-cup) — 3% YES
+- [Will the Dallas Stars win the 2026 NHL Stanley Cup?](/odds/will-the-dallas-stars-win-the-2026-nhl-stanley-cup) — 8% YES
+- [Will New England Patriots win the 2027 NFL AFC Championship?](/odds/will-new-england-patriots-win-the-2027-nfl-afc-championship) — 10% YES
 
 ## Frequently Asked Questions
 
-### What specific clutch statistics does the NBA track to determine this award winner?
+### Has DeRozan ever finished top-5 in Clutch Player of the Year voting despite his clutch performance stats?
 
-The NBA typically evaluates performance in the final 5 minutes of games decided by 5 points or fewer, focusing on points per possession, shooting efficiency, and consistency across multiple playoff games rather than regular season volume.
+No documented evidence shows DeRozan as a serious finalist, suggesting voters weight playoff success and team record heavily despite individual clutch metrics favoring him historically.
 
-### Could a trade or mid-season acquisition significantly shift DeRozan's probability?
+### How much does a conference finals appearance vs. Finals appearance change the probability?
 
-Yes—if the Bulls acquire a co-star or veteran closer (like a third All-Star), DeRozan's usage in clutch time could decrease, actively harming his candidacy despite improved team performance.
+Conference Finals might move odds to 0.3-0.5% if DeRozan is the clear closer; Finals appearance could reach 1-2%, but he'd still likely lose to the Finals-winning team's star player.
+
+### What specific clutch stat threshold would need to occur for this to become a 1%+ probability?
+
+DeRozan would need to average 25+ PPG on 50%+ FG in April-June 2026 while the Bulls win 58+ games and make the Finals as a #1-3 seed.
 
 ## Learn More
 

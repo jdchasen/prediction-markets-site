@@ -1,17 +1,16 @@
 ---
 title: "Will the Dallas Stars win the 2026 NHL Stanley Cup?"
-description: "Will the Dallas Stars win the 2026 NHL Stanley Cup? Odds: 8.1% YES on Polymarket. See live prices and trade this market."
+description: "Will the Dallas Stars win the 2026 NHL Stanley Cup? Odds: 8.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Dallas Stars win the 2026 NHL Stanley Cup?"
 category: "sports"
 status: "active"
-lastUpdated: 2026-04-05
+lastUpdated: 2026-04-06
 expiryDate: 2026-06-30
 tags: ["polymarket", "sports"]
-polymarketYes: 8.1
-polymarketNo: 91.9
-polymarketVolume: 975572
+polymarketYes: 8.0
+polymarketNo: 92.0
+polymarketVolume: 981509
 polymarketUrl: "https://polymarket.com/event/will-the-dallas-stars-win-the-2026-nhl-stanley-cup"
-analysisDate: 2026-04-05
 ---
 
 The Dallas Stars sit at an 8.1% implied probability to capture the 2026 Stanley Cup, positioning them as a mid-tier contender in a league where roughly 10-12 teams enter each season with legitimate championship aspirations. This market matters because we're still in the early stages of the 2024-25 season, meaning bettors are pricing in current roster composition, recent playoff performance, and organizational trajectory over an 18-month window that includes significant uncertainty around player development, trades, and injury variance.

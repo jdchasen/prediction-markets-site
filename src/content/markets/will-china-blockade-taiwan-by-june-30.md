@@ -3,8 +3,8 @@ title: "Will China blockade Taiwan by June 30?"
 description: "Will China blockade Taiwan by June 30? Odds: 4.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will China blockade Taiwan by June 30?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-05
+status: "settled"
+lastUpdated: 2026-04-06
 expiryDate: 2026-06-30
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 4.8

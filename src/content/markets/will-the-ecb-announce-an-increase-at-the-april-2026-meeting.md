@@ -1,17 +1,16 @@
 ---
 title: "Will the ECB announce an increase at the April 2026 meeting?"
-description: "Will the ECB announce an increase at the April 2026 meeting? Odds: 25.4% YES on Polymarket. See live prices and trade this market."
+description: "Will the ECB announce an increase at the April 2026 meeting? Odds: 25.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the ECB announce an increase at the April 2026 meeting?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-04-05
+lastUpdated: 2026-04-06
 expiryDate: 2026-04-30
 tags: ["politics", "polymarket"]
-polymarketYes: 25.4
-polymarketNo: 74.7
-polymarketVolume: 97645
+polymarketYes: 25.9
+polymarketNo: 74.2
+polymarketVolume: 99018
 polymarketUrl: "https://polymarket.com/event/will-the-ecb-announce-an-increase-at-the-april-2026-meeting"
-analysisDate: 2026-04-05
 ---
 
 # ECB April 2026 Rate Decision Analysis

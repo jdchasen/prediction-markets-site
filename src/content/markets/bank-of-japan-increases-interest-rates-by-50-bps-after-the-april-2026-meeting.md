@@ -3,8 +3,8 @@ title: "Bank of Japan increases interest rates by 50+ bps after the April 2026 m
 description: "Bank of Japan increases interest rates by 50+ bps after the April 2026 meeting? Odds: 0.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Bank of Japan increases interest rates by 50+ bps after the April 2026 meeting?"
 category: "economics"
-status: "active"
-lastUpdated: 2026-04-05
+status: "settled"
+lastUpdated: 2026-04-06
 expiryDate: 2026-04-28
 tags: ["economics", "interest-rates", "polymarket"]
 polymarketYes: 0.9

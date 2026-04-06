@@ -1,16 +1,15 @@
 ---
 title: "Will Axiom launch a token by December 31, 2026?"
-description: "Will Axiom launch a token by December 31, 2026? Odds: 37.0% YES on Polymarket. See live prices and trade this market."
+description: "Will Axiom launch a token by December 31, 2026? Odds: 38.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Axiom launch a token by December 31, 2026?"
 category: "crypto"
 status: "active"
-lastUpdated: 2026-04-05
+lastUpdated: 2026-04-06
 tags: ["crypto", "polymarket"]
-polymarketYes: 37.0
-polymarketNo: 63.0
-polymarketVolume: 99077
+polymarketYes: 38.0
+polymarketNo: 62.0
+polymarketVolume: 99378
 polymarketUrl: "https://polymarket.com/event/will-axiom-launch-a-token-by-december-31-2026"
-analysisDate: 2026-04-05
 ---
 
 Axiom's token launch by end of 2026 trades at 37% probability, reflecting skepticism about whether this zero-knowledge proof infrastructure project will pursue the standard crypto playbook of token issuance within the next two and a half years.
