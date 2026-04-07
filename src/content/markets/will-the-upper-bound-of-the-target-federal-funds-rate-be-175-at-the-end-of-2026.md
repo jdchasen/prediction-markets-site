@@ -9,47 +9,48 @@ expiryDate: 2026-12-09
 tags: ["federal-reserve", "politics", "polymarket"]
 polymarketYes: 0.7
 polymarketNo: 99.3
-polymarketVolume: 97964
+polymarketVolume: 98092
 polymarketUrl: "https://polymarket.com/event/will-the-upper-bound-of-the-target-federal-funds-rate-be-1pt75-at-the-end-of-2026-739"
+analysisDate: 2026-04-07
 ---
 
-# Federal Funds Rate Target Analysis: End-2026 Upper Bound at 1.75%
+# Federal Funds Rate Target Analysis: 2026 Year-End
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.8% | 99.2% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.7% | 99.3% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The market is pricing an exceptionally low probability that the Fed will maintain its upper bound at 1.75% through December 2026, reflecting consensus expectations for multiple rate cuts before then. This matters because the federal funds rate is the Fed's primary tool for controlling inflation and employment, making rate trajectory one of the most economically significant predictions available. At 0.8% YES odds, traders are overwhelmingly betting rates will be cut below this level within the next two years.
+The market is pricing an extremely low probability that the Fed's upper bound will stay at 1.75% through the end of 2026, reflecting consensus expectations for rate cuts or holds well above that threshold. This matters now because current monetary policy uncertainty directly impacts inflation expectations, bond markets, and political dynamics heading into 2026—a midterm election year that will heavily influence Fed independence and policy pressure.
 
-The bull case for 1.75% rests on persistent inflation remaining sticky above the Fed's 2% target, forcing the central bank to hold rates higher for longer. If CPI continues printing above 3% through 2025, or if wage growth accelerates, the Fed may resist cutting as aggressively as markets currently expect. Geopolitical shocks (escalating Ukraine conflict, Middle East tensions) or fiscal stimulus from a new administration could also reignite inflation pressures. Additionally, a strong labor market with unemployment below 4% would give the Fed room to keep rates elevated. The bear case—reflected in the market odds—argues that disinflation is already underway, with headline inflation trending toward 2.5% and core inflation decelerating. Most Fed officials and market economists project two to three cuts in 2025 alone, with further reductions likely as growth moderates. A recession in 2025-2026 would accelerate the cutting cycle, pushing the upper bound well below 1.75%.
+The bull case for hitting 1.75% rests on a severe economic contraction forcing aggressive rate cuts. If recession data accelerates in 2025, unemployment spikes meaningfully above 4%, or financial conditions tighten sharply, the Fed could theoretically cut below 1.75% to prevent systemic risk. Historical precedent exists: the 2008 crisis drove rates to near-zero within months. Additionally, a deflationary spiral from supply-side shocks or demand collapse would force the Fed's hand, regardless of political pressure. Watch Fed speakers throughout Q1 2025 for hawkish/dovish pivots and February's PCE inflation report as early signals.
 
-Key catalysts to watch include the January 29, 2025 FOMC meeting, where the committee will signal its rate path for the year, and monthly CPI data releases (particularly February's print on January inflation). Fed Chair Jerome Powell's quarterly congressional testimony (typically February and July) will reveal any shift in the inflation narrative. The employment report on the first Friday of each month will indicate labor market health. If unemployment rises toward 4.5% before mid-2025, rate-cut expectations will accelerate sharply. Presidential policy implementation in 2025—particularly tariff announcements promised for February—could either fuel inflation (supporting higher rates) or slow growth (supporting cuts). The Fed's December 2025 and June 2026 meetings are critical inflection points where market expectations could shift significantly.
+The bear case is substantially stronger: current market pricing reflects the baseline view that the Fed will hold rates steady or cut modestly to 2.00-2.50% through 2026. With inflation at 2.6% core PCE (December 2024 data), wage growth still above 4%, and energy prices volatile, the Fed has little incentive to cut below current levels absent a genuine crisis. The May 2025 FOMC decision and June's unemployment report will be critical; if jobless claims remain below 250K and inflation stays sticky, the 1.75% scenario becomes nearly impossible. The political calendar also matters—with 2026 midterms approaching, any aggressive rate cuts would invite accusations of election-year manipulation, making the Fed cautious about aggressive easing.
 
-Current market pricing suggests traders believe the probability of holding at 1.75% is remote, implying confidence in a lower terminal rate. However, the 0.8% odds leave room for tail-risk scenarios where inflation proves more durable than consensus expects. For traders, this is a contrarian bet requiring strong conviction that the inflation story will reverse, contradicting virtually all major forecasters and the Fed's own projections.
+Key catalysts include Q1 2025 inflation data (January-February CPI/PCE), the first FOMC decision of 2025 in January, and quarterly GDP revisions throughout the year. Any recession declaration would shift odds dramatically, but the bar is exceptionally high given labor market resilience. Traders should monitor fed funds futures curves through spring 2025 and watch for any shift in Fed communication toward accommodative policy; at 0.7%, this bet is pricing an outlier scenario requiring genuine crisis conditions.
 
 ## Related Markets
 
-- [Will Judy Shelton be confirmed as Fed Chair?](/odds/will-judy-shelton-be-confirmed-as-fed-chair) — 1% YES
-- [Will Pete Buttigieg win the 2028 Democratic presidential nomination?](/odds/will-pete-buttigieg-win-the-2028-democratic-presidential-nomination) — 4% YES
 - [Will JD Vance win the 2028 US Presidential Election?](/odds/will-jd-vance-win-the-2028-us-presidential-election) — 18% YES
+- [Will Pete Buttigieg win the 2028 Democratic presidential nomination?](/odds/will-pete-buttigieg-win-the-2028-democratic-presidential-nomination) — 4% YES
+- [Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?](/odds/will-amanda-anisimova-be-the-2026-womens-wimbledon-winner) — 5% YES
 
 ## Frequently Asked Questions
 
-### What specific inflation level would most likely push the Fed to hold rates at 1.75% through end-2026?
+### What would need to happen for the 1.75% target to actually occur by year-end 2026?
 
-Sustained headline CPI above 3.5% and core CPI above 3% would likely keep the Fed on hold, but this scenario is priced in at less than 1% probability, suggesting markets view persistent high inflation as extremely unlikely.
+The Fed would need to cut rates by roughly 175 basis points from current levels, requiring either a severe recession with unemployment above 6%, a deflationary shock, or financial system instability. This is only feasible if major economic deterioration begins in 2025 and forces emergency-level policy response.
 
-### How much impact would a 2025 recession have on this market's probability?
+### How does the political cycle affect this market's odds?
 
-A confirmed recession would almost certainly push the upper bound well below 1.75%, as the Fed would prioritize supporting employment and growth; even a mild slowdown with 4.5%+ unemployment would significantly increase the odds of multiple cuts before December 2026.
+The 2026 midterms create political pressure against aggressive rate cuts, making the Fed more cautious about dramatic easing to avoid accusations of election manipulation. This structural bias toward holding/modest cuts actually makes hitting 1.75% harder, not easier.
 
-### Why is this market trading at such extreme odds despite inflation remaining above the Fed's 2% target?
+### Which single economic data point would most shift this market if released unexpectedly?
 
-The Fed has signaled
+An unemployment spike to 5%+ or a recession announcement would immediately raise odds significantly, while sticky inflation data above 3% core PCE would keep odds suppressed near current levels.
 
 ## Learn More
 

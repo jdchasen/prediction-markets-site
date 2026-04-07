@@ -3,7 +3,7 @@ title: "Will Yu Deng win the 2026 Fields Medal?"
 description: "Will Yu Deng win the 2026 Fields Medal? Odds: 49.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Yu Deng win the 2026 Fields Medal?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-07
 expiryDate: 2026-07-30
 tags: ["politics", "polymarket"]

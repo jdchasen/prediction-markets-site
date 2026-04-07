@@ -3,7 +3,7 @@ title: "Will Andy Barr be the Republican nominee for Senate in Kentucky?"
 description: "Will Andy Barr be the Republican nominee for Senate in Kentucky? Odds: 61.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Andy Barr be the Republican nominee for Senate in Kentucky?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-07
 expiryDate: 2026-05-19
 tags: ["politics", "polymarket"]

@@ -3,7 +3,7 @@ title: "Will Microstrategy announce a Bitcoin purchase April 7-13?"
 description: "Will Microstrategy announce a Bitcoin purchase April 7-13? Odds: 96.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Microstrategy announce a Bitcoin purchase April 7-13?"
 category: "crypto"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-07
 expiryDate: 2026-04-14
 tags: ["bitcoin", "crypto", "polymarket"]

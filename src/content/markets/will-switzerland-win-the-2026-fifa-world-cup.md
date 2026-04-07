@@ -9,9 +9,8 @@ expiryDate: 2026-07-20
 tags: ["polymarket", "sports"]
 polymarketYes: 1.1
 polymarketNo: 99.0
-polymarketVolume: 9815603
+polymarketVolume: 9919554
 polymarketUrl: "https://polymarket.com/event/will-switzerland-win-the-2026-fifa-world-cup"
-analysisDate: 2026-04-07
 ---
 
 Switzerland faces overwhelming longshot odds at just over 1% to capture their first World Cup title in 2026, a probability that reflects both historical precedent and the current gulf in class between the Swiss and traditional powerhouses. This market matters as a barometer for how traders assess dark horse candidates in a tournament that will expand to 48 teams and be hosted across North America.

@@ -9,9 +9,8 @@ expiryDate: 2026-07-20
 tags: ["ai", "polymarket", "sports"]
 polymarketYes: 16.0
 polymarketNo: 84.0
-polymarketVolume: 9742287
+polymarketVolume: 9842921
 polymarketUrl: "https://polymarket.com/event/will-spain-win-the-2026-fifa-world-cup-963"
-analysisDate: 2026-04-07
 ---
 
 Spain's 16% implied probability to win the 2026 World Cup reflects a measured view of La Roja as a strong contender but not the favorite, positioned behind traditional powers like France, Brazil, and Argentina. This market matters now because Spain's young core is entering their prime years, and the next 18 months of qualifying and friendlies will reveal whether their 2024-2025 form represents a genuine dynasty in the making or simply a competitive cycle.

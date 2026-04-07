@@ -3,7 +3,7 @@ title: "Will FDP win the most seats in the 2026 Berlin state elections?"
 description: "Will FDP win the most seats in the 2026 Berlin state elections? Odds: 0.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will FDP win the most seats in the 2026 Berlin state elections?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-07
 expiryDate: 2026-09-20
 tags: ["elections", "politics", "polymarket"]

@@ -1,17 +1,16 @@
 ---
 title: "Will Juan Manuel Galán win the 1st round of the 2026 Colombian presidential election?"
-description: "Will Juan Manuel Galán win the 1st round of the 2026 Colombian presidential election? Odds: 0.7% YES on Polymarket. See live prices and trade this market."
+description: "Will Juan Manuel Galán win the 1st round of the 2026 Colombian presidential election? Odds: 0.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Juan Manuel Galán win the 1st round of the 2026 Colombian presidential election?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-04-07
 expiryDate: 2026-05-31
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 0.7
-polymarketNo: 99.3
-polymarketVolume: 97162
+polymarketYes: 0.5
+polymarketNo: 99.5
+polymarketVolume: 97262
 polymarketUrl: "https://polymarket.com/event/will-juan-manuel-galn-win-the-1st-round-of-the-2026-colombian-presidential-election"
-analysisDate: 2026-04-07
 ---
 
 The market assigns less than 1% probability to Juan Manuel Galán winning Colombia's presidential election outright in the first round—a signal that traders view him as a marginal candidate in a likely crowded 2026 field despite his family's political legacy as the son of assassinated presidential candidate Luis Carlos Galán.

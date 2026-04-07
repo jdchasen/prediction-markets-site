@@ -3,7 +3,7 @@ title: "Will Trump talk to Yoon Suk Yeol in April?"
 description: "Will Trump talk to Yoon Suk Yeol in April? Odds: 1.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Trump talk to Yoon Suk Yeol in April?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-07
 expiryDate: 2026-04-30
 tags: ["politics", "polymarket", "trump"]

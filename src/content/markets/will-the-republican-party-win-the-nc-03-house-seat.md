@@ -9,9 +9,8 @@ expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
 polymarketYes: 84.0
 polymarketNo: 16.0
-polymarketVolume: 9805
+polymarketVolume: 9815
 polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-nc-03-house-seat"
-analysisDate: 2026-04-07
 ---
 
 # NC-03 Republican House Seat Analysis

@@ -1,17 +1,16 @@
 ---
 title: "Will Scottish Conservatives win the most seats in the 2026 Scottish Parliament election?"
-description: "Will Scottish Conservatives win the most seats in the 2026 Scottish Parliament election? Odds: 0.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Scottish Conservatives win the most seats in the 2026 Scottish Parliament election? Odds: 0.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Scottish Conservatives win the most seats in the 2026 Scottish Parliament election?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-04-07
 expiryDate: 2026-05-07
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 0.5
-polymarketNo: 99.5
-polymarketVolume: 9696
+polymarketYes: 0.2
+polymarketNo: 99.8
+polymarketVolume: 9790
 polymarketUrl: "https://polymarket.com/event/will-scottish-conservatives-win-the-most-seats-in-the-2026-scottish-parliament-election"
-analysisDate: 2026-04-07
 ---
 
 The Scottish Conservatives face a structural headwind in the 2026 election, with current market pricing reflecting near-zero probability of a plurality win—a stark contrast to their historical dominance in Scottish politics. This assessment matters now because the next 18 months will determine whether the party can reverse a decade-long decline or faces a generational crisis of relevance north of the border.

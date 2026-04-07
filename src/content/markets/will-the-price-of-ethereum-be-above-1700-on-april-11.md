@@ -3,7 +3,7 @@ title: "Will the price of Ethereum be above $1,700 on April 11?"
 description: "Will the price of Ethereum be above $1,700 on April 11? Odds: 98.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the price of Ethereum be above $1,700 on April 11?"
 category: "crypto"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-07
 expiryDate: 2026-04-11
 tags: ["crypto", "ethereum", "polymarket"]

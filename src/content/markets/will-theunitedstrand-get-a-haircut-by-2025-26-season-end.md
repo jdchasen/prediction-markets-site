@@ -3,7 +3,7 @@ title: "Will TheUnitedStrand get a haircut by 2025-26 season end?"
 description: "Will TheUnitedStrand get a haircut by 2025-26 season end? Odds: 6.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will TheUnitedStrand get a haircut by 2025-26 season end?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-07
 expiryDate: 2026-05-25
 tags: ["ai", "politics", "polymarket"]

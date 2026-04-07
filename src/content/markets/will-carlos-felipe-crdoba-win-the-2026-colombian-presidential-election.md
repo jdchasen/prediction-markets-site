@@ -1,17 +1,16 @@
 ---
 title: "Will Carlos Felipe Córdoba win the 2026 Colombian presidential election?"
-description: "Will Carlos Felipe Córdoba win the 2026 Colombian presidential election? Odds: 0.3% YES on Polymarket. See live prices and trade this market."
+description: "Will Carlos Felipe Córdoba win the 2026 Colombian presidential election? Odds: 0.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Carlos Felipe Córdoba win the 2026 Colombian presidential election?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-04-07
 expiryDate: 2026-06-21
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 0.3
+polymarketYes: 0.4
 polymarketNo: 99.7
-polymarketVolume: 98360
+polymarketVolume: 98560
 polymarketUrl: "https://polymarket.com/event/will-carlos-felipe-crdoba-win-the-2026-colombian-presidential-election"
-analysisDate: 2026-04-07
 ---
 
 The market shows extreme skepticism about Carlos Felipe Córdoba's presidential prospects, pricing him at near-zero odds for Colombia's 2026 election, reflecting his lack of national recognition and organizational infrastructure in a country where traditional party structures and established politicians still dominate electoral politics.

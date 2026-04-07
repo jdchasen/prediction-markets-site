@@ -3,7 +3,7 @@ title: "Will Solana reach $130 in April?"
 description: "Will Solana reach $130 in April? Odds: 1.6% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Solana reach $130 in April?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-07
 expiryDate: 2026-05-01
 tags: ["politics", "polymarket"]

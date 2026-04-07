@@ -3,7 +3,7 @@ title: "Will DeMar DeRozan win the 2025–2026 NBA Clutch Player of the Year?"
 description: "Will DeMar DeRozan win the 2025–2026 NBA Clutch Player of the Year? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will DeMar DeRozan win the 2025–2026 NBA Clutch Player of the Year?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-07
 expiryDate: 2026-06-30
 tags: ["polymarket", "sports"]

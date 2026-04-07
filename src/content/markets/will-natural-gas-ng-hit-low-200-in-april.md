@@ -11,7 +11,6 @@ polymarketYes: 4.2
 polymarketNo: 95.8
 polymarketVolume: 9859
 polymarketUrl: "https://polymarket.com/event/will-ng-dip-to-2-00-in-april-2026"
-analysisDate: 2026-04-07
 ---
 
 # Natural Gas April Low Analysis

@@ -11,7 +11,6 @@ polymarketYes: 8.0
 polymarketNo: 92.0
 polymarketVolume: 9784
 polymarketUrl: "https://polymarket.com/event/milei-out-as-president-of-argentina-before-2027"
-analysisDate: 2026-04-07
 ---
 
 # Argentina's Milei Presidency: An 8% Removal Risk Through 2026

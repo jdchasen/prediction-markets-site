@@ -9,9 +9,8 @@ expiryDate: 2026-04-30
 tags: ["politics", "polymarket"]
 polymarketYes: 95.5
 polymarketNo: 4.5
-polymarketVolume: 9824
+polymarketVolume: 9839
 polymarketUrl: "https://polymarket.com/event/will-the-weeknd-have-the-second-greatest-number-of-monthly-spotify-listeners-this-month-518"
-analysisDate: 2026-04-07
 ---
 
 # Analysis: The Weeknd Spotify Listeners Market

@@ -3,7 +3,7 @@ title: "US-Iran nuclear deal by June 30?"
 description: "US-Iran nuclear deal by June 30? Odds: 27.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "US-Iran nuclear deal by June 30?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-07
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]

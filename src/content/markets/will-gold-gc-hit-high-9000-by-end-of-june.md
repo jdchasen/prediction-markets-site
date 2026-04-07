@@ -8,10 +8,9 @@ lastUpdated: 2026-04-07
 expiryDate: 2026-06-30
 tags: ["finance", "polymarket"]
 polymarketYes: 1.5
-polymarketNo: 98.6
-polymarketVolume: 98088
+polymarketNo: 98.5
+polymarketVolume: 98095
 polymarketUrl: "https://polymarket.com/event/will-gold-gc-hit-high-9000-by-end-of-june"
-analysisDate: 2026-04-07
 ---
 
 The market pricing gold futures at a mere 1.5% chance of reaching $9,000 by June 2026 reflects extreme skepticism about a rally that would require the precious metal to more than triple from current levels around $2,650. This matters as a gauge of tail-risk sentiment around inflation expectations, dollar collapse scenarios, and geopolitical crisis hedging over the next 18 months.

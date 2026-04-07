@@ -9,45 +9,46 @@ expiryDate: 2026-12-31
 tags: ["economics", "federal-reserve", "interest-rates", "polymarket"]
 polymarketYes: 0.4
 polymarketNo: 99.6
-polymarketVolume: 987760
+polymarketVolume: 997763
 polymarketUrl: "https://polymarket.com/event/will-9-fed-rate-cuts-happen-in-2026"
+analysisDate: 2026-04-07
 ---
 
-The market assigns virtually no probability to nine Fed rate cuts occurring in 2026, reflecting expectations that such aggressive easing would require an economic catastrophe far beyond current baseline forecasts.
+The market pricing near-zero odds for nine Fed rate cuts in 2026 reflects extreme skepticism that the Federal Reserve would deliver the equivalent of 225 basis points in easing over a single calendar year, a pace historically associated only with severe recessions or financial crises. With the federal funds rate currently in the 4.25-4.50% range as of early 2025, nine cuts would bring rates close to zero, a scenario traders view as extraordinarily unlikely absent catastrophic economic deterioration.
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.4% | 99.6% | $987K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.4% | 99.6% | $998K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The bear case against nine cuts is straightforward: this would require 225 basis points of easing in a single year, a pace only seen during severe recessions like 2008 or the COVID crisis. Even if the Fed cuts rates to 3.5-4% by early 2026 (already aggressive), delivering nine additional cuts would push rates toward zero or negative territory, implying a full-blown financial crisis or depression. Current economic fundamentals don't support this scenario—Q4 2024 GDP growth remains positive, unemployment sits near historic lows around 4%, and core PCE inflation, while elevated, shows no signs of deflationary collapse. The December 2024 FOMC projections indicated only modest easing through 2025, with the dot plot suggesting a terminal rate well above zero.
+The bull case for this outcome requires a severe economic shock materializing in 2025 or early 2026—think unemployment spiking above 6-7%, core CPI deflating below 1%, or a banking crisis forcing emergency action. The Fed cut rates by 225 basis points in just four months during the 2007-2008 financial crisis and took the funds rate to zero during COVID-19, establishing precedent for aggressive easing during genuine emergencies. For this market to hit, we'd likely need to see deeply negative GDP prints in Q1 and Q2 2026, with the Fed implementing multiple 50-basis-point cuts rather than the standard 25. The bear case is simply that the U.S. economy would need to experience unprecedented disaster for such extreme monetary policy, and even during the 2008 crisis, the Fed only cut seven times that calendar year, not nine.
 
-The bull case requires envisioning a severe economic shock materializing in late 2025 or early 2026. This could stem from a banking crisis, debt market dislocation, housing market collapse, or external shock that forces emergency Fed action. For nine cuts to occur, we'd likely need to see unemployment spike above 7%, CPI fall into negative territory, and financial conditions tighten dramatically. The Fed would need to begin 2026 with rates high enough (around 4.5-5%) to accommodate nine cuts without hitting the zero lower bound, then execute cuts at every meeting plus potentially emergency inter-meeting cuts.
+Critical catalysts include the January 31, 2025 FOMC decision and subsequent meetings on March 19, May 7, June 18, September 17, November 5, and December 17, 2025—the Fed's current trajectory heading into 2026 will establish baseline expectations. Monthly CPI releases (next major one February 12, 2025) and nonfarm payrolls reports (next on February 7) will determine whether the economy remains resilient or begins deteriorating. The January 2026 FOMC statement will be particularly telling, as it would need to signal an emergency cutting cycle for nine cuts to fit into the remaining eleven months.
 
-Key catalysts to monitor include the January 29, 2025 FOMC decision and March 2025 Summary of Economic Projections, which will clarify the rate path into 2026. Monthly CPI and employment reports throughout 2025—particularly the January 10 December jobs report and February 12 January CPI—will signal whether economic deterioration is accelerating. Any financial stability events, corporate earnings warnings suggesting recession, or housing market data showing steep declines would increase this market's probability from essentially zero. The March and June 2025 FOMC meetings will be critical for assessing whether the Fed sees enough weakness to justify sustained aggressive cutting.
+Traders should monitor the 2-year/10-year Treasury yield curve for inversion deepening, unemployment rate trajectory in monthly BLS releases, and any signs of financial system stress in bank earnings throughout 2025. The Fed's Summary of Economic Projections at the March 19 and June 18, 2025 FOMC meetings will reveal policymaker expectations for the 2026 rate path. Real-time recession indicators like the Sahm Rule triggering (unemployment rising 0.5 percentage points above its 12-month low) or three consecutive months of negative nonfarm payroll prints would dramatically shift probabilities, though even then, nine cuts represents an extreme tail scenario.
 
 ## Related Markets
 
 - [Will the Fed increase interest rates by 50+ bps after the June 2026 meeting?](/odds/will-the-fed-increase-interest-rates-by-50-bps-after-the-june-2026-meeting) — 1% YES
-- [Will the Fed decrease interest rates by 25 bps after the June 2026 meeting?](/odds/will-the-fed-decrease-interest-rates-by-25-bps-after-the-june-2026-meeting) — 8% YES
 - [Will 5 Fed rate cuts happen in 2026?](/odds/will-5-fed-rate-cuts-happen-in-2026) — 2% YES
+- [Will the Fed decrease interest rates by 25 bps after the June 2026 meeting?](/odds/will-the-fed-decrease-interest-rates-by-25-bps-after-the-june-2026-meeting) — 8% YES
 
 ## Frequently Asked Questions
 
-### What would the federal funds rate need to be at the start of 2026 for nine cuts to be possible?
+### Has the Federal Reserve ever implemented nine rate cuts in a single calendar year?
 
-The Fed would need to begin 2026 with rates around 4.5-5% to deliver nine 25-basis-point cuts (totaling 225 bps) without hitting zero. If rates start 2026 below 4%, nine cuts become mathematically impossible without negative rates.
+No—the Fed's most aggressive easing year was 2001 with eleven cuts, but the closest modern comparison is seven cuts in 2008 during the financial crisis, making nine cuts extremely rare even during severe downturns.
 
-### Has the Fed ever executed nine or more rate cuts in a single calendar year?
+### What unemployment rate would typically trigger nine Fed rate cuts in one year?
 
-Yes, but only during severe crises—the Fed cut rates 11 times in 2001 (dot-com bust and 9/11) and 10 times in 2008 (financial crisis). Both instances involved deep recessions and emergency monetary policy responses.
+Historical precedent suggests unemployment would need to surge past 7% with accelerating momentum, coupled with deflation risks—significantly worse than typical recession levels of 5-6% unemployment that trigger standard easing cycles.
 
-### Could the Fed implement 50 basis point cuts to accelerate easing without nine separate meetings?
+### Could the Fed execute nine cuts even if it wanted to without hitting the zero lower bound?
 
-While 50bp cuts are possible during emergencies, the market specifies nine cuts, not 225bp of total easing, so larger individual cuts wouldn't satisfy the resolution criteria unless the Fed held nine separate cutting decisions.
+Starting from approximately 4.25-4.50% in early 2025, nine 25-basis-point cuts would bring rates to roughly 2%, leaving some room above zero, though such a path would signal expectations of depression-level economic conditions.
 
 ## Learn More
 

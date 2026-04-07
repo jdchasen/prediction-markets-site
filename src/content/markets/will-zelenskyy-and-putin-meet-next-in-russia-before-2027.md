@@ -11,7 +11,6 @@ polymarketYes: 1.1
 polymarketNo: 98.9
 polymarketVolume: 98338
 polymarketUrl: "https://polymarket.com/event/will-zelenskyy-and-putin-meet-next-in-russia"
-analysisDate: 2026-04-07
 ---
 
 Traders are pricing an extremely remote 1.1% chance that Ukrainian President Zelenskyy would travel to Russian soil for a meeting with Putin before 2027, reflecting the profound diplomatic impasse and security risks that make such a scenario nearly unthinkable under current conditions.

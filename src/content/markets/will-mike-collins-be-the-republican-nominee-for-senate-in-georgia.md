@@ -1,17 +1,16 @@
 ---
 title: "Will Mike Collins be the Republican nominee for Senate in Georgia?"
-description: "Will Mike Collins be the Republican nominee for Senate in Georgia? Odds: 82.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Mike Collins be the Republican nominee for Senate in Georgia? Odds: 81.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Mike Collins be the Republican nominee for Senate in Georgia?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-04-07
 expiryDate: 2026-05-19
 tags: ["politics", "polymarket"]
-polymarketYes: 82.5
-polymarketNo: 17.5
-polymarketVolume: 9858
+polymarketYes: 81.5
+polymarketNo: 18.5
+polymarketVolume: 9875
 polymarketUrl: "https://polymarket.com/event/will-mike-collins-be-the-republican-nominee-for-senate-in-georgia"
-analysisDate: 2026-04-07
 ---
 
 # Republican Senate Nominee Market: Mike Collins Analysis

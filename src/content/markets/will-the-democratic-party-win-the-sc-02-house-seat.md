@@ -11,7 +11,6 @@ polymarketYes: 14.5
 polymarketNo: 85.5
 polymarketVolume: 9741
 polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-sc-02-house-seat"
-analysisDate: 2026-04-07
 ---
 
 # SC-02 Democratic Victory Odds: 14.5% and Falling

@@ -3,7 +3,7 @@ title: "Will Iran strike the United Kingdom by April 30, 2026?"
 description: "Will Iran strike the United Kingdom by April 30, 2026? Odds: 3.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Iran strike the United Kingdom by April 30, 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-07
 expiryDate: 2026-04-30
 tags: ["politics", "polymarket"]
