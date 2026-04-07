@@ -4,50 +4,51 @@ description: "Will the Fed increase interest rates by 50+ bps after the June 202
 marketQuestion: "Will the Fed increase interest rates by 50+ bps after the June 2026 meeting?"
 category: "economics"
 status: "active"
-lastUpdated: 2026-04-06
+lastUpdated: 2026-04-07
 expiryDate: 2026-06-17
 tags: ["economics", "federal-reserve", "interest-rates", "polymarket"]
 polymarketYes: 0.8
 polymarketNo: 99.2
-polymarketVolume: 975800
+polymarketVolume: 979933
 polymarketUrl: "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-50-bps-after-the-june-2026-meeting"
+analysisDate: 2026-04-07
 ---
 
-The market assigns negligible probability to a dramatic Fed pivot toward aggressive rate hikes by mid-2026, reflecting expectations that inflation will remain controlled and economic conditions won't warrant emergency tightening measures. This matters because a 50+ basis point increase would signal either a severe inflation resurgence or economic overheating that current forecasts don't anticipate.
+The market assigns less than 1% probability to a 50+ basis point rate hike following the June 2026 FOMC meeting, reflecting widespread expectation that the Fed's tightening cycle will be long finished by mid-2026 and the central bank will either be holding steady or cutting rates by that point.
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.8% | 99.2% | $962K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.8% | 99.2% | $980K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The bull case for a large rate hike centers on inflation reigniting through supply shocks, geopolitical disruptions, or fiscal stimulus overheating the economy. If CPI readings in early-to-mid 2026 consistently exceed 4-5% after the Fed has already cut rates, panic among policymakers could force their hand. A wage-price spiral taking hold despite earlier tightening, or energy markets spiking due to Middle East conflicts or climate events, would create conditions where the FOMC might need to shock markets with aggressive action. The February and March 2026 CPI releases (typically published mid-month) would be critical indicators, as would NFP reports showing persistent wage growth above 5% annually.
+The bull case for a dramatic rate increase in mid-2026 requires a severe economic scenario: a resurgence of inflation in 2025-2026 despite current Fed policy, potentially driven by supply shocks, wage-price spirals, or fiscal stimulus that reignites demand. Such aggressive action would only occur if core PCE inflation rebounds above 4-5% and remains stubbornly elevated through early 2026, forcing the Fed to shock markets with emergency tightening. This would represent a catastrophic policy failure where earlier rate cuts proved premature and inflation expectations became unanchored. The last time the Fed raised rates by 50+ bps was in May 2022 during the initial inflation crisis.
 
-The bear case, which the market heavily favors, assumes the Fed's 2022-2023 tightening cycle successfully contained inflation without requiring future emergency measures. By June 2026, the expectation is that the Fed will have already navigated to a neutral or accommodative stance with CPI anchored near the 2% target. Historical precedent supports this view—50+ basis point moves are reserved for crises, and the Fed hasn't implemented such increases outside the 2022 emergency period since the 1980s. The more likely scenario involves quarter-point adjustments or holds as the economy normalizes.
+The bear case—and consensus view—recognizes that June 2026 sits roughly two and a half years out, giving the Fed ample time to achieve its 2% inflation target through current policy. The December 2024 CPI showing continued disinflation and softening labor markets (November NFP at 227K jobs) support a path toward rate cuts beginning in 2024 or 2025. Historical patterns show the Fed typically moves to neutral or accommodative policy within 18-24 months of inflation peaking. For rates to rise sharply in mid-2026, we'd need to see the entire 2024-2025 FOMC meeting sequence produce policy errors of historic magnitude.
 
-Key catalysts include the January 2026 CPI report (released February 12, 2026), March 2026 FOMC meeting minutes, and Q1 2026 GDP estimates (released April 30, 2026). Traders should monitor the February and May 2026 NFP reports for labor market overheating signs. Any FOMC member speeches in Q1 2026 suggesting concern about inflation persistence would be the earliest warning signal. The April 2026 FOMC meeting (April 28-29) could preview June's decision if economic data deteriorates substantially, though even then, consecutive 25bp hikes remain more probable than a single 50bp jump.
+Key catalysts include the January 15, 2025 CPI release, which will set the tone for Fed policy trajectory through Q1, and the January 28-29, 2025 FOMC meeting where updated dot plots will reveal committee expectations for 2025-2026. Monthly CPI and NFP data throughout 2025 will be critical—sustained readings above 3.5% core inflation or payroll gains consistently exceeding 300K would gradually increase this market's probability. The Fed's March 2025 Summary of Economic Projections will provide the first detailed look at whether policymakers see any scenario requiring rate increases beyond 2024. Traders should monitor the 5-year, 5-year forward inflation expectation rate; if this breakeven measure rises above 3%, it signals markets anticipate policy failure requiring emergency tightening.
 
 ## Related Markets
 
 - [Will 9 Fed rate cuts happen in 2026?](/odds/will-9-fed-rate-cuts-happen-in-2026) — 0% YES
-- [Will annual inflation increase by 2.2% in March?](/odds/will-annual-inflation-increase-by-22-in-march) — 0% YES
-- [Will the Fed decrease interest rates by 50+ bps after the July 2026 meeting?](/odds/will-the-fed-decrease-interest-rates-by-50-bps-after-the-july-2026-meeting) — 2% YES
+- [Will 5 Fed rate cuts happen in 2026?](/odds/will-5-fed-rate-cuts-happen-in-2026) — 2% YES
+- [Will the Fed decrease interest rates by 25 bps after the June 2026 meeting?](/odds/will-the-fed-decrease-interest-rates-by-25-bps-after-the-june-2026-meeting) — 8% YES
 
 ## Frequently Asked Questions
 
-### What historical precedents exist for the Fed raising rates by 50+ basis points at a single meeting?
+### What would need to happen economically for the Fed to raise rates by 50+ basis points in June 2026?
 
-The Fed implemented 50bp and 75bp hikes during 2022's inflation crisis, but such moves are extremely rare outside acute emergencies. Before 2022, you'd need to look back to the early 1980s Volcker era to find comparable aggressive single-meeting increases.
+Core PCE inflation would need to reaccelerate to 4-5%+ territory and remain there through Q1 2026, combined with extremely tight labor markets showing wage growth above 5-6%, creating a second inflation crisis that previous Fed actions failed to contain.
 
-### Would a 50bp hike require economic data to deteriorate gradually or would it need a sudden shock?
+### How does this market differ from smaller rate increase scenarios at the June 2026 meeting?
 
-A 50bp hike would almost certainly require a sudden shock or crisis scenario—gradual deterioration typically results in 25bp increments. Think oil embargo, financial crisis, or inflation suddenly jumping 2+ percentage points in consecutive months.
+A 50+ bps hike represents emergency-level tightening reserved for crisis situations, whereas 25 bps increases are standard policy adjustments. The extreme odds reflect that such aggressive action would only occur if the Fed faced catastrophic inflation expectations becoming unanchored.
 
-### If the Fed cuts rates multiple times before June 2026, does that make a subsequent 50bp hike more or less likely?
+### What historical precedent exists for the Fed hiking rates this aggressively so late in a cycle?
 
-Prior cuts would slightly increase the probability since the Fed would have more room to hike aggressively if inflation resurged, but it also suggests they successfully managed the economic cycle, making emergency tightening less necessary overall.
+The Fed last raised rates by 50+ bps in 2022-2023 during the initial inflation shock, but by mid-cycle typically shifts to 25 bps increments or pauses. A June 2026 jumbo hike would be unprecedented in modern Fed history as it would indicate complete policy failure over a multi-year period.
 
 ## Learn More
 

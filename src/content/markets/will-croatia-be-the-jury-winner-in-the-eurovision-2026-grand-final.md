@@ -3,8 +3,8 @@ title: "Will Croatia be the Jury Winner in the Eurovision 2026 Grand Final?"
 description: "Will Croatia be the Jury Winner in the Eurovision 2026 Grand Final? Odds: 0.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Croatia be the Jury Winner in the Eurovision 2026 Grand Final?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-06
+status: "settled"
+lastUpdated: 2026-04-07
 expiryDate: 2026-05-16
 tags: ["politics", "polymarket"]
 polymarketYes: 0.7

@@ -4,16 +4,17 @@ description: "Will DeMar DeRozan win the 2025–2026 NBA Clutch Player of the Ye
 marketQuestion: "Will DeMar DeRozan win the 2025–2026 NBA Clutch Player of the Year?"
 category: "sports"
 status: "active"
-lastUpdated: 2026-04-06
+lastUpdated: 2026-04-07
 expiryDate: 2026-06-30
 tags: ["polymarket", "sports"]
 polymarketYes: 0.1
 polymarketNo: 99.9
 polymarketVolume: 9937
 polymarketUrl: "https://polymarket.com/event/nba-2025-26-clutch-player-of-the-year-demar-derozan"
+analysisDate: 2026-04-07
 ---
 
-# DeMar DeRozan 2025-2026 Clutch Player of the Year Analysis
+# DeMar DeRozan 2025–2026 Clutch Player of the Year Analysis
 
 ## Current Odds
 
@@ -23,33 +24,29 @@ polymarketUrl: "https://polymarket.com/event/nba-2025-26-clutch-player-of-the-ye
 
 ## Market Analysis
 
-At 0.1%, this market reflects near-zero confidence in DeRozan winning an individual award that typically goes to players on championship or deep playoff teams. The Clutch Player of the Year award is rarely given to mid-tier performers, making this primarily a bet on both DeRozan's individual excellence and his team's postseason success. Current pricing suggests the market views this outcome as statistical noise rather than a realistic possibility.
+DeRozan's 0.1% probability reflects deep skepticism about his ability to win an award that hinges on late-game heroics and high-pressure moments—a metric where younger, more explosive scorers typically dominate. This market matters now because the 2025–2026 season is already underway, and DeRozan's early performance in clutch situations will establish whether he can sustain the mid-range scoring prowess that defined his career into high-leverage contexts. With the Chicago Bulls competing in a weakened Eastern Conference, ballot positioning could shift if DeRozan emerges as the difference-maker in playoff runs or tight regular-season moments.
 
-The bull case hinges on DeRozan's documented clutch credentials and potential playoff trajectory. DeRozan has consistently ranked among league leaders in fourth-quarter scoring and clutch time performance metrics, and if the Chicago Bulls make an unexpected Finals run or deep conference finals appearance with DeRozan as the primary closer, award voters could recognize his high-leverage contributions. The 2025-26 season represents a potential opportunity window if the Bulls' roster configuration—assuming Nikola Vucevic remains healthy and another star-caliber acquisition materializes—elevates them to contention. DeRozan's mid-range mastery becomes increasingly valuable in playoff basketball where three-point variance matters less.
+The bull case rests on DeRozan's proven mid-range mastery and reputation as a closer—he's historically performed well in fourth-quarter situations, and if the Bulls make a playoff push, his cold-blooded late-game iso scoring could stand out against guards relying on three-point shooting. Chicago's roster lacks another closer if Coby White struggles with pressure, meaning DeRozan could accumulate clutch minutes and high-leverage scoring opportunities. His mid-range efficiency (typically 45%+ from two in isolation) remains elite, and clutch metrics sometimes reward execution over volume. Additionally, if narrative momentum builds around a surprising Bulls playoff run, voter recency bias could elevate his candidacy.
 
-The bear case is overwhelming. DeRozan has never won major individual awards despite elite clutch credentials, and the Bulls have underperformed expectations for two consecutive seasons. The Clutch Player of the Year typically goes to players on 60+ win teams or Finals participants, and Chicago's current trajectory doesn't suggest that caliber of success. Additionally, even if the Bulls do make a Finals run, award voters are more likely to recognize a younger star (like a potential Lamelo Ball or Paolo Banchero in their prime) or the team's best overall player rather than a secondary contributor. DeRozan's scoring volume and usage rate would need to significantly increase from current levels while maintaining efficiency—unlikely given the team's likely roster construction.
+However, the bear case is formidable. Clutch Player of the Year almost exclusively goes to high-volume three-point shooters or explosive perimeter scorers (Jamal Murray, Damian Lillard types), and DeRozan's mid-range isolation game falls out of favor with modern award voters. At 36 years old in the 2025–2026 season, DeRozan faces durability concerns; any injury limiting his fourth-quarter availability in crucial games eliminates his case entirely. The Bulls' likelihood of playoff contention remains modest given the East's depth, and without playoff success or a strong regular-season record, his clutch stats won't carry weight. Furthermore, younger competitors like Luka Dončić, Jayson Tatum, or Shai Gilgeous-Alexander will likely accumulate more eye-popping clutch moments.
 
-Key catalysts to monitor include the Bulls' performance in early 2026 (Jan-Feb) to assess playoff likelihood, any major roster moves at the February trade deadline, and DeRozan's clutch time metrics through March and April. His shooting efficiency in the final 24 games of the regular season will signal whether he's trending toward peak performance. If Chicago wins 55+ games and DeRozan averages 20+ points in clutch situations (within 5 points in final 5 minutes), probability could drift toward 0.5-1%. Current odds represent appropriate pessimism given award voting patterns.
+Watch for DeRozan's shooting efficiency in games decided by five points or fewer through March 2026—early data will reveal whether he's genuinely outperforming in pressure moments or matching his career trends. Monitor the Bulls' win-loss record; a sub-.500 season makes the award mathematically impossible regardless of individual performance. Key catalysts include Chicago's schedule against Eastern Conference contenders (December through February) and whether the team remains within playoff range by the March trade deadline. If DeRozan sustains 50%+ true shooting in clutch spots and the Bulls win 48+ games, his odds could drift to 0.5–1%, but current pricing reflects a rational consensus that his archetype doesn't win these awards.
 
 ## Related Markets
 
-- [Will Netherlands win the 2026 FIFA World Cup?](/odds/will-netherlands-win-the-2026-fifa-world-cup) — 3% YES
+- [Will Switzerland win the 2026 FIFA World Cup?](/odds/will-switzerland-win-the-2026-fifa-world-cup) — 1% YES
+- [Will Spain win the 2026 FIFA World Cup?](/odds/will-spain-win-the-2026-fifa-world-cup) — 16% YES
 - [Will the Dallas Stars win the 2026 NHL Stanley Cup?](/odds/will-the-dallas-stars-win-the-2026-nhl-stanley-cup) — 8% YES
-- [Will New England Patriots win the 2027 NFL AFC Championship?](/odds/will-new-england-patriots-win-the-2027-nfl-afc-championship) — 10% YES
 
 ## Frequently Asked Questions
 
-### Has DeRozan ever finished top-5 in Clutch Player of the Year voting despite his clutch performance stats?
+### What statistical threshold would materially shift DeRozan's probability upward?
 
-No documented evidence shows DeRozan as a serious finalist, suggesting voters weight playoff success and team record heavily despite individual clutch metrics favoring him historically.
+True shooting above 55% in games decided by five points or fewer, combined with the Bulls maintaining a top-8 Eastern Conference seed through January, could push odds to 0.5–1% as voters begin considering him a legitimate contender.
 
-### How much does a conference finals appearance vs. Finals appearance change the probability?
+### How much does the Bulls' playoff seeding matter versus DeRozan's individual clutch performance?
 
-Conference Finals might move odds to 0.3-0.5% if DeRozan is the clear closer; Finals appearance could reach 1-2%, but he'd still likely lose to the Finals-winning team's star player.
-
-### What specific clutch stat threshold would need to occur for this to become a 1%+ probability?
-
-DeRozan would need to average 25+ PPG on 50%+ FG in April-June 2026 while the Bulls win 58+ games and make the Finals as a #1-3 seed.
+It's heavily weighted—clutch player awards almost never go to players on sub-.500 teams or those outside the
 
 ## Learn More
 

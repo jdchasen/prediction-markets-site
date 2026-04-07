@@ -3,8 +3,8 @@ title: "Joe Kent charged by April 30?"
 description: "Joe Kent charged by April 30? Odds: 8.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Joe Kent charged by April 30?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-06
+status: "settled"
+lastUpdated: 2026-04-07
 expiryDate: 2026-04-30
 tags: ["politics", "polymarket"]
 polymarketYes: 8.0

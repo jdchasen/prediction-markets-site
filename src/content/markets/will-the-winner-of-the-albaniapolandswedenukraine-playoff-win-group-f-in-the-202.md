@@ -3,8 +3,8 @@ title: "Will the winner of the Albania/Poland/Sweden/Ukraine playoff win Group F
 description: "Will the winner of the Albania/Poland/Sweden/Ukraine playoff win Group F in the 2026 FIFA World Cup? Odds: 14.0% YES on Polymarket. See live prices and trade..."
 marketQuestion: "Will the winner of the Albania/Poland/Sweden/Ukraine playoff win Group F in the 2026 FIFA World Cup?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-04-06
+status: "settled"
+lastUpdated: 2026-04-07
 expiryDate: 2026-06-27
 tags: ["ai", "polymarket", "sports"]
 polymarketYes: 14.0

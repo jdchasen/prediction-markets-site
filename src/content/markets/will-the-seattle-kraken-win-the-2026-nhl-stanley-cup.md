@@ -3,8 +3,8 @@ title: "Will the Seattle Kraken win the 2026 NHL Stanley Cup?"
 description: "Will the Seattle Kraken win the 2026 NHL Stanley Cup? Odds: 0.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Seattle Kraken win the 2026 NHL Stanley Cup?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-04-06
+status: "settled"
+lastUpdated: 2026-04-07
 expiryDate: 2026-06-30
 tags: ["polymarket", "sports"]
 polymarketYes: 0.4

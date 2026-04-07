@@ -4,46 +4,51 @@ description: "Milei out as President of Argentina before 2027? Odds: 8.0% YES on
 marketQuestion: "Milei out as President of Argentina before 2027?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-04-06
+lastUpdated: 2026-04-07
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 8.0
 polymarketNo: 92.0
 polymarketVolume: 9784
 polymarketUrl: "https://polymarket.com/event/milei-out-as-president-of-argentina-before-2027"
+analysisDate: 2026-04-07
 ---
 
-# Milei's Presidential Tenure Under Pressure: A 7% Exit Probability Analysis
+# Argentina's Milei Presidency: An 8% Removal Risk Through 2026
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 7.1% | 92.9% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 8.0% | 92.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-At 7.1% implied probability, traders are pricing in a relatively low but non-trivial risk that Javier Milei loses the presidency before the end of 2026, reflecting confidence in his political survival but acknowledging real vulnerabilities in Argentina's volatile political environment. This low probability matters because it signals market participants believe Milei's libertarian coalition has stabilized enough to weather the remainder of his mandate, yet the odds aren't negligible—suggesting meaningful uncertainty about his ability to navigate economic reforms and maintain congressional support through 2026.
+The market prices Javier Milei's departure from Argentina's presidency before year-end 2026 at just 8%, reflecting trader confidence in his political survival despite significant economic and legislative headwinds. This low probability matters because Argentina's political history shows frequent presidential exits through both constitutional and extra-constitutional means, making even single-digit removal risks worth monitoring closely.
 
-The bull case for Milei's survival rests on his mandate renewal through the 2023 elections, his control of the executive branch's decree powers, and the weakness of fragmented opposition parties. Voters explicitly chose his radical agenda, inflation-fighting measures have gained traction (inflation fell from 254% in December 2023 toward lower single-digit monthly rates by late 2024), and his coalition holds sufficient congressional seats to prevent a formal no-confidence vote that would require a supermajority. The bear case, however, is substantial: Argentina's economy remains fragile with poverty near 40% despite stabilization efforts, provincial governors control significant political fiefdoms outside federal reach, labor unions maintain strike leverage, and Congress retains power to obstruct key legislation or force budget revisions. A severe recession or currency crisis between now and December 2026 could trigger political collapse, mass protests, or judicial pressure forcing resignation—scenarios Argentina has experienced multiple times in its recent history.
+The bull case for early removal centers on Argentina's economic crisis and Milei's legislative weakness. Inflation remains above 200% annually, the austere "shock therapy" policies have deepened recession, and Milei's La Libertad Avanza coalition controls roughly 38-40% of Congress—insufficient to pass major legislation without coalition partners. Street protests have intensified through 2024, and labor unrest could escalate if unemployment (currently ~14%) rises further. A severe economic deterioration or a sudden loss of Congressional allies could trigger either a constitutional removal attempt (unlikely given supermajority requirements) or sufficient political instability to force resignation. The 2025 midterm elections in October represent a critical test: losses could signal a 2027 primary challenge or embolden opposition-controlled provincial governors.
 
-Key catalysts include the 2025 legislative midterm elections (typically held in October, though exact dates vary), quarterly GDP data releases showing whether Milei's austerity program delivers growth or deepens recession, and the central bank's success in maintaining peso stability against persistent dollarization pressures. Congressional elections will determine whether Milei's coalition gains seats (bullish for continuation) or loses ground to Peronists or centrists (bearish). The 2026 budget passage deadline and any IMF agreement renegotiations will test whether his government can maintain fiscal discipline. Provincial governors, particularly from Buenos Aires (controlled by rival Sergio Massa), may escalate confrontations over federal revenue-sharing, creating pressure points for political instability.
+The bear case rests on Milei's political durability and lack of immediate removal mechanisms. Argentina's constitution requires a 2/3 Congressional supermajority for impeachment—the opposition controls Congress but lacks this threshold. While Milei's approval ratings have declined from 50% to mid-30s, they remain above the floor that typically triggers resignation pressure. His core libertarian base remains ideologically committed, and international creditors (IMF negotiations ongoing) prefer continuity to uncertainty. Removing him before 2026 would require either a constitutional coup (unthinkable for modern Argentine institutions), a voluntary resignation (unlikely given his ideological commitment), or a dramatic political realignment that currently shows no signs of forming.
 
-Traders should monitor inflation data (target is single-digit monthly rates by 2025), central bank foreign reserves (critical for peso defense), and approval ratings, which have oscillated between 30-50% depending on polling and economic conditions. Any major recession indicator, renewed capital flight, or breakdown of congressional alliances could rapidly reprrice this market upward. The 7.1% odds reflect a baseline assumption that Milei's economic team can thread a narrow needle—stabilizing without triggering a depression—and that institutional processes hold. That's a high bar in Argentine politics.
+Key catalysts to watch: the October 2025 midterms will reveal whether Milei's coalition can maintain legislative viability; any severe economic shock (peso collapse, debt restructuring failure) between now and Q2 2025 could accelerate removal pressure; and any major breakdown in IMF negotiations would undermine his core economic legitimacy. The market's 8% odds appear to underweight Argentina's historical volatility and overweight institutional inertia, suggesting moderate value exists on the YES side if economic data deteriorates sharply in early 2025.
 
 ## Related Markets
 
 - [Will JD Vance win the 2028 US Presidential Election?](/odds/will-jd-vance-win-the-2028-us-presidential-election) — 18% YES
 - [Will Pete Buttigieg win the 2028 Democratic presidential nomination?](/odds/will-pete-buttigieg-win-the-2028-democratic-presidential-nomination) — 4% YES
-- [Will Judy Shelton be confirmed as Fed Chair?](/odds/will-judy-shelton-be-confirmed-as-fed-chair) — 1% YES
+- [Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?](/odds/will-amanda-anisimova-be-the-2026-womens-wimbledon-winner) — 5% YES
 
 ## Frequently Asked Questions
 
-### What specific constitutional or legal mechanisms could remove Milei before 2027?
+### What's the most likely mechanism for Milei's removal if not through impeachment?
 
-Formal removal requires a two-thirds congressional majority (unlikely given current seat distribution), but pressure mechanisms include impeachment, a successful no-confidence vote if support erodes significantly, or resignation under intense economic/political crisis similar to Argentina's 2001-2002 episodes.
+Voluntary resignation under intense economic/social pressure remains the primary non-institutional pathway, though it would require economic collapse beyond current consensus forecasts and is unlikely given Milei's ideological rigidity.
 
-### How do October 2025 midterm elections affect this market's probability?
+### How much do the October 2025 midterms matter for this market?
 
-If Milei's coalition gains seats or holds steady, it signals voter support and reduces exit risk substantially, likely moving odds lower; a major loss would indicate political momentum shift toward opponents and could trigger repricing upward toward 10-15% or higher.
+Significantly—losses could force Milei into coalition negotiations that destabilize his government or signal an unraveling coalition, potentially doubling removal probability by late 2025 if results are poor.
+
+### Why hasn't Milei's declining approval rating already pushed odds higher?
+
+30-35% approval in Argentina doesn't trigger removal without either a supermajority-capable opposition (which doesn't exist) or voluntary resignation (which contradicts his ideological positioning), making institutional removal thresholds more relevant than popularity.
 

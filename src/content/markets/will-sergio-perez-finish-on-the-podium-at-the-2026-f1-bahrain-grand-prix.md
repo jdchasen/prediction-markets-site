@@ -3,8 +3,8 @@ title: "Will Sergio Perez finish on the podium at the 2026 F1 Bahrain Grand Prix
 description: "Will Sergio Perez finish on the podium at the 2026 F1 Bahrain Grand Prix? Odds: 51.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Sergio Perez finish on the podium at the 2026 F1 Bahrain Grand Prix?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-04-06
+status: "settled"
+lastUpdated: 2026-04-07
 expiryDate: 2026-04-19
 tags: ["ai", "polymarket", "sports"]
 polymarketYes: 51.0

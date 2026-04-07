@@ -4,14 +4,13 @@ description: "Will FDP win the most seats in the 2026 Berlin state elections? Od
 marketQuestion: "Will FDP win the most seats in the 2026 Berlin state elections?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-04-06
+lastUpdated: 2026-04-07
 expiryDate: 2026-09-20
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.4
-polymarketNo: 99.6
+polymarketNo: 99.7
 polymarketVolume: 9833
 polymarketUrl: "https://polymarket.com/event/will-fdp-win-the-most-seats-in-the-2026-berlin-state-elections"
-analysisDate: 2026-04-06
 ---
 
 # FDP's Long-Shot Bid for Berlin's Top Seat in 2026

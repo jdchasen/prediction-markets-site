@@ -3,8 +3,8 @@ title: "Will Norway win Group I in the 2026 FIFA World Cup?"
 description: "Will Norway win Group I in the 2026 FIFA World Cup? Odds: 21.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Norway win Group I in the 2026 FIFA World Cup?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-04-06
+status: "settled"
+lastUpdated: 2026-04-07
 expiryDate: 2026-06-27
 tags: ["polymarket", "sports"]
 polymarketYes: 21.5

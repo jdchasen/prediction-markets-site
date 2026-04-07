@@ -1,17 +1,16 @@
 ---
 title: "Will Linke win the most seats in the 2026 Berlin state elections?"
-description: "Will Linke win the most seats in the 2026 Berlin state elections? Odds: 9.0% YES on Polymarket. See live prices and trade this market."
+description: "Will Linke win the most seats in the 2026 Berlin state elections? Odds: 10.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Linke win the most seats in the 2026 Berlin state elections?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-04-06
+lastUpdated: 2026-04-07
 expiryDate: 2026-09-20
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 9.0
-polymarketNo: 91.0
-polymarketVolume: 9909
+polymarketYes: 10.5
+polymarketNo: 89.5
+polymarketVolume: 9929
 polymarketUrl: "https://polymarket.com/event/will-linke-win-the-most-seats-in-the-2026-berlin-state-elections"
-analysisDate: 2026-04-06
 ---
 
 # Berlin 2026 State Election: Die Linke Seat Plurality Analysis

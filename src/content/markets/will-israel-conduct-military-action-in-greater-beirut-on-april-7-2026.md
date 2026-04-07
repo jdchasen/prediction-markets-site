@@ -3,8 +3,8 @@ title: "Will Israel conduct military action in Greater Beirut on April 7, 2026?"
 description: "Will Israel conduct military action in Greater Beirut on April 7, 2026? Odds: 66.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Israel conduct military action in Greater Beirut on April 7, 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-06
+status: "settled"
+lastUpdated: 2026-04-07
 expiryDate: 2026-04-30
 tags: ["politics", "polymarket"]
 polymarketYes: 66.5

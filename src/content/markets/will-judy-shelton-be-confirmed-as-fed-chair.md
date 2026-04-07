@@ -3,8 +3,8 @@ title: "Will Judy Shelton be confirmed as Fed Chair?"
 description: "Will Judy Shelton be confirmed as Fed Chair? Odds: 1.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Judy Shelton be confirmed as Fed Chair?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-06
+status: "settled"
+lastUpdated: 2026-04-07
 expiryDate: 2026-10-31
 tags: ["ai", "federal-reserve", "politics", "polymarket"]
 polymarketYes: 1.4

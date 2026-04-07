@@ -1,17 +1,16 @@
 ---
 title: "Will Ana Paula Renault be in the top 3 of Big Brother Brasil 26?"
-description: "Will Ana Paula Renault be in the top 3 of Big Brother Brasil 26? Odds: 90.0% YES on Polymarket. See live prices and trade this market."
+description: "Will Ana Paula Renault be in the top 3 of Big Brother Brasil 26? Odds: 94.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Ana Paula Renault be in the top 3 of Big Brother Brasil 26?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-04-06
+lastUpdated: 2026-04-07
 expiryDate: 2026-04-30
 tags: ["politics", "polymarket"]
-polymarketYes: 90.0
-polymarketNo: 10.0
-polymarketVolume: 9719
+polymarketYes: 94.4
+polymarketNo: 5.6
+polymarketVolume: 9767
 polymarketUrl: "https://polymarket.com/event/will-ana-paula-renault-be-in-the-top-3-of-big-brother-brasil-26"
-analysisDate: 2026-04-06
 ---
 
 # Ana Paula Renault Top 3 Prediction: Big Brother Brasil 26

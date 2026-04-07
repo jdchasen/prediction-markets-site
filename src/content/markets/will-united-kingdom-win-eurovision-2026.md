@@ -3,8 +3,8 @@ title: "Will United Kingdom win Eurovision 2026?"
 description: "Will United Kingdom win Eurovision 2026? Odds: 0.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will United Kingdom win Eurovision 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-06
+status: "settled"
+lastUpdated: 2026-04-07
 expiryDate: 2026-05-16
 tags: ["politics", "polymarket"]
 polymarketYes: 0.7

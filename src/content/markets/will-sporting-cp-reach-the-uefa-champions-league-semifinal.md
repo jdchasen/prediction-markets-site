@@ -3,8 +3,8 @@ title: "Will Sporting CP reach the UEFA Champions League semifinal?"
 description: "Will Sporting CP reach the UEFA Champions League semifinal? Odds: 15.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Sporting CP reach the UEFA Champions League semifinal?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-04-06
+status: "settled"
+lastUpdated: 2026-04-07
 expiryDate: 2026-05-07
 tags: ["polymarket", "sports"]
 polymarketYes: 15.5

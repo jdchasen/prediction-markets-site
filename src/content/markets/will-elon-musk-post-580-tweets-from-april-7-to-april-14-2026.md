@@ -1,17 +1,16 @@
 ---
 title: "Will Elon Musk post 580+ tweets from April 7 to April 14, 2026?"
-description: "Will Elon Musk post 580+ tweets from April 7 to April 14, 2026? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
+description: "Will Elon Musk post 580+ tweets from April 7 to April 14, 2026? Odds: 0.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Elon Musk post 580+ tweets from April 7 to April 14, 2026?"
 category: "tech"
-status: "settled"
-lastUpdated: 2026-04-04
+status: "active"
+lastUpdated: 2026-04-07
 expiryDate: 2026-04-14
 tags: ["polymarket", "tech"]
-polymarketYes: 0.1
-polymarketNo: 99.9
-polymarketVolume: 9786
+polymarketYes: 0.2
+polymarketNo: 99.8
+polymarketVolume: 99826
 polymarketUrl: "https://polymarket.com/event/elon-musk-of-tweets-april-7-april-14-580plus"
-analysisDate: 2026-04-04
 ---
 
 # Elon Musk Tweet Volume Market Analysis
