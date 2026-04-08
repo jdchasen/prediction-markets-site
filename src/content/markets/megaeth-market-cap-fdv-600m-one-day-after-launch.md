@@ -3,8 +3,8 @@ title: "MegaETH market cap (FDV) >$600M one day after launch?"
 description: "MegaETH market cap (FDV) >$600M one day after launch? Odds: 72.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "MegaETH market cap (FDV) >$600M one day after launch?"
 category: "crypto"
-status: "active"
-lastUpdated: 2026-04-07
+status: "settled"
+lastUpdated: 2026-04-08
 expiryDate: 2026-07-01
 tags: ["crypto", "ethereum", "polymarket"]
 polymarketYes: 72.5

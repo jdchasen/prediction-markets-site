@@ -3,8 +3,8 @@ title: "Will Bryan Mbeumo be the top goal scorer in the 2025–26 English Premie
 description: "Will Bryan Mbeumo be the top goal scorer in the 2025–26 English Premier League season? Odds: 0.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Bryan Mbeumo be the top goal scorer in the 2025–26 English Premier League season?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-04-07
+status: "settled"
+lastUpdated: 2026-04-08
 expiryDate: 2026-05-27
 tags: ["polymarket", "sports"]
 polymarketYes: 0.2

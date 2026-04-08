@@ -3,8 +3,8 @@ title: "Will Natural Gas (NG) hit (LOW) $2.00 in April?"
 description: "Will Natural Gas (NG) hit (LOW) $2.00 in April? Odds: 4.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Natural Gas (NG) hit (LOW) $2.00 in April?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-07
+status: "settled"
+lastUpdated: 2026-04-08
 expiryDate: 2026-05-01
 tags: ["politics", "polymarket"]
 polymarketYes: 4.2

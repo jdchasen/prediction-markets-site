@@ -4,14 +4,13 @@ description: "Will Phil Weiser win the 2026 Colorado Governor Democratic primary
 marketQuestion: "Will Phil Weiser win the 2026 Colorado Governor Democratic primary election?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-04-07
+lastUpdated: 2026-04-08
 expiryDate: 2026-06-30
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 22.5
 polymarketNo: 77.5
-polymarketVolume: 9702
+polymarketVolume: 9791
 polymarketUrl: "https://polymarket.com/event/will-phil-weiser-win-the-2026-colorado-governor-democratic-primary-election"
-analysisDate: 2026-04-07
 ---
 
 # Analysis: Phil Weiser's 2026 Colorado Democratic Primary Prospects

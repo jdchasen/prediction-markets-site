@@ -3,8 +3,8 @@ title: "US x Iran ceasefire before Trump visits China?"
 description: "US x Iran ceasefire before Trump visits China? Odds: 64.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "US x Iran ceasefire before Trump visits China?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-07
+status: "settled"
+lastUpdated: 2026-04-08
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket", "trump"]
 polymarketYes: 64.0

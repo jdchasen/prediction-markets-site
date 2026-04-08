@@ -1,17 +1,16 @@
 ---
 title: "Will Alexis Hill win the 2026 Nevada Governor Democratic primary election?"
-description: "Will Alexis Hill win the 2026 Nevada Governor Democratic primary election? Odds: 5.0% YES on Polymarket. See live prices and trade this market."
+description: "Will Alexis Hill win the 2026 Nevada Governor Democratic primary election? Odds: 6.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Alexis Hill win the 2026 Nevada Governor Democratic primary election?"
 category: "politics"
-status: "settled"
-lastUpdated: 2026-04-07
+status: "active"
+lastUpdated: 2026-04-08
 expiryDate: 2026-06-09
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 5.0
-polymarketNo: 95.0
+polymarketYes: 6.5
+polymarketNo: 93.5
 polymarketVolume: 9691
 polymarketUrl: "https://polymarket.com/event/will-alexis-hill-win-the-2026-nevada-governor-democratic-primary-election"
-analysisDate: 2026-04-06
 ---
 
 # Alexis Hill 2026 Nevada Democratic Primary Analysis

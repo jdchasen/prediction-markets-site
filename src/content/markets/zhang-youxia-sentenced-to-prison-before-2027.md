@@ -3,8 +3,8 @@ title: "Zhang Youxia sentenced to prison before 2027?"
 description: "Zhang Youxia sentenced to prison before 2027? Odds: 9.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Zhang Youxia sentenced to prison before 2027?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-07
+status: "settled"
+lastUpdated: 2026-04-08
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 9.5

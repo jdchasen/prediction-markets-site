@@ -4,14 +4,13 @@ description: "Will Velichie win the most seats in the 2026 Bulgarian parliamenta
 marketQuestion: "Will Velichie win the most seats in the 2026 Bulgarian parliamentary election?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-04-07
+lastUpdated: 2026-04-08
 expiryDate: 2026-04-19
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.1
 polymarketNo: 99.9
-polymarketVolume: 9885
+polymarketVolume: 9921
 polymarketUrl: "https://polymarket.com/event/will-velichie-win-the-most-seats-in-the-2026-bulgarian-parliamentary-election"
-analysisDate: 2026-04-07
 ---
 
 # Velichie's 2026 Bulgarian Election Prospects

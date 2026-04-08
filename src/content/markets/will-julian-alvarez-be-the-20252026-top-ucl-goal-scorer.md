@@ -3,8 +3,8 @@ title: "Will Julian Alvarez be the 2025/2026 top UCL goal scorer?"
 description: "Will Julian Alvarez be the 2025/2026 top UCL goal scorer? Odds: 0.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Julian Alvarez be the 2025/2026 top UCL goal scorer?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-07
+status: "settled"
+lastUpdated: 2026-04-08
 expiryDate: 2026-05-30
 tags: ["politics", "polymarket"]
 polymarketYes: 0.9

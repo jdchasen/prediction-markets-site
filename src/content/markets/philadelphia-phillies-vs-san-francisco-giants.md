@@ -3,8 +3,8 @@ title: "Philadelphia Phillies vs. San Francisco Giants"
 description: "Philadelphia Phillies vs. San Francisco Giants Odds: 55.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Philadelphia Phillies vs. San Francisco Giants"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-07
+status: "settled"
+lastUpdated: 2026-04-08
 expiryDate: 2026-04-15
 tags: ["politics", "polymarket"]
 polymarketYes: 55.5

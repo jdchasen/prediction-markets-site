@@ -3,8 +3,8 @@ title: "UFC 327: Mateusz Gamrot vs. Esteban Ribovics (Lightweight, Prelims)"
 description: "UFC 327: Mateusz Gamrot vs. Esteban Ribovics (Lightweight, Prelims) Odds: 62.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "UFC 327: Mateusz Gamrot vs. Esteban Ribovics (Lightweight, Prelims)"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-07
+status: "settled"
+lastUpdated: 2026-04-08
 expiryDate: 2026-04-12
 tags: ["politics", "polymarket"]
 polymarketYes: 62.0

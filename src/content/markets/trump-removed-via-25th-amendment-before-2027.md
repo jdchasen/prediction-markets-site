@@ -3,8 +3,8 @@ title: "Trump removed via 25th Amendment before 2027?"
 description: "Trump removed via 25th Amendment before 2027? Odds: 11.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Trump removed via 25th Amendment before 2027?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-07
+status: "settled"
+lastUpdated: 2026-04-08
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket", "trump"]
 polymarketYes: 11.0

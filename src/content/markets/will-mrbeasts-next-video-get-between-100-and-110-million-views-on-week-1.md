@@ -1,56 +1,52 @@
 ---
 title: "Will MrBeast's next video get between 100 and 110 million views on week 1?"
-description: "Will MrBeast's next video get between 100 and 110 million views on week 1? Odds: 31.0% YES on Polymarket. See live prices and trade this market."
+description: "Will MrBeast's next video get between 100 and 110 million views on week 1? Odds: 0.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will MrBeast's next video get between 100 and 110 million views on week 1?"
 category: "politics"
-status: "settled"
-lastUpdated: 2026-04-04
+status: "active"
+lastUpdated: 2026-04-08
 expiryDate: 2026-05-31
 tags: ["politics", "polymarket"]
-polymarketYes: 31.0
-polymarketNo: 69.0
-polymarketVolume: 9824
+polymarketYes: 0.2
+polymarketNo: 99.8
+polymarketVolume: 98573
 polymarketUrl: "https://polymarket.com/event/will-mrbeasts-next-video-get-between-100-and-110-million-views-on-week-1-174"
-analysisDate: 2026-04-03
+analysisDate: 2026-04-08
 ---
 
-# MrBeast Video Views Prediction Analysis
+# MrBeast Video Views Prediction Market Analysis
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 31.0% | 69.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.2% | 99.8% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The current 31% probability suggests the market sees a meaningful but below-even chance that MrBeast's next video hits the 100-110 million view range in its first week, reflecting skepticism about this specific performance band despite his track record. This market matters because it tests whether bettors believe MrBeast has reached a plateau in viewership growth or whether his audience engagement remains volatile enough to produce outlier performance. The misclassification as "politics" appears to be a categorical error, but the market mechanics remain sound for analyzing content creator performance.
+This market is currently pricing in an extremely low probability of MrBeast's next video achieving 100-110 million views in its first week, reflecting either deep skepticism about the creator's near-term trajectory or a fundamental miscalibration of what constitutes realistic performance for his channel. The May 31, 2026 expiry gives roughly 18 months for the prediction to resolve, creating a long window where MrBeast's content strategy, audience engagement patterns, and competitive landscape could shift significantly. At 0.2% YES odds, the market is essentially saying this outcome is nearly impossible—a claim worth scrutinizing given MrBeast's historical volatility and the unpredictability of viral content performance.
 
-The bull case rests on MrBeast's consistent ability to generate massive viewership—several recent videos have exceeded 100 million views, and his production budgets and promotional strategies have only increased. If his next release targets the 110+ million range (which recent premium content has achieved), landing in the 100-110 band becomes plausible, particularly if the video appeals to his core demographic and drops during optimal engagement windows. The seven-month timeframe to expiry (through May 2026) gives the market time to resolve with multiple potential video releases, increasing the odds that at least one hits this specific range.
+The bull case rests on MrBeast's demonstrated ability to achieve extraordinary view counts on flagship videos and his track record of escalating production budgets and creative ambition. His most popular videos have exceeded 150-200 million views, meaning the 100-110 million band represents a below-average performance for his best content in absolute terms, though it's a tight range that requires precise execution. If MrBeast launches a major collaborative project, executes a record-breaking stunt, or pivots to a new format that resonates globally during this timeframe, hitting this specific corridor becomes plausible. Additionally, YouTube algorithm changes or shifts toward longer watch-time content could favor his production style. The bull argument essentially reduces to: one compelling video from one of the platform's biggest creators reaching this specific threshold shouldn't price at lottery odds.
 
-The bear case emphasizes that 100-110 million represents an oddly constrained range—either MrBeast's videos significantly underperform his recent ceiling (sub-100M, making them failures by his standards) or they exceed 110M (rendering them ineligible). His top performers now regularly surpass 150 million views, suggesting his audience has shifted toward either mega-viral content or more niche releases, with fewer videos landing in this middle ground. Algorithm saturation and subscriber fatigue could also push viewers toward competing creators, while changes to YouTube's recommendation system between now and May 2026 remain unpredictable.
+The bear case highlights the extreme specificity of the range (100-110M is only a 10% band) and the difficulty of predicting which individual video will hit it. Most of MrBeast's recent mega-videos either substantially exceed this range or fall short, making the narrow window a difficult target. Regulatory pressure on MrBeast's content (related to gambling features, giveaway mechanics, or other controversies), audience fatigue, or algorithmic deprioritization could suppress his performance ceiling. The 18-month timeline also spans potential platform shifts, competitive pressure from other creators, or changes in his own release schedule. Traders holding YES positions face execution risk: even if MrBeast posts a successful video with 140M views, they lose if the range doesn't match exactly.
 
-Key catalysts include MrBeast's upcoming content slate and any major announcements about his production company or expansion into new platforms. The market should track whether his subscriber count (currently ~200 million) continues growing and monitor viral coefficients on his recent releases. Traders should also watch for any public statements about his content strategy shift, production delays, or shifts in his typical upload schedule, as these could meaningfully alter baseline expectations for what constitutes a "typical" next video's performance.
+Key catalysts to monitor include MrBeast's announcement of major collaborations or projects (which typically signal upgraded production and view potential), any significant YouTube policy changes affecting monetization or algorithm behavior, and his upload cadence—a shift to more frequent releases could increase the odds of hitting this range by sheer volume. Watch for any controversies or regulatory actions that might impact his channel's standing. The specificity of this market makes it a poor bet for most traders unless someone has genuine insight into MrBeast's production pipeline for mid-2026.
 
 ## Related Markets
 
+- [Will JD Vance win the 2028 US Presidential Election?](/odds/will-jd-vance-win-the-2028-us-presidential-election) — 18% YES
 - [Will Pete Buttigieg win the 2028 Democratic presidential nomination?](/odds/will-pete-buttigieg-win-the-2028-democratic-presidential-nomination) — 4% YES
-- [Will the People Power Party (PPP) win the 2026 South Korean local elections?](/odds/will-the-people-power-party-ppp-win-the-2026-south-korean-local-elections) — 5% YES
-- [Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?](/odds/will-amanda-anisimova-be-the-2026-womens-wimbledon-winner) — 6% YES
+- [Will Tucker Carlson win the 2028 US Presidential Election?](/odds/will-tucker-carlson-win-the-2028-us-presidential-election) — 2% YES
 
 ## Frequently Asked Questions
 
-### Why would a MrBeast viewership market be categorized as "politics"?
+### Why is the range so narrow (100-110M views) when MrBeast's videos typically vary much more widely in performance?
 
-This appears to be a miscategorization error on the platform; the market should fall under entertainment or creator economy categories and has no apparent connection to political outcomes.
+The narrow band makes this an unusually difficult market to resolve in MrBeast's favor—most of his viral videos cluster either well above or below this specific corridor, meaning hitting it requires both viral success and landing within a tight performance window rather than just viral success alone.
 
-### What's the significance of the 100-110 million range specifically rather than broader brackets?
+### Could this market's 0.2% odds actually reflect sophisticated trader confidence that MrBeast won't post any video in the next 18 months?
 
-This narrow band captures the risk that MrBeast's videos either fall short of his recent mega-viral ceiling (sub-100M) or significantly exceed it (110M+), making this range the least likely outcome if his performance remains polarized between moderate and exceptional hits.
-
-### Could MrBeast's rumored ventures outside YouTube affect this market's resolution?
-
-Yes—if he shifts focus to other platforms or reduces upload frequency due to business expansion, the timing and viewership of his "next video" could shift dramatically, potentially making the May 2026 expiry miss high-performing releases entirely.
+Possibly, but unlikely given MrBeast's consistent upload history; the low odds more likely reflect the mathematical difficulty of predicting one specific video landing in a 10% performance band
 
 ## Learn More
 

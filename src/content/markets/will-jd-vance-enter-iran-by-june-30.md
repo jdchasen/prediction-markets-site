@@ -3,8 +3,8 @@ title: "Will JD Vance enter Iran by June 30?"
 description: "Will JD Vance enter Iran by June 30? Odds: 2.6% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will JD Vance enter Iran by June 30?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-07
+status: "settled"
+lastUpdated: 2026-04-08
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
 polymarketYes: 2.6

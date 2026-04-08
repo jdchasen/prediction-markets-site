@@ -3,8 +3,8 @@ title: "Will Alliance for Rights and Freedoms (APS) win at least one seat in the
 description: "Will Alliance for Rights and Freedoms (APS) win at least one seat in the 2026 Bulgarian parliamentary election? Odds: 2.1% YES on Polymarket. See live prices..."
 marketQuestion: "Will Alliance for Rights and Freedoms (APS) win at least one seat in the 2026 Bulgarian parliamentary election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-07
+status: "settled"
+lastUpdated: 2026-04-08
 expiryDate: 2026-04-19
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 2.1

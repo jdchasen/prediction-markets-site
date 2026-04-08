@@ -4,14 +4,13 @@ description: "Will Norway win the televote for Eurovision 2026? Odds: 0.4% YES o
 marketQuestion: "Will Norway win the televote for Eurovision 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-04-07
+lastUpdated: 2026-04-08
 expiryDate: 2026-05-16
 tags: ["politics", "polymarket"]
 polymarketYes: 0.4
 polymarketNo: 99.7
 polymarketVolume: 9852
 polymarketUrl: "https://polymarket.com/event/will-norway-win-the-televote-for-eurovision-2026"
-analysisDate: 2026-04-07
 ---
 
 # Eurovision 2026 Norway Televote Analysis

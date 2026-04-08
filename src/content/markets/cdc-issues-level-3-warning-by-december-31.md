@@ -3,8 +3,8 @@ title: "CDC issues Level 3 warning by December 31?"
 description: "CDC issues Level 3 warning by December 31? Odds: 35.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "CDC issues Level 3 warning by December 31?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-07
+status: "settled"
+lastUpdated: 2026-04-08
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 35.0

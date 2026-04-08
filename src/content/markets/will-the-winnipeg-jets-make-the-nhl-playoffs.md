@@ -3,8 +3,8 @@ title: "Will the Winnipeg Jets make the NHL Playoffs?"
 description: "Will the Winnipeg Jets make the NHL Playoffs? Odds: 9.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Winnipeg Jets make the NHL Playoffs?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-04-07
+status: "settled"
+lastUpdated: 2026-04-08
 expiryDate: 2026-04-16
 tags: ["polymarket", "sports"]
 polymarketYes: 9.0

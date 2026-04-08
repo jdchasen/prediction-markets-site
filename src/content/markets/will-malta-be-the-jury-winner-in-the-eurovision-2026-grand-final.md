@@ -4,14 +4,13 @@ description: "Will Malta be the Jury Winner in the Eurovision 2026 Grand Final? 
 marketQuestion: "Will Malta be the Jury Winner in the Eurovision 2026 Grand Final?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-04-07
+lastUpdated: 2026-04-08
 expiryDate: 2026-05-16
 tags: ["politics", "polymarket"]
 polymarketYes: 1.1
 polymarketNo: 98.9
 polymarketVolume: 97232
 polymarketUrl: "https://polymarket.com/event/will-malta-be-the-jury-winner-in-the-eurovision-2026-grand-final"
-analysisDate: 2026-04-07
 ---
 
 # Eurovision 2026 Jury Winner: Malta Analysis

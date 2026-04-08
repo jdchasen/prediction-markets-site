@@ -4,14 +4,13 @@ description: "Dutch House of Representatives dissolved in 2026? Odds: 19.0% YES 
 marketQuestion: "Dutch House of Representatives dissolved in 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-04-07
+lastUpdated: 2026-04-08
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 19.0
 polymarketNo: 81.0
-polymarketVolume: 9901
+polymarketVolume: 9962
 polymarketUrl: "https://polymarket.com/event/dutch-house-of-representatives-dissolved-in-2026"
-analysisDate: 2026-04-07
 ---
 
 # Dutch House Dissolution 2026: A Low-Probability Event Priced at 19%

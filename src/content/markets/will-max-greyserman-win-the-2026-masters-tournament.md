@@ -3,8 +3,8 @@ title: "Will Max Greyserman win the 2026 Masters tournament?"
 description: "Will Max Greyserman win the 2026 Masters tournament? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Max Greyserman win the 2026 Masters tournament?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-04-07
+status: "settled"
+lastUpdated: 2026-04-08
 expiryDate: 2026-04-13
 tags: ["polymarket", "sports"]
 polymarketYes: 0.1

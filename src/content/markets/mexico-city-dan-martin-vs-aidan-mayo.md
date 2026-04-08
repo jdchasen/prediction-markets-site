@@ -3,8 +3,8 @@ title: "Mexico City: Dan Martin vs Aidan Mayo"
 description: "Mexico City: Dan Martin vs Aidan Mayo Odds: 50.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Mexico City: Dan Martin vs Aidan Mayo"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-07
+status: "settled"
+lastUpdated: 2026-04-08
 expiryDate: 2026-04-13
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 50.5

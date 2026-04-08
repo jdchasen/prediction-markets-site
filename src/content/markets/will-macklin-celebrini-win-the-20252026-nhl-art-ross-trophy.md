@@ -1,17 +1,16 @@
 ---
 title: "Will Macklin Celebrini win the 2025–2026 NHL Art Ross Trophy?"
-description: "Will Macklin Celebrini win the 2025–2026 NHL Art Ross Trophy? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
+description: "Will Macklin Celebrini win the 2025–2026 NHL Art Ross Trophy? Odds: 0.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Macklin Celebrini win the 2025–2026 NHL Art Ross Trophy?"
 category: "sports"
 status: "active"
-lastUpdated: 2026-04-07
+lastUpdated: 2026-04-08
 expiryDate: 2026-04-20
 tags: ["polymarket", "sports"]
-polymarketYes: 0.1
-polymarketNo: 99.9
-polymarketVolume: 9713
+polymarketYes: 0.2
+polymarketNo: 99.8
+polymarketVolume: 9739
 polymarketUrl: "https://polymarket.com/event/nhl-2025-26-art-ross-trophy-macklin-celebrini-winner"
-analysisDate: 2026-04-07
 ---
 
 # Macklin Celebrini Art Ross Trophy Analysis

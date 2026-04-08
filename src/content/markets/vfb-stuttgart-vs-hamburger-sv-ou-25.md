@@ -3,8 +3,8 @@ title: "VfB Stuttgart vs. Hamburger SV: O/U 2.5"
 description: "VfB Stuttgart vs. Hamburger SV: O/U 2.5 Odds: 65.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "VfB Stuttgart vs. Hamburger SV: O/U 2.5"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-07
+status: "settled"
+lastUpdated: 2026-04-08
 expiryDate: 2026-04-12
 tags: ["politics", "polymarket"]
 polymarketYes: 65.5
