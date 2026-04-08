@@ -3,7 +3,7 @@ title: "Will Phil Weiser win the 2026 Colorado Governor Democratic primary elect
 description: "Will Phil Weiser win the 2026 Colorado Governor Democratic primary election? Odds: 22.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Phil Weiser win the 2026 Colorado Governor Democratic primary election?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-08
 expiryDate: 2026-06-30
 tags: ["elections", "politics", "polymarket"]

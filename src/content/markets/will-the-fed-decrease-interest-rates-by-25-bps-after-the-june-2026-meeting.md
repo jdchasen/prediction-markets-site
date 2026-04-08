@@ -9,45 +9,46 @@ expiryDate: 2026-06-17
 tags: ["economics", "federal-reserve", "interest-rates", "polymarket"]
 polymarketYes: 8.5
 polymarketNo: 91.5
-polymarketVolume: 952721
+polymarketVolume: 954771
 polymarketUrl: "https://polymarket.com/event/will-the-fed-decrease-interest-rates-by-25-bps-after-the-june-2026-meeting"
+analysisDate: 2026-04-08
 ---
 
-The market assigns less than a 10% probability to a June 2026 rate cut, reflecting expectations that the Fed will maintain or potentially raise rates through mid-2026 rather than actively cutting at that point in the cycle. This matters because it reveals trader skepticism about persistent economic weakness through 2026 and suggests the market prices in either a resilient economy or lingering inflation concerns that would prevent easing.
+The market assigns only an 8.5% probability to a rate cut following the June 2026 FOMC meeting, reflecting expectations that the Fed will either hold rates steady or continue tightening—a significant indicator of how traders view the medium-term economic outlook and inflation trajectory.
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 8.5% | 91.5% | $941K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 8.5% | 91.5% | $955K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The bull case for a rate cut centers on a scenario where inflation falls decisively below the Fed's 2% target by early 2026, possibly driven by recession signals emerging in late 2025 or Q1 2026. If unemployment spikes above 5% and consecutive CPI prints show sustained disinflation—particularly in shelter and services—the Fed could preemptively cut to prevent a hard landing. The FOMC's March 2026 meeting (scheduled for March 17-18) and May 2026 meeting (May 5-6) would be critical for signaling this shift, with the Summary of Economic Projections revealing downward revisions to growth forecasts. Weakening labor markets visible in NFP reports from January through May 2026, especially if job growth consistently falls below 100,000, would strengthen this case.
+The bear case for a rate cut centers on persistent inflation remaining above the Fed's 2% target through 2026. If core PCE and CPI readings continue showing sticky services inflation, particularly in housing and wages, the Fed would have little justification to ease policy. Strong labor market data—monthly NFP prints consistently above 150,000 and unemployment below 4%—would further cement this stance. The FOMC's dot plot projections through 2024 and 2025 meetings will signal whether committee members see rate cuts as viable by mid-2026. Additionally, if GDP growth remains above 2% and consumer spending stays robust, the Fed maintains its higher-for-longer posture without risking recession.
 
-The bear case, which current odds heavily favor, assumes inflation remains sticky above target or the economy proves resilient enough to justify restrictive policy through mid-2026. Core PCE inflation persistently above 2.5% throughout 2025, driven by wage pressures or services inflation, would keep cuts off the table. Traders should monitor the December 2025 FOMC meeting (December 16-17) and subsequent dot plot, which will project rate expectations through 2026. If the median dot for end-2026 stays elevated, this market's probability will remain suppressed. The scenario also encompasses a "no landing" outcome where GDP growth stays positive, unemployment remains below 4.5%, and consumer spending stays robust.
+The bull case requires a material economic deterioration between now and June 2026. This scenario demands either a sharp rise in unemployment to 5% or higher, signaling labor market breakdown, or a definitive inflation victory with core PCE falling to 2% and remaining stable for multiple quarters. A credit event or financial stability concerns could also force the Fed's hand. Key catalysts include the February 2026 CPI release (March 12, 2026), the May 2026 employment report (June 6, 2026), and the June FOMC meeting itself (June 16-17, 2026). Any recession indicators in Q4 2025 or Q1 2026—such as consecutive quarters of negative GDP growth or ISM Manufacturing readings below 45—would dramatically shift these odds.
 
-Key catalysts include the CPI releases for Q1 2026 (January data on February 11, February data on March 11, March data on April 10), which will determine if disinflation momentum continues. The May 2 NFP report covering April employment will be the final major labor market signal before the June meeting. FOMC meeting minutes from the April 2026 gathering (scheduled for April 28-29) will reveal whether policymakers are discussing cuts as a serious near-term option. Any deviation from current market pricing requires either a sharp deterioration in economic data or an unexpected inflation collapse—neither of which the 8.5% odds suggest traders currently anticipate.
+Traders should monitor the Fed's rate decision path through 2025, particularly whether the committee pauses cuts or resumes hiking. The March 2025 FOMC meeting (March 18-19) and subsequent dot plot will clarify the 2026 rate trajectory. Watch monthly inflation prints, especially the February and March 2026 CPI reports due in late March and April 2026. Weekly initial jobless claims trending above 250,000 and continuing claims above 2 million would signal labor market weakness warranting easier policy.
 
 ## Related Markets
 
-- [Will 9 Fed rate cuts happen in 2026?](/odds/will-9-fed-rate-cuts-happen-in-2026) — 0% YES
-- [Will the Fed increase interest rates by 50+ bps after the June 2026 meeting?](/odds/will-the-fed-increase-interest-rates-by-50-bps-after-the-june-2026-meeting) — 1% YES
+- [Will 1 Fed rate cut happen in 2026?](/odds/will-1-fed-rate-cut-happen-in-2026) — 26% YES
 - [Will 5 Fed rate cuts happen in 2026?](/odds/will-5-fed-rate-cuts-happen-in-2026) — 2% YES
+- [Will the Bank of Israel make no change to the Bank of Israel Interest Rate after the May decision?](/odds/will-the-bank-of-israel-make-no-change-to-the-bank-of-israel-interest-rate-after) — 86% YES
 
 ## Frequently Asked Questions
 
-### Why is the market pricing such a low probability when the Fed has historically cut rates during economic slowdowns?
+### Why is the probability so low for a rate cut at this specific June 2026 meeting rather than earlier or later in the year?
 
-The low odds reflect expectations that by June 2026, the economy will either still be running too hot for cuts or the Fed will be in a holding pattern rather than actively easing. Markets currently price a longer-term elevated rate environment based on structural inflation concerns.
+The question specifies a cut immediately *after* the June meeting, requiring both deteriorated conditions by mid-2026 and Fed willingness to act at that exact meeting rather than waiting for July data. This narrow timing window significantly reduces the probability compared to broader "any cut in 2026" scenarios.
 
-### How would this market react if the Fed cuts rates at meetings before June 2026?
+### How would earlier Fed actions in 2025 affect this market's outcome?
 
-Prior cuts would likely increase this market's probability significantly, as they would establish a cutting cycle and suggest the Fed sees sufficient economic weakness to continue easing. However, if earlier cuts are one-off adjustments rather than the start of sustained easing, odds might remain low.
+If the Fed cuts rates multiple times in late 2024 or 2025, it reduces the likelihood of further cuts by June 2026 unless a severe recession develops. Conversely, if the Fed hikes or holds through 2025, it creates more room for eventual cuts but suggests inflation concerns that may persist into 2026.
 
-### What's the difference between this market outcome and the Fed simply holding rates steady in June 2026?
+### What economic scenario would most dramatically increase these odds from 8.5% to above 50%?
 
-This market specifically requires a 25 basis point decrease; if the Fed holds rates unchanged or cuts by a different amount (50 bps or 10 bps), the market resolves to NO. The narrow specification around exactly 25 bps adds complexity beyond simply predicting easing versus no easing.
+A recession beginning in late 2025 with unemployment rising above 5%, coupled with core inflation falling decisively below 2.5% by Q1 2026, would force the Fed to cut rates and make a June 2026 reduction highly probable.
 
 ## Learn More
 

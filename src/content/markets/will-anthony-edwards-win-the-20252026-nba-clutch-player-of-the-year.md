@@ -11,7 +11,6 @@ polymarketYes: 0.4
 polymarketNo: 99.6
 polymarketVolume: 9873
 polymarketUrl: "https://polymarket.com/event/nba-2025-26-clutch-player-of-the-year-anthony-edwards"
-analysisDate: 2026-04-08
 ---
 
 # Anthony Edwards 2025-2026 Clutch Player of the Year Analysis

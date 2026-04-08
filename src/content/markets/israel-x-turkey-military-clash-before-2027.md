@@ -1,17 +1,16 @@
 ---
 title: "Israel x Turkey military clash before 2027?"
-description: "Israel x Turkey military clash before 2027? Odds: 18.0% YES on Polymarket. See live prices and trade this market."
+description: "Israel x Turkey military clash before 2027? Odds: 17.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Israel x Turkey military clash before 2027?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-04-08
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 18.0
-polymarketNo: 82.0
-polymarketVolume: 97037
+polymarketYes: 17.0
+polymarketNo: 83.0
+polymarketVolume: 97398
 polymarketUrl: "https://polymarket.com/event/israel-x-turkey-military-clash-before-2027"
-analysisDate: 2026-04-08
 ---
 
 Traders are pricing in less than a one-in-five chance of direct military conflict between Israel and Turkey by the end of 2026, though rising tensions over Gaza and Turkey's NATO membership complicate this regional powder keg.

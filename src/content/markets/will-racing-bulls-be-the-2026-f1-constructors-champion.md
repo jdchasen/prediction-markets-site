@@ -3,7 +3,7 @@ title: "Will Racing Bulls be the 2026 F1 Constructors' Champion?"
 description: "Will Racing Bulls be the 2026 F1 Constructors' Champion? Odds: 0.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Racing Bulls be the 2026 F1 Constructors' Champion?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-08
 expiryDate: 2026-12-06
 tags: ["polymarket", "sports"]

@@ -3,7 +3,7 @@ title: "Will The Weeknd have the second-greatest number of monthly Spotify liste
 description: "Will The Weeknd have the second-greatest number of monthly Spotify listeners this month? Odds: 95.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will The Weeknd have the second-greatest number of monthly Spotify listeners this month?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-08
 expiryDate: 2026-04-30
 tags: ["politics", "polymarket"]

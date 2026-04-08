@@ -9,9 +9,8 @@ expiryDate: 2027-01-01
 tags: ["crypto", "polymarket"]
 polymarketYes: 66.5
 polymarketNo: 33.5
-polymarketVolume: 9810
+polymarketVolume: 9863
 polymarketUrl: "https://polymarket.com/event/another-crypto-hack-over-100m-by-december-31"
-analysisDate: 2026-04-08
 ---
 
 # Crypto Hack Market Analysis

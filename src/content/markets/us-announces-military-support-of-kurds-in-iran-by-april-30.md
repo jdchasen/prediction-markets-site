@@ -1,17 +1,16 @@
 ---
 title: "US announces military support of Kurds in Iran by April 30?"
-description: "US announces military support of Kurds in Iran by April 30? Odds: 7.8% YES on Polymarket. See live prices and trade this market."
+description: "US announces military support of Kurds in Iran by April 30? Odds: 4.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "US announces military support of Kurds in Iran by April 30?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-04-08
 expiryDate: 2026-04-30
 tags: ["politics", "polymarket"]
-polymarketYes: 7.8
-polymarketNo: 92.2
-polymarketVolume: 98646
+polymarketYes: 4.8
+polymarketNo: 95.2
+polymarketVolume: 99460
 polymarketUrl: "https://polymarket.com/event/us-announces-military-support-of-kurds-in-iran-by-april-30"
-analysisDate: 2026-04-08
 ---
 
 The market assigns less than 8% probability to the US announcing military support for Kurds in Iran within the next year, reflecting deep skepticism that American foreign policy will take such a dramatic shift toward direct intervention in Iranian internal affairs. This matters because it would represent a significant escalation in US-Iran relations and could reshape Middle Eastern geopolitics while potentially drawing America into another complex regional conflict.

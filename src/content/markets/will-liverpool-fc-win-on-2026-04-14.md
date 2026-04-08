@@ -3,7 +3,7 @@ title: "Will Liverpool FC win on 2026-04-14?"
 description: "Will Liverpool FC win on 2026-04-14? Odds: 40.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Liverpool FC win on 2026-04-14?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-08
 expiryDate: 2026-04-14
 tags: ["politics", "polymarket"]

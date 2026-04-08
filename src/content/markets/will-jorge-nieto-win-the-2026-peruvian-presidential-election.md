@@ -3,7 +3,7 @@ title: "Will Jorge Nieto win the 2026 Peruvian presidential election?"
 description: "Will Jorge Nieto win the 2026 Peruvian presidential election? Odds: 3.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Jorge Nieto win the 2026 Peruvian presidential election?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-08
 expiryDate: 2026-04-12
 tags: ["elections", "politics", "polymarket"]

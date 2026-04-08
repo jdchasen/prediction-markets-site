@@ -1,17 +1,16 @@
 ---
 title: "Will Bruno Retailleau win the 2027 French presidential election?"
-description: "Will Bruno Retailleau win the 2027 French presidential election? Odds: 2.9% YES on Polymarket. See live prices and trade this market."
+description: "Will Bruno Retailleau win the 2027 French presidential election? Odds: 2.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Bruno Retailleau win the 2027 French presidential election?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-04-08
 expiryDate: 2027-04-30
 tags: ["ai", "elections", "politics", "polymarket"]
-polymarketYes: 2.9
+polymarketYes: 2.8
 polymarketNo: 97.2
-polymarketVolume: 980914
+polymarketVolume: 985364
 polymarketUrl: "https://polymarket.com/event/will-bruno-retailleau-win-the-2027-french-presidential-election"
-analysisDate: 2026-04-08
 ---
 
 Bruno Retailleau, France's current Interior Minister under Prime Minister Bayrou, is trading as a longshot for the 2027 presidential race at under 3% probability, reflecting his position as a traditional right-wing figure in a fractured political landscape where Marine Le Pen and Emmanuel Macron's successor dominate expectations.

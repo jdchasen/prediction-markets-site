@@ -1,17 +1,16 @@
 ---
 title: "Will the Boston Bruins win the 2026 NHL Stanley Cup?"
-description: "Will the Boston Bruins win the 2026 NHL Stanley Cup? Odds: 1.6% YES on Polymarket. See live prices and trade this market."
+description: "Will the Boston Bruins win the 2026 NHL Stanley Cup? Odds: 1.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Boston Bruins win the 2026 NHL Stanley Cup?"
 category: "sports"
 status: "active"
 lastUpdated: 2026-04-08
 expiryDate: 2026-06-30
 tags: ["polymarket", "sports"]
-polymarketYes: 1.6
-polymarketNo: 98.4
-polymarketVolume: 979931
+polymarketYes: 1.9
+polymarketNo: 98.0
+polymarketVolume: 996963
 polymarketUrl: "https://polymarket.com/event/will-the-boston-bruins-win-the-2026-nhl-stanley-cup"
-analysisDate: 2026-04-08
 ---
 
 The Boston Bruins currently sit at a mere 1.6% probability to capture the 2026 Stanley Cup, reflecting severe skepticism about their championship trajectory more than a year before the playoffs even begin. This rock-bottom confidence stems from the team's ongoing transition period following the retirement of franchise cornerstone Patrice Bergeron and the departure of key veterans, leaving them with an aging core and uncertain goaltending situation beyond Jeremy Swayman.

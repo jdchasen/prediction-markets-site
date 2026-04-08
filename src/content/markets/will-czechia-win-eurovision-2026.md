@@ -1,17 +1,16 @@
 ---
 title: "Will Czechia win Eurovision 2026?"
-description: "Will Czechia win Eurovision 2026? Odds: 1.2% YES on Polymarket. See live prices and trade this market."
+description: "Will Czechia win Eurovision 2026? Odds: 1.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Czechia win Eurovision 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-04-08
 expiryDate: 2026-05-16
 tags: ["politics", "polymarket"]
-polymarketYes: 1.2
-polymarketNo: 98.8
-polymarketVolume: 966779
+polymarketYes: 1.5
+polymarketNo: 98.5
+polymarketVolume: 978811
 polymarketUrl: "https://polymarket.com/event/will-czechia-win-eurovision-2026"
-analysisDate: 2026-04-08
 ---
 
 The market reflects extreme skepticism about Czechia's Eurovision prospects, pricing them as one of the longest shots to win the 2026 contest despite the country's consistent participation history and recent qualification record.

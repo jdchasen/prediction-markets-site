@@ -11,7 +11,6 @@ polymarketYes: 0.8
 polymarketNo: 99.2
 polymarketVolume: 97207
 polymarketUrl: "https://polymarket.com/event/will-germany-strike-iran-by-april-30"
-analysisDate: 2026-04-08
 ---
 
 The market reflects near-total skepticism that Germany will conduct military strikes against Iran before April 30, 2026, with less than 1% probability priced in—a assessment grounded in Germany's constitutional constraints, NATO obligations, and decades of post-WWII pacifist foreign policy tradition that makes unilateral military action extraordinarily unlikely.

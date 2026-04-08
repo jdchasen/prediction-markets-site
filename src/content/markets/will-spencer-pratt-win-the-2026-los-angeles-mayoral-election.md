@@ -3,7 +3,7 @@ title: "Will Spencer Pratt win the 2026 Los Angeles mayoral election?"
 description: "Will Spencer Pratt win the 2026 Los Angeles mayoral election? Odds: 17.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Spencer Pratt win the 2026 Los Angeles mayoral election?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-08
 expiryDate: 2026-06-02
 tags: ["elections", "politics", "polymarket"]

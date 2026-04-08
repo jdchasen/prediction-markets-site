@@ -1,17 +1,16 @@
 ---
 title: "Milei out as President of Argentina before 2027?"
-description: "Milei out as President of Argentina before 2027? Odds: 8.8% YES on Polymarket. See live prices and trade this market."
+description: "Milei out as President of Argentina before 2027? Odds: 8.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Milei out as President of Argentina before 2027?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-04-08
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 8.8
-polymarketNo: 91.1
+polymarketYes: 8.1
+polymarketNo: 92.0
 polymarketVolume: 9794
 polymarketUrl: "https://polymarket.com/event/milei-out-as-president-of-argentina-before-2027"
-analysisDate: 2026-04-08
 ---
 
 # Milei's Presidency at Risk? What 8.8% Odds Tell Us About Argentina's Political Stability

@@ -9,9 +9,8 @@ expiryDate: 2026-07-20
 tags: ["polymarket", "sports"]
 polymarketYes: 2.8
 polymarketNo: 97.2
-polymarketVolume: 9686992
+polymarketVolume: 9762447
 polymarketUrl: "https://polymarket.com/event/will-norway-win-the-2026-fifa-world-cup-893"
-analysisDate: 2026-04-08
 ---
 
 Norway faces extremely long odds to lift the 2026 World Cup trophy, with traders pricing just a 2.8% chance of victory—reflecting both realistic assessment of their current standing and the mathematical challenge any non-elite nation faces in tournament football.

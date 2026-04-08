@@ -3,7 +3,7 @@ title: "Will OpenAI have the #1 AI model at the end of April 2026 (Style Control
 description: "Will OpenAI have the #1 AI model at the end of April 2026 (Style Control On)? Odds: 3.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will OpenAI have the #1 AI model at the end of April 2026 (Style Control On)?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-08
 expiryDate: 2026-04-30
 tags: ["ai", "politics", "polymarket"]

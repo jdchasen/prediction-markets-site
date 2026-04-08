@@ -3,7 +3,7 @@ title: "Will the Central Bank of Colombia announce a decrease at the April meeti
 description: "Will the Central Bank of Colombia announce a decrease at the April meeting? Odds: 0.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Central Bank of Colombia announce a decrease at the April meeting?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-08
 expiryDate: 2026-04-30
 tags: ["politics", "polymarket"]

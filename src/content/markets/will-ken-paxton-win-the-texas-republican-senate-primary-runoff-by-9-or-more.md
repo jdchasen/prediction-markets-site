@@ -3,7 +3,7 @@ title: "Will Ken Paxton win the Texas Republican Senate Primary runoff by 9% or 
 description: "Will Ken Paxton win the Texas Republican Senate Primary runoff by 9% or more? Odds: 27.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Ken Paxton win the Texas Republican Senate Primary runoff by 9% or more?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-08
 expiryDate: 2026-05-25
 tags: ["politics", "polymarket"]

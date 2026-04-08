@@ -3,7 +3,7 @@ title: "Will Ethereum dip to $400 in April?"
 description: "Will Ethereum dip to $400 in April? Odds: 0.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Ethereum dip to $400 in April?"
 category: "crypto"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-08
 expiryDate: 2026-05-01
 tags: ["crypto", "ethereum", "polymarket"]

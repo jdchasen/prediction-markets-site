@@ -1,17 +1,16 @@
 ---
 title: "Bitcoin all time high by June 30, 2026?"
-description: "Bitcoin all time high by June 30, 2026? Odds: 3.4% YES on Polymarket. See live prices and trade this market."
+description: "Bitcoin all time high by June 30, 2026? Odds: 2.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Bitcoin all time high by June 30, 2026?"
 category: "crypto"
 status: "active"
 lastUpdated: 2026-04-08
 expiryDate: 2026-07-01
 tags: ["bitcoin", "crypto", "polymarket"]
-polymarketYes: 3.4
-polymarketNo: 96.7
-polymarketVolume: 973428
+polymarketYes: 2.9
+polymarketNo: 97.2
+polymarketVolume: 985393
 polymarketUrl: "https://polymarket.com/event/bitcoin-all-time-high-by-june-30-2026"
-analysisDate: 2026-04-08
 ---
 
 The market pricing Bitcoin at only 3.4% chance of reaching a new all-time high by mid-2026 reflects deep skepticism about BTC breaking above its March 2024 peak of approximately $73,800, giving traders roughly 2.5 years for this outcome to materialize.

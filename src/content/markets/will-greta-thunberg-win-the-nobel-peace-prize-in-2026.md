@@ -3,7 +3,7 @@ title: "Will Greta Thunberg win the Nobel Peace Prize in 2026?"
 description: "Will Greta Thunberg win the Nobel Peace Prize in 2026? Odds: 3.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Greta Thunberg win the Nobel Peace Prize in 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-08
 expiryDate: 2026-10-10
 tags: ["politics", "polymarket"]

@@ -1,17 +1,16 @@
 ---
 title: "Will JD Vance win the 2028 US Presidential Election?"
-description: "Will JD Vance win the 2028 US Presidential Election? Odds: 18.4% YES on Polymarket. See live prices and trade this market."
+description: "Will JD Vance win the 2028 US Presidential Election? Odds: 18.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will JD Vance win the 2028 US Presidential Election?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-04-08
 expiryDate: 2028-11-07
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 18.4
-polymarketNo: 81.5
-polymarketVolume: 9942226
+polymarketYes: 18.8
+polymarketNo: 81.2
+polymarketVolume: 9968618
 polymarketUrl: "https://polymarket.com/event/will-jd-vance-win-the-2028-us-presidential-election"
-analysisDate: 2026-04-08
 ---
 
 JD Vance sits at roughly one-in-five odds to win the 2028 presidency, a positioning that reflects his status as VP under Trump while accounting for significant political headwinds and an uncertain path to securing the Republican nomination.
