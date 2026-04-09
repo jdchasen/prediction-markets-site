@@ -1,17 +1,16 @@
 ---
 title: "Will Malta be the Jury Winner in the Eurovision 2026 Grand Final?"
-description: "Will Malta be the Jury Winner in the Eurovision 2026 Grand Final? Odds: 1.9% YES on Polymarket. See live prices and trade this market."
+description: "Will Malta be the Jury Winner in the Eurovision 2026 Grand Final? Odds: 1.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Malta be the Jury Winner in the Eurovision 2026 Grand Final?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-04-08
+lastUpdated: 2026-04-09
 expiryDate: 2026-05-16
 tags: ["politics", "polymarket"]
-polymarketYes: 1.9
-polymarketNo: 98.1
-polymarketVolume: 97421
+polymarketYes: 1.4
+polymarketNo: 98.7
+polymarketVolume: 97490
 polymarketUrl: "https://polymarket.com/event/will-malta-be-the-jury-winner-in-the-eurovision-2026-grand-final"
-analysisDate: 2026-04-08
 ---
 
 # Eurovision 2026 Malta Jury Winner Analysis

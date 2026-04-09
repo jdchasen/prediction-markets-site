@@ -4,14 +4,13 @@ description: "Kash Patel out by April 30? Odds: 15.5% YES on Polymarket. See liv
 marketQuestion: "Kash Patel out by April 30?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-04-08
+lastUpdated: 2026-04-09
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
 polymarketYes: 15.5
 polymarketNo: 84.5
-polymarketVolume: 97162
+polymarketVolume: 98477
 polymarketUrl: "https://polymarket.com/event/kash-patel-out-by-april-30-481"
-analysisDate: 2026-04-08
 ---
 
 # Kash Patel Departure Market Analysis

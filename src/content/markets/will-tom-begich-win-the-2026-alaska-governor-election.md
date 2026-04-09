@@ -4,14 +4,13 @@ description: "Will Tom Begich win the 2026 Alaska governor election? Odds: 21.5%
 marketQuestion: "Will Tom Begich win the 2026 Alaska governor election?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-04-08
+lastUpdated: 2026-04-09
 expiryDate: 2026-11-03
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 21.5
 polymarketNo: 78.5
-polymarketVolume: 97747
+polymarketVolume: 97830
 polymarketUrl: "https://polymarket.com/event/will-tom-begich-win-the-2026-alaska-governor-election"
-analysisDate: 2026-04-08
 ---
 
 Tom Begich, a Democrat from Alaska's prominent political family, currently sits as a significant underdog at roughly 1-in-5 odds for the 2026 gubernatorial race, reflecting Alaska's Republican lean but acknowledging the state's history of political unpredictability and the Begich name recognition.

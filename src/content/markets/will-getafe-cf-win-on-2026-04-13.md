@@ -4,14 +4,13 @@ description: "Will Getafe CF win on 2026-04-13? Odds: 34.5% YES on Polymarket. S
 marketQuestion: "Will Getafe CF win on 2026-04-13?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-04-08
+lastUpdated: 2026-04-09
 expiryDate: 2026-04-13
 tags: ["politics", "polymarket"]
 polymarketYes: 34.5
 polymarketNo: 65.5
-polymarketVolume: 9734
+polymarketVolume: 9842
 polymarketUrl: "https://polymarket.com/event/lal-lev-get-2026-04-13-get"
-analysisDate: 2026-04-08
 ---
 
 # Getafe CF Match Prediction Analysis

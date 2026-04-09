@@ -3,8 +3,8 @@ title: " Iran agrees to end enrichment of uranium by December 31?"
 description: " Iran agrees to end enrichment of uranium by December 31? Odds: 33.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: " Iran agrees to end enrichment of uranium by December 31?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-08
+status: "settled"
+lastUpdated: 2026-04-09
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 33.5

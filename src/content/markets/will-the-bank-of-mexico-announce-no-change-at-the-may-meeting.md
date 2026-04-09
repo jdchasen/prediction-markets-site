@@ -3,8 +3,8 @@ title: "Will the Bank of Mexico announce no change at the May meeting?"
 description: "Will the Bank of Mexico announce no change at the May meeting? Odds: 73.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Bank of Mexico announce no change at the May meeting?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-08
+status: "settled"
+lastUpdated: 2026-04-09
 expiryDate: 2026-05-07
 tags: ["politics", "polymarket"]
 polymarketYes: 73.0

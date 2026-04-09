@@ -1,17 +1,16 @@
 ---
 title: "Will the Boston Bruins make the NHL Playoffs?"
-description: "Will the Boston Bruins make the NHL Playoffs? Odds: 93.8% YES on Polymarket. See live prices and trade this market."
+description: "Will the Boston Bruins make the NHL Playoffs? Odds: 95.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Boston Bruins make the NHL Playoffs?"
 category: "sports"
 status: "active"
-lastUpdated: 2026-04-08
+lastUpdated: 2026-04-09
 expiryDate: 2026-04-16
 tags: ["polymarket", "sports"]
-polymarketYes: 93.8
-polymarketNo: 6.2
-polymarketVolume: 9784
+polymarketYes: 95.0
+polymarketNo: 5.0
+polymarketVolume: 9988
 polymarketUrl: "https://polymarket.com/event/will-the-boston-bruins-make-the-nhl-playoffs"
-analysisDate: 2026-04-08
 ---
 
 # Boston Bruins Playoff Market Analysis

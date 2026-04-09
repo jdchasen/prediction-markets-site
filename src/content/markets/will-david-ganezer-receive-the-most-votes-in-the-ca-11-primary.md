@@ -4,14 +4,13 @@ description: "Will David Ganezer receive the most votes in the CA-11 primary? Od
 marketQuestion: "Will David Ganezer receive the most votes in the CA-11 primary?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-04-08
+lastUpdated: 2026-04-09
 expiryDate: 2026-06-02
 tags: ["politics", "polymarket"]
 polymarketYes: 0.2
 polymarketNo: 99.8
 polymarketVolume: 9712
 polymarketUrl: "https://polymarket.com/event/will-david-ganezer-receive-the-most-votes-in-the-ca-11-primary"
-analysisDate: 2026-04-08
 ---
 
 # CA-11 Primary: David Ganezer's Long-Shot Odds Reflect Heavy Incumbent Advantage

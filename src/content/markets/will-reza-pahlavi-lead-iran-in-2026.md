@@ -1,17 +1,16 @@
 ---
 title: "Will Reza Pahlavi lead Iran in 2026?"
-description: "Will Reza Pahlavi lead Iran in 2026? Odds: 10.9% YES on Polymarket. See live prices and trade this market."
+description: "Will Reza Pahlavi lead Iran in 2026? Odds: 10.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Reza Pahlavi lead Iran in 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-04-08
+lastUpdated: 2026-04-09
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 10.9
-polymarketNo: 89.0
-polymarketVolume: 977165
+polymarketYes: 10.2
+polymarketNo: 89.8
+polymarketVolume: 979553
 polymarketUrl: "https://polymarket.com/event/will-reza-pahlavi-lead-iran-in-2026"
-analysisDate: 2026-04-08
 ---
 
 Reza Pahlavi, the exiled son of Iran's last Shah, currently has approximately 1-in-10 odds of leading Iran by the end of 2026, reflecting the extreme difficulty of regime change in the Islamic Republic but acknowledgment that the current system faces its most serious legitimacy crisis in decades.

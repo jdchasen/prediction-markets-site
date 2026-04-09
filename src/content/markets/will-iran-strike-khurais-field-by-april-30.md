@@ -3,8 +3,8 @@ title: "Will Iran strike Khurais Field by April 30?"
 description: "Will Iran strike Khurais Field by April 30? Odds: 24.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Iran strike Khurais Field by April 30?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-08
+status: "settled"
+lastUpdated: 2026-04-09
 expiryDate: 2026-04-30
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 24.0

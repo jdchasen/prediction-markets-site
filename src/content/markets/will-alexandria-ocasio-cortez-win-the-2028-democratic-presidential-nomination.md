@@ -3,8 +3,8 @@ title: "Will Alexandria Ocasio-Cortez win the 2028 Democratic presidential nomin
 description: "Will Alexandria Ocasio-Cortez win the 2028 Democratic presidential nomination? Odds: 8.6% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Alexandria Ocasio-Cortez win the 2028 Democratic presidential nomination?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-08
+status: "settled"
+lastUpdated: 2026-04-09
 expiryDate: 2028-11-07
 tags: ["politics", "polymarket"]
 polymarketYes: 8.6

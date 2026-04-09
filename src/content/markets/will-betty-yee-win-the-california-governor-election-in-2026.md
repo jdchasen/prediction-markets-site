@@ -4,14 +4,13 @@ description: "Will Betty Yee win the California Governor Election in 2026? Odds:
 marketQuestion: "Will Betty Yee win the California Governor Election in 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-04-08
+lastUpdated: 2026-04-09
 expiryDate: 2026-11-03
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.2
 polymarketNo: 99.8
 polymarketVolume: 97809
 polymarketUrl: "https://polymarket.com/event/will-betty-yee-win-the-california-governor-election-in-2026"
-analysisDate: 2026-04-08
 ---
 
 Betty Yee's chances of winning the 2026 California gubernatorial race currently sit at virtually zero on prediction markets, reflecting her position as a long-shot candidate in what will be California's first open governor's race since 2010. While Yee served as California's State Controller from 2015 to 2023, giving her statewide name recognition and executive experience, she faces an uphill battle against better-funded and more prominent Democrats in a crowded primary field.

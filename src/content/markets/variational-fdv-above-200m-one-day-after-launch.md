@@ -1,17 +1,16 @@
 ---
 title: "Variational FDV above $200M one day after launch?"
-description: "Variational FDV above $200M one day after launch? Odds: 59.5% YES on Polymarket. See live prices and trade this market."
+description: "Variational FDV above $200M one day after launch? Odds: 61.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Variational FDV above $200M one day after launch?"
 category: "crypto"
 status: "active"
-lastUpdated: 2026-04-08
+lastUpdated: 2026-04-09
 expiryDate: 2028-01-01
 tags: ["crypto", "polymarket"]
-polymarketYes: 59.5
-polymarketNo: 40.5
+polymarketYes: 61.5
+polymarketNo: 38.5
 polymarketVolume: 9858
 polymarketUrl: "https://polymarket.com/event/variational-fdv-above-200m-one-day-after-launch-918"
-analysisDate: 2026-04-08
 ---
 
 # Variational FDV Analysis

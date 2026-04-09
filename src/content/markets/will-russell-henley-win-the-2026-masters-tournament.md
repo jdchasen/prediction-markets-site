@@ -3,8 +3,8 @@ title: "Will Russell Henley win the 2026 Masters tournament?"
 description: "Will Russell Henley win the 2026 Masters tournament? Odds: 1.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Russell Henley win the 2026 Masters tournament?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-04-08
+status: "settled"
+lastUpdated: 2026-04-09
 expiryDate: 2026-04-13
 tags: ["polymarket", "sports"]
 polymarketYes: 1.7

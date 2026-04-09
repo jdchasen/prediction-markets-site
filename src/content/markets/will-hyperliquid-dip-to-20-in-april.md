@@ -3,8 +3,8 @@ title: "Will Hyperliquid dip to $20 in April?"
 description: "Will Hyperliquid dip to $20 in April? Odds: 2.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Hyperliquid dip to $20 in April?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-08
+status: "settled"
+lastUpdated: 2026-04-09
 expiryDate: 2026-05-01
 tags: ["politics", "polymarket"]
 polymarketYes: 2.0

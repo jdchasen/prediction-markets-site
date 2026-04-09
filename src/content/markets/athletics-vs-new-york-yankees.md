@@ -3,8 +3,8 @@ title: "Athletics vs. New York Yankees"
 description: "Athletics vs. New York Yankees Odds: 35.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Athletics vs. New York Yankees"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-08
+status: "settled"
+lastUpdated: 2026-04-09
 expiryDate: 2026-04-15
 tags: ["politics", "polymarket"]
 polymarketYes: 35.5

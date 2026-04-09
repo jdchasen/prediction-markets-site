@@ -3,8 +3,8 @@ title: "Will Trump talk to Xi Jinping in April?"
 description: "Will Trump talk to Xi Jinping in April? Odds: 34.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Trump talk to Xi Jinping in April?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-08
+status: "settled"
+lastUpdated: 2026-04-09
 expiryDate: 2026-04-30
 tags: ["politics", "polymarket", "trump"]
 polymarketYes: 34.5

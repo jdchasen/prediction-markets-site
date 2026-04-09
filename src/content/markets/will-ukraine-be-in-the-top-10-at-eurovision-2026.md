@@ -3,8 +3,8 @@ title: "Will Ukraine be in the top 10 at Eurovision 2026?"
 description: "Will Ukraine be in the top 10 at Eurovision 2026? Odds: 76.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Ukraine be in the top 10 at Eurovision 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-08
+status: "settled"
+lastUpdated: 2026-04-09
 expiryDate: 2026-05-16
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 76.5

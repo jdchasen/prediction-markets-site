@@ -3,8 +3,8 @@ title: "Will Frenchie die in \"The Boys: Season 5\"?"
 description: "Will Frenchie die in \"The Boys: Season 5\"? Odds: 81.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Frenchie die in \"The Boys: Season 5\"?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-08
+status: "settled"
+lastUpdated: 2026-04-09
 expiryDate: 2026-05-20
 tags: ["politics", "polymarket"]
 polymarketYes: 81.5
