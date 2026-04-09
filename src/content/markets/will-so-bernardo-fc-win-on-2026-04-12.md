@@ -3,7 +3,7 @@ title: "Will São Bernardo FC win on 2026-04-12?"
 description: "Will São Bernardo FC win on 2026-04-12? Odds: 32.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will São Bernardo FC win on 2026-04-12?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-09
 expiryDate: 2026-04-12
 tags: ["politics", "polymarket"]

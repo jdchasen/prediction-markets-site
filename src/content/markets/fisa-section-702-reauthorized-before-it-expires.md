@@ -1,15 +1,15 @@
 ---
 title: "FISA Section 702 reauthorized before it expires?"
-description: "FISA Section 702 reauthorized before it expires? Odds: 45.0% YES on Polymarket. See live prices and trade this market."
+description: "FISA Section 702 reauthorized before it expires? Odds: 58.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "FISA Section 702 reauthorized before it expires?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-04-09
 expiryDate: 2026-04-19
 tags: ["politics", "polymarket"]
-polymarketYes: 45.0
-polymarketNo: 55.0
-polymarketVolume: 9713
+polymarketYes: 58.0
+polymarketNo: 42.0
+polymarketVolume: 9777
 polymarketUrl: "https://polymarket.com/event/fisa-section-702-reauthorized-before-it-expires"
 analysisDate: 2026-04-09
 ---
@@ -20,17 +20,17 @@ analysisDate: 2026-04-09
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 45.0% | 55.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 58.0% | 42.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The current 45% probability reflects genuine uncertainty about whether Congress will renew this controversial surveillance authority before its December 2024 expiration, with the outcome hinging on shifting coalitions between civil liberties advocates and national security hawks. This matters because Section 702 is one of the NSA's most powerful tools for conducting warrantless surveillance on foreign targets communicating with Americans, and its reauthorization or lapse will define US intelligence capabilities for years. The April 2026 expiry date on this market appears to reference a potential renewal window rather than the actual sunset, allowing traders to price in extended negotiations or delayed votes.
+The market currently prices Section 702 reauthorization at 58% odds with roughly two years until expiration, reflecting genuine uncertainty about whether this controversial surveillance tool will survive its 2026 deadline. This matters immediately because the political environment around mass surveillance has shifted dramatically since 2018—civil libertarian voices now span both parties, tech companies face pressure to resist government requests, and the Biden administration's handling of FBI abuses has energized oversight skeptics. The next Congress convenes in January 2025, making the 2025 legislative calendar critical for setting the reauthorization's trajectory.
 
-The bull case for reauthorization rests on institutional momentum and bipartisan national security consensus. Intelligence agencies, the FBI, and the Defense Department have consistently testified that Section 702 is essential for counterterrorism and counterintelligence, arguments that traditionally persuade moderate Democrats and most Republicans. The 2023 reauthorization debate, despite heated rhetoric from both civil libertarians and privacy advocates, ultimately produced strong renewal support when votes occurred. Key catalyst to watch: the Intelligence Committee typically handles reauthorization bills, and if leadership prioritizes this issue during 2024-2025 legislative sessions, passage becomes likely. Recent precedent suggests 6-12 months of debate before votes, positioning a late 2024 or 2025 decision as probable.
+The bull case for reauthorization rests on institutional inertia and national security consensus. Intelligence agencies and law enforcement have consistently testified that Section 702 is irreplaceable for counterterrorism and counterintelligence operations, arguments that typically prevail in closed-door hearings. Republican support for surveillance tools remains strong despite rhetoric about FBI abuses, and Democratic hawkish elements (particularly on China) may back extension. The most likely scenario involves a routine reauthorization bundled into must-pass legislation in late 2025 or early 2026, following the pattern of previous renewals. Polling shows Americans support foreign intelligence collection broadly, though specifics on warrantless surveillance of Americans' communications trigger opposition.
 
-The bear case centers on a genuine shift in Congressional sentiment around surveillance, particularly among younger Republicans influenced by civil liberties and Tea Party arguments. The 2023 debate revealed cracks—40+ House Republicans voted against reauthorization on principle, while progressive Democrats joined them on privacy grounds, creating an unusual coalition. If civil liberties groups successfully frame Section 702 as warrantless mass surveillance (which it effectively enables), and if the next Intelligence Committee includes more skeptical members, reauthorization could face genuine jeopardy. A key pressure point: documented cases of NSA misuse under this authority become public during 2024-2025, momentum could shift against renewal.
+The bear case hinges on unprecedented political alignment against broad surveillance powers. The 2023-2024 period saw genuine friction from Sens. Ron Wyden (D-OR), Rand Paul (R-KY), and others; if this coalition strengthens with new members, a clean reauthorization becomes harder. House Republicans, particularly the Freedom Caucus, have shown willingness to weaponize surveillance debates against the FBI's credibility post-Trump investigations. The expiration date arriving in April 2026—after the 2026 midterms but during a presidential election year—creates procedural complications. Any major intelligence leak or court ruling exposing widespread abuse of Section 702 could tip the political calculus toward reform or lapse.
 
-The 45% odds undervalue the default reauthorization bias in Congress while fairly reflecting rising anti-surveillance sentiment. Traders should monitor Intelligence Committee membership changes following 2024 elections, any major NSA abuse revelations, and whether either party weaponizes surveillance as a campaign issue. The narrow probability suggests the market prices in genuine uncertainty rather than congressional consensus, likely because 2023's close debate demonstrated this isn't automatic anymore.
+Key catalysts to monitor: House and Senate committee compositions following January 2025 (particularly the Intelligence and Judiciary committees), any significant FISA Court opinions in 2024-2025, presidential campaign rhetoric on surveillance, and whether the Trump administration returns to office in 2025. The Office of the Director of National Intelligence must submit a reauthorization proposal by early 2025, and floor votes typically occur by March 2026. Watch for whether reform-minded legislators successfully attach conditions (warrant requirements for US person communications) rather than blocking outright—this distinction would significantly impact odds.
 
 ## Related Markets
 
@@ -40,15 +40,15 @@ The 45% odds undervalue the default reauthorization bias in Congress while fairl
 
 ## Frequently Asked Questions
 
-### Why does this market expire in April 2026 when Section 702 actually sunsets in December 2024?
+### What happens to the market if Section 702 isn't explicitly reauthorized by April 2026?
 
-The market likely covers a renewal window extending beyond the technical sunset date, accounting for lame-duck sessions or carryover negotiations that could occur in early 2025. Reauthorization votes may not happen until late 2024 or early 2025, making an April 2026 resolution appropriate for capturing the full legislative arc.
+The authority technically expires, but surveillance operations could continue under legal challenge; practically, Congress typically passes emergency extensions rather than allowing lapses, so market odds hinge on whether that extension happens before deadline.
 
-### What percentage of Republicans and Democrats voted for or against Section 702 in the most recent reauthorization debate?
+### How much does a Trump administration returning to power in January 2025 shift reauthorization odds?
 
-The 2023 reauthorization passed overwhelmingly in the Senate but revealed House division, with 40+ Republicans voting no on principle and progressive Democrats opposing on privacy grounds, though the measure still passed. This coalition defection is precisely what makes 45% odds realistic rather than implying near-certain reauthorization.
+Trump's first term strongly supported Section 702 despite anti-FBI rhetoric, suggesting reauthorization odds should remain stable or increase if Republicans control Congress and the presidency simultaneously.
 
-### If Section 702 expires without reauthorization, can the NSA simply resume the program under different legal authority?
+### Could Section 702 be modified with warrant requirements rather than reauthorized as-is?
 
-No—the program would legally terminate, though the debate around succession authorities and emergency provisions could extend into 2025, which is
+Reform amendments are possible but politically difficult; any compromise requiring warrants for US person queries would likely reduce market odds since that constitutes a substantive change rather than simple reauthorization.
 

@@ -3,7 +3,7 @@ title: "Will Israel take military action in Gaza on April 9, 2026?"
 description: "Will Israel take military action in Gaza on April 9, 2026? Odds: 62.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Israel take military action in Gaza on April 9, 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-09
 expiryDate: 2026-04-30
 tags: ["politics", "polymarket"]

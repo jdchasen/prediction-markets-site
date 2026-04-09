@@ -3,7 +3,7 @@ title: "Rippling IPO before 2027?"
 description: "Rippling IPO before 2027? Odds: 14.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Rippling IPO before 2027?"
 category: "finance"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-09
 expiryDate: 2026-12-31
 tags: ["finance", "polymarket"]

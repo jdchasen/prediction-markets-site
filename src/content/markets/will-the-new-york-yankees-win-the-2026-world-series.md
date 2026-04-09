@@ -9,9 +9,8 @@ expiryDate: 2026-10-31
 tags: ["politics", "polymarket"]
 polymarketYes: 9.5
 polymarketNo: 90.5
-polymarketVolume: 97905
+polymarketVolume: 97955
 polymarketUrl: "https://polymarket.com/event/will-the-new-york-yankees-win-the-2026-world-series"
-analysisDate: 2026-04-09
 ---
 
 The Yankees are currently priced as a longshot to win the 2026 World Series at under 10% probability, reflecting both the inherent difficulty of championship predictions two years out and questions about the team's current competitive trajectory.

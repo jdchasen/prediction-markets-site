@@ -9,9 +9,8 @@ expiryDate: 2026-10-10
 tags: ["politics", "polymarket"]
 polymarketYes: 3.0
 polymarketNo: 97.0
-polymarketVolume: 971074
+polymarketVolume: 997179
 polymarketUrl: "https://polymarket.com/event/will-greta-thunberg-win-the-nobel-peace-prize-in-2026-767"
-analysisDate: 2026-04-09
 ---
 
 The market assigns minimal probability to Greta Thunberg receiving the 2026 Nobel Peace Prize, reflecting skepticism about her climate activism translating into the committee's current priorities despite her previous 2019 nomination.

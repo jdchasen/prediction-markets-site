@@ -8,9 +8,8 @@ lastUpdated: 2026-04-09
 tags: ["politics", "polymarket"]
 polymarketYes: 7.0
 polymarketNo: 93.0
-polymarketVolume: 9929
+polymarketVolume: 9947
 polymarketUrl: "https://polymarket.com/event/will-the-republicans-win-the-pennsylvania-governor-race-in-2026"
-analysisDate: 2026-04-09
 ---
 
 # Pennsylvania Governor 2026: Republicans Face Steep Structural Headwinds

@@ -3,7 +3,7 @@ title: "Ink FDV above $2B one day after launch?"
 description: "Ink FDV above $2B one day after launch? Odds: 8.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Ink FDV above $2B one day after launch?"
 category: "crypto"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-09
 expiryDate: 2027-01-01
 tags: ["crypto", "polymarket"]

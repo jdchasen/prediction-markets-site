@@ -11,7 +11,6 @@ polymarketYes: 1.7
 polymarketNo: 98.4
 polymarketVolume: 98460
 polymarketUrl: "https://polymarket.com/event/will-gold-gc-hit-high-9000-by-end-of-june"
-analysisDate: 2026-04-09
 ---
 
 The gold market is pricing in extreme skepticism that prices will more than triple from current levels around $2,650 to reach $9,000 by June 2026, with traders assigning less than 2% probability to this scenario that would require unprecedented monetary crisis or geopolitical upheaval.

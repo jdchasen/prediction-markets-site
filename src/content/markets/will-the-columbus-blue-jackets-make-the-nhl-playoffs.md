@@ -1,17 +1,16 @@
 ---
 title: "Will the Columbus Blue Jackets make the NHL Playoffs?"
-description: "Will the Columbus Blue Jackets make the NHL Playoffs? Odds: 26.0% YES on Polymarket. See live prices and trade this market."
+description: "Will the Columbus Blue Jackets make the NHL Playoffs? Odds: 27.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Columbus Blue Jackets make the NHL Playoffs?"
 category: "sports"
 status: "active"
 lastUpdated: 2026-04-09
 expiryDate: 2026-04-16
 tags: ["polymarket", "sports"]
-polymarketYes: 26.0
-polymarketNo: 74.0
-polymarketVolume: 9952
+polymarketYes: 27.0
+polymarketNo: 73.0
+polymarketVolume: 9963
 polymarketUrl: "https://polymarket.com/event/will-the-columbus-blue-jackets-make-the-nhl-playoffs"
-analysisDate: 2026-04-09
 ---
 
 # Columbus Blue Jackets Playoff Odds Analysis

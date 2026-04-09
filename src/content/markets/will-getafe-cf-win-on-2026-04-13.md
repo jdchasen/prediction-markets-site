@@ -3,7 +3,7 @@ title: "Will Getafe CF win on 2026-04-13?"
 description: "Will Getafe CF win on 2026-04-13? Odds: 34.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Getafe CF win on 2026-04-13?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-09
 expiryDate: 2026-04-13
 tags: ["politics", "polymarket"]

@@ -1,17 +1,16 @@
 ---
 title: "Will the Philadelphia Flyers win the 2026 NHL Stanley Cup?"
-description: "Will the Philadelphia Flyers win the 2026 NHL Stanley Cup? Odds: 1.4% YES on Polymarket. See live prices and trade this market."
+description: "Will the Philadelphia Flyers win the 2026 NHL Stanley Cup? Odds: 1.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Philadelphia Flyers win the 2026 NHL Stanley Cup?"
 category: "sports"
 status: "active"
 lastUpdated: 2026-04-09
 expiryDate: 2026-06-30
 tags: ["polymarket", "sports"]
-polymarketYes: 1.4
-polymarketNo: 98.7
-polymarketVolume: 997027
+polymarketYes: 1.1
+polymarketNo: 99.0
+polymarketVolume: 998029
 polymarketUrl: "https://polymarket.com/event/will-the-philadelphia-flyers-win-the-2026-nhl-stanley-cup"
-analysisDate: 2026-04-09
 ---
 
 The Philadelphia Flyers are currently given minimal championship odds at 1.4%, reflecting their position as a rebuilding franchise with significant ground to cover before contending for hockey's ultimate prize in 2026.

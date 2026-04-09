@@ -3,7 +3,7 @@ title: "Will Iran strike Al Zour Refinery by April 30?"
 description: "Will Iran strike Al Zour Refinery by April 30? Odds: 13.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Iran strike Al Zour Refinery by April 30?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-09
 expiryDate: 2026-04-30
 tags: ["politics", "polymarket"]

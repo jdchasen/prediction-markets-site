@@ -11,7 +11,6 @@ polymarketYes: 0.4
 polymarketNo: 99.7
 polymarketVolume: 9797
 polymarketUrl: "https://polymarket.com/event/will-scottish-conservatives-win-the-most-seats-in-the-2026-scottish-parliament-election"
-analysisDate: 2026-04-09
 ---
 
 # Scottish Conservative Seat Prediction: A Market Pricing in Near-Zero Probability

@@ -3,7 +3,7 @@ title: "Will United Left (BSP) win at least one seat in the 2026 Bulgarian parli
 description: "Will United Left (BSP) win at least one seat in the 2026 Bulgarian parliamentary election? Odds: 49.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will United Left (BSP) win at least one seat in the 2026 Bulgarian parliamentary election?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-09
 expiryDate: 2026-04-19
 tags: ["elections", "politics", "polymarket"]

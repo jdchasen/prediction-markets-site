@@ -3,7 +3,7 @@ title: "Will John Cornyn win the Texas Republican Senate Primary runoff by 9% or
 description: "Will John Cornyn win the Texas Republican Senate Primary runoff by 9% or more? Odds: 14.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will John Cornyn win the Texas Republican Senate Primary runoff by 9% or more?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-09
 expiryDate: 2026-05-25
 tags: ["politics", "polymarket"]

@@ -3,7 +3,7 @@ title: "Another crypto hack over $100m by December 31?"
 description: "Another crypto hack over $100m by December 31? Odds: 66.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Another crypto hack over $100m by December 31?"
 category: "crypto"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-09
 expiryDate: 2027-01-01
 tags: ["crypto", "polymarket"]

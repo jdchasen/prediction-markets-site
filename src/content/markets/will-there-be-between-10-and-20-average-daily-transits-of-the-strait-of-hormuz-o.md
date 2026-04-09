@@ -1,56 +1,59 @@
 ---
-title: "Will there be between 10 and 20 average daily transits of the Strait of Hormuz on March 31?"
-description: "Will there be between 10 and 20 average daily transits of the Strait of Hormuz on March 31? Odds: 12.5% YES on Polymarket. See live prices and trade this mar..."
-marketQuestion: "Will there be between 10 and 20 average daily transits of the Strait of Hormuz on March 31?"
+title: "Will there be between 10 and 20 average daily transits of the Strait of Hormuz on April 30?"
+description: "Will there be between 10 and 20 average daily transits of the Strait of Hormuz on April 30? Odds: 12.7% YES on Polymarket. See live prices and trade this mar..."
+marketQuestion: "Will there be between 10 and 20 average daily transits of the Strait of Hormuz on April 30?"
 category: "politics"
-status: "settled"
-lastUpdated: 2026-03-16
-expiryDate: 2026-03-31
+status: "active"
+lastUpdated: 2026-04-09
+expiryDate: 2026-04-30
 tags: ["ai", "politics", "polymarket"]
-polymarketYes: 12.5
-polymarketNo: 87.5
-polymarketVolume: 9611
-polymarketUrl: "https://polymarket.com/event/will-there-be-between-10-and-20-average-daily-transits-of-the-strait-of-hormuz-on-march-31"
+polymarketYes: 12.7
+polymarketNo: 87.4
+polymarketVolume: 9825
+polymarketUrl: "https://polymarket.com/event/will-there-be-between-10-and-20-average-daily-transits-of-the-strait-of-hormuz-on-april-30-633"
+analysisDate: 2026-04-09
 ---
 
-The market is pricing in a roughly 13% probability of normal transit volumes through one of the world's most critical maritime chokepoints on a specific date over two years away, reflecting deep uncertainty about geopolitical stability in the Persian Gulf. This matters because the Strait of Hormuz handles roughly 20-25% of global oil trade, making transit disruptions a major economic and political risk that could spike energy prices and reshape global supply chains.
+# Strait of Hormuz Transit Prediction Analysis
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 13.0% | 87.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 12.7% | 87.4% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The bull case for hitting 10-20 daily transits rests on the baseline assumption of continued normalization in the region. The 2023 Iran nuclear negotiations created space for potential JCPOA revival by early 2026, which would likely ease maritime tensions and remove Houthi incentives for attacks on shipping. A Joe Biden re-election in 2024 maintained pressure on Iran while keeping diplomatic channels open; any continuation of this approach would favor predictable transit patterns by March 2026. Additionally, if Houthi capabilities degrade through coalition military action or regional de-escalation, insurance costs and rerouting pressure would ease. Recent months have seen occasional stabilization in transit numbers after 2024's spike in incidents, suggesting the market hasn't fully repriced recovery potential.
+The market is pricing in a relatively low probability of normal shipping traffic through one of the world's most critical chokepoints, reflecting underlying geopolitical tension that traders believe could escalate before April 2026. This matters because roughly 20% of global oil passes through the Strait daily, so transit volume serves as a barometer for regional stability—particularly around U.S.-Iran relations, Israeli-Iranian tensions, and potential Houthi activity. At 12.7%, the market is essentially betting on disruption: either direct conflict, blockade, or sustained attacks that reduce daily transits below 10.
 
-The bear case hinges on geopolitical black swans that could easily trigger transit shutdowns or dramatic volume collapses. An Israeli military strike on Iranian nuclear facilities, escalating regional conflict, or a major terrorist attack on Gulf infrastructure could instantly push daily transits toward single digits or zero. A Trump administration return in 2025 introduces unpredictability on Iran policy—maximum pressure sanctions could reignite shipping attacks, while JCPOA withdrawal would eliminate any diplomatic off-ramp. Houthi drone and missile capabilities have proven difficult to fully neutralize despite coalition efforts. The 10-20 range itself is oddly narrow for such a volatile two-year window, suggesting the market may be underpricing tail-risk scenarios that push transits well below or above this band.
+The bull case for disruption rests on three structural risks. First, the incoming Trump administration (January 2025 onward) has signaled hardline Iran policy, including potential nuclear deal reversal and expanded sanctions, which historically correlates with escalated proxy activity in the region. Second, Houthi drone and missile strikes on shipping have already demonstrated the capacity to force rerouting; sustained attacks could easily drop average transits into single digits. Third, Israeli military operations could extend into Iranian territory, triggering Iranian retaliation that destabilizes the strait. The 16-month window provides ample time for these triggers to compound.
 
-Traders should monitor: Iranian elections scheduled for March 2024 and their impact on nuclear negotiations through 2025-2026; any new attacks on shipping or changes in Houthi operational capability through 2024-2025; U.S. election outcomes in November 2024 and subsequent Iran policy signals; and JCPOA status updates, particularly any breakthrough or collapse in talks. The January 2025 timeframe will be critical as new U.S. administration policies crystallize, fundamentally reshaping the probability trajectory toward March 2026.
+The bear case argues that 10-20 daily transits remain the most likely baseline even under pressure. Despite recent Houthi attacks, the strait has not been formally closed, and insurance markets continue functioning. Regional players—Saudi Arabia, UAE, and global shipping companies—have strong incentives to keep traffic flowing, with rerouting around Africa adding 2-3 weeks and substantial cost. The 12.7% odds may overcorrect for tail risk; historical precedent (2019 tanker attacks, 2020 Soleimani aftermath) shows the strait remains operational even under significant stress. By April 2026, any escalation would likely have already plateaued or de-escalated through diplomacy or deterrence.
+
+Key catalysts to monitor include Trump administration announcements on Iran policy (likely January-March 2025), any Israeli-Iranian military exchanges, OPEC+ production decisions (which influence transit necessity), and cumulative Houthi attack frequency through Q1 2025. Watch shipping insurance premiums and Llyod's List transit reports monthly—a sustained drop below 15 daily transits in early 2025 would sharply increase disruption odds. The market's current implied scenario suggests confidence in continued baseline operations, but a single major escalatory event in the next 12 months could dramatically reprrice this before expiry.
 
 ## Related Markets
 
-- [Netanyahu out by March 31?](/odds/netanyahu-out-by-march-31) — 6% YES
-- [Will the Iranian regime fall before 2027?](/odds/will-the-iranian-regime-fall-before-2027) — 38% YES
-- [Will Robert F. Kennedy Jr. win the 2028 Republican presidential nomination?](/odds/will-robert-f-kennedy-jr-win-the-2028-republican-presidential-nomination) — 1% YES
+- [Will Pete Buttigieg win the 2028 Democratic presidential nomination?](/odds/will-pete-buttigieg-win-the-2028-democratic-presidential-nomination) — 4% YES
+- [Will Tucker Carlson win the 2028 US Presidential Election?](/odds/will-tucker-carlson-win-the-2028-us-presidential-election) — 2% YES
+- [Will Bruno Retailleau win the 2027 French presidential election?](/odds/will-bruno-retailleau-win-the-2027-french-presidential-election) — 3% YES
 
 ## Frequently Asked Questions
 
-### Why is the 10-20 daily transit range significant, and what do current volumes look like?
+### How are daily transits currently measured, and who reports the numbers this market will settle on?
 
-The Strait historically sees 20+ daily transits during normal conditions; 10-20 represents a meaningful contraction suggesting either geopolitical tensions or supply shock, whereas below 10 implies near-complete disruption. Current 2024 data hovers around 15-18 transits daily, making this band surprisingly achievable under baseline assumptions.
+The International Maritime Organization and regional monitoring services track tanker and cargo ship crossings; most prediction markets reference official shipping data from UKMTO (UK Maritime Trade Operations) or energy research firms like Tanker Trackers that publish daily transit counts.
 
-### How much does a single major incident (like a ship sinking or facility strike) typically affect daily transit counts?
+### If a major attack occurs but shipping companies reroute around Africa instead of stopping transit, does that count toward the 10-20 range?
 
-Major incidents usually cause 3-7 day disruptions with 40-60% volume drops as shipping companies reroute or pause transit; sustained counts below 10 require either prolonged Strait closure or multi-month geopolitical crisis, not isolated attacks.
+No—the market condition specifies "transits of the Strait of Hormuz," so rerouted ships bypassing the strait entirely would not be counted, creating an inherent bias toward the lower probability outcome if escalation forces widespread rerouting.
 
-### Could JCPOA revival by mid-2025 essentially guarantee this market hits YES?
+### Could OPEC+ production cuts before April 2026 reduce transit volume naturally, independent of geopolitical disruption?
 
-Revival would dramatically improve odds by removing Iranian incentive to destabilize shipping, but it wouldn't guarantee the 10-20 band since global supply sh
+Yes—lower global oil demand or deliberate OPEC+ supply reductions could independently push average daily transits below 10 or above
 
 ## Learn More
 
-- [Prediction Market Roundup March 05, 2026](/blog/daily-market-pulse-2026-03-05)
-- [Prediction Market Roundup March 04, 2026](/blog/daily-market-pulse-2026-03-04)
+- [Iran Strikes US Embassy | Daily Market Pulse](/blog/daily-market-pulse-2026-03-03)
+- [Khamenei Gone? Polymarket Hits 91.6% | Daily Market Pulse](/blog/daily-market-pulse-2026-02-28)
 

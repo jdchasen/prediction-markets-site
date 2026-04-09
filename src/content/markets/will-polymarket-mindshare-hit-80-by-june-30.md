@@ -11,7 +11,6 @@ polymarketYes: 73.5
 polymarketNo: 26.5
 polymarketVolume: 9779
 polymarketUrl: "https://polymarket.com/event/will-polymarket-mindshare-hit-80-by-june-30"
-analysisDate: 2026-04-09
 ---
 
 # Polymarket Mindshare Analysis

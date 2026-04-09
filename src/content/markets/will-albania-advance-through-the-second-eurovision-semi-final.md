@@ -3,7 +3,7 @@ title: "Will Albania advance through the second Eurovision Semi-Final?"
 description: "Will Albania advance through the second Eurovision Semi-Final? Odds: 68.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Albania advance through the second Eurovision Semi-Final?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-09
 expiryDate: 2026-05-14
 tags: ["politics", "polymarket"]

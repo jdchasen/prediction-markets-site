@@ -3,7 +3,7 @@ title: "U.S. evacuates Beirut Embassy by April 30?"
 description: "U.S. evacuates Beirut Embassy by April 30? Odds: 6.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "U.S. evacuates Beirut Embassy by April 30?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-09
 expiryDate: 2026-04-30
 tags: ["politics", "polymarket"]

@@ -9,9 +9,8 @@ expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 21.0
 polymarketNo: 79.0
-polymarketVolume: 9895
+polymarketVolume: 9896
 polymarketUrl: "https://polymarket.com/event/will-zelenskyy-talk-to-putin-by-december-31-992"
-analysisDate: 2026-04-09
 ---
 
 # Zelenskyy-Putin Direct Talks Market Analysis

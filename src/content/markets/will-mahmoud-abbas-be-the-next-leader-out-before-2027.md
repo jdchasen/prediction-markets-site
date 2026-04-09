@@ -3,7 +3,7 @@ title: "Will Mahmoud Abbas be the next leader out before 2027?"
 description: "Will Mahmoud Abbas be the next leader out before 2027? Odds: 1.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Mahmoud Abbas be the next leader out before 2027?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-09
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]

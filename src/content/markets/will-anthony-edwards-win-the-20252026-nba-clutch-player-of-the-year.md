@@ -8,10 +8,9 @@ lastUpdated: 2026-04-09
 expiryDate: 2026-06-30
 tags: ["polymarket", "sports"]
 polymarketYes: 0.4
-polymarketNo: 99.6
+polymarketNo: 99.7
 polymarketVolume: 9903
 polymarketUrl: "https://polymarket.com/event/nba-2025-26-clutch-player-of-the-year-anthony-edwards"
-analysisDate: 2026-04-09
 ---
 
 # Anthony Edwards Clutch Player of the Year Analysis

@@ -3,7 +3,7 @@ title: "Will David Ganezer receive the most votes in the CA-11 primary?"
 description: "Will David Ganezer receive the most votes in the CA-11 primary? Odds: 0.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will David Ganezer receive the most votes in the CA-11 primary?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-09
 expiryDate: 2026-06-02
 tags: ["politics", "polymarket"]
