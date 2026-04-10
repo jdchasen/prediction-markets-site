@@ -1,53 +1,54 @@
 ---
 title: "Will Pete Buttigieg win the 2028 Democratic presidential nomination?"
-description: "Will Pete Buttigieg win the 2028 Democratic presidential nomination? Odds: 3.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Pete Buttigieg win the 2028 Democratic presidential nomination? Odds: 3.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Pete Buttigieg win the 2028 Democratic presidential nomination?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-04-10
 expiryDate: 2028-11-07
 tags: ["politics", "polymarket"]
-polymarketYes: 3.5
-polymarketNo: 96.5
-polymarketVolume: 9859729
+polymarketYes: 3.9
+polymarketNo: 96.2
+polymarketVolume: 9964336
 polymarketUrl: "https://polymarket.com/event/will-pete-buttigieg-win-the-2028-democratic-presidential-nomination-687"
+analysisDate: 2026-04-10
 ---
 
-Pete Buttigieg currently sits at minimal odds to capture the 2028 Democratic nomination, reflecting widespread uncertainty about whether Biden will seek reelection in 2024 and who would emerge from a potentially crowded 2028 field.
+Pete Buttigieg's chances of securing the 2028 Democratic nomination currently sit below 4%, reflecting skepticism about his ability to overcome a crowded field and political headwinds despite his high-profile Cabinet position as Transportation Secretary.
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 3.5% | 96.5% | $9.9M | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 3.9% | 96.2% | $10.0M | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The bull case for Buttigieg centers on his cabinet experience as Transportation Secretary, where he's accumulated executive branch credentials while maintaining visibility through infrastructure project announcements tied to the 2021 bipartisan infrastructure law. If Biden wins in 2024 and doesn't run in 2028, Buttigieg could position himself as the continuity candidate who appeals to moderate Democrats and suburban voters who swung the party's way in recent cycles. His strong debate performances and fundraising ability from 2020 remain assets, and he would enter as one of the few candidates with both executive government experience and a national campaign infrastructure. The rollout of major infrastructure projects through 2025-2027 gives him repeated opportunities for positive media coverage in swing states.
+The bull case rests on Buttigieg's executive experience managing a major federal department, his proven fundraising ability from 2020, and his potential to consolidate moderate Democratic voters if the party seeks a centrist alternative to progressive candidates. His visibility during infrastructure project rollouts—particularly as bipartisan infrastructure law projects continue breaking ground through 2024-2026—gives him a platform to tout accomplishments in swing states. If Vice President Kamala Harris declines to run or stumbles early, Buttigieg could position himself as the establishment-backed candidate with both governing credentials and generational appeal. His strong debate performances in 2020 demonstrated his ability to compete on national stages.
 
-The bear case is substantial: Buttigieg finished fourth in Iowa despite intense focus on the state, struggled badly with Black voters in 2020 primaries, and would face a field likely including governors with executive experience and senators with legislative records on progressive priorities. Vice President Kamala Harris would likely run if Biden doesn't, immediately consolidating party establishment support and donor networks. California Governor Gavin Newsom, Michigan Governor Gretchen Whitmer, and others have been actively building national profiles. Buttigieg's tenure at Transportation has been marked by Southwest Airlines meltdowns, the East Palestine train derailment, and ongoing airline service complaints—giving opponents ready attack lines. His 2020 campaign revealed a ceiling with Black voters in Southern primaries that would be difficult to overcome.
+The bear case is more substantial. Buttigieg has faced criticism over transportation crises from the East Palestine derailment in February 2023 to ongoing airline disruptions, creating baggage that primary opponents will exploit. He finished the 2020 race winning zero delegates after South Carolina, revealing critical weakness with Black voters—a constituency that comprises a majority of Democratic primary voters in key early states. Governors like Gavin Newsom, Gretchen Whitmer, and Josh Shapiro enter with stronger profiles, executive accomplishments at the state level, and fewer national controversies. Early 2027 polling in Iowa and New Hampshire will be crucial indicators, but current national Democratic polling for 2028 shows Buttigieg consistently in single digits behind multiple rivals.
 
-Key catalysts include the 2024 presidential election outcome (November 2024), Biden's decision on running in 2028 (likely announced mid-2027), and the Iowa caucuses and New Hampshire primary (February 2028). Traders should monitor Buttigieg's visibility on major infrastructure projects, any moves toward building a 2028 campaign structure, and whether he cultivates relationships with Black political leaders and progressive activists—gaps that proved fatal in 2020. Harris's poll numbers and whether she remains as VP through a potential second Biden term would significantly impact the field dynamics. The first official indication of candidate interest typically emerges 18-24 months before Iowa, placing that window in mid-2026.
+Key catalysts to monitor include the 2026 midterms, where Cabinet members typically maintain low profiles but potential rivals like governors will generate headlines and demonstrate electoral strength. The first Democratic cattle calls and candidate forums will likely begin in early 2027, with Iowa and New Hampshire filing deadlines typically falling in November 2027. Any major transportation infrastructure failures or successes in 2025-2026 will significantly impact Buttigieg's viability. The Democratic National Committee's decision on the primary calendar—whether Iowa and New Hampshire retain their early status or if more diverse states lead—could fundamentally reshape his path.
 
 ## Related Markets
 
-- [Will Tucker Carlson win the 2028 US Presidential Election?](/odds/will-tucker-carlson-win-the-2028-us-presidential-election) — 2% YES
-- [Will Bruno Retailleau win the 2027 French presidential election?](/odds/will-bruno-retailleau-win-the-2027-french-presidential-election) — 3% YES
-- [Will Greta Thunberg win the Nobel Peace Prize in 2026?](/odds/will-greta-thunberg-win-the-nobel-peace-prize-in-2026) — 3% YES
+- [Will Tucker Carlson win the 2028 US Presidential Election?](/odds/will-tucker-carlson-win-the-2028-us-presidential-election) — 4% YES
+- [Will Andy Beshear win the 2028 Democratic presidential nomination?](/odds/will-andy-beshear-win-the-2028-democratic-presidential-nomination) — 2% YES
+- [Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?](/odds/will-amanda-anisimova-be-the-2026-womens-wimbledon-winner) — 5% YES
 
 ## Frequently Asked Questions
 
-### How does Kamala Harris's position as VP affect Buttigieg's chances if Biden doesn't run in 2028?
+### Why did Buttigieg struggle with Black voters in 2020, and has anything changed?
 
-Harris would enter with enormous structural advantages including the entire Biden donor network, establishment endorsements, and name recognition, effectively blocking Buttigieg's moderate lane. Historical precedent strongly favors sitting VPs who seek their party's nomination.
+His record as South Bend mayor included tensions over policing issues and low Black support, contributing to his South Carolina collapse. While serving in a Democratic administration provides more exposure to diverse constituencies, he hasn't demonstrated measurable improvement in this critical weakness.
 
-### Could Buttigieg's performance as Transportation Secretary significantly improve his odds?
+### How does Biden's infrastructure law help or hurt Buttigieg's presidential prospects?
 
-A flawless infrastructure rollout through 2027 could help, but cabinet positions rarely serve as successful presidential launching pads—voters typically prefer governors or VPs with executive experience or senators with legislative accomplishments on high-profile issues.
+Successfully delivering visible projects in swing states could provide accomplishment talking points, but he also owns every airport meltdown, train derailment, and supply chain crisis under his watch. The upside is limited while the downside risk is substantial for a Cabinet secretary whose department faces constant scrutiny.
 
 ### What would need to happen for Buttigieg's odds to reach 20% or higher?
 
-He would need Harris to decline running, Biden to explicitly back him as a successor, and demonstrate dramatically improved support among Black voters through sustained outreach and endorsements from influential Black political leaders in South Carolina and other key primary states.
+Harris would need to definitively exit the race, at least two major governors would need to decline running, and Buttigieg would need to demonstrate drastically improved polling among Black voters in early 2027 surveys—a combination of events that appears unlikely given current political dynamics.
 
 ## Learn More
 

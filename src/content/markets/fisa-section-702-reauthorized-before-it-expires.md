@@ -3,7 +3,7 @@ title: "FISA Section 702 reauthorized before it expires?"
 description: "FISA Section 702 reauthorized before it expires? Odds: 58.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "FISA Section 702 reauthorized before it expires?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-10
 expiryDate: 2026-04-19
 tags: ["politics", "polymarket"]

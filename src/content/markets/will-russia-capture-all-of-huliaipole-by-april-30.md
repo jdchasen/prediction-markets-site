@@ -1,17 +1,16 @@
 ---
 title: "Will Russia capture all of Huliaipole by April 30?"
-description: "Will Russia capture all of Huliaipole by April 30? Odds: 54.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Russia capture all of Huliaipole by April 30? Odds: 53.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Russia capture all of Huliaipole by April 30?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-04-10
 expiryDate: 2026-04-30
 tags: ["ai", "politics", "polymarket"]
-polymarketYes: 54.5
-polymarketNo: 45.5
-polymarketVolume: 98161
+polymarketYes: 53.0
+polymarketNo: 47.0
+polymarketVolume: 99910
 polymarketUrl: "https://polymarket.com/event/will-russia-capture-all-of-huliaipole-by-april-30"
-analysisDate: 2026-04-10
 ---
 
 The market pricing Russia's capture of Huliaipole at roughly even odds reflects the city's position on a critical frontline in Zaporizhzhia Oblast, where Russian forces have been gradually advancing since late 2024 but face significant logistical and defensive obstacles before the April 2025 deadline.

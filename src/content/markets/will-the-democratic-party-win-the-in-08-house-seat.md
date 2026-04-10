@@ -1,17 +1,16 @@
 ---
 title: "Will the Democratic Party win the IN-08 House seat?"
-description: "Will the Democratic Party win the IN-08 House seat? Odds: 6.0% YES on Polymarket. See live prices and trade this market."
+description: "Will the Democratic Party win the IN-08 House seat? Odds: 5.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Democratic Party win the IN-08 House seat?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-04-10
 expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
-polymarketYes: 6.0
-polymarketNo: 94.0
+polymarketYes: 5.5
+polymarketNo: 94.5
 polymarketVolume: 9846
 polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-in-08-house-seat"
-analysisDate: 2026-04-10
 ---
 
 # IN-08 Democratic Viability in Deep Red Territory

@@ -11,7 +11,6 @@ polymarketYes: 84.0
 polymarketNo: 16.0
 polymarketVolume: 9815
 polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-nc-03-house-seat"
-analysisDate: 2026-04-10
 ---
 
 # NC-03 Republican Hold Analysis

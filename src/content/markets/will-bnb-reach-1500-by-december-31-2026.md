@@ -3,15 +3,14 @@ title: "Will BNB reach $1500 by December 31, 2026?"
 description: "Will BNB reach $1500 by December 31, 2026? Odds: 10.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will BNB reach $1500 by December 31, 2026?"
 category: "politics"
-status: "settled"
-lastUpdated: 2026-04-09
+status: "active"
+lastUpdated: 2026-04-10
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]
 polymarketYes: 10.5
 polymarketNo: 89.5
-polymarketVolume: 9728
+polymarketVolume: 9731
 polymarketUrl: "https://polymarket.com/event/will-bnb-reach-1500-by-december-31-2026"
-analysisDate: 2026-04-09
 ---
 
 # BNB Price Target Analysis: $1500 by End of 2026

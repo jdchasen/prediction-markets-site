@@ -9,45 +9,46 @@ expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 0.9
 polymarketNo: 99.2
-polymarketVolume: 97727
+polymarketVolume: 98006
 polymarketUrl: "https://polymarket.com/event/will-mahmoud-abbas-be-the-next-leader-out-before-2027-629"
+analysisDate: 2026-04-10
 ---
 
-The market currently prices an extremely low probability that Palestinian Authority President Mahmoud Abbas will be the next major world leader to leave power before 2027, reflecting both his entrenched position and the geopolitical status quo in Palestinian territories. Abbas, who turned 89 in November 2024, has held the presidency since 2005 despite his four-year term technically expiring in 2009, governing without elections through decree and control of security forces. This market matters because succession in the PA could significantly reshape Israeli-Palestinian dynamics and regional stability.
+The market pricing Mahmoud Abbas's departure at under 1% suggests traders view the Palestinian Authority president as extremely unlikely to be the next major world leader to leave office before 2027, despite his advanced age of 89 and declining health concerns that have periodically surfaced in recent years.
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 1.2% | 98.8% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.9% | 99.2% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The bull case for Abbas departing centers on his advanced age and deteriorating health concerns, which have periodically surfaced in regional media reports over recent years. At 89, actuarial tables alone suggest meaningful mortality risk before 2027. Additionally, internal Fatah power struggles have intensified, with potential successors like Hussein al-Sheikh and Mahmoud al-Aloul positioning themselves for leadership transitions. The ongoing Gaza conflict has further exposed the PA's declining relevance and legitimacy, potentially accelerating pressure for change from both Palestinian publics and international actors. Any serious health episode or popular uprising could rapidly shift this calculus.
+The bear case for this market centers on Abbas's demonstrated ability to maintain power despite significant challenges. He has governed the PA without holding elections since 2005, having repeatedly postponed scheduled votes including the 2021 legislative and presidential elections that were canceled just weeks before they were set to occur. The fragmented nature of Palestinian politics, combined with international actors who prefer dealing with a known entity, has enabled Abbas to consolidate authority within both Fatah and the broader PA structure. His control over security forces and patronage networks makes internal challenges difficult, while no clear succession mechanism exists that would guarantee a peaceful transfer of power. The definition of "next leader out" also matters—numerous world leaders could potentially exit before Abbas given the long timeframe extending to 2027.
 
-The bear case is substantially stronger given Palestinian political realities. Abbas has systematically eliminated institutional checks on his power, postponing elections indefinitely and marginalizing rivals within Fatah. No mechanism exists to remove him involuntarily short of death, as the PA lacks functioning democratic institutions or a robust succession framework. Regional powers including Israel, Egypt, and Jordan have shown preference for Abbas's predictable governance over potential chaos or Hamas influence in the West Bank. Historical precedent suggests authoritarian leaders in similar positions often retain power longer than health concerns might indicate, with examples throughout the Middle East of elderly leaders maintaining control into their 90s.
+The bull case relies primarily on actuarial reality and health speculation. At 89, Abbas would be 92 by the market's expiry, an age where mortality risk increases substantially regardless of medical care access. Reports have circulated intermittently about hospitalizations and health episodes, though these are often difficult to verify given the PA's opacity. A sudden health crisis could force a transition, whether through formal resignation, incapacitation, or death. Additionally, the political landscape in the West Bank remains volatile—heightened tensions with Israel, economic pressures on the PA, and growing frustration among Palestinians could theoretically create conditions for forced removal, though Abbas has weathered similar pressures for nearly two decades.
 
-Key catalysts to monitor include any credible health bulletins about Abbas's condition, which the PA typically suppresses but occasionally leak through Israeli or regional intelligence sources. The status of Fatah's internal dynamics and whether Abbas designates a clear successor would signal transition planning. International pressure for PA reforms, particularly from the Biden or subsequent U.S. administrations, could theoretically force changes, though this has failed repeatedly since 2006. The evolution of the Gaza conflict and any push for unified Palestinian governance could create external pressure for leadership change, though the 1.2% odds appropriately reflect how Abbas has weathered similar pressures for nearly two decades.
+Traders should monitor several key indicators: any credible reports of Abbas hospitalization or medical treatment, announcements regarding potential elections (however unlikely), shifts in Fatah's internal power dynamics particularly around figures like Hussein al-Sheikh or Mahmoud al-Aloul, and changes in international support from key backers. The market's extremely low probability reflects both Abbas's entrenched position and the number of other aging world leaders globally who statistically might exit office first, making this a long-shot bet that requires multiple conditions to align.
 
 ## Related Markets
 
 - [Will Pete Buttigieg win the 2028 Democratic presidential nomination?](/odds/will-pete-buttigieg-win-the-2028-democratic-presidential-nomination) — 4% YES
-- [Will Tucker Carlson win the 2028 US Presidential Election?](/odds/will-tucker-carlson-win-the-2028-us-presidential-election) — 2% YES
-- [Will Bruno Retailleau win the 2027 French presidential election?](/odds/will-bruno-retailleau-win-the-2027-french-presidential-election) — 3% YES
+- [Will Tucker Carlson win the 2028 US Presidential Election?](/odds/will-tucker-carlson-win-the-2028-us-presidential-election) — 4% YES
+- [Will Andy Beshear win the 2028 Democratic presidential nomination?](/odds/will-andy-beshear-win-the-2028-democratic-presidential-nomination) — 2% YES
 
 ## Frequently Asked Questions
 
-### Who are the most likely successors to Abbas if he were to leave power?
+### Why is "next leader out" significant for this market's pricing?
 
-Hussein al-Sheikh (Secretary-General of the PLO Executive Committee) and Mahmoud al-Aloul (Fatah deputy chairman) are considered frontrunners, though Abbas has deliberately avoided anointing a successor to prevent rivals from consolidating power. Marwan Barghouti, imprisoned in Israel since 2002, maintains significant popularity but remains unavailable.
+This market requires Abbas to leave office before any other current world leader, not just to exit by 2027. Given numerous elderly leaders worldwide and the timeframe extending nearly three years, the sequential requirement dramatically reduces the probability even if Abbas himself faces departure risk.
 
-### What would trigger an actual transition given Abbas hasn't held elections since 2006?
+### What happens to this market if Abbas leaves office but other leaders have already departed first?
 
-Only Abbas's death appears likely to force succession, as he controls all PA institutions and security services that could otherwise compel a transition. A severe incapacitating health crisis might create a power vacuum, but even this could lead to prolonged uncertainty rather than orderly succession.
+The market resolves NO if any other world leader exits before Abbas, regardless of whether Abbas subsequently leaves office before the December 2026 expiry. The "next" qualifier is the critical condition that must be met.
 
-### How does this market define "next leader out" and who are the competing leaders being tracked?
+### Has there been any recent movement toward Palestinian elections that could force a transition?
 
-This market compares Abbas against other major world leaders to determine who leaves power next, whether through election loss, resignation, death, or removal. Traders should verify the specific list of leaders included in the comparison, as this dramatically affects the probability calculation.
+No credible election timeline exists despite occasional rhetoric. Abbas canceled the most recently scheduled elections in April 2021, citing Israeli restrictions on voting in East Jerusalem, and no subsequent dates have been set despite domestic and international calls for democratic renewal.
 
 ## Learn More
 

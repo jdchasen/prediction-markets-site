@@ -9,9 +9,8 @@ expiryDate: 2026-05-16
 tags: ["politics", "polymarket"]
 polymarketYes: 39.0
 polymarketNo: 61.0
-polymarketVolume: 9872
+polymarketVolume: 9897
 polymarketUrl: "https://polymarket.com/event/will-sweden-be-in-the-top-5-at-eurovision-2026"
-analysisDate: 2026-04-10
 ---
 
 # Eurovision 2026 Sweden Top 5 Prediction Market Analysis

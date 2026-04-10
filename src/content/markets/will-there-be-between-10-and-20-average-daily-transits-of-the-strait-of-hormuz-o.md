@@ -1,15 +1,15 @@
 ---
 title: "Will there be between 10 and 20 average daily transits of the Strait of Hormuz on April 30?"
-description: "Will there be between 10 and 20 average daily transits of the Strait of Hormuz on April 30? Odds: 18.9% YES on Polymarket. See live prices and trade this mar..."
+description: "Will there be between 10 and 20 average daily transits of the Strait of Hormuz on April 30? Odds: 12.8% YES on Polymarket. See live prices and trade this mar..."
 marketQuestion: "Will there be between 10 and 20 average daily transits of the Strait of Hormuz on April 30?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-04-10
 expiryDate: 2026-04-30
 tags: ["ai", "politics", "polymarket"]
-polymarketYes: 18.9
-polymarketNo: 81.0
-polymarketVolume: 9871
+polymarketYes: 12.8
+polymarketNo: 87.2
+polymarketVolume: 9944
 polymarketUrl: "https://polymarket.com/event/will-there-be-between-10-and-20-average-daily-transits-of-the-strait-of-hormuz-on-april-30-633"
 analysisDate: 2026-04-10
 ---
@@ -20,35 +20,35 @@ analysisDate: 2026-04-10
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 18.9% | 81.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 12.8% | 87.2% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The current 18.9% YES pricing suggests traders assess a low probability of normal shipping traffic through the Strait of Hormuz by April 2026, reflecting baseline concerns about regional stability nearly two years out. This market matters because the Strait handles roughly 21% of global petroleum trade, making its transit volume a direct indicator of Middle East geopolitical risk and potential economic disruption. The narrow 10-20 transits-per-day band targets "normal" peacetime traffic—roughly half historical averages—so the market is essentially pricing the odds of significant regional conflict or sanctions disruption within the next 18+ months.
+The market is pricing in only a 12.8% probability of 10-20 daily transits through the Strait of Hormuz on April 30, 2026, reflecting expectations of either significantly higher or lower traffic than this narrow band. This matters because transit volumes through the world's most critical oil chokepoint directly signal geopolitical stability in the Persian Gulf and broader U.S.-Iran relations, making it a measurable proxy for regional escalation or de-escalation. The extremely low odds suggest the market expects either robust 20+ daily transits (normal to elevated traffic in a stable scenario) or a dramatic collapse below 10 (reflecting conflict, sanctions escalation, or blockade conditions).
 
-The bull case for YES rests on the assumption that current tensions, while elevated, don't escalate into sustained blockade or military action by April 2026. Supporters point to the U.S. Navy's consistent naval presence, ongoing diplomatic channels (however strained), and economic incentives for all parties to maintain some level of commerce. If the Iran nuclear negotiations restart meaningfully or if a new U.S. administration (post-2024 election) pursues de-escalation, baseline traffic could recover toward historical norms. The bear case centers on multiple flashpoint risks: potential Israeli-Iran direct conflict expansion following October 2023 dynamics, U.S.-Iran tensions around sanctions enforcement, Houthi drone and missile attacks on shipping, and potential Chinese-U.S. confrontation over Taiwan that indirectly destabilizes the region. Any sustained blockade attempt, mining, or major attack on shipping infrastructure would easily push daily transits well below the 10-20 threshold.
+The bull case for hitting 10-20 transits assumes a significant deterioration in regional stability between now and April 2026. This could materialize through renewed U.S. sanctions on Iranian oil exports under a new administration taking office in January 2025, Iranian retaliation for Israeli military strikes, or a direct naval confrontation between U.S. and Iranian forces. If the incoming Trump administration implements "maximum pressure 2.0" on Iran—a real possibility given recent political dynamics—transit volumes could compress sharply as buyers avoid Iranian crude and tanker operators route around the strait. The bear case argues that baseline traffic will remain elevated well above 20 vessels daily, as global oil demand and existing trade patterns prove remarkably resilient. Even under moderate sanctions regimes, refineries maintain long-term contracts and tankers find economic workarounds; a 10-20 range assumes disruption severe enough to cut current volumes roughly in half but not catastrophic enough to trigger a full blockade.
 
-Key catalysts to monitor include U.S. sanctions policy shifts (Treasury typically announces major Iran designations in spring/fall cycles), Israeli-Iran military incidents (unpredictable but recurring), and any formal negotiations or talks resumption (unlikely before mid-2025 at earliest given current U.S. political calendar). The 2024 U.S. presidential election in November could prove consequential: a change in administration may signal different Iran policy direction by Q2 2025. Houthi activity patterns, currently disruptive but episodic, bear close watching—a major escalation there could trigger insurance and routing changes that reduce Hormuz transits even without outright closure. Watch for any statements from Iran's Revolutionary Guard Corps or Israeli defense officials signaling preparedness for direct conflict, as these often precede incidents by weeks to months.
+Key catalysts to monitor include the U.S. presidential transition in January 2025 and any resulting Iran policy shifts within the first 100 days, Israeli-Iranian military developments through late 2025, and OPEC+ production decisions in Q1 2026 that could influence baseline shipping demand. Watch for any formal nuclear talks resuming or collapsing (JCPOA-related announcements could shift probabilities sharply), tanker incident reporting throughout 2025, and U.S. Navy posture changes in the Gulf. The narrow 10-20 band itself creates adverse odds—traders are essentially betting on precise disruption severity rather than binary geopolitical outcomes, which is why the probability remains depressed.
 
 ## Related Markets
 
-- [Will Trump visit China by April 30?](/odds/will-trump-visit-china-by-april-30) — 2% YES
 - [Will Pete Buttigieg win the 2028 Democratic presidential nomination?](/odds/will-pete-buttigieg-win-the-2028-democratic-presidential-nomination) — 4% YES
 - [Will Tucker Carlson win the 2028 US Presidential Election?](/odds/will-tucker-carlson-win-the-2028-us-presidential-election) — 4% YES
+- [Will Andy Beshear win the 2028 Democratic presidential nomination?](/odds/will-andy-beshear-win-the-2028-democratic-presidential-nomination) — 2% YES
 
 ## Frequently Asked Questions
 
-### What counts as a "transit" in this market—does it include partial transits or only vessels that pass completely through the Strait?
+### What specific daily transit volume counts as "normal" baseline for the Strait of Hormuz that traders should use as a reference point?
 
-This requires checking the market's specific definition, but typically these markets count vessels that enter the Strait's international waters regardless of destination, with daily counts aggregated from port authority or maritime tracking data.
+Approximately 25-35 vessels transit daily under stable conditions, meaning the 10-20 band represents roughly 40-60% of baseline traffic—enough to signal meaningful disruption but not total blockade.
 
-### How have daily transit volumes actually ranged historically, and why is 10-20 the "normal" threshold?
+### How would a hypothetical Israeli military strike on Iranian oil infrastructure by early 2026 influence the probability of hitting this range?
 
-Pre-2023, daily transits averaged 40-50 vessels; the 10-20 band appears to assume roughly 50% reduction from baseline, implying either partial blockade conditions or significant rerouting around the Cape of Good Hope due to risk premiums.
+Such a strike would likely push transits below 10 (as buyers flee Iranian crude and risk premiums spike), making the 10-20 band less likely unless the strike is limited in scope and Iran refrains from full retaliation.
 
-### If a major attack closes the Strait for a single day in April 2026, does the market resolve YES or NO?
+### Why is this market's expiration date specifically April 30, 2026 rather than a year-end date?
 
-Resolution depends on whether that day's average still falls within 10-20 transits; a closure day would likely register near zero transits, pushing the month's average below the threshold and resolving NO.
+April 30 was likely chosen to capture post-election policy implementation but before summer demand peaks, making transit volumes more sensitive to deliberate policy changes rather than seasonal factors.
 
 ## Learn More
 

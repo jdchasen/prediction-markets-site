@@ -11,7 +11,6 @@ polymarketYes: 0.4
 polymarketNo: 99.7
 polymarketVolume: 9862
 polymarketUrl: "https://polymarket.com/event/will-switzerland-be-the-jury-winner-in-the-eurovision-2026-grand-final"
-analysisDate: 2026-04-10
 ---
 
 # Eurovision 2026 Switzerland Jury Winner Analysis

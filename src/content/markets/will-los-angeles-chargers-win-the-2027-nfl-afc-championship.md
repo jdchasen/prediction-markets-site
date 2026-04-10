@@ -3,7 +3,7 @@ title: "Will Los Angeles Chargers win the 2027 NFL AFC Championship?"
 description: "Will Los Angeles Chargers win the 2027 NFL AFC Championship? Odds: 8.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Los Angeles Chargers win the 2027 NFL AFC Championship?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-10
 expiryDate: 2027-01-25
 tags: ["polymarket", "sports"]

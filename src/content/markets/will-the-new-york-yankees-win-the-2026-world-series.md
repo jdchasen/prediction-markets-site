@@ -9,9 +9,8 @@ expiryDate: 2026-10-31
 tags: ["politics", "polymarket"]
 polymarketYes: 9.5
 polymarketNo: 90.5
-polymarketVolume: 98112
+polymarketVolume: 98167
 polymarketUrl: "https://polymarket.com/event/will-the-new-york-yankees-win-the-2026-world-series"
-analysisDate: 2026-04-10
 ---
 
 The Yankees currently sit at roughly one-in-ten odds to capture the 2026 World Series, a relatively modest probability that reflects both their historical championship pedigree and the inherent difficulty of winning baseball's ultimate prize in a 30-team league. This market matters because it aggregates early expectations about roster construction, free agent signings, and organizational direction more than two years before the actual event.

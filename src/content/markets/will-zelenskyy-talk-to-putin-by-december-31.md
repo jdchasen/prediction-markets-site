@@ -11,7 +11,6 @@ polymarketYes: 23.5
 polymarketNo: 76.5
 polymarketVolume: 9918
 polymarketUrl: "https://polymarket.com/event/will-zelenskyy-talk-to-putin-by-december-31-992"
-analysisDate: 2026-04-10
 ---
 
 The market pricing a roughly one-in-four chance of direct talks between Zelenskyy and Putin before end of 2026 reflects deep skepticism about near-term diplomacy, yet acknowledges the war cannot continue indefinitely in its current form. This matters because any breakthrough in communication would signal a fundamental shift in the conflict's trajectory and potentially reshape European security architecture.

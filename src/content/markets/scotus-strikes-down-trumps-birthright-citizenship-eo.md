@@ -1,17 +1,16 @@
 ---
 title: "SCOTUS strikes down Trump's Birthright Citizenship EO?"
-description: "SCOTUS strikes down Trump's Birthright Citizenship EO? Odds: 95.1% YES on Polymarket. See live prices and trade this market."
+description: "SCOTUS strikes down Trump's Birthright Citizenship EO? Odds: 95.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "SCOTUS strikes down Trump's Birthright Citizenship EO?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-04-10
 expiryDate: 2026-08-31
 tags: ["politics", "polymarket", "trump"]
-polymarketYes: 95.1
-polymarketNo: 4.9
-polymarketVolume: 98275
+polymarketYes: 95.0
+polymarketNo: 5.0
+polymarketVolume: 98592
 polymarketUrl: "https://polymarket.com/event/scotus-strikes-down-trumps-birthright-citizenship-eo"
-analysisDate: 2026-04-10
 ---
 
 The market shows overwhelming confidence that the Supreme Court will invalidate Trump's executive order attempting to end birthright citizenship, reflecting near-consensus among legal experts that the Fourteenth Amendment's citizenship clause is unambiguous and cannot be altered by executive action alone.

@@ -3,7 +3,7 @@ title: "Will United Left (BSP) finish third in the 2026 Bulgarian parliamentary 
 description: "Will United Left (BSP) finish third in the 2026 Bulgarian parliamentary election? Odds: 0.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will United Left (BSP) finish third in the 2026 Bulgarian parliamentary election?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-10
 expiryDate: 2026-04-19
 tags: ["elections", "politics", "polymarket"]

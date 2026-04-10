@@ -1,53 +1,52 @@
 ---
 title: "Bill Clinton divorce by June 30?"
-description: "Bill Clinton divorce by June 30? Odds: 2.5% YES on Polymarket. See live prices and trade this market."
+description: "Bill Clinton divorce by June 30? Odds: 2.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Bill Clinton divorce by June 30?"
 category: "politics"
-status: "settled"
-lastUpdated: 2026-04-09
+status: "active"
+lastUpdated: 2026-04-10
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
-polymarketYes: 2.5
-polymarketNo: 97.5
-polymarketVolume: 97343
+polymarketYes: 2.4
+polymarketNo: 97.6
+polymarketVolume: 97396
 polymarketUrl: "https://polymarket.com/event/bill-clinton-divorce-by-june-30"
+analysisDate: 2026-04-10
 ---
 
-# Bill Clinton Divorce Market Analysis
+The market pricing a Clinton divorce at under 3% reflects extreme skepticism that the longest-running political marriage in modern American history will end within the next 18 months, though recent public appearances and the Clintons' well-documented separate living arrangements keep speculation alive.
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 2.2% | 97.8% | $97K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 2.4% | 97.6% | $97K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The market is pricing an extremely low probability of a Clinton divorce within the next 18 months, reflecting both the couple's decades-long marriage stability and the difficulty of predicting personal life events with such precision. This matters because prediction markets occasionally misprice tail risks around public figures, and the 2.2% odds suggest traders view the event as nearly impossible rather than merely unlikely. The market's low liquidity and long timeframe create opportunities for informed contrarians if material information emerges.
+The bull case rests on the couple's increasingly independent lives—Bill, 78, remains in Chappaqua while Hillary, 77, spends significant time in Washington, and both have completed their active political careers, removing the strategic incentive to maintain their union. Health concerns could also accelerate decision-making, as Bill's post-presidency medical issues and both Clintons entering their late seventies might prompt them to prioritize personal wishes over political optics. Any public incident, hospitalization, or leaked information about separate estates or financial restructuring would immediately spike these odds.
 
-The bull case rests on several genuine vulnerabilities: Bill Clinton is 78 years old with a documented history of infidelities and health concerns, while Hillary Clinton remains politically active and independent with substantial personal wealth. The Clintons maintain separate residences and schedules, and their marriage has survived but not eliminated public scrutiny around past indiscretions. Any major new scandal—particularly involving allegations from the #MeToo era or connections to ongoing legal matters—could destabilize the relationship. Additionally, Hillary's potential 2028 political positioning or involvement in Democratic Party leadership could create personal friction that reaches a breaking point within an 18-month window.
+The bear case is straightforward: the Clintons have weathered every conceivable marital crisis in the public eye since the 1990s, and their 50-year partnership has proven functionally immune to the pressures that end typical marriages. Their intertwined political legacies, the Clinton Foundation's ongoing operations, and Chelsea Clinton's public role create institutional barriers to dissolution. Wealthy political couples also frequently maintain de facto separations without formal divorce, avoiding publicity and preserving joint assets estimated in the tens of millions.
 
-The bear case, which the market clearly favors, emphasizes that the Clintons have navigated far worse: the Lewinsky scandal, impeachment, and sustained media scrutiny over three decades. They've demonstrated staying power through crises that would have destroyed most marriages, suggesting their bond is either genuinely resilient or pragmatically entrenched. Divorce at their age and wealth level carries significant political, financial, and reputational complications neither party appears motivated to undertake. Without a catalyst-triggering event—new scandal, major health crisis, or public rupture—the status quo inertia strongly favors continuation. The market's odds likely reflect this accurately.
-
-Key catalysts to monitor include any major health developments, outcomes of ongoing litigation involving either Clinton, significant Democratic Party conflict involving Hillary, or authenticated reporting on undisclosed relationship strain. Traders should watch for any 2024-2025 developments that could affect their standing or create new scandal vectors. The market expires June 2026, giving roughly 18 months for change; the longer the marriage holds without incident, the odds will naturally compress further toward zero.
+Traders should monitor several indicators: any significant changes to Clinton Foundation structure or leadership, real estate transactions involving their Chappaqua or Washington properties, and public event attendance patterns. The 2026 midterm cycle (primaries beginning March 2026) could influence timing if either Clinton wanted to avoid dominating political news cycles, though their active campaigning days appear finished. Hillary's memoir publicity schedule and Bill's speaking engagements through 2025 would likely preview any major personal announcements, as both have historically used controlled media rollouts for sensitive matters.
 
 ## Related Markets
 
-- [Will JD Vance win the 2028 US Presidential Election?](/odds/will-jd-vance-win-the-2028-us-presidential-election) — 19% YES
 - [Will Pete Buttigieg win the 2028 Democratic presidential nomination?](/odds/will-pete-buttigieg-win-the-2028-democratic-presidential-nomination) — 4% YES
-- [Will Alexandria Ocasio-Cortez win the 2028 Democratic presidential nomination?](/odds/will-alexandria-ocasio-cortez-win-the-2028-democratic-presidential-nomination) — 9% YES
+- [Will Tucker Carlson win the 2028 US Presidential Election?](/odds/will-tucker-carlson-win-the-2028-us-presidential-election) — 4% YES
+- [Will Andy Beshear win the 2028 Democratic presidential nomination?](/odds/will-andy-beshear-win-the-2028-democratic-presidential-nomination) — 2% YES
 
 ## Frequently Asked Questions
 
-### What legal complications could a Clinton divorce create that might explain the extremely low odds?
+### Would a divorce announcement need to be public before June 30, 2026 to resolve YES, or just legally filed?
 
-Disentangling their decades of joint financial holdings, foundations, and political networks would be extraordinarily complex and expose both parties to discovery and financial vulnerability they likely wish to avoid.
+Market resolution typically requires public confirmation or credible reporting of divorce proceedings, not just private legal filings. A sealed filing without media acknowledgment would likely not trigger YES resolution until publicly verified.
 
-### Has there been any recent reporting suggesting marital strain between Bill and Hillary Clinton?
+### How have the Clintons' living arrangements changed since leaving office, and does this affect divorce probability?
 
-No credible reporting suggests current marital problems; their public appearances remain coordinated and their separate residences appear driven by professional schedules rather than relationship breakdown.
+They've maintained semi-separate residences for years—Bill primarily in Chappaqua, Hillary splitting time between there and Washington—but this arrangement has been stable since her Senate years. This existing pattern actually argues against imminent change rather than signaling divorce preparation.
 
-### If a major new scandal emerges involving Bill Clinton, how quickly would this market's odds move?
+### What historical precedent exists for presidential couples divorcing after leaving office?
 
-Given thin liquidity in personal markets, odds could shift dramatically on single credible reports, but the June 2026 expiry means the market would need a catalyst early enough for legal proceedings to advance significantly.
+No former presidential couple has divorced after a presidency in modern American history, making this genuinely unprecedented territory. The closest comparison might be long-term political marriages that dissolved after retirement, but none carried the Clinton-level public profile or institutional complexity.
 

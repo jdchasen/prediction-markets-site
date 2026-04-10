@@ -3,7 +3,7 @@ title: "WTT - Men's Singles: Yuta Tanaka vs Yuhi Sakai"
 description: "WTT - Men's Singles: Yuta Tanaka vs Yuhi Sakai Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "WTT - Men's Singles: Yuta Tanaka vs Yuhi Sakai"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-10
 expiryDate: 2026-04-17
 tags: ["ai", "politics", "polymarket"]
