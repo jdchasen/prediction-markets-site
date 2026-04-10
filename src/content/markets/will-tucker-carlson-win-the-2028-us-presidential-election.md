@@ -1,17 +1,16 @@
 ---
 title: "Will Tucker Carlson win the 2028 US Presidential Election?"
-description: "Will Tucker Carlson win the 2028 US Presidential Election? Odds: 2.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Tucker Carlson win the 2028 US Presidential Election? Odds: 4.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Tucker Carlson win the 2028 US Presidential Election?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-04-09
+lastUpdated: 2026-04-10
 expiryDate: 2028-11-07
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 2.5
-polymarketNo: 97.5
-polymarketVolume: 9780364
+polymarketYes: 4.2
+polymarketNo: 95.8
+polymarketVolume: 9822109
 polymarketUrl: "https://polymarket.com/event/will-tucker-carlson-win-the-2028-us-presidential-election"
-analysisDate: 2026-04-09
 ---
 
 Tucker Carlson's chances of winning the 2028 presidency are currently priced as a long shot at 2.5%, reflecting his lack of formal political experience and uncertain intentions to run, though his massive media following and appeal to populist conservatives keep him in speculative contention.

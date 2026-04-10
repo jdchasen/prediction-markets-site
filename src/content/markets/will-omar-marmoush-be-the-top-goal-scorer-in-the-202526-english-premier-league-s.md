@@ -3,8 +3,8 @@ title: "Will Omar Marmoush be the top goal scorer in the 2025–26 English Premi
 description: "Will Omar Marmoush be the top goal scorer in the 2025–26 English Premier League season? Odds: 0.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Omar Marmoush be the top goal scorer in the 2025–26 English Premier League season?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-04-09
+status: "settled"
+lastUpdated: 2026-04-10
 expiryDate: 2026-05-27
 tags: ["polymarket", "sports"]
 polymarketYes: 0.8

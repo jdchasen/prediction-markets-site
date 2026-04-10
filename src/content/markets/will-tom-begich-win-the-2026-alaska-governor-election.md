@@ -3,8 +3,8 @@ title: "Will Tom Begich win the 2026 Alaska governor election?"
 description: "Will Tom Begich win the 2026 Alaska governor election? Odds: 26.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Tom Begich win the 2026 Alaska governor election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-09
+status: "settled"
+lastUpdated: 2026-04-10
 expiryDate: 2026-11-03
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 26.5

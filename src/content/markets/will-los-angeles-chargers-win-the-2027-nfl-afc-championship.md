@@ -4,14 +4,13 @@ description: "Will Los Angeles Chargers win the 2027 NFL AFC Championship? Odds:
 marketQuestion: "Will Los Angeles Chargers win the 2027 NFL AFC Championship?"
 category: "sports"
 status: "active"
-lastUpdated: 2026-04-09
+lastUpdated: 2026-04-10
 expiryDate: 2027-01-25
 tags: ["polymarket", "sports"]
 polymarketYes: 8.0
 polymarketNo: 92.0
 polymarketVolume: 9841
 polymarketUrl: "https://polymarket.com/event/will-los-angeles-chargers-win-the-2027-nfl-afc-championship-786"
-analysisDate: 2026-04-09
 ---
 
 # Los Angeles Chargers 2027 AFC Championship Analysis

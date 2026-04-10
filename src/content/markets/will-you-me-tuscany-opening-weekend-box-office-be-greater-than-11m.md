@@ -3,8 +3,8 @@ title: "Will \"You, Me & Tuscany\" Opening Weekend Box Office be greater than 11
 description: "Will \"You, Me & Tuscany\" Opening Weekend Box Office be greater than 11m? Odds: 18.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will \"You, Me & Tuscany\" Opening Weekend Box Office be greater than 11m?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-09
+status: "settled"
+lastUpdated: 2026-04-10
 expiryDate: 2026-04-13
 tags: ["politics", "polymarket"]
 polymarketYes: 18.5

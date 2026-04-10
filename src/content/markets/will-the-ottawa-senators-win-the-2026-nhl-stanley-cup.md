@@ -1,17 +1,16 @@
 ---
 title: "Will the Ottawa Senators win the 2026 NHL Stanley Cup?"
-description: "Will the Ottawa Senators win the 2026 NHL Stanley Cup? Odds: 4.3% YES on Polymarket. See live prices and trade this market."
+description: "Will the Ottawa Senators win the 2026 NHL Stanley Cup? Odds: 5.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Ottawa Senators win the 2026 NHL Stanley Cup?"
 category: "sports"
 status: "active"
-lastUpdated: 2026-04-09
+lastUpdated: 2026-04-10
 expiryDate: 2026-06-30
 tags: ["polymarket", "sports"]
-polymarketYes: 4.3
-polymarketNo: 95.7
-polymarketVolume: 979155
+polymarketYes: 5.0
+polymarketNo: 95.0
+polymarketVolume: 992832
 polymarketUrl: "https://polymarket.com/event/will-the-ottawa-senators-win-the-2026-nhl-stanley-cup"
-analysisDate: 2026-04-09
 ---
 
 The Ottawa Senators are given minimal championship odds heading into the 2025-26 season, reflecting their position as a rebuilding franchise that hasn't made the playoffs since 2017 and finished 28th in the NHL standings this past season with just 74 points.

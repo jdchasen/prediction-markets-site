@@ -3,8 +3,8 @@ title: "Will Bruno Retailleau win the 2027 French presidential election?"
 description: "Will Bruno Retailleau win the 2027 French presidential election? Odds: 2.6% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Bruno Retailleau win the 2027 French presidential election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-09
+status: "settled"
+lastUpdated: 2026-04-10
 expiryDate: 2027-04-30
 tags: ["ai", "elections", "politics", "polymarket"]
 polymarketYes: 2.6

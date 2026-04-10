@@ -4,14 +4,13 @@ description: "Kash Patel out by April 30? Odds: 15.5% YES on Polymarket. See liv
 marketQuestion: "Kash Patel out by April 30?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-04-09
+lastUpdated: 2026-04-10
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
 polymarketYes: 15.5
 polymarketNo: 84.5
-polymarketVolume: 98822
+polymarketVolume: 99264
 polymarketUrl: "https://polymarket.com/event/kash-patel-out-by-april-30-481"
-analysisDate: 2026-04-09
 ---
 
 Prediction markets are pricing just a 15.5% chance that Kash Patel will be removed from his position by April 30, 2025, reflecting broad confidence that he'll survive the initial critical months following his confirmation as FBI Director, though significant uncertainty remains about his longer-term tenure given the unprecedented nature of his appointment and Democratic opposition.

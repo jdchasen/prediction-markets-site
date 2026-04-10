@@ -3,8 +3,8 @@ title: "Will Bitcoin dip to $62,000 April 6-12?"
 description: "Will Bitcoin dip to $62,000 April 6-12? Odds: 1.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Bitcoin dip to $62,000 April 6-12?"
 category: "crypto"
-status: "active"
-lastUpdated: 2026-04-09
+status: "settled"
+lastUpdated: 2026-04-10
 expiryDate: 2026-04-13
 tags: ["bitcoin", "crypto", "polymarket"]
 polymarketYes: 1.7

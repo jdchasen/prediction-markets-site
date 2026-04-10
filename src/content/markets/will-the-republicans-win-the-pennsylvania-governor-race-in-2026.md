@@ -3,8 +3,8 @@ title: "Will the Republicans win the Pennsylvania governor race in 2026?"
 description: "Will the Republicans win the Pennsylvania governor race in 2026? Odds: 7.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Republicans win the Pennsylvania governor race in 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-09
+status: "settled"
+lastUpdated: 2026-04-10
 tags: ["politics", "polymarket"]
 polymarketYes: 7.0
 polymarketNo: 93.0

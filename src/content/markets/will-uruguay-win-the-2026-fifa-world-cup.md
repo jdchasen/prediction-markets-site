@@ -4,14 +4,13 @@ description: "Will Uruguay win the 2026 FIFA World Cup? Odds: 1.1% YES on Polyma
 marketQuestion: "Will Uruguay win the 2026 FIFA World Cup?"
 category: "sports"
 status: "active"
-lastUpdated: 2026-04-09
+lastUpdated: 2026-04-10
 expiryDate: 2026-07-20
 tags: ["polymarket", "sports"]
 polymarketYes: 1.1
 polymarketNo: 98.9
-polymarketVolume: 9796130
+polymarketVolume: 9839212
 polymarketUrl: "https://polymarket.com/event/will-uruguay-win-the-2026-fifa-world-cup-932"
-analysisDate: 2026-04-09
 ---
 
 Uruguay enters the 2026 World Cup conversation as a distant longshot at roughly 1% implied probability, reflecting skepticism about their ability to compete with dominant favorites like France, Brazil, and Argentina despite their storied football history.

@@ -3,8 +3,8 @@ title: "Will the U.S. test a nuclear weapon by June 30 2026?"
 description: "Will the U.S. test a nuclear weapon by June 30 2026? Odds: 4.6% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the U.S. test a nuclear weapon by June 30 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-09
+status: "settled"
+lastUpdated: 2026-04-10
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
 polymarketYes: 4.6

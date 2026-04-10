@@ -1,17 +1,16 @@
 ---
 title: "Will 1 Fed rate cut happen in 2026?"
-description: "Will 1 Fed rate cut happen in 2026? Odds: 24.5% YES on Polymarket. See live prices and trade this market."
+description: "Will 1 Fed rate cut happen in 2026? Odds: 25.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will 1 Fed rate cut happen in 2026?"
 category: "economics"
 status: "active"
-lastUpdated: 2026-04-09
+lastUpdated: 2026-04-10
 expiryDate: 2026-12-31
 tags: ["economics", "federal-reserve", "interest-rates", "polymarket"]
-polymarketYes: 24.5
-polymarketNo: 75.5
-polymarketVolume: 981236
+polymarketYes: 25.5
+polymarketNo: 74.5
+polymarketVolume: 997638
 polymarketUrl: "https://polymarket.com/event/will-1-fed-rate-cut-happen-in-2026"
-analysisDate: 2026-04-09
 ---
 
 The market pricing just a 24.5% chance of even a single Fed rate cut in 2026 reflects deep trader skepticism that inflation will cooperate enough to allow meaningful monetary easing two years from now. This matters because it signals expectations that either inflation remains sticky above target or the economy proves resilient enough that the Fed maintains restrictive policy throughout 2026.
