@@ -11,7 +11,6 @@ polymarketYes: 91.5
 polymarketNo: 8.5
 polymarketVolume: 9896
 polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-ga-08-house-seat"
-analysisDate: 2026-04-11
 ---
 
 # GA-08 Republican Stronghold: Why 91.5% Confidence May Be Justified

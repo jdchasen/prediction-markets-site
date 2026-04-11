@@ -11,7 +11,6 @@ polymarketYes: 6.5
 polymarketNo: 93.5
 polymarketVolume: 9746
 polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-nd-al-house-seat"
-analysisDate: 2026-04-11
 ---
 
 # Democratic Prospects in North Dakota's At-Large House Seat

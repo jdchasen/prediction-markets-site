@@ -1,17 +1,16 @@
 ---
 title: "Will Jack Draper win the 2026 Men's French Open?"
-description: "Will Jack Draper win the 2026 Men's French Open? Odds: 1.6% YES on Polymarket. See live prices and trade this market."
+description: "Will Jack Draper win the 2026 Men's French Open? Odds: 1.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Jack Draper win the 2026 Men's French Open?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-04-11
 expiryDate: 2026-06-07
 tags: ["politics", "polymarket"]
-polymarketYes: 1.6
-polymarketNo: 98.5
-polymarketVolume: 98796
+polymarketYes: 1.4
+polymarketNo: 98.6
+polymarketVolume: 99198
 polymarketUrl: "https://polymarket.com/event/will-jack-draper-win-the-2026-mens-french-open"
-analysisDate: 2026-04-11
 ---
 
 # Jack Draper 2026 French Open Analysis

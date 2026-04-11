@@ -9,45 +9,46 @@ expiryDate: 2026-06-17
 tags: ["economics", "federal-reserve", "interest-rates", "polymarket"]
 polymarketYes: 6.5
 polymarketNo: 93.5
-polymarketVolume: 985933
+polymarketVolume: 988657
 polymarketUrl: "https://polymarket.com/event/will-the-fed-decrease-interest-rates-by-25-bps-after-the-june-2026-meeting"
+analysisDate: 2026-04-11
 ---
 
-The market assigns less than 10% probability to a June 2026 rate cut, reflecting expectations that the Fed will have already completed its easing cycle well before mid-2026 or will be holding rates steady in response to persistent inflation. This matters because it reveals trader skepticism about an extended cutting campaign lasting nearly two more years.
+The market assigns minimal probability to a rate cut following the June 2026 FOMC meeting, reflecting expectations that the Federal Reserve will have either completed its easing cycle well before then or maintained rates at a higher equilibrium level. This matters because it reveals trader conviction that June 2026 represents an unlikely inflection point in monetary policy.
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 8.5% | 91.5% | $975K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 6.5% | 93.5% | $989K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The bull case for a rate cut at this specific meeting centers on a scenario where inflation proves stickier than expected through 2025, forcing the Fed to maintain elevated rates longer and delay easing until 2026. If core PCE remains above 3% through Q4 2025 and labor markets stay resilient with unemployment below 4.5%, the Fed might only begin cautious 25 basis point cuts in early 2026, making a June cut plausible. Alternatively, a shallow recession in late 2025 could prompt the Fed to cut rates gradually rather than aggressively, with June 2026 representing a mid-cycle adjustment.
+The bear case against a rate cut centers on persistent structural inflation and tight labor markets extending through 2026. If core PCE inflation remains elevated above the Fed's 2% target through 2025-2026, possibly due to wage-price spirals or sticky housing costs, the central bank would have little justification for additional easing. Strong NFP prints averaging above 200,000 jobs monthly and unemployment staying below 4% would reinforce a "higher for longer" stance. Additionally, if the Fed cuts rates substantially in 2024-2025 and reaches a neutral rate estimated around 3-3.5%, further cuts in mid-2026 would be unnecessary absent a recession.
 
-The bear case, which current odds strongly favor, assumes the Fed completes its cutting cycle by late 2024 or early 2025, bringing rates to a terminal level around 3.5-4% and then pausing indefinitely. Historical patterns show the Fed rarely implements isolated 25bp cuts after long pauses—they either cut aggressively in response to crisis or hold steady. The low probability also reflects the possibility that by June 2026, the Fed could be raising rates again if inflation resurges, making a cut at that specific meeting unlikely regardless of the broader economic trajectory.
+The bull case requires a specific economic scenario where previous rate cuts prove insufficient or poorly timed. If the Fed cuts rates in 2024-2025 but economic data deteriorates gradually rather than sharply—perhaps unemployment rising to 4.5-5% by early 2026 or Q1 2026 GDP growth falling below 1%—the June 2026 meeting could mark a resumption of easing after a pause. Another pathway involves financial stability concerns emerging in spring 2026 that weren't severe enough to trigger emergency cuts but warrant action at a scheduled meeting.
 
-Key catalysts include the December 2024 and March 2025 FOMC meetings, which will establish the pace of near-term cuts and provide dot plot projections extending into 2026. The January 2025 CPI and NFP reports (released early February) will be critical for assessing whether inflation is truly retreating toward the 2% target. Core PCE data throughout 2025, particularly Q2 and Q3 readings, will determine if the Fed can complete its easing cycle early or must extend cuts into 2026. Traders should monitor the December 2025 FOMC meeting most closely, as forward guidance given then will directly address mid-2026 rate expectations with only six months of lag.
+Key catalysts include the entire sequence of 2024-2025 FOMC decisions, particularly the December 2025 Summary of Economic Projections showing the dot plot terminal rate. The May 2026 CPI and jobs report (released early June) will be critical immediate inputs. Traders should monitor whether the Fed's easing cycle in 2024-2025 is shallow (50-100 bps total) or aggressive (200+ bps), as the former increases odds of additional cuts while the latter suggests policy reaches equilibrium sooner. The April 2026 FOMC minutes and any Q1 2026 banking stress tests results would provide crucial context heading into the June meeting.
 
 ## Related Markets
 
-- [Will 5 Fed rate cuts happen in 2026?](/odds/will-5-fed-rate-cuts-happen-in-2026) — 1% YES
 - [Bank of Japan increases interest rates by 25 bps after the April 2026 meeting?](/odds/bank-of-japan-increases-interest-rates-by-25-bps-after-the-april-2026-meeting) — 62% YES
-- [Bank of England increases interest rates by 25 bps after June 2026 meeting?](/odds/bank-of-england-increases-interest-rates-by-25-bps-after-june-2026-meeting) — 40% YES
+- [Fed emergency rate cut before 2027?](/odds/fed-emergency-rate-cut-before-2027) — 8% YES
+- [No change in Bank of England’s interest rates after April 2026 meeting?](/odds/no-change-in-bank-of-englands-interest-rates-after-april-2026-meeting) — 95% YES
 
 ## Frequently Asked Questions
 
-### Why is the probability so low when the Fed is currently in a cutting cycle?
+### Why are odds so low when the Fed has historically cut rates in cycles rather than one-off moves?
 
-Markets expect the Fed to finish cutting rates by late 2024 or early 2025, reaching a neutral level and pausing for an extended period rather than continuing cuts into mid-2026.
+The market expects any cutting cycle to either conclude before June 2026 or never begin in earnest, making this specific meeting an unlikely point for action. The 18-month timeframe allows for complete policy cycles to play out.
 
-### What would need to happen for this probability to increase significantly?
+### What would need to happen for odds to move above 30%?
 
-Core inflation would need to remain persistently above 3% through most of 2025 while the labor market stays strong, forcing the Fed to keep rates higher for longer and delay the cutting cycle's start until 2026.
+A scenario where the Fed cuts 25-50 bps in late 2025, pauses to assess data through Q1 2026, then sees deteriorating conditions in spring 2026 employment or growth figures that justify resuming cuts. Alternatively, a shallow initial easing cycle that clearly undershoots necessary accommodation.
 
-### How does this market relate to the terminal rate for the current cutting cycle?
+### How does this market relate to predictions about earlier 2025 or 2026 rate decisions?
 
-If traders believe the terminal rate will be reached by early 2025 at around 3.5-4%, there's no reason for additional cuts in June 2026 unless a new economic shock emerges, explaining the low odds.
+This market prices the tail risk of June 2026 specifically being a cut, while earlier meetings carry higher easing probabilities. If markets show 40-60% odds for Q1 2026 cuts, the low odds here suggest traders expect any cutting to happen earlier or not at all.
 
 ## Learn More
 

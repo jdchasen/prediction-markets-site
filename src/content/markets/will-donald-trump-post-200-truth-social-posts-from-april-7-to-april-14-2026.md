@@ -3,7 +3,7 @@ title: "Will Donald Trump post 200+ Truth Social posts from April 7 to April 14,
 description: "Will Donald Trump post 200+ Truth Social posts from April 7 to April 14, 2026? Odds: 0.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Donald Trump post 200+ Truth Social posts from April 7 to April 14, 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-11
 expiryDate: 2026-04-14
 tags: ["politics", "polymarket", "trump"]

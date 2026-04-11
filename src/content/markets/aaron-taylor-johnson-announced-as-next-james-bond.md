@@ -1,17 +1,16 @@
 ---
 title: "Aaron Taylor-Johnson announced as next James Bond?"
-description: "Aaron Taylor-Johnson announced as next James Bond? Odds: 2.1% YES on Polymarket. See live prices and trade this market."
+description: "Aaron Taylor-Johnson announced as next James Bond? Odds: 2.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Aaron Taylor-Johnson announced as next James Bond?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-04-11
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
-polymarketYes: 2.1
-polymarketNo: 97.9
+polymarketYes: 2.5
+polymarketNo: 97.5
 polymarketVolume: 97260
 polymarketUrl: "https://polymarket.com/event/aaron-taylor-johnson-announced-as-next-james-bond"
-analysisDate: 2026-04-11
 ---
 
 # Aaron Taylor-Johnson as Next James Bond: Market Analysis

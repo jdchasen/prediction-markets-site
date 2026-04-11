@@ -3,7 +3,7 @@ title: "Boston Red Sox vs. St. Louis Cardinals"
 description: "Boston Red Sox vs. St. Louis Cardinals Odds: 55.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Boston Red Sox vs. St. Louis Cardinals"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-11
 expiryDate: 2026-04-18
 tags: ["politics", "polymarket"]

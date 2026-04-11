@@ -3,7 +3,7 @@ title: "Will Iran strike Cyprus by April 30, 2026?"
 description: "Will Iran strike Cyprus by April 30, 2026? Odds: 2.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Iran strike Cyprus by April 30, 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-11
 expiryDate: 2026-04-30
 tags: ["politics", "polymarket"]

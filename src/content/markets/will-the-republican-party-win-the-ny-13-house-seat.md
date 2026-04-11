@@ -1,17 +1,16 @@
 ---
 title: "Will the Republican Party win the NY-13 House seat?"
-description: "Will the Republican Party win the NY-13 House seat? Odds: 5.5% YES on Polymarket. See live prices and trade this market."
+description: "Will the Republican Party win the NY-13 House seat? Odds: 5.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Republican Party win the NY-13 House seat?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-04-11
 expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
-polymarketYes: 5.5
-polymarketNo: 94.5
-polymarketVolume: 9730
+polymarketYes: 5.0
+polymarketNo: 95.0
+polymarketVolume: 9731
 polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-ny-13-house-seat"
-analysisDate: 2026-04-11
 ---
 
 # NY-13 Republican Prospects: A Long-Shot Bid in Deep Blue Territory

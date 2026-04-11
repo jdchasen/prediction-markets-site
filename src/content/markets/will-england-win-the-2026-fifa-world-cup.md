@@ -9,9 +9,8 @@ expiryDate: 2026-07-20
 tags: ["polymarket", "sports"]
 polymarketYes: 11.3
 polymarketNo: 88.6
-polymarketVolume: 9746332
+polymarketVolume: 9786699
 polymarketUrl: "https://polymarket.com/event/will-england-win-the-2026-fifa-world-cup-937"
-analysisDate: 2026-04-11
 ---
 
 England enters the 2026 World Cup discussion as a modest longshot at roughly 11% probability, reflecting cautious optimism tempered by their historical struggles to convert talent into trophies despite reaching the Euro 2020 final and 2018 World Cup semifinal.

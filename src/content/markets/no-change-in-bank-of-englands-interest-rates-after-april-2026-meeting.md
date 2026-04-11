@@ -1,17 +1,16 @@
 ---
 title: "No change in Bank of England’s interest rates after April 2026 meeting?"
-description: "No change in Bank of England’s interest rates after April 2026 meeting? Odds: 95.0% YES on Polymarket. See live prices and trade this market."
+description: "No change in Bank of England’s interest rates after April 2026 meeting? Odds: 95.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "No change in Bank of England’s interest rates after April 2026 meeting?"
 category: "economics"
 status: "active"
 lastUpdated: 2026-04-11
 expiryDate: 2026-04-30
 tags: ["economics", "interest-rates", "polymarket"]
-polymarketYes: 95.0
-polymarketNo: 5.0
-polymarketVolume: 94550
+polymarketYes: 95.2
+polymarketNo: 4.8
+polymarketVolume: 94973
 polymarketUrl: "https://polymarket.com/event/no-change-in-bank-of-englands-interest-rates-after-april-2026-meeting"
-analysisDate: 2026-04-11
 ---
 
 The market overwhelmingly expects the Bank of England to maintain its current policy rate through the April 2026 Monetary Policy Committee meeting, reflecting trader confidence that the UK will have achieved economic stability by that point—a signal relevant for sterling positioning and UK gilt duration strategies over the next 18 months.

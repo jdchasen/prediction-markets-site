@@ -11,7 +11,6 @@ polymarketYes: 28.5
 polymarketNo: 71.5
 polymarketVolume: 9992
 polymarketUrl: "https://polymarket.com/event/will-zcash-reach-600-by-december-31-2026"
-analysisDate: 2026-04-11
 ---
 
 # Zcash Price Prediction Analysis

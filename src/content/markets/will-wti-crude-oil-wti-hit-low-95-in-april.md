@@ -3,7 +3,7 @@ title: "Will WTI Crude Oil (WTI) hit (LOW) $95 in April?"
 description: "Will WTI Crude Oil (WTI) hit (LOW) $95 in April? Odds: 90.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will WTI Crude Oil (WTI) hit (LOW) $95 in April?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-11
 expiryDate: 2026-04-30
 tags: ["politics", "polymarket"]

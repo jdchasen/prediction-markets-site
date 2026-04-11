@@ -1,17 +1,16 @@
 ---
 title: "Will Gold (GC) hit (HIGH) $9,000 by end of June?"
-description: "Will Gold (GC) hit (HIGH) $9,000 by end of June? Odds: 1.9% YES on Polymarket. See live prices and trade this market."
+description: "Will Gold (GC) hit (HIGH) $9,000 by end of June? Odds: 1.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Gold (GC) hit (HIGH) $9,000 by end of June?"
 category: "finance"
 status: "active"
 lastUpdated: 2026-04-11
 expiryDate: 2026-06-30
 tags: ["finance", "polymarket"]
-polymarketYes: 1.9
-polymarketNo: 98.0
-polymarketVolume: 98920
+polymarketYes: 1.8
+polymarketNo: 98.2
+polymarketVolume: 98971
 polymarketUrl: "https://polymarket.com/event/will-gold-gc-hit-high-9000-by-end-of-june"
-analysisDate: 2026-04-11
 ---
 
 The market assigns less than 2% probability to gold reaching $9,000 per ounce by June 2026, a target that would require the precious metal to more than triple from current levels around $2,650—an extraordinarily aggressive move even by historical volatility standards.

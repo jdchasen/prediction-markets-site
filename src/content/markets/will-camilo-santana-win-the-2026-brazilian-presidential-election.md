@@ -3,7 +3,7 @@ title: "Will Camilo Santana win the 2026 Brazilian presidential election?"
 description: "Will Camilo Santana win the 2026 Brazilian presidential election? Odds: 2.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Camilo Santana win the 2026 Brazilian presidential election?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-11
 expiryDate: 2026-10-04
 tags: ["elections", "politics", "polymarket"]

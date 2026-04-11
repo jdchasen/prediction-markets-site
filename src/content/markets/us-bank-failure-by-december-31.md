@@ -3,7 +3,7 @@ title: "US bank failure by December 31?"
 description: "US bank failure by December 31? Odds: 58.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "US bank failure by December 31?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-11
 expiryDate: 2026-12-31
 tags: ["ai", "politics", "polymarket"]

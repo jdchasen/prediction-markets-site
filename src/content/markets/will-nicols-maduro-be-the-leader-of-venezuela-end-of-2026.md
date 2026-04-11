@@ -1,17 +1,16 @@
 ---
 title: "Will Nicolás Maduro be the leader of Venezuela end of 2026?"
-description: "Will Nicolás Maduro be the leader of Venezuela end of 2026? Odds: 20.2% YES on Polymarket. See live prices and trade this market."
+description: "Will Nicolás Maduro be the leader of Venezuela end of 2026? Odds: 20.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Nicolás Maduro be the leader of Venezuela end of 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-04-11
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 20.2
-polymarketNo: 79.8
-polymarketVolume: 972499
+polymarketYes: 20.4
+polymarketNo: 79.5
+polymarketVolume: 974984
 polymarketUrl: "https://polymarket.com/event/will-nicols-maduro-be-the-leader-of-venezuela-end-of-2026"
-analysisDate: 2026-04-11
 ---
 
 Traders are pricing in roughly 1-in-5 odds that Nicolás Maduro remains Venezuela's leader through end of 2026, reflecting deep skepticism about his regime's staying power amid ongoing political crisis and international pressure, yet acknowledging the difficulty of dislodging an entrenched authoritarian government.

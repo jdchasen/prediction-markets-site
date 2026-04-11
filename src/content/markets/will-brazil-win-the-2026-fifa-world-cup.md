@@ -9,9 +9,8 @@ expiryDate: 2026-07-20
 tags: ["polymarket", "sports"]
 polymarketYes: 8.6
 polymarketNo: 91.5
-polymarketVolume: 9895493
+polymarketVolume: 9930097
 polymarketUrl: "https://polymarket.com/event/will-brazil-win-the-2026-fifa-world-cup-183"
-analysisDate: 2026-04-11
 ---
 
 Brazil enters the 2026 World Cup cycle with modest 8.6% odds despite their storied history, reflecting legitimate concerns about their current trajectory and an expanded tournament format that dilutes traditional powerhouses' advantages.

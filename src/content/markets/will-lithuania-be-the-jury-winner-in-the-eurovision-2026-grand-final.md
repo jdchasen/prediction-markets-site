@@ -3,7 +3,7 @@ title: "Will Lithuania be the Jury Winner in the Eurovision 2026 Grand Final?"
 description: "Will Lithuania be the Jury Winner in the Eurovision 2026 Grand Final? Odds: 0.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Lithuania be the Jury Winner in the Eurovision 2026 Grand Final?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-11
 expiryDate: 2026-05-16
 tags: ["politics", "polymarket"]

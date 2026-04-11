@@ -3,7 +3,7 @@ title: "Will Bitcoin dip to $45,000 in April?"
 description: "Will Bitcoin dip to $45,000 in April? Odds: 1.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Bitcoin dip to $45,000 in April?"
 category: "crypto"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-11
 expiryDate: 2026-05-01
 tags: ["bitcoin", "crypto", "polymarket"]

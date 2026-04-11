@@ -8,10 +8,9 @@ lastUpdated: 2026-04-11
 expiryDate: 2026-05-14
 tags: ["ai", "federal-reserve", "politics", "polymarket"]
 polymarketYes: 2.1
-polymarketNo: 97.9
-polymarketVolume: 982908
+polymarketNo: 98.0
+polymarketVolume: 984607
 polymarketUrl: "https://polymarket.com/event/jerome-powell-out-as-fed-chair-by-may-14-2026"
-analysisDate: 2026-04-11
 ---
 
 Prediction markets currently price Jerome Powell's departure as Fed Chair before May 2026 as highly unlikely at just over 2%, reflecting strong institutional norms around Fed independence and Powell's term extending through May 15, 2026. This matters because any premature exit would signal extraordinary political interference or personal circumstances that could destabilize financial markets and undermine central bank credibility during a critical period for monetary policy.

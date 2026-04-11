@@ -3,7 +3,7 @@ title: "Will the Ottawa Senators make the NHL Playoffs?"
 description: "Will the Ottawa Senators make the NHL Playoffs? Odds: 93.3% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Ottawa Senators make the NHL Playoffs?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-11
 expiryDate: 2026-04-16
 tags: ["polymarket", "sports"]

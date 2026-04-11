@@ -1,53 +1,54 @@
 ---
 title: "Will UK GDP growth in Q1 2026 be between 0% and 0.3%?"
-description: "Will UK GDP growth in Q1 2026 be between 0% and 0.3%? Odds: 16.5% YES on Polymarket. See live prices and trade this market."
+description: "Will UK GDP growth in Q1 2026 be between 0% and 0.3%? Odds: 10.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will UK GDP growth in Q1 2026 be between 0% and 0.3%?"
 category: "economics"
-status: "settled"
-lastUpdated: 2026-04-08
+status: "active"
+lastUpdated: 2026-04-11
 expiryDate: 2026-05-14
 tags: ["economics", "polymarket"]
-polymarketYes: 16.5
-polymarketNo: 83.5
-polymarketVolume: 9335
+polymarketYes: 10.0
+polymarketNo: 90.0
+polymarketVolume: 9357
 polymarketUrl: "https://polymarket.com/event/will-uk-gdp-growth-in-q1-2026-be-between-0-and-0pt3"
+analysisDate: 2026-04-11
 ---
 
-The market is pricing in a roughly 1-in-7 chance that UK GDP growth lands in the narrow 0-0.3% band for Q1 2026, suggesting traders view either stronger expansion or outright contraction as more likely outcomes. This matters because such weak growth would signal economic stagnation just as the Bank of England navigates post-election policy shifts and potential interest rate adjustments, making the probability assessment critical for UK asset positioning.
+The market is currently pricing in a roughly 1-in-10 chance of UK GDP growth landing in that narrow 0-0.3% range for Q1 2026, suggesting traders believe stronger growth is more likely. This matters now because Q1 2026 GDP will be the first major economic reading after the Bank of England's rate-cutting cycle potentially concludes, making it a key test of whether looser monetary policy successfully stimulates growth without reigniting inflation.
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 13.5% | 86.5% | $9K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 10.0% | 90.0% | $9K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The bull case for this narrow range rests on the UK economy's recent fragility: Q3 2024 saw 0.1% quarterly growth, and the OBR has consistently warned of sluggish productivity ahead. If the January 2026 CPI print remains sticky around 2.5-3% and the FOMC maintains higher-for-longer rates through early 2026, global demand weakness could suppress UK exports and business investment. Additionally, fiscal drag from tax bracket freezes continues to crimp household spending. A recession catalyst—such as a financial sector shock or eurozone contraction—would push odds higher, as would weak employment data (the next major jobs report arriving in late January 2026) showing redundancies accelerating.
+The bull case for sub-0.3% growth rests on persistent headwinds: the Office for Budget Responsibility has flagged slower trend growth following the fiscal tightening announced in the October 2024 Budget, business investment remains subdued due to uncertainty around employer NICs increases taking effect in April 2025, and consumer spending could contract if real wage growth stalls despite CPI moderating. Additionally, if the FOMC keeps US rates higher for longer (FOMC meetings scheduled for January 29 and March 18-19, 2025), sterling weakness could push imported inflation higher, forcing the BoE to hold rates and dampen domestic demand.
 
-The bear case is that 13.5% underprices genuine downside risk. The Bank of England will likely cut rates multiple times between now and Q1 2026 if inflation cooperates, providing stimulus. Business surveys from the latest PMI (manufacturing and services indexes due mid-January 2026) may show resilience as firms adjust to Labour's National Insurance changes. Real wage growth, if sustained through the winter period, could fuel consumer spending above forecasts. Moreover, "stagnation" as a specific outcome is harder to hit than broader ranges—growth of 0.4-0.5% or 0.6%+ seem statistically more probable given quarterly volatility.
+The bear case—supporting higher growth odds—hinges on the BoE's aggressive easing: with base rates potentially reaching 3.75% by early 2026 (down from 5.25% currently), the lagged effects of monetary stimulus should be evident in Q1 data. Consumer spending typically accelerates 6-9 months after rate cuts begin, and the January 2025 CPI release will be crucial—if headline inflation drops below 2.5%, it validates the BoE's cutting bias and should bolster confidence in stronger growth ahead. The labor market remaining resilient (next NFP data: January 10, February 7, March 7) would support household incomes and spending momentum into Q1 2026.
 
-Watch the January 2026 retail sales data (mid-February release) as a crucial leading indicator for Q1 consumption; any surprise strength would shift odds lower. Similarly, the Q4 2025 advance GDP estimate (February 2026) will give the first concrete directional signal for momentum heading into Q1. The FOMC's December 2024 decision and subsequent forward guidance matter enormously—if the Fed signals a pause rather than continued cuts, sterling weakness and export headwinds could tighten the range outcome. Finally, any major fiscal stimulus announcement in early 2025 would likely push probabilities well below current levels.
+Watch the BoE's February 6, 2025 MPC decision closely for forward guidance on the rate path; dovish signaling would likely extend this market lower (suggesting growth above 0.3%), while hawkish rhetoric could push odds higher. Q4 2025 GDP data (released February 10, 2026) will be the last major indicator before the Q1 figure drops on May 14, making December manufacturing and services PMIs (early January releases) critical precedent-setters for market positioning in the final weeks before expiry.
 
 ## Related Markets
 
-- [Will 9 Fed rate cuts happen in 2026?](/odds/will-9-fed-rate-cuts-happen-in-2026) — 0% YES
-- [Will the Fed increase interest rates by 50+ bps after the June 2026 meeting?](/odds/will-the-fed-increase-interest-rates-by-50-bps-after-the-june-2026-meeting) — 1% YES
-- [Will 5 Fed rate cuts happen in 2026?](/odds/will-5-fed-rate-cuts-happen-in-2026) — 2% YES
+- [Will the Fed decrease interest rates by 25 bps after the June 2026 meeting?](/odds/will-the-fed-decrease-interest-rates-by-25-bps-after-the-june-2026-meeting) — 6% YES
+- [Bank of Japan increases interest rates by 25 bps after the April 2026 meeting?](/odds/bank-of-japan-increases-interest-rates-by-25-bps-after-the-april-2026-meeting) — 62% YES
+- [Fed emergency rate cut before 2027?](/odds/fed-emergency-rate-cut-before-2027) — 8% YES
 
 ## Frequently Asked Questions
 
-### Why is the 0-0.3% range so narrow compared to typical quarterly growth variance, and does that alone justify the low odds?
+### Why would the April 2025 employer NI increase matter for Q1 2026 GDP?
 
-The UK's recent track record of 0.1-0.3% quarterly prints makes this range statistically plausible, but it's narrow enough that small forecast revisions or data surprises push outcomes outside it in either direction, which is why traders price it as a tail outcome rather than the base case.
+The rise in National Insurance contributions will likely pressure hiring and wage growth through late 2025 and early 2026, potentially dampening consumption and business investment before the Q1 GDP print, supporting the case for slower growth.
 
-### How much would a surprise CPI hold above 3% in January 2026 boost these odds?
+### Could the BoE cutting rates to 3.75% actually push this market *higher* (more YES bets)?
 
-A hotter-than-expected January CPI would delay BoE rate cuts and reduce monetary stimulus flowing into Q1, potentially increasing the stagnation outcome probability by 200-300 basis points, though it wouldn't single-handedly move odds dramatically without accompanying weakness in employment or demand indicators.
+If rate cuts prove insufficient to stimulate demand due to structural headwinds like weaker trend growth or fiscal consolidation, the stimulus effect could be muted enough to land growth in the 0-0.3% band despite lower rates.
 
-### If the Q4 2025 advance GDP estimate (released February 2026) shows 0.4% quarterly growth, should traders immediately sell YES contracts?
+### What's the relationship between sterling weakness and this market?
 
-Not necessarily—Q4 momentum doesn't guarantee Q1 continuation, and fiscal drag or external shocks could still slow growth
+If the Fed stays hawkish relative to the BoE through early 2026, sterling could weaken significantly, pushing up import costs and imported inflation, potentially forcing the BoE to pause cuts and constraining growth below 0.3%.
 
 ## Learn More
 

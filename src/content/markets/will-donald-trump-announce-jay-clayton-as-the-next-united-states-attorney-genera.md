@@ -9,47 +9,48 @@ expiryDate: 2026-06-30
 tags: ["politics", "polymarket", "trump"]
 polymarketYes: 0.4
 polymarketNo: 99.7
-polymarketVolume: 9875
+polymarketVolume: 9935
 polymarketUrl: "https://polymarket.com/event/will-donald-trump-announce-jay-clayton-as-the-next-united-states-attorney-general-by-june-30"
+analysisDate: 2026-04-11
 ---
 
-# Analysis
+# Trump-Clayton AG Market Analysis
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.3% | 99.7% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.4% | 99.7% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The market is pricing Jay Clayton's appointment as Attorney General at near-zero probability, reflecting the reality that Trump has already selected Pam Bond for this position during his current term, making a Clayton appointment extraordinarily unlikely within the specified timeframe. This matters because it tests whether traders are accurately calibrating the probability of surprising cabinet reversals or personnel changes mid-administration.
+The market is pricing Jay Clayton as an extremely unlikely choice for Attorney General, with odds reflecting near-total skepticism about this outcome by mid-2026. This matters because it reveals trader expectations about Trump's likely AG selections and the political viability of Clayton specifically, a figure whose regulatory background and Wall Street ties create significant friction with Trump's populist base. At 0.4%, the market is essentially saying this announcement won't happen—a stark assessment worth examining against the actual probability.
 
-The bull case for YES hinges on unprecedented political turbulence: a scandal forcing Bondi's resignation, internal conflict within the Trump administration prompting a cabinet shuffle, or Trump reversing course due to shifting political priorities. Clayton, who headed the SEC during Trump's first term, has executive experience and remains within Trump's orbit. However, these scenarios would require extraordinary catalyst events. The bear case is far stronger—Bondi is already confirmed and seated, Clayton has not been publicly discussed as a replacement candidate, and Trump typically does not reverse major cabinet appointments absent severe crisis. The eighteen-month window through June 2026 provides minimal time for such dramatic shifts in a functioning administration.
+The bull case centers on Clayton's relevant credentials and Trump's prior relationship with him. Clayton served as SEC Chair under Trump from 2017-2020 and maintains credibility on financial regulation and securities law. Trump values loyalty and existing relationships, and Clayton has publicly supported Trump's legal defense fund. If Trump prioritizes regulatory expertise over ideological purity in this second term, and faces pressure to stabilize markets after potential volatility, Clayton becomes a plausible dark-horse candidate who could appeal to institutional Republicans and business interests. The announcement window extends 18 months, providing ample opportunity for political calculus to shift.
 
-Key catalysts to monitor include major legislative defeats for Trump's agenda that might prompt personnel shakeups (likely occurring in Q1 2025 post-inauguration), any criminal indictment or scandal involving Bondi that forces resignation, and whether Clayton emerges in public discussion regarding other high positions. The administration's 2025-2026 legislative calendar, particularly around judicial confirmations and regulatory rollbacks, could theoretically create conditions favoring a change, but these are speculative. Trump's pattern of cabinet stability in his current term suggests he has greater patience with appointees than during his first administration.
+The bear case is substantially more compelling. Trump's base explicitly opposes Clayton due to his Goldman Sachs background and perceived establishment credentials—exactly the profile Trump campaigned against. Clayton's prior SEC tenure drew criticism from both populist Republicans and progressive Democrats over regulatory rollbacks, making him vulnerable in a contentious confirmation battle. The AG role is typically reserved for candidates with prosecutorial backgrounds or loyal political operatives; Clayton's profile doesn't fit either template. Trump has already signaled interest in loyalists like Kash Patel for law enforcement roles, and naming Clayton would represent a dramatic reversal of that instinct. The narrow timeline and crowded field of more ideologically aligned candidates make this a low-probability play.
 
-Traders should recognize this market is essentially pricing the tail risk of administrative chaos rather than reflecting any genuine probability based on current signals. The 0.3% odds appear appropriately skeptical of such a reversal occurring without major triggering events that currently show no indication of materializing.
+Key catalysts include Trump's cabinet announcements in late January/early February 2025, which will signal his governing priorities and whether he's seeking establishment consensus or populist alignment. Senate Republican leadership positions, confirmed by early 2025, will indicate whether there's appetite for a Clayton-style nominee. Any significant market turmoil or financial regulation needs in 2025-2026 could theoretically increase Clayton's salience, though this seems unlikely to outweigh his political liabilities. Traders should monitor Trump's actual AG choice when announced, his stated criteria for the role, and whether Clayton receives any public endorsement from Trump or his inner circle—silence on Clayton likely means indifference to his candidacy.
 
 ## Related Markets
 
 - [Will Pete Buttigieg win the 2028 Democratic presidential nomination?](/odds/will-pete-buttigieg-win-the-2028-democratic-presidential-nomination) — 4% YES
-- [Will Tucker Carlson win the 2028 US Presidential Election?](/odds/will-tucker-carlson-win-the-2028-us-presidential-election) — 4% YES
-- [Will Andy Beshear win the 2028 Democratic presidential nomination?](/odds/will-andy-beshear-win-the-2028-democratic-presidential-nomination) — 2% YES
+- [Will Andy Beshear win the 2028 Democratic presidential nomination?](/odds/will-andy-beshear-win-the-2028-democratic-presidential-nomination) — 3% YES
+- [Will Tucker Carlson win the 2028 US Presidential Election?](/odds/will-tucker-carlson-win-the-2028-us-presidential-election) — 3% YES
 
 ## Frequently Asked Questions
 
-### Has Jay Clayton publicly expressed interest in serving as Attorney General under Trump's current administration?
+### Why would Clayton be particularly unpopular with Trump's base compared to other establishment Republicans?
 
-No public statements indicate Clayton is seeking or has been offered the AG position; he was not part of Trump's cabinet selection process for this term.
+Clayton's Goldman Sachs background and regulatory rollbacks as SEC Chair directly contradict Trump's anti-Wall Street populist messaging, making him a symbol of the establishment financial elite Trump campaigned against.
 
-### Could Clayton be appointed to a different cabinet position before June 30, 2026, which might resolve this market as NO despite his prominence in the administration?
+### What would need to happen to materially increase the probability this market is currently pricing?
 
-Yes—the market specifically requires an Attorney General announcement, so any other appointment would count as market resolution to NO.
+A major financial crisis or market disruption in 2025-2026 that elevated financial regulation as an urgent priority, combined with Trump explicitly signaling he wants an experienced regulator rather than a political operative in the AG role.
 
-### What percentage of this market's current odds likely reflects pure tail-risk hedging versus genuine belief in the probability?
+### How does the AG selection timeline affect this market's probability?
 
-Given the near-zero odds and already-confirmed AG, most of the 0.3% reflects speculators hedging against catastrophic political scenarios rather than grounded probability assessment.
+The 18-month window is longer than typical cabinet formation periods, but Clayton's establishment profile makes him less likely to be a late-stage appointment; Trump typically fills the AG role early with trusted allies, not establishment consensus picks.
 
 ## Learn More
 

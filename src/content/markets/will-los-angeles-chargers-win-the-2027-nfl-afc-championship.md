@@ -11,7 +11,6 @@ polymarketYes: 8.0
 polymarketNo: 92.0
 polymarketVolume: 9841
 polymarketUrl: "https://polymarket.com/event/will-los-angeles-chargers-win-the-2027-nfl-afc-championship-786"
-analysisDate: 2026-04-11
 ---
 
 The Chargers' 8% championship probability reflects structural skepticism about their ability to compete in a brutally competitive AFC, though this figure may undervalue their quarterback talent and coaching upside heading into the 2026 season. At nearly two years out from the championship game, this market prices in significant doubt about Los Angeles's roster trajectory and divisional positioning against Kansas City and Denver.

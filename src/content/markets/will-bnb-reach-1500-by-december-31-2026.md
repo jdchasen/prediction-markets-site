@@ -11,7 +11,6 @@ polymarketYes: 10.5
 polymarketNo: 89.5
 polymarketVolume: 9735
 polymarketUrl: "https://polymarket.com/event/will-bnb-reach-1500-by-december-31-2026"
-analysisDate: 2026-04-11
 ---
 
 # BNB Price Target Analysis: $1500 by Year-End 2026

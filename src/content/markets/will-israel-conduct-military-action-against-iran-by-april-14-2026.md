@@ -3,7 +3,7 @@ title: "Will Israel conduct military action against Iran by April 14, 2026?"
 description: "Will Israel conduct military action against Iran by April 14, 2026? Odds: 10.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Israel conduct military action against Iran by April 14, 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-11
 expiryDate: 2026-04-21
 tags: ["ai", "politics", "polymarket"]

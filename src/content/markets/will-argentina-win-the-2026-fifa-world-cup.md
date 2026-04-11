@@ -1,17 +1,16 @@
 ---
 title: "Will Argentina win the 2026 FIFA World Cup?"
-description: "Will Argentina win the 2026 FIFA World Cup? Odds: 8.8% YES on Polymarket. See live prices and trade this market."
+description: "Will Argentina win the 2026 FIFA World Cup? Odds: 8.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Argentina win the 2026 FIFA World Cup?"
 category: "sports"
 status: "active"
 lastUpdated: 2026-04-11
 expiryDate: 2026-07-20
 tags: ["polymarket", "sports"]
-polymarketYes: 8.8
+polymarketYes: 8.9
 polymarketNo: 91.1
-polymarketVolume: 9820408
+polymarketVolume: 9953641
 polymarketUrl: "https://polymarket.com/event/will-argentina-win-the-2026-fifa-world-cup-245"
-analysisDate: 2026-04-11
 ---
 
 Argentina enters the 2026 World Cup market as a modest long-shot despite their recent championship pedigree, with traders assigning less than a 9% probability to a repeat title run in North America.

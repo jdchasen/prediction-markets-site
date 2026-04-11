@@ -3,7 +3,7 @@ title: "Will Sunderland finish in 3rd place in the 2025-26 English Premier Leagu
 description: "Will Sunderland finish in 3rd place in the 2025-26 English Premier League? Odds: 1.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Sunderland finish in 3rd place in the 2025-26 English Premier League?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-11
 expiryDate: 2026-05-27
 tags: ["polymarket", "sports"]

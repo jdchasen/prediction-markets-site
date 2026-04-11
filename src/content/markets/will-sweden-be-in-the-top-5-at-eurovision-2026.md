@@ -11,7 +11,6 @@ polymarketYes: 38.0
 polymarketNo: 62.0
 polymarketVolume: 9897
 polymarketUrl: "https://polymarket.com/event/will-sweden-be-in-the-top-5-at-eurovision-2026"
-analysisDate: 2026-04-11
 ---
 
 # Eurovision 2026: Sweden's Top-5 Odds at 38%
