@@ -1,17 +1,16 @@
 ---
 title: "Will Trump meet with Keir Starmer in April 2026?"
-description: "Will Trump meet with Keir Starmer in April 2026? Odds: 29.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Trump meet with Keir Starmer in April 2026? Odds: 28.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Trump meet with Keir Starmer in April 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-04-10
+lastUpdated: 2026-04-11
 expiryDate: 2026-04-30
 tags: ["politics", "polymarket", "trump"]
-polymarketYes: 29.5
-polymarketNo: 70.5
-polymarketVolume: 9846
+polymarketYes: 28.5
+polymarketNo: 71.5
+polymarketVolume: 9856
 polymarketUrl: "https://polymarket.com/event/will-trump-meet-with-keir-starmer-in-april-2026"
-analysisDate: 2026-04-10
 ---
 
 # Trump-Starmer Meeting in April 2026: Market Analysis

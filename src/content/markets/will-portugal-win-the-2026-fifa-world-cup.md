@@ -3,8 +3,8 @@ title: "Will Portugal win the 2026 FIFA World Cup?"
 description: "Will Portugal win the 2026 FIFA World Cup? Odds: 6.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Portugal win the 2026 FIFA World Cup?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-04-10
+status: "settled"
+lastUpdated: 2026-04-11
 expiryDate: 2026-07-20
 tags: ["polymarket", "sports"]
 polymarketYes: 6.9

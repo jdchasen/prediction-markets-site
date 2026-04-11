@@ -3,8 +3,8 @@ title: "NBA to pass Luka Doncic’s “Extraordinary Circumstances Challenge”?
 description: "NBA to pass Luka Doncic’s “Extraordinary Circumstances Challenge”? Odds: 70.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "NBA to pass Luka Doncic’s “Extraordinary Circumstances Challenge”?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-04-10
+status: "settled"
+lastUpdated: 2026-04-11
 expiryDate: 2026-07-01
 tags: ["polymarket", "sports"]
 polymarketYes: 70.5

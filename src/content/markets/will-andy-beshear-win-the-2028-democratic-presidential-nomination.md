@@ -4,14 +4,13 @@ description: "Will Andy Beshear win the 2028 Democratic presidential nomination?
 marketQuestion: "Will Andy Beshear win the 2028 Democratic presidential nomination?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-04-10
+lastUpdated: 2026-04-11
 expiryDate: 2028-11-07
 tags: ["politics", "polymarket"]
 polymarketYes: 1.9
 polymarketNo: 98.0
-polymarketVolume: 9807046
+polymarketVolume: 9823370
 polymarketUrl: "https://polymarket.com/event/will-andy-beshear-win-the-2028-democratic-presidential-nomination-832"
-analysisDate: 2026-04-10
 ---
 
 The market pricing Andy Beshear at under 2% for the 2028 Democratic nomination reflects his status as a second-tier prospect despite governing a red state successfully, with traders viewing him as lacking the national profile and fundraising network needed to break through a crowded field.

@@ -1,55 +1,56 @@
 ---
 title: "Bank of England increases interest rates by 25 bps after June 2026 meeting?"
-description: "Bank of England increases interest rates by 25 bps after June 2026 meeting? Odds: 39.5% YES on Polymarket. See live prices and trade this market."
+description: "Bank of England increases interest rates by 25 bps after June 2026 meeting? Odds: 41.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Bank of England increases interest rates by 25 bps after June 2026 meeting?"
 category: "economics"
 status: "active"
-lastUpdated: 2026-04-10
+lastUpdated: 2026-04-11
 expiryDate: 2026-06-18
 tags: ["economics", "interest-rates", "polymarket"]
-polymarketYes: 39.5
-polymarketNo: 60.5
+polymarketYes: 41.5
+polymarketNo: 58.5
 polymarketVolume: 9431
 polymarketUrl: "https://polymarket.com/event/bank-of-england-increases-interest-rates-after-june-2026-meeting"
+analysisDate: 2026-04-11
 ---
 
-# Bank of England Interest Rate Decision Analysis
+# Bank of England Rate Decision Analysis
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 40.0% | 60.0% | $9K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 41.5% | 58.5% | $9K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The market is currently pricing in a 40% probability of a 25 basis point rate hike at the June 2026 BoE meeting, suggesting traders see more downside risk to growth than upside pressure on inflation over the next 18 months. This matters because it reveals market expectations for UK monetary policy trajectory at a critical juncture—the BoE will have already cut rates multiple times from current levels by mid-2026, and this contract tests whether the cutting cycle reverses course or stabilizes. Understanding this probability helps investors position sterling exposure and UK bond duration ahead of the decision.
+The market is pricing in less than even odds for a 25 basis point hike at the June 2026 BoE meeting, reflecting broad expectations that the central bank will be in a cutting or holding cycle by mid-2026. This matters now because current rate guidance, inflation trajectory, and labor market signals over the next 18 months will almost entirely determine whether the BoE tightens rather than eases when this decision comes due. The 41.5% probability suggests traders view a rate increase as a tail-risk scenario rather than a base case.
 
-The bull case for a rate hike rests on persistent core inflation stickiness in the UK and wage-growth surprises. If CPI remains above the BoE's 2% target through 2025, especially if services inflation (currently the stickiest component) fails to compress as expected, the MPC could be forced into a "higher for longer" stance. The June 2026 meeting would occur after Q1 2026 CPI data and wage statistics are published, providing fresh inflation signals. A resurgent energy shock, sterling weakness, or stronger-than-forecast consumer demand could all reignite inflationary pressures, making the 40% probability appear underpriced.
+The bull case for a hike rests on persistent UK inflation failing to return sustainably to the 2% target. If core CPI remains elevated through late 2025 and early 2026—particularly driven by sticky wage growth and service sector inflation—the BoE could be forced to defend its credibility with additional tightening. The labor market data, especially upcoming ONS employment reports (typically released mid-month), will be critical; wage growth above 3-4% annualized heading into 2026 would support hawkish repricing. Additionally, if global inflation surprises to the upside or the BoE falls behind other major central banks like the Fed in cutting cycles, a June 2026 hike becomes more plausible.
 
-The bear case—which the market is weighting at 60%—assumes the BoE has successfully engineered a soft landing by mid-2026. Under this scenario, headline and core inflation gravitate toward target, unemployment edges higher from cyclical weakness, and the MPC remains in pause-or-cut mode rather than hiking. Fiscal consolidation pressures and slowing global growth would support this disinflationary trajectory. Any deterioration in UK GDP growth data through late 2025 or early 2026 would reinforce rate-cut expectations, pulling the hike probability lower.
+The bear case dominates current pricing because market consensus expects the BoE to have already begun cutting rates well before June 2026. If UK CPI trends toward target as base effects fade and real wage growth moderates, rate cuts likely begin in late 2025, creating an environment where further tightening is off the table. Slowing UK GDP growth—watch Q1 and Q2 2026 ONS GDP releases for weakness—would also argue against hiking. The retail sales data (released monthly) and purchasing managers' indices (PMI, released on the first business day of each month) will signal demand weakness; if these deteriorate, the market will shift decisively bearish on this contract.
 
-Traders should monitor the Q4 2025 and Q1 2026 CPI releases (typically mid-month), the BoE's February and May 2026 policy meetings and their forward guidance, and the ONS wage growth figures through early 2026. The FOMC's interest rate path will also matter—if the Fed cuts aggressively before June 2026, the BoE may follow suit, while Fed pause signals could anchor BoE policy higher. Sterling's strength or weakness will serve as a real-time market signal; sustained GBP appreciation would ease imported inflation pressure and reduce hike odds, while depreciation would tighten them.
+Traders should monitor the May 2026 BoE decision most closely, as it immediately precedes the June meeting expiry. The 8 May 2026 inflation report will be the last major CPI release before the decision; if that print surprises high, it could trigger repricing toward a hike. Watch the futures market for the May decision itself—if traders price in a cut there, the probability of a June hike collapses. The BoE's forward guidance statements at each meeting through early 2026 will also telegraph intentions; any hawkish pivot in rhetoric would be a material catalyst for this contract.
 
 ## Related Markets
 
-- [Will 1 Fed rate cut happen in 2026?](/odds/will-1-fed-rate-cut-happen-in-2026) — 26% YES
 - [Will 5 Fed rate cuts happen in 2026?](/odds/will-5-fed-rate-cuts-happen-in-2026) — 1% YES
-- [Will the Fed decrease interest rates by 25 bps after the June 2026 meeting?](/odds/will-the-fed-decrease-interest-rates-by-25-bps-after-the-june-2026-meeting) — 10% YES
+- [Will the Fed decrease interest rates by 25 bps after the June 2026 meeting?](/odds/will-the-fed-decrease-interest-rates-by-25-bps-after-the-june-2026-meeting) — 6% YES
+- [Bank of Japan increases interest rates by 25 bps after the April 2026 meeting?](/odds/bank-of-japan-increases-interest-rates-by-25-bps-after-the-april-2026-meeting) — 62% YES
 
 ## Frequently Asked Questions
 
-### Why would the BoE hike rates in June 2026 when it's likely in cutting mode by then?
+### What's the most likely scenario that gets this market to 70%+ probability for a hike?
 
-Only if core inflation proves persistently sticky above target, wage growth remains elevated, or a demand shock re-emerges—forcing the MPC to reverse course mid-cycle despite growth concerns.
+A sustained bout of above-target CPI readings through early 2026 combined with wage growth remaining sticky above 4%, forcing the BoE to signal staying higher for longer despite economic slowdown. This would require either a significant inflation surprise or labor market resilience that contradicts current consensus.
 
-### How much would a Q1 2026 CPI print above 3% shift this market?
+### How much does the Fed's rate path matter to this outcome?
 
-Significantly higher; above-target inflation combined with three months' lead time to the June decision would likely push YES odds toward 55-65% as the market reprices hike probability upward.
+Significantly—if the Fed cuts aggressively in 2025 while the BoE is still tightening, sterling weakness could import inflation, keeping UK CPI elevated and supporting BoE hawkishness. Conversely, if the Fed and BoE move in tandem toward cuts by mid-2026, the probability of a June hike drops sharply.
 
-### Does the Fed's rate path directly determine the outcome for this contract?
+### What would cause this contract to trade closer to 50-50?
 
-Not directly, but aggressive Fed cuts would pressure sterling and give the BoE room to cut alongside, pulling the June hike odds lower, while Fed hold signals could anchor BoE policy and support hike odds.
+An unexpected return of UK inflation above 3% in
 
 ## Learn More
 

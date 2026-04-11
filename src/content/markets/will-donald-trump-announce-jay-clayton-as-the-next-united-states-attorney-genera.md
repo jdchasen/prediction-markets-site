@@ -1,17 +1,16 @@
 ---
 title: "Will Donald Trump announce Jay Clayton as the next United States Attorney General by June 30?"
-description: "Will Donald Trump announce Jay Clayton as the next United States Attorney General by June 30? Odds: 0.3% YES on Polymarket. See live prices and trade this ma..."
+description: "Will Donald Trump announce Jay Clayton as the next United States Attorney General by June 30? Odds: 0.4% YES on Polymarket. See live prices and trade this ma..."
 marketQuestion: "Will Donald Trump announce Jay Clayton as the next United States Attorney General by June 30?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-04-10
+lastUpdated: 2026-04-11
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket", "trump"]
-polymarketYes: 0.3
+polymarketYes: 0.4
 polymarketNo: 99.7
-polymarketVolume: 9815
+polymarketVolume: 9875
 polymarketUrl: "https://polymarket.com/event/will-donald-trump-announce-jay-clayton-as-the-next-united-states-attorney-general-by-june-30"
-analysisDate: 2026-04-10
 ---
 
 # Analysis

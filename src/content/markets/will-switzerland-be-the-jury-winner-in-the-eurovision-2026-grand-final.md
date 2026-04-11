@@ -3,8 +3,8 @@ title: "Will Switzerland be the Jury Winner in the Eurovision 2026 Grand Final?"
 description: "Will Switzerland be the Jury Winner in the Eurovision 2026 Grand Final? Odds: 0.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Switzerland be the Jury Winner in the Eurovision 2026 Grand Final?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-10
+status: "settled"
+lastUpdated: 2026-04-11
 expiryDate: 2026-05-16
 tags: ["politics", "polymarket"]
 polymarketYes: 0.4

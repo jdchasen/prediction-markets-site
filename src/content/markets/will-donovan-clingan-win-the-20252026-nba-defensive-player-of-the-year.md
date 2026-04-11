@@ -3,8 +3,8 @@ title: "Will Donovan Clingan win the 2025–2026 NBA Defensive Player of the Yea
 description: "Will Donovan Clingan win the 2025–2026 NBA Defensive Player of the Year? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Donovan Clingan win the 2025–2026 NBA Defensive Player of the Year?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-04-10
+status: "settled"
+lastUpdated: 2026-04-11
 expiryDate: 2026-06-30
 tags: ["polymarket", "sports"]
 polymarketYes: 0.1

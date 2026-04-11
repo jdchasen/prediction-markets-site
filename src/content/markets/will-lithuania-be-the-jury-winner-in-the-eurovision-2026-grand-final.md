@@ -4,14 +4,13 @@ description: "Will Lithuania be the Jury Winner in the Eurovision 2026 Grand Fin
 marketQuestion: "Will Lithuania be the Jury Winner in the Eurovision 2026 Grand Final?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-04-10
+lastUpdated: 2026-04-11
 expiryDate: 2026-05-16
 tags: ["politics", "polymarket"]
 polymarketYes: 0.5
 polymarketNo: 99.5
-polymarketVolume: 9756
+polymarketVolume: 9983
 polymarketUrl: "https://polymarket.com/event/will-lithuania-be-the-jury-winner-in-the-eurovision-2026-grand-final"
-analysisDate: 2026-04-10
 ---
 
 # Eurovision 2026 Jury Winner Prediction Analysis

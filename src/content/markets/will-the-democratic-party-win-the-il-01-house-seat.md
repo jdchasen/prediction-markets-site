@@ -3,8 +3,8 @@ title: "Will the Democratic Party win the IL-01 House seat?"
 description: "Will the Democratic Party win the IL-01 House seat? Odds: 92.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Democratic Party win the IL-01 House seat?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-10
+status: "settled"
+lastUpdated: 2026-04-11
 expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
 polymarketYes: 92.0

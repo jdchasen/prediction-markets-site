@@ -1,17 +1,16 @@
 ---
 title: "Will Mahmoud Abbas be the next leader out before 2027?"
-description: "Will Mahmoud Abbas be the next leader out before 2027? Odds: 0.9% YES on Polymarket. See live prices and trade this market."
+description: "Will Mahmoud Abbas be the next leader out before 2027? Odds: 1.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Mahmoud Abbas be the next leader out before 2027?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-04-10
+lastUpdated: 2026-04-11
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 0.9
-polymarketNo: 99.2
-polymarketVolume: 98006
+polymarketYes: 1.1
+polymarketNo: 98.9
+polymarketVolume: 98807
 polymarketUrl: "https://polymarket.com/event/will-mahmoud-abbas-be-the-next-leader-out-before-2027-629"
-analysisDate: 2026-04-10
 ---
 
 The market pricing Mahmoud Abbas's departure at under 1% suggests traders view the Palestinian Authority president as extremely unlikely to be the next major world leader to leave office before 2027, despite his advanced age of 89 and declining health concerns that have periodically surfaced in recent years.

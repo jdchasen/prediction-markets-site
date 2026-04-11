@@ -1,17 +1,16 @@
 ---
 title: "Will the People Power Party win 2 seats in South Korea’s June 3, 2026 parliamentary by-elections?"
-description: "Will the People Power Party win 2 seats in South Korea’s June 3, 2026 parliamentary by-elections? Odds: 44.0% YES on Polymarket. See live prices and trade th..."
+description: "Will the People Power Party win 2 seats in South Korea’s June 3, 2026 parliamentary by-elections? Odds: 45.0% YES on Polymarket. See live prices and trade th..."
 marketQuestion: "Will the People Power Party win 2 seats in South Korea’s June 3, 2026 parliamentary by-elections?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-04-10
+lastUpdated: 2026-04-11
 expiryDate: 2026-06-03
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 44.0
-polymarketNo: 56.0
-polymarketVolume: 9789
+polymarketYes: 45.0
+polymarketNo: 55.0
+polymarketVolume: 9799
 polymarketUrl: "https://polymarket.com/event/will-the-people-power-party-win-2-seats-in-south-koreas-june-3-2026-parliamentary-by-elections"
-analysisDate: 2026-04-10
 ---
 
 This market prices the People Power Party's chances of winning exactly two seats in South Korea's June 2026 by-elections at roughly even odds, reflecting deep uncertainty about both the electoral landscape and PPP performance in what could be a pivotal mid-term test. The outcome matters because South Korea's parliamentary dynamics shift dramatically based on by-election results, and a PPP underperformance would signal weakening support ahead of the 2027 presidential race. Current President Yoon Suk-yeol's party has faced mounting pressure from corruption scandals, inflation concerns, and labor disputes throughout 2024-2025, creating conditions where mid-term by-elections typically punish the ruling party.

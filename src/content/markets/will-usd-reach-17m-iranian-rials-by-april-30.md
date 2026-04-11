@@ -3,8 +3,8 @@ title: "Will USD reach 1.7M Iranian rials by April 30?"
 description: "Will USD reach 1.7M Iranian rials by April 30? Odds: 9.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will USD reach 1.7M Iranian rials by April 30?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-10
+status: "settled"
+lastUpdated: 2026-04-11
 expiryDate: 2026-04-30
 tags: ["politics", "polymarket"]
 polymarketYes: 9.5

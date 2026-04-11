@@ -1,17 +1,16 @@
 ---
 title: "Will Solana dip to $30 in April?"
-description: "Will Solana dip to $30 in April? Odds: 0.8% YES on Polymarket. See live prices and trade this market."
+description: "Will Solana dip to $30 in April? Odds: 0.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Solana dip to $30 in April?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-04-10
+lastUpdated: 2026-04-11
 expiryDate: 2026-05-01
 tags: ["politics", "polymarket"]
-polymarketYes: 0.8
-polymarketNo: 99.2
-polymarketVolume: 98124
+polymarketYes: 0.7
+polymarketNo: 99.3
+polymarketVolume: 98484
 polymarketUrl: "https://polymarket.com/event/will-solana-dip-to-30-in-april-2026"
-analysisDate: 2026-04-10
 ---
 
 The market gives Solana almost no chance of dropping to $30 in April, pricing this extreme downside scenario at under 1% probability—a threshold that would require the cryptocurrency to fall roughly 85% from current levels around $200, signaling either catastrophic network failure or a broader crypto market collapse.

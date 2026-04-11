@@ -3,8 +3,8 @@ title: "Will Joe Mazzulla win the 2025–2026 NBA Coach of the Year?"
 description: "Will Joe Mazzulla win the 2025–2026 NBA Coach of the Year? Odds: 39.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Joe Mazzulla win the 2025–2026 NBA Coach of the Year?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-04-10
+status: "settled"
+lastUpdated: 2026-04-11
 expiryDate: 2026-06-30
 tags: ["polymarket", "sports"]
 polymarketYes: 39.7

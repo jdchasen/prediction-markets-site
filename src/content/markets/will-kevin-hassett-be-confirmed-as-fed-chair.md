@@ -1,17 +1,16 @@
 ---
 title: "Will Kevin Hassett be confirmed as Fed Chair?"
-description: "Will Kevin Hassett be confirmed as Fed Chair? Odds: 0.4% YES on Polymarket. See live prices and trade this market."
+description: "Will Kevin Hassett be confirmed as Fed Chair? Odds: 0.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Kevin Hassett be confirmed as Fed Chair?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-04-10
+lastUpdated: 2026-04-11
 expiryDate: 2026-10-31
 tags: ["ai", "federal-reserve", "politics", "polymarket"]
-polymarketYes: 0.4
-polymarketNo: 99.7
-polymarketVolume: 977798
+polymarketYes: 0.2
+polymarketNo: 99.8
+polymarketVolume: 985119
 polymarketUrl: "https://polymarket.com/event/will-kevin-hassett-be-confirmed-as-fed-chair"
-analysisDate: 2026-04-10
 ---
 
 Traders have essentially ruled out Kevin Hassett's confirmation as Federal Reserve Chair, pricing his chances at less than half a percent despite the position's significance as the most powerful economic policy role in the United States. The market reflects strong consensus that either current Chair Jerome Powell will serve his full term through May 2026, or President Trump will nominate someone else when that term expires.
