@@ -1,17 +1,16 @@
 ---
 title: "Will the Democratic Party of Korea win 10 or more seats in South Korea’s June 3, 2026 parliamentary by-elections?"
-description: "Will the Democratic Party of Korea win 10 or more seats in South Korea’s June 3, 2026 parliamentary by-elections? Odds: 52.9% YES on Polymarket. See live pri..."
+description: "Will the Democratic Party of Korea win 10 or more seats in South Korea’s June 3, 2026 parliamentary by-elections? Odds: 50.2% YES on Polymarket. See live pri..."
 marketQuestion: "Will the Democratic Party of Korea win 10 or more seats in South Korea’s June 3, 2026 parliamentary by-elections?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-04-12
 expiryDate: 2026-06-03
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 52.9
-polymarketNo: 47.0
-polymarketVolume: 9758
+polymarketYes: 50.2
+polymarketNo: 49.8
+polymarketVolume: 9768
 polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-of-korea-win-10-or-more-seats-in-south-koreas-june-3-2026-parliamentary-by-elections"
-analysisDate: 2026-04-12
 ---
 
 This market reflects genuine uncertainty about South Korea's opposition party performance in midterm elections just over 18 months away, with current pricing suggesting a near coin-flip scenario. The June 2026 by-elections matter because they'll serve as a barometer of public sentiment midway through the presidential term and could reshape the National Assembly's balance of power heading into 2027. The Democratic Party of Korea (DPK) would need to secure 10+ seats from whatever number of vacancies occur, a threshold that depends entirely on how many seats are actually up for election—a variable that remains undefined and creates pricing uncertainty.

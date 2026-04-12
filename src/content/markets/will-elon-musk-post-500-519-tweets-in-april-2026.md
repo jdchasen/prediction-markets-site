@@ -8,10 +8,9 @@ lastUpdated: 2026-04-12
 expiryDate: 2026-05-01
 tags: ["polymarket", "tech"]
 polymarketYes: 0.1
-polymarketNo: 99.9
-polymarketVolume: 99141
+polymarketNo: 100.0
+polymarketVolume: 99165
 polymarketUrl: "https://polymarket.com/event/elon-musk-of-tweets-april-2026-500-519"
-analysisDate: 2026-04-12
 ---
 
 This market is trading at negligible odds because it asks whether Elon Musk will post within an extremely narrow 20-tweet window during April 2026, making it a low-probability precision bet rather than a directional assessment of his Twitter activity.

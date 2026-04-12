@@ -3,7 +3,7 @@ title: "Israel military action against Fordow nuclear facility by April 30?"
 description: "Israel military action against Fordow nuclear facility by April 30? Odds: 7.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Israel military action against Fordow nuclear facility by April 30?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-12
 expiryDate: 2026-04-30
 tags: ["ai", "politics", "polymarket"]

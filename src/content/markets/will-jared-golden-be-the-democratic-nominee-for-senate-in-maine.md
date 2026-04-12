@@ -11,7 +11,6 @@ polymarketYes: 0.1
 polymarketNo: 100.0
 polymarketVolume: 99248
 polymarketUrl: "https://polymarket.com/event/will-jared-golden-be-the-democratic-nominee-for-senate-in-maine"
-analysisDate: 2026-04-12
 ---
 
 The market assigns virtually no chance to Rep. Jared Golden securing the Democratic Senate nomination in Maine, reflecting strong indications that Senator Angus King will likely seek reelection and that Golden appears committed to his House seat representing Maine's 2nd Congressional District.

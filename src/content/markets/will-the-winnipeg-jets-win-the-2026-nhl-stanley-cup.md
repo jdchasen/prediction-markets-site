@@ -9,9 +9,8 @@ expiryDate: 2026-06-30
 tags: ["polymarket", "sports"]
 polymarketYes: 0.1
 polymarketNo: 99.9
-polymarketVolume: 981510
+polymarketVolume: 993919
 polymarketUrl: "https://polymarket.com/event/will-the-winnipeg-jets-win-the-2026-nhl-stanley-cup"
-analysisDate: 2026-04-12
 ---
 
 The Winnipeg Jets face astronomical odds for the 2026 Stanley Cup, priced near zero on prediction markets, reflecting their status as a small-market franchise with persistent playoff performance issues despite regular season success.

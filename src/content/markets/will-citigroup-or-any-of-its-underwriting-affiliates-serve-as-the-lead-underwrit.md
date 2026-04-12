@@ -1,52 +1,53 @@
 ---
 title: "Will Citigroup or any of its underwriting affiliates serve as the lead underwriter in SpaceX’s initial public offering?"
-description: "Will Citigroup or any of its underwriting affiliates serve as the lead underwriter in SpaceX’s initial public offering? Odds: 0.7% YES on Polymarket. See liv..."
+description: "Will Citigroup or any of its underwriting affiliates serve as the lead underwriter in SpaceX’s initial public offering? Odds: 0.9% YES on Polymarket. See liv..."
 marketQuestion: "Will Citigroup or any of its underwriting affiliates serve as the lead underwriter in SpaceX’s initial public offering?"
 category: "tech"
 status: "active"
 lastUpdated: 2026-04-12
 expiryDate: 2027-12-31
 tags: ["polymarket", "tech"]
-polymarketYes: 0.7
-polymarketNo: 99.4
-polymarketVolume: 98550
+polymarketYes: 0.9
+polymarketNo: 99.1
+polymarketVolume: 98642
 polymarketUrl: "https://polymarket.com/event/will-citigroup-or-any-of-its-underwriting-affiliates-serve-as-the-lead-underwriter-in-spacexs-initial-public-offering-719"
+analysisDate: 2026-04-12
 ---
 
-This market trades at basement-level probability because SpaceX has shown no concrete signs of pursuing an IPO and Elon Musk has repeatedly stated his intention to keep the company private until Mars missions become routine. The conditional nature—requiring both a SpaceX IPO *and* Citigroup as lead underwriter—compounds the uncertainty significantly.
+This market trades at minimal probability because SpaceX shows no credible signs of pursuing an IPO by the end of 2027, making any underwriter speculation highly premature when the company itself has repeatedly avoided going public.
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.5% | 99.5% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.9% | 99.1% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The bull case centers on SpaceX's massive capital requirements for Starship development and Mars colonization potentially forcing a public listing despite Musk's preferences. If SpaceX did go public, Citigroup maintains strong relationships in aerospace banking and has led major tech IPOs in recent years, making them a plausible candidate. The company's existing debt facilities with SpaceX could position them favorably for an underwriting role. Additionally, employee liquidity pressure from SpaceX's tender offers—most recently valued at $350 billion in late 2024—could eventually necessitate public markets access before 2027.
+The bear case dominates here with overwhelming force. Elon Musk has consistently stated SpaceX will remain private until Mars missions reach predictable profitability, a timeline extending well beyond 2027. The company generates substantial revenue through Starlink subscriptions and NASA contracts, eliminating capital-raising pressure that typically drives IPOs. SpaceX raised $2 billion in a January 2024 funding round at a $180 billion valuation, demonstrating robust private market access. Even if an IPO were announced tomorrow, Citigroup faces intense competition from Goldman Sachs and Morgan Stanley, who dominate aerospace IPO mandates and have deeper SpaceX relationships through previous financing arrangements. The conditional nature—requiring both an unlikely IPO and specific underwriter selection—compounds the improbability.
 
-The bear case is straightforward: Musk has consistently opposed taking SpaceX public, stating as recently as 2023 that short-term investor pressure would undermine Mars mission objectives. SpaceX continues raising private capital successfully, with multiple tender offers providing employee liquidity without public markets. Even if an IPO occurred, Morgan Stanley and Goldman Sachs have deeper SpaceX banking relationships, having managed previous funding rounds. The probability of *both* conditions being met—IPO happening and Citigroup specifically winning lead underwriter—remains extremely low.
+The bull case rests on potential strategic shifts or financial necessity. A Starlink spinoff IPO remains possible if SpaceX seeks to unlock value in its profitable satellite internet division while keeping the Mars mission private. Citigroup has strengthened its technology banking franchise and could secure a co-lead position if multiple banks share the mandate. Regulatory pressure or litigation costs from Starship environmental reviews could theoretically force earlier capital needs, though this remains speculative. SpaceX's expanding Starship development and planned Mars cargo missions by 2026 might establish the "predictable operations" threshold Musk has cited as his IPO prerequisite.
 
-Key catalysts to monitor include SpaceX's Starship development milestones, particularly any orbital refueling demonstrations planned for 2025-2026 that could validate business models requiring massive capital raises. Watch for changes in SpaceX's private funding cadence—difficulty raising at favorable valuations could signal IPO consideration. Any public statements from Musk or SpaceX President Gwynne Shotwell about liquidity events or governance changes would significantly impact probabilities. Citigroup's involvement in any future SpaceX debt issuances or credit facilities would strengthen their underwriting position.
+Key catalysts to monitor include any Musk statements on IPO timing during SpaceX updates, typically given after major Starship test flights. The next Starship orbital test flights throughout 2025 will signal whether Mars mission timelines remain on track. Watch for Starlink subscriber growth announcements—if growth plateaus, IPO pressure increases. Any SpaceX capital raises above $5 billion could indicate shifting toward public market preparation. Citigroup's aerospace banking mandates in 2025-2026 would signal competitive positioning, though trader focus should remain primarily on whether SpaceX pursues any public offering whatsoever before 2028.
 
 ## Related Markets
 
+- [Will Elon Musk post 500-519 tweets in April 2026?](/odds/will-elon-musk-post-500-519-tweets-in-april-2026) — 0% YES
 - [Will Elon Musk post 1760-1839 tweets in April 2026?](/odds/will-elon-musk-post-1760-1839-tweets-in-april-2026) — 0% YES
-- [Will Elon Musk post 180-199 tweets from April 14 to April 21, 2026?](/odds/will-elon-musk-post-180-199-tweets-from-april-14-to-april-21-2026) — 2% YES
 
 ## Frequently Asked Questions
 
-### What would need to happen for SpaceX to actually go public before 2027?
+### Could SpaceX do a partial IPO of just Starlink instead of the entire company?
 
-SpaceX would likely need either a fundamental shift in Musk's control or unprecedented capital requirements exceeding private market capacity. Employee pressure for liquidity combined with Starship cost overruns could create conditions, but Musk's voting control makes this scenario unlikely within three years.
+Yes, a Starlink spinoff IPO is the most plausible public offering scenario before 2027, as it would raise capital while keeping Mars operations private. However, even this structure would likely occur after 2027 based on Musk's historical timelines and current financial position.
 
-### Why would Citigroup specifically win the lead underwriting mandate over competitors?
+### What evidence exists of Citigroup's relationship with SpaceX that would support them winning this mandate?
 
-Citigroup would need to leverage existing credit relationships and potentially offer superior valuation or distribution capabilities. However, Morgan Stanley and Goldman Sachs have managed SpaceX's largest private rounds and historically lead marquee tech IPOs, giving them structural advantages.
+Public records show minimal connection—Goldman Sachs and Morgan Stanley have dominated SpaceX's private funding rounds and have established aerospace IPO track records. Citigroup would need to significantly deepen this relationship over the next two years to become competitive for a lead underwriter role.
 
-### Could SpaceX spin off Starlink separately, and would that count for this market?
+### If SpaceX announced an IPO in 2026, when would the lead underwriter typically be selected?
 
-A Starlink IPO would not satisfy this market's conditions, which specifically requires SpaceX itself to go public. Musk has previously suggested Starlink could IPO independently once cash flow stabilizes, but that would leave the core SpaceX business private and this market unresolved.
+Lead underwriters are usually selected 6-12 months before IPO execution during the initial organizational meetings. For a company of SpaceX's size and complexity, expect bank selection approximately 9 months prior to any target public offering date.
 
 ## Learn More
 

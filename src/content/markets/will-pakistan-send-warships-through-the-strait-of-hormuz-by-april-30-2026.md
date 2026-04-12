@@ -3,7 +3,7 @@ title: "Will Pakistan send warships through the Strait of Hormuz by April 30, 20
 description: "Will Pakistan send warships through the Strait of Hormuz by April 30, 2026? Odds: 7.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Pakistan send warships through the Strait of Hormuz by April 30, 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-12
 expiryDate: 2026-04-30
 tags: ["ai", "politics", "polymarket"]

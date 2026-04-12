@@ -1,17 +1,16 @@
 ---
 title: "Gemini 3.5 released by May 31?"
-description: "Gemini 3.5 released by May 31? Odds: 7.8% YES on Polymarket. See live prices and trade this market."
+description: "Gemini 3.5 released by May 31? Odds: 6.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Gemini 3.5 released by May 31?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-04-12
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
-polymarketYes: 7.8
-polymarketNo: 92.2
-polymarketVolume: 97626
+polymarketYes: 6.9
+polymarketNo: 93.1
+polymarketVolume: 97843
 polymarketUrl: "https://polymarket.com/event/gemini-3pt5-released-by-may-31"
-analysisDate: 2026-04-12
 ---
 
 # Gemini 3.5 Release Market Analysis

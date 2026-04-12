@@ -9,9 +9,8 @@ expiryDate: 2026-05-01
 tags: ["politics", "polymarket"]
 polymarketYes: 0.1
 polymarketNo: 99.9
-polymarketVolume: 98415
+polymarketVolume: 99689
 polymarketUrl: "https://polymarket.com/event/will-solana-dip-to-10-in-april-2026"
-analysisDate: 2026-04-12
 ---
 
 # Solana Price Prediction Market Analysis

@@ -8,10 +8,9 @@ lastUpdated: 2026-04-12
 expiryDate: 2026-05-19
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.7
-polymarketNo: 99.3
+polymarketNo: 99.4
 polymarketVolume: 9891
 polymarketUrl: "https://polymarket.com/event/will-ken-mcfeeters-win-the-2026-alabama-governor-republican-primary-election"
-analysisDate: 2026-04-12
 ---
 
 # Ken McFeeters 2026 Alabama Governor Republican Primary Analysis

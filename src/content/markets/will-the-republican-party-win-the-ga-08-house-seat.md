@@ -9,9 +9,8 @@ expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
 polymarketYes: 91.5
 polymarketNo: 8.5
-polymarketVolume: 9896
+polymarketVolume: 9898
 polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-ga-08-house-seat"
-analysisDate: 2026-04-12
 ---
 
 # GA-08 Republican Hold Analysis

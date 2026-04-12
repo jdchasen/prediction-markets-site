@@ -9,9 +9,8 @@ expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
 polymarketYes: 92.0
 polymarketNo: 8.0
-polymarketVolume: 9771
+polymarketVolume: 9788
 polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-ny-08-house-seat"
-analysisDate: 2026-04-12
 ---
 
 # NY-08 House Seat: Democratic Stronghold at Historical Odds

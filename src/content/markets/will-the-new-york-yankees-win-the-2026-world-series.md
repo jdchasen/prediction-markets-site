@@ -9,9 +9,8 @@ expiryDate: 2026-10-31
 tags: ["politics", "polymarket"]
 polymarketYes: 9.5
 polymarketNo: 90.5
-polymarketVolume: 98421
+polymarketVolume: 99657
 polymarketUrl: "https://polymarket.com/event/will-the-new-york-yankees-win-the-2026-world-series"
-analysisDate: 2026-04-12
 ---
 
 # Yankees 2026 World Series Analysis

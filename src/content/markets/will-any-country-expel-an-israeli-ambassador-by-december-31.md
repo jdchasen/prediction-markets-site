@@ -3,7 +3,7 @@ title: "Will any country expel an Israeli ambassador by December 31?"
 description: "Will any country expel an Israeli ambassador by December 31? Odds: 35.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will any country expel an Israeli ambassador by December 31?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-12
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]

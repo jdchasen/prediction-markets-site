@@ -3,7 +3,7 @@ title: "Viktor Orbán out by December 31, 2026?"
 description: "Viktor Orbán out by December 31, 2026? Odds: 79.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Viktor Orbán out by December 31, 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-12
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]

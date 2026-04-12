@@ -3,7 +3,7 @@ title: "Will XRP dip to $0.40 by December 31, 2026?"
 description: "Will XRP dip to $0.40 by December 31, 2026? Odds: 36.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will XRP dip to $0.40 by December 31, 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-12
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]

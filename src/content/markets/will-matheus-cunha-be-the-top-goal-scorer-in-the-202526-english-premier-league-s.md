@@ -1,17 +1,16 @@
 ---
 title: "Will Matheus Cunha be the top goal scorer in the 2025–26 English Premier League season?"
-description: "Will Matheus Cunha be the top goal scorer in the 2025–26 English Premier League season? Odds: 0.8% YES on Polymarket. See live prices and trade this market."
+description: "Will Matheus Cunha be the top goal scorer in the 2025–26 English Premier League season? Odds: 0.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Matheus Cunha be the top goal scorer in the 2025–26 English Premier League season?"
 category: "sports"
 status: "active"
 lastUpdated: 2026-04-12
 expiryDate: 2026-05-27
 tags: ["polymarket", "sports"]
-polymarketYes: 0.8
-polymarketNo: 99.2
-polymarketVolume: 97949
+polymarketYes: 0.7
+polymarketNo: 99.4
+polymarketVolume: 99001
 polymarketUrl: "https://polymarket.com/event/will-matheus-cunha-be-the-top-goal-scorer-in-the-202526-english-premier-league-season"
-analysisDate: 2026-04-12
 ---
 
 # Matheus Cunha Golden Boot Analysis

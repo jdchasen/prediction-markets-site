@@ -3,7 +3,7 @@ title: "Porsche Tennis Grand Prix, Qualification: Alycia Parks vs Viktoriya Tomo
 description: "Porsche Tennis Grand Prix, Qualification: Alycia Parks vs Viktoriya Tomova Odds: 100.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Porsche Tennis Grand Prix, Qualification: Alycia Parks vs Viktoriya Tomova"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-12
 expiryDate: 2026-04-19
 tags: ["politics", "polymarket"]
