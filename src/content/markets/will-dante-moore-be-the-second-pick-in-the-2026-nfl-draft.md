@@ -4,14 +4,13 @@ description: "Will Dante Moore be the second pick in the 2026 NFL draft? Odds: 0
 marketQuestion: "Will Dante Moore be the second pick in the 2026 NFL draft?"
 category: "sports"
 status: "active"
-lastUpdated: 2026-04-11
+lastUpdated: 2026-04-12
 expiryDate: 2026-04-23
 tags: ["polymarket", "sports"]
 polymarketYes: 0.1
 polymarketNo: 99.9
-polymarketVolume: 99190
+polymarketVolume: 99230
 polymarketUrl: "https://polymarket.com/event/will-dante-moore-be-the-second-pick-in-the-2026-nfl-draft"
-analysisDate: 2026-04-11
 ---
 
 The market prices Dante Moore as an extreme longshot to be the second overall pick in the 2026 NFL Draft, reflecting both the uncertainty around his current trajectory and the historically low odds of any quarterback reaching that slot two years out.

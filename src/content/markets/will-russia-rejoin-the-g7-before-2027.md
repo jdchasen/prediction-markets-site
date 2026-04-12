@@ -1,17 +1,16 @@
 ---
 title: "Will Russia rejoin the G7 before 2027?"
-description: "Will Russia rejoin the G7 before 2027? Odds: 6.7% YES on Polymarket. See live prices and trade this market."
+description: "Will Russia rejoin the G7 before 2027? Odds: 6.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Russia rejoin the G7 before 2027?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-04-11
+lastUpdated: 2026-04-12
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 6.7
-polymarketNo: 93.3
-polymarketVolume: 9766
+polymarketYes: 6.8
+polymarketNo: 93.2
+polymarketVolume: 9928
 polymarketUrl: "https://polymarket.com/event/will-russia-rejoin-the-g7-before-2027"
-analysisDate: 2026-04-11
 ---
 
 # Russia's G7 Return: A Market Priced on Near-Impossibility

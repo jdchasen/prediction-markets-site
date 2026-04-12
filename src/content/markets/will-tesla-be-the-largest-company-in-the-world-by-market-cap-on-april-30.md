@@ -3,8 +3,8 @@ title: "Will Tesla be the largest company in the world by market cap on April 30
 description: "Will Tesla be the largest company in the world by market cap on April 30? Odds: 0.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Tesla be the largest company in the world by market cap on April 30?"
 category: "finance"
-status: "active"
-lastUpdated: 2026-04-11
+status: "settled"
+lastUpdated: 2026-04-12
 expiryDate: 2026-04-30
 tags: ["finance", "polymarket"]
 polymarketYes: 0.2

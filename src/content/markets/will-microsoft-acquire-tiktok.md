@@ -1,17 +1,16 @@
 ---
 title: "Will Microsoft acquire TikTok?"
-description: "Will Microsoft acquire TikTok? Odds: 7.0% YES on Polymarket. See live prices and trade this market."
+description: "Will Microsoft acquire TikTok? Odds: 8.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Microsoft acquire TikTok?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-04-11
+lastUpdated: 2026-04-12
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 7.0
-polymarketNo: 93.0
-polymarketVolume: 98668
+polymarketYes: 8.1
+polymarketNo: 92.0
+polymarketVolume: 99098
 polymarketUrl: "https://polymarket.com/event/will-microsoft-acquire-tiktok-637-223-119"
-analysisDate: 2026-04-11
 ---
 
 The Microsoft-TikTok acquisition question sits at just 7% probability as of late 2024, reflecting deep skepticism that a deal will materialize by end of 2026 despite recurring political pressure to force a sale of the Chinese-owned app. This matters because TikTok's fate remains the highest-profile test case of U.S.-China tech decoupling, with implications for data security policy, social media regulation, and the future of cross-border digital platforms.

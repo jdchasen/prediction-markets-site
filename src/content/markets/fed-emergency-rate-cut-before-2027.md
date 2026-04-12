@@ -1,17 +1,16 @@
 ---
 title: "Fed emergency rate cut before 2027?"
-description: "Fed emergency rate cut before 2027? Odds: 8.5% YES on Polymarket. See live prices and trade this market."
+description: "Fed emergency rate cut before 2027? Odds: 11.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Fed emergency rate cut before 2027?"
 category: "economics"
 status: "active"
-lastUpdated: 2026-04-11
+lastUpdated: 2026-04-12
 expiryDate: 2026-12-31
 tags: ["economics", "federal-reserve", "interest-rates", "polymarket"]
-polymarketYes: 8.5
-polymarketNo: 91.5
-polymarketVolume: 96028
+polymarketYes: 11.5
+polymarketNo: 88.5
+polymarketVolume: 98087
 polymarketUrl: "https://polymarket.com/event/fed-emergency-rate-cut-before-2027"
-analysisDate: 2026-04-11
 ---
 
 The market pricing an emergency Federal Reserve rate cut at under 9% through 2026 reflects trader confidence that economic conditions will remain stable enough to avoid crisis-level monetary intervention, a significant vote of confidence given recent banking sector stress and ongoing inflation concerns.

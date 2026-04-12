@@ -1,17 +1,16 @@
 ---
 title: "Will Abbas Araghchi be head of state in Iran end of 2026?"
-description: "Will Abbas Araghchi be head of state in Iran end of 2026? Odds: 2.9% YES on Polymarket. See live prices and trade this market."
+description: "Will Abbas Araghchi be head of state in Iran end of 2026? Odds: 2.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Abbas Araghchi be head of state in Iran end of 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-04-11
+lastUpdated: 2026-04-12
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 2.9
-polymarketNo: 97.0
-polymarketVolume: 98416
+polymarketYes: 2.5
+polymarketNo: 97.5
+polymarketVolume: 98426
 polymarketUrl: "https://polymarket.com/event/will-abbas-araghchi-be-head-of-state-in-iran-end-of-2026"
-analysisDate: 2026-04-11
 ---
 
 Traders are pricing in less than 3% odds that Iran's current Foreign Minister Abbas Araghchi will become head of state by the end of 2026, reflecting the structural barriers to such a dramatic political ascension in Iran's theocratic system.

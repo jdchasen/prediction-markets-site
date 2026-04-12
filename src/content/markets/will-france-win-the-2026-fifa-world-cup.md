@@ -3,8 +3,8 @@ title: "Will France win the 2026 FIFA World Cup?"
 description: "Will France win the 2026 FIFA World Cup? Odds: 14.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will France win the 2026 FIFA World Cup?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-04-11
+status: "settled"
+lastUpdated: 2026-04-12
 expiryDate: 2026-07-20
 tags: ["polymarket", "sports"]
 polymarketYes: 14.9

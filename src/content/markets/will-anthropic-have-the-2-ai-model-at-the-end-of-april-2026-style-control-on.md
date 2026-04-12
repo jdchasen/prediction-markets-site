@@ -1,17 +1,16 @@
 ---
 title: "Will Anthropic have the #2 AI model at the end of April 2026 (Style Control On)?"
-description: "Will Anthropic have the #2 AI model at the end of April 2026 (Style Control On)? Odds: 81.0% YES on Polymarket. See live prices and trade this market."
+description: "Will Anthropic have the #2 AI model at the end of April 2026 (Style Control On)? Odds: 80.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Anthropic have the #2 AI model at the end of April 2026 (Style Control On)?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-04-11
+lastUpdated: 2026-04-12
 expiryDate: 2026-04-30
 tags: ["ai", "politics", "polymarket"]
-polymarketYes: 81.0
-polymarketNo: 19.0
-polymarketVolume: 9793
+polymarketYes: 80.0
+polymarketNo: 20.0
+polymarketVolume: 9824
 polymarketUrl: "https://polymarket.com/event/will-anthropic-have-the-2-ai-model-at-the-end-of-april-2026-style-control-on"
-analysisDate: 2026-04-11
 ---
 
 # Analysis: Anthropic's #2 AI Model Position by April 2026

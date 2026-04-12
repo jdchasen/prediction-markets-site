@@ -4,14 +4,13 @@ description: "2026 Balance of Power: R Senate, D House Odds: 35.5% YES on Polyma
 marketQuestion: "2026 Balance of Power: R Senate, D House"
 category: "politics"
 status: "active"
-lastUpdated: 2026-04-11
+lastUpdated: 2026-04-12
 expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
 polymarketYes: 35.5
 polymarketNo: 64.5
-polymarketVolume: 990082
+polymarketVolume: 994493
 polymarketUrl: "https://polymarket.com/event/2026-balance-of-power-r-senate-d-house-444"
-analysisDate: 2026-04-11
 ---
 
 The market pricing a Republican Senate with a Democratic House at 35.5% reflects significant skepticism about Democrats' ability to flip the Senate while maintaining their House majority, despite the inherent advantages each party faces in their respective chambers. This matters because split control would fundamentally reshape the legislative landscape for the final two years of the current presidential term, affecting everything from judicial confirmations to budget negotiations.

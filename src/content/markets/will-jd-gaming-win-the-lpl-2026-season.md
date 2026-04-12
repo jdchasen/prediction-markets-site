@@ -4,14 +4,13 @@ description: "Will JD Gaming win the LPL 2026 season? Odds: 14.1% YES on Polymar
 marketQuestion: "Will JD Gaming win the LPL 2026 season?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-04-11
+lastUpdated: 2026-04-12
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 14.1
-polymarketNo: 85.9
+polymarketNo: 86.0
 polymarketVolume: 98882
 polymarketUrl: "https://polymarket.com/event/will-jd-gaming-win-the-lpl-2026-season"
-analysisDate: 2026-04-11
 ---
 
 # JD Gaming LPL 2026 Championship Analysis

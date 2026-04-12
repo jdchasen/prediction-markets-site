@@ -1,17 +1,16 @@
 ---
 title: "Will Qingdao Hainiu FC win on 2026-04-17?"
-description: "Will Qingdao Hainiu FC win on 2026-04-17? Odds: 44.0% YES on Polymarket. See live prices and trade this market."
+description: "Will Qingdao Hainiu FC win on 2026-04-17? Odds: 45.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Qingdao Hainiu FC win on 2026-04-17?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-04-11
+lastUpdated: 2026-04-12
 expiryDate: 2026-04-17
 tags: ["ai", "politics", "polymarket"]
-polymarketYes: 44.0
-polymarketNo: 56.0
+polymarketYes: 45.0
+polymarketNo: 55.0
 polymarketVolume: 9777
 polymarketUrl: "https://polymarket.com/event/chi-hai-qin-2026-04-17-hai"
-analysisDate: 2026-04-11
 ---
 
 # Analysis

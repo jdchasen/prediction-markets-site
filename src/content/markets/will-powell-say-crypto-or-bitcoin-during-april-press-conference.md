@@ -4,14 +4,13 @@ description: "Will Powell say \"Crypto\" or \"Bitcoin\" during April press confe
 marketQuestion: "Will Powell say \"Crypto\" or \"Bitcoin\" during April press conference?"
 category: "crypto"
 status: "active"
-lastUpdated: 2026-04-11
+lastUpdated: 2026-04-12
 expiryDate: 2026-04-29
 tags: ["bitcoin", "crypto", "polymarket"]
 polymarketYes: 9.0
 polymarketNo: 91.0
-polymarketVolume: 9758
+polymarketVolume: 9809
 polymarketUrl: "https://polymarket.com/event/will-powell-say-crypto-or-bitcoin-during-april-press-conference"
-analysisDate: 2026-04-11
 ---
 
 # Powell's Crypto Nomenclature: A Low-Probability Linguistic Bet

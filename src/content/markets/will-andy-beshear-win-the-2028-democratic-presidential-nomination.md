@@ -3,8 +3,8 @@ title: "Will Andy Beshear win the 2028 Democratic presidential nomination?"
 description: "Will Andy Beshear win the 2028 Democratic presidential nomination? Odds: 2.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Andy Beshear win the 2028 Democratic presidential nomination?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-11
+status: "settled"
+lastUpdated: 2026-04-12
 expiryDate: 2028-11-07
 tags: ["politics", "polymarket"]
 polymarketYes: 2.7

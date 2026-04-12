@@ -3,8 +3,8 @@ title: "Will Zelenskyy talk to Putin by December 31?"
 description: "Will Zelenskyy talk to Putin by December 31? Odds: 23.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Zelenskyy talk to Putin by December 31?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-11
+status: "settled"
+lastUpdated: 2026-04-12
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 23.5

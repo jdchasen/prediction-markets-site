@@ -3,8 +3,8 @@ title: "Will the Democratic Party win the TX-21 House seat?"
 description: "Will the Democratic Party win the TX-21 House seat? Odds: 12.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Democratic Party win the TX-21 House seat?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-11
+status: "settled"
+lastUpdated: 2026-04-12
 expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
 polymarketYes: 12.5

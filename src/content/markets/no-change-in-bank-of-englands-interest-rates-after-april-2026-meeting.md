@@ -4,50 +4,51 @@ description: "No change in Bank of England’s interest rates after April 2026 m
 marketQuestion: "No change in Bank of England’s interest rates after April 2026 meeting?"
 category: "economics"
 status: "active"
-lastUpdated: 2026-04-11
+lastUpdated: 2026-04-12
 expiryDate: 2026-04-30
 tags: ["economics", "interest-rates", "polymarket"]
 polymarketYes: 95.2
 polymarketNo: 4.8
-polymarketVolume: 94973
+polymarketVolume: 99839
 polymarketUrl: "https://polymarket.com/event/no-change-in-bank-of-englands-interest-rates-after-april-2026-meeting"
+analysisDate: 2026-04-12
 ---
 
-The market overwhelmingly expects the Bank of England to maintain its current policy rate through the April 2026 Monetary Policy Committee meeting, reflecting trader confidence that the UK will have achieved economic stability by that point—a signal relevant for sterling positioning and UK gilt duration strategies over the next 18 months.
+The Bank of England interest rate market is pricing in near-certainty that rates will remain unchanged following the April 2026 monetary policy meeting, reflecting expectations that UK monetary policy will have reached a stable equilibrium by that point in the rate cycle.
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 95.0% | 5.0% | $95K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 95.2% | 4.8% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The bull case for no change centers on the BoE reaching a terminal rate in 2025 that successfully anchors inflation near the 2% target without triggering recession. If UK CPI data through late 2025 and early 2026 consistently prints between 1.8-2.2%, and employment remains stable with wage growth moderating to 3-4% annually, the MPC would have little justification for adjustment. The February 2026 Inflation Report (released mid-month) will be particularly critical, as it provides the final comprehensive assessment before the April meeting. Markets are pricing in that by Q1 2026, the BoE will be in a comfortable holding pattern similar to other major central banks post-tightening cycles.
+The bull case for rates staying unchanged centers on the BoE successfully navigating inflation back to its 2% target through gradual adjustments in 2024-2025, with the UK economy achieving a soft landing that requires no further policy intervention by spring 2026. By April 2026, the economy would likely be over two years past peak inflation pressures, giving the MPC sufficient time to calibrate rates to a neutral setting. Core CPI data through 2025 and early 2026 would need to show sustained stability around target, while labor market indicators like average weekly earnings growth would need to moderate to pre-pandemic norms of 3-4%. If the BoE implements measured 25bp cuts through 2024-2025 and reaches a terminal rate around 3-3.5% by late 2025, the April 2026 meeting could simply represent a holding pattern.
 
-The bear case involves either a persistent inflation overshoot or an unexpected economic contraction forcing action. If core services inflation—which has proven sticky in the UK—remains above 4% through 2025, the MPC could implement a final hawkish hike in April 2026. Alternatively, a sharp deterioration in UK growth metrics, with GDP contracting for consecutive quarters in late 2025 or early 2026, might compel an emergency rate cut. The UK employment data releases in February and March 2026 will matter significantly, as labor market weakness has historically preceded BoE dovish pivots.
+The bear case requires either a significant economic shock or persistent inflation that forces the BoE's hand in early 2026. A resurgence in UK services inflation, which has proven sticky at 5%+ throughout 2024, could necessitate a hawkish adjustment even in April 2026. Alternatively, a sharp deterioration in growth indicators—GDP contraction, unemployment spiking above 5%, or financial stability concerns—might force an emergency cut at that meeting. External shocks from energy markets, given the UK's vulnerability to natural gas prices, or a global recession triggered by geopolitical instability could push the MPC to act. The key risk is that the market timeline extends beyond typical forecasting horizons, making unexpected structural changes to the UK economy more likely.
 
-Key catalysts include the BoE's November 2025 decision (likely November 6th based on typical scheduling), which will establish the pre-April baseline, and the March 2026 MPC meeting minutes that often telegraph the next move. UK Q4 2025 GDP preliminary estimates, typically released in mid-January 2026, and the January 2026 CPI print (released mid-February) represent the final hard data points before the April decision. Traders should monitor whether the BoE's forward guidance language shifts from "restrictive stance" to "neutral stance" during 2025 meetings, as this linguistic change would solidify the no-change scenario.
+Critical catalysts include the BoE's February 2026 Monetary Policy Report (likely early February) and the March 2026 UK CPI release (mid-March) immediately preceding the April meeting. January and February 2026 labor market data from ONS, typically released with a two-week lag, will shape expectations for wage-driven inflation. The MPC's communication through 2025, particularly the November 2025 and February 2026 inflation forecasts, will signal whether their base case supports a pause. Traders should monitor whether the BoE's quarterly projections consistently show inflation at target through the forecast horizon and whether the output gap closes without generating fresh price pressures.
 
 ## Related Markets
 
-- [Will 5 Fed rate cuts happen in 2026?](/odds/will-5-fed-rate-cuts-happen-in-2026) — 1% YES
-- [Will the Fed decrease interest rates by 25 bps after the June 2026 meeting?](/odds/will-the-fed-decrease-interest-rates-by-25-bps-after-the-june-2026-meeting) — 6% YES
-- [Bank of Japan increases interest rates by 25 bps after the April 2026 meeting?](/odds/bank-of-japan-increases-interest-rates-by-25-bps-after-the-april-2026-meeting) — 62% YES
+- [Will 2 Fed rate cuts happen in 2026?](/odds/will-2-fed-rate-cuts-happen-in-2026) — 18% YES
+- [Fed emergency rate cut before 2027?](/odds/fed-emergency-rate-cut-before-2027) — 12% YES
+- [Bank of England increases interest rates by 25 bps after June 2026 meeting?](/odds/bank-of-england-increases-interest-rates-by-25-bps-after-june-2026-meeting) — 41% YES
 
 ## Frequently Asked Questions
 
-### What constitutes a "change" that would make this market resolve NO?
+### What constitutes "no change" for this market's resolution?
 
-Any adjustment to the Bank Rate—whether a 25 basis point hike, 25bp cut, or any other increment—announced at the April 2026 MPC meeting would trigger a NO resolution. Only maintaining the exact same rate qualifies as YES.
+The market resolves YES if the Bank of England maintains the same base rate after the April 2026 MPC meeting as it had going into that meeting, regardless of what that rate level is. Any adjustment up or down, including 25bp moves, would trigger a NO resolution.
 
-### How does the long time horizon until April 2026 affect the 95% probability?
+### How far in advance will we have strong signals about the April 2026 decision?
 
-The extremely high probability despite 18 months of uncertainty suggests markets expect the BoE to complete its policy cycle well before April 2026, reaching a stable terminal rate that persists through that meeting regardless of minor economic fluctuations.
+The February 2026 Monetary Policy Report and March 2026 CPI data (released approximately 2-3 weeks before the April meeting) will provide the clearest signals, though forward guidance from the BoE's February meeting minutes will be critical for assessing the committee's stance.
 
-### Which UK economic indicator has historically been most predictive of BoE holds versus moves?
+### Why is the probability so heavily skewed toward no change despite the long timeframe?
 
-Core services inflation has become the BoE's primary focus since 2023, as it reflects domestic price pressures better than headline CPI; sustained readings below 3.5% have consistently preceded extended hold periods in recent cycles.
+The market assumes that by April 2026, the UK will be roughly two years past the current inflation cycle, giving the BoE ample time to reach and settle at a neutral rate, making intra-meeting stability the modal outcome absent major shocks.
 
 ## Learn More
 
