@@ -3,8 +3,8 @@ title: "Will Yulia Navalnaya win the Nobel Peace Prize in 2026?"
 description: "Will Yulia Navalnaya win the Nobel Peace Prize in 2026? Odds: 9.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Yulia Navalnaya win the Nobel Peace Prize in 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-12
+status: "settled"
+lastUpdated: 2026-04-13
 expiryDate: 2026-10-10
 tags: ["politics", "polymarket"]
 polymarketYes: 9.5

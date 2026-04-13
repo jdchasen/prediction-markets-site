@@ -3,8 +3,8 @@ title: "Will Jared Golden be the Democratic nominee for Senate in Maine?"
 description: "Will Jared Golden be the Democratic nominee for Senate in Maine? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Jared Golden be the Democratic nominee for Senate in Maine?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-12
+status: "settled"
+lastUpdated: 2026-04-13
 expiryDate: 2026-07-31
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 0.1

@@ -4,14 +4,13 @@ description: "Club León FC vs. FC Juárez: O/U 3.5 Odds: 31.0% YES on Polymarke
 marketQuestion: "Club León FC vs. FC Juárez: O/U 3.5"
 category: "politics"
 status: "active"
-lastUpdated: 2026-04-12
+lastUpdated: 2026-04-13
 expiryDate: 2026-04-19
 tags: ["politics", "polymarket"]
 polymarketYes: 31.0
 polymarketNo: 69.0
 polymarketVolume: 9948
 polymarketUrl: "https://polymarket.com/event/mex-leo-jua-2026-04-18-total-3pt5"
-analysisDate: 2026-04-12
 ---
 
 # Analysis

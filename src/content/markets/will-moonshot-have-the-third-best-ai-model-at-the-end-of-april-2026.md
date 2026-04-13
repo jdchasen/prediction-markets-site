@@ -4,14 +4,13 @@ description: "Will Moonshot have the third best AI model at the end of April 202
 marketQuestion: "Will Moonshot have the third best AI model at the end of April 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-04-12
+lastUpdated: 2026-04-13
 expiryDate: 2026-04-30
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 0.2
 polymarketNo: 99.8
-polymarketVolume: 9848
+polymarketVolume: 9854
 polymarketUrl: "https://polymarket.com/event/will-moonshot-have-the-third-best-ai-model-at-the-end-of-april-2026"
-analysisDate: 2026-04-12
 ---
 
 # Moonshot AI Model Market Analysis

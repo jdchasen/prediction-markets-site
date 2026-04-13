@@ -3,15 +3,14 @@ title: "Will the Democratic Party win the CA-18 House seat?"
 description: "Will the Democratic Party win the CA-18 House seat? Odds: 93.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Democratic Party win the CA-18 House seat?"
 category: "politics"
-status: "settled"
-lastUpdated: 2026-04-11
+status: "active"
+lastUpdated: 2026-04-13
 expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
 polymarketYes: 93.5
 polymarketNo: 6.5
-polymarketVolume: 9724
+polymarketVolume: 9770
 polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-ca-18-house-seat"
-analysisDate: 2026-04-11
 ---
 
 # CA-18 House Seat: Democratic Stronghold Priced at Near-Certainty

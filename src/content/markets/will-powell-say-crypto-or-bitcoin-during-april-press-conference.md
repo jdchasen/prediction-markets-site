@@ -3,8 +3,8 @@ title: "Will Powell say \"Crypto\" or \"Bitcoin\" during April press conference?
 description: "Will Powell say \"Crypto\" or \"Bitcoin\" during April press conference? Odds: 9.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Powell say \"Crypto\" or \"Bitcoin\" during April press conference?"
 category: "crypto"
-status: "active"
-lastUpdated: 2026-04-12
+status: "settled"
+lastUpdated: 2026-04-13
 expiryDate: 2026-04-29
 tags: ["bitcoin", "crypto", "polymarket"]
 polymarketYes: 9.5

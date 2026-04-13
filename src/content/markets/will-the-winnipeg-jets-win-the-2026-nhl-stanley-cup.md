@@ -3,8 +3,8 @@ title: "Will the Winnipeg Jets win the 2026 NHL Stanley Cup?"
 description: "Will the Winnipeg Jets win the 2026 NHL Stanley Cup? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Winnipeg Jets win the 2026 NHL Stanley Cup?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-04-12
+status: "settled"
+lastUpdated: 2026-04-13
 expiryDate: 2026-06-30
 tags: ["polymarket", "sports"]
 polymarketYes: 0.1

@@ -3,8 +3,8 @@ title: "No change in Bank of Japan’s interest rates after the April 2026 meeti
 description: "No change in Bank of Japan’s interest rates after the April 2026 meeting? Odds: 38.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "No change in Bank of Japan’s interest rates after the April 2026 meeting?"
 category: "economics"
-status: "active"
-lastUpdated: 2026-04-12
+status: "settled"
+lastUpdated: 2026-04-13
 expiryDate: 2026-04-28
 tags: ["economics", "interest-rates", "polymarket"]
 polymarketYes: 38.0

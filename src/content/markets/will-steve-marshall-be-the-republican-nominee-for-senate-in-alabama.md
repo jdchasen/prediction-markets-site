@@ -3,8 +3,8 @@ title: "Will Steve Marshall be the Republican nominee for Senate in Alabama?"
 description: "Will Steve Marshall be the Republican nominee for Senate in Alabama? Odds: 3.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Steve Marshall be the Republican nominee for Senate in Alabama?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-12
+status: "settled"
+lastUpdated: 2026-04-13
 expiryDate: 2026-05-19
 tags: ["politics", "polymarket"]
 polymarketYes: 3.0

@@ -1,16 +1,15 @@
 ---
 title: "Will the Democrats win the Illinois Senate race in 2026?"
-description: "Will the Democrats win the Illinois Senate race in 2026? Odds: 92.0% YES on Polymarket. See live prices and trade this market."
+description: "Will the Democrats win the Illinois Senate race in 2026? Odds: 91.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Democrats win the Illinois Senate race in 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-04-12
+lastUpdated: 2026-04-13
 tags: ["politics", "polymarket"]
-polymarketYes: 92.0
-polymarketNo: 8.0
-polymarketVolume: 9813
+polymarketYes: 91.5
+polymarketNo: 8.5
+polymarketVolume: 9849
 polymarketUrl: "https://polymarket.com/event/will-the-democrats-win-the-illinois-senate-race-in-2026"
-analysisDate: 2026-04-12
 ---
 
 # Illinois Senate 2026: Democrats' Deep Structural Advantage in a Blue State

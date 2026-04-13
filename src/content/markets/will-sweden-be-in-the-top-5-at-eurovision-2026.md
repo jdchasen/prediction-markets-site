@@ -3,8 +3,8 @@ title: "Will Sweden be in the top 5 at Eurovision 2026?"
 description: "Will Sweden be in the top 5 at Eurovision 2026? Odds: 37.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Sweden be in the top 5 at Eurovision 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-12
+status: "settled"
+lastUpdated: 2026-04-13
 expiryDate: 2026-05-16
 tags: ["politics", "polymarket"]
 polymarketYes: 37.0

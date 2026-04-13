@@ -1,17 +1,16 @@
 ---
 title: "Will Citigroup or any of its underwriting affiliates serve as the lead underwriter in SpaceX’s initial public offering?"
-description: "Will Citigroup or any of its underwriting affiliates serve as the lead underwriter in SpaceX’s initial public offering? Odds: 0.9% YES on Polymarket. See liv..."
+description: "Will Citigroup or any of its underwriting affiliates serve as the lead underwriter in SpaceX’s initial public offering? Odds: 0.5% YES on Polymarket. See liv..."
 marketQuestion: "Will Citigroup or any of its underwriting affiliates serve as the lead underwriter in SpaceX’s initial public offering?"
 category: "tech"
 status: "active"
-lastUpdated: 2026-04-12
+lastUpdated: 2026-04-13
 expiryDate: 2027-12-31
 tags: ["polymarket", "tech"]
-polymarketYes: 0.9
-polymarketNo: 99.1
-polymarketVolume: 98642
+polymarketYes: 0.5
+polymarketNo: 99.5
+polymarketVolume: 98889
 polymarketUrl: "https://polymarket.com/event/will-citigroup-or-any-of-its-underwriting-affiliates-serve-as-the-lead-underwriter-in-spacexs-initial-public-offering-719"
-analysisDate: 2026-04-12
 ---
 
 This market trades at minimal probability because SpaceX shows no credible signs of pursuing an IPO by the end of 2027, making any underwriter speculation highly premature when the company itself has repeatedly avoided going public.

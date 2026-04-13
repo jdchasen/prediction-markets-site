@@ -4,14 +4,13 @@ description: "Will Elon Musk post 1760-1839 tweets in April 2026? Odds: 0.2% YES
 marketQuestion: "Will Elon Musk post 1760-1839 tweets in April 2026?"
 category: "tech"
 status: "active"
-lastUpdated: 2026-04-12
+lastUpdated: 2026-04-13
 expiryDate: 2026-05-01
 tags: ["polymarket", "tech"]
 polymarketYes: 0.2
 polymarketNo: 99.8
-polymarketVolume: 98846
+polymarketVolume: 98963
 polymarketUrl: "https://polymarket.com/event/elon-musk-of-tweets-april-2026-1760-1839"
-analysisDate: 2026-04-12
 ---
 
 This highly specific market on Elon Musk's tweeting activity in April 2026 trades at near-zero probability because it represents an extremely narrow band of outcomes (80 tweets across a 30-day month) for behavior that's historically volatile and unpredictable more than two years in advance.

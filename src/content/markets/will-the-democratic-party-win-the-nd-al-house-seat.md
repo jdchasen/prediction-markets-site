@@ -3,15 +3,14 @@ title: "Will the Democratic Party win the ND-AL House seat?"
 description: "Will the Democratic Party win the ND-AL House seat? Odds: 6.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Democratic Party win the ND-AL House seat?"
 category: "politics"
-status: "settled"
-lastUpdated: 2026-04-12
+status: "active"
+lastUpdated: 2026-04-13
 expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
 polymarketYes: 6.5
 polymarketNo: 93.5
-polymarketVolume: 9746
+polymarketVolume: 9748
 polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-nd-al-house-seat"
-analysisDate: 2026-04-12
 ---
 
 # North Dakota At-Large House Seat: Democratic Long Shot

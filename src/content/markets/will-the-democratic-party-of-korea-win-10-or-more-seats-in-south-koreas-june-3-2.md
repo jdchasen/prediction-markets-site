@@ -3,8 +3,8 @@ title: "Will the Democratic Party of Korea win 10 or more seats in South Korea�
 description: "Will the Democratic Party of Korea win 10 or more seats in South Korea’s June 3, 2026 parliamentary by-elections? Odds: 50.2% YES on Polymarket. See live pri..."
 marketQuestion: "Will the Democratic Party of Korea win 10 or more seats in South Korea’s June 3, 2026 parliamentary by-elections?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-12
+status: "settled"
+lastUpdated: 2026-04-13
 expiryDate: 2026-06-03
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 50.2
