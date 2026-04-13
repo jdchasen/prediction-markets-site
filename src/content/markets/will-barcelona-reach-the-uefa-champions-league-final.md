@@ -3,7 +3,7 @@ title: "Will Barcelona reach the UEFA Champions League final?"
 description: "Will Barcelona reach the UEFA Champions League final? Odds: 14.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Barcelona reach the UEFA Champions League final?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-13
 expiryDate: 2026-05-07
 tags: ["polymarket", "sports"]

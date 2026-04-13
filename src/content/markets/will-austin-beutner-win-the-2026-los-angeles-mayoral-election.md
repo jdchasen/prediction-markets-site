@@ -9,7 +9,7 @@ expiryDate: 2026-06-02
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.2
 polymarketNo: 99.8
-polymarketVolume: 9756
+polymarketVolume: 9772
 polymarketUrl: "https://polymarket.com/event/will-austin-beutner-win-the-2026-los-angeles-mayoral-election-414"
 ---
 

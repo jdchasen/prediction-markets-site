@@ -3,7 +3,7 @@ title: "Will the Los Angeles Lakers win the 2026 NBA Finals?"
 description: "Will the Los Angeles Lakers win the 2026 NBA Finals? Odds: 1.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Los Angeles Lakers win the 2026 NBA Finals?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-13
 expiryDate: 2026-07-01
 tags: ["polymarket", "sports"]

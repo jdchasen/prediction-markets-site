@@ -9,7 +9,7 @@ expiryDate: 2026-12-31
 tags: ["economics", "federal-reserve", "interest-rates", "polymarket"]
 polymarketYes: 15.5
 polymarketNo: 84.5
-polymarketVolume: 960422
+polymarketVolume: 962378
 polymarketUrl: "https://polymarket.com/event/will-2-fed-rate-cuts-happen-in-2026"
 ---
 
@@ -17,13 +17,13 @@ polymarketUrl: "https://polymarket.com/event/will-2-fed-rate-cuts-happen-in-2026
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 15.5% | 84.5% | $960K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 15.5% | 84.5% | $962K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Fed emergency rate cut before 2027?](/odds/fed-emergency-rate-cut-before-2027) — 14% YES
 - [Will the Fed decrease interest rates by 25 bps after the July 2026 meeting?](/odds/will-the-fed-decrease-interest-rates-by-25-bps-after-the-july-2026-meeting) — 10% YES
 - [Will inflation reach more than 4% in 2026?](/odds/will-inflation-reach-more-than-4-in-2026) — 54% YES
+- [Bank of England increases interest rates after April 2026 meeting?](/odds/bank-of-england-increases-interest-rates-after-april-2026-meeting) — 5% YES
 
 ## Frequently Asked Questions
 

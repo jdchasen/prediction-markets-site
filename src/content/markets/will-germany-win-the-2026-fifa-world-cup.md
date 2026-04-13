@@ -3,7 +3,7 @@ title: "Will Germany win the 2026 FIFA World Cup?"
 description: "Will Germany win the 2026 FIFA World Cup? Odds: 5.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Germany win the 2026 FIFA World Cup?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-13
 expiryDate: 2026-07-20
 tags: ["polymarket", "sports"]

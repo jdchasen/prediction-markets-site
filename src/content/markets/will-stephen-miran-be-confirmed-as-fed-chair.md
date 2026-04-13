@@ -1,15 +1,15 @@
 ---
 title: "Will Stephen Miran be confirmed as Fed Chair?"
-description: "Will Stephen Miran be confirmed as Fed Chair? Odds: 0.3% YES on Polymarket. See live prices and trade this market."
+description: "Will Stephen Miran be confirmed as Fed Chair? Odds: 0.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Stephen Miran be confirmed as Fed Chair?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-04-13
 expiryDate: 2026-10-31
 tags: ["ai", "federal-reserve", "politics", "polymarket"]
-polymarketYes: 0.3
+polymarketYes: 0.4
 polymarketNo: 99.7
-polymarketVolume: 978854
+polymarketVolume: 978859
 polymarketUrl: "https://polymarket.com/event/will-stephen-miran-be-confirmed-as-fed-chair"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-stephen-miran-be-confirmed-as-
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.3% | 99.7% | $979K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.4% | 99.7% | $979K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-stephen-miran-be-confirmed-as-
 
 ### What are the current odds for "Will Stephen Miran be confirmed as Fed Chair?"?
 
-As of April 13, 2026, Polymarket prices YES at 0.3%.
+As of April 13, 2026, Polymarket prices YES at 0.4%.
 
 ### Where can I trade on this prediction market?
 

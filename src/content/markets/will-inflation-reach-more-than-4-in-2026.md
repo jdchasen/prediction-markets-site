@@ -9,7 +9,7 @@ expiryDate: 2026-12-31
 tags: ["economics", "polymarket", "sports"]
 polymarketYes: 54.0
 polymarketNo: 46.0
-polymarketVolume: 94110
+polymarketVolume: 95997
 polymarketUrl: "https://polymarket.com/event/will-inflation-reach-more-than-4-in-2026-669"
 ---
 
@@ -17,13 +17,13 @@ polymarketUrl: "https://polymarket.com/event/will-inflation-reach-more-than-4-in
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 54.0% | 46.0% | $94K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 54.0% | 46.0% | $96K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will 2 Fed rate cuts happen in 2026?](/odds/will-2-fed-rate-cuts-happen-in-2026) — 16% YES
-- [Fed emergency rate cut before 2027?](/odds/fed-emergency-rate-cut-before-2027) — 14% YES
 - [Will the Fed decrease interest rates by 25 bps after the July 2026 meeting?](/odds/will-the-fed-decrease-interest-rates-by-25-bps-after-the-july-2026-meeting) — 10% YES
+- [Bank of England increases interest rates after April 2026 meeting?](/odds/bank-of-england-increases-interest-rates-after-april-2026-meeting) — 5% YES
 
 ## Frequently Asked Questions
 

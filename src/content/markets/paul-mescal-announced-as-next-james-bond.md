@@ -1,15 +1,15 @@
 ---
 title: "Paul Mescal announced as next James Bond?"
-description: "Paul Mescal announced as next James Bond? Odds: 0.8% YES on Polymarket. See live prices and trade this market."
+description: "Paul Mescal announced as next James Bond? Odds: 0.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Paul Mescal announced as next James Bond?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-04-13
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
-polymarketYes: 0.8
-polymarketNo: 99.2
-polymarketVolume: 98176
+polymarketYes: 0.7
+polymarketNo: 99.4
+polymarketVolume: 98190
 polymarketUrl: "https://polymarket.com/event/paul-mescal-announced-as-next-james-bond"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/paul-mescal-announced-as-next-james
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.8% | 99.2% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.7% | 99.4% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/paul-mescal-announced-as-next-james
 
 ### What are the current odds for "Paul Mescal announced as next James Bond?"?
 
-As of April 13, 2026, Polymarket prices YES at 0.8%.
+As of April 13, 2026, Polymarket prices YES at 0.7%.
 
 ### Where can I trade on this prediction market?
 

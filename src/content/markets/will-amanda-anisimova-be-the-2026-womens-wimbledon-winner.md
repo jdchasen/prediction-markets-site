@@ -9,7 +9,7 @@ expiryDate: 2026-07-12
 tags: ["politics", "polymarket"]
 polymarketYes: 7.3
 polymarketNo: 92.7
-polymarketVolume: 995399
+polymarketVolume: 995411
 polymarketUrl: "https://polymarket.com/event/will-amanda-anisimova-be-the-2026-womens-wimbledon-winner"
 ---
 

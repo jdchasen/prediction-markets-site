@@ -3,7 +3,7 @@ title: "Will the New York Yankees win the 2026 World Series?"
 description: "Will the New York Yankees win the 2026 World Series? Odds: 9.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the New York Yankees win the 2026 World Series?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-13
 expiryDate: 2026-10-31
 tags: ["politics", "polymarket"]

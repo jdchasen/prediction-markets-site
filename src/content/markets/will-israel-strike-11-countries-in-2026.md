@@ -1,15 +1,15 @@
 ---
 title: "Will Israel strike 11 countries in 2026?"
-description: "Will Israel strike 11 countries in 2026? Odds: 6.0% YES on Polymarket. See live prices and trade this market."
+description: "Will Israel strike 11 countries in 2026? Odds: 3.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Israel strike 11 countries in 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-04-13
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 6.0
-polymarketNo: 94.0
-polymarketVolume: 97601
+polymarketYes: 3.8
+polymarketNo: 96.2
+polymarketVolume: 97693
 polymarketUrl: "https://polymarket.com/event/will-israel-strike-11-countries-in-2026"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-israel-strike-11-countries-in-
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 6.0% | 94.0% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 3.8% | 96.2% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-israel-strike-11-countries-in-
 
 ### What are the current odds for "Will Israel strike 11 countries in 2026?"?
 
-As of April 13, 2026, Polymarket prices YES at 6.0%.
+As of April 13, 2026, Polymarket prices YES at 3.8%.
 
 ### Where can I trade on this prediction market?
 

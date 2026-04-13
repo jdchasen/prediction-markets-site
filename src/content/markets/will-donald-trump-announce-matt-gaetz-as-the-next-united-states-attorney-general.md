@@ -9,7 +9,7 @@ expiryDate: 2026-06-30
 tags: ["politics", "polymarket", "trump"]
 polymarketYes: 0.1
 polymarketNo: 99.9
-polymarketVolume: 9722
+polymarketVolume: 9920
 polymarketUrl: "https://polymarket.com/event/will-donald-trump-announce-matt-gaetz-as-the-next-united-states-attorney-general-by-june-30"
 ---
 

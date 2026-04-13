@@ -3,7 +3,7 @@ title: "Will Google have the top AI model at the end of June 2026?"
 description: "Will Google have the top AI model at the end of June 2026? Odds: 22.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Google have the top AI model at the end of June 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-13
 expiryDate: 2026-06-30
 tags: ["ai", "politics", "polymarket"]

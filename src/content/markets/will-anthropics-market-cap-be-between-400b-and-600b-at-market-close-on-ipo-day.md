@@ -9,7 +9,7 @@ expiryDate: 2026-06-30
 tags: ["finance", "polymarket"]
 polymarketYes: 0.4
 polymarketNo: 99.6
-polymarketVolume: 97659
+polymarketVolume: 97885
 polymarketUrl: "https://polymarket.com/event/will-anthropics-market-cap-be-between-400b-and-600b-at-market-close-on-ipo-day"
 ---
 
@@ -22,8 +22,6 @@ polymarketUrl: "https://polymarket.com/event/will-anthropics-market-cap-be-betwe
 ## Related Markets
 
 - [Will Gold (GC) hit (HIGH) $9,000 by end of June?](/odds/will-gold-gc-hit-high-9000-by-end-of-june) — 2% YES
-- [Will Anthropic’s market cap be $600B or greater at market close on IPO day by December 31, 2027?](/odds/will-anthropics-market-cap-be-600b-or-greater-at-market-close-on-ipo-day-by-dece) — 80% YES
-- [Will Stripe’s market cap be $140B or greater at market close on IPO day?](/odds/will-stripes-market-cap-be-140b-or-greater-at-market-close-on-ipo-day) — 0% YES
 
 ## Frequently Asked Questions
 

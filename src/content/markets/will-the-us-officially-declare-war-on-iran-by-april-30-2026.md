@@ -3,7 +3,7 @@ title: "Will the US officially declare war on Iran by April 30, 2026?"
 description: "Will the US officially declare war on Iran by April 30, 2026? Odds: 0.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the US officially declare war on Iran by April 30, 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-13
 expiryDate: 2026-04-30
 tags: ["politics", "polymarket"]

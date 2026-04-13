@@ -3,7 +3,7 @@ title: "Will Kanye West have the greatest number of monthly Spotify listeners th
 description: "Will Kanye West have the greatest number of monthly Spotify listeners this month? Odds: 0.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Kanye West have the greatest number of monthly Spotify listeners this month?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-13
 expiryDate: 2026-04-30
 tags: ["politics", "polymarket"]

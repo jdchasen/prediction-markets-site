@@ -1,15 +1,15 @@
 ---
 title: "Will the Central Bank of Colombia announce an increase at the April meeting?"
-description: "Will the Central Bank of Colombia announce an increase at the April meeting? Odds: 73.5% YES on Polymarket. See live prices and trade this market."
+description: "Will the Central Bank of Colombia announce an increase at the April meeting? Odds: 81.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Central Bank of Colombia announce an increase at the April meeting?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-04-13
 expiryDate: 2026-04-30
 tags: ["politics", "polymarket"]
-polymarketYes: 73.5
-polymarketNo: 26.5
-polymarketVolume: 9796
+polymarketYes: 81.5
+polymarketNo: 18.5
+polymarketVolume: 9834
 polymarketUrl: "https://polymarket.com/event/will-the-central-bank-of-colombia-announce-an-increase-at-the-april-meeting"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-central-bank-of-colombia-a
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 73.5% | 26.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 81.5% | 18.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-central-bank-of-colombia-a
 
 ### What are the current odds for "Will the Central Bank of Colombia announce an increase at the April meeting?"?
 
-As of April 13, 2026, Polymarket prices YES at 73.5%.
+As of April 13, 2026, Polymarket prices YES at 81.5%.
 
 ### Where can I trade on this prediction market?
 

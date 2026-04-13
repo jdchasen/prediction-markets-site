@@ -9,7 +9,7 @@ expiryDate: 2026-07-30
 tags: ["politics", "polymarket"]
 polymarketYes: 44.0
 polymarketNo: 56.0
-polymarketVolume: 99282
+polymarketVolume: 99348
 polymarketUrl: "https://polymarket.com/event/will-jack-thorne-win-the-2026-fields-medal"
 ---
 

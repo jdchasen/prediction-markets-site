@@ -1,15 +1,15 @@
 ---
 title: "Will AfD win the most seats in the 2026 Sachsen-Anhalt parliamentary elections?"
-description: "Will AfD win the most seats in the 2026 Sachsen-Anhalt parliamentary elections? Odds: 88.5% YES on Polymarket. See live prices and trade this market."
+description: "Will AfD win the most seats in the 2026 Sachsen-Anhalt parliamentary elections? Odds: 89.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will AfD win the most seats in the 2026 Sachsen-Anhalt parliamentary elections?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-04-13
 expiryDate: 2026-09-06
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 88.5
-polymarketNo: 11.5
-polymarketVolume: 9766
+polymarketYes: 89.0
+polymarketNo: 11.0
+polymarketVolume: 9816
 polymarketUrl: "https://polymarket.com/event/will-afd-win-the-most-seats-in-the-2026-sachsen-anhalt-parliamentary-elections"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-afd-win-the-most-seats-in-the-
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 88.5% | 11.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 89.0% | 11.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-afd-win-the-most-seats-in-the-
 
 ### What are the current odds for "Will AfD win the most seats in the 2026 Sachsen-Anhalt parliamentary elections?"?
 
-As of April 13, 2026, Polymarket prices YES at 88.5%.
+As of April 13, 2026, Polymarket prices YES at 89.0%.
 
 ### Where can I trade on this prediction market?
 

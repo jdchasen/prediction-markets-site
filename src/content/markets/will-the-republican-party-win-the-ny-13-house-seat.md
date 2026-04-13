@@ -9,7 +9,7 @@ expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
 polymarketYes: 5.5
 polymarketNo: 94.5
-polymarketVolume: 9732
+polymarketVolume: 9803
 polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-ny-13-house-seat"
 ---
 

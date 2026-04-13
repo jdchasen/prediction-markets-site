@@ -1,15 +1,15 @@
 ---
 title: "Will Belgium advance through the first Eurovision Semi-Final?"
-description: "Will Belgium advance through the first Eurovision Semi-Final? Odds: 29.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Belgium advance through the first Eurovision Semi-Final? Odds: 28.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Belgium advance through the first Eurovision Semi-Final?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-04-13
 expiryDate: 2026-05-12
 tags: ["politics", "polymarket"]
-polymarketYes: 29.5
-polymarketNo: 70.5
-polymarketVolume: 9807
+polymarketYes: 28.5
+polymarketNo: 71.5
+polymarketVolume: 9819
 polymarketUrl: "https://polymarket.com/event/will-belgium-advance-through-the-first-eurovision-semi-final"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-belgium-advance-through-the-fi
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 29.5% | 70.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 28.5% | 71.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-belgium-advance-through-the-fi
 
 ### What are the current odds for "Will Belgium advance through the first Eurovision Semi-Final?"?
 
-As of April 13, 2026, Polymarket prices YES at 29.5%.
+As of April 13, 2026, Polymarket prices YES at 28.5%.
 
 ### Where can I trade on this prediction market?
 

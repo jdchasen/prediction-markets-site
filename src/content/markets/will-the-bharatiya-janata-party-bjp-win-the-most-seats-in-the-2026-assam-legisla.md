@@ -3,7 +3,7 @@ title: "Will the Bharatiya Janata Party (BJP) win the most seats in the 2026 Ass
 description: "Will the Bharatiya Janata Party (BJP) win the most seats in the 2026 Assam Legislative Assembly election? Odds: 93.2% YES on Polymarket. See live prices and ..."
 marketQuestion: "Will the Bharatiya Janata Party (BJP) win the most seats in the 2026 Assam Legislative Assembly election?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-13
 expiryDate: 2026-05-20
 tags: ["elections", "politics", "polymarket"]

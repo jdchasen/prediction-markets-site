@@ -1,15 +1,15 @@
 ---
 title: "Will there be between 20 and 30 average daily transits of the Strait of Hormuz on April 30?"
-description: "Will there be between 20 and 30 average daily transits of the Strait of Hormuz on April 30? Odds: 7.2% YES on Polymarket. See live prices and trade this market."
+description: "Will there be between 20 and 30 average daily transits of the Strait of Hormuz on April 30? Odds: 7.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will there be between 20 and 30 average daily transits of the Strait of Hormuz on April 30?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-04-13
 expiryDate: 2026-04-30
 tags: ["ai", "politics", "polymarket"]
-polymarketYes: 7.2
-polymarketNo: 92.8
-polymarketVolume: 9756
+polymarketYes: 7.4
+polymarketNo: 92.6
+polymarketVolume: 9827
 polymarketUrl: "https://polymarket.com/event/will-there-be-between-20-and-30-average-daily-transits-of-the-strait-of-hormuz-on-april-30-234"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-there-be-between-20-and-30-ave
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 7.2% | 92.8% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 7.4% | 92.6% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-there-be-between-20-and-30-ave
 
 ### What are the current odds for "Will there be between 20 and 30 average daily transits of the Strait of Hormuz on April 30?"?
 
-As of April 13, 2026, Polymarket prices YES at 7.2%.
+As of April 13, 2026, Polymarket prices YES at 7.4%.
 
 ### Where can I trade on this prediction market?
 
