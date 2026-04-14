@@ -9,7 +9,7 @@ expiryDate: 2028-11-07
 tags: ["politics", "polymarket"]
 polymarketYes: 4.2
 polymarketNo: 95.8
-polymarketVolume: 9817812
+polymarketVolume: 9971812
 polymarketUrl: "https://polymarket.com/event/will-tucker-carlson-win-the-2028-republican-presidential-nomination"
 ---
 
@@ -17,13 +17,13 @@ polymarketUrl: "https://polymarket.com/event/will-tucker-carlson-win-the-2028-re
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 4.2% | 95.8% | $9.8M | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 4.2% | 95.8% | $10.0M | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Dwayne 'The Rock' Johnson win the 2028 Democratic presidential nomination?](/odds/will-dwayne-the-rock-johnson-win-the-2028-democratic-presidential-nomination) — 1% YES
 - [Will Tucker Carlson win the 2028 US Presidential Election?](/odds/will-tucker-carlson-win-the-2028-us-presidential-election) — 2% YES
-- [Will Kamala Harris win the 2028 Democratic presidential nomination?](/odds/will-kamala-harris-win-the-2028-democratic-presidential-nomination) — 7% YES
+- [Will Kamala Harris win the 2028 Democratic presidential nomination?](/odds/will-kamala-harris-win-the-2028-democratic-presidential-nomination) — 6% YES
+- [Will the U.S. invade Iran before 2027?](/odds/will-the-us-invade-iran-before-2027) — 30% YES
 
 ## Frequently Asked Questions
 

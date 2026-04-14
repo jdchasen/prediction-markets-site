@@ -3,7 +3,7 @@ title: "Will the Democratic Party control the Senate after the 2026 Midterm elec
 description: "Will the Democratic Party control the Senate after the 2026 Midterm elections? Odds: 55.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Democratic Party control the Senate after the 2026 Midterm elections?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-14
 expiryDate: 2026-11-03
 tags: ["elections", "politics", "polymarket"]

@@ -9,7 +9,7 @@ expiryDate: 2026-07-12
 tags: ["politics", "polymarket"]
 polymarketYes: 7.3
 polymarketNo: 92.7
-polymarketVolume: 995496
+polymarketVolume: 995501
 polymarketUrl: "https://polymarket.com/event/will-amanda-anisimova-be-the-2026-womens-wimbledon-winner"
 ---
 
@@ -17,13 +17,13 @@ polymarketUrl: "https://polymarket.com/event/will-amanda-anisimova-be-the-2026-w
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 7.3% | 92.7% | $995K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 7.3% | 92.7% | $996K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Dwayne 'The Rock' Johnson win the 2028 Democratic presidential nomination?](/odds/will-dwayne-the-rock-johnson-win-the-2028-democratic-presidential-nomination) — 1% YES
+- [Will Tucker Carlson win the 2028 Republican presidential nomination?](/odds/will-tucker-carlson-win-the-2028-republican-presidential-nomination) — 4% YES
 - [Will Tucker Carlson win the 2028 US Presidential Election?](/odds/will-tucker-carlson-win-the-2028-us-presidential-election) — 2% YES
-- [Will Kamala Harris win the 2028 Democratic presidential nomination?](/odds/will-kamala-harris-win-the-2028-democratic-presidential-nomination) — 7% YES
+- [Will Kamala Harris win the 2028 Democratic presidential nomination?](/odds/will-kamala-harris-win-the-2028-democratic-presidential-nomination) — 6% YES
 
 ## Frequently Asked Questions
 

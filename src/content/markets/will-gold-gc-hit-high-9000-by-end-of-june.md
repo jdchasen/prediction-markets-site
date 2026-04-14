@@ -9,7 +9,7 @@ expiryDate: 2026-06-30
 tags: ["finance", "polymarket"]
 polymarketYes: 1.9
 polymarketNo: 98.0
-polymarketVolume: 99171
+polymarketVolume: 99174
 polymarketUrl: "https://polymarket.com/event/will-gold-gc-hit-high-9000-by-end-of-june"
 ---
 
@@ -21,8 +21,9 @@ polymarketUrl: "https://polymarket.com/event/will-gold-gc-hit-high-9000-by-end-o
 
 ## Related Markets
 
-- [Will Microsoft be the largest company in the world by market cap on April 30?](/odds/will-microsoft-be-the-largest-company-in-the-world-by-market-cap-on-april-30) — 0% YES
 - [Will Anthropic’s market cap be between $400B and $600B at market close on IPO day?](/odds/will-anthropics-market-cap-be-between-400b-and-600b-at-market-close-on-ipo-day) — 1% YES
+- [Will SpaceX raise between $90B and $100B in its IPO?](/odds/will-spacex-raise-between-90b-and-100b-in-its-ipo) — 2% YES
+- [Will SpaceX’s IPO valuation be at least 2.50T?](/odds/will-spacexs-ipo-valuation-be-at-least-250t) — 0% YES
 
 ## Frequently Asked Questions
 

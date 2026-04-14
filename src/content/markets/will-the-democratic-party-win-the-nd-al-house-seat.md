@@ -9,7 +9,7 @@ expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
 polymarketYes: 6.5
 polymarketNo: 93.5
-polymarketVolume: 9748
+polymarketVolume: 9750
 polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-nd-al-house-seat"
 ---
 
@@ -21,9 +21,9 @@ polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-n
 
 ## Related Markets
 
-- [Will Dwayne 'The Rock' Johnson win the 2028 Democratic presidential nomination?](/odds/will-dwayne-the-rock-johnson-win-the-2028-democratic-presidential-nomination) — 1% YES
+- [Will Tucker Carlson win the 2028 Republican presidential nomination?](/odds/will-tucker-carlson-win-the-2028-republican-presidential-nomination) — 4% YES
 - [Will Tucker Carlson win the 2028 US Presidential Election?](/odds/will-tucker-carlson-win-the-2028-us-presidential-election) — 2% YES
-- [Will Kamala Harris win the 2028 Democratic presidential nomination?](/odds/will-kamala-harris-win-the-2028-democratic-presidential-nomination) — 7% YES
+- [Will Kamala Harris win the 2028 Democratic presidential nomination?](/odds/will-kamala-harris-win-the-2028-democratic-presidential-nomination) — 6% YES
 
 ## Frequently Asked Questions
 

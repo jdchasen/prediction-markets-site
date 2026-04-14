@@ -9,7 +9,7 @@ expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]
 polymarketYes: 10.5
 polymarketNo: 89.5
-polymarketVolume: 9744
+polymarketVolume: 9752
 polymarketUrl: "https://polymarket.com/event/will-bnb-reach-1500-by-december-31-2026"
 ---
 
@@ -21,9 +21,9 @@ polymarketUrl: "https://polymarket.com/event/will-bnb-reach-1500-by-december-31-
 
 ## Related Markets
 
-- [Will Dwayne 'The Rock' Johnson win the 2028 Democratic presidential nomination?](/odds/will-dwayne-the-rock-johnson-win-the-2028-democratic-presidential-nomination) — 1% YES
+- [Will Tucker Carlson win the 2028 Republican presidential nomination?](/odds/will-tucker-carlson-win-the-2028-republican-presidential-nomination) — 4% YES
 - [Will Tucker Carlson win the 2028 US Presidential Election?](/odds/will-tucker-carlson-win-the-2028-us-presidential-election) — 2% YES
-- [Will Kamala Harris win the 2028 Democratic presidential nomination?](/odds/will-kamala-harris-win-the-2028-democratic-presidential-nomination) — 7% YES
+- [Will Kamala Harris win the 2028 Democratic presidential nomination?](/odds/will-kamala-harris-win-the-2028-democratic-presidential-nomination) — 6% YES
 
 ## Frequently Asked Questions
 

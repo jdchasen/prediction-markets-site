@@ -9,7 +9,7 @@ expiryDate: 2026-07-01
 tags: ["polymarket", "sports"]
 polymarketYes: 0.4
 polymarketNo: 99.6
-polymarketVolume: 9864216
+polymarketVolume: 9942316
 polymarketUrl: "https://polymarket.com/event/will-the-orlando-magic-win-the-2026-nba-finals"
 ---
 
@@ -22,6 +22,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-orlando-magic-win-the-2026
 ## Related Markets
 
 - [Will West Ham be relegated from the English Premier League after the 2025–26 season?](/odds/will-west-ham-be-relegated-from-the-english-premier-league-after-the-202526-seas) — 36% YES
+- [Will Manchester City finish in 3rd place in the 2025-26 English Premier League?](/odds/will-manchester-city-finish-in-3rd-place-in-the-2025-26-english-premier-league) — 0% YES
 
 ## Frequently Asked Questions
 

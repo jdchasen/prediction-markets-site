@@ -9,7 +9,7 @@ expiryDate: 2026-12-31
 tags: ["economics", "polymarket", "sports"]
 polymarketYes: 53.5
 polymarketNo: 46.5
-polymarketVolume: 97117
+polymarketVolume: 97216
 polymarketUrl: "https://polymarket.com/event/will-inflation-reach-more-than-4-in-2026-669"
 ---
 
@@ -21,9 +21,9 @@ polymarketUrl: "https://polymarket.com/event/will-inflation-reach-more-than-4-in
 
 ## Related Markets
 
-- [Will 2 Fed rate cuts happen in 2026?](/odds/will-2-fed-rate-cuts-happen-in-2026) — 14% YES
-- [Will the Fed decrease interest rates by 25 bps after the July 2026 meeting?](/odds/will-the-fed-decrease-interest-rates-by-25-bps-after-the-july-2026-meeting) — 12% YES
-- [Bank of England increases interest rates after April 2026 meeting?](/odds/bank-of-england-increases-interest-rates-after-april-2026-meeting) — 5% YES
+- [Will 7 Fed rate cuts happen in 2026?](/odds/will-7-fed-rate-cuts-happen-in-2026) — 0% YES
+- [Will 4 Fed rate cuts happen in 2026?](/odds/will-4-fed-rate-cuts-happen-in-2026) — 4% YES
+- [Bank of England increases interest rates after April 2026 meeting?](/odds/bank-of-england-increases-interest-rates-after-april-2026-meeting) — 4% YES
 
 ## Frequently Asked Questions
 

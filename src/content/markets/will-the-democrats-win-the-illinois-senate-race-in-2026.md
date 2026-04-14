@@ -1,14 +1,14 @@
 ---
 title: "Will the Democrats win the Illinois Senate race in 2026?"
-description: "Will the Democrats win the Illinois Senate race in 2026? Odds: 91.5% YES on Polymarket. See live prices and trade this market."
+description: "Will the Democrats win the Illinois Senate race in 2026? Odds: 90.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Democrats win the Illinois Senate race in 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-04-14
 tags: ["politics", "polymarket"]
-polymarketYes: 91.5
-polymarketNo: 8.5
-polymarketVolume: 9849
+polymarketYes: 90.5
+polymarketNo: 9.5
+polymarketVolume: 9944
 polymarketUrl: "https://polymarket.com/event/will-the-democrats-win-the-illinois-senate-race-in-2026"
 ---
 
@@ -16,19 +16,19 @@ polymarketUrl: "https://polymarket.com/event/will-the-democrats-win-the-illinois
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 91.5% | 8.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 90.5% | 9.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Dwayne 'The Rock' Johnson win the 2028 Democratic presidential nomination?](/odds/will-dwayne-the-rock-johnson-win-the-2028-democratic-presidential-nomination) — 1% YES
+- [Will Tucker Carlson win the 2028 Republican presidential nomination?](/odds/will-tucker-carlson-win-the-2028-republican-presidential-nomination) — 4% YES
 - [Will Tucker Carlson win the 2028 US Presidential Election?](/odds/will-tucker-carlson-win-the-2028-us-presidential-election) — 2% YES
-- [Will Kamala Harris win the 2028 Democratic presidential nomination?](/odds/will-kamala-harris-win-the-2028-democratic-presidential-nomination) — 7% YES
+- [Will Kamala Harris win the 2028 Democratic presidential nomination?](/odds/will-kamala-harris-win-the-2028-democratic-presidential-nomination) — 6% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will the Democrats win the Illinois Senate race in 2026?"?
 
-As of April 14, 2026, Polymarket prices YES at 91.5%.
+As of April 14, 2026, Polymarket prices YES at 90.5%.
 
 ### Where can I trade on this prediction market?
 

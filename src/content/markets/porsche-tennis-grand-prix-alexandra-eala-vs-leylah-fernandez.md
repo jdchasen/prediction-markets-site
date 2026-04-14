@@ -3,7 +3,7 @@ title: "Porsche Tennis Grand Prix: Alexandra Eala vs Leylah Fernandez"
 description: "Porsche Tennis Grand Prix: Alexandra Eala vs Leylah Fernandez Odds: 41.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Porsche Tennis Grand Prix: Alexandra Eala vs Leylah Fernandez"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-14
 expiryDate: 2026-04-20
 tags: ["politics", "polymarket"]

@@ -3,7 +3,7 @@ title: "Will AfD win the most seats in the 2026 Sachsen-Anhalt parliamentary ele
 description: "Will AfD win the most seats in the 2026 Sachsen-Anhalt parliamentary elections? Odds: 88.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will AfD win the most seats in the 2026 Sachsen-Anhalt parliamentary elections?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-14
 expiryDate: 2026-09-06
 tags: ["elections", "politics", "polymarket"]

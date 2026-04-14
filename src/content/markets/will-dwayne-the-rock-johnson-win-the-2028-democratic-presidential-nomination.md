@@ -3,7 +3,7 @@ title: "Will Dwayne 'The Rock' Johnson win the 2028 Democratic presidential nomi
 description: "Will Dwayne 'The Rock' Johnson win the 2028 Democratic presidential nomination? Odds: 1.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Dwayne 'The Rock' Johnson win the 2028 Democratic presidential nomination?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-14
 expiryDate: 2028-11-07
 tags: ["politics", "polymarket"]

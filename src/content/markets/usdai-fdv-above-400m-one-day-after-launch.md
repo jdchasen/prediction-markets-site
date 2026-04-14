@@ -1,15 +1,15 @@
 ---
 title: "USD.AI FDV above $400M one day after launch?"
-description: "USD.AI FDV above $400M one day after launch? Odds: 14.0% YES on Polymarket. See live prices and trade this market."
+description: "USD.AI FDV above $400M one day after launch? Odds: 14.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "USD.AI FDV above $400M one day after launch?"
 category: "crypto"
 status: "active"
 lastUpdated: 2026-04-14
 expiryDate: 2027-01-01
 tags: ["ai", "crypto", "polymarket"]
-polymarketYes: 14.0
-polymarketNo: 86.0
-polymarketVolume: 98166
+polymarketYes: 14.5
+polymarketNo: 85.5
+polymarketVolume: 99433
 polymarketUrl: "https://polymarket.com/event/usdai-fdv-above-400m-one-day-after-launch-994-421-787-418-812"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/usdai-fdv-above-400m-one-day-after-
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 14.0% | 86.0% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 14.5% | 85.5% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will the price of Bitcoin be above $64,000 on April 18?](/odds/will-the-price-of-bitcoin-be-above-64000-on-april-18) — 99% YES
-- [Will Bitcoin outperform Gold in April 2026?](/odds/will-bitcoin-outperform-gold-in-april-2026) — 55% YES
-- [Will the price of Bitcoin be above $76,000 on April 17?](/odds/will-the-price-of-bitcoin-be-above-76000-on-april-17) — 30% YES
+- [Will MicroStrategy announce holding 1M+ BTC by December 31, 2026?-bV81](/odds/will-microstrategy-announce-holding-1m-btc-by-december-31-2026-bv81) — 37% YES
+- [Will OpenSea launch a token by December 31, 2026?](/odds/will-opensea-launch-a-token-by-december-31-2026) — 62% YES
+- [Will Ethereum reach $7,500 by December 31, 2026?](/odds/will-ethereum-reach-7500-by-december-31-2026) — 6% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "USD.AI FDV above $400M one day after launch?"?
 
-As of April 14, 2026, Polymarket prices YES at 14.0%.
+As of April 14, 2026, Polymarket prices YES at 14.5%.
 
 ### Where can I trade on this prediction market?
 

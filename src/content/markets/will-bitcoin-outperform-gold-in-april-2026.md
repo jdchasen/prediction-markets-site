@@ -3,7 +3,7 @@ title: "Will Bitcoin outperform Gold in April 2026?"
 description: "Will Bitcoin outperform Gold in April 2026? Odds: 55.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Bitcoin outperform Gold in April 2026?"
 category: "crypto"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-14
 expiryDate: 2026-04-30
 tags: ["bitcoin", "crypto", "polymarket"]

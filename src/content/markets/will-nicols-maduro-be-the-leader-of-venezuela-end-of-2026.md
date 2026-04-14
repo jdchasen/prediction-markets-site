@@ -1,15 +1,15 @@
 ---
 title: "Will Nicolás Maduro be the leader of Venezuela end of 2026?"
-description: "Will Nicolás Maduro be the leader of Venezuela end of 2026? Odds: 17.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Nicolás Maduro be the leader of Venezuela end of 2026? Odds: 17.6% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Nicolás Maduro be the leader of Venezuela end of 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-04-14
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 17.5
-polymarketNo: 82.5
-polymarketVolume: 991761
+polymarketYes: 17.6
+polymarketNo: 82.4
+polymarketVolume: 993058
 polymarketUrl: "https://polymarket.com/event/will-nicols-maduro-be-the-leader-of-venezuela-end-of-2026"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-nicols-maduro-be-the-leader-of
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 17.5% | 82.5% | $992K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 17.6% | 82.4% | $993K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Dwayne 'The Rock' Johnson win the 2028 Democratic presidential nomination?](/odds/will-dwayne-the-rock-johnson-win-the-2028-democratic-presidential-nomination) — 1% YES
+- [Will Tucker Carlson win the 2028 Republican presidential nomination?](/odds/will-tucker-carlson-win-the-2028-republican-presidential-nomination) — 4% YES
 - [Will Tucker Carlson win the 2028 US Presidential Election?](/odds/will-tucker-carlson-win-the-2028-us-presidential-election) — 2% YES
-- [Will Kamala Harris win the 2028 Democratic presidential nomination?](/odds/will-kamala-harris-win-the-2028-democratic-presidential-nomination) — 7% YES
+- [Will Kamala Harris win the 2028 Democratic presidential nomination?](/odds/will-kamala-harris-win-the-2028-democratic-presidential-nomination) — 6% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Nicolás Maduro be the leader of Venezuela end of 2026?"?
 
-As of April 14, 2026, Polymarket prices YES at 17.5%.
+As of April 14, 2026, Polymarket prices YES at 17.6%.
 
 ### Where can I trade on this prediction market?
 

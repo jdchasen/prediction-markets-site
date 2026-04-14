@@ -3,7 +3,7 @@ title: "Will 2 Fed rate cuts happen in 2026?"
 description: "Will 2 Fed rate cuts happen in 2026? Odds: 14.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will 2 Fed rate cuts happen in 2026?"
 category: "economics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-14
 expiryDate: 2026-12-31
 tags: ["economics", "federal-reserve", "interest-rates", "polymarket"]

@@ -22,6 +22,7 @@ polymarketUrl: "https://polymarket.com/event/will-west-ham-be-relegated-from-the
 ## Related Markets
 
 - [Will the Orlando Magic win the 2026 NBA Finals?](/odds/will-the-orlando-magic-win-the-2026-nba-finals) — 0% YES
+- [Will Manchester City finish in 3rd place in the 2025-26 English Premier League?](/odds/will-manchester-city-finish-in-3rd-place-in-the-2025-26-english-premier-league) — 0% YES
 
 ## Frequently Asked Questions
 

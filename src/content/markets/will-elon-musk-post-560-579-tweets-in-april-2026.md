@@ -21,7 +21,9 @@ polymarketUrl: "https://polymarket.com/event/elon-musk-of-tweets-april-2026-560-
 
 ## Related Markets
 
+- [Will JPMorgan Chase or any of its underwriting affiliates serve as the lead underwriter in SpaceX’s initial public offering?](/odds/will-jpmorgan-chase-or-any-of-its-underwriting-affiliates-serve-as-the-lead-unde) — 2% YES
 - [Will Citigroup or any of its underwriting affiliates serve as the lead underwriter in SpaceX’s initial public offering?](/odds/will-citigroup-or-any-of-its-underwriting-affiliates-serve-as-the-lead-underwrit) — 1% YES
+- [Will Elon Musk post <40 tweets from April 16 to April 18, 2026?](/odds/will-elon-musk-post-40-tweets-from-april-16-to-april-18-2026) — 3% YES
 
 ## Frequently Asked Questions
 
