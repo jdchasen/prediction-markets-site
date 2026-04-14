@@ -1,15 +1,15 @@
 ---
 title: "Will West Ham be relegated from the English Premier League after the 2025–26 season?"
-description: "Will West Ham be relegated from the English Premier League after the 2025–26 season? Odds: 34.0% YES on Polymarket. See live prices and trade this market."
+description: "Will West Ham be relegated from the English Premier League after the 2025–26 season? Odds: 36.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will West Ham be relegated from the English Premier League after the 2025–26 season?"
 category: "sports"
 status: "active"
-lastUpdated: 2026-04-13
+lastUpdated: 2026-04-14
 expiryDate: 2026-05-27
 tags: ["polymarket", "sports"]
-polymarketYes: 34.0
-polymarketNo: 66.0
-polymarketVolume: 98478
+polymarketYes: 36.0
+polymarketNo: 64.0
+polymarketVolume: 98660
 polymarketUrl: "https://polymarket.com/event/will-west-ham-be-relegated-from-the-english-premier-league-after-the-202526-season"
 ---
 
@@ -17,17 +17,17 @@ polymarketUrl: "https://polymarket.com/event/will-west-ham-be-relegated-from-the
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 34.0% | 66.0% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 36.0% | 64.0% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will the Columbus Blue Jackets win the 2026 NHL Stanley Cup?](/odds/will-the-columbus-blue-jackets-win-the-2026-nhl-stanley-cup) — 0% YES
+- [Will the Orlando Magic win the 2026 NBA Finals?](/odds/will-the-orlando-magic-win-the-2026-nba-finals) — 0% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will West Ham be relegated from the English Premier League after the 2025–26 season?"?
 
-As of April 13, 2026, Polymarket prices YES at 34.0%.
+As of April 14, 2026, Polymarket prices YES at 36.0%.
 
 ### Where can I trade on this prediction market?
 

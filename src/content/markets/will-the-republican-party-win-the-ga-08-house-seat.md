@@ -4,12 +4,12 @@ description: "Will the Republican Party win the GA-08 House seat? Odds: 91.5% YE
 marketQuestion: "Will the Republican Party win the GA-08 House seat?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-04-13
+lastUpdated: 2026-04-14
 expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
 polymarketYes: 91.5
 polymarketNo: 8.5
-polymarketVolume: 9898
+polymarketVolume: 9899
 polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-ga-08-house-seat"
 ---
 
@@ -21,15 +21,15 @@ polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-g
 
 ## Related Markets
 
-- [Will Tucker Carlson win the 2028 US Presidential Election?](/odds/will-tucker-carlson-win-the-2028-us-presidential-election) — 3% YES
 - [Will Dwayne 'The Rock' Johnson win the 2028 Democratic presidential nomination?](/odds/will-dwayne-the-rock-johnson-win-the-2028-democratic-presidential-nomination) — 1% YES
-- [Jerome Powell out as Fed Chair by May 14, 2026?](/odds/jerome-powell-out-as-fed-chair-by-may-14-2026) — 2% YES
+- [Will Tucker Carlson win the 2028 US Presidential Election?](/odds/will-tucker-carlson-win-the-2028-us-presidential-election) — 2% YES
+- [Will Kamala Harris win the 2028 Democratic presidential nomination?](/odds/will-kamala-harris-win-the-2028-democratic-presidential-nomination) — 7% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will the Republican Party win the GA-08 House seat?"?
 
-As of April 13, 2026, Polymarket prices YES at 91.5%.
+As of April 14, 2026, Polymarket prices YES at 91.5%.
 
 ### Where can I trade on this prediction market?
 

@@ -3,8 +3,8 @@ title: "Set Handicap: Jodar (-1.5) vs Munar (+1.5)"
 description: "Set Handicap: Jodar (-1.5) vs Munar (+1.5) Odds: 100.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Set Handicap: Jodar (-1.5) vs Munar (+1.5)"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-13
+status: "settled"
+lastUpdated: 2026-04-14
 expiryDate: 2026-04-20
 tags: ["politics", "polymarket"]
 polymarketYes: 100.0

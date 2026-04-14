@@ -1,15 +1,15 @@
 ---
 title: "Will the People Power Party win 2 seats in South Korea’s June 3, 2026 parliamentary by-elections?"
-description: "Will the People Power Party win 2 seats in South Korea’s June 3, 2026 parliamentary by-elections? Odds: 10.0% YES on Polymarket. See live prices and trade th..."
+description: "Will the People Power Party win 2 seats in South Korea’s June 3, 2026 parliamentary by-elections? Odds: 11.5% YES on Polymarket. See live prices and trade th..."
 marketQuestion: "Will the People Power Party win 2 seats in South Korea’s June 3, 2026 parliamentary by-elections?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-04-13
+lastUpdated: 2026-04-14
 expiryDate: 2026-06-03
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 10.0
-polymarketNo: 90.0
-polymarketVolume: 9865
+polymarketYes: 11.5
+polymarketNo: 88.5
+polymarketVolume: 9871
 polymarketUrl: "https://polymarket.com/event/will-the-people-power-party-win-2-seats-in-south-koreas-june-3-2026-parliamentary-by-elections"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-the-people-power-party-win-2-s
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 10.0% | 90.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 11.5% | 88.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Tucker Carlson win the 2028 US Presidential Election?](/odds/will-tucker-carlson-win-the-2028-us-presidential-election) — 3% YES
 - [Will Dwayne 'The Rock' Johnson win the 2028 Democratic presidential nomination?](/odds/will-dwayne-the-rock-johnson-win-the-2028-democratic-presidential-nomination) — 1% YES
-- [Jerome Powell out as Fed Chair by May 14, 2026?](/odds/jerome-powell-out-as-fed-chair-by-may-14-2026) — 2% YES
+- [Will Tucker Carlson win the 2028 US Presidential Election?](/odds/will-tucker-carlson-win-the-2028-us-presidential-election) — 2% YES
+- [Will Kamala Harris win the 2028 Democratic presidential nomination?](/odds/will-kamala-harris-win-the-2028-democratic-presidential-nomination) — 7% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will the People Power Party win 2 seats in South Korea’s June 3, 2026 parliamentary by-elections?"?
 
-As of April 13, 2026, Polymarket prices YES at 10.0%.
+As of April 14, 2026, Polymarket prices YES at 11.5%.
 
 ### Where can I trade on this prediction market?
 

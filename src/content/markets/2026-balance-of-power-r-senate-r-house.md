@@ -4,12 +4,12 @@ description: "2026 Balance of Power: R Senate, R House Odds: 12.5% YES on Polyma
 marketQuestion: "2026 Balance of Power: R Senate, R House"
 category: "politics"
 status: "active"
-lastUpdated: 2026-04-13
+lastUpdated: 2026-04-14
 expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
 polymarketYes: 12.5
 polymarketNo: 87.5
-polymarketVolume: 975557
+polymarketVolume: 981796
 polymarketUrl: "https://polymarket.com/event/2026-balance-of-power-r-senate-r-house-537"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/2026-balance-of-power-r-senate-r-ho
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 12.5% | 87.5% | $976K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 12.5% | 87.5% | $982K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Tucker Carlson win the 2028 US Presidential Election?](/odds/will-tucker-carlson-win-the-2028-us-presidential-election) — 3% YES
 - [Will Dwayne 'The Rock' Johnson win the 2028 Democratic presidential nomination?](/odds/will-dwayne-the-rock-johnson-win-the-2028-democratic-presidential-nomination) — 1% YES
-- [Jerome Powell out as Fed Chair by May 14, 2026?](/odds/jerome-powell-out-as-fed-chair-by-may-14-2026) — 2% YES
+- [Will Tucker Carlson win the 2028 US Presidential Election?](/odds/will-tucker-carlson-win-the-2028-us-presidential-election) — 2% YES
+- [Will Kamala Harris win the 2028 Democratic presidential nomination?](/odds/will-kamala-harris-win-the-2028-democratic-presidential-nomination) — 7% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "2026 Balance of Power: R Senate, R House"?
 
-As of April 13, 2026, Polymarket prices YES at 12.5%.
+As of April 14, 2026, Polymarket prices YES at 12.5%.
 
 ### Where can I trade on this prediction market?
 

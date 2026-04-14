@@ -3,8 +3,8 @@ title: "Will Solana dip to $70 April 13-19?"
 description: "Will Solana dip to $70 April 13-19? Odds: 3.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Solana dip to $70 April 13-19?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-13
+status: "settled"
+lastUpdated: 2026-04-14
 expiryDate: 2026-04-20
 tags: ["politics", "polymarket"]
 polymarketYes: 3.4

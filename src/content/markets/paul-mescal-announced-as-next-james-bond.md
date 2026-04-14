@@ -3,8 +3,8 @@ title: "Paul Mescal announced as next James Bond?"
 description: "Paul Mescal announced as next James Bond? Odds: 0.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Paul Mescal announced as next James Bond?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-13
+status: "settled"
+lastUpdated: 2026-04-14
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
 polymarketYes: 0.7

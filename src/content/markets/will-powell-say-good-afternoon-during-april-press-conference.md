@@ -3,8 +3,8 @@ title: "Will Powell say \"Good Afternoon\" during April press conference?"
 description: "Will Powell say \"Good Afternoon\" during April press conference? Odds: 98.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Powell say \"Good Afternoon\" during April press conference?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-13
+status: "settled"
+lastUpdated: 2026-04-14
 expiryDate: 2026-04-29
 tags: ["politics", "polymarket"]
 polymarketYes: 98.0

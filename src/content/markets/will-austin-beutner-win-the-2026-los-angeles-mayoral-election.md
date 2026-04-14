@@ -3,8 +3,8 @@ title: "Will Austin Beutner win the 2026 Los Angeles mayoral election?"
 description: "Will Austin Beutner win the 2026 Los Angeles mayoral election? Odds: 0.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Austin Beutner win the 2026 Los Angeles mayoral election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-13
+status: "settled"
+lastUpdated: 2026-04-14
 expiryDate: 2026-06-02
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.2

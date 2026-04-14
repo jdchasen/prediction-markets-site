@@ -3,8 +3,8 @@ title: "Will \"The Super Mario Galaxy Movie\" be the April film with the highest
 description: "Will \"The Super Mario Galaxy Movie\" be the April film with the highest domestic gross on May 31? Odds: 98.5% YES on Polymarket. See live prices and trade thi..."
 marketQuestion: "Will \"The Super Mario Galaxy Movie\" be the April film with the highest domestic gross on May 31?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-13
+status: "settled"
+lastUpdated: 2026-04-14
 expiryDate: 2026-05-31
 tags: ["politics", "polymarket"]
 polymarketYes: 98.5

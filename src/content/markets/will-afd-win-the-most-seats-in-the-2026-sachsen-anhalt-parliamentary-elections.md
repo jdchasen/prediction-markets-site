@@ -1,15 +1,15 @@
 ---
 title: "Will AfD win the most seats in the 2026 Sachsen-Anhalt parliamentary elections?"
-description: "Will AfD win the most seats in the 2026 Sachsen-Anhalt parliamentary elections? Odds: 89.0% YES on Polymarket. See live prices and trade this market."
+description: "Will AfD win the most seats in the 2026 Sachsen-Anhalt parliamentary elections? Odds: 88.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will AfD win the most seats in the 2026 Sachsen-Anhalt parliamentary elections?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-04-13
+lastUpdated: 2026-04-14
 expiryDate: 2026-09-06
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 89.0
-polymarketNo: 11.0
-polymarketVolume: 9816
+polymarketYes: 88.5
+polymarketNo: 11.5
+polymarketVolume: 9830
 polymarketUrl: "https://polymarket.com/event/will-afd-win-the-most-seats-in-the-2026-sachsen-anhalt-parliamentary-elections"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-afd-win-the-most-seats-in-the-
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 89.0% | 11.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 88.5% | 11.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Tucker Carlson win the 2028 US Presidential Election?](/odds/will-tucker-carlson-win-the-2028-us-presidential-election) — 3% YES
 - [Will Dwayne 'The Rock' Johnson win the 2028 Democratic presidential nomination?](/odds/will-dwayne-the-rock-johnson-win-the-2028-democratic-presidential-nomination) — 1% YES
-- [Jerome Powell out as Fed Chair by May 14, 2026?](/odds/jerome-powell-out-as-fed-chair-by-may-14-2026) — 2% YES
+- [Will Tucker Carlson win the 2028 US Presidential Election?](/odds/will-tucker-carlson-win-the-2028-us-presidential-election) — 2% YES
+- [Will Kamala Harris win the 2028 Democratic presidential nomination?](/odds/will-kamala-harris-win-the-2028-democratic-presidential-nomination) — 7% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will AfD win the most seats in the 2026 Sachsen-Anhalt parliamentary elections?"?
 
-As of April 13, 2026, Polymarket prices YES at 89.0%.
+As of April 14, 2026, Polymarket prices YES at 88.5%.
 
 ### Where can I trade on this prediction market?
 

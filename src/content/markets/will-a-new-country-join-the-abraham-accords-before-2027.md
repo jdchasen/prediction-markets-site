@@ -1,15 +1,15 @@
 ---
 title: "Will a new country join the Abraham Accords before 2027?"
-description: "Will a new country join the Abraham Accords before 2027? Odds: 52.5% YES on Polymarket. See live prices and trade this market."
+description: "Will a new country join the Abraham Accords before 2027? Odds: 57.3% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will a new country join the Abraham Accords before 2027?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-04-13
+lastUpdated: 2026-04-14
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 52.5
-polymarketNo: 47.5
-polymarketVolume: 97867
+polymarketYes: 57.3
+polymarketNo: 42.7
+polymarketVolume: 98235
 polymarketUrl: "https://polymarket.com/event/will-a-new-country-join-the-abraham-accords-before-2027"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-a-new-country-join-the-abraham
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 52.5% | 47.5% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 57.3% | 42.7% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Tucker Carlson win the 2028 US Presidential Election?](/odds/will-tucker-carlson-win-the-2028-us-presidential-election) — 3% YES
 - [Will Dwayne 'The Rock' Johnson win the 2028 Democratic presidential nomination?](/odds/will-dwayne-the-rock-johnson-win-the-2028-democratic-presidential-nomination) — 1% YES
-- [Jerome Powell out as Fed Chair by May 14, 2026?](/odds/jerome-powell-out-as-fed-chair-by-may-14-2026) — 2% YES
+- [Will Tucker Carlson win the 2028 US Presidential Election?](/odds/will-tucker-carlson-win-the-2028-us-presidential-election) — 2% YES
+- [Will Kamala Harris win the 2028 Democratic presidential nomination?](/odds/will-kamala-harris-win-the-2028-democratic-presidential-nomination) — 7% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will a new country join the Abraham Accords before 2027?"?
 
-As of April 13, 2026, Polymarket prices YES at 52.5%.
+As of April 14, 2026, Polymarket prices YES at 57.3%.
 
 ### Where can I trade on this prediction market?
 

@@ -4,12 +4,12 @@ description: "Will Gold (GC) hit (HIGH) $9,000 by end of June? Odds: 1.9% YES on
 marketQuestion: "Will Gold (GC) hit (HIGH) $9,000 by end of June?"
 category: "finance"
 status: "active"
-lastUpdated: 2026-04-13
+lastUpdated: 2026-04-14
 expiryDate: 2026-06-30
 tags: ["finance", "polymarket"]
 polymarketYes: 1.9
 polymarketNo: 98.0
-polymarketVolume: 99165
+polymarketVolume: 99171
 polymarketUrl: "https://polymarket.com/event/will-gold-gc-hit-high-9000-by-end-of-june"
 ---
 
@@ -21,13 +21,14 @@ polymarketUrl: "https://polymarket.com/event/will-gold-gc-hit-high-9000-by-end-o
 
 ## Related Markets
 
-- [Will Anthropic’s market cap be between $400B and $600B at market close on IPO day?](/odds/will-anthropics-market-cap-be-between-400b-and-600b-at-market-close-on-ipo-day) — 0% YES
+- [Will Microsoft be the largest company in the world by market cap on April 30?](/odds/will-microsoft-be-the-largest-company-in-the-world-by-market-cap-on-april-30) — 0% YES
+- [Will Anthropic’s market cap be between $400B and $600B at market close on IPO day?](/odds/will-anthropics-market-cap-be-between-400b-and-600b-at-market-close-on-ipo-day) — 1% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Gold (GC) hit (HIGH) $9,000 by end of June?"?
 
-As of April 13, 2026, Polymarket prices YES at 1.9%.
+As of April 14, 2026, Polymarket prices YES at 1.9%.
 
 ### Where can I trade on this prediction market?
 

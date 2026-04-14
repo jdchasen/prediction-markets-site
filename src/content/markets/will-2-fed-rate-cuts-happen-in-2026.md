@@ -1,15 +1,15 @@
 ---
 title: "Will 2 Fed rate cuts happen in 2026?"
-description: "Will 2 Fed rate cuts happen in 2026? Odds: 15.5% YES on Polymarket. See live prices and trade this market."
+description: "Will 2 Fed rate cuts happen in 2026? Odds: 14.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will 2 Fed rate cuts happen in 2026?"
 category: "economics"
 status: "active"
-lastUpdated: 2026-04-13
+lastUpdated: 2026-04-14
 expiryDate: 2026-12-31
 tags: ["economics", "federal-reserve", "interest-rates", "polymarket"]
-polymarketYes: 15.5
-polymarketNo: 84.5
-polymarketVolume: 962378
+polymarketYes: 14.5
+polymarketNo: 85.5
+polymarketVolume: 970065
 polymarketUrl: "https://polymarket.com/event/will-2-fed-rate-cuts-happen-in-2026"
 ---
 
@@ -17,11 +17,11 @@ polymarketUrl: "https://polymarket.com/event/will-2-fed-rate-cuts-happen-in-2026
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 15.5% | 84.5% | $962K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 14.5% | 85.5% | $970K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will the Fed decrease interest rates by 25 bps after the July 2026 meeting?](/odds/will-the-fed-decrease-interest-rates-by-25-bps-after-the-july-2026-meeting) — 10% YES
+- [Will the Fed decrease interest rates by 25 bps after the July 2026 meeting?](/odds/will-the-fed-decrease-interest-rates-by-25-bps-after-the-july-2026-meeting) — 12% YES
 - [Will inflation reach more than 4% in 2026?](/odds/will-inflation-reach-more-than-4-in-2026) — 54% YES
 - [Bank of England increases interest rates after April 2026 meeting?](/odds/bank-of-england-increases-interest-rates-after-april-2026-meeting) — 5% YES
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-2-fed-rate-cuts-happen-in-2026
 
 ### What are the current odds for "Will 2 Fed rate cuts happen in 2026?"?
 
-As of April 13, 2026, Polymarket prices YES at 15.5%.
+As of April 14, 2026, Polymarket prices YES at 14.5%.
 
 ### Where can I trade on this prediction market?
 

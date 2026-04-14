@@ -3,8 +3,8 @@ title: "Will FC Internazionale Milano win on 2026-04-17?"
 description: "Will FC Internazionale Milano win on 2026-04-17? Odds: 81.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will FC Internazionale Milano win on 2026-04-17?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-13
+status: "settled"
+lastUpdated: 2026-04-14
 expiryDate: 2026-04-17
 tags: ["politics", "polymarket"]
 polymarketYes: 81.5
