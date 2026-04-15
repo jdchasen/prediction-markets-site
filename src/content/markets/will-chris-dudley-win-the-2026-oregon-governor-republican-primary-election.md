@@ -1,15 +1,15 @@
 ---
 title: "Will Chris Dudley win the 2026 Oregon Governor Republican primary election?"
-description: "Will Chris Dudley win the 2026 Oregon Governor Republican primary election? Odds: 13.0% YES on Polymarket. See live prices and trade this market."
+description: "Will Chris Dudley win the 2026 Oregon Governor Republican primary election? Odds: 15.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Chris Dudley win the 2026 Oregon Governor Republican primary election?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-04-14
+lastUpdated: 2026-04-15
 expiryDate: 2026-05-19
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 13.0
-polymarketNo: 87.0
-polymarketVolume: 9736
+polymarketYes: 15.0
+polymarketNo: 85.0
+polymarketVolume: 9744
 polymarketUrl: "https://polymarket.com/event/will-chris-dudley-win-the-2026-oregon-governor-republican-primary-election"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-chris-dudley-win-the-2026-oreg
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 13.0% | 87.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 15.0% | 85.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Tucker Carlson win the 2028 Republican presidential nomination?](/odds/will-tucker-carlson-win-the-2028-republican-presidential-nomination) — 4% YES
-- [Will Tucker Carlson win the 2028 US Presidential Election?](/odds/will-tucker-carlson-win-the-2028-us-presidential-election) — 2% YES
-- [Will Kamala Harris win the 2028 Democratic presidential nomination?](/odds/will-kamala-harris-win-the-2028-democratic-presidential-nomination) — 6% YES
+- [Will the U.S. invade Iran before 2027?](/odds/will-the-us-invade-iran-before-2027) — 30% YES
+- [Will Geraldo Alckmin win the 2026 Brazilian presidential election?](/odds/will-geraldo-alckmin-win-the-2026-brazilian-presidential-election) — 0% YES
+- [Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?](/odds/will-amanda-anisimova-be-the-2026-womens-wimbledon-winner) — 8% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Chris Dudley win the 2026 Oregon Governor Republican primary election?"?
 
-As of April 14, 2026, Polymarket prices YES at 13.0%.
+As of April 15, 2026, Polymarket prices YES at 15.0%.
 
 ### Where can I trade on this prediction market?
 

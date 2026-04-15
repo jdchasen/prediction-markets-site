@@ -3,8 +3,8 @@ title: "Will Elon Musk post <40 tweets from April 16 to April 18, 2026?"
 description: "Will Elon Musk post <40 tweets from April 16 to April 18, 2026? Odds: 3.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Elon Musk post <40 tweets from April 16 to April 18, 2026?"
 category: "tech"
-status: "active"
-lastUpdated: 2026-04-14
+status: "settled"
+lastUpdated: 2026-04-15
 expiryDate: 2026-04-18
 tags: ["polymarket", "tech"]
 polymarketYes: 3.4

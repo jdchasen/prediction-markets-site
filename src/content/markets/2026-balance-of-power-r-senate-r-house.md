@@ -4,12 +4,12 @@ description: "2026 Balance of Power: R Senate, R House Odds: 12.5% YES on Polyma
 marketQuestion: "2026 Balance of Power: R Senate, R House"
 category: "politics"
 status: "active"
-lastUpdated: 2026-04-14
+lastUpdated: 2026-04-15
 expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
 polymarketYes: 12.5
 polymarketNo: 87.5
-polymarketVolume: 983116
+polymarketVolume: 988600
 polymarketUrl: "https://polymarket.com/event/2026-balance-of-power-r-senate-r-house-537"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/2026-balance-of-power-r-senate-r-ho
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 12.5% | 87.5% | $983K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 12.5% | 87.5% | $989K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Tucker Carlson win the 2028 Republican presidential nomination?](/odds/will-tucker-carlson-win-the-2028-republican-presidential-nomination) — 4% YES
-- [Will Tucker Carlson win the 2028 US Presidential Election?](/odds/will-tucker-carlson-win-the-2028-us-presidential-election) — 2% YES
-- [Will Kamala Harris win the 2028 Democratic presidential nomination?](/odds/will-kamala-harris-win-the-2028-democratic-presidential-nomination) — 6% YES
+- [Will the U.S. invade Iran before 2027?](/odds/will-the-us-invade-iran-before-2027) — 30% YES
+- [Will Geraldo Alckmin win the 2026 Brazilian presidential election?](/odds/will-geraldo-alckmin-win-the-2026-brazilian-presidential-election) — 0% YES
+- [Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?](/odds/will-amanda-anisimova-be-the-2026-womens-wimbledon-winner) — 8% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "2026 Balance of Power: R Senate, R House"?
 
-As of April 14, 2026, Polymarket prices YES at 12.5%.
+As of April 15, 2026, Polymarket prices YES at 12.5%.
 
 ### Where can I trade on this prediction market?
 

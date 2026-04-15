@@ -3,8 +3,8 @@ title: "Will JPMorgan Chase or any of its underwriting affiliates serve as the l
 description: "Will JPMorgan Chase or any of its underwriting affiliates serve as the lead underwriter in SpaceX’s initial public offering? Odds: 2.2% YES on Polymarket. Se..."
 marketQuestion: "Will JPMorgan Chase or any of its underwriting affiliates serve as the lead underwriter in SpaceX’s initial public offering?"
 category: "tech"
-status: "active"
-lastUpdated: 2026-04-14
+status: "settled"
+lastUpdated: 2026-04-15
 expiryDate: 2027-12-31
 tags: ["polymarket", "tech"]
 polymarketYes: 2.2

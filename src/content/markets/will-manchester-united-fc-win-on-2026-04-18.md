@@ -3,8 +3,8 @@ title: "Will Manchester United FC win on 2026-04-18?"
 description: "Will Manchester United FC win on 2026-04-18? Odds: 31.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Manchester United FC win on 2026-04-18?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-14
+status: "settled"
+lastUpdated: 2026-04-15
 expiryDate: 2026-04-18
 tags: ["politics", "polymarket"]
 polymarketYes: 31.5

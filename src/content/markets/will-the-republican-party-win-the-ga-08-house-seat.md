@@ -3,8 +3,8 @@ title: "Will the Republican Party win the GA-08 House seat?"
 description: "Will the Republican Party win the GA-08 House seat? Odds: 91.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Republican Party win the GA-08 House seat?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-14
+status: "settled"
+lastUpdated: 2026-04-15
 expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
 polymarketYes: 91.5

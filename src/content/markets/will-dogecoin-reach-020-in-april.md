@@ -3,8 +3,8 @@ title: "Will Dogecoin reach $0.20 in April?"
 description: "Will Dogecoin reach $0.20 in April? Odds: 1.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Dogecoin reach $0.20 in April?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-14
+status: "settled"
+lastUpdated: 2026-04-15
 expiryDate: 2026-05-01
 tags: ["politics", "polymarket"]
 polymarketYes: 1.2

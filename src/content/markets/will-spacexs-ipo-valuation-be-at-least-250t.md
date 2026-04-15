@@ -3,8 +3,8 @@ title: "Will SpaceX’s IPO valuation be at least 2.50T?"
 description: "Will SpaceX’s IPO valuation be at least 2.50T? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will SpaceX’s IPO valuation be at least 2.50T?"
 category: "finance"
-status: "active"
-lastUpdated: 2026-04-14
+status: "settled"
+lastUpdated: 2026-04-15
 tags: ["finance", "polymarket"]
 polymarketYes: 0.1
 polymarketNo: 99.9

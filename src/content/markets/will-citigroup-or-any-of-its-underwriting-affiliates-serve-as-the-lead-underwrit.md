@@ -1,15 +1,15 @@
 ---
 title: "Will Citigroup or any of its underwriting affiliates serve as the lead underwriter in SpaceX’s initial public offering?"
-description: "Will Citigroup or any of its underwriting affiliates serve as the lead underwriter in SpaceX’s initial public offering? Odds: 1.4% YES on Polymarket. See liv..."
+description: "Will Citigroup or any of its underwriting affiliates serve as the lead underwriter in SpaceX’s initial public offering? Odds: 1.1% YES on Polymarket. See liv..."
 marketQuestion: "Will Citigroup or any of its underwriting affiliates serve as the lead underwriter in SpaceX’s initial public offering?"
 category: "tech"
 status: "active"
-lastUpdated: 2026-04-14
+lastUpdated: 2026-04-15
 expiryDate: 2027-12-31
 tags: ["polymarket", "tech"]
-polymarketYes: 1.4
-polymarketNo: 98.6
-polymarketVolume: 99738
+polymarketYes: 1.1
+polymarketNo: 98.9
+polymarketVolume: 99763
 polymarketUrl: "https://polymarket.com/event/will-citigroup-or-any-of-its-underwriting-affiliates-serve-as-the-lead-underwriter-in-spacexs-initial-public-offering-719"
 ---
 
@@ -17,19 +17,18 @@ polymarketUrl: "https://polymarket.com/event/will-citigroup-or-any-of-its-underw
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 1.4% | 98.6% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 1.1% | 98.9% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will JPMorgan Chase or any of its underwriting affiliates serve as the lead underwriter in SpaceX’s initial public offering?](/odds/will-jpmorgan-chase-or-any-of-its-underwriting-affiliates-serve-as-the-lead-unde) — 2% YES
 - [Will Elon Musk post 560-579 tweets in April 2026?](/odds/will-elon-musk-post-560-579-tweets-in-april-2026) — 0% YES
-- [Will Elon Musk post <40 tweets from April 16 to April 18, 2026?](/odds/will-elon-musk-post-40-tweets-from-april-16-to-april-18-2026) — 3% YES
+- [Will Elon Musk post 360-379 tweets from April 17 to April 24, 2026?](/odds/will-elon-musk-post-360-379-tweets-from-april-17-to-april-24-2026) — 3% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Citigroup or any of its underwriting affiliates serve as the lead underwriter in SpaceX’s initial public offering?"?
 
-As of April 14, 2026, Polymarket prices YES at 1.4%.
+As of April 15, 2026, Polymarket prices YES at 1.1%.
 
 ### Where can I trade on this prediction market?
 

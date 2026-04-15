@@ -3,8 +3,8 @@ title: "Will Casey Hux win The Bachelorette Season 22?"
 description: "Will Casey Hux win The Bachelorette Season 22? Odds: 0.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Casey Hux win The Bachelorette Season 22?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-14
+status: "settled"
+lastUpdated: 2026-04-15
 expiryDate: 2026-11-30
 tags: ["politics", "polymarket"]
 polymarketYes: 0.9

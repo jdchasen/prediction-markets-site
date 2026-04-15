@@ -3,8 +3,8 @@ title: "Will Manchester City finish in 3rd place in the 2025-26 English Premier 
 description: "Will Manchester City finish in 3rd place in the 2025-26 English Premier League? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Manchester City finish in 3rd place in the 2025-26 English Premier League?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-04-14
+status: "settled"
+lastUpdated: 2026-04-15
 expiryDate: 2026-05-27
 tags: ["polymarket", "sports"]
 polymarketYes: 0.1

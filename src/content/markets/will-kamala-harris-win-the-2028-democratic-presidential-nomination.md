@@ -3,8 +3,8 @@ title: "Will Kamala Harris win the 2028 Democratic presidential nomination?"
 description: "Will Kamala Harris win the 2028 Democratic presidential nomination? Odds: 6.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Kamala Harris win the 2028 Democratic presidential nomination?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-14
+status: "settled"
+lastUpdated: 2026-04-15
 expiryDate: 2028-11-07
 tags: ["politics", "polymarket"]
 polymarketYes: 6.0

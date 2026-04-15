@@ -3,8 +3,8 @@ title: "Will MicroStrategy announce holding 1M+ BTC by December 31, 2026?-bV81"
 description: "Will MicroStrategy announce holding 1M+ BTC by December 31, 2026?-bV81 Odds: 37.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will MicroStrategy announce holding 1M+ BTC by December 31, 2026?-bV81"
 category: "crypto"
-status: "active"
-lastUpdated: 2026-04-14
+status: "settled"
+lastUpdated: 2026-04-15
 expiryDate: 2027-01-01
 tags: ["bitcoin", "crypto", "polymarket"]
 polymarketYes: 37.0

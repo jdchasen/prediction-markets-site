@@ -3,8 +3,8 @@ title: "Will the Orlando Magic win the 2026 NBA Finals?"
 description: "Will the Orlando Magic win the 2026 NBA Finals? Odds: 0.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Orlando Magic win the 2026 NBA Finals?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-04-14
+status: "settled"
+lastUpdated: 2026-04-15
 expiryDate: 2026-07-01
 tags: ["polymarket", "sports"]
 polymarketYes: 0.4

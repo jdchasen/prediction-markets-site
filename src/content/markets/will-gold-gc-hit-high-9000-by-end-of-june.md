@@ -1,15 +1,15 @@
 ---
 title: "Will Gold (GC) hit (HIGH) $9,000 by end of June?"
-description: "Will Gold (GC) hit (HIGH) $9,000 by end of June? Odds: 1.9% YES on Polymarket. See live prices and trade this market."
+description: "Will Gold (GC) hit (HIGH) $9,000 by end of June? Odds: 1.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Gold (GC) hit (HIGH) $9,000 by end of June?"
 category: "finance"
 status: "active"
-lastUpdated: 2026-04-14
+lastUpdated: 2026-04-15
 expiryDate: 2026-06-30
 tags: ["finance", "polymarket"]
-polymarketYes: 1.9
-polymarketNo: 98.0
-polymarketVolume: 99174
+polymarketYes: 1.8
+polymarketNo: 98.2
+polymarketVolume: 99256
 polymarketUrl: "https://polymarket.com/event/will-gold-gc-hit-high-9000-by-end-of-june"
 ---
 
@@ -17,19 +17,17 @@ polymarketUrl: "https://polymarket.com/event/will-gold-gc-hit-high-9000-by-end-o
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 1.9% | 98.0% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 1.8% | 98.2% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Anthropic’s market cap be between $400B and $600B at market close on IPO day?](/odds/will-anthropics-market-cap-be-between-400b-and-600b-at-market-close-on-ipo-day) — 1% YES
-- [Will SpaceX raise between $90B and $100B in its IPO?](/odds/will-spacex-raise-between-90b-and-100b-in-its-ipo) — 2% YES
-- [Will SpaceX’s IPO valuation be at least 2.50T?](/odds/will-spacexs-ipo-valuation-be-at-least-250t) — 0% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Gold (GC) hit (HIGH) $9,000 by end of June?"?
 
-As of April 14, 2026, Polymarket prices YES at 1.9%.
+As of April 15, 2026, Polymarket prices YES at 1.8%.
 
 ### Where can I trade on this prediction market?
 

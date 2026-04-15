@@ -3,8 +3,8 @@ title: "Will Crude Oil (CL) settle at $77-$84 in June?"
 description: "Will Crude Oil (CL) settle at $77-$84 in June? Odds: 16.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Crude Oil (CL) settle at $77-$84 in June?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-14
+status: "settled"
+lastUpdated: 2026-04-15
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
 polymarketYes: 16.0

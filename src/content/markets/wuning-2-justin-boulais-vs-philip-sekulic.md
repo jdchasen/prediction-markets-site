@@ -3,8 +3,8 @@ title: "Wuning 2: Justin Boulais vs Philip Sekulic"
 description: "Wuning 2: Justin Boulais vs Philip Sekulic Odds: 36.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Wuning 2: Justin Boulais vs Philip Sekulic"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-14
+status: "settled"
+lastUpdated: 2026-04-15
 expiryDate: 2026-04-20
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 36.5
