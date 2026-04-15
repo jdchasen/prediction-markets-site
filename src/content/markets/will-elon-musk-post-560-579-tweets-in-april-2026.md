@@ -9,7 +9,7 @@ expiryDate: 2026-05-01
 tags: ["polymarket", "tech"]
 polymarketYes: 0.1
 polymarketNo: 100.0
-polymarketVolume: 98156
+polymarketVolume: 99156
 polymarketUrl: "https://polymarket.com/event/elon-musk-of-tweets-april-2026-560-579"
 ---
 
@@ -17,12 +17,11 @@ polymarketUrl: "https://polymarket.com/event/elon-musk-of-tweets-april-2026-560-
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.1% | 100.0% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.1% | 100.0% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Citigroup or any of its underwriting affiliates serve as the lead underwriter in SpaceX’s initial public offering?](/odds/will-citigroup-or-any-of-its-underwriting-affiliates-serve-as-the-lead-underwrit) — 1% YES
-- [Will Elon Musk post 360-379 tweets from April 17 to April 24, 2026?](/odds/will-elon-musk-post-360-379-tweets-from-april-17-to-april-24-2026) — 3% YES
+- [Will Elon Musk post 80-99 tweets from April 17 to April 24, 2026?](/odds/will-elon-musk-post-80-99-tweets-from-april-17-to-april-24-2026) — 0% YES
 
 ## Frequently Asked Questions
 

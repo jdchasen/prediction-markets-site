@@ -3,7 +3,7 @@ title: "Will Mark Baisley be the Republican nominee for Senate in Colorado?"
 description: "Will Mark Baisley be the Republican nominee for Senate in Colorado? Odds: 94.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Mark Baisley be the Republican nominee for Senate in Colorado?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-15
 expiryDate: 2026-06-30
 tags: ["ai", "politics", "polymarket"]

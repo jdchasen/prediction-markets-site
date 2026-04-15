@@ -3,7 +3,7 @@ title: "BMW Open: Vit Kopriva vs Luciano Darderi"
 description: "BMW Open: Vit Kopriva vs Luciano Darderi Odds: 27.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "BMW Open: Vit Kopriva vs Luciano Darderi"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-15
 expiryDate: 2026-04-22
 tags: ["politics", "polymarket"]

@@ -1,15 +1,15 @@
 ---
 title: "Will Yoo Dong-soo win the 2026 Incheon mayoral election?"
-description: "Will Yoo Dong-soo win the 2026 Incheon mayoral election? Odds: 0.3% YES on Polymarket. See live prices and trade this market."
+description: "Will Yoo Dong-soo win the 2026 Incheon mayoral election? Odds: 0.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Yoo Dong-soo win the 2026 Incheon mayoral election?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-04-15
 expiryDate: 2026-06-03
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 0.3
-polymarketNo: 99.7
-polymarketVolume: 97409
+polymarketYes: 0.2
+polymarketNo: 99.8
+polymarketVolume: 97498
 polymarketUrl: "https://polymarket.com/event/will-yoo-dong-soo-win-the-2026-incheon-mayoral-election"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-yoo-dong-soo-win-the-2026-inch
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.3% | 99.7% | $97K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.2% | 99.8% | $97K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will the U.S. invade Iran before 2027?](/odds/will-the-us-invade-iran-before-2027) — 30% YES
-- [Will Geraldo Alckmin win the 2026 Brazilian presidential election?](/odds/will-geraldo-alckmin-win-the-2026-brazilian-presidential-election) — 0% YES
+- [Will Nicolás Maduro be the leader of Venezuela end of 2026?](/odds/will-nicols-maduro-be-the-leader-of-venezuela-end-of-2026) — 17% YES
 - [Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?](/odds/will-amanda-anisimova-be-the-2026-womens-wimbledon-winner) — 8% YES
+- [Will Stephen Miran be confirmed as Fed Chair?](/odds/will-stephen-miran-be-confirmed-as-fed-chair) — 0% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Yoo Dong-soo win the 2026 Incheon mayoral election?"?
 
-As of April 15, 2026, Polymarket prices YES at 0.3%.
+As of April 15, 2026, Polymarket prices YES at 0.2%.
 
 ### Where can I trade on this prediction market?
 

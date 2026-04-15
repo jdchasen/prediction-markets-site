@@ -3,7 +3,7 @@ title: "Will Citigroup or any of its underwriting affiliates serve as the lead u
 description: "Will Citigroup or any of its underwriting affiliates serve as the lead underwriter in SpaceX’s initial public offering? Odds: 1.1% YES on Polymarket. See liv..."
 marketQuestion: "Will Citigroup or any of its underwriting affiliates serve as the lead underwriter in SpaceX’s initial public offering?"
 category: "tech"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-15
 expiryDate: 2027-12-31
 tags: ["polymarket", "tech"]

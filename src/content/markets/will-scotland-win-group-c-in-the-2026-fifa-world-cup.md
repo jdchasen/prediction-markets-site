@@ -9,7 +9,7 @@ expiryDate: 2026-06-27
 tags: ["polymarket", "sports"]
 polymarketYes: 4.3
 polymarketNo: 95.7
-polymarketVolume: 98853
+polymarketVolume: 98854
 polymarketUrl: "https://polymarket.com/event/will-scotland-win-group-c-in-the-2026-fifa-world-cup"
 ---
 
@@ -22,7 +22,8 @@ polymarketUrl: "https://polymarket.com/event/will-scotland-win-group-c-in-the-20
 ## Related Markets
 
 - [Will West Ham be relegated from the English Premier League after the 2025–26 season?](/odds/will-west-ham-be-relegated-from-the-english-premier-league-after-the-202526-seas) — 34% YES
-- [Will Bayern München reach the UEFA Champions League final?](/odds/will-bayern-mnchen-reach-the-uefa-champions-league-final) — 48% YES
+- [Will Anthony Davis win the 2025–2026 NBA Clutch Player of the Year?](/odds/will-anthony-davis-win-the-20252026-nba-clutch-player-of-the-year) — 0% YES
+- [Will Jason Robertson win the 2025–2026 NHL Hart Memorial Trophy?](/odds/will-jason-robertson-win-the-20252026-nhl-hart-memorial-trophy) — 0% YES
 
 ## Frequently Asked Questions
 

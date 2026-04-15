@@ -9,7 +9,7 @@ expiryDate: 2027-01-01
 tags: ["crypto", "polymarket"]
 polymarketYes: 61.6
 polymarketNo: 38.4
-polymarketVolume: 97259
+polymarketVolume: 97355
 polymarketUrl: "https://polymarket.com/event/will-opensea-launch-a-token-by-december-31-2026"
 ---
 
@@ -21,8 +21,8 @@ polymarketUrl: "https://polymarket.com/event/will-opensea-launch-a-token-by-dece
 
 ## Related Markets
 
-- [Will Bitcoin reach $95,000 in April?](/odds/will-bitcoin-reach-95000-in-april) — 1% YES
 - [Will Ethereum reach $7,500 by December 31, 2026?](/odds/will-ethereum-reach-7500-by-december-31-2026) — 6% YES
+- [Will the price of Bitcoin be above $72,000 on April 20?](/odds/will-the-price-of-bitcoin-be-above-72000-on-april-20) — 80% YES
 
 ## Frequently Asked Questions
 

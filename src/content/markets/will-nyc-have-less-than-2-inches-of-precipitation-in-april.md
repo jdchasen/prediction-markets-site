@@ -3,7 +3,7 @@ title: "Will NYC have less than 2 inches of precipitation in April?"
 description: "Will NYC have less than 2 inches of precipitation in April? Odds: 67.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will NYC have less than 2 inches of precipitation in April?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-15
 expiryDate: 2026-04-30
 tags: ["politics", "polymarket"]

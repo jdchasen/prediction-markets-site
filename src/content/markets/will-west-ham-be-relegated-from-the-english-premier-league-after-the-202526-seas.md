@@ -22,7 +22,8 @@ polymarketUrl: "https://polymarket.com/event/will-west-ham-be-relegated-from-the
 ## Related Markets
 
 - [Will Scotland win Group C in the 2026 FIFA World Cup?](/odds/will-scotland-win-group-c-in-the-2026-fifa-world-cup) — 4% YES
-- [Will Bayern München reach the UEFA Champions League final?](/odds/will-bayern-mnchen-reach-the-uefa-champions-league-final) — 48% YES
+- [Will Anthony Davis win the 2025–2026 NBA Clutch Player of the Year?](/odds/will-anthony-davis-win-the-20252026-nba-clutch-player-of-the-year) — 0% YES
+- [Will Jason Robertson win the 2025–2026 NHL Hart Memorial Trophy?](/odds/will-jason-robertson-win-the-20252026-nhl-hart-memorial-trophy) — 0% YES
 
 ## Frequently Asked Questions
 

@@ -9,7 +9,7 @@ expiryDate: 2026-07-12
 tags: ["politics", "polymarket"]
 polymarketYes: 7.5
 polymarketNo: 92.5
-polymarketVolume: 995798
+polymarketVolume: 995845
 polymarketUrl: "https://polymarket.com/event/will-amanda-anisimova-be-the-2026-womens-wimbledon-winner"
 ---
 
@@ -21,9 +21,9 @@ polymarketUrl: "https://polymarket.com/event/will-amanda-anisimova-be-the-2026-w
 
 ## Related Markets
 
-- [Will the U.S. invade Iran before 2027?](/odds/will-the-us-invade-iran-before-2027) — 30% YES
-- [Will Geraldo Alckmin win the 2026 Brazilian presidential election?](/odds/will-geraldo-alckmin-win-the-2026-brazilian-presidential-election) — 0% YES
-- [Will Nicolás Maduro be the leader of Venezuela end of 2026?](/odds/will-nicols-maduro-be-the-leader-of-venezuela-end-of-2026) — 18% YES
+- [Will Nicolás Maduro be the leader of Venezuela end of 2026?](/odds/will-nicols-maduro-be-the-leader-of-venezuela-end-of-2026) — 17% YES
+- [Will Stephen Miran be confirmed as Fed Chair?](/odds/will-stephen-miran-be-confirmed-as-fed-chair) — 0% YES
+- [Will Gabriel Attal win the 2027 French presidential election?](/odds/will-gabriel-attal-win-the-2027-french-presidential-election) — 4% YES
 
 ## Frequently Asked Questions
 

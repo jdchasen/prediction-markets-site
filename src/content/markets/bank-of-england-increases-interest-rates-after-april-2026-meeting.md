@@ -3,7 +3,7 @@ title: "Bank of England increases interest rates after April 2026 meeting?"
 description: "Bank of England increases interest rates after April 2026 meeting? Odds: 3.6% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Bank of England increases interest rates after April 2026 meeting?"
 category: "economics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-15
 expiryDate: 2026-04-30
 tags: ["economics", "interest-rates", "polymarket"]

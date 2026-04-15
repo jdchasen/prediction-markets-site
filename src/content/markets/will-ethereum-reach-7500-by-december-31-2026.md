@@ -1,15 +1,15 @@
 ---
 title: "Will Ethereum reach $7,500 by December 31, 2026?"
-description: "Will Ethereum reach $7,500 by December 31, 2026? Odds: 6.0% YES on Polymarket. See live prices and trade this market."
+description: "Will Ethereum reach $7,500 by December 31, 2026? Odds: 5.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Ethereum reach $7,500 by December 31, 2026?"
 category: "crypto"
 status: "active"
 lastUpdated: 2026-04-15
 expiryDate: 2027-01-01
 tags: ["crypto", "ethereum", "polymarket"]
-polymarketYes: 6.0
-polymarketNo: 94.0
-polymarketVolume: 97146
+polymarketYes: 5.5
+polymarketNo: 94.5
+polymarketVolume: 97173
 polymarketUrl: "https://polymarket.com/event/will-ethereum-reach-7500-by-december-31-2026"
 ---
 
@@ -17,18 +17,18 @@ polymarketUrl: "https://polymarket.com/event/will-ethereum-reach-7500-by-decembe
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 6.0% | 94.0% | $97K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 5.5% | 94.5% | $97K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Bitcoin reach $95,000 in April?](/odds/will-bitcoin-reach-95000-in-april) — 1% YES
 - [Will OpenSea launch a token by December 31, 2026?](/odds/will-opensea-launch-a-token-by-december-31-2026) — 62% YES
+- [Will the price of Bitcoin be above $72,000 on April 20?](/odds/will-the-price-of-bitcoin-be-above-72000-on-april-20) — 80% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Ethereum reach $7,500 by December 31, 2026?"?
 
-As of April 15, 2026, Polymarket prices YES at 6.0%.
+As of April 15, 2026, Polymarket prices YES at 5.5%.
 
 ### Where can I trade on this prediction market?
 

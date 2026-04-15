@@ -3,7 +3,7 @@ title: "Will DeepSeek have the best Coding AI model at the end of April 2026?"
 description: "Will DeepSeek have the best Coding AI model at the end of April 2026? Odds: 2.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will DeepSeek have the best Coding AI model at the end of April 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-15
 expiryDate: 2026-04-30
 tags: ["ai", "politics", "polymarket"]

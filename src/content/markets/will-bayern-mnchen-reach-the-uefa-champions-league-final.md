@@ -3,7 +3,7 @@ title: "Will Bayern München reach the UEFA Champions League final?"
 description: "Will Bayern München reach the UEFA Champions League final? Odds: 48.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Bayern München reach the UEFA Champions League final?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-15
 expiryDate: 2026-05-07
 tags: ["polymarket", "sports"]

@@ -9,7 +9,7 @@ expiryDate: 2026-06-03
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 12.5
 polymarketNo: 87.5
-polymarketVolume: 9896
+polymarketVolume: 9903
 polymarketUrl: "https://polymarket.com/event/will-the-people-power-party-win-2-seats-in-south-koreas-june-3-2026-parliamentary-by-elections"
 ---
 
@@ -21,9 +21,9 @@ polymarketUrl: "https://polymarket.com/event/will-the-people-power-party-win-2-s
 
 ## Related Markets
 
-- [Will the U.S. invade Iran before 2027?](/odds/will-the-us-invade-iran-before-2027) — 30% YES
-- [Will Geraldo Alckmin win the 2026 Brazilian presidential election?](/odds/will-geraldo-alckmin-win-the-2026-brazilian-presidential-election) — 0% YES
+- [Will Nicolás Maduro be the leader of Venezuela end of 2026?](/odds/will-nicols-maduro-be-the-leader-of-venezuela-end-of-2026) — 17% YES
 - [Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?](/odds/will-amanda-anisimova-be-the-2026-womens-wimbledon-winner) — 8% YES
+- [Will Stephen Miran be confirmed as Fed Chair?](/odds/will-stephen-miran-be-confirmed-as-fed-chair) — 0% YES
 
 ## Frequently Asked Questions
 

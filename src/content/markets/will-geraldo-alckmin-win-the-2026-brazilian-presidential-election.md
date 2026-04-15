@@ -3,7 +3,7 @@ title: "Will Geraldo Alckmin win the 2026 Brazilian presidential election?"
 description: "Will Geraldo Alckmin win the 2026 Brazilian presidential election? Odds: 0.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Geraldo Alckmin win the 2026 Brazilian presidential election?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-15
 expiryDate: 2026-10-04
 tags: ["elections", "politics", "polymarket"]
