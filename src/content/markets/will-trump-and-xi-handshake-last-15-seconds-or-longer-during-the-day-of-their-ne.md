@@ -1,15 +1,15 @@
 ---
 title: "Will Trump and Xi handshake last 15 seconds or longer during the day of their next meeting in 2026?"
-description: "Will Trump and Xi handshake last 15 seconds or longer during the day of their next meeting in 2026? Odds: 33.5% YES on Polymarket. See live prices and trade ..."
+description: "Will Trump and Xi handshake last 15 seconds or longer during the day of their next meeting in 2026? Odds: 34.5% YES on Polymarket. See live prices and trade ..."
 marketQuestion: "Will Trump and Xi handshake last 15 seconds or longer during the day of their next meeting in 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-04-15
+lastUpdated: 2026-04-16
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket", "trump"]
-polymarketYes: 33.5
-polymarketNo: 66.5
-polymarketVolume: 9869
+polymarketYes: 34.5
+polymarketNo: 65.5
+polymarketVolume: 9880
 polymarketUrl: "https://polymarket.com/event/will-trump-and-xi-handshake-last-15-seconds-or-longer-during-the-day-of-their-next-meeting-in-2026"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-trump-and-xi-handshake-last-15
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 33.5% | 66.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 34.5% | 65.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Nicolás Maduro be the leader of Venezuela end of 2026?](/odds/will-nicols-maduro-be-the-leader-of-venezuela-end-of-2026) — 17% YES
+- [Strait of Hormuz traffic returns to normal by end of April?](/odds/strait-of-hormuz-traffic-returns-to-normal-by-end-of-april) — 20% YES
+- [2026 Balance of Power: R Senate, R House](/odds/2026-balance-of-power-r-senate-r-house) — 12% YES
 - [Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?](/odds/will-amanda-anisimova-be-the-2026-womens-wimbledon-winner) — 8% YES
-- [Will Stephen Miran be confirmed as Fed Chair?](/odds/will-stephen-miran-be-confirmed-as-fed-chair) — 0% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Trump and Xi handshake last 15 seconds or longer during the day of their next meeting in 2026?"?
 
-As of April 15, 2026, Polymarket prices YES at 33.5%.
+As of April 16, 2026, Polymarket prices YES at 34.5%.
 
 ### Where can I trade on this prediction market?
 

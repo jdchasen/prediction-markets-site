@@ -3,8 +3,8 @@ title: "Will the All India Trinamool Congress (AITC) win the most seats in the 2
 description: "Will the All India Trinamool Congress (AITC) win the most seats in the 2026 West Bengal Legislative Assembly election? Odds: 57.2% YES on Polymarket. See liv..."
 marketQuestion: "Will the All India Trinamool Congress (AITC) win the most seats in the 2026 West Bengal Legislative Assembly election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-15
+status: "settled"
+lastUpdated: 2026-04-16
 expiryDate: 2026-04-29
 tags: ["ai", "elections", "politics", "polymarket"]
 polymarketYes: 57.2

@@ -3,8 +3,8 @@ title: "Guangzhou Loong Lions vs. Shanghai Sharks"
 description: "Guangzhou Loong Lions vs. Shanghai Sharks Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Guangzhou Loong Lions vs. Shanghai Sharks"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-15
+status: "settled"
+lastUpdated: 2026-04-16
 expiryDate: 2026-04-22
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 0.1

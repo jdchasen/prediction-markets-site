@@ -1,15 +1,15 @@
 ---
 title: "Will Elena Rybakina be the 2026 Women’s Wimbledon Winner?"
-description: "Will Elena Rybakina be the 2026 Women’s Wimbledon Winner? Odds: 17.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Elena Rybakina be the 2026 Women’s Wimbledon Winner? Odds: 19.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Elena Rybakina be the 2026 Women’s Wimbledon Winner?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-04-15
+lastUpdated: 2026-04-16
 expiryDate: 2026-07-12
 tags: ["politics", "polymarket"]
-polymarketYes: 17.5
-polymarketNo: 82.5
-polymarketVolume: 9847
+polymarketYes: 19.0
+polymarketNo: 81.0
+polymarketVolume: 9867
 polymarketUrl: "https://polymarket.com/event/will-elena-rybakina-be-the-2026-womens-wimbledon-winner"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-elena-rybakina-be-the-2026-wom
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 17.5% | 82.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 19.0% | 81.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Nicolás Maduro be the leader of Venezuela end of 2026?](/odds/will-nicols-maduro-be-the-leader-of-venezuela-end-of-2026) — 17% YES
+- [Strait of Hormuz traffic returns to normal by end of April?](/odds/strait-of-hormuz-traffic-returns-to-normal-by-end-of-april) — 20% YES
+- [2026 Balance of Power: R Senate, R House](/odds/2026-balance-of-power-r-senate-r-house) — 12% YES
 - [Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?](/odds/will-amanda-anisimova-be-the-2026-womens-wimbledon-winner) — 8% YES
-- [Will Stephen Miran be confirmed as Fed Chair?](/odds/will-stephen-miran-be-confirmed-as-fed-chair) — 0% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Elena Rybakina be the 2026 Women’s Wimbledon Winner?"?
 
-As of April 15, 2026, Polymarket prices YES at 17.5%.
+As of April 16, 2026, Polymarket prices YES at 19.0%.
 
 ### Where can I trade on this prediction market?
 

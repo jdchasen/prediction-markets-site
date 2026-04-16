@@ -1,15 +1,15 @@
 ---
 title: "Will Jack Thorne win the 2026 Fields Medal?"
-description: "Will Jack Thorne win the 2026 Fields Medal? Odds: 45.0% YES on Polymarket. See live prices and trade this market."
+description: "Will Jack Thorne win the 2026 Fields Medal? Odds: 45.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Jack Thorne win the 2026 Fields Medal?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-04-15
+lastUpdated: 2026-04-16
 expiryDate: 2026-07-30
 tags: ["politics", "polymarket"]
-polymarketYes: 45.0
-polymarketNo: 55.0
-polymarketVolume: 99401
+polymarketYes: 45.5
+polymarketNo: 54.5
+polymarketVolume: 99404
 polymarketUrl: "https://polymarket.com/event/will-jack-thorne-win-the-2026-fields-medal"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-jack-thorne-win-the-2026-field
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 45.0% | 55.0% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 45.5% | 54.5% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Nicolás Maduro be the leader of Venezuela end of 2026?](/odds/will-nicols-maduro-be-the-leader-of-venezuela-end-of-2026) — 17% YES
+- [Strait of Hormuz traffic returns to normal by end of April?](/odds/strait-of-hormuz-traffic-returns-to-normal-by-end-of-april) — 20% YES
+- [2026 Balance of Power: R Senate, R House](/odds/2026-balance-of-power-r-senate-r-house) — 12% YES
 - [Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?](/odds/will-amanda-anisimova-be-the-2026-womens-wimbledon-winner) — 8% YES
-- [Will Stephen Miran be confirmed as Fed Chair?](/odds/will-stephen-miran-be-confirmed-as-fed-chair) — 0% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Jack Thorne win the 2026 Fields Medal?"?
 
-As of April 15, 2026, Polymarket prices YES at 45.0%.
+As of April 16, 2026, Polymarket prices YES at 45.5%.
 
 ### Where can I trade on this prediction market?
 

@@ -1,15 +1,15 @@
 ---
 title: "Bank of England increases interest rates by 25 bps after June 2026 meeting?"
-description: "Bank of England increases interest rates by 25 bps after June 2026 meeting? Odds: 11.0% YES on Polymarket. See live prices and trade this market."
+description: "Bank of England increases interest rates by 25 bps after June 2026 meeting? Odds: 17.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Bank of England increases interest rates by 25 bps after June 2026 meeting?"
 category: "economics"
 status: "active"
-lastUpdated: 2026-04-15
+lastUpdated: 2026-04-16
 expiryDate: 2026-06-18
 tags: ["economics", "interest-rates", "polymarket"]
-polymarketYes: 11.0
-polymarketNo: 89.0
-polymarketVolume: 9484
+polymarketYes: 17.5
+polymarketNo: 82.5
+polymarketVolume: 9590
 polymarketUrl: "https://polymarket.com/event/bank-of-england-increases-interest-rates-after-june-2026-meeting"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/bank-of-england-increases-interest-
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 11.0% | 89.0% | $9K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 17.5% | 82.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will 4 Fed rate cuts happen in 2026?](/odds/will-4-fed-rate-cuts-happen-in-2026) — 3% YES
+- [Will 4 Fed rate cuts happen in 2026?](/odds/will-4-fed-rate-cuts-happen-in-2026) — 4% YES
 - [Will 7 Fed rate cuts happen in 2026?](/odds/will-7-fed-rate-cuts-happen-in-2026) — 0% YES
-- [ECB rate hike in 2026?](/odds/ecb-rate-hike-in-2026) — 76% YES
+- [Will 3 Fed rate cuts happen in 2026?](/odds/will-3-fed-rate-cuts-happen-in-2026) — 8% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Bank of England increases interest rates by 25 bps after June 2026 meeting?"?
 
-As of April 15, 2026, Polymarket prices YES at 11.0%.
+As of April 16, 2026, Polymarket prices YES at 17.5%.
 
 ### Where can I trade on this prediction market?
 

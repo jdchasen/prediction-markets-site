@@ -4,12 +4,12 @@ description: "Will the ECB announce a 25 bps decrease at the April 2026 meeting?
 marketQuestion: "Will the ECB announce a 25 bps decrease at the April 2026 meeting?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-04-15
+lastUpdated: 2026-04-16
 expiryDate: 2026-04-30
 tags: ["politics", "polymarket"]
 polymarketYes: 0.1
 polymarketNo: 100.0
-polymarketVolume: 94134
+polymarketVolume: 96327
 polymarketUrl: "https://polymarket.com/event/will-the-ecb-announce-a-25-bps-decrease-at-the-april-2026-meeting"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-the-ecb-announce-a-25-bps-decr
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.1% | 100.0% | $94K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.1% | 100.0% | $96K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Nicolás Maduro be the leader of Venezuela end of 2026?](/odds/will-nicols-maduro-be-the-leader-of-venezuela-end-of-2026) — 17% YES
+- [Strait of Hormuz traffic returns to normal by end of April?](/odds/strait-of-hormuz-traffic-returns-to-normal-by-end-of-april) — 20% YES
+- [2026 Balance of Power: R Senate, R House](/odds/2026-balance-of-power-r-senate-r-house) — 12% YES
 - [Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?](/odds/will-amanda-anisimova-be-the-2026-womens-wimbledon-winner) — 8% YES
-- [Will Stephen Miran be confirmed as Fed Chair?](/odds/will-stephen-miran-be-confirmed-as-fed-chair) — 0% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will the ECB announce a 25 bps decrease at the April 2026 meeting?"?
 
-As of April 15, 2026, Polymarket prices YES at 0.1%.
+As of April 16, 2026, Polymarket prices YES at 0.1%.
 
 ### Where can I trade on this prediction market?
 

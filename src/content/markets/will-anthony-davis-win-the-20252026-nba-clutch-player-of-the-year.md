@@ -4,7 +4,7 @@ description: "Will Anthony Davis win the 2025–2026 NBA Clutch Player of the Ye
 marketQuestion: "Will Anthony Davis win the 2025–2026 NBA Clutch Player of the Year?"
 category: "sports"
 status: "active"
-lastUpdated: 2026-04-15
+lastUpdated: 2026-04-16
 expiryDate: 2026-06-30
 tags: ["polymarket", "sports"]
 polymarketYes: 0.1
@@ -21,15 +21,15 @@ polymarketUrl: "https://polymarket.com/event/nba-2025-26-clutch-player-of-the-ye
 
 ## Related Markets
 
+- [Will the Philadelphia 76ers win the 2026 NBA Finals?](/odds/will-the-philadelphia-76ers-win-the-2026-nba-finals) — 0% YES
 - [Will West Ham be relegated from the English Premier League after the 2025–26 season?](/odds/will-west-ham-be-relegated-from-the-english-premier-league-after-the-202526-seas) — 34% YES
-- [Will Scotland win Group C in the 2026 FIFA World Cup?](/odds/will-scotland-win-group-c-in-the-2026-fifa-world-cup) — 4% YES
-- [Will Jason Robertson win the 2025–2026 NHL Hart Memorial Trophy?](/odds/will-jason-robertson-win-the-20252026-nhl-hart-memorial-trophy) — 0% YES
+- [Will Darius Garland win the 2025–2026 NBA Clutch Player of the Year?](/odds/will-darius-garland-win-the-20252026-nba-clutch-player-of-the-year) — 0% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Anthony Davis win the 2025–2026 NBA Clutch Player of the Year?"?
 
-As of April 15, 2026, Polymarket prices YES at 0.1%.
+As of April 16, 2026, Polymarket prices YES at 0.1%.
 
 ### Where can I trade on this prediction market?
 

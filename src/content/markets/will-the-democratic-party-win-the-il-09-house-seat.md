@@ -4,7 +4,7 @@ description: "Will the Democratic Party win the IL-09 House seat? Odds: 92.5% YE
 marketQuestion: "Will the Democratic Party win the IL-09 House seat?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-04-15
+lastUpdated: 2026-04-16
 expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
 polymarketYes: 92.5
@@ -21,15 +21,15 @@ polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-i
 
 ## Related Markets
 
-- [Will Nicolás Maduro be the leader of Venezuela end of 2026?](/odds/will-nicols-maduro-be-the-leader-of-venezuela-end-of-2026) — 17% YES
+- [Strait of Hormuz traffic returns to normal by end of April?](/odds/strait-of-hormuz-traffic-returns-to-normal-by-end-of-april) — 20% YES
+- [2026 Balance of Power: R Senate, R House](/odds/2026-balance-of-power-r-senate-r-house) — 12% YES
 - [Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?](/odds/will-amanda-anisimova-be-the-2026-womens-wimbledon-winner) — 8% YES
-- [Will Stephen Miran be confirmed as Fed Chair?](/odds/will-stephen-miran-be-confirmed-as-fed-chair) — 0% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will the Democratic Party win the IL-09 House seat?"?
 
-As of April 15, 2026, Polymarket prices YES at 92.5%.
+As of April 16, 2026, Polymarket prices YES at 92.5%.
 
 ### Where can I trade on this prediction market?
 

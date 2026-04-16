@@ -3,8 +3,8 @@ title: "Will the price of Solana be above $80 on April 19?"
 description: "Will the price of Solana be above $80 on April 19? Odds: 88.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the price of Solana be above $80 on April 19?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-15
+status: "settled"
+lastUpdated: 2026-04-16
 expiryDate: 2026-04-19
 tags: ["politics", "polymarket"]
 polymarketYes: 88.0

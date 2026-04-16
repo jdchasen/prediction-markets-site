@@ -3,8 +3,8 @@ title: "Will there be exactly 0 earthquakes of magnitude 6.5 or higher worldwide
 description: "Will there be exactly 0 earthquakes of magnitude 6.5 or higher worldwide from April 13 - 19? Odds: 63.5% YES on Polymarket. See live prices and trade this ma..."
 marketQuestion: "Will there be exactly 0 earthquakes of magnitude 6.5 or higher worldwide from April 13 - 19?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-15
+status: "settled"
+lastUpdated: 2026-04-16
 expiryDate: 2026-04-19
 tags: ["politics", "polymarket"]
 polymarketYes: 63.5

@@ -1,15 +1,15 @@
 ---
 title: "Will Chris Dudley win the 2026 Oregon Governor Republican primary election?"
-description: "Will Chris Dudley win the 2026 Oregon Governor Republican primary election? Odds: 13.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Chris Dudley win the 2026 Oregon Governor Republican primary election? Odds: 16.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Chris Dudley win the 2026 Oregon Governor Republican primary election?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-04-15
+lastUpdated: 2026-04-16
 expiryDate: 2026-05-19
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 13.5
-polymarketNo: 86.5
-polymarketVolume: 9760
+polymarketYes: 16.0
+polymarketNo: 84.0
+polymarketVolume: 9959
 polymarketUrl: "https://polymarket.com/event/will-chris-dudley-win-the-2026-oregon-governor-republican-primary-election"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-chris-dudley-win-the-2026-oreg
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 13.5% | 86.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 16.0% | 84.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Nicolás Maduro be the leader of Venezuela end of 2026?](/odds/will-nicols-maduro-be-the-leader-of-venezuela-end-of-2026) — 17% YES
+- [Strait of Hormuz traffic returns to normal by end of April?](/odds/strait-of-hormuz-traffic-returns-to-normal-by-end-of-april) — 20% YES
+- [2026 Balance of Power: R Senate, R House](/odds/2026-balance-of-power-r-senate-r-house) — 12% YES
 - [Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?](/odds/will-amanda-anisimova-be-the-2026-womens-wimbledon-winner) — 8% YES
-- [Will Stephen Miran be confirmed as Fed Chair?](/odds/will-stephen-miran-be-confirmed-as-fed-chair) — 0% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Chris Dudley win the 2026 Oregon Governor Republican primary election?"?
 
-As of April 15, 2026, Polymarket prices YES at 13.5%.
+As of April 16, 2026, Polymarket prices YES at 16.0%.
 
 ### Where can I trade on this prediction market?
 

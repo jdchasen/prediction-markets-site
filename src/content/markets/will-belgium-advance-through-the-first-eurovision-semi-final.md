@@ -1,15 +1,15 @@
 ---
 title: "Will Belgium advance through the first Eurovision Semi-Final?"
-description: "Will Belgium advance through the first Eurovision Semi-Final? Odds: 29.0% YES on Polymarket. See live prices and trade this market."
+description: "Will Belgium advance through the first Eurovision Semi-Final? Odds: 28.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Belgium advance through the first Eurovision Semi-Final?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-04-15
+lastUpdated: 2026-04-16
 expiryDate: 2026-05-12
 tags: ["politics", "polymarket"]
-polymarketYes: 29.0
-polymarketNo: 71.0
-polymarketVolume: 9870
+polymarketYes: 28.0
+polymarketNo: 72.0
+polymarketVolume: 9886
 polymarketUrl: "https://polymarket.com/event/will-belgium-advance-through-the-first-eurovision-semi-final"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-belgium-advance-through-the-fi
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 29.0% | 71.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 28.0% | 72.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Nicolás Maduro be the leader of Venezuela end of 2026?](/odds/will-nicols-maduro-be-the-leader-of-venezuela-end-of-2026) — 17% YES
+- [Strait of Hormuz traffic returns to normal by end of April?](/odds/strait-of-hormuz-traffic-returns-to-normal-by-end-of-april) — 20% YES
+- [2026 Balance of Power: R Senate, R House](/odds/2026-balance-of-power-r-senate-r-house) — 12% YES
 - [Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?](/odds/will-amanda-anisimova-be-the-2026-womens-wimbledon-winner) — 8% YES
-- [Will Stephen Miran be confirmed as Fed Chair?](/odds/will-stephen-miran-be-confirmed-as-fed-chair) — 0% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Belgium advance through the first Eurovision Semi-Final?"?
 
-As of April 15, 2026, Polymarket prices YES at 29.0%.
+As of April 16, 2026, Polymarket prices YES at 28.0%.
 
 ### Where can I trade on this prediction market?
 

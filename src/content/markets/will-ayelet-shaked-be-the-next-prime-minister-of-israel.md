@@ -4,12 +4,12 @@ description: "Will Ayelet Shaked be the next Prime Minister of Israel? Odds: 0.2
 marketQuestion: "Will Ayelet Shaked be the next Prime Minister of Israel?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-04-15
+lastUpdated: 2026-04-16
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 0.2
 polymarketNo: 99.8
-polymarketVolume: 97357
+polymarketVolume: 97400
 polymarketUrl: "https://polymarket.com/event/will-ayelet-shaked-be-the-next-prime-minister-of-israel"
 ---
 
@@ -21,15 +21,15 @@ polymarketUrl: "https://polymarket.com/event/will-ayelet-shaked-be-the-next-prim
 
 ## Related Markets
 
-- [Will Nicolás Maduro be the leader of Venezuela end of 2026?](/odds/will-nicols-maduro-be-the-leader-of-venezuela-end-of-2026) — 17% YES
+- [Strait of Hormuz traffic returns to normal by end of April?](/odds/strait-of-hormuz-traffic-returns-to-normal-by-end-of-april) — 20% YES
+- [2026 Balance of Power: R Senate, R House](/odds/2026-balance-of-power-r-senate-r-house) — 12% YES
 - [Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?](/odds/will-amanda-anisimova-be-the-2026-womens-wimbledon-winner) — 8% YES
-- [Will Stephen Miran be confirmed as Fed Chair?](/odds/will-stephen-miran-be-confirmed-as-fed-chair) — 0% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Ayelet Shaked be the next Prime Minister of Israel?"?
 
-As of April 15, 2026, Polymarket prices YES at 0.2%.
+As of April 16, 2026, Polymarket prices YES at 0.2%.
 
 ### Where can I trade on this prediction market?
 

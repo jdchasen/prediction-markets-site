@@ -3,8 +3,8 @@ title: "Will Mark Warner be the Democratic nominee for Senate in Virginia?"
 description: "Will Mark Warner be the Democratic nominee for Senate in Virginia? Odds: 98.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Mark Warner be the Democratic nominee for Senate in Virginia?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-15
+status: "settled"
+lastUpdated: 2026-04-16
 expiryDate: 2026-06-16
 tags: ["politics", "polymarket"]
 polymarketYes: 98.7

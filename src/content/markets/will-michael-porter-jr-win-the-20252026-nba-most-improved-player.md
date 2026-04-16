@@ -3,8 +3,8 @@ title: "Will Michael Porter Jr. win the 2025–2026 NBA Most Improved Player?"
 description: "Will Michael Porter Jr. win the 2025–2026 NBA Most Improved Player? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Michael Porter Jr. win the 2025–2026 NBA Most Improved Player?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-04-15
+status: "settled"
+lastUpdated: 2026-04-16
 expiryDate: 2026-06-30
 tags: ["polymarket", "sports"]
 polymarketYes: 0.1

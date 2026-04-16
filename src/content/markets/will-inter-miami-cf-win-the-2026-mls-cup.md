@@ -3,8 +3,8 @@ title: "Will Inter Miami CF win the 2026 MLS Cup?"
 description: "Will Inter Miami CF win the 2026 MLS Cup? Odds: 16.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Inter Miami CF win the 2026 MLS Cup?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-15
+status: "settled"
+lastUpdated: 2026-04-16
 expiryDate: 2026-12-19
 tags: ["politics", "polymarket"]
 polymarketYes: 16.5

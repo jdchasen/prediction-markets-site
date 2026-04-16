@@ -1,15 +1,15 @@
 ---
 title: "Starmer out by December 31, 2026?"
-description: "Starmer out by December 31, 2026? Odds: 49.5% YES on Polymarket. See live prices and trade this market."
+description: "Starmer out by December 31, 2026? Odds: 49.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Starmer out by December 31, 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-04-15
+lastUpdated: 2026-04-16
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 49.5
-polymarketNo: 50.5
-polymarketVolume: 972757
+polymarketYes: 49.0
+polymarketNo: 51.0
+polymarketVolume: 974359
 polymarketUrl: "https://polymarket.com/event/starmer-out-by-december-31-2026-936-416-977"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/starmer-out-by-december-31-2026-936
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 49.5% | 50.5% | $973K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 49.0% | 51.0% | $974K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Nicolás Maduro be the leader of Venezuela end of 2026?](/odds/will-nicols-maduro-be-the-leader-of-venezuela-end-of-2026) — 17% YES
+- [Strait of Hormuz traffic returns to normal by end of April?](/odds/strait-of-hormuz-traffic-returns-to-normal-by-end-of-april) — 20% YES
+- [2026 Balance of Power: R Senate, R House](/odds/2026-balance-of-power-r-senate-r-house) — 12% YES
 - [Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?](/odds/will-amanda-anisimova-be-the-2026-womens-wimbledon-winner) — 8% YES
-- [Will Stephen Miran be confirmed as Fed Chair?](/odds/will-stephen-miran-be-confirmed-as-fed-chair) — 0% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Starmer out by December 31, 2026?"?
 
-As of April 15, 2026, Polymarket prices YES at 49.5%.
+As of April 16, 2026, Polymarket prices YES at 49.0%.
 
 ### Where can I trade on this prediction market?
 

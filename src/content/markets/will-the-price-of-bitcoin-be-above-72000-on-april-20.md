@@ -3,8 +3,8 @@ title: "Will the price of Bitcoin be above $72,000 on April 20?"
 description: "Will the price of Bitcoin be above $72,000 on April 20? Odds: 80.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the price of Bitcoin be above $72,000 on April 20?"
 category: "crypto"
-status: "active"
-lastUpdated: 2026-04-15
+status: "settled"
+lastUpdated: 2026-04-16
 expiryDate: 2026-04-20
 tags: ["bitcoin", "crypto", "polymarket"]
 polymarketYes: 80.5

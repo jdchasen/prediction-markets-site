@@ -3,8 +3,8 @@ title: "Will Stephen Miran be confirmed as Fed Chair?"
 description: "Will Stephen Miran be confirmed as Fed Chair? Odds: 0.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Stephen Miran be confirmed as Fed Chair?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-15
+status: "settled"
+lastUpdated: 2026-04-16
 expiryDate: 2026-10-31
 tags: ["ai", "federal-reserve", "politics", "polymarket"]
 polymarketYes: 0.4

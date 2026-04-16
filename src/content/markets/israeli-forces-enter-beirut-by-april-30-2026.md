@@ -3,8 +3,8 @@ title: "Israeli forces enter Beirut by April 30, 2026?"
 description: "Israeli forces enter Beirut by April 30, 2026? Odds: 2.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Israeli forces enter Beirut by April 30, 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-15
+status: "settled"
+lastUpdated: 2026-04-16
 expiryDate: 2026-04-30
 tags: ["politics", "polymarket"]
 polymarketYes: 2.9
