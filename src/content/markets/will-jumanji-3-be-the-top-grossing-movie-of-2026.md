@@ -21,9 +21,9 @@ polymarketUrl: "https://polymarket.com/event/will-jumanji-3-be-the-top-grossing-
 
 ## Related Markets
 
-- [Strait of Hormuz traffic returns to normal by end of April?](/odds/strait-of-hormuz-traffic-returns-to-normal-by-end-of-april) — 20% YES
+- [Will Park Ju-min win the 2026 Seoul Mayoral Election](/odds/will-park-ju-min-win-the-2026-seoul-mayoral-election) — 0% YES
 - [2026 Balance of Power: R Senate, R House](/odds/2026-balance-of-power-r-senate-r-house) — 12% YES
-- [Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?](/odds/will-amanda-anisimova-be-the-2026-womens-wimbledon-winner) — 8% YES
+- [Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?](/odds/will-amanda-anisimova-be-the-2026-womens-wimbledon-winner) — 7% YES
 
 ## Frequently Asked Questions
 

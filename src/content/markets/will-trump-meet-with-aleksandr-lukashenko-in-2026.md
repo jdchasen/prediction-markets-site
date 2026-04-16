@@ -1,14 +1,14 @@
 ---
 title: "Will Trump meet with Aleksandr Lukashenko in 2026?"
-description: "Will Trump meet with Aleksandr Lukashenko in 2026? Odds: 45.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Trump meet with Aleksandr Lukashenko in 2026? Odds: 44.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Trump meet with Aleksandr Lukashenko in 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-04-16
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket", "trump"]
-polymarketYes: 45.5
-polymarketNo: 54.5
+polymarketYes: 44.5
+polymarketNo: 55.5
 polymarketVolume: 9877
 polymarketUrl: "https://polymarket.com/event/will-trump-meet-with-aleksandr-lukashenko-in-2026"
 ---
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-trump-meet-with-aleksandr-luka
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 45.5% | 54.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 44.5% | 55.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Strait of Hormuz traffic returns to normal by end of April?](/odds/strait-of-hormuz-traffic-returns-to-normal-by-end-of-april) — 20% YES
+- [Will Park Ju-min win the 2026 Seoul Mayoral Election](/odds/will-park-ju-min-win-the-2026-seoul-mayoral-election) — 0% YES
 - [2026 Balance of Power: R Senate, R House](/odds/2026-balance-of-power-r-senate-r-house) — 12% YES
-- [Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?](/odds/will-amanda-anisimova-be-the-2026-womens-wimbledon-winner) — 8% YES
+- [Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?](/odds/will-amanda-anisimova-be-the-2026-womens-wimbledon-winner) — 7% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Trump meet with Aleksandr Lukashenko in 2026?"?
 
-As of April 16, 2026, Polymarket prices YES at 45.5%.
+As of April 16, 2026, Polymarket prices YES at 44.5%.
 
 ### Where can I trade on this prediction market?
 

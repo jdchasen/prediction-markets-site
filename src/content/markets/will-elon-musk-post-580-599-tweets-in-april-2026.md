@@ -1,32 +1,32 @@
 ---
-title: "Will Elon Musk post 80-99 tweets from April 17 to April 24, 2026?"
-description: "Will Elon Musk post 80-99 tweets from April 17 to April 24, 2026? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Elon Musk post 80-99 tweets from April 17 to April 24, 2026?"
+title: "Will Elon Musk post 580-599 tweets in April 2026?"
+description: "Will Elon Musk post 580-599 tweets in April 2026? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Elon Musk post 580-599 tweets in April 2026?"
 category: "tech"
-status: "settled"
+status: "active"
 lastUpdated: 2026-04-16
-expiryDate: 2026-04-24
+expiryDate: 2026-05-01
 tags: ["polymarket", "tech"]
 polymarketYes: 0.1
 polymarketNo: 100.0
-polymarketVolume: 99947
-polymarketUrl: "https://polymarket.com/event/elon-musk-of-tweets-april-17-april-24-80-99"
+polymarketVolume: 97198
+polymarketUrl: "https://polymarket.com/event/elon-musk-of-tweets-april-2026-580-599"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.1% | 100.0% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.1% | 100.0% | $97K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Elon Musk post 560-579 tweets in April 2026?](/odds/will-elon-musk-post-560-579-tweets-in-april-2026) — 0% YES
 - [Will SpaceX’s initial public offering occur in June 2026 (ET)?](/odds/will-spacexs-initial-public-offering-occur-in-june-2026-et) — 66% YES
+- [Will Elon Musk post 500-519 tweets from April 17 to April 24, 2026?](/odds/will-elon-musk-post-500-519-tweets-from-april-17-to-april-24-2026) — 0% YES
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Elon Musk post 80-99 tweets from April 17 to April 24, 2026?"?
+### What are the current odds for "Will Elon Musk post 580-599 tweets in April 2026?"?
 
 As of April 16, 2026, Polymarket prices YES at 0.1%.
 

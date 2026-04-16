@@ -3,7 +3,7 @@ title: "Will a new country join the Abraham Accords before 2027?"
 description: "Will a new country join the Abraham Accords before 2027? Odds: 42.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will a new country join the Abraham Accords before 2027?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-16
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]

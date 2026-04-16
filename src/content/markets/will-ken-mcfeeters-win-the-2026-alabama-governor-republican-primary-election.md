@@ -1,15 +1,15 @@
 ---
 title: "Will Ken McFeeters win the 2026 Alabama Governor Republican primary election?"
-description: "Will Ken McFeeters win the 2026 Alabama Governor Republican primary election? Odds: 0.4% YES on Polymarket. See live prices and trade this market."
+description: "Will Ken McFeeters win the 2026 Alabama Governor Republican primary election? Odds: 0.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Ken McFeeters win the 2026 Alabama Governor Republican primary election?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-04-16
 expiryDate: 2026-05-19
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 0.4
-polymarketNo: 99.6
-polymarketVolume: 9899
+polymarketYes: 0.5
+polymarketNo: 99.5
+polymarketVolume: 9910
 polymarketUrl: "https://polymarket.com/event/will-ken-mcfeeters-win-the-2026-alabama-governor-republican-primary-election"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-ken-mcfeeters-win-the-2026-ala
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.4% | 99.6% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.5% | 99.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Strait of Hormuz traffic returns to normal by end of April?](/odds/strait-of-hormuz-traffic-returns-to-normal-by-end-of-april) — 20% YES
+- [Will Park Ju-min win the 2026 Seoul Mayoral Election](/odds/will-park-ju-min-win-the-2026-seoul-mayoral-election) — 0% YES
 - [2026 Balance of Power: R Senate, R House](/odds/2026-balance-of-power-r-senate-r-house) — 12% YES
-- [Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?](/odds/will-amanda-anisimova-be-the-2026-womens-wimbledon-winner) — 8% YES
+- [Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?](/odds/will-amanda-anisimova-be-the-2026-womens-wimbledon-winner) — 7% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Ken McFeeters win the 2026 Alabama Governor Republican primary election?"?
 
-As of April 16, 2026, Polymarket prices YES at 0.4%.
+As of April 16, 2026, Polymarket prices YES at 0.5%.
 
 ### Where can I trade on this prediction market?
 

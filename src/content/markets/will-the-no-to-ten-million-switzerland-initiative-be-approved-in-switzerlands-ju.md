@@ -1,15 +1,15 @@
 ---
 title: "Will the No to ten million Switzerland initiative be approved in Switzerland’s June 14, 2026 popular vote?"
-description: "Will the No to ten million Switzerland initiative be approved in Switzerland’s June 14, 2026 popular vote? Odds: 31.5% YES on Polymarket. See live prices and..."
+description: "Will the No to ten million Switzerland initiative be approved in Switzerland’s June 14, 2026 popular vote? Odds: 30.5% YES on Polymarket. See live prices and..."
 marketQuestion: "Will the No to ten million Switzerland initiative be approved in Switzerland’s June 14, 2026 popular vote?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-04-16
 expiryDate: 2026-06-14
 tags: ["politics", "polymarket"]
-polymarketYes: 31.5
-polymarketNo: 68.5
-polymarketVolume: 9764
+polymarketYes: 30.5
+polymarketNo: 69.5
+polymarketVolume: 9899
 polymarketUrl: "https://polymarket.com/event/will-the-no-to-ten-million-switzerland-initiative-be-approved-in-switzerlands-june-14-2026-popular-vote"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-the-no-to-ten-million-switzerl
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 31.5% | 68.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 30.5% | 69.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Strait of Hormuz traffic returns to normal by end of April?](/odds/strait-of-hormuz-traffic-returns-to-normal-by-end-of-april) — 20% YES
+- [Will Park Ju-min win the 2026 Seoul Mayoral Election](/odds/will-park-ju-min-win-the-2026-seoul-mayoral-election) — 0% YES
 - [2026 Balance of Power: R Senate, R House](/odds/2026-balance-of-power-r-senate-r-house) — 12% YES
-- [Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?](/odds/will-amanda-anisimova-be-the-2026-womens-wimbledon-winner) — 8% YES
+- [Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?](/odds/will-amanda-anisimova-be-the-2026-womens-wimbledon-winner) — 7% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will the No to ten million Switzerland initiative be approved in Switzerland’s June 14, 2026 popular vote?"?
 
-As of April 16, 2026, Polymarket prices YES at 31.5%.
+As of April 16, 2026, Polymarket prices YES at 30.5%.
 
 ### Where can I trade on this prediction market?
 

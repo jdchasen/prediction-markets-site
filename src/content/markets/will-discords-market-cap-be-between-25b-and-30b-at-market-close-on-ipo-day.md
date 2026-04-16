@@ -3,7 +3,7 @@ title: "Will Discord’s market cap be between $25B and $30B at market close on 
 description: "Will Discord’s market cap be between $25B and $30B at market close on IPO day? Odds: 0.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Discord’s market cap be between $25B and $30B at market close on IPO day?"
 category: "finance"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-16
 expiryDate: 2026-06-30
 tags: ["finance", "polymarket"]

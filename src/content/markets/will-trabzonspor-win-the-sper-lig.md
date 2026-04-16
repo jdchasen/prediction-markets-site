@@ -1,15 +1,15 @@
 ---
 title: "Will Trabzonspor win the Süper Lig?"
-description: "Will Trabzonspor win the Süper Lig? Odds: 2.6% YES on Polymarket. See live prices and trade this market."
+description: "Will Trabzonspor win the Süper Lig? Odds: 2.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Trabzonspor win the Süper Lig?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-04-16
 expiryDate: 2026-05-24
 tags: ["politics", "polymarket"]
-polymarketYes: 2.6
-polymarketNo: 97.4
-polymarketVolume: 9713
+polymarketYes: 2.8
+polymarketNo: 97.2
+polymarketVolume: 9813
 polymarketUrl: "https://polymarket.com/event/will-trabzonspor-win-the-sper-lig"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-trabzonspor-win-the-sper-lig"
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 2.6% | 97.4% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 2.8% | 97.2% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Strait of Hormuz traffic returns to normal by end of April?](/odds/strait-of-hormuz-traffic-returns-to-normal-by-end-of-april) — 20% YES
+- [Will Park Ju-min win the 2026 Seoul Mayoral Election](/odds/will-park-ju-min-win-the-2026-seoul-mayoral-election) — 0% YES
 - [2026 Balance of Power: R Senate, R House](/odds/2026-balance-of-power-r-senate-r-house) — 12% YES
-- [Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?](/odds/will-amanda-anisimova-be-the-2026-womens-wimbledon-winner) — 8% YES
+- [Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?](/odds/will-amanda-anisimova-be-the-2026-womens-wimbledon-winner) — 7% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Trabzonspor win the Süper Lig?"?
 
-As of April 16, 2026, Polymarket prices YES at 2.6%.
+As of April 16, 2026, Polymarket prices YES at 2.8%.
 
 ### Where can I trade on this prediction market?
 

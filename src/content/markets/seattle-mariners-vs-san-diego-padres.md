@@ -1,23 +1,23 @@
 ---
-title: "Aaron Taylor-Johnson announced as next James Bond?"
-description: "Aaron Taylor-Johnson announced as next James Bond? Odds: 6.1% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Aaron Taylor-Johnson announced as next James Bond?"
+title: "Seattle Mariners vs. San Diego Padres"
+description: "Seattle Mariners vs. San Diego Padres Odds: 52.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Seattle Mariners vs. San Diego Padres"
 category: "politics"
 status: "active"
 lastUpdated: 2026-04-16
-expiryDate: 2026-06-30
+expiryDate: 2026-04-24
 tags: ["politics", "polymarket"]
-polymarketYes: 6.1
-polymarketNo: 93.9
-polymarketVolume: 98691
-polymarketUrl: "https://polymarket.com/event/aaron-taylor-johnson-announced-as-next-james-bond"
+polymarketYes: 52.5
+polymarketNo: 47.5
+polymarketVolume: 97672
+polymarketUrl: "https://polymarket.com/event/mlb-sea-sd-2026-04-16"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 6.1% | 93.9% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 52.5% | 47.5% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/aaron-taylor-johnson-announced-as-n
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Aaron Taylor-Johnson announced as next James Bond?"?
+### What are the current odds for "Seattle Mariners vs. San Diego Padres"?
 
-As of April 16, 2026, Polymarket prices YES at 6.1%.
+As of April 16, 2026, Polymarket prices YES at 52.5%.
 
 ### Where can I trade on this prediction market?
 

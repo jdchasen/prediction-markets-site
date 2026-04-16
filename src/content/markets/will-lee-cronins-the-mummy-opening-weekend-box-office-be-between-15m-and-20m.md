@@ -3,7 +3,7 @@ title: "Will \"Lee Cronin's The Mummy\" Opening Weekend Box Office be between 15
 description: "Will \"Lee Cronin's The Mummy\" Opening Weekend Box Office be between 15m and 20m? Odds: 23.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will \"Lee Cronin's The Mummy\" Opening Weekend Box Office be between 15m and 20m?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-16
 expiryDate: 2026-04-20
 tags: ["politics", "polymarket"]

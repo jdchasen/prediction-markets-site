@@ -1,23 +1,23 @@
 ---
-title: "Will Kim Young-choon win the 2026 Busan Mayoral Election?"
-description: "Will Kim Young-choon win the 2026 Busan Mayoral Election? Odds: 0.2% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Kim Young-choon win the 2026 Busan Mayoral Election?"
+title: "Will GPT-6 be released by June 30, 2026?"
+description: "Will GPT-6 be released by June 30, 2026? Odds: 46.0% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will GPT-6 be released by June 30, 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-04-16
-expiryDate: 2026-06-03
-tags: ["elections", "politics", "polymarket"]
-polymarketYes: 0.2
-polymarketNo: 99.8
-polymarketVolume: 9896
-polymarketUrl: "https://polymarket.com/event/will-kim-young-choon-win-the-2026-busan-mayoral-election"
+expiryDate: 2026-06-30
+tags: ["politics", "polymarket"]
+polymarketYes: 46.0
+polymarketNo: 54.0
+polymarketVolume: 98496
+polymarketUrl: "https://polymarket.com/event/will-gpt-6-be-released-by-june-30-2026"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.2% | 99.8% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 46.0% | 54.0% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-kim-young-choon-win-the-2026-b
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Kim Young-choon win the 2026 Busan Mayoral Election?"?
+### What are the current odds for "Will GPT-6 be released by June 30, 2026?"?
 
-As of April 16, 2026, Polymarket prices YES at 0.2%.
+As of April 16, 2026, Polymarket prices YES at 46.0%.
 
 ### Where can I trade on this prediction market?
 

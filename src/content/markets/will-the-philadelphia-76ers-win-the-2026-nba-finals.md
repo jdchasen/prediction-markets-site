@@ -9,7 +9,7 @@ expiryDate: 2026-07-01
 tags: ["polymarket", "sports"]
 polymarketYes: 0.4
 polymarketNo: 99.6
-polymarketVolume: 9846137
+polymarketVolume: 9968027
 polymarketUrl: "https://polymarket.com/event/will-the-philadelphia-76ers-win-the-2026-nba-finals"
 ---
 
@@ -17,13 +17,13 @@ polymarketUrl: "https://polymarket.com/event/will-the-philadelphia-76ers-win-the
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.4% | 99.6% | $9.8M | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.4% | 99.6% | $10.0M | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will West Ham be relegated from the English Premier League after the 2025–26 season?](/odds/will-west-ham-be-relegated-from-the-english-premier-league-after-the-202526-seas) — 34% YES
-- [Will Darius Garland win the 2025–2026 NBA Clutch Player of the Year?](/odds/will-darius-garland-win-the-20252026-nba-clutch-player-of-the-year) — 0% YES
-- [Will Anthony Davis win the 2025–2026 NBA Clutch Player of the Year?](/odds/will-anthony-davis-win-the-20252026-nba-clutch-player-of-the-year) — 0% YES
+- [Will Arvell Reese be the third pick in the 2026 NFL draft?](/odds/will-arvell-reese-be-the-third-pick-in-the-2026-nfl-draft) — 34% YES
+- [Will DeAndre Hunter win the 2025–2026 NBA Sixth Man of the Year?](/odds/will-deandre-hunter-win-the-20252026-nba-sixth-man-of-the-year) — 0% YES
 
 ## Frequently Asked Questions
 

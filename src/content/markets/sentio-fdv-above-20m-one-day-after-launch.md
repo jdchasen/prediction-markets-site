@@ -3,7 +3,7 @@ title: "Sentio FDV above $20M one day after launch?"
 description: "Sentio FDV above $20M one day after launch? Odds: 100.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Sentio FDV above $20M one day after launch?"
 category: "crypto"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-16
 expiryDate: 2028-01-01
 tags: ["crypto", "polymarket"]

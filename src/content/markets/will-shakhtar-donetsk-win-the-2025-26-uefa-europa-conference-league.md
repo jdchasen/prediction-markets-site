@@ -3,7 +3,7 @@ title: "Will Shakhtar Donetsk win the 2025-26 UEFA Europa Conference League?"
 description: "Will Shakhtar Donetsk win the 2025-26 UEFA Europa Conference League? Odds: 12.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Shakhtar Donetsk win the 2025-26 UEFA Europa Conference League?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-16
 expiryDate: 2026-05-21
 tags: ["politics", "polymarket"]

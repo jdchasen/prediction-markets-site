@@ -1,35 +1,35 @@
 ---
-title: "Will Anthony Davis win the 2025–2026 NBA Clutch Player of the Year?"
-description: "Will Anthony Davis win the 2025–2026 NBA Clutch Player of the Year? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Anthony Davis win the 2025–2026 NBA Clutch Player of the Year?"
+title: "Will Arvell Reese be the third pick in the 2026 NFL draft?"
+description: "Will Arvell Reese be the third pick in the 2026 NFL draft? Odds: 34.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Arvell Reese be the third pick in the 2026 NFL draft?"
 category: "sports"
 status: "active"
 lastUpdated: 2026-04-16
-expiryDate: 2026-06-30
+expiryDate: 2026-04-23
 tags: ["polymarket", "sports"]
-polymarketYes: 0.1
-polymarketNo: 100.0
-polymarketVolume: 9831
-polymarketUrl: "https://polymarket.com/event/nba-2025-26-clutch-player-of-the-year-anthony-davis"
+polymarketYes: 34.5
+polymarketNo: 65.5
+polymarketVolume: 9855
+polymarketUrl: "https://polymarket.com/event/will-arvell-reese-be-the-third-pick-in-the-2026-nfl-draft"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.1% | 100.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 34.5% | 65.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will the Philadelphia 76ers win the 2026 NBA Finals?](/odds/will-the-philadelphia-76ers-win-the-2026-nba-finals) — 0% YES
 - [Will West Ham be relegated from the English Premier League after the 2025–26 season?](/odds/will-west-ham-be-relegated-from-the-english-premier-league-after-the-202526-seas) — 34% YES
-- [Will Arvell Reese be the third pick in the 2026 NFL draft?](/odds/will-arvell-reese-be-the-third-pick-in-the-2026-nfl-draft) — 34% YES
+- [Will DeAndre Hunter win the 2025–2026 NBA Sixth Man of the Year?](/odds/will-deandre-hunter-win-the-20252026-nba-sixth-man-of-the-year) — 0% YES
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Anthony Davis win the 2025–2026 NBA Clutch Player of the Year?"?
+### What are the current odds for "Will Arvell Reese be the third pick in the 2026 NFL draft?"?
 
-As of April 16, 2026, Polymarket prices YES at 0.1%.
+As of April 16, 2026, Polymarket prices YES at 34.5%.
 
 ### Where can I trade on this prediction market?
 

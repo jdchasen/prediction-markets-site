@@ -21,8 +21,9 @@ polymarketUrl: "https://polymarket.com/event/will-ethereum-reach-7500-by-decembe
 
 ## Related Markets
 
-- [Will OpenSea launch a token by December 31, 2026?](/odds/will-opensea-launch-a-token-by-december-31-2026) — 59% YES
-- [Sentio FDV above $20M one day after launch?](/odds/sentio-fdv-above-20m-one-day-after-launch) — 100% YES
+- [MicroStrategy sells any Bitcoin by June 30, 2026?](/odds/microstrategy-sells-any-bitcoin-by-june-30-2026) — 3% YES
+- [Will OpenSea launch a token by December 31, 2026?](/odds/will-opensea-launch-a-token-by-december-31-2026) — 61% YES
+- [Will Bitcoin dip to $58,000 April 13-19?](/odds/will-bitcoin-dip-to-58000-april-13-19) — 0% YES
 
 ## Frequently Asked Questions
 

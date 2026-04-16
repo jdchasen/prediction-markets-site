@@ -9,7 +9,7 @@ expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
 polymarketYes: 12.5
 polymarketNo: 87.5
-polymarketVolume: 997653
+polymarketVolume: 998149
 polymarketUrl: "https://polymarket.com/event/2026-balance-of-power-r-senate-r-house-537"
 ---
 
@@ -21,9 +21,9 @@ polymarketUrl: "https://polymarket.com/event/2026-balance-of-power-r-senate-r-ho
 
 ## Related Markets
 
-- [Strait of Hormuz traffic returns to normal by end of April?](/odds/strait-of-hormuz-traffic-returns-to-normal-by-end-of-april) — 20% YES
-- [Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?](/odds/will-amanda-anisimova-be-the-2026-womens-wimbledon-winner) — 8% YES
 - [Will Park Ju-min win the 2026 Seoul Mayoral Election](/odds/will-park-ju-min-win-the-2026-seoul-mayoral-election) — 0% YES
+- [Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?](/odds/will-amanda-anisimova-be-the-2026-womens-wimbledon-winner) — 7% YES
+- [Will Celta win the 2025-26 UEFA Europa League?](/odds/will-celta-win-the-2025-26-uefa-europa-league) — 0% YES
 
 ## Frequently Asked Questions
 

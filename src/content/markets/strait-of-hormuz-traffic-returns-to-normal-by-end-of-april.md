@@ -3,7 +3,7 @@ title: "Strait of Hormuz traffic returns to normal by end of April?"
 description: "Strait of Hormuz traffic returns to normal by end of April? Odds: 19.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Strait of Hormuz traffic returns to normal by end of April?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-16
 expiryDate: 2026-04-30
 tags: ["ai", "politics", "polymarket"]
