@@ -1,15 +1,15 @@
 ---
 title: "Will Elena Rybakina be the 2026 Women’s Wimbledon Winner?"
-description: "Will Elena Rybakina be the 2026 Women’s Wimbledon Winner? Odds: 18.0% YES on Polymarket. See live prices and trade this market."
+description: "Will Elena Rybakina be the 2026 Women’s Wimbledon Winner? Odds: 17.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Elena Rybakina be the 2026 Women’s Wimbledon Winner?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-04-17
 expiryDate: 2026-07-12
 tags: ["politics", "polymarket"]
-polymarketYes: 18.0
-polymarketNo: 82.0
-polymarketVolume: 9867
+polymarketYes: 17.5
+polymarketNo: 82.5
+polymarketVolume: 9917
 polymarketUrl: "https://polymarket.com/event/will-elena-rybakina-be-the-2026-womens-wimbledon-winner"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-elena-rybakina-be-the-2026-wom
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 18.0% | 82.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 17.5% | 82.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-elena-rybakina-be-the-2026-wom
 
 ### What are the current odds for "Will Elena Rybakina be the 2026 Women’s Wimbledon Winner?"?
 
-As of April 17, 2026, Polymarket prices YES at 18.0%.
+As of April 17, 2026, Polymarket prices YES at 17.5%.
 
 ### Where can I trade on this prediction market?
 

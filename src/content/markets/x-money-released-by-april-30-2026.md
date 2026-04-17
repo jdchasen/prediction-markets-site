@@ -3,7 +3,7 @@ title: "X Money released by April 30, 2026?"
 description: "X Money released by April 30, 2026? Odds: 45.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "X Money released by April 30, 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-17
 expiryDate: 2026-04-30
 tags: ["politics", "polymarket"]

@@ -21,8 +21,8 @@ polymarketUrl: "https://polymarket.com/event/nhl-2025-26-hart-memorial-trophy-ja
 
 ## Related Markets
 
-- [Will the Utah Mammoth win the 2026 NHL Stanley Cup?](/odds/will-the-utah-mammoth-win-the-2026-nhl-stanley-cup) — 4% YES
-- [Will Kon Knueppel win the 2025–26 NBA Rookie of the Year award?](/odds/will-kon-knueppel-win-the-202526-nba-rookie-of-the-year-award) — 27% YES
+- [Will Kon Knueppel win the 2025–26 NBA Rookie of the Year award?](/odds/will-kon-knueppel-win-the-202526-nba-rookie-of-the-year-award) — 36% YES
+- [Will Everton finish in 3rd place in the 2025-26 English Premier League?](/odds/will-everton-finish-in-3rd-place-in-the-2025-26-english-premier-league) — 0% YES
 - [Will West Ham be relegated from the English Premier League after the 2025–26 season?](/odds/will-west-ham-be-relegated-from-the-english-premier-league-after-the-202526-seas) — 34% YES
 
 ## Frequently Asked Questions

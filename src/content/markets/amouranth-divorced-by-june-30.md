@@ -9,7 +9,7 @@ expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
 polymarketYes: 10.5
 polymarketNo: 89.5
-polymarketVolume: 9731
+polymarketVolume: 9755
 polymarketUrl: "https://polymarket.com/event/amouranth-divorced-by-june-30"
 ---
 

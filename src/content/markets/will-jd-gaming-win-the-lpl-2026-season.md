@@ -9,7 +9,7 @@ expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 10.9
 polymarketNo: 89.1
-polymarketVolume: 99164
+polymarketVolume: 99207
 polymarketUrl: "https://polymarket.com/event/will-jd-gaming-win-the-lpl-2026-season"
 ---
 

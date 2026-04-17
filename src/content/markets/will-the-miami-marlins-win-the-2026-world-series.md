@@ -3,13 +3,13 @@ title: "Will the Miami Marlins win the 2026 World Series?"
 description: "Will the Miami Marlins win the 2026 World Series? Odds: 0.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Miami Marlins win the 2026 World Series?"
 category: "politics"
-status: "settled"
+status: "active"
 lastUpdated: 2026-04-17
 expiryDate: 2026-10-31
 tags: ["politics", "polymarket"]
 polymarketYes: 0.5
 polymarketNo: 99.5
-polymarketVolume: 98290
+polymarketVolume: 98315
 polymarketUrl: "https://polymarket.com/event/will-the-miami-marlins-win-the-2026-world-series"
 ---
 
@@ -21,15 +21,15 @@ polymarketUrl: "https://polymarket.com/event/will-the-miami-marlins-win-the-2026
 
 ## Related Markets
 
-- [Will Park Ju-min win the 2026 Seoul Mayoral Election](/odds/will-park-ju-min-win-the-2026-seoul-mayoral-election) — 0% YES
+- [Will Donald Trump Jr. win the 2028 US Presidential Election?](/odds/will-donald-trump-jr-win-the-2028-us-presidential-election) — 1% YES
 - [2026 Balance of Power: R Senate, R House](/odds/2026-balance-of-power-r-senate-r-house) — 12% YES
-- [Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?](/odds/will-amanda-anisimova-be-the-2026-womens-wimbledon-winner) — 7% YES
+- [Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?](/odds/will-amanda-anisimova-be-the-2026-womens-wimbledon-winner) — 8% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will the Miami Marlins win the 2026 World Series?"?
 
-As of April 16, 2026, Polymarket prices YES at 0.5%.
+As of April 17, 2026, Polymarket prices YES at 0.5%.
 
 ### Where can I trade on this prediction market?
 

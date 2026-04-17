@@ -3,7 +3,7 @@ title: "Will the Communist Party of India (CPI) win the most seats in the 2026 A
 description: "Will the Communist Party of India (CPI) win the most seats in the 2026 Assam Legislative Assembly election? Odds: 0.1% YES on Polymarket. See live prices and..."
 marketQuestion: "Will the Communist Party of India (CPI) win the most seats in the 2026 Assam Legislative Assembly election?"
 category: "economics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-17
 expiryDate: 2026-05-20
 tags: ["economics", "elections", "polymarket"]

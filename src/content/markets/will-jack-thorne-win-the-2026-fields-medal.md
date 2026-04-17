@@ -1,15 +1,15 @@
 ---
 title: "Will Jack Thorne win the 2026 Fields Medal?"
-description: "Will Jack Thorne win the 2026 Fields Medal? Odds: 44.0% YES on Polymarket. See live prices and trade this market."
+description: "Will Jack Thorne win the 2026 Fields Medal? Odds: 46.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Jack Thorne win the 2026 Fields Medal?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-04-17
 expiryDate: 2026-07-30
 tags: ["politics", "polymarket"]
-polymarketYes: 44.0
-polymarketNo: 56.0
-polymarketVolume: 99424
+polymarketYes: 46.0
+polymarketNo: 54.0
+polymarketVolume: 99434
 polymarketUrl: "https://polymarket.com/event/will-jack-thorne-win-the-2026-fields-medal"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-jack-thorne-win-the-2026-field
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 44.0% | 56.0% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 46.0% | 54.0% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-jack-thorne-win-the-2026-field
 
 ### What are the current odds for "Will Jack Thorne win the 2026 Fields Medal?"?
 
-As of April 17, 2026, Polymarket prices YES at 44.0%.
+As of April 17, 2026, Polymarket prices YES at 46.0%.
 
 ### Where can I trade on this prediction market?
 

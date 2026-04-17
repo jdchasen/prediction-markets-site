@@ -9,7 +9,7 @@ expiryDate: 2026-05-28
 tags: ["politics", "polymarket"]
 polymarketYes: 0.1
 polymarketNo: 99.9
-polymarketVolume: 9779
+polymarketVolume: 9806
 polymarketUrl: "https://polymarket.com/event/will-luis-diaz-be-the-top-goal-scorer-in-the-202526-bundesliga-season"
 ---
 

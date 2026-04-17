@@ -9,7 +9,7 @@ expiryDate: 2026-05-01
 tags: ["politics", "polymarket"]
 polymarketYes: 4.5
 polymarketNo: 95.5
-polymarketVolume: 97926
+polymarketVolume: 98027
 polymarketUrl: "https://polymarket.com/event/will-us-crude-oil-reserves-fall-to-375m-by-may-1"
 ---
 

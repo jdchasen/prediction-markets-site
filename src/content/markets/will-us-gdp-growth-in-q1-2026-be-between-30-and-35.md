@@ -9,7 +9,7 @@ expiryDate: 2026-04-30
 tags: ["economics", "polymarket"]
 polymarketYes: 5.0
 polymarketNo: 95.0
-polymarketVolume: 94268
+polymarketVolume: 94382
 polymarketUrl: "https://polymarket.com/event/will-us-gdp-growth-in-q1-2026-be-between-3pt0-and-3pt5"
 ---
 

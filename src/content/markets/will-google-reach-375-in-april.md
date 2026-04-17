@@ -3,7 +3,7 @@ title: "Will Google reach $375 in April?"
 description: "Will Google reach $375 in April? Odds: 14.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Google reach $375 in April?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-17
 expiryDate: 2026-05-01
 tags: ["politics", "polymarket"]

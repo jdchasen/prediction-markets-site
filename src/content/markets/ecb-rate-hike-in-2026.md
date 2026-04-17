@@ -1,15 +1,15 @@
 ---
 title: "ECB rate hike in 2026?"
-description: "ECB rate hike in 2026? Odds: 77.0% YES on Polymarket. See live prices and trade this market."
+description: "ECB rate hike in 2026? Odds: 72.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "ECB rate hike in 2026?"
 category: "economics"
 status: "active"
 lastUpdated: 2026-04-17
 expiryDate: 2026-12-31
 tags: ["economics", "polymarket"]
-polymarketYes: 77.0
-polymarketNo: 23.0
-polymarketVolume: 94180
+polymarketYes: 72.5
+polymarketNo: 27.5
+polymarketVolume: 94925
 polymarketUrl: "https://polymarket.com/event/ecb-rate-hike-in-2026"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/ecb-rate-hike-in-2026"
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 77.0% | 23.0% | $94K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 72.5% | 27.5% | $95K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/ecb-rate-hike-in-2026"
 
 ### What are the current odds for "ECB rate hike in 2026?"?
 
-As of April 17, 2026, Polymarket prices YES at 77.0%.
+As of April 17, 2026, Polymarket prices YES at 72.5%.
 
 ### Where can I trade on this prediction market?
 

@@ -9,7 +9,7 @@ expiryDate: 2028-11-07
 tags: ["elections", "politics", "polymarket", "trump"]
 polymarketYes: 0.9
 polymarketNo: 99.2
-polymarketVolume: 9776329
+polymarketVolume: 9791697
 polymarketUrl: "https://polymarket.com/event/will-donald-trump-jr-win-the-2028-us-presidential-election"
 ---
 

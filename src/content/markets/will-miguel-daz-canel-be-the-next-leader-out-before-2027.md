@@ -3,7 +3,7 @@ title: "Will Miguel Díaz-Canel be the next leader out before 2027?"
 description: "Will Miguel Díaz-Canel be the next leader out before 2027? Odds: 0.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Miguel Díaz-Canel be the next leader out before 2027?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-17
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]

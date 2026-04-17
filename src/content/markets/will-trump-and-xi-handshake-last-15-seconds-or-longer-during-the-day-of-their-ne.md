@@ -3,7 +3,7 @@ title: "Will Trump and Xi handshake last 15 seconds or longer during the day of 
 description: "Will Trump and Xi handshake last 15 seconds or longer during the day of their next meeting in 2026? Odds: 34.5% YES on Polymarket. See live prices and trade ..."
 marketQuestion: "Will Trump and Xi handshake last 15 seconds or longer during the day of their next meeting in 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-17
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket", "trump"]

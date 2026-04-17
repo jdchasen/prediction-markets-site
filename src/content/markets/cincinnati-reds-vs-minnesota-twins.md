@@ -3,7 +3,7 @@ title: "Cincinnati Reds vs. Minnesota Twins"
 description: "Cincinnati Reds vs. Minnesota Twins Odds: 39.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Cincinnati Reds vs. Minnesota Twins"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-17
 expiryDate: 2026-04-25
 tags: ["politics", "polymarket"]

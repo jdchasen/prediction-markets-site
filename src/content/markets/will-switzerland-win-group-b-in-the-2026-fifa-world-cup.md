@@ -1,15 +1,15 @@
 ---
 title: "Will Switzerland win Group B in the 2026 FIFA World Cup?"
-description: "Will Switzerland win Group B in the 2026 FIFA World Cup? Odds: 52.0% YES on Polymarket. See live prices and trade this market."
+description: "Will Switzerland win Group B in the 2026 FIFA World Cup? Odds: 53.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Switzerland win Group B in the 2026 FIFA World Cup?"
 category: "sports"
 status: "active"
 lastUpdated: 2026-04-17
 expiryDate: 2026-06-27
 tags: ["polymarket", "sports"]
-polymarketYes: 52.0
-polymarketNo: 48.0
-polymarketVolume: 9863
+polymarketYes: 53.0
+polymarketNo: 47.0
+polymarketVolume: 9955
 polymarketUrl: "https://polymarket.com/event/will-switzerland-win-group-a-in-the-2026-fifa-world-cup"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-switzerland-win-group-a-in-the
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 52.0% | 48.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 53.0% | 47.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will the Utah Mammoth win the 2026 NHL Stanley Cup?](/odds/will-the-utah-mammoth-win-the-2026-nhl-stanley-cup) — 4% YES
-- [Will Kon Knueppel win the 2025–26 NBA Rookie of the Year award?](/odds/will-kon-knueppel-win-the-202526-nba-rookie-of-the-year-award) — 27% YES
+- [Will Kon Knueppel win the 2025–26 NBA Rookie of the Year award?](/odds/will-kon-knueppel-win-the-202526-nba-rookie-of-the-year-award) — 36% YES
+- [Will Everton finish in 3rd place in the 2025-26 English Premier League?](/odds/will-everton-finish-in-3rd-place-in-the-2025-26-english-premier-league) — 0% YES
 - [Will West Ham be relegated from the English Premier League after the 2025–26 season?](/odds/will-west-ham-be-relegated-from-the-english-premier-league-after-the-202526-seas) — 34% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Switzerland win Group B in the 2026 FIFA World Cup?"?
 
-As of April 17, 2026, Polymarket prices YES at 52.0%.
+As of April 17, 2026, Polymarket prices YES at 53.0%.
 
 ### Where can I trade on this prediction market?
 

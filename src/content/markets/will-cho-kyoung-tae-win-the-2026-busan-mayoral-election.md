@@ -9,7 +9,7 @@ expiryDate: 2026-06-03
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.2
 polymarketNo: 99.8
-polymarketVolume: 9767
+polymarketVolume: 9853
 polymarketUrl: "https://polymarket.com/event/will-cho-kyoung-tae-win-the-2026-busan-mayoral-election"
 ---
 

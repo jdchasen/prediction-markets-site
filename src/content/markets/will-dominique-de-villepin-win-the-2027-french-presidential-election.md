@@ -1,15 +1,15 @@
 ---
 title: "Will Dominique de Villepin win the 2027 French presidential election?"
-description: "Will Dominique de Villepin win the 2027 French presidential election? Odds: 5.7% YES on Polymarket. See live prices and trade this market."
+description: "Will Dominique de Villepin win the 2027 French presidential election? Odds: 5.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Dominique de Villepin win the 2027 French presidential election?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-04-17
 expiryDate: 2027-04-30
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 5.7
-polymarketNo: 94.3
-polymarketVolume: 986901
+polymarketYes: 5.5
+polymarketNo: 94.5
+polymarketVolume: 987685
 polymarketUrl: "https://polymarket.com/event/will-dominique-de-villepin-win-the-2027-french-presidential-election"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-dominique-de-villepin-win-the-
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 5.7% | 94.3% | $987K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 5.5% | 94.5% | $988K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-dominique-de-villepin-win-the-
 
 ### What are the current odds for "Will Dominique de Villepin win the 2027 French presidential election?"?
 
-As of April 17, 2026, Polymarket prices YES at 5.7%.
+As of April 17, 2026, Polymarket prices YES at 5.5%.
 
 ### Where can I trade on this prediction market?
 

@@ -9,7 +9,7 @@ expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]
 polymarketYes: 10.5
 polymarketNo: 89.5
-polymarketVolume: 9772
+polymarketVolume: 9792
 polymarketUrl: "https://polymarket.com/event/will-bnb-reach-1500-by-december-31-2026"
 ---
 

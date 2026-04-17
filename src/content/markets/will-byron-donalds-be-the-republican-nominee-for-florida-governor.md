@@ -9,7 +9,7 @@ expiryDate: 2026-08-18
 tags: ["politics", "polymarket"]
 polymarketYes: 85.5
 polymarketNo: 14.5
-polymarketVolume: 97563
+polymarketVolume: 97684
 polymarketUrl: "https://polymarket.com/event/will-byron-donalds-be-the-republican-nominee-for-florida-governor"
 ---
 

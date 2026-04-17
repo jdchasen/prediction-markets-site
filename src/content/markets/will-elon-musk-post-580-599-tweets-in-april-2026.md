@@ -9,7 +9,7 @@ expiryDate: 2026-05-01
 tags: ["polymarket", "tech"]
 polymarketYes: 0.1
 polymarketNo: 100.0
-polymarketVolume: 98198
+polymarketVolume: 99198
 polymarketUrl: "https://polymarket.com/event/elon-musk-of-tweets-april-2026-580-599"
 ---
 
@@ -17,12 +17,12 @@ polymarketUrl: "https://polymarket.com/event/elon-musk-of-tweets-april-2026-580-
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.1% | 100.0% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.1% | 100.0% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Elon Musk post 300-319 tweets from April 14 to April 21, 2026?](/odds/will-elon-musk-post-300-319-tweets-from-april-14-to-april-21-2026) — 18% YES
-- [Will Elon Musk post 300-319 tweets from April 14 to April 21, 2026?](/odds/will-elon-musk-post-300-319-tweets-from-april-14-to-april-21-2026) — 16% YES
+- [Will Elon Musk post 420-439 tweets from April 14 to April 21, 2026?](/odds/will-elon-musk-post-420-439-tweets-from-april-14-to-april-21-2026) — 0% YES
+- [Will Elon Musk post 120-139 tweets from April 17 to April 24, 2026?](/odds/will-elon-musk-post-120-139-tweets-from-april-17-to-april-24-2026) — 0% YES
 
 ## Frequently Asked Questions
 

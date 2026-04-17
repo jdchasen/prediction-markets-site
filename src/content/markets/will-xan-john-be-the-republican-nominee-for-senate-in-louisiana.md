@@ -9,7 +9,7 @@ expiryDate: 2026-05-16
 tags: ["politics", "polymarket"]
 polymarketYes: 0.1
 polymarketNo: 99.9
-polymarketVolume: 9881
+polymarketVolume: 9904
 polymarketUrl: "https://polymarket.com/event/will-xan-john-be-the-republican-nominee-for-senate-in-louisiana-555"
 ---
 

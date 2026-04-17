@@ -1,15 +1,15 @@
 ---
 title: "Will Half-Life 3 be announced before 2027?"
-description: "Will Half-Life 3 be announced before 2027? Odds: 54.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Half-Life 3 be announced before 2027? Odds: 55.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Half-Life 3 be announced before 2027?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-04-17
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 54.5
-polymarketNo: 45.5
-polymarketVolume: 99025
+polymarketYes: 55.0
+polymarketNo: 45.0
+polymarketVolume: 99082
 polymarketUrl: "https://polymarket.com/event/will-half-life-3-be-announced-before-2027"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-half-life-3-be-announced-befor
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 54.5% | 45.5% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 55.0% | 45.0% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-half-life-3-be-announced-befor
 
 ### What are the current odds for "Will Half-Life 3 be announced before 2027?"?
 
-As of April 17, 2026, Polymarket prices YES at 54.5%.
+As of April 17, 2026, Polymarket prices YES at 55.0%.
 
 ### Where can I trade on this prediction market?
 

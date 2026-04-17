@@ -3,7 +3,7 @@ title: "Will Club Atlético de Madrid win on 2026-04-22?"
 description: "Will Club Atlético de Madrid win on 2026-04-22? Odds: 37.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Club Atlético de Madrid win on 2026-04-22?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-17
 expiryDate: 2026-04-22
 tags: ["politics", "polymarket"]

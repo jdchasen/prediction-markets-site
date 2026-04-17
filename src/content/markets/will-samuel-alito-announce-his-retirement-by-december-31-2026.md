@@ -3,7 +3,7 @@ title: "Will Samuel Alito announce his retirement by December 31, 2026?"
 description: "Will Samuel Alito announce his retirement by December 31, 2026? Odds: 53.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Samuel Alito announce his retirement by December 31, 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-17
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]

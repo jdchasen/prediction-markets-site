@@ -21,9 +21,9 @@ polymarketUrl: "https://polymarket.com/event/will-west-ham-be-relegated-from-the
 
 ## Related Markets
 
-- [Will the Utah Mammoth win the 2026 NHL Stanley Cup?](/odds/will-the-utah-mammoth-win-the-2026-nhl-stanley-cup) — 4% YES
-- [Will Kon Knueppel win the 2025–26 NBA Rookie of the Year award?](/odds/will-kon-knueppel-win-the-202526-nba-rookie-of-the-year-award) — 27% YES
-- [Will Everton finish in 3rd place in the 2025-26 English Premier League?](/odds/will-everton-finish-in-3rd-place-in-the-2025-26-english-premier-league) — 1% YES
+- [Will Kon Knueppel win the 2025–26 NBA Rookie of the Year award?](/odds/will-kon-knueppel-win-the-202526-nba-rookie-of-the-year-award) — 36% YES
+- [Will Everton finish in 3rd place in the 2025-26 English Premier League?](/odds/will-everton-finish-in-3rd-place-in-the-2025-26-english-premier-league) — 0% YES
+- [Will Switzerland win Group B in the 2026 FIFA World Cup?](/odds/will-switzerland-win-group-b-in-the-2026-fifa-world-cup) — 53% YES
 
 ## Frequently Asked Questions
 

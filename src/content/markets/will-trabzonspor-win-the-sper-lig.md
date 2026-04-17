@@ -3,7 +3,7 @@ title: "Will Trabzonspor win the Süper Lig?"
 description: "Will Trabzonspor win the Süper Lig? Odds: 3.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Trabzonspor win the Süper Lig?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-17
 expiryDate: 2026-05-24
 tags: ["politics", "polymarket"]

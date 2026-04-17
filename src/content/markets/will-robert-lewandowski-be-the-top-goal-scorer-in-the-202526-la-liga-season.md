@@ -9,7 +9,7 @@ expiryDate: 2026-05-30
 tags: ["politics", "polymarket"]
 polymarketYes: 0.7
 polymarketNo: 99.3
-polymarketVolume: 98586
+polymarketVolume: 98894
 polymarketUrl: "https://polymarket.com/event/will-robert-lewandowski-be-the-top-goal-scorer-in-the-202526-la-liga-season"
 ---
 

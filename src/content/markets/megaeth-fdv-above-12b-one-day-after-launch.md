@@ -3,7 +3,7 @@ title: "MegaETH FDV above $1.2B one day after launch?"
 description: "MegaETH FDV above $1.2B one day after launch? Odds: 38.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "MegaETH FDV above $1.2B one day after launch?"
 category: "crypto"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-17
 tags: ["crypto", "ethereum", "polymarket"]
 polymarketYes: 38.0

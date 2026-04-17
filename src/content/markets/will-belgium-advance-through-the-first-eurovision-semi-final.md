@@ -3,7 +3,7 @@ title: "Will Belgium advance through the first Eurovision Semi-Final?"
 description: "Will Belgium advance through the first Eurovision Semi-Final? Odds: 31.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Belgium advance through the first Eurovision Semi-Final?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-17
 expiryDate: 2026-05-12
 tags: ["politics", "polymarket"]

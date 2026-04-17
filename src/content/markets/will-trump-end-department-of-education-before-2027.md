@@ -1,14 +1,14 @@
 ---
 title: "Will Trump end Department of Education before 2027?"
-description: "Will Trump end Department of Education before 2027? Odds: 3.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Trump end Department of Education before 2027? Odds: 3.3% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Trump end Department of Education before 2027?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-04-17
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket", "trump"]
-polymarketYes: 3.5
-polymarketNo: 96.5
+polymarketYes: 3.3
+polymarketNo: 96.7
 polymarketVolume: 9756
 polymarketUrl: "https://polymarket.com/event/will-trump-end-department-of-education-before-2027"
 ---
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-trump-end-department-of-educat
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 3.5% | 96.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 3.3% | 96.7% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-trump-end-department-of-educat
 
 ### What are the current odds for "Will Trump end Department of Education before 2027?"?
 
-As of April 17, 2026, Polymarket prices YES at 3.5%.
+As of April 17, 2026, Polymarket prices YES at 3.3%.
 
 ### Where can I trade on this prediction market?
 

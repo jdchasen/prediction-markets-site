@@ -9,7 +9,7 @@ expiryDate: 2026-06-18
 tags: ["economics", "interest-rates", "polymarket"]
 polymarketYes: 18.0
 polymarketNo: 82.0
-polymarketVolume: 9590
+polymarketVolume: 9596
 polymarketUrl: "https://polymarket.com/event/bank-of-england-increases-interest-rates-after-june-2026-meeting"
 ---
 

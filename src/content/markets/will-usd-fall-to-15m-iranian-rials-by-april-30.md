@@ -3,7 +3,7 @@ title: "Will USD fall to 1.5M Iranian rials by April 30?"
 description: "Will USD fall to 1.5M Iranian rials by April 30? Odds: 40.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will USD fall to 1.5M Iranian rials by April 30?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-17
 expiryDate: 2026-04-30
 tags: ["politics", "polymarket"]
