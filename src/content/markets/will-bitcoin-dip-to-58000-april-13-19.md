@@ -3,8 +3,8 @@ title: "Will Bitcoin dip to $58,000 April 13-19?"
 description: "Will Bitcoin dip to $58,000 April 13-19? Odds: 0.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Bitcoin dip to $58,000 April 13-19?"
 category: "crypto"
-status: "active"
-lastUpdated: 2026-04-16
+status: "settled"
+lastUpdated: 2026-04-17
 expiryDate: 2026-04-20
 tags: ["bitcoin", "crypto", "polymarket"]
 polymarketYes: 0.2

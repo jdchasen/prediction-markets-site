@@ -3,8 +3,8 @@ title: "Will Trump create a tariff dividend by June 30?"
 description: "Will Trump create a tariff dividend by June 30? Odds: 7.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Trump create a tariff dividend by June 30?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-16
+status: "settled"
+lastUpdated: 2026-04-17
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket", "trump"]
 polymarketYes: 7.0

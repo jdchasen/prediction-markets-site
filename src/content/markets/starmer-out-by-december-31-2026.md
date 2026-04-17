@@ -3,8 +3,8 @@ title: "Starmer out by December 31, 2026?"
 description: "Starmer out by December 31, 2026? Odds: 60.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Starmer out by December 31, 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-16
+status: "settled"
+lastUpdated: 2026-04-17
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 60.0

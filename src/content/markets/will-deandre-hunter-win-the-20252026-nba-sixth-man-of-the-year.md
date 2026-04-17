@@ -3,8 +3,8 @@ title: "Will DeAndre Hunter win the 2025–2026 NBA Sixth Man of the Year?"
 description: "Will DeAndre Hunter win the 2025–2026 NBA Sixth Man of the Year? Odds: 0.3% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will DeAndre Hunter win the 2025–2026 NBA Sixth Man of the Year?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-04-16
+status: "settled"
+lastUpdated: 2026-04-17
 expiryDate: 2026-06-30
 tags: ["polymarket", "sports"]
 polymarketYes: 0.3

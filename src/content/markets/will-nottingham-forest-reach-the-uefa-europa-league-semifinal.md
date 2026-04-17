@@ -3,8 +3,8 @@ title: "Will Nottingham Forest reach the UEFA Europa League semifinal?"
 description: "Will Nottingham Forest reach the UEFA Europa League semifinal? Odds: 100.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Nottingham Forest reach the UEFA Europa League semifinal?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-16
+status: "settled"
+lastUpdated: 2026-04-17
 expiryDate: 2026-05-08
 tags: ["politics", "polymarket"]
 polymarketYes: 100.0

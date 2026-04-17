@@ -3,8 +3,8 @@ title: "Will Chris Dudley win the 2026 Oregon Governor Republican primary electi
 description: "Will Chris Dudley win the 2026 Oregon Governor Republican primary election? Odds: 16.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Chris Dudley win the 2026 Oregon Governor Republican primary election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-16
+status: "settled"
+lastUpdated: 2026-04-17
 expiryDate: 2026-05-19
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 16.0

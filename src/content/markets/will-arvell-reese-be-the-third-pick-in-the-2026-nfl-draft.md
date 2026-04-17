@@ -3,8 +3,8 @@ title: "Will Arvell Reese be the third pick in the 2026 NFL draft?"
 description: "Will Arvell Reese be the third pick in the 2026 NFL draft? Odds: 34.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Arvell Reese be the third pick in the 2026 NFL draft?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-04-16
+status: "settled"
+lastUpdated: 2026-04-17
 expiryDate: 2026-04-23
 tags: ["polymarket", "sports"]
 polymarketYes: 34.5

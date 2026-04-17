@@ -1,15 +1,15 @@
 ---
 title: "Will Google reach $375 in April?"
-description: "Will Google reach $375 in April? Odds: 6.2% YES on Polymarket. See live prices and trade this market."
+description: "Will Google reach $375 in April? Odds: 14.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Google reach $375 in April?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-04-16
+lastUpdated: 2026-04-17
 expiryDate: 2026-05-01
 tags: ["politics", "polymarket"]
-polymarketYes: 6.2
-polymarketNo: 93.8
-polymarketVolume: 9789
+polymarketYes: 14.9
+polymarketNo: 85.1
+polymarketVolume: 9929
 polymarketUrl: "https://polymarket.com/event/will-googl-reach-375-in-april"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-googl-reach-375-in-april"
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 6.2% | 93.8% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 14.9% | 85.1% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Park Ju-min win the 2026 Seoul Mayoral Election](/odds/will-park-ju-min-win-the-2026-seoul-mayoral-election) — 0% YES
+- [Will Donald Trump Jr. win the 2028 US Presidential Election?](/odds/will-donald-trump-jr-win-the-2028-us-presidential-election) — 1% YES
 - [2026 Balance of Power: R Senate, R House](/odds/2026-balance-of-power-r-senate-r-house) — 12% YES
-- [Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?](/odds/will-amanda-anisimova-be-the-2026-womens-wimbledon-winner) — 7% YES
+- [Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?](/odds/will-amanda-anisimova-be-the-2026-womens-wimbledon-winner) — 8% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Google reach $375 in April?"?
 
-As of April 16, 2026, Polymarket prices YES at 6.2%.
+As of April 17, 2026, Polymarket prices YES at 14.9%.
 
 ### Where can I trade on this prediction market?
 

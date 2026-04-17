@@ -3,8 +3,8 @@ title: "Will Amazon reach $260 in April?"
 description: "Will Amazon reach $260 in April? Odds: 44.6% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Amazon reach $260 in April?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-16
+status: "settled"
+lastUpdated: 2026-04-17
 expiryDate: 2026-05-01
 tags: ["politics", "polymarket"]
 polymarketYes: 44.6

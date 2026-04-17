@@ -4,7 +4,7 @@ description: "Will Alperen Sengun win the 2025–2026 NBA Most Improved Player? 
 marketQuestion: "Will Alperen Sengun win the 2025–2026 NBA Most Improved Player?"
 category: "sports"
 status: "active"
-lastUpdated: 2026-04-16
+lastUpdated: 2026-04-17
 expiryDate: 2026-06-30
 tags: ["polymarket", "sports"]
 polymarketYes: 0.1
@@ -21,15 +21,15 @@ polymarketUrl: "https://polymarket.com/event/nba-2025-26-most-improved-player-al
 
 ## Related Markets
 
-- [Will the Philadelphia 76ers win the 2026 NBA Finals?](/odds/will-the-philadelphia-76ers-win-the-2026-nba-finals) — 0% YES
+- [Will the Utah Mammoth win the 2026 NHL Stanley Cup?](/odds/will-the-utah-mammoth-win-the-2026-nhl-stanley-cup) — 4% YES
+- [Will Kon Knueppel win the 2025–26 NBA Rookie of the Year award?](/odds/will-kon-knueppel-win-the-202526-nba-rookie-of-the-year-award) — 27% YES
 - [Will West Ham be relegated from the English Premier League after the 2025–26 season?](/odds/will-west-ham-be-relegated-from-the-english-premier-league-after-the-202526-seas) — 34% YES
-- [Will Arvell Reese be the third pick in the 2026 NFL draft?](/odds/will-arvell-reese-be-the-third-pick-in-the-2026-nfl-draft) — 34% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Alperen Sengun win the 2025–2026 NBA Most Improved Player?"?
 
-As of April 16, 2026, Polymarket prices YES at 0.1%.
+As of April 17, 2026, Polymarket prices YES at 0.1%.
 
 ### Where can I trade on this prediction market?
 

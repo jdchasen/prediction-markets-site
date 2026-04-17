@@ -3,8 +3,8 @@ title: "Will the Philadelphia 76ers win the 2026 NBA Finals?"
 description: "Will the Philadelphia 76ers win the 2026 NBA Finals? Odds: 0.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Philadelphia 76ers win the 2026 NBA Finals?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-04-16
+status: "settled"
+lastUpdated: 2026-04-17
 expiryDate: 2026-07-01
 tags: ["polymarket", "sports"]
 polymarketYes: 0.4

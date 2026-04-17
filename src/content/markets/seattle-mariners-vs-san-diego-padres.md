@@ -3,8 +3,8 @@ title: "Seattle Mariners vs. San Diego Padres"
 description: "Seattle Mariners vs. San Diego Padres Odds: 52.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Seattle Mariners vs. San Diego Padres"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-16
+status: "settled"
+lastUpdated: 2026-04-17
 expiryDate: 2026-04-24
 tags: ["politics", "polymarket"]
 polymarketYes: 52.5

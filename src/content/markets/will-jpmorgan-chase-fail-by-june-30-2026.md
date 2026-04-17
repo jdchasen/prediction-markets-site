@@ -3,8 +3,8 @@ title: "Will JPMorgan Chase fail by June 30, 2026?"
 description: "Will JPMorgan Chase fail by June 30, 2026? Odds: 1.6% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will JPMorgan Chase fail by June 30, 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-16
+status: "settled"
+lastUpdated: 2026-04-17
 expiryDate: 2026-06-30
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 1.6

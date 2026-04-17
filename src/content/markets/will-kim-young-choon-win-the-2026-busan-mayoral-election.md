@@ -3,8 +3,8 @@ title: "Will Kim Young-choon win the 2026 Busan Mayoral Election?"
 description: "Will Kim Young-choon win the 2026 Busan Mayoral Election? Odds: 0.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Kim Young-choon win the 2026 Busan Mayoral Election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-16
+status: "settled"
+lastUpdated: 2026-04-17
 expiryDate: 2026-06-03
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.2

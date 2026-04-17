@@ -3,8 +3,8 @@ title: "Will Celta win the 2025-26 UEFA Europa League?"
 description: "Will Celta win the 2025-26 UEFA Europa League? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Celta win the 2025-26 UEFA Europa League?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-16
+status: "settled"
+lastUpdated: 2026-04-17
 expiryDate: 2026-05-24
 tags: ["politics", "polymarket"]
 polymarketYes: 0.1

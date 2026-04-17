@@ -3,8 +3,8 @@ title: "Ukraine peace referendum scheduled by June 30?"
 description: "Ukraine peace referendum scheduled by June 30? Odds: 7.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Ukraine peace referendum scheduled by June 30?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-16
+status: "settled"
+lastUpdated: 2026-04-17
 expiryDate: 2026-06-30
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 7.0
