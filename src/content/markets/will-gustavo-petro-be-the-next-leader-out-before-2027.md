@@ -1,58 +1,42 @@
 ---
 title: "Will Gustavo Petro be the next leader out before 2027?"
-description: "Will Gustavo Petro be the next leader out before 2027? Odds: 1.2% YES on Polymarket. See live prices and trade this market."
+description: "Will Gustavo Petro be the next leader out before 2027? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Gustavo Petro be the next leader out before 2027?"
 category: "politics"
-status: "settled"
-lastUpdated: 2026-03-25
+status: "active"
+lastUpdated: 2026-04-18
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 1.2
-polymarketNo: 98.8
-polymarketVolume: 9652
+polymarketYes: 0.1
+polymarketNo: 99.9
+polymarketVolume: 97363
 polymarketUrl: "https://polymarket.com/event/will-gustavo-petro-be-the-next-leader-out-before-2027-766"
 ---
-
-# Gustavo Petro Leadership Market Analysis
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 1.1% | 98.9% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
-
-## Market Analysis
-
-The Colombian president faces historically low approval ratings and legislative gridlock that could theoretically accelerate his exit, yet the 1.1% odds severely underestimate the structural barriers to removing him before 2027. Petro took office in August 2022 for a four-year term with constitutional protections against early removal short of conviction for treason, making this outcome genuinely unlikely but not impossible—and traders are pricing it as near-certain won't happen.
-
-The bull case rests on Colombia's deteriorating governability metrics. Petro's approval has cratered below 30% according to recent Gallup polling, his economic policies have failed to gain legislative consensus, and his ambitious tax and healthcare reforms face mounting congressional opposition. If significant civil unrest erupts—particularly around pension reform votes expected in mid-2025—or if scandals implicate his inner circle in corruption (paralleling past Colombian crises), pressure for resignation could build. The congressional supermajority needed for impeachment remains fragmentary, but a coalition coalescing around removal isn't mathematically impossible. His defense minister's reported tensions with the presidency and military unrest over security policy provide additional destabilization vectors.
-
-The bear case is more compelling: Petro cannot be removed by Congress without a treason conviction, resignation is politically unthinkable for a leftist president who spent decades fighting for this position, and his coalition—while fractious—controls sufficient seats to block any formal removal process. Colombians have survived worse approval rating collapses (Duque, Santos) without leader changes. The baseline expectation is Petro muddles through until August 2026, when elections for his successor begin in earnest.
-
-Watch the pension reform vote scheduled for Q2 2025, any major corruption allegations touching Petro's family or chief advisors, and whether his polling floor stabilizes or continues declining. An actual resignation becomes conceivable only if multiple scandals cascade simultaneously, making the 1.1% odds roughly appropriate for the tail-risk scenario.
+| Polymarket | 0.1% | 99.9% | $97K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will the Iranian regime fall by April 30?](/odds/will-the-iranian-regime-fall-by-april-30) — 8% YES
-- [Will Claude 5 be released by March 31, 2026?](/odds/will-claude-5-be-released-by-march-31-2026) — 4% YES
-- [Will Albania win Eurovision 2026?](/odds/will-albania-win-eurovision-2026) — 0% YES
+- [Will Donald Trump Jr. win the 2028 US Presidential Election?](/odds/will-donald-trump-jr-win-the-2028-us-presidential-election) — 1% YES
+- [Kharg Island no longer under Iranian control by April 30?](/odds/kharg-island-no-longer-under-iranian-control-by-april-30) — 5% YES
+- [Will Laurent Wauquiez win the 2027 French presidential election?](/odds/will-laurent-wauquiez-win-the-2027-french-presidential-election) — 1% YES
 
 ## Frequently Asked Questions
 
-### What specific mechanism would remove Petro before 2027 given Colombia's constitution?
+### What are the current odds for "Will Gustavo Petro be the next leader out before 2027?"?
 
-Resignation is the only realistic path; congressional impeachment requires a treason conviction which is constitutionally nearly impossible to achieve in the Colombian system. A coup or severe constitutional crisis would be required for any other removal mechanism.
+As of April 18, 2026, Polymarket prices YES at 0.1%.
 
-### How do Petro's current approval numbers compare to previous Colombian presidents who completed their terms?
+### Where can I trade on this prediction market?
 
-Petro's sub-30% approval is worse than Santos and Duque at comparable points, but both weathered similar valleys without removal. The key difference is Petro lacks a clear political successor his coalition would rally behind, reducing incentive to push him out.
-
-### If pension reform fails legislatively in 2025, does that materially increase removal probability?
-
-Legislative failure wouldn't trigger removal mechanisms, but repeated policy defeats could precipitate resignation if they cause personal demoralization—a low-probability psychological outcome that would still require Petro to abandon his movement, making it extremely unlikely.
+You can trade this market on [Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) (crypto-based).
 
 ## Learn More
 
+- [Will Oil Hit $100? March Crude Prediction Market Odds](/blog/will-oil-hit-100-march-crude-prediction-market-odds)
 - [Will ETH Hit $4,500 in 2026? Live Market Odds](/blog/will-ethereum-reach-4500-in-2026-what-prediction-markets-say)
-- [Will Discord IPO in 2026? What Prediction Markets Say](/blog/will-discord-ipo-in-2026-what-prediction-markets-say)
 

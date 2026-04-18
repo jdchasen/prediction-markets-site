@@ -3,7 +3,7 @@ title: "KBO: Kiwoom Heroes vs. KT Wiz"
 description: "KBO: Kiwoom Heroes vs. KT Wiz Odds: 1.3% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "KBO: Kiwoom Heroes vs. KT Wiz"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-18
 expiryDate: 2026-04-25
 tags: ["politics", "polymarket"]

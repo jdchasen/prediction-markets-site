@@ -1,23 +1,23 @@
 ---
-title: "Bill Clinton divorce by June 30?"
-description: "Bill Clinton divorce by June 30? Odds: 1.8% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Bill Clinton divorce by June 30?"
+title: "Tallahassee: Clement Tabur vs Michael Mmoh"
+description: "Tallahassee: Clement Tabur vs Michael Mmoh Odds: 79.0% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Tallahassee: Clement Tabur vs Michael Mmoh"
 category: "politics"
 status: "active"
 lastUpdated: 2026-04-18
-expiryDate: 2026-06-30
+expiryDate: 2026-04-25
 tags: ["politics", "polymarket"]
-polymarketYes: 1.8
-polymarketNo: 98.2
-polymarketVolume: 97737
-polymarketUrl: "https://polymarket.com/event/bill-clinton-divorce-by-june-30"
+polymarketYes: 79.0
+polymarketNo: 21.0
+polymarketVolume: 97802
+polymarketUrl: "https://polymarket.com/event/atp-tabur-mmoh-2026-04-18"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 1.8% | 98.2% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 79.0% | 21.0% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/bill-clinton-divorce-by-june-30"
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Bill Clinton divorce by June 30?"?
+### What are the current odds for "Tallahassee: Clement Tabur vs Michael Mmoh"?
 
-As of April 18, 2026, Polymarket prices YES at 1.8%.
+As of April 18, 2026, Polymarket prices YES at 79.0%.
 
 ### Where can I trade on this prediction market?
 

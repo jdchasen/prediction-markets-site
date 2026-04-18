@@ -3,7 +3,7 @@ title: "Will Amazon have the top AI model at the end of June 2026?"
 description: "Will Amazon have the top AI model at the end of June 2026? Odds: 5.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Amazon have the top AI model at the end of June 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-18
 expiryDate: 2026-06-30
 tags: ["ai", "politics", "polymarket"]

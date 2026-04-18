@@ -8,7 +8,7 @@ lastUpdated: 2026-04-18
 tags: ["politics", "polymarket"]
 polymarketYes: 5.5
 polymarketNo: 94.5
-polymarketVolume: 9755
+polymarketVolume: 9775
 polymarketUrl: "https://polymarket.com/event/will-the-republicans-win-the-massachusetts-governor-race-in-2026"
 ---
 
@@ -21,8 +21,8 @@ polymarketUrl: "https://polymarket.com/event/will-the-republicans-win-the-massac
 ## Related Markets
 
 - [Will Donald Trump Jr. win the 2028 US Presidential Election?](/odds/will-donald-trump-jr-win-the-2028-us-presidential-election) — 1% YES
-- [Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?](/odds/will-amanda-anisimova-be-the-2026-womens-wimbledon-winner) — 8% YES
-- [Will the Milwaukee Brewers win the 2026 World Series?](/odds/will-the-milwaukee-brewers-win-the-2026-world-series) — 3% YES
+- [Kharg Island no longer under Iranian control by April 30?](/odds/kharg-island-no-longer-under-iranian-control-by-april-30) — 5% YES
+- [Will Laurent Wauquiez win the 2027 French presidential election?](/odds/will-laurent-wauquiez-win-the-2027-french-presidential-election) — 1% YES
 
 ## Frequently Asked Questions
 

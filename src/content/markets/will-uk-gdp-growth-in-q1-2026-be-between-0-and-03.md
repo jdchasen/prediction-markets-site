@@ -9,7 +9,7 @@ expiryDate: 2026-05-14
 tags: ["economics", "polymarket"]
 polymarketYes: 22.0
 polymarketNo: 78.0
-polymarketVolume: 9477
+polymarketVolume: 9482
 polymarketUrl: "https://polymarket.com/event/will-uk-gdp-growth-in-q1-2026-be-between-0-and-0pt3"
 ---
 

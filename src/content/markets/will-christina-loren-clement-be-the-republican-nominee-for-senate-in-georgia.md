@@ -3,7 +3,7 @@ title: "Will Christina Loren Clement be the Republican nominee for Senate in Geo
 description: "Will Christina Loren Clement be the Republican nominee for Senate in Georgia? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Christina Loren Clement be the Republican nominee for Senate in Georgia?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-18
 expiryDate: 2026-05-19
 tags: ["politics", "polymarket"]

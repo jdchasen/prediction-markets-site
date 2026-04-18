@@ -3,7 +3,7 @@ title: "Will Aston Villa finish in 3rd place in the 2025-26 English Premier Leag
 description: "Will Aston Villa finish in 3rd place in the 2025-26 English Premier League? Odds: 37.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Aston Villa finish in 3rd place in the 2025-26 English Premier League?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-18
 expiryDate: 2026-05-27
 tags: ["polymarket", "sports"]

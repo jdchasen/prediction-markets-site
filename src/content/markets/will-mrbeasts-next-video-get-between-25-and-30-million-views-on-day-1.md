@@ -1,23 +1,23 @@
 ---
-title: "Will Dominique de Villepin win the 2027 French presidential election?"
-description: "Will Dominique de Villepin win the 2027 French presidential election? Odds: 5.0% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Dominique de Villepin win the 2027 French presidential election?"
+title: "Will MrBeast's next video get between 25 and 30 million views on day 1?"
+description: "Will MrBeast's next video get between 25 and 30 million views on day 1? Odds: 3.3% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will MrBeast's next video get between 25 and 30 million views on day 1?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-04-18
-expiryDate: 2027-04-30
-tags: ["elections", "politics", "polymarket"]
-polymarketYes: 5.0
-polymarketNo: 95.0
-polymarketVolume: 995842
-polymarketUrl: "https://polymarket.com/event/will-dominique-de-villepin-win-the-2027-french-presidential-election"
+expiryDate: 2026-05-31
+tags: ["politics", "polymarket"]
+polymarketYes: 3.3
+polymarketNo: 96.7
+polymarketVolume: 9974
+polymarketUrl: "https://polymarket.com/event/will-mrbeasts-next-video-get-between-25-and-30-million-views-on-day-1-951"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 5.0% | 95.0% | $996K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 3.3% | 96.7% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-dominique-de-villepin-win-the-
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Dominique de Villepin win the 2027 French presidential election?"?
+### What are the current odds for "Will MrBeast's next video get between 25 and 30 million views on day 1?"?
 
-As of April 18, 2026, Polymarket prices YES at 5.0%.
+As of April 18, 2026, Polymarket prices YES at 3.3%.
 
 ### Where can I trade on this prediction market?
 

@@ -1,23 +1,23 @@
 ---
-title: "Will Dominique de Villepin win the 2027 French presidential election?"
-description: "Will Dominique de Villepin win the 2027 French presidential election? Odds: 5.0% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Dominique de Villepin win the 2027 French presidential election?"
+title: "Will the Fed Pause–Pause–Pause in the next three decisions (Jan–Mar–Apr)?"
+description: "Will the Fed Pause–Pause–Pause in the next three decisions (Jan–Mar–Apr)? Odds: 99.2% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will the Fed Pause–Pause–Pause in the next three decisions (Jan–Mar–Apr)?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-04-18
-expiryDate: 2027-04-30
-tags: ["elections", "politics", "polymarket"]
-polymarketYes: 5.0
-polymarketNo: 95.0
-polymarketVolume: 995842
-polymarketUrl: "https://polymarket.com/event/will-dominique-de-villepin-win-the-2027-french-presidential-election"
+expiryDate: 2026-04-29
+tags: ["federal-reserve", "politics", "polymarket"]
+polymarketYes: 99.2
+polymarketNo: 0.8
+polymarketVolume: 98082
+polymarketUrl: "https://polymarket.com/event/will-the-fed-pausepausepause-in-the-next-three-decisions-janmarapr"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 5.0% | 95.0% | $996K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 99.2% | 0.8% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-dominique-de-villepin-win-the-
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Dominique de Villepin win the 2027 French presidential election?"?
+### What are the current odds for "Will the Fed Pause–Pause–Pause in the next three decisions (Jan–Mar–Apr)?"?
 
-As of April 18, 2026, Polymarket prices YES at 5.0%.
+As of April 18, 2026, Polymarket prices YES at 99.2%.
 
 ### Where can I trade on this prediction market?
 

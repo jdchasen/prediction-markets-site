@@ -23,7 +23,7 @@ polymarketUrl: "https://polymarket.com/event/nba-2025-26-most-improved-player-al
 
 - [Will Everton finish in 3rd place in the 2025-26 English Premier League?](/odds/will-everton-finish-in-3rd-place-in-the-2025-26-english-premier-league) — 0% YES
 - [Will West Ham be relegated from the English Premier League after the 2025–26 season?](/odds/will-west-ham-be-relegated-from-the-english-premier-league-after-the-202526-seas) — 34% YES
-- [Will Aston Villa finish in 3rd place in the 2025-26 English Premier League?](/odds/will-aston-villa-finish-in-3rd-place-in-the-2025-26-english-premier-league) — 37% YES
+- [Will DeAndre Hunter win the 2025–2026 NBA Sixth Man of the Year?](/odds/will-deandre-hunter-win-the-20252026-nba-sixth-man-of-the-year) — 0% YES
 
 ## Frequently Asked Questions
 

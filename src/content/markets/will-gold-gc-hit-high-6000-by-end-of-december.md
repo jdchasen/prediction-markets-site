@@ -3,7 +3,7 @@ title: "Will Gold (GC) hit (HIGH) $6,000 by end of December?"
 description: "Will Gold (GC) hit (HIGH) $6,000 by end of December? Odds: 30.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Gold (GC) hit (HIGH) $6,000 by end of December?"
 category: "finance"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-18
 expiryDate: 2026-12-31
 tags: ["finance", "polymarket"]

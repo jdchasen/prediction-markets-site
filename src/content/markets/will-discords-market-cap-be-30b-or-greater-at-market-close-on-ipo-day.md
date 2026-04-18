@@ -21,7 +21,6 @@ polymarketUrl: "https://polymarket.com/event/will-discords-market-cap-be-greater
 
 ## Related Markets
 
-- [Will Gold (GC) hit (HIGH) $6,000 by end of December?](/odds/will-gold-gc-hit-high-6000-by-end-of-december) — 30% YES
 - [Will SpaceX’s IPO valuation be between 2.25T and 2.50T?](/odds/will-spacexs-ipo-valuation-be-between-225t-and-250t) — 3% YES
 
 ## Frequently Asked Questions

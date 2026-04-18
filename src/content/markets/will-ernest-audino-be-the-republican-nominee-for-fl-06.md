@@ -3,7 +3,7 @@ title: "Will Ernest Audino be the Republican nominee for FL-06?"
 description: "Will Ernest Audino be the Republican nominee for FL-06? Odds: 1.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Ernest Audino be the Republican nominee for FL-06?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-18
 expiryDate: 2026-08-18
 tags: ["politics", "polymarket"]

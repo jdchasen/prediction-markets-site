@@ -3,7 +3,7 @@ title: "Will Silver (SI) hit (HIGH) $230 by end of June?"
 description: "Will Silver (SI) hit (HIGH) $230 by end of June? Odds: 1.6% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Silver (SI) hit (HIGH) $230 by end of June?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-18
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]

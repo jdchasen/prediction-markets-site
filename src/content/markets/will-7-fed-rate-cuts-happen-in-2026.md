@@ -23,7 +23,7 @@ polymarketUrl: "https://polymarket.com/event/will-7-fed-rate-cuts-happen-in-2026
 
 - [Will 4 Fed rate cuts happen in 2026?](/odds/will-4-fed-rate-cuts-happen-in-2026) — 4% YES
 - [Will 3 Fed rate cuts happen in 2026?](/odds/will-3-fed-rate-cuts-happen-in-2026) — 8% YES
-- [ECB rate hike in 2026?](/odds/ecb-rate-hike-in-2026) — 74% YES
+- [ECB rate hike in 2026?](/odds/ecb-rate-hike-in-2026) — 65% YES
 
 ## Frequently Asked Questions
 

@@ -1,35 +1,35 @@
 ---
-title: "Will Extended launch a token by September 30 2026?"
-description: "Will Extended launch a token by September 30 2026? Odds: 58.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Extended launch a token by September 30 2026?"
+title: "USD.AI FDV above $6B one day after launch?"
+description: "USD.AI FDV above $6B one day after launch? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "USD.AI FDV above $6B one day after launch?"
 category: "crypto"
 status: "active"
 lastUpdated: 2026-04-18
 expiryDate: 2027-01-01
-tags: ["crypto", "polymarket"]
-polymarketYes: 58.5
-polymarketNo: 41.5
-polymarketVolume: 9896
-polymarketUrl: "https://polymarket.com/event/will-extended-launch-a-token-by-september-30-2026"
+tags: ["ai", "crypto", "polymarket"]
+polymarketYes: 0.1
+polymarketNo: 99.9
+polymarketVolume: 97840
+polymarketUrl: "https://polymarket.com/event/usdai-fdv-above-6b-one-day-after-launch-247-386-828-948-431-412-667-154"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 58.5% | 41.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.1% | 99.9% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [MicroStrategy sells any Bitcoin by June 30, 2026?](/odds/microstrategy-sells-any-bitcoin-by-june-30-2026) — 3% YES
 - [Will OpenSea launch a token by December 31, 2026?](/odds/will-opensea-launch-a-token-by-december-31-2026) — 60% YES
-- [USD.AI FDV above $6B one day after launch?](/odds/usdai-fdv-above-6b-one-day-after-launch) — 0% YES
+- [Will Extended launch a token by September 30 2026?](/odds/will-extended-launch-a-token-by-september-30-2026) — 58% YES
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Extended launch a token by September 30 2026?"?
+### What are the current odds for "USD.AI FDV above $6B one day after launch?"?
 
-As of April 18, 2026, Polymarket prices YES at 58.5%.
+As of April 18, 2026, Polymarket prices YES at 0.1%.
 
 ### Where can I trade on this prediction market?
 

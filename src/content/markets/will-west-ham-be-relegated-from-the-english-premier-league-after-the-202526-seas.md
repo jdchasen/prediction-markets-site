@@ -22,8 +22,8 @@ polymarketUrl: "https://polymarket.com/event/will-west-ham-be-relegated-from-the
 ## Related Markets
 
 - [Will Everton finish in 3rd place in the 2025-26 English Premier League?](/odds/will-everton-finish-in-3rd-place-in-the-2025-26-english-premier-league) — 0% YES
-- [Will Aston Villa finish in 3rd place in the 2025-26 English Premier League?](/odds/will-aston-villa-finish-in-3rd-place-in-the-2025-26-english-premier-league) — 37% YES
 - [Will DeAndre Hunter win the 2025–2026 NBA Sixth Man of the Year?](/odds/will-deandre-hunter-win-the-20252026-nba-sixth-man-of-the-year) — 0% YES
+- [Will Anthony Davis win the 2025–2026 NBA Clutch Player of the Year?](/odds/will-anthony-davis-win-the-20252026-nba-clutch-player-of-the-year) — 0% YES
 
 ## Frequently Asked Questions
 

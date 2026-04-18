@@ -1,23 +1,23 @@
 ---
-title: "Bill Clinton divorce by June 30?"
-description: "Bill Clinton divorce by June 30? Odds: 1.8% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Bill Clinton divorce by June 30?"
+title: "Peru General Election invalidated by June 30?"
+description: "Peru General Election invalidated by June 30? Odds: 16.0% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Peru General Election invalidated by June 30?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-04-18
 expiryDate: 2026-06-30
-tags: ["politics", "polymarket"]
-polymarketYes: 1.8
-polymarketNo: 98.2
-polymarketVolume: 97737
-polymarketUrl: "https://polymarket.com/event/bill-clinton-divorce-by-june-30"
+tags: ["elections", "politics", "polymarket"]
+polymarketYes: 16.0
+polymarketNo: 84.0
+polymarketVolume: 9808
+polymarketUrl: "https://polymarket.com/event/peru-general-election-invalidated-by-june-30"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 1.8% | 98.2% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 16.0% | 84.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/bill-clinton-divorce-by-june-30"
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Bill Clinton divorce by June 30?"?
+### What are the current odds for "Peru General Election invalidated by June 30?"?
 
-As of April 18, 2026, Polymarket prices YES at 1.8%.
+As of April 18, 2026, Polymarket prices YES at 16.0%.
 
 ### Where can I trade on this prediction market?
 
