@@ -3,8 +3,8 @@ title: "Will Luis Diaz be the top goal scorer in the 2025–26 Bundesliga season
 description: "Will Luis Diaz be the top goal scorer in the 2025–26 Bundesliga season? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Luis Diaz be the top goal scorer in the 2025–26 Bundesliga season?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-17
+status: "settled"
+lastUpdated: 2026-04-18
 expiryDate: 2026-05-28
 tags: ["politics", "polymarket"]
 polymarketYes: 0.1

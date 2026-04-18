@@ -4,12 +4,12 @@ description: "Will Robert Lewandowski be the top goal scorer in the 2025–26 La
 marketQuestion: "Will Robert Lewandowski be the top goal scorer in the 2025–26 La Liga season?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-04-17
+lastUpdated: 2026-04-18
 expiryDate: 2026-05-30
 tags: ["politics", "polymarket"]
 polymarketYes: 0.7
 polymarketNo: 99.3
-polymarketVolume: 98894
+polymarketVolume: 98969
 polymarketUrl: "https://polymarket.com/event/will-robert-lewandowski-be-the-top-goal-scorer-in-the-202526-la-liga-season"
 ---
 
@@ -22,14 +22,14 @@ polymarketUrl: "https://polymarket.com/event/will-robert-lewandowski-be-the-top-
 ## Related Markets
 
 - [Will Donald Trump Jr. win the 2028 US Presidential Election?](/odds/will-donald-trump-jr-win-the-2028-us-presidential-election) — 1% YES
-- [2026 Balance of Power: R Senate, R House](/odds/2026-balance-of-power-r-senate-r-house) — 12% YES
 - [Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?](/odds/will-amanda-anisimova-be-the-2026-womens-wimbledon-winner) — 8% YES
+- [Will the Milwaukee Brewers win the 2026 World Series?](/odds/will-the-milwaukee-brewers-win-the-2026-world-series) — 3% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Robert Lewandowski be the top goal scorer in the 2025–26 La Liga season?"?
 
-As of April 17, 2026, Polymarket prices YES at 0.7%.
+As of April 18, 2026, Polymarket prices YES at 0.7%.
 
 ### Where can I trade on this prediction market?
 

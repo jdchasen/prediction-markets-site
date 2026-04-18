@@ -3,8 +3,8 @@ title: "Will the next diplomatic US-Iran meeting be in Switzerland?"
 description: "Will the next diplomatic US-Iran meeting be in Switzerland? Odds: 1.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the next diplomatic US-Iran meeting be in Switzerland?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-17
+status: "settled"
+lastUpdated: 2026-04-18
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
 polymarketYes: 1.2

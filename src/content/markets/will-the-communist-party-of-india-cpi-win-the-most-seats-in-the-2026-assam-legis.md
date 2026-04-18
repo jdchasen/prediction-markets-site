@@ -3,13 +3,13 @@ title: "Will the Communist Party of India (CPI) win the most seats in the 2026 A
 description: "Will the Communist Party of India (CPI) win the most seats in the 2026 Assam Legislative Assembly election? Odds: 0.1% YES on Polymarket. See live prices and..."
 marketQuestion: "Will the Communist Party of India (CPI) win the most seats in the 2026 Assam Legislative Assembly election?"
 category: "economics"
-status: "settled"
-lastUpdated: 2026-04-17
+status: "active"
+lastUpdated: 2026-04-18
 expiryDate: 2026-05-20
 tags: ["economics", "elections", "polymarket"]
 polymarketYes: 0.1
 polymarketNo: 99.9
-polymarketVolume: 9351
+polymarketVolume: 9626
 polymarketUrl: "https://polymarket.com/event/will-the-communist-party-of-india-cpi-win-the-most-seats-in-the-2026-assam-legislative-assembly-election"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-communist-party-of-india-c
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.1% | 99.9% | $9K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.1% | 99.9% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-communist-party-of-india-c
 
 ### What are the current odds for "Will the Communist Party of India (CPI) win the most seats in the 2026 Assam Legislative Assembly election?"?
 
-As of April 17, 2026, Polymarket prices YES at 0.1%.
+As of April 18, 2026, Polymarket prices YES at 0.1%.
 
 ### Where can I trade on this prediction market?
 

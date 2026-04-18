@@ -1,15 +1,15 @@
 ---
 title: "Will 4 Fed rate cuts happen in 2026?"
-description: "Will 4 Fed rate cuts happen in 2026? Odds: 4.0% YES on Polymarket. See live prices and trade this market."
+description: "Will 4 Fed rate cuts happen in 2026? Odds: 3.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will 4 Fed rate cuts happen in 2026?"
 category: "economics"
 status: "active"
-lastUpdated: 2026-04-17
+lastUpdated: 2026-04-18
 expiryDate: 2026-12-31
 tags: ["economics", "federal-reserve", "interest-rates", "polymarket"]
-polymarketYes: 4.0
-polymarketNo: 96.0
-polymarketVolume: 975630
+polymarketYes: 3.9
+polymarketNo: 96.1
+polymarketVolume: 978095
 polymarketUrl: "https://polymarket.com/event/will-4-fed-rate-cuts-happen-in-2026"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-4-fed-rate-cuts-happen-in-2026
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 4.0% | 96.0% | $976K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 3.9% | 96.1% | $978K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will 7 Fed rate cuts happen in 2026?](/odds/will-7-fed-rate-cuts-happen-in-2026) — 0% YES
 - [Will 3 Fed rate cuts happen in 2026?](/odds/will-3-fed-rate-cuts-happen-in-2026) — 8% YES
-- [ECB rate hike in 2026?](/odds/ecb-rate-hike-in-2026) — 72% YES
+- [ECB rate hike in 2026?](/odds/ecb-rate-hike-in-2026) — 74% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will 4 Fed rate cuts happen in 2026?"?
 
-As of April 17, 2026, Polymarket prices YES at 4.0%.
+As of April 18, 2026, Polymarket prices YES at 3.9%.
 
 ### Where can I trade on this prediction market?
 

@@ -1,15 +1,15 @@
 ---
 title: "Will Extended launch a token by September 30 2026?"
-description: "Will Extended launch a token by September 30 2026? Odds: 60.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Extended launch a token by September 30 2026? Odds: 58.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Extended launch a token by September 30 2026?"
 category: "crypto"
 status: "active"
-lastUpdated: 2026-04-17
+lastUpdated: 2026-04-18
 expiryDate: 2027-01-01
 tags: ["crypto", "polymarket"]
-polymarketYes: 60.5
-polymarketNo: 39.5
-polymarketVolume: 9762
+polymarketYes: 58.5
+polymarketNo: 41.5
+polymarketVolume: 9850
 polymarketUrl: "https://polymarket.com/event/will-extended-launch-a-token-by-september-30-2026"
 ---
 
@@ -17,17 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-extended-launch-a-token-by-sep
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 60.5% | 39.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 58.5% | 41.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
+- [MicroStrategy sells any Bitcoin by June 30, 2026?](/odds/microstrategy-sells-any-bitcoin-by-june-30-2026) — 3% YES
 - [Will OpenSea launch a token by December 31, 2026?](/odds/will-opensea-launch-a-token-by-december-31-2026) — 60% YES
+- [Will Ethereum reach $7,500 by December 31, 2026?](/odds/will-ethereum-reach-7500-by-december-31-2026) — 6% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Extended launch a token by September 30 2026?"?
 
-As of April 17, 2026, Polymarket prices YES at 60.5%.
+As of April 18, 2026, Polymarket prices YES at 58.5%.
 
 ### Where can I trade on this prediction market?
 

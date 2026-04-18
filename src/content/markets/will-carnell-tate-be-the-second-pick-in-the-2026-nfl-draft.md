@@ -3,8 +3,8 @@ title: "Will Carnell Tate be the second pick in the 2026 NFL draft?"
 description: "Will Carnell Tate be the second pick in the 2026 NFL draft? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Carnell Tate be the second pick in the 2026 NFL draft?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-04-17
+status: "settled"
+lastUpdated: 2026-04-18
 expiryDate: 2026-04-23
 tags: ["polymarket", "sports"]
 polymarketYes: 0.1

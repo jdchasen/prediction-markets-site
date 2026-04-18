@@ -3,8 +3,8 @@ title: "Will Kon Knueppel win the 2025–26 NBA Rookie of the Year award?"
 description: "Will Kon Knueppel win the 2025–26 NBA Rookie of the Year award? Odds: 35.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Kon Knueppel win the 2025–26 NBA Rookie of the Year award?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-04-17
+status: "settled"
+lastUpdated: 2026-04-18
 expiryDate: 2026-05-18
 tags: ["polymarket", "sports"]
 polymarketYes: 35.9

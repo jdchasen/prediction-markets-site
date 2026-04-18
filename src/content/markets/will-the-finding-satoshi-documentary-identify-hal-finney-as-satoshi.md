@@ -3,8 +3,8 @@ title: "Will the Finding Satoshi documentary identify Hal Finney as Satoshi?"
 description: "Will the Finding Satoshi documentary identify Hal Finney as Satoshi? Odds: 76.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Finding Satoshi documentary identify Hal Finney as Satoshi?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-17
+status: "settled"
+lastUpdated: 2026-04-18
 expiryDate: 2026-05-01
 tags: ["politics", "polymarket"]
 polymarketYes: 76.5

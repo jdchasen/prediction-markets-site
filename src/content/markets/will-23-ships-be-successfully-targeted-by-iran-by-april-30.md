@@ -3,8 +3,8 @@ title: "Will 2–3 ships be successfully targeted by Iran by April 30?"
 description: "Will 2–3 ships be successfully targeted by Iran by April 30? Odds: 75.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will 2–3 ships be successfully targeted by Iran by April 30?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-17
+status: "settled"
+lastUpdated: 2026-04-18
 expiryDate: 2026-04-30
 tags: ["politics", "polymarket"]
 polymarketYes: 75.0

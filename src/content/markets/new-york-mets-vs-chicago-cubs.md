@@ -3,8 +3,8 @@ title: "New York Mets vs. Chicago Cubs"
 description: "New York Mets vs. Chicago Cubs Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "New York Mets vs. Chicago Cubs"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-17
+status: "settled"
+lastUpdated: 2026-04-18
 expiryDate: 2026-04-24
 tags: ["politics", "polymarket"]
 polymarketYes: 0.1

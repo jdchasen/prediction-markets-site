@@ -3,8 +3,8 @@ title: "Will Switzerland win Group B in the 2026 FIFA World Cup?"
 description: "Will Switzerland win Group B in the 2026 FIFA World Cup? Odds: 53.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Switzerland win Group B in the 2026 FIFA World Cup?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-04-17
+status: "settled"
+lastUpdated: 2026-04-18
 expiryDate: 2026-06-27
 tags: ["polymarket", "sports"]
 polymarketYes: 53.0

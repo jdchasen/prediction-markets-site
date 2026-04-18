@@ -1,15 +1,15 @@
 ---
 title: "Will a team from LEC (Europe / EMEA) win LoL Worlds 2026?"
-description: "Will a team from LEC (Europe / EMEA) win LoL Worlds 2026? Odds: 6.3% YES on Polymarket. See live prices and trade this market."
+description: "Will a team from LEC (Europe / EMEA) win LoL Worlds 2026? Odds: 6.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will a team from LEC (Europe / EMEA) win LoL Worlds 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-04-17
+lastUpdated: 2026-04-18
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 6.3
-polymarketNo: 93.7
-polymarketVolume: 9870
+polymarketYes: 6.2
+polymarketNo: 93.8
+polymarketVolume: 9890
 polymarketUrl: "https://polymarket.com/event/will-a-team-from-lec-europe-emea-win-lol-worlds-2026-944"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-a-team-from-lec-europe-emea-wi
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 6.3% | 93.7% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 6.2% | 93.8% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Donald Trump Jr. win the 2028 US Presidential Election?](/odds/will-donald-trump-jr-win-the-2028-us-presidential-election) — 1% YES
-- [2026 Balance of Power: R Senate, R House](/odds/2026-balance-of-power-r-senate-r-house) — 12% YES
 - [Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?](/odds/will-amanda-anisimova-be-the-2026-womens-wimbledon-winner) — 8% YES
+- [Will the Milwaukee Brewers win the 2026 World Series?](/odds/will-the-milwaukee-brewers-win-the-2026-world-series) — 3% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will a team from LEC (Europe / EMEA) win LoL Worlds 2026?"?
 
-As of April 17, 2026, Polymarket prices YES at 6.3%.
+As of April 18, 2026, Polymarket prices YES at 6.2%.
 
 ### Where can I trade on this prediction market?
 

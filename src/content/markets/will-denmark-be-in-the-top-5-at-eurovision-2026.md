@@ -1,15 +1,15 @@
 ---
 title: "Will Denmark be in the top 5 at Eurovision 2026?"
-description: "Will Denmark be in the top 5 at Eurovision 2026? Odds: 54.0% YES on Polymarket. See live prices and trade this market."
+description: "Will Denmark be in the top 5 at Eurovision 2026? Odds: 54.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Denmark be in the top 5 at Eurovision 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-04-17
+lastUpdated: 2026-04-18
 expiryDate: 2026-05-16
 tags: ["politics", "polymarket"]
-polymarketYes: 54.0
-polymarketNo: 46.0
-polymarketVolume: 9847
+polymarketYes: 54.5
+polymarketNo: 45.5
+polymarketVolume: 9880
 polymarketUrl: "https://polymarket.com/event/will-denmark-be-in-the-top-5-at-eurovision-2026"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-denmark-be-in-the-top-5-at-eur
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 54.0% | 46.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 54.5% | 45.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Donald Trump Jr. win the 2028 US Presidential Election?](/odds/will-donald-trump-jr-win-the-2028-us-presidential-election) — 1% YES
-- [2026 Balance of Power: R Senate, R House](/odds/2026-balance-of-power-r-senate-r-house) — 12% YES
 - [Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?](/odds/will-amanda-anisimova-be-the-2026-womens-wimbledon-winner) — 8% YES
+- [Will the Milwaukee Brewers win the 2026 World Series?](/odds/will-the-milwaukee-brewers-win-the-2026-world-series) — 3% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Denmark be in the top 5 at Eurovision 2026?"?
 
-As of April 17, 2026, Polymarket prices YES at 54.0%.
+As of April 18, 2026, Polymarket prices YES at 54.5%.
 
 ### Where can I trade on this prediction market?
 

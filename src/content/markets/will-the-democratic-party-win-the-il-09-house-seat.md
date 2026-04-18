@@ -3,13 +3,13 @@ title: "Will the Democratic Party win the IL-09 House seat?"
 description: "Will the Democratic Party win the IL-09 House seat? Odds: 92.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Democratic Party win the IL-09 House seat?"
 category: "politics"
-status: "settled"
-lastUpdated: 2026-04-17
+status: "active"
+lastUpdated: 2026-04-18
 expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
 polymarketYes: 92.5
 polymarketNo: 7.5
-polymarketVolume: 9714
+polymarketVolume: 9735
 polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-il-09-house-seat"
 ---
 
@@ -21,15 +21,15 @@ polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-i
 
 ## Related Markets
 
-- [Will Park Ju-min win the 2026 Seoul Mayoral Election](/odds/will-park-ju-min-win-the-2026-seoul-mayoral-election) — 0% YES
-- [2026 Balance of Power: R Senate, R House](/odds/2026-balance-of-power-r-senate-r-house) — 12% YES
-- [Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?](/odds/will-amanda-anisimova-be-the-2026-womens-wimbledon-winner) — 7% YES
+- [Will Donald Trump Jr. win the 2028 US Presidential Election?](/odds/will-donald-trump-jr-win-the-2028-us-presidential-election) — 1% YES
+- [Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?](/odds/will-amanda-anisimova-be-the-2026-womens-wimbledon-winner) — 8% YES
+- [Will the Milwaukee Brewers win the 2026 World Series?](/odds/will-the-milwaukee-brewers-win-the-2026-world-series) — 3% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will the Democratic Party win the IL-09 House seat?"?
 
-As of April 16, 2026, Polymarket prices YES at 92.5%.
+As of April 18, 2026, Polymarket prices YES at 92.5%.
 
 ### Where can I trade on this prediction market?
 

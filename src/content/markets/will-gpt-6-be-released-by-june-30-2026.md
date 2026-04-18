@@ -3,8 +3,8 @@ title: "Will GPT-6 be released by June 30, 2026?"
 description: "Will GPT-6 be released by June 30, 2026? Odds: 42.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will GPT-6 be released by June 30, 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-17
+status: "settled"
+lastUpdated: 2026-04-18
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
 polymarketYes: 42.5

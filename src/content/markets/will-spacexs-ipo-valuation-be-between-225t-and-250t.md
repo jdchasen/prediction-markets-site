@@ -1,13 +1,13 @@
 ---
 title: "Will SpaceX’s IPO valuation be between 2.25T and 2.50T?"
-description: "Will SpaceX’s IPO valuation be between 2.25T and 2.50T? Odds: 4.8% YES on Polymarket. See live prices and trade this market."
+description: "Will SpaceX’s IPO valuation be between 2.25T and 2.50T? Odds: 2.6% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will SpaceX’s IPO valuation be between 2.25T and 2.50T?"
 category: "finance"
-status: "settled"
-lastUpdated: 2026-04-17
+status: "active"
+lastUpdated: 2026-04-18
 tags: ["finance", "polymarket"]
-polymarketYes: 4.8
-polymarketNo: 95.2
+polymarketYes: 2.6
+polymarketNo: 97.4
 polymarketVolume: 9746
 polymarketUrl: "https://polymarket.com/event/will-spacexs-ipo-valuation-be-between-2pt25t-and-2pt50t"
 ---
@@ -16,17 +16,18 @@ polymarketUrl: "https://polymarket.com/event/will-spacexs-ipo-valuation-be-betwe
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 4.8% | 95.2% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 2.6% | 97.4% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Discord’s market cap be $30B or greater at market close on IPO day?](/odds/will-discords-market-cap-be-30b-or-greater-at-market-close-on-ipo-day) — 2% YES
+- [Will Gold (GC) hit (HIGH) $6,000 by end of December?](/odds/will-gold-gc-hit-high-6000-by-end-of-december) — 30% YES
+- [Will Discord’s market cap be $30B or greater at market close on IPO day?](/odds/will-discords-market-cap-be-30b-or-greater-at-market-close-on-ipo-day) — 1% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will SpaceX’s IPO valuation be between 2.25T and 2.50T?"?
 
-As of April 17, 2026, Polymarket prices YES at 4.8%.
+As of April 18, 2026, Polymarket prices YES at 2.6%.
 
 ### Where can I trade on this prediction market?
 

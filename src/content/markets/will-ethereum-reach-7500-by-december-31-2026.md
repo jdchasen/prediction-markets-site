@@ -1,15 +1,15 @@
 ---
 title: "Will Ethereum reach $7,500 by December 31, 2026?"
-description: "Will Ethereum reach $7,500 by December 31, 2026? Odds: 5.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Ethereum reach $7,500 by December 31, 2026? Odds: 6.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Ethereum reach $7,500 by December 31, 2026?"
 category: "crypto"
-status: "settled"
-lastUpdated: 2026-04-17
+status: "active"
+lastUpdated: 2026-04-18
 expiryDate: 2027-01-01
 tags: ["crypto", "ethereum", "polymarket"]
-polymarketYes: 5.5
-polymarketNo: 94.5
-polymarketVolume: 97179
+polymarketYes: 6.5
+polymarketNo: 93.5
+polymarketVolume: 97243
 polymarketUrl: "https://polymarket.com/event/will-ethereum-reach-7500-by-december-31-2026"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-ethereum-reach-7500-by-decembe
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 5.5% | 94.5% | $97K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 6.5% | 93.5% | $97K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [MicroStrategy sells any Bitcoin by June 30, 2026?](/odds/microstrategy-sells-any-bitcoin-by-june-30-2026) — 3% YES
-- [Will OpenSea launch a token by December 31, 2026?](/odds/will-opensea-launch-a-token-by-december-31-2026) — 61% YES
-- [Will Bitcoin dip to $58,000 April 13-19?](/odds/will-bitcoin-dip-to-58000-april-13-19) — 0% YES
+- [Will OpenSea launch a token by December 31, 2026?](/odds/will-opensea-launch-a-token-by-december-31-2026) — 60% YES
+- [Will Extended launch a token by September 30 2026?](/odds/will-extended-launch-a-token-by-september-30-2026) — 58% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Ethereum reach $7,500 by December 31, 2026?"?
 
-As of April 16, 2026, Polymarket prices YES at 5.5%.
+As of April 18, 2026, Polymarket prices YES at 6.5%.
 
 ### Where can I trade on this prediction market?
 
