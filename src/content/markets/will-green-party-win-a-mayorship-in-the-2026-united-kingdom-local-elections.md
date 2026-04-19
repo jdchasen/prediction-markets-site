@@ -3,7 +3,7 @@ title: "Will Green Party win a mayorship in the 2026 United Kingdom local electi
 description: "Will Green Party win a mayorship in the 2026 United Kingdom local elections? Odds: 72.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Green Party win a mayorship in the 2026 United Kingdom local elections?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-19
 expiryDate: 2026-05-07
 tags: ["elections", "politics", "polymarket"]

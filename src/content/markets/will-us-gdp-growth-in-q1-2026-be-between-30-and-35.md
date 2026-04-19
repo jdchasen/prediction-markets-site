@@ -1,15 +1,15 @@
 ---
 title: "Will US GDP growth in Q1 2026 be between 3.0% and 3.5%?"
-description: "Will US GDP growth in Q1 2026 be between 3.0% and 3.5%? Odds: 6.3% YES on Polymarket. See live prices and trade this market."
+description: "Will US GDP growth in Q1 2026 be between 3.0% and 3.5%? Odds: 6.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will US GDP growth in Q1 2026 be between 3.0% and 3.5%?"
 category: "economics"
 status: "active"
 lastUpdated: 2026-04-19
 expiryDate: 2026-04-30
 tags: ["economics", "polymarket"]
-polymarketYes: 6.3
-polymarketNo: 93.7
-polymarketVolume: 94940
+polymarketYes: 6.4
+polymarketNo: 93.6
+polymarketVolume: 95059
 polymarketUrl: "https://polymarket.com/event/will-us-gdp-growth-in-q1-2026-be-between-3pt0-and-3pt5"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-us-gdp-growth-in-q1-2026-be-be
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 6.3% | 93.7% | $95K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 6.4% | 93.6% | $95K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will 4 Fed rate cuts happen in 2026?](/odds/will-4-fed-rate-cuts-happen-in-2026) — 4% YES
 - [Will 7 Fed rate cuts happen in 2026?](/odds/will-7-fed-rate-cuts-happen-in-2026) — 0% YES
-- [ECB rate hike in 2026?](/odds/ecb-rate-hike-in-2026) — 66% YES
+- [Will 3 Fed rate cuts happen in 2026?](/odds/will-3-fed-rate-cuts-happen-in-2026) — 8% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will US GDP growth in Q1 2026 be between 3.0% and 3.5%?"?
 
-As of April 19, 2026, Polymarket prices YES at 6.3%.
+As of April 19, 2026, Polymarket prices YES at 6.4%.
 
 ### Where can I trade on this prediction market?
 

@@ -9,7 +9,7 @@ expiryDate: 2026-04-30
 tags: ["politics", "polymarket"]
 polymarketYes: 3.8
 polymarketNo: 96.2
-polymarketVolume: 97591
+polymarketVolume: 97703
 polymarketUrl: "https://polymarket.com/event/will-iran-sabotage-undersea-internet-cables-by-april-30"
 ---
 
@@ -21,9 +21,9 @@ polymarketUrl: "https://polymarket.com/event/will-iran-sabotage-undersea-interne
 
 ## Related Markets
 
-- [Will Donald Trump Jr. win the 2028 US Presidential Election?](/odds/will-donald-trump-jr-win-the-2028-us-presidential-election) — 1% YES
-- [Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?](/odds/will-amanda-anisimova-be-the-2026-womens-wimbledon-winner) — 7% YES
 - [Will the Milwaukee Brewers win the 2026 World Series?](/odds/will-the-milwaukee-brewers-win-the-2026-world-series) — 3% YES
+- [Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?](/odds/will-amanda-anisimova-be-the-2026-womens-wimbledon-winner) — 8% YES
+- [Will María Corina Machado be the leader of Venezuela end of 2026?](/odds/will-mara-corina-machado-be-the-leader-of-venezuela-end-of-2026) — 10% YES
 
 ## Frequently Asked Questions
 

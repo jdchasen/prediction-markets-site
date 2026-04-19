@@ -9,7 +9,7 @@ expiryDate: 2027-01-01
 tags: ["ai", "crypto", "polymarket"]
 polymarketYes: 0.1
 polymarketNo: 99.9
-polymarketVolume: 97967
+polymarketVolume: 98105
 polymarketUrl: "https://polymarket.com/event/usdai-fdv-above-6b-one-day-after-launch-247-386-828-948-431-412-667-154"
 ---
 
@@ -22,8 +22,8 @@ polymarketUrl: "https://polymarket.com/event/usdai-fdv-above-6b-one-day-after-la
 ## Related Markets
 
 - [MicroStrategy sells any Bitcoin by June 30, 2026?](/odds/microstrategy-sells-any-bitcoin-by-june-30-2026) — 3% YES
-- [Will OpenSea launch a token by December 31, 2026?](/odds/will-opensea-launch-a-token-by-december-31-2026) — 60% YES
-- [Will Extended launch a token by September 30 2026?](/odds/will-extended-launch-a-token-by-september-30-2026) — 58% YES
+- [Will OpenSea launch a token by December 31, 2026?](/odds/will-opensea-launch-a-token-by-december-31-2026) — 61% YES
+- [Will Extended launch a token by September 30 2026?](/odds/will-extended-launch-a-token-by-september-30-2026) — 60% YES
 
 ## Frequently Asked Questions
 

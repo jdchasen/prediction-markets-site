@@ -9,7 +9,7 @@ expiryDate: 2026-12-31
 tags: ["economics", "federal-reserve", "interest-rates", "polymarket"]
 polymarketYes: 0.4
 polymarketNo: 99.6
-polymarketVolume: 956936
+polymarketVolume: 956987
 polymarketUrl: "https://polymarket.com/event/will-7-fed-rate-cuts-happen-in-2026"
 ---
 
@@ -22,8 +22,8 @@ polymarketUrl: "https://polymarket.com/event/will-7-fed-rate-cuts-happen-in-2026
 ## Related Markets
 
 - [Will 4 Fed rate cuts happen in 2026?](/odds/will-4-fed-rate-cuts-happen-in-2026) — 4% YES
-- [ECB rate hike in 2026?](/odds/ecb-rate-hike-in-2026) — 66% YES
-- [Will US GDP growth in Q1 2026 be between 3.0% and 3.5%?](/odds/will-us-gdp-growth-in-q1-2026-be-between-30-and-35) — 6% YES
+- [Will 3 Fed rate cuts happen in 2026?](/odds/will-3-fed-rate-cuts-happen-in-2026) — 8% YES
+- [ECB rate hike in 2026?](/odds/ecb-rate-hike-in-2026) — 76% YES
 
 ## Frequently Asked Questions
 

@@ -9,7 +9,7 @@ expiryDate: 2026-06-30
 tags: ["finance", "polymarket"]
 polymarketYes: 1.2
 polymarketNo: 98.8
-polymarketVolume: 98477
+polymarketVolume: 98521
 polymarketUrl: "https://polymarket.com/event/will-discords-market-cap-be-greater-than-30b-at-market-close-on-ipo-day"
 ---
 
@@ -17,11 +17,12 @@ polymarketUrl: "https://polymarket.com/event/will-discords-market-cap-be-greater
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 1.2% | 98.8% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 1.2% | 98.8% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will SpaceX’s IPO valuation be between 2.25T and 2.50T?](/odds/will-spacexs-ipo-valuation-be-between-225t-and-250t) — 2% YES
+- [Will SpaceX’s IPO valuation be between 2.25T and 2.50T?](/odds/will-spacexs-ipo-valuation-be-between-225t-and-250t) — 4% YES
+- [Will S&P 500 (SPX) hit $4,500 (LOW) in December?](/odds/will-sp-500-spx-hit-4500-low-in-december) — 16% YES
 
 ## Frequently Asked Questions
 

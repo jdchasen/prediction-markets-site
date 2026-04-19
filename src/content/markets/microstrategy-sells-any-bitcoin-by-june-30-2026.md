@@ -9,7 +9,7 @@ expiryDate: 2026-07-01
 tags: ["bitcoin", "crypto", "polymarket"]
 polymarketYes: 2.9
 polymarketNo: 97.1
-polymarketVolume: 980417
+polymarketVolume: 980443
 polymarketUrl: "https://polymarket.com/event/microstrategy-sells-any-bitcoin-by-june-30-2026"
 ---
 
@@ -21,9 +21,9 @@ polymarketUrl: "https://polymarket.com/event/microstrategy-sells-any-bitcoin-by-
 
 ## Related Markets
 
-- [Will OpenSea launch a token by December 31, 2026?](/odds/will-opensea-launch-a-token-by-december-31-2026) — 60% YES
+- [Will OpenSea launch a token by December 31, 2026?](/odds/will-opensea-launch-a-token-by-december-31-2026) — 61% YES
 - [USD.AI FDV above $6B one day after launch?](/odds/usdai-fdv-above-6b-one-day-after-launch) — 0% YES
-- [Will Extended launch a token by September 30 2026?](/odds/will-extended-launch-a-token-by-september-30-2026) — 58% YES
+- [Will Extended launch a token by September 30 2026?](/odds/will-extended-launch-a-token-by-september-30-2026) — 60% YES
 
 ## Frequently Asked Questions
 

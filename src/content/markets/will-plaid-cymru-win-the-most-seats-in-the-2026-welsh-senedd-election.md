@@ -1,23 +1,23 @@
 ---
-title: "Will Jack Thorne win the 2026 Fields Medal?"
-description: "Will Jack Thorne win the 2026 Fields Medal? Odds: 46.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Jack Thorne win the 2026 Fields Medal?"
+title: "Will Plaid Cymru win the most seats in the 2026 Welsh Senedd election?"
+description: "Will Plaid Cymru win the most seats in the 2026 Welsh Senedd election? Odds: 83.0% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Plaid Cymru win the most seats in the 2026 Welsh Senedd election?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-04-19
-expiryDate: 2026-07-30
-tags: ["politics", "polymarket"]
-polymarketYes: 46.5
-polymarketNo: 53.5
-polymarketVolume: 99440
-polymarketUrl: "https://polymarket.com/event/will-jack-thorne-win-the-2026-fields-medal"
+expiryDate: 2026-05-07
+tags: ["ai", "elections", "politics", "polymarket"]
+polymarketYes: 83.0
+polymarketNo: 17.0
+polymarketVolume: 9881
+polymarketUrl: "https://polymarket.com/event/will-plaid-cymru-win-the-most-seats-in-the-2026-welsh-senedd-election"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 46.5% | 53.5% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 83.0% | 17.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-jack-thorne-win-the-2026-field
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Jack Thorne win the 2026 Fields Medal?"?
+### What are the current odds for "Will Plaid Cymru win the most seats in the 2026 Welsh Senedd election?"?
 
-As of April 19, 2026, Polymarket prices YES at 46.5%.
+As of April 19, 2026, Polymarket prices YES at 83.0%.
 
 ### Where can I trade on this prediction market?
 

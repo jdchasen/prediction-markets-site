@@ -1,15 +1,15 @@
 ---
 title: "Will María Corina Machado be the leader of Venezuela end of 2026?"
-description: "Will María Corina Machado be the leader of Venezuela end of 2026? Odds: 9.5% YES on Polymarket. See live prices and trade this market."
+description: "Will María Corina Machado be the leader of Venezuela end of 2026? Odds: 10.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will María Corina Machado be the leader of Venezuela end of 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-04-19
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 9.5
-polymarketNo: 90.5
-polymarketVolume: 983886
+polymarketYes: 10.0
+polymarketNo: 90.0
+polymarketVolume: 984397
 polymarketUrl: "https://polymarket.com/event/will-mara-corina-machado-be-the-leader-of-venezuela-end-of-2026"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-mara-corina-machado-be-the-lea
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 9.5% | 90.5% | $984K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 10.0% | 90.0% | $984K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Donald Trump Jr. win the 2028 US Presidential Election?](/odds/will-donald-trump-jr-win-the-2028-us-presidential-election) — 1% YES
-- [Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?](/odds/will-amanda-anisimova-be-the-2026-womens-wimbledon-winner) — 7% YES
 - [Will the Milwaukee Brewers win the 2026 World Series?](/odds/will-the-milwaukee-brewers-win-the-2026-world-series) — 3% YES
+- [Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?](/odds/will-amanda-anisimova-be-the-2026-womens-wimbledon-winner) — 8% YES
+- [Will the Houston Astros win the 2026 World Series?](/odds/will-the-houston-astros-win-the-2026-world-series) — 2% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will María Corina Machado be the leader of Venezuela end of 2026?"?
 
-As of April 19, 2026, Polymarket prices YES at 9.5%.
+As of April 19, 2026, Polymarket prices YES at 10.0%.
 
 ### Where can I trade on this prediction market?
 

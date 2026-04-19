@@ -9,7 +9,7 @@ expiryDate: 2026-04-24
 tags: ["polymarket", "tech"]
 polymarketYes: 0.1
 polymarketNo: 100.0
-polymarketVolume: 98713
+polymarketVolume: 99222
 polymarketUrl: "https://polymarket.com/event/elon-musk-of-tweets-april-17-april-24-500-519"
 ---
 
@@ -21,9 +21,9 @@ polymarketUrl: "https://polymarket.com/event/elon-musk-of-tweets-april-17-april-
 
 ## Related Markets
 
+- [Will Elon Musk post 460-479 tweets from April 17 to April 24, 2026?](/odds/will-elon-musk-post-460-479-tweets-from-april-17-to-april-24-2026) — 0% YES
 - [Will Elon Musk post 740-759 tweets in April 2026?](/odds/will-elon-musk-post-740-759-tweets-in-april-2026) — 0% YES
-- [Will Elon Musk post 480-499 tweets from April 17 to April 24, 2026?](/odds/will-elon-musk-post-480-499-tweets-from-april-17-to-april-24-2026) — 0% YES
-- [Will Elon Musk post 580+ tweets from April 21 to April 28, 2026?](/odds/will-elon-musk-post-580-tweets-from-april-21-to-april-28-2026) — 0% YES
+- [Will Elon Musk’s net worth be between $620b and $630b on April 30?](/odds/will-elon-musks-net-worth-be-between-620b-and-630b-on-april-30) — 6% YES
 
 ## Frequently Asked Questions
 

@@ -1,14 +1,14 @@
 ---
 title: "Will SpaceX’s IPO valuation be between 2.25T and 2.50T?"
-description: "Will SpaceX’s IPO valuation be between 2.25T and 2.50T? Odds: 2.3% YES on Polymarket. See live prices and trade this market."
+description: "Will SpaceX’s IPO valuation be between 2.25T and 2.50T? Odds: 4.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will SpaceX’s IPO valuation be between 2.25T and 2.50T?"
 category: "finance"
 status: "active"
 lastUpdated: 2026-04-19
 tags: ["finance", "polymarket"]
-polymarketYes: 2.3
-polymarketNo: 97.7
-polymarketVolume: 9776
+polymarketYes: 4.2
+polymarketNo: 95.8
+polymarketVolume: 9836
 polymarketUrl: "https://polymarket.com/event/will-spacexs-ipo-valuation-be-between-2pt25t-and-2pt50t"
 ---
 
@@ -16,17 +16,18 @@ polymarketUrl: "https://polymarket.com/event/will-spacexs-ipo-valuation-be-betwe
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 2.3% | 97.7% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 4.2% | 95.8% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Discord’s market cap be $30B or greater at market close on IPO day?](/odds/will-discords-market-cap-be-30b-or-greater-at-market-close-on-ipo-day) — 1% YES
+- [Will S&P 500 (SPX) hit $4,500 (LOW) in December?](/odds/will-sp-500-spx-hit-4500-low-in-december) — 16% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will SpaceX’s IPO valuation be between 2.25T and 2.50T?"?
 
-As of April 19, 2026, Polymarket prices YES at 2.3%.
+As of April 19, 2026, Polymarket prices YES at 4.2%.
 
 ### Where can I trade on this prediction market?
 

@@ -8,8 +8,8 @@ lastUpdated: 2026-04-19
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
 polymarketYes: 8.6
-polymarketNo: 91.5
-polymarketVolume: 99276
+polymarketNo: 91.4
+polymarketVolume: 99416
 polymarketUrl: "https://polymarket.com/event/gemini-3pt5-released-by-may-31"
 ---
 
@@ -17,13 +17,13 @@ polymarketUrl: "https://polymarket.com/event/gemini-3pt5-released-by-may-31"
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 8.6% | 91.5% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 8.6% | 91.4% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Donald Trump Jr. win the 2028 US Presidential Election?](/odds/will-donald-trump-jr-win-the-2028-us-presidential-election) — 1% YES
-- [Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?](/odds/will-amanda-anisimova-be-the-2026-womens-wimbledon-winner) — 7% YES
 - [Will the Milwaukee Brewers win the 2026 World Series?](/odds/will-the-milwaukee-brewers-win-the-2026-world-series) — 3% YES
+- [Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?](/odds/will-amanda-anisimova-be-the-2026-womens-wimbledon-winner) — 8% YES
+- [Will María Corina Machado be the leader of Venezuela end of 2026?](/odds/will-mara-corina-machado-be-the-leader-of-venezuela-end-of-2026) — 10% YES
 
 ## Frequently Asked Questions
 

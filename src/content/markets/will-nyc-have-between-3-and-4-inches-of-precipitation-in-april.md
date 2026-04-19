@@ -1,23 +1,23 @@
 ---
-title: "Will Noah Kahan have the second-greatest number of monthly Spotify listeners this month?"
-description: "Will Noah Kahan have the second-greatest number of monthly Spotify listeners this month? Odds: 0.4% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Noah Kahan have the second-greatest number of monthly Spotify listeners this month?"
+title: "Will NYC have between 3 and 4 inches of precipitation in April?"
+description: "Will NYC have between 3 and 4 inches of precipitation in April? Odds: 4.0% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will NYC have between 3 and 4 inches of precipitation in April?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-04-19
 expiryDate: 2026-04-30
 tags: ["politics", "polymarket"]
-polymarketYes: 0.4
-polymarketNo: 99.7
-polymarketVolume: 9815
-polymarketUrl: "https://polymarket.com/event/will-noah-kahan-have-the-second-greatest-number-of-monthly-spotify-listeners-this-month-836"
+polymarketYes: 4.0
+polymarketNo: 96.0
+polymarketVolume: 9776
+polymarketUrl: "https://polymarket.com/event/will-nyc-have-between-3-and-4-inches-of-precipitation-in-april"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.4% | 99.7% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 4.0% | 96.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-noah-kahan-have-the-second-gre
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Noah Kahan have the second-greatest number of monthly Spotify listeners this month?"?
+### What are the current odds for "Will NYC have between 3 and 4 inches of precipitation in April?"?
 
-As of April 19, 2026, Polymarket prices YES at 0.4%.
+As of April 19, 2026, Polymarket prices YES at 4.0%.
 
 ### Where can I trade on this prediction market?
 

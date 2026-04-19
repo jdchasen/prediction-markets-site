@@ -1,14 +1,14 @@
 ---
 title: "Will Trump deport 800-900k people?"
-description: "Will Trump deport 800-900k people? Odds: 2.2% YES on Polymarket. See live prices and trade this market."
+description: "Will Trump deport 800-900k people? Odds: 1.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Trump deport 800-900k people?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-04-19
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket", "trump"]
-polymarketYes: 2.2
-polymarketNo: 97.8
+polymarketYes: 1.8
+polymarketNo: 98.2
 polymarketVolume: 9873
 polymarketUrl: "https://polymarket.com/event/will-trump-deport-800-900k-people-745"
 ---
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-trump-deport-800-900k-people-7
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 2.2% | 97.8% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 1.8% | 98.2% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Donald Trump Jr. win the 2028 US Presidential Election?](/odds/will-donald-trump-jr-win-the-2028-us-presidential-election) — 1% YES
-- [Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?](/odds/will-amanda-anisimova-be-the-2026-womens-wimbledon-winner) — 7% YES
 - [Will the Milwaukee Brewers win the 2026 World Series?](/odds/will-the-milwaukee-brewers-win-the-2026-world-series) — 3% YES
+- [Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?](/odds/will-amanda-anisimova-be-the-2026-womens-wimbledon-winner) — 8% YES
+- [Will María Corina Machado be the leader of Venezuela end of 2026?](/odds/will-mara-corina-machado-be-the-leader-of-venezuela-end-of-2026) — 10% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Trump deport 800-900k people?"?
 
-As of April 19, 2026, Polymarket prices YES at 2.2%.
+As of April 19, 2026, Polymarket prices YES at 1.8%.
 
 ### Where can I trade on this prediction market?
 

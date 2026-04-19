@@ -3,7 +3,7 @@ title: "Will Donald Trump Jr. win the 2028 US Presidential Election?"
 description: "Will Donald Trump Jr. win the 2028 US Presidential Election? Odds: 0.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Donald Trump Jr. win the 2028 US Presidential Election?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-19
 expiryDate: 2028-11-07
 tags: ["elections", "politics", "polymarket", "trump"]

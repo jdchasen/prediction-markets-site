@@ -21,9 +21,9 @@ polymarketUrl: "https://polymarket.com/event/will-west-ham-be-relegated-from-the
 
 ## Related Markets
 
-- [Will the San Antonio Spurs win the NBA Western Conference Finals?](/odds/will-the-san-antonio-spurs-win-the-nba-western-conference-finals) — 21% YES
+- [Will the San Antonio Spurs win the NBA Western Conference Finals?](/odds/will-the-san-antonio-spurs-win-the-nba-western-conference-finals) — 19% YES
+- [Will Reuben Bain Jr. be the second pick in the 2026 NFL draft?](/odds/will-reuben-bain-jr-be-the-second-pick-in-the-2026-nfl-draft) — 1% YES
 - [Will Everton finish in 3rd place in the 2025-26 English Premier League?](/odds/will-everton-finish-in-3rd-place-in-the-2025-26-english-premier-league) — 0% YES
-- [Will Reuben Bain Jr. be the second pick in the 2026 NFL draft?](/odds/will-reuben-bain-jr-be-the-second-pick-in-the-2026-nfl-draft) — 0% YES
 
 ## Frequently Asked Questions
 

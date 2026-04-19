@@ -1,23 +1,23 @@
 ---
-title: "Will Jack Thorne win the 2026 Fields Medal?"
-description: "Will Jack Thorne win the 2026 Fields Medal? Odds: 46.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Jack Thorne win the 2026 Fields Medal?"
+title: "Will the Philadelphia Phillies win the 2026 World Series?"
+description: "Will the Philadelphia Phillies win the 2026 World Series? Odds: 3.8% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will the Philadelphia Phillies win the 2026 World Series?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-04-19
-expiryDate: 2026-07-30
+expiryDate: 2026-10-31
 tags: ["politics", "polymarket"]
-polymarketYes: 46.5
-polymarketNo: 53.5
-polymarketVolume: 99440
-polymarketUrl: "https://polymarket.com/event/will-jack-thorne-win-the-2026-fields-medal"
+polymarketYes: 3.8
+polymarketNo: 96.2
+polymarketVolume: 977347
+polymarketUrl: "https://polymarket.com/event/will-the-philadelphia-phillies-win-the-2026-world-series"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 46.5% | 53.5% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 3.8% | 96.2% | $977K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-jack-thorne-win-the-2026-field
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Jack Thorne win the 2026 Fields Medal?"?
+### What are the current odds for "Will the Philadelphia Phillies win the 2026 World Series?"?
 
-As of April 19, 2026, Polymarket prices YES at 46.5%.
+As of April 19, 2026, Polymarket prices YES at 3.8%.
 
 ### Where can I trade on this prediction market?
 

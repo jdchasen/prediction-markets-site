@@ -3,7 +3,7 @@ title: "Will a team from LEC (Europe / EMEA) win LoL Worlds 2026?"
 description: "Will a team from LEC (Europe / EMEA) win LoL Worlds 2026? Odds: 6.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will a team from LEC (Europe / EMEA) win LoL Worlds 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-19
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
