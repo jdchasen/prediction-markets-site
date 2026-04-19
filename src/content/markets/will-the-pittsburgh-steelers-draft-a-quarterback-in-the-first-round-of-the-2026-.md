@@ -3,8 +3,8 @@ title: "Will the Pittsburgh Steelers draft a quarterback in the first round of t
 description: "Will the Pittsburgh Steelers draft a quarterback in the first round of the 2026 NFL Draft? Odds: 20.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Pittsburgh Steelers draft a quarterback in the first round of the 2026 NFL Draft?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-04-18
+status: "settled"
+lastUpdated: 2026-04-19
 expiryDate: 2026-04-23
 tags: ["polymarket", "sports"]
 polymarketYes: 20.5

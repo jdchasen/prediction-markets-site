@@ -1,16 +1,16 @@
 ---
-title: "Will Maxx Crosby play for Los Angeles Rams next?"
-description: "Will Maxx Crosby play for Los Angeles Rams next? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Maxx Crosby play for Los Angeles Rams next?"
+title: "Will Mikel Oyarzabal be the top goal scorer in the 2025–26 La Liga season?"
+description: "Will Mikel Oyarzabal be the top goal scorer in the 2025–26 La Liga season? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Mikel Oyarzabal be the top goal scorer in the 2025–26 La Liga season?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-04-19
-expiryDate: 2026-09-01
+expiryDate: 2026-05-30
 tags: ["politics", "polymarket"]
 polymarketYes: 0.1
 polymarketNo: 99.9
-polymarketVolume: 9944
-polymarketUrl: "https://polymarket.com/event/will-maxx-crosby-play-for-los-angeles-rams-next"
+polymarketVolume: 9815
+polymarketUrl: "https://polymarket.com/event/will-mikel-oyarzabal-be-the-top-goal-scorer-in-the-202526-la-liga-season"
 ---
 
 ## Current Odds
@@ -27,7 +27,7 @@ polymarketUrl: "https://polymarket.com/event/will-maxx-crosby-play-for-los-angel
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Maxx Crosby play for Los Angeles Rams next?"?
+### What are the current odds for "Will Mikel Oyarzabal be the top goal scorer in the 2025–26 La Liga season?"?
 
 As of April 19, 2026, Polymarket prices YES at 0.1%.
 

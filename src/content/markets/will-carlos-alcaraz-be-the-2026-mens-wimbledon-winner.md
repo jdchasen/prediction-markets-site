@@ -1,23 +1,23 @@
 ---
-title: "Will Maxx Crosby play for Los Angeles Rams next?"
-description: "Will Maxx Crosby play for Los Angeles Rams next? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Maxx Crosby play for Los Angeles Rams next?"
+title: "Will Carlos Alcaraz be the 2026 Men’s Wimbledon winner?"
+description: "Will Carlos Alcaraz be the 2026 Men’s Wimbledon winner? Odds: 35.0% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Carlos Alcaraz be the 2026 Men’s Wimbledon winner?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-04-19
-expiryDate: 2026-09-01
+expiryDate: 2026-07-12
 tags: ["politics", "polymarket"]
-polymarketYes: 0.1
-polymarketNo: 99.9
-polymarketVolume: 9944
-polymarketUrl: "https://polymarket.com/event/will-maxx-crosby-play-for-los-angeles-rams-next"
+polymarketYes: 35.0
+polymarketNo: 65.0
+polymarketVolume: 9823
+polymarketUrl: "https://polymarket.com/event/will-carlos-alcaraz-be-the-2026-mens-wimbledon-winner"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.1% | 99.9% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 35.0% | 65.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-maxx-crosby-play-for-los-angel
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Maxx Crosby play for Los Angeles Rams next?"?
+### What are the current odds for "Will Carlos Alcaraz be the 2026 Men’s Wimbledon winner?"?
 
-As of April 19, 2026, Polymarket prices YES at 0.1%.
+As of April 19, 2026, Polymarket prices YES at 35.0%.
 
 ### Where can I trade on this prediction market?
 
@@ -37,6 +37,6 @@ You can trade this market on [Polymarket](https://polymarket.us/1762?utm_source=
 
 ## Learn More
 
-- [Will Oil Hit $100? March Crude Prediction Market Odds](/blog/will-oil-hit-100-march-crude-prediction-market-odds)
 - [Will ETH Hit $4,500 in 2026? Live Market Odds](/blog/will-ethereum-reach-4500-in-2026-what-prediction-markets-say)
+- [Will Discord IPO in 2026? What Prediction Markets Say](/blog/will-discord-ipo-in-2026-what-prediction-markets-say)
 

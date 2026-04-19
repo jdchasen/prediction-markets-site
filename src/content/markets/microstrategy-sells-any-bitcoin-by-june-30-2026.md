@@ -4,12 +4,12 @@ description: "MicroStrategy sells any Bitcoin by June 30, 2026? Odds: 2.9% YES o
 marketQuestion: "MicroStrategy sells any Bitcoin by June 30, 2026?"
 category: "crypto"
 status: "active"
-lastUpdated: 2026-04-18
+lastUpdated: 2026-04-19
 expiryDate: 2026-07-01
 tags: ["bitcoin", "crypto", "polymarket"]
 polymarketYes: 2.9
 polymarketNo: 97.1
-polymarketVolume: 980253
+polymarketVolume: 980417
 polymarketUrl: "https://polymarket.com/event/microstrategy-sells-any-bitcoin-by-june-30-2026"
 ---
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/microstrategy-sells-any-bitcoin-by-
 
 ### What are the current odds for "MicroStrategy sells any Bitcoin by June 30, 2026?"?
 
-As of April 18, 2026, Polymarket prices YES at 2.9%.
+As of April 19, 2026, Polymarket prices YES at 2.9%.
 
 ### Where can I trade on this prediction market?
 

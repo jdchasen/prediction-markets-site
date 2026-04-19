@@ -4,12 +4,12 @@ description: "Will the Miami Marlins win the 2026 World Series? Odds: 0.5% YES o
 marketQuestion: "Will the Miami Marlins win the 2026 World Series?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-04-18
+lastUpdated: 2026-04-19
 expiryDate: 2026-10-31
 tags: ["politics", "polymarket"]
 polymarketYes: 0.5
 polymarketNo: 99.5
-polymarketVolume: 98315
+polymarketVolume: 99236
 polymarketUrl: "https://polymarket.com/event/will-the-miami-marlins-win-the-2026-world-series"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-the-miami-marlins-win-the-2026
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.5% | 99.5% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.5% | 99.5% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Donald Trump Jr. win the 2028 US Presidential Election?](/odds/will-donald-trump-jr-win-the-2028-us-presidential-election) — 1% YES
-- [Kharg Island no longer under Iranian control by April 30?](/odds/kharg-island-no-longer-under-iranian-control-by-april-30) — 5% YES
-- [Will Laurent Wauquiez win the 2027 French presidential election?](/odds/will-laurent-wauquiez-win-the-2027-french-presidential-election) — 1% YES
+- [Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?](/odds/will-amanda-anisimova-be-the-2026-womens-wimbledon-winner) — 7% YES
+- [Will the Milwaukee Brewers win the 2026 World Series?](/odds/will-the-milwaukee-brewers-win-the-2026-world-series) — 3% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will the Miami Marlins win the 2026 World Series?"?
 
-As of April 18, 2026, Polymarket prices YES at 0.5%.
+As of April 19, 2026, Polymarket prices YES at 0.5%.
 
 ### Where can I trade on this prediction market?
 

@@ -3,8 +3,8 @@ title: "Will the People Power Party win 2 seats in South Korea’s June 3, 2026 
 description: "Will the People Power Party win 2 seats in South Korea’s June 3, 2026 parliamentary by-elections? Odds: 35.5% YES on Polymarket. See live prices and trade th..."
 marketQuestion: "Will the People Power Party win 2 seats in South Korea’s June 3, 2026 parliamentary by-elections?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-18
+status: "settled"
+lastUpdated: 2026-04-19
 expiryDate: 2026-06-03
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 35.5

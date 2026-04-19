@@ -3,8 +3,8 @@ title: "Will MrBeast's next video get between 25 and 30 million views on day 1?"
 description: "Will MrBeast's next video get between 25 and 30 million views on day 1? Odds: 3.3% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will MrBeast's next video get between 25 and 30 million views on day 1?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-18
+status: "settled"
+lastUpdated: 2026-04-19
 expiryDate: 2026-05-31
 tags: ["politics", "polymarket"]
 polymarketYes: 3.3

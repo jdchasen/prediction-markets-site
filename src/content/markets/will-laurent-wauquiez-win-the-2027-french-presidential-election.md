@@ -3,8 +3,8 @@ title: "Will Laurent Wauquiez win the 2027 French presidential election?"
 description: "Will Laurent Wauquiez win the 2027 French presidential election? Odds: 0.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Laurent Wauquiez win the 2027 French presidential election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-18
+status: "settled"
+lastUpdated: 2026-04-19
 expiryDate: 2027-04-30
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.7

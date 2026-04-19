@@ -4,12 +4,12 @@ description: "Will Everton finish in 3rd place in the 2025-26 English Premier Le
 marketQuestion: "Will Everton finish in 3rd place in the 2025-26 English Premier League?"
 category: "sports"
 status: "active"
-lastUpdated: 2026-04-18
+lastUpdated: 2026-04-19
 expiryDate: 2026-05-27
 tags: ["polymarket", "sports"]
 polymarketYes: 0.3
 polymarketNo: 99.7
-polymarketVolume: 99668
+polymarketVolume: 99697
 polymarketUrl: "https://polymarket.com/event/will-everton-finish-in-3rd-place-in-the-2025-26-english-premier-league"
 ---
 
@@ -21,15 +21,15 @@ polymarketUrl: "https://polymarket.com/event/will-everton-finish-in-3rd-place-in
 
 ## Related Markets
 
+- [Will the San Antonio Spurs win the NBA Western Conference Finals?](/odds/will-the-san-antonio-spurs-win-the-nba-western-conference-finals) — 21% YES
+- [Will Reuben Bain Jr. be the second pick in the 2026 NFL draft?](/odds/will-reuben-bain-jr-be-the-second-pick-in-the-2026-nfl-draft) — 0% YES
 - [Will West Ham be relegated from the English Premier League after the 2025–26 season?](/odds/will-west-ham-be-relegated-from-the-english-premier-league-after-the-202526-seas) — 34% YES
-- [Will DeAndre Hunter win the 2025–2026 NBA Sixth Man of the Year?](/odds/will-deandre-hunter-win-the-20252026-nba-sixth-man-of-the-year) — 0% YES
-- [Will Anthony Davis win the 2025–2026 NBA Clutch Player of the Year?](/odds/will-anthony-davis-win-the-20252026-nba-clutch-player-of-the-year) — 0% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Everton finish in 3rd place in the 2025-26 English Premier League?"?
 
-As of April 18, 2026, Polymarket prices YES at 0.3%.
+As of April 19, 2026, Polymarket prices YES at 0.3%.
 
 ### Where can I trade on this prediction market?
 

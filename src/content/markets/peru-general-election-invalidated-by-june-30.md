@@ -3,8 +3,8 @@ title: "Peru General Election invalidated by June 30?"
 description: "Peru General Election invalidated by June 30? Odds: 16.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Peru General Election invalidated by June 30?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-18
+status: "settled"
+lastUpdated: 2026-04-19
 expiryDate: 2026-06-30
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 16.0

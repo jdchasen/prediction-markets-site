@@ -3,8 +3,8 @@ title: "Kharg Island no longer under Iranian control by April 30?"
 description: "Kharg Island no longer under Iranian control by April 30? Odds: 4.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Kharg Island no longer under Iranian control by April 30?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-18
+status: "settled"
+lastUpdated: 2026-04-19
 expiryDate: 2026-04-30
 tags: ["politics", "polymarket"]
 polymarketYes: 4.7

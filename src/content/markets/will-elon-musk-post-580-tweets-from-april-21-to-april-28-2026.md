@@ -1,23 +1,23 @@
 ---
-title: "Will Elon Musk’s net worth be between $620b and $630b on April 30?"
-description: "Will Elon Musk’s net worth be between $620b and $630b on April 30? Odds: 8.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Elon Musk’s net worth be between $620b and $630b on April 30?"
+title: "Will Elon Musk post 580+ tweets from April 21 to April 28, 2026?"
+description: "Will Elon Musk post 580+ tweets from April 21 to April 28, 2026? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Elon Musk post 580+ tweets from April 21 to April 28, 2026?"
 category: "tech"
 status: "active"
 lastUpdated: 2026-04-19
-expiryDate: 2026-04-30
+expiryDate: 2026-04-28
 tags: ["polymarket", "tech"]
-polymarketYes: 8.5
-polymarketNo: 91.5
-polymarketVolume: 9846
-polymarketUrl: "https://polymarket.com/event/will-elon-musks-net-worth-be-between-620b-and-630b-on-april-30"
+polymarketYes: 0.1
+polymarketNo: 99.9
+polymarketVolume: 97516
+polymarketUrl: "https://polymarket.com/event/elon-musk-of-tweets-april-21-april-28-580plus"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 8.5% | 91.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.1% | 99.9% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-elon-musks-net-worth-be-betwee
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Elon Musk’s net worth be between $620b and $630b on April 30?"?
+### What are the current odds for "Will Elon Musk post 580+ tweets from April 21 to April 28, 2026?"?
 
-As of April 19, 2026, Polymarket prices YES at 8.5%.
+As of April 19, 2026, Polymarket prices YES at 0.1%.
 
 ### Where can I trade on this prediction market?
 
@@ -37,6 +37,6 @@ You can trade this market on [Polymarket](https://polymarket.us/1762?utm_source=
 
 ## Learn More
 
+- [Polymarket February 2026: Iran at 97%, $36M on Elon's Tweets](/blog/top-polymarket-markets-february-2026)
 - [Elon Musk Tweet Count Market: $36M in Bets](/blog/elon-musk-tweet-count-market-36m-in-bets)
-- [Will Oil Hit $100? March Crude Prediction Market Odds](/blog/will-oil-hit-100-march-crude-prediction-market-odds)
 

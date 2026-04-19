@@ -3,8 +3,8 @@ title: "Tallahassee: Clement Tabur vs Michael Mmoh"
 description: "Tallahassee: Clement Tabur vs Michael Mmoh Odds: 79.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Tallahassee: Clement Tabur vs Michael Mmoh"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-18
+status: "settled"
+lastUpdated: 2026-04-19
 expiryDate: 2026-04-25
 tags: ["politics", "polymarket"]
 polymarketYes: 79.0

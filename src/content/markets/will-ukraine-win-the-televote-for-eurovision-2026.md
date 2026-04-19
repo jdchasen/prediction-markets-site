@@ -3,8 +3,8 @@ title: "Will Ukraine win the televote for Eurovision 2026?"
 description: "Will Ukraine win the televote for Eurovision 2026? Odds: 4.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Ukraine win the televote for Eurovision 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-18
+status: "settled"
+lastUpdated: 2026-04-19
 expiryDate: 2026-05-16
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 4.9

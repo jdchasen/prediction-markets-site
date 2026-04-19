@@ -4,12 +4,12 @@ description: "USD.AI FDV above $6B one day after launch? Odds: 0.1% YES on Polym
 marketQuestion: "USD.AI FDV above $6B one day after launch?"
 category: "crypto"
 status: "active"
-lastUpdated: 2026-04-18
+lastUpdated: 2026-04-19
 expiryDate: 2027-01-01
 tags: ["ai", "crypto", "polymarket"]
 polymarketYes: 0.1
 polymarketNo: 99.9
-polymarketVolume: 97840
+polymarketVolume: 97967
 polymarketUrl: "https://polymarket.com/event/usdai-fdv-above-6b-one-day-after-launch-247-386-828-948-431-412-667-154"
 ---
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/usdai-fdv-above-6b-one-day-after-la
 
 ### What are the current odds for "USD.AI FDV above $6B one day after launch?"?
 
-As of April 18, 2026, Polymarket prices YES at 0.1%.
+As of April 19, 2026, Polymarket prices YES at 0.1%.
 
 ### Where can I trade on this prediction market?
 

@@ -1,15 +1,15 @@
 ---
 title: "Will Green Party win a mayorship in the 2026 United Kingdom local elections?"
-description: "Will Green Party win a mayorship in the 2026 United Kingdom local elections? Odds: 73.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Green Party win a mayorship in the 2026 United Kingdom local elections? Odds: 72.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Green Party win a mayorship in the 2026 United Kingdom local elections?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-04-18
+lastUpdated: 2026-04-19
 expiryDate: 2026-05-07
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 73.5
-polymarketNo: 26.5
-polymarketVolume: 9780
+polymarketYes: 72.5
+polymarketNo: 27.5
+polymarketVolume: 9956
 polymarketUrl: "https://polymarket.com/event/will-green-party-win-a-mayorship-in-the-2026-united-kingdom-local-elections"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-green-party-win-a-mayorship-in
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 73.5% | 26.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 72.5% | 27.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Donald Trump Jr. win the 2028 US Presidential Election?](/odds/will-donald-trump-jr-win-the-2028-us-presidential-election) — 1% YES
-- [Kharg Island no longer under Iranian control by April 30?](/odds/kharg-island-no-longer-under-iranian-control-by-april-30) — 5% YES
-- [Will Laurent Wauquiez win the 2027 French presidential election?](/odds/will-laurent-wauquiez-win-the-2027-french-presidential-election) — 1% YES
+- [Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?](/odds/will-amanda-anisimova-be-the-2026-womens-wimbledon-winner) — 7% YES
+- [Will the Milwaukee Brewers win the 2026 World Series?](/odds/will-the-milwaukee-brewers-win-the-2026-world-series) — 3% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Green Party win a mayorship in the 2026 United Kingdom local elections?"?
 
-As of April 18, 2026, Polymarket prices YES at 73.5%.
+As of April 19, 2026, Polymarket prices YES at 72.5%.
 
 ### Where can I trade on this prediction market?
 

@@ -3,8 +3,8 @@ title: "Trump renames Strait of Hormuz to \"Strait of Trump\" by May 31?"
 description: "Trump renames Strait of Hormuz to \"Strait of Trump\" by May 31? Odds: 5.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Trump renames Strait of Hormuz to \"Strait of Trump\" by May 31?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-18
+status: "settled"
+lastUpdated: 2026-04-19
 expiryDate: 2026-05-31
 tags: ["ai", "politics", "polymarket", "trump"]
 polymarketYes: 5.5

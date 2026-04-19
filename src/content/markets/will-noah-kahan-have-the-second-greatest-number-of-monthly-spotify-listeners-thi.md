@@ -4,11 +4,11 @@ description: "Will Noah Kahan have the second-greatest number of monthly Spotify
 marketQuestion: "Will Noah Kahan have the second-greatest number of monthly Spotify listeners this month?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-04-18
+lastUpdated: 2026-04-19
 expiryDate: 2026-04-30
 tags: ["politics", "polymarket"]
 polymarketYes: 0.4
-polymarketNo: 99.7
+polymarketNo: 99.6
 polymarketVolume: 9795
 polymarketUrl: "https://polymarket.com/event/will-noah-kahan-have-the-second-greatest-number-of-monthly-spotify-listeners-this-month-836"
 ---
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-noah-kahan-have-the-second-gre
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.4% | 99.7% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.4% | 99.6% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Donald Trump Jr. win the 2028 US Presidential Election?](/odds/will-donald-trump-jr-win-the-2028-us-presidential-election) — 1% YES
-- [Kharg Island no longer under Iranian control by April 30?](/odds/kharg-island-no-longer-under-iranian-control-by-april-30) — 5% YES
-- [Will Laurent Wauquiez win the 2027 French presidential election?](/odds/will-laurent-wauquiez-win-the-2027-french-presidential-election) — 1% YES
+- [Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?](/odds/will-amanda-anisimova-be-the-2026-womens-wimbledon-winner) — 7% YES
+- [Will the Milwaukee Brewers win the 2026 World Series?](/odds/will-the-milwaukee-brewers-win-the-2026-world-series) — 3% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Noah Kahan have the second-greatest number of monthly Spotify listeners this month?"?
 
-As of April 18, 2026, Polymarket prices YES at 0.4%.
+As of April 19, 2026, Polymarket prices YES at 0.4%.
 
 ### Where can I trade on this prediction market?
 

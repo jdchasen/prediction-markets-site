@@ -1,14 +1,14 @@
 ---
 title: "Will SpaceX’s IPO valuation be between 2.25T and 2.50T?"
-description: "Will SpaceX’s IPO valuation be between 2.25T and 2.50T? Odds: 2.9% YES on Polymarket. See live prices and trade this market."
+description: "Will SpaceX’s IPO valuation be between 2.25T and 2.50T? Odds: 2.3% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will SpaceX’s IPO valuation be between 2.25T and 2.50T?"
 category: "finance"
 status: "active"
-lastUpdated: 2026-04-18
+lastUpdated: 2026-04-19
 tags: ["finance", "polymarket"]
-polymarketYes: 2.9
-polymarketNo: 97.0
-polymarketVolume: 9746
+polymarketYes: 2.3
+polymarketNo: 97.7
+polymarketVolume: 9776
 polymarketUrl: "https://polymarket.com/event/will-spacexs-ipo-valuation-be-between-2pt25t-and-2pt50t"
 ---
 
@@ -16,7 +16,7 @@ polymarketUrl: "https://polymarket.com/event/will-spacexs-ipo-valuation-be-betwe
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 2.9% | 97.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 2.3% | 97.7% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -26,7 +26,7 @@ polymarketUrl: "https://polymarket.com/event/will-spacexs-ipo-valuation-be-betwe
 
 ### What are the current odds for "Will SpaceX’s IPO valuation be between 2.25T and 2.50T?"?
 
-As of April 18, 2026, Polymarket prices YES at 2.9%.
+As of April 19, 2026, Polymarket prices YES at 2.3%.
 
 ### Where can I trade on this prediction market?
 
