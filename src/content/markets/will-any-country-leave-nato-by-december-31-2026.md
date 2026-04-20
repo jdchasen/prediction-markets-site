@@ -1,17 +1,16 @@
 ---
 title: "Will any country leave NATO by December 31, 2026?"
-description: "Will any country leave NATO by December 31, 2026? Odds: 12.0% YES on Polymarket. See live prices and trade this market."
+description: "Will any country leave NATO by December 31, 2026? Odds: 11.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will any country leave NATO by December 31, 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-04-20
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 12.0
-polymarketNo: 88.0
-polymarketVolume: 97634
+polymarketYes: 11.5
+polymarketNo: 88.5
+polymarketVolume: 97751
 polymarketUrl: "https://polymarket.com/event/will-any-country-leave-nato-by-december-31-2026"
-analysisDate: 2026-04-20
 ---
 
 # NATO Departure Analysis

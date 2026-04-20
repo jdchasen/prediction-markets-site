@@ -9,9 +9,8 @@ expiryDate: 2027-01-01
 tags: ["bitcoin", "crypto", "polymarket"]
 polymarketYes: 2.1
 polymarketNo: 98.0
-polymarketVolume: 976457
+polymarketVolume: 979028
 polymarketUrl: "https://polymarket.com/event/will-bitcoin-reach-500000-by-december-31-2026-864"
-analysisDate: 2026-04-20
 ---
 
 The market assigns only a 2.1% probability to Bitcoin reaching $500,000 by end of 2026, reflecting extreme skepticism about a 5x appreciation from current levels around $100,000 within roughly two years. This matters because it represents the outer bounds of bull market expectations and serves as a barometer for institutional adoption optimism versus macroeconomic reality.

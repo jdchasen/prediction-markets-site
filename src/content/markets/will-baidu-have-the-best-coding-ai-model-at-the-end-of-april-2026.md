@@ -11,7 +11,6 @@ polymarketYes: 0.1
 polymarketNo: 100.0
 polymarketVolume: 9827
 polymarketUrl: "https://polymarket.com/event/will-baidu-have-the-best-coding-ai-model-at-the-end-of-april-2026"
-analysisDate: 2026-04-20
 ---
 
 # Baidu Coding AI Market Analysis

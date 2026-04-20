@@ -9,9 +9,8 @@ expiryDate: 2026-05-20
 tags: ["economics", "elections", "polymarket"]
 polymarketYes: 0.1
 polymarketNo: 99.9
-polymarketVolume: 9711
+polymarketVolume: 9713
 polymarketUrl: "https://polymarket.com/event/will-the-communist-party-of-india-cpi-win-the-most-seats-in-the-2026-assam-legislative-assembly-election"
-analysisDate: 2026-04-20
 ---
 
 # CPI's 2026 Assam Election Prospects: A Market Analysis

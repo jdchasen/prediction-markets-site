@@ -1,54 +1,54 @@
 ---
 title: "Will Iran strike Qatar by April 30, 2026?"
-description: "Will Iran strike Qatar by April 30, 2026? Odds: 26.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Iran strike Qatar by April 30, 2026? Odds: 17.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Iran strike Qatar by April 30, 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-04-20
 expiryDate: 2026-04-30
 tags: ["politics", "polymarket"]
-polymarketYes: 26.5
-polymarketNo: 73.5
-polymarketVolume: 98107
+polymarketYes: 17.5
+polymarketNo: 82.5
+polymarketVolume: 99408
 polymarketUrl: "https://polymarket.com/event/will-iran-strike-qatar-by-april-30-2026"
 analysisDate: 2026-04-20
 ---
 
-Prediction markets currently price a roughly one-in-four chance of Iranian military action against Qatar before May 2026, reflecting heightened regional tensions following the recent Israeli-Hamas conflict and Iran's expanding influence operations across the Persian Gulf. This probability matters because it signals real concerns about the breakdown of the 2017-2021 Qatar blockade détente and potential for broader Gulf instability that could disrupt global energy markets.
+The market pricing a 17.5% probability of an Iranian strike on Qatar within the next 14 months reflects exceptionally low but non-zero risk of a dramatic shift in Middle Eastern geopolitical alignment, particularly significant given Qatar's hosting of U.S. Central Command's forward headquarters at Al Udeid Air Base and its historic role as a mediator between Iran and Western powers.
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 26.5% | 73.5% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 17.5% | 82.5% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The bull case for an Iranian strike centers on Qatar's hosting of U.S. military installations at Al Udeid Air Base, which houses over 10,000 American troops and serves as the forward headquarters for U.S. Central Command. Iran has increasingly viewed Qatar's energy cooperation with international partners and its Al Jazeera network's coverage as threats to Tehran's regional narrative control. Any significant escalation between Iran and the U.S. or Israel could make Qatar's American military presence an irresistible target, particularly if Iran seeks to demonstrate capability without directly attacking U.S. or Israeli territory. Qatar's shared North Field/South Pars gas field with Iran creates both economic interdependence and potential friction points over extraction rights.
+The bull case centers on escalating regional tensions that could fracture the 2021 Saudi-Qatar rapprochement and push Iran toward aggressive action. If Qatar decisively pivots toward deeper security integration with Israel and Saudi Arabia—particularly through normalization agreements or hosting expanded Western military assets targeting Iranian interests—Tehran might view Doha as having crossed from neutral mediator to active adversary. Iran's April 2025 military exercises near the Strait of Hormuz and any significant Qatari involvement in strikes against Iranian proxies in Syria or Iraq would heighten this risk. The timeline extends through Iran's June 2025 presidential election cycle, where hardline leadership could adopt more confrontational postures to consolidate domestic support.
 
-The bear case emphasizes that Iran and Qatar have maintained pragmatic diplomatic relations, with Qatar serving as a valuable intermediary for Iranian interests in negotiations with Western powers. Striking Qatar would alienate one of Iran's few potential diplomatic channels in the Gulf and risk unifying the entire GCC against Tehran at a time when Saudi-Iranian relations have shown signs of normalization following their March 2023 China-brokered agreement. Iran's military doctrine typically favors proxy operations over direct state-to-state attacks, making a direct strike on Qatari territory inconsistent with historical patterns. The economic cost of disrupting the world's largest LNG exporter would trigger international responses that Iran's struggling economy cannot afford.
+The bear case, which current odds heavily favor, recognizes that Iran and Qatar maintain functional diplomatic and economic ties despite being on opposite sides of various regional conflicts. Qatar shares the South Pars/North Dome gas field with Iran, creating mutual economic incentives for stability. An overt military strike would invite immediate U.S. military response given Al Udeid's strategic importance, representing an existential threat to the Iranian regime that outweighs any conceivable benefit. Iran has historically preferred proxy warfare and covert operations over direct state-to-state attacks, making a conventional strike profoundly inconsistent with four decades of strategic doctrine.
 
-Key catalysts to monitor include the June 2025 Iranian presidential election dynamics, as hardline candidates may adopt more aggressive Gulf postures, and any renewal or collapse of nuclear negotiations scheduled throughout 2025. Watch for Iranian naval exercises in the Strait of Hormuz, typically announced 2-4 weeks in advance, and Qatar's defense procurement decisions, particularly any expansion of U.S. military presence. The January 2026 expiration of the temporary sanctions relief mechanisms will be critical, as Iranian economic pressure has historically correlated with more aggressive regional behavior. Any incidents involving Iranian drones or missiles near Qatari territorial waters would significantly move these odds upward.
+Key catalysts to monitor include the progress of any Saudi-Israel normalization framework (which Qatar might join), scheduled Gulf Cooperation Council summits in November 2025 and March 2026, and Iran's nuclear negotiations timeline. Any Qatari announcement of hosting Israeli diplomatic or military facilities would be the most significant risk indicator, while renewed Qatari mediation of Iran-West talks would push probabilities lower. Traders should watch for Iranian Revolutionary Guard Corps rhetoric specifically naming Qatar as a threat, which would represent a meaningful departure from current diplomatic posture.
 
 ## Related Markets
 
+- [Trump out as President by April 30?](/odds/trump-out-as-president-by-april-30) — 1% YES
 - [Will Ron DeSantis win the 2028 US Presidential Election?](/odds/will-ron-desantis-win-the-2028-us-presidential-election) — 2% YES
-- [Trump out as President by April 30?](/odds/trump-out-as-president-by-april-30) — 0% YES
 - [Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?](/odds/will-amanda-anisimova-be-the-2026-womens-wimbledon-winner) — 8% YES
 
 ## Frequently Asked Questions
 
-### Would an Iranian proxy attack through Houthi or Iraqi militias count as Iran striking Qatar for this market?
+### Would a limited missile strike or proxy attack on Qatari interests outside Qatar's borders count for this market resolution?
 
-This depends on market resolution criteria, but typically prediction markets require direct attribution to Iranian military forces rather than proxy actions. Traders should verify the specific resolution source's definition of what constitutes an "Iranian strike."
+This depends entirely on the market's specific resolution criteria, but typically these markets require direct military action against Qatari territory itself. Attacks on Qatari embassies, forces abroad, or via proxy groups usually wouldn't qualify unless explicitly stated in the terms.
 
-### How would a strike on Al Udeid Air Base be classified differently from a strike on Qatari civilian infrastructure?
+### How would Qatar's hosting of Al Udeid Air Base affect U.S. response to any Iranian aggression?
 
-Both would likely resolve the market as YES, though attacks on U.S. military installations might be framed by Iran as targeting American rather than Qatari assets. The market language focuses on strikes occurring in Qatar's territory regardless of the intended target.
+An Iranian strike on Qatar would almost certainly be treated as an attack on U.S. military infrastructure given Al Udeid hosts over 10,000 American personnel and serves as the forward headquarters for air operations across the Middle East, virtually guaranteeing immediate military retaliation that makes such an attack extremely costly for Iran.
 
-### What historical precedent exists for Iran conducting direct military strikes on Gulf Arab states?
+### What role does the shared Iran-Qatar gas field play in preventing military conflict between these countries?
 
-Iran has primarily relied on proxy forces and deniable operations, though the September 2019 attacks on Saudi Aramco facilities marked a significant escalation widely attributed to Iran despite official denials. Direct, acknowledged state-to-state strikes from Iranian territory remain rare in modern Iranian military strategy.
+The South Pars/North Dome field is the world's largest natural gas reservoir and provides crucial revenue for both nations, creating powerful economic disincentives for military confrontation that could disrupt extraction operations or invite international sanctions affecting energy exports from the disputed maritime zone.
 
 ## Learn More
 

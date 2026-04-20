@@ -1,16 +1,15 @@
 ---
 title: "Will the Republicans win the Kansas Senate race in 2026?"
-description: "Will the Republicans win the Kansas Senate race in 2026? Odds: 79.5% YES on Polymarket. See live prices and trade this market."
+description: "Will the Republicans win the Kansas Senate race in 2026? Odds: 82.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Republicans win the Kansas Senate race in 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-04-20
 tags: ["politics", "polymarket"]
-polymarketYes: 79.5
-polymarketNo: 20.5
-polymarketVolume: 9923
+polymarketYes: 82.0
+polymarketNo: 18.0
+polymarketVolume: 9946
 polymarketUrl: "https://polymarket.com/event/will-the-republicans-win-the-kansas-senate-race-in-2026"
-analysisDate: 2026-04-20
 ---
 
 # Kansas Senate 2026: Republican Stronghold Faces Emerging Democratic Pressure

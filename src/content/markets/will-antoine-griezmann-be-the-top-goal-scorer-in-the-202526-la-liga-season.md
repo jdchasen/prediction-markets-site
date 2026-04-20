@@ -9,9 +9,8 @@ expiryDate: 2026-05-30
 tags: ["politics", "polymarket"]
 polymarketYes: 0.1
 polymarketNo: 99.9
-polymarketVolume: 9864
+polymarketVolume: 9888
 polymarketUrl: "https://polymarket.com/event/will-antoine-griezmann-be-the-top-goal-scorer-in-the-202526-la-liga-season"
-analysisDate: 2026-04-20
 ---
 
 # Antoine Griezmann Top Scorer Market Analysis

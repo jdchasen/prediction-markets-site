@@ -11,7 +11,6 @@ polymarketYes: 1.7
 polymarketNo: 98.3
 polymarketVolume: 9994
 polymarketUrl: "https://polymarket.com/event/will-the-audemars-piguet-index-hit-44000-high-by-april-30"
-analysisDate: 2026-04-20
 ---
 
 # Analysis

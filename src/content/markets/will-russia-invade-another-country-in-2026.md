@@ -1,17 +1,16 @@
 ---
 title: "Will Russia invade another country in 2026?"
-description: "Will Russia invade another country in 2026? Odds: 13.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Russia invade another country in 2026? Odds: 12.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Russia invade another country in 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-04-20
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 13.5
-polymarketNo: 86.5
-polymarketVolume: 99122
+polymarketYes: 12.5
+polymarketNo: 87.5
+polymarketVolume: 99246
 polymarketUrl: "https://polymarket.com/event/will-russia-invade-another-country-in-2026"
-analysisDate: 2026-04-20
 ---
 
 The market pricing Russia's likelihood of invading another country in 2026 at roughly 1-in-7 odds reflects both Moscow's demonstrated willingness to use military force and the substantial constraints it currently faces from the Ukraine conflict. This matters because it signals trader expectations about European security stability and potential NATO Article 5 scenarios that could reshape global geopolitics.

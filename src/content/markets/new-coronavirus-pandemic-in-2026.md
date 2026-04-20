@@ -3,7 +3,7 @@ title: "New Coronavirus Pandemic in 2026?"
 description: "New Coronavirus Pandemic in 2026? Odds: 5.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "New Coronavirus Pandemic in 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-20
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]

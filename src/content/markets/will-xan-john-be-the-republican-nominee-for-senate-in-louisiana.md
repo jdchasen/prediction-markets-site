@@ -11,7 +11,6 @@ polymarketYes: 0.1
 polymarketNo: 99.9
 polymarketVolume: 9924
 polymarketUrl: "https://polymarket.com/event/will-xan-john-be-the-republican-nominee-for-senate-in-louisiana-555"
-analysisDate: 2026-04-20
 ---
 
 # Xan John Louisiana Republican Senate Nomination Analysis

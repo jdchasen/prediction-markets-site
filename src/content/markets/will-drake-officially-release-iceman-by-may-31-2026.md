@@ -3,7 +3,7 @@ title: "Will Drake officially release Iceman by May 31, 2026?"
 description: "Will Drake officially release Iceman by May 31, 2026? Odds: 63.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Drake officially release Iceman by May 31, 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-20
 expiryDate: 2026-04-30
 tags: ["politics", "polymarket"]

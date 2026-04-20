@@ -1,17 +1,16 @@
 ---
 title: "Will Ty Masterson win the 2026 Kansas Governor Republican primary election?"
-description: "Will Ty Masterson win the 2026 Kansas Governor Republican primary election? Odds: 40.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Ty Masterson win the 2026 Kansas Governor Republican primary election? Odds: 40.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Ty Masterson win the 2026 Kansas Governor Republican primary election?"
 category: "sports"
 status: "active"
 lastUpdated: 2026-04-20
 expiryDate: 2026-08-04
 tags: ["elections", "polymarket", "sports"]
-polymarketYes: 40.5
-polymarketNo: 59.5
+polymarketYes: 40.0
+polymarketNo: 60.0
 polymarketVolume: 9858
 polymarketUrl: "https://polymarket.com/event/will-ty-masterson-win-the-2026-kansas-governor-republican-primary-election"
-analysisDate: 2026-04-20
 ---
 
 # Analysis: Ty Masterson 2026 Kansas GOP Governor Primary

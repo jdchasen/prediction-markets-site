@@ -11,7 +11,6 @@ polymarketYes: 0.7
 polymarketNo: 99.4
 polymarketVolume: 9972
 polymarketUrl: "https://polymarket.com/event/will-ken-mcfeeters-win-the-2026-alabama-governor-republican-primary-election"
-analysisDate: 2026-04-20
 ---
 
 # Ken McFeeters 2026 Alabama Republican Primary Analysis

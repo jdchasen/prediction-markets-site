@@ -11,7 +11,6 @@ polymarketYes: 17.5
 polymarketNo: 82.5
 polymarketVolume: 9602
 polymarketUrl: "https://polymarket.com/event/bank-of-england-increases-interest-rates-after-june-2026-meeting"
-analysisDate: 2026-04-20
 ---
 
 # BoE Rate Hike Analysis: June 2026 Meeting

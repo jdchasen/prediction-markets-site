@@ -3,7 +3,7 @@ title: "Madrid Open, Qualification: Aleksandar Kovacevic vs Moez Echargui"
 description: "Madrid Open, Qualification: Aleksandar Kovacevic vs Moez Echargui Odds: 63.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Madrid Open, Qualification: Aleksandar Kovacevic vs Moez Echargui"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-20
 expiryDate: 2026-04-27
 tags: ["politics", "polymarket"]

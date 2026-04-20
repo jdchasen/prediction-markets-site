@@ -11,7 +11,6 @@ polymarketYes: 0.3
 polymarketNo: 99.7
 polymarketVolume: 9815
 polymarketUrl: "https://polymarket.com/event/will-noah-kahan-have-the-second-greatest-number-of-monthly-spotify-listeners-this-month-836"
-analysisDate: 2026-04-20
 ---
 
 # Noah Kahan Spotify Market Analysis

@@ -1,17 +1,16 @@
 ---
 title: "Bill Clinton divorce by June 30?"
-description: "Bill Clinton divorce by June 30? Odds: 2.3% YES on Polymarket. See live prices and trade this market."
+description: "Bill Clinton divorce by June 30? Odds: 2.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Bill Clinton divorce by June 30?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-04-20
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
-polymarketYes: 2.3
-polymarketNo: 97.7
+polymarketYes: 2.2
+polymarketNo: 97.8
 polymarketVolume: 97805
 polymarketUrl: "https://polymarket.com/event/bill-clinton-divorce-by-june-30"
-analysisDate: 2026-04-20
 ---
 
 # Bill Clinton Divorce Market Analysis

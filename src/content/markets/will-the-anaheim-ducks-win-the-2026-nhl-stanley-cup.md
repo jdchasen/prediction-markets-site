@@ -1,17 +1,16 @@
 ---
 title: "Will the Anaheim Ducks win the 2026 NHL Stanley Cup?"
-description: "Will the Anaheim Ducks win the 2026 NHL Stanley Cup? Odds: 1.4% YES on Polymarket. See live prices and trade this market."
+description: "Will the Anaheim Ducks win the 2026 NHL Stanley Cup? Odds: 1.3% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Anaheim Ducks win the 2026 NHL Stanley Cup?"
 category: "sports"
 status: "active"
 lastUpdated: 2026-04-20
 expiryDate: 2026-06-30
 tags: ["polymarket", "sports"]
-polymarketYes: 1.4
+polymarketYes: 1.3
 polymarketNo: 98.7
-polymarketVolume: 985521
+polymarketVolume: 990236
 polymarketUrl: "https://polymarket.com/event/will-the-anaheim-ducks-win-the-2026-nhl-stanley-cup"
-analysisDate: 2026-04-20
 ---
 
 The Anaheim Ducks face overwhelming odds as long-shot contenders for the 2026 Stanley Cup, currently trading at just 1.4% on Polymarket, reflecting their position as one of the NHL's rebuilding franchises with minimal playoff prospects over the next two seasons.

@@ -9,9 +9,8 @@ expiryDate: 2026-04-30
 tags: ["polymarket", "tech"]
 polymarketYes: 5.5
 polymarketNo: 94.5
-polymarketVolume: 9908
+polymarketVolume: 9912
 polymarketUrl: "https://polymarket.com/event/will-elon-musks-net-worth-be-between-620b-and-630b-on-april-30"
-analysisDate: 2026-04-20
 ---
 
 # Elon Musk Net Worth Prediction: April 2026

@@ -9,9 +9,8 @@ expiryDate: 2028-11-07
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 1.6
 polymarketNo: 98.5
-polymarketVolume: 9813694
+polymarketVolume: 9826323
 polymarketUrl: "https://polymarket.com/event/will-ron-desantis-win-the-2028-us-presidential-election"
-analysisDate: 2026-04-20
 ---
 
 Ron DeSantis currently trades at extreme long-shot odds for the 2028 presidency, reflecting deep skepticism about his political viability following his failed 2024 primary campaign where he withdrew before Super Tuesday despite raising over $150 million. The market prices in multiple layers of uncertainty: winning a Republican primary against likely front-runners, then defeating the Democratic nominee in a general election.

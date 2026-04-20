@@ -11,7 +11,6 @@ polymarketYes: 0.1
 polymarketNo: 99.9
 polymarketVolume: 9944
 polymarketUrl: "https://polymarket.com/event/will-maxx-crosby-play-for-los-angeles-rams-next"
-analysisDate: 2026-04-20
 ---
 
 # Market Analysis: Maxx Crosby and the Los Angeles Rams

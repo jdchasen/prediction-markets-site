@@ -9,9 +9,8 @@ expiryDate: 2027-01-01
 tags: ["crypto", "polymarket"]
 polymarketYes: 61.5
 polymarketNo: 38.5
-polymarketVolume: 9951
+polymarketVolume: 9991
 polymarketUrl: "https://polymarket.com/event/will-extended-launch-a-token-by-september-30-2026"
-analysisDate: 2026-04-20
 ---
 
 # Extended Token Launch Analysis

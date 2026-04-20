@@ -11,7 +11,6 @@ polymarketYes: 11.5
 polymarketNo: 88.5
 polymarketVolume: 9965
 polymarketUrl: "https://polymarket.com/event/will-tucker-carlson-announce-a-presidential-run-before-2027"
-analysisDate: 2026-04-20
 ---
 
 # Tucker Carlson Presidential Run: Market Analysis

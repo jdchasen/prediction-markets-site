@@ -3,7 +3,7 @@ title: "Will Everton finish in 3rd place in the 2025-26 English Premier League?"
 description: "Will Everton finish in 3rd place in the 2025-26 English Premier League? Odds: 0.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Everton finish in 3rd place in the 2025-26 English Premier League?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-20
 expiryDate: 2026-05-27
 tags: ["polymarket", "sports"]

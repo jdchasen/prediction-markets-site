@@ -1,17 +1,16 @@
 ---
 title: "Will Jack Thorne win the 2026 Fields Medal?"
-description: "Will Jack Thorne win the 2026 Fields Medal? Odds: 50.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Jack Thorne win the 2026 Fields Medal? Odds: 52.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Jack Thorne win the 2026 Fields Medal?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-04-20
 expiryDate: 2026-07-30
 tags: ["politics", "polymarket"]
-polymarketYes: 50.5
-polymarketNo: 49.5
-polymarketVolume: 99486
+polymarketYes: 52.0
+polymarketNo: 48.0
+polymarketVolume: 99600
 polymarketUrl: "https://polymarket.com/event/will-jack-thorne-win-the-2026-fields-medal"
-analysisDate: 2026-04-20
 ---
 
 This market is essentially dead on arrival as Jack Thorne is a British playwright and screenwriter, not a mathematician, making it categorically impossible for him to win the Fields Medal, which recognizes breakthrough mathematical achievements by researchers under 40.

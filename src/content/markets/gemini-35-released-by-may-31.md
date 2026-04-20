@@ -1,17 +1,16 @@
 ---
 title: "Gemini 3.5 released by May 31?"
-description: "Gemini 3.5 released by May 31? Odds: 8.4% YES on Polymarket. See live prices and trade this market."
+description: "Gemini 3.5 released by May 31? Odds: 7.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Gemini 3.5 released by May 31?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-04-20
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
-polymarketYes: 8.4
-polymarketNo: 91.6
-polymarketVolume: 99463
+polymarketYes: 7.4
+polymarketNo: 92.6
+polymarketVolume: 99604
 polymarketUrl: "https://polymarket.com/event/gemini-3pt5-released-by-may-31"
-analysisDate: 2026-04-20
 ---
 
 This market shows strong skepticism that Google will release Gemini 3.5 within the next two months, with traders pricing less than a one-in-ten chance of delivery by the May 31 deadline. The timing matters because Google is under intense pressure to demonstrate AI leadership against OpenAI's GPT-5 development and Anthropic's Claude improvements, making any major model release highly consequential for the competitive landscape.

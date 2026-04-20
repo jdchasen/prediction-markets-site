@@ -8,10 +8,9 @@ lastUpdated: 2026-04-20
 expiryDate: 2026-10-31
 tags: ["politics", "polymarket"]
 polymarketYes: 1.9
-polymarketNo: 98.1
-polymarketVolume: 985967
+polymarketNo: 98.0
+polymarketVolume: 987381
 polymarketUrl: "https://polymarket.com/event/will-the-houston-astros-win-the-2026-world-series"
-analysisDate: 2026-04-20
 ---
 
 The Astros currently sit at less than 2% to win the 2026 World Series, reflecting baseball's inherent competitive balance where no single team dominates prediction markets nearly two years before the championship, though this market appears miscategorized as politics rather than sports.

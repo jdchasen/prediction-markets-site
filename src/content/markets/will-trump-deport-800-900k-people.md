@@ -3,7 +3,7 @@ title: "Will Trump deport 800-900k people?"
 description: "Will Trump deport 800-900k people? Odds: 2.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Trump deport 800-900k people?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-20
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket", "trump"]

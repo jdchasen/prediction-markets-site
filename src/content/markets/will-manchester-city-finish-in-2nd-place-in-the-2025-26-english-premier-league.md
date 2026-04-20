@@ -3,7 +3,7 @@ title: "Will Manchester City finish in 2nd place in the 2025-26 English Premier 
 description: "Will Manchester City finish in 2nd place in the 2025-26 English Premier League? Odds: 42.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Manchester City finish in 2nd place in the 2025-26 English Premier League?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-20
 expiryDate: 2026-05-27
 tags: ["polymarket", "sports"]

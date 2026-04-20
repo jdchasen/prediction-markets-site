@@ -11,7 +11,6 @@ polymarketYes: 0.1
 polymarketNo: 100.0
 polymarketVolume: 99507
 polymarketUrl: "https://polymarket.com/event/elon-musk-of-tweets-april-2026-740-759"
-analysisDate: 2026-04-20
 ---
 
 This highly specific prediction on Elon Musk's tweeting behavior in April 2026 currently trades near zero, reflecting the extreme precision required—a narrow 20-tweet band more than two years out—making it essentially a lottery ticket on predicting human social media habits with pinpoint accuracy.

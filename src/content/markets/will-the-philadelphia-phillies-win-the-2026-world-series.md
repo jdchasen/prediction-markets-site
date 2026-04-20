@@ -9,9 +9,8 @@ expiryDate: 2026-10-31
 tags: ["politics", "polymarket"]
 polymarketYes: 3.5
 polymarketNo: 96.5
-polymarketVolume: 982901
+polymarketVolume: 984834
 polymarketUrl: "https://polymarket.com/event/will-the-philadelphia-phillies-win-the-2026-world-series"
-analysisDate: 2026-04-20
 ---
 
 The Phillies currently sit as a longshot at 3.5% to capture the 2026 World Series, reflecting their position as one of approximately 30 MLB teams competing for the championship but without the roster dominance that would make them a prohibitive favorite two years out.

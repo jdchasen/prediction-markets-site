@@ -1,17 +1,16 @@
 ---
 title: "Will XRP reach $1.80 in April?"
-description: "Will XRP reach $1.80 in April? Odds: 4.3% YES on Polymarket. See live prices and trade this market."
+description: "Will XRP reach $1.80 in April? Odds: 4.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will XRP reach $1.80 in April?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-04-20
 expiryDate: 2026-05-01
 tags: ["politics", "polymarket"]
-polymarketYes: 4.3
-polymarketNo: 95.7
-polymarketVolume: 97950
+polymarketYes: 4.5
+polymarketNo: 95.5
+polymarketVolume: 99985
 polymarketUrl: "https://polymarket.com/event/will-xrp-reach-1pt8-in-april-2026"
-analysisDate: 2026-04-20
 ---
 
 Polymarket traders are giving XRP only a 4.3% chance of reaching $1.80 in April, reflecting deep skepticism about a near-term rally for the cryptocurrency despite ongoing legal developments between Ripple and the SEC. This market matters because it captures sentiment around both crypto market dynamics and the resolution timeline of one of the industry's most watched regulatory battles.

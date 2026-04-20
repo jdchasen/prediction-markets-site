@@ -11,7 +11,6 @@ polymarketYes: 33.5
 polymarketNo: 66.5
 polymarketVolume: 9860
 polymarketUrl: "https://polymarket.com/event/will-carlos-alcaraz-be-the-2026-mens-wimbledon-winner"
-analysisDate: 2026-04-20
 ---
 
 # Wimbledon 2026: Alcaraz's Odds at a Critical Juncture
