@@ -3,8 +3,8 @@ title: "Will Plaid Cymru win the most seats in the 2026 Welsh Senedd election?"
 description: "Will Plaid Cymru win the most seats in the 2026 Welsh Senedd election? Odds: 83.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Plaid Cymru win the most seats in the 2026 Welsh Senedd election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-19
+status: "settled"
+lastUpdated: 2026-04-20
 expiryDate: 2026-05-07
 tags: ["ai", "elections", "politics", "polymarket"]
 polymarketYes: 83.0

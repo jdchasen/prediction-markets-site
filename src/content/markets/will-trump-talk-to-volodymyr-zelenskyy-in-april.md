@@ -3,8 +3,8 @@ title: "Will Trump talk to Volodymyr Zelenskyy in April?"
 description: "Will Trump talk to Volodymyr Zelenskyy in April? Odds: 24.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Trump talk to Volodymyr Zelenskyy in April?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-19
+status: "settled"
+lastUpdated: 2026-04-20
 expiryDate: 2026-04-30
 tags: ["politics", "polymarket", "trump"]
 polymarketYes: 24.0

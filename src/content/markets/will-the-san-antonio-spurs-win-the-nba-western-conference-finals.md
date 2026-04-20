@@ -3,8 +3,8 @@ title: "Will the San Antonio Spurs win the NBA Western Conference Finals?"
 description: "Will the San Antonio Spurs win the NBA Western Conference Finals? Odds: 18.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the San Antonio Spurs win the NBA Western Conference Finals?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-04-19
+status: "settled"
+lastUpdated: 2026-04-20
 expiryDate: 2026-06-16
 tags: ["polymarket", "sports"]
 polymarketYes: 18.9

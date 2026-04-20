@@ -3,8 +3,8 @@ title: "Will Moonshot have the best AI model at the end of April 2026?"
 description: "Will Moonshot have the best AI model at the end of April 2026? Odds: 2.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Moonshot have the best AI model at the end of April 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-19
+status: "settled"
+lastUpdated: 2026-04-20
 expiryDate: 2026-04-30
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 2.2

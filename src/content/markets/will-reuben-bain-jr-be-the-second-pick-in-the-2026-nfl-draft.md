@@ -3,8 +3,8 @@ title: "Will Reuben Bain Jr. be the second pick in the 2026 NFL draft?"
 description: "Will Reuben Bain Jr. be the second pick in the 2026 NFL draft? Odds: 0.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Reuben Bain Jr. be the second pick in the 2026 NFL draft?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-04-19
+status: "settled"
+lastUpdated: 2026-04-20
 expiryDate: 2026-04-23
 tags: ["ai", "polymarket", "sports"]
 polymarketYes: 0.7

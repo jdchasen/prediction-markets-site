@@ -3,8 +3,8 @@ title: "Will Mikel Oyarzabal be the top goal scorer in the 2025–26 La Liga sea
 description: "Will Mikel Oyarzabal be the top goal scorer in the 2025–26 La Liga season? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Mikel Oyarzabal be the top goal scorer in the 2025–26 La Liga season?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-19
+status: "settled"
+lastUpdated: 2026-04-20
 expiryDate: 2026-05-30
 tags: ["politics", "polymarket"]
 polymarketYes: 0.1

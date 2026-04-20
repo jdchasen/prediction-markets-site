@@ -3,8 +3,8 @@ title: "Will the Republican Party win the FL-25 House seat?"
 description: "Will the Republican Party win the FL-25 House seat? Odds: 32.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Republican Party win the FL-25 House seat?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-19
+status: "settled"
+lastUpdated: 2026-04-20
 expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
 polymarketYes: 32.5

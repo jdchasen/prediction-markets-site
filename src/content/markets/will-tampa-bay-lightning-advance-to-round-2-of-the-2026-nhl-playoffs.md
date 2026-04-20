@@ -3,8 +3,8 @@ title: "Will Tampa Bay Lightning advance to Round 2 of the 2026 NHL Playoffs?"
 description: "Will Tampa Bay Lightning advance to Round 2 of the 2026 NHL Playoffs? Odds: 71.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Tampa Bay Lightning advance to Round 2 of the 2026 NHL Playoffs?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-04-19
+status: "settled"
+lastUpdated: 2026-04-20
 expiryDate: 2026-05-05
 tags: ["polymarket", "sports"]
 polymarketYes: 71.0

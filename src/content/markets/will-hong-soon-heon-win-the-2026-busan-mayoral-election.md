@@ -3,8 +3,8 @@ title: "Will Hong Soon-heon win the 2026 Busan Mayoral Election?"
 description: "Will Hong Soon-heon win the 2026 Busan Mayoral Election? Odds: 0.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Hong Soon-heon win the 2026 Busan Mayoral Election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-19
+status: "settled"
+lastUpdated: 2026-04-20
 expiryDate: 2026-06-03
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.2

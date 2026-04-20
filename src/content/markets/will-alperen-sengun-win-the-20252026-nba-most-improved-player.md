@@ -3,8 +3,8 @@ title: "Will Alperen Sengun win the 2025–2026 NBA Most Improved Player?"
 description: "Will Alperen Sengun win the 2025–2026 NBA Most Improved Player? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Alperen Sengun win the 2025–2026 NBA Most Improved Player?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-04-19
+status: "settled"
+lastUpdated: 2026-04-20
 expiryDate: 2026-06-30
 tags: ["polymarket", "sports"]
 polymarketYes: 0.1

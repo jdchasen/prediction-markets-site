@@ -3,8 +3,8 @@ title: "Will Half-Life 3 be announced before 2027?"
 description: "Will Half-Life 3 be announced before 2027? Odds: 57.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Half-Life 3 be announced before 2027?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-19
+status: "settled"
+lastUpdated: 2026-04-20
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 57.5
