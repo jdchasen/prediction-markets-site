@@ -11,7 +11,6 @@ polymarketYes: 10.5
 polymarketNo: 89.5
 polymarketVolume: 9882
 polymarketUrl: "https://polymarket.com/event/amouranth-divorced-by-june-30"
-analysisDate: 2026-04-21
 ---
 
 # Amouranth Divorce Market Analysis

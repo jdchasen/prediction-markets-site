@@ -9,9 +9,8 @@ expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
 polymarketYes: 0.5
 polymarketNo: 99.5
-polymarketVolume: 977945
+polymarketVolume: 980748
 polymarketUrl: "https://polymarket.com/event/2026-balance-of-power-other-131"
-analysisDate: 2026-04-21
 ---
 
 The market pricing a third-party or independent majority in Congress at just 0.5% reflects the near-impossibility of breaking the two-party duopoly under the current U.S. electoral system, though recent political volatility and third-party activism make this worth monitoring as a tail-risk scenario. This would require either a massive independent wave election or significant party defections creating a new plurality coalition—both historically unprecedented outcomes in modern American politics.

@@ -1,17 +1,16 @@
 ---
 title: "MicroStrategy sells any Bitcoin by June 30, 2026?"
-description: "MicroStrategy sells any Bitcoin by June 30, 2026? Odds: 2.6% YES on Polymarket. See live prices and trade this market."
+description: "MicroStrategy sells any Bitcoin by June 30, 2026? Odds: 2.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "MicroStrategy sells any Bitcoin by June 30, 2026?"
 category: "crypto"
 status: "active"
 lastUpdated: 2026-04-21
 expiryDate: 2026-07-01
 tags: ["bitcoin", "crypto", "polymarket"]
-polymarketYes: 2.6
-polymarketNo: 97.4
-polymarketVolume: 984727
+polymarketYes: 2.8
+polymarketNo: 97.2
+polymarketVolume: 984739
 polymarketUrl: "https://polymarket.com/event/microstrategy-sells-any-bitcoin-by-june-30-2026"
-analysisDate: 2026-04-21
 ---
 
 The market pricing MicroStrategy's potential Bitcoin sale at just 2.6% reflects overwhelming trader conviction that the company will maintain its aggressive accumulation strategy through mid-2026, given CEO Michael Saylor's unwavering conviction and the firm's transformation into a de facto Bitcoin treasury company. This matters because MicroStrategy holds approximately 214,000 BTC (as of late 2024), making any reversal of their strategy a significant market-moving event that could signal broader institutional retreat from Bitcoin exposure.

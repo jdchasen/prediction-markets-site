@@ -11,7 +11,6 @@ polymarketYes: 15.0
 polymarketNo: 85.0
 polymarketVolume: 9775
 polymarketUrl: "https://polymarket.com/event/will-october-be-the-best-month-for-bitcoin-in-2026"
-analysisDate: 2026-04-21
 ---
 
 # Bitcoin's October 2026 Performance: A 15% Probability Market

@@ -1,56 +1,54 @@
 ---
 title: "Will no listed leader be out before 2027?"
-description: "Will no listed leader be out before 2027? Odds: 1.5% YES on Polymarket. See live prices and trade this market."
+description: "Will no listed leader be out before 2027? Odds: 0.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will no listed leader be out before 2027?"
 category: "politics"
-status: "settled"
-lastUpdated: 2026-03-27
+status: "active"
+lastUpdated: 2026-04-21
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 1.5
-polymarketNo: 98.5
-polymarketVolume: 9905
+polymarketYes: 0.9
+polymarketNo: 99.2
+polymarketVolume: 98763
 polymarketUrl: "https://polymarket.com/event/will-no-listed-leader-be-out-before-2027-257"
-analysisDate: 2026-03-26
+analysisDate: 2026-04-21
 ---
 
-# Prediction Market Analysis: Listed Leader Removal Before 2027
+This market is trading at extreme pessimism about world leader stability through 2027, with traders assigning only a 0.9% chance that all currently listed national leaders remain in power through the end of 2026. The question matters because it reflects expectations around global political volatility during a period that includes the 2024 U.S. presidential transition, multiple European elections, and potential leadership changes in major economies.
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 1.5% | 98.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.9% | 99.2% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The market is pricing in an extremely low probability that any major political leader remains in office through end-2026, reflecting strong confidence in institutional stability across democracies despite significant political turbulence. At 1.5% YES, traders are betting heavily that current leaders—whether through elections, resignations, or removal—will experience natural transitions rather than forced departures before the deadline. This matters because it reveals how markets assess political risk in developed nations versus the perception of such risk in broader discourse.
+The bear case, which dominates current pricing, rests on simple probability mathematics and historical precedent. With dozens of world leaders on the presumed list, the compound probability that none face removal through election defeat, resignation, coup, death, or other causes over a 2-3 year period approaches zero. France faces legislative uncertainty under Macron through 2027, the UK must hold elections by January 2025, Germany's coalition remains fragile ahead of likely 2025 elections, and Canada's Trudeau faces declining polling numbers with an election due by October 2025. Leaders in less stable regions including Latin America, Africa, and parts of Asia face even higher turnover risks. Health issues alone create substantial risk for aging leaders, while economic pressures from inflation and potential recession could topple multiple governments.
 
-The bull case for YES hinges on several acceleration vectors. The UK faces potential Labour government instability if Starmer's coalition falters before 2026, particularly if economic conditions deteriorate sharply or major scandals emerge—his polling has already softened considerably from 2024 peaks. France could see Macron's weakened position exploited through legislative dysfunction or constitutional crisis, especially if Le Pen's party gains additional seats in snap elections. Germany faces coalition fragility with the SPD-Green-FDP arrangement vulnerable to economic shocks. The US House could theoretically impeach and remove Biden or a successor, though this requires 67 Senate votes—an extremely high bar but technically possible if party dynamics shift dramatically. These scenarios remain individually unlikely but collectively plausible within a 2-year window.
+The bull case requires an exceptionally narrow interpretation of the market's terms—perhaps only a handful of leaders from highly stable democracies qualify as "listed," dramatically improving the odds that all survive their terms. If the list includes only leaders like Biden's successor (inaugurated January 2025), Macron (term through 2027), and a few other entrenched figures in stable systems, the probability shifts considerably. This interpretation depends entirely on which leaders the market creator designated as relevant.
 
-The bear case is structurally dominant. Democratic elections and constitutional processes are built precisely to manage leadership transitions predictably; forced removal outside elections is rare in OECD nations. Most "listed leaders" (interpreting this as heads of government in major democracies) face scheduled elections or constitutional term limits that will naturally rotate them out—these are features, not bugs. Biden faces 2024 election mechanics, European leaders face known election dates (UK by January 2025, Germany by September 2025, France by 2027). The 1.5% odds already price in tail risks like health crises, scandal-driven resignations, or constitutional breakdowns; traders would require extraordinary evidence to push YES higher. Removal mechanisms exist but are deliberately difficult to trigger.
-
-Key catalysts include the 2024 US election results and any post-election stability tests; European economic data through 2025 that could trigger coalition collapses; any major health events affecting sitting leaders; and the 2025 German election outcome. Traders should monitor European bond spreads as proxies for political instability, UK polling as indicators of Starmer durability, and any constitutional crises in France following legislative gridlock. The extremely low odds suggest this market has efficiently priced in baseline political risk; movement toward YES would signal either genuine regime instability or changes to how "listed leader" gets defined in dispute resolution.
+Key catalysts include the UK general election (must occur by January 2025), German federal elections (likely September 2025), Canadian federal election (by October 2025), and French legislative dynamics throughout 2025-2026. Traders should monitor coalition stability in Germany where the SPD-Green-FDP government shows strain, Trudeau's approval ratings which recently hit historic lows in multiple polls, and any major geopolitical shocks that could trigger early elections or leadership changes. The market's resolution hinges entirely on the specific list of leaders designated at market creation, making clarification of those terms the most critical factor for evaluation.
 
 ## Related Markets
 
-- [Will China invade Taiwan by March 31, 2026?](/odds/will-china-invade-taiwan-by-march-31-2026) — 0% YES
-- [Fact Check: Maduro capture staged?](/odds/fact-check-maduro-capture-staged) — 0% YES
-- [Will Clémentine Autain win the 2027 French presidential election?](/odds/will-clmentine-autain-win-the-2027-french-presidential-election) — 0% YES
+- [Will Ron DeSantis win the 2028 US Presidential Election?](/odds/will-ron-desantis-win-the-2028-us-presidential-election) — 2% YES
+- [Will Alibaba have the best AI model at the end of April 2026?](/odds/will-alibaba-have-the-best-ai-model-at-the-end-of-april-2026) — 0% YES
+- [Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?](/odds/will-amanda-anisimova-be-the-2026-womens-wimbledon-winner) — 8% YES
 
 ## Frequently Asked Questions
 
-### Does this market resolve YES if a leader is voted out in a scheduled election, or only for forced removal?
+### Which leaders are likely included in the "listed" group for this market?
 
-Resolution language is critical here—typically "out before 2027" includes electoral defeat, which is virtually certain for multiple leaders given scheduled election dates, so the market definition likely specifies removal/resignation outside normal electoral processes to remain viable.
+The specific list determines everything but likely includes G7 and G20 heads of government at minimum. Clarifying whether it includes only current leaders or those who take office during the period is essential for proper evaluation.
 
-### How does the market account for the possibility of unexpected resignations like Sunak, Truss, or Johnson experienced?
+### Does a scheduled election loss count as being "out" for this market?
 
-Those resignations occurred within brief windows during specific political crises; the market is pricing resignation risk as real but low-probability over a 24-month span, especially given current leaders have stabilized (Starmer, Macron, etc.) beyond the crisis points their predecessors faced.
+Yes, a leader leaving office through any means including democratic elections, resignation, death, or removal counts as being "out." The 0.9% odds reflect that scheduled elections alone in the UK, Canada, and Germany make the YES outcome nearly impossible.
 
-### What would be a concrete event that would move this market toward 50%+?
+### What's the most likely way this market resolves to NO?
 
-A major geopolitical event causing constitutional emergency (military coup attempt, invasion requiring emergency powers), widespread civil
+Given confirmed elections in the UK (by January 2025) and Canada (by October 2025), either a Conservative victory over Labour in the UK or a Liberal defeat in Canada would almost certainly trigger resolution to NO well before the December 2026 deadline.
 
 ## Learn More
 

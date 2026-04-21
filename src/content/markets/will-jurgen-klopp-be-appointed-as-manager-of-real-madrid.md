@@ -9,9 +9,8 @@ expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 12.0
 polymarketNo: 88.0
-polymarketVolume: 9778
+polymarketVolume: 9780
 polymarketUrl: "https://polymarket.com/event/will-jurgen-klopp-be-appointed-as-manager-of-real-madrid"
-analysisDate: 2026-04-21
 ---
 
 # Klopp to Real Madrid Market Analysis

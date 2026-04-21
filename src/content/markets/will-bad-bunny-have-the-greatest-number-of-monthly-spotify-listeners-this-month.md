@@ -1,17 +1,16 @@
 ---
 title: "Will Bad Bunny have the greatest number of monthly Spotify listeners this month?"
-description: "Will Bad Bunny have the greatest number of monthly Spotify listeners this month? Odds: 0.9% YES on Polymarket. See live prices and trade this market."
+description: "Will Bad Bunny have the greatest number of monthly Spotify listeners this month? Odds: 0.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Bad Bunny have the greatest number of monthly Spotify listeners this month?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-04-21
 expiryDate: 2026-04-30
 tags: ["politics", "polymarket"]
-polymarketYes: 0.9
-polymarketNo: 99.1
-polymarketVolume: 99202
+polymarketYes: 0.7
+polymarketNo: 99.3
+polymarketVolume: 99405
 polymarketUrl: "https://polymarket.com/event/will-bad-bunny-have-the-greatest-number-of-monthly-spotify-listeners-this-month-169"
-analysisDate: 2026-04-21
 ---
 
 The market gives Bad Bunny less than 1% odds of leading Spotify's monthly listener count in April 2026, reflecting extreme skepticism that the Puerto Rican artist can overcome the platform's current dominant forces over a year from now.

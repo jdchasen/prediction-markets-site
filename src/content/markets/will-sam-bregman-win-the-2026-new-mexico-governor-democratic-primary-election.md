@@ -9,9 +9,8 @@ expiryDate: 2026-06-02
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 21.5
 polymarketNo: 78.5
-polymarketVolume: 9812
+polymarketVolume: 9869
 polymarketUrl: "https://polymarket.com/event/will-sam-bregman-win-the-2026-new-mexico-governor-democratic-primary-election"
-analysisDate: 2026-04-21
 ---
 
 # Sam Bregman 2026 New Mexico Democratic Primary Analysis

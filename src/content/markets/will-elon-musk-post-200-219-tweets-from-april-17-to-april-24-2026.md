@@ -3,7 +3,7 @@ title: "Will Elon Musk post 200-219 tweets from April 17 to April 24, 2026?"
 description: "Will Elon Musk post 200-219 tweets from April 17 to April 24, 2026? Odds: 22.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Elon Musk post 200-219 tweets from April 17 to April 24, 2026?"
 category: "tech"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-21
 expiryDate: 2026-04-24
 tags: ["polymarket", "tech"]

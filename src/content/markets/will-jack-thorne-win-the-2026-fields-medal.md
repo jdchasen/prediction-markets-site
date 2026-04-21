@@ -1,17 +1,16 @@
 ---
 title: "Will Jack Thorne win the 2026 Fields Medal?"
-description: "Will Jack Thorne win the 2026 Fields Medal? Odds: 54.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Jack Thorne win the 2026 Fields Medal? Odds: 54.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Jack Thorne win the 2026 Fields Medal?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-04-21
 expiryDate: 2026-07-30
 tags: ["politics", "polymarket"]
-polymarketYes: 54.5
-polymarketNo: 45.5
-polymarketVolume: 99714
+polymarketYes: 54.0
+polymarketNo: 46.0
+polymarketVolume: 99733
 polymarketUrl: "https://polymarket.com/event/will-jack-thorne-win-the-2026-fields-medal"
-analysisDate: 2026-04-21
 ---
 
 This market probes whether Jack Thorne will receive mathematics' highest honor by mid-2026, with traders currently pricing slightly better than even odds despite significant uncertainty around the candidate's identity and qualifications. The Fields Medal is awarded every four years to mathematicians under 40 for outstanding discoveries, making this a highly specialized bet that appears miscategorized as politics rather than science or academia.

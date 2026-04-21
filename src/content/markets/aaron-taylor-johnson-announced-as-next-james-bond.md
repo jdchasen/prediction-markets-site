@@ -11,7 +11,6 @@ polymarketYes: 3.1
 polymarketNo: 96.9
 polymarketVolume: 99828
 polymarketUrl: "https://polymarket.com/event/aaron-taylor-johnson-announced-as-next-james-bond"
-analysisDate: 2026-04-21
 ---
 
 Traders are pricing in only a 3% chance that Aaron Taylor-Johnson will be officially announced as the next James Bond by June 2026, reflecting deep uncertainty around EON Productions' notoriously secretive casting process and the long timeline before Bond 26 enters production.

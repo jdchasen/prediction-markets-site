@@ -8,10 +8,9 @@ lastUpdated: 2026-04-21
 expiryDate: 2026-05-28
 tags: ["politics", "polymarket"]
 polymarketYes: 0.1
-polymarketNo: 99.9
+polymarketNo: 100.0
 polymarketVolume: 9821
 polymarketUrl: "https://polymarket.com/event/will-jonas-wind-be-the-top-goal-scorer-in-the-202526-bundesliga-season"
-analysisDate: 2026-04-21
 ---
 
 **Market Status and Context**

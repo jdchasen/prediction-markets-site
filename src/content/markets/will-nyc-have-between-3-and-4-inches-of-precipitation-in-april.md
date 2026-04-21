@@ -1,17 +1,16 @@
 ---
 title: "Will NYC have between 3 and 4 inches of precipitation in April?"
-description: "Will NYC have between 3 and 4 inches of precipitation in April? Odds: 7.0% YES on Polymarket. See live prices and trade this market."
+description: "Will NYC have between 3 and 4 inches of precipitation in April? Odds: 10.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will NYC have between 3 and 4 inches of precipitation in April?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-04-21
 expiryDate: 2026-04-30
 tags: ["politics", "polymarket"]
-polymarketYes: 7.0
-polymarketNo: 93.0
-polymarketVolume: 9863
+polymarketYes: 10.9
+polymarketNo: 89.0
+polymarketVolume: 9912
 polymarketUrl: "https://polymarket.com/event/will-nyc-have-between-3-and-4-inches-of-precipitation-in-april"
-analysisDate: 2026-04-21
 ---
 
 # NYC April Precipitation Market Analysis

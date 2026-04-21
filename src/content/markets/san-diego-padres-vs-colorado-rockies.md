@@ -3,7 +3,7 @@ title: "San Diego Padres vs. Colorado Rockies"
 description: "San Diego Padres vs. Colorado Rockies Odds: 57.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "San Diego Padres vs. Colorado Rockies"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-21
 expiryDate: 2026-04-29
 tags: ["politics", "polymarket"]

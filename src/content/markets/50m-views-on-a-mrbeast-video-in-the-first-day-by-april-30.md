@@ -3,7 +3,7 @@ title: "50m views on a MrBeast video in the first day by April 30?"
 description: "50m views on a MrBeast video in the first day by April 30? Odds: 0.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "50m views on a MrBeast video in the first day by April 30?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-21
 expiryDate: 2026-04-30
 tags: ["politics", "polymarket"]

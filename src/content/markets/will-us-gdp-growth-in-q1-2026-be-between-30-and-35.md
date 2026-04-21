@@ -9,9 +9,8 @@ expiryDate: 2026-04-30
 tags: ["economics", "polymarket"]
 polymarketYes: 6.2
 polymarketNo: 93.8
-polymarketVolume: 95379
+polymarketVolume: 95866
 polymarketUrl: "https://polymarket.com/event/will-us-gdp-growth-in-q1-2026-be-between-3pt0-and-3pt5"
-analysisDate: 2026-04-21
 ---
 
 # Q1 2026 GDP Growth Prediction Market Analysis

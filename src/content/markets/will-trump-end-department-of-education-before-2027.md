@@ -11,7 +11,6 @@ polymarketYes: 3.3
 polymarketNo: 96.7
 polymarketVolume: 9791
 polymarketUrl: "https://polymarket.com/event/will-trump-end-department-of-education-before-2027"
-analysisDate: 2026-04-21
 ---
 
 # Trump Department of Education Market Analysis

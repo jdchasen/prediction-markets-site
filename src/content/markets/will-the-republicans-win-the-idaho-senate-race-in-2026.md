@@ -3,7 +3,7 @@ title: "Will the Republicans win the Idaho Senate race in 2026?"
 description: "Will the Republicans win the Idaho Senate race in 2026? Odds: 90.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Republicans win the Idaho Senate race in 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-21
 tags: ["politics", "polymarket"]
 polymarketYes: 90.5

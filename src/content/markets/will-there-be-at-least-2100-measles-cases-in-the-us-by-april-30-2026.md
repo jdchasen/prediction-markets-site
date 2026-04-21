@@ -8,10 +8,9 @@ lastUpdated: 2026-04-21
 expiryDate: 2026-04-30
 tags: ["politics", "polymarket"]
 polymarketYes: 0.7
-polymarketNo: 99.4
-polymarketVolume: 9744
+polymarketNo: 99.3
+polymarketVolume: 9897
 polymarketUrl: "https://polymarket.com/event/will-there-be-at-least-2100-measles-cases-in-the-us-by-april-30-2026-929-391-369-786-998"
-analysisDate: 2026-04-21
 ---
 
 # Measles Case Prediction Market Analysis

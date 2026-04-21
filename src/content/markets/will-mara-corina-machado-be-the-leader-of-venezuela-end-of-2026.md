@@ -1,17 +1,16 @@
 ---
 title: "Will María Corina Machado be the leader of Venezuela end of 2026?"
-description: "Will María Corina Machado be the leader of Venezuela end of 2026? Odds: 9.0% YES on Polymarket. See live prices and trade this market."
+description: "Will María Corina Machado be the leader of Venezuela end of 2026? Odds: 10.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will María Corina Machado be the leader of Venezuela end of 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-04-21
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 9.0
-polymarketNo: 91.0
-polymarketVolume: 986864
+polymarketYes: 10.0
+polymarketNo: 90.0
+polymarketVolume: 989896
 polymarketUrl: "https://polymarket.com/event/will-mara-corina-machado-be-the-leader-of-venezuela-end-of-2026"
-analysisDate: 2026-04-21
 ---
 
 The prediction market assigns less than a 10% probability to María Corina Machado leading Venezuela by the end of 2026, reflecting the extreme difficulty of displacing the entrenched Maduro regime despite her legitimate claim to victory in the 2024 presidential election.

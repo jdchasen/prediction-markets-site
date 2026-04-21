@@ -1,17 +1,16 @@
 ---
 title: "Will the Philadelphia Phillies win the 2026 World Series?"
-description: "Will the Philadelphia Phillies win the 2026 World Series? Odds: 3.0% YES on Polymarket. See live prices and trade this market."
+description: "Will the Philadelphia Phillies win the 2026 World Series? Odds: 3.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Philadelphia Phillies win the 2026 World Series?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-04-21
 expiryDate: 2026-10-31
 tags: ["politics", "polymarket"]
-polymarketYes: 3.0
-polymarketNo: 97.0
-polymarketVolume: 990764
+polymarketYes: 3.1
+polymarketNo: 96.9
+polymarketVolume: 993498
 polymarketUrl: "https://polymarket.com/event/will-the-philadelphia-phillies-win-the-2026-world-series"
-analysisDate: 2026-04-21
 ---
 
 The Phillies currently sit as extreme long shots to win the 2026 World Series at 3% probability, reflecting both the competitive nature of MLB playoffs and Philadelphia's uncertain medium-term outlook nearly two years before the event.

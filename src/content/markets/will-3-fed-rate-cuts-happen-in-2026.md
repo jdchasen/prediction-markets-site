@@ -9,9 +9,8 @@ expiryDate: 2026-12-31
 tags: ["economics", "federal-reserve", "interest-rates", "polymarket"]
 polymarketYes: 7.5
 polymarketNo: 92.5
-polymarketVolume: 950893
+polymarketVolume: 952439
 polymarketUrl: "https://polymarket.com/event/will-3-fed-rate-cuts-happen-in-2026"
-analysisDate: 2026-04-21
 ---
 
 The market strongly suggests traders see minimal chance of three Federal Reserve rate cuts materializing in 2026, reflecting expectations that inflation will remain sticky or economic conditions won't deteriorate enough to justify aggressive easing. This matters because it signals divergence from the typical rate cut cycle pattern and suggests the Fed's higher-for-longer stance may extend well into 2026.

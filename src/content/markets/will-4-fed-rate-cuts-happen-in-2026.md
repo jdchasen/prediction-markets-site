@@ -9,9 +9,8 @@ expiryDate: 2026-12-31
 tags: ["economics", "federal-reserve", "interest-rates", "polymarket"]
 polymarketYes: 3.9
 polymarketNo: 96.1
-polymarketVolume: 984512
+polymarketVolume: 986336
 polymarketUrl: "https://polymarket.com/event/will-4-fed-rate-cuts-happen-in-2026"
-analysisDate: 2026-04-21
 ---
 
 The market assigns minimal probability to four Fed rate cuts in 2026, reflecting expectations that inflation will remain sticky and the labor market resilient enough to prevent aggressive monetary easing. This matters because it signals traders believe the Fed's higher-for-longer stance will extend well into 2026, contradicting any hopes for a return to the ultra-low rate environment of the early 2020s.

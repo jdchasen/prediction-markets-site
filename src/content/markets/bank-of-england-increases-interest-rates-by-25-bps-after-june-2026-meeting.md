@@ -11,7 +11,6 @@ polymarketYes: 20.5
 polymarketNo: 79.5
 polymarketVolume: 9757
 polymarketUrl: "https://polymarket.com/event/bank-of-england-increases-interest-rates-after-june-2026-meeting"
-analysisDate: 2026-04-21
 ---
 
 The market is currently pricing in a modest 20.5% probability of a BoE rate hike in June 2026, suggesting traders expect the central bank to hold steady or potentially cut rates by that point. This matters because it reflects market expectations about UK inflation trajectories, economic growth, and monetary policy direction more than a year out—a key input for GBP positioning and UK fixed-income valuations.

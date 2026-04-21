@@ -9,9 +9,8 @@ expiryDate: 2026-06-16
 tags: ["economics", "interest-rates", "polymarket"]
 polymarketYes: 27.5
 polymarketNo: 72.5
-polymarketVolume: 9663
+polymarketVolume: 9674
 polymarketUrl: "https://polymarket.com/event/no-change-in-bank-of-japans-interest-rates-after-the-june-2026-meeting"
-analysisDate: 2026-04-21
 ---
 
 The Bank of Japan faces mounting pressure to normalize policy after years of ultra-loose monetary accommodation, making a 27.5% probability of no rate change by June 2026 reflect genuine uncertainty about the pace of tightening rather than market confidence in a pause. This matters because BOJ decisions directly influence yen strength, Japanese equity valuations, and carry-trade dynamics that ripple through global markets.

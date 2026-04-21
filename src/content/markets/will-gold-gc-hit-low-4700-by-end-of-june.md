@@ -3,7 +3,7 @@ title: "Will Gold (GC) hit (LOW) $4,700 by end of June?"
 description: "Will Gold (GC) hit (LOW) $4,700 by end of June? Odds: 77.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Gold (GC) hit (LOW) $4,700 by end of June?"
 category: "finance"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-21
 expiryDate: 2026-06-30
 tags: ["finance", "polymarket"]
