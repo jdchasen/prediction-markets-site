@@ -3,8 +3,8 @@ title: "Trump out as President by April 30?"
 description: "Trump out as President by April 30? Odds: 0.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Trump out as President by April 30?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-20
+status: "settled"
+lastUpdated: 2026-04-21
 expiryDate: 2026-04-30
 tags: ["politics", "polymarket", "trump"]
 polymarketYes: 0.7

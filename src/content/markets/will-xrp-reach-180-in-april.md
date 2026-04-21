@@ -3,8 +3,8 @@ title: "Will XRP reach $1.80 in April?"
 description: "Will XRP reach $1.80 in April? Odds: 4.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will XRP reach $1.80 in April?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-20
+status: "settled"
+lastUpdated: 2026-04-21
 expiryDate: 2026-05-01
 tags: ["politics", "polymarket"]
 polymarketYes: 4.5

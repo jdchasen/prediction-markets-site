@@ -4,13 +4,14 @@ description: "Bill Clinton divorce by June 30? Odds: 2.2% YES on Polymarket. See
 marketQuestion: "Bill Clinton divorce by June 30?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-04-20
+lastUpdated: 2026-04-21
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
 polymarketYes: 2.2
 polymarketNo: 97.8
-polymarketVolume: 97805
+polymarketVolume: 97811
 polymarketUrl: "https://polymarket.com/event/bill-clinton-divorce-by-june-30"
+analysisDate: 2026-04-21
 ---
 
 # Bill Clinton Divorce Market Analysis
@@ -19,35 +20,35 @@ polymarketUrl: "https://polymarket.com/event/bill-clinton-divorce-by-june-30"
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 2.3% | 97.7% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 2.2% | 97.8% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-At 2.3%, this market prices an extremely low probability of a Clinton divorce before mid-2026, reflecting the couple's 27-year marriage stability and public alignment despite documented infidelities. The odds matter because they reveal how prediction markets assess tail-risk events involving public figures—cases where base rates (divorce among long-married couples in their 70s) compete against reputational and financial incentives to maintain appearances. With an 18-month timeframe, any shift in these odds would signal either genuine relationship stress or market participants overweighting recent news cycles.
+The current 2.2% probability reflects minimal market conviction that the Clinton marriage dissolves by mid-2026, pricing in an extraordinarily low event likelihood given the couple's 50+ year relationship and public statements. This market matters because it tests whether prediction markets accurately price personal/private events with limited observable signals, compared to politically verifiable outcomes. The extreme illiquidity and low odds suggest most traders view this as a near-zero-probability tail event, leaving significant room for repricing if credible reporting emerges.
 
-The bull case rests on a narrow set of catalysts: ongoing revelations about Clinton-adjacent scandals (particularly related to Jeffrey Epstein's network, given the couple's documented associations), major health events affecting either party, or dramatic financial/legal developments that destabilize their partnership. The Epstein case generated renewed scrutiny of Clinton associates through 2024-2025, and any depositions or testimony placing Bill Clinton directly in damaging situations could trigger media firestorms. Additionally, the couple's visibility during 2024 election cycles and potential 2026 midterm involvement creates flashpoints where their marital status might become tabloid fodder, though tabloid coverage alone hasn't historically destabilized their marriage.
+The bull case rests on Bill Clinton's documented health deterioration—he was hospitalized in October 2021 with sepsis and has faced ongoing mobility issues—which could create personal or marital strain over a 2.5-year window. Any serious health crisis or public scandal involving Clinton specifically could trigger reassessment of marital stability. Additionally, Hillary Clinton's continued political independence and high public profile mean she has financial autonomy and reduced dependency that historically increases divorce probability in high-net-worth couples. The market also captures tail-risk scenarios: a major damaging revelation from upcoming Trump trials (2025-2026) or Clinton Foundation investigations could destabilize the relationship.
 
-The bear case is overwhelming: the Clintons have survived far worse scandals (Lewinsky, Whitewater, email servers, Trump prosecution narratives) without separation. They're now in their 70s with intertwined business interests, a daughter, and documented public statements of commitment. Their foundation work and Clinton Presidential Library create institutional reasons to maintain marital stability. Crucially, neither party has shown divorce-adjacent behavior—no separation filings, no public estrangement, no third-party entanglements reported at credible outlets. The 18-month window is simply too short for a divorce process absent sudden extraordinary circumstances.
+The bear case dominates current pricing: the Clintons have weathered 50 years together including the 1998 Lewinsky scandal, impeachment, and decades of intense scrutiny without separating. Their public appearances remain coordinated, and both have signaled commitment to legacy projects (Clinton Foundation, Hillary's ongoing work). The couple is in their late 70s and early 80s, making divorce less typical; separation at that life stage is statistically rare. No credible reporting has suggested marital discord, and filing for divorce would generate immediate global media firestorms that neither has any incentive to invite. The 2.2% odds likely already price in most plausible scenarios within the timeframe.
 
-Key catalysts to monitor: any new Epstein-related depositions or indictments (no firm dates set, but discovery materials could surface in early 2025), Clinton health announcements or major medical events, and emergence of documented financial conflicts between their investment portfolios or foundation roles. Legislative calendars are irrelevant here. Traders should watch whether tabloid speculation increases (which tends to precede actual relationship stress) and whether either Clinton makes notably fewer joint public appearances in 2025. The 2.3% price appears fairly calibrated to genuine tail-risk scenarios rather than base-rate divorce likelihood.
+Traders should monitor three specific catalysts: Clinton health developments (any hospitalization or mobility decline announced before late 2025), Trump trial testimony or revelations involving the Clintons (scheduled through mid-2026), and any shifts in Clinton Foundation operations suggesting reduced joint involvement. Watch for Hillary Clinton's 2026 political activities in particular—her decision to run for office or undertake a major independent project could alter the baseline. The market's extreme illiquidity means a single large bet or credible news event could spike odds dramatically, but sustained movement above 10% would require concrete evidence of marital trouble rather than speculation.
 
 ## Related Markets
 
 - [Will Ron DeSantis win the 2028 US Presidential Election?](/odds/will-ron-desantis-win-the-2028-us-presidential-election) — 2% YES
-- [Trump out as President by April 30?](/odds/trump-out-as-president-by-april-30) — 0% YES
+- [Will Ro Khanna win the 2028 Democratic presidential nomination?](/odds/will-ro-khanna-win-the-2028-democratic-presidential-nomination) — 2% YES
 - [Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?](/odds/will-amanda-anisimova-be-the-2026-womens-wimbledon-winner) — 8% YES
 
 ## Frequently Asked Questions
 
-### If new Epstein materials implicate Bill Clinton directly, how much would that realistically move this market?
+### What specific health events for Bill Clinton would materially move this market?
 
-A substantive criminal implication could drive odds to 5-8%, but historical precedent suggests even serious scandals haven't destabilized their marriage—the market would likely treat it as reputational damage rather than relationship-ending. Political divorce as an exit strategy is uncommon among couples with this much institutional entanglement.
+A major hospitalization, stroke, or significant mobility decline announced in 2025-2026 could spike odds 3-5% by creating separation scenarios; minor health updates would likely have minimal impact given his documented existing conditions.
 
-### Does Hillary Clinton's ongoing political activity or 2026 midterm involvement affect divorce odds?
+### Could this market reprice significantly based on Trump trial outcomes?
 
-If Hillary distances herself from politics or the couple makes fewer joint appearances during the 2026 cycle, that could be a weak signal, but coordinated public strategy (joint statements, campaign events) would actually reduce divorce probability by reinforcing marital unity as a political asset.
+Yes—if trials produce testimony or evidence implicating the Clintons in scandals, odds could move 2-4% upward within weeks, though divorce as a response remains indirect and speculative.
 
-### What would constitute a "credible catalyst" that could realistically push this to 10%+ by mid-2026?
+### Why is the market price so low despite the Clintons' advanced age and documented marital stress from past scandals?
 
-A documented affair involving either party at a comparable level to the Lewinsky scandal, serious health events affecting Bill Clinton's cognition or mobility, or a major financial/legal split between their business interests (
+The 50-year marriage history, absence of any current separation signals, and extreme media spotlight deterring divorce filing combine to anchor odds near baseline tail-risk pricing; the market reflects actual behavior, not theoretical risk.
 

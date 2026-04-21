@@ -4,14 +4,13 @@ description: "Will Breno Corã win Big Brother Brasil 26? Odds: 0.1% YES on Poly
 marketQuestion: "Will Breno Corã win Big Brother Brasil 26?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-04-20
+lastUpdated: 2026-04-21
 expiryDate: 2026-04-30
 tags: ["politics", "polymarket"]
 polymarketYes: 0.1
 polymarketNo: 99.9
-polymarketVolume: 97948
+polymarketVolume: 99121
 polymarketUrl: "https://polymarket.com/event/will-breno-cor-win-big-brother-brasil-26"
-analysisDate: 2026-04-20
 ---
 
 # Big Brother Brasil 26: Breno Corã's Near-Zero Win Probability

@@ -3,8 +3,8 @@ title: "Will Carlos Alcaraz be the 2026 Men’s Wimbledon winner?"
 description: "Will Carlos Alcaraz be the 2026 Men’s Wimbledon winner? Odds: 33.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Carlos Alcaraz be the 2026 Men’s Wimbledon winner?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-20
+status: "settled"
+lastUpdated: 2026-04-21
 expiryDate: 2026-07-12
 tags: ["politics", "polymarket"]
 polymarketYes: 33.5

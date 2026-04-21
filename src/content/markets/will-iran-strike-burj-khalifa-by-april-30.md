@@ -3,8 +3,8 @@ title: "Will Iran strike Burj Khalifa by April 30?"
 description: "Will Iran strike Burj Khalifa by April 30? Odds: 3.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Iran strike Burj Khalifa by April 30?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-20
+status: "settled"
+lastUpdated: 2026-04-21
 expiryDate: 2026-04-30
 tags: ["politics", "polymarket"]
 polymarketYes: 3.5

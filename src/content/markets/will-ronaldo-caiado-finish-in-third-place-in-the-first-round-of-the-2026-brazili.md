@@ -4,14 +4,13 @@ description: "Will Ronaldo Caiado finish in third place in the first round of th
 marketQuestion: "Will Ronaldo Caiado finish in third place in the first round of the 2026 Brazilian presidential election?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-04-20
+lastUpdated: 2026-04-21
 expiryDate: 2026-10-04
 tags: ["ai", "elections", "politics", "polymarket"]
 polymarketYes: 34.5
 polymarketNo: 65.5
-polymarketVolume: 9775
+polymarketVolume: 9798
 polymarketUrl: "https://polymarket.com/event/will-ronaldo-caiado-finish-in-third-place-in-the-first-round-of-the-2026-brazilian-presidential-election"
-analysisDate: 2026-04-20
 ---
 
 # Ronaldo Caiado's Third-Place Finish in 2026: A Tightening Field

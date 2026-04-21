@@ -3,8 +3,8 @@ title: "Will Moonshot have the #1 AI model at the end of April 2026 (Style Contr
 description: "Will Moonshot have the #1 AI model at the end of April 2026 (Style Control On)? Odds: 0.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Moonshot have the #1 AI model at the end of April 2026 (Style Control On)?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-20
+status: "settled"
+lastUpdated: 2026-04-21
 expiryDate: 2026-04-30
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 0.2

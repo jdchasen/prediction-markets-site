@@ -3,8 +3,8 @@ title: "Will Extended launch a token by September 30 2026?"
 description: "Will Extended launch a token by September 30 2026? Odds: 61.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Extended launch a token by September 30 2026?"
 category: "crypto"
-status: "active"
-lastUpdated: 2026-04-20
+status: "settled"
+lastUpdated: 2026-04-21
 expiryDate: 2027-01-01
 tags: ["crypto", "polymarket"]
 polymarketYes: 61.5
