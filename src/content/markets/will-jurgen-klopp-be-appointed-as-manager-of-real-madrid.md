@@ -1,17 +1,16 @@
 ---
 title: "Will Jurgen Klopp be appointed as manager of Real Madrid?"
-description: "Will Jurgen Klopp be appointed as manager of Real Madrid? Odds: 14.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Jurgen Klopp be appointed as manager of Real Madrid? Odds: 14.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Jurgen Klopp be appointed as manager of Real Madrid?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-04-22
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 14.5
-polymarketNo: 85.5
-polymarketVolume: 9780
+polymarketYes: 14.0
+polymarketNo: 86.0
+polymarketVolume: 9836
 polymarketUrl: "https://polymarket.com/event/will-jurgen-klopp-be-appointed-as-manager-of-real-madrid"
-analysisDate: 2026-04-22
 ---
 
 # Jurgen Klopp to Real Madrid Analysis

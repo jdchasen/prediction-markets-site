@@ -1,17 +1,16 @@
 ---
 title: "Will Trump end Department of Education before 2027?"
-description: "Will Trump end Department of Education before 2027? Odds: 3.3% YES on Polymarket. See live prices and trade this market."
+description: "Will Trump end Department of Education before 2027? Odds: 3.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Trump end Department of Education before 2027?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-04-22
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket", "trump"]
-polymarketYes: 3.3
-polymarketNo: 96.7
+polymarketYes: 3.2
+polymarketNo: 96.8
 polymarketVolume: 9791
 polymarketUrl: "https://polymarket.com/event/will-trump-end-department-of-education-before-2027"
-analysisDate: 2026-04-22
 ---
 
 # Trump Department of Education Market Analysis

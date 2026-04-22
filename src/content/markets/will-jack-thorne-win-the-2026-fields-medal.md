@@ -3,7 +3,7 @@ title: "Will Jack Thorne win the 2026 Fields Medal?"
 description: "Will Jack Thorne win the 2026 Fields Medal? Odds: 51.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Jack Thorne win the 2026 Fields Medal?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-22
 expiryDate: 2026-07-30
 tags: ["politics", "polymarket"]

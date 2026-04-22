@@ -1,17 +1,16 @@
 ---
 title: "Will NYC have between 3 and 4 inches of precipitation in April?"
-description: "Will NYC have between 3 and 4 inches of precipitation in April? Odds: 6.4% YES on Polymarket. See live prices and trade this market."
+description: "Will NYC have between 3 and 4 inches of precipitation in April? Odds: 4.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will NYC have between 3 and 4 inches of precipitation in April?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-04-22
 expiryDate: 2026-04-30
 tags: ["politics", "polymarket"]
-polymarketYes: 6.4
-polymarketNo: 93.6
+polymarketYes: 4.2
+polymarketNo: 95.8
 polymarketVolume: 9930
 polymarketUrl: "https://polymarket.com/event/will-nyc-have-between-3-and-4-inches-of-precipitation-in-april"
-analysisDate: 2026-04-22
 ---
 
 This weather prediction market is currently pricing in April precipitation between 3-4 inches as a very unlikely outcome in NYC, with odds suggesting traders believe the city will either receive significantly more or substantially less rainfall that month. The market's heavy skew toward "NO" reflects historical April precipitation patterns in New York City, which averages around 4.5 inches, making the 3-4 inch band a below-average scenario that requires either drought conditions or an unusual weather pattern. With expiry set for April 30, 2026, traders have nearly 16 months to reassess based on winter snowpack, ENSO conditions, and seasonal forecasts that typically become reliable 2-3 months before spring.

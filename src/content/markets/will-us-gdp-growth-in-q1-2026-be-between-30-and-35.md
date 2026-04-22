@@ -1,17 +1,16 @@
 ---
 title: "Will US GDP growth in Q1 2026 be between 3.0% and 3.5%?"
-description: "Will US GDP growth in Q1 2026 be between 3.0% and 3.5%? Odds: 7.1% YES on Polymarket. See live prices and trade this market."
+description: "Will US GDP growth in Q1 2026 be between 3.0% and 3.5%? Odds: 9.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will US GDP growth in Q1 2026 be between 3.0% and 3.5%?"
 category: "economics"
 status: "active"
 lastUpdated: 2026-04-22
 expiryDate: 2026-04-30
 tags: ["economics", "polymarket"]
-polymarketYes: 7.1
-polymarketNo: 92.8
-polymarketVolume: 97473
+polymarketYes: 9.0
+polymarketNo: 91.0
+polymarketVolume: 97834
 polymarketUrl: "https://polymarket.com/event/will-us-gdp-growth-in-q1-2026-be-between-3pt0-and-3pt5"
-analysisDate: 2026-04-22
 ---
 
 # US GDP Growth Q1 2026: A Narrow Range Faces Headwinds

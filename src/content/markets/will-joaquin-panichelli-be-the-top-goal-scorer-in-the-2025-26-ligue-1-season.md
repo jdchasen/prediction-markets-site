@@ -11,7 +11,6 @@ polymarketYes: 0.1
 polymarketNo: 99.9
 polymarketVolume: 99482
 polymarketUrl: "https://polymarket.com/event/will-joaquin-panichelli-be-the-top-goal-scorer-in-the-2025-26-ligue-1-season"
-analysisDate: 2026-04-22
 ---
 
 The market pricing Joaquin Panichelli at just 0.1% to lead Ligue 1 in scoring for 2025-26 reflects extreme skepticism about an unproven player competing against established elite strikers in France's top division. This matters as it highlights the steep odds facing any non-elite player in a league where historical top scorers typically come from PSG, Lyon, Marseille, or Monaco.

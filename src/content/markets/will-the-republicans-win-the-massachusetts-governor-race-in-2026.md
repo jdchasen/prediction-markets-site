@@ -10,7 +10,6 @@ polymarketYes: 5.5
 polymarketNo: 94.5
 polymarketVolume: 9830
 polymarketUrl: "https://polymarket.com/event/will-the-republicans-win-the-massachusetts-governor-race-in-2026"
-analysisDate: 2026-04-22
 ---
 
 Republicans face an uphill climb in Massachusetts, where the party hasn't won a gubernatorial race since 2002, and the current 5.5% odds reflect the structural Democratic dominance that defines the state's electoral landscape. This market matters now because the 2026 cycle will begin taking shape over the next 18 months, with early candidate positioning, fundraising, and potential primary challenges on both sides likely to shift perception well before votes are cast.

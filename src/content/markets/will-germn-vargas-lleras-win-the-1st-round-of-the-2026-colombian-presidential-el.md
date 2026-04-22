@@ -3,7 +3,7 @@ title: "Will Germán Vargas Lleras win the 1st round of the 2026 Colombian presi
 description: "Will Germán Vargas Lleras win the 1st round of the 2026 Colombian presidential election? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Germán Vargas Lleras win the 1st round of the 2026 Colombian presidential election?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-22
 expiryDate: 2026-05-31
 tags: ["elections", "politics", "polymarket"]

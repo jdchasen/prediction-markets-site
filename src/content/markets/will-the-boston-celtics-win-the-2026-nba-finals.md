@@ -3,7 +3,7 @@ title: "Will the Boston Celtics win the 2026 NBA Finals?"
 description: "Will the Boston Celtics win the 2026 NBA Finals? Odds: 12.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Boston Celtics win the 2026 NBA Finals?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-22
 expiryDate: 2026-07-01
 tags: ["polymarket", "sports"]

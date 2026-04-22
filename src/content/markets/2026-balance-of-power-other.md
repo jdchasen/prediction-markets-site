@@ -9,9 +9,8 @@ expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
 polymarketYes: 0.5
 polymarketNo: 99.5
-polymarketVolume: 988314
+polymarketVolume: 999491
 polymarketUrl: "https://polymarket.com/event/2026-balance-of-power-other-131"
-analysisDate: 2026-04-22
 ---
 
 The market pricing a mere 0.5% chance of a party other than Democrats or Republicans controlling either chamber of Congress after the 2026 midterms reflects the structural reality that no third-party candidate has won a Senate seat since Bernie Sanders in 2012, and no third party has held House seats beyond occasional independents who caucus with major parties.

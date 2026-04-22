@@ -8,10 +8,9 @@ lastUpdated: 2026-04-22
 expiryDate: 2026-04-30
 tags: ["politics", "polymarket"]
 polymarketYes: 0.4
-polymarketNo: 99.6
-polymarketVolume: 9815
+polymarketNo: 99.7
+polymarketVolume: 9817
 polymarketUrl: "https://polymarket.com/event/will-noah-kahan-have-the-second-greatest-number-of-monthly-spotify-listeners-this-month-836"
-analysisDate: 2026-04-22
 ---
 
 # Noah Kahan Spotify Prediction Market Analysis

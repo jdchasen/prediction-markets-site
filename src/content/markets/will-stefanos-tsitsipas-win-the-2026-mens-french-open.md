@@ -3,7 +3,7 @@ title: "Will Stefanos Tsitsipas win the 2026 Men's French Open?"
 description: "Will Stefanos Tsitsipas win the 2026 Men's French Open? Odds: 0.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Stefanos Tsitsipas win the 2026 Men's French Open?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-22
 expiryDate: 2026-06-07
 tags: ["politics", "polymarket"]

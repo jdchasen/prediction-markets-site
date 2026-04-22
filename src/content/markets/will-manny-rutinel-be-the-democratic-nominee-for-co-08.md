@@ -3,7 +3,7 @@ title: "Will Manny Rutinel be the Democratic nominee for CO-08?"
 description: "Will Manny Rutinel be the Democratic nominee for CO-08? Odds: 84.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Manny Rutinel be the Democratic nominee for CO-08?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-22
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]

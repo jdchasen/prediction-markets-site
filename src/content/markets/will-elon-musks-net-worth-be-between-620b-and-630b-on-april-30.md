@@ -3,7 +3,7 @@ title: "Will Elon Musk’s net worth be between $620b and $630b on April 30?"
 description: "Will Elon Musk’s net worth be between $620b and $630b on April 30? Odds: 10.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Elon Musk’s net worth be between $620b and $630b on April 30?"
 category: "tech"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-22
 expiryDate: 2026-04-30
 tags: ["polymarket", "tech"]

@@ -11,7 +11,6 @@ polymarketYes: 26.0
 polymarketNo: 74.0
 polymarketVolume: 9932
 polymarketUrl: "https://polymarket.com/event/will-carlos-mendoza-win-the-2026-nl-manager-of-the-year"
-analysisDate: 2026-04-22
 ---
 
 This market is categorized as "politics" despite being about baseball's National League Manager of the Year award, which suggests either a miscategorization or an unusual cross-platform listing that warrants scrutiny before trading. At 26%, the odds suggest Mendoza is among the favorites but faces meaningful competition from other candidates, making this a mid-tier probability worth examining for value depending on your assessment of his 2026 team's likely performance.

@@ -1,17 +1,16 @@
 ---
 title: "US strike on Cuba by December 31?"
-description: "US strike on Cuba by December 31? Odds: 34.0% YES on Polymarket. See live prices and trade this market."
+description: "US strike on Cuba by December 31? Odds: 34.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "US strike on Cuba by December 31?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-04-22
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 34.0
-polymarketNo: 66.0
-polymarketVolume: 985951
+polymarketYes: 34.5
+polymarketNo: 65.5
+polymarketVolume: 986163
 polymarketUrl: "https://polymarket.com/event/us-strike-on-cuba-by-december-31"
-analysisDate: 2026-04-22
 ---
 
 Polymarket traders currently assign roughly one-in-three odds to a US military strike on Cuba before the end of 2026, reflecting heightened geopolitical tensions around the island nation despite no immediate military buildup or diplomatic crisis at present.

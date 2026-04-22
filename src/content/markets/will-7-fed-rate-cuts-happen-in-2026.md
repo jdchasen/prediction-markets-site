@@ -11,7 +11,6 @@ polymarketYes: 0.5
 polymarketNo: 99.5
 polymarketVolume: 962725
 polymarketUrl: "https://polymarket.com/event/will-7-fed-rate-cuts-happen-in-2026"
-analysisDate: 2026-04-22
 ---
 
 The market pricing seven Fed rate cuts in 2026 at essentially zero reflects extreme skepticism that such aggressive easing would be necessary or appropriate given current economic conditions. This matters because it shows traders view scenarios requiring 175+ basis points of cuts—typically associated with severe recessions or financial crises—as virtually impossible barring catastrophic economic deterioration.

@@ -9,9 +9,8 @@ expiryDate: 2027-04-30
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.9
 polymarketNo: 99.2
-polymarketVolume: 988171
+polymarketVolume: 996270
 polymarketUrl: "https://polymarket.com/event/will-ric-zemmour-win-the-2027-french-presidential-election"
-analysisDate: 2026-04-22
 ---
 
 The market assigns less than 1% probability to far-right polemicist Éric Zemmour winning France's 2027 presidential election, reflecting deep skepticism about his political viability despite his media prominence. This matters as an early indicator of how traders view the reshaping of France's right-wing landscape following Marine Le Pen's ongoing attempts to moderate the National Rally and position herself for another presidential run.

@@ -3,7 +3,7 @@ title: "Will Burnley be relegated from the English Premier League after the 2025
 description: "Will Burnley be relegated from the English Premier League after the 2025–26 season? Odds: 100.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Burnley be relegated from the English Premier League after the 2025–26 season?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-22
 expiryDate: 2026-05-27
 tags: ["polymarket", "sports"]
