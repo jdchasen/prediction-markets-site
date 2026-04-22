@@ -1,56 +1,56 @@
 ---
 title: "Will MrBeast hit 119.5 billion views by April 30?"
-description: "Will MrBeast hit 119.5 billion views by April 30? Odds: 82.0% YES on Polymarket. See live prices and trade this market."
+description: "Will MrBeast hit 119.5 billion views by April 30? Odds: 72.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will MrBeast hit 119.5 billion views by April 30?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-04-21
+lastUpdated: 2026-04-22
 expiryDate: 2026-04-30
 tags: ["politics", "polymarket"]
-polymarketYes: 82.0
-polymarketNo: 18.0
-polymarketVolume: 9771
+polymarketYes: 72.5
+polymarketNo: 27.5
+polymarketVolume: 9855
 polymarketUrl: "https://polymarket.com/event/will-mrbeast-hit-119pt5-billion-views-by-april-30"
-analysisDate: 2026-04-21
+analysisDate: 2026-04-22
 ---
 
-# MrBeast View Count Market Analysis
+# MrBeast View Count Prediction Analysis
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 82.0% | 18.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 72.5% | 27.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-This market is mispriced at 82% YES because it conflates a YouTube creator's growth trajectory with political outcomes, revealing a fundamental category mismatch that creates arbitrage opportunity. The question asks whether MrBeast will accumulate 119.5 billion total views by April 30, 2026—roughly 16 months away—yet sits in the politics category, suggesting traders may be applying political betting frameworks to entertainment metrics rather than analyzing the actual viewership math.
+This market asks whether YouTube creator MrBeast will accumulate 119.5 billion total views by April 2026—a threshold that appears achievable based on current trajectory but carries execution risk. The categorization as "politics" is unusual and likely reflects Polymarket's taxonomy rather than genuine political content, which matters for understanding why this contract exists at all and who the intended audience is. At 72.5% YES, traders are pricing in a roughly 18-month window during which the creator needs to generate substantial incremental views, implying confidence in sustained momentum.
 
-The bull case rests on MrBeast's documented growth velocity: he currently operates at roughly 4-5 billion views monthly based on recent upload patterns, meaning hitting 119.5 billion requires only ~7-8 billion additional views over 16 months. At his current upload frequency (3-4 videos monthly) and average per-video performance (80-150 million views), this threshold appears mechanically achievable. His 2024-2025 trajectory shows consistent scaling across YouTube Shorts and long-form content, with algorithmic favorability intact. The bull case essentially bets on continuation of current growth rates without material deceleration.
+The bull case rests on MrBeast's demonstrated growth rate and content consistency. As of late 2024, the channel was approaching 200+ million subscribers with billions of views accumulating annually. If the channel maintains even 5-7 billion annual views (well below historical peak rates), hitting the 119.5 billion target becomes mathematically straightforward arithmetic. His production pipeline, brand partnerships, and algorithmic performance have remained resilient through multiple content cycles. The April 2026 deadline provides 18 months of runway, which matches historical velocity. Each major video release (typically 50-100 million views per upload) advances the needle meaningfully.
 
-The bear case hinges on execution risk and market saturation: MrBeast's recent content has faced criticism regarding diminishing novelty, with each viral escalation requiring exponentially larger production budgets and increasingly implausible premises. YouTube algorithm changes, creator burnout (he's explicitly discussed scaling back), or audience fatigue could reduce average views-per-video by 20-30%, creating a shortfall. Additionally, the 16-month timeline includes no buffer for health issues, content creator scandals (relevant given recent controversies), or platform policy shifts. A 20% slowdown in his current trajectory would make this target miss by 15-20 billion views.
+The bear case hinges on algorithmic volatility, audience saturation, or content fatigue. YouTube's recommendation system shifts unpredictably; a sustained decline in average views-per-video from 80 million to 40 million would materially extend the timeline. Competitive pressure from other creators and the saturation of the challenge-video genre could compress engagement. Personal factors—health issues, burnout, or strategic pivots away from high-volume content—represent tail risks. Additionally, view counting methodology or platform policy changes could affect what counts toward the threshold, though this is a lower-probability concern.
 
-Traders should monitor his upload schedule for Q2 2025 closely—any sustained gaps longer than 3 weeks or announcement of content pivot signal trouble. Track his average views-per-video monthly; if the 80-150 million range compresses below 60 million, the math breaks. Watch for major platform algorithm updates (YouTube typically announces these in developer blogs) or any public statements about scaling production. The March 2026 quarterly earnings call season could surface advertiser concerns about his format sustainability, creating late-stage probability collapse.
+Key catalysts include major video releases throughout 2025 and early 2026, which typically generate measurable spikes. The creator's historical pattern shows uploads every 1-2 weeks; tracking cumulative view velocity by Q2 2025 will provide crucial data for position adjustment. Traders should monitor his upload frequency and per-video performance metrics (available via social blade and YouTube analytics) as leading indicators. If average views per video decline below 50 million sustainably, the YES thesis weakens considerably. Conversely, any major viral moment or algorithmic boost would tighten the path to 119.5 billion.
 
 ## Related Markets
 
 - [Will Ron DeSantis win the 2028 US Presidential Election?](/odds/will-ron-desantis-win-the-2028-us-presidential-election) — 2% YES
-- [Will Alibaba have the best AI model at the end of April 2026?](/odds/will-alibaba-have-the-best-ai-model-at-the-end-of-april-2026) — 0% YES
+- [Will the Philadelphia Phillies win the 2026 World Series?](/odds/will-the-philadelphia-phillies-win-the-2026-world-series) — 3% YES
 - [Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?](/odds/will-amanda-anisimova-be-the-2026-womens-wimbledon-winner) — 8% YES
 
 ## Frequently Asked Questions
 
-### What's MrBeast's current approximate view count, and how much runway does he need?
+### What is MrBeast's current view count, and how much incremental growth is needed to hit 119.5 billion?
 
-He's at approximately 112-114 billion total views (as of early 2025), requiring 5.5-7.5 billion additional views over 16 months—a pace he's historically maintained but that could decelerate under production pressure.
+Exact current totals fluctuate daily, but assuming he's in the 95-105 billion range as of late 2024, he needs 14-24 billion views over 18 months, or roughly 8-13 billion annually. This is below his historical peak rates but requires consistent execution.
 
 ### Why is this market categorized as "politics" when it's about a YouTube creator?
 
-This appears to be a miscategorization error, which may have attracted political traders unfamiliar with MrBeast's actual metrics, potentially inflating YES odds beyond what entertainment/creator markets would price it.
+Polymarket likely miscategorized the contract, or it was intentionally placed there as a test/novelty market. This doesn't affect the underlying prediction mechanics but may explain lower liquidity or unusual voter interest.
 
-### What single metric should traders track as the most reliable early warning signal?
+### What single metric should traders monitor most closely to reassess their position?
 
-Monthly average views-per-video is the leading indicator; sustained drops below 70 million views per video would indicate the 119.5 billion target is at serious risk.
+Average views per video over a rolling 30-day period; if this drops below 40 million and stabilizes there, YES odds should compress meaningfully, as the 18-month window becomes insufficient.
 
 ## Learn More
 

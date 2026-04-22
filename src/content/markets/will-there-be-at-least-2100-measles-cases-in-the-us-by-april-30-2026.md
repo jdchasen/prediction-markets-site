@@ -4,16 +4,17 @@ description: "Will there be at least 2100 measles cases in the U.S. by April 30,
 marketQuestion: "Will there be at least 2100 measles cases in the U.S. by April 30, 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-04-21
+lastUpdated: 2026-04-22
 expiryDate: 2026-04-30
 tags: ["politics", "polymarket"]
 polymarketYes: 0.7
-polymarketNo: 99.3
+polymarketNo: 99.4
 polymarketVolume: 9897
 polymarketUrl: "https://polymarket.com/event/will-there-be-at-least-2100-measles-cases-in-the-us-by-april-30-2026-929-391-369-786-998"
+analysisDate: 2026-04-22
 ---
 
-# Measles Case Prediction Market Analysis
+# Measles Cases Prediction Market Analysis
 
 ## Current Odds
 
@@ -23,33 +24,27 @@ polymarketUrl: "https://polymarket.com/event/will-there-be-at-least-2100-measles
 
 ## Market Analysis
 
-The market is pricing in an extremely low probability of 2,100+ measles cases by April 2026, reflecting current baseline disease surveillance data and relatively stable vaccination coverage, though this estimate may underweight emerging public health vulnerabilities. Measles serves as a barometer for vaccine confidence and community immunity levels, making this contract sensitive to shifting vaccination sentiment and demographic shifts in immunization gaps. With roughly 16 months until expiration, the market is essentially betting that current measles suppression persists despite rising anti-vaccine activism and potential policy changes in a new federal administration.
+The near-zero odds suggest market participants view a major measles outbreak exceeding 2,100 cases by April 2026 as extremely unlikely, despite recent upticks in anti-vaccine sentiment and declining immunization rates across certain U.S. demographics. This market essentially prices in the baseline scenario where current vaccination coverage—around 93% nationally for MMR—holds steady and doesn't collapse further, a reasonable assumption given institutional resistance to dramatic shifts in public health infrastructure within 16 months. The low probability reflects both the high bar of 2,100+ cases (we've only exceeded this threshold three times since 2000: 2011, 2014-2015, and 2019) and confidence that another sustained outbreak on that scale would require either a coordinated anti-vaccine movement that penetrates beyond current hotspots or a significant policy reversal at the federal or state level.
 
-The bull case for higher measles cases hinges on concrete political and epidemiological factors: incoming Trump administration officials include vaccine skeptics like RFK Jr., who could influence vaccine confidence messaging or reduce CDC funding for immunization programs; several states with lower vaccination coverage (Idaho, Utah, North Dakota) have been flashpoints for measles outbreaks historically; and increased international travel from endemic regions could introduce variants if community immunity drops below critical thresholds. The 2019 measles outbreak generated 1,282 cases nationally before accelerating vaccination efforts, so reaching 2,100 requires either a sustained erosion of vaccination rates or a significant outbreak cluster. Watch for January-March 2026 data releases on vaccination coverage changes and any high-profile anti-vaccine policy announcements from HHS leadership.
+The bull case hinges on measles' explosive contagion profile and shrinking pockets of unvaccinated populations in certain states. If anti-vaccine activism accelerates following the 2024 election and gains legislative backing under a vaccine-skeptical administration (a real political risk through April 2026), exemption rates could spike in key states like Idaho, Mississippi, or Wyoming. Minnesota's 2019 outbreak—which hit 79 cases—showed how rapidly measles can spread through unvaccinated communities; scaling that across multiple regions simultaneously is mechanically possible. Additionally, seasonal winter surges could compound case counts if January-February 2026 sees travel-related introductions coincide with lower population immunity. The bear case is stronger: measles requires 95% herd immunity to contain, and we're currently above 90% nationally, creating a significant buffer. Most U.S. measles cases (roughly 70% historically) are imported rather than community-transmitted, meaning domestic spread remains constrained. Even amid the 2022-2024 period of rising anti-vaccine rhetoric, measles cases remained in the low hundreds annually. Reversing decades of institutional MMR infrastructure and epidemiological momentum in under 16 months is a heavy lift.
 
-The bear case rests on structural obstacles to such a large outbreak: the U.S. maintains approximately 93-95% MMR coverage nationally, well above the ~95% threshold needed for herd immunity; even if coverage drops 2-3 percentage points, localized pockets of low vaccination would take time to generate 2,100+ cases; and medical providers remain equipped to recognize and report measles, limiting silent transmission chains. Public health infrastructure, though strained, has proven capable of containing regional clusters through rapid intervention, as demonstrated in recent years. The threshold of 2,100 cases is notably high—roughly equivalent to the entire 2019 outbreak—and would require multiple simultaneous outbreaks across different regions.
-
-Key catalysts traders should monitor include CDC's March 2026 vaccination coverage survey data (typically released in mid-spring), any changes to state immunization exemption policies in Republican-led legislatures, and real-time case reporting starting mid-2025. If HHS formally deprioritizes measles surveillance or vaccination promotion, odds should shift upward meaningfully. Conversely, any measles cases detected and contained quickly would reinforce the bear case and keep odds compressed near current levels.
+Watch for three specific catalysts: congressional or state legislative action on vaccine exemptions between now and summer 2025 (any major rollback of medical exemptions-only rules would shift odds meaningfully), disease surveillance data releases from the CDC each quarter showing whether unvaccinated clusters are expanding, and any measles importations tied to international travel during winter 2025-2026. If RFK Jr.'s HHS influence produces concrete policy shifts weakening vaccine requirements at the federal level (targeted deadlines: post-confirmation through mid-2025), odds should drift higher. Conversely, if 2025 ends with measles remaining <500 annual cases and no legislative action materializing, the 0.7% floor will likely hold or compress further, as it becomes increasingly difficult to geometrically accelerate cases in the final four months.
 
 ## Related Markets
 
 - [Will Ron DeSantis win the 2028 US Presidential Election?](/odds/will-ron-desantis-win-the-2028-us-presidential-election) — 2% YES
-- [Will Ro Khanna win the 2028 Democratic presidential nomination?](/odds/will-ro-khanna-win-the-2028-democratic-presidential-nomination) — 2% YES
+- [Will the Philadelphia Phillies win the 2026 World Series?](/odds/will-the-philadelphia-phillies-win-the-2026-world-series) — 3% YES
 - [Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?](/odds/will-amanda-anisimova-be-the-2026-womens-wimbledon-winner) — 8% YES
 
 ## Frequently Asked Questions
 
-### How many measles cases has the U.S. typically seen in recent non-outbreak years?
+### How many annual measles cases would we need to see by late 2025 for the 2,100 threshold to look achievable?
 
-Between 2015-2018, annual cases ranged from 86-372 cases; the threshold of 2,100 is more than 5x higher than typical recent outbreaks, requiring sustained transmission across multiple regions.
+Roughly 1,000+ cases in the 12 months preceding April 2026 would suggest momentum toward this target; the U.S. hasn't hit 1,000 annually since 2011, so this would represent a historic spike requiring simultaneous outbreaks across multiple regions.
 
-### What specific policy changes from the Trump administration could push this probability higher?
+### If a major state like California or Texas significantly rolled back vaccine requirements, would that automatically push odds higher?
 
-If RFK Jr. or other HHS appointees reduce MMR vaccine promotion, weaken exemption restrictions, or cut CDC immunization funding, vaccination coverage could decline enough to enable larger outbreak clusters.
-
-### Is 16 months enough time for vaccination coverage to drop significantly enough to generate 2,100 cases?
-
-Vaccination coverage changes take time to translate into measles transmission; a 2-3 percentage point drop by April 2026 is plausible but historical data shows outbreaks of this scale require pre-existing large unvaccinated pockets or multiple simultaneous clusters.
+Not automatically—it would depend on baseline immunity levels in that state and whether medical exemptions were still enforced; a
 
 ## Learn More
 

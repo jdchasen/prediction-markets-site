@@ -4,14 +4,13 @@ description: "Will Xi Jinping purge Wang Yi in 2026? Odds: 6.0% YES on Polymarke
 marketQuestion: "Will Xi Jinping purge Wang Yi in 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-04-21
+lastUpdated: 2026-04-22
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 6.0
 polymarketNo: 94.0
-polymarketVolume: 9859
+polymarketVolume: 9902
 polymarketUrl: "https://polymarket.com/event/will-xi-jinping-purge-wang-yi-in-2026"
-analysisDate: 2026-04-21
 ---
 
 # Xi's Potential Purge of Wang Yi: A Low-Probability Bet on Chinese Elite Politics

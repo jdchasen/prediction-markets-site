@@ -4,50 +4,51 @@ description: "Will 4 Fed rate cuts happen in 2026? Odds: 3.9% YES on Polymarket.
 marketQuestion: "Will 4 Fed rate cuts happen in 2026?"
 category: "economics"
 status: "active"
-lastUpdated: 2026-04-21
+lastUpdated: 2026-04-22
 expiryDate: 2026-12-31
 tags: ["economics", "federal-reserve", "interest-rates", "polymarket"]
 polymarketYes: 3.9
 polymarketNo: 96.1
-polymarketVolume: 986336
+polymarketVolume: 986626
 polymarketUrl: "https://polymarket.com/event/will-4-fed-rate-cuts-happen-in-2026"
+analysisDate: 2026-04-22
 ---
 
-The market assigns minimal probability to four Fed rate cuts in 2026, reflecting expectations that inflation will remain sticky and the labor market resilient enough to prevent aggressive monetary easing. This matters because it signals traders believe the Fed's higher-for-longer stance will extend well into 2026, contradicting any hopes for a return to the ultra-low rate environment of the early 2020s.
+The market assigns minimal probability to four Federal Reserve rate cuts in 2026, reflecting expectations that inflation will remain sticky or the economy will stay resilient enough to prevent aggressive easing. This matters because it signals trader skepticism about a rapid return to accommodative monetary policy despite historical tendencies for cutting cycles to be aggressive once they begin.
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 3.9% | 96.1% | $985K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 3.9% | 96.1% | $987K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The bull case for YES requires a severe economic downturn materializing in 2025-2026. If CPI falls below 2% consistently through 2025 while unemployment spikes above 5%, the Fed would gain room to cut the federal funds rate by a full percentage point (four 25bp cuts) during 2026. A financial crisis, housing market collapse, or sharp recession beginning in late 2025 could force the Fed's hand. Watch the FOMC's Summary of Economic Projections in March, June, September, and December 2025 for shifts in the dot plot showing policymakers anticipating substantially lower rates by end-2026.
+The bull case for four cuts hinges on a delayed recession scenario where economic weakness that begins in late 2025 forces the Fed into aggressive easing throughout 2026. If unemployment rises above 5% and monthly NFP reports consistently show job losses exceeding 100,000, the FOMC would likely need to cut at multiple consecutive meetings. Core PCE inflation falling below 2% on a sustained basis—which we'll see monthly data for throughout 2026—would remove the constraint preventing such action. Historical precedent shows the Fed cut rates 5.25 percentage points during 2007-2008 and 10 times in 2001, demonstrating their willingness to act decisively when economic conditions deteriorate.
 
-The bear case—supporting the current low odds—assumes inflation remains above the Fed's 2% target or economic growth stays positive enough to keep the unemployment rate below 4.5%. Core PCE consistently printing at 2.5-3.0% through 2025 would eliminate the justification for aggressive cuts. The January 2026 jobs report (released early February) and subsequent NFP releases will be critical indicators. If monthly job gains remain above 150,000 and wage growth stays elevated around 4%, the Fed will likely limit 2026 to at most two cuts, keeping this market firmly in NO territory.
+The bear case, which the market strongly favors, rests on inflation persistence and labor market resilience. Even if the Fed begins cutting in 2025, core CPI remaining above 2.5% would limit their ability to ease aggressively in 2026. The December 2025 and March 2026 FOMC meetings will be critical in establishing the cutting trajectory—if the Fed projects a terminal rate significantly above current neutral rate estimates of 2.5-3%, four cuts become mathematically impossible. Additionally, if productivity gains keep GDP growth positive while preventing significant unemployment increases, the Fed would lack justification for front-loaded easing.
 
-Key catalysts include the December 2025 FOMC meeting projections, which will provide the Fed's first formal 2026 guidance, and CPI releases throughout 2025 (monthly, typically mid-month). The Atlanta Fed's GDPNow tracker in Q4 2025 and Q1 2026 will signal whether recession risks are materializing. Traders should monitor the 10-year/2-year yield curve inversion status through 2025—if it steepens dramatically, historical patterns suggest recession within 6-12 months, potentially forcing multiple 2026 cuts.
+Key catalysts include the January 2026 NFP report (released first Friday of February) which will set the tone for labor market trajectory, and the February CPI print (mid-March release) showing whether disinflation has stalled. The March 2026 FOMC meeting will be pivotal as the updated Summary of Economic Projections will reveal whether the committee sees room for 100+ basis points of cuts. Traders should monitor ISM Manufacturing PMI monthly releases—sustained readings below 45 would strengthen the recession case. The quarterly GDP advance estimates, particularly Q1 2026 data in late April, will either confirm economic weakness justifying cuts or demonstrate resilience making aggressive easing unnecessary.
 
 ## Related Markets
 
 - [Will 7 Fed rate cuts happen in 2026?](/odds/will-7-fed-rate-cuts-happen-in-2026) — 0% YES
 - [Will 3 Fed rate cuts happen in 2026?](/odds/will-3-fed-rate-cuts-happen-in-2026) — 8% YES
-- [ECB rate hike in 2026?](/odds/ecb-rate-hike-in-2026) — 74% YES
+- [Will US GDP growth in Q1 2026 be between 3.0% and 3.5%?](/odds/will-us-gdp-growth-in-q1-2026-be-between-30-and-35) — 7% YES
 
 ## Frequently Asked Questions
 
-### What fed funds rate range would require four cuts in 2026?
+### How many rate cuts would the Fed need to execute in 2025 to make four cuts in 2026 realistic?
 
-The Fed would need to start 2026 at approximately 4.25-4.50% or higher to accommodate four 25 basis point cuts. If rates are already below 4% by January 2026, four additional cuts become mathematically less likely without approaching zero.
+The Fed would need to start from a high enough rate level, likely above 4%, entering 2026 to have room for four 25-basis-point cuts. If they cut aggressively in 2025 and enter 2026 near 3%, four additional cuts would bring rates to historically accommodative levels unlikely without severe recession.
 
-### Could the Fed do larger 50bp cuts that still result in only 2-3 total cuts in 2026?
+### What historical Fed cutting cycles are most comparable to this scenario?
 
-Yes, and this is a critical distinction—the market specifically requires four separate cuts, not a total reduction amount. Two 50bp cuts would achieve the same monetary easing as four 25bp cuts but would result in a NO outcome for this market.
+The 2007-2008 cycle saw 10 cuts over 15 months, while 2001 featured 11 cuts in 12 months, both during recessions. The key difference is those cycles started from higher rate levels (5.25% and 6.5% respectively), whereas the Fed will likely enter 2026 already having cut from the current elevated levels.
 
-### What inflation scenario would most likely trigger four cuts without a severe recession?
+### At what unemployment rate does the probability of four cuts become more likely than not?
 
-A rapid disinflation to 1-1.5% core PCE with unemployment rising modestly to 4.5-5% could justify four cuts as the Fed responds to undershooting its inflation target. This would require supply-side improvements rather than demand destruction, though traders view this scenario as unlikely given current economic structure.
+If unemployment rises above 5.5% by early 2026 with continuing upward momentum, the Fed would likely need to cut at consecutive meetings to address labor market deterioration, making four cuts plausible. The Sahm Rule triggering—unemployment rising 0.5 percentage points above its 12-month low—would be a critical threshold forcing aggressive action.
 
 ## Learn More
 

@@ -1,17 +1,16 @@
 ---
 title: "Will Steve Hilton win the California Governor Election in 2026?"
-description: "Will Steve Hilton win the California Governor Election in 2026? Odds: 5.9% YES on Polymarket. See live prices and trade this market."
+description: "Will Steve Hilton win the California Governor Election in 2026? Odds: 5.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Steve Hilton win the California Governor Election in 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-04-21
+lastUpdated: 2026-04-22
 expiryDate: 2026-11-03
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 5.9
-polymarketNo: 94.0
-polymarketVolume: 976600
+polymarketYes: 5.8
+polymarketNo: 94.2
+polymarketVolume: 989517
 polymarketUrl: "https://polymarket.com/event/will-steve-hilton-win-the-california-governor-election-in-2026"
-analysisDate: 2026-04-21
 ---
 
 Steve Hilton, the former Fox News host and advisor to David Cameron, faces steep odds at under 6% to win California's 2026 gubernatorial race, reflecting both his limited political track record and the structural challenges any Republican faces in the nation's bluest major state.

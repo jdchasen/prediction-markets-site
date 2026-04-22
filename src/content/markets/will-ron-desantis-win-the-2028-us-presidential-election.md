@@ -4,50 +4,51 @@ description: "Will Ron DeSantis win the 2028 US Presidential Election? Odds: 1.6
 marketQuestion: "Will Ron DeSantis win the 2028 US Presidential Election?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-04-21
+lastUpdated: 2026-04-22
 expiryDate: 2028-11-07
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 1.6
 polymarketNo: 98.5
-polymarketVolume: 9852822
+polymarketVolume: 9862838
 polymarketUrl: "https://polymarket.com/event/will-ron-desantis-win-the-2028-us-presidential-election"
+analysisDate: 2026-04-22
 ---
 
-Ron DeSantis trades at just 1.6% to win the 2028 presidency, reflecting deep skepticism about his ability to recover from his failed 2024 primary campaign and the crowded Republican field likely to emerge. This market matters because it shows how decisively traders believe his political brand has been damaged, despite his position as Florida's governor through 2026.
+Ron DeSantis currently trades at minimal odds to win the 2028 presidency, reflecting deep skepticism about his political viability following his disastrous 2024 Republican primary campaign that burned through over $150 million while failing to gain traction against Trump. His path forward faces substantial obstacles including a term-limited governorship ending in January 2027, leaving him without an official platform for nearly two years before the 2028 cycle begins in earnest.
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 1.6% | 98.5% | $9.8M | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 1.6% | 98.5% | $9.9M | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The bull case rests on DeSantis maintaining his gubernatorial platform through January 2027, potentially racking up legislative wins on education policy, immigration enforcement, and economic issues that could rehabilitate his national profile. If Trump is legally barred from running or chooses not to compete, and if DeSantis successfully distances himself from his 2024 campaign missteps while other Republican contenders stumble in early 2027 primary positioning, he could emerge as the establishment alternative. His fundraising network, though diminished, remains more robust than most potential competitors outside Trump's orbit.
+The bull case hinges on DeSantis's relative youth (he'll be 49 in 2028) and his ability to rebuild relationships with major donors who backed his 2024 effort. If Trump loses in 2024, Republicans may seek a younger alternative who can claim conservative policy achievements without Trump's legal baggage. DeSantis could position himself as the "DeSantis 2.0" candidate during 2027, using book tours and PAC activities to rehabilitate his image after the awkward campaign style that doomed his first presidential run. A strong showing in the 2026 Florida Senate race by a DeSantis-backed candidate could also demonstrate his continued influence within the party.
 
-The bear case is straightforward: DeSantis's 2024 campaign collapse revealed fundamental weaknesses in his national appeal, charisma deficit, and inability to counter Trump's dominance of the Republican base. Even without Trump in the race, DeSantis faces competition from younger Republicans like Vivek Ramaswamy, JD Vance (who will be finishing his first Senate term), and potentially Glenn Youngkin if Virginia's governorship proves a successful launchpad. His awkward public persona and the "DeSantis 2.0" baggage make a comeback extraordinarily difficult in modern political memory.
+The bear case is overwhelming: DeSantis's 2024 campaign revealed fatal weaknesses in retail politics, with his stilted personality and inability to connect with voters becoming Republican establishment consensus. Polling showed him collapsing from 40% support in late 2022 to single digits by January 2024 in key early states. The GOP field for 2028 will likely include younger rising stars like Vivek Ramaswamy, JD Vance (who would be vice president if Trump wins), and Glenn Youngkin, all competing for the post-Trump lane. DeSantis's decision to position himself as "Trump without the chaos" satisfied neither Trump loyalists nor traditional Republicans.
 
-Key catalysts include the 2026 midterm elections (November 3, 2026), which will establish the next generation of Republican leaders and shape 2028 narratives, and any formal campaign announcements expected in early 2027. Trump's decision timeline—likely clarifying by mid-2027—will be decisive. Watch for DeSantis's post-gubernatorial career moves after January 2027, whether he pursues Senate runs, think tank positions, or maintains political infrastructure. The first Republican primary debate, typically scheduled for August 2027, would be his earliest opportunity to redefine his national image.
+Key catalysts to monitor include the 2024 general election result (November 5, 2024), which reshapes the entire Republican landscape, and DeSantis's next career move announcement expected in mid-2025 after leaving the governorship. The 2026 midterms will test whether DeSantis retains fundraising pull and endorsement power. Watch for any polling in Iowa and New Hampshire starting in late 2026 that includes DeSantis—if he remains in single digits against potential rivals, these odds may actually be overvalued.
 
 ## Related Markets
 
-- [Will Ro Khanna win the 2028 Democratic presidential nomination?](/odds/will-ro-khanna-win-the-2028-democratic-presidential-nomination) — 2% YES
+- [Will the Philadelphia Phillies win the 2026 World Series?](/odds/will-the-philadelphia-phillies-win-the-2026-world-series) — 3% YES
 - [Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?](/odds/will-amanda-anisimova-be-the-2026-womens-wimbledon-winner) — 8% YES
 - [Will the Houston Astros win the 2026 World Series?](/odds/will-the-houston-astros-win-the-2026-world-series) — 2% YES
 
 ## Frequently Asked Questions
 
-### How much does Trump's participation or legal situation affect DeSantis's actual chances versus these 1.6% odds?
+### How does Trump's 2024 outcome affect DeSantis's 2028 chances?
 
-Dramatically—DeSantis polling in 2024 showed he struggled even as the main Trump alternative. Without Trump, his odds might reach 8-12%, but he'd still face fierce competition from fresher faces without his campaign baggage.
+A Trump loss potentially opens space for DeSantis, but a Trump win likely means JD Vance becomes the heir apparent with institutional backing. If Trump wins and governs unsuccessfully, the party might seek a dramatic departure rather than another Florida conservative.
 
-### Could DeSantis run as an independent or third-party candidate if he loses the Republican primary?
+### What political position could DeSantis pursue after his governorship ends in 2027?
 
-This market specifically asks about winning the presidency, not the nomination, so any path theoretically counts. However, DeSantis has shown no inclination toward third-party politics and his entire brand is built within Republican institutional structures.
+He could challenge Senator Rick Scott in the 2026 Florida Republican primary or pursue private sector/think tank positions while maintaining political visibility through a leadership PAC, though lacking an official platform significantly diminishes his relevance during the crucial 2027 pre-campaign period.
 
-### What would DeSantis need to accomplish as Florida governor through 2026 to meaningfully improve these odds?
+### Why did DeSantis's 2024 campaign fail so dramatically despite strong early polling?
 
-He'd need signature legislative victories in the 2025-2026 Florida legislative sessions (convening March 2025 and March 2026) that generate positive national coverage, plus a significant ideological repositioning to broaden appeal beyond the MAGA base that rejected him.
+His campaign suffered from an overly online strategy managed by Twitter personalities, his inability to respond effectively to Trump's attacks, awkward voter interactions that went viral, and a fundamental miscalculation that Republican voters wanted Trump's policies with a different messenger rather than Trump himself.
 
 ## Learn More
 

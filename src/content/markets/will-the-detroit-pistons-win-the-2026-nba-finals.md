@@ -3,8 +3,8 @@ title: "Will the Detroit Pistons win the 2026 NBA Finals?"
 description: "Will the Detroit Pistons win the 2026 NBA Finals? Odds: 2.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Detroit Pistons win the 2026 NBA Finals?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-04-21
+status: "settled"
+lastUpdated: 2026-04-22
 expiryDate: 2026-07-01
 tags: ["polymarket", "sports"]
 polymarketYes: 2.9

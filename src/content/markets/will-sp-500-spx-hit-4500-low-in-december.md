@@ -1,17 +1,16 @@
 ---
 title: "Will S&P 500 (SPX) hit $4,500 (LOW) in December?"
-description: "Will S&P 500 (SPX) hit $4,500 (LOW) in December? Odds: 21.5% YES on Polymarket. See live prices and trade this market."
+description: "Will S&P 500 (SPX) hit $4,500 (LOW) in December? Odds: 18.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will S&P 500 (SPX) hit $4,500 (LOW) in December?"
 category: "finance"
 status: "active"
-lastUpdated: 2026-04-21
+lastUpdated: 2026-04-22
 expiryDate: 2026-12-31
 tags: ["finance", "polymarket", "stocks"]
-polymarketYes: 21.5
-polymarketNo: 78.5
+polymarketYes: 18.5
+polymarketNo: 81.5
 polymarketVolume: 9810
 polymarketUrl: "https://polymarket.com/event/spx-hit-4500-low-dec-2026"
-analysisDate: 2026-04-21
 ---
 
 # S&P 500 Target Analysis: $4,500 by December 2026

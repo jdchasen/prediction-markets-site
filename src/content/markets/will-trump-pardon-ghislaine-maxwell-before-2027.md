@@ -4,14 +4,13 @@ description: "Will Trump pardon Ghislaine Maxwell before 2027? Odds: 7.0% YES on
 marketQuestion: "Will Trump pardon Ghislaine Maxwell before 2027?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-04-21
+lastUpdated: 2026-04-22
 expiryDate: 2026-12-31
 tags: ["ai", "politics", "polymarket", "trump"]
 polymarketYes: 7.0
 polymarketNo: 93.0
 polymarketVolume: 9915
 polymarketUrl: "https://polymarket.com/event/will-trump-pardon-ghislaine-maxwell-before-2027"
-analysisDate: 2026-04-21
 ---
 
 The market prices a Trump pardon for Ghislaine Maxwell at a 7% probability, reflecting skepticism that he would extend clemency to the convicted sex trafficker despite his demonstrated willingness to pardon controversial figures. This matters because it tests whether Trump's pardon power has meaningful constraints tied to political cost and public opinion, or whether associates involved in high-profile criminal cases remain potential beneficiaries.

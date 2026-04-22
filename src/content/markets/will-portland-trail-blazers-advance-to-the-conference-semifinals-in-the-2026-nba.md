@@ -3,8 +3,8 @@ title: "Will Portland Trail Blazers advance to the Conference Semifinals in the 
 description: "Will Portland Trail Blazers advance to the Conference Semifinals in the 2026 NBA Playoffs? Odds: 5.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Portland Trail Blazers advance to the Conference Semifinals in the 2026 NBA Playoffs?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-04-21
+status: "settled"
+lastUpdated: 2026-04-22
 expiryDate: 2026-05-03
 tags: ["ai", "polymarket", "sports"]
 polymarketYes: 5.2

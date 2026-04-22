@@ -3,8 +3,8 @@ title: "Will Ronaldo Caiado finish in third place in the first round of the 2026
 description: "Will Ronaldo Caiado finish in third place in the first round of the 2026 Brazilian presidential election? Odds: 34.5% YES on Polymarket. See live prices and ..."
 marketQuestion: "Will Ronaldo Caiado finish in third place in the first round of the 2026 Brazilian presidential election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-21
+status: "settled"
+lastUpdated: 2026-04-22
 expiryDate: 2026-10-04
 tags: ["ai", "elections", "politics", "polymarket"]
 polymarketYes: 34.5

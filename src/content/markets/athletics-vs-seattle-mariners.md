@@ -3,8 +3,8 @@ title: "Athletics vs. Seattle Mariners"
 description: "Athletics vs. Seattle Mariners Odds: 37.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Athletics vs. Seattle Mariners"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-21
+status: "settled"
+lastUpdated: 2026-04-22
 expiryDate: 2026-04-29
 tags: ["politics", "polymarket"]
 polymarketYes: 37.5

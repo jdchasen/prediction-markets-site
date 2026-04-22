@@ -1,53 +1,54 @@
 ---
 title: "Will María Corina Machado be the leader of Venezuela end of 2026?"
-description: "Will María Corina Machado be the leader of Venezuela end of 2026? Odds: 10.0% YES on Polymarket. See live prices and trade this market."
+description: "Will María Corina Machado be the leader of Venezuela end of 2026? Odds: 9.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will María Corina Machado be the leader of Venezuela end of 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-04-21
+lastUpdated: 2026-04-22
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 10.0
-polymarketNo: 90.0
-polymarketVolume: 989896
+polymarketYes: 9.5
+polymarketNo: 90.5
+polymarketVolume: 991490
 polymarketUrl: "https://polymarket.com/event/will-mara-corina-machado-be-the-leader-of-venezuela-end-of-2026"
+analysisDate: 2026-04-22
 ---
 
-The prediction market assigns less than a 10% probability to María Corina Machado leading Venezuela by the end of 2026, reflecting the extreme difficulty of displacing the entrenched Maduro regime despite her legitimate claim to victory in the 2024 presidential election.
+The market assigns less than 10% probability to opposition leader María Corina Machado becoming Venezuela's leader by end of 2026, reflecting the enormous barriers she faces against the entrenched Maduro regime despite winning the October 2023 opposition primary with over 90% support.
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 9.0% | 91.0% | $987K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 9.5% | 90.5% | $991K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The bull case rests on escalating international pressure and potential regime collapse. Machado won the October 2023 opposition primary with over 90% of votes and her coalition presented evidence suggesting Edmundo González won the July 2024 presidential election decisively, despite the National Electoral Council declaring Maduro the winner. The regime's economic mismanagement continues to drive emigration—over 7.7 million Venezuelans have fled since 2014—and the military could fracture if sanctions intensify or oil revenues decline sharply. The Trump administration's return in January 2025 may bring renewed "maximum pressure" sanctions, while regional governments including Colombia and Brazil have grown increasingly critical of Maduro's legitimacy. Street protests following the disputed 2024 election demonstrated continued popular opposition, and Machado remains the opposition's most prominent figure despite being banned from holding office and operating largely in hiding.
+The bear case dominates trader thinking for clear reasons. Maduro's government disqualified Machado from holding office for 15 years in June 2023, shortly before her primary victory. The regime controls all state institutions including the Supreme Court, electoral council, and military. Even after opposition candidate Edmundo González won the July 2024 presidential election according to independent vote tallies, Maduro claimed victory and violently suppressed protests while González fled to exile in Spain. The government has arrested over 2,000 opposition supporters since the election and shows no signs of negotiating a transition. Machado herself remains in Venezuela but operates semi-clandestinely to avoid arrest, making any path to power require either regime collapse or external intervention—both low-probability scenarios.
 
-The bear case is straightforward: Maduro controls all state institutions, the military, and security forces. The regime has proven resilient through previous coup attempts, mass protests in 2017 and 2019, and crippling sanctions. Machado faces an administrative ban from holding office until 2030, remains under constant threat of arrest, and has limited operational capacity inside Venezuela. The military high command remains loyal to Maduro, enriched through corruption and fear of prosecution if they lose power. Previous opposition efforts, including Juan Guaidó's U.S.-backed interim presidency from 2019-2023, failed to dislodge the regime. Russia, China, and Iran continue providing economic and technical support to Maduro, while international fatigue with the Venezuela crisis has set in. The opposition remains fragmented, and no clear mechanism exists for forcing a transition beyond regime collapse.
+The bull case relies on Venezuela's deteriorating conditions forcing change. The country has lost over 28% of its population to emigration since 2014, and even government supporters face hyperinflation and collapsing services. International pressure continues from the U.S., EU, and regional neighbors who recognized González as the legitimate winner. Should oil prices crash or internal fractures emerge within Chavismo—perhaps through military defections or disputes over succession—the regime could weaken rapidly. Brazil's Lula and Colombia's Petro, both leftist leaders who previously supported dialogue, have distanced themselves from Maduro since the fraudulent 2024 election. Machado's popularity remains high among Venezuelans, and she could theoretically assume leadership if the regime falls.
 
-Key catalysts to monitor include Venezuela's legislative and regional elections potentially scheduled for 2025, though the regime controls timing. Watch for changes in oil prices and enforcement of U.S. sanctions, as Venezuela's PDVSA production has partially recovered to approximately 800,000 barrels per day. Military defections or public splits within the ruling PSUV party would significantly shift probabilities. Machado's ability to remain active politically—whether she's arrested or forced into exile—directly impacts this market. The first quarter of 2025 will be critical as the new U.S. administration determines its Venezuela policy and whether to tighten sanctions lifted in 2023.
+Key catalysts include January 10, 2025, when Maduro's current term officially begins despite the contested election, potentially triggering renewed protests. Any signs of regime financial stress, military unrest, or shifts in Cuba's support (given its own crisis) would immediately move this market. Traders should monitor U.S. policy changes, particularly regarding oil sanctions and recognition of opposition leadership. The Organization of American States continues discussing Venezuela's membership, which could signal international coordination. The 2026 parliamentary elections, if held, would be another flashpoint, though the regime typically manipulates these to maintain control.
 
 ## Related Markets
 
 - [Will Ron DeSantis win the 2028 US Presidential Election?](/odds/will-ron-desantis-win-the-2028-us-presidential-election) — 2% YES
-- [Will Ro Khanna win the 2028 Democratic presidential nomination?](/odds/will-ro-khanna-win-the-2028-democratic-presidential-nomination) — 2% YES
+- [Will the Philadelphia Phillies win the 2026 World Series?](/odds/will-the-philadelphia-phillies-win-the-2026-world-series) — 3% YES
 - [Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?](/odds/will-amanda-anisimova-be-the-2026-womens-wimbledon-winner) — 8% YES
 
 ## Frequently Asked Questions
 
-### What exactly qualifies as "leader of Venezuela" for this market's resolution?
+### Does the market resolve YES if Machado leads a government-in-exile or internationally recognized opposition government without controlling Venezuelan territory?
 
-The market likely requires Machado to hold recognized executive power as president or equivalent head of state, not merely leading the opposition. Simply being the opposition's symbolic leader while Maduro retains the presidency would not satisfy this condition.
+This depends on the market's specific resolution criteria defining "leader of Venezuela." Most prediction markets require de facto control of the country and its institutions, not just international recognition, making exile leadership unlikely to qualify.
 
-### How does Machado's administrative ban from holding office until 2030 affect this market?
+### What happens if Machado becomes leader through a proxy since she's officially barred from office?
 
-The regime-imposed ban creates a legal obstacle even if Maduro were removed, though any transition government or new regime would likely nullify such restrictions. The ban primarily matters if there's a negotiated transition recognizing current Venezuelan legal frameworks.
+If Machado holds effective power while someone else serves as nominal president (similar to her relationship with González during the 2024 campaign), resolution would depend on whether she holds the formal position of leader—most markets require official title, not behind-the-scenes influence.
 
-### Could this market resolve YES if Machado leads a parallel government recognized by other countries?
+### Could a negotiated transition before 2026 end make this market resolve YES?
 
-This depends on the market's specific resolution criteria, but typically requires actual control over Venezuelan territory and institutions, not just international recognition—the Guaidó precedent from 2019-2023 demonstrated that external recognition alone doesn't constitute practical leadership.
+Yes, if international mediation produces a transitional government with Machado as president or recognized leader before December 31, 2026, though Maduro has consistently rejected such negotiations and the opposition's bargaining position weakened significantly after the regime retained power following the July 2024 election.
 
 ## Learn More
 

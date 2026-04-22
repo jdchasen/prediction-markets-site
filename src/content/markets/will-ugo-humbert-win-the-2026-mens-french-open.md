@@ -4,14 +4,13 @@ description: "Will Ugo Humbert win the 2026 Men's French Open? Odds: 0.2% YES on
 marketQuestion: "Will Ugo Humbert win the 2026 Men's French Open?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-04-21
+lastUpdated: 2026-04-22
 expiryDate: 2026-06-07
 tags: ["politics", "polymarket"]
 polymarketYes: 0.2
 polymarketNo: 99.8
-polymarketVolume: 97996
+polymarketVolume: 99411
 polymarketUrl: "https://polymarket.com/event/will-ugo-humbert-win-the-2026-mens-french-open"
-analysisDate: 2026-04-21
 ---
 
 The market gives French tennis player Ugo Humbert virtually no chance of winning Roland Garros in 2026, reflecting the enormous gap between a solid top-20 player and Grand Slam championship caliber. This market matters as a case study in how betting platforms price extreme long-shots in sports with clear historical patterns and elite talent concentration.

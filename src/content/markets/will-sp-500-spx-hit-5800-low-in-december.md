@@ -4,14 +4,13 @@ description: "Will S&P 500 (SPX) hit $5,800 (LOW) in December? Odds: 42.0% YES o
 marketQuestion: "Will S&P 500 (SPX) hit $5,800 (LOW) in December?"
 category: "finance"
 status: "active"
-lastUpdated: 2026-04-21
+lastUpdated: 2026-04-22
 expiryDate: 2026-12-31
 tags: ["finance", "polymarket", "stocks"]
 polymarketYes: 42.0
 polymarketNo: 58.0
 polymarketVolume: 9813
 polymarketUrl: "https://polymarket.com/event/spx-hit-5800-low-dec-2026"
-analysisDate: 2026-04-21
 ---
 
 # S&P 500 at $5,800 in December 2026: Market Analysis

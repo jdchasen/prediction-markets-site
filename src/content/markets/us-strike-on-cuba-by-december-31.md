@@ -1,53 +1,54 @@
 ---
 title: "US strike on Cuba by December 31?"
-description: "US strike on Cuba by December 31? Odds: 34.5% YES on Polymarket. See live prices and trade this market."
+description: "US strike on Cuba by December 31? Odds: 34.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "US strike on Cuba by December 31?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-04-21
+lastUpdated: 2026-04-22
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 34.5
-polymarketNo: 65.5
-polymarketVolume: 984448
+polymarketYes: 34.0
+polymarketNo: 66.0
+polymarketVolume: 985951
 polymarketUrl: "https://polymarket.com/event/us-strike-on-cuba-by-december-31"
+analysisDate: 2026-04-22
 ---
 
-A third of traders believe the United States will conduct a military strike on Cuba before the end of 2026, reflecting heightened concern about potential escalation in a relationship that has remained tense since the Cold War era despite recent diplomatic thaws.
+Polymarket traders currently assign roughly one-in-three odds to a US military strike on Cuba before the end of 2026, reflecting heightened geopolitical tensions around the island nation despite no immediate military buildup or diplomatic crisis at present.
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 33.5% | 66.5% | $984K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 34.0% | 66.0% | $986K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The bull case centers on Cuba's deepening military and intelligence cooperation with Russia and China, particularly given Cuba's strategic proximity just 90 miles from Florida. Any discovery of advanced Russian or Chinese military installations—such as surveillance facilities, missile systems, or naval bases—could trigger a swift U.S. response similar to the 1962 Cuban Missile Crisis. The current geopolitical climate, with ongoing tensions over Ukraine and Taiwan, increases the risk that Cuba becomes a pressure point where great power competition turns kinetic. Additionally, domestic political incentives in a potential 2026 midterm environment could favor decisive military action if Cuban activities are framed as direct threats to U.S. national security.
+The bull case centers on escalating US-China rivalry, particularly if China expands military cooperation with Cuba beyond the existing intelligence facility in Lourdes or establishes a naval presence in Cuban ports. The February 2023 revelation of Chinese surveillance installations on the island demonstrated Beijing's willingness to challenge US regional dominance just 90 miles from Florida. Any discovery of Chinese weapons systems, troop deployments, or submarine visits to Cuba could trigger a crisis reminiscent of 1962, especially under an administration prioritizing aggressive pushback against Chinese expansion. Additional catalysts include potential Cuban involvement in Venezuelan military actions, a major terrorist attack traced to Cuba, or complete regime collapse creating a power vacuum that draws in external actors.
 
-The bear case recognizes that actual military strikes remain an extreme foreign policy option that would violate international norms and damage U.S. standing globally. Despite decades of antagonism, the U.S. has consistently chosen economic pressure through sanctions over military intervention in Cuba. The island poses no immediate military threat to American territory, and any strike would likely unite Latin American nations against Washington while providing propaganda victories to adversaries. The Biden administration has maintained a relatively conventional approach to Cuba policy, and even a more hawkish future administration would face significant diplomatic costs and potential escalation risks that make strikes highly unlikely absent extraordinary provocation.
+The bear case emphasizes that direct military strikes remain an extreme policy option with massive diplomatic and humanitarian costs that would alienate Latin American allies and potentially trigger Chinese retaliation elsewhere. Current US policy focuses on sanctions and diplomatic isolation rather than kinetic action, and the Pentagon has shown no indication of strike planning or asset repositioning to the Caribbean beyond routine operations. Cuba's military poses minimal threat to US security, lacking the capabilities that would justify the international condemnation a strike would generate. The Biden administration maintained Obama-era engagement signals, and even hawkish Republicans in Congress have primarily pursued economic rather than military measures.
 
-Key catalysts to monitor include any announcements of new Russian or Chinese military agreements with Cuba, which could emerge during bilateral meetings scheduled throughout 2025 and 2026. The November 2026 midterm elections may influence risk calculations, as administrations sometimes adjust foreign policy posture around electoral cycles. Intelligence reports on Cuban facilities, particularly any updates to the suspected Chinese surveillance station revealed in 2023, will be critical. Traders should watch for increased U.S. military activity near Cuban waters, changes in State Department travel advisories, or emergency National Security Council meetings focused on Caribbean security.
+Key indicators to monitor include Chinese naval movements in the Caribbean, any expansion of military agreements between Havana and Beijing, and statements from SOUTHCOM leadership about threat assessments. The 2025 congressional session could see renewed debate over Cuba policy following the 2024 elections, particularly if Republicans push for more aggressive stances. Watch for intelligence community assessments on foreign military facilities in Cuba, typically delivered in annual threat briefings each January and February. Any mass migration event from Cuba similar to the 1980 Mariel boatlift or 1994 rafter crisis could also shift the political calculus, though this would more likely trigger interdiction operations rather than strikes on Cuban territory.
 
 ## Related Markets
 
 - [Will Ron DeSantis win the 2028 US Presidential Election?](/odds/will-ron-desantis-win-the-2028-us-presidential-election) — 2% YES
-- [Will Ro Khanna win the 2028 Democratic presidential nomination?](/odds/will-ro-khanna-win-the-2028-democratic-presidential-nomination) — 2% YES
+- [Will the Philadelphia Phillies win the 2026 World Series?](/odds/will-the-philadelphia-phillies-win-the-2026-world-series) — 3% YES
 - [Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?](/odds/will-amanda-anisimova-be-the-2026-womens-wimbledon-winner) — 8% YES
 
 ## Frequently Asked Questions
 
-### Would a cyberattack or covert operation against Cuban infrastructure count as a "strike" for this market?
+### What would constitute a "strike" for this market to resolve YES?
 
-This depends on the market's specific resolution criteria, but prediction markets typically interpret "strike" as overt military action involving kinetic weapons. Covert operations would likely not qualify unless publicly acknowledged by the U.S. government.
+Any deliberate US military attack on Cuban territory, including missile strikes, bombing raids, or special operations attacks on infrastructure or military targets would qualify. Routine interdiction of boats or accidental incidents would not count.
 
-### How would the market resolve if the U.S. conducts airstrikes against a Russian military facility located on Cuban soil?
+### How does the current China-Cuba intelligence relationship affect strike probability?
 
-An airstrike on Cuban territory would almost certainly resolve as YES regardless of the stated target, since it constitutes a U.S. military strike occurring within Cuba's borders and would be internationally perceived as an attack on Cuban sovereignty.
+The existing Chinese signals intelligence facility and any expansion of Chinese military presence dramatically increases risk, as it could trigger US preemptive action similar to Cold War crises when Soviet missiles were deployed to the island in 1962.
 
-### What historical precedents exist for U.S. military action in Cuba that might inform the probability?
+### What historical precedents exist for US military action against Cuba?
 
-The Bay of Pigs invasion (1961) was CIA-backed rather than direct military action, and the U.S. has not conducted open military strikes on Cuba since the Spanish-American War in 1898, suggesting an extremely high threshold for such action despite 65+ years of hostility.
+Beyond the failed 1961 Bay of Pigs invasion, the US has never conducted direct military strikes on Cuba, preferring economic sanctions and covert operations even during peak Cold War tensions, suggesting a very high threshold for overt military action.
 
 ## Learn More
 

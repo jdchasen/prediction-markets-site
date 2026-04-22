@@ -3,8 +3,8 @@ title: "Will Mike Faris be the Republican nominee for Senate in Kentucky?"
 description: "Will Mike Faris be the Republican nominee for Senate in Kentucky? Odds: 0.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Mike Faris be the Republican nominee for Senate in Kentucky?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-21
+status: "settled"
+lastUpdated: 2026-04-22
 expiryDate: 2026-05-19
 tags: ["politics", "polymarket"]
 polymarketYes: 0.2

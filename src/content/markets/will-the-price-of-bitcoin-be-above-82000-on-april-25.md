@@ -3,8 +3,8 @@ title: "Will the price of Bitcoin be above $82,000 on April 25?"
 description: "Will the price of Bitcoin be above $82,000 on April 25? Odds: 2.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the price of Bitcoin be above $82,000 on April 25?"
 category: "crypto"
-status: "active"
-lastUpdated: 2026-04-21
+status: "settled"
+lastUpdated: 2026-04-22
 expiryDate: 2026-04-25
 tags: ["bitcoin", "crypto", "polymarket"]
 polymarketYes: 2.8

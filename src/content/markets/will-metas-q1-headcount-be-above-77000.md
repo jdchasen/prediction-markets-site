@@ -3,8 +3,8 @@ title: "Will Meta’s Q1 headcount be above 77000?"
 description: "Will Meta’s Q1 headcount be above 77000? Odds: 61.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Meta’s Q1 headcount be above 77000?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-21
+status: "settled"
+lastUpdated: 2026-04-22
 tags: ["politics", "polymarket"]
 polymarketYes: 61.5
 polymarketNo: 38.5

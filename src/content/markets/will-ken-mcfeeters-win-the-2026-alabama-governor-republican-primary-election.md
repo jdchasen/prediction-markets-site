@@ -3,8 +3,8 @@ title: "Will Ken McFeeters win the 2026 Alabama Governor Republican primary elec
 description: "Will Ken McFeeters win the 2026 Alabama Governor Republican primary election? Odds: 0.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Ken McFeeters win the 2026 Alabama Governor Republican primary election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-21
+status: "settled"
+lastUpdated: 2026-04-22
 expiryDate: 2026-05-19
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.8

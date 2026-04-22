@@ -1,17 +1,16 @@
 ---
 title: "Will no listed leader be out before 2027?"
-description: "Will no listed leader be out before 2027? Odds: 0.9% YES on Polymarket. See live prices and trade this market."
+description: "Will no listed leader be out before 2027? Odds: 0.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will no listed leader be out before 2027?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-04-21
+lastUpdated: 2026-04-22
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 0.9
+polymarketYes: 0.8
 polymarketNo: 99.2
-polymarketVolume: 98763
+polymarketVolume: 99343
 polymarketUrl: "https://polymarket.com/event/will-no-listed-leader-be-out-before-2027-257"
-analysisDate: 2026-04-21
 ---
 
 This market is trading at extreme pessimism about world leader stability through 2027, with traders assigning only a 0.9% chance that all currently listed national leaders remain in power through the end of 2026. The question matters because it reflects expectations around global political volatility during a period that includes the 2024 U.S. presidential transition, multiple European elections, and potential leadership changes in major economies.
