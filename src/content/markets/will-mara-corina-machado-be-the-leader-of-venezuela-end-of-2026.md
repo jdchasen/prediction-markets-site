@@ -9,9 +9,8 @@ expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 9.5
 polymarketNo: 90.5
-polymarketVolume: 993974
+polymarketVolume: 994117
 polymarketUrl: "https://polymarket.com/event/will-mara-corina-machado-be-the-leader-of-venezuela-end-of-2026"
-analysisDate: 2026-04-23
 ---
 
 The market assigns less than a 10% probability to María Corina Machado leading Venezuela by end of 2026, reflecting the extreme difficulty of unseating an entrenched authoritarian regime despite her democratic legitimacy and popular support.

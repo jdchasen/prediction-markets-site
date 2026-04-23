@@ -1,17 +1,16 @@
 ---
 title: "Will Southampton FC win on 2026-04-03?"
-description: "Will Southampton FC win on 2026-04-03? Odds: 33.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Southampton FC win on 2026-04-03? Odds: 32.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Southampton FC win on 2026-04-03?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-04-23
 expiryDate: 2026-04-28
 tags: ["politics", "polymarket"]
-polymarketYes: 33.5
-polymarketNo: 66.5
+polymarketYes: 32.4
+polymarketNo: 67.6
 polymarketVolume: 9816
 polymarketUrl: "https://polymarket.com/event/elc-sot-ips-2026-04-03-sot"
-analysisDate: 2026-04-23
 ---
 
 # Southampton FC Match Prediction Analysis

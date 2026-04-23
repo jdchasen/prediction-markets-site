@@ -3,7 +3,7 @@ title: "Israel withdraws from Lebanon by June 30, 2026?"
 description: "Israel withdraws from Lebanon by June 30, 2026? Odds: 15.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Israel withdraws from Lebanon by June 30, 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-23
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]

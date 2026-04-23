@@ -11,7 +11,6 @@ polymarketYes: 0.1
 polymarketNo: 100.0
 polymarketVolume: 9821
 polymarketUrl: "https://polymarket.com/event/will-jonas-wind-be-the-top-goal-scorer-in-the-202526-bundesliga-season"
-analysisDate: 2026-04-23
 ---
 
 # Jonas Wind Top Scorer 2025-26 Bundesliga Analysis

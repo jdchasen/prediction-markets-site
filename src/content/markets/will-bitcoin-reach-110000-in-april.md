@@ -9,9 +9,8 @@ expiryDate: 2026-05-01
 tags: ["bitcoin", "crypto", "polymarket"]
 polymarketYes: 0.1
 polymarketNo: 99.9
-polymarketVolume: 976943
+polymarketVolume: 985642
 polymarketUrl: "https://polymarket.com/event/will-bitcoin-reach-110k-in-april-2026"
-analysisDate: 2026-04-23
 ---
 
 Bitcoin reaching $110,000 by April 2025 faces near-impossible odds at 0.1%, reflecting market consensus that a 14% rally in roughly four weeks is extremely unlikely given current macro headwinds and weakening momentum indicators.

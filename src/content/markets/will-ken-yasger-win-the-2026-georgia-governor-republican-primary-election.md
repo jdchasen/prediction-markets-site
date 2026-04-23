@@ -9,9 +9,8 @@ expiryDate: 2026-05-19
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.1
 polymarketNo: 99.9
-polymarketVolume: 9766
+polymarketVolume: 9768
 polymarketUrl: "https://polymarket.com/event/will-ken-yasger-win-the-2026-georgia-governor-republican-primary-election"
-analysisDate: 2026-04-23
 ---
 
 # Ken Yasger 2026 Georgia GOP Primary Analysis

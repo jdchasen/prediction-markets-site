@@ -3,7 +3,7 @@ title: "Will the Republican Party hold below 190 House seats after the 2026 midt
 description: "Will the Republican Party hold below 190 House seats after the 2026 midterm elections? Odds: 35.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Republican Party hold below 190 House seats after the 2026 midterm elections?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-23
 expiryDate: 2026-11-03
 tags: ["elections", "politics", "polymarket"]

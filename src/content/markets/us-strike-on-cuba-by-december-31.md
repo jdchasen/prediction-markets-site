@@ -9,9 +9,8 @@ expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 34.0
 polymarketNo: 66.0
-polymarketVolume: 986484
+polymarketVolume: 986695
 polymarketUrl: "https://polymarket.com/event/us-strike-on-cuba-by-december-31"
-analysisDate: 2026-04-23
 ---
 
 A U.S. military strike on Cuba sits at roughly one-in-three odds through the end of 2026, a surprisingly high probability for an action that would fundamentally reshape Western Hemisphere geopolitics and likely end six decades of uneasy coexistence just 90 miles from Florida.

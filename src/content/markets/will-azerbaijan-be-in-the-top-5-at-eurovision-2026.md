@@ -3,7 +3,7 @@ title: "Will Azerbaijan be in the top 5 at Eurovision 2026?"
 description: "Will Azerbaijan be in the top 5 at Eurovision 2026? Odds: 1.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Azerbaijan be in the top 5 at Eurovision 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-23
 expiryDate: 2026-05-16
 tags: ["ai", "politics", "polymarket"]

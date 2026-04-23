@@ -11,7 +11,6 @@ polymarketYes: 1.8
 polymarketNo: 98.2
 polymarketVolume: 9977
 polymarketUrl: "https://polymarket.com/event/will-daniil-medvedev-win-the-2026-mens-us-open"
-analysisDate: 2026-04-23
 ---
 
 # Daniil Medvedev 2026 US Open Analysis

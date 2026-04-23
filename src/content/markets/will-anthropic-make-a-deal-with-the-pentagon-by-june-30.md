@@ -3,7 +3,7 @@ title: "Will Anthropic make a deal with the Pentagon by June 30?"
 description: "Will Anthropic make a deal with the Pentagon by June 30? Odds: 51.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Anthropic make a deal with the Pentagon by June 30?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-23
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]

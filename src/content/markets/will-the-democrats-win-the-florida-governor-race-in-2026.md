@@ -1,16 +1,15 @@
 ---
 title: "Will the Democrats win the Florida governor race in 2026?"
-description: "Will the Democrats win the Florida governor race in 2026? Odds: 28.0% YES on Polymarket. See live prices and trade this market."
+description: "Will the Democrats win the Florida governor race in 2026? Odds: 27.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Democrats win the Florida governor race in 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-04-23
 tags: ["politics", "polymarket"]
-polymarketYes: 28.0
-polymarketNo: 72.0
+polymarketYes: 27.5
+polymarketNo: 72.5
 polymarketVolume: 9803
 polymarketUrl: "https://polymarket.com/event/will-the-democrats-win-the-florida-governor-race-in-2026"
-analysisDate: 2026-04-23
 ---
 
 # Florida Governor 2026: Democratic Long-Shot Facing Structural Headwinds

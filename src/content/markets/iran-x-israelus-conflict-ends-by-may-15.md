@@ -3,7 +3,7 @@ title: "Iran x Israel/US conflict ends by May 15?"
 description: "Iran x Israel/US conflict ends by May 15? Odds: 100.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Iran x Israel/US conflict ends by May 15?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-23
 expiryDate: 2026-05-15
 tags: ["politics", "polymarket", "sports"]

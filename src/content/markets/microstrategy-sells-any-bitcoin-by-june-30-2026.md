@@ -9,9 +9,8 @@ expiryDate: 2026-07-01
 tags: ["bitcoin", "crypto", "polymarket"]
 polymarketYes: 2.9
 polymarketNo: 97.1
-polymarketVolume: 992033
+polymarketVolume: 992990
 polymarketUrl: "https://polymarket.com/event/microstrategy-sells-any-bitcoin-by-june-30-2026"
-analysisDate: 2026-04-23
 ---
 
 The market assigns less than 3% probability to MicroStrategy divesting any portion of its massive Bitcoin treasury before mid-2026, reflecting strong conviction in CEO Michael Saylor's unwavering accumulation strategy and the company's transformation into a leveraged Bitcoin investment vehicle. This matters because MicroStrategy holds approximately 214,400 BTC (as of late 2024), making it the largest corporate Bitcoin holder and a bellwether for institutional crypto adoption.

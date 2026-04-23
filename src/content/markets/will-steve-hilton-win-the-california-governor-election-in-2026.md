@@ -3,7 +3,7 @@ title: "Will Steve Hilton win the California Governor Election in 2026?"
 description: "Will Steve Hilton win the California Governor Election in 2026? Odds: 6.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Steve Hilton win the California Governor Election in 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-23
 expiryDate: 2026-11-03
 tags: ["elections", "politics", "polymarket"]

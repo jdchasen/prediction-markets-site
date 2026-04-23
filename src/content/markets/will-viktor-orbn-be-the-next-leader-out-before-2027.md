@@ -1,17 +1,16 @@
 ---
 title: "Will Viktor Orbán be the next leader out before 2027?"
-description: "Will Viktor Orbán be the next leader out before 2027? Odds: 91.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Viktor Orbán be the next leader out before 2027? Odds: 92.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Viktor Orbán be the next leader out before 2027?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-04-23
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 91.5
-polymarketNo: 8.5
-polymarketVolume: 98912
+polymarketYes: 92.5
+polymarketNo: 7.5
+polymarketVolume: 99792
 polymarketUrl: "https://polymarket.com/event/will-viktor-orbn-be-the-next-leader-out-before-2027-495"
-analysisDate: 2026-04-23
 ---
 
 The prediction market heavily favors Viktor Orbán leaving his position as Hungary's Prime Minister before the end of 2026, making him the next major world leader to exit power—a significant bet given his 14-year grip on Hungarian politics and his role as the EU's primary internal antagonist.

@@ -3,7 +3,7 @@ title: "Madrid Open: Jessica Bouzas Maneiro vs Diana Shnaider"
 description: "Madrid Open: Jessica Bouzas Maneiro vs Diana Shnaider Odds: 72.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Madrid Open: Jessica Bouzas Maneiro vs Diana Shnaider"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-23
 expiryDate: 2026-04-30
 tags: ["ai", "politics", "polymarket"]

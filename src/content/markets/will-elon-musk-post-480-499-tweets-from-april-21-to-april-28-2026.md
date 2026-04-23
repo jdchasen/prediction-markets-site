@@ -11,7 +11,6 @@ polymarketYes: 0.1
 polymarketNo: 100.0
 polymarketVolume: 97993
 polymarketUrl: "https://polymarket.com/event/elon-musk-of-tweets-april-21-april-28-480-499"
-analysisDate: 2026-04-23
 ---
 
 This market presents an extremely narrow binary bet on whether Elon Musk will post within a specific 20-tweet band during a week in April 2026, with near-zero probability reflecting the difficulty of hitting such a precise range. The market matters primarily as a curiosity in hyper-specific prediction markets rather than any substantive economic or technological question.

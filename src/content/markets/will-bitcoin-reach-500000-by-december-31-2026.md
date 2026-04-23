@@ -3,7 +3,7 @@ title: "Will Bitcoin reach $500,000 by December 31, 2026?"
 description: "Will Bitcoin reach $500,000 by December 31, 2026? Odds: 2.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Bitcoin reach $500,000 by December 31, 2026?"
 category: "crypto"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-23
 expiryDate: 2027-01-01
 tags: ["bitcoin", "crypto", "polymarket"]

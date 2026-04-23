@@ -3,7 +3,7 @@ title: "Will Seattle have between 2.5 and 3 inches of precipitation in April?"
 description: "Will Seattle have between 2.5 and 3 inches of precipitation in April? Odds: 37.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Seattle have between 2.5 and 3 inches of precipitation in April?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-23
 expiryDate: 2026-04-30
 tags: ["politics", "polymarket"]

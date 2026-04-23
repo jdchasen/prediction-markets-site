@@ -1,17 +1,16 @@
 ---
 title: "Will JD Gaming win the LPL 2026 season?"
-description: "Will JD Gaming win the LPL 2026 season? Odds: 8.1% YES on Polymarket. See live prices and trade this market."
+description: "Will JD Gaming win the LPL 2026 season? Odds: 9.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will JD Gaming win the LPL 2026 season?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-04-23
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 8.1
-polymarketNo: 92.0
-polymarketVolume: 99721
+polymarketYes: 9.4
+polymarketNo: 90.6
+polymarketVolume: 99726
 polymarketUrl: "https://polymarket.com/event/will-jd-gaming-win-the-lpl-2026-season"
-analysisDate: 2026-04-23
 ---
 
 This esports betting market shows minimal confidence in JD Gaming capturing the 2026 LPL championship, with current pricing suggesting strong competition and roster uncertainty overshadowing the team's historical pedigree in China's premier League of Legends league.

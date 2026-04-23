@@ -3,7 +3,7 @@ title: "Will Italy win the televote for Eurovision 2026?"
 description: "Will Italy win the televote for Eurovision 2026? Odds: 2.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Italy win the televote for Eurovision 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-23
 expiryDate: 2026-05-16
 tags: ["politics", "polymarket"]

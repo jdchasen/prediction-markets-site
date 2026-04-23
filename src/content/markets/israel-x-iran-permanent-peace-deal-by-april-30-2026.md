@@ -3,7 +3,7 @@ title: "Israel x Iran permanent peace deal by April 30, 2026?"
 description: "Israel x Iran permanent peace deal by April 30, 2026? Odds: 3.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Israel x Iran permanent peace deal by April 30, 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-23
 expiryDate: 2026-05-31
 tags: ["politics", "polymarket"]

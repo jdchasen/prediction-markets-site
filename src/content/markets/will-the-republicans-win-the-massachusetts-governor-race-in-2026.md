@@ -10,7 +10,6 @@ polymarketYes: 5.5
 polymarketNo: 94.5
 polymarketVolume: 9846
 polymarketUrl: "https://polymarket.com/event/will-the-republicans-win-the-massachusetts-governor-race-in-2026"
-analysisDate: 2026-04-23
 ---
 
 # Massachusetts Governor 2026: Republicans Face Structural Headwinds in Deep Blue State

@@ -3,7 +3,7 @@ title: "Will \"Michael\" Opening Weekend Box Office be between 70m and 75m?"
 description: "Will \"Michael\" Opening Weekend Box Office be between 70m and 75m? Odds: 8.6% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will \"Michael\" Opening Weekend Box Office be between 70m and 75m?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-23
 expiryDate: 2026-04-27
 tags: ["politics", "polymarket"]

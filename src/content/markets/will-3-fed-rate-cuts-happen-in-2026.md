@@ -1,17 +1,16 @@
 ---
 title: "Will 3 Fed rate cuts happen in 2026?"
-description: "Will 3 Fed rate cuts happen in 2026? Odds: 8.5% YES on Polymarket. See live prices and trade this market."
+description: "Will 3 Fed rate cuts happen in 2026? Odds: 7.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will 3 Fed rate cuts happen in 2026?"
 category: "economics"
 status: "active"
 lastUpdated: 2026-04-23
 expiryDate: 2026-12-31
 tags: ["economics", "federal-reserve", "interest-rates", "polymarket"]
-polymarketYes: 8.5
-polymarketNo: 91.5
-polymarketVolume: 959858
+polymarketYes: 7.5
+polymarketNo: 92.5
+polymarketVolume: 966263
 polymarketUrl: "https://polymarket.com/event/will-3-fed-rate-cuts-happen-in-2026"
-analysisDate: 2026-04-23
 ---
 
 The market assigns only an 8.5% probability to three Fed rate cuts in 2026, reflecting widespread expectations that monetary policy will remain restrictive or neutral through that year given persistent structural inflation pressures and a resilient labor market. This matters because it signals traders believe the aggressive easing cycle many anticipated post-2023 is unlikely to materialize even two years out.
