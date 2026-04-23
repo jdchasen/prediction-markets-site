@@ -3,8 +3,8 @@ title: "Will Anthropic have the #1 AI model at the end of April 2026 (Style Cont
 description: "Will Anthropic have the #1 AI model at the end of April 2026 (Style Control On)? Odds: 75.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Anthropic have the #1 AI model at the end of April 2026 (Style Control On)?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-22
+status: "settled"
+lastUpdated: 2026-04-23
 expiryDate: 2026-04-30
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 75.5

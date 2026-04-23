@@ -3,8 +3,8 @@ title: "Will Sam Bregman win the 2026 New Mexico Governor Democratic primary ele
 description: "Will Sam Bregman win the 2026 New Mexico Governor Democratic primary election? Odds: 21.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Sam Bregman win the 2026 New Mexico Governor Democratic primary election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-22
+status: "settled"
+lastUpdated: 2026-04-23
 expiryDate: 2026-06-02
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 21.5

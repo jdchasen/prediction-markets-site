@@ -3,8 +3,8 @@ title: "Will Maxx Crosby play for Los Angeles Rams next?"
 description: "Will Maxx Crosby play for Los Angeles Rams next? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Maxx Crosby play for Los Angeles Rams next?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-22
+status: "settled"
+lastUpdated: 2026-04-23
 expiryDate: 2026-09-01
 tags: ["politics", "polymarket"]
 polymarketYes: 0.1

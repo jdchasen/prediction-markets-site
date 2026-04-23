@@ -3,8 +3,8 @@ title: "Will Saudi Arabia recognize Israel by June 30?"
 description: "Will Saudi Arabia recognize Israel by June 30? Odds: 4.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Saudi Arabia recognize Israel by June 30?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-22
+status: "settled"
+lastUpdated: 2026-04-23
 tags: ["politics", "polymarket"]
 polymarketYes: 4.9
 polymarketNo: 95.1

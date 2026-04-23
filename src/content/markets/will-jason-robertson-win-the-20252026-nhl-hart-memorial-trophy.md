@@ -4,13 +4,14 @@ description: "Will Jason Robertson win the 2025–2026 NHL Hart Memorial Trophy?
 marketQuestion: "Will Jason Robertson win the 2025–2026 NHL Hart Memorial Trophy?"
 category: "sports"
 status: "active"
-lastUpdated: 2026-04-22
+lastUpdated: 2026-04-23
 expiryDate: 2026-06-30
 tags: ["polymarket", "sports"]
 polymarketYes: 0.1
 polymarketNo: 100.0
 polymarketVolume: 9819
 polymarketUrl: "https://polymarket.com/event/nhl-2025-26-hart-memorial-trophy-jason-robertson"
+analysisDate: 2026-04-23
 ---
 
 # Jason Robertson Hart Trophy Analysis
@@ -23,33 +24,32 @@ polymarketUrl: "https://polymarket.com/event/nhl-2025-26-hart-memorial-trophy-ja
 
 ## Market Analysis
 
-The market has priced Robertson at essentially zero probability for winning the 2025–2026 Hart Memorial Trophy, reflecting skepticism about whether the Dallas Stars winger can mount a legitimate MVP campaign. This ultra-low probability is worth examining because Hart voting often rewards players on high-seed teams with strong regular-season point totals, and Robertson remains a capable scorer who could theoretically accumulate 100+ points if deployed effectively—yet the market has already written off this scenario before the season truly develops.
+The Hart Memorial Trophy market for Jason Robertson sits at a negligible 0.1% probability, reflecting skepticism about the Dallas Stars winger's chances despite his consistent elite production. This valuation matters because Robertson has been a top-10 point producer in recent seasons, making such long odds potentially exploitable if he has a breakout 2025-26 campaign or if front-runners underperform.
 
-The bull case for Robertson rests on Dallas's competitive window and his scoring potential. Robertson posted 85 points in 2023–2024 and has shown capability for 90+ point seasons. If the Stars maintain top-three seeding in the Western Conference and Robertson increases his offensive output to 110+ points while maintaining consistent deployment on the top line with Roope Hintz, he'd enter Hart conversation territory. Recent seasons show Hart voters reward 110+ point finishes on playoff teams, and Robertson's right-wing position gives him a cleaner scoring record than some centers. A hot streak during the final month of the season, coinciding with Dallas's playoff positioning (typically decided by late March–April), could shift narrative momentum.
+The bull case hinges on Robertson's trajectory and Dallas's competitive window. He averaged 1.09 points per game in 2023-24 and plays on a team with legitimate Stanley Cup aspirations, positioning him for highlight-reel moments that Hart voters reward. If the Stars secure the best regular-season record and Robertson leads or co-leads the league in scoring, narrative momentum could shift dramatically. The Hart increasingly goes to the best pure scorer on the league's best team, making Stars dominance the key catalyst. Additionally, if established favorites like Connor McDavid (Edmonton), Auston Matthews (Toronto), or Nathan MacKinnon (Colorado) suffer season-ending injuries or slumps, Robertson's equity rises significantly.
 
-The bear case is substantially stronger and explains the negligible odds. Robertson has never finished top-five in Hart voting; the award historically flows toward franchise cornerstones (Connor McDavid, Nathan MacKinnon, Connor McDavid, Igor Shesterkin types) or players in career-defining seasons. Dallas's roster depth—anchored by strong depth scoring and defense—dilutes any individual's MVP narrative. Additionally, Robertson faces direct competition from higher-profile Western Conference scorers including Auston Matthews, Connor McDavid, and potentially emerging stars, all competing for Hart consideration before Robertson even enters the conversation. Injury risk over an 82-game season adds volatility; any significant time missed (>10 games) likely eliminates Hart viability entirely.
+The bear case is more straightforward: Robertson has never finished top-5 in Hart voting despite elite underlying production, suggesting voters prioritize other criteria (franchise elevation, narrative scarcity, two-way play). The winger also plays in Dallas's shadow, where the team's regular-season success is often attributed to goaltending or depth rather than individual brilliance. Moreover, historical data shows wingers without team captaincy rarely win the Hart in the modern era—the award clusters around Centers and elite two-way defensemen. Robertson would need not just the league's best statistics but also a cultural moment or media narrative that simply hasn't materialized in his career.
 
-Key catalysts to monitor include Dallas's regular-season positioning by the All-Star break in February 2026 and Robertson's point-per-game average through that checkpoint. If Robertson averages under 1.1 points per game by All-Star voting, Hart odds should remain depressed. Watch for any lineup changes that might shift Robertson to secondary lines or reduce his ice time—a coaching change or trade could reset expectations entirely. The Dallas playoff seeding announcement (typically mid-April 2026) will be a hard deadline; if the Stars fall outside the top-four seeds, Robertson's Hart chances approach zero regardless of individual statistics.
+Traders should monitor: (1) Dallas's start through October and November—any early stumble drops Robertson's odds further; (2) his January-February production rate, as mid-season slumps are difficult to overcome; (3) competing candidates' injury status by February 2026; and (4) voting precedent set in the 2025-26 regular season's final weeks. The 0.1% reflects extreme skepticism that should only widen unless Robertson posts 120+ points and Dallas finishes 1st overall.
 
 ## Related Markets
 
-- [Will the Boston Celtics win the 2026 NBA Finals?](/odds/will-the-boston-celtics-win-the-2026-nba-finals) — 12% YES
 - [Will Joaquin Panichelli be the top goal scorer in the 2025-26 Ligue 1 season?](/odds/will-joaquin-panichelli-be-the-top-goal-scorer-in-the-2025-26-ligue-1-season) — 0% YES
 - [Will West Ham be relegated from the English Premier League after the 2025–26 season?](/odds/will-west-ham-be-relegated-from-the-english-premier-league-after-the-202526-seas) — 34% YES
 
 ## Frequently Asked Questions
 
-### Has Jason Robertson ever finished in Hart voting before?
+### Has any Dallas Stars player won the Hart Trophy in the past 20 years?
 
-Robertson has not placed in Hart voting in his career; the award has consistently gone to higher-profile centers and franchise faces, not mid-lineup right wings.
+No. The Stars have not produced a Hart winner since their 1998-99 Stanley Cup season, indicating organizational and historical voting patterns work against individual award recognition in Dallas.
 
-### What point total would Robertson need to be Hart-viable?
+### What point-per-game average would Robertson need to be considered a legitimate Hart contender?
 
-Hart winners typically require 110+ points on top-four playoff seeds; Robertson would need to significantly exceed his previous seasons and benefit from Dallas's positioning to crack top-5 voting consideration.
+Approximately 1.20+ PPG (120+ points over 82 games) paired with Dallas finishing top-3 in the league standings, as the Hart rarely goes to scorers below this threshold without extraordinary circumstance.
 
-### Could a late-season hot streak change Hart odds?
+### How much would a season-ending injury to Connor McDavid before February 2026 shift Robertson's odds?
 
-Possibly, but only if combined with Dallas securing a top-three seed and Robertson reaching 1.25+ points per game in final 20 games—the market would likely shift by late April 2026 if that trajectory emerged.
+Materially—McDavid is typically the baseline favorite, so his absence would redistribute 15-20% of Hart probability across secondary candidates, potentially moving Robertson to 0.5-1% range depending on other competition.
 
 ## Learn More
 

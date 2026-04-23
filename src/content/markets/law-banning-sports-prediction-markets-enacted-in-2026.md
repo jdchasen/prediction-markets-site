@@ -1,17 +1,16 @@
 ---
 title: "Law banning sports prediction markets enacted in 2026?"
-description: "Law banning sports prediction markets enacted in 2026? Odds: 10.5% YES on Polymarket. See live prices and trade this market."
+description: "Law banning sports prediction markets enacted in 2026? Odds: 11.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Law banning sports prediction markets enacted in 2026?"
 category: "politics"
-status: "settled"
-lastUpdated: 2026-04-22
+status: "active"
+lastUpdated: 2026-04-23
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
-polymarketYes: 10.5
-polymarketNo: 89.5
-polymarketVolume: 9761
+polymarketYes: 11.5
+polymarketNo: 88.5
+polymarketVolume: 9795
 polymarketUrl: "https://polymarket.com/event/law-banning-sports-prediction-markets-enacted-in-2026"
-analysisDate: 2026-04-22
 ---
 
 # Sports Prediction Markets Ban Analysis

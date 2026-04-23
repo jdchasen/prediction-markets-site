@@ -3,8 +3,8 @@ title: "Will Meituan have the best AI model at the end of April 2026?"
 description: "Will Meituan have the best AI model at the end of April 2026? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Meituan have the best AI model at the end of April 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-22
+status: "settled"
+lastUpdated: 2026-04-23
 expiryDate: 2026-04-30
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 0.1

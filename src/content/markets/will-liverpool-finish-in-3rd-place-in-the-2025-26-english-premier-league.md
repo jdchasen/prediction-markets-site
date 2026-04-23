@@ -3,8 +3,8 @@ title: "Will Liverpool finish in 3rd place in the 2025-26 English Premier League
 description: "Will Liverpool finish in 3rd place in the 2025-26 English Premier League? Odds: 25.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Liverpool finish in 3rd place in the 2025-26 English Premier League?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-04-22
+status: "settled"
+lastUpdated: 2026-04-23
 expiryDate: 2026-05-27
 tags: ["polymarket", "sports"]
 polymarketYes: 25.5

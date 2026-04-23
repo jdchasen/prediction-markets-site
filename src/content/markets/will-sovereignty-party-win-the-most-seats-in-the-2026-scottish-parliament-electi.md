@@ -3,8 +3,8 @@ title: "Will Sovereignty Party win the most seats in the 2026 Scottish Parliamen
 description: "Will Sovereignty Party win the most seats in the 2026 Scottish Parliament election? Odds: 0.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Sovereignty Party win the most seats in the 2026 Scottish Parliament election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-22
+status: "settled"
+lastUpdated: 2026-04-23
 expiryDate: 2026-05-07
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.2

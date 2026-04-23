@@ -1,17 +1,16 @@
 ---
 title: "Will Donald Trump visit Germany in 2026?"
-description: "Will Donald Trump visit Germany in 2026? Odds: 57.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Donald Trump visit Germany in 2026? Odds: 54.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Donald Trump visit Germany in 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-04-22
+lastUpdated: 2026-04-23
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket", "trump"]
-polymarketYes: 57.5
-polymarketNo: 42.5
-polymarketVolume: 9844
+polymarketYes: 54.5
+polymarketNo: 45.5
+polymarketVolume: 9946
 polymarketUrl: "https://polymarket.com/event/will-donald-trump-visit-germany-in-2026"
-analysisDate: 2026-04-22
 ---
 
 # Trump Germany Visit 2026: Market Analysis

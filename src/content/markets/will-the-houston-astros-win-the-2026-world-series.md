@@ -3,8 +3,8 @@ title: "Will the Houston Astros win the 2026 World Series?"
 description: "Will the Houston Astros win the 2026 World Series? Odds: 2.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Houston Astros win the 2026 World Series?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-22
+status: "settled"
+lastUpdated: 2026-04-23
 expiryDate: 2026-10-31
 tags: ["politics", "polymarket"]
 polymarketYes: 2.0

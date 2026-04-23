@@ -1,51 +1,54 @@
 ---
 title: "Amouranth divorced by June 30? "
-description: "Amouranth divorced by June 30?  Odds: 10.5% YES on Polymarket. See live prices and trade this market."
+description: "Amouranth divorced by June 30?  Odds: 11.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Amouranth divorced by June 30? "
 category: "politics"
 status: "active"
-lastUpdated: 2026-04-22
+lastUpdated: 2026-04-23
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
-polymarketYes: 10.5
-polymarketNo: 89.5
-polymarketVolume: 9882
+polymarketYes: 11.0
+polymarketNo: 89.0
+polymarketVolume: 9936
 polymarketUrl: "https://polymarket.com/event/amouranth-divorced-by-june-30"
+analysisDate: 2026-04-23
 ---
 
-# Market Analysis
+# Amouranth Divorce Market Analysis
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 10.5% | 89.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 11.0% | 89.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The 10.5% probability reflects skepticism that a high-profile internet personality will experience marital dissolution within the next 18 months, suggesting traders view the relationship as either stable or that divorce proceedings—if initiated—won't legally conclude by the deadline. This market matters because it tests whether prediction markets can accurately price celebrity relationship stability and because the expiry window is tight enough that current relationship status should substantially inform odds.
+This market prices an 11% probability on a divorce filing by mid-2026, suggesting traders view the relationship as relatively stable despite persistent public speculation about the couple's dynamics. The low odds reflect the base rate skepticism around celebrity relationship dissolution combined with the couple's demonstrated commitment to maintaining their public brand as a unit.
 
-The bull case for higher YES odds centers on the documented volatility in high-profile internet relationships, particularly those involving streaming personalities managing intense public scrutiny and significant wealth disparities. Financial stress, infidelity allegations, or public conflicts—common catalysts in celebrity divorces—could emerge during the 18-month window. Additionally, divorce proceedings in jurisdictions with expedited timelines could theoretically conclude by June 2026 if initiated immediately; some states allow uncontested divorces to finalize within 3-6 months. The bear case is straightforward: absent any public indicators of marital distress currently, assuming stable relationships tend to remain stable within short timeframes is statistically sound. A 10.5% price already reflects meaningful tail risk, and the burden falls on resolution-forcing events that haven't materialized in public reporting.
+The bull case for divorce rests on observable relationship strain signals: Amouranth (Kaitlyn Siragusa) has publicly discussed marital tensions, the couple maintains separate streaming careers with different schedules, and the financial incentives of divorce (asset division, individual brand leverage) could motivate separation. An 18-month window provides sufficient time for relationship deterioration to reach a legal threshold. Additionally, any major financial disputes, infidelity allegations, or documented public conflicts would rapidly reprrice this market higher.
 
-Key catalysts to monitor include any joint statement addressing relationship status, financial disclosures or asset disputes emerging in public forums, or documented separation. The 18-month expiry gives minimal buffer for typical divorce timelines; most contested cases extend beyond June 2026, meaning only expedited uncontested divorces are likely to resolve by deadline. Traders should weight the current lack of public relationship turmoil heavily—the absence of scandal is itself a strong signal in a market pricing a low probability. Watch for streaming platform conflicts, sponsorship complications, or lifestyle changes that might signal underlying tensions.
+The bear case dominates current odds because the couple has weathered previous controversy cycles without separating, their shared business interests create strong structural incentives for reconciliation, and divorce carries reputational costs for both parties. The couple's willingness to address relationship issues publicly (rather than ghosting or sudden breakups) suggests preference for communication. Unless a catalyzing event emerges—documented abuse allegations, major financial fraud, or repeated infidelity claims—the status quo persists.
+
+Watch for: any significant streaming drama involving both parties simultaneously, changes in their housing arrangements or public appearances together, legal filings unrelated to divorce (restraining orders, financial disputes), and social media activity patterns. The 2026 timeline is long enough that current odds may underestimate black swan risks. Traders should monitor celebrity gossip outlets and both parties' direct statements monthly, as rapid repricing could occur if relationship cracks become visible to mainstream media.
 
 ## Related Markets
 
+- [US x Iran permanent peace deal by April 30, 2026?](/odds/us-x-iran-permanent-peace-deal-by-april-30-2026) — 12% YES
 - [Will Ron DeSantis win the 2028 US Presidential Election?](/odds/will-ron-desantis-win-the-2028-us-presidential-election) — 2% YES
-- [Will the Philadelphia Phillies win the 2026 World Series?](/odds/will-the-philadelphia-phillies-win-the-2026-world-series) — 3% YES
-- [Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?](/odds/will-amanda-anisimova-be-the-2026-womens-wimbledon-winner) — 8% YES
+- [Iran x Israel/US conflict ends by May 15?](/odds/iran-x-israelus-conflict-ends-by-may-15) — 100% YES
 
 ## Frequently Asked Questions
 
-### Does this market require legal finalization or just filing for divorce?
+### What specific events would cause this market to reprice significantly higher?
 
-The market typically requires legal finalization (divorce decree issued) by June 30, 2026, not merely filing, making the timeline substantially tighter and explaining the low odds.
+Public allegations of infidelity, documented abuse claims, major financial disputes becoming public, or sudden separation announcements would all trigger substantial repricing. Smaller signals like extended periods without joint appearances or cryptic social media posts could also gradually shift sentiment.
 
-### What jurisdiction matters for divorce speed?
+### Does Amouranth's previous relationship history inform these odds?
 
-Resolution depends on where divorce is filed; some states allow uncontested divorces in 2-3 months, while others require 6+ months even uncontested, making this a critical technical factor traders should research if any filing occurs.
+Her past relationship volatility and public nature of previous breakups suggest she's willing to end relationships, but the current marriage's integration with their streaming brand creates different incentives than her prior partnerships, supporting the lower odds.
 
-### How would public statements affect trading?
+### How much does their shared business model affect divorce probability?
 
-Any official announcement of separation or divorce filing would likely shift odds dramatically upward, especially if it clarified jurisdictional intent, as it would remove speculation and establish a concrete timeline toward resolution.
+Significantly—their brand identity is partially tied to their relationship status, meaning divorce would damage both their individual earning potential and require complex asset division of shared streaming infrastructure, creating strong financial disincentives that likely suppress true divorce probability below what pure relationship health metrics would suggest.
 

@@ -3,8 +3,8 @@ title: "Will the Audemars Piguet Index hit $44,000 (HIGH) by April 30?"
 description: "Will the Audemars Piguet Index hit $44,000 (HIGH) by April 30? Odds: 1.6% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Audemars Piguet Index hit $44,000 (HIGH) by April 30?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-22
+status: "settled"
+lastUpdated: 2026-04-23
 expiryDate: 2026-04-30
 tags: ["politics", "polymarket"]
 polymarketYes: 1.6
