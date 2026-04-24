@@ -1,16 +1,15 @@
 ---
 title: "Will SpaceX’s IPO valuation be between 2.25T and 2.50T?"
-description: "Will SpaceX’s IPO valuation be between 2.25T and 2.50T? Odds: 3.9% YES on Polymarket. See live prices and trade this market."
+description: "Will SpaceX’s IPO valuation be between 2.25T and 2.50T? Odds: 4.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will SpaceX’s IPO valuation be between 2.25T and 2.50T?"
 category: "finance"
 status: "active"
 lastUpdated: 2026-04-24
 tags: ["finance", "polymarket"]
-polymarketYes: 3.9
-polymarketNo: 96.2
-polymarketVolume: 9877
+polymarketYes: 4.0
+polymarketNo: 96.0
+polymarketVolume: 9954
 polymarketUrl: "https://polymarket.com/event/will-spacexs-ipo-valuation-be-between-2pt25t-and-2pt50t"
-analysisDate: 2026-04-24
 ---
 
 The market is pricing an extremely low probability that SpaceX's eventual IPO will land in the $2.25-2.50 trillion valuation range, reflecting deep skepticism about both the timing and the company's ability to reach that specific price band. This matters now because SpaceX's valuation trajectory and IPO timeline have become central to debates about whether private space companies can sustain their astronomical valuations once subjected to public market scrutiny. SpaceX's last private funding round in October 2024 valued the company at $210 billion, creating a massive gap between current implied worth and the $2.25+ trillion threshold this market requires—the company would need roughly 10-12x growth just to hit the floor of this range.

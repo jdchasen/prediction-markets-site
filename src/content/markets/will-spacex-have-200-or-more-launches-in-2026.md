@@ -1,17 +1,16 @@
 ---
 title: "Will SpaceX have 200 or more launches in 2026?"
-description: "Will SpaceX have 200 or more launches in 2026? Odds: 13.5% YES on Polymarket. See live prices and trade this market."
+description: "Will SpaceX have 200 or more launches in 2026? Odds: 14.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will SpaceX have 200 or more launches in 2026?"
 category: "tech"
 status: "active"
 lastUpdated: 2026-04-24
 expiryDate: 2026-12-31
 tags: ["polymarket", "tech"]
-polymarketYes: 13.5
-polymarketNo: 86.5
-polymarketVolume: 99830
+polymarketYes: 14.0
+polymarketNo: 86.0
+polymarketVolume: 99954
 polymarketUrl: "https://polymarket.com/event/will-spacex-have-200-or-more-launches-in-2026"
-analysisDate: 2026-04-24
 ---
 
 Traders are pricing SpaceX's chances of reaching 200 launches in 2026 at just 13.5%, reflecting skepticism that the company can nearly triple its 2024 launch cadence of 134 flights within two years—a trajectory that would require resolving significant bottlenecks in Starship development and regulatory approval.

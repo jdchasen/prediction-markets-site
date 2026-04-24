@@ -9,9 +9,8 @@ expiryDate: 2026-05-10
 tags: ["politics", "polymarket"]
 polymarketYes: 1.4
 polymarketNo: 98.6
-polymarketVolume: 9808
+polymarketVolume: 9809
 polymarketUrl: "https://polymarket.com/event/will-april-2026-be-the-1st-hottest-on-record"
-analysisDate: 2026-04-24
 ---
 
 # April 2026 Hottest Month Prediction Market Analysis

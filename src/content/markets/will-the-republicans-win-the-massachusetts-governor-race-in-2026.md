@@ -3,7 +3,7 @@ title: "Will the Republicans win the Massachusetts governor race in 2026?"
 description: "Will the Republicans win the Massachusetts governor race in 2026? Odds: 5.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Republicans win the Massachusetts governor race in 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-24
 tags: ["politics", "polymarket"]
 polymarketYes: 5.5

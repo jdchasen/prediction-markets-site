@@ -11,7 +11,6 @@ polymarketYes: 0.1
 polymarketNo: 100.0
 polymarketVolume: 9901
 polymarketUrl: "https://polymarket.com/event/will-the-weeknd-have-the-greatest-number-of-monthly-spotify-listeners-this-month-632"
-analysisDate: 2026-04-24
 ---
 
 # Analysis

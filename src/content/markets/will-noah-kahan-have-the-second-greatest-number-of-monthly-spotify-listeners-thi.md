@@ -1,17 +1,16 @@
 ---
 title: "Will Noah Kahan have the second-greatest number of monthly Spotify listeners this month?"
-description: "Will Noah Kahan have the second-greatest number of monthly Spotify listeners this month? Odds: 0.3% YES on Polymarket. See live prices and trade this market."
+description: "Will Noah Kahan have the second-greatest number of monthly Spotify listeners this month? Odds: 0.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Noah Kahan have the second-greatest number of monthly Spotify listeners this month?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-04-24
 expiryDate: 2026-04-30
 tags: ["politics", "polymarket"]
-polymarketYes: 0.3
+polymarketYes: 0.4
 polymarketNo: 99.7
-polymarketVolume: 9817
+polymarketVolume: 9819
 polymarketUrl: "https://polymarket.com/event/will-noah-kahan-have-the-second-greatest-number-of-monthly-spotify-listeners-this-month-836"
-analysisDate: 2026-04-24
 ---
 
 # Noah Kahan Spotify Market Analysis

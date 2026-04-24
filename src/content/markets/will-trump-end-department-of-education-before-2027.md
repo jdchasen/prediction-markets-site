@@ -9,9 +9,8 @@ expiryDate: 2026-12-31
 tags: ["politics", "polymarket", "trump"]
 polymarketYes: 3.3
 polymarketNo: 96.7
-polymarketVolume: 9791
+polymarketVolume: 9796
 polymarketUrl: "https://polymarket.com/event/will-trump-end-department-of-education-before-2027"
-analysisDate: 2026-04-24
 ---
 
 # Trump Department of Education Elimination Market Analysis

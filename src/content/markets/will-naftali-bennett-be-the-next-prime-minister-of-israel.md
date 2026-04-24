@@ -1,17 +1,16 @@
 ---
 title: "Will Naftali Bennett be the next Prime Minister of Israel?"
-description: "Will Naftali Bennett be the next Prime Minister of Israel? Odds: 32.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Naftali Bennett be the next Prime Minister of Israel? Odds: 34.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Naftali Bennett be the next Prime Minister of Israel?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-04-24
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 32.5
-polymarketNo: 67.5
-polymarketVolume: 977119
+polymarketYes: 34.5
+polymarketNo: 65.5
+polymarketVolume: 979407
 polymarketUrl: "https://polymarket.com/event/will-naftali-bennett-be-the-next-prime-minister-of-israel"
-analysisDate: 2026-04-24
 ---
 
 Naftali Bennett, who served as Israel's Prime Minister from June 2021 to June 2022 before stepping back from politics, faces roughly one-in-three odds of returning to lead Israel by the end of 2026—a significant probability for someone currently out of active political life. The market reflects both deep dissatisfaction with current leadership options and Bennett's relatively successful tenure managing a fragile coalition, though his path back requires navigating Israel's fractured political landscape and overcoming his own stated reluctance to return.

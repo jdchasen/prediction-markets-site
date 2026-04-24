@@ -9,9 +9,8 @@ expiryDate: 2026-07-12
 tags: ["politics", "polymarket"]
 polymarketYes: 7.8
 polymarketNo: 92.2
-polymarketVolume: 996781
+polymarketVolume: 997172
 polymarketUrl: "https://polymarket.com/event/will-amanda-anisimova-be-the-2026-womens-wimbledon-winner"
-analysisDate: 2026-04-24
 ---
 
 The market pricing Amanda Anisimova at 7.8% to win the 2026 Wimbledon title reflects cautious optimism about a talented but inconsistent player with significant mental health challenges in her recent history. This matters because Anisimova, currently ranked outside the top 50 after taking a mental health break in 2023, represents the type of high-upside, high-risk proposition that creates inefficiencies in long-dated sports prediction markets.

@@ -3,7 +3,7 @@ title: "Amouranth divorced by June 30? "
 description: "Amouranth divorced by June 30?  Odds: 11.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Amouranth divorced by June 30? "
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-24
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]

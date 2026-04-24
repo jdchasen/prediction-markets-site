@@ -3,7 +3,7 @@ title: "Will Bitcoin reach $82,500 in April?"
 description: "Will Bitcoin reach $82,500 in April? Odds: 25.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Bitcoin reach $82,500 in April?"
 category: "crypto"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-24
 expiryDate: 2026-05-01
 tags: ["bitcoin", "crypto", "polymarket"]

@@ -9,9 +9,8 @@ expiryDate: 2026-05-30
 tags: ["polymarket", "sports"]
 polymarketYes: 0.1
 polymarketNo: 99.9
-polymarketVolume: 99863
+polymarketVolume: 99965
 polymarketUrl: "https://polymarket.com/event/will-joaquin-panichelli-be-the-top-goal-scorer-in-the-2025-26-ligue-1-season"
-analysisDate: 2026-04-24
 ---
 
 The market places minimal confidence in Joaquin Panichelli winning the 2025-26 Ligue 1 golden boot, reflecting his current status as an unproven player in Europe's top leagues with the season still over a year away.

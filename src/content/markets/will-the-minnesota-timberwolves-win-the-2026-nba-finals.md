@@ -3,7 +3,7 @@ title: "Will the Minnesota Timberwolves win the 2026 NBA Finals?"
 description: "Will the Minnesota Timberwolves win the 2026 NBA Finals? Odds: 3.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Minnesota Timberwolves win the 2026 NBA Finals?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-24
 expiryDate: 2026-07-01
 tags: ["polymarket", "sports"]

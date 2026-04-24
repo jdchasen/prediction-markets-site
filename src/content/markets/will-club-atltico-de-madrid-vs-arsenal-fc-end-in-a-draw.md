@@ -3,7 +3,7 @@ title: "Will Club Atlético de Madrid vs. Arsenal FC end in a draw?"
 description: "Will Club Atlético de Madrid vs. Arsenal FC end in a draw? Odds: 29.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Club Atlético de Madrid vs. Arsenal FC end in a draw?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-24
 expiryDate: 2026-04-29
 tags: ["politics", "polymarket"]
