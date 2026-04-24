@@ -1,53 +1,54 @@
 ---
 title: "Will Naftali Bennett be the next Prime Minister of Israel?"
-description: "Will Naftali Bennett be the next Prime Minister of Israel? Odds: 29.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Naftali Bennett be the next Prime Minister of Israel? Odds: 32.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Naftali Bennett be the next Prime Minister of Israel?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-04-23
+lastUpdated: 2026-04-24
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 29.5
-polymarketNo: 70.5
-polymarketVolume: 976062
+polymarketYes: 32.5
+polymarketNo: 67.5
+polymarketVolume: 977119
 polymarketUrl: "https://polymarket.com/event/will-naftali-bennett-be-the-next-prime-minister-of-israel"
+analysisDate: 2026-04-24
 ---
 
-Naftali Bennett, who briefly served as Prime Minister in 2021-2022, currently sits at roughly one-in-three odds to return to Israel's top political office by the end of 2026, a surprisingly strong position for someone who announced his retirement from politics in 2022. Bennett's potential comeback matters because Israel's political system remains fractured, with Netanyahu's coalition facing ongoing judicial reform tensions and security challenges that could trigger early elections at any moment.
+Naftali Bennett, who served as Israel's Prime Minister from June 2021 to June 2022 before stepping back from politics, faces roughly one-in-three odds of returning to lead Israel by the end of 2026—a significant probability for someone currently out of active political life. The market reflects both deep dissatisfaction with current leadership options and Bennett's relatively successful tenure managing a fragile coalition, though his path back requires navigating Israel's fractured political landscape and overcoming his own stated reluctance to return.
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 32.0% | 68.0% | $973K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 32.5% | 67.5% | $977K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The bull case centers on Netanyahu's vulnerability and Bennett's unique positioning. Netanyahu faces corruption trials that could force his exit, while his coalition partners frequently threaten defection over religious and military service issues. Bennett appeals to both right-wing security hawks and centrist voters concerned about democratic institutions—a rare combination in Israeli politics. His return announcement in late 2023 that he was considering a political comeback has gained traction as recent polls show his hypothetical party winning 12-15 Knesset seats. If new elections occur in 2025 or early 2026, Bennett could emerge as the consensus candidate to form a unity government, especially if Likud seeks to move beyond the Netanyahu era.
+The bull case centers on Bennett's unique positioning as a pragmatic right-wing figure who successfully bridged ideological divides and maintained relative security stability during his premiership. Current Prime Minister Benjamin Netanyahu faces ongoing political pressure from judicial reform backlash, coalition management challenges, and questions about post-war Gaza governance. If Netanyahu's government collapses—a recurring possibility given Israel's history of early elections—Bennett could emerge as a compromise candidate acceptable to both right-wing and centrist voters exhausted by the Netanyahu-Gantz binary. His tech sector background and managerial reputation appeal to voters seeking competence over ideology, and polling consistently shows Israelis rating his brief tenure more favorably in retrospect than they did at the time.
 
-The bear case is that Bennett lacks an established party infrastructure and faces formidable opposition. He would need to either take over an existing party or build a new one from scratch while competing against established figures like Benny Gantz, Yair Lapid, and potentially a post-Netanyahu Likud candidate. Netanyahu has repeatedly survived political death sentences and could easily remain in power through 2026, particularly if his coalition holds and he continues delaying his trial proceedings. Bennett's previous tenure lasted only one year before his coalition collapsed, raising questions about his ability to maintain political alliances. The arithmetic of forming a coalition in Israel's fragmented Knesset makes any single candidate's path to the premiership uncertain.
+The bear case acknowledges that Bennett explicitly stepped away from politics in 2022 and has not indicated plans to return, making his re-entry far from certain even if political conditions favor him. Israel's next scheduled election isn't until 2026, and Netanyahu has proven remarkably resilient at holding coalitions together despite predictions of imminent collapse. Bennett would need to either join an existing party or rebuild his Yamina faction, both requiring significant groundwork he hasn't begun. Benny Gantz, Yair Lapid, and other established opposition figures maintain larger existing political infrastructures and poll similarly or better in head-to-head matchups against Netanyahu.
 
-Key catalysts include Netanyahu's trial proceedings, particularly the testimony phase which could accelerate in 2025, and the ongoing Knesset votes on military conscription for ultra-Orthodox men—a flashpoint that has previously triggered coalition crises. The current government's term extends to 2026, but polls showing opposition leads above 60 seats could pressure Likud members to force internal leadership changes. Traders should monitor Bennett's formal party registration deadline, which must occur well before any election to appear on ballots, Gantz's polling numbers as his main centrist competitor, and any signs of Likud figures publicly discussing post-Netanyahu scenarios.
+Key catalysts include any collapse of Netanyahu's current coalition, which would trigger snap elections and immediately test whether Bennett chooses to run. The Supreme Court's ongoing rulings on judicial reform legislation throughout 2025 could destabilize the government. Watch for Bennett's public statements and any signs of political infrastructure building—meeting with party operatives, fundraising activity, or media positioning. Polling data showing continued decline in Netanyahu's favorability or Likud's seat projections would strengthen the case for a Bennett return, as would further fragmentation among center-right alternatives that creates a vacuum he could fill.
 
 ## Related Markets
 
 - [Will Ron DeSantis win the 2028 US Presidential Election?](/odds/will-ron-desantis-win-the-2028-us-presidential-election) — 2% YES
 - [Will Ro Khanna win the 2028 Democratic presidential nomination?](/odds/will-ro-khanna-win-the-2028-democratic-presidential-nomination) — 2% YES
-- [Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?](/odds/will-amanda-anisimova-be-the-2026-womens-wimbledon-winner) — 8% YES
+- [Will Donald Trump announce that the United States blockade of the Strait of Hormuz has been lifted by April 30, 2026?](/odds/will-donald-trump-announce-that-the-united-states-blockade-of-the-strait-of-horm) — 20% YES
 
 ## Frequently Asked Questions
 
-### Does Bennett need to officially announce his candidacy and form a party before this market can resolve YES?
+### Does Bennett need to announce his candidacy by a certain date for this to resolve YES?
 
-No, he could theoretically become Prime Minister through various parliamentary mechanisms even without running in elections, though practically he would need some political vehicle. The market only requires him to hold the office by the deadline.
+No, he simply needs to become Prime Minister by December 31, 2026, whether through winning an election, forming a coalition after someone else's election victory, or being appointed through other political arrangements common in Israel's parliamentary system.
 
-### What happens if Netanyahu dies or is incapacitated before 2026—does that help Bennett's chances?
+### What happens if Bennett becomes Prime Minister temporarily or in a rotation agreement?
 
-Significantly yes, as it would trigger either automatic succession to another Likud member or early elections, creating the political upheaval that represents Bennett's best path to power as a unity candidate.
+The market resolves YES as long as he holds the office of Prime Minister at any point before the December 2026 deadline, regardless of whether it's a full term, rotation arrangement, or caretaker capacity.
 
-### Can Bennett become Prime Minister if his party finishes second or third in elections?
+### Could Bennett return as part of a unity government even without his own party?
 
-Absolutely—Israel's system has the President select whoever can form a coalition, not necessarily the largest party's leader, which is how Bennett became PM in 2021 despite his party having only seven seats.
+Yes, Israel's coalition politics allow individuals to be appointed Prime Minister if they can secure 61 Knesset seats of support, so Bennett could theoretically lead a unity government by joining an existing party or being selected as a consensus candidate during coalition negotiations.
 
 ## Learn More
 

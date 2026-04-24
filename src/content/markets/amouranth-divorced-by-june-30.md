@@ -4,13 +4,14 @@ description: "Amouranth divorced by June 30?  Odds: 11.0% YES on Polymarket. See
 marketQuestion: "Amouranth divorced by June 30? "
 category: "politics"
 status: "active"
-lastUpdated: 2026-04-23
+lastUpdated: 2026-04-24
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
 polymarketYes: 11.0
 polymarketNo: 89.0
-polymarketVolume: 9936
+polymarketVolume: 9991
 polymarketUrl: "https://polymarket.com/event/amouranth-divorced-by-june-30"
+analysisDate: 2026-04-24
 ---
 
 # Amouranth Divorce Market Analysis
@@ -23,31 +24,31 @@ polymarketUrl: "https://polymarket.com/event/amouranth-divorced-by-june-30"
 
 ## Market Analysis
 
-This market prices an 11% probability on a divorce filing by mid-2026, suggesting traders view the relationship as relatively stable despite persistent public speculation about the couple's dynamics. The low odds reflect the base rate skepticism around celebrity relationship dissolution combined with the couple's demonstrated commitment to maintaining their public brand as a unit.
+This market is currently pricing in roughly an 11% probability that prominent content creator Amouranth will be divorced by mid-2026, reflecting relatively low conviction that a marital dissolution occurs within the next 18 months. The low odds suggest traders view either her current marriage as stable or the timeframe as too compressed for divorce proceedings to complete, given that contested divorces typically require 6-12 months minimum after filing depending on jurisdiction. This market matters because it represents a shift toward betting on personal life events of public figures, raising questions about prediction market scope and the information asymmetries inherent in trading on non-public relationship dynamics.
 
-The bull case for divorce rests on observable relationship strain signals: Amouranth (Kaitlyn Siragusa) has publicly discussed marital tensions, the couple maintains separate streaming careers with different schedules, and the financial incentives of divorce (asset division, individual brand leverage) could motivate separation. An 18-month window provides sufficient time for relationship deterioration to reach a legal threshold. Additionally, any major financial disputes, infidelity allegations, or documented public conflicts would rapidly reprrice this market higher.
+The bull case for higher YES odds centers on the visibility of relationship strain through public channels. Amouranth has documented marital difficulties in streams and social media, and any escalation of public conflict statements, legal filings, or separation announcements would immediately shift trader sentiment. A divorce filing in late 2024 or early 2025 would create a plausible path to finalization by June 2026, particularly in streamlined jurisdictions like Nevada or Texas. Additionally, the financial complexity of separating combined streaming revenue and assets could actually accelerate resolution if both parties prefer quick settlement over protracted litigation, potentially raising YES odds to 25-35% upon a filing announcement.
 
-The bear case dominates current odds because the couple has weathered previous controversy cycles without separating, their shared business interests create strong structural incentives for reconciliation, and divorce carries reputational costs for both parties. The couple's willingness to address relationship issues publicly (rather than ghosting or sudden breakups) suggests preference for communication. Unless a catalyzing event emerges—documented abuse allegations, major financial fraud, or repeated infidelity claims—the status quo persists.
+The bear case rests on the substantial inertia of marriage even amid public tension. Most high-profile couples weather documented conflicts without divorce; reconciliation through therapy or renewed commitment is statistically common. Moreover, Amouranth has previously described relationship commitment despite controversies, suggesting traders may be overweighting surface-level public statements. The June 2026 deadline also works against YES—even an amicable divorce filed tomorrow faces court processing delays, waiting periods, and potential appeals that could push finalization past the expiry date, especially in slower jurisdictions like California.
 
-Watch for: any significant streaming drama involving both parties simultaneously, changes in their housing arrangements or public appearances together, legal filings unrelated to divorce (restraining orders, financial disputes), and social media activity patterns. The 2026 timeline is long enough that current odds may underestimate black swan risks. Traders should monitor celebrity gossip outlets and both parties' direct statements monthly, as rapid repricing could occur if relationship cracks become visible to mainstream media.
+Key catalysts traders should monitor include any divorce filing (which would be publicly available court records), major streaming content addressing marital status directly, social media silence or account changes suggesting separation, and any joint asset liquidation announcements. The period between now and Q4 2024 is critical—if the relationship stabilizes without public incident through year-end, the odds should compress further toward 5-7%, while even a single high-profile conflict statement could spike YES to 18-22%. Texas and Nevada tracking would be important if she changes residency, as both have more favorable divorce timelines than California.
 
 ## Related Markets
 
-- [US x Iran permanent peace deal by April 30, 2026?](/odds/us-x-iran-permanent-peace-deal-by-april-30-2026) — 12% YES
 - [Will Ron DeSantis win the 2028 US Presidential Election?](/odds/will-ron-desantis-win-the-2028-us-presidential-election) — 2% YES
-- [Iran x Israel/US conflict ends by May 15?](/odds/iran-x-israelus-conflict-ends-by-may-15) — 100% YES
+- [Will Ro Khanna win the 2028 Democratic presidential nomination?](/odds/will-ro-khanna-win-the-2028-democratic-presidential-nomination) — 2% YES
+- [Will Donald Trump announce that the United States blockade of the Strait of Hormuz has been lifted by April 30, 2026?](/odds/will-donald-trump-announce-that-the-united-states-blockade-of-the-strait-of-horm) — 20% YES
 
 ## Frequently Asked Questions
 
-### What specific events would cause this market to reprice significantly higher?
+### Does this market resolve if Amouranth and her husband separate but don't finalize divorce paperwork by June 30?
 
-Public allegations of infidelity, documented abuse claims, major financial disputes becoming public, or sudden separation announcements would all trigger substantial repricing. Smaller signals like extended periods without joint appearances or cryptic social media posts could also gradually shift sentiment.
+No—the market specifically requires divorce finalization, not separation. Legal dissolution must be complete and recorded by the expiry date.
 
-### Does Amouranth's previous relationship history inform these odds?
+### How much would a public statement confirming marital problems shift these odds?
 
-Her past relationship volatility and public nature of previous breakups suggest she's willing to end relationships, but the current marriage's integration with their streaming brand creates different incentives than her prior partnerships, supporting the lower odds.
+Likely significantly—from 11% to 20-25%—because it would reduce information uncertainty and signal genuine intent to dissolve rather than weather the conflict.
 
-### How much does their shared business model affect divorce probability?
+### If she files for divorce in May 2026, can the market still resolve YES?
 
-Significantly—their brand identity is partially tied to their relationship status, meaning divorce would damage both their individual earning potential and require complex asset division of shared streaming infrastructure, creating strong financial disincentives that likely suppress true divorce probability below what pure relationship health metrics would suggest.
+Extremely unlikely given processing times, unless she's in a jurisdiction with expedited procedures and both parties agree to waive waiting periods—most resolves would fall short by months.
 

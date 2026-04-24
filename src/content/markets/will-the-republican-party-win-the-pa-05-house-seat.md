@@ -3,8 +3,8 @@ title: "Will the Republican Party win the PA-05 House seat?"
 description: "Will the Republican Party win the PA-05 House seat? Odds: 7.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Republican Party win the PA-05 House seat?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-23
+status: "settled"
+lastUpdated: 2026-04-24
 expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
 polymarketYes: 7.5

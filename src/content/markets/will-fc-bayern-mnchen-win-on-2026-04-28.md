@@ -3,8 +3,8 @@ title: "Will FC Bayern München win on 2026-04-28?"
 description: "Will FC Bayern München win on 2026-04-28? Odds: 34.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will FC Bayern München win on 2026-04-28?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-23
+status: "settled"
+lastUpdated: 2026-04-24
 expiryDate: 2026-04-28
 tags: ["politics", "polymarket"]
 polymarketYes: 34.5

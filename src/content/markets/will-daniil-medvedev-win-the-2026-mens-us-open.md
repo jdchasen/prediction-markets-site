@@ -3,8 +3,8 @@ title: "Will Daniil Medvedev win the 2026 Men's US Open?"
 description: "Will Daniil Medvedev win the 2026 Men's US Open? Odds: 1.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Daniil Medvedev win the 2026 Men's US Open?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-23
+status: "settled"
+lastUpdated: 2026-04-24
 expiryDate: 2026-09-13
 tags: ["politics", "polymarket"]
 polymarketYes: 1.8

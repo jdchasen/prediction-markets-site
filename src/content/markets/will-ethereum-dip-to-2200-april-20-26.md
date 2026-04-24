@@ -3,8 +3,8 @@ title: "Will Ethereum dip to $2,200 April 20-26?"
 description: "Will Ethereum dip to $2,200 April 20-26? Odds: 22.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Ethereum dip to $2,200 April 20-26?"
 category: "crypto"
-status: "active"
-lastUpdated: 2026-04-23
+status: "settled"
+lastUpdated: 2026-04-24
 expiryDate: 2026-04-27
 tags: ["crypto", "ethereum", "polymarket"]
 polymarketYes: 22.5

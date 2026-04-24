@@ -1,53 +1,54 @@
 ---
 title: "US strike on Cuba by December 31?"
-description: "US strike on Cuba by December 31? Odds: 34.0% YES on Polymarket. See live prices and trade this market."
+description: "US strike on Cuba by December 31? Odds: 32.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "US strike on Cuba by December 31?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-04-23
+lastUpdated: 2026-04-24
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 34.0
-polymarketNo: 66.0
-polymarketVolume: 986695
+polymarketYes: 32.5
+polymarketNo: 67.5
+polymarketVolume: 990100
 polymarketUrl: "https://polymarket.com/event/us-strike-on-cuba-by-december-31"
+analysisDate: 2026-04-24
 ---
 
-A U.S. military strike on Cuba sits at roughly one-in-three odds through the end of 2026, a surprisingly high probability for an action that would fundamentally reshape Western Hemisphere geopolitics and likely end six decades of uneasy coexistence just 90 miles from Florida.
+Prediction markets are pricing nearly one-in-three odds of a US military strike on Cuba before the end of 2026, a surprisingly high probability given the absence of immediate conflict triggers and the dramatic shift such action would represent in decades of US-Cuba policy.
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 34.0% | 66.0% | $986K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 32.5% | 67.5% | $990K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The bull case centers on Cuba's intensifying relationship with Russia and China creating a genuine security crisis. Russian naval vessels have made multiple port calls to Havana in 2024, while reports suggest potential Chinese intelligence facilities on the island. If Cuba allows permanent Russian military installations or hosts Chinese surveillance infrastructure that directly threatens U.S. communications, Washington could frame military action as defensive necessity. A major terrorist incident or attack traced to Cuban soil—however unlikely—would provide immediate justification. The 2025-2026 period also coincides with potential Republican administration changes that might adopt more hawkish Cuba policies, particularly if Florida political dynamics demand action. Civil unrest in Cuba could create intervention scenarios similar to historical precedents in the Caribbean.
+The bull case rests on escalating geopolitical tensions in the Western Hemisphere, particularly if Cuba deepens military cooperation with Russia or China beyond current levels. Concrete scenarios include Cuba hosting advanced Russian military installations similar to the 1962 missile crisis, evidence of Chinese intelligence facilities expanding beyond reported surveillance stations, or Cuban involvement in Venezuelan conflicts that threaten US allies. The Trump administration's hawkish appointments and unpredictable foreign policy approach add credibility to scenarios where limited strikes could occur without traditional diplomatic guardrails. Additionally, any major terrorist attack or security incident linked to Cuban territory could rapidly shift political calculations in favor of military action.
 
-The bear case is considerably stronger. Cuba poses no meaningful military threat to the United States, and striking the island would trigger immediate international condemnation, potential Russian escalation, and domestic political backlash. The Biden administration through 2025 has shown zero appetite for military adventurism in Latin America, and even a Republican successor would face enormous diplomatic costs. Regional organizations like the OAS would universally oppose action. No current intelligence assessments suggest Cuba is developing weapons capabilities or harboring active terrorist threats. The U.S. maintains Guantanamo Bay Naval Base for any genuine security needs. Historical restraint through far more dangerous periods—including the Cuban Missile Crisis—suggests the threshold for actual strikes remains extraordinarily high.
+The bear case emphasizes that despite Cold War-era tensions, the US has avoided direct military strikes on Cuba for over 60 years, even during periods of far greater hostility. Current Cuban military capabilities pose minimal threat to American security, and the island's economic crisis has weakened its geopolitical relevance. A US strike would face significant international condemnation, potentially fracturing Latin American relations that have improved under recent diplomatic efforts. The definition of "strike" matters critically here—if limited to major military operations rather than covert actions, historical precedent strongly favors restraint. No current polling suggests American public appetite for Caribbean military intervention, and Congress would likely resist authorization absent a Pearl Harbor-level provocation.
 
-Key catalysts include the November 2024 U.S. presidential election results and subsequent policy reviews in early 2025, Russia-Cuba military cooperation agreements that might be announced during scheduled diplomatic visits, and any Cuban political transition given the aging leadership. Traders should monitor Pentagon threat assessments to Congress, typically delivered in March annually, and watch for any National Security Council policy shifts toward Cuba in Q1 2025. The probability likely remains inflated by worst-case scenario thinking rather than concrete geopolitical trajectories.
+Key catalysts to monitor include the April 2025 Summit of the Americas, where hemispheric tensions could surface, and any announcements regarding Russian or Chinese military deployments to Cuba in Q2-Q3 2025. Watch for changes in OFAC sanctions policy, which could signal either escalation or de-escalation. The 2026 midterm election cycle beginning in early 2026 creates political incentives that could either constrain or encourage aggressive posturing depending on how foreign policy plays in swing districts. Intelligence assessments about Cuban-hosted foreign military assets, typically disclosed in annual threat assessments each January, will provide concrete data points for traders.
 
 ## Related Markets
 
-- [US x Iran permanent peace deal by April 30, 2026?](/odds/us-x-iran-permanent-peace-deal-by-april-30-2026) — 12% YES
 - [Will Ron DeSantis win the 2028 US Presidential Election?](/odds/will-ron-desantis-win-the-2028-us-presidential-election) — 2% YES
-- [Iran x Israel/US conflict ends by May 15?](/odds/iran-x-israelus-conflict-ends-by-may-15) — 100% YES
+- [Will Ro Khanna win the 2028 Democratic presidential nomination?](/odds/will-ro-khanna-win-the-2028-democratic-presidential-nomination) — 2% YES
+- [Will Donald Trump announce that the United States blockade of the Strait of Hormuz has been lifted by April 30, 2026?](/odds/will-donald-trump-announce-that-the-united-states-blockade-of-the-strait-of-horm) — 20% YES
 
 ## Frequently Asked Questions
 
-### What specific military actions would count toward resolving this market as YES?
+### What specific actions would count as a "US strike on Cuba" for this market to resolve YES?
 
-Any confirmed U.S. air strikes, missile attacks, or special operations raids against Cuban targets would qualify, but the market definition matters—some platforms distinguish between limited strikes versus sustained military campaigns, so verify the exact resolution criteria.
+This likely requires overt military action such as missile strikes, bombing raids, or naval attacks authorized by US forces. Covert operations, cyberattacks, or proxy actions would probably not qualify unless the resolution criteria explicitly includes them.
 
-### How would Russian military presence in Cuba change the strike probability?
+### Has the US conducted any military strikes against Cuban territory since the Bay of Pigs invasion in 1961?
 
-Permanent Russian bases or missile deployments would dramatically increase odds by creating a direct security threat similar to 1962, though such installations would likely trigger diplomatic solutions first given the extreme escalation risks of striking Russian personnel.
+No, the US has not launched direct military strikes on Cuba in over six decades, despite numerous periods of tension including the Cuban Missile Crisis, making this market's 32.5% probability historically aggressive.
 
-### What historical precedents exist for U.S. military action in Cuba?
+### What role could the 2026 midterm elections play in the likelihood of military action against Cuba?
 
-The Bay of Pigs invasion in 1961 was a covert operation rather than direct military strike, and the U.S. has not conducted open military attacks on Cuban soil since the Spanish-American War in 1898, suggesting an extremely high bar for breaking this 126-year pattern.
+Administrations typically avoid initiating new military conflicts in the months before midterms to prevent electoral backlash, suggesting the highest risk windows would be early 2025 or the post-election period from November 2026 through year-end.
 
 ## Learn More
 

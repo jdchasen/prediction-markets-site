@@ -4,50 +4,51 @@ description: "MicroStrategy sells any Bitcoin by June 30, 2026? Odds: 2.9% YES o
 marketQuestion: "MicroStrategy sells any Bitcoin by June 30, 2026?"
 category: "crypto"
 status: "active"
-lastUpdated: 2026-04-23
+lastUpdated: 2026-04-24
 expiryDate: 2026-07-01
 tags: ["bitcoin", "crypto", "polymarket"]
 polymarketYes: 2.9
 polymarketNo: 97.1
-polymarketVolume: 992990
+polymarketVolume: 993295
 polymarketUrl: "https://polymarket.com/event/microstrategy-sells-any-bitcoin-by-june-30-2026"
+analysisDate: 2026-04-24
 ---
 
-The market assigns less than 3% probability to MicroStrategy divesting any portion of its massive Bitcoin treasury before mid-2026, reflecting strong conviction in CEO Michael Saylor's unwavering accumulation strategy and the company's transformation into a leveraged Bitcoin investment vehicle. This matters because MicroStrategy holds approximately 214,400 BTC (as of late 2024), making it the largest corporate Bitcoin holder and a bellwether for institutional crypto adoption.
+The market assigns less than 3% probability that MicroStrategy will sell any portion of its Bitcoin holdings before June 30, 2026, reflecting strong trader conviction that CEO Michael Saylor's accumulation strategy remains unshakeable. This matters because MicroStrategy holds approximately 190,000+ BTC (roughly $5-8 billion at current prices), making it the largest corporate Bitcoin holder and a bellwether for institutional crypto commitment. Any sale would send shockwaves through markets and potentially signal a fundamental shift in corporate treasury strategy.
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 2.9% | 97.1% | $992K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 2.9% | 97.1% | $993K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The bull case for YES centers on scenarios that could force liquidation: a catastrophic Bitcoin price collapse below $15,000-20,000 that triggers covenant breaches on MicroStrategy's $4+ billion in convertible debt (with various maturity dates through 2028-2032), potential SEC enforcement action requiring asset restructuring, or an unexpected leadership change that pivots away from the Bitcoin strategy. The company's debt obligations include convertible notes maturing in 2027, 2028, 2030, and 2032, with varying conversion prices mostly above $200 per MSTR share. A severe liquidity crisis or bankruptcy scenario could theoretically force sales, though the company has maintained its strategy through multiple 50%+ Bitcoin drawdowns.
+The bull case for YES (a sale occurring) centers on financial distress scenarios: if Bitcoin drops below $20,000 for an extended period, MicroStrategy's equity could face extreme pressure, potentially forcing covenant violations on its $2.4 billion in convertible notes with various maturity dates through 2027-2028. The company's business model has essentially transformed into a leveraged Bitcoin bet, and a severe crypto winter combined with deteriorating software business fundamentals could force liquidation. Regulatory intervention represents another tail risk—the SEC could theoretically impose restrictions on leveraged crypto holdings by publicly-traded companies, or tax law changes could create perverse incentives for partial liquidation.
 
-The bear case for NO (supporting current odds) emphasizes MicroStrategy's proven resilience through multiple crypto winters, including the 2022 collapse, without selling a single satoshi. The company has consistently raised additional capital through at-the-market equity offerings and convertible debt specifically to acquire more Bitcoin, with Saylor repeatedly stating Bitcoin is the exit strategy, not something to exit from. The company's $42 billion "21/21 Plan" announced in late 2024 signals aggressive continued accumulation through 2027. Additionally, selling would undermine the entire business model and shareholder value proposition, making any voluntary sale economically irrational unless Bitcoin fundamentally breaks.
+The bear case for NO (no sale) is significantly stronger given Saylor's ideological commitment and corporate structure. MicroStrategy has consistently purchased every dip since August 2020, adding 12,000+ BTC in Q4 2024 alone at an average price above $95,000, demonstrating willingness to lever up rather than derisk. The company has established multiple financing mechanisms—ATM equity offerings, convertible debt, and secured term loans—specifically designed to avoid forced selling. Saylor has repeatedly stated Bitcoin is the exit strategy, not something to exit from, and maintains voting control through Class B shares. Critical dates to monitor include convertible note maturities (February 2027 for $650 million, December 2027 for $500 million), though these fall mostly outside the market window.
 
-Key catalysts to monitor include MicroStrategy's quarterly earnings reports where debt covenant compliance is disclosed, Bitcoin price movements that could stress the balance sheet (particularly sustained trading below $25,000), and any SEC regulatory actions following the company's classification changes to a Bitcoin development company. Watch for convertible note conversion activity and any shifts in Saylor's public messaging. The 2025 Bitcoin halving aftermath and potential spot Bitcoin ETF flows will indirectly impact this market by affecting MSTR's ability to raise capital through equity offerings at favorable prices.
+Traders should watch MicroStrategy's quarterly earnings announcements for any changes in treasury policy language, Bitcoin's sustained movement below $30,000 which would pressure the equity significantly, and monthly Form 8-K filings that disclose BTC purchases (the company has filed consistently after each acquisition). The company's stock performance relative to Bitcoin's NAV discount/premium provides early warning signals—a widening discount above 50% historically indicates market skepticism. Any departure of Michael Saylor from the CEO or executive chairman role would dramatically shift probabilities, though no such indication exists currently.
 
 ## Related Markets
 
-- [Will Bitcoin reach $500,000 by December 31, 2026?](/odds/will-bitcoin-reach-500000-by-december-31-2026) — 2% YES
-- [Will Bitcoin reach $110,000 in April?](/odds/will-bitcoin-reach-110000-in-april) — 0% YES
+- [Will Bitcoin reach $82,500 in April?](/odds/will-bitcoin-reach-82500-in-april) — 26% YES
 - [Will Ethereum reach $7,500 by December 31, 2026?](/odds/will-ethereum-reach-7500-by-december-31-2026) — 6% YES
+- [Will October be the best month for Bitcoin in 2026?](/odds/will-october-be-the-best-month-for-bitcoin-in-2026) — 16% YES
 
 ## Frequently Asked Questions
 
-### What Bitcoin price level would actually force MicroStrategy to sell due to debt covenants?
+### What would trigger a covenant violation forcing MicroStrategy to sell Bitcoin?
 
-MicroStrategy's convertible debt includes various covenants, but the company has structured loans to avoid margin calls; estimates suggest Bitcoin would need to fall below $15,000-20,000 for extended periods to create genuine solvency concerns, though exact thresholds aren't publicly disclosed for all instruments.
+MicroStrategy's Silvergate-secured term loan requires maintaining certain Bitcoin collateral ratios, though exact terms aren't fully public. A sustained Bitcoin price below $15,000-20,000 combined with inability to post additional collateral could theoretically trigger forced liquidation, but the company has always raised capital preemptively to avoid this scenario.
 
-### Could Michael Saylor's departure or death trigger a sale of Bitcoin holdings?
+### Could MicroStrategy sell Bitcoin for tax loss harvesting purposes without violating the market terms?
 
-While Saylor's removal could theoretically enable a strategic pivot, the board and shareholder base have explicitly endorsed the Bitcoin strategy, and many investors hold MSTR specifically for Bitcoin exposure; however, an unexpected succession without proper continuity planning represents a tail risk for this market.
+Any sale of any amount would resolve this market as YES, including strategic tax-loss harvesting or rebalancing trades. The market resolution criteria don't distinguish between full liquidation and selling even a single Bitcoin, making wash-sale type transactions a potential edge case that would technically qualify.
 
-### Would partial sales or Bitcoin-collateralized lending count as "selling" for this market resolution?
+### When are the next dates MicroStrategy typically announces Bitcoin purchases or treasury updates?
 
-Based on typical market resolution criteria, using Bitcoin as loan collateral would not constitute selling, but any actual transfer of ownership or disposal of Bitcoin—even a single satoshi—to another party would resolve this market as YES.
+MicroStrategy files Form 8-K within four business days of completing BTC purchases and reports comprehensive holdings during quarterly earnings (typically late January, April, July, and October). The company announced purchases in December 2024 and has maintained a pattern of weekly or bi-weekly buying during accumulation phases.
 
 ## Learn More
 

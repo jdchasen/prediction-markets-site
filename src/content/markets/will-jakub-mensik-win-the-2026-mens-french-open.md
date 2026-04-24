@@ -4,14 +4,13 @@ description: "Will Jakub Mensik win the 2026 Men's French Open? Odds: 0.2% YES o
 marketQuestion: "Will Jakub Mensik win the 2026 Men's French Open?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-04-23
+lastUpdated: 2026-04-24
 expiryDate: 2026-06-07
 tags: ["politics", "polymarket"]
 polymarketYes: 0.2
 polymarketNo: 99.8
-polymarketVolume: 97889
+polymarketVolume: 99629
 polymarketUrl: "https://polymarket.com/event/will-jakub-mensik-win-the-2026-mens-french-open"
-analysisDate: 2026-04-23
 ---
 
 # Analysis

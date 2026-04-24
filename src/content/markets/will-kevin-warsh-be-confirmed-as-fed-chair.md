@@ -3,8 +3,8 @@ title: "Will Kevin Warsh be confirmed as Fed Chair?"
 description: "Will Kevin Warsh be confirmed as Fed Chair? Odds: 94.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Kevin Warsh be confirmed as Fed Chair?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-23
+status: "settled"
+lastUpdated: 2026-04-24
 expiryDate: 2026-10-31
 tags: ["ai", "federal-reserve", "politics", "polymarket"]
 polymarketYes: 94.4

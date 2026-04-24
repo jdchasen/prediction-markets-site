@@ -4,14 +4,13 @@ description: "Will any AI model reach 1510 Overall Arena Score by September 30, 
 marketQuestion: "Will any AI model reach 1510 Overall Arena Score by September 30, 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-04-23
+lastUpdated: 2026-04-24
 expiryDate: 2026-09-30
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 83.5
 polymarketNo: 16.5
-polymarketVolume: 9953
+polymarketVolume: 9972
 polymarketUrl: "https://polymarket.com/event/will-any-ai-model-reach-1510-overall-arena-score-by-september-30-2026"
-analysisDate: 2026-04-23
 ---
 
 # AI Arena Score Prediction Market Analysis

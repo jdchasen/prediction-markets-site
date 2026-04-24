@@ -3,8 +3,8 @@ title: "Will Bitcoin reach $110,000 in April?"
 description: "Will Bitcoin reach $110,000 in April? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Bitcoin reach $110,000 in April?"
 category: "crypto"
-status: "active"
-lastUpdated: 2026-04-23
+status: "settled"
+lastUpdated: 2026-04-24
 expiryDate: 2026-05-01
 tags: ["bitcoin", "crypto", "polymarket"]
 polymarketYes: 0.1

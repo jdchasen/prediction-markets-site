@@ -3,8 +3,8 @@ title: "Will Forhad Hussain win the 2026 London Borough of Newham mayoral electi
 description: "Will Forhad Hussain win the 2026 London Borough of Newham mayoral election? Odds: 63.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Forhad Hussain win the 2026 London Borough of Newham mayoral election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-23
+status: "settled"
+lastUpdated: 2026-04-24
 expiryDate: 2026-05-07
 tags: ["ai", "elections", "politics", "polymarket"]
 polymarketYes: 63.0

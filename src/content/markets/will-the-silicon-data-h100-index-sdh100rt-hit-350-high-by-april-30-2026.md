@@ -4,14 +4,13 @@ description: "Will the Silicon Data H100 Index (SDH100RT) hit $3.50 (HIGH) by Ap
 marketQuestion: "Will the Silicon Data H100 Index (SDH100RT) hit $3.50 (HIGH) by April 30, 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-04-23
+lastUpdated: 2026-04-24
 expiryDate: 2026-04-30
 tags: ["politics", "polymarket"]
 polymarketYes: 1.2
 polymarketNo: 98.8
 polymarketVolume: 9899
 polymarketUrl: "https://polymarket.com/event/will-the-silicon-data-h100-index-sdh100rt-hit-3pt50-high-by-april-30-2026"
-analysisDate: 2026-04-23
 ---
 
 # Silicon Data H100 Index Analysis

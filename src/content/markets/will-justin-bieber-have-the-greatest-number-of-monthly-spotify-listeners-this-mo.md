@@ -3,8 +3,8 @@ title: "Will Justin Bieber have the greatest number of monthly Spotify listeners
 description: "Will Justin Bieber have the greatest number of monthly Spotify listeners this month? Odds: 20.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Justin Bieber have the greatest number of monthly Spotify listeners this month?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-23
+status: "settled"
+lastUpdated: 2026-04-24
 expiryDate: 2026-04-30
 tags: ["politics", "polymarket"]
 polymarketYes: 20.5
