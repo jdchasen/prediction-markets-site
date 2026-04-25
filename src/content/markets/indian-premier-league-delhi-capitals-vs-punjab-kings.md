@@ -3,7 +3,7 @@ title: "Indian Premier League: Delhi Capitals vs Punjab Kings"
 description: "Indian Premier League: Delhi Capitals vs Punjab Kings Odds: 87.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Indian Premier League: Delhi Capitals vs Punjab Kings"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-25
 expiryDate: 2026-05-02
 tags: ["polymarket", "sports"]

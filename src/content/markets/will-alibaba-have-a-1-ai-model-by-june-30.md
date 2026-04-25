@@ -1,17 +1,16 @@
 ---
 title: "Will Alibaba have a #1 AI model by June 30?"
-description: "Will Alibaba have a #1 AI model by June 30? Odds: 4.3% YES on Polymarket. See live prices and trade this market."
+description: "Will Alibaba have a #1 AI model by June 30? Odds: 4.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Alibaba have a #1 AI model by June 30?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-04-25
 expiryDate: 2026-06-30
 tags: ["ai", "politics", "polymarket"]
-polymarketYes: 4.3
-polymarketNo: 95.7
-polymarketVolume: 9831
+polymarketYes: 4.2
+polymarketNo: 95.8
+polymarketVolume: 9882
 polymarketUrl: "https://polymarket.com/event/will-alibaba-have-a-1-ai-model-by-june-30"
-analysisDate: 2026-04-25
 ---
 
 # Alibaba AI Model Market Analysis

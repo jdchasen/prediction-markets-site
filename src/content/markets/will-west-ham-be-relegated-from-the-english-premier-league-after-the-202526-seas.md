@@ -11,7 +11,6 @@ polymarketYes: 34.5
 polymarketNo: 65.5
 polymarketVolume: 99457
 polymarketUrl: "https://polymarket.com/event/will-west-ham-be-relegated-from-the-english-premier-league-after-the-202526-season"
-analysisDate: 2026-04-25
 ---
 
 West Ham faces a one-in-three chance of relegation according to current market pricing, a concerning assessment for a club that has spent significant portions of recent decades as a Premier League fixture and invested heavily in their London Stadium move.

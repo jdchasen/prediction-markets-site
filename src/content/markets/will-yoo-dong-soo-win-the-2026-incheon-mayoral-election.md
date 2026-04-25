@@ -11,7 +11,6 @@ polymarketYes: 0.2
 polymarketNo: 99.8
 polymarketVolume: 97855
 polymarketUrl: "https://polymarket.com/event/will-yoo-dong-soo-win-the-2026-incheon-mayoral-election"
-analysisDate: 2026-04-25
 ---
 
 The Polymarket odds showing just 0.2% probability for Yoo Dong-soo winning the 2026 Incheon mayoral race indicates traders view his candidacy as effectively dead-on-arrival, though the election remains over a year away with primaries yet to be determined.

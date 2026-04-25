@@ -3,7 +3,7 @@ title: "Trump posts himself as Jesus again in April?"
 description: "Trump posts himself as Jesus again in April? Odds: 2.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Trump posts himself as Jesus again in April?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-25
 expiryDate: 2026-04-30
 tags: ["ai", "politics", "polymarket", "trump"]

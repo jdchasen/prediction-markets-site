@@ -3,7 +3,7 @@ title: "Will Jon Ossoff win the 2028 Democratic presidential nomination?"
 description: "Will Jon Ossoff win the 2028 Democratic presidential nomination? Odds: 5.3% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Jon Ossoff win the 2028 Democratic presidential nomination?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-25
 expiryDate: 2028-11-07
 tags: ["politics", "polymarket"]

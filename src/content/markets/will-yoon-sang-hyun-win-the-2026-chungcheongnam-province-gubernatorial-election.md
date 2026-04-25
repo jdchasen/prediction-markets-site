@@ -9,9 +9,8 @@ expiryDate: 2026-06-03
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.2
 polymarketNo: 99.8
-polymarketVolume: 98112
+polymarketVolume: 98213
 polymarketUrl: "https://polymarket.com/event/will-yoon-sang-hyun-win-the-2026-chungcheongnam-province-gubernatorial-election"
-analysisDate: 2026-04-25
 ---
 
 The market reflects near-zero confidence that Yoon Sang-hyun, a conservative politician with deep roots in Seoul rather than Chungcheongnam Province, will win the governorship in June 2026, signaling traders view him as either unlikely to run or certain to lose if he does. This matters as Chungcheongnam represents a critical swing region that has alternated between progressive and conservative governors, making it a bellwether for South Korea's broader political sentiment ahead of the 2027 presidential election.

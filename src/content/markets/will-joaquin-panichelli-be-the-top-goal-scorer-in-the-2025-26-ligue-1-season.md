@@ -3,7 +3,7 @@ title: "Will Joaquin Panichelli be the top goal scorer in the 2025-26 Ligue 1 se
 description: "Will Joaquin Panichelli be the top goal scorer in the 2025-26 Ligue 1 season? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Joaquin Panichelli be the top goal scorer in the 2025-26 Ligue 1 season?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-25
 expiryDate: 2026-05-30
 tags: ["polymarket", "sports"]

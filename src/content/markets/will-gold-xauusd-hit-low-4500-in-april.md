@@ -3,7 +3,7 @@ title: "Will Gold (XAUUSD) hit (LOW) $4,500 in April?"
 description: "Will Gold (XAUUSD) hit (LOW) $4,500 in April? Odds: 9.6% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Gold (XAUUSD) hit (LOW) $4,500 in April?"
 category: "finance"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-25
 expiryDate: 2026-05-01
 tags: ["finance", "polymarket"]

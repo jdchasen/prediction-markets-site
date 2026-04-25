@@ -1,48 +1,48 @@
 ---
 title: "Will UK GDP growth in Q1 2026 be between 0% and 0.3%?"
-description: "Will UK GDP growth in Q1 2026 be between 0% and 0.3%? Odds: 20.5% YES on Polymarket. See live prices and trade this market."
+description: "Will UK GDP growth in Q1 2026 be between 0% and 0.3%? Odds: 14.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will UK GDP growth in Q1 2026 be between 0% and 0.3%?"
 category: "economics"
 status: "active"
 lastUpdated: 2026-04-25
 expiryDate: 2026-05-14
 tags: ["economics", "polymarket"]
-polymarketYes: 20.5
-polymarketNo: 79.5
+polymarketYes: 14.5
+polymarketNo: 85.5
 polymarketVolume: 9611
 polymarketUrl: "https://polymarket.com/event/will-uk-gdp-growth-in-q1-2026-be-between-0-and-0pt3"
 analysisDate: 2026-04-25
 ---
 
-# UK GDP Growth Q1 2026 Analysis
+# UK Q1 2026 GDP Growth Analysis
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 20.5% | 79.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 14.5% | 85.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The market is pricing in roughly a 1-in-5 chance that UK GDP expands at the slowest possible pace—between 0% and 0.3%—suggesting traders expect more robust growth, yet the low probability also reflects meaningful recession concerns given current economic headwinds. This narrow band matters because it's the difference between stagnation and meaningful contraction; anything below 0% would signal recession, so this range represents a critical threshold where the economy barely moves forward. With the resolution date set for mid-May 2026, market participants have roughly 18 months to assess how UK fiscal policy, inflation dynamics, and Bank of England monetary policy play out under the new Labour government.
+The market is pricing in substantial skepticism about the UK experiencing minimal growth in the first quarter of 2026, with current odds implying traders expect growth either below 0% or above 0.3%. This matters now because UK fiscal and monetary policy decisions made over the next six months will directly determine the growth trajectory entering 2026, and the Bank of England's December 2024 and February 2025 rate decisions will heavily influence Q1 outcomes. The narrow band of 0%–0.3% represents a near-stall scenario that sits between recession and modest expansion—the most economically fragile outcome for a developed economy.
 
-The bull case for YES (stagnation odds rising) centers on three structural risks: the Office for Budget Responsibility has warned that spring 2025 fiscal measures—particularly employer National Insurance contributions increasing in April 2025—will materially suppress business investment and hiring through Q1 2026; persistent services sector weakness amid consumer spending constraints; and the possibility that Bank of England rate cuts don't stimulate demand sufficiently if households remain cautious. If the CPI data throughout 2025 (released monthly on the 18th, with Q4 2024 due January 15th) stays sticky above the BoE's 2% target, rate-cut cycles could stall, keeping monetary conditions restrictive into early 2026. Manufacturing PMI readings (released first business day of each month) will signal export demand sensitivity; if they remain below 50 through late 2025, that signals contraction in goods production heading into Q1.
+The bull case for YES (narrow growth) rests on three pillars: the Bank of England cutting rates toward 3.5%–4% by Q1 2026 while households remain cautious due to fiscal drag from Rachel Reeves' autumn budget (higher employer National Insurance contributions taking effect April 2025), dampening business investment through early 2026. Wage growth, while still elevated, should decelerate toward 3%–3.5% by Q1 2026 as inflation stabilizes around the 2% target. If UK unemployment creeps toward 4.5%–5% over the next 12 months—a realistic risk given business hiring caution—consumer spending could contract just enough to push growth into the 0%–0.3% zone. Incoming CPI data for January and February 2025 will be critical; if inflation drops sharply toward target, the BoE may accelerate cuts beyond current guidance, but that paradoxically could weaken demand through delayed confidence recovery.
 
-The bear case for NO (odds dropping) argues that consensus economist forecasts cluster around 1.0-1.5% growth for 2026 overall, implying Q1 alone should exceed 0.3% unless there's a sharp shock; the BoE's own projections from December 2024's meetings suggest policy normalization by mid-2026 will support activity; and global growth acceleration (particularly US resilience) could buoy UK exports even if domestic demand stays soft. Retail sales data (released monthly on the 18th) and unemployment figures (monthly, second Tuesday) will be critical—if employment holds steady and consumer confidence stabilizes in H2 2025, that signals sufficient demand momentum for growth well above the 0-0.3% range. The Q4 2024 GDP print (due January 29th) will establish the baseline; if it's already trending above 0.5%, Q1 2026 stagnation becomes structurally unlikely unless a major shock intervenes.
+The bear case for NO (growth outside the range) argues the consensus miss entirely. Pent-up demand from 2024 caution could re-emerge if real wage growth remains positive through 2025, pushing growth above 0.3%. The ONS has consistently revised historical GDP growth upward, suggesting measurement bias toward underestimation rather than overestimation. Crucially, the January 2025 retail sales data and February PMI services index (due mid-March 2025) will signal Q1 momentum before the market's May expiration—if both surprise to the upside, traders will price in above-0.3% growth with high confidence. Additionally, government spending on NHS and public services rarely shows true Q1 contractions; countercyclical fiscal support tends to floor growth at 0.4%+ in developed economies.
 
-Watch the BoE's February 2025 monetary policy decision and quarterly inflation report for guidance on the rate path; any signaling of prolonged hold-steady or hawkish surprise could suppress 2026 growth. The Office for National Statistics flash estimate for Q1 2026 GDP (typically released mid-April 2026) will be the first hard data that moves this market decisively; if that print is 0.2% or lower, YES bettors win outright, but if it's 0.4%+ the position becomes untenable. Track quarterly business investment surveys and the Financial Conduct Authority's credit conditions outlook (typically quarterly) as leading indicators—if corporate investment starts declining in late 2025, it signals Q1 2026 weakness ahead.
+Watch the BoE's 6 February 2025 rate decision and forward guidance closely; any signal of pausing cuts would sharply increase YES odds by signaling stickier inflation. The Office for Budget Responsibility's growth forecast revision (expected February 2025) could trigger repricing if it materially downgrades 2026. Most critically, UK unemployment figures (released monthly, lag by one month) trending toward 4.5% through Q4 2025 would be the strongest leading indicator for YES. Traders should monitor the March 2025 PMI and April 2025 employment data as the two best forward-looking signals; both are released before the market expires in May.
 
 ## Related Markets
 
 - [Will 7 Fed rate cuts happen in 2026?](/odds/will-7-fed-rate-cuts-happen-in-2026) — 0% YES
-- [Will 3 Fed rate cuts happen in 2026?](/odds/will-3-fed-rate-cuts-happen-in-2026) — 7% YES
-- [ECB rate hike in 2026?](/odds/ecb-rate-hike-in-2026) — 72% YES
+- [Will 3 Fed rate cuts happen in 2026?](/odds/will-3-fed-rate-cuts-happen-in-2026) — 8% YES
+- [ECB rate hike in 2026?](/odds/ecb-rate-hike-in-2026) — 78% YES
 
 ## Frequently Asked Questions
 
-### What's the most likely growth rate the market is actually pricing in if YES is only 20.5%?
+### Why is the BoE's February 2025 rate decision disproportionately important for this market rather than later decisions?
 
-If this range captures roughly the 5th-25th percentile of growth outcomes,
+The February decision and accompanying forward guidance will set expectations for the cumulative rate path through Q1 2026; if the BoE signals it will hold rates steady or cut only modestly, market pricing for terminal rates stabilizes, anchoring consumption and investment growth forecasts months
 
 ## Learn More
 

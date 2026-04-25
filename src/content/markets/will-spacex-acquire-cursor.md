@@ -3,7 +3,7 @@ title: "Will SpaceX acquire Cursor?"
 description: "Will SpaceX acquire Cursor? Odds: 78.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will SpaceX acquire Cursor?"
 category: "tech"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-25
 expiryDate: 2026-12-31
 tags: ["polymarket", "tech"]

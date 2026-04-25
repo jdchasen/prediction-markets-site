@@ -11,7 +11,6 @@ polymarketYes: 85.0
 polymarketNo: 15.0
 polymarketVolume: 9749
 polymarketUrl: "https://polymarket.com/event/nothing-ever-happens-obama"
-analysisDate: 2026-04-25
 ---
 
 # Analysis: Nothing Ever Happens: Obama Market

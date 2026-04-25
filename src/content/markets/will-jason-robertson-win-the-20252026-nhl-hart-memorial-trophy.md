@@ -11,7 +11,6 @@ polymarketYes: 0.1
 polymarketNo: 100.0
 polymarketVolume: 9819
 polymarketUrl: "https://polymarket.com/event/nhl-2025-26-hart-memorial-trophy-jason-robertson"
-analysisDate: 2026-04-25
 ---
 
 Jason Robertson's Hart Trophy odds sit at a near-negligible 0.1%, reflecting the market's assessment that the Dallas Stars winger faces structural barriers to winning the NHL's MVP award despite being a consistent elite performer. This valuation matters now because Robertson's 2025-26 season trajectory will be set early, and any breakthrough performance or team success could shift how voters perceive his candidacy by June 2026.

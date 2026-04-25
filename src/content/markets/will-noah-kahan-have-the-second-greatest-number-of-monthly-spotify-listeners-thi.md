@@ -11,7 +11,6 @@ polymarketYes: 0.4
 polymarketNo: 99.6
 polymarketVolume: 9866
 polymarketUrl: "https://polymarket.com/event/will-noah-kahan-have-the-second-greatest-number-of-monthly-spotify-listeners-this-month-836"
-analysisDate: 2026-04-25
 ---
 
 This market is spectacularly mispriced because it conflates a musician's streaming performance with political outcomes, creating a category mismatch that depresses odds on what should be a straightforward entertainment question. The 0.4% YES reflects traders treating Noah Kahan's monthly Spotify ranking as a proxy for political events rather than evaluating his actual streaming trajectory independent of external factors.

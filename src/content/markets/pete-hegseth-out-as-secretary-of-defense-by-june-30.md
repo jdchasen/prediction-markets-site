@@ -3,7 +3,7 @@ title: "Pete Hegseth out as Secretary of Defense by June 30?"
 description: "Pete Hegseth out as Secretary of Defense by June 30? Odds: 19.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Pete Hegseth out as Secretary of Defense by June 30?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-25
 expiryDate: 2026-06-30
 tags: ["ethereum", "politics", "polymarket"]

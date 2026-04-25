@@ -11,7 +11,6 @@ polymarketYes: 0.5
 polymarketNo: 99.5
 polymarketVolume: 9930
 polymarketUrl: "https://polymarket.com/event/will-spacexs-initial-public-offering-occur-in-november-2026-et"
-analysisDate: 2026-04-25
 ---
 
 The prediction market is pricing an SpaceX IPO in November 2026 at near-zero probability, reflecting widespread skepticism that Elon Musk will take the company public within that specific window—a crucial test of whether markets are underestimating near-term exit pressures or correctly assessing Musk's long-standing resistance to going public. This matters now because SpaceX is approaching its highest valuation ever ($210 billion in recent private rounds) and faces mounting pressure from existing shareholders, yet Musk has consistently delayed public-market timelines while pursuing other priorities like X and Tesla.

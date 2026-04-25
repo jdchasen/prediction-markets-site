@@ -1,17 +1,16 @@
 ---
 title: "Will April 2026 be the 1st hottest on record?"
-description: "Will April 2026 be the 1st hottest on record? Odds: 2.5% YES on Polymarket. See live prices and trade this market."
+description: "Will April 2026 be the 1st hottest on record? Odds: 2.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will April 2026 be the 1st hottest on record?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-04-25
 expiryDate: 2026-05-10
 tags: ["politics", "polymarket"]
-polymarketYes: 2.5
-polymarketNo: 97.5
-polymarketVolume: 9809
+polymarketYes: 2.2
+polymarketNo: 97.8
+polymarketVolume: 9846
 polymarketUrl: "https://polymarket.com/event/will-april-2026-be-the-1st-hottest-on-record"
-analysisDate: 2026-04-25
 ---
 
 # April 2026 Temperature Record Analysis
