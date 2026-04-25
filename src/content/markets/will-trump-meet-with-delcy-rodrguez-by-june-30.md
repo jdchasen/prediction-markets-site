@@ -1,17 +1,16 @@
 ---
 title: "Will Trump meet with Delcy Rodríguez by June 30?"
-description: "Will Trump meet with Delcy Rodríguez by June 30? Odds: 15.0% YES on Polymarket. See live prices and trade this market."
+description: "Will Trump meet with Delcy Rodríguez by June 30? Odds: 14.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Trump meet with Delcy Rodríguez by June 30?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-04-24
+lastUpdated: 2026-04-25
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket", "trump"]
-polymarketYes: 15.0
-polymarketNo: 85.0
+polymarketYes: 14.0
+polymarketNo: 86.0
 polymarketVolume: 9973
 polymarketUrl: "https://polymarket.com/event/will-trump-meet-with-delcy-rodrguez-by-june-30"
-analysisDate: 2026-04-24
 ---
 
 # Trump-Rodríguez Meeting Market Analysis

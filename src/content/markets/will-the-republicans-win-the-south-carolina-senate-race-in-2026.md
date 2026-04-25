@@ -4,13 +4,12 @@ description: "Will the Republicans win the South Carolina Senate race in 2026? O
 marketQuestion: "Will the Republicans win the South Carolina Senate race in 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-04-24
+lastUpdated: 2026-04-25
 tags: ["politics", "polymarket"]
 polymarketYes: 79.0
 polymarketNo: 21.0
 polymarketVolume: 9754
 polymarketUrl: "https://polymarket.com/event/will-the-republicans-win-the-south-carolina-senate-race-in-2026"
-analysisDate: 2026-04-24
 ---
 
 # South Carolina Senate 2026: Republicans Hold Structural Advantage but Timeline Remains Uncertain

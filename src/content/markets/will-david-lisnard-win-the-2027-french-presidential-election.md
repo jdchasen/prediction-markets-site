@@ -4,14 +4,13 @@ description: "Will David Lisnard win the 2027 French presidential election? Odds
 marketQuestion: "Will David Lisnard win the 2027 French presidential election?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-04-24
+lastUpdated: 2026-04-25
 expiryDate: 2027-04-30
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 3.9
 polymarketNo: 96.2
-polymarketVolume: 977360
+polymarketVolume: 981516
 polymarketUrl: "https://polymarket.com/event/will-david-lisnard-win-the-2027-french-presidential-election"
-analysisDate: 2026-04-24
 ---
 
 David Lisnard, the mayor of Cannes and president of the Association of Mayors of France, currently sits at the extreme margins of presidential contention with just 3.9% odds, reflecting his status as a long-shot candidate who would need multiple dramatic shifts in French politics to become competitive by April 2027.

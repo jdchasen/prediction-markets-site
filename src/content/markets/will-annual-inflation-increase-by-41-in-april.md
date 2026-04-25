@@ -1,17 +1,16 @@
 ---
 title: "Will annual inflation increase by ≥4.1% in April?"
-description: "Will annual inflation increase by ≥4.1% in April? Odds: 2.8% YES on Polymarket. See live prices and trade this market."
+description: "Will annual inflation increase by ≥4.1% in April? Odds: 4.3% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will annual inflation increase by ≥4.1% in April?"
 category: "economics"
 status: "active"
-lastUpdated: 2026-04-24
+lastUpdated: 2026-04-25
 expiryDate: 2026-05-12
 tags: ["economics", "polymarket", "sports"]
-polymarketYes: 2.8
-polymarketNo: 97.2
-polymarketVolume: 9751
+polymarketYes: 4.3
+polymarketNo: 95.7
+polymarketVolume: 9791
 polymarketUrl: "https://polymarket.com/event/will-annual-inflation-increase-by-4pt1-in-april"
-analysisDate: 2026-04-24
 ---
 
 # Inflation Prediction Market Analysis

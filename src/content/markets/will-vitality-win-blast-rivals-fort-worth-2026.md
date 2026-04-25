@@ -1,17 +1,16 @@
 ---
 title: "Will Vitality win BLAST Rivals Fort Worth 2026?"
-description: "Will Vitality win BLAST Rivals Fort Worth 2026? Odds: 67.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Vitality win BLAST Rivals Fort Worth 2026? Odds: 66.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Vitality win BLAST Rivals Fort Worth 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-04-24
+lastUpdated: 2026-04-25
 expiryDate: 2026-05-03
 tags: ["politics", "polymarket"]
-polymarketYes: 67.5
-polymarketNo: 32.5
-polymarketVolume: 9889
+polymarketYes: 66.5
+polymarketNo: 33.5
+polymarketVolume: 9973
 polymarketUrl: "https://polymarket.com/event/will-vitality-win-blast-rivals-fort-worth-2026"
-analysisDate: 2026-04-24
 ---
 
 # BLAST Rivals Fort Worth 2026 Analysis

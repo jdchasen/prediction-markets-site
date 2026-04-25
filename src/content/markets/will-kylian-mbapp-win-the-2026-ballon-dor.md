@@ -4,14 +4,13 @@ description: "Will Kylian Mbappé win the 2026 Ballon d'Or? Odds: 12.5% YES on P
 marketQuestion: "Will Kylian Mbappé win the 2026 Ballon d'Or?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-04-24
+lastUpdated: 2026-04-25
 expiryDate: 2026-10-31
 tags: ["politics", "polymarket"]
 polymarketYes: 12.5
 polymarketNo: 87.5
-polymarketVolume: 97343
+polymarketVolume: 97673
 polymarketUrl: "https://polymarket.com/event/will-kylian-mbapp-win-the-2026-ballon-dor"
-analysisDate: 2026-04-24
 ---
 
 # Mbappé's 2026 Ballon d'Or Odds: A Crowded Field Favors Established Contenders

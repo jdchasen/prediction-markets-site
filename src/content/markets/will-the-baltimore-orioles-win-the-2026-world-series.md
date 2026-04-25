@@ -1,17 +1,16 @@
 ---
 title: "Will the Baltimore Orioles win the 2026 World Series?"
-description: "Will the Baltimore Orioles win the 2026 World Series? Odds: 2.4% YES on Polymarket. See live prices and trade this market."
+description: "Will the Baltimore Orioles win the 2026 World Series? Odds: 2.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Baltimore Orioles win the 2026 World Series?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-04-24
+lastUpdated: 2026-04-25
 expiryDate: 2026-10-31
 tags: ["politics", "polymarket"]
-polymarketYes: 2.4
-polymarketNo: 97.6
-polymarketVolume: 977655
+polymarketYes: 2.2
+polymarketNo: 97.8
+polymarketVolume: 983534
 polymarketUrl: "https://polymarket.com/event/will-the-baltimore-orioles-win-the-2026-world-series"
-analysisDate: 2026-04-24
 ---
 
 The Baltimore Orioles are priced as long shots at 2.4% to win the 2026 World Series, reflecting the inherent difficulty of any single team capturing baseball's championship two years out, though their odds should improve as their young core matures and the timeline narrows.

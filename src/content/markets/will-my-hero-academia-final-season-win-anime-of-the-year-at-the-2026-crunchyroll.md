@@ -3,8 +3,8 @@ title: "Will \"My Hero Academia FINAL SEASON\" win Anime of the Year at the 2026
 description: "Will \"My Hero Academia FINAL SEASON\" win Anime of the Year at the 2026 Crunchyroll Anime Awards? Odds: 71.5% YES on Polymarket. See live prices and trade thi..."
 marketQuestion: "Will \"My Hero Academia FINAL SEASON\" win Anime of the Year at the 2026 Crunchyroll Anime Awards?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-24
+status: "settled"
+lastUpdated: 2026-04-25
 expiryDate: 2026-05-23
 tags: ["politics", "polymarket"]
 polymarketYes: 71.5
