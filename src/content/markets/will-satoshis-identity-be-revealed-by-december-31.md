@@ -11,7 +11,6 @@ polymarketYes: 8.5
 polymarketNo: 91.5
 polymarketVolume: 9957
 polymarketUrl: "https://polymarket.com/event/will-satoshis-identity-be-revealed-by-december-31"
-analysisDate: 2026-04-26
 ---
 
 # Satoshi Nakamoto Identity Revelation Market Analysis

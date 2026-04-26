@@ -3,7 +3,7 @@ title: "Will fewer than 140 tornadoes occur in the United States in April 2026?"
 description: "Will fewer than 140 tornadoes occur in the United States in April 2026? Odds: 0.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will fewer than 140 tornadoes occur in the United States in April 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-26
 expiryDate: 2026-05-10
 tags: ["politics", "polymarket"]

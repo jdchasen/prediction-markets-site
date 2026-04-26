@@ -9,9 +9,8 @@ expiryDate: 2026-12-19
 tags: ["politics", "polymarket"]
 polymarketYes: 0.4
 polymarketNo: 99.6
-polymarketVolume: 97311
+polymarketVolume: 97400
 polymarketUrl: "https://polymarket.com/event/will-colorado-rapids-win-the-2026-mls-cup"
-analysisDate: 2026-04-26
 ---
 
 # Colorado Rapids 2026 MLS Cup Analysis

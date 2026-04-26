@@ -3,7 +3,7 @@ title: "LoL: Misa Esports vs BoostGate Esports (BO3) - TCL Regular Season"
 description: "LoL: Misa Esports vs BoostGate Esports (BO3) - TCL Regular Season Odds: 86.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "LoL: Misa Esports vs BoostGate Esports (BO3) - TCL Regular Season"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-26
 expiryDate: 2026-05-01
 tags: ["politics", "polymarket"]

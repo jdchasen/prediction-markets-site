@@ -9,9 +9,8 @@ expiryDate: 2026-06-30
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 3.9
 polymarketNo: 96.1
-polymarketVolume: 9893
+polymarketVolume: 9933
 polymarketUrl: "https://polymarket.com/event/will-alibaba-have-a-1-ai-model-by-june-30"
-analysisDate: 2026-04-26
 ---
 
 # Alibaba AI Model Market Analysis

@@ -11,7 +11,6 @@ polymarketYes: 1.8
 polymarketNo: 98.2
 polymarketVolume: 9859
 polymarketUrl: "https://polymarket.com/event/will-april-2026-be-the-1st-hottest-on-record"
-analysisDate: 2026-04-26
 ---
 
 # April 2026 Temperature Record Market Analysis

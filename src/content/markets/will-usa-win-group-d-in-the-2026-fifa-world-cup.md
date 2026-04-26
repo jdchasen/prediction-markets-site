@@ -9,9 +9,8 @@ expiryDate: 2026-06-27
 tags: ["polymarket", "sports"]
 polymarketYes: 38.5
 polymarketNo: 61.5
-polymarketVolume: 9698
+polymarketVolume: 9722
 polymarketUrl: "https://polymarket.com/event/will-usa-win-group-d-in-the-2026-fifa-world-cup"
-analysisDate: 2026-04-26
 ---
 
 The current 38.5% odds reflect genuine uncertainty about whether the USMNT can navigate a competitive Group D alongside stronger European and South American opponents, making this a pivotal moment to assess American squad development and fixture difficulty. The market is pricing in realistic skepticism about US performance at a tournament where group stage advancement alone requires winning or drawing against elite competition.

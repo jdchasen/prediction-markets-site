@@ -1,14 +1,14 @@
 ---
 title: "Will Carlos Mendoza win the 2026 NL Manager of the Year?"
-description: "Will Carlos Mendoza win the 2026 NL Manager of the Year? Odds: 31.0% YES on Polymarket. See live prices and trade this market."
+description: "Will Carlos Mendoza win the 2026 NL Manager of the Year? Odds: 10.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Carlos Mendoza win the 2026 NL Manager of the Year?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-04-26
 expiryDate: 2026-12-19
 tags: ["politics", "polymarket"]
-polymarketYes: 31.0
-polymarketNo: 69.0
+polymarketYes: 10.5
+polymarketNo: 89.5
 polymarketVolume: 9977
 polymarketUrl: "https://polymarket.com/event/will-carlos-mendoza-win-the-2026-nl-manager-of-the-year"
 analysisDate: 2026-04-26
@@ -20,37 +20,37 @@ analysisDate: 2026-04-26
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 31.0% | 69.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 10.5% | 89.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-This market sits at 31% despite a notable categorical mismatch: a baseball award prediction is listed under "politics," suggesting either a platform classification error or a reference to Mendoza's potential managerial appointment timing coinciding with MLB's offseason power dynamics. The market's relevance hinges entirely on whether Mendoza secures a managerial position before the 2026 season begins, making this a two-stage probability bet rather than a straightforward performance prediction.
+This market is pricing in a roughly one-in-ten chance that the New York Mets' manager wins the Senior Circuit's top managerial award, a modest probability that reflects both his team's competitive potential and the inherent unpredictability of individual performance metrics across 30 teams over a full season. The listing appears misclassified under "politics" when it clearly belongs in sports, but the mechanism remains standard: traders are betting on Mendoza's ability to deliver both wins and the narrative momentum necessary to convince voters in late 2026.
 
-The bull case rests on Mendoza's credentials as a respected coaching voice and his potential appointment to a competitive roster. If he lands a managing job with a strong team—particularly one with recent playoff infrastructure—he enters 2026 with institutional advantages that elevate Manager of the Year probability. The award typically rewards teams exceeding expectations or winning tight divisional races, creating scenarios where a competent manager with decent roster talent can outperform projection systems. The 31% odds suggest the market assigns meaningful probability to these favorable conditions materializing.
+The bull case for Mendoza hinges on the Mets' aggressive spending trajectory under owner Steve Cohen and the team's trajectory toward contention. If the Mets acquire a premium starting pitcher or position player before the 2026 Opening Day (late March/early April), Mendoza could inherit a 95+ win team built to compete. Award voting rewards managers of surprise contenders and teams that exceed preseason expectations—the Mets were expected to struggle in 2024-2025, but if they reverse course dramatically by 2026, Mendoza gets credit. His track record as a savvy tactician and clubhouse stabilizer in a chaotic organization strengthens this narrative.
 
-The bear case is more substantial: Mendoza may never receive a managerial offer, immediately collapsing this position to zero. Even if hired, Manager of the Year voting rewards surprise success; if he lands with an already-dominant team (say, the Yankees or Mets), that expectation-setting works against him narratively. Additionally, the award rotates unpredictably between leagues and franchises—a particularly successful manager in the AL or an unexpected AL East outperformer could easily outpoll a solid NL performance. Weather injuries to key players on his roster could damage team performance regardless of managerial competence.
+The bear case is straightforward: Mendoza faces competition from 29 other managers, and voting patterns favor skippers of teams with exceptional regular-season records or dramatic turnarounds. The National League features established managers with stronger track records (Dave Roberts in Los Angeles, Craig Counsell in Milwaukee once he settles in). Unless the Mets win 105+ games or exceed projections by a dramatic margin, Mendoza will likely be overshadowed by managers of more dominant teams. Additionally, if the Mets continue struggling through 2025 or face mid-season front-office turbulence, voter perception locks in before the 2026 season even begins.
 
-Watch for managerial vacancy announcements between now and November 2025, as that's when MLB's major hiring window occurs. Spring training performance in 2026 (late February/early March) will establish whether his team meets or beats win projections. By mid-season (late July), you'll have clarity on whether his team is in playoff contention—a prerequisite for serious Manager of the Year consideration. Track voting patterns from prior years to understand whether the baseball media favors first-time managers (which could help Mendoza) or established figures.
+Key catalysts to monitor include the Mets' deadline moves through July 2026 (in-season performance shapes voting narratives), the final standings in October 2026, and late September roster decisions that signal team direction. The voting itself occurs in November 2026, so by mid-October traders will have nearly complete information about the Mets' record and Mendoza's specific contributions to any success. Early 2026 spring training coverage and Opening Day expectations (April 2026) will signal whether the market's 10.5% price is justified or whether it should shift higher if the Mets look formidable.
 
 ## Related Markets
 
 - [Will Ron DeSantis win the 2028 US Presidential Election?](/odds/will-ron-desantis-win-the-2028-us-presidential-election) — 2% YES
-- [Will Rafael López Aliaga win the 2026 Peruvian presidential election?](/odds/will-rafael-lpez-aliaga-win-the-2026-peruvian-presidential-election) — 2% YES
 - [Will Gretchen Whitmer win the 2028 US Presidential Election?](/odds/will-gretchen-whitmer-win-the-2028-us-presidential-election) — 1% YES
+- [Will Ro Khanna win the 2028 Democratic presidential nomination?](/odds/will-ro-khanna-win-the-2028-democratic-presidential-nomination) — 2% YES
 
 ## Frequently Asked Questions
 
-### What happens to this market if Mendoza doesn't get hired as a manager before the 2026 season?
+### What specific offensive or pitching acquisitions would most improve Mendoza's award chances?
 
-The market would resolve to 0% or be voided entirely, as the award is only given to active managers during that season.
+A Cy Young-caliber starting pitcher would immediately upgrade the Mets' perceived baseline and give Mendoza a larger margin for error; alternatively, a top-10 MVP-candidate batter would create a more marketable "superteam narrative" that voters reward.
 
-### How much does team payroll and preseason expectations affect his chances?
+### How much does the Mets' recent history of managerial instability affect Mendoza's voting chances?
 
-Significantly—if hired by a low-payroll team that overperforms, he's a strong candidate; if hired by a Yankees-tier favorite, expectations are so high he'd need historic success to win the award.
+Significantly—if Mendoza simply maintains organizational stability while posting 90+ wins, some voters may view him as having "succeeded by not imploding," a modest but real advantage in a crowded field.
 
-### When will we know if this bet is viable or dead money?
+### Could Mendoza's odds shift materially before the 2026 season even begins?
 
-By early November 2025, when all MLB managerial hirings for the 2026 season are essentially complete; if Mendoza isn't hired by then, the position has minimal recovery potential.
+Yes, dramatically—if the Mets make a blockbuster trade or signing in winter 2025-2026, his odds could double or triple before Opening Day, since preseason expectations heavily weight award outcomes.
 
 ## Learn More
 

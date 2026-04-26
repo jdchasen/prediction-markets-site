@@ -11,7 +11,6 @@ polymarketYes: 0.1
 polymarketNo: 100.0
 polymarketVolume: 9859
 polymarketUrl: "https://polymarket.com/event/will-xai-have-the-second-best-ai-model-at-the-end-of-april-2026"
-analysisDate: 2026-04-26
 ---
 
 # xAI's Race for Second Place in AI Rankings

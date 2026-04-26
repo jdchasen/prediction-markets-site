@@ -9,9 +9,8 @@ expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
 polymarketYes: 0.2
 polymarketNo: 99.8
-polymarketVolume: 98576
+polymarketVolume: 99621
 polymarketUrl: "https://polymarket.com/event/will-the-next-diplomatic-us-iran-meeting-be-in-another-middle-eastnorth-africa-country-844"
-analysisDate: 2026-04-26
 ---
 
 The market gives virtually no chance (0.2%) that the next U.S.-Iran diplomatic meeting will occur in a Middle East or North Africa country, reflecting expectations that neutral ground outside the region remains the overwhelming preference for such sensitive negotiations.

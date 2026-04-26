@@ -11,7 +11,6 @@ polymarketYes: 0.1
 polymarketNo: 100.0
 polymarketVolume: 9819
 polymarketUrl: "https://polymarket.com/event/nhl-2025-26-hart-memorial-trophy-jason-robertson"
-analysisDate: 2026-04-26
 ---
 
 # Hart Trophy Market Analysis: Jason Robertson's 2025-2026 Odds

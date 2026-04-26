@@ -3,7 +3,7 @@ title: "Will Ken Yasger win the 2026 Georgia Governor Republican primary electio
 description: "Will Ken Yasger win the 2026 Georgia Governor Republican primary election? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Ken Yasger win the 2026 Georgia Governor Republican primary election?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-26
 expiryDate: 2026-05-19
 tags: ["elections", "politics", "polymarket"]

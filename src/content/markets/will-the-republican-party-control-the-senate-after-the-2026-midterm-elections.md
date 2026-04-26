@@ -1,17 +1,16 @@
 ---
 title: "Will the Republican Party control the Senate after the 2026 Midterm elections?"
-description: "Will the Republican Party control the Senate after the 2026 Midterm elections? Odds: 48.5% YES on Polymarket. See live prices and trade this market."
+description: "Will the Republican Party control the Senate after the 2026 Midterm elections? Odds: 47.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Republican Party control the Senate after the 2026 Midterm elections?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-04-26
 expiryDate: 2026-11-03
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 48.5
-polymarketNo: 51.5
-polymarketVolume: 979489
+polymarketYes: 47.5
+polymarketNo: 52.5
+polymarketVolume: 981503
 polymarketUrl: "https://polymarket.com/event/will-the-republican-party-control-the-senate-after-the-2026-midterm-elections"
-analysisDate: 2026-04-26
 ---
 
 The Republican Senate control market sits near a coin flip at 48.5%, reflecting the structural advantages Republicans face defending fewer seats in 2026 against the historical pattern of midterm losses for the president's party.

@@ -1,17 +1,16 @@
 ---
 title: "Will Silver (XAGUSD) hit (LOW) $60 in April?"
-description: "Will Silver (XAGUSD) hit (LOW) $60 in April? Odds: 1.0% YES on Polymarket. See live prices and trade this market."
+description: "Will Silver (XAGUSD) hit (LOW) $60 in April? Odds: 1.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Silver (XAGUSD) hit (LOW) $60 in April?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-04-26
 expiryDate: 2026-05-01
 tags: ["politics", "polymarket"]
-polymarketYes: 1.0
-polymarketNo: 99.0
-polymarketVolume: 9975
+polymarketYes: 1.1
+polymarketNo: 98.9
+polymarketVolume: 9978
 polymarketUrl: "https://polymarket.com/event/will-xagusd-dip-to-60-in-april-2026"
-analysisDate: 2026-04-26
 ---
 
 # Silver Price Prediction Analysis

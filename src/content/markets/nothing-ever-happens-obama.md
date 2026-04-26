@@ -1,17 +1,16 @@
 ---
 title: "Nothing Ever Happens: Obama"
-description: "Nothing Ever Happens: Obama Odds: 81.5% YES on Polymarket. See live prices and trade this market."
+description: "Nothing Ever Happens: Obama Odds: 81.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Nothing Ever Happens: Obama"
 category: "politics"
 status: "active"
 lastUpdated: 2026-04-26
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 81.5
-polymarketNo: 18.5
-polymarketVolume: 9749
+polymarketYes: 81.0
+polymarketNo: 19.0
+polymarketVolume: 9751
 polymarketUrl: "https://polymarket.com/event/nothing-ever-happens-obama"
-analysisDate: 2026-04-26
 ---
 
 # Analysis: Nothing Ever Happens: Obama

@@ -3,7 +3,7 @@ title: "Will \"The Devil Wears Prada 2\" Opening Weekend Box Office be between 9
 description: "Will \"The Devil Wears Prada 2\" Opening Weekend Box Office be between 90m and 100m? Odds: 37.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will \"The Devil Wears Prada 2\" Opening Weekend Box Office be between 90m and 100m?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-26
 expiryDate: 2026-05-04
 tags: ["politics", "polymarket"]

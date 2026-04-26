@@ -1,17 +1,16 @@
 ---
 title: "Naim Qassem out as Hezbollah’s secretary-general by June 30, 2026?"
-description: "Naim Qassem out as Hezbollah’s secretary-general by June 30, 2026? Odds: 20.0% YES on Polymarket. See live prices and trade this market."
+description: "Naim Qassem out as Hezbollah’s secretary-general by June 30, 2026? Odds: 20.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Naim Qassem out as Hezbollah’s secretary-general by June 30, 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-04-26
 expiryDate: 2026-06-30
 tags: ["ai", "politics", "polymarket"]
-polymarketYes: 20.0
-polymarketNo: 80.0
-polymarketVolume: 97092
+polymarketYes: 20.5
+polymarketNo: 79.5
+polymarketVolume: 97367
 polymarketUrl: "https://polymarket.com/event/naim-qassem-out-as-hezbollahs-secretary-general-by-june-30-2026"
-analysisDate: 2026-04-26
 ---
 
 # Naim Qassem Leadership Market Analysis

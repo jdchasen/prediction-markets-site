@@ -11,7 +11,6 @@ polymarketYes: 92.5
 polymarketNo: 7.5
 polymarketVolume: 9801
 polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-ca-29-house-seat"
-analysisDate: 2026-04-26
 ---
 
 # CA-29 House Seat: Democratic Dominance Priced In

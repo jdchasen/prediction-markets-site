@@ -1,33 +1,34 @@
 ---
 title: "Will the Edmonton Oilers win the Western Conference?"
-description: "Will the Edmonton Oilers win the Western Conference? Odds: 9.5% YES on Polymarket. See live prices and trade this market."
+description: "Will the Edmonton Oilers win the Western Conference? Odds: 9.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Edmonton Oilers win the Western Conference?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-04-26
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
-polymarketYes: 9.5
-polymarketNo: 90.5
-polymarketVolume: 98762
+polymarketYes: 9.0
+polymarketNo: 91.0
+polymarketVolume: 98886
 polymarketUrl: "https://polymarket.com/event/will-the-edmonton-oilers-win-the-western-conference-853"
+analysisDate: 2026-04-26
 ---
 
-The Edmonton Oilers are currently priced at just 10% to win the Western Conference by June 2026, reflecting skepticism about their ability to sustain championship-caliber performance despite having the NHL's best player in Connor McDavid. This matters because the Oilers came within one game of winning the Stanley Cup in 2024, suggesting the gap between their current roster and conference dominance may be narrower than these odds indicate.
+The Edmonton Oilers are currently given less than a 10% chance to win the Western Conference by June 2026, reflecting skepticism about their ability to overcome roster challenges and strong division rivals despite their recent playoff success.
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 10.0% | 90.0% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 9.0% | 91.0% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The bull case centers on McDavid and Leon Draisaitl forming the league's most dangerous offensive duo, with the Oilers demonstrating in their 2024 playoff run that they can elevate their game when it counts. Their goaltending situation has stabilized with Stuart Skinner's development, and they possess the offensive firepower to outscore defensive deficiencies. Key catalysts include the NHL trade deadline on March 7, 2025, where Edmonton could address blue-line depth, and their performance in the critical March-April 2025 stretch that will determine playoff seeding. A strong regular season finish that secures home-ice advantage throughout the playoffs would significantly boost their conference championship odds.
+The bull case centers on Connor McDavid and Leon Draisaitl forming the NHL's most dominant offensive duo, capable of carrying a team deep into the playoffs as demonstrated by their 2024 Stanley Cup Finals appearance. If goaltender Stuart Skinner continues his development and the Oilers shore up their defensive depth through trades before the March 2025 deadline, they possess the elite talent necessary for a conference championship run. The Pacific Division's relative weakness compared to the Central Division could provide an easier path, and home-ice advantage at Rogers Place has historically been a significant factor in Edmonton's playoff performance.
 
-The bear case highlights defensive vulnerabilities and goaltending inconsistency that plagued them during the regular season, plus the Western Conference's deep competitive field including Colorado, Dallas, and Vegas. Edmonton's cap constraints limit their ability to make significant roster improvements, and historical data shows teams that lose in the Finals often struggle to return. The Pacific Division's intensity means they'll likely face battle-tested opponents in every playoff round, and their defensive core remains suspect against elite competition.
+The bear case highlights critical roster vulnerabilities and organizational constraints. The Oilers face severe salary cap pressure with key contracts expiring after the 2024-25 season, potentially forcing them to lose important depth players. Their defensive corps remains questionable, and goaltending consistency has been an ongoing issue. More importantly, they must navigate through powerhouses like the Colorado Avalanche, Dallas Stars, and Vegas Golden Knights, all of which have more balanced rosters and better organizational depth. The Western Conference has become increasingly competitive, with teams like Vancouver and Los Angeles also improving.
 
-Traders should monitor Edmonton's record against Western Conference playoff contenders through February 2025 as a proxy for postseason viability, McDavid and Draisaitl's health status heading into the playoffs, and any deadline acquisitions that address their defensive gaps. The team's performance in back-to-back games and their goals-against average after the All-Star break (February 1-2, 2025) will signal whether they've corrected their defensive issues from previous seasons.
+Key dates to monitor include the NHL trade deadline on March 7, 2025, when Edmonton's management must decide whether to make significant moves, and the 2025 playoffs beginning in mid-April. The Oilers' performance in the first half of the 2024-25 season through January will be critical—they historically start slow but need better consistency. Watch for any injury updates on McDavid or Draisaitl, as their health is fundamental to Edmonton's championship aspirations. Contract extension negotiations throughout the 2025-26 season could also create distractions that impact on-ice performance.
 
 ## Related Markets
 
@@ -37,17 +38,17 @@ Traders should monitor Edmonton's record against Western Conference playoff cont
 
 ## Frequently Asked Questions
 
-### Why is this market categorized under politics when it's clearly about hockey?
+### Why is this market categorized as "politics" when it's clearly about hockey?
 
-This appears to be a miscategorization error. The market concerns the NHL's Edmonton Oilers winning the Western Conference championship, which is purely a sports betting market with no political elements.
+This appears to be a miscategorization error. The market concerns the NHL's Edmonton Oilers and should be listed under sports betting, not politics.
 
-### Does this market resolve on the Western Conference Finals outcome or the Stanley Cup Finals?
+### Does the June 2026 expiry date account for the full playoff timeline?
 
-This resolves based solely on winning the Western Conference championship (defeating the Western Conference Finals opponent), not the subsequent Stanley Cup Finals. The Oilers would need to win their conference playoff bracket by approximately June 2026.
+Yes, the Western Conference Finals typically conclude in early June, giving sufficient time before the June 30, 2026 expiry for the market to resolve based on the 2025-26 NHL playoffs.
 
-### How does Connor McDavid's contract situation affect this market's timeline?
+### How do the Oilers' current 9% odds compare to their preseason championship futures at sportsbooks?
 
-McDavid's contract extends through the 2025-26 season, meaning this market covers his final year under his current deal. Any uncertainty about his future beyond 2026 doesn't impact this specific market but could affect team decision-making on win-now moves at the 2025 trade deadline.
+Traditional sportsbooks typically price the Oilers around 8-12% implied probability to win the Stanley Cup, so roughly 15-20% for the Western Conference, suggesting this prediction market may be undervaluing Edmonton compared to professional oddsmakers.
 
 ## Learn More
 

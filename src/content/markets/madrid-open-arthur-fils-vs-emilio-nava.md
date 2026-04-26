@@ -3,7 +3,7 @@ title: "Madrid Open: Arthur Fils vs Emilio Nava"
 description: "Madrid Open: Arthur Fils vs Emilio Nava Odds: 85.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Madrid Open: Arthur Fils vs Emilio Nava"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-26
 expiryDate: 2026-05-03
 tags: ["politics", "polymarket"]

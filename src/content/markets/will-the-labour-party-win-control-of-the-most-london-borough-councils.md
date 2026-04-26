@@ -3,7 +3,7 @@ title: "Will the Labour Party win control of the most London borough councils?"
 description: "Will the Labour Party win control of the most London borough councils? Odds: 77.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Labour Party win control of the most London borough councils?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-26
 expiryDate: 2026-05-07
 tags: ["politics", "polymarket"]

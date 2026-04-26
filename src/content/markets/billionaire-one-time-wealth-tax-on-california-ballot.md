@@ -3,7 +3,7 @@ title: "Billionaire one-time wealth tax on California ballot?"
 description: "Billionaire one-time wealth tax on California ballot? Odds: 70.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Billionaire one-time wealth tax on California ballot?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-26
 expiryDate: 2026-06-25
 tags: ["ai", "politics", "polymarket"]

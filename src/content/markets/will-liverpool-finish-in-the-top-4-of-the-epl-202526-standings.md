@@ -11,7 +11,6 @@ polymarketYes: 52.5
 polymarketNo: 47.5
 polymarketVolume: 97101
 polymarketUrl: "https://polymarket.com/event/will-liverpool-finish-in-the-top-4-of-the-epl-202526-standings"
-analysisDate: 2026-04-26
 ---
 
 # Liverpool Top 4 Finish Analysis

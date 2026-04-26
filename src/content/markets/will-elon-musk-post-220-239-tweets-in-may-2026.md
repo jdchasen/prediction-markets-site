@@ -11,7 +11,6 @@ polymarketYes: 0.1
 polymarketNo: 99.9
 polymarketVolume: 9711
 polymarketUrl: "https://polymarket.com/event/elon-musk-of-tweets-may-2026-220-239"
-analysisDate: 2026-04-26
 ---
 
 # Elon Musk Tweet Volume Market Analysis

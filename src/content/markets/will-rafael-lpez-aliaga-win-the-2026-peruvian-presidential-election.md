@@ -3,7 +3,7 @@ title: "Will Rafael López Aliaga win the 2026 Peruvian presidential election?"
 description: "Will Rafael López Aliaga win the 2026 Peruvian presidential election? Odds: 2.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Rafael López Aliaga win the 2026 Peruvian presidential election?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-26
 expiryDate: 2026-06-07
 tags: ["elections", "politics", "polymarket"]

@@ -3,7 +3,7 @@ title: "Will Naftali Bennett be the next Prime Minister of Israel?"
 description: "Will Naftali Bennett be the next Prime Minister of Israel? Odds: 35.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Naftali Bennett be the next Prime Minister of Israel?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-26
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]

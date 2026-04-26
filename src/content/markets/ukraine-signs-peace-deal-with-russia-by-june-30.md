@@ -9,9 +9,8 @@ expiryDate: 2026-06-30
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 6.5
 polymarketNo: 93.5
-polymarketVolume: 97320
+polymarketVolume: 97958
 polymarketUrl: "https://polymarket.com/event/ukraine-signs-peace-deal-with-russia-by-june-30"
-analysisDate: 2026-04-26
 ---
 
 The market assigns only a 6.5% probability to a Ukraine-Russia peace deal by June 2025, reflecting deep skepticism that the grinding conflict will reach diplomatic resolution within the next 16 months despite renewed international pressure for negotiations.

@@ -11,7 +11,6 @@ polymarketYes: 0.2
 polymarketNo: 99.8
 polymarketVolume: 98224
 polymarketUrl: "https://polymarket.com/event/will-yoon-sang-hyun-win-the-2026-chungcheongnam-province-gubernatorial-election"
-analysisDate: 2026-04-26
 ---
 
 The market shows near-zero confidence in Yoon Sang-hyun winning the Chungcheongnam Province gubernatorial race in June 2026, reflecting South Chungcheong Province's status as a traditional opposition stronghold where the ruling People Power Party (PPP) faces structural disadvantages. This election matters as a key indicator of whether President Yoon Suk Yeol's party can expand beyond its traditional bases ahead of the 2027 presidential election.
