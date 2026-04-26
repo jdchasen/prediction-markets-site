@@ -3,8 +3,8 @@ title: "Will Tesla dip to $248 in April?"
 description: "Will Tesla dip to $248 in April? Odds: 0.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Tesla dip to $248 in April?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-25
+status: "settled"
+lastUpdated: 2026-04-26
 expiryDate: 2026-05-01
 tags: ["politics", "polymarket"]
 polymarketYes: 0.7

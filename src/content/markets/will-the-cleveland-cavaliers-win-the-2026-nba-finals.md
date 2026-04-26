@@ -3,8 +3,8 @@ title: "Will the Cleveland Cavaliers win the 2026 NBA Finals?"
 description: "Will the Cleveland Cavaliers win the 2026 NBA Finals? Odds: 4.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Cleveland Cavaliers win the 2026 NBA Finals?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-04-25
+status: "settled"
+lastUpdated: 2026-04-26
 expiryDate: 2026-07-01
 tags: ["polymarket", "sports"]
 polymarketYes: 4.9

@@ -1,54 +1,54 @@
 ---
 title: "Will Rafael López Aliaga win the 2026 Peruvian presidential election?"
-description: "Will Rafael López Aliaga win the 2026 Peruvian presidential election? Odds: 20.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Rafael López Aliaga win the 2026 Peruvian presidential election? Odds: 2.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Rafael López Aliaga win the 2026 Peruvian presidential election?"
 category: "politics"
-status: "settled"
-lastUpdated: 2026-04-08
-expiryDate: 2026-04-12
+status: "active"
+lastUpdated: 2026-04-26
+expiryDate: 2026-06-07
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 20.5
-polymarketNo: 79.5
-polymarketVolume: 992714
+polymarketYes: 2.4
+polymarketNo: 97.7
+polymarketVolume: 9963862
 polymarketUrl: "https://polymarket.com/event/will-rafael-lpez-aliaga-win-the-2026-peruvian-presidential-election"
-analysisDate: 2026-04-07
+analysisDate: 2026-04-26
 ---
 
-Rafael López Aliaga, the conservative mayor of Lima and 2021 presidential runner-up, currently holds a one-in-five chance of winning Peru's 2026 presidential election according to traders, reflecting his strong name recognition but significant political headwinds in one of Latin America's most fragmented electoral landscapes.
+Rafael López Aliaga, the conservative Lima mayor and 2021 presidential runner-up, currently sits at just 2.4% probability to win Peru's 2026 presidential election, reflecting deep skepticism about his national viability despite maintaining a visible political profile in the capital.
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 20.5% | 79.5% | $993K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 2.4% | 97.7% | $10.0M | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The bull case centers on López Aliaga's incumbency advantage as Lima's mayor, giving him executive experience and a platform to showcase governance capabilities while reaching roughly one-third of Peru's voters daily. His Renovación Popular party has maintained a visible conservative Christian base, and he demonstrated electoral viability by finishing third in 2021's first round with 11.8% before endorsing Keiko Fujimori. Peru's extreme political fragmentation—the 2021 race featured 18 candidates—could allow him to advance to the runoff with just 15-20% in the first round, especially if he consolidates right-wing voters frustrated with President Dina Boluarte's approval ratings languishing below 10%. His business background and anti-corruption messaging resonate with middle-class Lima voters who dominate political discourse.
+The bull case rests on López Aliaga's proven ability to mobilize conservative Catholic voters and business-friendly constituencies, his substantial personal wealth enabling sustained campaign operations, and Peru's political fragmentation creating pathways for candidates with strong regional bases. His mayoralty of Lima—home to nearly one-third of Peru's population—provides a governing platform to demonstrate administrative competence and maintain visibility. If President Dina Barte's approval ratings continue languishing in single digits through 2025, anti-establishment sentiment could benefit outsider candidates who opposed her government. López Aliaga's fourth-place finish in 2021 with 11.8% showed he can build a foundation, and Peru's two-round system means reaching the runoff requires only pluralities in a crowded field.
 
-The bear case highlights Peru's volatile political environment where no president has completed a term with sustained popularity since 2001, making any frontrunner status ephemeral. López Aliaga's hardline conservative stances on social issues, including his opposition to gender ideology and abortion, alienate centrist voters crucial for runoff victories. His 2021 campaign revealed limited appeal outside Lima's wealthier districts, and he lost the runoff endorsement battle decisively. Peru's Congress remains deeply unpopular and fragmented across seven major parties, meaning any president will face immediate gridlock. Regional candidates from southern Peru, where recent protests against Boluarte were strongest, could split the anti-establishment vote in unpredictable ways.
+The bear case is formidable: López Aliaga's conservative social positions—including opposition to abortion and civil unions—alienate Peru's increasingly progressive urban youth and coastal populations beyond Lima's wealthier districts. His 2021 campaign peaked early but faded as voters questioned his temperament and policy depth. Polling from late 2024 shows him trailing potential candidates like George Forsyth (former Lima mayor) and Keiko Fujimori, who retains her political machinery despite multiple defeats. Peru's volatility cuts both ways—while new candidates can surge rapidly, López Aliaga's high name recognition means voters have already formed opinions, limiting upside. His business background in transportation and mining also creates vulnerability to corruption allegations in Peru's toxic political environment.
 
-Key catalysts include Peru's municipal and regional elections in October 2024, which will test López Aliaga's political movement's strength beyond Lima and reveal emerging presidential contenders. Official campaign registration opens in January 2026, typically forcing candidates to declare by February 2026. First-round voting occurs April 11, 2026, with a likely runoff in June 2026 given historical patterns. Traders should monitor López Aliaga's Lima approval ratings, which currently hover around 40%, and whether figures like Keiko Fujimori (three-time candidate), George Forsyth (former Lima mayor), or Verónika Mendoza (leftist candidate) enter the race, as any of these would reshape the field dramatically. Peru's presidential polls typically become meaningful only 3-4 months before the election due to late-deciding voters.
+Key catalysts include the official candidate registration period opening in late 2025, when the final field crystallizes and coalition negotiations conclude. Watch for Lima municipal approval ratings in quarterly surveys throughout 2025—any major infrastructure failures or corruption scandals would devastate his credibility. The first presidential debate, typically held in March 2026, historically reshapes races in Peru's fluid electoral landscape. Traders should monitor whether Fuerza Popular (Fujimori's party) or other right-wing parties coalesce behind a single candidate or fragment, as vote-splitting among conservatives could either eliminate López Aliaga in round one or create a surprise opening.
 
 ## Related Markets
 
-- [Will JD Vance win the 2028 US Presidential Election?](/odds/will-jd-vance-win-the-2028-us-presidential-election) — 18% YES
-- [Will Pete Buttigieg win the 2028 Democratic presidential nomination?](/odds/will-pete-buttigieg-win-the-2028-democratic-presidential-nomination) — 4% YES
-- [Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?](/odds/will-amanda-anisimova-be-the-2026-womens-wimbledon-winner) — 5% YES
+- [Will Ron DeSantis win the 2028 US Presidential Election?](/odds/will-ron-desantis-win-the-2028-us-presidential-election) — 2% YES
+- [Will Gretchen Whitmer win the 2028 US Presidential Election?](/odds/will-gretchen-whitmer-win-the-2028-us-presidential-election) — 1% YES
+- [Will Ro Khanna win the 2028 Democratic presidential nomination?](/odds/will-ro-khanna-win-the-2028-democratic-presidential-nomination) — 2% YES
 
 ## Frequently Asked Questions
 
-### How did López Aliaga perform in Peru's 2021 presidential election and what does that indicate for 2026?
+### How did López Aliaga perform in Peru's 2021 presidential election and what does that tell us about his 2026 chances?
 
-He finished third in the first round with 11.8% of votes, demonstrating viability but limited national reach beyond Lima's conservative districts. His inability to make the runoff despite significant name recognition suggests he needs to expand his coalition substantially to win in 2026.
+He finished fourth with 11.8% in the first round, demonstrating a ceiling with conservative voters but failing to expand beyond that base. His campaign lost momentum after an early peak, suggesting difficulty sustaining support through a long election cycle.
 
-### What role does Lima's mayorship play in López Aliaga's presidential prospects?
+### What specific policy positions make López Aliaga controversial outside his core constituency?
 
-As mayor of Lima, he governs roughly 10 million people (30% of Peru's population), providing executive credentials and daily media exposure that few competitors can match. However, previous Lima mayors like Jorge Forsyth have struggled to convert municipal success into national presidential victories due to regional resentment of Lima-centric politics.
+His hardline Catholic conservatism includes opposition to abortion even in cases of rape, rejection of LGBTQ+ rights including civil unions, and dismissive rhetoric toward Indigenous communities that alienates Peru's southern highland voters who comprise a significant electoral bloc.
 
-### Could Peru's political instability since 2016 help or hurt López Aliaga's chances?
+### Could López Aliaga benefit from potential disqualifications of other candidates given Peru's history of electoral controversies?
 
-The revolving door of six presidents since 2016 creates voter fatigue that could favor an outsider businessman narrative, but it also makes any prediction extremely volatile since anti-incumbent sentiment can rapidly shift toward unexpected protest candidates from Peru's regions rather than established Lima politicians.
+While Peru has disqualified candidates for corruption charges (notably barring several contenders in recent cycles), López Aliaga faces his own legal vulnerabilities as a wealthy businessman, making this a double-edged scenario rather than a clear advantage for his campaign.
 
 ## Learn More
 

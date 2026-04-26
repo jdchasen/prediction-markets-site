@@ -4,16 +4,17 @@ description: "Will Ron DeSantis win the 2028 US Presidential Election? Odds: 1.6
 marketQuestion: "Will Ron DeSantis win the 2028 US Presidential Election?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-04-25
+lastUpdated: 2026-04-26
 expiryDate: 2028-11-07
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 1.6
 polymarketNo: 98.5
-polymarketVolume: 9969071
+polymarketVolume: 9982991
 polymarketUrl: "https://polymarket.com/event/will-ron-desantis-win-the-2028-us-presidential-election"
+analysisDate: 2026-04-26
 ---
 
-Ron DeSantis trades at rock-bottom odds for the 2028 presidency as traders price in his diminished political standing following his failed 2024 campaign and Donald Trump's continued dominance over the Republican party apparatus. The Florida governor's inability to gain traction against Trump despite substantial backing from major donors has left serious questions about his viability as a national candidate.
+Ron DeSantis currently trades at rock-bottom odds for the 2028 presidential race, reflecting serious doubts about his political viability following his disastrous 2024 primary campaign that burned through over $150 million while failing to win a single state against Trump. The market prices in both his diminished standing within the Republican Party and the substantial uncertainty inherent in forecasting an election still four years away.
 
 ## Current Odds
 
@@ -23,31 +24,31 @@ Ron DeSantis trades at rock-bottom odds for the 2028 presidency as traders price
 
 ## Market Analysis
 
-The bull case rests on DeSantis's youth (he'll be 49 in 2028), his secure position as Florida governor through 2026 giving him a platform to rebuild, and the possibility that Trump either becomes ineligible or Republican voters finally move on after three consecutive election cycles. If Trump wins in 2024, constitutional term limits would create an open field in 2028, and DeSantis could position himself as the natural heir to the MAGA movement while presenting a more disciplined version. His governance record in Florida, particularly on economic issues and his handling of hurricanes, provides substantive accomplishments he lacked in 2024. The betting odds may dramatically undervalue the chance of a complete Republican party realignment if Trump's influence wanes over the next four years.
+The bear case is straightforward: DeSantis's 2024 campaign exposed critical weaknesses in his retail politics, debate performance, and national appeal that don't simply disappear. His awkward affect and struggles connecting with voters outside Florida became Republican establishment conventional wisdom. More critically, he's term-limited as Florida governor in January 2027, leaving him without an obvious political platform for two years before the 2028 cycle begins. Trump's continued dominance of the GOP base means DeSantis remains toxic to MAGA voters who viewed his challenge as betrayal, while moderate Republicans gravitate toward figures like Glenn Youngkin or Nikki Haley. The 2026 midterms will elevate new Republican stars, and whoever serves as Trump's VP (if he wins in 2024) instantly becomes the frontrunner.
 
-The bear case is straightforward: DeSantis's 2024 campaign revealed fatal weaknesses in retail politics, charisma, and the ability to build a coalition beyond hard-right conservatives. His awkward public presence and struggles connecting with voters suggest structural limitations no amount of repositioning can fix. More critically, the Republican party's direction depends entirely on Trump's position—if Trump loses in 2024, he'll likely run again in 2028 at age 82, blocking DeSantis entirely. If Trump wins, he'll likely anoint a successor, and DeSantis's confrontational 2024 campaign ensures it won't be him. New Republican stars like Vivek Ramaswamy, Glenn Youngkin, or others yet to emerge will have fresher appeal. DeSantis's term as Florida governor ends in January 2027, and without a clear platform afterward, he risks fading from national relevance entirely.
+The bull case requires acknowledging DeSantis's genuine accomplishments: winning Florida by 19 points in 2022, establishing himself as effective at conservative governance, and building extensive donor networks that could reactivate despite 2024's failure. If Trump loses in 2024, the party may desperately want a younger fighter who can implement Trumpism more competently. DeSantis would only be 49 in 2028 with executive experience. Political comebacks happen—Nixon, Biden, and even Trump himself prove that primary losses aren't permanent disqualifications. His policy record on education, immigration, and culture war issues remains popular with conservative activists who control primary outcomes.
 
-Key catalysts include the November 2024 election outcome, which fundamentally determines whether 2028 features an incumbent Democratic president or an open Republican primary. DeSantis's actions during the 2025-2026 Florida legislative sessions will signal whether he's repositioning for another run or pivoting away from national ambitions. Watch for his role at the 2025 CPAC conference (typically February) and whether he receives speaking slots at major Republican events. The 2026 midterm elections and any potential Senate run by DeSantis would clarify his pathway—staying in Florida through 2027 without a next move would be particularly bearish. Trump's endorsement patterns in 2025-2027 races will reveal the durability of his kingmaker status and whether DeSantis can rehabilitate their relationship.
+Key catalysts include the 2024 general election result (November 5, 2024), which determines whether Republicans want continuity or change; DeSantis's post-gubernatorial career moves in 2027 (think tank president, presidential exploratory committees, or fading into consulting); and the 2026 midterms, which will showcase new Republican talent. Watch whether DeSantis campaigns for Trump in fall 2024 and receives any reconciliation gestures. The first 2028 polling in mid-2026 will reveal if he retains any name recognition advantage or has been completely eclipsed by whoever emerges from the next power struggle.
 
 ## Related Markets
 
+- [Will Rafael López Aliaga win the 2026 Peruvian presidential election?](/odds/will-rafael-lpez-aliaga-win-the-2026-peruvian-presidential-election) — 2% YES
 - [Will Gretchen Whitmer win the 2028 US Presidential Election?](/odds/will-gretchen-whitmer-win-the-2028-us-presidential-election) — 1% YES
 - [Will Ro Khanna win the 2028 Democratic presidential nomination?](/odds/will-ro-khanna-win-the-2028-democratic-presidential-nomination) — 2% YES
-- [Will Jon Ossoff win the 2028 Democratic presidential nomination?](/odds/will-jon-ossoff-win-the-2028-democratic-presidential-nomination) — 5% YES
 
 ## Frequently Asked Questions
 
-### What happens to this market if DeSantis runs for Senate in 2026 instead of pursuing the presidency?
+### Does DeSantis need Trump's endorsement or blessing to be competitive in 2028?
 
-A Senate run would likely crater these odds further, as it would signal he's accepting a lesser role in Republican politics and building a different career trajectory. Traders would interpret it as DeSantis himself acknowledging he can't win a presidential primary.
+Probably not for winning the nomination if Trump loses in 2024, but he'd need Trump neutralized or out of politics entirely. If Trump wins and serves until 2029, his endorsed successor would be nearly impossible for DeSantis to overcome given their hostile relationship.
 
-### How do Trump's legal cases affect DeSantis's 2028 chances?
+### What happens to DeSantis's political prospects during his two years out of office between 2027-2029?
 
-If Trump faces incarceration or disqualification before 2028, it could create an opening, but DeSantis would still need to outcompete other Republicans who didn't directly challenge Trump. Conversely, if Trump is acquitted or cases are dismissed, it reinforces Trump's control over the party and further marginalizes DeSantis.
+This gap is critical—he'll need a visible platform like leading a major conservative organization, frequent media appearances, or aggressive campaigning for 2026 Republican candidates to stay relevant, otherwise voters will forget him entirely as new governors and senators gain prominence.
 
-### Can DeSantis win the 2028 primary if Trump endorses someone else?
+### Could DeSantis run as an independent or third-party candidate if he can't win the Republican nomination?
 
-Extremely unlikely—Trump's endorsement has proven decisive in Republican primaries since 2022, with his chosen candidates winning over 95% of contested races. Without Trump's blessing or neutrality, DeSantis would face the same coalition problems that doomed his 2024 campaign.
+Extraordinarily unlikely, as this market specifically asks about winning the presidency (which requires the GOP nomination as a practical matter), and DeSantis's entire brand is built on Republican Party institutional conservatism rather than populist independence.
 
 ## Learn More
 

@@ -4,14 +4,13 @@ description: "Will Rio Phillips be the Democratic nominee for Senate in West Vir
 marketQuestion: "Will Rio Phillips be the Democratic nominee for Senate in West Virginia?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-04-25
+lastUpdated: 2026-04-26
 expiryDate: 2026-05-12
 tags: ["politics", "polymarket"]
 polymarketYes: 0.5
 polymarketNo: 99.5
 polymarketVolume: 9848
 polymarketUrl: "https://polymarket.com/event/will-rio-phillips-be-the-democratic-nominee-for-senate-in-west-virginia"
-analysisDate: 2026-04-25
 ---
 
 Rio Phillips faces an extremely long-shot path to the Democratic Senate nomination in West Virginia, with current pricing reflecting massive structural headwinds in a state that has shifted decisively away from Democrats in statewide races. The 0.5% odds suggest the market sees Phillips as a sacrificial candidate at best, warranting close attention only if West Virginia's political fundamentals undergo unexpected upheaval before the May 2026 primary.

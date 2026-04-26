@@ -3,8 +3,8 @@ title: "Will VfL Wolfsburg win on 2026-05-03?"
 description: "Will VfL Wolfsburg win on 2026-05-03? Odds: 34.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will VfL Wolfsburg win on 2026-05-03?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-25
+status: "settled"
+lastUpdated: 2026-04-26
 expiryDate: 2026-05-03
 tags: ["politics", "polymarket"]
 polymarketYes: 34.0

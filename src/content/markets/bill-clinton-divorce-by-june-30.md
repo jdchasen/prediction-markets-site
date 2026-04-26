@@ -1,51 +1,52 @@
 ---
 title: "Bill Clinton divorce by June 30?"
-description: "Bill Clinton divorce by June 30? Odds: 2.4% YES on Polymarket. See live prices and trade this market."
+description: "Bill Clinton divorce by June 30? Odds: 1.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Bill Clinton divorce by June 30?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-04-25
+lastUpdated: 2026-04-26
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
-polymarketYes: 2.4
-polymarketNo: 97.6
-polymarketVolume: 98193
+polymarketYes: 1.9
+polymarketNo: 98.1
+polymarketVolume: 98253
 polymarketUrl: "https://polymarket.com/event/bill-clinton-divorce-by-june-30"
+analysisDate: 2026-04-26
 ---
 
-The market pricing a divorce filing at just 2.5% reflects trader skepticism that the Clintons would formally end their 50-year marriage within the next two and a half years, despite decades of public scrutiny around their relationship dynamics.
+The prediction market assigns minimal probability to a Clinton divorce materializing over the next two and a half years, reflecting both the couple's decades-long pattern of weathering controversies and the lack of any current public indicators suggesting marital dissolution.
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 2.5% | 97.5% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 1.9% | 98.1% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The bull case centers on Bill Clinton's age (78) and recent health concerns, combined with Hillary Clinton's evolving post-political career phase potentially reducing the political calculus that historically kept their partnership intact. Traders betting YES likely view Hillary's diminished electoral ambitions—she hasn't held office since 2013 and appears unlikely to pursue future campaigns—as removing a key incentive for maintaining the marriage. Any significant health crisis for Bill or new revelations about past indiscretions could shift sentiment. The bear case is straightforward: the Clintons have weathered far more publicized marital challenges during periods of higher political stakes, from the Lewinsky scandal during Bill's presidency to the 2016 campaign. At this stage in their lives, with Chelsea Clinton established and grandchildren in the picture, the reputational and familial costs of divorce likely outweigh any benefits. Their intertwined foundation work and shared social circle create practical barriers to separation.
+The bear case for divorce (supporting the low odds) rests on the Clintons' established track record of maintaining their marriage through multiple high-profile scandals since the 1970s, most notably the Monica Lewinsky affair and subsequent impeachment proceedings. Their marriage has functioned as both a personal partnership and political alliance for over 50 years, creating institutional and legacy incentives to remain together. Bill Clinton is now 78 and Hillary Clinton is 77, an age demographic where divorce rates drop significantly compared to younger cohorts. No credible reporting from political journalists who cover the Clintons has suggested any separation or marital crisis, and both maintain active but separate public schedules without raising speculation.
 
-Key factors to monitor include any major health announcements regarding either Clinton, as medical crises sometimes precipitate late-life relationship changes among high-profile couples. Public appearances together or extended separate travel schedules could signal relationship status, though the Clintons have maintained independent schedules for decades without marital disruption. The market's low probability suggests traders view this as personality-driven speculation rather than evidence-based prediction.
+The bull case requires believing that previously unknown circumstances could emerge forcing a legal separation. Potential catalysts might include health crises that strain the relationship, financial disputes over the Clinton Foundation or speaking fees, or new revelations about past conduct that prove uniquely damaging. The 2026 timeframe extends beyond the 2024 and 2025 election cycles, though Hillary Clinton's potential advisory role in future Democratic politics could theoretically create new pressures. Any serious illness requiring long-term care decisions could accelerate private family discussions about legal arrangements, though this would more likely result in quiet separation rather than publicized divorce.
 
-Watch for Clinton Foundation events and joint public engagements through 2025-2026, which would reinforce the partnership's continuity. Any absence from significant family milestones or Chelsea Clinton's public statements could move the needle. The June 30, 2026 deadline means only a formal divorce filing would resolve YES—separation or private arrangements wouldn't qualify.
+Traders should monitor major investigative journalism outlets for any reporting on Clinton family dynamics, particularly around Foundation activities or memoir publications that might reveal tensions. The couple's public appearance schedule matters—joint events at Democratic gatherings or Clinton Global Initiative meetings signal continuity, while sustained separate appearances with altered rhetoric could indicate shift. Presidential libraries and foundations occasionally become focal points for family disputes over legacy control, making any governance changes at Clinton-related organizations worth tracking through IRS 990 filings and board announcements.
 
 ## Related Markets
 
 - [Will Ron DeSantis win the 2028 US Presidential Election?](/odds/will-ron-desantis-win-the-2028-us-presidential-election) — 2% YES
+- [Will Rafael López Aliaga win the 2026 Peruvian presidential election?](/odds/will-rafael-lpez-aliaga-win-the-2026-peruvian-presidential-election) — 2% YES
 - [Will Gretchen Whitmer win the 2028 US Presidential Election?](/odds/will-gretchen-whitmer-win-the-2028-us-presidential-election) — 1% YES
-- [Will Ro Khanna win the 2028 Democratic presidential nomination?](/odds/will-ro-khanna-win-the-2028-democratic-presidential-nomination) — 2% YES
 
 ## Frequently Asked Questions
 
-### Would a legal separation without divorce filing count as YES for this market?
+### Would a private separation without legal divorce filing resolve this market as NO?
 
-No, the market specifically requires a divorce filing by the deadline. Legal separation or informal arrangements would resolve as NO.
+Yes, the market specifically requires a divorce filing by the June 2026 deadline. Private separation, legal separation agreements, or informal arrangements would not meet the resolution criteria.
 
-### How would the market resolve if divorce proceedings were initiated but not finalized by June 30, 2026?
+### Could health issues or death of either Clinton before June 2026 affect this market's resolution?
 
-The market resolves based on whether divorce papers are filed, not finalized. An active filing before the deadline would likely resolve YES depending on exact market rules.
+Death of either party would make divorce impossible and result in NO resolution. Serious health crises could theoretically accelerate family legal decisions, though this remains highly speculative given their age and typical end-of-life planning approaches.
 
-### What historical precedent exists for high-profile political divorces after age 75?
+### Why would the Clintons divorce at this stage rather than maintaining the status quo arrangement?
 
-Such divorces are rare among political dynasties but not unprecedented—Al and Tipper Gore divorced after 40 years when Al was 62, though this occurred earlier in life than the Clintons' current ages.
+The strongest realistic scenario involves unforeseen financial disputes, legacy control issues over their foundation work, or revelations that create legal liability concerns requiring asset separation. However, their demonstrated preference for maintaining their partnership through previous crises makes this unlikely.
 

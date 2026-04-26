@@ -4,14 +4,13 @@ description: "Billionaire one-time wealth tax on California ballot? Odds: 70.5% 
 marketQuestion: "Billionaire one-time wealth tax on California ballot?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-04-25
+lastUpdated: 2026-04-26
 expiryDate: 2026-06-25
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 70.5
 polymarketNo: 29.5
-polymarketVolume: 98048
+polymarketVolume: 98749
 polymarketUrl: "https://polymarket.com/event/billionaire-one-time-wealth-tax-on-california-ballot"
-analysisDate: 2026-04-25
 ---
 
 The Polymarket odds strongly favor a billionaire wealth tax reaching California's ballot by June 2026, reflecting both progressive momentum in the state and the relatively low barrier to qualify ballot initiatives through signature gathering.

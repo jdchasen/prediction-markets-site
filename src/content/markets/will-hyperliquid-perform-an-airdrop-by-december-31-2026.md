@@ -1,16 +1,15 @@
 ---
 title: "Will Hyperliquid perform an airdrop by December 31, 2026? "
-description: "Will Hyperliquid perform an airdrop by December 31, 2026?  Odds: 23.0% YES on Polymarket. See live prices and trade this market."
+description: "Will Hyperliquid perform an airdrop by December 31, 2026?  Odds: 22.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Hyperliquid perform an airdrop by December 31, 2026? "
 category: "politics"
 status: "active"
-lastUpdated: 2026-04-25
+lastUpdated: 2026-04-26
 tags: ["ai", "politics", "polymarket"]
-polymarketYes: 23.0
-polymarketNo: 77.0
-polymarketVolume: 97447
+polymarketYes: 22.5
+polymarketNo: 77.5
+polymarketVolume: 97448
 polymarketUrl: "https://polymarket.com/event/will-hyperliquid-perform-an-airdrop-by-december-31-2026"
-analysisDate: 2026-04-25
 ---
 
 # Hyperliquid Airdrop Analysis

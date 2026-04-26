@@ -3,8 +3,8 @@ title: "Will the Republicans win the Tennessee Senate race in 2026?"
 description: "Will the Republicans win the Tennessee Senate race in 2026? Odds: 90.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Republicans win the Tennessee Senate race in 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-25
+status: "settled"
+lastUpdated: 2026-04-26
 tags: ["politics", "polymarket"]
 polymarketYes: 90.5
 polymarketNo: 9.5

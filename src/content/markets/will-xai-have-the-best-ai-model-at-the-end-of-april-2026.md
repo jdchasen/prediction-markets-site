@@ -4,14 +4,13 @@ description: "Will xAI have the best AI model at the end of April 2026? Odds: 0.
 marketQuestion: "Will xAI have the best AI model at the end of April 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-04-25
+lastUpdated: 2026-04-26
 expiryDate: 2026-04-30
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 0.1
 polymarketNo: 100.0
-polymarketVolume: 974945
+polymarketVolume: 978332
 polymarketUrl: "https://polymarket.com/event/will-xai-have-the-best-ai-model-at-the-end-of-april-2026"
-analysisDate: 2026-04-25
 ---
 
 The market assigns virtually no chance that xAI will produce the leading AI model by April 2026, reflecting deep skepticism about Elon Musk's AI venture competing with entrenched leaders like OpenAI, Google DeepMind, and Anthropic in under two years.

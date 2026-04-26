@@ -4,50 +4,53 @@ description: "Will Noah Kahan have the second-greatest number of monthly Spotify
 marketQuestion: "Will Noah Kahan have the second-greatest number of monthly Spotify listeners this month?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-04-25
+lastUpdated: 2026-04-26
 expiryDate: 2026-04-30
 tags: ["politics", "polymarket"]
 polymarketYes: 0.4
-polymarketNo: 99.6
-polymarketVolume: 9866
+polymarketNo: 99.7
+polymarketVolume: 9868
 polymarketUrl: "https://polymarket.com/event/will-noah-kahan-have-the-second-greatest-number-of-monthly-spotify-listeners-this-month-836"
+analysisDate: 2026-04-26
 ---
 
-This market is spectacularly mispriced because it conflates a musician's streaming performance with political outcomes, creating a category mismatch that depresses odds on what should be a straightforward entertainment question. The 0.4% YES reflects traders treating Noah Kahan's monthly Spotify ranking as a proxy for political events rather than evaluating his actual streaming trajectory independent of external factors.
+# Noah Kahan Spotify Market Analysis
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.4% | 99.6% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.4% | 99.7% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The bull case hinges on Kahan's genuine momentum in 2024-2025. His album "Stick Season" achieved sustained chart performance, and artists with established fanbases can occasionally spike into top-2 monthly listener positions during album rollout windows or viral moments. If Kahan releases new material or benefits from a major playlist placement or viral TikTok moment between now and April 2026, reaching second place becomes plausible. His demographic (Gen Z/millennial Americana listeners) shows consistent engagement. The "second-greatest" qualifier is notably less stringent than "number one," requiring him to beat only a single artist globally, which happens occasionally even for mid-tier streaming acts.
+This market's 0.4% YES odds reflect a fundamental category mismatch: a music streaming metric is being traded on a politics platform, creating severe liquidity constraints and potential data accessibility issues that have depressed the price to near-zero. The market expires April 30, 2026, giving traders roughly two years to monitor whether Kahan's streaming numbers can reach the second-highest position globally—a threshold that typically requires sustained mainstream cultural dominance or viral breakthrough, not political developments.
 
-The bear case is stronger: Spotify's monthly listener rankings are dominated by established mega-acts (The Weeknd, Taylor Swift, Drake, Bad Bunny) who maintain algorithmic dominance through sheer catalog depth and cross-cultural appeal. Kahan, while successful within his niche, has never approached top-2 placement historically. Reaching that tier requires not just album momentum but a genuinely unprecedented breakthrough. April 2026 is 18+ months away, providing ample time for new releases from competitors to consolidate dominance. The category misclassification as "politics" suggests this market exists primarily as a novelty or error, potentially attracting uninformed traders.
+The bull case hinges on Noah Kahan's genuine growth trajectory in the streaming space. His 2024 album "Stick Season" achieved mainstream success, and he's built a dedicated fanbase through consistent touring and playlist placements. If Kahan releases new material in late 2025 or early 2026, experiences a viral moment (TikTok trend, film soundtrack placement, Grammy nomination), or benefits from tour momentum preceding major festival appearances like Coachella or Bonnaroo, streaming numbers could spike dramatically. The second-greatest position is mathematically achievable if he captures 150+ million monthly listeners, though he'd need to displace artists like The Weeknd or Taylor Swift temporarily—highly unlikely but not impossible during a release cycle.
 
-Traders should monitor whether Kahan announces a 2026 album release with a targeted April launch date—that's the single most important catalyst. Check Spotify's top-10 monthly artists lists monthly to establish baseline positioning. Any major awards win or mainstream cultural moment (Grammys, late-night TV appearances, festival headlining) could shift trajectory. The April 30 expiry coincides with spring album season, potentially relevant for release timing strategies.
+The bear case is overwhelming: reaching second-highest globally requires competing with The Weeknd, Taylor Swift, Bad Bunny, and Drake—artists with fundamentally larger fanbases and streaming infrastructure. Monthly Spotify listener rankings are notoriously volatile but concentrate around established megastars; a country-adjacent indie artist breaking into top-2 would require unprecedented streaming concentration. Additionally, the market's miscategorization suggests thin order books and potential data verification problems when settlement occurs—Spotify's public listener counts update monthly, but confirmation methods for traders may prove unreliable.
+
+Traders should monitor Kahan's release schedule for any singles or album announcements (typically 6-8 weeks before drops), track his monthly listener counts through secondary music analytics sites like Chartmetric or Spotify Charts, and watch for viral moments or major collaborations. The April 2026 expiry is deliberately distant, allowing time for an unexpected breakthrough, but the 0.4% price suggests market participants view this as essentially a lottery ticket rather than a serious prediction. The lack of political substance to this category raises questions about whether this is a data entry error or intentional chaos.
 
 ## Related Markets
 
 - [Will Ron DeSantis win the 2028 US Presidential Election?](/odds/will-ron-desantis-win-the-2028-us-presidential-election) — 2% YES
+- [Will Rafael López Aliaga win the 2026 Peruvian presidential election?](/odds/will-rafael-lpez-aliaga-win-the-2026-peruvian-presidential-election) — 2% YES
 - [Will Gretchen Whitmer win the 2028 US Presidential Election?](/odds/will-gretchen-whitmer-win-the-2028-us-presidential-election) — 1% YES
-- [Will Ro Khanna win the 2028 Democratic presidential nomination?](/odds/will-ro-khanna-win-the-2028-democratic-presidential-nomination) — 2% YES
 
 ## Frequently Asked Questions
 
-### Has Noah Kahan ever reached top-5 global monthly Spotify listeners, and what was his peak ranking?
+### What specific monthly listener count would Noah Kahan need to claim the second-highest position?
 
-Kahan has not historically appeared in global top-5 monthly listener rankings; his streaming success is primarily regional and genre-specific, making a second-place finish from current baseline an extraordinary deviation requiring unprecedented growth.
+Approximately 150+ million monthly listeners, which would require him to overtake artists currently holding that range like The Weeknd or DaBaby depending on the month measured.
 
-### Why is this market categorized as "politics" when it concerns a musician's streaming metrics?
+### How does Spotify's monthly listener metric work, and could it be manipulated for this market?
 
-The miscategorization appears intentional (possibly satirical) or represents a data entry error, as there is no direct political connection unless Kahan launches a politically-themed album or endorsement campaign by April 2026.
+Monthly listeners are calculated from unique accounts streaming within a 28-day rolling window and cannot be artificially inflated; the real constraint is whether organically achieving top-2 is plausible.
 
-### What date should traders watch as a hard deadline for Kahan to announce a new album to make top-2 feasible?
+### Why is this market categorized as "politics" when it's about music streaming metrics?
 
-Realistically, a January 2026 announcement with February/March release would provide the two-month runway typically needed for streaming momentum to peak in April; anything later would be cutting timing dangerously close.
+This appears to be a categorization error or platform glitch, which could create settlement disputes if it's unclear whether this market should even exist on a politics prediction platform.
 
 ## Learn More
 

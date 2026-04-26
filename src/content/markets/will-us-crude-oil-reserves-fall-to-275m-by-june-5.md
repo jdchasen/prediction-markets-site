@@ -1,53 +1,52 @@
 ---
 title: "Will US crude oil reserves fall to 275M by June 5?"
-description: "Will US crude oil reserves fall to 275M by June 5? Odds: 5.6% YES on Polymarket. See live prices and trade this market."
+description: "Will US crude oil reserves fall to 275M by June 5? Odds: 5.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will US crude oil reserves fall to 275M by June 5?"
 category: "politics"
-status: "settled"
-lastUpdated: 2026-04-25
+status: "active"
+lastUpdated: 2026-04-26
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
-polymarketYes: 5.6
-polymarketNo: 94.4
+polymarketYes: 5.5
+polymarketNo: 94.5
 polymarketVolume: 9737
 polymarketUrl: "https://polymarket.com/event/will-us-crude-oil-reserves-fall-to-275m-by-june-5"
+analysisDate: 2026-04-26
 ---
 
-# US Crude Oil Reserves Prediction Market Analysis
+# US Crude Oil Reserves Market Analysis
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 5.6% | 94.4% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 5.5% | 94.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The 5.6% YES odds suggest traders see a less than 1-in-18 chance of US crude reserves falling below 275 million barrels by mid-2026, implying confidence that reserves will remain stable or grow over the next 18 months. This market matters because reserve levels directly reflect energy policy, production decisions, and geopolitical risk—making it a proxy bet on administration energy policy and global oil dynamics through the 2026 midterm elections.
+The market is pricing in roughly a 5.5% probability that US crude oil reserves will decline to 275 million barrels by mid-2026, reflecting broad market skepticism about a dramatic drawdown from current levels around 410-420 million barrels. This matters because such a reserve collapse would signal either major geopolitical disruption, a sustained supply crisis, or a radical shift in US energy policy—outcomes with profound implications for inflation, national security, and energy markets. The 18-month timeframe gives traders concrete policy and economic catalysts to monitor, yet the extremely low odds suggest the market currently sees this scenario as outside baseline expectations.
 
-The bull case for reserves dropping relies on sustained high production rates combined with minimal Strategic Petroleum Reserve (SPR) replenishment or even continued drawdowns. If the current administration maintains aggressive domestic production targets and doesn't aggressively rebuild the SPR after recent releases (which hit 40-year lows in 2022), reserves could contract, particularly if OPEC production cuts tighten global supplies and the US exports more refined products. Geopolitical shocks in the Middle East could also force emergency SPR releases. Conversely, the bear case—supported by current odds—rests on the likelihood that reserves stabilize or grow as SPR replenishment becomes a political priority heading into 2026. The SPR averaged around 400M+ barrels historically; current levels near 350M suggest room for rebuilding, especially if oil prices moderate below $70/barrel, making repurchases affordable. Domestic production is likely to remain constrained by regulatory pressures and capital discipline from majors, while global demand softens amid recession concerns.
+The bull case for YES rests on three potential triggers: (1) a sustained military conflict disrupting global supply chains and forcing US emergency reserve releases similar to the 2022 pattern; (2) aggressive strategic petroleum reserve (SPR) drawdowns by a future administration attempting to suppress gas prices ahead of 2026 midterms, particularly if inflation persists; and (3) an unexpected supply disruption forcing the US to tap reserves faster than replenishment capacity allows. The Trump administration's 2024 priorities included boosting domestic production while potentially releasing SPR barrels for political gain. If crude prices spike above $90-100/barrel in 2025-26, political pressure to release reserves intensifies. Watch for any major Iran or Middle East escalation, Venezuelan supply shifts, or North American production setbacks.
 
-Key catalysts include Energy Information Administration (EIA) weekly crude inventory reports (every Wednesday), which will show SPR trajectory month-to-month; any major geopolitical event affecting Middle Eastern production or shipping through the Strait of Hormuz; oil price movements below $60 or above $85, which shift incentives for SPR rebuilding versus drawdowns; and Congressional budget negotiations in fall 2025 and spring 2026 that may earmark funds for SPR replenishment. The 2024 US election outcome also influences this—different administrations have divergent approaches to energy independence and reserve strategy. Traders should monitor monthly EIA crude supply data releases and OPEC meeting announcements (typically every 180 days) for production policy shifts.
+The bear case—reflected in current odds—is substantially stronger. Current US crude production sits near 13 million barrels per day, and forecasts expect continued growth from Permian and Gulf of Mexico development through 2026. A 275M reserve level requires removing roughly 135-145 million barrels over 18 months, or 2.5M barrels daily in net withdrawals, while simultaneously fighting production increases. SPR releases would need to exceed normal replenishment by extraordinary margins. Even during the aggressive 2022 SPR release (peak ~1M bpd drawn), reserves fell much more gradually. The market's 5.5% pricing likely reflects base-case assumptions of continued production growth, normal SPR management, and no major geopolitical shock of sufficient magnitude.
+
+Key catalysts to watch include: Q4 2024 OPEC+ production decisions and 2025 production outlooks; any Iran nuclear negotiations or Middle East military escalation (which could trigger both reserve releases and production concerns); crude prices—a sustained move to $100+ increases political pressure for SPR releases; the 2025-26 legislative calendar for energy bills that might affect SPR policy; and monthly EIA inventory reports showing reserve trends. The expiration date of June 30, 2026 creates a hard deadline, meaning this market compresses uncertainty over an unusually long timeframe. Traders should heavily weight Q2 2026 data—the final three months matter most since the June 5 threshold requires sustained drawdown velocity.
 
 ## Related Markets
 
 - [Will Ron DeSantis win the 2028 US Presidential Election?](/odds/will-ron-desantis-win-the-2028-us-presidential-election) — 2% YES
-- [Will Kevin Warsh be confirmed as Fed Chair?](/odds/will-kevin-warsh-be-confirmed-as-fed-chair) — 94% YES
-- [Will Ro Khanna win the 2028 Democratic presidential nomination?](/odds/will-ro-khanna-win-the-2028-democratic-presidential-nomination) — 2% YES
+- [Will Rafael López Aliaga win the 2026 Peruvian presidential election?](/odds/will-rafael-lpez-aliaga-win-the-2026-peruvian-presidential-election) — 2% YES
+- [Will Gretchen Whitmer win the 2028 US Presidential Election?](/odds/will-gretchen-whitmer-win-the-2028-us-presidential-election) — 1% YES
 
 ## Frequently Asked Questions
 
-### Has the US Strategic Petroleum Reserve been building or draining recently, and how does that trend affect this bet?
+### What reserve level does the US currently maintain, and how realistic is a drop to 275M?
 
-The SPR has been gradually rebuilt from pandemic lows but remains well below historical 400M+ barrel levels; any major geopolitical disruption or recession could reverse rebuilding plans, making the 275M threshold more attainable than current odds suggest.
+Current reserves sit around 410-420 million barrels; reaching 275M requires a net withdrawal of ~135-145M barrels over 18 months while US production is expected to grow, making it require extraordinary policy or crisis conditions.
 
-### What oil price threshold would make SPR replenishment economically rational for the government?
+### How much does the SPR typically release per day, and could drawdowns alone cause this outcome?
 
-Crude below $70/barrel typically signals favorable conditions for large-scale SPR purchases; sustained pricing above $85 would likely pause replenishment efforts and shift focus toward strategic drawdowns, increasing the probability of hitting 275M.
-
-### Could regulatory changes affecting US oil production significantly impact this market between now and June 2026?
-
-Yes—new leasing restrictions, environmental regulations, or drilling permit delays under either administration could reduce production and domestic supply, making reserve drawdowns more likely if global demand remains firm.
+Peak SPR releases during 2022 reached ~1M barrels per day; sustaining 2.5M bpd net drawdowns for 18 months would require releases far exceeding
 
 ## Learn More
 

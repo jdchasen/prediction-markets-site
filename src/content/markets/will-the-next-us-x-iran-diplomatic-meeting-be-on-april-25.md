@@ -3,8 +3,8 @@ title: "Will the next US x Iran diplomatic meeting be on April 25?"
 description: "Will the next US x Iran diplomatic meeting be on April 25? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the next US x Iran diplomatic meeting be on April 25?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-25
+status: "settled"
+lastUpdated: 2026-04-26
 expiryDate: 2026-05-10
 tags: ["politics", "polymarket"]
 polymarketYes: 0.1

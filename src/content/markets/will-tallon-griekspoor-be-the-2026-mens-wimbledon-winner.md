@@ -4,14 +4,13 @@ description: "Will Tallon Griekspoor be the 2026 Men’s Wimbledon winner? Odds:
 marketQuestion: "Will Tallon Griekspoor be the 2026 Men’s Wimbledon winner?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-04-25
+lastUpdated: 2026-04-26
 expiryDate: 2026-07-12
 tags: ["politics", "polymarket"]
 polymarketYes: 0.4
 polymarketNo: 99.6
-polymarketVolume: 9857
+polymarketVolume: 9981
 polymarketUrl: "https://polymarket.com/event/will-tallon-griekspoor-be-the-2026-mens-wimbledon-winner"
-analysisDate: 2026-04-25
 ---
 
 # Tallon Griekspoor 2026 Wimbledon Market Analysis

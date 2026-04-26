@@ -4,14 +4,13 @@ description: "Fed Rate Hike by June 2026 Meeting? Odds: 3.7% YES on Polymarket. 
 marketQuestion: "Fed Rate Hike by June 2026 Meeting?"
 category: "economics"
 status: "active"
-lastUpdated: 2026-04-25
+lastUpdated: 2026-04-26
 expiryDate: 2026-12-09
 tags: ["economics", "federal-reserve", "polymarket"]
 polymarketYes: 3.7
 polymarketNo: 96.3
 polymarketVolume: 9806
 polymarketUrl: "https://polymarket.com/event/fed-rate-hike-by-june-2026-meeting"
-analysisDate: 2026-04-25
 ---
 
 # Fed Rate Hike by June 2026: Ultra-Low Odds Reflect Confidence in Rate Cuts

@@ -4,14 +4,13 @@ description: "Will Grigor Dimitrov win the 2026 Men's French Open? Odds: 0.1% YE
 marketQuestion: "Will Grigor Dimitrov win the 2026 Men's French Open?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-04-25
+lastUpdated: 2026-04-26
 expiryDate: 2026-06-07
 tags: ["politics", "polymarket"]
 polymarketYes: 0.1
 polymarketNo: 99.9
-polymarketVolume: 99271
+polymarketVolume: 99981
 polymarketUrl: "https://polymarket.com/event/will-grigor-dimitrov-win-the-2026-mens-french-open"
-analysisDate: 2026-04-25
 ---
 
 This tennis prediction market shows extreme skepticism about Grigor Dimitrov's chances at Roland Garros 2026, with traders pricing his victory probability at essentially zero, reflecting both his age trajectory and historical clay court limitations.

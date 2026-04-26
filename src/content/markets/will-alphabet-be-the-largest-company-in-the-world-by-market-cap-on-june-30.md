@@ -1,17 +1,16 @@
 ---
 title: "Will Alphabet be the largest company in the world by market cap on June 30?"
-description: "Will Alphabet be the largest company in the world by market cap on June 30? Odds: 4.2% YES on Polymarket. See live prices and trade this market."
+description: "Will Alphabet be the largest company in the world by market cap on June 30? Odds: 3.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Alphabet be the largest company in the world by market cap on June 30?"
 category: "finance"
 status: "active"
-lastUpdated: 2026-04-25
+lastUpdated: 2026-04-26
 expiryDate: 2026-06-30
 tags: ["finance", "polymarket"]
-polymarketYes: 4.2
-polymarketNo: 95.9
-polymarketVolume: 991372
+polymarketYes: 3.8
+polymarketNo: 96.2
+polymarketVolume: 995821
 polymarketUrl: "https://polymarket.com/event/will-alphabet-be-the-largest-company-in-the-world-by-market-cap-on-june-30"
-analysisDate: 2026-04-25
 ---
 
 Alphabet faces a daunting climb to overtake current market cap leaders Apple and Microsoft by mid-2026, with prediction markets pricing just a 4% probability—reflecting skepticism that even stellar AI execution can bridge a gap that currently exceeds $1 trillion.

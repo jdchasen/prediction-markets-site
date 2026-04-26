@@ -4,14 +4,13 @@ description: "Will the Communist Party of India (Marxist) (CPI(M)) win the most 
 marketQuestion: "Will the Communist Party of India (Marxist) (CPI(M)) win the most seats in the 2026 Assam Legislative Assembly election?"
 category: "economics"
 status: "active"
-lastUpdated: 2026-04-25
+lastUpdated: 2026-04-26
 expiryDate: 2026-05-20
 tags: ["economics", "elections", "polymarket"]
 polymarketYes: 0.1
 polymarketNo: 99.9
-polymarketVolume: 9551
+polymarketVolume: 9588
 polymarketUrl: "https://polymarket.com/event/will-the-communist-party-of-india-marxist-cpim-win-the-most-seats-in-the-2026-assam-legislative-assembly-election"
-analysisDate: 2026-04-25
 ---
 
 # CPI(M) in Assam 2026: A Deeply Unfavored Comeback Bet
