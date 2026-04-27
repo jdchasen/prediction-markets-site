@@ -1,17 +1,16 @@
 ---
 title: "Will Türkiye win Group D in the 2026 FIFA World Cup?"
-description: "Will Türkiye win Group D in the 2026 FIFA World Cup? Odds: 34.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Türkiye win Group D in the 2026 FIFA World Cup? Odds: 34.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Türkiye win Group D in the 2026 FIFA World Cup?"
 category: "sports"
 status: "active"
-lastUpdated: 2026-04-26
+lastUpdated: 2026-04-27
 expiryDate: 2026-06-27
 tags: ["polymarket", "sports"]
-polymarketYes: 34.5
-polymarketNo: 65.5
-polymarketVolume: 9919
+polymarketYes: 34.0
+polymarketNo: 66.0
+polymarketVolume: 9961
 polymarketUrl: "https://polymarket.com/event/will-the-winner-of-kosovoromaniaslovakiatrkiye-playoff-win-group-d-in-the-2026-fifa-world-cup"
-analysisDate: 2026-04-26
 ---
 
 # Türkiye's 2026 World Cup Group D Chances: Analysis

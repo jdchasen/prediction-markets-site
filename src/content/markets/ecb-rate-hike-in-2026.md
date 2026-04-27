@@ -1,17 +1,16 @@
 ---
 title: "ECB rate hike in 2026?"
-description: "ECB rate hike in 2026? Odds: 74.5% YES on Polymarket. See live prices and trade this market."
+description: "ECB rate hike in 2026? Odds: 78.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "ECB rate hike in 2026?"
 category: "economics"
 status: "active"
-lastUpdated: 2026-04-26
+lastUpdated: 2026-04-27
 expiryDate: 2026-12-31
 tags: ["economics", "polymarket"]
-polymarketYes: 74.5
-polymarketNo: 25.5
-polymarketVolume: 98405
+polymarketYes: 78.5
+polymarketNo: 21.5
+polymarketVolume: 98635
 polymarketUrl: "https://polymarket.com/event/ecb-rate-hike-in-2026"
-analysisDate: 2026-04-26
 ---
 
 Markets are pricing in a strong likelihood that the European Central Bank will raise interest rates at least once during 2026, reflecting expectations that inflation pressures will persist longer than initially anticipated or re-emerge after the current easing cycle. This matters because it signals traders believe the ECB's battle with inflation won't be definitively won by 2025, potentially keeping European borrowing costs elevated and affecting everything from mortgage rates to sovereign debt dynamics across the eurozone.

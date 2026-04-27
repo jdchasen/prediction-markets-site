@@ -3,8 +3,8 @@ title: "Will Alex De Minaur win the 2026 Men's French Open?"
 description: "Will Alex De Minaur win the 2026 Men's French Open? Odds: 0.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Alex De Minaur win the 2026 Men's French Open?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-26
+status: "settled"
+lastUpdated: 2026-04-27
 expiryDate: 2026-06-07
 tags: ["politics", "polymarket"]
 polymarketYes: 0.4

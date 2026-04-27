@@ -3,8 +3,8 @@ title: "Will André Carson be the Democratic nominee for IN-07?"
 description: "Will André Carson be the Democratic nominee for IN-07? Odds: 98.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will André Carson be the Democratic nominee for IN-07?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-26
+status: "settled"
+lastUpdated: 2026-04-27
 expiryDate: 2026-05-05
 tags: ["politics", "polymarket"]
 polymarketYes: 98.5

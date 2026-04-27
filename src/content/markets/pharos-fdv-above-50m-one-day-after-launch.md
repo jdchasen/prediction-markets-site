@@ -3,8 +3,8 @@ title: "Pharos FDV above $50M one day after launch?"
 description: "Pharos FDV above $50M one day after launch? Odds: 97.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Pharos FDV above $50M one day after launch?"
 category: "crypto"
-status: "active"
-lastUpdated: 2026-04-26
+status: "settled"
+lastUpdated: 2026-04-27
 expiryDate: 2028-01-01
 tags: ["crypto", "polymarket"]
 polymarketYes: 97.0

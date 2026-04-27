@@ -4,14 +4,13 @@ description: "Will Yulia Putintseva win the 2026 Women’s French Open? Odds: 0.
 marketQuestion: "Will Yulia Putintseva win the 2026 Women’s French Open?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-04-26
+lastUpdated: 2026-04-27
 expiryDate: 2026-06-06
 tags: ["politics", "polymarket"]
 polymarketYes: 0.3
 polymarketNo: 99.7
-polymarketVolume: 9721
+polymarketVolume: 9732
 polymarketUrl: "https://polymarket.com/event/will-yulia-putintseva-win-the-2026-womens-french-open"
-analysisDate: 2026-04-26
 ---
 
 # 2026 Women's French Open Winner Analysis

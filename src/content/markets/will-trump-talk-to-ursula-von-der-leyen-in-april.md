@@ -3,8 +3,8 @@ title: "Will Trump talk to Ursula von der Leyen in April?"
 description: "Will Trump talk to Ursula von der Leyen in April? Odds: 82.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Trump talk to Ursula von der Leyen in April?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-26
+status: "settled"
+lastUpdated: 2026-04-27
 expiryDate: 2026-04-30
 tags: ["politics", "polymarket", "trump"]
 polymarketYes: 82.2

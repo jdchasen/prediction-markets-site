@@ -3,8 +3,8 @@ title: "Will Nate Jacobs die in Euphoria: Season 3?"
 description: "Will Nate Jacobs die in Euphoria: Season 3? Odds: 52.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Nate Jacobs die in Euphoria: Season 3?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-26
+status: "settled"
+lastUpdated: 2026-04-27
 expiryDate: 2026-05-31
 tags: ["politics", "polymarket"]
 polymarketYes: 52.0

@@ -4,48 +4,49 @@ description: "Ukraine signs peace deal with Russia by June 30? Odds: 6.5% YES on
 marketQuestion: "Ukraine signs peace deal with Russia by June 30?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-04-26
+lastUpdated: 2026-04-27
 expiryDate: 2026-06-30
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 6.5
 polymarketNo: 93.5
-polymarketVolume: 97958
+polymarketVolume: 97970
 polymarketUrl: "https://polymarket.com/event/ukraine-signs-peace-deal-with-russia-by-june-30"
+analysisDate: 2026-04-27
 ---
 
-The market assigns only a 6.5% probability to a Ukraine-Russia peace deal by June 2025, reflecting deep skepticism that the grinding conflict will reach diplomatic resolution within the next 16 months despite renewed international pressure for negotiations.
+The market pricing Ukraine-Russia peace at just 6.5% reflects deep skepticism that any sustainable diplomatic resolution can emerge within the next 18 months, given entrenched territorial disputes and domestic political constraints on both sides. This matters now because recent developments—including potential shifts in Western military aid under various political scenarios and Russia's continued territorial ambitions in eastern Ukraine—could either accelerate negotiations or further entrench the conflict.
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 6.5% | 93.5% | $97K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 6.5% | 93.5% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The bear case dominates trader sentiment for clear structural reasons. Ukraine's constitutional framework now prohibits negotiations with Russia while Putin remains president following legislation passed in 2022. Both sides maintain incompatible territorial demands—Russia claims full control over four Ukrainian oblasts it has only partially occupied, while Ukraine's official position demands complete withdrawal including Crimea. The EU accession process creates additional complications, as Brussels has signaled Ukraine cannot join while territorial disputes remain active. Recent battlefield dynamics show neither side achieving decisive breakthroughs that would force capitulation, with Russia's winter 2024-2025 offensive producing minimal territorial gains and Ukraine maintaining its Kursk salient.
+The bull case centers on economic and military exhaustion forcing both parties to negotiate. Russia faces mounting casualties, international sanctions strain, and potential domestic unrest, while Ukraine confronts infrastructure devastation and donor fatigue in the West. A concrete catalyst would be the 2024 U.S. presidential election results influencing aid commitments, with any significant reduction in Western support potentially pushing Kyiv toward compromise. Additionally, if Russia's 2025 offensive operations stall or Ukrainian counteroffensives reclaim substantial territory, Moscow might seek an off-ramp. The European Council presidency rotations and EU budget cycles in mid-2025 could also create windows for diplomatic initiatives.
 
-The bull case centers on Trump's inauguration creating unexpected diplomatic momentum. Trump has repeatedly claimed he could end the war "in 24 hours" and has selected envoys who favor rapid negotiation over continued military aid. His administration could credibly threaten to cut Ukraine's military support—currently running at $60-80 billion annually—while simultaneously offering Russia sanctions relief. Key dates include the February 2025 Munich Security Conference and potential Trump-Putin summits in Q2 2025. Ukraine's defense minister recently acknowledged "2025 will be decisive," suggesting Kyiv recognizes its military position may deteriorate without sustained Western support. If Trump forces negotiations by threatening aid cutoffs and Russia faces economic pressure from extended mobilization, a framework deal freezing current lines might emerge.
+The bear case is considerably stronger given current realities. Ukraine's constitutional and political framework makes territorial concessions extraordinarily difficult—President Zelenskyy faces domestic opposition to any deal ceding land, and Ukraine's parliament passed legislation in 2022 prohibiting negotiations while Putin remains in power. Russia shows no indication of withdrawing from occupied territories and continues annexing Ukrainian land into its administrative structure. Putin's political survival depends on presenting the invasion as successful, making genuine compromise unlikely before 2026. Recent polling in Ukraine consistently shows over 70% opposition to territorial concessions, and Russia's February 2024 capture of Avdiivka demonstrates continued offensive capability.
 
-Traders should monitor several specific catalysts: any Trump administration announcements on conditioning Ukraine aid (likely in Q1 2025), Russia's May 9 Victory Day messaging about war objectives, and Ukraine's parliamentary dynamics if Zelensky faces domestic pressure to negotiate. The European Council meeting scheduled for June 2025 could prove decisive if the EU coordinates with a U.S. push for talks. Battlefield developments in the Donbas throughout spring 2025 will determine whether either side enters negotiations from a position of strength.
+Traders should monitor several specific indicators: the April 2025 NATO summit for signals on Ukraine's membership trajectory, quarterly EU aid package negotiations, and Russia's spring 2025 offensive capabilities following its winter mobilization cycle. The German federal election scheduled for September 2025 could reshape European support dynamics, while any breakthrough in Turkey or China-mediated diplomatic channels would be significant. Watch for changes in Russia's stated war aims and Ukraine's evolving negotiating positions as both sides test battlefield realities against political constraints.
 
 ## Related Markets
 
-- [Will Ron DeSantis win the 2028 US Presidential Election?](/odds/will-ron-desantis-win-the-2028-us-presidential-election) — 2% YES
-- [Will Rafael López Aliaga win the 2026 Peruvian presidential election?](/odds/will-rafael-lpez-aliaga-win-the-2026-peruvian-presidential-election) — 2% YES
 - [Will Gretchen Whitmer win the 2028 US Presidential Election?](/odds/will-gretchen-whitmer-win-the-2028-us-presidential-election) — 1% YES
+- [Will Ro Khanna win the 2028 Democratic presidential nomination?](/odds/will-ro-khanna-win-the-2028-democratic-presidential-nomination) — 2% YES
+- [Will the Republican Party control the Senate after the 2026 Midterm elections?](/odds/will-the-republican-party-control-the-senate-after-the-2026-midterm-elections) — 48% YES
 
 ## Frequently Asked Questions
 
-### Does a "peace deal" require both sides to recognize current territorial boundaries, or could a frozen conflict count?
+### Would a ceasefire or temporary halt in fighting count as a "peace deal" for this market?
 
-The market resolution depends on Polymarket's specific criteria, but typically requires a formal signed agreement between governments. A de facto ceasefire or frozen conflict without official peace treaty would likely not qualify.
+This depends on the market's resolution criteria, but typically only a signed agreement with formal terms addressing territorial or sovereignty issues would qualify. A temporary ceasefire without a comprehensive settlement likely wouldn't meet the threshold.
 
-### What happens if Zelensky signs a deal but Ukraine's parliament refuses to ratify it?
+### How does the June 2025 G7 Summit in Canada factor into potential peace negotiations?
 
-Ukrainian peace agreements require parliamentary ratification under the constitution, so a signature without Rada approval would create ambiguous resolution conditions. Traders should review Polymarket's exact resolution criteria on whether signature alone suffices.
+The G7 summit represents a key moment for Western allies to coordinate Ukraine policy and potentially pressure for negotiations, though historically these summits have reinforced military support rather than pushed for territorial compromises that Russia would accept.
 
-### Could Russia's March 2025 presidential election change the dynamics since Ukraine's law prohibits negotiating with Putin specifically?
+### What role does Ukraine's constitutional ban on ceding territory play in peace deal probability?
 
-Putin's reelection is virtually certain, so the March election won't remove this legal obstacle. Ukraine would need to repeal its own legislation first, requiring a parliamentary vote that currently lacks support.
+Ukraine's constitution requires a national referendum to cede territory, creating a significant legal hurdle that would need 50%+ voter approval—a threshold that current polling suggests would fail decisively, making any peace deal involving territorial concessions extremely difficult to formalize.
 

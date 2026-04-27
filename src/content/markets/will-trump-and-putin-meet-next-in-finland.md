@@ -3,8 +3,8 @@ title: "Will Trump and Putin meet next in Finland?"
 description: "Will Trump and Putin meet next in Finland? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Trump and Putin meet next in Finland?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-26
+status: "settled"
+lastUpdated: 2026-04-27
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket", "trump"]
 polymarketYes: 0.1

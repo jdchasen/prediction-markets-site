@@ -1,17 +1,16 @@
 ---
 title: "Will Snapchat be acquired before 2027?"
-description: "Will Snapchat be acquired before 2027? Odds: 22.6% YES on Polymarket. See live prices and trade this market."
+description: "Will Snapchat be acquired before 2027? Odds: 22.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Snapchat be acquired before 2027?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-04-26
+lastUpdated: 2026-04-27
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 22.6
-polymarketNo: 77.5
-polymarketVolume: 97893
+polymarketYes: 22.0
+polymarketNo: 78.0
+polymarketVolume: 99025
 polymarketUrl: "https://polymarket.com/event/will-snapchat-be-acquired-before-2027-286"
-analysisDate: 2026-04-26
 ---
 
 # Snapchat Acquisition Market Analysis

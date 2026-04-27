@@ -4,14 +4,13 @@ description: "Will Jasmine Paolini win the 2026 Women’s French Open? Odds: 1.1
 marketQuestion: "Will Jasmine Paolini win the 2026 Women’s French Open?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-04-26
+lastUpdated: 2026-04-27
 expiryDate: 2026-06-06
 tags: ["politics", "polymarket"]
 polymarketYes: 1.1
 polymarketNo: 99.0
-polymarketVolume: 98031
+polymarketVolume: 98048
 polymarketUrl: "https://polymarket.com/event/will-jasmine-paolini-win-the-2026-womens-french-open"
-analysisDate: 2026-04-26
 ---
 
 The market pricing Jasmine Paolini at 1.1% to win the 2026 French Open reflects extreme skepticism about the Italian player's ability to capture a Grand Slam title, though notably this appears miscategorized as "politics" when it's clearly a tennis betting market. Paolini, currently ranked in the top 15, showed career-best form in 2024 by reaching the finals at both Roland Garros and Wimbledon, losing to Iga Świątek and Barbora Krejčíková respectively. Her clay court proficiency is demonstrated by that French Open final appearance, making the sub-2% odds potentially undervalued if she maintains her late-career surge.

@@ -4,14 +4,13 @@ description: "Will Carlos Mendoza win the 2026 NL Manager of the Year? Odds: 10.
 marketQuestion: "Will Carlos Mendoza win the 2026 NL Manager of the Year?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-04-26
+lastUpdated: 2026-04-27
 expiryDate: 2026-12-19
 tags: ["politics", "polymarket"]
 polymarketYes: 10.5
 polymarketNo: 89.5
 polymarketVolume: 9977
 polymarketUrl: "https://polymarket.com/event/will-carlos-mendoza-win-the-2026-nl-manager-of-the-year"
-analysisDate: 2026-04-26
 ---
 
 # Carlos Mendoza 2026 NL Manager of the Year Analysis

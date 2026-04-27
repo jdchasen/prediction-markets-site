@@ -4,44 +4,50 @@ description: "MicroStrategy sells any Bitcoin by June 30, 2026? Odds: 2.6% YES o
 marketQuestion: "MicroStrategy sells any Bitcoin by June 30, 2026?"
 category: "crypto"
 status: "active"
-lastUpdated: 2026-04-26
+lastUpdated: 2026-04-27
 expiryDate: 2026-07-01
 tags: ["bitcoin", "crypto", "polymarket"]
 polymarketYes: 2.6
 polymarketNo: 97.4
-polymarketVolume: 996381
+polymarketVolume: 996557
 polymarketUrl: "https://polymarket.com/event/microstrategy-sells-any-bitcoin-by-june-30-2026"
+analysisDate: 2026-04-27
 ---
 
-The market assigns only a 2.6% chance that MicroStrategy will sell any of its Bitcoin holdings before June 30, 2026, reflecting extraordinary confidence in Michael Saylor's unwavering commitment to his Bitcoin accumulation strategy. This matters because MicroStrategy holds approximately 214,400 BTC (as of late 2024), making it the largest corporate Bitcoin holder and a bellwether for institutional crypto conviction.
+The market pricing a mere 2.6% chance of MicroStrategy selling any Bitcoin before mid-2026 reflects overwhelming trader conviction that the company's aggressive accumulation strategy remains unshakeable under CEO Michael Saylor's leadership. This matters because MicroStrategy holds approximately 214,000+ BTC (as of late 2024), making it the largest corporate Bitcoin holder and a bellwether for institutional crypto strategy.
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 2.6% | 97.4% | $996K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 2.6% | 97.4% | $997K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The bear case for a sale centers on severe financial distress scenarios. If Bitcoin crashes below $20,000 and remains depressed through 2025-2026, MicroStrategy's convertible debt obligations could force a partial liquidation. The company has approximately $2.4 billion in convertible notes with various maturity dates through 2027-2028, and sustained losses in its core software business combined with margin calls or covenant violations could theoretically compel asset sales. A regulatory crackdown targeting Bitcoin itself—such as emergency Treasury sanctions or an outright prohibition—might also force divestment, though this remains highly improbable given increasing institutional adoption.
+The bear case for a YES resolution centers on extreme financial distress scenarios: a prolonged Bitcoin bear market to $15,000-20,000 levels could trigger covenant violations on MicroStrategy's $2.4 billion in convertible notes, forcing asset sales. The company's convertible debt includes notes maturing in 2027, 2028, and 2032, with the earliest tranches becoming relevant if equity values collapse. Regulatory intervention represents another tail risk—an SEC enforcement action or accounting rule change that reclassifies their Bitcoin holdings could compel partial liquidation. Additionally, a sudden CEO transition or board revolt, while unlikely, could pivot corporate strategy entirely.
 
-The bull case for holding (and the market's confidence) rests on MicroStrategy's explicit corporate strategy and capital structure. Saylor has positioned Bitcoin as the company's primary treasury reserve asset and consistently raises additional capital specifically to buy more Bitcoin, not to create selling optionality. The company's at-the-market equity program and strategic debt raises are structured to acquire Bitcoin, and Saylor has stated publicly that the strategy is indefinite. Even in moderate downturns, the company's software revenue provides operational runway, and convertible debt holders are incentivized to convert rather than force liquidation if Bitcoin maintains any reasonable value above conversion prices.
+The bull case (for NO) is straightforward: MicroStrategy has repeatedly demonstrated willingness to raise additional capital through equity offerings and convertible debt specifically to acquire more Bitcoin, not sell it. The company completed multiple at-the-market offerings throughout 2024, raising billions while explicitly earmarking proceeds for Bitcoin purchases. Their cost basis averaging around $30,000-35,000 per BTC provides substantial cushion even in moderate drawdowns. Saylor has framed Bitcoin as a "digital capital" strategy with a multi-decade horizon, treating it as a treasury reserve asset rather than a trading position. The company's software business generates positive operating cash flow, reducing pressure for emergency liquidity.
 
-Key catalysts include MicroStrategy's quarterly earnings calls (typically February, April, July, and October) where Bitcoin acquisition updates occur, and any refinancing announcements for the 2027 convertible notes which would clarify capital structure pressures. The Bitcoin halving effect will be fully digested by mid-2025, potentially stabilizing prices. Watch for any change in Michael Saylor's executive role or board composition, any covenant test failures disclosed in SEC filings, and whether Bitcoin ETF flows create enough institutional demand to prevent prolonged bear markets that could stress MicroStrategy's balance sheet.
+Traders should monitor MicroStrategy's quarterly 8-K filings for any language changes around Bitcoin disposition, debt covenant details in their convertible note agreements, and monthly Bitcoin purchase announcements which would reinforce accumulation intent. The December 2025 and March 2026 quarterly earnings calls will be critical windows for detecting any strategic shift. Watch Bitcoin's price action relative to the $20,000 level—sustained trading below this could stress the company's balance sheet metrics. Any departure or health issues involving Saylor would immediately reprice this market given his singular influence on the strategy.
+
+## Related Markets
+
+- [Will MegaETH launch a token by December 31, 2026?](/odds/will-megaeth-launch-a-token-by-december-31-2026) — 100% YES
+- [Reya FDV above $70M one day after launch?](/odds/reya-fdv-above-70m-one-day-after-launch) — 47% YES
 
 ## Frequently Asked Questions
 
-### What Bitcoin price level would most likely force MicroStrategy to sell?
+### What Bitcoin price level would force MicroStrategy into financial distress requiring sales?
 
-A sustained drop below $15,000-$20,000 combined with operational losses could trigger covenant violations or refinancing difficulties, though the company's average cost basis around $30,000-$35,000 means most scenarios still allow holding. Immediate forced liquidation would likely require Bitcoin under $10,000 plus simultaneous core business deterioration.
+While exact covenant thresholds aren't public, sustained Bitcoin prices below $15,000-20,000 combined with declining equity values could trigger technical defaults on their convertible debt structure, though the company would likely attempt additional equity raises before selling BTC.
 
-### Could Michael Saylor leaving the company trigger a Bitcoin sale?
+### Could MicroStrategy sell a small amount of Bitcoin for operational purposes without triggering a YES resolution?
 
-A departure or replacement of Saylor would be the single most significant catalyst for potential divestment, as the Bitcoin strategy is personally identified with his conviction, but even then the board would need to actively reverse corporate strategy rather than maintain the status quo.
+The market resolves YES if MicroStrategy sells "any Bitcoin" according to standard terms, meaning even a single BTC sale for any reason would qualify, making the threshold extremely low despite the minimal probability.
 
-### What happens when MicroStrategy's convertible notes mature in 2027-2028?
+### What would happen to this market if Michael Saylor stepped down as CEO before June 2026?
 
-The company will likely refinance with new debt or equity if Bitcoin prices are stable, convert the notes to equity if Bitcoin has appreciated significantly, or face pressure to sell Bitcoin only if both refinancing markets are closed and Bitcoin has severely declined—a confluence of failures priced as unlikely.
+A Saylor departure would likely cause immediate repricing toward higher YES probabilities, as his personal conviction drives the entire Bitcoin accumulation strategy and a replacement CEO might not share his unwavering commitment to holding indefinitely.
 
 ## Learn More
 

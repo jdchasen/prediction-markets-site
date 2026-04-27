@@ -4,13 +4,12 @@ description: "Will the Republicans win the Texas Senate race in 2026? Odds: 56.5
 marketQuestion: "Will the Republicans win the Texas Senate race in 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-04-26
+lastUpdated: 2026-04-27
 tags: ["politics", "polymarket"]
 polymarketYes: 56.5
 polymarketNo: 43.5
-polymarketVolume: 99453
+polymarketVolume: 99481
 polymarketUrl: "https://polymarket.com/event/will-the-republicans-win-the-texas-senate-race-in-2026"
-analysisDate: 2026-04-26
 ---
 
 Republicans maintain a clear advantage in the Texas Senate race for 2026, with markets pricing in better-than-even odds for what has historically been reliable red territory, though the margin suggests growing competitiveness in a state Democrats have targeted for years.

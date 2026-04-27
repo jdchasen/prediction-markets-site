@@ -4,50 +4,51 @@ description: "Will Gretchen Whitmer win the 2028 US Presidential Election? Odds:
 marketQuestion: "Will Gretchen Whitmer win the 2028 US Presidential Election?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-04-26
+lastUpdated: 2026-04-27
 expiryDate: 2028-11-07
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.9
 polymarketNo: 99.1
-polymarketVolume: 9872933
+polymarketVolume: 9967301
 polymarketUrl: "https://polymarket.com/event/will-gretchen-whitmer-win-the-2028-us-presidential-election"
+analysisDate: 2026-04-27
 ---
 
-Michigan Governor Gretchen Whitmer faces extremely long odds at under 1% to win the 2028 presidential election, reflecting her position as a distant prospect in a crowded potential Democratic field that includes the sitting Vice President and multiple high-profile senators.
+Michigan Governor Gretchen Whitmer faces nearly insurmountable odds at 0.9% to win the 2028 presidential election, reflecting her position as a distant long-shot in a wide-open Democratic field with no clear frontrunner. The market currently prices in extreme skepticism about her ability to break through against better-known national figures, particularly given Vice President Kamala Harris's structural advantages as the sitting VP and the likely presence of heavyweight challengers like California Governor Gavin Newsom, Transportation Secretary Pete Buttigieg, and Pennsylvania Governor Josh Shapiro.
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.9% | 99.1% | $9.9M | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.9% | 99.1% | $10.0M | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The bear case is straightforward and explains the current pricing. Kamala Harris holds the natural advantage as sitting VP if Biden doesn't seek reelection, while figures like Gavin Newsom, Josh Shapiro, and potentially younger candidates like Pete Buttigieg have cultivated stronger national profiles. Whitmer's decision not to run in 2024 when there was an appetite for fresh faces suggests hesitancy about national viability. Michigan's mixed political terrain—she won reelection in 2022 by 10 points but Trump carried the state in 2016—doesn't provide an overwhelming mandate. The 2026 gubernatorial race will be crucial; if Democrats lose Michigan's governorship, Whitmer's argument as a swing-state winner evaporates. Additionally, the Democratic primary calendar favors candidates with Southern Black voter appeal or progressive credentials in early states, neither being Whitmer's obvious strength.
+The bull case centers on Whitmer's proven electoral strength in the critical swing state of Michigan, where she won re-election by 10 points in 2022 while carrying working-class voters Democrats have struggled to reach nationally. Her executive experience navigating divided government, managing the COVID-19 pandemic response, and delivering on economic development projects like securing major EV manufacturing investments gives her tangible policy accomplishments. If Harris declines to run or stumbles badly, and if the party seeks a Midwestern governor who can appeal to both progressives and moderates, Whitmer's profile fits the historical mold of successful Democratic nominees. Her 2024 convention speech and prominent surrogate role could elevate her national standing significantly.
 
-The bull case centers on her proven ability to win a critical swing state and potential field dynamics. If Harris stumbles as VP or declines to run, and if more prominent alternatives like Newsom face electability questions, Whitmer could emerge as a practical Midwestern choice. Her handling of the COVID pandemic and subsequent legislative victories with full Democratic control in Michigan (abortion rights codification, gun safety measures) provide accomplishment-based talking points. Watch for her national media presence through 2025-2026: keynote speeches at DNC events, campaign appearances in the 2026 midterms particularly in swing districts, and any infrastructure or economic wins from Biden-era funding flowing to Michigan. The Iowa caucuses and New Hampshire primary in early 2028 will be the first real tests if she enters.
+The bear case is formidable: Whitmer lacks the national name recognition and fundraising infrastructure needed to compete against sitting Vice President Harris, who would inherit Biden's donor network and party establishment support. Democratic primary voters have consistently favored candidates with Washington experience or historic candidacies over governors in recent cycles. Whitmer's Michigan-specific controversies, including the COVID lockdown backlash and her husband's boat launch incident, could be weaponized nationally. Most critically, key Democratic power brokers and donors will likely coalesce around Harris or another candidate by early 2027, when informal campaign activity intensifies, freezing out lower-tier candidates before the Iowa caucuses in February 2028.
 
-Key catalysts include Michigan's 2026 gubernatorial election results (November 2026), Harris's approval ratings through 2025-2027, and any 2027 candidate announcement timeline. Whitmer would likely need to announce by Q1 2027 to build infrastructure for Iowa. Democratic activists will be watching the 2025-2026 state legislative sessions for her policy wins or failures, and whether Michigan's economy outperforms neighboring states. The DNC rules committee decisions in 2026 about primary calendar changes could also shift dynamics—a Midwest-friendly early state would help her case considerably.
+Watch for Whitmer's activity during the 2026 midterm cycle—whether she campaigns aggressively for Democratic candidates in early primary states or focuses solely on Michigan races will signal her intentions. The Democratic National Committee's winter 2027 meeting and spring 2027 cattle call events in Iowa and New Hampshire typically provide the first real winnowing mechanism. Harris's approval ratings and Biden's 2024 performance will largely determine whether the Democratic field even opens up meaningfully; if Democrats win in 2024, the 2028 nomination becomes effectively closed to challengers like Whitmer.
 
 ## Related Markets
 
-- [Will Ron DeSantis win the 2028 US Presidential Election?](/odds/will-ron-desantis-win-the-2028-us-presidential-election) — 2% YES
-- [Will Rafael López Aliaga win the 2026 Peruvian presidential election?](/odds/will-rafael-lpez-aliaga-win-the-2026-peruvian-presidential-election) — 2% YES
 - [Will Ro Khanna win the 2028 Democratic presidential nomination?](/odds/will-ro-khanna-win-the-2028-democratic-presidential-nomination) — 2% YES
+- [Will the Republican Party control the Senate after the 2026 Midterm elections?](/odds/will-the-republican-party-control-the-senate-after-the-2026-midterm-elections) — 48% YES
+- [Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?](/odds/will-amanda-anisimova-be-the-2026-womens-wimbledon-winner) — 8% YES
 
 ## Frequently Asked Questions
 
-### How does Whitmer's decision not to run in 2024 affect her 2028 prospects?
+### Why is Whitmer's probability so much lower than other potential 2028 Democratic candidates?
 
-Sitting out 2024 means she avoided building national fundraising networks and Iowa/New Hampshire relationships that other candidates developed, putting her behind organizationally. However, it also spared her from attacking Biden or losing a competitive primary that could have damaged her future prospects.
+She faces a massive structural disadvantage against sitting VP Kamala Harris, who would enter as the presumptive frontrunner with institutional party support. Whitmer also competes directly with other swing-state executives like Shapiro and lacks the national celebrity status of candidates like Newsom or Buttigieg.
 
-### What would need to happen for Whitmer's odds to reach 10-15%?
+### What would need to happen for Whitmer's odds to increase significantly before 2027?
 
-Kamala Harris would need to either decline to run or show sustained approval ratings below 35%, while Gavin Newsom would need to face serious scandals or electability concerns, creating a genuine opening for a Midwestern governor with swing-state credentials.
+Harris would need to either decline to run or suffer a major scandal that damages her viability, and Whitmer would need to build national profile through high-visibility media appearances, surrogate campaigning in 2024-2026, and early relationship-building with Iowa and New Hampshire activists and donors.
 
-### Does Michigan's early primary position help or hurt Whitmer in 2028?
+### Does Whitmer's Michigan base actually help her in a Democratic primary?
 
-Michigan's move to early primary status (it went 5th in 2024) creates home-state advantage for winning delegates early, but also means a loss in her own state would be campaign-ending, creating high-risk dynamics that favor candidates with less geographical pressure.
+Only marginally—Michigan doesn't vote until mid-March in typical primary calendars, well after Iowa, New Hampshire, Nevada, and South Carolina have winnowed the field. While winning her home state would be expected, it rarely provides momentum compared to success in the early four states that make or break candidacies.
 
 ## Learn More
 

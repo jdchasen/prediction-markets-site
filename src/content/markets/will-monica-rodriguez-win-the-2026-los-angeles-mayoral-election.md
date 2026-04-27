@@ -3,8 +3,8 @@ title: "Will Monica Rodriguez win the 2026 Los Angeles mayoral election?"
 description: "Will Monica Rodriguez win the 2026 Los Angeles mayoral election? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Monica Rodriguez win the 2026 Los Angeles mayoral election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-26
+status: "settled"
+lastUpdated: 2026-04-27
 expiryDate: 2026-06-02
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.1

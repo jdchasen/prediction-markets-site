@@ -1,17 +1,16 @@
 ---
 title: "Will the Edmonton Oilers win the Western Conference?"
-description: "Will the Edmonton Oilers win the Western Conference? Odds: 9.0% YES on Polymarket. See live prices and trade this market."
+description: "Will the Edmonton Oilers win the Western Conference? Odds: 6.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Edmonton Oilers win the Western Conference?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-04-26
+lastUpdated: 2026-04-27
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
-polymarketYes: 9.0
-polymarketNo: 91.0
-polymarketVolume: 98886
+polymarketYes: 6.5
+polymarketNo: 93.5
+polymarketVolume: 99414
 polymarketUrl: "https://polymarket.com/event/will-the-edmonton-oilers-win-the-western-conference-853"
-analysisDate: 2026-04-26
 ---
 
 The Edmonton Oilers are currently given less than a 10% chance to win the Western Conference by June 2026, reflecting skepticism about their ability to overcome roster challenges and strong division rivals despite their recent playoff success.

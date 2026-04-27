@@ -1,17 +1,16 @@
 ---
 title: "Will the next diplomatic US-Iran meeting be in Egypt?"
-description: "Will the next diplomatic US-Iran meeting be in Egypt? Odds: 1.0% YES on Polymarket. See live prices and trade this market."
+description: "Will the next diplomatic US-Iran meeting be in Egypt? Odds: 0.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the next diplomatic US-Iran meeting be in Egypt?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-04-26
+lastUpdated: 2026-04-27
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
-polymarketYes: 1.0
-polymarketNo: 99.0
-polymarketVolume: 97379
+polymarketYes: 0.9
+polymarketNo: 99.2
+polymarketVolume: 97419
 polymarketUrl: "https://polymarket.com/event/will-the-next-diplomatic-us-iran-meeting-be-in-egypt-743"
-analysisDate: 2026-04-26
 ---
 
 The market shows virtually no confidence that Egypt will host the next diplomatic US-Iran meeting, reflecting the historically limited role Cairo has played in direct US-Iran negotiations and the availability of more established neutral venues.

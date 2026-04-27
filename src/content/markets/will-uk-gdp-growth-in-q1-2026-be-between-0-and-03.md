@@ -1,17 +1,16 @@
 ---
 title: "Will UK GDP growth in Q1 2026 be between 0% and 0.3%?"
-description: "Will UK GDP growth in Q1 2026 be between 0% and 0.3%? Odds: 12.5% YES on Polymarket. See live prices and trade this market."
+description: "Will UK GDP growth in Q1 2026 be between 0% and 0.3%? Odds: 16.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will UK GDP growth in Q1 2026 be between 0% and 0.3%?"
 category: "economics"
 status: "active"
-lastUpdated: 2026-04-26
+lastUpdated: 2026-04-27
 expiryDate: 2026-05-14
 tags: ["economics", "polymarket"]
-polymarketYes: 12.5
-polymarketNo: 87.5
-polymarketVolume: 9611
+polymarketYes: 16.0
+polymarketNo: 84.0
+polymarketVolume: 9628
 polymarketUrl: "https://polymarket.com/event/will-uk-gdp-growth-in-q1-2026-be-between-0-and-0pt3"
-analysisDate: 2026-04-26
 ---
 
 The market is pricing in only a 12.5% chance of subdued UK GDP growth (0-0.3%) in Q1 2026, suggesting traders expect either stronger expansion or contraction outside this narrow band. This matters because it reveals expectations for UK economic resilience heading into mid-2026, with implications for Bank of England policy and sterling positioning.

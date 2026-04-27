@@ -3,8 +3,8 @@ title: "Will Rio Phillips be the Democratic nominee for Senate in West Virginia?
 description: "Will Rio Phillips be the Democratic nominee for Senate in West Virginia? Odds: 0.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Rio Phillips be the Democratic nominee for Senate in West Virginia?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-26
+status: "settled"
+lastUpdated: 2026-04-27
 expiryDate: 2026-05-12
 tags: ["politics", "polymarket"]
 polymarketYes: 0.5
