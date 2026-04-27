@@ -3,7 +3,7 @@ title: "Will Jacy Todd win the 2026 Nebraska Governor Republican primary electio
 description: "Will Jacy Todd win the 2026 Nebraska Governor Republican primary election? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Jacy Todd win the 2026 Nebraska Governor Republican primary election?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-27
 expiryDate: 2026-05-12
 tags: ["elections", "politics", "polymarket"]

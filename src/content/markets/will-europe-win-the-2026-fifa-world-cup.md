@@ -3,7 +3,7 @@ title: "Will Europe win the 2026 FIFA World Cup?"
 description: "Will Europe win the 2026 FIFA World Cup? Odds: 72.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Europe win the 2026 FIFA World Cup?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-27
 tags: ["polymarket", "sports"]
 polymarketYes: 72.0

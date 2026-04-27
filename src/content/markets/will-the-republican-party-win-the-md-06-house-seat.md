@@ -11,7 +11,6 @@ polymarketYes: 10.0
 polymarketNo: 90.0
 polymarketVolume: 9733
 polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-md-06-house-seat"
-analysisDate: 2026-04-27
 ---
 
 # MD-06 Republican Upset: A 10% Long Shot in Solid Democratic Territory

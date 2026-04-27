@@ -11,7 +11,6 @@ polymarketYes: 0.4
 polymarketNo: 99.6
 polymarketVolume: 9930
 polymarketUrl: "https://polymarket.com/event/will-spacexs-initial-public-offering-occur-in-november-2026-et"
-analysisDate: 2026-04-27
 ---
 
 # SpaceX IPO Market Analysis

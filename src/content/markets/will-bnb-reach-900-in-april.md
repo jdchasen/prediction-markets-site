@@ -11,7 +11,6 @@ polymarketYes: 0.1
 polymarketNo: 100.0
 polymarketVolume: 9980
 polymarketUrl: "https://polymarket.com/event/will-bnb-reach-900-in-april"
-analysisDate: 2026-04-27
 ---
 
 # BNB Price Prediction Market Analysis

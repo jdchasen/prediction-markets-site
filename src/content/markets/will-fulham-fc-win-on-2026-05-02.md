@@ -3,7 +3,7 @@ title: "Will Fulham FC win on 2026-05-02?"
 description: "Will Fulham FC win on 2026-05-02? Odds: 10.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Fulham FC win on 2026-05-02?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-27
 expiryDate: 2026-05-02
 tags: ["politics", "polymarket"]

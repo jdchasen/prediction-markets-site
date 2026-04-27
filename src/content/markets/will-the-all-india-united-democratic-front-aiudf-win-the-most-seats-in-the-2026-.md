@@ -3,7 +3,7 @@ title: "Will the All India United Democratic Front (AIUDF) win the most seats in
 description: "Will the All India United Democratic Front (AIUDF) win the most seats in the 2026 Assam Legislative Assembly election? Odds: 0.1% YES on Polymarket. See live..."
 marketQuestion: "Will the All India United Democratic Front (AIUDF) win the most seats in the 2026 Assam Legislative Assembly election?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-27
 expiryDate: 2026-05-20
 tags: ["ai", "elections", "politics", "polymarket"]

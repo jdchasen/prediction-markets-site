@@ -8,10 +8,9 @@ lastUpdated: 2026-04-27
 expiryDate: 2026-06-30
 tags: ["finance", "polymarket"]
 polymarketYes: 1.1
-polymarketNo: 99.0
-polymarketVolume: 99168
+polymarketNo: 98.9
+polymarketVolume: 99302
 polymarketUrl: "https://polymarket.com/event/will-discords-market-cap-be-greater-than-30b-at-market-close-on-ipo-day"
-analysisDate: 2026-04-27
 ---
 
 The Discord IPO market is pricing in just over 1% odds of reaching a $30B valuation at debut, reflecting deep skepticism about the chat platform's ability to command premium pricing in the current tech IPO environment where investors demand profitability over growth-at-any-cost narratives.

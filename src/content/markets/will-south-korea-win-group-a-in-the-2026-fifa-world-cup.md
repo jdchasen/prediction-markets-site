@@ -9,9 +9,8 @@ expiryDate: 2026-06-27
 tags: ["polymarket", "sports"]
 polymarketYes: 20.5
 polymarketNo: 79.5
-polymarketVolume: 9916
+polymarketVolume: 9927
 polymarketUrl: "https://polymarket.com/event/will-south-korea-win-group-a-in-the-2026-fifa-world-cup"
-analysisDate: 2026-04-27
 ---
 
 # South Korea's 2026 World Cup Group Stage Prospects

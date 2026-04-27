@@ -11,7 +11,6 @@ polymarketYes: 0.1
 polymarketNo: 100.0
 polymarketVolume: 9819
 polymarketUrl: "https://polymarket.com/event/nhl-2025-26-hart-memorial-trophy-jason-robertson"
-analysisDate: 2026-04-27
 ---
 
 Jason Robertson's Hart Trophy odds sit at near-zero, reflecting both his Dallas Stars' competitive positioning and the historical difficulty for wingers to capture the award in the modern NHL era. This market matters now because Robertson is entering his prime at age 26, and the 2025-26 season will be crucial in determining whether he can elevate his game to Hart-caliber production while his team maintains elite status.

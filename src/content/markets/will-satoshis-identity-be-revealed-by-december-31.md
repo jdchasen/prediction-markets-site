@@ -9,9 +9,8 @@ expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 8.5
 polymarketNo: 91.5
-polymarketVolume: 9957
+polymarketVolume: 9973
 polymarketUrl: "https://polymarket.com/event/will-satoshis-identity-be-revealed-by-december-31"
-analysisDate: 2026-04-27
 ---
 
 # Satoshi Nakamoto Identity Revelation Market Analysis

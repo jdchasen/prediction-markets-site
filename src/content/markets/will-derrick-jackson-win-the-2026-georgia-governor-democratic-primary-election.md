@@ -11,7 +11,6 @@ polymarketYes: 0.1
 polymarketNo: 99.9
 polymarketVolume: 9972
 polymarketUrl: "https://polymarket.com/event/will-derrick-jackson-win-the-2026-georgia-governor-democratic-primary-election"
-analysisDate: 2026-04-27
 ---
 
 This market prices Derrick Jackson as a near-zero contender in Georgia's 2026 Democratic gubernatorial primary, reflecting his minimal name recognition and organizational infrastructure compared to likely frontrunners. The pricing matters now because Democratic primary dynamics are crystallizing ahead of candidate announcements expected in 2025, and any early momentum Jackson generates could meaningfully shift these odds from their floor.

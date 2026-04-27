@@ -11,7 +11,6 @@ polymarketYes: 4.0
 polymarketNo: 96.0
 polymarketVolume: 9933
 polymarketUrl: "https://polymarket.com/event/will-alibaba-have-a-1-ai-model-by-june-30"
-analysisDate: 2026-04-27
 ---
 
 # Alibaba AI Model Market Analysis

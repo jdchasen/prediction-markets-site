@@ -9,9 +9,8 @@ expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 82.5
 polymarketNo: 17.5
-polymarketVolume: 9752
+polymarketVolume: 9758
 polymarketUrl: "https://polymarket.com/event/nothing-ever-happens-obama"
-analysisDate: 2026-04-27
 ---
 
 # Nothing Ever Happens: Obama Market Analysis

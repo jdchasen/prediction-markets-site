@@ -9,9 +9,8 @@ expiryDate: 2026-06-30
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 6.5
 polymarketNo: 93.5
-polymarketVolume: 97970
+polymarketVolume: 97999
 polymarketUrl: "https://polymarket.com/event/ukraine-signs-peace-deal-with-russia-by-june-30"
-analysisDate: 2026-04-27
 ---
 
 The market pricing Ukraine-Russia peace at just 6.5% reflects deep skepticism that any sustainable diplomatic resolution can emerge within the next 18 months, given entrenched territorial disputes and domestic political constraints on both sides. This matters now because recent developments—including potential shifts in Western military aid under various political scenarios and Russia's continued territorial ambitions in eastern Ukraine—could either accelerate negotiations or further entrench the conflict.

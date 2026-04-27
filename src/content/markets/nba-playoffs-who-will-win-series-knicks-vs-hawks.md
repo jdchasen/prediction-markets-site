@@ -3,7 +3,7 @@ title: "NBA Playoffs: Who Will Win Series? - Knicks vs. Hawks "
 description: "NBA Playoffs: Who Will Win Series? - Knicks vs. Hawks  Odds: 72.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "NBA Playoffs: Who Will Win Series? - Knicks vs. Hawks "
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-27
 expiryDate: 2026-05-04
 tags: ["polymarket", "sports"]

@@ -1,17 +1,16 @@
 ---
 title: "Reya FDV above $70M one day after launch?"
-description: "Reya FDV above $70M one day after launch? Odds: 47.0% YES on Polymarket. See live prices and trade this market."
+description: "Reya FDV above $70M one day after launch? Odds: 46.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Reya FDV above $70M one day after launch?"
 category: "crypto"
 status: "active"
 lastUpdated: 2026-04-27
 expiryDate: 2027-01-01
 tags: ["crypto", "polymarket"]
-polymarketYes: 47.0
-polymarketNo: 53.0
+polymarketYes: 46.5
+polymarketNo: 53.5
 polymarketVolume: 9837
 polymarketUrl: "https://polymarket.com/event/reya-fdv-above-70m-one-day-after-launch-874"
-analysisDate: 2026-04-27
 ---
 
 # Reya FDX Market Analysis

@@ -1,17 +1,16 @@
 ---
 title: "Will Jerome Powell depart as Fed Chair by May 16 2026?"
-description: "Will Jerome Powell depart as Fed Chair by May 16 2026? Odds: 74.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Jerome Powell depart as Fed Chair by May 16 2026? Odds: 72.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Jerome Powell depart as Fed Chair by May 16 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-04-27
 expiryDate: 2026-06-30
 tags: ["ai", "federal-reserve", "politics", "polymarket"]
-polymarketYes: 74.5
-polymarketNo: 25.5
-polymarketVolume: 9894
+polymarketYes: 72.5
+polymarketNo: 27.5
+polymarketVolume: 9900
 polymarketUrl: "https://polymarket.com/event/will-jerome-powell-depart-as-fed-chair-by-may-16-2026"
-analysisDate: 2026-04-27
 ---
 
 The prediction market is pricing in a three-in-four chance that Jerome Powell leaves the Federal Reserve chair position before mid-May 2026, reflecting genuine uncertainty about whether his term survives the second Trump administration's political pressure. This matters because the Fed chair's continuity directly impacts monetary policy credibility and market stability during a period of elevated inflation concerns and potential fiscal turbulence.

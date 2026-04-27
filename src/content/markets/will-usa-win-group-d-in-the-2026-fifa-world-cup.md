@@ -11,7 +11,6 @@ polymarketYes: 38.5
 polymarketNo: 61.5
 polymarketVolume: 9737
 polymarketUrl: "https://polymarket.com/event/will-usa-win-group-d-in-the-2026-fifa-world-cup"
-analysisDate: 2026-04-27
 ---
 
 At 38.5% implied probability, the market is pricing the USMNT as a moderate underdog to top Group D, reflecting genuine uncertainty around qualification strength and the competitive structure of the 2026 draw. This matters now because the CONCACAF qualifying cycle will conclude by March 2026, locking in the US roster quality and form just before the tournament, making current betting value dependent on how seriously one weights pre-tournament momentum versus inherent squad talent.

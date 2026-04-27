@@ -9,9 +9,8 @@ expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
 polymarketYes: 6.5
 polymarketNo: 93.5
-polymarketVolume: 9720
+polymarketVolume: 9930
 polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-ca-03-house-seat"
-analysisDate: 2026-04-27
 ---
 
 # CA-03 Republican House Seat Analysis
