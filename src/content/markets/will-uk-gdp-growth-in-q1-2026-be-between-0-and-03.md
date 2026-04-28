@@ -1,52 +1,54 @@
 ---
 title: "Will UK GDP growth in Q1 2026 be between 0% and 0.3%?"
-description: "Will UK GDP growth in Q1 2026 be between 0% and 0.3%? Odds: 17.0% YES on Polymarket. See live prices and trade this market."
+description: "Will UK GDP growth in Q1 2026 be between 0% and 0.3%? Odds: 48.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will UK GDP growth in Q1 2026 be between 0% and 0.3%?"
 category: "economics"
 status: "active"
-lastUpdated: 2026-04-27
+lastUpdated: 2026-04-28
 expiryDate: 2026-05-14
 tags: ["economics", "polymarket"]
-polymarketYes: 17.0
-polymarketNo: 83.0
+polymarketYes: 48.0
+polymarketNo: 52.0
 polymarketVolume: 9628
 polymarketUrl: "https://polymarket.com/event/will-uk-gdp-growth-in-q1-2026-be-between-0-and-0pt3"
-analysisDate: 2026-04-27
+analysisDate: 2026-04-28
 ---
 
-# UK GDP Growth Q1 2026: Stagnation Bet at Historically Low Odds
+The market is essentially pricing UK Q1 2026 GDP growth as a coin flip, reflecting genuine uncertainty about whether the economy will stall near zero or accelerate modestly above 0.3%. This matters now because Q1 2026 GDP data won't release until late April 2026, but current monetary policy decisions and economic data throughout 2025 will heavily influence the trajectory, making this a forward-looking referendum on UK growth momentum heading into mid-2026.
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 17.0% | 83.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 48.0% | 52.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The current 17% pricing reflects trader skepticism that UK growth will land in the narrow 0-0.3% band—a modest expansion that sits between outright recession and meaningful recovery. This matters because Q1 2026 GDP will signal whether the Bank of England's rate-cutting cycle (which began in August 2024) has successfully stimulated demand without reigniting inflation, or whether the UK economy remains trapped in a low-growth regime that pressures sterling and complicates fiscal policy heading into the latter half of 2026.
+The bull case for sub-0.3% growth rests on persistent headwinds: the Bank of England's rate-cut cycle (which began in August 2024) may not fully offset fiscal drag from National Insurance contributions rising in April 2025, business investment could remain cautious amid regulatory uncertainty, and the Office for Budget Responsibility already forecasted only 1.5% full-year 2025 growth. If inflation remains sticky and the BoE pauses cuts by late 2025, weakening demand further, Q1 2026 becomes vulnerable to near-stall conditions. The bear case hinges on rate cuts from now through early 2026 (with key BoE decisions on February 6, 2026 and March 19, 2026) eventually stimulating consumer spending and business activity, while any surprise positive shocks—wage growth outpacing inflation, export strength, or successful cost-pass-through by firms—could push growth above 0.3%, especially if Q4 2025 builds momentum.
 
-**The bull case for YES (stagnation):** The ONS has consistently revised UK growth downward, with 2024 coming in at just 1.0%. Consumer spending remains tepid despite real wage gains, as households front-load debt repayment after years of negative real rates. If unemployment edges above 4.5% (current reading ~4.3%) through winter 2025-26, demand destruction could easily constrain Q1 growth to the 0-0.3% zone. Incoming US tariffs under Trump administration (effective February 2025) could also hit UK manufacturing exports and squeeze margins for services firms. The BoE's February 2025 MPC meeting and subsequent March rate decision will be critical—if inflation re-accelerates and the bank pauses cuts, consumer confidence could collapse into Q1.
+Key catalysts include: UK CPI and wage growth data releases throughout Q4 2025 and early 2026, which will determine whether the BoE continues cutting rates; the BoE's February 2026 Monetary Policy Decision; Q4 2025 GDP data (releasing February 12, 2026), which acts as an immediate leading indicator for Q1 momentum; and any fiscal stimulus or policy reversals the government announces between now and Q1 2026. Additionally, US economic data (NFP reports, Fed policy signals) indirectly matters—if the Fed holds rates higher for longer, it strengthens sterling and potentially weakens UK export competitiveness, pushing growth lower.
 
-**The bear case for NO (stronger growth):** Most forecasters expect UK growth of 1.5-2.0% in 2026 as rate cuts accumulate stimulus effects and corporate investment responds to improved margin expectations. Energy bills are set to fall again in January 2025 (Ofgem price cap reset), releasing ~£500 per household annually into discretionary spending. Q1 traditionally shows seasonal strength, and January-March 2025 business surveys (released January-February) will provide leading indicators; any resilience there points to Q1 2026 growth well above 0.3%. Public sector wage deals struck in late 2024 (NHS 22% rise, teachers 5.5%) will begin flowing into higher consumption through Q1 2026.
-
-The critical data points to watch: the January 2025 BoE rate decision and February inflation print (CPI release mid-March), which will telegraph monetary conditions into Q1 2026; the ONS flash Q4 2025 GDP estimate (late January 2026), which will set expectations for the Q1 data itself; January 2025 retail sales and manufacturing PMI surveys (released early February), signaling demand momentum; and any Trump tariff announcements (watch for February 2025 timing) that could shock export demand. The ONS releases preliminary Q1 2026 GDP on April 23, 2026, with final data on May 14 (market expiry). If Q4 2025 growth disappoints or comes in below 0.2%, this market will re-price sharply higher given sequential momentum dynamics.
+Traders should monitor the yield curve and market-implied BoE rate expectations closely: if markets begin pricing in fewer cuts than currently expected, the YES side (sub-0.3% growth) strengthens. Watch the Q4 2025 GDP figure especially carefully—a number below 0.3% would dramatically increase the odds of another weak quarter. Finally, real wage growth data in January-February 2026 will be critical; sustained real wage gains could offset fiscal drag and lift the market toward NO, while stagnation reinforces downside risks.
 
 ## Related Markets
 
+- [Will 3 Fed rate cuts happen in 2026?](/odds/will-3-fed-rate-cuts-happen-in-2026) — 6% YES
 - [Will 7 Fed rate cuts happen in 2026?](/odds/will-7-fed-rate-cuts-happen-in-2026) — 0% YES
-- [Will 3 Fed rate cuts happen in 2026?](/odds/will-3-fed-rate-cuts-happen-in-2026) — 8% YES
-- [Fed rate hike in 2026?](/odds/fed-rate-hike-in-2026) — 12% YES
+- [Fed rate hike in 2026?](/odds/fed-rate-hike-in-2026) — 14% YES
 
 ## Frequently Asked Questions
 
-### Why are odds so low if UK growth has been sluggish recently?
+### How much does the April 2025 National Insurance contribution increase influence this market?
 
-A 0-0.3% band is extremely narrow—traders are betting growth accelerates beyond that range as rate cuts and energy bill relief kick in by Q1 2026, rather than remaining in recession-adjacent territory.
+The NI rise is a major fiscal drag that reduces household and business disposable income precisely during Q1 2026; if the BoE hasn't cut rates aggressively enough by then to offset it, growth will struggle to exceed 0.3%.
 
-### How much would unemployment rising to 5% change the probability?
+### Could a weak Q4 2025 GDP reading alone move this market significantly?
 
-Significantly—a 5% jobless rate by Q1 2026 would likely push YES odds above 35-40%, as demand destruction would make the
+Yes—if Q4 2025 GDP (released February 12, 2026) comes in below 0.2%, it would likely push YES odds above 55-60%, as momentum into Q1 would be visibly slowing and BoE rate cuts may already be priced in as insufficient.
+
+### What would force this market to reprice toward NO (above 0.3% growth)?
+
+A sustained period of real wage growth above
 
 ## Learn More
 

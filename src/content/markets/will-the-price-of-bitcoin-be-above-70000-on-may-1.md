@@ -1,17 +1,16 @@
 ---
 title: "Will the price of Bitcoin be above $70,000 on May 1?"
-description: "Will the price of Bitcoin be above $70,000 on May 1? Odds: 97.7% YES on Polymarket. See live prices and trade this market."
+description: "Will the price of Bitcoin be above $70,000 on May 1? Odds: 97.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the price of Bitcoin be above $70,000 on May 1?"
 category: "crypto"
 status: "active"
-lastUpdated: 2026-04-27
+lastUpdated: 2026-04-28
 expiryDate: 2026-05-01
 tags: ["bitcoin", "crypto", "polymarket"]
-polymarketYes: 97.7
-polymarketNo: 2.4
-polymarketVolume: 9727
+polymarketYes: 97.0
+polymarketNo: 3.0
+polymarketVolume: 9833
 polymarketUrl: "https://polymarket.com/event/bitcoin-above-70k-on-may-1"
-analysisDate: 2026-04-27
 ---
 
 # Bitcoin $70K by May 2026: Market Analysis

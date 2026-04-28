@@ -3,8 +3,8 @@ title: "MicroStrategy sells any Bitcoin by June 30, 2026?"
 description: "MicroStrategy sells any Bitcoin by June 30, 2026? Odds: 2.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "MicroStrategy sells any Bitcoin by June 30, 2026?"
 category: "crypto"
-status: "active"
-lastUpdated: 2026-04-27
+status: "settled"
+lastUpdated: 2026-04-28
 expiryDate: 2026-07-01
 tags: ["bitcoin", "crypto", "polymarket"]
 polymarketYes: 2.9

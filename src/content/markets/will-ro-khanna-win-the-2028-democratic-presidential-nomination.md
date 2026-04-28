@@ -1,17 +1,16 @@
 ---
 title: "Will Ro Khanna win the 2028 Democratic presidential nomination?"
-description: "Will Ro Khanna win the 2028 Democratic presidential nomination? Odds: 2.1% YES on Polymarket. See live prices and trade this market."
+description: "Will Ro Khanna win the 2028 Democratic presidential nomination? Odds: 2.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Ro Khanna win the 2028 Democratic presidential nomination?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-04-27
+lastUpdated: 2026-04-28
 expiryDate: 2028-11-07
 tags: ["politics", "polymarket"]
-polymarketYes: 2.1
+polymarketYes: 2.0
 polymarketNo: 98.0
-polymarketVolume: 9862382
+polymarketVolume: 9863858
 polymarketUrl: "https://polymarket.com/event/will-ro-khanna-win-the-2028-democratic-presidential-nomination"
-analysisDate: 2026-04-27
 ---
 
 Ro Khanna's chances of securing the 2028 Democratic presidential nomination sit at barely 2%, reflecting the California representative's limited name recognition and uncertain path through a crowded field likely to include sitting Vice President Kamala Harris, California Governor Gavin Newsom, and other prominent figures.

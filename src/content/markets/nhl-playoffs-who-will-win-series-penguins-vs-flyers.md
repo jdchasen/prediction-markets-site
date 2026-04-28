@@ -3,8 +3,8 @@ title: "NHL Playoffs: Who Will Win Series? - Penguins vs. Flyers "
 description: "NHL Playoffs: Who Will Win Series? - Penguins vs. Flyers  Odds: 15.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "NHL Playoffs: Who Will Win Series? - Penguins vs. Flyers "
 category: "sports"
-status: "active"
-lastUpdated: 2026-04-27
+status: "settled"
+lastUpdated: 2026-04-28
 expiryDate: 2026-05-04
 tags: ["polymarket", "sports"]
 polymarketYes: 15.0

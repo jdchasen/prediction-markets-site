@@ -1,17 +1,17 @@
 ---
 title: "Will Israel annex any territory by December 31?"
-description: "Will Israel annex any territory by December 31? Odds: 20.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Israel annex any territory by December 31? Odds: 29.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Israel annex any territory by December 31?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-04-27
+lastUpdated: 2026-04-28
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 20.5
-polymarketNo: 79.5
-polymarketVolume: 9775
+polymarketYes: 29.0
+polymarketNo: 71.0
+polymarketVolume: 9859
 polymarketUrl: "https://polymarket.com/event/will-israel-annex-any-territory-by-december-31-348"
-analysisDate: 2026-04-27
+analysisDate: 2026-04-28
 ---
 
 # Israel Annexation Market Analysis
@@ -20,37 +20,37 @@ analysisDate: 2026-04-27
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 20.5% | 79.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 29.0% | 71.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The market is pricing in a roughly one-in-five chance that Israel formally annexes territory by the end of 2025, reflecting significant geopolitical uncertainty around Palestinian territory claims and shifting regional dynamics. This matters because annexation would represent a major escalation in Israeli-Palestinian disputes and could trigger international sanctions, Palestinian Authority collapse, and broader regional destabilization. The relatively low odds suggest traders believe formal annexation remains unlikely despite rhetoric, though the two-year window creates substantial tail risk.
+With roughly 29% implied probability through end-of-2026, traders are pricing in significant skepticism that Israel will formally annex territory over the next two years, though the question remains highly contingent on ceasefire stability and coalition politics in Jerusalem. This matters immediately because the outcome hinges on decisions that could materialize within months rather than years—annexation attempts in the West Bank or other contested areas would represent a dramatic escalation with regional and international consequences.
 
-The bull case for annexation rests on three pillars: (1) the current Israeli government coalition includes far-right parties explicitly supporting settlements and annexation of West Bank territory, particularly the Jordan Valley; (2) Trump's return to the presidency in January 2025 removes constraints on U.S. opposition that existed under Biden, potentially enabling a revised peace plan that legitimizes annexation; (3) recent escalations and the absence of functioning Palestinian governance create political cover for unilateral moves. Watch for Ben-Gvir or Smotrich pushing annexation votes in the Knesset, potentially triggered by coalition pressure around budget cycles (typically March-April). The Trump administration may formally present a Middle East plan in Q1-Q2 2025 that could either accelerate or muddy annexation prospects.
+The bull case for annexation rests on several political realities: the current Israeli government under Netanyahu includes far-right coalition partners explicitly committed to settlement expansion and annexation rhetoric, particularly from finance minister Bezalel Smotrich's faction. The Ben-Gvir-led National Security Ministry has explicitly pushed annexation proposals. If ceasefire agreements in Gaza solidify by mid-2025, freeing up political capital and military resources, the government could move on West Bank annexation—a long-stated goal that requires only parliamentary votes and lacks legal barriers under Israeli domestic law. Any major security incident or Palestinian escalation could also shift the political calculus toward hardline policies. Watch for statements from coalition members during 2025 legislative sessions and any moves to bring annexation votes to the Knesset.
 
-The bear case emphasizes that despite coalition rhetoric, actual annexation faces severe practical obstacles: international legal exposure, potential U.S. funding cutoffs, Arab League coordination for diplomatic responses, and operational complexity of formally administering annexed territory under security constraints. Previous annexation pushes (2020) stalled despite conditions favoring them. The Palestinian Authority's fragility and lack of negotiating power paradoxically removes urgency for Israeli formal annexation—de facto control already exists in many areas. Additionally, Israeli security establishment consensus opposes unilateral moves that trigger regional war risks, constraining coalition hardliners.
+The bear case emphasizes structural constraints: international pressure remains severe, particularly from the Biden and likely any successor U.S. administration that would condition military aid on restraint. The 2024-2026 period is consumed by Israeli political uncertainty—coalition stability is fragile, and elections could be triggered if key partners withdraw (Smotrich has threatened this over military conscription). Past annexation threats under previous Netanyahu governments (2020, 2021) evaporated under diplomatic pressure. Additionally, "annexation" definitions matter heavily for resolution—the market likely requires formal, explicit territorial claims rather than de facto settlement expansion, which happens continuously. Palestinian armed groups remain active enough that sustained conflict could prevent the stable political environment needed for formal annexation votes.
 
-Key catalysts to monitor: Trump administration Middle East envoy appointments and their first policy statements (January-February 2025); any Knesset votes on annexation bills; Israeli election timing if the government collapses; major escalations that could either justify or complicate annexation; and Saudi Arabia's diplomatic posture. The market's 20% odds likely underweight Trump's unpredictability while overweighting institutional inertia—traders should track coalition stability and U.S. messaging closely through spring 2025.
+Key catalysts to monitor: coalition stability votes in spring 2025, any U.S. policy shifts on West Bank settlements after presidential transitions, ceasefire timeline clarity in Gaza (expected decision points Q1-Q2 2025), and statements from Smotrich/Ben-Gvir about legislative timing. If a stable ceasefire holds through summer 2025 and the coalition survives intact, the probability should shift sharply higher. Conversely, any government collapse or major security crisis would likely suppress annexation proposals further.
 
 ## Related Markets
 
 - [Will Gretchen Whitmer win the 2028 US Presidential Election?](/odds/will-gretchen-whitmer-win-the-2028-us-presidential-election) — 1% YES
+- [Will the Iranian regime fall by May 31?](/odds/will-the-iranian-regime-fall-by-may-31) — 4% YES
 - [Will Ro Khanna win the 2028 Democratic presidential nomination?](/odds/will-ro-khanna-win-the-2028-democratic-presidential-nomination) — 2% YES
-- [Will David Lisnard win the 2027 French presidential election?](/odds/will-david-lisnard-win-the-2027-french-presidential-election) — 4% YES
 
 ## Frequently Asked Questions
 
-### How does the Trump administration's return affect annexation probability compared to the Biden years?
+### What specific territorial areas would count as "annexation" for this market resolution?
 
-Trump's 2020 peace plan implicitly endorsed Israeli settlements and annexation frameworks, and his team showed no willingness to threaten consequences—creating political space Israeli hardliners lacked under Biden. His second term removes the primary diplomatic constraint, though his actual follow-through on Middle East policy remains uncertain.
+The market would typically require formal Israeli government declaration of sovereignty over territory (West Bank, Gaza, or Golan Heights expansions), not de facto control or settlement expansion alone; resolution criteria should clarify whether this includes only new claims or any formal annexation procedure regardless of prior status.
 
-### What counts as "annexation" for this market—does de facto control or settlement expansion qualify?
+### How much does U.S. policy matter for this outcome?
 
-The market almost certainly requires formal legal annexation through Israeli legislation or binding international agreement, not simply expanded settlement building or military control, which explains why current occupation doesn't resolve it as YES despite decades of factual territorial control.
+Substantially—every past annexation threat has been shelved after American pressure or conditioning of military aid; a U.S. administration indifferent to annexation would dramatically increase probability, while strong opposition significantly suppresses it.
 
-### If a regional war breaks out in 2025, does that make annexation more or less likely to occur?
+### Could a coalition collapse eliminate the annexation risk entirely through 2026?
 
-Major escalation cuts both ways: it could justify annexation as a security measure, but it also forces Israel to focus on military operations rather than domestic legislation, and international pressure intensifies during active conflict, making formal legal annexation harder to execute.
+Possibly—early elections would likely produce a more centrist government without Smotrich and Ben-Gvir, making formal annexation votes extremely unlikely, though the current coalition's fragility creates binary risk rather than gradual probability decline.
 
 ## Learn More
 

@@ -3,8 +3,8 @@ title: "Will Russia enter Novyi Donbas by May 31?"
 description: "Will Russia enter Novyi Donbas by May 31? Odds: 53.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Russia enter Novyi Donbas by May 31?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-27
+status: "settled"
+lastUpdated: 2026-04-28
 expiryDate: 2026-05-31
 tags: ["politics", "polymarket", "sports"]
 polymarketYes: 53.0

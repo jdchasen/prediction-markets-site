@@ -3,8 +3,8 @@ title: "Will BNB reach $900 in April?"
 description: "Will BNB reach $900 in April? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will BNB reach $900 in April?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-27
+status: "settled"
+lastUpdated: 2026-04-28
 expiryDate: 2026-05-01
 tags: ["politics", "polymarket"]
 polymarketYes: 0.1

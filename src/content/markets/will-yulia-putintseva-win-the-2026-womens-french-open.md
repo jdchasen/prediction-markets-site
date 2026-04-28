@@ -3,8 +3,8 @@ title: "Will Yulia Putintseva win the 2026 Women’s French Open?"
 description: "Will Yulia Putintseva win the 2026 Women’s French Open? Odds: 0.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Yulia Putintseva win the 2026 Women’s French Open?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-27
+status: "settled"
+lastUpdated: 2026-04-28
 expiryDate: 2026-06-06
 tags: ["politics", "polymarket"]
 polymarketYes: 0.4

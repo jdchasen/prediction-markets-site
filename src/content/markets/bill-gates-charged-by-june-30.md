@@ -3,8 +3,8 @@ title: "Bill Gates charged by June 30?"
 description: "Bill Gates charged by June 30? Odds: 2.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Bill Gates charged by June 30?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-27
+status: "settled"
+lastUpdated: 2026-04-28
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
 polymarketYes: 2.4

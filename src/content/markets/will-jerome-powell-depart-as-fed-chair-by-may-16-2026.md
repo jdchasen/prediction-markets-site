@@ -1,53 +1,54 @@
 ---
 title: "Will Jerome Powell depart as Fed Chair by May 16 2026?"
-description: "Will Jerome Powell depart as Fed Chair by May 16 2026? Odds: 72.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Jerome Powell depart as Fed Chair by May 16 2026? Odds: 52.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Jerome Powell depart as Fed Chair by May 16 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-04-27
+lastUpdated: 2026-04-28
 expiryDate: 2026-06-30
 tags: ["ai", "federal-reserve", "politics", "polymarket"]
-polymarketYes: 72.5
-polymarketNo: 27.5
-polymarketVolume: 9900
+polymarketYes: 52.5
+polymarketNo: 47.5
+polymarketVolume: 9951
 polymarketUrl: "https://polymarket.com/event/will-jerome-powell-depart-as-fed-chair-by-may-16-2026"
+analysisDate: 2026-04-28
 ---
 
-The prediction market is pricing in a three-in-four chance that Jerome Powell leaves the Federal Reserve chair position before mid-May 2026, reflecting genuine uncertainty about whether his term survives the second Trump administration's political pressure. This matters because the Fed chair's continuity directly impacts monetary policy credibility and market stability during a period of elevated inflation concerns and potential fiscal turbulence.
+# Jerome Powell's Fed Chair Tenure Under Pressure
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 74.5% | 25.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 52.5% | 47.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The bull case for Powell's departure rests on Trump's public statements about wanting a more accommodative Fed chair aligned with his policy preferences. Trump has previously criticized Powell and signaled interest in reshaping the Federal Reserve's leadership. The 18-month window through May 2026 gives Trump ample time to engineer Powell's exit through pressure, resignation incentives, or forcing a showdown over policy direction before his term naturally expires in May 2026. Political dynamics favor this outcome if inflation remains sticky or if markets sell off sharply, both scenarios where Trump could intensify attacks on Powell's tenure and claim a need for fresh leadership.
+The market is pricing in a near coin-flip probability that Jerome Powell leaves the Federal Reserve chair before mid-May 2026, reflecting genuine uncertainty about his political sustainability in a second Trump administration. This matters because Powell's departure would signal either a major policy shift at the Fed or severe political dysfunction—either scenario carries significant implications for monetary policy, market expectations, and inflation management over the next eighteen months.
 
-The bear case hinges on institutional precedent and Powell's demonstrated independence. Federal Reserve chairs have rarely been forced out during their terms, with the norm of political neutrality still holding in practice despite Trump's rhetoric. Powell could strategically avoid confrontation by signaling flexibility on rate cuts, effectively accommodating Trump's preferences without requiring his removal. Additionally, removing Powell midterm would likely trigger market turbulence and international concern about Fed politicization—consequences Trump may ultimately want to avoid heading into his 2028 influence window. The expiration date of June 30, 2026 (after the May 16 threshold) means markets get clarity from Q2 2026 Fed meetings and any formal policy statements about Powell's future.
+The bull case for Powell's departure centers on Trump's well-documented friction with the Fed chair. Trump has publicly criticized Powell repeatedly, blamed him for economic headwinds, and during his first term considered removing him before backing down. If Trump wins the 2024 election (which the market had priced as likely when this contract was active), he could pressure Powell through rhetoric, threaten non-reappointment when Powell's term expires in June 2026, or exploit any economic downturn—recession, inflation resurgence, or market volatility—to justify forced removal. Powell's term officially expires June 20, 2026, just five weeks after the May 16 deadline, making the timing window tight but plausible if lame-duck pressure mounts early in 2026. The bear case is stronger on institutional grounds: removing a Fed chair mid-term would require Senate action and faces significant legal and procedural barriers. Fed chairs can only be removed "for cause," a standard never successfully invoked. Even a Republican-controlled Senate would likely resist this precedent, fearing damage to Fed independence. Powell has also built relationships across both parties and maintained credibility through inflation management; the economic emergency that might justify removal would need to be severe. Additionally, Trump's own political capital might be consumed by other priorities (potential legal issues, immigration, tax policy) leaving little appetite for a contentious Fed fight.
 
-Key catalysts include Trump's inaugural policy announcements (likely January 2025), any major inflation surprises in early 2025, quarterly Fed meetings where Powell signals his stance relative to administration priorities, and any explicit Congressional pressure or legislative attempts to alter the Fed chair's authority. Watch for whether Trump makes specific public demands about rates or Fed independence in his first 90 days; this would substantially shift market odds. The odds currently suggest traders see real but not overwhelming pressure for departure—essentially pricing in a scenario where Trump criticizes Powell but lacks sufficient leverage or political will to force immediate removal.
+Watch the 2024 election outcome in November and Trump's cabinet selections through December—explicit statements about Federal Reserve policy would be crucial signals. The January 2026 FOMC meeting will set the tone for Q1 economic data; any signs of renewed inflation or recession would accelerate departure speculation. Powell's congressional testimony in early 2026 (typically February and July) will be scrutinized for any hints of voluntary resignation. The market's 52.5% odds essentially reflect that Trump returning to power is itself highly priced in, with the remainder of probability assigned to either a Democratic administration reappointing Powell or Powell voluntarily stepping down to avoid a fight. Traders should monitor equity volatility and Fed futures positioning—if markets begin pricing in a chaotic Fed transition, odds will shift sharply.
 
 ## Related Markets
 
 - [Will Gretchen Whitmer win the 2028 US Presidential Election?](/odds/will-gretchen-whitmer-win-the-2028-us-presidential-election) — 1% YES
+- [Will the Iranian regime fall by May 31?](/odds/will-the-iranian-regime-fall-by-may-31) — 4% YES
 - [Will Ro Khanna win the 2028 Democratic presidential nomination?](/odds/will-ro-khanna-win-the-2028-democratic-presidential-nomination) — 2% YES
-- [Will the Republican Party control the Senate after the 2026 Midterm elections?](/odds/will-the-republican-party-control-the-senate-after-the-2026-midterm-elections) — 48% YES
 
 ## Frequently Asked Questions
 
-### Can Trump unilaterally remove Jerome Powell from the Fed chair position before his term expires?
+### Does Powell's term actually expire before the May 16 deadline, and why does that matter for this contract?
 
-No—Powell has a statutory term through May 2026 and can only be removed "for cause" (neglect or malfeasance), requiring proof of actual misconduct. Trump would need to engineer Powell's voluntary resignation through sustained political pressure or policy conflicts.
+Powell's term expires June 20, 2026, which is after the contract deadline. The contract is asking whether he departs voluntarily or is forced out *before* that expiration, not whether he serves his full term—the tight five-week window suggests the market is pricing the probability of forced removal or voluntary exit under pressure rather than natural expiration.
 
-### What would happen to this market if Powell explicitly announces his intention to step down in late 2025?
+### What specific legal or procedural mechanisms would Trump need to remove Powell before his term expires?
 
-The YES odds would likely spike toward 95%+ immediately, as such an announcement would essentially confirm departure before the May 16 threshold, even if the formal transition date occurred after that date.
+The Fed chair can only be removed "for cause" under federal statute, which has never been successfully invoked in history. Trump cannot simply fire Powell; he would need to either convince Powell to resign voluntarily or navigate a controversial "for cause" removal that Democrats and institutional Republicans would likely oppose. A Supreme Court challenge to removal authority is also possible.
 
-### How much does inflation data between now and May 2026 influence the probability that Powell departs?
+### How would economic data between now and May 2026 shift the odds, and what scenarios matter most?
 
-Significantly—sustained high inflation would strengthen Trump's political case for Powell's removal and increase pressure, while declining inflation would reduce Trump's justification for forcing out a chair credited with bringing prices down.
+A severe recession or unexpected inflation
 
 ## Learn More
 

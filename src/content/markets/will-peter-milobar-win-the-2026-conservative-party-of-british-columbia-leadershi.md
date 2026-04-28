@@ -3,8 +3,8 @@ title: "Will Peter Milobar win the 2026 Conservative Party of British Columbia l
 description: "Will Peter Milobar win the 2026 Conservative Party of British Columbia leadership election? Odds: 16.0% YES on Polymarket. See live prices and trade this mar..."
 marketQuestion: "Will Peter Milobar win the 2026 Conservative Party of British Columbia leadership election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-27
+status: "settled"
+lastUpdated: 2026-04-28
 expiryDate: 2026-05-30
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 16.0

@@ -1,17 +1,16 @@
 ---
 title: "Will Reform UK win the most seats in the 2026 Scottish Parliament election?"
-description: "Will Reform UK win the most seats in the 2026 Scottish Parliament election? Odds: 0.2% YES on Polymarket. See live prices and trade this market."
+description: "Will Reform UK win the most seats in the 2026 Scottish Parliament election? Odds: 1.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Reform UK win the most seats in the 2026 Scottish Parliament election?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-04-27
+lastUpdated: 2026-04-28
 expiryDate: 2026-05-07
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 0.2
-polymarketNo: 99.8
-polymarketVolume: 98528
+polymarketYes: 1.1
+polymarketNo: 99.0
+polymarketVolume: 98892
 polymarketUrl: "https://polymarket.com/event/will-reform-uk-win-the-most-seats-in-the-2026-scottish-parliament-election"
-analysisDate: 2026-04-27
 ---
 
 The market assigns virtually no probability to Reform UK winning the most seats in Scotland's 2026 Holyrood election, reflecting the party's fundamental disconnect with Scottish political culture and Reform's current organizational weakness north of the border.

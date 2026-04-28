@@ -1,17 +1,16 @@
 ---
 title: "Will Chelsea Clinton be the democratic nominee for NY-12?"
-description: "Will Chelsea Clinton be the democratic nominee for NY-12? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
+description: "Will Chelsea Clinton be the democratic nominee for NY-12? Odds: 1.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Chelsea Clinton be the democratic nominee for NY-12?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-04-27
+lastUpdated: 2026-04-28
 expiryDate: 2026-06-23
 tags: ["politics", "polymarket"]
-polymarketYes: 0.1
-polymarketNo: 99.9
+polymarketYes: 1.5
+polymarketNo: 98.5
 polymarketVolume: 9789
 polymarketUrl: "https://polymarket.com/event/will-chelsea-clinton-be-the-democratic-nominee-for-ny-12"
-analysisDate: 2026-04-27
 ---
 
 This market prices in an extremely unlikely scenario: Chelsea Clinton, a former first daughter with no political experience or current residence in New York, securing the Democratic nomination for a competitive House seat in 2026. The minimal odds reflect rational skepticism about a candidacy that would require unprecedented political circumstances to materialize.
