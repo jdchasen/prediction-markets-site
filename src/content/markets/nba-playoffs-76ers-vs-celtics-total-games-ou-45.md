@@ -3,7 +3,7 @@ title: "NBA Playoffs: 76ers vs. Celtics Total Games O/U 4.5"
 description: "NBA Playoffs: 76ers vs. Celtics Total Games O/U 4.5 Odds: 99.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "NBA Playoffs: 76ers vs. Celtics Total Games O/U 4.5"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-28
 expiryDate: 2026-06-01
 tags: ["polymarket", "sports"]

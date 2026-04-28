@@ -3,7 +3,7 @@ title: "Will the Iranian regime fall by May 31?"
 description: "Will the Iranian regime fall by May 31? Odds: 3.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Iranian regime fall by May 31?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-28
 expiryDate: 2026-05-31
 tags: ["politics", "polymarket"]

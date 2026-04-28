@@ -3,7 +3,7 @@ title: "Will Derrick Jackson win the 2026 Georgia Governor Democratic primary el
 description: "Will Derrick Jackson win the 2026 Georgia Governor Democratic primary election? Odds: 1.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Derrick Jackson win the 2026 Georgia Governor Democratic primary election?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-28
 expiryDate: 2026-05-19
 tags: ["elections", "politics", "polymarket"]

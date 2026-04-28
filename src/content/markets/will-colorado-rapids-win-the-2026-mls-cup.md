@@ -3,7 +3,7 @@ title: "Will Colorado Rapids win the 2026 MLS Cup?"
 description: "Will Colorado Rapids win the 2026 MLS Cup? Odds: 0.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Colorado Rapids win the 2026 MLS Cup?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-28
 expiryDate: 2026-12-19
 tags: ["politics", "polymarket"]

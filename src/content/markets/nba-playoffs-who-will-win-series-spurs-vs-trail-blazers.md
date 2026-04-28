@@ -3,7 +3,7 @@ title: "NBA Playoffs: Who Will Win Series? - Spurs vs. Trail Blazers "
 description: "NBA Playoffs: Who Will Win Series? - Spurs vs. Trail Blazers  Odds: 97.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "NBA Playoffs: Who Will Win Series? - Spurs vs. Trail Blazers "
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-28
 expiryDate: 2026-05-04
 tags: ["ai", "polymarket", "sports"]

@@ -3,7 +3,7 @@ title: "Will FUT win IEM Cologne Major 2026?"
 description: "Will FUT win IEM Cologne Major 2026? Odds: 1.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will FUT win IEM Cologne Major 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-28
 expiryDate: 2026-06-21
 tags: ["politics", "polymarket"]

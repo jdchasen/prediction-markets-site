@@ -3,7 +3,7 @@ title: "Will Los Angeles Lakers advance to the Conference Semifinals in the 2026
 description: "Will Los Angeles Lakers advance to the Conference Semifinals in the 2026 NBA Playoffs? Odds: 90.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Los Angeles Lakers advance to the Conference Semifinals in the 2026 NBA Playoffs?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-28
 expiryDate: 2026-05-03
 tags: ["polymarket", "sports"]

@@ -1,17 +1,16 @@
 ---
 title: "Will Satoshi's identity be revealed by December 31?"
-description: "Will Satoshi's identity be revealed by December 31? Odds: 8.0% YES on Polymarket. See live prices and trade this market."
+description: "Will Satoshi's identity be revealed by December 31? Odds: 7.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Satoshi's identity be revealed by December 31?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-04-28
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 8.0
-polymarketNo: 92.0
+polymarketYes: 7.5
+polymarketNo: 92.5
 polymarketVolume: 9974
 polymarketUrl: "https://polymarket.com/event/will-satoshis-identity-be-revealed-by-december-31"
-analysisDate: 2026-04-28
 ---
 
 # Satoshi Nakamoto Identity Revelation Market Analysis

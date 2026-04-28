@@ -3,7 +3,7 @@ title: "Will the Republican Party win the FL-14 House seat?"
 description: "Will the Republican Party win the FL-14 House seat? Odds: 33.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Republican Party win the FL-14 House seat?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-28
 expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]

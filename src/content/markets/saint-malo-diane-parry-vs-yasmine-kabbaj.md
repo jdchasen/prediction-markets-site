@@ -3,7 +3,7 @@ title: "Saint-Malo: Diane Parry vs Yasmine Kabbaj"
 description: "Saint-Malo: Diane Parry vs Yasmine Kabbaj Odds: 32.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Saint-Malo: Diane Parry vs Yasmine Kabbaj"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-28
 expiryDate: 2026-05-05
 tags: ["ai", "politics", "polymarket"]

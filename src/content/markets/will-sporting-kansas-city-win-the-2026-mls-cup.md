@@ -9,9 +9,8 @@ expiryDate: 2026-12-19
 tags: ["politics", "polymarket"]
 polymarketYes: 0.2
 polymarketNo: 99.8
-polymarketVolume: 9737
+polymarketVolume: 9767
 polymarketUrl: "https://polymarket.com/event/will-sporting-kansas-city-win-the-2026-mls-cup"
-analysisDate: 2026-04-28
 ---
 
 # Sporting Kansas City 2026 MLS Cup Analysis

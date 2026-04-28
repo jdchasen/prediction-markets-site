@@ -1,23 +1,23 @@
 ---
-title: "Will Carlos Mendoza win the 2026 NL Manager of the Year?"
-description: "Will Carlos Mendoza win the 2026 NL Manager of the Year? Odds: 8.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Carlos Mendoza win the 2026 NL Manager of the Year?"
+title: "Will Mike Kennealy win the 2026 Massachusetts Governor Republican primary election?"
+description: "Will Mike Kennealy win the 2026 Massachusetts Governor Republican primary election? Odds: 2.0% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Mike Kennealy win the 2026 Massachusetts Governor Republican primary election?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-04-28
-expiryDate: 2026-12-19
-tags: ["politics", "polymarket"]
-polymarketYes: 8.5
-polymarketNo: 91.5
-polymarketVolume: 9983
-polymarketUrl: "https://polymarket.com/event/will-carlos-mendoza-win-the-2026-nl-manager-of-the-year"
+expiryDate: 2026-09-01
+tags: ["elections", "politics", "polymarket"]
+polymarketYes: 2.0
+polymarketNo: 98.0
+polymarketVolume: 9790
+polymarketUrl: "https://polymarket.com/event/will-mike-kennealy-win-the-2026-massachusetts-governor-republican-primary-election"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 8.5% | 91.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 2.0% | 98.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-carlos-mendoza-win-the-2026-nl
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Carlos Mendoza win the 2026 NL Manager of the Year?"?
+### What are the current odds for "Will Mike Kennealy win the 2026 Massachusetts Governor Republican primary election?"?
 
-As of April 28, 2026, Polymarket prices YES at 8.5%.
+As of April 28, 2026, Polymarket prices YES at 2.0%.
 
 ### Where can I trade on this prediction market?
 

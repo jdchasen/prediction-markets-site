@@ -9,9 +9,8 @@ expiryDate: 2026-12-31
 tags: ["economics", "federal-reserve", "interest-rates", "polymarket"]
 polymarketYes: 6.5
 polymarketNo: 93.5
-polymarketVolume: 980918
+polymarketVolume: 986565
 polymarketUrl: "https://polymarket.com/event/will-3-fed-rate-cuts-happen-in-2026"
-analysisDate: 2026-04-28
 ---
 
 Markets are pricing in an extremely low probability that the Federal Reserve will deliver three rate cuts in 2026, reflecting expectations that inflation will remain sticky and the economy resilient enough to keep monetary policy restrictive through next year. This matters because it signals traders believe the Fed's 2% inflation target will prove elusive even two years out, with significant implications for mortgage rates, corporate borrowing costs, and equity valuations.

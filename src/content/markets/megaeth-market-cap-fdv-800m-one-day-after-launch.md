@@ -9,9 +9,8 @@ expiryDate: 2026-07-01
 tags: ["crypto", "ethereum", "polymarket"]
 polymarketYes: 93.5
 polymarketNo: 6.5
-polymarketVolume: 973044
+polymarketVolume: 989217
 polymarketUrl: "https://polymarket.com/event/megaeth-market-cap-fdv-800m-one-day-after-launch-987-114-655"
-analysisDate: 2026-04-28
 ---
 
 The market is pricing MegaETH's launch-day fully diluted valuation at near-certain odds to exceed $800M, reflecting extreme confidence in the high-performance blockchain's ability to command a premium positioning within the L2 ecosystem despite lacking actual trading history.

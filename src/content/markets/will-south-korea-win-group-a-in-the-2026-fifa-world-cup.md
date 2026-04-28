@@ -3,7 +3,7 @@ title: "Will South Korea win Group A in the 2026 FIFA World Cup?"
 description: "Will South Korea win Group A in the 2026 FIFA World Cup? Odds: 48.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will South Korea win Group A in the 2026 FIFA World Cup?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-28
 expiryDate: 2026-06-27
 tags: ["polymarket", "sports"]

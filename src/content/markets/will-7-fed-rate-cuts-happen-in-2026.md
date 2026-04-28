@@ -9,9 +9,8 @@ expiryDate: 2026-12-31
 tags: ["economics", "federal-reserve", "interest-rates", "polymarket"]
 polymarketYes: 0.4
 polymarketNo: 99.6
-polymarketVolume: 980047
+polymarketVolume: 996840
 polymarketUrl: "https://polymarket.com/event/will-7-fed-rate-cuts-happen-in-2026"
-analysisDate: 2026-04-28
 ---
 
 The market assigns virtually no probability to seven Federal Reserve rate cuts occurring in 2026, reflecting expectations that such aggressive easing would only materialize under a severe economic crisis scenario. This matters because it reveals trader consensus that even if the Fed pivots to cuts in 2025, the pace will remain measured rather than emergency-level.

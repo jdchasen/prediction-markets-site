@@ -9,9 +9,8 @@ expiryDate: 2028-11-07
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.9
 polymarketNo: 99.1
-polymarketVolume: 9984494
+polymarketVolume: 9993626
 polymarketUrl: "https://polymarket.com/event/will-gretchen-whitmer-win-the-2028-us-presidential-election"
-analysisDate: 2026-04-28
 ---
 
 Michigan Governor Gretchen Whitmer currently holds less than 1% odds to win the 2028 presidential election, reflecting her position as a long-shot candidate in an uncertain field nearly four years out from Election Day.

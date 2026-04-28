@@ -1,23 +1,23 @@
 ---
-title: "Bill Clinton divorce by June 30?"
-description: "Bill Clinton divorce by June 30? Odds: 4.3% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Bill Clinton divorce by June 30?"
+title: "X banned in any European country by December 31?"
+description: "X banned in any European country by December 31? Odds: 27.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "X banned in any European country by December 31?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-04-28
-expiryDate: 2026-06-30
+expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 4.3
-polymarketNo: 95.7
-polymarketVolume: 98382
-polymarketUrl: "https://polymarket.com/event/bill-clinton-divorce-by-june-30"
+polymarketYes: 27.5
+polymarketNo: 72.5
+polymarketVolume: 9932
+polymarketUrl: "https://polymarket.com/event/x-banned-in-any-european-country-by-december-31"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 4.3% | 95.7% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 27.5% | 72.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,11 +27,15 @@ polymarketUrl: "https://polymarket.com/event/bill-clinton-divorce-by-june-30"
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Bill Clinton divorce by June 30?"?
+### What are the current odds for "X banned in any European country by December 31?"?
 
-As of April 28, 2026, Polymarket prices YES at 4.3%.
+As of April 28, 2026, Polymarket prices YES at 27.5%.
 
 ### Where can I trade on this prediction market?
 
 You can trade this market on [Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) (crypto-based).
+
+## Learn More
+
+- [Elon Musk Tweet Count Market: $36M in Bets](/blog/elon-musk-tweet-count-market-36m-in-bets)
 

@@ -1,17 +1,16 @@
 ---
 title: "Will Tommy Paul win the 2026 Men's French Open?"
-description: "Will Tommy Paul win the 2026 Men's French Open? Odds: 0.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Tommy Paul win the 2026 Men's French Open? Odds: 0.3% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Tommy Paul win the 2026 Men's French Open?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-04-28
 expiryDate: 2026-06-07
 tags: ["politics", "polymarket"]
-polymarketYes: 0.5
-polymarketNo: 99.5
-polymarketVolume: 98105
+polymarketYes: 0.3
+polymarketNo: 99.7
+polymarketVolume: 99261
 polymarketUrl: "https://polymarket.com/event/will-tommy-paul-win-the-2026-mens-french-open"
-analysisDate: 2026-04-28
 ---
 
 The market gives Tommy Paul virtually no chance at winning the 2026 French Open at half a percent odds, reflecting both his current world ranking around #12 and his historically weak clay court record in Grand Slams.

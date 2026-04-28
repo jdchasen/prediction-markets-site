@@ -1,17 +1,16 @@
 ---
 title: "Will the Democratic Party win the OH-10 House seat?"
-description: "Will the Democratic Party win the OH-10 House seat? Odds: 22.0% YES on Polymarket. See live prices and trade this market."
+description: "Will the Democratic Party win the OH-10 House seat? Odds: 22.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Democratic Party win the OH-10 House seat?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-04-28
 expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
-polymarketYes: 22.0
-polymarketNo: 78.0
-polymarketVolume: 9806
+polymarketYes: 22.5
+polymarketNo: 77.5
+polymarketVolume: 9993
 polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-oh-10-house-seat"
-analysisDate: 2026-04-28
 ---
 
 # OH-10 Democratic Viability Analysis
