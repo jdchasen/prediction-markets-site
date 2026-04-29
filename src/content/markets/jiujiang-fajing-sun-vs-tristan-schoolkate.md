@@ -3,7 +3,7 @@ title: "Jiujiang: Fajing Sun vs Tristan Schoolkate"
 description: "Jiujiang: Fajing Sun vs Tristan Schoolkate Odds: 100.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Jiujiang: Fajing Sun vs Tristan Schoolkate"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-29
 expiryDate: 2026-05-04
 tags: ["politics", "polymarket"]

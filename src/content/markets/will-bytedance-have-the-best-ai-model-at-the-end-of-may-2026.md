@@ -1,23 +1,23 @@
 ---
-title: "Will Yoon Sang-hyun win the 2026 Chungcheongnam Province gubernatorial election?"
-description: "Will Yoon Sang-hyun win the 2026 Chungcheongnam Province gubernatorial election? Odds: 0.6% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Yoon Sang-hyun win the 2026 Chungcheongnam Province gubernatorial election?"
+title: "Will ByteDance have the best AI model at the end of May 2026?"
+description: "Will ByteDance have the best AI model at the end of May 2026? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will ByteDance have the best AI model at the end of May 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-04-29
-expiryDate: 2026-06-03
-tags: ["elections", "politics", "polymarket"]
-polymarketYes: 0.6
-polymarketNo: 99.4
-polymarketVolume: 98516
-polymarketUrl: "https://polymarket.com/event/will-yoon-sang-hyun-win-the-2026-chungcheongnam-province-gubernatorial-election"
+expiryDate: 2026-05-31
+tags: ["ai", "politics", "polymarket"]
+polymarketYes: 0.1
+polymarketNo: 99.9
+polymarketVolume: 97205
+polymarketUrl: "https://polymarket.com/event/will-bytedance-have-the-best-ai-model-at-the-end-of-may-2026"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.6% | 99.4% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.1% | 99.9% | $97K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-yoon-sang-hyun-win-the-2026-ch
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Yoon Sang-hyun win the 2026 Chungcheongnam Province gubernatorial election?"?
+### What are the current odds for "Will ByteDance have the best AI model at the end of May 2026?"?
 
-As of April 29, 2026, Polymarket prices YES at 0.6%.
+As of April 29, 2026, Polymarket prices YES at 0.1%.
 
 ### Where can I trade on this prediction market?
 

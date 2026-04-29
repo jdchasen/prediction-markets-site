@@ -9,7 +9,7 @@ expiryDate: 2026-06-02
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.8
 polymarketNo: 99.2
-polymarketVolume: 97570
+polymarketVolume: 97827
 polymarketUrl: "https://polymarket.com/event/will-adam-miller-win-the-2026-los-angeles-mayoral-election"
 ---
 
@@ -23,7 +23,7 @@ polymarketUrl: "https://polymarket.com/event/will-adam-miller-win-the-2026-los-a
 
 - [Will Ro Khanna win the 2028 Democratic presidential nomination?](/odds/will-ro-khanna-win-the-2028-democratic-presidential-nomination) — 2% YES
 - [Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?](/odds/will-amanda-anisimova-be-the-2026-womens-wimbledon-winner) — 8% YES
-- [Iran leadership change by May 31?](/odds/iran-leadership-change-by-may-31) — 12% YES
+- [Will Renan Santos finish in second place in the first round of the 2026 Brazilian presidential election?](/odds/will-renan-santos-finish-in-second-place-in-the-first-round-of-the-2026-brazilia) — 5% YES
 
 ## Frequently Asked Questions
 

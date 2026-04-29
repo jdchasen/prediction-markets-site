@@ -3,7 +3,7 @@ title: "FC Bayern München vs. Paris Saint-Germain FC: Both Teams to Score"
 description: "FC Bayern München vs. Paris Saint-Germain FC: Both Teams to Score Odds: 80.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "FC Bayern München vs. Paris Saint-Germain FC: Both Teams to Score"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-29
 expiryDate: 2026-05-06
 tags: ["ai", "politics", "polymarket"]

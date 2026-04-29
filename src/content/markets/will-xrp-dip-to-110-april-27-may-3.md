@@ -3,7 +3,7 @@ title: "Will XRP dip to $1.10 April 27-May 3?"
 description: "Will XRP dip to $1.10 April 27-May 3? Odds: 2.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will XRP dip to $1.10 April 27-May 3?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-29
 expiryDate: 2026-05-04
 tags: ["politics", "polymarket"]

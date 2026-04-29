@@ -1,14 +1,14 @@
 ---
 title: "Will UK GDP growth in Q1 2026 be between 0% and 0.3%?"
-description: "Will UK GDP growth in Q1 2026 be between 0% and 0.3%? Odds: 29.0% YES on Polymarket. See live prices and trade this market."
+description: "Will UK GDP growth in Q1 2026 be between 0% and 0.3%? Odds: 37.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will UK GDP growth in Q1 2026 be between 0% and 0.3%?"
 category: "economics"
 status: "active"
 lastUpdated: 2026-04-29
 expiryDate: 2026-05-14
 tags: ["economics", "polymarket"]
-polymarketYes: 29.0
-polymarketNo: 71.0
+polymarketYes: 37.5
+polymarketNo: 62.5
 polymarketVolume: 9633
 polymarketUrl: "https://polymarket.com/event/will-uk-gdp-growth-in-q1-2026-be-between-0-and-0pt3"
 ---
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-uk-gdp-growth-in-q1-2026-be-be
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 29.0% | 71.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 37.5% | 62.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will 7 Fed rate cuts happen in 2026?](/odds/will-7-fed-rate-cuts-happen-in-2026) — 0% YES
 - [Will 3 Fed rate cuts happen in 2026?](/odds/will-3-fed-rate-cuts-happen-in-2026) — 6% YES
-- [Fed rate hike in 2026?](/odds/fed-rate-hike-in-2026) — 14% YES
+- [Fed rate hike in 2026?](/odds/fed-rate-hike-in-2026) — 16% YES
+- [Will annual inflation increase by 4.0% in April?](/odds/will-annual-inflation-increase-by-40-in-april) — 2% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will UK GDP growth in Q1 2026 be between 0% and 0.3%?"?
 
-As of April 29, 2026, Polymarket prices YES at 29.0%.
+As of April 29, 2026, Polymarket prices YES at 37.5%.
 
 ### Where can I trade on this prediction market?
 

@@ -22,7 +22,6 @@ polymarketUrl: "https://polymarket.com/event/will-discords-market-cap-be-greater
 ## Related Markets
 
 - [Will Gold (GC) hit (HIGH) $6,200 by end of June?](/odds/will-gold-gc-hit-high-6200-by-end-of-june) — 3% YES
-- [United x American Airlines merger/acquisition announced in 2026?](/odds/united-x-american-airlines-mergeracquisition-announced-in-2026) — 13% YES
 
 ## Frequently Asked Questions
 

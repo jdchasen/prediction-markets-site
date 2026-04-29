@@ -22,7 +22,7 @@ polymarketUrl: "https://polymarket.com/event/will-west-ham-be-relegated-from-the
 ## Related Markets
 
 - [Will the Houston Rockets win the NBA Western Conference Finals?](/odds/will-the-houston-rockets-win-the-nba-western-conference-finals) — 0% YES
-- [Will USA win Group D in the 2026 FIFA World Cup?](/odds/will-usa-win-group-d-in-the-2026-fifa-world-cup) — 35% YES
+- [Will USA win Group D in the 2026 FIFA World Cup?](/odds/will-usa-win-group-d-in-the-2026-fifa-world-cup) — 36% YES
 - [Will Jason Robertson win the 2025–2026 NHL Hart Memorial Trophy?](/odds/will-jason-robertson-win-the-20252026-nhl-hart-memorial-trophy) — 0% YES
 
 ## Frequently Asked Questions

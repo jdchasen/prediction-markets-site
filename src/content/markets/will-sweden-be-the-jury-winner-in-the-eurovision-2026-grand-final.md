@@ -1,23 +1,23 @@
 ---
-title: "Will Yoon Sang-hyun win the 2026 Chungcheongnam Province gubernatorial election?"
-description: "Will Yoon Sang-hyun win the 2026 Chungcheongnam Province gubernatorial election? Odds: 0.6% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Yoon Sang-hyun win the 2026 Chungcheongnam Province gubernatorial election?"
+title: "Will Sweden be the Jury Winner in the Eurovision 2026 Grand Final?"
+description: "Will Sweden be the Jury Winner in the Eurovision 2026 Grand Final? Odds: 1.2% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Sweden be the Jury Winner in the Eurovision 2026 Grand Final?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-04-29
-expiryDate: 2026-06-03
-tags: ["elections", "politics", "polymarket"]
-polymarketYes: 0.6
-polymarketNo: 99.4
-polymarketVolume: 98516
-polymarketUrl: "https://polymarket.com/event/will-yoon-sang-hyun-win-the-2026-chungcheongnam-province-gubernatorial-election"
+expiryDate: 2026-05-16
+tags: ["politics", "polymarket"]
+polymarketYes: 1.2
+polymarketNo: 98.8
+polymarketVolume: 97243
+polymarketUrl: "https://polymarket.com/event/will-sweden-be-the-jury-winner-in-the-eurovision-2026-grand-final"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.6% | 99.4% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 1.2% | 98.8% | $97K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-yoon-sang-hyun-win-the-2026-ch
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Yoon Sang-hyun win the 2026 Chungcheongnam Province gubernatorial election?"?
+### What are the current odds for "Will Sweden be the Jury Winner in the Eurovision 2026 Grand Final?"?
 
-As of April 29, 2026, Polymarket prices YES at 0.6%.
+As of April 29, 2026, Polymarket prices YES at 1.2%.
 
 ### Where can I trade on this prediction market?
 

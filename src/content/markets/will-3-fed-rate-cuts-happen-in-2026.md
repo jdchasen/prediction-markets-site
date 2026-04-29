@@ -1,15 +1,15 @@
 ---
 title: "Will 3 Fed rate cuts happen in 2026?"
-description: "Will 3 Fed rate cuts happen in 2026? Odds: 6.5% YES on Polymarket. See live prices and trade this market."
+description: "Will 3 Fed rate cuts happen in 2026? Odds: 5.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will 3 Fed rate cuts happen in 2026?"
 category: "economics"
 status: "active"
 lastUpdated: 2026-04-29
 expiryDate: 2026-12-31
 tags: ["economics", "federal-reserve", "interest-rates", "polymarket"]
-polymarketYes: 6.5
-polymarketNo: 93.5
-polymarketVolume: 990522
+polymarketYes: 5.5
+polymarketNo: 94.5
+polymarketVolume: 997472
 polymarketUrl: "https://polymarket.com/event/will-3-fed-rate-cuts-happen-in-2026"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-3-fed-rate-cuts-happen-in-2026
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 6.5% | 93.5% | $991K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 5.5% | 94.5% | $997K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will 7 Fed rate cuts happen in 2026?](/odds/will-7-fed-rate-cuts-happen-in-2026) — 0% YES
-- [Fed rate hike in 2026?](/odds/fed-rate-hike-in-2026) — 14% YES
-- [Will UK GDP growth in Q1 2026 be between 0% and 0.3%?](/odds/will-uk-gdp-growth-in-q1-2026-be-between-0-and-03) — 29% YES
+- [Fed rate hike in 2026?](/odds/fed-rate-hike-in-2026) — 16% YES
+- [Will annual inflation increase by 4.0% in April?](/odds/will-annual-inflation-increase-by-40-in-april) — 2% YES
+- [Will UK GDP growth in Q1 2026 be between 0% and 0.3%?](/odds/will-uk-gdp-growth-in-q1-2026-be-between-0-and-03) — 38% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will 3 Fed rate cuts happen in 2026?"?
 
-As of April 29, 2026, Polymarket prices YES at 6.5%.
+As of April 29, 2026, Polymarket prices YES at 5.5%.
 
 ### Where can I trade on this prediction market?
 

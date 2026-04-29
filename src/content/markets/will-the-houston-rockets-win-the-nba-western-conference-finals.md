@@ -9,7 +9,7 @@ expiryDate: 2026-06-16
 tags: ["polymarket", "sports"]
 polymarketYes: 0.1
 polymarketNo: 99.9
-polymarketVolume: 997684
+polymarketVolume: 997840
 polymarketUrl: "https://polymarket.com/event/will-the-houston-rockets-win-the-nba-western-conference-finals"
 ---
 
@@ -22,7 +22,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-houston-rockets-win-the-nb
 ## Related Markets
 
 - [Will West Ham be relegated from the English Premier League after the 2025–26 season?](/odds/will-west-ham-be-relegated-from-the-english-premier-league-after-the-202526-seas) — 34% YES
-- [Will USA win Group D in the 2026 FIFA World Cup?](/odds/will-usa-win-group-d-in-the-2026-fifa-world-cup) — 35% YES
+- [Will USA win Group D in the 2026 FIFA World Cup?](/odds/will-usa-win-group-d-in-the-2026-fifa-world-cup) — 36% YES
 - [Will Jason Robertson win the 2025–2026 NHL Hart Memorial Trophy?](/odds/will-jason-robertson-win-the-20252026-nhl-hart-memorial-trophy) — 0% YES
 
 ## Frequently Asked Questions

@@ -3,7 +3,7 @@ title: "United x American Airlines merger/acquisition announced in 2026?"
 description: "United x American Airlines merger/acquisition announced in 2026? Odds: 13.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "United x American Airlines merger/acquisition announced in 2026?"
 category: "finance"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-29
 expiryDate: 2026-12-31
 tags: ["ai", "finance", "polymarket"]

@@ -3,7 +3,7 @@ title: "Iran leadership change by May 31?"
 description: "Iran leadership change by May 31? Odds: 12.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Iran leadership change by May 31?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-29
 expiryDate: 2026-05-31
 tags: ["politics", "polymarket"]

@@ -3,7 +3,7 @@ title: "Will Reilly Opelka win the 2026 Men's French Open?"
 description: "Will Reilly Opelka win the 2026 Men's French Open? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Reilly Opelka win the 2026 Men's French Open?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-29
 expiryDate: 2026-06-07
 tags: ["politics", "polymarket"]

@@ -1,23 +1,23 @@
 ---
-title: "Will Colorado Rapids win the 2026 MLS Cup?"
-description: "Will Colorado Rapids win the 2026 MLS Cup? Odds: 0.4% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Colorado Rapids win the 2026 MLS Cup?"
+title: "Madrid Open: Flavio Cobolli vs Alexander Zverev"
+description: "Madrid Open: Flavio Cobolli vs Alexander Zverev Odds: 27.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Madrid Open: Flavio Cobolli vs Alexander Zverev"
 category: "politics"
 status: "active"
 lastUpdated: 2026-04-29
-expiryDate: 2026-12-19
+expiryDate: 2026-05-06
 tags: ["politics", "polymarket"]
-polymarketYes: 0.4
-polymarketNo: 99.6
-polymarketVolume: 97503
-polymarketUrl: "https://polymarket.com/event/will-colorado-rapids-win-the-2026-mls-cup"
+polymarketYes: 27.5
+polymarketNo: 72.5
+polymarketVolume: 9937
+polymarketUrl: "https://polymarket.com/event/atp-cobolli-zverev-2026-04-29"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.4% | 99.6% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 27.5% | 72.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,16 +27,11 @@ polymarketUrl: "https://polymarket.com/event/will-colorado-rapids-win-the-2026-m
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Colorado Rapids win the 2026 MLS Cup?"?
+### What are the current odds for "Madrid Open: Flavio Cobolli vs Alexander Zverev"?
 
-As of April 29, 2026, Polymarket prices YES at 0.4%.
+As of April 29, 2026, Polymarket prices YES at 27.5%.
 
 ### Where can I trade on this prediction market?
 
 You can trade this market on [Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) (crypto-based).
-
-## Learn More
-
-- [Prediction Market API: Python Tutorial (2026)](/blog/prediction-market-api-python)
-- [Build a Prediction Market Trading Bot (2026)](/blog/how-to-use-apis-for-automated-prediction-market-trading)
 

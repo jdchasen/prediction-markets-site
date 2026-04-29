@@ -1,35 +1,35 @@
 ---
-title: "Will Bitcoin reach $1,000,000 by December 31, 2026?"
-description: "Will Bitcoin reach $1,000,000 by December 31, 2026? Odds: 1.8% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Bitcoin reach $1,000,000 by December 31, 2026?"
+title: "Will the price of Bitcoin be above $82,000 on May 3?"
+description: "Will the price of Bitcoin be above $82,000 on May 3? Odds: 2.3% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will the price of Bitcoin be above $82,000 on May 3?"
 category: "crypto"
 status: "active"
 lastUpdated: 2026-04-29
-expiryDate: 2027-01-01
+expiryDate: 2026-05-03
 tags: ["bitcoin", "crypto", "polymarket"]
-polymarketYes: 1.8
-polymarketNo: 98.2
-polymarketVolume: 983962
-polymarketUrl: "https://polymarket.com/event/will-bitcoin-reach-1000000-by-december-31-2026-946"
+polymarketYes: 2.3
+polymarketNo: 97.7
+polymarketVolume: 9745
+polymarketUrl: "https://polymarket.com/event/bitcoin-above-82k-on-may-3"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 1.8% | 98.2% | $984K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 2.3% | 97.7% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
+- [Will Bitcoin reach $1,000,000 by December 31, 2026?](/odds/will-bitcoin-reach-1000000-by-december-31-2026) — 2% YES
 - [Gensyn FDV above $1.5B one day after launch?](/odds/gensyn-fdv-above-15b-one-day-after-launch) — 1% YES
 - [Metamask FDV above $500M one day after launch?](/odds/metamask-fdv-above-500m-one-day-after-launch) — 56% YES
-- [Will the price of Bitcoin be above $82,000 on May 3?](/odds/will-the-price-of-bitcoin-be-above-82000-on-may-3) — 2% YES
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Bitcoin reach $1,000,000 by December 31, 2026?"?
+### What are the current odds for "Will the price of Bitcoin be above $82,000 on May 3?"?
 
-As of April 29, 2026, Polymarket prices YES at 1.8%.
+As of April 29, 2026, Polymarket prices YES at 2.3%.
 
 ### Where can I trade on this prediction market?
 

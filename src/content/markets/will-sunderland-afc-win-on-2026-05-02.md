@@ -3,7 +3,7 @@ title: "Will Sunderland AFC win on 2026-05-02?"
 description: "Will Sunderland AFC win on 2026-05-02? Odds: 41.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Sunderland AFC win on 2026-05-02?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-29
 expiryDate: 2026-05-02
 tags: ["politics", "polymarket"]

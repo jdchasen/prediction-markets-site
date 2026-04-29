@@ -1,23 +1,23 @@
 ---
-title: "Will Yoon Sang-hyun win the 2026 Chungcheongnam Province gubernatorial election?"
-description: "Will Yoon Sang-hyun win the 2026 Chungcheongnam Province gubernatorial election? Odds: 0.6% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Yoon Sang-hyun win the 2026 Chungcheongnam Province gubernatorial election?"
+title: "Will China invade Taiwan by June 30, 2027?"
+description: "Will China invade Taiwan by June 30, 2027? Odds: 14.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will China invade Taiwan by June 30, 2027?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-04-29
-expiryDate: 2026-06-03
-tags: ["elections", "politics", "polymarket"]
-polymarketYes: 0.6
-polymarketNo: 99.4
-polymarketVolume: 98516
-polymarketUrl: "https://polymarket.com/event/will-yoon-sang-hyun-win-the-2026-chungcheongnam-province-gubernatorial-election"
+expiryDate: 2027-06-30
+tags: ["ai", "politics", "polymarket"]
+polymarketYes: 14.5
+polymarketNo: 85.5
+polymarketVolume: 98950
+polymarketUrl: "https://polymarket.com/event/will-china-invade-taiwan-by-june-30-2027"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.6% | 99.4% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 14.5% | 85.5% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-yoon-sang-hyun-win-the-2026-ch
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Yoon Sang-hyun win the 2026 Chungcheongnam Province gubernatorial election?"?
+### What are the current odds for "Will China invade Taiwan by June 30, 2027?"?
 
-As of April 29, 2026, Polymarket prices YES at 0.6%.
+As of April 29, 2026, Polymarket prices YES at 14.5%.
 
 ### Where can I trade on this prediction market?
 
@@ -37,6 +37,6 @@ You can trade this market on [Polymarket](https://polymarket.us/1762?utm_source=
 
 ## Learn More
 
+- [Will Oil Hit $100? March Crude Prediction Market Odds](/blog/will-oil-hit-100-march-crude-prediction-market-odds)
 - [Will ETH Hit $4,500 in 2026? Live Market Odds](/blog/will-ethereum-reach-4500-in-2026-what-prediction-markets-say)
-- [Will Discord IPO in 2026? What Prediction Markets Say](/blog/will-discord-ipo-in-2026-what-prediction-markets-say)
 

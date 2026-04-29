@@ -8,8 +8,8 @@ lastUpdated: 2026-04-29
 expiryDate: 2026-06-30
 tags: ["finance", "polymarket"]
 polymarketYes: 2.9
-polymarketNo: 97.0
-polymarketVolume: 99079
+polymarketNo: 97.1
+polymarketVolume: 99089
 polymarketUrl: "https://polymarket.com/event/gc-hit-6200-high-jun-2026-163-341-565"
 ---
 
@@ -17,12 +17,11 @@ polymarketUrl: "https://polymarket.com/event/gc-hit-6200-high-jun-2026-163-341-5
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 2.9% | 97.0% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 2.9% | 97.1% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Discord’s market cap be $30B or greater at market close on IPO day?](/odds/will-discords-market-cap-be-30b-or-greater-at-market-close-on-ipo-day) — 2% YES
-- [United x American Airlines merger/acquisition announced in 2026?](/odds/united-x-american-airlines-mergeracquisition-announced-in-2026) — 13% YES
 
 ## Frequently Asked Questions
 
