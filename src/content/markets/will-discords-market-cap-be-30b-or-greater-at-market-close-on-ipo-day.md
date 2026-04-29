@@ -4,7 +4,7 @@ description: "Will Discord’s market cap be $30B or greater at market close on 
 marketQuestion: "Will Discord’s market cap be $30B or greater at market close on IPO day?"
 category: "finance"
 status: "active"
-lastUpdated: 2026-04-28
+lastUpdated: 2026-04-29
 expiryDate: 2026-06-30
 tags: ["finance", "polymarket"]
 polymarketYes: 2.5
@@ -19,11 +19,16 @@ polymarketUrl: "https://polymarket.com/event/will-discords-market-cap-be-greater
 |----------|-----|-----|--------|-------|
 | Polymarket | 2.5% | 97.5% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
+## Related Markets
+
+- [Will Gold (GC) hit (HIGH) $6,200 by end of June?](/odds/will-gold-gc-hit-high-6200-by-end-of-june) — 3% YES
+- [United x American Airlines merger/acquisition announced in 2026?](/odds/united-x-american-airlines-mergeracquisition-announced-in-2026) — 13% YES
+
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Discord’s market cap be $30B or greater at market close on IPO day?"?
 
-As of April 28, 2026, Polymarket prices YES at 2.5%.
+As of April 29, 2026, Polymarket prices YES at 2.5%.
 
 ### Where can I trade on this prediction market?
 

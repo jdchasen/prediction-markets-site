@@ -3,8 +3,8 @@ title: "Will Gretchen Whitmer win the 2028 US Presidential Election?"
 description: "Will Gretchen Whitmer win the 2028 US Presidential Election? Odds: 0.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Gretchen Whitmer win the 2028 US Presidential Election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-28
+status: "settled"
+lastUpdated: 2026-04-29
 expiryDate: 2028-11-07
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.9

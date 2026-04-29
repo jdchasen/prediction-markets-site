@@ -3,8 +3,8 @@ title: "Will Dan Bilzerian be the Republican nominee for FL-06?"
 description: "Will Dan Bilzerian be the Republican nominee for FL-06? Odds: 22.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Dan Bilzerian be the Republican nominee for FL-06?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-28
+status: "settled"
+lastUpdated: 2026-04-29
 expiryDate: 2026-08-18
 tags: ["politics", "polymarket"]
 polymarketYes: 22.0

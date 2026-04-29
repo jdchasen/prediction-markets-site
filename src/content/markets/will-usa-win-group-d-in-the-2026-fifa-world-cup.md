@@ -1,15 +1,15 @@
 ---
 title: "Will USA win Group D in the 2026 FIFA World Cup?"
-description: "Will USA win Group D in the 2026 FIFA World Cup? Odds: 36.0% YES on Polymarket. See live prices and trade this market."
+description: "Will USA win Group D in the 2026 FIFA World Cup? Odds: 35.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will USA win Group D in the 2026 FIFA World Cup?"
 category: "sports"
 status: "active"
-lastUpdated: 2026-04-28
+lastUpdated: 2026-04-29
 expiryDate: 2026-06-27
 tags: ["polymarket", "sports"]
-polymarketYes: 36.0
-polymarketNo: 64.0
-polymarketVolume: 9823
+polymarketYes: 35.0
+polymarketNo: 65.0
+polymarketVolume: 9832
 polymarketUrl: "https://polymarket.com/event/will-usa-win-group-d-in-the-2026-fifa-world-cup"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-usa-win-group-d-in-the-2026-fi
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 36.0% | 64.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 35.0% | 65.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-usa-win-group-d-in-the-2026-fi
 
 ### What are the current odds for "Will USA win Group D in the 2026 FIFA World Cup?"?
 
-As of April 28, 2026, Polymarket prices YES at 36.0%.
+As of April 29, 2026, Polymarket prices YES at 35.0%.
 
 ### Where can I trade on this prediction market?
 

@@ -3,8 +3,8 @@ title: "Will Ed Gallrein be the Republican nominee for KY-04?"
 description: "Will Ed Gallrein be the Republican nominee for KY-04? Odds: 29.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Ed Gallrein be the Republican nominee for KY-04?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-28
+status: "settled"
+lastUpdated: 2026-04-29
 expiryDate: 2026-05-19
 tags: ["politics", "polymarket"]
 polymarketYes: 29.2

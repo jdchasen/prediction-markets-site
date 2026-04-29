@@ -1,23 +1,23 @@
 ---
-title: "Will US crude oil reserves fall to 275M by June 5?"
-description: "Will US crude oil reserves fall to 275M by June 5? Odds: 14.9% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will US crude oil reserves fall to 275M by June 5?"
+title: "Will Donald Trump visit China on May 13, 2026?"
+description: "Will Donald Trump visit China on May 13, 2026? Odds: 41.0% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Donald Trump visit China on May 13, 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-04-29
-expiryDate: 2026-06-30
-tags: ["politics", "polymarket"]
-polymarketYes: 14.9
-polymarketNo: 85.0
-polymarketVolume: 9737
-polymarketUrl: "https://polymarket.com/event/will-us-crude-oil-reserves-fall-to-275m-by-june-5"
+expiryDate: 2026-05-31
+tags: ["politics", "polymarket", "trump"]
+polymarketYes: 41.0
+polymarketNo: 59.0
+polymarketVolume: 9957
+polymarketUrl: "https://polymarket.com/event/will-donald-trump-visit-china-on-may-13-2026"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 14.9% | 85.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 41.0% | 59.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-us-crude-oil-reserves-fall-to-
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will US crude oil reserves fall to 275M by June 5?"?
+### What are the current odds for "Will Donald Trump visit China on May 13, 2026?"?
 
-As of April 29, 2026, Polymarket prices YES at 14.9%.
+As of April 29, 2026, Polymarket prices YES at 41.0%.
 
 ### Where can I trade on this prediction market?
 
@@ -37,6 +37,6 @@ You can trade this market on [Polymarket](https://polymarket.us/1762?utm_source=
 
 ## Learn More
 
-- [Will Oil Hit $100? March Crude Prediction Market Odds](/blog/will-oil-hit-100-march-crude-prediction-market-odds)
 - [Will ETH Hit $4,500 in 2026? Live Market Odds](/blog/will-ethereum-reach-4500-in-2026-what-prediction-markets-say)
+- [Will Discord IPO in 2026? What Prediction Markets Say](/blog/will-discord-ipo-in-2026-what-prediction-markets-say)
 

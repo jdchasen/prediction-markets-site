@@ -1,17 +1,16 @@
 ---
 title: "Will Elon Musk post 160-179 tweets in May 2026?"
-description: "Will Elon Musk post 160-179 tweets in May 2026? Odds: 0.9% YES on Polymarket. See live prices and trade this market."
+description: "Will Elon Musk post 160-179 tweets in May 2026? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Elon Musk post 160-179 tweets in May 2026?"
 category: "tech"
-status: "settled"
-lastUpdated: 2026-04-28
+status: "active"
+lastUpdated: 2026-04-29
 expiryDate: 2026-06-01
 tags: ["polymarket", "tech"]
-polymarketYes: 0.9
-polymarketNo: 99.1
+polymarketYes: 0.1
+polymarketNo: 100.0
 polymarketVolume: 9746
 polymarketUrl: "https://polymarket.com/event/elon-musk-of-tweets-may-2026-160-179"
-analysisDate: 2026-04-28
 ---
 
 This market sits at an extreme underweight position, implying traders believe Musk's tweeting behavior will drop significantly below recent historical patterns by May 2026. The pricing matters because it reflects market confidence in either a major behavioral shift from Musk or fundamental changes to his platform engagement strategy in the next 18 months.

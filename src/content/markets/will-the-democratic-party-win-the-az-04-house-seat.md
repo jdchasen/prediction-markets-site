@@ -3,8 +3,8 @@ title: "Will the Democratic Party win the AZ-04 House seat?"
 description: "Will the Democratic Party win the AZ-04 House seat? Odds: 80.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Democratic Party win the AZ-04 House seat?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-28
+status: "settled"
+lastUpdated: 2026-04-29
 expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
 polymarketYes: 80.5

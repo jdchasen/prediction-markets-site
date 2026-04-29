@@ -1,23 +1,23 @@
 ---
-title: "Bill Clinton divorce by June 30?"
-description: "Bill Clinton divorce by June 30? Odds: 2.8% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Bill Clinton divorce by June 30?"
+title: "Jiujiang: Fajing Sun vs Tristan Schoolkate"
+description: "Jiujiang: Fajing Sun vs Tristan Schoolkate Odds: 100.0% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Jiujiang: Fajing Sun vs Tristan Schoolkate"
 category: "politics"
 status: "active"
 lastUpdated: 2026-04-29
-expiryDate: 2026-06-30
+expiryDate: 2026-05-04
 tags: ["politics", "polymarket"]
-polymarketYes: 2.8
-polymarketNo: 97.2
-polymarketVolume: 98477
-polymarketUrl: "https://polymarket.com/event/bill-clinton-divorce-by-june-30"
+polymarketYes: 100.0
+polymarketNo: 0.1
+polymarketVolume: 97708
+polymarketUrl: "https://polymarket.com/event/atp-su-schoolk-2026-04-26"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 2.8% | 97.2% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 100.0% | 0.1% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/bill-clinton-divorce-by-june-30"
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Bill Clinton divorce by June 30?"?
+### What are the current odds for "Jiujiang: Fajing Sun vs Tristan Schoolkate"?
 
-As of April 29, 2026, Polymarket prices YES at 2.8%.
+As of April 29, 2026, Polymarket prices YES at 100.0%.
 
 ### Where can I trade on this prediction market?
 

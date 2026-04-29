@@ -1,14 +1,14 @@
 ---
 title: "Will ForecastEx self-certify sports event contracts by June 30, 2026?"
-description: "Will ForecastEx self-certify sports event contracts by June 30, 2026? Odds: 26.5% YES on Polymarket. See live prices and trade this market."
+description: "Will ForecastEx self-certify sports event contracts by June 30, 2026? Odds: 28.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will ForecastEx self-certify sports event contracts by June 30, 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-04-28
+lastUpdated: 2026-04-29
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
-polymarketYes: 26.5
-polymarketNo: 73.5
+polymarketYes: 28.0
+polymarketNo: 72.0
 polymarketVolume: 9859
 polymarketUrl: "https://polymarket.com/event/will-forecastex-self-certify-sports-event-contracts-by-june-30-2026"
 ---
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-forecastex-self-certify-sports
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 26.5% | 73.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 28.0% | 72.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Gretchen Whitmer win the 2028 US Presidential Election?](/odds/will-gretchen-whitmer-win-the-2028-us-presidential-election) — 1% YES
 - [Will Ro Khanna win the 2028 Democratic presidential nomination?](/odds/will-ro-khanna-win-the-2028-democratic-presidential-nomination) — 2% YES
 - [Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?](/odds/will-amanda-anisimova-be-the-2026-womens-wimbledon-winner) — 8% YES
+- [Iran leadership change by May 31?](/odds/iran-leadership-change-by-may-31) — 12% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will ForecastEx self-certify sports event contracts by June 30, 2026?"?
 
-As of April 28, 2026, Polymarket prices YES at 26.5%.
+As of April 29, 2026, Polymarket prices YES at 28.0%.
 
 ### Where can I trade on this prediction market?
 

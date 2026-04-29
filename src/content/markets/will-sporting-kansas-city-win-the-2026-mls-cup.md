@@ -3,8 +3,8 @@ title: "Will Sporting Kansas City win the 2026 MLS Cup?"
 description: "Will Sporting Kansas City win the 2026 MLS Cup? Odds: 0.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Sporting Kansas City win the 2026 MLS Cup?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-28
+status: "settled"
+lastUpdated: 2026-04-29
 expiryDate: 2026-12-19
 tags: ["politics", "polymarket"]
 polymarketYes: 0.2

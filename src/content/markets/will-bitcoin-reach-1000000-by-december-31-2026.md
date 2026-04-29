@@ -4,12 +4,12 @@ description: "Will Bitcoin reach $1,000,000 by December 31, 2026? Odds: 1.8% YES
 marketQuestion: "Will Bitcoin reach $1,000,000 by December 31, 2026?"
 category: "crypto"
 status: "active"
-lastUpdated: 2026-04-28
+lastUpdated: 2026-04-29
 expiryDate: 2027-01-01
 tags: ["bitcoin", "crypto", "polymarket"]
 polymarketYes: 1.8
 polymarketNo: 98.2
-polymarketVolume: 979938
+polymarketVolume: 983791
 polymarketUrl: "https://polymarket.com/event/will-bitcoin-reach-1000000-by-december-31-2026-946"
 ---
 
@@ -17,18 +17,13 @@ polymarketUrl: "https://polymarket.com/event/will-bitcoin-reach-1000000-by-decem
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 1.8% | 98.2% | $980K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
-
-## Related Markets
-
-- [MegaETH market cap (FDV) >$800M one day after launch?](/odds/megaeth-market-cap-fdv-800m-one-day-after-launch) — 94% YES
-- [Will the price of Bitcoin be above $70,000 on May 3?](/odds/will-the-price-of-bitcoin-be-above-70000-on-may-3) — 97% YES
+| Polymarket | 1.8% | 98.2% | $984K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Bitcoin reach $1,000,000 by December 31, 2026?"?
 
-As of April 28, 2026, Polymarket prices YES at 1.8%.
+As of April 29, 2026, Polymarket prices YES at 1.8%.
 
 ### Where can I trade on this prediction market?
 

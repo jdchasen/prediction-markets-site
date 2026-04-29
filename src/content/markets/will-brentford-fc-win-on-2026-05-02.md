@@ -3,8 +3,8 @@ title: "Will Brentford FC win on 2026-05-02?"
 description: "Will Brentford FC win on 2026-05-02? Odds: 48.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Brentford FC win on 2026-05-02?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-28
+status: "settled"
+lastUpdated: 2026-04-29
 expiryDate: 2026-05-02
 tags: ["politics", "polymarket"]
 polymarketYes: 48.5

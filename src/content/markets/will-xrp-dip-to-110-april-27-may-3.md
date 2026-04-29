@@ -1,23 +1,23 @@
 ---
-title: "Will US crude oil reserves fall to 275M by June 5?"
-description: "Will US crude oil reserves fall to 275M by June 5? Odds: 14.9% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will US crude oil reserves fall to 275M by June 5?"
+title: "Will XRP dip to $1.10 April 27-May 3?"
+description: "Will XRP dip to $1.10 April 27-May 3? Odds: 2.1% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will XRP dip to $1.10 April 27-May 3?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-04-29
-expiryDate: 2026-06-30
+expiryDate: 2026-05-04
 tags: ["politics", "polymarket"]
-polymarketYes: 14.9
-polymarketNo: 85.0
-polymarketVolume: 9737
-polymarketUrl: "https://polymarket.com/event/will-us-crude-oil-reserves-fall-to-275m-by-june-5"
+polymarketYes: 2.1
+polymarketNo: 97.9
+polymarketVolume: 9740
+polymarketUrl: "https://polymarket.com/event/will-xrp-dip-to-1pt1-april-27-may-3"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 14.9% | 85.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 2.1% | 97.9% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-us-crude-oil-reserves-fall-to-
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will US crude oil reserves fall to 275M by June 5?"?
+### What are the current odds for "Will XRP dip to $1.10 April 27-May 3?"?
 
-As of April 29, 2026, Polymarket prices YES at 14.9%.
+As of April 29, 2026, Polymarket prices YES at 2.1%.
 
 ### Where can I trade on this prediction market?
 
@@ -37,6 +37,6 @@ You can trade this market on [Polymarket](https://polymarket.us/1762?utm_source=
 
 ## Learn More
 
+- [Fed April Rate Decision Odds: Will the Fed Hold?](/blog/fed-april-rate-decision-odds-will-the-fed-hold)
 - [Will Oil Hit $100? March Crude Prediction Market Odds](/blog/will-oil-hit-100-march-crude-prediction-market-odds)
-- [Will ETH Hit $4,500 in 2026? Live Market Odds](/blog/will-ethereum-reach-4500-in-2026-what-prediction-markets-say)
 

@@ -1,23 +1,23 @@
 ---
-title: "Will US crude oil reserves fall to 275M by June 5?"
-description: "Will US crude oil reserves fall to 275M by June 5? Odds: 14.9% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will US crude oil reserves fall to 275M by June 5?"
+title: "Will Travis Kelce retire before next season?"
+description: "Will Travis Kelce retire before next season? Odds: 4.0% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Travis Kelce retire before next season?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-04-29
-expiryDate: 2026-06-30
+expiryDate: 2026-09-10
 tags: ["politics", "polymarket"]
-polymarketYes: 14.9
-polymarketNo: 85.0
-polymarketVolume: 9737
-polymarketUrl: "https://polymarket.com/event/will-us-crude-oil-reserves-fall-to-275m-by-june-5"
+polymarketYes: 4.0
+polymarketNo: 96.0
+polymarketVolume: 9753
+polymarketUrl: "https://polymarket.com/event/will-travis-kelce-retire-before-next-season"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 14.9% | 85.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 4.0% | 96.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-us-crude-oil-reserves-fall-to-
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will US crude oil reserves fall to 275M by June 5?"?
+### What are the current odds for "Will Travis Kelce retire before next season?"?
 
-As of April 29, 2026, Polymarket prices YES at 14.9%.
+As of April 29, 2026, Polymarket prices YES at 4.0%.
 
 ### Where can I trade on this prediction market?
 
