@@ -1,15 +1,15 @@
 ---
 title: "Will Discord’s market cap be $30B or greater at market close on IPO day?"
-description: "Will Discord’s market cap be $30B or greater at market close on IPO day? Odds: 2.4% YES on Polymarket. See live prices and trade this market."
+description: "Will Discord’s market cap be $30B or greater at market close on IPO day? Odds: 2.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Discord’s market cap be $30B or greater at market close on IPO day?"
 category: "finance"
 status: "active"
 lastUpdated: 2026-04-30
 expiryDate: 2026-06-30
 tags: ["finance", "polymarket"]
-polymarketYes: 2.4
-polymarketNo: 97.6
-polymarketVolume: 99339
+polymarketYes: 2.9
+polymarketNo: 97.1
+polymarketVolume: 99344
 polymarketUrl: "https://polymarket.com/event/will-discords-market-cap-be-greater-than-30b-at-market-close-on-ipo-day"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-discords-market-cap-be-greater
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 2.4% | 97.6% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 2.9% | 97.1% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will NVIDIA be the largest company in the world by market cap on June 30?](/odds/will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-june-30) — 84% YES
-- [Will Gold (GC) hit (HIGH) $6,200 by end of June?](/odds/will-gold-gc-hit-high-6200-by-end-of-june) — 3% YES
+- [Will Microsoft be the largest company in the world by market cap on June 30?](/odds/will-microsoft-be-the-largest-company-in-the-world-by-market-cap-on-june-30) — 0% YES
 - [Will SpaceX's market cap be between $1.8T and $2.0T at market close on IPO day?](/odds/will-spacexs-market-cap-be-between-18t-and-20t-at-market-close-on-ipo-day) — 13% YES
+- [Anysphere (Cursor) IPO before 2027?](/odds/anysphere-cursor-ipo-before-2027) — 6% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Discord’s market cap be $30B or greater at market close on IPO day?"?
 
-As of April 30, 2026, Polymarket prices YES at 2.4%.
+As of April 30, 2026, Polymarket prices YES at 2.9%.
 
 ### Where can I trade on this prediction market?
 

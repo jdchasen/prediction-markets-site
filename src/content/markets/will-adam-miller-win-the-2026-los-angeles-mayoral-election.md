@@ -1,15 +1,15 @@
 ---
 title: "Will Adam Miller win the 2026 Los Angeles mayoral election?"
-description: "Will Adam Miller win the 2026 Los Angeles mayoral election? Odds: 0.4% YES on Polymarket. See live prices and trade this market."
+description: "Will Adam Miller win the 2026 Los Angeles mayoral election? Odds: 1.3% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Adam Miller win the 2026 Los Angeles mayoral election?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-04-30
 expiryDate: 2026-06-02
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 0.4
-polymarketNo: 99.7
-polymarketVolume: 97939
+polymarketYes: 1.3
+polymarketNo: 98.7
+polymarketVolume: 98998
 polymarketUrl: "https://polymarket.com/event/will-adam-miller-win-the-2026-los-angeles-mayoral-election"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-adam-miller-win-the-2026-los-a
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.4% | 99.7% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 1.3% | 98.7% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Ro Khanna win the 2028 Democratic presidential nomination?](/odds/will-ro-khanna-win-the-2028-democratic-presidential-nomination) — 2% YES
-- [Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?](/odds/will-amanda-anisimova-be-the-2026-womens-wimbledon-winner) — 8% YES
+- [Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?](/odds/will-amanda-anisimova-be-the-2026-womens-wimbledon-winner) — 7% YES
 - [Will Renan Santos finish in second place in the first round of the 2026 Brazilian presidential election?](/odds/will-renan-santos-finish-in-second-place-in-the-first-round-of-the-2026-brazilia) — 5% YES
+- [Will xAI have the best AI model at the end of June 2026?](/odds/will-xai-have-the-best-ai-model-at-the-end-of-june-2026) — 2% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Adam Miller win the 2026 Los Angeles mayoral election?"?
 
-As of April 30, 2026, Polymarket prices YES at 0.4%.
+As of April 30, 2026, Polymarket prices YES at 1.3%.
 
 ### Where can I trade on this prediction market?
 

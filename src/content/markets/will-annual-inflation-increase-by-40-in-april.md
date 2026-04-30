@@ -3,7 +3,7 @@ title: "Will annual inflation increase by 4.0% in April?"
 description: "Will annual inflation increase by 4.0% in April? Odds: 1.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will annual inflation increase by 4.0% in April?"
 category: "economics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-30
 expiryDate: 2026-05-12
 tags: ["economics", "polymarket", "sports"]

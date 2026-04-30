@@ -21,9 +21,8 @@ polymarketUrl: "https://polymarket.com/event/elon-musk-of-tweets-may-2026-160-17
 
 ## Related Markets
 
-- [Will Elon Musk post 120-139 tweets from April 28 to May 5, 2026?](/odds/will-elon-musk-post-120-139-tweets-from-april-28-to-may-5-2026) — 9% YES
-- [Will Elon Musk post 160-179 tweets from May 1 to May 8, 2026?](/odds/will-elon-musk-post-160-179-tweets-from-may-1-to-may-8-2026) — 6% YES
-- [Will Elon Musk post 240-259 tweets in May 2026?](/odds/will-elon-musk-post-240-259-tweets-in-may-2026) — 0% YES
+- [Will UBS or any of its underwriting affiliates serve as the lead underwriter in SpaceX’s initial public offering?](/odds/will-ubs-or-any-of-its-underwriting-affiliates-serve-as-the-lead-underwriter-in-) — 0% YES
+- [Will SpaceX’s initial public offering occur in September 2026 (ET)?](/odds/will-spacexs-initial-public-offering-occur-in-september-2026-et) — 3% YES
 
 ## Frequently Asked Questions
 

@@ -1,14 +1,14 @@
 ---
 title: "Will Travis Kelce retire before next season?"
-description: "Will Travis Kelce retire before next season? Odds: 4.0% YES on Polymarket. See live prices and trade this market."
+description: "Will Travis Kelce retire before next season? Odds: 3.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Travis Kelce retire before next season?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-04-30
 expiryDate: 2026-09-10
 tags: ["politics", "polymarket"]
-polymarketYes: 4.0
-polymarketNo: 96.0
+polymarketYes: 3.9
+polymarketNo: 96.2
 polymarketVolume: 9753
 polymarketUrl: "https://polymarket.com/event/will-travis-kelce-retire-before-next-season"
 ---
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-travis-kelce-retire-before-nex
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 4.0% | 96.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 3.9% | 96.2% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Ro Khanna win the 2028 Democratic presidential nomination?](/odds/will-ro-khanna-win-the-2028-democratic-presidential-nomination) — 2% YES
-- [Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?](/odds/will-amanda-anisimova-be-the-2026-womens-wimbledon-winner) — 8% YES
+- [Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?](/odds/will-amanda-anisimova-be-the-2026-womens-wimbledon-winner) — 7% YES
 - [Will Renan Santos finish in second place in the first round of the 2026 Brazilian presidential election?](/odds/will-renan-santos-finish-in-second-place-in-the-first-round-of-the-2026-brazilia) — 5% YES
+- [Will xAI have the best AI model at the end of June 2026?](/odds/will-xai-have-the-best-ai-model-at-the-end-of-june-2026) — 2% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Travis Kelce retire before next season?"?
 
-As of April 30, 2026, Polymarket prices YES at 4.0%.
+As of April 30, 2026, Polymarket prices YES at 3.9%.
 
 ### Where can I trade on this prediction market?
 

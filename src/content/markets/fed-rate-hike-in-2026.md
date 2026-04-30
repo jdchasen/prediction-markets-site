@@ -9,7 +9,7 @@ expiryDate: 2026-12-09
 tags: ["economics", "federal-reserve", "polymarket"]
 polymarketYes: 16.5
 polymarketNo: 83.5
-polymarketVolume: 973420
+polymarketVolume: 994387
 polymarketUrl: "https://polymarket.com/event/fed-rate-hike-in-2026"
 ---
 
@@ -17,12 +17,12 @@ polymarketUrl: "https://polymarket.com/event/fed-rate-hike-in-2026"
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 16.5% | 83.5% | $973K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 16.5% | 83.5% | $994K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will annual inflation increase by 4.0% in April?](/odds/will-annual-inflation-increase-by-40-in-april) — 2% YES
-- [Will UK GDP growth in Q1 2026 be between 0% and 0.3%?](/odds/will-uk-gdp-growth-in-q1-2026-be-between-0-and-03) — 46% YES
+- [Will UK GDP growth in Q1 2026 be between 0% and 0.3%?](/odds/will-uk-gdp-growth-in-q1-2026-be-between-0-and-03) — 18% YES
+- [Will Bernie Sanders vote to confirm Kevin Warsh as Chair of the Federal Reserve?](/odds/will-bernie-sanders-vote-to-confirm-kevin-warsh-as-chair-of-the-federal-reserve) — 2% YES
 
 ## Frequently Asked Questions
 

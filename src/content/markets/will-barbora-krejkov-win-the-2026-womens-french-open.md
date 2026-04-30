@@ -3,7 +3,7 @@ title: "Will Barbora Krejčíková win the 2026 Women’s French Open?"
 description: "Will Barbora Krejčíková win the 2026 Women’s French Open? Odds: 0.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Barbora Krejčíková win the 2026 Women’s French Open?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-30
 expiryDate: 2026-06-06
 tags: ["politics", "polymarket"]

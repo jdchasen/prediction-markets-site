@@ -3,7 +3,7 @@ title: "Israel x Hamas ceasefire cancelled by June 30?"
 description: "Israel x Hamas ceasefire cancelled by June 30? Odds: 27.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Israel x Hamas ceasefire cancelled by June 30?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-30
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]

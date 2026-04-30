@@ -1,13 +1,13 @@
 ---
 title: "Will the Republicans win the South Carolina Senate race in 2026?"
-description: "Will the Republicans win the South Carolina Senate race in 2026? Odds: 79.0% YES on Polymarket. See live prices and trade this market."
+description: "Will the Republicans win the South Carolina Senate race in 2026? Odds: 78.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Republicans win the South Carolina Senate race in 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-04-30
 tags: ["politics", "polymarket"]
-polymarketYes: 79.0
-polymarketNo: 21.0
+polymarketYes: 78.5
+polymarketNo: 21.5
 polymarketVolume: 9814
 polymarketUrl: "https://polymarket.com/event/will-the-republicans-win-the-south-carolina-senate-race-in-2026"
 ---
@@ -16,19 +16,19 @@ polymarketUrl: "https://polymarket.com/event/will-the-republicans-win-the-south-
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 79.0% | 21.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 78.5% | 21.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Ro Khanna win the 2028 Democratic presidential nomination?](/odds/will-ro-khanna-win-the-2028-democratic-presidential-nomination) — 2% YES
-- [Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?](/odds/will-amanda-anisimova-be-the-2026-womens-wimbledon-winner) — 8% YES
+- [Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?](/odds/will-amanda-anisimova-be-the-2026-womens-wimbledon-winner) — 7% YES
 - [Will Renan Santos finish in second place in the first round of the 2026 Brazilian presidential election?](/odds/will-renan-santos-finish-in-second-place-in-the-first-round-of-the-2026-brazilia) — 5% YES
+- [Will xAI have the best AI model at the end of June 2026?](/odds/will-xai-have-the-best-ai-model-at-the-end-of-june-2026) — 2% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will the Republicans win the South Carolina Senate race in 2026?"?
 
-As of April 30, 2026, Polymarket prices YES at 79.0%.
+As of April 30, 2026, Polymarket prices YES at 78.5%.
 
 ### Where can I trade on this prediction market?
 

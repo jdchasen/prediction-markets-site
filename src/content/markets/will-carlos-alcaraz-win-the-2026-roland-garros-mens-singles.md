@@ -3,7 +3,7 @@ title: "Will Carlos Alcaraz win the 2026 Roland Garros Men's Singles?"
 description: "Will Carlos Alcaraz win the 2026 Roland Garros Men's Singles? Odds: 5.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Carlos Alcaraz win the 2026 Roland Garros Men's Singles?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-30
 expiryDate: 2026-06-08
 tags: ["politics", "polymarket"]

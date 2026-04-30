@@ -3,7 +3,7 @@ title: "Will US withdraw from NATO by June 30?"
 description: "Will US withdraw from NATO by June 30? Odds: 2.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will US withdraw from NATO by June 30?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-30
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]

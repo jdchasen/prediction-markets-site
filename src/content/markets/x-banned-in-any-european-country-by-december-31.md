@@ -3,7 +3,7 @@ title: "X banned in any European country by December 31?"
 description: "X banned in any European country by December 31? Odds: 31.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "X banned in any European country by December 31?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-30
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]

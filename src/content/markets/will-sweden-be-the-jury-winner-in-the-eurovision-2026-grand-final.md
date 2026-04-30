@@ -3,7 +3,7 @@ title: "Will Sweden be the Jury Winner in the Eurovision 2026 Grand Final?"
 description: "Will Sweden be the Jury Winner in the Eurovision 2026 Grand Final? Odds: 1.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Sweden be the Jury Winner in the Eurovision 2026 Grand Final?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-04-30
 expiryDate: 2026-05-16
 tags: ["politics", "polymarket"]
