@@ -1,14 +1,14 @@
 ---
 title: "Will Travis Kelce retire before next season?"
-description: "Will Travis Kelce retire before next season? Odds: 3.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Travis Kelce retire before next season? Odds: 4.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Travis Kelce retire before next season?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-04-29
+lastUpdated: 2026-04-30
 expiryDate: 2026-09-10
 tags: ["politics", "polymarket"]
-polymarketYes: 3.5
-polymarketNo: 96.5
+polymarketYes: 4.0
+polymarketNo: 96.0
 polymarketVolume: 9753
 polymarketUrl: "https://polymarket.com/event/will-travis-kelce-retire-before-next-season"
 ---
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-travis-kelce-retire-before-nex
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 3.5% | 96.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 4.0% | 96.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-travis-kelce-retire-before-nex
 
 ### What are the current odds for "Will Travis Kelce retire before next season?"?
 
-As of April 29, 2026, Polymarket prices YES at 3.5%.
+As of April 30, 2026, Polymarket prices YES at 4.0%.
 
 ### Where can I trade on this prediction market?
 

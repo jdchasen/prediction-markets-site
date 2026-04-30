@@ -1,14 +1,14 @@
 ---
 title: "Will Carlos Alcaraz win the 2026 Roland Garros Men's Singles?"
-description: "Will Carlos Alcaraz win the 2026 Roland Garros Men's Singles? Odds: 1.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Carlos Alcaraz win the 2026 Roland Garros Men's Singles? Odds: 5.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Carlos Alcaraz win the 2026 Roland Garros Men's Singles?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-04-29
+lastUpdated: 2026-04-30
 expiryDate: 2026-06-08
 tags: ["politics", "polymarket"]
-polymarketYes: 1.5
-polymarketNo: 98.5
+polymarketYes: 5.5
+polymarketNo: 94.5
 polymarketVolume: 9796
 polymarketUrl: "https://polymarket.com/event/will-carlos-alcaraz-win-the-2026-roland-garros-mens-singles"
 ---
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-carlos-alcaraz-win-the-2026-ro
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 1.5% | 98.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 5.5% | 94.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-carlos-alcaraz-win-the-2026-ro
 
 ### What are the current odds for "Will Carlos Alcaraz win the 2026 Roland Garros Men's Singles?"?
 
-As of April 29, 2026, Polymarket prices YES at 1.5%.
+As of April 30, 2026, Polymarket prices YES at 5.5%.
 
 ### Where can I trade on this prediction market?
 

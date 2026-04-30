@@ -1,14 +1,14 @@
 ---
 title: "Will USA win Group D in the 2026 FIFA World Cup?"
-description: "Will USA win Group D in the 2026 FIFA World Cup? Odds: 36.0% YES on Polymarket. See live prices and trade this market."
+description: "Will USA win Group D in the 2026 FIFA World Cup? Odds: 37.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will USA win Group D in the 2026 FIFA World Cup?"
 category: "sports"
 status: "active"
-lastUpdated: 2026-04-29
+lastUpdated: 2026-04-30
 expiryDate: 2026-06-27
 tags: ["polymarket", "sports"]
-polymarketYes: 36.0
-polymarketNo: 64.0
+polymarketYes: 37.0
+polymarketNo: 63.0
 polymarketVolume: 9857
 polymarketUrl: "https://polymarket.com/event/will-usa-win-group-d-in-the-2026-fifa-world-cup"
 ---
@@ -17,11 +17,10 @@ polymarketUrl: "https://polymarket.com/event/will-usa-win-group-d-in-the-2026-fi
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 36.0% | 64.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 37.0% | 63.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will the Houston Rockets win the NBA Western Conference Finals?](/odds/will-the-houston-rockets-win-the-nba-western-conference-finals) — 0% YES
 - [Will West Ham be relegated from the English Premier League after the 2025–26 season?](/odds/will-west-ham-be-relegated-from-the-english-premier-league-after-the-202526-seas) — 34% YES
 - [Will Jason Robertson win the 2025–2026 NHL Hart Memorial Trophy?](/odds/will-jason-robertson-win-the-20252026-nhl-hart-memorial-trophy) — 0% YES
 
@@ -29,7 +28,7 @@ polymarketUrl: "https://polymarket.com/event/will-usa-win-group-d-in-the-2026-fi
 
 ### What are the current odds for "Will USA win Group D in the 2026 FIFA World Cup?"?
 
-As of April 29, 2026, Polymarket prices YES at 36.0%.
+As of April 30, 2026, Polymarket prices YES at 37.0%.
 
 ### Where can I trade on this prediction market?
 

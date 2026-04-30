@@ -1,14 +1,14 @@
 ---
 title: "Will Mike Kennealy win the 2026 Massachusetts Governor Republican primary election?"
-description: "Will Mike Kennealy win the 2026 Massachusetts Governor Republican primary election? Odds: 2.0% YES on Polymarket. See live prices and trade this market."
+description: "Will Mike Kennealy win the 2026 Massachusetts Governor Republican primary election? Odds: 1.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Mike Kennealy win the 2026 Massachusetts Governor Republican primary election?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-04-29
+lastUpdated: 2026-04-30
 expiryDate: 2026-09-01
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 2.0
-polymarketNo: 98.0
+polymarketYes: 1.8
+polymarketNo: 98.2
 polymarketVolume: 9810
 polymarketUrl: "https://polymarket.com/event/will-mike-kennealy-win-the-2026-massachusetts-governor-republican-primary-election"
 ---
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-mike-kennealy-win-the-2026-mas
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 2.0% | 98.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 1.8% | 98.2% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-mike-kennealy-win-the-2026-mas
 
 ### What are the current odds for "Will Mike Kennealy win the 2026 Massachusetts Governor Republican primary election?"?
 
-As of April 29, 2026, Polymarket prices YES at 2.0%.
+As of April 30, 2026, Polymarket prices YES at 1.8%.
 
 ### Where can I trade on this prediction market?
 

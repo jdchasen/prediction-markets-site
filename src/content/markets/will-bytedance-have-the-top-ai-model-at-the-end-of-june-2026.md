@@ -1,15 +1,15 @@
 ---
 title: "Will ByteDance have the top AI model at the end of June 2026?"
-description: "Will ByteDance have the top AI model at the end of June 2026? Odds: 2.4% YES on Polymarket. See live prices and trade this market."
+description: "Will ByteDance have the top AI model at the end of June 2026? Odds: 1.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will ByteDance have the top AI model at the end of June 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-04-29
+lastUpdated: 2026-04-30
 expiryDate: 2026-06-30
 tags: ["ai", "politics", "polymarket"]
-polymarketYes: 2.4
-polymarketNo: 97.7
-polymarketVolume: 9917
+polymarketYes: 1.8
+polymarketNo: 98.2
+polymarketVolume: 9957
 polymarketUrl: "https://polymarket.com/event/will-bytedance-have-the-top-ai-model-at-the-end-of-june-2026"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-bytedance-have-the-top-ai-mode
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 2.4% | 97.7% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 1.8% | 98.2% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-bytedance-have-the-top-ai-mode
 
 ### What are the current odds for "Will ByteDance have the top AI model at the end of June 2026?"?
 
-As of April 29, 2026, Polymarket prices YES at 2.4%.
+As of April 30, 2026, Polymarket prices YES at 1.8%.
 
 ### Where can I trade on this prediction market?
 

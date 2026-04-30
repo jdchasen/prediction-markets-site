@@ -1,15 +1,15 @@
 ---
 title: "Will Chad Bianco win the California Governor Election in 2026?"
-description: "Will Chad Bianco win the California Governor Election in 2026? Odds: 3.8% YES on Polymarket. See live prices and trade this market."
+description: "Will Chad Bianco win the California Governor Election in 2026? Odds: 3.3% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Chad Bianco win the California Governor Election in 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-04-29
+lastUpdated: 2026-04-30
 expiryDate: 2026-11-03
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 3.8
-polymarketNo: 96.2
-polymarketVolume: 974483
+polymarketYes: 3.3
+polymarketNo: 96.7
+polymarketVolume: 981747
 polymarketUrl: "https://polymarket.com/event/will-chad-bianco-win-the-california-governor-election-in-2026"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-chad-bianco-win-the-california
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 3.8% | 96.2% | $974K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 3.3% | 96.7% | $982K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-chad-bianco-win-the-california
 
 ### What are the current odds for "Will Chad Bianco win the California Governor Election in 2026?"?
 
-As of April 29, 2026, Polymarket prices YES at 3.8%.
+As of April 30, 2026, Polymarket prices YES at 3.3%.
 
 ### Where can I trade on this prediction market?
 

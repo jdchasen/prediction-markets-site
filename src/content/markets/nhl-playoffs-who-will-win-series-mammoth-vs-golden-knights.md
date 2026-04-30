@@ -3,8 +3,8 @@ title: "NHL Playoffs: Who Will Win Series? - Mammoth vs. Golden Knights "
 description: "NHL Playoffs: Who Will Win Series? - Mammoth vs. Golden Knights  Odds: 40.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "NHL Playoffs: Who Will Win Series? - Mammoth vs. Golden Knights "
 category: "sports"
-status: "active"
-lastUpdated: 2026-04-29
+status: "settled"
+lastUpdated: 2026-04-30
 expiryDate: 2026-05-04
 tags: ["polymarket", "sports"]
 polymarketYes: 40.5

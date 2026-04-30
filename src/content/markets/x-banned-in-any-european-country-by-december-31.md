@@ -1,15 +1,15 @@
 ---
 title: "X banned in any European country by December 31?"
-description: "X banned in any European country by December 31? Odds: 33.0% YES on Polymarket. See live prices and trade this market."
+description: "X banned in any European country by December 31? Odds: 31.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "X banned in any European country by December 31?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-04-29
+lastUpdated: 2026-04-30
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 33.0
-polymarketNo: 67.0
-polymarketVolume: 9987
+polymarketYes: 31.0
+polymarketNo: 69.0
+polymarketVolume: 9989
 polymarketUrl: "https://polymarket.com/event/x-banned-in-any-european-country-by-december-31"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/x-banned-in-any-european-country-by
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 33.0% | 67.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 31.0% | 69.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/x-banned-in-any-european-country-by
 
 ### What are the current odds for "X banned in any European country by December 31?"?
 
-As of April 29, 2026, Polymarket prices YES at 33.0%.
+As of April 30, 2026, Polymarket prices YES at 31.0%.
 
 ### Where can I trade on this prediction market?
 

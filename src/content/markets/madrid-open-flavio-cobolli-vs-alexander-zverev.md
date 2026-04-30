@@ -3,8 +3,8 @@ title: "Madrid Open: Flavio Cobolli vs Alexander Zverev"
 description: "Madrid Open: Flavio Cobolli vs Alexander Zverev Odds: 27.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Madrid Open: Flavio Cobolli vs Alexander Zverev"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-29
+status: "settled"
+lastUpdated: 2026-04-30
 expiryDate: 2026-05-06
 tags: ["politics", "polymarket"]
 polymarketYes: 27.5

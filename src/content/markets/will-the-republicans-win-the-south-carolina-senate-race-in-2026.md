@@ -1,13 +1,13 @@
 ---
 title: "Will the Republicans win the South Carolina Senate race in 2026?"
-description: "Will the Republicans win the South Carolina Senate race in 2026? Odds: 79.5% YES on Polymarket. See live prices and trade this market."
+description: "Will the Republicans win the South Carolina Senate race in 2026? Odds: 79.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Republicans win the South Carolina Senate race in 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-04-29
+lastUpdated: 2026-04-30
 tags: ["politics", "polymarket"]
-polymarketYes: 79.5
-polymarketNo: 20.5
+polymarketYes: 79.0
+polymarketNo: 21.0
 polymarketVolume: 9814
 polymarketUrl: "https://polymarket.com/event/will-the-republicans-win-the-south-carolina-senate-race-in-2026"
 ---
@@ -16,7 +16,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-republicans-win-the-south-
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 79.5% | 20.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 79.0% | 21.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -28,7 +28,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-republicans-win-the-south-
 
 ### What are the current odds for "Will the Republicans win the South Carolina Senate race in 2026?"?
 
-As of April 29, 2026, Polymarket prices YES at 79.5%.
+As of April 30, 2026, Polymarket prices YES at 79.0%.
 
 ### Where can I trade on this prediction market?
 

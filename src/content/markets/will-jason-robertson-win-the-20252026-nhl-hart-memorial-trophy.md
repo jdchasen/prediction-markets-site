@@ -4,7 +4,7 @@ description: "Will Jason Robertson win the 2025–2026 NHL Hart Memorial Trophy?
 marketQuestion: "Will Jason Robertson win the 2025–2026 NHL Hart Memorial Trophy?"
 category: "sports"
 status: "active"
-lastUpdated: 2026-04-29
+lastUpdated: 2026-04-30
 expiryDate: 2026-06-30
 tags: ["polymarket", "sports"]
 polymarketYes: 0.1
@@ -21,15 +21,14 @@ polymarketUrl: "https://polymarket.com/event/nhl-2025-26-hart-memorial-trophy-ja
 
 ## Related Markets
 
-- [Will the Houston Rockets win the NBA Western Conference Finals?](/odds/will-the-houston-rockets-win-the-nba-western-conference-finals) — 0% YES
 - [Will West Ham be relegated from the English Premier League after the 2025–26 season?](/odds/will-west-ham-be-relegated-from-the-english-premier-league-after-the-202526-seas) — 34% YES
-- [Will USA win Group D in the 2026 FIFA World Cup?](/odds/will-usa-win-group-d-in-the-2026-fifa-world-cup) — 36% YES
+- [Will USA win Group D in the 2026 FIFA World Cup?](/odds/will-usa-win-group-d-in-the-2026-fifa-world-cup) — 37% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Jason Robertson win the 2025–2026 NHL Hart Memorial Trophy?"?
 
-As of April 29, 2026, Polymarket prices YES at 0.1%.
+As of April 30, 2026, Polymarket prices YES at 0.1%.
 
 ### Where can I trade on this prediction market?
 

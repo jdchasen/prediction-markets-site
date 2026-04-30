@@ -4,12 +4,12 @@ description: "Will Reform UK win the most seats in the 2026 Scottish Parliament 
 marketQuestion: "Will Reform UK win the most seats in the 2026 Scottish Parliament election?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-04-29
+lastUpdated: 2026-04-30
 expiryDate: 2026-05-07
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.2
 polymarketNo: 99.8
-polymarketVolume: 99107
+polymarketVolume: 99504
 polymarketUrl: "https://polymarket.com/event/will-reform-uk-win-the-most-seats-in-the-2026-scottish-parliament-election"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-reform-uk-win-the-most-seats-i
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.2% | 99.8% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.2% | 99.8% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-reform-uk-win-the-most-seats-i
 
 ### What are the current odds for "Will Reform UK win the most seats in the 2026 Scottish Parliament election?"?
 
-As of April 29, 2026, Polymarket prices YES at 0.2%.
+As of April 30, 2026, Polymarket prices YES at 0.2%.
 
 ### Where can I trade on this prediction market?
 

@@ -3,8 +3,8 @@ title: "US x Iran diplomatic meeting by May 15, 2026?"
 description: "US x Iran diplomatic meeting by May 15, 2026? Odds: 25.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "US x Iran diplomatic meeting by May 15, 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-29
+status: "settled"
+lastUpdated: 2026-04-30
 expiryDate: 2026-05-15
 tags: ["politics", "polymarket"]
 polymarketYes: 25.5

@@ -3,8 +3,8 @@ title: "Will China invade Taiwan by June 30, 2027?"
 description: "Will China invade Taiwan by June 30, 2027? Odds: 14.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will China invade Taiwan by June 30, 2027?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-29
+status: "settled"
+lastUpdated: 2026-04-30
 expiryDate: 2027-06-30
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 14.5

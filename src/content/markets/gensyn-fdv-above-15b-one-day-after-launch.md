@@ -3,8 +3,8 @@ title: "Gensyn FDV above $1.5B one day after launch?"
 description: "Gensyn FDV above $1.5B one day after launch? Odds: 1.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Gensyn FDV above $1.5B one day after launch?"
 category: "crypto"
-status: "active"
-lastUpdated: 2026-04-29
+status: "settled"
+lastUpdated: 2026-04-30
 expiryDate: 2027-01-01
 tags: ["crypto", "polymarket"]
 polymarketYes: 1.4

@@ -3,8 +3,8 @@ title: "Will Liam Shrivastava win the 2026 London Borough of Lewisham mayoral el
 description: "Will Liam Shrivastava win the 2026 London Borough of Lewisham mayoral election? Odds: 61.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Liam Shrivastava win the 2026 London Borough of Lewisham mayoral election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-29
+status: "settled"
+lastUpdated: 2026-04-30
 expiryDate: 2026-05-07
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 61.5

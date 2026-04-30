@@ -1,15 +1,15 @@
 ---
 title: "Will US withdraw from NATO by June 30?"
-description: "Will US withdraw from NATO by June 30? Odds: 2.6% YES on Polymarket. See live prices and trade this market."
+description: "Will US withdraw from NATO by June 30? Odds: 2.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will US withdraw from NATO by June 30?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-04-29
+lastUpdated: 2026-04-30
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
-polymarketYes: 2.6
-polymarketNo: 97.4
-polymarketVolume: 97338
+polymarketYes: 2.8
+polymarketNo: 97.2
+polymarketVolume: 98362
 polymarketUrl: "https://polymarket.com/event/will-us-withdraw-from-nato-by-june-30"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-us-withdraw-from-nato-by-june-
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 2.6% | 97.4% | $97K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 2.8% | 97.2% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-us-withdraw-from-nato-by-june-
 
 ### What are the current odds for "Will US withdraw from NATO by June 30?"?
 
-As of April 29, 2026, Polymarket prices YES at 2.6%.
+As of April 30, 2026, Polymarket prices YES at 2.8%.
 
 ### Where can I trade on this prediction market?
 

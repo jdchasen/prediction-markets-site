@@ -3,8 +3,8 @@ title: "Will Achraf Hakimi win the 2026 Ballon d'Or?"
 description: "Will Achraf Hakimi win the 2026 Ballon d'Or? Odds: 0.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Achraf Hakimi win the 2026 Ballon d'Or?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-29
+status: "settled"
+lastUpdated: 2026-04-30
 expiryDate: 2026-10-31
 tags: ["politics", "polymarket"]
 polymarketYes: 0.9

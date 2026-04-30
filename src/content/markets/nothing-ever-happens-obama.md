@@ -1,15 +1,15 @@
 ---
 title: "Nothing Ever Happens: Obama"
-description: "Nothing Ever Happens: Obama Odds: 85.0% YES on Polymarket. See live prices and trade this market."
+description: "Nothing Ever Happens: Obama Odds: 88.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Nothing Ever Happens: Obama"
 category: "politics"
 status: "active"
-lastUpdated: 2026-04-29
+lastUpdated: 2026-04-30
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 85.0
-polymarketNo: 15.0
-polymarketVolume: 9791
+polymarketYes: 88.0
+polymarketNo: 12.0
+polymarketVolume: 9907
 polymarketUrl: "https://polymarket.com/event/nothing-ever-happens-obama"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/nothing-ever-happens-obama"
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 85.0% | 15.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 88.0% | 12.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/nothing-ever-happens-obama"
 
 ### What are the current odds for "Nothing Ever Happens: Obama"?
 
-As of April 29, 2026, Polymarket prices YES at 85.0%.
+As of April 30, 2026, Polymarket prices YES at 88.0%.
 
 ### Where can I trade on this prediction market?
 

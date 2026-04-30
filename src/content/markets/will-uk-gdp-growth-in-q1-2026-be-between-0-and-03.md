@@ -1,15 +1,15 @@
 ---
 title: "Will UK GDP growth in Q1 2026 be between 0% and 0.3%?"
-description: "Will UK GDP growth in Q1 2026 be between 0% and 0.3%? Odds: 37.5% YES on Polymarket. See live prices and trade this market."
+description: "Will UK GDP growth in Q1 2026 be between 0% and 0.3%? Odds: 46.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will UK GDP growth in Q1 2026 be between 0% and 0.3%?"
 category: "economics"
 status: "active"
-lastUpdated: 2026-04-29
+lastUpdated: 2026-04-30
 expiryDate: 2026-05-14
 tags: ["economics", "polymarket"]
-polymarketYes: 37.5
-polymarketNo: 62.5
-polymarketVolume: 9633
+polymarketYes: 46.0
+polymarketNo: 54.0
+polymarketVolume: 9639
 polymarketUrl: "https://polymarket.com/event/will-uk-gdp-growth-in-q1-2026-be-between-0-and-0pt3"
 ---
 
@@ -17,11 +17,10 @@ polymarketUrl: "https://polymarket.com/event/will-uk-gdp-growth-in-q1-2026-be-be
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 37.5% | 62.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 46.0% | 54.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will 3 Fed rate cuts happen in 2026?](/odds/will-3-fed-rate-cuts-happen-in-2026) — 6% YES
 - [Fed rate hike in 2026?](/odds/fed-rate-hike-in-2026) — 16% YES
 - [Will annual inflation increase by 4.0% in April?](/odds/will-annual-inflation-increase-by-40-in-april) — 2% YES
 
@@ -29,7 +28,7 @@ polymarketUrl: "https://polymarket.com/event/will-uk-gdp-growth-in-q1-2026-be-be
 
 ### What are the current odds for "Will UK GDP growth in Q1 2026 be between 0% and 0.3%?"?
 
-As of April 29, 2026, Polymarket prices YES at 37.5%.
+As of April 30, 2026, Polymarket prices YES at 46.0%.
 
 ### Where can I trade on this prediction market?
 

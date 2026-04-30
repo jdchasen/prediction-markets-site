@@ -3,8 +3,8 @@ title: "Will the price of Bitcoin be above $82,000 on May 3?"
 description: "Will the price of Bitcoin be above $82,000 on May 3? Odds: 2.3% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the price of Bitcoin be above $82,000 on May 3?"
 category: "crypto"
-status: "active"
-lastUpdated: 2026-04-29
+status: "settled"
+lastUpdated: 2026-04-30
 expiryDate: 2026-05-03
 tags: ["bitcoin", "crypto", "polymarket"]
 polymarketYes: 2.3

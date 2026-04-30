@@ -4,7 +4,7 @@ description: "Will Chelsea Clinton be the democratic nominee for NY-12? Odds: 0.
 marketQuestion: "Will Chelsea Clinton be the democratic nominee for NY-12?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-04-29
+lastUpdated: 2026-04-30
 expiryDate: 2026-06-23
 tags: ["politics", "polymarket"]
 polymarketYes: 0.1
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-chelsea-clinton-be-the-democra
 
 ### What are the current odds for "Will Chelsea Clinton be the democratic nominee for NY-12?"?
 
-As of April 29, 2026, Polymarket prices YES at 0.1%.
+As of April 30, 2026, Polymarket prices YES at 0.1%.
 
 ### Where can I trade on this prediction market?
 

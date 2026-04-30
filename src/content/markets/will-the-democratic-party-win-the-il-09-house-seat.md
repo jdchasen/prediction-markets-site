@@ -1,14 +1,14 @@
 ---
 title: "Will the Democratic Party win the IL-09 House seat?"
-description: "Will the Democratic Party win the IL-09 House seat? Odds: 93.0% YES on Polymarket. See live prices and trade this market."
+description: "Will the Democratic Party win the IL-09 House seat? Odds: 92.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Democratic Party win the IL-09 House seat?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-04-29
+lastUpdated: 2026-04-30
 expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
-polymarketYes: 93.0
-polymarketNo: 7.0
+polymarketYes: 92.5
+polymarketNo: 7.5
 polymarketVolume: 9779
 polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-il-09-house-seat"
 ---
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-i
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 93.0% | 7.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 92.5% | 7.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-i
 
 ### What are the current odds for "Will the Democratic Party win the IL-09 House seat?"?
 
-As of April 29, 2026, Polymarket prices YES at 93.0%.
+As of April 30, 2026, Polymarket prices YES at 92.5%.
 
 ### Where can I trade on this prediction market?
 

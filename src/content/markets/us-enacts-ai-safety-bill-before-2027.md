@@ -1,14 +1,14 @@
 ---
 title: "U.S. enacts AI safety bill before 2027?"
-description: "U.S. enacts AI safety bill before 2027? Odds: 12.0% YES on Polymarket. See live prices and trade this market."
+description: "U.S. enacts AI safety bill before 2027? Odds: 12.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "U.S. enacts AI safety bill before 2027?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-04-29
+lastUpdated: 2026-04-30
 expiryDate: 2026-12-31
 tags: ["ai", "politics", "polymarket"]
-polymarketYes: 12.0
-polymarketNo: 88.0
+polymarketYes: 12.5
+polymarketNo: 87.5
 polymarketVolume: 97338
 polymarketUrl: "https://polymarket.com/event/us-enacts-ai-safety-bill-before-2027"
 ---
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/us-enacts-ai-safety-bill-before-202
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 12.0% | 88.0% | $97K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 12.5% | 87.5% | $97K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/us-enacts-ai-safety-bill-before-202
 
 ### What are the current odds for "U.S. enacts AI safety bill before 2027?"?
 
-As of April 29, 2026, Polymarket prices YES at 12.0%.
+As of April 30, 2026, Polymarket prices YES at 12.5%.
 
 ### Where can I trade on this prediction market?
 

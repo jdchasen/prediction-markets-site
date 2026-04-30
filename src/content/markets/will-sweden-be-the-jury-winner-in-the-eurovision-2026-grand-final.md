@@ -1,15 +1,15 @@
 ---
 title: "Will Sweden be the Jury Winner in the Eurovision 2026 Grand Final?"
-description: "Will Sweden be the Jury Winner in the Eurovision 2026 Grand Final? Odds: 1.2% YES on Polymarket. See live prices and trade this market."
+description: "Will Sweden be the Jury Winner in the Eurovision 2026 Grand Final? Odds: 1.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Sweden be the Jury Winner in the Eurovision 2026 Grand Final?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-04-29
+lastUpdated: 2026-04-30
 expiryDate: 2026-05-16
 tags: ["politics", "polymarket"]
-polymarketYes: 1.2
-polymarketNo: 98.8
-polymarketVolume: 97243
+polymarketYes: 1.1
+polymarketNo: 98.9
+polymarketVolume: 97326
 polymarketUrl: "https://polymarket.com/event/will-sweden-be-the-jury-winner-in-the-eurovision-2026-grand-final"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-sweden-be-the-jury-winner-in-t
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 1.2% | 98.8% | $97K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 1.1% | 98.9% | $97K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-sweden-be-the-jury-winner-in-t
 
 ### What are the current odds for "Will Sweden be the Jury Winner in the Eurovision 2026 Grand Final?"?
 
-As of April 29, 2026, Polymarket prices YES at 1.2%.
+As of April 30, 2026, Polymarket prices YES at 1.1%.
 
 ### Where can I trade on this prediction market?
 

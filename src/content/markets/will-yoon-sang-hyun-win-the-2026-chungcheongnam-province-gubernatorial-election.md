@@ -1,14 +1,14 @@
 ---
 title: "Will Yoon Sang-hyun win the 2026 Chungcheongnam Province gubernatorial election?"
-description: "Will Yoon Sang-hyun win the 2026 Chungcheongnam Province gubernatorial election? Odds: 0.6% YES on Polymarket. See live prices and trade this market."
+description: "Will Yoon Sang-hyun win the 2026 Chungcheongnam Province gubernatorial election? Odds: 0.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Yoon Sang-hyun win the 2026 Chungcheongnam Province gubernatorial election?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-04-29
+lastUpdated: 2026-04-30
 expiryDate: 2026-06-03
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 0.6
-polymarketNo: 99.4
+polymarketYes: 0.4
+polymarketNo: 99.6
 polymarketVolume: 98516
 polymarketUrl: "https://polymarket.com/event/will-yoon-sang-hyun-win-the-2026-chungcheongnam-province-gubernatorial-election"
 ---
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-yoon-sang-hyun-win-the-2026-ch
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.6% | 99.4% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.4% | 99.6% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-yoon-sang-hyun-win-the-2026-ch
 
 ### What are the current odds for "Will Yoon Sang-hyun win the 2026 Chungcheongnam Province gubernatorial election?"?
 
-As of April 29, 2026, Polymarket prices YES at 0.6%.
+As of April 30, 2026, Polymarket prices YES at 0.4%.
 
 ### Where can I trade on this prediction market?
 

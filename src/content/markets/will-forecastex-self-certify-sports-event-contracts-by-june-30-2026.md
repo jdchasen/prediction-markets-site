@@ -4,7 +4,7 @@ description: "Will ForecastEx self-certify sports event contracts by June 30, 20
 marketQuestion: "Will ForecastEx self-certify sports event contracts by June 30, 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-04-29
+lastUpdated: 2026-04-30
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
 polymarketYes: 30.5
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-forecastex-self-certify-sports
 
 ### What are the current odds for "Will ForecastEx self-certify sports event contracts by June 30, 2026?"?
 
-As of April 29, 2026, Polymarket prices YES at 30.5%.
+As of April 30, 2026, Polymarket prices YES at 30.5%.
 
 ### Where can I trade on this prediction market?
 

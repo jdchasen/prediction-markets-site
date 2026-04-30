@@ -1,15 +1,15 @@
 ---
 title: "Israel x Hamas ceasefire cancelled by June 30?"
-description: "Israel x Hamas ceasefire cancelled by June 30? Odds: 28.0% YES on Polymarket. See live prices and trade this market."
+description: "Israel x Hamas ceasefire cancelled by June 30? Odds: 27.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Israel x Hamas ceasefire cancelled by June 30?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-04-29
+lastUpdated: 2026-04-30
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
-polymarketYes: 28.0
-polymarketNo: 72.0
-polymarketVolume: 98312
+polymarketYes: 27.0
+polymarketNo: 73.0
+polymarketVolume: 98804
 polymarketUrl: "https://polymarket.com/event/israel-x-hamas-ceasefire-cancelled-by-june-30"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/israel-x-hamas-ceasefire-cancelled-
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 28.0% | 72.0% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 27.0% | 73.0% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/israel-x-hamas-ceasefire-cancelled-
 
 ### What are the current odds for "Israel x Hamas ceasefire cancelled by June 30?"?
 
-As of April 29, 2026, Polymarket prices YES at 28.0%.
+As of April 30, 2026, Polymarket prices YES at 27.0%.
 
 ### Where can I trade on this prediction market?
 

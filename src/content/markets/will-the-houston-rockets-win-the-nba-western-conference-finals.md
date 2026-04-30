@@ -3,8 +3,8 @@ title: "Will the Houston Rockets win the NBA Western Conference Finals?"
 description: "Will the Houston Rockets win the NBA Western Conference Finals? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Houston Rockets win the NBA Western Conference Finals?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-04-29
+status: "settled"
+lastUpdated: 2026-04-30
 expiryDate: 2026-06-16
 tags: ["polymarket", "sports"]
 polymarketYes: 0.1

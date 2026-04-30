@@ -3,8 +3,8 @@ title: "Ukraine signs peace deal with Russia by June 30?"
 description: "Ukraine signs peace deal with Russia by June 30? Odds: 6.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Ukraine signs peace deal with Russia by June 30?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-29
+status: "settled"
+lastUpdated: 2026-04-30
 expiryDate: 2026-06-30
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 6.5
