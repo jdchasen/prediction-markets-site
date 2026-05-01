@@ -23,7 +23,7 @@ polymarketUrl: "https://polymarket.com/event/nhl-2025-26-hart-memorial-trophy-ja
 
 - [Will the Oklahoma City Thunder win the 2026 NBA Finals?](/odds/will-the-oklahoma-city-thunder-win-the-2026-nba-finals) — 56% YES
 - [Will West Ham be relegated from the English Premier League after the 2025–26 season?](/odds/will-west-ham-be-relegated-from-the-english-premier-league-after-the-202526-seas) — 34% YES
-- [Will USA win Group D in the 2026 FIFA World Cup?](/odds/will-usa-win-group-d-in-the-2026-fifa-world-cup) — 34% YES
+- [Will a team from Germany be the 2026 Champions League winner?](/odds/will-a-team-from-germany-be-the-2026-champions-league-winner) — 33% YES
 
 ## Frequently Asked Questions
 

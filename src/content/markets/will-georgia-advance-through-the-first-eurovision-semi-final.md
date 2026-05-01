@@ -1,23 +1,23 @@
 ---
-title: "Will Yoo Dong-soo win the 2026 Incheon mayoral election?"
-description: "Will Yoo Dong-soo win the 2026 Incheon mayoral election? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Yoo Dong-soo win the 2026 Incheon mayoral election?"
+title: "Will Georgia advance through the first Eurovision Semi-Final?"
+description: "Will Georgia advance through the first Eurovision Semi-Final? Odds: 44.0% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Georgia advance through the first Eurovision Semi-Final?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-05-01
-expiryDate: 2026-06-03
-tags: ["elections", "politics", "polymarket"]
-polymarketYes: 0.1
-polymarketNo: 99.9
-polymarketVolume: 98098
-polymarketUrl: "https://polymarket.com/event/will-yoo-dong-soo-win-the-2026-incheon-mayoral-election"
+expiryDate: 2026-05-12
+tags: ["politics", "polymarket"]
+polymarketYes: 44.0
+polymarketNo: 56.0
+polymarketVolume: 9977
+polymarketUrl: "https://polymarket.com/event/will-georgia-advance-through-the-first-eurovision-semi-final"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.1% | 99.9% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 44.0% | 56.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-yoo-dong-soo-win-the-2026-inch
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Yoo Dong-soo win the 2026 Incheon mayoral election?"?
+### What are the current odds for "Will Georgia advance through the first Eurovision Semi-Final?"?
 
-As of May 01, 2026, Polymarket prices YES at 0.1%.
+As of May 01, 2026, Polymarket prices YES at 44.0%.
 
 ### Where can I trade on this prediction market?
 
@@ -37,6 +37,6 @@ You can trade this market on [Polymarket](https://polymarket.us/1762?utm_source=
 
 ## Learn More
 
+- [Will Oil Hit $100? March Crude Prediction Market Odds](/blog/will-oil-hit-100-march-crude-prediction-market-odds)
 - [Will ETH Hit $4,500 in 2026? Live Market Odds](/blog/will-ethereum-reach-4500-in-2026-what-prediction-markets-say)
-- [Will Discord IPO in 2026? What Prediction Markets Say](/blog/will-discord-ipo-in-2026-what-prediction-markets-say)
 

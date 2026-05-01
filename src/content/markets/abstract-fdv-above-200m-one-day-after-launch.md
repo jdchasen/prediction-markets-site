@@ -9,7 +9,7 @@ expiryDate: 2028-01-01
 tags: ["crypto", "polymarket"]
 polymarketYes: 75.5
 polymarketNo: 24.5
-polymarketVolume: 97820
+polymarketVolume: 98193
 polymarketUrl: "https://polymarket.com/event/abstract-fdv-above-200m-one-day-after-launch"
 ---
 
@@ -22,8 +22,8 @@ polymarketUrl: "https://polymarket.com/event/abstract-fdv-above-200m-one-day-aft
 ## Related Markets
 
 - [Will Bitcoin reach $1,000,000 by December 31, 2026?](/odds/will-bitcoin-reach-1000000-by-december-31-2026) — 2% YES
-- [Metamask FDV above $500M one day after launch?](/odds/metamask-fdv-above-500m-one-day-after-launch) — 62% YES
-- [Theo FDV above $1B one day after launch?](/odds/theo-fdv-above-1b-one-day-after-launch) — 4% YES
+- [Will the price of Bitcoin be above $70,000 on May 7?](/odds/will-the-price-of-bitcoin-be-above-70000-on-may-7) — 98% YES
+- [Metamask FDV above $500M one day after launch?](/odds/metamask-fdv-above-500m-one-day-after-launch) — 59% YES
 
 ## Frequently Asked Questions
 

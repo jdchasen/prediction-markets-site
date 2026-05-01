@@ -3,7 +3,7 @@ title: "Will Z.ai have a #1 AI model by June 30?"
 description: "Will Z.ai have a #1 AI model by June 30? Odds: 3.3% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Z.ai have a #1 AI model by June 30?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-01
 expiryDate: 2026-06-30
 tags: ["ai", "politics", "polymarket"]

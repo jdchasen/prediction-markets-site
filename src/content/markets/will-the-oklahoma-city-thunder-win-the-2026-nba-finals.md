@@ -9,7 +9,7 @@ expiryDate: 2026-07-01
 tags: ["polymarket", "sports"]
 polymarketYes: 55.5
 polymarketNo: 44.5
-polymarketVolume: 9876214
+polymarketVolume: 9927052
 polymarketUrl: "https://polymarket.com/event/will-the-oklahoma-city-thunder-win-the-2026-nba-finals"
 ---
 
@@ -22,8 +22,8 @@ polymarketUrl: "https://polymarket.com/event/will-the-oklahoma-city-thunder-win-
 ## Related Markets
 
 - [Will West Ham be relegated from the English Premier League after the 2025–26 season?](/odds/will-west-ham-be-relegated-from-the-english-premier-league-after-the-202526-seas) — 34% YES
-- [Will USA win Group D in the 2026 FIFA World Cup?](/odds/will-usa-win-group-d-in-the-2026-fifa-world-cup) — 34% YES
 - [Will Jason Robertson win the 2025–2026 NHL Hart Memorial Trophy?](/odds/will-jason-robertson-win-the-20252026-nhl-hart-memorial-trophy) — 0% YES
+- [Will a team from Germany be the 2026 Champions League winner?](/odds/will-a-team-from-germany-be-the-2026-champions-league-winner) — 33% YES
 
 ## Frequently Asked Questions
 

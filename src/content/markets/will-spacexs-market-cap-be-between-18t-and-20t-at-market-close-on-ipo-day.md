@@ -9,7 +9,7 @@ expiryDate: 2027-12-31
 tags: ["finance", "polymarket"]
 polymarketYes: 13.0
 polymarketNo: 87.0
-polymarketVolume: 97742
+polymarketVolume: 97752
 polymarketUrl: "https://polymarket.com/event/will-spacexs-market-cap-be-between-1pt8t-and-2pt0t-at-market-close-on-ipo-day-516"
 ---
 
@@ -22,7 +22,7 @@ polymarketUrl: "https://polymarket.com/event/will-spacexs-market-cap-be-between-
 ## Related Markets
 
 - [Will Discord’s market cap be $30B or greater at market close on IPO day?](/odds/will-discords-market-cap-be-30b-or-greater-at-market-close-on-ipo-day) — 2% YES
-- [Anysphere (Cursor) IPO before 2027?](/odds/anysphere-cursor-ipo-before-2027) — 6% YES
+- [Will Saudi Aramco be the largest company in the world by market cap on May 31?](/odds/will-saudi-aramco-be-the-largest-company-in-the-world-by-market-cap-on-may-31) — 0% YES
 - [Will OpenAI’s market cap be $1.5T or greater at market close on IPO day?](/odds/will-openais-market-cap-be-15t-or-greater-at-market-close-on-ipo-day) — 5% YES
 
 ## Frequently Asked Questions

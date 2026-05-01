@@ -3,7 +3,7 @@ title: "Cagliari: Matteo Arnaldi vs Nuno Borges"
 description: "Cagliari: Matteo Arnaldi vs Nuno Borges Odds: 46.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Cagliari: Matteo Arnaldi vs Nuno Borges"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-01
 expiryDate: 2026-05-08
 tags: ["politics", "polymarket"]

@@ -3,7 +3,7 @@ title: "Mohammed bin Zayed Al Nahyan out as President of the United Arab Emirate
 description: "Mohammed bin Zayed Al Nahyan out as President of the United Arab Emirates by December 31, 2026? Odds: 8.5% YES on Polymarket. See live prices and trade this ..."
 marketQuestion: "Mohammed bin Zayed Al Nahyan out as President of the United Arab Emirates by December 31, 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-01
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]

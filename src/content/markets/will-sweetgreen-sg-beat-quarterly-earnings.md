@@ -1,23 +1,23 @@
 ---
-title: "Will Yoo Dong-soo win the 2026 Incheon mayoral election?"
-description: "Will Yoo Dong-soo win the 2026 Incheon mayoral election? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Yoo Dong-soo win the 2026 Incheon mayoral election?"
+title: "Will Sweetgreen (SG) beat quarterly earnings?"
+description: "Will Sweetgreen (SG) beat quarterly earnings? Odds: 86.0% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Sweetgreen (SG) beat quarterly earnings?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-05-01
-expiryDate: 2026-06-03
-tags: ["elections", "politics", "polymarket"]
-polymarketYes: 0.1
-polymarketNo: 99.9
-polymarketVolume: 98098
-polymarketUrl: "https://polymarket.com/event/will-yoo-dong-soo-win-the-2026-incheon-mayoral-election"
+expiryDate: 2026-05-07
+tags: ["politics", "polymarket"]
+polymarketYes: 86.0
+polymarketNo: 14.0
+polymarketVolume: 9732
+polymarketUrl: "https://polymarket.com/event/sg-quarterly-earnings-gaap-eps-05-07-2026-neg0pt23"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.1% | 99.9% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 86.0% | 14.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-yoo-dong-soo-win-the-2026-inch
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Yoo Dong-soo win the 2026 Incheon mayoral election?"?
+### What are the current odds for "Will Sweetgreen (SG) beat quarterly earnings?"?
 
-As of May 01, 2026, Polymarket prices YES at 0.1%.
+As of May 01, 2026, Polymarket prices YES at 86.0%.
 
 ### Where can I trade on this prediction market?
 
@@ -37,6 +37,6 @@ You can trade this market on [Polymarket](https://polymarket.us/1762?utm_source=
 
 ## Learn More
 
+- [Will Oil Hit $100? March Crude Prediction Market Odds](/blog/will-oil-hit-100-march-crude-prediction-market-odds)
 - [Will ETH Hit $4,500 in 2026? Live Market Odds](/blog/will-ethereum-reach-4500-in-2026-what-prediction-markets-say)
-- [Will Discord IPO in 2026? What Prediction Markets Say](/blog/will-discord-ipo-in-2026-what-prediction-markets-say)
 

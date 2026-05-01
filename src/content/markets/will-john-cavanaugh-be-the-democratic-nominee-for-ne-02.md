@@ -3,7 +3,7 @@ title: "Will John Cavanaugh be the Democratic nominee for NE-02?"
 description: "Will John Cavanaugh be the Democratic nominee for NE-02? Odds: 31.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will John Cavanaugh be the Democratic nominee for NE-02?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-01
 expiryDate: 2026-05-12
 tags: ["politics", "polymarket"]

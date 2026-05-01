@@ -22,7 +22,7 @@ polymarketUrl: "https://polymarket.com/event/will-openais-market-cap-be-greater-
 ## Related Markets
 
 - [Will Discord’s market cap be $30B or greater at market close on IPO day?](/odds/will-discords-market-cap-be-30b-or-greater-at-market-close-on-ipo-day) — 2% YES
-- [Anysphere (Cursor) IPO before 2027?](/odds/anysphere-cursor-ipo-before-2027) — 6% YES
+- [Will Saudi Aramco be the largest company in the world by market cap on May 31?](/odds/will-saudi-aramco-be-the-largest-company-in-the-world-by-market-cap-on-may-31) — 0% YES
 - [Will SpaceX's market cap be between $1.8T and $2.0T at market close on IPO day?](/odds/will-spacexs-market-cap-be-between-18t-and-20t-at-market-close-on-ipo-day) — 13% YES
 
 ## Frequently Asked Questions

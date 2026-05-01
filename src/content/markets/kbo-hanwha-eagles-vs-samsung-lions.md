@@ -3,7 +3,7 @@ title: "KBO: Hanwha Eagles vs. Samsung Lions"
 description: "KBO: Hanwha Eagles vs. Samsung Lions Odds: 0.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "KBO: Hanwha Eagles vs. Samsung Lions"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-01
 expiryDate: 2026-05-08
 tags: ["politics", "polymarket"]

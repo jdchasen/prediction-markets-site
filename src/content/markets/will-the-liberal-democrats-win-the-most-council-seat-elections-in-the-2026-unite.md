@@ -1,23 +1,23 @@
 ---
-title: "Will Kerry-Lynne Findlay win the 2026 Conservative Party of British Columbia leadership election?"
-description: "Will Kerry-Lynne Findlay win the 2026 Conservative Party of British Columbia leadership election? Odds: 36.2% YES on Polymarket. See live prices and trade th..."
-marketQuestion: "Will Kerry-Lynne Findlay win the 2026 Conservative Party of British Columbia leadership election?"
+title: "Will the Liberal Democrats win the most council seat elections in the 2026 United Kingdom local elections?"
+description: "Will the Liberal Democrats win the most council seat elections in the 2026 United Kingdom local elections? Odds: 0.2% YES on Polymarket. See live prices and ..."
+marketQuestion: "Will the Liberal Democrats win the most council seat elections in the 2026 United Kingdom local elections?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-05-01
-expiryDate: 2026-05-30
+expiryDate: 2026-05-07
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 36.2
-polymarketNo: 63.7
-polymarketVolume: 9929
-polymarketUrl: "https://polymarket.com/event/will-kerry-lynne-findlay-win-the-2026-conservative-party-of-british-columbia-leadership-election"
+polymarketYes: 0.2
+polymarketNo: 99.8
+polymarketVolume: 9977
+polymarketUrl: "https://polymarket.com/event/will-the-liberal-democrats-win-the-most-council-seat-elections-in-the-2026-united-kingdom-local-elections"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 36.2% | 63.7% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.2% | 99.8% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-kerry-lynne-findlay-win-the-20
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Kerry-Lynne Findlay win the 2026 Conservative Party of British Columbia leadership election?"?
+### What are the current odds for "Will the Liberal Democrats win the most council seat elections in the 2026 United Kingdom local elections?"?
 
-As of May 01, 2026, Polymarket prices YES at 36.2%.
+As of May 01, 2026, Polymarket prices YES at 0.2%.
 
 ### Where can I trade on this prediction market?
 

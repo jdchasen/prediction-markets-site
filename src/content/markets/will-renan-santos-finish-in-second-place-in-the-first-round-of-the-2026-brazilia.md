@@ -9,7 +9,7 @@ expiryDate: 2026-10-04
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 5.0
 polymarketNo: 95.0
-polymarketVolume: 985487
+polymarketVolume: 985489
 polymarketUrl: "https://polymarket.com/event/will-renan-santos-finish-in-second-place-in-the-first-round-of-the-2026-brazilian-presidential-election"
 ---
 
@@ -22,8 +22,8 @@ polymarketUrl: "https://polymarket.com/event/will-renan-santos-finish-in-second-
 ## Related Markets
 
 - [Will Ro Khanna win the 2028 Democratic presidential nomination?](/odds/will-ro-khanna-win-the-2028-democratic-presidential-nomination) — 2% YES
-- [Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?](/odds/will-amanda-anisimova-be-the-2026-womens-wimbledon-winner) — 7% YES
-- [Will Chad Bianco win the California Governor Election in 2026?](/odds/will-chad-bianco-win-the-california-governor-election-in-2026) — 4% YES
+- [US x Iran permanent peace deal by May 31, 2026?](/odds/us-x-iran-permanent-peace-deal-by-may-31-2026) — 22% YES
+- [Will Chad Bianco win the California Governor Election in 2026?](/odds/will-chad-bianco-win-the-california-governor-election-in-2026) — 6% YES
 
 ## Frequently Asked Questions
 

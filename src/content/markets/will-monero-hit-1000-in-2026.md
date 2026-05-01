@@ -1,23 +1,23 @@
 ---
-title: "Will Kerry-Lynne Findlay win the 2026 Conservative Party of British Columbia leadership election?"
-description: "Will Kerry-Lynne Findlay win the 2026 Conservative Party of British Columbia leadership election? Odds: 36.2% YES on Polymarket. See live prices and trade th..."
-marketQuestion: "Will Kerry-Lynne Findlay win the 2026 Conservative Party of British Columbia leadership election?"
+title: "Will Monero hit $1000 in 2026?"
+description: "Will Monero hit $1000 in 2026? Odds: 18.0% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Monero hit $1000 in 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-05-01
-expiryDate: 2026-05-30
-tags: ["elections", "politics", "polymarket"]
-polymarketYes: 36.2
-polymarketNo: 63.7
-polymarketVolume: 9929
-polymarketUrl: "https://polymarket.com/event/will-kerry-lynne-findlay-win-the-2026-conservative-party-of-british-columbia-leadership-election"
+expiryDate: 2027-01-01
+tags: ["politics", "polymarket"]
+polymarketYes: 18.0
+polymarketNo: 82.0
+polymarketVolume: 97230
+polymarketUrl: "https://polymarket.com/event/will-monero-hit-1000-in-2026"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 36.2% | 63.7% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 18.0% | 82.0% | $97K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-kerry-lynne-findlay-win-the-20
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Kerry-Lynne Findlay win the 2026 Conservative Party of British Columbia leadership election?"?
+### What are the current odds for "Will Monero hit $1000 in 2026?"?
 
-As of May 01, 2026, Polymarket prices YES at 36.2%.
+As of May 01, 2026, Polymarket prices YES at 18.0%.
 
 ### Where can I trade on this prediction market?
 

@@ -9,7 +9,7 @@ expiryDate: 2026-05-12
 tags: ["economics", "polymarket", "sports"]
 polymarketYes: 1.6
 polymarketNo: 98.5
-polymarketVolume: 9818
+polymarketVolume: 9828
 polymarketUrl: "https://polymarket.com/event/will-annual-inflation-increase-by-4pt0-in-april"
 ---
 
@@ -21,7 +21,8 @@ polymarketUrl: "https://polymarket.com/event/will-annual-inflation-increase-by-4
 
 ## Related Markets
 
-- [Fed rate hike in 2026?](/odds/fed-rate-hike-in-2026) — 19% YES
+- [Fed rate hike in 2026?](/odds/fed-rate-hike-in-2026) — 18% YES
+- [Will the April 2026 unemployment rate be 4.4%?](/odds/will-the-april-2026-unemployment-rate-be-44) — 23% YES
 
 ## Frequently Asked Questions
 

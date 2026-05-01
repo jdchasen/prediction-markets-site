@@ -1,14 +1,14 @@
 ---
 title: "Will Yoon Sang-hyun win the 2026 Chungcheongnam Province gubernatorial election?"
-description: "Will Yoon Sang-hyun win the 2026 Chungcheongnam Province gubernatorial election? Odds: 0.8% YES on Polymarket. See live prices and trade this market."
+description: "Will Yoon Sang-hyun win the 2026 Chungcheongnam Province gubernatorial election? Odds: 0.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Yoon Sang-hyun win the 2026 Chungcheongnam Province gubernatorial election?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-05-01
 expiryDate: 2026-06-03
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 0.8
-polymarketNo: 99.2
+polymarketYes: 0.5
+polymarketNo: 99.5
 polymarketVolume: 98516
 polymarketUrl: "https://polymarket.com/event/will-yoon-sang-hyun-win-the-2026-chungcheongnam-province-gubernatorial-election"
 ---
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-yoon-sang-hyun-win-the-2026-ch
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.8% | 99.2% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.5% | 99.5% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Ro Khanna win the 2028 Democratic presidential nomination?](/odds/will-ro-khanna-win-the-2028-democratic-presidential-nomination) — 2% YES
-- [Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?](/odds/will-amanda-anisimova-be-the-2026-womens-wimbledon-winner) — 7% YES
-- [Will Chad Bianco win the California Governor Election in 2026?](/odds/will-chad-bianco-win-the-california-governor-election-in-2026) — 4% YES
+- [US x Iran permanent peace deal by May 31, 2026?](/odds/us-x-iran-permanent-peace-deal-by-may-31-2026) — 22% YES
+- [Will Chad Bianco win the California Governor Election in 2026?](/odds/will-chad-bianco-win-the-california-governor-election-in-2026) — 6% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Yoon Sang-hyun win the 2026 Chungcheongnam Province gubernatorial election?"?
 
-As of May 01, 2026, Polymarket prices YES at 0.8%.
+As of May 01, 2026, Polymarket prices YES at 0.5%.
 
 ### Where can I trade on this prediction market?
 

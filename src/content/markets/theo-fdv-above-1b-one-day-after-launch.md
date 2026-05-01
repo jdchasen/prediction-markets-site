@@ -1,14 +1,14 @@
 ---
 title: "Theo FDV above $1B one day after launch?"
-description: "Theo FDV above $1B one day after launch? Odds: 3.7% YES on Polymarket. See live prices and trade this market."
+description: "Theo FDV above $1B one day after launch? Odds: 4.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Theo FDV above $1B one day after launch?"
 category: "crypto"
 status: "active"
 lastUpdated: 2026-05-01
 expiryDate: 2027-01-01
 tags: ["crypto", "polymarket"]
-polymarketYes: 3.7
-polymarketNo: 96.3
+polymarketYes: 4.2
+polymarketNo: 95.8
 polymarketVolume: 9758
 polymarketUrl: "https://polymarket.com/event/theo-fdv-above-1b-one-day-after-launch"
 ---
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/theo-fdv-above-1b-one-day-after-lau
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 3.7% | 96.3% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 4.2% | 95.8% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Bitcoin reach $1,000,000 by December 31, 2026?](/odds/will-bitcoin-reach-1000000-by-december-31-2026) — 2% YES
 - [Abstract FDV above $200M one day after launch?](/odds/abstract-fdv-above-200m-one-day-after-launch) — 76% YES
-- [Metamask FDV above $500M one day after launch?](/odds/metamask-fdv-above-500m-one-day-after-launch) — 62% YES
+- [Will the price of Bitcoin be above $70,000 on May 7?](/odds/will-the-price-of-bitcoin-be-above-70000-on-may-7) — 98% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Theo FDV above $1B one day after launch?"?
 
-As of May 01, 2026, Polymarket prices YES at 3.7%.
+As of May 01, 2026, Polymarket prices YES at 4.2%.
 
 ### Where can I trade on this prediction market?
 

@@ -7,9 +7,9 @@ status: "active"
 lastUpdated: 2026-05-01
 expiryDate: 2026-06-02
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 2.7
-polymarketNo: 97.3
-polymarketVolume: 9818
+polymarketYes: 3.5
+polymarketNo: 96.5
+polymarketVolume: 9870
 polymarketUrl: "https://polymarket.com/event/will-both-candidates-advancing-to-the-general-election-for-governor-of-california-from-the-june-2-2026-primary-be-affiliated-with-the-republican-party"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-both-candidates-advancing-to-t
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 2.7% | 97.3% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 3.5% | 96.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Ro Khanna win the 2028 Democratic presidential nomination?](/odds/will-ro-khanna-win-the-2028-democratic-presidential-nomination) — 2% YES
-- [Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?](/odds/will-amanda-anisimova-be-the-2026-womens-wimbledon-winner) — 7% YES
-- [Will Chad Bianco win the California Governor Election in 2026?](/odds/will-chad-bianco-win-the-california-governor-election-in-2026) — 4% YES
+- [US x Iran permanent peace deal by May 31, 2026?](/odds/us-x-iran-permanent-peace-deal-by-may-31-2026) — 22% YES
+- [Will Chad Bianco win the California Governor Election in 2026?](/odds/will-chad-bianco-win-the-california-governor-election-in-2026) — 6% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will both candidates advancing to the general election for Governor of California from the June 2, 2026 primary be affiliated with the Republican Party?"?
 
-As of May 01, 2026, Polymarket prices YES at 2.7%.
+As of May 01, 2026, Polymarket prices YES at 3.5%.
 
 ### Where can I trade on this prediction market?
 

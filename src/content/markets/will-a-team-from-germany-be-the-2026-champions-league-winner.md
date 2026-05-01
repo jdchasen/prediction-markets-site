@@ -1,15 +1,15 @@
 ---
 title: "Will a team from Germany be the 2026 Champions League winner?"
-description: "Will a team from Germany be the 2026 Champions League winner? Odds: 32.5% YES on Polymarket. See live prices and trade this market."
+description: "Will a team from Germany be the 2026 Champions League winner? Odds: 33.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will a team from Germany be the 2026 Champions League winner?"
 category: "sports"
 status: "active"
 lastUpdated: 2026-05-01
 expiryDate: 2026-06-13
 tags: ["polymarket", "sports"]
-polymarketYes: 32.5
-polymarketNo: 67.5
-polymarketVolume: 9801
+polymarketYes: 33.0
+polymarketNo: 67.0
+polymarketVolume: 9819
 polymarketUrl: "https://polymarket.com/event/will-a-team-from-germany-be-the-2026-champions-league-winner"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-a-team-from-germany-be-the-202
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 32.5% | 67.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 33.0% | 67.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will the Oklahoma City Thunder win the 2026 NBA Finals?](/odds/will-the-oklahoma-city-thunder-win-the-2026-nba-finals) — 56% YES
 - [Will West Ham be relegated from the English Premier League after the 2025–26 season?](/odds/will-west-ham-be-relegated-from-the-english-premier-league-after-the-202526-seas) — 34% YES
-- [Will USA win Group D in the 2026 FIFA World Cup?](/odds/will-usa-win-group-d-in-the-2026-fifa-world-cup) — 34% YES
+- [Will Jason Robertson win the 2025–2026 NHL Hart Memorial Trophy?](/odds/will-jason-robertson-win-the-20252026-nhl-hart-memorial-trophy) — 0% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will a team from Germany be the 2026 Champions League winner?"?
 
-As of May 01, 2026, Polymarket prices YES at 32.5%.
+As of May 01, 2026, Polymarket prices YES at 33.0%.
 
 ### Where can I trade on this prediction market?
 

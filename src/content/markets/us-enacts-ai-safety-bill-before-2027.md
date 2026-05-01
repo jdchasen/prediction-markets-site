@@ -1,15 +1,15 @@
 ---
 title: "U.S. enacts AI safety bill before 2027?"
-description: "U.S. enacts AI safety bill before 2027? Odds: 26.0% YES on Polymarket. See live prices and trade this market."
+description: "U.S. enacts AI safety bill before 2027? Odds: 24.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "U.S. enacts AI safety bill before 2027?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-05-01
 expiryDate: 2026-12-31
 tags: ["ai", "politics", "polymarket"]
-polymarketYes: 26.0
-polymarketNo: 74.0
-polymarketVolume: 97705
+polymarketYes: 24.5
+polymarketNo: 75.5
+polymarketVolume: 97716
 polymarketUrl: "https://polymarket.com/event/us-enacts-ai-safety-bill-before-2027"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/us-enacts-ai-safety-bill-before-202
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 26.0% | 74.0% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 24.5% | 75.5% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Ro Khanna win the 2028 Democratic presidential nomination?](/odds/will-ro-khanna-win-the-2028-democratic-presidential-nomination) — 2% YES
-- [Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?](/odds/will-amanda-anisimova-be-the-2026-womens-wimbledon-winner) — 7% YES
-- [Will Chad Bianco win the California Governor Election in 2026?](/odds/will-chad-bianco-win-the-california-governor-election-in-2026) — 4% YES
+- [US x Iran permanent peace deal by May 31, 2026?](/odds/us-x-iran-permanent-peace-deal-by-may-31-2026) — 22% YES
+- [Will Chad Bianco win the California Governor Election in 2026?](/odds/will-chad-bianco-win-the-california-governor-election-in-2026) — 6% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "U.S. enacts AI safety bill before 2027?"?
 
-As of May 01, 2026, Polymarket prices YES at 26.0%.
+As of May 01, 2026, Polymarket prices YES at 24.5%.
 
 ### Where can I trade on this prediction market?
 
