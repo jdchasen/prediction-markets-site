@@ -3,8 +3,8 @@ title: "Over $20M committed to the Printr public sale?"
 description: "Over $20M committed to the Printr public sale? Odds: 1.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Over $20M committed to the Printr public sale?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-30
+status: "settled"
+lastUpdated: 2026-05-01
 expiryDate: 2026-06-01
 tags: ["politics", "polymarket"]
 polymarketYes: 1.8

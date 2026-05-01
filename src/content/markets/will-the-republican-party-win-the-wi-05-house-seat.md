@@ -3,8 +3,8 @@ title: "Will the Republican Party win the WI-05 House seat?"
 description: "Will the Republican Party win the WI-05 House seat? Odds: 82.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Republican Party win the WI-05 House seat?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-30
+status: "settled"
+lastUpdated: 2026-05-01
 expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
 polymarketYes: 82.5

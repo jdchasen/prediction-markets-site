@@ -3,8 +3,8 @@ title: "Howard Lutnick out as Secretary of Commerce by December 31?"
 description: "Howard Lutnick out as Secretary of Commerce by December 31? Odds: 47.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Howard Lutnick out as Secretary of Commerce by December 31?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-30
+status: "settled"
+lastUpdated: 2026-05-01
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 47.5

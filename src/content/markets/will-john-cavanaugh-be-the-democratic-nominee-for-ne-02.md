@@ -1,23 +1,23 @@
 ---
-title: "Will the Republican Party win the MD-06 House seat?"
-description: "Will the Republican Party win the MD-06 House seat? Odds: 12.0% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will the Republican Party win the MD-06 House seat?"
+title: "Will John Cavanaugh be the Democratic nominee for NE-02?"
+description: "Will John Cavanaugh be the Democratic nominee for NE-02? Odds: 31.0% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will John Cavanaugh be the Democratic nominee for NE-02?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-05-01
-expiryDate: 2026-11-03
+expiryDate: 2026-05-12
 tags: ["politics", "polymarket"]
-polymarketYes: 12.0
-polymarketNo: 88.0
-polymarketVolume: 9733
-polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-md-06-house-seat"
+polymarketYes: 31.0
+polymarketNo: 69.0
+polymarketVolume: 9885
+polymarketUrl: "https://polymarket.com/event/will-john-cavanaugh-be-the-democratic-nominee-for-ne-02"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 12.0% | 88.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 31.0% | 69.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-m
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will the Republican Party win the MD-06 House seat?"?
+### What are the current odds for "Will John Cavanaugh be the Democratic nominee for NE-02?"?
 
-As of May 01, 2026, Polymarket prices YES at 12.0%.
+As of May 01, 2026, Polymarket prices YES at 31.0%.
 
 ### Where can I trade on this prediction market?
 
@@ -37,6 +37,6 @@ You can trade this market on [Polymarket](https://polymarket.us/1762?utm_source=
 
 ## Learn More
 
+- [2028 Democratic Nominee Odds: Market Analysis](/blog/2028-democratic-nominee-odds-market-analysis)
 - [Will Oil Hit $100? March Crude Prediction Market Odds](/blog/will-oil-hit-100-march-crude-prediction-market-odds)
-- [Will ETH Hit $4,500 in 2026? Live Market Odds](/blog/will-ethereum-reach-4500-in-2026-what-prediction-markets-say)
 

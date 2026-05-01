@@ -1,23 +1,23 @@
 ---
-title: "Will Jason Robertson win the 2025–2026 NHL Hart Memorial Trophy?"
-description: "Will Jason Robertson win the 2025–2026 NHL Hart Memorial Trophy? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Jason Robertson win the 2025–2026 NHL Hart Memorial Trophy?"
+title: "Will a team from Germany be the 2026 Champions League winner?"
+description: "Will a team from Germany be the 2026 Champions League winner? Odds: 32.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will a team from Germany be the 2026 Champions League winner?"
 category: "sports"
 status: "active"
 lastUpdated: 2026-05-01
-expiryDate: 2026-06-30
+expiryDate: 2026-06-13
 tags: ["polymarket", "sports"]
-polymarketYes: 0.1
-polymarketNo: 100.0
-polymarketVolume: 9819
-polymarketUrl: "https://polymarket.com/event/nhl-2025-26-hart-memorial-trophy-jason-robertson"
+polymarketYes: 32.5
+polymarketNo: 67.5
+polymarketVolume: 9801
+polymarketUrl: "https://polymarket.com/event/will-a-team-from-germany-be-the-2026-champions-league-winner"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.1% | 100.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 32.5% | 67.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/nhl-2025-26-hart-memorial-trophy-ja
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Jason Robertson win the 2025–2026 NHL Hart Memorial Trophy?"?
+### What are the current odds for "Will a team from Germany be the 2026 Champions League winner?"?
 
-As of May 01, 2026, Polymarket prices YES at 0.1%.
+As of May 01, 2026, Polymarket prices YES at 32.5%.
 
 ### Where can I trade on this prediction market?
 

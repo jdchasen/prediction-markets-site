@@ -3,8 +3,8 @@ title: "Will Seo Jae-heon win the 2026 Daegu mayoral election?"
 description: "Will Seo Jae-heon win the 2026 Daegu mayoral election? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Seo Jae-heon win the 2026 Daegu mayoral election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-04-30
+status: "settled"
+lastUpdated: 2026-05-01
 expiryDate: 2026-06-03
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.1

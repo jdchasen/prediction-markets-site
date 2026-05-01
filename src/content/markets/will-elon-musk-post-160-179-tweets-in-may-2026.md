@@ -4,7 +4,7 @@ description: "Will Elon Musk post 160-179 tweets in May 2026? Odds: 0.1% YES on 
 marketQuestion: "Will Elon Musk post 160-179 tweets in May 2026?"
 category: "tech"
 status: "active"
-lastUpdated: 2026-04-30
+lastUpdated: 2026-05-01
 expiryDate: 2026-06-01
 tags: ["polymarket", "tech"]
 polymarketYes: 0.1
@@ -21,14 +21,13 @@ polymarketUrl: "https://polymarket.com/event/elon-musk-of-tweets-may-2026-160-17
 
 ## Related Markets
 
-- [Will UBS or any of its underwriting affiliates serve as the lead underwriter in SpaceX’s initial public offering?](/odds/will-ubs-or-any-of-its-underwriting-affiliates-serve-as-the-lead-underwriter-in-) — 0% YES
-- [Will SpaceX’s initial public offering occur in September 2026 (ET)?](/odds/will-spacexs-initial-public-offering-occur-in-september-2026-et) — 3% YES
+- [Will Elon Musk post 140-159 tweets in May 2026?](/odds/will-elon-musk-post-140-159-tweets-in-may-2026) — 0% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Elon Musk post 160-179 tweets in May 2026?"?
 
-As of April 30, 2026, Polymarket prices YES at 0.1%.
+As of May 01, 2026, Polymarket prices YES at 0.1%.
 
 ### Where can I trade on this prediction market?
 

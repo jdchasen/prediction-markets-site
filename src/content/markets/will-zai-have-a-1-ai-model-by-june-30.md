@@ -1,23 +1,23 @@
 ---
-title: "Will the Republican Party win the MD-06 House seat?"
-description: "Will the Republican Party win the MD-06 House seat? Odds: 12.0% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will the Republican Party win the MD-06 House seat?"
+title: "Will Z.ai have a #1 AI model by June 30?"
+description: "Will Z.ai have a #1 AI model by June 30? Odds: 3.3% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Z.ai have a #1 AI model by June 30?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-05-01
-expiryDate: 2026-11-03
-tags: ["politics", "polymarket"]
-polymarketYes: 12.0
-polymarketNo: 88.0
-polymarketVolume: 9733
-polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-md-06-house-seat"
+expiryDate: 2026-06-30
+tags: ["ai", "politics", "polymarket"]
+polymarketYes: 3.3
+polymarketNo: 96.7
+polymarketVolume: 9992
+polymarketUrl: "https://polymarket.com/event/will-zai-have-a-1-ai-model-by-june-30"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 12.0% | 88.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 3.3% | 96.7% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-m
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will the Republican Party win the MD-06 House seat?"?
+### What are the current odds for "Will Z.ai have a #1 AI model by June 30?"?
 
-As of May 01, 2026, Polymarket prices YES at 12.0%.
+As of May 01, 2026, Polymarket prices YES at 3.3%.
 
 ### Where can I trade on this prediction market?
 

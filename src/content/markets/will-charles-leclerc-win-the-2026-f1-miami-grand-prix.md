@@ -3,8 +3,8 @@ title: "Will Charles Leclerc win the 2026 F1 Miami Grand Prix?"
 description: "Will Charles Leclerc win the 2026 F1 Miami Grand Prix? Odds: 7.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Charles Leclerc win the 2026 F1 Miami Grand Prix?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-04-30
+status: "settled"
+lastUpdated: 2026-05-01
 expiryDate: 2026-05-10
 tags: ["polymarket", "sports"]
 polymarketYes: 7.0

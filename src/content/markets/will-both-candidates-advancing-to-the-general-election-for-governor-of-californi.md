@@ -1,23 +1,23 @@
 ---
-title: "Will Adam Miller win the 2026 Los Angeles mayoral election?"
-description: "Will Adam Miller win the 2026 Los Angeles mayoral election? Odds: 0.9% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Adam Miller win the 2026 Los Angeles mayoral election?"
+title: "Will both candidates advancing to the general election for Governor of California from the June 2, 2026 primary be affiliated with the Republican Party?"
+description: "Will both candidates advancing to the general election for Governor of California from the June 2, 2026 primary be affiliated with the Republican Party? Odds..."
+marketQuestion: "Will both candidates advancing to the general election for Governor of California from the June 2, 2026 primary be affiliated with the Republican Party?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-05-01
 expiryDate: 2026-06-02
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 0.9
-polymarketNo: 99.1
-polymarketVolume: 98800
-polymarketUrl: "https://polymarket.com/event/will-adam-miller-win-the-2026-los-angeles-mayoral-election"
+polymarketYes: 2.7
+polymarketNo: 97.3
+polymarketVolume: 9818
+polymarketUrl: "https://polymarket.com/event/will-both-candidates-advancing-to-the-general-election-for-governor-of-california-from-the-june-2-2026-primary-be-affiliated-with-the-republican-party"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.9% | 99.1% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 2.7% | 97.3% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-adam-miller-win-the-2026-los-a
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Adam Miller win the 2026 Los Angeles mayoral election?"?
+### What are the current odds for "Will both candidates advancing to the general election for Governor of California from the June 2, 2026 primary be affiliated with the Republican Party?"?
 
-As of May 01, 2026, Polymarket prices YES at 0.9%.
+As of May 01, 2026, Polymarket prices YES at 2.7%.
 
 ### Where can I trade on this prediction market?
 

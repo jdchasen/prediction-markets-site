@@ -1,15 +1,15 @@
 ---
 title: "Fed rate hike in 2026?"
-description: "Fed rate hike in 2026? Odds: 16.5% YES on Polymarket. See live prices and trade this market."
+description: "Fed rate hike in 2026? Odds: 19.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Fed rate hike in 2026?"
 category: "economics"
 status: "active"
-lastUpdated: 2026-04-30
+lastUpdated: 2026-05-01
 expiryDate: 2026-12-09
 tags: ["economics", "federal-reserve", "polymarket"]
-polymarketYes: 16.5
-polymarketNo: 83.5
-polymarketVolume: 994387
+polymarketYes: 19.0
+polymarketNo: 81.0
+polymarketVolume: 976717
 polymarketUrl: "https://polymarket.com/event/fed-rate-hike-in-2026"
 ---
 
@@ -17,18 +17,17 @@ polymarketUrl: "https://polymarket.com/event/fed-rate-hike-in-2026"
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 16.5% | 83.5% | $994K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 19.0% | 81.0% | $977K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will UK GDP growth in Q1 2026 be between 0% and 0.3%?](/odds/will-uk-gdp-growth-in-q1-2026-be-between-0-and-03) — 18% YES
-- [Will Bernie Sanders vote to confirm Kevin Warsh as Chair of the Federal Reserve?](/odds/will-bernie-sanders-vote-to-confirm-kevin-warsh-as-chair-of-the-federal-reserve) — 2% YES
+- [Will annual inflation increase by 4.0% in April?](/odds/will-annual-inflation-increase-by-40-in-april) — 2% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Fed rate hike in 2026?"?
 
-As of April 30, 2026, Polymarket prices YES at 16.5%.
+As of May 01, 2026, Polymarket prices YES at 19.0%.
 
 ### Where can I trade on this prediction market?
 

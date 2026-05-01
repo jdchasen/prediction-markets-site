@@ -1,23 +1,23 @@
 ---
-title: "Will the Republican Party win the MD-06 House seat?"
-description: "Will the Republican Party win the MD-06 House seat? Odds: 12.0% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will the Republican Party win the MD-06 House seat?"
+title: "James Comey sentenced to Prison in 2026?"
+description: "James Comey sentenced to Prison in 2026? Odds: 8.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "James Comey sentenced to Prison in 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-05-01
-expiryDate: 2026-11-03
+expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 12.0
-polymarketNo: 88.0
-polymarketVolume: 9733
-polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-md-06-house-seat"
+polymarketYes: 8.5
+polymarketNo: 91.5
+polymarketVolume: 99316
+polymarketUrl: "https://polymarket.com/event/james-comey-sentenced-to-prison-in-2026"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 12.0% | 88.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 8.5% | 91.5% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-m
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will the Republican Party win the MD-06 House seat?"?
+### What are the current odds for "James Comey sentenced to Prison in 2026?"?
 
-As of May 01, 2026, Polymarket prices YES at 12.0%.
+As of May 01, 2026, Polymarket prices YES at 8.5%.
 
 ### Where can I trade on this prediction market?
 
@@ -37,6 +37,6 @@ You can trade this market on [Polymarket](https://polymarket.us/1762?utm_source=
 
 ## Learn More
 
-- [Will Oil Hit $100? March Crude Prediction Market Odds](/blog/will-oil-hit-100-march-crude-prediction-market-odds)
 - [Will ETH Hit $4,500 in 2026? Live Market Odds](/blog/will-ethereum-reach-4500-in-2026-what-prediction-markets-say)
+- [Will Discord IPO in 2026? What Prediction Markets Say](/blog/will-discord-ipo-in-2026-what-prediction-markets-say)
 

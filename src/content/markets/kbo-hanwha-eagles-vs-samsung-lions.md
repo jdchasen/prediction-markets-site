@@ -1,23 +1,23 @@
 ---
-title: "Nothing Ever Happens: Obama"
-description: "Nothing Ever Happens: Obama Odds: 88.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Nothing Ever Happens: Obama"
+title: "KBO: Hanwha Eagles vs. Samsung Lions"
+description: "KBO: Hanwha Eagles vs. Samsung Lions Odds: 0.4% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "KBO: Hanwha Eagles vs. Samsung Lions"
 category: "politics"
 status: "active"
 lastUpdated: 2026-05-01
-expiryDate: 2026-12-31
+expiryDate: 2026-05-08
 tags: ["politics", "polymarket"]
-polymarketYes: 88.5
-polymarketNo: 11.5
-polymarketVolume: 9914
-polymarketUrl: "https://polymarket.com/event/nothing-ever-happens-obama"
+polymarketYes: 0.4
+polymarketNo: 99.6
+polymarketVolume: 9767
+polymarketUrl: "https://polymarket.com/event/kbo-han-sam-2026-05-01"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 88.5% | 11.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.4% | 99.6% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,16 +27,11 @@ polymarketUrl: "https://polymarket.com/event/nothing-ever-happens-obama"
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Nothing Ever Happens: Obama"?
+### What are the current odds for "KBO: Hanwha Eagles vs. Samsung Lions"?
 
-As of May 01, 2026, Polymarket prices YES at 88.5%.
+As of May 01, 2026, Polymarket prices YES at 0.4%.
 
 ### Where can I trade on this prediction market?
 
 You can trade this market on [Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) (crypto-based).
-
-## Learn More
-
-- [Tesla SpaceX Merger: Will It Actually Happen in 2026?](/blog/tesla-spacex-merger-will-it-actually-happen-in-2026)
-- [Two Days to Bombs or Nothing | Daily Market Pulse](/blog/daily-market-pulse-2026-02-26)
 

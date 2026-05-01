@@ -3,8 +3,8 @@ title: "Will the Boston Celtics win the NBA Eastern Conference Finals?"
 description: "Will the Boston Celtics win the NBA Eastern Conference Finals? Odds: 46.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Boston Celtics win the NBA Eastern Conference Finals?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-04-30
+status: "settled"
+lastUpdated: 2026-05-01
 expiryDate: 2026-06-13
 tags: ["polymarket", "sports"]
 polymarketYes: 46.7

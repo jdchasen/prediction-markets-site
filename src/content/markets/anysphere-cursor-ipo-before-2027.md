@@ -4,7 +4,7 @@ description: "Anysphere (Cursor) IPO before 2027? Odds: 6.5% YES on Polymarket. 
 marketQuestion: "Anysphere (Cursor) IPO before 2027?"
 category: "finance"
 status: "active"
-lastUpdated: 2026-04-30
+lastUpdated: 2026-05-01
 expiryDate: 2026-12-31
 tags: ["finance", "polymarket"]
 polymarketYes: 6.5
@@ -21,15 +21,15 @@ polymarketUrl: "https://polymarket.com/event/anysphere-cursor-ipo-before-2027"
 
 ## Related Markets
 
-- [Will Microsoft be the largest company in the world by market cap on June 30?](/odds/will-microsoft-be-the-largest-company-in-the-world-by-market-cap-on-june-30) — 0% YES
+- [Will Discord’s market cap be $30B or greater at market close on IPO day?](/odds/will-discords-market-cap-be-30b-or-greater-at-market-close-on-ipo-day) — 2% YES
 - [Will SpaceX's market cap be between $1.8T and $2.0T at market close on IPO day?](/odds/will-spacexs-market-cap-be-between-18t-and-20t-at-market-close-on-ipo-day) — 13% YES
-- [Will Discord’s market cap be $30B or greater at market close on IPO day?](/odds/will-discords-market-cap-be-30b-or-greater-at-market-close-on-ipo-day) — 3% YES
+- [Will OpenAI’s market cap be $1.5T or greater at market close on IPO day?](/odds/will-openais-market-cap-be-15t-or-greater-at-market-close-on-ipo-day) — 5% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Anysphere (Cursor) IPO before 2027?"?
 
-As of April 30, 2026, Polymarket prices YES at 6.5%.
+As of May 01, 2026, Polymarket prices YES at 6.5%.
 
 ### Where can I trade on this prediction market?
 

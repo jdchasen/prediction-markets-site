@@ -3,13 +3,13 @@ title: "Will Bitcoin reach $1,000,000 by December 31, 2026?"
 description: "Will Bitcoin reach $1,000,000 by December 31, 2026? Odds: 1.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Bitcoin reach $1,000,000 by December 31, 2026?"
 category: "crypto"
-status: "settled"
-lastUpdated: 2026-04-30
+status: "active"
+lastUpdated: 2026-05-01
 expiryDate: 2027-01-01
 tags: ["bitcoin", "crypto", "polymarket"]
 polymarketYes: 1.8
 polymarketNo: 98.2
-polymarketVolume: 985390
+polymarketVolume: 988624
 polymarketUrl: "https://polymarket.com/event/will-bitcoin-reach-1000000-by-december-31-2026-946"
 ---
 
@@ -17,18 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-bitcoin-reach-1000000-by-decem
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 1.8% | 98.2% | $985K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 1.8% | 98.2% | $989K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Abstract FDV above $200M one day after launch?](/odds/abstract-fdv-above-200m-one-day-after-launch) — 74% YES
-- [Metamask FDV above $500M one day after launch?](/odds/metamask-fdv-above-500m-one-day-after-launch) — 33% YES
+- [Abstract FDV above $200M one day after launch?](/odds/abstract-fdv-above-200m-one-day-after-launch) — 76% YES
+- [Metamask FDV above $500M one day after launch?](/odds/metamask-fdv-above-500m-one-day-after-launch) — 62% YES
+- [Theo FDV above $1B one day after launch?](/odds/theo-fdv-above-1b-one-day-after-launch) — 4% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Bitcoin reach $1,000,000 by December 31, 2026?"?
 
-As of April 30, 2026, Polymarket prices YES at 1.8%.
+As of May 01, 2026, Polymarket prices YES at 1.8%.
 
 ### Where can I trade on this prediction market?
 

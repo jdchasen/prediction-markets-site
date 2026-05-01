@@ -1,15 +1,15 @@
 ---
 title: "Will USA win Group D in the 2026 FIFA World Cup?"
-description: "Will USA win Group D in the 2026 FIFA World Cup? Odds: 35.0% YES on Polymarket. See live prices and trade this market."
+description: "Will USA win Group D in the 2026 FIFA World Cup? Odds: 34.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will USA win Group D in the 2026 FIFA World Cup?"
 category: "sports"
 status: "active"
-lastUpdated: 2026-04-30
+lastUpdated: 2026-05-01
 expiryDate: 2026-06-27
 tags: ["polymarket", "sports"]
-polymarketYes: 35.0
-polymarketNo: 65.0
-polymarketVolume: 9953
+polymarketYes: 34.5
+polymarketNo: 65.5
+polymarketVolume: 9965
 polymarketUrl: "https://polymarket.com/event/will-usa-win-group-d-in-the-2026-fifa-world-cup"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-usa-win-group-d-in-the-2026-fi
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 35.0% | 65.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 34.5% | 65.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will the Oklahoma City Thunder win the 2026 NBA Finals?](/odds/will-the-oklahoma-city-thunder-win-the-2026-nba-finals) — 52% YES
-- [Will Valtteri Bottas be the 2026 F1 Drivers' Champion?](/odds/will-valtteri-bottas-be-the-2026-f1-drivers-champion) — 0% YES
-- [Will the Boston Celtics win the NBA Eastern Conference Finals?](/odds/will-the-boston-celtics-win-the-nba-eastern-conference-finals) — 47% YES
+- [Will the Oklahoma City Thunder win the 2026 NBA Finals?](/odds/will-the-oklahoma-city-thunder-win-the-2026-nba-finals) — 56% YES
+- [Will West Ham be relegated from the English Premier League after the 2025–26 season?](/odds/will-west-ham-be-relegated-from-the-english-premier-league-after-the-202526-seas) — 34% YES
+- [Will Jason Robertson win the 2025–2026 NHL Hart Memorial Trophy?](/odds/will-jason-robertson-win-the-20252026-nhl-hart-memorial-trophy) — 0% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will USA win Group D in the 2026 FIFA World Cup?"?
 
-As of April 30, 2026, Polymarket prices YES at 35.0%.
+As of May 01, 2026, Polymarket prices YES at 34.5%.
 
 ### Where can I trade on this prediction market?
 
