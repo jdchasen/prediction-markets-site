@@ -19,6 +19,10 @@ polymarketUrl: "https://polymarket.com/event/elon-musk-of-tweets-may-2026-160-17
 |----------|-----|-----|--------|-------|
 | Polymarket | 0.1% | 100.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
+## Related Markets
+
+- [Will Elon Musk post 100-119 tweets from May 5 to May 12, 2026?](/odds/will-elon-musk-post-100-119-tweets-from-may-5-to-may-12-2026) — 3% YES
+
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Elon Musk post 160-179 tweets in May 2026?"?

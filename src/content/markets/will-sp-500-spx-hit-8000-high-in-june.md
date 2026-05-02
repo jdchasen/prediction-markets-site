@@ -9,7 +9,7 @@ expiryDate: 2026-06-30
 tags: ["finance", "polymarket", "stocks"]
 polymarketYes: 3.2
 polymarketNo: 96.8
-polymarketVolume: 9806
+polymarketVolume: 9828
 polymarketUrl: "https://polymarket.com/event/spx-hit-8000-high-jun-2026"
 ---
 
@@ -22,8 +22,8 @@ polymarketUrl: "https://polymarket.com/event/spx-hit-8000-high-jun-2026"
 ## Related Markets
 
 - [Will Microsoft be the largest company in the world by market cap on June 30?](/odds/will-microsoft-be-the-largest-company-in-the-world-by-market-cap-on-june-30) — 0% YES
-- [Will Discord’s market cap be $30B or greater at market close on IPO day?](/odds/will-discords-market-cap-be-30b-or-greater-at-market-close-on-ipo-day) — 2% YES
-- [Will SpaceX's market cap be between $1.8T and $2.0T at market close on IPO day?](/odds/will-spacexs-market-cap-be-between-18t-and-20t-at-market-close-on-ipo-day) — 13% YES
+- [Will OpenAI’s market cap be $1.5T or greater at market close on IPO day?](/odds/will-openais-market-cap-be-15t-or-greater-at-market-close-on-ipo-day) — 12% YES
+- [Will Discord’s market cap be $30B or greater at market close on IPO day?](/odds/will-discords-market-cap-be-30b-or-greater-at-market-close-on-ipo-day) — 3% YES
 
 ## Frequently Asked Questions
 

@@ -3,7 +3,7 @@ title: "Will the April 2026 unemployment rate be 4.4%?"
 description: "Will the April 2026 unemployment rate be 4.4%? Odds: 19.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the April 2026 unemployment rate be 4.4%?"
 category: "economics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-02
 expiryDate: 2026-05-08
 tags: ["economics", "polymarket"]

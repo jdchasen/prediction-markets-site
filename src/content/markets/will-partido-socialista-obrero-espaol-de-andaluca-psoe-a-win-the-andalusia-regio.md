@@ -3,7 +3,7 @@ title: "Will Partido Socialista Obrero Español de Andalucía (PSOE-A) win the A
 description: "Will Partido Socialista Obrero Español de Andalucía (PSOE-A) win the Andalusia regional election? Odds: 0.7% YES on Polymarket. See live prices and trade thi..."
 marketQuestion: "Will Partido Socialista Obrero Español de Andalucía (PSOE-A) win the Andalusia regional election?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-02
 expiryDate: 2026-05-17
 tags: ["elections", "politics", "polymarket"]

@@ -22,8 +22,8 @@ polymarketUrl: "https://polymarket.com/event/abstract-fdv-above-200m-one-day-aft
 ## Related Markets
 
 - [Will Bitcoin reach $1,000,000 by December 31, 2026?](/odds/will-bitcoin-reach-1000000-by-december-31-2026) — 2% YES
-- [Will the price of Bitcoin be above $70,000 on May 7?](/odds/will-the-price-of-bitcoin-be-above-70000-on-may-7) — 99% YES
-- [Metamask FDV above $500M one day after launch?](/odds/metamask-fdv-above-500m-one-day-after-launch) — 56% YES
+- [Will Bitcoin reach $85,000 in May?](/odds/will-bitcoin-reach-85000-in-may) — 44% YES
+- [Metamask FDV above $500M one day after launch?](/odds/metamask-fdv-above-500m-one-day-after-launch) — 44% YES
 
 ## Frequently Asked Questions
 

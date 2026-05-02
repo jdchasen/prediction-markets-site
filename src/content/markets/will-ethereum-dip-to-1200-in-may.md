@@ -1,23 +1,23 @@
 ---
-title: "Theo FDV above $1B one day after launch?"
-description: "Theo FDV above $1B one day after launch? Odds: 4.0% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Theo FDV above $1B one day after launch?"
+title: "Will Ethereum dip to $1,200 in May?"
+description: "Will Ethereum dip to $1,200 in May? Odds: 0.8% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Ethereum dip to $1,200 in May?"
 category: "crypto"
 status: "active"
 lastUpdated: 2026-05-02
-expiryDate: 2027-01-01
-tags: ["crypto", "polymarket"]
-polymarketYes: 4.0
-polymarketNo: 96.0
-polymarketVolume: 9758
-polymarketUrl: "https://polymarket.com/event/theo-fdv-above-1b-one-day-after-launch"
+expiryDate: 2026-06-01
+tags: ["crypto", "ethereum", "polymarket"]
+polymarketYes: 0.8
+polymarketNo: 99.2
+polymarketVolume: 9766
+polymarketUrl: "https://polymarket.com/event/will-ethereum-dip-to-1200-in-may-2026"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 4.0% | 96.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.8% | 99.2% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/theo-fdv-above-1b-one-day-after-lau
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Theo FDV above $1B one day after launch?"?
+### What are the current odds for "Will Ethereum dip to $1,200 in May?"?
 
-As of May 02, 2026, Polymarket prices YES at 4.0%.
+As of May 02, 2026, Polymarket prices YES at 0.8%.
 
 ### Where can I trade on this prediction market?
 

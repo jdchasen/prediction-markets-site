@@ -1,23 +1,23 @@
 ---
-title: "Will SpaceX's market cap be between $1.8T and $2.0T at market close on IPO day?"
-description: "Will SpaceX's market cap be between $1.8T and $2.0T at market close on IPO day? Odds: 13.0% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will SpaceX's market cap be between $1.8T and $2.0T at market close on IPO day?"
+title: "Will Apple be the largest company in the world by market cap on May 31?"
+description: "Will Apple be the largest company in the world by market cap on May 31? Odds: 0.8% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Apple be the largest company in the world by market cap on May 31?"
 category: "finance"
 status: "active"
 lastUpdated: 2026-05-02
-expiryDate: 2027-12-31
+expiryDate: 2026-05-31
 tags: ["finance", "polymarket"]
-polymarketYes: 13.0
-polymarketNo: 87.0
-polymarketVolume: 97752
-polymarketUrl: "https://polymarket.com/event/will-spacexs-market-cap-be-between-1pt8t-and-2pt0t-at-market-close-on-ipo-day-516"
+polymarketYes: 0.8
+polymarketNo: 99.2
+polymarketVolume: 98236
+polymarketUrl: "https://polymarket.com/event/will-apple-be-the-largest-company-in-the-world-by-market-cap-on-may-31-332"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 13.0% | 87.0% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.8% | 99.2% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-spacexs-market-cap-be-between-
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will SpaceX's market cap be between $1.8T and $2.0T at market close on IPO day?"?
+### What are the current odds for "Will Apple be the largest company in the world by market cap on May 31?"?
 
-As of May 02, 2026, Polymarket prices YES at 13.0%.
+As of May 02, 2026, Polymarket prices YES at 0.8%.
 
 ### Where can I trade on this prediction market?
 

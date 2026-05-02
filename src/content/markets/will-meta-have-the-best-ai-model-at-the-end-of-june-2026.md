@@ -3,7 +3,7 @@ title: "Will Meta have the best AI model at the end of June 2026?"
 description: "Will Meta have the best AI model at the end of June 2026? Odds: 0.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Meta have the best AI model at the end of June 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-02
 expiryDate: 2026-06-30
 tags: ["ai", "politics", "polymarket"]

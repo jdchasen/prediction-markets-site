@@ -9,7 +9,7 @@ expiryDate: 2026-12-09
 tags: ["economics", "federal-reserve", "polymarket"]
 polymarketYes: 18.5
 polymarketNo: 81.5
-polymarketVolume: 979888
+polymarketVolume: 980091
 polymarketUrl: "https://polymarket.com/event/fed-rate-hike-in-2026"
 ---
 
@@ -21,8 +21,7 @@ polymarketUrl: "https://polymarket.com/event/fed-rate-hike-in-2026"
 
 ## Related Markets
 
-- [Fed rate cut by December 2026 meeting?](/odds/fed-rate-cut-by-december-2026-meeting) — 48% YES
-- [Will the April 2026 unemployment rate be 4.4%?](/odds/will-the-april-2026-unemployment-rate-be-44) — 19% YES
+- [Fed rate cut by December 2026 meeting?](/odds/fed-rate-cut-by-december-2026-meeting) — 46% YES
 
 ## Frequently Asked Questions
 

@@ -1,23 +1,23 @@
 ---
-title: "Jimmy Lai released by June 30?"
-description: "Jimmy Lai released by June 30? Odds: 2.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Jimmy Lai released by June 30?"
+title: "Gladiators Trier vs. EWE Baskets Oldenburg"
+description: "Gladiators Trier vs. EWE Baskets Oldenburg Odds: 0.1% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Gladiators Trier vs. EWE Baskets Oldenburg"
 category: "politics"
 status: "active"
 lastUpdated: 2026-05-02
-expiryDate: 2026-06-30
-tags: ["ai", "politics", "polymarket"]
-polymarketYes: 2.5
-polymarketNo: 97.5
-polymarketVolume: 98007
-polymarketUrl: "https://polymarket.com/event/jimmy-lai-released-by-june-30"
+expiryDate: 2026-05-09
+tags: ["politics", "polymarket"]
+polymarketYes: 0.1
+polymarketNo: 100.0
+polymarketVolume: 9727
+polymarketUrl: "https://polymarket.com/event/bkbbl-gla-ewe-2026-05-02"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 2.5% | 97.5% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.1% | 100.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/jimmy-lai-released-by-june-30"
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Jimmy Lai released by June 30?"?
+### What are the current odds for "Gladiators Trier vs. EWE Baskets Oldenburg"?
 
-As of May 02, 2026, Polymarket prices YES at 2.5%.
+As of May 02, 2026, Polymarket prices YES at 0.1%.
 
 ### Where can I trade on this prediction market?
 

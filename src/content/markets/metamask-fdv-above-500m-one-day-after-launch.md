@@ -1,14 +1,14 @@
 ---
 title: "Metamask FDV above $500M one day after launch?"
-description: "Metamask FDV above $500M one day after launch? Odds: 55.5% YES on Polymarket. See live prices and trade this market."
+description: "Metamask FDV above $500M one day after launch? Odds: 44.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Metamask FDV above $500M one day after launch?"
 category: "crypto"
 status: "active"
 lastUpdated: 2026-05-02
 expiryDate: 2027-01-01
 tags: ["crypto", "polymarket"]
-polymarketYes: 55.5
-polymarketNo: 44.5
+polymarketYes: 44.5
+polymarketNo: 55.5
 polymarketVolume: 9796
 polymarketUrl: "https://polymarket.com/event/metamask-fdv-above-500m-one-day-after-launch-584-889-774"
 ---
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/metamask-fdv-above-500m-one-day-aft
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 55.5% | 44.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 44.5% | 55.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Bitcoin reach $1,000,000 by December 31, 2026?](/odds/will-bitcoin-reach-1000000-by-december-31-2026) — 2% YES
 - [Abstract FDV above $200M one day after launch?](/odds/abstract-fdv-above-200m-one-day-after-launch) — 76% YES
-- [Will the price of Bitcoin be above $70,000 on May 7?](/odds/will-the-price-of-bitcoin-be-above-70000-on-may-7) — 99% YES
+- [Will Bitcoin reach $85,000 in May?](/odds/will-bitcoin-reach-85000-in-may) — 44% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Metamask FDV above $500M one day after launch?"?
 
-As of May 02, 2026, Polymarket prices YES at 55.5%.
+As of May 02, 2026, Polymarket prices YES at 44.5%.
 
 ### Where can I trade on this prediction market?
 

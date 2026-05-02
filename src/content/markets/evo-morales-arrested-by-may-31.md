@@ -3,7 +3,7 @@ title: "Evo Morales arrested by May 31"
 description: "Evo Morales arrested by May 31 Odds: 18.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Evo Morales arrested by May 31"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-02
 expiryDate: 2026-05-31
 tags: ["politics", "polymarket"]
