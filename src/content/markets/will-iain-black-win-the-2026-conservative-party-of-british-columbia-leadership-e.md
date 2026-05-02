@@ -1,15 +1,15 @@
 ---
 title: "Will Iain Black win the 2026 Conservative Party of British Columbia leadership election?"
-description: "Will Iain Black win the 2026 Conservative Party of British Columbia leadership election? Odds: 8.3% YES on Polymarket. See live prices and trade this market."
+description: "Will Iain Black win the 2026 Conservative Party of British Columbia leadership election? Odds: 6.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Iain Black win the 2026 Conservative Party of British Columbia leadership election?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-01
+lastUpdated: 2026-05-02
 expiryDate: 2026-05-30
 tags: ["ai", "elections", "politics", "polymarket"]
-polymarketYes: 8.3
-polymarketNo: 91.7
-polymarketVolume: 9736
+polymarketYes: 6.8
+polymarketNo: 93.2
+polymarketVolume: 9821
 polymarketUrl: "https://polymarket.com/event/will-iain-black-win-the-2026-conservative-party-of-british-columbia-leadership-election"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-iain-black-win-the-2026-conser
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 8.3% | 91.7% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 6.8% | 93.2% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Ro Khanna win the 2028 Democratic presidential nomination?](/odds/will-ro-khanna-win-the-2028-democratic-presidential-nomination) — 2% YES
-- [US x Iran permanent peace deal by May 31, 2026?](/odds/us-x-iran-permanent-peace-deal-by-may-31-2026) — 22% YES
-- [Will Chad Bianco win the California Governor Election in 2026?](/odds/will-chad-bianco-win-the-california-governor-election-in-2026) — 6% YES
+- [Will the US acquire part of Greenland in 2026?](/odds/will-the-us-acquire-part-of-greenland-in-2026) — 14% YES
+- [Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?](/odds/will-amanda-anisimova-be-the-2026-womens-wimbledon-winner) — 8% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Iain Black win the 2026 Conservative Party of British Columbia leadership election?"?
 
-As of May 01, 2026, Polymarket prices YES at 8.3%.
+As of May 02, 2026, Polymarket prices YES at 6.8%.
 
 ### Where can I trade on this prediction market?
 

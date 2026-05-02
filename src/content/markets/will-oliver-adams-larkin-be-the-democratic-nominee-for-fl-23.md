@@ -1,15 +1,15 @@
 ---
 title: "Will Oliver Adams Larkin be the Democratic Nominee for FL-23?"
-description: "Will Oliver Adams Larkin be the Democratic Nominee for FL-23? Odds: 45.0% YES on Polymarket. See live prices and trade this market."
+description: "Will Oliver Adams Larkin be the Democratic Nominee for FL-23? Odds: 42.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Oliver Adams Larkin be the Democratic Nominee for FL-23?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-01
+lastUpdated: 2026-05-02
 expiryDate: 2026-08-18
 tags: ["politics", "polymarket"]
-polymarketYes: 45.0
-polymarketNo: 55.0
-polymarketVolume: 9727
+polymarketYes: 42.5
+polymarketNo: 57.5
+polymarketVolume: 9776
 polymarketUrl: "https://polymarket.com/event/will-oliver-adams-larkin-be-the-democratic-nominee-for-fl-23"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-oliver-adams-larkin-be-the-dem
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 45.0% | 55.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 42.5% | 57.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Ro Khanna win the 2028 Democratic presidential nomination?](/odds/will-ro-khanna-win-the-2028-democratic-presidential-nomination) — 2% YES
-- [US x Iran permanent peace deal by May 31, 2026?](/odds/us-x-iran-permanent-peace-deal-by-may-31-2026) — 22% YES
-- [Will Chad Bianco win the California Governor Election in 2026?](/odds/will-chad-bianco-win-the-california-governor-election-in-2026) — 6% YES
+- [Will the US acquire part of Greenland in 2026?](/odds/will-the-us-acquire-part-of-greenland-in-2026) — 14% YES
+- [Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?](/odds/will-amanda-anisimova-be-the-2026-womens-wimbledon-winner) — 8% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Oliver Adams Larkin be the Democratic Nominee for FL-23?"?
 
-As of May 01, 2026, Polymarket prices YES at 45.0%.
+As of May 02, 2026, Polymarket prices YES at 42.5%.
 
 ### Where can I trade on this prediction market?
 

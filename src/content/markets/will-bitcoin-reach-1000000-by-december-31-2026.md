@@ -1,15 +1,15 @@
 ---
 title: "Will Bitcoin reach $1,000,000 by December 31, 2026?"
-description: "Will Bitcoin reach $1,000,000 by December 31, 2026? Odds: 1.9% YES on Polymarket. See live prices and trade this market."
+description: "Will Bitcoin reach $1,000,000 by December 31, 2026? Odds: 1.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Bitcoin reach $1,000,000 by December 31, 2026?"
 category: "crypto"
 status: "active"
-lastUpdated: 2026-05-01
+lastUpdated: 2026-05-02
 expiryDate: 2027-01-01
 tags: ["bitcoin", "crypto", "polymarket"]
-polymarketYes: 1.9
-polymarketNo: 98.1
-polymarketVolume: 995079
+polymarketYes: 1.8
+polymarketNo: 98.2
+polymarketVolume: 996762
 polymarketUrl: "https://polymarket.com/event/will-bitcoin-reach-1000000-by-december-31-2026-946"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-bitcoin-reach-1000000-by-decem
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 1.9% | 98.1% | $995K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 1.8% | 98.2% | $997K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Abstract FDV above $200M one day after launch?](/odds/abstract-fdv-above-200m-one-day-after-launch) — 76% YES
-- [Will the price of Bitcoin be above $70,000 on May 7?](/odds/will-the-price-of-bitcoin-be-above-70000-on-may-7) — 98% YES
-- [Metamask FDV above $500M one day after launch?](/odds/metamask-fdv-above-500m-one-day-after-launch) — 59% YES
+- [Will the price of Bitcoin be above $70,000 on May 7?](/odds/will-the-price-of-bitcoin-be-above-70000-on-may-7) — 99% YES
+- [Metamask FDV above $500M one day after launch?](/odds/metamask-fdv-above-500m-one-day-after-launch) — 56% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Bitcoin reach $1,000,000 by December 31, 2026?"?
 
-As of May 01, 2026, Polymarket prices YES at 1.9%.
+As of May 02, 2026, Polymarket prices YES at 1.8%.
 
 ### Where can I trade on this prediction market?
 

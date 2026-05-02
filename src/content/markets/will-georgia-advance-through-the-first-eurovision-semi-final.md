@@ -3,8 +3,8 @@ title: "Will Georgia advance through the first Eurovision Semi-Final?"
 description: "Will Georgia advance through the first Eurovision Semi-Final? Odds: 44.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Georgia advance through the first Eurovision Semi-Final?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-01
+status: "settled"
+lastUpdated: 2026-05-02
 expiryDate: 2026-05-12
 tags: ["politics", "polymarket"]
 polymarketYes: 44.0

@@ -3,8 +3,8 @@ title: "Will Kerry-Lynne Findlay win the 2026 Conservative Party of British Colu
 description: "Will Kerry-Lynne Findlay win the 2026 Conservative Party of British Columbia leadership election? Odds: 36.2% YES on Polymarket. See live prices and trade th..."
 marketQuestion: "Will Kerry-Lynne Findlay win the 2026 Conservative Party of British Columbia leadership election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-01
+status: "settled"
+lastUpdated: 2026-05-02
 expiryDate: 2026-05-30
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 36.2

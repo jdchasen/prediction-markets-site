@@ -1,15 +1,15 @@
 ---
 title: "Fed rate hike in 2026?"
-description: "Fed rate hike in 2026? Odds: 17.5% YES on Polymarket. See live prices and trade this market."
+description: "Fed rate hike in 2026? Odds: 18.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Fed rate hike in 2026?"
 category: "economics"
 status: "active"
-lastUpdated: 2026-05-01
+lastUpdated: 2026-05-02
 expiryDate: 2026-12-09
 tags: ["economics", "federal-reserve", "polymarket"]
-polymarketYes: 17.5
-polymarketNo: 82.5
-polymarketVolume: 978275
+polymarketYes: 18.5
+polymarketNo: 81.5
+polymarketVolume: 979888
 polymarketUrl: "https://polymarket.com/event/fed-rate-hike-in-2026"
 ---
 
@@ -17,18 +17,18 @@ polymarketUrl: "https://polymarket.com/event/fed-rate-hike-in-2026"
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 17.5% | 82.5% | $978K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 18.5% | 81.5% | $980K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will annual inflation increase by 4.0% in April?](/odds/will-annual-inflation-increase-by-40-in-april) — 2% YES
-- [Will the April 2026 unemployment rate be 4.4%?](/odds/will-the-april-2026-unemployment-rate-be-44) — 23% YES
+- [Fed rate cut by December 2026 meeting?](/odds/fed-rate-cut-by-december-2026-meeting) — 48% YES
+- [Will the April 2026 unemployment rate be 4.4%?](/odds/will-the-april-2026-unemployment-rate-be-44) — 19% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Fed rate hike in 2026?"?
 
-As of May 01, 2026, Polymarket prices YES at 17.5%.
+As of May 02, 2026, Polymarket prices YES at 18.5%.
 
 ### Where can I trade on this prediction market?
 

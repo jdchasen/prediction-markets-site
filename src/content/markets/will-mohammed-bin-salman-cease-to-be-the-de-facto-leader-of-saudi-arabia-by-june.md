@@ -1,23 +1,23 @@
 ---
-title: "Will Mike Kennealy win the 2026 Massachusetts Governor Republican primary election?"
-description: "Will Mike Kennealy win the 2026 Massachusetts Governor Republican primary election? Odds: 1.9% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Mike Kennealy win the 2026 Massachusetts Governor Republican primary election?"
+title: "Will Mohammed bin Salman cease to be the de facto leader of Saudi Arabia by June 30, 2026?"
+description: "Will Mohammed bin Salman cease to be the de facto leader of Saudi Arabia by June 30, 2026? Odds: 1.2% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Mohammed bin Salman cease to be the de facto leader of Saudi Arabia by June 30, 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-05-02
-expiryDate: 2026-09-01
-tags: ["elections", "politics", "polymarket"]
-polymarketYes: 1.9
-polymarketNo: 98.0
-polymarketVolume: 9810
-polymarketUrl: "https://polymarket.com/event/will-mike-kennealy-win-the-2026-massachusetts-governor-republican-primary-election"
+expiryDate: 2026-06-30
+tags: ["politics", "polymarket"]
+polymarketYes: 1.2
+polymarketNo: 98.8
+polymarketVolume: 98550
+polymarketUrl: "https://polymarket.com/event/will-mohammed-bin-salman-cease-to-be-the-de-facto-leader-of-saudi-arabia-by-june-30-2026"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 1.9% | 98.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 1.2% | 98.8% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-mike-kennealy-win-the-2026-mas
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Mike Kennealy win the 2026 Massachusetts Governor Republican primary election?"?
+### What are the current odds for "Will Mohammed bin Salman cease to be the de facto leader of Saudi Arabia by June 30, 2026?"?
 
-As of May 02, 2026, Polymarket prices YES at 1.9%.
+As of May 02, 2026, Polymarket prices YES at 1.2%.
 
 ### Where can I trade on this prediction market?
 

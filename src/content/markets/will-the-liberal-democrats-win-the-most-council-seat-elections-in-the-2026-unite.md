@@ -3,8 +3,8 @@ title: "Will the Liberal Democrats win the most council seat elections in the 20
 description: "Will the Liberal Democrats win the most council seat elections in the 2026 United Kingdom local elections? Odds: 0.2% YES on Polymarket. See live prices and ..."
 marketQuestion: "Will the Liberal Democrats win the most council seat elections in the 2026 United Kingdom local elections?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-01
+status: "settled"
+lastUpdated: 2026-05-02
 expiryDate: 2026-05-07
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.2

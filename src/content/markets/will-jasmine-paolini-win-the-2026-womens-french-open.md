@@ -1,14 +1,14 @@
 ---
 title: "Will Jasmine Paolini win the 2026 Women’s French Open?"
-description: "Will Jasmine Paolini win the 2026 Women’s French Open? Odds: 1.0% YES on Polymarket. See live prices and trade this market."
+description: "Will Jasmine Paolini win the 2026 Women’s French Open? Odds: 0.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Jasmine Paolini win the 2026 Women’s French Open?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-01
+lastUpdated: 2026-05-02
 expiryDate: 2026-06-06
 tags: ["politics", "polymarket"]
-polymarketYes: 1.0
-polymarketNo: 99.0
+polymarketYes: 0.9
+polymarketNo: 99.1
 polymarketVolume: 99123
 polymarketUrl: "https://polymarket.com/event/will-jasmine-paolini-win-the-2026-womens-french-open"
 ---
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-jasmine-paolini-win-the-2026-w
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 1.0% | 99.0% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.9% | 99.1% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Ro Khanna win the 2028 Democratic presidential nomination?](/odds/will-ro-khanna-win-the-2028-democratic-presidential-nomination) — 2% YES
-- [US x Iran permanent peace deal by May 31, 2026?](/odds/us-x-iran-permanent-peace-deal-by-may-31-2026) — 22% YES
-- [Will Chad Bianco win the California Governor Election in 2026?](/odds/will-chad-bianco-win-the-california-governor-election-in-2026) — 6% YES
+- [Will the US acquire part of Greenland in 2026?](/odds/will-the-us-acquire-part-of-greenland-in-2026) — 14% YES
+- [Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?](/odds/will-amanda-anisimova-be-the-2026-womens-wimbledon-winner) — 8% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Jasmine Paolini win the 2026 Women’s French Open?"?
 
-As of May 01, 2026, Polymarket prices YES at 1.0%.
+As of May 02, 2026, Polymarket prices YES at 0.9%.
 
 ### Where can I trade on this prediction market?
 

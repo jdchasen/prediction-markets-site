@@ -1,35 +1,35 @@
 ---
-title: "Will Adam Miller win the 2026 Los Angeles mayoral election?"
-description: "Will Adam Miller win the 2026 Los Angeles mayoral election? Odds: 1.0% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Adam Miller win the 2026 Los Angeles mayoral election?"
+title: "Will the US acquire part of Greenland in 2026?"
+description: "Will the US acquire part of Greenland in 2026? Odds: 13.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will the US acquire part of Greenland in 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-05-02
-expiryDate: 2026-06-02
-tags: ["elections", "politics", "polymarket"]
-polymarketYes: 1.0
-polymarketNo: 99.0
-polymarketVolume: 99350
-polymarketUrl: "https://polymarket.com/event/will-adam-miller-win-the-2026-los-angeles-mayoral-election"
+expiryDate: 2026-12-31
+tags: ["politics", "polymarket"]
+polymarketYes: 13.5
+polymarketNo: 86.5
+polymarketVolume: 9714517
+polymarketUrl: "https://polymarket.com/event/will-the-us-acquire-any-part-of-greenland-in-2026"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 1.0% | 99.0% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 13.5% | 86.5% | $9.7M | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Ro Khanna win the 2028 Democratic presidential nomination?](/odds/will-ro-khanna-win-the-2028-democratic-presidential-nomination) — 2% YES
-- [Will the US acquire part of Greenland in 2026?](/odds/will-the-us-acquire-part-of-greenland-in-2026) — 14% YES
 - [Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?](/odds/will-amanda-anisimova-be-the-2026-womens-wimbledon-winner) — 8% YES
+- [Will xAI have the best AI model at the end of June 2026?](/odds/will-xai-have-the-best-ai-model-at-the-end-of-june-2026) — 2% YES
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Adam Miller win the 2026 Los Angeles mayoral election?"?
+### What are the current odds for "Will the US acquire part of Greenland in 2026?"?
 
-As of May 02, 2026, Polymarket prices YES at 1.0%.
+As of May 02, 2026, Polymarket prices YES at 13.5%.
 
 ### Where can I trade on this prediction market?
 

@@ -3,13 +3,13 @@ title: "Will Valtteri Bottas be the 2026 F1 Drivers' Champion?"
 description: "Will Valtteri Bottas be the 2026 F1 Drivers' Champion? Odds: 0.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Valtteri Bottas be the 2026 F1 Drivers' Champion?"
 category: "sports"
-status: "settled"
-lastUpdated: 2026-05-01
+status: "active"
+lastUpdated: 2026-05-02
 expiryDate: 2026-12-06
 tags: ["polymarket", "sports"]
 polymarketYes: 0.4
 polymarketNo: 99.7
-polymarketVolume: 9719471
+polymarketVolume: 9720750
 polymarketUrl: "https://polymarket.com/event/will-valtteri-bottas-be-the-2026-f1-drivers-champion"
 ---
 
@@ -21,15 +21,15 @@ polymarketUrl: "https://polymarket.com/event/will-valtteri-bottas-be-the-2026-f1
 
 ## Related Markets
 
-- [Will the Oklahoma City Thunder win the 2026 NBA Finals?](/odds/will-the-oklahoma-city-thunder-win-the-2026-nba-finals) — 52% YES
-- [Will the Boston Celtics win the NBA Eastern Conference Finals?](/odds/will-the-boston-celtics-win-the-nba-eastern-conference-finals) — 47% YES
-- [Will Africa win the 2026 FIFA World Cup?](/odds/will-africa-win-the-2026-fifa-world-cup) — 3% YES
+- [Will the Oklahoma City Thunder win the 2026 NBA Finals?](/odds/will-the-oklahoma-city-thunder-win-the-2026-nba-finals) — 56% YES
+- [Will West Ham be relegated from the English Premier League after the 2025–26 season?](/odds/will-west-ham-be-relegated-from-the-english-premier-league-after-the-202526-seas) — 34% YES
+- [Will Jason Robertson win the 2025–2026 NHL Hart Memorial Trophy?](/odds/will-jason-robertson-win-the-20252026-nhl-hart-memorial-trophy) — 0% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Valtteri Bottas be the 2026 F1 Drivers' Champion?"?
 
-As of April 30, 2026, Polymarket prices YES at 0.4%.
+As of May 02, 2026, Polymarket prices YES at 0.4%.
 
 ### Where can I trade on this prediction market?
 

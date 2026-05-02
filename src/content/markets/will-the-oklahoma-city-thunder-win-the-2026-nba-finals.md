@@ -4,12 +4,12 @@ description: "Will the Oklahoma City Thunder win the 2026 NBA Finals? Odds: 55.5
 marketQuestion: "Will the Oklahoma City Thunder win the 2026 NBA Finals?"
 category: "sports"
 status: "active"
-lastUpdated: 2026-05-01
+lastUpdated: 2026-05-02
 expiryDate: 2026-07-01
 tags: ["polymarket", "sports"]
 polymarketYes: 55.5
 polymarketNo: 44.5
-polymarketVolume: 9927052
+polymarketVolume: 9975495
 polymarketUrl: "https://polymarket.com/event/will-the-oklahoma-city-thunder-win-the-2026-nba-finals"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-the-oklahoma-city-thunder-win-
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 55.5% | 44.5% | $9.9M | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 55.5% | 44.5% | $10.0M | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
+- [Will Valtteri Bottas be the 2026 F1 Drivers' Champion?](/odds/will-valtteri-bottas-be-the-2026-f1-drivers-champion) — 0% YES
 - [Will West Ham be relegated from the English Premier League after the 2025–26 season?](/odds/will-west-ham-be-relegated-from-the-english-premier-league-after-the-202526-seas) — 34% YES
 - [Will Jason Robertson win the 2025–2026 NHL Hart Memorial Trophy?](/odds/will-jason-robertson-win-the-20252026-nhl-hart-memorial-trophy) — 0% YES
-- [Will a team from Germany be the 2026 Champions League winner?](/odds/will-a-team-from-germany-be-the-2026-champions-league-winner) — 33% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will the Oklahoma City Thunder win the 2026 NBA Finals?"?
 
-As of May 01, 2026, Polymarket prices YES at 55.5%.
+As of May 02, 2026, Polymarket prices YES at 55.5%.
 
 ### Where can I trade on this prediction market?
 

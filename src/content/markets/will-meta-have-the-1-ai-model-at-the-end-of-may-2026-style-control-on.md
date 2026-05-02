@@ -1,23 +1,23 @@
 ---
-title: "Will Mike Kennealy win the 2026 Massachusetts Governor Republican primary election?"
-description: "Will Mike Kennealy win the 2026 Massachusetts Governor Republican primary election? Odds: 1.9% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Mike Kennealy win the 2026 Massachusetts Governor Republican primary election?"
+title: "Will Meta have the #1 AI model at the end of May 2026 (Style Control On)?"
+description: "Will Meta have the #1 AI model at the end of May 2026 (Style Control On)? Odds: 0.2% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Meta have the #1 AI model at the end of May 2026 (Style Control On)?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-05-02
-expiryDate: 2026-09-01
-tags: ["elections", "politics", "polymarket"]
-polymarketYes: 1.9
-polymarketNo: 98.0
-polymarketVolume: 9810
-polymarketUrl: "https://polymarket.com/event/will-mike-kennealy-win-the-2026-massachusetts-governor-republican-primary-election"
+expiryDate: 2026-05-31
+tags: ["ai", "politics", "polymarket"]
+polymarketYes: 0.2
+polymarketNo: 99.8
+polymarketVolume: 9953
+polymarketUrl: "https://polymarket.com/event/will-meta-have-the-1-ai-model-at-the-end-of-may-2026-style-control-on"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 1.9% | 98.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.2% | 99.8% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-mike-kennealy-win-the-2026-mas
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Mike Kennealy win the 2026 Massachusetts Governor Republican primary election?"?
+### What are the current odds for "Will Meta have the #1 AI model at the end of May 2026 (Style Control On)?"?
 
-As of May 02, 2026, Polymarket prices YES at 1.9%.
+As of May 02, 2026, Polymarket prices YES at 0.2%.
 
 ### Where can I trade on this prediction market?
 

@@ -3,8 +3,8 @@ title: "Will Saudi Aramco be the largest company in the world by market cap on M
 description: "Will Saudi Aramco be the largest company in the world by market cap on May 31? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Saudi Aramco be the largest company in the world by market cap on May 31?"
 category: "finance"
-status: "active"
-lastUpdated: 2026-05-01
+status: "settled"
+lastUpdated: 2026-05-02
 expiryDate: 2026-05-31
 tags: ["finance", "polymarket"]
 polymarketYes: 0.1

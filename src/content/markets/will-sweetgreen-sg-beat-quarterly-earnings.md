@@ -3,8 +3,8 @@ title: "Will Sweetgreen (SG) beat quarterly earnings?"
 description: "Will Sweetgreen (SG) beat quarterly earnings? Odds: 86.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Sweetgreen (SG) beat quarterly earnings?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-01
+status: "settled"
+lastUpdated: 2026-05-02
 expiryDate: 2026-05-07
 tags: ["politics", "polymarket"]
 polymarketYes: 86.0

@@ -1,15 +1,15 @@
 ---
 title: "Will Ro Khanna win the 2028 Democratic presidential nomination?"
-description: "Will Ro Khanna win the 2028 Democratic presidential nomination? Odds: 1.9% YES on Polymarket. See live prices and trade this market."
+description: "Will Ro Khanna win the 2028 Democratic presidential nomination? Odds: 1.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Ro Khanna win the 2028 Democratic presidential nomination?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-01
+lastUpdated: 2026-05-02
 expiryDate: 2028-11-07
 tags: ["politics", "polymarket"]
-polymarketYes: 1.9
-polymarketNo: 98.0
-polymarketVolume: 9946032
+polymarketYes: 1.8
+polymarketNo: 98.2
+polymarketVolume: 9975022
 polymarketUrl: "https://polymarket.com/event/will-ro-khanna-win-the-2028-democratic-presidential-nomination"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-ro-khanna-win-the-2028-democra
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 1.9% | 98.0% | $9.9M | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 1.8% | 98.2% | $10.0M | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [US x Iran permanent peace deal by May 31, 2026?](/odds/us-x-iran-permanent-peace-deal-by-may-31-2026) — 22% YES
-- [Will Chad Bianco win the California Governor Election in 2026?](/odds/will-chad-bianco-win-the-california-governor-election-in-2026) — 6% YES
+- [Will the US acquire part of Greenland in 2026?](/odds/will-the-us-acquire-part-of-greenland-in-2026) — 14% YES
 - [Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?](/odds/will-amanda-anisimova-be-the-2026-womens-wimbledon-winner) — 8% YES
+- [Will xAI have the best AI model at the end of June 2026?](/odds/will-xai-have-the-best-ai-model-at-the-end-of-june-2026) — 2% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Ro Khanna win the 2028 Democratic presidential nomination?"?
 
-As of May 01, 2026, Polymarket prices YES at 1.9%.
+As of May 02, 2026, Polymarket prices YES at 1.8%.
 
 ### Where can I trade on this prediction market?
 

@@ -1,23 +1,23 @@
 ---
-title: "U.S. enacts AI safety bill before 2027?"
-description: "U.S. enacts AI safety bill before 2027? Odds: 24.0% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "U.S. enacts AI safety bill before 2027?"
+title: "Putin and Zelenskyy shake hands by June 30?"
+description: "Putin and Zelenskyy shake hands by June 30? Odds: 2.8% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Putin and Zelenskyy shake hands by June 30?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-05-02
-expiryDate: 2026-12-31
-tags: ["ai", "politics", "polymarket"]
-polymarketYes: 24.0
-polymarketNo: 76.0
-polymarketVolume: 97789
-polymarketUrl: "https://polymarket.com/event/us-enacts-ai-safety-bill-before-2027"
+expiryDate: 2026-06-30
+tags: ["politics", "polymarket"]
+polymarketYes: 2.8
+polymarketNo: 97.2
+polymarketVolume: 9762
+polymarketUrl: "https://polymarket.com/event/putin-and-zelenskyy-shake-hands-by-june-30"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 24.0% | 76.0% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 2.8% | 97.2% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/us-enacts-ai-safety-bill-before-202
 
 ## Frequently Asked Questions
 
-### What are the current odds for "U.S. enacts AI safety bill before 2027?"?
+### What are the current odds for "Putin and Zelenskyy shake hands by June 30?"?
 
-As of May 02, 2026, Polymarket prices YES at 24.0%.
+As of May 02, 2026, Polymarket prices YES at 2.8%.
 
 ### Where can I trade on this prediction market?
 

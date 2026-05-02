@@ -4,7 +4,7 @@ description: "Will JD Gaming qualify to MSI 2026? Odds: 20.0% YES on Polymarket.
 marketQuestion: "Will JD Gaming qualify to MSI 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-01
+lastUpdated: 2026-05-02
 expiryDate: 2026-07-12
 tags: ["politics", "polymarket"]
 polymarketYes: 20.0
@@ -22,14 +22,14 @@ polymarketUrl: "https://polymarket.com/event/will-jd-gaming-qualify-to-msi-2026"
 ## Related Markets
 
 - [Will Ro Khanna win the 2028 Democratic presidential nomination?](/odds/will-ro-khanna-win-the-2028-democratic-presidential-nomination) — 2% YES
-- [US x Iran permanent peace deal by May 31, 2026?](/odds/us-x-iran-permanent-peace-deal-by-may-31-2026) — 22% YES
-- [Will Chad Bianco win the California Governor Election in 2026?](/odds/will-chad-bianco-win-the-california-governor-election-in-2026) — 6% YES
+- [Will the US acquire part of Greenland in 2026?](/odds/will-the-us-acquire-part-of-greenland-in-2026) — 14% YES
+- [Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?](/odds/will-amanda-anisimova-be-the-2026-womens-wimbledon-winner) — 8% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will JD Gaming qualify to MSI 2026?"?
 
-As of May 01, 2026, Polymarket prices YES at 20.0%.
+As of May 02, 2026, Polymarket prices YES at 20.0%.
 
 ### Where can I trade on this prediction market?
 

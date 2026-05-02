@@ -1,15 +1,15 @@
 ---
 title: "Will Jared Kushner attend the next US x Iran diplomatic meeting?"
-description: "Will Jared Kushner attend the next US x Iran diplomatic meeting? Odds: 63.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Jared Kushner attend the next US x Iran diplomatic meeting? Odds: 64.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Jared Kushner attend the next US x Iran diplomatic meeting?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-01
+lastUpdated: 2026-05-02
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
-polymarketYes: 63.5
-polymarketNo: 36.5
-polymarketVolume: 98238
+polymarketYes: 64.0
+polymarketNo: 36.0
+polymarketVolume: 98827
 polymarketUrl: "https://polymarket.com/event/will-jared-kushner-attend-the-next-us-x-iran-diplomatic-meeting"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-jared-kushner-attend-the-next-
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 63.5% | 36.5% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 64.0% | 36.0% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Ro Khanna win the 2028 Democratic presidential nomination?](/odds/will-ro-khanna-win-the-2028-democratic-presidential-nomination) — 2% YES
-- [US x Iran permanent peace deal by May 31, 2026?](/odds/us-x-iran-permanent-peace-deal-by-may-31-2026) — 22% YES
-- [Will Chad Bianco win the California Governor Election in 2026?](/odds/will-chad-bianco-win-the-california-governor-election-in-2026) — 6% YES
+- [Will the US acquire part of Greenland in 2026?](/odds/will-the-us-acquire-part-of-greenland-in-2026) — 14% YES
+- [Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?](/odds/will-amanda-anisimova-be-the-2026-womens-wimbledon-winner) — 8% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Jared Kushner attend the next US x Iran diplomatic meeting?"?
 
-As of May 01, 2026, Polymarket prices YES at 63.5%.
+As of May 02, 2026, Polymarket prices YES at 64.0%.
 
 ### Where can I trade on this prediction market?
 

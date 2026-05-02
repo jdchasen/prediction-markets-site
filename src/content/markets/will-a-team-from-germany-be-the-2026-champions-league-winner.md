@@ -3,8 +3,8 @@ title: "Will a team from Germany be the 2026 Champions League winner?"
 description: "Will a team from Germany be the 2026 Champions League winner? Odds: 33.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will a team from Germany be the 2026 Champions League winner?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-05-01
+status: "settled"
+lastUpdated: 2026-05-02
 expiryDate: 2026-06-13
 tags: ["polymarket", "sports"]
 polymarketYes: 33.0
