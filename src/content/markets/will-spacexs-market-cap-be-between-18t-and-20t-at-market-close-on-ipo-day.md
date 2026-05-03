@@ -4,12 +4,12 @@ description: "Will SpaceX's market cap be between $1.8T and $2.0T at market clos
 marketQuestion: "Will SpaceX's market cap be between $1.8T and $2.0T at market close on IPO day?"
 category: "finance"
 status: "active"
-lastUpdated: 2026-05-02
+lastUpdated: 2026-05-03
 expiryDate: 2027-12-31
 tags: ["finance", "polymarket"]
 polymarketYes: 13.0
 polymarketNo: 87.0
-polymarketVolume: 97752
+polymarketVolume: 97823
 polymarketUrl: "https://polymarket.com/event/will-spacexs-market-cap-be-between-1pt8t-and-2pt0t-at-market-close-on-ipo-day-516"
 ---
 
@@ -21,15 +21,15 @@ polymarketUrl: "https://polymarket.com/event/will-spacexs-market-cap-be-between-
 
 ## Related Markets
 
-- [Will Microsoft be the largest company in the world by market cap on June 30?](/odds/will-microsoft-be-the-largest-company-in-the-world-by-market-cap-on-june-30) — 0% YES
-- [Will OpenAI’s market cap be $1.5T or greater at market close on IPO day?](/odds/will-openais-market-cap-be-15t-or-greater-at-market-close-on-ipo-day) — 12% YES
-- [Will Discord’s market cap be $30B or greater at market close on IPO day?](/odds/will-discords-market-cap-be-30b-or-greater-at-market-close-on-ipo-day) — 3% YES
+- [Will OpenAI’s market cap be $1.5T or greater at market close on IPO day?](/odds/will-openais-market-cap-be-15t-or-greater-at-market-close-on-ipo-day) — 11% YES
+- [Will Microsoft be the largest company in the world by market cap on May 31?](/odds/will-microsoft-be-the-largest-company-in-the-world-by-market-cap-on-may-31) — 0% YES
+- [Will Discord’s market cap be $30B or greater at market close on IPO day?](/odds/will-discords-market-cap-be-30b-or-greater-at-market-close-on-ipo-day) — 2% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will SpaceX's market cap be between $1.8T and $2.0T at market close on IPO day?"?
 
-As of May 02, 2026, Polymarket prices YES at 13.0%.
+As of May 03, 2026, Polymarket prices YES at 13.0%.
 
 ### Where can I trade on this prediction market?
 

@@ -1,15 +1,15 @@
 ---
 title: "Fed rate cut by December 2026 meeting?"
-description: "Fed rate cut by December 2026 meeting? Odds: 46.5% YES on Polymarket. See live prices and trade this market."
+description: "Fed rate cut by December 2026 meeting? Odds: 46.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Fed rate cut by December 2026 meeting?"
 category: "economics"
 status: "active"
-lastUpdated: 2026-05-02
+lastUpdated: 2026-05-03
 expiryDate: 2026-06-17
 tags: ["economics", "federal-reserve", "interest-rates", "polymarket"]
-polymarketYes: 46.5
-polymarketNo: 53.5
-polymarketVolume: 95933
+polymarketYes: 46.0
+polymarketNo: 54.0
+polymarketVolume: 96382
 polymarketUrl: "https://polymarket.com/event/fed-rate-cut-by-december-2026-meeting"
 ---
 
@@ -17,17 +17,19 @@ polymarketUrl: "https://polymarket.com/event/fed-rate-cut-by-december-2026-meeti
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 46.5% | 53.5% | $96K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 46.0% | 54.0% | $96K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Fed rate hike in 2026?](/odds/fed-rate-hike-in-2026) — 18% YES
+- [Will annual inflation increase by 3.5% in April?](/odds/will-annual-inflation-increase-by-35-in-april) — 8% YES
+- [Will annual inflation increase by ≤3.1% in April?](/odds/will-annual-inflation-increase-by-31-in-april) — 2% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Fed rate cut by December 2026 meeting?"?
 
-As of May 02, 2026, Polymarket prices YES at 46.5%.
+As of May 03, 2026, Polymarket prices YES at 46.0%.
 
 ### Where can I trade on this prediction market?
 

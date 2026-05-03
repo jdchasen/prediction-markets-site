@@ -3,8 +3,8 @@ title: "Will Bitcoin reach $85,000 in May?"
 description: "Will Bitcoin reach $85,000 in May? Odds: 43.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Bitcoin reach $85,000 in May?"
 category: "crypto"
-status: "active"
-lastUpdated: 2026-05-02
+status: "settled"
+lastUpdated: 2026-05-03
 expiryDate: 2026-06-01
 tags: ["bitcoin", "crypto", "polymarket"]
 polymarketYes: 43.5

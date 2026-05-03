@@ -4,7 +4,7 @@ description: "Will Jonas Wind be the top goal scorer in the 2025–26 Bundesliga
 marketQuestion: "Will Jonas Wind be the top goal scorer in the 2025–26 Bundesliga season?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-02
+lastUpdated: 2026-05-03
 expiryDate: 2026-05-28
 tags: ["politics", "polymarket"]
 polymarketYes: 0.1
@@ -21,15 +21,15 @@ polymarketUrl: "https://polymarket.com/event/will-jonas-wind-be-the-top-goal-sco
 
 ## Related Markets
 
-- [Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?](/odds/will-amanda-anisimova-be-the-2026-womens-wimbledon-winner) — 7% YES
+- [Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?](/odds/will-amanda-anisimova-be-the-2026-womens-wimbledon-winner) — 8% YES
 - [Will xAI have the best AI model at the end of June 2026?](/odds/will-xai-have-the-best-ai-model-at-the-end-of-june-2026) — 2% YES
-- [Will François Ruffin win the 2027 French presidential election?](/odds/will-franois-ruffin-win-the-2027-french-presidential-election) — 1% YES
+- [Will Renan Santos finish in second place in the first round of the 2026 Brazilian presidential election?](/odds/will-renan-santos-finish-in-second-place-in-the-first-round-of-the-2026-brazilia) — 5% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Jonas Wind be the top goal scorer in the 2025–26 Bundesliga season?"?
 
-As of May 02, 2026, Polymarket prices YES at 0.1%.
+As of May 03, 2026, Polymarket prices YES at 0.1%.
 
 ### Where can I trade on this prediction market?
 

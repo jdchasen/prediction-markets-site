@@ -3,8 +3,8 @@ title: "Will Microsoft be the largest company in the world by market cap on June
 description: "Will Microsoft be the largest company in the world by market cap on June 30? Odds: 0.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Microsoft be the largest company in the world by market cap on June 30?"
 category: "finance"
-status: "active"
-lastUpdated: 2026-05-02
+status: "settled"
+lastUpdated: 2026-05-03
 expiryDate: 2026-06-30
 tags: ["finance", "polymarket"]
 polymarketYes: 0.2

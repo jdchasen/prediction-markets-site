@@ -3,8 +3,8 @@ title: "Will the Oklahoma City Thunder win the 2026 NBA Finals?"
 description: "Will the Oklahoma City Thunder win the 2026 NBA Finals? Odds: 55.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Oklahoma City Thunder win the 2026 NBA Finals?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-05-02
+status: "settled"
+lastUpdated: 2026-05-03
 expiryDate: 2026-07-01
 tags: ["polymarket", "sports"]
 polymarketYes: 55.5

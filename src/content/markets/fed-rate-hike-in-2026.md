@@ -4,12 +4,12 @@ description: "Fed rate hike in 2026? Odds: 18.5% YES on Polymarket. See live pri
 marketQuestion: "Fed rate hike in 2026?"
 category: "economics"
 status: "active"
-lastUpdated: 2026-05-02
+lastUpdated: 2026-05-03
 expiryDate: 2026-12-09
 tags: ["economics", "federal-reserve", "polymarket"]
 polymarketYes: 18.5
 polymarketNo: 81.5
-polymarketVolume: 980091
+polymarketVolume: 980292
 polymarketUrl: "https://polymarket.com/event/fed-rate-hike-in-2026"
 ---
 
@@ -22,12 +22,14 @@ polymarketUrl: "https://polymarket.com/event/fed-rate-hike-in-2026"
 ## Related Markets
 
 - [Fed rate cut by December 2026 meeting?](/odds/fed-rate-cut-by-december-2026-meeting) — 46% YES
+- [Will annual inflation increase by 3.5% in April?](/odds/will-annual-inflation-increase-by-35-in-april) — 8% YES
+- [Will annual inflation increase by ≤3.1% in April?](/odds/will-annual-inflation-increase-by-31-in-april) — 2% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Fed rate hike in 2026?"?
 
-As of May 02, 2026, Polymarket prices YES at 18.5%.
+As of May 03, 2026, Polymarket prices YES at 18.5%.
 
 ### Where can I trade on this prediction market?
 

@@ -3,8 +3,8 @@ title: "Will Israel win the televote for Eurovision 2026?"
 description: "Will Israel win the televote for Eurovision 2026? Odds: 33.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Israel win the televote for Eurovision 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-02
+status: "settled"
+lastUpdated: 2026-05-03
 expiryDate: 2026-05-16
 tags: ["politics", "polymarket"]
 polymarketYes: 33.0

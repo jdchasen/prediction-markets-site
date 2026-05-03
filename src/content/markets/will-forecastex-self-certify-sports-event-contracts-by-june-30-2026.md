@@ -1,15 +1,15 @@
 ---
 title: "Will ForecastEx self-certify sports event contracts by June 30, 2026?"
-description: "Will ForecastEx self-certify sports event contracts by June 30, 2026? Odds: 30.5% YES on Polymarket. See live prices and trade this market."
+description: "Will ForecastEx self-certify sports event contracts by June 30, 2026? Odds: 29.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will ForecastEx self-certify sports event contracts by June 30, 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-02
+lastUpdated: 2026-05-03
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
-polymarketYes: 30.5
-polymarketNo: 69.5
-polymarketVolume: 9955
+polymarketYes: 29.0
+polymarketNo: 71.0
+polymarketVolume: 9958
 polymarketUrl: "https://polymarket.com/event/will-forecastex-self-certify-sports-event-contracts-by-june-30-2026"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-forecastex-self-certify-sports
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 30.5% | 69.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 29.0% | 71.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?](/odds/will-amanda-anisimova-be-the-2026-womens-wimbledon-winner) — 7% YES
+- [Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?](/odds/will-amanda-anisimova-be-the-2026-womens-wimbledon-winner) — 8% YES
 - [Will xAI have the best AI model at the end of June 2026?](/odds/will-xai-have-the-best-ai-model-at-the-end-of-june-2026) — 2% YES
-- [Will François Ruffin win the 2027 French presidential election?](/odds/will-franois-ruffin-win-the-2027-french-presidential-election) — 1% YES
+- [Will Renan Santos finish in second place in the first round of the 2026 Brazilian presidential election?](/odds/will-renan-santos-finish-in-second-place-in-the-first-round-of-the-2026-brazilia) — 5% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will ForecastEx self-certify sports event contracts by June 30, 2026?"?
 
-As of May 02, 2026, Polymarket prices YES at 30.5%.
+As of May 03, 2026, Polymarket prices YES at 29.0%.
 
 ### Where can I trade on this prediction market?
 

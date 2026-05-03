@@ -1,15 +1,15 @@
 ---
 title: "Putin and Zelenskyy shake hands by June 30?"
-description: "Putin and Zelenskyy shake hands by June 30? Odds: 2.5% YES on Polymarket. See live prices and trade this market."
+description: "Putin and Zelenskyy shake hands by June 30? Odds: 2.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Putin and Zelenskyy shake hands by June 30?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-02
+lastUpdated: 2026-05-03
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
-polymarketYes: 2.5
-polymarketNo: 97.5
-polymarketVolume: 9762
+polymarketYes: 2.8
+polymarketNo: 97.2
+polymarketVolume: 9772
 polymarketUrl: "https://polymarket.com/event/putin-and-zelenskyy-shake-hands-by-june-30"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/putin-and-zelenskyy-shake-hands-by-
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 2.5% | 97.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 2.8% | 97.2% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?](/odds/will-amanda-anisimova-be-the-2026-womens-wimbledon-winner) — 7% YES
+- [Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?](/odds/will-amanda-anisimova-be-the-2026-womens-wimbledon-winner) — 8% YES
 - [Will xAI have the best AI model at the end of June 2026?](/odds/will-xai-have-the-best-ai-model-at-the-end-of-june-2026) — 2% YES
-- [Will François Ruffin win the 2027 French presidential election?](/odds/will-franois-ruffin-win-the-2027-french-presidential-election) — 1% YES
+- [Will Renan Santos finish in second place in the first round of the 2026 Brazilian presidential election?](/odds/will-renan-santos-finish-in-second-place-in-the-first-round-of-the-2026-brazilia) — 5% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Putin and Zelenskyy shake hands by June 30?"?
 
-As of May 02, 2026, Polymarket prices YES at 2.5%.
+As of May 03, 2026, Polymarket prices YES at 2.8%.
 
 ### Where can I trade on this prediction market?
 

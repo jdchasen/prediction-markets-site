@@ -1,15 +1,15 @@
 ---
 title: "Will OpenAI’s market cap be $1.5T or greater at market close on IPO day?"
-description: "Will OpenAI’s market cap be $1.5T or greater at market close on IPO day? Odds: 11.7% YES on Polymarket. See live prices and trade this market."
+description: "Will OpenAI’s market cap be $1.5T or greater at market close on IPO day? Odds: 10.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will OpenAI’s market cap be $1.5T or greater at market close on IPO day?"
 category: "finance"
 status: "active"
-lastUpdated: 2026-05-02
+lastUpdated: 2026-05-03
 expiryDate: 2026-06-30
 tags: ["ai", "finance", "polymarket"]
-polymarketYes: 11.7
-polymarketNo: 88.3
-polymarketVolume: 99431
+polymarketYes: 10.8
+polymarketNo: 89.2
+polymarketVolume: 99878
 polymarketUrl: "https://polymarket.com/event/will-openais-market-cap-be-greater-than-1pt5t-at-market-close-on-ipo-day"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-openais-market-cap-be-greater-
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 11.7% | 88.3% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 10.8% | 89.2% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Microsoft be the largest company in the world by market cap on June 30?](/odds/will-microsoft-be-the-largest-company-in-the-world-by-market-cap-on-june-30) — 0% YES
-- [Will Discord’s market cap be $30B or greater at market close on IPO day?](/odds/will-discords-market-cap-be-30b-or-greater-at-market-close-on-ipo-day) — 3% YES
-- [Will Apple be the largest company in the world by market cap on May 31?](/odds/will-apple-be-the-largest-company-in-the-world-by-market-cap-on-may-31) — 1% YES
+- [Will Microsoft be the largest company in the world by market cap on May 31?](/odds/will-microsoft-be-the-largest-company-in-the-world-by-market-cap-on-may-31) — 0% YES
+- [Will Discord’s market cap be $30B or greater at market close on IPO day?](/odds/will-discords-market-cap-be-30b-or-greater-at-market-close-on-ipo-day) — 2% YES
+- [Will SpaceX IPO by December 31, 2026?](/odds/will-spacex-ipo-by-december-31-2026) — 96% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will OpenAI’s market cap be $1.5T or greater at market close on IPO day?"?
 
-As of May 02, 2026, Polymarket prices YES at 11.7%.
+As of May 03, 2026, Polymarket prices YES at 10.8%.
 
 ### Where can I trade on this prediction market?
 

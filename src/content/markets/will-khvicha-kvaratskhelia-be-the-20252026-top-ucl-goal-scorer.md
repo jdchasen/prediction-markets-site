@@ -3,8 +3,8 @@ title: "Will Khvicha Kvaratskhelia be the 2025/2026 top UCL goal scorer?"
 description: "Will Khvicha Kvaratskhelia be the 2025/2026 top UCL goal scorer? Odds: 1.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Khvicha Kvaratskhelia be the 2025/2026 top UCL goal scorer?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-02
+status: "settled"
+lastUpdated: 2026-05-03
 expiryDate: 2026-05-30
 tags: ["politics", "polymarket"]
 polymarketYes: 1.1

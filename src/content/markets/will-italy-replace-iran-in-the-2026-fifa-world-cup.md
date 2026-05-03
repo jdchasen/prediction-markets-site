@@ -1,14 +1,14 @@
 ---
 title: "Will Italy replace Iran in the 2026 FIFA World Cup?"
-description: "Will Italy replace Iran in the 2026 FIFA World Cup? Odds: 7.8% YES on Polymarket. See live prices and trade this market."
+description: "Will Italy replace Iran in the 2026 FIFA World Cup? Odds: 7.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Italy replace Iran in the 2026 FIFA World Cup?"
 category: "sports"
 status: "active"
-lastUpdated: 2026-05-02
+lastUpdated: 2026-05-03
 expiryDate: 2026-08-31
 tags: ["polymarket", "sports"]
-polymarketYes: 7.8
-polymarketNo: 92.2
+polymarketYes: 7.0
+polymarketNo: 93.0
 polymarketVolume: 9896
 polymarketUrl: "https://polymarket.com/event/will-italy-replace-iran-in-the-2026-fifa-world-cup-298"
 ---
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-italy-replace-iran-in-the-2026
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 7.8% | 92.2% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 7.0% | 93.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will the Oklahoma City Thunder win the 2026 NBA Finals?](/odds/will-the-oklahoma-city-thunder-win-the-2026-nba-finals) — 56% YES
 - [Will Valtteri Bottas be the 2026 F1 Drivers' Champion?](/odds/will-valtteri-bottas-be-the-2026-f1-drivers-champion) — 0% YES
 - [Will West Ham be relegated from the English Premier League after the 2025–26 season?](/odds/will-west-ham-be-relegated-from-the-english-premier-league-after-the-202526-seas) — 34% YES
+- [Will Jason Robertson win the 2025–2026 NHL Hart Memorial Trophy?](/odds/will-jason-robertson-win-the-20252026-nhl-hart-memorial-trophy) — 0% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Italy replace Iran in the 2026 FIFA World Cup?"?
 
-As of May 02, 2026, Polymarket prices YES at 7.8%.
+As of May 03, 2026, Polymarket prices YES at 7.0%.
 
 ### Where can I trade on this prediction market?
 

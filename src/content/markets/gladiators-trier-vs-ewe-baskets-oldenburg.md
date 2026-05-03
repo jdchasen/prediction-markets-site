@@ -3,8 +3,8 @@ title: "Gladiators Trier vs. EWE Baskets Oldenburg"
 description: "Gladiators Trier vs. EWE Baskets Oldenburg Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Gladiators Trier vs. EWE Baskets Oldenburg"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-02
+status: "settled"
+lastUpdated: 2026-05-03
 expiryDate: 2026-05-09
 tags: ["politics", "polymarket"]
 polymarketYes: 0.1

@@ -3,8 +3,8 @@ title: "Will Meta have the #1 AI model at the end of May 2026 (Style Control On)
 description: "Will Meta have the #1 AI model at the end of May 2026 (Style Control On)? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Meta have the #1 AI model at the end of May 2026 (Style Control On)?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-02
+status: "settled"
+lastUpdated: 2026-05-03
 expiryDate: 2026-05-31
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 0.1

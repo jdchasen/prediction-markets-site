@@ -3,8 +3,8 @@ title: "Will François Ruffin win the 2027 French presidential election?"
 description: "Will François Ruffin win the 2027 French presidential election? Odds: 0.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will François Ruffin win the 2027 French presidential election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-02
+status: "settled"
+lastUpdated: 2026-05-03
 expiryDate: 2027-04-30
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.7

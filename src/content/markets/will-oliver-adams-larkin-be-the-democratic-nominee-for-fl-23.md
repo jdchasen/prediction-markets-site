@@ -1,15 +1,15 @@
 ---
 title: "Will Oliver Adams Larkin be the Democratic Nominee for FL-23?"
-description: "Will Oliver Adams Larkin be the Democratic Nominee for FL-23? Odds: 36.0% YES on Polymarket. See live prices and trade this market."
+description: "Will Oliver Adams Larkin be the Democratic Nominee for FL-23? Odds: 46.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Oliver Adams Larkin be the Democratic Nominee for FL-23?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-02
+lastUpdated: 2026-05-03
 expiryDate: 2026-08-18
 tags: ["politics", "polymarket"]
-polymarketYes: 36.0
-polymarketNo: 64.0
-polymarketVolume: 9794
+polymarketYes: 46.5
+polymarketNo: 53.5
+polymarketVolume: 9928
 polymarketUrl: "https://polymarket.com/event/will-oliver-adams-larkin-be-the-democratic-nominee-for-fl-23"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-oliver-adams-larkin-be-the-dem
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 36.0% | 64.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 46.5% | 53.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?](/odds/will-amanda-anisimova-be-the-2026-womens-wimbledon-winner) — 7% YES
+- [Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?](/odds/will-amanda-anisimova-be-the-2026-womens-wimbledon-winner) — 8% YES
 - [Will xAI have the best AI model at the end of June 2026?](/odds/will-xai-have-the-best-ai-model-at-the-end-of-june-2026) — 2% YES
-- [Will François Ruffin win the 2027 French presidential election?](/odds/will-franois-ruffin-win-the-2027-french-presidential-election) — 1% YES
+- [Will Renan Santos finish in second place in the first round of the 2026 Brazilian presidential election?](/odds/will-renan-santos-finish-in-second-place-in-the-first-round-of-the-2026-brazilia) — 5% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Oliver Adams Larkin be the Democratic Nominee for FL-23?"?
 
-As of May 02, 2026, Polymarket prices YES at 36.0%.
+As of May 03, 2026, Polymarket prices YES at 46.5%.
 
 ### Where can I trade on this prediction market?
 

@@ -4,12 +4,12 @@ description: "Will SpaceX IPO by December 31, 2026? Odds: 95.5% YES on Polymarke
 marketQuestion: "Will SpaceX IPO by December 31, 2026?"
 category: "finance"
 status: "active"
-lastUpdated: 2026-05-02
+lastUpdated: 2026-05-03
 expiryDate: 2026-12-31
 tags: ["finance", "polymarket"]
 polymarketYes: 95.5
 polymarketNo: 4.5
-polymarketVolume: 97406
+polymarketVolume: 98057
 polymarketUrl: "https://polymarket.com/event/will-spacex-ipo-by-december-31-2026-773-178-618-527"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-spacex-ipo-by-december-31-2026
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 95.5% | 4.5% | $97K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 95.5% | 4.5% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Microsoft be the largest company in the world by market cap on June 30?](/odds/will-microsoft-be-the-largest-company-in-the-world-by-market-cap-on-june-30) — 0% YES
-- [Will OpenAI’s market cap be $1.5T or greater at market close on IPO day?](/odds/will-openais-market-cap-be-15t-or-greater-at-market-close-on-ipo-day) — 12% YES
-- [Will Discord’s market cap be $30B or greater at market close on IPO day?](/odds/will-discords-market-cap-be-30b-or-greater-at-market-close-on-ipo-day) — 3% YES
+- [Will OpenAI’s market cap be $1.5T or greater at market close on IPO day?](/odds/will-openais-market-cap-be-15t-or-greater-at-market-close-on-ipo-day) — 11% YES
+- [Will Microsoft be the largest company in the world by market cap on May 31?](/odds/will-microsoft-be-the-largest-company-in-the-world-by-market-cap-on-may-31) — 0% YES
+- [Will Discord’s market cap be $30B or greater at market close on IPO day?](/odds/will-discords-market-cap-be-30b-or-greater-at-market-close-on-ipo-day) — 2% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will SpaceX IPO by December 31, 2026?"?
 
-As of May 02, 2026, Polymarket prices YES at 95.5%.
+As of May 03, 2026, Polymarket prices YES at 95.5%.
 
 ### Where can I trade on this prediction market?
 

@@ -3,8 +3,8 @@ title: "Will S&P 500 (SPX) hit $8,000 (HIGH) in June?"
 description: "Will S&P 500 (SPX) hit $8,000 (HIGH) in June? Odds: 3.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will S&P 500 (SPX) hit $8,000 (HIGH) in June?"
 category: "finance"
-status: "active"
-lastUpdated: 2026-05-02
+status: "settled"
+lastUpdated: 2026-05-03
 expiryDate: 2026-06-30
 tags: ["finance", "polymarket", "stocks"]
 polymarketYes: 3.2

@@ -3,8 +3,8 @@ title: "Will Travis Kelce retire before next season?"
 description: "Will Travis Kelce retire before next season? Odds: 3.6% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Travis Kelce retire before next season?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-02
+status: "settled"
+lastUpdated: 2026-05-03
 expiryDate: 2026-09-10
 tags: ["politics", "polymarket"]
 polymarketYes: 3.6

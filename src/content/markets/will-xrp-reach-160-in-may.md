@@ -3,8 +3,8 @@ title: "Will XRP reach $1.60 in May?"
 description: "Will XRP reach $1.60 in May? Odds: 31.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will XRP reach $1.60 in May?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-02
+status: "settled"
+lastUpdated: 2026-05-03
 expiryDate: 2026-06-01
 tags: ["politics", "polymarket"]
 polymarketYes: 31.0
