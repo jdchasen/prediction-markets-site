@@ -3,7 +3,7 @@ title: "Will Italy replace Iran in the 2026 FIFA World Cup?"
 description: "Will Italy replace Iran in the 2026 FIFA World Cup? Odds: 7.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Italy replace Iran in the 2026 FIFA World Cup?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-03
 expiryDate: 2026-08-31
 tags: ["polymarket", "sports"]

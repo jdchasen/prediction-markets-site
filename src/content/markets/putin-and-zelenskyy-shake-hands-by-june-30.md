@@ -3,7 +3,7 @@ title: "Putin and Zelenskyy shake hands by June 30?"
 description: "Putin and Zelenskyy shake hands by June 30? Odds: 2.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Putin and Zelenskyy shake hands by June 30?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-03
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]

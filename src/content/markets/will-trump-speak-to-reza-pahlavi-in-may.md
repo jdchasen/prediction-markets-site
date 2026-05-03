@@ -3,7 +3,7 @@ title: "Will Trump speak to Reza Pahlavi in May?"
 description: "Will Trump speak to Reza Pahlavi in May? Odds: 4.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Trump speak to Reza Pahlavi in May?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-03
 expiryDate: 2026-05-31
 tags: ["politics", "polymarket", "trump"]

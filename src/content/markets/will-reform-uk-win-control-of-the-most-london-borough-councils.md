@@ -3,7 +3,7 @@ title: "Will Reform UK win control of the most London borough councils?"
 description: "Will Reform UK win control of the most London borough councils? Odds: 0.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Reform UK win control of the most London borough councils?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-03
 expiryDate: 2026-05-07
 tags: ["politics", "polymarket"]

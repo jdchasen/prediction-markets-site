@@ -3,7 +3,7 @@ title: "Iran agrees to unrestricted shipping through Hormuz by May 31?"
 description: "Iran agrees to unrestricted shipping through Hormuz by May 31? Odds: 14.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Iran agrees to unrestricted shipping through Hormuz by May 31?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-03
 expiryDate: 2026-05-31
 tags: ["politics", "polymarket"]

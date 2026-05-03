@@ -3,7 +3,7 @@ title: "Will Jared Kushner attend the next US x Iran diplomatic meeting?"
 description: "Will Jared Kushner attend the next US x Iran diplomatic meeting? Odds: 63.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Jared Kushner attend the next US x Iran diplomatic meeting?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-03
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]

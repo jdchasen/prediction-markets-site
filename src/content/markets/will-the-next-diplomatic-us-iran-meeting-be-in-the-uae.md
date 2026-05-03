@@ -3,7 +3,7 @@ title: "Will the next diplomatic US-Iran meeting be in the UAE?"
 description: "Will the next diplomatic US-Iran meeting be in the UAE? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the next diplomatic US-Iran meeting be in the UAE?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-03
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]

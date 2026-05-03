@@ -3,7 +3,7 @@ title: "Will Jermaine Johnson win the 2026 South Carolina Governor Democratic pr
 description: "Will Jermaine Johnson win the 2026 South Carolina Governor Democratic primary election? Odds: 71.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Jermaine Johnson win the 2026 South Carolina Governor Democratic primary election?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-03
 expiryDate: 2026-06-09
 tags: ["ai", "elections", "politics", "polymarket"]
