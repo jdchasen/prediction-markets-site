@@ -1,17 +1,16 @@
 ---
 title: "Will xAI have the best AI model at the end of June 2026?"
-description: "Will xAI have the best AI model at the end of June 2026? Odds: 2.4% YES on Polymarket. See live prices and trade this market."
+description: "Will xAI have the best AI model at the end of June 2026? Odds: 2.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will xAI have the best AI model at the end of June 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-03
+lastUpdated: 2026-05-04
 expiryDate: 2026-06-30
 tags: ["ai", "politics", "polymarket"]
-polymarketYes: 2.4
-polymarketNo: 97.7
-polymarketVolume: 995640
+polymarketYes: 2.2
+polymarketNo: 97.8
+polymarketVolume: 996119
 polymarketUrl: "https://polymarket.com/event/will-xai-have-the-best-ai-model-at-the-end-of-june-2026"
-analysisDate: 2026-05-03
 ---
 
 Traders are expressing near-total skepticism about xAI's prospects of leading the AI race by mid-2026, pricing the likelihood at just 2.4% despite Elon Musk's significant financial backing and computational resources. This market serves as a referendum on whether xAI's Grok models can leapfrog established leaders like OpenAI, Anthropic, and Google within the next 18 months—a timeline that matters enormously as the AI sector approaches potential capability plateaus and regulatory inflection points.

@@ -3,8 +3,8 @@ title: "Will SpaceX IPO by December 31, 2026?"
 description: "Will SpaceX IPO by December 31, 2026? Odds: 95.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will SpaceX IPO by December 31, 2026?"
 category: "finance"
-status: "active"
-lastUpdated: 2026-05-03
+status: "settled"
+lastUpdated: 2026-05-04
 expiryDate: 2026-12-31
 tags: ["finance", "polymarket"]
 polymarketYes: 95.5

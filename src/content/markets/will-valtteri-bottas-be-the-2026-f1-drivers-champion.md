@@ -4,14 +4,13 @@ description: "Will Valtteri Bottas be the 2026 F1 Drivers' Champion? Odds: 0.4% 
 marketQuestion: "Will Valtteri Bottas be the 2026 F1 Drivers' Champion?"
 category: "sports"
 status: "active"
-lastUpdated: 2026-05-03
+lastUpdated: 2026-05-04
 expiryDate: 2026-12-06
 tags: ["polymarket", "sports"]
 polymarketYes: 0.4
 polymarketNo: 99.7
-polymarketVolume: 9778082
+polymarketVolume: 9807852
 polymarketUrl: "https://polymarket.com/event/will-valtteri-bottas-be-the-2026-f1-drivers-champion"
-analysisDate: 2026-05-03
 ---
 
 The market has essentially written off Valtteri Bottas's championship chances at less than half a percent probability, reflecting his current status without a confirmed F1 seat for 2025 and a dramatic fall from his competitive Mercedes years. Bottas spent 2024 with Sauber (soon to become Audi), scoring zero points across the entire season as the team languished at the back of the grid, and currently faces an uncertain future as the team has opted for Nico Hulkenberg and Gabriel Bortoleto for 2025.

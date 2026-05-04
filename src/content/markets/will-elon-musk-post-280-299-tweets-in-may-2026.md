@@ -4,14 +4,13 @@ description: "Will Elon Musk post 280-299 tweets in May 2026? Odds: 0.1% YES on 
 marketQuestion: "Will Elon Musk post 280-299 tweets in May 2026?"
 category: "tech"
 status: "active"
-lastUpdated: 2026-05-03
+lastUpdated: 2026-05-04
 expiryDate: 2026-06-01
 tags: ["polymarket", "tech"]
 polymarketYes: 0.1
 polymarketNo: 100.0
 polymarketVolume: 9964
 polymarketUrl: "https://polymarket.com/event/elon-musk-of-tweets-may-2026-280-299"
-analysisDate: 2026-05-03
 ---
 
 This market is essentially pricing in an expectation that Elon Musk will dramatically reduce his Twitter/X posting frequency to a narrow 280-299 tweet band during May 2026, a constraint so specific it reflects deep skepticism about the prediction's relevance. The extreme 0.1% odds suggest market participants view either sustained high-volume posting, significant policy changes at X, or Musk's reduced platform engagement as far more probable outcomes than this exact range.

@@ -3,8 +3,8 @@ title: "Sinaloa Gov. Ruben Rocha extradited to US by June 30?"
 description: "Sinaloa Gov. Ruben Rocha extradited to US by June 30? Odds: 9.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Sinaloa Gov. Ruben Rocha extradited to US by June 30?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-03
+status: "settled"
+lastUpdated: 2026-05-04
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
 polymarketYes: 9.2

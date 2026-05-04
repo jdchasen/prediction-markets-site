@@ -3,8 +3,8 @@ title: "Will Amazon have the #1 AI model at the end of May 2026 (Style Control O
 description: "Will Amazon have the #1 AI model at the end of May 2026 (Style Control On)? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Amazon have the #1 AI model at the end of May 2026 (Style Control On)?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-03
+status: "settled"
+lastUpdated: 2026-05-04
 expiryDate: 2026-05-31
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 0.1

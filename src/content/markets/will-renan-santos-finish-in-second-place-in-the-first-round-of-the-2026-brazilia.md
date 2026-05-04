@@ -4,14 +4,13 @@ description: "Will Renan Santos finish in second place in the first round of the
 marketQuestion: "Will Renan Santos finish in second place in the first round of the 2026 Brazilian presidential election?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-03
+lastUpdated: 2026-05-04
 expiryDate: 2026-10-04
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 4.8
 polymarketNo: 95.2
-polymarketVolume: 986290
+polymarketVolume: 986299
 polymarketUrl: "https://polymarket.com/event/will-renan-santos-finish-in-second-place-in-the-first-round-of-the-2026-brazilian-presidential-election"
-analysisDate: 2026-05-03
 ---
 
 The market gives Renan Santos less than a 5% chance of securing second place in Brazil's 2026 presidential first round, reflecting his status as a relatively unknown quantity in a crowded field traditionally dominated by established politicians like Lula, Bolsonaro, and their successors.

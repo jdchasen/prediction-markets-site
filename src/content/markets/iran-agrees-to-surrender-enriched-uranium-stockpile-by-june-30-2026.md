@@ -3,8 +3,8 @@ title: "Iran agrees to surrender enriched uranium stockpile by June 30, 2026?"
 description: "Iran agrees to surrender enriched uranium stockpile by June 30, 2026? Odds: 14.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Iran agrees to surrender enriched uranium stockpile by June 30, 2026?"
 category: "finance"
-status: "active"
-lastUpdated: 2026-05-03
+status: "settled"
+lastUpdated: 2026-05-04
 expiryDate: 2026-06-30
 tags: ["finance", "polymarket", "stocks"]
 polymarketYes: 14.0

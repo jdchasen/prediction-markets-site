@@ -3,8 +3,8 @@ title: "Will XRP dip to $1.00 in May?"
 description: "Will XRP dip to $1.00 in May? Odds: 5.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will XRP dip to $1.00 in May?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-03
+status: "settled"
+lastUpdated: 2026-05-04
 expiryDate: 2026-06-01
 tags: ["politics", "polymarket"]
 polymarketYes: 5.0

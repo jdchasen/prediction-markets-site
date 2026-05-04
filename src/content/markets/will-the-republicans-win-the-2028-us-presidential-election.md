@@ -4,14 +4,13 @@ description: "Will the Republicans win the 2028 US Presidential Election? Odds: 
 marketQuestion: "Will the Republicans win the 2028 US Presidential Election?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-03
+lastUpdated: 2026-05-04
 expiryDate: 2028-11-07
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 38.5
 polymarketNo: 61.5
-polymarketVolume: 974377
+polymarketVolume: 974418
 polymarketUrl: "https://polymarket.com/event/will-the-republicans-win-the-2028-us-presidential-election"
-analysisDate: 2026-05-03
 ---
 
 Republicans are currently trading at roughly 2-in-5 odds to reclaim the White House in 2028, a market that matters now because it reflects early positioning on the post-Trump political landscape and whether Democratic governance can maintain voter support through a full term.

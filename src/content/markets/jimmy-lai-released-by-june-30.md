@@ -3,8 +3,8 @@ title: "Jimmy Lai released by June 30?"
 description: "Jimmy Lai released by June 30? Odds: 2.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Jimmy Lai released by June 30?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-03
+status: "settled"
+lastUpdated: 2026-05-04
 expiryDate: 2026-06-30
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 2.2

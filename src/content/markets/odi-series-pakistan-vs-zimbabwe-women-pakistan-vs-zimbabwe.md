@@ -3,8 +3,8 @@ title: "ODI Series Pakistan vs Zimbabwe, Women: Pakistan vs Zimbabwe"
 description: "ODI Series Pakistan vs Zimbabwe, Women: Pakistan vs Zimbabwe Odds: 93.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "ODI Series Pakistan vs Zimbabwe, Women: Pakistan vs Zimbabwe"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-03
+status: "settled"
+lastUpdated: 2026-05-04
 expiryDate: 2026-05-10
 tags: ["politics", "polymarket"]
 polymarketYes: 93.5

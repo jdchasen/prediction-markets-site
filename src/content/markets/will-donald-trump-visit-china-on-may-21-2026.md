@@ -3,8 +3,8 @@ title: "Will Donald Trump visit China on May 21, 2026?"
 description: "Will Donald Trump visit China on May 21, 2026? Odds: 0.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Donald Trump visit China on May 21, 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-03
+status: "settled"
+lastUpdated: 2026-05-04
 expiryDate: 2026-05-31
 tags: ["politics", "polymarket", "trump"]
 polymarketYes: 0.2

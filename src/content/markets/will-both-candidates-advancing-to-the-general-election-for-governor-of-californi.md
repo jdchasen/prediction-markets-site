@@ -3,8 +3,8 @@ title: "Will both candidates advancing to the general election for Governor of C
 description: "Will both candidates advancing to the general election for Governor of California from the June 2, 2026 primary be affiliated with the Republican Party? Odds..."
 marketQuestion: "Will both candidates advancing to the general election for Governor of California from the June 2, 2026 primary be affiliated with the Republican Party?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-03
+status: "settled"
+lastUpdated: 2026-05-04
 expiryDate: 2026-06-02
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 3.4

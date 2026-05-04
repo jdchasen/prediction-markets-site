@@ -1,17 +1,16 @@
 ---
 title: "Fed rate cut by December 2026 meeting?"
-description: "Fed rate cut by December 2026 meeting? Odds: 45.5% YES on Polymarket. See live prices and trade this market."
+description: "Fed rate cut by December 2026 meeting? Odds: 46.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Fed rate cut by December 2026 meeting?"
 category: "economics"
 status: "active"
-lastUpdated: 2026-05-03
+lastUpdated: 2026-05-04
 expiryDate: 2026-06-17
 tags: ["economics", "federal-reserve", "interest-rates", "polymarket"]
-polymarketYes: 45.5
-polymarketNo: 54.5
-polymarketVolume: 96445
+polymarketYes: 46.0
+polymarketNo: 54.0
+polymarketVolume: 96607
 polymarketUrl: "https://polymarket.com/event/fed-rate-cut-by-december-2026-meeting"
-analysisDate: 2026-05-03
 ---
 
 Prediction markets currently price in slightly worse than even odds of a Federal Reserve rate cut by their December 2026 meeting, reflecting deep uncertainty about inflation persistence and economic resilience over the next two years.
