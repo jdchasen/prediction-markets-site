@@ -3,7 +3,7 @@ title: "Will Paloma Valencia win the 2026 Colombian presidential election?"
 description: "Will Paloma Valencia win the 2026 Colombian presidential election? Odds: 26.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Paloma Valencia win the 2026 Colombian presidential election?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-04
 expiryDate: 2026-06-21
 tags: ["elections", "politics", "polymarket"]

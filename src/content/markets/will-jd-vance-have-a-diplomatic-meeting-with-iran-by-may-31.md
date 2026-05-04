@@ -3,7 +3,7 @@ title: "Will J.D. Vance have a diplomatic meeting with Iran by May 31?"
 description: "Will J.D. Vance have a diplomatic meeting with Iran by May 31? Odds: 21.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will J.D. Vance have a diplomatic meeting with Iran by May 31?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-04
 expiryDate: 2026-05-31
 tags: ["politics", "polymarket"]

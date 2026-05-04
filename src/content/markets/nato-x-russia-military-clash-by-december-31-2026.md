@@ -9,9 +9,8 @@ expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 19.5
 polymarketNo: 80.5
-polymarketVolume: 97827
+polymarketVolume: 99751
 polymarketUrl: "https://polymarket.com/event/nato-x-russia-military-clash-by-december-31-2026-244"
-analysisDate: 2026-05-04
 ---
 
 Traders are pricing in roughly a one-in-five chance of direct military confrontation between NATO and Russian forces over the next two years, reflecting heightened tensions from the Ukraine conflict but still viewing full-scale escalation as unlikely. This market matters because it quantifies geopolitical risk that could trigger Article 5, reshape European security architecture, and potentially lead to nuclear escalation scenarios.

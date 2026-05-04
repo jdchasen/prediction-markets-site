@@ -9,9 +9,8 @@ expiryDate: 2026-08-04
 tags: ["politics", "polymarket"]
 polymarketYes: 51.5
 polymarketNo: 48.5
-polymarketVolume: 97108
+polymarketVolume: 97116
 polymarketUrl: "https://polymarket.com/event/will-abdul-el-sayed-win-the-2026-michigan-democratic-primary"
-analysisDate: 2026-05-04
 ---
 
 # 2026 Michigan Democratic Primary: El-Sayed's Path to Victory at Even Odds

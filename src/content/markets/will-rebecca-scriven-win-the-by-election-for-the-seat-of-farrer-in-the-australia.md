@@ -1,17 +1,16 @@
 ---
 title: "Will Rebecca Scriven win the by-election for the seat of Farrer in the Australian House of Representatives?"
-description: "Will Rebecca Scriven win the by-election for the seat of Farrer in the Australian House of Representatives? Odds: 0.3% YES on Polymarket. See live prices and..."
+description: "Will Rebecca Scriven win the by-election for the seat of Farrer in the Australian House of Representatives? Odds: 0.1% YES on Polymarket. See live prices and..."
 marketQuestion: "Will Rebecca Scriven win the by-election for the seat of Farrer in the Australian House of Representatives?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-05-04
 expiryDate: 2026-05-09
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 0.3
-polymarketNo: 99.7
-polymarketVolume: 97089
+polymarketYes: 0.1
+polymarketNo: 99.9
+polymarketVolume: 97622
 polymarketUrl: "https://polymarket.com/event/will-rebecca-scriven-win-the-by-election-for-the-seat-of-farrer-in-the-australian-house-of-representatives"
-analysisDate: 2026-05-04
 ---
 
 The Polymarket odds pricing Rebecca Scriven at 0.3% to win the Farrer by-election signal near-certainty among traders that she will not secure this traditionally safe conservative seat in rural New South Wales, reflecting both the electoral fundamentals and the unique characteristics of this rural electorate.

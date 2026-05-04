@@ -1,53 +1,54 @@
 ---
 title: "Will Jorge Rodríguez be the leader of Venezuela end of 2026?"
-description: "Will Jorge Rodríguez be the leader of Venezuela end of 2026? Odds: 0.7% YES on Polymarket. See live prices and trade this market."
+description: "Will Jorge Rodríguez be the leader of Venezuela end of 2026? Odds: 0.6% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Jorge Rodríguez be the leader of Venezuela end of 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-05-04
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 0.7
+polymarketYes: 0.6
 polymarketNo: 99.4
-polymarketVolume: 977962
+polymarketVolume: 977980
 polymarketUrl: "https://polymarket.com/event/will-jorge-rodrguez-be-the-leader-of-venezuela-end-of-2026"
+analysisDate: 2026-05-04
 ---
 
-The market assigns minimal probability to Jorge Rodríguez becoming Venezuela's leader by end of 2026, reflecting both the entrenched nature of Nicolás Maduro's regime and Rodríguez's current role as National Assembly president rather than executive leader. Rodríguez, a key Maduro ally and chief government negotiator, has been central to managing relations with the opposition and international actors, but shows no clear pathway to displacing Maduro absent a dramatic internal power shift within chavismo.
+This market heavily discounts the possibility of Jorge Rodríguez—currently Venezuela's National Assembly president and key Maduro regime negotiator—becoming the country's leader by late 2026, with traders seeing less than a 1% probability despite his prominent position in the chavista power structure.
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.6% | 99.4% | $977K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.6% | 99.4% | $978K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The bull case rests on internal regime fractures that could emerge if Venezuela's economic crisis deepens or if external pressure intensifies following the disputed 2024 election results. Rodríguez could position himself as a pragmatic successor if military or party elites determine Maduro has become too toxic for maintaining power, particularly as he has maintained relationships with international mediators and opposition figures. His technical competence and lower profile internationally compared to Maduro might make him acceptable to factions seeking continuity without Maduro's personal baggage. A health crisis or forced exile of Maduro would create an opening for Rodriguez as someone deeply embedded in the power structure.
+The bull case rests on potential fractures within the regime following Nicolás Maduro's contested continuation in power after the July 2024 elections. Rodríguez has served as Maduro's chief negotiator in international talks and maintains deep ties to Cuba's government, positioning him as a potential successor if Maduro faces health issues, internal party struggles, or international pressure forces a transition. His role as National Assembly president since 2020 and his family's revolutionary credentials (his mother was a guerrilla fighter) give him institutional legitimacy within chavismo. A scenario involving Maduro's incapacitation or a negotiated transition that requires a new face while maintaining regime continuity could elevate Rodríguez.
 
-The bear case is overwhelming: Maduro has systematically eliminated threats to his position, controls security forces through patronage networks, and has shown no indication of voluntary departure. Presidential elections scheduled for 2025 (though disputed internationally) would see Maduro claim another term rather than cede power to any subordinate. Rodríguez lacks an independent power base—his influence derives entirely from proximity to Maduro, making a coup or internal displacement extremely unlikely. The regime's survival strategy depends on maintaining clear hierarchies, and elevating Rodríguez would require either Maduro's death or a military intervention that would more likely install a junta than a civilian legislator.
+The bear case is straightforward: Maduro shows no signs of relinquishing power and has systematically eliminated potential rivals while consolidating control over the military and security apparatus. Venezuela's 2024 presidential election demonstrated the regime's willingness to maintain power despite international condemnation of fraudulent results favoring Maduro. Diosdado Cabello, the interior minister with stronger military connections, appears to be Maduro's more likely successor if a transition occurs. The opposition, led by María Corina Machado and Edmundo González, continues challenging the regime internationally but lacks domestic mechanisms to force change. Rodríguez's role as negotiator actually makes him more valuable to Maduro in his current position rather than as a replacement.
 
-Key catalysts include the installation of Maduro's next term in January 2025, ongoing negotiations with the U.S. over sanctions relief, and potential opposition mobilization attempts. The Trump administration's Venezuela policy and any moves toward recognizing opposition claims could pressure the regime, though historical precedent suggests this strengthens rather than weakens Maduro's grip. Traders should monitor Maduro's public appearances for health concerns, military leadership changes, and any signs of elite defections from chavismo, though the 0.6% probability appropriately reflects the remote likelihood of regime succession to Rodríguez specifically.
+Key catalysts to monitor include Venezuela's legislative elections scheduled for 2025, any deterioration in Maduro's health (he is 62), and the progression of international sanctions and diplomatic negotiations. The Trump administration's return in January 2025 could intensify pressure on the Maduro regime, potentially forcing internal realignments. Watch for signs of elite fracturing within chavismo, particularly between civilian party officials like Rodríguez and military hardliners. Any major protests or economic collapse severe enough to threaten regime stability would also shift these probabilities, though Venezuela's opposition has struggled to mobilize effectively since 2024.
 
 ## Related Markets
 
-- [Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?](/odds/will-amanda-anisimova-be-the-2026-womens-wimbledon-winner) — 6% YES
+- [Will the US acquire part of Greenland in 2026?](/odds/will-the-us-acquire-part-of-greenland-in-2026) — 14% YES
 - [Will xAI have the best AI model at the end of June 2026?](/odds/will-xai-have-the-best-ai-model-at-the-end-of-june-2026) — 2% YES
-- [Will Renan Santos finish in second place in the first round of the 2026 Brazilian presidential election?](/odds/will-renan-santos-finish-in-second-place-in-the-first-round-of-the-2026-brazilia) — 5% YES
+- [Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?](/odds/will-amanda-anisimova-be-the-2026-womens-wimbledon-winner) — 5% YES
 
 ## Frequently Asked Questions
 
-### Could Jorge Rodríguez assume power if Maduro dies or becomes incapacitated before 2026?
+### What distinguishes Jorge Rodríguez from other potential Maduro successors within the regime?
 
-Constitutional succession would pass to the Vice President, not the National Assembly president. Rodríguez would need backing from the military and inner circle to overcome formal succession rules, which is possible but unlikely given competing power centers within chavismo.
+Rodríguez is a civilian technocrat and negotiator rather than a military figure, which makes him less likely to command loyalty from Venezuela's armed forces that ultimately underpin the regime. Diosdado Cabello's military and intelligence connections give him a stronger succession claim.
 
-### How does Rodríguez's role in opposition negotiations affect his chances of becoming leader?
+### Could international negotiations result in Rodríguez becoming leader as part of a compromise deal?
 
-His negotiator role demonstrates regime trust but also makes him potentially expendable—useful for dialogue precisely because he's not the ultimate authority. This position doesn't translate to the independent power base needed to challenge or succeed Maduro.
+While Rodríguez has led regime negotiations with the opposition and international actors, any negotiated transition would more likely involve genuinely independent figures or the opposition coalition rather than installing another chavista insider. His close association with Maduro makes him unacceptable to most opposition stakeholders.
 
-### What would need to happen for this market to reach even 10-20% probability?
+### How would Venezuela's constitutional succession process work if Maduro left office before 2026?
 
-Clear signs of Maduro's serious illness, explicit statements about succession planning naming Rodríguez, or visible fracturing within the military leadership combined with Rodríguez building alliances with security services would substantially shift odds upward.
+If Maduro were permanently unavailable, the executive vice president (currently Delcy Rodríguez, Jorge's sister) would assume power temporarily, followed by new elections within 30 days—though the regime has previously ignored constitutional requirements when convenient. Jorge Rodríguez as National Assembly president does not have automatic succession rights under Venezuelan law.
 
 ## Learn More
 

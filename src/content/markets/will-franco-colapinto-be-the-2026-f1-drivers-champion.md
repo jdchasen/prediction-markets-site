@@ -9,9 +9,8 @@ expiryDate: 2026-12-06
 tags: ["polymarket", "sports"]
 polymarketYes: 0.4
 polymarketNo: 99.7
-polymarketVolume: 9716234
+polymarketVolume: 9723195
 polymarketUrl: "https://polymarket.com/event/will-franco-colapinto-be-the-2026-f1-drivers-champion"
-analysisDate: 2026-05-04
 ---
 
 The market gives Franco Colapinto virtually no chance of winning the 2026 F1 championship, reflecting his current status without a confirmed F1 seat for 2025, let alone 2026. The Argentine driver impressed during his five-race stint with Williams in 2024, scoring points at Baku and Austin, but Red Bull passed on promoting him to their main team, and Alpine signed Jack Doohan instead, leaving Colapinto's immediate F1 future uncertain.

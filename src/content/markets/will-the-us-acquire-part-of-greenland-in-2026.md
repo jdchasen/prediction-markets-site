@@ -9,9 +9,8 @@ expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 13.5
 polymarketNo: 86.5
-polymarketVolume: 9733470
+polymarketVolume: 9744454
 polymarketUrl: "https://polymarket.com/event/will-the-us-acquire-any-part-of-greenland-in-2026"
-analysisDate: 2026-05-04
 ---
 
 The prospect of a US acquisition of Greenland territory sits at roughly 1-in-7 odds, reflecting a scenario that would require extraordinary diplomatic breakthroughs and remains highly unlikely despite renewed attention following Trump's 2019 interest in purchasing the entire territory. This matters because any credible movement toward territorial acquisition would represent a seismic shift in Arctic geopolitics and NATO dynamics, particularly as climate change opens new shipping routes and resource extraction opportunities.

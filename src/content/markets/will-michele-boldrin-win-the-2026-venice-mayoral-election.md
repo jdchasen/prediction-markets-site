@@ -3,7 +3,7 @@ title: "Will Michele Boldrin win the 2026 Venice mayoral election?"
 description: "Will Michele Boldrin win the 2026 Venice mayoral election? Odds: 0.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Michele Boldrin win the 2026 Venice mayoral election?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-04
 expiryDate: 2026-05-25
 tags: ["elections", "politics", "polymarket"]

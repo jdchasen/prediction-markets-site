@@ -1,17 +1,16 @@
 ---
 title: "Will Bert Mizusawa be the Republican nominee for Senate in Virginia?"
-description: "Will Bert Mizusawa be the Republican nominee for Senate in Virginia? Odds: 50.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Bert Mizusawa be the Republican nominee for Senate in Virginia? Odds: 52.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Bert Mizusawa be the Republican nominee for Senate in Virginia?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-05-04
 expiryDate: 2026-06-16
 tags: ["politics", "polymarket"]
-polymarketYes: 50.5
-polymarketNo: 49.5
-polymarketVolume: 9786
+polymarketYes: 52.0
+polymarketNo: 48.0
+polymarketVolume: 9797
 polymarketUrl: "https://polymarket.com/event/will-bert-mizusawa-be-the-republican-nominee-for-senate-in-virginia"
-analysisDate: 2026-05-04
 ---
 
 # Bert Mizusawa's Path to the Virginia Republican Senate Nomination
