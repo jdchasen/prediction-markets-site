@@ -3,8 +3,8 @@ title: "Will Oliver Adams Larkin be the Democratic Nominee for FL-23?"
 description: "Will Oliver Adams Larkin be the Democratic Nominee for FL-23? Odds: 45.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Oliver Adams Larkin be the Democratic Nominee for FL-23?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-04
+status: "settled"
+lastUpdated: 2026-05-05
 expiryDate: 2026-08-18
 tags: ["politics", "polymarket"]
 polymarketYes: 45.5

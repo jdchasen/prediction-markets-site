@@ -1,17 +1,16 @@
 ---
 title: "US x Cuba military clash in 2026?"
-description: "US x Cuba military clash in 2026? Odds: 43.5% YES on Polymarket. See live prices and trade this market."
+description: "US x Cuba military clash in 2026? Odds: 44.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "US x Cuba military clash in 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-04
+lastUpdated: 2026-05-05
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 43.5
-polymarketNo: 56.5
-polymarketVolume: 98722
+polymarketYes: 44.0
+polymarketNo: 56.0
+polymarketVolume: 98777
 polymarketUrl: "https://polymarket.com/event/us-x-cuba-military-clash-in-2026"
-analysisDate: 2026-05-04
 ---
 
 # US-Cuba Military Clash in 2026: Market Analysis

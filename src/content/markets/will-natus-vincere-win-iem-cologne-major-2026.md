@@ -3,8 +3,8 @@ title: "Will Natus Vincere win IEM Cologne Major 2026?"
 description: "Will Natus Vincere win IEM Cologne Major 2026? Odds: 5.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Natus Vincere win IEM Cologne Major 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-04
+status: "settled"
+lastUpdated: 2026-05-05
 expiryDate: 2026-06-21
 tags: ["politics", "polymarket"]
 polymarketYes: 5.9

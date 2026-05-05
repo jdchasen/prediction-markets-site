@@ -4,14 +4,13 @@ description: "Abstract FDV above $200M one day after launch? Odds: 76.5% YES on 
 marketQuestion: "Abstract FDV above $200M one day after launch?"
 category: "crypto"
 status: "active"
-lastUpdated: 2026-05-04
+lastUpdated: 2026-05-05
 expiryDate: 2028-01-01
 tags: ["crypto", "polymarket"]
 polymarketYes: 76.5
 polymarketNo: 23.5
-polymarketVolume: 98826
+polymarketVolume: 98975
 polymarketUrl: "https://polymarket.com/event/abstract-fdv-above-200m-one-day-after-launch"
-analysisDate: 2026-05-04
 ---
 
 The market is pricing in a strong 76.5% likelihood that Abstract, an upcoming blockchain protocol, will achieve a fully diluted valuation exceeding $200 million within 24 hours of its token launch, reflecting significant investor confidence in this layer-2 scaling solution built on Ethereum's ZK Stack technology. Abstract is being developed by Igloo Inc. and has already secured notable backing from Pudgy Penguins, which migrated its NFT collection to the network in late 2024. The extended timeline until January 2028 expiry suggests traders are anticipating a launch sometime in 2025-2027, with the market essentially betting on whether Abstract can command premium valuations comparable to other successful L2s like Arbitrum ($2B+ FDV at launch) or Optimism ($5B+ FDV).

@@ -3,8 +3,8 @@ title: "Chirayu Rana sued?"
 description: "Chirayu Rana sued? Odds: 82.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Chirayu Rana sued?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-04
+status: "settled"
+lastUpdated: 2026-05-05
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 82.5

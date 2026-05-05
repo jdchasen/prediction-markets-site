@@ -1,17 +1,16 @@
 ---
 title: "Fed rate hike in 2026?"
-description: "Fed rate hike in 2026? Odds: 23.5% YES on Polymarket. See live prices and trade this market."
+description: "Fed rate hike in 2026? Odds: 25.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Fed rate hike in 2026?"
 category: "economics"
 status: "active"
-lastUpdated: 2026-05-04
+lastUpdated: 2026-05-05
 expiryDate: 2026-12-09
 tags: ["economics", "federal-reserve", "polymarket"]
-polymarketYes: 23.5
-polymarketNo: 76.5
-polymarketVolume: 982411
+polymarketYes: 25.5
+polymarketNo: 74.5
+polymarketVolume: 986507
 polymarketUrl: "https://polymarket.com/event/fed-rate-hike-in-2026"
-analysisDate: 2026-05-04
 ---
 
 The market assigns roughly one-in-four odds that the Federal Reserve will raise interest rates at least once during 2026, reflecting expectations that the current easing cycle will continue well into next year with rate hikes remaining a tail risk rather than the base case. This matters because it reveals trader skepticism about persistent inflation forcing a policy reversal after the Fed's anticipated cutting phase.

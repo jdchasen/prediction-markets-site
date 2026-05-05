@@ -1,17 +1,16 @@
 ---
 title: "Will Switzerland be in the top 10 at Eurovision 2026?"
-description: "Will Switzerland be in the top 10 at Eurovision 2026? Odds: 8.0% YES on Polymarket. See live prices and trade this market."
+description: "Will Switzerland be in the top 10 at Eurovision 2026? Odds: 8.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Switzerland be in the top 10 at Eurovision 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-04
+lastUpdated: 2026-05-05
 expiryDate: 2026-05-16
 tags: ["politics", "polymarket"]
-polymarketYes: 8.0
-polymarketNo: 92.0
+polymarketYes: 8.5
+polymarketNo: 91.5
 polymarketVolume: 9828
 polymarketUrl: "https://polymarket.com/event/will-switzerland-be-in-the-top-10-at-eurovision-2026"
-analysisDate: 2026-05-04
 ---
 
 # Eurovision 2026 Switzerland Top-10 Prediction Analysis

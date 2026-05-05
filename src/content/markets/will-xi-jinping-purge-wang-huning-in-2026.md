@@ -1,17 +1,16 @@
 ---
 title: "Will Xi Jinping purge Wang Huning in 2026?"
-description: "Will Xi Jinping purge Wang Huning in 2026? Odds: 8.1% YES on Polymarket. See live prices and trade this market."
+description: "Will Xi Jinping purge Wang Huning in 2026? Odds: 9.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Xi Jinping purge Wang Huning in 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-04
+lastUpdated: 2026-05-05
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 8.1
-polymarketNo: 91.9
+polymarketYes: 9.1
+polymarketNo: 90.9
 polymarketVolume: 9982
 polymarketUrl: "https://polymarket.com/event/will-xi-jinping-purge-wang-huning-in-2026"
-analysisDate: 2026-05-04
 ---
 
 # Xi Jinping and Wang Huning: The 2026 Purge Question

@@ -4,14 +4,13 @@ description: "Will Australia win the televote for Eurovision 2026? Odds: 0.4% YE
 marketQuestion: "Will Australia win the televote for Eurovision 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-04
+lastUpdated: 2026-05-05
 expiryDate: 2026-05-16
 tags: ["politics", "polymarket"]
 polymarketYes: 0.4
 polymarketNo: 99.6
 polymarketVolume: 99154
 polymarketUrl: "https://polymarket.com/event/will-australia-win-the-televote-for-eurovision-2026"
-analysisDate: 2026-05-04
 ---
 
 The market prices Australia's chances of winning the Eurovision 2026 televote at an extremely low 0.4%, reflecting fundamental structural barriers despite the country's strong Eurovision track record since joining as a special guest in 2015.

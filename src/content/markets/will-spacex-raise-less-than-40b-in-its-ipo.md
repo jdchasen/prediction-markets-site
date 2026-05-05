@@ -1,16 +1,15 @@
 ---
 title: "Will SpaceX raise less than $40B in its IPO?"
-description: "Will SpaceX raise less than $40B in its IPO? Odds: 2.8% YES on Polymarket. See live prices and trade this market."
+description: "Will SpaceX raise less than $40B in its IPO? Odds: 3.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will SpaceX raise less than $40B in its IPO?"
 category: "finance"
 status: "active"
-lastUpdated: 2026-05-04
+lastUpdated: 2026-05-05
 tags: ["ai", "finance", "polymarket"]
-polymarketYes: 2.8
-polymarketNo: 97.2
+polymarketYes: 3.0
+polymarketNo: 97.0
 polymarketVolume: 9795
 polymarketUrl: "https://polymarket.com/event/will-spacex-raise-less-than-40b-in-its-ipo"
-analysisDate: 2026-05-04
 ---
 
 # SpaceX IPO Valuation: The $40B Threshold

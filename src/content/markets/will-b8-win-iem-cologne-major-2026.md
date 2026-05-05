@@ -3,8 +3,8 @@ title: "Will B8 win IEM Cologne Major 2026?"
 description: "Will B8 win IEM Cologne Major 2026? Odds: 0.3% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will B8 win IEM Cologne Major 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-04
+status: "settled"
+lastUpdated: 2026-05-05
 expiryDate: 2026-06-21
 tags: ["politics", "polymarket"]
 polymarketYes: 0.3

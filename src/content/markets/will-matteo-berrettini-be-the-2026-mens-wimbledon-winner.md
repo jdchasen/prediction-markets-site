@@ -4,14 +4,13 @@ description: "Will Matteo Berrettini be the 2026 Men’s Wimbledon winner? Odds:
 marketQuestion: "Will Matteo Berrettini be the 2026 Men’s Wimbledon winner?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-04
+lastUpdated: 2026-05-05
 expiryDate: 2026-07-12
 tags: ["politics", "polymarket"]
 polymarketYes: 0.2
 polymarketNo: 99.8
 polymarketVolume: 9737
 polymarketUrl: "https://polymarket.com/event/will-matteo-berrettini-be-the-2026-mens-wimbledon-winner"
-analysisDate: 2026-05-04
 ---
 
 # Matteo Berrettini 2026 Wimbledon Analysis

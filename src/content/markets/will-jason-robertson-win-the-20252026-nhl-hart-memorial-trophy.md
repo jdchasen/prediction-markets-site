@@ -4,14 +4,13 @@ description: "Will Jason Robertson win the 2025–2026 NHL Hart Memorial Trophy?
 marketQuestion: "Will Jason Robertson win the 2025–2026 NHL Hart Memorial Trophy?"
 category: "sports"
 status: "active"
-lastUpdated: 2026-05-04
+lastUpdated: 2026-05-05
 expiryDate: 2026-06-30
 tags: ["polymarket", "sports"]
 polymarketYes: 0.1
 polymarketNo: 100.0
 polymarketVolume: 9829
 polymarketUrl: "https://polymarket.com/event/nhl-2025-26-hart-memorial-trophy-jason-robertson"
-analysisDate: 2026-05-04
 ---
 
 # Jason Robertson Hart Trophy Analysis

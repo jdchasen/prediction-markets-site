@@ -3,8 +3,8 @@ title: "Will Adam Miller win the 2026 Los Angeles mayoral election?"
 description: "Will Adam Miller win the 2026 Los Angeles mayoral election? Odds: 0.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Adam Miller win the 2026 Los Angeles mayoral election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-04
+status: "settled"
+lastUpdated: 2026-05-05
 expiryDate: 2026-06-02
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.9

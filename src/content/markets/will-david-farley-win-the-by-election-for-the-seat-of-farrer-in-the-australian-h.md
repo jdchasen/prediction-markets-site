@@ -3,8 +3,8 @@ title: "Will David Farley win the by-election for the seat of Farrer in the Aust
 description: "Will David Farley win the by-election for the seat of Farrer in the Australian House of Representatives? Odds: 84.0% YES on Polymarket. See live prices and t..."
 marketQuestion: "Will David Farley win the by-election for the seat of Farrer in the Australian House of Representatives?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-04
+status: "settled"
+lastUpdated: 2026-05-05
 expiryDate: 2026-05-09
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 84.0

@@ -1,17 +1,16 @@
 ---
 title: "Will US crude oil reserves fall to 325M by June 5?"
-description: "Will US crude oil reserves fall to 325M by June 5? Odds: 9.2% YES on Polymarket. See live prices and trade this market."
+description: "Will US crude oil reserves fall to 325M by June 5? Odds: 6.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will US crude oil reserves fall to 325M by June 5?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-04
+lastUpdated: 2026-05-05
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
-polymarketYes: 9.2
-polymarketNo: 90.8
+polymarketYes: 6.4
+polymarketNo: 93.6
 polymarketVolume: 9856
 polymarketUrl: "https://polymarket.com/event/will-us-crude-oil-reserves-fall-to-325m-by-june-5"
-analysisDate: 2026-05-04
 ---
 
 # US Crude Oil Reserves Prediction Market Analysis
