@@ -3,7 +3,7 @@ title: "Will Cal Jacobs die in Euphoria: Season 3?"
 description: "Will Cal Jacobs die in Euphoria: Season 3? Odds: 26.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Cal Jacobs die in Euphoria: Season 3?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-05
 expiryDate: 2026-05-31
 tags: ["politics", "polymarket"]

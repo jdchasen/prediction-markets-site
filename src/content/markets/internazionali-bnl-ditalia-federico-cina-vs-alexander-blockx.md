@@ -3,7 +3,7 @@ title: "Internazionali BNL d'Italia: Federico Cina vs Alexander Blockx"
 description: "Internazionali BNL d'Italia: Federico Cina vs Alexander Blockx Odds: 23.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Internazionali BNL d'Italia: Federico Cina vs Alexander Blockx"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-05
 expiryDate: 2026-05-13
 tags: ["federal-reserve", "politics", "polymarket"]

@@ -3,7 +3,7 @@ title: "Will South Carolina use a new congressional map for the 2026 United Stat
 description: "Will South Carolina use a new congressional map for the 2026 United States midterm elections? Odds: 33.5% YES on Polymarket. See live prices and trade this m..."
 marketQuestion: "Will South Carolina use a new congressional map for the 2026 United States midterm elections?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-05
 expiryDate: 2026-11-03
 tags: ["elections", "politics", "polymarket"]

@@ -3,7 +3,7 @@ title: "Will Reza Pahlavi enter Iran by May 31?"
 description: "Will Reza Pahlavi enter Iran by May 31? Odds: 1.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Reza Pahlavi enter Iran by May 31?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-05
 expiryDate: 2026-05-31
 tags: ["politics", "polymarket"]

@@ -3,7 +3,7 @@ title: "Theo FDV above $1B one day after launch?"
 description: "Theo FDV above $1B one day after launch? Odds: 2.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Theo FDV above $1B one day after launch?"
 category: "crypto"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-05
 expiryDate: 2027-01-01
 tags: ["crypto", "polymarket"]

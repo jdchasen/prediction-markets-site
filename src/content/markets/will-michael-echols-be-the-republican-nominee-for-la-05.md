@@ -1,17 +1,16 @@
 ---
 title: "Will Michael Echols be the Republican nominee for LA-05?"
-description: "Will Michael Echols be the Republican nominee for LA-05? Odds: 21.6% YES on Polymarket. See live prices and trade this market."
+description: "Will Michael Echols be the Republican nominee for LA-05? Odds: 24.3% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Michael Echols be the Republican nominee for LA-05?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-05-05
 expiryDate: 2026-05-16
 tags: ["politics", "polymarket"]
-polymarketYes: 21.6
-polymarketNo: 78.3
-polymarketVolume: 9756
+polymarketYes: 24.3
+polymarketNo: 75.6
+polymarketVolume: 9776
 polymarketUrl: "https://polymarket.com/event/will-michael-echols-be-the-republican-nominee-for-la-05"
-analysisDate: 2026-05-05
 ---
 
 # Republican Nominee Analysis: LA-05

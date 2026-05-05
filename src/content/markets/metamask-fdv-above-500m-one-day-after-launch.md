@@ -11,7 +11,6 @@ polymarketYes: 37.0
 polymarketNo: 63.0
 polymarketVolume: 9801
 polymarketUrl: "https://polymarket.com/event/metamask-fdv-above-500m-one-day-after-launch-584-889-774"
-analysisDate: 2026-05-05
 ---
 
 # MetaMask FDV Market Analysis

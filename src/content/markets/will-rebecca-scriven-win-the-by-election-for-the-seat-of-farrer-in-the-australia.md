@@ -11,7 +11,6 @@ polymarketYes: 0.1
 polymarketNo: 99.9
 polymarketVolume: 98204
 polymarketUrl: "https://polymarket.com/event/will-rebecca-scriven-win-the-by-election-for-the-seat-of-farrer-in-the-australian-house-of-representatives"
-analysisDate: 2026-05-05
 ---
 
 The market pricing Rebecca Scriven at 0.1% reflects overwhelming skepticism that she can flip Farrer, a regional New South Wales seat held by the Liberal-National Coalition continuously since 1949 with margins typically exceeding 20 points. This by-election timing matters because it will test voter sentiment on both major parties between general elections, potentially signaling broader shifts in rural Australian politics.

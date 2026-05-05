@@ -3,7 +3,7 @@ title: "Will Amazon.com, Inc. (AMZN) hit (HIGH) $288 in May?"
 description: "Will Amazon.com, Inc. (AMZN) hit (HIGH) $288 in May? Odds: 50.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Amazon.com, Inc. (AMZN) hit (HIGH) $288 in May?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-05
 expiryDate: 2026-06-01
 tags: ["politics", "polymarket"]

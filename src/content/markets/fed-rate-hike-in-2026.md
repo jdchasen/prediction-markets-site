@@ -1,51 +1,48 @@
 ---
 title: "Fed rate hike in 2026?"
-description: "Fed rate hike in 2026? Odds: 25.5% YES on Polymarket. See live prices and trade this market."
+description: "Fed rate hike in 2026? Odds: 23.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Fed rate hike in 2026?"
 category: "economics"
 status: "active"
 lastUpdated: 2026-05-05
 expiryDate: 2026-12-09
 tags: ["economics", "federal-reserve", "polymarket"]
-polymarketYes: 25.5
-polymarketNo: 74.5
-polymarketVolume: 986507
+polymarketYes: 23.5
+polymarketNo: 76.5
+polymarketVolume: 987546
 polymarketUrl: "https://polymarket.com/event/fed-rate-hike-in-2026"
+analysisDate: 2026-05-05
 ---
 
-The market assigns roughly one-in-four odds that the Federal Reserve will raise interest rates at least once during 2026, reflecting expectations that the current easing cycle will continue well into next year with rate hikes remaining a tail risk rather than the base case. This matters because it reveals trader skepticism about persistent inflation forcing a policy reversal after the Fed's anticipated cutting phase.
+Prediction markets currently price less than a one-in-four chance that the Federal Reserve will raise interest rates at any point during 2026, reflecting widespread expectations that the next phase of monetary policy will involve cuts or extended holds rather than tightening. This matters because it signals trader confidence that inflation will remain subdued and economic conditions won't require renewed hawkishness two years from now.
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 23.5% | 76.5% | $982K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 23.5% | 76.5% | $988K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The bull case for a 2026 rate hike centers on inflation proving structurally stickier than the Fed's 2% target, particularly if services inflation remains elevated above 4% or commodity prices surge due to geopolitical shocks. If core PCE consistently prints above 3% through late 2025 and unemployment stays below 4%, the Fed could exhaust its cutting cycle by mid-2025 and face renewed pricing pressures requiring tightening in 2026. Strong wage growth data from monthly NFP reports averaging above 4% year-over-year would support this scenario, especially if productivity gains fail to offset labor cost increases.
+The bull case for a rate hike centers on persistent inflation pressures that could re-emerge from supply chain disruptions, fiscal stimulus, or wage-price spirals that prevent the Fed from reaching its 2% target sustainably. If core PCE inflation remains above 3% through 2025 despite rate cuts, the Fed could be forced to reverse course in 2026. A tight labor market with unemployment consistently below 4% and wage growth exceeding 4-5% annually would provide the economic resilience needed for the Fed to tighten without triggering recession. Geopolitical shocks driving energy prices higher or a resurgence in housing inflation could also necessitate action.
 
-The bear case argues the Fed's restrictive policy will continue working through the economy via lagged effects, bringing inflation durably to target by late 2025 without requiring any reversal. If CPI consistently trends toward 2% through 2025 while unemployment drifts upward past 4.5%, the Fed would likely maintain rates in neutral territory throughout 2026 or potentially cut further. Weakening consumer spending data, declining rent growth in CPI shelter components, and softening labor markets would reinforce this dovish path.
+The bear case rests on the Fed's forward guidance suggesting rate cuts through 2025 and the historical rarity of hiking cycles resuming after significant easing. The December 2024 FOMC projections showed median rate expectations around 3.9% for 2025, implying substantial cuts from current levels. If CPI prints for Q1 2026 (released January-April 2026) show inflation anchored near 2%, the rationale for hikes evaporates. Additionally, leading indicators like ISM Manufacturing PMI falling below 50 or deteriorating consumer confidence would signal economic weakness incompatible with tightening policy.
 
-Key catalysts include the January 29, 2025 FOMC decision and Powell's press conference setting the tone for the year's policy path, followed by the February 12 CPI report and February 7 NFP data establishing early 2025 trends. The March 19 FOMC meeting will provide updated dot plot projections for 2026 terminal rates, critically shaping market expectations. Traders should monitor quarterly core PCE readings against the Fed's 2% target, ISM Services PMI prices paid components for services inflation trends, and whether the unemployment rate breaches 4.5% which would significantly reduce hike probability. Any 2025 FOMC meeting where officials raise their 2026 rate projections above current cuts would dramatically shift odds upward.
-
-## Related Markets
-
-- [Fed rate cut by December 2026 meeting?](/odds/fed-rate-cut-by-december-2026-meeting) — 46% YES
+Key catalysts include the January 29, 2025 FOMC decision and subsequent meetings in March, May, and throughout 2025, as the cumulative trajectory of cuts will shape 2026 expectations. Watch monthly CPI releases (next on January 15, 2025) and nonfarm payrolls data (first Friday of each month) for signs of inflation reacceleration or labor market overheating. The June 2025 FOMC Summary of Economic Projections will be critical for understanding whether the Fed sees 2026 requiring any tightening bias. Any NFP prints above 250,000 combined with core CPI above 0.3% monthly would significantly boost these odds, while sustained readings showing disinflation continuing through 2025 would drive probabilities toward single digits.
 
 ## Frequently Asked Questions
 
-### Does this market resolve YES if the Fed raises rates just once in 2026, even by 25 basis points?
+### Does this market resolve YES if the Fed raises rates even once in 2026, or does it require multiple hikes?
 
-Yes, any rate increase during 2026 would resolve this market as YES, regardless of magnitude. Even a single quarter-point hike qualifies.
+A single rate increase at any FOMC meeting during 2026 would trigger a YES resolution. The frequency or magnitude of hikes is irrelevant to the outcome.
 
-### What's the most likely scenario where rates get hiked in 2026 after the Fed has spent 2024-2025 cutting?
+### How would stagflation in 2025-2026 affect the probability of rate hikes versus the Fed keeping rates steady?
 
-A reacceleration of inflation in late 2025 after the Fed has cut to around 3.5-4%, forcing a policy reversal similar to the 1970s stop-start pattern. This would require core inflation rebounding above 3.5% despite prior rate cuts.
+Stagflation creates a policy dilemma where high inflation argues for hikes but weak growth argues against them. Historical Fed behavior suggests they would tolerate higher inflation temporarily rather than hike into a recession, making stagflation potentially neutral to slightly bearish for this market.
 
-### How does this market's timeline affect its probability compared to near-term rate decisions?
+### If the Fed cuts rates to 3% by mid-2025, would that make a 2026 hike more or less likely than if they only cut to 4%?
 
-The extended two-year horizon creates enormous uncertainty around economic conditions, making extreme outcomes (deep recession or inflation resurgence) less predictable and keeping probability in the 20-30% range rather than near 0% or 100%.
+Deeper cuts to 3% would generally make 2026 hikes less likely, as they'd signal the Fed sees significant economic weakness requiring substantial accommodation. However, if aggressive cuts successfully reignite inflation without controlling it, they could paradoxically create conditions requiring 2026 tightening.
 
 ## Learn More
 

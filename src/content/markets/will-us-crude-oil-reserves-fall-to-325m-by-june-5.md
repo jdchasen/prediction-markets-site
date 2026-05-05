@@ -1,16 +1,17 @@
 ---
 title: "Will US crude oil reserves fall to 325M by June 5?"
-description: "Will US crude oil reserves fall to 325M by June 5? Odds: 6.4% YES on Polymarket. See live prices and trade this market."
+description: "Will US crude oil reserves fall to 325M by June 5? Odds: 7.3% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will US crude oil reserves fall to 325M by June 5?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-05-05
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
-polymarketYes: 6.4
-polymarketNo: 93.6
-polymarketVolume: 9856
+polymarketYes: 7.3
+polymarketNo: 92.7
+polymarketVolume: 9867
 polymarketUrl: "https://polymarket.com/event/will-us-crude-oil-reserves-fall-to-325m-by-june-5"
+analysisDate: 2026-05-05
 ---
 
 # US Crude Oil Reserves Prediction Market Analysis
@@ -19,35 +20,37 @@ polymarketUrl: "https://polymarket.com/event/will-us-crude-oil-reserves-fall-to-
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 9.2% | 90.8% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 7.3% | 92.7% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The 9.2% odds suggest traders view a significant drawdown of US crude reserves to 325M barrels by mid-2026 as unlikely, but this low probability masks critical vulnerabilities in oil supply dynamics that could shift rapidly. This market matters now because energy policy, geopolitical disruptions, and demand shocks are converging at a time when SPR (Strategic Petroleum Reserve) releases and refinery utilization will be under intense political pressure heading into the 2026 midterms.
+The market is pricing an extremely low probability that US crude oil reserves will decline to 325 million barrels by the June 2026 deadline, reflecting current reserve levels around 370-380 million barrels and structural factors that make such a sharp drawdown unlikely without major disruption. This matters because crude reserve levels signal US energy independence, geopolitical leverage, and can influence inflation dynamics that affect electoral messaging heading into 2026 midterms. The 7.3% odds suggest traders view a ~55 million barrel decline over 18 months as a tail-risk scenario rather than a baseline expectation.
 
-The bull case rests on several converging pressures: (1) if geopolitical tensions escalate in the Middle East or Russia, the US could drawdown reserves to stabilize global markets and lower pump prices before the 2026 elections, (2) a severe recession could collapse demand and force refineries to draw on crude inventories to balance production, and (3) the current administration has already released record amounts from the SPR—another 50-75M barrel drawdown over 18 months is operationally feasible if political incentives align. The bear case is stronger: current reserves sit around 372M barrels, meaning reserves would need to fall 47M barrels (12.6%) in roughly 18 months. This would require sustained geopolitical crisis, sustained demand destruction, or aggressive policy decisions that break historical precedent. The SPR has been rebuilt periodically, and absent an acute shortage, refineries typically draw on crude production rather than strategic reserves.
+The bull case for YES requires either sustained high oil production without adequate replenishment or a coordinated Strategic Petroleum Reserve (SPR) drawdown combined with weak domestic refining demand. This would require either a significant supply shock that forces emergency releases (comparable to 2022 post-Russian invasion SPR draws, which removed 180M barrels over months), or a major recession crushing demand simultaneously with production constraints. The Biden/Harris administration drew SPR to historic lows in late 2022-early 2023 but has since been refilling, making large new drawdowns politically difficult without a crisis. A recession scenario before mid-2026 is possible but not priced as highly in equity markets, suggesting limited conviction on demand destruction that severe.
 
-Watch for these catalysts: crude production data releases every Thursday from the EIA (next major inventory reports mid-January), any OPEC+ production decisions (next ministerial meeting typically Q1 2025), Middle East escalation (Iran tensions, Strait of Hormuz disruptions), and pre-election energy policy statements in Q2 2026. The legislative calendar matters too—if Republicans control Congress in 2025-2026, SPR policy could shift dramatically toward filling over draining. Conversely, any US military engagement or major supply shock would immediately reprrice this market higher. Traders should monitor crude futures curves; if WTI breaks below $60/barrel sustainably, demand destruction becomes the primary driver and reserve drawdowns become more likely.
+The bear case is far stronger: US crude reserves naturally stabilize around 360-400 million barrels through normal SPR management, and the reserve floor is politically sacred—no administration wants to appear weak on energy security. Refinery utilization typically maintains production-consumption equilibrium, and current market conditions show no pressure toward 325M. Even aggressive SPR sales require congressional approval or emergency presidential authority (only invoked during crises), making 55 million barrel declines without explicit policy choices structurally implausible. The long-dated expiry (30 months away) gives markets time to normalize after any transient shocks.
+
+Key catalysts include monthly EIA crude inventory releases (every Wednesday), which show actual reserve trajectory; any major geopolitical oil supply disruption (Middle East escalation, Russia sanctions tightening) that might force SPR draws; recession onset that could trigger demand-destruction draws; and 2025 congressional action on energy policy if Republicans control both chambers. Watch for SPR refilling pace specifically—if it reverses and begins draining, the probability could meaningfully shift. The market's low odds reflect rational skepticism about achieving such a scenario without either catastrophic economic collapse or deliberate policy decisions that haven't materialized.
 
 ## Related Markets
 
-- [Will the US acquire part of Greenland in 2026?](/odds/will-the-us-acquire-part-of-greenland-in-2026) — 14% YES
-- [Will xAI have the best AI model at the end of June 2026?](/odds/will-xai-have-the-best-ai-model-at-the-end-of-june-2026) — 2% YES
-- [Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?](/odds/will-amanda-anisimova-be-the-2026-womens-wimbledon-winner) — 5% YES
+- [Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?](/odds/will-amanda-anisimova-be-the-2026-womens-wimbledon-winner) — 7% YES
+- [Will Xi Jinping win the Nobel Peace Prize in 2026?](/odds/will-xi-jinping-win-the-nobel-peace-prize-in-2026) — 2% YES
+- [Will Renan Santos finish in second place in the first round of the 2026 Brazilian presidential election?](/odds/will-renan-santos-finish-in-second-place-in-the-first-round-of-the-2026-brazilia) — 5% YES
 
 ## Frequently Asked Questions
 
-### What is the current US crude oil reserve level and how much would it need to decline to hit the 325M target?
+### What SPR refilling price did the US government target when it stopped emergency sales, and how does that anchor current reserve expectations?
 
-US crude reserves currently stand around 372M barrels, requiring a 47M barrel drawdown (12.6%) over 18 months. This magnitude of decline would be significant and historically associated with either geopolitical crisis or severe demand shock.
+The administration refilled SPR starting around $70-75/barrel in late 2023-2024 after emergency sales around $80-90/barrel; this implicit price band means reserves tend to stabilize in the 370-380M range absent major shocks, making the 325M target a >15% decline from normalized levels.
 
-### How does SPR policy differ under Republican vs. Democratic control and when will Congress next vote on energy strategy?
+### Would a recession alone force reserves to 325M without other policy interventions?
 
-Republicans historically favor SPR fills over drains, while Democrats are more willing to release reserves to control gas prices. Watch for energy committee hearings in early 2025 after the new Congress convenes in January, which could signal administration intent on reserve strategy.
+No—recessions reduce oil *demand* and typically *raise* inventory levels rather than drain them; hitting 325M would require simultaneous production collapse or mandated SPR emergency draws, not just demand weakness.
 
-### What oil price level would make a 47M barrel reserve drawdown most likely?
+### Which EIA report specifically measures crude reserves, and how frequently should traders monitor it for movement toward 325M?
 
-If WTI crude falls sustainably below $60/barrel, demand destruction would pressure refineries and reserves downward; conversely, prices above $80 would make SPR releases politically attractive to cool inflation before the 2026 midterms.
+The Weekly Petroleum Status Report released every Wednesday includes crude inventory changes; traders should watch whether weekly changes trend negative for multiple consecutive months, as the current buffer
 
 ## Learn More
 

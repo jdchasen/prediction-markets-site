@@ -3,7 +3,7 @@ title: "Will US withdraw from NATO before 2027?"
 description: "Will US withdraw from NATO before 2027? Odds: 8.3% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will US withdraw from NATO before 2027?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-05
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]

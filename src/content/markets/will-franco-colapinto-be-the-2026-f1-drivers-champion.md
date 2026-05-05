@@ -9,9 +9,8 @@ expiryDate: 2026-12-06
 tags: ["polymarket", "sports"]
 polymarketYes: 0.4
 polymarketNo: 99.7
-polymarketVolume: 9766361
+polymarketVolume: 9773157
 polymarketUrl: "https://polymarket.com/event/will-franco-colapinto-be-the-2026-f1-drivers-champion"
-analysisDate: 2026-05-05
 ---
 
 The market assigns minimal probability to Franco Colapinto winning the 2026 F1 championship, reflecting the Argentine driver's current lack of a confirmed race seat for even the 2025 season. The 21-year-old impressed during his nine-race stint with Williams in late 2024, scoring points in Azerbaijan and finishing ahead of teammate Logan Sargeant, but Williams opted to sign Carlos Sainz instead. Alpine considered him for 2025 before selecting Jack Doohan, leaving Colapinto likely headed for a reserve or development role.
