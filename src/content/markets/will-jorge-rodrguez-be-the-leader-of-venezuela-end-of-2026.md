@@ -1,17 +1,16 @@
 ---
 title: "Will Jorge Rodríguez be the leader of Venezuela end of 2026?"
-description: "Will Jorge Rodríguez be the leader of Venezuela end of 2026? Odds: 0.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Jorge Rodríguez be the leader of Venezuela end of 2026? Odds: 0.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Jorge Rodríguez be the leader of Venezuela end of 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-05
+lastUpdated: 2026-05-06
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 0.5
-polymarketNo: 99.5
-polymarketVolume: 978979
+polymarketYes: 0.8
+polymarketNo: 99.2
+polymarketVolume: 979708
 polymarketUrl: "https://polymarket.com/event/will-jorge-rodrguez-be-the-leader-of-venezuela-end-of-2026"
-analysisDate: 2026-05-05
 ---
 
 The market strongly indicates traders see virtually no chance of Jorge Rodríguez, Venezuela's current National Assembly president, becoming the country's leader by end of 2026, despite his prominent role in the Maduro government and the United Socialist Party (PSUV).

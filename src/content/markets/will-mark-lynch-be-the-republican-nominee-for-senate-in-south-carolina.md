@@ -3,8 +3,8 @@ title: "Will Mark Lynch be the Republican nominee for Senate in South Carolina?"
 description: "Will Mark Lynch be the Republican nominee for Senate in South Carolina? Odds: 13.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Mark Lynch be the Republican nominee for Senate in South Carolina?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-05
+status: "settled"
+lastUpdated: 2026-05-06
 expiryDate: 2026-07-31
 tags: ["politics", "polymarket"]
 polymarketYes: 13.8

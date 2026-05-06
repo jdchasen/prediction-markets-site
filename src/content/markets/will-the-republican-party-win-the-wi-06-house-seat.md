@@ -4,14 +4,13 @@ description: "Will the Republican Party win the WI-06 House seat? Odds: 81.5% YE
 marketQuestion: "Will the Republican Party win the WI-06 House seat?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-05
+lastUpdated: 2026-05-06
 expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
 polymarketYes: 81.5
 polymarketNo: 18.5
 polymarketVolume: 9764
 polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-wi-06-house-seat"
-analysisDate: 2026-05-05
 ---
 
 # WI-06 House Seat Republican Win Probability Analysis

@@ -3,8 +3,8 @@ title: "Will Bitcoin hit $70k or $90k first?"
 description: "Will Bitcoin hit $70k or $90k first? Odds: 42.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Bitcoin hit $70k or $90k first?"
 category: "crypto"
-status: "active"
-lastUpdated: 2026-05-05
+status: "settled"
+lastUpdated: 2026-05-06
 expiryDate: 2027-01-01
 tags: ["bitcoin", "crypto", "polymarket"]
 polymarketYes: 42.5

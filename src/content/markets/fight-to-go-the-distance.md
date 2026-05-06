@@ -3,8 +3,8 @@ title: "Fight to Go the Distance?"
 description: "Fight to Go the Distance? Odds: 30.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Fight to Go the Distance?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-05
+status: "settled"
+lastUpdated: 2026-05-06
 expiryDate: 2026-05-10
 tags: ["politics", "polymarket"]
 polymarketYes: 30.5

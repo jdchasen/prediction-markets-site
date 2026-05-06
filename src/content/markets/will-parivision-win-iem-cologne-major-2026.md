@@ -3,8 +3,8 @@ title: "Will PARIVISION win IEM Cologne Major 2026?"
 description: "Will PARIVISION win IEM Cologne Major 2026? Odds: 3.6% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will PARIVISION win IEM Cologne Major 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-05
+status: "settled"
+lastUpdated: 2026-05-06
 expiryDate: 2026-06-21
 tags: ["politics", "polymarket"]
 polymarketYes: 3.6

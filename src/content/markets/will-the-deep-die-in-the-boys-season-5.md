@@ -1,17 +1,16 @@
 ---
 title: "Will The Deep die in \"The Boys: Season 5\"?"
-description: "Will The Deep die in \"The Boys: Season 5\"? Odds: 85.0% YES on Polymarket. See live prices and trade this market."
+description: "Will The Deep die in \"The Boys: Season 5\"? Odds: 83.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will The Deep die in \"The Boys: Season 5\"?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-05
+lastUpdated: 2026-05-06
 expiryDate: 2026-05-20
 tags: ["politics", "polymarket"]
-polymarketYes: 85.0
-polymarketNo: 15.0
-polymarketVolume: 9809
+polymarketYes: 83.5
+polymarketNo: 16.5
+polymarketVolume: 9986
 polymarketUrl: "https://polymarket.com/event/will-the-deep-die-in-the-boys-season-5"
-analysisDate: 2026-05-05
 ---
 
 # The Deep's Fate in The Boys Season 5: A Market Analysis

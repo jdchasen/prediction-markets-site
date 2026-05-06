@@ -4,14 +4,13 @@ description: "Will France be in the top 5 at Eurovision 2026? Odds: 57.5% YES on
 marketQuestion: "Will France be in the top 5 at Eurovision 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-05
+lastUpdated: 2026-05-06
 expiryDate: 2026-05-16
 tags: ["politics", "polymarket"]
 polymarketYes: 57.5
 polymarketNo: 42.5
-polymarketVolume: 9899
+polymarketVolume: 9906
 polymarketUrl: "https://polymarket.com/event/will-france-be-in-the-top-5-at-eurovision-2026"
-analysisDate: 2026-05-05
 ---
 
 # Eurovision 2026: France's Top 5 Prospects

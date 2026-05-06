@@ -3,8 +3,8 @@ title: "FaZe roster change Before GTA VI?"
 description: "FaZe roster change Before GTA VI? Odds: 85.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "FaZe roster change Before GTA VI?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-05
+status: "settled"
+lastUpdated: 2026-05-06
 tags: ["politics", "polymarket"]
 polymarketYes: 85.5
 polymarketNo: 14.5

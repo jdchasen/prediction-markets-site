@@ -3,8 +3,8 @@ title: "Internazionali BNL d'Italia: Lorenzo Sonego vs Ignacio Buse"
 description: "Internazionali BNL d'Italia: Lorenzo Sonego vs Ignacio Buse Odds: 38.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Internazionali BNL d'Italia: Lorenzo Sonego vs Ignacio Buse"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-05
+status: "settled"
+lastUpdated: 2026-05-06
 expiryDate: 2026-05-13
 tags: ["politics", "polymarket"]
 polymarketYes: 38.5

@@ -1,17 +1,16 @@
 ---
 title: "Will Joe Johnson be the Republican nominee for Senate in Oregon?"
-description: "Will Joe Johnson be the Republican nominee for Senate in Oregon? Odds: 1.6% YES on Polymarket. See live prices and trade this market."
+description: "Will Joe Johnson be the Republican nominee for Senate in Oregon? Odds: 1.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Joe Johnson be the Republican nominee for Senate in Oregon?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-05
+lastUpdated: 2026-05-06
 expiryDate: 2026-05-19
 tags: ["politics", "polymarket"]
-polymarketYes: 1.6
-polymarketNo: 98.5
-polymarketVolume: 9912
+polymarketYes: 1.5
+polymarketNo: 98.6
+polymarketVolume: 9938
 polymarketUrl: "https://polymarket.com/event/will-joe-johnson-be-the-republican-nominee-for-senate-in-oregon"
-analysisDate: 2026-05-05
 ---
 
 # Joe Johnson Republican Senate Nomination Analysis

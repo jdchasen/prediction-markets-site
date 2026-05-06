@@ -3,8 +3,8 @@ title: "Will Iran Play in the 2026 FIFA World Cup?"
 description: "Will Iran Play in the 2026 FIFA World Cup? Odds: 84.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Iran Play in the 2026 FIFA World Cup?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-05-05
+status: "settled"
+lastUpdated: 2026-05-06
 expiryDate: 2026-08-02
 tags: ["polymarket", "sports"]
 polymarketYes: 84.2

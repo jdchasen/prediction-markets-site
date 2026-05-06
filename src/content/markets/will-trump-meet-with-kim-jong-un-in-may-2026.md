@@ -3,8 +3,8 @@ title: "Will Trump meet with Kim Jong Un in May 2026?"
 description: "Will Trump meet with Kim Jong Un in May 2026? Odds: 3.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Trump meet with Kim Jong Un in May 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-05
+status: "settled"
+lastUpdated: 2026-05-06
 expiryDate: 2026-05-31
 tags: ["politics", "polymarket", "trump"]
 polymarketYes: 3.5
