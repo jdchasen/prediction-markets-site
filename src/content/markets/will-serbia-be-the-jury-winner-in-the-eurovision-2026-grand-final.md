@@ -9,9 +9,8 @@ expiryDate: 2026-05-16
 tags: ["politics", "polymarket"]
 polymarketYes: 0.4
 polymarketNo: 99.7
-polymarketVolume: 98727
+polymarketVolume: 99929
 polymarketUrl: "https://polymarket.com/event/will-serbia-be-the-jury-winner-in-the-eurovision-2026-grand-final"
-analysisDate: 2026-05-06
 ---
 
 The betting market gives Serbia virtually no chance at winning the Eurovision 2026 jury vote, reflecting both historical performance patterns and current geopolitical headwinds affecting the country's standing with European juries.

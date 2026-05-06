@@ -3,7 +3,7 @@ title: "Will Trump speak to Mohammed bin Salman in May?"
 description: "Will Trump speak to Mohammed bin Salman in May? Odds: 39.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Trump speak to Mohammed bin Salman in May?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-06
 expiryDate: 2026-05-31
 tags: ["politics", "polymarket", "trump"]

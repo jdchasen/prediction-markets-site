@@ -3,7 +3,7 @@ title: "Will Apple be the largest company in the world by market cap on June 30?
 description: "Will Apple be the largest company in the world by market cap on June 30? Odds: 1.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Apple be the largest company in the world by market cap on June 30?"
 category: "finance"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-06
 expiryDate: 2026-06-30
 tags: ["finance", "polymarket"]

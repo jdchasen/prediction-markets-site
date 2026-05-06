@@ -9,9 +9,8 @@ expiryDate: 2026-12-06
 tags: ["polymarket", "sports"]
 polymarketYes: 0.4
 polymarketNo: 99.7
-polymarketVolume: 9814191
+polymarketVolume: 9823812
 polymarketUrl: "https://polymarket.com/event/will-franco-colapinto-be-the-2026-f1-drivers-champion"
-analysisDate: 2026-05-06
 ---
 
 The market prices Franco Colapinto as an extreme longshot for the 2026 F1 title at 0.4%, reflecting his current status without a confirmed seat for 2025 and the significant hurdles facing any driver without top machinery. The Argentine rookie impressed during his nine-race stint with Williams in late 2024, scoring points at Azerbaijan and Austin, but the path from reserve/academy driver to championship contender typically requires years of development with a top-tier team.

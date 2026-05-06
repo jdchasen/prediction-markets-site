@@ -3,7 +3,7 @@ title: "Internazionali BNL d'Italia: Yulia Putintseva vs Tereza Valentova"
 description: "Internazionali BNL d'Italia: Yulia Putintseva vs Tereza Valentova Odds: 42.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Internazionali BNL d'Italia: Yulia Putintseva vs Tereza Valentova"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-06
 expiryDate: 2026-05-12
 tags: ["politics", "polymarket"]

@@ -9,9 +9,8 @@ expiryDate: 2028-01-01
 tags: ["crypto", "polymarket"]
 polymarketYes: 76.0
 polymarketNo: 24.0
-polymarketVolume: 98993
+polymarketVolume: 99019
 polymarketUrl: "https://polymarket.com/event/abstract-fdv-above-200m-one-day-after-launch"
-analysisDate: 2026-05-06
 ---
 
 The market strongly favors Abstract achieving a fully diluted valuation exceeding $200 million within 24 hours of its token launch, reflecting high confidence in the project's backing and positioning within the layer-2 ecosystem. Abstract is being developed by Igloo Inc. (formerly Pudgy Penguins' parent company) and is building on the ZK Stack, leveraging both the cultural capital of a successful NFT brand and robust technical infrastructure from Matter Labs' zkSync technology.

@@ -3,7 +3,7 @@ title: "Will Ethereum reach $2,700 May 4-10?"
 description: "Will Ethereum reach $2,700 May 4-10? Odds: 2.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Ethereum reach $2,700 May 4-10?"
 category: "crypto"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-06
 expiryDate: 2026-05-11
 tags: ["crypto", "ethereum", "polymarket"]

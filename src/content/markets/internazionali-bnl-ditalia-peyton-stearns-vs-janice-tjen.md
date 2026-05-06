@@ -3,7 +3,7 @@ title: "Internazionali BNL d'Italia: Peyton Stearns vs Janice Tjen"
 description: "Internazionali BNL d'Italia: Peyton Stearns vs Janice Tjen Odds: 67.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Internazionali BNL d'Italia: Peyton Stearns vs Janice Tjen"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-06
 expiryDate: 2026-05-12
 tags: ["politics", "polymarket"]

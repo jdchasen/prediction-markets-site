@@ -3,7 +3,7 @@ title: "Kash Patel out by May 31?"
 description: "Kash Patel out by May 31? Odds: 17.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Kash Patel out by May 31?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-06
 expiryDate: 2026-05-31
 tags: ["politics", "polymarket"]

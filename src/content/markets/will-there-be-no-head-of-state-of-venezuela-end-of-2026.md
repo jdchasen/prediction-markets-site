@@ -1,17 +1,16 @@
 ---
 title: "Will there be no head of state of Venezuela end of 2026?"
-description: "Will there be no head of state of Venezuela end of 2026? Odds: 0.5% YES on Polymarket. See live prices and trade this market."
+description: "Will there be no head of state of Venezuela end of 2026? Odds: 0.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will there be no head of state of Venezuela end of 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-05-06
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 0.5
-polymarketNo: 99.5
-polymarketVolume: 979690
+polymarketYes: 0.8
+polymarketNo: 99.2
+polymarketVolume: 982292
 polymarketUrl: "https://polymarket.com/event/will-there-be-no-head-of-state-of-venezuela-end-of-2026"
-analysisDate: 2026-05-06
 ---
 
 The market overwhelmingly expects Venezuela to have a head of state at the end of 2026, with traders pricing in only a 0.5% chance of total governmental collapse or complete dissolution of leadership structure by that date.

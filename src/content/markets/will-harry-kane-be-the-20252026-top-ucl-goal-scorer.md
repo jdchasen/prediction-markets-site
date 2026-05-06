@@ -3,7 +3,7 @@ title: "Will Harry Kane be the 2025/2026 top UCL goal scorer?"
 description: "Will Harry Kane be the 2025/2026 top UCL goal scorer? Odds: 41.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Harry Kane be the 2025/2026 top UCL goal scorer?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-06
 expiryDate: 2026-05-30
 tags: ["politics", "polymarket"]

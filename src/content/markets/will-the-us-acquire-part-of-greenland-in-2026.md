@@ -1,17 +1,16 @@
 ---
 title: "Will the US acquire part of Greenland in 2026?"
-description: "Will the US acquire part of Greenland in 2026? Odds: 13.5% YES on Polymarket. See live prices and trade this market."
+description: "Will the US acquire part of Greenland in 2026? Odds: 14.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the US acquire part of Greenland in 2026?"
 category: "politics"
-status: "settled"
-lastUpdated: 2026-05-05
+status: "active"
+lastUpdated: 2026-05-06
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 13.5
-polymarketNo: 86.5
-polymarketVolume: 9757640
+polymarketYes: 14.5
+polymarketNo: 85.5
+polymarketVolume: 9761322
 polymarketUrl: "https://polymarket.com/event/will-the-us-acquire-any-part-of-greenland-in-2026"
-analysisDate: 2026-05-05
 ---
 
 The market pricing Greenland acquisition at 13.5% reflects skepticism that Trump's renewed territorial ambitions will overcome massive diplomatic, legal, and political obstacles within a two-year window. This matters because Trump has explicitly stated interest in acquiring Greenland since his first term and may pursue it more aggressively in his second presidency, potentially straining US-Denmark relations and NATO cohesion.
