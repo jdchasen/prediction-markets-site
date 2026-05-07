@@ -9,9 +9,8 @@ expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 0.7
 polymarketNo: 99.4
-polymarketVolume: 986519
+polymarketVolume: 988254
 polymarketUrl: "https://polymarket.com/event/will-there-be-no-head-of-state-of-venezuela-end-of-2026"
-analysisDate: 2026-05-07
 ---
 
 This market is betting on an extraordinarily unlikely scenario—Venezuela having no head of state whatsoever by year-end 2026—with traders assigning less than a 1% probability to this outcome, reflecting the reality that modern nation-states virtually never exist in a leadership vacuum even during constitutional crises.

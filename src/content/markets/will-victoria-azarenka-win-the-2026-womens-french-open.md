@@ -11,7 +11,6 @@ polymarketYes: 0.2
 polymarketNo: 99.8
 polymarketVolume: 9912
 polymarketUrl: "https://polymarket.com/event/will-victoria-azarenka-win-the-2026-womens-french-open"
-analysisDate: 2026-05-07
 ---
 
 # Victoria Azarenka and the 2026 French Open: A Miscategorized Market Worth Examining

@@ -11,7 +11,6 @@ polymarketYes: 29.0
 polymarketNo: 71.0
 polymarketVolume: 9905
 polymarketUrl: "https://polymarket.com/event/will-jd-gaming-qualify-to-msi-2026"
-analysisDate: 2026-05-07
 ---
 
 # JD Gaming MSI 2026 Qualification Analysis

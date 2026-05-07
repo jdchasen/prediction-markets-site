@@ -3,7 +3,7 @@ title: "Trump-Denmark Greenland deal signed by June 30?"
 description: "Trump-Denmark Greenland deal signed by June 30? Odds: 7.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Trump-Denmark Greenland deal signed by June 30?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-07
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket", "trump"]

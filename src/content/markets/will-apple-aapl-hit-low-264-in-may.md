@@ -3,7 +3,7 @@ title: "Will Apple (AAPL) hit (LOW) $264 in May?"
 description: "Will Apple (AAPL) hit (LOW) $264 in May? Odds: 17.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Apple (AAPL) hit (LOW) $264 in May?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-07
 expiryDate: 2026-06-01
 tags: ["politics", "polymarket"]

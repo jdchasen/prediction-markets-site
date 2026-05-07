@@ -1,17 +1,16 @@
 ---
 title: "Taiwanese Premier Cho Jung-tai out by June 30, 2026?"
-description: "Taiwanese Premier Cho Jung-tai out by June 30, 2026? Odds: 2.7% YES on Polymarket. See live prices and trade this market."
+description: "Taiwanese Premier Cho Jung-tai out by June 30, 2026? Odds: 3.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Taiwanese Premier Cho Jung-tai out by June 30, 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-05-07
 expiryDate: 2026-06-30
 tags: ["ai", "politics", "polymarket"]
-polymarketYes: 2.7
-polymarketNo: 97.3
-polymarketVolume: 98034
+polymarketYes: 3.1
+polymarketNo: 96.9
+polymarketVolume: 98221
 polymarketUrl: "https://polymarket.com/event/taiwanese-premier-cho-jung-tai-out-by-june-30-2026"
-analysisDate: 2026-05-07
 ---
 
 The market gives Taiwanese Premier Cho Jung-tai only a 2.7% chance of leaving office before June 30, 2026, reflecting strong confidence that he'll maintain his position through at least the first 18 months of President Lai Ching-te's administration despite Taiwan's notoriously turbulent political environment.

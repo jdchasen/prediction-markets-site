@@ -3,7 +3,7 @@ title: "Will Paul Skenes win the 2026 NL Cy Young Award?"
 description: "Will Paul Skenes win the 2026 NL Cy Young Award? Odds: 41.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Paul Skenes win the 2026 NL Cy Young Award?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-07
 expiryDate: 2026-11-12
 tags: ["politics", "polymarket"]

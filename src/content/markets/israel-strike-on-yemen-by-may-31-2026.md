@@ -1,53 +1,54 @@
 ---
 title: "Israel strike on Yemen by May 31, 2026?"
-description: "Israel strike on Yemen by May 31, 2026? Odds: 8.5% YES on Polymarket. See live prices and trade this market."
+description: "Israel strike on Yemen by May 31, 2026? Odds: 18.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Israel strike on Yemen by May 31, 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-05-07
 expiryDate: 2026-05-31
 tags: ["politics", "polymarket"]
-polymarketYes: 8.5
-polymarketNo: 91.5
-polymarketVolume: 98492
+polymarketYes: 18.0
+polymarketNo: 82.0
+polymarketVolume: 99180
 polymarketUrl: "https://polymarket.com/event/israel-strike-on-yemen-by-may-31-2026-588-747-911"
+analysisDate: 2026-05-07
 ---
 
-The market pricing an 11% chance of an Israeli strike on Yemen before June 2026 reflects traders betting heavily against expanded military operations despite ongoing Houthi attacks on shipping and Israeli territory. This matters as it signals expectations that Israel will maintain its strategic focus on Gaza, Lebanon, and Iran rather than opening a new front in Yemen, even as Houthi missile and drone threats continue.
+Prediction markets currently price an Israeli military strike on Yemen at roughly one-in-five odds through May 2026, reflecting the ongoing Houthi threat to Israeli territory and Red Sea shipping lanes but also the significant operational and diplomatic barriers to sustained Israeli military action in Yemen.
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 11.0% | 89.0% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 18.0% | 82.0% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The bear case against a strike centers on Israel's resource constraints and strategic priorities. The IDF remains heavily committed to operations against Hamas in Gaza and maintaining security along the Lebanese border with Hezbollah. Direct strikes on Yemen would require extensive logistical planning, aerial refueling capabilities, and potentially coordination with Saudi Arabia or other regional partners—complicating factors that make such operations unlikely without a dramatic escalation. Israeli defense officials have historically preferred letting U.S. and coalition forces handle Houthi threats through Operation Prosperity Guardian in the Red Sea. The political dynamics also favor restraint, as Prime Minister Netanyahu's government faces domestic pressure to secure hostage releases and maintain focus on immediate security threats rather than expanding military commitments.
+The bull case centers on escalation dynamics already in motion. Houthi forces, backed by Iran, have demonstrated both capability and intent to strike Israeli territory with drones and missiles, while their attacks on commercial shipping directly threaten Israeli economic interests. If the Houthis successfully strike a major Israeli population center causing mass casualties, or if intelligence reveals imminent transfer of advanced Iranian weapons systems to Yemen, Israel would face overwhelming domestic pressure to respond with direct strikes rather than relying on proxies or limited operations. The precedent of Israel's December 2024 strikes on Houthi infrastructure in Sanaa and Hodeidah demonstrates both willingness and capability. A broader regional conflict involving Iran could also trigger Israeli strikes on Houthi positions as part of a multi-front response.
 
-The bull case hinges on a major escalation scenario where Houthi attacks successfully penetrate Israeli defenses and cause mass casualties. If Iran provides the Houthis with more advanced ballistic missiles capable of overwhelming the Arrow defense system, or if a Houthi strike hits critical infrastructure like Eilat's port or Ben Gurion Airport, Israeli retaliation could shift from defensive intercepts to offensive strikes on Yemeni launch sites. Key catalysts to watch include: any Israeli-Iran direct confrontation that brings Yemen more explicitly into the conflict, the February 2025 Israeli budget negotiations that could allocate funds for expanded operations, and the November 2026 Israeli elections (after the market expiry) that might influence pre-election military posturing in late 2025 or early 2026.
+The bear case emphasizes the substantial operational constraints and strategic alternatives available to Israel. Yemen sits roughly 2,000 kilometers from Israeli bases, requiring extensive aerial refueling and limiting sortie capacity compared to nearby theaters. Saudi Arabia and other Gulf states would need to provide overflight rights or tacit cooperation, which becomes politically complicated given their ongoing détente efforts with Iran and desire to stabilize Yemen after years of costly intervention. Israel has consistently prioritized threats from Hezbollah, Gaza, Syria, and Iran's nuclear program over the Houthis, who represent a more distant and manageable risk. The U.S. and European naval presence in the Red Sea provides alternative means of protecting shipping without direct Israeli involvement, while covert operations and intelligence sharing with regional partners offer lower-risk options.
 
-Traders should monitor monthly Houthi attack frequencies reported by U.S. Central Command, any Israeli cabinet discussions about expanding military operations beyond current theaters, and Saudi-Israeli normalization talks which could provide political cover and logistical support for potential Yemen operations. The Knesset's security cabinet meetings and any changes to IDF force deployment southward toward the Red Sea region would serve as leading indicators. The timeline is crucial: with 18 months until market expiry, any operation would likely require 6-12 months of planning following a triggering incident, meaning a major escalation would need to occur by late 2025 to make this outcome probable.
+Key catalysts to monitor include any Houthi missile or drone strikes causing Israeli casualties, which would dramatically shift public opinion and government calculus. The trajectory of Iran-U.S. negotiations or confrontations will directly impact Iranian support for Houthi operations. Saudi-Iranian diplomatic developments, particularly any security arrangements regarding Yemen, could either enable or constrain Israeli action. Watch for Israeli military procurement and deployment patterns, particularly air-to-air refueling assets and intelligence gathering capabilities focused on Yemen, as indicators of operational planning. The formation and stability of Israel's governing coalition matters significantly, as a more hawkish government would lower the threshold for military action.
 
 ## Related Markets
 
+- [US obtains Iranian enriched uranium by May 31?](/odds/us-obtains-iranian-enriched-uranium-by-may-31) — 8% YES
 - [Will the US acquire part of Greenland in 2026?](/odds/will-the-us-acquire-part-of-greenland-in-2026) — 14% YES
-- [Will Abelardo de la Espriella  win the 2026 Colombian presidential election?](/odds/will-abelardo-de-la-espriella-win-the-2026-colombian-presidential-election) — 38% YES
-- [Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?](/odds/will-amanda-anisimova-be-the-2026-womens-wimbledon-winner) — 8% YES
+- [Will Claudia López win the 2026 Colombian presidential election?](/odds/will-claudia-lpez-win-the-2026-colombian-presidential-election) — 0% YES
 
 ## Frequently Asked Questions
 
-### Would strikes conducted by proxy forces or only aircraft from Israeli territory count for this market resolution?
+### Would an Israeli strike on Yemen require Saudi cooperation or overflight permission?
 
-Resolution typically requires direct Israeli military action, meaning IDF airstrikes, missile launches, or special operations. Strikes by proxy groups or intelligence operations without acknowledged Israeli military involvement would likely not qualify.
+Practically yes, as the most efficient flight paths cross Saudi airspace. While Israel could theoretically route around the Arabian Peninsula, this would severely limit operational effectiveness and payload capacity, making Saudi tacit approval nearly essential for sustained operations.
 
-### How do the Abraham Accords and potential Saudi normalization affect the probability of Israeli strikes on Yemen?
+### How would this market resolve if Israel conducts airstrikes using proxies or provides weapons to anti-Houthi forces without direct IDF involvement?
 
-Saudi normalization could actually increase strike probability by providing overflight rights and logistical cooperation, reducing operational complexity. However, it might also decrease the need for strikes if Saudi-Israeli coordination enables more effective defensive measures against Houthi threats.
+The market specifically requires an Israeli strike, meaning direct action by Israeli Defense Forces. Arms transfers, intelligence sharing, or support for proxy forces would not trigger a YES resolution—only confirmed Israeli military assets conducting the strike would qualify.
 
-### What threshold of Houthi attacks would likely trigger an Israeli military response against Yemen rather than continued interceptions?
+### What distinguishes the limited strikes Israel has already conducted from what would resolve this market as YES?
 
-A single mass-casualty event (50+ deaths) from a Houthi missile or a sustained campaign that overwhelms Israeli air defenses would likely shift the calculus. Multiple successful strikes on economic targets like Eilat or repeated penetrations of Tel Aviv's airspace could also trigger offensive operations.
+The market likely requires strikes occurring between now and May 31, 2026. Israel's previous strikes in late 2024 predate typical market creation, so traders are pricing future military action, particularly any escalation beyond the isolated responses already observed.
 
 ## Learn More
 

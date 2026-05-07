@@ -3,7 +3,7 @@ title: "Will Anthropic flip BTC by December 31?"
 description: "Will Anthropic flip BTC by December 31? Odds: 50.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Anthropic flip BTC by December 31?"
 category: "crypto"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-07
 expiryDate: 2026-12-31
 tags: ["bitcoin", "crypto", "polymarket"]

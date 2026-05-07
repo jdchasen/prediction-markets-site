@@ -9,9 +9,8 @@ expiryDate: 2028-01-01
 tags: ["crypto", "polymarket"]
 polymarketYes: 76.0
 polymarketNo: 24.0
-polymarketVolume: 99026
+polymarketVolume: 99033
 polymarketUrl: "https://polymarket.com/event/abstract-fdv-above-200m-one-day-after-launch"
-analysisDate: 2026-05-07
 ---
 
 The market is pricing in a strong three-in-four chance that Abstract, a zkEVM layer-2 solution backed by Igloo and built on ZK Stack technology, will achieve a fully diluted valuation exceeding $200M within 24 hours of its token launch before 2028. This matters because Abstract has garnered significant attention as a consumer-focused chain with backing from Pudgy Penguins and other prominent NFT communities, positioning it as a potential major player in the Ethereum scaling ecosystem.

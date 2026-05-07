@@ -3,7 +3,7 @@ title: "Will John Hickenlooper be the Democratic nominee for Senate in Colorado?
 description: "Will John Hickenlooper be the Democratic nominee for Senate in Colorado? Odds: 82.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will John Hickenlooper be the Democratic nominee for Senate in Colorado?"
 category: "politics"
-status: "settled"
+status: "active"
 lastUpdated: 2026-05-07
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
@@ -11,7 +11,6 @@ polymarketYes: 82.5
 polymarketNo: 17.5
 polymarketVolume: 9746
 polymarketUrl: "https://polymarket.com/event/will-john-hickenlooper-be-the-democratic-nominee-for-senate-in-colorado"
-analysisDate: 2026-05-06
 ---
 
 # John Hickenlooper's 2026 Senate Nomination: Market Analysis

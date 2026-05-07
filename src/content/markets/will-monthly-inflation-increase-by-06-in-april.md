@@ -1,17 +1,16 @@
 ---
 title: "Will monthly inflation increase by 0.6% in April?"
-description: "Will monthly inflation increase by 0.6% in April? Odds: 42.5% YES on Polymarket. See live prices and trade this market."
+description: "Will monthly inflation increase by 0.6% in April? Odds: 41.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will monthly inflation increase by 0.6% in April?"
 category: "economics"
 status: "active"
 lastUpdated: 2026-05-07
 expiryDate: 2026-05-12
 tags: ["economics", "polymarket", "sports"]
-polymarketYes: 42.5
-polymarketNo: 57.5
-polymarketVolume: 9508
+polymarketYes: 41.5
+polymarketNo: 58.5
+polymarketVolume: 9721
 polymarketUrl: "https://polymarket.com/event/will-monthly-inflation-increase-by-0pt6-in-april"
-analysisDate: 2026-05-07
 ---
 
 # Inflation Prediction Market Analysis

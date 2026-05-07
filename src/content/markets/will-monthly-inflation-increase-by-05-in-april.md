@@ -3,7 +3,7 @@ title: "Will monthly inflation increase by 0.5% in April?"
 description: "Will monthly inflation increase by 0.5% in April? Odds: 36.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will monthly inflation increase by 0.5% in April?"
 category: "economics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-07
 expiryDate: 2026-05-12
 tags: ["economics", "polymarket", "sports"]

@@ -3,7 +3,7 @@ title: "Will Ethereum dip to $2,000 in May?"
 description: "Will Ethereum dip to $2,000 in May? Odds: 21.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Ethereum dip to $2,000 in May?"
 category: "crypto"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-07
 expiryDate: 2026-06-01
 tags: ["crypto", "ethereum", "polymarket"]

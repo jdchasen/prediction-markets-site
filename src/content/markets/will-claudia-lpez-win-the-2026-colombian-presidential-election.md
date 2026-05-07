@@ -9,9 +9,8 @@ expiryDate: 2026-06-21
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.1
 polymarketNo: 99.9
-polymarketVolume: 995669
+polymarketVolume: 998526
 polymarketUrl: "https://polymarket.com/event/will-claudia-lpez-win-the-2026-colombian-presidential-election"
-analysisDate: 2026-05-07
 ---
 
 Claudia López, Bogotá's former mayor, faces near-insurmountable odds in Colombia's 2026 presidential race according to prediction markets, reflecting deep skepticism about her national viability despite maintaining a political presence after leaving office in December 2023.

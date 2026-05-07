@@ -3,7 +3,7 @@ title: "Will Bitcoin dip to $50,000 by December 31, 2026?"
 description: "Will Bitcoin dip to $50,000 by December 31, 2026? Odds: 34.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Bitcoin dip to $50,000 by December 31, 2026?"
 category: "crypto"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-07
 expiryDate: 2027-01-01
 tags: ["bitcoin", "crypto", "polymarket"]

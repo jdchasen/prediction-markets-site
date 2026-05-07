@@ -1,17 +1,16 @@
 ---
 title: "Will Russia enter Vasylivka by May 31, 2026?"
-description: "Will Russia enter Vasylivka by May 31, 2026? Odds: 56.0% YES on Polymarket. See live prices and trade this market."
+description: "Will Russia enter Vasylivka by May 31, 2026? Odds: 52.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Russia enter Vasylivka by May 31, 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-05-07
 expiryDate: 2026-05-31
 tags: ["politics", "polymarket"]
-polymarketYes: 56.0
-polymarketNo: 44.0
-polymarketVolume: 9839
+polymarketYes: 52.5
+polymarketNo: 47.5
+polymarketVolume: 9858
 polymarketUrl: "https://polymarket.com/event/will-russia-enter-vasylivka-by-may-31-2026"
-analysisDate: 2026-05-07
 ---
 
 # Russia-Vasylivka Market Analysis

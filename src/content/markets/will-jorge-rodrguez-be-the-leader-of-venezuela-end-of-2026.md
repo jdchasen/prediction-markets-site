@@ -11,43 +11,44 @@ polymarketYes: 0.9
 polymarketNo: 99.1
 polymarketVolume: 980933
 polymarketUrl: "https://polymarket.com/event/will-jorge-rodrguez-be-the-leader-of-venezuela-end-of-2026"
+analysisDate: 2026-05-07
 ---
 
-The market prices an extremely low probability of Jorge Rodríguez—currently National Assembly president and key Maduro regime negotiator—becoming Venezuela's leader by end of 2026, reflecting both the entrenched nature of Maduro's rule and Rodríguez's role as operative rather than successor.
+The market assigns an extremely low probability to Jorge Rodríguez leading Venezuela by the end of 2026, reflecting the entrenched position of Nicolás Maduro's regime and the lack of any clear succession mechanism that would elevate the current National Assembly president to the country's top leadership position. While Rodríguez serves as a key regime operative and loyal Maduro confidant, his role remains firmly in the institutional support structure rather than as a potential successor.
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.9% | 99.1% | $980K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.9% | 99.1% | $981K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The bear case for this outcome centers on Venezuela's authoritarian consolidation under Nicolás Maduro, who survived the 2024 presidential election despite widespread allegations of fraud and international non-recognition of his July victory. Maduro has systematically eliminated potential rivals within chavismo and maintains control through military loyalty, particularly from Defense Minister Vladimir Padrino López. Rodríguez functions as a regime administrator and international negotiator—most recently in Barbados talks with the opposition—rather than as a power center with independent military or popular support. Venezuela's 2025 presidential inauguration on January 10 will further cement Maduro's position for a new term extending to 2031, making any leadership transition before 2026's end highly unlikely barring health crisis or coup. The regime's successful suppression of María Corina Machado's opposition movement and arrest of candidate Edmundo González's supporters demonstrates its capacity to neutralize threats.
+The bear case for Rodríguez assuming leadership is overwhelming: Maduro shows no signs of relinquishing power despite international pressure following the disputed July 2024 election results, the regime's security apparatus remains loyal to Maduro personally, and Venezuela's authoritarian system provides no constitutional path for Rodríguez to ascend without Maduro's removal or death. Even within chavismo's inner circle, figures like Diosdado Cabello—who controls significant military and intelligence resources—would likely have stronger claims to succession than Rodríguez. The January 2025 presidential inauguration will see Maduro begin another term regardless of electoral legitimacy, further cementing his position through 2031 under the regime's framework.
 
-The bull case requires a dramatic rupture within the ruling PSUV party or Maduro's sudden incapacitation. Rodríguez's position as National Assembly president technically places him in the constitutional line of succession, though Venezuela's constitution has been routinely disregarded. If intensifying economic collapse or military defection forced regime change, Rodríguez could emerge as a transitional figure acceptable to hardliners seeking to preserve chavista institutions while appearing to offer reform. International pressure following the disputed 2024 election—including potential snapback of U.S. sanctions and European measures—might create conditions where regime insiders view Rodríguez as a pragmatic alternative. His direct involvement in negotiations with Washington and Brussels gives him unique international contacts that could prove valuable in a succession scenario.
+The bull case, though slim, hinges on unforeseen health issues affecting Maduro or an internal power struggle within chavismo that somehow elevates Rodríguez as a compromise candidate among competing factions. Rodríguez's brother Delcy serves as vice president, giving the family significant regime connections, and his role managing legislative affairs and international negotiations (particularly with the U.S.) could theoretically position him as a transitional figure if the regime faced an existential crisis requiring new leadership. Increased international sanctions pressure or a complete economic collapse forcing regime restructuring could create openings, though these scenarios remain highly speculative.
 
-Key catalysts include Venezuela's January 10, 2025 inauguration, which will test domestic and international responses to Maduro's contested mandate. Watch for any significant military reshuffling or signs of elite fracture within PSUV's leadership. U.S. policy shifts following American political transitions, potential International Criminal Court actions against Maduro, or health reports about the president would move these odds substantially. The October 2025 National Assembly elections could reveal regime vulnerability, though structural electoral advantages make opposition gains unlikely. Any credible reporting on Maduro's health or internal party conflicts would be the primary catalyst for reassessing this market.
+Traders should monitor Maduro's public appearances and any health-related absences, internal regime dynamics around key appointments in 2025-2026, and whether U.S. sanctions policy under any administration creates sufficient pressure for leadership changes. The April 2025 National Assembly elections will test regime control, while any signs of military defections or fractures within the PSUV party leadership could shift probabilities. However, absent concrete evidence of Maduro's incapacitation, this market correctly reflects near-zero likelihood of Rodríguez assuming Venezuela's leadership within the timeframe.
 
 ## Related Markets
 
+- [US obtains Iranian enriched uranium by May 31?](/odds/us-obtains-iranian-enriched-uranium-by-may-31) — 8% YES
 - [Will the US acquire part of Greenland in 2026?](/odds/will-the-us-acquire-part-of-greenland-in-2026) — 14% YES
-- [Will Abelardo de la Espriella  win the 2026 Colombian presidential election?](/odds/will-abelardo-de-la-espriella-win-the-2026-colombian-presidential-election) — 38% YES
-- [Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?](/odds/will-amanda-anisimova-be-the-2026-womens-wimbledon-winner) — 8% YES
+- [Will Claudia López win the 2026 Colombian presidential election?](/odds/will-claudia-lpez-win-the-2026-colombian-presidential-election) — 0% YES
 
 ## Frequently Asked Questions
 
-### Does Jorge Rodríguez have independent power bases within Venezuela's military or security apparatus?
+### What position does Jorge Rodríguez currently hold in Venezuela's government?
 
-No evidence suggests Rodríguez commands significant military loyalty independent of Maduro. His power derives from his administrative role and family connections (his sister Delcy is vice president), not from security force allegiance.
+Rodríguez serves as president of the National Assembly and is considered one of Maduro's closest advisors, frequently representing the regime in international negotiations. His sister Delcy Rodríguez is currently vice president.
 
-### What would need to happen constitutionally for Rodríguez to assume leadership as National Assembly president?
+### Would Rodríguez automatically succeed Maduro if something happened to him?
 
-Venezuela's constitution specifies the vice president (currently Delcy Rodríguez) succeeds first, with the National Assembly president next in line. However, the regime routinely ignores constitutional procedures when inconvenient, making formal succession rules unreliable predictors.
+No, Venezuela's constitution designates the vice president (currently Delcy Rodríguez) as the successor, and even then, competing power centers like Diosdado Cabello would likely contest any succession not arranged by Maduro himself.
 
-### How does the disputed 2024 election result affect the likelihood of regime change before 2026?
+### Could a negotiated transition deal make Rodríguez leader as a compromise candidate?
 
-The regime's successful retention of power despite credible opposition victory claims and international condemnation demonstrates its resilience, making internally-driven leadership change less likely barring unforeseen crises like economic collapse or military defection.
+While theoretically possible in a scenario involving international mediation between the regime and opposition, such negotiations have repeatedly failed, and the regime has shown no willingness to cede power to anyone outside Maduro's direct control through 2026.
 
 ## Learn More
 
