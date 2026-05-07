@@ -3,8 +3,8 @@ title: "Will Meta Platforms, Inc. (META) hit (LOW) $580 in May?"
 description: "Will Meta Platforms, Inc. (META) hit (LOW) $580 in May? Odds: 43.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Meta Platforms, Inc. (META) hit (LOW) $580 in May?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-06
+status: "settled"
+lastUpdated: 2026-05-07
 expiryDate: 2026-06-01
 tags: ["politics", "polymarket"]
 polymarketYes: 43.5

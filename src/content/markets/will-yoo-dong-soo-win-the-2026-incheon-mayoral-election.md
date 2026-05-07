@@ -4,14 +4,13 @@ description: "Will Yoo Dong-soo win the 2026 Incheon mayoral election? Odds: 0.1
 marketQuestion: "Will Yoo Dong-soo win the 2026 Incheon mayoral election?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-06
+lastUpdated: 2026-05-07
 expiryDate: 2026-06-03
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.1
 polymarketNo: 99.9
 polymarketVolume: 98131
 polymarketUrl: "https://polymarket.com/event/will-yoo-dong-soo-win-the-2026-incheon-mayoral-election"
-analysisDate: 2026-05-06
 ---
 
 The prediction market gives Yoo Dong-soo virtually no chance of winning Incheon's 2026 mayoral race, reflecting either his status as an extreme longshot candidate or lack of name recognition in a field likely to be dominated by major party nominees from the People Power Party and Democratic Party.

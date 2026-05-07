@@ -3,8 +3,8 @@ title: "Will Solana reach $150 in May?"
 description: "Will Solana reach $150 in May? Odds: 0.6% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Solana reach $150 in May?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-06
+status: "settled"
+lastUpdated: 2026-05-07
 expiryDate: 2026-06-01
 tags: ["politics", "polymarket"]
 polymarketYes: 0.6

@@ -3,8 +3,8 @@ title: "Will Greece advance through the first Eurovision Semi-Final?"
 description: "Will Greece advance through the first Eurovision Semi-Final? Odds: 99.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Greece advance through the first Eurovision Semi-Final?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-06
+status: "settled"
+lastUpdated: 2026-05-07
 expiryDate: 2026-05-12
 tags: ["politics", "polymarket"]
 polymarketYes: 99.4

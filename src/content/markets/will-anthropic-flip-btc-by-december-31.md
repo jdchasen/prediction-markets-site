@@ -4,14 +4,13 @@ description: "Will Anthropic flip BTC by December 31? Odds: 50.5% YES on Polymar
 marketQuestion: "Will Anthropic flip BTC by December 31?"
 category: "crypto"
 status: "active"
-lastUpdated: 2026-05-06
+lastUpdated: 2026-05-07
 expiryDate: 2026-12-31
 tags: ["bitcoin", "crypto", "polymarket"]
 polymarketYes: 50.5
 polymarketNo: 49.5
-polymarketVolume: 99569
+polymarketVolume: 99765
 polymarketUrl: "https://polymarket.com/event/will-anthropic-flip-btc-by-december-31"
-analysisDate: 2026-05-06
 ---
 
 This market essentially asks whether Anthropic's valuation will exceed Bitcoin's market capitalization before the end of 2026, with traders currently viewing it as a coin flip. The question matters because it pits one of AI's leading foundation model companies against the world's largest cryptocurrency, representing a broader debate about which technology sector will dominate the next decade of value creation.

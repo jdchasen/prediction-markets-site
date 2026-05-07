@@ -3,8 +3,8 @@ title: "Will the Detroit Pistons win the NBA Eastern Conference Finals?"
 description: "Will the Detroit Pistons win the NBA Eastern Conference Finals? Odds: 31.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Detroit Pistons win the NBA Eastern Conference Finals?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-05-06
+status: "settled"
+lastUpdated: 2026-05-07
 expiryDate: 2026-06-13
 tags: ["polymarket", "sports"]
 polymarketYes: 31.0

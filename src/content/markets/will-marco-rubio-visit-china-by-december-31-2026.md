@@ -3,8 +3,8 @@ title: "Will Marco Rubio visit China by December 31, 2026?"
 description: "Will Marco Rubio visit China by December 31, 2026? Odds: 78.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Marco Rubio visit China by December 31, 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-06
+status: "settled"
+lastUpdated: 2026-05-07
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 78.5

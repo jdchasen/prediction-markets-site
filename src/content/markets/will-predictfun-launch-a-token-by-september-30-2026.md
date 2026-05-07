@@ -1,17 +1,16 @@
 ---
 title: "Will Predict.fun launch a token by September 30, 2026?"
-description: "Will Predict.fun launch a token by September 30, 2026? Odds: 52.0% YES on Polymarket. See live prices and trade this market."
+description: "Will Predict.fun launch a token by September 30, 2026? Odds: 51.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Predict.fun launch a token by September 30, 2026?"
 category: "crypto"
 status: "active"
-lastUpdated: 2026-05-06
+lastUpdated: 2026-05-07
 expiryDate: 2028-01-01
 tags: ["crypto", "polymarket"]
-polymarketYes: 52.0
-polymarketNo: 48.0
-polymarketVolume: 9940
+polymarketYes: 51.0
+polymarketNo: 49.0
+polymarketVolume: 9968
 polymarketUrl: "https://polymarket.com/event/will-predictfun-launch-a-token-by-september-30-2026"
-analysisDate: 2026-05-06
 ---
 
 # Analysis: Predict.fun Token Launch Market

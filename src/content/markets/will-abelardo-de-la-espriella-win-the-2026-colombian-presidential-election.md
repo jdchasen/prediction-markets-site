@@ -3,8 +3,8 @@ title: "Will Abelardo de la Espriella  win the 2026 Colombian presidential elect
 description: "Will Abelardo de la Espriella  win the 2026 Colombian presidential election? Odds: 38.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Abelardo de la Espriella  win the 2026 Colombian presidential election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-06
+status: "settled"
+lastUpdated: 2026-05-07
 expiryDate: 2026-06-21
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 38.0

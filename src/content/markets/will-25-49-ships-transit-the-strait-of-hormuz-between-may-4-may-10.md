@@ -3,8 +3,8 @@ title: "Will 25-49 ships transit the Strait of Hormuz between May 4-May 10?"
 description: "Will 25-49 ships transit the Strait of Hormuz between May 4-May 10? Odds: 54.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will 25-49 ships transit the Strait of Hormuz between May 4-May 10?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-06
+status: "settled"
+lastUpdated: 2026-05-07
 expiryDate: 2026-05-10
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 54.0

@@ -4,14 +4,13 @@ description: "Will annual inflation increase by 3.3% in April? Odds: 0.7% YES on
 marketQuestion: "Will annual inflation increase by 3.3% in April?"
 category: "economics"
 status: "active"
-lastUpdated: 2026-05-06
+lastUpdated: 2026-05-07
 expiryDate: 2026-05-12
 tags: ["economics", "polymarket", "sports"]
 polymarketYes: 0.7
 polymarketNo: 99.4
-polymarketVolume: 9523
+polymarketVolume: 9927
 polymarketUrl: "https://polymarket.com/event/will-annual-inflation-increase-by-3pt3-in-april"
-analysisDate: 2026-05-06
 ---
 
 # Inflation Market Analysis
