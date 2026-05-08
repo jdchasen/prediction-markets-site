@@ -11,7 +11,6 @@ polymarketYes: 76.0
 polymarketNo: 24.0
 polymarketVolume: 99048
 polymarketUrl: "https://polymarket.com/event/abstract-fdv-above-200m-one-day-after-launch"
-analysisDate: 2026-05-08
 ---
 
 The market shows strong confidence that Abstract's fully diluted valuation will exceed $200M shortly after its token launch, with traders pricing in roughly three-quarters probability of this outcome. This matters because Abstract, an Ethereum Layer 2 built on the ZK Stack, has secured significant backing and market positioning that could justify substantial valuations in the current crypto infrastructure landscape.

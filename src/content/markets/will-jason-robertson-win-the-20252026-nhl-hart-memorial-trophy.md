@@ -3,7 +3,7 @@ title: "Will Jason Robertson win the 2025–2026 NHL Hart Memorial Trophy?"
 description: "Will Jason Robertson win the 2025–2026 NHL Hart Memorial Trophy? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Jason Robertson win the 2025–2026 NHL Hart Memorial Trophy?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-08
 expiryDate: 2026-06-30
 tags: ["polymarket", "sports"]

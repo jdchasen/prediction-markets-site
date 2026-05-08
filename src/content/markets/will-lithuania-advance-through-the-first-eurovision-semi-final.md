@@ -1,19 +1,20 @@
 ---
 title: "Will Lithuania advance through the first Eurovision Semi-Final?"
-description: "Will Lithuania advance through the first Eurovision Semi-Final? Odds: 67.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Lithuania advance through the first Eurovision Semi-Final? Odds: 64.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Lithuania advance through the first Eurovision Semi-Final?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-05-08
 expiryDate: 2026-05-12
 tags: ["politics", "polymarket"]
-polymarketYes: 67.5
-polymarketNo: 32.5
-polymarketVolume: 9843
+polymarketYes: 64.5
+polymarketNo: 35.5
+polymarketVolume: 9961
 polymarketUrl: "https://polymarket.com/event/will-lithuania-advance-through-the-first-eurovision-semi-final"
+analysisDate: 2026-05-08
 ---
 
-# Eurovision Semi-Final Prediction Analysis
+# Eurovision Semi-Final Prediction Market Analysis
 
 ## Current Odds
 
@@ -23,33 +24,33 @@ polymarketUrl: "https://polymarket.com/event/will-lithuania-advance-through-the-
 
 ## Market Analysis
 
-This market reflects moderate confidence that Lithuania will qualify from the first semi-final at the 2026 Eurovision Song Contest, with the 64.5% odds suggesting it's favored but far from a lock. The timing matters because song selection, artist announcement, and initial reception typically occur 4-6 months before the contest, making late 2025 a critical decision window for Lithuania's public broadcaster LRT. The May 2026 expiry captures the actual competition, where semi-final advancement depends entirely on televoting and jury scores against approximately 16-18 competing nations.
+The market is pricing Lithuania's Eurovision advancement at roughly two-to-one odds in favor, reflecting moderate confidence in qualification but meaningful uncertainty about competition intensity. This matters because Eurovision semi-final progression depends on a combination of factors—song quality, staging, jury voting patterns, and viewer sentiment—that are notoriously difficult to predict, making this a test case for how well markets price entertainment outcomes with political categorization.
 
-The bull case rests on Lithuania's consistent Eurovision performance history—the nation has qualified from semi-finals in 11 of the last 13 contests and reached three finals since 2015, including a respectable 10th place finish in 2024. Lithuania also benefits from a mid-sized diaspora voting bloc in Western Europe and historically competitive song selections. If LRT secures a mainstream pop or dance-oriented entry with broad appeal, and the semi-final draw avoids clustering it against other Nordic or Baltic powerhouses, advancement becomes highly probable. Strong national selection processes typically correlate with qualifying performances.
+The bull case rests on Lithuania's consistent Eurovision track record: the country has qualified from semi-finals in 7 of the last 10 contests (2015-2024, excluding cancellations), demonstrating reliable qualification ability. Lithuania typically deploys competitive entries with strong visual production and leverages sympathetic voting blocs from neighboring Baltic and Eastern European nations. If the 2026 entry follows this pattern with a moderately catchy song and competent staging, advancement becomes highly probable given the semi-final structure typically advances 10-12 of 15-16 participants.
 
-The bear case hinges on semi-final composition volatility and increasing competition density. Advancement rates from the first semi-final have compressed to roughly 10 qualifiers from 17-18 entries, making it statistically tighter than during Lithuania's best-performing years. If the draw seats Lithuania alongside strong contenders (Ukraine, Poland, Greece, or Nordic nations), the competitive threshold rises sharply. Additionally, artist availability and song quality remain unpredictable—if LRT struggles to attract top-tier talent or produces a niche-appeal entry, the nation could underperform relative to its baseline. Semi-final juries have also become less predictable in recent contests.
+The bear case hinges on semi-final composition unpredictability and rising competition quality. The 2026 semi-final assignment hasn't been confirmed, meaning Lithuania could face a particularly stacked heat with multiple strong entries from Western or Northern European countries. Additionally, jury voting has become increasingly professionalized, potentially disadvantaging smaller markets that historically relied on diaspora public voting. If Lithuania's entry lacks breakthrough appeal—a plausible scenario given the subjective nature of song selection—elimination becomes realistic even with moderate quality.
 
-Traders should monitor LRT's artist and song announcement in January-February 2026, initial reception metrics from Eurovision fan communities and betting markets in the weeks following, and the official semi-final draw (typically announced 2-3 weeks before the contest) to assess competitive positioning. The current 64.5% pricing appears defensible given historical qualification rates, but semi-final composition and song quality revelations will drive meaningful repricing.
+Key catalysts include Lithuania's national selection process (typically held January-February 2026), the official Eurovision semi-final draw (expected April 2026), and rehearsal assessments in May that often shift market sentiment. Traders should monitor whether Lithuania's broadcaster LRT chooses an established artist (bullish for execution quality) versus an unknown (higher variance), and whether the entry targets English-language broad appeal or leans into regional identity. The May 12 expiry gives traders roughly 18 months to adjust positions as information crystallizes.
 
 ## Related Markets
 
-- [US obtains Iranian enriched uranium by May 31?](/odds/us-obtains-iranian-enriched-uranium-by-may-31) — 8% YES
+- [Strait of Hormuz traffic returns to normal by end of May?](/odds/strait-of-hormuz-traffic-returns-to-normal-by-end-of-may) — 28% YES
+- [US x Iran permanent peace deal by May 15, 2026?](/odds/us-x-iran-permanent-peace-deal-by-may-15-2026) — 18% YES
 - [Will the US acquire part of Greenland in 2026?](/odds/will-the-us-acquire-part-of-greenland-in-2026) — 14% YES
-- [Will Claudia López win the 2026 Colombian presidential election?](/odds/will-claudia-lpez-win-the-2026-colombian-presidential-election) — 0% YES
 
 ## Frequently Asked Questions
 
-### Has Lithuania typically qualified from Eurovision semi-finals, and how does that history inform the 64.5% odds?
+### How does the semi-final draw affect Lithuania's actual qualification probability?
 
-Lithuania has qualified in 11 of the last 13 contests with a strong track record, supporting the above-even odds, though advancing rates from first semi-finals specifically have tightened to roughly 59-61% qualification rates due to increased field strength.
+Being drawn into a weaker semi-final could improve Lithuania's odds to 75%+ while a stacked heat could drop them to 45-50%, making the draw itself a significant catalyst that traders should price in once announced in April 2026.
 
-### What single factor would most likely shift this market below 50%?
+### What's the historical precedent for Baltic states in Eurovision semi-finals?
 
-An unfavorable semi-final draw pairing Lithuania with multiple Nordic/Eastern European powerhouses (Ukraine, Poland, Greece, Sweden) would materially reduce advancement probability by raising the competitive threshold for the 10 qualifying spots.
+Estonia and Latvia have similar qualification rates to Lithuania (65-70% over the past decade), suggesting the 64.5% pricing aligns with regional competitive tier expectations rather than overvaluing or undervaluing Eastern European participants.
 
-### When will the primary price-moving information become available?
+### If Lithuania's entry wins the national selection with a ballad rather than an uptempo song, should odds shift?
 
-Artist and song announcement in January-February 2026 will trigger the first repricing, followed by the official semi-final draw 2-3 weeks before the May competition, which finalizes the competitive landscape.
+Ballads face higher elimination risk in semi-finals due to staging difficulty and lower engagement potential, suggesting odds should drift toward 55-58% YES in that scenario, though jury voting can occasionally favor emotional performances.
 
 ## Learn More
 

@@ -3,7 +3,7 @@ title: "Will the price of Bitcoin be above $90,000 on May 11?"
 description: "Will the price of Bitcoin be above $90,000 on May 11? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the price of Bitcoin be above $90,000 on May 11?"
 category: "crypto"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-08
 expiryDate: 2026-05-11
 tags: ["bitcoin", "crypto", "polymarket"]

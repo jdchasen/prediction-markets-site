@@ -3,7 +3,7 @@ title: "Will Justin Briner as Izuku Midoriya (My Hero Academia FINAL SEASON) win
 description: "Will Justin Briner as Izuku Midoriya (My Hero Academia FINAL SEASON) win Best Anime Voice Artist Performance (English) at the 2026 Crunchyroll Anime Awards? ..."
 marketQuestion: "Will Justin Briner as Izuku Midoriya (My Hero Academia FINAL SEASON) win Best Anime Voice Artist Performance (English) at the 2026 Crunchyroll Anime Awards?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-08
 expiryDate: 2026-05-23
 tags: ["politics", "polymarket"]

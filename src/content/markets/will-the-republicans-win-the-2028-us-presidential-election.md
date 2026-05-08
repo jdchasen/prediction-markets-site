@@ -9,9 +9,8 @@ expiryDate: 2028-11-07
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 38.5
 polymarketNo: 61.5
-polymarketVolume: 986631
+polymarketVolume: 987750
 polymarketUrl: "https://polymarket.com/event/will-the-republicans-win-the-2028-us-presidential-election"
-analysisDate: 2026-05-08
 ---
 
 The Republican Party sits as a slight underdog for the 2028 presidential race at 38.5% on Polymarket, reflecting genuine uncertainty about a contest still four years away where no major candidates have formally declared and the political landscape remains highly fluid.

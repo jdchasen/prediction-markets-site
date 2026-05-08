@@ -1,17 +1,16 @@
 ---
 title: "Will Katie Porter win the California Governor Election in 2026?"
-description: "Will Katie Porter win the California Governor Election in 2026? Odds: 1.6% YES on Polymarket. See live prices and trade this market."
+description: "Will Katie Porter win the California Governor Election in 2026? Odds: 1.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Katie Porter win the California Governor Election in 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-05-08
 expiryDate: 2026-11-03
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 1.6
+polymarketYes: 1.5
 polymarketNo: 98.5
-polymarketVolume: 987463
+polymarketVolume: 994022
 polymarketUrl: "https://polymarket.com/event/will-katie-porter-win-the-california-governor-election-in-2026"
-analysisDate: 2026-05-08
 ---
 
 Katie Porter's gubernatorial chances are priced at near-token levels despite her high name recognition, reflecting serious doubts about her viability following her distant third-place finish in the 2024 Senate race where she captured just 14% of the vote and failed to advance past the jungle primary. The 2026 California governor's race remains wide open with no clear frontrunner, but Porter's underwhelming Senate performance and the state's Democratic bench depth create a challenging path forward.

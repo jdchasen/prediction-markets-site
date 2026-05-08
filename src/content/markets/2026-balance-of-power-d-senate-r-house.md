@@ -3,7 +3,7 @@ title: "2026 Balance of Power: D Senate, R House"
 description: "2026 Balance of Power: D Senate, R House Odds: 1.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "2026 Balance of Power: D Senate, R House"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-08
 expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]

@@ -11,9 +11,10 @@ polymarketYes: 0.1
 polymarketNo: 100.0
 polymarketVolume: 99156
 polymarketUrl: "https://polymarket.com/event/will-kim-jong-un-be-the-next-leader-out-before-2027-416"
+analysisDate: 2026-05-08
 ---
 
-The market assigns virtually no chance that Kim Jong Un will be the next major world leader to leave power before the end of 2026, reflecting his iron grip on North Korea and the regime's stability mechanisms despite ongoing international tensions.
+The Polymarket odds place an exceptionally low probability on Kim Jong Un being deposed or leaving power before 2027, reflecting North Korea's tightly controlled authoritarian system and the absence of any visible succession mechanisms or internal challenges to his rule.
 
 ## Current Odds
 
@@ -23,31 +24,31 @@ The market assigns virtually no chance that Kim Jong Un will be the next major w
 
 ## Market Analysis
 
-The bull case for Kim's departure hinges on health concerns and succession dynamics. Kim, believed to be around 40 years old, has exhibited visible weight fluctuations and potential cardiovascular issues, with notable absences from public view in 2020 and 2021 sparking speculation about his condition. A medical crisis could trigger rapid regime change, as North Korea's opaque power structure means any leadership transition would likely happen suddenly. His sister Kim Yo Jong has emerged as a potential successor, having consolidated significant authority, which could facilitate an internal power shift if Kim's health deteriorates. North Korea watchers monitor his public appearances—particularly at major state events like military parades on April 15 (Day of the Sun) and July 27 (Victory Day)—for physical indicators.
+The bear case for Kim remaining in power is overwhelming. North Korea's political structure eliminates virtually all pathways for leadership change short of natural death or catastrophic internal collapse. Kim has systematically purged potential rivals, including executing his uncle Jang Song-thaek in 2013 and allegedly ordering the assassination of his half-brother Kim Jong-nam in 2017. The military, party apparatus, and security services remain under his consolidated control. His relatively young age (born 1984) makes health-related succession unlikely in this timeframe. No intelligence reports suggest organized opposition movements, and the country's information isolation prevents the kind of popular uprisings seen elsewhere.
 
-The bear case, explaining the near-zero odds, rests on North Korea's durability as a totalitarian state with multiple redundancy systems protecting the leadership. The Kim dynasty has maintained power through three generations since 1948, with extensive security apparatus, personality cult reinforcement, and elimination of potential rivals. Unlike leaders facing electoral pressure or coalition politics, Kim faces no institutional constraints on his rule. Recent events suggest stability: North Korea has resumed weapons testing throughout 2024, indicating functional state capacity, and deepened military cooperation with Russia over Ukraine, demonstrating active diplomatic engagement. No credible intelligence suggests imminent health crises or internal coup plotting.
+The bull case relies on low-probability, high-impact scenarios. Kim's health remains opaque—he disappeared from public view for weeks in 2020, sparking succession rumors, and South Korean intelligence has periodically noted weight fluctuations suggesting potential health issues. A military coup, while historically rare in hereditary communist regimes, cannot be entirely discounted given economic pressures from sanctions and COVID-19 border closures through 2023. External intervention remains theoretically possible if North Korea's nuclear program or weapons transfers (such as recent reported cooperation with Russia on munitions) trigger a regional crisis. Some analysts have noted his sister Kim Yo-jong's elevated profile, though she appears to function as deputy rather than rival.
 
-Traders should monitor several specific indicators: Kim's attendance at the Supreme People's Assembly sessions (typically in February and September), which signal regime continuity; satellite imagery of his personal train movements tracked by intelligence agencies; and any unprecedented promotions within the Korean Workers' Party Central Military Commission. Health-related catalysts could emerge from South Korean National Intelligence Service reports, which occasionally leak assessments to domestic media. The market also implicitly compares Kim to other world leaders who might leave power first—monitoring electoral calendars in major democracies or instability in other authoritarian states like Venezuela, Iran, or Belarus becomes relevant for relative timing.
+Key events to monitor include North Korea's Supreme People's Assembly sessions (typically held in April and September), which occasionally reveal leadership dynamics through attendance and appointments. Kim's public appearance frequency and physical condition during state media broadcasts provide limited but important signals. Any unusual military movements near Pyongyang, extended absences from expected appearances during national holidays like April 15 (Day of the Sun), or sudden changes in state media tone would warrant attention. The geopolitical calendar matters too: escalation around U.S.-South Korea joint military exercises (spring and summer annually) or developments in Russia-North Korea cooperation could create destabilizing pressures.
 
 ## Related Markets
 
-- [US obtains Iranian enriched uranium by May 31?](/odds/us-obtains-iranian-enriched-uranium-by-may-31) — 8% YES
+- [Strait of Hormuz traffic returns to normal by end of May?](/odds/strait-of-hormuz-traffic-returns-to-normal-by-end-of-may) — 28% YES
+- [US x Iran permanent peace deal by May 15, 2026?](/odds/us-x-iran-permanent-peace-deal-by-may-15-2026) — 18% YES
 - [Will the US acquire part of Greenland in 2026?](/odds/will-the-us-acquire-part-of-greenland-in-2026) — 14% YES
-- [Will Claudia López win the 2026 Colombian presidential election?](/odds/will-claudia-lpez-win-the-2026-colombian-presidential-election) — 0% YES
 
 ## Frequently Asked Questions
 
-### Who counts as "the next leader out" for this market to resolve YES?
+### What would constitute Kim Jong Un being "out" for this market to resolve YES?
 
-The market compares Kim Jong Un's departure timing against all other major world leaders currently in power. Kim would need to leave office before any other sitting head of state or government leader exits, whether through death, resignation, coup, or any other means.
+This would require Kim's confirmed removal from supreme leadership through death, coup, exile, or formal replacement—not merely a temporary absence from public view or delegation of specific duties to family members.
 
-### What would happen if Kim appears to transfer power to his sister but remains nominally in charge?
+### Why did Kim Yo-jong's rising prominence not increase these odds?
 
-North Korea's opacity creates resolution challenges around partial power transfers. Unless Kim formally relinquishes his titles as Supreme Leader and Chairman of State Affairs, a de facto power shift while he retains official positions would likely not qualify as "leaving office" for market purposes.
+Her elevated role appears to strengthen rather than threaten Kim's rule, functioning as a trusted extension of his authority rather than an alternative power center, and North Korea's system has shown no precedent for sibling-based succession challenges.
 
-### Why don't Kim's reported health issues move this market's odds higher?
+### How would traders know about a leadership change given North Korea's information controls?
 
-While speculation about Kim's health surfaces periodically, the extremely low probability reflects that (1) similar concerns have proven unfounded multiple times before, (2) North Korean information control makes verification impossible, and (3) statistically, some other world leader among dozens globally is more likely to exit power first through normal political processes or health issues before 2027.
+Major leadership transitions cannot be concealed indefinitely—North Korea announced Kim Jong-il's death within 48 hours in 2011, and South Korean/U.S. intelligence agencies maintain surveillance capabilities that would detect significant regime changes even if initially suppressed in state media.
 
 ## Learn More
 

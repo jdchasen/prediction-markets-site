@@ -3,7 +3,7 @@ title: "Starmer out by May 15, 2026?"
 description: "Starmer out by May 15, 2026? Odds: 5.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Starmer out by May 15, 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-08
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]

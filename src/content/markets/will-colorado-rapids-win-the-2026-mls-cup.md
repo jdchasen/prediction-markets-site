@@ -11,7 +11,6 @@ polymarketYes: 0.5
 polymarketNo: 99.5
 polymarketVolume: 97579
 polymarketUrl: "https://polymarket.com/event/will-colorado-rapids-win-the-2026-mls-cup"
-analysisDate: 2026-05-08
 ---
 
 # Colorado Rapids 2026 MLS Cup Analysis

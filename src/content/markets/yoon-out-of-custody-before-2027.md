@@ -3,7 +3,7 @@ title: "Yoon out of custody before 2027?"
 description: "Yoon out of custody before 2027? Odds: 7.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Yoon out of custody before 2027?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-08
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]

@@ -9,9 +9,8 @@ expiryDate: 2026-06-06
 tags: ["politics", "polymarket"]
 polymarketYes: 0.2
 polymarketNo: 99.8
-polymarketVolume: 9912
+polymarketVolume: 9956
 polymarketUrl: "https://polymarket.com/event/will-victoria-azarenka-win-the-2026-womens-french-open"
-analysisDate: 2026-05-08
 ---
 
 This market is severely miscategorized as "politics" when it concerns professional tennis, and the 0.2% pricing suggests either a data error or extreme skepticism about a 32-year-old player's chances in a Grand Slam two years out. Victoria Azarenka won the Australian Open as recently as 2013 and reached the US Open final in 2020, but predicting any specific player will win a particular major nearly two years away faces substantial structural headwinds.

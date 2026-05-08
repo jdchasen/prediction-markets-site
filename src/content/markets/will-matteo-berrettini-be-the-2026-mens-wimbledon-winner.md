@@ -11,7 +11,6 @@ polymarketYes: 0.2
 polymarketNo: 99.8
 polymarketVolume: 9764
 polymarketUrl: "https://polymarket.com/event/will-matteo-berrettini-be-the-2026-mens-wimbledon-winner"
-analysisDate: 2026-05-08
 ---
 
 # Matteo Berrettini 2026 Wimbledon Analysis
