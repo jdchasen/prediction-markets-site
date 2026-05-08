@@ -4,14 +4,13 @@ description: "Will Chelsea Clinton be the democratic nominee for NY-12? Odds: 0.
 marketQuestion: "Will Chelsea Clinton be the democratic nominee for NY-12?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-07
+lastUpdated: 2026-05-08
 expiryDate: 2026-06-23
 tags: ["politics", "polymarket"]
 polymarketYes: 0.1
 polymarketNo: 99.9
 polymarketVolume: 9814
 polymarketUrl: "https://polymarket.com/event/will-chelsea-clinton-be-the-democratic-nominee-for-ny-12"
-analysisDate: 2026-05-07
 ---
 
 # Chelsea Clinton and NY-12: An Improbable 2026 Scenario

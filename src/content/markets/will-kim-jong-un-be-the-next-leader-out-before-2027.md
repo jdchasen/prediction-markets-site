@@ -4,14 +4,13 @@ description: "Will Kim Jong Un be the next leader out before 2027? Odds: 0.1% YE
 marketQuestion: "Will Kim Jong Un be the next leader out before 2027?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-07
+lastUpdated: 2026-05-08
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 0.1
 polymarketNo: 100.0
 polymarketVolume: 99156
 polymarketUrl: "https://polymarket.com/event/will-kim-jong-un-be-the-next-leader-out-before-2027-416"
-analysisDate: 2026-05-07
 ---
 
 The market assigns virtually no chance that Kim Jong Un will be the next major world leader to leave power before the end of 2026, reflecting his iron grip on North Korea and the regime's stability mechanisms despite ongoing international tensions.

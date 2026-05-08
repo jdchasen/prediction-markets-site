@@ -1,17 +1,16 @@
 ---
 title: "Will SpaceX's market cap be between $1.8T and $2.0T at market close on IPO day?"
-description: "Will SpaceX's market cap be between $1.8T and $2.0T at market close on IPO day? Odds: 12.5% YES on Polymarket. See live prices and trade this market."
+description: "Will SpaceX's market cap be between $1.8T and $2.0T at market close on IPO day? Odds: 13.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will SpaceX's market cap be between $1.8T and $2.0T at market close on IPO day?"
 category: "finance"
 status: "active"
-lastUpdated: 2026-05-07
+lastUpdated: 2026-05-08
 expiryDate: 2027-12-31
 tags: ["finance", "polymarket"]
-polymarketYes: 12.5
-polymarketNo: 87.5
-polymarketVolume: 98422
+polymarketYes: 13.5
+polymarketNo: 86.5
+polymarketVolume: 98716
 polymarketUrl: "https://polymarket.com/event/will-spacexs-market-cap-be-between-1pt8t-and-2pt0t-at-market-close-on-ipo-day-516"
-analysisDate: 2026-05-07
 ---
 
 The market assigning just 12.5% odds to SpaceX hitting a $1.8-2.0T valuation on IPO day reflects deep skepticism that the company will both go public by end of 2027 and command what would be one of history's largest market capitalizations. This matters because SpaceX's private valuations have already reached $180 billion as of 2024, meaning traders are essentially pricing in a 10x+ appreciation in roughly three years alongside an uncertain IPO timeline.

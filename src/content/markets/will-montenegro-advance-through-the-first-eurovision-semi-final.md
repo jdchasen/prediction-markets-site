@@ -3,8 +3,8 @@ title: "Will Montenegro advance through the first Eurovision Semi-Final?"
 description: "Will Montenegro advance through the first Eurovision Semi-Final? Odds: 43.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Montenegro advance through the first Eurovision Semi-Final?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-07
+status: "settled"
+lastUpdated: 2026-05-08
 expiryDate: 2026-05-12
 tags: ["politics", "polymarket"]
 polymarketYes: 43.5

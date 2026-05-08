@@ -1,17 +1,16 @@
 ---
 title: "Will Discord’s market cap be $30B or greater at market close on IPO day?"
-description: "Will Discord’s market cap be $30B or greater at market close on IPO day? Odds: 0.7% YES on Polymarket. See live prices and trade this market."
+description: "Will Discord’s market cap be $30B or greater at market close on IPO day? Odds: 0.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Discord’s market cap be $30B or greater at market close on IPO day?"
 category: "finance"
 status: "active"
-lastUpdated: 2026-05-07
+lastUpdated: 2026-05-08
 expiryDate: 2026-06-30
 tags: ["finance", "polymarket"]
-polymarketYes: 0.7
-polymarketNo: 99.4
-polymarketVolume: 99721
+polymarketYes: 0.5
+polymarketNo: 99.5
+polymarketVolume: 99731
 polymarketUrl: "https://polymarket.com/event/will-discords-market-cap-be-greater-than-30b-at-market-close-on-ipo-day"
-analysisDate: 2026-05-07
 ---
 
 The market assigns less than 1% probability to Discord achieving a $30B valuation at IPO, reflecting deep skepticism about both the company's near-term IPO prospects and its ability to command such a premium in the current tech environment. Discord was reportedly valued at $15B in its last private funding round in 2021, and achieving a 100% valuation increase would require exceptional growth metrics or a dramatic shift in market sentiment toward tech IPOs.

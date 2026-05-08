@@ -1,17 +1,16 @@
 ---
 title: "Another US debt downgrade before 2027?"
-description: "Another US debt downgrade before 2027? Odds: 23.5% YES on Polymarket. See live prices and trade this market."
+description: "Another US debt downgrade before 2027? Odds: 22.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Another US debt downgrade before 2027?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-07
+lastUpdated: 2026-05-08
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 23.5
-polymarketNo: 76.5
+polymarketYes: 22.0
+polymarketNo: 78.0
 polymarketVolume: 9732
 polymarketUrl: "https://polymarket.com/event/another-us-debt-downgrade-before-2027"
-analysisDate: 2026-05-07
 ---
 
 # US Debt Downgrade Analysis

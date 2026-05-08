@@ -4,14 +4,13 @@ description: "Will the Democratic Party win the WY-AL House seat? Odds: 6.3% YES
 marketQuestion: "Will the Democratic Party win the WY-AL House seat?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-07
+lastUpdated: 2026-05-08
 expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
 polymarketYes: 6.3
 polymarketNo: 93.7
-polymarketVolume: 9912
+polymarketVolume: 9962
 polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-wy-al-house-seat"
-analysisDate: 2026-05-07
 ---
 
 # Wyoming At-Large House Seat: Democratic Longshot in Solid Red Territory

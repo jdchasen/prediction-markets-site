@@ -1,17 +1,16 @@
 ---
 title: "Israel strike on Yemen by May 31, 2026?"
-description: "Israel strike on Yemen by May 31, 2026? Odds: 18.0% YES on Polymarket. See live prices and trade this market."
+description: "Israel strike on Yemen by May 31, 2026? Odds: 14.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Israel strike on Yemen by May 31, 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-07
+lastUpdated: 2026-05-08
 expiryDate: 2026-05-31
 tags: ["politics", "polymarket"]
-polymarketYes: 18.0
-polymarketNo: 82.0
-polymarketVolume: 99180
+polymarketYes: 14.5
+polymarketNo: 85.5
+polymarketVolume: 99248
 polymarketUrl: "https://polymarket.com/event/israel-strike-on-yemen-by-may-31-2026-588-747-911"
-analysisDate: 2026-05-07
 ---
 
 Prediction markets currently price an Israeli military strike on Yemen at roughly one-in-five odds through May 2026, reflecting the ongoing Houthi threat to Israeli territory and Red Sea shipping lanes but also the significant operational and diplomatic barriers to sustained Israeli military action in Yemen.

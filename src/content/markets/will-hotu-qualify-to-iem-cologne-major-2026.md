@@ -1,17 +1,16 @@
 ---
 title: "Will HOTU qualify to IEM Cologne Major 2026? "
-description: "Will HOTU qualify to IEM Cologne Major 2026?  Odds: 2.8% YES on Polymarket. See live prices and trade this market."
+description: "Will HOTU qualify to IEM Cologne Major 2026?  Odds: 2.3% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will HOTU qualify to IEM Cologne Major 2026? "
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-07
+lastUpdated: 2026-05-08
 expiryDate: 2026-06-21
 tags: ["politics", "polymarket"]
-polymarketYes: 2.8
-polymarketNo: 97.2
+polymarketYes: 2.3
+polymarketNo: 97.7
 polymarketVolume: 9730
 polymarketUrl: "https://polymarket.com/event/will-hotu-qualify-to-iem-cologne-major-2026"
-analysisDate: 2026-05-07
 ---
 
 # HOTU IEM Cologne 2026 Qualification Analysis

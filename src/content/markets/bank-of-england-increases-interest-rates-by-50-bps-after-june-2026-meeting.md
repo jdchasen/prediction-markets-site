@@ -4,14 +4,13 @@ description: "Bank of England increases interest rates by 50+ bps after June 202
 marketQuestion: "Bank of England increases interest rates by 50+ bps after June 2026 meeting?"
 category: "economics"
 status: "active"
-lastUpdated: 2026-05-07
+lastUpdated: 2026-05-08
 expiryDate: 2026-06-18
 tags: ["economics", "interest-rates", "polymarket"]
 polymarketYes: 0.5
 polymarketNo: 99.5
 polymarketVolume: 9422
 polymarketUrl: "https://polymarket.com/event/bank-of-england-increases-interest-rates-by-50-bps-after-june-2026-meeting"
-analysisDate: 2026-05-07
 ---
 
 # Bank of England Rate Hike Analysis

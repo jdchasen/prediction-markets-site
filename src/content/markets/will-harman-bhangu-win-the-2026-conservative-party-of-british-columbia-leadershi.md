@@ -4,14 +4,13 @@ description: "Will Harman Bhangu win the 2026 Conservative Party of British Colu
 marketQuestion: "Will Harman Bhangu win the 2026 Conservative Party of British Columbia leadership election?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-07
+lastUpdated: 2026-05-08
 expiryDate: 2026-05-30
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.1
 polymarketNo: 99.9
-polymarketVolume: 9822
+polymarketVolume: 9880
 polymarketUrl: "https://polymarket.com/event/will-harman-bhangu-win-the-2026-conservative-party-of-british-columbia-leadership-election"
-analysisDate: 2026-05-07
 ---
 
 # BC Conservative Leadership Market Analysis

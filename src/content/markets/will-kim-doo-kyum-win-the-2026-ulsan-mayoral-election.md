@@ -3,8 +3,8 @@ title: "Will Kim Doo-kyum win the 2026 Ulsan mayoral election?"
 description: "Will Kim Doo-kyum win the 2026 Ulsan mayoral election? Odds: 34.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Kim Doo-kyum win the 2026 Ulsan mayoral election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-07
+status: "settled"
+lastUpdated: 2026-05-08
 expiryDate: 2026-06-03
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 34.5

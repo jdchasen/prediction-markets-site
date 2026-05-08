@@ -4,14 +4,13 @@ description: "Will Joe Johnson be the Republican nominee for Senate in Oregon? O
 marketQuestion: "Will Joe Johnson be the Republican nominee for Senate in Oregon?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-07
+lastUpdated: 2026-05-08
 expiryDate: 2026-05-19
 tags: ["politics", "polymarket"]
 polymarketYes: 2.2
 polymarketNo: 97.8
 polymarketVolume: 9948
 polymarketUrl: "https://polymarket.com/event/will-joe-johnson-be-the-republican-nominee-for-senate-in-oregon"
-analysisDate: 2026-05-07
 ---
 
 # Joe Johnson Republican Senate Nominee Analysis

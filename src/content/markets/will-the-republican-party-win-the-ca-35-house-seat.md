@@ -4,14 +4,13 @@ description: "Will the Republican Party win the CA-35 House seat? Odds: 6.5% YES
 marketQuestion: "Will the Republican Party win the CA-35 House seat?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-07
+lastUpdated: 2026-05-08
 expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
 polymarketYes: 6.5
 polymarketNo: 93.5
 polymarketVolume: 9902
 polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-ca-35-house-seat"
-analysisDate: 2026-05-07
 ---
 
 # CA-35 Republican Chances: A 6.5% Long Shot in a Solidly Democratic District

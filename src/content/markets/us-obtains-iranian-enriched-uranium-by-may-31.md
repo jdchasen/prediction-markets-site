@@ -3,8 +3,8 @@ title: "US obtains Iranian enriched uranium by May 31?"
 description: "US obtains Iranian enriched uranium by May 31? Odds: 7.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "US obtains Iranian enriched uranium by May 31?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-07
+status: "settled"
+lastUpdated: 2026-05-08
 expiryDate: 2026-05-31
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 7.5
