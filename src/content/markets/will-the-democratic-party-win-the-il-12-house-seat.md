@@ -3,7 +3,7 @@ title: "Will the Democratic Party win the IL-12 House seat?"
 description: "Will the Democratic Party win the IL-12 House seat? Odds: 4.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Democratic Party win the IL-12 House seat?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-09
 expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]

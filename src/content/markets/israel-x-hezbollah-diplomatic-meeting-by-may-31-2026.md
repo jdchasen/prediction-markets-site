@@ -1,17 +1,16 @@
 ---
 title: "Israel x Hezbollah diplomatic meeting by May 31, 2026?"
-description: "Israel x Hezbollah diplomatic meeting by May 31, 2026? Odds: 4.2% YES on Polymarket. See live prices and trade this market."
+description: "Israel x Hezbollah diplomatic meeting by May 31, 2026? Odds: 4.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Israel x Hezbollah diplomatic meeting by May 31, 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-05-09
 expiryDate: 2026-05-31
 tags: ["politics", "polymarket"]
-polymarketYes: 4.2
-polymarketNo: 95.8
-polymarketVolume: 9804
+polymarketYes: 4.8
+polymarketNo: 95.2
+polymarketVolume: 9809
 polymarketUrl: "https://polymarket.com/event/israel-x-hezbollah-diplomatic-meeting-by-may-31-2026"
-analysisDate: 2026-05-09
 ---
 
 # Israel-Hezbollah Diplomatic Meeting Market Analysis

@@ -3,7 +3,7 @@ title: "Will Sharif Street be the Democratic nominee for PA-03?"
 description: "Will Sharif Street be the Democratic nominee for PA-03? Odds: 61.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Sharif Street be the Democratic nominee for PA-03?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-09
 expiryDate: 2026-05-19
 tags: ["politics", "polymarket"]

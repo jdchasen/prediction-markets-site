@@ -9,9 +9,8 @@ expiryDate: 2026-05-23
 tags: ["politics", "polymarket"]
 polymarketYes: 7.5
 polymarketNo: 92.5
-polymarketVolume: 9730
+polymarketVolume: 9841
 polymarketUrl: "https://polymarket.com/event/will-gachiakuta-win-anime-of-the-year-at-the-2026-crunchyroll-anime-awards"
-analysisDate: 2026-05-09
 ---
 
 # Gachiakuta 2026 Crunchyroll Anime Awards Analysis

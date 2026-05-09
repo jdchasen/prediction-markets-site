@@ -11,7 +11,6 @@ polymarketYes: 0.1
 polymarketNo: 100.0
 polymarketVolume: 9914
 polymarketUrl: "https://polymarket.com/event/will-rick-temple-be-the-republican-nominee-for-senate-in-georgia"
-analysisDate: 2026-05-09
 ---
 
 This market prices Rick Temple as a near-certain non-contender for Georgia's 2026 Republican Senate nomination, reflecting his minimal profile and the deep field of established candidates competing for this open seat. Georgia Republicans will choose their nominee through a primary system where name recognition, fundraising capacity, and organizational infrastructure typically determine outcomes, making Temple's current invisibility in the race the primary driver of these basement odds.

@@ -9,9 +9,8 @@ expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
 polymarketYes: 1.5
 polymarketNo: 98.6
-polymarketVolume: 98173
+polymarketVolume: 98184
 polymarketUrl: "https://polymarket.com/event/will-russia-capture-all-of-donetsk-oblast-by-june-30-2026"
-analysisDate: 2026-05-09
 ---
 
 The market assigns an extremely low probability to Russia achieving complete control of Donetsk Oblast by mid-2026, reflecting the grinding reality of a conflict where Russia has struggled for over two years to capture territory it claimed to have annexed in September 2022.

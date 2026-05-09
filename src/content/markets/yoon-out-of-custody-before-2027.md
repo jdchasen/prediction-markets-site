@@ -1,17 +1,16 @@
 ---
 title: "Yoon out of custody before 2027?"
-description: "Yoon out of custody before 2027? Odds: 7.5% YES on Polymarket. See live prices and trade this market."
+description: "Yoon out of custody before 2027? Odds: 7.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Yoon out of custody before 2027?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-05-09
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 7.5
-polymarketNo: 92.5
+polymarketYes: 7.7
+polymarketNo: 92.3
 polymarketVolume: 9740
 polymarketUrl: "https://polymarket.com/event/yoon-out-of-custody-before-2027"
-analysisDate: 2026-05-09
 ---
 
 This market currently prices in a roughly 1-in-13 chance that South Korea's former President Yoon Suk Yeol will be released from custody before year-end 2026, reflecting deep skepticism about his legal prospects despite ongoing legal battles. The prediction matters now because Yoon faces multiple criminal charges including insurrection and abuse of power following his December 2024 martial law declaration, with his detention status directly tied to South Korea's political stability and judicial independence. At 7.5%, the market is essentially betting against Yoon's release even as his legal team pursues appeals and as conservative political forces mobilize to potentially shield him from conviction.

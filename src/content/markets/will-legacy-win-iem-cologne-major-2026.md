@@ -9,9 +9,8 @@ expiryDate: 2026-06-21
 tags: ["politics", "polymarket"]
 polymarketYes: 0.4
 polymarketNo: 99.6
-polymarketVolume: 9773
+polymarketVolume: 9822
 polymarketUrl: "https://polymarket.com/event/will-legacy-win-iem-cologne-major-2026"
-analysisDate: 2026-05-09
 ---
 
 # IEM Cologne Major 2026: Legacy's Longshot Odds Reflect Massive Structural Headwinds

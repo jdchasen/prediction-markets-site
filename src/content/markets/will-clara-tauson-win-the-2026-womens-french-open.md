@@ -11,7 +11,6 @@ polymarketYes: 0.1
 polymarketNo: 99.9
 polymarketVolume: 9925
 polymarketUrl: "https://polymarket.com/event/will-clara-tauson-win-the-2026-womens-french-open"
-analysisDate: 2026-05-09
 ---
 
 # Clara Tauson 2026 French Open Analysis

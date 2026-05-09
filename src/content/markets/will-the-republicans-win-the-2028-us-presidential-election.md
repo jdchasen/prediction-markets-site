@@ -9,9 +9,8 @@ expiryDate: 2028-11-07
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 38.5
 polymarketNo: 61.5
-polymarketVolume: 987750
+polymarketVolume: 990574
 polymarketUrl: "https://polymarket.com/event/will-the-republicans-win-the-2028-us-presidential-election"
-analysisDate: 2026-05-09
 ---
 
 Republican chances for the 2028 presidency currently sit below 40% on Polymarket, reflecting historical patterns where the party controlling the White House typically faces disadvantage in winning a third consecutive term, something that has happened only once since World War II (George H.W. Bush in 1988).

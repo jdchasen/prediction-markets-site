@@ -11,7 +11,6 @@ polymarketYes: 6.9
 polymarketNo: 93.2
 polymarketVolume: 97454
 polymarketUrl: "https://polymarket.com/event/will-gold-gc-hit-high-5700-by-end-of-june-439-682-222-223"
-analysisDate: 2026-05-09
 ---
 
 # Gold $5,700 by June 2026: A Long Shot in a Range-Bound Market

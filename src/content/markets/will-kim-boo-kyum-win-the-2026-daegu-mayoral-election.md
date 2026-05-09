@@ -1,17 +1,16 @@
 ---
 title: "Will Kim Boo-kyum win the 2026 Daegu mayoral election?"
-description: "Will Kim Boo-kyum win the 2026 Daegu mayoral election? Odds: 35.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Kim Boo-kyum win the 2026 Daegu mayoral election? Odds: 35.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Kim Boo-kyum win the 2026 Daegu mayoral election?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-05-09
 expiryDate: 2026-06-03
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 35.5
-polymarketNo: 64.5
-polymarketVolume: 97828
+polymarketYes: 35.0
+polymarketNo: 65.0
+polymarketVolume: 99408
 polymarketUrl: "https://polymarket.com/event/will-kim-boo-kyum-win-the-2026-daegu-mayoral-election"
-analysisDate: 2026-05-09
 ---
 
 The market pricing Kim Boo-kyum at approximately one-in-three odds to win Daegu's 2026 mayoral race reflects deep skepticism about a progressive candidate capturing South Korea's most conservative metropolitan stronghold, where the People Power Party has dominated local politics for decades.

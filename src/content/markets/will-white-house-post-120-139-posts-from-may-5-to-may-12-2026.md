@@ -3,7 +3,7 @@ title: "Will White House post 120-139 posts from May 5 to May 12, 2026?"
 description: "Will White House post 120-139 posts from May 5 to May 12, 2026? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will White House post 120-139 posts from May 5 to May 12, 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-09
 expiryDate: 2026-05-12
 tags: ["politics", "polymarket"]

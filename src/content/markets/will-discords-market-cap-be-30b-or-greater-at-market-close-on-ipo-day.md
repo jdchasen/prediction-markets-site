@@ -9,43 +9,44 @@ expiryDate: 2026-06-30
 tags: ["finance", "polymarket"]
 polymarketYes: 1.1
 polymarketNo: 98.9
-polymarketVolume: 99935
+polymarketVolume: 99955
 polymarketUrl: "https://polymarket.com/event/will-discords-market-cap-be-greater-than-30b-at-market-close-on-ipo-day"
+analysisDate: 2026-05-09
 ---
 
-Traders are pricing in virtually no chance (0.5%) that Discord will achieve a $30B valuation on its IPO day before the June 2026 deadline, reflecting deep skepticism about both the company's IPO timeline and its ability to command a premium valuation in the current market environment.
+The market assigns just over 1% probability to Discord achieving a $30B valuation on IPO day before the June 2026 expiry, reflecting deep skepticism about both the timing and valuation of a potential public offering for the gaming-focused communication platform.
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.5% | 99.5% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 1.1% | 98.9% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The bull case hinges on Discord transforming its revenue model beyond Nitro subscriptions and potentially capturing enterprise collaboration market share from Slack and Microsoft Teams. If Discord successfully monetizes its 200+ million monthly active users through advertising, premium features, or B2B offerings while maintaining user growth, it could justify a valuation placing it among top-tier social platforms. Microsoft previously offered $12B for Discord in 2021, suggesting the company could command multiples of that figure if revenue growth accelerates significantly. A successful IPO would require favorable market conditions similar to 2020-2021, when high-growth tech companies routinely received 20-30x revenue multiples.
+The bull case rests on Discord's substantial user base of over 150 million monthly active users and its evolution beyond gaming into broader community communication. If Discord successfully diversifies revenue streams beyond Nitro subscriptions—potentially through advertising, premium server features, or enterprise offerings—and demonstrates a clear path to profitability with margins comparable to Slack pre-acquisition, it could command premium multiples. The company would need to show annual revenue approaching $1-1.5B with strong growth trajectories to justify a $30B valuation, particularly if public market conditions improve significantly by 2025-2026. Microsoft's $69B Activision acquisition and continued investments in gaming infrastructure suggest strategic buyers might view Discord as valuable enough to pressure management toward an IPO at elevated valuations.
 
-The bear case is straightforward: Discord's last reported private valuation was $15B in 2021, and the company would need to double that figure amid a dramatically cooler IPO market. The tech IPO window has been largely closed since 2022, with companies like Instacart and Klaviyo debuting at steep discounts to their private valuations. Discord's revenue, estimated at $500-600M annually, would require a 50-60x revenue multiple to hit $30B—well above current public market comparables. Reddit's March 2024 IPO at $6.4B (roughly 9x revenue) provides a sobering reference point for social platforms. Additionally, there's no confirmation Discord is even preparing for an IPO in this timeframe.
+The bear case is considerably stronger given current market dynamics. Discord's 2021 funding round valued the company at $15B, and achieving a 100% premium in a challenging IPO environment appears unlikely. Recent tech IPOs have traded down significantly—Reddit's March 2024 debut and Instacart's September 2023 listing both faced valuation pressures well below private market peaks. Discord's business model remains heavily dependent on a narrow demographic of gamers and lacks the enterprise SaaS characteristics that command higher multiples. The company has no confirmed IPO timeline, and management previously rejected a reported $12B Microsoft acquisition offer, suggesting they may wait indefinitely for optimal conditions. With the Federal Reserve maintaining restrictive policy and tech valuations compressed from 2021 peaks, the probability of any IPO—let alone one at $30B—remains exceptionally low.
 
-Key catalysts to monitor include any public statements from Discord about IPO intentions, Federal Reserve rate decisions through 2025-2026 that would affect growth stock valuations, and comparable tech IPOs like Stripe or Databricks that could signal market appetite. The performance of recent social platform IPOs and any reported Discord revenue figures or funding rounds would significantly impact this market's probability.
+Key catalysts to monitor include any official IPO filing announcements, Discord's private funding rounds that would reveal updated valuations, and broader tech IPO market recovery indicators like the Renaissance IPO ETF performance. The Fed's 2025 rate decision timeline and overall risk appetite for unprofitable growth companies will materially impact this outcome, though no specific Discord-related financial disclosures are publicly scheduled given its private status.
 
 ## Related Markets
 
-- [Will SpaceX's market cap be between $1.8T and $2.0T at market close on IPO day?](/odds/will-spacexs-market-cap-be-between-18t-and-20t-at-market-close-on-ipo-day) — 14% YES
+- [Will Gold (GC) hit (HIGH) $5,700 by end of June?](/odds/will-gold-gc-hit-high-5700-by-end-of-june) — 7% YES
 
 ## Frequently Asked Questions
 
-### What was Discord's last known private valuation and when was it established?
+### What was Discord's last known private valuation and when did it occur?
 
-Discord was valued at $15B in its 2021 funding round, meaning it would need to double that valuation to reach the $30B threshold despite the subsequent tech market correction.
+Discord's most recent known valuation was $15B from its September 2021 funding round. Reaching $30B would require doubling that valuation despite a significantly cooler IPO market since then.
 
-### How does the $30B target compare to similar platforms that have recently gone public?
+### Has Discord provided any indication of when they plan to go public?
 
-Reddit IPO'd at $6.4B in March 2024 despite having comparable user engagement, suggesting the market is currently pricing social platforms at substantial discounts to their 2021-era valuations.
+Discord has made no public statements about IPO timing and remains privately held with no S-1 filing on record. The company's rejection of acquisition offers suggests management is content to wait for optimal market conditions rather than rushing to go public.
 
-### Does Discord need to file IPO paperwork by a certain date to meet the June 2026 deadline?
+### What revenue metrics would Discord likely need to justify a $30B IPO valuation?
 
-Yes, Discord would typically need to file its S-1 registration statement 4-6 months before going public, meaning a filing would need to occur by early 2026 at the latest to meet this market's deadline.
+At typical SaaS multiples of 15-20x revenue in the current environment, Discord would need approximately $1.5-2B in annual recurring revenue with strong growth and a credible path to profitability, significantly above most estimates of their current revenue base.
 
 ## Learn More
 

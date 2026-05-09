@@ -3,7 +3,7 @@ title: "Will Trump agree to Iranian transit fees in the Strait of Hormuz by May 
 description: "Will Trump agree to Iranian transit fees in the Strait of Hormuz by May 31? Odds: 5.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Trump agree to Iranian transit fees in the Strait of Hormuz by May 31?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-09
 expiryDate: 2026-05-31
 tags: ["ai", "politics", "polymarket", "trump"]

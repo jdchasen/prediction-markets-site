@@ -3,7 +3,7 @@ title: "Will Putin visit China by May 31?"
 description: "Will Putin visit China by May 31? Odds: 75.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Putin visit China by May 31?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-09
 expiryDate: 2026-05-31
 tags: ["politics", "polymarket"]

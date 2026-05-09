@@ -3,7 +3,7 @@ title: "Iran closes its airspace by May 15?"
 description: "Iran closes its airspace by May 15? Odds: 8.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Iran closes its airspace by May 15?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-09
 expiryDate: 2026-05-15
 tags: ["ai", "politics", "polymarket"]

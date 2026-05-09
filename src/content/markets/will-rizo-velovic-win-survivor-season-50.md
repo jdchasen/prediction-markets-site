@@ -1,17 +1,16 @@
 ---
 title: "Will Rizo Velovic win Survivor Season 50?"
-description: "Will Rizo Velovic win Survivor Season 50? Odds: 1.0% YES on Polymarket. See live prices and trade this market."
+description: "Will Rizo Velovic win Survivor Season 50? Odds: 0.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Rizo Velovic win Survivor Season 50?"
 category: "politics"
-status: "settled"
-lastUpdated: 2026-05-08
+status: "active"
+lastUpdated: 2026-05-09
 expiryDate: 2026-05-20
 tags: ["politics", "polymarket"]
-polymarketYes: 1.0
-polymarketNo: 99.0
-polymarketVolume: 97181
+polymarketYes: 0.8
+polymarketNo: 99.2
+polymarketVolume: 97203
 polymarketUrl: "https://polymarket.com/event/will-rizo-velovic-win-survivor-season-50"
-analysisDate: 2026-05-08
 ---
 
 # Rizo Velovic Survivor Season 50 Market Analysis

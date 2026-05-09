@@ -1,17 +1,16 @@
 ---
 title: "Will Abdul El-Sayed win the 2026 Michigan Democratic Primary?"
-description: "Will Abdul El-Sayed win the 2026 Michigan Democratic Primary? Odds: 50.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Abdul El-Sayed win the 2026 Michigan Democratic Primary? Odds: 51.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Abdul El-Sayed win the 2026 Michigan Democratic Primary?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-05-09
 expiryDate: 2026-08-04
 tags: ["politics", "polymarket"]
-polymarketYes: 50.5
-polymarketNo: 49.5
-polymarketVolume: 98007
+polymarketYes: 51.5
+polymarketNo: 48.5
+polymarketVolume: 98011
 polymarketUrl: "https://polymarket.com/event/will-abdul-el-sayed-win-the-2026-michigan-democratic-primary"
-analysisDate: 2026-05-09
 ---
 
 Abdul El-Sayed enters the 2026 Michigan Democratic gubernatorial primary as a near-even money proposition, reflecting both his substantial name recognition from his 2018 run and the uncertain field dynamics with over two years until the August 2026 primary. This race matters nationally as Michigan remains a critical swing state, and the Democratic nominee will be heavily favored given Republicans' recent struggles in statewide races.

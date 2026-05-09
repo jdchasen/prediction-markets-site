@@ -1,17 +1,16 @@
 ---
 title: "Will the Philadelphia 76ers win the NBA Eastern Conference Finals?"
-description: "Will the Philadelphia 76ers win the NBA Eastern Conference Finals? Odds: 1.1% YES on Polymarket. See live prices and trade this market."
+description: "Will the Philadelphia 76ers win the NBA Eastern Conference Finals? Odds: 0.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Philadelphia 76ers win the NBA Eastern Conference Finals?"
 category: "sports"
 status: "active"
 lastUpdated: 2026-05-09
 expiryDate: 2026-06-13
 tags: ["polymarket", "sports"]
-polymarketYes: 1.1
-polymarketNo: 99.0
-polymarketVolume: 976088
+polymarketYes: 0.9
+polymarketNo: 99.1
+polymarketVolume: 976207
 polymarketUrl: "https://polymarket.com/event/will-the-philadelphia-76ers-win-the-nba-eastern-conference-finals"
-analysisDate: 2026-05-09
 ---
 
 The Philadelphia 76ers are trading at rock-bottom odds to reach the 2026 Eastern Conference Finals, reflecting a catastrophic 2024-25 season where championship aspirations have collapsed amid Joel Embiid's recurring knee issues and the team's disappointing 15-27 record through late January. With the Sixers currently sitting 11th in the Eastern Conference and facing legitimate playoff elimination risk, the market has essentially priced them as non-contenders even looking ahead to next season.

@@ -9,9 +9,8 @@ expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
 polymarketYes: 1.7
 polymarketNo: 98.3
-polymarketVolume: 97395
-polymarketUrl: "https://polymarket.com/event/cl-hit-40-low-jun-2026-467-163-164-698-647-525"
-analysisDate: 2026-05-09
+polymarketVolume: 97400
+polymarketUrl: "https://polymarket.com/event/cl-hit-40-low-jun-2026-467-163-164-698-647-525-975"
 ---
 
 # Crude Oil Price Prediction Analysis

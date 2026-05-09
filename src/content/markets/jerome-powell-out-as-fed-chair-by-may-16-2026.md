@@ -3,7 +3,7 @@ title: "Jerome Powell out as Fed Chair by May 16, 2026?"
 description: "Jerome Powell out as Fed Chair by May 16, 2026? Odds: 96.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Jerome Powell out as Fed Chair by May 16, 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-09
 expiryDate: 2026-05-16
 tags: ["ai", "federal-reserve", "politics", "polymarket"]

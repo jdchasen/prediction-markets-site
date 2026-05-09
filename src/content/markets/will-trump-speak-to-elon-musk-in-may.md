@@ -1,17 +1,16 @@
 ---
 title: "Will Trump speak to Elon Musk in May?"
-description: "Will Trump speak to Elon Musk in May? Odds: 18.0% YES on Polymarket. See live prices and trade this market."
+description: "Will Trump speak to Elon Musk in May? Odds: 17.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Trump speak to Elon Musk in May?"
 category: "tech"
 status: "active"
 lastUpdated: 2026-05-09
 expiryDate: 2026-05-31
 tags: ["polymarket", "tech", "trump"]
-polymarketYes: 18.0
-polymarketNo: 82.0
-polymarketVolume: 9766
+polymarketYes: 17.5
+polymarketNo: 82.5
+polymarketVolume: 9813
 polymarketUrl: "https://polymarket.com/event/will-trump-speak-to-elon-musk-in-may"
-analysisDate: 2026-05-09
 ---
 
 # Trump-Musk May 2026 Communication Market Analysis

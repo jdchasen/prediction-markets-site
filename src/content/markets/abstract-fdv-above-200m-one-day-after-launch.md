@@ -11,7 +11,6 @@ polymarketYes: 76.5
 polymarketNo: 23.5
 polymarketVolume: 99053
 polymarketUrl: "https://polymarket.com/event/abstract-fdv-above-200m-one-day-after-launch"
-analysisDate: 2026-05-09
 ---
 
 The market pricing Abstract's fully diluted valuation above $200M at 76.5% reflects strong confidence in the layer-2 scaling solution backed by Coinbase, though the extended timeline to 2028 introduces significant execution risk and market cycle uncertainty.
