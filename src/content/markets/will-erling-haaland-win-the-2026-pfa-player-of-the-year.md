@@ -3,8 +3,8 @@ title: "Will Erling Haaland win the 2026 PFA Player of the Year?"
 description: "Will Erling Haaland win the 2026 PFA Player of the Year? Odds: 4.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Erling Haaland win the 2026 PFA Player of the Year?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-08
+status: "settled"
+lastUpdated: 2026-05-09
 expiryDate: 2026-08-31
 tags: ["politics", "polymarket"]
 polymarketYes: 4.1

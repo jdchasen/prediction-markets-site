@@ -4,14 +4,13 @@ description: "Will the Republican Party win the SC-02 House seat? Odds: 80.0% YE
 marketQuestion: "Will the Republican Party win the SC-02 House seat?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-08
+lastUpdated: 2026-05-09
 expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
 polymarketYes: 80.0
 polymarketNo: 20.0
 polymarketVolume: 9884
 polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-sc-02-house-seat"
-analysisDate: 2026-05-08
 ---
 
 # SC-02 House Seat: Republican Dominance Reflects Historical Stronghold Status

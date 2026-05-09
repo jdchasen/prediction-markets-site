@@ -3,8 +3,8 @@ title: "Will GamerLegion win IEM Cologne Major 2026?"
 description: "Will GamerLegion win IEM Cologne Major 2026? Odds: 0.6% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will GamerLegion win IEM Cologne Major 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-08
+status: "settled"
+lastUpdated: 2026-05-09
 expiryDate: 2026-06-21
 tags: ["politics", "polymarket"]
 polymarketYes: 0.6

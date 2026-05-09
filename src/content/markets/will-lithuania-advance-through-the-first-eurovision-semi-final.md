@@ -3,8 +3,8 @@ title: "Will Lithuania advance through the first Eurovision Semi-Final?"
 description: "Will Lithuania advance through the first Eurovision Semi-Final? Odds: 64.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Lithuania advance through the first Eurovision Semi-Final?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-08
+status: "settled"
+lastUpdated: 2026-05-09
 expiryDate: 2026-05-12
 tags: ["politics", "polymarket"]
 polymarketYes: 64.5

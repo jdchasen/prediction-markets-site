@@ -1,17 +1,16 @@
 ---
 title: "Will Xi Jinping win the Nobel Peace Prize in 2026?"
-description: "Will Xi Jinping win the Nobel Peace Prize in 2026? Odds: 1.6% YES on Polymarket. See live prices and trade this market."
+description: "Will Xi Jinping win the Nobel Peace Prize in 2026? Odds: 1.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Xi Jinping win the Nobel Peace Prize in 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-08
+lastUpdated: 2026-05-09
 expiryDate: 2026-10-10
 tags: ["politics", "polymarket"]
-polymarketYes: 1.6
+polymarketYes: 1.5
 polymarketNo: 98.5
-polymarketVolume: 995771
+polymarketVolume: 996240
 polymarketUrl: "https://polymarket.com/event/will-xi-jinping-win-the-nobel-peace-prize-in-2026"
-analysisDate: 2026-05-08
 ---
 
 The market gives Chinese President Xi Jinping virtually no chance of winning the 2026 Nobel Peace Prize, reflecting the stark reality that authoritarian leaders rarely receive the award and China's current international positioning makes such recognition extraordinarily unlikely.

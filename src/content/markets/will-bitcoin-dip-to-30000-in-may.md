@@ -3,8 +3,8 @@ title: "Will Bitcoin dip to $30,000 in May?"
 description: "Will Bitcoin dip to $30,000 in May? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Bitcoin dip to $30,000 in May?"
 category: "crypto"
-status: "active"
-lastUpdated: 2026-05-08
+status: "settled"
+lastUpdated: 2026-05-09
 expiryDate: 2026-06-01
 tags: ["bitcoin", "crypto", "polymarket"]
 polymarketYes: 0.1

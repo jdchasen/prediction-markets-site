@@ -3,15 +3,14 @@ title: "Will the Democratic Party win the NM-01 House seat?"
 description: "Will the Democratic Party win the NM-01 House seat? Odds: 90.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Democratic Party win the NM-01 House seat?"
 category: "politics"
-status: "settled"
-lastUpdated: 2026-05-08
+status: "active"
+lastUpdated: 2026-05-09
 expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
 polymarketYes: 90.5
 polymarketNo: 9.5
 polymarketVolume: 9730
 polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-nm-01-house-seat"
-analysisDate: 2026-05-08
 ---
 
 # Democratic Dominance in NM-01: A Safe Seat Priced at Near-Certainty

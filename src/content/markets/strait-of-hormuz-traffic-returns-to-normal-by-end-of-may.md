@@ -3,8 +3,8 @@ title: "Strait of Hormuz traffic returns to normal by end of May?"
 description: "Strait of Hormuz traffic returns to normal by end of May? Odds: 27.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Strait of Hormuz traffic returns to normal by end of May?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-08
+status: "settled"
+lastUpdated: 2026-05-09
 expiryDate: 2026-05-31
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 27.5

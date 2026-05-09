@@ -4,14 +4,13 @@ description: "Will Clavicular be named People's Sexiest Man Alive in 2026? Odds:
 marketQuestion: "Will Clavicular be named People's Sexiest Man Alive in 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-08
+lastUpdated: 2026-05-09
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 4.8
 polymarketNo: 95.2
 polymarketVolume: 98822
 polymarketUrl: "https://polymarket.com/event/will-clavicular-be-named-peoples-sexiest-man-alive-in-2026-399"
-analysisDate: 2026-05-08
 ---
 
 This market trades at less than 5% probability that an individual named "Clavicular" will receive People Magazine's Sexiest Man Alive title in 2026, reflecting extreme skepticism about both the person's existence as a public figure and their likelihood of winning this pop culture accolade that typically goes to A-list actors, musicians, or athletes.

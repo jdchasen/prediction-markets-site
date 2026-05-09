@@ -3,8 +3,8 @@ title: "Bank of England increases interest rates by 50+ bps after June 2026 meet
 description: "Bank of England increases interest rates by 50+ bps after June 2026 meeting? Odds: 0.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Bank of England increases interest rates by 50+ bps after June 2026 meeting?"
 category: "economics"
-status: "active"
-lastUpdated: 2026-05-08
+status: "settled"
+lastUpdated: 2026-05-09
 expiryDate: 2026-06-18
 tags: ["economics", "interest-rates", "polymarket"]
 polymarketYes: 0.5

@@ -4,14 +4,13 @@ description: "Will the Democratic Party win the MS-02 House seat? Odds: 85.5% YE
 marketQuestion: "Will the Democratic Party win the MS-02 House seat?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-08
+lastUpdated: 2026-05-09
 expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
 polymarketYes: 85.5
 polymarketNo: 14.5
-polymarketVolume: 9889
+polymarketVolume: 9924
 polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-ms-02-house-seat"
-analysisDate: 2026-05-08
 ---
 
 # MS-02 House Seat: Democratic Dominance Priced In
