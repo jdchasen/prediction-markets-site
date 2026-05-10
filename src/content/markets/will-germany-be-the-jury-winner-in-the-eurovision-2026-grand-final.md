@@ -4,14 +4,13 @@ description: "Will Germany be the Jury Winner in the Eurovision 2026 Grand Final
 marketQuestion: "Will Germany be the Jury Winner in the Eurovision 2026 Grand Final?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-09
+lastUpdated: 2026-05-10
 expiryDate: 2026-05-16
 tags: ["politics", "polymarket"]
 polymarketYes: 0.4
 polymarketNo: 99.6
-polymarketVolume: 97890
+polymarketVolume: 98386
 polymarketUrl: "https://polymarket.com/event/will-germany-be-the-jury-winner-in-the-eurovision-2026-grand-final"
-analysisDate: 2026-05-09
 ---
 
 Germany faces extraordinarily long odds at 0.4% to win the Eurovision 2026 jury vote, reflecting its historically weak performance in recent contests and the structural challenges it faces in a competition where Western European powerhouses rarely dominate the professional jury scoring.

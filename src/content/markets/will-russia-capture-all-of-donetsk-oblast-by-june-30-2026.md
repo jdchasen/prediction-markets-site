@@ -1,53 +1,54 @@
 ---
 title: "Will Russia capture all of Donetsk Oblast by June 30, 2026?"
-description: "Will Russia capture all of Donetsk Oblast by June 30, 2026? Odds: 1.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Russia capture all of Donetsk Oblast by June 30, 2026? Odds: 1.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Russia capture all of Donetsk Oblast by June 30, 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-09
+lastUpdated: 2026-05-10
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
-polymarketYes: 1.5
-polymarketNo: 98.6
-polymarketVolume: 98184
+polymarketYes: 1.4
+polymarketNo: 98.7
+polymarketVolume: 98237
 polymarketUrl: "https://polymarket.com/event/will-russia-capture-all-of-donetsk-oblast-by-june-30-2026"
+analysisDate: 2026-05-10
 ---
 
-The market assigns an extremely low probability to Russia achieving complete control of Donetsk Oblast by mid-2026, reflecting the grinding reality of a conflict where Russia has struggled for over two years to capture territory it claimed to have annexed in September 2022.
+Traders have priced the probability of Russia capturing all of Donetsk Oblast by mid-2026 at near-zero levels, reflecting the significant military and logistical challenges Russia faces in achieving complete territorial control of the region. This market matters because Donetsk Oblast represents one of Russia's primary stated objectives in the conflict, with control of the entire region being a core demand in any potential peace negotiations and essential to Russia's claimed annexation of the territory in September 2022.
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 1.5% | 98.6% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 1.4% | 98.7% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The bear case against Russian success centers on military fundamentals that haven't changed significantly since 2023. Russia currently controls approximately 60% of Donetsk Oblast, with major population centers like Kramatorsk, Sloviansk, and the heavily fortified areas around Chasiv Yar still under Ukrainian control. Russian forces have averaged only 2-3 kilometers of territorial gains per month throughout 2024 despite massive casualties estimated at over 1,000 soldiers per day. At current rates of advance, capturing the remaining 40% of the oblast would require 3-4 years minimum. Ukraine's defensive lines have proven resilient, particularly around key logistical hubs, and Western military aid—while inconsistent—continues to flow. The upcoming NATO summit in The Hague in June 2025 will likely address long-term security commitments to Ukraine, potentially including multi-year aid packages that would sustain Ukrainian defensive capabilities through 2026.
+The bull case for Russian success rests on Ukraine's ongoing manpower constraints and ammunition shortages, particularly if Western military aid falters following the 2024 U.S. elections and potential policy shifts in 2025. Russia would need to capture major urban centers including Kramatorsk, Slovyansk, and the heavily fortified areas around Pokrovsk—cities that have resisted assault for over two years. The grinding offensive around Bakhmut and Avdiivka demonstrated Russia can eventually take fortified positions, but at enormous cost and over extended timeframes. Any collapse in Ukrainian defensive lines or dramatic reduction in NATO support before 2026 could accelerate Russian advances.
 
-The bull case requires assuming either a dramatic Ukrainian collapse or a negotiated settlement that cedes the territory. A potential catalyst could emerge from the 2024 U.S. presidential transition period and policy shifts in early 2025, particularly if a new administration pressures Ukraine toward territorial concessions. Russia's spring 2025 offensive, typically launched between March and May when ground conditions improve, represents the most critical near-term catalyst. If Russian forces achieve breakthrough gains exceeding 50 kilometers in depth around Pokrovsk or Chasiv Yar, the probability would need recalibration. However, such breakthroughs have eluded Russia despite repeated attempts in 2023 and 2024.
+The bear case, which traders clearly favor, centers on the mathematical improbability of Russia capturing approximately 40-50% of Donetsk Oblast that remains under Ukrainian control within just 18 months. Russian forces have averaged only a few kilometers of gains per month throughout 2023-2024 despite concentrating forces in the Donetsk direction. The remaining Ukrainian-held territory includes major cities with substantial defensive preparations built since 2014. Ukraine's defensive strategy has proven effective at inflicting disproportionate casualties on attacking forces, and even pessimistic projections of current front-line movement rates suggest Russia would need several years, not months, to complete territorial conquest.
 
-Traders should monitor several key indicators: monthly territorial control maps from ISW and DeepState UA showing Russian advance rates, Ukrainian mobilization figures and Western aid disbursement schedules (particularly the EU's €50 billion package distribution timeline through 2027), and any high-level negotiations emerging from potential talks in 2025. The spring 2025 offensive outcome will be evident by June 2025, providing a critical datapoint one year before market expiry. Current odds appropriately reflect that even optimistic Russian scenarios would leave them short of complete oblast control by the deadline.
+Key catalysts include the outcome of Ukraine's spring 2025 mobilization efforts, Western aid packages scheduled for review in early 2025, and any potential ceasefire negotiations that might accelerate or freeze throughout 2025-2026. Traders should monitor Russian monthly territorial gains in the Donetsk direction—currently measured in single-digit kilometers—and whether this rate accelerates significantly. The status of Pokrovsk and Chasiv Yar represent critical defensive nodes whose fall would signal potential for broader Ukrainian defensive collapse, though their continued resistance into 2025 would further validate the current low probability.
 
 ## Related Markets
 
 - [Will the US acquire part of Greenland in 2026?](/odds/will-the-us-acquire-part-of-greenland-in-2026) — 14% YES
-- [Will Katie Porter win the California Governor Election in 2026?](/odds/will-katie-porter-win-the-california-governor-election-in-2026) — 1% YES
-- [Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?](/odds/will-amanda-anisimova-be-the-2026-womens-wimbledon-winner) — 4% YES
+- [Will Marco Rubio win the 2028 US Presidential Election?](/odds/will-marco-rubio-win-the-2028-us-presidential-election) — 15% YES
+- [Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?](/odds/will-amanda-anisimova-be-the-2026-womens-wimbledon-winner) — 6% YES
 
 ## Frequently Asked Questions
 
-### What percentage of Donetsk Oblast does Russia currently control and what are the hardest areas left to capture?
+### Does Russia need to capture only the remaining uncaptured portions of Donetsk Oblast, or does this include areas Ukraine has recaptured?
 
-Russia controls roughly 60% of the oblast, with heavily fortified Ukrainian positions remaining around Kramatorsk, Sloviansk, and Chasiv Yar—cities that represent major logistical hubs with prepared defensive lines built since 2014. These areas would require urban warfare against entrenched defenders, historically the most costly form of combat.
+The market resolves based on complete Russian control of the entire oblast by the deadline. Russia must hold all territory within Donetsk Oblast's administrative boundaries, including areas it currently controls and those still held by Ukraine.
 
-### Could a negotiated settlement before June 2026 result in Russia gaining all of Donetsk Oblast?
+### What happens if a ceasefire freezes current lines before June 2026 with Ukraine still controlling parts of Donetsk?
 
-While negotiations could emerge in 2025, Ukraine has consistently rejected territorial concessions of entire oblasts, and Western backers have signaled they would condition any settlement on Ukrainian consent. Even optimistic Russian negotiating scenarios typically involve frozen conflict lines rather than complete territorial transfers.
+The market would resolve NO, as the condition requires Russia to capture all of Donetsk Oblast by the deadline. A frozen conflict with Ukrainian-held territory means the condition is not met regardless of diplomatic status.
 
-### What would Russian advance rates need to accelerate to for this outcome to become plausible?
+### How much territory does Russia actually need to capture to win this market?
 
-At roughly 40% of the oblast remaining and approximately 18 months until deadline, Russia would need to sustain advances of 15-20+ kilometers per month consistently—roughly 6-8 times their current rate—while simultaneously breaking through multiple Ukrainian defensive lines without operational pauses.
+Russia needs to capture approximately 5,000-6,000 square kilometers of Ukrainian-held territory in Donetsk Oblast, including major cities like Kramatorsk, Slovyansk, and Pokrovsk, representing roughly 40-50% of the oblast that remains under Ukrainian control as of late 2024.
 
 ## Learn More
 

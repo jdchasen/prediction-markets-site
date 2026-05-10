@@ -3,8 +3,8 @@ title: "Will Israel Katz be the next Prime Minister of Israel?"
 description: "Will Israel Katz be the next Prime Minister of Israel? Odds: 0.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Israel Katz be the next Prime Minister of Israel?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-09
+status: "settled"
+lastUpdated: 2026-05-10
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 0.2

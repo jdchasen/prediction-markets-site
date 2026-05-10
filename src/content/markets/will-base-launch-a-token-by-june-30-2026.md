@@ -1,17 +1,16 @@
 ---
 title: "Will Base launch a token by June 30, 2026?"
-description: "Will Base launch a token by June 30, 2026? Odds: 1.6% YES on Polymarket. See live prices and trade this market."
+description: "Will Base launch a token by June 30, 2026? Odds: 2.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Base launch a token by June 30, 2026?"
 category: "crypto"
 status: "active"
-lastUpdated: 2026-05-09
+lastUpdated: 2026-05-10
 expiryDate: 2026-06-30
 tags: ["crypto", "polymarket"]
-polymarketYes: 1.6
-polymarketNo: 98.4
-polymarketVolume: 985809
+polymarketYes: 2.1
+polymarketNo: 98.0
+polymarketVolume: 997245
 polymarketUrl: "https://polymarket.com/event/will-base-launch-a-token-by-june-30-2026"
-analysisDate: 2026-05-09
 ---
 
 The market assigns minimal probability to Base launching a native token before mid-2026, reflecting Coinbase's consistent messaging that Base operates as an Ethereum Layer 2 without plans for a separate token. This matters because Base has become one of the fastest-growing L2s by TVL and transaction volume, making any token launch potentially one of the largest crypto events of the cycle.

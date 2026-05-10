@@ -3,8 +3,8 @@ title: "Will Elon Musk post 880-919 tweets in May 2026?"
 description: "Will Elon Musk post 880-919 tweets in May 2026? Odds: 5.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Elon Musk post 880-919 tweets in May 2026?"
 category: "tech"
-status: "active"
-lastUpdated: 2026-05-09
+status: "settled"
+lastUpdated: 2026-05-10
 expiryDate: 2026-06-01
 tags: ["polymarket", "tech"]
 polymarketYes: 5.8

@@ -4,14 +4,13 @@ description: "Bank of England decreases interest rates by 50+ bps after June 202
 marketQuestion: "Bank of England decreases interest rates by 50+ bps after June 2026 meeting?"
 category: "economics"
 status: "active"
-lastUpdated: 2026-05-09
+lastUpdated: 2026-05-10
 expiryDate: 2026-06-18
 tags: ["economics", "interest-rates", "polymarket"]
 polymarketYes: 0.2
 polymarketNo: 99.8
-polymarketVolume: 9682
+polymarketVolume: 9866
 polymarketUrl: "https://polymarket.com/event/bank-of-england-decreases-interest-rates-by-50-bps-after-june-2026-meeting"
-analysisDate: 2026-05-09
 ---
 
 # Bank of England Rate Cut Analysis

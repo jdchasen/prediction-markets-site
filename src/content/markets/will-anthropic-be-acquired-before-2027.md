@@ -4,14 +4,13 @@ description: "Will Anthropic be acquired before 2027? Odds: 6.5% YES on Polymark
 marketQuestion: "Will Anthropic be acquired before 2027?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-09
+lastUpdated: 2026-05-10
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 6.5
 polymarketNo: 93.5
-polymarketVolume: 97311
+polymarketVolume: 97504
 polymarketUrl: "https://polymarket.com/event/will-anthropic-be-acquired-before-2027-142"
-analysisDate: 2026-05-09
 ---
 
 # Anthropic Acquisition Market Analysis

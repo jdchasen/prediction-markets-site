@@ -4,14 +4,13 @@ description: "Will Mike Kennealy win the 2026 Massachusetts Governor Republican 
 marketQuestion: "Will Mike Kennealy win the 2026 Massachusetts Governor Republican primary election?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-09
+lastUpdated: 2026-05-10
 expiryDate: 2026-09-01
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.9
 polymarketNo: 99.1
 polymarketVolume: 9811
 polymarketUrl: "https://polymarket.com/event/will-mike-kennealy-win-the-2026-massachusetts-governor-republican-primary-election"
-analysisDate: 2026-05-09
 ---
 
 # Massachusetts Republican Primary 2026: Kennealy's Steep Climb

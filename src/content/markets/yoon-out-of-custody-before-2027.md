@@ -4,48 +4,47 @@ description: "Yoon out of custody before 2027? Odds: 7.7% YES on Polymarket. See
 marketQuestion: "Yoon out of custody before 2027?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-09
+lastUpdated: 2026-05-10
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 7.7
 polymarketNo: 92.3
 polymarketVolume: 9740
 polymarketUrl: "https://polymarket.com/event/yoon-out-of-custody-before-2027"
+analysisDate: 2026-05-10
 ---
 
-This market currently prices in a roughly 1-in-13 chance that South Korea's former President Yoon Suk Yeol will be released from custody before year-end 2026, reflecting deep skepticism about his legal prospects despite ongoing legal battles. The prediction matters now because Yoon faces multiple criminal charges including insurrection and abuse of power following his December 2024 martial law declaration, with his detention status directly tied to South Korea's political stability and judicial independence. At 7.5%, the market is essentially betting against Yoon's release even as his legal team pursues appeals and as conservative political forces mobilize to potentially shield him from conviction.
+# Analysis: Yoon Out of Custody Before 2027
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 7.5% | 92.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 7.7% | 92.3% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The bull case rests on three pillars: first, Yoon's conservative party (People Power Party) retains parliamentary minority power and could mount successful legal challenges; second, South Korea's Constitutional Court has a history of overturning convictions in high-profile political cases, and Yoon's lawyers are aggressively leveraging appeals; third, political pressure could intensify if the ruling coalition perceives the prosecution as politically motivated, potentially triggering presidential pardons (South Korean presidents routinely pardon predecessors). Specific catalysts include the Constitutional Court's ruling on Yoon's presidential powers (expected early 2025), appellate court decisions on his detention validity (ongoing), and any significant shift in parliamentary composition if snap elections occur before late 2026.
+The market is pricing in a 7.7% probability that South Korea's former President Yoon Suk-yeol will be released from custody before year-end 2026, reflecting strong skepticism that legal proceedings will resolve in his favor in the near term. This matters because Yoon faces multiple serious charges including insurrection and abuse of power stemming from his December 2024 martial law declaration, and his legal status directly affects South Korea's political stability and the ruling conservative party's trajectory heading into the 2027 presidential period.
 
-The bear case, reflected in the low 7.5% odds, emphasizes that South Korea's courts have largely proceeded with judicial independence despite political pressure, the evidence against Yoon on martial law charges appears substantial with sworn testimony from military officials, and detention extensions have been repeatedly granted even when his party controlled more parliamentary seats. The timeline matters critically: if Yoon remains in pre-trial detention throughout 2025 and into 2026, momentum for his release diminishes significantly as trials progress toward conviction verdicts. The prosecutorial push appears firm, with investigators pursuing aggravated charges that carry mandatory minimum sentences.
+The bull case for YES relies on several potential pathways: a conservative-controlled Constitutional Court could overturn his impeachment conviction (a decision expected by late 2025), his party could gain legislative supermajority to influence proceedings, or lower courts might grant bail pending appeals. Yoon's legal team has already filed Constitutional Court appeals, and oral arguments are scheduled for early 2025. Additionally, South Korean public opinion shows roughly 40-45% support for his release or presidential pardon among conservatives, creating political pressure for mercy. If courts rule that his martial law declaration wasn't technically "insurrection" under strict legal definitions, custody requirements could be reconsidered.
 
-Traders should monitor three key developments: first, the Constitutional Court ruling on presidential authority (likely February-March 2025), which could reshape legal strategy; second, any elections or parliamentary composition changes that might alter political calculus around pardon considerations; and third, trial verdict timelines in both the Seoul Central District Court and the Court of Appeals. The extremely low odds suggest the market has largely priced in that Yoon stays detained through trial completion, with release only possible via legal victory (low probability) or political intervention (increasingly unlikely as 2026 approaches).
+The bear case dominates because multiple institutional factors work against Yoon: the Democratic opposition controls the National Assembly (currently around 170 of 300 seats), making legislative intervention nearly impossible; the Seoul Central District Court has already denied bail twice on insurrection charges; and Korean courts have historically taken anti-corruption cases seriously, especially involving former presidents (see Park Geun-hye's conviction). The Constitutional Court, despite having conservative justices, faces intense scrutiny for any perceived political bias. Most critically, his detention status benefits opposition politicians by keeping him sidelined from campaigning or influencing the March 2025 special elections and 2026 local elections, reducing political incentive for release.
+
+Key catalysts to monitor: Constitutional Court oral hearings (early 2025), the court's decision on his impeachment (likely spring 2025), Seoul Central District Court rulings on bail motions (ongoing through mid-2025), and the March 2025 special elections outcomes, which will signal conservative strength. If conservatives significantly underperform or if the Constitutional Court upholds his impeachment in decisive fashion, the probability of custody release drops further. Conversely, any unexpected conservative legislative gains or surprise court rulings weakening insurrection charges could rapidly shift odds upward. The expiry timing (end of 2026) captures roughly 24 months of legal uncertainty, making this essentially a bet on whether exceptional political intervention overcomes an unfavorable judicial environment.
 
 ## Related Markets
 
 - [Will the US acquire part of Greenland in 2026?](/odds/will-the-us-acquire-part-of-greenland-in-2026) — 14% YES
-- [Will Katie Porter win the California Governor Election in 2026?](/odds/will-katie-porter-win-the-california-governor-election-in-2026) — 1% YES
-- [Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?](/odds/will-amanda-anisimova-be-the-2026-womens-wimbledon-winner) — 4% YES
+- [Will Marco Rubio win the 2028 US Presidential Election?](/odds/will-marco-rubio-win-the-2028-us-presidential-election) — 15% YES
+- [Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?](/odds/will-amanda-anisimova-be-the-2026-womens-wimbledon-winner) — 6% YES
 
 ## Frequently Asked Questions
 
-### What specific martial law charges does Yoon face and how do they affect custody timelines?
+### Could a presidential pardon by an incoming conservative president in 2027 still count as Yoon being "out of custody," and does this market expire before that?
 
-Yoon faces insurrection and abuse of power charges stemming from his December 3, 2024 martial law declaration; insurrection carries particularly harsh sentencing guidelines that courts interpret as justifying extended detention pending trial resolution.
+No—the market expires December 31, 2026, before any 2027 presidential inauguration, so a pardon after that date wouldn't affect this contract's outcome. Yoon must be physically released or acquitted before 2027 to trigger YES.
 
-### Could a change in South Korea's government composition before 2027 materially shift this market?
+### What percentage of Yoon's charges are actually considered "insurrection" versus other crimes, and does this distinction matter for custody?
 
-Yes—if opposition Democrats gain significant parliamentary power in upcoming elections, the political incentive to pardon or release Yoon would weaken substantially, further reducing release probability before the market's December 2026 expiry.
-
-### How have previous South Korean presidential detention cases resolve, and is Yoon's situation comparable?
-
-Former presidents Lee Myung-bak and Park Geun-hye both served substantial prison time despite appeals, though both eventually received presidential pardons years after conviction; Yoon's insurrection charges are more severe than their convictions, making immediate release without conviction highly unlikely.
+Yoon faces both insurrection charges (the most serious, carrying life imprisonment) and separate abuse-of-power charges. Courts have been most aggressive in holding him on insurrection counts specifically, so narrowing or dismissing those charges would be the primary path to custody relief.
 

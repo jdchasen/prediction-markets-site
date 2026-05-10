@@ -4,14 +4,13 @@ description: "Will inflation reach more than 5% in 2026? Odds: 30.5% YES on Poly
 marketQuestion: "Will inflation reach more than 5% in 2026?"
 category: "economics"
 status: "active"
-lastUpdated: 2026-05-09
+lastUpdated: 2026-05-10
 expiryDate: 2026-12-31
 tags: ["economics", "polymarket", "sports"]
 polymarketYes: 30.5
 polymarketNo: 69.5
-polymarketVolume: 97414
+polymarketVolume: 97424
 polymarketUrl: "https://polymarket.com/event/will-inflation-reach-more-than-5-in-2026-282"
-analysisDate: 2026-05-09
 ---
 
 Traders are pricing just a 30% chance of inflation exceeding 5% in 2026, reflecting confidence that the Federal Reserve's tightening cycle has durably reduced price pressures despite ongoing concerns about fiscal deficits and potential supply shocks. This market matters because it captures expectations for the medium-term inflation trajectory at a time when the Fed is contemplating rate cuts and the 2024 election outcome could reshape fiscal policy.

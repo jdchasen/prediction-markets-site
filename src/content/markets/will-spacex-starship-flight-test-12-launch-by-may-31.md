@@ -3,8 +3,8 @@ title: "Will SpaceX Starship Flight Test 12 launch by May 31?"
 description: "Will SpaceX Starship Flight Test 12 launch by May 31? Odds: 82.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will SpaceX Starship Flight Test 12 launch by May 31?"
 category: "tech"
-status: "active"
-lastUpdated: 2026-05-09
+status: "settled"
+lastUpdated: 2026-05-10
 expiryDate: 2026-05-31
 tags: ["polymarket", "tech"]
 polymarketYes: 82.5

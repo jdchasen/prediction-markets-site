@@ -3,8 +3,8 @@ title: "Will Bulgaria be in the top 10 at Eurovision 2026?"
 description: "Will Bulgaria be in the top 10 at Eurovision 2026? Odds: 30.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Bulgaria be in the top 10 at Eurovision 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-09
+status: "settled"
+lastUpdated: 2026-05-10
 expiryDate: 2026-05-16
 tags: ["politics", "polymarket"]
 polymarketYes: 30.0
