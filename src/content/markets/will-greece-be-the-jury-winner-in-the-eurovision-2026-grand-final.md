@@ -1,17 +1,16 @@
 ---
 title: "Will Greece be the Jury Winner in the Eurovision 2026 Grand Final?"
-description: "Will Greece be the Jury Winner in the Eurovision 2026 Grand Final? Odds: 1.1% YES on Polymarket. See live prices and trade this market."
+description: "Will Greece be the Jury Winner in the Eurovision 2026 Grand Final? Odds: 1.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Greece be the Jury Winner in the Eurovision 2026 Grand Final?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-05-10
 expiryDate: 2026-05-16
 tags: ["politics", "polymarket"]
-polymarketYes: 1.1
-polymarketNo: 98.9
-polymarketVolume: 97502
+polymarketYes: 1.2
+polymarketNo: 98.8
+polymarketVolume: 98192
 polymarketUrl: "https://polymarket.com/event/will-greece-be-the-jury-winner-in-the-eurovision-2026-grand-final"
-analysisDate: 2026-05-10
 ---
 
 # Eurovision 2026 Greece Jury Winner Analysis

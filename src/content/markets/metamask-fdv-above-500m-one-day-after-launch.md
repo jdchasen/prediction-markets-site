@@ -3,7 +3,7 @@ title: "Metamask FDV above $500M one day after launch?"
 description: "Metamask FDV above $500M one day after launch? Odds: 43.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Metamask FDV above $500M one day after launch?"
 category: "crypto"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-10
 expiryDate: 2027-01-01
 tags: ["crypto", "polymarket"]

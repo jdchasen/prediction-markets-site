@@ -3,7 +3,7 @@ title: "Will Philadelphia 76ers advance to the Conference Finals in the 2026 NBA
 description: "Will Philadelphia 76ers advance to the Conference Finals in the 2026 NBA Playoffs? Odds: 1.6% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Philadelphia 76ers advance to the Conference Finals in the 2026 NBA Playoffs?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-10
 expiryDate: 2026-05-24
 tags: ["polymarket", "sports"]

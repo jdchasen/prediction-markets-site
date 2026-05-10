@@ -11,7 +11,6 @@ polymarketYes: 1.1
 polymarketNo: 98.9
 polymarketVolume: 98329
 polymarketUrl: "https://polymarket.com/event/will-the-communist-party-of-the-russian-federation-kprf-win-the-most-seats-in-the-next-russian-parliamentary-election"
-analysisDate: 2026-05-10
 ---
 
 The market gives the Communist Party of the Russian Federation virtually no chance of winning the most seats in the 2026 parliamentary election, reflecting the entrenched dominance of United Russia in a political system with limited genuine competition.

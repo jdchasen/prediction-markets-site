@@ -3,7 +3,7 @@ title: "ByteDance IPO before 2027?"
 description: "ByteDance IPO before 2027? Odds: 12.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "ByteDance IPO before 2027?"
 category: "finance"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-10
 expiryDate: 2026-12-31
 tags: ["finance", "polymarket"]

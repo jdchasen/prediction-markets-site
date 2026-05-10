@@ -3,7 +3,7 @@ title: "Will Clara Tauson win the 2026 Women’s French Open?"
 description: "Will Clara Tauson win the 2026 Women’s French Open? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Clara Tauson win the 2026 Women’s French Open?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-10
 expiryDate: 2026-06-06
 tags: ["politics", "polymarket"]

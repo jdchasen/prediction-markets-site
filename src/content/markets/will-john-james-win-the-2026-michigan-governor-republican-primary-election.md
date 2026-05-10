@@ -3,7 +3,7 @@ title: "Will John James win the 2026 Michigan Governor Republican primary electi
 description: "Will John James win the 2026 Michigan Governor Republican primary election? Odds: 41.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will John James win the 2026 Michigan Governor Republican primary election?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-10
 expiryDate: 2026-08-04
 tags: ["elections", "politics", "polymarket"]

@@ -9,9 +9,8 @@ expiryDate: 2026-05-23
 tags: ["politics", "polymarket"]
 polymarketYes: 7.5
 polymarketNo: 92.5
-polymarketVolume: 9851
+polymarketVolume: 9881
 polymarketUrl: "https://polymarket.com/event/will-gachiakuta-win-anime-of-the-year-at-the-2026-crunchyroll-anime-awards"
-analysisDate: 2026-05-10
 ---
 
 # Gachiakuta's Long-Shot Path to Anime of the Year

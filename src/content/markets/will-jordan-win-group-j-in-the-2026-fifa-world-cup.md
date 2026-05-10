@@ -3,7 +3,7 @@ title: "Will Jordan win Group J in the 2026 FIFA World Cup?"
 description: "Will Jordan win Group J in the 2026 FIFA World Cup? Odds: 1.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Jordan win Group J in the 2026 FIFA World Cup?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-10
 expiryDate: 2026-06-27
 tags: ["polymarket", "sports"]

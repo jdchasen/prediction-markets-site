@@ -9,9 +9,8 @@ expiryDate: 2027-04-30
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 4.3
 polymarketNo: 95.7
-polymarketVolume: 977126
+polymarketVolume: 978401
 polymarketUrl: "https://polymarket.com/event/will-franois-hollande-win-the-2027-french-presidential-election"
-analysisDate: 2026-05-10
 ---
 
 The market prices François Hollande's 2027 comeback bid at less than 5%, reflecting deep skepticism about one of France's most unpopular presidents ever returning to the Élysée Palace, though his recent increased media presence has revived speculation about his political ambitions.

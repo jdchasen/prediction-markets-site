@@ -9,9 +9,8 @@ expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 0.5
 polymarketNo: 99.5
-polymarketVolume: 986275
+polymarketVolume: 995008
 polymarketUrl: "https://polymarket.com/event/will-wuthering-heights-be-the-top-grossing-movie-of-2026"
-analysisDate: 2026-05-10
 ---
 
 The Wuthering Heights adaptation faces near-insurmountable odds at 0.5% to become 2026's box office champion, reflecting skepticism that a period drama can compete against major franchise releases and tentpole blockbusters scheduled for that year.

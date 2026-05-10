@@ -3,7 +3,7 @@ title: "Will ICEMAN debut No.1 on Billboard 200?"
 description: "Will ICEMAN debut No.1 on Billboard 200? Odds: 98.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will ICEMAN debut No.1 on Billboard 200?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-10
 expiryDate: 2026-05-15
 tags: ["politics", "polymarket"]

@@ -3,7 +3,7 @@ title: "Will Bulgaria advance through the second Eurovision Semi-Final?"
 description: "Will Bulgaria advance through the second Eurovision Semi-Final? Odds: 84.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Bulgaria advance through the second Eurovision Semi-Final?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-10
 expiryDate: 2026-05-14
 tags: ["politics", "polymarket"]

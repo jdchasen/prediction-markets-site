@@ -11,7 +11,6 @@ polymarketYes: 10.0
 polymarketNo: 90.0
 polymarketVolume: 97645
 polymarketUrl: "https://polymarket.com/event/will-houston-texans-win-the-2027-nfl-afc-championship-334"
-analysisDate: 2026-05-10
 ---
 
 The Houston Texans are trading at a 10% chance to win the 2027 AFC Championship, reflecting skepticism about their ability to emerge from a brutally competitive conference despite recent organizational progress. This market matters because it captures expectations for a franchise in transition, with the 2024-25 and 2025-26 seasons serving as critical developmental periods that will shape their 2026-27 championship window.

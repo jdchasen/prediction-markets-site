@@ -11,7 +11,6 @@ polymarketYes: 0.1
 polymarketNo: 100.0
 polymarketVolume: 9914
 polymarketUrl: "https://polymarket.com/event/will-rick-temple-be-the-republican-nominee-for-senate-in-georgia"
-analysisDate: 2026-05-10
 ---
 
 # Rick Temple Georgia Senate Republican Nominee Analysis

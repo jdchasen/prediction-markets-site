@@ -3,7 +3,7 @@ title: "Will Legacy win IEM Cologne Major 2026?"
 description: "Will Legacy win IEM Cologne Major 2026? Odds: 0.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Legacy win IEM Cologne Major 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-10
 expiryDate: 2026-06-21
 tags: ["politics", "polymarket"]

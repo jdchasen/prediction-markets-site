@@ -3,7 +3,7 @@ title: "Will the Philadelphia 76ers win the NBA Eastern Conference Finals?"
 description: "Will the Philadelphia 76ers win the NBA Eastern Conference Finals? Odds: 0.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Philadelphia 76ers win the NBA Eastern Conference Finals?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-10
 expiryDate: 2026-06-13
 tags: ["polymarket", "sports"]

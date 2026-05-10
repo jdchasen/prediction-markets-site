@@ -9,11 +9,12 @@ expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 13.5
 polymarketNo: 86.5
-polymarketVolume: 9800015
+polymarketVolume: 9811632
 polymarketUrl: "https://polymarket.com/event/will-the-us-acquire-any-part-of-greenland-in-2026"
+analysisDate: 2026-05-10
 ---
 
-The market pricing US acquisition of Greenland at 13.5% reflects highly skeptical but non-zero odds on what would be an unprecedented peacetime territorial expansion, driven entirely by Donald Trump's renewed interest in purchasing the Danish territory since returning to office in 2025. This matters because any serious pursuit would strain NATO relationships, require navigating Danish sovereignty and Greenlandic self-governance structures, and demand congressional appropriations likely exceeding hundreds of billions of dollars.
+The market pricing US acquisition of part of Greenland at 13.5% reflects renewed attention following Trump's stated interest in the territory, though the fundamental obstacles to such a transaction remain formidable given Denmark's sovereignty and Greenland's self-governance framework.
 
 ## Current Odds
 
@@ -23,31 +24,31 @@ The market pricing US acquisition of Greenland at 13.5% reflects highly skeptica
 
 ## Market Analysis
 
-The bull case centers on Trump's documented persistence on this issue, dating to his first term when he floated the purchase in 2019, and his transactional approach to foreign policy that could pair a Greenland deal with security guarantees or infrastructure investment Denmark finds compelling. Greenland's 56,000 residents have expanding self-governance powers under the 2009 Self-Government Act, and economic pressures—the territory receives about $600 million annually in Danish subsidies—could theoretically make some form of association with the US attractive if framed as economic development rather than traditional annexation. The April 2025 Greenlandic parliamentary elections could bring leaders more open to discussing unconventional arrangements, particularly if independence-minded parties gain ground and view US partnership as a path to full sovereignty from Denmark.
+The bull case centers on Trump's willingness to pursue unconventional diplomatic initiatives and potential Danish financial pressures that could theoretically make a lease arrangement or partial territorial sale attractive. Trump discussed Greenland acquisition seriously during his first term and has reiterated interest, suggesting this isn't merely rhetorical positioning. A structured approach could involve long-term military basing rights expansion beyond the existing Thule Air Base, potentially framed as Arctic security cooperation with NATO implications. The Danish government faces budget constraints, while Greenland's 57,000 residents might respond to economic incentives if presented with substantial development funding and autonomy guarantees. Key catalyst dates include Trump's first year in office through late 2025, when any serious diplomatic initiative would need to launch to allow for 2026 completion.
 
-The bear case is overwhelming: Denmark has repeatedly stated Greenland is not for sale, any transfer would require approval from Danish parliament, Greenlandic parliament, and likely a referendum among Greenland's population who polling suggests strongly prefer current arrangements or full independence over US control. The Inatsisartut (Greenlandic parliament) has shown no serious interest in such discussions, and the governing Inuit Ataqatigiit party platform emphasizes decolonization and sovereignty, not changing colonial powers. Congressional authorization would face significant Democratic opposition and skepticism from traditional foreign policy Republicans wary of alienating a key NATO ally. The legal and diplomatic mechanisms for such a transfer have no modern precedent—the last US territorial purchase was the Virgin Islands in 1917.
+The bear case is overwhelming from both political and practical standpoints. Danish Prime Minister Mette Frederiksen explicitly stated in 2019 that "Greenland is not for sale," and no major Danish political party has shown openness to territorial cession. Greenland's own parliament would need to approve any arrangement under their self-governance statute from 2009, and local political sentiment strongly favors eventual independence from Denmark rather than American acquisition. The constitutional and international law complexities of transferring sovereignty over inhabited territory in the 21st century create nearly insurmountable barriers. The timeline to complete such negotiations, secure parliamentary approvals in both Denmark and Greenland, and finalize legal frameworks within a single calendar year appears unrealistic even if political will existed.
 
-Key catalysts include the Greenlandic parliamentary elections scheduled for April 6, 2025, where any surprisingly strong performance by pro-US voices would matter, though none currently exist in meaningful numbers. Trump's upcoming meetings with NATO leaders, particularly any bilateral summits with Danish leadership in 2025-2026, could reveal whether this remains rhetorical flourish or serious policy. The FY2026 and FY2027 budget processes starting in February 2025 and 2026 respectively would need to show any appropriations requests. Traders should monitor statements from Greenland's Premier Múte Bourup Egede and Danish Prime Minister, any congressional hearings on Arctic strategy, and whether the administration appoints a dedicated envoy for Greenland negotiations—absent such concrete steps, these odds likely reflect overpricing of Trump's aspirational statements rather than actionable policy.
+Traders should monitor Trump administration statements in early 2025 regarding Arctic strategy and any formal diplomatic overtures to Copenhagen. Danish parliamentary sessions and budget negotiations through spring 2025 could reveal economic vulnerabilities, though no legislative calendar events currently suggest territorial discussions. Greenland's parliamentary election cycle and any polling on US relations would provide crucial signals about local receptivity. The NATO summit planned for mid-2025 could serve as a venue for Arctic security discussions that might indirectly address basing rights expansion, representing the most plausible pathway short of outright acquisition.
 
 ## Related Markets
 
 - [Will Marco Rubio win the 2028 US Presidential Election?](/odds/will-marco-rubio-win-the-2028-us-presidential-election) — 15% YES
-- [Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?](/odds/will-amanda-anisimova-be-the-2026-womens-wimbledon-winner) — 5% YES
-- [Will Xi Jinping win the Nobel Peace Prize in 2026?](/odds/will-xi-jinping-win-the-nobel-peace-prize-in-2026) — 2% YES
+- [Will Xi Jinping win the Nobel Peace Prize in 2026?](/odds/will-xi-jinping-win-the-nobel-peace-prize-in-2026) — 1% YES
+- [Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?](/odds/will-amanda-anisimova-be-the-2026-womens-wimbledon-winner) — 6% YES
 
 ## Frequently Asked Questions
 
-### Would the US need Greenland's approval to purchase it from Denmark, or just Denmark's agreement?
+### Could the US pursue a lease arrangement instead of outright purchase, and would that count for this market?
 
-Under Greenland's 2009 Self-Government Act, Greenland has authority over its own affairs except foreign policy and defense, meaning any sovereignty transfer would legally require approval from both Denmark's Folketing and Greenland's Inatsisartut parliament, plus highly likely referendums in both territories. International law principles of self-determination make Greenlandic consent politically essential even if Danish law were ambiguous.
+The market resolution depends on specific contract terms regarding what constitutes "acquisition," but a 99-year lease with effective sovereignty transfer would likely qualify, while simple expansion of existing military basing rights at Thule would not. Traders should verify resolution criteria carefully given this ambiguity.
 
-### What legal mechanism would the US use to acquire Greenland since territorial purchases haven't happened in over a century?
+### What role does China's Arctic ambitions play in making this transaction more likely?
 
-Congress would need to pass authorizing legislation appropriating funds and accepting sovereignty transfer, similar to the 1916 treaty purchasing the Virgin Islands, followed by a bilateral treaty with Denmark ratified by the Senate requiring two-thirds approval. The unprecedented complexity involves Greenland's semi-autonomous status, requiring a three-way agreement rather than simple bilateral purchase.
+China's declared status as a "near-Arctic state" and investments in Greenland mining create national security arguments that could motivate both US pursuit and Danish willingness, particularly regarding rare earth minerals and shipping routes, though this hasn't translated into Danish policy shifts as of late 2024.
 
-### Could Trump pursue a lease arrangement or military base expansion instead of outright purchase to resolve YES?
+### Has any part of Greenland ever been under US control beyond the Thule Air Base?
 
-The market specifically asks about acquisition of "part of Greenland," which traders interpret as sovereignty transfer, not basing rights—the US already operates Pituffik Space Base (formerly Thule) under existing agreements with Denmark. A lease without sovereignty transfer would likely resolve NO, though market resolution terms should be verified for any expansion of the existing base footprint.
+The US maintained several military installations in Greenland during and after WWII under agreement with Denmark, but these were temporary defensive positions rather than territorial acquisitions, making this proposed transaction unprecedented in modern US-Danish relations.
 
 ## Learn More
 

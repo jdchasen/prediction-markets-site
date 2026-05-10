@@ -9,9 +9,8 @@ expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]
 polymarketYes: 16.5
 polymarketNo: 83.5
-polymarketVolume: 98898
+polymarketVolume: 98911
 polymarketUrl: "https://polymarket.com/event/will-monero-hit-1000-in-2026"
-analysisDate: 2026-05-10
 ---
 
 The cryptocurrency Monero currently trades around $200, meaning this market essentially asks whether it can achieve a 5x return within approximately two years—a significant rally that betting markets view as unlikely given the modest 16.5% probability.

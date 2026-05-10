@@ -1,17 +1,16 @@
 ---
 title: "Will Russia capture all of Donetsk Oblast by June 30, 2026?"
-description: "Will Russia capture all of Donetsk Oblast by June 30, 2026? Odds: 1.4% YES on Polymarket. See live prices and trade this market."
+description: "Will Russia capture all of Donetsk Oblast by June 30, 2026? Odds: 1.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Russia capture all of Donetsk Oblast by June 30, 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-05-10
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
-polymarketYes: 1.4
-polymarketNo: 98.7
-polymarketVolume: 98237
+polymarketYes: 1.5
+polymarketNo: 98.6
+polymarketVolume: 98357
 polymarketUrl: "https://polymarket.com/event/will-russia-capture-all-of-donetsk-oblast-by-june-30-2026"
-analysisDate: 2026-05-10
 ---
 
 Traders have priced the probability of Russia capturing all of Donetsk Oblast by mid-2026 at near-zero levels, reflecting the significant military and logistical challenges Russia faces in achieving complete territorial control of the region. This market matters because Donetsk Oblast represents one of Russia's primary stated objectives in the conflict, with control of the entire region being a core demand in any potential peace negotiations and essential to Russia's claimed annexation of the territory in September 2022.

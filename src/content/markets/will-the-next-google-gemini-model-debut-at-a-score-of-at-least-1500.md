@@ -3,7 +3,7 @@ title: "Will the next Google Gemini model debut at a score of at least 1500?"
 description: "Will the next Google Gemini model debut at a score of at least 1500? Odds: 6.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the next Google Gemini model debut at a score of at least 1500?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-10
 tags: ["politics", "polymarket"]
 polymarketYes: 6.0
