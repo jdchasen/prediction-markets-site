@@ -1,53 +1,56 @@
 ---
 title: "Will \"Michael\" be the April film with the highest domestic gross on May 31?"
-description: "Will \"Michael\" be the April film with the highest domestic gross on May 31? Odds: 0.8% YES on Polymarket. See live prices and trade this market."
+description: "Will \"Michael\" be the April film with the highest domestic gross on May 31? Odds: 0.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will \"Michael\" be the April film with the highest domestic gross on May 31?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-10
+lastUpdated: 2026-05-11
 expiryDate: 2026-05-31
 tags: ["politics", "polymarket"]
-polymarketYes: 0.8
+polymarketYes: 0.9
 polymarketNo: 99.2
-polymarketVolume: 98481
+polymarketVolume: 98602
 polymarketUrl: "https://polymarket.com/event/will-michael-be-the-april-film-with-the-highest-domestic-gross-on-may-31"
+analysisDate: 2026-05-11
 ---
 
-This market is essentially dead at 0.2% odds, reflecting that "Michael" (likely referring to a biographical film about Michael Jackson) faces overwhelming competition from established April 2026 releases and would need a catastrophic underperformance from frontrunners to win the domestic box office by the May 31 measurement date.
+# Analysis
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.2% | 99.8% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.9% | 99.2% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The bear case is straightforward and explains the near-zero probability. April 2026 already has major studio tentpoles scheduled, including "The Avengers: Secret Wars" (May 1, which counts as an April release for opening weekend purposes) and likely other Marvel, Disney, or Universal franchises. These films typically generate $200-400 million domestic in their first month. For "Michael" to overcome this deficit, it would need to both massively overperform expectations while established franchises simultaneously collapse—a combination with compound probability in the single digits. The film also faces skepticism given recent music biopics' mixed commercial performance and ongoing controversy surrounding Michael Jackson's legacy affecting mainstream appeal.
+The market is pricing an extremely low probability that a film titled "Michael" will be the highest-grossing movie in April 2026, suggesting either extreme skepticism about the film's commercial viability or confusion about market parameters. At 0.9%, this reflects either conviction that "Michael" won't be released in April, won't perform competitively, or that traders believe other major releases will dominate the box office that month—making this a contrarian bet for those bullish on the project's prospects or distribution timing.
 
-The bull case requires several unlikely dominoes to fall perfectly. If major April tentpoles shift release dates due to production delays (a pattern seen post-2023 strikes), "Michael" could face weaker competition. Music biopics have occasionally broken out unexpectedly—"Bohemian Rhapsody" earned $216 million domestic in 2018. Antoine Fuqua directing and the Lionsgate release strategy could position it as counterprogramming if April 2026 skews heavily toward action franchises. The key catalyst would be extraordinary reviews and word-of-mouth in its opening weeks generating "Elvis" (2022) level cultural momentum.
+The bull case rests on "Michael" being a major studio release with significant marketing spend and star power that could plausibly lead April's domestic gross. If the film is a prestige drama or biopic with awards momentum (common for "Michael"-titled projects), strong reviews, and a favorable release window before summer competition intensifies, it could reasonably top April's box office. The 2026 April calendar is currently unclear, meaning other anticipated releases haven't solidified yet—this creates information asymmetry where early traders may be underpricing an unknown competitive landscape. A Michael Jackson biopic, royal biography, or high-profile character study could perform substantially better than current odds suggest if it has A-list talent and studio backing.
 
-Traders should monitor three concrete developments: the confirmed release date for "The Avengers: Secret Wars" and any Marvel slate adjustments (typically announced 6-12 months prior), tracking for "Michael" opening in early April versus late April which affects its accumulation window, and January-March 2026 tracking data once "Michael" enters wide release. Any production delays pushing major blockbusters out of April would immediately move this market from 0.2% toward 5-10% range.
+The bear case dominates current market sentiment for logical reasons: April's box office typically features counter-programming and mid-tier releases before summer blockbusters arrive in May. Even mid-budget films struggle to lead April unless major franchises are absent that month. "Michael" would need to be a massive-budget tentpole to guarantee the highest gross, yet no major studio has confirmed a "Michael" theatrical release for April 2026 with visible marketing campaigns. The title itself is generic enough that market confusion could explain the low odds—traders may be hedging against multiple films titled "Michael" or uncertain about which project this references. Without industry reporting confirming production timelines or release dates, traders are applying default skepticism to an unconfirmed premise.
+
+Key catalysts to monitor include entertainment trade announcements (Variety, Hollywood Reporter) confirming any "Michael" theatrical release scheduled for April 2026, casting announcements suggesting major A-list involvement, and the broader April 2026 release slate clarity as the date approaches. By late 2025, major studios will have finalized April 2026 schedules, which will either validate or invalidate the bull thesis. If no "Michael" project materializes for April 2026, this market becomes a binary liquidation. Traders should also watch for any biographical films about Michael Jackson, Michael Jordan, or other prominent "Michaels" that might fulfill this contract's terms unexpectedly.
 
 ## Related Markets
 
 - [Will the US acquire part of Greenland in 2026?](/odds/will-the-us-acquire-part-of-greenland-in-2026) — 14% YES
-- [Will Marco Rubio win the 2028 US Presidential Election?](/odds/will-marco-rubio-win-the-2028-us-presidential-election) — 15% YES
-- [Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?](/odds/will-amanda-anisimova-be-the-2026-womens-wimbledon-winner) — 6% YES
+- [Will Marco Rubio win the 2028 US Presidential Election?](/odds/will-marco-rubio-win-the-2028-us-presidential-election) — 12% YES
+- [Will Tarcisio de Freitas win the 2026 Brazilian presidential election?](/odds/will-tarcisio-de-freitas-win-the-2026-brazilian-presidential-election) — 0% YES
 
 ## Frequently Asked Questions
 
-### What counts as an "April film" for this market's resolution criteria?
+### Does this market include all films with "Michael" in the title, or is it referencing a specific announced project?
 
-This typically means films that have their wide release opening weekend in April 2026, though the exact definition matters significantly—a film opening March 28 versus April 4 could accumulate vastly different totals by May 31.
+The contract title suggests a specific film simply titled "Michael," but without confirmed studio releases in industry databases, it likely captures any film with that title distributed in April 2026—creating significant ambiguity about which project (if any) counts.
 
-### How does "The Avengers: Secret Wars" May 1 release date affect this market?
+### What historical April box office trends should inform this bet?
 
-A May 1 opening means the film will likely accumulate most of its gross in May, potentially disqualifying it as an "April film" depending on market resolution rules, which would dramatically improve "Michael's" odds if other April competition is weaker.
+April typically sees 15-25% lower domestic grosses than May and frequently tops out around $150-200 million for a single film's domestic total, making it unlikely to produce a blockbuster-scale winner unless the broader April 2026 slate is historically weak.
 
-### What domestic gross total would "Michael" likely need to win this market?
+### If "Michael" hasn't been announced by early 2025, how should traders interpret these 0.9% odds?
 
-Based on typical April releases, probably $150-250 million domestic by May 31, which would require the film to significantly exceed the $100-150 million range that successful music biopics typically achieve and face minimal blockbuster competition.
+Near-zero odds with no confirmed project suggest the market is pricing in either a near-zero probability of theatrical release or significant confusion, creating potential value for contrarian bets if a
 
 ## Learn More
 

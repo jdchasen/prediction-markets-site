@@ -3,8 +3,8 @@ title: "Will \"The Great Divide - Noah Kahan\" be the Billboard 200 #1 album for
 description: "Will \"The Great Divide - Noah Kahan\" be the Billboard 200 #1 album for the week of May 16? Odds: 100.0% YES on Polymarket. See live prices and trade this mar..."
 marketQuestion: "Will \"The Great Divide - Noah Kahan\" be the Billboard 200 #1 album for the week of May 16?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-10
+status: "settled"
+lastUpdated: 2026-05-11
 expiryDate: 2026-05-14
 tags: ["politics", "polymarket"]
 polymarketYes: 100.0

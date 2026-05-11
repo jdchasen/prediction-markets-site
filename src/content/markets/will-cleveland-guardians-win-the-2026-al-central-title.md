@@ -3,8 +3,8 @@ title: "Will Cleveland Guardians win the 2026 AL Central title?"
 description: "Will Cleveland Guardians win the 2026 AL Central title? Odds: 38.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Cleveland Guardians win the 2026 AL Central title?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-10
+status: "settled"
+lastUpdated: 2026-05-11
 expiryDate: 2026-10-11
 tags: ["politics", "polymarket"]
 polymarketYes: 38.5

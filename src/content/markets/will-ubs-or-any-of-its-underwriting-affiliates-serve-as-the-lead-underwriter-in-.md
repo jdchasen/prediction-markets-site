@@ -3,51 +3,46 @@ title: "Will UBS or any of its underwriting affiliates serve as the lead underwr
 description: "Will UBS or any of its underwriting affiliates serve as the lead underwriter in SpaceX’s initial public offering? Odds: 0.2% YES on Polymarket. See live pric..."
 marketQuestion: "Will UBS or any of its underwriting affiliates serve as the lead underwriter in SpaceX’s initial public offering?"
 category: "tech"
-status: "settled"
-lastUpdated: 2026-05-10
+status: "active"
+lastUpdated: 2026-05-11
 expiryDate: 2027-12-31
 tags: ["polymarket", "tech"]
 polymarketYes: 0.2
 polymarketNo: 99.8
-polymarketVolume: 97168
+polymarketVolume: 97181
 polymarketUrl: "https://polymarket.com/event/will-ubs-or-any-of-its-underwriting-affiliates-serve-as-the-lead-underwriter-in-spacexs-initial-public-offering-884"
+analysisDate: 2026-05-11
 ---
 
-The market pricing UBS involvement in a potential SpaceX IPO at near-zero reflects both SpaceX's explicit reluctance to go public and the speculative nature of predicting banking relationships years in advance.
+The market assigns an extremely low probability to UBS securing the lead underwriter role for SpaceX's eventual IPO, reflecting both skepticism about whether an IPO will occur by the deadline and doubts about UBS's competitive position if it does.
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.3% | 99.7% | $97K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.2% | 99.8% | $97K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The bear case dominates here for multiple reasons. Elon Musk has repeatedly stated SpaceX will remain private until Mars missions achieve regularity, which he's projected beyond 2030. The company generates substantial revenue from Starlink subscriptions and NASA contracts, eliminating capital pressure that typically drives IPOs. Even if SpaceX does pursue public markets by 2027, UBS ranks outside the top tier for mega-cap tech IPOs—Goldman Sachs and Morgan Stanley have dominated recent blockbuster listings like Rivian, Coinbase, and Arm Holdings. SpaceX's existing banking relationships with Morgan Stanley (which has handled Starlink financing) and Bank of America create path dependency that disadvantages late entrants.
+The bear case—and the reason for near-zero odds—rests on several concrete factors. SpaceX CEO Elon Musk has consistently stated he wants to delay an IPO until after establishing a regular Mars transport schedule, pushing any offering well beyond 2027. Even if financial pressures or investor liquidity needs force an earlier IPO, Goldman Sachs and Morgan Stanley have dominated high-profile tech IPOs and maintain deeper relationships with Musk's ventures, having led Tesla's secondary offerings and advised on the Twitter/X acquisition. UBS lacks comparable positioning despite its recent Credit Suisse acquisition expanding its capabilities. The company's investment banking market share in U.S. tech IPOs trails both firms significantly.
 
-The bull case requires a dramatic shift in SpaceX's capital strategy and UBS positioning. If Starship development costs balloon beyond current estimates or if Starlink expansion demands unexpected capital infusions, an IPO could materialize sooner than anticipated. UBS has strengthened its technology banking franchise through recent hires from competitors and has led major European tech offerings. A potential catalyst would be UBS winning mandates for SpaceX's private fundraising rounds in 2025-2026, establishing relationships that could translate to IPO roles. The Credit Suisse acquisition also gave UBS access to additional Silicon Valley relationships and tech banking talent.
+The bull case requires multiple conditions aligning: SpaceX decides to go public before the deadline due to capital needs from Starship development costs or shareholder pressure from early investors seeking liquidity, and UBS leverages its expanded global footprint post-Credit Suisse merger to offer unique advantages like stronger international distribution or favorable pricing. The Swiss bank could also benefit if relationships with existing SpaceX institutional shareholders—potentially European sovereign wealth funds or Swiss family offices—give it an inside track. Any announcement of SpaceX exploring IPO advisors or filing confidential S-1 paperwork would be the critical catalyst to watch.
 
-Key watchpoints include any SpaceX statements about capital needs surrounding Starship orbital refueling tests scheduled for 2025-2026, which are critical for Mars mission viability. Monitor SpaceX's private funding rounds for banking participants—lead roles in late-stage private placements often predict IPO involvement. The Starlink business unit remains the most IPO-viable component; Musk previously suggested spinning it out separately, which could create an earlier timeline than a full SpaceX offering.
-
-## Related Markets
-
-- [Will Elon Musk post 120-139 tweets from May 5 to May 12, 2026?](/odds/will-elon-musk-post-120-139-tweets-from-may-5-to-may-12-2026) — 12% YES
-- [Will Elon Musk post 960-999 tweets in May 2026?](/odds/will-elon-musk-post-960-999-tweets-in-may-2026) — 4% YES
-- [Will Elon Musk post 220-239 tweets from May 8 to May 15, 2026?](/odds/will-elon-musk-post-220-239-tweets-from-may-8-to-may-15-2026) — 8% YES
+Traders should monitor SpaceX's quarterly secondary market valuations and tender offer activity, as accelerating employee liquidity events often precede IPO preparations by 12-18 months. Any public statements from Musk about IPO timing, particularly tied to Starship milestones or Starlink profitability metrics, would dramatically shift probabilities. Additionally, watch for UBS's tech banking hire announcements and league table performance in 2025-2026 tech IPOs, as successful placements of Stripe, Discord, or other mega-cap private companies would strengthen its competitive positioning for a SpaceX mandate.
 
 ## Frequently Asked Questions
 
-### Has SpaceX given any indication it will go public before its Mars mission objectives are met?
+### Does SpaceX need to actually go public for this market to resolve YES, or just announce UBS as lead underwriter?
 
-No. Elon Musk has consistently stated SpaceX will remain private until Mars colonization becomes routine, explicitly to avoid short-term shareholder pressure conflicting with long-term space exploration goals.
+The market requires UBS to actually serve as lead underwriter in a completed IPO, not merely be announced or selected. An announcement without a completed offering by the deadline would resolve NO.
 
-### What would need to happen for UBS specifically to win a lead underwriter role over Morgan Stanley or Goldman Sachs?
+### How does the Credit Suisse acquisition affect UBS's chances of winning this mandate?
 
-UBS would need to establish itself as a primary banker on SpaceX's late-stage private rounds or major Starlink financing transactions in 2025-2026, building relationships that typically determine IPO mandate allocation for companies of this scale.
+The merger expanded UBS's balance sheet and global distribution capabilities, but Credit Suisse had limited presence in major U.S. tech IPOs, so the acquisition provides scale without necessarily improving competitive positioning against Goldman Sachs or Morgan Stanley's entrenched tech banking relationships.
 
-### Could SpaceX spin off Starlink as a separate public company while keeping the core business private?
+### What SpaceX valuation or financial milestone would most likely trigger IPO preparations?
 
-Musk floated this possibility in 2020, and Starlink's subscription revenue model makes it more suitable for public markets than SpaceX's government contract and R&D-heavy core business, though no concrete timeline has been announced.
+Starlink achieving sustained quarterly profitability with predictable recurring revenue—analysts estimate this around $8-10 billion annual revenue—would create the financial narrative investors demand, though Musk has indicated Mars mission readiness remains his personal IPO threshold regardless of Earth-based business performance.
 
 ## Learn More
 

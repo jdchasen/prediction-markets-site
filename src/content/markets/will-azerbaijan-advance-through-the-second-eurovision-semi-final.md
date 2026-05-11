@@ -3,8 +3,8 @@ title: "Will Azerbaijan advance through the second Eurovision Semi-Final?"
 description: "Will Azerbaijan advance through the second Eurovision Semi-Final? Odds: 8.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Azerbaijan advance through the second Eurovision Semi-Final?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-10
+status: "settled"
+lastUpdated: 2026-05-11
 expiryDate: 2026-05-14
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 8.5

@@ -3,8 +3,8 @@ title: "Set Handicap: Bublik (-1.5) vs Tien (+1.5)"
 description: "Set Handicap: Bublik (-1.5) vs Tien (+1.5) Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Set Handicap: Bublik (-1.5) vs Tien (+1.5)"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-10
+status: "settled"
+lastUpdated: 2026-05-11
 expiryDate: 2026-05-17
 tags: ["politics", "polymarket"]
 polymarketYes: 0.1

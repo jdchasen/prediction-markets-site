@@ -1,17 +1,16 @@
 ---
 title: "Will the Fed’s lower bound reach 0.5% or lower before 2027?"
-description: "Will the Fed’s lower bound reach 0.5% or lower before 2027? Odds: 4.5% YES on Polymarket. See live prices and trade this market."
+description: "Will the Fed’s lower bound reach 0.5% or lower before 2027? Odds: 5.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Fed’s lower bound reach 0.5% or lower before 2027?"
 category: "politics"
-status: "settled"
-lastUpdated: 2026-05-10
+status: "active"
+lastUpdated: 2026-05-11
 expiryDate: 2026-12-31
 tags: ["federal-reserve", "politics", "polymarket"]
-polymarketYes: 4.5
-polymarketNo: 95.5
-polymarketVolume: 97277
+polymarketYes: 5.1
+polymarketNo: 95.0
+polymarketVolume: 97398
 polymarketUrl: "https://polymarket.com/event/will-the-feds-lower-bound-reach-0pt5-or-lower-before-2027-459-115-473-497-424-381-849"
-analysisDate: 2026-05-10
 ---
 
 The 4.5% YES probability reflects trader conviction that a Fed funds rate below 0.5% remains a low-probability event through end-2026, even as recession risks and potential policy shifts loom over the next two years. This market matters because it encodes expectations about the severity of economic conditions and the Fed's willingness to deploy emergency-level monetary policy during the Trump administration's second term.

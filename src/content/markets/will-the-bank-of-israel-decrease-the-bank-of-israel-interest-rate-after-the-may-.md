@@ -3,8 +3,8 @@ title: "Will the Bank of Israel decrease the Bank of Israel Interest Rate after 
 description: "Will the Bank of Israel decrease the Bank of Israel Interest Rate after the May decision? Odds: 67.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Bank of Israel decrease the Bank of Israel Interest Rate after the May decision?"
 category: "economics"
-status: "active"
-lastUpdated: 2026-05-10
+status: "settled"
+lastUpdated: 2026-05-11
 expiryDate: 2026-05-25
 tags: ["economics", "interest-rates", "polymarket"]
 polymarketYes: 67.0

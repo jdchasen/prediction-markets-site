@@ -1,51 +1,52 @@
 ---
 title: "U.S. enacts AI safety bill before 2027?"
-description: "U.S. enacts AI safety bill before 2027? Odds: 27.5% YES on Polymarket. See live prices and trade this market."
+description: "U.S. enacts AI safety bill before 2027? Odds: 26.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "U.S. enacts AI safety bill before 2027?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-10
+lastUpdated: 2026-05-11
 expiryDate: 2026-12-31
 tags: ["ai", "politics", "polymarket"]
-polymarketYes: 27.5
-polymarketNo: 72.5
-polymarketVolume: 98051
+polymarketYes: 26.5
+polymarketNo: 73.5
+polymarketVolume: 98068
 polymarketUrl: "https://polymarket.com/event/us-enacts-ai-safety-bill-before-2027"
+analysisDate: 2026-05-11
 ---
 
-The market pricing AI safety legislation at 27% probability through 2026 reflects deep skepticism about Congress's ability to pass major tech regulation despite growing bipartisan concern about AI risks. This matters because the U.S. currently lacks federal guardrails on AI development while companies race to deploy increasingly powerful systems, and this window represents the final two years of potential unified government action before the 2028 election cycle dominates Washington.
+The prediction market shows roughly one-in-four odds that the United States will pass comprehensive AI safety legislation by the end of 2026, reflecting deep uncertainty about whether recent momentum around AI regulation will translate into actual law amid competing political priorities and Silicon Valley resistance.
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 27.0% | 73.0% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 26.5% | 73.5% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The bull case centers on several converging factors: Senate Majority Leader Chuck Schumer's AI Insight Forums throughout 2023-2024 laid groundwork for bipartisan consensus, with senators like Josh Hawley (R-MO) and Richard Blumenthal (D-CT) actively collaborating on framework legislation. California's SB 1047 debate in 2024, though ultimately vetoed, demonstrated that concrete AI safety proposals can advance through legislative processes and build coalitions. A major AI incident—model jailbreak causing real-world harm, deepfake election interference in 2024 or 2026, or autonomous system failure—could rapidly shift political will, similar to how the TikTok situation accelerated data security legislation. The 119th Congress (2025-2026) represents the best window, as the 118th has shown minimal progress on tech bills beyond narrow data privacy efforts.
+The bull case centers on growing bipartisan concern following high-profile AI incidents and competitive pressure from the EU's AI Act, which took effect in August 2024. Senate Majority Leader Chuck Schumer's AI Insight Forums in 2023-2024 laid groundwork for legislative action, and senators like Richard Blumenthal and Josh Hawley have drafted framework proposals. The 119th Congress (2025-2026) faces pressure to act before the 2026 midterms, with the first half of 2026 representing the most realistic legislative window. California's SB 1047, though vetoed by Governor Newsom in September 2024, demonstrated that specific safety frameworks can advance through the political process and may serve as a federal template. Rising public concern about deepfakes, election interference, and autonomous AI systems could create sufficient political urgency.
 
-The bear case is grounded in Congress's consistent failure to regulate tech companies despite years of hearings. The fragmented committee structure means AI jurisdiction spans Commerce, Homeland Security, and Intelligence committees with competing priorities. Tech industry lobbying remains formidable—OpenAI, Anthropic, Google, and Meta collectively spend hundreds of millions annually and generally oppose prescriptive safety requirements. Republicans prioritizing economic competitiveness with China often clash with Democrats emphasizing safety constraints, creating a Goldilocks problem where no middle-ground bill satisfies enough members. The 2025-2026 legislative calendar will be consumed by appropriations, debt ceiling negotiations, and likely Supreme Court confirmations, leaving minimal floor time for complex new regulatory frameworks.
+The bear case points to profound disagreements over what "AI safety" even means—ranging from algorithmic bias to existential risk—making consensus legislation nearly impossible. The tech industry's aggressive lobbying successfully killed California's SB 1047 and will intensify at the federal level where stakes are higher. The 2024 presidential election outcome will significantly shape regulatory appetite, with Republican control potentially prioritizing AI competitiveness over safety mandates. Historical precedent suggests major tech regulation takes years to pass; meaningful data privacy legislation still hasn't cleared Congress despite a decade of attempts. The legislative calendar for 2025-2026 is already crowded with budget reconciliation, appropriations deadlines, and likely debt ceiling negotiations.
 
-Key catalysts to monitor include any AI safety bill introductions in Q1 2025 when the new Congress convenes, the EU's AI Act implementation effects becoming visible in 2025-2026 (potentially creating pressure for U.S. standards), and the 2026 midterm primary season starting in March 2026 where AI regulation could become a campaign issue. The voluntary commitments from major AI labs are set for evaluation in mid-2025, and any company violations could trigger legislative momentum. Watch for whether Schumer's working groups produce actual legislative text in early 2025, as procedural movement would significantly shift odds upward.
+Key catalysts include the formation of committees in the 119th Congress in January 2025, any major AI-related incident that captures public attention, China's AI regulatory moves that could pressure U.S. action, and the crucial spring 2026 period before midterm campaigning dominates the agenda. Traders should monitor whether specific bills like updated versions of the Algorithmic Accountability Act or CREATE AI Act gain cosponsors in early 2025, and whether appropriations bills include AI safety provisions as a backdoor regulatory approach.
 
 ## Related Markets
 
 - [Will the US acquire part of Greenland in 2026?](/odds/will-the-us-acquire-part-of-greenland-in-2026) — 14% YES
-- [Will Marco Rubio win the 2028 US Presidential Election?](/odds/will-marco-rubio-win-the-2028-us-presidential-election) — 15% YES
-- [Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?](/odds/will-amanda-anisimova-be-the-2026-womens-wimbledon-winner) — 6% YES
+- [Will Marco Rubio win the 2028 US Presidential Election?](/odds/will-marco-rubio-win-the-2028-us-presidential-election) — 12% YES
+- [Will Tarcisio de Freitas win the 2026 Brazilian presidential election?](/odds/will-tarcisio-de-freitas-win-the-2026-brazilian-presidential-election) — 0% YES
 
 ## Frequently Asked Questions
 
-### What would count as an "AI safety bill" for this market's resolution?
+### What qualifies as an "AI safety bill" for this market to resolve YES?
 
-The market requires federal legislation specifically addressing AI safety risks—not just general tech regulation or research funding. Bills focused solely on deepfakes, bias auditing, or transparency without safety mechanisms likely wouldn't qualify unless they include substantive provisions on model evaluation, incident reporting, or capability restrictions.
+The market requires federal legislation specifically focused on AI safety regulations, not just general technology policy or research funding bills that mention AI. Executive orders or agency rulemakings would not count—only actual legislation passed by Congress and signed into law.
 
-### Why are the odds so low despite bipartisan rhetoric about AI risks?
+### How does the 2026 midterm election timeline affect the probability of passage?
 
-Congressional agreement on problems rarely translates to legislative action, especially for complex technology regulation where industry opposition is strong and members lack technical expertise. The last major tech regulation passed was COPPA in 1998, and even narrow bills like data privacy have failed repeatedly despite overwhelming public support.
+Meaningful legislation typically requires passage before summer 2026 when midterm campaigning intensifies, creating an effective 18-month window from January 2025. Post-election lame duck sessions rarely pass controversial new regulatory frameworks, especially if party control changes.
 
-### Could executive action through agencies like NIST or FTC substitute for legislation and affect this market?
+### Could AI safety provisions be attached to must-pass legislation like defense authorization bills?
 
-Executive actions wouldn't resolve this market since it specifically requires Congress to "enact" a bill, meaning presidential signature of legislation. However, aggressive agency rulemaking could either reduce congressional urgency (making legislation less likely) or provoke industry demands for clearer legislative standards (potentially increasing chances).
+Yes, this represents a plausible path to passage—embedding AI safety requirements in the National Defense Authorization Act or appropriations bills could bypass standalone legislative gridlock, similar to how other tech regulations have advanced through omnibus packages.
 

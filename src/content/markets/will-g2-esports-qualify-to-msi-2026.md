@@ -1,16 +1,17 @@
 ---
 title: "Will G2 Esports qualify to MSI 2026?"
-description: "Will G2 Esports qualify to MSI 2026? Odds: 77.5% YES on Polymarket. See live prices and trade this market."
+description: "Will G2 Esports qualify to MSI 2026? Odds: 78.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will G2 Esports qualify to MSI 2026?"
 category: "politics"
-status: "settled"
-lastUpdated: 2026-05-10
+status: "active"
+lastUpdated: 2026-05-11
 expiryDate: 2026-07-12
 tags: ["politics", "polymarket"]
-polymarketYes: 77.5
-polymarketNo: 22.5
+polymarketYes: 78.0
+polymarketNo: 22.0
 polymarketVolume: 9720
 polymarketUrl: "https://polymarket.com/event/will-g2-esports-qualify-to-msi-2026"
+analysisDate: 2026-05-11
 ---
 
 # G2 Esports MSI 2026 Qualification Analysis
@@ -23,33 +24,33 @@ polymarketUrl: "https://polymarket.com/event/will-g2-esports-qualify-to-msi-2026
 
 ## Market Analysis
 
-At 78% probability, the market is pricing G2 as a heavy favorite to qualify for Mid-Season Invitational 2026, reflecting their historical dominance in European League of Legends competition but leaving meaningful room for roster collapse or regional upset. This matters now because G2's current roster construction and coaching staff decisions made in late 2025 will largely determine their spring 2026 performance, while the expiry date of mid-July 2026 captures the entire qualifying window through LEC playoffs.
+The market is currently pricing G2 Esports as a heavy favorite to qualify for the 2026 Mid-Season Invitational at 78%, reflecting their historical dominance in European League of Legends competition and consistent roster strength. This matters now because G2's 2026 roster decisions and performance trajectory throughout the 2026 LEC regular season will determine whether they can secure one of Europe's three MSI spots, with the qualification window closing around May 2026 before the tournament in July.
 
-The bull case for G2 qualification rests on institutional consistency: G2 has been Europe's most reliable worlds qualifier for years and maintains superior infrastructure, funding, and player recruitment compared to regional competitors. Their franchise value and first-pick status in player acquisitions gives them compounding advantages—even moderate roster turnover shouldn't dislodge them from top-two LEC finishes needed for MSI qualification. Spring 2026 LEC play begins in January, providing the first concrete catalyst to validate or challenge this assumption; any signs of cohesion problems in week 1-2 would immediately pressure these odds downward.
+The bull case rests on G2's institutional track record: they've qualified for nearly every major international event in recent years and possess the resources to attract top-tier talent in the competitive European market. The 2026 LEC regular season (typically running February through May) will be the primary qualifier, and G2's historical tendency to perform strongly in round-robin formats supports their favorability. If they maintain their core roster and avoid major injury issues during the regular season, reaching top-3 in standings appears highly probable given current competitive dynamics.
 
-The bear case centers on roster volatility and regional parity: if G2 loses key players to NA or Chinese franchises during the offseason (decisions finalized by November 2025), or if they retain underperforming players, a single bad split could drop them to third place in a tightening LEC. European talent like Upset, Inspired, or Caps have transferred before, and one or two departures could cascade into fourth-place finishes. Additionally, teams like Fnatic or MAD Lions occasionally field dominant rosters that suppress G2's qualifying odds through head-to-head competition across spring and summer play.
+The bear case centers on roster volatility and emerging competition. European talent consolidation means teams like Fnatic, MAD Lions, or rising challengers could field stronger rosters than anticipated, and player retirements or mid-year transfers could disrupt G2's chemistry. A crucial wildcard is the LEC playoff format changes—if Riot implements format modifications before 2026, the qualification criteria or timing could shift unexpectedly. Additionally, if G2 experiences internal conflicts or underperforms in spring 2026, they could finish outside the auto-qualification spots and rely on playoffs, introducing additional risk.
 
-Traders should closely monitor: G2's roster announcements (expected November-December 2025), their January 2026 spring split performance through week 4, playoff seeding around May 2026, and any mid-split roster swaps that signal crisis management. The 78% reflects moderate confidence, not certainty—a realistic 15-20% probability swing in either direction remains plausible depending on execution in the first month of LEC play.
+Traders should monitor roster announcements (typically December 2025-January 2026), watch G2's 2026 Spring Split performance starting in February, and track any LEC structural changes announced by Riot Games before the season begins. The market's 78% confidence assumes continuity; any unexpected roster departures or format changes could trigger significant repricing downward toward 60-65%.
 
 ## Related Markets
 
 - [Will the US acquire part of Greenland in 2026?](/odds/will-the-us-acquire-part-of-greenland-in-2026) — 14% YES
-- [Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?](/odds/will-amanda-anisimova-be-the-2026-womens-wimbledon-winner) — 4% YES
-- [Will Xi Jinping win the Nobel Peace Prize in 2026?](/odds/will-xi-jinping-win-the-nobel-peace-prize-in-2026) — 2% YES
+- [Will Marco Rubio win the 2028 US Presidential Election?](/odds/will-marco-rubio-win-the-2028-us-presidential-election) — 12% YES
+- [Will Tarcisio de Freitas win the 2026 Brazilian presidential election?](/odds/will-tarcisio-de-freitas-win-the-2026-brazilian-presidential-election) — 0% YES
 
 ## Frequently Asked Questions
 
-### What specific LEC format determines MSI qualification in 2026?
+### What specific roster changes could most impact G2's qualification chances?
 
-Typically the top two LEC teams from the spring split playoffs qualify directly for MSI; G2's 78% odds imply the market sees roughly a 22% chance they place third or worse and miss qualification.
+Loss of a primary carry player (mid or ADC) or their shotcaller/support would be the highest-impact departures; replacements matter significantly, but rebuilding around new players historically takes G2 one split to gel, risking MSI qualification if spring 2026 is chaotic.
 
-### When will we get concrete information about G2's 2026 roster?
+### How much does G2's historical MSI qualification rate influence the current 78% odds?
 
-Official roster announcements should occur in November-December 2025, with scrims and early LEC week 1 matches (January 2026) providing the first real performance signal.
+Substantially—G2 has qualified for the last 5+ consecutive MSI events, and this consistency anchors the market's confidence, though this assumes similar competitive conditions and roster stability persist into 2026.
 
-### How much does G2's summer split performance matter to this market?
+### If G2 finishes 4th in LEC spring standings, can they still reach MSI?
 
-Technically it doesn't—the market only cares about MSI qualification, which is determined by spring playoffs (~May 2026)—but poor summer standings could indicate deeper problems that were already visible in spring.
+Yes, through the playoff bracket, but it significantly increases failure risk; they'd need a deep playoff run while other teams also compete for the remaining international spots, making qualification much less certain than direct top-3 seeding.
 
 ## Learn More
 

@@ -4,14 +4,13 @@ description: "Will Roy Barreras win the 2026 Colombian presidential election? Od
 marketQuestion: "Will Roy Barreras win the 2026 Colombian presidential election?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-10
+lastUpdated: 2026-05-11
 expiryDate: 2026-06-21
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.1
 polymarketNo: 99.9
-polymarketVolume: 981385
+polymarketVolume: 994822
 polymarketUrl: "https://polymarket.com/event/will-roy-barreras-win-the-2026-colombian-presidential-election"
-analysisDate: 2026-05-10
 ---
 
 Roy Barreras, a veteran Colombian senator and Liberal Party politician, is currently trading at near-zero probability to win the 2026 presidential race, reflecting deep skepticism about his viability despite his political experience and role as Senate President from 2022-2023.

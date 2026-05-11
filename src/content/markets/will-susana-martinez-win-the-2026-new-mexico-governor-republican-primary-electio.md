@@ -3,8 +3,8 @@ title: "Will Susana Martinez win the 2026 New Mexico Governor Republican primary
 description: "Will Susana Martinez win the 2026 New Mexico Governor Republican primary election? Odds: 0.3% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Susana Martinez win the 2026 New Mexico Governor Republican primary election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-10
+status: "settled"
+lastUpdated: 2026-05-11
 expiryDate: 2026-06-02
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.3

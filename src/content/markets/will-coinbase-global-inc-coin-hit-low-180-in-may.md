@@ -3,8 +3,8 @@ title: "Will Coinbase Global, Inc. (COIN) hit (LOW) $180 in May?"
 description: "Will Coinbase Global, Inc. (COIN) hit (LOW) $180 in May? Odds: 39.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Coinbase Global, Inc. (COIN) hit (LOW) $180 in May?"
 category: "crypto"
-status: "active"
-lastUpdated: 2026-05-10
+status: "settled"
+lastUpdated: 2026-05-11
 expiryDate: 2026-06-01
 tags: ["crypto", "polymarket", "sports"]
 polymarketYes: 39.5

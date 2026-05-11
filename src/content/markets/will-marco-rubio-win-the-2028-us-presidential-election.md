@@ -1,17 +1,16 @@
 ---
 title: "Will Marco Rubio win the 2028 US Presidential Election?"
-description: "Will Marco Rubio win the 2028 US Presidential Election? Odds: 14.8% YES on Polymarket. See live prices and trade this market."
+description: "Will Marco Rubio win the 2028 US Presidential Election? Odds: 12.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Marco Rubio win the 2028 US Presidential Election?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-10
+lastUpdated: 2026-05-11
 expiryDate: 2028-11-07
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 14.8
-polymarketNo: 85.2
-polymarketVolume: 9756842
+polymarketYes: 12.5
+polymarketNo: 87.5
+polymarketVolume: 9767418
 polymarketUrl: "https://polymarket.com/event/will-marco-rubio-win-the-2028-us-presidential-election"
-analysisDate: 2026-05-10
 ---
 
 Marco Rubio's odds at roughly 15% reflect a speculative long-shot position for the Florida senator, priced primarily on his potential role as Secretary of State in a Trump administration and the visibility that cabinet position could provide heading into the next cycle.

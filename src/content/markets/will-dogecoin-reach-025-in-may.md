@@ -3,8 +3,8 @@ title: "Will Dogecoin reach $0.25 in May?"
 description: "Will Dogecoin reach $0.25 in May? Odds: 0.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Dogecoin reach $0.25 in May?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-10
+status: "settled"
+lastUpdated: 2026-05-11
 expiryDate: 2026-06-01
 tags: ["politics", "polymarket"]
 polymarketYes: 0.9

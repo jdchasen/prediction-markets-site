@@ -4,14 +4,13 @@ description: "Will Nikolai Denkov win the next Bulgarian presidential election? 
 marketQuestion: "Will Nikolai Denkov win the next Bulgarian presidential election?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-10
+lastUpdated: 2026-05-11
 expiryDate: 2026-11-30
 tags: ["ai", "elections", "politics", "polymarket"]
 polymarketYes: 11.5
 polymarketNo: 88.5
 polymarketVolume: 9846
 polymarketUrl: "https://polymarket.com/event/will-nikolai-denkov-win-the-next-bulgarian-presidential-election"
-analysisDate: 2026-05-10
 ---
 
 # Nikolai Denkov Presidential Market Analysis
