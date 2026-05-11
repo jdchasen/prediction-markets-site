@@ -1,17 +1,16 @@
 ---
 title: "Will Steve Witkoff attend the next US x Iran diplomatic meeting?"
-description: "Will Steve Witkoff attend the next US x Iran diplomatic meeting? Odds: 62.3% YES on Polymarket. See live prices and trade this market."
+description: "Will Steve Witkoff attend the next US x Iran diplomatic meeting? Odds: 61.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Steve Witkoff attend the next US x Iran diplomatic meeting?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-05-11
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
-polymarketYes: 62.3
-polymarketNo: 37.7
-polymarketVolume: 97528
+polymarketYes: 61.9
+polymarketNo: 38.1
+polymarketVolume: 97574
 polymarketUrl: "https://polymarket.com/event/will-steve-witkoff-attend-the-next-us-x-iran-diplomatic-meeting"
-analysisDate: 2026-05-11
 ---
 
 Traders are pricing in a nearly two-thirds chance that Steve Witkoff, Trump's Middle East envoy and longtime real estate developer, will participate in direct US-Iran diplomatic talks by mid-2026, reflecting optimism about renewed engagement despite decades of hostility between the two nations.

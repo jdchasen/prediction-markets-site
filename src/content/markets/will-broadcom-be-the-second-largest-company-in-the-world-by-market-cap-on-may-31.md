@@ -3,7 +3,7 @@ title: "Will Broadcom be the second-largest company in the world by market cap o
 description: "Will Broadcom be the second-largest company in the world by market cap on May 31? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Broadcom be the second-largest company in the world by market cap on May 31?"
 category: "finance"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-11
 expiryDate: 2026-05-31
 tags: ["finance", "polymarket"]

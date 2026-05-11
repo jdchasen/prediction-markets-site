@@ -9,9 +9,8 @@ expiryDate: 2026-05-16
 tags: ["politics", "polymarket"]
 polymarketYes: 31.5
 polymarketNo: 68.5
-polymarketVolume: 9936
+polymarketVolume: 9972
 polymarketUrl: "https://polymarket.com/event/will-france-be-in-the-top-3-at-eurovision-2026"
-analysisDate: 2026-05-11
 ---
 
 # Eurovision 2026 France Top 3 Prediction Market Analysis

@@ -9,9 +9,8 @@ expiryDate: 2026-09-30
 tags: ["elections", "federal-reserve", "politics", "polymarket"]
 polymarketYes: 1.1
 polymarketNo: 98.9
-polymarketVolume: 98329
+polymarketVolume: 98460
 polymarketUrl: "https://polymarket.com/event/will-the-communist-party-of-the-russian-federation-kprf-win-the-most-seats-in-the-next-russian-parliamentary-election"
-analysisDate: 2026-05-11
 ---
 
 The market prices an extremely unlikely scenario where Russia's Communist Party (KPRF) displaces United Russia in the next State Duma elections, reflecting the entrenched nature of Putin's political system through 2026.

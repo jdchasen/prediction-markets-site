@@ -9,9 +9,8 @@ expiryDate: 2026-05-31
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 51.5
 polymarketNo: 48.5
-polymarketVolume: 9776
+polymarketVolume: 9856
 polymarketUrl: "https://polymarket.com/event/will-anthropic-have-the-best-math-ai-model-at-the-end-of-may-2026"
-analysisDate: 2026-05-11
 ---
 
 # Analysis: Anthropic Math AI Model Prediction Market

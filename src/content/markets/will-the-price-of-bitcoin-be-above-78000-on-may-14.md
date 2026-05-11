@@ -3,7 +3,7 @@ title: "Will the price of Bitcoin be above $78,000 on May 14?"
 description: "Will the price of Bitcoin be above $78,000 on May 14? Odds: 89.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the price of Bitcoin be above $78,000 on May 14?"
 category: "crypto"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-11
 expiryDate: 2026-05-14
 tags: ["bitcoin", "crypto", "polymarket"]

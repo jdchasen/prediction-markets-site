@@ -11,7 +11,6 @@ polymarketYes: 5.5
 polymarketNo: 94.5
 polymarketVolume: 9726
 polymarketUrl: "https://polymarket.com/event/will-sara-rodriguez-win-the-2026-wisconsin-governor-democratic-primary-election"
-analysisDate: 2026-05-11
 ---
 
 # Sara Rodriguez and the 2026 Wisconsin Democratic Primary

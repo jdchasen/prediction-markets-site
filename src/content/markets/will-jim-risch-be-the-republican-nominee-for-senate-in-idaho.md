@@ -1,17 +1,16 @@
 ---
 title: "Will Jim Risch be the Republican nominee for Senate in Idaho?"
-description: "Will Jim Risch be the Republican nominee for Senate in Idaho? Odds: 97.2% YES on Polymarket. See live prices and trade this market."
+description: "Will Jim Risch be the Republican nominee for Senate in Idaho? Odds: 97.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Jim Risch be the Republican nominee for Senate in Idaho?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-05-11
 expiryDate: 2026-05-19
 tags: ["politics", "polymarket"]
-polymarketYes: 97.2
+polymarketYes: 97.1
 polymarketNo: 2.9
-polymarketVolume: 9716
+polymarketVolume: 9793
 polymarketUrl: "https://polymarket.com/event/will-jim-risch-be-the-republican-nominee-for-senate-in-idaho"
-analysisDate: 2026-05-11
 ---
 
 # Idaho Republican Senate Nomination Market Analysis

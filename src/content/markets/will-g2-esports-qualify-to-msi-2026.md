@@ -11,7 +11,6 @@ polymarketYes: 78.0
 polymarketNo: 22.0
 polymarketVolume: 9720
 polymarketUrl: "https://polymarket.com/event/will-g2-esports-qualify-to-msi-2026"
-analysisDate: 2026-05-11
 ---
 
 # G2 Esports MSI 2026 Qualification Analysis

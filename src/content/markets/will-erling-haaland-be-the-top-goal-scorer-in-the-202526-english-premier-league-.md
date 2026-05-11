@@ -1,17 +1,16 @@
 ---
 title: "Will Erling Haaland be the top goal scorer in the 2025–26 English Premier League season?"
-description: "Will Erling Haaland be the top goal scorer in the 2025–26 English Premier League season? Odds: 98.3% YES on Polymarket. See live prices and trade this market."
+description: "Will Erling Haaland be the top goal scorer in the 2025–26 English Premier League season? Odds: 99.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Erling Haaland be the top goal scorer in the 2025–26 English Premier League season?"
 category: "sports"
 status: "active"
 lastUpdated: 2026-05-11
 expiryDate: 2026-05-27
 tags: ["polymarket", "sports"]
-polymarketYes: 98.3
-polymarketNo: 1.7
-polymarketVolume: 98228
+polymarketYes: 99.0
+polymarketNo: 1.1
+polymarketVolume: 98841
 polymarketUrl: "https://polymarket.com/event/will-erling-haaland-be-the-top-goal-scorer-in-the-202526-english-premier-league-season"
-analysisDate: 2026-05-11
 ---
 
 # Erling Haaland Top Scorer 2025-26: Extreme Confidence or Overpriced Certainty?

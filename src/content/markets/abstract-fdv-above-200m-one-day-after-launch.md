@@ -11,7 +11,6 @@ polymarketYes: 77.0
 polymarketNo: 23.0
 polymarketVolume: 99062
 polymarketUrl: "https://polymarket.com/event/abstract-fdv-above-200m-one-day-after-launch"
-analysisDate: 2026-05-11
 ---
 
 The market prices Abstract's fully diluted valuation at a 77% chance of exceeding $200M within 24 hours of launch, reflecting strong confidence in the Coinbase-incubated Layer 2's ability to command premium valuations in a competitive rollup landscape. With launch expected before the January 2028 expiry and Abstract positioning itself as a consumer-focused blockchain built on the ZK Stack, traders are weighing whether its institutional backing and technical infrastructure can translate into immediate market capitalization success.

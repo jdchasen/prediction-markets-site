@@ -9,9 +9,8 @@ expiryDate: 2026-06-21
 tags: ["politics", "polymarket"]
 polymarketYes: 0.2
 polymarketNo: 99.8
-polymarketVolume: 9803
+polymarketVolume: 9845
 polymarketUrl: "https://polymarket.com/event/will-lynn-vision-win-iem-cologne-major-2026"
-analysisDate: 2026-05-11
 ---
 
 # Analysis

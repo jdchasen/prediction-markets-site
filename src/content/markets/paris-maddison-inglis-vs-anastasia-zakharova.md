@@ -3,7 +3,7 @@ title: "Paris: Maddison Inglis vs Anastasia Zakharova"
 description: "Paris: Maddison Inglis vs Anastasia Zakharova Odds: 0.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Paris: Maddison Inglis vs Anastasia Zakharova"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-11
 expiryDate: 2026-05-18
 tags: ["politics", "polymarket"]

@@ -9,9 +9,8 @@ expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 7.0
 polymarketNo: 93.0
-polymarketVolume: 99668
+polymarketVolume: 99673
 polymarketUrl: "https://polymarket.com/event/us-x-china-military-clash-before-2027"
-analysisDate: 2026-05-11
 ---
 
 The market pricing a military clash between the US and China at just 7% through end of 2026 reflects current geopolitical stability despite underlying tensions, though this probability assessment carries enormous implications given such a conflict would reshape the global order and potentially trigger the most consequential military engagement since World War II.

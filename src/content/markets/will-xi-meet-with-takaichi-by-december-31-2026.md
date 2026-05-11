@@ -3,7 +3,7 @@ title: "Will Xi meet with Takaichi by December 31, 2026?"
 description: "Will Xi meet with Takaichi by December 31, 2026? Odds: 39.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Xi meet with Takaichi by December 31, 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-11
 expiryDate: 2026-12-31
 tags: ["ai", "politics", "polymarket"]

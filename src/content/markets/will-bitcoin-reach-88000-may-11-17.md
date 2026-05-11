@@ -3,7 +3,7 @@ title: "Will Bitcoin reach $88,000 May 11-17?"
 description: "Will Bitcoin reach $88,000 May 11-17? Odds: 5.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Bitcoin reach $88,000 May 11-17?"
 category: "crypto"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-11
 expiryDate: 2026-05-18
 tags: ["bitcoin", "crypto", "polymarket"]

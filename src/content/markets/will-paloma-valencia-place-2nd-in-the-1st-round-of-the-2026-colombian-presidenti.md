@@ -3,7 +3,7 @@ title: "Will Paloma Valencia place 2nd in the 1st round of the 2026 Colombian pr
 description: "Will Paloma Valencia place 2nd in the 1st round of the 2026 Colombian presidential election? Odds: 24.0% YES on Polymarket. See live prices and trade this ma..."
 marketQuestion: "Will Paloma Valencia place 2nd in the 1st round of the 2026 Colombian presidential election?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-11
 expiryDate: 2026-05-31
 tags: ["elections", "politics", "polymarket"]

@@ -3,7 +3,7 @@ title: "Will Tesla, Inc. (TSLA) hit (HIGH) $450 in May?"
 description: "Will Tesla, Inc. (TSLA) hit (HIGH) $450 in May? Odds: 46.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Tesla, Inc. (TSLA) hit (HIGH) $450 in May?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-11
 expiryDate: 2026-06-01
 tags: ["politics", "polymarket"]

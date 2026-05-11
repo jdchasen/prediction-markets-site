@@ -9,9 +9,8 @@ expiryDate: 2026-10-04
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.2
 polymarketNo: 99.8
-polymarketVolume: 9767174
+polymarketVolume: 9791175
 polymarketUrl: "https://polymarket.com/event/will-tarcisio-de-frietas-win-the-2026-brazilian-presidential-election"
-analysisDate: 2026-05-11
 ---
 
 Tarcisio de Freitas, the current Governor of São Paulo, sits at near-zero odds to win Brazil's 2026 presidential election despite being frequently mentioned as a potential right-wing candidate, signaling that traders see either minimal chance of his candidacy or believe he faces insurmountable obstacles against likely frontrunners like Lula or other established figures.

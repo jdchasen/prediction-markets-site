@@ -11,7 +11,6 @@ polymarketYes: 9.0
 polymarketNo: 91.0
 polymarketVolume: 97127
 polymarketUrl: "https://polymarket.com/event/will-solana-dip-to-20-by-december-31-2026"
-analysisDate: 2026-05-11
 ---
 
 # Solana Price Prediction Market Analysis

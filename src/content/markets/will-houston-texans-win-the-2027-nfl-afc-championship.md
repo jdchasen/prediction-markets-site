@@ -9,9 +9,8 @@ expiryDate: 2027-01-25
 tags: ["polymarket", "sports"]
 polymarketYes: 10.0
 polymarketNo: 90.0
-polymarketVolume: 97645
+polymarketVolume: 97706
 polymarketUrl: "https://polymarket.com/event/will-houston-texans-win-the-2027-nfl-afc-championship-334"
-analysisDate: 2026-05-11
 ---
 
 # Houston Texans 2027 AFC Championship Analysis

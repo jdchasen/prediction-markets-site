@@ -3,7 +3,7 @@ title: "Will the US confirm that aliens exist by June 30?"
 description: "Will the US confirm that aliens exist by June 30? Odds: 5.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the US confirm that aliens exist by June 30?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-11
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]

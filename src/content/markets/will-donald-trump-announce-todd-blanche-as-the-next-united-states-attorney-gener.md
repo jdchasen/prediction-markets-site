@@ -1,17 +1,16 @@
 ---
 title: "Will Donald Trump announce Todd Blanche as the next United States Attorney General by June 30?"
-description: "Will Donald Trump announce Todd Blanche as the next United States Attorney General by June 30? Odds: 8.0% YES on Polymarket. See live prices and trade this m..."
+description: "Will Donald Trump announce Todd Blanche as the next United States Attorney General by June 30? Odds: 10.0% YES on Polymarket. See live prices and trade this ..."
 marketQuestion: "Will Donald Trump announce Todd Blanche as the next United States Attorney General by June 30?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-05-11
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket", "trump"]
-polymarketYes: 8.0
-polymarketNo: 92.0
-polymarketVolume: 98239
+polymarketYes: 10.0
+polymarketNo: 90.0
+polymarketVolume: 98323
 polymarketUrl: "https://polymarket.com/event/will-donald-trump-announce-todd-blanche-as-the-next-united-states-attorney-general-by-june-30"
-analysisDate: 2026-05-11
 ---
 
 The market pricing Todd Blanche as Attorney General at just 8% reflects skepticism that Trump will elevate his personal defense attorney to the nation's top law enforcement position, though the extended timeline through mid-2026 leaves room for political shifts. This matters because it signals how traders view Trump's cabinet selections and whether he'll prioritize personal loyalty over traditional legal establishment credentials in a potential second term.

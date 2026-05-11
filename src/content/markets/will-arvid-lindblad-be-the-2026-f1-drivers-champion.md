@@ -9,9 +9,8 @@ expiryDate: 2026-12-06
 tags: ["polymarket", "sports"]
 polymarketYes: 0.4
 polymarketNo: 99.7
-polymarketVolume: 9722348
+polymarketVolume: 9730997
 polymarketUrl: "https://polymarket.com/event/will-arvid-lindblad-be-the-2026-f1-drivers-champion"
-analysisDate: 2026-05-11
 ---
 
 Arvid Lindblad's championship odds sit at near-zero levels as the 18-year-old Red Bull junior driver faces the massive hurdle of even securing an F1 seat for 2026, let alone contending for a title in his potential rookie season. This market matters as a high-risk speculative play on one of motorsport's most promising talents potentially replicating Max Verstappen's unprecedented trajectory.

@@ -11,7 +11,6 @@ polymarketYes: 0.9
 polymarketNo: 99.2
 polymarketVolume: 98602
 polymarketUrl: "https://polymarket.com/event/will-michael-be-the-april-film-with-the-highest-domestic-gross-on-may-31"
-analysisDate: 2026-05-11
 ---
 
 # Analysis

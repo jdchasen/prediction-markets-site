@@ -3,7 +3,7 @@ title: "Will Sandra Gauci be the next Prime Minister of Malta following the 2026
 description: "Will Sandra Gauci be the next Prime Minister of Malta following the 2026 Maltese general election? Odds: 0.1% YES on Polymarket. See live prices and trade th..."
 marketQuestion: "Will Sandra Gauci be the next Prime Minister of Malta following the 2026 Maltese general election?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-11
 expiryDate: 2026-05-30
 tags: ["elections", "politics", "polymarket"]

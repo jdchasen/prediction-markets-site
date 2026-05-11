@@ -9,9 +9,8 @@ expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 72.5
 polymarketNo: 27.5
-polymarketVolume: 98040
+polymarketVolume: 98354
 polymarketUrl: "https://polymarket.com/event/will-xi-jinping-visit-us-before-2027"
-analysisDate: 2026-05-11
 ---
 
 # Xi Jinping US Visit Market Analysis

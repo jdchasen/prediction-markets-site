@@ -11,7 +11,6 @@ polymarketYes: 0.1
 polymarketNo: 99.9
 polymarketVolume: 98579
 polymarketUrl: "https://polymarket.com/event/will-won-hee-ryong-win-the-2026-gyeonggi-province-gubernatorial-election"
-analysisDate: 2026-05-11
 ---
 
 Won Hee-ryong faces overwhelming odds against winning the 2026 Gyeonggi Gubernatorial election, with the market pricing his chances at virtually zero, reflecting his position as a conservative politician in South Korea's most populous and historically progressive-leaning province.

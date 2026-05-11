@@ -1,53 +1,54 @@
 ---
 title: "Will Trump and Putin meet next in another EU country?"
-description: "Will Trump and Putin meet next in another EU country? Odds: 0.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Trump and Putin meet next in another EU country? Odds: 0.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Trump and Putin meet next in another EU country?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-05-11
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket", "trump"]
-polymarketYes: 0.5
-polymarketNo: 99.5
-polymarketVolume: 975598
+polymarketYes: 0.8
+polymarketNo: 99.2
+polymarketVolume: 977011
 polymarketUrl: "https://polymarket.com/event/will-trump-and-putin-meet-next-in-another-european-country-954-837-364"
+analysisDate: 2026-05-11
 ---
 
-The market pricing a Trump-Putin meeting in an EU country at near-zero probability reflects deep skepticism about diplomatic engagement between Washington and Moscow occurring on European soil, though the extended timeline to mid-2026 leaves room for dramatic geopolitical shifts.
+The market assigns a near-zero probability to Trump and Putin holding their next meeting in an EU country, reflecting the immense diplomatic and political barriers to such a scenario occurring before mid-2026.
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.5% | 99.5% | $975K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.8% | 99.2% | $977K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The bull case centers on potential peace negotiations over Ukraine that would naturally occur on European territory given the EU's direct stake in the conflict. If Trump returns to the presidency in January 2025 and pursues his stated goal of ending the Ukraine war "in 24 hours," neutral EU states like Hungary (where Viktor Orbán maintains relations with both leaders) or Austria could offer meeting venues. The February 2025 Munich Security Conference and subsequent European diplomatic events provide natural opportunities for such engagement. Trump's transactional approach to foreign policy and his previous willingness to meet adversaries without extensive preconditions increases the possibility compared to conventional diplomatic practice.
+The bear case (supporting the low odds) is straightforward: EU countries face enormous domestic political pressure to maintain sanctions and isolation of Russia during the Ukraine conflict. Any EU leader hosting such a meeting would face immediate backlash from both their electorate and other EU members, particularly Eastern European nations. The existing precedent shows Trump-Putin meetings have occurred in neutral locations (Helsinki 2018) or non-EU settings, and the current geopolitical climate is far more polarized than during Trump's first term. Additionally, if Trump pursues Ukraine peace negotiations, he's more likely to choose Switzerland, Turkey, or Middle Eastern venues that offer neutrality without the political complications of EU soil.
 
-The bear case is considerably stronger. Current EU-Russia relations remain at historic lows with extensive sanctions, making any Putin visit to EU territory legally and politically fraught. Most EU states have issued or would honor ICC arrest warrants against Putin for alleged war crimes in Ukraine, effectively barring him from 27 countries. Trump's meetings with Putin as president previously occurred in neutral locations (Helsinki) or at multilateral summits in non-EU venues. The political optics of meeting Putin on EU soil would be toxic for Trump domestically, particularly if the Ukraine conflict remains unresolved or frozen. Switzerland, Turkey, or Middle Eastern states offer more plausible neutral ground without the legal and political complications.
+The bull case requires a dramatic shift in European politics and the Ukraine situation. If a peace deal emerges in 2025 and one or more EU countries pivot toward Russia normalization—particularly if Hungary's Orbán or a newly elected right-wing government in another member state offers to host—the logistics become feasible. Austria, with its historical neutrality stance, could theoretically provide a venue if it frames the meeting as peace facilitation. The scenario gains marginal plausibility if Trump positions himself as a dealmaker who needs face-to-face summits and publicly pressures European leaders to participate in his diplomatic approach.
 
-Traders should monitor several key developments: Trump's cabinet appointments in late 2024 and their stated Russia policy positions; any breakthrough in Ukraine ceasefire negotiations through early 2025; and whether EU states signal willingness to host such talks. The April 2025 EU-NATO ministerial meetings may clarify European receptiveness to hosting U.S.-Russia diplomacy. Putin's international travel patterns since 2022 show extreme caution about jurisdictions where he could face legal action, suggesting this constraint will persist unless fundamental changes occur in EU-Russia relations or ICC warrant enforcement.
+Key catalysts include any Ukraine ceasefire negotiations in Q1-Q2 2025, the German federal election results (February 2025), and potential shifts in EU leadership dynamics. Watch for Trump's first 100 days to gauge whether he pursues direct Putin engagement and what venue preferences he signals. Any public overtures from Orbán or other EU figures offering to host talks would significantly move these odds upward from their current basement level, though the fundamental constraints remain formidable through mid-2026.
 
 ## Related Markets
 
 - [Will the US acquire part of Greenland in 2026?](/odds/will-the-us-acquire-part-of-greenland-in-2026) — 14% YES
-- [Will Marco Rubio win the 2028 US Presidential Election?](/odds/will-marco-rubio-win-the-2028-us-presidential-election) — 15% YES
-- [Will Xi Jinping win the Nobel Peace Prize in 2026?](/odds/will-xi-jinping-win-the-nobel-peace-prize-in-2026) — 1% YES
+- [Will Tarcisio de Freitas win the 2026 Brazilian presidential election?](/odds/will-tarcisio-de-freitas-win-the-2026-brazilian-presidential-election) — 0% YES
+- [Will Marco Rubio win the 2028 US Presidential Election?](/odds/will-marco-rubio-win-the-2028-us-presidential-election) — 14% YES
 
 ## Frequently Asked Questions
 
-### Would the meeting have to occur after Trump takes office, or could it happen while he's president-elect?
+### What counts as an "EU country" for this market's resolution?
 
-Standard interpretation of "Trump and Putin meet" in political markets refers to meetings in official capacity, meaning after the January 20, 2025 inauguration. President-elect meetings would be unprecedented and unlikely given diplomatic protocol.
+The market specifically requires the meeting to occur on the sovereign territory of one of the 27 current European Union member states. Non-EU countries like Switzerland, Norway, or the UK would not qualify for a YES resolution.
 
-### Which EU countries could realistically host this meeting given the ICC warrant against Putin?
+### Does a multilateral summit where both leaders attend count, or must it be a bilateral Trump-Putin meeting?
 
-Hungary is the only EU member where Orbán has explicitly stated he wouldn't enforce the ICC warrant, making it the sole plausible venue. All other EU states are legally bound to arrest Putin upon entry, though political will to enforce varies.
+The market language suggests any meeting format where Trump and Putin both participate would likely qualify, whether bilateral or multilateral. The critical factors are their simultaneous presence and the EU location rather than the meeting structure.
 
-### Does this market resolve YES if they meet at a multilateral summit like a UN event held in an EU country?
+### Why is the probability so low despite Trump's stated interest in negotiating with Putin?
 
-Yes, the market doesn't specify a bilateral meeting requirement. However, major summits like the UN General Assembly occur in New York (not EU territory), and Putin hasn't attended in-person EU-hosted international gatherings since 2022.
+Even if Trump wants direct negotiations, EU countries face prohibitive political costs from hosting given current sanctions regimes and public opinion on Russia. Trump has numerous non-EU venue options (UAE, Turkey, Switzerland) that avoid forcing an EU government to make a politically suicidal hosting decision.
 
 ## Learn More
 

@@ -3,7 +3,7 @@ title: "Will GamerLegion win IEM Atlanta 2026?"
 description: "Will GamerLegion win IEM Atlanta 2026? Odds: 0.6% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will GamerLegion win IEM Atlanta 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-11
 expiryDate: 2026-05-17
 tags: ["politics", "polymarket"]

@@ -9,46 +9,38 @@ expiryDate: 2026-12-31
 tags: ["economics", "polymarket", "sports"]
 polymarketYes: 30.5
 polymarketNo: 69.5
-polymarketVolume: 97456
+polymarketVolume: 98051
 polymarketUrl: "https://polymarket.com/event/will-inflation-reach-more-than-5-in-2026-282"
+analysisDate: 2026-05-11
 ---
 
-# Inflation at 5%+ in 2026: Market Analysis
+# Inflation Market Analysis: 2026 Outlook
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 30.5% | 69.5% | $97K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 30.5% | 69.5% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The 30.5% probability reflects trader confidence that the Federal Reserve will successfully keep inflation contained below 5% over the next two years, though tail risks remain meaningful. This matters now because current Fed policy decisions, ongoing labor market dynamics, and geopolitical supply shocks will compound over 24 months, making this a critical test of whether post-pandemic inflation proves transitory or structural. The current odds suggest markets price in a soft-landing scenario, but a single shock or policy misstep could materially shift these probabilities.
+The market currently prices in roughly a 70% probability that inflation remains at or below 5% by end-2026, reflecting cautious optimism about Fed policy transmission but significant uncertainty about potential demand shocks. This matters now because inflation expectations anchor long-term bond yields, currency valuations, and Fed rate-cut timing—three factors that drive portfolio positioning through 2025 and into 2026. The relatively modest 30% YES odds suggest traders believe the Fed's recent rate cuts have sufficiently cooled price pressures, though tail risks remain material.
 
-The bull case for YES (inflation exceeding 5%) hinges on three mechanisms: (1) persistent wage-price spirals if the labor market remains tight—current jobless claims near 3.5% provide little slack—(2) supply-chain vulnerabilities re-emerging from geopolitical tensions or trade policy changes under a new administration, and (3) fiscal stimulus overshooting demand destruction. If core PCE, currently running around 2.8-3.0%, fails to decline consistently through 2025, momentum could carry it past 5% by year-end 2026. Any significant tariff implementation or Middle East escalation could instantly disrupt commodity and shipping costs.
+The bull case for sub-5% inflation rests on three structural tailwinds: (1) the demand-destruction from the Fed's 525 basis point rate hike cycle is still propagating through the economy, particularly in interest-rate-sensitive sectors like housing; (2) disinflation in goods prices has proven sticky, with shelter—the largest CPI component—likely cooling as lease rates normalize in 2025-2026; (3) labor market softening (unemployment has drifted higher from 3.4% to 4.3% YTD) should moderate wage growth acceleration. The bear case hinges on geopolitical supply shocks (oil disruptions via Iran tensions or Ukraine escalation), aggressive fiscal stimulus if a new administration pursues large infrastructure or tax-cut packages, and the possibility that core inflation proves more persistent than consensus expects. A return of energy prices to $90+ per barrel or a 3-4 percentage point fiscal impulse in 2025 could easily push 2026 headline inflation back above 5%.
 
-The bear case for NO (inflation staying below 5%) rests on the Fed's demonstrated credibility in front-loading rate hikes, the disinflationary drag from AI productivity gains and easing supply chains, and the probability that rate cuts through 2025 will properly calibrate to economic conditions without re-igniting demand. Core inflation ex-shelter has already normalized significantly, and housing inflation—the last major holdout—shows signs of cracking as mortgage rates stabilize. December CPI releases (January 15th, February 12th data) will be critical; if prints come in at 2.5% or below, expect the YES odds to contract toward 20%.
+Critical catalysts to monitor: the FOMC's 2025 meeting schedule (especially January 29, March 19, May 7 decisions) will signal whether the Fed pauses cuts if inflation stalls, while monthly CPI releases (typically the 10th-12th of each month) in Q3-Q4 2026 will be decisive for market repricing. Non-farm payroll data (first Friday of each month) in mid-to-late 2025 will clarify labor market trajectory. Oil prices matter disproportionately here—watch WTI crude around OPEC+ meetings (next scheduled June 2025) and geopolitical flashpoints. The Fed's December 2025 Summary of Economic Projections will give explicit inflation guidance for 2026, potentially reshaping odds materially.
 
-Watch the FOMC's 2025 meeting schedule closely: rate-cut decisions in January, March, and May will telegraph the Fed's confidence trajectory. Non-Farm Payroll data (first Friday of each month) matters as much as CPI—unemployment creeping above 4.5% would validate the soft-landing thesis and compress YES odds. The market is implicitly pricing in the Fed engineering a 2026 inflation rate between 2.0-2.5%, leaving only a narrow 5%+ miss scenario, so traders should monitor any upside surprise in shelter CPI or wage growth as the primary trigger for repricing toward higher probabilities.
-
-## Related Markets
-
-- [Will the Fed decrease interest rates by 50+ bps after the September 2026 meeting?](/odds/will-the-fed-decrease-interest-rates-by-50-bps-after-the-september-2026-meeting) — 3% YES
-- [Will the Bank of Israel decrease the Bank of Israel Interest Rate after the May decision?](/odds/will-the-bank-of-israel-decrease-the-bank-of-israel-interest-rate-after-the-may-) — 67% YES
+Traders should recognize that this market has widened from earlier-2024 consensus (when sub-5% odds were >80%) due to stickier-than-expected services inflation and tighter labor markets in certain sectors. The 30.5% YES price implies conviction that the Fed achieves a soft landing with demand cooling faster than price momentum, a scenario that requires flawless execution. Watch for any upside surprises in core PCE (the Fed's preferred gauge) in late 2025—two consecutive prints above 3% would likely send YES odds sharply higher.
 
 ## Frequently Asked Questions
 
-### What inflation reading in mid-2025 would significantly move these odds?
+### How much would inflation need to spike to significantly move this market toward YES?
 
-A core PCE print above 3.5% would likely push YES odds above 40%, as it would signal the disinflationary trend has stalled and momentum could carry into 2026; conversely, sustained readings of 2.2-2.4% would compress odds below 20%.
+A sustained move in core PCE above 3.5% YoY or headline CPI above 4% in mid-2026 would likely push YES odds above 45-50%, as it would signal the Fed's cycle is insufficient.
 
-### How much does the labor market's health matter for this prediction?
+### Does the market account for potential Trump tariff policies that could arrive in 2025?
 
-Labor market slack is the Fed's primary tool to suppress inflation—if unemployment stays below 4%, wage growth remains elevated, and the Fed keeps rates higher for longer, making a 5% breach much likelier; any move above 4.5% unemployment strengthens the bear case significantly.
-
-### Could geopolitical events swing this market sharply in either direction?
-
-Yes—major tariff implementation, Middle East escalation, or supply-chain disruption could spike commodity/energy prices rapidly and push inflation past 5% within months; these tail risks are likely why YES odds sit at 30% rather than 15
+Not fully priced yet; 25-35% tariffs on imports could add 1-2 percentage points to 2026 inflation, and any major tariff announcement in
 
 ## Learn More
 
