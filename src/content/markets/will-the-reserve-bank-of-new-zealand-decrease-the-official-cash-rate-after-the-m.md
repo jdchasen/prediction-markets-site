@@ -3,7 +3,7 @@ title: "Will the Reserve Bank of New Zealand decrease the official cash rate aft
 description: "Will the Reserve Bank of New Zealand decrease the official cash rate after the May decision? Odds: 0.1% YES on Polymarket. See live prices and trade this mar..."
 marketQuestion: "Will the Reserve Bank of New Zealand decrease the official cash rate after the May decision?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-12
 expiryDate: 2026-05-27
 tags: ["politics", "polymarket"]

@@ -1,17 +1,16 @@
 ---
 title: "Will Lynn Vision win IEM Cologne Major 2026?"
-description: "Will Lynn Vision win IEM Cologne Major 2026? Odds: 0.2% YES on Polymarket. See live prices and trade this market."
+description: "Will Lynn Vision win IEM Cologne Major 2026? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Lynn Vision win IEM Cologne Major 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-05-12
 expiryDate: 2026-06-21
 tags: ["politics", "polymarket"]
-polymarketYes: 0.2
-polymarketNo: 99.8
-polymarketVolume: 9862
+polymarketYes: 0.1
+polymarketNo: 99.9
+polymarketVolume: 9911
 polymarketUrl: "https://polymarket.com/event/will-lynn-vision-win-iem-cologne-major-2026"
-analysisDate: 2026-05-12
 ---
 
 # IEM Cologne Major 2026: Lynn Vision Longshot Analysis

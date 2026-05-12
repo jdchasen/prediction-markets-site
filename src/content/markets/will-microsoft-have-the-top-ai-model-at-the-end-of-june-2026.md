@@ -9,9 +9,8 @@ expiryDate: 2026-06-30
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 0.2
 polymarketNo: 99.8
-polymarketVolume: 9905
+polymarketVolume: 9974
 polymarketUrl: "https://polymarket.com/event/will-microsoft-have-the-top-ai-model-at-the-end-of-june-2026"
-analysisDate: 2026-05-12
 ---
 
 # Microsoft AI Model Leadership Market Analysis

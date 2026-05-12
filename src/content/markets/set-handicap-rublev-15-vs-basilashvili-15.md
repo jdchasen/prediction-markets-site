@@ -3,7 +3,7 @@ title: "Set Handicap: Rublev (-1.5) vs Basilashvili (+1.5)"
 description: "Set Handicap: Rublev (-1.5) vs Basilashvili (+1.5) Odds: 47.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Set Handicap: Rublev (-1.5) vs Basilashvili (+1.5)"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-12
 expiryDate: 2026-05-19
 tags: ["politics", "polymarket"]

@@ -3,7 +3,7 @@ title: "Will S&P 500 (SPY) hit (HIGH) $770 in May?"
 description: "Will S&P 500 (SPY) hit (HIGH) $770 in May? Odds: 18.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will S&P 500 (SPY) hit (HIGH) $770 in May?"
 category: "finance"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-12
 expiryDate: 2026-06-01
 tags: ["finance", "polymarket", "stocks"]

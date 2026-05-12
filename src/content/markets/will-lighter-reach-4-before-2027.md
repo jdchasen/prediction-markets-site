@@ -11,7 +11,6 @@ polymarketYes: 14.0
 polymarketNo: 86.0
 polymarketVolume: 98308
 polymarketUrl: "https://polymarket.com/event/will-lighter-reach-4-before-2027"
-analysisDate: 2026-05-12
 ---
 
 # Lighter Prediction Market Analysis

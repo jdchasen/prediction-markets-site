@@ -9,9 +9,8 @@ expiryDate: 2026-05-19
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.2
 polymarketNo: 99.8
-polymarketVolume: 9873
+polymarketVolume: 9878
 polymarketUrl: "https://polymarket.com/event/will-robert-neuman-win-the-2026-oregon-governor-republican-primary-election"
-analysisDate: 2026-05-12
 ---
 
 # 2026 Oregon GOP Governor Primary: Robert Neuman's Long-Shot Bid

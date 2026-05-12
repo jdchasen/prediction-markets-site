@@ -3,7 +3,7 @@ title: "Will Trump speak to Xi Jinping in May?"
 description: "Will Trump speak to Xi Jinping in May? Odds: 99.6% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Trump speak to Xi Jinping in May?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-12
 expiryDate: 2026-05-31
 tags: ["politics", "polymarket", "trump"]

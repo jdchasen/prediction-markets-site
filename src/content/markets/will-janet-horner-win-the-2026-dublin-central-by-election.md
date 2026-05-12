@@ -9,9 +9,8 @@ expiryDate: 2026-12-31
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.6
 polymarketNo: 99.4
-polymarketVolume: 9802
+polymarketVolume: 9949
 polymarketUrl: "https://polymarket.com/event/will-janet-horner-win-the-2026-dublin-central-by-election"
-analysisDate: 2026-05-12
 ---
 
 # Dublin-Central 2026 By-Election: Janet Horner's Long-Shot Bid

@@ -11,7 +11,6 @@ polymarketYes: 81.5
 polymarketNo: 18.5
 polymarketVolume: 9857
 polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-tx-38-house-seat"
-analysisDate: 2026-05-12
 ---
 
 # TX-38 Republican Dominance: Market Reflects Deep Red Texas Dynamics

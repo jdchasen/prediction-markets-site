@@ -3,7 +3,7 @@ title: "Will Massimiliano Allegri be appointed as manager of Real Madrid?"
 description: "Will Massimiliano Allegri be appointed as manager of Real Madrid? Odds: 1.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Massimiliano Allegri be appointed as manager of Real Madrid?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-12
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]

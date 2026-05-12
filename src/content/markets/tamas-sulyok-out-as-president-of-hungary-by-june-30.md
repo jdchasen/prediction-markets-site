@@ -1,54 +1,54 @@
 ---
 title: "Tamas Sulyok out as President of Hungary by June 30?"
-description: "Tamas Sulyok out as President of Hungary by June 30? Odds: 77.0% YES on Polymarket. See live prices and trade this market."
+description: "Tamas Sulyok out as President of Hungary by June 30? Odds: 64.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Tamas Sulyok out as President of Hungary by June 30?"
 category: "politics"
-status: "settled"
-lastUpdated: 2026-04-21
+status: "active"
+lastUpdated: 2026-05-12
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
-polymarketYes: 77.0
-polymarketNo: 23.0
-polymarketVolume: 9829
+polymarketYes: 64.0
+polymarketNo: 36.0
+polymarketVolume: 97954
 polymarketUrl: "https://polymarket.com/event/tamas-sulyok-out-as-president-of-hungary-by-june-30"
-analysisDate: 2026-04-21
+analysisDate: 2026-05-12
 ---
 
-# Hungary's Presidential Uncertainty: What 77% Odds Tell Us
+# Hungary's Presidential Uncertainty: A 64% Bet on Early Departure
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 77.0% | 23.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 64.0% | 36.0% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The prediction market is pricing in a substantial likelihood that Tamas Sulyok will be forced from Hungary's presidency within 18 months, reflecting deep political instability and institutional fragility in Viktor Orbán's government. This matters now because Hungary's presidency, though largely ceremonial, carries enough constitutional weight to create governmental crises if the office becomes contested—and Sulyok's tenure has already been marked by unusual controversy for a typically apolitical position.
+The market is pricing a nearly two-to-one chance that Tamas Sulyok leaves the Hungarian presidency within 18 months, reflecting genuine constitutional vulnerability in a system where the president holds less executive power than parliamentary actors but faces potential removal through political pressure or legal challenge. This matters because Hungary's political environment remains volatile despite Viktor Orbán's supermajority control, and presidential instability could signal broader institutional stress in the EU's most autocratic member state.
 
-The bull case for removal centers on Sulyok's vulnerability as a Fidesz-aligned figure in an increasingly polarized parliament. Sulyok faced a no-confidence vote in late 2024 just months into his term, an extraordinary event for a Hungarian president. The opposition controls enough seats to theoretically mount credible removal efforts, especially if Orbán's coalition fractures or if a major scandal emerges involving Sulyok or his allies. Hungary's political calendar offers multiple pressure points: parliamentary debates on constitutional matters could accelerate, and any legitimacy crisis around his election (which was itself contentious) could be weaponized. Additionally, if Orbán loses internal control of his coalition—particularly if junior coalition partner Péter Szijjártó's camp gains leverage—they could use presidential removal as a power play.
+The bull case rests on several concrete risks. Sulyok, inaugurated in May 2022, operates within a political system where the presidency is constitutionally weak but symbolically important—making it a pressure point for opposition forces or even internal Fidesz factions. Hungary's Constitutional Court has shown willingness to intervene in high-profile cases, and if evidence of financial impropriety, health issues, or constitutional violations emerged against Sulyok, impeachment becomes feasible given Fidesz's supermajority control (though using it for removal would require political consensus). The broader EU monitoring of Hungarian democratic standards creates external pressure; the European Parliament has criticized Sulyok's record as chief prosecutor for allegedly complying with Orbán's agenda, potentially triggering institutional investigations that could force resignation.
 
-The bear case argues Sulyok, despite controversies, remains institutionally protected. Removing a president requires a two-thirds supermajority in parliament, a threshold the opposition cannot reach alone and which Orbán's Fidesz controls decisively. While the December 2024 no-confidence vote demonstrated willingness to challenge him, it failed decisively. Hungarian politics, for all its dysfunction, has maintained certain constitutional guardrails. Unless catastrophic personal scandal emerges—criminal charges, corruption revelations—or unless Orbán himself decides Sulyok is expendable, the parliamentary math strongly favors stability through June 2026.
+The bear case emphasizes Sulyok's relative stability and the political costs of removal. Fidesz has no obvious replacement candidate who would command consensus, and removing a seated president invites international criticism at a time when Hungary is negotiating EU funding recovery from its frozen Recovery and Resilience Plan. Sulyok's term runs until 2027, and absent a major scandal or health crisis, there's limited mechanism to force departure absent a coalition collapse—which remains unlikely given Orbán's control. Opposition parties lack the numbers to mount a credible impeachment threat independent of government support.
 
-Key catalysts to monitor include any scheduled confidence votes (likely in spring 2025 or 2026 if opposition-initiated), broader constitutional crises within Orbán's coalition, European Union legal actions that might destabilize the government, and Sulyok's personal conduct. The market's 77% odds suggest traders view institutional breakdown or political realignment as genuinely plausible rather than speculative—a bet on systemic instability rather than a single event.
+Watch for early 2025 parliamentary votes on judicial reform (which could expose Sulyok's prior judicial actions to scrutiny), any corruption investigations involving the presidency, and changes in Orbán's coalition dynamics following potential EU negotiations over frozen funds. The June 2026 European Council meetings could create pressure points if Hungary's rule-of-law concerns escalate.
 
 ## Related Markets
 
-- [Will Ron DeSantis win the 2028 US Presidential Election?](/odds/will-ron-desantis-win-the-2028-us-presidential-election) — 2% YES
-- [Will Ro Khanna win the 2028 Democratic presidential nomination?](/odds/will-ro-khanna-win-the-2028-democratic-presidential-nomination) — 2% YES
-- [Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?](/odds/will-amanda-anisimova-be-the-2026-womens-wimbledon-winner) — 8% YES
+- [Will the US acquire part of Greenland in 2026?](/odds/will-the-us-acquire-part-of-greenland-in-2026) — 16% YES
+- [Will Tarcisio de Freitas win the 2026 Brazilian presidential election?](/odds/will-tarcisio-de-freitas-win-the-2026-brazilian-presidential-election) — 0% YES
+- [Will Marco Rubio win the 2028 US Presidential Election?](/odds/will-marco-rubio-win-the-2028-us-presidential-election) — 14% YES
 
 ## Frequently Asked Questions
 
-### What specifically triggered the no-confidence vote against Sulyok in December 2024, and could similar catalysts repeat?
+### What constitutional mechanism could actually remove Sulyok before his 2027 term ends?
 
-Opposition parties challenged his election legitimacy based on procedural concerns and his Fidesz ties. Similar catalysts could emerge if constitutional disputes resurface or if opposition discovers additional ammunition around his appointment process or personal conduct.
+Impeachment requires a two-thirds parliamentary supermajority; only Fidesz has this power, making removal dependent on Orbán's decision rather than opposition strength or public pressure.
 
-### Does the ceremonial nature of Hungary's presidency make removal easier or harder compared to removing an executive prime minister?
+### How does Sulyok's prior role as chief prosecutor under Orbán affect removal odds?
 
-It makes removal technically easier (pure legislative vote required) but politically harder, since presidents don't control resources or policy—meaning removal requires ideological motivation rather than immediate power consolidation, making it depend on coalition stability rather than governing necessity.
+It increases vulnerability because EU institutions and opposition parties argue his judicial decisions lacked independence, creating a basis for impeachment if Fidesz decides removal serves strategic purposes—but Orbán has shown no indication of abandoning him.
 
-### How would a fracture in Orbán's coalition (say, between Fidesz and junior coalition partners) directly increase removal odds?
+### Would a major EU funding dispute with Hungary directly trigger presidential removal?
 
-Junior coalition partners could withhold support for protecting Sulyok as leverage for concessions, or Orbán might sacrifice Sulyok to appease coalition demands, turning the presidency into a bargaining chip rather than a protected office.
+Unlikely directly, but if frozen EU funds create severe economic pressure, Orbán might sacrifice Sulyok as a symbolic reform gesture to unlock payments, making this the most plausible near-term removal scenario.
 

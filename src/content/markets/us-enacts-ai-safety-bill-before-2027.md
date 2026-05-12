@@ -11,7 +11,6 @@ polymarketYes: 27.5
 polymarketNo: 72.5
 polymarketVolume: 98126
 polymarketUrl: "https://polymarket.com/event/us-enacts-ai-safety-bill-before-2027"
-analysisDate: 2026-05-12
 ---
 
 The market pricing AI safety legislation at roughly 1-in-4 odds reflects deep uncertainty about whether a divided Congress can pass major tech regulation amid competing priorities and industry resistance, yet the probability isn't negligible given bipartisan concerns about frontier AI risks following ChatGPT's public emergence.

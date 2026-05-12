@@ -1,17 +1,16 @@
 ---
 title: "Trump declassifies new UFO files by May 15?"
-description: "Trump declassifies new UFO files by May 15? Odds: 15.0% YES on Polymarket. See live prices and trade this market."
+description: "Trump declassifies new UFO files by May 15? Odds: 17.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Trump declassifies new UFO files by May 15?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-05-12
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket", "trump"]
-polymarketYes: 15.0
-polymarketNo: 85.0
-polymarketVolume: 9788
+polymarketYes: 17.0
+polymarketNo: 83.0
+polymarketVolume: 9939
 polymarketUrl: "https://polymarket.com/event/trump-declassifies-new-ufo-files-by-may-15"
-analysisDate: 2026-05-12
 ---
 
 # Trump UFO Declassification Market Analysis

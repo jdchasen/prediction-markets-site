@@ -9,9 +9,8 @@ expiryDate: 2026-05-16
 tags: ["politics", "polymarket"]
 polymarketYes: 0.1
 polymarketNo: 99.9
-polymarketVolume: 98153
+polymarketVolume: 98854
 polymarketUrl: "https://polymarket.com/event/will-belgium-win-the-televote-for-eurovision-2026"
-analysisDate: 2026-05-12
 ---
 
 # Belgium Eurovision Televote 2026 Analysis

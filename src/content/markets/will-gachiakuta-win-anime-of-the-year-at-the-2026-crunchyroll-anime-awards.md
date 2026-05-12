@@ -3,7 +3,7 @@ title: "Will \"Gachiakuta\" win Anime of the Year at the 2026 Crunchyroll Anime 
 description: "Will \"Gachiakuta\" win Anime of the Year at the 2026 Crunchyroll Anime Awards? Odds: 7.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will \"Gachiakuta\" win Anime of the Year at the 2026 Crunchyroll Anime Awards?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-12
 expiryDate: 2026-05-23
 tags: ["politics", "polymarket"]

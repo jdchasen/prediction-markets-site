@@ -1,17 +1,16 @@
 ---
 title: "Will François Hollande win the 2027 French presidential election?"
-description: "Will François Hollande win the 2027 French presidential election? Odds: 3.9% YES on Polymarket. See live prices and trade this market."
+description: "Will François Hollande win the 2027 French presidential election? Odds: 3.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will François Hollande win the 2027 French presidential election?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-05-12
 expiryDate: 2027-04-30
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 3.9
+polymarketYes: 3.8
 polymarketNo: 96.2
-polymarketVolume: 990096
+polymarketVolume: 991073
 polymarketUrl: "https://polymarket.com/event/will-franois-hollande-win-the-2027-french-presidential-election"
-analysisDate: 2026-05-12
 ---
 
 The market assigns François Hollande barely a 1-in-25 chance of winning the 2027 French presidential election, reflecting deep skepticism that France's least popular modern president could mount a successful comeback after leaving office in 2017 with approval ratings below 20%.

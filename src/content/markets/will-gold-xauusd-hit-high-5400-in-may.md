@@ -3,7 +3,7 @@ title: "Will Gold (XAUUSD) hit (HIGH) $5,400 in May?"
 description: "Will Gold (XAUUSD) hit (HIGH) $5,400 in May? Odds: 1.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Gold (XAUUSD) hit (HIGH) $5,400 in May?"
 category: "finance"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-12
 expiryDate: 2026-06-01
 tags: ["finance", "polymarket"]

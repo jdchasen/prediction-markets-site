@@ -11,7 +11,6 @@ polymarketYes: 0.8
 polymarketNo: 99.2
 polymarketVolume: 9751
 polymarketUrl: "https://polymarket.com/event/will-flix-auger-aliassime-be-the-2026-mens-wimbledon-winner"
-analysisDate: 2026-05-12
 ---
 
 # Félix Auger-Aliassime 2026 Wimbledon Analysis

@@ -9,9 +9,8 @@ expiryDate: 2026-06-30
 tags: ["politics", "polymarket", "trump"]
 polymarketYes: 11.0
 polymarketNo: 89.0
-polymarketVolume: 98986
+polymarketVolume: 99054
 polymarketUrl: "https://polymarket.com/event/will-donald-trump-announce-todd-blanche-as-the-next-united-states-attorney-general-by-june-30"
-analysisDate: 2026-05-12
 ---
 
 The market pricing Todd Blanche as Attorney General at 11% reflects significant skepticism that Trump would elevate his personal criminal defense attorney to the nation's top law enforcement position, despite their close working relationship during Trump's multiple legal battles. The low probability suggests traders view this as politically implausible even in a second Trump term, though the extended timeline through mid-2026 leaves substantial room for unexpected political shifts.

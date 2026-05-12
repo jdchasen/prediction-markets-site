@@ -11,7 +11,6 @@ polymarketYes: 77.0
 polymarketNo: 23.0
 polymarketVolume: 99069
 polymarketUrl: "https://polymarket.com/event/abstract-fdv-above-200m-one-day-after-launch"
-analysisDate: 2026-05-12
 ---
 
 The market strongly favors Abstract achieving a fully diluted valuation exceeding $200M within 24 hours of its token launch, reflecting high confidence in the Ethereum layer-2 project backed by Igloo Inc. and leveraging ZK Stack technology. With launch expected before January 2028 but likely much sooner given development momentum, traders are pricing in substantial hype around Abstract's consumer-focused approach and its connections to Pudgy Penguins, which has demonstrated rare success in bridging crypto and mainstream audiences through retail toy distribution.

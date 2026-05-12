@@ -1,53 +1,54 @@
 ---
 title: "Will Jorge Rodríguez be the leader of Venezuela end of 2026?"
-description: "Will Jorge Rodríguez be the leader of Venezuela end of 2026? Odds: 1.2% YES on Polymarket. See live prices and trade this market."
+description: "Will Jorge Rodríguez be the leader of Venezuela end of 2026? Odds: 1.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Jorge Rodríguez be the leader of Venezuela end of 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-05-12
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 1.2
-polymarketNo: 98.8
-polymarketVolume: 998682
+polymarketYes: 1.1
+polymarketNo: 98.9
+polymarketVolume: 998754
 polymarketUrl: "https://polymarket.com/event/will-jorge-rodrguez-be-the-leader-of-venezuela-end-of-2026"
+analysisDate: 2026-05-12
 ---
 
-The market assigns less than 1% probability to Jorge Rodríguez leading Venezuela by end of 2026, reflecting the expectation that Nicolás Maduro will maintain power despite international pressure and domestic opposition following the disputed 2024 presidential election.
+This market prices an extremely unlikely leadership transition in Venezuela, where Nicolás Maduro currently holds power with military backing and Jorge Rodríguez serves as National Assembly president—a significant but subordinate role. The 1.1% probability reflects traders' assessment that the existing power structure will remain intact through 2026.
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.9% | 99.1% | $992K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 1.1% | 98.9% | $999K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The bear case for this outcome centers on Venezuela's entrenched power structure. Rodríguez currently serves as president of the National Assembly and is a key Maduro loyalist, not a rival. For him to become leader would require either Maduro's voluntary departure (unprecedented for the Chavista movement) or an internal coup within the ruling PSUV party that elevates Rodríguez specifically over other succession candidates like Diosdado Cabello. The military remains loyal to Maduro, and the regime has successfully weathered sanctions, mass emigration, and opposition challenges for years. Venezuela's 2024 election controversy, where Maduro claimed victory despite opposition evidence showing Edmundo González won decisively, demonstrates the regime's willingness to maintain power regardless of legitimacy concerns.
+The bear case for Rodríguez ascending to leadership centers on Venezuela's entrenched authoritarian system. Maduro controls the military, security apparatus, and electoral machinery that kept him in power through the disputed 2024 presidential election, where opposition candidate Edmundo González claimed victory but was forced into exile. Even if health issues or internal PSUV faction fights emerged, the military high command—not the National Assembly presidency—determines succession in Venezuela's de facto system. International sanctions and diplomatic isolation have paradoxically strengthened regime cohesion rather than weakening it, as elites face collective accountability for human rights violations and corruption.
 
-The bull case requires a scenario where Maduro exits power but the regime structure remains intact with Rodríguez as the compromise choice. This could occur if international negotiations—potentially involving the U.S. sanctions relief that was briefly granted in 2023 before being reimposed—create conditions for a managed transition where hardliners accept Rodríguez as a continuity figure. Health issues for Maduro (age 62) or a negotiated settlement where he steps aside while preserving PSUV control could position Rodríguez as a palatable internal successor. His role as chief negotiator with the opposition in past talks makes him familiar to international actors.
+The bull case requires extraordinary circumstances: Maduro's sudden death or incapacitation combined with a collapse of the current succession hierarchy, potentially elevating Rodríguez as a compromise figure within chavismo. As Assembly president and chief government negotiator, Rodríguez has maintained relationships with both hardliners and pragmatists. If the 2025 legislative elections (typically held in December though no date is confirmed) produce internal party tensions, or if renewed U.S. sanctions pressure under potential policy shifts create economic crisis severe enough to fracture military unity, Rodríguez could emerge as a transitional leader. His brother is Communications Minister Freddy Rodríguez, giving the family cross-institutional influence.
 
-Key catalysts include any signs of Maduro health problems, fractures within the ruling party visible through National Assembly dynamics, renewed U.S.-Venezuela negotiations in 2025-2026, or major military defections that could force regime reshuffling. Watch for the PSUV party congress dates, any announcements regarding the 2030 presidential election timeline, and whether opposition leader María Corina Machado's movement gains sufficient pressure to force regime concessions. Regional elections scheduled for 2025 could signal regime weakness if turnout collapses or fraud becomes untenable.
+Key catalysts include any National Assembly elections in late 2025, Venezuela's presidential term checkpoint in January 2025 when Maduro begins his contested new term, and potential U.S. policy decisions on sanctions relief or enforcement following the 2024 U.S. elections. Traders should monitor Maduro's public appearances for health signals, military promotions indicating succession planning, and any unusual elevation of Rodríguez's profile beyond his Assembly role. PSUV party congresses, though irregularly scheduled, would reveal internal power dynamics that could shift this market's calculus.
 
 ## Related Markets
 
-- [Will the US acquire part of Greenland in 2026?](/odds/will-the-us-acquire-part-of-greenland-in-2026) — 14% YES
+- [Will the US acquire part of Greenland in 2026?](/odds/will-the-us-acquire-part-of-greenland-in-2026) — 16% YES
 - [Will Tarcisio de Freitas win the 2026 Brazilian presidential election?](/odds/will-tarcisio-de-freitas-win-the-2026-brazilian-presidential-election) — 0% YES
 - [Will Marco Rubio win the 2028 US Presidential Election?](/odds/will-marco-rubio-win-the-2028-us-presidential-election) — 14% YES
 
 ## Frequently Asked Questions
 
-### Why is Jorge Rodríguez specifically in this market rather than other potential successors like Diosdado Cabello?
+### Does Jorge Rodríguez have any constitutional path to becoming Venezuela's leader from his current position?
 
-Rodríguez serves as National Assembly president and has been the regime's primary negotiator with opposition forces, giving him a public profile. However, this market's low odds reflect that he's not the most likely successor—Cabello controls more security apparatus loyalty.
+The National Assembly presidency provides no direct succession rights—Venezuela's system would theoretically follow the Vice President or new elections. In practice, military leadership determines power transitions regardless of constitutional provisions.
 
-### What would need to happen for Rodríguez to lead Venezuela while keeping the current regime intact?
+### What would need to happen for this market to resolve YES given Maduro's grip on power?
 
-A managed transition where Maduro voluntarily steps down but demands PSUV continuity would favor Rodríguez as a technocratic compromise over more hardline figures, possibly negotiated with international mediators offering sanctions relief in exchange for his leadership.
+Multiple simultaneous shocks would be required: Maduro's sudden removal from power, fragmentation of the military command structure, and Rodríguez emerging as an acceptable compromise among competing chavista factions before year-end 2026.
 
-### Does the disputed 2024 election affect the likelihood of this outcome?
+### How does the opposition's rejection of Maduro's 2024 election victory affect Rodríguez's chances?
 
-The successful election theft strengthens Maduro's position through 2026, making any leadership change less likely. However, if international isolation becomes economically unbearable, Rodríguez could be positioned as a "reformist" alternative to ease sanctions while preserving regime control.
+The disputed election strengthens regime cohesion as elites close ranks against external pressure, making internal power transfers less likely. However, sustained international non-recognition could eventually force negotiated transitions where figures like Rodríguez might play bridging roles.
 
 ## Learn More
 

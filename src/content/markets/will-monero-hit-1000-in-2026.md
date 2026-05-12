@@ -9,9 +9,8 @@ expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]
 polymarketYes: 15.5
 polymarketNo: 84.5
-polymarketVolume: 98955
+polymarketVolume: 98982
 polymarketUrl: "https://polymarket.com/event/will-monero-hit-1000-in-2026"
-analysisDate: 2026-05-12
 ---
 
 # Monero $1000 Price Target Analysis
