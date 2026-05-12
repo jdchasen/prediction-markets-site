@@ -4,14 +4,13 @@ description: "Will Nicolae Ciucă be the next Prime Minister of Romania? Odds: 0
 marketQuestion: "Will Nicolae Ciucă be the next Prime Minister of Romania?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-11
+lastUpdated: 2026-05-12
 expiryDate: 2026-05-31
 tags: ["politics", "polymarket"]
 polymarketYes: 0.2
 polymarketNo: 99.8
-polymarketVolume: 9792
+polymarketVolume: 9843
 polymarketUrl: "https://polymarket.com/event/will-nicolae-ciuc-be-the-next-prime-minister-of-romania"
-analysisDate: 2026-05-11
 ---
 
 At 0.2% implied probability, the market is pricing Nicolae Ciucă as an extreme long shot to lead Romania's government by May 2026, despite his recent prominence as a major political figure. This unusually low odds for a former Prime Minister reflects skepticism about his coalition-building capacity and the fragmented state of Romanian politics heading into what could be a consequential 18 months.

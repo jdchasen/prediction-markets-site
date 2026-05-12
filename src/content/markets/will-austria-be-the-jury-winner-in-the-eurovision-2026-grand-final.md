@@ -4,14 +4,13 @@ description: "Will Austria be the Jury Winner in the Eurovision 2026 Grand Final
 marketQuestion: "Will Austria be the Jury Winner in the Eurovision 2026 Grand Final?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-11
+lastUpdated: 2026-05-12
 expiryDate: 2026-05-16
 tags: ["politics", "polymarket"]
 polymarketYes: 0.1
 polymarketNo: 99.9
-polymarketVolume: 97899
+polymarketVolume: 98770
 polymarketUrl: "https://polymarket.com/event/will-austria-be-the-jury-winner-in-the-eurovision-2026-grand-final"
-analysisDate: 2026-05-11
 ---
 
 # Eurovision 2026 Jury Winner Analysis

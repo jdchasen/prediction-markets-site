@@ -4,14 +4,13 @@ description: "Will Trump and Putin meet next in another EU country? Odds: 0.8% Y
 marketQuestion: "Will Trump and Putin meet next in another EU country?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-11
+lastUpdated: 2026-05-12
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket", "trump"]
 polymarketYes: 0.8
 polymarketNo: 99.2
-polymarketVolume: 977011
+polymarketVolume: 977021
 polymarketUrl: "https://polymarket.com/event/will-trump-and-putin-meet-next-in-another-european-country-954-837-364"
-analysisDate: 2026-05-11
 ---
 
 The market assigns a near-zero probability to Trump and Putin holding their next meeting in an EU country, reflecting the immense diplomatic and political barriers to such a scenario occurring before mid-2026.

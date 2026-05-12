@@ -3,8 +3,8 @@ title: "Will Trump speak to Keir Starmer in May?"
 description: "Will Trump speak to Keir Starmer in May? Odds: 52.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Trump speak to Keir Starmer in May?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-11
+status: "settled"
+lastUpdated: 2026-05-12
 expiryDate: 2026-05-31
 tags: ["politics", "polymarket", "trump"]
 polymarketYes: 52.5

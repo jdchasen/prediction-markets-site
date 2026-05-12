@@ -3,8 +3,8 @@ title: "Will Aaron Baker be the Republican nominee for FL-06?"
 description: "Will Aaron Baker be the Republican nominee for FL-06? Odds: 8.6% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Aaron Baker be the Republican nominee for FL-06?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-11
+status: "settled"
+lastUpdated: 2026-05-12
 expiryDate: 2026-08-18
 tags: ["politics", "polymarket"]
 polymarketYes: 8.6

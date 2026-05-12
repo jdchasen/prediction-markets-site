@@ -1,17 +1,16 @@
 ---
 title: "Will Pete Fry win the 2026 Vancouver mayoral election?"
-description: "Will Pete Fry win the 2026 Vancouver mayoral election? Odds: 13.7% YES on Polymarket. See live prices and trade this market."
+description: "Will Pete Fry win the 2026 Vancouver mayoral election? Odds: 13.3% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Pete Fry win the 2026 Vancouver mayoral election?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-11
+lastUpdated: 2026-05-12
 expiryDate: 2026-10-17
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 13.7
-polymarketNo: 86.4
+polymarketYes: 13.3
+polymarketNo: 86.7
 polymarketVolume: 9913
 polymarketUrl: "https://polymarket.com/event/will-pete-fry-win-the-2026-vancouver-mayoral-election"
-analysisDate: 2026-05-11
 ---
 
 # Vancouver Mayoral Race 2026: Pete Fry's Long-Shot Candidacy

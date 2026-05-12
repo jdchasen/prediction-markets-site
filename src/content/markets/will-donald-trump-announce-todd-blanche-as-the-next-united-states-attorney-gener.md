@@ -1,53 +1,54 @@
 ---
 title: "Will Donald Trump announce Todd Blanche as the next United States Attorney General by June 30?"
-description: "Will Donald Trump announce Todd Blanche as the next United States Attorney General by June 30? Odds: 10.0% YES on Polymarket. See live prices and trade this ..."
+description: "Will Donald Trump announce Todd Blanche as the next United States Attorney General by June 30? Odds: 11.0% YES on Polymarket. See live prices and trade this ..."
 marketQuestion: "Will Donald Trump announce Todd Blanche as the next United States Attorney General by June 30?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-11
+lastUpdated: 2026-05-12
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket", "trump"]
-polymarketYes: 10.0
-polymarketNo: 90.0
-polymarketVolume: 98323
+polymarketYes: 11.0
+polymarketNo: 89.0
+polymarketVolume: 98986
 polymarketUrl: "https://polymarket.com/event/will-donald-trump-announce-todd-blanche-as-the-next-united-states-attorney-general-by-june-30"
+analysisDate: 2026-05-12
 ---
 
-The market pricing Todd Blanche as Attorney General at just 8% reflects skepticism that Trump will elevate his personal defense attorney to the nation's top law enforcement position, though the extended timeline through mid-2026 leaves room for political shifts. This matters because it signals how traders view Trump's cabinet selections and whether he'll prioritize personal loyalty over traditional legal establishment credentials in a potential second term.
+The market pricing Todd Blanche as Attorney General at 11% reflects significant skepticism that Trump would elevate his personal criminal defense attorney to the nation's top law enforcement position, despite their close working relationship during Trump's multiple legal battles. The low probability suggests traders view this as politically implausible even in a second Trump term, though the extended timeline through mid-2026 leaves substantial room for unexpected political shifts.
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 8.0% | 92.0% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 11.0% | 89.0% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The bull case rests on Trump's demonstrated pattern of rewarding fierce personal loyalty, with Blanche serving as lead counsel in multiple criminal cases including the Manhattan hush money trial and classified documents case. If Trump wins the 2024 election (November 5), he could announce Blanche during the transition period between November 2024 and January 2025, or replace an initial AG pick if that nominee faces Senate confirmation difficulties. Blanche's aggressive courtroom defense and willingness to adopt Trump's confrontational legal strategy could appeal to a president seeking to reshape the Justice Department. The lengthy timeframe through June 2026 also allows for scenarios where an initially appointed AG resigns or is fired, creating an opening mid-term.
+The bull case centers on Trump's demonstrated loyalty to attorneys who defended him during his criminal proceedings, with Blanche serving as lead counsel in the Manhattan hush money trial and other cases. Trump has consistently rewarded personal loyalty with high-profile appointments, and Blanche's willingness to represent Trump during politically fraught prosecutions could translate into consideration for senior Justice Department roles. If Trump wins the 2024 election in November, the transition period from November 2024 through January 2025 would be the critical window for AG announcements, though the market allows for later cabinet reshuffles through June 2026. A scenario where Trump's initial AG pick faces confirmation difficulties or resigns early could open the door for Blanche.
 
-The bear case centers on Senate confirmation realities and Blanche's limited prosecutorial credentials. Even with Republican control, senators have historically scrutinized AG nominees carefully, and Blanche's primary experience as a criminal defense attorney—rather than as a prosecutor or state attorney general—represents an unconventional profile. His deep entanglement in Trump's legal defense could trigger bipartisan concerns about DOJ independence, particularly from institutionalist Republicans. Trump himself may recognize that selecting Blanche would intensify perceptions of politicizing justice, potentially preferring more establishment figures like Mike Lee or Jeff Landry who offer loyalty while maintaining prosecutorial backgrounds.
+The bear case is considerably stronger. Blanche lacks the prosecutorial or judicial credentials typically expected for Attorney General, having spent his career primarily as a defense attorney. Senate confirmation would face intense scrutiny given the optics of appointing someone who defended Trump in criminal cases to oversee the Justice Department. Even Republican senators concerned about institutional norms might balk at such a nomination. Trump would likely face pressure to select someone with traditional credentials like a former federal prosecutor, state attorney general, or judge to lead DOJ. The market also requires Trump to both win reelection and specifically choose Blanche over dozens of other loyalists and establishment Republicans seeking the position.
 
-Key catalysts include the November 5, 2024 presidential election result, Trump's transition announcements between November 2024-January 2025, and the Senate confirmation hearings that would follow any nomination (typically 4-8 weeks after inauguration). Traders should monitor whether Trump announces his AG pick early in his transition—historically, Attorney General is among the first cabinet positions filled. The resolution of Trump's ongoing legal cases, particularly sentencing dates and appeal outcomes through 2025, will influence whether Trump views Blanche as more valuable in his current legal role or as AG. Senate Judiciary Committee composition after the 2024 election will also determine confirmation viability.
+Key catalysts include the November 2024 election results, which determine whether Trump even has the opportunity to make this appointment. If Trump wins, watch for AG announcements typically made in November-December 2024 during the transition. Senate Judiciary Committee composition following the election will signal confirmation viability for unconventional picks. Any early departures or controversies involving Trump's initial cabinet selections through 2025-2026 could create secondary opportunities, though Trump would likely prioritize other loyalists with more relevant experience.
 
 ## Related Markets
 
-- [Will the US acquire part of Greenland in 2026?](/odds/will-the-us-acquire-part-of-greenland-in-2026) — 14% YES
-- [Will Marco Rubio win the 2028 US Presidential Election?](/odds/will-marco-rubio-win-the-2028-us-presidential-election) — 12% YES
+- [Will the US acquire part of Greenland in 2026?](/odds/will-the-us-acquire-part-of-greenland-in-2026) — 18% YES
 - [Will Tarcisio de Freitas win the 2026 Brazilian presidential election?](/odds/will-tarcisio-de-freitas-win-the-2026-brazilian-presidential-election) — 0% YES
+- [Will Marco Rubio win the 2028 US Presidential Election?](/odds/will-marco-rubio-win-the-2028-us-presidential-election) — 13% YES
 
 ## Frequently Asked Questions
 
-### Could Trump nominate Blanche for a different position instead, and would that affect this market?
+### Does this market require Senate confirmation or just Trump's announcement of Blanche as his AG nominee?
 
-This market specifically requires Blanche to be announced as Attorney General, so nominations to other positions like White House Counsel or Solicitor General would not trigger a YES resolution. Such alternative appointments would likely push the probability even lower.
+The market resolves on Trump's announcement alone, not Senate confirmation. This makes the 11% odds more reasonable since nomination is easier than actual confirmation, though Trump would likely avoid announcing someone certain to fail confirmation hearings.
 
-### What happens if Trump announces Blanche but he fails Senate confirmation?
+### What happens if Trump nominates Blanche for a different Justice Department position like Deputy AG or Solicitor General?
 
-The market resolves based solely on whether Trump announces Blanche for the AG position by the deadline—Senate confirmation is not required. An announcement followed by a failed confirmation would still result in a YES resolution.
+The market specifically requires announcement as Attorney General, so any other DOJ position would not qualify for a YES resolution. This narrow definition significantly constrains the probability compared to a broader "senior DOJ role" market.
 
-### Does the June 2026 deadline include scenarios where Blanche replaces someone else who was initially Attorney General?
+### Could Trump appoint Blanche as Acting Attorney General without going through Senate confirmation?
 
-Yes, the market covers any announcement of Blanche as AG before June 30, 2026, including mid-term replacements if an initial AG appointee resigns or is removed during Trump's first 18 months in office.
+While Trump could theoretically use the Federal Vacancies Reform Act to install an acting AG, the market language requires announcement "as the next United States Attorney General," which traders would likely interpret as requiring a formal nomination rather than a temporary acting designation.
 
 ## Learn More
 

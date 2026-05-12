@@ -1,17 +1,16 @@
 ---
 title: "Will Nikolai Denkov win the next Bulgarian presidential election?"
-description: "Will Nikolai Denkov win the next Bulgarian presidential election? Odds: 11.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Nikolai Denkov win the next Bulgarian presidential election? Odds: 12.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Nikolai Denkov win the next Bulgarian presidential election?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-11
+lastUpdated: 2026-05-12
 expiryDate: 2026-11-30
 tags: ["ai", "elections", "politics", "polymarket"]
-polymarketYes: 11.5
-polymarketNo: 88.5
-polymarketVolume: 9846
+polymarketYes: 12.5
+polymarketNo: 87.5
+polymarketVolume: 9865
 polymarketUrl: "https://polymarket.com/event/will-nikolai-denkov-win-the-next-bulgarian-presidential-election"
-analysisDate: 2026-05-11
 ---
 
 # Nikolai Denkov's Presidential Prospects: A Narrow Path at 11.5%

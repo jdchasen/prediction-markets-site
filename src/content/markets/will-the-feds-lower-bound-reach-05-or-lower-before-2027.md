@@ -4,14 +4,13 @@ description: "Will the Fed’s lower bound reach 0.5% or lower before 2027? Odds
 marketQuestion: "Will the Fed’s lower bound reach 0.5% or lower before 2027?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-11
+lastUpdated: 2026-05-12
 expiryDate: 2026-12-31
 tags: ["federal-reserve", "politics", "polymarket"]
 polymarketYes: 5.9
 polymarketNo: 94.2
 polymarketVolume: 97398
 polymarketUrl: "https://polymarket.com/event/will-the-feds-lower-bound-reach-0pt5-or-lower-before-2027-459-115-473-497-424-381-849"
-analysisDate: 2026-05-11
 ---
 
 # Federal Reserve Lower Bound Analysis

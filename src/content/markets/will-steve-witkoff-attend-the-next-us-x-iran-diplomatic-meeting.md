@@ -1,53 +1,54 @@
 ---
 title: "Will Steve Witkoff attend the next US x Iran diplomatic meeting?"
-description: "Will Steve Witkoff attend the next US x Iran diplomatic meeting? Odds: 61.9% YES on Polymarket. See live prices and trade this market."
+description: "Will Steve Witkoff attend the next US x Iran diplomatic meeting? Odds: 60.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Steve Witkoff attend the next US x Iran diplomatic meeting?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-11
+lastUpdated: 2026-05-12
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
-polymarketYes: 61.9
-polymarketNo: 38.1
-polymarketVolume: 97574
+polymarketYes: 60.7
+polymarketNo: 39.4
+polymarketVolume: 97682
 polymarketUrl: "https://polymarket.com/event/will-steve-witkoff-attend-the-next-us-x-iran-diplomatic-meeting"
+analysisDate: 2026-05-12
 ---
 
-Traders are pricing in a nearly two-thirds chance that Steve Witkoff, Trump's Middle East envoy and longtime real estate developer, will participate in direct US-Iran diplomatic talks by mid-2026, reflecting optimism about renewed engagement despite decades of hostility between the two nations.
+Traders are pricing a 60.7% probability that Steve Witkoff, Trump's special envoy to the Middle East, will participate in the next formal US-Iran diplomatic meeting by June 2026, reflecting expectations that the Trump administration will pursue direct engagement with Tehran despite campaign rhetoric about "maximum pressure."
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 62.3% | 37.7% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 60.7% | 39.4% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The bull case hinges on Witkoff's unprecedented access to Trump and his dealmaker background making him the natural choice for high-stakes negotiations. Trump has repeatedly expressed willingness to negotiate with Tehran "without preconditions," and Witkoff's involvement in the recent Israel-Hamas ceasefire discussions demonstrates he's already Trump's go-to fixer for Middle East crises. Iran faces severe economic pressure from sanctions, and recent reports suggest Tehran has signaled interest in direct talks to lift restrictions on its oil exports. The appointment of figures like Marco Rubio as Secretary of State, while hawkish, doesn't preclude engagement—Trump historically overrides his advisors on major diplomatic initiatives. If Iran's nuclear program advances further or regional tensions escalate with Hezbollah or Houthi proxies, Trump could dispatch Witkoff as early as late 2025 to prevent military confrontation.
+The bull case centers on Witkoff's expanding diplomatic portfolio and the practical necessity of dialogue. As a real estate developer turned envoy who helped negotiate the Gaza ceasefire in January 2025, Witkoff has demonstrated willingness to engage with Iranian-aligned actors. The administration's priority of securing a broader Middle East normalization deal—potentially linking Saudi-Israel relations with Iranian nuclear constraints—would almost certainly require direct talks. Historical precedent shows that even hardline administrations eventually pursue diplomatic channels, as the Trump administration did in 2019-2020 with back-channel communications. With Iran's nuclear program advancing and regional tensions elevated, the window for preventing escalation may force engagement before mid-2026.
 
-The bear case centers on Iran's domestic politics and the structural obstacles to any meeting. Supreme Leader Khamenei has repeatedly declared negotiations with the US "useless" after Trump withdrew from the JCPOA in 2018, and hardline President Pezeshkian faces significant internal constraints from the Revolutionary Guard Corps, which benefits from sanctions evasion networks. Congressional Republicans would likely attempt to block any normalization efforts through legislation, and Trump's own volatility makes sustained diplomatic process uncertain—he could easily pivot back to "maximum pressure" rhetoric. The market resolution requires actual attendance at a diplomatic meeting, not just informal back-channel communications, and formal US-Iran talks haven't occurred since 2022 in Vienna. Regional dynamics also matter: Israeli Prime Minister Netanyahu strongly opposes any US-Iran rapprochement and maintains significant influence over Trump's Middle East policy.
+The bear case hinges on Trump's volatile foreign policy approach and the administration's ideological composition. Key figures like Marco Rubio and Brian Hook have consistently opposed dialogue with Tehran, advocating instead for intensified sanctions and support for Iranian opposition groups. Witkoff's primary mandate focuses on Israel-Arab normalization rather than Iran specifically, and the administration could designate other officials for any Iran engagement. If Israel conducts strikes on Iranian nuclear facilities in 2025—a scenario that gained attention after April 2024 exchanges—direct diplomacy could become politically toxic. The administration might also prefer indirect channels through Oman or Qatar rather than formal bilateral meetings that would draw domestic criticism.
 
-Key catalysts include Iran's nuclear program monitoring reports from the IAEA (typically quarterly), any Iranian moves to enrich uranium beyond 60% purity, and Trump administration personnel announcements for Iran-specific roles. Watch for Trump's first 100 days in office through April 2025 for signals about diplomatic prioritization. The next Iranian parliamentary elections aren't until 2028, but Khamenei's health (he's 85) remains a wildcard that could shift Tehran's calculus. Traders should monitor whether Witkoff receives formal security clearances and diplomatic credentials, as his current role appears more informal advisor than official envoy.
+Critical factors to monitor include Iran's uranium enrichment levels reported in IAEA quarterly reports (next major assessment expected March 2025), any Israeli military action against Iranian facilities, and Congressional moves to tighten sanctions or authorize military force. The timing of Saudi Arabia's normalization negotiations with Israel will be pivotal—if a framework emerges in late 2025, it could necessitate parallel US-Iran discussions. Traders should also watch for personnel changes in the State Department's Iran desk and any official statements designating Witkoff's specific responsibilities beyond his current Israel-focused mandate.
 
 ## Related Markets
 
-- [Will the US acquire part of Greenland in 2026?](/odds/will-the-us-acquire-part-of-greenland-in-2026) — 14% YES
-- [Will Marco Rubio win the 2028 US Presidential Election?](/odds/will-marco-rubio-win-the-2028-us-presidential-election) — 12% YES
+- [Will the US acquire part of Greenland in 2026?](/odds/will-the-us-acquire-part-of-greenland-in-2026) — 18% YES
 - [Will Tarcisio de Freitas win the 2026 Brazilian presidential election?](/odds/will-tarcisio-de-freitas-win-the-2026-brazilian-presidential-election) — 0% YES
+- [Will Marco Rubio win the 2028 US Presidential Election?](/odds/will-marco-rubio-win-the-2028-us-presidential-election) — 13% YES
 
 ## Frequently Asked Questions
 
-### Does this market resolve YES if Witkoff attends informal backchannel talks with Iranian officials, or does it require an official diplomatic meeting?
+### Does this market require Witkoff's attendance at a formal bilateral US-Iran meeting, or would indirect talks through intermediaries count?
 
-Resolution typically requires a publicly acknowledged diplomatic meeting between US and Iranian representatives, not secret backchannel communications. The market language specifies "diplomatic meeting," suggesting some level of official recognition rather than deniable contact.
+The market resolution depends on the specific platform terms, but typically "diplomatic meeting" implies direct participation in formal negotiations rather than back-channel communications. Traders should verify whether meetings mediated by third parties like Oman or Qatar would qualify.
 
-### How does Witkoff's lack of foreign policy experience affect the probability he'd be chosen for such sensitive negotiations with Iran?
+### What happened with Witkoff's involvement in Middle East diplomacy that makes traders think he'd be chosen for Iran talks?
 
-Trump historically prefers personal loyalists over experienced diplomats for major negotiations, as seen with Jared Kushner's Middle East role previously. Witkoff's real estate dealmaking background and decades-long friendship with Trump may actually increase his chances of selection despite conventional credentials.
+Witkoff emerged as Trump's primary Middle East envoy after helping broker the January 2025 Gaza ceasefire, demonstrating trust and effectiveness in high-stakes regional negotiations. His involvement in sensitive discussions with Qatar and indirect contacts with Hamas suggests the administration views him as capable of handling contentious diplomatic engagements.
 
-### What would constitute the "next" US-Iran diplomatic meeting given that informal contacts may already be occurring?
+### Could the US hold diplomatic meetings with Iran before June 2026 but exclude Witkoff entirely?
 
-The market likely refers to the next official bilateral meeting at a ministerial or envoy level, comparable to the 2021-2022 JCPOA talks in Vienna. Low-level consular discussions or messages passed through intermediaries like Oman or Switzerland wouldn't typically qualify as diplomatic meetings for market resolution purposes.
+Absolutely—the administration could appoint traditional State Department officials, use CIA back channels, or designate other special envoys for Iran-specific negotiations while keeping Witkoff focused on Israel-Arab normalization. This scenario represents a key risk for YES traders betting on Witkoff's involvement.
 
 ## Learn More
 

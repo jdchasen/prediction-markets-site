@@ -3,8 +3,8 @@ title: "Will the Republican Party win the FL-24 House seat?"
 description: "Will the Republican Party win the FL-24 House seat? Odds: 3.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Republican Party win the FL-24 House seat?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-11
+status: "settled"
+lastUpdated: 2026-05-12
 expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
 polymarketYes: 3.8

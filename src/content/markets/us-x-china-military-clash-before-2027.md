@@ -3,8 +3,8 @@ title: "US x China Military clash before 2027?"
 description: "US x China Military clash before 2027? Odds: 7.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "US x China Military clash before 2027?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-11
+status: "settled"
+lastUpdated: 2026-05-12
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 7.0

@@ -3,8 +3,8 @@ title: "Will the price of Bitcoin be above $80,000 on May 15?"
 description: "Will the price of Bitcoin be above $80,000 on May 15? Odds: 75.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the price of Bitcoin be above $80,000 on May 15?"
 category: "crypto"
-status: "active"
-lastUpdated: 2026-05-11
+status: "settled"
+lastUpdated: 2026-05-12
 expiryDate: 2026-05-15
 tags: ["bitcoin", "crypto", "polymarket"]
 polymarketYes: 75.5

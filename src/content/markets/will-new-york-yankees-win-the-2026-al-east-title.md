@@ -3,8 +3,8 @@ title: "Will New York Yankees win the 2026 AL East title?"
 description: "Will New York Yankees win the 2026 AL East title? Odds: 72.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will New York Yankees win the 2026 AL East title?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-11
+status: "settled"
+lastUpdated: 2026-05-12
 expiryDate: 2026-10-11
 tags: ["politics", "polymarket"]
 polymarketYes: 72.5

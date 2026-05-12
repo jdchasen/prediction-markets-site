@@ -1,17 +1,16 @@
 ---
 title: "Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?"
-description: "Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner? Odds: 5.9% YES on Polymarket. See live prices and trade this market."
+description: "Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner? Odds: 5.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-11
+lastUpdated: 2026-05-12
 expiryDate: 2026-07-12
 tags: ["politics", "polymarket"]
-polymarketYes: 5.9
+polymarketYes: 5.8
 polymarketNo: 94.2
 polymarketVolume: 998911
 polymarketUrl: "https://polymarket.com/event/will-amanda-anisimova-be-the-2026-womens-wimbledon-winner"
-analysisDate: 2026-05-11
 ---
 
 The market gives Amanda Anisimova roughly 1-in-17 odds to capture the 2026 Wimbledon title, reflecting her status as a talented but inconsistent player who has yet to reach a Grand Slam final despite flashes of brilliance.
