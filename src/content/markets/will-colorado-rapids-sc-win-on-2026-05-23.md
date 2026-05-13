@@ -3,8 +3,8 @@ title: "Will Colorado Rapids SC win on 2026-05-23?"
 description: "Will Colorado Rapids SC win on 2026-05-23? Odds: 50.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Colorado Rapids SC win on 2026-05-23?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-12
+status: "settled"
+lastUpdated: 2026-05-13
 expiryDate: 2026-05-24
 tags: ["politics", "polymarket"]
 polymarketYes: 50.5

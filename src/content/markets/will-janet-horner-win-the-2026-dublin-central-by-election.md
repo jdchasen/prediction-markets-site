@@ -3,8 +3,8 @@ title: "Will Janet Horner win the 2026 Dublin-central by-election?"
 description: "Will Janet Horner win the 2026 Dublin-central by-election? Odds: 0.6% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Janet Horner win the 2026 Dublin-central by-election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-12
+status: "settled"
+lastUpdated: 2026-05-13
 expiryDate: 2026-12-31
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.6

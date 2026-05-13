@@ -3,8 +3,8 @@ title: "Will Belgium win the televote for Eurovision 2026?"
 description: "Will Belgium win the televote for Eurovision 2026? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Belgium win the televote for Eurovision 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-12
+status: "settled"
+lastUpdated: 2026-05-13
 expiryDate: 2026-05-16
 tags: ["politics", "polymarket"]
 polymarketYes: 0.1

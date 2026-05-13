@@ -3,8 +3,8 @@ title: "Will Robert Neuman win the 2026 Oregon Governor Republican primary elect
 description: "Will Robert Neuman win the 2026 Oregon Governor Republican primary election? Odds: 0.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Robert Neuman win the 2026 Oregon Governor Republican primary election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-12
+status: "settled"
+lastUpdated: 2026-05-13
 expiryDate: 2026-05-19
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.2

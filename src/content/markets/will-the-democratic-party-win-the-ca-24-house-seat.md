@@ -4,14 +4,13 @@ description: "Will the Democratic Party win the CA-24 House seat? Odds: 93.5% YE
 marketQuestion: "Will the Democratic Party win the CA-24 House seat?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-12
+lastUpdated: 2026-05-13
 expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
 polymarketYes: 93.5
 polymarketNo: 6.5
 polymarketVolume: 9935
 polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-ca-24-house-seat"
-analysisDate: 2026-05-12
 ---
 
 The Democratic Party holds overwhelming dominance in California's 24th congressional district, with the current market pricing reflecting the seat's deep blue fundamentals and recent electoral history. This matters now because the 2026 midterms will test whether Democrats can maintain their House gains from 2022 or face headwinds from a potential second Trump administration.

@@ -3,8 +3,8 @@ title: "Will Australia be the Jury Winner in the Eurovision 2026 Grand Final?"
 description: "Will Australia be the Jury Winner in the Eurovision 2026 Grand Final? Odds: 34.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Australia be the Jury Winner in the Eurovision 2026 Grand Final?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-12
+status: "settled"
+lastUpdated: 2026-05-13
 expiryDate: 2026-05-16
 tags: ["politics", "polymarket"]
 polymarketYes: 34.5

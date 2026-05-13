@@ -3,8 +3,8 @@ title: "Will François Ruffin be the joint left nominee for the 2027 French pres
 description: "Will François Ruffin be the joint left nominee for the 2027 French presidential election? Odds: 13.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will François Ruffin be the joint left nominee for the 2027 French presidential election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-12
+status: "settled"
+lastUpdated: 2026-05-13
 expiryDate: 2026-10-11
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 13.5

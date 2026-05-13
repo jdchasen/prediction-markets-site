@@ -4,14 +4,13 @@ description: "Will Mircea Geoană be the next Prime Minister of Romania? Odds: 0
 marketQuestion: "Will Mircea Geoană be the next Prime Minister of Romania?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-12
+lastUpdated: 2026-05-13
 expiryDate: 2026-05-31
 tags: ["politics", "polymarket"]
 polymarketYes: 0.2
 polymarketNo: 99.8
 polymarketVolume: 9952
 polymarketUrl: "https://polymarket.com/event/will-mircea-geoan-be-the-next-prime-minister-of-romania"
-analysisDate: 2026-05-12
 ---
 
 Mircea Geoană's odds of becoming Romania's next Prime Minister by May 2026 sit near zero, reflecting the significant structural barriers he faces despite his recent political momentum. This market matters because Romania's 2024-2026 political cycle will determine not just executive leadership but EU and NATO alignment during a critical period, and Geoană represents a potential alternative to incumbent coalitions. The expiry date lands just after Romania's 2026 local elections, a natural inflection point for government reshuffling.

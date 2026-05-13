@@ -3,8 +3,8 @@ title: "Will the Republican Party win the AL-07 House seat?"
 description: "Will the Republican Party win the AL-07 House seat? Odds: 21.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Republican Party win the AL-07 House seat?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-12
+status: "settled"
+lastUpdated: 2026-05-13
 expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
 polymarketYes: 21.5

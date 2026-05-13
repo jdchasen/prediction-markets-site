@@ -4,14 +4,13 @@ description: "Will the Bank of Russia make no change to the key rate after the J
 marketQuestion: "Will the Bank of Russia make no change to the key rate after the June Meeting?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-12
+lastUpdated: 2026-05-13
 expiryDate: 2026-06-19
 tags: ["politics", "polymarket"]
 polymarketYes: 15.5
 polymarketNo: 84.5
-polymarketVolume: 9866
+polymarketVolume: 9937
 polymarketUrl: "https://polymarket.com/event/will-the-bank-of-russia-make-no-change-to-the-key-rate-after-the-june-meeting"
-analysisDate: 2026-05-12
 ---
 
 # Bank of Russia June Rate Decision Market Analysis

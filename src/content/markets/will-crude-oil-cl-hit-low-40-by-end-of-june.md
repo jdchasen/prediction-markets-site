@@ -1,17 +1,16 @@
 ---
 title: "Will Crude Oil (CL) hit (LOW) $40 by end of June?"
-description: "Will Crude Oil (CL) hit (LOW) $40 by end of June? Odds: 1.7% YES on Polymarket. See live prices and trade this market."
+description: "Will Crude Oil (CL) hit (LOW) $40 by end of June? Odds: 1.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Crude Oil (CL) hit (LOW) $40 by end of June?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-12
+lastUpdated: 2026-05-13
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
-polymarketYes: 1.7
-polymarketNo: 98.3
-polymarketVolume: 97475
+polymarketYes: 1.2
+polymarketNo: 98.8
+polymarketVolume: 97913
 polymarketUrl: "https://polymarket.com/event/will-crude-oil-cl-hit-low-40-by-end-of-june"
-analysisDate: 2026-05-12
 ---
 
 The extreme 1.7% odds reflect market skepticism about oil reaching $40/barrel by mid-2026, pricing in the assumption that global energy demand and geopolitical stability will sustain higher prices over the next 18 months. This low probability matters because it signals trader confidence in oil's floor, despite historical volatility and potential recession risks that could pressure energy prices downward.

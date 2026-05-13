@@ -3,8 +3,8 @@ title: "Will Tony Thurmond advance from the 2026 California Governor primary ele
 description: "Will Tony Thurmond advance from the 2026 California Governor primary election? Odds: 1.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Tony Thurmond advance from the 2026 California Governor primary election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-12
+status: "settled"
+lastUpdated: 2026-05-13
 expiryDate: 2026-06-02
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 1.9

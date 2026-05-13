@@ -4,14 +4,13 @@ description: "Will Netflix, Inc. (NFLX) hit (LOW) $85 in May? Odds: 62.5% YES on
 marketQuestion: "Will Netflix, Inc. (NFLX) hit (LOW) $85 in May?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-12
+lastUpdated: 2026-05-13
 expiryDate: 2026-06-01
 tags: ["politics", "polymarket", "sports"]
 polymarketYes: 62.5
 polymarketNo: 37.5
-polymarketVolume: 9858
+polymarketVolume: 9919
 polymarketUrl: "https://polymarket.com/event/will-nflx-dip-to-85-in-may-2026"
-analysisDate: 2026-05-12
 ---
 
 # Netflix Stock Price Prediction Analysis

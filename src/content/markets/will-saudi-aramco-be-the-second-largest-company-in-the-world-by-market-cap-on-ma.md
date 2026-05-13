@@ -1,17 +1,16 @@
 ---
 title: "Will Saudi Aramco be the second-largest company in the world by market cap on May 31?"
-description: "Will Saudi Aramco be the second-largest company in the world by market cap on May 31? Odds: 0.2% YES on Polymarket. See live prices and trade this market."
+description: "Will Saudi Aramco be the second-largest company in the world by market cap on May 31? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Saudi Aramco be the second-largest company in the world by market cap on May 31?"
 category: "finance"
 status: "active"
-lastUpdated: 2026-05-12
+lastUpdated: 2026-05-13
 expiryDate: 2026-05-31
 tags: ["finance", "polymarket"]
-polymarketYes: 0.2
-polymarketNo: 99.8
-polymarketVolume: 9827
+polymarketYes: 0.1
+polymarketNo: 99.9
+polymarketVolume: 9859
 polymarketUrl: "https://polymarket.com/event/will-saudi-aramco-be-the-second-largest-company-in-the-world-by-market-cap-on-may-31"
-analysisDate: 2026-05-12
 ---
 
 # Saudi Aramco's Path to Second Place: A 2026 Market Test

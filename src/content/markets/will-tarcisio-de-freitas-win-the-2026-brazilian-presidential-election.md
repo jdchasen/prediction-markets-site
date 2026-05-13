@@ -4,50 +4,51 @@ description: "Will Tarcisio de Freitas win the 2026 Brazilian presidential elect
 marketQuestion: "Will Tarcisio de Freitas win the 2026 Brazilian presidential election?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-12
+lastUpdated: 2026-05-13
 expiryDate: 2026-10-04
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.2
 polymarketNo: 99.8
-polymarketVolume: 9835130
+polymarketVolume: 9866461
 polymarketUrl: "https://polymarket.com/event/will-tarcisio-de-frietas-win-the-2026-brazilian-presidential-election"
+analysisDate: 2026-05-13
 ---
 
-Tarcisio de Freitas, São Paulo's governor, trades at virtually zero probability for the 2026 presidency despite being considered a potential Bolsonaro-aligned candidate, reflecting deep skepticism about his viability as a national contender. The pricing suggests traders view him as either unlikely to secure his coalition's nomination or fundamentally unable to compete against likely frontrunners Lula (if he runs) or Lula's successor candidate.
+Tarcisio de Freitas, the current governor of São Paulo, holds only a 0.2% probability of winning Brazil's 2026 presidential election, reflecting his extremely limited positioning in a race likely to be dominated by former presidents and established national figures like Lula da Silva and Jair Bolsonaro.
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.2% | 99.8% | $9.8M | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.2% | 99.8% | $9.9M | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The bull case hinges on Tarcisio consolidating the Brazilian right-wing vote if Jair Bolsonaro remains barred from running due to his electoral crimes conviction through 2030. As governor of Brazil's most populous and economically powerful state, Tarcisio has administrative credentials and proximity to key business interests. If he delivers strong infrastructure results in São Paulo through 2025-2026 while the federal PT government stumbles economically, he could emerge as the consensus center-right candidate. His military background and technocratic profile might appeal beyond Bolsonaro's base if he successfully distances himself from the former president's most controversial positions.
+The bear case centers on Brazil's political reality: Tarcisio has never competed nationally, lacks the Workers' Party (PT) or Liberal Party (PL) machinery necessary for presidential victories, and would face an uphill battle against Lula (who remains eligible to run at 81 years old) or Bolsonaro if his electoral ineligibility is overturned. The Superior Electoral Court (TSE) banned Bolsonaro from running until 2030, but this remains subject to legal challenges throughout 2025. More critically, São Paulo governors historically struggle to translate state success into national appeal—the state's polarized politics don't mirror Brazil's diverse regional dynamics. Recent Datafolha polling from late 2024 showed Lula leading potential 2026 matchups with 40-45% support, while Tarcisio barely registers in national preference surveys outside São Paulo.
 
-The bear case is overwhelming. Tarcisio lacks national name recognition outside São Paulo and the engaged political class. Brazilian politics typically favors candidates with either national political experience or transformational outsider appeal—Tarcisio fits neither category cleanly. More critically, he faces competition within his own coalition: Bolsonaro may push for a family member or more loyal ally, potentially splitting the right-wing vote. Recent polling for 2026 consistently shows Lula or PT candidates leading, with right-wing figures fragmented in single digits. Tarcisio's association with Bolsonarismo alienates centrist voters essential for a second-round victory, while hardline Bolsonaro supporters may view him as insufficiently loyal.
+The bull case requires a perfect storm: Bolsonaro's ineligibility must stand firm, Lula must decline to run or face health issues (he's undergone multiple medical procedures), and Tarcisio must dramatically expand his national profile through his governorship performance. He could benefit from Brazil's infrastructure investment cycle, with major federal-state projects in São Paulo scheduled for completion in 2025-2026, including metro expansions and highway concessions. If he delivers visible results and positions himself as a technocratic alternative to polarized figures, he might capture center-right voters frustrated with traditional options.
 
-Key catalysts include Brazil's 2024 municipal elections this October, which will reveal Tarcisio's coattail strength beyond São Paulo, and Bolsonaro's ongoing legal battles that could reshape right-wing leadership dynamics through 2025. The formal candidate registration period in August 2026 will clarify whether Tarcisio even enters the race. Traders should monitor São Paulo state approval ratings, infrastructure project completions, and any public tensions between Tarcisio and Bolsonaro that signal coalition fracturing. Pre-campaign polling starting in early 2026 will determine if he can break double digits nationally—a prerequisite for serious consideration.
+Key catalysts include the TSE's final rulings on Bolsonaro's eligibility (expected by mid-2025), party convention season in July-August 2026 where coalitions form, and São Paulo's state budget execution through 2025—any corruption scandals or economic downturns would eliminate his already-slim chances. Traders should monitor whether Bolsonaro explicitly endorses Tarcisio as his successor, national polling data starting in early 2026, and the October 2024 municipal election results in São Paulo cities, which will test his coattails effect beyond the capital.
 
 ## Related Markets
 
-- [Will the US acquire part of Greenland in 2026?](/odds/will-the-us-acquire-part-of-greenland-in-2026) — 18% YES
+- [Will the US acquire part of Greenland in 2026?](/odds/will-the-us-acquire-part-of-greenland-in-2026) — 14% YES
 - [Will Marco Rubio win the 2028 US Presidential Election?](/odds/will-marco-rubio-win-the-2028-us-presidential-election) — 13% YES
 - [Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?](/odds/will-amanda-anisimova-be-the-2026-womens-wimbledon-winner) — 6% YES
 
 ## Frequently Asked Questions
 
-### Could Bolsonaro's ineligibility actually hurt Tarcisio's chances rather than help them?
+### Could Tarcisio become the candidate if Bolsonaro's ban is upheld and the right needs a new standard-bearer?
 
-Yes, significantly. Without Bolsonaro officially in the race, right-wing voters may fragment across multiple candidates including Bolsonaro family members, preventing anyone from consolidating enough support for a competitive run against the PT.
+Even if Bolsonaro cannot run, the right-wing coalition would likely turn to more nationally established figures like former Paraná governor Ratinho Junior or senators with broader regional bases. Tarcisio's identification with São Paulo specifically—rather than national conservative movement—limits his appeal as Bolsonaro's natural heir.
 
-### What would Tarcisio need to show in São Paulo by mid-2026 to become a credible candidate?
+### What would need to happen for these odds to move above 10%?
 
-He would need sustained approval ratings above 50% in São Paulo, successful completion of major infrastructure projects like metro expansions or highway privatizations, and demonstrated ability to win support in São Paulo's interior and poorer regions beyond his wealthy urban base.
+Simultaneous confirmation of both Lula and Bolsonaro's absence from the race, combined with Tarcisio polling above 15% nationally by early 2026 and securing formal backing from major center-right parties like União Brasil or MDB, could push odds higher. All three conditions occurring together remains highly unlikely given current political trajectories.
 
-### How does Brazil's two-round election system affect Tarcisio's path to victory?
+### How does São Paulo's governor position typically translate to presidential ambitions in Brazilian politics?
 
-He would need to finish top-two in the first round (late October 2026) to advance, requiring at least 20-25% nationally—a massive jump from current single-digit polling—then win over centrists and defeated candidates' supporters in the runoff against a likely PT candidate.
+São Paulo governors face a paradox—governing Brazil's richest and most populous state provides resources and visibility, but the state's political culture is often too business-oriented and regionally specific to build the cross-regional, populist coalitions that win Brazilian presidencies. No São Paulo governor has directly ascended to the presidency since the return to democracy in 1985.
 
 ## Learn More
 

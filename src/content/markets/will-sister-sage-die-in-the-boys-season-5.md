@@ -3,8 +3,8 @@ title: "Will Sister Sage die in \"The Boys: Season 5\"?"
 description: "Will Sister Sage die in \"The Boys: Season 5\"? Odds: 49.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Sister Sage die in \"The Boys: Season 5\"?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-12
+status: "settled"
+lastUpdated: 2026-05-13
 expiryDate: 2026-05-20
 tags: ["politics", "polymarket"]
 polymarketYes: 49.5

@@ -4,14 +4,13 @@ description: "Will Matteo Berrettini win the 2026 Men's French Open? Odds: 0.1% 
 marketQuestion: "Will Matteo Berrettini win the 2026 Men's French Open?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-12
+lastUpdated: 2026-05-13
 expiryDate: 2026-06-07
 tags: ["politics", "polymarket"]
 polymarketYes: 0.1
 polymarketNo: 100.0
 polymarketVolume: 99037
 polymarketUrl: "https://polymarket.com/event/will-matteo-berrettini-win-the-2026-mens-french-open"
-analysisDate: 2026-05-12
 ---
 
 The market prices Matteo Berrettini as an extreme longshot to win the 2026 French Open, reflecting his historically weak performance on clay and significant ranking challenges following injury setbacks. Note: This market is miscategorized as politics when it's clearly sports betting.

@@ -1,17 +1,16 @@
 ---
 title: "Will Naomi Osaka win the 2026 Women’s French Open?"
-description: "Will Naomi Osaka win the 2026 Women’s French Open? Odds: 1.7% YES on Polymarket. See live prices and trade this market."
+description: "Will Naomi Osaka win the 2026 Women’s French Open? Odds: 1.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Naomi Osaka win the 2026 Women’s French Open?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-12
+lastUpdated: 2026-05-13
 expiryDate: 2026-06-06
 tags: ["politics", "polymarket"]
-polymarketYes: 1.7
-polymarketNo: 98.4
-polymarketVolume: 9814
+polymarketYes: 1.1
+polymarketNo: 99.0
+polymarketVolume: 9934
 polymarketUrl: "https://polymarket.com/event/will-naomi-osaka-win-the-2026-womens-french-open"
-analysisDate: 2026-05-12
 ---
 
 # Analysis: Naomi Osaka and the 2026 French Open

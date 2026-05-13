@@ -3,8 +3,8 @@ title: "Tamas Sulyok out as President of Hungary by June 30?"
 description: "Tamas Sulyok out as President of Hungary by June 30? Odds: 64.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Tamas Sulyok out as President of Hungary by June 30?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-12
+status: "settled"
+lastUpdated: 2026-05-13
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
 polymarketYes: 64.0
