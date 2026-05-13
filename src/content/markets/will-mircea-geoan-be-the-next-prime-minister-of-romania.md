@@ -3,7 +3,7 @@ title: "Will Mircea Geoană be the next Prime Minister of Romania?"
 description: "Will Mircea Geoană be the next Prime Minister of Romania? Odds: 0.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Mircea Geoană be the next Prime Minister of Romania?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-13
 expiryDate: 2026-05-31
 tags: ["politics", "polymarket"]

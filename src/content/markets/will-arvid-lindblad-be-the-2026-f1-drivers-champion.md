@@ -9,9 +9,8 @@ expiryDate: 2026-12-06
 tags: ["polymarket", "sports"]
 polymarketYes: 0.4
 polymarketNo: 99.7
-polymarketVolume: 9778270
+polymarketVolume: 9786990
 polymarketUrl: "https://polymarket.com/event/will-arvid-lindblad-be-the-2026-f1-drivers-champion"
-analysisDate: 2026-05-13
 ---
 
 The market prices Arvid Lindblad as an extreme longshot for the 2026 F1 championship at 0.4%, reflecting the enormous gap between his current junior formula status and competing for F1's ultimate prize in just over two years.

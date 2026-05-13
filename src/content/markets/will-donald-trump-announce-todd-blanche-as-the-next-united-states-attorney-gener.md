@@ -9,7 +9,7 @@ expiryDate: 2026-06-30
 tags: ["politics", "polymarket", "trump"]
 polymarketYes: 11.5
 polymarketNo: 88.5
-polymarketVolume: 99115
+polymarketVolume: 99150
 polymarketUrl: "https://polymarket.com/event/will-donald-trump-announce-todd-blanche-as-the-next-united-states-attorney-general-by-june-30"
 ---
 
@@ -22,8 +22,8 @@ polymarketUrl: "https://polymarket.com/event/will-donald-trump-announce-todd-bla
 ## Related Markets
 
 - [Will the US acquire part of Greenland in 2026?](/odds/will-the-us-acquire-part-of-greenland-in-2026) — 14% YES
-- [Will Tarcisio de Freitas win the 2026 Brazilian presidential election?](/odds/will-tarcisio-de-freitas-win-the-2026-brazilian-presidential-election) — 0% YES
-- [Will Marco Rubio win the 2028 US Presidential Election?](/odds/will-marco-rubio-win-the-2028-us-presidential-election) — 13% YES
+- [Will Marco Rubio win the 2028 US Presidential Election?](/odds/will-marco-rubio-win-the-2028-us-presidential-election) — 14% YES
+- [Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?](/odds/will-amanda-anisimova-be-the-2026-womens-wimbledon-winner) — 6% YES
 
 ## Frequently Asked Questions
 

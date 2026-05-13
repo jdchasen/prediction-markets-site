@@ -3,7 +3,7 @@ title: "KBO: Samsung Lions vs. LG Twins"
 description: "KBO: Samsung Lions vs. LG Twins Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "KBO: Samsung Lions vs. LG Twins"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-13
 expiryDate: 2026-05-20
 tags: ["politics", "polymarket"]

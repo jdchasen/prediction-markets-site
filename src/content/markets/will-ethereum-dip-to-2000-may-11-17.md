@@ -1,23 +1,23 @@
 ---
-title: "Will Ethereum dip to $1,600 in May?"
-description: "Will Ethereum dip to $1,600 in May? Odds: 2.1% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Ethereum dip to $1,600 in May?"
+title: "Will Ethereum dip to $2,000 May 11-17?"
+description: "Will Ethereum dip to $2,000 May 11-17? Odds: 2.9% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Ethereum dip to $2,000 May 11-17?"
 category: "crypto"
 status: "active"
 lastUpdated: 2026-05-13
-expiryDate: 2026-06-01
+expiryDate: 2026-05-18
 tags: ["crypto", "ethereum", "polymarket"]
-polymarketYes: 2.1
-polymarketNo: 97.9
-polymarketVolume: 99201
-polymarketUrl: "https://polymarket.com/event/will-ethereum-dip-to-1600-in-may-2026"
+polymarketYes: 2.9
+polymarketNo: 97.2
+polymarketVolume: 9772
+polymarketUrl: "https://polymarket.com/event/will-ethereum-dip-to-2000-may-11-17"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 2.1% | 97.9% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 2.9% | 97.2% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-ethereum-dip-to-1600-in-may-20
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Ethereum dip to $1,600 in May?"?
+### What are the current odds for "Will Ethereum dip to $2,000 May 11-17?"?
 
-As of May 13, 2026, Polymarket prices YES at 2.1%.
+As of May 13, 2026, Polymarket prices YES at 2.9%.
 
 ### Where can I trade on this prediction market?
 

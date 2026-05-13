@@ -3,7 +3,7 @@ title: "Will Tarcisio de Freitas win the 2026 Brazilian presidential election?"
 description: "Will Tarcisio de Freitas win the 2026 Brazilian presidential election? Odds: 0.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Tarcisio de Freitas win the 2026 Brazilian presidential election?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-13
 expiryDate: 2026-10-04
 tags: ["elections", "politics", "polymarket"]

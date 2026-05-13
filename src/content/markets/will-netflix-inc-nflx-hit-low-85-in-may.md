@@ -3,7 +3,7 @@ title: "Will Netflix, Inc. (NFLX) hit (LOW) $85 in May?"
 description: "Will Netflix, Inc. (NFLX) hit (LOW) $85 in May? Odds: 62.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Netflix, Inc. (NFLX) hit (LOW) $85 in May?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-13
 expiryDate: 2026-06-01
 tags: ["politics", "polymarket", "sports"]

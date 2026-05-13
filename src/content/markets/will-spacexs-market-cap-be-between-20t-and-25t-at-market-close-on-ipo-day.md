@@ -18,11 +18,6 @@ polymarketUrl: "https://polymarket.com/event/will-spacexs-market-cap-be-between-
 |----------|-----|-----|--------|-------|
 | Polymarket | 27.5% | 72.5% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
-## Related Markets
-
-- [Will Gold (GC) hit (HIGH) $5,700 by end of June?](/odds/will-gold-gc-hit-high-5700-by-end-of-june) — 6% YES
-- [Will Saudi Aramco be the second-largest company in the world by market cap on May 31?](/odds/will-saudi-aramco-be-the-second-largest-company-in-the-world-by-market-cap-on-ma) — 0% YES
-
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will SpaceX's market cap be between $2.0T and $2.5T at market close on IPO day?"?

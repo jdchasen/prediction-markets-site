@@ -1,15 +1,15 @@
 ---
 title: "Will Lighter reach $4 before 2027?"
-description: "Will Lighter reach $4 before 2027? Odds: 10.0% YES on Polymarket. See live prices and trade this market."
+description: "Will Lighter reach $4 before 2027? Odds: 10.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Lighter reach $4 before 2027?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-05-13
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]
-polymarketYes: 10.0
-polymarketNo: 90.0
-polymarketVolume: 99763
+polymarketYes: 10.5
+polymarketNo: 89.5
+polymarketVolume: 99773
 polymarketUrl: "https://polymarket.com/event/will-lighter-reach-4-before-2027"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-lighter-reach-4-before-2027"
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 10.0% | 90.0% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 10.5% | 89.5% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will the US acquire part of Greenland in 2026?](/odds/will-the-us-acquire-part-of-greenland-in-2026) — 14% YES
-- [Will Tarcisio de Freitas win the 2026 Brazilian presidential election?](/odds/will-tarcisio-de-freitas-win-the-2026-brazilian-presidential-election) — 0% YES
-- [Will Marco Rubio win the 2028 US Presidential Election?](/odds/will-marco-rubio-win-the-2028-us-presidential-election) — 13% YES
+- [Will Marco Rubio win the 2028 US Presidential Election?](/odds/will-marco-rubio-win-the-2028-us-presidential-election) — 14% YES
+- [Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?](/odds/will-amanda-anisimova-be-the-2026-womens-wimbledon-winner) — 6% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Lighter reach $4 before 2027?"?
 
-As of May 13, 2026, Polymarket prices YES at 10.0%.
+As of May 13, 2026, Polymarket prices YES at 10.5%.
 
 ### Where can I trade on this prediction market?
 

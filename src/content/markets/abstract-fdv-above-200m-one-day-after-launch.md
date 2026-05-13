@@ -21,9 +21,9 @@ polymarketUrl: "https://polymarket.com/event/abstract-fdv-above-200m-one-day-aft
 
 ## Related Markets
 
-- [Will Bitcoin dip to $60,000 in May?](/odds/will-bitcoin-dip-to-60000-in-may) — 2% YES
+- [Will Bitcoin dip to $60,000 in May?](/odds/will-bitcoin-dip-to-60000-in-may) — 3% YES
+- [Will Bitcoin reach $85,000 in May?](/odds/will-bitcoin-reach-85000-in-may) — 38% YES
 - [Will Ethereum dip to $1,600 in May?](/odds/will-ethereum-dip-to-1600-in-may) — 2% YES
-- [Will Ethereum reach $4,000 in May?](/odds/will-ethereum-reach-4000-in-may) — 0% YES
 
 ## Frequently Asked Questions
 

@@ -1,15 +1,15 @@
 ---
 title: "Will the Republican Party win the TX-38 House seat?"
-description: "Will the Republican Party win the TX-38 House seat? Odds: 80.5% YES on Polymarket. See live prices and trade this market."
+description: "Will the Republican Party win the TX-38 House seat? Odds: 78.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Republican Party win the TX-38 House seat?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-05-13
 expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
-polymarketYes: 80.5
-polymarketNo: 19.5
-polymarketVolume: 9857
+polymarketYes: 78.5
+polymarketNo: 21.5
+polymarketVolume: 9882
 polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-tx-38-house-seat"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-t
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 80.5% | 19.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 78.5% | 21.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will the US acquire part of Greenland in 2026?](/odds/will-the-us-acquire-part-of-greenland-in-2026) — 14% YES
-- [Will Tarcisio de Freitas win the 2026 Brazilian presidential election?](/odds/will-tarcisio-de-freitas-win-the-2026-brazilian-presidential-election) — 0% YES
-- [Will Marco Rubio win the 2028 US Presidential Election?](/odds/will-marco-rubio-win-the-2028-us-presidential-election) — 13% YES
+- [Will Marco Rubio win the 2028 US Presidential Election?](/odds/will-marco-rubio-win-the-2028-us-presidential-election) — 14% YES
+- [Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?](/odds/will-amanda-anisimova-be-the-2026-womens-wimbledon-winner) — 6% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will the Republican Party win the TX-38 House seat?"?
 
-As of May 13, 2026, Polymarket prices YES at 80.5%.
+As of May 13, 2026, Polymarket prices YES at 78.5%.
 
 ### Where can I trade on this prediction market?
 

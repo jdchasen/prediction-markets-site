@@ -1,15 +1,15 @@
 ---
 title: "Will Bitcoin dip to $60,000 in May?"
-description: "Will Bitcoin dip to $60,000 in May? Odds: 2.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Bitcoin dip to $60,000 in May? Odds: 3.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Bitcoin dip to $60,000 in May?"
 category: "crypto"
 status: "active"
 lastUpdated: 2026-05-13
 expiryDate: 2026-06-01
 tags: ["bitcoin", "crypto", "polymarket"]
-polymarketYes: 2.5
-polymarketNo: 97.5
-polymarketVolume: 974734
+polymarketYes: 3.4
+polymarketNo: 96.7
+polymarketVolume: 995148
 polymarketUrl: "https://polymarket.com/event/will-bitcoin-dip-to-60k-in-may-2026"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-bitcoin-dip-to-60k-in-may-2026
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 2.5% | 97.5% | $975K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 3.4% | 96.7% | $995K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
+- [Will Bitcoin reach $85,000 in May?](/odds/will-bitcoin-reach-85000-in-may) — 38% YES
 - [Abstract FDV above $200M one day after launch?](/odds/abstract-fdv-above-200m-one-day-after-launch) — 76% YES
 - [Will Ethereum dip to $1,600 in May?](/odds/will-ethereum-dip-to-1600-in-may) — 2% YES
-- [Will Ethereum reach $4,000 in May?](/odds/will-ethereum-reach-4000-in-may) — 0% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Bitcoin dip to $60,000 in May?"?
 
-As of May 13, 2026, Polymarket prices YES at 2.5%.
+As of May 13, 2026, Polymarket prices YES at 3.4%.
 
 ### Where can I trade on this prediction market?
 

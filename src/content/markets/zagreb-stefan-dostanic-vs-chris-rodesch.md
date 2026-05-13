@@ -3,7 +3,7 @@ title: "Zagreb: Stefan Dostanic vs Chris Rodesch"
 description: "Zagreb: Stefan Dostanic vs Chris Rodesch Odds: 13.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Zagreb: Stefan Dostanic vs Chris Rodesch"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-13
 expiryDate: 2026-05-18
 tags: ["politics", "polymarket"]

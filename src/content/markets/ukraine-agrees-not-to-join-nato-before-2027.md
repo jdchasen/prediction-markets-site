@@ -1,15 +1,15 @@
 ---
 title: "Ukraine agrees not to join NATO before 2027? "
-description: "Ukraine agrees not to join NATO before 2027?  Odds: 18.0% YES on Polymarket. See live prices and trade this market."
+description: "Ukraine agrees not to join NATO before 2027?  Odds: 19.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Ukraine agrees not to join NATO before 2027? "
 category: "politics"
 status: "active"
 lastUpdated: 2026-05-13
 expiryDate: 2026-12-31
 tags: ["ai", "politics", "polymarket"]
-polymarketYes: 18.0
-polymarketNo: 82.0
-polymarketVolume: 98779
+polymarketYes: 19.0
+polymarketNo: 81.0
+polymarketVolume: 98787
 polymarketUrl: "https://polymarket.com/event/ukraine-agrees-not-to-join-nato-before-2027"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/ukraine-agrees-not-to-join-nato-bef
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 18.0% | 82.0% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 19.0% | 81.0% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will the US acquire part of Greenland in 2026?](/odds/will-the-us-acquire-part-of-greenland-in-2026) — 14% YES
-- [Will Tarcisio de Freitas win the 2026 Brazilian presidential election?](/odds/will-tarcisio-de-freitas-win-the-2026-brazilian-presidential-election) — 0% YES
-- [Will Marco Rubio win the 2028 US Presidential Election?](/odds/will-marco-rubio-win-the-2028-us-presidential-election) — 13% YES
+- [Will Marco Rubio win the 2028 US Presidential Election?](/odds/will-marco-rubio-win-the-2028-us-presidential-election) — 14% YES
+- [Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?](/odds/will-amanda-anisimova-be-the-2026-womens-wimbledon-winner) — 6% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Ukraine agrees not to join NATO before 2027? "?
 
-As of May 13, 2026, Polymarket prices YES at 18.0%.
+As of May 13, 2026, Polymarket prices YES at 19.0%.
 
 ### Where can I trade on this prediction market?
 

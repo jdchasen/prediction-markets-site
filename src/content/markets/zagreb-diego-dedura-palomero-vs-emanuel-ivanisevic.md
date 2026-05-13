@@ -3,7 +3,7 @@ title: "Zagreb: Diego Dedura-Palomero vs Emanuel Ivanisevic"
 description: "Zagreb: Diego Dedura-Palomero vs Emanuel Ivanisevic Odds: 100.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Zagreb: Diego Dedura-Palomero vs Emanuel Ivanisevic"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-13
 expiryDate: 2026-05-18
 tags: ["politics", "polymarket"]

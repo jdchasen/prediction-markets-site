@@ -1,23 +1,23 @@
 ---
-title: "Will Félix Auger-Aliassime be the 2026 Men’s Wimbledon winner?"
-description: "Will Félix Auger-Aliassime be the 2026 Men’s Wimbledon winner? Odds: 0.8% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Félix Auger-Aliassime be the 2026 Men’s Wimbledon winner?"
+title: "Will Jared Hudson be the Republican nominee for Senate in Alabama?"
+description: "Will Jared Hudson be the Republican nominee for Senate in Alabama? Odds: 25.4% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Jared Hudson be the Republican nominee for Senate in Alabama?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-05-13
-expiryDate: 2026-07-12
+expiryDate: 2026-05-19
 tags: ["politics", "polymarket"]
-polymarketYes: 0.8
-polymarketNo: 99.2
-polymarketVolume: 9751
-polymarketUrl: "https://polymarket.com/event/will-flix-auger-aliassime-be-the-2026-mens-wimbledon-winner"
+polymarketYes: 25.4
+polymarketNo: 74.6
+polymarketVolume: 9886
+polymarketUrl: "https://polymarket.com/event/will-jared-hudson-be-the-republican-nominee-for-senate-in-alabama"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.8% | 99.2% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 25.4% | 74.6% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-flix-auger-aliassime-be-the-20
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Félix Auger-Aliassime be the 2026 Men’s Wimbledon winner?"?
+### What are the current odds for "Will Jared Hudson be the Republican nominee for Senate in Alabama?"?
 
-As of May 13, 2026, Polymarket prices YES at 0.8%.
+As of May 13, 2026, Polymarket prices YES at 25.4%.
 
 ### Where can I trade on this prediction market?
 
@@ -37,6 +37,6 @@ You can trade this market on [Polymarket](https://polymarket.us/1762?utm_source=
 
 ## Learn More
 
+- [Will Oil Hit $100? March Crude Prediction Market Odds](/blog/will-oil-hit-100-march-crude-prediction-market-odds)
 - [Will ETH Hit $4,500 in 2026? Live Market Odds](/blog/will-ethereum-reach-4500-in-2026-what-prediction-markets-say)
-- [Will Discord IPO in 2026? What Prediction Markets Say](/blog/will-discord-ipo-in-2026-what-prediction-markets-say)
 

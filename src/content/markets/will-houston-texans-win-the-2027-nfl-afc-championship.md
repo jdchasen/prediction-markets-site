@@ -1,14 +1,14 @@
 ---
 title: "Will Houston Texans win the 2027 NFL AFC Championship?"
-description: "Will Houston Texans win the 2027 NFL AFC Championship? Odds: 10.4% YES on Polymarket. See live prices and trade this market."
+description: "Will Houston Texans win the 2027 NFL AFC Championship? Odds: 9.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Houston Texans win the 2027 NFL AFC Championship?"
 category: "sports"
 status: "active"
 lastUpdated: 2026-05-13
 expiryDate: 2027-01-25
 tags: ["polymarket", "sports"]
-polymarketYes: 10.4
-polymarketNo: 89.5
+polymarketYes: 9.8
+polymarketNo: 90.2
 polymarketVolume: 98480
 polymarketUrl: "https://polymarket.com/event/will-houston-texans-win-the-2027-nfl-afc-championship-334"
 ---
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-houston-texans-win-the-2027-nf
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 10.4% | 89.5% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 9.8% | 90.2% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Arvid Lindblad be the 2026 F1 Drivers' Champion?](/odds/will-arvid-lindblad-be-the-2026-f1-drivers-champion) — 0% YES
-- [Will Africa win the 2026 FIFA World Cup?](/odds/will-africa-win-the-2026-fifa-world-cup) — 4% YES
-- [Will Erling Haaland be the top goal scorer in the 2025–26 English Premier League season?](/odds/will-erling-haaland-be-the-top-goal-scorer-in-the-202526-english-premier-league-) — 99% YES
+- [Will Turkiye win the 2026 FIFA World Cup?](/odds/will-turkiye-win-the-2026-fifa-world-cup) — 1% YES
+- [Will Oliver Bearman be the 2026 F1 Drivers' Champion?](/odds/will-oliver-bearman-be-the-2026-f1-drivers-champion) — 0% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Houston Texans win the 2027 NFL AFC Championship?"?
 
-As of May 13, 2026, Polymarket prices YES at 10.4%.
+As of May 13, 2026, Polymarket prices YES at 9.8%.
 
 ### Where can I trade on this prediction market?
 

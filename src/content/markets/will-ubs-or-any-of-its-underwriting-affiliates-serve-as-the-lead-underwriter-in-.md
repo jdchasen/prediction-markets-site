@@ -1,15 +1,15 @@
 ---
 title: "Will UBS or any of its underwriting affiliates serve as the lead underwriter in SpaceX’s initial public offering?"
-description: "Will UBS or any of its underwriting affiliates serve as the lead underwriter in SpaceX’s initial public offering? Odds: 0.4% YES on Polymarket. See live pric..."
+description: "Will UBS or any of its underwriting affiliates serve as the lead underwriter in SpaceX’s initial public offering? Odds: 0.2% YES on Polymarket. See live pric..."
 marketQuestion: "Will UBS or any of its underwriting affiliates serve as the lead underwriter in SpaceX’s initial public offering?"
 category: "tech"
 status: "active"
 lastUpdated: 2026-05-13
 expiryDate: 2027-12-31
 tags: ["polymarket", "tech"]
-polymarketYes: 0.4
-polymarketNo: 99.7
-polymarketVolume: 98814
+polymarketYes: 0.2
+polymarketNo: 99.8
+polymarketVolume: 98904
 polymarketUrl: "https://polymarket.com/event/will-ubs-or-any-of-its-underwriting-affiliates-serve-as-the-lead-underwriter-in-spacexs-initial-public-offering-884"
 ---
 
@@ -17,18 +17,17 @@ polymarketUrl: "https://polymarket.com/event/will-ubs-or-any-of-its-underwriting
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.4% | 99.7% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.2% | 99.8% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Elon Musk post 100-119 tweets from May 12 to May 19, 2026?](/odds/will-elon-musk-post-100-119-tweets-from-may-12-to-may-19-2026) — 14% YES
-- [Will Elon Musk post 500+ tweets from May 15 to May 22, 2026?](/odds/will-elon-musk-post-500-tweets-from-may-15-to-may-22-2026) — 0% YES
+- [Will SpaceX’s initial public offering occur in September 2026 (ET)?](/odds/will-spacexs-initial-public-offering-occur-in-september-2026-et) — 3% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will UBS or any of its underwriting affiliates serve as the lead underwriter in SpaceX’s initial public offering?"?
 
-As of May 13, 2026, Polymarket prices YES at 0.4%.
+As of May 13, 2026, Polymarket prices YES at 0.2%.
 
 ### Where can I trade on this prediction market?
 

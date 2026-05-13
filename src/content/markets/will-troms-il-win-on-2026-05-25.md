@@ -3,7 +3,7 @@ title: "Will Tromsø IL win on 2026-05-25?"
 description: "Will Tromsø IL win on 2026-05-25? Odds: 36.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Tromsø IL win on 2026-05-25?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-13
 expiryDate: 2026-05-25
 tags: ["politics", "polymarket"]

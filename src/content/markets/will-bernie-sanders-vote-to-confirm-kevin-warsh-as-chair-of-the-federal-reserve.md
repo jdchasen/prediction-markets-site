@@ -3,7 +3,7 @@ title: "Will Bernie Sanders vote to confirm Kevin Warsh as Chair of the Federal 
 description: "Will Bernie Sanders vote to confirm Kevin Warsh as Chair of the Federal Reserve? Odds: 0.6% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Bernie Sanders vote to confirm Kevin Warsh as Chair of the Federal Reserve?"
 category: "economics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-13
 expiryDate: 2026-06-30
 tags: ["ai", "economics", "federal-reserve", "polymarket"]

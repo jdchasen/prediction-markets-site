@@ -3,7 +3,7 @@ title: "Will Elon Musk post 500+ tweets from May 15 to May 22, 2026?"
 description: "Will Elon Musk post 500+ tweets from May 15 to May 22, 2026? Odds: 0.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Elon Musk post 500+ tweets from May 15 to May 22, 2026?"
 category: "tech"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-13
 expiryDate: 2026-05-22
 tags: ["polymarket", "tech"]

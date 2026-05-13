@@ -3,7 +3,7 @@ title: "Will Scottie Scheffler win the 2026 PGA Championship?"
 description: "Will Scottie Scheffler win the 2026 PGA Championship? Odds: 16.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Scottie Scheffler win the 2026 PGA Championship?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-13
 expiryDate: 2026-05-18
 tags: ["politics", "polymarket"]

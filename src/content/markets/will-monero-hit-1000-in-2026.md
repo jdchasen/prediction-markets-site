@@ -1,14 +1,14 @@
 ---
 title: "Will Monero hit $1000 in 2026?"
-description: "Will Monero hit $1000 in 2026? Odds: 14.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Monero hit $1000 in 2026? Odds: 14.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Monero hit $1000 in 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-05-13
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]
-polymarketYes: 14.5
-polymarketNo: 85.5
+polymarketYes: 14.0
+polymarketNo: 86.0
 polymarketVolume: 99245
 polymarketUrl: "https://polymarket.com/event/will-monero-hit-1000-in-2026"
 ---
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-monero-hit-1000-in-2026"
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 14.5% | 85.5% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 14.0% | 86.0% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will the US acquire part of Greenland in 2026?](/odds/will-the-us-acquire-part-of-greenland-in-2026) — 14% YES
-- [Will Tarcisio de Freitas win the 2026 Brazilian presidential election?](/odds/will-tarcisio-de-freitas-win-the-2026-brazilian-presidential-election) — 0% YES
-- [Will Marco Rubio win the 2028 US Presidential Election?](/odds/will-marco-rubio-win-the-2028-us-presidential-election) — 13% YES
+- [Will Marco Rubio win the 2028 US Presidential Election?](/odds/will-marco-rubio-win-the-2028-us-presidential-election) — 14% YES
+- [Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?](/odds/will-amanda-anisimova-be-the-2026-womens-wimbledon-winner) — 6% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Monero hit $1000 in 2026?"?
 
-As of May 13, 2026, Polymarket prices YES at 14.5%.
+As of May 13, 2026, Polymarket prices YES at 14.0%.
 
 ### Where can I trade on this prediction market?
 

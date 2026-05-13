@@ -1,23 +1,23 @@
 ---
-title: "Will Sara Rodriguez win the 2026 Wisconsin Governor Democratic primary election?"
-description: "Will Sara Rodriguez win the 2026 Wisconsin Governor Democratic primary election? Odds: 5.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Sara Rodriguez win the 2026 Wisconsin Governor Democratic primary election?"
+title: "Will Orinats Yerkir win the most seats in the 2026 Armenian National Assembly election?"
+description: "Will Orinats Yerkir win the most seats in the 2026 Armenian National Assembly election? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Orinats Yerkir win the most seats in the 2026 Armenian National Assembly election?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-05-13
-expiryDate: 2026-08-11
+expiryDate: 2026-06-07
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 5.5
-polymarketNo: 94.5
-polymarketVolume: 9926
-polymarketUrl: "https://polymarket.com/event/will-sara-rodriguez-win-the-2026-wisconsin-governor-democratic-primary-election"
+polymarketYes: 0.1
+polymarketNo: 99.9
+polymarketVolume: 9835
+polymarketUrl: "https://polymarket.com/event/will-orinats-yerkir-win-the-most-seats-in-the-2026-armenian-national-assembly-election"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 5.5% | 94.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.1% | 99.9% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-sara-rodriguez-win-the-2026-wi
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Sara Rodriguez win the 2026 Wisconsin Governor Democratic primary election?"?
+### What are the current odds for "Will Orinats Yerkir win the most seats in the 2026 Armenian National Assembly election?"?
 
-As of May 13, 2026, Polymarket prices YES at 5.5%.
+As of May 13, 2026, Polymarket prices YES at 0.1%.
 
 ### Where can I trade on this prediction market?
 

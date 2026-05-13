@@ -1,15 +1,15 @@
 ---
 title: "Will Silver (SI) hit (HIGH) $120 by end of June?"
-description: "Will Silver (SI) hit (HIGH) $120 by end of June? Odds: 13.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Silver (SI) hit (HIGH) $120 by end of June? Odds: 12.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Silver (SI) hit (HIGH) $120 by end of June?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-05-13
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
-polymarketYes: 13.5
-polymarketNo: 86.5
-polymarketVolume: 976572
+polymarketYes: 12.2
+polymarketNo: 87.8
+polymarketVolume: 981370
 polymarketUrl: "https://polymarket.com/event/will-silver-si-hit-high-120-by-end-of-june"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-silver-si-hit-high-120-by-end-
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 13.5% | 86.5% | $977K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 12.2% | 87.8% | $981K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will the US acquire part of Greenland in 2026?](/odds/will-the-us-acquire-part-of-greenland-in-2026) — 14% YES
-- [Will Tarcisio de Freitas win the 2026 Brazilian presidential election?](/odds/will-tarcisio-de-freitas-win-the-2026-brazilian-presidential-election) — 0% YES
-- [Will Marco Rubio win the 2028 US Presidential Election?](/odds/will-marco-rubio-win-the-2028-us-presidential-election) — 13% YES
+- [Will Marco Rubio win the 2028 US Presidential Election?](/odds/will-marco-rubio-win-the-2028-us-presidential-election) — 14% YES
+- [Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?](/odds/will-amanda-anisimova-be-the-2026-womens-wimbledon-winner) — 6% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Silver (SI) hit (HIGH) $120 by end of June?"?
 
-As of May 13, 2026, Polymarket prices YES at 13.5%.
+As of May 13, 2026, Polymarket prices YES at 12.2%.
 
 ### Where can I trade on this prediction market?
 
