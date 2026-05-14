@@ -3,7 +3,7 @@ title: "Will no one dissent the June Fed decision?"
 description: "Will no one dissent the June Fed decision? Odds: 45.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will no one dissent the June Fed decision?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-14
 expiryDate: 2026-06-17
 tags: ["federal-reserve", "politics", "polymarket"]

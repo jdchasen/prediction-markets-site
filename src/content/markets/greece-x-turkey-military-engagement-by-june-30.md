@@ -3,7 +3,7 @@ title: "Greece x Turkey military engagement by June 30?"
 description: "Greece x Turkey military engagement by June 30? Odds: 3.3% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Greece x Turkey military engagement by June 30?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-14
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]

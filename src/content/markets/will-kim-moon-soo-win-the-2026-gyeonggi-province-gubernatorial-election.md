@@ -1,23 +1,23 @@
 ---
-title: "Will OpenAI announce a computer (Laptop/Desktop) in 2026?"
-description: "Will OpenAI announce a computer (Laptop/Desktop) in 2026? Odds: 12.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will OpenAI announce a computer (Laptop/Desktop) in 2026?"
+title: "Will Kim Moon-soo win the 2026 Gyeonggi Province Gubernatorial Election?"
+description: "Will Kim Moon-soo win the 2026 Gyeonggi Province Gubernatorial Election? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Kim Moon-soo win the 2026 Gyeonggi Province Gubernatorial Election?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-05-14
-expiryDate: 2026-12-31
-tags: ["ai", "politics", "polymarket"]
-polymarketYes: 12.5
-polymarketNo: 87.5
-polymarketVolume: 9824
-polymarketUrl: "https://polymarket.com/event/will-openai-announce-a-computer-laptopdesktop-in-2026"
+expiryDate: 2026-06-03
+tags: ["elections", "politics", "polymarket"]
+polymarketYes: 0.1
+polymarketNo: 99.9
+polymarketVolume: 98320
+polymarketUrl: "https://polymarket.com/event/will-kim-moon-soo-win-the-2026-gyeonggi-province-gubernatorial-election"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 12.5% | 87.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.1% | 99.9% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-openai-announce-a-computer-lap
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will OpenAI announce a computer (Laptop/Desktop) in 2026?"?
+### What are the current odds for "Will Kim Moon-soo win the 2026 Gyeonggi Province Gubernatorial Election?"?
 
-As of May 14, 2026, Polymarket prices YES at 12.5%.
+As of May 14, 2026, Polymarket prices YES at 0.1%.
 
 ### Where can I trade on this prediction market?
 

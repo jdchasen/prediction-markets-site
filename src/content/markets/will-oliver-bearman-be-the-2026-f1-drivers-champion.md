@@ -9,7 +9,7 @@ expiryDate: 2026-12-06
 tags: ["polymarket", "sports"]
 polymarketYes: 0.1
 polymarketNo: 99.9
-polymarketVolume: 9769631
+polymarketVolume: 9782812
 polymarketUrl: "https://polymarket.com/event/will-oliver-bearman-be-the-2026-f1-drivers-champion"
 ---
 
@@ -21,9 +21,9 @@ polymarketUrl: "https://polymarket.com/event/will-oliver-bearman-be-the-2026-f1-
 
 ## Related Markets
 
-- [Will Turkiye win the 2026 FIFA World Cup?](/odds/will-turkiye-win-the-2026-fifa-world-cup) — 1% YES
 - [Will Arvid Lindblad be the 2026 F1 Drivers' Champion?](/odds/will-arvid-lindblad-be-the-2026-f1-drivers-champion) — 0% YES
-- [Will Chennai Super Kings win the 2026 Indian Premier League?](/odds/will-chennai-super-kings-win-the-2026-indian-premier-league) — 10% YES
+- [Will West Ham be relegated from the English Premier League after the 2025–26 season?](/odds/will-west-ham-be-relegated-from-the-english-premier-league-after-the-202526-seas) — 34% YES
+- [Will Houston Texans win the 2027 NFL AFC Championship?](/odds/will-houston-texans-win-the-2027-nfl-afc-championship) — 10% YES
 
 ## Frequently Asked Questions
 

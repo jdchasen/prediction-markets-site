@@ -21,9 +21,9 @@ polymarketUrl: "https://polymarket.com/event/will-west-ham-be-relegated-from-the
 
 ## Related Markets
 
-- [Will Turkiye win the 2026 FIFA World Cup?](/odds/will-turkiye-win-the-2026-fifa-world-cup) — 1% YES
 - [Will Arvid Lindblad be the 2026 F1 Drivers' Champion?](/odds/will-arvid-lindblad-be-the-2026-f1-drivers-champion) — 0% YES
 - [Will Oliver Bearman be the 2026 F1 Drivers' Champion?](/odds/will-oliver-bearman-be-the-2026-f1-drivers-champion) — 0% YES
+- [Will Houston Texans win the 2027 NFL AFC Championship?](/odds/will-houston-texans-win-the-2027-nfl-afc-championship) — 10% YES
 
 ## Frequently Asked Questions
 

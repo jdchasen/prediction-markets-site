@@ -1,23 +1,23 @@
 ---
-title: "Will OpenAI announce a computer (Laptop/Desktop) in 2026?"
-description: "Will OpenAI announce a computer (Laptop/Desktop) in 2026? Odds: 12.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will OpenAI announce a computer (Laptop/Desktop) in 2026?"
+title: "Will Matt Sahr win the 2026 Michigan Democratic Primary?"
+description: "Will Matt Sahr win the 2026 Michigan Democratic Primary? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Matt Sahr win the 2026 Michigan Democratic Primary?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-05-14
-expiryDate: 2026-12-31
-tags: ["ai", "politics", "polymarket"]
-polymarketYes: 12.5
-polymarketNo: 87.5
-polymarketVolume: 9824
-polymarketUrl: "https://polymarket.com/event/will-openai-announce-a-computer-laptopdesktop-in-2026"
+expiryDate: 2026-08-04
+tags: ["politics", "polymarket"]
+polymarketYes: 0.1
+polymarketNo: 99.9
+polymarketVolume: 98955
+polymarketUrl: "https://polymarket.com/event/will-matt-sahr-win-the-2026-michigan-democratic-primary"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 12.5% | 87.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.1% | 99.9% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-openai-announce-a-computer-lap
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will OpenAI announce a computer (Laptop/Desktop) in 2026?"?
+### What are the current odds for "Will Matt Sahr win the 2026 Michigan Democratic Primary?"?
 
-As of May 14, 2026, Polymarket prices YES at 12.5%.
+As of May 14, 2026, Polymarket prices YES at 0.1%.
 
 ### Where can I trade on this prediction market?
 

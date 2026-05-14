@@ -3,7 +3,7 @@ title: "Bordeaux: Alex Molcan vs Rei Sakamoto"
 description: "Bordeaux: Alex Molcan vs Rei Sakamoto Odds: 69.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Bordeaux: Alex Molcan vs Rei Sakamoto"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-14
 expiryDate: 2026-05-21
 tags: ["politics", "polymarket"]

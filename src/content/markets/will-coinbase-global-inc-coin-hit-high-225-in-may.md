@@ -1,35 +1,35 @@
 ---
-title: "Solstice FDV above $200M one day after launch?"
-description: "Solstice FDV above $200M one day after launch? Odds: 31.2% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Solstice FDV above $200M one day after launch?"
+title: "Will Coinbase Global, Inc. (COIN) hit (HIGH) $225 in May?"
+description: "Will Coinbase Global, Inc. (COIN) hit (HIGH) $225 in May? Odds: 67.0% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Coinbase Global, Inc. (COIN) hit (HIGH) $225 in May?"
 category: "crypto"
 status: "active"
 lastUpdated: 2026-05-14
-expiryDate: 2027-01-01
-tags: ["crypto", "polymarket"]
-polymarketYes: 31.2
-polymarketNo: 68.8
-polymarketVolume: 97633
-polymarketUrl: "https://polymarket.com/event/solstice-fdv-above-200m-one-day-after-launch"
+expiryDate: 2026-06-01
+tags: ["crypto", "polymarket", "sports"]
+polymarketYes: 67.0
+polymarketNo: 33.0
+polymarketVolume: 9927
+polymarketUrl: "https://polymarket.com/event/will-coin-reach-225-in-may-2026"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 31.2% | 68.8% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 67.0% | 33.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Abstract FDV above $200M one day after launch?](/odds/abstract-fdv-above-200m-one-day-after-launch) — 77% YES
 - [Variational FDV above $4B one day after launch?](/odds/variational-fdv-above-4b-one-day-after-launch) — 1% YES
-- [Will Coinbase Global, Inc. (COIN) hit (HIGH) $225 in May?](/odds/will-coinbase-global-inc-coin-hit-high-225-in-may) — 67% YES
+- [Solstice FDV above $200M one day after launch?](/odds/solstice-fdv-above-200m-one-day-after-launch) — 31% YES
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Solstice FDV above $200M one day after launch?"?
+### What are the current odds for "Will Coinbase Global, Inc. (COIN) hit (HIGH) $225 in May?"?
 
-As of May 14, 2026, Polymarket prices YES at 31.2%.
+As of May 14, 2026, Polymarket prices YES at 67.0%.
 
 ### Where can I trade on this prediction market?
 

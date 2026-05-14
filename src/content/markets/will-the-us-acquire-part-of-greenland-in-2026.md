@@ -9,7 +9,7 @@ expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 14.5
 polymarketNo: 85.5
-polymarketVolume: 9972516
+polymarketVolume: 9973197
 polymarketUrl: "https://polymarket.com/event/will-the-us-acquire-any-part-of-greenland-in-2026"
 ---
 
@@ -22,8 +22,8 @@ polymarketUrl: "https://polymarket.com/event/will-the-us-acquire-any-part-of-gre
 ## Related Markets
 
 - [Will Marco Rubio win the 2028 US Presidential Election?](/odds/will-marco-rubio-win-the-2028-us-presidential-election) — 14% YES
-- [Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?](/odds/will-amanda-anisimova-be-the-2026-womens-wimbledon-winner) — 4% YES
-- [Will Renan Santos finish in second place in the first round of the 2026 Brazilian presidential election?](/odds/will-renan-santos-finish-in-second-place-in-the-first-round-of-the-2026-brazilia) — 5% YES
+- [Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?](/odds/will-amanda-anisimova-be-the-2026-womens-wimbledon-winner) — 6% YES
+- [Will Renan Santos finish in second place in the first round of the 2026 Brazilian presidential election?](/odds/will-renan-santos-finish-in-second-place-in-the-first-round-of-the-2026-brazilia) — 6% YES
 
 ## Frequently Asked Questions
 

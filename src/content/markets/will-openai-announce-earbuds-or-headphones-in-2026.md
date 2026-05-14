@@ -3,7 +3,7 @@ title: "Will OpenAI announce earbuds or headphones in 2026?"
 description: "Will OpenAI announce earbuds or headphones in 2026? Odds: 30.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will OpenAI announce earbuds or headphones in 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-14
 expiryDate: 2026-12-31
 tags: ["ai", "politics", "polymarket"]

@@ -1,35 +1,35 @@
 ---
-title: "Will Bitcoin dip to $70,000 in May?"
-description: "Will Bitcoin dip to $70,000 in May? Odds: 16.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Bitcoin dip to $70,000 in May?"
+title: "Will the price of Bitcoin be above $74,000 on May 20?"
+description: "Will the price of Bitcoin be above $74,000 on May 20? Odds: 97.7% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will the price of Bitcoin be above $74,000 on May 20?"
 category: "crypto"
-status: "settled"
+status: "active"
 lastUpdated: 2026-05-14
-expiryDate: 2026-06-01
+expiryDate: 2026-05-20
 tags: ["bitcoin", "crypto", "polymarket"]
-polymarketYes: 16.5
-polymarketNo: 83.5
-polymarketVolume: 983066
-polymarketUrl: "https://polymarket.com/event/will-bitcoin-dip-to-70k-in-may-2026"
+polymarketYes: 97.7
+polymarketNo: 2.4
+polymarketVolume: 9911
+polymarketUrl: "https://polymarket.com/event/bitcoin-above-74k-on-may-20"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 16.5% | 83.5% | $983K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 97.7% | 2.4% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Abstract FDV above $200M one day after launch?](/odds/abstract-fdv-above-200m-one-day-after-launch) — 76% YES
+- [Abstract FDV above $200M one day after launch?](/odds/abstract-fdv-above-200m-one-day-after-launch) — 77% YES
 - [Variational FDV above $4B one day after launch?](/odds/variational-fdv-above-4b-one-day-after-launch) — 1% YES
 - [Solstice FDV above $200M one day after launch?](/odds/solstice-fdv-above-200m-one-day-after-launch) — 31% YES
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Bitcoin dip to $70,000 in May?"?
+### What are the current odds for "Will the price of Bitcoin be above $74,000 on May 20?"?
 
-As of May 14, 2026, Polymarket prices YES at 16.5%.
+As of May 14, 2026, Polymarket prices YES at 97.7%.
 
 ### Where can I trade on this prediction market?
 

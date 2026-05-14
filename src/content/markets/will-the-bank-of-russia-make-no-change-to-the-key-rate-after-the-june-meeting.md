@@ -3,7 +3,7 @@ title: "Will the Bank of Russia make no change to the key rate after the June Me
 description: "Will the Bank of Russia make no change to the key rate after the June Meeting? Odds: 15.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Bank of Russia make no change to the key rate after the June Meeting?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-14
 expiryDate: 2026-06-19
 tags: ["politics", "polymarket"]

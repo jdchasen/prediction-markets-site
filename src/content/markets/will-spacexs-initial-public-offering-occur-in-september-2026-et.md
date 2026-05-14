@@ -9,7 +9,7 @@ expiryDate: 2026-12-31
 tags: ["polymarket", "tech"]
 polymarketYes: 3.1
 polymarketNo: 96.9
-polymarketVolume: 9732
+polymarketVolume: 9765
 polymarketUrl: "https://polymarket.com/event/will-spacexs-initial-public-offering-occur-in-september-2026-et"
 ---
 

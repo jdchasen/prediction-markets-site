@@ -3,7 +3,7 @@ title: "Will Russia test a nuclear weapon by September 30 2026?"
 description: "Will Russia test a nuclear weapon by September 30 2026? Odds: 4.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Russia test a nuclear weapon by September 30 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-14
 expiryDate: 2026-09-30
 tags: ["politics", "polymarket"]

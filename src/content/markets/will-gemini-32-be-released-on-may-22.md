@@ -3,7 +3,7 @@ title: "Will Gemini 3.2 be released on May 22?"
 description: "Will Gemini 3.2 be released on May 22? Odds: 2.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Gemini 3.2 be released on May 22?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-14
 expiryDate: 2026-05-31
 tags: ["politics", "polymarket"]

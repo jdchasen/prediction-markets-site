@@ -3,7 +3,7 @@ title: "Will Lionel Messi play in the 2026 FIFA World Cup?"
 description: "Will Lionel Messi play in the 2026 FIFA World Cup? Odds: 93.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Lionel Messi play in the 2026 FIFA World Cup?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-14
 expiryDate: 2026-07-19
 tags: ["polymarket", "sports"]

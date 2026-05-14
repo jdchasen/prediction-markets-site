@@ -1,15 +1,15 @@
 ---
 title: "Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?"
-description: "Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner? Odds: 3.8% YES on Polymarket. See live prices and trade this market."
+description: "Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner? Odds: 5.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-05-14
 expiryDate: 2026-07-12
 tags: ["politics", "polymarket"]
-polymarketYes: 3.8
-polymarketNo: 96.2
-polymarketVolume: 998964
+polymarketYes: 5.9
+polymarketNo: 94.1
+polymarketVolume: 999190
 polymarketUrl: "https://polymarket.com/event/will-amanda-anisimova-be-the-2026-womens-wimbledon-winner"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-amanda-anisimova-be-the-2026-w
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 3.8% | 96.2% | $999K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 5.9% | 94.1% | $999K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will the US acquire part of Greenland in 2026?](/odds/will-the-us-acquire-part-of-greenland-in-2026) — 14% YES
 - [Will Marco Rubio win the 2028 US Presidential Election?](/odds/will-marco-rubio-win-the-2028-us-presidential-election) — 14% YES
-- [Will Renan Santos finish in second place in the first round of the 2026 Brazilian presidential election?](/odds/will-renan-santos-finish-in-second-place-in-the-first-round-of-the-2026-brazilia) — 5% YES
+- [Will Renan Santos finish in second place in the first round of the 2026 Brazilian presidential election?](/odds/will-renan-santos-finish-in-second-place-in-the-first-round-of-the-2026-brazilia) — 6% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?"?
 
-As of May 14, 2026, Polymarket prices YES at 3.8%.
+As of May 14, 2026, Polymarket prices YES at 5.9%.
 
 ### Where can I trade on this prediction market?
 

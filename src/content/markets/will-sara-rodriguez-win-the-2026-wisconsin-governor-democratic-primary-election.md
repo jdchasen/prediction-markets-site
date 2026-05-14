@@ -3,7 +3,7 @@ title: "Will Sara Rodriguez win the 2026 Wisconsin Governor Democratic primary e
 description: "Will Sara Rodriguez win the 2026 Wisconsin Governor Democratic primary election? Odds: 5.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Sara Rodriguez win the 2026 Wisconsin Governor Democratic primary election?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-14
 expiryDate: 2026-08-11
 tags: ["elections", "politics", "polymarket"]

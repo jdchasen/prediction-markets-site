@@ -1,14 +1,14 @@
 ---
 title: "Will Crude Oil reach a new all-time high by June 30?"
-description: "Will Crude Oil reach a new all-time high by June 30? Odds: 22.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Crude Oil reach a new all-time high by June 30? Odds: 19.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Crude Oil reach a new all-time high by June 30?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-05-14
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
-polymarketYes: 22.5
-polymarketNo: 77.5
+polymarketYes: 19.5
+polymarketNo: 80.5
 polymarketVolume: 9835
 polymarketUrl: "https://polymarket.com/event/will-crude-oil-reach-a-new-all-time-high-by-june-30"
 ---
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-crude-oil-reach-a-new-all-time
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 22.5% | 77.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 19.5% | 80.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will the US acquire part of Greenland in 2026?](/odds/will-the-us-acquire-part-of-greenland-in-2026) — 14% YES
 - [Will Marco Rubio win the 2028 US Presidential Election?](/odds/will-marco-rubio-win-the-2028-us-presidential-election) — 14% YES
-- [Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?](/odds/will-amanda-anisimova-be-the-2026-womens-wimbledon-winner) — 4% YES
+- [Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?](/odds/will-amanda-anisimova-be-the-2026-womens-wimbledon-winner) — 6% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Crude Oil reach a new all-time high by June 30?"?
 
-As of May 14, 2026, Polymarket prices YES at 22.5%.
+As of May 14, 2026, Polymarket prices YES at 19.5%.
 
 ### Where can I trade on this prediction market?
 

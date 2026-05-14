@@ -3,7 +3,7 @@ title: "Paris: Emma Navarro vs Katie Volynets"
 description: "Paris: Emma Navarro vs Katie Volynets Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Paris: Emma Navarro vs Katie Volynets"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-14
 expiryDate: 2026-05-20
 tags: ["politics", "polymarket"]
