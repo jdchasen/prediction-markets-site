@@ -4,7 +4,7 @@ description: "Will Félix Auger-Aliassime be the 2026 Men’s Wimbledon winner? 
 marketQuestion: "Will Félix Auger-Aliassime be the 2026 Men’s Wimbledon winner?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-13
+lastUpdated: 2026-05-14
 expiryDate: 2026-07-12
 tags: ["politics", "polymarket"]
 polymarketYes: 0.8
@@ -23,13 +23,13 @@ polymarketUrl: "https://polymarket.com/event/will-flix-auger-aliassime-be-the-20
 
 - [Will the US acquire part of Greenland in 2026?](/odds/will-the-us-acquire-part-of-greenland-in-2026) — 14% YES
 - [Will Marco Rubio win the 2028 US Presidential Election?](/odds/will-marco-rubio-win-the-2028-us-presidential-election) — 14% YES
-- [Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?](/odds/will-amanda-anisimova-be-the-2026-womens-wimbledon-winner) — 6% YES
+- [Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?](/odds/will-amanda-anisimova-be-the-2026-womens-wimbledon-winner) — 4% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Félix Auger-Aliassime be the 2026 Men’s Wimbledon winner?"?
 
-As of May 13, 2026, Polymarket prices YES at 0.8%.
+As of May 14, 2026, Polymarket prices YES at 0.8%.
 
 ### Where can I trade on this prediction market?
 

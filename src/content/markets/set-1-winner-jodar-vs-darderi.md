@@ -3,8 +3,8 @@ title: "Set 1 Winner: Jodar vs Darderi"
 description: "Set 1 Winner: Jodar vs Darderi Odds: 0.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Set 1 Winner: Jodar vs Darderi"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-13
+status: "settled"
+lastUpdated: 2026-05-14
 expiryDate: 2026-05-20
 tags: ["politics", "polymarket"]
 polymarketYes: 0.5

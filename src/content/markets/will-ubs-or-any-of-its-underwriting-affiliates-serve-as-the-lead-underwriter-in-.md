@@ -4,12 +4,12 @@ description: "Will UBS or any of its underwriting affiliates serve as the lead u
 marketQuestion: "Will UBS or any of its underwriting affiliates serve as the lead underwriter in SpaceX’s initial public offering?"
 category: "tech"
 status: "active"
-lastUpdated: 2026-05-13
+lastUpdated: 2026-05-14
 expiryDate: 2027-12-31
 tags: ["polymarket", "tech"]
 polymarketYes: 0.2
 polymarketNo: 99.8
-polymarketVolume: 98904
+polymarketVolume: 99033
 polymarketUrl: "https://polymarket.com/event/will-ubs-or-any-of-its-underwriting-affiliates-serve-as-the-lead-underwriter-in-spacexs-initial-public-offering-884"
 ---
 
@@ -27,7 +27,7 @@ polymarketUrl: "https://polymarket.com/event/will-ubs-or-any-of-its-underwriting
 
 ### What are the current odds for "Will UBS or any of its underwriting affiliates serve as the lead underwriter in SpaceX’s initial public offering?"?
 
-As of May 13, 2026, Polymarket prices YES at 0.2%.
+As of May 14, 2026, Polymarket prices YES at 0.2%.
 
 ### Where can I trade on this prediction market?
 

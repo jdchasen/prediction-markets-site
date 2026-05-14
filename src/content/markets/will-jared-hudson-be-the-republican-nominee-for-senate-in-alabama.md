@@ -3,8 +3,8 @@ title: "Will Jared Hudson be the Republican nominee for Senate in Alabama?"
 description: "Will Jared Hudson be the Republican nominee for Senate in Alabama? Odds: 25.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Jared Hudson be the Republican nominee for Senate in Alabama?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-13
+status: "settled"
+lastUpdated: 2026-05-14
 expiryDate: 2026-05-19
 tags: ["politics", "polymarket"]
 polymarketYes: 25.4

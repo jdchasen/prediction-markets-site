@@ -3,8 +3,8 @@ title: "Will Rick Temple be the Republican nominee for Senate in Georgia?"
 description: "Will Rick Temple be the Republican nominee for Senate in Georgia? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Rick Temple be the Republican nominee for Senate in Georgia?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-13
+status: "settled"
+lastUpdated: 2026-05-14
 expiryDate: 2026-05-19
 tags: ["politics", "polymarket"]
 polymarketYes: 0.1

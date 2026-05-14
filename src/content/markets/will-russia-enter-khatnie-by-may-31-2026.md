@@ -3,8 +3,8 @@ title: "Will Russia enter Khatnie by May 31, 2026?"
 description: "Will Russia enter Khatnie by May 31, 2026? Odds: 14.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Russia enter Khatnie by May 31, 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-13
+status: "settled"
+lastUpdated: 2026-05-14
 expiryDate: 2026-05-31
 tags: ["politics", "polymarket"]
 polymarketYes: 14.5

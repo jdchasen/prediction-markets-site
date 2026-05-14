@@ -4,7 +4,7 @@ description: "Will Nikolai Denkov win the next Bulgarian presidential election? 
 marketQuestion: "Will Nikolai Denkov win the next Bulgarian presidential election?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-13
+lastUpdated: 2026-05-14
 expiryDate: 2026-11-30
 tags: ["ai", "elections", "politics", "polymarket"]
 polymarketYes: 12.0
@@ -23,13 +23,13 @@ polymarketUrl: "https://polymarket.com/event/will-nikolai-denkov-win-the-next-bu
 
 - [Will the US acquire part of Greenland in 2026?](/odds/will-the-us-acquire-part-of-greenland-in-2026) — 14% YES
 - [Will Marco Rubio win the 2028 US Presidential Election?](/odds/will-marco-rubio-win-the-2028-us-presidential-election) — 14% YES
-- [Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?](/odds/will-amanda-anisimova-be-the-2026-womens-wimbledon-winner) — 6% YES
+- [Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?](/odds/will-amanda-anisimova-be-the-2026-womens-wimbledon-winner) — 4% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Nikolai Denkov win the next Bulgarian presidential election?"?
 
-As of May 13, 2026, Polymarket prices YES at 12.0%.
+As of May 14, 2026, Polymarket prices YES at 12.0%.
 
 ### Where can I trade on this prediction market?
 

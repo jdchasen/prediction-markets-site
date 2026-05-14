@@ -4,7 +4,7 @@ description: "Will SpaceX’s initial public offering occur in September 2026 (E
 marketQuestion: "Will SpaceX’s initial public offering occur in September 2026 (ET)?"
 category: "tech"
 status: "active"
-lastUpdated: 2026-05-13
+lastUpdated: 2026-05-14
 expiryDate: 2026-12-31
 tags: ["polymarket", "tech"]
 polymarketYes: 3.1
@@ -27,7 +27,7 @@ polymarketUrl: "https://polymarket.com/event/will-spacexs-initial-public-offerin
 
 ### What are the current odds for "Will SpaceX’s initial public offering occur in September 2026 (ET)?"?
 
-As of May 13, 2026, Polymarket prices YES at 3.1%.
+As of May 14, 2026, Polymarket prices YES at 3.1%.
 
 ### Where can I trade on this prediction market?
 

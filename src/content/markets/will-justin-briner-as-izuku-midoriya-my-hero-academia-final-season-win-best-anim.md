@@ -4,7 +4,7 @@ description: "Will Justin Briner as Izuku Midoriya (My Hero Academia FINAL SEASO
 marketQuestion: "Will Justin Briner as Izuku Midoriya (My Hero Academia FINAL SEASON) win Best Anime Voice Artist Performance (English) at the 2026 Crunchyroll Anime Awards?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-13
+lastUpdated: 2026-05-14
 expiryDate: 2026-05-23
 tags: ["politics", "polymarket"]
 polymarketYes: 43.5
@@ -23,13 +23,13 @@ polymarketUrl: "https://polymarket.com/event/will-justin-briner-as-izuku-midoriy
 
 - [Will the US acquire part of Greenland in 2026?](/odds/will-the-us-acquire-part-of-greenland-in-2026) — 14% YES
 - [Will Marco Rubio win the 2028 US Presidential Election?](/odds/will-marco-rubio-win-the-2028-us-presidential-election) — 14% YES
-- [Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?](/odds/will-amanda-anisimova-be-the-2026-womens-wimbledon-winner) — 6% YES
+- [Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?](/odds/will-amanda-anisimova-be-the-2026-womens-wimbledon-winner) — 4% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Justin Briner as Izuku Midoriya (My Hero Academia FINAL SEASON) win Best Anime Voice Artist Performance (English) at the 2026 Crunchyroll Anime Awards?"?
 
-As of May 13, 2026, Polymarket prices YES at 43.5%.
+As of May 14, 2026, Polymarket prices YES at 43.5%.
 
 ### Where can I trade on this prediction market?
 

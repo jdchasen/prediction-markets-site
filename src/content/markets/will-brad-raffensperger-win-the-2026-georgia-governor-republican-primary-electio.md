@@ -3,8 +3,8 @@ title: "Will Brad Raffensperger win the 2026 Georgia Governor Republican primary
 description: "Will Brad Raffensperger win the 2026 Georgia Governor Republican primary election? Odds: 4.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Brad Raffensperger win the 2026 Georgia Governor Republican primary election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-13
+status: "settled"
+lastUpdated: 2026-05-14
 expiryDate: 2026-05-19
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 4.2

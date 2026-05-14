@@ -4,7 +4,7 @@ description: "Will Houston Texans win the 2027 NFL AFC Championship? Odds: 9.8% 
 marketQuestion: "Will Houston Texans win the 2027 NFL AFC Championship?"
 category: "sports"
 status: "active"
-lastUpdated: 2026-05-13
+lastUpdated: 2026-05-14
 expiryDate: 2027-01-25
 tags: ["polymarket", "sports"]
 polymarketYes: 9.8
@@ -21,15 +21,15 @@ polymarketUrl: "https://polymarket.com/event/will-houston-texans-win-the-2027-nf
 
 ## Related Markets
 
-- [Will Arvid Lindblad be the 2026 F1 Drivers' Champion?](/odds/will-arvid-lindblad-be-the-2026-f1-drivers-champion) — 0% YES
 - [Will Turkiye win the 2026 FIFA World Cup?](/odds/will-turkiye-win-the-2026-fifa-world-cup) — 1% YES
+- [Will Arvid Lindblad be the 2026 F1 Drivers' Champion?](/odds/will-arvid-lindblad-be-the-2026-f1-drivers-champion) — 0% YES
 - [Will Oliver Bearman be the 2026 F1 Drivers' Champion?](/odds/will-oliver-bearman-be-the-2026-f1-drivers-champion) — 0% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Houston Texans win the 2027 NFL AFC Championship?"?
 
-As of May 13, 2026, Polymarket prices YES at 9.8%.
+As of May 14, 2026, Polymarket prices YES at 9.8%.
 
 ### Where can I trade on this prediction market?
 

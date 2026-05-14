@@ -3,8 +3,8 @@ title: "Will there be at least 1900 measles cases in the U.S. by May 31, 2026?"
 description: "Will there be at least 1900 measles cases in the U.S. by May 31, 2026? Odds: 90.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will there be at least 1900 measles cases in the U.S. by May 31, 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-13
+status: "settled"
+lastUpdated: 2026-05-14
 expiryDate: 2026-05-31
 tags: ["politics", "polymarket"]
 polymarketYes: 90.0

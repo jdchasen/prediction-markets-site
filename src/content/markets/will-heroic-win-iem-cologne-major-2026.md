@@ -3,8 +3,8 @@ title: "Will HEROIC win IEM Cologne Major 2026?"
 description: "Will HEROIC win IEM Cologne Major 2026? Odds: 0.3% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will HEROIC win IEM Cologne Major 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-13
+status: "settled"
+lastUpdated: 2026-05-14
 expiryDate: 2026-06-21
 tags: ["politics", "polymarket"]
 polymarketYes: 0.3

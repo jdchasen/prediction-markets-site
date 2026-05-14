@@ -1,13 +1,13 @@
 ---
 title: "Will \"Michael\" be the April film with the highest domestic gross on May 31?"
-description: "Will \"Michael\" be the April film with the highest domestic gross on May 31? Odds: 0.6% YES on Polymarket. See live prices and trade this market."
+description: "Will \"Michael\" be the April film with the highest domestic gross on May 31? Odds: 0.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will \"Michael\" be the April film with the highest domestic gross on May 31?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-13
+lastUpdated: 2026-05-14
 expiryDate: 2026-05-31
 tags: ["politics", "polymarket"]
-polymarketYes: 0.6
+polymarketYes: 0.7
 polymarketNo: 99.4
 polymarketVolume: 98712
 polymarketUrl: "https://polymarket.com/event/will-michael-be-the-april-film-with-the-highest-domestic-gross-on-may-31"
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-michael-be-the-april-film-with
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.6% | 99.4% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.7% | 99.4% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will the US acquire part of Greenland in 2026?](/odds/will-the-us-acquire-part-of-greenland-in-2026) — 14% YES
 - [Will Marco Rubio win the 2028 US Presidential Election?](/odds/will-marco-rubio-win-the-2028-us-presidential-election) — 14% YES
-- [Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?](/odds/will-amanda-anisimova-be-the-2026-womens-wimbledon-winner) — 6% YES
+- [Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?](/odds/will-amanda-anisimova-be-the-2026-womens-wimbledon-winner) — 4% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will "Michael" be the April film with the highest domestic gross on May 31?"?
 
-As of May 13, 2026, Polymarket prices YES at 0.6%.
+As of May 14, 2026, Polymarket prices YES at 0.7%.
 
 ### Where can I trade on this prediction market?
 

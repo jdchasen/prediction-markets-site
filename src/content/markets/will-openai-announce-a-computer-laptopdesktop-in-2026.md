@@ -4,7 +4,7 @@ description: "Will OpenAI announce a computer (Laptop/Desktop) in 2026? Odds: 12
 marketQuestion: "Will OpenAI announce a computer (Laptop/Desktop) in 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-13
+lastUpdated: 2026-05-14
 expiryDate: 2026-12-31
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 12.5
@@ -23,13 +23,13 @@ polymarketUrl: "https://polymarket.com/event/will-openai-announce-a-computer-lap
 
 - [Will the US acquire part of Greenland in 2026?](/odds/will-the-us-acquire-part-of-greenland-in-2026) — 14% YES
 - [Will Marco Rubio win the 2028 US Presidential Election?](/odds/will-marco-rubio-win-the-2028-us-presidential-election) — 14% YES
-- [Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?](/odds/will-amanda-anisimova-be-the-2026-womens-wimbledon-winner) — 6% YES
+- [Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?](/odds/will-amanda-anisimova-be-the-2026-womens-wimbledon-winner) — 4% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will OpenAI announce a computer (Laptop/Desktop) in 2026?"?
 
-As of May 13, 2026, Polymarket prices YES at 12.5%.
+As of May 14, 2026, Polymarket prices YES at 12.5%.
 
 ### Where can I trade on this prediction market?
 

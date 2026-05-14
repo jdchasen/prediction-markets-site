@@ -3,8 +3,8 @@ title: "Will Won Hee-ryong win the 2026 Gyeonggi Province Gubernatorial Election
 description: "Will Won Hee-ryong win the 2026 Gyeonggi Province Gubernatorial Election? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Won Hee-ryong win the 2026 Gyeonggi Province Gubernatorial Election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-13
+status: "settled"
+lastUpdated: 2026-05-14
 expiryDate: 2026-06-03
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.1

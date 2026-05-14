@@ -3,8 +3,8 @@ title: "Will Lighter reach $4 before 2027?"
 description: "Will Lighter reach $4 before 2027? Odds: 10.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Lighter reach $4 before 2027?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-13
+status: "settled"
+lastUpdated: 2026-05-14
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]
 polymarketYes: 10.5
