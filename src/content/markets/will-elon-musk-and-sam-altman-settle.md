@@ -1,15 +1,15 @@
 ---
 title: "Will Elon Musk and Sam Altman settle?"
-description: "Will Elon Musk and Sam Altman settle? Odds: 23.0% YES on Polymarket. See live prices and trade this market."
+description: "Will Elon Musk and Sam Altman settle? Odds: 22.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Elon Musk and Sam Altman settle?"
 category: "tech"
 status: "active"
 lastUpdated: 2026-05-15
 expiryDate: 2026-12-31
 tags: ["polymarket", "tech"]
-polymarketYes: 23.0
-polymarketNo: 77.0
-polymarketVolume: 9846
+polymarketYes: 22.0
+polymarketNo: 78.0
+polymarketVolume: 9919
 polymarketUrl: "https://polymarket.com/event/will-elon-musk-and-sam-altman-settle"
 ---
 
@@ -17,18 +17,13 @@ polymarketUrl: "https://polymarket.com/event/will-elon-musk-and-sam-altman-settl
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 23.0% | 77.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
-
-## Related Markets
-
-- [Will UBS or any of its underwriting affiliates serve as the lead underwriter in SpaceX’s initial public offering?](/odds/will-ubs-or-any-of-its-underwriting-affiliates-serve-as-the-lead-underwriter-in-) — 0% YES
-- [Google x SpaceX agree to put data centers in space by June 30?](/odds/google-x-spacex-agree-to-put-data-centers-in-space-by-june-30) — 20% YES
+| Polymarket | 22.0% | 78.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Elon Musk and Sam Altman settle?"?
 
-As of May 15, 2026, Polymarket prices YES at 23.0%.
+As of May 15, 2026, Polymarket prices YES at 22.0%.
 
 ### Where can I trade on this prediction market?
 

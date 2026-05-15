@@ -3,7 +3,7 @@ title: "Will \"Remarkably Bright Creatures\" be the top US Netflix movie this we
 description: "Will \"Remarkably Bright Creatures\" be the top US Netflix movie this week? Odds: 8.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will \"Remarkably Bright Creatures\" be the top US Netflix movie this week?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-15
 expiryDate: 2026-05-19
 tags: ["politics", "polymarket"]

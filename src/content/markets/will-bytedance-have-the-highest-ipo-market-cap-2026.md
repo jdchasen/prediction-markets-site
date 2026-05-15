@@ -9,7 +9,7 @@ expiryDate: 2026-12-31
 tags: ["finance", "polymarket"]
 polymarketYes: 0.1
 polymarketNo: 99.9
-polymarketVolume: 98009
+polymarketVolume: 98249
 polymarketUrl: "https://polymarket.com/event/will-bytedance-have-the-highest-ipo-market-cap-2026-727"
 ---
 

@@ -1,15 +1,15 @@
 ---
 title: "Peru General Election invalidated by June 30?"
-description: "Peru General Election invalidated by June 30? Odds: 3.7% YES on Polymarket. See live prices and trade this market."
+description: "Peru General Election invalidated by June 30? Odds: 4.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Peru General Election invalidated by June 30?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-05-15
 expiryDate: 2026-06-30
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 3.7
-polymarketNo: 96.3
-polymarketVolume: 98316
+polymarketYes: 4.0
+polymarketNo: 96.0
+polymarketVolume: 98328
 polymarketUrl: "https://polymarket.com/event/peru-general-election-invalidated-by-june-30"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/peru-general-election-invalidated-b
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 3.7% | 96.3% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 4.0% | 96.0% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/peru-general-election-invalidated-b
 
 ### What are the current odds for "Peru General Election invalidated by June 30?"?
 
-As of May 15, 2026, Polymarket prices YES at 3.7%.
+As of May 15, 2026, Polymarket prices YES at 4.0%.
 
 ### Where can I trade on this prediction market?
 

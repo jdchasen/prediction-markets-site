@@ -1,14 +1,14 @@
 ---
 title: "Will Ethena reach $1.20 by December 31, 2026?"
-description: "Will Ethena reach $1.20 by December 31, 2026? Odds: 7.0% YES on Polymarket. See live prices and trade this market."
+description: "Will Ethena reach $1.20 by December 31, 2026? Odds: 7.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Ethena reach $1.20 by December 31, 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-05-15
 expiryDate: 2027-01-01
 tags: ["ethereum", "politics", "polymarket"]
-polymarketYes: 7.0
-polymarketNo: 93.0
+polymarketYes: 7.7
+polymarketNo: 92.3
 polymarketVolume: 9805
 polymarketUrl: "https://polymarket.com/event/will-ethena-reach-1pt20-by-december-31-2026"
 ---
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-ethena-reach-1pt20-by-december
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 7.0% | 93.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 7.7% | 92.3% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-ethena-reach-1pt20-by-december
 
 ### What are the current odds for "Will Ethena reach $1.20 by December 31, 2026?"?
 
-As of May 15, 2026, Polymarket prices YES at 7.0%.
+As of May 15, 2026, Polymarket prices YES at 7.7%.
 
 ### Where can I trade on this prediction market?
 

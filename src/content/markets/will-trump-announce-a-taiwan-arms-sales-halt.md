@@ -1,23 +1,23 @@
 ---
-title: "Will G2 Esports qualify to MSI 2026?"
-description: "Will G2 Esports qualify to MSI 2026? Odds: 87.0% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will G2 Esports qualify to MSI 2026?"
+title: "Will Trump announce a Taiwan arms sales halt?"
+description: "Will Trump announce a Taiwan arms sales halt? Odds: 2.9% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Trump announce a Taiwan arms sales halt?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-05-15
-expiryDate: 2026-07-12
-tags: ["politics", "polymarket"]
-polymarketYes: 87.0
-polymarketNo: 13.0
-polymarketVolume: 9790
-polymarketUrl: "https://polymarket.com/event/will-g2-esports-qualify-to-msi-2026"
+expiryDate: 2026-05-22
+tags: ["ai", "politics", "polymarket", "trump"]
+polymarketYes: 2.9
+polymarketNo: 97.1
+polymarketVolume: 9996
+polymarketUrl: "https://polymarket.com/event/will-trump-announce-a-taiwan-arms-sales-halt-385-157-952"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 87.0% | 13.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 2.9% | 97.1% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-g2-esports-qualify-to-msi-2026
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will G2 Esports qualify to MSI 2026?"?
+### What are the current odds for "Will Trump announce a Taiwan arms sales halt?"?
 
-As of May 15, 2026, Polymarket prices YES at 87.0%.
+As of May 15, 2026, Polymarket prices YES at 2.9%.
 
 ### Where can I trade on this prediction market?
 
@@ -37,6 +37,6 @@ You can trade this market on [Polymarket](https://polymarket.us/1762?utm_source=
 
 ## Learn More
 
+- [Will Oil Hit $100? March Crude Prediction Market Odds](/blog/will-oil-hit-100-march-crude-prediction-market-odds)
 - [Will ETH Hit $4,500 in 2026? Live Market Odds](/blog/will-ethereum-reach-4500-in-2026-what-prediction-markets-say)
-- [Will Discord IPO in 2026? What Prediction Markets Say](/blog/will-discord-ipo-in-2026-what-prediction-markets-say)
 

@@ -9,7 +9,7 @@ expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
 polymarketYes: 7.5
 polymarketNo: 92.5
-polymarketVolume: 9884
+polymarketVolume: 9910
 polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-co-01-house-seat"
 ---
 

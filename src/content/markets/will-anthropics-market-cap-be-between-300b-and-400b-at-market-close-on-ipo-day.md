@@ -9,7 +9,7 @@ expiryDate: 2026-06-30
 tags: ["finance", "polymarket"]
 polymarketYes: 0.2
 polymarketNo: 99.8
-polymarketVolume: 98598
+polymarketVolume: 98823
 polymarketUrl: "https://polymarket.com/event/will-anthropics-market-cap-be-between-300b-and-400b-at-market-close-on-ipo-day"
 ---
 

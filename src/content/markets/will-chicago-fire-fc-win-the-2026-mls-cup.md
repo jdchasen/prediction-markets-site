@@ -9,7 +9,7 @@ expiryDate: 2026-12-19
 tags: ["politics", "polymarket"]
 polymarketYes: 1.7
 polymarketNo: 98.4
-polymarketVolume: 98700
+polymarketVolume: 98835
 polymarketUrl: "https://polymarket.com/event/will-chicago-fire-fc-win-the-2026-mls-cup"
 ---
 

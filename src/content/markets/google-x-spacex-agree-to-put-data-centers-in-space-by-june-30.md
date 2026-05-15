@@ -3,7 +3,7 @@ title: "Google x SpaceX agree to put data centers in space by June 30?"
 description: "Google x SpaceX agree to put data centers in space by June 30? Odds: 20.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Google x SpaceX agree to put data centers in space by June 30?"
 category: "tech"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-15
 expiryDate: 2026-06-30
 tags: ["polymarket", "tech"]

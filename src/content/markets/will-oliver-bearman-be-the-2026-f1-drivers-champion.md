@@ -9,7 +9,7 @@ expiryDate: 2026-12-06
 tags: ["polymarket", "sports"]
 polymarketYes: 0.1
 polymarketNo: 99.9
-polymarketVolume: 9813376
+polymarketVolume: 9872598
 polymarketUrl: "https://polymarket.com/event/will-oliver-bearman-be-the-2026-f1-drivers-champion"
 ---
 
@@ -17,13 +17,13 @@ polymarketUrl: "https://polymarket.com/event/will-oliver-bearman-be-the-2026-f1-
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.1% | 99.9% | $9.8M | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.1% | 99.9% | $9.9M | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Arvid Lindblad be the 2026 F1 Drivers' Champion?](/odds/will-arvid-lindblad-be-the-2026-f1-drivers-champion) — 0% YES
+- [Will the Carolina Hurricanes win the 2026 NHL Stanley Cup?](/odds/will-the-carolina-hurricanes-win-the-2026-nhl-stanley-cup) — 38% YES
 - [Will LeBron James retire before next NBA season?](/odds/will-lebron-james-retire-before-next-nba-season) — 14% YES
-- [Will West Ham be relegated from the English Premier League after the 2025–26 season?](/odds/will-west-ham-be-relegated-from-the-english-premier-league-after-the-202526-seas) — 34% YES
 
 ## Frequently Asked Questions
 

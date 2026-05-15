@@ -9,7 +9,7 @@ expiryDate: 2028-11-07
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 38.5
 polymarketNo: 61.5
-polymarketVolume: 991309
+polymarketVolume: 991318
 polymarketUrl: "https://polymarket.com/event/will-the-republicans-win-the-2028-us-presidential-election"
 ---
 

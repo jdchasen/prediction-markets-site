@@ -9,7 +9,7 @@ expiryDate: 2026-06-30
 tags: ["politics", "polymarket", "trump"]
 polymarketYes: 0.4
 polymarketNo: 99.6
-polymarketVolume: 981953
+polymarketVolume: 982001
 polymarketUrl: "https://polymarket.com/event/will-trump-and-putin-meet-next-in-another-european-country-954-837-364"
 ---
 

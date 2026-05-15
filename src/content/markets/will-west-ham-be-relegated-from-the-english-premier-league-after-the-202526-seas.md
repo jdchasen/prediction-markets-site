@@ -23,7 +23,7 @@ polymarketUrl: "https://polymarket.com/event/will-west-ham-be-relegated-from-the
 
 - [Will Arvid Lindblad be the 2026 F1 Drivers' Champion?](/odds/will-arvid-lindblad-be-the-2026-f1-drivers-champion) — 0% YES
 - [Will Oliver Bearman be the 2026 F1 Drivers' Champion?](/odds/will-oliver-bearman-be-the-2026-f1-drivers-champion) — 0% YES
-- [Will LeBron James retire before next NBA season?](/odds/will-lebron-james-retire-before-next-nba-season) — 14% YES
+- [Will the Carolina Hurricanes win the 2026 NHL Stanley Cup?](/odds/will-the-carolina-hurricanes-win-the-2026-nhl-stanley-cup) — 38% YES
 
 ## Frequently Asked Questions
 

@@ -1,15 +1,15 @@
 ---
 title: "Ukraine agrees not to join NATO before 2027? "
-description: "Ukraine agrees not to join NATO before 2027?  Odds: 22.5% YES on Polymarket. See live prices and trade this market."
+description: "Ukraine agrees not to join NATO before 2027?  Odds: 18.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Ukraine agrees not to join NATO before 2027? "
 category: "politics"
 status: "active"
 lastUpdated: 2026-05-15
 expiryDate: 2026-12-31
 tags: ["ai", "politics", "polymarket"]
-polymarketYes: 22.5
-polymarketNo: 77.5
-polymarketVolume: 99497
+polymarketYes: 18.0
+polymarketNo: 82.0
+polymarketVolume: 99647
 polymarketUrl: "https://polymarket.com/event/ukraine-agrees-not-to-join-nato-before-2027"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/ukraine-agrees-not-to-join-nato-bef
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 22.5% | 77.5% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 18.0% | 82.0% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/ukraine-agrees-not-to-join-nato-bef
 
 ### What are the current odds for "Ukraine agrees not to join NATO before 2027? "?
 
-As of May 15, 2026, Polymarket prices YES at 22.5%.
+As of May 15, 2026, Polymarket prices YES at 18.0%.
 
 ### Where can I trade on this prediction market?
 

@@ -1,14 +1,14 @@
 ---
 title: "Will D.C. United win the 2026 MLS Cup?"
-description: "Will D.C. United win the 2026 MLS Cup? Odds: 1.4% YES on Polymarket. See live prices and trade this market."
+description: "Will D.C. United win the 2026 MLS Cup? Odds: 1.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will D.C. United win the 2026 MLS Cup?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-05-15
 expiryDate: 2026-12-19
 tags: ["politics", "polymarket"]
-polymarketYes: 1.4
-polymarketNo: 98.6
+polymarketYes: 1.1
+polymarketNo: 98.9
 polymarketVolume: 9884
 polymarketUrl: "https://polymarket.com/event/will-dc-united-win-the-2026-mls-cup"
 ---
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-dc-united-win-the-2026-mls-cup
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 1.4% | 98.6% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 1.1% | 98.9% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-dc-united-win-the-2026-mls-cup
 
 ### What are the current odds for "Will D.C. United win the 2026 MLS Cup?"?
 
-As of May 15, 2026, Polymarket prices YES at 1.4%.
+As of May 15, 2026, Polymarket prices YES at 1.1%.
 
 ### Where can I trade on this prediction market?
 

@@ -1,15 +1,15 @@
 ---
 title: "Will US withdraw from NATO before 2027?"
-description: "Will US withdraw from NATO before 2027? Odds: 7.9% YES on Polymarket. See live prices and trade this market."
+description: "Will US withdraw from NATO before 2027? Odds: 8.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will US withdraw from NATO before 2027?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-05-15
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 7.9
-polymarketNo: 92.1
-polymarketVolume: 985932
+polymarketYes: 8.0
+polymarketNo: 92.0
+polymarketVolume: 986008
 polymarketUrl: "https://polymarket.com/event/will-us-withdraw-from-nato-before-2027-348-975-598-224-737"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-us-withdraw-from-nato-before-2
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 7.9% | 92.1% | $986K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 8.0% | 92.0% | $986K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-us-withdraw-from-nato-before-2
 
 ### What are the current odds for "Will US withdraw from NATO before 2027?"?
 
-As of May 15, 2026, Polymarket prices YES at 7.9%.
+As of May 15, 2026, Polymarket prices YES at 8.0%.
 
 ### Where can I trade on this prediction market?
 

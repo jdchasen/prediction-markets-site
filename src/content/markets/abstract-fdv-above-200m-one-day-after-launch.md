@@ -1,14 +1,14 @@
 ---
 title: "Abstract FDV above $200M one day after launch?"
-description: "Abstract FDV above $200M one day after launch? Odds: 76.0% YES on Polymarket. See live prices and trade this market."
+description: "Abstract FDV above $200M one day after launch? Odds: 75.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Abstract FDV above $200M one day after launch?"
 category: "crypto"
 status: "active"
 lastUpdated: 2026-05-15
 expiryDate: 2028-01-01
 tags: ["crypto", "polymarket"]
-polymarketYes: 76.0
-polymarketNo: 24.0
+polymarketYes: 75.5
+polymarketNo: 24.5
 polymarketVolume: 99784
 polymarketUrl: "https://polymarket.com/event/abstract-fdv-above-200m-one-day-after-launch"
 ---
@@ -17,19 +17,17 @@ polymarketUrl: "https://polymarket.com/event/abstract-fdv-above-200m-one-day-aft
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 76.0% | 24.0% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 75.5% | 24.5% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Solstice FDV above $200M one day after launch?](/odds/solstice-fdv-above-200m-one-day-after-launch) — 31% YES
-- [Variational FDV above $4B one day after launch?](/odds/variational-fdv-above-4b-one-day-after-launch) — 2% YES
-- [Will the price of Bitcoin be above $78,000 on May 18?](/odds/will-the-price-of-bitcoin-be-above-78000-on-may-18) — 82% YES
+- [Variational FDV above $4B one day after launch?](/odds/variational-fdv-above-4b-one-day-after-launch) — 1% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Abstract FDV above $200M one day after launch?"?
 
-As of May 15, 2026, Polymarket prices YES at 76.0%.
+As of May 15, 2026, Polymarket prices YES at 75.5%.
 
 ### Where can I trade on this prediction market?
 

@@ -1,23 +1,23 @@
 ---
-title: "Will G2 Esports qualify to MSI 2026?"
-description: "Will G2 Esports qualify to MSI 2026? Odds: 87.0% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will G2 Esports qualify to MSI 2026?"
+title: "Will Amazon have the second best AI model at the end of May 2026?"
+description: "Will Amazon have the second best AI model at the end of May 2026? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Amazon have the second best AI model at the end of May 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-05-15
-expiryDate: 2026-07-12
-tags: ["politics", "polymarket"]
-polymarketYes: 87.0
-polymarketNo: 13.0
-polymarketVolume: 9790
-polymarketUrl: "https://polymarket.com/event/will-g2-esports-qualify-to-msi-2026"
+expiryDate: 2026-05-31
+tags: ["ai", "politics", "polymarket"]
+polymarketYes: 0.1
+polymarketNo: 99.9
+polymarketVolume: 9831
+polymarketUrl: "https://polymarket.com/event/will-amazon-have-the-second-best-ai-model-at-the-end-of-may-2026"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 87.0% | 13.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.1% | 99.9% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-g2-esports-qualify-to-msi-2026
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will G2 Esports qualify to MSI 2026?"?
+### What are the current odds for "Will Amazon have the second best AI model at the end of May 2026?"?
 
-As of May 15, 2026, Polymarket prices YES at 87.0%.
+As of May 15, 2026, Polymarket prices YES at 0.1%.
 
 ### Where can I trade on this prediction market?
 

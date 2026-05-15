@@ -3,7 +3,7 @@ title: "Will Hyperliquid reach $48 in May?"
 description: "Will Hyperliquid reach $48 in May? Odds: 61.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Hyperliquid reach $48 in May?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-15
 expiryDate: 2026-06-01
 tags: ["politics", "polymarket"]

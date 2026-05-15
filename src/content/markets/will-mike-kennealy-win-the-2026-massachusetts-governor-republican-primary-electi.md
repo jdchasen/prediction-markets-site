@@ -3,7 +3,7 @@ title: "Will Mike Kennealy win the 2026 Massachusetts Governor Republican primar
 description: "Will Mike Kennealy win the 2026 Massachusetts Governor Republican primary election? Odds: 0.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Mike Kennealy win the 2026 Massachusetts Governor Republican primary election?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-15
 expiryDate: 2026-09-01
 tags: ["elections", "politics", "polymarket"]

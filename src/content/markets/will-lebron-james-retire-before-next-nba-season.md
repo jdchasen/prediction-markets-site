@@ -9,7 +9,7 @@ expiryDate: 2026-10-21
 tags: ["polymarket", "sports"]
 polymarketYes: 13.5
 polymarketNo: 86.5
-polymarketVolume: 99532
+polymarketVolume: 99671
 polymarketUrl: "https://polymarket.com/event/will-lebron-james-retire-before-next-nba-season"
 ---
 
@@ -23,7 +23,7 @@ polymarketUrl: "https://polymarket.com/event/will-lebron-james-retire-before-nex
 
 - [Will Arvid Lindblad be the 2026 F1 Drivers' Champion?](/odds/will-arvid-lindblad-be-the-2026-f1-drivers-champion) — 0% YES
 - [Will Oliver Bearman be the 2026 F1 Drivers' Champion?](/odds/will-oliver-bearman-be-the-2026-f1-drivers-champion) — 0% YES
-- [Will West Ham be relegated from the English Premier League after the 2025–26 season?](/odds/will-west-ham-be-relegated-from-the-english-premier-league-after-the-202526-seas) — 34% YES
+- [Will the Carolina Hurricanes win the 2026 NHL Stanley Cup?](/odds/will-the-carolina-hurricanes-win-the-2026-nhl-stanley-cup) — 38% YES
 
 ## Frequently Asked Questions
 

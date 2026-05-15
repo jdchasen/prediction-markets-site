@@ -3,7 +3,7 @@ title: "Will Sebastian Burduja be the next Prime Minister of Romania?"
 description: "Will Sebastian Burduja be the next Prime Minister of Romania? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Sebastian Burduja be the next Prime Minister of Romania?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-15
 expiryDate: 2026-05-31
 tags: ["politics", "polymarket"]

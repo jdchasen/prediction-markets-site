@@ -1,23 +1,23 @@
 ---
-title: "Will \"Michael\" be the April film with the highest domestic gross on May 31?"
-description: "Will \"Michael\" be the April film with the highest domestic gross on May 31? Odds: 0.6% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will \"Michael\" be the April film with the highest domestic gross on May 31?"
+title: "Will Jared Moskowitz be the Democratic Nominee for FL-23?"
+description: "Will Jared Moskowitz be the Democratic Nominee for FL-23? Odds: 40.0% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Jared Moskowitz be the Democratic Nominee for FL-23?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-05-15
-expiryDate: 2026-05-31
+expiryDate: 2026-08-18
 tags: ["politics", "polymarket"]
-polymarketYes: 0.6
-polymarketNo: 99.4
-polymarketVolume: 99465
-polymarketUrl: "https://polymarket.com/event/will-michael-be-the-april-film-with-the-highest-domestic-gross-on-may-31"
+polymarketYes: 40.0
+polymarketNo: 60.0
+polymarketVolume: 9829
+polymarketUrl: "https://polymarket.com/event/will-jared-moskowitz-be-the-democratic-nominee-for-fl-23"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.6% | 99.4% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 40.0% | 60.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-michael-be-the-april-film-with
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will "Michael" be the April film with the highest domestic gross on May 31?"?
+### What are the current odds for "Will Jared Moskowitz be the Democratic Nominee for FL-23?"?
 
-As of May 15, 2026, Polymarket prices YES at 0.6%.
+As of May 15, 2026, Polymarket prices YES at 40.0%.
 
 ### Where can I trade on this prediction market?
 
@@ -37,6 +37,6 @@ You can trade this market on [Polymarket](https://polymarket.us/1762?utm_source=
 
 ## Learn More
 
-- [Fed April Rate Decision Odds: Will the Fed Hold?](/blog/fed-april-rate-decision-odds-will-the-fed-hold)
+- [2028 Democratic Nominee Odds: Market Analysis](/blog/2028-democratic-nominee-odds-market-analysis)
 - [Will Oil Hit $100? March Crude Prediction Market Odds](/blog/will-oil-hit-100-march-crude-prediction-market-odds)
 

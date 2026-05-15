@@ -1,15 +1,15 @@
 ---
 title: "Will Silver (SI) hit (HIGH) $120 by end of June?"
-description: "Will Silver (SI) hit (HIGH) $120 by end of June? Odds: 8.8% YES on Polymarket. See live prices and trade this market."
+description: "Will Silver (SI) hit (HIGH) $120 by end of June? Odds: 6.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Silver (SI) hit (HIGH) $120 by end of June?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-05-15
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
-polymarketYes: 8.8
-polymarketNo: 91.2
-polymarketVolume: 989350
+polymarketYes: 6.7
+polymarketNo: 93.3
+polymarketVolume: 989817
 polymarketUrl: "https://polymarket.com/event/will-silver-si-hit-high-120-by-end-of-june"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-silver-si-hit-high-120-by-end-
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 8.8% | 91.2% | $989K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 6.7% | 93.3% | $990K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-silver-si-hit-high-120-by-end-
 
 ### What are the current odds for "Will Silver (SI) hit (HIGH) $120 by end of June?"?
 
-As of May 15, 2026, Polymarket prices YES at 8.8%.
+As of May 15, 2026, Polymarket prices YES at 6.7%.
 
 ### Where can I trade on this prediction market?
 

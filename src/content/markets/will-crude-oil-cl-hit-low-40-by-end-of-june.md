@@ -9,7 +9,7 @@ expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
 polymarketYes: 1.1
 polymarketNo: 99.0
-polymarketVolume: 98260
+polymarketVolume: 98261
 polymarketUrl: "https://polymarket.com/event/will-crude-oil-cl-hit-low-40-by-end-of-june"
 ---
 

@@ -3,7 +3,7 @@ title: "Will Prosperous Armenia win the most seats in the 2026 Armenian National
 description: "Will Prosperous Armenia win the most seats in the 2026 Armenian National Assembly election? Odds: 0.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Prosperous Armenia win the most seats in the 2026 Armenian National Assembly election?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-15
 expiryDate: 2026-06-07
 tags: ["elections", "politics", "polymarket"]

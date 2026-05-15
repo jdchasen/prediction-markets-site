@@ -1,15 +1,15 @@
 ---
 title: "Will Renan Santos finish in second place in the first round of the 2026 Brazilian presidential election?"
-description: "Will Renan Santos finish in second place in the first round of the 2026 Brazilian presidential election? Odds: 5.9% YES on Polymarket. See live prices and tr..."
+description: "Will Renan Santos finish in second place in the first round of the 2026 Brazilian presidential election? Odds: 6.3% YES on Polymarket. See live prices and tr..."
 marketQuestion: "Will Renan Santos finish in second place in the first round of the 2026 Brazilian presidential election?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-05-15
 expiryDate: 2026-10-04
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 5.9
-polymarketNo: 94.0
-polymarketVolume: 994299
+polymarketYes: 6.3
+polymarketNo: 93.7
+polymarketVolume: 994550
 polymarketUrl: "https://polymarket.com/event/will-renan-santos-finish-in-second-place-in-the-first-round-of-the-2026-brazilian-presidential-election"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-renan-santos-finish-in-second-
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 5.9% | 94.0% | $994K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 6.3% | 93.7% | $995K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-renan-santos-finish-in-second-
 
 ### What are the current odds for "Will Renan Santos finish in second place in the first round of the 2026 Brazilian presidential election?"?
 
-As of May 15, 2026, Polymarket prices YES at 5.9%.
+As of May 15, 2026, Polymarket prices YES at 6.3%.
 
 ### Where can I trade on this prediction market?
 
