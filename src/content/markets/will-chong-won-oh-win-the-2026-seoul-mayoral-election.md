@@ -3,8 +3,8 @@ title: "Will Chong Won-oh win the 2026 Seoul Mayoral Election"
 description: "Will Chong Won-oh win the 2026 Seoul Mayoral Election Odds: 72.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Chong Won-oh win the 2026 Seoul Mayoral Election"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-14
+status: "settled"
+lastUpdated: 2026-05-15
 expiryDate: 2026-06-03
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 72.5

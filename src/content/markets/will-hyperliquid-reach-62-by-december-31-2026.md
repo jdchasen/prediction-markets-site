@@ -1,23 +1,23 @@
 ---
-title: "Will Pakistan send warships through the Strait of Hormuz by May 31, 2026?"
-description: "Will Pakistan send warships through the Strait of Hormuz by May 31, 2026? Odds: 0.4% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Pakistan send warships through the Strait of Hormuz by May 31, 2026?"
+title: "Will Hyperliquid reach $62 by December 31, 2026?"
+description: "Will Hyperliquid reach $62 by December 31, 2026? Odds: 41.0% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Hyperliquid reach $62 by December 31, 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-05-15
-expiryDate: 2026-05-31
-tags: ["ai", "politics", "polymarket"]
-polymarketYes: 0.4
-polymarketNo: 99.6
-polymarketVolume: 9956
-polymarketUrl: "https://polymarket.com/event/will-pakistan-send-warships-through-the-strait-of-hormuz-by-may-31-2026"
+expiryDate: 2027-01-01
+tags: ["politics", "polymarket"]
+polymarketYes: 41.0
+polymarketNo: 59.0
+polymarketVolume: 9821
+polymarketUrl: "https://polymarket.com/event/will-hyperliquid-reach-62-by-december-31-2026"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.4% | 99.6% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 41.0% | 59.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-pakistan-send-warships-through
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Pakistan send warships through the Strait of Hormuz by May 31, 2026?"?
+### What are the current odds for "Will Hyperliquid reach $62 by December 31, 2026?"?
 
-As of May 15, 2026, Polymarket prices YES at 0.4%.
+As of May 15, 2026, Polymarket prices YES at 41.0%.
 
 ### Where can I trade on this prediction market?
 

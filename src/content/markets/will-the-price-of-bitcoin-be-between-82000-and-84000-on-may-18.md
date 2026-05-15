@@ -3,8 +3,8 @@ title: "Will the price of Bitcoin be between $82,000 and $84,000 on May 18?"
 description: "Will the price of Bitcoin be between $82,000 and $84,000 on May 18? Odds: 27.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the price of Bitcoin be between $82,000 and $84,000 on May 18?"
 category: "crypto"
-status: "active"
-lastUpdated: 2026-05-14
+status: "settled"
+lastUpdated: 2026-05-15
 expiryDate: 2026-05-18
 tags: ["bitcoin", "crypto", "polymarket"]
 polymarketYes: 27.0

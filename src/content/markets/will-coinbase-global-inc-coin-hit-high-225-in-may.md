@@ -3,8 +3,8 @@ title: "Will Coinbase Global, Inc. (COIN) hit (HIGH) $225 in May?"
 description: "Will Coinbase Global, Inc. (COIN) hit (HIGH) $225 in May? Odds: 67.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Coinbase Global, Inc. (COIN) hit (HIGH) $225 in May?"
 category: "crypto"
-status: "active"
-lastUpdated: 2026-05-14
+status: "settled"
+lastUpdated: 2026-05-15
 expiryDate: 2026-06-01
 tags: ["crypto", "polymarket", "sports"]
 polymarketYes: 67.0

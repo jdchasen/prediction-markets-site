@@ -4,12 +4,12 @@ description: "Will Arvid Lindblad be the 2026 F1 Drivers' Champion? Odds: 0.4% Y
 marketQuestion: "Will Arvid Lindblad be the 2026 F1 Drivers' Champion?"
 category: "sports"
 status: "active"
-lastUpdated: 2026-05-14
+lastUpdated: 2026-05-15
 expiryDate: 2026-12-06
 tags: ["polymarket", "sports"]
 polymarketYes: 0.4
 polymarketNo: 99.7
-polymarketVolume: 9877511
+polymarketVolume: 9924660
 polymarketUrl: "https://polymarket.com/event/will-arvid-lindblad-be-the-2026-f1-drivers-champion"
 ---
 
@@ -22,14 +22,14 @@ polymarketUrl: "https://polymarket.com/event/will-arvid-lindblad-be-the-2026-f1-
 ## Related Markets
 
 - [Will Oliver Bearman be the 2026 F1 Drivers' Champion?](/odds/will-oliver-bearman-be-the-2026-f1-drivers-champion) — 0% YES
+- [Will LeBron James retire before next NBA season?](/odds/will-lebron-james-retire-before-next-nba-season) — 14% YES
 - [Will West Ham be relegated from the English Premier League after the 2025–26 season?](/odds/will-west-ham-be-relegated-from-the-english-premier-league-after-the-202526-seas) — 34% YES
-- [Will Houston Texans win the 2027 NFL AFC Championship?](/odds/will-houston-texans-win-the-2027-nfl-afc-championship) — 10% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Arvid Lindblad be the 2026 F1 Drivers' Champion?"?
 
-As of May 14, 2026, Polymarket prices YES at 0.4%.
+As of May 15, 2026, Polymarket prices YES at 0.4%.
 
 ### Where can I trade on this prediction market?
 

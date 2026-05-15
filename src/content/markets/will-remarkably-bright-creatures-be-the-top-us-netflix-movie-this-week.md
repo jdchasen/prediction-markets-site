@@ -1,23 +1,23 @@
 ---
-title: "Will Silver (SI) hit (HIGH) $120 by end of June?"
-description: "Will Silver (SI) hit (HIGH) $120 by end of June? Odds: 8.8% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Silver (SI) hit (HIGH) $120 by end of June?"
+title: "Will \"Remarkably Bright Creatures\" be the top US Netflix movie this week?"
+description: "Will \"Remarkably Bright Creatures\" be the top US Netflix movie this week? Odds: 8.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will \"Remarkably Bright Creatures\" be the top US Netflix movie this week?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-05-15
-expiryDate: 2026-06-30
+expiryDate: 2026-05-19
 tags: ["politics", "polymarket"]
-polymarketYes: 8.8
-polymarketNo: 91.2
-polymarketVolume: 989350
-polymarketUrl: "https://polymarket.com/event/will-silver-si-hit-high-120-by-end-of-june"
+polymarketYes: 8.5
+polymarketNo: 91.5
+polymarketVolume: 9785
+polymarketUrl: "https://polymarket.com/event/will-remarkably-bright-creatures-be-the-top-us-netflix-movie-this-week-763"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 8.8% | 91.2% | $989K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 8.5% | 91.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-silver-si-hit-high-120-by-end-
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Silver (SI) hit (HIGH) $120 by end of June?"?
+### What are the current odds for "Will "Remarkably Bright Creatures" be the top US Netflix movie this week?"?
 
-As of May 15, 2026, Polymarket prices YES at 8.8%.
+As of May 15, 2026, Polymarket prices YES at 8.5%.
 
 ### Where can I trade on this prediction market?
 

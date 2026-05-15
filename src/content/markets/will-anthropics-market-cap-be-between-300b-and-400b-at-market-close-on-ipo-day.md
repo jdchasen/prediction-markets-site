@@ -1,15 +1,15 @@
 ---
 title: "Will Anthropic’s market cap be between $300B and $400B at market close on IPO day?"
-description: "Will Anthropic’s market cap be between $300B and $400B at market close on IPO day? Odds: 0.4% YES on Polymarket. See live prices and trade this market."
+description: "Will Anthropic’s market cap be between $300B and $400B at market close on IPO day? Odds: 0.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Anthropic’s market cap be between $300B and $400B at market close on IPO day?"
 category: "finance"
 status: "active"
-lastUpdated: 2026-05-14
+lastUpdated: 2026-05-15
 expiryDate: 2026-06-30
 tags: ["finance", "polymarket"]
-polymarketYes: 0.4
-polymarketNo: 99.6
-polymarketVolume: 98261
+polymarketYes: 0.2
+polymarketNo: 99.8
+polymarketVolume: 98598
 polymarketUrl: "https://polymarket.com/event/will-anthropics-market-cap-be-between-300b-and-400b-at-market-close-on-ipo-day"
 ---
 
@@ -17,19 +17,18 @@ polymarketUrl: "https://polymarket.com/event/will-anthropics-market-cap-be-betwe
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.4% | 99.6% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.2% | 99.8% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will SpaceX's market cap be between $2.0T and $2.5T at market close on IPO day?](/odds/will-spacexs-market-cap-be-between-20t-and-25t-at-market-close-on-ipo-day) — 30% YES
 - [Will ByteDance have the highest IPO Market Cap 2026?](/odds/will-bytedance-have-the-highest-ipo-market-cap-2026) — 0% YES
-- [SpaceX IPO closing market cap above $1.4T?](/odds/spacex-ipo-closing-market-cap-above-14t) — 92% YES
+- [Will S&P 500 (SPY) hit (LOW) $680 in May?](/odds/will-sp-500-spy-hit-low-680-in-may) — 6% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Anthropic’s market cap be between $300B and $400B at market close on IPO day?"?
 
-As of May 14, 2026, Polymarket prices YES at 0.4%.
+As of May 15, 2026, Polymarket prices YES at 0.2%.
 
 ### Where can I trade on this prediction market?
 

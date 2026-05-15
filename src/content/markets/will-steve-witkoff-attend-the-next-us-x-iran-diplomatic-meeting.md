@@ -3,8 +3,8 @@ title: "Will Steve Witkoff attend the next US x Iran diplomatic meeting?"
 description: "Will Steve Witkoff attend the next US x Iran diplomatic meeting? Odds: 56.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Steve Witkoff attend the next US x Iran diplomatic meeting?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-14
+status: "settled"
+lastUpdated: 2026-05-15
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
 polymarketYes: 56.0

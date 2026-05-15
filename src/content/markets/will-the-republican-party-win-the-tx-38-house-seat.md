@@ -4,7 +4,7 @@ description: "Will the Republican Party win the TX-38 House seat? Odds: 81.5% YE
 marketQuestion: "Will the Republican Party win the TX-38 House seat?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-14
+lastUpdated: 2026-05-15
 expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
 polymarketYes: 81.5
@@ -23,13 +23,13 @@ polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-t
 
 - [Will the US acquire part of Greenland in 2026?](/odds/will-the-us-acquire-part-of-greenland-in-2026) — 14% YES
 - [Will Marco Rubio win the 2028 US Presidential Election?](/odds/will-marco-rubio-win-the-2028-us-presidential-election) — 14% YES
-- [Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?](/odds/will-amanda-anisimova-be-the-2026-womens-wimbledon-winner) — 6% YES
+- [Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?](/odds/will-amanda-anisimova-be-the-2026-womens-wimbledon-winner) — 8% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will the Republican Party win the TX-38 House seat?"?
 
-As of May 14, 2026, Polymarket prices YES at 81.5%.
+As of May 15, 2026, Polymarket prices YES at 81.5%.
 
 ### Where can I trade on this prediction market?
 

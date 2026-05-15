@@ -3,8 +3,8 @@ title: "Will the Colorado Rockies win the 2026 World Series?"
 description: "Will the Colorado Rockies win the 2026 World Series? Odds: 0.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Colorado Rockies win the 2026 World Series?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-14
+status: "settled"
+lastUpdated: 2026-05-15
 expiryDate: 2026-10-31
 tags: ["politics", "polymarket"]
 polymarketYes: 0.7

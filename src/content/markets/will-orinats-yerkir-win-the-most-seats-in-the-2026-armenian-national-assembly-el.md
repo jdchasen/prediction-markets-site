@@ -3,8 +3,8 @@ title: "Will Orinats Yerkir win the most seats in the 2026 Armenian National Ass
 description: "Will Orinats Yerkir win the most seats in the 2026 Armenian National Assembly election? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Orinats Yerkir win the most seats in the 2026 Armenian National Assembly election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-14
+status: "settled"
+lastUpdated: 2026-05-15
 expiryDate: 2026-06-07
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.1

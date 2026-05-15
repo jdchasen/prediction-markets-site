@@ -1,15 +1,15 @@
 ---
 title: "Solstice FDV above $200M one day after launch?"
-description: "Solstice FDV above $200M one day after launch? Odds: 31.2% YES on Polymarket. See live prices and trade this market."
+description: "Solstice FDV above $200M one day after launch? Odds: 31.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Solstice FDV above $200M one day after launch?"
 category: "crypto"
 status: "active"
-lastUpdated: 2026-05-14
+lastUpdated: 2026-05-15
 expiryDate: 2027-01-01
 tags: ["crypto", "polymarket"]
-polymarketYes: 31.2
-polymarketNo: 68.8
-polymarketVolume: 97633
+polymarketYes: 31.0
+polymarketNo: 69.0
+polymarketVolume: 99996
 polymarketUrl: "https://polymarket.com/event/solstice-fdv-above-200m-one-day-after-launch"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/solstice-fdv-above-200m-one-day-aft
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 31.2% | 68.8% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 31.0% | 69.0% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Abstract FDV above $200M one day after launch?](/odds/abstract-fdv-above-200m-one-day-after-launch) — 77% YES
-- [Variational FDV above $4B one day after launch?](/odds/variational-fdv-above-4b-one-day-after-launch) — 1% YES
-- [Will Coinbase Global, Inc. (COIN) hit (HIGH) $225 in May?](/odds/will-coinbase-global-inc-coin-hit-high-225-in-may) — 67% YES
+- [Abstract FDV above $200M one day after launch?](/odds/abstract-fdv-above-200m-one-day-after-launch) — 76% YES
+- [Variational FDV above $4B one day after launch?](/odds/variational-fdv-above-4b-one-day-after-launch) — 2% YES
+- [Will the price of Bitcoin be above $78,000 on May 18?](/odds/will-the-price-of-bitcoin-be-above-78000-on-may-18) — 82% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Solstice FDV above $200M one day after launch?"?
 
-As of May 14, 2026, Polymarket prices YES at 31.2%.
+As of May 15, 2026, Polymarket prices YES at 31.0%.
 
 ### Where can I trade on this prediction market?
 

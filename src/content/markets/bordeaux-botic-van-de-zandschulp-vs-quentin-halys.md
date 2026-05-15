@@ -3,8 +3,8 @@ title: "Bordeaux: Botic van de Zandschulp vs Quentin Halys"
 description: "Bordeaux: Botic van de Zandschulp vs Quentin Halys Odds: 8.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Bordeaux: Botic van de Zandschulp vs Quentin Halys"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-14
+status: "settled"
+lastUpdated: 2026-05-15
 expiryDate: 2026-05-21
 tags: ["politics", "polymarket"]
 polymarketYes: 8.0
