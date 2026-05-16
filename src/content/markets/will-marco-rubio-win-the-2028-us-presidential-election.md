@@ -9,7 +9,7 @@ expiryDate: 2028-11-07
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 14.2
 polymarketNo: 85.8
-polymarketVolume: 9841212
+polymarketVolume: 9844405
 polymarketUrl: "https://polymarket.com/event/will-marco-rubio-win-the-2028-us-presidential-election"
 ---
 
@@ -22,8 +22,8 @@ polymarketUrl: "https://polymarket.com/event/will-marco-rubio-win-the-2028-us-pr
 ## Related Markets
 
 - [Will the US acquire part of Greenland in 2026?](/odds/will-the-us-acquire-part-of-greenland-in-2026) — 14% YES
-- [Will Marisol Pérez Tello win the 2026 Peruvian presidential election?](/odds/will-marisol-prez-tello-win-the-2026-peruvian-presidential-election) — 0% YES
-- [Will Ivan Cepeda Castro win the 2026 Colombian presidential election?](/odds/will-ivan-cepeda-castro-win-the-2026-colombian-presidential-election) — 42% YES
+- [Will Eleni Kounalakis win the California Governor Election in 2026?](/odds/will-eleni-kounalakis-win-the-california-governor-election-in-2026) — 0% YES
+- [Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?](/odds/will-amanda-anisimova-be-the-2026-womens-wimbledon-winner) — 8% YES
 
 ## Frequently Asked Questions
 

@@ -3,7 +3,7 @@ title: "Will the price of Bitcoin be above $72,000 on May 20?"
 description: "Will the price of Bitcoin be above $72,000 on May 20? Odds: 96.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the price of Bitcoin be above $72,000 on May 20?"
 category: "crypto"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-16
 expiryDate: 2026-05-20
 tags: ["bitcoin", "crypto", "polymarket"]

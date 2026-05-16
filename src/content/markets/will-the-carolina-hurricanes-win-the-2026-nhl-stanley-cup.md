@@ -9,7 +9,7 @@ expiryDate: 2026-06-30
 tags: ["polymarket", "sports"]
 polymarketYes: 37.5
 polymarketNo: 62.5
-polymarketVolume: 980703
+polymarketVolume: 981569
 polymarketUrl: "https://polymarket.com/event/will-the-carolina-hurricanes-win-the-2026-nhl-stanley-cup"
 ---
 
@@ -17,13 +17,13 @@ polymarketUrl: "https://polymarket.com/event/will-the-carolina-hurricanes-win-th
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 37.5% | 62.5% | $981K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 37.5% | 62.5% | $982K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Arvid Lindblad be the 2026 F1 Drivers' Champion?](/odds/will-arvid-lindblad-be-the-2026-f1-drivers-champion) — 0% YES
 - [Will Oliver Bearman be the 2026 F1 Drivers' Champion?](/odds/will-oliver-bearman-be-the-2026-f1-drivers-champion) — 0% YES
-- [Will Neymar play in the 2026 FIFA World Cup?](/odds/will-neymar-play-in-the-2026-fifa-world-cup) — 79% YES
+- [Will Alexander Albon be the 2026 F1 Drivers' Champion?](/odds/will-alexander-albon-be-the-2026-f1-drivers-champion) — 0% YES
 
 ## Frequently Asked Questions
 

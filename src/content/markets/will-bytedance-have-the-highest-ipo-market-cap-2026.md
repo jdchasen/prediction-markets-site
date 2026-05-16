@@ -9,7 +9,7 @@ expiryDate: 2026-12-31
 tags: ["finance", "polymarket"]
 polymarketYes: 0.1
 polymarketNo: 99.9
-polymarketVolume: 98749
+polymarketVolume: 98864
 polymarketUrl: "https://polymarket.com/event/will-bytedance-have-the-highest-ipo-market-cap-2026-727"
 ---
 
@@ -22,6 +22,7 @@ polymarketUrl: "https://polymarket.com/event/will-bytedance-have-the-highest-ipo
 ## Related Markets
 
 - [Will Anthropic’s market cap be between $300B and $400B at market close on IPO day?](/odds/will-anthropics-market-cap-be-between-300b-and-400b-at-market-close-on-ipo-day) — 0% YES
+- [SpaceX IPO closing market cap above $1.4T?](/odds/spacex-ipo-closing-market-cap-above-14t) — 92% YES
 - [Will S&P 500 (SPY) hit (LOW) $680 in May?](/odds/will-sp-500-spy-hit-low-680-in-may) — 6% YES
 
 ## Frequently Asked Questions

@@ -3,7 +3,7 @@ title: "Will Darrell Jones win the 2026 Conservative Party of British Columbia l
 description: "Will Darrell Jones win the 2026 Conservative Party of British Columbia leadership election? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Darrell Jones win the 2026 Conservative Party of British Columbia leadership election?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-16
 expiryDate: 2026-05-30
 tags: ["elections", "politics", "polymarket"]

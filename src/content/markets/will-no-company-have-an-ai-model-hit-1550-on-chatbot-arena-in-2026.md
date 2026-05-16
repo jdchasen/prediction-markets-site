@@ -3,7 +3,7 @@ title: "Will no company have an AI model hit 1550 on Chatbot Arena in 2026?"
 description: "Will no company have an AI model hit 1550 on Chatbot Arena in 2026? Odds: 56.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will no company have an AI model hit 1550 on Chatbot Arena in 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-16
 expiryDate: 2026-12-31
 tags: ["ai", "politics", "polymarket"]

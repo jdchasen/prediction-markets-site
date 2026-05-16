@@ -3,7 +3,7 @@ title: "Will Marisol Pérez Tello win the 2026 Peruvian presidential election?"
 description: "Will Marisol Pérez Tello win the 2026 Peruvian presidential election? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Marisol Pérez Tello win the 2026 Peruvian presidential election?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-16
 expiryDate: 2026-06-07
 tags: ["elections", "politics", "polymarket"]

@@ -3,7 +3,7 @@ title: "Will Jerome Powell depart as Fed Chair between June 20 and June 26?"
 description: "Will Jerome Powell depart as Fed Chair between June 20 and June 26? Odds: 0.6% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Jerome Powell depart as Fed Chair between June 20 and June 26?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-16
 expiryDate: 2026-07-03
 tags: ["ai", "federal-reserve", "politics", "polymarket"]

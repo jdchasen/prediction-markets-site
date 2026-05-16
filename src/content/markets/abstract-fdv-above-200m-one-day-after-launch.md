@@ -21,9 +21,8 @@ polymarketUrl: "https://polymarket.com/event/abstract-fdv-above-200m-one-day-aft
 
 ## Related Markets
 
-- [Will Ethereum reach $3,600 in May?](/odds/will-ethereum-reach-3600-in-may) — 0% YES
-- [Variational FDV above $4B one day after launch?](/odds/variational-fdv-above-4b-one-day-after-launch) — 2% YES
-- [Will the price of Bitcoin be above $72,000 on May 20?](/odds/will-the-price-of-bitcoin-be-above-72000-on-may-20) — 97% YES
+- [Will Bitcoin dip to $75,000 in May?](/odds/will-bitcoin-dip-to-75000-in-may) — 56% YES
+- [Will Ethereum dip to $1,500 by December 31, 2026?](/odds/will-ethereum-dip-to-1500-by-december-31-2026) — 44% YES
 
 ## Frequently Asked Questions
 

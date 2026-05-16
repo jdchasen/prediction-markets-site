@@ -23,6 +23,7 @@ polymarketUrl: "https://polymarket.com/event/will-sp-500-spy-hit-low-680-in-may"
 
 - [Will Anthropic’s market cap be between $300B and $400B at market close on IPO day?](/odds/will-anthropics-market-cap-be-between-300b-and-400b-at-market-close-on-ipo-day) — 0% YES
 - [Will ByteDance have the highest IPO Market Cap 2026?](/odds/will-bytedance-have-the-highest-ipo-market-cap-2026) — 0% YES
+- [SpaceX IPO closing market cap above $1.4T?](/odds/spacex-ipo-closing-market-cap-above-14t) — 92% YES
 
 ## Frequently Asked Questions
 

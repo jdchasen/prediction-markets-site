@@ -3,7 +3,7 @@ title: "Will Ethereum reach $3,600 in May?"
 description: "Will Ethereum reach $3,600 in May? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Ethereum reach $3,600 in May?"
 category: "crypto"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-16
 expiryDate: 2026-06-01
 tags: ["crypto", "ethereum", "polymarket"]

@@ -1,14 +1,14 @@
 ---
 title: "Will Houston Texans win the 2027 NFL AFC Championship?"
-description: "Will Houston Texans win the 2027 NFL AFC Championship? Odds: 9.7% YES on Polymarket. See live prices and trade this market."
+description: "Will Houston Texans win the 2027 NFL AFC Championship? Odds: 9.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Houston Texans win the 2027 NFL AFC Championship?"
 category: "sports"
 status: "active"
 lastUpdated: 2026-05-16
 expiryDate: 2027-01-25
 tags: ["polymarket", "sports"]
-polymarketYes: 9.7
-polymarketNo: 90.3
+polymarketYes: 9.4
+polymarketNo: 90.5
 polymarketVolume: 98480
 polymarketUrl: "https://polymarket.com/event/will-houston-texans-win-the-2027-nfl-afc-championship-334"
 ---
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-houston-texans-win-the-2027-nf
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 9.7% | 90.3% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 9.4% | 90.5% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Arvid Lindblad be the 2026 F1 Drivers' Champion?](/odds/will-arvid-lindblad-be-the-2026-f1-drivers-champion) — 0% YES
 - [Will Oliver Bearman be the 2026 F1 Drivers' Champion?](/odds/will-oliver-bearman-be-the-2026-f1-drivers-champion) — 0% YES
-- [Will Neymar play in the 2026 FIFA World Cup?](/odds/will-neymar-play-in-the-2026-fifa-world-cup) — 79% YES
+- [Will Alexander Albon be the 2026 F1 Drivers' Champion?](/odds/will-alexander-albon-be-the-2026-f1-drivers-champion) — 0% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Houston Texans win the 2027 NFL AFC Championship?"?
 
-As of May 16, 2026, Polymarket prices YES at 9.7%.
+As of May 16, 2026, Polymarket prices YES at 9.4%.
 
 ### Where can I trade on this prediction market?
 

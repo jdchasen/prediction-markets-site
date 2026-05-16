@@ -9,7 +9,7 @@ expiryDate: 2026-12-06
 tags: ["polymarket", "sports"]
 polymarketYes: 0.1
 polymarketNo: 99.9
-polymarketVolume: 9882366
+polymarketVolume: 9891218
 polymarketUrl: "https://polymarket.com/event/will-oliver-bearman-be-the-2026-f1-drivers-champion"
 ---
 
@@ -22,7 +22,7 @@ polymarketUrl: "https://polymarket.com/event/will-oliver-bearman-be-the-2026-f1-
 ## Related Markets
 
 - [Will Arvid Lindblad be the 2026 F1 Drivers' Champion?](/odds/will-arvid-lindblad-be-the-2026-f1-drivers-champion) — 0% YES
-- [Will Neymar play in the 2026 FIFA World Cup?](/odds/will-neymar-play-in-the-2026-fifa-world-cup) — 79% YES
+- [Will Alexander Albon be the 2026 F1 Drivers' Champion?](/odds/will-alexander-albon-be-the-2026-f1-drivers-champion) — 0% YES
 - [Will the Carolina Hurricanes win the 2026 NHL Stanley Cup?](/odds/will-the-carolina-hurricanes-win-the-2026-nhl-stanley-cup) — 38% YES
 
 ## Frequently Asked Questions

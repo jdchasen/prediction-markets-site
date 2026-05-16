@@ -9,7 +9,7 @@ expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
 polymarketYes: 6.6
 polymarketNo: 93.4
-polymarketVolume: 990150
+polymarketVolume: 990303
 polymarketUrl: "https://polymarket.com/event/will-silver-si-hit-high-120-by-end-of-june"
 ---
 
@@ -23,7 +23,7 @@ polymarketUrl: "https://polymarket.com/event/will-silver-si-hit-high-120-by-end-
 
 - [Will the US acquire part of Greenland in 2026?](/odds/will-the-us-acquire-part-of-greenland-in-2026) — 14% YES
 - [Will Marco Rubio win the 2028 US Presidential Election?](/odds/will-marco-rubio-win-the-2028-us-presidential-election) — 14% YES
-- [Will Marisol Pérez Tello win the 2026 Peruvian presidential election?](/odds/will-marisol-prez-tello-win-the-2026-peruvian-presidential-election) — 0% YES
+- [Will Eleni Kounalakis win the California Governor Election in 2026?](/odds/will-eleni-kounalakis-win-the-california-governor-election-in-2026) — 0% YES
 
 ## Frequently Asked Questions
 

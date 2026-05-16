@@ -9,7 +9,7 @@ expiryDate: 2026-12-31
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 17.5
 polymarketNo: 82.5
-polymarketVolume: 99713
+polymarketVolume: 99726
 polymarketUrl: "https://polymarket.com/event/ukraine-agrees-not-to-join-nato-before-2027"
 ---
 
@@ -23,7 +23,7 @@ polymarketUrl: "https://polymarket.com/event/ukraine-agrees-not-to-join-nato-bef
 
 - [Will the US acquire part of Greenland in 2026?](/odds/will-the-us-acquire-part-of-greenland-in-2026) — 14% YES
 - [Will Marco Rubio win the 2028 US Presidential Election?](/odds/will-marco-rubio-win-the-2028-us-presidential-election) — 14% YES
-- [Will Marisol Pérez Tello win the 2026 Peruvian presidential election?](/odds/will-marisol-prez-tello-win-the-2026-peruvian-presidential-election) — 0% YES
+- [Will Eleni Kounalakis win the California Governor Election in 2026?](/odds/will-eleni-kounalakis-win-the-california-governor-election-in-2026) — 0% YES
 
 ## Frequently Asked Questions
 

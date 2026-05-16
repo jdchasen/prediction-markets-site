@@ -23,7 +23,7 @@ polymarketUrl: "https://polymarket.com/event/will-paris-saint-germain-psg-score-
 
 - [Will Arvid Lindblad be the 2026 F1 Drivers' Champion?](/odds/will-arvid-lindblad-be-the-2026-f1-drivers-champion) — 0% YES
 - [Will Oliver Bearman be the 2026 F1 Drivers' Champion?](/odds/will-oliver-bearman-be-the-2026-f1-drivers-champion) — 0% YES
-- [Will Neymar play in the 2026 FIFA World Cup?](/odds/will-neymar-play-in-the-2026-fifa-world-cup) — 79% YES
+- [Will Alexander Albon be the 2026 F1 Drivers' Champion?](/odds/will-alexander-albon-be-the-2026-f1-drivers-champion) — 0% YES
 
 ## Frequently Asked Questions
 

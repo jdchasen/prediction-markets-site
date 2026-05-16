@@ -1,15 +1,15 @@
 ---
 title: "Will the Republican Party win the TX-38 House seat?"
-description: "Will the Republican Party win the TX-38 House seat? Odds: 80.5% YES on Polymarket. See live prices and trade this market."
+description: "Will the Republican Party win the TX-38 House seat? Odds: 81.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Republican Party win the TX-38 House seat?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-05-16
 expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
-polymarketYes: 80.5
-polymarketNo: 19.5
-polymarketVolume: 9930
+polymarketYes: 81.5
+polymarketNo: 18.5
+polymarketVolume: 9940
 polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-tx-38-house-seat"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-t
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 80.5% | 19.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 81.5% | 18.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will the US acquire part of Greenland in 2026?](/odds/will-the-us-acquire-part-of-greenland-in-2026) — 14% YES
 - [Will Marco Rubio win the 2028 US Presidential Election?](/odds/will-marco-rubio-win-the-2028-us-presidential-election) — 14% YES
-- [Will Marisol Pérez Tello win the 2026 Peruvian presidential election?](/odds/will-marisol-prez-tello-win-the-2026-peruvian-presidential-election) — 0% YES
+- [Will Eleni Kounalakis win the California Governor Election in 2026?](/odds/will-eleni-kounalakis-win-the-california-governor-election-in-2026) — 0% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will the Republican Party win the TX-38 House seat?"?
 
-As of May 16, 2026, Polymarket prices YES at 80.5%.
+As of May 16, 2026, Polymarket prices YES at 81.5%.
 
 ### Where can I trade on this prediction market?
 

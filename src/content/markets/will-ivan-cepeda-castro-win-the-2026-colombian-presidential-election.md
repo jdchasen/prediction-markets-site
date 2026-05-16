@@ -3,7 +3,7 @@ title: "Will Ivan Cepeda Castro win the 2026 Colombian presidential election?"
 description: "Will Ivan Cepeda Castro win the 2026 Colombian presidential election? Odds: 41.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Ivan Cepeda Castro win the 2026 Colombian presidential election?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-16
 expiryDate: 2026-06-21
 tags: ["elections", "politics", "polymarket"]

@@ -3,7 +3,7 @@ title: "Will Paul Salomone be the next Prime Minister of Malta following the 202
 description: "Will Paul Salomone be the next Prime Minister of Malta following the 2026 Maltese general election? Odds: 0.1% YES on Polymarket. See live prices and trade t..."
 marketQuestion: "Will Paul Salomone be the next Prime Minister of Malta following the 2026 Maltese general election?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-16
 expiryDate: 2026-05-30
 tags: ["elections", "politics", "polymarket"]

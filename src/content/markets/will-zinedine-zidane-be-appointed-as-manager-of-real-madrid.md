@@ -3,7 +3,7 @@ title: "Will Zinedine Zidane be appointed as manager of Real Madrid?"
 description: "Will Zinedine Zidane be appointed as manager of Real Madrid? Odds: 0.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Zinedine Zidane be appointed as manager of Real Madrid?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-16
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]

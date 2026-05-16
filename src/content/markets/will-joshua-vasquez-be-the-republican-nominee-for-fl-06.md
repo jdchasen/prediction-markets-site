@@ -3,7 +3,7 @@ title: "Will Joshua Vasquez be the Republican nominee for FL-06?"
 description: "Will Joshua Vasquez be the Republican nominee for FL-06? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Joshua Vasquez be the Republican nominee for FL-06?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-16
 expiryDate: 2026-08-18
 tags: ["politics", "polymarket"]
