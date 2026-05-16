@@ -3,8 +3,8 @@ title: "Will Trump announce a Taiwan arms sales halt?"
 description: "Will Trump announce a Taiwan arms sales halt? Odds: 2.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Trump announce a Taiwan arms sales halt?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-15
+status: "settled"
+lastUpdated: 2026-05-16
 expiryDate: 2026-05-22
 tags: ["ai", "politics", "polymarket", "trump"]
 polymarketYes: 2.9

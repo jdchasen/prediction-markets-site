@@ -3,8 +3,8 @@ title: "Will Amazon have the second best AI model at the end of May 2026?"
 description: "Will Amazon have the second best AI model at the end of May 2026? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Amazon have the second best AI model at the end of May 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-15
+status: "settled"
+lastUpdated: 2026-05-16
 expiryDate: 2026-05-31
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 0.1

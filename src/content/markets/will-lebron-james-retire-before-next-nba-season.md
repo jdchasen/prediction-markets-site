@@ -3,8 +3,8 @@ title: "Will LeBron James retire before next NBA season?"
 description: "Will LeBron James retire before next NBA season? Odds: 13.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will LeBron James retire before next NBA season?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-05-15
+status: "settled"
+lastUpdated: 2026-05-16
 expiryDate: 2026-10-21
 tags: ["polymarket", "sports"]
 polymarketYes: 13.5

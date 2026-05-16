@@ -3,8 +3,8 @@ title: "Will Rodney Walker be the Republican nominee for Senate in Alabama?"
 description: "Will Rodney Walker be the Republican nominee for Senate in Alabama? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Rodney Walker be the Republican nominee for Senate in Alabama?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-15
+status: "settled"
+lastUpdated: 2026-05-16
 expiryDate: 2026-05-19
 tags: ["politics", "polymarket"]
 polymarketYes: 0.1

@@ -3,8 +3,8 @@ title: "Will Elon Musk and Sam Altman settle?"
 description: "Will Elon Musk and Sam Altman settle? Odds: 22.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Elon Musk and Sam Altman settle?"
 category: "tech"
-status: "active"
-lastUpdated: 2026-05-15
+status: "settled"
+lastUpdated: 2026-05-16
 expiryDate: 2026-12-31
 tags: ["polymarket", "tech"]
 polymarketYes: 22.0

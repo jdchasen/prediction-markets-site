@@ -4,12 +4,12 @@ description: "Will Eleni Kounalakis win the California Governor Election in 2026
 marketQuestion: "Will Eleni Kounalakis win the California Governor Election in 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-15
+lastUpdated: 2026-05-16
 expiryDate: 2026-11-03
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.1
 polymarketNo: 99.9
-polymarketVolume: 978728
+polymarketVolume: 990196
 polymarketUrl: "https://polymarket.com/event/will-eleni-kounalakis-win-the-california-governor-election-in-2026"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-eleni-kounalakis-win-the-calif
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.1% | 99.9% | $979K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.1% | 99.9% | $990K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will the US acquire part of Greenland in 2026?](/odds/will-the-us-acquire-part-of-greenland-in-2026) — 14% YES
 - [Will Marco Rubio win the 2028 US Presidential Election?](/odds/will-marco-rubio-win-the-2028-us-presidential-election) — 14% YES
-- [Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?](/odds/will-amanda-anisimova-be-the-2026-womens-wimbledon-winner) — 8% YES
+- [Will Marisol Pérez Tello win the 2026 Peruvian presidential election?](/odds/will-marisol-prez-tello-win-the-2026-peruvian-presidential-election) — 0% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Eleni Kounalakis win the California Governor Election in 2026?"?
 
-As of May 15, 2026, Polymarket prices YES at 0.1%.
+As of May 16, 2026, Polymarket prices YES at 0.1%.
 
 ### Where can I trade on this prediction market?
 

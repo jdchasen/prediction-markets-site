@@ -4,12 +4,12 @@ description: "Will Warren Hamm win the 2026 Conservative Party of British Columb
 marketQuestion: "Will Warren Hamm win the 2026 Conservative Party of British Columbia leadership election?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-15
+lastUpdated: 2026-05-16
 expiryDate: 2026-05-30
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.1
 polymarketNo: 99.9
-polymarketVolume: 9791
+polymarketVolume: 9841
 polymarketUrl: "https://polymarket.com/event/will-warren-hamm-win-the-2026-conservative-party-of-british-columbia-leadership-election"
 ---
 
@@ -23,13 +23,13 @@ polymarketUrl: "https://polymarket.com/event/will-warren-hamm-win-the-2026-conse
 
 - [Will the US acquire part of Greenland in 2026?](/odds/will-the-us-acquire-part-of-greenland-in-2026) — 14% YES
 - [Will Marco Rubio win the 2028 US Presidential Election?](/odds/will-marco-rubio-win-the-2028-us-presidential-election) — 14% YES
-- [Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?](/odds/will-amanda-anisimova-be-the-2026-womens-wimbledon-winner) — 8% YES
+- [Will Marisol Pérez Tello win the 2026 Peruvian presidential election?](/odds/will-marisol-prez-tello-win-the-2026-peruvian-presidential-election) — 0% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Warren Hamm win the 2026 Conservative Party of British Columbia leadership election?"?
 
-As of May 15, 2026, Polymarket prices YES at 0.1%.
+As of May 16, 2026, Polymarket prices YES at 0.1%.
 
 ### Where can I trade on this prediction market?
 

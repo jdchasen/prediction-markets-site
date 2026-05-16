@@ -3,8 +3,8 @@ title: "Will the Reserve Bank of New Zealand increase the official cash rate aft
 description: "Will the Reserve Bank of New Zealand increase the official cash rate after the May decision? Odds: 10.5% YES on Polymarket. See live prices and trade this ma..."
 marketQuestion: "Will the Reserve Bank of New Zealand increase the official cash rate after the May decision?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-15
+status: "settled"
+lastUpdated: 2026-05-16
 expiryDate: 2026-05-27
 tags: ["politics", "polymarket"]
 polymarketYes: 10.5

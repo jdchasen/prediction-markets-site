@@ -3,8 +3,8 @@ title: "US federally charges ex-Cuba leader Raul Castro?"
 description: "US federally charges ex-Cuba leader Raul Castro? Odds: 70.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "US federally charges ex-Cuba leader Raul Castro?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-15
+status: "settled"
+lastUpdated: 2026-05-16
 expiryDate: 2026-06-30
 tags: ["federal-reserve", "politics", "polymarket"]
 polymarketYes: 70.0

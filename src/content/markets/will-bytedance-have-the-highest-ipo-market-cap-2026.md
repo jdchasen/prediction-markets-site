@@ -4,12 +4,12 @@ description: "Will ByteDance have the highest IPO Market Cap 2026? Odds: 0.1% YE
 marketQuestion: "Will ByteDance have the highest IPO Market Cap 2026?"
 category: "finance"
 status: "active"
-lastUpdated: 2026-05-15
+lastUpdated: 2026-05-16
 expiryDate: 2026-12-31
 tags: ["finance", "polymarket"]
 polymarketYes: 0.1
 polymarketNo: 99.9
-polymarketVolume: 98249
+polymarketVolume: 98749
 polymarketUrl: "https://polymarket.com/event/will-bytedance-have-the-highest-ipo-market-cap-2026-727"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-bytedance-have-the-highest-ipo
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.1% | 99.9% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.1% | 99.9% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -28,7 +28,7 @@ polymarketUrl: "https://polymarket.com/event/will-bytedance-have-the-highest-ipo
 
 ### What are the current odds for "Will ByteDance have the highest IPO Market Cap 2026?"?
 
-As of May 15, 2026, Polymarket prices YES at 0.1%.
+As of May 16, 2026, Polymarket prices YES at 0.1%.
 
 ### Where can I trade on this prediction market?
 

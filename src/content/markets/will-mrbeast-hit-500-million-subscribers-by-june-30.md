@@ -1,15 +1,15 @@
 ---
 title: "Will MrBeast hit 500 million subscribers by June 30?"
-description: "Will MrBeast hit 500 million subscribers by June 30? Odds: 22.7% YES on Polymarket. See live prices and trade this market."
+description: "Will MrBeast hit 500 million subscribers by June 30? Odds: 25.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will MrBeast hit 500 million subscribers by June 30?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-15
+lastUpdated: 2026-05-16
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
-polymarketYes: 22.7
-polymarketNo: 77.3
-polymarketVolume: 9784
+polymarketYes: 25.9
+polymarketNo: 74.1
+polymarketVolume: 9925
 polymarketUrl: "https://polymarket.com/event/will-mrbeast-hit-500-million-subscribers-by-june-30"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-mrbeast-hit-500-million-subscr
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 22.7% | 77.3% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 25.9% | 74.1% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will the US acquire part of Greenland in 2026?](/odds/will-the-us-acquire-part-of-greenland-in-2026) — 14% YES
 - [Will Marco Rubio win the 2028 US Presidential Election?](/odds/will-marco-rubio-win-the-2028-us-presidential-election) — 14% YES
-- [Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?](/odds/will-amanda-anisimova-be-the-2026-womens-wimbledon-winner) — 8% YES
+- [Will Marisol Pérez Tello win the 2026 Peruvian presidential election?](/odds/will-marisol-prez-tello-win-the-2026-peruvian-presidential-election) — 0% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will MrBeast hit 500 million subscribers by June 30?"?
 
-As of May 15, 2026, Polymarket prices YES at 22.7%.
+As of May 16, 2026, Polymarket prices YES at 25.9%.
 
 ### Where can I trade on this prediction market?
 

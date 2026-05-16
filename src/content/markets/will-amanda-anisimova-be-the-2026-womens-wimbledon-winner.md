@@ -4,7 +4,7 @@ description: "Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner? Odds
 marketQuestion: "Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-15
+lastUpdated: 2026-05-16
 expiryDate: 2026-07-12
 tags: ["politics", "polymarket"]
 polymarketYes: 7.7
@@ -23,13 +23,13 @@ polymarketUrl: "https://polymarket.com/event/will-amanda-anisimova-be-the-2026-w
 
 - [Will the US acquire part of Greenland in 2026?](/odds/will-the-us-acquire-part-of-greenland-in-2026) — 14% YES
 - [Will Marco Rubio win the 2028 US Presidential Election?](/odds/will-marco-rubio-win-the-2028-us-presidential-election) — 14% YES
-- [Will Wicked: For Good be the top grossing movie of 2026?](/odds/will-wicked-for-good-be-the-top-grossing-movie-of-2026) — 0% YES
+- [Will Marisol Pérez Tello win the 2026 Peruvian presidential election?](/odds/will-marisol-prez-tello-win-the-2026-peruvian-presidential-election) — 0% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?"?
 
-As of May 15, 2026, Polymarket prices YES at 7.7%.
+As of May 16, 2026, Polymarket prices YES at 7.7%.
 
 ### Where can I trade on this prediction market?
 

@@ -4,12 +4,12 @@ description: "Will S&P 500 (SPY) hit (LOW) $680 in May? Odds: 6.5% YES on Polyma
 marketQuestion: "Will S&P 500 (SPY) hit (LOW) $680 in May?"
 category: "finance"
 status: "active"
-lastUpdated: 2026-05-15
+lastUpdated: 2026-05-16
 expiryDate: 2026-06-01
 tags: ["finance", "polymarket", "stocks"]
 polymarketYes: 6.5
 polymarketNo: 93.5
-polymarketVolume: 9820
+polymarketVolume: 9894
 polymarketUrl: "https://polymarket.com/event/will-sp-500-spy-hit-low-680-in-may"
 ---
 
@@ -28,7 +28,7 @@ polymarketUrl: "https://polymarket.com/event/will-sp-500-spy-hit-low-680-in-may"
 
 ### What are the current odds for "Will S&P 500 (SPY) hit (LOW) $680 in May?"?
 
-As of May 15, 2026, Polymarket prices YES at 6.5%.
+As of May 16, 2026, Polymarket prices YES at 6.5%.
 
 ### Where can I trade on this prediction market?
 
