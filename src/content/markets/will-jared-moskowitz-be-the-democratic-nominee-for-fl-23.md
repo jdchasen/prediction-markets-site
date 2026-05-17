@@ -3,7 +3,7 @@ title: "Will Jared Moskowitz be the Democratic Nominee for FL-23?"
 description: "Will Jared Moskowitz be the Democratic Nominee for FL-23? Odds: 36.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Jared Moskowitz be the Democratic Nominee for FL-23?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-17
 expiryDate: 2026-08-18
 tags: ["politics", "polymarket"]

@@ -3,7 +3,7 @@ title: "Will Spencer Pratt win the first round of the 2026 Los Angeles Mayoral E
 description: "Will Spencer Pratt win the first round of the 2026 Los Angeles Mayoral Election? Odds: 12.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Spencer Pratt win the first round of the 2026 Los Angeles Mayoral Election?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-17
 expiryDate: 2026-06-02
 tags: ["elections", "politics", "polymarket"]

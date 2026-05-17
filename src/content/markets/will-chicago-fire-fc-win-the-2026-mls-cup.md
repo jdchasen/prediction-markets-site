@@ -3,7 +3,7 @@ title: "Will Chicago Fire FC win the 2026 MLS Cup?"
 description: "Will Chicago Fire FC win the 2026 MLS Cup? Odds: 1.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Chicago Fire FC win the 2026 MLS Cup?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-17
 expiryDate: 2026-12-19
 tags: ["politics", "polymarket"]

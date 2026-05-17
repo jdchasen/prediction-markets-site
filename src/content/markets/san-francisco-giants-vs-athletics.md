@@ -3,7 +3,7 @@ title: "San Francisco Giants vs. Athletics"
 description: "San Francisco Giants vs. Athletics Odds: 41.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "San Francisco Giants vs. Athletics"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-17
 expiryDate: 2026-05-24
 tags: ["politics", "polymarket"]

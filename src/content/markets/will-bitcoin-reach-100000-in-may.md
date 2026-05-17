@@ -3,7 +3,7 @@ title: "Will Bitcoin reach $100,000 in May?"
 description: "Will Bitcoin reach $100,000 in May? Odds: 0.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Bitcoin reach $100,000 in May?"
 category: "crypto"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-17
 expiryDate: 2026-06-01
 tags: ["bitcoin", "crypto", "polymarket"]

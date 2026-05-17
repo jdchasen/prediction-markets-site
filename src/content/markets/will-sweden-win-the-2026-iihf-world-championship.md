@@ -3,7 +3,7 @@ title: "Will Sweden win the 2026 IIHF World Championship?"
 description: "Will Sweden win the 2026 IIHF World Championship? Odds: 7.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Sweden win the 2026 IIHF World Championship?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-17
 expiryDate: 2026-05-31
 tags: ["politics", "polymarket"]

@@ -3,7 +3,7 @@ title: "Will Airbnb, Inc. (ABNB) hit (LOW) $124 in May?"
 description: "Will Airbnb, Inc. (ABNB) hit (LOW) $124 in May? Odds: 28.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Airbnb, Inc. (ABNB) hit (LOW) $124 in May?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-17
 expiryDate: 2026-06-01
 tags: ["ai", "politics", "polymarket"]
