@@ -4,12 +4,12 @@ description: "Will Flavio Cobolli be the 2026 Men’s Wimbledon winner? Odds: 0.
 marketQuestion: "Will Flavio Cobolli be the 2026 Men’s Wimbledon winner?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-16
+lastUpdated: 2026-05-17
 expiryDate: 2026-07-12
 tags: ["politics", "polymarket"]
 polymarketYes: 0.2
 polymarketNo: 99.8
-polymarketVolume: 9775
+polymarketVolume: 9805
 polymarketUrl: "https://polymarket.com/event/will-flavio-cobolli-be-the-2026-mens-wimbledon-winner"
 ---
 
@@ -23,13 +23,13 @@ polymarketUrl: "https://polymarket.com/event/will-flavio-cobolli-be-the-2026-men
 
 - [Will the US acquire part of Greenland in 2026?](/odds/will-the-us-acquire-part-of-greenland-in-2026) — 14% YES
 - [Will Marco Rubio win the 2028 US Presidential Election?](/odds/will-marco-rubio-win-the-2028-us-presidential-election) — 14% YES
-- [Will Eleni Kounalakis win the California Governor Election in 2026?](/odds/will-eleni-kounalakis-win-the-california-governor-election-in-2026) — 0% YES
+- [Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?](/odds/will-amanda-anisimova-be-the-2026-womens-wimbledon-winner) — 8% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Flavio Cobolli be the 2026 Men’s Wimbledon winner?"?
 
-As of May 16, 2026, Polymarket prices YES at 0.2%.
+As of May 17, 2026, Polymarket prices YES at 0.2%.
 
 ### Where can I trade on this prediction market?
 

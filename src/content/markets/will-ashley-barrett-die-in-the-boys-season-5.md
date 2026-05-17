@@ -3,8 +3,8 @@ title: "Will Ashley Barrett die in \"The Boys: Season 5\"?"
 description: "Will Ashley Barrett die in \"The Boys: Season 5\"? Odds: 20.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Ashley Barrett die in \"The Boys: Season 5\"?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-16
+status: "settled"
+lastUpdated: 2026-05-17
 expiryDate: 2026-05-20
 tags: ["politics", "polymarket"]
 polymarketYes: 20.5

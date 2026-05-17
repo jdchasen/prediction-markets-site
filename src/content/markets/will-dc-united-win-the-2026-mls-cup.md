@@ -4,11 +4,11 @@ description: "Will D.C. United win the 2026 MLS Cup? Odds: 1.1% YES on Polymarke
 marketQuestion: "Will D.C. United win the 2026 MLS Cup?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-16
+lastUpdated: 2026-05-17
 expiryDate: 2026-12-19
 tags: ["politics", "polymarket"]
 polymarketYes: 1.1
-polymarketNo: 98.9
+polymarketNo: 99.0
 polymarketVolume: 9963
 polymarketUrl: "https://polymarket.com/event/will-dc-united-win-the-2026-mls-cup"
 ---
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-dc-united-win-the-2026-mls-cup
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 1.1% | 98.9% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 1.1% | 99.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will the US acquire part of Greenland in 2026?](/odds/will-the-us-acquire-part-of-greenland-in-2026) — 14% YES
 - [Will Marco Rubio win the 2028 US Presidential Election?](/odds/will-marco-rubio-win-the-2028-us-presidential-election) — 14% YES
-- [Will Eleni Kounalakis win the California Governor Election in 2026?](/odds/will-eleni-kounalakis-win-the-california-governor-election-in-2026) — 0% YES
+- [Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?](/odds/will-amanda-anisimova-be-the-2026-womens-wimbledon-winner) — 8% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will D.C. United win the 2026 MLS Cup?"?
 
-As of May 16, 2026, Polymarket prices YES at 1.1%.
+As of May 17, 2026, Polymarket prices YES at 1.1%.
 
 ### Where can I trade on this prediction market?
 

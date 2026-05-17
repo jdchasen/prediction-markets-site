@@ -1,23 +1,23 @@
 ---
-title: "Will Trevor Merrell advance from the CA-04 primary election?"
-description: "Will Trevor Merrell advance from the CA-04 primary election? Odds: 8.0% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Trevor Merrell advance from the CA-04 primary election?"
+title: "Will DISY win the most seats at the Cyprus House of Representatives election?"
+description: "Will DISY win the most seats at the Cyprus House of Representatives election? Odds: 77.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will DISY win the most seats at the Cyprus House of Representatives election?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-05-17
-expiryDate: 2026-06-02
+expiryDate: 2026-05-24
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 8.0
-polymarketNo: 92.0
-polymarketVolume: 9903
-polymarketUrl: "https://polymarket.com/event/will-trevor-merrell-advance-from-the-ca-04-primary-election"
+polymarketYes: 77.5
+polymarketNo: 22.5
+polymarketVolume: 9764
+polymarketUrl: "https://polymarket.com/event/will-disy-win-the-most-seats-at-the-cyprus-house-of-representatives-election"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 8.0% | 92.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 77.5% | 22.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-trevor-merrell-advance-from-th
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Trevor Merrell advance from the CA-04 primary election?"?
+### What are the current odds for "Will DISY win the most seats at the Cyprus House of Representatives election?"?
 
-As of May 17, 2026, Polymarket prices YES at 8.0%.
+As of May 17, 2026, Polymarket prices YES at 77.5%.
 
 ### Where can I trade on this prediction market?
 

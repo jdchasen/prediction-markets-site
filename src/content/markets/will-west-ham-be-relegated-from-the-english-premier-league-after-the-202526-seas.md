@@ -4,7 +4,7 @@ description: "Will West Ham be relegated from the English Premier League after t
 marketQuestion: "Will West Ham be relegated from the English Premier League after the 2025–26 season?"
 category: "sports"
 status: "active"
-lastUpdated: 2026-05-16
+lastUpdated: 2026-05-17
 expiryDate: 2026-05-27
 tags: ["polymarket", "sports"]
 polymarketYes: 34.5
@@ -21,15 +21,15 @@ polymarketUrl: "https://polymarket.com/event/will-west-ham-be-relegated-from-the
 
 ## Related Markets
 
-- [Will Arvid Lindblad be the 2026 F1 Drivers' Champion?](/odds/will-arvid-lindblad-be-the-2026-f1-drivers-champion) — 0% YES
 - [Will Oliver Bearman be the 2026 F1 Drivers' Champion?](/odds/will-oliver-bearman-be-the-2026-f1-drivers-champion) — 0% YES
 - [Will Alexander Albon be the 2026 F1 Drivers' Champion?](/odds/will-alexander-albon-be-the-2026-f1-drivers-champion) — 0% YES
+- [Will Sweden win the 2026 FIFA World Cup?](/odds/will-sweden-win-the-2026-fifa-world-cup) — 0% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will West Ham be relegated from the English Premier League after the 2025–26 season?"?
 
-As of May 16, 2026, Polymarket prices YES at 34.5%.
+As of May 17, 2026, Polymarket prices YES at 34.5%.
 
 ### Where can I trade on this prediction market?
 

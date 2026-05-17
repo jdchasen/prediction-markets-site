@@ -3,8 +3,8 @@ title: "Will Warren Hamm win the 2026 Conservative Party of British Columbia lea
 description: "Will Warren Hamm win the 2026 Conservative Party of British Columbia leadership election? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Warren Hamm win the 2026 Conservative Party of British Columbia leadership election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-16
+status: "settled"
+lastUpdated: 2026-05-17
 expiryDate: 2026-05-30
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.1

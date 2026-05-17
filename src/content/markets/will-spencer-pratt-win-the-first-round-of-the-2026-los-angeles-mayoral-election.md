@@ -1,23 +1,23 @@
 ---
-title: "Will Anna Kalinskaya win the 2026 Women’s French Open?"
-description: "Will Anna Kalinskaya win the 2026 Women’s French Open? Odds: 0.3% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Anna Kalinskaya win the 2026 Women’s French Open?"
+title: "Will Spencer Pratt win the first round of the 2026 Los Angeles Mayoral Election?"
+description: "Will Spencer Pratt win the first round of the 2026 Los Angeles Mayoral Election? Odds: 12.0% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Spencer Pratt win the first round of the 2026 Los Angeles Mayoral Election?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-05-17
-expiryDate: 2026-06-06
-tags: ["politics", "polymarket"]
-polymarketYes: 0.3
-polymarketNo: 99.7
-polymarketVolume: 9963
-polymarketUrl: "https://polymarket.com/event/will-anna-kalinskaya-win-the-2026-womens-french-open"
+expiryDate: 2026-06-02
+tags: ["elections", "politics", "polymarket"]
+polymarketYes: 12.0
+polymarketNo: 88.0
+polymarketVolume: 9909
+polymarketUrl: "https://polymarket.com/event/will-spencer-pratt-win-the-first-round-of-the-2026-los-angeles-mayoral-election"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.3% | 99.7% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 12.0% | 88.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-anna-kalinskaya-win-the-2026-w
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Anna Kalinskaya win the 2026 Women’s French Open?"?
+### What are the current odds for "Will Spencer Pratt win the first round of the 2026 Los Angeles Mayoral Election?"?
 
-As of May 17, 2026, Polymarket prices YES at 0.3%.
+As of May 17, 2026, Polymarket prices YES at 12.0%.
 
 ### Where can I trade on this prediction market?
 

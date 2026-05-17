@@ -1,15 +1,15 @@
 ---
 title: "Will Ethereum dip to $1,500 by December 31, 2026?"
-description: "Will Ethereum dip to $1,500 by December 31, 2026? Odds: 44.0% YES on Polymarket. See live prices and trade this market."
+description: "Will Ethereum dip to $1,500 by December 31, 2026? Odds: 44.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Ethereum dip to $1,500 by December 31, 2026?"
 category: "crypto"
 status: "active"
-lastUpdated: 2026-05-16
+lastUpdated: 2026-05-17
 expiryDate: 2027-01-01
 tags: ["crypto", "ethereum", "polymarket"]
-polymarketYes: 44.0
-polymarketNo: 56.0
-polymarketVolume: 987052
+polymarketYes: 44.5
+polymarketNo: 55.5
+polymarketVolume: 988370
 polymarketUrl: "https://polymarket.com/event/will-ethereum-dip-to-1500-by-december-31-2026"
 ---
 
@@ -17,18 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-ethereum-dip-to-1500-by-decemb
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 44.0% | 56.0% | $987K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 44.5% | 55.5% | $988K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Bitcoin dip to $75,000 in May?](/odds/will-bitcoin-dip-to-75000-in-may) — 56% YES
-- [Abstract FDV above $200M one day after launch?](/odds/abstract-fdv-above-200m-one-day-after-launch) — 76% YES
+- [Will Bitcoin reach $100,000 in May?](/odds/will-bitcoin-reach-100000-in-may) — 0% YES
+- [Abstract FDV above $200M one day after launch?](/odds/abstract-fdv-above-200m-one-day-after-launch) — 78% YES
+- [Will the price of Bitcoin be above $70,000 on May 22?](/odds/will-the-price-of-bitcoin-be-above-70000-on-may-22) — 98% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Ethereum dip to $1,500 by December 31, 2026?"?
 
-As of May 16, 2026, Polymarket prices YES at 44.0%.
+As of May 17, 2026, Polymarket prices YES at 44.5%.
 
 ### Where can I trade on this prediction market?
 

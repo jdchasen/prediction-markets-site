@@ -1,14 +1,14 @@
 ---
 title: "Will the Republican Party win the NY-16 House seat?"
-description: "Will the Republican Party win the NY-16 House seat? Odds: 2.8% YES on Polymarket. See live prices and trade this market."
+description: "Will the Republican Party win the NY-16 House seat? Odds: 2.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Republican Party win the NY-16 House seat?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-16
+lastUpdated: 2026-05-17
 expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
-polymarketYes: 2.8
-polymarketNo: 97.2
+polymarketYes: 2.0
+polymarketNo: 98.0
 polymarketVolume: 9772
 polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-ny-16-house-seat"
 ---
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-n
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 2.8% | 97.2% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 2.0% | 98.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will the US acquire part of Greenland in 2026?](/odds/will-the-us-acquire-part-of-greenland-in-2026) — 14% YES
 - [Will Marco Rubio win the 2028 US Presidential Election?](/odds/will-marco-rubio-win-the-2028-us-presidential-election) — 14% YES
-- [Will Eleni Kounalakis win the California Governor Election in 2026?](/odds/will-eleni-kounalakis-win-the-california-governor-election-in-2026) — 0% YES
+- [Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?](/odds/will-amanda-anisimova-be-the-2026-womens-wimbledon-winner) — 8% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will the Republican Party win the NY-16 House seat?"?
 
-As of May 16, 2026, Polymarket prices YES at 2.8%.
+As of May 17, 2026, Polymarket prices YES at 2.0%.
 
 ### Where can I trade on this prediction market?
 

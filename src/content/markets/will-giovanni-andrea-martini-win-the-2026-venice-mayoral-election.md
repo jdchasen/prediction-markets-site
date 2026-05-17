@@ -3,8 +3,8 @@ title: "Will Giovanni Andrea Martini win the 2026 Venice mayoral election?"
 description: "Will Giovanni Andrea Martini win the 2026 Venice mayoral election? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Giovanni Andrea Martini win the 2026 Venice mayoral election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-16
+status: "settled"
+lastUpdated: 2026-05-17
 expiryDate: 2026-05-25
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.1

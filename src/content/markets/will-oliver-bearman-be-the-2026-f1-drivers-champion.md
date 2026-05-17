@@ -4,12 +4,12 @@ description: "Will Oliver Bearman be the 2026 F1 Drivers' Champion? Odds: 0.1% Y
 marketQuestion: "Will Oliver Bearman be the 2026 F1 Drivers' Champion?"
 category: "sports"
 status: "active"
-lastUpdated: 2026-05-16
+lastUpdated: 2026-05-17
 expiryDate: 2026-12-06
 tags: ["polymarket", "sports"]
 polymarketYes: 0.1
 polymarketNo: 99.9
-polymarketVolume: 9891218
+polymarketVolume: 9898173
 polymarketUrl: "https://polymarket.com/event/will-oliver-bearman-be-the-2026-f1-drivers-champion"
 ---
 
@@ -21,15 +21,15 @@ polymarketUrl: "https://polymarket.com/event/will-oliver-bearman-be-the-2026-f1-
 
 ## Related Markets
 
-- [Will Arvid Lindblad be the 2026 F1 Drivers' Champion?](/odds/will-arvid-lindblad-be-the-2026-f1-drivers-champion) — 0% YES
 - [Will Alexander Albon be the 2026 F1 Drivers' Champion?](/odds/will-alexander-albon-be-the-2026-f1-drivers-champion) — 0% YES
+- [Will Sweden win the 2026 FIFA World Cup?](/odds/will-sweden-win-the-2026-fifa-world-cup) — 0% YES
 - [Will the Carolina Hurricanes win the 2026 NHL Stanley Cup?](/odds/will-the-carolina-hurricanes-win-the-2026-nhl-stanley-cup) — 38% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Oliver Bearman be the 2026 F1 Drivers' Champion?"?
 
-As of May 16, 2026, Polymarket prices YES at 0.1%.
+As of May 17, 2026, Polymarket prices YES at 0.1%.
 
 ### Where can I trade on this prediction market?
 

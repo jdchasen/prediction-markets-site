@@ -4,12 +4,12 @@ description: "SpaceX IPO closing market cap above $1.4T? Odds: 92.5% YES on Poly
 marketQuestion: "SpaceX IPO closing market cap above $1.4T?"
 category: "finance"
 status: "active"
-lastUpdated: 2026-05-16
+lastUpdated: 2026-05-17
 expiryDate: 2027-12-31
 tags: ["finance", "polymarket"]
 polymarketYes: 92.5
 polymarketNo: 7.5
-polymarketVolume: 97709
+polymarketVolume: 97758
 polymarketUrl: "https://polymarket.com/event/spacex-ipo-closing-market-cap-above-1pt4t-355"
 ---
 
@@ -21,15 +21,14 @@ polymarketUrl: "https://polymarket.com/event/spacex-ipo-closing-market-cap-above
 
 ## Related Markets
 
-- [Will Anthropic’s market cap be between $300B and $400B at market close on IPO day?](/odds/will-anthropics-market-cap-be-between-300b-and-400b-at-market-close-on-ipo-day) — 0% YES
 - [Will ByteDance have the highest IPO Market Cap 2026?](/odds/will-bytedance-have-the-highest-ipo-market-cap-2026) — 0% YES
-- [Will S&P 500 (SPY) hit (LOW) $680 in May?](/odds/will-sp-500-spy-hit-low-680-in-may) — 6% YES
+- [Will Anthropic’s market cap be between $300B and $400B at market close on IPO day?](/odds/will-anthropics-market-cap-be-between-300b-and-400b-at-market-close-on-ipo-day) — 0% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "SpaceX IPO closing market cap above $1.4T?"?
 
-As of May 16, 2026, Polymarket prices YES at 92.5%.
+As of May 17, 2026, Polymarket prices YES at 92.5%.
 
 ### Where can I trade on this prediction market?
 

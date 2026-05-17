@@ -4,12 +4,12 @@ description: "Will the Republicans win the 2028 US Presidential Election? Odds: 
 marketQuestion: "Will the Republicans win the 2028 US Presidential Election?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-16
+lastUpdated: 2026-05-17
 expiryDate: 2028-11-07
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 38.5
 polymarketNo: 61.5
-polymarketVolume: 992257
+polymarketVolume: 993372
 polymarketUrl: "https://polymarket.com/event/will-the-republicans-win-the-2028-us-presidential-election"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-the-republicans-win-the-2028-u
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 38.5% | 61.5% | $992K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 38.5% | 61.5% | $993K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will the US acquire part of Greenland in 2026?](/odds/will-the-us-acquire-part-of-greenland-in-2026) — 14% YES
 - [Will Marco Rubio win the 2028 US Presidential Election?](/odds/will-marco-rubio-win-the-2028-us-presidential-election) — 14% YES
-- [Will Eleni Kounalakis win the California Governor Election in 2026?](/odds/will-eleni-kounalakis-win-the-california-governor-election-in-2026) — 0% YES
+- [Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?](/odds/will-amanda-anisimova-be-the-2026-womens-wimbledon-winner) — 8% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will the Republicans win the 2028 US Presidential Election?"?
 
-As of May 16, 2026, Polymarket prices YES at 38.5%.
+As of May 17, 2026, Polymarket prices YES at 38.5%.
 
 ### Where can I trade on this prediction market?
 

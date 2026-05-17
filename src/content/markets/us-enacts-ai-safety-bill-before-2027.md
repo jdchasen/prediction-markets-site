@@ -4,7 +4,7 @@ description: "U.S. enacts AI safety bill before 2027? Odds: 29.5% YES on Polymar
 marketQuestion: "U.S. enacts AI safety bill before 2027?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-16
+lastUpdated: 2026-05-17
 expiryDate: 2026-12-31
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 29.5
@@ -23,13 +23,13 @@ polymarketUrl: "https://polymarket.com/event/us-enacts-ai-safety-bill-before-202
 
 - [Will the US acquire part of Greenland in 2026?](/odds/will-the-us-acquire-part-of-greenland-in-2026) — 14% YES
 - [Will Marco Rubio win the 2028 US Presidential Election?](/odds/will-marco-rubio-win-the-2028-us-presidential-election) — 14% YES
-- [Will Eleni Kounalakis win the California Governor Election in 2026?](/odds/will-eleni-kounalakis-win-the-california-governor-election-in-2026) — 0% YES
+- [Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?](/odds/will-amanda-anisimova-be-the-2026-womens-wimbledon-winner) — 8% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "U.S. enacts AI safety bill before 2027?"?
 
-As of May 16, 2026, Polymarket prices YES at 29.5%.
+As of May 17, 2026, Polymarket prices YES at 29.5%.
 
 ### Where can I trade on this prediction market?
 
