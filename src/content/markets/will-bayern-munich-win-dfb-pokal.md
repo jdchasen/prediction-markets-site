@@ -3,7 +3,7 @@ title: "Will Bayern Munich win DFB-Pokal?"
 description: "Will Bayern Munich win DFB-Pokal? Odds: 82.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Bayern Munich win DFB-Pokal?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-18
 expiryDate: 2026-06-06
 tags: ["politics", "polymarket"]

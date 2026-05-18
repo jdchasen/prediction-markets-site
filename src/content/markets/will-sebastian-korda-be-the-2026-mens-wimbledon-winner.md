@@ -11,7 +11,6 @@ polymarketYes: 0.2
 polymarketNo: 99.8
 polymarketVolume: 9842
 polymarketUrl: "https://polymarket.com/event/will-sebastian-korda-be-the-2026-mens-wimbledon-winner"
-analysisDate: 2026-05-18
 ---
 
 # Sebastian Korda 2026 Wimbledon Analysis

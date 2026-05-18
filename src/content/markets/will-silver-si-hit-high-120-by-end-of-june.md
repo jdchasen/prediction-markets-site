@@ -1,53 +1,54 @@
 ---
 title: "Will Silver (SI) hit (HIGH) $120 by end of June?"
-description: "Will Silver (SI) hit (HIGH) $120 by end of June? Odds: 5.6% YES on Polymarket. See live prices and trade this market."
+description: "Will Silver (SI) hit (HIGH) $120 by end of June? Odds: 4.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Silver (SI) hit (HIGH) $120 by end of June?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-05-18
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
-polymarketYes: 5.6
-polymarketNo: 94.4
-polymarketVolume: 992454
+polymarketYes: 4.5
+polymarketNo: 95.5
+polymarketVolume: 994140
 polymarketUrl: "https://polymarket.com/event/will-silver-si-hit-high-120-by-end-of-june"
+analysisDate: 2026-05-18
 ---
 
-The silver futures market is pricing in just a 6.6% chance of reaching $120 per ounce by June 2026, reflecting skepticism that the precious metal can nearly quadruple from current levels around $32-33 despite recent industrial demand narratives and monetary policy speculation.
+The silver futures market currently prices only a 4.5% chance of reaching $120 per ounce by June 2026, reflecting skepticism that prices can nearly quadruple from current levels around $31-33 per ounce in just over two years. This matters because such a move would signal either severe monetary crisis, industrial supply shock, or dramatic shifts in precious metals demand that would ripple across financial markets.
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 6.6% | 93.5% | $992K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 4.5% | 95.5% | $994K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The bull case centers on a perfect storm of supply constraints, industrial demand explosion from solar panels and AI infrastructure, and potential dollar weakness if the Federal Reserve cuts rates aggressively in 2025-2026. Silver's historical role as both an industrial metal and monetary hedge could trigger a squeeze if investment demand returns alongside the ongoing structural deficit in physical supply. The gold-to-silver ratio currently sits around 90:1, and a reversion toward the historical 60:1 mean would imply significantly higher silver prices even with modest gold appreciation. Any geopolitical crisis triggering safe-haven flows or major mining disruptions in Mexico and Peru (which account for 40% of global production) could accelerate price momentum beyond what current models predict.
+The bull case centers on industrial demand catalysts and monetary instability. Silver's critical role in solar panel manufacturing, EV components, and AI infrastructure could tighten supply as governments accelerate green energy transitions. The EU's Net Zero Industry Act implementation phases throughout 2025-2026 could spike industrial orders. Additionally, a potential Federal Reserve pivot back to aggressive rate cuts in response to recession—with the next FOMC meetings scheduled for March 18-19, 2025 and subsequent dates through mid-2026—could weaken the dollar and drive precious metals demand. Physical silver ETF inflows and reduced mining output from major producers in Mexico and Peru due to regulatory changes could create supply constraints.
 
-The bear case recognizes that $120 silver requires an unprecedented 265% gain in roughly 24 months—a move that would surpass even the 1979-1980 Hunt Brothers squeeze that peaked around $50. Current macroeconomic conditions show resilient economic growth and controlled inflation, reducing the monetary panic scenario that typically drives extreme precious metals rallies. The industrial demand thesis, while structurally positive, gets priced in gradually rather than explosively. Chinese economic weakness and potential recession risks in developed markets could simultaneously suppress industrial consumption while not triggering sufficient safe-haven demand to compensate.
+The bear case is straightforward: silver has never sustained prices above $50 in modern markets except briefly in 1980 and 2011, and reaching $120 requires unprecedented conditions. Current macro indicators don't support this scenario—inflation has moderated from peaks, and industrial recession fears would actually reduce manufacturing demand for silver. The silver-to-gold ratio would need to compress to historic extremes. Mining companies would rapidly increase production at these price levels, capping upside. Chinese economic weakness, responsible for roughly 15% of global silver demand, creates headwinds rather than tailwinds.
 
-Key catalysts include the Federal Reserve's June 2025 FOMC meeting and subsequent policy trajectory, the U.S. debt ceiling negotiations expected in mid-2025, and quarterly World Silver Survey updates from the Silver Institute. Traders should monitor the dollar index closely, watch for any supply disruption announcements from major producers like Fresnillo or Pan American Silver, and track solar installation data from China and India as leading indicators of industrial offtake. The market will also react to any Congressional discussions around strategic metal reserves or legislation affecting renewable energy subsidies scheduled for potential renewal in the 2025 reconciliation process.
+Key catalysts to monitor include the March and June 2025 FOMC meetings for rate trajectory signals, Q1 2025 solar installation data from major markets, and any geopolitical developments affecting major silver-producing nations. The World Silver Survey publication (typically April-May each year) will provide critical supply-demand analysis. Traders should watch the $35 and $40 resistance levels as early indicators—failure to breach these by Q4 2025 would make the $120 target mathematically improbable given the time remaining.
 
 ## Related Markets
 
-- [Will the US acquire part of Greenland in 2026?](/odds/will-the-us-acquire-part-of-greenland-in-2026) — 14% YES
 - [Will Marco Rubio win the 2028 US Presidential Election?](/odds/will-marco-rubio-win-the-2028-us-presidential-election) — 14% YES
 - [Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?](/odds/will-amanda-anisimova-be-the-2026-womens-wimbledon-winner) — 6% YES
+- [Will Alex Padilla win the California Governor Election in 2026?](/odds/will-alex-padilla-win-the-california-governor-election-in-2026) — 0% YES
 
 ## Frequently Asked Questions
 
-### What price would silver need to average monthly to make this outcome realistic?
+### What historical price would silver need to match to hit $120 per ounce?
 
-Silver would need to cross $80 by early 2026 and maintain strong upward momentum, as historical volatility patterns show extreme moves like this require sustained momentum rather than a single spike at expiry.
+Silver would need to exceed its inflation-adjusted 1980 peak of approximately $140 (in 2024 dollars), which occurred during the Hunt Brothers manipulation. No fundamental scenario has ever produced sustained prices near this level.
 
-### How does this compare to silver's previous all-time high and what drove that peak?
+### How much would industrial demand need to increase to justify $120 silver?
 
-Silver's inflation-adjusted high of roughly $140 (nominal $50 in 1980) came from the Hunt Brothers' attempted corner plus hyperinflation fears, making the current 6.6% odds a bet on similarly extreme circumstances emerging within 24 months.
+Industrial consumption would need to roughly double while mining supply simultaneously collapsed by 30-40%, an unprecedented combination. Current green energy projections show only 15-20% demand growth through 2026.
 
-### Which economic indicators would most dramatically shift the probability of this market?
+### What silver price level by December 2025 would make $120 by June 2026 plausible?
 
-A dollar index collapse below 90, 10-year Treasury yields spiking above 5.5% amid fiscal crisis concerns, or verified supply disruptions exceeding 15% of global production would most directly increase the probability of extreme silver price appreciation.
+Silver would need to reach at least $70-80 by end of 2025 to establish momentum for $120 six months later, requiring sustained monthly gains of 8-10%—a pace rarely maintained in commodity markets outside crisis periods.
 
 ## Learn More
 

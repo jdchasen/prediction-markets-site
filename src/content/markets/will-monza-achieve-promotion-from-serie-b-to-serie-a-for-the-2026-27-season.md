@@ -3,7 +3,7 @@ title: "Will Monza achieve promotion from Serie B to Serie A for the 2026-27 sea
 description: "Will Monza achieve promotion from Serie B to Serie A for the 2026-27 season? Odds: 47.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Monza achieve promotion from Serie B to Serie A for the 2026-27 season?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-18
 expiryDate: 2026-05-31
 tags: ["politics", "polymarket"]

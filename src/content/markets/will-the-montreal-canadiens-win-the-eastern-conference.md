@@ -9,9 +9,8 @@ expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
 polymarketYes: 14.5
 polymarketNo: 85.5
-polymarketVolume: 97312
+polymarketVolume: 97326
 polymarketUrl: "https://polymarket.com/event/will-the-montreal-canadiens-win-the-eastern-conference"
-analysisDate: 2026-05-18
 ---
 
 # Montreal Canadiens Eastern Conference Championship Analysis

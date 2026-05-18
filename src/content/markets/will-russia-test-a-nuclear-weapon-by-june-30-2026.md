@@ -1,17 +1,16 @@
 ---
 title: "Will Russia test a nuclear weapon by June 30 2026?"
-description: "Will Russia test a nuclear weapon by June 30 2026? Odds: 2.9% YES on Polymarket. See live prices and trade this market."
+description: "Will Russia test a nuclear weapon by June 30 2026? Odds: 2.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Russia test a nuclear weapon by June 30 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-05-18
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
-polymarketYes: 2.9
+polymarketYes: 2.8
 polymarketNo: 97.2
-polymarketVolume: 9763
+polymarketVolume: 9784
 polymarketUrl: "https://polymarket.com/event/will-russia-test-a-nuclear-weapon-by-june-30-2026"
-analysisDate: 2026-05-18
 ---
 
 # Russia Nuclear Test Market Analysis

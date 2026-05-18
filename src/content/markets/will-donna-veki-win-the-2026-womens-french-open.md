@@ -11,7 +11,6 @@ polymarketYes: 0.1
 polymarketNo: 99.9
 polymarketVolume: 9789
 polymarketUrl: "https://polymarket.com/event/will-donna-veki-win-the-2026-womens-french-open"
-analysisDate: 2026-05-18
 ---
 
 This market appears miscategorized as "politics" when it concerns professional tennis, and the 0.1% pricing reflects Vekić's significant statistical disadvantage in competing for a Grand Slam title rather than any political development. The extremely long time horizon to June 2026 means the market has minimal predictive value today, as player performance, injuries, and rankings can shift dramatically over 18+ months.

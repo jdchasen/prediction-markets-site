@@ -9,45 +9,46 @@ expiryDate: 2026-11-03
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.1
 polymarketNo: 99.9
-polymarketVolume: 990072
+polymarketVolume: 999869
 polymarketUrl: "https://polymarket.com/event/will-alex-padilla-win-the-california-governor-election-in-2026"
+analysisDate: 2026-05-18
 ---
 
-California's junior senator Alex Padilla faces exceptionally long odds to win the 2026 gubernatorial race, with prediction markets pricing his chances near zero despite his statewide profile, reflecting a crowded Democratic field and strong competition from more prominent candidates already positioning for the race.
+Alex Padilla's chances of winning the 2026 California gubernatorial race sit near zero on prediction markets, reflecting the reality that the current U.S. Senator has shown no indication of running for governor and faces a crowded field of declared and likely Democratic candidates already positioning themselves for the race.
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.1% | 99.9% | $974K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.1% | 99.9% | $1000K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The bear case dominates this market for clear reasons. Lieutenant Governor Eleni Kounalakis has been actively campaigning since 2023 and is widely considered the frontrunner, having raised substantial funds and secured key endorsements. Former Los Angeles Mayor Antonio Villaraigosa is also running, bringing name recognition and a previous gubernatorial campaign infrastructure. Padilla hasn't shown serious interest in leaving his Senate seat, which he won outright in 2022 and holds until 2028. California senators historically maintain their positions rather than risk them for gubernatorial runs, particularly when facing serious primary competition. The March 2026 primary—likely scheduled for early March based on California's electoral calendar—is barely over a year away, and Padilla has formed no exploratory committee, hired no campaign staff, and made no indication he's considering the race.
+The bear case is straightforward: Padilla has given no public signals of gubernatorial ambitions, instead focusing on his Senate career after winning a full term in 2022. California Lieutenant Governor Eleni Kounalakis, former State Controller Betty Yee, and educator Tony Thurmond have already signaled gubernatorial interest or exploratory moves. The filing deadline for California's June 2026 primary is March 2026, and Padilla would need to begin raising money and building a statewide campaign infrastructure soon to be competitive. His fundraising reports and public statements through early 2025 show Senate-focused activity with no gubernatorial campaign formation. The Democratic primary field is consolidating around other candidates, and Padilla's entry this late would require abandoning a secure Senate seat he fought to win outright.
 
-The bull case requires multiple improbable developments. Padilla would need both Kounalakis and Villaraigosa to exit the race or become severely damaged by scandal before filing deadlines in late 2025. His Senate position gives him statewide name recognition and a fundraising base that could theoretically activate quickly. If national Democratic figures pressured other candidates to clear the field for him as the Latino candidate in a state where Hispanic voters comprise roughly 30% of the electorate, he could enter late. A major policy achievement in the Senate during 2025 that resonates with California voters could also shift his calculus.
+The bull case requires assuming Padilla makes an unexpected pivot: if leading Democratic candidates stumble badly or face scandals before the March 2026 filing deadline, party leaders might recruit Padilla as a safe, established choice with statewide name recognition from his Senate races and previous service as California Secretary of State. He maintains strong relationships with California's Democratic establishment and labor unions. A scenario where the current frontrunners collapse and Padilla sees a clear path could theoretically emerge in late 2025, though he'd be starting from far behind in fundraising and organization.
 
-Traders should monitor whether Padilla forms any campaign infrastructure by summer 2025, the traditional window for serious candidates to begin operations. Watch for public polling in California's Democratic primary throughout 2025—if Kounalakis's numbers weaken significantly or the field fractures among multiple candidates polling in single digits, conditions could theoretically create an opening. The December 2025 filing deadline for California's March primary represents the hard catalyst date when this market will resolve toward zero unless Padilla takes concrete action.
+Key catalysts include California's gubernatorial filing deadline in March 2026, any announcement from Padilla about his political future in 2025, and the formation of gubernatorial campaign committees by other Democrats. Watch for Q1 2025 fundraising reports showing whether Padilla establishes any state-focused political committee, and for California Democratic Party endorsement processes beginning in late 2025. The June 2026 primary will determine the two top finishers who advance to November under California's top-two system.
 
 ## Related Markets
 
-- [Will the US acquire part of Greenland in 2026?](/odds/will-the-us-acquire-part-of-greenland-in-2026) — 14% YES
 - [Will Marco Rubio win the 2028 US Presidential Election?](/odds/will-marco-rubio-win-the-2028-us-presidential-election) — 14% YES
 - [Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?](/odds/will-amanda-anisimova-be-the-2026-womens-wimbledon-winner) — 6% YES
+- [Will Renan Santos finish in second place in the first round of the 2026 Brazilian presidential election?](/odds/will-renan-santos-finish-in-second-place-in-the-first-round-of-the-2026-brazilia) — 10% YES
 
 ## Frequently Asked Questions
 
-### Why isn't Padilla considered a natural gubernatorial candidate given his statewide position as senator?
+### Has Alex Padilla made any statements about running for California governor in 2026?
 
-California senators rarely give up secure six-year terms for governorships, and Padilla's seat isn't up until 2028, meaning he'd be sacrificing four years of seniority. The risk-reward calculation favors staying in the Senate, especially with strong candidates already dominating the gubernatorial field.
+Padilla has made no public indication of interest in the governor's race and has focused his recent political activity on his Senate duties and winning his full six-year term in 2022.
 
-### Could Padilla run simultaneously for both governor and Senate like some candidates do?
+### When would Padilla need to decide by to realistically enter the race?
 
-No—California law doesn't allow "jungle primary" double-dipping for different offices in the same election cycle. Padilla would have to fully abandon his Senate seat to run for governor, making the decision particularly high-stakes.
+He would need to begin forming a campaign committee and fundraising by late 2025 at the latest to compete effectively before California's March 2026 filing deadline for the June primary.
 
-### What would it take for these odds to move above 5% before the end of 2025?
+### Who are the current frontrunners for the Democratic nomination that Padilla would face?
 
-Padilla would need to form an exploratory committee, make campaign hires, or publicly signal interest in the race while at least one major competitor like Kounalakis drops out. Absent tangible campaign infrastructure by fall 2025, these odds will likely decay further toward zero.
+Lieutenant Governor Eleni Kounalakis has been most publicly positioning for the race, with other potential candidates including Betty Yee, Tony Thurmond, and possibly other statewide officials eyeing the open seat after Newsom's term limits.
 
 ## Learn More
 

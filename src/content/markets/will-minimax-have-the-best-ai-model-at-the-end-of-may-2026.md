@@ -3,7 +3,7 @@ title: "Will MiniMax have the best AI model at the end of May 2026?"
 description: "Will MiniMax have the best AI model at the end of May 2026? Odds: 0.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will MiniMax have the best AI model at the end of May 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-18
 expiryDate: 2026-05-31
 tags: ["ai", "politics", "polymarket"]

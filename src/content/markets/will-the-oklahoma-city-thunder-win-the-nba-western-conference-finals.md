@@ -3,7 +3,7 @@ title: "Will the Oklahoma City Thunder win the NBA Western Conference Finals?"
 description: "Will the Oklahoma City Thunder win the NBA Western Conference Finals? Odds: 67.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Oklahoma City Thunder win the NBA Western Conference Finals?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-18
 expiryDate: 2026-06-16
 tags: ["polymarket", "sports"]

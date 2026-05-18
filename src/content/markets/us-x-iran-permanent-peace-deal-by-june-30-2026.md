@@ -3,7 +3,7 @@ title: "US x Iran permanent peace deal by June 30, 2026?"
 description: "US x Iran permanent peace deal by June 30, 2026? Odds: 27.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "US x Iran permanent peace deal by June 30, 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-18
 expiryDate: 2026-05-31
 tags: ["politics", "polymarket"]

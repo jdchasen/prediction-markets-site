@@ -3,7 +3,7 @@ title: "Will WTI Crude Oil (WTI) hit (LOW) $20 in May?"
 description: "Will WTI Crude Oil (WTI) hit (LOW) $20 in May? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will WTI Crude Oil (WTI) hit (LOW) $20 in May?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-18
 expiryDate: 2026-06-01
 tags: ["politics", "polymarket"]

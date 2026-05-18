@@ -1,53 +1,54 @@
 ---
 title: "Will US withdraw from NATO before 2027?"
-description: "Will US withdraw from NATO before 2027? Odds: 8.4% YES on Polymarket. See live prices and trade this market."
+description: "Will US withdraw from NATO before 2027? Odds: 8.3% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will US withdraw from NATO before 2027?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-05-18
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 8.4
-polymarketNo: 91.6
-polymarketVolume: 989452
+polymarketYes: 8.3
+polymarketNo: 91.7
+polymarketVolume: 989547
 polymarketUrl: "https://polymarket.com/event/will-us-withdraw-from-nato-before-2027-348-975-598-224-737"
+analysisDate: 2026-05-18
 ---
 
-The market pricing an 8.5% chance of US NATO withdrawal reflects traders viewing this as a low-probability but non-zero tail risk, driven primarily by speculation around potential Trump policy decisions if he wins the 2024 election. This matters because NATO withdrawal would represent the most significant rupture in the transatlantic security alliance since its 1949 founding, fundamentally reshaping global geopolitics during ongoing conflicts in Ukraine and rising tensions with China.
+The probability of a US NATO withdrawal sits below 10%, reflecting widespread skepticism that such a dramatic foreign policy rupture would occur, though the question carries enormous implications for European security architecture and the post-WWII international order. President Trump's documented skepticism toward NATO during his first term and his return to office in January 2025 drives whatever credibility this scenario has, as he previously threatened withdrawal and reportedly came close to executing it in 2018-2019.
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 8.5% | 91.5% | $989K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 8.3% | 91.7% | $990K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The bull case centers on Trump's documented hostility toward NATO throughout his first term and campaign rhetoric suggesting he might not defend Article 5 commitments. He has repeatedly called the alliance "obsolete" and criticized European defense spending, with advisors like Richard Grenell advocating for a more transactional approach to alliances. Congressional Republicans have shown increasing skepticism of foreign commitments, and a 2025-2026 timeframe would give a Trump administration time to pursue withdrawal after the 2024 election. The legal mechanism exists—the President could provide one-year notice under Article 13 of the NATO treaty, though Congress passed legislation in 2023 requiring Senate approval for withdrawal.
+The bull case centers on Trump's executive authority and documented hostility toward the alliance. The president could theoretically initiate withdrawal via executive action, though the 2023 bipartisan amendment to the National Defense Authorization Act requires congressional approval for any NATO exit. Trump has repeatedly characterized NATO members as delinquent on defense spending commitments, with only 23 of 32 members projected to meet the 2% GDP threshold in 2024. A significant European security crisis, escalation in Ukraine requiring substantial US intervention, or domestic political pressure from isolationist Republicans could provide the catalyst. The early months of 2025 following Trump's inauguration represent the highest-risk window, particularly if European leaders fail to demonstrate increased burden-sharing at the June 2025 NATO summit in The Hague.
 
-The bear case is considerably stronger: the 2023 legislation requiring two-thirds Senate approval creates a substantial institutional barrier that even a Republican majority couldn't overcome without significant Democratic defection. NATO has only grown stronger and more unified following Russia's Ukraine invasion, with Finland and Sweden joining in 2023-2024, making withdrawal politically toxic. Defense spending among European allies has increased dramatically, addressing Trump's primary stated grievance. The US foreign policy establishment—including military leadership and most Congressional Republicans—remains deeply committed to NATO, and any withdrawal attempt would face immediate legal challenges and potential Supreme Court intervention.
+The bear case is substantially stronger: NATO withdrawal would require Senate approval under current law, where even Republican senators have demonstrated consistent support for the alliance. The Senate voted 97-2 in 2023 for legislation blocking unilateral presidential withdrawal. Congressional Republicans, despite Trump's influence, largely represent the national security establishment's pro-NATO consensus. Major defense contractors with significant political influence depend on NATO interoperability and arms sales. Furthermore, any withdrawal attempt would trigger immediate legal challenges and could take years to execute under NATO's Article 13, which requires 12 months' notice. The practical reality is that dismantling seven decades of military integration, shared infrastructure, and operational command structures presents logistical obstacles beyond political ones.
 
-Key catalysts include the November 2024 presidential election results, Trump's cabinet selections in late 2024 if elected, and the 2025 NATO summit scheduled for The Hague. Watch for any executive orders or policy statements in early 2025 regarding alliance commitments, as well as Congressional positioning on defense authorization bills. The Senate composition after 2024 and 2026 midterm elections determines the feasibility of any withdrawal requiring legislative approval. European defense spending announcements and any deterioration in Ukraine's position could shift the dynamics, though current trajectories favor alliance strengthening rather than American exit.
+Traders should monitor several specific indicators: Trump's cabinet appointments for Secretary of Defense and State will signal intent, with isolationist picks like Ric Grenell increasing withdrawal probability. Watch for any executive orders or policy directives regarding NATO in the first 100 days of the administration. The February 2025 Munich Security Conference and June 2025 NATO summit will test alliance cohesion. Congressional composition matters—the 2026 midterm elections could shift the legislative barrier. European defense spending announcements, particularly from Germany following their February 2025 elections, may either satisfy or inflame Trump's criticisms. Any Russian military moves in Eastern Europe would likely freeze withdrawal discussions entirely.
 
 ## Related Markets
 
-- [Will the US acquire part of Greenland in 2026?](/odds/will-the-us-acquire-part-of-greenland-in-2026) — 14% YES
 - [Will Marco Rubio win the 2028 US Presidential Election?](/odds/will-marco-rubio-win-the-2028-us-presidential-election) — 14% YES
 - [Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?](/odds/will-amanda-anisimova-be-the-2026-womens-wimbledon-winner) — 6% YES
+- [Will Alex Padilla win the California Governor Election in 2026?](/odds/will-alex-padilla-win-the-california-governor-election-in-2026) — 0% YES
 
 ## Frequently Asked Questions
 
-### Could Trump legally withdraw from NATO without Congress after the 2023 legislation requiring Senate approval?
+### What legal mechanisms would actually be required for the US to exit NATO?
 
-This remains constitutionally uncertain—while the 2023 law requires two-thirds Senate consent, the executive branch could argue treaties fall under presidential foreign policy powers, likely triggering Supreme Court review. Any withdrawal attempt would face immediate litigation testing whether Congress can constitutionally bind the President's treaty withdrawal authority.
+Under the 2023 NDAA amendment, the president cannot withdraw without an Act of Congress or a Senate resolution with two-thirds support. Additionally, NATO's Article 13 requires one year's written notice to the Canadian government, giving time for legal and political challenges.
 
-### What's the actual timeline if a president decided to pursue NATO withdrawal starting in 2025?
+### Has Trump specifically indicated he would pursue NATO withdrawal in his second term?
 
-Article 13 of the NATO treaty requires one year's written notice, meaning the earliest possible withdrawal after January 2025 inauguration would be January 2026. However, the 2023 Senate approval requirement would need resolution first, adding months or years of legal and legislative proceedings.
+Trump has not explicitly committed to withdrawal but has repeatedly threatened that European allies must meet defense spending targets or the US would "not protect" them. His 2024 campaign statements suggested he would use withdrawal threats as leverage rather than an immediate policy goal.
 
-### How would markets likely react if withdrawal odds suddenly jumped above 20-30%?
+### What would happen to US military bases and personnel in Europe if withdrawal occurred?
 
-Defense contractor stocks would likely surge on expectations of accelerated European military spending, the euro would weaken significantly against the dollar, and safe-haven assets would rally on geopolitical uncertainty. Eastern European equity markets and currencies would face severe pressure given security implications.
+The US maintains approximately 100,000 troops across European NATO bases under bilateral agreements separate from NATO membership itself. Withdrawal from NATO wouldn't automatically terminate these arrangements, though it would eliminate the collective defense obligation and integrated command structure.
 
 ## Learn More
 

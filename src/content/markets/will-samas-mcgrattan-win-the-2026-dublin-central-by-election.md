@@ -3,7 +3,7 @@ title: "Will Séamas McGrattan win the 2026 Dublin-central by-election?"
 description: "Will Séamas McGrattan win the 2026 Dublin-central by-election? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Séamas McGrattan win the 2026 Dublin-central by-election?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-18
 expiryDate: 2026-12-31
 tags: ["elections", "politics", "polymarket"]

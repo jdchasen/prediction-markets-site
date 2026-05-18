@@ -9,9 +9,8 @@ expiryDate: 2026-11-03
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.1
 polymarketNo: 99.9
-polymarketVolume: 974307
+polymarketVolume: 984067
 polymarketUrl: "https://polymarket.com/event/will-betty-yee-win-the-california-governor-election-in-2026"
-analysisDate: 2026-05-18
 ---
 
 Betty Yee, California's former State Controller, faces extraordinarily long odds in prediction markets for the 2026 gubernatorial race, reflecting a crowded field dominated by higher-profile Democrats and structural challenges in breaking through without a current statewide platform.
