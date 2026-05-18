@@ -3,15 +3,14 @@ title: "Will Liverpool finish in the top 4 of the EPL 2025–26 standings?"
 description: "Will Liverpool finish in the top 4 of the EPL 2025–26 standings? Odds: 52.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Liverpool finish in the top 4 of the EPL 2025–26 standings?"
 category: "politics"
-status: "settled"
-lastUpdated: 2026-05-12
+status: "active"
+lastUpdated: 2026-05-18
 expiryDate: 2026-05-27
 tags: ["politics", "polymarket"]
 polymarketYes: 52.5
 polymarketNo: 47.5
 polymarketVolume: 97101
 polymarketUrl: "https://polymarket.com/event/will-liverpool-finish-in-the-top-4-of-the-epl-202526-standings"
-analysisDate: 2026-05-11
 ---
 
 # Liverpool Top 4 Finish Analysis

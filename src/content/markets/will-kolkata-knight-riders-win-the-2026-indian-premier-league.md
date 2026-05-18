@@ -3,8 +3,8 @@ title: "Will Kolkata Knight Riders win the 2026 Indian Premier League?"
 description: "Will Kolkata Knight Riders win the 2026 Indian Premier League? Odds: 1.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Kolkata Knight Riders win the 2026 Indian Premier League?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-05-17
+status: "settled"
+lastUpdated: 2026-05-18
 expiryDate: 2026-05-31
 tags: ["polymarket", "sports"]
 polymarketYes: 1.4

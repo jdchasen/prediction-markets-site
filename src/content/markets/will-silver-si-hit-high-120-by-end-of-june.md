@@ -1,17 +1,16 @@
 ---
 title: "Will Silver (SI) hit (HIGH) $120 by end of June?"
-description: "Will Silver (SI) hit (HIGH) $120 by end of June? Odds: 6.6% YES on Polymarket. See live prices and trade this market."
+description: "Will Silver (SI) hit (HIGH) $120 by end of June? Odds: 5.6% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Silver (SI) hit (HIGH) $120 by end of June?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-17
+lastUpdated: 2026-05-18
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
-polymarketYes: 6.6
-polymarketNo: 93.5
-polymarketVolume: 992115
+polymarketYes: 5.6
+polymarketNo: 94.4
+polymarketVolume: 992454
 polymarketUrl: "https://polymarket.com/event/will-silver-si-hit-high-120-by-end-of-june"
-analysisDate: 2026-05-17
 ---
 
 The silver futures market is pricing in just a 6.6% chance of reaching $120 per ounce by June 2026, reflecting skepticism that the precious metal can nearly quadruple from current levels around $32-33 despite recent industrial demand narratives and monetary policy speculation.

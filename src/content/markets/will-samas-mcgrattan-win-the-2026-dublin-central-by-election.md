@@ -4,14 +4,13 @@ description: "Will Séamas McGrattan win the 2026 Dublin-central by-election? Od
 marketQuestion: "Will Séamas McGrattan win the 2026 Dublin-central by-election?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-17
+lastUpdated: 2026-05-18
 expiryDate: 2026-12-31
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.1
 polymarketNo: 99.9
 polymarketVolume: 9902
 polymarketUrl: "https://polymarket.com/event/will-samas-mcgrattan-win-the-2026-dublin-central-by-election"
-analysisDate: 2026-05-17
 ---
 
 # Dublin Central 2026 By-Election: McGrattan's Long-Shot Bid

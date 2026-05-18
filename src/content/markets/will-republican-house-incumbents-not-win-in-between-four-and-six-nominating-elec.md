@@ -3,8 +3,8 @@ title: "Will Republican House incumbents not win in between four and six nominat
 description: "Will Republican House incumbents not win in between four and six nominating elections in the 2026 cycle? Odds: 63.2% YES on Polymarket. See live prices and t..."
 marketQuestion: "Will Republican House incumbents not win in between four and six nominating elections in the 2026 cycle?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-17
+status: "settled"
+lastUpdated: 2026-05-18
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 63.2
 polymarketNo: 36.8

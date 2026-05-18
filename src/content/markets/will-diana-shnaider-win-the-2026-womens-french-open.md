@@ -3,8 +3,8 @@ title: "Will Diana Shnaider win the 2026 Women’s French Open?"
 description: "Will Diana Shnaider win the 2026 Women’s French Open? Odds: 0.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Diana Shnaider win the 2026 Women’s French Open?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-17
+status: "settled"
+lastUpdated: 2026-05-18
 expiryDate: 2026-06-06
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 0.7

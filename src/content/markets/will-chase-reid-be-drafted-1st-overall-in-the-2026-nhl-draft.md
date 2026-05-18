@@ -1,17 +1,16 @@
 ---
 title: "Will Chase Reid be drafted 1st overall in the 2026 NHL Draft?"
-description: "Will Chase Reid be drafted 1st overall in the 2026 NHL Draft? Odds: 5.8% YES on Polymarket. See live prices and trade this market."
+description: "Will Chase Reid be drafted 1st overall in the 2026 NHL Draft? Odds: 5.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Chase Reid be drafted 1st overall in the 2026 NHL Draft?"
 category: "sports"
 status: "active"
-lastUpdated: 2026-05-17
+lastUpdated: 2026-05-18
 expiryDate: 2026-06-27
 tags: ["polymarket", "sports"]
-polymarketYes: 5.8
-polymarketNo: 94.2
-polymarketVolume: 9930
+polymarketYes: 5.0
+polymarketNo: 95.0
+polymarketVolume: 9957
 polymarketUrl: "https://polymarket.com/event/will-chase-reid-be-drafted-1st-overall-in-the-2026-nhl-draft"
-analysisDate: 2026-05-17
 ---
 
 # Chase Reid 1st Overall: A 5.8% Longshot With Clear Pathways

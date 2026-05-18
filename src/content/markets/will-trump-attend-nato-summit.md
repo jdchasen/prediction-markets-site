@@ -3,8 +3,8 @@ title: "Will Trump attend NATO Summit?"
 description: "Will Trump attend NATO Summit? Odds: 76.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Trump attend NATO Summit?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-17
+status: "settled"
+lastUpdated: 2026-05-18
 expiryDate: 2026-07-08
 tags: ["politics", "polymarket", "trump"]
 polymarketYes: 76.5

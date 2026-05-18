@@ -4,14 +4,13 @@ description: "Will Alexander Albon be the 2026 F1 Drivers' Champion? Odds: 0.4% 
 marketQuestion: "Will Alexander Albon be the 2026 F1 Drivers' Champion?"
 category: "sports"
 status: "active"
-lastUpdated: 2026-05-17
+lastUpdated: 2026-05-18
 expiryDate: 2026-12-06
 tags: ["polymarket", "sports"]
 polymarketYes: 0.4
 polymarketNo: 99.7
-polymarketVolume: 9807163
+polymarketVolume: 9855009
 polymarketUrl: "https://polymarket.com/event/will-alexander-albon-be-the-2026-f1-drivers-champion"
-analysisDate: 2026-05-17
 ---
 
 The betting market gives Alexander Albon virtually no chance at winning the 2026 F1 Drivers' Championship, reflecting his current position at Williams Racing and the team's recent struggles near the bottom of the constructors' standings. Despite Albon's consistent performances that have often maximized what the FW45 and FW46 could deliver, Williams finished dead last in the 2023 constructors' championship and showed only marginal improvement in 2024, making a championship-winning car seem implausible by 2026.

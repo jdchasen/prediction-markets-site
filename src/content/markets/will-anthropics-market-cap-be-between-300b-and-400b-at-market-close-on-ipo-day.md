@@ -1,17 +1,16 @@
 ---
 title: "Will Anthropic’s market cap be between $300B and $400B at market close on IPO day?"
-description: "Will Anthropic’s market cap be between $300B and $400B at market close on IPO day? Odds: 0.2% YES on Polymarket. See live prices and trade this market."
+description: "Will Anthropic’s market cap be between $300B and $400B at market close on IPO day? Odds: 0.3% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Anthropic’s market cap be between $300B and $400B at market close on IPO day?"
 category: "finance"
 status: "active"
-lastUpdated: 2026-05-17
+lastUpdated: 2026-05-18
 expiryDate: 2026-06-30
 tags: ["finance", "polymarket"]
-polymarketYes: 0.2
-polymarketNo: 99.8
+polymarketYes: 0.3
+polymarketNo: 99.7
 polymarketVolume: 99633
 polymarketUrl: "https://polymarket.com/event/will-anthropics-market-cap-be-between-300b-and-400b-at-market-close-on-ipo-day"
-analysisDate: 2026-05-17
 ---
 
 The market pricing Anthropic's IPO valuation at this specific $300-400B band shows extreme skepticism at 0.2% odds, reflecting doubts about both timing and the likelihood of achieving such an astronomical valuation that would make it one of the most valuable tech companies globally.

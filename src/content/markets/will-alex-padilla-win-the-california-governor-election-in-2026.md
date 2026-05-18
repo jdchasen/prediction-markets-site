@@ -4,14 +4,13 @@ description: "Will Alex Padilla win the California Governor Election in 2026? Od
 marketQuestion: "Will Alex Padilla win the California Governor Election in 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-17
+lastUpdated: 2026-05-18
 expiryDate: 2026-11-03
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.1
 polymarketNo: 99.9
-polymarketVolume: 974150
+polymarketVolume: 990072
 polymarketUrl: "https://polymarket.com/event/will-alex-padilla-win-the-california-governor-election-in-2026"
-analysisDate: 2026-05-17
 ---
 
 California's junior senator Alex Padilla faces exceptionally long odds to win the 2026 gubernatorial race, with prediction markets pricing his chances near zero despite his statewide profile, reflecting a crowded Democratic field and strong competition from more prominent candidates already positioning for the race.

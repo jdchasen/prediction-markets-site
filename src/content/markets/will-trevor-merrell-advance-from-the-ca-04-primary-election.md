@@ -3,8 +3,8 @@ title: "Will Trevor Merrell advance from the CA-04 primary election?"
 description: "Will Trevor Merrell advance from the CA-04 primary election? Odds: 7.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Trevor Merrell advance from the CA-04 primary election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-17
+status: "settled"
+lastUpdated: 2026-05-18
 expiryDate: 2026-06-02
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 7.1

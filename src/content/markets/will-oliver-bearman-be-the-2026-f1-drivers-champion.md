@@ -4,14 +4,13 @@ description: "Will Oliver Bearman be the 2026 F1 Drivers' Champion? Odds: 0.1% Y
 marketQuestion: "Will Oliver Bearman be the 2026 F1 Drivers' Champion?"
 category: "sports"
 status: "active"
-lastUpdated: 2026-05-17
+lastUpdated: 2026-05-18
 expiryDate: 2026-12-06
 tags: ["polymarket", "sports"]
 polymarketYes: 0.1
 polymarketNo: 99.9
-polymarketVolume: 9954779
+polymarketVolume: 9979705
 polymarketUrl: "https://polymarket.com/event/will-oliver-bearman-be-the-2026-f1-drivers-champion"
-analysisDate: 2026-05-17
 ---
 
 The market pricing Oliver Bearman at a mere 0.1% chance to win the 2026 F1 Drivers' Championship reflects extreme skepticism about the young British driver's prospects, despite his upcoming full-time debut with Haas in 2025. This matters because Bearman represents one of F1's most hyped rookie prospects, having impressed during his emergency Ferrari substitute drive at the 2024 Saudi Arabian Grand Prix where he scored points on debut.

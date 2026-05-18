@@ -1,16 +1,15 @@
 ---
 title: "Will the Republicans win the Maine Senate race in 2026?"
-description: "Will the Republicans win the Maine Senate race in 2026? Odds: 22.5% YES on Polymarket. See live prices and trade this market."
+description: "Will the Republicans win the Maine Senate race in 2026? Odds: 25.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Republicans win the Maine Senate race in 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-17
+lastUpdated: 2026-05-18
 tags: ["ai", "politics", "polymarket"]
-polymarketYes: 22.5
-polymarketNo: 77.5
-polymarketVolume: 97473
+polymarketYes: 25.5
+polymarketNo: 74.5
+polymarketVolume: 98737
 polymarketUrl: "https://polymarket.com/event/will-the-republicans-win-the-maine-senate-race-in-2026"
-analysisDate: 2026-05-17
 ---
 
 # Maine Senate 2026: Republican Long Shot in Democratic-Leaning State

@@ -3,8 +3,8 @@ title: "Ukraine agrees not to join NATO before 2027? "
 description: "Ukraine agrees not to join NATO before 2027?  Odds: 19.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Ukraine agrees not to join NATO before 2027? "
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-17
+status: "settled"
+lastUpdated: 2026-05-18
 expiryDate: 2026-12-31
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 19.0

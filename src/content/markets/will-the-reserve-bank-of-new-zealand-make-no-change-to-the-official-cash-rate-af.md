@@ -3,8 +3,8 @@ title: "Will the Reserve Bank of New Zealand make no change to the official cash
 description: "Will the Reserve Bank of New Zealand make no change to the official cash rate after the May decision? Odds: 87.0% YES on Polymarket. See live prices and trad..."
 marketQuestion: "Will the Reserve Bank of New Zealand make no change to the official cash rate after the May decision?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-17
+status: "settled"
+lastUpdated: 2026-05-18
 expiryDate: 2026-05-27
 tags: ["politics", "polymarket"]
 polymarketYes: 87.0

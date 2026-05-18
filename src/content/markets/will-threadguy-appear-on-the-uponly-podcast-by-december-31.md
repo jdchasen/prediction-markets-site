@@ -3,8 +3,8 @@ title: "Will ThreadGuy appear on the UpOnly podcast by December 31?"
 description: "Will ThreadGuy appear on the UpOnly podcast by December 31? Odds: 50.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will ThreadGuy appear on the UpOnly podcast by December 31?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-17
+status: "settled"
+lastUpdated: 2026-05-18
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]
 polymarketYes: 50.5

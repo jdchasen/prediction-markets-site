@@ -4,14 +4,13 @@ description: "Will Marco Rubio be the leader of Venezuela end of 2026? Odds: 0.1
 marketQuestion: "Will Marco Rubio be the leader of Venezuela end of 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-17
+lastUpdated: 2026-05-18
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 0.1
 polymarketNo: 99.9
-polymarketVolume: 981286
+polymarketVolume: 983398
 polymarketUrl: "https://polymarket.com/event/will-marco-rubio-be-the-leader-of-venezuela-end-of-2026"
-analysisDate: 2026-05-17
 ---
 
 This market essentially prices the probability of a foreign national becoming Venezuela's leader at near-impossible levels, reflecting the constitutional and practical barriers that make this scenario extraordinarily implausible.

@@ -3,8 +3,8 @@ title: "Will \"Iceman\" - Drake debut week album sales be between 500k and 550k?
 description: "Will \"Iceman\" - Drake debut week album sales be between 500k and 550k? Odds: 43.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will \"Iceman\" - Drake debut week album sales be between 500k and 550k?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-17
+status: "settled"
+lastUpdated: 2026-05-18
 expiryDate: 2026-08-31
 tags: ["politics", "polymarket"]
 polymarketYes: 43.4

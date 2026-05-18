@@ -4,14 +4,13 @@ description: "Will Arsenal finish in 2nd place in the 2025-26 English Premier Le
 marketQuestion: "Will Arsenal finish in 2nd place in the 2025-26 English Premier League?"
 category: "sports"
 status: "active"
-lastUpdated: 2026-05-17
+lastUpdated: 2026-05-18
 expiryDate: 2026-05-27
 tags: ["polymarket", "sports"]
 polymarketYes: 18.0
 polymarketNo: 82.0
-polymarketVolume: 97512
+polymarketVolume: 98012
 polymarketUrl: "https://polymarket.com/event/will-arsenal-finish-in-2nd-place-in-the-2025-26-english-premier-league"
-analysisDate: 2026-05-17
 ---
 
 # Arsenal 2nd Place Finish Analysis

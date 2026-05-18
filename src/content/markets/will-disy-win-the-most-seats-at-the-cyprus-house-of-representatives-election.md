@@ -3,8 +3,8 @@ title: "Will DISY win the most seats at the Cyprus House of Representatives elec
 description: "Will DISY win the most seats at the Cyprus House of Representatives election? Odds: 81.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will DISY win the most seats at the Cyprus House of Representatives election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-17
+status: "settled"
+lastUpdated: 2026-05-18
 expiryDate: 2026-05-24
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 81.5

@@ -4,14 +4,13 @@ description: "Will \"Michael\" be the April film with the highest domestic gross
 marketQuestion: "Will \"Michael\" be the April film with the highest domestic gross on May 31?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-17
+lastUpdated: 2026-05-18
 expiryDate: 2026-05-31
 tags: ["politics", "polymarket"]
 polymarketYes: 0.6
 polymarketNo: 99.4
 polymarketVolume: 99594
 polymarketUrl: "https://polymarket.com/event/will-michael-be-the-april-film-with-the-highest-domestic-gross-on-may-31"
-analysisDate: 2026-05-17
 ---
 
 This market is essentially trading at zero probability that a film called "Michael" will lead April 2025 theatrical releases in domestic box office by May 31, 2026, reflecting extreme skepticism about either the film's existence or competitive positioning against other April releases.

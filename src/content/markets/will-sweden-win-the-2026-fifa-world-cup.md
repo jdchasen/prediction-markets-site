@@ -3,8 +3,8 @@ title: "Will Sweden win the 2026 FIFA World Cup?"
 description: "Will Sweden win the 2026 FIFA World Cup? Odds: 0.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Sweden win the 2026 FIFA World Cup?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-05-17
+status: "settled"
+lastUpdated: 2026-05-18
 expiryDate: 2026-07-20
 tags: ["polymarket", "sports"]
 polymarketYes: 0.5

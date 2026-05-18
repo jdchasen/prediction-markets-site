@@ -1,17 +1,16 @@
 ---
 title: "Will Ethereum dip to $1,500 by December 31, 2026?"
-description: "Will Ethereum dip to $1,500 by December 31, 2026? Odds: 43.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Ethereum dip to $1,500 by December 31, 2026? Odds: 46.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Ethereum dip to $1,500 by December 31, 2026?"
 category: "crypto"
 status: "active"
-lastUpdated: 2026-05-17
+lastUpdated: 2026-05-18
 expiryDate: 2027-01-01
 tags: ["crypto", "ethereum", "polymarket"]
-polymarketYes: 43.5
-polymarketNo: 56.5
-polymarketVolume: 988989
+polymarketYes: 46.0
+polymarketNo: 54.0
+polymarketVolume: 989782
 polymarketUrl: "https://polymarket.com/event/will-ethereum-dip-to-1500-by-december-31-2026"
-analysisDate: 2026-05-17
 ---
 
 Polymarket traders see a 43.5% chance of Ethereum falling to $1,500 or below by year-end 2026, reflecting genuine uncertainty about whether the second-largest cryptocurrency can maintain its recent valuation gains amid mounting competitive pressure and macro headwinds over the next two years.

@@ -1,17 +1,16 @@
 ---
 title: "Will the Democratic Party win the NE-01 House seat?"
-description: "Will the Democratic Party win the NE-01 House seat? Odds: 17.5% YES on Polymarket. See live prices and trade this market."
+description: "Will the Democratic Party win the NE-01 House seat? Odds: 13.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Democratic Party win the NE-01 House seat?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-17
+lastUpdated: 2026-05-18
 expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
-polymarketYes: 17.5
-polymarketNo: 82.5
-polymarketVolume: 9738
+polymarketYes: 13.0
+polymarketNo: 87.0
+polymarketVolume: 9820
 polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-ne-01-house-seat"
-analysisDate: 2026-05-17
 ---
 
 # NE-01 Democratic Viability: A Deep Dive
