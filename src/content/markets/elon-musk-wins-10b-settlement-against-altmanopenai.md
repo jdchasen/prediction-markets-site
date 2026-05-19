@@ -3,8 +3,8 @@ title: "Elon Musk wins $10b+ settlement against Altman/OpenAI?"
 description: "Elon Musk wins $10b+ settlement against Altman/OpenAI? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Elon Musk wins $10b+ settlement against Altman/OpenAI?"
 category: "tech"
-status: "active"
-lastUpdated: 2026-05-18
+status: "settled"
+lastUpdated: 2026-05-19
 expiryDate: 2026-12-31
 tags: ["ai", "polymarket", "tech"]
 polymarketYes: 0.1

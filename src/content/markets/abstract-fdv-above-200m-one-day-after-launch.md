@@ -4,14 +4,13 @@ description: "Abstract FDV above $200M one day after launch? Odds: 77.0% YES on 
 marketQuestion: "Abstract FDV above $200M one day after launch?"
 category: "crypto"
 status: "active"
-lastUpdated: 2026-05-18
+lastUpdated: 2026-05-19
 expiryDate: 2028-01-01
 tags: ["crypto", "polymarket"]
 polymarketYes: 77.0
 polymarketNo: 23.0
-polymarketVolume: 99895
+polymarketVolume: 99905
 polymarketUrl: "https://polymarket.com/event/abstract-fdv-above-200m-one-day-after-launch"
-analysisDate: 2026-05-18
 ---
 
 The market pricing Abstract's fully diluted valuation above $200M at 77% reflects strong confidence in the Ethereum Layer 2's positioning, though the extended timeline to 2028 introduces significant uncertainty about when "launch" actually occurs and what market conditions will prevail.

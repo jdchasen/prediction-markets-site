@@ -4,14 +4,13 @@ description: "Will the Carolina Hurricanes win the 2026 NHL Stanley Cup? Odds: 3
 marketQuestion: "Will the Carolina Hurricanes win the 2026 NHL Stanley Cup?"
 category: "sports"
 status: "active"
-lastUpdated: 2026-05-18
+lastUpdated: 2026-05-19
 expiryDate: 2026-06-30
 tags: ["polymarket", "sports"]
 polymarketYes: 37.5
 polymarketNo: 62.5
-polymarketVolume: 992360
+polymarketVolume: 995942
 polymarketUrl: "https://polymarket.com/event/will-the-carolina-hurricanes-win-the-2026-nhl-stanley-cup"
-analysisDate: 2026-05-18
 ---
 
 The Carolina Hurricanes enter the 2025-26 season horizon as a significant Stanley Cup contender at 37.5%, reflecting their sustained success as a Metropolitan Division powerhouse but also acknowledging the intense competition from multiple elite teams. This market matters because Carolina has consistently been a top-tier regular season performer in recent years yet hasn't advanced past the Conference Finals since their 2006 championship run, creating uncertainty about their ability to convert regular season dominance into playoff success.

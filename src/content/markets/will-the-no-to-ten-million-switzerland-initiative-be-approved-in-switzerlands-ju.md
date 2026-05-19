@@ -1,17 +1,16 @@
 ---
 title: "Will the No to ten million Switzerland initiative be approved in Switzerland’s June 14, 2026 popular vote?"
-description: "Will the No to ten million Switzerland initiative be approved in Switzerland’s June 14, 2026 popular vote? Odds: 35.0% YES on Polymarket. See live prices and..."
+description: "Will the No to ten million Switzerland initiative be approved in Switzerland’s June 14, 2026 popular vote? Odds: 34.5% YES on Polymarket. See live prices and..."
 marketQuestion: "Will the No to ten million Switzerland initiative be approved in Switzerland’s June 14, 2026 popular vote?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-18
+lastUpdated: 2026-05-19
 expiryDate: 2026-06-14
 tags: ["politics", "polymarket"]
-polymarketYes: 35.0
-polymarketNo: 65.0
-polymarketVolume: 99788
+polymarketYes: 34.5
+polymarketNo: 65.5
+polymarketVolume: 99966
 polymarketUrl: "https://polymarket.com/event/will-the-no-to-ten-million-switzerland-initiative-be-approved-in-switzerlands-june-14-2026-popular-vote"
-analysisDate: 2026-05-18
 ---
 
 The Swiss "No to ten million" initiative, which seeks to cap Switzerland's population at 10 million through immigration restrictions, currently trades at 35% approval probability—reflecting skepticism that voters will embrace what critics characterize as an isolationist policy measure despite Switzerland's tradition of immigration-related ballot measures.

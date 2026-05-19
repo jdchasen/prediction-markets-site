@@ -3,8 +3,8 @@ title: "Hantavirus vaccine in 2026? "
 description: "Hantavirus vaccine in 2026?  Odds: 9.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Hantavirus vaccine in 2026? "
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-18
+status: "settled"
+lastUpdated: 2026-05-19
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 9.0

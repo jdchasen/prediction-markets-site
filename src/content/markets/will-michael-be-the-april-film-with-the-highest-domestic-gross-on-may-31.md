@@ -3,8 +3,8 @@ title: "Will \"Michael\" be the April film with the highest domestic gross on Ma
 description: "Will \"Michael\" be the April film with the highest domestic gross on May 31? Odds: 0.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will \"Michael\" be the April film with the highest domestic gross on May 31?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-18
+status: "settled"
+lastUpdated: 2026-05-19
 expiryDate: 2026-05-31
 tags: ["politics", "polymarket"]
 polymarketYes: 0.5

@@ -1,17 +1,16 @@
 ---
 title: "Will Mirra Andreeva win the 2026 Women’s French Open?"
-description: "Will Mirra Andreeva win the 2026 Women’s French Open? Odds: 6.7% YES on Polymarket. See live prices and trade this market."
+description: "Will Mirra Andreeva win the 2026 Women’s French Open? Odds: 6.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Mirra Andreeva win the 2026 Women’s French Open?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-18
+lastUpdated: 2026-05-19
 expiryDate: 2026-06-06
 tags: ["politics", "polymarket"]
-polymarketYes: 6.7
-polymarketNo: 93.3
-polymarketVolume: 96742
+polymarketYes: 6.5
+polymarketNo: 93.5
+polymarketVolume: 97619
 polymarketUrl: "https://polymarket.com/event/will-mirra-andreeva-win-the-2026-womens-french-open"
-analysisDate: 2026-05-18
 ---
 
 # Mirra Andreeva 2026 French Open Analysis

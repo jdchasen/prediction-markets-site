@@ -3,8 +3,8 @@ title: "Will Traian Basescu be the next Prime Minister of Romania?"
 description: "Will Traian Basescu be the next Prime Minister of Romania? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Traian Basescu be the next Prime Minister of Romania?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-18
+status: "settled"
+lastUpdated: 2026-05-19
 expiryDate: 2026-05-31
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 0.1

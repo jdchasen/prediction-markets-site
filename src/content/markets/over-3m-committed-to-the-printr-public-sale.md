@@ -1,17 +1,16 @@
 ---
 title: "Over $3M committed to the Printr public sale?"
-description: "Over $3M committed to the Printr public sale? Odds: 1.7% YES on Polymarket. See live prices and trade this market."
+description: "Over $3M committed to the Printr public sale? Odds: 2.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Over $3M committed to the Printr public sale?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-18
+lastUpdated: 2026-05-19
 expiryDate: 2026-06-01
 tags: ["politics", "polymarket"]
-polymarketYes: 1.7
-polymarketNo: 98.3
-polymarketVolume: 984768
+polymarketYes: 2.1
+polymarketNo: 98.0
+polymarketVolume: 986806
 polymarketUrl: "https://polymarket.com/event/over-3m-committed-to-the-printr-public-sale"
-analysisDate: 2026-05-18
 ---
 
 The Printr public sale market is pricing in an extremely low probability of success at under 2% odds, suggesting traders expect this token offering to fail to attract meaningful capital by mid-2026.

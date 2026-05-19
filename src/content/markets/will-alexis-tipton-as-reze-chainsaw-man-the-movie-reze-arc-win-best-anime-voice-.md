@@ -3,8 +3,8 @@ title: "Will Alexis Tipton as Reze (Chainsaw Man – The Movie: Reze Arc) win Be
 description: "Will Alexis Tipton as Reze (Chainsaw Man – The Movie: Reze Arc) win Best Anime Voice Artist Performance (English) at the 2026 Crunchyroll Anime Awards? Odds:..."
 marketQuestion: "Will Alexis Tipton as Reze (Chainsaw Man – The Movie: Reze Arc) win Best Anime Voice Artist Performance (English) at the 2026 Crunchyroll Anime Awards?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-18
+status: "settled"
+lastUpdated: 2026-05-19
 expiryDate: 2026-05-23
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 16.5

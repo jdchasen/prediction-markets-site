@@ -4,14 +4,13 @@ description: "Will Russia enter Druzkhivka by December 31, 2026? Odds: 32.0% YES
 marketQuestion: "Will Russia enter Druzkhivka by December 31, 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-18
+lastUpdated: 2026-05-19
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 32.0
 polymarketNo: 68.0
 polymarketVolume: 9962
 polymarketUrl: "https://polymarket.com/event/will-russia-enter-druzkhivka-by-december-31-2026"
-analysisDate: 2026-05-18
 ---
 
 # Russia-Druzkhivka Market Analysis

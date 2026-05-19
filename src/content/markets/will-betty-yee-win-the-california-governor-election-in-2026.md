@@ -3,8 +3,8 @@ title: "Will Betty Yee win the California Governor Election in 2026?"
 description: "Will Betty Yee win the California Governor Election in 2026? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Betty Yee win the California Governor Election in 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-18
+status: "settled"
+lastUpdated: 2026-05-19
 expiryDate: 2026-11-03
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.1

@@ -1,17 +1,16 @@
 ---
 title: "Will global temperature increase by between 1.20ºC and 1.24ºC in May 2026?"
-description: "Will global temperature increase by between 1.20ºC and 1.24ºC in May 2026? Odds: 3.5% YES on Polymarket. See live prices and trade this market."
+description: "Will global temperature increase by between 1.20ºC and 1.24ºC in May 2026? Odds: 3.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will global temperature increase by between 1.20ºC and 1.24ºC in May 2026?"
 category: "science"
 status: "active"
-lastUpdated: 2026-05-18
+lastUpdated: 2026-05-19
 expiryDate: 2026-06-10
 tags: ["polymarket", "science", "weather"]
-polymarketYes: 3.5
-polymarketNo: 96.5
-polymarketVolume: 9669
+polymarketYes: 3.0
+polymarketNo: 97.0
+polymarketVolume: 9904
 polymarketUrl: "https://polymarket.com/event/will-global-temperature-increase-by-between-1pt20c-and-1pt24c-in-may-2026"
-analysisDate: 2026-05-18
 ---
 
 This ultra-narrow temperature band for a single month is priced at deep uncertainty, reflecting both the inherent difficulty of predicting precise climate outcomes and the specificity required to win this bet. With roughly 18 months until expiry, the market is currently pricing in an extremely low probability that May 2026 global temperatures will fall within this 0.04°C window, which matters because it reveals how traders view climate volatility and measurement precision at the seasonal scale.
