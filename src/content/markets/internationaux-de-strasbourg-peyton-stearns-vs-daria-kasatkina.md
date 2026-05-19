@@ -3,7 +3,7 @@ title: "Internationaux de Strasbourg: Peyton Stearns vs Daria Kasatkina"
 description: "Internationaux de Strasbourg: Peyton Stearns vs Daria Kasatkina Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Internationaux de Strasbourg: Peyton Stearns vs Daria Kasatkina"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-19
 expiryDate: 2026-05-27
 tags: ["politics", "polymarket"]

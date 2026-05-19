@@ -3,7 +3,7 @@ title: "Another 7.0 or above earthquake by May 30, 2026?"
 description: "Another 7.0 or above earthquake by May 30, 2026? Odds: 29.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Another 7.0 or above earthquake by May 30, 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-19
 expiryDate: 2026-05-31
 tags: ["politics", "polymarket"]

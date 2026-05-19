@@ -3,7 +3,7 @@ title: "Will Arsenal finish in 2nd place in the 2025-26 English Premier League?"
 description: "Will Arsenal finish in 2nd place in the 2025-26 English Premier League? Odds: 12.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Arsenal finish in 2nd place in the 2025-26 English Premier League?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-19
 expiryDate: 2026-05-27
 tags: ["polymarket", "sports"]

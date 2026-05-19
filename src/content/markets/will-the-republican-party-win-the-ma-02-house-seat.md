@@ -11,7 +11,6 @@ polymarketYes: 6.5
 polymarketNo: 93.5
 polymarketVolume: 9712
 polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-ma-02-house-seat"
-analysisDate: 2026-05-19
 ---
 
 # MA-02 Republican Odds Analysis

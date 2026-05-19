@@ -3,7 +3,7 @@ title: "US bank failure by May 31?"
 description: "US bank failure by May 31? Odds: 4.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "US bank failure by May 31?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-19
 expiryDate: 2026-05-31
 tags: ["ai", "politics", "polymarket"]

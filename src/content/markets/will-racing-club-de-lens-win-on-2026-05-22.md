@@ -3,7 +3,7 @@ title: "Will Racing Club de Lens win on 2026-05-22?"
 description: "Will Racing Club de Lens win on 2026-05-22? Odds: 61.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Racing Club de Lens win on 2026-05-22?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-19
 expiryDate: 2026-05-22
 tags: ["politics", "polymarket"]

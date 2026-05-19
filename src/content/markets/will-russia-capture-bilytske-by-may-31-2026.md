@@ -1,17 +1,16 @@
 ---
 title: "Will Russia capture Bilytske by May 31, 2026?"
-description: "Will Russia capture Bilytske by May 31, 2026? Odds: 4.0% YES on Polymarket. See live prices and trade this market."
+description: "Will Russia capture Bilytske by May 31, 2026? Odds: 4.3% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Russia capture Bilytske by May 31, 2026?"
 category: "politics"
-status: "settled"
+status: "active"
 lastUpdated: 2026-05-19
 expiryDate: 2026-05-31
 tags: ["politics", "polymarket"]
-polymarketYes: 4.0
-polymarketNo: 96.0
-polymarketVolume: 9654
+polymarketYes: 4.3
+polymarketNo: 95.7
+polymarketVolume: 9837
 polymarketUrl: "https://polymarket.com/event/will-russia-capture-bilytske-by-may-31-2026"
-analysisDate: 2026-05-18
 ---
 
 # Russia-Bilytske Capture Prediction Market Analysis

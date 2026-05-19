@@ -1,17 +1,16 @@
 ---
 title: "Will Solana dip to $70 in May?"
-description: "Will Solana dip to $70 in May? Odds: 11.6% YES on Polymarket. See live prices and trade this market."
+description: "Will Solana dip to $70 in May? Odds: 13.6% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Solana dip to $70 in May?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-05-19
 expiryDate: 2026-06-01
 tags: ["politics", "polymarket"]
-polymarketYes: 11.6
-polymarketNo: 88.4
-polymarketVolume: 98236
+polymarketYes: 13.6
+polymarketNo: 86.5
+polymarketVolume: 98479
 polymarketUrl: "https://polymarket.com/event/will-solana-dip-to-70-in-may-2026"
-analysisDate: 2026-05-19
 ---
 
 The market pricing Solana falling to $70 in May at just 11.6% reflects strong trader conviction that the cryptocurrency will maintain current levels well above that threshold, though the expiry extending to June 2026 creates significant uncertainty over a 13-month horizon.

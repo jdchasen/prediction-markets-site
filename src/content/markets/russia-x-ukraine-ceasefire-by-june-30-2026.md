@@ -3,7 +3,7 @@ title: "Russia x Ukraine ceasefire by June 30, 2026?"
 description: "Russia x Ukraine ceasefire by June 30, 2026? Odds: 7.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Russia x Ukraine ceasefire by June 30, 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-19
 expiryDate: 2026-12-31
 tags: ["ai", "politics", "polymarket"]

@@ -1,17 +1,16 @@
 ---
 title: "Will the Bank of Canada announce no change at the June meeting?"
-description: "Will the Bank of Canada announce no change at the June meeting? Odds: 96.1% YES on Polymarket. See live prices and trade this market."
+description: "Will the Bank of Canada announce no change at the June meeting? Odds: 96.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Bank of Canada announce no change at the June meeting?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-05-19
 expiryDate: 2026-06-10
 tags: ["politics", "polymarket"]
-polymarketYes: 96.1
-polymarketNo: 3.9
-polymarketVolume: 9744
+polymarketYes: 96.8
+polymarketNo: 3.2
+polymarketVolume: 9795
 polymarketUrl: "https://polymarket.com/event/will-the-bank-of-canada-announce-no-change-at-the-june-meeting"
-analysisDate: 2026-05-19
 ---
 
 # Bank of Canada June 2026 Rate Decision Analysis

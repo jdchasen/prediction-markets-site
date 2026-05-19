@@ -11,7 +11,6 @@ polymarketYes: 83.0
 polymarketNo: 17.0
 polymarketVolume: 9843
 polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-fl-12-house-seat"
-analysisDate: 2026-05-19
 ---
 
 # FL-12 Republican House Seat Analysis

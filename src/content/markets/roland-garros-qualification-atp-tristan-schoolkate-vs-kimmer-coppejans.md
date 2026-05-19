@@ -3,7 +3,7 @@ title: "Roland Garros, Qualification ATP: Tristan Schoolkate vs Kimmer Coppejans
 description: "Roland Garros, Qualification ATP: Tristan Schoolkate vs Kimmer Coppejans Odds: 29.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Roland Garros, Qualification ATP: Tristan Schoolkate vs Kimmer Coppejans"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-19
 expiryDate: 2026-05-26
 tags: ["politics", "polymarket"]

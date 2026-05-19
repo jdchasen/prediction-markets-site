@@ -9,9 +9,8 @@ expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 1.6
 polymarketNo: 98.5
-polymarketVolume: 97532
+polymarketVolume: 97548
 polymarketUrl: "https://polymarket.com/event/xi-jinping-divorce-before-2027"
-analysisDate: 2026-05-19
 ---
 
 # Xi Jinping Divorce Market Analysis

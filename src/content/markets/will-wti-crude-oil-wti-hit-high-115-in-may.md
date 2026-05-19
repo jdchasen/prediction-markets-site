@@ -1,17 +1,16 @@
 ---
 title: "Will WTI Crude Oil (WTI) hit (HIGH) $115 in May?"
-description: "Will WTI Crude Oil (WTI) hit (HIGH) $115 in May? Odds: 38.5% YES on Polymarket. See live prices and trade this market."
+description: "Will WTI Crude Oil (WTI) hit (HIGH) $115 in May? Odds: 39.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will WTI Crude Oil (WTI) hit (HIGH) $115 in May?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-05-19
 expiryDate: 2026-06-01
 tags: ["politics", "polymarket"]
-polymarketYes: 38.5
-polymarketNo: 61.5
-polymarketVolume: 977767
+polymarketYes: 39.0
+polymarketNo: 61.0
+polymarketVolume: 994053
 polymarketUrl: "https://polymarket.com/event/will-wti-crude-oil-wti-hit-high-115-in-may-221"
-analysisDate: 2026-05-19
 ---
 
 The market pricing oil at roughly 2-in-5 odds to spike above $115 in May reflects deep uncertainty around geopolitical risks and supply disruptions over the next year, a significant threshold given WTI currently trades around $70-75. This matters because such a price surge would signal major supply shocks with cascading effects on inflation, consumer spending, and central bank policy globally.

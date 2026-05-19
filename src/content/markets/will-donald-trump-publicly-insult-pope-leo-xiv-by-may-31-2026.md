@@ -3,7 +3,7 @@ title: "Will Donald Trump publicly insult Pope Leo XIV by May 31, 2026?"
 description: "Will Donald Trump publicly insult Pope Leo XIV by May 31, 2026? Odds: 4.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Donald Trump publicly insult Pope Leo XIV by May 31, 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-19
 expiryDate: 2026-05-31
 tags: ["politics", "polymarket", "trump"]
