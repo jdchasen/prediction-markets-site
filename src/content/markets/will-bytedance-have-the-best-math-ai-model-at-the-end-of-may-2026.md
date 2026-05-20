@@ -9,9 +9,8 @@ expiryDate: 2026-05-31
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 0.2
 polymarketNo: 99.8
-polymarketVolume: 9968
+polymarketVolume: 9970
 polymarketUrl: "https://polymarket.com/event/will-bytedance-have-the-best-math-ai-model-at-the-end-of-may-2026"
-analysisDate: 2026-05-20
 ---
 
 The market assigns virtually no probability to ByteDance achieving the top mathematics AI model by May 2026, reflecting skepticism about the Chinese tech giant competing with established AI leaders in specialized domains despite recent momentum in general-purpose models.

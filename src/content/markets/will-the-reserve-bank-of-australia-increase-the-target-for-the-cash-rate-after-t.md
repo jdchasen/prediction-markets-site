@@ -1,17 +1,16 @@
 ---
 title: "Will the Reserve Bank of Australia increase the target for the cash rate after the June Meeting?"
-description: "Will the Reserve Bank of Australia increase the target for the cash rate after the June Meeting? Odds: 21.0% YES on Polymarket. See live prices and trade thi..."
+description: "Will the Reserve Bank of Australia increase the target for the cash rate after the June Meeting? Odds: 19.5% YES on Polymarket. See live prices and trade thi..."
 marketQuestion: "Will the Reserve Bank of Australia increase the target for the cash rate after the June Meeting?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-05-20
 expiryDate: 2026-06-16
 tags: ["politics", "polymarket"]
-polymarketYes: 21.0
-polymarketNo: 79.0
-polymarketVolume: 9965
+polymarketYes: 19.5
+polymarketNo: 80.5
+polymarketVolume: 9987
 polymarketUrl: "https://polymarket.com/event/will-the-reserve-bank-of-australia-increase-the-target-for-the-cash-rate-after-the-june-meeting"
-analysisDate: 2026-05-20
 ---
 
 # RBA Cash Rate Decision Market Analysis

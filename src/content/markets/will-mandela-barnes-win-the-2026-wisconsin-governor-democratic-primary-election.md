@@ -11,7 +11,6 @@ polymarketYes: 54.5
 polymarketNo: 45.5
 polymarketVolume: 9859
 polymarketUrl: "https://polymarket.com/event/will-mandela-barnes-win-the-2026-wisconsin-governor-democratic-primary-election"
-analysisDate: 2026-05-20
 ---
 
 # Analysis: Mandela Barnes 2026 Wisconsin Democratic Primary

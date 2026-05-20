@@ -9,9 +9,8 @@ expiryDate: 2026-06-01
 tags: ["finance", "polymarket"]
 polymarketYes: 0.4
 polymarketNo: 99.6
-polymarketVolume: 9984
+polymarketVolume: 9986
 polymarketUrl: "https://polymarket.com/event/will-alphabet-inc-googl-hit-low-280-in-may"
-analysisDate: 2026-05-20
 ---
 
 The prediction market is pricing in an extremely low probability that Alphabet will trade below $280 by early June 2026—essentially viewing a 60% decline from current levels as near-impossible within 18 months. This matters because it reflects either strong confidence in Google's business fundamentals or insufficient liquidity in this specific contract, and traders should understand what catastrophic scenario would be required to hit this level.

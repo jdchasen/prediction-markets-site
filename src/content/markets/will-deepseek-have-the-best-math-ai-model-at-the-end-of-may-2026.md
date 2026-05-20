@@ -9,9 +9,8 @@ expiryDate: 2026-05-31
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 0.1
 polymarketNo: 99.9
-polymarketVolume: 9929
+polymarketVolume: 9930
 polymarketUrl: "https://polymarket.com/event/will-deepseek-have-the-best-math-ai-model-at-the-end-of-may-2026"
-analysisDate: 2026-05-20
 ---
 
 # DeepSeek Math AI Market Analysis

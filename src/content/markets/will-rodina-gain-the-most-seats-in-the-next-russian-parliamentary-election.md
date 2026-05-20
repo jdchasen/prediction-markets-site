@@ -3,7 +3,7 @@ title: "Will Rodina gain the most seats in the next Russian parliamentary electi
 description: "Will Rodina gain the most seats in the next Russian parliamentary election? Odds: 0.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Rodina gain the most seats in the next Russian parliamentary election?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-20
 expiryDate: 2026-09-30
 tags: ["ai", "elections", "politics", "polymarket"]

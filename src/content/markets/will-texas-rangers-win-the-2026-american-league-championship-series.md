@@ -11,7 +11,6 @@ polymarketYes: 7.5
 polymarketNo: 92.5
 polymarketVolume: 9934
 polymarketUrl: "https://polymarket.com/event/will-texas-rangers-win-the-2026-american-league-championship-series"
-analysisDate: 2026-05-20
 ---
 
 # Texas Rangers 2026 ALCS Prediction Market Analysis

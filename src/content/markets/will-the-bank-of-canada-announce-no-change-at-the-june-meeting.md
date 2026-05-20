@@ -8,10 +8,9 @@ lastUpdated: 2026-05-20
 expiryDate: 2026-06-10
 tags: ["politics", "polymarket"]
 polymarketYes: 97.0
-polymarketNo: 2.9
+polymarketNo: 3.0
 polymarketVolume: 9811
 polymarketUrl: "https://polymarket.com/event/will-the-bank-of-canada-announce-no-change-at-the-june-meeting"
-analysisDate: 2026-05-20
 ---
 
 The market is pricing in overwhelming confidence that the Bank of Canada will hold rates steady at its June 2026 meeting, but this extreme certainty deserves scrutiny given the 18-month timeline and volatile economic conditions that typically reshape monetary policy expectations. This matters because BoC rate decisions drive Canadian dollar strength, mortgage costs, and broader economic sentiment—and such lopsided odds suggest either genuine policy clarity or dangerous complacency among traders.

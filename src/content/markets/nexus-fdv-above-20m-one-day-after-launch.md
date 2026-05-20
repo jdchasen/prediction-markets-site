@@ -3,7 +3,7 @@ title: "Nexus FDV above $20M one day after launch?"
 description: "Nexus FDV above $20M one day after launch? Odds: 98.6% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Nexus FDV above $20M one day after launch?"
 category: "crypto"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-20
 expiryDate: 2028-01-01
 tags: ["crypto", "polymarket"]

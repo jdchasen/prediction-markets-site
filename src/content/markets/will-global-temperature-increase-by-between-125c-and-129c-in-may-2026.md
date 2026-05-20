@@ -3,7 +3,7 @@ title: "Will global temperature increase by between 1.25ºC and 1.29ºC in May 2
 description: "Will global temperature increase by between 1.25ºC and 1.29ºC in May 2026? Odds: 0.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will global temperature increase by between 1.25ºC and 1.29ºC in May 2026?"
 category: "science"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-20
 expiryDate: 2026-06-10
 tags: ["polymarket", "science", "weather"]

@@ -3,7 +3,7 @@ title: "Will Jose Mourinho be appointed as manager of Real Madrid?"
 description: "Will Jose Mourinho be appointed as manager of Real Madrid? Odds: 98.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Jose Mourinho be appointed as manager of Real Madrid?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-20
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]

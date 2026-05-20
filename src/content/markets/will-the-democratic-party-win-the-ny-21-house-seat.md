@@ -9,9 +9,8 @@ expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
 polymarketYes: 30.0
 polymarketNo: 70.0
-polymarketVolume: 9764
+polymarketVolume: 9773
 polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-ny-21-house-seat"
-analysisDate: 2026-05-20
 ---
 
 # NY-21 House Seat Democratic Win Probability Analysis

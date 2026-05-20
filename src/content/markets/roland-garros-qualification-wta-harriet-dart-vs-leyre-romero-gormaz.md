@@ -3,7 +3,7 @@ title: "Roland Garros, Qualification WTA: Harriet Dart vs Leyre Romero Gormaz"
 description: "Roland Garros, Qualification WTA: Harriet Dart vs Leyre Romero Gormaz Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Roland Garros, Qualification WTA: Harriet Dart vs Leyre Romero Gormaz"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-20
 expiryDate: 2026-05-27
 tags: ["politics", "polymarket"]

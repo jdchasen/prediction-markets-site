@@ -9,9 +9,8 @@ expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]
 polymarketYes: 56.5
 polymarketNo: 43.5
-polymarketVolume: 991245
+polymarketVolume: 992506
 polymarketUrl: "https://polymarket.com/event/clarity-act-signed-into-law-in-2026"
-analysisDate: 2026-05-20
 ---
 
 The Clarity Act's passage through Congress by end of 2026 sits just above coin-flip odds, reflecting genuine uncertainty about whether this cryptocurrency regulatory framework can navigate a divided legislative landscape before the deadline. This market matters because the bill represents the most comprehensive attempt to establish clear regulatory boundaries for digital assets, affecting billions in market capitalization and determining whether crypto innovation stays onshore or moves abroad.

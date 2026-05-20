@@ -11,7 +11,6 @@ polymarketYes: 84.0
 polymarketNo: 16.0
 polymarketVolume: 9769
 polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-tn-08-house-seat"
-analysisDate: 2026-05-20
 ---
 
 # TN-08 Republican Odds Analysis

@@ -11,7 +11,6 @@ polymarketYes: 1.4
 polymarketNo: 98.6
 polymarketVolume: 98144
 polymarketUrl: "https://polymarket.com/event/xi-jinping-divorce-before-2027"
-analysisDate: 2026-05-20
 ---
 
 This market trades at extreme longshot odds because Xi Jinping's divorce would represent an unprecedented political earthquake in Chinese Communist Party history, where top leadership maintains carefully curated family stability as part of their public image. The near-zero probability reflects both the rigid cultural norms surrounding Chinese political leadership and the extraordinary information opacity surrounding Xi's personal life.
