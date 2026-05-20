@@ -3,8 +3,8 @@ title: "Will Ken Paxton drop out?"
 description: "Will Ken Paxton drop out? Odds: 1.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Ken Paxton drop out?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-19
+status: "settled"
+lastUpdated: 2026-05-20
 expiryDate: 2026-05-25
 tags: ["politics", "polymarket"]
 polymarketYes: 1.1

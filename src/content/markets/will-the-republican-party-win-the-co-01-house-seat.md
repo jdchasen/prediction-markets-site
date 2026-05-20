@@ -4,14 +4,13 @@ description: "Will the Republican Party win the CO-01 House seat? Odds: 7.5% YES
 marketQuestion: "Will the Republican Party win the CO-01 House seat?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-19
+lastUpdated: 2026-05-20
 expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
 polymarketYes: 7.5
 polymarketNo: 92.5
 polymarketVolume: 9935
 polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-co-01-house-seat"
-analysisDate: 2026-05-19
 ---
 
 # CO-01 House Seat Republican Win Probability Analysis

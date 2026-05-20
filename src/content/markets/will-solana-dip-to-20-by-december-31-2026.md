@@ -4,14 +4,13 @@ description: "Will Solana dip to $20 by December 31, 2026? Odds: 9.5% YES on Pol
 marketQuestion: "Will Solana dip to $20 by December 31, 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-19
+lastUpdated: 2026-05-20
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]
 polymarketYes: 9.5
 polymarketNo: 90.5
-polymarketVolume: 99216
+polymarketVolume: 99334
 polymarketUrl: "https://polymarket.com/event/will-solana-dip-to-20-by-december-31-2026"
-analysisDate: 2026-05-19
 ---
 
 Polymarket traders are pricing just a 9.5% chance of Solana falling to $20 by year-end 2026, suggesting strong confidence in the layer-1 blockchain maintaining valuations well above this threshold despite cryptocurrency market volatility.

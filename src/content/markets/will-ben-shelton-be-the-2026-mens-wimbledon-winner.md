@@ -3,8 +3,8 @@ title: "Will Ben Shelton be the 2026 Men’s Wimbledon winner?"
 description: "Will Ben Shelton be the 2026 Men’s Wimbledon winner? Odds: 1.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Ben Shelton be the 2026 Men’s Wimbledon winner?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-19
+status: "settled"
+lastUpdated: 2026-05-20
 expiryDate: 2026-07-12
 tags: ["politics", "polymarket"]
 polymarketYes: 1.2

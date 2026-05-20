@@ -3,8 +3,8 @@ title: "Will Ghana win Group L in the 2026 FIFA World Cup?"
 description: "Will Ghana win Group L in the 2026 FIFA World Cup? Odds: 6.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Ghana win Group L in the 2026 FIFA World Cup?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-05-19
+status: "settled"
+lastUpdated: 2026-05-20
 expiryDate: 2026-06-27
 tags: ["polymarket", "sports"]
 polymarketYes: 6.1

@@ -3,8 +3,8 @@ title: "Will Victor Wembanyama win the 2026 Western Conference Finals MVP?"
 description: "Will Victor Wembanyama win the 2026 Western Conference Finals MVP? Odds: 52.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Victor Wembanyama win the 2026 Western Conference Finals MVP?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-19
+status: "settled"
+lastUpdated: 2026-05-20
 expiryDate: 2026-06-06
 tags: ["politics", "polymarket"]
 polymarketYes: 52.5

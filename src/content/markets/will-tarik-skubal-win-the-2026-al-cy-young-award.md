@@ -1,17 +1,16 @@
 ---
 title: "Will Tarik Skubal win the 2026 AL Cy Young Award?"
-description: "Will Tarik Skubal win the 2026 AL Cy Young Award? Odds: 0.7% YES on Polymarket. See live prices and trade this market."
+description: "Will Tarik Skubal win the 2026 AL Cy Young Award? Odds: 0.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Tarik Skubal win the 2026 AL Cy Young Award?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-19
+lastUpdated: 2026-05-20
 expiryDate: 2026-11-12
 tags: ["politics", "polymarket"]
-polymarketYes: 0.7
-polymarketNo: 99.4
-polymarketVolume: 9789
+polymarketYes: 0.5
+polymarketNo: 99.5
+polymarketVolume: 9794
 polymarketUrl: "https://polymarket.com/event/will-tarik-skubal-win-the-2026-al-cy-young-award"
-analysisDate: 2026-05-19
 ---
 
 # Tarik Skubal 2026 AL Cy Young Analysis

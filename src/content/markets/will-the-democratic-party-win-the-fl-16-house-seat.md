@@ -3,8 +3,8 @@ title: "Will the Democratic Party win the FL-16 House seat?"
 description: "Will the Democratic Party win the FL-16 House seat? Odds: 23.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Democratic Party win the FL-16 House seat?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-19
+status: "settled"
+lastUpdated: 2026-05-20
 expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
 polymarketYes: 23.5

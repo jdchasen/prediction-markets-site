@@ -1,17 +1,16 @@
 ---
 title: "Will Paris Saint-Germain (PSG) score the most goals in 2025-26 UEFA Champions League?"
-description: "Will Paris Saint-Germain (PSG) score the most goals in 2025-26 UEFA Champions League? Odds: 99.8% YES on Polymarket. See live prices and trade this market."
+description: "Will Paris Saint-Germain (PSG) score the most goals in 2025-26 UEFA Champions League? Odds: 99.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Paris Saint-Germain (PSG) score the most goals in 2025-26 UEFA Champions League?"
 category: "sports"
 status: "active"
-lastUpdated: 2026-05-19
+lastUpdated: 2026-05-20
 expiryDate: 2026-05-31
 tags: ["ai", "polymarket", "sports"]
-polymarketYes: 99.8
-polymarketNo: 0.2
+polymarketYes: 99.7
+polymarketNo: 0.3
 polymarketVolume: 9817
 polymarketUrl: "https://polymarket.com/event/will-paris-saint-germain-psg-score-the-most-goals-in-2025-26-uefa-champions-league"
-analysisDate: 2026-05-19
 ---
 
 # PSG Champions League Goals Analysis

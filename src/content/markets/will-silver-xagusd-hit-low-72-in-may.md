@@ -3,8 +3,8 @@ title: "Will Silver (XAGUSD) hit (LOW) $72 in May?"
 description: "Will Silver (XAGUSD) hit (LOW) $72 in May? Odds: 58.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Silver (XAGUSD) hit (LOW) $72 in May?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-19
+status: "settled"
+lastUpdated: 2026-05-20
 expiryDate: 2026-06-01
 tags: ["politics", "polymarket"]
 polymarketYes: 58.5

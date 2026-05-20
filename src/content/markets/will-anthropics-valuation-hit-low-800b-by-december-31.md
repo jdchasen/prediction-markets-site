@@ -3,8 +3,8 @@ title: "Will Anthropic's valuation hit (LOW) $800B by December 31?"
 description: "Will Anthropic's valuation hit (LOW) $800B by December 31? Odds: 16.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Anthropic's valuation hit (LOW) $800B by December 31?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-19
+status: "settled"
+lastUpdated: 2026-05-20
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]
 polymarketYes: 16.0

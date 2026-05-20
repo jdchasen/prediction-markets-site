@@ -3,8 +3,8 @@ title: "Will the Carolina Hurricanes win the 2026 NHL Stanley Cup?"
 description: "Will the Carolina Hurricanes win the 2026 NHL Stanley Cup? Odds: 37.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Carolina Hurricanes win the 2026 NHL Stanley Cup?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-05-19
+status: "settled"
+lastUpdated: 2026-05-20
 expiryDate: 2026-06-30
 tags: ["polymarket", "sports"]
 polymarketYes: 37.5

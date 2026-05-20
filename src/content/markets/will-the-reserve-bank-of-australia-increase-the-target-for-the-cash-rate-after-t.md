@@ -1,54 +1,56 @@
 ---
 title: "Will the Reserve Bank of Australia increase the target for the cash rate after the June Meeting?"
-description: "Will the Reserve Bank of Australia increase the target for the cash rate after the June Meeting? Odds: 13.5% YES on Polymarket. See live prices and trade thi..."
+description: "Will the Reserve Bank of Australia increase the target for the cash rate after the June Meeting? Odds: 21.0% YES on Polymarket. See live prices and trade thi..."
 marketQuestion: "Will the Reserve Bank of Australia increase the target for the cash rate after the June Meeting?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-19
+lastUpdated: 2026-05-20
 expiryDate: 2026-06-16
 tags: ["politics", "polymarket"]
-polymarketYes: 13.5
-polymarketNo: 86.5
-polymarketVolume: 9910
+polymarketYes: 21.0
+polymarketNo: 79.0
+polymarketVolume: 9965
 polymarketUrl: "https://polymarket.com/event/will-the-reserve-bank-of-australia-increase-the-target-for-the-cash-rate-after-the-june-meeting"
-analysisDate: 2026-05-19
+analysisDate: 2026-05-20
 ---
 
-# RBA Cash Rate Decision Analysis
+# RBA Cash Rate Decision Market Analysis
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 13.5% | 86.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 21.0% | 79.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The 13.5% probability of a rate increase at the June 2026 RBA meeting reflects market consensus that further tightening is unlikely given the current inflation trajectory and economic conditions. This market matters because RBA decisions drive Australian asset prices, currency valuations, and mortgage costs affecting millions of households, making accurate probability assessment valuable for traders with AUD exposure or Australian equity positions.
+The market is pricing in only a 21% probability of a rate increase at the June 2026 RBA meeting, reflecting strong conviction that monetary policy will remain either unchanged or continue on an easing path. This matters because the RBA's cash rate decision significantly influences Australian asset prices, currency movements, and consumer borrowing costs, making it a high-impact event for both domestic and international traders with exposure to Australian markets.
 
-The bull case for a rate hike rests on persistent inflation surprises or a sharper-than-expected economic rebound that forces the RBA's hand. If core inflation remains sticky above the 2-3% target band through early 2026, or if wage growth accelerates unexpectedly following enterprise bargaining agreements, the RBA could feel compelled to act. However, with nearly 18 months until the June meeting, the baseline assumption is that inflation moderates under existing rate settings. The bear case dominates because current RBA guidance strongly signals a pause after recent hiking cycles, and the Australian economy shows signs of weakness—soft consumer spending, slowing credit growth, and declining housing prices all argue against tightening. Unless labor market dynamics fundamentally shift or import price shocks emerge, rate cuts remain the more probable direction by mid-2026.
+The bull case for a rate hike rests on potential inflation surprises between now and June 2026. If wage growth accelerates beyond current forecasts or if commodity prices spike due to geopolitical disruption, the RBA could feel compelled to tighten policy despite the current low odds. The key catalyst will be the quarterly inflation data releases (CPI) scheduled for April and July 2025, which will establish the inflation trajectory heading into the June meeting. Any reading significantly above the RBA's 2-3% target band would force traders to reassess rate-hike probabilities substantially upward.
 
-Key catalysts to monitor include RBA board meetings in February and April 2026, when officials will signal their June intentions through statements and dot plot updates. Watch the quarterly CPI releases (February, April releases) for inflation data that could shift expectations; any reading above 3% would tighten odds on a hike. Employment data monthly from the Australian Bureau of Statistics and wages growth figures in March/June will be critical—unemployment above 4.5% would strongly reinforce the bear case. Additionally, global monetary policy from the Fed and other central banks could force the RBA's hand if capital flows reverse sharply, though this is a lower-probability tail risk by 2026.
+The bear case—favoring the 79% no-hike probability—is anchored in the RBA's stated commitment to gradual normalization and concern about household debt levels in Australia. Governor Michele Bullock has signaled patience with rate cuts, and recent economic data showing softer wage growth and subdued inflation expectations support holding rates steady. The RBA's next scheduled rate decision before June occurs in February and April 2025; if either meeting results in a cut or explicit forward guidance ruling out mid-year tightening, this market could drift even lower.
+
+Traders should monitor three specific catalysts: the unemployment rate trend (RBA watches labor market tightness closely), the AUD/USD exchange rate (weakness could prompt rate hikes to support the currency), and any shifts in global monetary policy from the Fed or ECB that affect capital flows into Australia. The February 2025 RBA meeting statement and accompanying minutes will be the most informative near-term signal about June intentions.
 
 ## Related Markets
 
 - [Will Marco Rubio win the 2028 US Presidential Election?](/odds/will-marco-rubio-win-the-2028-us-presidential-election) — 14% YES
-- [Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?](/odds/will-amanda-anisimova-be-the-2026-womens-wimbledon-winner) — 5% YES
-- [Will Renan Santos finish in second place in the first round of the 2026 Brazilian presidential election?](/odds/will-renan-santos-finish-in-second-place-in-the-first-round-of-the-2026-brazilia) — 9% YES
+- [Will Renan Santos finish in second place in the first round of the 2026 Brazilian presidential election?](/odds/will-renan-santos-finish-in-second-place-in-the-first-round-of-the-2026-brazilia) — 10% YES
+- [Will Silver (SI) hit (HIGH) $120 by end of June?](/odds/will-silver-si-hit-high-120-by-end-of-june) — 4% YES
 
 ## Frequently Asked Questions
 
-### Why is the probability so low despite 18 months until the June meeting, which is enough time for economic conditions to shift?
+### Why is the probability so low despite inflation potentially persisting through mid-2026?
 
-The RBA has signaled a multi-year pause in tightening after recent hikes, and Australian inflation is expected to continue normalizing toward target. A rate *increase* requires a meaningful deterioration in the inflation outlook or labor market overheating—a higher bar than merely maintaining current rates.
+The RBA has publicly committed to a patient, data-dependent approach and current market pricing reflects that the central bank will likely cut rates before June 2026 rather than hiking, with inflation expectations anchored below 3%.
 
-### What would be the single most important economic data release to watch for shifts in this market?
+### What single data release would most directly impact this market before expiry?
 
-The quarterly CPI report (next due February 2026), since sustained inflation above 3% is the primary scenario that could force RBA tightening despite weak growth conditions.
+The April 2025 CPI print will be the most influential data point, as it will be the last major inflation reading before the June meeting and will directly signal whether the RBA faces upside inflation risk.
 
-### How much would odds shift if the RBA cuts rates before June 2026?
+### Could a sharp AUD depreciation force the RBA to hike despite soft inflation?
 
-Rate cuts before June would likely push the YES probability below 5%, as consecutive cuts would signal the RBA's commitment to easing and make a June hike almost impossible unless something dramatic shifted between decisions.
+Yes—if the Australian dollar weakens materially due to Fed tightening or capital outflows, the RBA might need to hike to defend the currency, though this scenario appears priced as a tail risk at current 21% odds.
 
 ## Learn More
 

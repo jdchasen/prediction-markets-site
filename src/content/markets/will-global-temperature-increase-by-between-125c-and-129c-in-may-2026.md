@@ -4,14 +4,13 @@ description: "Will global temperature increase by between 1.25ºC and 1.29ºC in
 marketQuestion: "Will global temperature increase by between 1.25ºC and 1.29ºC in May 2026?"
 category: "science"
 status: "active"
-lastUpdated: 2026-05-19
+lastUpdated: 2026-05-20
 expiryDate: 2026-06-10
 tags: ["polymarket", "science", "weather"]
 polymarketYes: 0.9
 polymarketNo: 99.1
 polymarketVolume: 9977
 polymarketUrl: "https://polymarket.com/event/will-global-temperature-increase-by-between-1pt25c-and-1pt29c-in-may-2026"
-analysisDate: 2026-05-19
 ---
 
 This extremely narrow temperature band has drawn minimal trader interest, reflected in basement-level odds that suggest market participants view such precise warming as unlikely within a specific month. The specificity matters because global temperature anomalies typically fluctuate by 0.1-0.2°C month-to-month, making a single narrow band prediction a difficult target even if overall warming trends upward.

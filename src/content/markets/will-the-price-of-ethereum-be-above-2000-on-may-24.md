@@ -1,17 +1,16 @@
 ---
 title: "Will the price of Ethereum be above $2,000 on May 24?"
-description: "Will the price of Ethereum be above $2,000 on May 24? Odds: 86.5% YES on Polymarket. See live prices and trade this market."
+description: "Will the price of Ethereum be above $2,000 on May 24? Odds: 91.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the price of Ethereum be above $2,000 on May 24?"
 category: "crypto"
 status: "active"
-lastUpdated: 2026-05-19
+lastUpdated: 2026-05-20
 expiryDate: 2026-05-24
 tags: ["crypto", "ethereum", "polymarket"]
-polymarketYes: 86.5
-polymarketNo: 13.5
-polymarketVolume: 9795
+polymarketYes: 91.0
+polymarketNo: 9.0
+polymarketVolume: 9862
 polymarketUrl: "https://polymarket.com/event/ethereum-above-2000-on-may-24-2026"
-analysisDate: 2026-05-19
 ---
 
 # Ethereum Above $2,000 by May 2026: Analysis

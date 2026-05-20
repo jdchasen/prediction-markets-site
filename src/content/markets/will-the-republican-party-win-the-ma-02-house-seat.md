@@ -3,8 +3,8 @@ title: "Will the Republican Party win the MA-02 House seat?"
 description: "Will the Republican Party win the MA-02 House seat? Odds: 6.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Republican Party win the MA-02 House seat?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-19
+status: "settled"
+lastUpdated: 2026-05-20
 expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
 polymarketYes: 6.5

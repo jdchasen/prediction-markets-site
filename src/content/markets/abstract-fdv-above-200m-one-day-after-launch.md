@@ -1,17 +1,16 @@
 ---
 title: "Abstract FDV above $200M one day after launch?"
-description: "Abstract FDV above $200M one day after launch? Odds: 77.0% YES on Polymarket. See live prices and trade this market."
+description: "Abstract FDV above $200M one day after launch? Odds: 76.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Abstract FDV above $200M one day after launch?"
 category: "crypto"
 status: "active"
-lastUpdated: 2026-05-19
+lastUpdated: 2026-05-20
 expiryDate: 2028-01-01
 tags: ["crypto", "polymarket"]
-polymarketYes: 77.0
-polymarketNo: 23.0
-polymarketVolume: 99910
+polymarketYes: 76.5
+polymarketNo: 23.5
+polymarketVolume: 99917
 polymarketUrl: "https://polymarket.com/event/abstract-fdv-above-200m-one-day-after-launch"
-analysisDate: 2026-05-19
 ---
 
 The market is pricing in a strong 77% probability that Abstract will achieve a fully diluted valuation exceeding $200 million within 24 hours of its token launch, reflecting high expectations for this layer-2 scaling solution backed by Igloo Inc. and connected to the Pudgy Penguins NFT ecosystem.

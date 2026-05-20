@@ -3,8 +3,8 @@ title: "Will Sholdon Daniels be the Republican Nominee for TX-30?"
 description: "Will Sholdon Daniels be the Republican Nominee for TX-30? Odds: 3.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Sholdon Daniels be the Republican Nominee for TX-30?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-19
+status: "settled"
+lastUpdated: 2026-05-20
 expiryDate: 2026-05-26
 tags: ["politics", "polymarket"]
 polymarketYes: 3.9

@@ -3,8 +3,8 @@ title: "Will the New York Knicks win the NBA Eastern Conference Finals?"
 description: "Will the New York Knicks win the NBA Eastern Conference Finals? Odds: 70.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the New York Knicks win the NBA Eastern Conference Finals?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-05-19
+status: "settled"
+lastUpdated: 2026-05-20
 expiryDate: 2026-06-13
 tags: ["polymarket", "sports"]
 polymarketYes: 70.5
