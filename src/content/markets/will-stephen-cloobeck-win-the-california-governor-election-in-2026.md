@@ -9,9 +9,8 @@ expiryDate: 2026-11-03
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.1
 polymarketNo: 99.9
-polymarketVolume: 980429
+polymarketVolume: 982311
 polymarketUrl: "https://polymarket.com/event/will-stephen-cloobeck-win-the-california-governor-election-in-2026"
-analysisDate: 2026-05-21
 ---
 
 Stephen Cloobeck's chances of winning California's 2026 gubernatorial race currently sit at near-zero on prediction markets, reflecting his status as a longshot candidate in a state where established Democratic politicians dominate and where his profile remains minimal despite his business background as a former timeshare executive.

@@ -3,7 +3,7 @@ title: "Clarity Act signed into law in 2026?"
 description: "Clarity Act signed into law in 2026? Odds: 57.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Clarity Act signed into law in 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-21
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]

@@ -10,7 +10,6 @@ polymarketYes: 87.0
 polymarketNo: 13.0
 polymarketVolume: 9828
 polymarketUrl: "https://polymarket.com/event/will-the-democrats-win-the-oregon-governor-race-in-2026"
-analysisDate: 2026-05-21
 ---
 
 # Oregon Governor 2026: Democrats' Structural Advantage Priced Into Heavy Favorites

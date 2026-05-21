@@ -9,9 +9,8 @@ expiryDate: 2026-08-11
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 53.0
 polymarketNo: 47.0
-polymarketVolume: 9859
+polymarketVolume: 9869
 polymarketUrl: "https://polymarket.com/event/will-mandela-barnes-win-the-2026-wisconsin-governor-democratic-primary-election"
-analysisDate: 2026-05-21
 ---
 
 # Wisconsin Democratic Primary 2026: Mandela Barnes at Even Odds

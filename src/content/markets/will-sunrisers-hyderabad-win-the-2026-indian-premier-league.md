@@ -3,7 +3,7 @@ title: "Will Sunrisers Hyderabad win the 2026 Indian Premier League?"
 description: "Will Sunrisers Hyderabad win the 2026 Indian Premier League? Odds: 22.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Sunrisers Hyderabad win the 2026 Indian Premier League?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-21
 expiryDate: 2026-05-31
 tags: ["polymarket", "sports"]

@@ -9,9 +9,8 @@ expiryDate: 2026-06-10
 tags: ["politics", "polymarket"]
 polymarketYes: 1.8
 polymarketNo: 98.2
-polymarketVolume: 98055
+polymarketVolume: 98263
 polymarketUrl: "https://polymarket.com/event/will-may-2026-be-the-4th-or-lower-hottest-on-record"
-analysisDate: 2026-05-21
 ---
 
 # May 2026 Temperature Prediction Market Analysis

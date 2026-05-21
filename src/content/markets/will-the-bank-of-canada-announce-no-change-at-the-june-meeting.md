@@ -11,7 +11,6 @@ polymarketYes: 97.5
 polymarketNo: 2.5
 polymarketVolume: 9820
 polymarketUrl: "https://polymarket.com/event/will-the-bank-of-canada-announce-no-change-at-the-june-meeting"
-analysisDate: 2026-05-21
 ---
 
 # Bank of Canada June 2025 Rate Decision Analysis

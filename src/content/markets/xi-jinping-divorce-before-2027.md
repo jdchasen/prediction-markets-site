@@ -11,7 +11,6 @@ polymarketYes: 1.4
 polymarketNo: 98.6
 polymarketVolume: 98146
 polymarketUrl: "https://polymarket.com/event/xi-jinping-divorce-before-2027"
-analysisDate: 2026-05-21
 ---
 
 The market pricing Xi Jinping's divorce probability at approximately 1-2% reflects both the extreme political improbability of such an event and the minimal public information about Chinese leadership's private lives. This matters because any marital dissolution involving China's paramount leader would represent an unprecedented political earthquake, potentially signaling internal Communist Party fractures or personal vulnerabilities that could affect governance of the world's second-largest economy.

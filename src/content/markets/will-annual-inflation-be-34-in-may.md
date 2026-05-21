@@ -11,7 +11,6 @@ polymarketYes: 0.1
 polymarketNo: 99.9
 polymarketVolume: 9413
 polymarketUrl: "https://polymarket.com/event/will-annual-inflation-be-3pt4-in-may-715-782"
-analysisDate: 2026-05-21
 ---
 
 # Inflation Target Market Analysis

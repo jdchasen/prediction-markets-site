@@ -1,17 +1,16 @@
 ---
 title: "Will Italy send warships through the Strait of Hormuz by May 31, 2026?"
-description: "Will Italy send warships through the Strait of Hormuz by May 31, 2026? Odds: 0.9% YES on Polymarket. See live prices and trade this market."
+description: "Will Italy send warships through the Strait of Hormuz by May 31, 2026? Odds: 0.6% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Italy send warships through the Strait of Hormuz by May 31, 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-05-21
 expiryDate: 2026-05-31
 tags: ["ai", "politics", "polymarket"]
-polymarketYes: 0.9
-polymarketNo: 99.1
-polymarketVolume: 97924
+polymarketYes: 0.6
+polymarketNo: 99.4
+polymarketVolume: 98242
 polymarketUrl: "https://polymarket.com/event/will-italy-send-warships-through-the-strait-of-hormuz-by-may-31-2026"
-analysisDate: 2026-05-21
 ---
 
 The market prices an extremely low probability that Italy will deploy naval vessels through this strategic Persian Gulf chokepoint within the next two years, reflecting the absence of any current Italian naval commitment or foreseeable crisis requiring such deployment.

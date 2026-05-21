@@ -1,17 +1,16 @@
 ---
 title: "Variational FDV above $1B one day after launch?"
-description: "Variational FDV above $1B one day after launch? Odds: 24.5% YES on Polymarket. See live prices and trade this market."
+description: "Variational FDV above $1B one day after launch? Odds: 25.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Variational FDV above $1B one day after launch?"
 category: "crypto"
 status: "active"
 lastUpdated: 2026-05-21
 expiryDate: 2028-01-01
 tags: ["crypto", "polymarket"]
-polymarketYes: 24.5
-polymarketNo: 75.5
-polymarketVolume: 98913
+polymarketYes: 25.5
+polymarketNo: 74.5
+polymarketVolume: 99150
 polymarketUrl: "https://polymarket.com/event/variational-fdv-above-1b-one-day-after-launch-636-229-681"
-analysisDate: 2026-05-21
 ---
 
 The market pricing Variational's fully diluted valuation (FDV) above $1 billion at launch sits below 25%, reflecting skepticism about another AI-crypto token achieving unicorn status despite the sector's recent momentum and the extended timeline until 2028 giving the project substantial runway to build.

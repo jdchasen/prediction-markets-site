@@ -1,17 +1,16 @@
 ---
 title: "Will the Republican Party win the TN-08 House seat?"
-description: "Will the Republican Party win the TN-08 House seat? Odds: 84.0% YES on Polymarket. See live prices and trade this market."
+description: "Will the Republican Party win the TN-08 House seat? Odds: 84.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Republican Party win the TN-08 House seat?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-05-21
 expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
-polymarketYes: 84.0
-polymarketNo: 16.0
-polymarketVolume: 9902
+polymarketYes: 84.5
+polymarketNo: 15.5
+polymarketVolume: 9956
 polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-tn-08-house-seat"
-analysisDate: 2026-05-21
 ---
 
 # TN-08 Republican House Seat: Market Analysis

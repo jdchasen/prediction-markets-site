@@ -11,7 +11,6 @@ polymarketYes: 0.7
 polymarketNo: 99.4
 polymarketVolume: 9919
 polymarketUrl: "https://polymarket.com/event/will-tarik-skubal-win-the-2026-al-cy-young-award"
-analysisDate: 2026-05-21
 ---
 
 # Tarik Skubal 2026 AL Cy Young Analysis

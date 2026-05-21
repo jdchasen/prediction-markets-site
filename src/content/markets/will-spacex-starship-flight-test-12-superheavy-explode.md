@@ -3,7 +3,7 @@ title: "Will SpaceX Starship Flight Test 12 Superheavy explode?"
 description: "Will SpaceX Starship Flight Test 12 Superheavy explode? Odds: 81.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will SpaceX Starship Flight Test 12 Superheavy explode?"
 category: "tech"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-21
 expiryDate: 2026-12-31
 tags: ["polymarket", "tech"]

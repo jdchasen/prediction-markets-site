@@ -3,7 +3,7 @@ title: "Toronto Blue Jays vs. New York Yankees"
 description: "Toronto Blue Jays vs. New York Yankees Odds: 42.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Toronto Blue Jays vs. New York Yankees"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-21
 expiryDate: 2026-05-28
 tags: ["politics", "polymarket"]

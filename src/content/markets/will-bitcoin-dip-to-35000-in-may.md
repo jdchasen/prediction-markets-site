@@ -9,9 +9,8 @@ expiryDate: 2026-06-01
 tags: ["bitcoin", "crypto", "polymarket"]
 polymarketYes: 0.1
 polymarketNo: 99.9
-polymarketVolume: 990355
+polymarketVolume: 992585
 polymarketUrl: "https://polymarket.com/event/will-bitcoin-dip-to-35k-in-may-2026"
-analysisDate: 2026-05-21
 ---
 
 The market assigns virtually no probability to Bitcoin dropping to $35,000 by May 2025, reflecting strong conviction that current support levels near $80,000-$90,000 will hold through spring despite recent volatility from the March 2025 correction.
