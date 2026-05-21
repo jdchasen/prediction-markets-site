@@ -1,53 +1,54 @@
 ---
 title: "Clarity Act signed into law in 2026?"
-description: "Clarity Act signed into law in 2026? Odds: 56.5% YES on Polymarket. See live prices and trade this market."
+description: "Clarity Act signed into law in 2026? Odds: 57.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Clarity Act signed into law in 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-20
+lastUpdated: 2026-05-21
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]
-polymarketYes: 56.5
-polymarketNo: 43.5
-polymarketVolume: 992506
+polymarketYes: 57.5
+polymarketNo: 42.5
+polymarketVolume: 997116
 polymarketUrl: "https://polymarket.com/event/clarity-act-signed-into-law-in-2026"
+analysisDate: 2026-05-21
 ---
 
-The Clarity Act's passage through Congress by end of 2026 sits just above coin-flip odds, reflecting genuine uncertainty about whether this cryptocurrency regulatory framework can navigate a divided legislative landscape before the deadline. This market matters because the bill represents the most comprehensive attempt to establish clear regulatory boundaries for digital assets, affecting billions in market capitalization and determining whether crypto innovation stays onshore or moves abroad.
+Prediction markets show better-than-even odds that the Clarity Act will become law in 2026, reflecting growing bipartisan interest in cryptocurrency regulation following the 2024 elections and intensifying pressure from both industry advocates and consumer protection groups to establish clear digital asset rules.
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 56.5% | 43.5% | $991K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 57.5% | 42.5% | $997K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The bull case centers on bipartisan momentum that's been building through 2024, with Senate Banking Committee members from both parties signaling openness to establishing clear rules of the road for crypto custody, stablecoin issuance, and exchange registration. Key sponsors have indicated they view this as one of the few remaining areas where cross-aisle cooperation is possible, particularly as traditional financial institutions increasingly demand regulatory clarity before expanding digital asset services. The House Financial Services Committee has already advanced similar legislation in previous sessions, suggesting a viable path exists if Senate leadership prioritizes floor time. With the 2026 midterms potentially reshuffling Congressional composition by November, there's a window in Q1-Q3 2026 where lame-duck dynamics could either help or hinder passage depending on election outcomes.
+The bull case rests on several concrete factors: the incoming 119th Congress has shown unprecedented appetite for crypto legislation, with both House Financial Services and Senate Banking committees featuring pro-regulation voices across party lines. Industry lobbying reached record levels in 2024, and major financial institutions are pushing for regulatory certainty to expand digital asset offerings. The Federal Reserve's ongoing CBDC research and the SEC's mounting legal challenges from crypto firms create urgency for Congress to act. Key timeline: the House Financial Services Committee typically advances major legislation in Q1-Q2 of new sessions, meaning markup sessions could occur by March 2026 if the bill gains traction early.
 
-The bear case highlights that major financial regulation historically takes multiple Congressional sessions to pass, often requiring a crisis or unified government to overcome entrenched opposition. Progressive Democrats remain concerned about consumer protection gaps and environmental impacts, while some Republicans object to what they see as excessive federal oversight of emerging technologies. The SEC and CFTC continue turf battles over which agency should regulate what products, complicating any unified framework. Calendar realities pose significant obstacles: the 2026 legislative agenda will be dominated by must-pass appropriations, debt ceiling negotiations likely in Q3 2026, and campaign distractions as midterms approach. Bills rarely pass their first time through Congress, and crypto legislation has stalled repeatedly in 2022-2024 despite similar optimism.
+The bear case centers on Congress's historically poor record of passing complex financial legislation quickly, especially in an election environment. The 2026 midterms will dominate Congressional attention from summer onward, creating a narrow legislative window. Deep partisan divisions remain on enforcement mechanisms and consumer protections within crypto frameworks. Senate filibuster rules mean any bill needs 60 votes, and previous crypto bills have stalled despite committee passage. Competing regulatory proposals—including separate stablecoin legislation and DeFi frameworks—could fragment support or delay the Clarity Act specifically. Administrative agencies like the SEC may resist Congressional encroachment on their rulemaking authority.
 
-Traders should monitor several specific catalysts: Senate Banking Committee markup sessions in early 2026, particularly any amendments that could shift industry or consumer group support; the Federal Reserve's own digital dollar research timeline, which may influence Congressional urgency; and any major crypto exchange failures or stablecoin depegging events that could either accelerate regulatory action or poison the well for industry-friendly legislation. The April 2026 tax deadline will reveal IRS enforcement posture on crypto reporting, potentially creating constituent pressure on legislators. Watch for whether Senate Majority Leadership schedules floor time by summer 2026—without that commitment by June, passage becomes mathematically challenging given typical August recess and fall campaign season constraints.
+Critical dates to monitor include January 2025 committee assignments for the new Congress, any Q1 2026 hearings on the Clarity Act, the traditional April-May markup season for financial legislation, and the August 2026 recess deadline before midterm campaigns fully activate. Traders should watch whether the bill gets bundled into must-pass legislation like appropriations bills, which historically offers the best path for controversial measures. The administration's position—particularly Treasury and SEC leadership statements in early 2026—will significantly influence passage probability.
 
 ## Related Markets
 
-- [Will Marco Rubio win the 2028 US Presidential Election?](/odds/will-marco-rubio-win-the-2028-us-presidential-election) — 14% YES
-- [Will Renan Santos finish in second place in the first round of the 2026 Brazilian presidential election?](/odds/will-renan-santos-finish-in-second-place-in-the-first-round-of-the-2026-brazilia) — 10% YES
-- [Will Silver (SI) hit (HIGH) $120 by end of June?](/odds/will-silver-si-hit-high-120-by-end-of-june) — 4% YES
+- [Will Marco Rubio win the 2028 US Presidential Election?](/odds/will-marco-rubio-win-the-2028-us-presidential-election) — 12% YES
+- [Will the Republicans win the 2028 US Presidential Election?](/odds/will-the-republicans-win-the-2028-us-presidential-election) — 38% YES
+- [Over $3M committed to the Printr public sale?](/odds/over-3m-committed-to-the-printr-public-sale) — 2% YES
 
 ## Frequently Asked Questions
 
-### Does this market resolve YES if the Clarity Act passes one chamber but not both by the deadline?
+### What exactly is the Clarity Act and how does it differ from existing crypto regulations?
 
-No, the market requires the bill to be signed into law, meaning it must pass both House and Senate and receive presidential signature before January 1, 2027.
+The Clarity Act would establish a comprehensive federal framework defining which digital assets are securities versus commodities, creating registration pathways for crypto firms and potentially limiting SEC enforcement discretion. It represents Congress asserting direct authority rather than leaving interpretation to regulatory agencies through case-by-case enforcement.
 
-### What happens if Congress passes a substantially amended version with a different name but similar regulatory framework?
+### Could the bill pass in late 2026 but not be signed until early 2027 and still resolve YES?
 
-Resolution depends on whether the legislation is still officially titled the "Clarity Act" when signed—cosmetic amendments wouldn't matter, but a renamed bill would likely resolve NO even if substantively similar.
+No—the market specifically requires the act to be "signed into law" by December 31, 2026 at midnight PT. Congressional passage without presidential signature before that deadline, or a pocket veto situation, would resolve NO even if eventual passage seems likely.
 
-### How would a presidential veto affect this market's outcome?
+### What role do the 2026 midterm elections play in this timeline?
 
-A veto without a subsequent override would result in NO resolution, as the bill must be signed into law; traders should assess whether any 2025-2026 president would support crypto regulatory framework legislation.
+Midterms create a hard deadline around summer 2026 when legislative activity effectively freezes for campaigning, compressing the realistic passage window to roughly January through June. If the bill hasn't advanced significantly by Memorial Day 2026, historical patterns suggest passage becomes increasingly unlikely.
 
 ## Learn More
 

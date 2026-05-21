@@ -4,14 +4,13 @@ description: "Will DeepSeek have the third best AI model at the end of May 2026?
 marketQuestion: "Will DeepSeek have the third best AI model at the end of May 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-20
+lastUpdated: 2026-05-21
 expiryDate: 2026-05-31
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 0.1
 polymarketNo: 99.9
-polymarketVolume: 9798
+polymarketVolume: 9867
 polymarketUrl: "https://polymarket.com/event/will-deepseek-have-the-third-best-ai-model-at-the-end-of-may-2026"
-analysisDate: 2026-05-20
 ---
 
 # DeepSeek Third-Best AI Model Market Analysis

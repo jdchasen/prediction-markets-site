@@ -3,8 +3,8 @@ title: "Will Alexander Albon be the 2026 F1 Drivers' Champion?"
 description: "Will Alexander Albon be the 2026 F1 Drivers' Champion? Odds: 0.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Alexander Albon be the 2026 F1 Drivers' Champion?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-05-20
+status: "settled"
+lastUpdated: 2026-05-21
 expiryDate: 2026-12-06
 tags: ["polymarket", "sports"]
 polymarketYes: 0.4

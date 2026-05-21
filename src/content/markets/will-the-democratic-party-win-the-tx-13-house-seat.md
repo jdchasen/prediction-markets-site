@@ -4,14 +4,13 @@ description: "Will the Democratic Party win the TX-13 House seat? Odds: 6.5% YES
 marketQuestion: "Will the Democratic Party win the TX-13 House seat?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-20
+lastUpdated: 2026-05-21
 expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
 polymarketYes: 6.5
 polymarketNo: 93.5
-polymarketVolume: 9862
+polymarketVolume: 9880
 polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-tx-13-house-seat"
-analysisDate: 2026-05-20
 ---
 
 # TX-13 Democratic Prospects: A Deep Dive

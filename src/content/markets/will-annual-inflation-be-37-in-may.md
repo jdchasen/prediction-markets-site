@@ -4,14 +4,13 @@ description: "Will annual inflation be 3.7% in May? Odds: 0.4% YES on Polymarket
 marketQuestion: "Will annual inflation be 3.7% in May?"
 category: "economics"
 status: "active"
-lastUpdated: 2026-05-20
+lastUpdated: 2026-05-21
 expiryDate: 2026-06-10
 tags: ["economics", "polymarket", "sports"]
 polymarketYes: 0.4
 polymarketNo: 99.7
-polymarketVolume: 9705
+polymarketVolume: 9975
 polymarketUrl: "https://polymarket.com/event/will-annual-inflation-be-3pt7-in-may-842-613"
-analysisDate: 2026-05-20
 ---
 
 # Inflation Target Market Analysis

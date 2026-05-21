@@ -1,17 +1,17 @@
 ---
 title: "Will Tarik Skubal win the 2026 AL Cy Young Award?"
-description: "Will Tarik Skubal win the 2026 AL Cy Young Award? Odds: 5.8% YES on Polymarket. See live prices and trade this market."
+description: "Will Tarik Skubal win the 2026 AL Cy Young Award? Odds: 0.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Tarik Skubal win the 2026 AL Cy Young Award?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-20
+lastUpdated: 2026-05-21
 expiryDate: 2026-11-12
 tags: ["politics", "polymarket"]
-polymarketYes: 5.8
-polymarketNo: 94.2
-polymarketVolume: 9914
+polymarketYes: 0.7
+polymarketNo: 99.4
+polymarketVolume: 9919
 polymarketUrl: "https://polymarket.com/event/will-tarik-skubal-win-the-2026-al-cy-young-award"
-analysisDate: 2026-05-20
+analysisDate: 2026-05-21
 ---
 
 # Tarik Skubal 2026 AL Cy Young Analysis
@@ -20,37 +20,37 @@ analysisDate: 2026-05-20
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 5.8% | 94.2% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.7% | 99.4% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-This market is severely miscategorized as "politics" when it's purely sports-based, and the 5.8% odds reflect genuine long-term uncertainty around pitcher durability, performance trajectory, and competitive field depth in baseball's toughest league. The odds matter now because Skubal is entering his prime years (age 28-29 in 2026) following a breakout 2024 campaign with the Detroit Tigers, making this an early-stage valuation of whether he can sustain elite performance across multiple seasons while avoiding injury.
+This market is severely mispriced at 0.7% given that Skubal represents a legitimate contender for baseball's most prestigious pitching award. The extreme discount likely reflects confusion about the market's categorization—it's labeled "politics" when it's clearly a sports prediction—which has probably suppressed mainstream trader participation and liquidity. With nearly two years until resolution, this represents a significant inefficiency for informed bettors who track MLB pitcher trajectories.
 
-The bull case centers on Skubal's demonstrable improvement curve: he posted a sub-3.00 ERA in 2024 after years of development, features a high-velocity fastball paired with an elite slider, and plays for a rebuilding Tigers team likely to improve substantially by 2026, potentially giving him more run support and a stronger team context. If his velocity remains intact and the Tigers' lineup develops as expected, he could absolutely be in Cy Young contention during a season where he records 32+ quality starts.
+The bull case rests on Skubal's exceptional 2024 season (2.39 ERA, 228 strikeouts) and his age (27 heading into 2026), which positions him in his prime performance window. Detroit's organizational commitment to upgrading the roster, combined with Skubal's established elite velocity and command metrics, suggests he'll remain in the Cy Young conversation throughout the 2025-2026 period. The AL awards historically distribute among 3-5 serious contenders annually, meaning a pitcher with Skubal's profile typically commands 5-15% odds depending on depth of competition that year. The baseline competence required to sustain top-20 pitcher status—where Skubal already operates—is substantially higher than 0.7% reflects.
 
-The bear case is more substantial: even elite young pitchers face injury risk over a two-year window, the AL features established aces (Juan Soto's team will have pitching depth, Yankees/Red Sox remain competitive), and Cy Young voting historically favors pitchers on winning teams—if the Tigers remain mediocre or Skubal's peripherals decline, voters will default to more high-profile competitors. A single shoulder or elbow injury in 2025 or early 2026 would effectively eliminate his candidacy.
+The bear case centers on the inherent volatility of injury risk in baseball and the emergence of younger phenoms (particularly prospects currently in developmental stages). If Skubal suffers rotator cuff damage, labrum issues, or other arm injuries between now and late 2025, his odds should collapse regardless of previous trajectory. Additionally, the AL pitching landscape could be reshaped by trade acquisitions or breakout performances from pitchers like Sonny Gray, Bailey Ober, or prospects currently outside the public eye. Winning a Cy Young demands durability, excellence, and favorable narrative positioning relative to competitors.
 
-Traders should monitor Skubal's 2025 season obsessively: ERA, innings pitched, velocity charts, and any injury reports will be the critical catalysts. The market will likely compress significantly if he posts a sub-2.80 ERA with 180+ innings in 2025, or expand dramatically if he lands on the injured list or sees velocity decline. Watch the Tigers' pitching depth additions in offseason, as a crowded rotation could limit his innings total.
+Traders should monitor Skubal's spring training performance (February-March 2025 and 2026) as the primary catalyst, followed by his mid-season ERA and strikeout rates through June/July in both years. Any significant injury reports or Detroit's mid-season roster moves will materially shift valuation. The market's mispricing likely persists simply due to category misclassification limiting visibility; correcting that exposure should naturally drive the odds toward 3-8% range before the 2026 season begins.
 
 ## Related Markets
 
-- [Will Marco Rubio win the 2028 US Presidential Election?](/odds/will-marco-rubio-win-the-2028-us-presidential-election) — 13% YES
-- [Will Trump and Putin meet next in another EU country?](/odds/will-trump-and-putin-meet-next-in-another-eu-country) — 0% YES
-- [Will Renan Santos finish in second place in the first round of the 2026 Brazilian presidential election?](/odds/will-renan-santos-finish-in-second-place-in-the-first-round-of-the-2026-brazilia) — 11% YES
+- [Will Marco Rubio win the 2028 US Presidential Election?](/odds/will-marco-rubio-win-the-2028-us-presidential-election) — 12% YES
+- [Clarity Act signed into law in 2026?](/odds/clarity-act-signed-into-law-in-2026) — 58% YES
+- [Will the Republicans win the 2028 US Presidential Election?](/odds/will-the-republicans-win-the-2028-us-presidential-election) — 38% YES
 
 ## Frequently Asked Questions
 
-### How much does playing for a rebuilding Tigers team handicap Skubal's Cy Young odds compared to aces on winning franchises?
+### What does Skubal need to happen statistically in 2025 to remain viable for 2026 Cy Young consideration?
 
-Significantly—Cy Young voters have consistently preferred pitchers from playoff teams, so if Detroit remains sub-.500 in 2026, Skubal would need a sub-2.50 ERA and 230+ innings to seriously contend against aces from 90+ win teams.
+He'll need to maintain sub-3.50 ERA with 200+ strikeouts in 2025 to keep his name in conversations heading into the award year; regression below those thresholds would substantially hurt his 2026 odds.
 
-### What velocity threshold would signal serious concern about Skubal's candidacy?
+### Could Detroit's playoff success or failure in 2025-2026 meaningfully impact Skubal's Cy Young chances?
 
-A sustained drop below 94 mph on his fastball (he's sitting 96-97) during the 2025 season would suggest mechanical or health issues requiring investigation, likely lowering his 2026 odds materially.
+Yes—voters historically favor pitchers on competitive teams, so Detroit making the playoffs would significantly boost his narrative positioning relative to pitchers on rebuilding rosters.
 
-### Does Skubal's recent breakout increase the probability that regression could occur by 2026?
+### Is this market's "politics" categorization an error, and does that affect trading strategy?
 
-Partially—young pitchers often show volatility, but his improvement was mechanics-driven rather than luck-based, meaning durability and injury avoidance matter far more than performance regression.
+Yes, this is clearly sports not politics; the miscategorization likely suppresses trader volume and creates arbitrage opportunities for those discovering the market through sports feeds rather than politics sections.
 
 ## Learn More
 

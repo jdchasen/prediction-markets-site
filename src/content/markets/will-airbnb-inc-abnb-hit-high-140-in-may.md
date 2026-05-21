@@ -3,8 +3,8 @@ title: "Will Airbnb, Inc. (ABNB) hit (HIGH) $140 in May?"
 description: "Will Airbnb, Inc. (ABNB) hit (HIGH) $140 in May? Odds: 31.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Airbnb, Inc. (ABNB) hit (HIGH) $140 in May?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-20
+status: "settled"
+lastUpdated: 2026-05-21
 expiryDate: 2026-06-01
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 31.5

@@ -3,8 +3,8 @@ title: "Will ACF Fiorentina win on 2026-05-24?"
 description: "Will ACF Fiorentina win on 2026-05-24? Odds: 35.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will ACF Fiorentina win on 2026-05-24?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-20
+status: "settled"
+lastUpdated: 2026-05-21
 expiryDate: 2026-05-24
 tags: ["politics", "polymarket"]
 polymarketYes: 35.5

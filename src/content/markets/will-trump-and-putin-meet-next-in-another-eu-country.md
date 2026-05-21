@@ -3,8 +3,8 @@ title: "Will Trump and Putin meet next in another EU country?"
 description: "Will Trump and Putin meet next in another EU country? Odds: 0.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Trump and Putin meet next in another EU country?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-20
+status: "settled"
+lastUpdated: 2026-05-21
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket", "trump"]
 polymarketYes: 0.5

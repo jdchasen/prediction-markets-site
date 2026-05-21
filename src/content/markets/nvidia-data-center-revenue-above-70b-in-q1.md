@@ -3,8 +3,8 @@ title: "Nvidia Data Center Revenue above 70B in Q1?"
 description: "Nvidia Data Center Revenue above 70B in Q1? Odds: 100.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Nvidia Data Center Revenue above 70B in Q1?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-20
+status: "settled"
+lastUpdated: 2026-05-21
 expiryDate: 2026-05-27
 tags: ["politics", "polymarket"]
 polymarketYes: 100.0

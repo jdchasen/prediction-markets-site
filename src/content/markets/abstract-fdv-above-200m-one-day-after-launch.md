@@ -1,17 +1,16 @@
 ---
 title: "Abstract FDV above $200M one day after launch?"
-description: "Abstract FDV above $200M one day after launch? Odds: 76.5% YES on Polymarket. See live prices and trade this market."
+description: "Abstract FDV above $200M one day after launch? Odds: 77.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Abstract FDV above $200M one day after launch?"
 category: "crypto"
 status: "active"
-lastUpdated: 2026-05-20
+lastUpdated: 2026-05-21
 expiryDate: 2028-01-01
 tags: ["crypto", "polymarket"]
-polymarketYes: 76.5
-polymarketNo: 23.5
-polymarketVolume: 99917
+polymarketYes: 77.0
+polymarketNo: 23.0
+polymarketVolume: 99941
 polymarketUrl: "https://polymarket.com/event/abstract-fdv-above-200m-one-day-after-launch"
-analysisDate: 2026-05-20
 ---
 
 The market is pricing in a strong likelihood that Abstract, a consumer-focused zkEVM rollup built by Ignis (formerly Pudgy Penguins), will launch with a fully diluted valuation exceeding $200 million, reflecting high expectations for this layer-2 solution backed by a proven NFT brand.

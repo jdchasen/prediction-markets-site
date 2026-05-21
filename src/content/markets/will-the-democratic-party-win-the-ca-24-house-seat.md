@@ -4,14 +4,13 @@ description: "Will the Democratic Party win the CA-24 House seat? Odds: 93.5% YE
 marketQuestion: "Will the Democratic Party win the CA-24 House seat?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-20
+lastUpdated: 2026-05-21
 expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
 polymarketYes: 93.5
 polymarketNo: 6.5
-polymarketVolume: 9953
+polymarketVolume: 9974
 polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-ca-24-house-seat"
-analysisDate: 2026-05-20
 ---
 
 # CA-24 Democratic Hold Analysis

@@ -4,14 +4,13 @@ description: "Will Paris Saint-Germain (PSG) score the most goals in 2025-26 UEF
 marketQuestion: "Will Paris Saint-Germain (PSG) score the most goals in 2025-26 UEFA Champions League?"
 category: "sports"
 status: "active"
-lastUpdated: 2026-05-20
+lastUpdated: 2026-05-21
 expiryDate: 2026-05-31
 tags: ["ai", "polymarket", "sports"]
 polymarketYes: 99.7
 polymarketNo: 0.3
 polymarketVolume: 9817
 polymarketUrl: "https://polymarket.com/event/will-paris-saint-germain-psg-score-the-most-goals-in-2025-26-uefa-champions-league"
-analysisDate: 2026-05-20
 ---
 
 The market is pricing PSG as an overwhelming favorite to lead the Champions League in goal scoring next season, but the 99.7% probability reflects extreme confidence that may not fully account for roster volatility and competition depth. This matters now because PSG's summer transfer window (July-August 2025) will determine whether they retain Mbappé-level firepower or face significant offensive restructuring before the competition begins in September 2025.

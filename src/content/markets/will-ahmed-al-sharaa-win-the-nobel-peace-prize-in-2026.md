@@ -4,14 +4,13 @@ description: "Will Ahmed al-Sharaa win the Nobel Peace Prize in 2026? Odds: 0.7%
 marketQuestion: "Will Ahmed al-Sharaa win the Nobel Peace Prize in 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-20
+lastUpdated: 2026-05-21
 expiryDate: 2026-10-10
 tags: ["politics", "polymarket"]
 polymarketYes: 0.7
 polymarketNo: 99.4
-polymarketVolume: 983772
+polymarketVolume: 988639
 polymarketUrl: "https://polymarket.com/event/will-ahmed-al-sharaa-win-the-nobel-peace-prize-in-2026"
-analysisDate: 2026-05-20
 ---
 
 The market prices an extremely low probability that Syria's new leader Ahmed al-Sharaa will receive the 2026 Nobel Peace Prize, reflecting both his recent emergence on the global stage and his controversial background as former head of Hayat Tahrir al-Sham, an organization with historical ties to al-Qaeda.

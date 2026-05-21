@@ -1,17 +1,16 @@
 ---
 title: "Over $3M committed to the Printr public sale?"
-description: "Over $3M committed to the Printr public sale? Odds: 1.3% YES on Polymarket. See live prices and trade this market."
+description: "Over $3M committed to the Printr public sale? Odds: 1.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Over $3M committed to the Printr public sale?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-20
+lastUpdated: 2026-05-21
 expiryDate: 2026-06-01
 tags: ["politics", "polymarket"]
-polymarketYes: 1.3
-polymarketNo: 98.7
-polymarketVolume: 988827
+polymarketYes: 1.9
+polymarketNo: 98.0
+polymarketVolume: 989106
 polymarketUrl: "https://polymarket.com/event/over-3m-committed-to-the-printr-public-sale"
-analysisDate: 2026-05-20
 ---
 
 The Printr public sale market is trading at extreme longshot odds of 1.3%, reflecting deep skepticism that this crypto project will attract over $3 million in commitments by June 2026. The market's relevance stems from broader questions about cryptocurrency fundraising viability in the current regulatory environment and whether niche blockchain projects can still generate significant retail interest after the 2022-2023 crypto winter.

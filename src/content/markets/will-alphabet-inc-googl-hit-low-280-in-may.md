@@ -3,8 +3,8 @@ title: "Will Alphabet Inc. (GOOGL) hit (LOW) $280 in May?"
 description: "Will Alphabet Inc. (GOOGL) hit (LOW) $280 in May? Odds: 0.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Alphabet Inc. (GOOGL) hit (LOW) $280 in May?"
 category: "finance"
-status: "active"
-lastUpdated: 2026-05-20
+status: "settled"
+lastUpdated: 2026-05-21
 expiryDate: 2026-06-01
 tags: ["finance", "polymarket"]
 polymarketYes: 0.4

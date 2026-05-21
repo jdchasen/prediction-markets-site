@@ -1,53 +1,56 @@
 ---
 title: "Will the Bank of Canada announce no change at the June meeting?"
-description: "Will the Bank of Canada announce no change at the June meeting? Odds: 97.0% YES on Polymarket. See live prices and trade this market."
+description: "Will the Bank of Canada announce no change at the June meeting? Odds: 97.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Bank of Canada announce no change at the June meeting?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-20
+lastUpdated: 2026-05-21
 expiryDate: 2026-06-10
 tags: ["politics", "polymarket"]
-polymarketYes: 97.0
-polymarketNo: 3.0
-polymarketVolume: 9811
+polymarketYes: 97.5
+polymarketNo: 2.5
+polymarketVolume: 9820
 polymarketUrl: "https://polymarket.com/event/will-the-bank-of-canada-announce-no-change-at-the-june-meeting"
+analysisDate: 2026-05-21
 ---
 
-The market is pricing in overwhelming confidence that the Bank of Canada will hold rates steady at its June 2026 meeting, but this extreme certainty deserves scrutiny given the 18-month timeline and volatile economic conditions that typically reshape monetary policy expectations. This matters because BoC rate decisions drive Canadian dollar strength, mortgage costs, and broader economic sentiment—and such lopsided odds suggest either genuine policy clarity or dangerous complacency among traders.
+# Bank of Canada June 2025 Rate Decision Analysis
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 97.0% | 2.9% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 97.5% | 2.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The bull case for no change rests on the assumption of a normalized rate environment by mid-2026. If inflation remains anchored near the BoC's 2% target through 2025-2026, and the Canadian economy stabilizes without shock, holding rates becomes the default baseline. The BoC has historically signaled rate decisions months in advance through communications, so if Governor Macklem and the governing council establish a "patient" stance during 2025 meetings, the June decision becomes largely predetermined. Additionally, if the Fed maintains higher rates through early 2026 to fight inflation, the BoC may feel constrained to avoid currency depreciation, making a hold more probable.
+The prediction market is pricing in near-certainty that the Bank of Canada will hold rates steady at its June meeting, reflecting current market expectations of continued monetary pause after the central bank's recent cutting cycle. This matters because rate decisions directly impact CAD currency strength, mortgage rates for Canadian consumers, and the broader economic outlook heading into mid-2025. With the June meeting occurring after six months of potential economic data and policy shifts, traders need to assess what conditions would actually force the BoC's hand toward action.
 
-The bear case hinges on recession risk or inflation reacceleration forcing the BoC's hand. A significant economic slowdown in Canada or contagion from global markets could demand a rate cut by June 2026—the market is essentially betting this doesn't occur. Alternatively, if energy prices spike or wage pressures resurface (particularly post-contract negotiations in 2025), inflation could accelerate unexpectedly, requiring a hike instead. The 97% odds leave almost no room for these tail risks, which is historically unusual for an 18-month-out forecast. Traders should monitor BoC inflation forecasts released in April 2026 (just weeks before the decision) and any recession signals from Q1 2026 GDP data.
+The bull case for no change is straightforward: the BoC has already cut rates five times since June 2024, bringing policy from restrictive to neutral territory, and will likely want to assess the impact of those cuts before moving again. If inflation remains within the 1-3% target band and economic growth shows signs of stabilizing by spring 2025, there's no urgency to move. The BoC typically signals major policy shifts well in advance, and current market commentary from Governor Macklem suggests a "wait and see" approach. The Fed's policy stance matters here too—if the U.S. remains on hold through June, the BoC has even less pressure to deviate.
 
-Key catalysts include the BoC's January, March, and May 2026 policy decisions, which will telegraph the June stance through forward guidance. The April 2026 inflation report becomes critical—if CPI rises above 2.5% or falls below 1.5%, market expectations will shift sharply. U.S. economic data and Fed policy through spring 2026 will also constrain BoC flexibility. Traders holding this position should exit or hedge if early-2026 BoC communications signal flexibility (code for potential cuts) or if recession risks materialize in late 2025.
+The bear case hinges on downside economic surprises that could force earlier action. If Canadian GDP growth disappoints significantly in Q1-Q2 2025, unemployment rises noticeably above 6%, or deflationary pressures emerge, the BoC might deliver a surprise cut to support growth. Geopolitical shocks (U.S. trade escalation under incoming administration) or housing market deterioration could also shift calculus. Watch employment data releases in May (typically published early June) and Q2 inflation readings due in mid-July—if May's jobs report before the meeting shows weakness, markets could reprice dramatically lower.
+
+Key catalyst dates include the April and May employment reports (usually released early in each month), the May inflation report (mid-month), and any BoC communication between May and June. Watch for shifts in money market pricing and USD/CAD moves as these data points hit—if CAD weakens significantly, it reduces cutting pressure. The 97.5% probability reflects rational baseline expectations but leaves minimal margin for genuine economic deterioration. Traders should monitor 5-year Canadian inflation breakeven rates and the BoC's May policy statement language for any hawkish or dovish shifts that could hint at June action.
 
 ## Related Markets
 
-- [Will Marco Rubio win the 2028 US Presidential Election?](/odds/will-marco-rubio-win-the-2028-us-presidential-election) — 14% YES
-- [Will Renan Santos finish in second place in the first round of the 2026 Brazilian presidential election?](/odds/will-renan-santos-finish-in-second-place-in-the-first-round-of-the-2026-brazilia) — 10% YES
-- [Will Silver (SI) hit (HIGH) $120 by end of June?](/odds/will-silver-si-hit-high-120-by-end-of-june) — 4% YES
+- [Will Marco Rubio win the 2028 US Presidential Election?](/odds/will-marco-rubio-win-the-2028-us-presidential-election) — 12% YES
+- [Clarity Act signed into law in 2026?](/odds/clarity-act-signed-into-law-in-2026) — 58% YES
+- [Will the Republicans win the 2028 US Presidential Election?](/odds/will-the-republicans-win-the-2028-us-presidential-election) — 38% YES
 
 ## Frequently Asked Questions
 
-### Why would the BoC change rates at the June 2026 meeting if inflation is stable?
+### What economic data released between now and June could actually move this market lower than 97.5%?
 
-Inflation stability alone doesn't determine policy—recession, employment shocks, or financial instability could force either a cut or hike regardless of price stability, which is why 97% odds discount these risks heavily.
+A significant miss on employment (Canada adding fewer than 15,000 jobs in May) or a drop in inflation below 2% could signal the BoC needs another cut, but single data points rarely override the BoC's signaling pattern. A meaningful deterioration would need to persist across multiple indicators.
 
-### What's the most likely scenario that would flip this market to NO?
+### How much does U.S. Federal Reserve policy influence this market's odds?
 
-A shallow recession confirmed by weak 2025 Q4 or 2026 Q1 GDP data, forcing the BoC to cut rates by June to support employment, would be the primary path to invalidating these odds.
+It's substantial but indirect—if the Fed cuts in May or June while the BoC holds, it could widen policy divergence and weaken CAD, creating subtle pressure on the BoC to eventually move. However, the BoC operates independently and the market isn't yet pricing in Fed cuts by June 2025.
 
-### How much weight should traders give to BoC forward guidance released between now and June 2026?
+### Why isn't this market at 99%+ if the BoC's recent messaging is so dovish on holding?
 
-Heavily—the BoC's May 2026 statement and April inflation forecast are the most predictive signals for the June decision; any mention of "optionality" or "flexibility" would immediately challenge the 97% thesis.
+The 2.5% tail risk reflects genuine uncertainty about economic deterioration or unexpected shocks between now and June. Six months is a long time; financial conditions could shift materially, or new crises (housing collapse, corporate defaults
 
 ## Learn More
 

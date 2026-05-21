@@ -3,8 +3,8 @@ title: "Will Victor Wembanyama win the 2026 NBA Finals MVP?"
 description: "Will Victor Wembanyama win the 2026 NBA Finals MVP? Odds: 39.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Victor Wembanyama win the 2026 NBA Finals MVP?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-05-20
+status: "settled"
+lastUpdated: 2026-05-21
 expiryDate: 2026-06-17
 tags: ["polymarket", "sports"]
 polymarketYes: 39.5
