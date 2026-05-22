@@ -3,8 +3,8 @@ title: "Will Ethereum dip to $1,400 in May?"
 description: "Will Ethereum dip to $1,400 in May? Odds: 0.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Ethereum dip to $1,400 in May?"
 category: "crypto"
-status: "active"
-lastUpdated: 2026-05-21
+status: "settled"
+lastUpdated: 2026-05-22
 expiryDate: 2026-06-01
 tags: ["crypto", "ethereum", "polymarket"]
 polymarketYes: 0.7

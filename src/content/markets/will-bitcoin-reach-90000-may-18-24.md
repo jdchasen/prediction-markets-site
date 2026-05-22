@@ -3,8 +3,8 @@ title: "Will Bitcoin reach $90,000 May 18-24?"
 description: "Will Bitcoin reach $90,000 May 18-24? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Bitcoin reach $90,000 May 18-24?"
 category: "crypto"
-status: "active"
-lastUpdated: 2026-05-21
+status: "settled"
+lastUpdated: 2026-05-22
 expiryDate: 2026-05-25
 tags: ["bitcoin", "crypto", "polymarket"]
 polymarketYes: 0.1

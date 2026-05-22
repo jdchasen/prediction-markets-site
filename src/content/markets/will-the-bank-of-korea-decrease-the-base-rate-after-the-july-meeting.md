@@ -1,17 +1,16 @@
 ---
 title: "Will the Bank of Korea decrease the base rate after the July Meeting?"
-description: "Will the Bank of Korea decrease the base rate after the July Meeting? Odds: 4.5% YES on Polymarket. See live prices and trade this market."
+description: "Will the Bank of Korea decrease the base rate after the July Meeting? Odds: 4.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Bank of Korea decrease the base rate after the July Meeting?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-21
+lastUpdated: 2026-05-22
 expiryDate: 2026-07-16
 tags: ["politics", "polymarket"]
-polymarketYes: 4.5
-polymarketNo: 95.5
-polymarketVolume: 9754
+polymarketYes: 4.2
+polymarketNo: 95.8
+polymarketVolume: 9849
 polymarketUrl: "https://polymarket.com/event/will-the-bank-of-korea-decrease-the-base-rate-after-the-july-meeting"
-analysisDate: 2026-05-21
 ---
 
 # Bank of Korea Rate Cut Analysis

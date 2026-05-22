@@ -3,8 +3,8 @@ title: "Will San Antonio Spurs advance to the 2026 NBA Finals?"
 description: "Will San Antonio Spurs advance to the 2026 NBA Finals? Odds: 39.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will San Antonio Spurs advance to the 2026 NBA Finals?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-05-21
+status: "settled"
+lastUpdated: 2026-05-22
 expiryDate: 2026-05-31
 tags: ["polymarket", "sports"]
 polymarketYes: 39.5

@@ -3,8 +3,8 @@ title: "Will Emma Raducanu win the 2026 Women’s French Open?"
 description: "Will Emma Raducanu win the 2026 Women’s French Open? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Emma Raducanu win the 2026 Women’s French Open?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-21
+status: "settled"
+lastUpdated: 2026-05-22
 expiryDate: 2026-06-06
 tags: ["politics", "polymarket"]
 polymarketYes: 0.1

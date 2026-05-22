@@ -3,8 +3,8 @@ title: "Will \"The Mandalorian and Grogu\" 4-day Opening Weekend Box Office be l
 description: "Will \"The Mandalorian and Grogu\" 4-day Opening Weekend Box Office be less than 92m? Odds: 51.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will \"The Mandalorian and Grogu\" 4-day Opening Weekend Box Office be less than 92m?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-21
+status: "settled"
+lastUpdated: 2026-05-22
 expiryDate: 2026-05-26
 tags: ["politics", "polymarket"]
 polymarketYes: 51.0

@@ -1,17 +1,16 @@
 ---
 title: "Will SpaceX IPO by August 31, 2026?"
-description: "Will SpaceX IPO by August 31, 2026? Odds: 97.6% YES on Polymarket. See live prices and trade this market."
+description: "Will SpaceX IPO by August 31, 2026? Odds: 97.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will SpaceX IPO by August 31, 2026?"
 category: "finance"
 status: "active"
-lastUpdated: 2026-05-21
+lastUpdated: 2026-05-22
 expiryDate: 2026-08-31
 tags: ["finance", "polymarket"]
-polymarketYes: 97.6
-polymarketNo: 2.4
-polymarketVolume: 97834
+polymarketYes: 97.5
+polymarketNo: 2.5
+polymarketVolume: 99665
 polymarketUrl: "https://polymarket.com/event/will-spacex-ipo-by-august-31-2026"
-analysisDate: 2026-05-21
 ---
 
 The market pricing SpaceX's IPO probability at 97.6% by August 2026 appears fundamentally disconnected from company statements and structural realities, representing either a dramatic misreading of the question terms or extreme speculative positioning. Elon Musk has consistently stated SpaceX will not go public until Starship is flying regularly to Mars, a timeline he's pegged to the late 2020s at earliest. The company's $180 billion private valuation as of 2024 and robust access to private capital through secondary sales and funding rounds eliminates any near-term pressure to tap public markets.

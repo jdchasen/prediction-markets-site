@@ -3,8 +3,8 @@ title: "Will José Luis Rodríguez Zapatero be arrested by June 30?"
 description: "Will José Luis Rodríguez Zapatero be arrested by June 30? Odds: 15.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will José Luis Rodríguez Zapatero be arrested by June 30?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-21
+status: "settled"
+lastUpdated: 2026-05-22
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
 polymarketYes: 15.5

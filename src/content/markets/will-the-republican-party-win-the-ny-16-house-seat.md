@@ -4,14 +4,13 @@ description: "Will the Republican Party win the NY-16 House seat? Odds: 1.1% YES
 marketQuestion: "Will the Republican Party win the NY-16 House seat?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-21
+lastUpdated: 2026-05-22
 expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
 polymarketYes: 1.1
 polymarketNo: 99.0
-polymarketVolume: 9978
+polymarketVolume: 9983
 polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-ny-16-house-seat"
-analysisDate: 2026-05-21
 ---
 
 # NY-16 Republican Odds Analysis

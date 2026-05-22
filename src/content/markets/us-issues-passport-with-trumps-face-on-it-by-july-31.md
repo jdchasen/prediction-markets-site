@@ -3,8 +3,8 @@ title: "U.S. issues passport with Trump's face on it by July 31?"
 description: "U.S. issues passport with Trump's face on it by July 31? Odds: 64.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "U.S. issues passport with Trump's face on it by July 31?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-21
+status: "settled"
+lastUpdated: 2026-05-22
 expiryDate: 2026-07-31
 tags: ["politics", "polymarket", "trump"]
 polymarketYes: 64.5

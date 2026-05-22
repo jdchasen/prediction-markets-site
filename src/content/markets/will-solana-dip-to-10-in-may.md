@@ -4,14 +4,13 @@ description: "Will Solana dip to $10 in May? Odds: 0.1% YES on Polymarket. See l
 marketQuestion: "Will Solana dip to $10 in May?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-21
+lastUpdated: 2026-05-22
 expiryDate: 2026-06-01
 tags: ["politics", "polymarket"]
 polymarketYes: 0.1
 polymarketNo: 100.0
 polymarketVolume: 98901
 polymarketUrl: "https://polymarket.com/event/will-solana-dip-to-10-in-may-2026"
-analysisDate: 2026-05-21
 ---
 
 The market assigns virtually no chance of Solana dropping to $10 in May, reflecting extreme confidence that the fifth-largest cryptocurrency by market cap will maintain substantial support levels well above that price point. At current prices around $130-140, a drop to $10 would represent a catastrophic 92-95% decline within a single month, requiring an unprecedented crypto market collapse or Solana-specific technical failure.

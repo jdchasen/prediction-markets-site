@@ -3,8 +3,8 @@ title: "Will Shai Gilgeous-Alexander win the 2026 NBA Finals MVP?"
 description: "Will Shai Gilgeous-Alexander win the 2026 NBA Finals MVP? Odds: 47.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Shai Gilgeous-Alexander win the 2026 NBA Finals MVP?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-05-21
+status: "settled"
+lastUpdated: 2026-05-22
 expiryDate: 2026-06-17
 tags: ["ai", "polymarket", "sports"]
 polymarketYes: 47.0

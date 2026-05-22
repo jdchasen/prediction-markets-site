@@ -1,53 +1,54 @@
 ---
 title: "Will Italy send warships through the Strait of Hormuz by May 31, 2026?"
-description: "Will Italy send warships through the Strait of Hormuz by May 31, 2026? Odds: 0.6% YES on Polymarket. See live prices and trade this market."
+description: "Will Italy send warships through the Strait of Hormuz by May 31, 2026? Odds: 1.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Italy send warships through the Strait of Hormuz by May 31, 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-21
+lastUpdated: 2026-05-22
 expiryDate: 2026-05-31
 tags: ["ai", "politics", "polymarket"]
-polymarketYes: 0.6
-polymarketNo: 99.4
-polymarketVolume: 98242
+polymarketYes: 1.2
+polymarketNo: 98.8
+polymarketVolume: 98515
 polymarketUrl: "https://polymarket.com/event/will-italy-send-warships-through-the-strait-of-hormuz-by-may-31-2026"
+analysisDate: 2026-05-22
 ---
 
-The market prices an extremely low probability that Italy will deploy naval vessels through this strategic Persian Gulf chokepoint within the next two years, reflecting the absence of any current Italian naval commitment or foreseeable crisis requiring such deployment.
+The market shows extreme skepticism about Italian naval activity in the Strait of Hormuz through May 2026, pricing at near-zero probability in an environment where Italy has no recent history of independent operations in these waters and faces significant domestic and EU constraints on such deployments.
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.9% | 99.1% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 1.2% | 98.8% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The bear case (supporting the 0.9% odds) rests on straightforward geopolitical reality: Italy has no operational requirement to transit the Strait of Hormuz, maintains no significant military partnerships in the Gulf requiring routine naval access, and would face domestic political resistance to deploying warships to a potential flashpoint 4,000 miles from Italian waters. Italy's naval operations focus primarily on Mediterranean security, NATO commitments in the Atlantic, and occasional anti-piracy missions off Somalia. The country's 2024-2026 defense planning documents outline no Persian Gulf deployments, and Prime Minister Meloni's government has shown no appetite for Middle Eastern military adventures beyond existing commitments. European naval presence in the Gulf has declined significantly since the 2019-2020 period when France and others participated in monitoring missions.
+The bear case, which traders have overwhelmingly backed, rests on several structural factors. Italy's naval doctrine focuses primarily on Mediterranean operations, particularly migration control and Operation Irini enforcing the Libya arms embargo. Sending warships through Hormuz would require parliamentary authorization given the controversial nature of Gulf deployments, and Italy's current government under Prime Minister Meloni has shown no indication of pursuing such Middle East engagement beyond existing limited coalition commitments. The logistical complexity alone—maintaining supply lines for vessels 4,000+ nautical miles from Italian bases—makes this prohibitively expensive for a navy already stretched across Mediterranean commitments. Italy's defense budget constraints and the absence of any diplomatic crisis or commercial shipping threat involving Italian interests specifically provide no catalyst for such an unprecedented deployment.
 
-The bull case requires either a major crisis or international coalition effort. A military confrontation between Iran and Western powers could theoretically trigger an EU naval coalition where Italy contributes vessels, similar to previous anti-piracy operations. If tensions escalate over Iran's nuclear program in late 2025 or early 2026, Italy might join a multilateral freedom-of-navigation operation. Italy participated in the European-led maritime awareness initiative (EMASOH) discussions in 2019-2020, though never deployed vessels. A direct threat to Italian-flagged commercial shipping or energy security interests could also force reconsideration, particularly if LNG shipments from Gulf states become critical to Italian energy needs.
+The bull case requires a dramatic shift in regional dynamics. If Iran were to significantly escalate actions against European shipping in response to sanctions or other tensions, Italy might join a multilateral EU or NATO escort mission. The EU's foreign affairs council meetings in October 2025 and March 2026 could theoretically authorize such a mission if tensions spike. Italy does participate in international naval coalitions when there's broad European consensus—it contributed to anti-piracy operations off Somalia—so precedent exists for distant deployments under the right circumstances. A major incident involving Italian-flagged vessels or critical energy supplies could force rapid parliamentary action. However, this scenario requires multiple low-probability events aligning: significant Iranian aggression, EU consensus on military response, and Italian parliamentary approval, all within the 18-month window.
 
-Traders should monitor several catalysts: any breakdown in Iran nuclear negotiations (the JCPOA remains unresolved with periodic IAEA reports), escalation of Houthi attacks on commercial shipping that expands beyond the Red Sea, Italian parliamentary defense committee meetings regarding naval deployments (typically quarterly), and NATO ministerial meetings where Mediterranean allies discuss Gulf security. The Italian defense budget review scheduled for late 2025 could also signal changed priorities, though this seems unlikely given Italy's focus on Mediterranean migration and Libya.
+Traders should monitor EU foreign ministers' discussions on Iran policy, particularly any language around freedom of navigation in the Gulf. Italy's 2025 defense budget negotiations, expected to conclude by December 2024, may signal capacity for expanded operations. Any deterioration in Iran-EU nuclear negotiations or Iranian harassment of European commercial vessels would be the primary catalyst. Watch for Italian Ministry of Defense statements on fleet deployments and parliamentary defense committee hearings, which would provide advance notice of any major operational changes.
 
 ## Related Markets
 
 - [Will Marco Rubio win the 2028 US Presidential Election?](/odds/will-marco-rubio-win-the-2028-us-presidential-election) — 12% YES
-- [Clarity Act signed into law in 2026?](/odds/clarity-act-signed-into-law-in-2026) — 58% YES
-- [Will the Republicans win the 2028 US Presidential Election?](/odds/will-the-republicans-win-the-2028-us-presidential-election) — 38% YES
+- [Will Stephen Cloobeck win the California Governor Election in 2026?](/odds/will-stephen-cloobeck-win-the-california-governor-election-in-2026) — 0% YES
+- [Will Ahmed al-Sharaa win the Nobel Peace Prize in 2026?](/odds/will-ahmed-al-sharaa-win-the-nobel-peace-prize-in-2026) — 1% YES
 
 ## Frequently Asked Questions
 
-### Has Italy ever deployed warships to the Persian Gulf or Strait of Hormuz previously?
+### Has Italy ever sent warships through the Strait of Hormuz before?
 
-Italy has minimal historical presence in the region, with no recent warship transits through Hormuz. Its naval focus remains overwhelmingly Mediterranean-centered with occasional African deployments.
+Italy has participated in some Gulf region operations historically, but has no pattern of regular independent transits through Hormuz. Any deployment would represent a significant departure from current Mediterranean-focused naval doctrine.
 
-### What would constitute a qualifying "warship" transit for this market to resolve YES?
+### What would trigger the parliamentary authorization needed for this deployment?
 
-The market would require an Italian Navy military vessel to physically pass through the Strait of Hormuz, not merely operate in the broader Middle East region or conduct port visits to Gulf states outside the strait.
+Italian law requires parliamentary approval for military missions abroad, typically granted only for NATO/EU operations or direct threats to Italian interests. An EU-mandated freedom of navigation mission or attack on Italian vessels would be the most plausible triggers.
 
-### Could Italy send warships as part of an EU or NATO mission rather than independently?
+### Could Italy join an existing international naval presence in the Gulf without this resolving YES?
 
-Yes, any Italian naval transit would most likely occur under multilateral frameworks like EU maritime security initiatives or NATO operations, as Italy rarely conducts solo deployments outside the Mediterranean.
+The market specifically requires passage through the Strait of Hormuz itself. Italy could theoretically station vessels elsewhere in the region without transiting the strait, though any Gulf deployment would likely involve Hormuz passage for resupply and positioning.
 
 ## Learn More
 

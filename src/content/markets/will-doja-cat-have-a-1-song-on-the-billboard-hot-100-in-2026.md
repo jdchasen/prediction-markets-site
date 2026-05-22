@@ -1,17 +1,16 @@
 ---
 title: "Will Doja Cat have a #1 song on the Billboard Hot 100 in 2026?"
-description: "Will Doja Cat have a #1 song on the Billboard Hot 100 in 2026? Odds: 8.0% YES on Polymarket. See live prices and trade this market."
+description: "Will Doja Cat have a #1 song on the Billboard Hot 100 in 2026? Odds: 8.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Doja Cat have a #1 song on the Billboard Hot 100 in 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-21
+lastUpdated: 2026-05-22
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 8.0
-polymarketNo: 92.0
-polymarketVolume: 9811
+polymarketYes: 8.5
+polymarketNo: 91.5
+polymarketVolume: 9976
 polymarketUrl: "https://polymarket.com/event/will-doja-cat-have-a-1-song-on-the-billboard-hot-100-in-2026"
-analysisDate: 2026-05-21
 ---
 
 # Doja Cat Billboard Hot 100 #1 Market Analysis

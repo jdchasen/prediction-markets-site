@@ -3,8 +3,8 @@ title: "Will Crude Oil (CL) hit (HIGH) $105 by end of June?"
 description: "Will Crude Oil (CL) hit (HIGH) $105 by end of June? Odds: 63.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Crude Oil (CL) hit (HIGH) $105 by end of June?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-21
+status: "settled"
+lastUpdated: 2026-05-22
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
 polymarketYes: 63.5
