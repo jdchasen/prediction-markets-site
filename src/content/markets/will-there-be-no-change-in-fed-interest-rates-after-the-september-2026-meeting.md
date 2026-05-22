@@ -3,7 +3,7 @@ title: "Will there be no change in Fed interest rates after the September 2026 m
 description: "Will there be no change in Fed interest rates after the September 2026 meeting? Odds: 72.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will there be no change in Fed interest rates after the September 2026 meeting?"
 category: "economics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-22
 expiryDate: 2026-09-16
 tags: ["economics", "federal-reserve", "interest-rates", "polymarket"]

@@ -1,17 +1,16 @@
 ---
 title: "Will Ubisoft announce bankruptcy by June 30?"
-description: "Will Ubisoft announce bankruptcy by June 30? Odds: 3.1% YES on Polymarket. See live prices and trade this market."
+description: "Will Ubisoft announce bankruptcy by June 30? Odds: 2.3% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Ubisoft announce bankruptcy by June 30?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-05-22
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
-polymarketYes: 3.1
-polymarketNo: 96.9
+polymarketYes: 2.3
+polymarketNo: 97.7
 polymarketVolume: 9893
 polymarketUrl: "https://polymarket.com/event/will-ubisoft-announce-bankruptcy-by-june-30"
-analysisDate: 2026-05-22
 ---
 
 # Ubisoft Bankruptcy Prediction: Market Analysis

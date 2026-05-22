@@ -9,9 +9,8 @@ expiryDate: 2026-10-31
 tags: ["politics", "polymarket"]
 polymarketYes: 0.7
 polymarketNo: 99.4
-polymarketVolume: 978619
+polymarketVolume: 980372
 polymarketUrl: "https://polymarket.com/event/will-the-los-angeles-angels-win-the-2026-world-series"
-analysisDate: 2026-05-22
 ---
 
 The Angels are trading at less than 1% to win the 2026 World Series, reflecting baseball's fundamental competitive reality where even elite teams rarely exceed 15-20% championship odds and the franchise hasn't made the playoffs since 2014.

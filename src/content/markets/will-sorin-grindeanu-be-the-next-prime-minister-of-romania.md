@@ -1,17 +1,16 @@
 ---
 title: "Will Sorin Grindeanu be the next Prime Minister of Romania?"
-description: "Will Sorin Grindeanu be the next Prime Minister of Romania? Odds: 6.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Sorin Grindeanu be the next Prime Minister of Romania? Odds: 6.6% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Sorin Grindeanu be the next Prime Minister of Romania?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-05-22
 expiryDate: 2026-05-31
 tags: ["politics", "polymarket"]
-polymarketYes: 6.5
-polymarketNo: 93.5
-polymarketVolume: 99016
+polymarketYes: 6.6
+polymarketNo: 93.4
+polymarketVolume: 99404
 polymarketUrl: "https://polymarket.com/event/will-sorin-grindeanu-be-the-next-prime-minister-of-romania"
-analysisDate: 2026-05-22
 ---
 
 Sorin Grindeanu, Romania's current transport minister and former prime minister, faces slim odds of returning to lead the government by mid-2026, with markets pricing his chances at roughly 1-in-15 despite his experience and Social Democratic Party (PSD) positioning. This matters as Romania navigates coalition politics following the annulled December 2024 presidential election and upcoming rescheduled elections in May 2025, with the prime ministerial position typically determined through post-election parliamentary negotiations.

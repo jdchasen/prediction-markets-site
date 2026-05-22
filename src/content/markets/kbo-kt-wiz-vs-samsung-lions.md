@@ -3,7 +3,7 @@ title: "KBO: KT Wiz vs. Samsung Lions"
 description: "KBO: KT Wiz vs. Samsung Lions Odds: 52.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "KBO: KT Wiz vs. Samsung Lions"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-22
 expiryDate: 2026-05-27
 tags: ["politics", "polymarket"]

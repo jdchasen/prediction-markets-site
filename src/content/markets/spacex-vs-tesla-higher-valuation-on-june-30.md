@@ -1,17 +1,16 @@
 ---
 title: "SpaceX vs Tesla - higher valuation on June 30?"
-description: "SpaceX vs Tesla - higher valuation on June 30? Odds: 92.0% YES on Polymarket. See live prices and trade this market."
+description: "SpaceX vs Tesla - higher valuation on June 30? Odds: 92.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "SpaceX vs Tesla - higher valuation on June 30?"
 category: "tech"
 status: "active"
 lastUpdated: 2026-05-22
 expiryDate: 2026-07-01
 tags: ["polymarket", "tech"]
-polymarketYes: 92.0
-polymarketNo: 8.0
-polymarketVolume: 9929
+polymarketYes: 92.5
+polymarketNo: 7.5
+polymarketVolume: 9938
 polymarketUrl: "https://polymarket.com/event/spacex-vs-tesla-higher-valuation-on-june-30"
-analysisDate: 2026-05-22
 ---
 
 The market is pricing in an extremely high probability that SpaceX will be valued higher than Tesla by mid-2026, reflecting Tesla's current valuation struggles and SpaceX's momentum in private markets. This reflects a fundamental shift in how investors are perceiving these companies' growth trajectories and the relative maturity of their markets.

@@ -3,7 +3,7 @@ title: "Will Solana dip to $40 in May?"
 description: "Will Solana dip to $40 in May? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Solana dip to $40 in May?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-22
 expiryDate: 2026-06-01
 tags: ["politics", "polymarket"]

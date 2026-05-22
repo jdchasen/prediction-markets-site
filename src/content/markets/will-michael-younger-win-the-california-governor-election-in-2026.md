@@ -9,9 +9,8 @@ expiryDate: 2026-11-03
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.1
 polymarketNo: 99.9
-polymarketVolume: 979654
+polymarketVolume: 983426
 polymarketUrl: "https://polymarket.com/event/will-michael-younger-win-the-california-governor-election-in-2026"
-analysisDate: 2026-05-22
 ---
 
 The California gubernatorial market currently prices Michael Younger as essentially a non-contender at 0.1%, reflecting that he lacks the political profile, fundraising apparatus, or institutional support typically required to compete in the nation's most expensive gubernatorial race.

@@ -3,7 +3,7 @@ title: "Will Hong Kong have less than 180mm of precipitation in May?"
 description: "Will Hong Kong have less than 180mm of precipitation in May? Odds: 0.3% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Hong Kong have less than 180mm of precipitation in May?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-22
 expiryDate: 2026-05-31
 tags: ["politics", "polymarket"]

@@ -9,9 +9,8 @@ expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 1.5
 polymarketNo: 98.6
-polymarketVolume: 98191
+polymarketVolume: 98207
 polymarketUrl: "https://polymarket.com/event/xi-jinping-divorce-before-2027"
-analysisDate: 2026-05-22
 ---
 
 This market prices an extraordinarily unlikely event at minimal probability, reflecting the reality that Chinese Communist Party leaders simply do not divorce while in power, with no modern precedent for such personal upheaval among top leadership. Xi Jinping has been married to folk singer Peng Liyuan since 1987, and she maintains a carefully managed public profile as First Lady, most recently appearing alongside Xi during state functions including the September 2023 G20 summit and various diplomatic visits throughout 2024.

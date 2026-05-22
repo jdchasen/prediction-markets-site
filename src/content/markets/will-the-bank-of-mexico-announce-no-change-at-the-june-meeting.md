@@ -1,16 +1,15 @@
 ---
 title: "Will the Bank of Mexico announce no change at the June meeting?"
-description: "Will the Bank of Mexico announce no change at the June meeting? Odds: 95.6% YES on Polymarket. See live prices and trade this market."
+description: "Will the Bank of Mexico announce no change at the June meeting? Odds: 96.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Bank of Mexico announce no change at the June meeting?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-05-22
 tags: ["politics", "polymarket"]
-polymarketYes: 95.6
-polymarketNo: 4.4
+polymarketYes: 96.5
+polymarketNo: 3.5
 polymarketVolume: 9795
 polymarketUrl: "https://polymarket.com/event/will-the-bank-of-mexico-announce-no-change-at-the-june-meeting"
-analysisDate: 2026-05-22
 ---
 
 # Bank of Mexico June Rate Decision Analysis

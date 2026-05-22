@@ -3,7 +3,7 @@ title: "Will annual inflation be 3.4% in May?"
 description: "Will annual inflation be 3.4% in May? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will annual inflation be 3.4% in May?"
 category: "economics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-22
 expiryDate: 2026-06-10
 tags: ["economics", "polymarket", "sports"]

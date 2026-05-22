@@ -1,17 +1,16 @@
 ---
 title: "Will Elina Svitolina win the 2026 Women’s French Open?"
-description: "Will Elina Svitolina win the 2026 Women’s French Open? Odds: 5.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Elina Svitolina win the 2026 Women’s French Open? Odds: 5.3% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Elina Svitolina win the 2026 Women’s French Open?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-05-22
 expiryDate: 2026-06-06
 tags: ["politics", "polymarket"]
-polymarketYes: 5.5
-polymarketNo: 94.5
-polymarketVolume: 98400
+polymarketYes: 5.3
+polymarketNo: 94.7
+polymarketVolume: 99473
 polymarketUrl: "https://polymarket.com/event/will-elina-svitolina-win-the-2026-womens-french-open"
-analysisDate: 2026-05-22
 ---
 
 The market currently prices Ukrainian tennis star Elina Svitolina at roughly 1-in-18 odds to capture the 2026 French Open title, reflecting her status as a capable but not elite contender on clay. With the tournament over two years away, this extended timeframe introduces significant uncertainty around form, injuries, and career trajectory for a player who will be 31 years old at tournament time.

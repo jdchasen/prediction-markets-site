@@ -3,7 +3,7 @@ title: "Will Lewis Hall be included in England's official 2026 World Cup squad l
 description: "Will Lewis Hall be included in England's official 2026 World Cup squad list? Odds: 11.3% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Lewis Hall be included in England's official 2026 World Cup squad list?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-22
 expiryDate: 2026-06-02
 tags: ["polymarket", "sports"]
