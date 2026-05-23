@@ -1,17 +1,16 @@
 ---
 title: "Will Monero hit $1000 in 2026?"
-description: "Will Monero hit $1000 in 2026? Odds: 18.0% YES on Polymarket. See live prices and trade this market."
+description: "Will Monero hit $1000 in 2026? Odds: 19.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Monero hit $1000 in 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-22
+lastUpdated: 2026-05-23
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]
-polymarketYes: 18.0
-polymarketNo: 82.0
+polymarketYes: 19.0
+polymarketNo: 81.0
 polymarketVolume: 99815
 polymarketUrl: "https://polymarket.com/event/will-monero-hit-1000-in-2026"
-analysisDate: 2026-05-22
 ---
 
 Monero reaching $1000 by the end of 2026 currently sits at just 18% probability on Polymarket, reflecting deep skepticism about the privacy coin's prospects amid intensifying regulatory pressure and exchange delistings across major platforms.

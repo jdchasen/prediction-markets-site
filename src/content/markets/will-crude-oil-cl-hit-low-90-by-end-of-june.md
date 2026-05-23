@@ -1,17 +1,16 @@
 ---
 title: "Will Crude Oil (CL) hit (LOW) $90 by end of June?"
-description: "Will Crude Oil (CL) hit (LOW) $90 by end of June? Odds: 67.0% YES on Polymarket. See live prices and trade this market."
+description: "Will Crude Oil (CL) hit (LOW) $90 by end of June? Odds: 66.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Crude Oil (CL) hit (LOW) $90 by end of June?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-22
+lastUpdated: 2026-05-23
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
-polymarketYes: 67.0
-polymarketNo: 33.0
-polymarketVolume: 9898
+polymarketYes: 66.0
+polymarketNo: 34.0
+polymarketVolume: 9989
 polymarketUrl: "https://polymarket.com/event/will-crude-oil-cl-hit-low-90-by-end-of-june"
-analysisDate: 2026-05-22
 ---
 
 # Crude Oil Price Prediction Analysis

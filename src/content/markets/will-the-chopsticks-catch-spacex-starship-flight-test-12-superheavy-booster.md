@@ -3,8 +3,8 @@ title: "Will the chopsticks catch SpaceX Starship Flight Test 12 Superheavy boos
 description: "Will the chopsticks catch SpaceX Starship Flight Test 12 Superheavy booster? Odds: 1.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the chopsticks catch SpaceX Starship Flight Test 12 Superheavy booster?"
 category: "tech"
-status: "active"
-lastUpdated: 2026-05-22
+status: "settled"
+lastUpdated: 2026-05-23
 expiryDate: 2026-12-31
 tags: ["polymarket", "tech"]
 polymarketYes: 1.2

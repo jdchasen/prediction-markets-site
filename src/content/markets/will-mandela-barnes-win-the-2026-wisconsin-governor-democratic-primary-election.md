@@ -3,8 +3,8 @@ title: "Will Mandela Barnes win the 2026 Wisconsin Governor Democratic primary e
 description: "Will Mandela Barnes win the 2026 Wisconsin Governor Democratic primary election? Odds: 50.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Mandela Barnes win the 2026 Wisconsin Governor Democratic primary election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-22
+status: "settled"
+lastUpdated: 2026-05-23
 expiryDate: 2026-08-11
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 50.5

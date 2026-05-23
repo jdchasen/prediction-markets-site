@@ -1,17 +1,16 @@
 ---
 title: "Will Pamela Evette win the 2026 South Carolina Governor Republican primary election?"
-description: "Will Pamela Evette win the 2026 South Carolina Governor Republican primary election? Odds: 31.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Pamela Evette win the 2026 South Carolina Governor Republican primary election? Odds: 33.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Pamela Evette win the 2026 South Carolina Governor Republican primary election?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-22
+lastUpdated: 2026-05-23
 expiryDate: 2026-06-09
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 31.5
-polymarketNo: 68.5
+polymarketYes: 33.0
+polymarketNo: 67.0
 polymarketVolume: 9952
 polymarketUrl: "https://polymarket.com/event/will-pamela-evette-win-the-2026-south-carolina-governor-republican-primary-election-972"
-analysisDate: 2026-05-22
 ---
 
 # 2026 South Carolina GOP Governor Primary: Pamela Evette's Path to 31.5%

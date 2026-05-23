@@ -3,8 +3,8 @@ title: "Will Vitality win IEM Cologne Major 2026?"
 description: "Will Vitality win IEM Cologne Major 2026? Odds: 50.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Vitality win IEM Cologne Major 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-22
+status: "settled"
+lastUpdated: 2026-05-23
 expiryDate: 2026-06-21
 tags: ["politics", "polymarket"]
 polymarketYes: 50.5

@@ -1,17 +1,16 @@
 ---
 title: "Will Nassourdine Imavov be the UFC Middleweight Champion on December 31, 2026?"
-description: "Will Nassourdine Imavov be the UFC Middleweight Champion on December 31, 2026? Odds: 21.7% YES on Polymarket. See live prices and trade this market."
+description: "Will Nassourdine Imavov be the UFC Middleweight Champion on December 31, 2026? Odds: 22.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Nassourdine Imavov be the UFC Middleweight Champion on December 31, 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-22
+lastUpdated: 2026-05-23
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 21.7
-polymarketNo: 78.3
-polymarketVolume: 9994
+polymarketYes: 22.9
+polymarketNo: 77.1
+polymarketVolume: 9999
 polymarketUrl: "https://polymarket.com/event/will-nassourdine-imavov-be-the-ufc-middleweight-champion-on-december-31-2026"
-analysisDate: 2026-05-22
 ---
 
 # Nassourdine Imavov UFC Middleweight Championship Market Analysis

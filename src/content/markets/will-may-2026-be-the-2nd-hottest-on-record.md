@@ -1,17 +1,16 @@
 ---
 title: "Will May 2026 be the 2nd hottest on record?"
-description: "Will May 2026 be the 2nd hottest on record? Odds: 74.5% YES on Polymarket. See live prices and trade this market."
+description: "Will May 2026 be the 2nd hottest on record? Odds: 76.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will May 2026 be the 2nd hottest on record?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-22
+lastUpdated: 2026-05-23
 expiryDate: 2026-06-10
 tags: ["politics", "polymarket"]
-polymarketYes: 74.5
-polymarketNo: 25.5
-polymarketVolume: 9732
+polymarketYes: 76.5
+polymarketNo: 23.5
+polymarketVolume: 9819
 polymarketUrl: "https://polymarket.com/event/will-may-2026-be-the-2nd-hottest-on-record"
-analysisDate: 2026-05-22
 ---
 
 # May 2026 Temperature Record Analysis

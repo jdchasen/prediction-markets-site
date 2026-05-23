@@ -3,8 +3,8 @@ title: "Fed rate cut by September 2026 meeting?"
 description: "Fed rate cut by September 2026 meeting? Odds: 15.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Fed rate cut by September 2026 meeting?"
 category: "economics"
-status: "active"
-lastUpdated: 2026-05-22
+status: "settled"
+lastUpdated: 2026-05-23
 expiryDate: 2026-06-17
 tags: ["economics", "federal-reserve", "interest-rates", "polymarket"]
 polymarketYes: 15.4

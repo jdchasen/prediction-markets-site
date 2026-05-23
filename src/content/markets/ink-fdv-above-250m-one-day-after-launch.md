@@ -1,17 +1,16 @@
 ---
 title: "Ink FDV above $250M one day after launch?"
-description: "Ink FDV above $250M one day after launch? Odds: 85.0% YES on Polymarket. See live prices and trade this market."
+description: "Ink FDV above $250M one day after launch? Odds: 83.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Ink FDV above $250M one day after launch?"
 category: "crypto"
 status: "active"
-lastUpdated: 2026-05-22
+lastUpdated: 2026-05-23
 expiryDate: 2027-01-01
 tags: ["crypto", "polymarket"]
-polymarketYes: 85.0
-polymarketNo: 15.0
-polymarketVolume: 98457
+polymarketYes: 83.5
+polymarketNo: 16.5
+polymarketVolume: 99092
 polymarketUrl: "https://polymarket.com/event/ink-fdv-above-250m-one-day-after-launch-949"
-analysisDate: 2026-05-22
 ---
 
 The market is pricing an 85% probability that Ink's fully diluted valuation will exceed $250 million within 24 hours of launch, reflecting strong optimism around Kraken's layer-2 blockchain but leaving considerable room for disappointment if liquidity or initial price discovery falls short.

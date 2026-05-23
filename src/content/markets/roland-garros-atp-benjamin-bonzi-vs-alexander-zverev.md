@@ -3,8 +3,8 @@ title: "Roland Garros ATP: Benjamin Bonzi vs Alexander Zverev"
 description: "Roland Garros ATP: Benjamin Bonzi vs Alexander Zverev Odds: 5.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Roland Garros ATP: Benjamin Bonzi vs Alexander Zverev"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-22
+status: "settled"
+lastUpdated: 2026-05-23
 expiryDate: 2026-05-31
 tags: ["politics", "polymarket"]
 polymarketYes: 5.0

@@ -1,17 +1,16 @@
 ---
 title: "Will Citigroup fail by June 30, 2026?"
-description: "Will Citigroup fail by June 30, 2026? Odds: 0.9% YES on Polymarket. See live prices and trade this market."
+description: "Will Citigroup fail by June 30, 2026? Odds: 1.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Citigroup fail by June 30, 2026?"
 category: "politics"
-status: "settled"
-lastUpdated: 2026-05-19
+status: "active"
+lastUpdated: 2026-05-23
 expiryDate: 2026-06-30
 tags: ["ai", "politics", "polymarket"]
-polymarketYes: 0.9
-polymarketNo: 99.2
-polymarketVolume: 9652
+polymarketYes: 1.9
+polymarketNo: 98.0
+polymarketVolume: 9923
 polymarketUrl: "https://polymarket.com/event/will-citigroup-fail-by-june-30-2026"
-analysisDate: 2026-05-18
 ---
 
 # Citigroup Failure Prediction Market Analysis

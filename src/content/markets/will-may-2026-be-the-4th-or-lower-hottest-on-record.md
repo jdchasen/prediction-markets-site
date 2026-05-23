@@ -3,8 +3,8 @@ title: "Will May 2026 be the 4th or lower hottest on record?"
 description: "Will May 2026 be the 4th or lower hottest on record? Odds: 1.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will May 2026 be the 4th or lower hottest on record?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-22
+status: "settled"
+lastUpdated: 2026-05-23
 expiryDate: 2026-06-10
 tags: ["politics", "polymarket"]
 polymarketYes: 1.4

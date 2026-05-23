@@ -1,17 +1,17 @@
 ---
 title: "Will Hanwha Life Esports make a roster change before July?"
-description: "Will Hanwha Life Esports make a roster change before July? Odds: 46.0% YES on Polymarket. See live prices and trade this market."
+description: "Will Hanwha Life Esports make a roster change before July? Odds: 32.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Hanwha Life Esports make a roster change before July?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-22
+lastUpdated: 2026-05-23
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
-polymarketYes: 46.0
-polymarketNo: 54.0
-polymarketVolume: 9805
+polymarketYes: 32.4
+polymarketNo: 67.6
+polymarketVolume: 9872
 polymarketUrl: "https://polymarket.com/event/will-hanwha-life-esports-make-a-roster-change-before-july"
-analysisDate: 2026-05-22
+analysisDate: 2026-05-23
 ---
 
 # Analysis
@@ -20,37 +20,37 @@ analysisDate: 2026-05-22
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 46.0% | 54.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 32.4% | 67.6% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-This market is currently split nearly down the middle at 46% YES, suggesting genuine uncertainty about whether South Korea's Hanwha Life Esports will make roster changes before the July 2026 deadline—a timeline that aligns with typical esports organization roster windows. The classification as "politics" appears to be a miscategorization, as this is fundamentally a sports betting market about a professional esports organization, not a political prediction, which creates potential indexing or discovery issues that could affect liquidity and accurate pricing.
+This market sits at roughly 1-in-3 odds that a South Korean esports organization will shuffle its competitive roster within the next 18 months, reflecting significant uncertainty about organizational stability in a volatile sector. The categorization as "politics" appears to be a platform error, as this concerns esports roster decisions rather than political events, which may indicate limited trader sophistication and potentially mispriced odds.
 
-The bull case for a roster change rests on standard esports industry dynamics: Hanwha Life competes in the LCK (League of Legends Champions Korea), where organizations frequently restructure rosters between seasons or mid-season if performance targets aren't met. If the team underperforms in the 2026 spring split or early summer competitions, management typically makes changes to player lineups before international tournaments or summer playoffs. The organization's investment level and competitive expectations make roster adjustments a regular operational occurrence rather than an anomaly.
+The bull case rests on structural realities of professional League of Legends: Hanwha Life Esports (HLE) competes in the LCK, where roster windows open in November-December annually, and mid-season roster swaps occur regularly when teams underperform. If HLE finishes outside top-4 in the 2025 Spring Split (concluding April 2025), pressure for roster adjustments before the Summer Split (beginning June 2025) becomes acute. The organization has shown willingness to make mid-season changes historically, and the 18-month window through June 2026 encompasses multiple competitive cycles where underperformance could trigger roster turnover. Additionally, player contracts and visa situations in Korean esports create frequent movement windows.
 
-The bear case argues that roster stability often correlates with better team chemistry and performance, and if Hanwha Life establishes early success in 2026, the organization may choose to keep its core lineup intact. Successful teams frequently resist the temptation to overhaul rosters mid-year, and Korean esports organizations have shown increasing patience with developmental timelines for younger players. Without visibility into the team's actual performance metrics or management philosophy for 2026, traders are essentially guessing at baseline organizational behavior.
+The bear case emphasizes that established LCK rosters typically maintain core lineups between seasonal windows unless catastrophic failure occurs. HLE's recent competitive iterations have retained 3-4 core players across splits, and without specific evidence of internal conflict or financial distress, organizations avoid disruptive changes mid-cycle. The 32.4% odds already price in a meaningful probability, suggesting markets view roster stability as the baseline expectation. Unless new information emerges about player departures or organizational turmoil, inertia favors maintaining status quo through mid-2026.
 
-Key catalysts to monitor include the LCK spring split results (expected January-March 2026), any significant player injury or visa issues, and official statements from Hanwha Life management about roster intentions. The market's 46% odds suggest traders see roster changes as slightly less likely than not, but the wide gap to 50% indicates low confidence in either direction. Watch for esports news sources covering LCK team decisions and any organizational announcements in Q1 2026, as these will likely trigger significant movement.
+Key catalysts to monitor include HLE's 2025 Spring Split performance (results available by late April 2025) and any player contract announcements or free agency news during the November 2024-December 2024 roster window. Watch for statements from HLE management regarding competitive direction and any trades or signings that might indicate strategic pivots. The June 2026 expiration means Summer Split roster decisions (typically finalized by May 2026) will resolve this market.
 
 ## Related Markets
 
-- [Will Marco Rubio win the 2028 US Presidential Election?](/odds/will-marco-rubio-win-the-2028-us-presidential-election) — 12% YES
-- [Will Ahmed al-Sharaa win the Nobel Peace Prize in 2026?](/odds/will-ahmed-al-sharaa-win-the-nobel-peace-prize-in-2026) — 1% YES
-- [Will the Republicans win the 2028 US Presidential Election?](/odds/will-the-republicans-win-the-2028-us-presidential-election) — 38% YES
+- [Will Marco Rubio win the 2028 US Presidential Election?](/odds/will-marco-rubio-win-the-2028-us-presidential-election) — 14% YES
+- [Over $3M committed to the Printr public sale?](/odds/over-3m-committed-to-the-printr-public-sale) — 1% YES
+- [US x Iran permanent peace deal by July 31, 2026?](/odds/us-x-iran-permanent-peace-deal-by-july-31-2026) — 48% YES
 
 ## Frequently Asked Questions
 
-### Why is an esports organization roster market categorized under "politics"?
+### Does the "politics" category designation affect market credibility and trader participation on this contract?
 
-This appears to be a platform miscategorization error, as Hanwha Life Esports is a professional League of Legends team with no political dimension. This categorization error could reduce market visibility and attract traders unfamiliar with esports dynamics.
+Yes—the miscategorization suggests this market may have attracted casual or automated traders unfamiliar with esports, potentially creating mispricing opportunities for informed bettors who understand LCK roster dynamics.
 
-### What counts as a "roster change" for settlement purposes—does a substitute player activation count?
+### What counts as a "roster change" for resolution purposes—does a single substitution or academy player promotion trigger YES, or must it be a major signing/departure?
 
-Market documentation should clarify whether any lineup alteration counts or only permanent acquisitions/departures, as this distinction significantly impacts probability assessment and could be a settlement dispute vector.
+Resolution typically requires substantive changes to the starting competitive roster (replacing a starter), not bench rotations or academy call-ups, though the exact terms should be verified with the platform.
 
-### How does Hanwha Life's 2025 season performance affect 2026 roster change probability?
+### How does the November-December LCK roster window affect the timing of this June 2026 expiration?
 
-Strong 2025 results would reduce roster change likelihood, while poor performance dramatically increases it, making late-2025 LCK standings the most important leading indicator for this market's resolution.
+The market expires after the Summer 2025 roster window closes but before the major off-season window in late 2025, meaning most roster decisions will already be made by expiration—focus on Spring/Summer 2025 performance as the primary driver.
 
 ## Learn More
 

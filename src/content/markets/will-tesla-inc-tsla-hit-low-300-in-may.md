@@ -1,17 +1,16 @@
 ---
 title: "Will Tesla, Inc. (TSLA) hit (LOW) $300 in May?"
-description: "Will Tesla, Inc. (TSLA) hit (LOW) $300 in May? Odds: 2.2% YES on Polymarket. See live prices and trade this market."
+description: "Will Tesla, Inc. (TSLA) hit (LOW) $300 in May? Odds: 1.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Tesla, Inc. (TSLA) hit (LOW) $300 in May?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-22
+lastUpdated: 2026-05-23
 expiryDate: 2026-06-01
 tags: ["politics", "polymarket"]
-polymarketYes: 2.2
-polymarketNo: 97.8
-polymarketVolume: 9769
+polymarketYes: 1.2
+polymarketNo: 98.8
+polymarketVolume: 9950
 polymarketUrl: "https://polymarket.com/event/will-tsla-dip-to-300-in-may-2026-571-535"
-analysisDate: 2026-05-22
 ---
 
 # Tesla Stock Price Prediction Analysis

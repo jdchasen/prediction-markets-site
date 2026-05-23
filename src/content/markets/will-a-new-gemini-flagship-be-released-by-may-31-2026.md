@@ -1,17 +1,16 @@
 ---
 title: "Will a new Gemini flagship be released by May 31, 2026?"
-description: "Will a new Gemini flagship be released by May 31, 2026? Odds: 2.5% YES on Polymarket. See live prices and trade this market."
+description: "Will a new Gemini flagship be released by May 31, 2026? Odds: 1.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will a new Gemini flagship be released by May 31, 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-22
+lastUpdated: 2026-05-23
 expiryDate: 2026-05-31
 tags: ["politics", "polymarket"]
-polymarketYes: 2.5
-polymarketNo: 97.5
-polymarketVolume: 97753
+polymarketYes: 1.8
+polymarketNo: 98.2
+polymarketVolume: 98388
 polymarketUrl: "https://polymarket.com/event/will-a-new-gemini-flagship-be-released-by-may-31-2026-623-692-974"
-analysisDate: 2026-05-22
 ---
 
 # Gemini Flagship Release Market Analysis
