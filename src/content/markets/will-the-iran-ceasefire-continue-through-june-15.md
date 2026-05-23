@@ -3,7 +3,7 @@ title: "Will the Iran ceasefire continue through June 15?"
 description: "Will the Iran ceasefire continue through June 15? Odds: 49.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Iran ceasefire continue through June 15?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-23
 tags: ["politics", "polymarket"]
 polymarketYes: 49.5

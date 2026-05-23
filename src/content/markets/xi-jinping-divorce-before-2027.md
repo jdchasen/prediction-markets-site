@@ -1,17 +1,16 @@
 ---
 title: "Xi Jinping divorce before 2027?"
-description: "Xi Jinping divorce before 2027? Odds: 1.5% YES on Polymarket. See live prices and trade this market."
+description: "Xi Jinping divorce before 2027? Odds: 1.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Xi Jinping divorce before 2027?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-05-23
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 1.5
+polymarketYes: 1.4
 polymarketNo: 98.6
-polymarketVolume: 98214
+polymarketVolume: 99214
 polymarketUrl: "https://polymarket.com/event/xi-jinping-divorce-before-2027"
-analysisDate: 2026-05-23
 ---
 
 This market pricing divorce at 1.5% reflects the near-impossibility of Chinese President Xi Jinping divorcing his wife Peng Liyuan before 2027, given the political and cultural constraints surrounding China's paramount leader. The question matters primarily as a proxy for extreme political instability in China, as divorce would represent an unprecedented personal scandal for a sitting Chinese leader in the modern era.

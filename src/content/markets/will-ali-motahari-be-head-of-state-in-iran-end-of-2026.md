@@ -3,7 +3,7 @@ title: "Will Ali Motahari be head of state in Iran end of 2026?"
 description: "Will Ali Motahari be head of state in Iran end of 2026? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Ali Motahari be head of state in Iran end of 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-23
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]

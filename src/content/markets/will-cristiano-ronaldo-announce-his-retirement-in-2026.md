@@ -1,17 +1,16 @@
 ---
 title: "Will Cristiano Ronaldo announce his retirement in 2026?"
-description: "Will Cristiano Ronaldo announce his retirement in 2026? Odds: 17.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Cristiano Ronaldo announce his retirement in 2026? Odds: 14.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Cristiano Ronaldo announce his retirement in 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-05-23
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 17.5
-polymarketNo: 82.5
-polymarketVolume: 9862
+polymarketYes: 14.5
+polymarketNo: 85.5
+polymarketVolume: 9889
 polymarketUrl: "https://polymarket.com/event/will-cristiano-ronaldo-announce-his-retirement-in-2026"
-analysisDate: 2026-05-23
 ---
 
 This market is currently pricing in a roughly one-in-six chance that Ronaldo retires during 2026, despite the athlete being 41 years old by year-end and approaching the twilight of his career. The odds matter because Ronaldo's retirement decision hinges on personal factors—physical decline, contract terms, and family priorities—rather than external political events, making the "politics" categorization a data quality issue worth noting for traders evaluating market integrity.

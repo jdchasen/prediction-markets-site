@@ -3,7 +3,7 @@ title: "Will Hanwha Life Esports make a roster change before July?"
 description: "Will Hanwha Life Esports make a roster change before July? Odds: 32.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Hanwha Life Esports make a roster change before July?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-23
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]

@@ -3,7 +3,7 @@ title: "KBO: NC Dinos vs. KT Wiz"
 description: "KBO: NC Dinos vs. KT Wiz Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "KBO: NC Dinos vs. KT Wiz"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-23
 expiryDate: 2026-05-30
 tags: ["politics", "polymarket"]

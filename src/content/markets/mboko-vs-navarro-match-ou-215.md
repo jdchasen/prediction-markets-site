@@ -3,7 +3,7 @@ title: "Mboko vs. Navarro: Match O/U 21.5"
 description: "Mboko vs. Navarro: Match O/U 21.5 Odds: 48.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Mboko vs. Navarro: Match O/U 21.5"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-23
 expiryDate: 2026-05-30
 tags: ["politics", "polymarket"]
