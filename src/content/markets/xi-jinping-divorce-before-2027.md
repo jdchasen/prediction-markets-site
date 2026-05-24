@@ -9,9 +9,8 @@ expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 1.4
 polymarketNo: 98.6
-polymarketVolume: 99215
+polymarketVolume: 99249
 polymarketUrl: "https://polymarket.com/event/xi-jinping-divorce-before-2027"
-analysisDate: 2026-05-24
 ---
 
 This market prices an extraordinarily unlikely scenario at roughly 1-2%, reflecting both the extreme improbability of Xi Jinping divorcing Peng Liyuan and the inherent difficulty in obtaining reliable information about Chinese leadership private affairs. The question matters primarily as a proxy for potential political instability or unprecedented shifts in China's closed political system, where divorce among top leadership would represent a significant departure from established norms.

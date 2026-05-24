@@ -11,7 +11,6 @@ polymarketYes: 0.5
 polymarketNo: 99.5
 polymarketVolume: 9921
 polymarketUrl: "https://polymarket.com/event/will-tarik-skubal-win-the-2026-al-cy-young-award"
-analysisDate: 2026-05-24
 ---
 
 The market pricing Tarik Skubal at just 0.5% to win the 2026 AL Cy Young Award reflects extreme skepticism about a pitcher nearly two years before the award, though Skubal's 2024 AL Cy Young win demonstrates he has elite capability when healthy.

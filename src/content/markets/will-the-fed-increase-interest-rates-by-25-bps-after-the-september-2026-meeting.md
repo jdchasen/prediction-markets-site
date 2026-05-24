@@ -1,50 +1,51 @@
 ---
 title: "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?"
-description: "Will the Fed increase interest rates by 25 bps after the September 2026 meeting? Odds: 16.5% YES on Polymarket. See live prices and trade this market."
+description: "Will the Fed increase interest rates by 25 bps after the September 2026 meeting? Odds: 19.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?"
 category: "economics"
 status: "active"
 lastUpdated: 2026-05-24
 expiryDate: 2026-09-16
 tags: ["economics", "federal-reserve", "interest-rates", "polymarket"]
-polymarketYes: 16.5
-polymarketNo: 83.5
-polymarketVolume: 9635
+polymarketYes: 19.0
+polymarketNo: 81.0
+polymarketVolume: 9714
 polymarketUrl: "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649"
+analysisDate: 2026-05-24
 ---
 
-# Fed Rate Hike Probability in September 2026
+# Fed Rate Hike Probability Analysis: September 2026
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 16.0% | 84.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 19.0% | 81.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The 16% probability reflects deep skepticism that the Fed will tighten monetary policy by late 2026, signaling trader conviction that rate cuts or holds will dominate the policy trajectory by then. This matters because it reveals how markets are pricing the terminal rate path and the economic conditions expected 18+ months forward. If this probability seems surprisingly low to you, it's because traders are essentially betting the Fed will have already cut rates substantially from current levels or will be holding steady—a bearish signal for long-term growth or inflation expectations.
+The 19% probability reflects market consensus that the Fed is unlikely to raise rates in September 2026, implying expectations for either pause-mode or cutting cycles by that point in the cycle. This matters because it reveals current market pricing for long-term monetary policy trajectory—a full two years out—when most Fed guidance typically extends only 12-18 months. The low odds suggest traders believe the Fed will have already completed its hiking cycle and potentially begun easing by mid-2026, or will maintain rates in a higher-for-longer holding pattern rather than resuming increases.
 
-The bull case for a 25 basis point hike relies on a stagflationary scenario where inflation re-accelerates despite Fed cuts earlier in 2025-2026, forcing the central bank into an unexpected policy reversal. This could occur if energy prices spike, wage growth remains sticky above 4%, or fiscal stimulus reignites demand faster than expected. The PCE inflation data, released monthly, will be critical: any sustained readings above 3% in the six months leading into September 2026 would pressure this probability upward. Additionally, a strong labor market (NFP data released the first Friday of each month) with unemployment below 4% would support the hiking scenario. The FOMC's own dot plot projections, updated at each meeting, could shift expectations if officials signal hawkish pivot language.
+The bull case for a rate hike rests on persistent inflation concerns that could resurface. If core PCE or headline CPI readings remain stubbornly above the Fed's 2% target through 2026, or if wage growth (tracked monthly via Non-Farm Payroll reports) accelerates unexpectedly, the Fed could be forced to tighten again despite market expectations. A significant demand shock from fiscal stimulus or geopolitical disruption could also trigger inflationary pressure requiring a response. The FOMC's December 2024, March 2025, and June 2025 meetings will establish the initial rate trajectory; if those sessions show aggressive hiking rather than cuts, September 2026 becomes more plausible for additional tightening.
 
-The bear case is dominant: traders expect the Fed will have successfully achieved a soft landing with inflation near target and growth slowing moderately by mid-2026, eliminating any rationale for tightening. The current inversion of the yield curve and recession risks in 2025 suggest rate cuts are more likely through 2026 than hikes. Even if inflation ticks slightly above 2%, the Fed would likely remain patient given the long lags in monetary policy transmission. Watch for the unemployment rate trajectory—if it rises to 4.5% or higher by mid-2026, rate hikes become virtually impossible. The Treasury yield curve inversion will also matter; a steep normalization without inflation pressure would reinforce trader conviction in a lower-for-longer regime.
+The bear case—supporting the current 81% no-hike probability—assumes the Fed completes its tightening cycle by late 2024 or early 2025 and either holds steady or cuts rates through 2026. Historical precedent suggests three-year cycles: after hiking peaks, the Fed typically holds or cuts. Unemployment data (monthly NFP releases) would need to remain stable or show weakness to justify a pause, which aligns with current market pricing. Breakeven inflation rates and Fed funds futures currently price in rate cuts or holds for 2025-2026, and unless those consensus expectations dramatically shift, September 2026 rate hike odds should remain depressed.
 
-Key catalysts to monitor: the quarterly CPC inflation reports (released mid-month), monthly NFP data, and Fed speaker commentary beginning in Q4 2025. If the Fed cuts rates to 3-3.5% by early 2026 and inflation stabilizes near 2.2-2.5%, this market's 16% probability will likely hold or decline further. Any CPI surprise above 3.5% in late 2025 or early 2026, or unexpected labor market strength, would be the primary path for probability expansion. The September 2026 FOMC meeting itself (scheduled for mid-September) sits just ahead of the election cycle, which could add political pressure to maintain accommodative policy regardless of data.
+Key catalysts include the December 2024 and March 2025 FOMC decisions (which signal the hiking trajectory's end), monthly CPI releases (expected mid-month, every month), monthly NFP reports (first Friday of each month), and quarterly PCE core inflation data. Watch the July 2026 FOMC meeting as the immediate predecessor to September—if the Fed hasn't cut by then despite low unemployment, rate hike risk rises. Traders should monitor the Fed's forward guidance language starting in Q1 2025; explicit commitments to data-dependent policy or rate-cut signals will reinforce the bear case, while hawkish surprises could swing probability toward 25-30% range.
 
 ## Related Markets
 
 - [Will the Fed decrease interest rates by 50+ bps after the June 2026 meeting?](/odds/will-the-fed-decrease-interest-rates-by-50-bps-after-the-june-2026-meeting) — 1% YES
-- [Fed rate cut by September 2026 meeting?](/odds/fed-rate-cut-by-september-2026-meeting) — 16% YES
+- [Fed rate cut by September 2026 meeting?](/odds/fed-rate-cut-by-september-2026-meeting) — 15% YES
 
 ## Frequently Asked Questions
 
-### Why is this probability so low when the Fed might need to hike if inflation resurges?
+### What would cause this market to spike above 40% probability before September 2026?
 
-Traders are pricing in either successful disinflation by 2026 or a weak-enough labor market that hiking becomes politically untenable; the historical bar for hiking into a soft landing is very high, and the burden of proof for re-acceleration is on the bulls.
+A sudden inflation resurgence (CPI >3.5% core year-over-year in mid-2026), a labor market that remains tight despite Fed expectations for cooling, or Fed guidance shifts signaling they've abandoned the cutting cycle and plan to re-tighten.
 
-### What single data release would most likely push this probability materially higher?
+### How much does the current market underweight the possibility of a "policy error" by the Fed?
 
-A PCE print above 4% sustained for 2+ consecutive months in the first half of 2026, combined with unemployment below 4%, would be the clearest signal that rate hikes could be back on the table by September.
+The 19% odds assume the Fed executes a near-flawless soft landing; if unemployment rises sharply in 2025-2026 and then inflation reaccelerates (a classic policy error scenario), the September hike probability could double or triple as the Fed scrambles to contain damage.
 
 ## Learn More
 

@@ -1,17 +1,16 @@
 ---
 title: "Les Wexner charged by June 30?"
-description: "Les Wexner charged by June 30? Odds: 5.7% YES on Polymarket. See live prices and trade this market."
+description: "Les Wexner charged by June 30? Odds: 7.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Les Wexner charged by June 30?"
 category: "politics"
-status: "settled"
-lastUpdated: 2026-05-19
+status: "active"
+lastUpdated: 2026-05-24
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
-polymarketYes: 5.7
-polymarketNo: 94.3
-polymarketVolume: 9688
+polymarketYes: 7.0
+polymarketNo: 93.0
+polymarketVolume: 9759
 polymarketUrl: "https://polymarket.com/event/les-wexner-charged-by-june-30"
-analysisDate: 2026-05-18
 ---
 
 # Les Wexner Charged by June 30, 2026: Market Analysis

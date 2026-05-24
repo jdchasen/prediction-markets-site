@@ -11,7 +11,6 @@ polymarketYes: 0.1
 polymarketNo: 100.0
 polymarketVolume: 98727
 polymarketUrl: "https://polymarket.com/event/will-microsoft-be-the-second-largest-company-in-the-world-by-market-cap-on-may-31"
-analysisDate: 2026-05-24
 ---
 
 The market pricing Microsoft at just 0.1% probability to be the world's second-largest company by May 31, 2026, reflects extreme skepticism that the tech giant can overtake Apple for that position, which would require either massive Microsoft appreciation or significant Apple deterioration. Microsoft currently trades around $3 trillion in market cap, closely competing with Apple and Nvidia for the top spots, making the market's dismissal of this outcome surprisingly definitive given the narrow gaps between these companies.

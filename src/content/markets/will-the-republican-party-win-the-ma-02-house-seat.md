@@ -11,7 +11,6 @@ polymarketYes: 6.5
 polymarketNo: 93.5
 polymarketVolume: 9771
 polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-ma-02-house-seat"
-analysisDate: 2026-05-24
 ---
 
 # MA-02 Republican Bid: A 6.5% Long Shot in Democratic Territory

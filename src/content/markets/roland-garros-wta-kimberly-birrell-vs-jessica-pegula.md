@@ -3,7 +3,7 @@ title: "Roland Garros WTA: Kimberly Birrell vs Jessica Pegula"
 description: "Roland Garros WTA: Kimberly Birrell vs Jessica Pegula Odds: 4.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Roland Garros WTA: Kimberly Birrell vs Jessica Pegula"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-24
 expiryDate: 2026-05-31
 tags: ["politics", "polymarket"]

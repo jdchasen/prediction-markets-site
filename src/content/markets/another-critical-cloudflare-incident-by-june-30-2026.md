@@ -1,17 +1,16 @@
 ---
 title: "Another critical Cloudflare incident by June 30, 2026?"
-description: "Another critical Cloudflare incident by June 30, 2026? Odds: 30.0% YES on Polymarket. See live prices and trade this market."
+description: "Another critical Cloudflare incident by June 30, 2026? Odds: 31.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Another critical Cloudflare incident by June 30, 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-05-24
 expiryDate: 2026-09-30
 tags: ["politics", "polymarket"]
-polymarketYes: 30.0
-polymarketNo: 70.0
-polymarketVolume: 9943
+polymarketYes: 31.5
+polymarketNo: 68.5
+polymarketVolume: 9988
 polymarketUrl: "https://polymarket.com/event/another-critical-cloudflare-incident-by-june-30-2026-966"
-analysisDate: 2026-05-24
 ---
 
 # Cloudflare Incident Prediction Market Analysis

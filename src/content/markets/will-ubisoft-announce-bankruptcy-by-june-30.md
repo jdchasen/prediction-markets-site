@@ -11,7 +11,6 @@ polymarketYes: 1.7
 polymarketNo: 98.3
 polymarketVolume: 9893
 polymarketUrl: "https://polymarket.com/event/will-ubisoft-announce-bankruptcy-by-june-30"
-analysisDate: 2026-05-24
 ---
 
 # Ubisoft Bankruptcy Analysis

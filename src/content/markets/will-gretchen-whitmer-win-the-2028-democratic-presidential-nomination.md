@@ -9,9 +9,8 @@ expiryDate: 2028-11-07
 tags: ["politics", "polymarket"]
 polymarketYes: 1.2
 polymarketNo: 98.8
-polymarketVolume: 9737743
+polymarketVolume: 9777463
 polymarketUrl: "https://polymarket.com/event/will-gretchen-whitmer-win-the-2028-democratic-presidential-nomination-676"
-analysisDate: 2026-05-24
 ---
 
 Gretchen Whitmer currently sits at the extreme long-shot end of the 2028 Democratic nomination betting, priced under 2% despite being a two-term governor of a critical swing state, reflecting market skepticism about her national profile and the strength of alternative candidates.

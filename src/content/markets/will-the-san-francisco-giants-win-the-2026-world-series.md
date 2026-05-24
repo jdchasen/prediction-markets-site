@@ -9,9 +9,8 @@ expiryDate: 2026-10-31
 tags: ["politics", "polymarket"]
 polymarketYes: 0.5
 polymarketNo: 99.5
-polymarketVolume: 980248
+polymarketVolume: 982086
 polymarketUrl: "https://polymarket.com/event/will-the-san-francisco-giants-win-the-2026-world-series"
-analysisDate: 2026-05-24
 ---
 
 The San Francisco Giants are given virtually no chance of winning the 2026 World Series at half a percent odds, reflecting their current rebuild phase and distance from contention in a competitive National League West. This market matters because it captures early assessments of franchise trajectory before major offseason moves and the 2025 season results that will shape 2026 expectations.

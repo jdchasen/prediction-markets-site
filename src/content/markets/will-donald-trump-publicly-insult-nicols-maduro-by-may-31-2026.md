@@ -3,7 +3,7 @@ title: "Will Donald Trump publicly insult Nicolás Maduro by May 31, 2026?"
 description: "Will Donald Trump publicly insult Nicolás Maduro by May 31, 2026? Odds: 96.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Donald Trump publicly insult Nicolás Maduro by May 31, 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-24
 expiryDate: 2026-05-31
 tags: ["politics", "polymarket", "trump"]

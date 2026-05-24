@@ -11,7 +11,6 @@ polymarketYes: 7.8
 polymarketNo: 92.2
 polymarketVolume: 9906
 polymarketUrl: "https://polymarket.com/event/lee-jae-myung-impeached-before-2027"
-analysisDate: 2026-05-24
 ---
 
 The market pricing impeachment of South Korea's opposition leader Lee Jae-myung at less than 8% reflects his current position as Democratic Party chief and leading contender for the 2027 presidential election, making his removal a low-probability but high-impact political scenario. The next presidential election scheduled for March 2027 serves as the natural endpoint for this market, as impeachment would only apply if Lee becomes president before then, which would require either winning the election or assuming office early through extraordinary circumstances.

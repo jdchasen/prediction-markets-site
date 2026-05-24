@@ -1,17 +1,16 @@
 ---
 title: "Will Phantom launch a token by June 30, 2026?"
-description: "Will Phantom launch a token by June 30, 2026? Odds: 2.1% YES on Polymarket. See live prices and trade this market."
+description: "Will Phantom launch a token by June 30, 2026? Odds: 1.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Phantom launch a token by June 30, 2026?"
 category: "crypto"
 status: "active"
 lastUpdated: 2026-05-24
 expiryDate: 2027-01-01
 tags: ["crypto", "polymarket"]
-polymarketYes: 2.1
-polymarketNo: 97.9
+polymarketYes: 1.8
+polymarketNo: 98.2
 polymarketVolume: 9898
 polymarketUrl: "https://polymarket.com/event/will-phantom-launch-a-token-by-june-30-2026"
-analysisDate: 2026-05-24
 ---
 
 # Phantom Token Launch Analysis

@@ -9,9 +9,8 @@ expiryDate: 2026-06-01
 tags: ["politics", "polymarket"]
 polymarketYes: 0.1
 polymarketNo: 99.9
-polymarketVolume: 98988
+polymarketVolume: 99397
 polymarketUrl: "https://polymarket.com/event/will-hyperliquid-dip-to-24-in-may"
-analysisDate: 2026-05-24
 ---
 
 This market is trading at near-zero probability that Hyperliquid, a cryptocurrency token, will fall to $24 during May 2025, though the June 2026 expiry date appears mismatched with the question timeframe, creating potential resolution ambiguity that traders should clarify before participating.

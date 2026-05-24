@@ -3,7 +3,7 @@ title: "Will Ukraine re-enter Myrnohrad by May 31?"
 description: "Will Ukraine re-enter Myrnohrad by May 31? Odds: 4.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Ukraine re-enter Myrnohrad by May 31?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-24
 expiryDate: 2026-05-31
 tags: ["ai", "politics", "polymarket"]

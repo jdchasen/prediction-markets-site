@@ -11,7 +11,6 @@ polymarketYes: 7.0
 polymarketNo: 93.0
 polymarketVolume: 9743
 polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-md-06-house-seat"
-analysisDate: 2026-05-24
 ---
 
 # Maryland's 6th District Republican Gamble: Why 7% Odds Reflect Deep Democratic Structural Advantage

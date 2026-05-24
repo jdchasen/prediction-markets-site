@@ -3,7 +3,7 @@ title: "Will Brazil win on 2026-06-13?"
 description: "Will Brazil win on 2026-06-13? Odds: 61.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Brazil win on 2026-06-13?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-24
 expiryDate: 2026-06-13
 tags: ["politics", "polymarket"]
