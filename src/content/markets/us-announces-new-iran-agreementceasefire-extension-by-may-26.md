@@ -3,8 +3,8 @@ title: "US announces new Iran agreement/ceasefire extension by May 26?"
 description: "US announces new Iran agreement/ceasefire extension by May 26? Odds: 83.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "US announces new Iran agreement/ceasefire extension by May 26?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-23
+status: "settled"
+lastUpdated: 2026-05-24
 tags: ["politics", "polymarket"]
 polymarketYes: 83.0
 polymarketNo: 17.0

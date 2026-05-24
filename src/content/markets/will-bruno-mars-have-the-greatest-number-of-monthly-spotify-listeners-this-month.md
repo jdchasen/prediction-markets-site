@@ -3,8 +3,8 @@ title: "Will Bruno Mars have the greatest number of monthly Spotify listeners th
 description: "Will Bruno Mars have the greatest number of monthly Spotify listeners this month? Odds: 89.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Bruno Mars have the greatest number of monthly Spotify listeners this month?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-23
+status: "settled"
+lastUpdated: 2026-05-24
 tags: ["politics", "polymarket"]
 polymarketYes: 89.0
 polymarketNo: 11.0

@@ -1,17 +1,16 @@
 ---
 title: "Will a new Gemini flagship be released by May 31, 2026?"
-description: "Will a new Gemini flagship be released by May 31, 2026? Odds: 1.7% YES on Polymarket. See live prices and trade this market."
+description: "Will a new Gemini flagship be released by May 31, 2026? Odds: 1.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will a new Gemini flagship be released by May 31, 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-23
+lastUpdated: 2026-05-24
 expiryDate: 2026-05-31
 tags: ["politics", "polymarket"]
-polymarketYes: 1.7
-polymarketNo: 98.4
-polymarketVolume: 98827
+polymarketYes: 1.5
+polymarketNo: 98.6
+polymarketVolume: 99343
 polymarketUrl: "https://polymarket.com/event/will-a-new-gemini-flagship-be-released-by-may-31-2026-623-692-974"
-analysisDate: 2026-05-23
 ---
 
 This market shows extreme skepticism that Google will launch a new flagship Gemini model by late May 2026, with traders assigning less than 2% probability to the outcome—though categorizing this as "politics" appears to be a platform error given this is clearly a technology product question.

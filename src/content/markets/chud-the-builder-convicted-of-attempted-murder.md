@@ -3,8 +3,8 @@ title: "Chud the Builder convicted of attempted murder?"
 description: "Chud the Builder convicted of attempted murder? Odds: 14.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Chud the Builder convicted of attempted murder?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-23
+status: "settled"
+lastUpdated: 2026-05-24
 expiryDate: 2027-07-31
 tags: ["politics", "polymarket"]
 polymarketYes: 14.5

@@ -3,8 +3,8 @@ title: "Roland Garros ATP: Ugo Humbert vs Adrian Mannarino"
 description: "Roland Garros ATP: Ugo Humbert vs Adrian Mannarino Odds: 85.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Roland Garros ATP: Ugo Humbert vs Adrian Mannarino"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-23
+status: "settled"
+lastUpdated: 2026-05-24
 expiryDate: 2026-05-31
 tags: ["politics", "polymarket"]
 polymarketYes: 85.5

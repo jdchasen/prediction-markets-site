@@ -3,8 +3,8 @@ title: "Will \"Backrooms\" Opening Weekend Box Office be greater than 35m?"
 description: "Will \"Backrooms\" Opening Weekend Box Office be greater than 35m? Odds: 93.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will \"Backrooms\" Opening Weekend Box Office be greater than 35m?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-23
+status: "settled"
+lastUpdated: 2026-05-24
 expiryDate: 2026-06-01
 tags: ["politics", "polymarket"]
 polymarketYes: 93.5

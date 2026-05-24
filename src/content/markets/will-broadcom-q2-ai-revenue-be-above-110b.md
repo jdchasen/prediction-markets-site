@@ -3,8 +3,8 @@ title: "Will Broadcom Q2 AI revenue be above $11.0B?"
 description: "Will Broadcom Q2 AI revenue be above $11.0B? Odds: 49.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Broadcom Q2 AI revenue be above $11.0B?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-23
+status: "settled"
+lastUpdated: 2026-05-24
 expiryDate: 2026-06-03
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 49.5

@@ -3,8 +3,8 @@ title: "KBO: Lotte Giants vs. Hanwha Eagles"
 description: "KBO: Lotte Giants vs. Hanwha Eagles Odds: 51.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "KBO: Lotte Giants vs. Hanwha Eagles"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-23
+status: "settled"
+lastUpdated: 2026-05-24
 expiryDate: 2026-05-27
 tags: ["politics", "polymarket"]
 polymarketYes: 51.5

@@ -4,16 +4,17 @@ description: "Will Saeed Jalili be head of state in Iran end of 2026? Odds: 0.2%
 marketQuestion: "Will Saeed Jalili be head of state in Iran end of 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-23
+lastUpdated: 2026-05-24
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 0.2
 polymarketNo: 99.8
-polymarketVolume: 98517
+polymarketVolume: 98577
 polymarketUrl: "https://polymarket.com/event/will-saeed-jalili-be-head-of-state-in-iran-end-of-2026"
+analysisDate: 2026-05-24
 ---
 
-This market shows virtually no confidence that hardline conservative Saeed Jalili will become Iran's head of state by end of 2026, reflecting the fact that Supreme Leader Ayatollah Ali Khamenei, now 85, remains firmly in control with no imminent succession mechanism favoring Jalili specifically.
+The market assigns near-zero probability to Saeed Jalili becoming Iran's head of state by end of 2026, reflecting both his failed 2024 presidential bid and the entrenched position of Supreme Leader Ali Khamenei, who at 85 holds the true executive authority in Iran's theocratic system.
 
 ## Current Odds
 
@@ -23,31 +24,31 @@ This market shows virtually no confidence that hardline conservative Saeed Jalil
 
 ## Market Analysis
 
-The bear case is straightforward: Khamenei retains ultimate authority as Supreme Leader, and even if health issues force a transition, Iran's Assembly of Experts—an 88-member clerical body—would select his successor through an opaque process where Jalili faces competition from other establishment figures like President Masoud Pezeshkian and former nuclear negotiator Ali Larijani. Jalili, who lost the 2024 presidential election decisively in the runoff (securing only 44.3% against Pezeshkian's 53.7%), demonstrated limited popular appeal and lacks the revolutionary credentials or clerical standing typically associated with Supreme Leader candidates. His hardline stance on nuclear negotiations and Western relations, while appealing to the Revolutionary Guard base, makes him a polarizing rather than consensus figure within the regime's power structure.
+The bull case for Jalili hinges on two unlikely scenarios: either Khamenei's death or incapacitation leading to Assembly of Experts selecting Jalili as the next Supreme Leader, or a constitutional upheaval that elevates the presidency beyond its current subordinate role. Jalili, a hardline conservative who lost the July 2024 presidential runoff to Masoud Pezeshkian with 44.3% of the vote, maintains strong support among revolutionary institutions and the Islamic Revolutionary Guard Corps. His theological credentials and unwavering ideological stance make him a plausible successor in the eyes of hardline clerics who dominate the 88-member Assembly of Experts. The bear case is overwhelming: Khamenei has shown no signs of stepping down voluntarily, and Iran's system is designed specifically to prevent elected officials from holding supreme authority. The Assembly of Experts typically selects elderly clerics with deep religious scholarship for the Supreme Leader position, and while Jalili has seminary training, he lacks the senior clerical rank (marja) that recent leaders have possessed. Additionally, Pezeshkian's presidency runs through 2028, blocking any near-term presidential path.
 
-The bull case requires multiple low-probability events aligning: Khamenei's death or incapacitation within the next two years, followed by the Assembly of Experts rejecting more established candidates in favor of Jalili's uncompromising ideological stance. Alternatively, if Pezeshkian's presidency fails dramatically—whether through economic collapse, social unrest, or foreign policy crises—hardliners could engineer a scenario where Jalili assumes power through constitutional mechanisms, though Iran's system doesn't provide clear pathways for such transitions. His close ties to the Islamic Revolutionary Guard Corps give him institutional backing that could matter in a succession crisis.
+Key catalysts to monitor include Khamenei's health status, as any serious illness would trigger immediate succession speculation. The Assembly of Experts holds regular sessions every six months, with the next significant meetings in early 2025 and throughout 2026 providing potential flashpoints for leadership discussions. Iran's parliamentary elections in March 2025 could shift political dynamics if reformists gain ground, though hardline vetting by the Guardian Council typically prevents this. Watch for Jalili's activities within conservative power structures—appointments to security councils or increased visibility at IRGC events would signal elite positioning for future leadership.
 
-Key catalysts include any health developments regarding Khamenei (the Assembly of Experts meets biannually, with sessions typically in March and September), the trajectory of Iran-US relations following potential nuclear deal negotiations in 2025, and domestic stability indicators like protest movements or economic sanctions impact. The Assembly of Experts election scheduled for 2024 has already concluded, setting the membership composition that would choose any new Supreme Leader. Traders should monitor Khamenei's public appearances, statements from IRGC leadership about political succession, and whether Jalili receives appointments to key positions that would signal regime grooming for higher office.
+The broader geopolitical context matters significantly. Escalating tensions with Israel, sanctions pressure, and domestic unrest over economic conditions and social restrictions create volatility that could theoretically accelerate leadership transitions. However, Iran's system has proven remarkably stable through decades of external pressure, and sudden changes remain historically rare outside of the 1979 revolution itself.
 
 ## Related Markets
 
-- [Will Marco Rubio win the 2028 US Presidential Election?](/odds/will-marco-rubio-win-the-2028-us-presidential-election) — 14% YES
-- [Over $3M committed to the Printr public sale?](/odds/over-3m-committed-to-the-printr-public-sale) — 1% YES
-- [US x Iran permanent peace deal by July 31, 2026?](/odds/us-x-iran-permanent-peace-deal-by-july-31-2026) — 48% YES
+- [Will Marco Rubio win the 2028 US Presidential Election?](/odds/will-marco-rubio-win-the-2028-us-presidential-election) — 13% YES
+- [Will Gretchen Whitmer win the 2028 Democratic presidential nomination?](/odds/will-gretchen-whitmer-win-the-2028-democratic-presidential-nomination) — 1% YES
+- [Will Alireza Arafi be head of state in Iran end of 2026?](/odds/will-alireza-arafi-be-head-of-state-in-iran-end-of-2026) — 2% YES
 
 ## Frequently Asked Questions
 
-### What is Saeed Jalili's current political position and influence in Iran's government?
+### Does the Iranian president count as "head of state" for this market's resolution?
 
-Jalili currently holds no formal government position after losing the July 2024 presidential election. He remains influential within hardline conservative circles and maintains close relationships with the IRGC, but operates outside the direct power structure headed by President Pezeshkian.
+While the president is nominally head of government, Iran's Supreme Leader is the constitutional head of state with vastly greater authority over military, foreign policy, and judicial appointments. Market resolution likely requires Jalili to hold the Supreme Leader position, not just the presidency.
 
-### Could Jalili become president before becoming Supreme Leader, and would that count for this market?
+### What would need to happen for Jalili to become Supreme Leader by late 2026?
 
-The market specifically asks about "head of state," which in Iran refers to the Supreme Leader, not the president—the president is head of government with limited powers. Jalili becoming president again would not resolve this market as YES.
+Khamenei would need to die or become incapacitated, then the Assembly of Experts would need to select Jalili over more senior clerics—a significant departure from past succession patterns that favored older religious scholars over younger political figures.
 
-### How does Iran's Assembly of Experts succession process work, and what are Jalili's chances within it?
+### Why did Jalili lose the 2024 presidential election if he has strong institutional backing?
 
-The 88-member Assembly of Experts, composed entirely of clerics, meets in closed sessions to select the Supreme Leader, with decisions based on religious credentials, political consensus, and revolutionary standing. Jalili, as a non-cleric with a controversial political record, faces significant disadvantages compared to senior ayatollahs within this selection body.
+Despite support from hardline institutions, Jalili's inflexible positions on nuclear negotiations and economic policy alienated pragmatic conservatives and moderates who backed Pezeshkian's promises of sanctions relief and social liberalization in the runoff vote.
 
 ## Learn More
 

@@ -1,17 +1,16 @@
 ---
 title: "Will the Republican Party win the SC-06 House seat?"
-description: "Will the Republican Party win the SC-06 House seat? Odds: 63.0% YES on Polymarket. See live prices and trade this market."
+description: "Will the Republican Party win the SC-06 House seat? Odds: 65.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Republican Party win the SC-06 House seat?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-23
+lastUpdated: 2026-05-24
 expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
-polymarketYes: 63.0
-polymarketNo: 37.0
+polymarketYes: 65.5
+polymarketNo: 34.5
 polymarketVolume: 9766
 polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-sc-06-house-seat"
-analysisDate: 2026-05-23
 ---
 
 # SC-06 House Seat: Republican Incumbency Advantage Priced at Two-to-One

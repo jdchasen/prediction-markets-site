@@ -4,14 +4,13 @@ description: "Will Brazil win on 2026-06-13? Odds: 61.0% YES on Polymarket. See 
 marketQuestion: "Will Brazil win on 2026-06-13?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-23
+lastUpdated: 2026-05-24
 expiryDate: 2026-06-13
 tags: ["politics", "polymarket"]
 polymarketYes: 61.0
 polymarketNo: 39.0
-polymarketVolume: 9870
+polymarketVolume: 9934
 polymarketUrl: "https://polymarket.com/event/fifwc-bra-mar-2026-06-13-bra"
-analysisDate: 2026-05-23
 ---
 
 # Brazil's 2026 Political Outcome: Market Analysis

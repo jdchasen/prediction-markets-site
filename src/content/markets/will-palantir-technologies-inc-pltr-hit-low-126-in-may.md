@@ -1,17 +1,16 @@
 ---
 title: "Will Palantir Technologies Inc. (PLTR) hit (LOW) $126 in May?"
-description: "Will Palantir Technologies Inc. (PLTR) hit (LOW) $126 in May? Odds: 23.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Palantir Technologies Inc. (PLTR) hit (LOW) $126 in May? Odds: 22.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Palantir Technologies Inc. (PLTR) hit (LOW) $126 in May?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-23
+lastUpdated: 2026-05-24
 expiryDate: 2026-06-01
 tags: ["politics", "polymarket"]
-polymarketYes: 23.5
-polymarketNo: 76.5
-polymarketVolume: 97625
+polymarketYes: 22.5
+polymarketNo: 77.5
+polymarketVolume: 97697
 polymarketUrl: "https://polymarket.com/event/will-pltr-dip-to-126-in-may-2026"
-analysisDate: 2026-05-23
 ---
 
 Palantir Technologies reaching $126 per share by May 2026 currently trades at less than a quarter probability, reflecting skepticism that the stock can more than double from current levels around $60 despite its recent momentum as an AI infrastructure play.

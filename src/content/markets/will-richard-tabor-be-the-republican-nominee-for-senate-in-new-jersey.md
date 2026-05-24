@@ -4,14 +4,13 @@ description: "Will Richard Tabor be the Republican nominee for Senate in New Jer
 marketQuestion: "Will Richard Tabor be the Republican nominee for Senate in New Jersey?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-23
+lastUpdated: 2026-05-24
 expiryDate: 2026-06-02
 tags: ["politics", "polymarket"]
 polymarketYes: 43.5
 polymarketNo: 56.5
-polymarketVolume: 9806
+polymarketVolume: 9912
 polymarketUrl: "https://polymarket.com/event/will-richard-tabor-be-the-republican-nominee-for-senate-in-new-jersey-841"
-analysisDate: 2026-05-23
 ---
 
 # Richard Tabor Republican Nomination Analysis

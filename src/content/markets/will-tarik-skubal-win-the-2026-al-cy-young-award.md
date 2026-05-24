@@ -4,50 +4,51 @@ description: "Will Tarik Skubal win the 2026 AL Cy Young Award? Odds: 0.5% YES o
 marketQuestion: "Will Tarik Skubal win the 2026 AL Cy Young Award?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-23
+lastUpdated: 2026-05-24
 expiryDate: 2026-11-12
 tags: ["politics", "polymarket"]
 polymarketYes: 0.5
 polymarketNo: 99.5
 polymarketVolume: 9921
 polymarketUrl: "https://polymarket.com/event/will-tarik-skubal-win-the-2026-al-cy-young-award"
+analysisDate: 2026-05-24
 ---
 
-This market shows minimal confidence in Tigers pitcher Tarik Skubal repeating as Cy Young winner in 2026, with sub-1% odds reflecting the historical difficulty of back-to-back awards and the long time horizon introducing substantial uncertainty.
+The market pricing Tarik Skubal at just 0.5% to win the 2026 AL Cy Young Award reflects extreme skepticism about a pitcher nearly two years before the award, though Skubal's 2024 AL Cy Young win demonstrates he has elite capability when healthy.
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.7% | 99.4% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.5% | 99.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The bull case centers on Skubal's demonstrated elite talent after dominating 2024 with a sub-2.50 ERA and leading the AL in multiple categories, proving he possesses top-tier stuff when healthy. At age 30 in 2026, he'll still be in his prime years, and the Tigers' improving roster could provide better run support and win totals that often influence voters. If Detroit emerges as a contender in 2025-2026, Skubal becomes the clear ace of a playoff team—a narrative that historically boosts Cy Young chances. His left-handed power arsenal plays well in the strikeout-focused modern game.
+The bull case centers on Skubal's proven ace credentials after dominating with a 2.39 ERA and 228 strikeouts in 2024, earning him unanimous Cy Young recognition. At age 29 during the 2026 season, he'll be in his physical prime with the Detroit Tigers likely building around him as their franchise cornerstone. If he maintains health and the Tigers improve their defense and run support, back-to-back Cy Young seasons aren't unprecedented—pitchers like Jacob deGrom and Clayton Kershaw have achieved this. The Tigers' rebuild trajectory suggests 2026 could align with competitive relevance, putting Skubal on a better team that wins more games, which historically influences voters.
 
-The bear case is substantial: only 11 pitchers have won back-to-back Cy Young awards in history, and none since Max Scherzer in 2013. Skubal's injury history, including Tommy John surgery earlier in his career, creates durability concerns over a full 162-game season. The American League features deep pitching talent with Gerrit Cole, Corbin Burnes, and emerging young arms who could easily outperform him. Two full seasons provide ample time for regression, injury, or simply another pitcher having a career year. The market is also correctly pricing in the uncertainty that Skubal might not even be Detroit's ace by 2026 due to trade or free agency movement.
+The bear case is anchored in baseball's inherent volatility and injury risk for starting pitchers. Skubal underwent Tommy John surgery in 2022, and while he returned strong, elbow surgeries carry long-term reinjury concerns. The 0.5% odds reflect that predicting any specific pitcher to win Cy Young two years out faces enormous competition—roughly 75 qualified AL starters annually, plus emergence of unknown prospects. Voter fatigue from his 2024 win could also play a role if his 2026 numbers are strong but not historically dominant. The American League features established aces like Gerrit Cole, Corbin Burnes, and young talents like Cole Ragans who could peak in 2026.
 
-Key catalysts include Skubal's 2025 season performance, which begins in late March and will significantly update these odds by mid-summer. His April-May statistics will be crucial since early-season dominance builds Cy Young momentum. The July 31, 2025 trade deadline could reshape the market if Detroit falls out of contention and trades Skubal to a different league. Watch for any injury reports during spring training 2025 and 2026, as missed time effectively eliminates candidacy. The 2025 Cy Young announcement in mid-November will also matter—if Skubal finishes top-3 again, these odds would likely rise substantially going into 2026.
+Key catalysts include Spring Training 2026 (late February) for health reports and velocity readings, and the first-half performance through the July 15, 2026 All-Star break, which typically crystallizes Cy Young frontrunners. The trade deadline (July 31, 2026) matters significantly—if Detroit is contending, Skubal stays and racks up wins; if rebuilding continues, they might trade him, changing his team context entirely. Monthly ERA and strikeout trends from April through September 2026 will dictate movement in these odds, with August-September performances weighing heavily in voter minds when ballots are cast in early November 2026.
 
 ## Related Markets
 
-- [Will Marco Rubio win the 2028 US Presidential Election?](/odds/will-marco-rubio-win-the-2028-us-presidential-election) — 14% YES
-- [Over $3M committed to the Printr public sale?](/odds/over-3m-committed-to-the-printr-public-sale) — 1% YES
-- [US x Iran permanent peace deal by July 31, 2026?](/odds/us-x-iran-permanent-peace-deal-by-july-31-2026) — 48% YES
+- [Will Marco Rubio win the 2028 US Presidential Election?](/odds/will-marco-rubio-win-the-2028-us-presidential-election) — 13% YES
+- [Will Gretchen Whitmer win the 2028 Democratic presidential nomination?](/odds/will-gretchen-whitmer-win-the-2028-democratic-presidential-nomination) — 1% YES
+- [Will Alireza Arafi be head of state in Iran end of 2026?](/odds/will-alireza-arafi-be-head-of-state-in-iran-end-of-2026) — 2% YES
 
 ## Frequently Asked Questions
 
-### Why is Skubal's price so low despite winning the 2024 AL Cy Young Award?
+### How much does Skubal's 2022 Tommy John surgery affect his 2026 outlook?
 
-Historical data shows back-to-back wins are extremely rare, and the 18-month time horizon introduces massive uncertainty from potential injuries, regression, or emergence of other elite pitchers. The market is efficiently pricing in that even excellent pitchers rarely repeat.
+While his 2024 Cy Young season proved he recovered fully, research shows pitchers are at elevated reinjury risk 3-4 years post-TJ surgery, which would place 2026 in that window. Velocity maintenance through 2025 will be the critical indicator traders should monitor.
 
-### Could Skubal being traded to the National League before 2026 affect this market?
+### Could the Tigers trading Skubal before 2026 actually help his Cy Young chances?
 
-Yes, this would automatically make the market resolve as NO since he would be ineligible for the AL Cy Young Award. Traders should monitor the 2025 trade deadline closely if Detroit underperforms.
+A trade to a contender could boost his win total and team narrative, but changing divisions mid-contract or learning new defenses presents adjustment risk. Historical Cy Young winners overwhelmingly stay with one team the entire season, making any trade a complicating factor.
 
-### What statistical benchmarks should traders watch in 2025 to gauge Skubal's 2026 chances?
+### What 2025 season statistics would need to occur for these odds to move significantly higher?
 
-ERA below 3.00, 200+ strikeouts, and 30+ starts are baseline requirements, but sustainable velocity metrics and decreased walk rates would indicate he's maintaining elite form heading into his age-30 season.
+If Skubal finishes top-3 in 2025 AL Cy Young voting with sub-2.50 ERA and 200+ strikeouts while staying healthy for 32+ starts, odds would likely rise to 3-5% as it would confirm sustained elite performance and durability between Tommy John recovery and age-30 season.
 
 ## Learn More
 

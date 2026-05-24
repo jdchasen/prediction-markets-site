@@ -1,17 +1,16 @@
 ---
 title: "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?"
-description: "Will the Fed increase interest rates by 25 bps after the September 2026 meeting? Odds: 16.0% YES on Polymarket. See live prices and trade this market."
+description: "Will the Fed increase interest rates by 25 bps after the September 2026 meeting? Odds: 16.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?"
 category: "economics"
 status: "active"
-lastUpdated: 2026-05-23
+lastUpdated: 2026-05-24
 expiryDate: 2026-09-16
 tags: ["economics", "federal-reserve", "interest-rates", "polymarket"]
-polymarketYes: 16.0
-polymarketNo: 84.0
-polymarketVolume: 9511
+polymarketYes: 16.5
+polymarketNo: 83.5
+polymarketVolume: 9635
 polymarketUrl: "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649"
-analysisDate: 2026-05-23
 ---
 
 # Fed Rate Hike Probability in September 2026

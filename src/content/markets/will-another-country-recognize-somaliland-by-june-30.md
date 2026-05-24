@@ -1,17 +1,16 @@
 ---
 title: "Will another country recognize Somaliland by June 30?"
-description: "Will another country recognize Somaliland by June 30? Odds: 21.0% YES on Polymarket. See live prices and trade this market."
+description: "Will another country recognize Somaliland by June 30? Odds: 22.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will another country recognize Somaliland by June 30?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-23
+lastUpdated: 2026-05-24
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
-polymarketYes: 21.0
-polymarketNo: 79.0
-polymarketVolume: 9793
+polymarketYes: 22.0
+polymarketNo: 78.0
+polymarketVolume: 9995
 polymarketUrl: "https://polymarket.com/event/will-another-country-recognize-somaliland-by-june-30"
-analysisDate: 2026-05-23
 ---
 
 # Somaliland Recognition Market Analysis
