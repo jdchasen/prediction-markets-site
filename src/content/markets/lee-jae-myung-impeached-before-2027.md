@@ -11,7 +11,6 @@ polymarketYes: 7.7
 polymarketNo: 92.3
 polymarketVolume: 9906
 polymarketUrl: "https://polymarket.com/event/lee-jae-myung-impeached-before-2027"
-analysisDate: 2026-05-25
 ---
 
 # Lee Jae-myung Impeachment Market Analysis

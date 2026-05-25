@@ -3,7 +3,7 @@ title: "Will Trump announce Elise Stefanik as the next Director of National Inte
 description: "Will Trump announce Elise Stefanik as the next Director of National Intelligence? Odds: 13.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Trump announce Elise Stefanik as the next Director of National Intelligence?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-25
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket", "trump"]

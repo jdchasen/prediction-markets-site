@@ -9,9 +9,8 @@ expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 0.2
 polymarketNo: 99.8
-polymarketVolume: 98710
+polymarketVolume: 98883
 polymarketUrl: "https://polymarket.com/event/will-saeed-jalili-be-head-of-state-in-iran-end-of-2026"
-analysisDate: 2026-05-25
 ---
 
 The prediction market gives Saeed Jalili virtually no chance of leading Iran by the end of 2026, reflecting the political reality that Supreme Leader Ali Khamenei, age 85, maintains ultimate authority and any succession would likely favor more established religious figures within Iran's complex power structure. This market matters as a barometer for regime stability and potential transition scenarios in a crucial Middle Eastern power.

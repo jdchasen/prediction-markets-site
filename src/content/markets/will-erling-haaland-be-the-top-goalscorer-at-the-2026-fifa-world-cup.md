@@ -3,7 +3,7 @@ title: "Will Erling Haaland be the top goalscorer at the 2026 FIFA World Cup?"
 description: "Will Erling Haaland be the top goalscorer at the 2026 FIFA World Cup? Odds: 6.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Erling Haaland be the top goalscorer at the 2026 FIFA World Cup?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-25
 expiryDate: 2026-07-20
 tags: ["polymarket", "sports"]

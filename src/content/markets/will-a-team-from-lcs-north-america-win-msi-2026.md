@@ -1,17 +1,16 @@
 ---
 title: "Will a team from LCS (North America) win MSI 2026?"
-description: "Will a team from LCS (North America) win MSI 2026? Odds: 0.2% YES on Polymarket. See live prices and trade this market."
+description: "Will a team from LCS (North America) win MSI 2026? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will a team from LCS (North America) win MSI 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-05-25
 expiryDate: 2026-07-12
 tags: ["politics", "polymarket"]
-polymarketYes: 0.2
-polymarketNo: 99.8
+polymarketYes: 0.1
+polymarketNo: 99.9
 polymarketVolume: 9905
 polymarketUrl: "https://polymarket.com/event/will-a-team-from-lcs-north-america-win-msi-2026"
-analysisDate: 2026-05-25
 ---
 
 # MSI 2026 LCS Championship Prediction Market Analysis

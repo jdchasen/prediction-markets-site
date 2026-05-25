@@ -11,7 +11,6 @@ polymarketYes: 0.1
 polymarketNo: 100.0
 polymarketVolume: 98727
 polymarketUrl: "https://polymarket.com/event/will-microsoft-be-the-second-largest-company-in-the-world-by-market-cap-on-may-31"
-analysisDate: 2026-05-25
 ---
 
 The market assigns virtually no probability to Microsoft holding the second-largest market cap position by May 2025, reflecting the extreme difficulty of displacing current holder Apple while fending off other mega-cap competitors in what remains a highly stable top-tier ranking.

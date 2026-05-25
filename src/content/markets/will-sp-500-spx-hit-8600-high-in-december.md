@@ -1,17 +1,16 @@
 ---
 title: "Will S&P 500 (SPX) hit $8,600 (HIGH) in December?"
-description: "Will S&P 500 (SPX) hit $8,600 (HIGH) in December? Odds: 16.0% YES on Polymarket. See live prices and trade this market."
+description: "Will S&P 500 (SPX) hit $8,600 (HIGH) in December? Odds: 18.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will S&P 500 (SPX) hit $8,600 (HIGH) in December?"
 category: "finance"
 status: "active"
 lastUpdated: 2026-05-25
 expiryDate: 2026-12-31
 tags: ["finance", "polymarket", "stocks"]
-polymarketYes: 16.0
-polymarketNo: 84.0
-polymarketVolume: 9905
+polymarketYes: 18.0
+polymarketNo: 82.0
+polymarketVolume: 9931
 polymarketUrl: "https://polymarket.com/event/spx-hit-8600-high-dec-2026"
-analysisDate: 2026-05-25
 ---
 
 # S&P 500 $8,600 Target Analysis

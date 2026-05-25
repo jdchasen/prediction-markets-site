@@ -1,17 +1,16 @@
 ---
 title: "Will the Democratic Party win the PA-16 House seat?"
-description: "Will the Democratic Party win the PA-16 House seat? Odds: 18.5% YES on Polymarket. See live prices and trade this market."
+description: "Will the Democratic Party win the PA-16 House seat? Odds: 17.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Democratic Party win the PA-16 House seat?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-05-25
 expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
-polymarketYes: 18.5
-polymarketNo: 81.5
+polymarketYes: 17.5
+polymarketNo: 82.5
 polymarketVolume: 9892
 polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-pa-16-house-seat"
-analysisDate: 2026-05-25
 ---
 
 # PA-16 Democratic Victory: A Long-Shot Bet in Republican Territory

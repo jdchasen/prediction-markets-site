@@ -3,7 +3,7 @@ title: "Russia x Ukraine diplomatic meeting by May 31, 2026?"
 description: "Russia x Ukraine diplomatic meeting by May 31, 2026? Odds: 0.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Russia x Ukraine diplomatic meeting by May 31, 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-25
 expiryDate: 2026-12-31
 tags: ["ai", "politics", "polymarket"]

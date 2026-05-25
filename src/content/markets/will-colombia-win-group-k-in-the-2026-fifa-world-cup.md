@@ -3,7 +3,7 @@ title: "Will Colombia win Group K in the 2026 FIFA World Cup?"
 description: "Will Colombia win Group K in the 2026 FIFA World Cup? Odds: 28.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Colombia win Group K in the 2026 FIFA World Cup?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-25
 expiryDate: 2026-06-27
 tags: ["polymarket", "sports"]

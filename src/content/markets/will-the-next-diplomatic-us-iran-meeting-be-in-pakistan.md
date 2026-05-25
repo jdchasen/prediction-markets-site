@@ -3,7 +3,7 @@ title: "Will the next diplomatic US-Iran meeting be in Pakistan?"
 description: "Will the next diplomatic US-Iran meeting be in Pakistan? Odds: 59.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the next diplomatic US-Iran meeting be in Pakistan?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-25
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]

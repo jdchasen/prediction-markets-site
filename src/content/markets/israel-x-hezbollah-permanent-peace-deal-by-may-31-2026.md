@@ -3,7 +3,7 @@ title: "Israel x Hezbollah permanent peace deal by May 31, 2026?"
 description: "Israel x Hezbollah permanent peace deal by May 31, 2026? Odds: 11.3% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Israel x Hezbollah permanent peace deal by May 31, 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-25
 expiryDate: 2026-05-31
 tags: ["politics", "polymarket"]

@@ -3,7 +3,7 @@ title: "Will S&P 500 (SPY) hit (LOW) $730 in May?"
 description: "Will S&P 500 (SPY) hit (LOW) $730 in May? Odds: 15.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will S&P 500 (SPY) hit (LOW) $730 in May?"
 category: "finance"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-25
 expiryDate: 2026-06-01
 tags: ["finance", "polymarket", "stocks"]

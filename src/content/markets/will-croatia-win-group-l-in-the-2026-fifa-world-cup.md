@@ -9,9 +9,8 @@ expiryDate: 2026-06-27
 tags: ["polymarket", "sports"]
 polymarketYes: 20.0
 polymarketNo: 80.0
-polymarketVolume: 9825
+polymarketVolume: 9888
 polymarketUrl: "https://polymarket.com/event/will-croatia-win-group-l-in-the-2026-fifa-world-cup"
-analysisDate: 2026-05-25
 ---
 
 # Croatia Group L 2026 World Cup Analysis

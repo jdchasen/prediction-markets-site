@@ -9,9 +9,8 @@ expiryDate: 2026-06-17
 tags: ["economics", "federal-reserve", "interest-rates", "polymarket"]
 polymarketYes: 0.2
 polymarketNo: 99.8
-polymarketVolume: 9404735
+polymarketVolume: 9482947
 polymarketUrl: "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-50-bps-after-the-june-2026-meeting"
-analysisDate: 2026-05-25
 ---
 
 The market assigns virtually no probability to a dramatic 50+ basis point rate hike following the June 2026 FOMC meeting, reflecting expectations that the Fed will have long completed its current tightening cycle and potentially moved into easing territory by mid-2026.

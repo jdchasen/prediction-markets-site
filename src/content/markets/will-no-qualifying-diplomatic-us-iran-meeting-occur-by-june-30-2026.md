@@ -3,7 +3,7 @@ title: "Will no qualifying diplomatic US-Iran meeting occur by June 30, 2026?"
 description: "Will no qualifying diplomatic US-Iran meeting occur by June 30, 2026? Odds: 21.6% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will no qualifying diplomatic US-Iran meeting occur by June 30, 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-25
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]

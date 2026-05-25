@@ -1,56 +1,52 @@
 ---
 title: "Will Abelardo de la Espriella & Paloma Valencia advance to the second round of the 2026 Colombian presidential election?"
-description: "Will Abelardo de la Espriella & Paloma Valencia advance to the second round of the 2026 Colombian presidential election? Odds: 0.2% YES on Polymarket. See li..."
+description: "Will Abelardo de la Espriella & Paloma Valencia advance to the second round of the 2026 Colombian presidential election? Odds: 0.1% YES on Polymarket. See li..."
 marketQuestion: "Will Abelardo de la Espriella & Paloma Valencia advance to the second round of the 2026 Colombian presidential election?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-05-25
 expiryDate: 2026-05-31
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 0.2
-polymarketNo: 99.8
-polymarketVolume: 9745
+polymarketYes: 0.1
+polymarketNo: 100.0
+polymarketVolume: 9843
 polymarketUrl: "https://polymarket.com/event/will-abelardo-de-la-espriella-paloma-valencia-advance-to-the-second-round-of-the-2026-colombian-presidential-election"
 analysisDate: 2026-05-25
 ---
 
-# Colombian Presidential Election 2026: De la Espriella & Valencia's Slim Runoff Chances
+# Colombian Presidential Runoff: De la Espriella & Valencia's Long-Shot Odds
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.2% | 99.8% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.1% | 100.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-This market is pricing in an extremely unlikely scenario where two opposition figures from Colombia's right-wing Democratic Center party both survive the presidential primary system to reach the general election runoff, reflecting structural barriers that make this outcome nearly impossible under current political conditions. The near-zero probability matters because it signals either extreme confidence from traders that one or both will be eliminated earlier, or a fundamental misunderstanding of Colombian electoral mechanics by the market.
+The market is pricing de la Espriella and Valencia's joint advance to Colombia's 2026 presidential runoff at near-zero probability, reflecting the structural barriers these candidates face in both the primary and general election phases. This matters because it signals whether prediction markets see a realistic path for this particular political pairing in what could be a fragmented race, and serves as a benchmark for understanding which coalition-building strategies traders believe are viable in Colombia's polarized environment.
 
-The bull case rests on the possibility that both candidates could avoid a divisive primary altogether. If the Democratic Center's internal power dynamics fracture—particularly if current front-runners like former president Álvaro Uribe's preferred candidate falters—De la Espriella and Valencia could consolidate enough regional support and name recognition to bypass earlier elimination rounds. Valencia, a former senator and vice-presidential candidate, maintains a political base in her home region, while De la Espriella has name recognition from his diplomatic roles. A fractured left-wing ruling coalition could theoretically create space for multiple right-wing candidates to advance, though this requires significant realignment before the formal campaign begins in late 2025.
+The bull case rests on Colombia's recent political volatility and the possibility of a fragmented primary splitting the center-right vote. If the ruling Petro administration becomes deeply unpopular due to economic deterioration or policy failures—inflation remains elevated above 4% as of late 2024, and unemployment pressures could intensify into 2025—anti-establishment sentiment could fracture traditional power blocs. De la Espriella (former vice president under Duque) and Valencia (a prominent conservative senator) represent establishment continuity; if centrist and right-leaning voters coalesce around an anti-Petro ticket by the March 2026 primary deadline, they could theoretically consolidate enough support to advance. The key catalyst is the regional elections in late October 2024, which would signal whether traditional conservatives retain organizational strength or if new political forces are emerging.
 
-The bear case, which clearly dominates market pricing, rests on Colombia's presidential primary system and the Democratic Center's internal discipline. The party has historically consolidated around single candidates rather than splitting support across multiple contenders. Both candidates would need to win their party's nomination or secure enough independent backing to run as separate entities—an extremely high bar given Colombia's ballot-access requirements and the dominance of party structures. Current polls from late 2024 show the Democratic Center cohesively backing unified candidates, with no polling data showing either De la Espriella or Valencia as primary frontrunners. The March 2026 primary deadline is the critical choke point; candidates not nominated internally typically lack the organizational infrastructure to mount competitive independent campaigns.
+The bear case is substantially more compelling: Colombia's Conservative Party and Democratic Center already have established primary processes with entrenched candidates, and de la Espriella-Valencia face competition from better-funded, higher-profile alternatives like Federico Gutiérrez or potential Duque allies. Petro's coalition, despite legislative challenges, retains significant institutional advantages and a committed left-wing base that typically shows up in runoffs. Most critically, recent polling shows fragmentation benefiting Petro in head-to-head matchups because the anti-Petro vote splits across multiple candidates. Unless either de la Espriella or Valencia wins their respective primary contests outright (extremely unlikely given their shared political space), they would need to negotiate a pre-primary alliance—a high-risk, low-reward move that has historically weakened conservative candidates in Colombia by appearing calculatedly opportunistic rather than principled.
 
-Key catalysts include the Democratic Center's formal candidate selection process (expected November-December 2025), any major scandal affecting leading contenders, and published polling from January-March 2026 showing whether these two candidates have gained traction. Traders should monitor whether either figure gains ministerial positions or announces independent candidacies after being bypassed in primary selection. The current 0.2% probability essentially reflects a "nearly impossible" assessment, and material movement would require either candidate to demonstrate unexpected polling strength or the Democratic Center to splinter more severely than recent elections suggest is likely.
+Traders should monitor three specific indicators through mid-2025: primary polling trends released by major Colombian firms (Invamer, CNC, Gallup), legislative voting records on fiscal and social policies that might erode or boost anti-Petro sentiment, and any formal alliance announcements between conservative factions. The October 2024 regional elections will be the first real test of whether the traditional right can mobilize; a weak showing there would further depress these odds. The ultimate decision point arrives in early 2026 when primary rules are finalized and candidates must formally register, but the structural math suggests the market's near-zero odds reflect a genuine lack of viable pathways rather than misplaced pessimism.
 
 ## Related Markets
 
-- [Will Marco Rubio win the 2028 US Presidential Election?](/odds/will-marco-rubio-win-the-2028-us-presidential-election) — 14% YES
 - [Will Gretchen Whitmer win the 2028 Democratic presidential nomination?](/odds/will-gretchen-whitmer-win-the-2028-democratic-presidential-nomination) — 1% YES
-- [Will the next diplomatic US-Iran meeting be in Pakistan?](/odds/will-the-next-diplomatic-us-iran-meeting-be-in-pakistan) — 60% YES
+- [Will Anthropic have the best AI model at the end of May 2026?](/odds/will-anthropic-have-the-best-ai-model-at-the-end-of-may-2026) — 98% YES
+- [Will WTI Crude Oil (WTI) hit (LOW) $85 in May?](/odds/will-wti-crude-oil-wti-hit-low-85-in-may) — 44% YES
 
 ## Frequently Asked Questions
 
-### How does Colombia's primary system prevent multiple right-wing candidates from advancing?
+### What would need to happen for de la Espriella and Valencia to actually advance as a joint ticket?
 
-The Democratic Center and other major parties control ballot access and typically consolidate around single nominees before the general election, making it extremely difficult for internal party figures to run independently without massive grassroots petition campaigns and institutional backing.
+They would need to either win their respective primary contests outright and both advance (extremely unlikely given primary competition), or negotiate a pre-primary alliance where one withdraws to support the other—a rare occurrence in Colombian politics that requires both their party structures and voter bases to accept the consolidation before the March 2026 deadline.
 
-### Could Valencia's previous electoral experience as a vice-presidential candidate give her an advantage in this market's scenario?
+### How does Petro's current approval rating factor into their chances?
 
-While Valencia has name recognition, her previous status as Iván Duque's running mate actually ties her to the current administration's unpopularity; she would need to differentiate significantly and win her party's nomination or run independently—neither scenario appears to be developing based on current political dynamics.
-
-### What would need to change in Colombian politics for this outcome's probability to meaningfully increase?
-
-A major fracturing of the Democratic Center party (such as Uribe losing control over candidate selection), simultaneous disqualification of all frontrunner candidates, or unexpected polling momentum for both De la Espriella and Valencia in early 2026 would be necessary to materially shift this probability above single digits.
+If Petro's approval collapses below 25%, it could trigger anti-establishment consolidation that pulls center-right and conservative voters toward a
 
 ## Learn More
 

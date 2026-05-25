@@ -11,7 +11,6 @@ polymarketYes: 1.4
 polymarketNo: 98.6
 polymarketVolume: 99249
 polymarketUrl: "https://polymarket.com/event/xi-jinping-divorce-before-2027"
-analysisDate: 2026-05-25
 ---
 
 This market trades at extreme long-odds with virtually no expectation that China's president will divorce before the end of 2026, reflecting both the stability of his 35-year marriage to Peng Liyuan and the unprecedented political ramifications such an event would trigger in China's system.

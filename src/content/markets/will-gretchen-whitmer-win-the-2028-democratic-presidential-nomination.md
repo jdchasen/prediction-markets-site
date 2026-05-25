@@ -9,9 +9,8 @@ expiryDate: 2028-11-07
 tags: ["politics", "polymarket"]
 polymarketYes: 1.2
 polymarketNo: 98.8
-polymarketVolume: 9806540
+polymarketVolume: 9809381
 polymarketUrl: "https://polymarket.com/event/will-gretchen-whitmer-win-the-2028-democratic-presidential-nomination-676"
-analysisDate: 2026-05-25
 ---
 
 Michigan Governor Gretchen Whitmer's nomination odds sit in the low single digits, reflecting widespread trader skepticism that she'll emerge from what promises to be a crowded 2028 Democratic field, despite her profile as a swing-state executive with national name recognition.

@@ -9,9 +9,8 @@ expiryDate: 2027-04-30
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 2.4
 polymarketNo: 97.7
-polymarketVolume: 983998
+polymarketVolume: 984902
 polymarketUrl: "https://polymarket.com/event/will-sbastien-lecornu-win-the-2027-french-presidential-election"
-analysisDate: 2026-05-25
 ---
 
 Sébastien Lecornu, France's current Defense Minister, sits at the periphery of 2027 presidential contention with markets pricing him as a long-shot candidate, reflecting his limited name recognition and ambiguous positioning within the fractured French political landscape.
