@@ -4,16 +4,17 @@ description: "Will Microsoft be the second-largest company in the world by marke
 marketQuestion: "Will Microsoft be the second-largest company in the world by market cap on May 31?"
 category: "finance"
 status: "active"
-lastUpdated: 2026-05-24
+lastUpdated: 2026-05-25
 expiryDate: 2026-05-31
 tags: ["finance", "polymarket"]
 polymarketYes: 0.1
 polymarketNo: 100.0
 polymarketVolume: 98727
 polymarketUrl: "https://polymarket.com/event/will-microsoft-be-the-second-largest-company-in-the-world-by-market-cap-on-may-31"
+analysisDate: 2026-05-25
 ---
 
-The market pricing Microsoft at just 0.1% probability to be the world's second-largest company by May 31, 2026, reflects extreme skepticism that the tech giant can overtake Apple for that position, which would require either massive Microsoft appreciation or significant Apple deterioration. Microsoft currently trades around $3 trillion in market cap, closely competing with Apple and Nvidia for the top spots, making the market's dismissal of this outcome surprisingly definitive given the narrow gaps between these companies.
+The market assigns virtually no probability to Microsoft holding the second-largest market cap position by May 2025, reflecting the extreme difficulty of displacing current holder Apple while fending off other mega-cap competitors in what remains a highly stable top-tier ranking.
 
 ## Current Odds
 
@@ -23,31 +24,31 @@ The market pricing Microsoft at just 0.1% probability to be the world's second-l
 
 ## Market Analysis
 
-The bull case centers on Microsoft's aggressive AI monetization through Azure cloud services and Copilot enterprise adoption, which could drive revenue growth well above current analyst estimates of 12-15% annually. The company reports quarterly earnings in late January, late April, late July, and late October, providing regular catalysts where AI revenue contribution could surprise to the upside. If Azure's AI services capture enterprise spending faster than expected and Apple faces iPhone demand headwinds in China or regulatory pressure from the EU's Digital Markets Act, the market cap rankings could shift. Microsoft's gaming division post-Activision acquisition and its enterprise software moat provide diversified growth vectors that could outpace Apple's hardware-dependent model.
+The bull case requires an unprecedented collapse in Apple's valuation combined with Microsoft's continued outperformance. Microsoft would need its AI investments through Azure OpenAI services and Copilot products to dramatically accelerate revenue growth beyond current expectations, while Apple faces severe iPhone demand destruction or regulatory breakup scenarios in major markets like the EU or China. Microsoft's fiscal Q3 2025 earnings (late April) and Q4 2025 earnings (late July) would need to show Azure growth rates exceeding 35% year-over-year with expanding margins. Additionally, Apple would need to report multiple quarters of declining revenue and see its services business growth stall, potentially dropping its market cap from approximately $3.4 trillion to below $3 trillion while Microsoft climbs above that threshold.
 
-The bear case—which the market strongly supports—recognizes that Microsoft would need approximately 15-20% outperformance versus Apple over two years just to reach second place, assuming Nvidia doesn't maintain its position. Apple's $3.4 trillion market cap benefits from massive share buyback programs (approximately $90 billion annually) and consistent services revenue growth in the high-single digits. The company's June WWDC 2025 and 2026 will showcase AI strategy, potentially catalyzing rallies that maintain its lead. More critically, this market requires Microsoft to specifically be *second-largest*, meaning if both companies trail Nvidia or if Microsoft becomes largest, the market resolves to NO, creating a narrow win condition that justifies the extreme odds.
+The bear case, which the market heavily favors, recognizes that even with strong AI monetization, Microsoft faces massive structural headwinds. As of January 2025, Apple maintains roughly a $400-600 billion market cap lead over Microsoft, requiring either a 12-15% decline in Apple or equivalent outperformance by Microsoft just to achieve parity. Nvidia currently trades near or above Microsoft's valuation, meaning Microsoft must also outpace the chipmaker whose GPUs power the AI revolution. Historical stability among mega-cap rankings makes such dramatic reshuffling exceptionally rare outside of financial crises. Microsoft's forward P/E around 30-32x leaves limited room for multiple expansion, while its cloud growth rates have decelerated from pandemic peaks.
 
-Traders should monitor Microsoft's quarterly Azure growth rates (reported in earnings), comparing them to consensus estimates of 25-30% growth in calendar 2025. Apple's iPhone shipment data from IDC and Canalys (released quarterly) will signal demand trends, while Fed rate decisions in March, June, September, and December of both 2025 and 2026 will influence megacap tech valuations broadly. The January 2026 earnings season will be particularly crucial as a final data point before the May 31 resolution date.
+Key catalysts include Apple's fiscal Q2 2025 earnings (late April/early May) which will reveal iPhone 16 demand and Apple Intelligence adoption rates, Microsoft's fiscal year-end earnings in July 2025, and any Federal Trade Commission actions regarding AI partnerships or antitrust concerns. Traders should monitor Azure's weekly usage metrics, OpenAI's ChatGPT Enterprise customer acquisition, and any signs of iPhone ASP compression or services revenue deceleration at Apple. Nvidia's earnings cycles (February, May, August) also matter significantly given its position as a potential second-place contender.
 
 ## Related Markets
 
-- [SpaceX IPO closing market cap above $1.6T?](/odds/spacex-ipo-closing-market-cap-above-16t) — 91% YES
-- [OpenAI IPO closing market cap above $800B?](/odds/openai-ipo-closing-market-cap-above-800b) — 85% YES
-- [Will S&P 500 (SPX) hit $8,600 (HIGH) in December?](/odds/will-sp-500-spx-hit-8600-high-in-december) — 16% YES
+- [Will S&P 500 (SPY) hit (LOW) $730 in May?](/odds/will-sp-500-spy-hit-low-730-in-may) — 16% YES
+- [Will Databricks have the highest IPO Market Cap 2026?](/odds/will-databricks-have-the-highest-ipo-market-cap-2026) — 0% YES
+- [OpenAI IPO closing market cap above $800B?](/odds/openai-ipo-closing-market-cap-above-800b) — 86% YES
 
 ## Frequently Asked Questions
 
-### Why doesn't Microsoft being the largest company count as a YES resolution for this market?
+### What market cap difference does Microsoft need to overcome to reach second place?
 
-The market specifically requires Microsoft to be the *second-largest* company by market cap, so if Microsoft overtakes both Apple and Nvidia to become number one, or remains in third place, the market resolves to NO.
+Microsoft needs to close a gap of approximately $400-600 billion versus Apple, requiring either Apple's valuation to drop roughly 12-15% or Microsoft to gain equivalent ground while also staying ahead of Nvidia's comparable $3+ trillion valuation.
 
-### How much would Microsoft's stock need to appreciate relative to Apple to win this market?
+### Could Nvidia's position affect this market outcome even if Microsoft surpasses Apple?
 
-Based on current positions, Microsoft would need roughly 15-20% outperformance versus Apple over the next two years, which translates to approximately $500-600 billion in additional market cap gain relative to Apple while also ensuring Nvidia stays ahead.
+Yes, Microsoft must finish in exactly second place, so if Nvidia maintains or grows its market cap above Microsoft's while Microsoft passes Apple, the market still resolves NO since Microsoft would rank third.
 
-### What role does Nvidia play in determining this market's outcome?
+### What would Microsoft's stock price need to reach for this outcome assuming stable share count?
 
-Nvidia's position is critical because Microsoft must finish in exactly second place; if Nvidia's market cap falls below Microsoft's while Microsoft remains behind Apple, or if all three companies shift positions such that Microsoft isn't second, the market resolves to NO regardless of Microsoft's absolute valuation.
+With approximately 7.4 billion shares outstanding, Microsoft would need to trade around $420-450 per share (roughly 35-45% above January 2025 levels) while Apple simultaneously declines significantly, an unlikely combination within sixteen months.
 
 ## Learn More
 

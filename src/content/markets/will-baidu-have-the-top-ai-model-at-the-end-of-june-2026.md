@@ -3,8 +3,8 @@ title: "Will Baidu have the top AI model at the end of June 2026?"
 description: "Will Baidu have the top AI model at the end of June 2026? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Baidu have the top AI model at the end of June 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-24
+status: "settled"
+lastUpdated: 2026-05-25
 expiryDate: 2026-06-30
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 0.1

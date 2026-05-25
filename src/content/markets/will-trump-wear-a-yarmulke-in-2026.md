@@ -1,17 +1,16 @@
 ---
 title: "Will Trump wear a Yarmulke in 2026?"
-description: "Will Trump wear a Yarmulke in 2026? Odds: 41.0% YES on Polymarket. See live prices and trade this market."
+description: "Will Trump wear a Yarmulke in 2026? Odds: 39.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Trump wear a Yarmulke in 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-24
+lastUpdated: 2026-05-25
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket", "trump"]
-polymarketYes: 41.0
-polymarketNo: 59.0
-polymarketVolume: 9777
+polymarketYes: 39.5
+polymarketNo: 60.5
+polymarketVolume: 9785
 polymarketUrl: "https://polymarket.com/event/will-trump-wear-a-yarmulke-in-2026"
-analysisDate: 2026-05-24
 ---
 
 # Trump Yarmulke Prediction Market Analysis

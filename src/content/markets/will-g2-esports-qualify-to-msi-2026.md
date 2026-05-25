@@ -4,14 +4,13 @@ description: "Will G2 Esports qualify to MSI 2026? Odds: 93.5% YES on Polymarket
 marketQuestion: "Will G2 Esports qualify to MSI 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-24
+lastUpdated: 2026-05-25
 expiryDate: 2026-07-12
 tags: ["politics", "polymarket"]
 polymarketYes: 93.5
 polymarketNo: 6.5
 polymarketVolume: 9840
 polymarketUrl: "https://polymarket.com/event/will-g2-esports-qualify-to-msi-2026"
-analysisDate: 2026-05-24
 ---
 
 # G2 Esports MSI 2026 Qualification Analysis

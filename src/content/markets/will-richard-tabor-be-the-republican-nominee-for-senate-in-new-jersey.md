@@ -3,8 +3,8 @@ title: "Will Richard Tabor be the Republican nominee for Senate in New Jersey?"
 description: "Will Richard Tabor be the Republican nominee for Senate in New Jersey? Odds: 43.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Richard Tabor be the Republican nominee for Senate in New Jersey?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-24
+status: "settled"
+lastUpdated: 2026-05-25
 expiryDate: 2026-06-02
 tags: ["politics", "polymarket"]
 polymarketYes: 43.5

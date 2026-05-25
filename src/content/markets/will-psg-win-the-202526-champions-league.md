@@ -4,14 +4,13 @@ description: "Will PSG win the 2025–26 Champions League? Odds: 57.5% YES on Po
 marketQuestion: "Will PSG win the 2025–26 Champions League?"
 category: "sports"
 status: "active"
-lastUpdated: 2026-05-24
+lastUpdated: 2026-05-25
 expiryDate: 2026-05-31
 tags: ["polymarket", "sports"]
 polymarketYes: 57.5
 polymarketNo: 42.5
-polymarketVolume: 9878788
+polymarketVolume: 9903291
 polymarketUrl: "https://polymarket.com/event/will-psg-win-the-202526-champions-league"
-analysisDate: 2026-05-24
 ---
 
 Paris Saint-Germain enters the 2025-26 Champions League season as a favorite in prediction markets at 57.5%, reflecting both their financial firepower and recent strategic shifts under Luis Enrique, but the odds seem inflated given their historical underperformance in Europe's elite competition despite assembling superstar rosters.

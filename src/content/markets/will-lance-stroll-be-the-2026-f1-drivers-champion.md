@@ -4,14 +4,13 @@ description: "Will Lance Stroll be the 2026 F1 Drivers' Champion? Odds: 0.1% YES
 marketQuestion: "Will Lance Stroll be the 2026 F1 Drivers' Champion?"
 category: "sports"
 status: "active"
-lastUpdated: 2026-05-24
+lastUpdated: 2026-05-25
 expiryDate: 2026-12-06
 tags: ["polymarket", "sports"]
 polymarketYes: 0.1
 polymarketNo: 99.9
-polymarketVolume: 9920289
+polymarketVolume: 9960349
 polymarketUrl: "https://polymarket.com/event/will-lance-stroll-be-the-2026-f1-drivers-champion"
-analysisDate: 2026-05-24
 ---
 
 The prediction market gives Lance Stroll virtually no chance of winning the 2026 F1 Drivers' Championship, reflecting widespread skepticism about the Aston Martin driver's ability to compete with top-tier talent despite his father's ownership of the team. This extreme pricing matters as it represents one of the clearest consensus bets in Formula 1 futures, with traders essentially writing off any possibility of a championship run from the Canadian driver who has never finished higher than P11 in season standings since joining F1 in 2017.

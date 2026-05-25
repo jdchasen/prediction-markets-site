@@ -4,14 +4,13 @@ description: "Will Databricks have the highest IPO Market Cap 2026? Odds: 0.1% Y
 marketQuestion: "Will Databricks have the highest IPO Market Cap 2026?"
 category: "finance"
 status: "active"
-lastUpdated: 2026-05-24
+lastUpdated: 2026-05-25
 expiryDate: 2026-12-31
 tags: ["finance", "polymarket"]
 polymarketYes: 0.1
 polymarketNo: 99.9
-polymarketVolume: 97637
+polymarketVolume: 97876
 polymarketUrl: "https://polymarket.com/event/will-databricks-have-the-highest-ipo-market-cap-2026-418"
-analysisDate: 2026-05-24
 ---
 
 The market assigns virtually no chance that Databricks will achieve the highest IPO market capitalization among all companies going public in 2026, reflecting skepticism about both its timing and competitive positioning against potentially larger offerings.

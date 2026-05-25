@@ -4,14 +4,13 @@ description: "Will Pamela Evette win the 2026 South Carolina Governor Republican
 marketQuestion: "Will Pamela Evette win the 2026 South Carolina Governor Republican primary election?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-24
+lastUpdated: 2026-05-25
 expiryDate: 2026-06-09
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 33.5
 polymarketNo: 66.5
-polymarketVolume: 9969
+polymarketVolume: 9997
 polymarketUrl: "https://polymarket.com/event/will-pamela-evette-win-the-2026-south-carolina-governor-republican-primary-election-972"
-analysisDate: 2026-05-24
 ---
 
 Pamela Evette, South Carolina's current Lieutenant Governor under Henry McMaster, sits at roughly one-in-three odds to win the 2026 Republican gubernatorial primary, positioning her as a significant but not dominant contender in what will likely be a competitive field.

@@ -3,8 +3,8 @@ title: "Will Fernando Alonso win the 2026 F1 Canadian Grand Prix?"
 description: "Will Fernando Alonso win the 2026 F1 Canadian Grand Prix? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Fernando Alonso win the 2026 F1 Canadian Grand Prix?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-05-24
+status: "settled"
+lastUpdated: 2026-05-25
 expiryDate: 2026-05-31
 tags: ["polymarket", "sports"]
 polymarketYes: 0.1

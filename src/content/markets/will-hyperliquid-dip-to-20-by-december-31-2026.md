@@ -1,17 +1,16 @@
 ---
 title: "Will Hyperliquid dip to $20 by December 31, 2026?"
-description: "Will Hyperliquid dip to $20 by December 31, 2026? Odds: 18.1% YES on Polymarket. See live prices and trade this market."
+description: "Will Hyperliquid dip to $20 by December 31, 2026? Odds: 16.6% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Hyperliquid dip to $20 by December 31, 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-24
+lastUpdated: 2026-05-25
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]
-polymarketYes: 18.1
-polymarketNo: 81.9
-polymarketVolume: 97418
+polymarketYes: 16.6
+polymarketNo: 83.4
+polymarketVolume: 97468
 polymarketUrl: "https://polymarket.com/event/will-hyperliquid-dip-to-20-by-december-31-2026"
-analysisDate: 2026-05-24
 ---
 
 Polymarket traders are pricing just an 18% chance that Hyperliquid—a decentralized perpetuals exchange token currently trading around $30—will fall to $20 or below by the end of 2026, reflecting confidence in the platform's growth trajectory despite the category being oddly labeled as "politics" when this is purely a cryptocurrency price prediction.

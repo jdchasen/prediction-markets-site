@@ -3,8 +3,8 @@ title: "Will Hyperliquid dip to $24 in May?"
 description: "Will Hyperliquid dip to $24 in May? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Hyperliquid dip to $24 in May?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-24
+status: "settled"
+lastUpdated: 2026-05-25
 expiryDate: 2026-06-01
 tags: ["politics", "polymarket"]
 polymarketYes: 0.1

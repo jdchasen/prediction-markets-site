@@ -3,8 +3,8 @@ title: "Will Arc launch a token by September 30 2026?"
 description: "Will Arc launch a token by September 30 2026? Odds: 47.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Arc launch a token by September 30 2026?"
 category: "crypto"
-status: "active"
-lastUpdated: 2026-05-24
+status: "settled"
+lastUpdated: 2026-05-25
 expiryDate: 2027-01-01
 tags: ["crypto", "polymarket"]
 polymarketYes: 47.0

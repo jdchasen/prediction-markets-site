@@ -1,17 +1,16 @@
 ---
 title: "Will OpenAI have the best AI model at the end of May 2026?"
-description: "Will OpenAI have the best AI model at the end of May 2026? Odds: 0.4% YES on Polymarket. See live prices and trade this market."
+description: "Will OpenAI have the best AI model at the end of May 2026? Odds: 0.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will OpenAI have the best AI model at the end of May 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-24
+lastUpdated: 2026-05-25
 expiryDate: 2026-05-31
 tags: ["ai", "politics", "polymarket"]
-polymarketYes: 0.4
-polymarketNo: 99.7
-polymarketVolume: 972839
+polymarketYes: 0.2
+polymarketNo: 99.8
+polymarketVolume: 980960
 polymarketUrl: "https://polymarket.com/event/will-openai-have-the-best-ai-model-at-the-end-of-may-2026"
-analysisDate: 2026-05-24
 ---
 
 Traders are expressing overwhelming skepticism that OpenAI will maintain its position as the AI leader through May 2026, pricing in just a 0.4% chance of success amid intensifying competition from Anthropic, Google DeepMind, and emerging Chinese labs.

@@ -4,14 +4,13 @@ description: "Will Butch Ware advance from the 2026 California Governor primary 
 marketQuestion: "Will Butch Ware advance from the 2026 California Governor primary election?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-24
+lastUpdated: 2026-05-25
 expiryDate: 2026-06-02
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.6
 polymarketNo: 99.4
 polymarketVolume: 9755
 polymarketUrl: "https://polymarket.com/event/will-butch-ware-get-the-first-or-second-most-votes-in-the-2026-california-governor-primary-election"
-analysisDate: 2026-05-24
 ---
 
 # Analysis: Butch Ware's 2026 California Governor Primary Prospects

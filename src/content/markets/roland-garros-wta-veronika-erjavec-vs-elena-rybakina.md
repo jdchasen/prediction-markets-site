@@ -3,8 +3,8 @@ title: "Roland Garros WTA: Veronika Erjavec vs Elena Rybakina"
 description: "Roland Garros WTA: Veronika Erjavec vs Elena Rybakina Odds: 3.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Roland Garros WTA: Veronika Erjavec vs Elena Rybakina"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-24
+status: "settled"
+lastUpdated: 2026-05-25
 expiryDate: 2026-05-31
 tags: ["politics", "polymarket"]
 polymarketYes: 3.2
