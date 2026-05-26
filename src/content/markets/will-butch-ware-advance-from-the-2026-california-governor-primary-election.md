@@ -3,8 +3,8 @@ title: "Will Butch Ware advance from the 2026 California Governor primary electi
 description: "Will Butch Ware advance from the 2026 California Governor primary election? Odds: 0.6% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Butch Ware advance from the 2026 California Governor primary election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-25
+status: "settled"
+lastUpdated: 2026-05-26
 expiryDate: 2026-06-02
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.6

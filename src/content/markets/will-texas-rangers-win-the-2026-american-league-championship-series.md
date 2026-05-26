@@ -3,8 +3,8 @@ title: "Will Texas Rangers win the 2026 American League Championship Series?"
 description: "Will Texas Rangers win the 2026 American League Championship Series? Odds: 7.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Texas Rangers win the 2026 American League Championship Series?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-25
+status: "settled"
+lastUpdated: 2026-05-26
 expiryDate: 2026-11-01
 tags: ["politics", "polymarket"]
 polymarketYes: 7.5

@@ -3,8 +3,8 @@ title: "Will Croatia win Group L in the 2026 FIFA World Cup?"
 description: "Will Croatia win Group L in the 2026 FIFA World Cup? Odds: 20.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Croatia win Group L in the 2026 FIFA World Cup?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-05-25
+status: "settled"
+lastUpdated: 2026-05-26
 expiryDate: 2026-06-27
 tags: ["polymarket", "sports"]
 polymarketYes: 20.0

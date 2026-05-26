@@ -4,14 +4,13 @@ description: "Roland Garros WTA: Elina Svitolina vs Anna Bondar Odds: 100.0% YES
 marketQuestion: "Roland Garros WTA: Elina Svitolina vs Anna Bondar"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-25
+lastUpdated: 2026-05-26
 expiryDate: 2026-05-31
 tags: ["politics", "polymarket"]
 polymarketYes: 100.0
 polymarketNo: 0.1
-polymarketVolume: 973862
+polymarketVolume: 979968
 polymarketUrl: "https://polymarket.com/event/wta-svitoli-bondar-2026-05-24"
-analysisDate: 2026-05-25
 ---
 
 This tennis match market is priced at maximum certainty despite being categorized incorrectly as politics and having an expiry nearly two years out from when the match would actually occur, creating a fundamental mismatch between the market structure and underlying event.

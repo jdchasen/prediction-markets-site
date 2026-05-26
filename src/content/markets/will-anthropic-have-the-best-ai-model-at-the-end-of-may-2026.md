@@ -3,8 +3,8 @@ title: "Will Anthropic have the best AI model at the end of May 2026?"
 description: "Will Anthropic have the best AI model at the end of May 2026? Odds: 98.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Anthropic have the best AI model at the end of May 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-25
+status: "settled"
+lastUpdated: 2026-05-26
 expiryDate: 2026-05-31
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 98.5

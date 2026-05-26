@@ -4,14 +4,13 @@ description: "Will Abelardo de la Espriella & Paloma Valencia advance to the sec
 marketQuestion: "Will Abelardo de la Espriella & Paloma Valencia advance to the second round of the 2026 Colombian presidential election?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-25
+lastUpdated: 2026-05-26
 expiryDate: 2026-05-31
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.1
 polymarketNo: 100.0
 polymarketVolume: 9843
 polymarketUrl: "https://polymarket.com/event/will-abelardo-de-la-espriella-paloma-valencia-advance-to-the-second-round-of-the-2026-colombian-presidential-election"
-analysisDate: 2026-05-25
 ---
 
 # Colombian Presidential Runoff: De la Espriella & Valencia's Long-Shot Odds

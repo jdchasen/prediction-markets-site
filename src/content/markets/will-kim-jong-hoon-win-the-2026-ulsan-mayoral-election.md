@@ -3,8 +3,8 @@ title: "Will Kim Jong-hoon win the 2026 Ulsan mayoral election?"
 description: "Will Kim Jong-hoon win the 2026 Ulsan mayoral election? Odds: 1.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Kim Jong-hoon win the 2026 Ulsan mayoral election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-25
+status: "settled"
+lastUpdated: 2026-05-26
 expiryDate: 2026-06-03
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 1.8

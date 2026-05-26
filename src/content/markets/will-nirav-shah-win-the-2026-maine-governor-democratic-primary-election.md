@@ -3,8 +3,8 @@ title: "Will Nirav Shah win the 2026 Maine Governor Democratic primary election?
 description: "Will Nirav Shah win the 2026 Maine Governor Democratic primary election? Odds: 30.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Nirav Shah win the 2026 Maine Governor Democratic primary election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-25
+status: "settled"
+lastUpdated: 2026-05-26
 expiryDate: 2026-06-09
 tags: ["ai", "elections", "politics", "polymarket"]
 polymarketYes: 30.5

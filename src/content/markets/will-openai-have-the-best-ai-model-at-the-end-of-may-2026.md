@@ -4,14 +4,13 @@ description: "Will OpenAI have the best AI model at the end of May 2026? Odds: 0
 marketQuestion: "Will OpenAI have the best AI model at the end of May 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-25
+lastUpdated: 2026-05-26
 expiryDate: 2026-05-31
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 0.4
-polymarketNo: 99.7
-polymarketVolume: 981858
+polymarketNo: 99.6
+polymarketVolume: 991403
 polymarketUrl: "https://polymarket.com/event/will-openai-have-the-best-ai-model-at-the-end-of-may-2026"
-analysisDate: 2026-05-25
 ---
 
 The market assigns virtually zero probability to OpenAI maintaining AI model leadership through May 2026, reflecting trader expectations that competitors will surpass them in the 18-month window ahead. This matters as a gauge of shifting sentiment around the AI race's frontrunner, with implications for investment flows, talent migration, and the broader competitive landscape in frontier AI development.

@@ -4,16 +4,17 @@ description: "Tshisekedi out as President of the DRC by December 31, 2026? Odds:
 marketQuestion: "Tshisekedi out as President of the DRC by December 31, 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-25
+lastUpdated: 2026-05-26
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 8.5
 polymarketNo: 91.5
-polymarketVolume: 9762
+polymarketVolume: 9891
 polymarketUrl: "https://polymarket.com/event/tshisekedi-out-as-president-of-the-drc-by-end-of-2026"
+analysisDate: 2026-05-26
 ---
 
-# DRC Presidential Succession: Analyzing Tshisekedi's Vulnerability Through 2026
+# DRC Presidential Stability: Tshisekedi's Grip on Power Through 2026
 
 ## Current Odds
 
@@ -23,33 +24,33 @@ polymarketUrl: "https://polymarket.com/event/tshisekedi-out-as-president-of-the-
 
 ## Market Analysis
 
-The market currently prices a roughly 1-in-12 chance that Félix Tshisekedi loses the presidency before year-end 2026, reflecting meaningful but modest political risk in a country with a history of constitutional instability. This matters now because Congo's 2023 elections established Tshisekedi as a consolidated leader, yet the low odds underestimate the genuine vulnerabilities facing his administration heading into the next 18 months. The expiry date cuts off just before Congo's 2027 general elections, creating a window where extra-constitutional removal becomes the primary removal mechanism rather than electoral defeat.
+Markets are currently pricing a roughly 1-in-12 chance that Félix Tshisekedi loses the presidency before the end of 2026, reflecting modest but non-trivial tail risk in one of Africa's largest and most volatile democracies. This matters now because the DRC's 2023 election legitimacy remains contested internationally, regional instability continues to metastasize, and Tshisekedi's coalition control depends on fragile patronage networks that could fracture under economic pressure or security deterioration.
 
-The bull case for higher removal probability centers on Tshisekedi's fragile domestic coalition and military control dynamics. His government faces serious threats from M23 and other eastern insurgencies that could destabilize the eastern provinces and create a pretext for military intervention; similar crises have triggered coups or constitutional crises in Congo's past. Additionally, Tshisekedi's relationship with the security apparatus, particularly the FARDC (Armed Forces of the DRC), remains transactional rather than institutionally secure. Economic deterioration—driven by commodity price collapses or mining sector disruption—could trigger mass unrest that emboldens rivals within his own coalition or military factions to move against him. The Assembly vote on any constitutional amendment or removal-adjacent measure typically requires 50% support, and his coalition, while dominant, contains opportunistic figures who could realign.
+The bull case for removal hinges on three converging pressures. First, M23 and other militant groups continue destabilizing the eastern provinces, straining military resources and potentially triggering international intervention that could undermine Tshisekedi's authority or create openings for rivals. Second, the DRC faces severe fiscal constraints—copper prices remain volatile, and external debt servicing limits the patronage spending that keeps his coalition intact. Third, opposition factions retain parliamentary leverage; constitutional amendments or impeachment motions could emerge if Tshisekedi's coalition fractures around disputed 2026 regional elections or if a charismatic alternative (like Moïse Katumbi) consolidates anti-incumbent forces before late 2025. Finally, military factions within the armed forces remain only partially subordinate to civilian control.
 
-The bear case assumes Tshisekedi has consolidated sufficient control to weather routine instability through 2026. He controls the security apparatus more firmly than his predecessors, commands a working legislative majority, and lacks a clear internal challenger with sufficient military or institutional backing to orchestrate a removal. Congo's constitutional framework, while historically porous, has become more resistant to extra-constitutional change following international pressure post-2016. Absent a catastrophic economic or security shock, the baseline trajectory favors continuity through the year-end 2026 deadline.
+The bear case argues Tshisekedi has consolidated sufficient institutional control to survive through 2026. He dominates the security apparatus following recent purges, controls most major parliamentary blocs through patronage, and faces no credible unified opposition capable of coordinating removal. The 2023 election, despite international criticism, established him as the de facto incumbent with administrative machinery at his disposal. Regional elections scheduled for 2024-2025 may strengthen rather than weaken his position by allowing him to distribute resources and eliminate rivals. Constitutional coups or military takeovers remain possible but extraordinarily low-probability events in modern African politics.
 
-Key catalysts to watch include security escalations in Kasai or eastern provinces (potential trigger points: any major M23 offensive or FDLR activation), legislative confidence votes if Tshisekedi's coalition fractures (typically occur 6-12 months after visible splits), and commodity price shocks affecting government revenue (copper and cobalt volatility carry immediate fiscal consequences). The 2026 budget negotiations and any scheduled parliamentary reshuffles will signal coalition stability in real time. Traders should monitor reporting from Kinshasa-based analysts and security firms for early signs of FARDC command instability or rival positioning within the presidency's security detail.
+Traders should monitor three specific catalysts: the stability of M23 and security conditions in Kivu through 2024-2025 (escalation could trigger foreign intervention), copper price trajectories and external credit access (fiscal stress could erode coalition loyalty by mid-2025), and the consolidation pace of opposition figures ahead of the 2025 election cycle. The current 8.5% odds appear roughly fair given genuine tail risks but reflect the baseline assumption that Tshisekedi retains sufficient control mechanisms. Movement above 12-15% would signal either acute security deterioration or visible coalition fracturing; drops below 5% would suggest markets are underpricing political fragility in the DRC's institutions.
 
 ## Related Markets
 
-- [Will Marco Rubio win the 2028 US Presidential Election?](/odds/will-marco-rubio-win-the-2028-us-presidential-election) — 14% YES
+- [Strait of Hormuz traffic returns to normal by end of June?](/odds/strait-of-hormuz-traffic-returns-to-normal-by-end-of-june) — 42% YES
 - [Will Gretchen Whitmer win the 2028 Democratic presidential nomination?](/odds/will-gretchen-whitmer-win-the-2028-democratic-presidential-nomination) — 1% YES
-- [Will the next diplomatic US-Iran meeting be in Pakistan?](/odds/will-the-next-diplomatic-us-iran-meeting-be-in-pakistan) — 60% YES
+- [Will OpenAI have the best AI model at the end of May 2026?](/odds/will-openai-have-the-best-ai-model-at-the-end-of-may-2026) — 0% YES
 
 ## Frequently Asked Questions
 
-### What specific constitutional mechanisms exist for removing Tshisekedi before his term ends in 2027?
+### What specific mechanisms could remove Tshisekedi before 2026—is this market pricing coup risk or constitutional processes?
 
-The DRC constitution allows presidential removal via Assembly vote on grounds of "high treason" (requires 50% majority) or through military intervention in a prolonged constitutional crisis, though the latter carries international legal consequences. No formal impeachment or recall clause exists.
+Both, but constitutional removal (parliament-led impeachment or coalition collapse forcing resignation) is more probable than military coup. The market reflects low but real tail risk from either scenario, with security collapse being the primary wildcard.
 
-### How much does M23's current military position in eastern Congo factor into removal risk?
+### How much does M23's activity directly affect this market's probability?
 
-M23's territorial gains and persistent offensive capability create a genuine state-failure risk that could provide cover for internal actors to move against Tshisekedi on "national emergency" grounds, but the group lacks the capacity to directly overthrow him; the risk is indirect via political destabilization.
+Significantly. Major M23 advances or foreign military intervention (Angola, Rwanda, SADC forces) could destabilize Tshisekedi's authority enough to trigger internal power struggles; conversely, military victories strengthen his position and the market would likely shift toward lower removal odds.
 
-### Would a commodity price crash (copper/cobalt collapse) materially shift removal odds higher?
+### If regional elections in 2024-2025 strengthen opposition blocs, could that materially shift this market higher?
 
-Yes—Congo's budget depends heavily on
+Yes—if opposition parties gain
 
 ## Learn More
 

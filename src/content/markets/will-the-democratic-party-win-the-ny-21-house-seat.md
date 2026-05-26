@@ -1,17 +1,16 @@
 ---
 title: "Will the Democratic Party win the NY-21 House seat?"
-description: "Will the Democratic Party win the NY-21 House seat? Odds: 31.0% YES on Polymarket. See live prices and trade this market."
+description: "Will the Democratic Party win the NY-21 House seat? Odds: 30.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Democratic Party win the NY-21 House seat?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-25
+lastUpdated: 2026-05-26
 expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
-polymarketYes: 31.0
-polymarketNo: 69.0
-polymarketVolume: 9812
+polymarketYes: 30.5
+polymarketNo: 69.5
+polymarketVolume: 9828
 polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-ny-21-house-seat"
-analysisDate: 2026-05-25
 ---
 
 The Democratic Party faces an uphill climb in New York's 21st Congressional District, with current odds suggesting Republicans hold a structural advantage in a seat that has trended rightward over the past two election cycles. This market matters now because NY-21 remains one of the few genuinely competitive districts in New York, making it a potential bellwether for Democratic performance in upstate and suburban regions heading into 2026.

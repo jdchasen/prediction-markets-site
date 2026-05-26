@@ -4,13 +4,14 @@ description: "Lee Jae-myung impeached before 2027? Odds: 7.7% YES on Polymarket.
 marketQuestion: "Lee Jae-myung impeached before 2027?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-25
+lastUpdated: 2026-05-26
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 7.7
 polymarketNo: 92.3
 polymarketVolume: 9906
 polymarketUrl: "https://polymarket.com/event/lee-jae-myung-impeached-before-2027"
+analysisDate: 2026-05-26
 ---
 
 # Lee Jae-myung Impeachment Market Analysis
@@ -23,31 +24,27 @@ polymarketUrl: "https://polymarket.com/event/lee-jae-myung-impeached-before-2027
 
 ## Market Analysis
 
-The market currently prices Lee's impeachment before year-end 2026 at just under 8%, reflecting South Korean political consensus that formal impeachment proceedings against the opposition Democratic Party leader remain unlikely despite ongoing legal vulnerabilities. This matters now because Lee faces multiple criminal trials while maintaining significant electoral relevance ahead of the 2027 presidential election, creating a narrow but real path for impeachment if political dynamics shift dramatically.
+The 7.7% YES odds suggest traders assess impeachment of South Korea's leading opposition figure as a low-probability event over the next 18 months, despite his persistent legal vulnerabilities and contentious role in Korean politics. This market matters because Lee's political fate directly shapes South Korea's 2027 presidential landscape and could trigger major shifts in the country's political balance if he faces removal before the election. The razor-thin odds reflect market skepticism that formal impeachment—a high procedural bar requiring National Assembly votes—will materialize, even as Lee faces multiple ongoing court cases.
 
-The bull case rests on Lee's legal exposure and the conservative-controlled National Assembly's capacity to initiate proceedings. Lee currently faces trials on various charges including alleged illegal political funds and assault, with convictions potentially disqualifying him from politics entirely. If a conviction arrives before year-end 2026, and if President Yoon Suk Yeol's People Power Party consolidates legislative power in the April 2024 parliamentary elections (results now delivered with PPP gaining modest ground), impeachment could theoretically follow as a political strategy to prevent a rival candidacy. The window is tight but technically viable through December 31, 2026.
+The bull case for impeachment rests on Lee's mounting legal jeopardy and the conservative ruling party's demonstrated willingness to weaponize the National Assembly. Lee currently faces trial on charges including bribery, embezzlement, and abuse of power dating to his governorship; a guilty verdict before year-end 2026 could create political momentum for impeachment as a preemptive strike before the 2027 election. The ruling People Power Party (PPP) controls the National Assembly with 109 of 254 seats as of early 2024, and conservative lawmakers have shown aggressive intent toward opposition figures. If the Seoul Metropolitan Police or prosecution moves to arrest Lee on outstanding warrants—a real possibility given pending court decisions—it could catalyze an impeachment push within weeks.
 
-The bear case dominates current thinking: impeachment requires extraordinary political will South Korea rarely deploys for opposition leaders. The Democratic Party's substantial electoral base and international optics concerns make formal impeachment a high-risk escalation that typically backfires domestically. Lee's trials move slowly through the judicial system—conviction before end-2026 remains uncertain despite legal jeopardy. Absent dramatic constitutional crisis or unexpected legislative supermajority consolidation, impeachment simply isn't the preferred enforcement mechanism in South Korean politics.
+The bear case dominates current market pricing for structural reasons. Impeachment requires 180+ National Assembly votes (two-thirds), meaning the PPP cannot succeed alone and needs significant opposition Democratic Party support, which is politically implausible given Lee's base. Democratic legislators would face massive backlash from voters if seen as enabling removal of their own party leader. South Korea's Constitutional Court has historically maintained independence from political pressure, making it unlikely to validate impeachment as a purely partisan maneuver. The upcoming 2025 local elections and 2026 midterms will create competing priorities for both parties, potentially cooling impeachment fervor as politicians focus on their own electoral survival.
 
-Key catalysts include trial verdict schedules (Lee's assault case and fund diversion case have no confirmed judgment dates but typically move across 2024-2025), the April 2024 parliamentary election aftermath (already occurred; PPP fell short of supermajority), and the 2027 presidential race timeline (which intensifies after mid-2026). Traders should monitor conviction timing and whether any verdict explicitly bars electoral participation—that would represent the actual inflection point where impeachment becomes plausible rather than procedural.
+Traders should monitor three specific catalysts: (1) verdict timing in Lee's bribery trial, expected in Q4 2024 or Q1 2025, which could reset political calculations; (2) any arrest warrant approval by courts in early 2025, which historically precedes parliamentary action; and (3) shifts in National Assembly composition after the April 2025 reapportionment vote. Polling data showing Lee's approval ratings remain volatile but typically above 25% among his base signals sustained voter protection against impeachment. The 2027 presidential primary schedule—Democratic Party primaries likely in late 2025 or early 2026—creates a natural countdown clock; after the party selects its nominee, momentum for removing a rival through impeachment would decline sharply. Current odds appropriately reflect that procedural barriers and political incentives make impeachment less likely than Lee's legal conviction, despite elevated risk compared to typical opposition politicians.
 
 ## Related Markets
 
-- [Will Marco Rubio win the 2028 US Presidential Election?](/odds/will-marco-rubio-win-the-2028-us-presidential-election) — 14% YES
+- [Strait of Hormuz traffic returns to normal by end of June?](/odds/strait-of-hormuz-traffic-returns-to-normal-by-end-of-june) — 42% YES
 - [Will Gretchen Whitmer win the 2028 Democratic presidential nomination?](/odds/will-gretchen-whitmer-win-the-2028-democratic-presidential-nomination) — 1% YES
-- [Will the next diplomatic US-Iran meeting be in Pakistan?](/odds/will-the-next-diplomatic-us-iran-meeting-be-in-pakistan) — 60% YES
+- [Will OpenAI have the best AI model at the end of May 2026?](/odds/will-openai-have-the-best-ai-model-at-the-end-of-may-2026) — 0% YES
 
 ## Frequently Asked Questions
 
-### What's the difference between Lee being convicted versus being impeached in this market?
+### What specific charges could most credibly trigger an impeachment effort before 2027?
 
-Conviction alone doesn't satisfy this market—impeachment requires the National Assembly to formally bring charges. Lee could be convicted criminally while remaining politically active; impeachment would be a separate parliamentary action to remove his eligibility.
+A guilty verdict in the bribery trial (expected late 2024/early 2025) combined with an active arrest warrant approval would create the strongest political opening, as it would give ruling party lawmakers constitutional cover to argue removal is legally, not purely politically, justified.
 
-### Why is the probability so low when Lee faces real criminal charges?
+### Does Lee's opposition party control matter to his impeachment odds?
 
-South Korea historically uses criminal courts rather than impeachment to disqualify opposition figures. The low odds reflect that Lee's rivals prefer legal conviction (which can ban him) over impeachment (which is politically costly and rare for opposition leaders).
-
-### If Lee gets convicted before mid-2026, would that make impeachment more likely?
-
-Yes, substantially. A conviction would provide political cover for impeachment proceedings and increase pressure on PPP legislators, though it still wouldn't guarantee the parliamentary supermajority or political will needed to proceed.
+Critically—the Democratic Party's likely refusal to vote for impeachment of their own potential 2027 nominee makes the 2/3 threshold mathematically insurmountable, which is the primary reason odds remain so low
 

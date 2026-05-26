@@ -4,14 +4,13 @@ description: "Will the Republican Party win the MD-06 House seat? Odds: 7.0% YES
 marketQuestion: "Will the Republican Party win the MD-06 House seat?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-25
+lastUpdated: 2026-05-26
 expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
 polymarketYes: 7.0
 polymarketNo: 93.0
 polymarketVolume: 9743
 polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-md-06-house-seat"
-analysisDate: 2026-05-25
 ---
 
 # MD-06 Republican Path Remains Heavily Uphill Against Democratic Stronghold

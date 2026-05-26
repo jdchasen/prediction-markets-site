@@ -4,16 +4,17 @@ description: "Will Sadegh Mahsouli be head of state in Iran end of 2026? Odds: 0
 marketQuestion: "Will Sadegh Mahsouli be head of state in Iran end of 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-25
+lastUpdated: 2026-05-26
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 0.1
 polymarketNo: 99.9
-polymarketVolume: 98330
+polymarketVolume: 98439
 polymarketUrl: "https://polymarket.com/event/will-sadegh-mahsouli-be-head-of-state-in-iran-end-of-2026"
+analysisDate: 2026-05-26
 ---
 
-The market prices an extremely remote possibility that Sadegh Mahsouli, an Iranian political figure with military background, will become Iran's head of state by the end of 2026, reflecting both institutional barriers and the current entrenchment of Supreme Leader Ali Khamenei's system.
+The market assigns near-zero probability to Sadegh Mahsouli becoming Iran's head of state by end of 2026, reflecting his minimal political profile and the entrenched power structures surrounding Supreme Leader Khamenei and the presidency. Mahsouli, who served as Iran's Minister of Welfare and Social Security, lacks the Revolutionary Guard connections, clerical credentials, or factional backing typically required for supreme leadership, while the presidential path appears equally implausible given his limited national prominence.
 
 ## Current Odds
 
@@ -23,31 +24,31 @@ The market prices an extremely remote possibility that Sadegh Mahsouli, an Irani
 
 ## Market Analysis
 
-The bull case relies on extraordinary disruption to Iran's current power structure. Mahsouli, who served as defense minister and is close to the Islamic Revolutionary Guard Corps (IRGC), could theoretically ascend if massive internal upheaval creates a power vacuum and the IRGC moves to consolidate control through a familiar hardliner. This scenario would require either Khamenei's death or incapacitation and a subsequent breakdown in the Assembly of Experts' succession process. The IRGC has increasingly dominated Iranian politics since 2009, and Mahsouli represents the military-security establishment that could seize control during a constitutional crisis. Any serious health crisis for the 85-year-old Khamenei would be the primary catalyst to watch.
+The bull case requires an extreme scenario: Khamenei's death or incapacitation combined with a shock decision by the Assembly of Experts to elevate an unexpected technocrat, or alternatively, a complete collapse of the current political order allowing Mahsouli to emerge through contested presidential elections. Iran has precedent for surprise selections—Khamenei himself was not the obvious choice in 1989—and prolonged internal power struggles could theoretically create openings for compromise candidates. Mahsouli's technocratic background and lack of strong factional enemies could position him as a dark horse if traditional powerbrokers deadlock.
 
-The bear case is overwhelming and explains the near-zero pricing. Iran's head of state is the Supreme Leader, a position appointed for life by the Assembly of Experts, not through electoral politics where Mahsouli might compete. Khamenei has held this role since 1989 and shows no signs of relinquishing power, with succession planning reportedly favoring his son Mojtaba or established clerics like Ebrahim Raisi (who died in 2024) and current President Masoud Pezeshkian. Mahsouli lacks the clerical credentials typically required for Supreme Leader—he's not an ayatollah—making his appointment institutionally implausible under normal succession procedures. The Assembly of Experts, meeting periodically throughout each year, remains firmly under conservative control with no scheduled extraordinary sessions that would suggest imminent succession debates.
+The bear case dominates because Iran's succession mechanisms heavily favor insiders with deep Revolutionary Guard or clerical establishment ties. The Assembly of Experts, which selects the Supreme Leader, comprises hardline clerics unlikely to deviate from established power centers. For the presidency, candidates must pass Guardian Council vetting, which systematically excludes moderates and unknowns—the 2021 election saw mass disqualifications that cleared the path for Ebrahim Raisi. Mahsouli has shown no signs of building the political machinery necessary for a presidential run, nor does he possess the religious credentials for supreme leadership.
 
-Key factors to monitor include any announcements about Khamenei's health, IRGC political maneuvering, and composition changes in the Assembly of Experts. The next regular Assembly elections are scheduled for 2032, though the body convenes biannually. Any constitutional crisis would likely emerge suddenly rather than through scheduled events, making this market primarily a bet on Iranian regime collapse rather than conventional political transition.
+Traders should monitor Khamenei's health status closely, as any deterioration would trigger succession speculation and potentially shift these odds. The next presidential election cycle begins in 2028 under normal circumstances, though early elections could occur if President Pezeshkian faces removal or resignation. Guardian Council candidate vetting typically occurs 2-3 months before Iranian elections, providing advance signals about who the establishment considers acceptable. Any public statements or positioning by Mahsouli regarding higher office—currently nonexistent—would warrant attention, though his silence suggests no serious ambitions for head of state roles.
 
 ## Related Markets
 
-- [Will Marco Rubio win the 2028 US Presidential Election?](/odds/will-marco-rubio-win-the-2028-us-presidential-election) — 14% YES
+- [Strait of Hormuz traffic returns to normal by end of June?](/odds/strait-of-hormuz-traffic-returns-to-normal-by-end-of-june) — 42% YES
 - [Will Gretchen Whitmer win the 2028 Democratic presidential nomination?](/odds/will-gretchen-whitmer-win-the-2028-democratic-presidential-nomination) — 1% YES
-- [Will the next diplomatic US-Iran meeting be in Pakistan?](/odds/will-the-next-diplomatic-us-iran-meeting-be-in-pakistan) — 60% YES
+- [Will OpenAI have the best AI model at the end of May 2026?](/odds/will-openai-have-the-best-ai-model-at-the-end-of-may-2026) — 0% YES
 
 ## Frequently Asked Questions
 
-### Why is Mahsouli's lack of senior clerical rank a major obstacle to becoming Supreme Leader?
+### Could Mahsouli become Supreme Leader if Khamenei dies before 2027?
 
-The Supreme Leader position traditionally requires senior clerical status (marja' level preferred), and Mahsouli is primarily known as a military-political figure without the theological credentials the Assembly of Experts typically demands for this religious-political role.
+Extremely unlikely, as the Assembly of Experts historically selects from senior clerics with extensive Revolutionary Guard relationships. Mahsouli lacks both the religious rank and the decades of institutional positioning that characterize viable candidates for supreme leadership.
 
-### Could Mahsouli become president instead of Supreme Leader and would that satisfy this market's conditions?
+### Has Mahsouli shown any indication of pursuing the presidency in potential early elections?
 
-No—the market specifically asks about "head of state," which in Iran's system is the Supreme Leader, not the president. The president is head of government but subordinate to the Supreme Leader in Iran's power structure.
+No public evidence suggests presidential ambitions, and he has maintained a low profile since his ministerial tenure. He would also need to pass Guardian Council vetting, which has grown increasingly restrictive under hardline control.
 
-### What would need to happen for Mahsouli to realistically have a path to power by end of 2026?
+### What would need to happen for these odds to move above 5%?
 
-A rapid succession crisis following Khamenei's death combined with IRGC intervention to bypass traditional clerical succession would be necessary, likely requiring the Assembly of Experts process to fail or be overthrown entirely within the next two years.
+Mahsouli would need to either receive explicit backing from a major faction within Iran's power structure, gain an unexpected appointment to a prominent position like presidential chief of staff, or emerge as a consensus figure during a visible succession crisis following Khamenei's death.
 
 ## Learn More
 

@@ -1,17 +1,16 @@
 ---
 title: "Will Trump wear a Yarmulke in 2026?"
-description: "Will Trump wear a Yarmulke in 2026? Odds: 39.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Trump wear a Yarmulke in 2026? Odds: 40.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Trump wear a Yarmulke in 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-25
+lastUpdated: 2026-05-26
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket", "trump"]
-polymarketYes: 39.5
-polymarketNo: 60.5
+polymarketYes: 40.0
+polymarketNo: 60.0
 polymarketVolume: 9802
 polymarketUrl: "https://polymarket.com/event/will-trump-wear-a-yarmulke-in-2026"
-analysisDate: 2026-05-25
 ---
 
 This market prices a roughly 40/60 split on whether Trump wears a yarmulke publicly during 2026, a bet contingent on both his political positioning and Jewish community engagement during a critical midterm election year. The question hinges on whether Trump pursues visible symbolic gestures toward Jewish voters—a demographic he's competed for aggressively since 2016—or maintains distance from religious displays that could alienate his core base.

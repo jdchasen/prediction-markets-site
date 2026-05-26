@@ -1,17 +1,16 @@
 ---
 title: "Will Abelardo de la Espriella win the first round of the 2026 Colombian presidential election?"
-description: "Will Abelardo de la Espriella win the first round of the 2026 Colombian presidential election? Odds: 32.5% YES on Polymarket. See live prices and trade this ..."
+description: "Will Abelardo de la Espriella win the first round of the 2026 Colombian presidential election? Odds: 34.0% YES on Polymarket. See live prices and trade this ..."
 marketQuestion: "Will Abelardo de la Espriella win the first round of the 2026 Colombian presidential election?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-25
+lastUpdated: 2026-05-26
 expiryDate: 2026-05-31
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 32.5
-polymarketNo: 67.5
-polymarketVolume: 9847
+polymarketYes: 34.0
+polymarketNo: 66.0
+polymarketVolume: 9918
 polymarketUrl: "https://polymarket.com/event/will-abelardo-de-la-espriella-win-the-first-round-of-the-2026-colombian-presidential-election"
-analysisDate: 2026-05-25
 ---
 
 # Analysis: Abelardo de la Espriella's 2026 Colombian Presidential First-Round Prospects

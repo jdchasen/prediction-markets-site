@@ -3,8 +3,8 @@ title: "Will Bitcoin dip to $55,000 in May?"
 description: "Will Bitcoin dip to $55,000 in May? Odds: 0.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Bitcoin dip to $55,000 in May?"
 category: "crypto"
-status: "active"
-lastUpdated: 2026-05-25
+status: "settled"
+lastUpdated: 2026-05-26
 expiryDate: 2026-06-01
 tags: ["bitcoin", "crypto", "polymarket"]
 polymarketYes: 0.5
