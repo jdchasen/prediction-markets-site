@@ -3,7 +3,7 @@ title: "Set Handicap: Landaluce (-1.5) vs Prado (+1.5)"
 description: "Set Handicap: Landaluce (-1.5) vs Prado (+1.5) Odds: 51.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Set Handicap: Landaluce (-1.5) vs Prado (+1.5)"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-26
 expiryDate: 2026-06-01
 tags: ["politics", "polymarket"]

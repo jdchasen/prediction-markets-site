@@ -9,9 +9,8 @@ expiryDate: 2026-11-03
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.1
 polymarketNo: 99.9
-polymarketVolume: 973929
+polymarketVolume: 975729
 polymarketUrl: "https://polymarket.com/event/will-toni-atkins-win-the-california-governor-election-in-2026"
-analysisDate: 2026-05-26
 ---
 
 Toni Atkins, the California State Senate President pro Tempore, currently sits at near-negligible odds to win the 2026 gubernatorial race, reflecting a crowded Democratic field and her relatively low statewide name recognition compared to frontrunners like Lt. Governor Elisa Slotkin and former Controller Betty Yee.

@@ -1,17 +1,16 @@
 ---
 title: "Lee Jae-myung impeached before 2027?"
-description: "Lee Jae-myung impeached before 2027? Odds: 7.7% YES on Polymarket. See live prices and trade this market."
+description: "Lee Jae-myung impeached before 2027? Odds: 7.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Lee Jae-myung impeached before 2027?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-05-26
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 7.7
-polymarketNo: 92.3
+polymarketYes: 7.2
+polymarketNo: 92.8
 polymarketVolume: 9906
 polymarketUrl: "https://polymarket.com/event/lee-jae-myung-impeached-before-2027"
-analysisDate: 2026-05-26
 ---
 
 # Lee Jae-myung Impeachment Market Analysis

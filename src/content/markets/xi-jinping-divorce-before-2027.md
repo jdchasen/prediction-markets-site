@@ -11,7 +11,6 @@ polymarketYes: 1.4
 polymarketNo: 98.7
 polymarketVolume: 99249
 polymarketUrl: "https://polymarket.com/event/xi-jinping-divorce-before-2027"
-analysisDate: 2026-05-26
 ---
 
 This market trades at extreme long odds because Xi Jinping's divorce would represent an unprecedented political event in modern Chinese leadership, where top leaders' personal lives remain tightly controlled and largely invisible to public scrutiny. The pricing reflects both the extreme improbability of such an announcement and the opacity of information about Xi's marriage to Peng Liyuan, a famous singer and People's Liberation Army general.

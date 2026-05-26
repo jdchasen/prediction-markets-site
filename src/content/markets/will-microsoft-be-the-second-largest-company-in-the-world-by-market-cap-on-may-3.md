@@ -9,9 +9,8 @@ expiryDate: 2026-05-31
 tags: ["finance", "polymarket"]
 polymarketYes: 0.1
 polymarketNo: 100.0
-polymarketVolume: 98753
+polymarketVolume: 99753
 polymarketUrl: "https://polymarket.com/event/will-microsoft-be-the-second-largest-company-in-the-world-by-market-cap-on-may-31"
-analysisDate: 2026-05-26
 ---
 
 The market overwhelmingly expects Microsoft will not hold the second-largest market cap position by May 31, 2026, reflecting the competitive dynamics among mega-cap tech companies and the difficulty of maintaining specific ranking positions over an extended timeframe.

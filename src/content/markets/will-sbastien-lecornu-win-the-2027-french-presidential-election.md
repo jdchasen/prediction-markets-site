@@ -1,17 +1,16 @@
 ---
 title: "Will Sébastien Lecornu win the 2027 French presidential election?"
-description: "Will Sébastien Lecornu win the 2027 French presidential election? Odds: 2.2% YES on Polymarket. See live prices and trade this market."
+description: "Will Sébastien Lecornu win the 2027 French presidential election? Odds: 2.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Sébastien Lecornu win the 2027 French presidential election?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-05-26
 expiryDate: 2027-04-30
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 2.2
-polymarketNo: 97.8
-polymarketVolume: 985893
+polymarketYes: 2.1
+polymarketNo: 97.9
+polymarketVolume: 986284
 polymarketUrl: "https://polymarket.com/event/will-sbastien-lecornu-win-the-2027-french-presidential-election"
-analysisDate: 2026-05-26
 ---
 
 The betting markets give France's current Defense Minister Sébastien Lecornu minimal chance of winning the 2027 presidential election, reflecting his relatively low national profile despite holding a key cabinet position under President Macron. While he represents a younger generation of center-right politicians and has gained visibility managing France's military support for Ukraine, he lacks the name recognition and political base typically required for a viable presidential run in France's two-round system.

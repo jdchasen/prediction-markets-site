@@ -11,7 +11,6 @@ polymarketYes: 0.1
 polymarketNo: 99.9
 polymarketVolume: 98439
 polymarketUrl: "https://polymarket.com/event/will-sadegh-mahsouli-be-head-of-state-in-iran-end-of-2026"
-analysisDate: 2026-05-26
 ---
 
 The market assigns near-zero probability to Sadegh Mahsouli becoming Iran's head of state by end of 2026, reflecting his minimal political profile and the entrenched power structures surrounding Supreme Leader Khamenei and the presidency. Mahsouli, who served as Iran's Minister of Welfare and Social Security, lacks the Revolutionary Guard connections, clerical credentials, or factional backing typically required for supreme leadership, while the presidential path appears equally implausible given his limited national prominence.

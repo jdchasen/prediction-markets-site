@@ -3,7 +3,7 @@ title: "Will Jules Vaughn die in Euphoria: Season 3?"
 description: "Will Jules Vaughn die in Euphoria: Season 3? Odds: 8.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Jules Vaughn die in Euphoria: Season 3?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-26
 expiryDate: 2026-05-31
 tags: ["politics", "polymarket"]

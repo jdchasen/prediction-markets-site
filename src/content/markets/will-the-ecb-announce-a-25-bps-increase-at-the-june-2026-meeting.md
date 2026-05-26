@@ -1,17 +1,16 @@
 ---
 title: "Will the ECB announce a 25 bps increase at the June 2026 meeting?"
-description: "Will the ECB announce a 25 bps increase at the June 2026 meeting? Odds: 88.0% YES on Polymarket. See live prices and trade this market."
+description: "Will the ECB announce a 25 bps increase at the June 2026 meeting? Odds: 87.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the ECB announce a 25 bps increase at the June 2026 meeting?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-05-26
 expiryDate: 2026-06-11
 tags: ["politics", "polymarket"]
-polymarketYes: 88.0
-polymarketNo: 12.0
-polymarketVolume: 94329
+polymarketYes: 87.5
+polymarketNo: 12.5
+polymarketVolume: 96602
 polymarketUrl: "https://polymarket.com/event/will-the-ecb-announce-an-increase-at-the-june-2026-meeting"
-analysisDate: 2026-05-26
 ---
 
 # ECB June 2026 Rate Decision Analysis

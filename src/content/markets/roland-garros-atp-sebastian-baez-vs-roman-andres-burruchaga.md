@@ -3,7 +3,7 @@ title: "Roland Garros ATP: Sebastian Baez vs Roman Andres Burruchaga"
 description: "Roland Garros ATP: Sebastian Baez vs Roman Andres Burruchaga Odds: 73.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Roland Garros ATP: Sebastian Baez vs Roman Andres Burruchaga"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-26
 expiryDate: 2026-05-31
 tags: ["politics", "polymarket"]

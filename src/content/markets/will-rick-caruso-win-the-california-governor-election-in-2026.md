@@ -9,9 +9,8 @@ expiryDate: 2026-11-03
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.1
 polymarketNo: 99.9
-polymarketVolume: 986463
+polymarketVolume: 994986
 polymarketUrl: "https://polymarket.com/event/will-rick-caruso-win-the-california-governor-election-in-2026"
-analysisDate: 2026-05-26
 ---
 
 Rick Caruso's chances of winning California's 2026 gubernatorial race sit at nearly zero on prediction markets, reflecting his status as a Republican-leaning independent in a state where Democrats hold overwhelming structural advantages and where he lost the 2022 Los Angeles mayoral race despite spending over $100 million of his own money.

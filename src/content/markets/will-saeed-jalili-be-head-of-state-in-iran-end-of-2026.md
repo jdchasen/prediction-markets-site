@@ -11,7 +11,6 @@ polymarketYes: 0.2
 polymarketNo: 99.8
 polymarketVolume: 99022
 polymarketUrl: "https://polymarket.com/event/will-saeed-jalili-be-head-of-state-in-iran-end-of-2026"
-analysisDate: 2026-05-26
 ---
 
 Traders are giving Saeed Jalili virtually no chance of becoming Iran's head of state by the end of 2026, reflecting the reality that Supreme Leader Ali Khamenei, now 85, controls succession and has shown no indication of voluntarily stepping down or naming Jalili as his successor.

@@ -11,7 +11,6 @@ polymarketYes: 92.5
 polymarketNo: 7.5
 polymarketVolume: 9786
 polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-ok-02-house-seat"
-analysisDate: 2026-05-26
 ---
 
 # OK-02 House Seat: Republican Dominance Priced In

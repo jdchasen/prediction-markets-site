@@ -11,7 +11,6 @@ polymarketYes: 8.5
 polymarketNo: 91.5
 polymarketVolume: 9891
 polymarketUrl: "https://polymarket.com/event/tshisekedi-out-as-president-of-the-drc-by-end-of-2026"
-analysisDate: 2026-05-26
 ---
 
 # DRC Presidential Stability: Tshisekedi's Grip on Power Through 2026

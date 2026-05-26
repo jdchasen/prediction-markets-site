@@ -11,7 +11,6 @@ polymarketYes: 7.5
 polymarketNo: 92.5
 polymarketVolume: 9864
 polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-ny-08-house-seat"
-analysisDate: 2026-05-26
 ---
 
 # NY-08 Republican House Seat Analysis

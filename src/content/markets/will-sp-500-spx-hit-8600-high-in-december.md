@@ -11,7 +11,6 @@ polymarketYes: 16.0
 polymarketNo: 84.0
 polymarketVolume: 9967
 polymarketUrl: "https://polymarket.com/event/spx-hit-8600-high-dec-2026"
-analysisDate: 2026-05-26
 ---
 
 # S&P 500 $8,600 Target Analysis

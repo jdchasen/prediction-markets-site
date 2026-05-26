@@ -8,10 +8,9 @@ lastUpdated: 2026-05-26
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
 polymarketYes: 8.1
-polymarketNo: 91.9
+polymarketNo: 92.0
 polymarketVolume: 9807
 polymarketUrl: "https://polymarket.com/event/les-wexner-charged-by-june-30"
-analysisDate: 2026-05-26
 ---
 
 # Analysis: Les Wexner Criminal Charges by June 2026

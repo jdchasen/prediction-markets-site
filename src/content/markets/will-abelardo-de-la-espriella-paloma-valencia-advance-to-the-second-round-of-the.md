@@ -3,7 +3,7 @@ title: "Will Abelardo de la Espriella & Paloma Valencia advance to the second ro
 description: "Will Abelardo de la Espriella & Paloma Valencia advance to the second round of the 2026 Colombian presidential election? Odds: 0.1% YES on Polymarket. See li..."
 marketQuestion: "Will Abelardo de la Espriella & Paloma Valencia advance to the second round of the 2026 Colombian presidential election?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-26
 expiryDate: 2026-05-31
 tags: ["elections", "politics", "polymarket"]
