@@ -1,17 +1,16 @@
 ---
 title: "Will gas hit (Low) $3.50 by May 31?"
-description: "Will gas hit (Low) $3.50 by May 31? Odds: 3.6% YES on Polymarket. See live prices and trade this market."
+description: "Will gas hit (Low) $3.50 by May 31? Odds: 2.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will gas hit (Low) $3.50 by May 31?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-26
+lastUpdated: 2026-05-27
 expiryDate: 2026-05-31
 tags: ["politics", "polymarket"]
-polymarketYes: 3.6
-polymarketNo: 96.4
-polymarketVolume: 9777
+polymarketYes: 2.5
+polymarketNo: 97.5
+polymarketVolume: 9878
 polymarketUrl: "https://polymarket.com/event/will-gas-hit-low-3pt50-by-may-31"
-analysisDate: 2026-05-26
 ---
 
 # Gas Price Prediction Market Analysis

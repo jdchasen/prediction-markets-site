@@ -3,8 +3,8 @@ title: "SpaceX IPO closing market cap above $3.4T?"
 description: "SpaceX IPO closing market cap above $3.4T? Odds: 5.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "SpaceX IPO closing market cap above $3.4T?"
 category: "finance"
-status: "active"
-lastUpdated: 2026-05-26
+status: "settled"
+lastUpdated: 2026-05-27
 expiryDate: 2027-12-31
 tags: ["finance", "polymarket"]
 polymarketYes: 5.5

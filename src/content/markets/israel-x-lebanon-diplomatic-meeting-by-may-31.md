@@ -3,8 +3,8 @@ title: "Israel x Lebanon diplomatic meeting by May 31?"
 description: "Israel x Lebanon diplomatic meeting by May 31? Odds: 70.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Israel x Lebanon diplomatic meeting by May 31?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-26
+status: "settled"
+lastUpdated: 2026-05-27
 expiryDate: 2026-05-31
 tags: ["politics", "polymarket"]
 polymarketYes: 70.0

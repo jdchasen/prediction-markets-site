@@ -1,17 +1,16 @@
 ---
 title: "Will Google have the best AI model at the end of May 2026?"
-description: "Will Google have the best AI model at the end of May 2026? Odds: 0.6% YES on Polymarket. See live prices and trade this market."
+description: "Will Google have the best AI model at the end of May 2026? Odds: 0.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Google have the best AI model at the end of May 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-26
+lastUpdated: 2026-05-27
 expiryDate: 2026-05-31
 tags: ["ai", "politics", "polymarket"]
-polymarketYes: 0.6
-polymarketNo: 99.4
-polymarketVolume: 978299
+polymarketYes: 0.5
+polymarketNo: 99.5
+polymarketVolume: 980142
 polymarketUrl: "https://polymarket.com/event/will-google-have-the-best-ai-model-at-the-end-of-may-2026"
-analysisDate: 2026-05-26
 ---
 
 The market assigns minimal probability to Google leading AI by May 2026, reflecting widespread trader belief that OpenAI, Anthropic, or other competitors will maintain superiority despite Google's substantial resources and research capabilities.

@@ -3,8 +3,8 @@ title: "Will Russia enter Sumy by June 30?"
 description: "Will Russia enter Sumy by June 30? Odds: 2.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Russia enter Sumy by June 30?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-26
+status: "settled"
+lastUpdated: 2026-05-27
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
 polymarketYes: 2.9

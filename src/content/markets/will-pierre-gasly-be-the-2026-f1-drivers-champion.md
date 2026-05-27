@@ -4,14 +4,13 @@ description: "Will Pierre Gasly be the 2026 F1 Drivers' Champion? Odds: 0.2% YES
 marketQuestion: "Will Pierre Gasly be the 2026 F1 Drivers' Champion?"
 category: "sports"
 status: "active"
-lastUpdated: 2026-05-26
+lastUpdated: 2026-05-27
 expiryDate: 2026-12-06
 tags: ["polymarket", "sports"]
 polymarketYes: 0.2
 polymarketNo: 99.8
-polymarketVolume: 9854375
+polymarketVolume: 9895767
 polymarketUrl: "https://polymarket.com/event/will-pierre-gasly-be-the-2026-f1-drivers-champion"
-analysisDate: 2026-05-26
 ---
 
 The prediction market gives Pierre Gasly virtually no chance at the 2026 F1 Drivers' Championship, reflecting his position at Alpine—a team currently struggling in the midfield with limited resources compared to top constructors. With nearly two full seasons until the championship concludes, this represents one of the longest-term markets in F1 betting, where driver movements and regulation changes can dramatically reshape the competitive landscape.

@@ -3,8 +3,8 @@ title: "Trump, Putin, and Zelensky seen together before 2027?"
 description: "Trump, Putin, and Zelensky seen together before 2027? Odds: 12.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Trump, Putin, and Zelensky seen together before 2027?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-26
+status: "settled"
+lastUpdated: 2026-05-27
 expiryDate: 2026-12-31
 tags: ["ethereum", "politics", "polymarket", "trump"]
 polymarketYes: 12.5

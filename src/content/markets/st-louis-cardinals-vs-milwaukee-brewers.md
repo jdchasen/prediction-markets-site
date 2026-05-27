@@ -3,8 +3,8 @@ title: "St. Louis Cardinals vs. Milwaukee Brewers"
 description: "St. Louis Cardinals vs. Milwaukee Brewers Odds: 35.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "St. Louis Cardinals vs. Milwaukee Brewers"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-26
+status: "settled"
+lastUpdated: 2026-05-27
 expiryDate: 2026-06-02
 tags: ["politics", "polymarket"]
 polymarketYes: 35.5

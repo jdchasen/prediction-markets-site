@@ -3,8 +3,8 @@ title: "Will the Reserve Bank of Australia make no change to the target for the 
 description: "Will the Reserve Bank of Australia make no change to the target for the cash rate after the June Meeting? Odds: 91.5% YES on Polymarket. See live prices and ..."
 marketQuestion: "Will the Reserve Bank of Australia make no change to the target for the cash rate after the June Meeting?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-26
+status: "settled"
+lastUpdated: 2026-05-27
 expiryDate: 2026-06-16
 tags: ["politics", "polymarket"]
 polymarketYes: 91.5

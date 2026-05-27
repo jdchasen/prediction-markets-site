@@ -4,50 +4,51 @@ description: "Will Sadegh Mahsouli be head of state in Iran end of 2026? Odds: 0
 marketQuestion: "Will Sadegh Mahsouli be head of state in Iran end of 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-26
+lastUpdated: 2026-05-27
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 0.1
 polymarketNo: 99.9
-polymarketVolume: 98439
+polymarketVolume: 98555
 polymarketUrl: "https://polymarket.com/event/will-sadegh-mahsouli-be-head-of-state-in-iran-end-of-2026"
+analysisDate: 2026-05-27
 ---
 
-The market assigns near-zero probability to Sadegh Mahsouli becoming Iran's head of state by end of 2026, reflecting his minimal political profile and the entrenched power structures surrounding Supreme Leader Khamenei and the presidency. Mahsouli, who served as Iran's Minister of Welfare and Social Security, lacks the Revolutionary Guard connections, clerical credentials, or factional backing typically required for supreme leadership, while the presidential path appears equally implausible given his limited national prominence.
+Traders are pricing in virtually zero chance that Sadegh Mahsouli, currently Iran's Interior Minister, becomes head of state by end of 2026, reflecting both Iran's complex power structure and the robust health of Supreme Leader Ayatollah Ali Khamenei, who holds ultimate authority as the actual head of state rather than the president.
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.1% | 99.9% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.1% | 99.9% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The bull case requires an extreme scenario: Khamenei's death or incapacitation combined with a shock decision by the Assembly of Experts to elevate an unexpected technocrat, or alternatively, a complete collapse of the current political order allowing Mahsouli to emerge through contested presidential elections. Iran has precedent for surprise selections—Khamenei himself was not the obvious choice in 1989—and prolonged internal power struggles could theoretically create openings for compromise candidates. Mahsouli's technocratic background and lack of strong factional enemies could position him as a dark horse if traditional powerbrokers deadlock.
+The bull case requires a highly specific sequence of events: Khamenei's death or incapacitation followed by the Assembly of Experts selecting Mahsouli as his successor. At 85 years old, Khamenei's health remains a central variable, though recent public appearances suggest he remains active. Mahsouli, a conservative hardliner with deep Revolutionary Guard connections, theoretically possesses the ideological credentials the 88-member Assembly might favor. His current role overseeing internal security and elections positions him within the power structure, and any major succession crisis or power vacuum between now and December 2026 could elevate security-focused figures. However, traditional succession favorites like Ebrahim Raisi died in the May 2024 helicopter crash, creating uncertainty about the clerical establishment's preferences.
 
-The bear case dominates because Iran's succession mechanisms heavily favor insiders with deep Revolutionary Guard or clerical establishment ties. The Assembly of Experts, which selects the Supreme Leader, comprises hardline clerics unlikely to deviate from established power centers. For the presidency, candidates must pass Guardian Council vetting, which systematically excludes moderates and unknowns—the 2021 election saw mass disqualifications that cleared the path for Ebrahim Raisi. Mahsouli has shown no signs of building the political machinery necessary for a presidential run, nor does he possess the religious credentials for supreme leadership.
+The bear case is overwhelming. Iran's head of state is constitutionally the Supreme Leader, not the president, and succession involves the Assembly of Experts rather than direct elections or appointments. Mahsouli lacks significant clerical rank—a near-prerequisite for the position—and hasn't appeared on any credible lists of potential Supreme Leader successors. More established figures like Mojtaba Khamenei (the Supreme Leader's son) or senior clerics in Qom hold far stronger positions. The 0.1% odds may actually overstate his chances given these structural barriers.
 
-Traders should monitor Khamenei's health status closely, as any deterioration would trigger succession speculation and potentially shift these odds. The next presidential election cycle begins in 2028 under normal circumstances, though early elections could occur if President Pezeshkian faces removal or resignation. Guardian Council candidate vetting typically occurs 2-3 months before Iranian elections, providing advance signals about who the establishment considers acceptable. Any public statements or positioning by Mahsouli regarding higher office—currently nonexistent—would warrant attention, though his silence suggests no serious ambitions for head of state roles.
+Key catalysts to monitor include any health developments regarding Khamenei, meetings of the Assembly of Experts (which convenes semi-annually), and shifts in Mahsouli's political standing within conservative factions. The Assembly's composition won't change until its next election cycle in 2024, and any succession process would likely favor established clerics over technocratic ministers. Traders should watch for Iranian state media coverage patterns around Khamenei's activities and any unusual elevation of Mahsouli's public profile, though even dramatic changes would face the fundamental obstacle that he doesn't fit Iran's succession framework.
 
 ## Related Markets
 
-- [Strait of Hormuz traffic returns to normal by end of June?](/odds/strait-of-hormuz-traffic-returns-to-normal-by-end-of-june) — 42% YES
 - [Will Gretchen Whitmer win the 2028 Democratic presidential nomination?](/odds/will-gretchen-whitmer-win-the-2028-democratic-presidential-nomination) — 1% YES
-- [Will OpenAI have the best AI model at the end of May 2026?](/odds/will-openai-have-the-best-ai-model-at-the-end-of-may-2026) — 0% YES
+- [Will Wes Moore win the 2028 US Presidential Election?](/odds/will-wes-moore-win-the-2028-us-presidential-election) — 1% YES
+- [Kharg Island no longer under Iranian control by May 31?](/odds/kharg-island-no-longer-under-iranian-control-by-may-31) — 1% YES
 
 ## Frequently Asked Questions
 
-### Could Mahsouli become Supreme Leader if Khamenei dies before 2027?
+### Could Mahsouli become president instead of Supreme Leader and would that count for this market?
 
-Extremely unlikely, as the Assembly of Experts historically selects from senior clerics with extensive Revolutionary Guard relationships. Mahsouli lacks both the religious rank and the decades of institutional positioning that characterize viable candidates for supreme leadership.
+No, the market specifically asks about "head of state," which in Iran's constitutional system is exclusively the Supreme Leader, not the president. Even if Mahsouli won a presidential election, this market would resolve as NO.
 
-### Has Mahsouli shown any indication of pursuing the presidency in potential early elections?
+### What would need to happen for Mahsouli to acquire the clerical credentials necessary for Supreme Leader selection?
 
-No public evidence suggests presidential ambitions, and he has maintained a low profile since his ministerial tenure. He would also need to pass Guardian Council vetting, which has grown increasingly restrictive under hardline control.
+He would need years of religious seminary education in Qom and recognition as a senior mujtahid (Islamic jurist), which cannot be achieved in the 2-year timeframe. His current background is in engineering and government administration, not religious scholarship.
 
-### What would need to happen for these odds to move above 5%?
+### Has the Assembly of Experts ever selected someone outside the traditional clerical elite as Supreme Leader?
 
-Mahsouli would need to either receive explicit backing from a major faction within Iran's power structure, gain an unexpected appointment to a prominent position like presidential chief of staff, or emerge as a consensus figure during a visible succession crisis following Khamenei's death.
+No, both Supreme Leaders in the Islamic Republic's history (Khomeini and Khamenei) were senior clerics, and the Assembly's composition of high-ranking religious scholars makes selection of a non-cleric virtually unprecedented in the system's 45-year history.
 
 ## Learn More
 

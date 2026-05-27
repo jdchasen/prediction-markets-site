@@ -1,17 +1,16 @@
 ---
 title: "Will Aurora win IEM Cologne Major 2026?"
-description: "Will Aurora win IEM Cologne Major 2026? Odds: 1.4% YES on Polymarket. See live prices and trade this market."
+description: "Will Aurora win IEM Cologne Major 2026? Odds: 1.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Aurora win IEM Cologne Major 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-26
+lastUpdated: 2026-05-27
 expiryDate: 2026-06-21
 tags: ["politics", "polymarket"]
-polymarketYes: 1.4
-polymarketNo: 98.7
-polymarketVolume: 97794
+polymarketYes: 1.5
+polymarketNo: 98.6
+polymarketVolume: 99521
 polymarketUrl: "https://polymarket.com/event/will-aurora-win-iem-cologne-major-2026"
-analysisDate: 2026-05-26
 ---
 
 This esports prediction market shows minimal confidence in Aurora's chances at a major Counter-Strike tournament, though the "politics" categorization appears to be an error given this concerns competitive gaming rather than electoral or policy outcomes.

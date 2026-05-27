@@ -3,8 +3,8 @@ title: "Will the Cleveland Browns win the 2027 NFL league championship?"
 description: "Will the Cleveland Browns win the 2027 NFL league championship? Odds: 0.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Cleveland Browns win the 2027 NFL league championship?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-05-26
+status: "settled"
+lastUpdated: 2026-05-27
 expiryDate: 2027-03-31
 tags: ["polymarket", "sports"]
 polymarketYes: 0.9

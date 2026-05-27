@@ -3,8 +3,8 @@ title: "Roland Garros WTA: Elina Svitolina vs Anna Bondar"
 description: "Roland Garros WTA: Elina Svitolina vs Anna Bondar Odds: 100.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Roland Garros WTA: Elina Svitolina vs Anna Bondar"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-26
+status: "settled"
+lastUpdated: 2026-05-27
 expiryDate: 2026-05-31
 tags: ["politics", "polymarket"]
 polymarketYes: 100.0

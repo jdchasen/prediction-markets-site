@@ -4,14 +4,13 @@ description: "Will Monte win IEM Cologne Major 2026? Odds: 0.4% YES on Polymarke
 marketQuestion: "Will Monte win IEM Cologne Major 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-26
+lastUpdated: 2026-05-27
 expiryDate: 2026-06-21
 tags: ["politics", "polymarket"]
 polymarketYes: 0.4
 polymarketNo: 99.7
-polymarketVolume: 99009
+polymarketVolume: 99740
 polymarketUrl: "https://polymarket.com/event/will-monte-win-iem-cologne-major-2026"
-analysisDate: 2026-05-26
 ---
 
 This market is essentially dead at 0.4% probability, reflecting the overwhelming consensus that Monte has virtually no realistic path to winning the IEM Cologne Major in 2026, despite being miscategorized as a politics market when it's clearly esports-related.

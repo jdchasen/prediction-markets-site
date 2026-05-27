@@ -4,14 +4,13 @@ description: "Will Click Bishop win the 2026 Alaska governor election? Odds: 6.1
 marketQuestion: "Will Click Bishop win the 2026 Alaska governor election?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-26
+lastUpdated: 2026-05-27
 expiryDate: 2026-11-03
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 6.1
 polymarketNo: 93.9
 polymarketVolume: 9839
 polymarketUrl: "https://polymarket.com/event/will-click-bishop-win-the-2026-alaska-governor-election"
-analysisDate: 2026-05-26
 ---
 
 # Click Bishop 2026 Alaska Governor Market Analysis

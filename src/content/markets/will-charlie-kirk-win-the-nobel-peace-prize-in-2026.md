@@ -4,14 +4,13 @@ description: "Will Charlie Kirk win the Nobel Peace Prize in 2026? Odds: 0.8% YE
 marketQuestion: "Will Charlie Kirk win the Nobel Peace Prize in 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-26
+lastUpdated: 2026-05-27
 expiryDate: 2026-10-10
 tags: ["politics", "polymarket"]
 polymarketYes: 0.8
 polymarketNo: 99.2
-polymarketVolume: 973394
+polymarketVolume: 978235
 polymarketUrl: "https://polymarket.com/event/will-charlie-kirk-win-the-nobel-peace-prize-in-2026"
-analysisDate: 2026-05-26
 ---
 
 This market essentially trades at zero because Charlie Kirk, the conservative activist and Turning Point USA founder, has virtually no realistic path to winning the Nobel Peace Prize in 2026 given the Nobel Committee's historical preferences and his polarizing domestic political profile.

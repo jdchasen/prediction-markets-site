@@ -3,8 +3,8 @@ title: "Will Gold (XAUUSD) hit (LOW) $4,400 in May?"
 description: "Will Gold (XAUUSD) hit (LOW) $4,400 in May? Odds: 29.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Gold (XAUUSD) hit (LOW) $4,400 in May?"
 category: "finance"
-status: "active"
-lastUpdated: 2026-05-26
+status: "settled"
+lastUpdated: 2026-05-27
 expiryDate: 2026-06-01
 tags: ["finance", "polymarket"]
 polymarketYes: 29.5
