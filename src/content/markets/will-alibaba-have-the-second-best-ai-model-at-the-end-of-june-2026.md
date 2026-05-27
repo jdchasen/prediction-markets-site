@@ -1,17 +1,16 @@
 ---
 title: "Will Alibaba have the second best AI model at the end of June 2026?"
-description: "Will Alibaba have the second best AI model at the end of June 2026? Odds: 3.4% YES on Polymarket. See live prices and trade this market."
+description: "Will Alibaba have the second best AI model at the end of June 2026? Odds: 2.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Alibaba have the second best AI model at the end of June 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-05-27
 expiryDate: 2026-06-30
 tags: ["ai", "politics", "polymarket"]
-polymarketYes: 3.4
-polymarketNo: 96.6
+polymarketYes: 2.4
+polymarketNo: 97.7
 polymarketVolume: 9961
 polymarketUrl: "https://polymarket.com/event/will-alibaba-have-the-second-best-ai-model-at-the-end-of-june-2026"
-analysisDate: 2026-05-27
 ---
 
 The market assigns only a 3.4% probability that Alibaba will possess the second-ranked AI model globally by June 2026, reflecting deep skepticism about Chinese AI capabilities competing at the absolute frontier of the field amid ongoing U.S. export controls and current performance gaps.

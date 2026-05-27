@@ -3,7 +3,7 @@ title: "Will Stripe's valuation hit (HIGH) $180B by June 30?"
 description: "Will Stripe's valuation hit (HIGH) $180B by June 30? Odds: 60.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Stripe's valuation hit (HIGH) $180B by June 30?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-27
 expiryDate: 2026-07-01
 tags: ["politics", "polymarket"]

@@ -11,7 +11,6 @@ polymarketYes: 16.0
 polymarketNo: 84.0
 polymarketVolume: 9932
 polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-pa-16-house-seat"
-analysisDate: 2026-05-27
 ---
 
 # PA-16 House Seat: Democratic Longshot at 16%

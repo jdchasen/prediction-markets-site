@@ -3,7 +3,7 @@ title: "Will Francesca Hong win the 2026 Wisconsin Governor Democratic primary e
 description: "Will Francesca Hong win the 2026 Wisconsin Governor Democratic primary election? Odds: 27.6% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Francesca Hong win the 2026 Wisconsin Governor Democratic primary election?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-27
 expiryDate: 2026-08-11
 tags: ["elections", "politics", "polymarket"]

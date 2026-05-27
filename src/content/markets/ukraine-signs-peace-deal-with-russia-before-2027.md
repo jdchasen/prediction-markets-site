@@ -3,7 +3,7 @@ title: "Ukraine signs peace deal with Russia before 2027?"
 description: "Ukraine signs peace deal with Russia before 2027? Odds: 27.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Ukraine signs peace deal with Russia before 2027?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-27
 expiryDate: 2026-12-31
 tags: ["ai", "politics", "polymarket"]

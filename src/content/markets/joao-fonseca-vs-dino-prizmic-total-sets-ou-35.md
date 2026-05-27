@@ -3,7 +3,7 @@ title: "Joao Fonseca vs. Dino Prizmic: Total Sets O/U 3.5"
 description: "Joao Fonseca vs. Dino Prizmic: Total Sets O/U 3.5 Odds: 65.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Joao Fonseca vs. Dino Prizmic: Total Sets O/U 3.5"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-27
 expiryDate: 2026-06-03
 tags: ["politics", "polymarket"]

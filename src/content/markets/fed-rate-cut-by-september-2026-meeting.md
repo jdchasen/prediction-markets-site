@@ -8,10 +8,9 @@ lastUpdated: 2026-05-27
 expiryDate: 2026-06-17
 tags: ["economics", "federal-reserve", "interest-rates", "polymarket"]
 polymarketYes: 12.7
-polymarketNo: 87.4
-polymarketVolume: 99869
+polymarketNo: 87.3
+polymarketVolume: 99995
 polymarketUrl: "https://polymarket.com/event/fed-rate-cut-by-september-2026-meeting-264-382"
-analysisDate: 2026-05-27
 ---
 
 Markets are pricing only a 1-in-8 chance of Federal Reserve rate cuts by the September 2026 FOMC meeting, reflecting confidence that inflation will remain controlled and the economy will avoid recession through mid-2026. This low probability matters for bond traders, mortgage borrowers, and equity investors positioning portfolios around the multi-year rate trajectory.

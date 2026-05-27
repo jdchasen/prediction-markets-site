@@ -11,7 +11,6 @@ polymarketYes: 1.4
 polymarketNo: 98.7
 polymarketVolume: 99369
 polymarketUrl: "https://polymarket.com/event/xi-jinping-divorce-before-2027"
-analysisDate: 2026-05-27
 ---
 
 The market pricing a divorce for China's paramount leader at near-zero reflects both political reality and information opacity surrounding the Chinese Communist Party's elite families. This represents less a genuine political forecast than a speculative bet on an extraordinarily unlikely personal event involving one of the world's most private power structures.

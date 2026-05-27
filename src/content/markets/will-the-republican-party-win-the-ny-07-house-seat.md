@@ -3,7 +3,7 @@ title: "Will the Republican Party win the NY-07 House seat?"
 description: "Will the Republican Party win the NY-07 House seat? Odds: 4.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Republican Party win the NY-07 House seat?"
 category: "politics"
-status: "settled"
+status: "active"
 lastUpdated: 2026-05-27
 expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
@@ -11,7 +11,6 @@ polymarketYes: 4.5
 polymarketNo: 95.5
 polymarketVolume: 9734
 polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-ny-07-house-seat"
-analysisDate: 2026-05-26
 ---
 
 # NY-07 Republican House Bid: Long Odds in a Democratic Stronghold

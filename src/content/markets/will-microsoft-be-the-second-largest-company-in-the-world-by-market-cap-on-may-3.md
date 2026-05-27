@@ -11,7 +11,6 @@ polymarketYes: 0.1
 polymarketNo: 100.0
 polymarketVolume: 99768
 polymarketUrl: "https://polymarket.com/event/will-microsoft-be-the-second-largest-company-in-the-world-by-market-cap-on-may-31"
-analysisDate: 2026-05-27
 ---
 
 The market is pricing in near-certainty that Microsoft will not be the second-largest company by market cap on May 31, 2026, reflecting the extreme difficulty of displacing Apple from that position or concerns about maintaining its current ranking against competitors. This matters as Microsoft's positioning directly reflects investor confidence in its AI investments, cloud computing dominance through Azure, and ability to monetize generative AI tools across its product suite.

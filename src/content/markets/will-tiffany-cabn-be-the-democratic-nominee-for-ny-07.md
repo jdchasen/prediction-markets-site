@@ -3,7 +3,7 @@ title: "Will Tiffany Cabán be the Democratic nominee for NY-07?"
 description: "Will Tiffany Cabán be the Democratic nominee for NY-07? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Tiffany Cabán be the Democratic nominee for NY-07?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-27
 expiryDate: 2026-06-23
 tags: ["politics", "polymarket"]

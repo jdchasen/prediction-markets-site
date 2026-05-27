@@ -9,45 +9,46 @@ expiryDate: 2028-11-07
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.8
 polymarketNo: 99.2
-polymarketVolume: 9772078
+polymarketVolume: 9773711
 polymarketUrl: "https://polymarket.com/event/will-wes-moore-win-the-2028-us-presidential-election"
+analysisDate: 2026-05-27
 ---
 
-Maryland Governor Wes Moore's presidential prospects are currently priced as a extreme long shot at under 1%, reflecting his status as a first-term governor with minimal national profile despite being viewed as a rising Democratic star.
+Maryland Governor Wes Moore faces minimal odds in prediction markets for the 2028 presidential race, reflecting his status as a political newcomer despite his compelling biography and growing national profile.
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.8% | 99.2% | $9.7M | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.8% | 99.2% | $9.8M | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The bull case for Moore centers on his compelling personal narrative as a Rhodes Scholar, decorated Army veteran, and bestselling author who became only the third Black governor ever elected in the United States. His victory in Maryland demonstrated crossover appeal in a diverse state, and he possesses the communication skills and biography that could resonate in a Democratic primary focused on generational change. If he successfully governs Maryland through 2026 and builds relationships with major Democratic donors and power brokers, he could position himself as a fresh alternative to established national figures. The 2028 cycle may favor newcomers if voters seek departure from the Biden-Trump era, and Moore's unique background could fill that void.
+The bull case centers on Moore's extraordinary personal narrative—Rhodes Scholar, Army veteran, bestselling author, and CEO before entering politics—combined with his decisive 2022 gubernatorial victory in a diverse state. His youth (he'll be 49 in 2028), charisma, and ability to speak to economic opportunity could position him as a fresh face if the Democratic Party seeks generational change after Biden. Moore's governing performance through 2026-2027 will be crucial; successful implementation of his economic agenda and criminal justice reforms could elevate his profile. Key milestones include his 2026 re-election campaign and the 2027-2028 window when potential candidates typically begin assembling campaign infrastructure. A strong showing at the 2028 Democratic National Convention, even in a supporting role, could build name recognition for future cycles.
 
-The bear case is overwhelming at this stage. Moore only took office in January 2023, making him extraordinarily inexperienced for a presidential run—he would have barely four years of elected experience by the 2028 Iowa caucuses in February of that year. He has virtually no national political infrastructure, hasn't been tested on the presidential debate stage, and would face formidable competition from sitting Vice President Kamala Harris, California Governor Gavin Newsom, Michigan Governor Gretchen Whitmer, and other Democrats with deeper networks and fundraising bases. Presidential campaigns require years of preparation, and there's no indication Moore is building the necessary apparatus. His low name recognition outside Maryland presents a nearly insurmountable barrier absent a dramatic breakthrough moment.
+The bear case is straightforward: Moore remains virtually unknown nationally, and governors from small states rarely leap directly to the presidency in contemporary politics. He'll face a crowded Democratic field likely including Vice President Harris, California Governor Newsom, Michigan Governor Whitmer, and other established figures with extensive donor networks and political organizations already in place. The Iowa caucuses and New Hampshire primary in early 2028 typically favor candidates who've spent years building relationships in those states. Moore has shown no indication of national campaign preparation, and Maryland's limited electoral college weight (10 votes) provides minimal strategic advantage.
 
-Critical catalysts to monitor include Moore's 2024 legislative session performance in Maryland, any keynote speaking opportunities at the 2024 Democratic National Convention in August, and whether he makes early visits to Iowa or New Hampshire in 2025-2026. His 2026 reelection campaign will be crucial—a landslide victory could provide momentum, while a close race would doom national ambitions. Watch for hiring of national political consultants and whether he builds relationships with influential Democratic groups like the Congressional Black Caucus leadership or major labor unions through 2025.
+Critical dates to monitor include the November 2026 gubernatorial election, which will test Moore's governing record, and the period from January-June 2027 when serious candidates typically form exploratory committees. The first Democratic primary debate, likely in summer 2027, would be the earliest realistic opportunity for Moore to break through nationally. Traders should watch for any signs of Moore declining to run for re-election in 2026, which would signal national ambitions, or alternatively, his formal endorsement of another candidate, which would effectively close this market.
 
 ## Related Markets
 
 - [Will Gretchen Whitmer win the 2028 Democratic presidential nomination?](/odds/will-gretchen-whitmer-win-the-2028-democratic-presidential-nomination) — 1% YES
-- [St. Louis Cardinals vs. Milwaukee Brewers](/odds/st-louis-cardinals-vs-milwaukee-brewers) — 36% YES
-- [Roland Garros WTA: Elina Svitolina vs Anna Bondar](/odds/roland-garros-wta-elina-svitolina-vs-anna-bondar) — 100% YES
+- [Will Raphaël Glucksmann win the 2027 French presidential election?](/odds/will-raphal-glucksmann-win-the-2027-french-presidential-election) — 3% YES
+- [Will Google have the best AI model at the end of May 2026?](/odds/will-google-have-the-best-ai-model-at-the-end-of-may-2026) — 0% YES
 
 ## Frequently Asked Questions
 
-### What would Wes Moore need to accomplish in his first term to become a credible 2028 candidate?
+### Has Wes Moore indicated any interest in running for president in 2028?
 
-He would need signature legislative achievements on economic issues in Maryland, national media exposure through high-profile DNC speeches or cable news appearances, and visible early-state travel starting no later than 2026. Building a donor network outside Maryland would be essential by mid-2027.
+Moore has not made any public statements suggesting a 2028 presidential run and has focused messaging entirely on his Maryland governorship. His national media appearances have been limited to promoting state initiatives rather than positioning himself for federal office.
 
-### How does Moore's political experience compare to recent presidential candidates at similar career stages?
+### What would Moore need to accomplish as governor to become a viable 2028 candidate?
 
-Moore would be exceptionally inexperienced—even Pete Buttigieg had more executive experience when he ran in 2020, and Barack Obama had served eight years in the Illinois Senate plus three in the U.S. Senate before his 2008 run. First-term governors rarely launch successful presidential campaigns.
+He would need to deliver measurable results on his signature issues—particularly reducing child poverty and gun violence in Baltimore—while simultaneously building relationships with major Democratic donors and party leaders outside Maryland by mid-2027 at the latest.
 
-### Could Moore run for Vice President instead, and would that change these odds?
+### Why might the market be undervaluing Moore's chances despite his resume?
 
-A VP slot is far more plausible given his demographics and fresh face appeal, but this market specifically covers the presidential race. If he were selected as VP in 2028 and that ticket won, he would not resolve this market as YES since he wouldn't be winning the presidency himself.
+The extremely low odds reflect that no sitting first-term governor has won their party's presidential nomination since Bill Clinton in 1992, and Moore lacks the national fundraising network, early-state organization, and media presence that viable candidates typically demonstrate 18-24 months before primaries.
 
 ## Learn More
 

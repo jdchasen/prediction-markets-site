@@ -1,34 +1,34 @@
 ---
 title: "Will Baker Mayfield win the 2026 NFL MVP?"
-description: "Will Baker Mayfield win the 2026 NFL MVP? Odds: 17.4% YES on Polymarket. See live prices and trade this market."
+description: "Will Baker Mayfield win the 2026 NFL MVP? Odds: 10.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Baker Mayfield win the 2026 NFL MVP?"
 category: "sports"
 status: "active"
 lastUpdated: 2026-05-27
 expiryDate: 2027-02-15
 tags: ["polymarket", "sports"]
-polymarketYes: 17.4
-polymarketNo: 82.6
+polymarketYes: 10.2
+polymarketNo: 89.8
 polymarketVolume: 98330
 polymarketUrl: "https://polymarket.com/event/will-baker-mayfield-win-the-2026-nfl-mvp"
 analysisDate: 2026-05-27
 ---
 
-Baker Mayfield's chances of capturing the 2026 NFL MVP award stand at just over one-in-six, reflecting skepticism about whether the Buccaneers quarterback can sustain elite-level performance for another two seasons while competing against younger stars like Patrick Mahomes, Josh Allen, and Joe Burrow.
+The current 10% probability reflects Baker Mayfield's successful but unlikely-to-win-MVP trajectory with the Tampa Bay Buccaneers, positioning him as a mid-tier longshot among quarterbacks entering the 2025-26 season evaluation period. Mayfield threw for 4,500 yards and 41 touchdowns in 2024, leading Tampa to a playoff berth, but his credentials still lag behind established elite quarterbacks and he'll need both exceptional individual performance and team success in 2025 to enter serious MVP conversation.
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 17.4% | 82.6% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 10.2% | 89.8% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The bull case centers on Tampa Bay's offensive infrastructure remaining intact through 2026, with Mike Evans potentially still providing a legitimate deep threat and the Buccaneers' traditionally pass-heavy scheme offering volume statistics that favor MVP consideration. Mayfield would need to replicate or exceed his 2023 breakout season (4,044 yards, 28 TDs) while leading Tampa to a division title or top NFC seed. The NFC South's relative weakness compared to other divisions could provide a path to a 13-4 or 14-3 record that typically accompanies MVP campaigns. If Tampa invests in offensive line upgrades and skill position talent in the 2025 and 2026 offseasons, Mayfield would have the supporting cast necessary to post elite efficiency numbers.
+The bull case centers on continuity and offensive firepower. Mayfield returns with the same offensive coordinator and a receiving corps led by Mike Evans and Chris Godwin, both healthy after 2024 injuries. If Tampa's offensive line improves through the 2025 draft and Mayfield reduces his interception rate from 16 to single digits while maintaining touchdown production, he could post top-three quarterback numbers. The Buccaneers play in a weakened NFC South where a 13-4 record is achievable, and narrative momentum from his redemption story—journeyman to franchise quarterback—would amplify his candidacy if the stats support it. Patrick Mahomes winning a third MVP faces voter fatigue, potentially opening the door for a fresh face.
 
-The bear case is considerably stronger: Mayfield will be 31 years old during the 2026 season, playing on what will likely be his final contract with Tampa Bay, and faces stiff competition from quarterbacks in more stable, talent-rich situations. His career has been defined by inconsistency across five teams, and even his solid 2024 season saw regression in touchdown rate and yards per attempt. The Buccaneers face significant roster uncertainty with Evans aging and potential cap constraints limiting their ability to build around Mayfield long-term. Historically, only 13 quarterbacks aged 31 or older have won MVP since 2000, and most were already established elite talents.
+The bear case is straightforward: competition and historical precedent. Josh Allen, Joe Burrow, C.J. Stroud, and Jordan Love all possess higher ceilings and stronger supporting cases entering 2025. Mayfield has never received a single MVP vote in his career, and voters historically favor quarterbacks on 12+ win teams with elite efficiency metrics. Tampa's defense remains questionable, likely forcing shootouts that inflate Mayfield's volume stats while hurting his win total. His career 92.4 passer rating suggests he's closer to his ceiling than a breakout, and even a top-five quarterback season may not overcome competition from younger, more dynamic players.
 
-Key catalysts include Tampa Bay's 2025 playoff performance and subsequent offseason moves, which will clarify their championship window timeline. The NFL Draft in late April 2025 and 2026 will reveal whether Tampa invests premium picks in offensive weapons or begins transitioning toward a younger core. Mayfield's performance in the first half of the 2025 season (September-November) will heavily influence whether these odds move significantly, as back-to-back strong years would be necessary to justify MVP consideration. Watch for any signs of decline in arm strength or mobility, contract extension negotiations that signal organizational commitment, and how Tampa's defense performs—a dominant defense typically hurts a quarterback's MVP chances by limiting offensive opportunity.
+Key catalysts include the 2025 NFL Draft (April 24-26) where Tampa's offensive line investments will signal championship intentions, and the first six weeks of the 2025 season when MVP narratives begin crystallizing. Mayfield's performances against elite defenses—particularly divisional games against New Orleans and Atlanta's revamped secondaries—will determine whether he's posting empty calories or legitimate MVP numbers. Traders should monitor offseason receiver additions, as Tampa losing either Evans or Godwin to free agency would crater these odds immediately.
 
 ## Related Markets
 
@@ -37,17 +37,17 @@ Key catalysts include Tampa Bay's 2025 playoff performance and subsequent offsea
 
 ## Frequently Asked Questions
 
-### How does Baker Mayfield's age in 2026 compare to recent MVP winners?
+### How does Baker Mayfield's 2024 performance compare to previous MVP winners at this stage?
 
-At 31 during the 2026 season, Mayfield would be older than most recent MVP winners, though not unprecedented—Lamar Jackson won at 27, Patrick Mahomes at 27 and 28, and Aaron Rodgers won back-to-back at 37-38. The concern is that Mayfield lacks the established elite track record those older winners possessed.
+Mayfield's 4,500 yards and 41 touchdowns would have ranked fourth in MVP voting in an average year, but his 16 interceptions and 92.6 passer rating fall short of typical winners who post 105+ ratings. Lamar Jackson's 2023 MVP came with a 102.7 rating and only 7 interceptions.
 
-### What would Mayfield's statistical benchmarks need to be for realistic MVP consideration in 2026?
+### What would need to happen for these odds to move above 25% before the 2025 season starts?
 
-He would likely need approximately 4,500+ passing yards, 35+ touchdowns with fewer than 10 interceptions, and a passer rating above 105 while leading Tampa to at least 12 wins. These numbers would need to come with signature comeback victories or prime-time performances that build the narrative MVP voters favor.
+Tampa would need to make significant offensive line upgrades in the draft, re-sign all key weapons, and either Mahomes or Allen would need to suffer training camp injuries. Additionally, Mayfield participating in high-profile offseason coverage as a legitimate contender rather than feel-good story would shift perception.
 
-### Does playing in Tampa Bay's market size hurt or help Mayfield's MVP chances compared to other contenders?
+### Does playing in Tampa's offensive system help or hurt Mayfield's MVP chances compared to other schemes?
 
-Tampa Bay's mid-sized market is neutral at best—it lacks the media saturation of New York or Dallas but also doesn't have the small-market disadvantage of Kansas City. The bigger factor is nationally televised games; if Tampa earns multiple prime-time slots in 2025-2026 based on competitive performance, Mayfield would gain necessary visibility for MVP consideration.
+Tampa's vertical passing attack inflates volume statistics which helps raw numbers, but the system's higher-risk throws contributed to Mayfield's interception issues. MVP voters increasingly favor efficiency over volume, making Kansas City's or San Francisco's schemes more MVP-friendly despite lower passing totals.
 
 ## Learn More
 

@@ -1,17 +1,16 @@
 ---
 title: "Lee Jae-myung impeached before 2027?"
-description: "Lee Jae-myung impeached before 2027? Odds: 7.7% YES on Polymarket. See live prices and trade this market."
+description: "Lee Jae-myung impeached before 2027? Odds: 7.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Lee Jae-myung impeached before 2027?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-05-27
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 7.7
-polymarketNo: 92.3
+polymarketYes: 7.5
+polymarketNo: 92.5
 polymarketVolume: 9906
 polymarketUrl: "https://polymarket.com/event/lee-jae-myung-impeached-before-2027"
-analysisDate: 2026-05-27
 ---
 
 Traders are pricing in less than an 8% chance that South Korean opposition leader Lee Jae-myung will be impeached before the end of 2026, a scenario that would require him to first win the presidency in the 2027 election and then face removal within his initial months in office. The market matters because Lee currently leads the Democratic Party and polls suggest he's the frontrunner for the next presidential race, despite facing multiple ongoing criminal trials.

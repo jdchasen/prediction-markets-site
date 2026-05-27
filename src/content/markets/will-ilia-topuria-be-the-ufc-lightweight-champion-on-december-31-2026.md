@@ -1,17 +1,16 @@
 ---
 title: "Will Ilia Topuria be the UFC Lightweight Champion on December 31, 2026?"
-description: "Will Ilia Topuria be the UFC Lightweight Champion on December 31, 2026? Odds: 65.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Ilia Topuria be the UFC Lightweight Champion on December 31, 2026? Odds: 65.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Ilia Topuria be the UFC Lightweight Champion on December 31, 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-05-27
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 65.5
-polymarketNo: 34.5
-polymarketVolume: 9964
+polymarketYes: 65.0
+polymarketNo: 35.0
+polymarketVolume: 9972
 polymarketUrl: "https://polymarket.com/event/will-ilia-topuria-be-the-ufc-lightweight-champion-on-december-31-2026"
-analysisDate: 2026-05-27
 ---
 
 # Analysis: Ilia Topuria UFC Lightweight Championship Market

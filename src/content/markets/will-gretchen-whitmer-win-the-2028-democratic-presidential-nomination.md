@@ -9,9 +9,8 @@ expiryDate: 2028-11-07
 tags: ["politics", "polymarket"]
 polymarketYes: 1.1
 polymarketNo: 98.9
-polymarketVolume: 9867424
+polymarketVolume: 9868247
 polymarketUrl: "https://polymarket.com/event/will-gretchen-whitmer-win-the-2028-democratic-presidential-nomination-676"
-analysisDate: 2026-05-27
 ---
 
 Gretchen Whitmer's chances at the 2028 Democratic presidential nomination currently sit at barely over 1% on Polymarket, reflecting widespread skepticism that the Michigan governor can break through in what's expected to be a crowded primary field dominated by higher-profile national figures.

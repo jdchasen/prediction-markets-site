@@ -11,7 +11,6 @@ polymarketYes: 8.5
 polymarketNo: 91.5
 polymarketVolume: 9895
 polymarketUrl: "https://polymarket.com/event/tshisekedi-out-as-president-of-the-drc-by-end-of-2026"
-analysisDate: 2026-05-27
 ---
 
 # Tshisekedi's Grip on Power: A Low-Probability but High-Impact Scenario

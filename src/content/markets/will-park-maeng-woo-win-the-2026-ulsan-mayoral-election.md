@@ -1,17 +1,16 @@
 ---
 title: "Will Park Maeng-woo win the 2026 Ulsan mayoral election?"
-description: "Will Park Maeng-woo win the 2026 Ulsan mayoral election? Odds: 1.8% YES on Polymarket. See live prices and trade this market."
+description: "Will Park Maeng-woo win the 2026 Ulsan mayoral election? Odds: 1.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Park Maeng-woo win the 2026 Ulsan mayoral election?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-05-27
 expiryDate: 2026-06-03
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 1.8
-polymarketNo: 98.2
-polymarketVolume: 9904
+polymarketYes: 1.5
+polymarketNo: 98.6
+polymarketVolume: 9995
 polymarketUrl: "https://polymarket.com/event/will-park-maeng-woo-win-the-2026-ulsan-mayoral-election"
-analysisDate: 2026-05-27
 ---
 
 # Park Maeng-woo's 2026 Ulsan Mayoral Bid: A Heavily Discounted Longshot
