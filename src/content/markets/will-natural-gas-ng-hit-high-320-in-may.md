@@ -3,8 +3,8 @@ title: "Will Natural Gas (NG) hit (HIGH) $3.20 in May?"
 description: "Will Natural Gas (NG) hit (HIGH) $3.20 in May? Odds: 29.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Natural Gas (NG) hit (HIGH) $3.20 in May?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-27
+status: "settled"
+lastUpdated: 2026-05-28
 expiryDate: 2026-06-01
 tags: ["politics", "polymarket"]
 polymarketYes: 29.5

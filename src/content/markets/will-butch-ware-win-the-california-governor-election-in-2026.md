@@ -4,14 +4,13 @@ description: "Will Butch Ware win the California Governor Election in 2026? Odds
 marketQuestion: "Will Butch Ware win the California Governor Election in 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-27
+lastUpdated: 2026-05-28
 expiryDate: 2026-11-03
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.2
 polymarketNo: 99.8
-polymarketVolume: 978618
+polymarketVolume: 982357
 polymarketUrl: "https://polymarket.com/event/will-butch-ware-win-the-california-governor-election-in-2026"
-analysisDate: 2026-05-27
 ---
 
 Butch Ware, the 2024 Green Party vice presidential nominee, faces near-insurmountable odds in California's 2026 gubernatorial race according to current market pricing, reflecting both third-party structural disadvantages and California's entrenched Democratic majority—yet the market matters as a gauge of potential political realignment in America's largest state.

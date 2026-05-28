@@ -1,23 +1,23 @@
 ---
-title: "Xi Jinping divorce before 2027?"
-description: "Xi Jinping divorce before 2027? Odds: 1.4% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Xi Jinping divorce before 2027?"
+title: "Facundo Acosta vs. Learner Tien: Total Sets O/U 3.5"
+description: "Facundo Acosta vs. Learner Tien: Total Sets O/U 3.5 Odds: 100.0% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Facundo Acosta vs. Learner Tien: Total Sets O/U 3.5"
 category: "politics"
 status: "active"
 lastUpdated: 2026-05-28
-expiryDate: 2026-12-31
+expiryDate: 2026-06-04
 tags: ["politics", "polymarket"]
-polymarketYes: 1.4
-polymarketNo: 98.7
-polymarketVolume: 99374
-polymarketUrl: "https://polymarket.com/event/xi-jinping-divorce-before-2027"
+polymarketYes: 100.0
+polymarketNo: 0.1
+polymarketVolume: 9938
+polymarketUrl: "https://polymarket.com/event/atp-acosta-tien-2026-05-28-set-totals-3pt5"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 1.4% | 98.7% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 100.0% | 0.1% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,11 +27,15 @@ polymarketUrl: "https://polymarket.com/event/xi-jinping-divorce-before-2027"
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Xi Jinping divorce before 2027?"?
+### What are the current odds for "Facundo Acosta vs. Learner Tien: Total Sets O/U 3.5"?
 
-As of May 28, 2026, Polymarket prices YES at 1.4%.
+As of May 28, 2026, Polymarket prices YES at 100.0%.
 
 ### Where can I trade on this prediction market?
 
 You can trade this market on [Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) (crypto-based).
+
+## Learn More
+
+- [Kalshi Fees Explained: The Real Cost Per Trade](/blog/kalshi-fees-explained)
 

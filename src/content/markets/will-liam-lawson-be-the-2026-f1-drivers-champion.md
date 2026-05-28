@@ -1,35 +1,35 @@
 ---
-title: "Will Baker Mayfield win the 2026 NFL MVP?"
-description: "Will Baker Mayfield win the 2026 NFL MVP? Odds: 1.7% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Baker Mayfield win the 2026 NFL MVP?"
+title: "Will Liam Lawson be the 2026 F1 Drivers' Champion?"
+description: "Will Liam Lawson be the 2026 F1 Drivers' Champion? Odds: 0.2% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Liam Lawson be the 2026 F1 Drivers' Champion?"
 category: "sports"
 status: "active"
 lastUpdated: 2026-05-28
-expiryDate: 2027-02-15
+expiryDate: 2026-12-06
 tags: ["polymarket", "sports"]
-polymarketYes: 1.7
-polymarketNo: 98.4
-polymarketVolume: 98330
-polymarketUrl: "https://polymarket.com/event/will-baker-mayfield-win-the-2026-nfl-mvp"
+polymarketYes: 0.2
+polymarketNo: 99.8
+polymarketVolume: 9764448
+polymarketUrl: "https://polymarket.com/event/will-liam-lawson-be-the-2026-f1-drivers-champion"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 1.7% | 98.4% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.2% | 99.8% | $9.8M | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Pierre Gasly be the 2026 F1 Drivers' Champion?](/odds/will-pierre-gasly-be-the-2026-f1-drivers-champion) — 0% YES
 - [Will Sergio Pérez be the 2026 F1 Drivers' Champion?](/odds/will-sergio-prez-be-the-2026-f1-drivers-champion) — 0% YES
-- [Will Liam Lawson be the 2026 F1 Drivers' Champion?](/odds/will-liam-lawson-be-the-2026-f1-drivers-champion) — 0% YES
+- [Will Houston Texans win the 2027 NFL AFC Championship?](/odds/will-houston-texans-win-the-2027-nfl-afc-championship) — 9% YES
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Baker Mayfield win the 2026 NFL MVP?"?
+### What are the current odds for "Will Liam Lawson be the 2026 F1 Drivers' Champion?"?
 
-As of May 28, 2026, Polymarket prices YES at 1.7%.
+As of May 28, 2026, Polymarket prices YES at 0.2%.
 
 ### Where can I trade on this prediction market?
 

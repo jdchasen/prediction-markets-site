@@ -4,14 +4,13 @@ description: "Will the Fed decrease interest rates by 50+ bps after the Septembe
 marketQuestion: "Will the Fed decrease interest rates by 50+ bps after the September 2026 meeting?"
 category: "economics"
 status: "active"
-lastUpdated: 2026-05-27
+lastUpdated: 2026-05-28
 expiryDate: 2026-09-16
 tags: ["economics", "federal-reserve", "interest-rates", "polymarket"]
 polymarketYes: 2.1
-polymarketNo: 97.9
+polymarketNo: 98.0
 polymarketVolume: 9732
 polymarketUrl: "https://polymarket.com/event/will-the-fed-decrease-interest-rates-by-50-bps-after-the-september-2026-meeting-863"
-analysisDate: 2026-05-27
 ---
 
 # Fed Rate Cut Analysis: September 2026 Odds

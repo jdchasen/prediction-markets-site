@@ -3,8 +3,8 @@ title: "Will the flotilla reach Gaza by May 31?"
 description: "Will the flotilla reach Gaza by May 31? Odds: 0.3% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the flotilla reach Gaza by May 31?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-27
+status: "settled"
+lastUpdated: 2026-05-28
 expiryDate: 2026-05-31
 tags: ["politics", "polymarket"]
 polymarketYes: 0.3

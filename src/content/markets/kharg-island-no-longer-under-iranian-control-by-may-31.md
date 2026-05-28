@@ -1,17 +1,16 @@
 ---
 title: "Kharg Island no longer under Iranian control by May 31?"
-description: "Kharg Island no longer under Iranian control by May 31? Odds: 1.1% YES on Polymarket. See live prices and trade this market."
+description: "Kharg Island no longer under Iranian control by May 31? Odds: 0.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Kharg Island no longer under Iranian control by May 31?"
 category: "politics"
-status: "settled"
-lastUpdated: 2026-05-27
+status: "active"
+lastUpdated: 2026-05-28
 expiryDate: 2026-05-31
 tags: ["politics", "polymarket"]
-polymarketYes: 1.1
-polymarketNo: 98.9
-polymarketVolume: 9761874
+polymarketYes: 0.9
+polymarketNo: 99.1
+polymarketVolume: 9941419
 polymarketUrl: "https://polymarket.com/event/kharg-island-no-longer-under-iranian-control-by-may-31-689"
-analysisDate: 2026-05-27
 ---
 
 This market gives extremely low odds to Iran losing control of its strategically vital Kharg Island oil terminal by May 2026, reflecting the massive military and geopolitical upheaval such an outcome would require. Kharg Island handles approximately 90% of Iran's crude oil exports, making it the country's most critical economic asset and a facility Iran would defend with overwhelming force.

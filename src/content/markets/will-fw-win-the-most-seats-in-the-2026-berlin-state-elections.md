@@ -3,8 +3,8 @@ title: "Will FW win the most seats in the 2026 Berlin state elections?"
 description: "Will FW win the most seats in the 2026 Berlin state elections? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will FW win the most seats in the 2026 Berlin state elections?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-27
+status: "settled"
+lastUpdated: 2026-05-28
 expiryDate: 2026-09-20
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.1

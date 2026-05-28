@@ -3,8 +3,8 @@ title: "Will Cleitinho Azevedo win the 2026 Minas Gerais gubernatorial election?
 description: "Will Cleitinho Azevedo win the 2026 Minas Gerais gubernatorial election? Odds: 56.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Cleitinho Azevedo win the 2026 Minas Gerais gubernatorial election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-27
+status: "settled"
+lastUpdated: 2026-05-28
 expiryDate: 2026-10-04
 tags: ["ai", "elections", "politics", "polymarket"]
 polymarketYes: 56.5
