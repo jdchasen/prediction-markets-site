@@ -1,17 +1,16 @@
 ---
 title: "Will Russia enter Kharkiv by December 31, 2026?"
-description: "Will Russia enter Kharkiv by December 31, 2026? Odds: 8.0% YES on Polymarket. See live prices and trade this market."
+description: "Will Russia enter Kharkiv by December 31, 2026? Odds: 8.6% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Russia enter Kharkiv by December 31, 2026?"
 category: "politics"
-status: "settled"
+status: "active"
 lastUpdated: 2026-05-28
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 8.0
-polymarketNo: 92.0
-polymarketVolume: 9732
+polymarketYes: 8.6
+polymarketNo: 91.3
+polymarketVolume: 9812
 polymarketUrl: "https://polymarket.com/event/will-russia-enter-kharkiv-by-december-31-2026"
-analysisDate: 2026-05-27
 ---
 
 # Russia-Kharkiv Market Analysis

@@ -9,7 +9,7 @@ expiryDate: 2026-12-06
 tags: ["polymarket", "sports"]
 polymarketYes: 0.4
 polymarketNo: 99.7
-polymarketVolume: 9893035
+polymarketVolume: 9972501
 polymarketUrl: "https://polymarket.com/event/will-sergio-prez-be-the-2026-f1-drivers-champion"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-sergio-prez-be-the-2026-f1-dri
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.4% | 99.7% | $9.9M | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.4% | 99.7% | $10.0M | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 

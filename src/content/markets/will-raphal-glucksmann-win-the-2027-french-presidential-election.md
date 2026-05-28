@@ -3,7 +3,7 @@ title: "Will Raphaël Glucksmann win the 2027 French presidential election?"
 description: "Will Raphaël Glucksmann win the 2027 French presidential election? Odds: 3.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Raphaël Glucksmann win the 2027 French presidential election?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-28
 expiryDate: 2027-04-30
 tags: ["elections", "politics", "polymarket"]

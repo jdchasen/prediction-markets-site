@@ -9,7 +9,7 @@ expiryDate: 2026-12-31
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 32.0
 polymarketNo: 68.0
-polymarketVolume: 98996
+polymarketVolume: 99163
 polymarketUrl: "https://polymarket.com/event/russia-x-ukraine-ceasefire-agreement-by-october-31-2026"
 ---
 
@@ -21,9 +21,9 @@ polymarketUrl: "https://polymarket.com/event/russia-x-ukraine-ceasefire-agreemen
 
 ## Related Markets
 
-- [Kharg Island no longer under Iranian control by May 31?](/odds/kharg-island-no-longer-under-iranian-control-by-may-31) — 1% YES
 - [Will Gretchen Whitmer win the 2028 Democratic presidential nomination?](/odds/will-gretchen-whitmer-win-the-2028-democratic-presidential-nomination) — 1% YES
 - [Will Wes Moore win the 2028 US Presidential Election?](/odds/will-wes-moore-win-the-2028-us-presidential-election) — 1% YES
+- [Will Butch Ware win the California Governor Election in 2026?](/odds/will-butch-ware-win-the-california-governor-election-in-2026) — 0% YES
 
 ## Frequently Asked Questions
 

@@ -1,23 +1,23 @@
 ---
-title: "Tshisekedi out as President of the DRC by December 31, 2026?"
-description: "Tshisekedi out as President of the DRC by December 31, 2026? Odds: 8.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Tshisekedi out as President of the DRC by December 31, 2026?"
+title: "Will South Africa win on 2026-06-11?"
+description: "Will South Africa win on 2026-06-11? Odds: 12.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will South Africa win on 2026-06-11?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-05-28
-expiryDate: 2026-12-31
+expiryDate: 2026-06-11
 tags: ["politics", "polymarket"]
-polymarketYes: 8.5
-polymarketNo: 91.5
-polymarketVolume: 9895
-polymarketUrl: "https://polymarket.com/event/tshisekedi-out-as-president-of-the-drc-by-end-of-2026"
+polymarketYes: 12.5
+polymarketNo: 87.5
+polymarketVolume: 9884
+polymarketUrl: "https://polymarket.com/event/fifwc-mex-rsa-2026-06-11-rsa"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 8.5% | 91.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 12.5% | 87.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/tshisekedi-out-as-president-of-the-
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Tshisekedi out as President of the DRC by December 31, 2026?"?
+### What are the current odds for "Will South Africa win on 2026-06-11?"?
 
-As of May 28, 2026, Polymarket prices YES at 8.5%.
+As of May 28, 2026, Polymarket prices YES at 12.5%.
 
 ### Where can I trade on this prediction market?
 

@@ -1,35 +1,35 @@
 ---
-title: "Will Anthropic not IPO by December 31 2027?"
-description: "Will Anthropic not IPO by December 31 2027? Odds: 12.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Anthropic not IPO by December 31 2027?"
+title: "Will SpaceX's market cap be less than $1.0T at market close on IPO day?"
+description: "Will SpaceX's market cap be less than $1.0T at market close on IPO day? Odds: 2.0% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will SpaceX's market cap be less than $1.0T at market close on IPO day?"
 category: "finance"
 status: "active"
 lastUpdated: 2026-05-28
 expiryDate: 2027-12-31
 tags: ["finance", "polymarket"]
-polymarketYes: 12.5
-polymarketNo: 87.5
-polymarketVolume: 9913
-polymarketUrl: "https://polymarket.com/event/will-anthropic-not-ipo-by-december-31-2027-386"
+polymarketYes: 2.0
+polymarketNo: 98.0
+polymarketVolume: 98052
+polymarketUrl: "https://polymarket.com/event/will-spacexs-market-cap-be-less-than-1pt0t-at-market-close-on-ipo-day-281"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 12.5% | 87.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 2.0% | 98.0% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will SHEIN have the highest IPO Market Cap 2026?](/odds/will-shein-have-the-highest-ipo-market-cap-2026) — 0% YES
-- [Will SpaceX's market cap be less than $1.0T at market close on IPO day?](/odds/will-spacexs-market-cap-be-less-than-10t-at-market-close-on-ipo-day) — 2% YES
 - [Anysphere (Cursor) IPO before 2027?](/odds/anysphere-cursor-ipo-before-2027) — 4% YES
+- [OpenAI IPO closing market cap above $800B?](/odds/openai-ipo-closing-market-cap-above-800b) — 84% YES
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Anthropic not IPO by December 31 2027?"?
+### What are the current odds for "Will SpaceX's market cap be less than $1.0T at market close on IPO day?"?
 
-As of May 28, 2026, Polymarket prices YES at 12.5%.
+As of May 28, 2026, Polymarket prices YES at 2.0%.
 
 ### Where can I trade on this prediction market?
 

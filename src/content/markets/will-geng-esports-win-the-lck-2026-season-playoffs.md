@@ -1,15 +1,15 @@
 ---
 title: "Will Gen.G Esports win the LCK 2026 season playoffs?"
-description: "Will Gen.G Esports win the LCK 2026 season playoffs? Odds: 42.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Gen.G Esports win the LCK 2026 season playoffs? Odds: 42.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Gen.G Esports win the LCK 2026 season playoffs?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-05-28
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 42.5
-polymarketNo: 57.5
-polymarketVolume: 97952
+polymarketYes: 42.0
+polymarketNo: 58.0
+polymarketVolume: 97967
 polymarketUrl: "https://polymarket.com/event/will-geng-esports-win-the-lck-2026-season-playoffs"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-geng-esports-win-the-lck-2026-
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 42.5% | 57.5% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 42.0% | 58.0% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Kharg Island no longer under Iranian control by May 31?](/odds/kharg-island-no-longer-under-iranian-control-by-may-31) — 1% YES
 - [Will Gretchen Whitmer win the 2028 Democratic presidential nomination?](/odds/will-gretchen-whitmer-win-the-2028-democratic-presidential-nomination) — 1% YES
 - [Will Wes Moore win the 2028 US Presidential Election?](/odds/will-wes-moore-win-the-2028-us-presidential-election) — 1% YES
+- [Will Butch Ware win the California Governor Election in 2026?](/odds/will-butch-ware-win-the-california-governor-election-in-2026) — 0% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Gen.G Esports win the LCK 2026 season playoffs?"?
 
-As of May 28, 2026, Polymarket prices YES at 42.5%.
+As of May 28, 2026, Polymarket prices YES at 42.0%.
 
 ### Where can I trade on this prediction market?
 

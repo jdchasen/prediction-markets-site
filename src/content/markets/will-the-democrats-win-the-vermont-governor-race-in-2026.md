@@ -1,16 +1,15 @@
 ---
-title: "Tshisekedi out as President of the DRC by December 31, 2026?"
-description: "Tshisekedi out as President of the DRC by December 31, 2026? Odds: 8.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Tshisekedi out as President of the DRC by December 31, 2026?"
+title: "Will the Democrats win the Vermont governor race in 2026?"
+description: "Will the Democrats win the Vermont governor race in 2026? Odds: 8.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will the Democrats win the Vermont governor race in 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-05-28
-expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 8.5
 polymarketNo: 91.5
-polymarketVolume: 9895
-polymarketUrl: "https://polymarket.com/event/tshisekedi-out-as-president-of-the-drc-by-end-of-2026"
+polymarketVolume: 9807
+polymarketUrl: "https://polymarket.com/event/will-the-democrats-win-the-vermont-governor-race-in-2026"
 ---
 
 ## Current Odds
@@ -27,7 +26,7 @@ polymarketUrl: "https://polymarket.com/event/tshisekedi-out-as-president-of-the-
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Tshisekedi out as President of the DRC by December 31, 2026?"?
+### What are the current odds for "Will the Democrats win the Vermont governor race in 2026?"?
 
 As of May 28, 2026, Polymarket prices YES at 8.5%.
 

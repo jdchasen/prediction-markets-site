@@ -9,7 +9,7 @@ expiryDate: 2026-12-06
 tags: ["polymarket", "sports"]
 polymarketYes: 0.2
 polymarketNo: 99.8
-polymarketVolume: 9764448
+polymarketVolume: 9766683
 polymarketUrl: "https://polymarket.com/event/will-liam-lawson-be-the-2026-f1-drivers-champion"
 ---
 
@@ -21,8 +21,8 @@ polymarketUrl: "https://polymarket.com/event/will-liam-lawson-be-the-2026-f1-dri
 
 ## Related Markets
 
-- [Will Pierre Gasly be the 2026 F1 Drivers' Champion?](/odds/will-pierre-gasly-be-the-2026-f1-drivers-champion) — 0% YES
 - [Will Sergio Pérez be the 2026 F1 Drivers' Champion?](/odds/will-sergio-prez-be-the-2026-f1-drivers-champion) — 0% YES
+- [Will Pierre Gasly be the 2026 F1 Drivers' Champion?](/odds/will-pierre-gasly-be-the-2026-f1-drivers-champion) — 0% YES
 - [Will Houston Texans win the 2027 NFL AFC Championship?](/odds/will-houston-texans-win-the-2027-nfl-afc-championship) — 9% YES
 
 ## Frequently Asked Questions

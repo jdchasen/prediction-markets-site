@@ -1,23 +1,23 @@
 ---
-title: "Tshisekedi out as President of the DRC by December 31, 2026?"
-description: "Tshisekedi out as President of the DRC by December 31, 2026? Odds: 8.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Tshisekedi out as President of the DRC by December 31, 2026?"
+title: "Will Cristopher Sanchez win the 2026 NL Cy Young Award?"
+description: "Will Cristopher Sanchez win the 2026 NL Cy Young Award? Odds: 29.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Cristopher Sanchez win the 2026 NL Cy Young Award?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-05-28
-expiryDate: 2026-12-31
+expiryDate: 2026-11-12
 tags: ["politics", "polymarket"]
-polymarketYes: 8.5
-polymarketNo: 91.5
-polymarketVolume: 9895
-polymarketUrl: "https://polymarket.com/event/tshisekedi-out-as-president-of-the-drc-by-end-of-2026"
+polymarketYes: 29.5
+polymarketNo: 70.5
+polymarketVolume: 9998
+polymarketUrl: "https://polymarket.com/event/will-cristopher-sanchez-win-the-2026-nl-cy-young-award"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 8.5% | 91.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 29.5% | 70.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/tshisekedi-out-as-president-of-the-
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Tshisekedi out as President of the DRC by December 31, 2026?"?
+### What are the current odds for "Will Cristopher Sanchez win the 2026 NL Cy Young Award?"?
 
-As of May 28, 2026, Polymarket prices YES at 8.5%.
+As of May 28, 2026, Polymarket prices YES at 29.5%.
 
 ### Where can I trade on this prediction market?
 

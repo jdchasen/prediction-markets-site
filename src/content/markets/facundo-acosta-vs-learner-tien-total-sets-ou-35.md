@@ -3,7 +3,7 @@ title: "Facundo Acosta vs. Learner Tien: Total Sets O/U 3.5"
 description: "Facundo Acosta vs. Learner Tien: Total Sets O/U 3.5 Odds: 100.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Facundo Acosta vs. Learner Tien: Total Sets O/U 3.5"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-28
 expiryDate: 2026-06-04
 tags: ["politics", "polymarket"]

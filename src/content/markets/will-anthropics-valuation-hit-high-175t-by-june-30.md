@@ -3,7 +3,7 @@ title: "Will Anthropic’s valuation hit (HIGH) $1.75T by June 30?"
 description: "Will Anthropic’s valuation hit (HIGH) $1.75T by June 30? Odds: 1.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Anthropic’s valuation hit (HIGH) $1.75T by June 30?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-28
 expiryDate: 2026-07-01
 tags: ["politics", "polymarket"]

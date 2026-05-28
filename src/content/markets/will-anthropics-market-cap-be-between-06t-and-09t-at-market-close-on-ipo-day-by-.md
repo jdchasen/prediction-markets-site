@@ -21,8 +21,8 @@ polymarketUrl: "https://polymarket.com/event/will-anthropics-market-cap-be-betwe
 
 ## Related Markets
 
-- [Will SpaceX's market cap be between $1.0T and $1.5T at market close on IPO day?](/odds/will-spacexs-market-cap-be-between-10t-and-15t-at-market-close-on-ipo-day) — 4% YES
 - [Will SHEIN have the highest IPO Market Cap 2026?](/odds/will-shein-have-the-highest-ipo-market-cap-2026) — 0% YES
+- [Will SpaceX's market cap be less than $1.0T at market close on IPO day?](/odds/will-spacexs-market-cap-be-less-than-10t-at-market-close-on-ipo-day) — 2% YES
 - [Anysphere (Cursor) IPO before 2027?](/odds/anysphere-cursor-ipo-before-2027) — 4% YES
 
 ## Frequently Asked Questions

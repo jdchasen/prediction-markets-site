@@ -8,8 +8,8 @@ lastUpdated: 2026-05-28
 expiryDate: 2028-11-07
 tags: ["politics", "polymarket"]
 polymarketYes: 1.1
-polymarketNo: 98.9
-polymarketVolume: 9916599
+polymarketNo: 99.0
+polymarketVolume: 9950030
 polymarketUrl: "https://polymarket.com/event/will-gretchen-whitmer-win-the-2028-democratic-presidential-nomination-676"
 ---
 
@@ -17,13 +17,13 @@ polymarketUrl: "https://polymarket.com/event/will-gretchen-whitmer-win-the-2028-
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 1.1% | 98.9% | $9.9M | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 1.1% | 99.0% | $10.0M | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Kharg Island no longer under Iranian control by May 31?](/odds/kharg-island-no-longer-under-iranian-control-by-may-31) — 1% YES
 - [Will Wes Moore win the 2028 US Presidential Election?](/odds/will-wes-moore-win-the-2028-us-presidential-election) — 1% YES
-- [Will Raphaël Glucksmann win the 2027 French presidential election?](/odds/will-raphal-glucksmann-win-the-2027-french-presidential-election) — 3% YES
+- [Will Butch Ware win the California Governor Election in 2026?](/odds/will-butch-ware-win-the-california-governor-election-in-2026) — 0% YES
+- [Will Charlie Kirk win the Nobel Peace Prize in 2026?](/odds/will-charlie-kirk-win-the-nobel-peace-prize-in-2026) — 1% YES
 
 ## Frequently Asked Questions
 

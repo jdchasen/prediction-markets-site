@@ -3,7 +3,7 @@ title: "Will NVIDIA (NVDA) hit (HIGH) $240 in May?"
 description: "Will NVIDIA (NVDA) hit (HIGH) $240 in May? Odds: 0.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will NVIDIA (NVDA) hit (HIGH) $240 in May?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-28
 expiryDate: 2026-06-01
 tags: ["politics", "polymarket"]

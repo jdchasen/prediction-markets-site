@@ -3,7 +3,7 @@ title: "Will Morocco win on 2026-06-13?"
 description: "Will Morocco win on 2026-06-13? Odds: 17.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Morocco win on 2026-06-13?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-28
 expiryDate: 2026-06-13
 tags: ["politics", "polymarket"]

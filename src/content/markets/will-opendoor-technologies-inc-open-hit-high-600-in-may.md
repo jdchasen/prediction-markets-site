@@ -3,7 +3,7 @@ title: "Will Opendoor Technologies Inc. (OPEN) hit (HIGH) $6.00 in May?"
 description: "Will Opendoor Technologies Inc. (OPEN) hit (HIGH) $6.00 in May? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Opendoor Technologies Inc. (OPEN) hit (HIGH) $6.00 in May?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-28
 expiryDate: 2026-06-01
 tags: ["politics", "polymarket"]

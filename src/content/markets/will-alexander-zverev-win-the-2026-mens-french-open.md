@@ -1,23 +1,23 @@
 ---
-title: "Tshisekedi out as President of the DRC by December 31, 2026?"
-description: "Tshisekedi out as President of the DRC by December 31, 2026? Odds: 8.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Tshisekedi out as President of the DRC by December 31, 2026?"
+title: "Will Alexander Zverev win the 2026 Men's French Open?"
+description: "Will Alexander Zverev win the 2026 Men's French Open? Odds: 30.9% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Alexander Zverev win the 2026 Men's French Open?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-05-28
-expiryDate: 2026-12-31
+expiryDate: 2026-06-07
 tags: ["politics", "polymarket"]
-polymarketYes: 8.5
-polymarketNo: 91.5
-polymarketVolume: 9895
-polymarketUrl: "https://polymarket.com/event/tshisekedi-out-as-president-of-the-drc-by-end-of-2026"
+polymarketYes: 30.9
+polymarketNo: 69.2
+polymarketVolume: 985715
+polymarketUrl: "https://polymarket.com/event/will-alexander-zverev-win-the-2026-mens-french-open"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 8.5% | 91.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 30.9% | 69.2% | $986K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/tshisekedi-out-as-president-of-the-
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Tshisekedi out as President of the DRC by December 31, 2026?"?
+### What are the current odds for "Will Alexander Zverev win the 2026 Men's French Open?"?
 
-As of May 28, 2026, Polymarket prices YES at 8.5%.
+As of May 28, 2026, Polymarket prices YES at 30.9%.
 
 ### Where can I trade on this prediction market?
 
