@@ -23,7 +23,7 @@ polymarketUrl: "https://polymarket.com/event/will-houston-texans-win-the-2027-nf
 
 - [Will Pierre Gasly be the 2026 F1 Drivers' Champion?](/odds/will-pierre-gasly-be-the-2026-f1-drivers-champion) — 0% YES
 - [Will Liam Lawson be the 2026 F1 Drivers' Champion?](/odds/will-liam-lawson-be-the-2026-f1-drivers-champion) — 0% YES
-- [Will Baker Mayfield win the 2026 NFL MVP?](/odds/will-baker-mayfield-win-the-2026-nfl-mvp) — 1% YES
+- [Will Baker Mayfield win the 2026 NFL MVP?](/odds/will-baker-mayfield-win-the-2026-nfl-mvp) — 4% YES
 
 ## Frequently Asked Questions
 

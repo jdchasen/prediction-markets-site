@@ -3,7 +3,7 @@ title: "Will S&P 500 (SPX) hit $7,600 (HIGH) in December?"
 description: "Will S&P 500 (SPX) hit $7,600 (HIGH) in December? Odds: 91.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will S&P 500 (SPX) hit $7,600 (HIGH) in December?"
 category: "finance"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-29
 expiryDate: 2026-12-31
 tags: ["finance", "polymarket", "stocks"]

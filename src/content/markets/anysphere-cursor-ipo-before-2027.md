@@ -23,7 +23,7 @@ polymarketUrl: "https://polymarket.com/event/anysphere-cursor-ipo-before-2027"
 
 - [Will Discord have the highest IPO Market Cap 2026?](/odds/will-discord-have-the-highest-ipo-market-cap-2026) — 0% YES
 - [Will SHEIN have the highest IPO Market Cap 2026?](/odds/will-shein-have-the-highest-ipo-market-cap-2026) — 0% YES
-- [OpenAI IPO closing market cap above $800B?](/odds/openai-ipo-closing-market-cap-above-800b) — 85% YES
+- [OpenAI IPO closing market cap above $800B?](/odds/openai-ipo-closing-market-cap-above-800b) — 84% YES
 
 ## Frequently Asked Questions
 

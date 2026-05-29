@@ -1,13 +1,13 @@
 ---
 title: "Will the Democrats win the Georgia Senate race in 2026?"
-description: "Will the Democrats win the Georgia Senate race in 2026? Odds: 84.0% YES on Polymarket. See live prices and trade this market."
+description: "Will the Democrats win the Georgia Senate race in 2026? Odds: 83.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Democrats win the Georgia Senate race in 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-05-29
 tags: ["politics", "polymarket"]
-polymarketYes: 84.0
-polymarketNo: 16.0
+polymarketYes: 83.5
+polymarketNo: 16.5
 polymarketVolume: 9754
 polymarketUrl: "https://polymarket.com/event/will-the-democrats-win-the-georgia-senate-race-in-2026"
 ---
@@ -16,7 +16,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-democrats-win-the-georgia-
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 84.0% | 16.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 83.5% | 16.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -28,7 +28,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-democrats-win-the-georgia-
 
 ### What are the current odds for "Will the Democrats win the Georgia Senate race in 2026?"?
 
-As of May 29, 2026, Polymarket prices YES at 84.0%.
+As of May 29, 2026, Polymarket prices YES at 83.5%.
 
 ### Where can I trade on this prediction market?
 

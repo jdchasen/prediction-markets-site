@@ -9,7 +9,7 @@ expiryDate: 2026-12-06
 tags: ["polymarket", "sports"]
 polymarketYes: 0.2
 polymarketNo: 99.8
-polymarketVolume: 9979207
+polymarketVolume: 9994660
 polymarketUrl: "https://polymarket.com/event/will-pierre-gasly-be-the-2026-f1-drivers-champion"
 ---
 
@@ -23,7 +23,7 @@ polymarketUrl: "https://polymarket.com/event/will-pierre-gasly-be-the-2026-f1-dr
 
 - [Will Liam Lawson be the 2026 F1 Drivers' Champion?](/odds/will-liam-lawson-be-the-2026-f1-drivers-champion) — 0% YES
 - [Will Houston Texans win the 2027 NFL AFC Championship?](/odds/will-houston-texans-win-the-2027-nfl-afc-championship) — 10% YES
-- [Will Baker Mayfield win the 2026 NFL MVP?](/odds/will-baker-mayfield-win-the-2026-nfl-mvp) — 1% YES
+- [Will Baker Mayfield win the 2026 NFL MVP?](/odds/will-baker-mayfield-win-the-2026-nfl-mvp) — 4% YES
 
 ## Frequently Asked Questions
 

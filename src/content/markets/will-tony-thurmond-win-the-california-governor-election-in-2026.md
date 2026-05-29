@@ -3,7 +3,7 @@ title: "Will Tony Thurmond win the California Governor Election in 2026?"
 description: "Will Tony Thurmond win the California Governor Election in 2026? Odds: 0.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Tony Thurmond win the California Governor Election in 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-29
 expiryDate: 2026-11-03
 tags: ["elections", "politics", "polymarket"]

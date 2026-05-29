@@ -3,7 +3,7 @@ title: "Will Cap launch a token by June 30, 2026?"
 description: "Will Cap launch a token by June 30, 2026? Odds: 8.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Cap launch a token by June 30, 2026?"
 category: "crypto"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-29
 expiryDate: 2026-07-01
 tags: ["crypto", "polymarket"]

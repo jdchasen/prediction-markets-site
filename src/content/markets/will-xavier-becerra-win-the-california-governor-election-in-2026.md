@@ -1,23 +1,23 @@
 ---
-title: "Will Ilia Topuria be the UFC Lightweight Champion on December 31, 2026?"
-description: "Will Ilia Topuria be the UFC Lightweight Champion on December 31, 2026? Odds: 72.0% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Ilia Topuria be the UFC Lightweight Champion on December 31, 2026?"
+title: "Will Xavier Becerra win the California Governor Election in 2026?"
+description: "Will Xavier Becerra win the California Governor Election in 2026? Odds: 65.8% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Xavier Becerra win the California Governor Election in 2026?"
 category: "politics"
-status: "settled"
+status: "active"
 lastUpdated: 2026-05-29
-expiryDate: 2026-12-31
-tags: ["politics", "polymarket"]
-polymarketYes: 72.0
-polymarketNo: 28.0
-polymarketVolume: 9999
-polymarketUrl: "https://polymarket.com/event/will-ilia-topuria-be-the-ufc-lightweight-champion-on-december-31-2026"
+expiryDate: 2026-11-03
+tags: ["elections", "politics", "polymarket"]
+polymarketYes: 65.8
+polymarketNo: 34.2
+polymarketVolume: 981344
+polymarketUrl: "https://polymarket.com/event/will-xavier-becerra-win-the-california-governor-election-in-2026"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 72.0% | 28.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 65.8% | 34.2% | $981K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-ilia-topuria-be-the-ufc-lightw
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Ilia Topuria be the UFC Lightweight Champion on December 31, 2026?"?
+### What are the current odds for "Will Xavier Becerra win the California Governor Election in 2026?"?
 
-As of May 29, 2026, Polymarket prices YES at 72.0%.
+As of May 29, 2026, Polymarket prices YES at 65.8%.
 
 ### Where can I trade on this prediction market?
 

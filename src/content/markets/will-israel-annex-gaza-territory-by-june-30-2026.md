@@ -1,23 +1,23 @@
 ---
-title: "Will Ilia Topuria be the UFC Lightweight Champion on December 31, 2026?"
-description: "Will Ilia Topuria be the UFC Lightweight Champion on December 31, 2026? Odds: 72.0% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Ilia Topuria be the UFC Lightweight Champion on December 31, 2026?"
+title: "Will Israel annex Gaza territory by June 30 2026?"
+description: "Will Israel annex Gaza territory by June 30 2026? Odds: 4.2% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Israel annex Gaza territory by June 30 2026?"
 category: "politics"
-status: "settled"
+status: "active"
 lastUpdated: 2026-05-29
-expiryDate: 2026-12-31
+expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
-polymarketYes: 72.0
-polymarketNo: 28.0
-polymarketVolume: 9999
-polymarketUrl: "https://polymarket.com/event/will-ilia-topuria-be-the-ufc-lightweight-champion-on-december-31-2026"
+polymarketYes: 4.2
+polymarketNo: 95.8
+polymarketVolume: 97327
+polymarketUrl: "https://polymarket.com/event/will-israel-annex-gaza-territory-by-2026"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 72.0% | 28.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 4.2% | 95.8% | $97K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-ilia-topuria-be-the-ufc-lightw
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Ilia Topuria be the UFC Lightweight Champion on December 31, 2026?"?
+### What are the current odds for "Will Israel annex Gaza territory by June 30 2026?"?
 
-As of May 29, 2026, Polymarket prices YES at 72.0%.
+As of May 29, 2026, Polymarket prices YES at 4.2%.
 
 ### Where can I trade on this prediction market?
 

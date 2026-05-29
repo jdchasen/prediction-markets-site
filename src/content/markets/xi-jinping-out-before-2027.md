@@ -1,15 +1,15 @@
 ---
 title: "Xi Jinping out before 2027?"
-description: "Xi Jinping out before 2027? Odds: 7.2% YES on Polymarket. See live prices and trade this market."
+description: "Xi Jinping out before 2027? Odds: 7.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Xi Jinping out before 2027?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-05-29
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 7.2
+polymarketYes: 7.1
 polymarketNo: 92.8
-polymarketVolume: 9755594
+polymarketVolume: 9762605
 polymarketUrl: "https://polymarket.com/event/xi-jinping-out-before-2027"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/xi-jinping-out-before-2027"
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 7.2% | 92.8% | $9.8M | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 7.1% | 92.8% | $9.8M | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/xi-jinping-out-before-2027"
 
 ### What are the current odds for "Xi Jinping out before 2027?"?
 
-As of May 29, 2026, Polymarket prices YES at 7.2%.
+As of May 29, 2026, Polymarket prices YES at 7.1%.
 
 ### Where can I trade on this prediction market?
 

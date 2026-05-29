@@ -9,7 +9,7 @@ expiryDate: 2026-06-27
 tags: ["polymarket", "sports"]
 polymarketYes: 2.5
 polymarketNo: 97.5
-polymarketVolume: 9827
+polymarketVolume: 9832
 polymarketUrl: "https://polymarket.com/event/will-uzbekistan-win-group-k-in-the-2026-fifa-world-cup"
 ---
 

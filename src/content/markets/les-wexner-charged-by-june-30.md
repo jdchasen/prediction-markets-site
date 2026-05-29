@@ -1,14 +1,14 @@
 ---
 title: "Les Wexner charged by June 30?"
-description: "Les Wexner charged by June 30? Odds: 7.2% YES on Polymarket. See live prices and trade this market."
+description: "Les Wexner charged by June 30? Odds: 7.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Les Wexner charged by June 30?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-05-29
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
-polymarketYes: 7.2
-polymarketNo: 92.8
+polymarketYes: 7.4
+polymarketNo: 92.5
 polymarketVolume: 9902
 polymarketUrl: "https://polymarket.com/event/les-wexner-charged-by-june-30"
 ---
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/les-wexner-charged-by-june-30"
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 7.2% | 92.8% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 7.4% | 92.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/les-wexner-charged-by-june-30"
 
 ### What are the current odds for "Les Wexner charged by June 30?"?
 
-As of May 29, 2026, Polymarket prices YES at 7.2%.
+As of May 29, 2026, Polymarket prices YES at 7.4%.
 
 ### Where can I trade on this prediction market?
 
