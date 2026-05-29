@@ -3,8 +3,8 @@ title: "Will OpenAI's valuation hit (HIGH) $850B by June 30?"
 description: "Will OpenAI's valuation hit (HIGH) $850B by June 30? Odds: 83.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will OpenAI's valuation hit (HIGH) $850B by June 30?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-28
+status: "settled"
+lastUpdated: 2026-05-29
 expiryDate: 2026-07-01
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 83.5

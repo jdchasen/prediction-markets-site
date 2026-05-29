@@ -4,7 +4,7 @@ description: "Will Elon Musk post 400-419 tweets from May 26 to June 2, 2026? Od
 marketQuestion: "Will Elon Musk post 400-419 tweets from May 26 to June 2, 2026?"
 category: "tech"
 status: "active"
-lastUpdated: 2026-05-28
+lastUpdated: 2026-05-29
 expiryDate: 2026-06-02
 tags: ["polymarket", "tech"]
 polymarketYes: 0.1
@@ -21,15 +21,13 @@ polymarketUrl: "https://polymarket.com/event/elon-musk-of-tweets-may-26-june-2-4
 
 ## Related Markets
 
-- [Will Elon Musk post 1160-1199 tweets in May 2026?](/odds/will-elon-musk-post-1160-1199-tweets-in-may-2026) — 0% YES
-- [Will more than 16 SpaceX Starship launches successfully reach Space in 2026?](/odds/will-more-than-16-spacex-starship-launches-successfully-reach-space-in-2026) — 3% YES
-- [Will Elon Musk post 360-379 tweets from May 29 to June 5, 2026?](/odds/will-elon-musk-post-360-379-tweets-from-may-29-to-june-5-2026) — 1% YES
+- [Will more than 16 SpaceX Starship launches successfully reach Space in 2026?](/odds/will-more-than-16-spacex-starship-launches-successfully-reach-space-in-2026) — 2% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Elon Musk post 400-419 tweets from May 26 to June 2, 2026?"?
 
-As of May 28, 2026, Polymarket prices YES at 0.1%.
+As of May 29, 2026, Polymarket prices YES at 0.1%.
 
 ### Where can I trade on this prediction market?
 

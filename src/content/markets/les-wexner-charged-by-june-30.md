@@ -1,14 +1,14 @@
 ---
 title: "Les Wexner charged by June 30?"
-description: "Les Wexner charged by June 30? Odds: 7.5% YES on Polymarket. See live prices and trade this market."
+description: "Les Wexner charged by June 30? Odds: 7.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Les Wexner charged by June 30?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-28
+lastUpdated: 2026-05-29
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
-polymarketYes: 7.5
-polymarketNo: 92.5
+polymarketYes: 7.2
+polymarketNo: 92.8
 polymarketVolume: 9902
 polymarketUrl: "https://polymarket.com/event/les-wexner-charged-by-june-30"
 ---
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/les-wexner-charged-by-june-30"
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 7.5% | 92.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 7.2% | 92.8% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Gretchen Whitmer win the 2028 Democratic presidential nomination?](/odds/will-gretchen-whitmer-win-the-2028-democratic-presidential-nomination) — 1% YES
 - [Will Wes Moore win the 2028 US Presidential Election?](/odds/will-wes-moore-win-the-2028-us-presidential-election) — 1% YES
-- [Will Butch Ware win the California Governor Election in 2026?](/odds/will-butch-ware-win-the-california-governor-election-in-2026) — 0% YES
+- [Xi Jinping out before 2027?](/odds/xi-jinping-out-before-2027) — 7% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Les Wexner charged by June 30?"?
 
-As of May 28, 2026, Polymarket prices YES at 7.5%.
+As of May 29, 2026, Polymarket prices YES at 7.2%.
 
 ### Where can I trade on this prediction market?
 

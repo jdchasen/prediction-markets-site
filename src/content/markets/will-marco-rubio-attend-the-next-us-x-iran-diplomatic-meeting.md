@@ -3,8 +3,8 @@ title: "Will Marco Rubio attend the next US x Iran diplomatic meeting?"
 description: "Will Marco Rubio attend the next US x Iran diplomatic meeting? Odds: 18.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Marco Rubio attend the next US x Iran diplomatic meeting?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-28
+status: "settled"
+lastUpdated: 2026-05-29
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
 polymarketYes: 18.2

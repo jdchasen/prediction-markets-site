@@ -1,23 +1,23 @@
 ---
-title: "Will Click Bishop win the 2026 Alaska governor election?"
-description: "Will Click Bishop win the 2026 Alaska governor election? Odds: 6.0% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Click Bishop win the 2026 Alaska governor election?"
+title: "Will Tony Thurmond win the California Governor Election in 2026?"
+description: "Will Tony Thurmond win the California Governor Election in 2026? Odds: 0.2% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Tony Thurmond win the California Governor Election in 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-05-29
 expiryDate: 2026-11-03
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 6.0
-polymarketNo: 94.0
-polymarketVolume: 9938
-polymarketUrl: "https://polymarket.com/event/will-click-bishop-win-the-2026-alaska-governor-election"
+polymarketYes: 0.2
+polymarketNo: 99.8
+polymarketVolume: 993386
+polymarketUrl: "https://polymarket.com/event/will-tony-thurmond-win-the-california-governor-election-in-2026"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 6.0% | 94.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.2% | 99.8% | $993K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-click-bishop-win-the-2026-alas
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Click Bishop win the 2026 Alaska governor election?"?
+### What are the current odds for "Will Tony Thurmond win the California Governor Election in 2026?"?
 
-As of May 29, 2026, Polymarket prices YES at 6.0%.
+As of May 29, 2026, Polymarket prices YES at 0.2%.
 
 ### Where can I trade on this prediction market?
 

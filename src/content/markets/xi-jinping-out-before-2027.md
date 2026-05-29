@@ -1,23 +1,23 @@
 ---
-title: "Lee Jae-myung impeached before 2027?"
-description: "Lee Jae-myung impeached before 2027? Odds: 7.2% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Lee Jae-myung impeached before 2027?"
+title: "Xi Jinping out before 2027?"
+description: "Xi Jinping out before 2027? Odds: 7.2% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Xi Jinping out before 2027?"
 category: "politics"
-status: "settled"
+status: "active"
 lastUpdated: 2026-05-29
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 7.2
 polymarketNo: 92.8
-polymarketVolume: 9906
-polymarketUrl: "https://polymarket.com/event/lee-jae-myung-impeached-before-2027"
+polymarketVolume: 9755594
+polymarketUrl: "https://polymarket.com/event/xi-jinping-out-before-2027"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 7.2% | 92.8% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 7.2% | 92.8% | $9.8M | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/lee-jae-myung-impeached-before-2027
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Lee Jae-myung impeached before 2027?"?
+### What are the current odds for "Xi Jinping out before 2027?"?
 
-As of May 28, 2026, Polymarket prices YES at 7.2%.
+As of May 29, 2026, Polymarket prices YES at 7.2%.
 
 ### Where can I trade on this prediction market?
 

@@ -3,8 +3,8 @@ title: "Will Alexander Zverev win the 2026 Men's French Open?"
 description: "Will Alexander Zverev win the 2026 Men's French Open? Odds: 30.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Alexander Zverev win the 2026 Men's French Open?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-28
+status: "settled"
+lastUpdated: 2026-05-29
 expiryDate: 2026-06-07
 tags: ["politics", "polymarket"]
 polymarketYes: 30.9

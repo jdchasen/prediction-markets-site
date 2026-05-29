@@ -4,7 +4,7 @@ description: "Will the Democratic Party win the PA-16 House seat? Odds: 16.0% YE
 marketQuestion: "Will the Democratic Party win the PA-16 House seat?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-28
+lastUpdated: 2026-05-29
 expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
 polymarketYes: 16.0
@@ -23,13 +23,13 @@ polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-p
 
 - [Will Gretchen Whitmer win the 2028 Democratic presidential nomination?](/odds/will-gretchen-whitmer-win-the-2028-democratic-presidential-nomination) — 1% YES
 - [Will Wes Moore win the 2028 US Presidential Election?](/odds/will-wes-moore-win-the-2028-us-presidential-election) — 1% YES
-- [Will Butch Ware win the California Governor Election in 2026?](/odds/will-butch-ware-win-the-california-governor-election-in-2026) — 0% YES
+- [Xi Jinping out before 2027?](/odds/xi-jinping-out-before-2027) — 7% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will the Democratic Party win the PA-16 House seat?"?
 
-As of May 28, 2026, Polymarket prices YES at 16.0%.
+As of May 29, 2026, Polymarket prices YES at 16.0%.
 
 ### Where can I trade on this prediction market?
 

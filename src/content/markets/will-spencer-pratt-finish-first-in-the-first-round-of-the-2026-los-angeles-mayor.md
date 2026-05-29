@@ -1,17 +1,16 @@
 ---
 title: "Will Spencer Pratt finish first in the first round of the 2026 Los Angeles mayoral election?"
-description: "Will Spencer Pratt finish first in the first round of the 2026 Los Angeles mayoral election? Odds: 20.0% YES on Polymarket. See live prices and trade this ma..."
+description: "Will Spencer Pratt finish first in the first round of the 2026 Los Angeles mayoral election? Odds: 16.0% YES on Polymarket. See live prices and trade this ma..."
 marketQuestion: "Will Spencer Pratt finish first in the first round of the 2026 Los Angeles mayoral election?"
 category: "politics"
-status: "settled"
-lastUpdated: 2026-05-21
+status: "active"
+lastUpdated: 2026-05-29
 expiryDate: 2026-06-02
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 20.0
-polymarketNo: 80.0
-polymarketVolume: 9895
+polymarketYes: 16.0
+polymarketNo: 84.0
+polymarketVolume: 99267
 polymarketUrl: "https://polymarket.com/event/will-spencer-pratt-finish-first-in-the-first-round-of-the-2026-los-angeles-mayoral-election"
-analysisDate: 2026-05-20
 ---
 
 # Spencer Pratt 2026 LA Mayor Analysis

@@ -3,8 +3,8 @@ title: "Will Kim Kyung-soo win the 2026 Gyeongsangnam Province Gubernatorial Ele
 description: "Will Kim Kyung-soo win the 2026 Gyeongsangnam Province Gubernatorial Election? Odds: 45.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Kim Kyung-soo win the 2026 Gyeongsangnam Province Gubernatorial Election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-28
+status: "settled"
+lastUpdated: 2026-05-29
 expiryDate: 2026-06-03
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 45.5

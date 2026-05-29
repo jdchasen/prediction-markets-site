@@ -1,13 +1,13 @@
 ---
 title: "Will the Democrats win the Georgia Senate race in 2026?"
-description: "Will the Democrats win the Georgia Senate race in 2026? Odds: 83.5% YES on Polymarket. See live prices and trade this market."
+description: "Will the Democrats win the Georgia Senate race in 2026? Odds: 84.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Democrats win the Georgia Senate race in 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-28
+lastUpdated: 2026-05-29
 tags: ["politics", "polymarket"]
-polymarketYes: 83.5
-polymarketNo: 16.5
+polymarketYes: 84.0
+polymarketNo: 16.0
 polymarketVolume: 9754
 polymarketUrl: "https://polymarket.com/event/will-the-democrats-win-the-georgia-senate-race-in-2026"
 ---
@@ -16,19 +16,19 @@ polymarketUrl: "https://polymarket.com/event/will-the-democrats-win-the-georgia-
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 83.5% | 16.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 84.0% | 16.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Gretchen Whitmer win the 2028 Democratic presidential nomination?](/odds/will-gretchen-whitmer-win-the-2028-democratic-presidential-nomination) — 1% YES
 - [Will Wes Moore win the 2028 US Presidential Election?](/odds/will-wes-moore-win-the-2028-us-presidential-election) — 1% YES
-- [Will Butch Ware win the California Governor Election in 2026?](/odds/will-butch-ware-win-the-california-governor-election-in-2026) — 0% YES
+- [Xi Jinping out before 2027?](/odds/xi-jinping-out-before-2027) — 7% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will the Democrats win the Georgia Senate race in 2026?"?
 
-As of May 28, 2026, Polymarket prices YES at 83.5%.
+As of May 29, 2026, Polymarket prices YES at 84.0%.
 
 ### Where can I trade on this prediction market?
 

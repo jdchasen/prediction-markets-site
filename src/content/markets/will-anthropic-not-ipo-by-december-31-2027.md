@@ -3,8 +3,8 @@ title: "Will Anthropic not IPO by December 31 2027?"
 description: "Will Anthropic not IPO by December 31 2027? Odds: 12.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Anthropic not IPO by December 31 2027?"
 category: "finance"
-status: "active"
-lastUpdated: 2026-05-28
+status: "settled"
+lastUpdated: 2026-05-29
 expiryDate: 2027-12-31
 tags: ["finance", "polymarket"]
 polymarketYes: 12.5

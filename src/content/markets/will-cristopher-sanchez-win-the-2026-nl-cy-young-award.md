@@ -3,8 +3,8 @@ title: "Will Cristopher Sanchez win the 2026 NL Cy Young Award?"
 description: "Will Cristopher Sanchez win the 2026 NL Cy Young Award? Odds: 29.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Cristopher Sanchez win the 2026 NL Cy Young Award?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-28
+status: "settled"
+lastUpdated: 2026-05-29
 expiryDate: 2026-11-12
 tags: ["politics", "polymarket"]
 polymarketYes: 29.5

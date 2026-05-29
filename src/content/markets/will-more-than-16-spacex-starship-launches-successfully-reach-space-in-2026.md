@@ -1,14 +1,14 @@
 ---
 title: "Will more than 16 SpaceX Starship launches successfully reach Space in 2026?"
-description: "Will more than 16 SpaceX Starship launches successfully reach Space in 2026? Odds: 2.8% YES on Polymarket. See live prices and trade this market."
+description: "Will more than 16 SpaceX Starship launches successfully reach Space in 2026? Odds: 2.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will more than 16 SpaceX Starship launches successfully reach Space in 2026?"
 category: "tech"
 status: "active"
-lastUpdated: 2026-05-28
+lastUpdated: 2026-05-29
 expiryDate: 2026-12-31
 tags: ["polymarket", "tech"]
-polymarketYes: 2.8
-polymarketNo: 97.2
+polymarketYes: 2.2
+polymarketNo: 97.8
 polymarketVolume: 9961
 polymarketUrl: "https://polymarket.com/event/will-more-than-16-spacex-starship-launches-successfully-reach-space-in-2026"
 ---
@@ -17,19 +17,17 @@ polymarketUrl: "https://polymarket.com/event/will-more-than-16-spacex-starship-l
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 2.8% | 97.2% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 2.2% | 97.8% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Elon Musk post 1160-1199 tweets in May 2026?](/odds/will-elon-musk-post-1160-1199-tweets-in-may-2026) — 0% YES
 - [Will Elon Musk post 400-419 tweets from May 26 to June 2, 2026?](/odds/will-elon-musk-post-400-419-tweets-from-may-26-to-june-2-2026) — 0% YES
-- [Will Elon Musk post 360-379 tweets from May 29 to June 5, 2026?](/odds/will-elon-musk-post-360-379-tweets-from-may-29-to-june-5-2026) — 1% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will more than 16 SpaceX Starship launches successfully reach Space in 2026?"?
 
-As of May 28, 2026, Polymarket prices YES at 2.8%.
+As of May 29, 2026, Polymarket prices YES at 2.2%.
 
 ### Where can I trade on this prediction market?
 

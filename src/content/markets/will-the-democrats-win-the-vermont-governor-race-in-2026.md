@@ -3,8 +3,8 @@ title: "Will the Democrats win the Vermont governor race in 2026?"
 description: "Will the Democrats win the Vermont governor race in 2026? Odds: 8.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Democrats win the Vermont governor race in 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-28
+status: "settled"
+lastUpdated: 2026-05-29
 tags: ["politics", "polymarket"]
 polymarketYes: 8.5
 polymarketNo: 91.5

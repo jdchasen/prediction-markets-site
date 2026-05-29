@@ -1,23 +1,23 @@
 ---
-title: "OpenAI IPO closing market cap above $800B?"
-description: "OpenAI IPO closing market cap above $800B? Odds: 85.0% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "OpenAI IPO closing market cap above $800B?"
+title: "Will S&P 500 (SPX) hit $7,600 (HIGH) in December?"
+description: "Will S&P 500 (SPX) hit $7,600 (HIGH) in December? Odds: 91.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will S&P 500 (SPX) hit $7,600 (HIGH) in December?"
 category: "finance"
 status: "active"
 lastUpdated: 2026-05-29
-expiryDate: 2027-12-31
-tags: ["ai", "finance", "polymarket"]
-polymarketYes: 85.0
-polymarketNo: 15.0
-polymarketVolume: 97741
-polymarketUrl: "https://polymarket.com/event/openai-ipo-closing-market-cap-above-800b"
+expiryDate: 2026-12-31
+tags: ["finance", "polymarket", "stocks"]
+polymarketYes: 91.5
+polymarketNo: 8.5
+polymarketVolume: 9825
+polymarketUrl: "https://polymarket.com/event/spx-hit-7600-high-dec-2026"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 85.0% | 15.0% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 91.5% | 8.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/openai-ipo-closing-market-cap-above
 
 ## Frequently Asked Questions
 
-### What are the current odds for "OpenAI IPO closing market cap above $800B?"?
+### What are the current odds for "Will S&P 500 (SPX) hit $7,600 (HIGH) in December?"?
 
-As of May 29, 2026, Polymarket prices YES at 85.0%.
+As of May 29, 2026, Polymarket prices YES at 91.5%.
 
 ### Where can I trade on this prediction market?
 

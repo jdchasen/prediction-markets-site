@@ -1,14 +1,14 @@
 ---
 title: "GRVT FDV above $200M one day after launch?"
-description: "GRVT FDV above $200M one day after launch? Odds: 73.5% YES on Polymarket. See live prices and trade this market."
+description: "GRVT FDV above $200M one day after launch? Odds: 74.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "GRVT FDV above $200M one day after launch?"
 category: "crypto"
 status: "active"
-lastUpdated: 2026-05-28
+lastUpdated: 2026-05-29
 expiryDate: 2028-01-01
 tags: ["crypto", "polymarket"]
-polymarketYes: 73.5
-polymarketNo: 26.5
+polymarketYes: 74.0
+polymarketNo: 26.0
 polymarketVolume: 98938
 polymarketUrl: "https://polymarket.com/event/grvt-fdv-above-200m-one-day-after-launch"
 ---
@@ -17,13 +17,17 @@ polymarketUrl: "https://polymarket.com/event/grvt-fdv-above-200m-one-day-after-l
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 73.5% | 26.5% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 74.0% | 26.0% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+
+## Related Markets
+
+- [Will Cap launch a token by June 30, 2026?](/odds/will-cap-launch-a-token-by-june-30-2026) — 8% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "GRVT FDV above $200M one day after launch?"?
 
-As of May 28, 2026, Polymarket prices YES at 73.5%.
+As of May 29, 2026, Polymarket prices YES at 74.0%.
 
 ### Where can I trade on this prediction market?
 

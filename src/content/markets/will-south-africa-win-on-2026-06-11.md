@@ -3,8 +3,8 @@ title: "Will South Africa win on 2026-06-11?"
 description: "Will South Africa win on 2026-06-11? Odds: 12.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will South Africa win on 2026-06-11?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-28
+status: "settled"
+lastUpdated: 2026-05-29
 expiryDate: 2026-06-11
 tags: ["politics", "polymarket"]
 polymarketYes: 12.5
