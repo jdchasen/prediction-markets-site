@@ -3,8 +3,8 @@ title: "US x Cuba diplomatic meeting by June 30?"
 description: "US x Cuba diplomatic meeting by June 30? Odds: 94.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "US x Cuba diplomatic meeting by June 30?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-29
+status: "settled"
+lastUpdated: 2026-05-30
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
 polymarketYes: 94.5

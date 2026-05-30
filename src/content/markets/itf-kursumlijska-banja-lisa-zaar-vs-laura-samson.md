@@ -1,23 +1,23 @@
 ---
-title: "U.S. enacts AI safety bill before 2027?"
-description: "U.S. enacts AI safety bill before 2027? Odds: 12.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "U.S. enacts AI safety bill before 2027?"
+title: "ITF Kursumlijska Banja: Lisa Zaar vs Laura Samson"
+description: "ITF Kursumlijska Banja: Lisa Zaar vs Laura Samson Odds: 0.1% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "ITF Kursumlijska Banja: Lisa Zaar vs Laura Samson"
 category: "politics"
 status: "active"
 lastUpdated: 2026-05-30
-expiryDate: 2026-12-31
-tags: ["ai", "politics", "polymarket"]
-polymarketYes: 12.5
-polymarketNo: 87.5
-polymarketVolume: 99335
-polymarketUrl: "https://polymarket.com/event/us-enacts-ai-safety-bill-before-2027"
+expiryDate: 2026-06-06
+tags: ["politics", "polymarket"]
+polymarketYes: 0.1
+polymarketNo: 100.0
+polymarketVolume: 9755
+polymarketUrl: "https://polymarket.com/event/itf-zaar-samson-2026-05-30"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 12.5% | 87.5% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.1% | 100.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/us-enacts-ai-safety-bill-before-202
 
 ## Frequently Asked Questions
 
-### What are the current odds for "U.S. enacts AI safety bill before 2027?"?
+### What are the current odds for "ITF Kursumlijska Banja: Lisa Zaar vs Laura Samson"?
 
-As of May 30, 2026, Polymarket prices YES at 12.5%.
+As of May 30, 2026, Polymarket prices YES at 0.1%.
 
 ### Where can I trade on this prediction market?
 

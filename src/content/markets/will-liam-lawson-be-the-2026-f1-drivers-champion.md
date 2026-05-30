@@ -4,12 +4,12 @@ description: "Will Liam Lawson be the 2026 F1 Drivers' Champion? Odds: 0.2% YES 
 marketQuestion: "Will Liam Lawson be the 2026 F1 Drivers' Champion?"
 category: "sports"
 status: "active"
-lastUpdated: 2026-05-29
+lastUpdated: 2026-05-30
 expiryDate: 2026-12-06
 tags: ["polymarket", "sports"]
 polymarketYes: 0.2
 polymarketNo: 99.8
-polymarketVolume: 9789400
+polymarketVolume: 9800063
 polymarketUrl: "https://polymarket.com/event/will-liam-lawson-be-the-2026-f1-drivers-champion"
 ---
 
@@ -21,15 +21,15 @@ polymarketUrl: "https://polymarket.com/event/will-liam-lawson-be-the-2026-f1-dri
 
 ## Related Markets
 
-- [Will Pierre Gasly be the 2026 F1 Drivers' Champion?](/odds/will-pierre-gasly-be-the-2026-f1-drivers-champion) — 0% YES
-- [Will Houston Texans win the 2027 NFL AFC Championship?](/odds/will-houston-texans-win-the-2027-nfl-afc-championship) — 10% YES
-- [Will Baker Mayfield win the 2026 NFL MVP?](/odds/will-baker-mayfield-win-the-2026-nfl-mvp) — 4% YES
+- [Will Houston Texans win the 2027 NFL AFC Championship?](/odds/will-houston-texans-win-the-2027-nfl-afc-championship) — 9% YES
+- [Will Baker Mayfield win the 2026 NFL MVP?](/odds/will-baker-mayfield-win-the-2026-nfl-mvp) — 2% YES
+- [Will Uzbekistan win Group K in the 2026 FIFA World Cup?](/odds/will-uzbekistan-win-group-k-in-the-2026-fifa-world-cup) — 2% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Liam Lawson be the 2026 F1 Drivers' Champion?"?
 
-As of May 29, 2026, Polymarket prices YES at 0.2%.
+As of May 30, 2026, Polymarket prices YES at 0.2%.
 
 ### Where can I trade on this prediction market?
 

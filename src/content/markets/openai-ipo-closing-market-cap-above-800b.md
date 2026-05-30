@@ -1,15 +1,15 @@
 ---
 title: "OpenAI IPO closing market cap above $800B?"
-description: "OpenAI IPO closing market cap above $800B? Odds: 83.5% YES on Polymarket. See live prices and trade this market."
+description: "OpenAI IPO closing market cap above $800B? Odds: 80.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "OpenAI IPO closing market cap above $800B?"
 category: "finance"
 status: "active"
-lastUpdated: 2026-05-29
+lastUpdated: 2026-05-30
 expiryDate: 2027-12-31
 tags: ["ai", "finance", "polymarket"]
-polymarketYes: 83.5
-polymarketNo: 16.5
-polymarketVolume: 97742
+polymarketYes: 80.5
+polymarketNo: 19.5
+polymarketVolume: 97842
 polymarketUrl: "https://polymarket.com/event/openai-ipo-closing-market-cap-above-800b"
 ---
 
@@ -17,11 +17,10 @@ polymarketUrl: "https://polymarket.com/event/openai-ipo-closing-market-cap-above
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 83.5% | 16.5% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 80.5% | 19.5% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Discord have the highest IPO Market Cap 2026?](/odds/will-discord-have-the-highest-ipo-market-cap-2026) — 0% YES
 - [Will SHEIN have the highest IPO Market Cap 2026?](/odds/will-shein-have-the-highest-ipo-market-cap-2026) — 0% YES
 - [Anysphere (Cursor) IPO before 2027?](/odds/anysphere-cursor-ipo-before-2027) — 4% YES
 
@@ -29,7 +28,7 @@ polymarketUrl: "https://polymarket.com/event/openai-ipo-closing-market-cap-above
 
 ### What are the current odds for "OpenAI IPO closing market cap above $800B?"?
 
-As of May 29, 2026, Polymarket prices YES at 83.5%.
+As of May 30, 2026, Polymarket prices YES at 80.5%.
 
 ### Where can I trade on this prediction market?
 

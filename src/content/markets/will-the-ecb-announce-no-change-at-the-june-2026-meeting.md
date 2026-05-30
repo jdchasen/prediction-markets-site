@@ -1,15 +1,15 @@
 ---
 title: "Will the ECB announce no change at the June 2026 meeting?"
-description: "Will the ECB announce no change at the June 2026 meeting? Odds: 4.5% YES on Polymarket. See live prices and trade this market."
+description: "Will the ECB announce no change at the June 2026 meeting? Odds: 4.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the ECB announce no change at the June 2026 meeting?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-29
+lastUpdated: 2026-05-30
 expiryDate: 2026-06-11
 tags: ["politics", "polymarket"]
-polymarketYes: 4.5
-polymarketNo: 95.5
-polymarketVolume: 98065
+polymarketYes: 4.7
+polymarketNo: 95.3
+polymarketVolume: 98392
 polymarketUrl: "https://polymarket.com/event/will-the-ecb-announce-no-change-at-the-june-2026-meeting"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-ecb-announce-no-change-at-
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 4.5% | 95.5% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 4.7% | 95.3% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-ecb-announce-no-change-at-
 
 ### What are the current odds for "Will the ECB announce no change at the June 2026 meeting?"?
 
-As of May 29, 2026, Polymarket prices YES at 4.5%.
+As of May 30, 2026, Polymarket prices YES at 4.7%.
 
 ### Where can I trade on this prediction market?
 

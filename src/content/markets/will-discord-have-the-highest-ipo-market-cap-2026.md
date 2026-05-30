@@ -3,8 +3,8 @@ title: "Will Discord have the highest IPO Market Cap 2026?"
 description: "Will Discord have the highest IPO Market Cap 2026? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Discord have the highest IPO Market Cap 2026?"
 category: "finance"
-status: "active"
-lastUpdated: 2026-05-29
+status: "settled"
+lastUpdated: 2026-05-30
 expiryDate: 2026-12-31
 tags: ["finance", "polymarket"]
 polymarketYes: 0.1

@@ -4,7 +4,7 @@ description: "Will more than 16 SpaceX Starship launches successfully reach Spac
 marketQuestion: "Will more than 16 SpaceX Starship launches successfully reach Space in 2026?"
 category: "tech"
 status: "active"
-lastUpdated: 2026-05-29
+lastUpdated: 2026-05-30
 expiryDate: 2026-12-31
 tags: ["polymarket", "tech"]
 polymarketYes: 2.2
@@ -19,11 +19,15 @@ polymarketUrl: "https://polymarket.com/event/will-more-than-16-spacex-starship-l
 |----------|-----|-----|--------|-------|
 | Polymarket | 2.2% | 97.8% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
+## Related Markets
+
+- [Will Elon Musk post 260-279 tweets from May 26 to June 2, 2026?](/odds/will-elon-musk-post-260-279-tweets-from-may-26-to-june-2-2026) — 1% YES
+
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will more than 16 SpaceX Starship launches successfully reach Space in 2026?"?
 
-As of May 29, 2026, Polymarket prices YES at 2.2%.
+As of May 30, 2026, Polymarket prices YES at 2.2%.
 
 ### Where can I trade on this prediction market?
 

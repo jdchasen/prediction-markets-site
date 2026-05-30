@@ -4,7 +4,7 @@ description: "Will Baidu have the second best AI model at the end of June 2026? 
 marketQuestion: "Will Baidu have the second best AI model at the end of June 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-29
+lastUpdated: 2026-05-30
 expiryDate: 2026-06-30
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 0.5
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-baidu-have-the-second-best-ai-
 
 ### What are the current odds for "Will Baidu have the second best AI model at the end of June 2026?"?
 
-As of May 29, 2026, Polymarket prices YES at 0.5%.
+As of May 30, 2026, Polymarket prices YES at 0.5%.
 
 ### Where can I trade on this prediction market?
 

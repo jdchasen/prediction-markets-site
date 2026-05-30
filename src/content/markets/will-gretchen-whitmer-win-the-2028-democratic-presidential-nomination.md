@@ -4,12 +4,12 @@ description: "Will Gretchen Whitmer win the 2028 Democratic presidential nominat
 marketQuestion: "Will Gretchen Whitmer win the 2028 Democratic presidential nomination?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-29
+lastUpdated: 2026-05-30
 expiryDate: 2028-11-07
 tags: ["politics", "polymarket"]
 polymarketYes: 1.1
 polymarketNo: 99.0
-polymarketVolume: 9985312
+polymarketVolume: 9987161
 polymarketUrl: "https://polymarket.com/event/will-gretchen-whitmer-win-the-2028-democratic-presidential-nomination-676"
 ---
 
@@ -23,13 +23,13 @@ polymarketUrl: "https://polymarket.com/event/will-gretchen-whitmer-win-the-2028-
 
 - [Will Wes Moore win the 2028 US Presidential Election?](/odds/will-wes-moore-win-the-2028-us-presidential-election) — 1% YES
 - [Xi Jinping out before 2027?](/odds/xi-jinping-out-before-2027) — 7% YES
-- [Will Butch Ware win the California Governor Election in 2026?](/odds/will-butch-ware-win-the-california-governor-election-in-2026) — 0% YES
+- [Will Xavier Becerra win the California Governor Election in 2026?](/odds/will-xavier-becerra-win-the-california-governor-election-in-2026) — 64% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Gretchen Whitmer win the 2028 Democratic presidential nomination?"?
 
-As of May 29, 2026, Polymarket prices YES at 1.1%.
+As of May 30, 2026, Polymarket prices YES at 1.1%.
 
 ### Where can I trade on this prediction market?
 

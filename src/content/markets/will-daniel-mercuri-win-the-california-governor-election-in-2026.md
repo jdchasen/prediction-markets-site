@@ -4,12 +4,12 @@ description: "Will Daniel Mercuri win the California Governor Election in 2026? 
 marketQuestion: "Will Daniel Mercuri win the California Governor Election in 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-29
+lastUpdated: 2026-05-30
 expiryDate: 2026-11-03
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.1
 polymarketNo: 99.9
-polymarketVolume: 986183
+polymarketVolume: 991502
 polymarketUrl: "https://polymarket.com/event/will-daniel-mercuri-win-the-california-governor-election-in-2026"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-daniel-mercuri-win-the-califor
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.1% | 99.9% | $986K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.1% | 99.9% | $992K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-daniel-mercuri-win-the-califor
 
 ### What are the current odds for "Will Daniel Mercuri win the California Governor Election in 2026?"?
 
-As of May 29, 2026, Polymarket prices YES at 0.1%.
+As of May 30, 2026, Polymarket prices YES at 0.1%.
 
 ### Where can I trade on this prediction market?
 

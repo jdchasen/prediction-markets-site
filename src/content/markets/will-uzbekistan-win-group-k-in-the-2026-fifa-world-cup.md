@@ -4,12 +4,12 @@ description: "Will Uzbekistan win Group K in the 2026 FIFA World Cup? Odds: 2.5%
 marketQuestion: "Will Uzbekistan win Group K in the 2026 FIFA World Cup?"
 category: "sports"
 status: "active"
-lastUpdated: 2026-05-29
+lastUpdated: 2026-05-30
 expiryDate: 2026-06-27
 tags: ["polymarket", "sports"]
 polymarketYes: 2.5
 polymarketNo: 97.5
-polymarketVolume: 9832
+polymarketVolume: 9961
 polymarketUrl: "https://polymarket.com/event/will-uzbekistan-win-group-k-in-the-2026-fifa-world-cup"
 ---
 
@@ -21,15 +21,15 @@ polymarketUrl: "https://polymarket.com/event/will-uzbekistan-win-group-k-in-the-
 
 ## Related Markets
 
-- [Will Pierre Gasly be the 2026 F1 Drivers' Champion?](/odds/will-pierre-gasly-be-the-2026-f1-drivers-champion) — 0% YES
 - [Will Liam Lawson be the 2026 F1 Drivers' Champion?](/odds/will-liam-lawson-be-the-2026-f1-drivers-champion) — 0% YES
-- [Will Houston Texans win the 2027 NFL AFC Championship?](/odds/will-houston-texans-win-the-2027-nfl-afc-championship) — 10% YES
+- [Will Houston Texans win the 2027 NFL AFC Championship?](/odds/will-houston-texans-win-the-2027-nfl-afc-championship) — 9% YES
+- [Will Baker Mayfield win the 2026 NFL MVP?](/odds/will-baker-mayfield-win-the-2026-nfl-mvp) — 2% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Uzbekistan win Group K in the 2026 FIFA World Cup?"?
 
-As of May 29, 2026, Polymarket prices YES at 2.5%.
+As of May 30, 2026, Polymarket prices YES at 2.5%.
 
 ### Where can I trade on this prediction market?
 

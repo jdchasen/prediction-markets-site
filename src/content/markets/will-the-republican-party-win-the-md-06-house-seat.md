@@ -1,14 +1,14 @@
 ---
 title: "Will the Republican Party win the MD-06 House seat?"
-description: "Will the Republican Party win the MD-06 House seat? Odds: 5.5% YES on Polymarket. See live prices and trade this market."
+description: "Will the Republican Party win the MD-06 House seat? Odds: 9.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Republican Party win the MD-06 House seat?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-29
+lastUpdated: 2026-05-30
 expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
-polymarketYes: 5.5
-polymarketNo: 94.5
+polymarketYes: 9.0
+polymarketNo: 91.0
 polymarketVolume: 9785
 polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-md-06-house-seat"
 ---
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-m
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 5.5% | 94.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 9.0% | 91.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-m
 
 ### What are the current odds for "Will the Republican Party win the MD-06 House seat?"?
 
-As of May 29, 2026, Polymarket prices YES at 5.5%.
+As of May 30, 2026, Polymarket prices YES at 9.0%.
 
 ### Where can I trade on this prediction market?
 

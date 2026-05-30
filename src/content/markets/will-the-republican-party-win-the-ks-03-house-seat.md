@@ -1,14 +1,14 @@
 ---
 title: "Will the Republican Party win the KS-03 House seat?"
-description: "Will the Republican Party win the KS-03 House seat? Odds: 13.0% YES on Polymarket. See live prices and trade this market."
+description: "Will the Republican Party win the KS-03 House seat? Odds: 13.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Republican Party win the KS-03 House seat?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-29
+lastUpdated: 2026-05-30
 expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
-polymarketYes: 13.0
-polymarketNo: 87.0
+polymarketYes: 13.5
+polymarketNo: 86.5
 polymarketVolume: 9994
 polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-ks-03-house-seat"
 ---
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-k
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 13.0% | 87.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 13.5% | 86.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-k
 
 ### What are the current odds for "Will the Republican Party win the KS-03 House seat?"?
 
-As of May 29, 2026, Polymarket prices YES at 13.0%.
+As of May 30, 2026, Polymarket prices YES at 13.5%.
 
 ### Where can I trade on this prediction market?
 

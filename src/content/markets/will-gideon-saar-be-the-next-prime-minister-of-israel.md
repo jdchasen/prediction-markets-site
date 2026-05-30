@@ -4,12 +4,12 @@ description: "Will Gideon Sa’ar be the next Prime Minister of Israel? Odds: 0.
 marketQuestion: "Will Gideon Sa’ar be the next Prime Minister of Israel?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-29
+lastUpdated: 2026-05-30
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 0.4
 polymarketNo: 99.6
-polymarketVolume: 976068
+polymarketVolume: 977525
 polymarketUrl: "https://polymarket.com/event/will-gideon-saar-be-the-next-prime-minister-of-israel"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-gideon-saar-be-the-next-prime-
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.4% | 99.6% | $976K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.4% | 99.6% | $978K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-gideon-saar-be-the-next-prime-
 
 ### What are the current odds for "Will Gideon Sa’ar be the next Prime Minister of Israel?"?
 
-As of May 29, 2026, Polymarket prices YES at 0.4%.
+As of May 30, 2026, Polymarket prices YES at 0.4%.
 
 ### Where can I trade on this prediction market?
 

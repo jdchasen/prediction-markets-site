@@ -1,15 +1,15 @@
 ---
 title: "Will Xavier Becerra win the California Governor Election in 2026?"
-description: "Will Xavier Becerra win the California Governor Election in 2026? Odds: 65.8% YES on Polymarket. See live prices and trade this market."
+description: "Will Xavier Becerra win the California Governor Election in 2026? Odds: 63.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Xavier Becerra win the California Governor Election in 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-29
+lastUpdated: 2026-05-30
 expiryDate: 2026-11-03
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 65.8
-polymarketNo: 34.2
-polymarketVolume: 981344
+polymarketYes: 63.5
+polymarketNo: 36.4
+polymarketVolume: 999786
 polymarketUrl: "https://polymarket.com/event/will-xavier-becerra-win-the-california-governor-election-in-2026"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-xavier-becerra-win-the-califor
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 65.8% | 34.2% | $981K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 63.5% | 36.4% | $1000K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-xavier-becerra-win-the-califor
 
 ### What are the current odds for "Will Xavier Becerra win the California Governor Election in 2026?"?
 
-As of May 29, 2026, Polymarket prices YES at 65.8%.
+As of May 30, 2026, Polymarket prices YES at 63.5%.
 
 ### Where can I trade on this prediction market?
 

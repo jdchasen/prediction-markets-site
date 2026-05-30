@@ -1,23 +1,23 @@
 ---
-title: "Will the Democratic Party win the NY-21 House seat?"
-description: "Will the Democratic Party win the NY-21 House seat? Odds: 23.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will the Democratic Party win the NY-21 House seat?"
+title: "Will Russia capture all of Rodynske again by May 31?"
+description: "Will Russia capture all of Rodynske again by May 31? Odds: 2.0% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Russia capture all of Rodynske again by May 31?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-05-30
-expiryDate: 2026-11-03
-tags: ["politics", "polymarket"]
-polymarketYes: 23.5
-polymarketNo: 76.5
-polymarketVolume: 9887
-polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-ny-21-house-seat"
+expiryDate: 2026-06-30
+tags: ["ai", "politics", "polymarket"]
+polymarketYes: 2.0
+polymarketNo: 98.0
+polymarketVolume: 9903
+polymarketUrl: "https://polymarket.com/event/will-russia-capture-all-of-rodynske-again-by-may-31"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 23.5% | 76.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 2.0% | 98.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-n
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will the Democratic Party win the NY-21 House seat?"?
+### What are the current odds for "Will Russia capture all of Rodynske again by May 31?"?
 
-As of May 30, 2026, Polymarket prices YES at 23.5%.
+As of May 30, 2026, Polymarket prices YES at 2.0%.
 
 ### Where can I trade on this prediction market?
 

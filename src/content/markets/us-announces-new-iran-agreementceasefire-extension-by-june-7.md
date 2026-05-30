@@ -3,8 +3,8 @@ title: "US announces new Iran agreement/ceasefire extension by June 7?"
 description: "US announces new Iran agreement/ceasefire extension by June 7? Odds: 53.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "US announces new Iran agreement/ceasefire extension by June 7?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-29
+status: "settled"
+lastUpdated: 2026-05-30
 tags: ["politics", "polymarket"]
 polymarketYes: 53.5
 polymarketNo: 46.5

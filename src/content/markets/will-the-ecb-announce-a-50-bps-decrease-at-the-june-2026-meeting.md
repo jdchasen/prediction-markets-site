@@ -4,12 +4,12 @@ description: "Will the ECB announce a 50+ bps decrease at the June 2026 meeting?
 marketQuestion: "Will the ECB announce a 50+ bps decrease at the June 2026 meeting?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-29
+lastUpdated: 2026-05-30
 expiryDate: 2026-06-11
 tags: ["politics", "polymarket"]
 polymarketYes: 0.1
 polymarketNo: 99.9
-polymarketVolume: 98654
+polymarketVolume: 98708
 polymarketUrl: "https://polymarket.com/event/will-the-ecb-announce-a-50-bps-decrease-at-the-june-2026-meeting"
 ---
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-ecb-announce-a-50-bps-decr
 
 ### What are the current odds for "Will the ECB announce a 50+ bps decrease at the June 2026 meeting?"?
 
-As of May 29, 2026, Polymarket prices YES at 0.1%.
+As of May 30, 2026, Polymarket prices YES at 0.1%.
 
 ### Where can I trade on this prediction market?
 

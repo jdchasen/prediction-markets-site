@@ -4,12 +4,12 @@ description: "Will Charlie Kirk win the Nobel Peace Prize in 2026? Odds: 0.8% YE
 marketQuestion: "Will Charlie Kirk win the Nobel Peace Prize in 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-29
+lastUpdated: 2026-05-30
 expiryDate: 2026-10-10
 tags: ["politics", "polymarket"]
 polymarketYes: 0.8
 polymarketNo: 99.2
-polymarketVolume: 993544
+polymarketVolume: 997053
 polymarketUrl: "https://polymarket.com/event/will-charlie-kirk-win-the-nobel-peace-prize-in-2026"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-charlie-kirk-win-the-nobel-pea
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.8% | 99.2% | $994K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.8% | 99.2% | $997K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-charlie-kirk-win-the-nobel-pea
 
 ### What are the current odds for "Will Charlie Kirk win the Nobel Peace Prize in 2026?"?
 
-As of May 29, 2026, Polymarket prices YES at 0.8%.
+As of May 30, 2026, Polymarket prices YES at 0.8%.
 
 ### Where can I trade on this prediction market?
 
