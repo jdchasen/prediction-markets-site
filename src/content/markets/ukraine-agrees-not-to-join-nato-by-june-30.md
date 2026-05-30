@@ -3,7 +3,7 @@ title: "Ukraine agrees not to join NATO by June 30? "
 description: "Ukraine agrees not to join NATO by June 30?  Odds: 3.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Ukraine agrees not to join NATO by June 30? "
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-30
 expiryDate: 2026-06-30
 tags: ["ai", "politics", "polymarket"]

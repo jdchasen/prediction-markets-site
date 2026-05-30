@@ -3,7 +3,7 @@ title: "Xi Jinping divorce before 2027?"
 description: "Xi Jinping divorce before 2027? Odds: 1.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Xi Jinping divorce before 2027?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-30
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]

@@ -3,7 +3,7 @@ title: "Will the ECB announce no change at the June 2026 meeting?"
 description: "Will the ECB announce no change at the June 2026 meeting? Odds: 4.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the ECB announce no change at the June 2026 meeting?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-30
 expiryDate: 2026-06-11
 tags: ["politics", "polymarket"]

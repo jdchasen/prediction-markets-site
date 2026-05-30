@@ -3,7 +3,7 @@ title: "Will Russia capture all of Rodynske again by May 31?"
 description: "Will Russia capture all of Rodynske again by May 31? Odds: 2.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Russia capture all of Rodynske again by May 31?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-30
 expiryDate: 2026-06-30
 tags: ["ai", "politics", "polymarket"]

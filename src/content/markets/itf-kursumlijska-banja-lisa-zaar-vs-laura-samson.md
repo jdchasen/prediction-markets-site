@@ -3,7 +3,7 @@ title: "ITF Kursumlijska Banja: Lisa Zaar vs Laura Samson"
 description: "ITF Kursumlijska Banja: Lisa Zaar vs Laura Samson Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "ITF Kursumlijska Banja: Lisa Zaar vs Laura Samson"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-30
 expiryDate: 2026-06-06
 tags: ["politics", "polymarket"]
