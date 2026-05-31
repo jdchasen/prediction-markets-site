@@ -9,11 +9,12 @@ expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 8.5
 polymarketNo: 91.5
-polymarketVolume: 9917
+polymarketVolume: 9965
 polymarketUrl: "https://polymarket.com/event/tshisekedi-out-as-president-of-the-drc-by-end-of-2026"
+analysisDate: 2026-05-31
 ---
 
-# DRC Presidential Succession Risk: A 2.3-Year Outlook
+Traders are pricing just an 8.5% chance that Félix Tshisekedi loses power in the Democratic Republic of Congo before the end of 2026, reflecting confidence in his current position despite the country's volatility and his disputed December 2023 re-election victory that opposition parties rejected as fraudulent.
 
 ## Current Odds
 
@@ -23,29 +24,31 @@ polymarketUrl: "https://polymarket.com/event/tshisekedi-out-as-president-of-the-
 
 ## Market Analysis
 
-Prediction markets are pricing only a modest 8.5% chance that Felix Tshisekedi loses the DRC presidency within the next two years, suggesting the consensus view treats his tenure as relatively secure through 2026. This matters because the DRC is Africa's largest economy by nominal GDP and a critical supplier of cobalt and copper for global energy transition; presidential instability directly impacts commodity prices, foreign investment, and regional stability across Central Africa.
+The bear case against an early departure centers on Tshisekedi's consolidated control following his contested second-term win with reported 73% of the vote, despite minimal international scrutiny and domestic opposition boycotts. His UDPS party holds significant parliamentary leverage, and regional powers like Angola and South Africa have shown limited appetite for destabilizing interventions in Kinshasa. The DRC's next scheduled election isn't until 2028, and constitutional mechanisms for removal remain weak with a judiciary largely aligned with the presidency. Military leadership has demonstrated loyalty through recent operations against M23 rebels in the east, reducing coup risk despite ongoing conflict.
 
-The bull case for removal rests on genuine institutional fragility. Tshisekedi has already navigated one constitutional crisis (the disputed 2023 election), and the DRC's military remains politicized and prone to intervention—the 2021 coup attempt and ongoing M23 conflict demonstrate the volatility of security sector actors. A major military setback in eastern Congo, particularly a loss of territory to M23 or other armed groups by mid-2026, could erode his legitimacy and embolden hardliners within the FARDC (Armed Forces) or political opposition. Additionally, the DRC's chronic fiscal weakness—heavily dependent on commodity revenues—means an extended cobalt price collapse could trigger the kind of economic desperation that historically precedes coups. The opposition coalition, though fractured under Martin Fayulu and others, retains organizational capacity; if unified around a single candidate or grievance, they could mobilize street pressure or legislative moves.
+The bull case for Tshisekedi's exit before 2027 hinges on the escalating security crisis in eastern provinces where M23 rebels, allegedly backed by Rwanda, have seized significant territory including areas near Goma. If the security situation deteriorates catastrophically or spreads westward toward the capital, military factions could fracture. Additionally, Tshisekedi's coalition government remains fragile—his predecessor Joseph Kabila still wields influence through his Common Front for Congo alliance, and elite political bargains can collapse rapidly in Congolese politics. Health concerns or unexpected events could also trigger succession, though no credible reports suggest current incapacitation. Mass protests over economic conditions or election legitimacy could theoretically destabilize his presidency, particularly if security forces split.
 
-Conversely, the bear case—supporting the low odds—notes that Tshisekedi has consolidated real power since 2019. He successfully sidelined predecessor Joseph Kabila's shadow influence, controls key security appointments, and benefits from international backing (US, EU, and neighbors prefer stability). The next scheduled election is December 2023 (already past) with no constitutional pathway for early removal absent a coup or medical incapacity. The DRC's opposition remains splintered, and security forces, while volatile, have not coordinated around an alternative figurehead. Barring a dramatic shock—mass defection of the Praetorian Guard, a successful military coup, or Tshisekedi's death—the institutional inertia favors continuity.
-
-Key catalysts to monitor: the M23 conflict trajectory through 2024-2025 (ceasefire collapse could destabilize Tshisekedi); commodity price floors for cobalt and copper (sustained sub-$7/lb copper could trigger fiscal crisis by late 2025); and any major defections within the FARDC or his inner circle. Watch for parliamentary maneuvers or constitutional amendments signaling elite fracture, and track public approval metrics via Afrobarometer or other surveys. The odds appear roughly calibrated to baseline coup risk in fragile states (~5-10% over 2-3 years) plus a modest DRC premium for institutional weakness.
+Key catalysts to monitor include the trajectory of M23 territorial control through 2025, particularly any advances toward major cities; scheduled East African Community mediation sessions attempting to resolve the Rwanda-DRC tensions; and potential constitutional court challenges to the 2023 election results, though these become less viable as time passes. Watch for signs of military dissatisfaction, particularly among FARDC commanders dealing with eastern front failures, and any coalition fractures ahead of the 2028 electoral cycle when positioning begins in earnest during 2026.
 
 ## Related Markets
 
-- [Will Gretchen Whitmer win the 2028 Democratic presidential nomination?](/odds/will-gretchen-whitmer-win-the-2028-democratic-presidential-nomination) — 1% YES
 - [Will Wes Moore win the 2028 US Presidential Election?](/odds/will-wes-moore-win-the-2028-us-presidential-election) — 1% YES
-- [Xi Jinping out before 2027?](/odds/xi-jinping-out-before-2027) — 8% YES
+- [Xi Jinping out before 2027?](/odds/xi-jinping-out-before-2027) — 7% YES
+- [Will Daniel Mercuri win the California Governor Election in 2026?](/odds/will-daniel-mercuri-win-the-california-governor-election-in-2026) — 0% YES
 
 ## Frequently Asked Questions
 
-### How much of this market's low odds depends on the assumption that M23 remains contained or defeated militarily?
+### Does the market resolve YES if Tshisekedi is removed temporarily but returns to power before December 31, 2026?
 
-Heavily—a sustained M23 territorial expansion or a major FARDC defeat would materially spike removal odds by undermining Tshisekedi's security legitimacy and potentially triggering military backchannel pressure. Monitor battle lines and casualty reports quarterly.
+The market would resolve based on whether he holds the presidency on the expiry date. A temporary removal followed by reinstatement would resolve NO, though the specific resolution criteria should be verified in the market details.
 
-### Could a cobalt price crash alone trigger the 8.5% event?
+### Would a military coup that keeps Tshisekedi as figurehead president while generals hold real power count as him being "out"?
 
-Unlikely alone, but combined with military setback or factional splits, a 12-month sub-$7/lb cobalt environment could starve the treasury and create the desperation under which younger officers or hardliners attempt intervention.
+This depends on whether he formally retains the presidential title. Markets typically resolve on official status rather than de facto power dynamics, so a ceremonial presidency would likely resolve NO unless he's formally removed from office.
+
+### How does the M23 rebel situation in eastern DRC affect the probability of Tshisekedi's removal?
+
+While M23 controls significant eastern territory, they're approximately 1,500 kilometers from Kinshasa and lack capacity to threaten the capital directly. The bigger risk is that military failures against M23 could trigger internal security force fractures or a coup by dissatisfied commanders.
 
 ## Learn More
 

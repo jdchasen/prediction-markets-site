@@ -3,7 +3,7 @@ title: "KBO: Lotte Giants vs. NC Dinos"
 description: "KBO: Lotte Giants vs. NC Dinos Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "KBO: Lotte Giants vs. NC Dinos"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-31
 expiryDate: 2026-06-07
 tags: ["politics", "polymarket"]

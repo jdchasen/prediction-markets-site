@@ -3,7 +3,7 @@ title: "Roland Garros ATP: Rafael Jodar vs Pablo Carreno Busta"
 description: "Roland Garros ATP: Rafael Jodar vs Pablo Carreno Busta Odds: 25.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Roland Garros ATP: Rafael Jodar vs Pablo Carreno Busta"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-31
 expiryDate: 2026-06-07
 tags: ["politics", "polymarket"]

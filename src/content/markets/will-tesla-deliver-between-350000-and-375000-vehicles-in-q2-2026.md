@@ -1,17 +1,16 @@
 ---
 title: "Will Tesla deliver between 350000 and 375000 vehicles in Q2 2026"
-description: "Will Tesla deliver between 350000 and 375000 vehicles in Q2 2026 Odds: 11.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Tesla deliver between 350000 and 375000 vehicles in Q2 2026 Odds: 9.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Tesla deliver between 350000 and 375000 vehicles in Q2 2026"
 category: "finance"
 status: "active"
 lastUpdated: 2026-05-31
 expiryDate: 2026-06-30
 tags: ["finance", "polymarket"]
-polymarketYes: 11.5
-polymarketNo: 88.5
+polymarketYes: 9.7
+polymarketNo: 90.3
 polymarketVolume: 9972
 polymarketUrl: "https://polymarket.com/event/will-tesla-deliver-between-350000-and-375000-vehicles-in-q2-2026"
-analysisDate: 2026-05-31
 ---
 
 This market is pricing in just an 11.5% probability that Tesla hits this relatively narrow delivery band in Q2 2026, reflecting both the difficulty of predicting deliveries two years out and Tesla's historical volatility in quarterly results that make specific ranges unlikely even when the midpoint estimate seems reasonable.

@@ -8,9 +8,8 @@ lastUpdated: 2026-05-31
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 22.5
 polymarketNo: 77.5
-polymarketVolume: 97547
+polymarketVolume: 99588
 polymarketUrl: "https://polymarket.com/event/will-robert-kenyon-win-the-2026-makerfield-by-election"
-analysisDate: 2026-05-31
 ---
 
 The prediction market gives Robert Kenyon roughly a 1-in-4 chance of winning the 2026 Makerfield by-election, reflecting significant uncertainty about whether a by-election will even occur and who the candidates might be.

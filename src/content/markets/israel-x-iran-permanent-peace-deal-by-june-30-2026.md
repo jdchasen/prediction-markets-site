@@ -1,17 +1,16 @@
 ---
 title: "Israel x Iran permanent peace deal by June 30, 2026?"
-description: "Israel x Iran permanent peace deal by June 30, 2026? Odds: 10.4% YES on Polymarket. See live prices and trade this market."
+description: "Israel x Iran permanent peace deal by June 30, 2026? Odds: 10.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Israel x Iran permanent peace deal by June 30, 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-05-31
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
-polymarketYes: 10.4
-polymarketNo: 89.6
-polymarketVolume: 978845
+polymarketYes: 10.2
+polymarketNo: 89.8
+polymarketVolume: 979974
 polymarketUrl: "https://polymarket.com/event/israel-x-iran-permanent-peace-deal-by-june-30-2026-262"
-analysisDate: 2026-05-31
 ---
 
 Prediction markets are pricing a mere 10% chance of an Israel-Iran permanent peace agreement by mid-2026, reflecting deep skepticism that two nations without diplomatic relations and engaged in shadow warfare can achieve normalized ties within 28 months.

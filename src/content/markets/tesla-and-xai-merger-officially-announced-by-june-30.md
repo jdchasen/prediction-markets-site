@@ -1,17 +1,16 @@
 ---
 title: "Tesla and xAI merger officially announced by June 30?"
-description: "Tesla and xAI merger officially announced by June 30? Odds: 2.2% YES on Polymarket. See live prices and trade this market."
+description: "Tesla and xAI merger officially announced by June 30? Odds: 2.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Tesla and xAI merger officially announced by June 30?"
 category: "finance"
 status: "active"
 lastUpdated: 2026-05-31
 expiryDate: 2026-06-30
 tags: ["ai", "finance", "polymarket"]
-polymarketYes: 2.2
-polymarketNo: 97.8
-polymarketVolume: 98630
+polymarketYes: 2.5
+polymarketNo: 97.5
+polymarketVolume: 98720
 polymarketUrl: "https://polymarket.com/event/tesla-and-xai-merger-officially-announced-by-june-30"
-analysisDate: 2026-05-31
 ---
 
 The market assigns just over 2% probability to a formal Tesla-xAI merger announcement by mid-2026, reflecting widespread skepticism about Elon Musk combining his electric vehicle giant with his AI startup despite growing operational overlap between the companies. This matters because xAI's Grok chatbot is already being integrated into Tesla vehicles, and any merger would reshape both the EV and AI competitive landscapes while potentially triggering regulatory scrutiny and shareholder lawsuits.

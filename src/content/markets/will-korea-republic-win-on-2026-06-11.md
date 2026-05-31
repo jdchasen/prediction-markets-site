@@ -3,7 +3,7 @@ title: "Will Korea Republic win on 2026-06-11?"
 description: "Will Korea Republic win on 2026-06-11? Odds: 35.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Korea Republic win on 2026-06-11?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-31
 expiryDate: 2026-06-12
 tags: ["politics", "polymarket"]

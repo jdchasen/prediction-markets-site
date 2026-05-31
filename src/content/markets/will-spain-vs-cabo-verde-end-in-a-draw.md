@@ -3,7 +3,7 @@ title: "Will Spain vs. Cabo Verde end in a draw?"
 description: "Will Spain vs. Cabo Verde end in a draw? Odds: 7.3% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Spain vs. Cabo Verde end in a draw?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-31
 expiryDate: 2026-06-15
 tags: ["ai", "politics", "polymarket"]

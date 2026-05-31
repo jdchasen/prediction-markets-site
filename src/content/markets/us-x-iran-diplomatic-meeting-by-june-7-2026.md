@@ -3,7 +3,7 @@ title: "US x Iran diplomatic meeting by June 7, 2026?"
 description: "US x Iran diplomatic meeting by June 7, 2026? Odds: 7.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "US x Iran diplomatic meeting by June 7, 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-05-31
 expiryDate: 2026-06-07
 tags: ["politics", "polymarket"]
