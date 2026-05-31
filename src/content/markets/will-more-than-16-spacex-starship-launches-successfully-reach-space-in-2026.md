@@ -3,8 +3,8 @@ title: "Will more than 16 SpaceX Starship launches successfully reach Space in 2
 description: "Will more than 16 SpaceX Starship launches successfully reach Space in 2026? Odds: 2.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will more than 16 SpaceX Starship launches successfully reach Space in 2026?"
 category: "tech"
-status: "active"
-lastUpdated: 2026-05-30
+status: "settled"
+lastUpdated: 2026-05-31
 expiryDate: 2026-12-31
 tags: ["polymarket", "tech"]
 polymarketYes: 2.2

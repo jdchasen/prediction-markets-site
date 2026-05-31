@@ -4,14 +4,13 @@ description: "Tshisekedi out as President of the DRC by December 31, 2026? Odds:
 marketQuestion: "Tshisekedi out as President of the DRC by December 31, 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-30
+lastUpdated: 2026-05-31
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 8.5
 polymarketNo: 91.5
-polymarketVolume: 9906
+polymarketVolume: 9917
 polymarketUrl: "https://polymarket.com/event/tshisekedi-out-as-president-of-the-drc-by-end-of-2026"
-analysisDate: 2026-05-30
 ---
 
 # DRC Presidential Succession Risk: A 2.3-Year Outlook

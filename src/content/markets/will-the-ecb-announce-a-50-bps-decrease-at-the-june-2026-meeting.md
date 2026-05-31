@@ -4,14 +4,13 @@ description: "Will the ECB announce a 50+ bps decrease at the June 2026 meeting?
 marketQuestion: "Will the ECB announce a 50+ bps decrease at the June 2026 meeting?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-30
+lastUpdated: 2026-05-31
 expiryDate: 2026-06-11
 tags: ["politics", "polymarket"]
 polymarketYes: 0.1
 polymarketNo: 99.9
-polymarketVolume: 99237
+polymarketVolume: 99436
 polymarketUrl: "https://polymarket.com/event/will-the-ecb-announce-a-50-bps-decrease-at-the-june-2026-meeting"
-analysisDate: 2026-05-30
 ---
 
 The market assigns virtually no probability to the European Central Bank cutting rates by 50 basis points or more at its June 2026 meeting, reflecting expectations that the eurozone economy will be stable enough by mid-2026 to avoid extreme monetary easing.

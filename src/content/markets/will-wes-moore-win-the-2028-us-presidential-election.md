@@ -4,14 +4,13 @@ description: "Will Wes Moore win the 2028 US Presidential Election? Odds: 0.8% Y
 marketQuestion: "Will Wes Moore win the 2028 US Presidential Election?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-30
+lastUpdated: 2026-05-31
 expiryDate: 2028-11-07
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.8
 polymarketNo: 99.2
-polymarketVolume: 9811164
+polymarketVolume: 9836703
 polymarketUrl: "https://polymarket.com/event/will-wes-moore-win-the-2028-us-presidential-election"
-analysisDate: 2026-05-30
 ---
 
 Maryland Governor Wes Moore sits at less than 1% probability to win the 2028 presidential race, reflecting his status as a political newcomer with minimal national profile despite his compelling personal biography and position leading a blue state.

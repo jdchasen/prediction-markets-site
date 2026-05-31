@@ -4,14 +4,13 @@ description: "Will the Republican Party win the KS-03 House seat? Odds: 13.5% YE
 marketQuestion: "Will the Republican Party win the KS-03 House seat?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-30
+lastUpdated: 2026-05-31
 expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
 polymarketYes: 13.5
 polymarketNo: 86.5
 polymarketVolume: 9994
 polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-ks-03-house-seat"
-analysisDate: 2026-05-30
 ---
 
 # KS-03 Republican Hold: A Heavily Favored Outcome Facing Structural Democratic Headwinds

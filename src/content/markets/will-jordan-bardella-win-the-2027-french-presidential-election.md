@@ -4,14 +4,13 @@ description: "Will Jordan Bardella win the 2027 French presidential election? Od
 marketQuestion: "Will Jordan Bardella win the 2027 French presidential election?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-30
+lastUpdated: 2026-05-31
 expiryDate: 2027-04-30
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 23.5
 polymarketNo: 76.5
-polymarketVolume: 972328
+polymarketVolume: 975675
 polymarketUrl: "https://polymarket.com/event/will-jordan-bardella-win-the-2027-french-presidential-election"
-analysisDate: 2026-05-30
 ---
 
 Jordan Bardella's near 1-in-4 odds to win France's 2027 presidential election reflects his position as the young face of the National Rally (RN) and heir to Marine Le Pen's nationalist movement, though significant institutional and electoral barriers remain before he could claim the Élysée Palace.

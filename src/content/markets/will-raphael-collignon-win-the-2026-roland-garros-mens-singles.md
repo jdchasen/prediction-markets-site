@@ -3,8 +3,8 @@ title: "Will Raphael Collignon win the 2026 Roland Garros Men's Singles?"
 description: "Will Raphael Collignon win the 2026 Roland Garros Men's Singles? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Raphael Collignon win the 2026 Roland Garros Men's Singles?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-30
+status: "settled"
+lastUpdated: 2026-05-31
 expiryDate: 2026-06-08
 tags: ["politics", "polymarket"]
 polymarketYes: 0.1

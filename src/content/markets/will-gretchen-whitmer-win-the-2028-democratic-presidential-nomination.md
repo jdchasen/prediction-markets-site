@@ -4,14 +4,13 @@ description: "Will Gretchen Whitmer win the 2028 Democratic presidential nominat
 marketQuestion: "Will Gretchen Whitmer win the 2028 Democratic presidential nomination?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-30
+lastUpdated: 2026-05-31
 expiryDate: 2028-11-07
 tags: ["politics", "polymarket"]
 polymarketYes: 1.1
 polymarketNo: 99.0
-polymarketVolume: 9990722
+polymarketVolume: 9995190
 polymarketUrl: "https://polymarket.com/event/will-gretchen-whitmer-win-the-2028-democratic-presidential-nomination-676"
-analysisDate: 2026-05-30
 ---
 
 The Polymarket odds show minimal trader confidence in Michigan Governor Gretchen Whitmer securing the 2028 Democratic nomination, reflecting both the crowded potential field and uncertainty about who will even run nearly four years from now. The market matters as an early signal of how Democrats view their post-Biden bench strength, with Whitmer consistently mentioned alongside governors like Gavin Newsom, Josh Shapiro, and potential candidates like Vice President Kamala Harris.

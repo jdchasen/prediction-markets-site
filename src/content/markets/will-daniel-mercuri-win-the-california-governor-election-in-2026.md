@@ -4,14 +4,13 @@ description: "Will Daniel Mercuri win the California Governor Election in 2026? 
 marketQuestion: "Will Daniel Mercuri win the California Governor Election in 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-30
+lastUpdated: 2026-05-31
 expiryDate: 2026-11-03
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.1
 polymarketNo: 99.9
-polymarketVolume: 996925
+polymarketVolume: 998360
 polymarketUrl: "https://polymarket.com/event/will-daniel-mercuri-win-the-california-governor-election-in-2026"
-analysisDate: 2026-05-30
 ---
 
 Daniel Mercuri faces near-insurmountable odds at 0.1% probability to win California's 2026 gubernatorial race, reflecting his status as an extreme longshot candidate in a state dominated by established Democratic machinery and well-funded political operations.

@@ -3,8 +3,8 @@ title: "Toronto Blue Jays vs. Baltimore Orioles"
 description: "Toronto Blue Jays vs. Baltimore Orioles Odds: 67.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Toronto Blue Jays vs. Baltimore Orioles"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-30
+status: "settled"
+lastUpdated: 2026-05-31
 expiryDate: 2026-06-06
 tags: ["politics", "polymarket"]
 polymarketYes: 67.5

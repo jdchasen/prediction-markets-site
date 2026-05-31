@@ -3,8 +3,8 @@ title: "Will Bitcoin reach $130,000 by December 31, 2026?"
 description: "Will Bitcoin reach $130,000 by December 31, 2026? Odds: 11.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Bitcoin reach $130,000 by December 31, 2026?"
 category: "crypto"
-status: "active"
-lastUpdated: 2026-05-30
+status: "settled"
+lastUpdated: 2026-05-31
 expiryDate: 2027-01-01
 tags: ["bitcoin", "crypto", "polymarket"]
 polymarketYes: 11.5

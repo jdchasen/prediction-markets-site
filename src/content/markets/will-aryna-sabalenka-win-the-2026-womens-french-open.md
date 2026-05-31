@@ -3,8 +3,8 @@ title: "Will Aryna Sabalenka win the 2026 Women’s French Open?"
 description: "Will Aryna Sabalenka win the 2026 Women’s French Open? Odds: 34.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Aryna Sabalenka win the 2026 Women’s French Open?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-30
+status: "settled"
+lastUpdated: 2026-05-31
 expiryDate: 2026-06-06
 tags: ["politics", "polymarket"]
 polymarketYes: 34.5
