@@ -1,17 +1,16 @@
 ---
 title: "Will QFEX launch a token by June 30, 2026?"
-description: "Will QFEX launch a token by June 30, 2026? Odds: 6.0% YES on Polymarket. See live prices and trade this market."
+description: "Will QFEX launch a token by June 30, 2026? Odds: 5.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will QFEX launch a token by June 30, 2026?"
 category: "crypto"
 status: "active"
-lastUpdated: 2026-05-31
+lastUpdated: 2026-06-01
 expiryDate: 2028-01-01
 tags: ["crypto", "polymarket"]
-polymarketYes: 6.0
-polymarketNo: 94.0
+polymarketYes: 5.5
+polymarketNo: 94.5
 polymarketVolume: 9818
 polymarketUrl: "https://polymarket.com/event/will-qfex-launch-a-token-by-june-30-2026"
-analysisDate: 2026-05-31
 ---
 
 # QFEX Token Launch Analysis

@@ -4,13 +4,12 @@ description: "Will the Democrats win the Georgia Senate race in 2026? Odds: 85.0
 marketQuestion: "Will the Democrats win the Georgia Senate race in 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-31
+lastUpdated: 2026-06-01
 tags: ["politics", "polymarket"]
 polymarketYes: 85.0
 polymarketNo: 15.0
-polymarketVolume: 9840
+polymarketVolume: 9890
 polymarketUrl: "https://polymarket.com/event/will-the-democrats-win-the-georgia-senate-race-in-2026"
-analysisDate: 2026-05-31
 ---
 
 # Georgia Senate 2026: Democrats Favored But Facing Structural Headwinds

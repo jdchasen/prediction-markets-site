@@ -3,8 +3,8 @@ title: "Will Silver (SI) hit (HIGH) $100 by end of June?"
 description: "Will Silver (SI) hit (HIGH) $100 by end of June? Odds: 3.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Silver (SI) hit (HIGH) $100 by end of June?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-31
+status: "settled"
+lastUpdated: 2026-06-01
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
 polymarketYes: 3.1

@@ -4,14 +4,13 @@ description: "Will Jordan Bardella win the 2027 French presidential election? Od
 marketQuestion: "Will Jordan Bardella win the 2027 French presidential election?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-31
+lastUpdated: 2026-06-01
 expiryDate: 2027-04-30
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 23.5
 polymarketNo: 76.5
-polymarketVolume: 979237
+polymarketVolume: 989274
 polymarketUrl: "https://polymarket.com/event/will-jordan-bardella-win-the-2027-french-presidential-election"
-analysisDate: 2026-05-31
 ---
 
 Jordan Bardella, the 28-year-old president of the National Rally (RN), sits at roughly 1-in-4 odds to win France's 2027 presidential election, reflecting both his party's unprecedented momentum and the structural barriers facing far-right candidates in French runoff systems.

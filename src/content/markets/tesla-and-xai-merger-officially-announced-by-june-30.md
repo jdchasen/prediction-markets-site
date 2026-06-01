@@ -3,8 +3,8 @@ title: "Tesla and xAI merger officially announced by June 30?"
 description: "Tesla and xAI merger officially announced by June 30? Odds: 2.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Tesla and xAI merger officially announced by June 30?"
 category: "finance"
-status: "active"
-lastUpdated: 2026-05-31
+status: "settled"
+lastUpdated: 2026-06-01
 expiryDate: 2026-06-30
 tags: ["ai", "finance", "polymarket"]
 polymarketYes: 2.5

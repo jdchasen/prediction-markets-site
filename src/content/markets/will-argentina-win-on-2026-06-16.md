@@ -3,8 +3,8 @@ title: "Will Argentina win on 2026-06-16?"
 description: "Will Argentina win on 2026-06-16? Odds: 69.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Argentina win on 2026-06-16?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-31
+status: "settled"
+lastUpdated: 2026-06-01
 expiryDate: 2026-06-17
 tags: ["politics", "polymarket"]
 polymarketYes: 69.5

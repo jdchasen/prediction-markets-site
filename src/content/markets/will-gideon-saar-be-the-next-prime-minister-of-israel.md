@@ -4,14 +4,13 @@ description: "Will Gideon Sa’ar be the next Prime Minister of Israel? Odds: 0.
 marketQuestion: "Will Gideon Sa’ar be the next Prime Minister of Israel?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-05-31
+lastUpdated: 2026-06-01
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 0.4
 polymarketNo: 99.6
-polymarketVolume: 980019
+polymarketVolume: 981290
 polymarketUrl: "https://polymarket.com/event/will-gideon-saar-be-the-next-prime-minister-of-israel"
-analysisDate: 2026-05-31
 ---
 
 Gideon Sa'ar's chances of becoming Israel's next Prime Minister stand at an extremely marginal 0.4%, reflecting his limited political base and the dominance of Netanyahu and Gantz in Israeli politics. Sa'ar, who rejoined Likud in 2023 after forming the New Hope party in 2020, currently serves in Netanyahu's coalition government but lacks the party infrastructure or polling support to mount a credible bid for the premiership before the end of 2026.

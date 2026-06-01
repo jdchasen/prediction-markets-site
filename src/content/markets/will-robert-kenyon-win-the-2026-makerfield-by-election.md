@@ -3,8 +3,8 @@ title: "Will Robert Kenyon win the 2026 Makerfield by-election?"
 description: "Will Robert Kenyon win the 2026 Makerfield by-election? Odds: 22.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Robert Kenyon win the 2026 Makerfield by-election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-31
+status: "settled"
+lastUpdated: 2026-06-01
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 22.5
 polymarketNo: 77.5

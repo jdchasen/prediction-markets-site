@@ -3,8 +3,8 @@ title: "Israel x Iran permanent peace deal by June 30, 2026?"
 description: "Israel x Iran permanent peace deal by June 30, 2026? Odds: 10.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Israel x Iran permanent peace deal by June 30, 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-31
+status: "settled"
+lastUpdated: 2026-06-01
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
 polymarketYes: 10.2

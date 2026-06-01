@@ -1,17 +1,16 @@
 ---
 title: "GRVT FDV above $200M one day after launch?"
-description: "GRVT FDV above $200M one day after launch? Odds: 75.5% YES on Polymarket. See live prices and trade this market."
+description: "GRVT FDV above $200M one day after launch? Odds: 76.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "GRVT FDV above $200M one day after launch?"
 category: "crypto"
 status: "active"
-lastUpdated: 2026-05-31
+lastUpdated: 2026-06-01
 expiryDate: 2028-01-01
 tags: ["crypto", "polymarket"]
-polymarketYes: 75.5
-polymarketNo: 24.5
-polymarketVolume: 99599
+polymarketYes: 76.0
+polymarketNo: 24.0
+polymarketVolume: 99659
 polymarketUrl: "https://polymarket.com/event/grvt-fdv-above-200m-one-day-after-launch"
-analysisDate: 2026-05-31
 ---
 
 The market strongly favors GRVT launching with a fully diluted valuation exceeding $200M, reflecting bullish sentiment around this hybrid crypto derivatives exchange despite the extended timeline to January 2028.

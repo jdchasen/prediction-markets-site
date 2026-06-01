@@ -3,8 +3,8 @@ title: "Set Handicap: Zverev (-2.5) vs Jong (+2.5)"
 description: "Set Handicap: Zverev (-2.5) vs Jong (+2.5) Odds: 100.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Set Handicap: Zverev (-2.5) vs Jong (+2.5)"
 category: "politics"
-status: "active"
-lastUpdated: 2026-05-31
+status: "settled"
+lastUpdated: 2026-06-01
 expiryDate: 2026-06-07
 tags: ["politics", "polymarket"]
 polymarketYes: 100.0
