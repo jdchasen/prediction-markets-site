@@ -1,15 +1,15 @@
 ---
 title: "Israeli parliament dissolved by July 31?"
-description: "Israeli parliament dissolved by July 31? Odds: 71.5% YES on Polymarket. See live prices and trade this market."
+description: "Israeli parliament dissolved by July 31? Odds: 79.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Israeli parliament dissolved by July 31?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-06-01
 expiryDate: 2026-07-31
 tags: ["politics", "polymarket"]
-polymarketYes: 71.5
-polymarketNo: 28.5
-polymarketVolume: 9750
+polymarketYes: 79.5
+polymarketNo: 20.5
+polymarketVolume: 9756
 polymarketUrl: "https://polymarket.com/event/israeli-parliament-dissolved-by-july-31"
 analysisDate: 2026-06-01
 ---
@@ -20,35 +20,37 @@ analysisDate: 2026-06-01
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 71.5% | 28.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 79.5% | 20.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The market is pricing in a 71.5% likelihood that the Knesset dissolves before July 2026, reflecting deep structural instability in Israeli governance after years of coalition fragmentation and judicial-executive conflict. This matters because parliamentary dissolution would trigger new elections and potentially reshape Israel's political landscape during a critical period of regional security concerns and post-conflict reconstruction. The high odds signal trader conviction that current governing arrangements lack durability, though the two-year timeframe provides substantial room for stabilization or unexpected collapse.
+The market is pricing in a 79.5% probability that Israel's parliament (Knesset) dissolves by mid-2026, reflecting deep structural instability in the current coalition government. This odds level signals traders believe early elections are more likely than scheduled elections in 2026, a significant political event given Israel's fractious multi-party system and the ongoing security situation. The high confidence in dissolution reflects both immediate coalition fragility and the historical pattern of Israeli governments collapsing before their full four-year term.
 
-The bull case for dissolution rests on Israel's documented pattern of short-lived coalitions. The current government has already survived longer than many predicted, but the underlying tensions remain acute: judicial reform battles have fractured the coalition base, regional security threats could trigger snap elections if the government loses public confidence, and the right-wing bloc's internal divisions (Netanyahu's Likud versus Ben-Gvir's Otzrim Yehudit) create constant leverage pressure on smaller coalition partners. The Knesset's dissolution clause requires only a 61-vote majority or mutual agreement, a low bar given the fragmentation. If economic deterioration accelerates or major security incidents occur before mid-2026, dissolution becomes highly probable. The bear case argues that Israel's government has already absorbed its worst shocks—the judicial reform battle peaked in 2023, security operations are stabilizing, and coalition members have learned painful lessons from frequent elections. If the government successfully passes its remaining legislative agenda and avoids major new crises through 2026, it could intact reach the natural election cycle. Netanyahu's political survival incentives may keep marginal coalition partners in line despite friction.
+The bull case for dissolution rests on fundamental coalition math deterioration. Prime Minister Netanyahu's government relies on razor-thin majorities, with right-wing and religious coalition partners making conflicting demands on judicial reform, budget allocation, and military conscription. The Ben-Gvir-Smotrich faction has repeatedly threatened to collapse the government over specific policy concessions, and the security situation in Gaza and Lebanon continues generating pressure for policy shifts that fracture coalition unity. Additionally, Netanyahu faces ongoing legal challenges that could intensify internal coalition pressure. Historically, Israeli governments rarely survive beyond 3-4 years under similar fractious conditions.
 
-Key catalysts to monitor include budget passage votes (typically contentious in Israeli politics), any major escalation in regional conflicts that could trigger snap elections, and developments in judicial or corruption cases affecting coalition leaders. The Knesset's summer recess (July-August) and major parliamentary votes scheduled for autumn 2024 and spring 2025 will test coalition cohesion. Watch for polling shifts in anticipated elections—if projections show a dramatic rightward or leftward swing, coalition members may trigger dissolution strategically. Any significant defection from the current coalition (particularly from Smotrich's Finance Ministry or Ben-Gvir's Security Ministry) would materially raise dissolution probability in the final year.
+The bear case argues that despite surface instability, coalition partners lack incentive to force early elections given current polling. New elections would likely benefit centrist and left-wing parties while weakening the right-wing bloc that currently dominates government. Coalition members may choose to tolerate disagreements rather than risk worse electoral outcomes, particularly if security conditions stabilize. The government's existing budget framework through 2026 reduces immediate fiscal triggers for collapse, and the expiry date's relative distance (mid-2026) gives coalition members multiple cycles to negotiate extensions and temporary stability measures.
+
+Watch for three specific catalysts: Knesset votes on judicial reform or conscription legislation (typically scheduled 2-4 months before collapse moments), coalition partner defections or confidence-vote threats, and developments in Netanyahu's legal cases, particularly any Supreme Court rulings on his ability to serve. The March 2026 budget deadline could trigger dissolution pressure if coalition partners demand concessions as the price of passage. Polling shifts showing potential coalition partners gaining seats would materially alter coalition partners' calculations about whether to hold elections.
 
 ## Related Markets
 
-- [Will Wes Moore win the 2028 US Presidential Election?](/odds/will-wes-moore-win-the-2028-us-presidential-election) — 1% YES
 - [Xi Jinping out before 2027?](/odds/xi-jinping-out-before-2027) — 7% YES
+- [Will Wes Moore win the 2028 US Presidential Election?](/odds/will-wes-moore-win-the-2028-us-presidential-election) — 1% YES
 - [Will Jamie Dimon win the 2028 US Presidential Election?](/odds/will-jamie-dimon-win-the-2028-us-presidential-election) — 2% YES
 
 ## Frequently Asked Questions
 
-### What specific coalition fragmentation is the market pricing in, and which coalition member departure would most likely trigger dissolution?
+### What triggers early dissolution in Israeli law, and how does it differ from a typical no-confidence vote?
 
-The market reflects concern about Ben-Gvir's volatile National Security Minister role and Smotrich's ideological rigidity on judicial and settlement issues. Either minister's departure would likely collapse the coalition's majority, making early elections nearly inevitable.
+The Knesset can dissolve through a government-initiated vote (typically requiring 61 of 120 seats) or through the prime minister submitting a dissolution request. Coalition collapse typically precedes formal dissolution, as partners withdraw support, preventing the government from passing budgets or key legislation. This differs from parliamentary systems where no-confidence votes are the primary mechanism—Israeli dissolution is more often voluntary coalition exit.
 
-### How does the judicial reform conflict specifically increase dissolution risk, and is this issue likely resolved by mid-2026?
+### How much does Netanyahu's legal status affect this market's odds?
 
-The 2023 judicial reform battle exposed irreconcilable differences between coalition and opposition, creating ongoing institutional paralysis. Without a major compromise (unlikely given both sides' entrenchment), this tension will remain a trigger for coalition collapse.
+Netanyahu's ongoing trial is a significant variable; conviction or major legal setbacks could fracture coalition unity if partners fear electoral damage from association with him, potentially accelerating dissolution timelines. Conversely, favorable court rulings or trial delays could stabilize the coalition through 2026, though markets typically already price in some baseline legal risk given the public nature of proceedings.
 
-### How would a major regional security escalation (e.g., renewed Lebanon/Iran conflict) affect the dissolution timeline and market odds?
+### Why would new elections potentially harm the coalition's current partners despite government instability?
 
-Security escalations typically force snap elections if public confidence erodes in the government's handling, potentially overriding coalition arithmetic. A serious new front would make dissolution before July 2026 substantially more likely than the current 71.5%.
+Current polling suggests centrist and center-left parties would gain seats in early elections while right-wing and religious coalition partners would lose seats, making coalition formation harder for the right. Coalition members may accept internal friction as preferable to the electoral punishment they'd face if voters blame them for government collapse, creating an incentive to maintain even dysfunctional coalitions until scheduled elections.
 
 ## Learn More
 

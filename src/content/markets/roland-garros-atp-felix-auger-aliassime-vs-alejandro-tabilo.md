@@ -3,7 +3,7 @@ title: "Roland Garros ATP: Felix Auger-Aliassime vs Alejandro Tabilo"
 description: "Roland Garros ATP: Felix Auger-Aliassime vs Alejandro Tabilo Odds: 76.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Roland Garros ATP: Felix Auger-Aliassime vs Alejandro Tabilo"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-01
 expiryDate: 2026-06-08
 tags: ["politics", "polymarket"]

@@ -1,17 +1,16 @@
 ---
 title: "Will San Antonio Spurs win the 2027 NBA Finals?"
-description: "Will San Antonio Spurs win the 2027 NBA Finals? Odds: 33.0% YES on Polymarket. See live prices and trade this market."
+description: "Will San Antonio Spurs win the 2027 NBA Finals? Odds: 31.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will San Antonio Spurs win the 2027 NBA Finals?"
 category: "sports"
 status: "active"
 lastUpdated: 2026-06-01
 expiryDate: 2027-07-01
 tags: ["polymarket", "sports"]
-polymarketYes: 33.0
-polymarketNo: 67.0
-polymarketVolume: 9848
+polymarketYes: 31.5
+polymarketNo: 68.5
+polymarketVolume: 9953
 polymarketUrl: "https://polymarket.com/event/will-san-antonio-spurs-win-the-2027-nba-finals"
-analysisDate: 2026-06-01
 ---
 
 # San Antonio Spurs 2027 NBA Finals Analysis

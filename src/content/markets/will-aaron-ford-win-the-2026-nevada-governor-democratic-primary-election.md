@@ -11,7 +11,6 @@ polymarketYes: 99.2
 polymarketNo: 0.8
 polymarketVolume: 9971
 polymarketUrl: "https://polymarket.com/event/will-aaron-ford-win-the-2026-nevada-governor-democratic-primary-election"
-analysisDate: 2026-06-01
 ---
 
 # Aaron Ford 2026 Nevada Democratic Primary Analysis

@@ -11,7 +11,6 @@ polymarketYes: 86.5
 polymarketNo: 13.5
 polymarketVolume: 9771
 polymarketUrl: "https://polymarket.com/event/will-afd-win-the-most-seats-in-the-2026-mecklenburg-vorpommern-parliamentary-elections"
-analysisDate: 2026-06-01
 ---
 
 # AfD's 2026 Mecklenburg-Vorpommern Dominance

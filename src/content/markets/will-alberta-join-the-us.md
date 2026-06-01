@@ -3,7 +3,7 @@ title: "Will Alberta join the US? "
 description: "Will Alberta join the US?  Odds: 4.3% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Alberta join the US? "
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-01
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]

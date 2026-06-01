@@ -3,7 +3,7 @@ title: "Will Vincent Keymer win Norway Chess 2026?"
 description: "Will Vincent Keymer win Norway Chess 2026? Odds: 14.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Vincent Keymer win Norway Chess 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-01
 expiryDate: 2026-06-06
 tags: ["politics", "polymarket"]

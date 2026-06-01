@@ -1,17 +1,16 @@
 ---
 title: "Will Alexander Bublik be the 2026 Men’s Wimbledon winner?"
-description: "Will Alexander Bublik be the 2026 Men’s Wimbledon winner? Odds: 0.8% YES on Polymarket. See live prices and trade this market."
+description: "Will Alexander Bublik be the 2026 Men’s Wimbledon winner? Odds: 0.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Alexander Bublik be the 2026 Men’s Wimbledon winner?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-06-01
 expiryDate: 2026-07-12
 tags: ["politics", "polymarket"]
-polymarketYes: 0.8
+polymarketYes: 0.9
 polymarketNo: 99.2
-polymarketVolume: 97363
+polymarketVolume: 97494
 polymarketUrl: "https://polymarket.com/event/will-alexander-bublik-be-the-2026-mens-wimbledon-winner"
-analysisDate: 2026-06-01
 ---
 
 This market prices Alexander Bublik at less than 1% to win the 2026 Wimbledon men's singles title, reflecting extreme skepticism about the Kazakh player's grass court championship potential despite the two-year runway.

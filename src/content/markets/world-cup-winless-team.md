@@ -11,7 +11,6 @@ polymarketYes: 99.1
 polymarketNo: 0.9
 polymarketVolume: 9845
 polymarketUrl: "https://polymarket.com/event/2026-fifa-world-cup-winless-team"
-analysisDate: 2026-06-01
 ---
 
 # World Cup Winless Team Analysis

@@ -11,7 +11,6 @@ polymarketYes: 2.8
 polymarketNo: 97.2
 polymarketVolume: 97854
 polymarketUrl: "https://polymarket.com/event/will-saudi-arabia-win-group-h-in-the-2026-fifa-world-cup"
-analysisDate: 2026-06-01
 ---
 
 The market assigns Saudi Arabia less than a 3% chance of topping their World Cup group, reflecting deep skepticism about the Green Falcons' ability to outperform what will likely be elite European or South American competition in Group H. This matters because group draw dynamics and Saudi football's ambitious Vision 2030 project make this a genuine test of whether massive domestic league investment translates to national team success.

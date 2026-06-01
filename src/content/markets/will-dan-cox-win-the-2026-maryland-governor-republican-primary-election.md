@@ -1,17 +1,16 @@
 ---
 title: "Will Dan Cox win the 2026 Maryland Governor Republican primary election?"
-description: "Will Dan Cox win the 2026 Maryland Governor Republican primary election? Odds: 60.0% YES on Polymarket. See live prices and trade this market."
+description: "Will Dan Cox win the 2026 Maryland Governor Republican primary election? Odds: 62.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Dan Cox win the 2026 Maryland Governor Republican primary election?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-06-01
 expiryDate: 2026-06-23
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 60.0
-polymarketNo: 40.0
-polymarketVolume: 97281
+polymarketYes: 62.0
+polymarketNo: 38.0
+polymarketVolume: 97323
 polymarketUrl: "https://polymarket.com/event/will-dan-cox-win-the-2026-maryland-governor-republican-primary-election"
-analysisDate: 2026-06-01
 ---
 
 Dan Cox, the Trump-endorsed candidate who lost Maryland's 2022 gubernatorial race by 32 points, is trading at 60% to win the 2026 Republican primary, reflecting both his established name recognition and the lack of clear alternative frontrunners in Maryland's small GOP field. Maryland's deep-blue status and the memory of Cox's historic general election defeat create an unusual dynamic where the primary favorite might not be the party establishment's preferred choice.

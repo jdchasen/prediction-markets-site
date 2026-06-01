@@ -11,7 +11,6 @@ polymarketYes: 0.2
 polymarketNo: 99.8
 polymarketVolume: 9929
 polymarketUrl: "https://polymarket.com/event/elon-musk-of-tweets-july-2026-380-399"
-analysisDate: 2026-06-01
 ---
 
 # Elon Musk Tweet Volume Prediction: July 2026 Analysis

@@ -3,7 +3,7 @@ title: "Will a dozen eggs cost between $2.00–$2.25 in May?"
 description: "Will a dozen eggs cost between $2.00–$2.25 in May? Odds: 46.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will a dozen eggs cost between $2.00–$2.25 in May?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-01
 expiryDate: 2026-06-10
 tags: ["politics", "polymarket"]

@@ -9,9 +9,8 @@ expiryDate: 2026-10-31
 tags: ["politics", "polymarket"]
 polymarketYes: 1.0
 polymarketNo: 99.0
-polymarketVolume: 976590
+polymarketVolume: 977497
 polymarketUrl: "https://polymarket.com/event/will-the-detroit-tigers-win-the-2026-world-series"
-analysisDate: 2026-06-01
 ---
 
 The Detroit Tigers are priced as extreme long shots to win the 2026 World Series at 1% odds, reflecting their recent rebuild phase and competitive AL Central division, though this categorization as "politics" appears to be a tagging error for what is clearly a sports betting market.

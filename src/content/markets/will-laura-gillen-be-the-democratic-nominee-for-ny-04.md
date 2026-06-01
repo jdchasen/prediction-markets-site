@@ -1,17 +1,16 @@
 ---
 title: "Will Laura Gillen be the Democratic nominee for NY-04?"
-description: "Will Laura Gillen be the Democratic nominee for NY-04? Odds: 92.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Laura Gillen be the Democratic nominee for NY-04? Odds: 93.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Laura Gillen be the Democratic nominee for NY-04?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-06-01
 expiryDate: 2026-06-23
 tags: ["politics", "polymarket"]
-polymarketYes: 92.5
-polymarketNo: 7.5
+polymarketYes: 93.5
+polymarketNo: 6.5
 polymarketVolume: 9812
 polymarketUrl: "https://polymarket.com/event/will-laura-gillen-be-the-democratic-nominee-for-ny-04"
-analysisDate: 2026-06-01
 ---
 
 # Laura Gillen and NY-04: A Near-Certainty Market with Narrow Vulnerability

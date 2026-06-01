@@ -11,7 +11,6 @@ polymarketYes: 42.0
 polymarketNo: 58.0
 polymarketVolume: 9786
 polymarketUrl: "https://polymarket.com/event/will-saudi-arabia-advance-to-the-knockout-stages-at-the-2026-fifa-world-cup"
-analysisDate: 2026-06-01
 ---
 
 # Saudi Arabia 2026 World Cup Knockout Stage Analysis

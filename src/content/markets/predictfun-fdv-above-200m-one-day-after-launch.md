@@ -9,9 +9,8 @@ expiryDate: 2028-01-01
 tags: ["crypto", "polymarket"]
 polymarketYes: 75.0
 polymarketNo: 25.0
-polymarketVolume: 973239
+polymarketVolume: 973431
 polymarketUrl: "https://polymarket.com/event/predictfun-fdv-above-200m-one-day-after-launch"
-analysisDate: 2026-06-01
 ---
 
 The market strongly favors Predict.fun achieving a fully diluted valuation exceeding $200M within 24 hours of its token launch, reflecting high expectations for this new prediction market platform in an increasingly crowded sector. This matters because it serves as a real-time sentiment gauge on whether the protocol can differentiate itself and capture meaningful market share from established players like Polymarket and Augur.

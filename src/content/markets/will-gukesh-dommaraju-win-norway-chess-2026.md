@@ -3,7 +3,7 @@ title: "Will Gukesh Dommaraju win Norway Chess 2026?"
 description: "Will Gukesh Dommaraju win Norway Chess 2026? Odds: 2.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Gukesh Dommaraju win Norway Chess 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-01
 expiryDate: 2026-06-06
 tags: ["politics", "polymarket"]

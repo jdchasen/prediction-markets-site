@@ -9,9 +9,8 @@ expiryDate: 2026-07-12
 tags: ["politics", "polymarket"]
 polymarketYes: 0.1
 polymarketNo: 99.9
-polymarketVolume: 97461
+polymarketVolume: 97594
 polymarketUrl: "https://polymarket.com/event/will-alex-michelsen-be-the-2026-mens-wimbledon-winner"
-analysisDate: 2026-06-01
 ---
 
 The market pricing Alex Michelsen's Wimbledon 2026 victory at just 0.1% reflects extreme skepticism about the 20-year-old American's chances of capturing tennis's most prestigious title within two years, though the miscategorization as "politics" suggests limited serious engagement with this market.

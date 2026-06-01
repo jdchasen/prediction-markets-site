@@ -1,51 +1,52 @@
 ---
 title: "Xi Jinping out before 2027?"
-description: "Xi Jinping out before 2027? Odds: 6.9% YES on Polymarket. See live prices and trade this market."
+description: "Xi Jinping out before 2027? Odds: 6.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Xi Jinping out before 2027?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-06-01
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 6.9
+polymarketYes: 6.8
 polymarketNo: 93.2
-polymarketVolume: 9853840
+polymarketVolume: 9857135
 polymarketUrl: "https://polymarket.com/event/xi-jinping-out-before-2027"
+analysisDate: 2026-06-01
 ---
 
-The market pricing Xi Jinping's removal at under 7% reflects the overwhelming reality that China's leader has consolidated power to levels unseen since Mao and faces no visible institutional threats to his rule through 2026. This matters because Xi's tenure directly shapes U.S.-China competition, Taiwan tensions, and global economic policy for the world's second-largest economy.
+The market pricing Xi Jinping's removal from power at under 7% reflects the reality that he has consolidated unprecedented control over China's political system, eliminating term limits and positioning himself as the most powerful Chinese leader since Mao Zedong. This matters because any leadership change in the world's second-largest economy would represent a seismic geopolitical shift, though traders see it as highly unlikely before 2027.
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 6.9% | 93.2% | $9.8M | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 6.8% | 93.2% | $9.9M | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The bull case for Xi's ouster requires examining extreme scenarios: a catastrophic economic collapse that fractures Party unity, a disastrous military confrontation over Taiwan that triggers elite backlash, or a severe health crisis affecting the 70-year-old leader. The 20th Party Congress in October 2022 already shattered precedent by granting Xi an unprecedented third term and stacking the Politburo Standing Committee entirely with loyalists, eliminating the factional competition that previously constrained Chinese leaders. Any removal would likely require coordinated action from military and Party elites who currently show no signs of opposition. The bear case is simply institutional reality: Xi has systematically removed term limits, purged rivals through anti-corruption campaigns, and controls all key power centers including the military, security apparatus, and propaganda machinery.
+The bull case rests primarily on health concerns and potential internal Communist Party pushback. At 71 years old, Xi could face serious medical issues that force his departure, though no credible reports suggest current health problems. Economic deterioration from the property crisis, youth unemployment above 20%, and continued zero-COVID fallout could theoretically trigger elite dissatisfaction within the Politburo Standing Committee. A major foreign policy failure—such as miscalculation over Taiwan or severe international isolation—might create conditions for a palace coup, though China's security apparatus makes such scenarios extremely difficult.
 
-Key catalysts to monitor include China's economic trajectory through 2025-2026, particularly youth unemployment figures, property sector stability, and whether GDP growth falls significantly below 4%. The Taiwan situation remains the highest-risk variable—any military crisis or failed invasion attempt could theoretically shift elite calculations. Xi's health represents an unquantifiable factor; he maintains a limited public schedule compared to Western leaders, and any extended absence would trigger immediate speculation. The next National People's Congress in March 2025 will reveal whether Xi makes any personnel changes suggesting vulnerability.
+The bear case is overwhelming. Xi eliminated presidential term limits in 2018, secured an unprecedented third term at the 20th Party Congress in October 2022, and staffed the Politburo Standing Committee entirely with loyalists. The party's Central Committee won't convene for another full congress until 2027, and Xi controls all major decision-making bodies including the Central Military Commission. No Chinese leader has been forcibly removed since Hua Guofeng's marginalization in the late 1970s, and the modern surveillance state makes organized opposition nearly impossible.
 
-Traders should watch for unusual personnel movements in the Central Military Commission, unexpected retirements of Xi loyalists, or rare public criticism within Party publications—any of which would be seismic departures from current dynamics. The probability could shift if economic conditions deteriorate so severely that social unrest spreads beyond localized protests, though China's surveillance state makes sustained opposition difficult. Barring health emergencies or military catastrophe, the structural obstacles to removing a Chinese leader who has spent a decade eliminating checks on his power make this market's low probability justified.
+Key catalysts to monitor include the annual "Two Sessions" legislative meetings each March, where any unusual political signals might emerge, and Central Committee plenums that occur roughly annually. The next significant political gathering is the Fourth Plenum of the 20th Central Committee expected in 2025, though these rarely produce leadership surprises. Traders should watch for extended unexplained absences from public view, unusual military movements in Beijing, or emergency Politburo meetings—any of which would be extraordinary departures from normal operations and potentially market-moving events.
 
 ## Related Markets
 
 - [Will Wes Moore win the 2028 US Presidential Election?](/odds/will-wes-moore-win-the-2028-us-presidential-election) — 1% YES
-- [Will Daniel Mercuri win the California Governor Election in 2026?](/odds/will-daniel-mercuri-win-the-california-governor-election-in-2026) — 0% YES
-- [Will the Chicago Cubs win the 2026 World Series?](/odds/will-the-chicago-cubs-win-the-2026-world-series) — 4% YES
+- [Will Jamie Dimon win the 2028 US Presidential Election?](/odds/will-jamie-dimon-win-the-2028-us-presidential-election) — 2% YES
+- [Will Gideon Sa’ar be the next Prime Minister of Israel?](/odds/will-gideon-saar-be-the-next-prime-minister-of-israel) — 1% YES
 
 ## Frequently Asked Questions
 
-### Would Xi voluntarily stepping down count as resolution, or does "out" require forced removal?
+### Would Xi's death count as "out" for this market, or does it specifically require removal from power?
 
-The market resolves YES if Xi is no longer paramount leader by any means—voluntary retirement, death, forced removal, or incapacitation. The mechanism doesn't matter, only whether he retains power through the end of 2026.
+Death would satisfy the market's resolution criteria. Any scenario where Xi is no longer serving as China's paramount leader before 2027—whether through death, resignation, removal, or incapacitation—would resolve as YES.
 
-### How would traders know if a behind-the-scenes power shift occurred while Xi remained nominally in position?
+### Has any Chinese leader been removed between scheduled Party Congresses in modern history?
 
-Chinese politics is opaque, but real power transfers become visible through personnel changes, who appears at key events, whose speeches set policy, and state media treatment. If Xi retained titles but lost actual authority, resolution would likely depend on market-specific criteria about formal positions.
+The last forced mid-term removal was Hua Guofeng's gradual sidelining between 1978-1981, over 40 years ago. Zhao Ziyang was effectively removed after Tiananmen in 1989 but before the scheduled 1992 congress, making forced removals exceptionally rare in the reform era.
 
-### What historical precedent exists for removing a Chinese leader who has consolidated power like Xi?
+### What specific signs would indicate genuine threats to Xi's position ahead of the 2027 deadline?
 
-The closest parallel is Hua Guofeng's removal after Mao's death in 1976, but Hua never achieved Xi's level of control. Deng Xiaoping was purged twice but during the chaotic Cultural Revolution under different institutional conditions—no leader since Deng has faced removal after achieving Xi's current dominance.
+Watch for purges of Xi's own appointees rather than rivals, unusual Politburo Standing Committee meetings, state media softening its personality cult language around Xi, or prominent military reshuffling without clear corruption charges—any would signal internal party conflict.
 
