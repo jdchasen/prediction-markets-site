@@ -3,8 +3,8 @@ title: "World Cup: Winless Team?"
 description: "World Cup: Winless Team? Odds: 99.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "World Cup: Winless Team?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-06-01
+status: "settled"
+lastUpdated: 2026-06-02
 expiryDate: 2026-06-29
 tags: ["polymarket", "sports"]
 polymarketYes: 99.1

@@ -4,14 +4,13 @@ description: "Will Liam Lawson be the 2026 F1 Drivers' Champion? Odds: 0.2% YES 
 marketQuestion: "Will Liam Lawson be the 2026 F1 Drivers' Champion?"
 category: "sports"
 status: "active"
-lastUpdated: 2026-06-01
+lastUpdated: 2026-06-02
 expiryDate: 2026-12-06
 tags: ["polymarket", "sports"]
 polymarketYes: 0.2
 polymarketNo: 99.8
-polymarketVolume: 9854078
+polymarketVolume: 9891607
 polymarketUrl: "https://polymarket.com/event/will-liam-lawson-be-the-2026-f1-drivers-champion"
-analysisDate: 2026-06-01
 ---
 
 Liam Lawson's odds of winning the 2026 F1 Drivers' Championship sit at a minuscule 0.2%, reflecting severe skepticism that the New Zealand driver can overcome the sport's established hierarchy in just over two years, despite securing a full-time seat at Red Bull Racing for the 2025 season.

@@ -3,8 +3,8 @@ title: "Will the Bank of Canada announce a 50+ bps decrease at the June meeting?
 description: "Will the Bank of Canada announce a 50+ bps decrease at the June meeting? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Bank of Canada announce a 50+ bps decrease at the June meeting?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-06-01
+status: "settled"
+lastUpdated: 2026-06-02
 expiryDate: 2026-06-10
 tags: ["politics", "polymarket"]
 polymarketYes: 0.1

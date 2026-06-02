@@ -3,8 +3,8 @@ title: "Will Bitcoin dip to $66,000 June 1-7?"
 description: "Will Bitcoin dip to $66,000 June 1-7? Odds: 10.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Bitcoin dip to $66,000 June 1-7?"
 category: "crypto"
-status: "active"
-lastUpdated: 2026-06-01
+status: "settled"
+lastUpdated: 2026-06-02
 expiryDate: 2026-06-08
 tags: ["bitcoin", "crypto", "polymarket"]
 polymarketYes: 10.5

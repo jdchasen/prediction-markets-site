@@ -3,8 +3,8 @@ title: "Will Saudi Arabia advance to the knockout stages at the 2026 FIFA World 
 description: "Will Saudi Arabia advance to the knockout stages at the 2026 FIFA World Cup? Odds: 42.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Saudi Arabia advance to the knockout stages at the 2026 FIFA World Cup?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-06-01
+status: "settled"
+lastUpdated: 2026-06-02
 expiryDate: 2026-06-28
 tags: ["polymarket", "sports"]
 polymarketYes: 42.0
