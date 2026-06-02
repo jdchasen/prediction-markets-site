@@ -3,7 +3,7 @@ title: "ITF Wuning: Zhuoxuan Bai vs Patcharin Cheapchandej"
 description: "ITF Wuning: Zhuoxuan Bai vs Patcharin Cheapchandej Odds: 50.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "ITF Wuning: Zhuoxuan Bai vs Patcharin Cheapchandej"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-02
 expiryDate: 2026-06-10
 tags: ["ai", "politics", "polymarket"]

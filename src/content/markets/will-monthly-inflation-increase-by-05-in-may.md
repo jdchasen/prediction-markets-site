@@ -11,7 +11,6 @@ polymarketYes: 50.5
 polymarketNo: 49.5
 polymarketVolume: 9686
 polymarketUrl: "https://polymarket.com/event/will-monthly-inflation-increase-by-0pt5-in-may"
-analysisDate: 2026-06-02
 ---
 
 # Inflation Prediction Market Analysis

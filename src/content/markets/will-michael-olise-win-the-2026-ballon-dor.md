@@ -8,10 +8,9 @@ lastUpdated: 2026-06-02
 expiryDate: 2026-10-31
 tags: ["politics", "polymarket"]
 polymarketYes: 3.4
-polymarketNo: 96.7
-polymarketVolume: 98098
+polymarketNo: 96.6
+polymarketVolume: 98738
 polymarketUrl: "https://polymarket.com/event/will-michael-olise-win-the-2026-ballon-dor"
-analysisDate: 2026-06-02
 ---
 
 The market assigns minimal probability to Michael Olise winning the 2026 Ballon d'Or, reflecting both his youth and the dominance of established stars, though his talent trajectory and recent Bayern Munich transfer position him as a genuine dark horse candidate.

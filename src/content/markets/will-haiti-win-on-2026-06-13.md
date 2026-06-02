@@ -3,7 +3,7 @@ title: "Will Haiti win on 2026-06-13?"
 description: "Will Haiti win on 2026-06-13? Odds: 12.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Haiti win on 2026-06-13?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-02
 expiryDate: 2026-06-14
 tags: ["ai", "politics", "polymarket"]

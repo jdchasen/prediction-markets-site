@@ -11,7 +11,6 @@ polymarketYes: 1.5
 polymarketNo: 98.6
 polymarketVolume: 9738
 polymarketUrl: "https://polymarket.com/event/nick-fuentes-arrested-by-june-30"
-analysisDate: 2026-06-02
 ---
 
 # Nick Fuentes Arrest Prediction Analysis

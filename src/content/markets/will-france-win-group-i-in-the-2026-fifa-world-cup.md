@@ -9,9 +9,8 @@ expiryDate: 2026-06-27
 tags: ["polymarket", "sports"]
 polymarketYes: 67.5
 polymarketNo: 32.5
-polymarketVolume: 97432
+polymarketVolume: 99276
 polymarketUrl: "https://polymarket.com/event/will-france-win-group-i-in-the-2026-fifa-world-cup"
-analysisDate: 2026-06-02
 ---
 
 France enters as the heavy favorite to top their World Cup group, with betting markets pricing their dominance at roughly two-in-three odds as Les Bleus aim to leverage their elite talent pool against what appears to be manageable opposition in the group stage draw.

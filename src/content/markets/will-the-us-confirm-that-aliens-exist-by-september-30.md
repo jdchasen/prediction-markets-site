@@ -9,9 +9,8 @@ expiryDate: 2026-09-30
 tags: ["politics", "polymarket"]
 polymarketYes: 7.5
 polymarketNo: 92.5
-polymarketVolume: 983252
+polymarketVolume: 992791
 polymarketUrl: "https://polymarket.com/event/will-the-us-confirm-that-aliens-exist-by-september-30-396"
-analysisDate: 2026-06-02
 ---
 
 The market pricing alien confirmation at 7.5% reflects deep skepticism about official government disclosure despite ongoing congressional UFO hearings, with traders betting that institutional inertia and classification protocols will prevent definitive acknowledgment through September 2026.

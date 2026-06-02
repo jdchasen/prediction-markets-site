@@ -9,11 +9,12 @@ expiryDate: 2026-12-19
 tags: ["polymarket", "sports"]
 polymarketYes: 25.0
 polymarketNo: 75.0
-polymarketVolume: 9718
+polymarketVolume: 9725
 polymarketUrl: "https://polymarket.com/event/will-sal-stewart-win-the-2026-nl-rookie-of-the-year-award"
+analysisDate: 2026-06-02
 ---
 
-# Sal Stewart's 2026 ROY Odds Analysis
+# Sal Stewart's 2026 NL Rookie of the Year Odds: A 25% Probability in Early Formation
 
 ## Current Odds
 
@@ -23,33 +24,33 @@ polymarketUrl: "https://polymarket.com/event/will-sal-stewart-win-the-2026-nl-ro
 
 ## Market Analysis
 
-At 25% implied probability, the market is pricing Stewart as a solid contender but not a favorite, reflecting genuine uncertainty about whether he'll accumulate enough playing time and production to win hardware over a full rookie class. This market matters now because Stewart's 2025 season will be the primary data point—his plate appearances, batting average, power numbers, and position scarcity will either validate or undermine this current valuation before the award voting concludes in late 2026.
+At 25%, this market prices Stewart as a legitimate contender but far from the favorite, reflecting genuine uncertainty about whether he'll accumulate the plate appearances, performance consistency, and playing time necessary to win voting among baseball writers by year-end 2026. The market matters now because Stewart's 2025 performance will largely determine whether he remains in contention or fades, making this an ideal time to assess his trajectory before the season begins.
 
-The bull case centers on Stewart's prospect pedigree and the fact that the NL Rookie of the Year rarely goes to a bench player or part-timer. If he secures an everyday role—particularly as a shortstop or center fielder where the position demands are high—and posts 500+ plate appearances with a .280+ average and 15+ home runs, he'd be a legitimate finalist. The 2025 spring training performance and Opening Day roster decisions will be critical catalysts; if he starts on the major league roster and maintains a starting position through June, his odds should expand considerably. Additionally, if top-tier prospects like Jasson Dominguez or other consensus ROY candidates struggle with injuries or underperform, the field widens significantly for Stewart.
+The bull case rests on Stewart's prospect pedigree and the possibility of immediate MLB impact. If he debuts in 2025 with the team that drafted him (or acquired him), gets consistent at-bats, and posts an OPS above .800 with 120+ games played, he enters 2026 with legitimate ROY credibility. Young position players with elite athleticism—particularly if they're on playoff contenders—often generate voting momentum, especially if their teams perform well. Stewart's age and developmental arc matter; if he's 24 or younger entering 2026, voters favor youth combined with production. Any mid-season call-up in 2025 followed by strong finish could establish him as a fixture, increasing his 2026 odds significantly.
 
-The bear case is more straightforward: Stewart faces a loaded ROY class in 2026, and any of several other prospects could emerge as more compelling narratives. If he starts 2025 in Triple-A, gets called up mid-season, or shares playing time, his total stats will lag behind a full-season contributor. Service time manipulation, a common front-office strategy, could limit his 2025 exposure entirely, which would make winning 2026 ROY nearly impossible. Injuries to Stewart or a position group logjam that limits his at-bats would quickly make this a 10-15% proposition.
+The bear case is more straightforward: 25% odds imply a 3-to-1 shot, meaning the market expects three other rookies to have stronger 2026 seasons. Stewart could struggle with Triple-A pitching, suffer injuries delaying his debut into mid-2025 or 2026, or find himself buried on the bench behind established veterans. Even if called up in 2025, he might underperform (sub-.750 OPS), lose regular playing time, or play for a lottery team—factors that depress ROY voting. The NL typically features 2-3 highly productive rookie position players annually; if Stewart isn't among the league's top tier in WAR or counting stats, he'll be crowded out.
 
-Watch for these specific inflection points: Stewart's placement on Opening Day rosters for both 2025 and 2026 (late March/late April), his monthly performance splits and playing time percentages through May-June 2025, and any injury reports affecting him or competing rookies. Trade activity involving his team's roster composition and any prospects elevated above him in the depth chart could signal reduced opportunity. By mid-July 2025, if Stewart has fewer than 200 plate appearances or his team has acquired a veteran to block his position, the ROY probability should compress to 12-18%.
+Watch for these catalysts: Stewart's spring training performance in March 2025, his assignment (big league camp vs. minor league assignment), any injuries reported before Opening Day, and his actual debut date. Once the 2025 season begins, track his performance monthly—a June call-up with .850+ OPS command more ROY attention than a September cameo. By mid-2026, his plate-appearance total and offensive ranking within NL rookies will be decisive; if he's outside the top three in combined counting stats by July 2026, his odds should compress below 15%.
 
 ## Related Markets
 
 - [Will Liam Lawson be the 2026 F1 Drivers' Champion?](/odds/will-liam-lawson-be-the-2026-f1-drivers-champion) — 0% YES
-- [Will Houston Texans win the 2027 NFL AFC Championship?](/odds/will-houston-texans-win-the-2027-nfl-afc-championship) — 9% YES
-- [Will Baker Mayfield win the 2026 NFL MVP?](/odds/will-baker-mayfield-win-the-2026-nfl-mvp) — 4% YES
+- [Will the Miami Dolphins win the 2027 NFL league championship?](/odds/will-the-miami-dolphins-win-the-2027-nfl-league-championship) — 1% YES
+- [Will France win Group I in the 2026 FIFA World Cup?](/odds/will-france-win-group-i-in-the-2026-fifa-world-cup) — 68% YES
 
 ## Frequently Asked Questions
 
-### What specific offensive benchmarks would make Stewart a consensus favorite to win the award?
+### What's the minimum plate appearance threshold Stewart likely needs to be considered for 2026 NL ROY voting?
 
-A .285+ batting average with 15+ home runs and 70+ RBIs on 500+ plate appearances as an everyday player would put him among the top ROY candidates; anything below 450 plate appearances or under a .260 average would significantly damage his chances.
+Generally, 400+ plate appearances across both 2025 and 2026 combined, with most of those coming in 2026, signals credibility; fewer than 300 total plates appearances makes ROY unlikely unless his per-plate production is elite.
 
-### How much does position scarcity matter for this award's outcome?
+### How much does late-season 2025 performance carry into 2026 ROY perception?
 
-Shortstop and center field rookies historically have an advantage over corner infielders or DH types because of positional demand; if Stewart plays a premium position with consistent at-bats, it materially improves his ROY odds compared to a bench role.
+Significantly—voters see late-2025 rookies as continuations of their trajectory; a strong September 2025 finish improves his 2026 baseline expectations and increases odds if he maintains form into 2026.
 
-### Could service time manipulation or late call-ups eliminate Stewart's 2026 ROY eligibility?
+### Which competing 2026 rookies or prospect cohorts could most directly threaten Stewart's ROY chances?
 
-Yes—if his team delays his debut past June 2025 or limits his total service time, he'd still be eligible for 2026 ROY, but his cumulative stats would be lower, making him a longshot unless other candidates underperform dramatically.
+Any 2025 first-round draft picks or top-50 prospects debuting in 2026, particularly position players from the Dodgers
 
 ## Learn More
 

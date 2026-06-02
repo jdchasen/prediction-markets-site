@@ -8,10 +8,9 @@ lastUpdated: 2026-06-02
 expiryDate: 2026-06-30
 tags: ["finance", "polymarket"]
 polymarketYes: 1.4
-polymarketNo: 98.6
+polymarketNo: 98.7
 polymarketVolume: 9840
 polymarketUrl: "https://polymarket.com/event/gc-above-5600-jun-2026"
-analysisDate: 2026-06-02
 ---
 
 # Gold Price Target Analysis: $5,600 by June 2026

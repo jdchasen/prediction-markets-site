@@ -3,7 +3,7 @@ title: "Will Luis Diaz be the top goalscorer at the 2026 FIFA World Cup?"
 description: "Will Luis Diaz be the top goalscorer at the 2026 FIFA World Cup? Odds: 1.6% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Luis Diaz be the top goalscorer at the 2026 FIFA World Cup?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-02
 expiryDate: 2026-07-20
 tags: ["polymarket", "sports"]

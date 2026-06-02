@@ -1,17 +1,16 @@
 ---
 title: "NATO x Russia military clash by June 30, 2026?"
-description: "NATO x Russia military clash by June 30, 2026? Odds: 1.8% YES on Polymarket. See live prices and trade this market."
+description: "NATO x Russia military clash by June 30, 2026? Odds: 1.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "NATO x Russia military clash by June 30, 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-06-02
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
-polymarketYes: 1.8
-polymarketNo: 98.2
-polymarketVolume: 982508
+polymarketYes: 1.7
+polymarketNo: 98.3
+polymarketVolume: 983068
 polymarketUrl: "https://polymarket.com/event/nato-x-russia-military-clash-by-june-30-2026"
-analysisDate: 2026-06-02
 ---
 
 Prediction markets currently assign less than 2% probability to a direct military clash between NATO and Russia before mid-2026, reflecting trader confidence that despite ongoing tensions over Ukraine, neither side will cross the threshold into direct combat between alliance forces and Russian military units.

@@ -9,9 +9,8 @@ expiryDate: 2026-11-03
 tags: ["ai", "elections", "politics", "polymarket"]
 polymarketYes: 0.1
 polymarketNo: 99.9
-polymarketVolume: 983553
+polymarketVolume: 993724
 polymarketUrl: "https://polymarket.com/event/will-antonio-villaraigosa-win-the-california-governor-election-in-2026"
-analysisDate: 2026-06-02
 ---
 
 Antonio Villaraigosa, the former Los Angeles mayor and 2018 gubernatorial candidate, faces near-insurmountable odds at 0.1% as traders signal virtually no path to victory in California's 2026 governor's race, making this market primarily useful for tracking dark horse scenarios or major Democratic field reshuffling.

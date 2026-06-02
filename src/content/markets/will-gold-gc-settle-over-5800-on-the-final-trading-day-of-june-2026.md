@@ -11,7 +11,6 @@ polymarketYes: 1.6
 polymarketNo: 98.4
 polymarketVolume: 9818
 polymarketUrl: "https://polymarket.com/event/gc-above-5800-jun-2026"
-analysisDate: 2026-06-02
 ---
 
 # Gold Price Prediction Analysis: June 2026

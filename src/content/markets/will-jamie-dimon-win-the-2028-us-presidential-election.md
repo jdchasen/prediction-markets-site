@@ -1,17 +1,16 @@
 ---
 title: "Will Jamie Dimon win the 2028 US Presidential Election?"
-description: "Will Jamie Dimon win the 2028 US Presidential Election? Odds: 1.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Jamie Dimon win the 2028 US Presidential Election? Odds: 1.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Jamie Dimon win the 2028 US Presidential Election?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-06-02
 expiryDate: 2028-11-07
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 1.5
-polymarketNo: 98.6
-polymarketVolume: 9744869
+polymarketYes: 1.2
+polymarketNo: 98.8
+polymarketVolume: 9835129
 polymarketUrl: "https://polymarket.com/event/will-jamie-dimon-win-the-2028-us-presidential-election"
-analysisDate: 2026-06-02
 ---
 
 JPMorgan Chase CEO Jamie Dimon sits at minimal 1.5% odds to win the 2028 presidency, reflecting widespread skepticism that he'll actually run despite perennial speculation about his political ambitions—though his business credibility and bipartisan appeal could theoretically position him as a unity candidate if American politics fractures further.

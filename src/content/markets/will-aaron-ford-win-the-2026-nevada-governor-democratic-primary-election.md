@@ -11,7 +11,6 @@ polymarketYes: 99.2
 polymarketNo: 0.8
 polymarketVolume: 9971
 polymarketUrl: "https://polymarket.com/event/will-aaron-ford-win-the-2026-nevada-governor-democratic-primary-election"
-analysisDate: 2026-06-02
 ---
 
 Aaron Ford, Nevada's incumbent Attorney General, has established himself as the overwhelming favorite to capture the Democratic nomination for governor in 2026, with traders pricing in near-certainty of his primary victory as the only major Democrat signaling interest in the race.

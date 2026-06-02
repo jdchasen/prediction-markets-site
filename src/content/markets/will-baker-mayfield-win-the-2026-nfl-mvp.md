@@ -1,17 +1,16 @@
 ---
 title: "Will Baker Mayfield win the 2026 NFL MVP?"
-description: "Will Baker Mayfield win the 2026 NFL MVP? Odds: 3.6% YES on Polymarket. See live prices and trade this market."
+description: "Will Baker Mayfield win the 2026 NFL MVP? Odds: 3.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Baker Mayfield win the 2026 NFL MVP?"
 category: "sports"
 status: "active"
 lastUpdated: 2026-06-02
 expiryDate: 2027-02-15
 tags: ["polymarket", "sports"]
-polymarketYes: 3.6
-polymarketNo: 96.4
+polymarketYes: 3.9
+polymarketNo: 96.1
 polymarketVolume: 98330
 polymarketUrl: "https://polymarket.com/event/will-baker-mayfield-win-the-2026-nfl-mvp"
-analysisDate: 2026-06-02
 ---
 
 Baker Mayfield's 3.6% probability of winning the 2026 NFL MVP reflects the Buccaneers quarterback's solid but unspectacular standing in a league dominated by elite talent, where even making a top-five finish requires an extraordinary convergence of individual performance and team success.

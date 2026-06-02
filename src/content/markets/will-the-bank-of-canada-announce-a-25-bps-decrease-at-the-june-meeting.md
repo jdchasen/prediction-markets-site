@@ -1,55 +1,52 @@
 ---
 title: "Will the Bank of Canada announce a 25 bps decrease at the June meeting?"
-description: "Will the Bank of Canada announce a 25 bps decrease at the June meeting? Odds: 0.7% YES on Polymarket. See live prices and trade this market."
+description: "Will the Bank of Canada announce a 25 bps decrease at the June meeting? Odds: 0.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Bank of Canada announce a 25 bps decrease at the June meeting?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-06-02
 expiryDate: 2026-06-10
 tags: ["politics", "polymarket"]
-polymarketYes: 0.7
-polymarketNo: 99.3
+polymarketYes: 0.8
+polymarketNo: 99.2
 polymarketVolume: 9831
 polymarketUrl: "https://polymarket.com/event/will-the-bank-of-canada-announce-a-25-bps-decrease-at-the-june-meeting"
+analysisDate: 2026-06-02
 ---
 
-# Bank of Canada June 2026 Rate Cut Analysis
+# Bank of Canada Rate Cut Market Analysis
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.7% | 99.3% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.8% | 99.2% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The market is pricing an extremely low probability of a 25 basis point cut at the Bank of Canada's June 2026 meeting, reflecting current expectations for persistent inflation and a higher-for-longer rate environment. This prediction matters because it reveals what traders expect from Canadian monetary policy over the next 18+ months, with significant implications for CAD currency valuations, mortgage rates, and cross-border economic dynamics with the US Federal Reserve.
+The market is pricing an extremely low probability of a 25 basis point rate cut at the June 2026 BoC meeting, reflecting expectations that Canadian monetary policy will remain restrictive or move incrementally. This timing matters because it's nearly two years out, making it a long-duration bet on inflation trajectory, economic growth, and the BoC's policy stance heading into mid-2026. At 0.8% implied probability, traders are essentially calling a rate cut at this meeting highly unlikely, which suggests confidence that either inflation remains sticky, the economy stays resilient, or the central bank takes a gradual approach to easing.
 
-The bull case for a rate cut rests on a potential economic slowdown or disinflation scenario materializing between now and June 2026. If Canadian inflation decisively trends toward the BoC's 2% target and labor market slack emerges—particularly if unemployment rises above 6.5%—the central bank would have room and rationale to ease. A significant housing market deterioration or external demand shock (recession in the US or global slowdown) could also force the BoC's hand earlier than currently priced. The base case assumes the BoC has already begun cutting from its peak rate cycle, and subsequent cuts through 2025 could establish momentum toward June easing.
+The bull case for a 25 bps cut rests on a potential economic slowdown or disinflation scenario unfolding between now and June 2026. If Canadian GDP growth stalls, unemployment rises materially, or inflation cools faster than currently expected, the BoC may need to cut rates to support demand. The BoC's May and June 2025 meetings will be critical data points—if the central bank signals dovish tilts or begins cutting earlier than markets expect, it could extend an easing cycle into 2026. Alternatively, a significant negative external shock (U.S. recession, trade war escalation) could force the BoC's hand by mid-2026.
 
-The bear case dominates current pricing and assumes the BoC remains data-dependent with inflation sticky above target through early 2026. If core inflation proves persistent, wage growth remains elevated, or the US maintains higher rates for longer (pressuring the BoC to keep rates elevated to defend the currency), the June meeting could easily result in no action. The BoC's June 2026 decision arrives after multiple policy meetings in late 2025 and early 2026; if those sessions show the bank holding steady or delivering only cautious cuts, momentum for a June reduction evaporates. Key catalysts include monthly CPI releases (particularly Q1 and Q2 2026), the BoC's April and May policy meetings, and US Fed communications around its own rate trajectory.
+The bear case dominates the market and is priced heavily into these odds. The BoC has signaled a "data-dependent" approach, and as of early 2025, inflation remains above target while the Canadian economy shows resilience. Even if cuts begin in 2025, the BoC typically space them out at 25 bps intervals over multiple meetings; one cut does not guarantee another immediately after. The June 2026 meeting occurs after a full year of potential cuts, meaning if easing starts soon, the BoC could be on hold or nearing the end of a cycle by then. Core inflation persistence, wage growth, and geopolitical risks could also keep rates elevated longer than markets currently assume.
 
-Traders should monitor three critical factors: (1) the BoC's cumulative easing through 2025—if the central bank cuts aggressively earlier, it signals less room for June action; (2) the spread between US and Canadian rates, since currency pressures may constrain BoC flexibility; and (3) wage growth data, especially through late 2025, as sticky labor costs would justify holding rates steady. The 0.7% odds reflect genuine skepticism that conditions will align for easing by June 2026, not impossible odds—a significant deterioration in economic data or a Fed pivot could rapidly shift this market.
+Traders should monitor BoC communications at their March, May, and June 2025 meetings for forward guidance on the easing cycle's pace and terminal rate. U.S. inflation data and Fed policy will matter significantly—if the U.S. maintains higher rates longer, the BoC may lag cuts to preserve currency stability. Canadian employment reports and CPI releases throughout 2025 and into early 2026 will be the primary catalysts. Watch for any shift in BoC Governor's rhetoric toward "cumulative effect of rate cuts" or language suggesting saturation of restrictive policy, as these could signal a turn toward another cut by June 2026. The market's extreme skew suggests this bet offers value only if you have conviction in a significant economic deterioration or faster disinflation than consensus currently prices.
 
 ## Related Markets
 
-- [Xi Jinping out before 2027?](/odds/xi-jinping-out-before-2027) — 7% YES
 - [Will Wes Moore win the 2028 US Presidential Election?](/odds/will-wes-moore-win-the-2028-us-presidential-election) — 1% YES
-- [Will Jamie Dimon win the 2028 US Presidential Election?](/odds/will-jamie-dimon-win-the-2028-us-presidential-election) — 2% YES
+- [Xi Jinping out before 2027?](/odds/xi-jinping-out-before-2027) — 7% YES
+- [Will Jamie Dimon win the 2028 US Presidential Election?](/odds/will-jamie-dimon-win-the-2028-us-presidential-election) — 1% YES
 
 ## Frequently Asked Questions
 
-### Why is this market priced so low when the BoC has historically cut rates multiple times per year during easing cycles?
+### What would need to happen for this market to move significantly higher?
 
-The June 2026 timeframe is still 18 months away; traders are pricing the likely scenario that if easing occurs, it happens earlier in 2025 or late 2025, leaving little rationale for additional cuts by June 2026. The low odds don't deny cutting will happen—they suggest cuts occur before this specific meeting.
+A confirmed BoC rate cut cycle beginning in mid-2025 combined with Canadian inflation dropping to or below target by Q1 2026 would substantially increase odds, as it would position June 2026 as a plausible continuation point in an easing sequence.
 
-### How would a US recession change the odds on this market?
+### Why is this market pricing June 2026 differently than earlier 2025 cuts?
 
-A US recession announced or confirmed in late 2025 would likely spike these odds sharply higher, as it would create both deflationary pressure in Canada and give the BoC cover to cut in June 2026 even if the Fed remains restrictive. Cross-border spillovers make US recession the single biggest tail risk to current pricing.
-
-### What BoC action in April or May 2026 would signal a June cut is unlikely?
-
-If the BoC holds rates steady in both April and May 2026
+The BoC typically spaces rate cuts 25 bps apart over multiple meetings rather than cutting consecutively; even if cuts begin in 2025, the central bank may be on hold or nearing the end of its easing cycle by June 2026 depending on the economic backdrop.
 
 ## Learn More
 

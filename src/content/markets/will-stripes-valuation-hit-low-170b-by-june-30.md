@@ -3,7 +3,7 @@ title: "Will Stripe's valuation hit (LOW) $170B by June 30?"
 description: "Will Stripe's valuation hit (LOW) $170B by June 30? Odds: 94.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Stripe's valuation hit (LOW) $170B by June 30?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-02
 expiryDate: 2026-07-01
 tags: ["politics", "polymarket"]

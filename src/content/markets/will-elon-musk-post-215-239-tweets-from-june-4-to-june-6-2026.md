@@ -11,7 +11,6 @@ polymarketYes: 0.1
 polymarketNo: 100.0
 polymarketVolume: 9798
 polymarketUrl: "https://polymarket.com/event/elon-musk-of-tweets-june-4-june-6-215-239"
-analysisDate: 2026-06-02
 ---
 
 This market is trading near zero because the three-day window targets an unusually specific tweet volume that would require Musk to maintain roughly 70-80 tweets per day, a pace he rarely sustains for extended periods. The extremely low pricing reflects market skepticism about whether Musk will be active enough during that particular June 2026 weekend to hit such a narrow range, though the market has built in minimal premium for tail-risk scenarios where a major Tesla announcement or X platform crisis drives exceptional posting activity.

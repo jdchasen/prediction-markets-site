@@ -9,45 +9,46 @@ expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 0.5
 polymarketNo: 99.5
-polymarketVolume: 998823
+polymarketVolume: 999019
 polymarketUrl: "https://polymarket.com/event/will-gideon-saar-be-the-next-prime-minister-of-israel"
+analysisDate: 2026-06-02
 ---
 
-Gideon Sa'ar's path to becoming Israel's next Prime Minister appears extremely unlikely based on the minimal market confidence, reflecting both his party's weak electoral position and the crowded field of more prominent contenders within Israel's fragmented political landscape.
+Gideon Sa'ar currently registers as a long-shot candidate for Israel's premiership with negligible odds, reflecting his limited political base despite holding a ministerial position in Netanyahu's coalition government. The former Likud member turned New Hope party founder occupies a complicated position in Israeli politics—experienced enough to be credible but lacking the party infrastructure or polling numbers to mount a realistic challenge for the top job by late 2026.
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.6% | 99.4% | $998K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.5% | 99.5% | $999K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The bull case for Sa'ar hinges on a political earthquake scenario where the major parties fracture and a unity government emerges requiring a compromise candidate. Sa'ar, who has demonstrated flexibility by moving between Likud, founding New Hope, and recently joining National Unity, could theoretically position himself as an acceptable bridge figure if Netanyahu's legal troubles intensify or if the current coalition completely collapses. His experience as a former Education and Interior Minister gives him governmental credibility that might appeal to coalition builders seeking someone untainted by the current administration's controversies. His departure from Likud in 2020 specifically to challenge Netanyahu showed political courage that could resonate if anti-Netanyahu sentiment within the right-wing bloc reaches a tipping point.
+The bull case relies on catastrophic political realignment within Israel's right-wing bloc. If Netanyahu faces legal or health issues forcing his exit before 2026, and if Likud fractures in the succession battle, Sa'ar could position himself as a unity candidate acceptable to both traditional Likud voters and centrist parties. His experience as Interior Minister and previous Education Minister gives him executive credibility, while his 2020 break from Likud—originally framed as principled opposition to Netanyahu—could appeal to voters seeking change without abandoning right-wing policies. A scenario where Israel faces renewed security crises requiring a "consensus" prime minister outside the usual Likud-Labor dynamic represents his narrow path to power.
 
-The bear case is straightforward: Sa'ar's New Hope party won only four Knesset seats in the 2022 election, and recent polling consistently shows him and his political vehicle struggling to reach even the electoral threshold. Benjamin Netanyahu remains firmly in control of the right-wing bloc despite ongoing corruption trials, while Benny Gantz and Yair Lapid command far larger shares of centrist and opposition support. Sa'ar's decision to join Gantz's National Unity party in 2023 effectively subordinated his own political brand, making an independent path to premiership nearly impossible. The Israeli political system rewards party leaders who can deliver large seat counts, and Sa'ar has repeatedly failed to build a sustainable electoral coalition.
+The bear case is simply electoral mathematics and political reality. Sa'ar's New Hope party collapsed in recent polls, typically registering under the electoral threshold or barely above it. Current surveys show Likud, National Unity (Gantz), and Yesh Atid (Lapid) dominating the landscape, with Sa'ar struggling for relevance. The next Knesset elections must occur by October 2026 at the latest unless the current coalition collapses earlier, but no major polls show Sa'ar commanding even 10% support, let alone the 25-30% typically needed to form a government as prime minister. His decision to rejoin a Netanyahu-led government in 2024 undermined his original break-from-Bibi brand without gaining him a substantial Likud loyalist following.
 
-Key catalysts to monitor include any potential early election calls, which could occur if Netanyahu's coalition fractures over judicial reform implementation or the handling of Gaza operations. The Supreme Court proceedings regarding Netanyahu's legal status remain ongoing, though no specific dates are scheduled for 2024-2025 that would directly trigger government collapse. Quarterly polling from major Israeli outlets like Channel 12 and Channel 13 will indicate whether Sa'ar can rebuild political momentum, though current surveys show National Unity support concentrating around Gantz rather than distributing among its subfactions. The budget negotiations in early 2025 represent a potential coalition stress test that could theoretically reshape the political landscape.
+Key catalysts include potential early election triggers—coalition instability over judicial reform implementation, budget votes in early 2026, or developments in ongoing war crimes proceedings. Watch for polling trends in Israel's Channel 12 and Channel 13 monthly surveys, particularly whether Sa'ar's party crosses the 3.25% threshold. Netanyahu's corruption trial proceedings and potential Supreme Court rulings on judicial reforms scheduled through 2025 could destabilize the coalition. Any merger negotiations between Sa'ar and other center-right parties like National Unity would signal a more viable path, though Gantz currently has little incentive to elevate a competitor.
 
 ## Related Markets
 
-- [Xi Jinping out before 2027?](/odds/xi-jinping-out-before-2027) — 7% YES
 - [Will Wes Moore win the 2028 US Presidential Election?](/odds/will-wes-moore-win-the-2028-us-presidential-election) — 1% YES
-- [Will Jamie Dimon win the 2028 US Presidential Election?](/odds/will-jamie-dimon-win-the-2028-us-presidential-election) — 2% YES
+- [Xi Jinping out before 2027?](/odds/xi-jinping-out-before-2027) — 7% YES
+- [Will Jamie Dimon win the 2028 US Presidential Election?](/odds/will-jamie-dimon-win-the-2028-us-presidential-election) — 1% YES
 
 ## Frequently Asked Questions
 
-### How could Sa'ar become Prime Minister if his party only holds four seats?
+### Could Sa'ar become prime minister without winning an election outright?
 
-He would need to either lead National Unity after Gantz steps aside, or emerge as a compromise candidate in a deadlocked coalition negotiation where neither Netanyahu nor opposition leaders can form a government. Both scenarios require multiple political improbabilities to align simultaneously.
+Yes, if no party wins a majority and he emerges as a compromise candidate during coalition negotiations, similar to how Bennett became PM in 2021. However, this requires significant parliamentary strength he currently lacks.
 
-### What differentiates Sa'ar from other Netanyahu alternatives like Gantz or Lapid?
+### What would need to happen to Netanyahu's Likud party for Sa'ar's odds to improve substantially?
 
-Sa'ar is a right-wing politician who opposed Netanyahu personally rather than ideologically, making him theoretically acceptable to Likud defectors, while Gantz and Lapid represent centrist positions that cannot easily absorb the Netanyahu coalition's right-wing elements. However, this positioning hasn't translated into electoral success.
+Likud would need to either split into competing factions during a succession crisis or suffer such severe electoral losses that Sa'ar could absorb defectors and position himself as the right-wing alternative, requiring polling swings of 15-20 seats.
 
-### Could Netanyahu's legal troubles create an opening for Sa'ar before 2026?
+### How does Sa'ar's current position as minister in Netanyahu's government affect his chances?
 
-While Netanyahu's corruption trial continues, the Supreme Court has allowed him to serve as Prime Minister, and his coalition partners remain loyal primarily because they lack alternative paths to power. Sa'ar would need not just Netanyahu's exit but also a simultaneous rejection of obvious successors within Likud itself.
+It severely complicates his path by eliminating his differentiation as a Netanyahu alternative while not rebuilding trust with Likud loyalists who view him as a traitor for his 2020 defection, leaving him without a clear constituency.
 
 ## Learn More
 

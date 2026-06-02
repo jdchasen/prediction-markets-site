@@ -9,9 +9,8 @@ expiryDate: 2026-06-17
 tags: ["economics", "federal-reserve", "interest-rates", "polymarket"]
 polymarketYes: 0.9
 polymarketNo: 99.1
-polymarketVolume: 9885276
+polymarketVolume: 9894562
 polymarketUrl: "https://polymarket.com/event/will-the-fed-decrease-interest-rates-by-25-bps-after-the-june-2026-meeting"
-analysisDate: 2026-06-02
 ---
 
 The market assigns virtually no probability to a 25 basis point rate cut following the June 2026 FOMC meeting, reflecting expectations that the Fed will either hold rates steady or potentially cut by a different increment if economic conditions deteriorate significantly by mid-2026.

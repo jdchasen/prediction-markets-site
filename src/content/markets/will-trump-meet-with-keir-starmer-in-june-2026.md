@@ -1,17 +1,16 @@
 ---
 title: "Will Trump meet with Keir Starmer in June 2026?"
-description: "Will Trump meet with Keir Starmer in June 2026? Odds: 91.0% YES on Polymarket. See live prices and trade this market."
+description: "Will Trump meet with Keir Starmer in June 2026? Odds: 92.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Trump meet with Keir Starmer in June 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-06-02
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket", "trump"]
-polymarketYes: 91.0
-polymarketNo: 9.0
-polymarketVolume: 9828
+polymarketYes: 92.0
+polymarketNo: 8.0
+polymarketVolume: 9958
 polymarketUrl: "https://polymarket.com/event/will-trump-meet-with-keir-starmer-in-june-2026"
-analysisDate: 2026-06-02
 ---
 
 # Trump-Starmer June 2026 Meeting Market Analysis
