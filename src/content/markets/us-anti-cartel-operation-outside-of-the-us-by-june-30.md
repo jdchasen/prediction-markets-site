@@ -3,8 +3,8 @@ title: "U.S. anti-cartel operation outside of the U.S. by June 30? "
 description: "U.S. anti-cartel operation outside of the U.S. by June 30?  Odds: 35.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "U.S. anti-cartel operation outside of the U.S. by June 30? "
 category: "politics"
-status: "active"
-lastUpdated: 2026-06-02
+status: "settled"
+lastUpdated: 2026-06-03
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
 polymarketYes: 35.5

@@ -3,8 +3,8 @@ title: "Will Trump meet with Giorgia Meloni in June 2026?"
 description: "Will Trump meet with Giorgia Meloni in June 2026? Odds: 92.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Trump meet with Giorgia Meloni in June 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-06-02
+status: "settled"
+lastUpdated: 2026-06-03
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket", "trump"]
 polymarketYes: 92.5

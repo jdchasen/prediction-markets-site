@@ -3,8 +3,8 @@ title: "Birmingham: Ajla Tomljanovic vs Katie Swan"
 description: "Birmingham: Ajla Tomljanovic vs Katie Swan Odds: 24.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Birmingham: Ajla Tomljanovic vs Katie Swan"
 category: "politics"
-status: "active"
-lastUpdated: 2026-06-02
+status: "settled"
+lastUpdated: 2026-06-03
 expiryDate: 2026-06-08
 tags: ["politics", "polymarket"]
 polymarketYes: 24.0

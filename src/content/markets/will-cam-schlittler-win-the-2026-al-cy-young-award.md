@@ -3,8 +3,8 @@ title: "Will Cam Schlittler win the 2026 AL Cy Young Award?"
 description: "Will Cam Schlittler win the 2026 AL Cy Young Award? Odds: 42.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Cam Schlittler win the 2026 AL Cy Young Award?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-06-02
+status: "settled"
+lastUpdated: 2026-06-03
 expiryDate: 2026-11-12
 tags: ["politics", "polymarket"]
 polymarketYes: 42.2

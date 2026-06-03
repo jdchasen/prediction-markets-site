@@ -3,8 +3,8 @@ title: "Will France win Group I in the 2026 FIFA World Cup?"
 description: "Will France win Group I in the 2026 FIFA World Cup? Odds: 67.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will France win Group I in the 2026 FIFA World Cup?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-06-02
+status: "settled"
+lastUpdated: 2026-06-03
 expiryDate: 2026-06-27
 tags: ["polymarket", "sports"]
 polymarketYes: 67.5

@@ -3,8 +3,8 @@ title: "Will Gold (XAUUSD) hit (HIGH) $4,700 in June?"
 description: "Will Gold (XAUUSD) hit (HIGH) $4,700 in June? Odds: 40.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Gold (XAUUSD) hit (HIGH) $4,700 in June?"
 category: "finance"
-status: "active"
-lastUpdated: 2026-06-02
+status: "settled"
+lastUpdated: 2026-06-03
 expiryDate: 2026-07-01
 tags: ["finance", "polymarket"]
 polymarketYes: 40.5

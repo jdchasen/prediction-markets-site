@@ -4,14 +4,13 @@ description: "Will SHEIN have the highest IPO Market Cap 2026? Odds: 0.1% YES on
 marketQuestion: "Will SHEIN have the highest IPO Market Cap 2026?"
 category: "finance"
 status: "active"
-lastUpdated: 2026-06-02
+lastUpdated: 2026-06-03
 expiryDate: 2026-12-31
 tags: ["finance", "polymarket"]
 polymarketYes: 0.1
 polymarketNo: 100.0
 polymarketVolume: 99128
 polymarketUrl: "https://polymarket.com/event/will-shein-have-the-highest-ipo-market-cap-2026-348"
-analysisDate: 2026-06-02
 ---
 
 The market pricing SHEIN's chances of achieving the highest 2026 IPO market cap at just 0.1% reflects extreme skepticism that the fast-fashion giant will go public soon enough and at a valuation that would surpass all other companies debuting that year. This matters because SHEIN has repeatedly delayed its IPO plans amid regulatory scrutiny in both the US and UK, with its most recent London listing attempt stalling in 2024 due to political opposition and forced labor concerns.

@@ -3,8 +3,8 @@ title: "Will the US confirm that aliens exist by September 30?"
 description: "Will the US confirm that aliens exist by September 30? Odds: 7.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the US confirm that aliens exist by September 30?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-06-02
+status: "settled"
+lastUpdated: 2026-06-03
 expiryDate: 2026-09-30
 tags: ["politics", "polymarket"]
 polymarketYes: 7.5

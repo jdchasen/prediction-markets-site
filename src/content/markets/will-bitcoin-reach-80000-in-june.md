@@ -3,8 +3,8 @@ title: "Will Bitcoin reach $80,000 in June?"
 description: "Will Bitcoin reach $80,000 in June? Odds: 8.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Bitcoin reach $80,000 in June?"
 category: "crypto"
-status: "active"
-lastUpdated: 2026-06-02
+status: "settled"
+lastUpdated: 2026-06-03
 expiryDate: 2026-07-01
 tags: ["bitcoin", "crypto", "polymarket"]
 polymarketYes: 8.5

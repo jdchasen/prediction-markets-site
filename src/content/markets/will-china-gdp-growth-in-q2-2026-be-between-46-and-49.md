@@ -1,17 +1,17 @@
 ---
 title: "Will China GDP growth in Q2 2026 be between 4.6% and 4.9%?"
-description: "Will China GDP growth in Q2 2026 be between 4.6% and 4.9%? Odds: 59.5% YES on Polymarket. See live prices and trade this market."
+description: "Will China GDP growth in Q2 2026 be between 4.6% and 4.9%? Odds: 66.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will China GDP growth in Q2 2026 be between 4.6% and 4.9%?"
 category: "economics"
 status: "active"
-lastUpdated: 2026-06-02
+lastUpdated: 2026-06-03
 expiryDate: 2026-07-16
 tags: ["economics", "polymarket"]
-polymarketYes: 59.5
-polymarketNo: 40.5
-polymarketVolume: 9792
+polymarketYes: 66.5
+polymarketNo: 33.5
+polymarketVolume: 9852
 polymarketUrl: "https://polymarket.com/event/will-china-gdp-growth-in-q2-2026-be-between-4pt6-and-4pt9"
-analysisDate: 2026-06-02
+analysisDate: 2026-06-03
 ---
 
 # China Q2 2026 GDP Growth Prediction Market Analysis
@@ -20,31 +20,37 @@ analysisDate: 2026-06-02
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 59.5% | 40.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 66.5% | 33.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-At 59.5% YES, traders are pricing in a moderately high probability that China's second-quarter 2026 growth will land in the narrow 4.6-4.9% band, reflecting consensus expectations but with meaningful uncertainty given the 30-basis-point range constraint. This market matters now because China's growth trajectory directly influences global commodity prices, tech sector earnings, and Fed policy assumptions—making Q2 2026 GDP one of the earliest major data points signaling whether Beijing's stimulus measures (currently being debated through 2025) succeed or falter.
+The market is pricing in a two-thirds probability that China's second-quarter 2026 GDP growth will land in the narrow 4.6-4.9% band, reflecting moderate confidence in a continued slowdown from pre-pandemic growth rates but uncertainty about the exact landing zone. This matters now because China's growth trajectory directly influences global commodity prices, manufacturing activity, and currency valuations—traders need to position ahead of official GDP releases that China typically announces in mid-to-late August for Q2 data.
 
-The bull case for YES rests on three pillars: Beijing's track record of engineering growth within target bands through counter-cyclical spending, the likelihood that 2025-2026 stimulus packages generate momentum into H2 2026, and the fact that 4.6-4.9% sits comfortably above China's 5% official target, giving policymakers room to miss on the upside without falling below the band. Specific catalysts include the National People's Congress meetings (typically March) where growth targets are announced, and monthly industrial production/retail sales data (released mid-month) throughout Q1 and Q2 2026 that will telegraph whether growth is tracking toward the band. The bear case hinges on geopolitical risks—potential US tariff escalation under the 2025-2026 administration, semiconductor export controls impacting tech manufacturing, or a property sector relapse that offsets fiscal stimulus. Additionally, the 4.6-4.9% range is tightly defined; even 5.1% growth (above-target but healthy) would result in a NO payout, creating significant adverse selection risk for YES holders betting on moderate rather than strong growth.
+The bull case for YES relies on China's structural shift toward lower but stable growth as the economy matures and policy support remains calibrated to prevent hard landings. The National Bureau of Statistics' February 2025 manufacturing PMI, services PMI trends through Q2, and credit impulse data will be critical—if China maintains accommodative monetary policy and avoids major geopolitical shocks, the 4.6-4.9% range becomes increasingly probable. The People's Bank of China's policy stance heading into mid-2026 and any announced stimulus packages by June will directly influence whether growth stays within this specific band. Watch for PBOC rate decisions in Q1 2026 as leading indicators.
 
-Traders should monitor three key economic releases: China's official Manufacturing and Non-Manufacturing PMI (first business day of each month), which lead GDP announcements and signal production momentum; quarterly GDP releases (typically mid-month following quarter end), with Q1 2026 data in April acting as a crucial forward indicator; and any surprise in US CPI or FOMC policy shifts (scheduled meetings in March and June 2026) that could trigger yuan weakness and demand destruction. The December 2025 Central Economic Work Conference will be the critical inflection point, revealing Beijing's 2026 growth target and fiscal allocation—a significantly higher target or unexpected spending cut would immediately reprice this market. Watch for divergence between official statistics and alternative indicators like electricity consumption and freight data, which historically track true growth better than headline GDP figures; weakness there could push traders toward NO despite official optimism.
+The bear case argues that 4.6-4.9% is artificially tight given China's history of revising growth figures and the structural headwinds facing the economy—youth unemployment, property sector weakness, and demographic decline could push growth below 4.6%, while any stimulus-driven rebound might overshoot 4.9%. Real estate investment data released monthly and property sales figures through June 2026 will be early signals; if housing starts collapse, the pessimistic scenario gains credibility. Additionally, U.S. tariff policies—particularly Trump administration trade actions expected to intensify in Q1-Q2 2026—could disrupt Chinese exports and pull growth below the predicted range.
+
+Traders should monitor the March 2026 National People's Congress economic targets announcement closely, as Beijing typically sets annual growth guidance that constrains Q2 outcomes. Industrial production data, fixed-asset investment figures, and retail sales reports released monthly will provide monthly validation of trajectory. The critical divergence point arrives if year-to-date growth through Q1 2026 comes in substantially above or below 5%, forcing recalibration of expectations for Q2 acceleration or deceleration needed to hit the narrow band.
 
 ## Related Markets
 
-- [Will the Fed decrease interest rates by 25 bps after the June 2026 meeting?](/odds/will-the-fed-decrease-interest-rates-by-25-bps-after-the-june-2026-meeting) — 1% YES
 - [Will there be no change in Fed interest rates after the June 2026 meeting?](/odds/will-there-be-no-change-in-fed-interest-rates-after-the-june-2026-meeting) — 98% YES
-- [Will monthly inflation increase by 0.5% in May?](/odds/will-monthly-inflation-increase-by-05-in-may) — 50% YES
+- [Will the Fed increase interest rates by 50+ bps after the July 2026 meeting?](/odds/will-the-fed-increase-interest-rates-by-50-bps-after-the-july-2026-meeting) — 0% YES
+- [Will the Fed decrease interest rates by 50+ bps after the July 2026 meeting?](/odds/will-the-fed-decrease-interest-rates-by-50-bps-after-the-july-2026-meeting) — 1% YES
 
 ## Frequently Asked Questions
 
-### Why is the 4.6-4.9% range so important versus just predicting "above 5%"?
+### Why is this 4.6-4.9% band significant rather than just predicting "growth above 4%"?
 
-Beijing's official target is typically 5% or higher, so this narrow band forces a bet not on whether China will grow healthily but whether growth will be specifically moderate—punishing both stronger-than-expected recoveries (5.1%+) and weaker outcomes below 4.6%, making the YES side vulnerable to either disappointing stimulus or unexpectedly robust post-stimulus growth.
+China's official GDP targets and policy communication typically revolve around precise ranges; hitting this specific band suggests effective policy management and validates market confidence in Beijing's guidance, while missing it signals either policy failure or structural surprises that repricing broader China risk.
 
-### What single data release between now and July 2026 could most significantly move this market?
+### Could Chinese government data revisions move this market even if actual economic conditions don't change?
 
-The March 2026 National People's Congress announcement of the official 2026 growth target and fiscal budget will be the single largest mover, as a higher target would signal confidence in exceeding 4.9% and crash YES odds, while a lower target would support the band.
+Yes—China has historically revised quarterly GDP figures in subsequent releases; if Q1 2026 growth is revised upward significantly, the National Bureau of Statistics might face pressure to revise Q2 downward to maintain annual consistency, potentially moving this market despite stable underlying conditions.
+
+### How much will U.S.-China trade dynamics in early 2026 affect the probability?
+
+Substantially—each 1% tariff increase on Chinese goods typically reduces quarterly GDP growth by 0.3-0.5 percentage points; traders should reassess this market's odds immediately after any Trump administration tariff announcements, particularly those effective before June 2026.
 
 ## Learn More
 

@@ -3,8 +3,8 @@ title: "Will Aaron Ford win the 2026 Nevada Governor Democratic primary election
 description: "Will Aaron Ford win the 2026 Nevada Governor Democratic primary election? Odds: 99.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Aaron Ford win the 2026 Nevada Governor Democratic primary election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-06-02
+status: "settled"
+lastUpdated: 2026-06-03
 expiryDate: 2026-06-09
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 99.2

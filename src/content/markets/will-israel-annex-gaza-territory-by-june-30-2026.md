@@ -3,8 +3,8 @@ title: "Will Israel annex Gaza territory by June 30 2026?"
 description: "Will Israel annex Gaza territory by June 30 2026? Odds: 2.3% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Israel annex Gaza territory by June 30 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-06-02
+status: "settled"
+lastUpdated: 2026-06-03
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
 polymarketYes: 2.3

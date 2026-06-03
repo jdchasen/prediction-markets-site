@@ -1,17 +1,16 @@
 ---
 title: "Will Sal Stewart win the 2026 NL Rookie of the Year award?"
-description: "Will Sal Stewart win the 2026 NL Rookie of the Year award? Odds: 25.0% YES on Polymarket. See live prices and trade this market."
+description: "Will Sal Stewart win the 2026 NL Rookie of the Year award? Odds: 24.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Sal Stewart win the 2026 NL Rookie of the Year award?"
 category: "sports"
 status: "active"
-lastUpdated: 2026-06-02
+lastUpdated: 2026-06-03
 expiryDate: 2026-12-19
 tags: ["polymarket", "sports"]
-polymarketYes: 25.0
-polymarketNo: 75.0
-polymarketVolume: 9725
+polymarketYes: 24.5
+polymarketNo: 75.5
+polymarketVolume: 9931
 polymarketUrl: "https://polymarket.com/event/will-sal-stewart-win-the-2026-nl-rookie-of-the-year-award"
-analysisDate: 2026-06-02
 ---
 
 # Sal Stewart's 2026 NL Rookie of the Year Odds: A 25% Probability in Early Formation

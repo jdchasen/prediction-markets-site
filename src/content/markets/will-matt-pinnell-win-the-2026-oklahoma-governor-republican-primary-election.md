@@ -4,14 +4,13 @@ description: "Will Matt Pinnell win the 2026 Oklahoma Governor Republican primar
 marketQuestion: "Will Matt Pinnell win the 2026 Oklahoma Governor Republican primary election?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-06-02
+lastUpdated: 2026-06-03
 expiryDate: 2026-06-16
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.1
 polymarketNo: 99.9
 polymarketVolume: 9948
 polymarketUrl: "https://polymarket.com/event/will-matt-pinnell-win-the-2026-oklahoma-governor-republican-primary-election"
-analysisDate: 2026-06-02
 ---
 
 # Matt Pinnell 2026 Oklahoma Governor Republican Primary Analysis

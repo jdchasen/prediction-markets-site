@@ -3,8 +3,8 @@ title: "Will Oklahoma City Thunder win the 2027 NBA Finals?"
 description: "Will Oklahoma City Thunder win the 2027 NBA Finals? Odds: 24.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Oklahoma City Thunder win the 2027 NBA Finals?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-06-02
+status: "settled"
+lastUpdated: 2026-06-03
 expiryDate: 2027-07-01
 tags: ["polymarket", "sports"]
 polymarketYes: 24.0
