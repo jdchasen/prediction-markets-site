@@ -3,7 +3,7 @@ title: "Will New Zealand win Group G in the 2026 FIFA World Cup?"
 description: "Will New Zealand win Group G in the 2026 FIFA World Cup? Odds: 3.3% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will New Zealand win Group G in the 2026 FIFA World Cup?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-03
 expiryDate: 2026-06-27
 tags: ["polymarket", "sports"]

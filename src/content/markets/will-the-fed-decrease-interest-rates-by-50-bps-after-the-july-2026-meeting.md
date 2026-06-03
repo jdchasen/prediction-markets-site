@@ -9,9 +9,8 @@ expiryDate: 2026-07-29
 tags: ["economics", "federal-reserve", "interest-rates", "polymarket"]
 polymarketYes: 0.8
 polymarketNo: 99.2
-polymarketVolume: 940880
+polymarketVolume: 978364
 polymarketUrl: "https://polymarket.com/event/will-the-fed-decrease-interest-rates-by-50-bps-after-the-july-2026-meeting"
-analysisDate: 2026-06-03
 ---
 
 The market pricing an emergency 50+ basis point rate cut after July 2026 at under 1% reflects extreme confidence that no severe economic crisis will emerge over the next two years, though such tail-risk events are notoriously difficult to predict.

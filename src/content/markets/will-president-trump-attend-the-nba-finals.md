@@ -3,7 +3,7 @@ title: "Will President Trump attend the NBA Finals?"
 description: "Will President Trump attend the NBA Finals? Odds: 63.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will President Trump attend the NBA Finals?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-03
 expiryDate: 2026-06-19
 tags: ["polymarket", "sports", "trump"]

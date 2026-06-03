@@ -1,17 +1,16 @@
 ---
 title: "Will Donald Trump not announce a next United States Attorney General by June 30?"
-description: "Will Donald Trump not announce a next United States Attorney General by June 30? Odds: 63.6% YES on Polymarket. See live prices and trade this market."
+description: "Will Donald Trump not announce a next United States Attorney General by June 30? Odds: 63.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Donald Trump not announce a next United States Attorney General by June 30?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-06-03
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket", "trump"]
-polymarketYes: 63.6
-polymarketNo: 36.4
-polymarketVolume: 99216
+polymarketYes: 63.4
+polymarketNo: 36.5
+polymarketVolume: 99293
 polymarketUrl: "https://polymarket.com/event/will-donald-trump-not-announce-a-next-united-states-attorney-general-by-june-30-541"
-analysisDate: 2026-06-03
 ---
 
 The market currently prices a roughly two-thirds chance that Trump will not formally announce his next Attorney General pick by the end of June 2026, suggesting traders expect either delayed transition planning or strategic ambiguity extending deep into a potential second term.

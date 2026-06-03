@@ -1,17 +1,16 @@
 ---
 title: "Will monthly inflation increase by 0.5% in May?"
-description: "Will monthly inflation increase by 0.5% in May? Odds: 50.5% YES on Polymarket. See live prices and trade this market."
+description: "Will monthly inflation increase by 0.5% in May? Odds: 51.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will monthly inflation increase by 0.5% in May?"
 category: "economics"
 status: "active"
 lastUpdated: 2026-06-03
 expiryDate: 2026-06-10
 tags: ["economics", "polymarket", "sports"]
-polymarketYes: 50.5
-polymarketNo: 49.5
-polymarketVolume: 9700
+polymarketYes: 51.0
+polymarketNo: 49.0
+polymarketVolume: 9799
 polymarketUrl: "https://polymarket.com/event/will-monthly-inflation-increase-by-0pt5-in-may"
-analysisDate: 2026-06-03
 ---
 
 The market sits at exact equilibrium, reflecting genuine uncertainty about whether May's monthly CPI print will exceed 0.5%—a threshold that would signal a meaningful acceleration in inflation after months of gradual disinflation. This matters because a 0.5% monthly increase would annualize to 6%+ inflation, potentially forcing the Federal Reserve to reconsider its rate-cut trajectory and rattling markets currently pricing in multiple cuts through 2026.

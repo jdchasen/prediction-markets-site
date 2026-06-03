@@ -3,7 +3,7 @@ title: "Will JJ Wetherholt win the 2026 NL Rookie of the Year award?"
 description: "Will JJ Wetherholt win the 2026 NL Rookie of the Year award? Odds: 30.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will JJ Wetherholt win the 2026 NL Rookie of the Year award?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-03
 expiryDate: 2026-12-19
 tags: ["ethereum", "polymarket", "sports"]

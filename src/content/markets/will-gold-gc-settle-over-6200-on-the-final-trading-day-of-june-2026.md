@@ -3,7 +3,7 @@ title: "Will Gold (GC) settle over $6,200 on the final trading day of June 2026?
 description: "Will Gold (GC) settle over $6,200 on the final trading day of June 2026? Odds: 0.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Gold (GC) settle over $6,200 on the final trading day of June 2026?"
 category: "finance"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-03
 expiryDate: 2026-06-30
 tags: ["finance", "polymarket"]

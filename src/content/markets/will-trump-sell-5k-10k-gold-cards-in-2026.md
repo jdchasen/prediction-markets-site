@@ -11,7 +11,6 @@ polymarketYes: 3.6
 polymarketNo: 96.4
 polymarketVolume: 9705
 polymarketUrl: "https://polymarket.com/event/will-trump-sell-5k-10k-gold-cards-in-2026"
-analysisDate: 2026-06-03
 ---
 
 # Trump Gold Card Sales Market Analysis

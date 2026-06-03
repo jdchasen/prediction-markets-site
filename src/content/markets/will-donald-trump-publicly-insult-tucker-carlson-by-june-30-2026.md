@@ -3,7 +3,7 @@ title: "Will Donald Trump publicly insult Tucker Carlson by June 30, 2026?"
 description: "Will Donald Trump publicly insult Tucker Carlson by June 30, 2026? Odds: 99.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Donald Trump publicly insult Tucker Carlson by June 30, 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-03
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket", "trump"]

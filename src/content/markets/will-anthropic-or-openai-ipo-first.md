@@ -9,9 +9,8 @@ expiryDate: 2027-12-31
 tags: ["ai", "finance", "polymarket"]
 polymarketYes: 72.5
 polymarketNo: 27.5
-polymarketVolume: 97028
+polymarketVolume: 97324
 polymarketUrl: "https://polymarket.com/event/will-anthropic-or-openai-ipo-first"
-analysisDate: 2026-06-03
 ---
 
 # AI Giants' IPO Race: Market Signals Early OpenAI Advantage

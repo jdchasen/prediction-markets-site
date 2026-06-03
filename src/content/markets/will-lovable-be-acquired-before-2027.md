@@ -11,7 +11,6 @@ polymarketYes: 13.5
 polymarketNo: 86.5
 polymarketVolume: 970698
 polymarketUrl: "https://polymarket.com/event/will-lovable-be-acquired-before-2027-423-881"
-analysisDate: 2026-06-03
 ---
 
 The market pricing Lovable's acquisition chances at 13.5% reflects significant skepticism that this AI coding startup will be bought out in the next three years, despite operating in one of tech's hottest acquisition sectors. This matters because it signals trader doubts about either Lovable's ability to reach acquisition-worthy scale or potential buyers' willingness to make large AI deals amid regulatory scrutiny.

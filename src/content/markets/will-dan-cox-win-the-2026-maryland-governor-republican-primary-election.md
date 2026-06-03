@@ -11,7 +11,6 @@ polymarketYes: 65.5
 polymarketNo: 34.5
 polymarketVolume: 97430
 polymarketUrl: "https://polymarket.com/event/will-dan-cox-win-the-2026-maryland-governor-republican-primary-election"
-analysisDate: 2026-06-03
 ---
 
 Dan Cox, the 2022 GOP gubernatorial nominee who lost by 32 points to Democrat Wes Moore, currently holds a commanding two-thirds probability of winning the 2026 Republican primary, reflecting both name recognition advantages and the absence of clearly defined opposition this early in the cycle.

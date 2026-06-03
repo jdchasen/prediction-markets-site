@@ -1,17 +1,16 @@
 ---
 title: "Will the San Diego Padres win the 2026 World Series?"
-description: "Will the San Diego Padres win the 2026 World Series? Odds: 2.2% YES on Polymarket. See live prices and trade this market."
+description: "Will the San Diego Padres win the 2026 World Series? Odds: 2.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the San Diego Padres win the 2026 World Series?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-06-03
 expiryDate: 2026-10-31
 tags: ["politics", "polymarket"]
-polymarketYes: 2.2
-polymarketNo: 97.8
-polymarketVolume: 969220
+polymarketYes: 2.1
+polymarketNo: 97.9
+polymarketVolume: 971087
 polymarketUrl: "https://polymarket.com/event/will-the-san-diego-padres-win-the-2026-world-series"
-analysisDate: 2026-06-03
 ---
 
 The San Diego Padres sit at roughly 2% chance to win the 2026 World Series, reflecting their position as a competitive but not elite franchise in a league where approximately 30 teams compete annually for the championship.

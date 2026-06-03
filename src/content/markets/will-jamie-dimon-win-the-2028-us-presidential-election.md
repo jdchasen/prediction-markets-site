@@ -9,9 +9,8 @@ expiryDate: 2028-11-07
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 1.1
 polymarketNo: 98.9
-polymarketVolume: 9865622
+polymarketVolume: 9891668
 polymarketUrl: "https://polymarket.com/event/will-jamie-dimon-win-the-2028-us-presidential-election"
-analysisDate: 2026-06-03
 ---
 
 The market pricing Jamie Dimon at just over 1% to win the 2028 presidency reflects the JPMorgan Chase CEO's complete absence from the political arena despite persistent speculation about his potential candidacy. This matters because Dimon represents a prototype wealthy executive outsider who could theoretically replicate aspects of the Trump playbook, and any signal of actual political ambition would dramatically shift these odds.

@@ -9,9 +9,8 @@ expiryDate: 2028-11-07
 tags: ["politics", "polymarket"]
 polymarketYes: 0.9
 polymarketNo: 99.2
-polymarketVolume: 9729695
+polymarketVolume: 9729832
 polymarketUrl: "https://polymarket.com/event/will-nikki-haley-win-the-2028-republican-presidential-nomination"
-analysisDate: 2026-06-03
 ---
 
 Nikki Haley's chances of securing the 2028 Republican nomination are priced near zero at 0.9%, reflecting deep skepticism about her viability within a Trump-dominated party despite her remaining one of the few nationally recognized establishment Republicans.

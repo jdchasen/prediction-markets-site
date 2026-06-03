@@ -11,7 +11,6 @@ polymarketYes: 3.4
 polymarketNo: 96.6
 polymarketVolume: 98744
 polymarketUrl: "https://polymarket.com/event/will-michael-olise-win-the-2026-ballon-dor"
-analysisDate: 2026-06-03
 ---
 
 # Michael Olise 2026 Ballon d'Or Analysis

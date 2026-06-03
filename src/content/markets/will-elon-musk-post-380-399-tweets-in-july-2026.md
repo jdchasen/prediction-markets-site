@@ -11,7 +11,6 @@ polymarketYes: 0.1
 polymarketNo: 99.9
 polymarketVolume: 9979
 polymarketUrl: "https://polymarket.com/event/elon-musk-of-tweets-july-2026-380-399"
-analysisDate: 2026-06-03
 ---
 
 This market is pricing Musk's tweeting habits at an extreme low probability, suggesting traders believe his posting volume will fall well short of 380-399 posts during July 2026. The odds matter because they reflect broader assumptions about Musk's engagement patterns and whether his role at Tesla, SpaceX, and xAI will continue constraining his social media activity to levels below historical averages.

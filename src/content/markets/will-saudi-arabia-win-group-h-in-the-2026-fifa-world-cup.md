@@ -1,17 +1,16 @@
 ---
 title: "Will Saudi Arabia win Group H in the 2026 FIFA World Cup?"
-description: "Will Saudi Arabia win Group H in the 2026 FIFA World Cup? Odds: 2.6% YES on Polymarket. See live prices and trade this market."
+description: "Will Saudi Arabia win Group H in the 2026 FIFA World Cup? Odds: 2.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Saudi Arabia win Group H in the 2026 FIFA World Cup?"
 category: "sports"
 status: "active"
 lastUpdated: 2026-06-03
 expiryDate: 2026-06-27
 tags: ["polymarket", "sports"]
-polymarketYes: 2.6
-polymarketNo: 97.4
+polymarketYes: 2.5
+polymarketNo: 97.5
 polymarketVolume: 98331
 polymarketUrl: "https://polymarket.com/event/will-saudi-arabia-win-group-h-in-the-2026-fifa-world-cup"
-analysisDate: 2026-06-03
 ---
 
 Saudi Arabia faces extremely long odds to top their World Cup group, with traders pricing in less than a 3% chance of success—a reflection of the team's historical struggles on football's biggest stage and uncertainty about their 2026 group composition.

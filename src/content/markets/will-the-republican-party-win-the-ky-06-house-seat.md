@@ -11,7 +11,6 @@ polymarketYes: 65.5
 polymarketNo: 34.5
 polymarketVolume: 9745
 polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-ky-06-house-seat"
-analysisDate: 2026-06-03
 ---
 
 # Kentucky's 6th District House Race: Republican Favored but Not Certain

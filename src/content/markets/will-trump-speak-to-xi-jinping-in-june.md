@@ -9,9 +9,8 @@ expiryDate: 2026-06-30
 tags: ["politics", "polymarket", "trump"]
 polymarketYes: 27.0
 polymarketNo: 73.0
-polymarketVolume: 9699
+polymarketVolume: 9775
 polymarketUrl: "https://polymarket.com/event/will-trump-speak-to-xi-jinping-in-june"
-analysisDate: 2026-06-03
 ---
 
 # Trump-Xi Call in June 2026: A Low-Probability Diplomatic Event

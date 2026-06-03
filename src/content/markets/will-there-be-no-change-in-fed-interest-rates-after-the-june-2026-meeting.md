@@ -1,53 +1,54 @@
 ---
 title: "Will there be no change in Fed interest rates after the June 2026 meeting?"
-description: "Will there be no change in Fed interest rates after the June 2026 meeting? Odds: 98.2% YES on Polymarket. See live prices and trade this market."
+description: "Will there be no change in Fed interest rates after the June 2026 meeting? Odds: 98.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will there be no change in Fed interest rates after the June 2026 meeting?"
 category: "economics"
 status: "active"
 lastUpdated: 2026-06-03
 expiryDate: 2026-06-17
 tags: ["economics", "federal-reserve", "interest-rates", "polymarket"]
-polymarketYes: 98.2
-polymarketNo: 1.8
-polymarketVolume: 9540435
+polymarketYes: 98.4
+polymarketNo: 1.7
+polymarketVolume: 9619611
 polymarketUrl: "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-june-2026-meeting"
+analysisDate: 2026-06-03
 ---
 
-The market overwhelmingly expects the Federal Reserve to maintain its current interest rate policy through mid-2026, reflecting trader confidence that the Fed will have completed its policy adjustment cycle well before that date. This matters because it signals expectations of economic stability and successful inflation management over the next two years.
+The market pricing near-certainty that rates remain unchanged after the June 2026 FOMC meeting reflects expectations that the Federal Reserve will have completed its rate adjustment cycle well before mid-2026, settling into a prolonged holding pattern. This matters because it suggests traders anticipate monetary policy stability roughly two years out, implying either successful inflation control or economic conditions that prevent further moves in either direction.
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 98.2% | 1.8% | $9.4M | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 98.4% | 1.7% | $9.6M | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The bull case for "no change" rests on the assumption that the Fed will reach its terminal rate sometime in 2024 or early 2025, then hold steady as inflation normalizes toward the 2% target. Historical patterns show the Fed typically maintains rates at a given level for extended periods once it completes a hiking or cutting cycle. By June 2026, the economy would likely be in a stable equilibrium phase, with core PCE and CPI readings consistently near target for multiple quarters. Employment data from the monthly NFP releases through 2025 and early 2026 would show a balanced labor market without wage-price spiral pressures, giving the FOMC no reason to adjust policy at its June 17-18, 2026 meeting.
+The bull case for no rate change centers on inflation returning durably to the Fed's 2% target by late 2024 or early 2025, allowing the central bank to cut rates during 2024-2025 and then pause at a neutral terminal rate throughout 2026. This scenario assumes the labor market gradually cools without triggering recession—evidenced by steady but moderate NFP prints in the 100-150k range—and core PCE inflation stabilizing near target. Historical precedent supports this: the Fed typically maintains rates steady for extended periods once reaching its desired policy stance, as seen during 2018-2019 and much of the 2010s expansion. With June 2026 being 14 months after the June 2025 meeting and 20 months after December 2024, there's ample time for the Fed to complete any cutting cycle and establish a new holding pattern.
 
-The bear case centers on unforeseen economic shocks that could force policy action. A recession in 2025 might require emergency rate cuts extending into mid-2026, or conversely, a resurgence of inflation could necessitate additional tightening. Geopolitical disruptions, financial system stress, or productivity shocks could create conditions demanding Fed intervention. The 98.2% probability leaves minimal room for such tail risks, potentially underpricing genuine uncertainty over a two-year horizon.
+The bear case, though currently priced under 2%, would require either a significant economic shock forcing emergency rate adjustments in mid-2026, or persistent inflation requiring continued tightening into 2026. A severe recession in late 2025 could prompt emergency cuts at the June 2026 meeting itself, while stagflationary conditions—where inflation resurges despite weak growth—might force another hike. Geopolitical events, financial system stress similar to March 2023's banking turmoil, or fiscal policy shifts could also destabilize the expected trajectory.
 
-Key catalysts include the FOMC meetings throughout 2024 and 2025, particularly the dot plot projections showing where officials expect rates to settle long-term. The March 2024 Summary of Economic Projections will reveal whether the Fed anticipates rate cuts in 2024-2025. Monthly CPI releases through 2025 will determine if disinflation continues or stalls, while quarterly GDP reports will show whether the economy achieves a soft landing or tips into recession. The December 2025 FOMC meeting will be especially crucial as the final major policy decision before the June 2026 window, potentially telegraphing any plans for spring adjustments.
+Key catalysts to monitor include the December 2024 FOMC meeting (December 17-18) and subsequent Summary of Economic Projections showing the dot plot for 2026, which will reveal how many rate changes officials anticipate before June 2026. The January 2025 CPI release (February 12) and each quarterly Employment Situation Report will shape the path toward that endpoint. Monthly core PCE readings throughout 2025, particularly the inflation data for Q1 2026 (released April-May 2026), will be critical for confirming the disinflationary narrative. The March 2026 FOMC meeting (March 17-18) represents the final decision point before June, making its statement and press conference essential for assessing whether the Fed signals potential June action.
 
 ## Related Markets
 
-- [Will the Fed decrease interest rates by 25 bps after the June 2026 meeting?](/odds/will-the-fed-decrease-interest-rates-by-25-bps-after-the-june-2026-meeting) — 1% YES
-- [Will China GDP growth in Q2 2026 be between 4.6% and 4.9%?](/odds/will-china-gdp-growth-in-q2-2026-be-between-46-and-49) — 60% YES
-- [Will monthly inflation increase by 0.5% in May?](/odds/will-monthly-inflation-increase-by-05-in-may) — 50% YES
+- [Will the Fed increase interest rates by 50+ bps after the July 2026 meeting?](/odds/will-the-fed-increase-interest-rates-by-50-bps-after-the-july-2026-meeting) — 0% YES
+- [Will the Fed decrease interest rates by 50+ bps after the July 2026 meeting?](/odds/will-the-fed-decrease-interest-rates-by-50-bps-after-the-july-2026-meeting) — 1% YES
+- [Will there be no change in Fed interest rates after the July 2026 meeting?](/odds/will-there-be-no-change-in-fed-interest-rates-after-the-july-2026-meeting) — 92% YES
 
 ## Frequently Asked Questions
 
-### What constitutes a "change" that would resolve this market as NO?
+### What would cause the Fed to change rates at the June 2026 meeting despite current market expectations?
 
-Any adjustment to the federal funds target rate at the June 2026 FOMC meeting—whether a 25 basis point hike, cut, or any other increment—would count as a change. The market only pays YES if rates remain completely unchanged from the May 2026 level.
+An unexpected inflation resurgence above 3-4% in early 2026 or a financial crisis/severe recession developing in Q2 2026 would force the Fed's hand. These scenarios currently appear unlikely given the long time horizon for stabilization.
 
-### Why is the market so confident about Fed policy two years in advance?
+### How many FOMC meetings will occur between now and June 2026, and why does that matter?
 
-The extreme probability reflects that central banks rarely make consecutive adjustments meeting-to-meeting once they reach a stable policy stance, and by mid-2026 the Fed will likely be well past any active hiking or cutting cycle initiated in 2023-2024.
+There will be approximately 13 FOMC meetings from late 2024 through the May 2026 meeting, providing multiple opportunities for the Fed to adjust policy before June 2026. This extended timeframe supports the high probability of rates already being at the desired level by then.
 
-### How would a 2025 recession impact this market's outcome?
+### Does this market suggest the Fed will never change rates again, or just not in June 2026 specifically?
 
-A recession would likely trigger a series of rate cuts in 2025, but whether cuts continue into June 2026 depends on timing and severity—a mild early-2025 recession might be resolved by mid-2026, while a deeper crisis could still have the Fed easing in summer 2026.
+This only addresses the specific June 2026 meeting—traders widely expect rate cuts during 2024-2025 followed by a hold period that extends through June 2026. It reflects timing of the policy cycle, not permanent rate freezes.
 
 ## Learn More
 

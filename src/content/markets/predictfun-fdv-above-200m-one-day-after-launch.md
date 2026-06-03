@@ -11,7 +11,6 @@ polymarketYes: 79.5
 polymarketNo: 20.5
 polymarketVolume: 987683
 polymarketUrl: "https://polymarket.com/event/predictfun-fdv-above-200m-one-day-after-launch"
-analysisDate: 2026-06-03
 ---
 
 The market is pricing in nearly an 80% probability that Predict.fun will achieve a fully diluted valuation exceeding $200M within 24 hours of its token launch, reflecting substantial confidence in the platform's ability to capture attention in the prediction market sector. This matters because Predict.fun represents a new entrant attempting to challenge established players like Polymarket and Kalshi, and its initial valuation will signal whether the market believes there's room for additional competitors in this rapidly growing niche.

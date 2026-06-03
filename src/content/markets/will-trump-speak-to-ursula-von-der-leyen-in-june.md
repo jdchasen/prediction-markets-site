@@ -1,17 +1,16 @@
 ---
 title: "Will Trump speak to Ursula von der Leyen in June?"
-description: "Will Trump speak to Ursula von der Leyen in June? Odds: 89.0% YES on Polymarket. See live prices and trade this market."
+description: "Will Trump speak to Ursula von der Leyen in June? Odds: 88.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Trump speak to Ursula von der Leyen in June?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-06-03
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket", "trump"]
-polymarketYes: 89.0
-polymarketNo: 11.0
-polymarketVolume: 9842
+polymarketYes: 88.5
+polymarketNo: 11.5
+polymarketVolume: 9849
 polymarketUrl: "https://polymarket.com/event/will-trump-speak-to-ursula-von-der-leyen-in-june"
-analysisDate: 2026-06-03
 ---
 
 # Trump-Von der Leyen Contact in June 2026

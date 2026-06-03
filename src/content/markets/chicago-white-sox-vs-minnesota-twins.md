@@ -3,7 +3,7 @@ title: "Chicago White Sox vs. Minnesota Twins"
 description: "Chicago White Sox vs. Minnesota Twins Odds: 42.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Chicago White Sox vs. Minnesota Twins"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-03
 expiryDate: 2026-06-10
 tags: ["politics", "polymarket"]

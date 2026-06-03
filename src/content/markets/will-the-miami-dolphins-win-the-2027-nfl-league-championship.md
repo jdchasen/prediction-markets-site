@@ -9,9 +9,8 @@ expiryDate: 2027-03-31
 tags: ["polymarket", "sports"]
 polymarketYes: 1.1
 polymarketNo: 99.0
-polymarketVolume: 980639
+polymarketVolume: 981099
 polymarketUrl: "https://polymarket.com/event/will-the-miami-dolphins-win-the-2027-nfl-league-championship"
-analysisDate: 2026-06-03
 ---
 
 The Miami Dolphins face exceptionally long odds to capture the 2027 Super Bowl, with the market pricing their championship chances at barely over 1%, reflecting deep skepticism about the franchise's ability to overcome both immediate roster concerns and their troubling playoff performance history.

@@ -1,17 +1,16 @@
 ---
 title: "Will MetaMask launch a token by September 30, 2026?"
-description: "Will MetaMask launch a token by September 30, 2026? Odds: 12.5% YES on Polymarket. See live prices and trade this market."
+description: "Will MetaMask launch a token by September 30, 2026? Odds: 11.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will MetaMask launch a token by September 30, 2026?"
 category: "crypto"
 status: "active"
 lastUpdated: 2026-06-03
 expiryDate: 2026-10-01
 tags: ["crypto", "polymarket"]
-polymarketYes: 12.5
-polymarketNo: 87.5
-polymarketVolume: 968888
+polymarketYes: 11.5
+polymarketNo: 88.5
+polymarketVolume: 968892
 polymarketUrl: "https://polymarket.com/event/will-metamask-launch-a-token-by-september-30-2026"
-analysisDate: 2026-06-03
 ---
 
 MetaMask faces growing pressure to issue a token as competitors like Phantom and Rabby have successfully executed airdrops, yet the current 12.5% probability reflects ConsenSys's consistent historical silence on tokenization plans. The market captures a fundamental tension in crypto wallet infrastructure: the potential upside of value capture versus philosophical resistance to financialization of what many consider essential user infrastructure.

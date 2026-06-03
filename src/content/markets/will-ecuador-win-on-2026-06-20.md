@@ -9,9 +9,8 @@ expiryDate: 2026-06-21
 tags: ["politics", "polymarket"]
 polymarketYes: 78.5
 polymarketNo: 21.5
-polymarketVolume: 9775
+polymarketVolume: 9787
 polymarketUrl: "https://polymarket.com/event/fifwc-ecu-kor-2026-06-20-ecu"
-analysisDate: 2026-06-03
 ---
 
 # Ecuador Political Victory Prediction Market Analysis

@@ -11,7 +11,6 @@ polymarketYes: 1.3
 polymarketNo: 98.7
 polymarketVolume: 9845
 polymarketUrl: "https://polymarket.com/event/gc-above-5600-jun-2026"
-analysisDate: 2026-06-03
 ---
 
 # Gold Price Prediction Analysis: $5,600 by June 2026

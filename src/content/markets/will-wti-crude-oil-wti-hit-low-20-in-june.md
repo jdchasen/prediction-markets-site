@@ -11,7 +11,6 @@ polymarketYes: 0.2
 polymarketNo: 99.8
 polymarketVolume: 9901
 polymarketUrl: "https://polymarket.com/event/will-wti-dip-to-20-in-june-2026-685-856-769"
-analysisDate: 2026-06-03
 ---
 
 # WTI Crude Oil Prediction Market Analysis

@@ -9,9 +9,8 @@ expiryDate: 2026-12-06
 tags: ["polymarket", "sports"]
 polymarketYes: 0.2
 polymarketNo: 99.8
-polymarketVolume: 9734804
+polymarketVolume: 9736564
 polymarketUrl: "https://polymarket.com/event/will-gabriel-bortoleto-be-the-2026-f1-drivers-champion"
-analysisDate: 2026-06-03
 ---
 
 Gabriel Bortoleto's championship odds sit near zero as the Brazilian rookie faces the steepest possible climb: competing for Sauber/Audi, a team that scored zero points in 2024 and finished dead last in the constructors' standings for the second consecutive year.

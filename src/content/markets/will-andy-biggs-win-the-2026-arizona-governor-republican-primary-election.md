@@ -11,7 +11,6 @@ polymarketYes: 97.4
 polymarketNo: 2.6
 polymarketVolume: 9679
 polymarketUrl: "https://polymarket.com/event/will-andy-biggs-win-the-2026-arizona-governor-republican-primary-election"
-analysisDate: 2026-06-03
 ---
 
 # Andy Biggs 2026 Arizona GOP Governor Primary

@@ -1,51 +1,52 @@
 ---
 title: "Xi Jinping out before 2027?"
-description: "Xi Jinping out before 2027? Odds: 7.0% YES on Polymarket. See live prices and trade this market."
+description: "Xi Jinping out before 2027? Odds: 6.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Xi Jinping out before 2027?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-06-03
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 7.0
-polymarketNo: 93.0
-polymarketVolume: 9899378
+polymarketYes: 6.9
+polymarketNo: 93.2
+polymarketVolume: 9922755
 polymarketUrl: "https://polymarket.com/event/xi-jinping-out-before-2027"
+analysisDate: 2026-06-03
 ---
 
-Traders are pricing in an extremely low probability that Xi Jinping will lose power before 2027, reflecting the unprecedented consolidation of authority he achieved after eliminating presidential term limits in 2018 and securing a historic third term as General Secretary at the 20th Party Congress in October 2022.
+The market pricing Xi Jinping's departure at under 7% reflects overwhelming consensus that China's most powerful leader since Mao will retain control through his unprecedented third term, but the small probability accounts for potential health crises, internal party coups, or dramatic political upheaval that could upend the status quo.
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 6.8% | 93.2% | $9.9M | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 6.9% | 93.2% | $9.9M | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The bear case against Xi's departure centers on institutional realities: he controls all three key positions (General Secretary, CMC Chairman, and State President), has packed the Politburo Standing Committee with loyalists, and eliminated the factional power bases that historically constrained Chinese leaders. The anti-corruption campaign has neutralized potential rivals, while the removal of term limits means no constitutional mechanism forces succession. China's political system lacks precedent for mid-term leadership changes outside of death or Cultural Revolution-era purges. The surveillance state and party discipline apparatus make organized opposition nearly impossible.
+The bear case (against Xi's departure) is straightforward: Xi systematically eliminated term limits in 2018, purged rivals through anti-corruption campaigns, stacked the Politburo Standing Committee with loyalists at the 20th Party Congress in October 2022, and controls all levers of state power including the military, security apparatus, and propaganda machinery. No credible opposition faction has emerged, and China's political system lacks mechanisms for peaceful leadership transitions outside the Communist Party's opaque internal processes. The next Party Congress isn't scheduled until 2027, and Xi has already secured his position through that date with his recent reappointment as General Secretary. Historical precedent shows Chinese leaders in his position maintain power until death or voluntary retirement.
 
-The bull case requires extraordinary scenarios: a severe health crisis (Xi is 71 and has previously disappeared from public view, sparking speculation about diabetes or other conditions), an economic catastrophe that fractures elite consensus, or a catastrophic military miscalculation over Taiwan. The COVID-19 lockdown protests in November 2022 demonstrated potential for public pressure, though Xi's subsequent policy reversal actually reinforced his position by showing adaptability. A cross-strait conflict gone wrong or a complete economic implosion with youth unemployment exceeding 20% could theoretically trigger elite intervention, particularly if Xi appeared incapacitated.
+The bull case relies on tail-risk scenarios: Xi is 71 years old, and serious health issues could force retirement or create succession dynamics invisible to outside observers. Economic pressures from youth unemployment above 20%, the ongoing property sector crisis, and potential confrontation over Taiwan could trigger internal party resistance if blamed on Xi's policies. The Central Committee meeting scheduled for fall 2025 and annual sessions of the National People's Congress in March each year represent windows where dramatic announcements could theoretically occur. Any visible absence from major state functions or unusual personnel movements in the Politburo would signal potential instability.
 
-Key catalysts to monitor include the annual National People's Congress sessions each March, where unusual absences or health-related irregularities would be telling. The Central Committee plenums, typically held mid-year, offer windows into elite politics. Any significant military movements around Taiwan or economic indicators showing systemic financial crisis (real estate defaults spreading beyond Evergrande and Country Garden, or banking sector collapse) would shift probabilities. Xi's public appearances and foreign trips provide health signals—extended absences without explanation would be the most concrete near-term catalyst.
+Key monitoring points include Xi's public appearances at major events, particularly the annual "Two Sessions" meetings each March and any emergency Central Committee plenums. Economic data releases showing sustained deterioration could increase pressure on his leadership, while any military incidents in the Taiwan Strait or South China Sea would test his mandate. The real signal would come from Chinese state media language changes or personnel shifts among provincial party secretaries and military leadership, though such information remains highly opaque to outside observers until officially announced.
 
 ## Related Markets
 
 - [Will Wes Moore win the 2028 US Presidential Election?](/odds/will-wes-moore-win-the-2028-us-presidential-election) — 1% YES
 - [Will Jamie Dimon win the 2028 US Presidential Election?](/odds/will-jamie-dimon-win-the-2028-us-presidential-election) — 1% YES
-- [Will Gideon Sa’ar be the next Prime Minister of Israel?](/odds/will-gideon-saar-be-the-next-prime-minister-of-israel) — 0% YES
+- [Will Nikki Haley win the 2028 Republican presidential nomination?](/odds/will-nikki-haley-win-the-2028-republican-presidential-nomination) — 1% YES
 
 ## Frequently Asked Questions
 
-### What would constitute Xi Jinping being "out" for this market's resolution?
+### What would constitute Xi Jinping being "out" for this market to resolve YES?
 
-This would require Xi losing his position as General Secretary of the Chinese Communist Party, the paramount leadership role, through resignation, removal, death, or any other mechanism that ends his tenure before the December 2026 deadline.
+This typically includes death, formal resignation, removal from positions as General Secretary of the Communist Party and President, or any announcement that he no longer holds supreme power. Medical incapacitation that transfers effective control would likely qualify depending on market resolution criteria.
 
-### Has any Chinese leader been removed from power mid-term in the modern era?
+### Has any Chinese leader been forced out involuntarily since the reform era began?
 
-Hua Guofeng was gradually sidelined after Mao's death in the late 1970s, and Zhao Ziyang was purged after Tiananmen in 1989, but no General Secretary has been forcibly removed since Xi consolidated power under the current system—making this outcome historically unprecedented.
+Hua Guofeng was eased out after Mao's death, and Zhao Ziyang was purged after Tiananmen in 1989, but no General Secretary has been removed since Jiang Zemin established the norm of orderly transitions in 2002-2003. Xi's elimination of term limits makes his position structurally stronger than any predecessor since Deng Xiaoping.
 
-### Why don't economic challenges like the property crisis or COVID protests increase these odds significantly?
+### Why don't economic problems in China threaten Xi's position more directly?
 
-The Party's legitimacy model has shifted from pure economic performance to nationalism and stability under Xi's rule, and he successfully weathered both the property downturn and zero-COVID reversal without visible elite opposition, suggesting economic turbulence alone won't trigger leadership change absent a complete systemic collapse.
+The Communist Party's legitimacy rests on stability and long-term development rather than short-term economic performance, and Xi has successfully framed challenges as products of Western containment rather than policy failures. Without competitive elections or public accountability mechanisms, economic downturns alone rarely trigger leadership changes in authoritarian systems unless they create elite fractures.
 
