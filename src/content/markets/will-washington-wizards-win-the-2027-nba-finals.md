@@ -8,10 +8,9 @@ lastUpdated: 2026-06-04
 expiryDate: 2027-07-01
 tags: ["polymarket", "sports"]
 polymarketYes: 1.1
-polymarketNo: 99.0
+polymarketNo: 98.9
 polymarketVolume: 9868
 polymarketUrl: "https://polymarket.com/event/will-washington-wizards-win-the-2027-nba-finals"
-analysisDate: 2026-06-04
 ---
 
 # Washington Wizards 2027 NBA Finals Analysis

@@ -9,45 +9,46 @@ expiryDate: 2028-11-07
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.8
 polymarketNo: 99.2
-polymarketVolume: 9956772
+polymarketVolume: 9958433
 polymarketUrl: "https://polymarket.com/event/will-wes-moore-win-the-2028-us-presidential-election"
+analysisDate: 2026-06-04
 ---
 
-Maryland Governor Wes Moore currently sits at less than 1% probability to win the 2028 presidency, reflecting his status as a political newcomer with limited national profile despite his compelling personal narrative and position in a blue state.
+Maryland Governor Wes Moore currently sits at less than 1% probability to win the 2028 presidential election, reflecting his status as a first-term governor with minimal national profile despite generating early buzz as a potential Democratic rising star.
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.8% | 99.2% | $9.9M | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.8% | 99.2% | $10.0M | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The bull case centers on Moore's exceptional biography—Rhodes Scholar, combat veteran, bestselling author, and the first Black governor in Maryland history—combined with his ability to bridge traditional Democratic constituencies with business-friendly pragmatism. He won his 2022 gubernatorial race decisively and brings the kind of fresh face that could appeal to voters weary of Biden-era politics. If he delivers major policy wins in Maryland over the next two years—particularly on education reform and economic development—and builds relationships with national donors and Democratic power brokers, he could emerge as a breakout candidate by early 2027. The Democratic primary calendar favors candidates who can appeal to diverse coalitions, and Moore's background positions him well for South Carolina and Nevada.
+The bull case rests on Moore's compelling personal narrative as a Rhodes Scholar, decorated Army veteran, and bestselling author who became only the third Black governor elected in U.S. history when he won Maryland in 2022. His youth (he'll be 50 in 2028), communication skills, and ability to win a decisive victory in his gubernatorial race provide a foundation for national ambitions. If he delivers significant policy achievements in Maryland over the next two years—particularly on economic development and education—and begins building relationships in early primary states like Iowa and New Hampshire during 2025-2026, he could position himself as a fresh alternative to established Democrats. The 2026 gubernatorial race will be critical: a strong reelection performance would validate his appeal and provide momentum for a potential 2027 presidential campaign launch.
 
-The bear case is straightforward: Moore took office only in January 2023, making him extraordinarily inexperienced for a presidential run. By 2028, he'll have served just one term as governor with no prior electoral experience, no federal government background, and minimal foreign policy credentials. The Democratic field will likely include sitting Vice President Kamala Harris, multiple senators with established fundraising networks, and governors from larger swing states like Michigan's Gretchen Whitmer or Pennsylvania's Josh Shapiro. Moore would need to overcome the party's traditional preference for candidates who have already navigated national-level politics and built extensive donor networks over decades, not years.
+The bear case is formidable. Moore has been governor for barely two years and lacks the executive track record that voters typically demand from presidential candidates. The Democratic field for 2028 remains crowded with far more established figures, including multiple current and former governors, senators, and potentially Vice President Kamala Harris if she chooses to run again after a 2024 loss. Moore has shown no concrete signs of building a presidential campaign infrastructure, hasn't made the obligatory visits to Iowa or New Hampshire that signal serious national ambitions, and would face intense scrutiny over his limited experience managing complex federal issues. Maryland's legislative session runs through early April each year, meaning any missteps in policy implementation through 2025-2026 could derail national prospects before they begin.
 
-Key catalysts to watch include Maryland's 2025 legislative session outcomes (January-April 2025), which will test Moore's ability to pass signature legislation, and any speaking slots at the 2024 Democratic National Convention in August 2024 that could signal party interest in elevating his profile. His 2026 re-election campaign—assuming he runs—will be crucial, as a weak performance would doom national ambitions while a dominant win keeps options open. The informal presidential race typically begins in earnest by spring 2027, when potential candidates start visiting Iowa and New Hampshire, making the first half of 2027 critical for Moore to signal intentions and demonstrate fundraising viability.
+Key catalysts include Moore's State of the State address each January (next one in January 2025), Maryland's 2026 gubernatorial primary and general election cycle beginning in early 2026, and any potential appearances at the Democratic National Committee meetings or high-profile national events in 2025. Traders should monitor whether Moore accepts speaking slots at national Democratic events, hires staff with presidential campaign experience, or begins the kind of national fundraising that would signal serious interest. The first major indicator would be activity in late 2025 or early 2026—traditional timing for prospective candidates to start testing the waters for a 2028 run.
 
 ## Related Markets
 
-- [Xi Jinping out before 2027?](/odds/xi-jinping-out-before-2027) — 7% YES
 - [Will Jamie Dimon win the 2028 US Presidential Election?](/odds/will-jamie-dimon-win-the-2028-us-presidential-election) — 1% YES
-- [Will Nikki Haley win the 2028 Republican presidential nomination?](/odds/will-nikki-haley-win-the-2028-republican-presidential-nomination) — 1% YES
+- [Xi Jinping out before 2027?](/odds/xi-jinping-out-before-2027) — 7% YES
+- [Will the Detroit Tigers win the 2026 World Series?](/odds/will-the-detroit-tigers-win-the-2026-world-series) — 1% YES
 
 ## Frequently Asked Questions
 
-### Has Wes Moore given any indication he's considering a 2028 presidential run?
+### Has Wes Moore given any indication he's interested in running for president in 2028?
 
-Moore has deflected questions about higher office, consistently stating he's focused on governing Maryland. However, his high-profile book tour and national media appearances suggest he's building name recognition beyond state borders.
+Moore has not made any public statements suggesting presidential ambitions and is focused on his first term as Maryland governor, which doesn't end until January 2027. He would need to begin signaling interest by late 2025 or early 2026 to be competitive in early 2028 primaries.
 
-### How does Moore's gubernatorial experience compare to recent first-term governor candidates?
+### How does Moore's experience level compare to recent presidential candidates?
 
-Moore would be significantly less experienced than recent governor-turned-candidates like Ron DeSantis (who served in Congress first) or even Pete Buttigieg (who ran as a mayor). Only five and a half years in elected office by 2028 would be among the thinnest résumés in modern presidential politics.
+Moore would have approximately 4-5 years of gubernatorial experience by 2028, significantly less than candidates like Ron DeSantis (6 years) or even Pete Buttigieg had as a mayor, though comparable to Barack Obama's state legislative experience before his Senate run. Most successful presidential candidates have either longer executive records or significant federal experience.
 
-### What would Moore need to accomplish in Maryland to be taken seriously as a 2028 contender?
+### What would need to happen for Moore's odds to reach even 5-10% in this market?
 
-He would need landmark achievements on his signature issues—likely education reform, workforce development, or climate policy—plus maintaining strong approval ratings above 60% and demonstrating an ability to work with Maryland's Democratic legislature while appealing to independents in a diverse state.
+Moore would need to win reelection as Maryland governor convincingly in 2026, deliver major legislative achievements that gain national attention, and most importantly, see higher-profile Democrats like Gavin Newsom, Gretchen Whitmer, or Josh Shapiro decline to run or falter, creating an opening for a fresh face in the race.
 
 ## Learn More
 

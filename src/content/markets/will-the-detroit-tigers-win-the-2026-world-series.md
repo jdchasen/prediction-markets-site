@@ -9,9 +9,8 @@ expiryDate: 2026-10-31
 tags: ["politics", "polymarket"]
 polymarketYes: 0.9
 polymarketNo: 99.1
-polymarketVolume: 995313
+polymarketVolume: 996828
 polymarketUrl: "https://polymarket.com/event/will-the-detroit-tigers-win-the-2026-world-series"
-analysisDate: 2026-06-04
 ---
 
 The Detroit Tigers are viewed as extreme long shots to capture the 2026 World Series, trading below 1% on Polymarket despite this market being oddly categorized under politics rather than sports. This represents one of the longest odds among MLB franchises, reflecting the team's recent struggles and current roster construction challenges as they rebuild following their 2024 season where they unexpectedly reached the playoffs but remain far from championship contention.

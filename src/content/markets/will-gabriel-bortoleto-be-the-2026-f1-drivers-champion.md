@@ -9,9 +9,8 @@ expiryDate: 2026-12-06
 tags: ["polymarket", "sports"]
 polymarketYes: 0.2
 polymarketNo: 99.8
-polymarketVolume: 9762665
+polymarketVolume: 9765569
 polymarketUrl: "https://polymarket.com/event/will-gabriel-bortoleto-be-the-2026-f1-drivers-champion"
-analysisDate: 2026-06-04
 ---
 
 Gabriel Bortoleto's chances of winning the 2026 F1 Drivers' Championship sit near zero on Polymarket, reflecting the harsh reality that the 20-year-old Sauber rookie faces what will likely be Formula 1's least competitive car when he debuts in 2025.

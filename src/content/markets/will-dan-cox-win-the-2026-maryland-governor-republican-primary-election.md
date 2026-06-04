@@ -9,9 +9,8 @@ expiryDate: 2026-06-23
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 65.5
 polymarketNo: 34.5
-polymarketVolume: 97430
+polymarketVolume: 97460
 polymarketUrl: "https://polymarket.com/event/will-dan-cox-win-the-2026-maryland-governor-republican-primary-election"
-analysisDate: 2026-06-04
 ---
 
 Dan Cox currently holds a commanding position in prediction markets for the 2026 Maryland Republican gubernatorial primary at roughly two-in-three odds, reflecting his status as the most recent nominee and his established base among the party's conservative wing, though the race remains nearly two years away with no formal candidate announcements yet made.

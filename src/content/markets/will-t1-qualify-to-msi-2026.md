@@ -11,7 +11,6 @@ polymarketYes: 71.5
 polymarketNo: 28.5
 polymarketVolume: 9784
 polymarketUrl: "https://polymarket.com/event/will-t1-qualify-to-msi-2026"
-analysisDate: 2026-06-04
 ---
 
 # T1 MSI 2026 Qualification Analysis

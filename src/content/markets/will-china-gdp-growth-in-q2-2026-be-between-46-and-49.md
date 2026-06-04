@@ -3,7 +3,7 @@ title: "Will China GDP growth in Q2 2026 be between 4.6% and 4.9%?"
 description: "Will China GDP growth in Q2 2026 be between 4.6% and 4.9%? Odds: 61.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will China GDP growth in Q2 2026 be between 4.6% and 4.9%?"
 category: "economics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-04
 expiryDate: 2026-07-16
 tags: ["economics", "polymarket"]

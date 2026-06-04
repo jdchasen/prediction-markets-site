@@ -11,7 +11,6 @@ polymarketYes: 1.1
 polymarketNo: 99.0
 polymarketVolume: 9809
 polymarketUrl: "https://polymarket.com/event/will-four-or-more-people-dissent-the-june-fed-decision"
-analysisDate: 2026-06-04
 ---
 
 # Federal Reserve Dissent Market Analysis

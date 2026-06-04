@@ -9,9 +9,8 @@ expiryDate: 2026-06-27
 tags: ["polymarket", "sports"]
 polymarketYes: 2.5
 polymarketNo: 97.5
-polymarketVolume: 98892
+polymarketVolume: 99020
 polymarketUrl: "https://polymarket.com/event/will-saudi-arabia-win-group-h-in-the-2026-fifa-world-cup"
-analysisDate: 2026-06-04
 ---
 
 The market assigns Saudi Arabia an extremely low probability of topping Group H at the 2026 World Cup, reflecting skepticism about the Green Falcons' ability to outperform what will likely be more established footballing nations in their group.

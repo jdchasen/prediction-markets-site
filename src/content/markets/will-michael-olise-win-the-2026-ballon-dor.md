@@ -11,7 +11,6 @@ polymarketYes: 3.5
 polymarketNo: 96.5
 polymarketVolume: 98744
 polymarketUrl: "https://polymarket.com/event/will-michael-olise-win-the-2026-ballon-dor"
-analysisDate: 2026-06-04
 ---
 
 The market gives Michael Olise just a 3.5% chance of winning the 2026 Ballon d'Or, reflecting the reality that the Bayern Munich winger faces an uphill battle against established superstars and would need an extraordinary two-year trajectory to claim football's most prestigious individual award.

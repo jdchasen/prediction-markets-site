@@ -1,17 +1,16 @@
 ---
 title: "Will Jannik Sinner win the 2026 Men's US Open?"
-description: "Will Jannik Sinner win the 2026 Men's US Open? Odds: 46.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Jannik Sinner win the 2026 Men's US Open? Odds: 47.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Jannik Sinner win the 2026 Men's US Open?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-06-04
 expiryDate: 2026-09-13
 tags: ["politics", "polymarket"]
-polymarketYes: 46.5
-polymarketNo: 53.5
-polymarketVolume: 9807
+polymarketYes: 47.5
+polymarketNo: 52.5
+polymarketVolume: 9927
 polymarketUrl: "https://polymarket.com/event/will-jannik-sinner-win-the-2026-mens-us-open"
-analysisDate: 2026-06-04
 ---
 
 # Analysis

@@ -1,17 +1,16 @@
 ---
 title: "Will the Democratic Party win the GA-12 House seat?"
-description: "Will the Democratic Party win the GA-12 House seat? Odds: 13.0% YES on Polymarket. See live prices and trade this market."
+description: "Will the Democratic Party win the GA-12 House seat? Odds: 16.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Democratic Party win the GA-12 House seat?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-06-04
 expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
-polymarketYes: 13.0
-polymarketNo: 87.0
-polymarketVolume: 9882
+polymarketYes: 16.5
+polymarketNo: 83.5
+polymarketVolume: 9993
 polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-ga-12-house-seat"
-analysisDate: 2026-06-04
 ---
 
 # GA-12 Democratic Victory Analysis

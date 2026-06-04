@@ -3,7 +3,7 @@ title: "Will SpaceX raise at least $120B in its IPO?"
 description: "Will SpaceX raise at least $120B in its IPO? Odds: 0.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will SpaceX raise at least $120B in its IPO?"
 category: "finance"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-04
 tags: ["ai", "finance", "polymarket"]
 polymarketYes: 0.2

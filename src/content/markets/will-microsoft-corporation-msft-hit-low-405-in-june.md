@@ -3,7 +3,7 @@ title: "Will Microsoft Corporation (MSFT) hit (LOW) $405 in June?"
 description: "Will Microsoft Corporation (MSFT) hit (LOW) $405 in June? Odds: 44.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Microsoft Corporation (MSFT) hit (LOW) $405 in June?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-04
 expiryDate: 2026-07-01
 tags: ["politics", "polymarket"]

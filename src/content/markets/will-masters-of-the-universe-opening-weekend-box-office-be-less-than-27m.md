@@ -3,7 +3,7 @@ title: "Will \"Masters of the Universe\" Opening Weekend Box Office be less than
 description: "Will \"Masters of the Universe\" Opening Weekend Box Office be less than 27m? Odds: 9.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will \"Masters of the Universe\" Opening Weekend Box Office be less than 27m?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-04
 tags: ["polymarket", "sports"]
 polymarketYes: 9.5

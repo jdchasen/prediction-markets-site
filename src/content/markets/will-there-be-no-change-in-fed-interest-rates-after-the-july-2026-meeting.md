@@ -9,9 +9,8 @@ expiryDate: 2026-07-29
 tags: ["economics", "federal-reserve", "interest-rates", "polymarket"]
 polymarketYes: 92.5
 polymarketNo: 7.5
-polymarketVolume: 955421
+polymarketVolume: 960700
 polymarketUrl: "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-july-2026-meeting"
-analysisDate: 2026-06-04
 ---
 
 The market strongly expects the Federal Reserve to maintain rates unchanged following its July 2026 meeting, reflecting trader confidence that the Fed will have achieved a stable policy stance well over a year from now.

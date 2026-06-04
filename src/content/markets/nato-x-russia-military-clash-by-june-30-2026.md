@@ -8,10 +8,9 @@ lastUpdated: 2026-06-04
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
 polymarketYes: 2.1
-polymarketNo: 97.9
-polymarketVolume: 990847
+polymarketNo: 98.0
+polymarketVolume: 991228
 polymarketUrl: "https://polymarket.com/event/nato-x-russia-military-clash-by-june-30-2026"
-analysisDate: 2026-06-04
 ---
 
 Prediction markets are pricing just over 2% odds of a direct military clash between NATO and Russia before mid-2026, reflecting widespread belief that both sides will maintain strategic restraint despite ongoing tensions over Ukraine. This market matters because it aggregates informed assessments about the single greatest geopolitical risk facing global stability—an escalation that could trigger Article 5 and potentially nuclear confrontation.

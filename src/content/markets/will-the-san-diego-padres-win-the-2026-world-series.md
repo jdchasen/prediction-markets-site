@@ -9,9 +9,8 @@ expiryDate: 2026-10-31
 tags: ["politics", "polymarket"]
 polymarketYes: 2.1
 polymarketNo: 98.0
-polymarketVolume: 975280
+polymarketVolume: 977199
 polymarketUrl: "https://polymarket.com/event/will-the-san-diego-padres-win-the-2026-world-series"
-analysisDate: 2026-06-04
 ---
 
 The Padres are trading at roughly 2% to win the 2026 World Series, reflecting their position as a mid-tier contender in a sport where any single team faces long odds of capturing a championship. This market matters as an early gauge of how bettors view San Diego's competitive window after recent aggressive spending and playoff appearances, though the categorization as "politics" appears to be an error.
