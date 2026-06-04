@@ -1,17 +1,16 @@
 ---
 title: "Will the Bank of Canada announce a 25 bps decrease at the June meeting?"
-description: "Will the Bank of Canada announce a 25 bps decrease at the June meeting? Odds: 0.8% YES on Polymarket. See live prices and trade this market."
+description: "Will the Bank of Canada announce a 25 bps decrease at the June meeting? Odds: 0.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Bank of Canada announce a 25 bps decrease at the June meeting?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-06-03
+lastUpdated: 2026-06-04
 expiryDate: 2026-06-10
 tags: ["politics", "polymarket"]
-polymarketYes: 0.8
-polymarketNo: 99.2
+polymarketYes: 0.5
+polymarketNo: 99.5
 polymarketVolume: 9831
 polymarketUrl: "https://polymarket.com/event/will-the-bank-of-canada-announce-a-25-bps-decrease-at-the-june-meeting"
-analysisDate: 2026-06-03
 ---
 
 # Bank of Canada June 2026 Rate Cut Analysis

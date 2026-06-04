@@ -3,8 +3,8 @@ title: "Will United States win on 2026-06-12?"
 description: "Will United States win on 2026-06-12? Odds: 48.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will United States win on 2026-06-12?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-06-03
+status: "settled"
+lastUpdated: 2026-06-04
 expiryDate: 2026-06-13
 tags: ["politics", "polymarket"]
 polymarketYes: 48.5

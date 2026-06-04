@@ -3,8 +3,8 @@ title: "Will Donald Trump announce Ken Paxton as the next United States Attorney
 description: "Will Donald Trump announce Ken Paxton as the next United States Attorney General by June 30? Odds: 0.5% YES on Polymarket. See live prices and trade this mar..."
 marketQuestion: "Will Donald Trump announce Ken Paxton as the next United States Attorney General by June 30?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-06-03
+status: "settled"
+lastUpdated: 2026-06-04
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket", "trump"]
 polymarketYes: 0.5

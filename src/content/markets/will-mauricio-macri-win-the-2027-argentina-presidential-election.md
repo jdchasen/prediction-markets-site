@@ -1,17 +1,16 @@
 ---
 title: "Will Mauricio Macri win the 2027 Argentina presidential election?"
-description: "Will Mauricio Macri win the 2027 Argentina presidential election? Odds: 6.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Mauricio Macri win the 2027 Argentina presidential election? Odds: 4.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Mauricio Macri win the 2027 Argentina presidential election?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-06-03
+lastUpdated: 2026-06-04
 expiryDate: 2027-10-24
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 6.5
-polymarketNo: 93.5
-polymarketVolume: 9711
+polymarketYes: 4.0
+polymarketNo: 96.0
+polymarketVolume: 9764
 polymarketUrl: "https://polymarket.com/event/will-mauricio-macri-win-the-2027-argentina-presidential-election"
-analysisDate: 2026-06-03
 ---
 
 # Mauricio Macri's 2027 Comeback: Why Markets Price Him as a Longshot

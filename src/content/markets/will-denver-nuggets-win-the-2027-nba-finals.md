@@ -3,8 +3,8 @@ title: "Will Denver Nuggets win the 2027 NBA Finals?"
 description: "Will Denver Nuggets win the 2027 NBA Finals? Odds: 4.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Denver Nuggets win the 2027 NBA Finals?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-06-03
+status: "settled"
+lastUpdated: 2026-06-04
 expiryDate: 2027-07-01
 tags: ["polymarket", "sports"]
 polymarketYes: 4.5

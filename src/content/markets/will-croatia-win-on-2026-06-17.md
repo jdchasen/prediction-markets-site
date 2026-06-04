@@ -3,8 +3,8 @@ title: "Will Croatia win on 2026-06-17?"
 description: "Will Croatia win on 2026-06-17? Odds: 18.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Croatia win on 2026-06-17?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-06-03
+status: "settled"
+lastUpdated: 2026-06-04
 expiryDate: 2026-06-17
 tags: ["politics", "polymarket"]
 polymarketYes: 18.5

@@ -4,14 +4,13 @@ description: "Bank of Canada Rate Hike in 2026? Odds: 46.5% YES on Polymarket. S
 marketQuestion: "Bank of Canada Rate Hike in 2026?"
 category: "economics"
 status: "active"
-lastUpdated: 2026-06-03
+lastUpdated: 2026-06-04
 expiryDate: 2026-12-31
 tags: ["economics", "polymarket"]
 polymarketYes: 46.5
 polymarketNo: 53.5
-polymarketVolume: 9638
+polymarketVolume: 9640
 polymarketUrl: "https://polymarket.com/event/bank-of-canada-rate-hike-in-2026"
-analysisDate: 2026-06-03
 ---
 
 # Bank of Canada Rate Hike Analysis

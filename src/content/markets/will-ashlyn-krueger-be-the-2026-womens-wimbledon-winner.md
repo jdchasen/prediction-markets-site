@@ -4,14 +4,13 @@ description: "Will Ashlyn Krueger be the 2026 Women’s Wimbledon Winner? Odds: 
 marketQuestion: "Will Ashlyn Krueger be the 2026 Women’s Wimbledon Winner?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-06-03
+lastUpdated: 2026-06-04
 expiryDate: 2026-07-12
 tags: ["politics", "polymarket"]
 polymarketYes: 0.2
 polymarketNo: 99.8
 polymarketVolume: 9766
 polymarketUrl: "https://polymarket.com/event/will-ashlyn-krueger-be-the-2026-womens-wimbledon-winner"
-analysisDate: 2026-06-03
 ---
 
 This market appears fundamentally miscategorized, listing a tennis competition under "politics" while pricing Ashlyn Krueger's Wimbledon chances at essentially zero, suggesting either a data error or confusion about the competitor's identity. The extreme odds warrant immediate investigation into whether this reflects actual tennis odds or a misnamed political prediction, as the categorization mismatch undermines the market's credibility.

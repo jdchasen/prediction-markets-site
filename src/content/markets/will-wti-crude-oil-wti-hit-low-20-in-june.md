@@ -3,8 +3,8 @@ title: "Will WTI Crude Oil (WTI) hit (LOW) $20 in June?"
 description: "Will WTI Crude Oil (WTI) hit (LOW) $20 in June? Odds: 0.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will WTI Crude Oil (WTI) hit (LOW) $20 in June?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-06-03
+status: "settled"
+lastUpdated: 2026-06-04
 expiryDate: 2026-07-01
 tags: ["politics", "polymarket"]
 polymarketYes: 0.2

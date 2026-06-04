@@ -3,8 +3,8 @@ title: "Will Flavio Cobolli win the 2026 Men's French Open?"
 description: "Will Flavio Cobolli win the 2026 Men's French Open? Odds: 19.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Flavio Cobolli win the 2026 Men's French Open?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-06-03
+status: "settled"
+lastUpdated: 2026-06-04
 expiryDate: 2026-06-07
 tags: ["politics", "polymarket"]
 polymarketYes: 19.8

@@ -3,8 +3,8 @@ title: "Will Trump agree to unfreeze Iranian assets by June 30?"
 description: "Will Trump agree to unfreeze Iranian assets by June 30? Odds: 26.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Trump agree to unfreeze Iranian assets by June 30?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-06-03
+status: "settled"
+lastUpdated: 2026-06-04
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket", "trump"]
 polymarketYes: 26.5

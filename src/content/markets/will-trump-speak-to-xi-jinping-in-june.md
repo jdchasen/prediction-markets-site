@@ -3,8 +3,8 @@ title: "Will Trump speak to Xi Jinping in June?"
 description: "Will Trump speak to Xi Jinping in June? Odds: 27.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Trump speak to Xi Jinping in June?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-06-03
+status: "settled"
+lastUpdated: 2026-06-04
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket", "trump"]
 polymarketYes: 27.0
