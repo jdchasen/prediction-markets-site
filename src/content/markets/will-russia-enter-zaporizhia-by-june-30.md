@@ -4,14 +4,13 @@ description: "Will Russia enter Zaporizhia by June 30? Odds: 1.2% YES on Polymar
 marketQuestion: "Will Russia enter Zaporizhia by June 30?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-06-04
+lastUpdated: 2026-06-05
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
 polymarketYes: 1.2
 polymarketNo: 98.8
-polymarketVolume: 99199
+polymarketVolume: 99907
 polymarketUrl: "https://polymarket.com/event/will-russia-enter-zaporizhia-by-june-30-845"
-analysisDate: 2026-06-04
 ---
 
 The market shows extreme skepticism about Russian forces capturing Zaporizhia city by mid-2025, pricing it at near-impossible odds despite the city lying roughly 40 kilometers from current front lines in Ukraine's southeast. This matters as Zaporizhia represents both a major regional capital and a critical prize in Russia's stated objective to fully control the oblast that shares its name, which Moscow illegally annexed in September 2022.

@@ -3,8 +3,8 @@ title: "Will the Republican Party win the GA-02 House seat?"
 description: "Will the Republican Party win the GA-02 House seat? Odds: 7.3% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Republican Party win the GA-02 House seat?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-06-04
+status: "settled"
+lastUpdated: 2026-06-05
 expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
 polymarketYes: 7.3

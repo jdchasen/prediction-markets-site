@@ -3,8 +3,8 @@ title: "Will Ferran Torres be the top goalscorer at the 2026 FIFA World Cup?"
 description: "Will Ferran Torres be the top goalscorer at the 2026 FIFA World Cup? Odds: 2.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Ferran Torres be the top goalscorer at the 2026 FIFA World Cup?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-06-04
+status: "settled"
+lastUpdated: 2026-06-05
 expiryDate: 2026-07-20
 tags: ["polymarket", "sports"]
 polymarketYes: 2.7

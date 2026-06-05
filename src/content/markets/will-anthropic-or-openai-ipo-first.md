@@ -1,33 +1,34 @@
 ---
 title: "Will Anthropic or OpenAI IPO first?"
-description: "Will Anthropic or OpenAI IPO first? Odds: 77.0% YES on Polymarket. See live prices and trade this market."
+description: "Will Anthropic or OpenAI IPO first? Odds: 76.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Anthropic or OpenAI IPO first?"
 category: "finance"
 status: "active"
-lastUpdated: 2026-06-04
+lastUpdated: 2026-06-05
 expiryDate: 2027-12-31
 tags: ["ai", "finance", "polymarket"]
-polymarketYes: 77.0
-polymarketNo: 23.0
-polymarketVolume: 98781
+polymarketYes: 76.5
+polymarketNo: 23.5
+polymarketVolume: 99787
 polymarketUrl: "https://polymarket.com/event/will-anthropic-or-openai-ipo-first"
+analysisDate: 2026-06-05
 ---
 
-The market strongly favors Anthropic going public before OpenAI by 2027, reflecting widespread belief that OpenAI's unusual capped-profit structure and Microsoft's deep integration create significant barriers to a traditional IPO. This matters because whichever company lists first will set valuation benchmarks for the entire AI sector and potentially unlock tens of billions in market capitalization.
+The market strongly favors Anthropic going public before OpenAI by late 2027, reflecting widespread expectations that OpenAI's complex governance structure and Microsoft partnership create substantial IPO obstacles while Anthropic maintains a more conventional corporate framework.
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 75.0% | 25.0% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 76.5% | 23.5% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The bull case for Anthropic centers on its conventional Delaware C-corp structure, which makes it IPO-ready from a governance perspective. The company raised $7.3 billion through 2024 at valuations reaching $18-19 billion, with investors like Google, Salesforce, and Menlo Ventures who typically expect liquidity events. Anthropic's CEO Dario Amodei has explicitly discussed potential paths to profitability, and the company could pursue a listing once it demonstrates sustainable revenue growth from Claude Enterprise subscriptions. An IPO in late 2026 or 2027 would align with typical venture timelines for companies at this funding stage.
+The bull case for Anthropic listing first centers on its cleaner cap table and traditional Delaware C-corp structure established in 2021. The company raised $7.3 billion in 2024 at a reported $18.4 billion valuation, attracting investors like Google, Salesforce, and Menlo Ventures without the capped-profit complications that define OpenAI. Anthropic's governance allows straightforward equity ownership, making SEC registration and public market transition far more feasible. Additionally, CEO Dario Amodei has extensive experience from his OpenAI VP days and appears more aligned with conventional business practices. The company's Claude models compete directly with GPT-4, suggesting comparable revenue potential without OpenAI's structural baggage.
 
-The bear case hinges on OpenAI's extraordinary revenue trajectory—reportedly approaching $4 billion ARR as of late 2024—which dwarfs Anthropic's estimated sub-$1 billion run rate. OpenAI's management has discussed restructuring away from its capped-profit model, and if completed by mid-2026, this would remove the primary structural obstacle to going public. Microsoft's 49% economic interest complicates but doesn't prevent an IPO, particularly if negotiated as part of a broader restructuring. Sam Altman has more consistently signaled openness to traditional capital markets than Anthropic's leadership.
+The bear case questions whether OpenAI's massive revenue advantage—reportedly exceeding $3.7 billion annualized in mid-2024 compared to Anthropic's estimated $1 billion run rate—creates irresistible pressure to access public markets despite governance hurdles. Microsoft's partnership, while complex, could facilitate a path forward if both parties see strategic value in liquidity. OpenAI's $157 billion valuation from its 2024 funding round dwarfs Anthropic's, and investment banks may prioritize solving structural issues for the larger deal. Sam Altman has also shown willingness to restructure OpenAI's nonprofit framework, with reports in 2024 suggesting conversion to a public benefit corporation could enable traditional equity participation.
 
-Key catalysts include any announcement from OpenAI regarding corporate restructuring (rumors surfaced in late 2024 about a two-year timeline), major enterprise contract wins that could validate either company's business model, and regulatory developments around AI safety that might favor Anthropic's more cautious public positioning. Watch for Series D funding rounds from Anthropic—if they raise again at $30+ billion valuation in 2025-26, that signals IPO runway is extending. Conversely, any Microsoft divestment discussions or partnership modifications with OpenAI would be significant indicators of IPO preparation.
+Key catalysts include any announcements about corporate restructuring from either company, particularly if OpenAI moves to eliminate its profit cap or convert its governance model in 2025-2026. Watch for subsequent funding rounds that might signal pre-IPO preparation, as companies typically go public 12-18 months after their final private raise. Competitive positioning matters: if either company achieves AGI breakthroughs or captures dominant market share in enterprise AI by 2026, that success could accelerate public market ambitions. Microsoft's quarterly earnings reports provide indirect indicators of OpenAI's growth through Azure AI revenue disclosures. Regulatory developments around AI safety requirements could also affect timing, particularly for Anthropic given its constitutional AI focus.
 
 ## Related Markets
 
@@ -37,17 +38,17 @@ Key catalysts include any announcement from OpenAI regarding corporate restructu
 
 ## Frequently Asked Questions
 
-### What is OpenAI's current corporate structure and why does it complicate an IPO?
+### How does Microsoft's $13 billion investment in OpenAI affect its ability to IPO?
 
-OpenAI operates as a capped-profit entity under a non-profit parent, limiting investor returns to 100x their investment. This hybrid structure has no precedent in public markets and would require substantial restructuring or creative solutions to satisfy SEC requirements and public market investors.
+Microsoft's stake creates complex valuation and control issues, as the partnership grants Microsoft 49% of OpenAI's capped profits and significant Azure infrastructure dependencies. Unwinding or clarifying these arrangements for public market transparency would require extensive negotiation and disclosure.
 
-### Does Microsoft's stake in OpenAI prevent it from going public?
+### What happens to prediction market positions if neither company IPOs by the December 2027 deadline?
 
-Microsoft's 49% profit-sharing agreement and exclusive cloud partnership create complexity but not an absolute barrier—the stake could be restructured, diluted through new share classes, or remain as a significant minority position similar to other tech companies with strategic investors.
+If neither Anthropic nor OpenAI completes an initial public offering by December 31, 2027, YES positions resolve as incorrect and NO positions win, regardless of which company appears closer to going public.
 
-### What revenue levels would each company likely need to achieve before pursuing an IPO?
+### Could OpenAI's nonprofit structure actually be converted to allow a traditional IPO?
 
-OpenAI's $4 billion ARR likely already exceeds the threshold for a blockbuster tech IPO, while Anthropic would probably target $2-3 billion in annual revenue to justify a listing at competitive AI multiples, requiring roughly 3-5x growth from current levels.
+OpenAI has reportedly explored converting to a public benefit corporation structure that would eliminate profit caps while maintaining mission commitments, though this requires nonprofit board approval and may face regulatory scrutiny given the assets involved.
 
 ## Learn More
 

@@ -4,14 +4,13 @@ description: "Xi Jinping out before 2027? Odds: 7.0% YES on Polymarket. See live
 marketQuestion: "Xi Jinping out before 2027?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-06-04
+lastUpdated: 2026-06-05
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 7.0
 polymarketNo: 93.0
-polymarketVolume: 9931354
+polymarketVolume: 9933608
 polymarketUrl: "https://polymarket.com/event/xi-jinping-out-before-2027"
-analysisDate: 2026-06-04
 ---
 
 The market pricing Xi Jinping's departure at just 7% reflects the extraordinary consolidation of power by China's paramount leader, who eliminated term limits in 2018 and secured an unprecedented third term in October 2022 with a Politburo Standing Committee stacked entirely with loyalists. This market matters because any leadership change in the world's second-largest economy would trigger massive geopolitical and economic ripples, yet traders see Xi's position as nearly unassailable through 2026.

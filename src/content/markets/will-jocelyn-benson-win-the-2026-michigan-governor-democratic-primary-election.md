@@ -1,17 +1,16 @@
 ---
 title: "Will Jocelyn Benson win the 2026 Michigan Governor Democratic primary election?"
-description: "Will Jocelyn Benson win the 2026 Michigan Governor Democratic primary election? Odds: 83.6% YES on Polymarket. See live prices and trade this market."
+description: "Will Jocelyn Benson win the 2026 Michigan Governor Democratic primary election? Odds: 84.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Jocelyn Benson win the 2026 Michigan Governor Democratic primary election?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-06-04
+lastUpdated: 2026-06-05
 expiryDate: 2026-08-04
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 83.6
-polymarketNo: 16.4
-polymarketVolume: 9841
+polymarketYes: 84.9
+polymarketNo: 15.1
+polymarketVolume: 9883
 polymarketUrl: "https://polymarket.com/event/will-jocelyn-benson-win-the-2026-michigan-governor-democratic-primary-election"
-analysisDate: 2026-06-04
 ---
 
 # Michigan Democratic Primary 2026: Benson's Commanding Position

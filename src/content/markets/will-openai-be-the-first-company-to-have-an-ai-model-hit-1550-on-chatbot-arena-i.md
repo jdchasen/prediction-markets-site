@@ -3,8 +3,8 @@ title: "Will OpenAI be the first company to have an AI model hit 1550 on Chatbot
 description: "Will OpenAI be the first company to have an AI model hit 1550 on Chatbot Arena in 2026? Odds: 3.6% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will OpenAI be the first company to have an AI model hit 1550 on Chatbot Arena in 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-06-04
+status: "settled"
+lastUpdated: 2026-06-05
 expiryDate: 2026-12-31
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 3.6

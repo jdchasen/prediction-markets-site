@@ -3,8 +3,8 @@ title: "Will Australia win on 2026-06-14?"
 description: "Will Australia win on 2026-06-14? Odds: 18.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Australia win on 2026-06-14?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-06-04
+status: "settled"
+lastUpdated: 2026-06-05
 expiryDate: 2026-06-14
 tags: ["politics", "polymarket"]
 polymarketYes: 18.5

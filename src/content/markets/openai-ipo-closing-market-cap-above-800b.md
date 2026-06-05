@@ -1,17 +1,16 @@
 ---
 title: "OpenAI IPO closing market cap above $800B?"
-description: "OpenAI IPO closing market cap above $800B? Odds: 84.0% YES on Polymarket. See live prices and trade this market."
+description: "OpenAI IPO closing market cap above $800B? Odds: 84.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "OpenAI IPO closing market cap above $800B?"
 category: "finance"
 status: "active"
-lastUpdated: 2026-06-04
+lastUpdated: 2026-06-05
 expiryDate: 2027-12-31
 tags: ["ai", "finance", "polymarket"]
-polymarketYes: 84.0
-polymarketNo: 16.0
-polymarketVolume: 97991
+polymarketYes: 84.5
+polymarketNo: 15.5
+polymarketVolume: 97994
 polymarketUrl: "https://polymarket.com/event/openai-ipo-closing-market-cap-above-800b"
-analysisDate: 2026-06-04
 ---
 
 Traders are pricing in an exceptionally high probability that OpenAI will go public and achieve a valuation exceeding $800 billion by the end of 2027, reflecting immense confidence in the company's ability to dominate the AI market despite formidable competition and uncertain profitability timelines. This market matters because it represents a bet not just on OpenAI's success, but on the broader trajectory of AI commercialization and whether the current hype cycle translates into sustainable revenue growth over the next three years.

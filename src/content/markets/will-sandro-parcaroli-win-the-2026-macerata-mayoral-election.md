@@ -3,8 +3,8 @@ title: "Will Sandro Parcaroli win the 2026 Macerata mayoral election?"
 description: "Will Sandro Parcaroli win the 2026 Macerata mayoral election? Odds: 91.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Sandro Parcaroli win the 2026 Macerata mayoral election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-06-04
+status: "settled"
+lastUpdated: 2026-06-05
 expiryDate: 2026-06-08
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 91.0

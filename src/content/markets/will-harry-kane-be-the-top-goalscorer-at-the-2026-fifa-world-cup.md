@@ -4,14 +4,13 @@ description: "Will Harry Kane be the top goalscorer at the 2026 FIFA World Cup? 
 marketQuestion: "Will Harry Kane be the top goalscorer at the 2026 FIFA World Cup?"
 category: "sports"
 status: "active"
-lastUpdated: 2026-06-04
+lastUpdated: 2026-06-05
 expiryDate: 2026-07-20
 tags: ["polymarket", "sports"]
 polymarketYes: 12.5
 polymarketNo: 87.5
-polymarketVolume: 97887
+polymarketVolume: 99729
 polymarketUrl: "https://polymarket.com/event/will-harry-kane-be-the-top-goalscorer-at-the-2026-fifa-world-cup"
-analysisDate: 2026-06-04
 ---
 
 The market pricing Harry Kane at 12.5% to lead the 2026 World Cup in goals reflects significant skepticism about England's talisman repeating his 2018 Golden Boot achievement, driven by his age (33 at tournament time) and mounting competition from younger strikers globally.

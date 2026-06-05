@@ -1,17 +1,16 @@
 ---
 title: "Will Kim Kataguiri win the 2026 São Paulo gubernatorial election?"
-description: "Will Kim Kataguiri win the 2026 São Paulo gubernatorial election? Odds: 10.8% YES on Polymarket. See live prices and trade this market."
+description: "Will Kim Kataguiri win the 2026 São Paulo gubernatorial election? Odds: 13.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Kim Kataguiri win the 2026 São Paulo gubernatorial election?"
 category: "politics"
-status: "settled"
-lastUpdated: 2026-06-04
+status: "active"
+lastUpdated: 2026-06-05
 expiryDate: 2026-10-04
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 10.8
-polymarketNo: 89.2
-polymarketVolume: 9731
+polymarketYes: 13.9
+polymarketNo: 86.2
+polymarketVolume: 9803
 polymarketUrl: "https://polymarket.com/event/will-kim-kataguiri-win-the-2026-so-paulo-gubernatorial-election"
-analysisDate: 2026-06-04
 ---
 
 # Kim Kataguiri 2026 São Paulo Gubernatorial Race: Market Analysis

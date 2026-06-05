@@ -4,14 +4,13 @@ description: "Will Türkiye win Group D in the 2026 FIFA World Cup? Odds: 35.5% 
 marketQuestion: "Will Türkiye win Group D in the 2026 FIFA World Cup?"
 category: "sports"
 status: "active"
-lastUpdated: 2026-06-04
+lastUpdated: 2026-06-05
 expiryDate: 2026-06-27
 tags: ["polymarket", "sports"]
 polymarketYes: 35.5
 polymarketNo: 64.5
-polymarketVolume: 97749
+polymarketVolume: 98856
 polymarketUrl: "https://polymarket.com/event/will-the-winner-of-kosovoromaniaslovakiatrkiye-playoff-win-group-d-in-the-2026-fifa-world-cup"
-analysisDate: 2026-06-04
 ---
 
 Turkey sits at roughly one-in-three odds to top their World Cup group, a meaningful probability that reflects both their recent competitive resurgence and the uncertainty inherent in tournament draws that won't be finalized until late 2025. The market matters because Group D positioning will be determined by pot placements in the draw, and Turkey's current FIFA ranking puts them in position to avoid the absolute strongest European sides while potentially facing beatable opposition.

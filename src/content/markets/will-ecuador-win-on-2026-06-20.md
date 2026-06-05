@@ -3,8 +3,8 @@ title: "Will Ecuador win on 2026-06-20?"
 description: "Will Ecuador win on 2026-06-20? Odds: 79.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Ecuador win on 2026-06-20?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-06-04
+status: "settled"
+lastUpdated: 2026-06-05
 expiryDate: 2026-06-21
 tags: ["politics", "polymarket"]
 polymarketYes: 79.5

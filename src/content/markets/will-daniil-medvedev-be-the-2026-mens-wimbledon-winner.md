@@ -1,17 +1,16 @@
 ---
 title: "Will Daniil Medvedev be the 2026 Men’s Wimbledon winner?"
-description: "Will Daniil Medvedev be the 2026 Men’s Wimbledon winner? Odds: 2.3% YES on Polymarket. See live prices and trade this market."
+description: "Will Daniil Medvedev be the 2026 Men’s Wimbledon winner? Odds: 2.6% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Daniil Medvedev be the 2026 Men’s Wimbledon winner?"
 category: "politics"
-status: "settled"
-lastUpdated: 2026-06-04
+status: "active"
+lastUpdated: 2026-06-05
 expiryDate: 2026-07-12
 tags: ["politics", "polymarket"]
-polymarketYes: 2.3
-polymarketNo: 97.7
-polymarketVolume: 97083
+polymarketYes: 2.6
+polymarketNo: 97.4
+polymarketVolume: 98174
 polymarketUrl: "https://polymarket.com/event/will-daniil-medvedev-be-the-2026-mens-wimbledon-winner"
-analysisDate: 2026-06-04
 ---
 
 # Medvedev's Wimbledon 2026 Odds: A Misclassified Market

@@ -4,14 +4,13 @@ description: "Will Markéta Vondroušová be the 2026 Women’s Wimbledon Winner
 marketQuestion: "Will Markéta Vondroušová be the 2026 Women’s Wimbledon Winner?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-06-04
+lastUpdated: 2026-06-05
 expiryDate: 2026-07-12
 tags: ["politics", "polymarket"]
 polymarketYes: 1.0
 polymarketNo: 99.0
 polymarketVolume: 9878
 polymarketUrl: "https://polymarket.com/event/will-markta-vondrouov-be-the-2026-womens-wimbledon-winner"
-analysisDate: 2026-06-04
 ---
 
 # Markéta Vondroušová 2026 Wimbledon Analysis
