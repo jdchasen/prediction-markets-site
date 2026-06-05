@@ -3,7 +3,7 @@ title: "Will Russia enter Zaporizhia by June 30?"
 description: "Will Russia enter Zaporizhia by June 30? Odds: 1.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Russia enter Zaporizhia by June 30?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-05
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]

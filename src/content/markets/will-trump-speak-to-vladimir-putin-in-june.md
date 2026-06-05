@@ -1,17 +1,16 @@
 ---
 title: "Will Trump speak to Vladimir Putin in June?"
-description: "Will Trump speak to Vladimir Putin in June? Odds: 48.0% YES on Polymarket. See live prices and trade this market."
+description: "Will Trump speak to Vladimir Putin in June? Odds: 51.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Trump speak to Vladimir Putin in June?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-06-05
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket", "trump"]
-polymarketYes: 48.0
-polymarketNo: 52.0
-polymarketVolume: 9755
+polymarketYes: 51.5
+polymarketNo: 48.5
+polymarketVolume: 9906
 polymarketUrl: "https://polymarket.com/event/will-trump-speak-to-vladimir-putin-in-june"
-analysisDate: 2026-06-05
 ---
 
 # Trump-Putin Call in June 2026: Analysis

@@ -8,10 +8,9 @@ lastUpdated: 2026-06-05
 expiryDate: 2026-06-17
 tags: ["federal-reserve", "politics", "polymarket"]
 polymarketYes: 1.1
-polymarketNo: 99.0
-polymarketVolume: 9809
+polymarketNo: 98.9
+polymarketVolume: 9890
 polymarketUrl: "https://polymarket.com/event/will-four-or-more-people-dissent-the-june-fed-decision"
-analysisDate: 2026-06-05
 ---
 
 # Fed Dissent Market Analysis

@@ -3,7 +3,7 @@ title: "Will Anthropic or OpenAI IPO first?"
 description: "Will Anthropic or OpenAI IPO first? Odds: 76.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Anthropic or OpenAI IPO first?"
 category: "finance"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-05
 expiryDate: 2027-12-31
 tags: ["ai", "finance", "polymarket"]

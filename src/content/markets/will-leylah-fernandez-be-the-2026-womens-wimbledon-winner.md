@@ -11,7 +11,6 @@ polymarketYes: 0.3
 polymarketNo: 99.7
 polymarketVolume: 9794
 polymarketUrl: "https://polymarket.com/event/will-leylah-fernandez-be-the-2026-womens-wimbledon-winner"
-analysisDate: 2026-06-05
 ---
 
 # Analysis: Leylah Fernandez Wimbledon 2026

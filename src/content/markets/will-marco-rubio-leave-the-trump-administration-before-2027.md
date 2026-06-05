@@ -11,7 +11,6 @@ polymarketYes: 12.5
 polymarketNo: 87.5
 polymarketVolume: 9721
 polymarketUrl: "https://polymarket.com/event/will-marco-rubio-leave-the-trump-administration-before-2027"
-analysisDate: 2026-06-05
 ---
 
 # Marco Rubio and the Trump Administration: A Low-Departure Probability

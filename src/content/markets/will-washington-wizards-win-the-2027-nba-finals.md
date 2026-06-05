@@ -3,7 +3,7 @@ title: "Will Washington Wizards win the 2027 NBA Finals?"
 description: "Will Washington Wizards win the 2027 NBA Finals? Odds: 1.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Washington Wizards win the 2027 NBA Finals?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-05
 expiryDate: 2027-07-01
 tags: ["polymarket", "sports"]

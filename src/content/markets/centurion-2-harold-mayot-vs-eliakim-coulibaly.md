@@ -3,7 +3,7 @@ title: "Centurion 2: Harold Mayot vs Eliakim Coulibaly"
 description: "Centurion 2: Harold Mayot vs Eliakim Coulibaly Odds: 100.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Centurion 2: Harold Mayot vs Eliakim Coulibaly"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-05
 expiryDate: 2026-06-12
 tags: ["politics", "polymarket"]

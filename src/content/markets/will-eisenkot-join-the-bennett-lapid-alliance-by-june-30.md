@@ -11,7 +11,6 @@ polymarketYes: 12.0
 polymarketNo: 88.0
 polymarketVolume: 9751
 polymarketUrl: "https://polymarket.com/event/will-eisenkot-join-the-bennett-lapid-alliance-by-june-30"
-analysisDate: 2026-06-05
 ---
 
 # Eisenkot-Bennett-Lapid Alliance Analysis

@@ -11,7 +11,6 @@ polymarketYes: 29.0
 polymarketNo: 71.0
 polymarketVolume: 97434
 polymarketUrl: "https://polymarket.com/event/pedro-snchez-out-as-pm-of-spain-by-december-31-2026"
-analysisDate: 2026-06-05
 ---
 
 # Pedro Sánchez's Premiership Under Pressure: A 29% Exit Probability by End-2026

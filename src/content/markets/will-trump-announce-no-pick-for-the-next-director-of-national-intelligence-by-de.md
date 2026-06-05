@@ -3,7 +3,7 @@ title: "Will Trump announce no pick for the next Director of National Intelligen
 description: "Will Trump announce no pick for the next Director of National Intelligence by December 31, 2026? Odds: 16.3% YES on Polymarket. See live prices and trade thi..."
 marketQuestion: "Will Trump announce no pick for the next Director of National Intelligence by December 31, 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-05
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket", "trump"]

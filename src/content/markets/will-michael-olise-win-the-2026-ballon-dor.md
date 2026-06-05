@@ -1,17 +1,16 @@
 ---
 title: "Will Michael Olise win the 2026 Ballon d'Or?"
-description: "Will Michael Olise win the 2026 Ballon d'Or? Odds: 3.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Michael Olise win the 2026 Ballon d'Or? Odds: 3.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Michael Olise win the 2026 Ballon d'Or?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-06-05
 expiryDate: 2026-10-31
 tags: ["politics", "polymarket"]
-polymarketYes: 3.5
-polymarketNo: 96.5
-polymarketVolume: 98789
+polymarketYes: 3.8
+polymarketNo: 96.2
+polymarketVolume: 99378
 polymarketUrl: "https://polymarket.com/event/will-michael-olise-win-the-2026-ballon-dor"
-analysisDate: 2026-06-05
 ---
 
 # Michael Olise 2026 Ballon d'Or Analysis

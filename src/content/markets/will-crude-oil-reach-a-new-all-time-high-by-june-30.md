@@ -3,7 +3,7 @@ title: "Will Crude Oil reach a new all-time high by June 30?"
 description: "Will Crude Oil reach a new all-time high by June 30? Odds: 3.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Crude Oil reach a new all-time high by June 30?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-05
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]

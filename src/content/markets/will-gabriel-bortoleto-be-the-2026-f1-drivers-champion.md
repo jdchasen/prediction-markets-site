@@ -9,9 +9,8 @@ expiryDate: 2026-12-06
 tags: ["polymarket", "sports"]
 polymarketYes: 0.2
 polymarketNo: 99.8
-polymarketVolume: 9795172
+polymarketVolume: 9796699
 polymarketUrl: "https://polymarket.com/event/will-gabriel-bortoleto-be-the-2026-f1-drivers-champion"
-analysisDate: 2026-06-05
 ---
 
 The market prices Gabriel Bortoleto's chances of winning the 2026 F1 Drivers' Championship at essentially zero, reflecting the massive challenge facing a rookie driver joining a midfield team with no realistic pathway to championship contention in his second season.

@@ -3,7 +3,7 @@ title: "Will Ethereum reach $2,100 in June?"
 description: "Will Ethereum reach $2,100 in June? Odds: 10.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Ethereum reach $2,100 in June?"
 category: "crypto"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-05
 expiryDate: 2026-07-01
 tags: ["crypto", "ethereum", "polymarket"]

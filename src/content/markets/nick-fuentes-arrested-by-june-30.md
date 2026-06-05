@@ -1,17 +1,16 @@
 ---
 title: "Nick Fuentes arrested by June 30?"
-description: "Nick Fuentes arrested by June 30? Odds: 1.4% YES on Polymarket. See live prices and trade this market."
+description: "Nick Fuentes arrested by June 30? Odds: 1.6% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Nick Fuentes arrested by June 30?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-06-05
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
-polymarketYes: 1.4
-polymarketNo: 98.6
-polymarketVolume: 9738
+polymarketYes: 1.6
+polymarketNo: 98.5
+polymarketVolume: 9739
 polymarketUrl: "https://polymarket.com/event/nick-fuentes-arrested-by-june-30"
-analysisDate: 2026-06-05
 ---
 
 # Nick Fuentes Arrest Market Analysis

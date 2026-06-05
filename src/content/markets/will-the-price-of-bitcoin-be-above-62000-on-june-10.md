@@ -3,7 +3,7 @@ title: "Will the price of Bitcoin be above $62,000 on June 10?"
 description: "Will the price of Bitcoin be above $62,000 on June 10? Odds: 49.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the price of Bitcoin be above $62,000 on June 10?"
 category: "crypto"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-05
 expiryDate: 2026-06-10
 tags: ["bitcoin", "crypto", "polymarket"]
