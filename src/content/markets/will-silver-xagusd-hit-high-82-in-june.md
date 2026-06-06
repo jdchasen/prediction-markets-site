@@ -3,8 +3,8 @@ title: "Will Silver (XAGUSD) hit (HIGH) $82 in June?"
 description: "Will Silver (XAGUSD) hit (HIGH) $82 in June? Odds: 19.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Silver (XAGUSD) hit (HIGH) $82 in June?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-06-05
+status: "settled"
+lastUpdated: 2026-06-06
 expiryDate: 2026-07-01
 tags: ["politics", "polymarket"]
 polymarketYes: 19.0

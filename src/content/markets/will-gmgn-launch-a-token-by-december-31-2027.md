@@ -3,8 +3,8 @@ title: "Will GMGN launch a token by December 31, 2027?"
 description: "Will GMGN launch a token by December 31, 2027? Odds: 68.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will GMGN launch a token by December 31, 2027?"
 category: "crypto"
-status: "active"
-lastUpdated: 2026-06-05
+status: "settled"
+lastUpdated: 2026-06-06
 expiryDate: 2028-01-01
 tags: ["crypto", "polymarket"]
 polymarketYes: 68.5

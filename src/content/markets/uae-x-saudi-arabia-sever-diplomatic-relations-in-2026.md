@@ -1,17 +1,16 @@
 ---
 title: "UAE x Saudi Arabia sever diplomatic relations in 2026?"
-description: "UAE x Saudi Arabia sever diplomatic relations in 2026? Odds: 6.5% YES on Polymarket. See live prices and trade this market."
+description: "UAE x Saudi Arabia sever diplomatic relations in 2026? Odds: 6.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "UAE x Saudi Arabia sever diplomatic relations in 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-06-05
+lastUpdated: 2026-06-06
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 6.5
-polymarketNo: 93.5
-polymarketVolume: 9829
+polymarketYes: 6.0
+polymarketNo: 94.0
+polymarketVolume: 9976
 polymarketUrl: "https://polymarket.com/event/uae-x-saudi-arabia-sever-diplomatic-relations-in-2026"
-analysisDate: 2026-06-05
 ---
 
 # UAE-Saudi Arabia Diplomatic Rupture 2026: Market Analysis

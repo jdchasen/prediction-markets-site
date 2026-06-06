@@ -1,17 +1,16 @@
 ---
 title: "Will Bilibili Gaming win LPL 2026 Split 2?"
-description: "Will Bilibili Gaming win LPL 2026 Split 2? Odds: 39.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Bilibili Gaming win LPL 2026 Split 2? Odds: 39.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Bilibili Gaming win LPL 2026 Split 2?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-06-05
+lastUpdated: 2026-06-06
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
-polymarketYes: 39.5
-polymarketNo: 60.5
-polymarketVolume: 9779
+polymarketYes: 39.0
+polymarketNo: 61.0
+polymarketVolume: 9862
 polymarketUrl: "https://polymarket.com/event/will-bilibili-gaming-win-lpl-2026-split-2"
-analysisDate: 2026-06-05
 ---
 
 # Bilibili Gaming LPL 2026 Split 2 Analysis

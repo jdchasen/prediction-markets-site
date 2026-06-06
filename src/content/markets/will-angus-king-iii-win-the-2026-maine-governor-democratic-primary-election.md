@@ -3,8 +3,8 @@ title: "Will Angus King III win the 2026 Maine Governor Democratic primary elect
 description: "Will Angus King III win the 2026 Maine Governor Democratic primary election? Odds: 1.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Angus King III win the 2026 Maine Governor Democratic primary election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-06-05
+status: "settled"
+lastUpdated: 2026-06-06
 expiryDate: 2026-06-09
 tags: ["ai", "elections", "politics", "polymarket"]
 polymarketYes: 1.4

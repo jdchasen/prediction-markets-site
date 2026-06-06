@@ -3,8 +3,8 @@ title: "Will NVIDIA be the third-largest company in the world by market cap on J
 description: "Will NVIDIA be the third-largest company in the world by market cap on June 30? Odds: 6.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will NVIDIA be the third-largest company in the world by market cap on June 30?"
 category: "finance"
-status: "active"
-lastUpdated: 2026-06-05
+status: "settled"
+lastUpdated: 2026-06-06
 expiryDate: 2026-06-30
 tags: ["finance", "polymarket"]
 polymarketYes: 6.0

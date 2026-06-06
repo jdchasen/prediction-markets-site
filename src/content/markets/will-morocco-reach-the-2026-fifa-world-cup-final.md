@@ -3,8 +3,8 @@ title: "Will Morocco reach the 2026 FIFA World Cup final?"
 description: "Will Morocco reach the 2026 FIFA World Cup final? Odds: 5.6% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Morocco reach the 2026 FIFA World Cup final?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-06-05
+status: "settled"
+lastUpdated: 2026-06-06
 expiryDate: 2026-07-20
 tags: ["polymarket", "sports"]
 polymarketYes: 5.6

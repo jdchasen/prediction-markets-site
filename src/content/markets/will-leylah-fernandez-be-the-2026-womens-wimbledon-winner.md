@@ -3,8 +3,8 @@ title: "Will Leylah Fernandez be the 2026 Women’s Wimbledon Winner?"
 description: "Will Leylah Fernandez be the 2026 Women’s Wimbledon Winner? Odds: 0.3% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Leylah Fernandez be the 2026 Women’s Wimbledon Winner?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-06-05
+status: "settled"
+lastUpdated: 2026-06-06
 expiryDate: 2026-07-12
 tags: ["politics", "polymarket"]
 polymarketYes: 0.3

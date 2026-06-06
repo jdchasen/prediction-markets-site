@@ -1,17 +1,16 @@
 ---
 title: "Will China invade Taiwan by June 30, 2026?"
-description: "Will China invade Taiwan by June 30, 2026? Odds: 1.1% YES on Polymarket. See live prices and trade this market."
+description: "Will China invade Taiwan by June 30, 2026? Odds: 0.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will China invade Taiwan by June 30, 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-06-05
+lastUpdated: 2026-06-06
 expiryDate: 2026-06-30
 tags: ["ai", "politics", "polymarket"]
-polymarketYes: 1.1
-polymarketNo: 98.9
-polymarketVolume: 9810343
+polymarketYes: 0.9
+polymarketNo: 99.1
+polymarketVolume: 9848787
 polymarketUrl: "https://polymarket.com/event/will-china-invade-taiwan-by-june-30-2026"
-analysisDate: 2026-06-05
 ---
 
 Traders are pricing in just over a 1% probability of a Chinese military invasion of Taiwan before mid-2026, reflecting a strong consensus that despite ongoing tensions, full-scale conflict remains highly unlikely in this timeframe. The market matters because it aggregates real-money assessments of one of the world's most critical flashpoints, where miscalculation could trigger a conflict involving the United States and reshape the global order.

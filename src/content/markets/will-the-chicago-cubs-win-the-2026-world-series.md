@@ -4,14 +4,13 @@ description: "Will the Chicago Cubs win the 2026 World Series? Odds: 3.6% YES on
 marketQuestion: "Will the Chicago Cubs win the 2026 World Series?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-06-05
+lastUpdated: 2026-06-06
 expiryDate: 2026-10-31
 tags: ["politics", "polymarket"]
 polymarketYes: 3.6
 polymarketNo: 96.4
-polymarketVolume: 991544
+polymarketVolume: 995201
 polymarketUrl: "https://polymarket.com/event/will-the-chicago-cubs-win-the-2026-world-series"
-analysisDate: 2026-06-05
 ---
 
 The Chicago Cubs currently sit at minimal odds to win the 2026 World Series, reflecting their position as a middle-tier National League franchise without the star power or farm system depth of perennial contenders. Despite the "politics" category label appearing to be a classification error, this market fundamentally hinges on baseball operations decisions over the next two years, including the 2024-25 and 2025-26 offseasons when the Cubs could theoretically reshape their roster through free agency or trades.

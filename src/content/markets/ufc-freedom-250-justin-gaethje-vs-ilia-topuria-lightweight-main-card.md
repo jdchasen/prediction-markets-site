@@ -3,8 +3,8 @@ title: "UFC Freedom 250: Justin Gaethje vs. Ilia Topuria (Lightweight, Main Card
 description: "UFC Freedom 250: Justin Gaethje vs. Ilia Topuria (Lightweight, Main Card) Odds: 17.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "UFC Freedom 250: Justin Gaethje vs. Ilia Topuria (Lightweight, Main Card)"
 category: "politics"
-status: "active"
-lastUpdated: 2026-06-05
+status: "settled"
+lastUpdated: 2026-06-06
 expiryDate: 2026-06-15
 tags: ["ai", "ethereum", "politics", "polymarket"]
 polymarketYes: 17.5

@@ -3,8 +3,8 @@ title: "Will Marco Rubio leave the Trump administration before 2027?"
 description: "Will Marco Rubio leave the Trump administration before 2027? Odds: 12.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Marco Rubio leave the Trump administration before 2027?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-06-05
+status: "settled"
+lastUpdated: 2026-06-06
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket", "trump"]
 polymarketYes: 12.5

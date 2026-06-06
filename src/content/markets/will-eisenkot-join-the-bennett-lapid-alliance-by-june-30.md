@@ -1,16 +1,17 @@
 ---
 title: "Will Eisenkot join the Bennett-Lapid alliance by June 30?"
-description: "Will Eisenkot join the Bennett-Lapid alliance by June 30? Odds: 12.0% YES on Polymarket. See live prices and trade this market."
+description: "Will Eisenkot join the Bennett-Lapid alliance by June 30? Odds: 11.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Eisenkot join the Bennett-Lapid alliance by June 30?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-06-05
+lastUpdated: 2026-06-06
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
-polymarketYes: 12.0
-polymarketNo: 88.0
+polymarketYes: 11.5
+polymarketNo: 88.5
 polymarketVolume: 9751
 polymarketUrl: "https://polymarket.com/event/will-eisenkot-join-the-bennett-lapid-alliance-by-june-30"
+analysisDate: 2026-06-06
 ---
 
 # Eisenkot-Bennett-Lapid Alliance Analysis
@@ -19,37 +20,35 @@ polymarketUrl: "https://polymarket.com/event/will-eisenkot-join-the-bennett-lapi
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 12.0% | 88.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 11.5% | 88.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The market is pricing in a low-probability scenario where former IDF Chief of Staff Gadi Eisenkot formally joins the Bennett-Lapid political alliance before mid-2026, currently trading at just 12%, reflecting significant skepticism about such a merger. This matters because Israeli coalition politics remain fluid following recent elections, and any major realignment among centrist or right-wing parties could reshape government formation dynamics heading into 2026. Eisenkot has positioned himself as a potential kingmaker appealing to security-minded voters, making his alignment choice strategically consequential.
+At 11.5% implied probability, the market is pricing in substantial skepticism that former IDF Chief of Staff Gadi Eisenkot will formally join the Bennett-Lapid political alliance by mid-2026, reflecting the current fragmentation of Israel's center-right opposition and Eisenkot's historical positioning as a non-partisan security figure. This outcome matters because such a coalition could reshape Israeli opposition dynamics ahead of potential early elections, and Eisenkot's military credibility could meaningfully boost the alliance's electoral appeal on security issues.
 
-The bull case rests on three pillars: Bennett and Lapid have shown willingness to collaborate across their ideological differences (they governed together from 2021-2022), their polling numbers remain modest individually but could consolidate voter support through merger, and Eisenkot's security credentials could legitimize their platform against Netanyahu's Likud. If economic conditions deteriorate or security concerns dominate headlines in late 2025 or early 2026, voters might demand a unified centrist-right alternative, forcing Eisenkot's hand. The Knesset's summer 2026 session could trigger coalition reshuffling that accelerates negotiations.
+The bull case for YES rests on three concrete factors: first, Eisenkot has already demonstrated political ambition by entering the Knesset in 2023 and joining the Likud party, signaling willingness to abandon non-partisan positioning; second, the Bennett-Lapid alliance represents the most coherent center-right opposition bloc, making it a natural home for an ambitious politician seeking leverage; third, if early elections are called (feasible given Israel's perpetual political instability), coalition consolidation typically accelerates in the 12-18 months preceding votes. The bear case is stronger: Eisenkot remains formally embedded within Netanyahu's Likud party with no public signals of defection, making a switch to Bennett-Lapid require explicit party-hopping that would damage his relationships and credibility; Bennett and Lapid themselves have had fractious relations historically, suggesting the "alliance" may remain loosely coordinated rather than formally merged; additionally, Eisenkot's appeal to center-right voters may actually decrease if perceived as purely opportunistic coalition-building rather than principled opposition.
 
-The bear case is dominant: Eisenkot has maintained strategic ambiguity partly to maximize his leverage, and formal alliance commitment would eliminate his ability to negotiate independently with multiple blocs. Bennett and Lapid's internal tensions over leadership hierarchy remain unresolved—adding Eisenkot creates a three-way power struggle unlikely to resolve cleanly. Neither Bennett nor Lapid has publicly advocated for this merger, and their separate polling paths suggest they see more value staying independent. Historical precedent shows Israeli centrist alliances tend to fragment rather than consolidate before elections.
-
-Key catalysts to monitor include any major security escalation (which could accelerate center-right coalition talks), announcement of the 2026 election date (typically triggers alliance negotiations 4-6 months prior), and primary/party leadership votes within Bennett's Yamina and Lapid's Yesh Atid between October 2025-February 2026. Watch for polling shifts showing combined Bennett-Lapid numbers exceeding their individual totals, which would create merger incentives. Israeli coalition negotiations typically crystallize 90 days before elections, making spring 2026 the critical decision window.
+Key catalysts include any formal announcement of early elections (which would accelerate coalition negotiations), Likud primary contests in late 2025 that might marginalize Eisenkot within the party, and statements from Bennett or Lapid about expanding their alliance. Watch for whether the Bennett-Lapid partnership formalizes into a single electoral list or remains separate blocs—a full merger would increase Eisenkot's incentive to join. Current Israeli polling shows the center-right fragmented across multiple parties with no dominant leader, meaning structural pressure for consolidation exists, but Eisenkot's individual positioning within Likud will prove decisive.
 
 ## Related Markets
 
-- [Will Jamie Dimon win the 2028 US Presidential Election?](/odds/will-jamie-dimon-win-the-2028-us-presidential-election) — 1% YES
 - [Will Wes Moore win the 2028 US Presidential Election?](/odds/will-wes-moore-win-the-2028-us-presidential-election) — 1% YES
+- [Will Jamie Dimon win the 2028 US Presidential Election?](/odds/will-jamie-dimon-win-the-2028-us-presidential-election) — 1% YES
 - [Xi Jinping out before 2027?](/odds/xi-jinping-out-before-2027) — 7% YES
 
 ## Frequently Asked Questions
 
-### What would formal "joining" the alliance legally require in Israeli politics?
+### Has Eisenkot publicly criticized the Bennett-Lapid alliance or indicated openness to joining?
 
-Either Eisenkot's party merging into an existing Bennett/Lapid entity or all three forming a new unified faction in the Knesset, requiring explicit public party-merger agreements rather than informal campaign coordination.
+Eisenkot has remained publicly neutral on the alliance while maintaining his Likud affiliation; no direct statements about joining have been recorded, which is why the 11.5% odds reflect genuine ambiguity rather than contrarian positioning.
 
-### Has Eisenkot previously signaled openness to joining Bennett or Lapid's parties?
+### What would count as "joining" under this market's rules—formal party membership, electoral list placement, or coalition agreement?
 
-Eisenkot has maintained deliberate ambiguity about coalition partners while occasionally praising their security credentials, but has never publicly proposed or endorsed formal alliance with either figure specifically.
+Market resolution will depend on the specific contract language, but typically "joining" requires formal affiliation that's publicly announced and recognized by Israeli media, not merely voting with the bloc in Knesset.
 
-### How does the June 30, 2026 deadline align with Israeli election cycles?
+### If Netanyahu calls early elections before June 2026, does that make Eisenkot joining MORE or LESS likely?
 
-If elections occur in late 2026 (typical 4-year cycle from 2022), major coalition announcements typically finalize by May-June, making the expiry date coincide with the final negotiation window before ballot formation.
+Early elections would make joining MORE likely because coalition pressure intensifies and Eisenkot would need to position himself competitively; without election pressure, there's minimal incentive for him to abandon his current Likud seat.
 
 ## Learn More
 

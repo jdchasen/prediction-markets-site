@@ -3,8 +3,8 @@ title: "Will Crude Oil reach a new all-time high by December 31?"
 description: "Will Crude Oil reach a new all-time high by December 31? Odds: 24.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Crude Oil reach a new all-time high by December 31?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-06-05
+status: "settled"
+lastUpdated: 2026-06-06
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 24.0

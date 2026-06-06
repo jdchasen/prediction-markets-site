@@ -1,16 +1,17 @@
 ---
 title: "Nick Fuentes arrested by June 30?"
-description: "Nick Fuentes arrested by June 30? Odds: 1.6% YES on Polymarket. See live prices and trade this market."
+description: "Nick Fuentes arrested by June 30? Odds: 1.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Nick Fuentes arrested by June 30?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-06-05
+lastUpdated: 2026-06-06
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
-polymarketYes: 1.6
-polymarketNo: 98.5
-polymarketVolume: 9739
+polymarketYes: 1.5
+polymarketNo: 98.6
+polymarketVolume: 9745
 polymarketUrl: "https://polymarket.com/event/nick-fuentes-arrested-by-june-30"
+analysisDate: 2026-06-06
 ---
 
 # Nick Fuentes Arrest Market Analysis
@@ -19,35 +20,33 @@ polymarketUrl: "https://polymarket.com/event/nick-fuentes-arrested-by-june-30"
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 1.4% | 98.6% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 1.5% | 98.6% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The current 1.4% probability reflects minimal market expectation that the far-right political figure will face arrest before mid-2026, though this extremely low odds suggests either strong confidence in his legal safety or insufficient liquidity pricing in tail risk scenarios. The market matters because Fuentes operates at the intersection of contentious free speech debates, potential criminal exposure from past rhetoric and actions, and ongoing federal scrutiny of extremist movements—making arrest probability a proxy for how traders assess both legal jeopardy and First Amendment boundaries in the current political environment.
+The extremely low probability priced into this market reflects that arrest requires either a dramatic escalation in legal exposure or a significant shift in law enforcement priorities toward the far-right influencer, neither of which appears imminent. This matters because it tests whether prediction markets accurately price low-probability political events in an era of heightened partisan polarization and selective prosecution arguments. With roughly 18 months remaining until expiration, substantial time exists for circumstances to change, but current legal and political conditions make arrest a tail-risk scenario.
 
-The bull case for arrest hinges on several concrete vectors: federal investigations into January 6th-related activities continue producing indictments through 2025, and Fuentes' documented presence at Capitol-adjacent events creates potential charges ranging from conspiracy to obstruction; the incoming administration's actual stance toward his movement remains uncertain despite campaign-trail rhetoric, and precedent suggests enforcement actions can shift rapidly with new DOJ leadership; ongoing state-level investigations in multiple jurisdictions could yield charges unrelated to federal matters, expanding possible catalysts. Specific watch dates include any new indictments from the January 6th committee referrals (ongoing through 2025) and potential grand jury actions if civil litigation against extremist groups succeeds and generates criminal referrals.
+The bull case hinges on three vectors: First, ongoing DOJ investigations into January 6th participants and related networks could expand to include figures like Fuentes if evidence emerges of direct coordination or incitement; the Proud Boys trial precedent in late 2023 established prosecution frameworks for extremist organizing. Second, state-level prosecutors in jurisdictions where Fuentes has operated could pursue charges related to harassment, threats, or conspiracy—New York has aggressively prosecuted far-right figures. Third, potential violations of firearms regulations, immigration law regarding visa status, or tax issues could trigger federal enforcement if prioritized. The bear case is far stronger: Fuentes has avoided direct criminal liability despite inflammatory rhetoric, maintained operational security around his network, and operates within legal boundaries on most activity. The Trump administration's stance on January 6th prosecutions shifted dramatically after 2024, reducing DOJ appetite for political prosecutions of right-wing figures. Absent a violent incident directly traceable to Fuentes or leaked evidence of serious crimes, law enforcement lacks clear grounds for action, and the political climate now disfavors such prosecutions.
 
-The bear case—currently dominant in pricing—argues that Fuentes has largely avoided federal charges despite years of scrutiny, suggesting either insufficient evidence for prosecution or deliberate prosecutorial restraint; his recent shift toward mainstream Republican spaces and away from militia-adjacent activities reduces operational exposure; and arresting a political figure for speech-adjacent conduct faces genuine First Amendment constraints that prosecutors typically navigate cautiously. Additionally, the 18-month timeframe is relatively short for federal investigations to conclude, and any Trump administration would likely deemphasize prosecutions of right-wing figures, making the 2026 deadline potentially unforgiving for materialization.
-
-Traders should monitor three key indicators: any new federal indictments touching extremist organizing (watch DOJ press releases quarterly); state-level charges in jurisdictions where Fuentes has organized events (Florida, Arizona, and Virginia are active areas); and shifts in his public activities or legal representation suggesting anticipated charges. The market's extremely compressed odds suggest conviction among traders that current legal exposure is minimal, but this creates opportunity asymmetry if previously-unknown investigations surface or if policy shifts dramatically with 2026 midterm outcomes.
+Traders should monitor three catalysts: any new DOJ indictments targeting January 6th adjacent networks (which would signal renewed legal exposure for allied figures), statements from the incoming administration about DOJ priorities regarding political prosecutions, and any local incidents linked to Fuentes or his followers that generate media pressure. The absence of criminal charges in the past five years—despite intensive scrutiny from watchdog groups—suggests his legal exposure remains minimal. Unless leaked evidence surfaces or enforcement priorities shift sharply, the 1.5% probability likely reflects appropriate pricing for a low-probability event dependent on exogenous shocks rather than current trajectory.
 
 ## Related Markets
 
-- [Will Jamie Dimon win the 2028 US Presidential Election?](/odds/will-jamie-dimon-win-the-2028-us-presidential-election) — 1% YES
 - [Will Wes Moore win the 2028 US Presidential Election?](/odds/will-wes-moore-win-the-2028-us-presidential-election) — 1% YES
+- [Will Jamie Dimon win the 2028 US Presidential Election?](/odds/will-jamie-dimon-win-the-2028-us-presidential-election) — 1% YES
 - [Xi Jinping out before 2027?](/odds/xi-jinping-out-before-2027) — 7% YES
 
 ## Frequently Asked Questions
 
-### What specific criminal statutes could apply to Fuentes that would trigger this market's resolution?
+### What specific crimes would most likely trigger an arrest under current circumstances?
 
-Federal charges could include 18 USC §231 (seditious conspiracy), §1512 (obstruction of justice), or §1001 (false statements to federal investigators); state charges might include conspiracy, incitement statutes, or weapons violations depending on jurisdiction-specific laws and evidence.
+January 6th participation or conspiracy charges (most probable given DOJ precedent), followed by state-level harassment or incitement charges if local jurisdictions choose to pursue them; financial crimes like tax evasion are possible but unsubstantiated.
 
-### Does Fuentes' current political positioning make arrest more or less likely than it was in 2024?
+### How much would a change in DOJ leadership or administration policy affect this market's probability?
 
-His recent move toward mainstream Republican circles reduces operational exposure and liability relative to 2021-2023, but federal investigations have multi-year timelines independent of current positioning, so timing of any charges won't reflect present-day visibility.
+Substantially—the Trump administration's shift away from January 6th prosecutions in 2024-2025 already reduced pressure; a return to aggressive DOJ prosecution of right-wing figures under Democratic leadership would meaningfully increase arrest likelihood.
 
-### Would arrest while appealing or during civil litigation against him count as resolution?
+### What role does Fuentes' operational footprint play in arrest probability?
 
-Yes—the market resolves on actual arrest by law enforcement, regardless of conviction status or pending appeals; civil liability doesn't trigger resolution, but any arrest warrant issuance or formal charges requiring surrender would.
+His relatively lower-profile digital organizing compared to January 6th principals like Stewart Rhodes means fewer documented evidence trails for prosecutors; his avoidance of direct calls-to-action on his core platform limits conspiracy exposure compared to figures with direct paramilitary organizations.
 
