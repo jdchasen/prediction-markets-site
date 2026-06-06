@@ -9,43 +9,42 @@ expiryDate: 2027-10-24
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 4.3
 polymarketNo: 95.7
-polymarketVolume: 9861
+polymarketVolume: 9862
 polymarketUrl: "https://polymarket.com/event/will-mauricio-macri-win-the-2027-argentina-presidential-election"
+analysisDate: 2026-06-06
 ---
 
-# Argentina 2027 Presidential Market Analysis
+# Mauricio Macri's 2027 Presidential Bid: A Long-Shot Bet on Argentine Stability
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 5.2% | 94.8% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 4.3% | 95.7% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The market is pricing Macri as a significant underdog at just 5.2%, reflecting widespread skepticism about his electoral viability despite his status as a former president and major center-right figure. This matters now because Argentina's political landscape is crystallizing ahead of 2027, with Javier Milei's libertarian government currently in power and the traditional opposition fractured between Peronism and center-left forces—making succession contests uniquely unpredictable. The low odds suggest markets view Macri's path to victory as genuinely difficult, not merely unlikely.
+The market currently prices Macri's 2027 comeback at less than 5%, reflecting Argentina's volatile political environment and his limited current standing relative to rival factions within the center-right coalition. This matters now because Macri's viability depends heavily on whether incumbent Javier Milei consolidates economic gains before 2026-2027, and whether the Peronist opposition fractures further—both outcomes remain deeply uncertain as Argentina enters a critical stabilization phase. The extremely low odds suggest traders view Macri as a historical figure rather than an active political force, though this could change dramatically if circumstances shift.
 
-The bull case for Macri rests on his institutional weight as PRO party leader and a previous president who maintains significant business-sector backing and middle-class support in Buenos Aires and surrounding provinces. If Milei's government fails to stabilize inflation and the peso depreciates sharply, swing voters may gravitate toward a familiar center-right figure perceived as more technocratic than the current president. Legislative primaries scheduled for 2025 will provide the first real signal of which center-right candidates command voter preference; a strong Macri performance there could reset market expectations. Additionally, if Peronism splinters further and the left-wing vote divides, a three-way race could lower the threshold for victory.
+The bull case rests on three pillars: first, if Milei's austerity program succeeds in taming inflation without triggering severe recession, Macri (who governed 2015-2019 with a similar orthodoxy) could re-emerge as the "serious alternative" to both Milei's radicalism and Peronism's populism; second, Macri retains a disciplined party apparatus and deep business-sector support that could prove valuable in a fragmented primary season; third, primary elections scheduled for August 2027 could surprise if voter sentiment shifts away from Milei or leftist Peronism, opening a centrist lane. The bear case is far weightier: Macri's previous presidency ended unpopularly after inflation spiked and the IMF bailout deepened recession, making his personal brand toxic among working-class voters. The current coalition is led by Milei, not Macri, and the former president has no leverage within that government; if Milei maintains approval above 35-40%, Macri becomes irrelevant in any primary. Additionally, Peronism still commands 30-35% of the electorate even fragmented, and Macri would struggle in a general election runoff without strong anti-Peronist consolidation.
 
-The bear case is more compelling: Macri carries baggage from his 2015-2019 presidency, including presiding over currency crises and austerity that damaged his approval ratings. Milei currently occupies the center-right space and controls the executive apparatus, giving him inherent advantages in name recognition and resource mobilization through 2027. Peronism, despite internal divisions, maintains deeper institutional roots and superior ground organization in provincial strongholds. Polling data from mid-2024 consistently showed Macri trailing both Milei and Peronist candidates in general election matchups, and there's no clear mechanism for him to close that gap unless multiple rivals cannibalize each other. The October 2025 legislative midterms will be crucial; if Macri's PRO performs poorly, his 2027 viability collapses further.
-
-Traders should monitor three specific inflection points: the August 2025 PASO primary results (which will reveal real voter preferences among center-right candidates), inflation trends through late 2026 (higher inflation could open space for an anti-incumbent narrative), and any significant coalition realignments among opposition parties by mid-2026. The current 5.2% odds appear justified given structural disadvantages, but they could drift higher only if Milei's government deteriorates substantially or Peronism undergoes irreversible fragmentation—neither is assured.
+Key catalysts to watch include Milei's inflation data through mid-2026 (the Central Bank's monthly releases, with Q2 2026 especially critical), primary election results in August 2027, and any major legislative defeats for Milei's reform agenda before then. The December 2025 and 2026 mid-term congressional elections will signal whether the coalition holds or fractures, directly affecting Macri's negotiating position. Crucially, Argentine polling has proven unreliable, but watch for Macri's personal approval ratings starting in late 2025—if they remain below 25-30%, the market odds may actually be generous rather than conservative. The October 2027 general election date is firm, leaving roughly three years for major political realignment.
 
 ## Related Markets
 
-- [Will Jamie Dimon win the 2028 US Presidential Election?](/odds/will-jamie-dimon-win-the-2028-us-presidential-election) — 1% YES
 - [Will Wes Moore win the 2028 US Presidential Election?](/odds/will-wes-moore-win-the-2028-us-presidential-election) — 1% YES
-- [Xi Jinping out before 2027?](/odds/xi-jinping-out-before-2027) — 7% YES
+- [Will China invade Taiwan by June 30, 2026?](/odds/will-china-invade-taiwan-by-june-30-2026) — 2% YES
+- [Will Jamie Dimon win the 2028 US Presidential Election?](/odds/will-jamie-dimon-win-the-2028-us-presidential-election) — 1% YES
 
 ## Frequently Asked Questions
 
-### How does the 2025 legislative midterm election affect Macri's path to the 2027 presidency?
+### Could Macri leverage a split between Milei and the Radical/UCR wing of the coalition to position himself as a unity candidate?
 
-A strong PRO performance in the August 2025 PASO primaries and general midterms could signal voter appetite for center-right alternatives to Milei and dramatically increase Macri's viability; conversely, a weak showing would likely be fatal to his 2027 chances and reinforce the current low odds.
+Possibly, but unlikely—Macri's 2015-2019 presidency already attempted this and failed. Any coalition fracture would more likely benefit a younger, less-tainted centrist figure than a returning ex-president associated with previous economic failure.
 
-### What distinguishes Macri's electoral coalition from Milei's, and why can't they simply merge?
+### How much does Macri's control of Buenos Aires governorship (via Horacio Rodríguez Larreta until 2027) matter to his odds?
 
-Macri represents traditional business-friendly conservatism and institutional Republicanism, while Milei's libertarian movement appeals to anti-establishment voters and younger demographics; a merger would contradict Milei's outsider brand and risk alienating the populist wing that drives his support.
+Significantly, as it provides a regional power base and patronage resources, but the Buenos Aires province governorship is separate and less valuable than controlling the presidency. It's a platform but not sufficient for a national comeback without broader coalition support.
 
 ## Learn More
 

@@ -1,17 +1,16 @@
 ---
 title: "Will WTI Crude Oil (WTI) hit (HIGH) $130 in June?"
-description: "Will WTI Crude Oil (WTI) hit (HIGH) $130 in June? Odds: 3.8% YES on Polymarket. See live prices and trade this market."
+description: "Will WTI Crude Oil (WTI) hit (HIGH) $130 in June? Odds: 3.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will WTI Crude Oil (WTI) hit (HIGH) $130 in June?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-06-06
 expiryDate: 2026-07-01
 tags: ["politics", "polymarket"]
-polymarketYes: 3.8
-polymarketNo: 96.2
-polymarketVolume: 97353
+polymarketYes: 3.7
+polymarketNo: 96.3
+polymarketVolume: 98410
 polymarketUrl: "https://polymarket.com/event/will-wti-reach-130-in-june-2026-362"
-analysisDate: 2026-06-06
 ---
 
 # WTI Crude Oil $130 Target Analysis

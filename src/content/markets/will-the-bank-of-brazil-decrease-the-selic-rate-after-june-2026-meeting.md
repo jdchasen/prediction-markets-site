@@ -3,7 +3,7 @@ title: "Will the Bank of Brazil decrease the Selic rate after June 2026 meeting?
 description: "Will the Bank of Brazil decrease the Selic rate after June 2026 meeting? Odds: 34.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Bank of Brazil decrease the Selic rate after June 2026 meeting?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-06
 expiryDate: 2026-06-16
 tags: ["politics", "polymarket"]

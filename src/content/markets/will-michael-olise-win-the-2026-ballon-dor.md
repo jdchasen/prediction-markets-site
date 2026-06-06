@@ -9,9 +9,8 @@ expiryDate: 2026-10-31
 tags: ["politics", "polymarket"]
 polymarketYes: 4.0
 polymarketNo: 96.0
-polymarketVolume: 99594
+polymarketVolume: 99599
 polymarketUrl: "https://polymarket.com/event/will-michael-olise-win-the-2026-ballon-dor"
-analysisDate: 2026-06-06
 ---
 
 The market gives Bayern Munich's Michael Olise just a 4% chance of winning football's most prestigious individual award in 2026, reflecting the enormous gulf between a promising young talent and the sport's absolute elite.

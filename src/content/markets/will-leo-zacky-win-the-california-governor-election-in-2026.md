@@ -9,9 +9,8 @@ expiryDate: 2026-11-03
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.1
 polymarketNo: 99.9
-polymarketVolume: 972306
+polymarketVolume: 979269
 polymarketUrl: "https://polymarket.com/event/will-leo-zacky-win-the-california-governor-election-in-2026"
-analysisDate: 2026-06-06
 ---
 
 The California gubernatorial race prediction market shows essentially no confidence in a Leo Zacky victory, reflecting his status as a fringe candidate with virtually no institutional support, fundraising infrastructure, or name recognition in the nation's most expensive political media market.

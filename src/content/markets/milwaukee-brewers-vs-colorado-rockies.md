@@ -3,7 +3,7 @@ title: "Milwaukee Brewers vs. Colorado Rockies"
 description: "Milwaukee Brewers vs. Colorado Rockies Odds: 70.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Milwaukee Brewers vs. Colorado Rockies"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-06
 expiryDate: 2026-06-14
 tags: ["politics", "polymarket"]

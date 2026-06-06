@@ -3,7 +3,7 @@ title: "Will S&P 500 (SPY) hit (LOW) $720 in June?"
 description: "Will S&P 500 (SPY) hit (LOW) $720 in June? Odds: 70.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will S&P 500 (SPY) hit (LOW) $720 in June?"
 category: "finance"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-06
 expiryDate: 2026-07-01
 tags: ["finance", "polymarket", "stocks"]

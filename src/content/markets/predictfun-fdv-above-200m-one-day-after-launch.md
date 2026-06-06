@@ -9,9 +9,8 @@ expiryDate: 2028-01-01
 tags: ["crypto", "polymarket"]
 polymarketYes: 75.5
 polymarketNo: 24.5
-polymarketVolume: 999271
+polymarketVolume: 999981
 polymarketUrl: "https://polymarket.com/event/predictfun-fdv-above-200m-one-day-after-launch"
-analysisDate: 2026-06-06
 ---
 
 The market pricing Predict.fun's fully diluted valuation above $200M at launch currently sits at three-to-one odds favoring YES, reflecting strong sentiment around prediction market infrastructure as crypto enters 2025-2028. This matters as it gauges investor appetite for decentralized prediction platforms amid Polymarket's explosive growth and increased regulatory scrutiny of centralized alternatives.

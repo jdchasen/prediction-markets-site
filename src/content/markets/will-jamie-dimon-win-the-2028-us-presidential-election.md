@@ -9,9 +9,8 @@ expiryDate: 2028-11-07
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 1.1
 polymarketNo: 98.9
-polymarketVolume: 9980753
+polymarketVolume: 9982232
 polymarketUrl: "https://polymarket.com/event/will-jamie-dimon-win-the-2028-us-presidential-election"
-analysisDate: 2026-06-06
 ---
 
 The market pricing Jamie Dimon's 2028 presidential odds at barely over 1% reflects widespread skepticism that the JPMorgan Chase CEO will enter electoral politics, though his name surfaces regularly in political speculation given his public profile and occasional policy commentary. At 67 years old currently, Dimon would be 72 by Election Day 2028, and despite his business prominence and media presence, he has consistently declined political overtures and shows no infrastructure for a presidential campaign.

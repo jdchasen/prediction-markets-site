@@ -9,9 +9,8 @@ expiryDate: 2026-07-12
 tags: ["politics", "polymarket"]
 polymarketYes: 70.5
 polymarketNo: 29.5
-polymarketVolume: 9788
+polymarketVolume: 9802
 polymarketUrl: "https://polymarket.com/event/will-t1-qualify-to-msi-2026"
-analysisDate: 2026-06-06
 ---
 
 # T1 MSI 2026 Qualification Analysis

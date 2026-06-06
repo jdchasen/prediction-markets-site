@@ -9,9 +9,8 @@ expiryDate: 2026-07-20
 tags: ["ethereum", "polymarket", "sports"]
 polymarketYes: 11.5
 polymarketNo: 88.5
-polymarketVolume: 9851
+polymarketVolume: 9901
 polymarketUrl: "https://polymarket.com/event/will-netherlands-reach-the-2026-fifa-world-cup-final"
-analysisDate: 2026-06-06
 ---
 
 # Netherlands World Cup Final Prediction: Market Analysis

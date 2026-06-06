@@ -3,7 +3,7 @@ title: "Will Russia enter Novooleksandrivka by June 30, 2026?"
 description: "Will Russia enter Novooleksandrivka by June 30, 2026? Odds: 60.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Russia enter Novooleksandrivka by June 30, 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-06
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]

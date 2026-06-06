@@ -11,7 +11,6 @@ polymarketYes: 0.2
 polymarketNo: 99.8
 polymarketVolume: 9812
 polymarketUrl: "https://polymarket.com/event/will-mccartney-kessler-be-the-2026-womens-wimbledon-winner"
-analysisDate: 2026-06-06
 ---
 
 # McCartney Kessler 2026 Wimbledon Analysis

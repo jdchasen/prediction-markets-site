@@ -3,7 +3,7 @@ title: "Will Trump agree to Iranian oil sanction relief by June 30?"
 description: "Will Trump agree to Iranian oil sanction relief by June 30? Odds: 29.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Trump agree to Iranian oil sanction relief by June 30?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-06
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket", "trump"]
