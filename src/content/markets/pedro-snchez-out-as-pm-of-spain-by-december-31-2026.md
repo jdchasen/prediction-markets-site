@@ -1,53 +1,54 @@
 ---
 title: "Pedro Sánchez out as PM of Spain by December 31, 2026?"
-description: "Pedro Sánchez out as PM of Spain by December 31, 2026? Odds: 29.0% YES on Polymarket. See live prices and trade this market."
+description: "Pedro Sánchez out as PM of Spain by December 31, 2026? Odds: 31.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Pedro Sánchez out as PM of Spain by December 31, 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-06-06
+lastUpdated: 2026-06-07
 expiryDate: 2026-12-31
 tags: ["ai", "politics", "polymarket"]
-polymarketYes: 29.0
-polymarketNo: 71.0
-polymarketVolume: 97770
+polymarketYes: 31.0
+polymarketNo: 69.0
+polymarketVolume: 98550
 polymarketUrl: "https://polymarket.com/event/pedro-snchez-out-as-pm-of-spain-by-december-31-2026"
+analysisDate: 2026-06-07
 ---
 
-Prediction markets give Pedro Sánchez roughly a 70% chance of surviving as Spain's Prime Minister through 2026, reflecting a fragile but functional minority coalition government that has weathered significant challenges but faces ongoing structural vulnerabilities.
+Prediction markets currently assess roughly one-in-three odds that Pedro Sánchez will lose his position as Spain's Prime Minister before 2027, reflecting significant political vulnerability for a leader governing with one of the slimmest parliamentary coalitions in modern Spanish democracy.
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 29.5% | 70.5% | $97K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 31.0% | 69.0% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The bear case for Sánchez's tenure centers on his razor-thin parliamentary majority, which depends on support from Catalan and Basque nationalist parties who extract policy concessions as the price of cooperation. His PSOE party governs in coalition with the far-left Sumar, and recent polling shows declining support for both coalition partners, with the opposition Partido Popular maintaining leads in voter intention surveys. The ongoing controversy over amnesty negotiations with Catalan separatists has damaged Sánchez's approval ratings, and regional elections scheduled in multiple autonomous communities throughout 2025 and 2026 could demonstrate further erosion of support. If economic conditions deteriorate or a major corruption scandal emerges, coalition partners might withdraw confidence to trigger early elections. Spain's fragmented parliament means any significant defections could make governance impossible.
+The bull case for Sánchez's exit centers on his fragile coalition arithmetic. His PSOE-led government depends on support from Sumar (the far-left coalition), Catalan and Basque nationalist parties, and other regional forces totaling exactly 179 seats—just three above the 176 absolute majority threshold. This coalition nearly collapsed in November 2023 when Sánchez briefly considered resignation after investigations into his wife's business dealings. Any defection from Catalan separatist parties Junts or ERC, whose support hinges on controversial amnesty negotiations, could trigger snap elections. Regional elections in several autonomous communities through 2025 may shift leverage among coalition partners, and ongoing corruption investigations into PSOE's regional branches in Andalusia create persistent political pressure. The 2027 general election is scheduled for December at the latest, meaning Sánchez must navigate budget votes in 2025 and 2026 with minimal margin for error.
 
-The bull case rests on Sánchez's proven survival skills and the opposition's failure to unite effectively. He has repeatedly defied predictions of his political demise since taking office in 2018, navigating no-confidence votes and forming seemingly impossible coalitions. The PP would need to secure support from the far-right Vox party to form an alternative government, a coalition that moderate voters might reject. Spain's next general elections aren't constitutionally required until 2027, and Sánchez has strong incentives to maintain coalition discipline through strategic concessions and ministerial appointments. Economic forecasts show Spain outperforming major European economies in GDP growth, which could bolster his position. The amnesty law, while controversial, may actually stabilize Catalan support by delivering what nationalist parties demanded.
+The bear case argues Sánchez has demonstrated exceptional political survival skills and coalition management since taking office in 2018. He successfully negotiated budgets despite coalition instability, weathered the 2023 investigations, and even strengthened his position by granting concessions to Catalan parties that cement their incentive to keep him in power rather than face potentially hostile PP-Vox alternatives. Recent polling shows PSOE trailing the conservative PP by only 1-3 points—a competitive position that discourages early elections. The amnesty law, while controversial, removes a major negotiating burden with separatist parties. Economic conditions have improved with Spain outperforming eurozone growth expectations in 2024, reducing popular pressure for political change.
 
-Key catalysts to monitor include the 2025 regional elections in Aragon, Asturias, and potentially Catalonia, which serve as referendums on the national government's performance. Budget votes in late 2025 and 2026 represent critical tests of coalition unity, as failure to pass budgets has historically triggered Spanish political crises. Watch for any corruption investigations touching PSOE leadership or shifts in Sumar's polling that might push them to abandon the coalition to rebuild their brand. The European Parliament dynamics and Spain's EU Council presidency responsibilities also create pressure points where domestic political fractures could widen.
+Key catalysts include the 2025 budget negotiations (typically finalized by December but often delayed), regional elections in Asturias and Cantabria scheduled for 2025, and any developments in legal proceedings against Sánchez's wife or PSOE officials. Watch for votes of no confidence, which require an alternative majority—difficult given PP and Vox's own coalition challenges. The relationship between PSOE and Junts leader Carles Puigdemont remains the critical variable, as Junts has only seven seats but holds effective kingmaker status.
 
 ## Related Markets
 
-- [Will Wes Moore win the 2028 US Presidential Election?](/odds/will-wes-moore-win-the-2028-us-presidential-election) — 1% YES
-- [Will Jamie Dimon win the 2028 US Presidential Election?](/odds/will-jamie-dimon-win-the-2028-us-presidential-election) — 1% YES
 - [Xi Jinping out before 2027?](/odds/xi-jinping-out-before-2027) — 7% YES
+- [Will Jamie Dimon win the 2028 US Presidential Election?](/odds/will-jamie-dimon-win-the-2028-us-presidential-election) — 1% YES
+- [Roland Garros ATP: Flavio Cobolli vs Alexander Zverev](/odds/roland-garros-atp-flavio-cobolli-vs-alexander-zverev) — 18% YES
 
 ## Frequently Asked Questions
 
-### What exactly would trigger resolution of this market as YES?
+### What specific event could most likely trigger Sánchez's exit before 2027?
 
-Sánchez would need to leave office before December 31, 2026, either through resignation, a successful no-confidence vote, losing a general election, or any other mechanism that removes him from the Prime Minister position. Simply losing a parliamentary vote wouldn't count unless it actually forces him from office.
+A failed budget vote would be the most direct catalyst, as it typically forces either a confidence vote or early elections. Alternatively, criminal charges resulting from the ongoing investigation into his wife could create sufficient political pressure for resignation, as nearly occurred in November 2023.
 
-### Could Sánchez call snap elections to reset his mandate, and would that affect this market?
+### How does the Catalan amnesty law affect Sánchez's coalition stability?
 
-Sánchez could dissolve parliament and call early elections as a strategic move, but if he wins and returns as PM, the market resolves NO. The market only cares whether he holds the office on the resolution date, not whether he maintains continuous tenure throughout the period.
+The amnesty law, which benefits separatist leaders, theoretically locks in support from ERC and Junts through 2026, as triggering elections could bring a PP government that might reverse these concessions. However, Junts has proven unpredictable and may still leverage its position to extract additional demands.
 
-### How do the Catalan and Basque nationalist parties' demands create the biggest risk to Sánchez's survival?
+### Could Sánchez call early elections voluntarily before the market expiry?
 
-These parties hold decisive votes for Sánchez's majority and can withdraw support if he fails to deliver on policy commitments like increased regional financing, language policies, or further autonomy transfers. Their primary loyalty is to regional interests, not the national government, making them unreliable coalition partners when politically convenient to opposition.
+Yes, if regional elections or polling suggest a favorable moment, Sánchez could dissolve parliament and call snap elections, gambling on timing rather than waiting until late 2027 when his position might weaken further. The market resolves YES if he leaves power for any reason, including winning or losing early elections he initiates.
 
 ## Learn More
 

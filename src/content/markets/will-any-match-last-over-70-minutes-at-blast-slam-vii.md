@@ -3,8 +3,8 @@ title: "Will any match last over 70 minutes at BLAST Slam VII?"
 description: "Will any match last over 70 minutes at BLAST Slam VII? Odds: 100.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will any match last over 70 minutes at BLAST Slam VII?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-06-06
+status: "settled"
+lastUpdated: 2026-06-07
 tags: ["politics", "polymarket"]
 polymarketYes: 100.0
 polymarketNo: 0.1

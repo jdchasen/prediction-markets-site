@@ -3,8 +3,8 @@ title: "Will England win?"
 description: "Will England win? Odds: 93.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will England win?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-06-06
+status: "settled"
+lastUpdated: 2026-06-07
 expiryDate: 2026-06-11
 tags: ["politics", "polymarket"]
 polymarketYes: 93.5

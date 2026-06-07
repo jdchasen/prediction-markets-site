@@ -4,14 +4,13 @@ description: "Will Turkiye advance to the knockout stages at the 2026 FIFA World
 marketQuestion: "Will Turkiye advance to the knockout stages at the 2026 FIFA World Cup?"
 category: "sports"
 status: "active"
-lastUpdated: 2026-06-06
+lastUpdated: 2026-06-07
 expiryDate: 2026-06-28
 tags: ["polymarket", "sports"]
 polymarketYes: 79.5
 polymarketNo: 20.5
-polymarketVolume: 9811
+polymarketVolume: 9881
 polymarketUrl: "https://polymarket.com/event/will-turkiye-advance-to-the-knockout-stages-at-the-2026-fifa-world-cup"
-analysisDate: 2026-06-06
 ---
 
 # Turkey's 2026 World Cup Knockout Hopes: A 79.5% Confidence Test

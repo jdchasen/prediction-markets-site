@@ -3,8 +3,8 @@ title: "Trump declassifies new UFO files by June 30?"
 description: "Trump declassifies new UFO files by June 30? Odds: 62.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Trump declassifies new UFO files by June 30?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-06-06
+status: "settled"
+lastUpdated: 2026-06-07
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket", "trump"]
 polymarketYes: 62.5

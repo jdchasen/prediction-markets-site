@@ -3,8 +3,8 @@ title: "Will T1 qualify to MSI 2026?"
 description: "Will T1 qualify to MSI 2026? Odds: 70.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will T1 qualify to MSI 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-06-06
+status: "settled"
+lastUpdated: 2026-06-07
 expiryDate: 2026-07-12
 tags: ["politics", "polymarket"]
 polymarketYes: 70.5

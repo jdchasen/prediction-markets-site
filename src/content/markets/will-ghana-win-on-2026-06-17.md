@@ -3,8 +3,8 @@ title: "Will Ghana win on 2026-06-17?"
 description: "Will Ghana win on 2026-06-17? Odds: 46.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Ghana win on 2026-06-17?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-06-06
+status: "settled"
+lastUpdated: 2026-06-07
 expiryDate: 2026-06-17
 tags: ["politics", "polymarket"]
 polymarketYes: 46.5

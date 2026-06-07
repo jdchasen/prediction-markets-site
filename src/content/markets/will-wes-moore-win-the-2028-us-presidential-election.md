@@ -3,8 +3,8 @@ title: "Will Wes Moore win the 2028 US Presidential Election?"
 description: "Will Wes Moore win the 2028 US Presidential Election? Odds: 0.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Wes Moore win the 2028 US Presidential Election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-06-06
+status: "settled"
+lastUpdated: 2026-06-07
 expiryDate: 2028-11-07
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.8

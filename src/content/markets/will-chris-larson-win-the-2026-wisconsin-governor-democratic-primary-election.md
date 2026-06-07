@@ -4,14 +4,13 @@ description: "Will Chris Larson win the 2026 Wisconsin Governor Democratic prima
 marketQuestion: "Will Chris Larson win the 2026 Wisconsin Governor Democratic primary election?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-06-06
+lastUpdated: 2026-06-07
 expiryDate: 2026-08-11
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.1
 polymarketNo: 99.9
-polymarketVolume: 9879
+polymarketVolume: 9881
 polymarketUrl: "https://polymarket.com/event/will-chris-larson-win-the-2026-wisconsin-governor-democratic-primary-election"
-analysisDate: 2026-06-06
 ---
 
 # Chris Larson 2026 Wisconsin Democratic Primary Analysis

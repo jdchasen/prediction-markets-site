@@ -3,8 +3,8 @@ title: "Will Matt Pinnell win the 2026 Oklahoma Governor Republican primary elec
 description: "Will Matt Pinnell win the 2026 Oklahoma Governor Republican primary election? Odds: 0.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Matt Pinnell win the 2026 Oklahoma Governor Republican primary election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-06-06
+status: "settled"
+lastUpdated: 2026-06-07
 expiryDate: 2026-06-16
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.2

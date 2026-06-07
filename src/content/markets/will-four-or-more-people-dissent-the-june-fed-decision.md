@@ -3,8 +3,8 @@ title: "Will four or more people dissent the June Fed decision?"
 description: "Will four or more people dissent the June Fed decision? Odds: 0.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will four or more people dissent the June Fed decision?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-06-06
+status: "settled"
+lastUpdated: 2026-06-07
 expiryDate: 2026-06-17
 tags: ["federal-reserve", "politics", "polymarket"]
 polymarketYes: 0.9

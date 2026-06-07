@@ -4,14 +4,13 @@ description: "U.S. enacts AI safety bill before 2027? Odds: 11.0% YES on Polymar
 marketQuestion: "U.S. enacts AI safety bill before 2027?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-06-06
+lastUpdated: 2026-06-07
 expiryDate: 2026-12-31
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 11.0
 polymarketNo: 89.0
 polymarketVolume: 99436
 polymarketUrl: "https://polymarket.com/event/us-enacts-ai-safety-bill-before-2027"
-analysisDate: 2026-06-06
 ---
 
 The market pricing AI safety legislation at just 11% probability reflects deep skepticism about Congress's ability to pass significant tech regulation within the next three years, despite growing bipartisan interest in artificial intelligence governance. This matters because the 119th and 120th Congresses represent a critical window where lawmakers are simultaneously expressing concern about AI risks while facing their typical gridlock on major policy initiatives.
