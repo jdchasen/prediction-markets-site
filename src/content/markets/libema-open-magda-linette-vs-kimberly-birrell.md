@@ -3,7 +3,7 @@ title: "Libema Open: Magda Linette vs Kimberly Birrell"
 description: "Libema Open: Magda Linette vs Kimberly Birrell Odds: 58.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Libema Open: Magda Linette vs Kimberly Birrell"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-07
 expiryDate: 2026-06-15
 tags: ["politics", "polymarket"]

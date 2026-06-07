@@ -11,7 +11,6 @@ polymarketYes: 37.0
 polymarketNo: 63.0
 polymarketVolume: 9891
 polymarketUrl: "https://polymarket.com/event/o1-fdv-above-200m-one-day-after-launch-939"
-analysisDate: 2026-06-07
 ---
 
 # o1 FDV Analysis: The $200M Launch Question

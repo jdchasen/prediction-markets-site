@@ -3,7 +3,7 @@ title: "Will Panama advance to the knockout stages at the 2026 FIFA World Cup?"
 description: "Will Panama advance to the knockout stages at the 2026 FIFA World Cup? Odds: 29.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Panama advance to the knockout stages at the 2026 FIFA World Cup?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-07
 expiryDate: 2026-06-28
 tags: ["polymarket", "sports"]

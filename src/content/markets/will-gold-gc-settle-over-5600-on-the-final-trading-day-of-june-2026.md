@@ -8,10 +8,9 @@ lastUpdated: 2026-06-07
 expiryDate: 2026-06-30
 tags: ["finance", "polymarket"]
 polymarketYes: 0.9
-polymarketNo: 99.2
-polymarketVolume: 9847
+polymarketNo: 99.1
+polymarketVolume: 9849
 polymarketUrl: "https://polymarket.com/event/gc-above-5600-jun-2026"
-analysisDate: 2026-06-07
 ---
 
 # Gold Price Prediction Analysis: June 2026 Settlement

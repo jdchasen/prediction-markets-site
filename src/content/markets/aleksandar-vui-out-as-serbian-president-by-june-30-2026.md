@@ -3,7 +3,7 @@ title: "Aleksandar Vučić out as Serbian President by June 30, 2026?"
 description: "Aleksandar Vučić out as Serbian President by June 30, 2026? Odds: 2.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Aleksandar Vučić out as Serbian President by June 30, 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-07
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]

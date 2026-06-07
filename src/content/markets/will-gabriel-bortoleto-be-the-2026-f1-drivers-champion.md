@@ -9,9 +9,8 @@ expiryDate: 2026-12-06
 tags: ["polymarket", "sports"]
 polymarketYes: 0.2
 polymarketNo: 99.8
-polymarketVolume: 9869876
+polymarketVolume: 9878510
 polymarketUrl: "https://polymarket.com/event/will-gabriel-bortoleto-be-the-2026-f1-drivers-champion"
-analysisDate: 2026-06-07
 ---
 
 Gabriel Bortoleto's championship odds sit at a marginal 0.2%, reflecting the extreme challenge facing a rookie driver attempting to win an F1 title in just his second season with Sauber/Audi, historically one of the grid's weakest teams.

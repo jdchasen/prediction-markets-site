@@ -1,17 +1,16 @@
 ---
 title: "Pedro Sánchez out as PM of Spain by December 31, 2026?"
-description: "Pedro Sánchez out as PM of Spain by December 31, 2026? Odds: 31.0% YES on Polymarket. See live prices and trade this market."
+description: "Pedro Sánchez out as PM of Spain by December 31, 2026? Odds: 32.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Pedro Sánchez out as PM of Spain by December 31, 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-06-07
 expiryDate: 2026-12-31
 tags: ["ai", "politics", "polymarket"]
-polymarketYes: 31.0
-polymarketNo: 69.0
+polymarketYes: 32.0
+polymarketNo: 68.0
 polymarketVolume: 98550
 polymarketUrl: "https://polymarket.com/event/pedro-snchez-out-as-pm-of-spain-by-december-31-2026"
-analysisDate: 2026-06-07
 ---
 
 Prediction markets currently assess roughly one-in-three odds that Pedro Sánchez will lose his position as Spain's Prime Minister before 2027, reflecting significant political vulnerability for a leader governing with one of the slimmest parliamentary coalitions in modern Spanish democracy.

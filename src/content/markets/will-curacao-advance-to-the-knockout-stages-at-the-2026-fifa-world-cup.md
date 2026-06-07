@@ -3,7 +3,7 @@ title: "Will Curacao advance to the knockout stages at the 2026 FIFA World Cup?"
 description: "Will Curacao advance to the knockout stages at the 2026 FIFA World Cup? Odds: 8.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Curacao advance to the knockout stages at the 2026 FIFA World Cup?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-07
 expiryDate: 2026-06-28
 tags: ["polymarket", "sports"]

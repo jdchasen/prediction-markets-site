@@ -1,49 +1,56 @@
 ---
 title: "Will Mauricio Macri win the 2027 Argentina presidential election?"
-description: "Will Mauricio Macri win the 2027 Argentina presidential election? Odds: 4.2% YES on Polymarket. See live prices and trade this market."
+description: "Will Mauricio Macri win the 2027 Argentina presidential election? Odds: 3.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Mauricio Macri win the 2027 Argentina presidential election?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-06-07
 expiryDate: 2027-10-24
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 4.2
-polymarketNo: 95.9
-polymarketVolume: 9862
+polymarketYes: 3.4
+polymarketNo: 96.6
+polymarketVolume: 9874
 polymarketUrl: "https://polymarket.com/event/will-mauricio-macri-win-the-2027-argentina-presidential-election"
+analysisDate: 2026-06-07
 ---
 
-# Mauricio Macri's 2027 Presidential Bid: A Long-Shot Bet on Argentine Stability
+# Mauricio Macri's 2027 Presidential Bid: A Long-Shot Bet in Volatile Argentine Politics
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 4.3% | 95.7% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 3.4% | 96.6% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The market currently prices Macri's 2027 comeback at less than 5%, reflecting Argentina's volatile political environment and his limited current standing relative to rival factions within the center-right coalition. This matters now because Macri's viability depends heavily on whether incumbent Javier Milei consolidates economic gains before 2026-2027, and whether the Peronist opposition fractures further—both outcomes remain deeply uncertain as Argentina enters a critical stabilization phase. The extremely low odds suggest traders view Macri as a historical figure rather than an active political force, though this could change dramatically if circumstances shift.
+With Polymarket pricing Macri's chances at just 3.4%, the market is pricing in substantial structural headwinds for the former president's comeback attempt, reflecting both Argentina's volatile political dynamics and constitutional constraints that may prevent his candidacy altogether. This matters now because the 2027 election shapes whether Argentina continues its current trajectory under President Javier Milei or pivots back toward the center-right coalition that Macri historically led, making his viability a proxy for broader political realignment.
 
-The bull case rests on three pillars: first, if Milei's austerity program succeeds in taming inflation without triggering severe recession, Macri (who governed 2015-2019 with a similar orthodoxy) could re-emerge as the "serious alternative" to both Milei's radicalism and Peronism's populism; second, Macri retains a disciplined party apparatus and deep business-sector support that could prove valuable in a fragmented primary season; third, primary elections scheduled for August 2027 could surprise if voter sentiment shifts away from Milei or leftist Peronism, opening a centrist lane. The bear case is far weightier: Macri's previous presidency ended unpopularly after inflation spiked and the IMF bailout deepened recession, making his personal brand toxic among working-class voters. The current coalition is led by Milei, not Macri, and the former president has no leverage within that government; if Milei maintains approval above 35-40%, Macri becomes irrelevant in any primary. Additionally, Peronism still commands 30-35% of the electorate even fragmented, and Macri would struggle in a general election runoff without strong anti-Peronist consolidation.
+The bull case rests on Macri's demonstrated political resilience and his Republican Proposal (PRO) party's organizational strength as Argentina's most institutionalized opposition force. If Milei's libertarian experiment falters economically—particularly if inflation re-accelerates or unemployment spikes beyond manageable levels through 2026—voters could view Macri as a stabilizing alternative with executive experience. His control of Buenos Aires province and Buenos Aires city (through Jorge Rafael Macri) provides a geographic power base that other opposition candidates lack. The critical bull catalyst is the 2025 midterm elections in October, where PRO's performance will signal whether Macri retains sufficient political capital for a presidential run.
 
-Key catalysts to watch include Milei's inflation data through mid-2026 (the Central Bank's monthly releases, with Q2 2026 especially critical), primary election results in August 2027, and any major legislative defeats for Milei's reform agenda before then. The December 2025 and 2026 mid-term congressional elections will signal whether the coalition holds or fractures, directly affecting Macri's negotiating position. Crucially, Argentine polling has proven unreliable, but watch for Macri's personal approval ratings starting in late 2025—if they remain below 25-30%, the market odds may actually be generous rather than conservative. The October 2027 general election date is firm, leaving roughly three years for major political realignment.
+The bear case is more compelling: Argentina's Constitution limits presidents to two consecutive terms, and though Macri's terms (2015-2019) weren't consecutive, legal challenges to his eligibility remain unresolved and could disqualify him outright. Even if eligible, internal opposition politics are fragmenting, with Radicals, Peronists, and provincial governors developing independent power bases. Most critically, Milei controls the executive apparatus through October 2027, giving him institutional advantages in campaign mechanics and government resource deployment. Current polling shows Macri trailing badly against hypothetical Milei re-election scenarios, and his association with the 2018-2019 IMF program remains unpopular.
+
+Watch for three specific triggers: the October 2025 midterm results (which will indicate whether PRO can mobilize voters against Milei), legal rulings on presidential eligibility (expected by mid-2026), and inflation data through 2026 (any sustained drop below 50% annually would strengthen Milei's position). The primary calendar in 2027 (typically held in August) will reveal whether opposing factions unite behind Macri or splinter support. With only 3.4% implied probability, the market is essentially pricing Macri as a residual hedge bet rather than a serious contender—a rational assessment given constitutional uncertainty, but one vulnerable to rapid repricing if constitutional courts clear his eligibility or if economic deterioration becomes severe enough to override traditional voting patterns.
 
 ## Related Markets
 
-- [Will Wes Moore win the 2028 US Presidential Election?](/odds/will-wes-moore-win-the-2028-us-presidential-election) — 1% YES
-- [Will China invade Taiwan by June 30, 2026?](/odds/will-china-invade-taiwan-by-june-30-2026) — 2% YES
+- [Xi Jinping out before 2027?](/odds/xi-jinping-out-before-2027) — 7% YES
 - [Will Jamie Dimon win the 2028 US Presidential Election?](/odds/will-jamie-dimon-win-the-2028-us-presidential-election) — 1% YES
+- [Will Nikki Haley win the 2028 Republican presidential nomination?](/odds/will-nikki-haley-win-the-2028-republican-presidential-nomination) — 1% YES
 
 ## Frequently Asked Questions
 
-### Could Macri leverage a split between Milei and the Radical/UCR wing of the coalition to position himself as a unity candidate?
+### Can Macri even legally run given Argentina's constitutional two-term limit?
 
-Possibly, but unlikely—Macri's 2015-2019 presidency already attempted this and failed. Any coalition fracture would more likely benefit a younger, less-tainted centrist figure than a returning ex-president associated with previous economic failure.
+His eligibility remains legally uncertain since his terms weren't consecutive; constitutional courts must rule by 2026, and a disqualification would effectively zero out this market's value.
 
-### How much does Macri's control of Buenos Aires governorship (via Horacio Rodríguez Larreta until 2027) matter to his odds?
+### How much does the October 2025 midterm election matter for this contract?
 
-Significantly, as it provides a regional power base and patronage resources, but the Buenos Aires province governorship is separate and less valuable than controlling the presidency. It's a platform but not sufficient for a national comeback without broader coalition support.
+It's the primary near-term catalyst—strong PRO performance would materially raise Macri's odds, while weak showings against Milei would reinforce the 3.4% baseline and potentially lower it further.
+
+### What economic threshold would actually make Macri competitive against Milei in 2027?
+
+Sustained annual inflation above 80-100% or unemployment exceeding 15% would likely shift voter sentiment, but even then Macri would need to overcome legal eligibility challenges
 
 ## Learn More
 

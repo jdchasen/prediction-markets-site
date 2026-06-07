@@ -9,9 +9,8 @@ expiryDate: 2026-10-31
 tags: ["politics", "polymarket"]
 polymarketYes: 4.5
 polymarketNo: 95.5
-polymarketVolume: 99620
+polymarketVolume: 99642
 polymarketUrl: "https://polymarket.com/event/will-michael-olise-win-the-2026-ballon-dor"
-analysisDate: 2026-06-07
 ---
 
 The market gives Michael Olise minimal chances at winning football's most prestigious individual award in 2026, reflecting the extreme difficulty of unseating established superstars and the uncertainty around a young player's development trajectory over the next two years.

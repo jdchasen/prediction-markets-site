@@ -8,10 +8,9 @@ lastUpdated: 2026-06-07
 expiryDate: 2026-10-31
 tags: ["politics", "polymarket"]
 polymarketYes: 2.1
-polymarketNo: 98.0
-polymarketVolume: 993011
+polymarketNo: 97.9
+polymarketVolume: 995231
 polymarketUrl: "https://polymarket.com/event/will-the-san-diego-padres-win-the-2026-world-series"
-analysisDate: 2026-06-07
 ---
 
 The Padres currently sit at just over 2% to win the 2026 World Series, reflecting their status as a talented but inconsistent franchise that has never won a championship despite recent playoff appearances and a high payroll.

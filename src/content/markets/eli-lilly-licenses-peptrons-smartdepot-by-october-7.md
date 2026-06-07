@@ -11,7 +11,6 @@ polymarketYes: 12.0
 polymarketNo: 88.0
 polymarketVolume: 9808
 polymarketUrl: "https://polymarket.com/event/eli-lilly-licenses-peptrons-smartdepot-by-october-7"
-analysisDate: 2026-06-07
 ---
 
 # Eli Lilly/Peptron SmartDepot Licensing Analysis

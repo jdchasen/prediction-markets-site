@@ -3,7 +3,7 @@ title: "Will Arvid Lindblad win the 2026 F1 Monaco Grand Prix?"
 description: "Will Arvid Lindblad win the 2026 F1 Monaco Grand Prix? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Arvid Lindblad win the 2026 F1 Monaco Grand Prix?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-07
 expiryDate: 2026-06-14
 tags: ["polymarket", "sports"]

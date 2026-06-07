@@ -3,7 +3,7 @@ title: "Will Argentina win Group J in the 2026 FIFA World Cup?"
 description: "Will Argentina win Group J in the 2026 FIFA World Cup? Odds: 70.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Argentina win Group J in the 2026 FIFA World Cup?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-07
 expiryDate: 2026-06-27
 tags: ["polymarket", "sports"]

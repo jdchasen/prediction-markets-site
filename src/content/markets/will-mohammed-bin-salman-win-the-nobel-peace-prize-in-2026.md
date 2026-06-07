@@ -9,45 +9,46 @@ expiryDate: 2026-10-10
 tags: ["politics", "polymarket"]
 polymarketYes: 0.5
 polymarketNo: 99.5
-polymarketVolume: 977190
+polymarketVolume: 978861
 polymarketUrl: "https://polymarket.com/event/will-mohammed-bin-salman-win-the-nobel-peace-prize-in-2026"
+analysisDate: 2026-06-07
 ---
 
-The market assigns extremely low odds to Saudi Crown Prince Mohammed bin Salman receiving the 2026 Nobel Peace Prize, reflecting widespread skepticism despite Saudi Arabia's recent diplomatic initiatives and normalization efforts with Israel.
+The market places virtually no confidence in Saudi Crown Prince Mohammed bin Salman receiving the 2026 Nobel Peace Prize, reflecting widespread skepticism about his international reputation despite recent diplomatic initiatives. At half a percent probability, traders essentially view this as a non-starter given the Norwegian Nobel Committee's historical patterns and MBS's controversial record.
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.5% | 99.5% | $974K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.5% | 99.5% | $979K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The bull case centers on MBS potentially brokering a historic Saudi-Israeli normalization deal, which could reshape Middle East geopolitics fundamentally. If Saudi Arabia formally recognizes Israel and establishes diplomatic relations—negotiations for which have been ongoing intermittently since 2023—the Nobel Committee might view this as a transformative achievement worthy of recognition. Additional factors include Saudi Arabia's role in facilitating Yemen ceasefire talks, the December 2023 end to the Qatar blockade that Riyadh helped negotiate, and potential future mediation in regional conflicts. The Committee has previously awarded controversial figures for Middle East peace efforts, including Kissinger and Arafat, suggesting precedent exists for rewarding realpolitik achievements.
+The bull case rests on Saudi Arabia's recent diplomatic breakthroughs and normalization efforts. MBS has orchestrated détente with Iran (the March 2023 China-brokered agreement), pursued Israeli normalization talks, and positioned the Kingdom as a mediator in conflicts including Ukraine. If Saudi Arabia brokers a major Israeli-Palestinian framework agreement or achieves a transformative regional peace deal by early 2026, the Committee—which announced the 2021 prize for press freedom advocates and 2023 for Iranian activist Narges Mohammadi—could theoretically pivot toward recognizing geopolitical stabilization. The Nobel Committee makes its selection in October, meaning impactful diplomatic achievements would need to materialize by summer 2026 to influence deliberations.
 
-The bear case is overwhelming and centers on the 2018 assassination of journalist Jamal Khashoggi, which U.S. intelligence directly linked to MBS. The Nobel Committee has historically avoided honoring leaders implicated in human rights abuses, and Saudi Arabia's continued detention of dissidents, restrictive domestic policies, and involvement in Yemen's humanitarian crisis make MBS radioactive for the prize. The Committee announced in early 2024 they received 286 nominations for the 2024 prize, and credible reporting suggests MBS has never appeared on serious shortlists. The Norwegian Nobel Committee tends toward human rights defenders and civil society activists rather than sitting heads of state pursuing strategic interests.
+The bear case is overwhelming and explains the current pricing. The Khashoggi assassination in 2018 remains an indelible stain on MBS's international standing, with U.S. intelligence directly implicating him. The Nobel Committee has historically avoided rewarding leaders with documented human rights violations—no prize has gone to a Saudi leader in the award's 125-year history. The Kingdom's ongoing Yemen involvement, domestic repression, and recent mass executions create insurmountable obstacles. Recent Nobel Peace Prizes have favored civil society activists, human rights defenders, and anti-nuclear organizations rather than sitting heads of state pursuing realpolitik.
 
-Key catalysts include the October 2025 announcement of the 2026 Peace Prize (typically the first or second Friday in October), and the January 31, 2026 nomination deadline when qualified nominators must submit candidates. Traders should monitor developments in Saudi-Israeli normalization talks, particularly any White House-brokered agreements, as well as Saudi Arabia's human rights record and any significant policy shifts on domestic freedoms. The Committee's 2025 selection patterns will also signal whether they're willing to consider controversial Middle East leaders. Watch for any major Saudi diplomatic breakthroughs in Yemen or regional conflicts during 2025, though even extraordinary achievements would face severe headwinds from the Khashoggi legacy.
+Traders should monitor several specific developments: any major announcement from ongoing Saudi-Israeli normalization talks (U.S. officials suggest a framework could emerge in 2025), Saudi Arabia's role in Yemen peace implementation following the April 2023 ceasefire, and the Committee's October 2025 prize announcement which may signal their ideological direction. The Nobel Committee's composition and statements throughout 2025-2026 will be telling—their recent pattern of honoring dissidents over diplomats suggests institutional resistance to rewarding MBS regardless of geopolitical achievements.
 
 ## Related Markets
 
-- [Will Wes Moore win the 2028 US Presidential Election?](/odds/will-wes-moore-win-the-2028-us-presidential-election) — 1% YES
-- [Will China invade Taiwan by June 30, 2026?](/odds/will-china-invade-taiwan-by-june-30-2026) — 2% YES
+- [Xi Jinping out before 2027?](/odds/xi-jinping-out-before-2027) — 7% YES
 - [Will Jamie Dimon win the 2028 US Presidential Election?](/odds/will-jamie-dimon-win-the-2028-us-presidential-election) — 1% YES
+- [Will Nikki Haley win the 2028 Republican presidential nomination?](/odds/will-nikki-haley-win-the-2028-republican-presidential-nomination) — 1% YES
 
 ## Frequently Asked Questions
 
-### Could a Saudi-Israeli normalization deal realistically overcome the Khashoggi scandal for Nobel consideration?
+### Has the Nobel Committee ever awarded the Peace Prize to a leader credibly accused of ordering an assassination?
 
-Historically unlikely—the Nobel Committee rejected far less controversial candidates for human rights concerns, and the Committee specifically condemned Khashoggi's murder in 2018. Even a historic peace agreement would face institutional resistance from Committee members who prioritize moral authority.
+No. The Khashoggi case represents an unprecedented barrier—while some laureates have had controversial aspects to their records, none have faced the level of direct intelligence attribution for extrajudicial killing that MBS confronts from U.S. and allied agencies.
 
-### When would substantive developments in Saudi-Israeli normalization become publicly visible?
+### What would constitute a peace achievement significant enough to even be considered for the 2026 prize?
 
-Major framework agreements typically require months of public negotiation before signing, meaning any deal influencing the 2026 prize would need to advance significantly by mid-2025 to impact nominators before the January 31, 2026 deadline.
+Realistically, MBS would need to broker a comprehensive Israeli-Palestinian agreement or achieve a transformative Middle East peace framework by mid-2026, far exceeding the scope of existing normalization talks which focus primarily on Saudi-Israeli bilateral relations and regional security arrangements.
 
-### Has the Nobel Committee ever awarded the Peace Prize to a Gulf Arab leader?
+### How does the timing of Saudi-Israeli normalization talks affect this market's probability?
 
-No Gulf monarchy leader has ever received the Nobel Peace Prize, with the Committee historically favoring democratic reformers, human rights activists, and international organization leaders over autocratic rulers regardless of diplomatic achievements.
+Even if a breakthrough occurs in 2025, the Nobel Committee would likely credit U.S. mediators or civil society groups rather than MBS personally, and any agreement would need to demonstrate concrete results on Palestinian statehood—not just Saudi-Israeli ties—to align with the Committee's documented preferences for justice-oriented peace.
 
 ## Learn More
 

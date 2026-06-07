@@ -3,7 +3,7 @@ title: "Roland Garros ATP: Flavio Cobolli vs Alexander Zverev"
 description: "Roland Garros ATP: Flavio Cobolli vs Alexander Zverev Odds: 17.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Roland Garros ATP: Flavio Cobolli vs Alexander Zverev"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-07
 expiryDate: 2026-06-14
 tags: ["politics", "polymarket"]

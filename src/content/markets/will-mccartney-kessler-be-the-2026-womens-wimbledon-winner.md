@@ -9,9 +9,8 @@ expiryDate: 2026-07-12
 tags: ["politics", "polymarket"]
 polymarketYes: 0.2
 polymarketNo: 99.8
-polymarketVolume: 9812
+polymarketVolume: 9844
 polymarketUrl: "https://polymarket.com/event/will-mccartney-kessler-be-the-2026-womens-wimbledon-winner"
-analysisDate: 2026-06-07
 ---
 
 # McCartney Kessler 2026 Wimbledon Analysis

@@ -11,7 +11,6 @@ polymarketYes: 65.0
 polymarketNo: 35.0
 polymarketVolume: 9745
 polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-ky-06-house-seat"
-analysisDate: 2026-06-07
 ---
 
 # KY-06 House Seat Republican Control
