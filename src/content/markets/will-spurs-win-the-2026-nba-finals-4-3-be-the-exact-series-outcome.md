@@ -3,7 +3,7 @@ title: "Will Spurs win the 2026 NBA Finals 4-3 be the exact series outcome?"
 description: "Will Spurs win the 2026 NBA Finals 4-3 be the exact series outcome? Odds: 14.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Spurs win the 2026 NBA Finals 4-3 be the exact series outcome?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-08
 expiryDate: 2026-06-20
 tags: ["polymarket", "sports"]

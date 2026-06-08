@@ -1,17 +1,16 @@
 ---
 title: "Will Andy Biggs win the 2026 Arizona Governor Republican primary election?"
-description: "Will Andy Biggs win the 2026 Arizona Governor Republican primary election? Odds: 96.7% YES on Polymarket. See live prices and trade this market."
+description: "Will Andy Biggs win the 2026 Arizona Governor Republican primary election? Odds: 96.3% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Andy Biggs win the 2026 Arizona Governor Republican primary election?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-06-08
 expiryDate: 2026-07-21
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 96.7
-polymarketNo: 3.3
+polymarketYes: 96.3
+polymarketNo: 3.7
 polymarketVolume: 9811
 polymarketUrl: "https://polymarket.com/event/will-andy-biggs-win-the-2026-arizona-governor-republican-primary-election"
-analysisDate: 2026-06-08
 ---
 
 # Andy Biggs 2026 Arizona GOP Governor Primary Analysis

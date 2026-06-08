@@ -3,7 +3,7 @@ title: "Will Jamie Dimon win the 2028 US Presidential Election?"
 description: "Will Jamie Dimon win the 2028 US Presidential Election? Odds: 1.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Jamie Dimon win the 2028 US Presidential Election?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-08
 expiryDate: 2028-11-07
 tags: ["elections", "politics", "polymarket"]

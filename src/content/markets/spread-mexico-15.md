@@ -3,7 +3,7 @@ title: "Spread: Mexico (-1.5)"
 description: "Spread: Mexico (-1.5) Odds: 40.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Spread: Mexico (-1.5)"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-08
 expiryDate: 2026-06-11
 tags: ["politics", "polymarket"]

@@ -9,9 +9,8 @@ expiryDate: 2026-12-06
 tags: ["polymarket", "sports"]
 polymarketYes: 0.2
 polymarketNo: 99.8
-polymarketVolume: 9919847
+polymarketVolume: 9923045
 polymarketUrl: "https://polymarket.com/event/will-gabriel-bortoleto-be-the-2026-f1-drivers-champion"
-analysisDate: 2026-06-08
 ---
 
 Gabriel Bortoleto enters his rookie F1 season with Sauber (soon-to-be Audi) facing near-impossible odds of capturing the 2026 championship, as the market reflects the historically low probability of a debut driver winning against established champions in dominant machinery.

@@ -9,11 +9,12 @@ expiryDate: 2028-11-07
 tags: ["politics", "polymarket"]
 polymarketYes: 0.9
 polymarketNo: 99.2
-polymarketVolume: 9771900
+polymarketVolume: 9774120
 polymarketUrl: "https://polymarket.com/event/will-nikki-haley-win-the-2028-republican-presidential-nomination"
+analysisDate: 2026-06-08
 ---
 
-Nikki Haley's chances of securing the 2028 Republican nomination currently sit near statistical zero on Polymarket, reflecting deep skepticism about her viability following her 2024 primary loss and fundamental shifts in the GOP's political coalition.
+The market prices Nikki Haley's chances of securing the 2028 Republican nomination at essentially zero, reflecting deep skepticism about her viability within a party that has decisively rejected her brand of politics in back-to-back cycles.
 
 ## Current Odds
 
@@ -23,31 +24,31 @@ Nikki Haley's chances of securing the 2028 Republican nomination currently sit n
 
 ## Market Analysis
 
-The bear case dominating current pricing centers on Haley's poor standing with the MAGA base that now controls Republican primaries. Her refusal to immediately endorse Trump after suspending her 2024 campaign, combined with her criticism of his conduct, alienated the party's most active voters. Trump won the 2024 nomination overwhelmingly despite her remaining in the race through Super Tuesday, demonstrating her ceiling with Republican primary voters. If Trump serves a second term, his endorsed successor—likely J.D. Vance or another loyalist—would enter 2028 with massive structural advantages. Even if Trump doesn't run or endorse, the party's populist-nationalist wing shows no signs of moderating, leaving little room for Haley's more traditional conservative approach. Her donor network from 2024, while substantial, proved insufficient against grassroots enthusiasm.
+The bear case is overwhelming: Haley's 2024 primary performance demonstrated her ceiling with Republican voters, struggling to break 20% in most contests even as the last Trump alternative standing. She alienated the MAGA base by staying in the race through Super Tuesday and criticizing Trump, while never attracting sufficient support from traditional Republicans or independents who participate in GOP primaries. The party's grassroots infrastructure, state party chairs, and activist class have moved firmly toward Trump-aligned politics. If Trump cannot run in 2028 due to term limits, the nomination fight will likely feature his endorsed successor (potentially JD Vance or Donald Trump Jr.), Ron DeSantis seeking a comeback, or newer MAGA-aligned figures—not a candidate who explicitly positioned herself as Trump's opponent. Her decision to campaign actively against Trump in 2024, combined with her subsequent suggestions she might not support him, has likely made her persona non grata with the party's dominant faction.
 
-The bull case requires envisioning significant Republican Party realignment. If Trump's second term encounters major difficulties—economic recession, legislative failures, or legal troubles affecting his inner circle—the party might seek a "return to normalcy" candidate by 2027. Haley would be positioned as the experienced alternative who warned about Trump's excesses while maintaining conservative credentials. Her strong general election polling against Biden in 2024 could become relevant if Republicans suffer losses in the 2026 midterms and prioritize electability. A path opens if the MAGA movement fractures between competing populist candidates (Vance, DeSantis, Ramaswamy), allowing Haley to consolidate establishment support and win a plurality in early 2028 primaries.
+The bull case requires imagining a complete Republican realignment following a catastrophic 2024 Trump loss—though even this scenario seems insufficient given current party dynamics. Haley would need Trump to lose decisively in November 2024, face legal consequences that permanently discredit him and his movement, and for Republican donors and elected officials to successfully execute a party reset toward electability-focused politics. The Iowa caucuses and New Hampshire primary in January/February 2028 would be her first tests, where she'd need to demonstrate she's rebuilt credibility with actual primary voters rather than just cable news bookers.
 
-Key catalysts include the 2026 midterm results (November 2026), which will test whether Trump's coalition remains dominant, and Trump's potential 2027 endorsement of a successor. Watch for Haley's political activities over the next year—fundraising for 2026 candidates, speaking engagements, and any signs of organization building in Iowa and New Hampshire. The Iowa caucuses (likely February 2028) and New Hampshire primary would provide the first tests of whether Republican primary voters have evolved beyond their 2024 preferences. Polling of Republican primary voters in mid-2026 will offer the earliest concrete data on whether her standing has improved.
+Key dates to monitor include the November 2024 general election results, the 2026 midterms which will shape party direction, and any major Trump legal developments through 2025-2026. Haley's actions over the next year—whether she campaigns for Trump, maintains her donor network, or positions herself for another run—will signal her intentions. Traders should watch for polling of hypothetical 2028 GOP primary matchups starting in late 2025, though her current standing suggests she'd need multiple cycles of party evolution to become viable again.
 
 ## Related Markets
 
-- [Xi Jinping out before 2027?](/odds/xi-jinping-out-before-2027) — 7% YES
-- [Will Jamie Dimon win the 2028 US Presidential Election?](/odds/will-jamie-dimon-win-the-2028-us-presidential-election) — 1% YES
-- [Will the Chicago Cubs win the 2026 World Series?](/odds/will-the-chicago-cubs-win-the-2026-world-series) — 4% YES
+- [Will Mohammed bin Salman win the Nobel Peace Prize in 2026?](/odds/will-mohammed-bin-salman-win-the-nobel-peace-prize-in-2026) — 1% YES
+- [Will Leo Zacky win the California Governor Election in 2026?](/odds/will-leo-zacky-win-the-california-governor-election-in-2026) — 0% YES
+- [Will Google have the best AI model at the end of June 2026?](/odds/will-google-have-the-best-ai-model-at-the-end-of-june-2026) — 10% YES
 
 ## Frequently Asked Questions
 
-### Could Haley win if Trump faces legal consequences preventing him from influencing the 2028 race?
+### Could Haley win if Trump actively endorses her as his successor for 2028?
 
-Even without Trump's direct involvement, the Republican primary electorate he reshaped remains largely intact, and his ideological successors like Vance or DeSantis would inherit his base rather than Haley benefiting from his absence.
+This scenario is implausible given their contentious 2024 primary and her subsequent criticism of him. Even if it occurred, Trump's base has shown preference for candidates who never opposed him, making Vance or Trump Jr. more natural inheritors.
 
-### What would need to happen in the 2026 midterms to improve Haley's chances?
+### How would a Trump conviction or legal disqualification before 2028 affect Haley's chances?
 
-Republicans would need to suffer significant losses with Trump-endorsed candidates, creating a party narrative that electability and suburban appeal matter more than MAGA loyalty—a dynamic that would need to show up in post-election polling and donor sentiment shifts by early 2027.
+Republican primary voters have consistently rallied around Trump during legal troubles, and any persecution narrative would likely benefit Trump-aligned candidates rather than his former critics. Haley's 2024 positioning as an alternative to Trump's chaos would still face the same base that rejected that message.
 
-### Does Haley's UN Ambassador experience and foreign policy credentials give her an advantage if national security becomes a dominant 2028 issue?
+### What would Haley need to poll at in early 2028 primary states to make this market undervalued?
 
-While foreign policy crises could elevate her expertise, Republican primary voters in 2024 showed minimal interest in traditional foreign policy credentials, favoring Trump's "America First" approach over conventional diplomatic experience, a preference unlikely to reverse without major international developments directly affecting American voters.
+She'd need to consistently poll above 25% in Iowa and New Hampshire surveys by late 2027, along with evidence of rebuilt relationships with major Republican donor networks and at least tacit acceptance from Trump-aligned party officials—none of which appears remotely likely given current trajectories.
 
 ## Learn More
 

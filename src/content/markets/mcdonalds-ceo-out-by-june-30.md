@@ -3,7 +3,7 @@ title: "McDonald's CEO out by June 30?"
 description: "McDonald's CEO out by June 30? Odds: 15.3% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "McDonald's CEO out by June 30?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-08
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]

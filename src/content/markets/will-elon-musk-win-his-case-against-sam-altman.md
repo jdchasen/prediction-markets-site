@@ -9,9 +9,8 @@ expiryDate: 2026-12-31
 tags: ["ai", "polymarket", "tech"]
 polymarketYes: 2.2
 polymarketNo: 97.8
-polymarketVolume: 989930
+polymarketVolume: 990371
 polymarketUrl: "https://polymarket.com/event/will-elon-musk-win-his-case-against-sam-altman"
-analysisDate: 2026-06-08
 ---
 
 Prediction markets give Elon Musk's lawsuit against Sam Altman and OpenAI less than a 3% chance of success by end of 2026, reflecting deep skepticism about his legal claims that OpenAI violated its founding principles by pursuing profit over its original nonprofit mission.

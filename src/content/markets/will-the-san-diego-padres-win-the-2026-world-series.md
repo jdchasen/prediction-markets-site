@@ -3,7 +3,7 @@ title: "Will the San Diego Padres win the 2026 World Series?"
 description: "Will the San Diego Padres win the 2026 World Series? Odds: 2.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the San Diego Padres win the 2026 World Series?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-08
 expiryDate: 2026-10-31
 tags: ["politics", "polymarket"]

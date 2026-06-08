@@ -1,17 +1,16 @@
 ---
 title: "Will the price of Ethereum be above $1,300 on June 13?"
-description: "Will the price of Ethereum be above $1,300 on June 13? Odds: 98.6% YES on Polymarket. See live prices and trade this market."
+description: "Will the price of Ethereum be above $1,300 on June 13? Odds: 98.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the price of Ethereum be above $1,300 on June 13?"
 category: "crypto"
 status: "active"
 lastUpdated: 2026-06-08
 expiryDate: 2026-06-13
 tags: ["crypto", "ethereum", "polymarket"]
-polymarketYes: 98.6
-polymarketNo: 1.4
+polymarketYes: 98.8
+polymarketNo: 1.2
 polymarketVolume: 9891
 polymarketUrl: "https://polymarket.com/event/ethereum-above-1300-on-june-13-2026"
-analysisDate: 2026-06-08
 ---
 
 The market is pricing in near-certainty that Ethereum will trade above $1,300 in 18 months, reflecting confidence in sustained price levels well above current valuations but with minimal margin of safety built in. This extreme confidence matters because it reveals either genuine conviction about Ethereum's fundamental trajectory or complacency that leaves the market vulnerable to repricing if catalysts disappoint.

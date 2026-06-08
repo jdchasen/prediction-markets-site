@@ -3,7 +3,7 @@ title: "Will United States vs. Paraguay end in a draw?"
 description: "Will United States vs. Paraguay end in a draw? Odds: 28.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will United States vs. Paraguay end in a draw?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-08
 expiryDate: 2026-06-13
 tags: ["politics", "polymarket"]

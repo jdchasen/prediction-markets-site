@@ -3,7 +3,7 @@ title: "Hyperbeat FDV above $25M one day after launch?"
 description: "Hyperbeat FDV above $25M one day after launch? Odds: 58.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Hyperbeat FDV above $25M one day after launch?"
 category: "crypto"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-08
 expiryDate: 2027-01-01
 tags: ["crypto", "polymarket"]

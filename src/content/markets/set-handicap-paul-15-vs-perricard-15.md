@@ -3,7 +3,7 @@ title: "Set Handicap: Paul (-1.5) vs Perricard (+1.5)"
 description: "Set Handicap: Paul (-1.5) vs Perricard (+1.5) Odds: 49.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Set Handicap: Paul (-1.5) vs Perricard (+1.5)"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-08
 expiryDate: 2026-06-15
 tags: ["politics", "polymarket"]

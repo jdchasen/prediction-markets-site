@@ -9,9 +9,8 @@ expiryDate: 2026-07-01
 tags: ["politics", "polymarket"]
 polymarketYes: 23.0
 polymarketNo: 77.0
-polymarketVolume: 9735
+polymarketVolume: 9748
 polymarketUrl: "https://polymarket.com/event/will-ng-reach-3-60-in-june-2026"
-analysisDate: 2026-06-08
 ---
 
 # Natural Gas $3.60 June Target Analysis

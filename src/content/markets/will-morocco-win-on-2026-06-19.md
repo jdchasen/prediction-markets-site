@@ -9,9 +9,8 @@ expiryDate: 2026-06-19
 tags: ["politics", "polymarket"]
 polymarketYes: 49.5
 polymarketNo: 50.5
-polymarketVolume: 9798
+polymarketVolume: 9901
 polymarketUrl: "https://polymarket.com/event/fifwc-sco-mar-2026-06-19-mar"
-analysisDate: 2026-06-08
 ---
 
 # Morocco 2026 Election Market Analysis

@@ -3,7 +3,7 @@ title: "Will Netherlands win on 2026-06-14?"
 description: "Will Netherlands win on 2026-06-14? Odds: 48.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Netherlands win on 2026-06-14?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-08
 expiryDate: 2026-06-14
 tags: ["ethereum", "politics", "polymarket"]

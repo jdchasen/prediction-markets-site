@@ -1,17 +1,16 @@
 ---
 title: "Eli Lilly licenses Peptron’s SmartDepot by October 7?"
-description: "Eli Lilly licenses Peptron’s SmartDepot by October 7? Odds: 36.5% YES on Polymarket. See live prices and trade this market."
+description: "Eli Lilly licenses Peptron’s SmartDepot by October 7? Odds: 38.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Eli Lilly licenses Peptron’s SmartDepot by October 7?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-06-08
 expiryDate: 2026-10-07
 tags: ["politics", "polymarket"]
-polymarketYes: 36.5
-polymarketNo: 63.5
-polymarketVolume: 9951
+polymarketYes: 38.0
+polymarketNo: 62.0
+polymarketVolume: 9960
 polymarketUrl: "https://polymarket.com/event/eli-lilly-licenses-peptrons-smartdepot-by-october-7"
-analysisDate: 2026-06-08
 ---
 
 # Analysis

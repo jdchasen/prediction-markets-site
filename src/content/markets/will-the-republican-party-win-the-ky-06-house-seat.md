@@ -9,9 +9,8 @@ expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
 polymarketYes: 65.0
 polymarketNo: 35.0
-polymarketVolume: 9745
+polymarketVolume: 9750
 polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-ky-06-house-seat"
-analysisDate: 2026-06-08
 ---
 
 # KY-06 Republican Hold: Market Assessment and Key Drivers
