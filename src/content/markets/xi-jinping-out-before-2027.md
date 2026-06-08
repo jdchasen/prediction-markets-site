@@ -3,8 +3,8 @@ title: "Xi Jinping out before 2027?"
 description: "Xi Jinping out before 2027? Odds: 7.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Xi Jinping out before 2027?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-06-07
+status: "settled"
+lastUpdated: 2026-06-08
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 7.1

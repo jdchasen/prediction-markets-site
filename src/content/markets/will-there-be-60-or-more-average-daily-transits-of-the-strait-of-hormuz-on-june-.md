@@ -3,8 +3,8 @@ title: "Will there be 60 or more average daily transits of the Strait of Hormuz 
 description: "Will there be 60 or more average daily transits of the Strait of Hormuz on June 30? Odds: 3.3% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will there be 60 or more average daily transits of the Strait of Hormuz on June 30?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-06-07
+status: "settled"
+lastUpdated: 2026-06-08
 expiryDate: 2026-06-30
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 3.3

@@ -3,8 +3,8 @@ title: "Libema Open: Gabriel Diallo vs Adrian Mannarino"
 description: "Libema Open: Gabriel Diallo vs Adrian Mannarino Odds: 46.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Libema Open: Gabriel Diallo vs Adrian Mannarino"
 category: "politics"
-status: "active"
-lastUpdated: 2026-06-07
+status: "settled"
+lastUpdated: 2026-06-08
 expiryDate: 2026-06-15
 tags: ["politics", "polymarket"]
 polymarketYes: 46.5

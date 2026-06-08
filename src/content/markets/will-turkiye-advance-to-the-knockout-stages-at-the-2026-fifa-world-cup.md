@@ -3,8 +3,8 @@ title: "Will Turkiye advance to the knockout stages at the 2026 FIFA World Cup?"
 description: "Will Turkiye advance to the knockout stages at the 2026 FIFA World Cup? Odds: 79.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Turkiye advance to the knockout stages at the 2026 FIFA World Cup?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-06-07
+status: "settled"
+lastUpdated: 2026-06-08
 expiryDate: 2026-06-28
 tags: ["polymarket", "sports"]
 polymarketYes: 79.5

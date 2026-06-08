@@ -4,14 +4,13 @@ description: "Will Google have the best AI model at the end of June 2026? Odds: 
 marketQuestion: "Will Google have the best AI model at the end of June 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-06-07
+lastUpdated: 2026-06-08
 expiryDate: 2026-06-30
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 9.5
 polymarketNo: 90.5
-polymarketVolume: 971601
+polymarketVolume: 978718
 polymarketUrl: "https://polymarket.com/event/will-google-have-the-best-ai-model-at-the-end-of-june-2026"
-analysisDate: 2026-06-07
 ---
 
 The market gives Google less than a 10% chance of leading AI by mid-2026, reflecting skepticism about its ability to catch up to current frontrunners OpenAI and Anthropic despite recent progress with Gemini models. This matters because the AI model race directly impacts Google's core search business and its position in the technology sector's most consequential competition.

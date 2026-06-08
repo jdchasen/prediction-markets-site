@@ -4,14 +4,13 @@ description: "Anysphere (Cursor) IPO before 2027? Odds: 4.4% YES on Polymarket. 
 marketQuestion: "Anysphere (Cursor) IPO before 2027?"
 category: "finance"
 status: "active"
-lastUpdated: 2026-06-07
+lastUpdated: 2026-06-08
 expiryDate: 2026-12-31
 tags: ["finance", "polymarket"]
 polymarketYes: 4.4
 polymarketNo: 95.6
 polymarketVolume: 97875
 polymarketUrl: "https://polymarket.com/event/anysphere-cursor-ipo-before-2027"
-analysisDate: 2026-06-07
 ---
 
 The market pricing Anysphere's Cursor IDE at just 4.4% odds of a public offering before 2027 reflects deep skepticism about near-term IPO prospects for an AI code editor, despite the company's explosive growth in developer adoption throughout 2024. This matters because Cursor has emerged as one of the most successful LLM-powered applications, with reported revenue run rates exceeding $100 million as of late 2024, making it a bellwether for whether AI-native software companies can achieve the scale necessary for public markets within compressed timeframes.

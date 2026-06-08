@@ -1,51 +1,54 @@
 ---
 title: "Will the UK designate the IRGC a terrorist organization by June 30? "
-description: "Will the UK designate the IRGC a terrorist organization by June 30?  Odds: 8.1% YES on Polymarket. See live prices and trade this market."
+description: "Will the UK designate the IRGC a terrorist organization by June 30?  Odds: 2.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the UK designate the IRGC a terrorist organization by June 30? "
 category: "politics"
 status: "active"
-lastUpdated: 2026-06-07
+lastUpdated: 2026-06-08
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
-polymarketYes: 8.1
-polymarketNo: 92.0
-polymarketVolume: 97192
+polymarketYes: 2.8
+polymarketNo: 97.2
+polymarketVolume: 97238
 polymarketUrl: "https://polymarket.com/event/will-the-uk-designate-the-irgc-a-terrorist-organization-by-june-30"
+analysisDate: 2026-06-08
 ---
 
-# UK IRGC Terrorist Designation Analysis
+The UK Parliament faces minimal near-term pressure to designate Iran's Islamic Revolutionary Guard Corps as a terrorist organization before mid-2025, with traders pricing the probability at just 2.8% through June 2026. This market matters because such a designation would represent a significant escalation in UK-Iran relations, potentially disrupting diplomatic channels and affecting British nationals detained in Iran, while also aligning London more closely with hardline positions favored by some Conservative MPs and potentially the United States.
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 9.0% | 91.0% | $97K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 2.8% | 97.2% | $97K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The market is pricing a formal UK designation of Iran's Islamic Revolutionary Guard Corps as a terrorist organization at just 9%, suggesting traders view this outcome as unlikely before mid-2026 despite growing geopolitical pressure. This matters because such a designation would represent a significant escalation in UK-Iran relations, trigger immediate financial sanctions on IRGC-linked entities, and signal alignment with US foreign policy under the incoming Trump administration—while simultaneously risking Iranian retaliation and complicating any potential nuclear diplomacy.
+The bull case hinges on a dramatic deterioration in UK-Iran relations that forces the government's hand. This could materialize through an IRGC-linked attack on British interests, the death of a British detainee in Iranian custody, or concrete evidence of IRGC operations on UK soil targeting dissidents. A future Conservative government under pressure from its right flank, or Labour responding to a national security incident, could push designation through. The UK has already proscribed specific IRGC units, making full organizational designation politically feasible if circumstances demand it. Recent coordination with the US on Iran policy could also create momentum, particularly if Washington applies diplomatic pressure following any military confrontation.
 
-The bull case rests on three converging pressures: the Trump administration's documented hostility toward Iran and likelihood of re-imposing maximum pressure policies, potential acceleration of UK alignment with US Iran strategy to strengthen the post-Brexit relationship, and documented IRGC involvement in regional militant activities that could trigger a specific security incident forcing Westminster's hand. The 2024 UK election delivered a Labour government under Starmer that has shown willingness to take harder lines on hostile state actors, and any major IRGC-linked terrorist attack in the Middle East or against British interests would create immediate political momentum for designation. Additionally, parliamentary backbench pressure from Conservative and right-wing Labour MPs consistently advocates for tougher Iran stances, potentially forcing a government vote if momentum builds.
+The bear case reflects the current government's clear reluctance to take this step despite repeated calls from Conservative backbenchers. The Foreign Office has consistently argued that designation would eliminate diplomatic flexibility needed for hostage negotiations and consular cases. With Nazanin Zaghari-Ratcliffe and other detention cases still fresh in institutional memory, officials fear losing the ability to engage Iranian counterparts. The Labour government under Keir Starmer has shown no inclination toward this designation, prioritizing pragmatic engagement over symbolic gestures. Parliamentary arithmetic also matters—while some MPs advocate strongly for proscription, there's no evidence of majority support compelling the government to act.
 
-The bear case dominates market pricing because the UK has deliberately avoided designating the IRGC as an organization (though it designated the IRGC-QF unit in 2019), citing legal complexity and diplomatic consequences that outweigh security benefits. The Foreign Office under current leadership prioritizes retaining diplomatic channels rather than symbolic gestures, and a full organizational designation would close negotiation doors with Tehran just as nuclear tensions could escalate. Most critically, no major UK-specific security incident linked to the IRGC has occurred recently, meaning the designation lacks the triggering event that typically forces such decisions. The 18-month timeline to June 2026 also works against designation—absent a dramatic shift, institutional inertia favors the status quo.
-
-Key catalysts to monitor include any major terrorist attack linked to IRGC units (which would immediately shift odds upward), the Trump administration's formal Iran policy announcement (expected February-March 2025), and any UK-Iran diplomatic incident involving detected IRGC activities in British territory. Parliamentary debates on Iran designations typically occur in response to specific incidents rather than scheduled votes, so watch for news from Iraq, Syria, and the Strait of Hormuz where IRGC regional operations concentrate. The March 2025 UK government spending review could also signal priority shifts toward Iran policy, and any explicit pressure from Washington on the designation question during Starmer-Trump bilateral meetings would shift probabilities. Currently, traders are essentially betting that neither terrorism nor diplomacy accelerates enough to force Westminster's hand within 18 months.
+Key catalysts to monitor include the May 2026 local elections in England, which could shift political dynamics if foreign policy becomes a campaign issue, and any Iranian actions against British targets through early 2026. Watch for Private Members' Bills on IRGC designation in Parliament's schedule, though these rarely succeed without government backing. The US presidential transition and any changes to American Iran policy in 2025 could influence UK calculations. Traders should also track British-Iranian dual nationals' detention status and any hostage situations developing before the deadline.
 
 ## Related Markets
 
-- [Will Wes Moore win the 2028 US Presidential Election?](/odds/will-wes-moore-win-the-2028-us-presidential-election) — 1% YES
-- [Will China invade Taiwan by June 30, 2026?](/odds/will-china-invade-taiwan-by-june-30-2026) — 2% YES
 - [Will Jamie Dimon win the 2028 US Presidential Election?](/odds/will-jamie-dimon-win-the-2028-us-presidential-election) — 1% YES
+- [Will Nikki Haley win the 2028 Republican presidential nomination?](/odds/will-nikki-haley-win-the-2028-republican-presidential-nomination) — 1% YES
+- [Will the San Diego Padres win the 2026 World Series?](/odds/will-the-san-diego-padres-win-the-2026-world-series) — 2% YES
 
 ## Frequently Asked Questions
 
-### Why hasn't the UK already designated the IRGC as a terrorist organization, given the US did so in 2019?
+### What's the difference between the UK's current approach and full IRGC designation?
 
-The UK designated only the IRGC-QF (Quds Force) wing in 2019, deliberately avoiding a full organizational designation due to legal complexity and concerns that it would eliminate diplomatic channels with Tehran without providing meaningful security benefits. Foreign Office lawyers have consistently advised that the designation threshold is higher than US practice.
+The UK has already designated the IRGC's Quds Force as a terrorist organization but not the entire IRGC. Full designation would criminalize all membership and support, making it illegal for anyone in the UK to belong to or fund any IRGC branch.
 
-### What would most likely trigger a UK designation before June 2026?
+### Why does the Foreign Office oppose designation if Parliament has support for it?
 
-A documented IRGC-coordinated terrorist attack with British victims or clear UK security implications would create immediate political pressure for designation, as would explicit Trump administration pressure during bilateral diplomacy—absent such a catalyst, institutional inertia favors maintenance of the current partial designation.
+The Foreign Office argues that maintaining some diplomatic channel with the IRGC—which controls significant Iranian state functions—is essential for resolving consular cases and hostage negotiations, as seen with past British detainees in Iran.
+
+### Could the US force the UK's hand on this issue by mid-2026?
+
+While US pressure could increase the likelihood, the UK has maintained independent judgment on proscription decisions even when allied positions differ, and Labour's government has shown limited appetite for symbolic foreign policy gestures that complicate practical diplomacy.
 
 ## Learn More
 

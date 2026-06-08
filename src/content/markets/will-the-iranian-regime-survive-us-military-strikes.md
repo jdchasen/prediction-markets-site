@@ -1,17 +1,16 @@
 ---
 title: "Will the Iranian regime survive U.S. military strikes?"
-description: "Will the Iranian regime survive U.S. military strikes? Odds: 98.0% YES on Polymarket. See live prices and trade this market."
+description: "Will the Iranian regime survive U.S. military strikes? Odds: 98.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Iranian regime survive U.S. military strikes?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-06-07
+lastUpdated: 2026-06-08
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
-polymarketYes: 98.0
-polymarketNo: 2.1
-polymarketVolume: 973789
+polymarketYes: 98.4
+polymarketNo: 1.7
+polymarketVolume: 985384
 polymarketUrl: "https://polymarket.com/event/will-the-iranian-regime-survive-us-military-strikes-741"
-analysisDate: 2026-06-07
 ---
 
 Traders are overwhelmingly confident at 98% that Iran's regime will remain in power even if the U.S. conducts military strikes before mid-2026, reflecting the assessment that airstrikes alone rarely topple established governments and that Iran's security apparatus has proven resilient through decades of external pressure.
