@@ -3,8 +3,8 @@ title: "Will Knicks win the 2026 NBA Finals 4-0 be the exact series outcome?"
 description: "Will Knicks win the 2026 NBA Finals 4-0 be the exact series outcome? Odds: 31.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Knicks win the 2026 NBA Finals 4-0 be the exact series outcome?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-06-08
+status: "settled"
+lastUpdated: 2026-06-09
 expiryDate: 2026-06-20
 tags: ["polymarket", "sports"]
 polymarketYes: 31.9

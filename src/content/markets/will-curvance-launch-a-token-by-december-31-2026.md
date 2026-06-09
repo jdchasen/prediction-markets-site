@@ -3,8 +3,8 @@ title: "Will Curvance launch a token by December 31, 2026?"
 description: "Will Curvance launch a token by December 31, 2026? Odds: 37.6% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Curvance launch a token by December 31, 2026?"
 category: "crypto"
-status: "active"
-lastUpdated: 2026-06-08
+status: "settled"
+lastUpdated: 2026-06-09
 expiryDate: 2027-01-01
 tags: ["crypto", "polymarket"]
 polymarketYes: 37.6

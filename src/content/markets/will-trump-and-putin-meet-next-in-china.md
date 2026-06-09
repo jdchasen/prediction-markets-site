@@ -3,8 +3,8 @@ title: "Will Trump and Putin meet next in China?"
 description: "Will Trump and Putin meet next in China? Odds: 19.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Trump and Putin meet next in China?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-06-08
+status: "settled"
+lastUpdated: 2026-06-09
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket", "trump"]
 polymarketYes: 19.5

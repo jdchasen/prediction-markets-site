@@ -3,8 +3,8 @@ title: "Will Bitcoin reach $78,000 June 8-14?"
 description: "Will Bitcoin reach $78,000 June 8-14? Odds: 0.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Bitcoin reach $78,000 June 8-14?"
 category: "crypto"
-status: "active"
-lastUpdated: 2026-06-08
+status: "settled"
+lastUpdated: 2026-06-09
 expiryDate: 2026-06-15
 tags: ["bitcoin", "crypto", "polymarket"]
 polymarketYes: 0.5

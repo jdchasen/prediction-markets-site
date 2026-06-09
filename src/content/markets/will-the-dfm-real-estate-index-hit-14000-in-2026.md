@@ -4,14 +4,13 @@ description: "Will the DFM Real Estate Index hit 14,000 in 2026? Odds: 35.5% YES
 marketQuestion: "Will the DFM Real Estate Index hit 14,000 in 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-06-08
+lastUpdated: 2026-06-09
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]
 polymarketYes: 35.5
 polymarketNo: 64.5
 polymarketVolume: 9813
 polymarketUrl: "https://polymarket.com/event/will-the-dfm-real-estate-index-hit-14000-in-2026"
-analysisDate: 2026-06-08
 ---
 
 # DFM Real Estate Index Market Analysis

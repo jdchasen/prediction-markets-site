@@ -1,17 +1,16 @@
 ---
 title: "Will Trump sell 1k-2.5k Gold Cards in 2026?"
-description: "Will Trump sell 1k-2.5k Gold Cards in 2026? Odds: 2.2% YES on Polymarket. See live prices and trade this market."
+description: "Will Trump sell 1k-2.5k Gold Cards in 2026? Odds: 2.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Trump sell 1k-2.5k Gold Cards in 2026?"
 category: "finance"
-status: "settled"
-lastUpdated: 2026-06-04
+status: "active"
+lastUpdated: 2026-06-09
 expiryDate: 2026-12-31
 tags: ["finance", "polymarket", "trump"]
-polymarketYes: 2.2
-polymarketNo: 97.8
-polymarketVolume: 9686
+polymarketYes: 2.5
+polymarketNo: 97.5
+polymarketVolume: 9861
 polymarketUrl: "https://polymarket.com/event/will-trump-sell-1k-2pt5k-gold-cards-in-2026"
-analysisDate: 2026-06-04
 ---
 
 # Trump Gold Card Sales Market Analysis

@@ -1,53 +1,54 @@
 ---
 title: "Israel withdraws from Lebanon by July 31, 2026?"
-description: "Israel withdraws from Lebanon by July 31, 2026? Odds: 11.5% YES on Polymarket. See live prices and trade this market."
+description: "Israel withdraws from Lebanon by July 31, 2026? Odds: 12.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Israel withdraws from Lebanon by July 31, 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-06-08
+lastUpdated: 2026-06-09
 expiryDate: 2026-07-31
 tags: ["politics", "polymarket"]
-polymarketYes: 11.5
-polymarketNo: 88.5
-polymarketVolume: 98013
+polymarketYes: 12.5
+polymarketNo: 87.5
+polymarketVolume: 99420
 polymarketUrl: "https://polymarket.com/event/israel-withdraws-from-lebanon-by-july-31-2026"
+analysisDate: 2026-06-09
 ---
 
-Traders are pricing just a 12.5% probability of a complete Israeli withdrawal from Lebanon by July 2026, reflecting deep skepticism that Israel will fully exit even if current military operations wind down. This matters because Israeli forces entered southern Lebanon in October 2024 to combat Hezbollah positions, and the timeline for withdrawal has become a critical factor in regional stability and potential diplomatic resolutions.
+Traders are pricing in only a 12.5% chance that Israel will fully withdraw from Lebanese territory by July 31, 2026, reflecting deep skepticism that the current military operation will conclude within the next two and a half years despite international pressure for de-escalation.
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 12.5% | 87.5% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 12.5% | 87.5% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The bear case—which dominates current pricing—rests on Israel's historical pattern of extended military presences when security concerns remain unresolved. Israel maintained an 18-year occupation of southern Lebanon from 1982 to 2000, and current operations targeting Hezbollah infrastructure suggest a similar reluctance to withdraw without verifiable security guarantees. Even if a ceasefire emerges, Israel has repeatedly emphasized it will not accept international peacekeepers or Lebanese Armed Forces as sole security providers in the border region. The Netanyahu government faces domestic political pressure to maintain a buffer zone against Hezbollah threats, making any withdrawal politically costly. Additionally, the definition of "complete withdrawal" creates ambiguity—Israel might maintain forward observation posts or conduct periodic incursions while claiming reduced presence.
+The bear case for withdrawal rests on Israel's historical pattern of extended Lebanese presence—the 1982 invasion led to an 18-year occupation of southern Lebanon until 2000. Current Israeli security doctrine prioritizes establishing buffer zones and degrading Hezbollah's military infrastructure near the border, objectives that typically require multi-year commitments. Prime Minister Netanyahu faces domestic political pressure from right-wing coalition partners who view a strong Lebanon posture as existential for northern Israeli security, making early withdrawal politically costly. The IDF has already established positions in southern Lebanese villages and begun constructing infrastructure suggesting longer-term presence. Additionally, any withdrawal agreement would likely require complex negotiations involving Lebanon's weak central government, Hezbollah, and international mediators—a process that historically takes years to conclude.
 
-The bull case depends on unexpected diplomatic breakthroughs or significant shifts in the military situation. If Hezbollah's capabilities are substantially degraded by mid-2025, international pressure combined with Israeli economic strain from maintaining the deployment could accelerate withdrawal timelines. UN Security Council Resolution 1701, which ended the 2006 Lebanon war, could be revived with stronger enforcement mechanisms that Israel finds acceptable. A potential change in Israeli leadership—Knesset elections must occur by October 2026 at the latest—could bring a government more willing to withdraw. U.S. mediation efforts, particularly if intensified after the 2024 American elections settle, might produce an agreement that satisfies Israeli security demands while establishing withdrawal deadlines.
+The bull case centers on international diplomatic pressure and economic constraints that could force an earlier timeline. The Biden administration and European allies are already pushing for ceasefire frameworks, and a potential U.S. administration change after the November 2024 election could shift leverage. Israel faces significant military reserve mobilization costs that strain the economy, with some estimates suggesting the current operational tempo is unsustainable beyond 2025. Lebanon's complete economic collapse creates incentives for all parties to reach settlement, and UNIFIL (UN peacekeeping forces) expansion could provide face-saving exit mechanisms. If Hezbollah agrees to withdraw beyond the Litani River and accepts enhanced monitoring—core Israeli demands—a phased withdrawal by mid-2026 becomes plausible.
 
-Key catalysts include any formal ceasefire negotiations expected throughout 2025, the Lebanese government's ability to assert control over southern territory, and Hezbollah's organizational capacity after sustained Israeli operations. Watch for statements from the Israeli Defense Minister regarding operational objectives being "achieved" and any UN-mediated talks involving Lebanon, Israel, and guarantor nations. The March 2025 timeframe could prove significant if winter military operations conclude and diplomatic initiatives intensify. Israeli cabinet decisions on reserve call-ups and military budgets for fiscal year 2026 will signal whether the government anticipates extended presence.
+Key catalysts to monitor include UN Security Council resolutions on Lebanon in early 2025, Israeli budget negotiations in March 2025 that will reveal military spending commitments, and any formal ceasefire proposals brokered by France or the U.S. The Lebanese presidential election timeline and government formation will signal whether a credible negotiating partner emerges. Watch for IDF force rotation patterns and infrastructure investments in southern Lebanon—permanent-looking installations would confirm extended presence plans. Israeli municipal elections in late 2025 will test public sentiment in northern border towns, whose residents' willingness to return home depends on perceived security guarantees that typically require ongoing military presence.
 
 ## Related Markets
 
-- [Will Jamie Dimon win the 2028 US Presidential Election?](/odds/will-jamie-dimon-win-the-2028-us-presidential-election) — 1% YES
 - [Will Nikki Haley win the 2028 Republican presidential nomination?](/odds/will-nikki-haley-win-the-2028-republican-presidential-nomination) — 1% YES
-- [Will the San Diego Padres win the 2026 World Series?](/odds/will-the-san-diego-padres-win-the-2026-world-series) — 2% YES
+- [Will Yoaz Hendel be the next Prime Minister of Israel?](/odds/will-yoaz-hendel-be-the-next-prime-minister-of-israel) — 0% YES
+- [Will Avigdor Lieberman be the next Prime Minister of Israel?](/odds/will-avigdor-lieberman-be-the-next-prime-minister-of-israel) — 4% YES
 
 ## Frequently Asked Questions
 
-### What constitutes a "complete withdrawal" for this market's resolution?
+### What counts as a complete withdrawal for this market to resolve YES?
 
-This likely requires all Israeli Defense Forces to exit Lebanese territory and return behind the internationally recognized border, though the exact criteria should be verified in the market's detailed resolution terms. Temporary cross-border raids or intelligence operations would probably not disqualify a withdrawal.
+The market requires all Israeli military forces to exit Lebanese territory by the deadline. Temporary cross-border raids or intelligence presence wouldn't trigger YES—only a full withdrawal of ground forces and operational bases would qualify.
 
-### How does this compare to Israel's previous Lebanon occupation timeline?
+### How does Hezbollah's military capability affect the withdrawal timeline?
 
-Israel's 1982-2000 occupation lasted 18 years despite repeated withdrawal pledges, suggesting institutional resistance to leaving without ironclad security arrangements. However, the current operation differs in scope and stated objectives, focusing on border security rather than deep territorial control.
+Israel has historically required verifiable degradation of Hezbollah's offensive capabilities and establishment of monitoring mechanisms before withdrawing. If Hezbollah retains significant rocket arsenals near the border or refuses to withdraw north of the Litani River, Israel likely maintains its presence regardless of international pressure.
 
-### What would Hezbollah need to agree to for Israel to consider withdrawing?
+### Could a unilateral withdrawal happen without a formal agreement?
 
-Israel would likely demand Hezbollah forces withdraw north of the Litani River per UN Resolution 1701, dismantle border-area military infrastructure, and accept robust monitoring mechanisms—concessions Hezbollah has historically rejected. Any agreement would require both Lebanese government enforcement guarantees and possibly international force deployment that Israel trusts.
+Extremely unlikely given Israel's 2000 withdrawal experience, which despite being unilateral, still required extensive security planning and resulted in ongoing border tensions. Current Israeli doctrine demands negotiated security arrangements with international guarantees before any withdrawal, making a rushed unilateral exit by mid-2026 improbable.
 
 ## Learn More
 

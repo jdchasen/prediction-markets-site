@@ -1,17 +1,16 @@
 ---
 title: "Will Elon Musk post 360-379 tweets from June 5 to June 12, 2026?"
-description: "Will Elon Musk post 360-379 tweets from June 5 to June 12, 2026? Odds: 0.4% YES on Polymarket. See live prices and trade this market."
+description: "Will Elon Musk post 360-379 tweets from June 5 to June 12, 2026? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Elon Musk post 360-379 tweets from June 5 to June 12, 2026?"
 category: "tech"
-status: "settled"
-lastUpdated: 2026-06-05
+status: "active"
+lastUpdated: 2026-06-09
 expiryDate: 2026-06-12
 tags: ["polymarket", "tech"]
-polymarketYes: 0.4
-polymarketNo: 99.6
-polymarketVolume: 9802
+polymarketYes: 0.1
+polymarketNo: 100.0
+polymarketVolume: 99432
 polymarketUrl: "https://polymarket.com/event/elon-musk-of-tweets-june-5-june-12-360-379"
-analysisDate: 2026-06-04
 ---
 
 This market is pricing in an extremely low probability that Elon Musk will post between 360-379 tweets during a specific seven-day window in June 2026, reflecting either massive skepticism about hitting this narrow band or uncertainty about Musk's platform activity by then. The odds matter because they reveal how traders view both Musk's future Twitter/X engagement levels and the difficulty of predicting such granular behavioral targets months in advance.

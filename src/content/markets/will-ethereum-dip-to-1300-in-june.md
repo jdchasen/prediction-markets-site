@@ -1,17 +1,16 @@
 ---
 title: "Will Ethereum dip to $1,300 in June?"
-description: "Will Ethereum dip to $1,300 in June? Odds: 13.6% YES on Polymarket. See live prices and trade this market."
+description: "Will Ethereum dip to $1,300 in June? Odds: 13.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Ethereum dip to $1,300 in June?"
 category: "crypto"
 status: "active"
-lastUpdated: 2026-06-08
+lastUpdated: 2026-06-09
 expiryDate: 2026-07-01
 tags: ["crypto", "ethereum", "polymarket"]
-polymarketYes: 13.6
-polymarketNo: 86.4
-polymarketVolume: 98446
+polymarketYes: 13.9
+polymarketNo: 86.2
+polymarketVolume: 99431
 polymarketUrl: "https://polymarket.com/event/will-ethereum-dip-to-1300-in-june-2026"
-analysisDate: 2026-06-08
 ---
 
 The market pricing Ethereum at just 13.6% odds to reach $1,300 by June 2026 reflects strong confidence in ETH's long-term trajectory, particularly given the asset currently trades around $2,600-$2,800 range, making this a roughly 50% decline scenario that traders view as unlikely over the next 18 months.

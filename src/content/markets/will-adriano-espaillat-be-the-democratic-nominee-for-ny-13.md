@@ -3,8 +3,8 @@ title: "Will Adriano Espaillat be the Democratic Nominee for NY-13?"
 description: "Will Adriano Espaillat be the Democratic Nominee for NY-13? Odds: 42.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Adriano Espaillat be the Democratic Nominee for NY-13?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-06-08
+status: "settled"
+lastUpdated: 2026-06-09
 expiryDate: 2026-06-23
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 42.5

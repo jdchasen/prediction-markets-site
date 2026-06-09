@@ -4,50 +4,51 @@ description: "Will Yoaz Hendel be the next Prime Minister of Israel? Odds: 0.2% 
 marketQuestion: "Will Yoaz Hendel be the next Prime Minister of Israel?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-06-08
+lastUpdated: 2026-06-09
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 0.2
 polymarketNo: 99.8
-polymarketVolume: 976073
+polymarketVolume: 994929
 polymarketUrl: "https://polymarket.com/event/will-yoaz-hendel-be-the-next-prime-minister-of-israel"
+analysisDate: 2026-06-09
 ---
 
-Yoaz Hendel, a center-right politician and former communications minister, registers minimal support at 0.2% to become Israel's next Prime Minister, reflecting his relatively marginal position in the country's fragmented political landscape despite his national security credentials and media profile.
+Yoaz Hendel, a former communications minister and center-right Knesset member who left politics in 2022, faces near-impossible odds at 0.2% to become Israel's next Prime Minister, reflecting both his current absence from electoral politics and the dominance of established party leaders in Israel's fragmented political landscape.
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.2% | 99.8% | $976K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.2% | 99.8% | $995K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The bull case rests on Israel's chronic political instability creating unexpected leadership vacuums. Hendel could emerge as a consensus candidate if Netanyahu's coalition collapses and neither major bloc can form a government—a scenario that has triggered five elections between 2019 and 2022. His military intelligence background and previous service in both Likud and centrist parties positions him as a potential bridge figure acceptable to multiple factions. Should corruption proceedings or health issues sideline Netanyahu while simultaneously the opposition fragments between Lapid, Gantz, and emerging figures, Hendel's technocratic profile could gain traction with kingmaker parties like the ultra-Orthodox or Arab List seeking a non-threatening compromise candidate.
+The bear case is overwhelming: Hendel currently holds no political office after choosing not to run in the 2022 elections, and Israel's parliamentary system typically elevates party leaders who command significant Knesset blocs rather than individual figures without organizational backing. Netanyahu's Likud, Gantz's National Unity party, and Lapid's Yesh Atid control the major pathways to the premiership. Even if Hendel returns to politics, he would need to either build a new party capable of winning 30+ seats or convince an existing major party to accept him as leader—scenarios with no visible groundwork. His previous party, the New Hope-led alliance, essentially dissolved, and he lacks the national name recognition of top-tier candidates.
 
-The bear case is overwhelming: Hendel lacks a significant party apparatus, polling consistently below the electoral threshold, and Israeli politics remains dominated by established figures with proven vote-getting machinery. Netanyahu maintains firm control of the right-wing bloc despite legal challenges, while Yair Lapid and Benny Gantz command the center-left opposition. Recent polling shows these three capturing over 70% of voter preferences combined. Hendel's previous attempts to build political vehicles have failed to gain momentum, and his New Hope party departure left him further marginalized. Israeli voters historically prefer leaders with either military chief-of-staff credentials (Rabin, Barak, Gantz) or long-established party leadership—neither of which Hendel possesses at the requisite level.
+The bull case requires extraordinary political realignment: If the Gaza war continues deteriorating Netanyahu's standing and both Gantz and Lapid become politically toxic, the center-right could desperately seek a fresh face with security credentials and moderate positioning. Hendel's background in military intelligence and his reputation as a pragmatist could theoretically position him as a unity candidate if Israel's current leadership completely implodes. A scenario where he joins an existing party, rapidly rises through its ranks during a crisis period, and leads it to electoral victory before 2027 remains technically possible, though it would require multiple low-probability events occurring sequentially.
 
-Key catalysts include Netanyahu's ongoing trial proceedings with potential verdict dates in 2025, the coalition's stability amid judicial reform tensions, and any early election calls before the current Knesset's natural expiration in 2026. Traders should monitor Hendel's ability to secure a party leadership position—possibly within National Unity if internal conflicts emerge—and whether he gains cabinet appointments that raise his profile. The Supreme Court's decisions on Netanyahu's eligibility to serve while under indictment could trigger rapid political realignment, though even such disruption would more likely elevate figures like Gantz, Lapid, or Likud's Yuli Edelstein before reaching Hendel.
+Key catalysts include any announcement of Hendel returning to active politics, coalition collapse triggering early elections (current government remains unstable with narrow majority), and polling data showing collapse in support for Netanyahu, Gantz, and Lapid simultaneously. The ongoing war crimes proceedings and domestic protests against Netanyahu could accelerate political volatility. Traders should monitor Israeli political party registration deadlines, typically 90 days before elections, and watch whether Hendel makes any media appearances signaling renewed political ambitions. The 2026 deadline gives theoretical time for a political comeback, but without movement by mid-2025, even the current minimal odds would appear generous.
 
 ## Related Markets
 
-- [Will Jamie Dimon win the 2028 US Presidential Election?](/odds/will-jamie-dimon-win-the-2028-us-presidential-election) — 1% YES
 - [Will Nikki Haley win the 2028 Republican presidential nomination?](/odds/will-nikki-haley-win-the-2028-republican-presidential-nomination) — 1% YES
-- [Will the San Diego Padres win the 2026 World Series?](/odds/will-the-san-diego-padres-win-the-2026-world-series) — 2% YES
+- [Will Avigdor Lieberman be the next Prime Minister of Israel?](/odds/will-avigdor-lieberman-be-the-next-prime-minister-of-israel) — 4% YES
+- [Will Mohammed bin Salman win the Nobel Peace Prize in 2026?](/odds/will-mohammed-bin-salman-win-the-nobel-peace-prize-in-2026) — 1% YES
 
 ## Frequently Asked Questions
 
-### What would need to happen for Hendel to realistically become Prime Minister given his current political standing?
+### Has Yoaz Hendel indicated any intention to return to Israeli politics since leaving in 2022?
 
-He would need to either merge with or take control of a major existing party like National Unity or New Hope's successor, then position himself as the compromise choice during a coalition deadlock where neither Netanyahu's bloc nor the opposition can form a government—essentially requiring the simultaneous collapse of at least three more prominent candidates.
+There have been no public statements or reporting suggesting Hendel plans a political comeback. His silence on returning to politics makes even a 0.2% probability questionable.
 
-### Does Hendel's security background give him an advantage during the current war situation in Gaza and Lebanon?
+### What would need to happen for Hendel to legally become Prime Minister given Israel's parliamentary system?
 
-While his military intelligence experience provides credibility, it's insufficient to overcome his electoral weakness—Benny Gantz and others possess equivalent or superior security credentials with far stronger political organizations and voter recognition, making security expertise necessary but not differentiating for Hendel.
+He would need to either lead a party that wins enough Knesset seats to form a governing coalition or be selected as compromise candidate by coalition partners—both requiring him to first re-enter politics and build substantial party infrastructure.
 
-### Could Netanyahu's legal troubles create an opening for Hendel within the right-wing bloc?
+### Could Hendel become PM without new elections before the 2026 deadline?
 
-Unlikely, as Likud has deeper succession options including Yuli Edelstein, Israel Katz, and Nir Barkat who command greater internal party support, and the right-wing bloc would more probably turn to an established Likud figure rather than an external politician with limited electoral base.
+Theoretically yes if the current coalition collapses and he somehow becomes the consensus choice among sitting Knesset members to form a new government, but this scenario has no precedent for someone currently outside the Knesset.
 
 ## Learn More
 

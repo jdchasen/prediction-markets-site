@@ -4,13 +4,14 @@ description: "Will Eisenkot join the Bennett-Lapid alliance by June 30? Odds: 10
 marketQuestion: "Will Eisenkot join the Bennett-Lapid alliance by June 30?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-06-08
+lastUpdated: 2026-06-09
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
 polymarketYes: 10.5
 polymarketNo: 89.5
 polymarketVolume: 9790
 polymarketUrl: "https://polymarket.com/event/will-eisenkot-join-the-bennett-lapid-alliance-by-june-30"
+analysisDate: 2026-06-09
 ---
 
 # Eisenkot-Bennett-Lapid Alliance Analysis
@@ -23,29 +24,31 @@ polymarketUrl: "https://polymarket.com/event/will-eisenkot-join-the-bennett-lapi
 
 ## Market Analysis
 
-The market is pricing in a roughly one-in-ten chance that former IDF Chief of Staff Gadi Eisenkot joins the Bennett-Lapid centrist bloc by mid-2026, reflecting current political fragmentation but substantial skepticism about coalition realignment. This matters because such a merger would reshape Israel's center-right opposition and potentially alter coalition arithmetic heading into possible snap elections. With current polling showing Bennett's Yamina and Lapid's Yesh Atid as separate entities struggling to gain traction individually, the odds suggest traders believe structural incentives against merging remain strong despite both parties' electoral weakness.
+With roughly 18 months until expiration, this market is pricing in significant skepticism about Gadi Eisenkot joining the centrist National Unity bloc led by Benny Gantz, with the Bennett-Lapid faction representing a competing center-right coalition. The current 10.5% odds reflect the structural difficulty of Israeli coalition mathematics and Eisenkot's positioning as a potential kingmaker who can afford to remain independent. This matters because Eisenkot's alignment choice could determine whether the Bennett-Lapid alliance gains negotiating leverage in post-election coalition talks or remains marginalized.
 
-The bull case rests on straightforward math: both Bennett and Lapid command shrinking voter bases (recent polls show Yamina at 4-5 seats, Yesh Atid at 15-16), and merger discussions become rational if either party faces polling below the 3.25% electoral threshold. Eisenkot, who launched his "Telem" party in 2019 and has repeatedly positioned himself as a security-focused centrist, shares ideological overlap with both parties. If either Bennett or Lapid faces existential polling collapse in late 2025 or early 2026—triggering urgent consolidation talks—Eisenkot could emerge as an attractive figurehead. The 18-month runway until expiry provides ample opportunity for electoral pressure to force negotiations.
+The bull case for YES rests on Eisenkot's demonstrated willingness to cooperate across ideological lines—he's already shown flexibility by considering various political partnerships since entering electoral politics in 2023. If Bennett-Lapid stabilizes around 15-18 seats in upcoming polling cycles and Eisenkot's Telem party stalls below 4%, a merger could become arithmetically necessary to ensure survival past the electoral threshold. Additionally, if Netanyahu's government destabilizes before mid-2026 and early elections are called, coalition pressures could accelerate unconventional alliances. The bear case is substantially stronger: Eisenkot has consistently positioned himself as a principled outsider and political independent, explicitly resisting pre-election blocs. He holds genuine ideological distance from both Bennett and Lapid on settlement policy and judicial reform, and maintaining independence gives him maximum leverage in actual coalition negotiations. Bennett-Lapid's recent polling weakness (combined 10-12 seats) makes them less attractive partners than National Unity or right-wing blocs seeking to build majority coalitions.
 
-The bear case is weightier: Bennett and Lapid are fierce personal and political rivals with conflicting leadership ambitions and distinct voter bases. Bennett appeals to right-leaning religious and security hawks; Lapid dominates secular, dovish demographics. Previous attempts at center-right consolidation (notably the 2019 Blue and White saga) repeatedly failed due to ego and ideology clashes. Eisenkot remains a contested figure with his own leadership pretensions, making him a compromise candidate only if both parties are desperate. Without a coalition collapse triggering immediate electoral pressure, the rational default is for parties to maintain separate identities and negotiate seat-sharing in any future coalition talks.
-
-Key catalysts include the 2025 Knesset budget votes (February-March deadlines could trigger coalition instability), any major security escalation reshuffling voter priorities, and polling milestones in late 2025 that determine which parties face existential threat. The Knesset's March 2025 and September 2025 budget deadlines are particularly significant—if Netanyahu's coalition fractures before those votes, centrist parties face pressure to consolidate for snap elections. Watch for any public statements from Eisenkot about electoral alliances after September 2025, as that's when serious coalition negotiations for 2026 elections typically accelerate.
+Key catalysts include Knesset elections if snap elections occur before June 2026 (the current government faces potential stability tests in 2025), Eisenkot's polling trajectory through 2025 (dropping below 3% would pressure merger talks), and any major security or judicial crises that could reshape coalition calculations. Watch for Bennett's political activity and Lapid's statements about coalition strategy—public merger discussions would signal serious negotiations. Traders should monitor Israeli political news closely through Q3 2025, as this is when pre-election alliance announcements typically cluster.
 
 ## Related Markets
 
-- [Will Jamie Dimon win the 2028 US Presidential Election?](/odds/will-jamie-dimon-win-the-2028-us-presidential-election) — 1% YES
 - [Will Nikki Haley win the 2028 Republican presidential nomination?](/odds/will-nikki-haley-win-the-2028-republican-presidential-nomination) — 1% YES
-- [Will the San Diego Padres win the 2026 World Series?](/odds/will-the-san-diego-padres-win-the-2026-world-series) — 2% YES
+- [Will Yoaz Hendel be the next Prime Minister of Israel?](/odds/will-yoaz-hendel-be-the-next-prime-minister-of-israel) — 0% YES
+- [Will Avigdor Lieberman be the next Prime Minister of Israel?](/odds/will-avigdor-lieberman-be-the-next-prime-minister-of-israel) — 4% YES
 
 ## Frequently Asked Questions
 
-### Would Eisenkot actually lead a merged Bennett-Lapid entity, or just join as a member?
+### What happens to this market if elections are called before June 2026 and Eisenkot joins Bennett-Lapid only after the election during coalition talks?
 
-The market terms specify "join the alliance," which could mean either a leadership position or substantial membership. For betting purposes, any formal organizational merger or unified electoral list would likely trigger resolution as YES. Clarify your book's resolution criteria against the exchange's exact language before trading.
+The market resolves NO—the resolution criteria requires him to join "by June 30," meaning before the election, not during post-election coalition negotiations.
 
-### How does the current Bennett-Lapid seat count (roughly 20 seats combined) affect merger probability?
+### How much does Eisenkot's recent polling weakness change the probability he merges with Bennett-Lapid?
 
-With 20 seats, neither party faces the 3.25% threshold threat individually, reducing immediate merger pressure. However, if either drops below 8-10 seats in late 2025 polling, merger becomes rational self-preservation, which could shift this market significantly higher.
+Weakness increases merger pressure significantly, but Eisenkot has stated he'd rather drop below the threshold than compromise on principles, suggesting even declining polls may not force a merger.
+
+### Could Bennett-Lapid dissolving or one of them leaving politics before June 2026 affect market resolution?
+
+Yes—if either Bennett or Lapid exits or if they split into separate factions, the specific "Bennett-Lapid alliance" as defined would no longer exist, creating ambiguity in how the market resolves.
 
 ## Learn More
 
