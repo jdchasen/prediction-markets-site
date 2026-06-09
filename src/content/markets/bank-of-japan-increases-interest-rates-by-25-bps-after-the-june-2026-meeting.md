@@ -1,17 +1,16 @@
 ---
 title: "Bank of Japan increases interest rates by 25 bps after the June 2026 meeting?"
-description: "Bank of Japan increases interest rates by 25 bps after the June 2026 meeting? Odds: 98.5% YES on Polymarket. See live prices and trade this market."
+description: "Bank of Japan increases interest rates by 25 bps after the June 2026 meeting? Odds: 97.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Bank of Japan increases interest rates by 25 bps after the June 2026 meeting?"
 category: "economics"
 status: "active"
 lastUpdated: 2026-06-09
 expiryDate: 2026-06-16
 tags: ["economics", "interest-rates", "polymarket"]
-polymarketYes: 98.5
-polymarketNo: 1.6
-polymarketVolume: 96508
+polymarketYes: 97.9
+polymarketNo: 2.1
+polymarketVolume: 99851
 polymarketUrl: "https://polymarket.com/event/bank-of-japan-increases-interest-rates-by-25-bps-after-the-june-2026-meeting"
-analysisDate: 2026-06-09
 ---
 
 The market shows overwhelming confidence that the Bank of Japan will raise rates by at least 25 basis points by their June 2026 meeting, reflecting the expectation that Japan's decades-long era of ultra-loose monetary policy is definitively ending. This matters because the BOJ's policy trajectory directly influences global carry trades, yen valuations, and the competitiveness of Japanese exporters across Asia.

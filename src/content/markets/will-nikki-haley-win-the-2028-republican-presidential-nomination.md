@@ -9,11 +9,12 @@ expiryDate: 2028-11-07
 tags: ["politics", "polymarket"]
 polymarketYes: 0.9
 polymarketNo: 99.2
-polymarketVolume: 9787168
+polymarketVolume: 9789079
 polymarketUrl: "https://polymarket.com/event/will-nikki-haley-win-the-2028-republican-presidential-nomination"
+analysisDate: 2026-06-09
 ---
 
-The market prices Nikki Haley's chances of securing the 2028 Republican nomination at essentially zero, reflecting deep skepticism about her viability within a party that has decisively rejected her brand of politics in back-to-back cycles.
+The market gives Nikki Haley less than a 1% chance of securing the 2028 Republican nomination, reflecting widespread trader skepticism that she can overcome her 2024 primary defeat and the party's continued Trump-aligned direction.
 
 ## Current Odds
 
@@ -23,31 +24,31 @@ The market prices Nikki Haley's chances of securing the 2028 Republican nominati
 
 ## Market Analysis
 
-The bear case is overwhelming: Haley's 2024 primary performance demonstrated her ceiling with Republican voters, struggling to break 20% in most contests even as the last Trump alternative standing. She alienated the MAGA base by staying in the race through Super Tuesday and criticizing Trump, while never attracting sufficient support from traditional Republicans or independents who participate in GOP primaries. The party's grassroots infrastructure, state party chairs, and activist class have moved firmly toward Trump-aligned politics. If Trump cannot run in 2028 due to term limits, the nomination fight will likely feature his endorsed successor (potentially JD Vance or Donald Trump Jr.), Ron DeSantis seeking a comeback, or newer MAGA-aligned figures—not a candidate who explicitly positioned herself as Trump's opponent. Her decision to campaign actively against Trump in 2024, combined with her subsequent suggestions she might not support him, has likely made her persona non grata with the party's dominant faction.
+The bear case dominates current pricing for clear reasons. Haley suspended her 2024 campaign in March after winning only Vermont and Washington D.C., demonstrating limited appeal with the GOP base. Trump's continued dominance over the party apparatus and his likely influence on 2028—whether as a candidate himself (if he loses 2024) or kingmaker (if he wins)—leaves little oxygen for traditional establishment Republicans. Her explicit criticisms of Trump during the 2024 race alienated MAGA voters who comprise the party's most energized faction, while her subsequent endorsement failed to win back their trust. The Republican primary electorate has consistently rejected candidates perceived as insufficiently loyal to Trump, and Haley's positioning as a "Trump alternative" in 2024 undermines any path forward in a party that shows no signs of moderating.
 
-The bull case requires imagining a complete Republican realignment following a catastrophic 2024 Trump loss—though even this scenario seems insufficient given current party dynamics. Haley would need Trump to lose decisively in November 2024, face legal consequences that permanently discredit him and his movement, and for Republican donors and elected officials to successfully execute a party reset toward electability-focused politics. The Iowa caucuses and New Hampshire primary in January/February 2028 would be her first tests, where she'd need to demonstrate she's rebuilt credibility with actual primary voters rather than just cable news bookers.
+The bull case requires a dramatic reshaping of Republican politics. If Trump loses in November 2024 and his grip on the party finally weakens, Republicans might seek a "return to normalcy" candidate for 2028—particularly if economic conditions worsen under a Democratic administration. Haley's fundraising network remains intact, her favorable ratings among general election voters could appeal to a party desperate to win, and her national security credentials may gain resonance if international crises escalate. Key indicators to watch include the 2026 midterm results, which will reveal whether Trump-endorsed candidates continue winning primaries, and whether Haley maintains political visibility through a think tank, corporate board positions, or Fox News contributor role. The first candidate announcements typically begin in early 2027, with Iowa and New Hampshire primaries scheduled for January-February 2028.
 
-Key dates to monitor include the November 2024 general election results, the 2026 midterms which will shape party direction, and any major Trump legal developments through 2025-2026. Haley's actions over the next year—whether she campaigns for Trump, maintains her donor network, or positions herself for another run—will signal her intentions. Traders should watch for polling of hypothetical 2028 GOP primary matchups starting in late 2025, though her current standing suggests she'd need multiple cycles of party evolution to become viable again.
+The market's rock-bottom pricing suggests traders see structural barriers rather than temporary obstacles. Watch for Trump's decision on 2028 (if he loses 2024), polling of Republican voters on preferred 2028 candidates starting in late 2025, and whether rising figures like Ron DeSantis, Vivek Ramaswamy, or J.D. Vance crowd out her lane. Any significant Haley political activity or rehabilitation efforts with the MAGA base in 2025-2026 could signal she's serious about another run.
 
 ## Related Markets
 
-- [Will Mohammed bin Salman win the Nobel Peace Prize in 2026?](/odds/will-mohammed-bin-salman-win-the-nobel-peace-prize-in-2026) — 1% YES
-- [Will Leo Zacky win the California Governor Election in 2026?](/odds/will-leo-zacky-win-the-california-governor-election-in-2026) — 0% YES
-- [Will Google have the best AI model at the end of June 2026?](/odds/will-google-have-the-best-ai-model-at-the-end-of-june-2026) — 10% YES
+- [Will Crude Oil (CL) hit (HIGH) $115 by end of June?](/odds/will-crude-oil-cl-hit-high-115-by-end-of-june) — 8% YES
+- [Will Yoaz Hendel be the next Prime Minister of Israel?](/odds/will-yoaz-hendel-be-the-next-prime-minister-of-israel) — 0% YES
+- [Will Avigdor Lieberman be the next Prime Minister of Israel?](/odds/will-avigdor-lieberman-be-the-next-prime-minister-of-israel) — 5% YES
 
 ## Frequently Asked Questions
 
-### Could Haley win if Trump actively endorses her as his successor for 2028?
+### Could Nikki Haley run as an independent or third-party candidate instead of seeking the Republican nomination?
 
-This scenario is implausible given their contentious 2024 primary and her subsequent criticism of him. Even if it occurred, Trump's base has shown preference for candidates who never opposed him, making Vance or Trump Jr. more natural inheritors.
+While possible, this market specifically requires her to win the Republican nomination itself. An independent run would not resolve this market as YES regardless of her electoral success.
 
-### How would a Trump conviction or legal disqualification before 2028 affect Haley's chances?
+### What happens to this market if Trump runs again in 2028 and Haley doesn't enter the race?
 
-Republican primary voters have consistently rallied around Trump during legal troubles, and any persecution narrative would likely benefit Trump-aligned candidates rather than his former critics. Haley's 2024 positioning as an alternative to Trump's chaos would still face the same base that rejected that message.
+If Haley doesn't seek the nomination at all, this market resolves NO. The market requires both her candidacy and her victory in securing the nomination at the 2028 Republican National Convention.
 
-### What would Haley need to poll at in early 2028 primary states to make this market undervalued?
+### How would a Trump legal conviction or constitutional eligibility issue affect Haley's chances?
 
-She'd need to consistently poll above 25% in Iowa and New Hampshire surveys by late 2027, along with evidence of rebuilt relationships with major Republican donor networks and at least tacit acceptance from Trump-aligned party officials—none of which appears remotely likely given current trajectories.
+A Trump disqualification could create a sudden vacuum in Republican politics, potentially benefiting Haley if no clear MAGA heir emerges, though Trump-aligned candidates like DeSantis or Vance would likely be favored over her by the base.
 
 ## Learn More
 

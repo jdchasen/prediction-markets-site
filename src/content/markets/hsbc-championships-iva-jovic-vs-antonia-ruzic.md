@@ -3,7 +3,7 @@ title: "HSBC Championships: Iva Jovic vs Antonia Ruzic"
 description: "HSBC Championships: Iva Jovic vs Antonia Ruzic Odds: 100.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "HSBC Championships: Iva Jovic vs Antonia Ruzic"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-09
 expiryDate: 2026-06-16
 tags: ["politics", "polymarket"]

@@ -3,7 +3,7 @@ title: "Will OpenAI's valuation hit (HIGH) $5.0T by December 31?"
 description: "Will OpenAI's valuation hit (HIGH) $5.0T by December 31? Odds: 3.6% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will OpenAI's valuation hit (HIGH) $5.0T by December 31?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-09
 expiryDate: 2027-01-01
 tags: ["ai", "politics", "polymarket"]

@@ -1,17 +1,16 @@
 ---
 title: "Will Elon Musk win his case against Sam Altman?"
-description: "Will Elon Musk win his case against Sam Altman? Odds: 3.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Elon Musk win his case against Sam Altman? Odds: 3.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Elon Musk win his case against Sam Altman?"
 category: "tech"
 status: "active"
 lastUpdated: 2026-06-09
 expiryDate: 2026-12-31
 tags: ["ai", "polymarket", "tech"]
-polymarketYes: 3.5
-polymarketNo: 96.5
-polymarketVolume: 991348
+polymarketYes: 3.2
+polymarketNo: 96.8
+polymarketVolume: 991411
 polymarketUrl: "https://polymarket.com/event/will-elon-musk-win-his-case-against-sam-altman"
-analysisDate: 2026-06-09
 ---
 
 The market strongly favors Sam Altman and OpenAI with only 3.5% odds for Musk's legal victory, reflecting skepticism about the merits of his claims that Altman violated their original agreement to keep OpenAI as a non-profit focused on safe AI development rather than pursuing commercial dominance with Microsoft.

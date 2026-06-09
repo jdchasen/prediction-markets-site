@@ -1,53 +1,54 @@
 ---
 title: "Will Crude Oil (CL) hit (HIGH) $115 by end of June?"
-description: "Will Crude Oil (CL) hit (HIGH) $115 by end of June? Odds: 8.8% YES on Polymarket. See live prices and trade this market."
+description: "Will Crude Oil (CL) hit (HIGH) $115 by end of June? Odds: 8.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Crude Oil (CL) hit (HIGH) $115 by end of June?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-06-09
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
-polymarketYes: 8.8
-polymarketNo: 91.2
-polymarketVolume: 980388
+polymarketYes: 8.0
+polymarketNo: 92.0
+polymarketVolume: 999840
 polymarketUrl: "https://polymarket.com/event/will-crude-oil-cl-hit-high-115-by-end-of-june-217-913-468-473"
+analysisDate: 2026-06-09
 ---
 
-Crude oil futures hitting $115 by June 2026 sits at only 13% probability, reflecting market confidence that significant supply disruptions or demand shocks remain unlikely over the next 18 months despite ongoing geopolitical tensions.
+Crude oil futures reaching $115 per barrel by June 2026 carries only an 8% probability according to current market pricing, reflecting expectations that structural oversupply and modest demand growth will keep prices contained despite geopolitical wildcards.
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 13.2% | 86.8% | $974K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 8.0% | 92.0% | $1000K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The bull case centers on escalation risks in the Middle East, particularly if Iran-Israel tensions intensify or if Saudi Arabia and Russia extend OPEC+ production cuts beyond their current agreements expiring in late 2024. A significant supply disruption in the Strait of Hormuz, through which roughly 20% of global oil passes, would immediately spike prices toward the $115 threshold. Additionally, stronger-than-expected Chinese economic recovery or a global manufacturing rebound could push demand beyond current forecasts. The U.S. Strategic Petroleum Reserve remains approximately 300 million barrels below its 2020 levels, limiting Washington's ability to dampen price spikes through emergency releases.
+The bear case dominates current sentiment as OPEC+ spare capacity remains substantial, U.S. shale producers have demonstrated ability to ramp production quickly above $80/barrel, and the global transition toward electric vehicles continues accelerating, particularly in China which accounts for roughly 16% of global oil demand. The International Energy Agency's latest medium-term outlook projects relatively balanced markets through 2026 assuming no major supply disruptions, with Brent crude forecasted in the $70-85 range. Additionally, any significant economic slowdown in 2025-2026 would suppress demand further, and strategic petroleum reserve releases remain a policy tool available to major consuming nations.
 
-The bear case is considerably stronger given current fundamentals. U.S. shale production continues expanding, with the EIA projecting domestic output to reach 13.5 million barrels per day through 2025, providing a structural ceiling on prices. Global economic slowdown concerns, particularly in Europe and China's property sector struggles, suggest demand headwinds rather than surges. The transition toward electric vehicles and renewable energy continues to erode long-term oil demand expectations, pressuring prices. OPEC spare capacity remains substantial at roughly 5-6 million barrels per day, giving producers room to respond to any supply shocks. West Texas Intermediate has traded between $70-85 per barrel for most of 2024, and breaking through $115 would require a 50%+ rally from current levels.
+The bull case centers on compounding geopolitical risks and potential underinvestment in production capacity. Escalating tensions in the Middle East—particularly around the Strait of Hormuz through which 20% of global oil flows—could trigger supply shocks. The November 2025 OPEC+ ministerial meeting will be critical for understanding production policy into 2026. Severe sanctions enforcement against Russian or Iranian exports, potentially intensifying after the 2024 U.S. election cycle, could remove 2-3 million barrels per day from markets. Underinvestment in upstream projects during 2020-2024 may also create tighter conditions than anticipated if demand proves resilient, particularly if China's economic stimulus measures exceed expectations in late 2025.
 
-Key catalysts to monitor include the December 2024 and June 2025 OPEC+ ministerial meetings where production policy gets revised, the U.S.-Iran nuclear negotiations expected to resume in early 2025, and Chinese stimulus announcements typically clustered around March National People's Congress sessions. The Federal Reserve's interest rate trajectory through 2025 matters significantly, as a weaker dollar from rate cuts would support higher commodity prices. Any military action involving major oil infrastructure in the Persian Gulf would immediately reprices this market above 50%.
+Traders should monitor monthly OPEC production reports, U.S. crude inventory data released weekly by the EIA every Wednesday, and the December 2024 and June 2025 OPEC+ meetings for production quota decisions. The trajectory of the Federal Reserve's rate policy throughout 2025 will significantly impact dollar strength and commodity pricing. Any military escalation in the Persian Gulf or major pipeline disruptions in Libya, Nigeria, or Kazakhstan would immediately shift probabilities. Chinese economic data, particularly manufacturing PMI releases on the first of each month, serves as the clearest demand indicator for the world's largest crude importer.
 
 ## Related Markets
 
 - [Will Nikki Haley win the 2028 Republican presidential nomination?](/odds/will-nikki-haley-win-the-2028-republican-presidential-nomination) — 1% YES
-- [Will Mohammed bin Salman win the Nobel Peace Prize in 2026?](/odds/will-mohammed-bin-salman-win-the-nobel-peace-prize-in-2026) — 1% YES
-- [Will Leo Zacky win the California Governor Election in 2026?](/odds/will-leo-zacky-win-the-california-governor-election-in-2026) — 0% YES
+- [Will Yoaz Hendel be the next Prime Minister of Israel?](/odds/will-yoaz-hendel-be-the-next-prime-minister-of-israel) — 0% YES
+- [Will Avigdor Lieberman be the next Prime Minister of Israel?](/odds/will-avigdor-lieberman-be-the-next-prime-minister-of-israel) — 5% YES
 
 ## Frequently Asked Questions
 
-### What price level is crude oil currently trading at compared to the $115 target?
+### What oil price level is currently priced into futures markets for June 2026?
 
-WTI crude has been trading in the $70-85 range throughout 2024, meaning oil would need to rally approximately 50-65% from current levels to reach the $115 threshold by June 2026.
+June 2026 WTI crude futures are currently trading around $68-72 per barrel, suggesting the market expects prices to remain substantially below the $115 threshold. The implied volatility shows traders see roughly 60% probability of prices staying within the $55-85 range.
 
-### How does U.S. shale production affect the likelihood of oil hitting $115?
+### How often has WTI crude sustained prices above $115 historically, and what caused those spikes?
 
-Expanding U.S. shale output, projected to reach 13.5 million barrels daily, acts as a natural price ceiling since American producers rapidly increase drilling activity when prices rise above $80-90, adding supply that caps further gains.
+WTI has only traded above $115 during brief periods in 2008 (financial speculation and peak oil concerns) and 2011-2013 (Libya war and Iranian sanctions). These episodes required either major supply disruptions removing 2+ million barrels daily or exceptional demand growth exceeding 2% annually, neither of which current forecasts predict for 2026.
 
-### What would be the most likely single event to push this market above 50% probability?
+### Would a major hurricane season in 2026 affecting Gulf of Mexico production significantly impact this market's outcome?
 
-A major military confrontation closing or severely restricting shipping through the Strait of Hormuz would immediately remove 20% of global oil supply from markets and likely push this probability above 50%, as such disruptions historically spike prices beyond $100.
+While Gulf hurricanes can cause temporary price spikes, they typically only disrupt 1-1.5 million barrels per day for weeks rather than months, insufficient to sustain $115 pricing through June 30th when the market resolves. The resolution requires the daily high settlement to hit $115, so even a brief spike during hurricane season could trigger a YES outcome.
 
 ## Learn More
 

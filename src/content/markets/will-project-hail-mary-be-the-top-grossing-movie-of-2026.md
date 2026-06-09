@@ -9,9 +9,8 @@ expiryDate: 2026-12-31
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 0.4
 polymarketNo: 99.6
-polymarketVolume: 977235
+polymarketVolume: 978687
 polymarketUrl: "https://polymarket.com/event/will-project-hail-mary-be-the-top-grossing-movie-of-2026"
-analysisDate: 2026-06-09
 ---
 
 The Project Hail Mary film adaptation, despite having Ryan Gosling attached and Phil Lord and Christopher Miller directing, faces odds below 1% to become 2026's highest-grossing film—a reasonable assessment given Hollywood's blockbuster landscape and the project's current development status.

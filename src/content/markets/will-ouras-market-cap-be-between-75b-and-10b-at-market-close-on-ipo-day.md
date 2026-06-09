@@ -9,9 +9,8 @@ expiryDate: 2027-01-01
 tags: ["finance", "polymarket"]
 polymarketYes: 11.5
 polymarketNo: 88.5
-polymarketVolume: 9889
+polymarketVolume: 9913
 polymarketUrl: "https://polymarket.com/event/will-ouras-market-cap-be-between-7pt5b-and-10b-at-market-close-on-ipo-day"
-analysisDate: 2026-06-09
 ---
 
 # Oura Ring IPO Valuation Analysis

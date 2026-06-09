@@ -11,7 +11,6 @@ polymarketYes: 67.5
 polymarketNo: 32.5
 polymarketVolume: 979101
 polymarketUrl: "https://polymarket.com/event/predictfun-fdv-above-300m-one-day-after-launch"
-analysisDate: 2026-06-09
 ---
 
 The market pricing Predict.fun's fully diluted valuation above $300M at launch reflects strong confidence in the platform's positioning within the emerging prediction market sector, particularly as it aims to compete with established players like Polymarket during a period of renewed crypto speculation.

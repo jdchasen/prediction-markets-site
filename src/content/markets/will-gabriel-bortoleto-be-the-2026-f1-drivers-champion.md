@@ -9,9 +9,8 @@ expiryDate: 2026-12-06
 tags: ["polymarket", "sports"]
 polymarketYes: 0.2
 polymarketNo: 99.8
-polymarketVolume: 9961030
+polymarketVolume: 9961446
 polymarketUrl: "https://polymarket.com/event/will-gabriel-bortoleto-be-the-2026-f1-drivers-champion"
-analysisDate: 2026-06-09
 ---
 
 Gabriel Bortoleto's 2026 championship market sits at near-zero odds despite his rookie season debut in 2025, reflecting the extreme difficulty of winning a title in just his second F1 season with Sauber/Audi. The 20-year-old Brazilian enters F1 as the reigning F2 champion, joining a team in transition that finished last in the 2024 constructors' championship with zero points.

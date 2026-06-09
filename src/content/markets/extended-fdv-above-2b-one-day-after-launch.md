@@ -1,17 +1,16 @@
 ---
 title: "Extended FDV above $2B one day after launch?"
-description: "Extended FDV above $2B one day after launch? Odds: 2.9% YES on Polymarket. See live prices and trade this market."
+description: "Extended FDV above $2B one day after launch? Odds: 2.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Extended FDV above $2B one day after launch?"
 category: "crypto"
-status: "settled"
-lastUpdated: 2026-06-03
+status: "active"
+lastUpdated: 2026-06-09
 expiryDate: 2027-01-01
 tags: ["crypto", "polymarket"]
-polymarketYes: 2.9
-polymarketNo: 97.2
-polymarketVolume: 96668
+polymarketYes: 2.2
+polymarketNo: 97.8
+polymarketVolume: 97228
 polymarketUrl: "https://polymarket.com/event/extended-fdv-above-2b-one-day-after-launch-692-597-187"
-analysisDate: 2026-06-03
 ---
 
 # Extended FDV Analysis: The $2B Day-One Hurdle

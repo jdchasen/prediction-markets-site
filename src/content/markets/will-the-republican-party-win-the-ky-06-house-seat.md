@@ -3,7 +3,7 @@ title: "Will the Republican Party win the KY-06 House seat?"
 description: "Will the Republican Party win the KY-06 House seat? Odds: 65.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Republican Party win the KY-06 House seat?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-09
 expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]

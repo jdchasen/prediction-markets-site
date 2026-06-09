@@ -1,17 +1,16 @@
 ---
 title: "Will Avigdor Lieberman be the next Prime Minister of Israel?"
-description: "Will Avigdor Lieberman be the next Prime Minister of Israel? Odds: 4.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Avigdor Lieberman be the next Prime Minister of Israel? Odds: 4.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Avigdor Lieberman be the next Prime Minister of Israel?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-06-09
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 4.5
-polymarketNo: 95.5
-polymarketVolume: 992150
+polymarketYes: 4.7
+polymarketNo: 95.3
+polymarketVolume: 994610
 polymarketUrl: "https://polymarket.com/event/will-avigdor-lieberman-be-the-next-prime-minister-of-israel"
-analysisDate: 2026-06-09
 ---
 
 Avigdor Lieberman, the secular nationalist leader of Yisrael Beiteinu, sits at just 4.5% odds to become Israel's next Prime Minister—a longshot position reflecting his party's persistent single-digit polling and the structural challenges facing mid-sized parties in Israel's fragmented political system. The question matters because Israel's coalition government remains unstable, and any path to a post-Netanyahu era requires understanding which secondary figures could potentially assemble a governing majority.

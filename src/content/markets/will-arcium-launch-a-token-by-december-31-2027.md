@@ -1,17 +1,16 @@
 ---
 title: "Will Arcium launch a token by December 31, 2027?"
-description: "Will Arcium launch a token by December 31, 2027? Odds: 97.2% YES on Polymarket. See live prices and trade this market."
+description: "Will Arcium launch a token by December 31, 2027? Odds: 97.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Arcium launch a token by December 31, 2027?"
 category: "crypto"
-status: "settled"
+status: "active"
 lastUpdated: 2026-06-09
 expiryDate: 2028-01-01
 tags: ["crypto", "polymarket"]
-polymarketYes: 97.2
-polymarketNo: 2.8
-polymarketVolume: 9720
+polymarketYes: 97.9
+polymarketNo: 2.1
+polymarketVolume: 9751
 polymarketUrl: "https://polymarket.com/event/will-arcium-launch-a-token-by-december-31-2027"
-analysisDate: 2026-06-08
 ---
 
 # Arcium Token Launch Market Analysis

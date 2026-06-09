@@ -1,17 +1,16 @@
 ---
 title: "Will GRVT launch a token by June 30, 2026?"
-description: "Will GRVT launch a token by June 30, 2026? Odds: 19.0% YES on Polymarket. See live prices and trade this market."
+description: "Will GRVT launch a token by June 30, 2026? Odds: 17.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will GRVT launch a token by June 30, 2026?"
 category: "crypto"
 status: "active"
 lastUpdated: 2026-06-09
 expiryDate: 2027-01-01
 tags: ["crypto", "polymarket"]
-polymarketYes: 19.0
-polymarketNo: 81.0
+polymarketYes: 17.5
+polymarketNo: 82.5
 polymarketVolume: 9890
 polymarketUrl: "https://polymarket.com/event/will-grvt-launch-a-token-by-june-30-2026"
-analysisDate: 2026-06-09
 ---
 
 # GRVT Token Launch Analysis

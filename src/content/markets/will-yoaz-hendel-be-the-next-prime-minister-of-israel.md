@@ -9,9 +9,8 @@ expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 0.2
 polymarketNo: 99.8
-polymarketVolume: 994929
+polymarketVolume: 996044
 polymarketUrl: "https://polymarket.com/event/will-yoaz-hendel-be-the-next-prime-minister-of-israel"
-analysisDate: 2026-06-09
 ---
 
 Yoaz Hendel, a former communications minister and center-right Knesset member who left politics in 2022, faces near-impossible odds at 0.2% to become Israel's next Prime Minister, reflecting both his current absence from electoral politics and the dominance of established party leaders in Israel's fragmented political landscape.

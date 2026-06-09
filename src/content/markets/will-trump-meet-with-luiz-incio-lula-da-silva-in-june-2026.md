@@ -3,7 +3,7 @@ title: "Will Trump meet with Luiz Inácio Lula da Silva in June 2026?"
 description: "Will Trump meet with Luiz Inácio Lula da Silva in June 2026? Odds: 77.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Trump meet with Luiz Inácio Lula da Silva in June 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-09
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket", "trump"]
