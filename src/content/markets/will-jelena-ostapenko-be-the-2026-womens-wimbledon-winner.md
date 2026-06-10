@@ -11,7 +11,6 @@ polymarketYes: 0.5
 polymarketNo: 99.5
 polymarketVolume: 9888
 polymarketUrl: "https://polymarket.com/event/will-jelena-ostapenko-be-the-2026-womens-wimbledon-winner"
-analysisDate: 2026-06-10
 ---
 
 This market is fundamentally miscategorized as "politics" when it concerns professional tennis, which immediately signals either a data error or a venue misclassification that traders should flag. At 0.5% implied probability, the market is pricing Ostapenko as an extreme long-shot for the 2026 Wimbledon title, roughly 200-to-1 odds, which requires examining whether this reflects legitimate assessment of her trajectory or market dysfunction.

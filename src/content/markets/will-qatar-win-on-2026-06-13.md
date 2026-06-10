@@ -3,7 +3,7 @@ title: "Will Qatar win on 2026-06-13?"
 description: "Will Qatar win on 2026-06-13? Odds: 6.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Qatar win on 2026-06-13?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-10
 expiryDate: 2026-06-13
 tags: ["politics", "polymarket"]

@@ -9,9 +9,8 @@ expiryDate: 2026-06-14
 tags: ["politics", "polymarket"]
 polymarketYes: 31.5
 polymarketNo: 68.5
-polymarketVolume: 9915
+polymarketVolume: 9925
 polymarketUrl: "https://polymarket.com/event/fifwc-ger-kor-2026-06-14-first-half-total-2pt5"
-analysisDate: 2026-06-10
 ---
 
 # Germany vs. Curaçao: 1st Half O/U 2.5 Analysis

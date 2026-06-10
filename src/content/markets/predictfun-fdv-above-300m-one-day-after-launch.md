@@ -1,17 +1,16 @@
 ---
 title: "Predict.fun FDV above $300M one day after launch?"
-description: "Predict.fun FDV above $300M one day after launch? Odds: 68.5% YES on Polymarket. See live prices and trade this market."
+description: "Predict.fun FDV above $300M one day after launch? Odds: 69.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Predict.fun FDV above $300M one day after launch?"
 category: "crypto"
 status: "active"
 lastUpdated: 2026-06-10
 expiryDate: 2028-01-01
 tags: ["crypto", "polymarket"]
-polymarketYes: 68.5
-polymarketNo: 31.5
-polymarketVolume: 982816
+polymarketYes: 69.5
+polymarketNo: 30.5
+polymarketVolume: 982821
 polymarketUrl: "https://polymarket.com/event/predictfun-fdv-above-300m-one-day-after-launch"
-analysisDate: 2026-06-10
 ---
 
 The market pricing Predict.fun's fully diluted valuation above $300M at launch reflects strong confidence in crypto prediction markets, though the 2028 expiry date suggests significant uncertainty about actual launch timing and initial token distribution mechanics.

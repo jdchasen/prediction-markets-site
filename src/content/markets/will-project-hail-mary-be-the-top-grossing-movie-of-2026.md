@@ -9,9 +9,8 @@ expiryDate: 2026-12-31
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 0.4
 polymarketNo: 99.6
-polymarketVolume: 985729
+polymarketVolume: 986271
 polymarketUrl: "https://polymarket.com/event/will-project-hail-mary-be-the-top-grossing-movie-of-2026"
-analysisDate: 2026-06-10
 ---
 
 The Project Hail Mary film adaptation faces exceptionally long odds at 0.4% to become 2026's highest-grossing movie, reflecting both the competitive landscape and uncertainty around an untested sci-fi property despite strong source material from Andy Weir, author of The Martian.

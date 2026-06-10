@@ -3,7 +3,7 @@ title: "Will Trump speak to Keir Starmer in June?"
 description: "Will Trump speak to Keir Starmer in June? Odds: 94.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Trump speak to Keir Starmer in June?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-10
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket", "trump"]

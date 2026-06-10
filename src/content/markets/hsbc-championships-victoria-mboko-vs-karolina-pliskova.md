@@ -3,7 +3,7 @@ title: "HSBC Championships: Victoria Mboko vs Karolina Pliskova"
 description: "HSBC Championships: Victoria Mboko vs Karolina Pliskova Odds: 66.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "HSBC Championships: Victoria Mboko vs Karolina Pliskova"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-10
 expiryDate: 2026-06-17
 tags: ["politics", "polymarket"]

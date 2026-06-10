@@ -9,9 +9,8 @@ expiryDate: 2026-12-06
 tags: ["polymarket", "sports"]
 polymarketYes: 0.2
 polymarketNo: 99.8
-polymarketVolume: 9997391
+polymarketVolume: 9999409
 polymarketUrl: "https://polymarket.com/event/will-gabriel-bortoleto-be-the-2026-f1-drivers-champion"
-analysisDate: 2026-06-10
 ---
 
 The market prices Gabriel Bortoleto as an extreme longshot for the 2026 F1 title at 0.2%, reflecting his rookie status at Sauber (soon-to-be Audi) and the team's historically weak performance. This matters as a pure speculative play on whether a dramatic team transformation can occur before Audi's full 2026 takeover.

@@ -1,17 +1,16 @@
 ---
 title: "Will S&P 500 (SPY) hit (HIGH) $790 in June?"
-description: "Will S&P 500 (SPY) hit (HIGH) $790 in June? Odds: 4.2% YES on Polymarket. See live prices and trade this market."
+description: "Will S&P 500 (SPY) hit (HIGH) $790 in June? Odds: 3.6% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will S&P 500 (SPY) hit (HIGH) $790 in June?"
 category: "finance"
 status: "active"
 lastUpdated: 2026-06-10
 expiryDate: 2026-07-01
 tags: ["finance", "polymarket", "stocks"]
-polymarketYes: 4.2
-polymarketNo: 95.9
+polymarketYes: 3.6
+polymarketNo: 96.4
 polymarketVolume: 9751
 polymarketUrl: "https://polymarket.com/event/will-spy-reach-790-in-june-2026"
-analysisDate: 2026-06-10
 ---
 
 # SPY $790 by June 2026: A Near-Impossibility Priced In

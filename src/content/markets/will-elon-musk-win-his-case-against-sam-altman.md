@@ -9,9 +9,8 @@ expiryDate: 2026-12-31
 tags: ["ai", "polymarket", "tech"]
 polymarketYes: 3.5
 polymarketNo: 96.5
-polymarketVolume: 997265
+polymarketVolume: 997266
 polymarketUrl: "https://polymarket.com/event/will-elon-musk-win-his-case-against-sam-altman"
-analysisDate: 2026-06-10
 ---
 
 The prediction market heavily favors Sam Altman with a 96.5% probability of prevailing in Elon Musk's lawsuit, reflecting widespread skepticism about the legal merits of Musk's claims that OpenAI breached its founding mission by pivoting toward profit. The case centers on whether OpenAI violated alleged agreements to remain a pure open-source research lab when it created a capped-profit structure and partnered closely with Microsoft, transforming into what Musk characterizes as a de facto Microsoft subsidiary pursuing AGI for private gain rather than humanity's benefit.

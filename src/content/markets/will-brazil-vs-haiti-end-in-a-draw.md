@@ -3,7 +3,7 @@ title: "Will Brazil vs. Haiti end in a draw?"
 description: "Will Brazil vs. Haiti end in a draw? Odds: 6.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Brazil vs. Haiti end in a draw?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-10
 expiryDate: 2026-06-20
 tags: ["ai", "politics", "polymarket"]

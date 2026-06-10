@@ -3,7 +3,7 @@ title: "Florentino Perez out as Real Madrid president by December 31, 2026?"
 description: "Florentino Perez out as Real Madrid president by December 31, 2026? Odds: 6.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Florentino Perez out as Real Madrid president by December 31, 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-10
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]

@@ -1,17 +1,16 @@
 ---
 title: "Will Eisenkot join the Bennett-Lapid alliance by June 30?"
-description: "Will Eisenkot join the Bennett-Lapid alliance by June 30? Odds: 10.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Eisenkot join the Bennett-Lapid alliance by June 30? Odds: 6.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Eisenkot join the Bennett-Lapid alliance by June 30?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-06-10
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
-polymarketYes: 10.5
-polymarketNo: 89.5
-polymarketVolume: 9790
+polymarketYes: 6.5
+polymarketNo: 93.5
+polymarketVolume: 9919
 polymarketUrl: "https://polymarket.com/event/will-eisenkot-join-the-bennett-lapid-alliance-by-june-30"
-analysisDate: 2026-06-10
 ---
 
 # Eisenkot-Bennett-Lapid Alliance Market Analysis

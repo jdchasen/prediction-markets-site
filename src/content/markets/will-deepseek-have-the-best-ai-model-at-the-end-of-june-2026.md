@@ -8,10 +8,9 @@ lastUpdated: 2026-06-10
 expiryDate: 2026-06-30
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 0.1
-polymarketNo: 99.9
-polymarketVolume: 974609
+polymarketNo: 100.0
+polymarketVolume: 988210
 polymarketUrl: "https://polymarket.com/event/will-deepseek-have-the-best-ai-model-at-the-end-of-june-2026"
-analysisDate: 2026-06-10
 ---
 
 Polymarket traders are pricing DeepSeek's chances of having the leading AI model by June 2026 at near-zero, reflecting skepticism that the Chinese AI startup can surpass OpenAI, Google, and Anthropic within the next 18 months despite its recent cost-efficient R1 model gaining attention.

@@ -3,7 +3,7 @@ title: "Will France win on 2026-06-22?"
 description: "Will France win on 2026-06-22? Odds: 86.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will France win on 2026-06-22?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-10
 expiryDate: 2026-06-22
 tags: ["politics", "polymarket"]

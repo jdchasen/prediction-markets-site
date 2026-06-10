@@ -11,7 +11,6 @@ polymarketYes: 2.1
 polymarketNo: 98.0
 polymarketVolume: 97270
 polymarketUrl: "https://polymarket.com/event/extended-fdv-above-2b-one-day-after-launch-692-597-187"
-analysisDate: 2026-06-10
 ---
 
 The market pricing Extended's fully diluted valuation at only 2.1% chance of exceeding $2 billion on day one reflects deep skepticism about this token launch in an oversaturated restaking and DeFi landscape. This matters because it signals trader expectations that even well-funded projects face brutal valuation compression in current market conditions, with dozens of similar protocols competing for the same liquidity.
