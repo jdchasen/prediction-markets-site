@@ -3,8 +3,8 @@ title: "Will Leviatán win Valorant Masters London 2026?"
 description: "Will Leviatán win Valorant Masters London 2026? Odds: 8.3% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Leviatán win Valorant Masters London 2026?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-06-09
+status: "settled"
+lastUpdated: 2026-06-10
 expiryDate: 2026-06-21
 tags: ["polymarket", "sports"]
 polymarketYes: 8.3

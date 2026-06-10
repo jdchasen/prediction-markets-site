@@ -3,8 +3,8 @@ title: "Will Oura's market cap be between $7.5B and $10B at market close on IPO 
 description: "Will Oura's market cap be between $7.5B and $10B at market close on IPO day? Odds: 11.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Oura's market cap be between $7.5B and $10B at market close on IPO day?"
 category: "finance"
-status: "active"
-lastUpdated: 2026-06-09
+status: "settled"
+lastUpdated: 2026-06-10
 expiryDate: 2027-01-01
 tags: ["finance", "polymarket"]
 polymarketYes: 11.5

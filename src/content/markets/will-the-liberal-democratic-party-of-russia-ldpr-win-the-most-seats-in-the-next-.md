@@ -4,14 +4,13 @@ description: "Will the Liberal Democratic Party of Russia (LDPR) win the most se
 marketQuestion: "Will the Liberal Democratic Party of Russia (LDPR) win the most seats in the next Russian parliamentary election?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-06-09
+lastUpdated: 2026-06-10
 expiryDate: 2026-09-30
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.5
 polymarketNo: 99.5
-polymarketVolume: 99496
+polymarketVolume: 99766
 polymarketUrl: "https://polymarket.com/event/will-the-liberal-democratic-party-of-russia-ldpr-win-the-most-seats-in-the-next-russian-parliamentary-election"
-analysisDate: 2026-06-09
 ---
 
 The market assigns virtually no chance to the ultranationalist LDPR winning Russia's next parliamentary election, reflecting the party's structural disadvantages within Russia's managed democracy where United Russia maintains overwhelming dominance through state resources and electoral engineering.

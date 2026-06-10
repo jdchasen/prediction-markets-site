@@ -3,8 +3,8 @@ title: "Will Chicago White Sox win the 2026 AL Central title?"
 description: "Will Chicago White Sox win the 2026 AL Central title? Odds: 15.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Chicago White Sox win the 2026 AL Central title?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-06-09
+status: "settled"
+lastUpdated: 2026-06-10
 expiryDate: 2026-10-11
 tags: ["politics", "polymarket"]
 polymarketYes: 15.8

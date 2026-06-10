@@ -1,19 +1,20 @@
 ---
 title: "Florentino Perez out as Real Madrid president by December 31, 2026?"
-description: "Florentino Perez out as Real Madrid president by December 31, 2026? Odds: 6.3% YES on Polymarket. See live prices and trade this market."
+description: "Florentino Perez out as Real Madrid president by December 31, 2026? Odds: 6.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Florentino Perez out as Real Madrid president by December 31, 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-06-09
+lastUpdated: 2026-06-10
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]
-polymarketYes: 6.3
-polymarketNo: 93.7
-polymarketVolume: 99845
+polymarketYes: 6.4
+polymarketNo: 93.6
+polymarketVolume: 99929
 polymarketUrl: "https://polymarket.com/event/florentino-perez-out-as-real-madrid-president-by-december-31-2026"
+analysisDate: 2026-06-10
 ---
 
-Prediction markets give Florentino Pérez a 93.6% chance of remaining Real Madrid president through 2026, reflecting his seemingly unshakeable grip on power at one of football's most prestigious clubs despite recent competitive setbacks and ongoing controversies around the failed Super League project.
+Traders are pricing just a 6.4% probability that Florentino Perez will leave the Real Madrid presidency before 2027, reflecting his entrenched position as the club's most powerful figure since returning to office in 2009. While categorized as politics, this market hinges on institutional governance within one of football's most valuable organizations, where Perez has consolidated control through successive electoral victories and a loyal socio (member) base.
 
 ## Current Odds
 
@@ -23,31 +24,31 @@ Prediction markets give Florentino Pérez a 93.6% chance of remaining Real Madri
 
 ## Market Analysis
 
-The bear case for Pérez's tenure rests on Real Madrid's mounting sporting disappointments and member dissatisfaction. The club's inability to compete with state-backed rivals for top transfer targets, combined with an aging squad that has struggled in recent Champions League campaigns, could erode support among the socios (club members) who ultimately hold voting power. The Super League debacle continues to generate negative publicity, and if UEFA sanctions or legal defeats materialize over the next two years, they could provide the catalyst for opposition candidates to mount a serious challenge. Real Madrid's presidential elections require a challenger to gather signatures from 15% of socios with at least 20 years of membership and post a bond equivalent to 15% of the club's budget—approximately €120 million—but a sufficiently motivated opposition backed by wealthy benefactors could meet these requirements if Pérez's popularity crumbles.
+The bear case against Perez's departure centers on his uncontested grip on power. He ran unopposed in the 2021 elections, and Real Madrid's electoral rules require presidential candidates to have been club members for at least 20 years and provide a financial guarantee equivalent to 15% of the club's budget—barriers that effectively eliminate most challengers. His recent successes, including winning the 2024 Champions League and signing Kylian Mbappé for the 2024-25 season, have strengthened his political capital. The club's socios have shown little appetite for change, and no credible opposition figure has emerged with the financial backing and member support necessary to mount a challenge. The next scheduled elections aren't until 2025, and barring catastrophic sporting or financial results, Perez faces no serious pressure.
 
-The bull case is straightforward: Pérez has dominated Real Madrid politics since 2009 (and previously from 2000-2006) with no credible opposition emerging. He won his last election in 2021 unopposed, and the structural barriers to challenging him remain prohibitively high for most potential candidates. His successful delivery of the renovated Santiago Bernabéu stadium—now generating substantial new revenue streams—strengthens his position considerably. The club's financial management remains sound despite the pandemic impact, and recent signings like Bellingham demonstrate continued competitiveness. Pérez's extensive business connections and control over the club's communication apparatus make organizing effective opposition extremely difficult.
+The bull case for his exit relies on extraordinary circumstances. A scandal involving the European Super League project—which Perez championed and which faces ongoing legal scrutiny from UEFA—could potentially force his resignation if findings implicate him personally or damage the club's standing. Severe underperformance across multiple seasons, particularly finishing outside Champions League qualification spots, might trigger socio unrest. His age (he'll be 79 in 2026) introduces health considerations that could lead to voluntary resignation. Additionally, major financial irregularities or governance controversies could emerge, though Real Madrid's finances have remained relatively stable under his leadership.
 
-Key dates to monitor include Real Madrid's next scheduled presidential election in 2025, though the exact timing depends on Pérez's decision to stand for re-election. The club's performance in the 2024-25 and 2025-26 Champions League campaigns will prove critical—early exits could fuel discontent. Watch for developments in the ongoing Super League legal cases at the European Court of Justice and any major transfer market failures. The completion of Bernabéu renovation phases through 2025 and subsequent revenue reports will either validate or undermine Pérez's economic strategy. Any health issues given Pérez's age (77 currently, 79 by market expiry) represent an unpredictable variable, though he has shown no signs of stepping back voluntarily.
+Key dates to monitor include any European Super League legal developments expected throughout 2025, the club's annual general assemblies where financial results are presented, and potential electoral cycles if challengers emerge. Real Madrid's performance in the 2024-25 and 2025-26 seasons will be critical—consecutive failures to reach Champions League quarterfinals or a La Liga collapse would create the first real opening for opposition. Watch for any credible candidates with the requisite 20-year membership approaching the financial guarantee threshold, though the €150-200 million barrier remains prohibitive for most potential challengers.
 
 ## Related Markets
 
 - [Will Nikki Haley win the 2028 Republican presidential nomination?](/odds/will-nikki-haley-win-the-2028-republican-presidential-nomination) — 1% YES
-- [Will Yoaz Hendel be the next Prime Minister of Israel?](/odds/will-yoaz-hendel-be-the-next-prime-minister-of-israel) — 0% YES
-- [Will Avigdor Lieberman be the next Prime Minister of Israel?](/odds/will-avigdor-lieberman-be-the-next-prime-minister-of-israel) — 4% YES
+- [Will Avigdor Lieberman be the next Prime Minister of Israel?](/odds/will-avigdor-lieberman-be-the-next-prime-minister-of-israel) — 5% YES
+- [Will Mohammed bin Salman win the Nobel Peace Prize in 2026?](/odds/will-mohammed-bin-salman-win-the-nobel-peace-prize-in-2026) — 1% YES
 
 ## Frequently Asked Questions
 
-### What are the actual mechanisms for removing Pérez as Real Madrid president before his term expires?
+### What would actually trigger early elections before 2025, and could that lead to Perez's departure?
 
-Real Madrid socios can call a vote of no confidence if 15% of members with 20+ years of membership sign a petition, triggering new elections. Alternatively, Pérez could resign voluntarily or be incapacitated, though neither scenario appears likely given his personality and apparent health.
+Only a board no-confidence vote or Perez's voluntary resignation can trigger early elections. The club's governance structure makes a no-confidence vote extremely unlikely given current board composition loyal to Perez.
 
-### Why is the €120 million bond requirement such a significant barrier to challengers?
+### How does the European Super League legal situation factor into this market's timeline?
 
-The bond equals 15% of Real Madrid's annual budget and must be posted personally by any presidential candidate, effectively limiting challengers to Spain's ultra-wealthy elite. This requirement has prevented serious opposition from emerging since Pérez's return in 2009, as few individuals can commit such capital even temporarily.
+Court of Justice of the European Union rulings on the Super League's legality could emerge in 2025, and adverse findings combined with financial penalties might damage Perez's standing enough to force resignation, though this remains a long-shot scenario.
 
-### How would Real Madrid's potential Champions League failures between now and 2026 actually translate into Pérez losing power?
+### What sporting threshold would realistically threaten Perez's position given Real Madrid's recent success?
 
-Sustained poor performances could embolden a wealthy challenger to meet the candidacy requirements and mobilize socios who feel the club has fallen behind rivals like Manchester City or PSG. However, even after disappointing seasons, no credible alternative candidates have emerged with both the financial means and member support necessary to mount a campaign.
+Missing Champions League qualification for consecutive seasons or finishing outside La Liga's top four would represent unprecedented failure under Perez, potentially mobilizing socio opposition, but even this might not overcome the structural barriers preventing credible challengers from emerging.
 
 ## Learn More
 

@@ -1,17 +1,16 @@
 ---
 title: "Will Keir Starmer be a candidate in the next Labour Party leadership election?"
-description: "Will Keir Starmer be a candidate in the next Labour Party leadership election? Odds: 54.0% YES on Polymarket. See live prices and trade this market."
+description: "Will Keir Starmer be a candidate in the next Labour Party leadership election? Odds: 58.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Keir Starmer be a candidate in the next Labour Party leadership election?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-06-09
+lastUpdated: 2026-06-10
 expiryDate: 2026-12-31
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 54.0
-polymarketNo: 46.0
-polymarketVolume: 9965
+polymarketYes: 58.5
+polymarketNo: 41.5
+polymarketVolume: 9973
 polymarketUrl: "https://polymarket.com/event/will-keir-starmer-be-a-candidate-in-the-next-labour-party-leadership-election"
-analysisDate: 2026-06-09
 ---
 
 The market pricing Starmer at 54% to be a candidate in the next Labour leadership election reflects genuine uncertainty about whether the new Prime Minister can maintain his party's support through what could be a difficult parliamentary term lasting until January 2025 or beyond.

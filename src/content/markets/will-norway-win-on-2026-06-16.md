@@ -3,8 +3,8 @@ title: "Will Norway win on 2026-06-16?"
 description: "Will Norway win on 2026-06-16? Odds: 80.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Norway win on 2026-06-16?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-06-09
+status: "settled"
+lastUpdated: 2026-06-10
 expiryDate: 2026-06-16
 tags: ["politics", "polymarket"]
 polymarketYes: 80.5

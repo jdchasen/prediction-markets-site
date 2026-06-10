@@ -1,17 +1,16 @@
 ---
 title: "Tread FDV above $200M one day after launch"
-description: "Tread FDV above $200M one day after launch Odds: 9.0% YES on Polymarket. See live prices and trade this market."
+description: "Tread FDV above $200M one day after launch Odds: 7.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Tread FDV above $200M one day after launch"
 category: "crypto"
 status: "active"
-lastUpdated: 2026-06-09
+lastUpdated: 2026-06-10
 expiryDate: 2028-01-01
 tags: ["crypto", "polymarket"]
-polymarketYes: 9.0
-polymarketNo: 91.0
-polymarketVolume: 9785
+polymarketYes: 7.5
+polymarketNo: 92.5
+polymarketVolume: 9977
 polymarketUrl: "https://polymarket.com/event/tread-fdv-above-200m-one-day-after-launch"
-analysisDate: 2026-06-09
 ---
 
 # Tread FDV Analysis

@@ -4,16 +4,17 @@ description: "Will Eisenkot join the Bennett-Lapid alliance by June 30? Odds: 10
 marketQuestion: "Will Eisenkot join the Bennett-Lapid alliance by June 30?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-06-09
+lastUpdated: 2026-06-10
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
 polymarketYes: 10.5
 polymarketNo: 89.5
 polymarketVolume: 9790
 polymarketUrl: "https://polymarket.com/event/will-eisenkot-join-the-bennett-lapid-alliance-by-june-30"
+analysisDate: 2026-06-10
 ---
 
-# Eisenkot-Bennett-Lapid Alliance Analysis
+# Eisenkot-Bennett-Lapid Alliance Market Analysis
 
 ## Current Odds
 
@@ -23,31 +24,33 @@ polymarketUrl: "https://polymarket.com/event/will-eisenkot-join-the-bennett-lapi
 
 ## Market Analysis
 
-With roughly 18 months until expiration, this market is pricing in significant skepticism about Gadi Eisenkot joining the centrist National Unity bloc led by Benny Gantz, with the Bennett-Lapid faction representing a competing center-right coalition. The current 10.5% odds reflect the structural difficulty of Israeli coalition mathematics and Eisenkot's positioning as a potential kingmaker who can afford to remain independent. This matters because Eisenkot's alignment choice could determine whether the Bennett-Lapid alliance gains negotiating leverage in post-election coalition talks or remains marginalized.
+The market is pricing in a roughly 1-in-10 chance that former IDF Chief of Staff Gadi Eisenkot joins the Bennett-Lapid political bloc by mid-2026, reflecting significant skepticism about coalition realignment in Israeli politics. This matters because Eisenkot represents a potential bridging figure between right-wing security hawks and centrist reformers, and his alignment could reshape the opposition's viability ahead of potential snap elections or the 2026 electoral cycle.
 
-The bull case for YES rests on Eisenkot's demonstrated willingness to cooperate across ideological lines—he's already shown flexibility by considering various political partnerships since entering electoral politics in 2023. If Bennett-Lapid stabilizes around 15-18 seats in upcoming polling cycles and Eisenkot's Telem party stalls below 4%, a merger could become arithmetically necessary to ensure survival past the electoral threshold. Additionally, if Netanyahu's government destabilizes before mid-2026 and early elections are called, coalition pressures could accelerate unconventional alliances. The bear case is substantially stronger: Eisenkot has consistently positioned himself as a principled outsider and political independent, explicitly resisting pre-election blocs. He holds genuine ideological distance from both Bennett and Lapid on settlement policy and judicial reform, and maintaining independence gives him maximum leverage in actual coalition negotiations. Bennett-Lapid's recent polling weakness (combined 10-12 seats) makes them less attractive partners than National Unity or right-wing blocs seeking to build majority coalitions.
+The bull case hinges on three factors: Eisenkot's demonstrated political independence and willingness to challenge Netanyahu's government, the Bennett-Lapid alliance's need for a credible security voice to compete with Likud, and the possibility of legislative realignment if current coalition dynamics destabilize. If Netanyahu's coalition fractures over judicial reform or security policy disputes by late 2025, Eisenkot could become a linchpin for a centrist-right alternative government. Recent polling showing public appetite for new leadership beyond Netanyahu and Ben-Gvir creates space for this scenario, particularly if security tensions spike and voters demand fresh security credentials.
 
-Key catalysts include Knesset elections if snap elections occur before June 2026 (the current government faces potential stability tests in 2025), Eisenkot's polling trajectory through 2025 (dropping below 3% would pressure merger talks), and any major security or judicial crises that could reshape coalition calculations. Watch for Bennett's political activity and Lapid's statements about coalition strategy—public merger discussions would signal serious negotiations. Traders should monitor Israeli political news closely through Q3 2025, as this is when pre-election alliance announcements typically cluster.
+The bear case dominates current pricing because Eisenkot has consistently avoided formal party politics despite his public criticism of Netanyahu, preferring institutional roles and media commentary. Bennett and Lapid themselves have fractious recent history—their previous coalition collapsed in 2022—and their current alliance remains fragile and ideologically misaligned on settlements and Palestinian issues. Eisenkot joining would require him to abandon his carefully cultivated position above partisan politics, an unlikely move given his stated preference for security-focused technocratic roles. Additionally, if the current coalition holds through 2026 or if new elections occur within months rather than in June 2026, the window for this specific alliance closes entirely.
+
+Watch for three catalysts: any major government collapse triggering coalition negotiations (typically happens on 90-day notice), Eisenkot accepting a formal political position or party leadership offer before March 2026, and Bennett-Lapid poll numbers hitting thresholds that make them mathematically viable as a coalition nucleus. Track his public statements for softening language toward the alliance and monitor Knesset voting patterns on contentious judicial and defense bills that might push him toward formal alignment. The 18-month timeframe is crucial—political windows in Israel close quickly, and the specific June 30, 2026 deadline suggests this market is betting on formal declarations rather than loose coordination.
 
 ## Related Markets
 
 - [Will Nikki Haley win the 2028 Republican presidential nomination?](/odds/will-nikki-haley-win-the-2028-republican-presidential-nomination) — 1% YES
-- [Will Yoaz Hendel be the next Prime Minister of Israel?](/odds/will-yoaz-hendel-be-the-next-prime-minister-of-israel) — 0% YES
-- [Will Avigdor Lieberman be the next Prime Minister of Israel?](/odds/will-avigdor-lieberman-be-the-next-prime-minister-of-israel) — 4% YES
+- [Will Avigdor Lieberman be the next Prime Minister of Israel?](/odds/will-avigdor-lieberman-be-the-next-prime-minister-of-israel) — 5% YES
+- [Will Mohammed bin Salman win the Nobel Peace Prize in 2026?](/odds/will-mohammed-bin-salman-win-the-nobel-peace-prize-in-2026) — 1% YES
 
 ## Frequently Asked Questions
 
-### What happens to this market if elections are called before June 2026 and Eisenkot joins Bennett-Lapid only after the election during coalition talks?
+### What distinguishes Eisenkot's current political position from Bennett or Lapid's that makes him attractive to their alliance?
 
-The market resolves NO—the resolution criteria requires him to join "by June 30," meaning before the election, not during post-election coalition negotiations.
+Eisenkot lacks partisan baggage and maintains independent credibility on security matters across the political spectrum, whereas Bennett and Lapid are seen as ideologically committed centrists; his addition would signal the alliance has moved beyond left-right positioning toward security-focused governance.
 
-### How much does Eisenkot's recent polling weakness change the probability he merges with Bennett-Lapid?
+### If the current coalition government remains stable through 2026, does this market essentially become impossible to resolve YES?
 
-Weakness increases merger pressure significantly, but Eisenkot has stated he'd rather drop below the threshold than compromise on principles, suggesting even declining polls may not force a merger.
+Effectively yes—without coalition collapse triggering realignment negotiations, Eisenkot has minimal incentive to join a parliamentary opposition alliance, making the June 30 deadline increasingly irrelevant as stability continues.
 
-### Could Bennett-Lapid dissolving or one of them leaving politics before June 2026 affect market resolution?
+### Are there precedents for Israeli security establishment figures like Eisenkot joining established parliamentary alliances?
 
-Yes—if either Bennett or Lapid exits or if they split into separate factions, the specific "Bennett-Lapid alliance" as defined would no longer exist, creating ambiguity in how the market resolves.
+Yes—Ehud Barak, Moshe Arens, and others have transitioned from military leadership to party politics, but typically only after explicit political repositioning; Eisenkot's resistance to formal party affiliation suggests he's following a different model than his predecessors.
 
 ## Learn More
 

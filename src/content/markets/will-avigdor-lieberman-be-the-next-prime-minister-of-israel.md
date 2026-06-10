@@ -4,50 +4,51 @@ description: "Will Avigdor Lieberman be the next Prime Minister of Israel? Odds:
 marketQuestion: "Will Avigdor Lieberman be the next Prime Minister of Israel?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-06-09
+lastUpdated: 2026-06-10
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 4.7
 polymarketNo: 95.3
-polymarketVolume: 994610
+polymarketVolume: 998517
 polymarketUrl: "https://polymarket.com/event/will-avigdor-lieberman-be-the-next-prime-minister-of-israel"
+analysisDate: 2026-06-10
 ---
 
-Avigdor Lieberman, the secular nationalist leader of Yisrael Beiteinu, sits at just 4.5% odds to become Israel's next Prime Minister—a longshot position reflecting his party's persistent single-digit polling and the structural challenges facing mid-sized parties in Israel's fragmented political system. The question matters because Israel's coalition government remains unstable, and any path to a post-Netanyahu era requires understanding which secondary figures could potentially assemble a governing majority.
+Avigdor Lieberman, the secular nationalist leader of Yisrael Beiteinu, currently faces single-digit odds to become Israel's next Prime Minister, reflecting his position as a kingmaker rather than a top contender in Israel's fragmented political landscape. The market matters because Israel's government coalition remains unstable, and Lieberman has historically proven pivotal in coalition negotiations despite his party's modest size of typically 5-7 Knesset seats.
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 4.5% | 95.5% | $992K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 4.7% | 95.3% | $999K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The bull case centers on Israel's chronic political volatility and Lieberman's strategic positioning as a kingmaker who appeals to both right-wing security hawks and secular voters frustrated with religious parties. If Netanyahu's coalition collapses and subsequent elections produce another deadlock, Lieberman could emerge as a compromise candidate acceptable to both Likud defectors and center-left parties seeking to block a more extreme alternative. His willingness to sit out previous governments over ultra-Orthodox conscription issues demonstrates he can play hardball, and a scenario where Yesh Atid, National Unity, and moderate right-wing parties all underperform could create an opening. Lieberman's Russian-speaking base remains loyal, and unexpected security events could boost his hardline credentials.
+The bull case rests on a scenario where neither Benjamin Netanyahu nor Benny Gantz can form a majority coalition after the next election, forcing smaller parties to unite behind a compromise candidate. Lieberman's secularist platform could theoretically bridge the divide between center-left and right-wing parties if they agree to exclude ultra-Orthodox parties, replicating dynamics from 2019-2020 when he blocked Netanyahu's coalition efforts. His strong stance on military service for ultra-Orthodox Jews and economic reforms appeals to Russian-speaking voters and secular Israelis frustrated with religious influence in politics. A complete collapse of both Likud and the current opposition leadership could create an opening for an outsider consensus candidate.
 
-The bear case is overwhelming: Yisrael Beiteinu consistently polls between 4-6 seats out of 120 in the Knesset, far below the 20+ seats typically needed to lead a coalition. Benny Gantz and Yair Lapid command significantly larger centrist and center-right blocs, making them natural alternatives to Netanyahu. Lieberman's abrasive style and narrow electoral base—primarily Russian-speaking immigrants—limits his ability to expand support. Israel's political history shows that Prime Ministers almost always come from the largest or second-largest party, and no current polling suggests Yisrael Beiteinu breaking into that tier. His age (68) and the party's failure to grow beyond its niche over two decades indicate structural limitations.
+The bear case is overwhelming: Lieberman has never polled above 10% nationally, and Israeli voters consistently favor leaders from larger parties with proven ability to command majority coalitions. Current polling shows Likud and National Unity (Gantz's party) dominating at 25-30 seats each, while Yisrael Beiteinu consistently registers in the 5-7 seat range. Israel's political system strongly favors major party leaders who can attract 30+ seats as natural coalition leaders. Lieberman's abrasive style and narrow base among Russian immigrants limits his appeal for coalition partners seeking broad legitimacy.
 
-Key catalysts include Israel's budget passage deadline in March 2025, which could trigger coalition tensions, and any potential criminal proceedings developments in Netanyahu's ongoing trial. Polling throughout 2025 will be critical—watch whether Lieberman's party gains momentum above 8 seats, which would be necessary before premiership odds become credible. The ultra-Orthodox conscription debate, scheduled for renewed Knesset discussion in early 2025, could elevate Lieberman's profile if it fractures the coalition. Traders should monitor whether Gantz or Lapid stumble badly enough to create a vacuum, though even then, other figures like Naftali Bennett returning to politics would likely be favored over Lieberman.
+Key catalysts include any early election call—none currently scheduled but possible given coalition tensions—and Lieberman's performance in positioning himself during coalition negotiations. Traders should monitor government stability votes in the Knesset, particularly around budget deadlines in late March 2025, as well as polling that shows either major bloc falling below the 61-seat threshold. Watch whether Lieberman maintains his demand for ultra-Orthodox conscription, which could either enhance his kingmaker status or isolate him from right-wing coalition mathematics. The prosecution of Netanyahu's corruption trial, with verdict potential in late 2025, represents another variable that could fracture existing political alignments.
 
 ## Related Markets
 
 - [Will Nikki Haley win the 2028 Republican presidential nomination?](/odds/will-nikki-haley-win-the-2028-republican-presidential-nomination) — 1% YES
-- [Will Yoaz Hendel be the next Prime Minister of Israel?](/odds/will-yoaz-hendel-be-the-next-prime-minister-of-israel) — 0% YES
 - [Will Mohammed bin Salman win the Nobel Peace Prize in 2026?](/odds/will-mohammed-bin-salman-win-the-nobel-peace-prize-in-2026) — 1% YES
+- [Will Leo Zacky win the California Governor Election in 2026?](/odds/will-leo-zacky-win-the-california-governor-election-in-2026) — 0% YES
 
 ## Frequently Asked Questions
 
-### Could Lieberman become PM without winning the most Knesset seats?
+### Has Lieberman ever served as Prime Minister or come close to leading a government?
 
-Technically yes, as Israel's President chooses whoever can form a coalition, but this would require both major blocs deadlocking so severely that Lieberman's 5-6 seats become indispensable—an extremely unlikely scenario that has never occurred at his party's size.
+No, Lieberman has never been a serious Prime Minister candidate, serving instead as Foreign Minister and Defense Minister in various coalitions. His highest-profile role was as kingmaker in 2019-2020 when he prevented Netanyahu from forming a government by refusing to join coalitions with ultra-Orthodox parties.
 
-### What would need to happen for Lieberman's odds to reach 20% or higher?
+### What would need to happen for Lieberman to actually become Prime Minister given his party's small size?
 
-His party would need to poll consistently above 15 seats while both Netanyahu and the main opposition leaders face simultaneous crises—such as Netanyahu's legal troubles forcing his exit and Gantz/Lapid suffering major scandals or security failures that collapse their support.
+Both major blocs (Netanyahu's right-wing coalition and the center-left opposition) would need to deadlock without a 61-seat majority, forcing smaller parties to unite behind a compromise figure who isn't from Likud or National Unity. This would require an unprecedented level of political fragmentation and willingness to accept a leader from a 5-7 seat party.
 
-### Does Lieberman's role in previous coalition negotiations make him more likely to become PM?
+### Why does the market extend to December 2026 when Israel hasn't scheduled elections?
 
-His kingmaker status paradoxically works against him—parties prefer negotiating with him as a junior partner rather than accepting him as leader, and his past demands have made him enemies across the spectrum who would block his path to the premiership.
+Israeli governments frequently collapse before their four-year terms end—the country held five elections between 2019-2022. The current coalition faces ongoing stability challenges, and the market timeframe accounts for the possibility of early elections or government changes through coalition reshuffling before the scheduled 2026 election date.
 
 ## Learn More
 

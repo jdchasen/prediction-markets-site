@@ -1,53 +1,54 @@
 ---
 title: "Will Dan Cox win the 2026 Maryland Governor Republican primary election?"
-description: "Will Dan Cox win the 2026 Maryland Governor Republican primary election? Odds: 67.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Dan Cox win the 2026 Maryland Governor Republican primary election? Odds: 69.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Dan Cox win the 2026 Maryland Governor Republican primary election?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-06-09
+lastUpdated: 2026-06-10
 expiryDate: 2026-06-23
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 67.5
-polymarketNo: 32.5
-polymarketVolume: 97546
+polymarketYes: 69.0
+polymarketNo: 31.0
+polymarketVolume: 97560
 polymarketUrl: "https://polymarket.com/event/will-dan-cox-win-the-2026-maryland-governor-republican-primary-election"
+analysisDate: 2026-06-10
 ---
 
-Dan Cox, the Trump-endorsed conservative who lost badly to Democrat Wes Moore in 2022, is trading at roughly two-to-one odds to capture the 2026 Maryland Republican gubernatorial primary, a market that reflects his continued name recognition against a still-forming field but also the party's unresolved tension over electability versus ideological purity.
+Dan Cox enters the 2026 Maryland Republican gubernatorial primary as the heavy favorite at 69% odds, reflecting both his high name recognition from his 2022 loss to Wes Moore and the lack of visible challengers in what remains a structurally difficult state for Republicans.
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 67.5% | 32.5% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 69.0% | 31.0% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The bull case centers on Cox's established donor network, his ability to mobilize the MAGA base in a low-turnout primary, and the absence of a clear establishment alternative who can consolidate moderate Republican support. Maryland's Republican primary electorate skews considerably more conservative than the general electorate, which historically favors candidates like Cox who can energize the party's right wing. His 2022 campaign infrastructure remains largely intact, and early fundraising reports due in January 2026 will indicate whether he's maintained financial viability. If the moderate lane splinters among multiple candidates—similar to how Cox won the 2022 primary with just 56% against former Commerce Secretary Kelly Schulz—his path becomes significantly clearer.
+The bull case centers on Cox's existing political infrastructure and donor base from his recent statewide campaign, combined with his strong appeal to Maryland's Trump-aligned GOP base that delivered him the 2022 primary victory over moderate Kelly Schulz. No serious Republican challenger has emerged publicly as of early 2025, giving Cox a massive fundraising and organizational head start. His endorsement by Trump in 2022 maintains relevance in a party where the former president's influence persists, and Maryland's Republican primary electorate skews notably more conservative than the general electorate. Cox can also position himself as the candidate who's "earned his turn" after enduring a 32-point general election loss, a narrative that sometimes resonates with loyal primary voters.
 
-The bear case questions whether Republicans will nominate a candidate who lost by 32 points in the previous cycle, the worst performance by a Maryland gubernatorial candidate in decades. Party leadership publicly blamed Cox's loss for damaging downballot races, and there's substantial appetite for a nominee who can actually compete in November 2026. Potential moderate challengers like former Governor Larry Hogan (though he's indicated disinterest in running again) or business-oriented Republicans could consolidate anti-Cox sentiment if they enter by the filing deadline in February 2026. Cox's extreme positions on abortion and 2020 election denial remain liabilities even in a primary, particularly as suburban Maryland Republicans have shown increasing willingness to support pragmatic candidates.
+The bear case highlights that Cox's catastrophic 2022 performance—losing by the widest margin for a Maryland gubernatorial candidate in decades—makes him toxic to party pragmatists seeking electability. Former Governor Larry Hogan's allies and the moderate Republican establishment may recruit a more viable candidate, potentially someone from the business community or a former state legislator willing to challenge Cox's Trump-wing dominance. The Maryland Republican Party leadership, sobered by consecutive losses, could actively work to clear the field for an alternative. Cox's association with election denialism and his attendance at the January 6th rally (though not at the Capitol itself) remain vulnerabilities that a well-funded opponent could exploit even in a primary. Filing deadlines in early 2026 will clarify whether serious opposition materializes.
 
-Critical catalysts include the candidate filing deadline in February 2026, Q1 2026 fundraising reports, and any GOP establishment recruitment efforts becoming public in late 2025. The Maryland Republican Party convention in spring 2026 will signal whether party insiders coalesce behind an alternative. Polling of likely Republican primary voters remains scarce, but general election polling consistently shows Maryland voters' negative view of Cox has not softened since 2022. Traders should monitor whether any Trump-skeptical Republicans with statewide name recognition enter the race, as Cox's odds would likely drop 15-20 points with credible moderate opposition.
+Key catalysts include Maryland's candidate filing deadline in February 2026, after which the competitive landscape becomes clear. Any announcement by a well-known Maryland Republican—such as a former member of Congress, a Hogan cabinet official, or a prominent business figure—would immediately shift these odds downward. Fundraising reports due in early 2026 will signal whether Cox can maintain financial dominance or whether a challenger is gaining traction. Trump's own legal and political trajectory through 2025-2026 matters significantly, as weakening Trump support nationally could diminish Cox's primary advantage. Watch for Maryland GOP county-level endorsements and whether establishment figures rally around an alternative or reluctantly accept Cox as the nominee again.
 
 ## Related Markets
 
 - [Will Nikki Haley win the 2028 Republican presidential nomination?](/odds/will-nikki-haley-win-the-2028-republican-presidential-nomination) — 1% YES
-- [Will Yoaz Hendel be the next Prime Minister of Israel?](/odds/will-yoaz-hendel-be-the-next-prime-minister-of-israel) — 0% YES
-- [Will Avigdor Lieberman be the next Prime Minister of Israel?](/odds/will-avigdor-lieberman-be-the-next-prime-minister-of-israel) — 4% YES
+- [Will Avigdor Lieberman be the next Prime Minister of Israel?](/odds/will-avigdor-lieberman-be-the-next-prime-minister-of-israel) — 5% YES
+- [Will Mohammed bin Salman win the Nobel Peace Prize in 2026?](/odds/will-mohammed-bin-salman-win-the-nobel-peace-prize-in-2026) — 1% YES
 
 ## Frequently Asked Questions
 
-### Could Larry Hogan's decision about running again significantly impact this market even though he's said he's not interested?
+### Could Larry Hogan himself run and challenge Cox in the primary after his Senate loss?
 
-Absolutely. If Hogan reversed course and entered the primary, Cox's odds would crater immediately as Hogan commands near-universal name recognition and donor access. Even Hogan actively recruiting and endorsing an alternative candidate would substantially hurt Cox's chances.
+Hogan has given no indication of interest in another gubernatorial run and appears focused on national Republican politics. However, his potential endorsement of an alternative candidate could significantly reshape the primary dynamics.
 
-### How did Dan Cox win the 2022 primary if he's so controversial within the party?
+### What advantage does Cox gain from being the 2022 nominee besides name recognition?
 
-Cox won with 56% in a two-way race against Kelly Schulz, benefiting from Trump's endorsement and strong turnout among conservative activists, while Maryland's small Republican primary electorate (roughly 200,000 voters) skews far more conservative than the general population.
+He retains the campaign infrastructure, donor relationships, and volunteer networks from that race, plus established relationships with conservative media and grassroots organizations that dominate Maryland GOP primary turnout.
 
-### What vote threshold does Cox need in the 2026 primary if multiple candidates enter the race?
+### How does Maryland's primary system affect Cox's chances compared to other states?
 
-Maryland requires only a plurality to win the primary with no runoff, meaning Cox could potentially win with 35-40% if three or more credible candidates split the vote, making field composition crucial to this market's resolution.
+Maryland holds a closed primary restricted to registered Republicans, which benefits Trump-aligned candidates like Cox since the primary electorate is considerably more conservative than the state's broader Republican-leaning voter base that includes independents.
 
 ## Learn More
 

@@ -3,8 +3,8 @@ title: "Will Julie Gonzales be the Democratic nominee for Senate in Colorado?"
 description: "Will Julie Gonzales be the Democratic nominee for Senate in Colorado? Odds: 8.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Julie Gonzales be the Democratic nominee for Senate in Colorado?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-06-09
+status: "settled"
+lastUpdated: 2026-06-10
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
 polymarketYes: 8.8

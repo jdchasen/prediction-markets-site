@@ -4,14 +4,13 @@ description: "Will Mohammed bin Salman win the Nobel Peace Prize in 2026? Odds: 
 marketQuestion: "Will Mohammed bin Salman win the Nobel Peace Prize in 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-06-09
+lastUpdated: 2026-06-10
 expiryDate: 2026-10-10
 tags: ["politics", "polymarket"]
 polymarketYes: 0.7
 polymarketNo: 99.4
-polymarketVolume: 990710
+polymarketVolume: 993531
 polymarketUrl: "https://polymarket.com/event/will-mohammed-bin-salman-win-the-nobel-peace-prize-in-2026"
-analysisDate: 2026-06-09
 ---
 
 This market prices an extremely unlikely outcome at less than 1%, reflecting the substantial gap between Saudi Arabia's geopolitical position and the Nobel Committee's traditional values, though recent normalization efforts in the Middle East have sparked speculative interest in Crown Prince Mohammed bin Salman as a potential peace broker.

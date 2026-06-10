@@ -4,14 +4,13 @@ description: "Will Edmundo González be the leader of Venezuela end of 2026? Odd
 marketQuestion: "Will Edmundo González be the leader of Venezuela end of 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-06-09
+lastUpdated: 2026-06-10
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 0.6
 polymarketNo: 99.4
-polymarketVolume: 981437
+polymarketVolume: 984231
 polymarketUrl: "https://polymarket.com/event/will-edmundo-gonzlez-be-the-leader-of-venezuela-end-of-2026"
-analysisDate: 2026-06-09
 ---
 
 Traders have essentially written off Edmundo González's chances of leading Venezuela by the end of 2026, pricing his odds at an almost negligible 0.6%, reflecting the extreme difficulty of displacing Nicolás Maduro's entrenched authoritarian regime despite González's claimed victory in the disputed 2024 presidential election.

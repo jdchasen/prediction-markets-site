@@ -3,8 +3,8 @@ title: "Will the price of Bitcoin be above $56,000 on June 15?"
 description: "Will the price of Bitcoin be above $56,000 on June 15? Odds: 94.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the price of Bitcoin be above $56,000 on June 15?"
 category: "crypto"
-status: "active"
-lastUpdated: 2026-06-09
+status: "settled"
+lastUpdated: 2026-06-10
 expiryDate: 2026-06-15
 tags: ["bitcoin", "crypto", "polymarket"]
 polymarketYes: 94.2

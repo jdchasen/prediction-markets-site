@@ -3,8 +3,8 @@ title: "Will Natural Gas (NG) hit (HIGH) $3.60 in June?"
 description: "Will Natural Gas (NG) hit (HIGH) $3.60 in June? Odds: 22.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Natural Gas (NG) hit (HIGH) $3.60 in June?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-06-09
+status: "settled"
+lastUpdated: 2026-06-10
 expiryDate: 2026-07-01
 tags: ["politics", "polymarket"]
 polymarketYes: 22.0

@@ -4,14 +4,13 @@ description: "Will Coco Gauff win the 2026 Women’s US Open? Odds: 7.1% YES on 
 marketQuestion: "Will Coco Gauff win the 2026 Women’s US Open?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-06-09
+lastUpdated: 2026-06-10
 expiryDate: 2026-09-13
 tags: ["politics", "polymarket"]
 polymarketYes: 7.1
 polymarketNo: 92.9
 polymarketVolume: 9763
 polymarketUrl: "https://polymarket.com/event/will-coco-gauff-win-the-2026-womens-us-open"
-analysisDate: 2026-06-09
 ---
 
 # Coco Gauff 2026 US Open Analysis
