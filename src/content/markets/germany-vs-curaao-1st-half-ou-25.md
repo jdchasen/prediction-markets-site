@@ -3,8 +3,8 @@ title: "Germany vs. Curaçao: 1st Half O/U 2.5"
 description: "Germany vs. Curaçao: 1st Half O/U 2.5 Odds: 31.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Germany vs. Curaçao: 1st Half O/U 2.5"
 category: "politics"
-status: "active"
-lastUpdated: 2026-06-10
+status: "settled"
+lastUpdated: 2026-06-11
 expiryDate: 2026-06-14
 tags: ["politics", "polymarket"]
 polymarketYes: 31.5

@@ -3,8 +3,8 @@ title: "Will Desire Doue be the top goalscorer at the 2026 FIFA World Cup?"
 description: "Will Desire Doue be the top goalscorer at the 2026 FIFA World Cup? Odds: 0.6% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Desire Doue be the top goalscorer at the 2026 FIFA World Cup?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-06-10
+status: "settled"
+lastUpdated: 2026-06-11
 expiryDate: 2026-07-20
 tags: ["polymarket", "sports"]
 polymarketYes: 0.6

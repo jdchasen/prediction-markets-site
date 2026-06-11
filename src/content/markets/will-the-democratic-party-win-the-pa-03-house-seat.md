@@ -4,14 +4,13 @@ description: "Will the Democratic Party win the PA-03 House seat? Odds: 94.5% YE
 marketQuestion: "Will the Democratic Party win the PA-03 House seat?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-06-10
+lastUpdated: 2026-06-11
 expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
 polymarketYes: 94.5
 polymarketNo: 5.5
-polymarketVolume: 9889
+polymarketVolume: 9893
 polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-pa-03-house-seat"
-analysisDate: 2026-06-10
 ---
 
 # PA-03 Democratic Hold: A Heavily Favored Seat with Limited Upside Risk

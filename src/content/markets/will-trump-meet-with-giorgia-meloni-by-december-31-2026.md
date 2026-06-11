@@ -1,17 +1,16 @@
 ---
 title: "Will Trump meet with Giorgia Meloni by December 31, 2026?"
-description: "Will Trump meet with Giorgia Meloni by December 31, 2026? Odds: 96.8% YES on Polymarket. See live prices and trade this market."
+description: "Will Trump meet with Giorgia Meloni by December 31, 2026? Odds: 97.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Trump meet with Giorgia Meloni by December 31, 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-06-10
+lastUpdated: 2026-06-11
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket", "trump"]
-polymarketYes: 96.8
-polymarketNo: 3.2
-polymarketVolume: 9742
+polymarketYes: 97.5
+polymarketNo: 2.5
+polymarketVolume: 9831
 polymarketUrl: "https://polymarket.com/event/will-trump-meet-with-giorgia-meloni-by-december-31-2026"
-analysisDate: 2026-06-10
 ---
 
 # Trump-Meloni Meeting by End of 2026: Near-Certainty Pricing

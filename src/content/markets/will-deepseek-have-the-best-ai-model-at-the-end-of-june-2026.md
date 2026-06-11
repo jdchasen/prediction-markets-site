@@ -4,50 +4,51 @@ description: "Will DeepSeek have the best AI model at the end of June 2026? Odds
 marketQuestion: "Will DeepSeek have the best AI model at the end of June 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-06-10
+lastUpdated: 2026-06-11
 expiryDate: 2026-06-30
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 0.1
 polymarketNo: 100.0
-polymarketVolume: 988210
+polymarketVolume: 988851
 polymarketUrl: "https://polymarket.com/event/will-deepseek-have-the-best-ai-model-at-the-end-of-june-2026"
+analysisDate: 2026-06-11
 ---
 
-Polymarket traders are pricing DeepSeek's chances of having the leading AI model by June 2026 at near-zero, reflecting skepticism that the Chinese AI startup can surpass OpenAI, Google, and Anthropic within the next 18 months despite its recent cost-efficient R1 model gaining attention.
+Traders are pricing DeepSeek's chances of leading AI development by mid-2026 at near-zero, reflecting deep skepticism about a Chinese AI lab overtaking established Western competitors in the next two years. This matters because it crystallizes market sentiment on whether geopolitical competitors can challenge OpenAI, Anthropic, and Google's dominance despite recent breakthroughs from Chinese research teams.
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.1% | 99.9% | $975K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.1% | 100.0% | $989K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Market Analysis
 
-The bull case centers on DeepSeek's demonstrated ability to achieve competitive performance with significantly lower training costs, as shown by their R1 model in January 2025. If they maintain this capital efficiency advantage and Chinese firms continue accessing sufficient compute resources through domestic chip production or workarounds to US export controls, DeepSeek could leapfrog Western competitors through more frequent iteration cycles. The company's focus on open-weights models also creates rapid community feedback loops that could accelerate improvements. China's national AI priorities and potential state backing provide resources that private Western labs might struggle to match during economic uncertainty.
+The bear case—which currently dominates pricing—rests on several concrete factors. U.S. export controls implemented in October 2022 and expanded through 2023-2024 severely restrict DeepSeek's access to advanced Nvidia chips, limiting training compute for frontier models. OpenAI's GPT-5 is expected in late 2025 or early 2026, Anthropic continues rapid Claude iterations, and Google's Gemini roadmap includes significant capability jumps. The definition of "best" likely requires consensus across multiple benchmarks, making it extraordinarily difficult for any single lab to claim clear superiority, much less one facing hardware constraints. Additionally, Western labs maintain substantial funding advantages, with OpenAI's recent funding round reaching $6.6 billion and Anthropic securing $7.3 billion in committed capital.
 
-The bear case is overwhelming: OpenAI's GPT-5, Google's Gemini 2.0 Ultra, and Anthropic's Claude 4 are all expected to launch before mid-2026, with these labs commanding vastly superior compute infrastructure, talent pools, and training data access. US semiconductor export restrictions continue limiting China's access to cutting-edge H100 and H200 GPUs essential for frontier model training. The subjective nature of "best" model depends heavily on benchmark selection—Western-developed evaluations may inherently favor Western training approaches. DeepSeek's current models still lag significantly on complex reasoning tasks and multimodal capabilities where OpenAI and Google have years of architectural refinement.
+The bull case hinges on DeepSeek's demonstrated ability to achieve efficiency breakthroughs that compensate for hardware disadvantages. If Chinese labs develop novel architectures requiring 10x less compute—building on recent papers showing unexpected training efficiency gains—they could leapfrog competitors despite chip restrictions. Key catalysts include major AI conference deadlines (NeurIPS 2025 in December, ICLR 2026 in May) where breakthrough research typically debuts. Any relaxation of export controls following the 2024 U.S. election outcome or changes in China's domestic chip manufacturing capabilities through 2025-2026 would dramatically shift the landscape. DeepSeek's next major model release, expected in Q1 2026 based on their historical cadence, will be the critical indicator.
 
-Key catalysts include OpenAI's GPT-5 release (rumored for Q2 2025), Google I/O in May 2025 showcasing Gemini updates, and any major US policy changes on AI chip exports to China. Traders should monitor Chinese compute capacity reports, DeepSeek's model release cadence through 2025-2026, and whether independent benchmarks like LMSYS Chatbot Arena show Chinese models closing the gap. The definition of "best" will likely be determined by community consensus across multiple benchmarks rather than a single authority, making sustained dominance across reasoning, coding, mathematical, and creative tasks the practical threshold.
+Traders should monitor several specific developments: Commerce Department quarterly updates on semiconductor export policy, DeepSeek's publications at major ML conferences through 2025, and benchmark performance on MMLU, HumanEval, and reasoning tasks from all major labs. China's progress on domestic 7nm and 5nm chip production capacity will directly impact training capabilities. The market resolution criteria—likely based on aggregated benchmark performance or expert consensus—remains ambiguous and could significantly affect final outcomes if DeepSeek achieves narrow superiority in specific domains without clear overall leadership.
 
 ## Related Markets
 
+- [Will Ro Khanna win the 2028 US Presidential Election?](/odds/will-ro-khanna-win-the-2028-us-presidential-election) — 1% YES
+- [Will Carlos Roberto Massa Júnior win the 2026 Brazilian presidential election?](/odds/will-carlos-roberto-massa-jnior-win-the-2026-brazilian-presidential-election) — 0% YES
 - [Will Nikki Haley win the 2028 Republican presidential nomination?](/odds/will-nikki-haley-win-the-2028-republican-presidential-nomination) — 1% YES
-- [Will Avigdor Lieberman be the next Prime Minister of Israel?](/odds/will-avigdor-lieberman-be-the-next-prime-minister-of-israel) — 5% YES
-- [Will Mohammed bin Salman win the Nobel Peace Prize in 2026?](/odds/will-mohammed-bin-salman-win-the-nobel-peace-prize-in-2026) — 1% YES
 
 ## Frequently Asked Questions
 
-### How will "best AI model" be determined for this market's resolution?
+### How will "best AI model" be determined at the end of June 2026?
 
-The market will likely rely on consensus from major AI benchmarks (MMLU, HumanEval, MATH, GPQA) and leaderboards like LMSYS Chatbot Arena at the June 30, 2026 snapshot. No single authority defines "best," making this inherently subjective and potentially contentious.
+The resolution likely depends on the specific prediction market's criteria, which typically aggregate performance across standard benchmarks (MMLU, code generation, reasoning tasks) or rely on expert panel consensus. Narrow superiority in one domain may not be sufficient if competitors lead in others.
 
-### What impact do US chip export controls have on DeepSeek's competitive chances?
+### Can DeepSeek realistically compete without access to the latest Nvidia H100 and H200 GPUs?
 
-Current restrictions limit DeepSeek's access to NVIDIA H100/H200 GPUs crucial for training frontier models, forcing reliance on older hardware or less efficient domestic Chinese chips. This creates a significant computational disadvantage that cost-efficiency alone may not overcome for state-of-the-art performance.
+Chinese labs have demonstrated surprising efficiency gains through algorithmic innovations and may access smuggled chips or domestic alternatives, but the compute gap remains substantial—training cutting-edge models typically requires 10,000+ advanced GPUs for months, making hardware constraints a severe handicap.
 
-### Could DeepSeek win this market even if they're second-best but OpenAI/Google models remain private or API-only?
+### What would cause a significant odds increase before June 2026?
 
-No—the market asks specifically about the "best" model regardless of access restrictions. Even fully closed models from OpenAI or Google would count if their benchmark performance or capabilities exceed DeepSeek's offerings at the deadline.
+A major benchmark breakthrough by DeepSeek published at NeurIPS 2025 or ICLR 2026, substantial weakening of U.S. export controls, or unexpected capability plateaus from Western labs would shift probabilities meaningfully—but even then, odds would likely remain below 20% given the short timeframe and multiple strong competitors.
 
 ## Learn More
 

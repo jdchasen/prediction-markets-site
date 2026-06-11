@@ -3,8 +3,8 @@ title: "Will Gabriel Bortoleto be the 2026 F1 Drivers' Champion?"
 description: "Will Gabriel Bortoleto be the 2026 F1 Drivers' Champion? Odds: 0.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Gabriel Bortoleto be the 2026 F1 Drivers' Champion?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-06-10
+status: "settled"
+lastUpdated: 2026-06-11
 expiryDate: 2026-12-06
 tags: ["polymarket", "sports"]
 polymarketYes: 0.2

@@ -3,8 +3,8 @@ title: "WIll Lamine Yamal play in the World Cup?"
 description: "WIll Lamine Yamal play in the World Cup? Odds: 97.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "WIll Lamine Yamal play in the World Cup?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-06-10
+status: "settled"
+lastUpdated: 2026-06-11
 expiryDate: 2026-08-02
 tags: ["polymarket", "sports"]
 polymarketYes: 97.9

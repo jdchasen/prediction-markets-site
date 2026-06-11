@@ -3,8 +3,8 @@ title: "ITF Ceska Lipa: Martha Matoula vs Anna Dvorackova"
 description: "ITF Ceska Lipa: Martha Matoula vs Anna Dvorackova Odds: 62.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "ITF Ceska Lipa: Martha Matoula vs Anna Dvorackova"
 category: "politics"
-status: "active"
-lastUpdated: 2026-06-10
+status: "settled"
+lastUpdated: 2026-06-11
 expiryDate: 2026-06-17
 tags: ["politics", "polymarket"]
 polymarketYes: 62.0

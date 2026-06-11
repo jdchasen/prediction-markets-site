@@ -3,8 +3,8 @@ title: "AI data center in space by December 31, 2027?"
 description: "AI data center in space by December 31, 2027? Odds: 17.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "AI data center in space by December 31, 2027?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-06-10
+status: "settled"
+lastUpdated: 2026-06-11
 expiryDate: 2027-12-31
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 17.5

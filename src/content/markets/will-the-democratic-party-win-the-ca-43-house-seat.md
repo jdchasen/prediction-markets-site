@@ -4,14 +4,13 @@ description: "Will the Democratic Party win the CA-43 House seat? Odds: 94.0% YE
 marketQuestion: "Will the Democratic Party win the CA-43 House seat?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-06-10
+lastUpdated: 2026-06-11
 expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
 polymarketYes: 94.0
 polymarketNo: 6.0
 polymarketVolume: 9890
 polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-ca-43-house-seat"
-analysisDate: 2026-06-10
 ---
 
 # CA-43 Democratic Hold Analysis

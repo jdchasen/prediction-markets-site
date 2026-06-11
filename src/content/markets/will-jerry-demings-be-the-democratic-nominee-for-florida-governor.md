@@ -1,17 +1,16 @@
 ---
 title: "Will Jerry Demings be the Democratic nominee for Florida Governor?"
-description: "Will Jerry Demings be the Democratic nominee for Florida Governor? Odds: 1.1% YES on Polymarket. See live prices and trade this market."
+description: "Will Jerry Demings be the Democratic nominee for Florida Governor? Odds: 0.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Jerry Demings be the Democratic nominee for Florida Governor?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-06-10
+lastUpdated: 2026-06-11
 expiryDate: 2026-08-18
 tags: ["politics", "polymarket"]
-polymarketYes: 1.1
-polymarketNo: 98.9
+polymarketYes: 0.8
+polymarketNo: 99.2
 polymarketVolume: 9958
 polymarketUrl: "https://polymarket.com/event/will-jerry-demings-be-the-democratic-nominee-for-florida-governor"
-analysisDate: 2026-06-10
 ---
 
 # Jerry Demings Democratic Nomination Analysis

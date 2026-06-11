@@ -3,8 +3,8 @@ title: "Will Portugal score the most goals at the 2026 FIFA World Cup?"
 description: "Will Portugal score the most goals at the 2026 FIFA World Cup? Odds: 5.3% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Portugal score the most goals at the 2026 FIFA World Cup?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-06-10
+status: "settled"
+lastUpdated: 2026-06-11
 expiryDate: 2026-08-03
 tags: ["polymarket", "sports"]
 polymarketYes: 5.3

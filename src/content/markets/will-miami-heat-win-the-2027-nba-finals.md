@@ -3,8 +3,8 @@ title: "Will Miami Heat win the 2027 NBA Finals?"
 description: "Will Miami Heat win the 2027 NBA Finals? Odds: 2.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Miami Heat win the 2027 NBA Finals?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-06-10
+status: "settled"
+lastUpdated: 2026-06-11
 expiryDate: 2027-07-01
 tags: ["polymarket", "sports"]
 polymarketYes: 2.2
