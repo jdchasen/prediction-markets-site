@@ -3,7 +3,7 @@ title: "Will S&P 500 (SPX) hit $6,300 (LOW) in June?"
 description: "Will S&P 500 (SPX) hit $6,300 (LOW) in June? Odds: 2.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will S&P 500 (SPX) hit $6,300 (LOW) in June?"
 category: "finance"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-11
 expiryDate: 2026-06-30
 tags: ["finance", "polymarket", "stocks"]

@@ -9,9 +9,8 @@ expiryDate: 2026-07-20
 tags: ["polymarket", "sports"]
 polymarketYes: 2.1
 polymarketNo: 98.0
-polymarketVolume: 98062
+polymarketVolume: 99610
 polymarketUrl: "https://polymarket.com/event/will-igor-thiago-be-the-top-goalscorer-at-the-2026-fifa-world-cup"
-analysisDate: 2026-06-11
 ---
 
 This market prices Igor Thiago, the young Brentford forward, at a mere 2.1% chance to lead all scorers at the 2026 World Cup—a long-shot bet reflecting both his emerging talent and the significant obstacles between him and soccer's most prestigious individual tournament achievement.

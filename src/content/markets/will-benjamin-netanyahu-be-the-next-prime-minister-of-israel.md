@@ -3,7 +3,7 @@ title: "Will Benjamin Netanyahu be the next Prime Minister of Israel?"
 description: "Will Benjamin Netanyahu be the next Prime Minister of Israel? Odds: 38.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Benjamin Netanyahu be the next Prime Minister of Israel?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-11
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]

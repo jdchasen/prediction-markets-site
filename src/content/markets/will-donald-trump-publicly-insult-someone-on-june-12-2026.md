@@ -1,23 +1,23 @@
 ---
-title: "Will Dan Cox win the 2026 Maryland Governor Republican primary election?"
-description: "Will Dan Cox win the 2026 Maryland Governor Republican primary election? Odds: 72.0% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Dan Cox win the 2026 Maryland Governor Republican primary election?"
+title: "Will Donald Trump publicly insult someone on June 12, 2026?"
+description: "Will Donald Trump publicly insult someone on June 12, 2026? Odds: 93.7% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Donald Trump publicly insult someone on June 12, 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-06-11
-expiryDate: 2026-06-23
-tags: ["elections", "politics", "polymarket"]
-polymarketYes: 72.0
-polymarketNo: 28.0
-polymarketVolume: 97728
-polymarketUrl: "https://polymarket.com/event/will-dan-cox-win-the-2026-maryland-governor-republican-primary-election"
+expiryDate: 2026-06-30
+tags: ["politics", "polymarket", "trump"]
+polymarketYes: 93.7
+polymarketNo: 6.3
+polymarketVolume: 9927
+polymarketUrl: "https://polymarket.com/event/will-donald-trump-publicly-insult-someone-on-june-12-2026"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 72.0% | 28.0% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 93.7% | 6.3% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-dan-cox-win-the-2026-maryland-
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Dan Cox win the 2026 Maryland Governor Republican primary election?"?
+### What are the current odds for "Will Donald Trump publicly insult someone on June 12, 2026?"?
 
-As of June 11, 2026, Polymarket prices YES at 72.0%.
+As of June 11, 2026, Polymarket prices YES at 93.7%.
 
 ### Where can I trade on this prediction market?
 

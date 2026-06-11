@@ -1,17 +1,16 @@
 ---
 title: "Will Ink launch a token by December 31, 2026?"
-description: "Will Ink launch a token by December 31, 2026? Odds: 74.0% YES on Polymarket. See live prices and trade this market."
+description: "Will Ink launch a token by December 31, 2026? Odds: 75.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Ink launch a token by December 31, 2026?"
 category: "crypto"
-status: "settled"
+status: "active"
 lastUpdated: 2026-06-11
 expiryDate: 2027-01-01
 tags: ["crypto", "polymarket"]
-polymarketYes: 74.0
-polymarketNo: 26.0
-polymarketVolume: 9754
+polymarketYes: 75.0
+polymarketNo: 25.0
+polymarketVolume: 9797
 polymarketUrl: "https://polymarket.com/event/will-ink-launch-a-token-by-december-31-2026"
-analysisDate: 2026-06-10
 ---
 
 # Ink Token Launch Market Analysis

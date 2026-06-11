@@ -1,23 +1,23 @@
 ---
-title: "Will Dan Cox win the 2026 Maryland Governor Republican primary election?"
-description: "Will Dan Cox win the 2026 Maryland Governor Republican primary election? Odds: 72.0% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Dan Cox win the 2026 Maryland Governor Republican primary election?"
+title: "Will the Green Party (MP) win the most seats in the 2026 Swedish parliamentary election?"
+description: "Will the Green Party (MP) win the most seats in the 2026 Swedish parliamentary election? Odds: 0.2% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will the Green Party (MP) win the most seats in the 2026 Swedish parliamentary election?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-06-11
-expiryDate: 2026-06-23
+expiryDate: 2026-09-13
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 72.0
-polymarketNo: 28.0
-polymarketVolume: 97728
-polymarketUrl: "https://polymarket.com/event/will-dan-cox-win-the-2026-maryland-governor-republican-primary-election"
+polymarketYes: 0.2
+polymarketNo: 99.8
+polymarketVolume: 97732
+polymarketUrl: "https://polymarket.com/event/will-the-green-party-mp-win-the-most-seats-in-the-2026-swedish-parliamentary-election"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 72.0% | 28.0% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.2% | 99.8% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-dan-cox-win-the-2026-maryland-
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Dan Cox win the 2026 Maryland Governor Republican primary election?"?
+### What are the current odds for "Will the Green Party (MP) win the most seats in the 2026 Swedish parliamentary election?"?
 
-As of June 11, 2026, Polymarket prices YES at 72.0%.
+As of June 11, 2026, Polymarket prices YES at 0.2%.
 
 ### Where can I trade on this prediction market?
 

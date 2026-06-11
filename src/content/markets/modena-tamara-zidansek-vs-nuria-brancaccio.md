@@ -3,7 +3,7 @@ title: "Modena: Tamara Zidansek vs Nuria Brancaccio"
 description: "Modena: Tamara Zidansek vs Nuria Brancaccio Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Modena: Tamara Zidansek vs Nuria Brancaccio"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-11
 expiryDate: 2026-06-17
 tags: ["politics", "polymarket"]

@@ -9,9 +9,8 @@ expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 39.0
 polymarketNo: 61.0
-polymarketVolume: 99995
+polymarketVolume: 99997
 polymarketUrl: "https://polymarket.com/event/will-geng-esports-win-the-lck-2026-season-playoffs"
-analysisDate: 2026-06-11
 ---
 
 The market pricing Gen.G Esports at 39% to win the 2026 LCK playoffs reflects significant uncertainty about roster stability and competitive dynamics nearly two years out, though the team enters as a proven championship contender following their strong 2024-2025 performance.

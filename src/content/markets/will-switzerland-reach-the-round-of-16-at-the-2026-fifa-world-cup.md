@@ -3,7 +3,7 @@ title: "Will Switzerland reach the Round of 16 at the 2026 FIFA World Cup?"
 description: "Will Switzerland reach the Round of 16 at the 2026 FIFA World Cup? Odds: 57.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Switzerland reach the Round of 16 at the 2026 FIFA World Cup?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-11
 expiryDate: 2026-07-04
 tags: ["polymarket", "sports"]

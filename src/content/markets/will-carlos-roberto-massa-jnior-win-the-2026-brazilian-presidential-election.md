@@ -1,17 +1,16 @@
 ---
 title: "Will Carlos Roberto Massa Júnior win the 2026 Brazilian presidential election?"
-description: "Will Carlos Roberto Massa Júnior win the 2026 Brazilian presidential election? Odds: 0.4% YES on Polymarket. See live prices and trade this market."
+description: "Will Carlos Roberto Massa Júnior win the 2026 Brazilian presidential election? Odds: 0.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Carlos Roberto Massa Júnior win the 2026 Brazilian presidential election?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-06-11
 expiryDate: 2026-10-04
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 0.4
-polymarketNo: 99.6
-polymarketVolume: 9909324
+polymarketYes: 0.2
+polymarketNo: 99.8
+polymarketVolume: 9911390
 polymarketUrl: "https://polymarket.com/event/will-carlos-roberto-massa-jnior-win-the-2026-brazilian-presidential-election"
-analysisDate: 2026-06-11
 ---
 
 Carlos Roberto Massa Júnior, better known as Ratinho, faces extraordinarily long odds at 0.4% to win Brazil's 2026 presidential election, reflecting the market's assessment that the television presenter lacks the political infrastructure and coalition support necessary to compete against established frontrunners like Lula da Silva or potential center-right candidates.

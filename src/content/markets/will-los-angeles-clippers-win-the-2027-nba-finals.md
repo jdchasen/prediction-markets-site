@@ -3,15 +3,14 @@ title: "Will Los Angeles Clippers win the 2027 NBA Finals?"
 description: "Will Los Angeles Clippers win the 2027 NBA Finals? Odds: 1.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Los Angeles Clippers win the 2027 NBA Finals?"
 category: "sports"
-status: "settled"
+status: "active"
 lastUpdated: 2026-06-11
 expiryDate: 2027-07-01
 tags: ["polymarket", "sports"]
 polymarketYes: 1.2
 polymarketNo: 98.8
-polymarketVolume: 9766
+polymarketVolume: 9787
 polymarketUrl: "https://polymarket.com/event/will-los-angeles-clippers-win-the-2027-nba-finals"
-analysisDate: 2026-06-10
 ---
 
 # LA Clippers 2027 NBA Finals Analysis

@@ -1,17 +1,16 @@
 ---
 title: "Will Ro Khanna win the 2028 US Presidential Election?"
-description: "Will Ro Khanna win the 2028 US Presidential Election? Odds: 0.9% YES on Polymarket. See live prices and trade this market."
+description: "Will Ro Khanna win the 2028 US Presidential Election? Odds: 1.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Ro Khanna win the 2028 US Presidential Election?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-06-11
 expiryDate: 2028-11-07
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 0.9
-polymarketNo: 99.1
-polymarketVolume: 9926943
+polymarketYes: 1.1
+polymarketNo: 99.0
+polymarketVolume: 9931081
 polymarketUrl: "https://polymarket.com/event/will-ro-khanna-win-the-2028-us-presidential-election"
-analysisDate: 2026-06-11
 ---
 
 Ro Khanna's presidential prospects remain firmly in long-shot territory at under 1% on Polymarket, reflecting the California Representative's limited national profile despite his Silicon Valley connections and progressive credentials. The market essentially prices him as a non-factor in what will be a crowded 2028 Democratic primary field.

@@ -3,7 +3,7 @@ title: "Will New Zealand win on 2026-06-26?"
 description: "Will New Zealand win on 2026-06-26? Odds: 8.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will New Zealand win on 2026-06-26?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-11
 expiryDate: 2026-06-27
 tags: ["politics", "polymarket"]

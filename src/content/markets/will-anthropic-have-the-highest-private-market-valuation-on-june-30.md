@@ -1,17 +1,16 @@
 ---
 title: "Will Anthropic have the highest private market valuation on June 30?"
-description: "Will Anthropic have the highest private market valuation on June 30? Odds: 2.3% YES on Polymarket. See live prices and trade this market."
+description: "Will Anthropic have the highest private market valuation on June 30? Odds: 3.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Anthropic have the highest private market valuation on June 30?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-06-11
 expiryDate: 2026-07-01
 tags: ["politics", "polymarket"]
-polymarketYes: 2.3
-polymarketNo: 97.7
-polymarketVolume: 9918
+polymarketYes: 3.2
+polymarketNo: 96.8
+polymarketVolume: 9949
 polymarketUrl: "https://polymarket.com/event/will-anthropic-have-the-highest-private-market-valuation-on-june-30"
-analysisDate: 2026-06-11
 ---
 
 # Anthropic Valuation Market Analysis

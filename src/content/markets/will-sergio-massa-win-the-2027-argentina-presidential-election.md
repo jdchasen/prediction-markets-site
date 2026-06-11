@@ -1,23 +1,23 @@
 ---
-title: "Will the Democratic Party win the PA-03 House seat?"
-description: "Will the Democratic Party win the PA-03 House seat? Odds: 94.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will the Democratic Party win the PA-03 House seat?"
+title: "Will Sergio Massa win the 2027 Argentina presidential election?"
+description: "Will Sergio Massa win the 2027 Argentina presidential election? Odds: 1.0% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Sergio Massa win the 2027 Argentina presidential election?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-06-11
-expiryDate: 2026-11-03
-tags: ["politics", "polymarket"]
-polymarketYes: 94.5
-polymarketNo: 5.5
-polymarketVolume: 9893
-polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-pa-03-house-seat"
+expiryDate: 2027-10-24
+tags: ["elections", "politics", "polymarket"]
+polymarketYes: 1.0
+polymarketNo: 99.0
+polymarketVolume: 9873
+polymarketUrl: "https://polymarket.com/event/will-sergio-massa-win-the-2027-argentina-presidential-election"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 94.5% | 5.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 1.0% | 99.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-p
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will the Democratic Party win the PA-03 House seat?"?
+### What are the current odds for "Will Sergio Massa win the 2027 Argentina presidential election?"?
 
-As of June 11, 2026, Polymarket prices YES at 94.5%.
+As of June 11, 2026, Polymarket prices YES at 1.0%.
 
 ### Where can I trade on this prediction market?
 

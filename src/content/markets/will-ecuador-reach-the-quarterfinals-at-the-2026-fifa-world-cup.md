@@ -3,7 +3,7 @@ title: "Will Ecuador reach the Quarterfinals at the 2026 FIFA World Cup?"
 description: "Will Ecuador reach the Quarterfinals at the 2026 FIFA World Cup? Odds: 18.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Ecuador reach the Quarterfinals at the 2026 FIFA World Cup?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-11
 tags: ["polymarket", "sports"]
 polymarketYes: 18.0

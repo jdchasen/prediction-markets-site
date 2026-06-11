@@ -1,23 +1,23 @@
 ---
-title: "Will the Democratic Party win the PA-03 House seat?"
-description: "Will the Democratic Party win the PA-03 House seat? Odds: 94.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will the Democratic Party win the PA-03 House seat?"
+title: "Will Silver (SI) settle at <$50 in June?"
+description: "Will Silver (SI) settle at <$50 in June? Odds: 2.1% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Silver (SI) settle at <$50 in June?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-06-11
-expiryDate: 2026-11-03
+expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
-polymarketYes: 94.5
-polymarketNo: 5.5
-polymarketVolume: 9893
-polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-pa-03-house-seat"
+polymarketYes: 2.1
+polymarketNo: 97.9
+polymarketVolume: 97922
+polymarketUrl: "https://polymarket.com/event/si-settle-below-50-jun-2026"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 94.5% | 5.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 2.1% | 97.9% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-p
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will the Democratic Party win the PA-03 House seat?"?
+### What are the current odds for "Will Silver (SI) settle at <$50 in June?"?
 
-As of June 11, 2026, Polymarket prices YES at 94.5%.
+As of June 11, 2026, Polymarket prices YES at 2.1%.
 
 ### Where can I trade on this prediction market?
 

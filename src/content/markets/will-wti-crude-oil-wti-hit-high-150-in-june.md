@@ -1,23 +1,23 @@
 ---
-title: "Will the Democratic Party win the PA-03 House seat?"
-description: "Will the Democratic Party win the PA-03 House seat? Odds: 94.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will the Democratic Party win the PA-03 House seat?"
+title: "Will WTI Crude Oil (WTI) hit (HIGH) $150 in June?"
+description: "Will WTI Crude Oil (WTI) hit (HIGH) $150 in June? Odds: 0.4% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will WTI Crude Oil (WTI) hit (HIGH) $150 in June?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-06-11
-expiryDate: 2026-11-03
+expiryDate: 2026-07-01
 tags: ["politics", "polymarket"]
-polymarketYes: 94.5
-polymarketNo: 5.5
-polymarketVolume: 9893
-polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-pa-03-house-seat"
+polymarketYes: 0.4
+polymarketNo: 99.6
+polymarketVolume: 99306
+polymarketUrl: "https://polymarket.com/event/will-wti-reach-150-in-june-2026-555"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 94.5% | 5.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.4% | 99.6% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-p
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will the Democratic Party win the PA-03 House seat?"?
+### What are the current odds for "Will WTI Crude Oil (WTI) hit (HIGH) $150 in June?"?
 
-As of June 11, 2026, Polymarket prices YES at 94.5%.
+As of June 11, 2026, Polymarket prices YES at 0.4%.
 
 ### Where can I trade on this prediction market?
 

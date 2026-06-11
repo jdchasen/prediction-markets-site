@@ -3,7 +3,7 @@ title: "Will Iraq win Group I in the 2026 FIFA World Cup?"
 description: "Will Iraq win Group I in the 2026 FIFA World Cup? Odds: 0.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Iraq win Group I in the 2026 FIFA World Cup?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-11
 expiryDate: 2026-06-27
 tags: ["polymarket", "sports"]
