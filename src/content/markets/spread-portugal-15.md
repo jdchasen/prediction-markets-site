@@ -1,23 +1,23 @@
 ---
-title: "U.S. enacts AI safety bill before 2027?"
-description: "U.S. enacts AI safety bill before 2027? Odds: 34.0% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "U.S. enacts AI safety bill before 2027?"
+title: "Spread: Portugal (-1.5)"
+description: "Spread: Portugal (-1.5) Odds: 51.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Spread: Portugal (-1.5)"
 category: "politics"
 status: "active"
 lastUpdated: 2026-06-12
-expiryDate: 2026-12-31
-tags: ["ai", "politics", "polymarket"]
-polymarketYes: 34.0
-polymarketNo: 66.0
-polymarketVolume: 99682
-polymarketUrl: "https://polymarket.com/event/us-enacts-ai-safety-bill-before-2027"
+expiryDate: 2026-06-17
+tags: ["politics", "polymarket"]
+polymarketYes: 51.5
+polymarketNo: 48.5
+polymarketVolume: 9968
+polymarketUrl: "https://polymarket.com/event/fifwc-prt-cdr-2026-06-17-spread-home-1pt5"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 34.0% | 66.0% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 51.5% | 48.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/us-enacts-ai-safety-bill-before-202
 
 ## Frequently Asked Questions
 
-### What are the current odds for "U.S. enacts AI safety bill before 2027?"?
+### What are the current odds for "Spread: Portugal (-1.5)"?
 
-As of June 12, 2026, Polymarket prices YES at 34.0%.
+As of June 12, 2026, Polymarket prices YES at 51.5%.
 
 ### Where can I trade on this prediction market?
 

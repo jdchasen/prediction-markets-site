@@ -3,8 +3,8 @@ title: "Los Angeles Dodgers vs. Pittsburgh Pirates"
 description: "Los Angeles Dodgers vs. Pittsburgh Pirates Odds: 62.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Los Angeles Dodgers vs. Pittsburgh Pirates"
 category: "politics"
-status: "active"
-lastUpdated: 2026-06-11
+status: "settled"
+lastUpdated: 2026-06-12
 expiryDate: 2026-06-18
 tags: ["politics", "polymarket"]
 polymarketYes: 62.5

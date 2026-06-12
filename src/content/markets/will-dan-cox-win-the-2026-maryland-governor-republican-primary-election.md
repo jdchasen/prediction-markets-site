@@ -1,15 +1,15 @@
 ---
 title: "Will Dan Cox win the 2026 Maryland Governor Republican primary election?"
-description: "Will Dan Cox win the 2026 Maryland Governor Republican primary election? Odds: 72.0% YES on Polymarket. See live prices and trade this market."
+description: "Will Dan Cox win the 2026 Maryland Governor Republican primary election? Odds: 88.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Dan Cox win the 2026 Maryland Governor Republican primary election?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-06-11
+lastUpdated: 2026-06-12
 expiryDate: 2026-06-23
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 72.0
-polymarketNo: 28.0
-polymarketVolume: 97728
+polymarketYes: 88.0
+polymarketNo: 12.0
+polymarketVolume: 97892
 polymarketUrl: "https://polymarket.com/event/will-dan-cox-win-the-2026-maryland-governor-republican-primary-election"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-dan-cox-win-the-2026-maryland-
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 72.0% | 28.0% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 88.0% | 12.0% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [US x Iran permanent peace deal by December 31, 2026?](/odds/us-x-iran-permanent-peace-deal-by-december-31-2026) — 74% YES
-- [Will Ro Khanna win the 2028 US Presidential Election?](/odds/will-ro-khanna-win-the-2028-us-presidential-election) — 1% YES
 - [Will Carlos Roberto Massa Júnior win the 2026 Brazilian presidential election?](/odds/will-carlos-roberto-massa-jnior-win-the-2026-brazilian-presidential-election) — 0% YES
+- [Will Nikki Haley win the 2028 Republican presidential nomination?](/odds/will-nikki-haley-win-the-2028-republican-presidential-nomination) — 1% YES
+- [Will OpenAI have the best AI model at the end of June 2026?](/odds/will-openai-have-the-best-ai-model-at-the-end-of-june-2026) — 3% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Dan Cox win the 2026 Maryland Governor Republican primary election?"?
 
-As of June 11, 2026, Polymarket prices YES at 72.0%.
+As of June 12, 2026, Polymarket prices YES at 88.0%.
 
 ### Where can I trade on this prediction market?
 

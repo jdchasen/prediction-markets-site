@@ -1,35 +1,35 @@
 ---
-title: "Will Ink launch a token by December 31, 2026?"
-description: "Will Ink launch a token by December 31, 2026? Odds: 74.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Ink launch a token by December 31, 2026?"
+title: "Tread FDV above $150M one day after launch"
+description: "Tread FDV above $150M one day after launch Odds: 14.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Tread FDV above $150M one day after launch"
 category: "crypto"
 status: "active"
 lastUpdated: 2026-06-12
-expiryDate: 2027-01-01
+expiryDate: 2028-01-01
 tags: ["crypto", "polymarket"]
-polymarketYes: 74.5
-polymarketNo: 25.5
-polymarketVolume: 9805
-polymarketUrl: "https://polymarket.com/event/will-ink-launch-a-token-by-december-31-2026"
+polymarketYes: 14.5
+polymarketNo: 85.5
+polymarketVolume: 9873
+polymarketUrl: "https://polymarket.com/event/tread-fdv-above-150m-one-day-after-launch"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 74.5% | 25.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 14.5% | 85.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Predict.fun FDV above $300M one day after launch?](/odds/predictfun-fdv-above-300m-one-day-after-launch) — 70% YES
 - [Will the price of Bitcoin be above $66,000 on June 15?](/odds/will-the-price-of-bitcoin-be-above-66000-on-june-15) — 8% YES
-- [Tread FDV above $150M one day after launch](/odds/tread-fdv-above-150m-one-day-after-launch) — 14% YES
+- [Will Ink launch a token by December 31, 2026?](/odds/will-ink-launch-a-token-by-december-31-2026) — 74% YES
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Ink launch a token by December 31, 2026?"?
+### What are the current odds for "Tread FDV above $150M one day after launch"?
 
-As of June 12, 2026, Polymarket prices YES at 74.5%.
+As of June 12, 2026, Polymarket prices YES at 14.5%.
 
 ### Where can I trade on this prediction market?
 

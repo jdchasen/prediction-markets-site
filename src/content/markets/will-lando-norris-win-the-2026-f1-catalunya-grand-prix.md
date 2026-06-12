@@ -1,23 +1,23 @@
 ---
-title: "Will Baker Mayfield win the 2026 NFL MVP?"
-description: "Will Baker Mayfield win the 2026 NFL MVP? Odds: 1.2% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Baker Mayfield win the 2026 NFL MVP?"
+title: "Will Lando Norris win the 2026 F1 Catalunya Grand Prix?"
+description: "Will Lando Norris win the 2026 F1 Catalunya Grand Prix? Odds: 6.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Lando Norris win the 2026 F1 Catalunya Grand Prix?"
 category: "sports"
 status: "active"
 lastUpdated: 2026-06-12
-expiryDate: 2027-02-15
+expiryDate: 2026-06-21
 tags: ["polymarket", "sports"]
-polymarketYes: 1.2
-polymarketNo: 98.8
-polymarketVolume: 98694
-polymarketUrl: "https://polymarket.com/event/will-baker-mayfield-win-the-2026-nfl-mvp"
+polymarketYes: 6.5
+polymarketNo: 93.5
+polymarketVolume: 9804
+polymarketUrl: "https://polymarket.com/event/f1-catalunya-grand-prix-winner-norris-2026-06-14"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 1.2% | 98.8% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 6.5% | 93.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-baker-mayfield-win-the-2026-nf
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Baker Mayfield win the 2026 NFL MVP?"?
+### What are the current odds for "Will Lando Norris win the 2026 F1 Catalunya Grand Prix?"?
 
-As of June 12, 2026, Polymarket prices YES at 1.2%.
+As of June 12, 2026, Polymarket prices YES at 6.5%.
 
 ### Where can I trade on this prediction market?
 

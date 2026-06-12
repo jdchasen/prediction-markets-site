@@ -1,23 +1,23 @@
 ---
-title: "U.S. enacts AI safety bill before 2027?"
-description: "U.S. enacts AI safety bill before 2027? Odds: 34.0% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "U.S. enacts AI safety bill before 2027?"
+title: "Belgium vs. Egypt: O/U 2.5"
+description: "Belgium vs. Egypt: O/U 2.5 Odds: 48.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Belgium vs. Egypt: O/U 2.5"
 category: "politics"
 status: "active"
 lastUpdated: 2026-06-12
-expiryDate: 2026-12-31
-tags: ["ai", "politics", "polymarket"]
-polymarketYes: 34.0
-polymarketNo: 66.0
-polymarketVolume: 99682
-polymarketUrl: "https://polymarket.com/event/us-enacts-ai-safety-bill-before-2027"
+expiryDate: 2026-06-15
+tags: ["politics", "polymarket"]
+polymarketYes: 48.5
+polymarketNo: 51.5
+polymarketVolume: 9881
+polymarketUrl: "https://polymarket.com/event/fifwc-bel-egy-2026-06-15-total-2pt5"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 34.0% | 66.0% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 48.5% | 51.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/us-enacts-ai-safety-bill-before-202
 
 ## Frequently Asked Questions
 
-### What are the current odds for "U.S. enacts AI safety bill before 2027?"?
+### What are the current odds for "Belgium vs. Egypt: O/U 2.5"?
 
-As of June 12, 2026, Polymarket prices YES at 34.0%.
+As of June 12, 2026, Polymarket prices YES at 48.5%.
 
 ### Where can I trade on this prediction market?
 

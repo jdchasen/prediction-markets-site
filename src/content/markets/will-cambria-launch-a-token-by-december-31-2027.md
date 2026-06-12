@@ -1,23 +1,23 @@
 ---
-title: "Will Ink launch a token by December 31, 2026?"
-description: "Will Ink launch a token by December 31, 2026? Odds: 74.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Ink launch a token by December 31, 2026?"
+title: "Will Cambria launch a token by December 31, 2027?"
+description: "Will Cambria launch a token by December 31, 2027? Odds: 92.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Cambria launch a token by December 31, 2027?"
 category: "crypto"
 status: "active"
 lastUpdated: 2026-06-12
-expiryDate: 2027-01-01
+expiryDate: 2028-01-01
 tags: ["crypto", "polymarket"]
-polymarketYes: 74.5
-polymarketNo: 25.5
-polymarketVolume: 9805
-polymarketUrl: "https://polymarket.com/event/will-ink-launch-a-token-by-december-31-2026"
+polymarketYes: 92.5
+polymarketNo: 7.5
+polymarketVolume: 9784
+polymarketUrl: "https://polymarket.com/event/will-cambria-launch-a-token-by-december-31-2027"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 74.5% | 25.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 92.5% | 7.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-ink-launch-a-token-by-december
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Ink launch a token by December 31, 2026?"?
+### What are the current odds for "Will Cambria launch a token by December 31, 2027?"?
 
-As of June 12, 2026, Polymarket prices YES at 74.5%.
+As of June 12, 2026, Polymarket prices YES at 92.5%.
 
 ### Where can I trade on this prediction market?
 

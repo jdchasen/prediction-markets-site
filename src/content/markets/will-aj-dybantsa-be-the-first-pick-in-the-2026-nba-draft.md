@@ -1,17 +1,16 @@
 ---
 title: "Will AJ Dybantsa be the first pick in the 2026 NBA draft?"
-description: "Will AJ Dybantsa be the first pick in the 2026 NBA draft? Odds: 84.0% YES on Polymarket. See live prices and trade this market."
+description: "Will AJ Dybantsa be the first pick in the 2026 NBA draft? Odds: 82.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will AJ Dybantsa be the first pick in the 2026 NBA draft?"
 category: "sports"
 status: "active"
-lastUpdated: 2026-06-11
+lastUpdated: 2026-06-12
 expiryDate: 2026-06-25
 tags: ["polymarket", "sports"]
-polymarketYes: 84.0
-polymarketNo: 16.0
-polymarketVolume: 98559
+polymarketYes: 82.5
+polymarketNo: 17.5
+polymarketVolume: 98916
 polymarketUrl: "https://polymarket.com/event/will-aj-dybantsa-be-the-first-pick-in-the-2026-nba-draft"
-analysisDate: 2026-06-11
 ---
 
 AJ Dybantsa enters his freshman season at BYU with overwhelming favorite status to become the 2026 NBA Draft's top selection, reflecting a consensus among scouts that rarely forms this early for a player two years away from draft eligibility.

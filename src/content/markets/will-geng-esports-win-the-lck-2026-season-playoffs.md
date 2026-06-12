@@ -3,8 +3,8 @@ title: "Will Gen.G Esports win the LCK 2026 season playoffs?"
 description: "Will Gen.G Esports win the LCK 2026 season playoffs? Odds: 39.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Gen.G Esports win the LCK 2026 season playoffs?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-06-11
+status: "settled"
+lastUpdated: 2026-06-12
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 39.0

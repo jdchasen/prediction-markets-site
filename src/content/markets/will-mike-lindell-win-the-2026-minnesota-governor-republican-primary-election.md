@@ -1,23 +1,23 @@
 ---
-title: "Will DeepSeek have the best AI model at the end of June 2026?"
-description: "Will DeepSeek have the best AI model at the end of June 2026? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will DeepSeek have the best AI model at the end of June 2026?"
+title: "Will Mike Lindell win the 2026 Minnesota Governor Republican primary election?"
+description: "Will Mike Lindell win the 2026 Minnesota Governor Republican primary election? Odds: 16.0% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Mike Lindell win the 2026 Minnesota Governor Republican primary election?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-06-12
-expiryDate: 2026-06-30
-tags: ["ai", "politics", "polymarket"]
-polymarketYes: 0.1
-polymarketNo: 100.0
-polymarketVolume: 990038
-polymarketUrl: "https://polymarket.com/event/will-deepseek-have-the-best-ai-model-at-the-end-of-june-2026"
+expiryDate: 2026-08-11
+tags: ["elections", "politics", "polymarket"]
+polymarketYes: 16.0
+polymarketNo: 84.0
+polymarketVolume: 98342
+polymarketUrl: "https://polymarket.com/event/will-mike-lindell-win-the-2026-minnesota-governor-republican-primary-election"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.1% | 100.0% | $990K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 16.0% | 84.0% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-deepseek-have-the-best-ai-mode
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will DeepSeek have the best AI model at the end of June 2026?"?
+### What are the current odds for "Will Mike Lindell win the 2026 Minnesota Governor Republican primary election?"?
 
-As of June 12, 2026, Polymarket prices YES at 0.1%.
+As of June 12, 2026, Polymarket prices YES at 16.0%.
 
 ### Where can I trade on this prediction market?
 

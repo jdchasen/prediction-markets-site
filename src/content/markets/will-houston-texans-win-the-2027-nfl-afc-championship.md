@@ -4,12 +4,12 @@ description: "Will Houston Texans win the 2027 NFL AFC Championship? Odds: 8.7% 
 marketQuestion: "Will Houston Texans win the 2027 NFL AFC Championship?"
 category: "sports"
 status: "active"
-lastUpdated: 2026-06-11
+lastUpdated: 2026-06-12
 expiryDate: 2027-01-25
 tags: ["polymarket", "sports"]
 polymarketYes: 8.7
 polymarketNo: 91.3
-polymarketVolume: 99343
+polymarketVolume: 99353
 polymarketUrl: "https://polymarket.com/event/will-houston-texans-win-the-2027-nfl-afc-championship-334"
 ---
 
@@ -21,15 +21,15 @@ polymarketUrl: "https://polymarket.com/event/will-houston-texans-win-the-2027-nf
 
 ## Related Markets
 
-- [Will Igor Thiago be the top goalscorer at the 2026 FIFA World Cup?](/odds/will-igor-thiago-be-the-top-goalscorer-at-the-2026-fifa-world-cup) — 2% YES
-- [Will Baker Mayfield win the 2026 NFL MVP?](/odds/will-baker-mayfield-win-the-2026-nfl-mvp) — 1% YES
-- [Will AJ Dybantsa be the first pick in the 2026 NBA draft?](/odds/will-aj-dybantsa-be-the-first-pick-in-the-2026-nba-draft) — 84% YES
+- [Will Miami Heat win the 2027 NBA Finals?](/odds/will-miami-heat-win-the-2027-nba-finals) — 4% YES
+- [Will Marcus Thuram be the top goalscorer at the 2026 FIFA World Cup?](/odds/will-marcus-thuram-be-the-top-goalscorer-at-the-2026-fifa-world-cup) — 0% YES
+- [Will Mohamed Salah be the top goalscorer at the 2026 FIFA World Cup?](/odds/will-mohamed-salah-be-the-top-goalscorer-at-the-2026-fifa-world-cup) — 0% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Houston Texans win the 2027 NFL AFC Championship?"?
 
-As of June 11, 2026, Polymarket prices YES at 8.7%.
+As of June 12, 2026, Polymarket prices YES at 8.7%.
 
 ### Where can I trade on this prediction market?
 

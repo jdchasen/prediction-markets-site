@@ -4,14 +4,13 @@ description: "Will Nikki Haley win the 2028 Republican presidential nomination? 
 marketQuestion: "Will Nikki Haley win the 2028 Republican presidential nomination?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-06-11
+lastUpdated: 2026-06-12
 expiryDate: 2028-11-07
 tags: ["politics", "polymarket"]
 polymarketYes: 0.9
 polymarketNo: 99.2
-polymarketVolume: 9808715
+polymarketVolume: 9816994
 polymarketUrl: "https://polymarket.com/event/will-nikki-haley-win-the-2028-republican-presidential-nomination"
-analysisDate: 2026-06-11
 ---
 
 The market prices Nikki Haley's chances of winning the 2028 GOP nomination at near-zero, reflecting deep skepticism about her viability within a Trump-dominated Republican Party following her 2024 primary defeat and subsequent political positioning. This matters as an early temperature check on whether traditional establishment Republicans can mount a comeback in the post-Trump era.

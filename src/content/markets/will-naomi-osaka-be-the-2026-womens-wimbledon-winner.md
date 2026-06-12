@@ -3,8 +3,8 @@ title: "Will Naomi Osaka be the 2026 Women’s Wimbledon Winner?"
 description: "Will Naomi Osaka be the 2026 Women’s Wimbledon Winner? Odds: 0.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Naomi Osaka be the 2026 Women’s Wimbledon Winner?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-06-11
+status: "settled"
+lastUpdated: 2026-06-12
 expiryDate: 2026-07-12
 tags: ["politics", "polymarket"]
 polymarketYes: 0.5

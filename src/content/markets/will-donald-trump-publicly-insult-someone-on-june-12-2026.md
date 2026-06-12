@@ -3,8 +3,8 @@ title: "Will Donald Trump publicly insult someone on June 12, 2026?"
 description: "Will Donald Trump publicly insult someone on June 12, 2026? Odds: 93.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Donald Trump publicly insult someone on June 12, 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-06-11
+status: "settled"
+lastUpdated: 2026-06-12
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket", "trump"]
 polymarketYes: 93.7

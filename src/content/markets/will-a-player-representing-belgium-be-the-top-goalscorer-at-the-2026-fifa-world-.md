@@ -3,8 +3,8 @@ title: "Will a player representing Belgium be the top goalscorer at the 2026 FIF
 description: "Will a player representing Belgium be the top goalscorer at the 2026 FIFA World Cup? Odds: 2.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will a player representing Belgium be the top goalscorer at the 2026 FIFA World Cup?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-06-11
+status: "settled"
+lastUpdated: 2026-06-12
 expiryDate: 2026-08-20
 tags: ["polymarket", "sports"]
 polymarketYes: 2.4

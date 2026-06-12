@@ -3,8 +3,8 @@ title: "Will Bosnia and Herzegovina win on 2026-06-18?"
 description: "Will Bosnia and Herzegovina win on 2026-06-18? Odds: 16.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Bosnia and Herzegovina win on 2026-06-18?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-06-11
+status: "settled"
+lastUpdated: 2026-06-12
 expiryDate: 2026-06-18
 tags: ["politics", "polymarket"]
 polymarketYes: 16.5

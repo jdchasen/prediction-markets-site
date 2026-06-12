@@ -3,8 +3,8 @@ title: "Set Handicap: Boulter (-1.5) vs Cristian (+1.5)"
 description: "Set Handicap: Boulter (-1.5) vs Cristian (+1.5) Odds: 46.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Set Handicap: Boulter (-1.5) vs Cristian (+1.5)"
 category: "politics"
-status: "active"
-lastUpdated: 2026-06-11
+status: "settled"
+lastUpdated: 2026-06-12
 expiryDate: 2026-06-17
 tags: ["politics", "polymarket"]
 polymarketYes: 46.5
