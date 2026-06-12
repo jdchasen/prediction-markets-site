@@ -3,7 +3,7 @@ title: "Will Lando Norris win the 2026 F1 Catalunya Grand Prix?"
 description: "Will Lando Norris win the 2026 F1 Catalunya Grand Prix? Odds: 6.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Lando Norris win the 2026 F1 Catalunya Grand Prix?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-12
 expiryDate: 2026-06-21
 tags: ["polymarket", "sports"]

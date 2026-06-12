@@ -9,7 +9,7 @@ expiryDate: 2026-06-30
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 0.1
 polymarketNo: 100.0
-polymarketVolume: 990038
+polymarketVolume: 990879
 polymarketUrl: "https://polymarket.com/event/will-deepseek-have-the-best-ai-model-at-the-end-of-june-2026"
 ---
 
@@ -17,13 +17,13 @@ polymarketUrl: "https://polymarket.com/event/will-deepseek-have-the-best-ai-mode
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.1% | 100.0% | $990K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.1% | 100.0% | $991K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Carlos Roberto Massa Júnior win the 2026 Brazilian presidential election?](/odds/will-carlos-roberto-massa-jnior-win-the-2026-brazilian-presidential-election) — 0% YES
 - [Will Nikki Haley win the 2028 Republican presidential nomination?](/odds/will-nikki-haley-win-the-2028-republican-presidential-nomination) — 1% YES
-- [Will OpenAI have the best AI model at the end of June 2026?](/odds/will-openai-have-the-best-ai-model-at-the-end-of-june-2026) — 3% YES
+- [Will the Liberal Democratic Party of Russia (LDPR) win the most seats in the next Russian parliamentary election?](/odds/will-the-liberal-democratic-party-of-russia-ldpr-win-the-most-seats-in-the-next-) — 0% YES
 
 ## Frequently Asked Questions
 

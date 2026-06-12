@@ -3,7 +3,7 @@ title: "Will Marcus Thuram be the top goalscorer at the 2026 FIFA World Cup?"
 description: "Will Marcus Thuram be the top goalscorer at the 2026 FIFA World Cup? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Marcus Thuram be the top goalscorer at the 2026 FIFA World Cup?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-12
 expiryDate: 2026-07-20
 tags: ["polymarket", "sports"]

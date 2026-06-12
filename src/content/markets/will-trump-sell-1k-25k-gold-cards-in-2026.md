@@ -21,9 +21,9 @@ polymarketUrl: "https://polymarket.com/event/will-trump-sell-1k-2pt5k-gold-cards
 
 ## Related Markets
 
-- [Will SpaceX's market cap be between $2.5T and $3.0T at market close on IPO day?](/odds/will-spacexs-market-cap-be-between-25t-and-30t-at-market-close-on-ipo-day) — 13% YES
 - [Will SHEIN have the highest IPO Market Cap 2026?](/odds/will-shein-have-the-highest-ipo-market-cap-2026) — 0% YES
 - [Anysphere (Cursor) IPO before 2027?](/odds/anysphere-cursor-ipo-before-2027) — 5% YES
+- [Will S&P 500 (SPY) hit (LOW) $690 in June?](/odds/will-sp-500-spy-hit-low-690-in-june) — 11% YES
 
 ## Frequently Asked Questions
 

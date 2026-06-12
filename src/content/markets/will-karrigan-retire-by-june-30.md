@@ -1,23 +1,23 @@
 ---
-title: "Will Sergio Massa win the 2027 Argentina presidential election?"
-description: "Will Sergio Massa win the 2027 Argentina presidential election? Odds: 1.1% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Sergio Massa win the 2027 Argentina presidential election?"
+title: "Will Karrigan retire by June 30? "
+description: "Will Karrigan retire by June 30?  Odds: 1.3% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Karrigan retire by June 30? "
 category: "politics"
 status: "active"
 lastUpdated: 2026-06-12
-expiryDate: 2027-10-24
-tags: ["elections", "politics", "polymarket"]
-polymarketYes: 1.1
-polymarketNo: 98.9
-polymarketVolume: 9983
-polymarketUrl: "https://polymarket.com/event/will-sergio-massa-win-the-2027-argentina-presidential-election"
+expiryDate: 2026-06-30
+tags: ["politics", "polymarket"]
+polymarketYes: 1.3
+polymarketNo: 98.7
+polymarketVolume: 9780
+polymarketUrl: "https://polymarket.com/event/will-karrigan-retire-by-june-30"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 1.1% | 98.9% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 1.3% | 98.7% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-sergio-massa-win-the-2027-arge
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Sergio Massa win the 2027 Argentina presidential election?"?
+### What are the current odds for "Will Karrigan retire by June 30? "?
 
-As of June 12, 2026, Polymarket prices YES at 1.1%.
+As of June 12, 2026, Polymarket prices YES at 1.3%.
 
 ### Where can I trade on this prediction market?
 

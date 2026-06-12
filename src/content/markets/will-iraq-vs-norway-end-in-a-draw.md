@@ -1,23 +1,23 @@
 ---
-title: "Will Sergio Massa win the 2027 Argentina presidential election?"
-description: "Will Sergio Massa win the 2027 Argentina presidential election? Odds: 1.1% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Sergio Massa win the 2027 Argentina presidential election?"
+title: "Will Iraq vs. Norway end in a draw?"
+description: "Will Iraq vs. Norway end in a draw? Odds: 12.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Iraq vs. Norway end in a draw?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-06-12
-expiryDate: 2027-10-24
-tags: ["elections", "politics", "polymarket"]
-polymarketYes: 1.1
-polymarketNo: 98.9
-polymarketVolume: 9983
-polymarketUrl: "https://polymarket.com/event/will-sergio-massa-win-the-2027-argentina-presidential-election"
+expiryDate: 2026-06-16
+tags: ["politics", "polymarket"]
+polymarketYes: 12.5
+polymarketNo: 87.5
+polymarketVolume: 9832
+polymarketUrl: "https://polymarket.com/event/fifwc-irq-nor-2026-06-16-draw"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 1.1% | 98.9% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 12.5% | 87.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-sergio-massa-win-the-2027-arge
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Sergio Massa win the 2027 Argentina presidential election?"?
+### What are the current odds for "Will Iraq vs. Norway end in a draw?"?
 
-As of June 12, 2026, Polymarket prices YES at 1.1%.
+As of June 12, 2026, Polymarket prices YES at 12.5%.
 
 ### Where can I trade on this prediction market?
 

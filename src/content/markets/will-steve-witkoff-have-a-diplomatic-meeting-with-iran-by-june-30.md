@@ -1,14 +1,14 @@
 ---
 title: "Will Steve Witkoff have a diplomatic meeting with Iran by June 30?"
-description: "Will Steve Witkoff have a diplomatic meeting with Iran by June 30? Odds: 42.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Steve Witkoff have a diplomatic meeting with Iran by June 30? Odds: 38.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Steve Witkoff have a diplomatic meeting with Iran by June 30?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-06-12
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
-polymarketYes: 42.5
-polymarketNo: 57.5
+polymarketYes: 38.0
+polymarketNo: 62.0
 polymarketVolume: 9748
 polymarketUrl: "https://polymarket.com/event/will-steve-witkoff-have-a-diplomatic-meeting-with-iran-by-june-30"
 ---
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-steve-witkoff-have-a-diplomati
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 42.5% | 57.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 38.0% | 62.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Carlos Roberto Massa Júnior win the 2026 Brazilian presidential election?](/odds/will-carlos-roberto-massa-jnior-win-the-2026-brazilian-presidential-election) — 0% YES
 - [Will Nikki Haley win the 2028 Republican presidential nomination?](/odds/will-nikki-haley-win-the-2028-republican-presidential-nomination) — 1% YES
-- [Will OpenAI have the best AI model at the end of June 2026?](/odds/will-openai-have-the-best-ai-model-at-the-end-of-june-2026) — 3% YES
+- [Will DeepSeek have the best AI model at the end of June 2026?](/odds/will-deepseek-have-the-best-ai-model-at-the-end-of-june-2026) — 0% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Steve Witkoff have a diplomatic meeting with Iran by June 30?"?
 
-As of June 12, 2026, Polymarket prices YES at 42.5%.
+As of June 12, 2026, Polymarket prices YES at 38.0%.
 
 ### Where can I trade on this prediction market?
 

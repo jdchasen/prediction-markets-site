@@ -21,9 +21,9 @@ polymarketUrl: "https://polymarket.com/event/will-los-angeles-clippers-win-the-2
 
 ## Related Markets
 
-- [Will Miami Heat win the 2027 NBA Finals?](/odds/will-miami-heat-win-the-2027-nba-finals) — 4% YES
-- [Will Marcus Thuram be the top goalscorer at the 2026 FIFA World Cup?](/odds/will-marcus-thuram-be-the-top-goalscorer-at-the-2026-fifa-world-cup) — 0% YES
-- [Will Mohamed Salah be the top goalscorer at the 2026 FIFA World Cup?](/odds/will-mohamed-salah-be-the-top-goalscorer-at-the-2026-fifa-world-cup) — 0% YES
+- [Will Houston Texans win the 2027 NFL AFC Championship?](/odds/will-houston-texans-win-the-2027-nfl-afc-championship) — 9% YES
+- [Will Baker Mayfield win the 2026 NFL MVP?](/odds/will-baker-mayfield-win-the-2026-nfl-mvp) — 1% YES
+- [Will A Nation That Has Never Won the World Cup Win in 2026?](/odds/will-a-nation-that-has-never-won-the-world-cup-win-in-2026) — 31% YES
 
 ## Frequently Asked Questions
 

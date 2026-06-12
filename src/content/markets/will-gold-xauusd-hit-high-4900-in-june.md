@@ -1,23 +1,23 @@
 ---
-title: "Will S&P 500 (SPY) hit (LOW) $690 in June?"
-description: "Will S&P 500 (SPY) hit (LOW) $690 in June? Odds: 11.0% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will S&P 500 (SPY) hit (LOW) $690 in June?"
+title: "Will Gold (XAUUSD) hit (HIGH) $4,900 in June?"
+description: "Will Gold (XAUUSD) hit (HIGH) $4,900 in June? Odds: 2.9% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Gold (XAUUSD) hit (HIGH) $4,900 in June?"
 category: "finance"
 status: "active"
 lastUpdated: 2026-06-12
 expiryDate: 2026-07-01
-tags: ["finance", "polymarket", "stocks"]
-polymarketYes: 11.0
-polymarketNo: 89.0
-polymarketVolume: 9919
-polymarketUrl: "https://polymarket.com/event/will-spy-dip-to-690-in-june-2026"
+tags: ["finance", "polymarket"]
+polymarketYes: 2.9
+polymarketNo: 97.0
+polymarketVolume: 9793
+polymarketUrl: "https://polymarket.com/event/will-xauusd-reach-4900-in-june-2026"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 11.0% | 89.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 2.9% | 97.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-spy-dip-to-690-in-june-2026"
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will S&P 500 (SPY) hit (LOW) $690 in June?"?
+### What are the current odds for "Will Gold (XAUUSD) hit (HIGH) $4,900 in June?"?
 
-As of June 12, 2026, Polymarket prices YES at 11.0%.
+As of June 12, 2026, Polymarket prices YES at 2.9%.
 
 ### Where can I trade on this prediction market?
 
@@ -37,6 +37,6 @@ You can trade this market on [Polymarket](https://polymarket.us/1762?utm_source=
 
 ## Learn More
 
+- [Gold Price Prediction 2026: Will Gold Hit $7,000?](/blog/gold-price-prediction-2026-will-gold-hit-7000)
 - [Will Oil Hit $100? March Crude Prediction Market Odds](/blog/will-oil-hit-100-march-crude-prediction-market-odds)
-- [Will MicroStrategy Sell Bitcoin? Market Odds](/blog/will-microstrategy-sell-bitcoin-market-odds)
 

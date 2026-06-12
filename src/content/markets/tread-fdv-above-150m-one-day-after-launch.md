@@ -21,9 +21,9 @@ polymarketUrl: "https://polymarket.com/event/tread-fdv-above-150m-one-day-after-
 
 ## Related Markets
 
-- [Predict.fun FDV above $300M one day after launch?](/odds/predictfun-fdv-above-300m-one-day-after-launch) — 70% YES
-- [Will the price of Bitcoin be above $66,000 on June 15?](/odds/will-the-price-of-bitcoin-be-above-66000-on-june-15) — 8% YES
-- [Will Ink launch a token by December 31, 2026?](/odds/will-ink-launch-a-token-by-december-31-2026) — 74% YES
+- [Predict.fun FDV above $300M one day after launch?](/odds/predictfun-fdv-above-300m-one-day-after-launch) — 71% YES
+- [Extended FDV above $2B one day after launch?](/odds/extended-fdv-above-2b-one-day-after-launch) — 2% YES
+- [Will the price of Bitcoin be above $56,000 on June 18?](/odds/will-the-price-of-bitcoin-be-above-56000-on-june-18) — 99% YES
 
 ## Frequently Asked Questions
 

@@ -3,7 +3,7 @@ title: "Will the Bank of Korea make no change to the base rate after the July Me
 description: "Will the Bank of Korea make no change to the base rate after the July Meeting? Odds: 26.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Bank of Korea make no change to the base rate after the July Meeting?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-12
 expiryDate: 2026-07-16
 tags: ["politics", "polymarket"]

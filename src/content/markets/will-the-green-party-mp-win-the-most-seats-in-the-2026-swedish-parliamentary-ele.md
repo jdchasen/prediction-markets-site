@@ -1,14 +1,14 @@
 ---
 title: "Will the Green Party (MP) win the most seats in the 2026 Swedish parliamentary election?"
-description: "Will the Green Party (MP) win the most seats in the 2026 Swedish parliamentary election? Odds: 0.2% YES on Polymarket. See live prices and trade this market."
+description: "Will the Green Party (MP) win the most seats in the 2026 Swedish parliamentary election? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Green Party (MP) win the most seats in the 2026 Swedish parliamentary election?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-06-12
 expiryDate: 2026-09-13
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 0.2
-polymarketNo: 99.8
+polymarketYes: 0.1
+polymarketNo: 99.9
 polymarketVolume: 97732
 polymarketUrl: "https://polymarket.com/event/will-the-green-party-mp-win-the-most-seats-in-the-2026-swedish-parliamentary-election"
 ---
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-the-green-party-mp-win-the-mos
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.2% | 99.8% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.1% | 99.9% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Carlos Roberto Massa Júnior win the 2026 Brazilian presidential election?](/odds/will-carlos-roberto-massa-jnior-win-the-2026-brazilian-presidential-election) — 0% YES
 - [Will Nikki Haley win the 2028 Republican presidential nomination?](/odds/will-nikki-haley-win-the-2028-republican-presidential-nomination) — 1% YES
-- [Will OpenAI have the best AI model at the end of June 2026?](/odds/will-openai-have-the-best-ai-model-at-the-end-of-june-2026) — 3% YES
+- [Will DeepSeek have the best AI model at the end of June 2026?](/odds/will-deepseek-have-the-best-ai-model-at-the-end-of-june-2026) — 0% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will the Green Party (MP) win the most seats in the 2026 Swedish parliamentary election?"?
 
-As of June 12, 2026, Polymarket prices YES at 0.2%.
+As of June 12, 2026, Polymarket prices YES at 0.1%.
 
 ### Where can I trade on this prediction market?
 

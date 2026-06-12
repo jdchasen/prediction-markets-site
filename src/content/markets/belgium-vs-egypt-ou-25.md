@@ -3,7 +3,7 @@ title: "Belgium vs. Egypt: O/U 2.5"
 description: "Belgium vs. Egypt: O/U 2.5 Odds: 48.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Belgium vs. Egypt: O/U 2.5"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-12
 expiryDate: 2026-06-15
 tags: ["politics", "polymarket"]

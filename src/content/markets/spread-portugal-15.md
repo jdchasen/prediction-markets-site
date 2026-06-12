@@ -3,7 +3,7 @@ title: "Spread: Portugal (-1.5)"
 description: "Spread: Portugal (-1.5) Odds: 51.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Spread: Portugal (-1.5)"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-12
 expiryDate: 2026-06-17
 tags: ["politics", "polymarket"]

@@ -1,23 +1,23 @@
 ---
-title: "Will Chris Larson win the 2026 Wisconsin Governor Democratic primary election?"
-description: "Will Chris Larson win the 2026 Wisconsin Governor Democratic primary election? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Chris Larson win the 2026 Wisconsin Governor Democratic primary election?"
+title: "Will Jannik Sinner be the 2026 Men’s Wimbledon winner?"
+description: "Will Jannik Sinner be the 2026 Men’s Wimbledon winner? Odds: 57.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Jannik Sinner be the 2026 Men’s Wimbledon winner?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-06-12
-expiryDate: 2026-08-11
-tags: ["elections", "politics", "polymarket"]
-polymarketYes: 0.1
-polymarketNo: 99.9
-polymarketVolume: 9971
-polymarketUrl: "https://polymarket.com/event/will-chris-larson-win-the-2026-wisconsin-governor-democratic-primary-election"
+expiryDate: 2026-07-12
+tags: ["politics", "polymarket"]
+polymarketYes: 57.5
+polymarketNo: 42.5
+polymarketVolume: 97359
+polymarketUrl: "https://polymarket.com/event/will-jannik-sinner-be-the-2026-mens-wimbledon-winner"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.1% | 99.9% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 57.5% | 42.5% | $97K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-chris-larson-win-the-2026-wisc
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Chris Larson win the 2026 Wisconsin Governor Democratic primary election?"?
+### What are the current odds for "Will Jannik Sinner be the 2026 Men’s Wimbledon winner?"?
 
-As of June 12, 2026, Polymarket prices YES at 0.1%.
+As of June 12, 2026, Polymarket prices YES at 57.5%.
 
 ### Where can I trade on this prediction market?
 

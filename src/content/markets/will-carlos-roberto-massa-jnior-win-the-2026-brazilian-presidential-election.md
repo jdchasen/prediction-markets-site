@@ -9,7 +9,7 @@ expiryDate: 2026-10-04
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.1
 polymarketNo: 99.9
-polymarketVolume: 9920980
+polymarketVolume: 9921120
 polymarketUrl: "https://polymarket.com/event/will-carlos-roberto-massa-jnior-win-the-2026-brazilian-presidential-election"
 ---
 
@@ -22,8 +22,8 @@ polymarketUrl: "https://polymarket.com/event/will-carlos-roberto-massa-jnior-win
 ## Related Markets
 
 - [Will Nikki Haley win the 2028 Republican presidential nomination?](/odds/will-nikki-haley-win-the-2028-republican-presidential-nomination) — 1% YES
-- [Will OpenAI have the best AI model at the end of June 2026?](/odds/will-openai-have-the-best-ai-model-at-the-end-of-june-2026) — 3% YES
 - [Will DeepSeek have the best AI model at the end of June 2026?](/odds/will-deepseek-have-the-best-ai-model-at-the-end-of-june-2026) — 0% YES
+- [Will the Liberal Democratic Party of Russia (LDPR) win the most seats in the next Russian parliamentary election?](/odds/will-the-liberal-democratic-party-of-russia-ldpr-win-the-most-seats-in-the-next-) — 0% YES
 
 ## Frequently Asked Questions
 
