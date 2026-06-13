@@ -3,7 +3,7 @@ title: "Will GenG qualify to MSI 2026?"
 description: "Will GenG qualify to MSI 2026? Odds: 67.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will GenG qualify to MSI 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-13
 expiryDate: 2026-07-12
 tags: ["politics", "polymarket"]

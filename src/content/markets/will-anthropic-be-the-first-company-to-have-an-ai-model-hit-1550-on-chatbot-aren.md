@@ -1,23 +1,23 @@
 ---
-title: "Will Jerônimo Rodrigues win the 2026 Bahia gubernatorial election?"
-description: "Will Jerônimo Rodrigues win the 2026 Bahia gubernatorial election? Odds: 47.0% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Jerônimo Rodrigues win the 2026 Bahia gubernatorial election?"
+title: "Will Anthropic be the first company to have an AI model hit 1550 on Chatbot Arena in 2026?"
+description: "Will Anthropic be the first company to have an AI model hit 1550 on Chatbot Arena in 2026? Odds: 23.0% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Anthropic be the first company to have an AI model hit 1550 on Chatbot Arena in 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-06-13
-expiryDate: 2026-10-04
-tags: ["elections", "politics", "polymarket"]
-polymarketYes: 47.0
-polymarketNo: 53.0
-polymarketVolume: 9800
-polymarketUrl: "https://polymarket.com/event/will-jernimo-rodrigues-win-the-2026-bahia-gubernatorial-election"
+expiryDate: 2026-12-31
+tags: ["ai", "politics", "polymarket"]
+polymarketYes: 23.0
+polymarketNo: 77.0
+polymarketVolume: 9840
+polymarketUrl: "https://polymarket.com/event/will-anthropic-be-the-first-company-to-have-an-ai-model-hit-1550-on-chatbot-arena-in-2026"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 47.0% | 53.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 23.0% | 77.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-jernimo-rodrigues-win-the-2026
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Jerônimo Rodrigues win the 2026 Bahia gubernatorial election?"?
+### What are the current odds for "Will Anthropic be the first company to have an AI model hit 1550 on Chatbot Arena in 2026?"?
 
-As of June 13, 2026, Polymarket prices YES at 47.0%.
+As of June 13, 2026, Polymarket prices YES at 23.0%.
 
 ### Where can I trade on this prediction market?
 

@@ -9,7 +9,7 @@ expiryDate: 2026-06-28
 tags: ["polymarket", "sports"]
 polymarketYes: 34.5
 polymarketNo: 65.5
-polymarketVolume: 97814
+polymarketVolume: 98483
 polymarketUrl: "https://polymarket.com/event/will-saudi-arabia-advance-to-the-knockout-stages-at-the-2026-fifa-world-cup"
 ---
 
@@ -23,7 +23,7 @@ polymarketUrl: "https://polymarket.com/event/will-saudi-arabia-advance-to-the-kn
 
 - [Will Houston Texans win the 2027 NFL AFC Championship?](/odds/will-houston-texans-win-the-2027-nfl-afc-championship) — 8% YES
 - [Will Baker Mayfield win the 2026 NFL MVP?](/odds/will-baker-mayfield-win-the-2026-nfl-mvp) — 1% YES
-- [NBA Finals: Wemby to Record 20+ Rebounds in a Game?](/odds/nba-finals-wemby-to-record-20-rebounds-in-a-game) — 8% YES
+- [World Cup: Single Match Yellow Cards Record Broken?](/odds/world-cup-single-match-yellow-cards-record-broken) — 12% YES
 
 ## Frequently Asked Questions
 

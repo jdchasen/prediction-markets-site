@@ -3,7 +3,7 @@ title: "Will OpenAI have the third highest private market valuation on June 30?"
 description: "Will OpenAI have the third highest private market valuation on June 30? Odds: 89.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will OpenAI have the third highest private market valuation on June 30?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-13
 expiryDate: 2026-07-01
 tags: ["ai", "politics", "polymarket"]

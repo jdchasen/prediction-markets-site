@@ -22,7 +22,8 @@ polymarketUrl: "https://polymarket.com/event/will-magicblock-launch-a-token-by-j
 ## Related Markets
 
 - [Predict.fun FDV above $300M one day after launch?](/odds/predictfun-fdv-above-300m-one-day-after-launch) — 72% YES
-- [Will the price of Bitcoin be above $56,000 on June 18?](/odds/will-the-price-of-bitcoin-be-above-56000-on-june-18) — 98% YES
+- [Extended FDV above $300M one day after launch?](/odds/extended-fdv-above-300m-one-day-after-launch) — 48% YES
+- [Extended FDV above $2B one day after launch?](/odds/extended-fdv-above-2b-one-day-after-launch) — 2% YES
 
 ## Frequently Asked Questions
 

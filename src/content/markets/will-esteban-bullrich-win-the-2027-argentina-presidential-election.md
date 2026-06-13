@@ -9,7 +9,7 @@ expiryDate: 2027-10-24
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.3
 polymarketNo: 99.7
-polymarketVolume: 9932
+polymarketVolume: 9978
 polymarketUrl: "https://polymarket.com/event/will-esteban-bullrich-win-the-2027-argentina-presidential-election"
 ---
 
@@ -23,7 +23,7 @@ polymarketUrl: "https://polymarket.com/event/will-esteban-bullrich-win-the-2027-
 
 - [Will Carlos Roberto Massa Júnior win the 2026 Brazilian presidential election?](/odds/will-carlos-roberto-massa-jnior-win-the-2026-brazilian-presidential-election) — 0% YES
 - [Will Nikki Haley win the 2028 Republican presidential nomination?](/odds/will-nikki-haley-win-the-2028-republican-presidential-nomination) — 1% YES
-- [Will DeepSeek have the best AI model at the end of June 2026?](/odds/will-deepseek-have-the-best-ai-model-at-the-end-of-june-2026) — 0% YES
+- [Will James Talarico win the 2028 Democratic presidential nomination?](/odds/will-james-talarico-win-the-2028-democratic-presidential-nomination) — 2% YES
 
 ## Frequently Asked Questions
 

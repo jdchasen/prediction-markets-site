@@ -3,7 +3,7 @@ title: "Will Colombia win on 2026-06-27?"
 description: "Will Colombia win on 2026-06-27? Odds: 26.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Colombia win on 2026-06-27?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-13
 expiryDate: 2026-06-27
 tags: ["politics", "polymarket"]

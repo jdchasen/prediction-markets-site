@@ -21,7 +21,7 @@ polymarketUrl: "https://polymarket.com/event/will-shein-have-the-highest-ipo-mar
 
 ## Related Markets
 
-- [Anysphere (Cursor) IPO before 2027?](/odds/anysphere-cursor-ipo-before-2027) — 5% YES
+- [Anysphere (Cursor) IPO before 2027?](/odds/anysphere-cursor-ipo-before-2027) — 4% YES
 - [Will Trump sell 1k-2.5k Gold Cards in 2026?](/odds/will-trump-sell-1k-25k-gold-cards-in-2026) — 4% YES
 
 ## Frequently Asked Questions

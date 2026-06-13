@@ -1,15 +1,15 @@
 ---
 title: "Will there be exactly 10 earthquakes of magnitude 7.0 or higher worldwide by June 30?"
-description: "Will there be exactly 10 earthquakes of magnitude 7.0 or higher worldwide by June 30? Odds: 9.4% YES on Polymarket. See live prices and trade this market."
+description: "Will there be exactly 10 earthquakes of magnitude 7.0 or higher worldwide by June 30? Odds: 9.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will there be exactly 10 earthquakes of magnitude 7.0 or higher worldwide by June 30?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-06-13
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
-polymarketYes: 9.4
-polymarketNo: 90.6
-polymarketVolume: 9811
+polymarketYes: 9.0
+polymarketNo: 91.0
+polymarketVolume: 9868
 polymarketUrl: "https://polymarket.com/event/will-there-be-exactly-10-earthquakes-of-magnitude-7pt0-or-higher-worldwide-by-june-30"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-there-be-exactly-10-earthquake
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 9.4% | 90.6% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 9.0% | 91.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Carlos Roberto Massa Júnior win the 2026 Brazilian presidential election?](/odds/will-carlos-roberto-massa-jnior-win-the-2026-brazilian-presidential-election) — 0% YES
 - [Will Nikki Haley win the 2028 Republican presidential nomination?](/odds/will-nikki-haley-win-the-2028-republican-presidential-nomination) — 1% YES
-- [Will DeepSeek have the best AI model at the end of June 2026?](/odds/will-deepseek-have-the-best-ai-model-at-the-end-of-june-2026) — 0% YES
+- [Will James Talarico win the 2028 Democratic presidential nomination?](/odds/will-james-talarico-win-the-2028-democratic-presidential-nomination) — 2% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will there be exactly 10 earthquakes of magnitude 7.0 or higher worldwide by June 30?"?
 
-As of June 13, 2026, Polymarket prices YES at 9.4%.
+As of June 13, 2026, Polymarket prices YES at 9.0%.
 
 ### Where can I trade on this prediction market?
 

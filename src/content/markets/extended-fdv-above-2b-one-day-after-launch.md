@@ -3,13 +3,13 @@ title: "Extended FDV above $2B one day after launch?"
 description: "Extended FDV above $2B one day after launch? Odds: 2.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Extended FDV above $2B one day after launch?"
 category: "crypto"
-status: "settled"
+status: "active"
 lastUpdated: 2026-06-13
 expiryDate: 2027-01-01
 tags: ["crypto", "polymarket"]
 polymarketYes: 2.1
 polymarketNo: 98.0
-polymarketVolume: 97332
+polymarketVolume: 97338
 polymarketUrl: "https://polymarket.com/event/extended-fdv-above-2b-one-day-after-launch-692-597-187"
 ---
 
@@ -21,15 +21,15 @@ polymarketUrl: "https://polymarket.com/event/extended-fdv-above-2b-one-day-after
 
 ## Related Markets
 
-- [Predict.fun FDV above $300M one day after launch?](/odds/predictfun-fdv-above-300m-one-day-after-launch) — 71% YES
-- [Will the price of Bitcoin be above $56,000 on June 18?](/odds/will-the-price-of-bitcoin-be-above-56000-on-june-18) — 99% YES
-- [Tread FDV above $150M one day after launch](/odds/tread-fdv-above-150m-one-day-after-launch) — 14% YES
+- [Predict.fun FDV above $300M one day after launch?](/odds/predictfun-fdv-above-300m-one-day-after-launch) — 72% YES
+- [Extended FDV above $300M one day after launch?](/odds/extended-fdv-above-300m-one-day-after-launch) — 48% YES
+- [Will MagicBlock launch a token by June 30, 2027?](/odds/will-magicblock-launch-a-token-by-june-30-2027) — 84% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Extended FDV above $2B one day after launch?"?
 
-As of June 12, 2026, Polymarket prices YES at 2.1%.
+As of June 13, 2026, Polymarket prices YES at 2.1%.
 
 ### Where can I trade on this prediction market?
 

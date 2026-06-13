@@ -3,7 +3,7 @@ title: "Will Jannik Sinner be the 2026 Men’s Wimbledon winner?"
 description: "Will Jannik Sinner be the 2026 Men’s Wimbledon winner? Odds: 57.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Jannik Sinner be the 2026 Men’s Wimbledon winner?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-13
 expiryDate: 2026-07-12
 tags: ["politics", "polymarket"]

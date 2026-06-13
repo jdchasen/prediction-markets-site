@@ -1,23 +1,23 @@
 ---
-title: "Will a player representing Netherlands be the top goalscorer at the 2026 FIFA World Cup?"
-description: "Will a player representing Netherlands be the top goalscorer at the 2026 FIFA World Cup? Odds: 2.2% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will a player representing Netherlands be the top goalscorer at the 2026 FIFA World Cup?"
+title: "Will Neymar score 1+ goals during the 2026 FIFA World Cup?"
+description: "Will Neymar score 1+ goals during the 2026 FIFA World Cup? Odds: 42.0% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Neymar score 1+ goals during the 2026 FIFA World Cup?"
 category: "sports"
 status: "active"
 lastUpdated: 2026-06-13
-expiryDate: 2026-08-20
-tags: ["ethereum", "polymarket", "sports"]
-polymarketYes: 2.2
-polymarketNo: 97.8
-polymarketVolume: 9887
-polymarketUrl: "https://polymarket.com/event/will-a-player-representing-netherlands-be-the-top-goalscorer-at-the-2026-fifa-world-cup"
+expiryDate: 2026-08-03
+tags: ["polymarket", "sports"]
+polymarketYes: 42.0
+polymarketNo: 58.0
+polymarketVolume: 9885
+polymarketUrl: "https://polymarket.com/event/will-neymar-score-1-goals-during-the-2026-fifa-world-cup-20260611145108553"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 2.2% | 97.8% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 42.0% | 58.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-a-player-representing-netherla
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will a player representing Netherlands be the top goalscorer at the 2026 FIFA World Cup?"?
+### What are the current odds for "Will Neymar score 1+ goals during the 2026 FIFA World Cup?"?
 
-As of June 13, 2026, Polymarket prices YES at 2.2%.
+As of June 13, 2026, Polymarket prices YES at 42.0%.
 
 ### Where can I trade on this prediction market?
 

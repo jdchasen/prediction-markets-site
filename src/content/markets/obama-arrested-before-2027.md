@@ -3,7 +3,7 @@ title: "Obama arrested before 2027?"
 description: "Obama arrested before 2027? Odds: 5.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Obama arrested before 2027?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-13
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]

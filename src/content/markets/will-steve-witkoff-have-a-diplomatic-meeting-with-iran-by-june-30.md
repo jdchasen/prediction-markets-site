@@ -3,7 +3,7 @@ title: "Will Steve Witkoff have a diplomatic meeting with Iran by June 30?"
 description: "Will Steve Witkoff have a diplomatic meeting with Iran by June 30? Odds: 44.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Steve Witkoff have a diplomatic meeting with Iran by June 30?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-13
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]

@@ -3,7 +3,7 @@ title: "NBA Finals: Wemby to Record 20+ Rebounds in a Game?"
 description: "NBA Finals: Wemby to Record 20+ Rebounds in a Game? Odds: 8.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "NBA Finals: Wemby to Record 20+ Rebounds in a Game?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-13
 expiryDate: 2026-06-20
 tags: ["polymarket", "sports"]

@@ -3,7 +3,7 @@ title: "France leading at halftime?"
 description: "France leading at halftime? Odds: 49.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "France leading at halftime?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-13
 expiryDate: 2026-06-16
 tags: ["politics", "polymarket"]

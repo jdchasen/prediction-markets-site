@@ -3,7 +3,7 @@ title: "Will Belgium win on 2026-06-21?"
 description: "Will Belgium win on 2026-06-21? Odds: 69.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Belgium win on 2026-06-21?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-13
 expiryDate: 2026-06-21
 tags: ["politics", "polymarket"]
