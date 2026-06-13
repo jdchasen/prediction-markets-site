@@ -1,15 +1,15 @@
 ---
 title: "Will Steve Witkoff have a diplomatic meeting with Iran by June 30?"
-description: "Will Steve Witkoff have a diplomatic meeting with Iran by June 30? Odds: 38.0% YES on Polymarket. See live prices and trade this market."
+description: "Will Steve Witkoff have a diplomatic meeting with Iran by June 30? Odds: 44.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Steve Witkoff have a diplomatic meeting with Iran by June 30?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-06-12
+lastUpdated: 2026-06-13
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
-polymarketYes: 38.0
-polymarketNo: 62.0
-polymarketVolume: 9748
+polymarketYes: 44.0
+polymarketNo: 56.0
+polymarketVolume: 9869
 polymarketUrl: "https://polymarket.com/event/will-steve-witkoff-have-a-diplomatic-meeting-with-iran-by-june-30"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-steve-witkoff-have-a-diplomati
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 38.0% | 62.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 44.0% | 56.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-steve-witkoff-have-a-diplomati
 
 ### What are the current odds for "Will Steve Witkoff have a diplomatic meeting with Iran by June 30?"?
 
-As of June 12, 2026, Polymarket prices YES at 38.0%.
+As of June 13, 2026, Polymarket prices YES at 44.0%.
 
 ### Where can I trade on this prediction market?
 

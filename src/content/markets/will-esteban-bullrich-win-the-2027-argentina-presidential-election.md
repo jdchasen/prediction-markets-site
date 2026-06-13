@@ -4,12 +4,12 @@ description: "Will Esteban Bullrich win the 2027 Argentina presidential election
 marketQuestion: "Will Esteban Bullrich win the 2027 Argentina presidential election?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-06-12
+lastUpdated: 2026-06-13
 expiryDate: 2027-10-24
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.3
 polymarketNo: 99.7
-polymarketVolume: 9869
+polymarketVolume: 9932
 polymarketUrl: "https://polymarket.com/event/will-esteban-bullrich-win-the-2027-argentina-presidential-election"
 ---
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-esteban-bullrich-win-the-2027-
 
 ### What are the current odds for "Will Esteban Bullrich win the 2027 Argentina presidential election?"?
 
-As of June 12, 2026, Polymarket prices YES at 0.3%.
+As of June 13, 2026, Polymarket prices YES at 0.3%.
 
 ### Where can I trade on this prediction market?
 

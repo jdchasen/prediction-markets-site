@@ -1,15 +1,15 @@
 ---
 title: "Will there be exactly 10 earthquakes of magnitude 7.0 or higher worldwide by June 30?"
-description: "Will there be exactly 10 earthquakes of magnitude 7.0 or higher worldwide by June 30? Odds: 11.3% YES on Polymarket. See live prices and trade this market."
+description: "Will there be exactly 10 earthquakes of magnitude 7.0 or higher worldwide by June 30? Odds: 9.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will there be exactly 10 earthquakes of magnitude 7.0 or higher worldwide by June 30?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-06-12
+lastUpdated: 2026-06-13
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
-polymarketYes: 11.3
-polymarketNo: 88.6
-polymarketVolume: 9754
+polymarketYes: 9.4
+polymarketNo: 90.6
+polymarketVolume: 9811
 polymarketUrl: "https://polymarket.com/event/will-there-be-exactly-10-earthquakes-of-magnitude-7pt0-or-higher-worldwide-by-june-30"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-there-be-exactly-10-earthquake
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 11.3% | 88.6% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 9.4% | 90.6% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-there-be-exactly-10-earthquake
 
 ### What are the current odds for "Will there be exactly 10 earthquakes of magnitude 7.0 or higher worldwide by June 30?"?
 
-As of June 12, 2026, Polymarket prices YES at 11.3%.
+As of June 13, 2026, Polymarket prices YES at 9.4%.
 
 ### Where can I trade on this prediction market?
 

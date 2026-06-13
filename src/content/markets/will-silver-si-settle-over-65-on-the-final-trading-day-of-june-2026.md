@@ -1,15 +1,15 @@
 ---
 title: "Will Silver (SI) settle over $65 on the final trading day of June 2026?"
-description: "Will Silver (SI) settle over $65 on the final trading day of June 2026? Odds: 53.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Silver (SI) settle over $65 on the final trading day of June 2026? Odds: 56.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Silver (SI) settle over $65 on the final trading day of June 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-06-12
+lastUpdated: 2026-06-13
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
-polymarketYes: 53.5
-polymarketNo: 46.5
-polymarketVolume: 9833
+polymarketYes: 56.0
+polymarketNo: 44.0
+polymarketVolume: 9834
 polymarketUrl: "https://polymarket.com/event/si-above-65-jun-2026"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/si-above-65-jun-2026"
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 53.5% | 46.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 56.0% | 44.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/si-above-65-jun-2026"
 
 ### What are the current odds for "Will Silver (SI) settle over $65 on the final trading day of June 2026?"?
 
-As of June 12, 2026, Polymarket prices YES at 53.5%.
+As of June 13, 2026, Polymarket prices YES at 56.0%.
 
 ### Where can I trade on this prediction market?
 

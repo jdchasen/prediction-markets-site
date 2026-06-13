@@ -3,8 +3,8 @@ title: "Will Sergio Massa win the 2027 Argentina presidential election?"
 description: "Will Sergio Massa win the 2027 Argentina presidential election? Odds: 1.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Sergio Massa win the 2027 Argentina presidential election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-06-12
+status: "settled"
+lastUpdated: 2026-06-13
 expiryDate: 2027-10-24
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 1.1

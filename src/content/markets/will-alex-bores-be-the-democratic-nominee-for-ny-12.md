@@ -4,7 +4,7 @@ description: "Will Alex Bores be the democratic nominee for NY-12? Odds: 35.5% Y
 marketQuestion: "Will Alex Bores be the democratic nominee for NY-12?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-06-12
+lastUpdated: 2026-06-13
 expiryDate: 2026-06-23
 tags: ["politics", "polymarket"]
 polymarketYes: 35.5
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-alex-bores-be-the-democratic-n
 
 ### What are the current odds for "Will Alex Bores be the democratic nominee for NY-12?"?
 
-As of June 12, 2026, Polymarket prices YES at 35.5%.
+As of June 13, 2026, Polymarket prices YES at 35.5%.
 
 ### Where can I trade on this prediction market?
 

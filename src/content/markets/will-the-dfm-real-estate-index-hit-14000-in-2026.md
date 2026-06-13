@@ -1,14 +1,14 @@
 ---
 title: "Will the DFM Real Estate Index hit 14,000 in 2026?"
-description: "Will the DFM Real Estate Index hit 14,000 in 2026? Odds: 22.5% YES on Polymarket. See live prices and trade this market."
+description: "Will the DFM Real Estate Index hit 14,000 in 2026? Odds: 28.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the DFM Real Estate Index hit 14,000 in 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-06-12
+lastUpdated: 2026-06-13
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]
-polymarketYes: 22.5
-polymarketNo: 77.5
+polymarketYes: 28.5
+polymarketNo: 71.5
 polymarketVolume: 9971
 polymarketUrl: "https://polymarket.com/event/will-the-dfm-real-estate-index-hit-14000-in-2026"
 ---
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-dfm-real-estate-index-hit-
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 22.5% | 77.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 28.5% | 71.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-dfm-real-estate-index-hit-
 
 ### What are the current odds for "Will the DFM Real Estate Index hit 14,000 in 2026?"?
 
-As of June 12, 2026, Polymarket prices YES at 22.5%.
+As of June 13, 2026, Polymarket prices YES at 28.5%.
 
 ### Where can I trade on this prediction market?
 

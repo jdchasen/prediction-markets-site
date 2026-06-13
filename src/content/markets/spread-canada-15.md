@@ -3,8 +3,8 @@ title: "Spread: Canada (-1.5)"
 description: "Spread: Canada (-1.5) Odds: 50.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Spread: Canada (-1.5)"
 category: "politics"
-status: "active"
-lastUpdated: 2026-06-12
+status: "settled"
+lastUpdated: 2026-06-13
 expiryDate: 2026-06-18
 tags: ["politics", "polymarket"]
 polymarketYes: 50.5

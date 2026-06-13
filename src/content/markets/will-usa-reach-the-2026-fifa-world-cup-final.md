@@ -3,8 +3,8 @@ title: "Will USA reach the 2026 FIFA World Cup final?"
 description: "Will USA reach the 2026 FIFA World Cup final? Odds: 3.6% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will USA reach the 2026 FIFA World Cup final?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-06-12
+status: "settled"
+lastUpdated: 2026-06-13
 expiryDate: 2026-07-20
 tags: ["polymarket", "sports"]
 polymarketYes: 3.6

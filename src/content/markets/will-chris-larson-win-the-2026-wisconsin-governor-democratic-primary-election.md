@@ -4,7 +4,7 @@ description: "Will Chris Larson win the 2026 Wisconsin Governor Democratic prima
 marketQuestion: "Will Chris Larson win the 2026 Wisconsin Governor Democratic primary election?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-06-12
+lastUpdated: 2026-06-13
 expiryDate: 2026-08-11
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.1
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-chris-larson-win-the-2026-wisc
 
 ### What are the current odds for "Will Chris Larson win the 2026 Wisconsin Governor Democratic primary election?"?
 
-As of June 12, 2026, Polymarket prices YES at 0.1%.
+As of June 13, 2026, Polymarket prices YES at 0.1%.
 
 ### Where can I trade on this prediction market?
 

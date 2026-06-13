@@ -1,15 +1,15 @@
 ---
 title: "Will Trump speak to Luiz Inácio Lula da Silva in June?"
-description: "Will Trump speak to Luiz Inácio Lula da Silva in June? Odds: 79.0% YES on Polymarket. See live prices and trade this market."
+description: "Will Trump speak to Luiz Inácio Lula da Silva in June? Odds: 77.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Trump speak to Luiz Inácio Lula da Silva in June?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-06-12
+lastUpdated: 2026-06-13
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket", "trump"]
-polymarketYes: 79.0
-polymarketNo: 21.0
-polymarketVolume: 9771
+polymarketYes: 77.5
+polymarketNo: 22.5
+polymarketVolume: 9842
 polymarketUrl: "https://polymarket.com/event/will-trump-speak-to-luiz-incio-lula-da-silva-in-june"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-trump-speak-to-luiz-incio-lula
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 79.0% | 21.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 77.5% | 22.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-trump-speak-to-luiz-incio-lula
 
 ### What are the current odds for "Will Trump speak to Luiz Inácio Lula da Silva in June?"?
 
-As of June 12, 2026, Polymarket prices YES at 79.0%.
+As of June 13, 2026, Polymarket prices YES at 77.5%.
 
 ### Where can I trade on this prediction market?
 

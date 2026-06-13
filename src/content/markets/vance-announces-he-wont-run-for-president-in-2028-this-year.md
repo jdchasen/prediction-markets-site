@@ -1,15 +1,15 @@
 ---
 title: "Vance announces he won't run for President in 2028 this year?"
-description: "Vance announces he won't run for President in 2028 this year? Odds: 9.5% YES on Polymarket. See live prices and trade this market."
+description: "Vance announces he won't run for President in 2028 this year? Odds: 10.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Vance announces he won't run for President in 2028 this year?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-06-12
+lastUpdated: 2026-06-13
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 9.5
-polymarketNo: 90.5
-polymarketVolume: 9770
+polymarketYes: 10.0
+polymarketNo: 90.0
+polymarketVolume: 9961
 polymarketUrl: "https://polymarket.com/event/vance-announces-he-wont-run-for-president-in-2028-this-year"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/vance-announces-he-wont-run-for-pre
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 9.5% | 90.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 10.0% | 90.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/vance-announces-he-wont-run-for-pre
 
 ### What are the current odds for "Vance announces he won't run for President in 2028 this year?"?
 
-As of June 12, 2026, Polymarket prices YES at 9.5%.
+As of June 13, 2026, Polymarket prices YES at 10.0%.
 
 ### Where can I trade on this prediction market?
 

@@ -4,12 +4,12 @@ description: "Will Liudmila Samsonova be the 2026 Women’s Wimbledon Winner? Od
 marketQuestion: "Will Liudmila Samsonova be the 2026 Women’s Wimbledon Winner?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-06-12
+lastUpdated: 2026-06-13
 expiryDate: 2026-07-12
 tags: ["politics", "polymarket"]
 polymarketYes: 0.5
 polymarketNo: 99.5
-polymarketVolume: 98818
+polymarketVolume: 99011
 polymarketUrl: "https://polymarket.com/event/will-liudmila-samsonova-be-the-2026-womens-wimbledon-winner"
 ---
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-liudmila-samsonova-be-the-2026
 
 ### What are the current odds for "Will Liudmila Samsonova be the 2026 Women’s Wimbledon Winner?"?
 
-As of June 12, 2026, Polymarket prices YES at 0.5%.
+As of June 13, 2026, Polymarket prices YES at 0.5%.
 
 ### Where can I trade on this prediction market?
 

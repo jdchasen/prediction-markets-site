@@ -4,7 +4,7 @@ description: "Will the Republican Party win the NY-08 House seat? Odds: 4.3% YES
 marketQuestion: "Will the Republican Party win the NY-08 House seat?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-06-12
+lastUpdated: 2026-06-13
 expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
 polymarketYes: 4.3
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-n
 
 ### What are the current odds for "Will the Republican Party win the NY-08 House seat?"?
 
-As of June 12, 2026, Polymarket prices YES at 4.3%.
+As of June 13, 2026, Polymarket prices YES at 4.3%.
 
 ### Where can I trade on this prediction market?
 

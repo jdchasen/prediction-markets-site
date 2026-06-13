@@ -3,8 +3,8 @@ title: "Will Mexico win on 2026-06-24?"
 description: "Will Mexico win on 2026-06-24? Odds: 54.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Mexico win on 2026-06-24?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-06-12
+status: "settled"
+lastUpdated: 2026-06-13
 expiryDate: 2026-06-25
 tags: ["politics", "polymarket"]
 polymarketYes: 54.5

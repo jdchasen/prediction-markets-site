@@ -3,8 +3,8 @@ title: "Tread FDV above $150M one day after launch"
 description: "Tread FDV above $150M one day after launch Odds: 14.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Tread FDV above $150M one day after launch"
 category: "crypto"
-status: "active"
-lastUpdated: 2026-06-12
+status: "settled"
+lastUpdated: 2026-06-13
 expiryDate: 2028-01-01
 tags: ["crypto", "polymarket"]
 polymarketYes: 14.5

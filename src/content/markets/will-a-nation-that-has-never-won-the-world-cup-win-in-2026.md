@@ -3,8 +3,8 @@ title: "Will A Nation That Has Never Won the World Cup Win in 2026?"
 description: "Will A Nation That Has Never Won the World Cup Win in 2026? Odds: 31.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will A Nation That Has Never Won the World Cup Win in 2026?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-06-12
+status: "settled"
+lastUpdated: 2026-06-13
 expiryDate: 2026-07-20
 tags: ["polymarket", "sports"]
 polymarketYes: 31.0

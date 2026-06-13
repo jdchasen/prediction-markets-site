@@ -3,8 +3,8 @@ title: "Will Karrigan retire by June 30? "
 description: "Will Karrigan retire by June 30?  Odds: 1.3% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Karrigan retire by June 30? "
 category: "politics"
-status: "active"
-lastUpdated: 2026-06-12
+status: "settled"
+lastUpdated: 2026-06-13
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
 polymarketYes: 1.3

@@ -1,14 +1,14 @@
 ---
 title: "Will the price of Bitcoin be above $56,000 on June 18?"
-description: "Will the price of Bitcoin be above $56,000 on June 18? Odds: 98.7% YES on Polymarket. See live prices and trade this market."
+description: "Will the price of Bitcoin be above $56,000 on June 18? Odds: 98.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the price of Bitcoin be above $56,000 on June 18?"
 category: "crypto"
 status: "active"
-lastUpdated: 2026-06-12
+lastUpdated: 2026-06-13
 expiryDate: 2026-06-18
 tags: ["bitcoin", "crypto", "polymarket"]
-polymarketYes: 98.7
-polymarketNo: 1.4
+polymarketYes: 98.5
+polymarketNo: 1.6
 polymarketVolume: 9909
 polymarketUrl: "https://polymarket.com/event/bitcoin-above-56k-on-june-18-2026"
 ---
@@ -17,19 +17,18 @@ polymarketUrl: "https://polymarket.com/event/bitcoin-above-56k-on-june-18-2026"
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 98.7% | 1.4% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 98.5% | 1.6% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Predict.fun FDV above $300M one day after launch?](/odds/predictfun-fdv-above-300m-one-day-after-launch) — 71% YES
-- [Extended FDV above $2B one day after launch?](/odds/extended-fdv-above-2b-one-day-after-launch) — 2% YES
-- [Tread FDV above $150M one day after launch](/odds/tread-fdv-above-150m-one-day-after-launch) — 14% YES
+- [Predict.fun FDV above $300M one day after launch?](/odds/predictfun-fdv-above-300m-one-day-after-launch) — 72% YES
+- [Will MagicBlock launch a token by June 30, 2027?](/odds/will-magicblock-launch-a-token-by-june-30-2027) — 84% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will the price of Bitcoin be above $56,000 on June 18?"?
 
-As of June 12, 2026, Polymarket prices YES at 98.7%.
+As of June 13, 2026, Polymarket prices YES at 98.5%.
 
 ### Where can I trade on this prediction market?
 

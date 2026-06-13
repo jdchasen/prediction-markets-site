@@ -3,8 +3,8 @@ title: "Will Iraq vs. Norway end in a draw?"
 description: "Will Iraq vs. Norway end in a draw? Odds: 12.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Iraq vs. Norway end in a draw?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-06-12
+status: "settled"
+lastUpdated: 2026-06-13
 expiryDate: 2026-06-16
 tags: ["politics", "polymarket"]
 polymarketYes: 12.5
