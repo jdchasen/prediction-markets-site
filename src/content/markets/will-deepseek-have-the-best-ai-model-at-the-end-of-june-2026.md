@@ -4,12 +4,12 @@ description: "Will DeepSeek have the best AI model at the end of June 2026? Odds
 marketQuestion: "Will DeepSeek have the best AI model at the end of June 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-06-13
+lastUpdated: 2026-06-14
 expiryDate: 2026-06-30
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 0.1
 polymarketNo: 100.0
-polymarketVolume: 992101
+polymarketVolume: 992197
 polymarketUrl: "https://polymarket.com/event/will-deepseek-have-the-best-ai-model-at-the-end-of-june-2026"
 ---
 
@@ -23,13 +23,13 @@ polymarketUrl: "https://polymarket.com/event/will-deepseek-have-the-best-ai-mode
 
 - [Will Carlos Roberto Massa Júnior win the 2026 Brazilian presidential election?](/odds/will-carlos-roberto-massa-jnior-win-the-2026-brazilian-presidential-election) — 0% YES
 - [Will Nikki Haley win the 2028 Republican presidential nomination?](/odds/will-nikki-haley-win-the-2028-republican-presidential-nomination) — 1% YES
-- [Will James Talarico win the 2028 Democratic presidential nomination?](/odds/will-james-talarico-win-the-2028-democratic-presidential-nomination) — 2% YES
+- [Will Itamar Ben Gvir be the next Prime Minister of Israel?](/odds/will-itamar-ben-gvir-be-the-next-prime-minister-of-israel) — 1% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will DeepSeek have the best AI model at the end of June 2026?"?
 
-As of June 13, 2026, Polymarket prices YES at 0.1%.
+As of June 14, 2026, Polymarket prices YES at 0.1%.
 
 ### Where can I trade on this prediction market?
 

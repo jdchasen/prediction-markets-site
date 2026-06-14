@@ -4,12 +4,12 @@ description: "Will Carlos Roberto Massa Júnior win the 2026 Brazilian president
 marketQuestion: "Will Carlos Roberto Massa Júnior win the 2026 Brazilian presidential election?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-06-13
+lastUpdated: 2026-06-14
 expiryDate: 2026-10-04
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.1
 polymarketNo: 99.9
-polymarketVolume: 9922425
+polymarketVolume: 9924727
 polymarketUrl: "https://polymarket.com/event/will-carlos-roberto-massa-jnior-win-the-2026-brazilian-presidential-election"
 ---
 
@@ -22,14 +22,14 @@ polymarketUrl: "https://polymarket.com/event/will-carlos-roberto-massa-jnior-win
 ## Related Markets
 
 - [Will Nikki Haley win the 2028 Republican presidential nomination?](/odds/will-nikki-haley-win-the-2028-republican-presidential-nomination) — 1% YES
-- [Will James Talarico win the 2028 Democratic presidential nomination?](/odds/will-james-talarico-win-the-2028-democratic-presidential-nomination) — 2% YES
-- [Will Team Spirit win IEM Cologne Major 2026?](/odds/will-team-spirit-win-iem-cologne-major-2026) — 34% YES
+- [Will DeepSeek have the best AI model at the end of June 2026?](/odds/will-deepseek-have-the-best-ai-model-at-the-end-of-june-2026) — 0% YES
+- [Will Itamar Ben Gvir be the next Prime Minister of Israel?](/odds/will-itamar-ben-gvir-be-the-next-prime-minister-of-israel) — 1% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Carlos Roberto Massa Júnior win the 2026 Brazilian presidential election?"?
 
-As of June 13, 2026, Polymarket prices YES at 0.1%.
+As of June 14, 2026, Polymarket prices YES at 0.1%.
 
 ### Where can I trade on this prediction market?
 

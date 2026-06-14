@@ -3,8 +3,8 @@ title: "Will Team Spirit win IEM Cologne Major 2026?"
 description: "Will Team Spirit win IEM Cologne Major 2026? Odds: 34.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Team Spirit win IEM Cologne Major 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-06-13
+status: "settled"
+lastUpdated: 2026-06-14
 expiryDate: 2026-06-21
 tags: ["politics", "polymarket"]
 polymarketYes: 34.0

@@ -1,14 +1,14 @@
 ---
 title: "MLB: Perfect Game thrown in 2026 season?"
-description: "MLB: Perfect Game thrown in 2026 season? Odds: 10.0% YES on Polymarket. See live prices and trade this market."
+description: "MLB: Perfect Game thrown in 2026 season? Odds: 19.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "MLB: Perfect Game thrown in 2026 season?"
 category: "sports"
 status: "active"
-lastUpdated: 2026-06-13
+lastUpdated: 2026-06-14
 tags: ["polymarket", "sports"]
-polymarketYes: 10.0
-polymarketNo: 90.0
-polymarketVolume: 9735
+polymarketYes: 19.0
+polymarketNo: 81.0
+polymarketVolume: 9812
 polymarketUrl: "https://polymarket.com/event/mlb-perfect-game-thrown-in-2026-season"
 ---
 
@@ -16,19 +16,19 @@ polymarketUrl: "https://polymarket.com/event/mlb-perfect-game-thrown-in-2026-sea
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 10.0% | 90.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 19.0% | 81.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Houston Texans win the 2027 NFL AFC Championship?](/odds/will-houston-texans-win-the-2027-nfl-afc-championship) — 8% YES
 - [Will Baker Mayfield win the 2026 NFL MVP?](/odds/will-baker-mayfield-win-the-2026-nfl-mvp) — 1% YES
-- [Will Saudi Arabia advance to the knockout stages at the 2026 FIFA World Cup?](/odds/will-saudi-arabia-advance-to-the-knockout-stages-at-the-2026-fifa-world-cup) — 34% YES
+- [Will Mitch Marner win the 2026 NHL Conn Smythe Trophy?](/odds/will-mitch-marner-win-the-2026-nhl-conn-smythe-trophy) — 26% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "MLB: Perfect Game thrown in 2026 season?"?
 
-As of June 13, 2026, Polymarket prices YES at 10.0%.
+As of June 14, 2026, Polymarket prices YES at 19.0%.
 
 ### Where can I trade on this prediction market?
 

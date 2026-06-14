@@ -3,8 +3,8 @@ title: "Will England vs. Croatia end in a draw?"
 description: "Will England vs. Croatia end in a draw? Odds: 25.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will England vs. Croatia end in a draw?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-06-13
+status: "settled"
+lastUpdated: 2026-06-14
 expiryDate: 2026-06-17
 tags: ["politics", "polymarket"]
 polymarketYes: 25.5

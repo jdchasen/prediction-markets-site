@@ -3,8 +3,8 @@ title: "Will MagicBlock launch a token by June 30, 2027?"
 description: "Will MagicBlock launch a token by June 30, 2027? Odds: 83.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will MagicBlock launch a token by June 30, 2027?"
 category: "crypto"
-status: "active"
-lastUpdated: 2026-06-13
+status: "settled"
+lastUpdated: 2026-06-14
 expiryDate: 2027-07-01
 tags: ["crypto", "polymarket"]
 polymarketYes: 83.5

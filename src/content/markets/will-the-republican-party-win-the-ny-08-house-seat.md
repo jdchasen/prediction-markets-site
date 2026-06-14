@@ -1,14 +1,14 @@
 ---
 title: "Will the Republican Party win the NY-08 House seat?"
-description: "Will the Republican Party win the NY-08 House seat? Odds: 4.0% YES on Polymarket. See live prices and trade this market."
+description: "Will the Republican Party win the NY-08 House seat? Odds: 5.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Republican Party win the NY-08 House seat?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-06-13
+lastUpdated: 2026-06-14
 expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
-polymarketYes: 4.0
-polymarketNo: 96.0
+polymarketYes: 5.0
+polymarketNo: 95.0
 polymarketVolume: 9944
 polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-ny-08-house-seat"
 ---
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-n
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 4.0% | 96.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 5.0% | 95.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Carlos Roberto Massa Júnior win the 2026 Brazilian presidential election?](/odds/will-carlos-roberto-massa-jnior-win-the-2026-brazilian-presidential-election) — 0% YES
 - [Will Nikki Haley win the 2028 Republican presidential nomination?](/odds/will-nikki-haley-win-the-2028-republican-presidential-nomination) — 1% YES
-- [Will James Talarico win the 2028 Democratic presidential nomination?](/odds/will-james-talarico-win-the-2028-democratic-presidential-nomination) — 2% YES
+- [Will DeepSeek have the best AI model at the end of June 2026?](/odds/will-deepseek-have-the-best-ai-model-at-the-end-of-june-2026) — 0% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will the Republican Party win the NY-08 House seat?"?
 
-As of June 13, 2026, Polymarket prices YES at 4.0%.
+As of June 14, 2026, Polymarket prices YES at 5.0%.
 
 ### Where can I trade on this prediction market?
 

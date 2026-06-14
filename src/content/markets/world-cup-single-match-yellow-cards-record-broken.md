@@ -3,8 +3,8 @@ title: "World Cup: Single Match Yellow Cards Record Broken?"
 description: "World Cup: Single Match Yellow Cards Record Broken? Odds: 12.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "World Cup: Single Match Yellow Cards Record Broken?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-06-13
+status: "settled"
+lastUpdated: 2026-06-14
 expiryDate: 2026-07-20
 tags: ["polymarket", "sports"]
 polymarketYes: 12.0
