@@ -9,7 +9,7 @@ expiryDate: 2026-12-31
 tags: ["finance", "polymarket", "trump"]
 polymarketYes: 3.6
 polymarketNo: 96.4
-polymarketVolume: 9972
+polymarketVolume: 9977
 polymarketUrl: "https://polymarket.com/event/will-trump-sell-1k-2pt5k-gold-cards-in-2026"
 ---
 
@@ -23,7 +23,6 @@ polymarketUrl: "https://polymarket.com/event/will-trump-sell-1k-2pt5k-gold-cards
 
 - [Will SHEIN have the highest IPO Market Cap 2026?](/odds/will-shein-have-the-highest-ipo-market-cap-2026) — 0% YES
 - [Anysphere (Cursor) IPO before 2027?](/odds/anysphere-cursor-ipo-before-2027) — 4% YES
-- [SpaceX IPO: Open Up/Down on Second Day](/odds/spacex-ipo-open-updown-on-second-day) — 60% YES
 
 ## Frequently Asked Questions
 

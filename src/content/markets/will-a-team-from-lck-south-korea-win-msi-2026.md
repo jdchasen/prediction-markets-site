@@ -3,7 +3,7 @@ title: "Will a team from LCK (South Korea) win MSI 2026?"
 description: "Will a team from LCK (South Korea) win MSI 2026? Odds: 65.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will a team from LCK (South Korea) win MSI 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-14
 expiryDate: 2026-07-12
 tags: ["politics", "polymarket"]

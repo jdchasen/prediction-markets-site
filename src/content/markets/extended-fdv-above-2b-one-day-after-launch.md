@@ -1,15 +1,15 @@
 ---
 title: "Extended FDV above $2B one day after launch?"
-description: "Extended FDV above $2B one day after launch? Odds: 2.1% YES on Polymarket. See live prices and trade this market."
+description: "Extended FDV above $2B one day after launch? Odds: 2.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Extended FDV above $2B one day after launch?"
 category: "crypto"
-status: "settled"
+status: "active"
 lastUpdated: 2026-06-14
 expiryDate: 2027-01-01
 tags: ["crypto", "polymarket"]
-polymarketYes: 2.1
-polymarketNo: 98.0
-polymarketVolume: 97338
+polymarketYes: 2.8
+polymarketNo: 97.2
+polymarketVolume: 97549
 polymarketUrl: "https://polymarket.com/event/extended-fdv-above-2b-one-day-after-launch-692-597-187"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/extended-fdv-above-2b-one-day-after
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 2.1% | 98.0% | $97K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 2.8% | 97.2% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Predict.fun FDV above $300M one day after launch?](/odds/predictfun-fdv-above-300m-one-day-after-launch) — 72% YES
 - [Extended FDV above $300M one day after launch?](/odds/extended-fdv-above-300m-one-day-after-launch) — 48% YES
-- [Will MagicBlock launch a token by June 30, 2027?](/odds/will-magicblock-launch-a-token-by-june-30-2027) — 84% YES
+- [Will Coinbase Global, Inc. (COIN) hit (HIGH) $195 in June?](/odds/will-coinbase-global-inc-coin-hit-high-195-in-june) — 10% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Extended FDV above $2B one day after launch?"?
 
-As of June 13, 2026, Polymarket prices YES at 2.1%.
+As of June 14, 2026, Polymarket prices YES at 2.8%.
 
 ### Where can I trade on this prediction market?
 

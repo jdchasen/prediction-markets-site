@@ -3,7 +3,7 @@ title: "Will Anthropic be the first company to have an AI model hit 1550 on Chat
 description: "Will Anthropic be the first company to have an AI model hit 1550 on Chatbot Arena in 2026? Odds: 24.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Anthropic be the first company to have an AI model hit 1550 on Chatbot Arena in 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-14
 expiryDate: 2026-12-31
 tags: ["ai", "politics", "polymarket"]

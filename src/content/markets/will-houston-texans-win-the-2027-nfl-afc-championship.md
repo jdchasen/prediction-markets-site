@@ -21,9 +21,9 @@ polymarketUrl: "https://polymarket.com/event/will-houston-texans-win-the-2027-nf
 
 ## Related Markets
 
-- [Will Baker Mayfield win the 2026 NFL MVP?](/odds/will-baker-mayfield-win-the-2026-nfl-mvp) — 1% YES
-- [Will Mitch Marner win the 2026 NHL Conn Smythe Trophy?](/odds/will-mitch-marner-win-the-2026-nhl-conn-smythe-trophy) — 26% YES
 - [Will Jude Bellingham be the top goalscorer at the 2026 FIFA World Cup?](/odds/will-jude-bellingham-be-the-top-goalscorer-at-the-2026-fifa-world-cup) — 0% YES
+- [Will Baker Mayfield win the 2026 NFL MVP?](/odds/will-baker-mayfield-win-the-2026-nfl-mvp) — 1% YES
+- [Will France reach the Round of 16 at the 2026 FIFA World Cup?](/odds/will-france-reach-the-round-of-16-at-the-2026-fifa-world-cup) — 83% YES
 
 ## Frequently Asked Questions
 

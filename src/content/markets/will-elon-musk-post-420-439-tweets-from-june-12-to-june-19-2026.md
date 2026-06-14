@@ -3,13 +3,13 @@ title: "Will Elon Musk post 420-439 tweets from June 12 to June 19, 2026?"
 description: "Will Elon Musk post 420-439 tweets from June 12 to June 19, 2026? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Elon Musk post 420-439 tweets from June 12 to June 19, 2026?"
 category: "tech"
-status: "settled"
-lastUpdated: 2026-06-12
+status: "active"
+lastUpdated: 2026-06-14
 expiryDate: 2026-06-19
 tags: ["polymarket", "tech"]
 polymarketYes: 0.1
-polymarketNo: 99.9
-polymarketVolume: 9886
+polymarketNo: 100.0
+polymarketVolume: 98250
 polymarketUrl: "https://polymarket.com/event/elon-musk-of-tweets-june-12-june-19-420-439"
 ---
 
@@ -17,17 +17,17 @@ polymarketUrl: "https://polymarket.com/event/elon-musk-of-tweets-june-12-june-19
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.1% | 99.9% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.1% | 100.0% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Elon Musk win his case against Sam Altman?](/odds/will-elon-musk-win-his-case-against-sam-altman) — 4% YES
+- [Will SpaceX's valuation hit (HIGH) $3.5T by June 30?](/odds/will-spacexs-valuation-hit-high-35t-by-june-30) — 3% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Elon Musk post 420-439 tweets from June 12 to June 19, 2026?"?
 
-As of June 12, 2026, Polymarket prices YES at 0.1%.
+As of June 14, 2026, Polymarket prices YES at 0.1%.
 
 ### Where can I trade on this prediction market?
 

@@ -3,7 +3,7 @@ title: "Will Mitch Marner win the 2026 NHL Conn Smythe Trophy?"
 description: "Will Mitch Marner win the 2026 NHL Conn Smythe Trophy? Odds: 25.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Mitch Marner win the 2026 NHL Conn Smythe Trophy?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-14
 expiryDate: 2026-07-01
 tags: ["polymarket", "sports"]

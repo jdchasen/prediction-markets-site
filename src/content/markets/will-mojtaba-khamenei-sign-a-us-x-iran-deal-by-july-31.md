@@ -3,7 +3,7 @@ title: "Will Mojtaba Khamenei sign a U.S. x Iran deal by July 31?"
 description: "Will Mojtaba Khamenei sign a U.S. x Iran deal by July 31? Odds: 6.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Mojtaba Khamenei sign a U.S. x Iran deal by July 31?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-14
 expiryDate: 2026-08-01
 tags: ["politics", "polymarket"]

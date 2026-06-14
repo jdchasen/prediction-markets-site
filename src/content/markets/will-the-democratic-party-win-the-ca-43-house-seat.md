@@ -23,7 +23,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-c
 
 - [Will Carlos Roberto Massa Júnior win the 2026 Brazilian presidential election?](/odds/will-carlos-roberto-massa-jnior-win-the-2026-brazilian-presidential-election) — 0% YES
 - [Will Nikki Haley win the 2028 Republican presidential nomination?](/odds/will-nikki-haley-win-the-2028-republican-presidential-nomination) — 1% YES
-- [Will DeepSeek have the best AI model at the end of June 2026?](/odds/will-deepseek-have-the-best-ai-model-at-the-end-of-june-2026) — 0% YES
+- [US-Iran nuclear deal by June 30?](/odds/us-iran-nuclear-deal-by-june-30) — 78% YES
 
 ## Frequently Asked Questions
 

@@ -1,15 +1,15 @@
 ---
 title: "Will Gadi Eizenkot be the next Prime Minister of Israel?"
-description: "Will Gadi Eizenkot be the next Prime Minister of Israel? Odds: 32.2% YES on Polymarket. See live prices and trade this market."
+description: "Will Gadi Eizenkot be the next Prime Minister of Israel? Odds: 36.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Gadi Eizenkot be the next Prime Minister of Israel?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-06-14
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 32.2
-polymarketNo: 67.8
-polymarketVolume: 974370
+polymarketYes: 36.1
+polymarketNo: 63.8
+polymarketVolume: 989523
 polymarketUrl: "https://polymarket.com/event/will-gadi-eizenkot-be-the-next-prime-minister-of-israel"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-gadi-eizenkot-be-the-next-prim
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 32.2% | 67.8% | $974K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 36.1% | 63.8% | $990K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Carlos Roberto Massa Júnior win the 2026 Brazilian presidential election?](/odds/will-carlos-roberto-massa-jnior-win-the-2026-brazilian-presidential-election) — 0% YES
 - [Will Nikki Haley win the 2028 Republican presidential nomination?](/odds/will-nikki-haley-win-the-2028-republican-presidential-nomination) — 1% YES
-- [Will DeepSeek have the best AI model at the end of June 2026?](/odds/will-deepseek-have-the-best-ai-model-at-the-end-of-june-2026) — 0% YES
+- [US-Iran nuclear deal by June 30?](/odds/us-iran-nuclear-deal-by-june-30) — 78% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Gadi Eizenkot be the next Prime Minister of Israel?"?
 
-As of June 14, 2026, Polymarket prices YES at 32.2%.
+As of June 14, 2026, Polymarket prices YES at 36.1%.
 
 ### Where can I trade on this prediction market?
 

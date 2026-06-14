@@ -3,7 +3,7 @@ title: "Will Jerônimo Rodrigues win the 2026 Bahia gubernatorial election?"
 description: "Will Jerônimo Rodrigues win the 2026 Bahia gubernatorial election? Odds: 45.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Jerônimo Rodrigues win the 2026 Bahia gubernatorial election?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-14
 expiryDate: 2026-10-04
 tags: ["elections", "politics", "polymarket"]

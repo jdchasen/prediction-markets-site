@@ -3,7 +3,7 @@ title: "Will Iran close its airspace by December 31?"
 description: "Will Iran close its airspace by December 31? Odds: 47.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Iran close its airspace by December 31?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-14
 expiryDate: 2027-01-01
 tags: ["ai", "politics", "polymarket"]

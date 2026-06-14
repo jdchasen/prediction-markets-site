@@ -3,7 +3,7 @@ title: "SpaceX IPO: Open Up/Down on Second Day"
 description: "SpaceX IPO: Open Up/Down on Second Day Odds: 60.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "SpaceX IPO: Open Up/Down on Second Day"
 category: "finance"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-14
 tags: ["finance", "polymarket"]
 polymarketYes: 60.0

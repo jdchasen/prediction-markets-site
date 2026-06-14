@@ -9,7 +9,7 @@ expiryDate: 2028-01-01
 tags: ["crypto", "polymarket"]
 polymarketYes: 72.0
 polymarketNo: 28.0
-polymarketVolume: 991280
+polymarketVolume: 991414
 polymarketUrl: "https://polymarket.com/event/predictfun-fdv-above-300m-one-day-after-launch"
 ---
 
@@ -22,6 +22,8 @@ polymarketUrl: "https://polymarket.com/event/predictfun-fdv-above-300m-one-day-a
 ## Related Markets
 
 - [Extended FDV above $300M one day after launch?](/odds/extended-fdv-above-300m-one-day-after-launch) — 48% YES
+- [Extended FDV above $2B one day after launch?](/odds/extended-fdv-above-2b-one-day-after-launch) — 3% YES
+- [Will Coinbase Global, Inc. (COIN) hit (HIGH) $195 in June?](/odds/will-coinbase-global-inc-coin-hit-high-195-in-june) — 10% YES
 
 ## Frequently Asked Questions
 

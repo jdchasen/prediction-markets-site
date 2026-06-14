@@ -3,7 +3,7 @@ title: "Will ACM Neto win the 2026 Bahia gubernatorial election?"
 description: "Will ACM Neto win the 2026 Bahia gubernatorial election? Odds: 52.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will ACM Neto win the 2026 Bahia gubernatorial election?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-14
 expiryDate: 2026-10-04
 tags: ["elections", "politics", "polymarket"]

@@ -3,7 +3,7 @@ title: "GPT-5.6 released by June 23, 2026?"
 description: "GPT-5.6 released by June 23, 2026? Odds: 39.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "GPT-5.6 released by June 23, 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-14
 expiryDate: 2026-06-22
 tags: ["politics", "polymarket"]

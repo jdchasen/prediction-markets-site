@@ -3,7 +3,7 @@ title: "Vance announces he won't run for President in 2028 this year?"
 description: "Vance announces he won't run for President in 2028 this year? Odds: 10.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Vance announces he won't run for President in 2028 this year?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-14
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]

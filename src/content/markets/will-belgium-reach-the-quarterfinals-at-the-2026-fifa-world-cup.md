@@ -3,7 +3,7 @@ title: "Will Belgium reach the Quarterfinals at the 2026 FIFA World Cup?"
 description: "Will Belgium reach the Quarterfinals at the 2026 FIFA World Cup? Odds: 36.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Belgium reach the Quarterfinals at the 2026 FIFA World Cup?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-14
 tags: ["polymarket", "sports"]
 polymarketYes: 36.5
