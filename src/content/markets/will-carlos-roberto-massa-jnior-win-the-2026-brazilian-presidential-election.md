@@ -9,7 +9,7 @@ expiryDate: 2026-10-04
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.1
 polymarketNo: 99.9
-polymarketVolume: 9938415
+polymarketVolume: 9941680
 polymarketUrl: "https://polymarket.com/event/will-carlos-roberto-massa-jnior-win-the-2026-brazilian-presidential-election"
 ---
 
@@ -23,7 +23,7 @@ polymarketUrl: "https://polymarket.com/event/will-carlos-roberto-massa-jnior-win
 
 - [Kharg Island no longer under Iranian control by June 30?](/odds/kharg-island-no-longer-under-iranian-control-by-june-30) — 1% YES
 - [Will Nikki Haley win the 2028 Republican presidential nomination?](/odds/will-nikki-haley-win-the-2028-republican-presidential-nomination) — 1% YES
-- [Will Alibaba have the best AI model at the end of June 2026?](/odds/will-alibaba-have-the-best-ai-model-at-the-end-of-june-2026) — 0% YES
+- [Israel withdraws from Lebanon by June 30, 2026?](/odds/israel-withdraws-from-lebanon-by-june-30-2026) — 6% YES
 
 ## Frequently Asked Questions
 

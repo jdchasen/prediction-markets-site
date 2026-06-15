@@ -3,7 +3,7 @@ title: "Mexico vs. Korea Republic: O/U 2.5"
 description: "Mexico vs. Korea Republic: O/U 2.5 Odds: 39.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Mexico vs. Korea Republic: O/U 2.5"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-15
 expiryDate: 2026-06-19
 tags: ["politics", "polymarket"]

@@ -3,7 +3,7 @@ title: "Will Ivory Coast reach the Semifinals at the 2026 FIFA World Cup?"
 description: "Will Ivory Coast reach the Semifinals at the 2026 FIFA World Cup? Odds: 5.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Ivory Coast reach the Semifinals at the 2026 FIFA World Cup?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-15
 expiryDate: 2026-07-13
 tags: ["polymarket", "sports"]

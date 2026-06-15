@@ -1,23 +1,23 @@
 ---
-title: "Will Mike Lindell win the 2026 Minnesota Governor Republican primary election?"
-description: "Will Mike Lindell win the 2026 Minnesota Governor Republican primary election? Odds: 14.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Mike Lindell win the 2026 Minnesota Governor Republican primary election?"
+title: "Will Trump repeal Presidential term limits in 2026?"
+description: "Will Trump repeal Presidential term limits in 2026? Odds: 6.6% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Trump repeal Presidential term limits in 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-06-15
-expiryDate: 2026-08-11
-tags: ["elections", "politics", "polymarket"]
-polymarketYes: 14.5
-polymarketNo: 85.5
-polymarketVolume: 98581
-polymarketUrl: "https://polymarket.com/event/will-mike-lindell-win-the-2026-minnesota-governor-republican-primary-election"
+expiryDate: 2026-12-31
+tags: ["politics", "polymarket", "trump"]
+polymarketYes: 6.6
+polymarketNo: 93.4
+polymarketVolume: 9783
+polymarketUrl: "https://polymarket.com/event/will-trump-repeal-presidential-term-limits-in-2026"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 14.5% | 85.5% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 6.6% | 93.4% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-mike-lindell-win-the-2026-minn
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Mike Lindell win the 2026 Minnesota Governor Republican primary election?"?
+### What are the current odds for "Will Trump repeal Presidential term limits in 2026?"?
 
-As of June 15, 2026, Polymarket prices YES at 14.5%.
+As of June 15, 2026, Polymarket prices YES at 6.6%.
 
 ### Where can I trade on this prediction market?
 

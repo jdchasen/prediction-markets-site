@@ -9,7 +9,7 @@ expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 0.2
 polymarketNo: 99.8
-polymarketVolume: 989970
+polymarketVolume: 990170
 polymarketUrl: "https://polymarket.com/event/will-ayelet-shaked-be-the-next-prime-minister-of-israel"
 ---
 

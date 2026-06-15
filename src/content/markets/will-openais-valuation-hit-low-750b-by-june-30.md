@@ -1,23 +1,23 @@
 ---
-title: "Will the Democratic Party win the NY-21 House seat?"
-description: "Will the Democratic Party win the NY-21 House seat? Odds: 29.0% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will the Democratic Party win the NY-21 House seat?"
+title: "Will OpenAI's valuation hit (LOW) $750B by June 30?"
+description: "Will OpenAI's valuation hit (LOW) $750B by June 30? Odds: 11.4% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will OpenAI's valuation hit (LOW) $750B by June 30?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-06-15
-expiryDate: 2026-11-03
-tags: ["politics", "polymarket"]
-polymarketYes: 29.0
-polymarketNo: 71.0
-polymarketVolume: 9963
-polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-ny-21-house-seat"
+expiryDate: 2026-07-01
+tags: ["ai", "politics", "polymarket"]
+polymarketYes: 11.4
+polymarketNo: 88.6
+polymarketVolume: 9790
+polymarketUrl: "https://polymarket.com/event/will-openais-valuation-hit-low-750b-by-june-30"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 29.0% | 71.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 11.4% | 88.6% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-n
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will the Democratic Party win the NY-21 House seat?"?
+### What are the current odds for "Will OpenAI's valuation hit (LOW) $750B by June 30?"?
 
-As of June 15, 2026, Polymarket prices YES at 29.0%.
+As of June 15, 2026, Polymarket prices YES at 11.4%.
 
 ### Where can I trade on this prediction market?
 

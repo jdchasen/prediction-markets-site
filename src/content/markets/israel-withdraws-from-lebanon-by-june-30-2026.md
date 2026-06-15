@@ -1,23 +1,23 @@
 ---
-title: "Canada vs. Qatar: O/U 2.5"
-description: "Canada vs. Qatar: O/U 2.5 Odds: 54.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Canada vs. Qatar: O/U 2.5"
+title: "Israel withdraws from Lebanon by June 30, 2026?"
+description: "Israel withdraws from Lebanon by June 30, 2026? Odds: 6.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Israel withdraws from Lebanon by June 30, 2026?"
 category: "politics"
-status: "settled"
+status: "active"
 lastUpdated: 2026-06-15
-expiryDate: 2026-06-18
+expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
-polymarketYes: 54.5
-polymarketNo: 45.5
-polymarketVolume: 9809
-polymarketUrl: "https://polymarket.com/event/fifwc-can-qat-2026-06-18-total-2pt5"
+polymarketYes: 6.5
+polymarketNo: 93.5
+polymarketVolume: 994393
+polymarketUrl: "https://polymarket.com/event/israel-withdraws-from-lebanon-by-june-30-2026"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 54.5% | 45.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 6.5% | 93.5% | $994K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,11 +27,16 @@ polymarketUrl: "https://polymarket.com/event/fifwc-can-qat-2026-06-18-total-2pt5
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Canada vs. Qatar: O/U 2.5"?
+### What are the current odds for "Israel withdraws from Lebanon by June 30, 2026?"?
 
-As of June 15, 2026, Polymarket prices YES at 54.5%.
+As of June 15, 2026, Polymarket prices YES at 6.5%.
 
 ### Where can I trade on this prediction market?
 
 You can trade this market on [Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) (crypto-based).
+
+## Learn More
+
+- [How to Withdraw from Kalshi Fast (2026)](/blog/kalshi-withdrawal)
+- [How to Withdraw from Polymarket to Your Bank](/blog/polymarket-withdrawal)
 

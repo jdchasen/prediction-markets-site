@@ -1,14 +1,14 @@
 ---
 title: "Will Anthropic have the best Coding AI model at the end of June 2026?"
-description: "Will Anthropic have the best Coding AI model at the end of June 2026? Odds: 97.0% YES on Polymarket. See live prices and trade this market."
+description: "Will Anthropic have the best Coding AI model at the end of June 2026? Odds: 96.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Anthropic have the best Coding AI model at the end of June 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-06-15
 expiryDate: 2026-06-30
 tags: ["ai", "politics", "polymarket"]
-polymarketYes: 97.0
-polymarketNo: 3.0
+polymarketYes: 96.9
+polymarketNo: 3.1
 polymarketVolume: 9968
 polymarketUrl: "https://polymarket.com/event/will-anthropic-have-the-best-coding-ai-model-at-the-end-of-june-2026"
 ---
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-anthropic-have-the-best-coding
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 97.0% | 3.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 96.9% | 3.1% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-anthropic-have-the-best-coding
 
 ### What are the current odds for "Will Anthropic have the best Coding AI model at the end of June 2026?"?
 
-As of June 15, 2026, Polymarket prices YES at 97.0%.
+As of June 15, 2026, Polymarket prices YES at 96.9%.
 
 ### Where can I trade on this prediction market?
 

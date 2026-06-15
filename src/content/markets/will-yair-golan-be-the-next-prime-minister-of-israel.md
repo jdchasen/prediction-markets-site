@@ -9,7 +9,7 @@ expiryDate: 2026-12-31
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 0.4
 polymarketNo: 99.7
-polymarketVolume: 982847
+polymarketVolume: 983202
 polymarketUrl: "https://polymarket.com/event/will-yair-golan-be-the-next-prime-minister-of-israel"
 ---
 

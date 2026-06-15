@@ -22,8 +22,8 @@ polymarketUrl: "https://polymarket.com/event/will-baker-mayfield-win-the-2026-nf
 ## Related Markets
 
 - [Will Houston Texans win the 2027 NFL AFC Championship?](/odds/will-houston-texans-win-the-2027-nfl-afc-championship) — 7% YES
-- [Will Ivory Coast reach the Semifinals at the 2026 FIFA World Cup?](/odds/will-ivory-coast-reach-the-semifinals-at-the-2026-fifa-world-cup) — 5% YES
-- [MLB: Perfect Game thrown in 2026 season?](/odds/mlb-perfect-game-thrown-in-2026-season) — 12% YES
+- [Will Sweden win Group F in the 2026 FIFA World Cup?](/odds/will-sweden-win-group-f-in-the-2026-fifa-world-cup) — 28% YES
+- [Will Uruguay reach the 2026 FIFA World Cup final?](/odds/will-uruguay-reach-the-2026-fifa-world-cup-final) — 4% YES
 
 ## Frequently Asked Questions
 

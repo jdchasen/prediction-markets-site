@@ -3,7 +3,7 @@ title: "Will 20 ships transit the Strait of Hormuz on any day by June 30, 2026?"
 description: "Will 20 ships transit the Strait of Hormuz on any day by June 30, 2026? Odds: 73.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will 20 ships transit the Strait of Hormuz on any day by June 30, 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-15
 expiryDate: 2026-06-30
 tags: ["ai", "politics", "polymarket"]

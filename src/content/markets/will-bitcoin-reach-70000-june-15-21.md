@@ -3,7 +3,7 @@ title: "Will Bitcoin reach $70,000 June 15-21?"
 description: "Will Bitcoin reach $70,000 June 15-21? Odds: 38.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Bitcoin reach $70,000 June 15-21?"
 category: "crypto"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-15
 expiryDate: 2026-06-22
 tags: ["bitcoin", "crypto", "polymarket"]

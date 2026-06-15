@@ -3,7 +3,7 @@ title: "Tampa Bay Rays vs. Los Angeles Dodgers"
 description: "Tampa Bay Rays vs. Los Angeles Dodgers Odds: 38.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Tampa Bay Rays vs. Los Angeles Dodgers"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-15
 expiryDate: 2026-06-23
 tags: ["politics", "polymarket"]

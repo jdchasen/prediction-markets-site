@@ -1,23 +1,23 @@
 ---
-title: "Will the Democratic Party win the NY-21 House seat?"
-description: "Will the Democratic Party win the NY-21 House seat? Odds: 29.0% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will the Democratic Party win the NY-21 House seat?"
+title: "Will \"Toy Story 5\" Opening Weekend Box Office be between 171m and 184m?"
+description: "Will \"Toy Story 5\" Opening Weekend Box Office be between 171m and 184m? Odds: 19.0% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will \"Toy Story 5\" Opening Weekend Box Office be between 171m and 184m?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-06-15
-expiryDate: 2026-11-03
+expiryDate: 2026-06-22
 tags: ["politics", "polymarket"]
-polymarketYes: 29.0
-polymarketNo: 71.0
-polymarketVolume: 9963
-polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-ny-21-house-seat"
+polymarketYes: 19.0
+polymarketNo: 81.0
+polymarketVolume: 9758
+polymarketUrl: "https://polymarket.com/event/will-toy-story-5-opening-weekend-box-office-be-between-171m-and-184m"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 29.0% | 71.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 19.0% | 81.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-n
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will the Democratic Party win the NY-21 House seat?"?
+### What are the current odds for "Will "Toy Story 5" Opening Weekend Box Office be between 171m and 184m?"?
 
-As of June 15, 2026, Polymarket prices YES at 29.0%.
+As of June 15, 2026, Polymarket prices YES at 19.0%.
 
 ### Where can I trade on this prediction market?
 

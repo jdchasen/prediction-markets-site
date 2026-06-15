@@ -1,22 +1,23 @@
 ---
-title: "MLB: Perfect Game thrown in 2026 season?"
-description: "MLB: Perfect Game thrown in 2026 season? Odds: 12.0% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "MLB: Perfect Game thrown in 2026 season?"
+title: "Will Australia reach the Semifinals at the 2026 FIFA World Cup?"
+description: "Will Australia reach the Semifinals at the 2026 FIFA World Cup? Odds: 2.4% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Australia reach the Semifinals at the 2026 FIFA World Cup?"
 category: "sports"
 status: "active"
 lastUpdated: 2026-06-15
+expiryDate: 2026-07-13
 tags: ["polymarket", "sports"]
-polymarketYes: 12.0
-polymarketNo: 88.0
-polymarketVolume: 9819
-polymarketUrl: "https://polymarket.com/event/mlb-perfect-game-thrown-in-2026-season"
+polymarketYes: 2.4
+polymarketNo: 97.6
+polymarketVolume: 9839
+polymarketUrl: "https://polymarket.com/event/will-australia-reach-the-semifinals-at-the-2026-fifa-world-cup-20260602145149722"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 12.0% | 88.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 2.4% | 97.6% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -26,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/mlb-perfect-game-thrown-in-2026-sea
 
 ## Frequently Asked Questions
 
-### What are the current odds for "MLB: Perfect Game thrown in 2026 season?"?
+### What are the current odds for "Will Australia reach the Semifinals at the 2026 FIFA World Cup?"?
 
-As of June 15, 2026, Polymarket prices YES at 12.0%.
+As of June 15, 2026, Polymarket prices YES at 2.4%.
 
 ### Where can I trade on this prediction market?
 
@@ -36,6 +37,6 @@ You can trade this market on [Polymarket](https://polymarket.us/1762?utm_source=
 
 ## Learn More
 
+- [2026 FIFA World Cup Winner Odds & Predictions](/blog/2026-fifa-world-cup-winner-odds-predictions)
 - [Will ETH Hit $4,500 in 2026? Live Market Odds](/blog/will-ethereum-reach-4500-in-2026-what-prediction-markets-say)
-- [Will Discord IPO in 2026? What Prediction Markets Say](/blog/will-discord-ipo-in-2026-what-prediction-markets-say)
 

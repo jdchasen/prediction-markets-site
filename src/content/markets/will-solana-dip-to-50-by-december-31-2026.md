@@ -1,14 +1,14 @@
 ---
 title: "Will Solana dip to $50 by December 31, 2026?"
-description: "Will Solana dip to $50 by December 31, 2026? Odds: 56.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Solana dip to $50 by December 31, 2026? Odds: 55.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Solana dip to $50 by December 31, 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-06-15
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]
-polymarketYes: 56.5
-polymarketNo: 43.5
+polymarketYes: 55.0
+polymarketNo: 45.0
 polymarketVolume: 9817
 polymarketUrl: "https://polymarket.com/event/will-solana-dip-to-50-by-december-31-2026-from-june-8"
 ---
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-solana-dip-to-50-by-december-3
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 56.5% | 43.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 55.0% | 45.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-solana-dip-to-50-by-december-3
 
 ### What are the current odds for "Will Solana dip to $50 by December 31, 2026?"?
 
-As of June 15, 2026, Polymarket prices YES at 56.5%.
+As of June 15, 2026, Polymarket prices YES at 55.0%.
 
 ### Where can I trade on this prediction market?
 

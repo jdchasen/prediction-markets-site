@@ -22,7 +22,6 @@ polymarketUrl: "https://polymarket.com/event/anysphere-cursor-ipo-before-2027"
 ## Related Markets
 
 - [Will SHEIN have the highest IPO Market Cap 2026?](/odds/will-shein-have-the-highest-ipo-market-cap-2026) — 0% YES
-- [Will Trump sell 1k-2.5k Gold Cards in 2026?](/odds/will-trump-sell-1k-25k-gold-cards-in-2026) — 4% YES
 
 ## Frequently Asked Questions
 

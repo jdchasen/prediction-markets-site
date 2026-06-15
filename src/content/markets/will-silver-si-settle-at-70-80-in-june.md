@@ -9,7 +9,7 @@ expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
 polymarketYes: 36.1
 polymarketNo: 63.9
-polymarketVolume: 97963
+polymarketVolume: 98234
 polymarketUrl: "https://polymarket.com/event/si-settle-70-80-jun-2026"
 ---
 

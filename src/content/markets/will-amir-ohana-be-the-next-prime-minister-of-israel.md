@@ -1,15 +1,15 @@
 ---
 title: "Will Amir Ohana be the next Prime Minister of Israel?"
-description: "Will Amir Ohana be the next Prime Minister of Israel? Odds: 0.4% YES on Polymarket. See live prices and trade this market."
+description: "Will Amir Ohana be the next Prime Minister of Israel? Odds: 0.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Amir Ohana be the next Prime Minister of Israel?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-06-15
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 0.4
-polymarketNo: 99.7
-polymarketVolume: 983504
+polymarketYes: 0.5
+polymarketNo: 99.5
+polymarketVolume: 989549
 polymarketUrl: "https://polymarket.com/event/will-amir-ohana-be-the-next-prime-minister-of-israel"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-amir-ohana-be-the-next-prime-m
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.4% | 99.7% | $984K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.5% | 99.5% | $990K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-amir-ohana-be-the-next-prime-m
 
 ### What are the current odds for "Will Amir Ohana be the next Prime Minister of Israel?"?
 
-As of June 15, 2026, Polymarket prices YES at 0.4%.
+As of June 15, 2026, Polymarket prices YES at 0.5%.
 
 ### Where can I trade on this prediction market?
 

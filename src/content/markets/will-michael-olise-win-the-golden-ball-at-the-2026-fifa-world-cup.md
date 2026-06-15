@@ -3,7 +3,7 @@ title: "Will Michael Olise win the Golden Ball at the 2026 FIFA World Cup?"
 description: "Will Michael Olise win the Golden Ball at the 2026 FIFA World Cup? Odds: 11.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Michael Olise win the Golden Ball at the 2026 FIFA World Cup?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-15
 expiryDate: 2026-07-20
 tags: ["polymarket", "sports"]

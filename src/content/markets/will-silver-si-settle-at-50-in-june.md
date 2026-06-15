@@ -8,8 +8,8 @@ lastUpdated: 2026-06-15
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
 polymarketYes: 1.7
-polymarketNo: 98.3
-polymarketVolume: 98984
+polymarketNo: 98.4
+polymarketVolume: 99006
 polymarketUrl: "https://polymarket.com/event/si-settle-below-50-jun-2026"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/si-settle-below-50-jun-2026"
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 1.7% | 98.3% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 1.7% | 98.4% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 

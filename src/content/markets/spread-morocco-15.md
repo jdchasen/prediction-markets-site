@@ -3,7 +3,7 @@ title: "Spread: Morocco (-1.5)"
 description: "Spread: Morocco (-1.5) Odds: 52.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Spread: Morocco (-1.5)"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-15
 expiryDate: 2026-06-24
 tags: ["politics", "polymarket"]

@@ -3,7 +3,7 @@ title: "Will Coinbase Global, Inc. (COIN) hit (HIGH) $190 in June?"
 description: "Will Coinbase Global, Inc. (COIN) hit (HIGH) $190 in June? Odds: 40.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Coinbase Global, Inc. (COIN) hit (HIGH) $190 in June?"
 category: "crypto"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-15
 expiryDate: 2026-07-01
 tags: ["crypto", "polymarket", "sports"]
