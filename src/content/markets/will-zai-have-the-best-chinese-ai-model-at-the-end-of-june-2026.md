@@ -3,8 +3,8 @@ title: "Will Z.ai have the best Chinese AI model at the end of June 2026?"
 description: "Will Z.ai have the best Chinese AI model at the end of June 2026? Odds: 32.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Z.ai have the best Chinese AI model at the end of June 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-06-14
+status: "settled"
+lastUpdated: 2026-06-15
 expiryDate: 2026-06-30
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 32.0

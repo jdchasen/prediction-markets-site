@@ -4,7 +4,7 @@ description: "Will Natural Gas (NG) hit (LOW) $2.60 in June? Odds: 8.5% YES on P
 marketQuestion: "Will Natural Gas (NG) hit (LOW) $2.60 in June?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-06-14
+lastUpdated: 2026-06-15
 expiryDate: 2026-07-01
 tags: ["politics", "polymarket"]
 polymarketYes: 8.5
@@ -21,15 +21,15 @@ polymarketUrl: "https://polymarket.com/event/will-ng-dip-to-2-60-in-june-2026"
 
 ## Related Markets
 
+- [Kharg Island no longer under Iranian control by June 30?](/odds/kharg-island-no-longer-under-iranian-control-by-june-30) — 1% YES
 - [Will Carlos Roberto Massa Júnior win the 2026 Brazilian presidential election?](/odds/will-carlos-roberto-massa-jnior-win-the-2026-brazilian-presidential-election) — 0% YES
 - [Will Nikki Haley win the 2028 Republican presidential nomination?](/odds/will-nikki-haley-win-the-2028-republican-presidential-nomination) — 1% YES
-- [US-Iran nuclear deal by June 30?](/odds/us-iran-nuclear-deal-by-june-30) — 78% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Natural Gas (NG) hit (LOW) $2.60 in June?"?
 
-As of June 14, 2026, Polymarket prices YES at 8.5%.
+As of June 15, 2026, Polymarket prices YES at 8.5%.
 
 ### Where can I trade on this prediction market?
 

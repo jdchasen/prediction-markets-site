@@ -1,35 +1,35 @@
 ---
-title: "Will Coinbase Global, Inc. (COIN) hit (HIGH) $195 in June?"
-description: "Will Coinbase Global, Inc. (COIN) hit (HIGH) $195 in June? Odds: 10.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Coinbase Global, Inc. (COIN) hit (HIGH) $195 in June?"
+title: "Will Coinbase Global, Inc. (COIN) hit (HIGH) $190 in June?"
+description: "Will Coinbase Global, Inc. (COIN) hit (HIGH) $190 in June? Odds: 40.0% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Coinbase Global, Inc. (COIN) hit (HIGH) $190 in June?"
 category: "crypto"
-status: "settled"
+status: "active"
 lastUpdated: 2026-06-15
 expiryDate: 2026-07-01
 tags: ["crypto", "polymarket", "sports"]
-polymarketYes: 10.5
-polymarketNo: 89.5
-polymarketVolume: 9840
-polymarketUrl: "https://polymarket.com/event/will-coin-reach-195-in-june-2026"
+polymarketYes: 40.0
+polymarketNo: 60.0
+polymarketVolume: 9921
+polymarketUrl: "https://polymarket.com/event/will-coin-reach-190-in-june-2026"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 10.5% | 89.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 40.0% | 60.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Predict.fun FDV above $300M one day after launch?](/odds/predictfun-fdv-above-300m-one-day-after-launch) — 72% YES
 - [Extended FDV above $300M one day after launch?](/odds/extended-fdv-above-300m-one-day-after-launch) — 48% YES
-- [Extended FDV above $2B one day after launch?](/odds/extended-fdv-above-2b-one-day-after-launch) — 3% YES
+- [Will Bitcoin reach $70,000 June 15-21?](/odds/will-bitcoin-reach-70000-june-15-21) — 38% YES
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Coinbase Global, Inc. (COIN) hit (HIGH) $195 in June?"?
+### What are the current odds for "Will Coinbase Global, Inc. (COIN) hit (HIGH) $190 in June?"?
 
-As of June 14, 2026, Polymarket prices YES at 10.5%.
+As of June 15, 2026, Polymarket prices YES at 40.0%.
 
 ### Where can I trade on this prediction market?
 

@@ -3,8 +3,8 @@ title: "Will Haiti advance to the knockout stages at the 2026 FIFA World Cup?"
 description: "Will Haiti advance to the knockout stages at the 2026 FIFA World Cup? Odds: 4.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Haiti advance to the knockout stages at the 2026 FIFA World Cup?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-06-14
+status: "settled"
+lastUpdated: 2026-06-15
 expiryDate: 2026-06-28
 tags: ["ai", "polymarket", "sports"]
 polymarketYes: 4.7

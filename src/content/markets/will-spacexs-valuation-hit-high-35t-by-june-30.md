@@ -3,8 +3,8 @@ title: "Will SpaceX's valuation hit (HIGH) $3.5T by June 30?"
 description: "Will SpaceX's valuation hit (HIGH) $3.5T by June 30? Odds: 2.6% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will SpaceX's valuation hit (HIGH) $3.5T by June 30?"
 category: "tech"
-status: "active"
-lastUpdated: 2026-06-14
+status: "settled"
+lastUpdated: 2026-06-15
 expiryDate: 2026-07-01
 tags: ["polymarket", "tech"]
 polymarketYes: 2.6

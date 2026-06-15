@@ -3,8 +3,8 @@ title: "Will Gadi Eizenkot be the next Prime Minister of Israel?"
 description: "Will Gadi Eizenkot be the next Prime Minister of Israel? Odds: 36.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Gadi Eizenkot be the next Prime Minister of Israel?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-06-14
+status: "settled"
+lastUpdated: 2026-06-15
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 36.1

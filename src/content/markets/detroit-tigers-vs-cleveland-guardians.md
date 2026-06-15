@@ -3,8 +3,8 @@ title: "Detroit Tigers vs. Cleveland Guardians"
 description: "Detroit Tigers vs. Cleveland Guardians Odds: 52.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Detroit Tigers vs. Cleveland Guardians"
 category: "politics"
-status: "active"
-lastUpdated: 2026-06-14
+status: "settled"
+lastUpdated: 2026-06-15
 expiryDate: 2026-06-21
 tags: ["politics", "polymarket"]
 polymarketYes: 52.5

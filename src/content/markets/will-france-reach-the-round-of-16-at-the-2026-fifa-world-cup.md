@@ -3,8 +3,8 @@ title: "Will France reach the Round of 16 at the 2026 FIFA World Cup?"
 description: "Will France reach the Round of 16 at the 2026 FIFA World Cup? Odds: 83.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will France reach the Round of 16 at the 2026 FIFA World Cup?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-06-14
+status: "settled"
+lastUpdated: 2026-06-15
 expiryDate: 2026-07-04
 tags: ["polymarket", "sports"]
 polymarketYes: 83.0

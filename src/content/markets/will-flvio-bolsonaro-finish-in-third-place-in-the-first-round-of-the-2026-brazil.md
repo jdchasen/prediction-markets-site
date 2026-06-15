@@ -1,23 +1,23 @@
 ---
-title: "Will Liudmila Samsonova be the 2026 Women’s Wimbledon Winner?"
-description: "Will Liudmila Samsonova be the 2026 Women’s Wimbledon Winner? Odds: 0.4% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Liudmila Samsonova be the 2026 Women’s Wimbledon Winner?"
+title: "Will Flávio Bolsonaro finish in third place in the first round of the 2026 Brazilian presidential election?"
+description: "Will Flávio Bolsonaro finish in third place in the first round of the 2026 Brazilian presidential election? Odds: 8.9% YES on Polymarket. See live prices and..."
+marketQuestion: "Will Flávio Bolsonaro finish in third place in the first round of the 2026 Brazilian presidential election?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-06-15
-expiryDate: 2026-07-12
-tags: ["politics", "polymarket"]
-polymarketYes: 0.4
-polymarketNo: 99.6
-polymarketVolume: 99620
-polymarketUrl: "https://polymarket.com/event/will-liudmila-samsonova-be-the-2026-womens-wimbledon-winner"
+expiryDate: 2026-10-04
+tags: ["elections", "politics", "polymarket"]
+polymarketYes: 8.9
+polymarketNo: 91.1
+polymarketVolume: 9772
+polymarketUrl: "https://polymarket.com/event/will-flvio-bolsonaro-finish-in-third-place-in-the-first-round-of-the-2026-brazilian-presidential-election"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.4% | 99.6% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 8.9% | 91.1% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-liudmila-samsonova-be-the-2026
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Liudmila Samsonova be the 2026 Women’s Wimbledon Winner?"?
+### What are the current odds for "Will Flávio Bolsonaro finish in third place in the first round of the 2026 Brazilian presidential election?"?
 
-As of June 15, 2026, Polymarket prices YES at 0.4%.
+As of June 15, 2026, Polymarket prices YES at 8.9%.
 
 ### Where can I trade on this prediction market?
 

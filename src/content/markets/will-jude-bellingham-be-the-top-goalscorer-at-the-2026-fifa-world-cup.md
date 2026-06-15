@@ -3,8 +3,8 @@ title: "Will Jude Bellingham be the top goalscorer at the 2026 FIFA World Cup?"
 description: "Will Jude Bellingham be the top goalscorer at the 2026 FIFA World Cup? Odds: 0.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Jude Bellingham be the top goalscorer at the 2026 FIFA World Cup?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-06-14
+status: "settled"
+lastUpdated: 2026-06-15
 expiryDate: 2026-07-20
 tags: ["polymarket", "sports"]
 polymarketYes: 0.4

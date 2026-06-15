@@ -3,8 +3,8 @@ title: "Will England win on 2026-06-27?"
 description: "Will England win on 2026-06-27? Odds: 75.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will England win on 2026-06-27?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-06-14
+status: "settled"
+lastUpdated: 2026-06-15
 expiryDate: 2026-06-27
 tags: ["politics", "polymarket"]
 polymarketYes: 75.5

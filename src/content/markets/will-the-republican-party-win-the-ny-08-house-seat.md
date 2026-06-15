@@ -1,14 +1,14 @@
 ---
 title: "Will the Republican Party win the NY-08 House seat?"
-description: "Will the Republican Party win the NY-08 House seat? Odds: 4.8% YES on Polymarket. See live prices and trade this market."
+description: "Will the Republican Party win the NY-08 House seat? Odds: 4.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Republican Party win the NY-08 House seat?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-06-14
+lastUpdated: 2026-06-15
 expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
-polymarketYes: 4.8
-polymarketNo: 95.2
+polymarketYes: 4.1
+polymarketNo: 95.9
 polymarketVolume: 9944
 polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-ny-08-house-seat"
 ---
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-n
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 4.8% | 95.2% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 4.1% | 95.9% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
+- [Kharg Island no longer under Iranian control by June 30?](/odds/kharg-island-no-longer-under-iranian-control-by-june-30) — 1% YES
 - [Will Carlos Roberto Massa Júnior win the 2026 Brazilian presidential election?](/odds/will-carlos-roberto-massa-jnior-win-the-2026-brazilian-presidential-election) — 0% YES
 - [Will Nikki Haley win the 2028 Republican presidential nomination?](/odds/will-nikki-haley-win-the-2028-republican-presidential-nomination) — 1% YES
-- [US-Iran nuclear deal by June 30?](/odds/us-iran-nuclear-deal-by-june-30) — 78% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will the Republican Party win the NY-08 House seat?"?
 
-As of June 14, 2026, Polymarket prices YES at 4.8%.
+As of June 15, 2026, Polymarket prices YES at 4.1%.
 
 ### Where can I trade on this prediction market?
 
