@@ -3,7 +3,7 @@ title: "Will Minnesota Lynx win the 2026 WNBA Finals?"
 description: "Will Minnesota Lynx win the 2026 WNBA Finals? Odds: 27.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Minnesota Lynx win the 2026 WNBA Finals?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-16
 expiryDate: 2026-10-31
 tags: ["politics", "polymarket", "sports"]

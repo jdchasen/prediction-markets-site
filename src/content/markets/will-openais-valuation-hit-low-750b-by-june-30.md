@@ -1,15 +1,15 @@
 ---
 title: "Will OpenAI's valuation hit (LOW) $750B by June 30?"
-description: "Will OpenAI's valuation hit (LOW) $750B by June 30? Odds: 7.9% YES on Polymarket. See live prices and trade this market."
+description: "Will OpenAI's valuation hit (LOW) $750B by June 30? Odds: 8.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will OpenAI's valuation hit (LOW) $750B by June 30?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-06-16
 expiryDate: 2026-07-01
 tags: ["ai", "politics", "polymarket"]
-polymarketYes: 7.9
-polymarketNo: 92.1
-polymarketVolume: 9903
+polymarketYes: 8.0
+polymarketNo: 92.0
+polymarketVolume: 9909
 polymarketUrl: "https://polymarket.com/event/will-openais-valuation-hit-low-750b-by-june-30"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-openais-valuation-hit-low-750b
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 7.9% | 92.1% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 8.0% | 92.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Carlos Roberto Massa Júnior win the 2026 Brazilian presidential election?](/odds/will-carlos-roberto-massa-jnior-win-the-2026-brazilian-presidential-election) — 0% YES
 - [Will Nikki Haley win the 2028 Republican presidential nomination?](/odds/will-nikki-haley-win-the-2028-republican-presidential-nomination) — 1% YES
-- [Miguel Díaz-Canel out as leader of Cuba by June 30?](/odds/miguel-daz-canel-out-as-leader-of-cuba-by-june-30) — 8% YES
+- [Will Alibaba have the best AI model at the end of June 2026?](/odds/will-alibaba-have-the-best-ai-model-at-the-end-of-june-2026) — 0% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will OpenAI's valuation hit (LOW) $750B by June 30?"?
 
-As of June 16, 2026, Polymarket prices YES at 7.9%.
+As of June 16, 2026, Polymarket prices YES at 8.0%.
 
 ### Where can I trade on this prediction market?
 

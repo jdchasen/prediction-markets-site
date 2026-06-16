@@ -3,7 +3,7 @@ title: "Miguel Díaz-Canel out as leader of Cuba by June 30?"
 description: "Miguel Díaz-Canel out as leader of Cuba by June 30? Odds: 8.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Miguel Díaz-Canel out as leader of Cuba by June 30?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-16
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]

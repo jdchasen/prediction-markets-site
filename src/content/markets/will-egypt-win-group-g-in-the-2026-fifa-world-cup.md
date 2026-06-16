@@ -3,7 +3,7 @@ title: "Will Egypt win Group G in the 2026 FIFA World Cup?"
 description: "Will Egypt win Group G in the 2026 FIFA World Cup? Odds: 26.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Egypt win Group G in the 2026 FIFA World Cup?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-16
 expiryDate: 2026-06-27
 tags: ["polymarket", "sports"]

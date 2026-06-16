@@ -9,7 +9,7 @@ expiryDate: 2027-01-01
 tags: ["crypto", "polymarket"]
 polymarketYes: 78.5
 polymarketNo: 21.5
-polymarketVolume: 9991
+polymarketVolume: 9996
 polymarketUrl: "https://polymarket.com/event/will-reya-launch-a-token-by-december-31-2026"
 ---
 
@@ -21,9 +21,9 @@ polymarketUrl: "https://polymarket.com/event/will-reya-launch-a-token-by-decembe
 
 ## Related Markets
 
-- [Predict.fun FDV above $300M one day after launch?](/odds/predictfun-fdv-above-300m-one-day-after-launch) — 70% YES
-- [Will Ethereum reach $2,700 in June?](/odds/will-ethereum-reach-2700-in-june) — 0% YES
-- [GRVT FDV above $100M one day after launch?](/odds/grvt-fdv-above-100m-one-day-after-launch) — 88% YES
+- [Predict.fun FDV above $300M one day after launch?](/odds/predictfun-fdv-above-300m-one-day-after-launch) — 71% YES
+- [Extended FDV above $2B one day after launch?](/odds/extended-fdv-above-2b-one-day-after-launch) — 4% YES
+- [Will Base launch a token by December 31, 2027?](/odds/will-base-launch-a-token-by-december-31-2027) — 68% YES
 
 ## Frequently Asked Questions
 

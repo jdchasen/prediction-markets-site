@@ -1,23 +1,23 @@
 ---
-title: "Will the Republican Party win the NY-08 House seat?"
-description: "Will the Republican Party win the NY-08 House seat? Odds: 4.3% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will the Republican Party win the NY-08 House seat?"
+title: "Will Anthropic’s valuation hit (HIGH) $1.1T by June 30?"
+description: "Will Anthropic’s valuation hit (HIGH) $1.1T by June 30? Odds: 53.0% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Anthropic’s valuation hit (HIGH) $1.1T by June 30?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-06-16
-expiryDate: 2026-11-03
+expiryDate: 2026-07-01
 tags: ["politics", "polymarket"]
-polymarketYes: 4.3
-polymarketNo: 95.7
-polymarketVolume: 9944
-polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-ny-08-house-seat"
+polymarketYes: 53.0
+polymarketNo: 47.0
+polymarketVolume: 98884
+polymarketUrl: "https://polymarket.com/event/will-anthropics-valuation-hit-high-1pt1t-by-june-30"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 4.3% | 95.7% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 53.0% | 47.0% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-n
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will the Republican Party win the NY-08 House seat?"?
+### What are the current odds for "Will Anthropic’s valuation hit (HIGH) $1.1T by June 30?"?
 
-As of June 16, 2026, Polymarket prices YES at 4.3%.
+As of June 16, 2026, Polymarket prices YES at 53.0%.
 
 ### Where can I trade on this prediction market?
 

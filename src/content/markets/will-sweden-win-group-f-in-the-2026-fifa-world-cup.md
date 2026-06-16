@@ -9,7 +9,7 @@ expiryDate: 2026-06-27
 tags: ["polymarket", "sports"]
 polymarketYes: 28.5
 polymarketNo: 71.5
-polymarketVolume: 98782
+polymarketVolume: 99495
 polymarketUrl: "https://polymarket.com/event/will-sweden-win-group-f-in-the-2026-fifa-world-cup"
 ---
 
@@ -21,9 +21,9 @@ polymarketUrl: "https://polymarket.com/event/will-sweden-win-group-f-in-the-2026
 
 ## Related Markets
 
-- [Will Senegal win Group I in the 2026 FIFA World Cup?](/odds/will-senegal-win-group-i-in-the-2026-fifa-world-cup) — 10% YES
 - [Will Baker Mayfield win the 2026 NFL MVP?](/odds/will-baker-mayfield-win-the-2026-nfl-mvp) — 1% YES
-- [Will Egypt win Group G in the 2026 FIFA World Cup?](/odds/will-egypt-win-group-g-in-the-2026-fifa-world-cup) — 26% YES
+- [Will USA advance to the knockout stages at the 2026 FIFA World Cup?](/odds/will-usa-advance-to-the-knockout-stages-at-the-2026-fifa-world-cup) — 98% YES
+- [Will Kansas City Chiefs win the 2027 NFL AFC Championship?](/odds/will-kansas-city-chiefs-win-the-2027-nfl-afc-championship) — 9% YES
 
 ## Frequently Asked Questions
 

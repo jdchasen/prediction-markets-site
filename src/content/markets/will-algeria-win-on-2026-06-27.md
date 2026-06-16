@@ -1,22 +1,23 @@
 ---
-title: "Will Sánchez win the 2nd round of the 2026 Peru presidential election by 1%+?"
-description: "Will Sánchez win the 2nd round of the 2026 Peru presidential election by 1%+? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Sánchez win the 2nd round of the 2026 Peru presidential election by 1%+?"
+title: "Will Algeria win on 2026-06-27?"
+description: "Will Algeria win on 2026-06-27? Odds: 25.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Algeria win on 2026-06-27?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-06-16
-tags: ["elections", "politics", "polymarket"]
-polymarketYes: 0.1
-polymarketNo: 100.0
-polymarketVolume: 9872
-polymarketUrl: "https://polymarket.com/event/will-sanchez-win-the-2nd-round-of-the-2026-peru-presidential-election-by-1-20260609021542097"
+expiryDate: 2026-06-28
+tags: ["politics", "polymarket"]
+polymarketYes: 25.5
+polymarketNo: 74.5
+polymarketVolume: 9927
+polymarketUrl: "https://polymarket.com/event/fifwc-alg-aut-2026-06-27-alg"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.1% | 100.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 25.5% | 74.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -26,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-sanchez-win-the-2nd-round-of-t
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Sánchez win the 2nd round of the 2026 Peru presidential election by 1%+?"?
+### What are the current odds for "Will Algeria win on 2026-06-27?"?
 
-As of June 16, 2026, Polymarket prices YES at 0.1%.
+As of June 16, 2026, Polymarket prices YES at 25.5%.
 
 ### Where can I trade on this prediction market?
 

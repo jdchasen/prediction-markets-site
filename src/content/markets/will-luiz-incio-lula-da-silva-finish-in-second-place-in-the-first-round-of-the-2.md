@@ -1,22 +1,23 @@
 ---
-title: "Will Sánchez win the 2nd round of the 2026 Peru presidential election by 1%+?"
-description: "Will Sánchez win the 2nd round of the 2026 Peru presidential election by 1%+? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Sánchez win the 2nd round of the 2026 Peru presidential election by 1%+?"
+title: "Will Luiz Inácio Lula da Silva finish in second place in the first round of the 2026 Brazilian presidential election?"
+description: "Will Luiz Inácio Lula da Silva finish in second place in the first round of the 2026 Brazilian presidential election? Odds: 4.5% YES on Polymarket. See live ..."
+marketQuestion: "Will Luiz Inácio Lula da Silva finish in second place in the first round of the 2026 Brazilian presidential election?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-06-16
+expiryDate: 2026-10-04
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 0.1
-polymarketNo: 100.0
-polymarketVolume: 9872
-polymarketUrl: "https://polymarket.com/event/will-sanchez-win-the-2nd-round-of-the-2026-peru-presidential-election-by-1-20260609021542097"
+polymarketYes: 4.5
+polymarketNo: 95.5
+polymarketVolume: 97439
+polymarketUrl: "https://polymarket.com/event/will-luiz-incio-lula-da-silva-finish-in-second-place-in-the-first-round-of-the-2026-brazilian-presidential-election"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.1% | 100.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 4.5% | 95.5% | $97K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -26,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-sanchez-win-the-2nd-round-of-t
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Sánchez win the 2nd round of the 2026 Peru presidential election by 1%+?"?
+### What are the current odds for "Will Luiz Inácio Lula da Silva finish in second place in the first round of the 2026 Brazilian presidential election?"?
 
-As of June 16, 2026, Polymarket prices YES at 0.1%.
+As of June 16, 2026, Polymarket prices YES at 4.5%.
 
 ### Where can I trade on this prediction market?
 

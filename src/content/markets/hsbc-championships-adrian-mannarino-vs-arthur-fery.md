@@ -1,23 +1,23 @@
 ---
-title: "Will a team from LPL (China) win MSI 2026?"
-description: "Will a team from LPL (China) win MSI 2026? Odds: 34.0% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will a team from LPL (China) win MSI 2026?"
+title: "HSBC Championships: Adrian Mannarino vs Arthur Fery"
+description: "HSBC Championships: Adrian Mannarino vs Arthur Fery Odds: 53.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "HSBC Championships: Adrian Mannarino vs Arthur Fery"
 category: "politics"
 status: "active"
 lastUpdated: 2026-06-16
-expiryDate: 2026-07-12
+expiryDate: 2026-06-24
 tags: ["politics", "polymarket"]
-polymarketYes: 34.0
-polymarketNo: 66.0
-polymarketVolume: 98709
-polymarketUrl: "https://polymarket.com/event/will-a-team-from-lpl-china-win-msi-2026"
+polymarketYes: 53.5
+polymarketNo: 46.5
+polymarketVolume: 9985
+polymarketUrl: "https://polymarket.com/event/atp-mannari-fery-2026-06-17"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 34.0% | 66.0% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 53.5% | 46.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-a-team-from-lpl-china-win-msi-
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will a team from LPL (China) win MSI 2026?"?
+### What are the current odds for "HSBC Championships: Adrian Mannarino vs Arthur Fery"?
 
-As of June 16, 2026, Polymarket prices YES at 34.0%.
+As of June 16, 2026, Polymarket prices YES at 53.5%.
 
 ### Where can I trade on this prediction market?
 
@@ -37,6 +37,5 @@ You can trade this market on [Polymarket](https://polymarket.us/1762?utm_source=
 
 ## Learn More
 
-- [Will ETH Hit $4,500 in 2026? Live Market Odds](/blog/will-ethereum-reach-4500-in-2026-what-prediction-markets-say)
-- [Will Discord IPO in 2026? What Prediction Markets Say](/blog/will-discord-ipo-in-2026-what-prediction-markets-say)
+- [2026 NBA Championship Odds: Prediction Markets Explained](/blog/2026-nba-championship-odds-prediction-markets-explained)
 

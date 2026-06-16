@@ -1,22 +1,23 @@
 ---
-title: "Will Sánchez win the 2nd round of the 2026 Peru presidential election by 1%+?"
-description: "Will Sánchez win the 2nd round of the 2026 Peru presidential election by 1%+? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Sánchez win the 2nd round of the 2026 Peru presidential election by 1%+?"
+title: "Will Grigor Dimitrov be the 2026 Men’s Wimbledon winner?"
+description: "Will Grigor Dimitrov be the 2026 Men’s Wimbledon winner? Odds: 0.4% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Grigor Dimitrov be the 2026 Men’s Wimbledon winner?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-06-16
-tags: ["elections", "politics", "polymarket"]
-polymarketYes: 0.1
-polymarketNo: 100.0
-polymarketVolume: 9872
-polymarketUrl: "https://polymarket.com/event/will-sanchez-win-the-2nd-round-of-the-2026-peru-presidential-election-by-1-20260609021542097"
+expiryDate: 2026-07-12
+tags: ["politics", "polymarket"]
+polymarketYes: 0.4
+polymarketNo: 99.7
+polymarketVolume: 98307
+polymarketUrl: "https://polymarket.com/event/will-grigor-dimitrov-be-the-2026-mens-wimbledon-winner"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.1% | 100.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.4% | 99.7% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -26,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-sanchez-win-the-2nd-round-of-t
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Sánchez win the 2nd round of the 2026 Peru presidential election by 1%+?"?
+### What are the current odds for "Will Grigor Dimitrov be the 2026 Men’s Wimbledon winner?"?
 
-As of June 16, 2026, Polymarket prices YES at 0.1%.
+As of June 16, 2026, Polymarket prices YES at 0.4%.
 
 ### Where can I trade on this prediction market?
 

@@ -9,7 +9,7 @@ expiryDate: 2026-12-31
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 0.4
 polymarketNo: 99.7
-polymarketVolume: 987554
+polymarketVolume: 987715
 polymarketUrl: "https://polymarket.com/event/will-yair-golan-be-the-next-prime-minister-of-israel"
 ---
 
@@ -23,7 +23,7 @@ polymarketUrl: "https://polymarket.com/event/will-yair-golan-be-the-next-prime-m
 
 - [Will Carlos Roberto Massa Júnior win the 2026 Brazilian presidential election?](/odds/will-carlos-roberto-massa-jnior-win-the-2026-brazilian-presidential-election) — 0% YES
 - [Will Nikki Haley win the 2028 Republican presidential nomination?](/odds/will-nikki-haley-win-the-2028-republican-presidential-nomination) — 1% YES
-- [Miguel Díaz-Canel out as leader of Cuba by June 30?](/odds/miguel-daz-canel-out-as-leader-of-cuba-by-june-30) — 8% YES
+- [Will Alibaba have the best AI model at the end of June 2026?](/odds/will-alibaba-have-the-best-ai-model-at-the-end-of-june-2026) — 0% YES
 
 ## Frequently Asked Questions
 

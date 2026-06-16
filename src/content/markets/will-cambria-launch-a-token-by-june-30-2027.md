@@ -1,35 +1,35 @@
 ---
-title: "Extended FDV above $2B one day after launch?"
-description: "Extended FDV above $2B one day after launch? Odds: 4.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Extended FDV above $2B one day after launch?"
+title: "Will Cambria launch a token by June 30, 2027?"
+description: "Will Cambria launch a token by June 30, 2027? Odds: 92.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Cambria launch a token by June 30, 2027?"
 category: "crypto"
 status: "active"
 lastUpdated: 2026-06-16
-expiryDate: 2027-01-01
+expiryDate: 2027-07-01
 tags: ["crypto", "polymarket"]
-polymarketYes: 4.5
-polymarketNo: 95.5
-polymarketVolume: 97775
-polymarketUrl: "https://polymarket.com/event/extended-fdv-above-2b-one-day-after-launch-692-597-187"
+polymarketYes: 92.5
+polymarketNo: 7.5
+polymarketVolume: 9812
+polymarketUrl: "https://polymarket.com/event/will-cambria-launch-a-token-by-june-30-2027"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 4.5% | 95.5% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 92.5% | 7.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Predict.fun FDV above $300M one day after launch?](/odds/predictfun-fdv-above-300m-one-day-after-launch) — 71% YES
+- [Extended FDV above $2B one day after launch?](/odds/extended-fdv-above-2b-one-day-after-launch) — 4% YES
 - [Will Reya launch a token by December 31, 2026?](/odds/will-reya-launch-a-token-by-december-31-2026) — 78% YES
-- [Will Base launch a token by December 31, 2027?](/odds/will-base-launch-a-token-by-december-31-2027) — 68% YES
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Extended FDV above $2B one day after launch?"?
+### What are the current odds for "Will Cambria launch a token by June 30, 2027?"?
 
-As of June 16, 2026, Polymarket prices YES at 4.5%.
+As of June 16, 2026, Polymarket prices YES at 92.5%.
 
 ### Where can I trade on this prediction market?
 

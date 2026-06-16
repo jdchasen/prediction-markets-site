@@ -3,7 +3,7 @@ title: "Set Handicap: Medvedev (-1.5) vs Etcheverry (+1.5)"
 description: "Set Handicap: Medvedev (-1.5) vs Etcheverry (+1.5) Odds: 76.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Set Handicap: Medvedev (-1.5) vs Etcheverry (+1.5)"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-16
 expiryDate: 2026-06-22
 tags: ["politics", "polymarket"]

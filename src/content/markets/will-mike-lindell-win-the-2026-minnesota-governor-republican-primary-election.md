@@ -1,15 +1,15 @@
 ---
 title: "Will Mike Lindell win the 2026 Minnesota Governor Republican primary election?"
-description: "Will Mike Lindell win the 2026 Minnesota Governor Republican primary election? Odds: 14.0% YES on Polymarket. See live prices and trade this market."
+description: "Will Mike Lindell win the 2026 Minnesota Governor Republican primary election? Odds: 13.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Mike Lindell win the 2026 Minnesota Governor Republican primary election?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-06-16
 expiryDate: 2026-08-11
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 14.0
-polymarketNo: 86.0
-polymarketVolume: 98581
+polymarketYes: 13.5
+polymarketNo: 86.5
+polymarketVolume: 98601
 polymarketUrl: "https://polymarket.com/event/will-mike-lindell-win-the-2026-minnesota-governor-republican-primary-election"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-mike-lindell-win-the-2026-minn
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 14.0% | 86.0% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 13.5% | 86.5% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Carlos Roberto Massa Júnior win the 2026 Brazilian presidential election?](/odds/will-carlos-roberto-massa-jnior-win-the-2026-brazilian-presidential-election) — 0% YES
 - [Will Nikki Haley win the 2028 Republican presidential nomination?](/odds/will-nikki-haley-win-the-2028-republican-presidential-nomination) — 1% YES
-- [Miguel Díaz-Canel out as leader of Cuba by June 30?](/odds/miguel-daz-canel-out-as-leader-of-cuba-by-june-30) — 8% YES
+- [Will Alibaba have the best AI model at the end of June 2026?](/odds/will-alibaba-have-the-best-ai-model-at-the-end-of-june-2026) — 0% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Mike Lindell win the 2026 Minnesota Governor Republican primary election?"?
 
-As of June 16, 2026, Polymarket prices YES at 14.0%.
+As of June 16, 2026, Polymarket prices YES at 13.5%.
 
 ### Where can I trade on this prediction market?
 

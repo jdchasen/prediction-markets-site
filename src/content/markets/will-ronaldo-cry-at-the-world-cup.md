@@ -1,23 +1,22 @@
 ---
-title: "Will Mexico be eliminated in the Semifinals of the World Cup?"
-description: "Will Mexico be eliminated in the Semifinals of the World Cup? Odds: 10.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Mexico be eliminated in the Semifinals of the World Cup?"
+title: "Will Ronaldo Cry at the World Cup?"
+description: "Will Ronaldo Cry at the World Cup? Odds: 69.0% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Ronaldo Cry at the World Cup?"
 category: "sports"
 status: "active"
 lastUpdated: 2026-06-16
-expiryDate: 2026-07-19
 tags: ["polymarket", "sports"]
-polymarketYes: 10.5
-polymarketNo: 89.5
-polymarketVolume: 9790
-polymarketUrl: "https://polymarket.com/event/will-mexico-be-eliminated-in-the-semifinals-of-the-world-cup-20260605224223439"
+polymarketYes: 69.0
+polymarketNo: 31.0
+polymarketVolume: 97854
+polymarketUrl: "https://polymarket.com/event/will-ronaldo-cry-at-the-world-cup-20260604013616610"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 10.5% | 89.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 69.0% | 31.0% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +26,9 @@ polymarketUrl: "https://polymarket.com/event/will-mexico-be-eliminated-in-the-se
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Mexico be eliminated in the Semifinals of the World Cup?"?
+### What are the current odds for "Will Ronaldo Cry at the World Cup?"?
 
-As of June 16, 2026, Polymarket prices YES at 10.5%.
+As of June 16, 2026, Polymarket prices YES at 69.0%.
 
 ### Where can I trade on this prediction market?
 

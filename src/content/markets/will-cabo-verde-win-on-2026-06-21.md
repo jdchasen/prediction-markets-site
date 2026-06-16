@@ -3,7 +3,7 @@ title: "Will Cabo Verde win on 2026-06-21?"
 description: "Will Cabo Verde win on 2026-06-21? Odds: 11.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Cabo Verde win on 2026-06-21?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-16
 expiryDate: 2026-06-21
 tags: ["politics", "polymarket"]

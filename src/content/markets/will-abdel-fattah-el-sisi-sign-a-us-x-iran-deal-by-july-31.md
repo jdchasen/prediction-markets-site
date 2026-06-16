@@ -1,16 +1,16 @@
 ---
-title: "Will Minnesota use a new congressional map for the 2026 United States midterm elections?"
-description: "Will Minnesota use a new congressional map for the 2026 United States midterm elections? Odds: 2.1% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Minnesota use a new congressional map for the 2026 United States midterm elections?"
+title: "Will Abdel Fattah el-Sisi sign a U.S. x Iran deal by July 31?"
+description: "Will Abdel Fattah el-Sisi sign a U.S. x Iran deal by July 31? Odds: 2.1% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Abdel Fattah el-Sisi sign a U.S. x Iran deal by July 31?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-06-16
-expiryDate: 2026-11-03
-tags: ["elections", "politics", "polymarket"]
+expiryDate: 2026-08-01
+tags: ["politics", "polymarket"]
 polymarketYes: 2.1
 polymarketNo: 98.0
-polymarketVolume: 9741
-polymarketUrl: "https://polymarket.com/event/will-minnesota-use-a-new-congressional-map-for-the-2026-united-states-midterm-elections"
+polymarketVolume: 9859
+polymarketUrl: "https://polymarket.com/event/will-abdel-fattah-el-sisi-sign-a-uptspt-x-iran-deal-by-july-31-20260611235950085"
 ---
 
 ## Current Odds
@@ -27,7 +27,7 @@ polymarketUrl: "https://polymarket.com/event/will-minnesota-use-a-new-congressio
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Minnesota use a new congressional map for the 2026 United States midterm elections?"?
+### What are the current odds for "Will Abdel Fattah el-Sisi sign a U.S. x Iran deal by July 31?"?
 
 As of June 16, 2026, Polymarket prices YES at 2.1%.
 
@@ -37,6 +37,6 @@ You can trade this market on [Polymarket](https://polymarket.us/1762?utm_source=
 
 ## Learn More
 
-- [Is Kalshi Legal? State-by-State Guide (2026)](/blog/is-kalshi-legal)
-- [Will ETH Hit $4,500 in 2026? Live Market Odds](/blog/will-ethereum-reach-4500-in-2026-what-prediction-markets-say)
+- [US-Iran Peace Deal Odds: Will It Happen in 2025?](/blog/us-iran-peace-deal-odds-will-it-happen-in-2025)
+- [US-Iran Peace Deal Odds: What Traders Are Betting](/blog/us-iran-peace-deal-odds-what-traders-are-betting)
 

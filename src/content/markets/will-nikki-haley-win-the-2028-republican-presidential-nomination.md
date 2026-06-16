@@ -9,7 +9,7 @@ expiryDate: 2028-11-07
 tags: ["politics", "polymarket"]
 polymarketYes: 0.9
 polymarketNo: 99.2
-polymarketVolume: 9923999
+polymarketVolume: 9926054
 polymarketUrl: "https://polymarket.com/event/will-nikki-haley-win-the-2028-republican-presidential-nomination"
 ---
 
@@ -22,8 +22,8 @@ polymarketUrl: "https://polymarket.com/event/will-nikki-haley-win-the-2028-repub
 ## Related Markets
 
 - [Will Carlos Roberto Massa Júnior win the 2026 Brazilian presidential election?](/odds/will-carlos-roberto-massa-jnior-win-the-2026-brazilian-presidential-election) — 0% YES
-- [Miguel Díaz-Canel out as leader of Cuba by June 30?](/odds/miguel-daz-canel-out-as-leader-of-cuba-by-june-30) — 8% YES
 - [Will Alibaba have the best AI model at the end of June 2026?](/odds/will-alibaba-have-the-best-ai-model-at-the-end-of-june-2026) — 0% YES
+- [Will Yair Golan be the next Prime Minister of Israel?](/odds/will-yair-golan-be-the-next-prime-minister-of-israel) — 0% YES
 
 ## Frequently Asked Questions
 

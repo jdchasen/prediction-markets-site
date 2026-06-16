@@ -3,7 +3,7 @@ title: "Will a player representing England be the top goalscorer at the 2026 FIF
 description: "Will a player representing England be the top goalscorer at the 2026 FIFA World Cup? Odds: 13.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will a player representing England be the top goalscorer at the 2026 FIFA World Cup?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-16
 expiryDate: 2026-08-20
 tags: ["polymarket", "sports"]

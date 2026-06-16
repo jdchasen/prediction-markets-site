@@ -3,7 +3,7 @@ title: "Will Liudmila Samsonova be the 2026 Women’s Wimbledon Winner?"
 description: "Will Liudmila Samsonova be the 2026 Women’s Wimbledon Winner? Odds: 0.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Liudmila Samsonova be the 2026 Women’s Wimbledon Winner?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-16
 expiryDate: 2026-07-12
 tags: ["politics", "polymarket"]

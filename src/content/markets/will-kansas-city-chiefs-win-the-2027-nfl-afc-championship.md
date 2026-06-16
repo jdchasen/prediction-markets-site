@@ -21,9 +21,9 @@ polymarketUrl: "https://polymarket.com/event/will-kansas-city-chiefs-win-the-202
 
 ## Related Markets
 
-- [Will Senegal win Group I in the 2026 FIFA World Cup?](/odds/will-senegal-win-group-i-in-the-2026-fifa-world-cup) — 10% YES
 - [Will Sweden win Group F in the 2026 FIFA World Cup?](/odds/will-sweden-win-group-f-in-the-2026-fifa-world-cup) — 28% YES
 - [Will Baker Mayfield win the 2026 NFL MVP?](/odds/will-baker-mayfield-win-the-2026-nfl-mvp) — 1% YES
+- [Will USA advance to the knockout stages at the 2026 FIFA World Cup?](/odds/will-usa-advance-to-the-knockout-stages-at-the-2026-fifa-world-cup) — 98% YES
 
 ## Frequently Asked Questions
 

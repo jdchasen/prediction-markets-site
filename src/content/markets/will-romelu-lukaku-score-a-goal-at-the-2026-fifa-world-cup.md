@@ -3,7 +3,7 @@ title: "Will Romelu Lukaku score a goal at the 2026 FIFA World Cup?"
 description: "Will Romelu Lukaku score a goal at the 2026 FIFA World Cup? Odds: 63.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Romelu Lukaku score a goal at the 2026 FIFA World Cup?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-16
 expiryDate: 2026-07-20
 tags: ["polymarket", "sports"]

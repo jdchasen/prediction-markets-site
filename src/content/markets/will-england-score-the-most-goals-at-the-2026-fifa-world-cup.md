@@ -1,23 +1,23 @@
 ---
-title: "Will Uruguay win Group H in the 2026 FIFA World Cup?"
-description: "Will Uruguay win Group H in the 2026 FIFA World Cup? Odds: 21.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Uruguay win Group H in the 2026 FIFA World Cup?"
+title: "Will England score the most goals at the 2026 FIFA World Cup?"
+description: "Will England score the most goals at the 2026 FIFA World Cup? Odds: 7.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will England score the most goals at the 2026 FIFA World Cup?"
 category: "sports"
 status: "active"
 lastUpdated: 2026-06-16
-expiryDate: 2026-06-27
+expiryDate: 2026-08-03
 tags: ["polymarket", "sports"]
-polymarketYes: 21.5
-polymarketNo: 78.5
-polymarketVolume: 97688
-polymarketUrl: "https://polymarket.com/event/will-uruguay-win-group-h-in-the-2026-fifa-world-cup"
+polymarketYes: 7.5
+polymarketNo: 92.5
+polymarketVolume: 9762
+polymarketUrl: "https://polymarket.com/event/will-england-score-the-most-goals-at-the-2026-fifa-world-cup"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 21.5% | 78.5% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 7.5% | 92.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-uruguay-win-group-h-in-the-202
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Uruguay win Group H in the 2026 FIFA World Cup?"?
+### What are the current odds for "Will England score the most goals at the 2026 FIFA World Cup?"?
 
-As of June 16, 2026, Polymarket prices YES at 21.5%.
+As of June 16, 2026, Polymarket prices YES at 7.5%.
 
 ### Where can I trade on this prediction market?
 
@@ -37,6 +37,6 @@ You can trade this market on [Polymarket](https://polymarket.us/1762?utm_source=
 
 ## Learn More
 
+- [2026 World Cup Betting Odds: Markets Pick England](/blog/2026-world-cup-betting-odds-markets-pick-england)
 - [2026 FIFA World Cup Winner Odds & Predictions](/blog/2026-fifa-world-cup-winner-odds-predictions)
-- [Will ETH Hit $4,500 in 2026? Live Market Odds](/blog/will-ethereum-reach-4500-in-2026-what-prediction-markets-say)
 
