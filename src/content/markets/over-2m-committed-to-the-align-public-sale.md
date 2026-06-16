@@ -3,8 +3,8 @@ title: "Over $2M committed to the ALIGN public sale?"
 description: "Over $2M committed to the ALIGN public sale? Odds: 2.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Over $2M committed to the ALIGN public sale?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-06-15
+status: "settled"
+lastUpdated: 2026-06-16
 expiryDate: 2026-07-01
 tags: ["politics", "polymarket"]
 polymarketYes: 2.9

@@ -3,8 +3,8 @@ title: "Will Christopher Taylor be the Democratic nominee for the Ann Arbor Mayo
 description: "Will Christopher Taylor be the Democratic nominee for the Ann Arbor Mayoral Election? Odds: 57.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Christopher Taylor be the Democratic nominee for the Ann Arbor Mayoral Election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-06-15
+status: "settled"
+lastUpdated: 2026-06-16
 expiryDate: 2026-08-04
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 57.5

@@ -3,8 +3,8 @@ title: "Will Lionel Messi win the Golden Ball at the 2026 FIFA World Cup?"
 description: "Will Lionel Messi win the Golden Ball at the 2026 FIFA World Cup? Odds: 9.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Lionel Messi win the Golden Ball at the 2026 FIFA World Cup?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-06-15
+status: "settled"
+lastUpdated: 2026-06-16
 expiryDate: 2026-07-20
 tags: ["polymarket", "sports"]
 polymarketYes: 9.5

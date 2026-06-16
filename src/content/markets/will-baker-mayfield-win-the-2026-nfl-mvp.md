@@ -4,7 +4,7 @@ description: "Will Baker Mayfield win the 2026 NFL MVP? Odds: 1.2% YES on Polyma
 marketQuestion: "Will Baker Mayfield win the 2026 NFL MVP?"
 category: "sports"
 status: "active"
-lastUpdated: 2026-06-15
+lastUpdated: 2026-06-16
 expiryDate: 2027-02-15
 tags: ["polymarket", "sports"]
 polymarketYes: 1.2
@@ -21,15 +21,15 @@ polymarketUrl: "https://polymarket.com/event/will-baker-mayfield-win-the-2026-nf
 
 ## Related Markets
 
-- [Will Houston Texans win the 2027 NFL AFC Championship?](/odds/will-houston-texans-win-the-2027-nfl-afc-championship) — 7% YES
+- [Will Senegal win Group I in the 2026 FIFA World Cup?](/odds/will-senegal-win-group-i-in-the-2026-fifa-world-cup) — 10% YES
 - [Will Sweden win Group F in the 2026 FIFA World Cup?](/odds/will-sweden-win-group-f-in-the-2026-fifa-world-cup) — 28% YES
-- [Will Uruguay reach the 2026 FIFA World Cup final?](/odds/will-uruguay-reach-the-2026-fifa-world-cup-final) — 4% YES
+- [Will Egypt win Group G in the 2026 FIFA World Cup?](/odds/will-egypt-win-group-g-in-the-2026-fifa-world-cup) — 26% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Baker Mayfield win the 2026 NFL MVP?"?
 
-As of June 15, 2026, Polymarket prices YES at 1.2%.
+As of June 16, 2026, Polymarket prices YES at 1.2%.
 
 ### Where can I trade on this prediction market?
 

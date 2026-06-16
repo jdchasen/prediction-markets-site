@@ -3,8 +3,8 @@ title: "Will Uruguay reach the 2026 FIFA World Cup final?"
 description: "Will Uruguay reach the 2026 FIFA World Cup final? Odds: 3.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Uruguay reach the 2026 FIFA World Cup final?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-06-15
+status: "settled"
+lastUpdated: 2026-06-16
 expiryDate: 2026-07-20
 tags: ["polymarket", "sports"]
 polymarketYes: 3.5

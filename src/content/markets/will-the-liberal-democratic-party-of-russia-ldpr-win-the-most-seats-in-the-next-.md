@@ -4,12 +4,12 @@ description: "Will the Liberal Democratic Party of Russia (LDPR) win the most se
 marketQuestion: "Will the Liberal Democratic Party of Russia (LDPR) win the most seats in the next Russian parliamentary election?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-06-15
+lastUpdated: 2026-06-16
 expiryDate: 2026-09-30
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.4
 polymarketNo: 99.6
-polymarketVolume: 99803
+polymarketVolume: 99858
 polymarketUrl: "https://polymarket.com/event/will-the-liberal-democratic-party-of-russia-ldpr-win-the-most-seats-in-the-next-russian-parliamentary-election"
 ---
 
@@ -21,15 +21,15 @@ polymarketUrl: "https://polymarket.com/event/will-the-liberal-democratic-party-o
 
 ## Related Markets
 
-- [Kharg Island no longer under Iranian control by June 30?](/odds/kharg-island-no-longer-under-iranian-control-by-june-30) — 1% YES
 - [Will Carlos Roberto Massa Júnior win the 2026 Brazilian presidential election?](/odds/will-carlos-roberto-massa-jnior-win-the-2026-brazilian-presidential-election) — 0% YES
 - [Will Nikki Haley win the 2028 Republican presidential nomination?](/odds/will-nikki-haley-win-the-2028-republican-presidential-nomination) — 1% YES
+- [Miguel Díaz-Canel out as leader of Cuba by June 30?](/odds/miguel-daz-canel-out-as-leader-of-cuba-by-june-30) — 8% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will the Liberal Democratic Party of Russia (LDPR) win the most seats in the next Russian parliamentary election?"?
 
-As of June 15, 2026, Polymarket prices YES at 0.4%.
+As of June 16, 2026, Polymarket prices YES at 0.4%.
 
 ### Where can I trade on this prediction market?
 

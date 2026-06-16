@@ -3,8 +3,8 @@ title: "Will Georgia win the 2026 College World Series?"
 description: "Will Georgia win the 2026 College World Series? Odds: 19.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Georgia win the 2026 College World Series?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-06-15
+status: "settled"
+lastUpdated: 2026-06-16
 expiryDate: 2026-06-23
 tags: ["politics", "polymarket"]
 polymarketYes: 19.7

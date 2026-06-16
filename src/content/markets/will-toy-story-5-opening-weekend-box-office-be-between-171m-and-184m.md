@@ -3,8 +3,8 @@ title: "Will \"Toy Story 5\" Opening Weekend Box Office be between 171m and 184m
 description: "Will \"Toy Story 5\" Opening Weekend Box Office be between 171m and 184m? Odds: 19.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will \"Toy Story 5\" Opening Weekend Box Office be between 171m and 184m?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-06-15
+status: "settled"
+lastUpdated: 2026-06-16
 expiryDate: 2026-06-22
 tags: ["politics", "polymarket"]
 polymarketYes: 19.0

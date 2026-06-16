@@ -3,8 +3,8 @@ title: "Will Anthropic have the best Coding AI model at the end of June 2026?"
 description: "Will Anthropic have the best Coding AI model at the end of June 2026? Odds: 96.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Anthropic have the best Coding AI model at the end of June 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-06-15
+status: "settled"
+lastUpdated: 2026-06-16
 expiryDate: 2026-06-30
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 96.9

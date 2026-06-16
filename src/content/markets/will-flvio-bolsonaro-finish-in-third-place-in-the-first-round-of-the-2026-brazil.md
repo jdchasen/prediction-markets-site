@@ -1,14 +1,14 @@
 ---
 title: "Will Flávio Bolsonaro finish in third place in the first round of the 2026 Brazilian presidential election?"
-description: "Will Flávio Bolsonaro finish in third place in the first round of the 2026 Brazilian presidential election? Odds: 8.1% YES on Polymarket. See live prices and..."
+description: "Will Flávio Bolsonaro finish in third place in the first round of the 2026 Brazilian presidential election? Odds: 9.2% YES on Polymarket. See live prices and..."
 marketQuestion: "Will Flávio Bolsonaro finish in third place in the first round of the 2026 Brazilian presidential election?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-06-15
+lastUpdated: 2026-06-16
 expiryDate: 2026-10-04
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 8.1
-polymarketNo: 91.9
+polymarketYes: 9.2
+polymarketNo: 90.8
 polymarketVolume: 9772
 polymarketUrl: "https://polymarket.com/event/will-flvio-bolsonaro-finish-in-third-place-in-the-first-round-of-the-2026-brazilian-presidential-election"
 ---
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-flvio-bolsonaro-finish-in-thir
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 8.1% | 91.9% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 9.2% | 90.8% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Kharg Island no longer under Iranian control by June 30?](/odds/kharg-island-no-longer-under-iranian-control-by-june-30) — 1% YES
 - [Will Carlos Roberto Massa Júnior win the 2026 Brazilian presidential election?](/odds/will-carlos-roberto-massa-jnior-win-the-2026-brazilian-presidential-election) — 0% YES
 - [Will Nikki Haley win the 2028 Republican presidential nomination?](/odds/will-nikki-haley-win-the-2028-republican-presidential-nomination) — 1% YES
+- [Miguel Díaz-Canel out as leader of Cuba by June 30?](/odds/miguel-daz-canel-out-as-leader-of-cuba-by-june-30) — 8% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Flávio Bolsonaro finish in third place in the first round of the 2026 Brazilian presidential election?"?
 
-As of June 15, 2026, Polymarket prices YES at 8.1%.
+As of June 16, 2026, Polymarket prices YES at 9.2%.
 
 ### Where can I trade on this prediction market?
 

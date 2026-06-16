@@ -3,8 +3,8 @@ title: "Will Ayelet Shaked be the next Prime Minister of Israel?"
 description: "Will Ayelet Shaked be the next Prime Minister of Israel? Odds: 0.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Ayelet Shaked be the next Prime Minister of Israel?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-06-15
+status: "settled"
+lastUpdated: 2026-06-16
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 0.2

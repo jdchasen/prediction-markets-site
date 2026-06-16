@@ -1,15 +1,15 @@
 ---
 title: "Will Lamine Yamal win the Young Player Award at the 2026 FIFA World Cup?"
-description: "Will Lamine Yamal win the Young Player Award at the 2026 FIFA World Cup? Odds: 41.0% YES on Polymarket. See live prices and trade this market."
+description: "Will Lamine Yamal win the Young Player Award at the 2026 FIFA World Cup? Odds: 38.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Lamine Yamal win the Young Player Award at the 2026 FIFA World Cup?"
 category: "sports"
 status: "active"
-lastUpdated: 2026-06-15
+lastUpdated: 2026-06-16
 expiryDate: 2026-07-20
 tags: ["polymarket", "sports"]
-polymarketYes: 41.0
-polymarketNo: 59.0
-polymarketVolume: 9757
+polymarketYes: 38.5
+polymarketNo: 61.5
+polymarketVolume: 9945
 polymarketUrl: "https://polymarket.com/event/will-lamine-yamal-win-the-young-player-award-at-the-2026-fifa-world-cup-20260602160656391"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-lamine-yamal-win-the-young-pla
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 41.0% | 59.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 38.5% | 61.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Houston Texans win the 2027 NFL AFC Championship?](/odds/will-houston-texans-win-the-2027-nfl-afc-championship) — 7% YES
-- [Will Baker Mayfield win the 2026 NFL MVP?](/odds/will-baker-mayfield-win-the-2026-nfl-mvp) — 1% YES
+- [Will Senegal win Group I in the 2026 FIFA World Cup?](/odds/will-senegal-win-group-i-in-the-2026-fifa-world-cup) — 10% YES
 - [Will Sweden win Group F in the 2026 FIFA World Cup?](/odds/will-sweden-win-group-f-in-the-2026-fifa-world-cup) — 28% YES
+- [Will Baker Mayfield win the 2026 NFL MVP?](/odds/will-baker-mayfield-win-the-2026-nfl-mvp) — 1% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Lamine Yamal win the Young Player Award at the 2026 FIFA World Cup?"?
 
-As of June 15, 2026, Polymarket prices YES at 41.0%.
+As of June 16, 2026, Polymarket prices YES at 38.5%.
 
 ### Where can I trade on this prediction market?
 

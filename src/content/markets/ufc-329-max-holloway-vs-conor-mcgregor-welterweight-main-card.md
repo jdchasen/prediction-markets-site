@@ -3,8 +3,8 @@ title: "UFC 329: Max Holloway vs. Conor McGregor (Welterweight, Main Card)"
 description: "UFC 329: Max Holloway vs. Conor McGregor (Welterweight, Main Card) Odds: 67.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "UFC 329: Max Holloway vs. Conor McGregor (Welterweight, Main Card)"
 category: "politics"
-status: "active"
-lastUpdated: 2026-06-15
+status: "settled"
+lastUpdated: 2026-06-16
 expiryDate: 2026-07-12
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 67.5

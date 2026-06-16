@@ -3,8 +3,8 @@ title: "Will Texas win the 2026 College World Series?"
 description: "Will Texas win the 2026 College World Series? Odds: 43.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Texas win the 2026 College World Series?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-06-15
+status: "settled"
+lastUpdated: 2026-06-16
 expiryDate: 2026-06-23
 tags: ["politics", "polymarket"]
 polymarketYes: 43.9
