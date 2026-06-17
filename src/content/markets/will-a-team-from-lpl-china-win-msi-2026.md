@@ -9,7 +9,7 @@ expiryDate: 2026-07-12
 tags: ["politics", "polymarket"]
 polymarketYes: 33.5
 polymarketNo: 66.5
-polymarketVolume: 98812
+polymarketVolume: 99047
 polymarketUrl: "https://polymarket.com/event/will-a-team-from-lpl-china-win-msi-2026"
 ---
 
@@ -23,7 +23,7 @@ polymarketUrl: "https://polymarket.com/event/will-a-team-from-lpl-china-win-msi-
 
 - [Will Carlos Roberto Massa Júnior win the 2026 Brazilian presidential election?](/odds/will-carlos-roberto-massa-jnior-win-the-2026-brazilian-presidential-election) — 0% YES
 - [Will Nikki Haley win the 2028 Republican presidential nomination?](/odds/will-nikki-haley-win-the-2028-republican-presidential-nomination) — 1% YES
-- [Will Alibaba have the best AI model at the end of June 2026?](/odds/will-alibaba-have-the-best-ai-model-at-the-end-of-june-2026) — 0% YES
+- [Will James Talarico win the 2028 Democratic presidential nomination?](/odds/will-james-talarico-win-the-2028-democratic-presidential-nomination) — 2% YES
 
 ## Frequently Asked Questions
 

@@ -3,7 +3,7 @@ title: "Will claude-opus-4-6-thinking be the best AI model on June 20, 2026?"
 description: "Will claude-opus-4-6-thinking be the best AI model on June 20, 2026? Odds: 96.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will claude-opus-4-6-thinking be the best AI model on June 20, 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-17
 expiryDate: 2026-06-20
 tags: ["ai", "politics", "polymarket"]

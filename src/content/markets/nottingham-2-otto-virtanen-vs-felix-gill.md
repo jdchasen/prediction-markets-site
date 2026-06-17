@@ -3,7 +3,7 @@ title: "Nottingham 2: Otto Virtanen vs Felix Gill"
 description: "Nottingham 2: Otto Virtanen vs Felix Gill Odds: 92.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Nottingham 2: Otto Virtanen vs Felix Gill"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-17
 expiryDate: 2026-06-24
 tags: ["politics", "polymarket"]

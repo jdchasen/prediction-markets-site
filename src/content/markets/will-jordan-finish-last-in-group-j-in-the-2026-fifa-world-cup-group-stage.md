@@ -9,7 +9,7 @@ expiryDate: 2026-07-20
 tags: ["polymarket", "sports"]
 polymarketYes: 73.5
 polymarketNo: 26.5
-polymarketVolume: 9771
+polymarketVolume: 9781
 polymarketUrl: "https://polymarket.com/event/will-jordan-finish-last-in-group-j-in-the-2026-fifa-world-cup-group-stage-20260605000528281"
 ---
 
@@ -21,9 +21,9 @@ polymarketUrl: "https://polymarket.com/event/will-jordan-finish-last-in-group-j-
 
 ## Related Markets
 
-- [World Cup: Most Player Goals Record Broken?](/odds/world-cup-most-player-goals-record-broken) — 5% YES
+- [Will Uruguay win Group H in the 2026 FIFA World Cup?](/odds/will-uruguay-win-group-h-in-the-2026-fifa-world-cup) — 20% YES
 - [Will Baker Mayfield win the 2026 NFL MVP?](/odds/will-baker-mayfield-win-the-2026-nfl-mvp) — 1% YES
-- [Will Uruguay win Group H in the 2026 FIFA World Cup?](/odds/will-uruguay-win-group-h-in-the-2026-fifa-world-cup) — 22% YES
+- [Will Ecuador win Group E in the 2026 FIFA World Cup?](/odds/will-ecuador-win-group-e-in-the-2026-fifa-world-cup) — 4% YES
 
 ## Frequently Asked Questions
 

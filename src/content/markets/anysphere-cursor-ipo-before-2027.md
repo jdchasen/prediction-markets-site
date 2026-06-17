@@ -9,7 +9,7 @@ expiryDate: 2026-12-31
 tags: ["finance", "polymarket"]
 polymarketYes: 3.1
 polymarketNo: 96.9
-polymarketVolume: 99252
+polymarketVolume: 99280
 polymarketUrl: "https://polymarket.com/event/anysphere-cursor-ipo-before-2027"
 ---
 
@@ -21,9 +21,9 @@ polymarketUrl: "https://polymarket.com/event/anysphere-cursor-ipo-before-2027"
 
 ## Related Markets
 
-- [Will SHEIN have the highest IPO Market Cap 2026?](/odds/will-shein-have-the-highest-ipo-market-cap-2026) — 0% YES
 - [Will Saudi Aramco be the second-largest company in the world by market cap on June 30?](/odds/will-saudi-aramco-be-the-second-largest-company-in-the-world-by-market-cap-on-ju) — 0% YES
-- [Will Gold (GC) hit (HIGH) $4,900 by end of June?](/odds/will-gold-gc-hit-high-4900-by-end-of-june) — 1% YES
+- [Will SHEIN have the highest IPO Market Cap 2026?](/odds/will-shein-have-the-highest-ipo-market-cap-2026) — 0% YES
+- [Kraken IPO closing market cap above $22B?](/odds/kraken-ipo-closing-market-cap-above-22b) — 22% YES
 
 ## Frequently Asked Questions
 

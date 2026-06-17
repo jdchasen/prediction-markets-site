@@ -1,15 +1,15 @@
 ---
 title: "Will Cambria launch a token by June 30, 2027?"
-description: "Will Cambria launch a token by June 30, 2027? Odds: 92.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Cambria launch a token by June 30, 2027? Odds: 93.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Cambria launch a token by June 30, 2027?"
 category: "crypto"
 status: "active"
 lastUpdated: 2026-06-17
 expiryDate: 2027-07-01
 tags: ["crypto", "polymarket"]
-polymarketYes: 92.5
-polymarketNo: 7.5
-polymarketVolume: 9812
+polymarketYes: 93.5
+polymarketNo: 6.5
+polymarketVolume: 9838
 polymarketUrl: "https://polymarket.com/event/will-cambria-launch-a-token-by-june-30-2027"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-cambria-launch-a-token-by-june
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 92.5% | 7.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 93.5% | 6.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Predict.fun FDV above $300M one day after launch?](/odds/predictfun-fdv-above-300m-one-day-after-launch) — 70% YES
-- [Will Bitcoin dip to $47,500 in June?](/odds/will-bitcoin-dip-to-47500-in-june) — 1% YES
+- [Predict.fun FDV above $300M one day after launch?](/odds/predictfun-fdv-above-300m-one-day-after-launch) — 72% YES
+- [Will MetaMask launch a token by September 30, 2026?](/odds/will-metamask-launch-a-token-by-september-30-2026) — 6% YES
 - [Extended FDV above $2B one day after launch?](/odds/extended-fdv-above-2b-one-day-after-launch) — 4% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Cambria launch a token by June 30, 2027?"?
 
-As of June 17, 2026, Polymarket prices YES at 92.5%.
+As of June 17, 2026, Polymarket prices YES at 93.5%.
 
 ### Where can I trade on this prediction market?
 

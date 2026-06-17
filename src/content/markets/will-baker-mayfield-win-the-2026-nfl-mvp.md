@@ -21,9 +21,9 @@ polymarketUrl: "https://polymarket.com/event/will-baker-mayfield-win-the-2026-nf
 
 ## Related Markets
 
-- [World Cup: Most Player Goals Record Broken?](/odds/world-cup-most-player-goals-record-broken) — 5% YES
-- [Will Uruguay win Group H in the 2026 FIFA World Cup?](/odds/will-uruguay-win-group-h-in-the-2026-fifa-world-cup) — 22% YES
-- [Will Ecuador win Group E in the 2026 FIFA World Cup?](/odds/will-ecuador-win-group-e-in-the-2026-fifa-world-cup) — 6% YES
+- [Will Uruguay win Group H in the 2026 FIFA World Cup?](/odds/will-uruguay-win-group-h-in-the-2026-fifa-world-cup) — 20% YES
+- [Will Ecuador win Group E in the 2026 FIFA World Cup?](/odds/will-ecuador-win-group-e-in-the-2026-fifa-world-cup) — 4% YES
+- [Will Kansas City Chiefs win the 2027 NFL AFC Championship?](/odds/will-kansas-city-chiefs-win-the-2027-nfl-afc-championship) — 10% YES
 
 ## Frequently Asked Questions
 

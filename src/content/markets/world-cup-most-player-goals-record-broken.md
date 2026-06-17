@@ -3,7 +3,7 @@ title: "World Cup: Most Player Goals Record Broken?"
 description: "World Cup: Most Player Goals Record Broken? Odds: 5.3% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "World Cup: Most Player Goals Record Broken?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-17
 expiryDate: 2026-07-20
 tags: ["polymarket", "sports"]

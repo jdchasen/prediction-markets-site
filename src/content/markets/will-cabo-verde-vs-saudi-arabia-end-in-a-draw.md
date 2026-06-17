@@ -3,7 +3,7 @@ title: "Will Cabo Verde vs. Saudi Arabia end in a draw?"
 description: "Will Cabo Verde vs. Saudi Arabia end in a draw? Odds: 26.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Cabo Verde vs. Saudi Arabia end in a draw?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-17
 expiryDate: 2026-06-27
 tags: ["politics", "polymarket"]

@@ -21,9 +21,9 @@ polymarketUrl: "https://polymarket.com/event/will-shein-have-the-highest-ipo-mar
 
 ## Related Markets
 
-- [Anysphere (Cursor) IPO before 2027?](/odds/anysphere-cursor-ipo-before-2027) — 3% YES
 - [Will Saudi Aramco be the second-largest company in the world by market cap on June 30?](/odds/will-saudi-aramco-be-the-second-largest-company-in-the-world-by-market-cap-on-ju) — 0% YES
-- [Will Gold (GC) hit (HIGH) $4,900 by end of June?](/odds/will-gold-gc-hit-high-4900-by-end-of-june) — 1% YES
+- [Anysphere (Cursor) IPO before 2027?](/odds/anysphere-cursor-ipo-before-2027) — 3% YES
+- [Kraken IPO closing market cap above $22B?](/odds/kraken-ipo-closing-market-cap-above-22b) — 22% YES
 
 ## Frequently Asked Questions
 
