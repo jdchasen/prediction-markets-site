@@ -1,15 +1,15 @@
 ---
 title: "Will Silver (SI) settle at $70-$80 in June?"
-description: "Will Silver (SI) settle at $70-$80 in June? Odds: 43.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Silver (SI) settle at $70-$80 in June? Odds: 41.6% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Silver (SI) settle at $70-$80 in June?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-06-16
+lastUpdated: 2026-06-17
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
-polymarketYes: 43.5
-polymarketNo: 56.5
-polymarketVolume: 98639
+polymarketYes: 41.6
+polymarketNo: 58.4
+polymarketVolume: 98811
 polymarketUrl: "https://polymarket.com/event/si-settle-70-80-jun-2026"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/si-settle-70-80-jun-2026"
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 43.5% | 56.5% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 41.6% | 58.4% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/si-settle-70-80-jun-2026"
 
 ### What are the current odds for "Will Silver (SI) settle at $70-$80 in June?"?
 
-As of June 16, 2026, Polymarket prices YES at 43.5%.
+As of June 17, 2026, Polymarket prices YES at 41.6%.
 
 ### Where can I trade on this prediction market?
 

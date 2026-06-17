@@ -3,8 +3,8 @@ title: "Will USA advance to the knockout stages at the 2026 FIFA World Cup?"
 description: "Will USA advance to the knockout stages at the 2026 FIFA World Cup? Odds: 97.6% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will USA advance to the knockout stages at the 2026 FIFA World Cup?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-06-16
+status: "settled"
+lastUpdated: 2026-06-17
 expiryDate: 2026-06-28
 tags: ["polymarket", "sports"]
 polymarketYes: 97.6

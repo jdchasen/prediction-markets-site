@@ -3,8 +3,8 @@ title: "Will England score the most goals at the 2026 FIFA World Cup?"
 description: "Will England score the most goals at the 2026 FIFA World Cup? Odds: 7.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will England score the most goals at the 2026 FIFA World Cup?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-06-16
+status: "settled"
+lastUpdated: 2026-06-17
 expiryDate: 2026-08-03
 tags: ["polymarket", "sports"]
 polymarketYes: 7.5

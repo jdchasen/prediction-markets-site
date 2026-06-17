@@ -3,8 +3,8 @@ title: "Will Sweden win Group F in the 2026 FIFA World Cup?"
 description: "Will Sweden win Group F in the 2026 FIFA World Cup? Odds: 28.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Sweden win Group F in the 2026 FIFA World Cup?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-06-16
+status: "settled"
+lastUpdated: 2026-06-17
 expiryDate: 2026-06-27
 tags: ["polymarket", "sports"]
 polymarketYes: 28.5

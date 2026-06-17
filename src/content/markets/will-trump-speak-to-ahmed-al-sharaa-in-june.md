@@ -3,8 +3,8 @@ title: "Will Trump speak to Ahmed al-Sharaa in June?"
 description: "Will Trump speak to Ahmed al-Sharaa in June? Odds: 28.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Trump speak to Ahmed al-Sharaa in June?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-06-16
+status: "settled"
+lastUpdated: 2026-06-17
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket", "trump"]
 polymarketYes: 28.0

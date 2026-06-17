@@ -3,8 +3,8 @@ title: "HSBC Championships: Adrian Mannarino vs Arthur Fery"
 description: "HSBC Championships: Adrian Mannarino vs Arthur Fery Odds: 53.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "HSBC Championships: Adrian Mannarino vs Arthur Fery"
 category: "politics"
-status: "active"
-lastUpdated: 2026-06-16
+status: "settled"
+lastUpdated: 2026-06-17
 expiryDate: 2026-06-24
 tags: ["politics", "polymarket"]
 polymarketYes: 53.5

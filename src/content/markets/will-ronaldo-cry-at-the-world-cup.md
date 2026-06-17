@@ -3,8 +3,8 @@ title: "Will Ronaldo Cry at the World Cup?"
 description: "Will Ronaldo Cry at the World Cup? Odds: 69.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Ronaldo Cry at the World Cup?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-06-16
+status: "settled"
+lastUpdated: 2026-06-17
 tags: ["polymarket", "sports"]
 polymarketYes: 69.0
 polymarketNo: 31.0

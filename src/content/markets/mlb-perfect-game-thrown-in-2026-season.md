@@ -1,13 +1,13 @@
 ---
 title: "MLB: Perfect Game thrown in 2026 season?"
-description: "MLB: Perfect Game thrown in 2026 season? Odds: 11.5% YES on Polymarket. See live prices and trade this market."
+description: "MLB: Perfect Game thrown in 2026 season? Odds: 12.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "MLB: Perfect Game thrown in 2026 season?"
 category: "sports"
 status: "active"
-lastUpdated: 2026-06-16
+lastUpdated: 2026-06-17
 tags: ["polymarket", "sports"]
-polymarketYes: 11.5
-polymarketNo: 88.5
+polymarketYes: 12.0
+polymarketNo: 88.0
 polymarketVolume: 9819
 polymarketUrl: "https://polymarket.com/event/mlb-perfect-game-thrown-in-2026-season"
 ---
@@ -16,19 +16,19 @@ polymarketUrl: "https://polymarket.com/event/mlb-perfect-game-thrown-in-2026-sea
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 11.5% | 88.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 12.0% | 88.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Sweden win Group F in the 2026 FIFA World Cup?](/odds/will-sweden-win-group-f-in-the-2026-fifa-world-cup) — 28% YES
+- [World Cup: Most Player Goals Record Broken?](/odds/world-cup-most-player-goals-record-broken) — 5% YES
 - [Will Baker Mayfield win the 2026 NFL MVP?](/odds/will-baker-mayfield-win-the-2026-nfl-mvp) — 1% YES
-- [Will USA advance to the knockout stages at the 2026 FIFA World Cup?](/odds/will-usa-advance-to-the-knockout-stages-at-the-2026-fifa-world-cup) — 98% YES
+- [Will Uruguay win Group H in the 2026 FIFA World Cup?](/odds/will-uruguay-win-group-h-in-the-2026-fifa-world-cup) — 22% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "MLB: Perfect Game thrown in 2026 season?"?
 
-As of June 16, 2026, Polymarket prices YES at 11.5%.
+As of June 17, 2026, Polymarket prices YES at 12.0%.
 
 ### Where can I trade on this prediction market?
 

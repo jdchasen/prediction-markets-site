@@ -4,11 +4,11 @@ description: "Will the Republicans win the Florida governor race in 2026? Odds: 
 marketQuestion: "Will the Republicans win the Florida governor race in 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-06-16
+lastUpdated: 2026-06-17
 tags: ["politics", "polymarket"]
 polymarketYes: 77.5
 polymarketNo: 22.5
-polymarketVolume: 9753
+polymarketVolume: 9942
 polymarketUrl: "https://polymarket.com/event/will-the-republicans-win-the-florida-governor-race-in-2026"
 ---
 
@@ -28,7 +28,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-republicans-win-the-florid
 
 ### What are the current odds for "Will the Republicans win the Florida governor race in 2026?"?
 
-As of June 16, 2026, Polymarket prices YES at 77.5%.
+As of June 17, 2026, Polymarket prices YES at 77.5%.
 
 ### Where can I trade on this prediction market?
 

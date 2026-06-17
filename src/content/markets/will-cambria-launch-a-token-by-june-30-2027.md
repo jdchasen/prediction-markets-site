@@ -4,7 +4,7 @@ description: "Will Cambria launch a token by June 30, 2027? Odds: 92.5% YES on P
 marketQuestion: "Will Cambria launch a token by June 30, 2027?"
 category: "crypto"
 status: "active"
-lastUpdated: 2026-06-16
+lastUpdated: 2026-06-17
 expiryDate: 2027-07-01
 tags: ["crypto", "polymarket"]
 polymarketYes: 92.5
@@ -21,15 +21,15 @@ polymarketUrl: "https://polymarket.com/event/will-cambria-launch-a-token-by-june
 
 ## Related Markets
 
-- [Predict.fun FDV above $300M one day after launch?](/odds/predictfun-fdv-above-300m-one-day-after-launch) — 71% YES
+- [Predict.fun FDV above $300M one day after launch?](/odds/predictfun-fdv-above-300m-one-day-after-launch) — 70% YES
+- [Will Bitcoin dip to $47,500 in June?](/odds/will-bitcoin-dip-to-47500-in-june) — 1% YES
 - [Extended FDV above $2B one day after launch?](/odds/extended-fdv-above-2b-one-day-after-launch) — 4% YES
-- [Will Reya launch a token by December 31, 2026?](/odds/will-reya-launch-a-token-by-december-31-2026) — 78% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Cambria launch a token by June 30, 2027?"?
 
-As of June 16, 2026, Polymarket prices YES at 92.5%.
+As of June 17, 2026, Polymarket prices YES at 92.5%.
 
 ### Where can I trade on this prediction market?
 

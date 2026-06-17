@@ -3,8 +3,8 @@ title: "Will Erling Haaland win the Golden Ball at the 2026 FIFA World Cup?"
 description: "Will Erling Haaland win the Golden Ball at the 2026 FIFA World Cup? Odds: 3.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Erling Haaland win the Golden Ball at the 2026 FIFA World Cup?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-06-16
+status: "settled"
+lastUpdated: 2026-06-17
 expiryDate: 2026-07-20
 tags: ["polymarket", "sports"]
 polymarketYes: 3.7

@@ -3,8 +3,8 @@ title: "Will Trump repeal Presidential term limits in 2026?"
 description: "Will Trump repeal Presidential term limits in 2026? Odds: 6.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Trump repeal Presidential term limits in 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-06-16
+status: "settled"
+lastUpdated: 2026-06-17
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket", "trump"]
 polymarketYes: 6.2

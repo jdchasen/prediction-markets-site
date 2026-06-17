@@ -3,8 +3,8 @@ title: "Will Flávio Bolsonaro finish in third place in the first round of the 2
 description: "Will Flávio Bolsonaro finish in third place in the first round of the 2026 Brazilian presidential election? Odds: 8.2% YES on Polymarket. See live prices and..."
 marketQuestion: "Will Flávio Bolsonaro finish in third place in the first round of the 2026 Brazilian presidential election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-06-16
+status: "settled"
+lastUpdated: 2026-06-17
 expiryDate: 2026-10-04
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 8.2

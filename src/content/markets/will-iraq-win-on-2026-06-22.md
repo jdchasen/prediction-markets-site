@@ -3,8 +3,8 @@ title: "Will Iraq win on 2026-06-22?"
 description: "Will Iraq win on 2026-06-22? Odds: 3.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Iraq win on 2026-06-22?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-06-16
+status: "settled"
+lastUpdated: 2026-06-17
 expiryDate: 2026-06-22
 tags: ["politics", "polymarket"]
 polymarketYes: 3.5

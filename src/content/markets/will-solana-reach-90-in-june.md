@@ -3,8 +3,8 @@ title: "Will Solana reach $90 in June?"
 description: "Will Solana reach $90 in June? Odds: 6.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Solana reach $90 in June?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-06-16
+status: "settled"
+lastUpdated: 2026-06-17
 expiryDate: 2026-07-01
 tags: ["politics", "polymarket"]
 polymarketYes: 6.8

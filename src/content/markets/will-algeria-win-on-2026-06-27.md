@@ -3,8 +3,8 @@ title: "Will Algeria win on 2026-06-27?"
 description: "Will Algeria win on 2026-06-27? Odds: 25.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Algeria win on 2026-06-27?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-06-16
+status: "settled"
+lastUpdated: 2026-06-17
 expiryDate: 2026-06-28
 tags: ["politics", "polymarket"]
 polymarketYes: 25.5

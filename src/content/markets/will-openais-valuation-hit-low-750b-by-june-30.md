@@ -1,14 +1,14 @@
 ---
 title: "Will OpenAI's valuation hit (LOW) $750B by June 30?"
-description: "Will OpenAI's valuation hit (LOW) $750B by June 30? Odds: 8.0% YES on Polymarket. See live prices and trade this market."
+description: "Will OpenAI's valuation hit (LOW) $750B by June 30? Odds: 7.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will OpenAI's valuation hit (LOW) $750B by June 30?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-06-16
+lastUpdated: 2026-06-17
 expiryDate: 2026-07-01
 tags: ["ai", "politics", "polymarket"]
-polymarketYes: 8.0
-polymarketNo: 92.0
+polymarketYes: 7.5
+polymarketNo: 92.5
 polymarketVolume: 9909
 polymarketUrl: "https://polymarket.com/event/will-openais-valuation-hit-low-750b-by-june-30"
 ---
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-openais-valuation-hit-low-750b
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 8.0% | 92.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 7.5% | 92.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-openais-valuation-hit-low-750b
 
 ### What are the current odds for "Will OpenAI's valuation hit (LOW) $750B by June 30?"?
 
-As of June 16, 2026, Polymarket prices YES at 8.0%.
+As of June 17, 2026, Polymarket prices YES at 7.5%.
 
 ### Where can I trade on this prediction market?
 

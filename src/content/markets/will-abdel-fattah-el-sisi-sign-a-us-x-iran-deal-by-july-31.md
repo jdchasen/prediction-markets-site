@@ -3,8 +3,8 @@ title: "Will Abdel Fattah el-Sisi sign a U.S. x Iran deal by July 31?"
 description: "Will Abdel Fattah el-Sisi sign a U.S. x Iran deal by July 31? Odds: 2.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Abdel Fattah el-Sisi sign a U.S. x Iran deal by July 31?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-06-16
+status: "settled"
+lastUpdated: 2026-06-17
 expiryDate: 2026-08-01
 tags: ["politics", "polymarket"]
 polymarketYes: 2.1

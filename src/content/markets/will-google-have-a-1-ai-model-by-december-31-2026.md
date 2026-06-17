@@ -1,15 +1,15 @@
 ---
 title: "Will Google have a #1 AI model by December 31, 2026?"
-description: "Will Google have a #1 AI model by December 31, 2026? Odds: 44.0% YES on Polymarket. See live prices and trade this market."
+description: "Will Google have a #1 AI model by December 31, 2026? Odds: 44.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Google have a #1 AI model by December 31, 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-06-16
+lastUpdated: 2026-06-17
 expiryDate: 2026-12-31
 tags: ["ai", "politics", "polymarket"]
-polymarketYes: 44.0
-polymarketNo: 56.0
-polymarketVolume: 9906
+polymarketYes: 44.5
+polymarketNo: 55.5
+polymarketVolume: 9961
 polymarketUrl: "https://polymarket.com/event/will-google-have-a-1-ai-model-by-december-31-2026"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-google-have-a-1-ai-model-by-de
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 44.0% | 56.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 44.5% | 55.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-google-have-a-1-ai-model-by-de
 
 ### What are the current odds for "Will Google have a #1 AI model by December 31, 2026?"?
 
-As of June 16, 2026, Polymarket prices YES at 44.0%.
+As of June 17, 2026, Polymarket prices YES at 44.5%.
 
 ### Where can I trade on this prediction market?
 
