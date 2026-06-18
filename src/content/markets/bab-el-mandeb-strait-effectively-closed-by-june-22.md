@@ -1,17 +1,16 @@
 ---
 title: "Bab el-Mandeb Strait effectively closed by June 22?"
-description: "Bab el-Mandeb Strait effectively closed by June 22? Odds: 5.0% YES on Polymarket. See live prices and trade this market."
+description: "Bab el-Mandeb Strait effectively closed by June 22? Odds: 0.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Bab el-Mandeb Strait effectively closed by June 22?"
 category: "politics"
-status: "settled"
-lastUpdated: 2026-06-10
+status: "active"
+lastUpdated: 2026-06-18
 expiryDate: 2026-06-22
 tags: ["ai", "politics", "polymarket"]
-polymarketYes: 5.0
-polymarketNo: 95.0
-polymarketVolume: 9730
+polymarketYes: 0.5
+polymarketNo: 99.5
+polymarketVolume: 98802
 polymarketUrl: "https://polymarket.com/event/bab-el-mandeb-strait-effectively-closed-by-june-22-183"
-analysisDate: 2026-06-10
 ---
 
 # Bab el-Mandeb Strait Market Analysis

@@ -3,7 +3,7 @@ title: "Will Victor Marx win the 2026 Colorado Governor Republican primary elect
 description: "Will Victor Marx win the 2026 Colorado Governor Republican primary election? Odds: 49.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Victor Marx win the 2026 Colorado Governor Republican primary election?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-18
 expiryDate: 2026-06-30
 tags: ["elections", "politics", "polymarket"]

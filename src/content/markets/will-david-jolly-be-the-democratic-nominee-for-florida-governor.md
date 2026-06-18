@@ -1,23 +1,23 @@
 ---
-title: "Will Lovable be acquired before 2027?"
-description: "Will Lovable be acquired before 2027? Odds: 22.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Lovable be acquired before 2027?"
+title: "Will David Jolly be the Democratic nominee for Florida Governor?"
+description: "Will David Jolly be the Democratic nominee for Florida Governor? Odds: 88.0% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will David Jolly be the Democratic nominee for Florida Governor?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-06-18
-expiryDate: 2026-12-31
+expiryDate: 2026-08-18
 tags: ["politics", "polymarket"]
-polymarketYes: 22.5
-polymarketNo: 77.5
-polymarketVolume: 972412
-polymarketUrl: "https://polymarket.com/event/will-lovable-be-acquired-before-2027-423-881"
+polymarketYes: 88.0
+polymarketNo: 11.9
+polymarketVolume: 9969
+polymarketUrl: "https://polymarket.com/event/will-david-jolly-be-the-democratic-nominee-for-florida-governor"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 22.5% | 77.5% | $972K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 88.0% | 11.9% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-lovable-be-acquired-before-202
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Lovable be acquired before 2027?"?
+### What are the current odds for "Will David Jolly be the Democratic nominee for Florida Governor?"?
 
-As of June 18, 2026, Polymarket prices YES at 22.5%.
+As of June 18, 2026, Polymarket prices YES at 88.0%.
 
 ### Where can I trade on this prediction market?
 
@@ -37,6 +37,6 @@ You can trade this market on [Polymarket](https://polymarket.us/1762?utm_source=
 
 ## Learn More
 
+- [2028 Democratic Nominee Odds: Market Analysis](/blog/2028-democratic-nominee-odds-market-analysis)
 - [Will Oil Hit $100? March Crude Prediction Market Odds](/blog/will-oil-hit-100-march-crude-prediction-market-odds)
-- [Will MicroStrategy Sell Bitcoin? Market Odds](/blog/will-microstrategy-sell-bitcoin-market-odds)
 

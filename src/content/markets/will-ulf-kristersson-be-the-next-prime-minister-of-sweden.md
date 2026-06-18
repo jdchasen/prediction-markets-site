@@ -1,15 +1,15 @@
 ---
 title: "Will Ulf Kristersson be the next Prime Minister of Sweden?"
-description: "Will Ulf Kristersson be the next Prime Minister of Sweden? Odds: 17.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Ulf Kristersson be the next Prime Minister of Sweden? Odds: 22.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Ulf Kristersson be the next Prime Minister of Sweden?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-06-18
 expiryDate: 2026-09-13
 tags: ["politics", "polymarket"]
-polymarketYes: 17.5
-polymarketNo: 82.5
-polymarketVolume: 97495
+polymarketYes: 22.0
+polymarketNo: 78.0
+polymarketVolume: 99581
 polymarketUrl: "https://polymarket.com/event/will-ulf-kristersson-be-the-next-prime-minister-of-sweden"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-ulf-kristersson-be-the-next-pr
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 17.5% | 82.5% | $97K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 22.0% | 78.0% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-ulf-kristersson-be-the-next-pr
 
 ### What are the current odds for "Will Ulf Kristersson be the next Prime Minister of Sweden?"?
 
-As of June 18, 2026, Polymarket prices YES at 17.5%.
+As of June 18, 2026, Polymarket prices YES at 22.0%.
 
 ### Where can I trade on this prediction market?
 

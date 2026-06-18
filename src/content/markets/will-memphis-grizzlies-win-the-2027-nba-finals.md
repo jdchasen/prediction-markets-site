@@ -8,7 +8,7 @@ lastUpdated: 2026-06-18
 expiryDate: 2027-07-01
 tags: ["polymarket", "sports"]
 polymarketYes: 0.9
-polymarketNo: 99.2
+polymarketNo: 99.1
 polymarketVolume: 97434
 polymarketUrl: "https://polymarket.com/event/will-memphis-grizzlies-win-the-2027-nba-finals"
 ---
@@ -17,13 +17,13 @@ polymarketUrl: "https://polymarket.com/event/will-memphis-grizzlies-win-the-2027
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.9% | 99.2% | $97K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.9% | 99.1% | $97K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Ivory Coast win Group E in the 2026 FIFA World Cup?](/odds/will-ivory-coast-win-group-e-in-the-2026-fifa-world-cup) — 22% YES
-- [Will Croatia win Group L in the 2026 FIFA World Cup?](/odds/will-croatia-win-group-l-in-the-2026-fifa-world-cup) — 3% YES
+- [Will Federico Valverde be the top goalscorer at the 2026 FIFA World Cup?](/odds/will-federico-valverde-be-the-top-goalscorer-at-the-2026-fifa-world-cup) — 0% YES
 - [Will Baker Mayfield win the 2026 NFL MVP?](/odds/will-baker-mayfield-win-the-2026-nfl-mvp) — 1% YES
+- [Will Kansas City Chiefs win the 2027 NFL AFC Championship?](/odds/will-kansas-city-chiefs-win-the-2027-nfl-afc-championship) — 10% YES
 
 ## Frequently Asked Questions
 

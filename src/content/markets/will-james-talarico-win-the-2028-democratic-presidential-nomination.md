@@ -1,15 +1,15 @@
 ---
 title: "Will James Talarico win the 2028 Democratic presidential nomination?"
-description: "Will James Talarico win the 2028 Democratic presidential nomination? Odds: 1.8% YES on Polymarket. See live prices and trade this market."
+description: "Will James Talarico win the 2028 Democratic presidential nomination? Odds: 1.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will James Talarico win the 2028 Democratic presidential nomination?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-06-18
 expiryDate: 2028-11-07
 tags: ["politics", "polymarket"]
-polymarketYes: 1.8
-polymarketNo: 98.2
-polymarketVolume: 9766856
+polymarketYes: 1.7
+polymarketNo: 98.4
+polymarketVolume: 9773344
 polymarketUrl: "https://polymarket.com/event/will-james-talarico-win-the-2028-democratic-presidential-nomination"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-james-talarico-win-the-2028-de
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 1.8% | 98.2% | $9.8M | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 1.7% | 98.4% | $9.8M | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Nikki Haley win the 2028 Republican presidential nomination?](/odds/will-nikki-haley-win-the-2028-republican-presidential-nomination) — 1% YES
 - [Will Alibaba have the best AI model at the end of June 2026?](/odds/will-alibaba-have-the-best-ai-model-at-the-end-of-june-2026) — 0% YES
-- [Will the Green Party (MP) win the most seats in the 2026 Swedish parliamentary election?](/odds/will-the-green-party-mp-win-the-most-seats-in-the-2026-swedish-parliamentary-ele) — 1% YES
+- [Will Lovable be acquired before 2027?](/odds/will-lovable-be-acquired-before-2027) — 22% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will James Talarico win the 2028 Democratic presidential nomination?"?
 
-As of June 18, 2026, Polymarket prices YES at 1.8%.
+As of June 18, 2026, Polymarket prices YES at 1.7%.
 
 ### Where can I trade on this prediction market?
 

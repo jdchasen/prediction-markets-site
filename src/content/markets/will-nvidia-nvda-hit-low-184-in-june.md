@@ -3,7 +3,7 @@ title: "Will NVIDIA (NVDA) hit (LOW) $184 in June?"
 description: "Will NVIDIA (NVDA) hit (LOW) $184 in June? Odds: 9.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will NVIDIA (NVDA) hit (LOW) $184 in June?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-18
 expiryDate: 2026-07-01
 tags: ["politics", "polymarket"]

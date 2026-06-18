@@ -3,7 +3,7 @@ title: "Will Ivory Coast win Group E in the 2026 FIFA World Cup?"
 description: "Will Ivory Coast win Group E in the 2026 FIFA World Cup? Odds: 21.6% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Ivory Coast win Group E in the 2026 FIFA World Cup?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-18
 expiryDate: 2026-06-27
 tags: ["polymarket", "sports"]

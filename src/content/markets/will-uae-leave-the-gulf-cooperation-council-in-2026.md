@@ -9,7 +9,7 @@ expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 9.5
 polymarketNo: 90.5
-polymarketVolume: 98459
+polymarketVolume: 98477
 polymarketUrl: "https://polymarket.com/event/will-uae-leave-the-gulf-cooperation-council-in-2026"
 ---
 

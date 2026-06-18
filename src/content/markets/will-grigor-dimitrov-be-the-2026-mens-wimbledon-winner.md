@@ -9,7 +9,7 @@ expiryDate: 2026-07-12
 tags: ["politics", "polymarket"]
 polymarketYes: 0.4
 polymarketNo: 99.7
-polymarketVolume: 98913
+polymarketVolume: 98962
 polymarketUrl: "https://polymarket.com/event/will-grigor-dimitrov-be-the-2026-mens-wimbledon-winner"
 ---
 

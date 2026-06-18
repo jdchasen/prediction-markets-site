@@ -1,23 +1,23 @@
 ---
-title: "Will Google have a #1 AI model by December 31, 2026?"
-description: "Will Google have a #1 AI model by December 31, 2026? Odds: 44.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Google have a #1 AI model by December 31, 2026?"
+title: "Will Paula Badosa be the 2026 Women’s Wimbledon Winner?"
+description: "Will Paula Badosa be the 2026 Women’s Wimbledon Winner? Odds: 0.4% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Paula Badosa be the 2026 Women’s Wimbledon Winner?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-06-18
-expiryDate: 2026-12-31
-tags: ["ai", "politics", "polymarket"]
-polymarketYes: 44.5
-polymarketNo: 55.5
-polymarketVolume: 9979
-polymarketUrl: "https://polymarket.com/event/will-google-have-a-1-ai-model-by-december-31-2026"
+expiryDate: 2026-07-12
+tags: ["politics", "polymarket"]
+polymarketYes: 0.4
+polymarketNo: 99.6
+polymarketVolume: 98673
+polymarketUrl: "https://polymarket.com/event/will-paula-badosa-be-the-2026-womens-wimbledon-winner"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 44.5% | 55.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.4% | 99.6% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-google-have-a-1-ai-model-by-de
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Google have a #1 AI model by December 31, 2026?"?
+### What are the current odds for "Will Paula Badosa be the 2026 Women’s Wimbledon Winner?"?
 
-As of June 18, 2026, Polymarket prices YES at 44.5%.
+As of June 18, 2026, Polymarket prices YES at 0.4%.
 
 ### Where can I trade on this prediction market?
 

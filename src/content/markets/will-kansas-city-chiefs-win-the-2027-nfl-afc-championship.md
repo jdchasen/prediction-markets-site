@@ -21,9 +21,9 @@ polymarketUrl: "https://polymarket.com/event/will-kansas-city-chiefs-win-the-202
 
 ## Related Markets
 
-- [Will Ivory Coast win Group E in the 2026 FIFA World Cup?](/odds/will-ivory-coast-win-group-e-in-the-2026-fifa-world-cup) — 22% YES
-- [Will Croatia win Group L in the 2026 FIFA World Cup?](/odds/will-croatia-win-group-l-in-the-2026-fifa-world-cup) — 3% YES
+- [Will Federico Valverde be the top goalscorer at the 2026 FIFA World Cup?](/odds/will-federico-valverde-be-the-top-goalscorer-at-the-2026-fifa-world-cup) — 0% YES
 - [Will Baker Mayfield win the 2026 NFL MVP?](/odds/will-baker-mayfield-win-the-2026-nfl-mvp) — 1% YES
+- [Will Angela Dugalic win the 2026 WNBA Rookie of the Year award?](/odds/will-angela-dugalic-win-the-2026-wnba-rookie-of-the-year-award) — 1% YES
 
 ## Frequently Asked Questions
 

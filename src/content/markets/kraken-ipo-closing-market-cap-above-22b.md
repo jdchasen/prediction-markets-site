@@ -23,6 +23,7 @@ polymarketUrl: "https://polymarket.com/event/kraken-ipo-closing-market-cap-above
 
 - [Anysphere (Cursor) IPO before 2027?](/odds/anysphere-cursor-ipo-before-2027) — 2% YES
 - [Will SHEIN have the highest IPO Market Cap 2026?](/odds/will-shein-have-the-highest-ipo-market-cap-2026) — 0% YES
+- [Will SpaceX's market cap be between $2.5T and $3.0T at market close on last trading day of IPO month?](/odds/will-spacexs-market-cap-be-between-25t-and-30t-at-market-close-on-last-trading-d) — 20% YES
 
 ## Frequently Asked Questions
 

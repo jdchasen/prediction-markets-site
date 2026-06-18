@@ -3,7 +3,7 @@ title: "Will Belgium vs. IR Iran end in a draw?"
 description: "Will Belgium vs. IR Iran end in a draw? Odds: 20.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Belgium vs. IR Iran end in a draw?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-18
 expiryDate: 2026-06-21
 tags: ["politics", "polymarket"]

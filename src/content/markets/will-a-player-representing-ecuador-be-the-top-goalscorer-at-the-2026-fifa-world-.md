@@ -1,23 +1,23 @@
 ---
-title: "Will 7+ matches be decided by penalty shootout during the 2026 FIFA World Cup?"
-description: "Will 7+ matches be decided by penalty shootout during the 2026 FIFA World Cup? Odds: 33.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will 7+ matches be decided by penalty shootout during the 2026 FIFA World Cup?"
+title: "Will a player representing Ecuador be the top goalscorer at the 2026 FIFA World Cup?"
+description: "Will a player representing Ecuador be the top goalscorer at the 2026 FIFA World Cup? Odds: 0.2% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will a player representing Ecuador be the top goalscorer at the 2026 FIFA World Cup?"
 category: "sports"
 status: "active"
 lastUpdated: 2026-06-18
-expiryDate: 2026-07-20
+expiryDate: 2026-08-20
 tags: ["polymarket", "sports"]
-polymarketYes: 33.5
-polymarketNo: 66.5
-polymarketVolume: 9896
-polymarketUrl: "https://polymarket.com/event/will-7-matches-be-decided-by-penalty-shootout-during-the-2026-fifa-world-cup-20260610210228792"
+polymarketYes: 0.2
+polymarketNo: 99.8
+polymarketVolume: 9763
+polymarketUrl: "https://polymarket.com/event/will-a-player-representing-ecuador-be-the-top-goalscorer-at-the-2026-fifa-world-cup"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 33.5% | 66.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.2% | 99.8% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-7-matches-be-decided-by-penalt
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will 7+ matches be decided by penalty shootout during the 2026 FIFA World Cup?"?
+### What are the current odds for "Will a player representing Ecuador be the top goalscorer at the 2026 FIFA World Cup?"?
 
-As of June 18, 2026, Polymarket prices YES at 33.5%.
+As of June 18, 2026, Polymarket prices YES at 0.2%.
 
 ### Where can I trade on this prediction market?
 

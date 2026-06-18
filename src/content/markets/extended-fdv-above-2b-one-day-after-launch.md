@@ -9,7 +9,7 @@ expiryDate: 2027-01-01
 tags: ["crypto", "polymarket"]
 polymarketYes: 4.2
 polymarketNo: 95.9
-polymarketVolume: 97871
+polymarketVolume: 97877
 polymarketUrl: "https://polymarket.com/event/extended-fdv-above-2b-one-day-after-launch-692-597-187"
 ---
 
@@ -21,8 +21,8 @@ polymarketUrl: "https://polymarket.com/event/extended-fdv-above-2b-one-day-after
 
 ## Related Markets
 
-- [Predict.fun FDV above $300M one day after launch?](/odds/predictfun-fdv-above-300m-one-day-after-launch) — 70% YES
-- [Will Bitcoin dip to $52,500 in June?](/odds/will-bitcoin-dip-to-52500-in-june) — 5% YES
+- [Predict.fun FDV above $300M one day after launch?](/odds/predictfun-fdv-above-300m-one-day-after-launch) — 68% YES
+- [Will Ethereum dip to $800 by December 31, 2026?](/odds/will-ethereum-dip-to-800-by-december-31-2026) — 17% YES
 - [Will MetaMask launch a token by September 30, 2026?](/odds/will-metamask-launch-a-token-by-september-30-2026) — 6% YES
 
 ## Frequently Asked Questions

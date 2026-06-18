@@ -9,7 +9,7 @@ expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 0.2
 polymarketNo: 99.8
-polymarketVolume: 98955
+polymarketVolume: 99128
 polymarketUrl: "https://polymarket.com/event/will-mustafa-hijri-be-head-of-state-in-iran-end-of-2026"
 ---
 

@@ -3,7 +3,7 @@ title: "Will USD be between 1.5M and 1.6M Iranian rials on June 30?"
 description: "Will USD be between 1.5M and 1.6M Iranian rials on June 30? Odds: 52.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will USD be between 1.5M and 1.6M Iranian rials on June 30?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-18
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]

@@ -1,15 +1,15 @@
 ---
 title: "Will a team from LPL (China) win MSI 2026?"
-description: "Will a team from LPL (China) win MSI 2026? Odds: 32.5% YES on Polymarket. See live prices and trade this market."
+description: "Will a team from LPL (China) win MSI 2026? Odds: 31.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will a team from LPL (China) win MSI 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-06-18
 expiryDate: 2026-07-12
 tags: ["politics", "polymarket"]
-polymarketYes: 32.5
-polymarketNo: 67.5
-polymarketVolume: 99610
+polymarketYes: 31.5
+polymarketNo: 68.5
+polymarketVolume: 99760
 polymarketUrl: "https://polymarket.com/event/will-a-team-from-lpl-china-win-msi-2026"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-a-team-from-lpl-china-win-msi-
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 32.5% | 67.5% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 31.5% | 68.5% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-a-team-from-lpl-china-win-msi-
 
 ### What are the current odds for "Will a team from LPL (China) win MSI 2026?"?
 
-As of June 18, 2026, Polymarket prices YES at 32.5%.
+As of June 18, 2026, Polymarket prices YES at 31.5%.
 
 ### Where can I trade on this prediction market?
 

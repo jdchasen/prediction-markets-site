@@ -1,23 +1,23 @@
 ---
-title: "Will Lovable be acquired before 2027?"
-description: "Will Lovable be acquired before 2027? Odds: 22.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Lovable be acquired before 2027?"
+title: "Will Amazon.com, Inc. (AMZN) hit (LOW) $232 in June?"
+description: "Will Amazon.com, Inc. (AMZN) hit (LOW) $232 in June? Odds: 39.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Amazon.com, Inc. (AMZN) hit (LOW) $232 in June?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-06-18
-expiryDate: 2026-12-31
+expiryDate: 2026-07-01
 tags: ["politics", "polymarket"]
-polymarketYes: 22.5
-polymarketNo: 77.5
-polymarketVolume: 972412
-polymarketUrl: "https://polymarket.com/event/will-lovable-be-acquired-before-2027-423-881"
+polymarketYes: 39.5
+polymarketNo: 60.5
+polymarketVolume: 9722
+polymarketUrl: "https://polymarket.com/event/will-amzn-dip-to-232-in-june-2026"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 22.5% | 77.5% | $972K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 39.5% | 60.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-lovable-be-acquired-before-202
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Lovable be acquired before 2027?"?
+### What are the current odds for "Will Amazon.com, Inc. (AMZN) hit (LOW) $232 in June?"?
 
-As of June 18, 2026, Polymarket prices YES at 22.5%.
+As of June 18, 2026, Polymarket prices YES at 39.5%.
 
 ### Where can I trade on this prediction market?
 

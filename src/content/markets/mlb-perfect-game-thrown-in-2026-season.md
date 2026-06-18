@@ -20,9 +20,9 @@ polymarketUrl: "https://polymarket.com/event/mlb-perfect-game-thrown-in-2026-sea
 
 ## Related Markets
 
-- [Will Ivory Coast win Group E in the 2026 FIFA World Cup?](/odds/will-ivory-coast-win-group-e-in-the-2026-fifa-world-cup) — 22% YES
-- [Will Croatia win Group L in the 2026 FIFA World Cup?](/odds/will-croatia-win-group-l-in-the-2026-fifa-world-cup) — 3% YES
+- [Will Federico Valverde be the top goalscorer at the 2026 FIFA World Cup?](/odds/will-federico-valverde-be-the-top-goalscorer-at-the-2026-fifa-world-cup) — 0% YES
 - [Will Baker Mayfield win the 2026 NFL MVP?](/odds/will-baker-mayfield-win-the-2026-nfl-mvp) — 1% YES
+- [Will Kansas City Chiefs win the 2027 NFL AFC Championship?](/odds/will-kansas-city-chiefs-win-the-2027-nfl-afc-championship) — 10% YES
 
 ## Frequently Asked Questions
 

@@ -9,7 +9,7 @@ expiryDate: 2026-12-31
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 32.5
 polymarketNo: 67.5
-polymarketVolume: 98536
+polymarketVolume: 98753
 polymarketUrl: "https://polymarket.com/event/russia-x-ukraine-ceasefire-by-december-31-2026"
 ---
 

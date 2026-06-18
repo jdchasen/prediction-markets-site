@@ -1,35 +1,35 @@
 ---
-title: "Will MetaMask launch a token by September 30, 2026?"
-description: "Will MetaMask launch a token by September 30, 2026? Odds: 5.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will MetaMask launch a token by September 30, 2026?"
+title: "Will Hurupay launch a token by June 30, 2027?"
+description: "Will Hurupay launch a token by June 30, 2027? Odds: 49.0% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Hurupay launch a token by June 30, 2027?"
 category: "crypto"
 status: "active"
 lastUpdated: 2026-06-18
-expiryDate: 2026-10-01
+expiryDate: 2027-07-01
 tags: ["crypto", "polymarket"]
-polymarketYes: 5.5
-polymarketNo: 94.5
-polymarketVolume: 973131
-polymarketUrl: "https://polymarket.com/event/will-metamask-launch-a-token-by-september-30-2026"
+polymarketYes: 49.0
+polymarketNo: 51.0
+polymarketVolume: 9790
+polymarketUrl: "https://polymarket.com/event/will-hurupay-launch-a-token-by-june-30-2027"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 5.5% | 94.5% | $973K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 49.0% | 51.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Predict.fun FDV above $300M one day after launch?](/odds/predictfun-fdv-above-300m-one-day-after-launch) — 68% YES
 - [Will Ethereum dip to $800 by December 31, 2026?](/odds/will-ethereum-dip-to-800-by-december-31-2026) — 17% YES
-- [Extended FDV above $2B one day after launch?](/odds/extended-fdv-above-2b-one-day-after-launch) — 4% YES
+- [Will MetaMask launch a token by September 30, 2026?](/odds/will-metamask-launch-a-token-by-september-30-2026) — 6% YES
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will MetaMask launch a token by September 30, 2026?"?
+### What are the current odds for "Will Hurupay launch a token by June 30, 2027?"?
 
-As of June 18, 2026, Polymarket prices YES at 5.5%.
+As of June 18, 2026, Polymarket prices YES at 49.0%.
 
 ### Where can I trade on this prediction market?
 

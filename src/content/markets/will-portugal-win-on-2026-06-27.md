@@ -1,23 +1,23 @@
 ---
-title: "Will Google have a #1 AI model by December 31, 2026?"
-description: "Will Google have a #1 AI model by December 31, 2026? Odds: 44.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Google have a #1 AI model by December 31, 2026?"
+title: "Will Portugal win on 2026-06-27?"
+description: "Will Portugal win on 2026-06-27? Odds: 45.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Portugal win on 2026-06-27?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-06-18
-expiryDate: 2026-12-31
-tags: ["ai", "politics", "polymarket"]
-polymarketYes: 44.5
-polymarketNo: 55.5
-polymarketVolume: 9979
-polymarketUrl: "https://polymarket.com/event/will-google-have-a-1-ai-model-by-december-31-2026"
+expiryDate: 2026-06-27
+tags: ["politics", "polymarket"]
+polymarketYes: 45.5
+polymarketNo: 54.5
+polymarketVolume: 98049
+polymarketUrl: "https://polymarket.com/event/fifwc-col-prt-2026-06-27-prt"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 44.5% | 55.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 45.5% | 54.5% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-google-have-a-1-ai-model-by-de
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Google have a #1 AI model by December 31, 2026?"?
+### What are the current odds for "Will Portugal win on 2026-06-27?"?
 
-As of June 18, 2026, Polymarket prices YES at 44.5%.
+As of June 18, 2026, Polymarket prices YES at 45.5%.
 
 ### Where can I trade on this prediction market?
 

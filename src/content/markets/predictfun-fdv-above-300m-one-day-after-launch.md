@@ -1,15 +1,15 @@
 ---
 title: "Predict.fun FDV above $300M one day after launch?"
-description: "Predict.fun FDV above $300M one day after launch? Odds: 70.5% YES on Polymarket. See live prices and trade this market."
+description: "Predict.fun FDV above $300M one day after launch? Odds: 68.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Predict.fun FDV above $300M one day after launch?"
 category: "crypto"
 status: "active"
 lastUpdated: 2026-06-18
 expiryDate: 2028-01-01
 tags: ["crypto", "polymarket"]
-polymarketYes: 70.5
-polymarketNo: 29.5
-polymarketVolume: 994036
+polymarketYes: 68.5
+polymarketNo: 31.5
+polymarketVolume: 994038
 polymarketUrl: "https://polymarket.com/event/predictfun-fdv-above-300m-one-day-after-launch"
 ---
 
@@ -17,11 +17,11 @@ polymarketUrl: "https://polymarket.com/event/predictfun-fdv-above-300m-one-day-a
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 70.5% | 29.5% | $994K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 68.5% | 31.5% | $994K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Bitcoin dip to $52,500 in June?](/odds/will-bitcoin-dip-to-52500-in-june) — 5% YES
+- [Will Ethereum dip to $800 by December 31, 2026?](/odds/will-ethereum-dip-to-800-by-december-31-2026) — 17% YES
 - [Will MetaMask launch a token by September 30, 2026?](/odds/will-metamask-launch-a-token-by-september-30-2026) — 6% YES
 - [Extended FDV above $2B one day after launch?](/odds/extended-fdv-above-2b-one-day-after-launch) — 4% YES
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/predictfun-fdv-above-300m-one-day-a
 
 ### What are the current odds for "Predict.fun FDV above $300M one day after launch?"?
 
-As of June 18, 2026, Polymarket prices YES at 70.5%.
+As of June 18, 2026, Polymarket prices YES at 68.5%.
 
 ### Where can I trade on this prediction market?
 

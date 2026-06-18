@@ -3,7 +3,7 @@ title: "France vs. Iraq: O/U 2.5"
 description: "France vs. Iraq: O/U 2.5 Odds: 70.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "France vs. Iraq: O/U 2.5"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-18
 expiryDate: 2026-06-22
 tags: ["politics", "polymarket"]

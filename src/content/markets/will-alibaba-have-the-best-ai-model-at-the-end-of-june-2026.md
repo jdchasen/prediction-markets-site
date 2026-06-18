@@ -23,7 +23,7 @@ polymarketUrl: "https://polymarket.com/event/will-alibaba-have-the-best-ai-model
 
 - [Will Nikki Haley win the 2028 Republican presidential nomination?](/odds/will-nikki-haley-win-the-2028-republican-presidential-nomination) — 1% YES
 - [Will James Talarico win the 2028 Democratic presidential nomination?](/odds/will-james-talarico-win-the-2028-democratic-presidential-nomination) — 2% YES
-- [Will the Green Party (MP) win the most seats in the 2026 Swedish parliamentary election?](/odds/will-the-green-party-mp-win-the-most-seats-in-the-2026-swedish-parliamentary-ele) — 1% YES
+- [Will Lovable be acquired before 2027?](/odds/will-lovable-be-acquired-before-2027) — 22% YES
 
 ## Frequently Asked Questions
 
