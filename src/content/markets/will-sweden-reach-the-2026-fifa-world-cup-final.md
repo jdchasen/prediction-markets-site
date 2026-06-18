@@ -3,8 +3,8 @@ title: "Will Sweden reach the 2026 FIFA World Cup final?"
 description: "Will Sweden reach the 2026 FIFA World Cup final? Odds: 2.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Sweden reach the 2026 FIFA World Cup final?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-06-17
+status: "settled"
+lastUpdated: 2026-06-18
 expiryDate: 2026-07-20
 tags: ["polymarket", "sports"]
 polymarketYes: 2.9

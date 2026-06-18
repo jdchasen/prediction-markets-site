@@ -3,8 +3,8 @@ title: "Will Matthieu Pigasse be on the ballot for the 2027 French presidential 
 description: "Will Matthieu Pigasse be on the ballot for the 2027 French presidential election? Odds: 11.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Matthieu Pigasse be on the ballot for the 2027 French presidential election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-06-17
+status: "settled"
+lastUpdated: 2026-06-18
 expiryDate: 2027-04-17
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 11.5

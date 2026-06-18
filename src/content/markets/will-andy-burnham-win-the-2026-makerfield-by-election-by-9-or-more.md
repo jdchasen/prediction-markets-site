@@ -3,8 +3,8 @@ title: "Will Andy Burnham win the 2026 Makerfield by-election by 9% or more?"
 description: "Will Andy Burnham win the 2026 Makerfield by-election by 9% or more? Odds: 51.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Andy Burnham win the 2026 Makerfield by-election by 9% or more?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-06-17
+status: "settled"
+lastUpdated: 2026-06-18
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 51.5
 polymarketNo: 48.5

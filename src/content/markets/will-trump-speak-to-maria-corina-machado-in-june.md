@@ -3,8 +3,8 @@ title: "Will Trump speak to Maria Corina Machado in June?"
 description: "Will Trump speak to Maria Corina Machado in June? Odds: 12.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Trump speak to Maria Corina Machado in June?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-06-17
+status: "settled"
+lastUpdated: 2026-06-18
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket", "trump"]
 polymarketYes: 12.0

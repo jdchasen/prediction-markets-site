@@ -3,8 +3,8 @@ title: "Portugal vs. Uzbekistan: O/U 2.5"
 description: "Portugal vs. Uzbekistan: O/U 2.5 Odds: 60.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Portugal vs. Uzbekistan: O/U 2.5"
 category: "politics"
-status: "active"
-lastUpdated: 2026-06-17
+status: "settled"
+lastUpdated: 2026-06-18
 expiryDate: 2026-06-23
 tags: ["politics", "polymarket"]
 polymarketYes: 60.5

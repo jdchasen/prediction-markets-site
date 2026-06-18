@@ -3,8 +3,8 @@ title: "Will Silver (SI) settle at $70-$80 in June?"
 description: "Will Silver (SI) settle at $70-$80 in June? Odds: 30.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Silver (SI) settle at $70-$80 in June?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-06-17
+status: "settled"
+lastUpdated: 2026-06-18
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
 polymarketYes: 30.0

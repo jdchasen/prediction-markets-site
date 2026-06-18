@@ -3,8 +3,8 @@ title: "Will Yair Golan be the next Prime Minister of Israel?"
 description: "Will Yair Golan be the next Prime Minister of Israel? Odds: 0.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Yair Golan be the next Prime Minister of Israel?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-06-17
+status: "settled"
+lastUpdated: 2026-06-18
 expiryDate: 2026-12-31
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 0.4

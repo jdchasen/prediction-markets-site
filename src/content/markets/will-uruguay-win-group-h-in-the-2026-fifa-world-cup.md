@@ -3,8 +3,8 @@ title: "Will Uruguay win Group H in the 2026 FIFA World Cup?"
 description: "Will Uruguay win Group H in the 2026 FIFA World Cup? Odds: 20.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Uruguay win Group H in the 2026 FIFA World Cup?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-06-17
+status: "settled"
+lastUpdated: 2026-06-18
 expiryDate: 2026-06-27
 tags: ["polymarket", "sports"]
 polymarketYes: 20.5

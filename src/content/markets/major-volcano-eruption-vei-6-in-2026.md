@@ -3,8 +3,8 @@ title: "Major volcano eruption (VEI ≥6) in 2026?"
 description: "Major volcano eruption (VEI ≥6) in 2026? Odds: 8.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Major volcano eruption (VEI ≥6) in 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-06-17
+status: "settled"
+lastUpdated: 2026-06-18
 expiryDate: 2027-03-31
 tags: ["politics", "polymarket"]
 polymarketYes: 8.5

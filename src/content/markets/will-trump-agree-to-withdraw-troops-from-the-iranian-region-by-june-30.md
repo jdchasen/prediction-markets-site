@@ -3,8 +3,8 @@ title: "Will Trump agree to withdraw troops from the Iranian region by June 30?"
 description: "Will Trump agree to withdraw troops from the Iranian region by June 30? Odds: 66.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Trump agree to withdraw troops from the Iranian region by June 30?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-06-17
+status: "settled"
+lastUpdated: 2026-06-18
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket", "trump"]
 polymarketYes: 66.0

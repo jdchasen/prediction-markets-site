@@ -3,8 +3,8 @@ title: "Will Mike Lindell win the 2026 Minnesota Governor Republican primary ele
 description: "Will Mike Lindell win the 2026 Minnesota Governor Republican primary election? Odds: 16.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Mike Lindell win the 2026 Minnesota Governor Republican primary election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-06-17
+status: "settled"
+lastUpdated: 2026-06-18
 expiryDate: 2026-08-11
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 16.5

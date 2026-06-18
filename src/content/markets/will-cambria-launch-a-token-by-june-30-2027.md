@@ -3,8 +3,8 @@ title: "Will Cambria launch a token by June 30, 2027?"
 description: "Will Cambria launch a token by June 30, 2027? Odds: 93.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Cambria launch a token by June 30, 2027?"
 category: "crypto"
-status: "active"
-lastUpdated: 2026-06-17
+status: "settled"
+lastUpdated: 2026-06-18
 expiryDate: 2027-07-01
 tags: ["crypto", "polymarket"]
 polymarketYes: 93.5

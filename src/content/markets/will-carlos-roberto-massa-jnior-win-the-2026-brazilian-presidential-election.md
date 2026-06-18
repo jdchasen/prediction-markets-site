@@ -3,8 +3,8 @@ title: "Will Carlos Roberto Massa Júnior win the 2026 Brazilian presidential el
 description: "Will Carlos Roberto Massa Júnior win the 2026 Brazilian presidential election? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Carlos Roberto Massa Júnior win the 2026 Brazilian presidential election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-06-17
+status: "settled"
+lastUpdated: 2026-06-18
 expiryDate: 2026-10-04
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.1

@@ -3,8 +3,8 @@ title: "Will Ecuador win Group E in the 2026 FIFA World Cup?"
 description: "Will Ecuador win Group E in the 2026 FIFA World Cup? Odds: 4.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Ecuador win Group E in the 2026 FIFA World Cup?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-06-17
+status: "settled"
+lastUpdated: 2026-06-18
 expiryDate: 2026-06-27
 tags: ["polymarket", "sports"]
 polymarketYes: 4.5

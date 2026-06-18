@@ -3,8 +3,8 @@ title: "Will G2 win IEM Cologne Major 2026?"
 description: "Will G2 win IEM Cologne Major 2026? Odds: 2.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will G2 win IEM Cologne Major 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-06-17
+status: "settled"
+lastUpdated: 2026-06-18
 expiryDate: 2026-06-21
 tags: ["politics", "polymarket"]
 polymarketYes: 2.1

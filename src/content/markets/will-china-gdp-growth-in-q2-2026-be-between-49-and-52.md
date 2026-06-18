@@ -1,0 +1,40 @@
+---
+title: "Will China GDP growth in Q2 2026 be between 4.9% and 5.2%?"
+description: "Will China GDP growth in Q2 2026 be between 4.9% and 5.2%? Odds: 3.7% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will China GDP growth in Q2 2026 be between 4.9% and 5.2%?"
+category: "economics"
+status: "active"
+lastUpdated: 2026-06-18
+expiryDate: 2026-07-16
+tags: ["economics", "polymarket"]
+polymarketYes: 3.7
+polymarketNo: 96.3
+polymarketVolume: 9673
+polymarketUrl: "https://polymarket.com/event/will-china-gdp-growth-in-q2-2026-be-between-4pt9-and-5pt2"
+---
+
+## Current Odds
+
+| Platform | Yes | No | Volume | Trade |
+|----------|-----|-----|--------|-------|
+| Polymarket | 3.7% | 96.3% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+
+## Related Markets
+
+- [Will annual inflation be 4.4% in June?](/odds/will-annual-inflation-be-44-in-june) — 0% YES
+
+## Frequently Asked Questions
+
+### What are the current odds for "Will China GDP growth in Q2 2026 be between 4.9% and 5.2%?"?
+
+As of June 18, 2026, Polymarket prices YES at 3.7%.
+
+### Where can I trade on this prediction market?
+
+You can trade this market on [Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) (crypto-based).
+
+## Learn More
+
+- [Will ETH Hit $4,500 in 2026? Live Market Odds](/blog/will-ethereum-reach-4500-in-2026-what-prediction-markets-say)
+- [Will Discord IPO in 2026? What Prediction Markets Say](/blog/will-discord-ipo-in-2026-what-prediction-markets-say)
+

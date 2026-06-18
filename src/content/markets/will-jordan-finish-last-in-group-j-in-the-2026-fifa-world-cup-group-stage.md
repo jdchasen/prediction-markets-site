@@ -3,8 +3,8 @@ title: "Will Jordan finish last in Group J in the 2026 FIFA World Cup Group Stag
 description: "Will Jordan finish last in Group J in the 2026 FIFA World Cup Group Stage? Odds: 73.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Jordan finish last in Group J in the 2026 FIFA World Cup Group Stage?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-06-17
+status: "settled"
+lastUpdated: 2026-06-18
 expiryDate: 2026-07-20
 tags: ["polymarket", "sports"]
 polymarketYes: 73.5

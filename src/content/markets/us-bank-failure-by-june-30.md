@@ -3,8 +3,8 @@ title: "US bank failure by June 30?"
 description: "US bank failure by June 30? Odds: 7.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "US bank failure by June 30?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-06-17
+status: "settled"
+lastUpdated: 2026-06-18
 expiryDate: 2026-06-30
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 7.5

@@ -4,7 +4,7 @@ description: "Will Mexico be eliminated in the Semifinals of the World Cup? Odds
 marketQuestion: "Will Mexico be eliminated in the Semifinals of the World Cup?"
 category: "sports"
 status: "active"
-lastUpdated: 2026-06-17
+lastUpdated: 2026-06-18
 expiryDate: 2026-07-19
 tags: ["polymarket", "sports"]
 polymarketYes: 9.5
@@ -21,15 +21,15 @@ polymarketUrl: "https://polymarket.com/event/will-mexico-be-eliminated-in-the-se
 
 ## Related Markets
 
-- [Will Uruguay win Group H in the 2026 FIFA World Cup?](/odds/will-uruguay-win-group-h-in-the-2026-fifa-world-cup) — 20% YES
+- [Will Ivory Coast win Group E in the 2026 FIFA World Cup?](/odds/will-ivory-coast-win-group-e-in-the-2026-fifa-world-cup) — 22% YES
+- [Will Croatia win Group L in the 2026 FIFA World Cup?](/odds/will-croatia-win-group-l-in-the-2026-fifa-world-cup) — 3% YES
 - [Will Baker Mayfield win the 2026 NFL MVP?](/odds/will-baker-mayfield-win-the-2026-nfl-mvp) — 1% YES
-- [Will Ecuador win Group E in the 2026 FIFA World Cup?](/odds/will-ecuador-win-group-e-in-the-2026-fifa-world-cup) — 4% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Mexico be eliminated in the Semifinals of the World Cup?"?
 
-As of June 17, 2026, Polymarket prices YES at 9.5%.
+As of June 18, 2026, Polymarket prices YES at 9.5%.
 
 ### Where can I trade on this prediction market?
 
