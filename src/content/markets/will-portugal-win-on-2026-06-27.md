@@ -1,15 +1,15 @@
 ---
 title: "Will Portugal win on 2026-06-27?"
-description: "Will Portugal win on 2026-06-27? Odds: 45.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Portugal win on 2026-06-27? Odds: 46.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Portugal win on 2026-06-27?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-06-18
+lastUpdated: 2026-06-19
 expiryDate: 2026-06-27
 tags: ["politics", "polymarket"]
-polymarketYes: 45.5
-polymarketNo: 54.5
-polymarketVolume: 98049
+polymarketYes: 46.5
+polymarketNo: 53.5
+polymarketVolume: 99710
 polymarketUrl: "https://polymarket.com/event/fifwc-col-prt-2026-06-27-prt"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/fifwc-col-prt-2026-06-27-prt"
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 45.5% | 54.5% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 46.5% | 53.5% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/fifwc-col-prt-2026-06-27-prt"
 
 ### What are the current odds for "Will Portugal win on 2026-06-27?"?
 
-As of June 18, 2026, Polymarket prices YES at 45.5%.
+As of June 19, 2026, Polymarket prices YES at 46.5%.
 
 ### Where can I trade on this prediction market?
 

@@ -3,8 +3,8 @@ title: "Will Angela Dugalic win the 2026 WNBA Rookie of the Year award?"
 description: "Will Angela Dugalic win the 2026 WNBA Rookie of the Year award? Odds: 0.6% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Angela Dugalic win the 2026 WNBA Rookie of the Year award?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-06-18
+status: "settled"
+lastUpdated: 2026-06-19
 expiryDate: 2026-09-25
 tags: ["polymarket", "sports"]
 polymarketYes: 0.6

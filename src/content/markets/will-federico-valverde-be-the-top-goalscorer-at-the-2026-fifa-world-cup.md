@@ -3,8 +3,8 @@ title: "Will Federico Valverde be the top goalscorer at the 2026 FIFA World Cup?
 description: "Will Federico Valverde be the top goalscorer at the 2026 FIFA World Cup? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Federico Valverde be the top goalscorer at the 2026 FIFA World Cup?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-06-18
+status: "settled"
+lastUpdated: 2026-06-19
 expiryDate: 2026-07-20
 tags: ["federal-reserve", "polymarket", "sports"]
 polymarketYes: 0.1

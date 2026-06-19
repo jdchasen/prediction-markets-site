@@ -3,8 +3,8 @@ title: "Will Amazon.com, Inc. (AMZN) hit (LOW) $232 in June?"
 description: "Will Amazon.com, Inc. (AMZN) hit (LOW) $232 in June? Odds: 39.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Amazon.com, Inc. (AMZN) hit (LOW) $232 in June?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-06-18
+status: "settled"
+lastUpdated: 2026-06-19
 expiryDate: 2026-07-01
 tags: ["politics", "polymarket"]
 polymarketYes: 39.5

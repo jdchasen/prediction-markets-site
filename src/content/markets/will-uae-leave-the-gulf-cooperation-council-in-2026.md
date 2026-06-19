@@ -4,7 +4,7 @@ description: "Will UAE leave the Gulf Cooperation Council  in 2026? Odds: 9.5% Y
 marketQuestion: "Will UAE leave the Gulf Cooperation Council  in 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-06-18
+lastUpdated: 2026-06-19
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 9.5
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-uae-leave-the-gulf-cooperation
 
 ### What are the current odds for "Will UAE leave the Gulf Cooperation Council  in 2026?"?
 
-As of June 18, 2026, Polymarket prices YES at 9.5%.
+As of June 19, 2026, Polymarket prices YES at 9.5%.
 
 ### Where can I trade on this prediction market?
 

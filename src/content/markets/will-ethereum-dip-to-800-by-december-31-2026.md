@@ -1,15 +1,15 @@
 ---
 title: "Will Ethereum dip to $800 by December 31, 2026?"
-description: "Will Ethereum dip to $800 by December 31, 2026? Odds: 17.0% YES on Polymarket. See live prices and trade this market."
+description: "Will Ethereum dip to $800 by December 31, 2026? Odds: 19.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Ethereum dip to $800 by December 31, 2026?"
 category: "crypto"
 status: "active"
-lastUpdated: 2026-06-18
+lastUpdated: 2026-06-19
 expiryDate: 2027-01-01
 tags: ["crypto", "ethereum", "polymarket"]
-polymarketYes: 17.0
-polymarketNo: 83.0
-polymarketVolume: 980602
+polymarketYes: 19.5
+polymarketNo: 80.5
+polymarketVolume: 999736
 polymarketUrl: "https://polymarket.com/event/will-ethereum-dip-to-800-by-december-31-2026-568"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-ethereum-dip-to-800-by-decembe
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 17.0% | 83.0% | $981K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 19.5% | 80.5% | $1000K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Predict.fun FDV above $300M one day after launch?](/odds/predictfun-fdv-above-300m-one-day-after-launch) — 68% YES
-- [Will MetaMask launch a token by September 30, 2026?](/odds/will-metamask-launch-a-token-by-september-30-2026) — 6% YES
+- [Predict.fun FDV above $300M one day after launch?](/odds/predictfun-fdv-above-300m-one-day-after-launch) — 70% YES
 - [Extended FDV above $2B one day after launch?](/odds/extended-fdv-above-2b-one-day-after-launch) — 4% YES
+- [Will Puffpaw launch a token by September 30, 2026?](/odds/will-puffpaw-launch-a-token-by-september-30-2026) — 42% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Ethereum dip to $800 by December 31, 2026?"?
 
-As of June 18, 2026, Polymarket prices YES at 17.0%.
+As of June 19, 2026, Polymarket prices YES at 19.5%.
 
 ### Where can I trade on this prediction market?
 

@@ -4,12 +4,12 @@ description: "Will the Green Party (MP) win the most seats in the 2026 Swedish p
 marketQuestion: "Will the Green Party (MP) win the most seats in the 2026 Swedish parliamentary election?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-06-18
+lastUpdated: 2026-06-19
 expiryDate: 2026-09-13
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.6
 polymarketNo: 99.4
-polymarketVolume: 99731
+polymarketVolume: 99734
 polymarketUrl: "https://polymarket.com/event/will-the-green-party-mp-win-the-most-seats-in-the-2026-swedish-parliamentary-election"
 ---
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-green-party-mp-win-the-mos
 
 ### What are the current odds for "Will the Green Party (MP) win the most seats in the 2026 Swedish parliamentary election?"?
 
-As of June 18, 2026, Polymarket prices YES at 0.6%.
+As of June 19, 2026, Polymarket prices YES at 0.6%.
 
 ### Where can I trade on this prediction market?
 

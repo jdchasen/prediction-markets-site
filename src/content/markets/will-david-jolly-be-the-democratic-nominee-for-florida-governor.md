@@ -3,8 +3,8 @@ title: "Will David Jolly be the Democratic nominee for Florida Governor?"
 description: "Will David Jolly be the Democratic nominee for Florida Governor? Odds: 88.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will David Jolly be the Democratic nominee for Florida Governor?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-06-18
+status: "settled"
+lastUpdated: 2026-06-19
 expiryDate: 2026-08-18
 tags: ["politics", "polymarket"]
 polymarketYes: 88.0

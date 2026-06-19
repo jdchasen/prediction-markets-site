@@ -1,14 +1,14 @@
 ---
 title: "Will Minnesota use a new congressional map for the 2026 United States midterm elections?"
-description: "Will Minnesota use a new congressional map for the 2026 United States midterm elections? Odds: 2.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Minnesota use a new congressional map for the 2026 United States midterm elections? Odds: 2.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Minnesota use a new congressional map for the 2026 United States midterm elections?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-06-18
+lastUpdated: 2026-06-19
 expiryDate: 2026-11-03
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 2.5
-polymarketNo: 97.5
+polymarketYes: 2.1
+polymarketNo: 97.9
 polymarketVolume: 9790
 polymarketUrl: "https://polymarket.com/event/will-minnesota-use-a-new-congressional-map-for-the-2026-united-states-midterm-elections"
 ---
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-minnesota-use-a-new-congressio
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 2.5% | 97.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 2.1% | 97.9% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-minnesota-use-a-new-congressio
 
 ### What are the current odds for "Will Minnesota use a new congressional map for the 2026 United States midterm elections?"?
 
-As of June 18, 2026, Polymarket prices YES at 2.5%.
+As of June 19, 2026, Polymarket prices YES at 2.1%.
 
 ### Where can I trade on this prediction market?
 

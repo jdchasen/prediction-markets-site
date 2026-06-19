@@ -4,12 +4,12 @@ description: "Will Memphis Grizzlies win the 2027 NBA Finals? Odds: 0.9% YES on 
 marketQuestion: "Will Memphis Grizzlies win the 2027 NBA Finals?"
 category: "sports"
 status: "active"
-lastUpdated: 2026-06-18
+lastUpdated: 2026-06-19
 expiryDate: 2027-07-01
 tags: ["polymarket", "sports"]
 polymarketYes: 0.9
 polymarketNo: 99.1
-polymarketVolume: 97434
+polymarketVolume: 98670
 polymarketUrl: "https://polymarket.com/event/will-memphis-grizzlies-win-the-2027-nba-finals"
 ---
 
@@ -17,11 +17,11 @@ polymarketUrl: "https://polymarket.com/event/will-memphis-grizzlies-win-the-2027
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.9% | 99.1% | $97K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.9% | 99.1% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Federico Valverde be the top goalscorer at the 2026 FIFA World Cup?](/odds/will-federico-valverde-be-the-top-goalscorer-at-the-2026-fifa-world-cup) — 0% YES
+- [Will Croatia advance to the knockout stages at the 2026 FIFA World Cup?](/odds/will-croatia-advance-to-the-knockout-stages-at-the-2026-fifa-world-cup) — 76% YES
 - [Will Baker Mayfield win the 2026 NFL MVP?](/odds/will-baker-mayfield-win-the-2026-nfl-mvp) — 1% YES
 - [Will Kansas City Chiefs win the 2027 NFL AFC Championship?](/odds/will-kansas-city-chiefs-win-the-2027-nfl-afc-championship) — 10% YES
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-memphis-grizzlies-win-the-2027
 
 ### What are the current odds for "Will Memphis Grizzlies win the 2027 NBA Finals?"?
 
-As of June 18, 2026, Polymarket prices YES at 0.9%.
+As of June 19, 2026, Polymarket prices YES at 0.9%.
 
 ### Where can I trade on this prediction market?
 

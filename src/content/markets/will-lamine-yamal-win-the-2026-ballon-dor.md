@@ -1,15 +1,15 @@
 ---
 title: "Will Lamine Yamal win the 2026 Ballon d'Or?"
-description: "Will Lamine Yamal win the 2026 Ballon d'Or? Odds: 10.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Lamine Yamal win the 2026 Ballon d'Or? Odds: 10.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Lamine Yamal win the 2026 Ballon d'Or?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-06-18
+lastUpdated: 2026-06-19
 expiryDate: 2026-10-31
 tags: ["politics", "polymarket"]
-polymarketYes: 10.5
-polymarketNo: 89.5
-polymarketVolume: 98502
+polymarketYes: 10.0
+polymarketNo: 90.0
+polymarketVolume: 98610
 polymarketUrl: "https://polymarket.com/event/will-lamine-yamal-win-the-2026-ballon-dor"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-lamine-yamal-win-the-2026-ball
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 10.5% | 89.5% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 10.0% | 90.0% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-lamine-yamal-win-the-2026-ball
 
 ### What are the current odds for "Will Lamine Yamal win the 2026 Ballon d'Or?"?
 
-As of June 18, 2026, Polymarket prices YES at 10.5%.
+As of June 19, 2026, Polymarket prices YES at 10.0%.
 
 ### Where can I trade on this prediction market?
 

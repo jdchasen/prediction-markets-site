@@ -4,7 +4,7 @@ description: "MLB: Perfect Game thrown in 2026 season? Odds: 12.0% YES on Polyma
 marketQuestion: "MLB: Perfect Game thrown in 2026 season?"
 category: "sports"
 status: "active"
-lastUpdated: 2026-06-18
+lastUpdated: 2026-06-19
 tags: ["polymarket", "sports"]
 polymarketYes: 12.0
 polymarketNo: 88.0
@@ -20,15 +20,15 @@ polymarketUrl: "https://polymarket.com/event/mlb-perfect-game-thrown-in-2026-sea
 
 ## Related Markets
 
-- [Will Federico Valverde be the top goalscorer at the 2026 FIFA World Cup?](/odds/will-federico-valverde-be-the-top-goalscorer-at-the-2026-fifa-world-cup) — 0% YES
+- [Will Croatia advance to the knockout stages at the 2026 FIFA World Cup?](/odds/will-croatia-advance-to-the-knockout-stages-at-the-2026-fifa-world-cup) — 76% YES
 - [Will Baker Mayfield win the 2026 NFL MVP?](/odds/will-baker-mayfield-win-the-2026-nfl-mvp) — 1% YES
-- [Will Kansas City Chiefs win the 2027 NFL AFC Championship?](/odds/will-kansas-city-chiefs-win-the-2027-nfl-afc-championship) — 10% YES
+- [Will Memphis Grizzlies win the 2027 NBA Finals?](/odds/will-memphis-grizzlies-win-the-2027-nba-finals) — 1% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "MLB: Perfect Game thrown in 2026 season?"?
 
-As of June 18, 2026, Polymarket prices YES at 12.0%.
+As of June 19, 2026, Polymarket prices YES at 12.0%.
 
 ### Where can I trade on this prediction market?
 

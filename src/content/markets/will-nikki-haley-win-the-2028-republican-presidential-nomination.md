@@ -4,12 +4,12 @@ description: "Will Nikki Haley win the 2028 Republican presidential nomination? 
 marketQuestion: "Will Nikki Haley win the 2028 Republican presidential nomination?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-06-18
+lastUpdated: 2026-06-19
 expiryDate: 2028-11-07
 tags: ["politics", "polymarket"]
 polymarketYes: 0.9
 polymarketNo: 99.2
-polymarketVolume: 9953195
+polymarketVolume: 9966961
 polymarketUrl: "https://polymarket.com/event/will-nikki-haley-win-the-2028-republican-presidential-nomination"
 ---
 
@@ -23,13 +23,13 @@ polymarketUrl: "https://polymarket.com/event/will-nikki-haley-win-the-2028-repub
 
 - [Will James Talarico win the 2028 Democratic presidential nomination?](/odds/will-james-talarico-win-the-2028-democratic-presidential-nomination) — 2% YES
 - [Will Alibaba have the best AI model at the end of June 2026?](/odds/will-alibaba-have-the-best-ai-model-at-the-end-of-june-2026) — 0% YES
-- [Will Lovable be acquired before 2027?](/odds/will-lovable-be-acquired-before-2027) — 22% YES
+- [Will Meta have the best AI model at the end of June 2026?](/odds/will-meta-have-the-best-ai-model-at-the-end-of-june-2026) — 0% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Nikki Haley win the 2028 Republican presidential nomination?"?
 
-As of June 18, 2026, Polymarket prices YES at 0.9%.
+As of June 19, 2026, Polymarket prices YES at 0.9%.
 
 ### Where can I trade on this prediction market?
 

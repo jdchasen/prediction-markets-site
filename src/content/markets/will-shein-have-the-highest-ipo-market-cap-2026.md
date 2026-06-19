@@ -4,7 +4,7 @@ description: "Will SHEIN have the highest IPO Market Cap 2026? Odds: 0.1% YES on
 marketQuestion: "Will SHEIN have the highest IPO Market Cap 2026?"
 category: "finance"
 status: "active"
-lastUpdated: 2026-06-18
+lastUpdated: 2026-06-19
 expiryDate: 2026-12-31
 tags: ["finance", "polymarket"]
 polymarketYes: 0.1
@@ -22,14 +22,12 @@ polymarketUrl: "https://polymarket.com/event/will-shein-have-the-highest-ipo-mar
 ## Related Markets
 
 - [Anysphere (Cursor) IPO before 2027?](/odds/anysphere-cursor-ipo-before-2027) — 2% YES
-- [Will SpaceX's market cap be between $2.5T and $3.0T at market close on last trading day of IPO month?](/odds/will-spacexs-market-cap-be-between-25t-and-30t-at-market-close-on-last-trading-d) — 20% YES
-- [Kraken IPO closing market cap above $22B?](/odds/kraken-ipo-closing-market-cap-above-22b) — 22% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will SHEIN have the highest IPO Market Cap 2026?"?
 
-As of June 18, 2026, Polymarket prices YES at 0.1%.
+As of June 19, 2026, Polymarket prices YES at 0.1%.
 
 ### Where can I trade on this prediction market?
 
