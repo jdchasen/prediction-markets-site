@@ -21,9 +21,9 @@ polymarketUrl: "https://polymarket.com/event/extended-fdv-above-2b-one-day-after
 
 ## Related Markets
 
-- [Will Ethereum dip to $800 by December 31, 2026?](/odds/will-ethereum-dip-to-800-by-december-31-2026) — 20% YES
 - [Predict.fun FDV above $300M one day after launch?](/odds/predictfun-fdv-above-300m-one-day-after-launch) — 70% YES
-- [Will Puffpaw launch a token by September 30, 2026?](/odds/will-puffpaw-launch-a-token-by-september-30-2026) — 42% YES
+- [Cap FDV above $150M one day after launch?](/odds/cap-fdv-above-150m-one-day-after-launch) — 35% YES
+- [Will Hurupay launch a token by June 30, 2027?](/odds/will-hurupay-launch-a-token-by-june-30-2027) — 60% YES
 
 ## Frequently Asked Questions
 

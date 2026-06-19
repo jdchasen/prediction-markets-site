@@ -20,7 +20,7 @@ polymarketUrl: "https://polymarket.com/event/mlb-perfect-game-thrown-in-2026-sea
 
 ## Related Markets
 
-- [Will Croatia advance to the knockout stages at the 2026 FIFA World Cup?](/odds/will-croatia-advance-to-the-knockout-stages-at-the-2026-fifa-world-cup) — 76% YES
+- [Will Haiti win Group C in the 2026 FIFA World Cup?](/odds/will-haiti-win-group-c-in-the-2026-fifa-world-cup) — 0% YES
 - [Will Baker Mayfield win the 2026 NFL MVP?](/odds/will-baker-mayfield-win-the-2026-nfl-mvp) — 1% YES
 - [Will Memphis Grizzlies win the 2027 NBA Finals?](/odds/will-memphis-grizzlies-win-the-2027-nba-finals) — 1% YES
 

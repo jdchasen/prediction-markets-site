@@ -1,14 +1,14 @@
 ---
 title: "Will Solana dip to $40 by December 31, 2026?"
-description: "Will Solana dip to $40 by December 31, 2026? Odds: 39.0% YES on Polymarket. See live prices and trade this market."
+description: "Will Solana dip to $40 by December 31, 2026? Odds: 38.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Solana dip to $40 by December 31, 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-06-19
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]
-polymarketYes: 39.0
-polymarketNo: 61.0
+polymarketYes: 38.5
+polymarketNo: 61.5
 polymarketVolume: 99599
 polymarketUrl: "https://polymarket.com/event/will-solana-dip-to-40-by-december-31-2026-343-482"
 ---
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-solana-dip-to-40-by-december-3
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 39.0% | 61.0% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 38.5% | 61.5% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Nikki Haley win the 2028 Republican presidential nomination?](/odds/will-nikki-haley-win-the-2028-republican-presidential-nomination) — 1% YES
+- [ Iran agrees to end enrichment of uranium by June 30?](/odds/iran-agrees-to-end-enrichment-of-uranium-by-june-30) — 4% YES
 - [Will James Talarico win the 2028 Democratic presidential nomination?](/odds/will-james-talarico-win-the-2028-democratic-presidential-nomination) — 2% YES
-- [Will Alibaba have the best AI model at the end of June 2026?](/odds/will-alibaba-have-the-best-ai-model-at-the-end-of-june-2026) — 0% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Solana dip to $40 by December 31, 2026?"?
 
-As of June 19, 2026, Polymarket prices YES at 39.0%.
+As of June 19, 2026, Polymarket prices YES at 38.5%.
 
 ### Where can I trade on this prediction market?
 

@@ -3,7 +3,7 @@ title: "Will Portugal win on 2026-06-27?"
 description: "Will Portugal win on 2026-06-27? Odds: 46.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Portugal win on 2026-06-27?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-19
 expiryDate: 2026-06-27
 tags: ["politics", "polymarket"]

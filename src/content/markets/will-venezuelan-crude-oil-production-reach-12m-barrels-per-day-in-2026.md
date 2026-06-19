@@ -1,14 +1,14 @@
 ---
 title: "Will Venezuelan crude oil production reach 1.2m barrels per day in 2026?"
-description: "Will Venezuelan crude oil production reach 1.2m barrels per day in 2026? Odds: 73.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Venezuelan crude oil production reach 1.2m barrels per day in 2026? Odds: 68.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Venezuelan crude oil production reach 1.2m barrels per day in 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-06-19
 expiryDate: 2027-02-28
 tags: ["politics", "polymarket"]
-polymarketYes: 73.5
-polymarketNo: 26.5
+polymarketYes: 68.5
+polymarketNo: 31.5
 polymarketVolume: 9771
 polymarketUrl: "https://polymarket.com/event/will-venezuelan-crude-oil-production-reach-1pt2m-barrels-per-day-in-2026"
 ---
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-venezuelan-crude-oil-productio
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 73.5% | 26.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 68.5% | 31.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Nikki Haley win the 2028 Republican presidential nomination?](/odds/will-nikki-haley-win-the-2028-republican-presidential-nomination) — 1% YES
+- [ Iran agrees to end enrichment of uranium by June 30?](/odds/iran-agrees-to-end-enrichment-of-uranium-by-june-30) — 4% YES
 - [Will James Talarico win the 2028 Democratic presidential nomination?](/odds/will-james-talarico-win-the-2028-democratic-presidential-nomination) — 2% YES
-- [Will Alibaba have the best AI model at the end of June 2026?](/odds/will-alibaba-have-the-best-ai-model-at-the-end-of-june-2026) — 0% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Venezuelan crude oil production reach 1.2m barrels per day in 2026?"?
 
-As of June 19, 2026, Polymarket prices YES at 73.5%.
+As of June 19, 2026, Polymarket prices YES at 68.5%.
 
 ### Where can I trade on this prediction market?
 

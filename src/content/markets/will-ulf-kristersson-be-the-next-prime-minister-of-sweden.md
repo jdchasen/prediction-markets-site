@@ -3,7 +3,7 @@ title: "Will Ulf Kristersson be the next Prime Minister of Sweden?"
 description: "Will Ulf Kristersson be the next Prime Minister of Sweden? Odds: 23.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Ulf Kristersson be the next Prime Minister of Sweden?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-19
 expiryDate: 2026-09-13
 tags: ["politics", "polymarket"]

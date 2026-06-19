@@ -22,6 +22,8 @@ polymarketUrl: "https://polymarket.com/event/anysphere-cursor-ipo-before-2027"
 ## Related Markets
 
 - [Will SHEIN have the highest IPO Market Cap 2026?](/odds/will-shein-have-the-highest-ipo-market-cap-2026) — 0% YES
+- [Will S&P 500 (SPY) hit (LOW) $720 in June?](/odds/will-sp-500-spy-hit-low-720-in-june) — 16% YES
+- [Will Gold (GC) hit (HIGH) $5,300 by end of June?](/odds/will-gold-gc-hit-high-5300-by-end-of-june) — 1% YES
 
 ## Frequently Asked Questions
 

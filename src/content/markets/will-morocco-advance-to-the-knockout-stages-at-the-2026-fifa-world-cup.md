@@ -1,23 +1,23 @@
 ---
-title: "Will 7+ matches be decided by penalty shootout during the 2026 FIFA World Cup?"
-description: "Will 7+ matches be decided by penalty shootout during the 2026 FIFA World Cup? Odds: 33.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will 7+ matches be decided by penalty shootout during the 2026 FIFA World Cup?"
+title: "Will Morocco advance to the knockout stages at the 2026 FIFA World Cup?"
+description: "Will Morocco advance to the knockout stages at the 2026 FIFA World Cup? Odds: 95.0% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Morocco advance to the knockout stages at the 2026 FIFA World Cup?"
 category: "sports"
 status: "active"
 lastUpdated: 2026-06-19
-expiryDate: 2026-07-20
+expiryDate: 2026-06-28
 tags: ["polymarket", "sports"]
-polymarketYes: 33.5
-polymarketNo: 66.5
-polymarketVolume: 9901
-polymarketUrl: "https://polymarket.com/event/will-7-matches-be-decided-by-penalty-shootout-during-the-2026-fifa-world-cup-20260610210228792"
+polymarketYes: 95.0
+polymarketNo: 5.0
+polymarketVolume: 98232
+polymarketUrl: "https://polymarket.com/event/will-morocco-advance-to-the-knockout-stages-at-the-2026-fifa-world-cup"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 33.5% | 66.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 95.0% | 5.0% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-7-matches-be-decided-by-penalt
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will 7+ matches be decided by penalty shootout during the 2026 FIFA World Cup?"?
+### What are the current odds for "Will Morocco advance to the knockout stages at the 2026 FIFA World Cup?"?
 
-As of June 19, 2026, Polymarket prices YES at 33.5%.
+As of June 19, 2026, Polymarket prices YES at 95.0%.
 
 ### Where can I trade on this prediction market?
 

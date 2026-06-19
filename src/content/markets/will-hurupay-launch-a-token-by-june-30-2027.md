@@ -9,7 +9,7 @@ expiryDate: 2027-07-01
 tags: ["crypto", "polymarket"]
 polymarketYes: 59.5
 polymarketNo: 40.5
-polymarketVolume: 9797
+polymarketVolume: 9807
 polymarketUrl: "https://polymarket.com/event/will-hurupay-launch-a-token-by-june-30-2027"
 ---
 
@@ -21,9 +21,9 @@ polymarketUrl: "https://polymarket.com/event/will-hurupay-launch-a-token-by-june
 
 ## Related Markets
 
-- [Will Ethereum dip to $800 by December 31, 2026?](/odds/will-ethereum-dip-to-800-by-december-31-2026) — 20% YES
 - [Predict.fun FDV above $300M one day after launch?](/odds/predictfun-fdv-above-300m-one-day-after-launch) — 70% YES
 - [Extended FDV above $2B one day after launch?](/odds/extended-fdv-above-2b-one-day-after-launch) — 4% YES
+- [Cap FDV above $150M one day after launch?](/odds/cap-fdv-above-150m-one-day-after-launch) — 35% YES
 
 ## Frequently Asked Questions
 

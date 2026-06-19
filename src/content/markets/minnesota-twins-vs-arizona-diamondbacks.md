@@ -1,23 +1,23 @@
 ---
-title: "Will FalleN win a S-Tier event before June 30?"
-description: "Will FalleN win a S-Tier event before June 30? Odds: 15.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will FalleN win a S-Tier event before June 30?"
+title: "Minnesota Twins vs. Arizona Diamondbacks"
+description: "Minnesota Twins vs. Arizona Diamondbacks Odds: 38.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Minnesota Twins vs. Arizona Diamondbacks"
 category: "politics"
 status: "active"
 lastUpdated: 2026-06-19
-expiryDate: 2026-06-30
+expiryDate: 2026-06-27
 tags: ["politics", "polymarket"]
-polymarketYes: 15.5
-polymarketNo: 84.5
-polymarketVolume: 9911
-polymarketUrl: "https://polymarket.com/event/will-fallen-win-a-s-tier-event-before-june-30"
+polymarketYes: 38.5
+polymarketNo: 61.5
+polymarketVolume: 98420
+polymarketUrl: "https://polymarket.com/event/mlb-min-ari-2026-06-19"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 15.5% | 84.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 38.5% | 61.5% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-fallen-win-a-s-tier-event-befo
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will FalleN win a S-Tier event before June 30?"?
+### What are the current odds for "Minnesota Twins vs. Arizona Diamondbacks"?
 
-As of June 19, 2026, Polymarket prices YES at 15.5%.
+As of June 19, 2026, Polymarket prices YES at 38.5%.
 
 ### Where can I trade on this prediction market?
 
@@ -37,6 +37,5 @@ You can trade this market on [Polymarket](https://polymarket.us/1762?utm_source=
 
 ## Learn More
 
-- [Event Contracts: Trade Any Event for $1](/blog/what-are-event-contracts)
-- [Will Oil Hit $100? March Crude Prediction Market Odds](/blog/will-oil-hit-100-march-crude-prediction-market-odds)
+- [2026 World Cup Betting Odds: Who Wins?](/blog/2026-world-cup-betting-odds-who-wins)
 

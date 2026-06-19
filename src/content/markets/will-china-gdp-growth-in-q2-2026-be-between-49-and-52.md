@@ -9,7 +9,7 @@ expiryDate: 2026-07-16
 tags: ["economics", "polymarket"]
 polymarketYes: 3.5
 polymarketNo: 96.5
-polymarketVolume: 9779
+polymarketVolume: 9845
 polymarketUrl: "https://polymarket.com/event/will-china-gdp-growth-in-q2-2026-be-between-4pt9-and-5pt2"
 ---
 
@@ -22,8 +22,8 @@ polymarketUrl: "https://polymarket.com/event/will-china-gdp-growth-in-q2-2026-be
 ## Related Markets
 
 - [Will inflation reach more than 4.5% in 2026?](/odds/will-inflation-reach-more-than-45-in-2026) — 20% YES
-- [Will the Bank of Israel make no change to the Bank of Israel Interest Rate after the July decision?](/odds/will-the-bank-of-israel-make-no-change-to-the-bank-of-israel-interest-rate-after) — 10% YES
-- [Will annual inflation be 4.6% in June?](/odds/will-annual-inflation-be-46-in-june) — 0% YES
+- [Will the Fed increase interest rates by 50+ bps after the September 2026 meeting?](/odds/will-the-fed-increase-interest-rates-by-50-bps-after-the-september-2026-meeting) — 2% YES
+- [Will the Bank of Israel make no change to the Bank of Israel Interest Rate after the July decision?](/odds/will-the-bank-of-israel-make-no-change-to-the-bank-of-israel-interest-rate-after) — 9% YES
 
 ## Frequently Asked Questions
 

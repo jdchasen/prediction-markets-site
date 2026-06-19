@@ -9,7 +9,7 @@ expiryDate: 2028-01-01
 tags: ["crypto", "polymarket"]
 polymarketYes: 70.5
 polymarketNo: 29.5
-polymarketVolume: 994450
+polymarketVolume: 994456
 polymarketUrl: "https://polymarket.com/event/predictfun-fdv-above-300m-one-day-after-launch"
 ---
 
@@ -21,9 +21,9 @@ polymarketUrl: "https://polymarket.com/event/predictfun-fdv-above-300m-one-day-a
 
 ## Related Markets
 
-- [Will Ethereum dip to $800 by December 31, 2026?](/odds/will-ethereum-dip-to-800-by-december-31-2026) — 20% YES
 - [Extended FDV above $2B one day after launch?](/odds/extended-fdv-above-2b-one-day-after-launch) — 4% YES
-- [Will Puffpaw launch a token by September 30, 2026?](/odds/will-puffpaw-launch-a-token-by-september-30-2026) — 42% YES
+- [Cap FDV above $150M one day after launch?](/odds/cap-fdv-above-150m-one-day-after-launch) — 35% YES
+- [Will Hurupay launch a token by June 30, 2027?](/odds/will-hurupay-launch-a-token-by-june-30-2027) — 60% YES
 
 ## Frequently Asked Questions
 

@@ -1,15 +1,15 @@
 ---
 title: "Will the Fed increase interest rates by 50+ bps after the September 2026 meeting?"
-description: "Will the Fed increase interest rates by 50+ bps after the September 2026 meeting? Odds: 0.7% YES on Polymarket. See live prices and trade this market."
+description: "Will the Fed increase interest rates by 50+ bps after the September 2026 meeting? Odds: 1.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Fed increase interest rates by 50+ bps after the September 2026 meeting?"
 category: "economics"
-status: "settled"
-lastUpdated: 2026-05-30
+status: "active"
+lastUpdated: 2026-06-19
 expiryDate: 2026-09-16
 tags: ["economics", "federal-reserve", "interest-rates", "polymarket"]
-polymarketYes: 0.7
-polymarketNo: 99.4
-polymarketVolume: 9690
+polymarketYes: 1.9
+polymarketNo: 98.1
+polymarketVolume: 94506
 polymarketUrl: "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-50-bps-after-the-september-2026-meeting-664"
 ---
 
@@ -17,17 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-the-fed-increase-interest-rate
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.7% | 99.4% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 1.9% | 98.1% | $95K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will the Fed decrease interest rates by 50+ bps after the September 2026 meeting?](/odds/will-the-fed-decrease-interest-rates-by-50-bps-after-the-september-2026-meeting) — 2% YES
+- [Will inflation reach more than 4.5% in 2026?](/odds/will-inflation-reach-more-than-45-in-2026) — 20% YES
+- [Will China GDP growth in Q2 2026 be between 4.9% and 5.2%?](/odds/will-china-gdp-growth-in-q2-2026-be-between-49-and-52) — 4% YES
+- [Will the Bank of Israel make no change to the Bank of Israel Interest Rate after the July decision?](/odds/will-the-bank-of-israel-make-no-change-to-the-bank-of-israel-interest-rate-after) — 9% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will the Fed increase interest rates by 50+ bps after the September 2026 meeting?"?
 
-As of May 29, 2026, Polymarket prices YES at 0.7%.
+As of June 19, 2026, Polymarket prices YES at 1.9%.
 
 ### Where can I trade on this prediction market?
 

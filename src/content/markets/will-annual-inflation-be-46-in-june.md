@@ -22,8 +22,8 @@ polymarketUrl: "https://polymarket.com/event/will-annual-inflation-be-4pt6-in-ju
 ## Related Markets
 
 - [Will inflation reach more than 4.5% in 2026?](/odds/will-inflation-reach-more-than-45-in-2026) — 20% YES
+- [Will the Fed increase interest rates by 50+ bps after the September 2026 meeting?](/odds/will-the-fed-increase-interest-rates-by-50-bps-after-the-september-2026-meeting) — 2% YES
 - [Will China GDP growth in Q2 2026 be between 4.9% and 5.2%?](/odds/will-china-gdp-growth-in-q2-2026-be-between-49-and-52) — 4% YES
-- [Will the Bank of Israel make no change to the Bank of Israel Interest Rate after the July decision?](/odds/will-the-bank-of-israel-make-no-change-to-the-bank-of-israel-interest-rate-after) — 10% YES
 
 ## Frequently Asked Questions
 

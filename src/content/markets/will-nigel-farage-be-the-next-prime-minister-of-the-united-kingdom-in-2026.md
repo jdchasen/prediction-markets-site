@@ -3,7 +3,7 @@ title: "Will Nigel Farage be the next Prime Minister of the United Kingdom in 20
 description: "Will Nigel Farage be the next Prime Minister of the United Kingdom in 2026? Odds: 0.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Nigel Farage be the next Prime Minister of the United Kingdom in 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-19
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]

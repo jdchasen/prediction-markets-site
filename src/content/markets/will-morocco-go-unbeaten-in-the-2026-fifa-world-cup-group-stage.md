@@ -3,7 +3,7 @@ title: "Will Morocco go unbeaten in the 2026 FIFA World Cup Group Stage?"
 description: "Will Morocco go unbeaten in the 2026 FIFA World Cup Group Stage? Odds: 74.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Morocco go unbeaten in the 2026 FIFA World Cup Group Stage?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-19
 expiryDate: 2026-06-29
 tags: ["polymarket", "sports"]

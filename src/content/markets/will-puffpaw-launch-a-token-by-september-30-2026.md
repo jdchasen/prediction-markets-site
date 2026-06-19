@@ -3,7 +3,7 @@ title: "Will Puffpaw launch a token by September 30, 2026?"
 description: "Will Puffpaw launch a token by September 30, 2026? Odds: 42.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Puffpaw launch a token by September 30, 2026?"
 category: "crypto"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-19
 expiryDate: 2028-01-01
 tags: ["crypto", "polymarket"]

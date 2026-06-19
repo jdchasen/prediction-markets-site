@@ -1,33 +1,33 @@
 ---
-title: "Will a player representing Ecuador be the top goalscorer at the 2026 FIFA World Cup?"
-description: "Will a player representing Ecuador be the top goalscorer at the 2026 FIFA World Cup? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will a player representing Ecuador be the top goalscorer at the 2026 FIFA World Cup?"
+title: "Will Haiti win Group C in the 2026 FIFA World Cup?"
+description: "Will Haiti win Group C in the 2026 FIFA World Cup? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Haiti win Group C in the 2026 FIFA World Cup?"
 category: "sports"
 status: "active"
 lastUpdated: 2026-06-19
-expiryDate: 2026-08-20
-tags: ["polymarket", "sports"]
+expiryDate: 2026-06-27
+tags: ["ai", "polymarket", "sports"]
 polymarketYes: 0.1
 polymarketNo: 99.9
-polymarketVolume: 9940
-polymarketUrl: "https://polymarket.com/event/will-a-player-representing-ecuador-be-the-top-goalscorer-at-the-2026-fifa-world-cup"
+polymarketVolume: 99108
+polymarketUrl: "https://polymarket.com/event/will-haiti-win-group-c-in-the-2026-fifa-world-cup"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.1% | 99.9% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.1% | 99.9% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Haiti win Group C in the 2026 FIFA World Cup?](/odds/will-haiti-win-group-c-in-the-2026-fifa-world-cup) — 0% YES
 - [Will Baker Mayfield win the 2026 NFL MVP?](/odds/will-baker-mayfield-win-the-2026-nfl-mvp) — 1% YES
 - [Will Memphis Grizzlies win the 2027 NBA Finals?](/odds/will-memphis-grizzlies-win-the-2027-nba-finals) — 1% YES
+- [Will Morocco advance to the knockout stages at the 2026 FIFA World Cup?](/odds/will-morocco-advance-to-the-knockout-stages-at-the-2026-fifa-world-cup) — 95% YES
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will a player representing Ecuador be the top goalscorer at the 2026 FIFA World Cup?"?
+### What are the current odds for "Will Haiti win Group C in the 2026 FIFA World Cup?"?
 
 As of June 19, 2026, Polymarket prices YES at 0.1%.
 

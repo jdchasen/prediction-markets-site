@@ -8,7 +8,7 @@ lastUpdated: 2026-06-19
 expiryDate: 2026-11-03
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 2.1
-polymarketNo: 97.9
+polymarketNo: 98.0
 polymarketVolume: 9790
 polymarketUrl: "https://polymarket.com/event/will-minnesota-use-a-new-congressional-map-for-the-2026-united-states-midterm-elections"
 ---
@@ -17,13 +17,13 @@ polymarketUrl: "https://polymarket.com/event/will-minnesota-use-a-new-congressio
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 2.1% | 97.9% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 2.1% | 98.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Nikki Haley win the 2028 Republican presidential nomination?](/odds/will-nikki-haley-win-the-2028-republican-presidential-nomination) — 1% YES
+- [ Iran agrees to end enrichment of uranium by June 30?](/odds/iran-agrees-to-end-enrichment-of-uranium-by-june-30) — 4% YES
 - [Will James Talarico win the 2028 Democratic presidential nomination?](/odds/will-james-talarico-win-the-2028-democratic-presidential-nomination) — 2% YES
-- [Will Alibaba have the best AI model at the end of June 2026?](/odds/will-alibaba-have-the-best-ai-model-at-the-end-of-june-2026) — 0% YES
 
 ## Frequently Asked Questions
 
