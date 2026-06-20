@@ -3,8 +3,8 @@ title: "Will Trump attend 3 or more World Cup matches?"
 description: "Will Trump attend 3 or more World Cup matches? Odds: 9.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Trump attend 3 or more World Cup matches?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-06-19
+status: "settled"
+lastUpdated: 2026-06-20
 expiryDate: 2026-07-20
 tags: ["polymarket", "sports", "trump"]
 polymarketYes: 9.5

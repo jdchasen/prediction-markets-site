@@ -1,15 +1,15 @@
 ---
 title: "Predict.fun FDV above $300M one day after launch?"
-description: "Predict.fun FDV above $300M one day after launch? Odds: 70.5% YES on Polymarket. See live prices and trade this market."
+description: "Predict.fun FDV above $300M one day after launch? Odds: 72.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Predict.fun FDV above $300M one day after launch?"
 category: "crypto"
 status: "active"
-lastUpdated: 2026-06-19
+lastUpdated: 2026-06-20
 expiryDate: 2028-01-01
 tags: ["crypto", "polymarket"]
-polymarketYes: 70.5
-polymarketNo: 29.5
-polymarketVolume: 994456
+polymarketYes: 72.0
+polymarketNo: 28.0
+polymarketVolume: 994654
 polymarketUrl: "https://polymarket.com/event/predictfun-fdv-above-300m-one-day-after-launch"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/predictfun-fdv-above-300m-one-day-a
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 70.5% | 29.5% | $994K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 72.0% | 28.0% | $995K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
+- [Will Bitcoin reach $70,000 in June?](/odds/will-bitcoin-reach-70000-in-june) — 8% YES
+- [Will MetaMask launch a token by September 30, 2026?](/odds/will-metamask-launch-a-token-by-september-30-2026) — 5% YES
 - [Extended FDV above $2B one day after launch?](/odds/extended-fdv-above-2b-one-day-after-launch) — 4% YES
-- [Cap FDV above $150M one day after launch?](/odds/cap-fdv-above-150m-one-day-after-launch) — 35% YES
-- [Will Hurupay launch a token by June 30, 2027?](/odds/will-hurupay-launch-a-token-by-june-30-2027) — 60% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Predict.fun FDV above $300M one day after launch?"?
 
-As of June 19, 2026, Polymarket prices YES at 70.5%.
+As of June 20, 2026, Polymarket prices YES at 72.0%.
 
 ### Where can I trade on this prediction market?
 

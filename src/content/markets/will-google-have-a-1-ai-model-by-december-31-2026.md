@@ -3,8 +3,8 @@ title: "Will Google have a #1 AI model by December 31, 2026?"
 description: "Will Google have a #1 AI model by December 31, 2026? Odds: 44.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Google have a #1 AI model by December 31, 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-06-19
+status: "settled"
+lastUpdated: 2026-06-20
 expiryDate: 2026-12-31
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 44.5

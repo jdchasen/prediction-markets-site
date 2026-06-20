@@ -3,8 +3,8 @@ title: "Minnesota Twins vs. Arizona Diamondbacks"
 description: "Minnesota Twins vs. Arizona Diamondbacks Odds: 38.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Minnesota Twins vs. Arizona Diamondbacks"
 category: "politics"
-status: "active"
-lastUpdated: 2026-06-19
+status: "settled"
+lastUpdated: 2026-06-20
 expiryDate: 2026-06-27
 tags: ["politics", "polymarket"]
 polymarketYes: 38.5

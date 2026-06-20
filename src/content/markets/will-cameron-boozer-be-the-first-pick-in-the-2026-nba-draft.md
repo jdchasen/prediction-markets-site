@@ -3,8 +3,8 @@ title: "Will Cameron Boozer be the first pick in the 2026 NBA draft?"
 description: "Will Cameron Boozer be the first pick in the 2026 NBA draft? Odds: 0.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Cameron Boozer be the first pick in the 2026 NBA draft?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-06-19
+status: "settled"
+lastUpdated: 2026-06-20
 expiryDate: 2026-06-25
 tags: ["polymarket", "sports"]
 polymarketYes: 0.5

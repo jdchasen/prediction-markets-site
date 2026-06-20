@@ -3,8 +3,8 @@ title: "Will FalleN win a S-Tier event before June 30?"
 description: "Will FalleN win a S-Tier event before June 30? Odds: 15.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will FalleN win a S-Tier event before June 30?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-06-19
+status: "settled"
+lastUpdated: 2026-06-20
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
 polymarketYes: 15.5

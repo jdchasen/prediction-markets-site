@@ -1,15 +1,15 @@
 ---
 title: "Will China GDP growth in Q2 2026 be between 4.9% and 5.2%?"
-description: "Will China GDP growth in Q2 2026 be between 4.9% and 5.2%? Odds: 3.5% YES on Polymarket. See live prices and trade this market."
+description: "Will China GDP growth in Q2 2026 be between 4.9% and 5.2%? Odds: 3.6% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will China GDP growth in Q2 2026 be between 4.9% and 5.2%?"
 category: "economics"
 status: "active"
-lastUpdated: 2026-06-19
+lastUpdated: 2026-06-20
 expiryDate: 2026-07-16
 tags: ["economics", "polymarket"]
-polymarketYes: 3.5
-polymarketNo: 96.5
-polymarketVolume: 9845
+polymarketYes: 3.6
+polymarketNo: 96.4
+polymarketVolume: 9851
 polymarketUrl: "https://polymarket.com/event/will-china-gdp-growth-in-q2-2026-be-between-4pt9-and-5pt2"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-china-gdp-growth-in-q2-2026-be
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 3.5% | 96.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 3.6% | 96.4% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will inflation reach more than 4.5% in 2026?](/odds/will-inflation-reach-more-than-45-in-2026) — 20% YES
 - [Will the Fed increase interest rates by 50+ bps after the September 2026 meeting?](/odds/will-the-fed-increase-interest-rates-by-50-bps-after-the-september-2026-meeting) — 2% YES
-- [Will the Bank of Israel make no change to the Bank of Israel Interest Rate after the July decision?](/odds/will-the-bank-of-israel-make-no-change-to-the-bank-of-israel-interest-rate-after) — 9% YES
+- [Will annual inflation be 4.6% in June?](/odds/will-annual-inflation-be-46-in-june) — 0% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will China GDP growth in Q2 2026 be between 4.9% and 5.2%?"?
 
-As of June 19, 2026, Polymarket prices YES at 3.5%.
+As of June 20, 2026, Polymarket prices YES at 3.6%.
 
 ### Where can I trade on this prediction market?
 

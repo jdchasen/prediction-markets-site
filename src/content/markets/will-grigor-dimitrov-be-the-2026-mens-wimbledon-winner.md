@@ -4,12 +4,12 @@ description: "Will Grigor Dimitrov be the 2026 Men’s Wimbledon winner? Odds: 0
 marketQuestion: "Will Grigor Dimitrov be the 2026 Men’s Wimbledon winner?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-06-19
+lastUpdated: 2026-06-20
 expiryDate: 2026-07-12
 tags: ["politics", "polymarket"]
 polymarketYes: 0.4
 polymarketNo: 99.7
-polymarketVolume: 98962
+polymarketVolume: 98963
 polymarketUrl: "https://polymarket.com/event/will-grigor-dimitrov-be-the-2026-mens-wimbledon-winner"
 ---
 
@@ -22,14 +22,14 @@ polymarketUrl: "https://polymarket.com/event/will-grigor-dimitrov-be-the-2026-me
 ## Related Markets
 
 - [Will Nikki Haley win the 2028 Republican presidential nomination?](/odds/will-nikki-haley-win-the-2028-republican-presidential-nomination) — 1% YES
-- [ Iran agrees to end enrichment of uranium by June 30?](/odds/iran-agrees-to-end-enrichment-of-uranium-by-june-30) — 4% YES
 - [Will James Talarico win the 2028 Democratic presidential nomination?](/odds/will-james-talarico-win-the-2028-democratic-presidential-nomination) — 2% YES
+- [Trump announces US x Iran ceasefire over by June 30?](/odds/trump-announces-us-x-iran-ceasefire-over-by-june-30) — 4% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Grigor Dimitrov be the 2026 Men’s Wimbledon winner?"?
 
-As of June 19, 2026, Polymarket prices YES at 0.4%.
+As of June 20, 2026, Polymarket prices YES at 0.4%.
 
 ### Where can I trade on this prediction market?
 

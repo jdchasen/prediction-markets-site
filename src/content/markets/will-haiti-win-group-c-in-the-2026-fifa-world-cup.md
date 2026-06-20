@@ -3,8 +3,8 @@ title: "Will Haiti win Group C in the 2026 FIFA World Cup?"
 description: "Will Haiti win Group C in the 2026 FIFA World Cup? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Haiti win Group C in the 2026 FIFA World Cup?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-06-19
+status: "settled"
+lastUpdated: 2026-06-20
 expiryDate: 2026-06-27
 tags: ["ai", "polymarket", "sports"]
 polymarketYes: 0.1

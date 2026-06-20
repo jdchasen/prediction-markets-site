@@ -1,15 +1,15 @@
 ---
 title: "Will the Bank of Israel make no change to the Bank of Israel Interest Rate after the July decision?"
-description: "Will the Bank of Israel make no change to the Bank of Israel Interest Rate after the July decision? Odds: 9.0% YES on Polymarket. See live prices and trade t..."
+description: "Will the Bank of Israel make no change to the Bank of Israel Interest Rate after the July decision? Odds: 9.5% YES on Polymarket. See live prices and trade t..."
 marketQuestion: "Will the Bank of Israel make no change to the Bank of Israel Interest Rate after the July decision?"
 category: "economics"
 status: "active"
-lastUpdated: 2026-06-19
+lastUpdated: 2026-06-20
 expiryDate: 2026-07-06
 tags: ["economics", "interest-rates", "polymarket"]
-polymarketYes: 9.0
-polymarketNo: 91.0
-polymarketVolume: 9622
+polymarketYes: 9.5
+polymarketNo: 90.5
+polymarketVolume: 9672
 polymarketUrl: "https://polymarket.com/event/will-the-bank-of-israel-make-no-change-to-the-bank-of-israel-interest-rate-after-the-july-decision"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-bank-of-israel-make-no-cha
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 9.0% | 91.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 9.5% | 90.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-bank-of-israel-make-no-cha
 
 ### What are the current odds for "Will the Bank of Israel make no change to the Bank of Israel Interest Rate after the July decision?"?
 
-As of June 19, 2026, Polymarket prices YES at 9.0%.
+As of June 20, 2026, Polymarket prices YES at 9.5%.
 
 ### Where can I trade on this prediction market?
 

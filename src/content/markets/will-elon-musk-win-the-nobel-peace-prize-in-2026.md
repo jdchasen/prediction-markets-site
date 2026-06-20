@@ -4,12 +4,12 @@ description: "Will Elon Musk win the Nobel Peace Prize in 2026? Odds: 0.7% YES o
 marketQuestion: "Will Elon Musk win the Nobel Peace Prize in 2026?"
 category: "tech"
 status: "active"
-lastUpdated: 2026-06-19
+lastUpdated: 2026-06-20
 expiryDate: 2026-10-10
 tags: ["polymarket", "tech"]
 polymarketYes: 0.7
 polymarketNo: 99.4
-polymarketVolume: 981730
+polymarketVolume: 990669
 polymarketUrl: "https://polymarket.com/event/will-elon-musk-win-the-nobel-peace-prize-in-2026-756"
 ---
 
@@ -17,13 +17,17 @@ polymarketUrl: "https://polymarket.com/event/will-elon-musk-win-the-nobel-peace-
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.7% | 99.4% | $982K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.7% | 99.4% | $991K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+
+## Related Markets
+
+- [Will SpaceX have 14+ launches in June 2026?](/odds/will-spacex-have-14-launches-in-june-2026) — 62% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Elon Musk win the Nobel Peace Prize in 2026?"?
 
-As of June 19, 2026, Polymarket prices YES at 0.7%.
+As of June 20, 2026, Polymarket prices YES at 0.7%.
 
 ### Where can I trade on this prediction market?
 

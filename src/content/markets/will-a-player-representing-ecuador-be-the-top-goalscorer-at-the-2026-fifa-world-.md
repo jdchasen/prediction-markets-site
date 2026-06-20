@@ -4,7 +4,7 @@ description: "Will a player representing Ecuador be the top goalscorer at the 20
 marketQuestion: "Will a player representing Ecuador be the top goalscorer at the 2026 FIFA World Cup?"
 category: "sports"
 status: "active"
-lastUpdated: 2026-06-19
+lastUpdated: 2026-06-20
 expiryDate: 2026-08-20
 tags: ["polymarket", "sports"]
 polymarketYes: 0.1
@@ -21,15 +21,15 @@ polymarketUrl: "https://polymarket.com/event/will-a-player-representing-ecuador-
 
 ## Related Markets
 
-- [Will Haiti win Group C in the 2026 FIFA World Cup?](/odds/will-haiti-win-group-c-in-the-2026-fifa-world-cup) — 0% YES
-- [Will Baker Mayfield win the 2026 NFL MVP?](/odds/will-baker-mayfield-win-the-2026-nfl-mvp) — 1% YES
 - [Will Memphis Grizzlies win the 2027 NBA Finals?](/odds/will-memphis-grizzlies-win-the-2027-nba-finals) — 1% YES
+- [Will Tunisia win Group F in the 2026 FIFA World Cup?](/odds/will-tunisia-win-group-f-in-the-2026-fifa-world-cup) — 0% YES
+- [Will Baker Mayfield win the 2026 NFL MVP?](/odds/will-baker-mayfield-win-the-2026-nfl-mvp) — 1% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will a player representing Ecuador be the top goalscorer at the 2026 FIFA World Cup?"?
 
-As of June 19, 2026, Polymarket prices YES at 0.1%.
+As of June 20, 2026, Polymarket prices YES at 0.1%.
 
 ### Where can I trade on this prediction market?
 

@@ -4,12 +4,12 @@ description: "Will the Democratic Party win the WA-10 House seat? Odds: 93.5% YE
 marketQuestion: "Will the Democratic Party win the WA-10 House seat?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-06-19
+lastUpdated: 2026-06-20
 expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
 polymarketYes: 93.5
 polymarketNo: 6.5
-polymarketVolume: 9784
+polymarketVolume: 9812
 polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-wa-10-house-seat"
 ---
 
@@ -22,14 +22,14 @@ polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-w
 ## Related Markets
 
 - [Will Nikki Haley win the 2028 Republican presidential nomination?](/odds/will-nikki-haley-win-the-2028-republican-presidential-nomination) — 1% YES
-- [ Iran agrees to end enrichment of uranium by June 30?](/odds/iran-agrees-to-end-enrichment-of-uranium-by-june-30) — 4% YES
 - [Will James Talarico win the 2028 Democratic presidential nomination?](/odds/will-james-talarico-win-the-2028-democratic-presidential-nomination) — 2% YES
+- [Trump announces US x Iran ceasefire over by June 30?](/odds/trump-announces-us-x-iran-ceasefire-over-by-june-30) — 4% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will the Democratic Party win the WA-10 House seat?"?
 
-As of June 19, 2026, Polymarket prices YES at 93.5%.
+As of June 20, 2026, Polymarket prices YES at 93.5%.
 
 ### Where can I trade on this prediction market?
 

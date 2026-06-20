@@ -1,15 +1,15 @@
 ---
 title: "Will Memphis Grizzlies win the 2027 NBA Finals?"
-description: "Will Memphis Grizzlies win the 2027 NBA Finals? Odds: 0.9% YES on Polymarket. See live prices and trade this market."
+description: "Will Memphis Grizzlies win the 2027 NBA Finals? Odds: 0.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Memphis Grizzlies win the 2027 NBA Finals?"
 category: "sports"
 status: "active"
-lastUpdated: 2026-06-19
+lastUpdated: 2026-06-20
 expiryDate: 2027-07-01
 tags: ["polymarket", "sports"]
-polymarketYes: 0.9
-polymarketNo: 99.1
-polymarketVolume: 98727
+polymarketYes: 0.8
+polymarketNo: 99.2
+polymarketVolume: 99544
 polymarketUrl: "https://polymarket.com/event/will-memphis-grizzlies-win-the-2027-nba-finals"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-memphis-grizzlies-win-the-2027
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.9% | 99.1% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.8% | 99.2% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Haiti win Group C in the 2026 FIFA World Cup?](/odds/will-haiti-win-group-c-in-the-2026-fifa-world-cup) — 0% YES
+- [Will Tunisia win Group F in the 2026 FIFA World Cup?](/odds/will-tunisia-win-group-f-in-the-2026-fifa-world-cup) — 0% YES
 - [Will Baker Mayfield win the 2026 NFL MVP?](/odds/will-baker-mayfield-win-the-2026-nfl-mvp) — 1% YES
-- [Will Morocco advance to the knockout stages at the 2026 FIFA World Cup?](/odds/will-morocco-advance-to-the-knockout-stages-at-the-2026-fifa-world-cup) — 95% YES
+- [Will Argentina reach the Quarterfinals at the 2026 FIFA World Cup?](/odds/will-argentina-reach-the-quarterfinals-at-the-2026-fifa-world-cup) — 58% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Memphis Grizzlies win the 2027 NBA Finals?"?
 
-As of June 19, 2026, Polymarket prices YES at 0.9%.
+As of June 20, 2026, Polymarket prices YES at 0.8%.
 
 ### Where can I trade on this prediction market?
 
