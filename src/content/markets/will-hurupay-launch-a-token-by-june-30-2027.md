@@ -21,9 +21,9 @@ polymarketUrl: "https://polymarket.com/event/will-hurupay-launch-a-token-by-june
 
 ## Related Markets
 
-- [Predict.fun FDV above $300M one day after launch?](/odds/predictfun-fdv-above-300m-one-day-after-launch) — 72% YES
-- [Will Bitcoin reach $70,000 in June?](/odds/will-bitcoin-reach-70000-in-june) — 8% YES
-- [Will MetaMask launch a token by September 30, 2026?](/odds/will-metamask-launch-a-token-by-september-30-2026) — 5% YES
+- [Predict.fun FDV above $300M one day after launch?](/odds/predictfun-fdv-above-300m-one-day-after-launch) — 73% YES
+- [Will Bitcoin reach $70,000 in June?](/odds/will-bitcoin-reach-70000-in-june) — 10% YES
+- [Will MetaMask launch a token by September 30, 2026?](/odds/will-metamask-launch-a-token-by-september-30-2026) — 9% YES
 
 ## Frequently Asked Questions
 

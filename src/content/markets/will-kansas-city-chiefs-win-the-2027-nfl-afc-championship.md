@@ -21,9 +21,9 @@ polymarketUrl: "https://polymarket.com/event/will-kansas-city-chiefs-win-the-202
 
 ## Related Markets
 
-- [Will Memphis Grizzlies win the 2027 NBA Finals?](/odds/will-memphis-grizzlies-win-the-2027-nba-finals) — 1% YES
-- [Will Tunisia win Group F in the 2026 FIFA World Cup?](/odds/will-tunisia-win-group-f-in-the-2026-fifa-world-cup) — 0% YES
 - [Will Baker Mayfield win the 2026 NFL MVP?](/odds/will-baker-mayfield-win-the-2026-nfl-mvp) — 1% YES
+- [Will Argentina reach the Quarterfinals at the 2026 FIFA World Cup?](/odds/will-argentina-reach-the-quarterfinals-at-the-2026-fifa-world-cup) — 60% YES
+- [Will Scotland be eliminated in Group Stage stage of the World Cup?](/odds/will-scotland-be-eliminated-in-group-stage-stage-of-the-world-cup) — 34% YES
 
 ## Frequently Asked Questions
 

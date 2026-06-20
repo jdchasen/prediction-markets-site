@@ -9,7 +9,7 @@ expiryDate: 2026-07-19
 tags: ["polymarket", "sports"]
 polymarketYes: 34.5
 polymarketNo: 65.5
-polymarketVolume: 9813
+polymarketVolume: 9951
 polymarketUrl: "https://polymarket.com/event/will-scotland-be-eliminated-in-group-stage-stage-of-the-world-cup-20260605224224503"
 ---
 
@@ -21,9 +21,9 @@ polymarketUrl: "https://polymarket.com/event/will-scotland-be-eliminated-in-grou
 
 ## Related Markets
 
-- [Will Memphis Grizzlies win the 2027 NBA Finals?](/odds/will-memphis-grizzlies-win-the-2027-nba-finals) — 1% YES
-- [Will Tunisia win Group F in the 2026 FIFA World Cup?](/odds/will-tunisia-win-group-f-in-the-2026-fifa-world-cup) — 0% YES
 - [Will Baker Mayfield win the 2026 NFL MVP?](/odds/will-baker-mayfield-win-the-2026-nfl-mvp) — 1% YES
+- [Will Argentina reach the Quarterfinals at the 2026 FIFA World Cup?](/odds/will-argentina-reach-the-quarterfinals-at-the-2026-fifa-world-cup) — 60% YES
+- [Will Kansas City Chiefs win the 2027 NFL AFC Championship?](/odds/will-kansas-city-chiefs-win-the-2027-nfl-afc-championship) — 10% YES
 
 ## Frequently Asked Questions
 

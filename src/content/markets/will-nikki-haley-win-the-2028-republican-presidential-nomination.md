@@ -9,7 +9,7 @@ expiryDate: 2028-11-07
 tags: ["politics", "polymarket"]
 polymarketYes: 0.9
 polymarketNo: 99.2
-polymarketVolume: 9977948
+polymarketVolume: 9978476
 polymarketUrl: "https://polymarket.com/event/will-nikki-haley-win-the-2028-republican-presidential-nomination"
 ---
 
@@ -22,7 +22,7 @@ polymarketUrl: "https://polymarket.com/event/will-nikki-haley-win-the-2028-repub
 ## Related Markets
 
 - [Will James Talarico win the 2028 Democratic presidential nomination?](/odds/will-james-talarico-win-the-2028-democratic-presidential-nomination) — 2% YES
-- [Trump announces US x Iran ceasefire over by June 30?](/odds/trump-announces-us-x-iran-ceasefire-over-by-june-30) — 4% YES
+- [Will Eduardo Bolsonaro win the 2026 Brazilian presidential election?](/odds/will-eduardo-bolsonaro-win-the-2026-brazilian-presidential-election) — 0% YES
 - [Will Jalen Brunson win the 2028 US Presidential Election?](/odds/will-jalen-brunson-win-the-2028-us-presidential-election) — 0% YES
 
 ## Frequently Asked Questions

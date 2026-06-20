@@ -22,7 +22,7 @@ polymarketUrl: "https://polymarket.com/event/will-fujimori-win-the-2nd-round-of-
 
 - [Will Nikki Haley win the 2028 Republican presidential nomination?](/odds/will-nikki-haley-win-the-2028-republican-presidential-nomination) — 1% YES
 - [Will James Talarico win the 2028 Democratic presidential nomination?](/odds/will-james-talarico-win-the-2028-democratic-presidential-nomination) — 2% YES
-- [Trump announces US x Iran ceasefire over by June 30?](/odds/trump-announces-us-x-iran-ceasefire-over-by-june-30) — 4% YES
+- [Will Eduardo Bolsonaro win the 2026 Brazilian presidential election?](/odds/will-eduardo-bolsonaro-win-the-2026-brazilian-presidential-election) — 0% YES
 
 ## Frequently Asked Questions
 

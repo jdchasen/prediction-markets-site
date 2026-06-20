@@ -1,22 +1,23 @@
 ---
-title: "Will the Republicans win the Oklahoma governor race in 2026?"
-description: "Will the Republicans win the Oklahoma governor race in 2026? Odds: 91.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will the Republicans win the Oklahoma governor race in 2026?"
+title: "Will Tommy Paul be the 2026 Men’s Wimbledon winner?"
+description: "Will Tommy Paul be the 2026 Men’s Wimbledon winner? Odds: 0.8% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Tommy Paul be the 2026 Men’s Wimbledon winner?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-06-20
+expiryDate: 2026-07-12
 tags: ["politics", "polymarket"]
-polymarketYes: 91.5
-polymarketNo: 8.5
-polymarketVolume: 9841
-polymarketUrl: "https://polymarket.com/event/will-the-republicans-win-the-oklahoma-governor-race-in-2026"
+polymarketYes: 0.8
+polymarketNo: 99.2
+polymarketVolume: 98343
+polymarketUrl: "https://polymarket.com/event/will-tommy-paul-be-the-2026-mens-wimbledon-winner"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 91.5% | 8.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.8% | 99.2% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -26,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-the-republicans-win-the-oklaho
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will the Republicans win the Oklahoma governor race in 2026?"?
+### What are the current odds for "Will Tommy Paul be the 2026 Men’s Wimbledon winner?"?
 
-As of June 20, 2026, Polymarket prices YES at 91.5%.
+As of June 20, 2026, Polymarket prices YES at 0.8%.
 
 ### Where can I trade on this prediction market?
 

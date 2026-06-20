@@ -23,7 +23,7 @@ polymarketUrl: "https://polymarket.com/event/will-gold-gc-hit-high-5300-by-end-o
 
 - [Anysphere (Cursor) IPO before 2027?](/odds/anysphere-cursor-ipo-before-2027) — 2% YES
 - [Will SHEIN have the highest IPO Market Cap 2026?](/odds/will-shein-have-the-highest-ipo-market-cap-2026) — 0% YES
-- [Will S&P 500 (SPY) hit (LOW) $720 in June?](/odds/will-sp-500-spy-hit-low-720-in-june) — 16% YES
+- [Nasdaq round-the-clock trading by June 30?](/odds/nasdaq-round-the-clock-trading-by-june-30) — 1% YES
 
 ## Frequently Asked Questions
 

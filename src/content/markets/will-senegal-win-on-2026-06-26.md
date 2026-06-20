@@ -3,7 +3,7 @@ title: "Will Senegal win on 2026-06-26?"
 description: "Will Senegal win on 2026-06-26? Odds: 74.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Senegal win on 2026-06-26?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-20
 expiryDate: 2026-06-26
 tags: ["politics", "polymarket"]

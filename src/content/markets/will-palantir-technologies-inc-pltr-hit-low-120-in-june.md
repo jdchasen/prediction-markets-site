@@ -3,7 +3,7 @@ title: "Will Palantir Technologies Inc. (PLTR) hit (LOW) $120 in June?"
 description: "Will Palantir Technologies Inc. (PLTR) hit (LOW) $120 in June? Odds: 36.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Palantir Technologies Inc. (PLTR) hit (LOW) $120 in June?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-20
 expiryDate: 2026-07-01
 tags: ["politics", "polymarket"]

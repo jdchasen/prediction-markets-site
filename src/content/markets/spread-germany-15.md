@@ -1,23 +1,23 @@
 ---
-title: "Will Silver (SI) settle at <$50 in June?"
-description: "Will Silver (SI) settle at <$50 in June? Odds: 1.2% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Silver (SI) settle at <$50 in June?"
+title: "Spread: Germany (-1.5)"
+description: "Spread: Germany (-1.5) Odds: 28.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Spread: Germany (-1.5)"
 category: "politics"
 status: "active"
 lastUpdated: 2026-06-20
-expiryDate: 2026-06-30
+expiryDate: 2026-06-25
 tags: ["politics", "polymarket"]
-polymarketYes: 1.2
-polymarketNo: 98.8
-polymarketVolume: 99890
-polymarketUrl: "https://polymarket.com/event/si-settle-below-50-jun-2026"
+polymarketYes: 28.5
+polymarketNo: 71.5
+polymarketVolume: 9858
+polymarketUrl: "https://polymarket.com/event/fifwc-ecu-ger-2026-06-25-spread-away-1pt5"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 1.2% | 98.8% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 28.5% | 71.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,16 +27,11 @@ polymarketUrl: "https://polymarket.com/event/si-settle-below-50-jun-2026"
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Silver (SI) settle at <$50 in June?"?
+### What are the current odds for "Spread: Germany (-1.5)"?
 
-As of June 20, 2026, Polymarket prices YES at 1.2%.
+As of June 20, 2026, Polymarket prices YES at 28.5%.
 
 ### Where can I trade on this prediction market?
 
 You can trade this market on [Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) (crypto-based).
-
-## Learn More
-
-- [Will Oil Hit $100? March Crude Prediction Market Odds](/blog/will-oil-hit-100-march-crude-prediction-market-odds)
-- [Will MicroStrategy Sell Bitcoin? Market Odds](/blog/will-microstrategy-sell-bitcoin-market-odds)
 

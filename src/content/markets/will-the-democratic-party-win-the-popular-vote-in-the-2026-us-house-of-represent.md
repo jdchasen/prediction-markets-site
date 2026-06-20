@@ -1,22 +1,23 @@
 ---
-title: "Will the Republicans win the Oklahoma governor race in 2026?"
-description: "Will the Republicans win the Oklahoma governor race in 2026? Odds: 91.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will the Republicans win the Oklahoma governor race in 2026?"
+title: "Will the Democratic Party win the popular vote in the 2026 U.S. House of Representatives midterm elections by between 6% and 8%?"
+description: "Will the Democratic Party win the popular vote in the 2026 U.S. House of Representatives midterm elections by between 6% and 8%? Odds: 17.5% YES on Polymarke..."
+marketQuestion: "Will the Democratic Party win the popular vote in the 2026 U.S. House of Representatives midterm elections by between 6% and 8%?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-06-20
-tags: ["politics", "polymarket"]
-polymarketYes: 91.5
-polymarketNo: 8.5
-polymarketVolume: 9841
-polymarketUrl: "https://polymarket.com/event/will-the-republicans-win-the-oklahoma-governor-race-in-2026"
+expiryDate: 2026-11-03
+tags: ["elections", "politics", "polymarket"]
+polymarketYes: 17.5
+polymarketNo: 82.5
+polymarketVolume: 9721
+polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-popular-vote-in-the-2026-us-house-of-representatives-midterm-elections-by-between-6-and-8-942"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 91.5% | 8.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 17.5% | 82.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -26,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-the-republicans-win-the-oklaho
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will the Republicans win the Oklahoma governor race in 2026?"?
+### What are the current odds for "Will the Democratic Party win the popular vote in the 2026 U.S. House of Representatives midterm elections by between 6% and 8%?"?
 
-As of June 20, 2026, Polymarket prices YES at 91.5%.
+As of June 20, 2026, Polymarket prices YES at 17.5%.
 
 ### Where can I trade on this prediction market?
 

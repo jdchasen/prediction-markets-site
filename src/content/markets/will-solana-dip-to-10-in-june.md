@@ -3,7 +3,7 @@ title: "Will Solana dip to $10 in June?"
 description: "Will Solana dip to $10 in June? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Solana dip to $10 in June?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-20
 expiryDate: 2026-07-01
 tags: ["politics", "polymarket"]

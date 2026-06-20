@@ -1,15 +1,15 @@
 ---
 title: "Will Bitcoin reach $70,000 in June?"
-description: "Will Bitcoin reach $70,000 in June? Odds: 8.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Bitcoin reach $70,000 in June? Odds: 9.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Bitcoin reach $70,000 in June?"
 category: "crypto"
 status: "active"
 lastUpdated: 2026-06-20
 expiryDate: 2026-07-01
 tags: ["bitcoin", "crypto", "polymarket"]
-polymarketYes: 8.5
-polymarketNo: 91.5
-polymarketVolume: 975518
+polymarketYes: 9.5
+polymarketNo: 90.5
+polymarketVolume: 986935
 polymarketUrl: "https://polymarket.com/event/will-bitcoin-reach-70000-in-june-2026-from-june-2"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-bitcoin-reach-70000-in-june-20
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 8.5% | 91.5% | $976K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 9.5% | 90.5% | $987K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Predict.fun FDV above $300M one day after launch?](/odds/predictfun-fdv-above-300m-one-day-after-launch) — 72% YES
-- [Will MetaMask launch a token by September 30, 2026?](/odds/will-metamask-launch-a-token-by-september-30-2026) — 5% YES
+- [Predict.fun FDV above $300M one day after launch?](/odds/predictfun-fdv-above-300m-one-day-after-launch) — 73% YES
+- [Will MetaMask launch a token by September 30, 2026?](/odds/will-metamask-launch-a-token-by-september-30-2026) — 9% YES
 - [Extended FDV above $2B one day after launch?](/odds/extended-fdv-above-2b-one-day-after-launch) — 4% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Bitcoin reach $70,000 in June?"?
 
-As of June 20, 2026, Polymarket prices YES at 8.5%.
+As of June 20, 2026, Polymarket prices YES at 9.5%.
 
 ### Where can I trade on this prediction market?
 

@@ -3,13 +3,13 @@ title: "Will Lovable be acquired before 2027?"
 description: "Will Lovable be acquired before 2027? Odds: 22.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Lovable be acquired before 2027?"
 category: "politics"
-status: "settled"
-lastUpdated: 2026-06-19
+status: "active"
+lastUpdated: 2026-06-20
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 22.5
 polymarketNo: 77.5
-polymarketVolume: 972412
+polymarketVolume: 972437
 polymarketUrl: "https://polymarket.com/event/will-lovable-be-acquired-before-2027-423-881"
 ---
 
@@ -23,13 +23,13 @@ polymarketUrl: "https://polymarket.com/event/will-lovable-be-acquired-before-202
 
 - [Will Nikki Haley win the 2028 Republican presidential nomination?](/odds/will-nikki-haley-win-the-2028-republican-presidential-nomination) — 1% YES
 - [Will James Talarico win the 2028 Democratic presidential nomination?](/odds/will-james-talarico-win-the-2028-democratic-presidential-nomination) — 2% YES
-- [Will Alibaba have the best AI model at the end of June 2026?](/odds/will-alibaba-have-the-best-ai-model-at-the-end-of-june-2026) — 0% YES
+- [Will Eduardo Bolsonaro win the 2026 Brazilian presidential election?](/odds/will-eduardo-bolsonaro-win-the-2026-brazilian-presidential-election) — 0% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Lovable be acquired before 2027?"?
 
-As of June 18, 2026, Polymarket prices YES at 22.5%.
+As of June 20, 2026, Polymarket prices YES at 22.5%.
 
 ### Where can I trade on this prediction market?
 

@@ -1,22 +1,23 @@
 ---
-title: "Will the Republicans win the Oklahoma governor race in 2026?"
-description: "Will the Republicans win the Oklahoma governor race in 2026? Odds: 91.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will the Republicans win the Oklahoma governor race in 2026?"
+title: "Will Atlanta Dream win the 2026 WNBA Finals?"
+description: "Will Atlanta Dream win the 2026 WNBA Finals? Odds: 11.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Atlanta Dream win the 2026 WNBA Finals?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-06-20
-tags: ["politics", "polymarket"]
-polymarketYes: 91.5
-polymarketNo: 8.5
-polymarketVolume: 9841
-polymarketUrl: "https://polymarket.com/event/will-the-republicans-win-the-oklahoma-governor-race-in-2026"
+expiryDate: 2026-10-31
+tags: ["politics", "polymarket", "sports"]
+polymarketYes: 11.5
+polymarketNo: 88.5
+polymarketVolume: 9882
+polymarketUrl: "https://polymarket.com/event/will-atlanta-dream-win-the-2026-wnba-finals-857"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 91.5% | 8.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 11.5% | 88.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -26,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-the-republicans-win-the-oklaho
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will the Republicans win the Oklahoma governor race in 2026?"?
+### What are the current odds for "Will Atlanta Dream win the 2026 WNBA Finals?"?
 
-As of June 20, 2026, Polymarket prices YES at 91.5%.
+As of June 20, 2026, Polymarket prices YES at 11.5%.
 
 ### Where can I trade on this prediction market?
 

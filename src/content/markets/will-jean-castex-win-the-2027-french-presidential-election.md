@@ -9,7 +9,7 @@ expiryDate: 2027-04-30
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.7
 polymarketNo: 99.4
-polymarketVolume: 974939
+polymarketVolume: 975448
 polymarketUrl: "https://polymarket.com/event/will-jean-castex-win-the-2027-french-presidential-election"
 ---
 
@@ -23,7 +23,7 @@ polymarketUrl: "https://polymarket.com/event/will-jean-castex-win-the-2027-frenc
 
 - [Will Nikki Haley win the 2028 Republican presidential nomination?](/odds/will-nikki-haley-win-the-2028-republican-presidential-nomination) — 1% YES
 - [Will James Talarico win the 2028 Democratic presidential nomination?](/odds/will-james-talarico-win-the-2028-democratic-presidential-nomination) — 2% YES
-- [Trump announces US x Iran ceasefire over by June 30?](/odds/trump-announces-us-x-iran-ceasefire-over-by-june-30) — 4% YES
+- [Will Eduardo Bolsonaro win the 2026 Brazilian presidential election?](/odds/will-eduardo-bolsonaro-win-the-2026-brazilian-presidential-election) — 0% YES
 
 ## Frequently Asked Questions
 

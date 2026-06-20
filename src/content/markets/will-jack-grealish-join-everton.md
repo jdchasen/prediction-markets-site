@@ -1,23 +1,23 @@
 ---
-title: "Will the Democratic Party win the WA-10 House seat?"
-description: "Will the Democratic Party win the WA-10 House seat? Odds: 93.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will the Democratic Party win the WA-10 House seat?"
+title: "Will Jack Grealish join Everton?"
+description: "Will Jack Grealish join Everton? Odds: 58.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Jack Grealish join Everton?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-06-20
-expiryDate: 2026-11-03
+expiryDate: 2026-09-02
 tags: ["politics", "polymarket"]
-polymarketYes: 93.5
-polymarketNo: 6.5
-polymarketVolume: 9812
-polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-wa-10-house-seat"
+polymarketYes: 58.5
+polymarketNo: 41.5
+polymarketVolume: 9815
+polymarketUrl: "https://polymarket.com/event/will-jack-grealish-join-everton-20260612224328398"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 93.5% | 6.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 58.5% | 41.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-w
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will the Democratic Party win the WA-10 House seat?"?
+### What are the current odds for "Will Jack Grealish join Everton?"?
 
-As of June 20, 2026, Polymarket prices YES at 93.5%.
+As of June 20, 2026, Polymarket prices YES at 58.5%.
 
 ### Where can I trade on this prediction market?
 

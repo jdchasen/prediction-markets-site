@@ -1,33 +1,33 @@
 ---
-title: "Will Francisco Cerúndolo be the 2026 Men’s Wimbledon winner?"
-description: "Will Francisco Cerúndolo be the 2026 Men’s Wimbledon winner? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Francisco Cerúndolo be the 2026 Men’s Wimbledon winner?"
+title: "Will Eduardo Bolsonaro win the 2026 Brazilian presidential election?"
+description: "Will Eduardo Bolsonaro win the 2026 Brazilian presidential election? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Eduardo Bolsonaro win the 2026 Brazilian presidential election?"
 category: "politics"
-status: "settled"
+status: "active"
 lastUpdated: 2026-06-20
-expiryDate: 2026-07-12
-tags: ["politics", "polymarket"]
+expiryDate: 2026-10-04
+tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.1
 polymarketNo: 99.9
-polymarketVolume: 98901
-polymarketUrl: "https://polymarket.com/event/will-francisco-cerndolo-be-the-2026-mens-wimbledon-winner"
+polymarketVolume: 9720782
+polymarketUrl: "https://polymarket.com/event/will-eduardo-bolsonaro-win-the-2026-brazilian-presidential-election"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.1% | 99.9% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.1% | 99.9% | $9.7M | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Nikki Haley win the 2028 Republican presidential nomination?](/odds/will-nikki-haley-win-the-2028-republican-presidential-nomination) — 1% YES
 - [Will James Talarico win the 2028 Democratic presidential nomination?](/odds/will-james-talarico-win-the-2028-democratic-presidential-nomination) — 2% YES
-- [Trump announces US x Iran ceasefire over by June 30?](/odds/trump-announces-us-x-iran-ceasefire-over-by-june-30) — 4% YES
+- [Will Jalen Brunson win the 2028 US Presidential Election?](/odds/will-jalen-brunson-win-the-2028-us-presidential-election) — 0% YES
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Francisco Cerúndolo be the 2026 Men’s Wimbledon winner?"?
+### What are the current odds for "Will Eduardo Bolsonaro win the 2026 Brazilian presidential election?"?
 
 As of June 20, 2026, Polymarket prices YES at 0.1%.
 

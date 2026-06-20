@@ -3,7 +3,7 @@ title: "Will Morocco vs. Haiti end in a draw?"
 description: "Will Morocco vs. Haiti end in a draw? Odds: 13.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Morocco vs. Haiti end in a draw?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-20
 expiryDate: 2026-06-24
 tags: ["ai", "politics", "polymarket"]

@@ -9,7 +9,7 @@ expiryDate: 2026-10-10
 tags: ["polymarket", "tech"]
 polymarketYes: 0.7
 polymarketNo: 99.4
-polymarketVolume: 990669
+polymarketVolume: 992894
 polymarketUrl: "https://polymarket.com/event/will-elon-musk-win-the-nobel-peace-prize-in-2026-756"
 ---
 
@@ -17,11 +17,11 @@ polymarketUrl: "https://polymarket.com/event/will-elon-musk-win-the-nobel-peace-
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.7% | 99.4% | $991K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.7% | 99.4% | $993K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will SpaceX have 14+ launches in June 2026?](/odds/will-spacex-have-14-launches-in-june-2026) — 62% YES
+- [Will SpaceX have 14+ launches in June 2026?](/odds/will-spacex-have-14-launches-in-june-2026) — 65% YES
 
 ## Frequently Asked Questions
 

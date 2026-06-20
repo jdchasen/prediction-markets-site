@@ -1,14 +1,14 @@
 ---
 title: "Will annual inflation be 4.6% in June?"
-description: "Will annual inflation be 4.6% in June? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
+description: "Will annual inflation be 4.6% in June? Odds: 0.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will annual inflation be 4.6% in June?"
 category: "economics"
 status: "active"
 lastUpdated: 2026-06-20
 expiryDate: 2026-07-15
 tags: ["economics", "polymarket", "sports"]
-polymarketYes: 0.1
-polymarketNo: 99.9
+polymarketYes: 0.5
+polymarketNo: 99.5
 polymarketVolume: 9724
 polymarketUrl: "https://polymarket.com/event/will-annual-inflation-be-4pt6-in-june-20260610151731668"
 ---
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-annual-inflation-be-4pt6-in-ju
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.1% | 99.9% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.5% | 99.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-annual-inflation-be-4pt6-in-ju
 
 ### What are the current odds for "Will annual inflation be 4.6% in June?"?
 
-As of June 20, 2026, Polymarket prices YES at 0.1%.
+As of June 20, 2026, Polymarket prices YES at 0.5%.
 
 ### Where can I trade on this prediction market?
 

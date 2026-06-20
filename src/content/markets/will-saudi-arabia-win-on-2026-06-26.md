@@ -1,22 +1,23 @@
 ---
-title: "Will the Republicans win the Oklahoma governor race in 2026?"
-description: "Will the Republicans win the Oklahoma governor race in 2026? Odds: 91.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will the Republicans win the Oklahoma governor race in 2026?"
+title: "Will Saudi Arabia win on 2026-06-26?"
+description: "Will Saudi Arabia win on 2026-06-26? Odds: 40.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Saudi Arabia win on 2026-06-26?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-06-20
+expiryDate: 2026-06-27
 tags: ["politics", "polymarket"]
-polymarketYes: 91.5
-polymarketNo: 8.5
-polymarketVolume: 9841
-polymarketUrl: "https://polymarket.com/event/will-the-republicans-win-the-oklahoma-governor-race-in-2026"
+polymarketYes: 40.5
+polymarketNo: 59.5
+polymarketVolume: 97620
+polymarketUrl: "https://polymarket.com/event/fifwc-cvi-ksa-2026-06-26-ksa"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 91.5% | 8.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 40.5% | 59.5% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -26,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-the-republicans-win-the-oklaho
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will the Republicans win the Oklahoma governor race in 2026?"?
+### What are the current odds for "Will Saudi Arabia win on 2026-06-26?"?
 
-As of June 20, 2026, Polymarket prices YES at 91.5%.
+As of June 20, 2026, Polymarket prices YES at 40.5%.
 
 ### Where can I trade on this prediction market?
 

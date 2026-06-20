@@ -3,7 +3,7 @@ title: "Trump announces US x Iran ceasefire over by June 30?"
 description: "Trump announces US x Iran ceasefire over by June 30? Odds: 3.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Trump announces US x Iran ceasefire over by June 30?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-20
 expiryDate: 2026-07-01
 tags: ["politics", "polymarket", "trump"]
