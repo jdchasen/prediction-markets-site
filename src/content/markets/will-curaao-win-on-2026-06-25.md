@@ -3,8 +3,8 @@ title: "Will Curaçao win on 2026-06-25?"
 description: "Will Curaçao win on 2026-06-25? Odds: 4.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Curaçao win on 2026-06-25?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-06-20
+status: "settled"
+lastUpdated: 2026-06-21
 expiryDate: 2026-06-25
 tags: ["politics", "polymarket"]
 polymarketYes: 4.5

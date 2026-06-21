@@ -4,7 +4,7 @@ description: "Will any AI model reach 1530 Overall Arena Score by June 30, 2026?
 marketQuestion: "Will any AI model reach 1530 Overall Arena Score by June 30, 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-06-20
+lastUpdated: 2026-06-21
 expiryDate: 2026-06-30
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 0.8
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-any-ai-model-reach-1530-overal
 
 ### What are the current odds for "Will any AI model reach 1530 Overall Arena Score by June 30, 2026?"?
 
-As of June 20, 2026, Polymarket prices YES at 0.8%.
+As of June 21, 2026, Polymarket prices YES at 0.8%.
 
 ### Where can I trade on this prediction market?
 

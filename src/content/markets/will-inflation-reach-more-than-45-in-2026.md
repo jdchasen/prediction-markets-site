@@ -4,12 +4,12 @@ description: "Will inflation reach more than 4.5% in 2026? Odds: 20.5% YES on Po
 marketQuestion: "Will inflation reach more than 4.5% in 2026?"
 category: "economics"
 status: "active"
-lastUpdated: 2026-06-20
+lastUpdated: 2026-06-21
 expiryDate: 2026-12-31
 tags: ["economics", "polymarket", "sports"]
 polymarketYes: 20.5
 polymarketNo: 79.5
-polymarketVolume: 95087
+polymarketVolume: 95349
 polymarketUrl: "https://polymarket.com/event/will-inflation-reach-more-than-4pt5-in-2026"
 ---
 
@@ -22,14 +22,13 @@ polymarketUrl: "https://polymarket.com/event/will-inflation-reach-more-than-4pt5
 ## Related Markets
 
 - [Will the Fed increase interest rates by 50+ bps after the September 2026 meeting?](/odds/will-the-fed-increase-interest-rates-by-50-bps-after-the-september-2026-meeting) — 2% YES
-- [Will China GDP growth in Q2 2026 be between 4.9% and 5.2%?](/odds/will-china-gdp-growth-in-q2-2026-be-between-49-and-52) — 4% YES
-- [Will annual inflation be 4.6% in June?](/odds/will-annual-inflation-be-46-in-june) — 0% YES
+- [Will annual inflation be 4.7% or more in June?](/odds/will-annual-inflation-be-47-or-more-in-june) — 0% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will inflation reach more than 4.5% in 2026?"?
 
-As of June 20, 2026, Polymarket prices YES at 20.5%.
+As of June 21, 2026, Polymarket prices YES at 20.5%.
 
 ### Where can I trade on this prediction market?
 

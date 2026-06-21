@@ -3,8 +3,8 @@ title: "Will Switzerland be the highest-scoring team in Group B during the Group
 description: "Will Switzerland be the highest-scoring team in Group B during the Group Stage of the 2026 FIFA World Cup? Odds: 26.5% YES on Polymarket. See live prices and..."
 marketQuestion: "Will Switzerland be the highest-scoring team in Group B during the Group Stage of the 2026 FIFA World Cup?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-06-20
+status: "settled"
+lastUpdated: 2026-06-21
 expiryDate: 2026-07-12
 tags: ["polymarket", "sports"]
 polymarketYes: 26.5

@@ -3,8 +3,8 @@ title: "Will Saudi Arabia win on 2026-06-26?"
 description: "Will Saudi Arabia win on 2026-06-26? Odds: 40.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Saudi Arabia win on 2026-06-26?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-06-20
+status: "settled"
+lastUpdated: 2026-06-21
 expiryDate: 2026-06-27
 tags: ["politics", "polymarket"]
 polymarketYes: 40.5

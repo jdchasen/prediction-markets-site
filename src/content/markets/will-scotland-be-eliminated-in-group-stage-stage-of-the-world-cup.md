@@ -3,8 +3,8 @@ title: "Will Scotland be eliminated in Group Stage stage of the World Cup?"
 description: "Will Scotland be eliminated in Group Stage stage of the World Cup? Odds: 34.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Scotland be eliminated in Group Stage stage of the World Cup?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-06-20
+status: "settled"
+lastUpdated: 2026-06-21
 expiryDate: 2026-07-19
 tags: ["polymarket", "sports"]
 polymarketYes: 34.5

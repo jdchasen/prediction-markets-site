@@ -1,14 +1,14 @@
 ---
 title: "Will the UK designate the IRGC a terrorist organization by June 30? "
-description: "Will the UK designate the IRGC a terrorist organization by June 30?  Odds: 0.7% YES on Polymarket. See live prices and trade this market."
+description: "Will the UK designate the IRGC a terrorist organization by June 30?  Odds: 0.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the UK designate the IRGC a terrorist organization by June 30? "
 category: "politics"
 status: "active"
-lastUpdated: 2026-06-20
+lastUpdated: 2026-06-21
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
-polymarketYes: 0.7
-polymarketNo: 99.3
+polymarketYes: 0.8
+polymarketNo: 99.2
 polymarketVolume: 97782
 polymarketUrl: "https://polymarket.com/event/will-the-uk-designate-the-irgc-a-terrorist-organization-by-june-30"
 ---
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-uk-designate-the-irgc-a-te
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.7% | 99.3% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.8% | 99.2% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-uk-designate-the-irgc-a-te
 
 ### What are the current odds for "Will the UK designate the IRGC a terrorist organization by June 30? "?
 
-As of June 20, 2026, Polymarket prices YES at 0.7%.
+As of June 21, 2026, Polymarket prices YES at 0.8%.
 
 ### Where can I trade on this prediction market?
 

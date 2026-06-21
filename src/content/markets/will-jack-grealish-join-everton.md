@@ -3,8 +3,8 @@ title: "Will Jack Grealish join Everton?"
 description: "Will Jack Grealish join Everton? Odds: 58.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Jack Grealish join Everton?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-06-20
+status: "settled"
+lastUpdated: 2026-06-21
 expiryDate: 2026-09-02
 tags: ["politics", "polymarket"]
 polymarketYes: 58.5

@@ -4,12 +4,12 @@ description: "Will Gold (GC) hit (HIGH) $5,300 by end of June? Odds: 0.5% YES on
 marketQuestion: "Will Gold (GC) hit (HIGH) $5,300 by end of June?"
 category: "finance"
 status: "active"
-lastUpdated: 2026-06-20
+lastUpdated: 2026-06-21
 expiryDate: 2026-06-30
 tags: ["finance", "polymarket"]
 polymarketYes: 0.5
 polymarketNo: 99.5
-polymarketVolume: 98302
+polymarketVolume: 99407
 polymarketUrl: "https://polymarket.com/event/will-gold-gc-hit-high-5300-by-end-of-june-111"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-gold-gc-hit-high-5300-by-end-o
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.5% | 99.5% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.5% | 99.5% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Anysphere (Cursor) IPO before 2027?](/odds/anysphere-cursor-ipo-before-2027) — 2% YES
 - [Will SHEIN have the highest IPO Market Cap 2026?](/odds/will-shein-have-the-highest-ipo-market-cap-2026) — 0% YES
-- [Nasdaq round-the-clock trading by June 30?](/odds/nasdaq-round-the-clock-trading-by-june-30) — 1% YES
+- [Will SpaceX's market cap be less than $1.0T at market close on last trading day of IPO month?](/odds/will-spacexs-market-cap-be-less-than-10t-at-market-close-on-last-trading-day-of-) — 1% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Gold (GC) hit (HIGH) $5,300 by end of June?"?
 
-As of June 20, 2026, Polymarket prices YES at 0.5%.
+As of June 21, 2026, Polymarket prices YES at 0.5%.
 
 ### Where can I trade on this prediction market?
 

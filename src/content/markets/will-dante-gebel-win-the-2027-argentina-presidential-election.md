@@ -4,7 +4,7 @@ description: "Will Dante Gebel win the 2027 Argentina presidential election? Odd
 marketQuestion: "Will Dante Gebel win the 2027 Argentina presidential election?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-06-20
+lastUpdated: 2026-06-21
 expiryDate: 2027-10-24
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.9
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-dante-gebel-win-the-2027-argen
 
 ### What are the current odds for "Will Dante Gebel win the 2027 Argentina presidential election?"?
 
-As of June 20, 2026, Polymarket prices YES at 0.9%.
+As of June 21, 2026, Polymarket prices YES at 0.9%.
 
 ### Where can I trade on this prediction market?
 

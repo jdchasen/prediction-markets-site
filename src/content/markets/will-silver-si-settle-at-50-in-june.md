@@ -4,12 +4,12 @@ description: "Will Silver (SI) settle at <$50 in June? Odds: 1.2% YES on Polymar
 marketQuestion: "Will Silver (SI) settle at <$50 in June?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-06-20
+lastUpdated: 2026-06-21
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
 polymarketYes: 1.2
 polymarketNo: 98.8
-polymarketVolume: 99890
+polymarketVolume: 99897
 polymarketUrl: "https://polymarket.com/event/si-settle-below-50-jun-2026"
 ---
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/si-settle-below-50-jun-2026"
 
 ### What are the current odds for "Will Silver (SI) settle at <$50 in June?"?
 
-As of June 20, 2026, Polymarket prices YES at 1.2%.
+As of June 21, 2026, Polymarket prices YES at 1.2%.
 
 ### Where can I trade on this prediction market?
 

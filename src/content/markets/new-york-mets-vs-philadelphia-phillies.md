@@ -3,8 +3,8 @@ title: "New York Mets vs. Philadelphia Phillies"
 description: "New York Mets vs. Philadelphia Phillies Odds: 36.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "New York Mets vs. Philadelphia Phillies"
 category: "politics"
-status: "active"
-lastUpdated: 2026-06-20
+status: "settled"
+lastUpdated: 2026-06-21
 expiryDate: 2026-06-27
 tags: ["politics", "polymarket"]
 polymarketYes: 36.5

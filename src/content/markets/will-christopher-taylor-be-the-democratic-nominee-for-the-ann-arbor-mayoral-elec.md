@@ -4,7 +4,7 @@ description: "Will Christopher Taylor be the Democratic nominee for the Ann Arbo
 marketQuestion: "Will Christopher Taylor be the Democratic nominee for the Ann Arbor Mayoral Election?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-06-20
+lastUpdated: 2026-06-21
 expiryDate: 2026-08-04
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 57.5
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-christopher-taylor-be-the-demo
 
 ### What are the current odds for "Will Christopher Taylor be the Democratic nominee for the Ann Arbor Mayoral Election?"?
 
-As of June 20, 2026, Polymarket prices YES at 57.5%.
+As of June 21, 2026, Polymarket prices YES at 57.5%.
 
 ### Where can I trade on this prediction market?
 

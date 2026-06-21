@@ -3,8 +3,8 @@ title: "Nasdaq round-the-clock trading by June 30?"
 description: "Nasdaq round-the-clock trading by June 30? Odds: 0.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Nasdaq round-the-clock trading by June 30?"
 category: "finance"
-status: "active"
-lastUpdated: 2026-06-20
+status: "settled"
+lastUpdated: 2026-06-21
 expiryDate: 2026-06-30
 tags: ["finance", "polymarket", "stocks"]
 polymarketYes: 0.7

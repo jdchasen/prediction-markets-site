@@ -4,12 +4,12 @@ description: "Will Pete Buttigieg announce a Presidential run before 2027? Odds:
 marketQuestion: "Will Pete Buttigieg announce a Presidential run before 2027?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-06-20
+lastUpdated: 2026-06-21
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 14.5
 polymarketNo: 85.5
-polymarketVolume: 9949
+polymarketVolume: 9951
 polymarketUrl: "https://polymarket.com/event/will-pete-buttigieg-announce-a-presidential-run-before-2027"
 ---
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-pete-buttigieg-announce-a-pres
 
 ### What are the current odds for "Will Pete Buttigieg announce a Presidential run before 2027?"?
 
-As of June 20, 2026, Polymarket prices YES at 14.5%.
+As of June 21, 2026, Polymarket prices YES at 14.5%.
 
 ### Where can I trade on this prediction market?
 

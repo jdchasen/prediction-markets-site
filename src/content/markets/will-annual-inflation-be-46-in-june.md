@@ -3,8 +3,8 @@ title: "Will annual inflation be 4.6% in June?"
 description: "Will annual inflation be 4.6% in June? Odds: 0.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will annual inflation be 4.6% in June?"
 category: "economics"
-status: "active"
-lastUpdated: 2026-06-20
+status: "settled"
+lastUpdated: 2026-06-21
 expiryDate: 2026-07-15
 tags: ["economics", "polymarket", "sports"]
 polymarketYes: 0.5

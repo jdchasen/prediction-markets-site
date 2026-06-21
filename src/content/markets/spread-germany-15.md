@@ -3,8 +3,8 @@ title: "Spread: Germany (-1.5)"
 description: "Spread: Germany (-1.5) Odds: 28.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Spread: Germany (-1.5)"
 category: "politics"
-status: "active"
-lastUpdated: 2026-06-20
+status: "settled"
+lastUpdated: 2026-06-21
 expiryDate: 2026-06-25
 tags: ["politics", "polymarket"]
 polymarketYes: 28.5

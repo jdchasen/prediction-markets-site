@@ -3,8 +3,8 @@ title: "Will Atlanta Dream win the 2026 WNBA Finals?"
 description: "Will Atlanta Dream win the 2026 WNBA Finals? Odds: 11.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Atlanta Dream win the 2026 WNBA Finals?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-06-20
+status: "settled"
+lastUpdated: 2026-06-21
 expiryDate: 2026-10-31
 tags: ["politics", "polymarket", "sports"]
 polymarketYes: 11.5

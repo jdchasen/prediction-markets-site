@@ -4,11 +4,11 @@ description: "Will Argentina reach the Quarterfinals at the 2026 FIFA World Cup?
 marketQuestion: "Will Argentina reach the Quarterfinals at the 2026 FIFA World Cup?"
 category: "sports"
 status: "active"
-lastUpdated: 2026-06-20
+lastUpdated: 2026-06-21
 tags: ["polymarket", "sports"]
 polymarketYes: 59.5
 polymarketNo: 40.5
-polymarketVolume: 98337
+polymarketVolume: 99431
 polymarketUrl: "https://polymarket.com/event/will-argentina-reach-the-quarterfinals-at-the-2026-fifa-world-cup-20260602145134503"
 ---
 
@@ -16,19 +16,19 @@ polymarketUrl: "https://polymarket.com/event/will-argentina-reach-the-quarterfin
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 59.5% | 40.5% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 59.5% | 40.5% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
+- [Will Arizona Cardinals win the 2027 NFL NFC Championship?](/odds/will-arizona-cardinals-win-the-2027-nfl-nfc-championship) — 1% YES
 - [Will Baker Mayfield win the 2026 NFL MVP?](/odds/will-baker-mayfield-win-the-2026-nfl-mvp) — 1% YES
 - [Will Kansas City Chiefs win the 2027 NFL AFC Championship?](/odds/will-kansas-city-chiefs-win-the-2027-nfl-afc-championship) — 10% YES
-- [Will Scotland be eliminated in Group Stage stage of the World Cup?](/odds/will-scotland-be-eliminated-in-group-stage-stage-of-the-world-cup) — 34% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Argentina reach the Quarterfinals at the 2026 FIFA World Cup?"?
 
-As of June 20, 2026, Polymarket prices YES at 59.5%.
+As of June 21, 2026, Polymarket prices YES at 59.5%.
 
 ### Where can I trade on this prediction market?
 

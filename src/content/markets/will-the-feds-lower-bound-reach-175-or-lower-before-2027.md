@@ -4,12 +4,12 @@ description: "Will the Fed’s lower bound reach 1.75% or lower before 2027? Odd
 marketQuestion: "Will the Fed’s lower bound reach 1.75% or lower before 2027?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-06-20
+lastUpdated: 2026-06-21
 expiryDate: 2026-12-31
 tags: ["federal-reserve", "politics", "polymarket"]
 polymarketYes: 4.5
 polymarketNo: 95.5
-polymarketVolume: 9789
+polymarketVolume: 9792
 polymarketUrl: "https://polymarket.com/event/will-the-feds-lower-bound-reach-1pt75-or-lower-before-2027-123-334-678-153-953-848-473"
 ---
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-feds-lower-bound-reach-1pt
 
 ### What are the current odds for "Will the Fed’s lower bound reach 1.75% or lower before 2027?"?
 
-As of June 20, 2026, Polymarket prices YES at 4.5%.
+As of June 21, 2026, Polymarket prices YES at 4.5%.
 
 ### Where can I trade on this prediction market?
 

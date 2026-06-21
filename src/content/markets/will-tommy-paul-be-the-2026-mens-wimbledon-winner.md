@@ -3,8 +3,8 @@ title: "Will Tommy Paul be the 2026 Men’s Wimbledon winner?"
 description: "Will Tommy Paul be the 2026 Men’s Wimbledon winner? Odds: 0.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Tommy Paul be the 2026 Men’s Wimbledon winner?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-06-20
+status: "settled"
+lastUpdated: 2026-06-21
 expiryDate: 2026-07-12
 tags: ["politics", "polymarket"]
 polymarketYes: 0.8

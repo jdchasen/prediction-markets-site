@@ -4,7 +4,7 @@ description: "Will Switzerland be an advancing Group Stage third-place team at t
 marketQuestion: "Will Switzerland be an advancing Group Stage third-place team at the 2026 World Cup?"
 category: "sports"
 status: "active"
-lastUpdated: 2026-06-20
+lastUpdated: 2026-06-21
 expiryDate: 2026-06-29
 tags: ["polymarket", "sports"]
 polymarketYes: 0.5
@@ -21,15 +21,15 @@ polymarketUrl: "https://polymarket.com/event/will-switzerland-be-an-advancing-gr
 
 ## Related Markets
 
-- [Will Baker Mayfield win the 2026 NFL MVP?](/odds/will-baker-mayfield-win-the-2026-nfl-mvp) — 1% YES
+- [Will Arizona Cardinals win the 2027 NFL NFC Championship?](/odds/will-arizona-cardinals-win-the-2027-nfl-nfc-championship) — 1% YES
 - [Will Argentina reach the Quarterfinals at the 2026 FIFA World Cup?](/odds/will-argentina-reach-the-quarterfinals-at-the-2026-fifa-world-cup) — 60% YES
-- [Will Kansas City Chiefs win the 2027 NFL AFC Championship?](/odds/will-kansas-city-chiefs-win-the-2027-nfl-afc-championship) — 10% YES
+- [Will Baker Mayfield win the 2026 NFL MVP?](/odds/will-baker-mayfield-win-the-2026-nfl-mvp) — 1% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Switzerland be an advancing Group Stage third-place team at the 2026 World Cup?"?
 
-As of June 20, 2026, Polymarket prices YES at 0.5%.
+As of June 21, 2026, Polymarket prices YES at 0.5%.
 
 ### Where can I trade on this prediction market?
 
