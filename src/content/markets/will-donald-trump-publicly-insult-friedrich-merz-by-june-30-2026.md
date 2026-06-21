@@ -1,15 +1,15 @@
 ---
 title: "Will Donald Trump publicly insult Friedrich Merz by June 30, 2026?"
-description: "Will Donald Trump publicly insult Friedrich Merz by June 30, 2026? Odds: 15.0% YES on Polymarket. See live prices and trade this market."
+description: "Will Donald Trump publicly insult Friedrich Merz by June 30, 2026? Odds: 13.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Donald Trump publicly insult Friedrich Merz by June 30, 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-06-21
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket", "trump"]
-polymarketYes: 15.0
-polymarketNo: 85.0
-polymarketVolume: 9835
+polymarketYes: 13.0
+polymarketNo: 87.0
+polymarketVolume: 9982
 polymarketUrl: "https://polymarket.com/event/will-donald-trump-publicly-insult-friedrich-merz-by-june-30-2026"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-donald-trump-publicly-insult-f
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 15.0% | 85.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 13.0% | 87.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-donald-trump-publicly-insult-f
 
 ### What are the current odds for "Will Donald Trump publicly insult Friedrich Merz by June 30, 2026?"?
 
-As of June 21, 2026, Polymarket prices YES at 15.0%.
+As of June 21, 2026, Polymarket prices YES at 13.0%.
 
 ### Where can I trade on this prediction market?
 

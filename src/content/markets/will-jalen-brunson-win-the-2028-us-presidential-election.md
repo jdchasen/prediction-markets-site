@@ -3,7 +3,7 @@ title: "Will Jalen Brunson win the 2028 US Presidential Election?"
 description: "Will Jalen Brunson win the 2028 US Presidential Election? Odds: 0.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Jalen Brunson win the 2028 US Presidential Election?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-21
 expiryDate: 2028-11-07
 tags: ["elections", "politics", "polymarket"]

@@ -9,7 +9,7 @@ expiryDate: 2027-04-30
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.7
 polymarketNo: 99.4
-polymarketVolume: 979686
+polymarketVolume: 980241
 polymarketUrl: "https://polymarket.com/event/will-jean-castex-win-the-2027-french-presidential-election"
 ---
 

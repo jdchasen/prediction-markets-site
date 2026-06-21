@@ -3,7 +3,7 @@ title: "Will GPT-5.6 be released between June 22 and June 28, 2026?"
 description: "Will GPT-5.6 be released between June 22 and June 28, 2026? Odds: 29.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will GPT-5.6 be released between June 22 and June 28, 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-21
 expiryDate: 2026-06-28
 tags: ["politics", "polymarket"]

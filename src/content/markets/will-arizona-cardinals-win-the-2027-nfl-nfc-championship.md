@@ -9,7 +9,7 @@ expiryDate: 2027-01-25
 tags: ["polymarket", "sports"]
 polymarketYes: 0.8
 polymarketNo: 99.2
-polymarketVolume: 983420
+polymarketVolume: 983437
 polymarketUrl: "https://polymarket.com/event/will-arizona-cardinals-win-the-2027-nfl-nfc-championship-199"
 ---
 
@@ -21,7 +21,7 @@ polymarketUrl: "https://polymarket.com/event/will-arizona-cardinals-win-the-2027
 
 ## Related Markets
 
-- [Will Argentina reach the Quarterfinals at the 2026 FIFA World Cup?](/odds/will-argentina-reach-the-quarterfinals-at-the-2026-fifa-world-cup) — 60% YES
+- [Will the Democratic Republic of Congo win Group K in the 2026 FIFA World Cup?](/odds/will-the-democratic-republic-of-congo-win-group-k-in-the-2026-fifa-world-cup) — 4% YES
 - [Will Baker Mayfield win the 2026 NFL MVP?](/odds/will-baker-mayfield-win-the-2026-nfl-mvp) — 1% YES
 - [Will Kansas City Chiefs win the 2027 NFL AFC Championship?](/odds/will-kansas-city-chiefs-win-the-2027-nfl-afc-championship) — 10% YES
 

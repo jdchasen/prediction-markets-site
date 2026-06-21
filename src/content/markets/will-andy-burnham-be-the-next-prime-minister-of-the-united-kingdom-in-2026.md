@@ -3,7 +3,7 @@ title: "Will Andy Burnham be the next Prime Minister of the United Kingdom in 20
 description: "Will Andy Burnham be the next Prime Minister of the United Kingdom in 2026? Odds: 95.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Andy Burnham be the next Prime Minister of the United Kingdom in 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-21
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]

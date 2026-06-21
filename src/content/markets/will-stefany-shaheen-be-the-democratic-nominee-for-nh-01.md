@@ -1,15 +1,15 @@
 ---
 title: "Will Stefany Shaheen be the Democratic nominee for NH-01?"
-description: "Will Stefany Shaheen be the Democratic nominee for NH-01? Odds: 74.0% YES on Polymarket. See live prices and trade this market."
+description: "Will Stefany Shaheen be the Democratic nominee for NH-01? Odds: 70.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Stefany Shaheen be the Democratic nominee for NH-01?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-06-21
 expiryDate: 2026-09-08
 tags: ["politics", "polymarket"]
-polymarketYes: 74.0
-polymarketNo: 26.0
-polymarketVolume: 9774
+polymarketYes: 70.5
+polymarketNo: 29.5
+polymarketVolume: 9779
 polymarketUrl: "https://polymarket.com/event/will-stefany-shaheen-be-the-democratic-nominee-for-nh-01"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-stefany-shaheen-be-the-democra
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 74.0% | 26.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 70.5% | 29.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-stefany-shaheen-be-the-democra
 
 ### What are the current odds for "Will Stefany Shaheen be the Democratic nominee for NH-01?"?
 
-As of June 21, 2026, Polymarket prices YES at 74.0%.
+As of June 21, 2026, Polymarket prices YES at 70.5%.
 
 ### Where can I trade on this prediction market?
 

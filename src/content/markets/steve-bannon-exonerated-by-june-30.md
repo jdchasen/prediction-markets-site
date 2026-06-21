@@ -1,14 +1,14 @@
 ---
 title: "Steve Bannon exonerated by June 30?"
-description: "Steve Bannon exonerated by June 30? Odds: 18.5% YES on Polymarket. See live prices and trade this market."
+description: "Steve Bannon exonerated by June 30? Odds: 17.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Steve Bannon exonerated by June 30?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-06-21
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
-polymarketYes: 18.5
-polymarketNo: 81.5
+polymarketYes: 17.5
+polymarketNo: 82.5
 polymarketVolume: 9814
 polymarketUrl: "https://polymarket.com/event/steve-bannon-exonerated-by-june-30"
 ---
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/steve-bannon-exonerated-by-june-30"
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 18.5% | 81.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 17.5% | 82.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/steve-bannon-exonerated-by-june-30"
 
 ### What are the current odds for "Steve Bannon exonerated by June 30?"?
 
-As of June 21, 2026, Polymarket prices YES at 18.5%.
+As of June 21, 2026, Polymarket prices YES at 17.5%.
 
 ### Where can I trade on this prediction market?
 

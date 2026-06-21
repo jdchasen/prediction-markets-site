@@ -3,7 +3,7 @@ title: "Will Lula announce the nomination of an individual for Minister of the S
 description: "Will Lula announce the nomination of an individual for Minister of the Supreme Federal Court of Brazil by June 30? Odds: 12.0% YES on Polymarket. See live pr..."
 marketQuestion: "Will Lula announce the nomination of an individual for Minister of the Supreme Federal Court of Brazil by June 30?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-21
 expiryDate: 2026-12-31
 tags: ["federal-reserve", "politics", "polymarket"]

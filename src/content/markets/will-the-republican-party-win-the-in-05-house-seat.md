@@ -1,14 +1,14 @@
 ---
 title: "Will the Republican Party win the IN-05 House seat?"
-description: "Will the Republican Party win the IN-05 House seat? Odds: 76.5% YES on Polymarket. See live prices and trade this market."
+description: "Will the Republican Party win the IN-05 House seat? Odds: 77.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Republican Party win the IN-05 House seat?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-06-21
 expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
-polymarketYes: 76.5
-polymarketNo: 23.5
+polymarketYes: 77.0
+polymarketNo: 23.0
 polymarketVolume: 9760
 polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-in-05-house-seat"
 ---
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-i
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 76.5% | 23.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 77.0% | 23.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-i
 
 ### What are the current odds for "Will the Republican Party win the IN-05 House seat?"?
 
-As of June 21, 2026, Polymarket prices YES at 76.5%.
+As of June 21, 2026, Polymarket prices YES at 77.0%.
 
 ### Where can I trade on this prediction market?
 

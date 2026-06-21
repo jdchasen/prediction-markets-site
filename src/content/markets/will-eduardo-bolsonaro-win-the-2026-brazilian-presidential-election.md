@@ -9,7 +9,7 @@ expiryDate: 2026-10-04
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.1
 polymarketNo: 99.9
-polymarketVolume: 9744849
+polymarketVolume: 9747335
 polymarketUrl: "https://polymarket.com/event/will-eduardo-bolsonaro-win-the-2026-brazilian-presidential-election"
 ---
 
@@ -23,7 +23,7 @@ polymarketUrl: "https://polymarket.com/event/will-eduardo-bolsonaro-win-the-2026
 
 - [Will Nikki Haley win the 2028 Republican presidential nomination?](/odds/will-nikki-haley-win-the-2028-republican-presidential-nomination) — 1% YES
 - [Will James Talarico win the 2028 Democratic presidential nomination?](/odds/will-james-talarico-win-the-2028-democratic-presidential-nomination) — 2% YES
-- [Will Jalen Brunson win the 2028 US Presidential Election?](/odds/will-jalen-brunson-win-the-2028-us-presidential-election) — 0% YES
+- [Will Jean Castex win the 2027 French presidential election?](/odds/will-jean-castex-win-the-2027-french-presidential-election) — 1% YES
 
 ## Frequently Asked Questions
 

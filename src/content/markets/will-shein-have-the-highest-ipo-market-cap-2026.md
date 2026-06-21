@@ -21,9 +21,9 @@ polymarketUrl: "https://polymarket.com/event/will-shein-have-the-highest-ipo-mar
 
 ## Related Markets
 
+- [Will SpaceX's market cap be between $3.0T and $3.5T at market close on last trading day of IPO month?](/odds/will-spacexs-market-cap-be-between-30t-and-35t-at-market-close-on-last-trading-d) — 3% YES
 - [Will Gold (GC) hit (HIGH) $5,300 by end of June?](/odds/will-gold-gc-hit-high-5300-by-end-of-june) — 0% YES
 - [Anysphere (Cursor) IPO before 2027?](/odds/anysphere-cursor-ipo-before-2027) — 2% YES
-- [Will SpaceX's market cap be less than $1.0T at market close on last trading day of IPO month?](/odds/will-spacexs-market-cap-be-less-than-10t-at-market-close-on-last-trading-day-of-) — 1% YES
 
 ## Frequently Asked Questions
 

@@ -9,7 +9,7 @@ expiryDate: 2026-10-10
 tags: ["polymarket", "tech"]
 polymarketYes: 0.7
 polymarketNo: 99.4
-polymarketVolume: 997341
+polymarketVolume: 999331
 polymarketUrl: "https://polymarket.com/event/will-elon-musk-win-the-nobel-peace-prize-in-2026-756"
 ---
 
@@ -17,7 +17,12 @@ polymarketUrl: "https://polymarket.com/event/will-elon-musk-win-the-nobel-peace-
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.7% | 99.4% | $997K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.7% | 99.4% | $999K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+
+## Related Markets
+
+- [Will Elon Musk post 60-79 tweets from June 19 to June 26, 2026?](/odds/will-elon-musk-post-60-79-tweets-from-june-19-to-june-26-2026) — 0% YES
+- [Will Elon Musk post 120-139 tweets from June 23 to June 30, 2026?](/odds/will-elon-musk-post-120-139-tweets-from-june-23-to-june-30-2026) — 2% YES
 
 ## Frequently Asked Questions
 

@@ -3,7 +3,7 @@ title: "Will Lamine Yamal win the 2026 Ballon d'Or?"
 description: "Will Lamine Yamal win the 2026 Ballon d'Or? Odds: 10.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Lamine Yamal win the 2026 Ballon d'Or?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-21
 expiryDate: 2026-10-31
 tags: ["politics", "polymarket"]

@@ -3,7 +3,7 @@ title: "Will Iran reach the Round of 16 at the 2026 FIFA World Cup?"
 description: "Will Iran reach the Round of 16 at the 2026 FIFA World Cup? Odds: 13.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Iran reach the Round of 16 at the 2026 FIFA World Cup?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-21
 expiryDate: 2026-07-04
 tags: ["polymarket", "sports"]

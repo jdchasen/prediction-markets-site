@@ -9,7 +9,7 @@ expiryDate: 2026-07-12
 tags: ["politics", "polymarket"]
 polymarketYes: 0.2
 polymarketNo: 99.8
-polymarketVolume: 98710
+polymarketVolume: 98720
 polymarketUrl: "https://polymarket.com/event/will-paula-badosa-be-the-2026-womens-wimbledon-winner"
 ---
 

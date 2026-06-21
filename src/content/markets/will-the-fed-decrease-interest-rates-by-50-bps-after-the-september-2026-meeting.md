@@ -1,15 +1,15 @@
 ---
 title: "Will the Fed decrease interest rates by 50+ bps after the September 2026 meeting?"
-description: "Will the Fed decrease interest rates by 50+ bps after the September 2026 meeting? Odds: 1.6% YES on Polymarket. See live prices and trade this market."
+description: "Will the Fed decrease interest rates by 50+ bps after the September 2026 meeting? Odds: 1.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Fed decrease interest rates by 50+ bps after the September 2026 meeting?"
 category: "economics"
-status: "settled"
-lastUpdated: 2026-05-30
+status: "active"
+lastUpdated: 2026-06-21
 expiryDate: 2026-09-16
 tags: ["economics", "federal-reserve", "interest-rates", "polymarket"]
-polymarketYes: 1.6
-polymarketNo: 98.4
-polymarketVolume: 9732
+polymarketYes: 1.9
+polymarketNo: 98.0
+polymarketVolume: 95627
 polymarketUrl: "https://polymarket.com/event/will-the-fed-decrease-interest-rates-by-50-bps-after-the-september-2026-meeting-863"
 ---
 
@@ -17,17 +17,18 @@ polymarketUrl: "https://polymarket.com/event/will-the-fed-decrease-interest-rate
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 1.6% | 98.4% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 1.9% | 98.0% | $96K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will the Fed increase interest rates by 50+ bps after the September 2026 meeting?](/odds/will-the-fed-increase-interest-rates-by-50-bps-after-the-september-2026-meeting) — 1% YES
+- [Will the Fed increase interest rates by 50+ bps after the September 2026 meeting?](/odds/will-the-fed-increase-interest-rates-by-50-bps-after-the-september-2026-meeting) — 2% YES
+- [Will inflation reach more than 4.5% in 2026?](/odds/will-inflation-reach-more-than-45-in-2026) — 20% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will the Fed decrease interest rates by 50+ bps after the September 2026 meeting?"?
 
-As of May 29, 2026, Polymarket prices YES at 1.6%.
+As of June 21, 2026, Polymarket prices YES at 1.9%.
 
 ### Where can I trade on this prediction market?
 

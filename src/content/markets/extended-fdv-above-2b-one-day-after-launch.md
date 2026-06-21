@@ -21,9 +21,9 @@ polymarketUrl: "https://polymarket.com/event/extended-fdv-above-2b-one-day-after
 
 ## Related Markets
 
-- [Predict.fun FDV above $300M one day after launch?](/odds/predictfun-fdv-above-300m-one-day-after-launch) — 73% YES
-- [Will MetaMask launch a token by September 30, 2026?](/odds/will-metamask-launch-a-token-by-september-30-2026) — 9% YES
-- [Will Hurupay launch a token by June 30, 2027?](/odds/will-hurupay-launch-a-token-by-june-30-2027) — 60% YES
+- [Predict.fun FDV above $300M one day after launch?](/odds/predictfun-fdv-above-300m-one-day-after-launch) — 74% YES
+- [Will MetaMask launch a token by September 30, 2026?](/odds/will-metamask-launch-a-token-by-september-30-2026) — 6% YES
+- [Will GRVT launch a token by September 30, 2026?](/odds/will-grvt-launch-a-token-by-september-30-2026) — 92% YES
 
 ## Frequently Asked Questions
 
