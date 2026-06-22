@@ -22,8 +22,8 @@ polymarketUrl: "https://polymarket.com/event/extended-fdv-above-2b-one-day-after
 ## Related Markets
 
 - [Predict.fun FDV above $300M one day after launch?](/odds/predictfun-fdv-above-300m-one-day-after-launch) — 76% YES
-- [Will Bitcoin reach $67,500 in June?](/odds/will-bitcoin-reach-67500-in-june) — 40% YES
-- [Will Bitcoin reach $72,500 in June?](/odds/will-bitcoin-reach-72500-in-june) — 4% YES
+- [Will MetaMask launch a token by September 30, 2026?](/odds/will-metamask-launch-a-token-by-september-30-2026) — 8% YES
+- [Will Hurupay launch a token by June 30, 2027?](/odds/will-hurupay-launch-a-token-by-june-30-2027) — 60% YES
 
 ## Frequently Asked Questions
 

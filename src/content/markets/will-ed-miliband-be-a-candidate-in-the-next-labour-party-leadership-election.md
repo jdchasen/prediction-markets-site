@@ -3,7 +3,7 @@ title: "Will Ed Miliband be a candidate in the next Labour Party leadership elec
 description: "Will Ed Miliband be a candidate in the next Labour Party leadership election? Odds: 1.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Ed Miliband be a candidate in the next Labour Party leadership election?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-22
 expiryDate: 2026-12-31
 tags: ["elections", "politics", "polymarket"]

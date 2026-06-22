@@ -3,7 +3,7 @@ title: "Will Netherlands be eliminated in Group Stage stage of the World Cup?"
 description: "Will Netherlands be eliminated in Group Stage stage of the World Cup? Odds: 0.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Netherlands be eliminated in Group Stage stage of the World Cup?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-22
 expiryDate: 2026-07-19
 tags: ["ethereum", "polymarket", "sports"]

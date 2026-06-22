@@ -1,15 +1,15 @@
 ---
 title: "Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?"
-description: "Will the Fed decrease interest rates by 25 bps after the September 2026 meeting? Odds: 5.7% YES on Polymarket. See live prices and trade this market."
+description: "Will the Fed decrease interest rates by 25 bps after the September 2026 meeting? Odds: 5.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?"
 category: "economics"
 status: "active"
 lastUpdated: 2026-06-22
 expiryDate: 2026-09-16
 tags: ["economics", "federal-reserve", "interest-rates", "polymarket"]
-polymarketYes: 5.7
-polymarketNo: 94.3
-polymarketVolume: 96490
+polymarketYes: 5.5
+polymarketNo: 94.5
+polymarketVolume: 97312
 polymarketUrl: "https://polymarket.com/event/will-the-fed-decrease-interest-rates-by-25-bps-after-the-september-2026-meeting-586"
 ---
 
@@ -17,18 +17,17 @@ polymarketUrl: "https://polymarket.com/event/will-the-fed-decrease-interest-rate
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 5.7% | 94.3% | $96K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 5.5% | 94.5% | $97K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will the Fed increase interest rates by 50+ bps after the September 2026 meeting?](/odds/will-the-fed-increase-interest-rates-by-50-bps-after-the-september-2026-meeting) — 1% YES
 - [Will inflation reach more than 4.5% in 2026?](/odds/will-inflation-reach-more-than-45-in-2026) — 20% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?"?
 
-As of June 22, 2026, Polymarket prices YES at 5.7%.
+As of June 22, 2026, Polymarket prices YES at 5.5%.
 
 ### Where can I trade on this prediction market?
 

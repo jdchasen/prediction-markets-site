@@ -3,7 +3,7 @@ title: "Will OpenAI have the top AI model at the end of June 2026?"
 description: "Will OpenAI have the top AI model at the end of June 2026? Odds: 3.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will OpenAI have the top AI model at the end of June 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-22
 expiryDate: 2026-06-30
 tags: ["ai", "politics", "polymarket"]

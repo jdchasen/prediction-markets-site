@@ -1,23 +1,23 @@
 ---
-title: "Will Pete Hegseth enter Iran by June 30?"
-description: "Will Pete Hegseth enter Iran by June 30? Odds: 0.2% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Pete Hegseth enter Iran by June 30?"
+title: "Will Mohammed bin Salman sign a U.S. x Iran deal by July 31?"
+description: "Will Mohammed bin Salman sign a U.S. x Iran deal by July 31? Odds: 10.0% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Mohammed bin Salman sign a U.S. x Iran deal by July 31?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-06-22
-expiryDate: 2026-06-30
-tags: ["ethereum", "politics", "polymarket"]
-polymarketYes: 0.2
-polymarketNo: 99.8
-polymarketVolume: 99231
-polymarketUrl: "https://polymarket.com/event/will-pete-hegseth-enter-iran-by-june-30"
+expiryDate: 2026-08-01
+tags: ["politics", "polymarket"]
+polymarketYes: 10.0
+polymarketNo: 90.0
+polymarketVolume: 97420
+polymarketUrl: "https://polymarket.com/event/will-mohammed-bin-salman-sign-a-uptspt-x-iran-deal-by-july-31-20260611235950077"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.2% | 99.8% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 10.0% | 90.0% | $97K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-pete-hegseth-enter-iran-by-jun
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Pete Hegseth enter Iran by June 30?"?
+### What are the current odds for "Will Mohammed bin Salman sign a U.S. x Iran deal by July 31?"?
 
-As of June 22, 2026, Polymarket prices YES at 0.2%.
+As of June 22, 2026, Polymarket prices YES at 10.0%.
 
 ### Where can I trade on this prediction market?
 
@@ -38,5 +38,5 @@ You can trade this market on [Polymarket](https://polymarket.us/1762?utm_source=
 ## Learn More
 
 - [US-Iran Peace Deal Odds: Will It Happen in 2025?](/blog/us-iran-peace-deal-odds-will-it-happen-in-2025)
-- [US Forces Enter Iran: Prediction Market Odds](/blog/us-forces-enter-iran-prediction-market-odds)
+- [US-Iran Peace Deal Odds: What Traders Are Betting](/blog/us-iran-peace-deal-odds-what-traders-are-betting)
 

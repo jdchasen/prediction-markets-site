@@ -3,7 +3,7 @@ title: "Will Elon Musk post 60-79 tweets from June 19 to June 26, 2026?"
 description: "Will Elon Musk post 60-79 tweets from June 19 to June 26, 2026? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Elon Musk post 60-79 tweets from June 19 to June 26, 2026?"
 category: "tech"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-22
 expiryDate: 2026-06-26
 tags: ["polymarket", "tech"]

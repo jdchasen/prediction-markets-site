@@ -3,7 +3,7 @@ title: "Will Alphabet Inc. (GOOGL) hit (LOW) $340 in June?"
 description: "Will Alphabet Inc. (GOOGL) hit (LOW) $340 in June? Odds: 76.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Alphabet Inc. (GOOGL) hit (LOW) $340 in June?"
 category: "finance"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-22
 expiryDate: 2026-07-01
 tags: ["finance", "polymarket"]

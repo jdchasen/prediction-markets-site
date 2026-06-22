@@ -1,23 +1,23 @@
 ---
-title: "Will England reach the Round of 16 at the 2026 FIFA World Cup?"
-description: "Will England reach the Round of 16 at the 2026 FIFA World Cup? Odds: 85.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will England reach the Round of 16 at the 2026 FIFA World Cup?"
+title: "Will Neymar win the Golden Ball at the 2026 FIFA World Cup?"
+description: "Will Neymar win the Golden Ball at the 2026 FIFA World Cup? Odds: 0.9% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Neymar win the Golden Ball at the 2026 FIFA World Cup?"
 category: "sports"
 status: "active"
 lastUpdated: 2026-06-22
-expiryDate: 2026-07-04
+expiryDate: 2026-07-20
 tags: ["polymarket", "sports"]
-polymarketYes: 85.5
-polymarketNo: 14.5
-polymarketVolume: 98018
-polymarketUrl: "https://polymarket.com/event/will-england-reach-the-round-of-16-at-the-2026-fifa-world-cup-20260602025120779"
+polymarketYes: 0.9
+polymarketNo: 99.1
+polymarketVolume: 9963
+polymarketUrl: "https://polymarket.com/event/will-neymar-win-the-golden-ball-at-the-2026-fifa-world-cup-20260603194032295"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 85.5% | 14.5% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.9% | 99.1% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-england-reach-the-round-of-16-
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will England reach the Round of 16 at the 2026 FIFA World Cup?"?
+### What are the current odds for "Will Neymar win the Golden Ball at the 2026 FIFA World Cup?"?
 
-As of June 22, 2026, Polymarket prices YES at 85.5%.
+As of June 22, 2026, Polymarket prices YES at 0.9%.
 
 ### Where can I trade on this prediction market?
 
@@ -37,6 +37,6 @@ You can trade this market on [Polymarket](https://polymarket.us/1762?utm_source=
 
 ## Learn More
 
-- [2026 World Cup Betting Odds: Markets Pick England](/blog/2026-world-cup-betting-odds-markets-pick-england)
+- [Gold Price Prediction 2026: Will Gold Hit $7,000?](/blog/gold-price-prediction-2026-will-gold-hit-7000)
 - [2026 FIFA World Cup Winner Odds & Predictions](/blog/2026-fifa-world-cup-winner-odds-predictions)
 

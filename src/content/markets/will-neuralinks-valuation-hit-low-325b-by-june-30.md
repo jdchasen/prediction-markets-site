@@ -9,7 +9,7 @@ expiryDate: 2026-07-01
 tags: ["politics", "polymarket"]
 polymarketYes: 0.2
 polymarketNo: 99.8
-polymarketVolume: 9962
+polymarketVolume: 9967
 polymarketUrl: "https://polymarket.com/event/will-neuralinks-valuation-hit-low-32pt5b-by-june-30"
 ---
 

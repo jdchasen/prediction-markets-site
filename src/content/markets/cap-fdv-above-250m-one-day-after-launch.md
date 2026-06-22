@@ -3,7 +3,7 @@ title: "Cap FDV above $250M one day after launch?"
 description: "Cap FDV above $250M one day after launch? Odds: 18.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Cap FDV above $250M one day after launch?"
 category: "crypto"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-22
 expiryDate: 2028-01-01
 tags: ["crypto", "polymarket"]

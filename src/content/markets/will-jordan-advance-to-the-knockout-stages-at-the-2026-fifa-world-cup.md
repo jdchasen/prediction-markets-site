@@ -1,15 +1,15 @@
 ---
 title: "Will Jordan advance to the knockout stages at the 2026 FIFA World Cup?"
-description: "Will Jordan advance to the knockout stages at the 2026 FIFA World Cup? Odds: 12.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Jordan advance to the knockout stages at the 2026 FIFA World Cup? Odds: 11.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Jordan advance to the knockout stages at the 2026 FIFA World Cup?"
 category: "sports"
 status: "active"
 lastUpdated: 2026-06-22
 expiryDate: 2026-06-28
 tags: ["polymarket", "sports"]
-polymarketYes: 12.5
-polymarketNo: 87.5
-polymarketVolume: 98172
+polymarketYes: 11.5
+polymarketNo: 88.5
+polymarketVolume: 98886
 polymarketUrl: "https://polymarket.com/event/will-jordan-advance-to-the-knockout-stages-at-the-2026-fifa-world-cup"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-jordan-advance-to-the-knockout
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 12.5% | 87.5% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 11.5% | 88.5% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Arizona Cardinals win the 2027 NFL NFC Championship?](/odds/will-arizona-cardinals-win-the-2027-nfl-nfc-championship) — 1% YES
 - [Will the Democratic Republic of Congo win Group K in the 2026 FIFA World Cup?](/odds/will-the-democratic-republic-of-congo-win-group-k-in-the-2026-fifa-world-cup) — 6% YES
-- [Will Baker Mayfield win the 2026 NFL MVP?](/odds/will-baker-mayfield-win-the-2026-nfl-mvp) — 1% YES
+- [Will Jordan win Group J in the 2026 FIFA World Cup?](/odds/will-jordan-win-group-j-in-the-2026-fifa-world-cup) — 0% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Jordan advance to the knockout stages at the 2026 FIFA World Cup?"?
 
-As of June 22, 2026, Polymarket prices YES at 12.5%.
+As of June 22, 2026, Polymarket prices YES at 11.5%.
 
 ### Where can I trade on this prediction market?
 

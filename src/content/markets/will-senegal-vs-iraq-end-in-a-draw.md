@@ -3,7 +3,7 @@ title: "Will Senegal vs. Iraq end in a draw?"
 description: "Will Senegal vs. Iraq end in a draw? Odds: 16.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Senegal vs. Iraq end in a draw?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-22
 expiryDate: 2026-06-26
 tags: ["politics", "polymarket"]

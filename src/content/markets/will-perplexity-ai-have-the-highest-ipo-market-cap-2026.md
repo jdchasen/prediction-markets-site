@@ -22,8 +22,7 @@ polymarketUrl: "https://polymarket.com/event/will-perplexity-ai-have-the-highest
 ## Related Markets
 
 - [Anysphere (Cursor) IPO before 2027?](/odds/anysphere-cursor-ipo-before-2027) — 2% YES
-- [Will SHEIN have the highest IPO Market Cap 2026?](/odds/will-shein-have-the-highest-ipo-market-cap-2026) — 0% YES
-- [Will NVIDIA be the second-largest company in the world by market cap on June 30?](/odds/will-nvidia-be-the-second-largest-company-in-the-world-by-market-cap-on-june-30) — 1% YES
+- [Nasdaq round-the-clock trading by June 30?](/odds/nasdaq-round-the-clock-trading-by-june-30) — 0% YES
 
 ## Frequently Asked Questions
 

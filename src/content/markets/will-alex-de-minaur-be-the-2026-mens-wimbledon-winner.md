@@ -1,23 +1,23 @@
 ---
-title: "Will Paula Badosa be the 2026 Women’s Wimbledon Winner?"
-description: "Will Paula Badosa be the 2026 Women’s Wimbledon Winner? Odds: 0.3% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Paula Badosa be the 2026 Women’s Wimbledon Winner?"
+title: "Will Alex de Minaur be the 2026 Men’s Wimbledon winner?"
+description: "Will Alex de Minaur be the 2026 Men’s Wimbledon winner? Odds: 0.9% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Alex de Minaur be the 2026 Men’s Wimbledon winner?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-06-22
 expiryDate: 2026-07-12
 tags: ["politics", "polymarket"]
-polymarketYes: 0.3
-polymarketNo: 99.7
-polymarketVolume: 98731
-polymarketUrl: "https://polymarket.com/event/will-paula-badosa-be-the-2026-womens-wimbledon-winner"
+polymarketYes: 0.9
+polymarketNo: 99.2
+polymarketVolume: 97903
+polymarketUrl: "https://polymarket.com/event/will-alex-de-minaur-be-the-2026-mens-wimbledon-winner"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.3% | 99.7% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.9% | 99.2% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-paula-badosa-be-the-2026-women
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Paula Badosa be the 2026 Women’s Wimbledon Winner?"?
+### What are the current odds for "Will Alex de Minaur be the 2026 Men’s Wimbledon winner?"?
 
-As of June 22, 2026, Polymarket prices YES at 0.3%.
+As of June 22, 2026, Polymarket prices YES at 0.9%.
 
 ### Where can I trade on this prediction market?
 

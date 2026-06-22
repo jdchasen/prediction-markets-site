@@ -9,7 +9,7 @@ expiryDate: 2026-08-01
 tags: ["polymarket", "tech"]
 polymarketYes: 9.2
 polymarketNo: 90.8
-polymarketVolume: 9932
+polymarketVolume: 9943
 polymarketUrl: "https://polymarket.com/event/elon-musk-of-tweets-july-2026-880-919"
 ---
 
@@ -18,12 +18,6 @@ polymarketUrl: "https://polymarket.com/event/elon-musk-of-tweets-july-2026-880-9
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
 | Polymarket | 9.2% | 90.8% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
-
-## Related Markets
-
-- [Will Elon Musk post 60-79 tweets from June 19 to June 26, 2026?](/odds/will-elon-musk-post-60-79-tweets-from-june-19-to-june-26-2026) — 0% YES
-- [Will SpaceX's valuation hit (LOW) $1.5T by June 30?](/odds/will-spacexs-valuation-hit-low-15t-by-june-30) — 5% YES
-- [Will Elon Musk post 0-19 tweets from June 23 to June 30, 2026?](/odds/will-elon-musk-post-0-19-tweets-from-june-23-to-june-30-2026) — 0% YES
 
 ## Frequently Asked Questions
 

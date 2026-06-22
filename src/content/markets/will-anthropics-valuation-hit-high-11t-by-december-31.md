@@ -9,7 +9,7 @@ expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]
 polymarketYes: 97.2
 polymarketNo: 2.8
-polymarketVolume: 98577
+polymarketVolume: 98798
 polymarketUrl: "https://polymarket.com/event/will-anthropics-valuation-hit-high-1pt1t-by-december-31-646"
 ---
 

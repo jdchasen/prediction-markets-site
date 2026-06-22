@@ -1,23 +1,23 @@
 ---
-title: "Will Taylor Swift get married in Manhattan?"
-description: "Will Taylor Swift get married in Manhattan? Odds: 54.0% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Taylor Swift get married in Manhattan?"
+title: "Will Friedrich Merz be the next leader out before 2027?"
+description: "Will Friedrich Merz be the next leader out before 2027? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Friedrich Merz be the next leader out before 2027?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-06-22
-expiryDate: 2026-07-04
+expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 54.0
-polymarketNo: 46.0
-polymarketVolume: 9766
-polymarketUrl: "https://polymarket.com/event/will-taylor-swift-get-married-in-manhattan-20260605211638230"
+polymarketYes: 0.1
+polymarketNo: 99.9
+polymarketVolume: 98027
+polymarketUrl: "https://polymarket.com/event/will-friedrich-merz-be-the-next-leader-out-before-2027-375"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 54.0% | 46.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.1% | 99.9% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-taylor-swift-get-married-in-ma
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Taylor Swift get married in Manhattan?"?
+### What are the current odds for "Will Friedrich Merz be the next leader out before 2027?"?
 
-As of June 22, 2026, Polymarket prices YES at 54.0%.
+As of June 22, 2026, Polymarket prices YES at 0.1%.
 
 ### Where can I trade on this prediction market?
 

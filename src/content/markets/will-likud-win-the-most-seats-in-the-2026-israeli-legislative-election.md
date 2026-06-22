@@ -3,7 +3,7 @@ title: "Will Likud win the most seats in the 2026 Israeli legislative election?"
 description: "Will Likud win the most seats in the 2026 Israeli legislative election? Odds: 38.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Likud win the most seats in the 2026 Israeli legislative election?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-22
 expiryDate: 2026-10-27
 tags: ["elections", "politics", "polymarket"]

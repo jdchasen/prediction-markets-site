@@ -1,14 +1,14 @@
 ---
 title: "Will Jonathan Kreiss-Tomkins win the 2026 Alaska governor election?"
-description: "Will Jonathan Kreiss-Tomkins win the 2026 Alaska governor election? Odds: 15.2% YES on Polymarket. See live prices and trade this market."
+description: "Will Jonathan Kreiss-Tomkins win the 2026 Alaska governor election? Odds: 15.3% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Jonathan Kreiss-Tomkins win the 2026 Alaska governor election?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-06-22
 expiryDate: 2026-11-03
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 15.2
-polymarketNo: 84.9
+polymarketYes: 15.3
+polymarketNo: 84.7
 polymarketVolume: 9892
 polymarketUrl: "https://polymarket.com/event/will-jonathan-kreiss-tomkins-win-the-2026-alaska-governor-election"
 ---
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-jonathan-kreiss-tomkins-win-th
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 15.2% | 84.9% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 15.3% | 84.7% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-jonathan-kreiss-tomkins-win-th
 
 ### What are the current odds for "Will Jonathan Kreiss-Tomkins win the 2026 Alaska governor election?"?
 
-As of June 22, 2026, Polymarket prices YES at 15.2%.
+As of June 22, 2026, Polymarket prices YES at 15.3%.
 
 ### Where can I trade on this prediction market?
 

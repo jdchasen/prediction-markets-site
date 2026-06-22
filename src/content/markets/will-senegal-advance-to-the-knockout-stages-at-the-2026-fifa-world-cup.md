@@ -3,7 +3,7 @@ title: "Will Senegal advance to the knockout stages at the 2026 FIFA World Cup?"
 description: "Will Senegal advance to the knockout stages at the 2026 FIFA World Cup? Odds: 70.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Senegal advance to the knockout stages at the 2026 FIFA World Cup?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-22
 expiryDate: 2026-06-28
 tags: ["polymarket", "sports"]

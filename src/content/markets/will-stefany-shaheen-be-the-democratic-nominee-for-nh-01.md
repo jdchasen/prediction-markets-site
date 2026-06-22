@@ -3,7 +3,7 @@ title: "Will Stefany Shaheen be the Democratic nominee for NH-01?"
 description: "Will Stefany Shaheen be the Democratic nominee for NH-01? Odds: 72.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Stefany Shaheen be the Democratic nominee for NH-01?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-22
 expiryDate: 2026-09-08
 tags: ["politics", "polymarket"]

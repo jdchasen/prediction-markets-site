@@ -21,7 +21,6 @@ polymarketUrl: "https://polymarket.com/event/will-inflation-reach-more-than-4pt5
 
 ## Related Markets
 
-- [Will the Fed increase interest rates by 50+ bps after the September 2026 meeting?](/odds/will-the-fed-increase-interest-rates-by-50-bps-after-the-september-2026-meeting) — 1% YES
 - [Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?](/odds/will-the-fed-decrease-interest-rates-by-25-bps-after-the-september-2026-meeting) — 6% YES
 
 ## Frequently Asked Questions

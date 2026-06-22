@@ -3,7 +3,7 @@ title: "World Cup: Ronaldo to Score a Free Kick?"
 description: "World Cup: Ronaldo to Score a Free Kick? Odds: 13.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "World Cup: Ronaldo to Score a Free Kick?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-22
 expiryDate: 2026-07-20
 tags: ["polymarket", "sports"]

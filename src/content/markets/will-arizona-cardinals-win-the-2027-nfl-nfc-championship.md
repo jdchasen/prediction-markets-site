@@ -22,7 +22,7 @@ polymarketUrl: "https://polymarket.com/event/will-arizona-cardinals-win-the-2027
 ## Related Markets
 
 - [Will the Democratic Republic of Congo win Group K in the 2026 FIFA World Cup?](/odds/will-the-democratic-republic-of-congo-win-group-k-in-the-2026-fifa-world-cup) — 6% YES
-- [Will Baker Mayfield win the 2026 NFL MVP?](/odds/will-baker-mayfield-win-the-2026-nfl-mvp) — 1% YES
+- [Will Jordan win Group J in the 2026 FIFA World Cup?](/odds/will-jordan-win-group-j-in-the-2026-fifa-world-cup) — 0% YES
 - [Will Jordan advance to the knockout stages at the 2026 FIFA World Cup?](/odds/will-jordan-advance-to-the-knockout-stages-at-the-2026-fifa-world-cup) — 12% YES
 
 ## Frequently Asked Questions
