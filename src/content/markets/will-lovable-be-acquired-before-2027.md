@@ -3,8 +3,8 @@ title: "Will Lovable be acquired before 2027?"
 description: "Will Lovable be acquired before 2027? Odds: 22.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Lovable be acquired before 2027?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-06-21
+status: "settled"
+lastUpdated: 2026-06-22
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 22.5

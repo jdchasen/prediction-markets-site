@@ -4,12 +4,12 @@ description: "Will Anthropic's valuation hit (HIGH) $1.1T by December 31? Odds: 
 marketQuestion: "Will Anthropic's valuation hit (HIGH) $1.1T by December 31?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-06-21
+lastUpdated: 2026-06-22
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]
 polymarketYes: 97.2
 polymarketNo: 2.8
-polymarketVolume: 98547
+polymarketVolume: 98577
 polymarketUrl: "https://polymarket.com/event/will-anthropics-valuation-hit-high-1pt1t-by-december-31-646"
 ---
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-anthropics-valuation-hit-high-
 
 ### What are the current odds for "Will Anthropic's valuation hit (HIGH) $1.1T by December 31?"?
 
-As of June 21, 2026, Polymarket prices YES at 97.2%.
+As of June 22, 2026, Polymarket prices YES at 97.2%.
 
 ### Where can I trade on this prediction market?
 

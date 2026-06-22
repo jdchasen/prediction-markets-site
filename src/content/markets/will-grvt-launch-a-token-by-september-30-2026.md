@@ -1,14 +1,14 @@
 ---
 title: "Will GRVT launch a token by September 30, 2026?"
-description: "Will GRVT launch a token by September 30, 2026? Odds: 92.4% YES on Polymarket. See live prices and trade this market."
+description: "Will GRVT launch a token by September 30, 2026? Odds: 91.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will GRVT launch a token by September 30, 2026?"
 category: "crypto"
 status: "active"
-lastUpdated: 2026-06-21
+lastUpdated: 2026-06-22
 expiryDate: 2027-01-01
 tags: ["crypto", "polymarket"]
-polymarketYes: 92.4
-polymarketNo: 7.6
+polymarketYes: 91.1
+polymarketNo: 8.8
 polymarketVolume: 9832
 polymarketUrl: "https://polymarket.com/event/will-grvt-launch-a-token-by-september-30-2026"
 ---
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-grvt-launch-a-token-by-septemb
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 92.4% | 7.6% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 91.1% | 8.8% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Predict.fun FDV above $300M one day after launch?](/odds/predictfun-fdv-above-300m-one-day-after-launch) — 74% YES
-- [Will MetaMask launch a token by September 30, 2026?](/odds/will-metamask-launch-a-token-by-september-30-2026) — 6% YES
-- [Extended FDV above $2B one day after launch?](/odds/extended-fdv-above-2b-one-day-after-launch) — 4% YES
+- [Predict.fun FDV above $300M one day after launch?](/odds/predictfun-fdv-above-300m-one-day-after-launch) — 76% YES
+- [Will Bitcoin reach $67,500 in June?](/odds/will-bitcoin-reach-67500-in-june) — 40% YES
+- [Will Bitcoin reach $72,500 in June?](/odds/will-bitcoin-reach-72500-in-june) — 4% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will GRVT launch a token by September 30, 2026?"?
 
-As of June 21, 2026, Polymarket prices YES at 92.4%.
+As of June 22, 2026, Polymarket prices YES at 91.1%.
 
 ### Where can I trade on this prediction market?
 

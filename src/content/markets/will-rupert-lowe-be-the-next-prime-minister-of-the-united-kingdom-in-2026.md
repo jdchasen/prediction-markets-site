@@ -3,8 +3,8 @@ title: "Will Rupert Lowe be the next Prime Minister of the United Kingdom in 202
 description: "Will Rupert Lowe be the next Prime Minister of the United Kingdom in 2026? Odds: 0.3% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Rupert Lowe be the next Prime Minister of the United Kingdom in 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-06-21
+status: "settled"
+lastUpdated: 2026-06-22
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 0.3

@@ -3,8 +3,8 @@ title: "Will BNB dip to $200 in June?"
 description: "Will BNB dip to $200 in June? Odds: 0.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will BNB dip to $200 in June?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-06-21
+status: "settled"
+lastUpdated: 2026-06-22
 expiryDate: 2026-07-01
 tags: ["politics", "polymarket"]
 polymarketYes: 0.4

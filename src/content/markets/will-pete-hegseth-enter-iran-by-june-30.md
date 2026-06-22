@@ -1,15 +1,15 @@
 ---
 title: "Will Pete Hegseth enter Iran by June 30?"
-description: "Will Pete Hegseth enter Iran by June 30? Odds: 0.4% YES on Polymarket. See live prices and trade this market."
+description: "Will Pete Hegseth enter Iran by June 30? Odds: 0.3% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Pete Hegseth enter Iran by June 30?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-06-21
+lastUpdated: 2026-06-22
 expiryDate: 2026-06-30
 tags: ["ethereum", "politics", "polymarket"]
-polymarketYes: 0.4
+polymarketYes: 0.3
 polymarketNo: 99.7
-polymarketVolume: 97461
+polymarketVolume: 99231
 polymarketUrl: "https://polymarket.com/event/will-pete-hegseth-enter-iran-by-june-30"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-pete-hegseth-enter-iran-by-jun
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.4% | 99.7% | $97K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.3% | 99.7% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-pete-hegseth-enter-iran-by-jun
 
 ### What are the current odds for "Will Pete Hegseth enter Iran by June 30?"?
 
-As of June 21, 2026, Polymarket prices YES at 0.4%.
+As of June 22, 2026, Polymarket prices YES at 0.3%.
 
 ### Where can I trade on this prediction market?
 

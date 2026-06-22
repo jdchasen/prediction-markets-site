@@ -4,7 +4,7 @@ description: "Will the Republicans win the Oklahoma governor race in 2026? Odds:
 marketQuestion: "Will the Republicans win the Oklahoma governor race in 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-06-21
+lastUpdated: 2026-06-22
 tags: ["politics", "polymarket"]
 polymarketYes: 91.5
 polymarketNo: 8.5
@@ -28,7 +28,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-republicans-win-the-oklaho
 
 ### What are the current odds for "Will the Republicans win the Oklahoma governor race in 2026?"?
 
-As of June 21, 2026, Polymarket prices YES at 91.5%.
+As of June 22, 2026, Polymarket prices YES at 91.5%.
 
 ### Where can I trade on this prediction market?
 

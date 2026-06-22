@@ -1,15 +1,15 @@
 ---
 title: "Predict.fun FDV above $300M one day after launch?"
-description: "Predict.fun FDV above $300M one day after launch? Odds: 73.5% YES on Polymarket. See live prices and trade this market."
+description: "Predict.fun FDV above $300M one day after launch? Odds: 76.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Predict.fun FDV above $300M one day after launch?"
 category: "crypto"
 status: "active"
-lastUpdated: 2026-06-21
+lastUpdated: 2026-06-22
 expiryDate: 2028-01-01
 tags: ["crypto", "polymarket"]
-polymarketYes: 73.5
-polymarketNo: 26.5
-polymarketVolume: 995310
+polymarketYes: 76.5
+polymarketNo: 23.5
+polymarketVolume: 999311
 polymarketUrl: "https://polymarket.com/event/predictfun-fdv-above-300m-one-day-after-launch"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/predictfun-fdv-above-300m-one-day-a
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 73.5% | 26.5% | $995K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 76.5% | 23.5% | $999K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will MetaMask launch a token by September 30, 2026?](/odds/will-metamask-launch-a-token-by-september-30-2026) — 6% YES
-- [Extended FDV above $2B one day after launch?](/odds/extended-fdv-above-2b-one-day-after-launch) — 4% YES
-- [Will GRVT launch a token by September 30, 2026?](/odds/will-grvt-launch-a-token-by-september-30-2026) — 92% YES
+- [Will Bitcoin reach $67,500 in June?](/odds/will-bitcoin-reach-67500-in-june) — 40% YES
+- [Will Bitcoin reach $72,500 in June?](/odds/will-bitcoin-reach-72500-in-june) — 4% YES
+- [Will MetaMask launch a token by September 30, 2026?](/odds/will-metamask-launch-a-token-by-september-30-2026) — 8% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Predict.fun FDV above $300M one day after launch?"?
 
-As of June 21, 2026, Polymarket prices YES at 73.5%.
+As of June 22, 2026, Polymarket prices YES at 76.5%.
 
 ### Where can I trade on this prediction market?
 

@@ -3,8 +3,8 @@ title: "Will Canada be the highest-scoring team in Group B during the Group Stag
 description: "Will Canada be the highest-scoring team in Group B during the Group Stage of the 2026 FIFA World Cup? Odds: 80.0% YES on Polymarket. See live prices and trad..."
 marketQuestion: "Will Canada be the highest-scoring team in Group B during the Group Stage of the 2026 FIFA World Cup?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-06-21
+status: "settled"
+lastUpdated: 2026-06-22
 expiryDate: 2026-07-12
 tags: ["polymarket", "sports"]
 polymarketYes: 80.0

@@ -4,12 +4,12 @@ description: "Will Jean Castex win the 2027 French presidential election? Odds: 
 marketQuestion: "Will Jean Castex win the 2027 French presidential election?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-06-21
+lastUpdated: 2026-06-22
 expiryDate: 2027-04-30
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.7
 polymarketNo: 99.4
-polymarketVolume: 980241
+polymarketVolume: 993466
 polymarketUrl: "https://polymarket.com/event/will-jean-castex-win-the-2027-french-presidential-election"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-jean-castex-win-the-2027-frenc
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.7% | 99.4% | $980K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.7% | 99.4% | $993K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-jean-castex-win-the-2027-frenc
 
 ### What are the current odds for "Will Jean Castex win the 2027 French presidential election?"?
 
-As of June 21, 2026, Polymarket prices YES at 0.7%.
+As of June 22, 2026, Polymarket prices YES at 0.7%.
 
 ### Where can I trade on this prediction market?
 

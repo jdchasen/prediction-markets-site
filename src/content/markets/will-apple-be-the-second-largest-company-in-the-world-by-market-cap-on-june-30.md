@@ -3,8 +3,8 @@ title: "Will Apple be the second-largest company in the world by market cap on J
 description: "Will Apple be the second-largest company in the world by market cap on June 30? Odds: 26.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Apple be the second-largest company in the world by market cap on June 30?"
 category: "finance"
-status: "active"
-lastUpdated: 2026-06-21
+status: "settled"
+lastUpdated: 2026-06-22
 expiryDate: 2026-06-30
 tags: ["finance", "polymarket"]
 polymarketYes: 26.0

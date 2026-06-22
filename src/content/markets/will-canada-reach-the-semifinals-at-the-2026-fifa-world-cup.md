@@ -3,8 +3,8 @@ title: "Will Canada reach the Semifinals at the 2026 FIFA World Cup?"
 description: "Will Canada reach the Semifinals at the 2026 FIFA World Cup? Odds: 4.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Canada reach the Semifinals at the 2026 FIFA World Cup?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-06-21
+status: "settled"
+lastUpdated: 2026-06-22
 expiryDate: 2026-07-13
 tags: ["polymarket", "sports"]
 polymarketYes: 4.2

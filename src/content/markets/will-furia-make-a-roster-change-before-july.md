@@ -3,8 +3,8 @@ title: "Will FURIA make a roster change before July?"
 description: "Will FURIA make a roster change before July? Odds: 6.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will FURIA make a roster change before July?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-06-21
+status: "settled"
+lastUpdated: 2026-06-22
 expiryDate: 2026-07-01
 tags: ["politics", "polymarket"]
 polymarketYes: 6.5

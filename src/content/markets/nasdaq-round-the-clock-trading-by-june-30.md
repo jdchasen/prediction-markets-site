@@ -1,15 +1,15 @@
 ---
 title: "Nasdaq round-the-clock trading by June 30?"
-description: "Nasdaq round-the-clock trading by June 30? Odds: 0.7% YES on Polymarket. See live prices and trade this market."
+description: "Nasdaq round-the-clock trading by June 30? Odds: 0.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Nasdaq round-the-clock trading by June 30?"
 category: "finance"
 status: "active"
-lastUpdated: 2026-06-21
+lastUpdated: 2026-06-22
 expiryDate: 2026-06-30
 tags: ["finance", "polymarket", "stocks"]
-polymarketYes: 0.7
-polymarketNo: 99.4
-polymarketVolume: 97291
+polymarketYes: 0.5
+polymarketNo: 99.5
+polymarketVolume: 97402
 polymarketUrl: "https://polymarket.com/event/nasdaq-round-the-clock-trading-by-june-30"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/nasdaq-round-the-clock-trading-by-j
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.7% | 99.4% | $97K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.5% | 99.5% | $97K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will SpaceX's market cap be between $3.0T and $3.5T at market close on last trading day of IPO month?](/odds/will-spacexs-market-cap-be-between-30t-and-35t-at-market-close-on-last-trading-d) — 3% YES
-- [Will Gold (GC) hit (HIGH) $5,300 by end of June?](/odds/will-gold-gc-hit-high-5300-by-end-of-june) — 0% YES
 - [Anysphere (Cursor) IPO before 2027?](/odds/anysphere-cursor-ipo-before-2027) — 2% YES
+- [Will SHEIN have the highest IPO Market Cap 2026?](/odds/will-shein-have-the-highest-ipo-market-cap-2026) — 0% YES
+- [Will NVIDIA be the second-largest company in the world by market cap on June 30?](/odds/will-nvidia-be-the-second-largest-company-in-the-world-by-market-cap-on-june-30) — 1% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Nasdaq round-the-clock trading by June 30?"?
 
-As of June 21, 2026, Polymarket prices YES at 0.7%.
+As of June 22, 2026, Polymarket prices YES at 0.5%.
 
 ### Where can I trade on this prediction market?
 

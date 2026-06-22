@@ -4,12 +4,12 @@ description: "Will inflation reach more than 4.5% in 2026? Odds: 20.5% YES on Po
 marketQuestion: "Will inflation reach more than 4.5% in 2026?"
 category: "economics"
 status: "active"
-lastUpdated: 2026-06-21
+lastUpdated: 2026-06-22
 expiryDate: 2026-12-31
 tags: ["economics", "polymarket", "sports"]
 polymarketYes: 20.5
 polymarketNo: 79.5
-polymarketVolume: 95354
+polymarketVolume: 95933
 polymarketUrl: "https://polymarket.com/event/will-inflation-reach-more-than-4pt5-in-2026"
 ---
 
@@ -17,18 +17,18 @@ polymarketUrl: "https://polymarket.com/event/will-inflation-reach-more-than-4pt5
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 20.5% | 79.5% | $95K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 20.5% | 79.5% | $96K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will the Fed increase interest rates by 50+ bps after the September 2026 meeting?](/odds/will-the-fed-increase-interest-rates-by-50-bps-after-the-september-2026-meeting) — 2% YES
-- [Will the Fed decrease interest rates by 50+ bps after the September 2026 meeting?](/odds/will-the-fed-decrease-interest-rates-by-50-bps-after-the-september-2026-meeting) — 2% YES
+- [Will the Fed increase interest rates by 50+ bps after the September 2026 meeting?](/odds/will-the-fed-increase-interest-rates-by-50-bps-after-the-september-2026-meeting) — 1% YES
+- [Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?](/odds/will-the-fed-decrease-interest-rates-by-25-bps-after-the-september-2026-meeting) — 6% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will inflation reach more than 4.5% in 2026?"?
 
-As of June 21, 2026, Polymarket prices YES at 20.5%.
+As of June 22, 2026, Polymarket prices YES at 20.5%.
 
 ### Where can I trade on this prediction market?
 

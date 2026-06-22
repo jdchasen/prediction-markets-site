@@ -3,8 +3,8 @@ title: "Will Russia capture Dorozhnie by July 31, 2026?"
 description: "Will Russia capture Dorozhnie by July 31, 2026? Odds: 97.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Russia capture Dorozhnie by July 31, 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-06-21
+status: "settled"
+lastUpdated: 2026-06-22
 expiryDate: 2026-07-31
 tags: ["politics", "polymarket"]
 polymarketYes: 97.9

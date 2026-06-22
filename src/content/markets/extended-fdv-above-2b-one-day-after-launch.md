@@ -4,12 +4,12 @@ description: "Extended FDV above $2B one day after launch? Odds: 4.2% YES on Pol
 marketQuestion: "Extended FDV above $2B one day after launch?"
 category: "crypto"
 status: "active"
-lastUpdated: 2026-06-21
+lastUpdated: 2026-06-22
 expiryDate: 2027-01-01
 tags: ["crypto", "polymarket"]
 polymarketYes: 4.2
 polymarketNo: 95.9
-polymarketVolume: 97895
+polymarketVolume: 97968
 polymarketUrl: "https://polymarket.com/event/extended-fdv-above-2b-one-day-after-launch-692-597-187"
 ---
 
@@ -21,15 +21,15 @@ polymarketUrl: "https://polymarket.com/event/extended-fdv-above-2b-one-day-after
 
 ## Related Markets
 
-- [Predict.fun FDV above $300M one day after launch?](/odds/predictfun-fdv-above-300m-one-day-after-launch) — 74% YES
-- [Will MetaMask launch a token by September 30, 2026?](/odds/will-metamask-launch-a-token-by-september-30-2026) — 6% YES
-- [Will GRVT launch a token by September 30, 2026?](/odds/will-grvt-launch-a-token-by-september-30-2026) — 92% YES
+- [Predict.fun FDV above $300M one day after launch?](/odds/predictfun-fdv-above-300m-one-day-after-launch) — 76% YES
+- [Will Bitcoin reach $67,500 in June?](/odds/will-bitcoin-reach-67500-in-june) — 40% YES
+- [Will Bitcoin reach $72,500 in June?](/odds/will-bitcoin-reach-72500-in-june) — 4% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Extended FDV above $2B one day after launch?"?
 
-As of June 21, 2026, Polymarket prices YES at 4.2%.
+As of June 22, 2026, Polymarket prices YES at 4.2%.
 
 ### Where can I trade on this prediction market?
 

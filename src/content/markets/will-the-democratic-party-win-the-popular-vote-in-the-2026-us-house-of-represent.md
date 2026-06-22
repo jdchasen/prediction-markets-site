@@ -4,12 +4,12 @@ description: "Will the Democratic Party win the popular vote in the 2026 U.S. Ho
 marketQuestion: "Will the Democratic Party win the popular vote in the 2026 U.S. House of Representatives midterm elections by between 6% and 8%?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-06-21
+lastUpdated: 2026-06-22
 expiryDate: 2026-11-03
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 17.5
 polymarketNo: 82.5
-polymarketVolume: 9721
+polymarketVolume: 9820
 polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-popular-vote-in-the-2026-us-house-of-representatives-midterm-elections-by-between-6-and-8-942"
 ---
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-p
 
 ### What are the current odds for "Will the Democratic Party win the popular vote in the 2026 U.S. House of Representatives midterm elections by between 6% and 8%?"?
 
-As of June 21, 2026, Polymarket prices YES at 17.5%.
+As of June 22, 2026, Polymarket prices YES at 17.5%.
 
 ### Where can I trade on this prediction market?
 
