@@ -3,8 +3,8 @@ title: "Will Taylor Swift get married in Manhattan?"
 description: "Will Taylor Swift get married in Manhattan? Odds: 54.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Taylor Swift get married in Manhattan?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-06-22
+status: "settled"
+lastUpdated: 2026-06-23
 expiryDate: 2026-07-04
 tags: ["politics", "polymarket"]
 polymarketYes: 54.0

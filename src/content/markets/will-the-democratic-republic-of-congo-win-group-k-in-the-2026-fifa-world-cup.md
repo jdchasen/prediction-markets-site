@@ -3,8 +3,8 @@ title: "Will the Democratic Republic of Congo win Group K in the 2026 FIFA World
 description: "Will the Democratic Republic of Congo win Group K in the 2026 FIFA World Cup? Odds: 5.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Democratic Republic of Congo win Group K in the 2026 FIFA World Cup?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-06-22
+status: "settled"
+lastUpdated: 2026-06-23
 expiryDate: 2026-06-27
 tags: ["polymarket", "sports"]
 polymarketYes: 5.9

@@ -3,8 +3,8 @@ title: "Floyd Mayweather vs. Manny Pacquiao 2"
 description: "Floyd Mayweather vs. Manny Pacquiao 2 Odds: 61.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Floyd Mayweather vs. Manny Pacquiao 2"
 category: "science"
-status: "active"
-lastUpdated: 2026-06-22
+status: "settled"
+lastUpdated: 2026-06-23
 expiryDate: 2026-09-20
 tags: ["polymarket", "science", "weather"]
 polymarketYes: 61.5

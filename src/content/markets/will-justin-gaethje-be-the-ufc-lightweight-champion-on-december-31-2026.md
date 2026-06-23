@@ -1,15 +1,15 @@
 ---
 title: "Will Justin Gaethje be the UFC Lightweight Champion on December 31, 2026?"
-description: "Will Justin Gaethje be the UFC Lightweight Champion on December 31, 2026? Odds: 74.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Justin Gaethje be the UFC Lightweight Champion on December 31, 2026? Odds: 75.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Justin Gaethje be the UFC Lightweight Champion on December 31, 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-06-22
+lastUpdated: 2026-06-23
 expiryDate: 2026-12-31
 tags: ["ethereum", "politics", "polymarket"]
-polymarketYes: 74.5
-polymarketNo: 25.5
-polymarketVolume: 9916
+polymarketYes: 75.5
+polymarketNo: 24.4
+polymarketVolume: 9989
 polymarketUrl: "https://polymarket.com/event/will-justin-gaethje-be-the-ufc-lightweight-champion-on-december-31-2026"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-justin-gaethje-be-the-ufc-ligh
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 74.5% | 25.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 75.5% | 24.4% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-justin-gaethje-be-the-ufc-ligh
 
 ### What are the current odds for "Will Justin Gaethje be the UFC Lightweight Champion on December 31, 2026?"?
 
-As of June 22, 2026, Polymarket prices YES at 74.5%.
+As of June 23, 2026, Polymarket prices YES at 75.5%.
 
 ### Where can I trade on this prediction market?
 

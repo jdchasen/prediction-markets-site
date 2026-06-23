@@ -3,8 +3,8 @@ title: "Will Neymar win the Golden Ball at the 2026 FIFA World Cup?"
 description: "Will Neymar win the Golden Ball at the 2026 FIFA World Cup? Odds: 0.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Neymar win the Golden Ball at the 2026 FIFA World Cup?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-06-22
+status: "settled"
+lastUpdated: 2026-06-23
 expiryDate: 2026-07-20
 tags: ["polymarket", "sports"]
 polymarketYes: 0.9

@@ -4,12 +4,12 @@ description: "Will Ukraine agree to cede territory to Russia by August 31, 2026?
 marketQuestion: "Will Ukraine agree to cede territory to Russia by August 31, 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-06-22
+lastUpdated: 2026-06-23
 expiryDate: 2026-08-31
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 6.0
 polymarketNo: 94.0
-polymarketVolume: 9856
+polymarketVolume: 9858
 polymarketUrl: "https://polymarket.com/event/will-ukraine-agree-to-cede-territory-to-russia-by-august-31-2026"
 ---
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-ukraine-agree-to-cede-territor
 
 ### What are the current odds for "Will Ukraine agree to cede territory to Russia by August 31, 2026?"?
 
-As of June 22, 2026, Polymarket prices YES at 6.0%.
+As of June 23, 2026, Polymarket prices YES at 6.0%.
 
 ### Where can I trade on this prediction market?
 

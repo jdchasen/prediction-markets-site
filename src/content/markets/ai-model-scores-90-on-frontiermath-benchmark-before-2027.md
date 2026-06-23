@@ -4,12 +4,12 @@ description: "AI model scores ≥ 90% on FrontierMath Benchmark before 2027? Odd
 marketQuestion: "AI model scores ≥ 90% on FrontierMath Benchmark before 2027?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-06-22
+lastUpdated: 2026-06-23
 expiryDate: 2026-12-31
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 83.0
 polymarketNo: 17.0
-polymarketVolume: 97622
+polymarketVolume: 97816
 polymarketUrl: "https://polymarket.com/event/ai-model-scores-90-on-frontiermath-benchmark-before-2027"
 ---
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/ai-model-scores-90-on-frontiermath-
 
 ### What are the current odds for "AI model scores ≥ 90% on FrontierMath Benchmark before 2027?"?
 
-As of June 22, 2026, Polymarket prices YES at 83.0%.
+As of June 23, 2026, Polymarket prices YES at 83.0%.
 
 ### Where can I trade on this prediction market?
 

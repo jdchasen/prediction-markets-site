@@ -3,8 +3,8 @@ title: "Will Switzerland be an advancing Group Stage third-place team at the 202
 description: "Will Switzerland be an advancing Group Stage third-place team at the 2026 World Cup? Odds: 0.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Switzerland be an advancing Group Stage third-place team at the 2026 World Cup?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-06-22
+status: "settled"
+lastUpdated: 2026-06-23
 expiryDate: 2026-06-29
 tags: ["polymarket", "sports"]
 polymarketYes: 0.5

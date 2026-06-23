@@ -4,12 +4,12 @@ description: "Anysphere (Cursor) IPO before 2027? Odds: 2.1% YES on Polymarket. 
 marketQuestion: "Anysphere (Cursor) IPO before 2027?"
 category: "finance"
 status: "active"
-lastUpdated: 2026-06-22
+lastUpdated: 2026-06-23
 expiryDate: 2026-12-31
 tags: ["finance", "polymarket"]
 polymarketYes: 2.1
 polymarketNo: 98.0
-polymarketVolume: 99418
+polymarketVolume: 99423
 polymarketUrl: "https://polymarket.com/event/anysphere-cursor-ipo-before-2027"
 ---
 
@@ -21,14 +21,13 @@ polymarketUrl: "https://polymarket.com/event/anysphere-cursor-ipo-before-2027"
 
 ## Related Markets
 
-- [Will Perplexity AI have the highest IPO Market Cap 2026?](/odds/will-perplexity-ai-have-the-highest-ipo-market-cap-2026) — 0% YES
-- [Nasdaq round-the-clock trading by June 30?](/odds/nasdaq-round-the-clock-trading-by-june-30) — 0% YES
+- [Will Gold (GC) settle over $6,000 on the final trading day of June 2026?](/odds/will-gold-gc-settle-over-6000-on-the-final-trading-day-of-june-2026) — 0% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Anysphere (Cursor) IPO before 2027?"?
 
-As of June 22, 2026, Polymarket prices YES at 2.1%.
+As of June 23, 2026, Polymarket prices YES at 2.1%.
 
 ### Where can I trade on this prediction market?
 

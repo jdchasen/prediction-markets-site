@@ -3,8 +3,8 @@ title: "Will Alex de Minaur be the 2026 Men’s Wimbledon winner?"
 description: "Will Alex de Minaur be the 2026 Men’s Wimbledon winner? Odds: 0.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Alex de Minaur be the 2026 Men’s Wimbledon winner?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-06-22
+status: "settled"
+lastUpdated: 2026-06-23
 expiryDate: 2026-07-12
 tags: ["politics", "polymarket"]
 polymarketYes: 0.9

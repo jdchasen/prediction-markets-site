@@ -3,8 +3,8 @@ title: "Will Lewis Hamilton win the 2026 F1 Austrian Grand Prix?"
 description: "Will Lewis Hamilton win the 2026 F1 Austrian Grand Prix? Odds: 19.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Lewis Hamilton win the 2026 F1 Austrian Grand Prix?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-06-22
+status: "settled"
+lastUpdated: 2026-06-23
 expiryDate: 2026-07-05
 tags: ["polymarket", "sports"]
 polymarketYes: 19.5

@@ -1,14 +1,14 @@
 ---
 title: "Will the Republican Party win the NY-08 House seat?"
-description: "Will the Republican Party win the NY-08 House seat? Odds: 6.9% YES on Polymarket. See live prices and trade this market."
+description: "Will the Republican Party win the NY-08 House seat? Odds: 6.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Republican Party win the NY-08 House seat?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-06-22
+lastUpdated: 2026-06-23
 expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
-polymarketYes: 6.9
-polymarketNo: 93.2
+polymarketYes: 6.2
+polymarketNo: 93.8
 polymarketVolume: 9970
 polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-ny-08-house-seat"
 ---
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-n
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 6.9% | 93.2% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 6.2% | 93.8% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-n
 
 ### What are the current odds for "Will the Republican Party win the NY-08 House seat?"?
 
-As of June 22, 2026, Polymarket prices YES at 6.9%.
+As of June 23, 2026, Polymarket prices YES at 6.2%.
 
 ### Where can I trade on this prediction market?
 

@@ -4,11 +4,11 @@ description: "Will Friedrich Merz be the next leader out before 2027? Odds: 0.1%
 marketQuestion: "Will Friedrich Merz be the next leader out before 2027?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-06-22
+lastUpdated: 2026-06-23
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 0.1
-polymarketNo: 99.9
+polymarketNo: 100.0
 polymarketVolume: 98027
 polymarketUrl: "https://polymarket.com/event/will-friedrich-merz-be-the-next-leader-out-before-2027-375"
 ---
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-friedrich-merz-be-the-next-lea
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.1% | 99.9% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.1% | 100.0% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-friedrich-merz-be-the-next-lea
 
 ### What are the current odds for "Will Friedrich Merz be the next leader out before 2027?"?
 
-As of June 22, 2026, Polymarket prices YES at 0.1%.
+As of June 23, 2026, Polymarket prices YES at 0.1%.
 
 ### Where can I trade on this prediction market?
 

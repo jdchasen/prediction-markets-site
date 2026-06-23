@@ -3,8 +3,8 @@ title: "Will Mohammed bin Salman sign a U.S. x Iran deal by July 31?"
 description: "Will Mohammed bin Salman sign a U.S. x Iran deal by July 31? Odds: 10.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Mohammed bin Salman sign a U.S. x Iran deal by July 31?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-06-22
+status: "settled"
+lastUpdated: 2026-06-23
 expiryDate: 2026-08-01
 tags: ["politics", "polymarket"]
 polymarketYes: 10.0

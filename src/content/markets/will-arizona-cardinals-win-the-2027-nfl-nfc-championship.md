@@ -4,7 +4,7 @@ description: "Will Arizona Cardinals win the 2027 NFL NFC Championship? Odds: 0.
 marketQuestion: "Will Arizona Cardinals win the 2027 NFL NFC Championship?"
 category: "sports"
 status: "active"
-lastUpdated: 2026-06-22
+lastUpdated: 2026-06-23
 expiryDate: 2027-01-25
 tags: ["polymarket", "sports"]
 polymarketYes: 0.8
@@ -21,15 +21,15 @@ polymarketUrl: "https://polymarket.com/event/will-arizona-cardinals-win-the-2027
 
 ## Related Markets
 
-- [Will the Democratic Republic of Congo win Group K in the 2026 FIFA World Cup?](/odds/will-the-democratic-republic-of-congo-win-group-k-in-the-2026-fifa-world-cup) — 6% YES
-- [Will Jordan win Group J in the 2026 FIFA World Cup?](/odds/will-jordan-win-group-j-in-the-2026-fifa-world-cup) — 0% YES
-- [Will Jordan advance to the knockout stages at the 2026 FIFA World Cup?](/odds/will-jordan-advance-to-the-knockout-stages-at-the-2026-fifa-world-cup) — 12% YES
+- [Will Ousmane Dembele be the top goalscorer at the 2026 FIFA World Cup?](/odds/will-ousmane-dembele-be-the-top-goalscorer-at-the-2026-fifa-world-cup) — 0% YES
+- [Will the Arizona Cardinals win the 2027 NFL league championship?](/odds/will-the-arizona-cardinals-win-the-2027-nfl-league-championship) — 1% YES
+- [Will Ecuador advance to the knockout stages at the 2026 FIFA World Cup?](/odds/will-ecuador-advance-to-the-knockout-stages-at-the-2026-fifa-world-cup) — 24% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Arizona Cardinals win the 2027 NFL NFC Championship?"?
 
-As of June 22, 2026, Polymarket prices YES at 0.8%.
+As of June 23, 2026, Polymarket prices YES at 0.8%.
 
 ### Where can I trade on this prediction market?
 

@@ -1,14 +1,14 @@
 ---
 title: "Will Neuralink's valuation hit (LOW) $32.5B by June 30?"
-description: "Will Neuralink's valuation hit (LOW) $32.5B by June 30? Odds: 0.2% YES on Polymarket. See live prices and trade this market."
+description: "Will Neuralink's valuation hit (LOW) $32.5B by June 30? Odds: 0.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Neuralink's valuation hit (LOW) $32.5B by June 30?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-06-22
+lastUpdated: 2026-06-23
 expiryDate: 2026-07-01
 tags: ["politics", "polymarket"]
-polymarketYes: 0.2
-polymarketNo: 99.8
+polymarketYes: 0.9
+polymarketNo: 99.2
 polymarketVolume: 9967
 polymarketUrl: "https://polymarket.com/event/will-neuralinks-valuation-hit-low-32pt5b-by-june-30"
 ---
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-neuralinks-valuation-hit-low-3
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.2% | 99.8% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.9% | 99.2% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-neuralinks-valuation-hit-low-3
 
 ### What are the current odds for "Will Neuralink's valuation hit (LOW) $32.5B by June 30?"?
 
-As of June 22, 2026, Polymarket prices YES at 0.2%.
+As of June 23, 2026, Polymarket prices YES at 0.9%.
 
 ### Where can I trade on this prediction market?
 

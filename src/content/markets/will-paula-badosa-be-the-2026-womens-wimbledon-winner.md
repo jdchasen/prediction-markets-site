@@ -4,12 +4,12 @@ description: "Will Paula Badosa be the 2026 Women’s Wimbledon Winner? Odds: 0.
 marketQuestion: "Will Paula Badosa be the 2026 Women’s Wimbledon Winner?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-06-22
+lastUpdated: 2026-06-23
 expiryDate: 2026-07-12
 tags: ["politics", "polymarket"]
 polymarketYes: 0.3
 polymarketNo: 99.7
-polymarketVolume: 98731
+polymarketVolume: 98743
 polymarketUrl: "https://polymarket.com/event/will-paula-badosa-be-the-2026-womens-wimbledon-winner"
 ---
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-paula-badosa-be-the-2026-women
 
 ### What are the current odds for "Will Paula Badosa be the 2026 Women’s Wimbledon Winner?"?
 
-As of June 22, 2026, Polymarket prices YES at 0.3%.
+As of June 23, 2026, Polymarket prices YES at 0.3%.
 
 ### Where can I trade on this prediction market?
 
