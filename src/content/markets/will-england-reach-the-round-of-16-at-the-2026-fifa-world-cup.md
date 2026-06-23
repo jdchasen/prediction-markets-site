@@ -1,15 +1,15 @@
 ---
 title: "Will England reach the Round of 16 at the 2026 FIFA World Cup?"
-description: "Will England reach the Round of 16 at the 2026 FIFA World Cup? Odds: 83.5% YES on Polymarket. See live prices and trade this market."
+description: "Will England reach the Round of 16 at the 2026 FIFA World Cup? Odds: 85.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will England reach the Round of 16 at the 2026 FIFA World Cup?"
 category: "sports"
 status: "active"
 lastUpdated: 2026-06-23
 expiryDate: 2026-07-04
 tags: ["polymarket", "sports"]
-polymarketYes: 83.5
-polymarketNo: 16.5
-polymarketVolume: 98277
+polymarketYes: 85.5
+polymarketNo: 14.5
+polymarketVolume: 99196
 polymarketUrl: "https://polymarket.com/event/will-england-reach-the-round-of-16-at-the-2026-fifa-world-cup-20260602025120779"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-england-reach-the-round-of-16-
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 83.5% | 16.5% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 85.5% | 14.5% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Ousmane Dembele be the top goalscorer at the 2026 FIFA World Cup?](/odds/will-ousmane-dembele-be-the-top-goalscorer-at-the-2026-fifa-world-cup) — 0% YES
-- [Will Arizona Cardinals win the 2027 NFL NFC Championship?](/odds/will-arizona-cardinals-win-the-2027-nfl-nfc-championship) — 1% YES
+- [Will Kylian Mbappe be the top goalscorer at the 2026 FIFA World Cup?](/odds/will-kylian-mbappe-be-the-top-goalscorer-at-the-2026-fifa-world-cup) — 30% YES
 - [Will the Arizona Cardinals win the 2027 NFL league championship?](/odds/will-the-arizona-cardinals-win-the-2027-nfl-league-championship) — 1% YES
+- [Will Arizona Cardinals win the 2027 NFL NFC Championship?](/odds/will-arizona-cardinals-win-the-2027-nfl-nfc-championship) — 1% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will England reach the Round of 16 at the 2026 FIFA World Cup?"?
 
-As of June 23, 2026, Polymarket prices YES at 83.5%.
+As of June 23, 2026, Polymarket prices YES at 85.5%.
 
 ### Where can I trade on this prediction market?
 

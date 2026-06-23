@@ -3,13 +3,13 @@ title: "Will Mohammed bin Salman sign a U.S. x Iran deal by July 31?"
 description: "Will Mohammed bin Salman sign a U.S. x Iran deal by July 31? Odds: 10.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Mohammed bin Salman sign a U.S. x Iran deal by July 31?"
 category: "politics"
-status: "settled"
+status: "active"
 lastUpdated: 2026-06-23
 expiryDate: 2026-08-01
 tags: ["politics", "polymarket"]
 polymarketYes: 10.0
 polymarketNo: 90.0
-polymarketVolume: 97420
+polymarketVolume: 97867
 polymarketUrl: "https://polymarket.com/event/will-mohammed-bin-salman-sign-a-uptspt-x-iran-deal-by-july-31-20260611235950077"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-mohammed-bin-salman-sign-a-upt
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 10.0% | 90.0% | $97K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 10.0% | 90.0% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-mohammed-bin-salman-sign-a-upt
 
 ### What are the current odds for "Will Mohammed bin Salman sign a U.S. x Iran deal by July 31?"?
 
-As of June 22, 2026, Polymarket prices YES at 10.0%.
+As of June 23, 2026, Polymarket prices YES at 10.0%.
 
 ### Where can I trade on this prediction market?
 

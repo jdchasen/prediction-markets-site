@@ -9,7 +9,7 @@ expiryDate: 2028-11-07
 tags: ["politics", "polymarket"]
 polymarketYes: 1.7
 polymarketNo: 98.4
-polymarketVolume: 9809612
+polymarketVolume: 9814915
 polymarketUrl: "https://polymarket.com/event/will-james-talarico-win-the-2028-democratic-presidential-nomination"
 ---
 
@@ -23,7 +23,7 @@ polymarketUrl: "https://polymarket.com/event/will-james-talarico-win-the-2028-de
 
 - [Will Nikki Haley win the 2028 Republican presidential nomination?](/odds/will-nikki-haley-win-the-2028-republican-presidential-nomination) — 1% YES
 - [Will Eduardo Bolsonaro win the 2026 Brazilian presidential election?](/odds/will-eduardo-bolsonaro-win-the-2026-brazilian-presidential-election) — 0% YES
-- [Will the Green Party (MP) win the most seats in the 2026 Swedish parliamentary election?](/odds/will-the-green-party-mp-win-the-most-seats-in-the-2026-swedish-parliamentary-ele) — 0% YES
+- [Chirayu Rana divorced?](/odds/chirayu-rana-divorced) — 0% YES
 
 ## Frequently Asked Questions
 

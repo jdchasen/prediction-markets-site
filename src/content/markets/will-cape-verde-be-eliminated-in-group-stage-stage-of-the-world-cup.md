@@ -3,7 +3,7 @@ title: "Will Cape Verde be eliminated in Group Stage stage of the World Cup?"
 description: "Will Cape Verde be eliminated in Group Stage stage of the World Cup? Odds: 29.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Cape Verde be eliminated in Group Stage stage of the World Cup?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-23
 expiryDate: 2026-07-19
 tags: ["polymarket", "sports"]

@@ -1,15 +1,15 @@
 ---
 title: "Will the price of Ethereum be above $1,500 on June 28?"
-description: "Will the price of Ethereum be above $1,500 on June 28? Odds: 92.0% YES on Polymarket. See live prices and trade this market."
+description: "Will the price of Ethereum be above $1,500 on June 28? Odds: 95.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the price of Ethereum be above $1,500 on June 28?"
 category: "crypto"
 status: "active"
 lastUpdated: 2026-06-23
 expiryDate: 2026-06-28
 tags: ["crypto", "ethereum", "polymarket"]
-polymarketYes: 92.0
-polymarketNo: 8.0
-polymarketVolume: 9810
+polymarketYes: 95.7
+polymarketNo: 4.3
+polymarketVolume: 9837
 polymarketUrl: "https://polymarket.com/event/ethereum-above-1500-on-june-28-2026"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/ethereum-above-1500-on-june-28-2026
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 92.0% | 8.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 95.7% | 4.3% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/ethereum-above-1500-on-june-28-2026
 
 ### What are the current odds for "Will the price of Ethereum be above $1,500 on June 28?"?
 
-As of June 23, 2026, Polymarket prices YES at 92.0%.
+As of June 23, 2026, Polymarket prices YES at 95.7%.
 
 ### Where can I trade on this prediction market?
 

@@ -1,23 +1,23 @@
 ---
-title: "Will Jonathan Kreiss-Tomkins win the 2026 Alaska governor election?"
-description: "Will Jonathan Kreiss-Tomkins win the 2026 Alaska governor election? Odds: 15.3% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Jonathan Kreiss-Tomkins win the 2026 Alaska governor election?"
+title: "Will there be no next Chancellor of the Exchequer of the UK in 2026?"
+description: "Will there be no next Chancellor of the Exchequer of the UK in 2026? Odds: 0.9% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will there be no next Chancellor of the Exchequer of the UK in 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-06-23
-expiryDate: 2026-11-03
-tags: ["elections", "politics", "polymarket"]
-polymarketYes: 15.3
-polymarketNo: 84.7
-polymarketVolume: 9900
-polymarketUrl: "https://polymarket.com/event/will-jonathan-kreiss-tomkins-win-the-2026-alaska-governor-election"
+expiryDate: 2026-12-31
+tags: ["politics", "polymarket"]
+polymarketYes: 0.9
+polymarketNo: 99.2
+polymarketVolume: 9821
+polymarketUrl: "https://polymarket.com/event/will-there-be-no-next-chancellor-of-the-exchequer-of-the-uk-in-2026-20260621005429788"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 15.3% | 84.7% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.9% | 99.2% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-jonathan-kreiss-tomkins-win-th
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Jonathan Kreiss-Tomkins win the 2026 Alaska governor election?"?
+### What are the current odds for "Will there be no next Chancellor of the Exchequer of the UK in 2026?"?
 
-As of June 23, 2026, Polymarket prices YES at 15.3%.
+As of June 23, 2026, Polymarket prices YES at 0.9%.
 
 ### Where can I trade on this prediction market?
 

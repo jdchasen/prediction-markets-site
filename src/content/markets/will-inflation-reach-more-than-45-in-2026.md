@@ -1,15 +1,15 @@
 ---
 title: "Will inflation reach more than 4.5% in 2026?"
-description: "Will inflation reach more than 4.5% in 2026? Odds: 20.5% YES on Polymarket. See live prices and trade this market."
+description: "Will inflation reach more than 4.5% in 2026? Odds: 19.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will inflation reach more than 4.5% in 2026?"
 category: "economics"
 status: "active"
 lastUpdated: 2026-06-23
 expiryDate: 2026-12-31
 tags: ["economics", "polymarket", "sports"]
-polymarketYes: 20.5
-polymarketNo: 79.5
-polymarketVolume: 96161
+polymarketYes: 19.5
+polymarketNo: 80.5
+polymarketVolume: 97542
 polymarketUrl: "https://polymarket.com/event/will-inflation-reach-more-than-4pt5-in-2026"
 ---
 
@@ -17,17 +17,17 @@ polymarketUrl: "https://polymarket.com/event/will-inflation-reach-more-than-4pt5
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 20.5% | 79.5% | $96K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 19.5% | 80.5% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will the Bank of Israel decrease the Bank of Israel Interest Rate after the July decision?](/odds/will-the-bank-of-israel-decrease-the-bank-of-israel-interest-rate-after-the-july) — 82% YES
+- [Will the Bank of Israel decrease the Bank of Israel Interest Rate after the July decision?](/odds/will-the-bank-of-israel-decrease-the-bank-of-israel-interest-rate-after-the-july) — 84% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will inflation reach more than 4.5% in 2026?"?
 
-As of June 23, 2026, Polymarket prices YES at 20.5%.
+As of June 23, 2026, Polymarket prices YES at 19.5%.
 
 ### Where can I trade on this prediction market?
 

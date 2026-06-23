@@ -1,14 +1,14 @@
 ---
 title: "Next Mythos-Class Model released by July 31, 2026?"
-description: "Next Mythos-Class Model released by July 31, 2026? Odds: 29.0% YES on Polymarket. See live prices and trade this market."
+description: "Next Mythos-Class Model released by July 31, 2026? Odds: 28.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Next Mythos-Class Model released by July 31, 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-06-23
 expiryDate: 2026-09-30
 tags: ["politics", "polymarket"]
-polymarketYes: 29.0
-polymarketNo: 71.0
+polymarketYes: 28.0
+polymarketNo: 72.0
 polymarketVolume: 9865
 polymarketUrl: "https://polymarket.com/event/next-mythos-class-model-released-by-july-31-2026"
 ---
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/next-mythos-class-model-released-by
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 29.0% | 71.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 28.0% | 72.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/next-mythos-class-model-released-by
 
 ### What are the current odds for "Next Mythos-Class Model released by July 31, 2026?"?
 
-As of June 23, 2026, Polymarket prices YES at 29.0%.
+As of June 23, 2026, Polymarket prices YES at 28.0%.
 
 ### Where can I trade on this prediction market?
 

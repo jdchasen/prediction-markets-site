@@ -8,7 +8,7 @@ lastUpdated: 2026-06-23
 tags: ["politics", "polymarket"]
 polymarketYes: 91.5
 polymarketNo: 8.5
-polymarketVolume: 9841
+polymarketVolume: 9844
 polymarketUrl: "https://polymarket.com/event/will-the-republicans-win-the-oklahoma-governor-race-in-2026"
 ---
 

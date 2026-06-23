@@ -3,7 +3,7 @@ title: "Will Ecuador advance to the knockout stages at the 2026 FIFA World Cup?"
 description: "Will Ecuador advance to the knockout stages at the 2026 FIFA World Cup? Odds: 24.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Ecuador advance to the knockout stages at the 2026 FIFA World Cup?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-23
 expiryDate: 2026-06-28
 tags: ["polymarket", "sports"]

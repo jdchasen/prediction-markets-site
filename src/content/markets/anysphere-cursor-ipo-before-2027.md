@@ -22,6 +22,8 @@ polymarketUrl: "https://polymarket.com/event/anysphere-cursor-ipo-before-2027"
 ## Related Markets
 
 - [Will Gold (GC) settle over $6,000 on the final trading day of June 2026?](/odds/will-gold-gc-settle-over-6000-on-the-final-trading-day-of-june-2026) — 0% YES
+- [Will Anthropic's market cap be between $2.0T and $2.25T at market close on IPO day?](/odds/will-anthropics-market-cap-be-between-20t-and-225t-at-market-close-on-ipo-day) — 7% YES
+- [Will Tesla deliver between 375000 and 400000 vehicles in Q2 2026](/odds/will-tesla-deliver-between-375000-and-400000-vehicles-in-q2-2026) — 2% YES
 
 ## Frequently Asked Questions
 

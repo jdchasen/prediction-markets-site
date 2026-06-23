@@ -21,9 +21,9 @@ polymarketUrl: "https://polymarket.com/event/will-arizona-cardinals-win-the-2027
 
 ## Related Markets
 
-- [Will Ousmane Dembele be the top goalscorer at the 2026 FIFA World Cup?](/odds/will-ousmane-dembele-be-the-top-goalscorer-at-the-2026-fifa-world-cup) — 0% YES
+- [Will Kylian Mbappe be the top goalscorer at the 2026 FIFA World Cup?](/odds/will-kylian-mbappe-be-the-top-goalscorer-at-the-2026-fifa-world-cup) — 30% YES
 - [Will the Arizona Cardinals win the 2027 NFL league championship?](/odds/will-the-arizona-cardinals-win-the-2027-nfl-league-championship) — 1% YES
-- [Will Ecuador advance to the knockout stages at the 2026 FIFA World Cup?](/odds/will-ecuador-advance-to-the-knockout-stages-at-the-2026-fifa-world-cup) — 24% YES
+- [Will England reach the Round of 16 at the 2026 FIFA World Cup?](/odds/will-england-reach-the-round-of-16-at-the-2026-fifa-world-cup) — 86% YES
 
 ## Frequently Asked Questions
 

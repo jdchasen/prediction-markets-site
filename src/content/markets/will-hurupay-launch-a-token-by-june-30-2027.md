@@ -3,7 +3,7 @@ title: "Will Hurupay launch a token by June 30, 2027?"
 description: "Will Hurupay launch a token by June 30, 2027? Odds: 57.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Hurupay launch a token by June 30, 2027?"
 category: "crypto"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-23
 expiryDate: 2027-07-01
 tags: ["crypto", "polymarket"]

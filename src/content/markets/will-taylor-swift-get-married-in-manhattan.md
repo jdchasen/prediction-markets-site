@@ -1,15 +1,15 @@
 ---
 title: "Will Taylor Swift get married in Manhattan?"
-description: "Will Taylor Swift get married in Manhattan? Odds: 54.0% YES on Polymarket. See live prices and trade this market."
+description: "Will Taylor Swift get married in Manhattan? Odds: 52.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Taylor Swift get married in Manhattan?"
 category: "politics"
-status: "settled"
+status: "active"
 lastUpdated: 2026-06-23
 expiryDate: 2026-07-04
 tags: ["politics", "polymarket"]
-polymarketYes: 54.0
-polymarketNo: 46.0
-polymarketVolume: 9766
+polymarketYes: 52.0
+polymarketNo: 48.0
+polymarketVolume: 9780
 polymarketUrl: "https://polymarket.com/event/will-taylor-swift-get-married-in-manhattan-20260605211638230"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-taylor-swift-get-married-in-ma
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 54.0% | 46.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 52.0% | 48.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-taylor-swift-get-married-in-ma
 
 ### What are the current odds for "Will Taylor Swift get married in Manhattan?"?
 
-As of June 22, 2026, Polymarket prices YES at 54.0%.
+As of June 23, 2026, Polymarket prices YES at 52.0%.
 
 ### Where can I trade on this prediction market?
 

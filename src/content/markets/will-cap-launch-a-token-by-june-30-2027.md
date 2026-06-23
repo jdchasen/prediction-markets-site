@@ -1,14 +1,14 @@
 ---
 title: "Will Cap launch a token by June 30, 2027?"
-description: "Will Cap launch a token by June 30, 2027? Odds: 98.9% YES on Polymarket. See live prices and trade this market."
+description: "Will Cap launch a token by June 30, 2027? Odds: 98.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Cap launch a token by June 30, 2027?"
 category: "crypto"
 status: "active"
 lastUpdated: 2026-06-23
 expiryDate: 2027-07-01
 tags: ["crypto", "polymarket"]
-polymarketYes: 98.9
-polymarketNo: 1.1
+polymarketYes: 98.8
+polymarketNo: 1.2
 polymarketVolume: 9885
 polymarketUrl: "https://polymarket.com/event/will-cap-launch-a-token-by-june-30-2027"
 ---
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-cap-launch-a-token-by-june-30-
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 98.9% | 1.1% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 98.8% | 1.2% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-cap-launch-a-token-by-june-30-
 
 ### What are the current odds for "Will Cap launch a token by June 30, 2027?"?
 
-As of June 23, 2026, Polymarket prices YES at 98.9%.
+As of June 23, 2026, Polymarket prices YES at 98.8%.
 
 ### Where can I trade on this prediction market?
 

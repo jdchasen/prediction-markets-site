@@ -1,23 +1,23 @@
 ---
-title: "Will the price of XRP be above $1.20 on June 26?"
-description: "Will the price of XRP be above $1.20 on June 26? Odds: 6.2% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will the price of XRP be above $1.20 on June 26?"
+title: "Will Trump pardon Keonne Rodriguez before 2027?"
+description: "Will Trump pardon Keonne Rodriguez before 2027? Odds: 16.0% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Trump pardon Keonne Rodriguez before 2027?"
 category: "politics"
-status: "settled"
+status: "active"
 lastUpdated: 2026-06-23
-expiryDate: 2026-06-26
-tags: ["politics", "polymarket"]
-polymarketYes: 6.2
-polymarketNo: 93.8
-polymarketVolume: 9993
-polymarketUrl: "https://polymarket.com/event/xrp-above-1pt2-on-june-26-2026"
+expiryDate: 2026-12-31
+tags: ["politics", "polymarket", "trump"]
+polymarketYes: 16.0
+polymarketNo: 84.0
+polymarketVolume: 9799
+polymarketUrl: "https://polymarket.com/event/will-trump-pardon-keonne-rodriguez-before-2027"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 6.2% | 93.8% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 16.0% | 84.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/xrp-above-1pt2-on-june-26-2026"
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will the price of XRP be above $1.20 on June 26?"?
+### What are the current odds for "Will Trump pardon Keonne Rodriguez before 2027?"?
 
-As of June 23, 2026, Polymarket prices YES at 6.2%.
+As of June 23, 2026, Polymarket prices YES at 16.0%.
 
 ### Where can I trade on this prediction market?
 
@@ -37,6 +37,6 @@ You can trade this market on [Polymarket](https://polymarket.us/1762?utm_source=
 
 ## Learn More
 
-- [Gold Price Prediction 2026: Will Gold Hit $7,000?](/blog/gold-price-prediction-2026-will-gold-hit-7000)
+- [Trump-Xi Meeting Predictions: What Will He Say?](/blog/trump-xi-meeting-predictions-what-will-he-say)
 - [Will Oil Hit $100? March Crude Prediction Market Odds](/blog/will-oil-hit-100-march-crude-prediction-market-odds)
 

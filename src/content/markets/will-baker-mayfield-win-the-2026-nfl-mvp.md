@@ -9,7 +9,7 @@ expiryDate: 2027-02-15
 tags: ["polymarket", "sports"]
 polymarketYes: 1.2
 polymarketNo: 98.8
-polymarketVolume: 98754
+polymarketVolume: 98817
 polymarketUrl: "https://polymarket.com/event/will-baker-mayfield-win-the-2026-nfl-mvp"
 ---
 
@@ -21,9 +21,9 @@ polymarketUrl: "https://polymarket.com/event/will-baker-mayfield-win-the-2026-nf
 
 ## Related Markets
 
-- [Will Ousmane Dembele be the top goalscorer at the 2026 FIFA World Cup?](/odds/will-ousmane-dembele-be-the-top-goalscorer-at-the-2026-fifa-world-cup) — 0% YES
-- [Will Arizona Cardinals win the 2027 NFL NFC Championship?](/odds/will-arizona-cardinals-win-the-2027-nfl-nfc-championship) — 1% YES
+- [Will Kylian Mbappe be the top goalscorer at the 2026 FIFA World Cup?](/odds/will-kylian-mbappe-be-the-top-goalscorer-at-the-2026-fifa-world-cup) — 30% YES
 - [Will the Arizona Cardinals win the 2027 NFL league championship?](/odds/will-the-arizona-cardinals-win-the-2027-nfl-league-championship) — 1% YES
+- [Will Arizona Cardinals win the 2027 NFL NFC Championship?](/odds/will-arizona-cardinals-win-the-2027-nfl-nfc-championship) — 1% YES
 
 ## Frequently Asked Questions
 

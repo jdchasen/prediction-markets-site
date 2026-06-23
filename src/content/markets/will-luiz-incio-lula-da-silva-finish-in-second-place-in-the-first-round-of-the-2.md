@@ -9,7 +9,7 @@ expiryDate: 2026-10-04
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 3.5
 polymarketNo: 96.5
-polymarketVolume: 99059
+polymarketVolume: 99119
 polymarketUrl: "https://polymarket.com/event/will-luiz-incio-lula-da-silva-finish-in-second-place-in-the-first-round-of-the-2026-brazilian-presidential-election"
 ---
 

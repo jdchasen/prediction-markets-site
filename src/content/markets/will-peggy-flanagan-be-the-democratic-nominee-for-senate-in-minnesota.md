@@ -1,14 +1,14 @@
 ---
 title: "Will Peggy Flanagan be the Democratic nominee for Senate in Minnesota?"
-description: "Will Peggy Flanagan be the Democratic nominee for Senate in Minnesota? Odds: 74.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Peggy Flanagan be the Democratic nominee for Senate in Minnesota? Odds: 74.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Peggy Flanagan be the Democratic nominee for Senate in Minnesota?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-06-23
 expiryDate: 2026-08-11
 tags: ["politics", "polymarket"]
-polymarketYes: 74.5
-polymarketNo: 25.5
+polymarketYes: 74.0
+polymarketNo: 26.0
 polymarketVolume: 9909
 polymarketUrl: "https://polymarket.com/event/will-peggy-flanagan-be-the-democratic-nominee-for-senate-in-minnesota"
 ---
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-peggy-flanagan-be-the-democrat
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 74.5% | 25.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 74.0% | 26.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-peggy-flanagan-be-the-democrat
 
 ### What are the current odds for "Will Peggy Flanagan be the Democratic nominee for Senate in Minnesota?"?
 
-As of June 23, 2026, Polymarket prices YES at 74.5%.
+As of June 23, 2026, Polymarket prices YES at 74.0%.
 
 ### Where can I trade on this prediction market?
 

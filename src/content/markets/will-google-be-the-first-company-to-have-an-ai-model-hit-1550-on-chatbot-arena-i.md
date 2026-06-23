@@ -1,15 +1,15 @@
 ---
 title: "Will Google be the first company to have an AI model hit 1550 on Chatbot Arena in 2026?"
-description: "Will Google be the first company to have an AI model hit 1550 on Chatbot Arena in 2026? Odds: 7.8% YES on Polymarket. See live prices and trade this market."
+description: "Will Google be the first company to have an AI model hit 1550 on Chatbot Arena in 2026? Odds: 4.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Google be the first company to have an AI model hit 1550 on Chatbot Arena in 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-06-23
 expiryDate: 2026-12-31
 tags: ["ai", "politics", "polymarket"]
-polymarketYes: 7.8
-polymarketNo: 92.2
-polymarketVolume: 9816
+polymarketYes: 4.0
+polymarketNo: 96.0
+polymarketVolume: 9926
 polymarketUrl: "https://polymarket.com/event/will-google-be-the-first-company-to-have-an-ai-model-hit-1550-on-chatbot-arena-in-2026"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-google-be-the-first-company-to
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 7.8% | 92.2% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 4.0% | 96.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-google-be-the-first-company-to
 
 ### What are the current odds for "Will Google be the first company to have an AI model hit 1550 on Chatbot Arena in 2026?"?
 
-As of June 23, 2026, Polymarket prices YES at 7.8%.
+As of June 23, 2026, Polymarket prices YES at 4.0%.
 
 ### Where can I trade on this prediction market?
 

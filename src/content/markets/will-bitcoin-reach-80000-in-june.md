@@ -9,7 +9,7 @@ expiryDate: 2026-07-01
 tags: ["bitcoin", "crypto", "polymarket"]
 polymarketYes: 0.4
 polymarketNo: 99.6
-polymarketVolume: 984951
+polymarketVolume: 995295
 polymarketUrl: "https://polymarket.com/event/will-bitcoin-reach-80k-in-june-2026"
 ---
 
@@ -17,13 +17,13 @@ polymarketUrl: "https://polymarket.com/event/will-bitcoin-reach-80k-in-june-2026
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.4% | 99.6% | $985K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.4% | 99.6% | $995K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Predict.fun FDV above $300M one day after launch?](/odds/predictfun-fdv-above-300m-one-day-after-launch) — 76% YES
 - [Extended FDV above $2B one day after launch?](/odds/extended-fdv-above-2b-one-day-after-launch) — 4% YES
-- [Will Cap launch a token by June 30, 2027?](/odds/will-cap-launch-a-token-by-june-30-2027) — 99% YES
+- [Will the price of Bitcoin be above $68,000 on June 27?](/odds/will-the-price-of-bitcoin-be-above-68000-on-june-27) — 2% YES
 
 ## Frequently Asked Questions
 

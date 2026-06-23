@@ -1,23 +1,23 @@
 ---
-title: "Will the price of XRP be above $1.20 on June 26?"
-description: "Will the price of XRP be above $1.20 on June 26? Odds: 6.2% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will the price of XRP be above $1.20 on June 26?"
+title: "Will Alien arrests in New York hit 4800+ by June 30?"
+description: "Will Alien arrests in New York hit 4800+ by June 30? Odds: 2.8% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Alien arrests in New York hit 4800+ by June 30?"
 category: "politics"
-status: "settled"
+status: "active"
 lastUpdated: 2026-06-23
-expiryDate: 2026-06-26
+expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
-polymarketYes: 6.2
-polymarketNo: 93.8
-polymarketVolume: 9993
-polymarketUrl: "https://polymarket.com/event/xrp-above-1pt2-on-june-26-2026"
+polymarketYes: 2.8
+polymarketNo: 97.2
+polymarketVolume: 9887
+polymarketUrl: "https://polymarket.com/event/will-alien-arrests-in-new-york-hit-4800-by-june-30"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 6.2% | 93.8% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 2.8% | 97.2% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/xrp-above-1pt2-on-june-26-2026"
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will the price of XRP be above $1.20 on June 26?"?
+### What are the current odds for "Will Alien arrests in New York hit 4800+ by June 30?"?
 
-As of June 23, 2026, Polymarket prices YES at 6.2%.
+As of June 23, 2026, Polymarket prices YES at 2.8%.
 
 ### Where can I trade on this prediction market?
 
@@ -37,6 +37,6 @@ You can trade this market on [Polymarket](https://polymarket.us/1762?utm_source=
 
 ## Learn More
 
-- [Gold Price Prediction 2026: Will Gold Hit $7,000?](/blog/gold-price-prediction-2026-will-gold-hit-7000)
 - [Will Oil Hit $100? March Crude Prediction Market Odds](/blog/will-oil-hit-100-march-crude-prediction-market-odds)
+- [Will MicroStrategy Sell Bitcoin? Market Odds](/blog/will-microstrategy-sell-bitcoin-market-odds)
 

@@ -1,23 +1,23 @@
 ---
-title: "JD Vance out as VP by December 31?"
-description: "JD Vance out as VP by December 31? Odds: 7.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "JD Vance out as VP by December 31?"
+title: "Chirayu Rana divorced?"
+description: "Chirayu Rana divorced? Odds: 0.3% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Chirayu Rana divorced?"
 category: "politics"
-status: "settled"
+status: "active"
 lastUpdated: 2026-06-23
-expiryDate: 2026-12-31
+expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
-polymarketYes: 7.5
-polymarketNo: 92.5
-polymarketVolume: 98076
-polymarketUrl: "https://polymarket.com/event/jd-vance-out-as-vp-by-december-31"
+polymarketYes: 0.3
+polymarketNo: 99.7
+polymarketVolume: 99880
+polymarketUrl: "https://polymarket.com/event/chirayu-rana-divorced"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 7.5% | 92.5% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.3% | 99.7% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/jd-vance-out-as-vp-by-december-31"
 
 ## Frequently Asked Questions
 
-### What are the current odds for "JD Vance out as VP by December 31?"?
+### What are the current odds for "Chirayu Rana divorced?"?
 
-As of June 23, 2026, Polymarket prices YES at 7.5%.
+As of June 23, 2026, Polymarket prices YES at 0.3%.
 
 ### Where can I trade on this prediction market?
 

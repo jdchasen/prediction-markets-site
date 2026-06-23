@@ -9,7 +9,7 @@ expiryDate: 2028-01-01
 tags: ["crypto", "polymarket"]
 polymarketYes: 76.5
 polymarketNo: 23.5
-polymarketVolume: 999369
+polymarketVolume: 999377
 polymarketUrl: "https://polymarket.com/event/predictfun-fdv-above-300m-one-day-after-launch"
 ---
 
@@ -23,7 +23,7 @@ polymarketUrl: "https://polymarket.com/event/predictfun-fdv-above-300m-one-day-a
 
 - [Will Bitcoin reach $80,000 in June?](/odds/will-bitcoin-reach-80000-in-june) — 0% YES
 - [Extended FDV above $2B one day after launch?](/odds/extended-fdv-above-2b-one-day-after-launch) — 4% YES
-- [Will Cap launch a token by June 30, 2027?](/odds/will-cap-launch-a-token-by-june-30-2027) — 99% YES
+- [Will the price of Bitcoin be above $68,000 on June 27?](/odds/will-the-price-of-bitcoin-be-above-68000-on-june-27) — 2% YES
 
 ## Frequently Asked Questions
 
