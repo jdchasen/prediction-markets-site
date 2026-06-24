@@ -1,15 +1,15 @@
 ---
 title: "Will Trump pardon Keonne Rodriguez before 2027?"
-description: "Will Trump pardon Keonne Rodriguez before 2027? Odds: 16.0% YES on Polymarket. See live prices and trade this market."
+description: "Will Trump pardon Keonne Rodriguez before 2027? Odds: 14.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Trump pardon Keonne Rodriguez before 2027?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-06-23
+lastUpdated: 2026-06-24
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket", "trump"]
-polymarketYes: 16.0
-polymarketNo: 84.0
-polymarketVolume: 9799
+polymarketYes: 14.5
+polymarketNo: 85.5
+polymarketVolume: 9801
 polymarketUrl: "https://polymarket.com/event/will-trump-pardon-keonne-rodriguez-before-2027"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-trump-pardon-keonne-rodriguez-
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 16.0% | 84.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 14.5% | 85.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Nikki Haley win the 2028 Republican presidential nomination?](/odds/will-nikki-haley-win-the-2028-republican-presidential-nomination) — 1% YES
-- [Will James Talarico win the 2028 Democratic presidential nomination?](/odds/will-james-talarico-win-the-2028-democratic-presidential-nomination) — 2% YES
 - [Will Eduardo Bolsonaro win the 2026 Brazilian presidential election?](/odds/will-eduardo-bolsonaro-win-the-2026-brazilian-presidential-election) — 0% YES
+- [Will James Talarico win the 2028 Democratic presidential nomination?](/odds/will-james-talarico-win-the-2028-democratic-presidential-nomination) — 2% YES
+- [Will The Hunger Games: Sunrise on the Reaping be the top grossing movie of 2026?](/odds/will-the-hunger-games-sunrise-on-the-reaping-be-the-top-grossing-movie-of-2026) — 0% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Trump pardon Keonne Rodriguez before 2027?"?
 
-As of June 23, 2026, Polymarket prices YES at 16.0%.
+As of June 24, 2026, Polymarket prices YES at 14.5%.
 
 ### Where can I trade on this prediction market?
 

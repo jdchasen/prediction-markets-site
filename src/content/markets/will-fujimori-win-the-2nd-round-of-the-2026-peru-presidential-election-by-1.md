@@ -3,8 +3,8 @@ title: "Will Fujimori win the 2nd round of the 2026 Peru presidential election b
 description: "Will Fujimori win the 2nd round of the 2026 Peru presidential election by 1%+? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Fujimori win the 2nd round of the 2026 Peru presidential election by 1%+?"
 category: "politics"
-status: "settled"
-lastUpdated: 2026-06-23
+status: "active"
+lastUpdated: 2026-06-24
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.1
 polymarketNo: 100.0
@@ -20,15 +20,15 @@ polymarketUrl: "https://polymarket.com/event/will-fujimori-win-the-2nd-round-of-
 
 ## Related Markets
 
-- [Will Nikki Haley win the 2028 Republican presidential nomination?](/odds/will-nikki-haley-win-the-2028-republican-presidential-nomination) — 1% YES
-- [Will James Talarico win the 2028 Democratic presidential nomination?](/odds/will-james-talarico-win-the-2028-democratic-presidential-nomination) — 2% YES
 - [Will Eduardo Bolsonaro win the 2026 Brazilian presidential election?](/odds/will-eduardo-bolsonaro-win-the-2026-brazilian-presidential-election) — 0% YES
+- [Will James Talarico win the 2028 Democratic presidential nomination?](/odds/will-james-talarico-win-the-2028-democratic-presidential-nomination) — 2% YES
+- [Will The Hunger Games: Sunrise on the Reaping be the top grossing movie of 2026?](/odds/will-the-hunger-games-sunrise-on-the-reaping-be-the-top-grossing-movie-of-2026) — 0% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Fujimori win the 2nd round of the 2026 Peru presidential election by 1%+?"?
 
-As of June 22, 2026, Polymarket prices YES at 0.1%.
+As of June 24, 2026, Polymarket prices YES at 0.1%.
 
 ### Where can I trade on this prediction market?
 

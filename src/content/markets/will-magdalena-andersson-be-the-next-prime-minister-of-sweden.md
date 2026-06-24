@@ -1,15 +1,15 @@
 ---
 title: "Will Magdalena Andersson be the next Prime Minister of Sweden?"
-description: "Will Magdalena Andersson be the next Prime Minister of Sweden? Odds: 74.0% YES on Polymarket. See live prices and trade this market."
+description: "Will Magdalena Andersson be the next Prime Minister of Sweden? Odds: 75.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Magdalena Andersson be the next Prime Minister of Sweden?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-06-23
+lastUpdated: 2026-06-24
 expiryDate: 2026-09-13
 tags: ["politics", "polymarket"]
-polymarketYes: 74.0
-polymarketNo: 26.0
-polymarketVolume: 98097
+polymarketYes: 75.5
+polymarketNo: 24.5
+polymarketVolume: 98262
 polymarketUrl: "https://polymarket.com/event/will-magdalena-andersson-be-the-next-prime-minister-of-sweden"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-magdalena-andersson-be-the-nex
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 74.0% | 26.0% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 75.5% | 24.5% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Nikki Haley win the 2028 Republican presidential nomination?](/odds/will-nikki-haley-win-the-2028-republican-presidential-nomination) — 1% YES
-- [Will James Talarico win the 2028 Democratic presidential nomination?](/odds/will-james-talarico-win-the-2028-democratic-presidential-nomination) — 2% YES
 - [Will Eduardo Bolsonaro win the 2026 Brazilian presidential election?](/odds/will-eduardo-bolsonaro-win-the-2026-brazilian-presidential-election) — 0% YES
+- [Will James Talarico win the 2028 Democratic presidential nomination?](/odds/will-james-talarico-win-the-2028-democratic-presidential-nomination) — 2% YES
+- [Will The Hunger Games: Sunrise on the Reaping be the top grossing movie of 2026?](/odds/will-the-hunger-games-sunrise-on-the-reaping-be-the-top-grossing-movie-of-2026) — 0% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Magdalena Andersson be the next Prime Minister of Sweden?"?
 
-As of June 23, 2026, Polymarket prices YES at 74.0%.
+As of June 24, 2026, Polymarket prices YES at 75.5%.
 
 ### Where can I trade on this prediction market?
 

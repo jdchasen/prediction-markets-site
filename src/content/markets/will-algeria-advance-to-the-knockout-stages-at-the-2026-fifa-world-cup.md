@@ -3,8 +3,8 @@ title: "Will Algeria advance to the knockout stages at the 2026 FIFA World Cup?"
 description: "Will Algeria advance to the knockout stages at the 2026 FIFA World Cup? Odds: 80.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Algeria advance to the knockout stages at the 2026 FIFA World Cup?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-06-23
+status: "settled"
+lastUpdated: 2026-06-24
 expiryDate: 2026-06-28
 tags: ["polymarket", "sports"]
 polymarketYes: 80.0

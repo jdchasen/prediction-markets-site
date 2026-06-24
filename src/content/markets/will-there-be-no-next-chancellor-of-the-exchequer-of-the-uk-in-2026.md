@@ -3,8 +3,8 @@ title: "Will there be no next Chancellor of the Exchequer of the UK in 2026?"
 description: "Will there be no next Chancellor of the Exchequer of the UK in 2026? Odds: 0.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will there be no next Chancellor of the Exchequer of the UK in 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-06-23
+status: "settled"
+lastUpdated: 2026-06-24
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 0.9

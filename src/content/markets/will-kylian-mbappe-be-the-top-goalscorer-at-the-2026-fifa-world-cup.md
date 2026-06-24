@@ -3,8 +3,8 @@ title: "Will Kylian Mbappe be the top goalscorer at the 2026 FIFA World Cup?"
 description: "Will Kylian Mbappe be the top goalscorer at the 2026 FIFA World Cup? Odds: 29.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Kylian Mbappe be the top goalscorer at the 2026 FIFA World Cup?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-06-23
+status: "settled"
+lastUpdated: 2026-06-24
 expiryDate: 2026-07-20
 tags: ["polymarket", "sports"]
 polymarketYes: 29.5

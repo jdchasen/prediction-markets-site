@@ -4,7 +4,7 @@ description: "Will Philadelphia Phillies win the 2026 NL East title? Odds: 24.5%
 marketQuestion: "Will Philadelphia Phillies win the 2026 NL East title?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-06-23
+lastUpdated: 2026-06-24
 expiryDate: 2026-10-11
 tags: ["politics", "polymarket"]
 polymarketYes: 24.5
@@ -21,15 +21,15 @@ polymarketUrl: "https://polymarket.com/event/will-philadelphia-phillies-win-the-
 
 ## Related Markets
 
-- [Will Nikki Haley win the 2028 Republican presidential nomination?](/odds/will-nikki-haley-win-the-2028-republican-presidential-nomination) — 1% YES
-- [Will James Talarico win the 2028 Democratic presidential nomination?](/odds/will-james-talarico-win-the-2028-democratic-presidential-nomination) — 2% YES
 - [Will Eduardo Bolsonaro win the 2026 Brazilian presidential election?](/odds/will-eduardo-bolsonaro-win-the-2026-brazilian-presidential-election) — 0% YES
+- [Will James Talarico win the 2028 Democratic presidential nomination?](/odds/will-james-talarico-win-the-2028-democratic-presidential-nomination) — 2% YES
+- [Will The Hunger Games: Sunrise on the Reaping be the top grossing movie of 2026?](/odds/will-the-hunger-games-sunrise-on-the-reaping-be-the-top-grossing-movie-of-2026) — 0% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Philadelphia Phillies win the 2026 NL East title?"?
 
-As of June 23, 2026, Polymarket prices YES at 24.5%.
+As of June 24, 2026, Polymarket prices YES at 24.5%.
 
 ### Where can I trade on this prediction market?
 

@@ -3,8 +3,8 @@ title: "Will Ivory Coast reach the 2026 FIFA World Cup final?"
 description: "Will Ivory Coast reach the 2026 FIFA World Cup final? Odds: 1.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Ivory Coast reach the 2026 FIFA World Cup final?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-06-23
+status: "settled"
+lastUpdated: 2026-06-24
 expiryDate: 2026-07-20
 tags: ["polymarket", "sports"]
 polymarketYes: 1.8

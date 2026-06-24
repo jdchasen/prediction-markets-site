@@ -1,14 +1,14 @@
 ---
 title: "Will GRVT launch a token by September 30, 2026?"
-description: "Will GRVT launch a token by September 30, 2026? Odds: 94.9% YES on Polymarket. See live prices and trade this market."
+description: "Will GRVT launch a token by September 30, 2026? Odds: 95.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will GRVT launch a token by September 30, 2026?"
 category: "crypto"
 status: "active"
-lastUpdated: 2026-06-23
+lastUpdated: 2026-06-24
 expiryDate: 2027-01-01
 tags: ["crypto", "polymarket"]
-polymarketYes: 94.9
-polymarketNo: 5.1
+polymarketYes: 95.1
+polymarketNo: 4.9
 polymarketVolume: 9847
 polymarketUrl: "https://polymarket.com/event/will-grvt-launch-a-token-by-september-30-2026"
 ---
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-grvt-launch-a-token-by-septemb
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 94.9% | 5.1% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 95.1% | 4.9% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Predict.fun FDV above $300M one day after launch?](/odds/predictfun-fdv-above-300m-one-day-after-launch) — 76% YES
 - [Will Bitcoin reach $80,000 in June?](/odds/will-bitcoin-reach-80000-in-june) — 0% YES
+- [Will MetaMask launch a token by September 30, 2026?](/odds/will-metamask-launch-a-token-by-september-30-2026) — 8% YES
 - [Extended FDV above $2B one day after launch?](/odds/extended-fdv-above-2b-one-day-after-launch) — 4% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will GRVT launch a token by September 30, 2026?"?
 
-As of June 23, 2026, Polymarket prices YES at 94.9%.
+As of June 24, 2026, Polymarket prices YES at 95.1%.
 
 ### Where can I trade on this prediction market?
 

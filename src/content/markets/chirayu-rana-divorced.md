@@ -3,8 +3,8 @@ title: "Chirayu Rana divorced?"
 description: "Chirayu Rana divorced? Odds: 0.3% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Chirayu Rana divorced?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-06-23
+status: "settled"
+lastUpdated: 2026-06-24
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
 polymarketYes: 0.3

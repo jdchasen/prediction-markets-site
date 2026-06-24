@@ -1,15 +1,15 @@
 ---
 title: "Will Trump attend 0 World Cup matches?"
-description: "Will Trump attend 0 World Cup matches? Odds: 7.0% YES on Polymarket. See live prices and trade this market."
+description: "Will Trump attend 0 World Cup matches? Odds: 5.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Trump attend 0 World Cup matches?"
 category: "sports"
 status: "active"
-lastUpdated: 2026-06-23
+lastUpdated: 2026-06-24
 expiryDate: 2026-07-20
 tags: ["polymarket", "sports", "trump"]
-polymarketYes: 7.0
-polymarketNo: 93.0
-polymarketVolume: 9781
+polymarketYes: 5.1
+polymarketNo: 94.9
+polymarketVolume: 9861
 polymarketUrl: "https://polymarket.com/event/will-trump-attend-0-world-cup-matches-20260610185740389"
 ---
 
@@ -17,11 +17,11 @@ polymarketUrl: "https://polymarket.com/event/will-trump-attend-0-world-cup-match
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 7.0% | 93.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 5.1% | 94.9% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Kylian Mbappe be the top goalscorer at the 2026 FIFA World Cup?](/odds/will-kylian-mbappe-be-the-top-goalscorer-at-the-2026-fifa-world-cup) — 30% YES
+- [Will USA win the 2026 FIFA World Cup?](/odds/will-usa-win-the-2026-fifa-world-cup) — 4% YES
 - [Will the Arizona Cardinals win the 2027 NFL league championship?](/odds/will-the-arizona-cardinals-win-the-2027-nfl-league-championship) — 1% YES
 - [Will Arizona Cardinals win the 2027 NFL NFC Championship?](/odds/will-arizona-cardinals-win-the-2027-nfl-nfc-championship) — 1% YES
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-trump-attend-0-world-cup-match
 
 ### What are the current odds for "Will Trump attend 0 World Cup matches?"?
 
-As of June 23, 2026, Polymarket prices YES at 7.0%.
+As of June 24, 2026, Polymarket prices YES at 5.1%.
 
 ### Where can I trade on this prediction market?
 

@@ -3,8 +3,8 @@ title: "Will Ethereum dip to $1,500 June 22-28?"
 description: "Will Ethereum dip to $1,500 June 22-28? Odds: 11.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Ethereum dip to $1,500 June 22-28?"
 category: "crypto"
-status: "active"
-lastUpdated: 2026-06-23
+status: "settled"
+lastUpdated: 2026-06-24
 expiryDate: 2026-06-29
 tags: ["crypto", "ethereum", "polymarket"]
 polymarketYes: 11.9

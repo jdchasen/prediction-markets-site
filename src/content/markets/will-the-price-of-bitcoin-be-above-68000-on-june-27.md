@@ -3,8 +3,8 @@ title: "Will the price of Bitcoin be above $68,000 on June 27?"
 description: "Will the price of Bitcoin be above $68,000 on June 27? Odds: 1.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the price of Bitcoin be above $68,000 on June 27?"
 category: "crypto"
-status: "active"
-lastUpdated: 2026-06-23
+status: "settled"
+lastUpdated: 2026-06-24
 expiryDate: 2026-06-27
 tags: ["bitcoin", "crypto", "polymarket"]
 polymarketYes: 1.9
