@@ -9,7 +9,7 @@ expiryDate: 2026-10-04
 tags: ["ai", "elections", "politics", "polymarket"]
 polymarketYes: 0.2
 polymarketNo: 99.8
-polymarketVolume: 97639
+polymarketVolume: 98054
 polymarketUrl: "https://polymarket.com/event/will-jair-bolsonaro-finish-in-second-place-in-the-first-round-of-the-2026-brazilian-presidential-election"
 ---
 

@@ -1,15 +1,15 @@
 ---
 title: "Iran Nuke before 2027?"
-description: "Iran Nuke before 2027? Odds: 5.3% YES on Polymarket. See live prices and trade this market."
+description: "Iran Nuke before 2027? Odds: 5.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Iran Nuke before 2027?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-06-24
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 5.3
-polymarketNo: 94.7
-polymarketVolume: 980339
+polymarketYes: 5.8
+polymarketNo: 94.2
+polymarketVolume: 982047
 polymarketUrl: "https://polymarket.com/event/iran-nuke-before-2027"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/iran-nuke-before-2027"
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 5.3% | 94.7% | $980K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 5.8% | 94.2% | $982K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/iran-nuke-before-2027"
 
 ### What are the current odds for "Iran Nuke before 2027?"?
 
-As of June 24, 2026, Polymarket prices YES at 5.3%.
+As of June 24, 2026, Polymarket prices YES at 5.8%.
 
 ### Where can I trade on this prediction market?
 

@@ -1,15 +1,15 @@
 ---
 title: "Will Switzerland be an advancing Group Stage third-place team at the 2026 World Cup?"
-description: "Will Switzerland be an advancing Group Stage third-place team at the 2026 World Cup? Odds: 0.6% YES on Polymarket. See live prices and trade this market."
+description: "Will Switzerland be an advancing Group Stage third-place team at the 2026 World Cup? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Switzerland be an advancing Group Stage third-place team at the 2026 World Cup?"
 category: "sports"
 status: "active"
 lastUpdated: 2026-06-24
 expiryDate: 2026-06-29
 tags: ["polymarket", "sports"]
-polymarketYes: 0.6
-polymarketNo: 99.4
-polymarketVolume: 9750
+polymarketYes: 0.1
+polymarketNo: 100.0
+polymarketVolume: 9778
 polymarketUrl: "https://polymarket.com/event/will-switzerland-be-an-advancing-group-stage-third-place-team-at-the-2026-world-cup-20260612150003087"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-switzerland-be-an-advancing-gr
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.6% | 99.4% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.1% | 100.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-switzerland-be-an-advancing-gr
 
 ### What are the current odds for "Will Switzerland be an advancing Group Stage third-place team at the 2026 World Cup?"?
 
-As of June 24, 2026, Polymarket prices YES at 0.6%.
+As of June 24, 2026, Polymarket prices YES at 0.1%.
 
 ### Where can I trade on this prediction market?
 

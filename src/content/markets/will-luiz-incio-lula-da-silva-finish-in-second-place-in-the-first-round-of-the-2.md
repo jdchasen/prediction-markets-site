@@ -1,15 +1,15 @@
 ---
 title: "Will Luiz Inácio Lula da Silva finish in second place in the first round of the 2026 Brazilian presidential election?"
-description: "Will Luiz Inácio Lula da Silva finish in second place in the first round of the 2026 Brazilian presidential election? Odds: 3.4% YES on Polymarket. See live ..."
+description: "Will Luiz Inácio Lula da Silva finish in second place in the first round of the 2026 Brazilian presidential election? Odds: 3.2% YES on Polymarket. See live ..."
 marketQuestion: "Will Luiz Inácio Lula da Silva finish in second place in the first round of the 2026 Brazilian presidential election?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-06-24
 expiryDate: 2026-10-04
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 3.4
-polymarketNo: 96.7
-polymarketVolume: 99194
+polymarketYes: 3.2
+polymarketNo: 96.8
+polymarketVolume: 99969
 polymarketUrl: "https://polymarket.com/event/will-luiz-incio-lula-da-silva-finish-in-second-place-in-the-first-round-of-the-2026-brazilian-presidential-election"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-luiz-incio-lula-da-silva-finis
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 3.4% | 96.7% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 3.2% | 96.8% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-luiz-incio-lula-da-silva-finis
 
 ### What are the current odds for "Will Luiz Inácio Lula da Silva finish in second place in the first round of the 2026 Brazilian presidential election?"?
 
-As of June 24, 2026, Polymarket prices YES at 3.4%.
+As of June 24, 2026, Polymarket prices YES at 3.2%.
 
 ### Where can I trade on this prediction market?
 

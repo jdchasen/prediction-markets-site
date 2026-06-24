@@ -9,7 +9,7 @@ expiryDate: 2026-10-11
 tags: ["politics", "polymarket"]
 polymarketYes: 24.5
 polymarketNo: 75.5
-polymarketVolume: 98512
+polymarketVolume: 98524
 polymarketUrl: "https://polymarket.com/event/will-philadelphia-phillies-win-the-2026-nl-east-title"
 ---
 

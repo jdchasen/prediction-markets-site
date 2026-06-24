@@ -3,7 +3,7 @@ title: "Will Portugal reach the 2026 FIFA World Cup final?"
 description: "Will Portugal reach the 2026 FIFA World Cup final? Odds: 18.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Portugal reach the 2026 FIFA World Cup final?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-24
 expiryDate: 2026-07-20
 tags: ["polymarket", "sports"]

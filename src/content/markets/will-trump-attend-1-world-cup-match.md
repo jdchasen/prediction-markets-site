@@ -3,7 +3,7 @@ title: "Will Trump attend 1 World Cup match?"
 description: "Will Trump attend 1 World Cup match? Odds: 54.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Trump attend 1 World Cup match?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-24
 expiryDate: 2026-07-20
 tags: ["polymarket", "sports", "trump"]

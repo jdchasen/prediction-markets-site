@@ -3,7 +3,7 @@ title: "Kansas City Royals vs. Tampa Bay Rays"
 description: "Kansas City Royals vs. Tampa Bay Rays Odds: 42.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Kansas City Royals vs. Tampa Bay Rays"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-24
 expiryDate: 2026-07-01
 tags: ["politics", "polymarket"]

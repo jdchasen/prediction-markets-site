@@ -23,7 +23,7 @@ polymarketUrl: "https://polymarket.com/event/will-perplexity-ai-have-the-highest
 
 - [Anysphere (Cursor) IPO before 2027?](/odds/anysphere-cursor-ipo-before-2027) — 2% YES
 - [Nasdaq round-the-clock trading by June 30?](/odds/nasdaq-round-the-clock-trading-by-june-30) — 0% YES
-- [Will Gold (GC) settle over $6,000 on the final trading day of June 2026?](/odds/will-gold-gc-settle-over-6000-on-the-final-trading-day-of-june-2026) — 0% YES
+- [Will Gold (GC) hit (HIGH) $4,400 by end of June? (copy)](/odds/will-gold-gc-hit-high-4400-by-end-of-june-copy) — 2% YES
 
 ## Frequently Asked Questions
 

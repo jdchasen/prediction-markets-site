@@ -3,7 +3,7 @@ title: "Next Mythos-Class Model released by July 31, 2026?"
 description: "Next Mythos-Class Model released by July 31, 2026? Odds: 27.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Next Mythos-Class Model released by July 31, 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-24
 expiryDate: 2026-09-30
 tags: ["politics", "polymarket"]

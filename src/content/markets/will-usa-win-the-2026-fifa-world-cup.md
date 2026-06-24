@@ -9,7 +9,7 @@ expiryDate: 2026-07-20
 tags: ["polymarket", "sports"]
 polymarketYes: 3.5
 polymarketNo: 96.5
-polymarketVolume: 98140373
+polymarketVolume: 98627083
 polymarketUrl: "https://polymarket.com/event/will-usa-win-the-2026-fifa-world-cup-467"
 ---
 
@@ -17,13 +17,13 @@ polymarketUrl: "https://polymarket.com/event/will-usa-win-the-2026-fifa-world-cu
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 3.5% | 96.5% | $98.1M | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 3.5% | 96.5% | $98.6M | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will the Arizona Cardinals win the 2027 NFL league championship?](/odds/will-the-arizona-cardinals-win-the-2027-nfl-league-championship) — 1% YES
 - [Will Arizona Cardinals win the 2027 NFL NFC Championship?](/odds/will-arizona-cardinals-win-the-2027-nfl-nfc-championship) — 1% YES
-- [Will Portugal reach the 2026 FIFA World Cup final?](/odds/will-portugal-reach-the-2026-fifa-world-cup-final) — 18% YES
+- [Will England reach the Round of 16 at the 2026 FIFA World Cup?](/odds/will-england-reach-the-round-of-16-at-the-2026-fifa-world-cup) — 84% YES
 
 ## Frequently Asked Questions
 

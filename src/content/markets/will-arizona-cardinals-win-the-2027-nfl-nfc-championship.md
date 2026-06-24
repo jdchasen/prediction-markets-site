@@ -23,7 +23,7 @@ polymarketUrl: "https://polymarket.com/event/will-arizona-cardinals-win-the-2027
 
 - [Will USA win the 2026 FIFA World Cup?](/odds/will-usa-win-the-2026-fifa-world-cup) — 4% YES
 - [Will the Arizona Cardinals win the 2027 NFL league championship?](/odds/will-the-arizona-cardinals-win-the-2027-nfl-league-championship) — 1% YES
-- [Will Portugal reach the 2026 FIFA World Cup final?](/odds/will-portugal-reach-the-2026-fifa-world-cup-final) — 18% YES
+- [Will England reach the Round of 16 at the 2026 FIFA World Cup?](/odds/will-england-reach-the-round-of-16-at-the-2026-fifa-world-cup) — 84% YES
 
 ## Frequently Asked Questions
 

@@ -3,7 +3,7 @@ title: "Croatia vs. Ghana: O/U 1.5"
 description: "Croatia vs. Ghana: O/U 1.5 Odds: 69.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Croatia vs. Ghana: O/U 1.5"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-24
 expiryDate: 2026-06-27
 tags: ["politics", "polymarket"]

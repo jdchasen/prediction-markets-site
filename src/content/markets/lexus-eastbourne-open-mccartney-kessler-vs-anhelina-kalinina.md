@@ -3,7 +3,7 @@ title: "Lexus Eastbourne Open: McCartney Kessler vs Anhelina Kalinina"
 description: "Lexus Eastbourne Open: McCartney Kessler vs Anhelina Kalinina Odds: 100.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Lexus Eastbourne Open: McCartney Kessler vs Anhelina Kalinina"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-24
 expiryDate: 2026-07-01
 tags: ["politics", "polymarket"]

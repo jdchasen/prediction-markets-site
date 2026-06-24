@@ -3,7 +3,7 @@ title: "Wimbledon, Qualification ATP: Vilius Gaubas vs Henry Searle"
 description: "Wimbledon, Qualification ATP: Vilius Gaubas vs Henry Searle Odds: 24.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Wimbledon, Qualification ATP: Vilius Gaubas vs Henry Searle"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-24
 expiryDate: 2026-07-01
 tags: ["politics", "polymarket"]

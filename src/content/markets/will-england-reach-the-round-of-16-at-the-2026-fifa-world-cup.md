@@ -1,15 +1,15 @@
 ---
 title: "Will England reach the Round of 16 at the 2026 FIFA World Cup?"
-description: "Will England reach the Round of 16 at the 2026 FIFA World Cup? Odds: 85.5% YES on Polymarket. See live prices and trade this market."
+description: "Will England reach the Round of 16 at the 2026 FIFA World Cup? Odds: 84.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will England reach the Round of 16 at the 2026 FIFA World Cup?"
 category: "sports"
 status: "active"
 lastUpdated: 2026-06-24
 expiryDate: 2026-07-04
 tags: ["polymarket", "sports"]
-polymarketYes: 85.5
-polymarketNo: 14.5
-polymarketVolume: 99364
+polymarketYes: 84.5
+polymarketNo: 15.5
+polymarketVolume: 99774
 polymarketUrl: "https://polymarket.com/event/will-england-reach-the-round-of-16-at-the-2026-fifa-world-cup-20260602025120779"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-england-reach-the-round-of-16-
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 85.5% | 14.5% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 84.5% | 15.5% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-england-reach-the-round-of-16-
 
 ### What are the current odds for "Will England reach the Round of 16 at the 2026 FIFA World Cup?"?
 
-As of June 24, 2026, Polymarket prices YES at 85.5%.
+As of June 24, 2026, Polymarket prices YES at 84.5%.
 
 ### Where can I trade on this prediction market?
 

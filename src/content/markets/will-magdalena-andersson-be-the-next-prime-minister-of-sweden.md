@@ -9,7 +9,7 @@ expiryDate: 2026-09-13
 tags: ["politics", "polymarket"]
 polymarketYes: 75.5
 polymarketNo: 24.5
-polymarketVolume: 98262
+polymarketVolume: 98279
 polymarketUrl: "https://polymarket.com/event/will-magdalena-andersson-be-the-next-prime-minister-of-sweden"
 ---
 

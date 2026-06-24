@@ -9,7 +9,7 @@ expiryDate: 2026-08-03
 tags: ["polymarket", "sports"]
 polymarketYes: 0.5
 polymarketNo: 99.5
-polymarketVolume: 9787
+polymarketVolume: 9823
 polymarketUrl: "https://polymarket.com/event/will-japan-score-the-most-goals-at-the-2026-fifa-world-cup"
 ---
 

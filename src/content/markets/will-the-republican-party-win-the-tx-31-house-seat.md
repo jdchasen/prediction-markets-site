@@ -9,7 +9,7 @@ expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
 polymarketYes: 85.5
 polymarketNo: 14.5
-polymarketVolume: 9953
+polymarketVolume: 9964
 polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-tx-31-house-seat"
 ---
 
