@@ -1,15 +1,15 @@
 ---
 title: "Will Venezuelan crude oil production reach 1.2m barrels per day in 2026?"
-description: "Will Venezuelan crude oil production reach 1.2m barrels per day in 2026? Odds: 68.0% YES on Polymarket. See live prices and trade this market."
+description: "Will Venezuelan crude oil production reach 1.2m barrels per day in 2026? Odds: 67.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Venezuelan crude oil production reach 1.2m barrels per day in 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-06-24
+lastUpdated: 2026-06-25
 expiryDate: 2027-02-28
 tags: ["politics", "polymarket"]
-polymarketYes: 68.0
-polymarketNo: 32.0
-polymarketVolume: 9878
+polymarketYes: 67.0
+polymarketNo: 33.0
+polymarketVolume: 9881
 polymarketUrl: "https://polymarket.com/event/will-venezuelan-crude-oil-production-reach-1pt2m-barrels-per-day-in-2026"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-venezuelan-crude-oil-productio
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 68.0% | 32.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 67.0% | 33.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-venezuelan-crude-oil-productio
 
 ### What are the current odds for "Will Venezuelan crude oil production reach 1.2m barrels per day in 2026?"?
 
-As of June 24, 2026, Polymarket prices YES at 68.0%.
+As of June 25, 2026, Polymarket prices YES at 67.0%.
 
 ### Where can I trade on this prediction market?
 

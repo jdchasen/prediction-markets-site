@@ -4,7 +4,7 @@ description: "Will GRVT launch a token by September 30, 2026? Odds: 95.2% YES on
 marketQuestion: "Will GRVT launch a token by September 30, 2026?"
 category: "crypto"
 status: "active"
-lastUpdated: 2026-06-24
+lastUpdated: 2026-06-25
 expiryDate: 2027-01-01
 tags: ["crypto", "polymarket"]
 polymarketYes: 95.2
@@ -21,7 +21,7 @@ polymarketUrl: "https://polymarket.com/event/will-grvt-launch-a-token-by-septemb
 
 ## Related Markets
 
-- [Will Ethereum dip to $1,000 by December 31, 2026?](/odds/will-ethereum-dip-to-1000-by-december-31-2026) — 28% YES
+- [Will Ethereum dip to $1,000 by December 31, 2026?](/odds/will-ethereum-dip-to-1000-by-december-31-2026) — 24% YES
 - [Will MetaMask launch a token by September 30, 2026?](/odds/will-metamask-launch-a-token-by-september-30-2026) — 7% YES
 - [Extended FDV above $2B one day after launch?](/odds/extended-fdv-above-2b-one-day-after-launch) — 4% YES
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-grvt-launch-a-token-by-septemb
 
 ### What are the current odds for "Will GRVT launch a token by September 30, 2026?"?
 
-As of June 24, 2026, Polymarket prices YES at 95.2%.
+As of June 25, 2026, Polymarket prices YES at 95.2%.
 
 ### Where can I trade on this prediction market?
 

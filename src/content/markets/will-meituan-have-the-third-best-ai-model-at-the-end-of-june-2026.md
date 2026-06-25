@@ -4,7 +4,7 @@ description: "Will Meituan have the third best AI model at the end of June 2026?
 marketQuestion: "Will Meituan have the third best AI model at the end of June 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-06-24
+lastUpdated: 2026-06-25
 expiryDate: 2026-06-30
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 0.1
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-meituan-have-the-third-best-ai
 
 ### What are the current odds for "Will Meituan have the third best AI model at the end of June 2026?"?
 
-As of June 24, 2026, Polymarket prices YES at 0.1%.
+As of June 25, 2026, Polymarket prices YES at 0.1%.
 
 ### Where can I trade on this prediction market?
 

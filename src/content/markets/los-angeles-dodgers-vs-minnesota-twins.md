@@ -3,8 +3,8 @@ title: "Los Angeles Dodgers vs. Minnesota Twins"
 description: "Los Angeles Dodgers vs. Minnesota Twins Odds: 60.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Los Angeles Dodgers vs. Minnesota Twins"
 category: "politics"
-status: "active"
-lastUpdated: 2026-06-24
+status: "settled"
+lastUpdated: 2026-06-25
 expiryDate: 2026-07-01
 tags: ["politics", "polymarket"]
 polymarketYes: 60.5

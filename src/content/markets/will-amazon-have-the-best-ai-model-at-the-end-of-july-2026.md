@@ -3,8 +3,8 @@ title: "Will Amazon have the best AI model at the end of July 2026?"
 description: "Will Amazon have the best AI model at the end of July 2026? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Amazon have the best AI model at the end of July 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-06-24
+status: "settled"
+lastUpdated: 2026-06-25
 expiryDate: 2026-07-31
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 0.1

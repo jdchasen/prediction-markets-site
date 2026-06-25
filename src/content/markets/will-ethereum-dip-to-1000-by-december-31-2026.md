@@ -1,15 +1,15 @@
 ---
 title: "Will Ethereum dip to $1,000 by December 31, 2026?"
-description: "Will Ethereum dip to $1,000 by December 31, 2026? Odds: 27.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Ethereum dip to $1,000 by December 31, 2026? Odds: 24.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Ethereum dip to $1,000 by December 31, 2026?"
 category: "crypto"
 status: "active"
-lastUpdated: 2026-06-24
+lastUpdated: 2026-06-25
 expiryDate: 2027-01-01
 tags: ["crypto", "ethereum", "polymarket"]
-polymarketYes: 27.5
-polymarketNo: 72.5
-polymarketVolume: 982765
+polymarketYes: 24.5
+polymarketNo: 75.5
+polymarketVolume: 986231
 polymarketUrl: "https://polymarket.com/event/will-ethereum-dip-to-1000-by-december-31-2026-273-175"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-ethereum-dip-to-1000-by-decemb
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 27.5% | 72.5% | $983K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 24.5% | 75.5% | $986K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will MetaMask launch a token by September 30, 2026?](/odds/will-metamask-launch-a-token-by-september-30-2026) — 7% YES
 - [Extended FDV above $2B one day after launch?](/odds/extended-fdv-above-2b-one-day-after-launch) — 4% YES
-- [Will Ethereum dip to $500 by December 31, 2026?](/odds/will-ethereum-dip-to-500-by-december-31-2026) — 8% YES
+- [Will Loopscale launch a token by December 31, 2026?](/odds/will-loopscale-launch-a-token-by-december-31-2026) — 15% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Ethereum dip to $1,000 by December 31, 2026?"?
 
-As of June 24, 2026, Polymarket prices YES at 27.5%.
+As of June 25, 2026, Polymarket prices YES at 24.5%.
 
 ### Where can I trade on this prediction market?
 

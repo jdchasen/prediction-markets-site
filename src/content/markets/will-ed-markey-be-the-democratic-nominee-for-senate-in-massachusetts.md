@@ -4,12 +4,12 @@ description: "Will Ed Markey be the Democratic nominee for Senate in Massachuset
 marketQuestion: "Will Ed Markey be the Democratic nominee for Senate in Massachusetts?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-06-24
+lastUpdated: 2026-06-25
 expiryDate: 2026-09-01
 tags: ["politics", "polymarket"]
 polymarketYes: 72.5
 polymarketNo: 27.5
-polymarketVolume: 9797
+polymarketVolume: 9816
 polymarketUrl: "https://polymarket.com/event/will-ed-markey-be-the-democratic-nominee-for-senate-in-massachusetts"
 ---
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-ed-markey-be-the-democratic-no
 
 ### What are the current odds for "Will Ed Markey be the Democratic nominee for Senate in Massachusetts?"?
 
-As of June 24, 2026, Polymarket prices YES at 72.5%.
+As of June 25, 2026, Polymarket prices YES at 72.5%.
 
 ### Where can I trade on this prediction market?
 

@@ -4,7 +4,7 @@ description: "Will Kansas City Chiefs win the 2027 NFL AFC Championship? Odds: 9
 marketQuestion: "Will Kansas City Chiefs win the 2027 NFL AFC Championship?"
 category: "sports"
 status: "active"
-lastUpdated: 2026-06-24
+lastUpdated: 2026-06-25
 expiryDate: 2027-01-25
 tags: ["polymarket", "sports"]
 polymarketYes: 9.5
@@ -22,14 +22,14 @@ polymarketUrl: "https://polymarket.com/event/will-kansas-city-chiefs-win-the-202
 ## Related Markets
 
 - [Will USA win the 2026 FIFA World Cup?](/odds/will-usa-win-the-2026-fifa-world-cup) — 4% YES
-- [Will the Arizona Cardinals win the 2027 NFL league championship?](/odds/will-the-arizona-cardinals-win-the-2027-nfl-league-championship) — 1% YES
 - [Will Arizona Cardinals win the 2027 NFL NFC Championship?](/odds/will-arizona-cardinals-win-the-2027-nfl-nfc-championship) — 1% YES
+- [Will Baker Mayfield win the 2026 NFL MVP?](/odds/will-baker-mayfield-win-the-2026-nfl-mvp) — 1% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Kansas City Chiefs win the 2027 NFL AFC Championship?"?
 
-As of June 24, 2026, Polymarket prices YES at 9.5%.
+As of June 25, 2026, Polymarket prices YES at 9.5%.
 
 ### Where can I trade on this prediction market?
 

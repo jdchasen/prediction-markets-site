@@ -1,15 +1,15 @@
 ---
 title: "Will OpenAI have the best Coding AI model at the end of June 2026?"
-description: "Will OpenAI have the best Coding AI model at the end of June 2026? Odds: 3.3% YES on Polymarket. See live prices and trade this market."
+description: "Will OpenAI have the best Coding AI model at the end of June 2026? Odds: 2.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will OpenAI have the best Coding AI model at the end of June 2026?"
 category: "politics"
-status: "settled"
-lastUpdated: 2026-06-24
+status: "active"
+lastUpdated: 2026-06-25
 expiryDate: 2026-06-30
 tags: ["ai", "politics", "polymarket"]
-polymarketYes: 3.3
-polymarketNo: 96.7
-polymarketVolume: 9743
+polymarketYes: 2.4
+polymarketNo: 97.6
+polymarketVolume: 9896
 polymarketUrl: "https://polymarket.com/event/will-openai-have-the-best-coding-ai-model-at-the-end-of-june-2026"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-openai-have-the-best-coding-ai
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 3.3% | 96.7% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 2.4% | 97.6% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-openai-have-the-best-coding-ai
 
 ### What are the current odds for "Will OpenAI have the best Coding AI model at the end of June 2026?"?
 
-As of June 24, 2026, Polymarket prices YES at 3.3%.
+As of June 25, 2026, Polymarket prices YES at 2.4%.
 
 ### Where can I trade on this prediction market?
 

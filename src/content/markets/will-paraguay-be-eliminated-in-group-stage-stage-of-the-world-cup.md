@@ -3,8 +3,8 @@ title: "Will Paraguay be eliminated in Group Stage stage of the World Cup?"
 description: "Will Paraguay be eliminated in Group Stage stage of the World Cup? Odds: 14.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Paraguay be eliminated in Group Stage stage of the World Cup?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-06-24
+status: "settled"
+lastUpdated: 2026-06-25
 expiryDate: 2026-07-19
 tags: ["polymarket", "sports"]
 polymarketYes: 14.0

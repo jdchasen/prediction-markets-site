@@ -4,12 +4,12 @@ description: "Will Nvidia have a #1 AI model by June 30? Odds: 0.1% YES on Polym
 marketQuestion: "Will Nvidia have a #1 AI model by June 30?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-06-24
+lastUpdated: 2026-06-25
 expiryDate: 2026-06-30
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 0.1
 polymarketNo: 99.9
-polymarketVolume: 9948
+polymarketVolume: 9949
 polymarketUrl: "https://polymarket.com/event/will-nvidia-have-a-1-ai-model-by-june-30"
 ---
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-nvidia-have-a-1-ai-model-by-ju
 
 ### What are the current odds for "Will Nvidia have a #1 AI model by June 30?"?
 
-As of June 24, 2026, Polymarket prices YES at 0.1%.
+As of June 25, 2026, Polymarket prices YES at 0.1%.
 
 ### Where can I trade on this prediction market?
 

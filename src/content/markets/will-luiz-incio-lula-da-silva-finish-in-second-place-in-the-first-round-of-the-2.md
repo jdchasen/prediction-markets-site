@@ -3,8 +3,8 @@ title: "Will Luiz Inácio Lula da Silva finish in second place in the first roun
 description: "Will Luiz Inácio Lula da Silva finish in second place in the first round of the 2026 Brazilian presidential election? Odds: 3.2% YES on Polymarket. See live ..."
 marketQuestion: "Will Luiz Inácio Lula da Silva finish in second place in the first round of the 2026 Brazilian presidential election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-06-24
+status: "settled"
+lastUpdated: 2026-06-25
 expiryDate: 2026-10-04
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 3.2

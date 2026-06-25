@@ -4,12 +4,12 @@ description: "Extended FDV above $2B one day after launch? Odds: 4.2% YES on Pol
 marketQuestion: "Extended FDV above $2B one day after launch?"
 category: "crypto"
 status: "active"
-lastUpdated: 2026-06-24
+lastUpdated: 2026-06-25
 expiryDate: 2027-01-01
 tags: ["crypto", "polymarket"]
 polymarketYes: 4.2
 polymarketNo: 95.9
-polymarketVolume: 98011
+polymarketVolume: 98044
 polymarketUrl: "https://polymarket.com/event/extended-fdv-above-2b-one-day-after-launch-692-597-187"
 ---
 
@@ -21,15 +21,15 @@ polymarketUrl: "https://polymarket.com/event/extended-fdv-above-2b-one-day-after
 
 ## Related Markets
 
-- [Will Ethereum dip to $1,000 by December 31, 2026?](/odds/will-ethereum-dip-to-1000-by-december-31-2026) — 28% YES
+- [Will Ethereum dip to $1,000 by December 31, 2026?](/odds/will-ethereum-dip-to-1000-by-december-31-2026) — 24% YES
 - [Will MetaMask launch a token by September 30, 2026?](/odds/will-metamask-launch-a-token-by-september-30-2026) — 7% YES
-- [Will Ethereum dip to $500 by December 31, 2026?](/odds/will-ethereum-dip-to-500-by-december-31-2026) — 8% YES
+- [Will Loopscale launch a token by December 31, 2026?](/odds/will-loopscale-launch-a-token-by-december-31-2026) — 15% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Extended FDV above $2B one day after launch?"?
 
-As of June 24, 2026, Polymarket prices YES at 4.2%.
+As of June 25, 2026, Polymarket prices YES at 4.2%.
 
 ### Where can I trade on this prediction market?
 

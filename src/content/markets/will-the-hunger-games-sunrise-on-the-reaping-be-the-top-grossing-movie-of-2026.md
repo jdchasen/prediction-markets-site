@@ -4,12 +4,12 @@ description: "Will The Hunger Games: Sunrise on the Reaping be the top grossing 
 marketQuestion: "Will The Hunger Games: Sunrise on the Reaping be the top grossing movie of 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-06-24
+lastUpdated: 2026-06-25
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 0.4
 polymarketNo: 99.6
-polymarketVolume: 991098
+polymarketVolume: 995477
 polymarketUrl: "https://polymarket.com/event/will-the-hunger-games-sunrise-on-the-reaping-be-the-top-grossing-movie-of-2026"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-the-hunger-games-sunrise-on-th
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.4% | 99.6% | $991K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.4% | 99.6% | $995K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Eduardo Bolsonaro win the 2026 Brazilian presidential election?](/odds/will-eduardo-bolsonaro-win-the-2026-brazilian-presidential-election) — 0% YES
 - [Will James Talarico win the 2028 Democratic presidential nomination?](/odds/will-james-talarico-win-the-2028-democratic-presidential-nomination) — 2% YES
-- [Iran Nuke before 2027?](/odds/iran-nuke-before-2027) — 6% YES
+- [Will Satoshi's identity be revealed by June 30?](/odds/will-satoshis-identity-be-revealed-by-june-30) — 0% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will The Hunger Games: Sunrise on the Reaping be the top grossing movie of 2026?"?
 
-As of June 24, 2026, Polymarket prices YES at 0.4%.
+As of June 25, 2026, Polymarket prices YES at 0.4%.
 
 ### Where can I trade on this prediction market?
 

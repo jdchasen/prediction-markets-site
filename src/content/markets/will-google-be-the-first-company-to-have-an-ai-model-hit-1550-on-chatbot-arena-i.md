@@ -3,8 +3,8 @@ title: "Will Google be the first company to have an AI model hit 1550 on Chatbot
 description: "Will Google be the first company to have an AI model hit 1550 on Chatbot Arena in 2026? Odds: 3.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Google be the first company to have an AI model hit 1550 on Chatbot Arena in 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-06-24
+status: "settled"
+lastUpdated: 2026-06-25
 expiryDate: 2026-12-31
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 3.9

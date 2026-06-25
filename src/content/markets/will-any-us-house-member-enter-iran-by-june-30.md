@@ -3,8 +3,8 @@ title: "Will any U.S. House member enter Iran by June 30?"
 description: "Will any U.S. House member enter Iran by June 30? Odds: 0.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will any U.S. House member enter Iran by June 30?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-06-24
+status: "settled"
+lastUpdated: 2026-06-25
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
 polymarketYes: 0.9

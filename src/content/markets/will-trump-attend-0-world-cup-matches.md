@@ -1,14 +1,14 @@
 ---
 title: "Will Trump attend 0 World Cup matches?"
-description: "Will Trump attend 0 World Cup matches? Odds: 3.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Trump attend 0 World Cup matches? Odds: 3.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Trump attend 0 World Cup matches?"
 category: "sports"
 status: "active"
-lastUpdated: 2026-06-24
+lastUpdated: 2026-06-25
 expiryDate: 2026-07-20
 tags: ["polymarket", "sports", "trump"]
-polymarketYes: 3.5
-polymarketNo: 96.5
+polymarketYes: 3.8
+polymarketNo: 96.2
 polymarketVolume: 9942
 polymarketUrl: "https://polymarket.com/event/will-trump-attend-0-world-cup-matches-20260610185740389"
 ---
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-trump-attend-0-world-cup-match
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 3.5% | 96.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 3.8% | 96.2% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will USA win the 2026 FIFA World Cup?](/odds/will-usa-win-the-2026-fifa-world-cup) — 4% YES
-- [Will the Arizona Cardinals win the 2027 NFL league championship?](/odds/will-the-arizona-cardinals-win-the-2027-nfl-league-championship) — 1% YES
 - [Will Arizona Cardinals win the 2027 NFL NFC Championship?](/odds/will-arizona-cardinals-win-the-2027-nfl-nfc-championship) — 1% YES
+- [Will Baker Mayfield win the 2026 NFL MVP?](/odds/will-baker-mayfield-win-the-2026-nfl-mvp) — 1% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Trump attend 0 World Cup matches?"?
 
-As of June 24, 2026, Polymarket prices YES at 3.5%.
+As of June 25, 2026, Polymarket prices YES at 3.8%.
 
 ### Where can I trade on this prediction market?
 

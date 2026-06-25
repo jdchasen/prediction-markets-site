@@ -4,12 +4,12 @@ description: "Will James Talarico win the 2028 Democratic presidential nominatio
 marketQuestion: "Will James Talarico win the 2028 Democratic presidential nomination?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-06-24
+lastUpdated: 2026-06-25
 expiryDate: 2028-11-07
 tags: ["politics", "polymarket"]
 polymarketYes: 1.7
 polymarketNo: 98.4
-polymarketVolume: 9820355
+polymarketVolume: 9835883
 polymarketUrl: "https://polymarket.com/event/will-james-talarico-win-the-2028-democratic-presidential-nomination"
 ---
 
@@ -23,13 +23,13 @@ polymarketUrl: "https://polymarket.com/event/will-james-talarico-win-the-2028-de
 
 - [Will Eduardo Bolsonaro win the 2026 Brazilian presidential election?](/odds/will-eduardo-bolsonaro-win-the-2026-brazilian-presidential-election) — 0% YES
 - [Will The Hunger Games: Sunrise on the Reaping be the top grossing movie of 2026?](/odds/will-the-hunger-games-sunrise-on-the-reaping-be-the-top-grossing-movie-of-2026) — 0% YES
-- [Iran Nuke before 2027?](/odds/iran-nuke-before-2027) — 6% YES
+- [Will Satoshi's identity be revealed by June 30?](/odds/will-satoshis-identity-be-revealed-by-june-30) — 0% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will James Talarico win the 2028 Democratic presidential nomination?"?
 
-As of June 24, 2026, Polymarket prices YES at 1.7%.
+As of June 25, 2026, Polymarket prices YES at 1.7%.
 
 ### Where can I trade on this prediction market?
 

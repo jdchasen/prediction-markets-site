@@ -4,7 +4,7 @@ description: "Will the Republican Party win the WI-07 House seat? Odds: 87.5% YE
 marketQuestion: "Will the Republican Party win the WI-07 House seat?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-06-24
+lastUpdated: 2026-06-25
 expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
 polymarketYes: 87.5
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-w
 
 ### What are the current odds for "Will the Republican Party win the WI-07 House seat?"?
 
-As of June 24, 2026, Polymarket prices YES at 87.5%.
+As of June 25, 2026, Polymarket prices YES at 87.5%.
 
 ### Where can I trade on this prediction market?
 

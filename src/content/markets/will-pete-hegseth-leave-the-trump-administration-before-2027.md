@@ -1,15 +1,15 @@
 ---
 title: "Will Pete Hegseth leave the Trump administration before 2027?"
-description: "Will Pete Hegseth leave the Trump administration before 2027? Odds: 30.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Pete Hegseth leave the Trump administration before 2027? Odds: 32.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Pete Hegseth leave the Trump administration before 2027?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-06-24
+lastUpdated: 2026-06-25
 expiryDate: 2026-12-31
 tags: ["ethereum", "politics", "polymarket", "trump"]
-polymarketYes: 30.5
-polymarketNo: 69.5
-polymarketVolume: 97641
+polymarketYes: 32.5
+polymarketNo: 67.5
+polymarketVolume: 98003
 polymarketUrl: "https://polymarket.com/event/will-pete-hegseth-leave-the-trump-administration-before-2027"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-pete-hegseth-leave-the-trump-a
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 30.5% | 69.5% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 32.5% | 67.5% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-pete-hegseth-leave-the-trump-a
 
 ### What are the current odds for "Will Pete Hegseth leave the Trump administration before 2027?"?
 
-As of June 24, 2026, Polymarket prices YES at 30.5%.
+As of June 25, 2026, Polymarket prices YES at 32.5%.
 
 ### Where can I trade on this prediction market?
 

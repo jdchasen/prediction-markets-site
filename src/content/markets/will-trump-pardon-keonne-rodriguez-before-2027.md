@@ -4,7 +4,7 @@ description: "Will Trump pardon Keonne Rodriguez before 2027? Odds: 14.5% YES on
 marketQuestion: "Will Trump pardon Keonne Rodriguez before 2027?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-06-24
+lastUpdated: 2026-06-25
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket", "trump"]
 polymarketYes: 14.5
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-trump-pardon-keonne-rodriguez-
 
 ### What are the current odds for "Will Trump pardon Keonne Rodriguez before 2027?"?
 
-As of June 24, 2026, Polymarket prices YES at 14.5%.
+As of June 25, 2026, Polymarket prices YES at 14.5%.
 
 ### Where can I trade on this prediction market?
 

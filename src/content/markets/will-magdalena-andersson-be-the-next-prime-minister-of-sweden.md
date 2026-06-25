@@ -1,15 +1,15 @@
 ---
 title: "Will Magdalena Andersson be the next Prime Minister of Sweden?"
-description: "Will Magdalena Andersson be the next Prime Minister of Sweden? Odds: 75.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Magdalena Andersson be the next Prime Minister of Sweden? Odds: 76.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Magdalena Andersson be the next Prime Minister of Sweden?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-06-24
+lastUpdated: 2026-06-25
 expiryDate: 2026-09-13
 tags: ["politics", "polymarket"]
-polymarketYes: 75.5
-polymarketNo: 24.5
-polymarketVolume: 98279
+polymarketYes: 76.5
+polymarketNo: 23.5
+polymarketVolume: 99736
 polymarketUrl: "https://polymarket.com/event/will-magdalena-andersson-be-the-next-prime-minister-of-sweden"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-magdalena-andersson-be-the-nex
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 75.5% | 24.5% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 76.5% | 23.5% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-magdalena-andersson-be-the-nex
 
 ### What are the current odds for "Will Magdalena Andersson be the next Prime Minister of Sweden?"?
 
-As of June 24, 2026, Polymarket prices YES at 75.5%.
+As of June 25, 2026, Polymarket prices YES at 76.5%.
 
 ### Where can I trade on this prediction market?
 
