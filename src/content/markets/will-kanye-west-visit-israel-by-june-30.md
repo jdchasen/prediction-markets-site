@@ -8,8 +8,8 @@ lastUpdated: 2026-06-25
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
 polymarketYes: 0.4
-polymarketNo: 99.7
-polymarketVolume: 97471
+polymarketNo: 99.6
+polymarketVolume: 97531
 polymarketUrl: "https://polymarket.com/event/will-kanye-west-visit-israel-by-june-30"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-kanye-west-visit-israel-by-jun
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.4% | 99.7% | $97K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.4% | 99.6% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 

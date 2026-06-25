@@ -1,15 +1,15 @@
 ---
 title: "Will Peter Attia be confirmed to have visited Epstein’s island?"
-description: "Will Peter Attia be confirmed to have visited Epstein’s island? Odds: 0.9% YES on Polymarket. See live prices and trade this market."
+description: "Will Peter Attia be confirmed to have visited Epstein’s island? Odds: 1.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Peter Attia be confirmed to have visited Epstein’s island?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-06-25
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
-polymarketYes: 0.9
-polymarketNo: 99.1
-polymarketVolume: 9856
+polymarketYes: 1.1
+polymarketNo: 98.9
+polymarketVolume: 9861
 polymarketUrl: "https://polymarket.com/event/will-peter-attia-be-confirmed-to-have-visited-epsteins-island"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-peter-attia-be-confirmed-to-ha
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.9% | 99.1% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 1.1% | 98.9% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-peter-attia-be-confirmed-to-ha
 
 ### What are the current odds for "Will Peter Attia be confirmed to have visited Epstein’s island?"?
 
-As of June 25, 2026, Polymarket prices YES at 0.9%.
+As of June 25, 2026, Polymarket prices YES at 1.1%.
 
 ### Where can I trade on this prediction market?
 

@@ -1,14 +1,14 @@
 ---
 title: "European country agrees to give Ukraine security guarantee by December 31?"
-description: "European country agrees to give Ukraine security guarantee by December 31? Odds: 12.0% YES on Polymarket. See live prices and trade this market."
+description: "European country agrees to give Ukraine security guarantee by December 31? Odds: 14.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "European country agrees to give Ukraine security guarantee by December 31?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-06-25
 expiryDate: 2026-12-31
 tags: ["ai", "politics", "polymarket"]
-polymarketYes: 12.0
-polymarketNo: 88.0
+polymarketYes: 14.0
+polymarketNo: 86.0
 polymarketVolume: 9827
 polymarketUrl: "https://polymarket.com/event/european-country-agrees-to-give-ukraine-security-guarantee-by-december-31"
 ---
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/european-country-agrees-to-give-ukr
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 12.0% | 88.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 14.0% | 86.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/european-country-agrees-to-give-ukr
 
 ### What are the current odds for "European country agrees to give Ukraine security guarantee by December 31?"?
 
-As of June 25, 2026, Polymarket prices YES at 12.0%.
+As of June 25, 2026, Polymarket prices YES at 14.0%.
 
 ### Where can I trade on this prediction market?
 

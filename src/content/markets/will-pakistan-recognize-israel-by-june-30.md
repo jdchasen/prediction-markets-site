@@ -8,7 +8,7 @@ lastUpdated: 2026-06-25
 tags: ["politics", "polymarket"]
 polymarketYes: 0.2
 polymarketNo: 99.8
-polymarketVolume: 9919
+polymarketVolume: 9954
 polymarketUrl: "https://polymarket.com/event/will-pakistan-recognize-israel-by-june-30"
 ---
 

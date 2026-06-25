@@ -1,23 +1,23 @@
 ---
-title: "Will Pete Hegseth leave the Trump administration before 2027?"
-description: "Will Pete Hegseth leave the Trump administration before 2027? Odds: 28.0% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Pete Hegseth leave the Trump administration before 2027?"
+title: "Will AfD win an absolute majority of seats in Sachsen-Anhalt?"
+description: "Will AfD win an absolute majority of seats in Sachsen-Anhalt? Odds: 36.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will AfD win an absolute majority of seats in Sachsen-Anhalt?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-06-25
-expiryDate: 2026-12-31
-tags: ["ethereum", "politics", "polymarket", "trump"]
-polymarketYes: 28.0
-polymarketNo: 72.0
-polymarketVolume: 99263
-polymarketUrl: "https://polymarket.com/event/will-pete-hegseth-leave-the-trump-administration-before-2027"
+expiryDate: 2026-09-06
+tags: ["politics", "polymarket"]
+polymarketYes: 36.5
+polymarketNo: 63.5
+polymarketVolume: 98352
+polymarketUrl: "https://polymarket.com/event/will-afd-win-an-absolute-majority-of-seats-in-sachsen-anhalt"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 28.0% | 72.0% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 36.5% | 63.5% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-pete-hegseth-leave-the-trump-a
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Pete Hegseth leave the Trump administration before 2027?"?
+### What are the current odds for "Will AfD win an absolute majority of seats in Sachsen-Anhalt?"?
 
-As of June 25, 2026, Polymarket prices YES at 28.0%.
+As of June 25, 2026, Polymarket prices YES at 36.5%.
 
 ### Where can I trade on this prediction market?
 
@@ -37,6 +37,6 @@ You can trade this market on [Polymarket](https://polymarket.us/1762?utm_source=
 
 ## Learn More
 
-- [Trump-Xi Meeting Predictions: What Will He Say?](/blog/trump-xi-meeting-predictions-what-will-he-say)
 - [Will Oil Hit $100? March Crude Prediction Market Odds](/blog/will-oil-hit-100-march-crude-prediction-market-odds)
+- [Will MicroStrategy Sell Bitcoin? Market Odds](/blog/will-microstrategy-sell-bitcoin-market-odds)
 

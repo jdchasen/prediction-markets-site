@@ -21,8 +21,7 @@ polymarketUrl: "https://polymarket.com/event/will-elon-musk-x-twitter-acquire-ti
 
 ## Related Markets
 
-- [Will SpaceX's valuation hit (LOW) $1.4T by June 30?](/odds/will-spacexs-valuation-hit-low-14t-by-june-30) — 11% YES
-- [Will Elon Musk post 360-379 tweets from June 26 to July 3, 2026?](/odds/will-elon-musk-post-360-379-tweets-from-june-26-to-july-3-2026) — 1% YES
+- [Will Elon Musk post 180-199 tweets from June 23 to June 30, 2026?](/odds/will-elon-musk-post-180-199-tweets-from-june-23-to-june-30-2026) — 2% YES
 
 ## Frequently Asked Questions
 

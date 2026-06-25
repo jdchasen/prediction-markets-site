@@ -1,22 +1,23 @@
 ---
-title: "Will the Republicans win the Oklahoma governor race in 2026?"
-description: "Will the Republicans win the Oklahoma governor race in 2026? Odds: 92.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will the Republicans win the Oklahoma governor race in 2026?"
+title: "Will France send warships through the Strait of Hormuz by June 30, 2026?"
+description: "Will France send warships through the Strait of Hormuz by June 30, 2026? Odds: 1.2% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will France send warships through the Strait of Hormuz by June 30, 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-06-25
-tags: ["politics", "polymarket"]
-polymarketYes: 92.5
-polymarketNo: 7.5
-polymarketVolume: 9863
-polymarketUrl: "https://polymarket.com/event/will-the-republicans-win-the-oklahoma-governor-race-in-2026"
+expiryDate: 2026-06-30
+tags: ["ai", "politics", "polymarket"]
+polymarketYes: 1.2
+polymarketNo: 98.8
+polymarketVolume: 97450
+polymarketUrl: "https://polymarket.com/event/will-france-send-warships-through-the-strait-of-hormuz-by-june-30-2026"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 92.5% | 7.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 1.2% | 98.8% | $97K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -26,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-the-republicans-win-the-oklaho
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will the Republicans win the Oklahoma governor race in 2026?"?
+### What are the current odds for "Will France send warships through the Strait of Hormuz by June 30, 2026?"?
 
-As of June 25, 2026, Polymarket prices YES at 92.5%.
+As of June 25, 2026, Polymarket prices YES at 1.2%.
 
 ### Where can I trade on this prediction market?
 

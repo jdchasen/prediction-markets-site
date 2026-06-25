@@ -1,22 +1,23 @@
 ---
-title: "Will the Republicans win the Oklahoma governor race in 2026?"
-description: "Will the Republicans win the Oklahoma governor race in 2026? Odds: 92.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will the Republicans win the Oklahoma governor race in 2026?"
+title: "Will there be fewer than 1 North Korea test in June 2026?"
+description: "Will there be fewer than 1 North Korea test in June 2026? Odds: 2.9% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will there be fewer than 1 North Korea test in June 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-06-25
+expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
-polymarketYes: 92.5
-polymarketNo: 7.5
-polymarketVolume: 9863
-polymarketUrl: "https://polymarket.com/event/will-the-republicans-win-the-oklahoma-governor-race-in-2026"
+polymarketYes: 2.9
+polymarketNo: 97.0
+polymarketVolume: 9901
+polymarketUrl: "https://polymarket.com/event/will-there-be-fewer-than-1-north-korea-test-in-june-2026"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 92.5% | 7.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 2.9% | 97.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -26,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-the-republicans-win-the-oklaho
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will the Republicans win the Oklahoma governor race in 2026?"?
+### What are the current odds for "Will there be fewer than 1 North Korea test in June 2026?"?
 
-As of June 25, 2026, Polymarket prices YES at 92.5%.
+As of June 25, 2026, Polymarket prices YES at 2.9%.
 
 ### Where can I trade on this prediction market?
 

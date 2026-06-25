@@ -3,7 +3,7 @@ title: "Will Vitinha win the Golden Ball at the 2026 FIFA World Cup?"
 description: "Will Vitinha win the Golden Ball at the 2026 FIFA World Cup? Odds: 1.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Vitinha win the Golden Ball at the 2026 FIFA World Cup?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-25
 expiryDate: 2026-07-20
 tags: ["polymarket", "sports"]

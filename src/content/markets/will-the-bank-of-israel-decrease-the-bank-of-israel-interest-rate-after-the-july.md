@@ -1,15 +1,15 @@
 ---
 title: "Will the Bank of Israel decrease the Bank of Israel Interest Rate after the July decision?"
-description: "Will the Bank of Israel decrease the Bank of Israel Interest Rate after the July decision? Odds: 91.5% YES on Polymarket. See live prices and trade this market."
+description: "Will the Bank of Israel decrease the Bank of Israel Interest Rate after the July decision? Odds: 89.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Bank of Israel decrease the Bank of Israel Interest Rate after the July decision?"
 category: "economics"
 status: "active"
 lastUpdated: 2026-06-25
 expiryDate: 2026-07-06
 tags: ["economics", "interest-rates", "polymarket"]
-polymarketYes: 91.5
-polymarketNo: 8.5
-polymarketVolume: 9835
+polymarketYes: 89.5
+polymarketNo: 10.5
+polymarketVolume: 9977
 polymarketUrl: "https://polymarket.com/event/will-the-bank-of-israel-decrease-the-bank-of-israel-interest-rate-after-the-july-decision"
 ---
 
@@ -17,18 +17,17 @@ polymarketUrl: "https://polymarket.com/event/will-the-bank-of-israel-decrease-th
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 91.5% | 8.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 89.5% | 10.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will inflation reach more than 4.5% in 2026?](/odds/will-inflation-reach-more-than-45-in-2026) — 20% YES
-- [Will annual inflation be 4.0% in June?](/odds/will-annual-inflation-be-40-in-june) — 4% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will the Bank of Israel decrease the Bank of Israel Interest Rate after the July decision?"?
 
-As of June 25, 2026, Polymarket prices YES at 91.5%.
+As of June 25, 2026, Polymarket prices YES at 89.5%.
 
 ### Where can I trade on this prediction market?
 

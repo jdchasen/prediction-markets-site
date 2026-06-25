@@ -1,14 +1,14 @@
 ---
 title: "Hurupay FDV above $30M one day after launch?"
-description: "Hurupay FDV above $30M one day after launch? Odds: 5.1% YES on Polymarket. See live prices and trade this market."
+description: "Hurupay FDV above $30M one day after launch? Odds: 3.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Hurupay FDV above $30M one day after launch?"
 category: "crypto"
 status: "active"
 lastUpdated: 2026-06-25
 expiryDate: 2027-01-01
 tags: ["crypto", "polymarket"]
-polymarketYes: 5.1
-polymarketNo: 94.9
+polymarketYes: 3.9
+polymarketNo: 96.1
 polymarketVolume: 9745
 polymarketUrl: "https://polymarket.com/event/hurupay-fdv-above-30m-one-day-after-launch"
 ---
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/hurupay-fdv-above-30m-one-day-after
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 5.1% | 94.9% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 3.9% | 96.1% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Ethereum dip to $1,000 by December 31, 2026?](/odds/will-ethereum-dip-to-1000-by-december-31-2026) — 24% YES
 - [Will MetaMask launch a token by September 30, 2026?](/odds/will-metamask-launch-a-token-by-september-30-2026) — 7% YES
+- [Will Bitcoin reach $150,000 by December 31, 2026?](/odds/will-bitcoin-reach-150000-by-december-31-2026) — 4% YES
 - [Extended FDV above $2B one day after launch?](/odds/extended-fdv-above-2b-one-day-after-launch) — 4% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Hurupay FDV above $30M one day after launch?"?
 
-As of June 25, 2026, Polymarket prices YES at 5.1%.
+As of June 25, 2026, Polymarket prices YES at 3.9%.
 
 ### Where can I trade on this prediction market?
 

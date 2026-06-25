@@ -1,15 +1,15 @@
 ---
 title: "Will the Republican Party win the AZ-05 House seat?"
-description: "Will the Republican Party win the AZ-05 House seat? Odds: 86.0% YES on Polymarket. See live prices and trade this market."
+description: "Will the Republican Party win the AZ-05 House seat? Odds: 85.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Republican Party win the AZ-05 House seat?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-06-25
 expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
-polymarketYes: 86.0
-polymarketNo: 14.0
-polymarketVolume: 9764
+polymarketYes: 85.0
+polymarketNo: 15.0
+polymarketVolume: 9804
 polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-az-05-house-seat"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-a
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 86.0% | 14.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 85.0% | 15.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-a
 
 ### What are the current odds for "Will the Republican Party win the AZ-05 House seat?"?
 
-As of June 25, 2026, Polymarket prices YES at 86.0%.
+As of June 25, 2026, Polymarket prices YES at 85.0%.
 
 ### Where can I trade on this prediction market?
 

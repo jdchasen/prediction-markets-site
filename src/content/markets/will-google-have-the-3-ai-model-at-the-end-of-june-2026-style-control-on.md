@@ -3,7 +3,7 @@ title: "Will Google have the #3 AI model at the end of June 2026 (Style Control 
 description: "Will Google have the #3 AI model at the end of June 2026 (Style Control On)? Odds: 1.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Google have the #3 AI model at the end of June 2026 (Style Control On)?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-25
 expiryDate: 2026-06-30
 tags: ["ai", "politics", "polymarket"]

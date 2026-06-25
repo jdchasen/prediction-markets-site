@@ -3,7 +3,7 @@ title: "Will LeBron James play for the Los Angeles Lakers in 2026-27?"
 description: "Will LeBron James play for the Los Angeles Lakers in 2026-27? Odds: 68.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will LeBron James play for the Los Angeles Lakers in 2026-27?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-25
 expiryDate: 2026-11-01
 tags: ["polymarket", "sports"]

@@ -22,6 +22,7 @@ polymarketUrl: "https://polymarket.com/event/will-perplexity-ai-have-the-highest
 ## Related Markets
 
 - [Anysphere (Cursor) IPO before 2027?](/odds/anysphere-cursor-ipo-before-2027) — 1% YES
+- [Will Freddie Mac’s market cap be less than $150B at market close on IPO day?](/odds/will-freddie-macs-market-cap-be-less-than-150b-at-market-close-on-ipo-day) — 0% YES
 
 ## Frequently Asked Questions
 

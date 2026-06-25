@@ -3,7 +3,7 @@ title: "Will Magdalena Andersson be the next Prime Minister of Sweden?"
 description: "Will Magdalena Andersson be the next Prime Minister of Sweden? Odds: 76.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Magdalena Andersson be the next Prime Minister of Sweden?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-25
 expiryDate: 2026-09-13
 tags: ["politics", "polymarket"]

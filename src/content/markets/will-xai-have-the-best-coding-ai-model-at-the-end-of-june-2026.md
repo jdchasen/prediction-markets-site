@@ -1,22 +1,23 @@
 ---
-title: "Will the Republicans win the Oklahoma governor race in 2026?"
-description: "Will the Republicans win the Oklahoma governor race in 2026? Odds: 92.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will the Republicans win the Oklahoma governor race in 2026?"
+title: "Will xAI have the best Coding AI model at the end of June 2026?"
+description: "Will xAI have the best Coding AI model at the end of June 2026? Odds: 0.2% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will xAI have the best Coding AI model at the end of June 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-06-25
-tags: ["politics", "polymarket"]
-polymarketYes: 92.5
-polymarketNo: 7.5
-polymarketVolume: 9863
-polymarketUrl: "https://polymarket.com/event/will-the-republicans-win-the-oklahoma-governor-race-in-2026"
+expiryDate: 2026-06-30
+tags: ["ai", "politics", "polymarket"]
+polymarketYes: 0.2
+polymarketNo: 99.8
+polymarketVolume: 9894
+polymarketUrl: "https://polymarket.com/event/will-xai-have-the-best-coding-ai-model-at-the-end-of-june-2026"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 92.5% | 7.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.2% | 99.8% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -26,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-the-republicans-win-the-oklaho
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will the Republicans win the Oklahoma governor race in 2026?"?
+### What are the current odds for "Will xAI have the best Coding AI model at the end of June 2026?"?
 
-As of June 25, 2026, Polymarket prices YES at 92.5%.
+As of June 25, 2026, Polymarket prices YES at 0.2%.
 
 ### Where can I trade on this prediction market?
 

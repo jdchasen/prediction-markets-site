@@ -3,7 +3,7 @@ title: "Will Japan score the most goals at the 2026 FIFA World Cup?"
 description: "Will Japan score the most goals at the 2026 FIFA World Cup? Odds: 0.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Japan score the most goals at the 2026 FIFA World Cup?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-25
 expiryDate: 2026-08-03
 tags: ["polymarket", "sports"]

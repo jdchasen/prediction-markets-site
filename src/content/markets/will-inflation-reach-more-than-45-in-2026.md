@@ -9,7 +9,7 @@ expiryDate: 2026-12-31
 tags: ["economics", "polymarket", "sports"]
 polymarketYes: 19.5
 polymarketNo: 80.5
-polymarketVolume: 98533
+polymarketVolume: 98558
 polymarketUrl: "https://polymarket.com/event/will-inflation-reach-more-than-4pt5-in-2026"
 ---
 
@@ -21,8 +21,7 @@ polymarketUrl: "https://polymarket.com/event/will-inflation-reach-more-than-4pt5
 
 ## Related Markets
 
-- [Will annual inflation be 4.0% in June?](/odds/will-annual-inflation-be-40-in-june) — 4% YES
-- [Will the Bank of Israel decrease the Bank of Israel Interest Rate after the July decision?](/odds/will-the-bank-of-israel-decrease-the-bank-of-israel-interest-rate-after-the-july) — 92% YES
+- [Will the Bank of Israel decrease the Bank of Israel Interest Rate after the July decision?](/odds/will-the-bank-of-israel-decrease-the-bank-of-israel-interest-rate-after-the-july) — 90% YES
 
 ## Frequently Asked Questions
 

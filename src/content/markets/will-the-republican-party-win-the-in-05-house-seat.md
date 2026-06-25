@@ -9,7 +9,7 @@ expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
 polymarketYes: 79.0
 polymarketNo: 21.0
-polymarketVolume: 9766
+polymarketVolume: 9771
 polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-in-05-house-seat"
 ---
 

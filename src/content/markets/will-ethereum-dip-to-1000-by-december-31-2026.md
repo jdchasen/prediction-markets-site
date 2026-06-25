@@ -3,7 +3,7 @@ title: "Will Ethereum dip to $1,000 by December 31, 2026?"
 description: "Will Ethereum dip to $1,000 by December 31, 2026? Odds: 24.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Ethereum dip to $1,000 by December 31, 2026?"
 category: "crypto"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-25
 expiryDate: 2027-01-01
 tags: ["crypto", "ethereum", "polymarket"]

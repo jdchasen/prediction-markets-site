@@ -8,8 +8,8 @@ lastUpdated: 2026-06-25
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]
 polymarketYes: 97.2
-polymarketNo: 2.9
-polymarketVolume: 98983
+polymarketNo: 2.8
+polymarketVolume: 99091
 polymarketUrl: "https://polymarket.com/event/will-anthropics-valuation-hit-high-1pt1t-by-december-31-646"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-anthropics-valuation-hit-high-
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 97.2% | 2.9% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 97.2% | 2.8% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 

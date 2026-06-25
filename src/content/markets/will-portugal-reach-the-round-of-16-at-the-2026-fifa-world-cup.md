@@ -9,7 +9,7 @@ expiryDate: 2026-07-04
 tags: ["polymarket", "sports"]
 polymarketYes: 74.0
 polymarketNo: 26.0
-polymarketVolume: 98085
+polymarketVolume: 98350
 polymarketUrl: "https://polymarket.com/event/will-portugal-reach-the-round-of-16-at-the-2026-fifa-world-cup-20260602025120775"
 ---
 
@@ -21,9 +21,9 @@ polymarketUrl: "https://polymarket.com/event/will-portugal-reach-the-round-of-16
 
 ## Related Markets
 
-- [Will USA win the 2026 FIFA World Cup?](/odds/will-usa-win-the-2026-fifa-world-cup) — 4% YES
 - [Will Arizona Cardinals win the 2027 NFL NFC Championship?](/odds/will-arizona-cardinals-win-the-2027-nfl-nfc-championship) — 1% YES
 - [Will Baker Mayfield win the 2026 NFL MVP?](/odds/will-baker-mayfield-win-the-2026-nfl-mvp) — 1% YES
+- [Will Kansas City Chiefs win the 2027 NFL AFC Championship?](/odds/will-kansas-city-chiefs-win-the-2027-nfl-afc-championship) — 10% YES
 
 ## Frequently Asked Questions
 

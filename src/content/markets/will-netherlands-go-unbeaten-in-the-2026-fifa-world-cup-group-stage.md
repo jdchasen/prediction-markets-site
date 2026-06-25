@@ -1,23 +1,23 @@
 ---
-title: "Will USA win the 2026 FIFA World Cup?"
-description: "Will USA win the 2026 FIFA World Cup? Odds: 3.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will USA win the 2026 FIFA World Cup?"
+title: "Will Netherlands go unbeaten in the 2026 FIFA World Cup Group Stage?"
+description: "Will Netherlands go unbeaten in the 2026 FIFA World Cup Group Stage? Odds: 97.7% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Netherlands go unbeaten in the 2026 FIFA World Cup Group Stage?"
 category: "sports"
-status: "settled"
+status: "active"
 lastUpdated: 2026-06-25
-expiryDate: 2026-07-20
-tags: ["polymarket", "sports"]
-polymarketYes: 3.5
-polymarketNo: 96.5
-polymarketVolume: 99916407
-polymarketUrl: "https://polymarket.com/event/will-usa-win-the-2026-fifa-world-cup-467"
+expiryDate: 2026-06-29
+tags: ["ethereum", "polymarket", "sports"]
+polymarketYes: 97.7
+polymarketNo: 2.3
+polymarketVolume: 9771
+polymarketUrl: "https://polymarket.com/event/will-netherlands-go-unbeaten-in-the-2026-fifa-world-cup-group-stage-20260612152622450"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 3.5% | 96.5% | $99.9M | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 97.7% | 2.3% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-usa-win-the-2026-fifa-world-cu
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will USA win the 2026 FIFA World Cup?"?
+### What are the current odds for "Will Netherlands go unbeaten in the 2026 FIFA World Cup Group Stage?"?
 
-As of June 25, 2026, Polymarket prices YES at 3.5%.
+As of June 25, 2026, Polymarket prices YES at 97.7%.
 
 ### Where can I trade on this prediction market?
 

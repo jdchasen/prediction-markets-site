@@ -1,23 +1,23 @@
 ---
-title: "Will USA win the 2026 FIFA World Cup?"
-description: "Will USA win the 2026 FIFA World Cup? Odds: 3.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will USA win the 2026 FIFA World Cup?"
+title: "Will Paraguay be the worst-placed South American nation in the 2026 FIFA World Cup?"
+description: "Will Paraguay be the worst-placed South American nation in the 2026 FIFA World Cup? Odds: 8.0% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Paraguay be the worst-placed South American nation in the 2026 FIFA World Cup?"
 category: "sports"
-status: "settled"
+status: "active"
 lastUpdated: 2026-06-25
-expiryDate: 2026-07-20
+expiryDate: 2026-08-03
 tags: ["polymarket", "sports"]
-polymarketYes: 3.5
-polymarketNo: 96.5
-polymarketVolume: 99916407
-polymarketUrl: "https://polymarket.com/event/will-usa-win-the-2026-fifa-world-cup-467"
+polymarketYes: 8.0
+polymarketNo: 92.0
+polymarketVolume: 9784
+polymarketUrl: "https://polymarket.com/event/will-paraguay-be-the-worst-placed-south-american-nation-in-the-2026-fifa-world-cup-20260605173950519"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 3.5% | 96.5% | $99.9M | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 8.0% | 92.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-usa-win-the-2026-fifa-world-cu
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will USA win the 2026 FIFA World Cup?"?
+### What are the current odds for "Will Paraguay be the worst-placed South American nation in the 2026 FIFA World Cup?"?
 
-As of June 25, 2026, Polymarket prices YES at 3.5%.
+As of June 25, 2026, Polymarket prices YES at 8.0%.
 
 ### Where can I trade on this prediction market?
 
