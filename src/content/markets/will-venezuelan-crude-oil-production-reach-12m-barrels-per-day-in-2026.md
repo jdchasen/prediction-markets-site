@@ -1,15 +1,15 @@
 ---
 title: "Will Venezuelan crude oil production reach 1.2m barrels per day in 2026?"
-description: "Will Venezuelan crude oil production reach 1.2m barrels per day in 2026? Odds: 68.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Venezuelan crude oil production reach 1.2m barrels per day in 2026? Odds: 65.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Venezuelan crude oil production reach 1.2m barrels per day in 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-06-25
+lastUpdated: 2026-06-26
 expiryDate: 2027-02-28
 tags: ["politics", "polymarket"]
-polymarketYes: 68.5
-polymarketNo: 31.5
-polymarketVolume: 9881
+polymarketYes: 65.5
+polymarketNo: 34.5
+polymarketVolume: 9927
 polymarketUrl: "https://polymarket.com/event/will-venezuelan-crude-oil-production-reach-1pt2m-barrels-per-day-in-2026"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-venezuelan-crude-oil-productio
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 68.5% | 31.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 65.5% | 34.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Eduardo Bolsonaro win the 2026 Brazilian presidential election?](/odds/will-eduardo-bolsonaro-win-the-2026-brazilian-presidential-election) — 0% YES
 - [Will James Talarico win the 2028 Democratic presidential nomination?](/odds/will-james-talarico-win-the-2028-democratic-presidential-nomination) — 2% YES
-- [Will The Hunger Games: Sunrise on the Reaping be the top grossing movie of 2026?](/odds/will-the-hunger-games-sunrise-on-the-reaping-be-the-top-grossing-movie-of-2026) — 0% YES
+- [Strait of Hormuz traffic returns to normal by July 31?](/odds/strait-of-hormuz-traffic-returns-to-normal-by-july-31) — 56% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Venezuelan crude oil production reach 1.2m barrels per day in 2026?"?
 
-As of June 25, 2026, Polymarket prices YES at 68.5%.
+As of June 26, 2026, Polymarket prices YES at 65.5%.
 
 ### Where can I trade on this prediction market?
 

@@ -1,14 +1,14 @@
 ---
 title: "Hurupay FDV above $30M one day after launch?"
-description: "Hurupay FDV above $30M one day after launch? Odds: 3.9% YES on Polymarket. See live prices and trade this market."
+description: "Hurupay FDV above $30M one day after launch? Odds: 2.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Hurupay FDV above $30M one day after launch?"
 category: "crypto"
 status: "active"
-lastUpdated: 2026-06-25
+lastUpdated: 2026-06-26
 expiryDate: 2027-01-01
 tags: ["crypto", "polymarket"]
-polymarketYes: 3.9
-polymarketNo: 96.1
+polymarketYes: 2.0
+polymarketNo: 98.0
 polymarketVolume: 9745
 polymarketUrl: "https://polymarket.com/event/hurupay-fdv-above-30m-one-day-after-launch"
 ---
@@ -17,11 +17,11 @@ polymarketUrl: "https://polymarket.com/event/hurupay-fdv-above-30m-one-day-after
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 3.9% | 96.1% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 2.0% | 98.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will MetaMask launch a token by September 30, 2026?](/odds/will-metamask-launch-a-token-by-september-30-2026) — 7% YES
+- [Will MetaMask launch a token by September 30, 2026?](/odds/will-metamask-launch-a-token-by-september-30-2026) — 6% YES
 - [Will Bitcoin reach $150,000 by December 31, 2026?](/odds/will-bitcoin-reach-150000-by-december-31-2026) — 4% YES
 - [Extended FDV above $2B one day after launch?](/odds/extended-fdv-above-2b-one-day-after-launch) — 4% YES
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/hurupay-fdv-above-30m-one-day-after
 
 ### What are the current odds for "Hurupay FDV above $30M one day after launch?"?
 
-As of June 25, 2026, Polymarket prices YES at 3.9%.
+As of June 26, 2026, Polymarket prices YES at 2.0%.
 
 ### Where can I trade on this prediction market?
 

@@ -3,8 +3,8 @@ title: "Will XRP dip to $0.80 in June?"
 description: "Will XRP dip to $0.80 in June? Odds: 1.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will XRP dip to $0.80 in June?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-06-25
+status: "settled"
+lastUpdated: 2026-06-26
 expiryDate: 2026-07-01
 tags: ["politics", "polymarket"]
 polymarketYes: 1.9

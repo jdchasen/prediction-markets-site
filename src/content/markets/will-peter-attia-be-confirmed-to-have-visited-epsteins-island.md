@@ -1,14 +1,14 @@
 ---
 title: "Will Peter Attia be confirmed to have visited Epstein’s island?"
-description: "Will Peter Attia be confirmed to have visited Epstein’s island? Odds: 1.1% YES on Polymarket. See live prices and trade this market."
+description: "Will Peter Attia be confirmed to have visited Epstein’s island? Odds: 0.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Peter Attia be confirmed to have visited Epstein’s island?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-06-25
+lastUpdated: 2026-06-26
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
-polymarketYes: 1.1
-polymarketNo: 98.9
+polymarketYes: 0.9
+polymarketNo: 99.1
 polymarketVolume: 9861
 polymarketUrl: "https://polymarket.com/event/will-peter-attia-be-confirmed-to-have-visited-epsteins-island"
 ---
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-peter-attia-be-confirmed-to-ha
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 1.1% | 98.9% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.9% | 99.1% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Eduardo Bolsonaro win the 2026 Brazilian presidential election?](/odds/will-eduardo-bolsonaro-win-the-2026-brazilian-presidential-election) — 0% YES
 - [Will James Talarico win the 2028 Democratic presidential nomination?](/odds/will-james-talarico-win-the-2028-democratic-presidential-nomination) — 2% YES
-- [Will The Hunger Games: Sunrise on the Reaping be the top grossing movie of 2026?](/odds/will-the-hunger-games-sunrise-on-the-reaping-be-the-top-grossing-movie-of-2026) — 0% YES
+- [Strait of Hormuz traffic returns to normal by July 31?](/odds/strait-of-hormuz-traffic-returns-to-normal-by-july-31) — 56% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Peter Attia be confirmed to have visited Epstein’s island?"?
 
-As of June 25, 2026, Polymarket prices YES at 1.1%.
+As of June 26, 2026, Polymarket prices YES at 0.9%.
 
 ### Where can I trade on this prediction market?
 

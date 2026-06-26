@@ -3,8 +3,8 @@ title: "Will there be fewer than 1 North Korea test in June 2026?"
 description: "Will there be fewer than 1 North Korea test in June 2026? Odds: 2.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will there be fewer than 1 North Korea test in June 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-06-25
+status: "settled"
+lastUpdated: 2026-06-26
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
 polymarketYes: 2.9

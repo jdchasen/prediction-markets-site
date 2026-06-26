@@ -3,8 +3,8 @@ title: "Will Paraguay be the worst-placed South American nation in the 2026 FIFA
 description: "Will Paraguay be the worst-placed South American nation in the 2026 FIFA World Cup? Odds: 8.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Paraguay be the worst-placed South American nation in the 2026 FIFA World Cup?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-06-25
+status: "settled"
+lastUpdated: 2026-06-26
 expiryDate: 2026-08-03
 tags: ["polymarket", "sports"]
 polymarketYes: 8.0

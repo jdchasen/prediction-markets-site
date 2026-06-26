@@ -4,12 +4,12 @@ description: "Will WTI Crude Oil (WTI) hit (HIGH) $140 in June? Odds: 0.1% YES o
 marketQuestion: "Will WTI Crude Oil (WTI) hit (HIGH) $140 in June?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-06-25
+lastUpdated: 2026-06-26
 expiryDate: 2026-07-01
 tags: ["politics", "polymarket"]
 polymarketYes: 0.1
 polymarketNo: 99.9
-polymarketVolume: 99813
+polymarketVolume: 99858
 polymarketUrl: "https://polymarket.com/event/will-wti-reach-140-in-june-2026-374"
 ---
 
@@ -23,13 +23,13 @@ polymarketUrl: "https://polymarket.com/event/will-wti-reach-140-in-june-2026-374
 
 - [Will Eduardo Bolsonaro win the 2026 Brazilian presidential election?](/odds/will-eduardo-bolsonaro-win-the-2026-brazilian-presidential-election) — 0% YES
 - [Will James Talarico win the 2028 Democratic presidential nomination?](/odds/will-james-talarico-win-the-2028-democratic-presidential-nomination) — 2% YES
-- [Will The Hunger Games: Sunrise on the Reaping be the top grossing movie of 2026?](/odds/will-the-hunger-games-sunrise-on-the-reaping-be-the-top-grossing-movie-of-2026) — 0% YES
+- [Strait of Hormuz traffic returns to normal by July 31?](/odds/strait-of-hormuz-traffic-returns-to-normal-by-july-31) — 56% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will WTI Crude Oil (WTI) hit (HIGH) $140 in June?"?
 
-As of June 25, 2026, Polymarket prices YES at 0.1%.
+As of June 26, 2026, Polymarket prices YES at 0.1%.
 
 ### Where can I trade on this prediction market?
 

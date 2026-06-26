@@ -3,8 +3,8 @@ title: "Will the price of Bitcoin be above $58,000 on July 1?"
 description: "Will the price of Bitcoin be above $58,000 on July 1? Odds: 73.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the price of Bitcoin be above $58,000 on July 1?"
 category: "crypto"
-status: "active"
-lastUpdated: 2026-06-25
+status: "settled"
+lastUpdated: 2026-06-26
 expiryDate: 2026-07-01
 tags: ["bitcoin", "crypto", "polymarket"]
 polymarketYes: 73.5

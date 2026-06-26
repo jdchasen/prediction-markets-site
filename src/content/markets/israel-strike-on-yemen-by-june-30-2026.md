@@ -1,15 +1,15 @@
 ---
 title: "Israel strike on Yemen by June 30, 2026?"
-description: "Israel strike on Yemen by June 30, 2026? Odds: 7.0% YES on Polymarket. See live prices and trade this market."
+description: "Israel strike on Yemen by June 30, 2026? Odds: 3.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Israel strike on Yemen by June 30, 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-06-25
+lastUpdated: 2026-06-26
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
-polymarketYes: 7.0
-polymarketNo: 93.0
-polymarketVolume: 980100
+polymarketYes: 3.5
+polymarketNo: 96.5
+polymarketVolume: 992337
 polymarketUrl: "https://polymarket.com/event/israel-strike-on-yemen-by-june-30-2026-285-633-267-857"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/israel-strike-on-yemen-by-june-30-2
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 7.0% | 93.0% | $980K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 3.5% | 96.5% | $992K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Eduardo Bolsonaro win the 2026 Brazilian presidential election?](/odds/will-eduardo-bolsonaro-win-the-2026-brazilian-presidential-election) — 0% YES
 - [Will James Talarico win the 2028 Democratic presidential nomination?](/odds/will-james-talarico-win-the-2028-democratic-presidential-nomination) — 2% YES
-- [Will The Hunger Games: Sunrise on the Reaping be the top grossing movie of 2026?](/odds/will-the-hunger-games-sunrise-on-the-reaping-be-the-top-grossing-movie-of-2026) — 0% YES
+- [Strait of Hormuz traffic returns to normal by July 31?](/odds/strait-of-hormuz-traffic-returns-to-normal-by-july-31) — 56% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Israel strike on Yemen by June 30, 2026?"?
 
-As of June 25, 2026, Polymarket prices YES at 7.0%.
+As of June 26, 2026, Polymarket prices YES at 3.5%.
 
 ### Where can I trade on this prediction market?
 

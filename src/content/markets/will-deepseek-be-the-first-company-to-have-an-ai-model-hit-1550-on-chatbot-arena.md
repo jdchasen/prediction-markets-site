@@ -3,8 +3,8 @@ title: "Will DeepSeek be the first company to have an AI model hit 1550 on Chatb
 description: "Will DeepSeek be the first company to have an AI model hit 1550 on Chatbot Arena in 2026? Odds: 0.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will DeepSeek be the first company to have an AI model hit 1550 on Chatbot Arena in 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-06-25
+status: "settled"
+lastUpdated: 2026-06-26
 expiryDate: 2026-12-31
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 0.4

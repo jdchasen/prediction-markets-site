@@ -3,8 +3,8 @@ title: "Will Portugal reach the Round of 16 at the 2026 FIFA World Cup?"
 description: "Will Portugal reach the Round of 16 at the 2026 FIFA World Cup? Odds: 74.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Portugal reach the Round of 16 at the 2026 FIFA World Cup?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-06-25
+status: "settled"
+lastUpdated: 2026-06-26
 expiryDate: 2026-07-04
 tags: ["polymarket", "sports"]
 polymarketYes: 74.0

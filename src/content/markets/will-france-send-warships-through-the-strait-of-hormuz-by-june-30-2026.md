@@ -1,15 +1,15 @@
 ---
 title: "Will France send warships through the Strait of Hormuz by June 30, 2026?"
-description: "Will France send warships through the Strait of Hormuz by June 30, 2026? Odds: 1.2% YES on Polymarket. See live prices and trade this market."
+description: "Will France send warships through the Strait of Hormuz by June 30, 2026? Odds: 1.3% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will France send warships through the Strait of Hormuz by June 30, 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-06-25
+lastUpdated: 2026-06-26
 expiryDate: 2026-06-30
 tags: ["ai", "politics", "polymarket"]
-polymarketYes: 1.2
-polymarketNo: 98.8
-polymarketVolume: 97450
+polymarketYes: 1.3
+polymarketNo: 98.7
+polymarketVolume: 97998
 polymarketUrl: "https://polymarket.com/event/will-france-send-warships-through-the-strait-of-hormuz-by-june-30-2026"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-france-send-warships-through-t
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 1.2% | 98.8% | $97K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 1.3% | 98.7% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Eduardo Bolsonaro win the 2026 Brazilian presidential election?](/odds/will-eduardo-bolsonaro-win-the-2026-brazilian-presidential-election) — 0% YES
 - [Will James Talarico win the 2028 Democratic presidential nomination?](/odds/will-james-talarico-win-the-2028-democratic-presidential-nomination) — 2% YES
-- [Will The Hunger Games: Sunrise on the Reaping be the top grossing movie of 2026?](/odds/will-the-hunger-games-sunrise-on-the-reaping-be-the-top-grossing-movie-of-2026) — 0% YES
+- [Strait of Hormuz traffic returns to normal by July 31?](/odds/strait-of-hormuz-traffic-returns-to-normal-by-july-31) — 56% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will France send warships through the Strait of Hormuz by June 30, 2026?"?
 
-As of June 25, 2026, Polymarket prices YES at 1.2%.
+As of June 26, 2026, Polymarket prices YES at 1.3%.
 
 ### Where can I trade on this prediction market?
 

@@ -3,8 +3,8 @@ title: "Will the Democratic Party win the AZ-03 House seat?"
 description: "Will the Democratic Party win the AZ-03 House seat? Odds: 94.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Democratic Party win the AZ-03 House seat?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-06-25
+status: "settled"
+lastUpdated: 2026-06-26
 expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
 polymarketYes: 94.0

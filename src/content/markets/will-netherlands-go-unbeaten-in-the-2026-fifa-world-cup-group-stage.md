@@ -3,8 +3,8 @@ title: "Will Netherlands go unbeaten in the 2026 FIFA World Cup Group Stage?"
 description: "Will Netherlands go unbeaten in the 2026 FIFA World Cup Group Stage? Odds: 97.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Netherlands go unbeaten in the 2026 FIFA World Cup Group Stage?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-06-25
+status: "settled"
+lastUpdated: 2026-06-26
 expiryDate: 2026-06-29
 tags: ["ethereum", "polymarket", "sports"]
 polymarketYes: 97.7

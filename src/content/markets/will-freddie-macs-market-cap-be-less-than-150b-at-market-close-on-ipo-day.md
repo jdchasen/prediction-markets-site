@@ -3,8 +3,8 @@ title: "Will Freddie Mac’s market cap be less than $150B at market close on IP
 description: "Will Freddie Mac’s market cap be less than $150B at market close on IPO day? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Freddie Mac’s market cap be less than $150B at market close on IPO day?"
 category: "finance"
-status: "active"
-lastUpdated: 2026-06-25
+status: "settled"
+lastUpdated: 2026-06-26
 expiryDate: 2026-06-30
 tags: ["finance", "polymarket"]
 polymarketYes: 0.1
