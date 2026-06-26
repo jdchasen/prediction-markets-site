@@ -1,15 +1,15 @@
 ---
 title: "Will Gold (GC) hit (HIGH) $4,800 by end of June?"
-description: "Will Gold (GC) hit (HIGH) $4,800 by end of June? Odds: 0.3% YES on Polymarket. See live prices and trade this market."
+description: "Will Gold (GC) hit (HIGH) $4,800 by end of June? Odds: 0.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Gold (GC) hit (HIGH) $4,800 by end of June?"
 category: "finance"
 status: "active"
 lastUpdated: 2026-06-26
 expiryDate: 2026-06-30
 tags: ["finance", "polymarket"]
-polymarketYes: 0.3
-polymarketNo: 99.7
-polymarketVolume: 98047
+polymarketYes: 0.4
+polymarketNo: 99.6
+polymarketVolume: 99606
 polymarketUrl: "https://polymarket.com/event/will-gold-gc-hit-high-4800-by-end-of-june"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-gold-gc-hit-high-4800-by-end-o
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.3% | 99.7% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.4% | 99.6% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -28,7 +28,7 @@ polymarketUrl: "https://polymarket.com/event/will-gold-gc-hit-high-4800-by-end-o
 
 ### What are the current odds for "Will Gold (GC) hit (HIGH) $4,800 by end of June?"?
 
-As of June 26, 2026, Polymarket prices YES at 0.3%.
+As of June 26, 2026, Polymarket prices YES at 0.4%.
 
 ### Where can I trade on this prediction market?
 

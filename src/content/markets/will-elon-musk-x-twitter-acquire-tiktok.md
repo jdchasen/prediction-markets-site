@@ -19,6 +19,10 @@ polymarketUrl: "https://polymarket.com/event/will-elon-musk-x-twitter-acquire-ti
 |----------|-----|-----|--------|-------|
 | Polymarket | 0.2% | 99.8% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
+## Related Markets
+
+- [Will Elon Musk post 200-219 tweets from June 26 to July 3, 2026?](/odds/will-elon-musk-post-200-219-tweets-from-june-26-to-july-3-2026) — 18% YES
+
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Elon Musk / X (Twitter) acquire TikTok?"?

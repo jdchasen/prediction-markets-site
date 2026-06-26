@@ -3,7 +3,7 @@ title: "Will Argentina reach the Round of 16 at the 2026 FIFA World Cup?"
 description: "Will Argentina reach the Round of 16 at the 2026 FIFA World Cup? Odds: 84.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Argentina reach the Round of 16 at the 2026 FIFA World Cup?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-26
 expiryDate: 2026-07-04
 tags: ["polymarket", "sports"]

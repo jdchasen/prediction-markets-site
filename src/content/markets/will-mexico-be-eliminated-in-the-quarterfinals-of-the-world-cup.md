@@ -1,15 +1,15 @@
 ---
 title: "Will Mexico be eliminated in the Quarterfinals of the World Cup?"
-description: "Will Mexico be eliminated in the Quarterfinals of the World Cup? Odds: 16.0% YES on Polymarket. See live prices and trade this market."
+description: "Will Mexico be eliminated in the Quarterfinals of the World Cup? Odds: 15.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Mexico be eliminated in the Quarterfinals of the World Cup?"
 category: "sports"
 status: "active"
 lastUpdated: 2026-06-26
 expiryDate: 2026-07-19
 tags: ["polymarket", "sports"]
-polymarketYes: 16.0
-polymarketNo: 84.0
-polymarketVolume: 9762
+polymarketYes: 15.0
+polymarketNo: 85.0
+polymarketVolume: 9846
 polymarketUrl: "https://polymarket.com/event/will-mexico-be-eliminated-in-the-quarterfinals-of-the-world-cup-20260605224223438"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-mexico-be-eliminated-in-the-qu
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 16.0% | 84.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 15.0% | 85.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
+- [Will Lionel Messi be the top goalscorer at the 2026 FIFA World Cup?](/odds/will-lionel-messi-be-the-top-goalscorer-at-the-2026-fifa-world-cup) — 38% YES
 - [Will Arizona Cardinals win the 2027 NFL NFC Championship?](/odds/will-arizona-cardinals-win-the-2027-nfl-nfc-championship) — 1% YES
-- [Will Baker Mayfield win the 2026 NFL MVP?](/odds/will-baker-mayfield-win-the-2026-nfl-mvp) — 1% YES
-- [Will Spain reach the Round of 16 at the 2026 FIFA World Cup?](/odds/will-spain-reach-the-round-of-16-at-the-2026-fifa-world-cup) — 84% YES
+- [Will Argentina reach the Semifinals at the 2026 FIFA World Cup?](/odds/will-argentina-reach-the-semifinals-at-the-2026-fifa-world-cup) — 48% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Mexico be eliminated in the Quarterfinals of the World Cup?"?
 
-As of June 26, 2026, Polymarket prices YES at 16.0%.
+As of June 26, 2026, Polymarket prices YES at 15.0%.
 
 ### Where can I trade on this prediction market?
 

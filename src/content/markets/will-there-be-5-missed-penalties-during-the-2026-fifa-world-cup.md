@@ -3,7 +3,7 @@ title: "Will there be 5+ missed penalties during the 2026 FIFA World Cup?"
 description: "Will there be 5+ missed penalties during the 2026 FIFA World Cup? Odds: 43.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will there be 5+ missed penalties during the 2026 FIFA World Cup?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-26
 expiryDate: 2026-07-20
 tags: ["polymarket", "sports"]

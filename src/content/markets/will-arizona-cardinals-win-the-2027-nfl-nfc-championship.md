@@ -21,9 +21,9 @@ polymarketUrl: "https://polymarket.com/event/will-arizona-cardinals-win-the-2027
 
 ## Related Markets
 
-- [Will Baker Mayfield win the 2026 NFL MVP?](/odds/will-baker-mayfield-win-the-2026-nfl-mvp) — 1% YES
-- [Will Spain reach the Round of 16 at the 2026 FIFA World Cup?](/odds/will-spain-reach-the-round-of-16-at-the-2026-fifa-world-cup) — 84% YES
-- [Will Argentina reach the Round of 16 at the 2026 FIFA World Cup?](/odds/will-argentina-reach-the-round-of-16-at-the-2026-fifa-world-cup) — 84% YES
+- [Will Lionel Messi be the top goalscorer at the 2026 FIFA World Cup?](/odds/will-lionel-messi-be-the-top-goalscorer-at-the-2026-fifa-world-cup) — 38% YES
+- [Will Argentina reach the Semifinals at the 2026 FIFA World Cup?](/odds/will-argentina-reach-the-semifinals-at-the-2026-fifa-world-cup) — 48% YES
+- [Will Spain reach the Round of 16 at the 2026 FIFA World Cup?](/odds/will-spain-reach-the-round-of-16-at-the-2026-fifa-world-cup) — 82% YES
 
 ## Frequently Asked Questions
 

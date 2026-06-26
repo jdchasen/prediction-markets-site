@@ -21,8 +21,8 @@ polymarketUrl: "https://polymarket.com/event/will-perplexity-ai-have-the-highest
 
 ## Related Markets
 
-- [Anysphere (Cursor) IPO before 2027?](/odds/anysphere-cursor-ipo-before-2027) — 1% YES
 - [Will Gold (GC) hit (HIGH) $4,800 by end of June?](/odds/will-gold-gc-hit-high-4800-by-end-of-june) — 0% YES
+- [Anysphere (Cursor) IPO before 2027?](/odds/anysphere-cursor-ipo-before-2027) — 1% YES
 
 ## Frequently Asked Questions
 

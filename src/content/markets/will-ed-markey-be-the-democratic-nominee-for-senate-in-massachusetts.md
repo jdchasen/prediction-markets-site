@@ -1,14 +1,14 @@
 ---
 title: "Will Ed Markey be the Democratic nominee for Senate in Massachusetts?"
-description: "Will Ed Markey be the Democratic nominee for Senate in Massachusetts? Odds: 72.0% YES on Polymarket. See live prices and trade this market."
+description: "Will Ed Markey be the Democratic nominee for Senate in Massachusetts? Odds: 71.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Ed Markey be the Democratic nominee for Senate in Massachusetts?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-06-26
 expiryDate: 2026-09-01
 tags: ["politics", "polymarket"]
-polymarketYes: 72.0
-polymarketNo: 28.0
+polymarketYes: 71.5
+polymarketNo: 28.5
 polymarketVolume: 9816
 polymarketUrl: "https://polymarket.com/event/will-ed-markey-be-the-democratic-nominee-for-senate-in-massachusetts"
 ---
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-ed-markey-be-the-democratic-no
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 72.0% | 28.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 71.5% | 28.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Eduardo Bolsonaro win the 2026 Brazilian presidential election?](/odds/will-eduardo-bolsonaro-win-the-2026-brazilian-presidential-election) — 0% YES
 - [Will James Talarico win the 2028 Democratic presidential nomination?](/odds/will-james-talarico-win-the-2028-democratic-presidential-nomination) — 2% YES
-- [Strait of Hormuz traffic returns to normal by July 31?](/odds/strait-of-hormuz-traffic-returns-to-normal-by-july-31) — 56% YES
+- [Israel strike on Yemen by June 30, 2026?](/odds/israel-strike-on-yemen-by-june-30-2026) — 5% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Ed Markey be the Democratic nominee for Senate in Massachusetts?"?
 
-As of June 26, 2026, Polymarket prices YES at 72.0%.
+As of June 26, 2026, Polymarket prices YES at 71.5%.
 
 ### Where can I trade on this prediction market?
 

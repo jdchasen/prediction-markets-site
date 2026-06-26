@@ -1,14 +1,14 @@
 ---
 title: "Will Extended launch a token by December 31 2026?"
-description: "Will Extended launch a token by December 31 2026? Odds: 74.7% YES on Polymarket. See live prices and trade this market."
+description: "Will Extended launch a token by December 31 2026? Odds: 74.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Extended launch a token by December 31 2026?"
 category: "crypto"
 status: "active"
 lastUpdated: 2026-06-26
 expiryDate: 2027-01-01
 tags: ["crypto", "polymarket"]
-polymarketYes: 74.7
-polymarketNo: 25.4
+polymarketYes: 74.2
+polymarketNo: 25.8
 polymarketVolume: 9852
 polymarketUrl: "https://polymarket.com/event/will-extended-launch-a-token-by-december-31-2026"
 ---
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-extended-launch-a-token-by-dec
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 74.7% | 25.4% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 74.2% | 25.8% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-extended-launch-a-token-by-dec
 
 ### What are the current odds for "Will Extended launch a token by December 31 2026?"?
 
-As of June 26, 2026, Polymarket prices YES at 74.7%.
+As of June 26, 2026, Polymarket prices YES at 74.2%.
 
 ### Where can I trade on this prediction market?
 

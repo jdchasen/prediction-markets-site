@@ -9,7 +9,7 @@ expiryDate: 2026-12-31
 tags: ["economics", "polymarket", "sports"]
 polymarketYes: 19.5
 polymarketNo: 80.5
-polymarketVolume: 98608
+polymarketVolume: 98618
 polymarketUrl: "https://polymarket.com/event/will-inflation-reach-more-than-4pt5-in-2026"
 ---
 
@@ -21,7 +21,7 @@ polymarketUrl: "https://polymarket.com/event/will-inflation-reach-more-than-4pt5
 
 ## Related Markets
 
-- [Will the Fed increase interest rates by 25 bps after the October 2026 meeting?](/odds/will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting) — 26% YES
+- [Will the Fed increase interest rates by 25 bps after the October 2026 meeting?](/odds/will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting) — 24% YES
 
 ## Frequently Asked Questions
 

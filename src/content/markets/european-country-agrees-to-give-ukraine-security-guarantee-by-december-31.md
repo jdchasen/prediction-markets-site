@@ -3,7 +3,7 @@ title: "European country agrees to give Ukraine security guarantee by December 3
 description: "European country agrees to give Ukraine security guarantee by December 31? Odds: 16.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "European country agrees to give Ukraine security guarantee by December 31?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-26
 expiryDate: 2026-12-31
 tags: ["ai", "politics", "polymarket"]

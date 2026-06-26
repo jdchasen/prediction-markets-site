@@ -3,7 +3,7 @@ title: "Will AfD win an absolute majority of seats in Sachsen-Anhalt?"
 description: "Will AfD win an absolute majority of seats in Sachsen-Anhalt? Odds: 41.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will AfD win an absolute majority of seats in Sachsen-Anhalt?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-26
 expiryDate: 2026-09-06
 tags: ["politics", "polymarket"]

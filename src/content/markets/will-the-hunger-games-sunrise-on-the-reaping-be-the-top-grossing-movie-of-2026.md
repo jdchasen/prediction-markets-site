@@ -3,7 +3,7 @@ title: "Will The Hunger Games: Sunrise on the Reaping be the top grossing movie 
 description: "Will The Hunger Games: Sunrise on the Reaping be the top grossing movie of 2026? Odds: 0.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will The Hunger Games: Sunrise on the Reaping be the top grossing movie of 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-26
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
