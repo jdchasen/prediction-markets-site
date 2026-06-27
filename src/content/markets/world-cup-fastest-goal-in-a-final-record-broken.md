@@ -3,8 +3,8 @@ title: "World Cup: Fastest Goal in a Final Record Broken?"
 description: "World Cup: Fastest Goal in a Final Record Broken? Odds: 1.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "World Cup: Fastest Goal in a Final Record Broken?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-06-26
+status: "settled"
+lastUpdated: 2026-06-27
 expiryDate: 2026-07-20
 tags: ["polymarket", "sports"]
 polymarketYes: 1.1

@@ -3,8 +3,8 @@ title: "Will Argentina reach the Semifinals at the 2026 FIFA World Cup?"
 description: "Will Argentina reach the Semifinals at the 2026 FIFA World Cup? Odds: 48.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Argentina reach the Semifinals at the 2026 FIFA World Cup?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-06-26
+status: "settled"
+lastUpdated: 2026-06-27
 expiryDate: 2026-07-13
 tags: ["polymarket", "sports"]
 polymarketYes: 48.5

@@ -3,8 +3,8 @@ title: "Will Peter Attia be confirmed to have visited Epstein’s island?"
 description: "Will Peter Attia be confirmed to have visited Epstein’s island? Odds: 1.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Peter Attia be confirmed to have visited Epstein’s island?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-06-26
+status: "settled"
+lastUpdated: 2026-06-27
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
 polymarketYes: 1.0

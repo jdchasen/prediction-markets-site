@@ -1,15 +1,15 @@
 ---
 title: "Will Wesley Bell be the Democratic nominee for MO-01?"
-description: "Will Wesley Bell be the Democratic nominee for MO-01? Odds: 44.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Wesley Bell be the Democratic nominee for MO-01? Odds: 47.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Wesley Bell be the Democratic nominee for MO-01?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-06-26
+lastUpdated: 2026-06-27
 expiryDate: 2026-08-04
 tags: ["politics", "polymarket"]
-polymarketYes: 44.5
-polymarketNo: 55.5
-polymarketVolume: 9875
+polymarketYes: 47.0
+polymarketNo: 53.0
+polymarketVolume: 9884
 polymarketUrl: "https://polymarket.com/event/will-wesley-bell-be-the-democratic-nominee-for-mo-01"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-wesley-bell-be-the-democratic-
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 44.5% | 55.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 47.0% | 53.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Eduardo Bolsonaro win the 2026 Brazilian presidential election?](/odds/will-eduardo-bolsonaro-win-the-2026-brazilian-presidential-election) — 0% YES
 - [Will James Talarico win the 2028 Democratic presidential nomination?](/odds/will-james-talarico-win-the-2028-democratic-presidential-nomination) — 2% YES
-- [Israel strike on Yemen by June 30, 2026?](/odds/israel-strike-on-yemen-by-june-30-2026) — 5% YES
+- [Will Recep Tayyip Erdoğan win the Nobel Peace Prize in 2026?](/odds/will-recep-tayyip-erdoan-win-the-nobel-peace-prize-in-2026) — 1% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Wesley Bell be the Democratic nominee for MO-01?"?
 
-As of June 26, 2026, Polymarket prices YES at 44.5%.
+As of June 27, 2026, Polymarket prices YES at 47.0%.
 
 ### Where can I trade on this prediction market?
 

@@ -1,15 +1,15 @@
 ---
 title: "Will Morocco score the most goals at the 2026 FIFA World Cup?"
-description: "Will Morocco score the most goals at the 2026 FIFA World Cup? Odds: 0.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Morocco score the most goals at the 2026 FIFA World Cup? Odds: 0.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Morocco score the most goals at the 2026 FIFA World Cup?"
 category: "sports"
 status: "active"
-lastUpdated: 2026-06-26
+lastUpdated: 2026-06-27
 expiryDate: 2026-08-03
 tags: ["polymarket", "sports"]
-polymarketYes: 0.5
-polymarketNo: 99.5
-polymarketVolume: 9769
+polymarketYes: 0.4
+polymarketNo: 99.6
+polymarketVolume: 9936
 polymarketUrl: "https://polymarket.com/event/will-morocco-score-the-most-goals-at-the-2026-fifa-world-cup"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-morocco-score-the-most-goals-a
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.5% | 99.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.4% | 99.6% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Lionel Messi be the top goalscorer at the 2026 FIFA World Cup?](/odds/will-lionel-messi-be-the-top-goalscorer-at-the-2026-fifa-world-cup) — 38% YES
+- [Will Ivory Coast win the 2026 FIFA World Cup?](/odds/will-ivory-coast-win-the-2026-fifa-world-cup) — 0% YES
 - [Will Arizona Cardinals win the 2027 NFL NFC Championship?](/odds/will-arizona-cardinals-win-the-2027-nfl-nfc-championship) — 1% YES
-- [Will Argentina reach the Semifinals at the 2026 FIFA World Cup?](/odds/will-argentina-reach-the-semifinals-at-the-2026-fifa-world-cup) — 48% YES
+- [Will Spain reach the 2026 FIFA World Cup final?](/odds/will-spain-reach-the-2026-fifa-world-cup-final) — 26% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Morocco score the most goals at the 2026 FIFA World Cup?"?
 
-As of June 26, 2026, Polymarket prices YES at 0.5%.
+As of June 27, 2026, Polymarket prices YES at 0.4%.
 
 ### Where can I trade on this prediction market?
 

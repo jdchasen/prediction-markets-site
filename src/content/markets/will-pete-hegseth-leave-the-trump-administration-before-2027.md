@@ -1,15 +1,15 @@
 ---
 title: "Will Pete Hegseth leave the Trump administration before 2027?"
-description: "Will Pete Hegseth leave the Trump administration before 2027? Odds: 26.0% YES on Polymarket. See live prices and trade this market."
+description: "Will Pete Hegseth leave the Trump administration before 2027? Odds: 25.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Pete Hegseth leave the Trump administration before 2027?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-06-26
+lastUpdated: 2026-06-27
 expiryDate: 2026-12-31
 tags: ["ethereum", "politics", "polymarket", "trump"]
-polymarketYes: 26.0
-polymarketNo: 74.0
-polymarketVolume: 99448
+polymarketYes: 25.5
+polymarketNo: 74.5
+polymarketVolume: 99467
 polymarketUrl: "https://polymarket.com/event/will-pete-hegseth-leave-the-trump-administration-before-2027"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-pete-hegseth-leave-the-trump-a
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 26.0% | 74.0% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 25.5% | 74.5% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Eduardo Bolsonaro win the 2026 Brazilian presidential election?](/odds/will-eduardo-bolsonaro-win-the-2026-brazilian-presidential-election) — 0% YES
 - [Will James Talarico win the 2028 Democratic presidential nomination?](/odds/will-james-talarico-win-the-2028-democratic-presidential-nomination) — 2% YES
-- [Israel strike on Yemen by June 30, 2026?](/odds/israel-strike-on-yemen-by-june-30-2026) — 5% YES
+- [Will Recep Tayyip Erdoğan win the Nobel Peace Prize in 2026?](/odds/will-recep-tayyip-erdoan-win-the-nobel-peace-prize-in-2026) — 1% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Pete Hegseth leave the Trump administration before 2027?"?
 
-As of June 26, 2026, Polymarket prices YES at 26.0%.
+As of June 27, 2026, Polymarket prices YES at 25.5%.
 
 ### Where can I trade on this prediction market?
 

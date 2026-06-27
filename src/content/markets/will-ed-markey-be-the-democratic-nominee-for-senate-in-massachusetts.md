@@ -1,15 +1,15 @@
 ---
 title: "Will Ed Markey be the Democratic nominee for Senate in Massachusetts?"
-description: "Will Ed Markey be the Democratic nominee for Senate in Massachusetts? Odds: 71.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Ed Markey be the Democratic nominee for Senate in Massachusetts? Odds: 70.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Ed Markey be the Democratic nominee for Senate in Massachusetts?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-06-26
+lastUpdated: 2026-06-27
 expiryDate: 2026-09-01
 tags: ["politics", "polymarket"]
-polymarketYes: 71.5
-polymarketNo: 28.5
-polymarketVolume: 9816
+polymarketYes: 70.5
+polymarketNo: 29.5
+polymarketVolume: 9825
 polymarketUrl: "https://polymarket.com/event/will-ed-markey-be-the-democratic-nominee-for-senate-in-massachusetts"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-ed-markey-be-the-democratic-no
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 71.5% | 28.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 70.5% | 29.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Eduardo Bolsonaro win the 2026 Brazilian presidential election?](/odds/will-eduardo-bolsonaro-win-the-2026-brazilian-presidential-election) — 0% YES
 - [Will James Talarico win the 2028 Democratic presidential nomination?](/odds/will-james-talarico-win-the-2028-democratic-presidential-nomination) — 2% YES
-- [Israel strike on Yemen by June 30, 2026?](/odds/israel-strike-on-yemen-by-june-30-2026) — 5% YES
+- [Will Recep Tayyip Erdoğan win the Nobel Peace Prize in 2026?](/odds/will-recep-tayyip-erdoan-win-the-nobel-peace-prize-in-2026) — 1% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Ed Markey be the Democratic nominee for Senate in Massachusetts?"?
 
-As of June 26, 2026, Polymarket prices YES at 71.5%.
+As of June 27, 2026, Polymarket prices YES at 70.5%.
 
 ### Where can I trade on this prediction market?
 

@@ -3,8 +3,8 @@ title: "Will the Fed decide differently in the next three decisions (Jun–Jul�
 description: "Will the Fed decide differently in the next three decisions (Jun–Jul–Sep)? Odds: 36.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Fed decide differently in the next three decisions (Jun–Jul–Sep)?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-06-26
+status: "settled"
+lastUpdated: 2026-06-27
 expiryDate: 2026-09-16
 tags: ["federal-reserve", "politics", "polymarket"]
 polymarketYes: 36.5

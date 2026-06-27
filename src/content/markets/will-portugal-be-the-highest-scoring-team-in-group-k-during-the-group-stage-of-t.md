@@ -3,8 +3,8 @@ title: "Will Portugal be the highest-scoring team in Group K during the Group St
 description: "Will Portugal be the highest-scoring team in Group K during the Group Stage of the 2026 FIFA World Cup? Odds: 73.5% YES on Polymarket. See live prices and tr..."
 marketQuestion: "Will Portugal be the highest-scoring team in Group K during the Group Stage of the 2026 FIFA World Cup?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-06-26
+status: "settled"
+lastUpdated: 2026-06-27
 expiryDate: 2026-07-12
 tags: ["polymarket", "sports"]
 polymarketYes: 73.5

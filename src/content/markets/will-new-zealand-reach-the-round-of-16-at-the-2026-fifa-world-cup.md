@@ -3,8 +3,8 @@ title: "Will New Zealand reach the Round of 16 at the 2026 FIFA World Cup?"
 description: "Will New Zealand reach the Round of 16 at the 2026 FIFA World Cup? Odds: 1.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will New Zealand reach the Round of 16 at the 2026 FIFA World Cup?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-06-26
+status: "settled"
+lastUpdated: 2026-06-27
 expiryDate: 2026-07-04
 tags: ["polymarket", "sports"]
 polymarketYes: 1.8

@@ -3,8 +3,8 @@ title: "Will Spain reach the Round of 16 at the 2026 FIFA World Cup?"
 description: "Will Spain reach the Round of 16 at the 2026 FIFA World Cup? Odds: 82.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Spain reach the Round of 16 at the 2026 FIFA World Cup?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-06-26
+status: "settled"
+lastUpdated: 2026-06-27
 expiryDate: 2026-07-04
 tags: ["ai", "polymarket", "sports"]
 polymarketYes: 82.0

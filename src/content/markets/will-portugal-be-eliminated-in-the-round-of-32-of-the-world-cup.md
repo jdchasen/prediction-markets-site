@@ -1,15 +1,15 @@
 ---
 title: "Will Portugal be eliminated in the Round of 32 of the World Cup?"
-description: "Will Portugal be eliminated in the Round of 32 of the World Cup? Odds: 26.0% YES on Polymarket. See live prices and trade this market."
+description: "Will Portugal be eliminated in the Round of 32 of the World Cup? Odds: 25.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Portugal be eliminated in the Round of 32 of the World Cup?"
 category: "sports"
 status: "active"
-lastUpdated: 2026-06-26
+lastUpdated: 2026-06-27
 expiryDate: 2026-07-19
 tags: ["polymarket", "sports"]
-polymarketYes: 26.0
-polymarketNo: 74.0
-polymarketVolume: 9750
+polymarketYes: 25.0
+polymarketNo: 75.0
+polymarketVolume: 9797
 polymarketUrl: "https://polymarket.com/event/will-portugal-be-eliminated-in-the-round-of-32-of-the-world-cup-20260605224224216"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-portugal-be-eliminated-in-the-
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 26.0% | 74.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 25.0% | 75.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Lionel Messi be the top goalscorer at the 2026 FIFA World Cup?](/odds/will-lionel-messi-be-the-top-goalscorer-at-the-2026-fifa-world-cup) — 38% YES
+- [Will Ivory Coast win the 2026 FIFA World Cup?](/odds/will-ivory-coast-win-the-2026-fifa-world-cup) — 0% YES
 - [Will Arizona Cardinals win the 2027 NFL NFC Championship?](/odds/will-arizona-cardinals-win-the-2027-nfl-nfc-championship) — 1% YES
-- [Will Argentina reach the Semifinals at the 2026 FIFA World Cup?](/odds/will-argentina-reach-the-semifinals-at-the-2026-fifa-world-cup) — 48% YES
+- [Will Spain reach the 2026 FIFA World Cup final?](/odds/will-spain-reach-the-2026-fifa-world-cup-final) — 26% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Portugal be eliminated in the Round of 32 of the World Cup?"?
 
-As of June 26, 2026, Polymarket prices YES at 26.0%.
+As of June 27, 2026, Polymarket prices YES at 25.0%.
 
 ### Where can I trade on this prediction market?
 

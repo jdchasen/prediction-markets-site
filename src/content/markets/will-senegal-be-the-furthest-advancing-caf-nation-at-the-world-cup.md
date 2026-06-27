@@ -3,8 +3,8 @@ title: "Will Senegal be the furthest advancing CAF nation at the World Cup?"
 description: "Will Senegal be the furthest advancing CAF nation at the World Cup? Odds: 20.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Senegal be the furthest advancing CAF nation at the World Cup?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-06-26
+status: "settled"
+lastUpdated: 2026-06-27
 expiryDate: 2026-07-20
 tags: ["polymarket", "sports"]
 polymarketYes: 20.5

@@ -3,8 +3,8 @@ title: "Will Norway finish second in Group I in the 2026 FIFA World Cup Group St
 description: "Will Norway finish second in Group I in the 2026 FIFA World Cup Group Stage? Odds: 100.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Norway finish second in Group I in the 2026 FIFA World Cup Group Stage?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-06-26
+status: "settled"
+lastUpdated: 2026-06-27
 expiryDate: 2026-07-12
 tags: ["polymarket", "sports"]
 polymarketYes: 100.0

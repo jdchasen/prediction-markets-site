@@ -1,14 +1,14 @@
 ---
 title: "Will the Democratic Party win the OK-02 House seat?"
-description: "Will the Democratic Party win the OK-02 House seat? Odds: 6.3% YES on Polymarket. See live prices and trade this market."
+description: "Will the Democratic Party win the OK-02 House seat? Odds: 6.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Democratic Party win the OK-02 House seat?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-06-26
+lastUpdated: 2026-06-27
 expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
-polymarketYes: 6.3
-polymarketNo: 93.7
+polymarketYes: 6.2
+polymarketNo: 93.8
 polymarketVolume: 9960
 polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-ok-02-house-seat"
 ---
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-o
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 6.3% | 93.7% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 6.2% | 93.8% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Eduardo Bolsonaro win the 2026 Brazilian presidential election?](/odds/will-eduardo-bolsonaro-win-the-2026-brazilian-presidential-election) — 0% YES
 - [Will James Talarico win the 2028 Democratic presidential nomination?](/odds/will-james-talarico-win-the-2028-democratic-presidential-nomination) — 2% YES
-- [Israel strike on Yemen by June 30, 2026?](/odds/israel-strike-on-yemen-by-june-30-2026) — 5% YES
+- [Will Recep Tayyip Erdoğan win the Nobel Peace Prize in 2026?](/odds/will-recep-tayyip-erdoan-win-the-nobel-peace-prize-in-2026) — 1% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will the Democratic Party win the OK-02 House seat?"?
 
-As of June 26, 2026, Polymarket prices YES at 6.3%.
+As of June 27, 2026, Polymarket prices YES at 6.2%.
 
 ### Where can I trade on this prediction market?
 
