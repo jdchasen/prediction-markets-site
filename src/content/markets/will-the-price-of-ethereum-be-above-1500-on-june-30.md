@@ -3,7 +3,7 @@ title: "Will the price of Ethereum be above $1,500 on June 30?"
 description: "Will the price of Ethereum be above $1,500 on June 30? Odds: 87.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the price of Ethereum be above $1,500 on June 30?"
 category: "crypto"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-27
 expiryDate: 2026-06-30
 tags: ["crypto", "ethereum", "polymarket"]

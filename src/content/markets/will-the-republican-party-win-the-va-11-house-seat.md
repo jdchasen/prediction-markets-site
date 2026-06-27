@@ -1,23 +1,23 @@
 ---
-title: "Will Venezuelan crude oil production reach 1.2m barrels per day in 2026?"
-description: "Will Venezuelan crude oil production reach 1.2m barrels per day in 2026? Odds: 67.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Venezuelan crude oil production reach 1.2m barrels per day in 2026?"
+title: "Will the Republican Party win the VA-11 House seat?"
+description: "Will the Republican Party win the VA-11 House seat? Odds: 1.7% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will the Republican Party win the VA-11 House seat?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-06-27
-expiryDate: 2027-02-28
+expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
-polymarketYes: 67.5
-polymarketNo: 32.5
-polymarketVolume: 9927
-polymarketUrl: "https://polymarket.com/event/will-venezuelan-crude-oil-production-reach-1pt2m-barrels-per-day-in-2026"
+polymarketYes: 1.7
+polymarketNo: 98.3
+polymarketVolume: 9779
+polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-va-11-house-seat"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 67.5% | 32.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 1.7% | 98.3% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-venezuelan-crude-oil-productio
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Venezuelan crude oil production reach 1.2m barrels per day in 2026?"?
+### What are the current odds for "Will the Republican Party win the VA-11 House seat?"?
 
-As of June 27, 2026, Polymarket prices YES at 67.5%.
+As of June 27, 2026, Polymarket prices YES at 1.7%.
 
 ### Where can I trade on this prediction market?
 
@@ -38,5 +38,5 @@ You can trade this market on [Polymarket](https://polymarket.us/1762?utm_source=
 ## Learn More
 
 - [Will Oil Hit $100? March Crude Prediction Market Odds](/blog/will-oil-hit-100-march-crude-prediction-market-odds)
-- [Will ETH Hit $4,500 in 2026? Live Market Odds](/blog/will-ethereum-reach-4500-in-2026-what-prediction-markets-say)
+- [Will MicroStrategy Sell Bitcoin? Market Odds](/blog/will-microstrategy-sell-bitcoin-market-odds)
 

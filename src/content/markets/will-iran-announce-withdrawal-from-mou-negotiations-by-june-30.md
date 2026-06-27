@@ -1,23 +1,23 @@
 ---
-title: "Iran Nuke before 2027?"
-description: "Iran Nuke before 2027? Odds: 5.9% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Iran Nuke before 2027?"
+title: "Will Iran announce withdrawal from MOU negotiations by June 30?"
+description: "Will Iran announce withdrawal from MOU negotiations by June 30? Odds: 11.1% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Iran announce withdrawal from MOU negotiations by June 30?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-06-27
-expiryDate: 2026-12-31
+expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
-polymarketYes: 5.9
-polymarketNo: 94.2
-polymarketVolume: 988606
-polymarketUrl: "https://polymarket.com/event/iran-nuke-before-2027"
+polymarketYes: 11.1
+polymarketNo: 88.9
+polymarketVolume: 99087
+polymarketUrl: "https://polymarket.com/event/will-iran-announce-withdrawal-from-mou-negotiations-by-june-30-20260622191733845"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 5.9% | 94.2% | $989K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 11.1% | 88.9% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/iran-nuke-before-2027"
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Iran Nuke before 2027?"?
+### What are the current odds for "Will Iran announce withdrawal from MOU negotiations by June 30?"?
 
-As of June 27, 2026, Polymarket prices YES at 5.9%.
+As of June 27, 2026, Polymarket prices YES at 11.1%.
 
 ### Where can I trade on this prediction market?
 
@@ -38,5 +38,5 @@ You can trade this market on [Polymarket](https://polymarket.us/1762?utm_source=
 ## Learn More
 
 - [US-Iran Peace Deal Odds: Will It Happen in 2025?](/blog/us-iran-peace-deal-odds-will-it-happen-in-2025)
-- [US-Iran Peace Deal Odds: What Traders Are Betting](/blog/us-iran-peace-deal-odds-what-traders-are-betting)
+- [How to Withdraw from Polymarket to Your Bank](/blog/polymarket-withdrawal)
 

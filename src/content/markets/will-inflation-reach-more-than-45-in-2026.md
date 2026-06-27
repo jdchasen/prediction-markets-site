@@ -9,7 +9,7 @@ expiryDate: 2026-12-31
 tags: ["economics", "polymarket", "sports"]
 polymarketYes: 19.5
 polymarketNo: 80.5
-polymarketVolume: 98635
+polymarketVolume: 98673
 polymarketUrl: "https://polymarket.com/event/will-inflation-reach-more-than-4pt5-in-2026"
 ---
 

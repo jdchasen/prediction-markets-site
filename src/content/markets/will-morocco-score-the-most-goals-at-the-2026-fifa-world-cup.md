@@ -3,7 +3,7 @@ title: "Will Morocco score the most goals at the 2026 FIFA World Cup?"
 description: "Will Morocco score the most goals at the 2026 FIFA World Cup? Odds: 0.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Morocco score the most goals at the 2026 FIFA World Cup?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-27
 expiryDate: 2026-08-03
 tags: ["polymarket", "sports"]

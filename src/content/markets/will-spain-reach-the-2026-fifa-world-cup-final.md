@@ -3,7 +3,7 @@ title: "Will Spain reach the 2026 FIFA World Cup final?"
 description: "Will Spain reach the 2026 FIFA World Cup final? Odds: 25.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Spain reach the 2026 FIFA World Cup final?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-27
 expiryDate: 2026-07-20
 tags: ["ai", "polymarket", "sports"]

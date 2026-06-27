@@ -9,7 +9,7 @@ expiryDate: 2026-07-19
 tags: ["polymarket", "sports"]
 polymarketYes: 11.0
 polymarketNo: 89.0
-polymarketVolume: 9833
+polymarketVolume: 9868
 polymarketUrl: "https://polymarket.com/event/will-england-win-the-world-cup-20260605224222109"
 ---
 
@@ -23,7 +23,7 @@ polymarketUrl: "https://polymarket.com/event/will-england-win-the-world-cup-2026
 
 - [Will Ivory Coast win the 2026 FIFA World Cup?](/odds/will-ivory-coast-win-the-2026-fifa-world-cup) — 0% YES
 - [Will Arizona Cardinals win the 2027 NFL NFC Championship?](/odds/will-arizona-cardinals-win-the-2027-nfl-nfc-championship) — 1% YES
-- [Will Spain reach the 2026 FIFA World Cup final?](/odds/will-spain-reach-the-2026-fifa-world-cup-final) — 26% YES
+- [Will Baker Mayfield win the 2026 NFL MVP?](/odds/will-baker-mayfield-win-the-2026-nfl-mvp) — 1% YES
 
 ## Frequently Asked Questions
 

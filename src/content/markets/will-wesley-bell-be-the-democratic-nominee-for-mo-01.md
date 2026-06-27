@@ -3,7 +3,7 @@ title: "Will Wesley Bell be the Democratic nominee for MO-01?"
 description: "Will Wesley Bell be the Democratic nominee for MO-01? Odds: 47.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Wesley Bell be the Democratic nominee for MO-01?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-27
 expiryDate: 2026-08-04
 tags: ["politics", "polymarket"]

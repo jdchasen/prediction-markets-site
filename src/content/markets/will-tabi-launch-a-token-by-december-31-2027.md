@@ -1,15 +1,15 @@
 ---
 title: "Will Tabi launch a token by December 31, 2027?"
-description: "Will Tabi launch a token by December 31, 2027? Odds: 83.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Tabi launch a token by December 31, 2027? Odds: 84.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Tabi launch a token by December 31, 2027?"
 category: "crypto"
 status: "active"
 lastUpdated: 2026-06-27
 expiryDate: 2028-01-01
 tags: ["crypto", "polymarket"]
-polymarketYes: 83.5
-polymarketNo: 16.5
-polymarketVolume: 9964
+polymarketYes: 84.0
+polymarketNo: 16.0
+polymarketVolume: 9999
 polymarketUrl: "https://polymarket.com/event/will-tabi-launch-a-token-by-december-31-2027"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-tabi-launch-a-token-by-decembe
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 83.5% | 16.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 84.0% | 16.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-tabi-launch-a-token-by-decembe
 
 ### What are the current odds for "Will Tabi launch a token by December 31, 2027?"?
 
-As of June 27, 2026, Polymarket prices YES at 83.5%.
+As of June 27, 2026, Polymarket prices YES at 84.0%.
 
 ### Where can I trade on this prediction market?
 

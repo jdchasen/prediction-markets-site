@@ -3,7 +3,7 @@ title: "Will Portugal be eliminated in the Semifinals of the World Cup?"
 description: "Will Portugal be eliminated in the Semifinals of the World Cup? Odds: 16.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Portugal be eliminated in the Semifinals of the World Cup?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-27
 expiryDate: 2026-07-19
 tags: ["polymarket", "sports"]

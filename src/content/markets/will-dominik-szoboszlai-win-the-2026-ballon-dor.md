@@ -9,7 +9,7 @@ expiryDate: 2026-10-31
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 0.1
 polymarketNo: 99.9
-polymarketVolume: 99201
+polymarketVolume: 99237
 polymarketUrl: "https://polymarket.com/event/will-dominik-szoboszlai-win-the-2026-ballon-dor"
 ---
 

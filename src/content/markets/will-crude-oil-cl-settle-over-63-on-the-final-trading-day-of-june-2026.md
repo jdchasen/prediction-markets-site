@@ -3,7 +3,7 @@ title: "Will Crude Oil (CL) settle over $63 on the final trading day of June 202
 description: "Will Crude Oil (CL) settle over $63 on the final trading day of June 2026? Odds: 99.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Crude Oil (CL) settle over $63 on the final trading day of June 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-27
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]

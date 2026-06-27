@@ -3,7 +3,7 @@ title: "Will Trump attend 0 World Cup matches?"
 description: "Will Trump attend 0 World Cup matches? Odds: 3.6% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Trump attend 0 World Cup matches?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-27
 expiryDate: 2026-07-20
 tags: ["polymarket", "sports", "trump"]

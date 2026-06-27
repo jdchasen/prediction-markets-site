@@ -3,7 +3,7 @@ title: "Will Extended launch a token by December 31 2026?"
 description: "Will Extended launch a token by December 31 2026? Odds: 71.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Extended launch a token by December 31 2026?"
 category: "crypto"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-27
 expiryDate: 2027-01-01
 tags: ["crypto", "polymarket"]

@@ -1,23 +1,23 @@
 ---
-title: "Will a player representing Scotland be the top goalscorer at the 2026 FIFA World Cup?"
-description: "Will a player representing Scotland be the top goalscorer at the 2026 FIFA World Cup? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will a player representing Scotland be the top goalscorer at the 2026 FIFA World Cup?"
+title: "Will Cristiano Ronaldo score 4+ goals during the 2026 FIFA World Cup?"
+description: "Will Cristiano Ronaldo score 4+ goals during the 2026 FIFA World Cup? Odds: 53.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Cristiano Ronaldo score 4+ goals during the 2026 FIFA World Cup?"
 category: "sports"
 status: "active"
 lastUpdated: 2026-06-27
-expiryDate: 2026-08-20
+expiryDate: 2026-08-03
 tags: ["polymarket", "sports"]
-polymarketYes: 0.1
-polymarketNo: 100.0
-polymarketVolume: 9871
-polymarketUrl: "https://polymarket.com/event/will-a-player-representing-scotland-be-the-top-goalscorer-at-the-2026-fifa-world-cup"
+polymarketYes: 53.5
+polymarketNo: 46.5
+polymarketVolume: 9756
+polymarketUrl: "https://polymarket.com/event/will-cristiano-ronaldo-score-4-goals-during-the-2026-fifa-world-cup-20260611144406405"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.1% | 100.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 53.5% | 46.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-a-player-representing-scotland
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will a player representing Scotland be the top goalscorer at the 2026 FIFA World Cup?"?
+### What are the current odds for "Will Cristiano Ronaldo score 4+ goals during the 2026 FIFA World Cup?"?
 
-As of June 27, 2026, Polymarket prices YES at 0.1%.
+As of June 27, 2026, Polymarket prices YES at 53.5%.
 
 ### Where can I trade on this prediction market?
 

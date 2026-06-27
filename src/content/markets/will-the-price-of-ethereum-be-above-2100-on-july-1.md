@@ -1,13 +1,13 @@
 ---
 title: "Will the price of Ethereum be above $2,100 on July 1?"
-description: "Will the price of Ethereum be above $2,100 on July 1? Odds: 0.3% YES on Polymarket. See live prices and trade this market."
+description: "Will the price of Ethereum be above $2,100 on July 1? Odds: 0.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the price of Ethereum be above $2,100 on July 1?"
 category: "crypto"
 status: "active"
 lastUpdated: 2026-06-27
 expiryDate: 2026-07-01
 tags: ["crypto", "ethereum", "polymarket"]
-polymarketYes: 0.3
+polymarketYes: 0.4
 polymarketNo: 99.7
 polymarketVolume: 9792
 polymarketUrl: "https://polymarket.com/event/ethereum-above-2100-on-july-1-2026"
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/ethereum-above-2100-on-july-1-2026"
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.3% | 99.7% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.4% | 99.7% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/ethereum-above-2100-on-july-1-2026"
 
 ### What are the current odds for "Will the price of Ethereum be above $2,100 on July 1?"?
 
-As of June 27, 2026, Polymarket prices YES at 0.3%.
+As of June 27, 2026, Polymarket prices YES at 0.4%.
 
 ### Where can I trade on this prediction market?
 

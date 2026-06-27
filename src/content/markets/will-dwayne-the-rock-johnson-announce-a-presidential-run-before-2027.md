@@ -1,13 +1,13 @@
 ---
 title: "Will Dwayne 'The Rock' Johnson announce a Presidential run before 2027?"
-description: "Will Dwayne 'The Rock' Johnson announce a Presidential run before 2027? Odds: 1.6% YES on Polymarket. See live prices and trade this market."
+description: "Will Dwayne 'The Rock' Johnson announce a Presidential run before 2027? Odds: 1.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Dwayne 'The Rock' Johnson announce a Presidential run before 2027?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-06-27
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 1.6
+polymarketYes: 1.5
 polymarketNo: 98.5
 polymarketVolume: 9832
 polymarketUrl: "https://polymarket.com/event/will-dwayne-the-rock-johnson-announce-a-presidential-run-before-2027"
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-dwayne-the-rock-johnson-announ
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 1.6% | 98.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 1.5% | 98.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-dwayne-the-rock-johnson-announ
 
 ### What are the current odds for "Will Dwayne 'The Rock' Johnson announce a Presidential run before 2027?"?
 
-As of June 27, 2026, Polymarket prices YES at 1.6%.
+As of June 27, 2026, Polymarket prices YES at 1.5%.
 
 ### Where can I trade on this prediction market?
 

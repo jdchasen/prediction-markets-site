@@ -1,15 +1,15 @@
 ---
 title: "Will Bitcoin reach $77,500 in June?"
-description: "Will Bitcoin reach $77,500 in June? Odds: 0.4% YES on Polymarket. See live prices and trade this market."
+description: "Will Bitcoin reach $77,500 in June? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Bitcoin reach $77,500 in June?"
 category: "crypto"
 status: "active"
 lastUpdated: 2026-06-27
 expiryDate: 2026-07-01
 tags: ["bitcoin", "crypto", "polymarket"]
-polymarketYes: 0.4
-polymarketNo: 99.7
-polymarketVolume: 979374
+polymarketYes: 0.1
+polymarketNo: 99.9
+polymarketVolume: 995895
 polymarketUrl: "https://polymarket.com/event/will-bitcoin-reach-77pt5k-in-june-2026"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-bitcoin-reach-77pt5k-in-june-2
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.4% | 99.7% | $979K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.1% | 99.9% | $996K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-bitcoin-reach-77pt5k-in-june-2
 
 ### What are the current odds for "Will Bitcoin reach $77,500 in June?"?
 
-As of June 27, 2026, Polymarket prices YES at 0.4%.
+As of June 27, 2026, Polymarket prices YES at 0.1%.
 
 ### Where can I trade on this prediction market?
 

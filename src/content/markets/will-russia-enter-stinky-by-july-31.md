@@ -3,7 +3,7 @@ title: "Will Russia enter Stinky by July 31?"
 description: "Will Russia enter Stinky by July 31? Odds: 35.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Russia enter Stinky by July 31?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-27
 expiryDate: 2026-07-31
 tags: ["politics", "polymarket"]

@@ -3,7 +3,7 @@ title: "Will Congress override any veto in 2026?"
 description: "Will Congress override any veto in 2026? Odds: 16.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Congress override any veto in 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-27
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]

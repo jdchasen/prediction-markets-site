@@ -3,7 +3,7 @@ title: "Will Kendrick Lamar be the top Spotify artist for 2026?"
 description: "Will Kendrick Lamar be the top Spotify artist for 2026? Odds: 0.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Kendrick Lamar be the top Spotify artist for 2026?"
 category: "politics"
-status: "settled"
+status: "active"
 lastUpdated: 2026-06-27
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
@@ -23,13 +23,13 @@ polymarketUrl: "https://polymarket.com/event/will-kendrick-lamar-be-the-top-spot
 
 - [Will Eduardo Bolsonaro win the 2026 Brazilian presidential election?](/odds/will-eduardo-bolsonaro-win-the-2026-brazilian-presidential-election) — 0% YES
 - [Will James Talarico win the 2028 Democratic presidential nomination?](/odds/will-james-talarico-win-the-2028-democratic-presidential-nomination) — 2% YES
-- [Israel strike on Yemen by June 30, 2026?](/odds/israel-strike-on-yemen-by-june-30-2026) — 5% YES
+- [Will Recep Tayyip Erdoğan win the Nobel Peace Prize in 2026?](/odds/will-recep-tayyip-erdoan-win-the-nobel-peace-prize-in-2026) — 1% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Kendrick Lamar be the top Spotify artist for 2026?"?
 
-As of June 26, 2026, Polymarket prices YES at 0.2%.
+As of June 27, 2026, Polymarket prices YES at 0.2%.
 
 ### Where can I trade on this prediction market?
 

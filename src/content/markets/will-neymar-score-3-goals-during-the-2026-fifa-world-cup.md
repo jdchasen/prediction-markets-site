@@ -1,15 +1,15 @@
 ---
 title: "Will Neymar score 3+ goals during the 2026 FIFA World Cup?"
-description: "Will Neymar score 3+ goals during the 2026 FIFA World Cup? Odds: 5.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Neymar score 3+ goals during the 2026 FIFA World Cup? Odds: 5.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Neymar score 3+ goals during the 2026 FIFA World Cup?"
 category: "sports"
 status: "active"
 lastUpdated: 2026-06-27
 expiryDate: 2026-08-03
 tags: ["polymarket", "sports"]
-polymarketYes: 5.5
-polymarketNo: 94.5
-polymarketVolume: 9918
+polymarketYes: 5.8
+polymarketNo: 94.2
+polymarketVolume: 9991
 polymarketUrl: "https://polymarket.com/event/will-neymar-score-3-goals-during-the-2026-fifa-world-cup-20260611145108555"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-neymar-score-3-goals-during-th
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 5.5% | 94.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 5.8% | 94.2% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Ivory Coast win the 2026 FIFA World Cup?](/odds/will-ivory-coast-win-the-2026-fifa-world-cup) — 0% YES
 - [Will Arizona Cardinals win the 2027 NFL NFC Championship?](/odds/will-arizona-cardinals-win-the-2027-nfl-nfc-championship) — 1% YES
-- [Will Spain reach the 2026 FIFA World Cup final?](/odds/will-spain-reach-the-2026-fifa-world-cup-final) — 26% YES
+- [Will Baker Mayfield win the 2026 NFL MVP?](/odds/will-baker-mayfield-win-the-2026-nfl-mvp) — 1% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Neymar score 3+ goals during the 2026 FIFA World Cup?"?
 
-As of June 27, 2026, Polymarket prices YES at 5.5%.
+As of June 27, 2026, Polymarket prices YES at 5.8%.
 
 ### Where can I trade on this prediction market?
 

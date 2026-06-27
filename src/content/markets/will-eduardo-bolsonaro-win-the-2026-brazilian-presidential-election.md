@@ -9,7 +9,7 @@ expiryDate: 2026-10-04
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.1
 polymarketNo: 99.9
-polymarketVolume: 9889629
+polymarketVolume: 9896192
 polymarketUrl: "https://polymarket.com/event/will-eduardo-bolsonaro-win-the-2026-brazilian-presidential-election"
 ---
 

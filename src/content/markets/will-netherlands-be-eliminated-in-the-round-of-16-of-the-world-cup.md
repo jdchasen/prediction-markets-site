@@ -1,23 +1,23 @@
 ---
-title: "Will Portugal be eliminated in the Round of 32 of the World Cup?"
-description: "Will Portugal be eliminated in the Round of 32 of the World Cup? Odds: 25.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Portugal be eliminated in the Round of 32 of the World Cup?"
+title: "Will Netherlands be eliminated in the Round of 16 of the World Cup?"
+description: "Will Netherlands be eliminated in the Round of 16 of the World Cup? Odds: 10.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Netherlands be eliminated in the Round of 16 of the World Cup?"
 category: "sports"
 status: "active"
 lastUpdated: 2026-06-27
 expiryDate: 2026-07-19
-tags: ["polymarket", "sports"]
-polymarketYes: 25.5
-polymarketNo: 74.5
-polymarketVolume: 9955
-polymarketUrl: "https://polymarket.com/event/will-portugal-be-eliminated-in-the-round-of-32-of-the-world-cup-20260605224224216"
+tags: ["ethereum", "polymarket", "sports"]
+polymarketYes: 10.5
+polymarketNo: 89.5
+polymarketVolume: 9961
+polymarketUrl: "https://polymarket.com/event/will-netherlands-be-eliminated-in-the-round-of-16-of-the-world-cup-20260605224223620"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 25.5% | 74.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 10.5% | 89.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-portugal-be-eliminated-in-the-
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Portugal be eliminated in the Round of 32 of the World Cup?"?
+### What are the current odds for "Will Netherlands be eliminated in the Round of 16 of the World Cup?"?
 
-As of June 27, 2026, Polymarket prices YES at 25.5%.
+As of June 27, 2026, Polymarket prices YES at 10.5%.
 
 ### Where can I trade on this prediction market?
 

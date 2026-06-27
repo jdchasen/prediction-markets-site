@@ -1,13 +1,13 @@
 ---
 title: "MLB: Perfect Game thrown in 2026 season?"
-description: "MLB: Perfect Game thrown in 2026 season? Odds: 12.5% YES on Polymarket. See live prices and trade this market."
+description: "MLB: Perfect Game thrown in 2026 season? Odds: 13.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "MLB: Perfect Game thrown in 2026 season?"
 category: "sports"
 status: "active"
 lastUpdated: 2026-06-27
 tags: ["polymarket", "sports"]
-polymarketYes: 12.5
-polymarketNo: 87.5
+polymarketYes: 13.5
+polymarketNo: 86.5
 polymarketVolume: 9835
 polymarketUrl: "https://polymarket.com/event/mlb-perfect-game-thrown-in-2026-season"
 ---
@@ -16,19 +16,19 @@ polymarketUrl: "https://polymarket.com/event/mlb-perfect-game-thrown-in-2026-sea
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 12.5% | 87.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 13.5% | 86.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Ivory Coast win the 2026 FIFA World Cup?](/odds/will-ivory-coast-win-the-2026-fifa-world-cup) — 0% YES
 - [Will Arizona Cardinals win the 2027 NFL NFC Championship?](/odds/will-arizona-cardinals-win-the-2027-nfl-nfc-championship) — 1% YES
-- [Will Spain reach the 2026 FIFA World Cup final?](/odds/will-spain-reach-the-2026-fifa-world-cup-final) — 26% YES
+- [Will Baker Mayfield win the 2026 NFL MVP?](/odds/will-baker-mayfield-win-the-2026-nfl-mvp) — 1% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "MLB: Perfect Game thrown in 2026 season?"?
 
-As of June 27, 2026, Polymarket prices YES at 12.5%.
+As of June 27, 2026, Polymarket prices YES at 13.5%.
 
 ### Where can I trade on this prediction market?
 

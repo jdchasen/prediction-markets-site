@@ -1,23 +1,23 @@
 ---
-title: "Will a player representing Scotland be the top goalscorer at the 2026 FIFA World Cup?"
-description: "Will a player representing Scotland be the top goalscorer at the 2026 FIFA World Cup? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will a player representing Scotland be the top goalscorer at the 2026 FIFA World Cup?"
+title: "Will Austria reach the 2026 FIFA World Cup final?"
+description: "Will Austria reach the 2026 FIFA World Cup final? Odds: 1.7% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Austria reach the 2026 FIFA World Cup final?"
 category: "sports"
 status: "active"
 lastUpdated: 2026-06-27
-expiryDate: 2026-08-20
+expiryDate: 2026-07-20
 tags: ["polymarket", "sports"]
-polymarketYes: 0.1
-polymarketNo: 100.0
-polymarketVolume: 9871
-polymarketUrl: "https://polymarket.com/event/will-a-player-representing-scotland-be-the-top-goalscorer-at-the-2026-fifa-world-cup"
+polymarketYes: 1.7
+polymarketNo: 98.4
+polymarketVolume: 9979
+polymarketUrl: "https://polymarket.com/event/will-austria-reach-the-2026-fifa-world-cup-final"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.1% | 100.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 1.7% | 98.4% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-a-player-representing-scotland
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will a player representing Scotland be the top goalscorer at the 2026 FIFA World Cup?"?
+### What are the current odds for "Will Austria reach the 2026 FIFA World Cup final?"?
 
-As of June 27, 2026, Polymarket prices YES at 0.1%.
+As of June 27, 2026, Polymarket prices YES at 1.7%.
 
 ### Where can I trade on this prediction market?
 

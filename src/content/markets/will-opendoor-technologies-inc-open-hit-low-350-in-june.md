@@ -9,7 +9,7 @@ expiryDate: 2026-07-01
 tags: ["politics", "polymarket"]
 polymarketYes: 1.9
 polymarketNo: 98.1
-polymarketVolume: 9867
+polymarketVolume: 9875
 polymarketUrl: "https://polymarket.com/event/will-open-dip-to-3-50-in-june-2026"
 ---
 
