@@ -1,23 +1,23 @@
 ---
-title: "Will Philadelphia Phillies win the 2026 NL East title?"
-description: "Will Philadelphia Phillies win the 2026 NL East title? Odds: 35.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Philadelphia Phillies win the 2026 NL East title?"
+title: "Will Ed Miliband be the next Chancellor of the Exchequer of the UK in 2026?"
+description: "Will Ed Miliband be the next Chancellor of the Exchequer of the UK in 2026? Odds: 60.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Ed Miliband be the next Chancellor of the Exchequer of the UK in 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-06-28
-expiryDate: 2026-10-11
+expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 35.5
-polymarketNo: 64.5
-polymarketVolume: 99976
-polymarketUrl: "https://polymarket.com/event/will-philadelphia-phillies-win-the-2026-nl-east-title"
+polymarketYes: 60.5
+polymarketNo: 39.5
+polymarketVolume: 99099
+polymarketUrl: "https://polymarket.com/event/will-ed-miliband-be-the-next-chancellor-of-the-exchequer-of-the-uk-in-2026-20260621005429782"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 35.5% | 64.5% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 60.5% | 39.5% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-philadelphia-phillies-win-the-
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Philadelphia Phillies win the 2026 NL East title?"?
+### What are the current odds for "Will Ed Miliband be the next Chancellor of the Exchequer of the UK in 2026?"?
 
-As of June 28, 2026, Polymarket prices YES at 35.5%.
+As of June 28, 2026, Polymarket prices YES at 60.5%.
 
 ### Where can I trade on this prediction market?
 

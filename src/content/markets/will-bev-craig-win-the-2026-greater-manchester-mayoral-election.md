@@ -1,23 +1,23 @@
 ---
-title: "Will Philadelphia Phillies win the 2026 NL East title?"
-description: "Will Philadelphia Phillies win the 2026 NL East title? Odds: 35.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Philadelphia Phillies win the 2026 NL East title?"
+title: "Will Bev Craig win the 2026 Greater Manchester Mayoral Election?"
+description: "Will Bev Craig win the 2026 Greater Manchester Mayoral Election? Odds: 90.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Bev Craig win the 2026 Greater Manchester Mayoral Election?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-06-28
-expiryDate: 2026-10-11
-tags: ["politics", "polymarket"]
-polymarketYes: 35.5
-polymarketNo: 64.5
-polymarketVolume: 99976
-polymarketUrl: "https://polymarket.com/event/will-philadelphia-phillies-win-the-2026-nl-east-title"
+expiryDate: 2026-07-30
+tags: ["ai", "elections", "politics", "polymarket"]
+polymarketYes: 90.5
+polymarketNo: 9.5
+polymarketVolume: 97649
+polymarketUrl: "https://polymarket.com/event/will-bev-craig-win-the-2026-greater-manchester-mayoral-election-20260619154257395"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 35.5% | 64.5% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 90.5% | 9.5% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-philadelphia-phillies-win-the-
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Philadelphia Phillies win the 2026 NL East title?"?
+### What are the current odds for "Will Bev Craig win the 2026 Greater Manchester Mayoral Election?"?
 
-As of June 28, 2026, Polymarket prices YES at 35.5%.
+As of June 28, 2026, Polymarket prices YES at 90.5%.
 
 ### Where can I trade on this prediction market?
 

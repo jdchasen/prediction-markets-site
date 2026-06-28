@@ -1,23 +1,23 @@
 ---
-title: "Iran Nuke before 2027?"
-description: "Iran Nuke before 2027? Odds: 5.8% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Iran Nuke before 2027?"
+title: "Will Marco Rubio sign a U.S. x Iran deal by July 31?"
+description: "Will Marco Rubio sign a U.S. x Iran deal by July 31? Odds: 2.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Marco Rubio sign a U.S. x Iran deal by July 31?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-06-28
-expiryDate: 2026-12-31
+expiryDate: 2026-08-01
 tags: ["politics", "polymarket"]
-polymarketYes: 5.8
-polymarketNo: 94.2
-polymarketVolume: 989196
-polymarketUrl: "https://polymarket.com/event/iran-nuke-before-2027"
+polymarketYes: 2.5
+polymarketNo: 97.5
+polymarketVolume: 97597
+polymarketUrl: "https://polymarket.com/event/will-marco-rubio-sign-a-uptspt-x-iran-deal-by-july-31-20260611235950069"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 5.8% | 94.2% | $989K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 2.5% | 97.5% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/iran-nuke-before-2027"
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Iran Nuke before 2027?"?
+### What are the current odds for "Will Marco Rubio sign a U.S. x Iran deal by July 31?"?
 
-As of June 28, 2026, Polymarket prices YES at 5.8%.
+As of June 28, 2026, Polymarket prices YES at 2.5%.
 
 ### Where can I trade on this prediction market?
 

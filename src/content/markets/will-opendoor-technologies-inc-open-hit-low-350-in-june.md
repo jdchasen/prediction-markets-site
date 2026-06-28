@@ -3,8 +3,8 @@ title: "Will Opendoor Technologies Inc. (OPEN) hit (LOW) $3.50 in June?"
 description: "Will Opendoor Technologies Inc. (OPEN) hit (LOW) $3.50 in June? Odds: 1.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Opendoor Technologies Inc. (OPEN) hit (LOW) $3.50 in June?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-06-27
+status: "settled"
+lastUpdated: 2026-06-28
 expiryDate: 2026-07-01
 tags: ["politics", "polymarket"]
 polymarketYes: 1.9

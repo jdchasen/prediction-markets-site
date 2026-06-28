@@ -1,35 +1,35 @@
 ---
-title: "Will Philadelphia Phillies win the 2026 NL East title?"
-description: "Will Philadelphia Phillies win the 2026 NL East title? Odds: 35.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Philadelphia Phillies win the 2026 NL East title?"
+title: "Putin out as President of Russia by December 31, 2026?"
+description: "Putin out as President of Russia by December 31, 2026? Odds: 12.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Putin out as President of Russia by December 31, 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-06-28
-expiryDate: 2026-10-11
+expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 35.5
-polymarketNo: 64.5
-polymarketVolume: 99976
-polymarketUrl: "https://polymarket.com/event/will-philadelphia-phillies-win-the-2026-nl-east-title"
+polymarketYes: 12.5
+polymarketNo: 87.5
+polymarketVolume: 9903993
+polymarketUrl: "https://polymarket.com/event/putin-out-before-2027"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 35.5% | 64.5% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 12.5% | 87.5% | $9.9M | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Eduardo Bolsonaro win the 2026 Brazilian presidential election?](/odds/will-eduardo-bolsonaro-win-the-2026-brazilian-presidential-election) — 0% YES
-- [Putin out as President of Russia by December 31, 2026?](/odds/putin-out-as-president-of-russia-by-december-31-2026) — 12% YES
 - [Will James Talarico win the 2028 Democratic presidential nomination?](/odds/will-james-talarico-win-the-2028-democratic-presidential-nomination) — 2% YES
+- [Will Recep Tayyip Erdoğan win the Nobel Peace Prize in 2026?](/odds/will-recep-tayyip-erdoan-win-the-nobel-peace-prize-in-2026) — 1% YES
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Philadelphia Phillies win the 2026 NL East title?"?
+### What are the current odds for "Putin out as President of Russia by December 31, 2026?"?
 
-As of June 28, 2026, Polymarket prices YES at 35.5%.
+As of June 28, 2026, Polymarket prices YES at 12.5%.
 
 ### Where can I trade on this prediction market?
 

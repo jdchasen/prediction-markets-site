@@ -1,23 +1,23 @@
 ---
-title: "Will Ivory Coast win the 2026 FIFA World Cup?"
-description: "Will Ivory Coast win the 2026 FIFA World Cup? Odds: 0.2% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Ivory Coast win the 2026 FIFA World Cup?"
+title: "Will Mikel Oyarzabal be the top goalscorer at the 2026 FIFA World Cup?"
+description: "Will Mikel Oyarzabal be the top goalscorer at the 2026 FIFA World Cup? Odds: 0.9% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Mikel Oyarzabal be the top goalscorer at the 2026 FIFA World Cup?"
 category: "sports"
-status: "settled"
+status: "active"
 lastUpdated: 2026-06-28
 expiryDate: 2026-07-20
 tags: ["polymarket", "sports"]
-polymarketYes: 0.2
-polymarketNo: 99.8
-polymarketVolume: 98939262
-polymarketUrl: "https://polymarket.com/event/will-ivory-coast-win-the-2026-fifa-world-cup"
+polymarketYes: 0.9
+polymarketNo: 99.1
+polymarketVolume: 982424
+polymarketUrl: "https://polymarket.com/event/will-mikel-oyarzabal-be-the-top-goalscorer-at-the-2026-fifa-world-cup"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.2% | 99.8% | $98.9M | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.9% | 99.1% | $982K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-ivory-coast-win-the-2026-fifa-
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Ivory Coast win the 2026 FIFA World Cup?"?
+### What are the current odds for "Will Mikel Oyarzabal be the top goalscorer at the 2026 FIFA World Cup?"?
 
-As of June 27, 2026, Polymarket prices YES at 0.2%.
+As of June 28, 2026, Polymarket prices YES at 0.9%.
 
 ### Where can I trade on this prediction market?
 

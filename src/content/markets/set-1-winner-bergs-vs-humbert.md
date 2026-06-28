@@ -3,8 +3,8 @@ title: "Set 1 Winner: Bergs vs Humbert"
 description: "Set 1 Winner: Bergs vs Humbert Odds: 28.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Set 1 Winner: Bergs vs Humbert"
 category: "politics"
-status: "active"
-lastUpdated: 2026-06-27
+status: "settled"
+lastUpdated: 2026-06-28
 expiryDate: 2026-07-04
 tags: ["politics", "polymarket"]
 polymarketYes: 28.0

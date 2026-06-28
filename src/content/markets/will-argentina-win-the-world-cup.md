@@ -1,35 +1,35 @@
 ---
-title: "Will Arizona Cardinals win the 2027 NFL NFC Championship?"
-description: "Will Arizona Cardinals win the 2027 NFL NFC Championship? Odds: 0.7% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Arizona Cardinals win the 2027 NFL NFC Championship?"
+title: "Will Argentina win the World Cup?"
+description: "Will Argentina win the World Cup? Odds: 20.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Argentina win the World Cup?"
 category: "sports"
 status: "active"
 lastUpdated: 2026-06-28
-expiryDate: 2027-01-25
+expiryDate: 2026-07-19
 tags: ["polymarket", "sports"]
-polymarketYes: 0.7
-polymarketNo: 99.3
-polymarketVolume: 983486
-polymarketUrl: "https://polymarket.com/event/will-arizona-cardinals-win-the-2027-nfl-nfc-championship-199"
+polymarketYes: 20.5
+polymarketNo: 79.5
+polymarketVolume: 9856
+polymarketUrl: "https://polymarket.com/event/will-argentina-win-the-world-cup-20260605224220148"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.7% | 99.3% | $983K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 20.5% | 79.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
+- [Will Arizona Cardinals win the 2027 NFL NFC Championship?](/odds/will-arizona-cardinals-win-the-2027-nfl-nfc-championship) — 1% YES
 - [Will Mikel Oyarzabal be the top goalscorer at the 2026 FIFA World Cup?](/odds/will-mikel-oyarzabal-be-the-top-goalscorer-at-the-2026-fifa-world-cup) — 1% YES
 - [Will Baker Mayfield win the 2026 NFL MVP?](/odds/will-baker-mayfield-win-the-2026-nfl-mvp) — 1% YES
-- [Will Kansas City Chiefs win the 2027 NFL AFC Championship?](/odds/will-kansas-city-chiefs-win-the-2027-nfl-afc-championship) — 10% YES
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Arizona Cardinals win the 2027 NFL NFC Championship?"?
+### What are the current odds for "Will Argentina win the World Cup?"?
 
-As of June 28, 2026, Polymarket prices YES at 0.7%.
+As of June 28, 2026, Polymarket prices YES at 20.5%.
 
 ### Where can I trade on this prediction market?
 

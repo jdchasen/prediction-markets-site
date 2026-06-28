@@ -4,7 +4,7 @@ description: "Will Elon Musk / X (Twitter) acquire TikTok? Odds: 0.2% YES on Pol
 marketQuestion: "Will Elon Musk / X (Twitter) acquire TikTok?"
 category: "tech"
 status: "active"
-lastUpdated: 2026-06-27
+lastUpdated: 2026-06-28
 expiryDate: 2026-12-31
 tags: ["polymarket", "tech"]
 polymarketYes: 0.2
@@ -23,7 +23,7 @@ polymarketUrl: "https://polymarket.com/event/will-elon-musk-x-twitter-acquire-ti
 
 ### What are the current odds for "Will Elon Musk / X (Twitter) acquire TikTok?"?
 
-As of June 27, 2026, Polymarket prices YES at 0.2%.
+As of June 28, 2026, Polymarket prices YES at 0.2%.
 
 ### Where can I trade on this prediction market?
 

@@ -1,23 +1,23 @@
 ---
-title: "Will the Democratic Party win the AR-04 House seat?"
-description: "Will the Democratic Party win the AR-04 House seat? Odds: 4.3% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will the Democratic Party win the AR-04 House seat?"
+title: "Will Russia capture Kostyantynivka by July 31?"
+description: "Will Russia capture Kostyantynivka by July 31? Odds: 44.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Russia capture Kostyantynivka by July 31?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-06-28
-expiryDate: 2026-11-03
+expiryDate: 2026-07-31
 tags: ["politics", "polymarket"]
-polymarketYes: 4.3
-polymarketNo: 95.7
-polymarketVolume: 9789
-polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-ar-04-house-seat"
+polymarketYes: 44.5
+polymarketNo: 55.5
+polymarketVolume: 9812
+polymarketUrl: "https://polymarket.com/event/will-russia-capture-kostyantynivka-by-july-31"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 4.3% | 95.7% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 44.5% | 55.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-a
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will the Democratic Party win the AR-04 House seat?"?
+### What are the current odds for "Will Russia capture Kostyantynivka by July 31?"?
 
-As of June 28, 2026, Polymarket prices YES at 4.3%.
+As of June 28, 2026, Polymarket prices YES at 44.5%.
 
 ### Where can I trade on this prediction market?
 

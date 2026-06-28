@@ -1,23 +1,23 @@
 ---
-title: "Will Philadelphia Phillies win the 2026 NL East title?"
-description: "Will Philadelphia Phillies win the 2026 NL East title? Odds: 35.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Philadelphia Phillies win the 2026 NL East title?"
+title: "Will Michael Minogue win the 2026 Massachusetts Governor Republican primary election?"
+description: "Will Michael Minogue win the 2026 Massachusetts Governor Republican primary election? Odds: 93.0% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Michael Minogue win the 2026 Massachusetts Governor Republican primary election?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-06-28
-expiryDate: 2026-10-11
-tags: ["politics", "polymarket"]
-polymarketYes: 35.5
-polymarketNo: 64.5
-polymarketVolume: 99976
-polymarketUrl: "https://polymarket.com/event/will-philadelphia-phillies-win-the-2026-nl-east-title"
+expiryDate: 2026-09-01
+tags: ["elections", "politics", "polymarket"]
+polymarketYes: 93.0
+polymarketNo: 7.0
+polymarketVolume: 9883
+polymarketUrl: "https://polymarket.com/event/will-michael-minogue-win-the-2026-massachusetts-governor-republican-primary-election"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 35.5% | 64.5% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 93.0% | 7.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-philadelphia-phillies-win-the-
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Philadelphia Phillies win the 2026 NL East title?"?
+### What are the current odds for "Will Michael Minogue win the 2026 Massachusetts Governor Republican primary election?"?
 
-As of June 28, 2026, Polymarket prices YES at 35.5%.
+As of June 28, 2026, Polymarket prices YES at 93.0%.
 
 ### Where can I trade on this prediction market?
 

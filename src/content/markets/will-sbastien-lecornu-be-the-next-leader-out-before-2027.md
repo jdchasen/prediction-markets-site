@@ -3,8 +3,8 @@ title: "Will Sébastien Lecornu be the next leader out before 2027?"
 description: "Will Sébastien Lecornu be the next leader out before 2027? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Sébastien Lecornu be the next leader out before 2027?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-06-27
+status: "settled"
+lastUpdated: 2026-06-28
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 0.1

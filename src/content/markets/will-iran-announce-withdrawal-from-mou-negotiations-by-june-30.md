@@ -3,8 +3,8 @@ title: "Will Iran announce withdrawal from MOU negotiations by June 30?"
 description: "Will Iran announce withdrawal from MOU negotiations by June 30? Odds: 11.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Iran announce withdrawal from MOU negotiations by June 30?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-06-27
+status: "settled"
+lastUpdated: 2026-06-28
 expiryDate: 2026-06-30
 tags: ["politics", "polymarket"]
 polymarketYes: 11.1

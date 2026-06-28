@@ -3,8 +3,8 @@ title: "Will Tabi launch a token by December 31, 2027?"
 description: "Will Tabi launch a token by December 31, 2027? Odds: 84.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Tabi launch a token by December 31, 2027?"
 category: "crypto"
-status: "active"
-lastUpdated: 2026-06-27
+status: "settled"
+lastUpdated: 2026-06-28
 expiryDate: 2028-01-01
 tags: ["crypto", "polymarket"]
 polymarketYes: 84.0

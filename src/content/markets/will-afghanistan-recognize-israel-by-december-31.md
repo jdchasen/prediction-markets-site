@@ -3,8 +3,8 @@ title: "Will Afghanistan recognize Israel by December 31?"
 description: "Will Afghanistan recognize Israel by December 31? Odds: 4.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Afghanistan recognize Israel by December 31?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-06-27
+status: "settled"
+lastUpdated: 2026-06-28
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 4.5

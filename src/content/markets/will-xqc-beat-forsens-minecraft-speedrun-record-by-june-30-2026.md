@@ -3,8 +3,8 @@ title: "Will xQc beat Forsen's Minecraft speedrun record by June 30, 2026?"
 description: "Will xQc beat Forsen's Minecraft speedrun record by June 30, 2026? Odds: 0.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will xQc beat Forsen's Minecraft speedrun record by June 30, 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-06-27
+status: "settled"
+lastUpdated: 2026-06-28
 tags: ["politics", "polymarket"]
 polymarketYes: 0.9
 polymarketNo: 99.1

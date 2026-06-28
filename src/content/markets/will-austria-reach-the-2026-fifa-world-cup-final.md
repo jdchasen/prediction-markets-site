@@ -3,8 +3,8 @@ title: "Will Austria reach the 2026 FIFA World Cup final?"
 description: "Will Austria reach the 2026 FIFA World Cup final? Odds: 1.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Austria reach the 2026 FIFA World Cup final?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-06-27
+status: "settled"
+lastUpdated: 2026-06-28
 expiryDate: 2026-07-20
 tags: ["polymarket", "sports"]
 polymarketYes: 1.7

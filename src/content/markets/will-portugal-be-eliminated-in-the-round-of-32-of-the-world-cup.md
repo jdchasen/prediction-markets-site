@@ -3,8 +3,8 @@ title: "Will Portugal be eliminated in the Round of 32 of the World Cup?"
 description: "Will Portugal be eliminated in the Round of 32 of the World Cup? Odds: 25.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Portugal be eliminated in the Round of 32 of the World Cup?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-06-27
+status: "settled"
+lastUpdated: 2026-06-28
 expiryDate: 2026-07-19
 tags: ["polymarket", "sports"]
 polymarketYes: 25.5

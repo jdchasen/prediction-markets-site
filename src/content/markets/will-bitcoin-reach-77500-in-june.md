@@ -3,8 +3,8 @@ title: "Will Bitcoin reach $77,500 in June?"
 description: "Will Bitcoin reach $77,500 in June? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Bitcoin reach $77,500 in June?"
 category: "crypto"
-status: "active"
-lastUpdated: 2026-06-27
+status: "settled"
+lastUpdated: 2026-06-28
 expiryDate: 2026-07-01
 tags: ["bitcoin", "crypto", "polymarket"]
 polymarketYes: 0.1

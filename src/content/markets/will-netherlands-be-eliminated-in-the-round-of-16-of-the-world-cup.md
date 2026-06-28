@@ -3,8 +3,8 @@ title: "Will Netherlands be eliminated in the Round of 16 of the World Cup?"
 description: "Will Netherlands be eliminated in the Round of 16 of the World Cup? Odds: 10.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Netherlands be eliminated in the Round of 16 of the World Cup?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-06-27
+status: "settled"
+lastUpdated: 2026-06-28
 expiryDate: 2026-07-19
 tags: ["ethereum", "polymarket", "sports"]
 polymarketYes: 10.5

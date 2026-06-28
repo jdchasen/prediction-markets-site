@@ -3,8 +3,8 @@ title: "Will Neymar score 3+ goals during the 2026 FIFA World Cup?"
 description: "Will Neymar score 3+ goals during the 2026 FIFA World Cup? Odds: 5.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Neymar score 3+ goals during the 2026 FIFA World Cup?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-06-27
+status: "settled"
+lastUpdated: 2026-06-28
 expiryDate: 2026-08-03
 tags: ["polymarket", "sports"]
 polymarketYes: 5.8

@@ -1,14 +1,14 @@
 ---
 title: "Will any AI model reach 1550 Overall Arena Score by September 30, 2026?"
-description: "Will any AI model reach 1550 Overall Arena Score by September 30, 2026? Odds: 8.0% YES on Polymarket. See live prices and trade this market."
+description: "Will any AI model reach 1550 Overall Arena Score by September 30, 2026? Odds: 7.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will any AI model reach 1550 Overall Arena Score by September 30, 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-06-27
+lastUpdated: 2026-06-28
 expiryDate: 2026-09-30
 tags: ["ai", "politics", "polymarket"]
-polymarketYes: 8.0
-polymarketNo: 92.0
+polymarketYes: 7.5
+polymarketNo: 92.5
 polymarketVolume: 9755
 polymarketUrl: "https://polymarket.com/event/will-any-ai-model-reach-1550-overall-arena-score-by-september-30-2026"
 ---
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-any-ai-model-reach-1550-overal
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 8.0% | 92.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 7.5% | 92.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Eduardo Bolsonaro win the 2026 Brazilian presidential election?](/odds/will-eduardo-bolsonaro-win-the-2026-brazilian-presidential-election) — 0% YES
+- [Putin out as President of Russia by December 31, 2026?](/odds/putin-out-as-president-of-russia-by-december-31-2026) — 12% YES
 - [Will James Talarico win the 2028 Democratic presidential nomination?](/odds/will-james-talarico-win-the-2028-democratic-presidential-nomination) — 2% YES
-- [Will Recep Tayyip Erdoğan win the Nobel Peace Prize in 2026?](/odds/will-recep-tayyip-erdoan-win-the-nobel-peace-prize-in-2026) — 1% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will any AI model reach 1550 Overall Arena Score by September 30, 2026?"?
 
-As of June 27, 2026, Polymarket prices YES at 8.0%.
+As of June 28, 2026, Polymarket prices YES at 7.5%.
 
 ### Where can I trade on this prediction market?
 
