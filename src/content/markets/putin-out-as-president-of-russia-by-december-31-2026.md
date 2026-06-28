@@ -3,7 +3,7 @@ title: "Putin out as President of Russia by December 31, 2026?"
 description: "Putin out as President of Russia by December 31, 2026? Odds: 12.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Putin out as President of Russia by December 31, 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-28
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]

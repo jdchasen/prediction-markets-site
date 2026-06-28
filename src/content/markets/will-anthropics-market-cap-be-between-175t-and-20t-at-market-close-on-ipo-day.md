@@ -23,7 +23,7 @@ polymarketUrl: "https://polymarket.com/event/will-anthropics-market-cap-be-betwe
 
 - [Anysphere (Cursor) IPO before 2027?](/odds/anysphere-cursor-ipo-before-2027) — 2% YES
 - [Will Perplexity AI have the highest IPO Market Cap 2026?](/odds/will-perplexity-ai-have-the-highest-ipo-market-cap-2026) — 0% YES
-- [Will OpenAI’s market cap be $1.5T or greater at market close on IPO day by December 31, 2027?](/odds/will-openais-market-cap-be-15t-or-greater-at-market-close-on-ipo-day-by-december) — 29% YES
+- [Will Trump sell 2.5k-5k Gold Cards in 2026?](/odds/will-trump-sell-25k-5k-gold-cards-in-2026) — 1% YES
 
 ## Frequently Asked Questions
 

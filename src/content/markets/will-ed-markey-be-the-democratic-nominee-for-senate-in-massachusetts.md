@@ -3,7 +3,7 @@ title: "Will Ed Markey be the Democratic nominee for Senate in Massachusetts?"
 description: "Will Ed Markey be the Democratic nominee for Senate in Massachusetts? Odds: 71.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Ed Markey be the Democratic nominee for Senate in Massachusetts?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-28
 expiryDate: 2026-09-01
 tags: ["politics", "polymarket"]

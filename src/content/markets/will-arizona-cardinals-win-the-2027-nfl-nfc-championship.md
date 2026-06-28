@@ -21,9 +21,9 @@ polymarketUrl: "https://polymarket.com/event/will-arizona-cardinals-win-the-2027
 
 ## Related Markets
 
-- [Will Mikel Oyarzabal be the top goalscorer at the 2026 FIFA World Cup?](/odds/will-mikel-oyarzabal-be-the-top-goalscorer-at-the-2026-fifa-world-cup) — 1% YES
-- [Will Baker Mayfield win the 2026 NFL MVP?](/odds/will-baker-mayfield-win-the-2026-nfl-mvp) — 1% YES
-- [Will Kansas City Chiefs win the 2027 NFL AFC Championship?](/odds/will-kansas-city-chiefs-win-the-2027-nfl-afc-championship) — 10% YES
+- [Will Mexico win the 2026 FIFA World Cup?](/odds/will-mexico-win-the-2026-fifa-world-cup) — 1% YES
+- [Will Netherlands reach the Quarterfinals at the 2026 FIFA World Cup?](/odds/will-netherlands-reach-the-quarterfinals-at-the-2026-fifa-world-cup) — 50% YES
+- [Will USA reach the Semifinals at the 2026 FIFA World Cup?](/odds/will-usa-reach-the-semifinals-at-the-2026-fifa-world-cup) — 18% YES
 
 ## Frequently Asked Questions
 

@@ -3,7 +3,7 @@ title: "Will Ed Miliband be the next Chancellor of the Exchequer of the UK in 20
 description: "Will Ed Miliband be the next Chancellor of the Exchequer of the UK in 2026? Odds: 60.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Ed Miliband be the next Chancellor of the Exchequer of the UK in 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-28
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]

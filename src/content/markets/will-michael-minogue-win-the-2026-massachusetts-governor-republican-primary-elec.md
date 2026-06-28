@@ -3,7 +3,7 @@ title: "Will Michael Minogue win the 2026 Massachusetts Governor Republican prim
 description: "Will Michael Minogue win the 2026 Massachusetts Governor Republican primary election? Odds: 93.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Michael Minogue win the 2026 Massachusetts Governor Republican primary election?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-28
 expiryDate: 2026-09-01
 tags: ["elections", "politics", "polymarket"]

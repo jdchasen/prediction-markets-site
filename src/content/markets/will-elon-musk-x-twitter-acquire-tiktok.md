@@ -9,7 +9,7 @@ expiryDate: 2026-12-31
 tags: ["polymarket", "tech"]
 polymarketYes: 0.2
 polymarketNo: 99.8
-polymarketVolume: 98501
+polymarketVolume: 98595
 polymarketUrl: "https://polymarket.com/event/will-elon-musk-x-twitter-acquire-tiktok-257-246-564"
 ---
 

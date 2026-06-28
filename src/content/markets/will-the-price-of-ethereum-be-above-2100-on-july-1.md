@@ -3,7 +3,7 @@ title: "Will the price of Ethereum be above $2,100 on July 1?"
 description: "Will the price of Ethereum be above $2,100 on July 1? Odds: 0.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the price of Ethereum be above $2,100 on July 1?"
 category: "crypto"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-28
 expiryDate: 2026-07-01
 tags: ["crypto", "ethereum", "polymarket"]

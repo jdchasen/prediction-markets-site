@@ -1,14 +1,14 @@
 ---
 title: "Will Loopscale launch a token by December 31, 2026?"
-description: "Will Loopscale launch a token by December 31, 2026? Odds: 29.0% YES on Polymarket. See live prices and trade this market."
+description: "Will Loopscale launch a token by December 31, 2026? Odds: 26.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Loopscale launch a token by December 31, 2026?"
 category: "crypto"
 status: "active"
 lastUpdated: 2026-06-28
 expiryDate: 2027-01-01
 tags: ["crypto", "polymarket"]
-polymarketYes: 29.0
-polymarketNo: 71.0
+polymarketYes: 26.0
+polymarketNo: 74.0
 polymarketVolume: 97701
 polymarketUrl: "https://polymarket.com/event/will-loopscale-launch-a-token-by-december-31-2026"
 ---
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-loopscale-launch-a-token-by-de
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 29.0% | 71.0% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 26.0% | 74.0% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-loopscale-launch-a-token-by-de
 
 ### What are the current odds for "Will Loopscale launch a token by December 31, 2026?"?
 
-As of June 28, 2026, Polymarket prices YES at 29.0%.
+As of June 28, 2026, Polymarket prices YES at 26.0%.
 
 ### Where can I trade on this prediction market?
 

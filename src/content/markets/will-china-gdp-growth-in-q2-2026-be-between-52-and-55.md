@@ -9,7 +9,7 @@ expiryDate: 2026-07-16
 tags: ["economics", "polymarket"]
 polymarketYes: 0.3
 polymarketNo: 99.7
-polymarketVolume: 9674
+polymarketVolume: 9725
 polymarketUrl: "https://polymarket.com/event/will-china-gdp-growth-in-q2-2026-be-between-5pt2-and-5pt5"
 ---
 

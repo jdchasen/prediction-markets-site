@@ -1,15 +1,15 @@
 ---
 title: "Will the next Prime Minister of Romania be appointed by July 31?"
-description: "Will the next Prime Minister of Romania be appointed by July 31? Odds: 80.0% YES on Polymarket. See live prices and trade this market."
+description: "Will the next Prime Minister of Romania be appointed by July 31? Odds: 84.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the next Prime Minister of Romania be appointed by July 31?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-06-28
 expiryDate: 2026-07-31
 tags: ["politics", "polymarket"]
-polymarketYes: 80.0
-polymarketNo: 20.0
-polymarketVolume: 9761
+polymarketYes: 84.5
+polymarketNo: 15.5
+polymarketVolume: 9781
 polymarketUrl: "https://polymarket.com/event/will-the-next-prime-minister-of-romania-be-appointed-by-july-31-20260623155722752"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-the-next-prime-minister-of-rom
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 80.0% | 20.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 84.5% | 15.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Eduardo Bolsonaro win the 2026 Brazilian presidential election?](/odds/will-eduardo-bolsonaro-win-the-2026-brazilian-presidential-election) — 0% YES
-- [Putin out as President of Russia by December 31, 2026?](/odds/putin-out-as-president-of-russia-by-december-31-2026) — 12% YES
 - [Will James Talarico win the 2028 Democratic presidential nomination?](/odds/will-james-talarico-win-the-2028-democratic-presidential-nomination) — 2% YES
+- [Will Recep Tayyip Erdoğan win the Nobel Peace Prize in 2026?](/odds/will-recep-tayyip-erdoan-win-the-nobel-peace-prize-in-2026) — 1% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will the next Prime Minister of Romania be appointed by July 31?"?
 
-As of June 28, 2026, Polymarket prices YES at 80.0%.
+As of June 28, 2026, Polymarket prices YES at 84.5%.
 
 ### Where can I trade on this prediction market?
 

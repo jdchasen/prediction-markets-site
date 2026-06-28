@@ -23,7 +23,7 @@ polymarketUrl: "https://polymarket.com/event/will-metamask-launch-a-token-by-sep
 
 - [Will Bitcoin reach $150,000 by December 31, 2026?](/odds/will-bitcoin-reach-150000-by-december-31-2026) — 4% YES
 - [Extended FDV above $2B one day after launch?](/odds/extended-fdv-above-2b-one-day-after-launch) — 4% YES
-- [Will Loopscale launch a token by December 31, 2026?](/odds/will-loopscale-launch-a-token-by-december-31-2026) — 29% YES
+- [Will Loopscale launch a token by December 31, 2026?](/odds/will-loopscale-launch-a-token-by-december-31-2026) — 26% YES
 
 ## Frequently Asked Questions
 

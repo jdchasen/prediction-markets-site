@@ -3,7 +3,7 @@ title: "Will France be the furthest advancing UEFA nation at the World Cup?"
 description: "Will France be the furthest advancing UEFA nation at the World Cup? Odds: 40.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will France be the furthest advancing UEFA nation at the World Cup?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-28
 expiryDate: 2026-07-20
 tags: ["polymarket", "sports"]

@@ -9,7 +9,7 @@ expiryDate: 2026-07-19
 tags: ["polymarket", "sports"]
 polymarketYes: 20.5
 polymarketNo: 79.5
-polymarketVolume: 9856
+polymarketVolume: 9982
 polymarketUrl: "https://polymarket.com/event/will-argentina-win-the-world-cup-20260605224220148"
 ---
 
@@ -21,9 +21,9 @@ polymarketUrl: "https://polymarket.com/event/will-argentina-win-the-world-cup-20
 
 ## Related Markets
 
+- [Will Mexico win the 2026 FIFA World Cup?](/odds/will-mexico-win-the-2026-fifa-world-cup) — 1% YES
 - [Will Arizona Cardinals win the 2027 NFL NFC Championship?](/odds/will-arizona-cardinals-win-the-2027-nfl-nfc-championship) — 1% YES
-- [Will Mikel Oyarzabal be the top goalscorer at the 2026 FIFA World Cup?](/odds/will-mikel-oyarzabal-be-the-top-goalscorer-at-the-2026-fifa-world-cup) — 1% YES
-- [Will Baker Mayfield win the 2026 NFL MVP?](/odds/will-baker-mayfield-win-the-2026-nfl-mvp) — 1% YES
+- [Will Netherlands reach the Quarterfinals at the 2026 FIFA World Cup?](/odds/will-netherlands-reach-the-quarterfinals-at-the-2026-fifa-world-cup) — 50% YES
 
 ## Frequently Asked Questions
 

@@ -23,7 +23,7 @@ polymarketUrl: "https://polymarket.com/event/extended-fdv-above-2b-one-day-after
 
 - [Will Bitcoin reach $150,000 by December 31, 2026?](/odds/will-bitcoin-reach-150000-by-december-31-2026) — 4% YES
 - [Will MetaMask launch a token by September 30, 2026?](/odds/will-metamask-launch-a-token-by-september-30-2026) — 6% YES
-- [Will Loopscale launch a token by December 31, 2026?](/odds/will-loopscale-launch-a-token-by-december-31-2026) — 29% YES
+- [Will Loopscale launch a token by December 31, 2026?](/odds/will-loopscale-launch-a-token-by-december-31-2026) — 26% YES
 
 ## Frequently Asked Questions
 

@@ -3,8 +3,8 @@ title: "Will a player representing Ghana be the top goalscorer at the 2026 FIFA 
 description: "Will a player representing Ghana be the top goalscorer at the 2026 FIFA World Cup? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will a player representing Ghana be the top goalscorer at the 2026 FIFA World Cup?"
 category: "sports"
-status: "settled"
-lastUpdated: 2026-06-27
+status: "active"
+lastUpdated: 2026-06-28
 expiryDate: 2026-08-20
 tags: ["polymarket", "sports"]
 polymarketYes: 0.1
@@ -21,15 +21,15 @@ polymarketUrl: "https://polymarket.com/event/will-a-player-representing-ghana-be
 
 ## Related Markets
 
-- [Will Lionel Messi be the top goalscorer at the 2026 FIFA World Cup?](/odds/will-lionel-messi-be-the-top-goalscorer-at-the-2026-fifa-world-cup) — 38% YES
+- [Will Mexico win the 2026 FIFA World Cup?](/odds/will-mexico-win-the-2026-fifa-world-cup) — 1% YES
 - [Will Arizona Cardinals win the 2027 NFL NFC Championship?](/odds/will-arizona-cardinals-win-the-2027-nfl-nfc-championship) — 1% YES
-- [Will Argentina reach the Semifinals at the 2026 FIFA World Cup?](/odds/will-argentina-reach-the-semifinals-at-the-2026-fifa-world-cup) — 48% YES
+- [Will Netherlands reach the Quarterfinals at the 2026 FIFA World Cup?](/odds/will-netherlands-reach-the-quarterfinals-at-the-2026-fifa-world-cup) — 50% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will a player representing Ghana be the top goalscorer at the 2026 FIFA World Cup?"?
 
-As of June 26, 2026, Polymarket prices YES at 0.1%.
+As of June 28, 2026, Polymarket prices YES at 0.1%.
 
 ### Where can I trade on this prediction market?
 
