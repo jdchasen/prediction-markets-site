@@ -3,7 +3,7 @@ title: "MLB: Perfect Game thrown in 2026 season?"
 description: "MLB: Perfect Game thrown in 2026 season? Odds: 16.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "MLB: Perfect Game thrown in 2026 season?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-29
 tags: ["polymarket", "sports"]
 polymarketYes: 16.5

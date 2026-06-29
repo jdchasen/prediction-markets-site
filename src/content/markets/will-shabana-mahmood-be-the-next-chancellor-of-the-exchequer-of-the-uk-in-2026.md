@@ -3,7 +3,7 @@ title: "Will Shabana Mahmood be the next Chancellor of the Exchequer of the UK i
 description: "Will Shabana Mahmood be the next Chancellor of the Exchequer of the UK in 2026? Odds: 8.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Shabana Mahmood be the next Chancellor of the Exchequer of the UK in 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-29
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]

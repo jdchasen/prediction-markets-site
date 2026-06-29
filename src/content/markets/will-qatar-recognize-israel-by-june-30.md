@@ -3,7 +3,7 @@ title: "Will Qatar recognize Israel by June 30?"
 description: "Will Qatar recognize Israel by June 30? Odds: 0.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Qatar recognize Israel by June 30?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-29
 tags: ["politics", "polymarket"]
 polymarketYes: 0.9

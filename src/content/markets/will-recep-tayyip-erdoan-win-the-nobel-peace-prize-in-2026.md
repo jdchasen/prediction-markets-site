@@ -3,7 +3,7 @@ title: "Will Recep Tayyip Erdoğan win the Nobel Peace Prize in 2026?"
 description: "Will Recep Tayyip Erdoğan win the Nobel Peace Prize in 2026? Odds: 0.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Recep Tayyip Erdoğan win the Nobel Peace Prize in 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-29
 expiryDate: 2026-10-10
 tags: ["politics", "polymarket"]

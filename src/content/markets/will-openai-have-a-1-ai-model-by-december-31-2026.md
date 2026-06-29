@@ -23,7 +23,7 @@ polymarketUrl: "https://polymarket.com/event/will-openai-have-a-1-ai-model-by-de
 
 - [Will Eduardo Bolsonaro win the 2026 Brazilian presidential election?](/odds/will-eduardo-bolsonaro-win-the-2026-brazilian-presidential-election) — 0% YES
 - [Will James Talarico win the 2028 Democratic presidential nomination?](/odds/will-james-talarico-win-the-2028-democratic-presidential-nomination) — 2% YES
-- [Will Recep Tayyip Erdoğan win the Nobel Peace Prize in 2026?](/odds/will-recep-tayyip-erdoan-win-the-nobel-peace-prize-in-2026) — 1% YES
+- [Will Édouard Philippe win the 2027 French presidential election?](/odds/will-douard-philippe-win-the-2027-french-presidential-election) — 18% YES
 
 ## Frequently Asked Questions
 

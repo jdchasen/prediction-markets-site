@@ -9,7 +9,7 @@ expiryDate: 2027-04-30
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 18.5
 polymarketNo: 81.5
-polymarketVolume: 986427
+polymarketVolume: 988227
 polymarketUrl: "https://polymarket.com/event/will-douard-philippe-win-the-2027-french-presidential-election"
 ---
 
@@ -17,13 +17,13 @@ polymarketUrl: "https://polymarket.com/event/will-douard-philippe-win-the-2027-f
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 18.5% | 81.5% | $986K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 18.5% | 81.5% | $988K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Eduardo Bolsonaro win the 2026 Brazilian presidential election?](/odds/will-eduardo-bolsonaro-win-the-2026-brazilian-presidential-election) — 0% YES
 - [Will James Talarico win the 2028 Democratic presidential nomination?](/odds/will-james-talarico-win-the-2028-democratic-presidential-nomination) — 2% YES
-- [Will Recep Tayyip Erdoğan win the Nobel Peace Prize in 2026?](/odds/will-recep-tayyip-erdoan-win-the-nobel-peace-prize-in-2026) — 1% YES
+- [Will Donald Trump be the leader of Venezuela end of 2026?](/odds/will-donald-trump-be-the-leader-of-venezuela-end-of-2026) — 0% YES
 
 ## Frequently Asked Questions
 

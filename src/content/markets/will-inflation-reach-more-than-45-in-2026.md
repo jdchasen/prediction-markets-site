@@ -21,7 +21,9 @@ polymarketUrl: "https://polymarket.com/event/will-inflation-reach-more-than-4pt5
 
 ## Related Markets
 
+- [Will annual inflation be 3.8% in June?](/odds/will-annual-inflation-be-38-in-june) — 45% YES
 - [Will China GDP growth in Q2 2026 be between 5.2% and 5.5%?](/odds/will-china-gdp-growth-in-q2-2026-be-between-52-and-55) — 0% YES
+- [Will Brazil’s Annual Inflation in 2026 be between 4.50% and 4.99%?](/odds/will-brazils-annual-inflation-in-2026-be-between-450-and-499) — 29% YES
 
 ## Frequently Asked Questions
 

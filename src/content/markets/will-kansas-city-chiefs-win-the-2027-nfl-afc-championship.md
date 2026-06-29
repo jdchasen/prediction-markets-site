@@ -21,9 +21,9 @@ polymarketUrl: "https://polymarket.com/event/will-kansas-city-chiefs-win-the-202
 
 ## Related Markets
 
-- [Will Mexico win the 2026 FIFA World Cup?](/odds/will-mexico-win-the-2026-fifa-world-cup) — 1% YES
+- [Will Lamine Yamal be the top goalscorer at the 2026 FIFA World Cup?](/odds/will-lamine-yamal-be-the-top-goalscorer-at-the-2026-fifa-world-cup) — 1% YES
 - [Will Arizona Cardinals win the 2027 NFL NFC Championship?](/odds/will-arizona-cardinals-win-the-2027-nfl-nfc-championship) — 1% YES
-- [Will Phoenix Suns win the 2027 NBA Finals?](/odds/will-phoenix-suns-win-the-2027-nba-finals) — 1% YES
+- [Will Erling Haaland be the top goalscorer at the 2026 FIFA World Cup?](/odds/will-erling-haaland-be-the-top-goalscorer-at-the-2026-fifa-world-cup) — 6% YES
 
 ## Frequently Asked Questions
 

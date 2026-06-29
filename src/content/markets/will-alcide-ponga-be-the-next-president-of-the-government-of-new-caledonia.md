@@ -3,7 +3,7 @@ title: "Will Alcide Ponga be the next President of the Government of New Caledon
 description: "Will Alcide Ponga be the next President of the Government of New Caledonia? Odds: 50.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Alcide Ponga be the next President of the Government of New Caledonia?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-29
 expiryDate: 2027-06-30
 tags: ["politics", "polymarket"]

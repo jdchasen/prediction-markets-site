@@ -3,7 +3,7 @@ title: "Set 1 Winner: Mayot vs Nedic"
 description: "Set 1 Winner: Mayot vs Nedic Odds: 15.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Set 1 Winner: Mayot vs Nedic"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-29
 expiryDate: 2026-07-07
 tags: ["politics", "polymarket"]

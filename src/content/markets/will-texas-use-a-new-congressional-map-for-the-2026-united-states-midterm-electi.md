@@ -3,7 +3,7 @@ title: "Will Texas use a new congressional map for the 2026 United States midter
 description: "Will Texas use a new congressional map for the 2026 United States midterm elections? Odds: 97.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Texas use a new congressional map for the 2026 United States midterm elections?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-29
 expiryDate: 2026-11-03
 tags: ["elections", "politics", "polymarket"]

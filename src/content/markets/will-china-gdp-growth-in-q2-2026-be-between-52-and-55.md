@@ -22,6 +22,8 @@ polymarketUrl: "https://polymarket.com/event/will-china-gdp-growth-in-q2-2026-be
 ## Related Markets
 
 - [Will inflation reach more than 4.5% in 2026?](/odds/will-inflation-reach-more-than-45-in-2026) — 20% YES
+- [Will annual inflation be 3.8% in June?](/odds/will-annual-inflation-be-38-in-june) — 45% YES
+- [Will Brazil’s Annual Inflation in 2026 be between 4.50% and 4.99%?](/odds/will-brazils-annual-inflation-in-2026-be-between-450-and-499) — 29% YES
 
 ## Frequently Asked Questions
 

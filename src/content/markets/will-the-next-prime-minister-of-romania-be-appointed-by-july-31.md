@@ -3,7 +3,7 @@ title: "Will the next Prime Minister of Romania be appointed by July 31?"
 description: "Will the next Prime Minister of Romania be appointed by July 31? Odds: 64.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the next Prime Minister of Romania be appointed by July 31?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-29
 expiryDate: 2026-07-31
 tags: ["politics", "polymarket"]

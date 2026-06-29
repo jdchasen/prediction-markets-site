@@ -1,15 +1,15 @@
 ---
 title: "Will the price of Bitcoin be above $60,000 on July 3?"
-description: "Will the price of Bitcoin be above $60,000 on July 3? Odds: 45.5% YES on Polymarket. See live prices and trade this market."
+description: "Will the price of Bitcoin be above $60,000 on July 3? Odds: 59.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the price of Bitcoin be above $60,000 on July 3?"
 category: "crypto"
 status: "active"
 lastUpdated: 2026-06-29
 expiryDate: 2026-07-03
 tags: ["bitcoin", "crypto", "polymarket"]
-polymarketYes: 45.5
-polymarketNo: 54.5
-polymarketVolume: 9886
+polymarketYes: 59.0
+polymarketNo: 41.0
+polymarketVolume: 9937
 polymarketUrl: "https://polymarket.com/event/bitcoin-above-60k-on-july-3-2026"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/bitcoin-above-60k-on-july-3-2026"
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 45.5% | 54.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 59.0% | 41.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Bitcoin reach $150,000 by December 31, 2026?](/odds/will-bitcoin-reach-150000-by-december-31-2026) — 4% YES
 - [Will MetaMask launch a token by September 30, 2026?](/odds/will-metamask-launch-a-token-by-september-30-2026) — 4% YES
-- [Extended FDV above $2B one day after launch?](/odds/extended-fdv-above-2b-one-day-after-launch) — 4% YES
+- [Will China unban Bitcoin by 2027?](/odds/will-china-unban-bitcoin-by-2027) — 3% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will the price of Bitcoin be above $60,000 on July 3?"?
 
-As of June 29, 2026, Polymarket prices YES at 45.5%.
+As of June 29, 2026, Polymarket prices YES at 59.0%.
 
 ### Where can I trade on this prediction market?
 

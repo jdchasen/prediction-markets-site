@@ -9,7 +9,7 @@ expiryDate: 2026-12-31
 tags: ["finance", "polymarket"]
 polymarketYes: 12.5
 polymarketNo: 87.5
-polymarketVolume: 9955
+polymarketVolume: 9990
 polymarketUrl: "https://polymarket.com/event/will-anthropics-market-cap-be-between-1pt75t-and-2pt0t-at-market-close-on-ipo-day"
 ---
 
