@@ -1,14 +1,14 @@
 ---
 title: "Will Pakistan recognize Israel by June 30?"
-description: "Will Pakistan recognize Israel by June 30? Odds: 0.2% YES on Polymarket. See live prices and trade this market."
+description: "Will Pakistan recognize Israel by June 30? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Pakistan recognize Israel by June 30?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-06-28
+lastUpdated: 2026-06-29
 tags: ["politics", "polymarket"]
-polymarketYes: 0.2
-polymarketNo: 99.8
-polymarketVolume: 9972
+polymarketYes: 0.1
+polymarketNo: 99.9
+polymarketVolume: 9974
 polymarketUrl: "https://polymarket.com/event/will-pakistan-recognize-israel-by-june-30"
 ---
 
@@ -16,7 +16,7 @@ polymarketUrl: "https://polymarket.com/event/will-pakistan-recognize-israel-by-j
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.2% | 99.8% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.1% | 99.9% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -28,7 +28,7 @@ polymarketUrl: "https://polymarket.com/event/will-pakistan-recognize-israel-by-j
 
 ### What are the current odds for "Will Pakistan recognize Israel by June 30?"?
 
-As of June 28, 2026, Polymarket prices YES at 0.2%.
+As of June 29, 2026, Polymarket prices YES at 0.1%.
 
 ### Where can I trade on this prediction market?
 

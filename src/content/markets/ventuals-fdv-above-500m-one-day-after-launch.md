@@ -1,14 +1,14 @@
 ---
 title: "Ventuals FDV above $500M one day after launch?"
-description: "Ventuals FDV above $500M one day after launch? Odds: 4.6% YES on Polymarket. See live prices and trade this market."
+description: "Ventuals FDV above $500M one day after launch? Odds: 4.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Ventuals FDV above $500M one day after launch?"
 category: "crypto"
 status: "active"
-lastUpdated: 2026-06-28
+lastUpdated: 2026-06-29
 expiryDate: 2027-01-01
 tags: ["crypto", "polymarket"]
-polymarketYes: 4.6
-polymarketNo: 95.4
+polymarketYes: 4.9
+polymarketNo: 95.1
 polymarketVolume: 9830
 polymarketUrl: "https://polymarket.com/event/ventuals-fdv-above-500m-one-day-after-launch-918"
 ---
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/ventuals-fdv-above-500m-one-day-aft
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 4.6% | 95.4% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 4.9% | 95.1% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Bitcoin reach $150,000 by December 31, 2026?](/odds/will-bitcoin-reach-150000-by-december-31-2026) — 4% YES
-- [Will MetaMask launch a token by September 30, 2026?](/odds/will-metamask-launch-a-token-by-september-30-2026) — 6% YES
+- [Will MetaMask launch a token by September 30, 2026?](/odds/will-metamask-launch-a-token-by-september-30-2026) — 4% YES
 - [Extended FDV above $2B one day after launch?](/odds/extended-fdv-above-2b-one-day-after-launch) — 4% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Ventuals FDV above $500M one day after launch?"?
 
-As of June 28, 2026, Polymarket prices YES at 4.6%.
+As of June 29, 2026, Polymarket prices YES at 4.9%.
 
 ### Where can I trade on this prediction market?
 

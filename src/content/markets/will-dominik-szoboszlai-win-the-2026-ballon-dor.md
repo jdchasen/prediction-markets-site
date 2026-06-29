@@ -4,12 +4,12 @@ description: "Will Dominik Szoboszlai win the 2026 Ballon d'Or? Odds: 0.1% YES o
 marketQuestion: "Will Dominik Szoboszlai win the 2026 Ballon d'Or?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-06-28
+lastUpdated: 2026-06-29
 expiryDate: 2026-10-31
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 0.1
 polymarketNo: 99.9
-polymarketVolume: 99277
+polymarketVolume: 99347
 polymarketUrl: "https://polymarket.com/event/will-dominik-szoboszlai-win-the-2026-ballon-dor"
 ---
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-dominik-szoboszlai-win-the-202
 
 ### What are the current odds for "Will Dominik Szoboszlai win the 2026 Ballon d'Or?"?
 
-As of June 28, 2026, Polymarket prices YES at 0.1%.
+As of June 29, 2026, Polymarket prices YES at 0.1%.
 
 ### Where can I trade on this prediction market?
 

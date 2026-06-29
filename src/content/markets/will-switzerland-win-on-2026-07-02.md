@@ -3,8 +3,8 @@ title: "Will Switzerland win on 2026-07-02?"
 description: "Will Switzerland win on 2026-07-02? Odds: 47.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Switzerland win on 2026-07-02?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-06-28
+status: "settled"
+lastUpdated: 2026-06-29
 expiryDate: 2026-07-03
 tags: ["politics", "polymarket"]
 polymarketYes: 47.5

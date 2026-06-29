@@ -3,8 +3,8 @@ title: "Will Spencer Pratt concede by July 2?"
 description: "Will Spencer Pratt concede by July 2? Odds: 34.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Spencer Pratt concede by July 2?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-06-28
+status: "settled"
+lastUpdated: 2026-06-29
 expiryDate: 2026-07-03
 tags: ["politics", "polymarket"]
 polymarketYes: 34.0

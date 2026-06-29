@@ -3,8 +3,8 @@ title: "Will Dan Barker win the 2026 Greater Manchester Mayoral Election?"
 description: "Will Dan Barker win the 2026 Greater Manchester Mayoral Election? Odds: 5.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Dan Barker win the 2026 Greater Manchester Mayoral Election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-06-28
+status: "settled"
+lastUpdated: 2026-06-29
 expiryDate: 2026-07-30
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 5.1

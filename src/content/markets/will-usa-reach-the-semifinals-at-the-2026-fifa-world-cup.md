@@ -3,8 +3,8 @@ title: "Will USA reach the Semifinals at the 2026 FIFA World Cup?"
 description: "Will USA reach the Semifinals at the 2026 FIFA World Cup? Odds: 18.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will USA reach the Semifinals at the 2026 FIFA World Cup?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-06-28
+status: "settled"
+lastUpdated: 2026-06-29
 expiryDate: 2026-07-13
 tags: ["polymarket", "sports"]
 polymarketYes: 18.5

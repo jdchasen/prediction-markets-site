@@ -3,8 +3,8 @@ title: "Will England reach the Quarterfinals at the 2026 FIFA World Cup?"
 description: "Will England reach the Quarterfinals at the 2026 FIFA World Cup? Odds: 62.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will England reach the Quarterfinals at the 2026 FIFA World Cup?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-06-28
+status: "settled"
+lastUpdated: 2026-06-29
 tags: ["polymarket", "sports"]
 polymarketYes: 62.0
 polymarketNo: 38.0

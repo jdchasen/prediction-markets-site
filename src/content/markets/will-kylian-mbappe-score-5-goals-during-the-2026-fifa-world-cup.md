@@ -3,8 +3,8 @@ title: "Will Kylian Mbappe score 5+ goals during the 2026 FIFA World Cup?"
 description: "Will Kylian Mbappe score 5+ goals during the 2026 FIFA World Cup? Odds: 86.6% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Kylian Mbappe score 5+ goals during the 2026 FIFA World Cup?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-06-28
+status: "settled"
+lastUpdated: 2026-06-29
 expiryDate: 2026-08-03
 tags: ["polymarket", "sports"]
 polymarketYes: 86.6

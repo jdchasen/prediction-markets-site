@@ -3,8 +3,8 @@ title: "Will England be the furthest advancing UEFA nation at the World Cup?"
 description: "Will England be the furthest advancing UEFA nation at the World Cup? Odds: 9.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will England be the furthest advancing UEFA nation at the World Cup?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-06-28
+status: "settled"
+lastUpdated: 2026-06-29
 expiryDate: 2026-07-20
 tags: ["polymarket", "sports"]
 polymarketYes: 9.0

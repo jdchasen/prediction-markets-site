@@ -4,12 +4,12 @@ description: "Will Bev Craig win the 2026 Greater Manchester Mayoral Election? O
 marketQuestion: "Will Bev Craig win the 2026 Greater Manchester Mayoral Election?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-06-28
+lastUpdated: 2026-06-29
 expiryDate: 2026-07-30
 tags: ["ai", "elections", "politics", "polymarket"]
 polymarketYes: 90.5
 polymarketNo: 9.5
-polymarketVolume: 98028
+polymarketVolume: 98243
 polymarketUrl: "https://polymarket.com/event/will-bev-craig-win-the-2026-greater-manchester-mayoral-election-20260619154257395"
 ---
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-bev-craig-win-the-2026-greater
 
 ### What are the current odds for "Will Bev Craig win the 2026 Greater Manchester Mayoral Election?"?
 
-As of June 28, 2026, Polymarket prices YES at 90.5%.
+As of June 29, 2026, Polymarket prices YES at 90.5%.
 
 ### Where can I trade on this prediction market?
 

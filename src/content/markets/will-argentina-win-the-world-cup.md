@@ -3,8 +3,8 @@ title: "Will Argentina win the World Cup?"
 description: "Will Argentina win the World Cup? Odds: 20.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Argentina win the World Cup?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-06-28
+status: "settled"
+lastUpdated: 2026-06-29
 expiryDate: 2026-07-19
 tags: ["polymarket", "sports"]
 polymarketYes: 20.5

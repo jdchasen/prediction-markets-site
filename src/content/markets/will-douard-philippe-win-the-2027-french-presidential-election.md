@@ -4,12 +4,12 @@ description: "Will Édouard Philippe win the 2027 French presidential election? 
 marketQuestion: "Will Édouard Philippe win the 2027 French presidential election?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-06-28
+lastUpdated: 2026-06-29
 expiryDate: 2027-04-30
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 18.5
 polymarketNo: 81.5
-polymarketVolume: 984875
+polymarketVolume: 986427
 polymarketUrl: "https://polymarket.com/event/will-douard-philippe-win-the-2027-french-presidential-election"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-douard-philippe-win-the-2027-f
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 18.5% | 81.5% | $985K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 18.5% | 81.5% | $986K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-douard-philippe-win-the-2027-f
 
 ### What are the current odds for "Will Édouard Philippe win the 2027 French presidential election?"?
 
-As of June 28, 2026, Polymarket prices YES at 18.5%.
+As of June 29, 2026, Polymarket prices YES at 18.5%.
 
 ### Where can I trade on this prediction market?
 

@@ -4,12 +4,12 @@ description: "Will Xi Jinping purge Zhao Leji in 2026? Odds: 4.5% YES on Polymar
 marketQuestion: "Will Xi Jinping purge Zhao Leji in 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-06-28
+lastUpdated: 2026-06-29
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 4.5
 polymarketNo: 95.5
-polymarketVolume: 9754
+polymarketVolume: 9789
 polymarketUrl: "https://polymarket.com/event/will-xi-jinping-purge-zhao-leji-in-2026"
 ---
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-xi-jinping-purge-zhao-leji-in-
 
 ### What are the current odds for "Will Xi Jinping purge Zhao Leji in 2026?"?
 
-As of June 28, 2026, Polymarket prices YES at 4.5%.
+As of June 29, 2026, Polymarket prices YES at 4.5%.
 
 ### Where can I trade on this prediction market?
 

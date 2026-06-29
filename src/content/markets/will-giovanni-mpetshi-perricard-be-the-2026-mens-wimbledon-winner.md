@@ -3,8 +3,8 @@ title: "Will Giovanni Mpetshi Perricard be the 2026 Men’s Wimbledon winner?"
 description: "Will Giovanni Mpetshi Perricard be the 2026 Men’s Wimbledon winner? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Giovanni Mpetshi Perricard be the 2026 Men’s Wimbledon winner?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-06-28
+status: "settled"
+lastUpdated: 2026-06-29
 expiryDate: 2026-07-12
 tags: ["politics", "polymarket"]
 polymarketYes: 0.1

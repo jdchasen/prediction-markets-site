@@ -4,7 +4,7 @@ description: "US takes Panama Canal before 2027? Odds: 10.0% YES on Polymarket. 
 marketQuestion: "US takes Panama Canal before 2027?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-06-28
+lastUpdated: 2026-06-29
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 10.0
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/us-takes-panama-canal-before-2027"
 
 ### What are the current odds for "US takes Panama Canal before 2027?"?
 
-As of June 28, 2026, Polymarket prices YES at 10.0%.
+As of June 29, 2026, Polymarket prices YES at 10.0%.
 
 ### Where can I trade on this prediction market?
 

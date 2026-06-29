@@ -3,8 +3,8 @@ title: "Will the US announce a blockade on Iran by December 31?"
 description: "Will the US announce a blockade on Iran by December 31? Odds: 38.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the US announce a blockade on Iran by December 31?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-06-28
+status: "settled"
+lastUpdated: 2026-06-29
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 38.5

@@ -4,12 +4,12 @@ description: "Will Mexico win the 2026 FIFA World Cup? Odds: 1.1% YES on Polymar
 marketQuestion: "Will Mexico win the 2026 FIFA World Cup?"
 category: "sports"
 status: "active"
-lastUpdated: 2026-06-28
+lastUpdated: 2026-06-29
 expiryDate: 2026-07-20
 tags: ["polymarket", "sports"]
 polymarketYes: 1.1
 polymarketNo: 98.9
-polymarketVolume: 97849646
+polymarketVolume: 99639765
 polymarketUrl: "https://polymarket.com/event/will-mexico-win-the-2026-fifa-world-cup-529"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-mexico-win-the-2026-fifa-world
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 1.1% | 98.9% | $97.8M | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 1.1% | 98.9% | $99.6M | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Arizona Cardinals win the 2027 NFL NFC Championship?](/odds/will-arizona-cardinals-win-the-2027-nfl-nfc-championship) — 1% YES
-- [Will Netherlands reach the Quarterfinals at the 2026 FIFA World Cup?](/odds/will-netherlands-reach-the-quarterfinals-at-the-2026-fifa-world-cup) — 50% YES
-- [Will USA reach the Semifinals at the 2026 FIFA World Cup?](/odds/will-usa-reach-the-semifinals-at-the-2026-fifa-world-cup) — 18% YES
+- [Will Phoenix Suns win the 2027 NBA Finals?](/odds/will-phoenix-suns-win-the-2027-nba-finals) — 1% YES
+- [Will Netherlands reach the Round of 16 at the 2026 FIFA World Cup?](/odds/will-netherlands-reach-the-round-of-16-at-the-2026-fifa-world-cup) — 62% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Mexico win the 2026 FIFA World Cup?"?
 
-As of June 28, 2026, Polymarket prices YES at 1.1%.
+As of June 29, 2026, Polymarket prices YES at 1.1%.
 
 ### Where can I trade on this prediction market?
 

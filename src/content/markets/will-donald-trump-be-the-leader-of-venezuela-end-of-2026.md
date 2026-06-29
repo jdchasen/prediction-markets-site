@@ -4,12 +4,12 @@ description: "Will Donald Trump be the leader of Venezuela end of 2026? Odds: 0.
 marketQuestion: "Will Donald Trump be the leader of Venezuela end of 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-06-28
+lastUpdated: 2026-06-29
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket", "trump"]
 polymarketYes: 0.2
 polymarketNo: 99.8
-polymarketVolume: 975553
+polymarketVolume: 978431
 polymarketUrl: "https://polymarket.com/event/will-donald-trump-be-the-leader-of-venezuela-end-of-2026"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-donald-trump-be-the-leader-of-
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.2% | 99.8% | $976K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.2% | 99.8% | $978K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-donald-trump-be-the-leader-of-
 
 ### What are the current odds for "Will Donald Trump be the leader of Venezuela end of 2026?"?
 
-As of June 28, 2026, Polymarket prices YES at 0.2%.
+As of June 29, 2026, Polymarket prices YES at 0.2%.
 
 ### Where can I trade on this prediction market?
 

@@ -1,15 +1,15 @@
 ---
 title: "Will the next Prime Minister of Romania be appointed by July 31?"
-description: "Will the next Prime Minister of Romania be appointed by July 31? Odds: 84.5% YES on Polymarket. See live prices and trade this market."
+description: "Will the next Prime Minister of Romania be appointed by July 31? Odds: 64.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the next Prime Minister of Romania be appointed by July 31?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-06-28
+lastUpdated: 2026-06-29
 expiryDate: 2026-07-31
 tags: ["politics", "polymarket"]
-polymarketYes: 84.5
-polymarketNo: 15.5
-polymarketVolume: 9781
+polymarketYes: 64.0
+polymarketNo: 36.0
+polymarketVolume: 9887
 polymarketUrl: "https://polymarket.com/event/will-the-next-prime-minister-of-romania-be-appointed-by-july-31-20260623155722752"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-next-prime-minister-of-rom
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 84.5% | 15.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 64.0% | 36.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-next-prime-minister-of-rom
 
 ### What are the current odds for "Will the next Prime Minister of Romania be appointed by July 31?"?
 
-As of June 28, 2026, Polymarket prices YES at 84.5%.
+As of June 29, 2026, Polymarket prices YES at 64.0%.
 
 ### Where can I trade on this prediction market?
 

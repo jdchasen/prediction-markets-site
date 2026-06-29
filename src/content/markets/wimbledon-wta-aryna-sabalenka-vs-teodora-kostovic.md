@@ -3,8 +3,8 @@ title: "Wimbledon WTA: Aryna Sabalenka vs Teodora Kostovic"
 description: "Wimbledon WTA: Aryna Sabalenka vs Teodora Kostovic Odds: 93.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Wimbledon WTA: Aryna Sabalenka vs Teodora Kostovic"
 category: "politics"
-status: "active"
-lastUpdated: 2026-06-28
+status: "settled"
+lastUpdated: 2026-06-29
 expiryDate: 2026-07-06
 tags: ["politics", "polymarket"]
 polymarketYes: 93.5

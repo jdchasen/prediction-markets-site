@@ -4,7 +4,7 @@ description: "Will José Luis Rodríguez Zapatero be arrested before 2027? Odds:
 marketQuestion: "Will José Luis Rodríguez Zapatero be arrested before 2027?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-06-28
+lastUpdated: 2026-06-29
 tags: ["politics", "polymarket"]
 polymarketYes: 20.5
 polymarketNo: 79.5
@@ -28,7 +28,7 @@ polymarketUrl: "https://polymarket.com/event/will-jos-luis-rodrguez-zapatero-be-
 
 ### What are the current odds for "Will José Luis Rodríguez Zapatero be arrested before 2027?"?
 
-As of June 28, 2026, Polymarket prices YES at 20.5%.
+As of June 29, 2026, Polymarket prices YES at 20.5%.
 
 ### Where can I trade on this prediction market?
 

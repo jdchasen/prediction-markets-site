@@ -4,12 +4,12 @@ description: "Will Marco Rubio sign a U.S. x Iran deal by July 31? Odds: 2.6% YE
 marketQuestion: "Will Marco Rubio sign a U.S. x Iran deal by July 31?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-06-28
+lastUpdated: 2026-06-29
 expiryDate: 2026-08-01
 tags: ["politics", "polymarket"]
 polymarketYes: 2.6
 polymarketNo: 97.4
-polymarketVolume: 97597
+polymarketVolume: 97598
 polymarketUrl: "https://polymarket.com/event/will-marco-rubio-sign-a-uptspt-x-iran-deal-by-july-31-20260611235950069"
 ---
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-marco-rubio-sign-a-uptspt-x-ir
 
 ### What are the current odds for "Will Marco Rubio sign a U.S. x Iran deal by July 31?"?
 
-As of June 28, 2026, Polymarket prices YES at 2.6%.
+As of June 29, 2026, Polymarket prices YES at 2.6%.
 
 ### Where can I trade on this prediction market?
 

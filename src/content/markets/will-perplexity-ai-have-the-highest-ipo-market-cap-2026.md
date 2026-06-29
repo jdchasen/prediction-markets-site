@@ -4,7 +4,7 @@ description: "Will Perplexity AI have the highest IPO Market Cap 2026? Odds: 0.1
 marketQuestion: "Will Perplexity AI have the highest IPO Market Cap 2026?"
 category: "finance"
 status: "active"
-lastUpdated: 2026-06-28
+lastUpdated: 2026-06-29
 expiryDate: 2026-12-31
 tags: ["ai", "finance", "polymarket"]
 polymarketYes: 0.1
@@ -23,13 +23,13 @@ polymarketUrl: "https://polymarket.com/event/will-perplexity-ai-have-the-highest
 
 - [Anysphere (Cursor) IPO before 2027?](/odds/anysphere-cursor-ipo-before-2027) — 2% YES
 - [Will Anthropic's market cap be between $1.75T and $2.0T at market close on IPO day?](/odds/will-anthropics-market-cap-be-between-175t-and-20t-at-market-close-on-ipo-day) — 12% YES
-- [Will Trump sell 2.5k-5k Gold Cards in 2026?](/odds/will-trump-sell-25k-5k-gold-cards-in-2026) — 1% YES
+- [Will Trump sell 2.5k-5k Gold Cards in 2026?](/odds/will-trump-sell-25k-5k-gold-cards-in-2026) — 2% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Perplexity AI have the highest IPO Market Cap 2026?"?
 
-As of June 28, 2026, Polymarket prices YES at 0.1%.
+As of June 29, 2026, Polymarket prices YES at 0.1%.
 
 ### Where can I trade on this prediction market?
 

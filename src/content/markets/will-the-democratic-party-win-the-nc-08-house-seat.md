@@ -4,7 +4,7 @@ description: "Will the Democratic Party win the NC-08 House seat? Odds: 11.5% YE
 marketQuestion: "Will the Democratic Party win the NC-08 House seat?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-06-28
+lastUpdated: 2026-06-29
 expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
 polymarketYes: 11.5
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-n
 
 ### What are the current odds for "Will the Democratic Party win the NC-08 House seat?"?
 
-As of June 28, 2026, Polymarket prices YES at 11.5%.
+As of June 29, 2026, Polymarket prices YES at 11.5%.
 
 ### Where can I trade on this prediction market?
 

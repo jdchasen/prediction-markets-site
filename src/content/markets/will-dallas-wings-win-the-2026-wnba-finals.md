@@ -3,8 +3,8 @@ title: "Will Dallas Wings win the 2026 WNBA Finals?"
 description: "Will Dallas Wings win the 2026 WNBA Finals? Odds: 5.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Dallas Wings win the 2026 WNBA Finals?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-06-28
+status: "settled"
+lastUpdated: 2026-06-29
 expiryDate: 2026-10-31
 tags: ["politics", "polymarket", "sports"]
 polymarketYes: 5.2

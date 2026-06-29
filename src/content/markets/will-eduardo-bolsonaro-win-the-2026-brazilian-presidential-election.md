@@ -4,12 +4,12 @@ description: "Will Eduardo Bolsonaro win the 2026 Brazilian presidential electio
 marketQuestion: "Will Eduardo Bolsonaro win the 2026 Brazilian presidential election?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-06-28
+lastUpdated: 2026-06-29
 expiryDate: 2026-10-04
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.1
 polymarketNo: 99.9
-polymarketVolume: 9920258
+polymarketVolume: 9930288
 polymarketUrl: "https://polymarket.com/event/will-eduardo-bolsonaro-win-the-2026-brazilian-presidential-election"
 ---
 
@@ -23,13 +23,13 @@ polymarketUrl: "https://polymarket.com/event/will-eduardo-bolsonaro-win-the-2026
 
 - [Will James Talarico win the 2028 Democratic presidential nomination?](/odds/will-james-talarico-win-the-2028-democratic-presidential-nomination) — 2% YES
 - [Will Recep Tayyip Erdoğan win the Nobel Peace Prize in 2026?](/odds/will-recep-tayyip-erdoan-win-the-nobel-peace-prize-in-2026) — 1% YES
-- [Iran Nuke before 2027?](/odds/iran-nuke-before-2027) — 7% YES
+- [Will Jumanji 3 be the top grossing movie of 2026?](/odds/will-jumanji-3-be-the-top-grossing-movie-of-2026) — 0% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Eduardo Bolsonaro win the 2026 Brazilian presidential election?"?
 
-As of June 28, 2026, Polymarket prices YES at 0.1%.
+As of June 29, 2026, Polymarket prices YES at 0.1%.
 
 ### Where can I trade on this prediction market?
 

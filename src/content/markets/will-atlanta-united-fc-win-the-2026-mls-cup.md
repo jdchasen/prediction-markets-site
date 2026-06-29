@@ -4,7 +4,7 @@ description: "Will Atlanta United FC win the 2026 MLS Cup? Odds: 0.6% YES on Pol
 marketQuestion: "Will Atlanta United FC win the 2026 MLS Cup?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-06-28
+lastUpdated: 2026-06-29
 expiryDate: 2026-12-19
 tags: ["politics", "polymarket"]
 polymarketYes: 0.6
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-atlanta-united-fc-win-the-2026
 
 ### What are the current odds for "Will Atlanta United FC win the 2026 MLS Cup?"?
 
-As of June 28, 2026, Polymarket prices YES at 0.6%.
+As of June 29, 2026, Polymarket prices YES at 0.6%.
 
 ### Where can I trade on this prediction market?
 

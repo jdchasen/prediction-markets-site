@@ -4,12 +4,12 @@ description: "Will Jumanji 3 be the top grossing movie of 2026? Odds: 0.5% YES o
 marketQuestion: "Will Jumanji 3 be the top grossing movie of 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-06-28
+lastUpdated: 2026-06-29
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 0.5
 polymarketNo: 99.5
-polymarketVolume: 983165
+polymarketVolume: 990809
 polymarketUrl: "https://polymarket.com/event/will-jumanji-3-be-the-top-grossing-movie-of-2026"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-jumanji-3-be-the-top-grossing-
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.5% | 99.5% | $983K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.5% | 99.5% | $991K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-jumanji-3-be-the-top-grossing-
 
 ### What are the current odds for "Will Jumanji 3 be the top grossing movie of 2026?"?
 
-As of June 28, 2026, Polymarket prices YES at 0.5%.
+As of June 29, 2026, Polymarket prices YES at 0.5%.
 
 ### Where can I trade on this prediction market?
 

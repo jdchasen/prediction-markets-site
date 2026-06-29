@@ -4,7 +4,7 @@ description: "Will Juan Schiaretti win the 2027 Argentina presidential election?
 marketQuestion: "Will Juan Schiaretti win the 2027 Argentina presidential election?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-06-28
+lastUpdated: 2026-06-29
 expiryDate: 2027-10-24
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.4
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-juan-schiaretti-win-the-2027-a
 
 ### What are the current odds for "Will Juan Schiaretti win the 2027 Argentina presidential election?"?
 
-As of June 28, 2026, Polymarket prices YES at 0.4%.
+As of June 29, 2026, Polymarket prices YES at 0.4%.
 
 ### Where can I trade on this prediction market?
 

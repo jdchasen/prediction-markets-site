@@ -3,8 +3,8 @@ title: "Will the Republican Party win the VA-11 House seat?"
 description: "Will the Republican Party win the VA-11 House seat? Odds: 1.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Republican Party win the VA-11 House seat?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-06-28
+status: "settled"
+lastUpdated: 2026-06-29
 expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
 polymarketYes: 1.7

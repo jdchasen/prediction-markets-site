@@ -3,8 +3,8 @@ title: "Will Jair Bolsonaro finish in second place in the first round of the 202
 description: "Will Jair Bolsonaro finish in second place in the first round of the 2026 Brazilian presidential election? Odds: 0.2% YES on Polymarket. See live prices and ..."
 marketQuestion: "Will Jair Bolsonaro finish in second place in the first round of the 2026 Brazilian presidential election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-06-28
+status: "settled"
+lastUpdated: 2026-06-29
 expiryDate: 2026-10-04
 tags: ["ai", "elections", "politics", "polymarket"]
 polymarketYes: 0.2
