@@ -1,14 +1,14 @@
 ---
 title: "Will Baker Mayfield win the 2026 NFL MVP?"
-description: "Will Baker Mayfield win the 2026 NFL MVP? Odds: 1.2% YES on Polymarket. See live prices and trade this market."
+description: "Will Baker Mayfield win the 2026 NFL MVP? Odds: 1.6% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Baker Mayfield win the 2026 NFL MVP?"
 category: "sports"
 status: "active"
-lastUpdated: 2026-06-29
+lastUpdated: 2026-06-30
 expiryDate: 2027-02-15
 tags: ["polymarket", "sports"]
-polymarketYes: 1.2
-polymarketNo: 98.8
+polymarketYes: 1.6
+polymarketNo: 98.5
 polymarketVolume: 98817
 polymarketUrl: "https://polymarket.com/event/will-baker-mayfield-win-the-2026-nfl-mvp"
 ---
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-baker-mayfield-win-the-2026-nf
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 1.2% | 98.8% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 1.6% | 98.5% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Lamine Yamal be the top goalscorer at the 2026 FIFA World Cup?](/odds/will-lamine-yamal-be-the-top-goalscorer-at-the-2026-fifa-world-cup) — 1% YES
+- [Will Morocco win the 2026 FIFA World Cup?](/odds/will-morocco-win-the-2026-fifa-world-cup) — 4% YES
+- [Will Egypt win the 2026 FIFA World Cup?](/odds/will-egypt-win-the-2026-fifa-world-cup) — 0% YES
 - [Will Arizona Cardinals win the 2027 NFL NFC Championship?](/odds/will-arizona-cardinals-win-the-2027-nfl-nfc-championship) — 1% YES
-- [Will Erling Haaland be the top goalscorer at the 2026 FIFA World Cup?](/odds/will-erling-haaland-be-the-top-goalscorer-at-the-2026-fifa-world-cup) — 6% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Baker Mayfield win the 2026 NFL MVP?"?
 
-As of June 29, 2026, Polymarket prices YES at 1.2%.
+As of June 30, 2026, Polymarket prices YES at 1.6%.
 
 ### Where can I trade on this prediction market?
 

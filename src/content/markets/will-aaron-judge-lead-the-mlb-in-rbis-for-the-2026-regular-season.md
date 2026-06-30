@@ -4,7 +4,7 @@ description: "Will Aaron Judge lead the MLB in RBIs for the 2026 regular season?
 marketQuestion: "Will Aaron Judge lead the MLB in RBIs for the 2026 regular season?"
 category: "sports"
 status: "active"
-lastUpdated: 2026-06-29
+lastUpdated: 2026-06-30
 expiryDate: 2026-09-28
 tags: ["polymarket", "sports"]
 polymarketYes: 0.8
@@ -21,15 +21,15 @@ polymarketUrl: "https://polymarket.com/event/will-aaron-judge-lead-the-mlb-in-rb
 
 ## Related Markets
 
-- [Will Lamine Yamal be the top goalscorer at the 2026 FIFA World Cup?](/odds/will-lamine-yamal-be-the-top-goalscorer-at-the-2026-fifa-world-cup) — 1% YES
+- [Will Morocco win the 2026 FIFA World Cup?](/odds/will-morocco-win-the-2026-fifa-world-cup) — 4% YES
+- [Will Egypt win the 2026 FIFA World Cup?](/odds/will-egypt-win-the-2026-fifa-world-cup) — 0% YES
 - [Will Arizona Cardinals win the 2027 NFL NFC Championship?](/odds/will-arizona-cardinals-win-the-2027-nfl-nfc-championship) — 1% YES
-- [Will Erling Haaland be the top goalscorer at the 2026 FIFA World Cup?](/odds/will-erling-haaland-be-the-top-goalscorer-at-the-2026-fifa-world-cup) — 6% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Aaron Judge lead the MLB in RBIs for the 2026 regular season?"?
 
-As of June 29, 2026, Polymarket prices YES at 0.8%.
+As of June 30, 2026, Polymarket prices YES at 0.8%.
 
 ### Where can I trade on this prediction market?
 

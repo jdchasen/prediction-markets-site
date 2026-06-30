@@ -4,7 +4,7 @@ description: "Ventuals FDV above $300M one day after launch? Odds: 3.6% YES on P
 marketQuestion: "Ventuals FDV above $300M one day after launch?"
 category: "crypto"
 status: "active"
-lastUpdated: 2026-06-29
+lastUpdated: 2026-06-30
 expiryDate: 2027-01-01
 tags: ["crypto", "polymarket"]
 polymarketYes: 3.6
@@ -22,14 +22,14 @@ polymarketUrl: "https://polymarket.com/event/ventuals-fdv-above-300m-one-day-aft
 ## Related Markets
 
 - [Will Bitcoin reach $150,000 by December 31, 2026?](/odds/will-bitcoin-reach-150000-by-december-31-2026) — 4% YES
-- [Will MetaMask launch a token by September 30, 2026?](/odds/will-metamask-launch-a-token-by-september-30-2026) — 4% YES
+- [Will MetaMask launch a token by September 30, 2026?](/odds/will-metamask-launch-a-token-by-september-30-2026) — 2% YES
 - [Will China unban Bitcoin by 2027?](/odds/will-china-unban-bitcoin-by-2027) — 3% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Ventuals FDV above $300M one day after launch?"?
 
-As of June 29, 2026, Polymarket prices YES at 3.6%.
+As of June 30, 2026, Polymarket prices YES at 3.6%.
 
 ### Where can I trade on this prediction market?
 

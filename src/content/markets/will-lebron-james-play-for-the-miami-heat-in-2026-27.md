@@ -3,8 +3,8 @@ title: "Will LeBron James play for the Miami Heat in 2026-27?"
 description: "Will LeBron James play for the Miami Heat in 2026-27? Odds: 1.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will LeBron James play for the Miami Heat in 2026-27?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-06-29
+status: "settled"
+lastUpdated: 2026-06-30
 expiryDate: 2026-11-01
 tags: ["politics", "polymarket"]
 polymarketYes: 1.9

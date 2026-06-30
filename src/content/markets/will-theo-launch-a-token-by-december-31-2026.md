@@ -3,8 +3,8 @@ title: "Will Theo launch a token by December 31 2026?"
 description: "Will Theo launch a token by December 31 2026? Odds: 46.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Theo launch a token by December 31 2026?"
 category: "crypto"
-status: "active"
-lastUpdated: 2026-06-29
+status: "settled"
+lastUpdated: 2026-06-30
 expiryDate: 2027-01-01
 tags: ["crypto", "polymarket"]
 polymarketYes: 46.9

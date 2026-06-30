@@ -1,15 +1,15 @@
 ---
 title: "Will the Republican Party win the AZ-05 House seat?"
-description: "Will the Republican Party win the AZ-05 House seat? Odds: 85.0% YES on Polymarket. See live prices and trade this market."
+description: "Will the Republican Party win the AZ-05 House seat? Odds: 84.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Republican Party win the AZ-05 House seat?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-06-29
+lastUpdated: 2026-06-30
 expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
-polymarketYes: 85.0
-polymarketNo: 15.0
-polymarketVolume: 9804
+polymarketYes: 84.5
+polymarketNo: 15.5
+polymarketVolume: 9814
 polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-az-05-house-seat"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-a
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 85.0% | 15.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 84.5% | 15.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Eduardo Bolsonaro win the 2026 Brazilian presidential election?](/odds/will-eduardo-bolsonaro-win-the-2026-brazilian-presidential-election) — 0% YES
-- [Will James Talarico win the 2028 Democratic presidential nomination?](/odds/will-james-talarico-win-the-2028-democratic-presidential-nomination) — 2% YES
+- [Will James Talarico win the 2028 Democratic presidential nomination?](/odds/will-james-talarico-win-the-2028-democratic-presidential-nomination) — 1% YES
 - [Will Édouard Philippe win the 2027 French presidential election?](/odds/will-douard-philippe-win-the-2027-french-presidential-election) — 18% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will the Republican Party win the AZ-05 House seat?"?
 
-As of June 29, 2026, Polymarket prices YES at 85.0%.
+As of June 30, 2026, Polymarket prices YES at 84.5%.
 
 ### Where can I trade on this prediction market?
 

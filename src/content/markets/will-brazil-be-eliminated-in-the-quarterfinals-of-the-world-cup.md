@@ -3,8 +3,8 @@ title: "Will Brazil be eliminated in the Quarterfinals of the World Cup?"
 description: "Will Brazil be eliminated in the Quarterfinals of the World Cup? Odds: 33.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Brazil be eliminated in the Quarterfinals of the World Cup?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-06-29
+status: "settled"
+lastUpdated: 2026-06-30
 expiryDate: 2026-07-19
 tags: ["polymarket", "sports"]
 polymarketYes: 33.5

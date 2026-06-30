@@ -3,8 +3,8 @@ title: "Will Bad Bunny perform at the 2026 FIFA World Cup Final halftime show?"
 description: "Will Bad Bunny perform at the 2026 FIFA World Cup Final halftime show? Odds: 3.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Bad Bunny perform at the 2026 FIFA World Cup Final halftime show?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-06-29
+status: "settled"
+lastUpdated: 2026-06-30
 expiryDate: 2026-07-19
 tags: ["polymarket", "sports"]
 polymarketYes: 3.5

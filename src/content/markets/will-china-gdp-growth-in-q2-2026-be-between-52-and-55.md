@@ -4,7 +4,7 @@ description: "Will China GDP growth in Q2 2026 be between 5.2% and 5.5%? Odds: 0
 marketQuestion: "Will China GDP growth in Q2 2026 be between 5.2% and 5.5%?"
 category: "economics"
 status: "active"
-lastUpdated: 2026-06-29
+lastUpdated: 2026-06-30
 expiryDate: 2026-07-16
 tags: ["economics", "polymarket"]
 polymarketYes: 0.3
@@ -22,14 +22,14 @@ polymarketUrl: "https://polymarket.com/event/will-china-gdp-growth-in-q2-2026-be
 ## Related Markets
 
 - [Will inflation reach more than 4.5% in 2026?](/odds/will-inflation-reach-more-than-45-in-2026) — 20% YES
-- [Will annual inflation be 3.8% in June?](/odds/will-annual-inflation-be-38-in-june) — 45% YES
+- [Will annual inflation be 3.8% in June?](/odds/will-annual-inflation-be-38-in-june) — 46% YES
 - [Will Brazil’s Annual Inflation in 2026 be between 4.50% and 4.99%?](/odds/will-brazils-annual-inflation-in-2026-be-between-450-and-499) — 29% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will China GDP growth in Q2 2026 be between 5.2% and 5.5%?"?
 
-As of June 29, 2026, Polymarket prices YES at 0.3%.
+As of June 30, 2026, Polymarket prices YES at 0.3%.
 
 ### Where can I trade on this prediction market?
 

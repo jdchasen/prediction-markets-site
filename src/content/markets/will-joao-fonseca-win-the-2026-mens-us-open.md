@@ -1,15 +1,15 @@
 ---
 title: "Will Joao Fonseca win the 2026 Men's US Open?"
-description: "Will Joao Fonseca win the 2026 Men's US Open? Odds: 3.9% YES on Polymarket. See live prices and trade this market."
+description: "Will Joao Fonseca win the 2026 Men's US Open? Odds: 2.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Joao Fonseca win the 2026 Men's US Open?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-06-29
+lastUpdated: 2026-06-30
 expiryDate: 2026-09-13
 tags: ["politics", "polymarket"]
-polymarketYes: 3.9
-polymarketNo: 96.2
-polymarketVolume: 98400
+polymarketYes: 2.5
+polymarketNo: 97.5
+polymarketVolume: 98412
 polymarketUrl: "https://polymarket.com/event/will-joao-fonseca-win-the-2026-mens-us-open"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-joao-fonseca-win-the-2026-mens
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 3.9% | 96.2% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 2.5% | 97.5% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Eduardo Bolsonaro win the 2026 Brazilian presidential election?](/odds/will-eduardo-bolsonaro-win-the-2026-brazilian-presidential-election) — 0% YES
-- [Will James Talarico win the 2028 Democratic presidential nomination?](/odds/will-james-talarico-win-the-2028-democratic-presidential-nomination) — 2% YES
+- [Will James Talarico win the 2028 Democratic presidential nomination?](/odds/will-james-talarico-win-the-2028-democratic-presidential-nomination) — 1% YES
 - [Will Édouard Philippe win the 2027 French presidential election?](/odds/will-douard-philippe-win-the-2027-french-presidential-election) — 18% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Joao Fonseca win the 2026 Men's US Open?"?
 
-As of June 29, 2026, Polymarket prices YES at 3.9%.
+As of June 30, 2026, Polymarket prices YES at 2.5%.
 
 ### Where can I trade on this prediction market?
 

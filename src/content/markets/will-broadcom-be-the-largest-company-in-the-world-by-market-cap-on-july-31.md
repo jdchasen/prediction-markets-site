@@ -3,8 +3,8 @@ title: "Will Broadcom be the largest company in the world by market cap on July 
 description: "Will Broadcom be the largest company in the world by market cap on July 31? Odds: 0.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Broadcom be the largest company in the world by market cap on July 31?"
 category: "finance"
-status: "active"
-lastUpdated: 2026-06-29
+status: "settled"
+lastUpdated: 2026-06-30
 expiryDate: 2026-07-31
 tags: ["finance", "polymarket"]
 polymarketYes: 0.2

@@ -4,7 +4,7 @@ description: "Will Loopscale launch a token by December 31, 2026? Odds: 19.0% YE
 marketQuestion: "Will Loopscale launch a token by December 31, 2026?"
 category: "crypto"
 status: "active"
-lastUpdated: 2026-06-29
+lastUpdated: 2026-06-30
 expiryDate: 2027-01-01
 tags: ["crypto", "polymarket"]
 polymarketYes: 19.0
@@ -22,14 +22,14 @@ polymarketUrl: "https://polymarket.com/event/will-loopscale-launch-a-token-by-de
 ## Related Markets
 
 - [Will Bitcoin reach $150,000 by December 31, 2026?](/odds/will-bitcoin-reach-150000-by-december-31-2026) — 4% YES
-- [Will MetaMask launch a token by September 30, 2026?](/odds/will-metamask-launch-a-token-by-september-30-2026) — 4% YES
+- [Will MetaMask launch a token by September 30, 2026?](/odds/will-metamask-launch-a-token-by-september-30-2026) — 2% YES
 - [Will China unban Bitcoin by 2027?](/odds/will-china-unban-bitcoin-by-2027) — 3% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Loopscale launch a token by December 31, 2026?"?
 
-As of June 29, 2026, Polymarket prices YES at 19.0%.
+As of June 30, 2026, Polymarket prices YES at 19.0%.
 
 ### Where can I trade on this prediction market?
 

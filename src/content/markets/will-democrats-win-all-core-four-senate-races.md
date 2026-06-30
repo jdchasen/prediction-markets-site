@@ -4,12 +4,12 @@ description: "Will Democrats win all \"core four\" senate races? Odds: 47.5% YES
 marketQuestion: "Will Democrats win all \"core four\" senate races?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-06-29
+lastUpdated: 2026-06-30
 expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
 polymarketYes: 47.5
 polymarketNo: 52.5
-polymarketVolume: 9743
+polymarketVolume: 9757
 polymarketUrl: "https://polymarket.com/event/will-democrats-win-all-core-four-senate-races"
 ---
 
@@ -22,14 +22,14 @@ polymarketUrl: "https://polymarket.com/event/will-democrats-win-all-core-four-se
 ## Related Markets
 
 - [Will Eduardo Bolsonaro win the 2026 Brazilian presidential election?](/odds/will-eduardo-bolsonaro-win-the-2026-brazilian-presidential-election) — 0% YES
-- [Will James Talarico win the 2028 Democratic presidential nomination?](/odds/will-james-talarico-win-the-2028-democratic-presidential-nomination) — 2% YES
+- [Will James Talarico win the 2028 Democratic presidential nomination?](/odds/will-james-talarico-win-the-2028-democratic-presidential-nomination) — 1% YES
 - [Will Édouard Philippe win the 2027 French presidential election?](/odds/will-douard-philippe-win-the-2027-french-presidential-election) — 18% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Democrats win all "core four" senate races?"?
 
-As of June 29, 2026, Polymarket prices YES at 47.5%.
+As of June 30, 2026, Polymarket prices YES at 47.5%.
 
 ### Where can I trade on this prediction market?
 

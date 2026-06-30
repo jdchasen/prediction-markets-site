@@ -1,15 +1,15 @@
 ---
 title: "Will Dreamcash launch a token by December 31, 2026?"
-description: "Will Dreamcash launch a token by December 31, 2026? Odds: 11.0% YES on Polymarket. See live prices and trade this market."
+description: "Will Dreamcash launch a token by December 31, 2026? Odds: 10.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Dreamcash launch a token by December 31, 2026?"
 category: "crypto"
 status: "active"
-lastUpdated: 2026-06-29
+lastUpdated: 2026-06-30
 expiryDate: 2027-01-01
 tags: ["crypto", "polymarket"]
-polymarketYes: 11.0
-polymarketNo: 89.0
-polymarketVolume: 9862
+polymarketYes: 10.5
+polymarketNo: 89.5
+polymarketVolume: 9874
 polymarketUrl: "https://polymarket.com/event/will-dreamcash-launch-a-token-by-december-31-2026"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-dreamcash-launch-a-token-by-de
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 11.0% | 89.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 10.5% | 89.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Bitcoin reach $150,000 by December 31, 2026?](/odds/will-bitcoin-reach-150000-by-december-31-2026) — 4% YES
-- [Will MetaMask launch a token by September 30, 2026?](/odds/will-metamask-launch-a-token-by-september-30-2026) — 4% YES
+- [Will MetaMask launch a token by September 30, 2026?](/odds/will-metamask-launch-a-token-by-september-30-2026) — 2% YES
 - [Will China unban Bitcoin by 2027?](/odds/will-china-unban-bitcoin-by-2027) — 3% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Dreamcash launch a token by December 31, 2026?"?
 
-As of June 29, 2026, Polymarket prices YES at 11.0%.
+As of June 30, 2026, Polymarket prices YES at 10.5%.
 
 ### Where can I trade on this prediction market?
 

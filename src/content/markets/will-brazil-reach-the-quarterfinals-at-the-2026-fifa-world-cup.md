@@ -3,8 +3,8 @@ title: "Will Brazil reach the Quarterfinals at the 2026 FIFA World Cup?"
 description: "Will Brazil reach the Quarterfinals at the 2026 FIFA World Cup? Odds: 64.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Brazil reach the Quarterfinals at the 2026 FIFA World Cup?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-06-29
+status: "settled"
+lastUpdated: 2026-06-30
 tags: ["polymarket", "sports"]
 polymarketYes: 64.0
 polymarketNo: 36.0

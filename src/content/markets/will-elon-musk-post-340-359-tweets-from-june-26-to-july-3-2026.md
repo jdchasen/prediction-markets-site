@@ -1,15 +1,15 @@
 ---
 title: "Will Elon Musk post 340-359 tweets from June 26 to July 3, 2026?"
-description: "Will Elon Musk post 340-359 tweets from June 26 to July 3, 2026? Odds: 1.2% YES on Polymarket. See live prices and trade this market."
+description: "Will Elon Musk post 340-359 tweets from June 26 to July 3, 2026? Odds: 0.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Elon Musk post 340-359 tweets from June 26 to July 3, 2026?"
 category: "tech"
-status: "settled"
-lastUpdated: 2026-06-24
+status: "active"
+lastUpdated: 2026-06-30
 expiryDate: 2026-07-03
 tags: ["polymarket", "tech"]
-polymarketYes: 1.2
-polymarketNo: 98.8
-polymarketVolume: 9838
+polymarketYes: 0.2
+polymarketNo: 99.8
+polymarketVolume: 97440
 polymarketUrl: "https://polymarket.com/event/elon-musk-of-tweets-june-26-july-3-340-359"
 ---
 
@@ -17,13 +17,13 @@ polymarketUrl: "https://polymarket.com/event/elon-musk-of-tweets-june-26-july-3-
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 1.2% | 98.8% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.2% | 99.8% | $97K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Elon Musk post 340-359 tweets from June 26 to July 3, 2026?"?
 
-As of June 24, 2026, Polymarket prices YES at 1.2%.
+As of June 30, 2026, Polymarket prices YES at 0.2%.
 
 ### Where can I trade on this prediction market?
 

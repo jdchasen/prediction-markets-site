@@ -1,14 +1,14 @@
 ---
 title: "Will OpenAI’s market cap be $1.5T or greater at market close on IPO day by December 31, 2027?"
-description: "Will OpenAI’s market cap be $1.5T or greater at market close on IPO day by December 31, 2027? Odds: 29.3% YES on Polymarket. See live prices and trade this m..."
+description: "Will OpenAI’s market cap be $1.5T or greater at market close on IPO day by December 31, 2027? Odds: 29.1% YES on Polymarket. See live prices and trade this m..."
 marketQuestion: "Will OpenAI’s market cap be $1.5T or greater at market close on IPO day by December 31, 2027?"
 category: "finance"
 status: "active"
-lastUpdated: 2026-06-29
+lastUpdated: 2026-06-30
 expiryDate: 2027-12-31
 tags: ["ai", "finance", "polymarket"]
-polymarketYes: 29.3
-polymarketNo: 70.7
+polymarketYes: 29.1
+polymarketNo: 70.9
 polymarketVolume: 9830
 polymarketUrl: "https://polymarket.com/event/will-openais-market-cap-be-1pt5t-or-greater-at-market-close-on-ipo-day-by-december-31-2027-911"
 ---
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-openais-market-cap-be-1pt5t-or
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 29.3% | 70.7% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 29.1% | 70.9% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-openais-market-cap-be-1pt5t-or
 
 ### What are the current odds for "Will OpenAI’s market cap be $1.5T or greater at market close on IPO day by December 31, 2027?"?
 
-As of June 29, 2026, Polymarket prices YES at 29.3%.
+As of June 30, 2026, Polymarket prices YES at 29.1%.
 
 ### Where can I trade on this prediction market?
 

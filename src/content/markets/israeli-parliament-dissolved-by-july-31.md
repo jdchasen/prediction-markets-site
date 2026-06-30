@@ -3,8 +3,8 @@ title: "Israeli parliament dissolved by July 31?"
 description: "Israeli parliament dissolved by July 31? Odds: 59.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Israeli parliament dissolved by July 31?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-06-29
+status: "settled"
+lastUpdated: 2026-06-30
 expiryDate: 2026-07-31
 tags: ["politics", "polymarket"]
 polymarketYes: 59.0

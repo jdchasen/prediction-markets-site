@@ -3,8 +3,8 @@ title: "Will Mexico reach the Round of 16 at the 2026 FIFA World Cup?"
 description: "Will Mexico reach the Round of 16 at the 2026 FIFA World Cup? Odds: 63.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Mexico reach the Round of 16 at the 2026 FIFA World Cup?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-06-29
+status: "settled"
+lastUpdated: 2026-06-30
 expiryDate: 2026-07-04
 tags: ["polymarket", "sports"]
 polymarketYes: 63.0
