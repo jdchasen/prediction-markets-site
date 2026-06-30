@@ -9,7 +9,7 @@ expiryDate: 2026-12-31
 tags: ["bitcoin", "crypto", "polymarket", "sports"]
 polymarketYes: 3.2
 polymarketNo: 96.8
-polymarketVolume: 974206
+polymarketVolume: 975466
 polymarketUrl: "https://polymarket.com/event/will-china-unban-bitcoin-by-2027"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-china-unban-bitcoin-by-2027"
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 3.2% | 96.8% | $974K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 3.2% | 96.8% | $975K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 

@@ -1,23 +1,23 @@
 ---
-title: "Will Donald Trump be the leader of Venezuela end of 2026?"
-description: "Will Donald Trump be the leader of Venezuela end of 2026? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Donald Trump be the leader of Venezuela end of 2026?"
+title: "Will Edna DeVries win the 2026 Alaska governor election?"
+description: "Will Edna DeVries win the 2026 Alaska governor election? Odds: 0.3% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Edna DeVries win the 2026 Alaska governor election?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-06-30
-expiryDate: 2026-12-31
-tags: ["politics", "polymarket", "trump"]
-polymarketYes: 0.1
-polymarketNo: 99.9
-polymarketVolume: 989296
-polymarketUrl: "https://polymarket.com/event/will-donald-trump-be-the-leader-of-venezuela-end-of-2026"
+expiryDate: 2026-11-03
+tags: ["elections", "politics", "polymarket"]
+polymarketYes: 0.3
+polymarketNo: 99.7
+polymarketVolume: 9718
+polymarketUrl: "https://polymarket.com/event/will-edna-devries-win-the-2026-alaska-governor-election"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.1% | 99.9% | $989K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.3% | 99.7% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-donald-trump-be-the-leader-of-
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Donald Trump be the leader of Venezuela end of 2026?"?
+### What are the current odds for "Will Edna DeVries win the 2026 Alaska governor election?"?
 
-As of June 30, 2026, Polymarket prices YES at 0.1%.
+As of June 30, 2026, Polymarket prices YES at 0.3%.
 
 ### Where can I trade on this prediction market?
 

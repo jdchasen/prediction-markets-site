@@ -22,8 +22,8 @@ polymarketUrl: "https://polymarket.com/event/will-perplexity-ai-have-the-highest
 ## Related Markets
 
 - [Anysphere (Cursor) IPO before 2027?](/odds/anysphere-cursor-ipo-before-2027) — 2% YES
-- [Will Anthropic's market cap be between $1.75T and $2.0T at market close on IPO day?](/odds/will-anthropics-market-cap-be-between-175t-and-20t-at-market-close-on-ipo-day) — 12% YES
-- [SpaceX or OpenAI higher IPO Market Cap?](/odds/spacex-or-openai-higher-ipo-market-cap) — 89% YES
+- [SpaceX or OpenAI higher IPO Market Cap?](/odds/spacex-or-openai-higher-ipo-market-cap) — 90% YES
+- [Will Trump sell 2.5k-5k Gold Cards in 2026?](/odds/will-trump-sell-25k-5k-gold-cards-in-2026) — 2% YES
 
 ## Frequently Asked Questions
 

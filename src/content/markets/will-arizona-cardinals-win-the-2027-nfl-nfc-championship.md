@@ -21,8 +21,8 @@ polymarketUrl: "https://polymarket.com/event/will-arizona-cardinals-win-the-2027
 
 ## Related Markets
 
-- [Will Morocco win the 2026 FIFA World Cup?](/odds/will-morocco-win-the-2026-fifa-world-cup) — 4% YES
 - [Will Egypt win the 2026 FIFA World Cup?](/odds/will-egypt-win-the-2026-fifa-world-cup) — 0% YES
+- [Will Vinicius Junior be the top goalscorer at the 2026 FIFA World Cup?](/odds/will-vinicius-junior-be-the-top-goalscorer-at-the-2026-fifa-world-cup) — 2% YES
 - [Will the Jacksonville Jaguars win the 2027 NFL league championship?](/odds/will-the-jacksonville-jaguars-win-the-2027-nfl-league-championship) — 2% YES
 
 ## Frequently Asked Questions

@@ -1,13 +1,13 @@
 ---
 title: "Pacifica FDV above $2B one day after launch?"
-description: "Pacifica FDV above $2B one day after launch? Odds: 4.9% YES on Polymarket. See live prices and trade this market."
+description: "Pacifica FDV above $2B one day after launch? Odds: 4.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Pacifica FDV above $2B one day after launch?"
 category: "crypto"
 status: "active"
 lastUpdated: 2026-06-30
 expiryDate: 2027-01-01
 tags: ["crypto", "polymarket"]
-polymarketYes: 4.9
+polymarketYes: 4.8
 polymarketNo: 95.2
 polymarketVolume: 9732
 polymarketUrl: "https://polymarket.com/event/pacifica-fdv-above-2b-one-day-after-launch-382"
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/pacifica-fdv-above-2b-one-day-after
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 4.9% | 95.2% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 4.8% | 95.2% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/pacifica-fdv-above-2b-one-day-after
 
 ### What are the current odds for "Pacifica FDV above $2B one day after launch?"?
 
-As of June 30, 2026, Polymarket prices YES at 4.9%.
+As of June 30, 2026, Polymarket prices YES at 4.8%.
 
 ### Where can I trade on this prediction market?
 

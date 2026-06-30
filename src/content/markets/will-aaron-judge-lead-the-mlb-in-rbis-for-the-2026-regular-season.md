@@ -1,14 +1,14 @@
 ---
 title: "Will Aaron Judge lead the MLB in RBIs for the 2026 regular season?"
-description: "Will Aaron Judge lead the MLB in RBIs for the 2026 regular season? Odds: 0.8% YES on Polymarket. See live prices and trade this market."
+description: "Will Aaron Judge lead the MLB in RBIs for the 2026 regular season? Odds: 0.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Aaron Judge lead the MLB in RBIs for the 2026 regular season?"
 category: "sports"
 status: "active"
 lastUpdated: 2026-06-30
 expiryDate: 2026-09-28
 tags: ["polymarket", "sports"]
-polymarketYes: 0.8
-polymarketNo: 99.2
+polymarketYes: 0.7
+polymarketNo: 99.3
 polymarketVolume: 9816
 polymarketUrl: "https://polymarket.com/event/will-aaron-judge-lead-the-mlb-in-rbis-for-the-2026-regular-season"
 ---
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-aaron-judge-lead-the-mlb-in-rb
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.8% | 99.2% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.7% | 99.3% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Morocco win the 2026 FIFA World Cup?](/odds/will-morocco-win-the-2026-fifa-world-cup) — 4% YES
 - [Will Egypt win the 2026 FIFA World Cup?](/odds/will-egypt-win-the-2026-fifa-world-cup) — 0% YES
+- [Will Vinicius Junior be the top goalscorer at the 2026 FIFA World Cup?](/odds/will-vinicius-junior-be-the-top-goalscorer-at-the-2026-fifa-world-cup) — 2% YES
 - [Will Arizona Cardinals win the 2027 NFL NFC Championship?](/odds/will-arizona-cardinals-win-the-2027-nfl-nfc-championship) — 1% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Aaron Judge lead the MLB in RBIs for the 2026 regular season?"?
 
-As of June 30, 2026, Polymarket prices YES at 0.8%.
+As of June 30, 2026, Polymarket prices YES at 0.7%.
 
 ### Where can I trade on this prediction market?
 

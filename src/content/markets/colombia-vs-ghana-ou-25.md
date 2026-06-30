@@ -3,7 +3,7 @@ title: "Colombia vs. Ghana: O/U 2.5"
 description: "Colombia vs. Ghana: O/U 2.5 Odds: 41.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Colombia vs. Ghana: O/U 2.5"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-30
 expiryDate: 2026-07-04
 tags: ["politics", "polymarket"]

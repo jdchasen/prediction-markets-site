@@ -3,7 +3,7 @@ title: "Will Belgium reach the Semifinals at the 2026 FIFA World Cup?"
 description: "Will Belgium reach the Semifinals at the 2026 FIFA World Cup? Odds: 10.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Belgium reach the Semifinals at the 2026 FIFA World Cup?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-30
 expiryDate: 2026-07-13
 tags: ["polymarket", "sports"]

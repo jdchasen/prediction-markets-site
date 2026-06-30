@@ -9,7 +9,7 @@ expiryDate: 2027-03-31
 tags: ["polymarket", "sports"]
 polymarketYes: 2.4
 polymarketNo: 97.6
-polymarketVolume: 973601
+polymarketVolume: 975076
 polymarketUrl: "https://polymarket.com/event/will-the-jacksonville-jaguars-win-the-2027-nfl-league-championship"
 ---
 
@@ -17,12 +17,12 @@ polymarketUrl: "https://polymarket.com/event/will-the-jacksonville-jaguars-win-t
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 2.4% | 97.6% | $974K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 2.4% | 97.6% | $975K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Morocco win the 2026 FIFA World Cup?](/odds/will-morocco-win-the-2026-fifa-world-cup) — 4% YES
 - [Will Egypt win the 2026 FIFA World Cup?](/odds/will-egypt-win-the-2026-fifa-world-cup) — 0% YES
+- [Will Vinicius Junior be the top goalscorer at the 2026 FIFA World Cup?](/odds/will-vinicius-junior-be-the-top-goalscorer-at-the-2026-fifa-world-cup) — 2% YES
 - [Will Arizona Cardinals win the 2027 NFL NFC Championship?](/odds/will-arizona-cardinals-win-the-2027-nfl-nfc-championship) — 1% YES
 
 ## Frequently Asked Questions

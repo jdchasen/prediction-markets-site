@@ -1,23 +1,23 @@
 ---
-title: "Will JP Morgan (JPM) Q2 investment banking fees be above $2.55B?"
-description: "Will JP Morgan (JPM) Q2 investment banking fees be above $2.55B? Odds: 97.9% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will JP Morgan (JPM) Q2 investment banking fees be above $2.55B?"
+title: "Will Russia capture Kostyantynivka by September 30?"
+description: "Will Russia capture Kostyantynivka by September 30? Odds: 75.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Russia capture Kostyantynivka by September 30?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-06-30
-expiryDate: 2026-07-14
+expiryDate: 2026-09-30
 tags: ["politics", "polymarket"]
-polymarketYes: 97.9
-polymarketNo: 2.1
-polymarketVolume: 9789
-polymarketUrl: "https://polymarket.com/event/will-jp-morgan-jpm-q2-investment-banking-fees-be-above-2pt55b"
+polymarketYes: 75.5
+polymarketNo: 24.5
+polymarketVolume: 97837
+polymarketUrl: "https://polymarket.com/event/will-russia-capture-kostyantynivka-by-september-30-256"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 97.9% | 2.1% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 75.5% | 24.5% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-jp-morgan-jpm-q2-investment-ba
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will JP Morgan (JPM) Q2 investment banking fees be above $2.55B?"?
+### What are the current odds for "Will Russia capture Kostyantynivka by September 30?"?
 
-As of June 30, 2026, Polymarket prices YES at 97.9%.
+As of June 30, 2026, Polymarket prices YES at 75.5%.
 
 ### Where can I trade on this prediction market?
 

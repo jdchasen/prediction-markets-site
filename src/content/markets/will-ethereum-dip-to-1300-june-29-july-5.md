@@ -3,7 +3,7 @@ title: "Will Ethereum dip to $1,300 June 29-July 5?"
 description: "Will Ethereum dip to $1,300 June 29-July 5? Odds: 4.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Ethereum dip to $1,300 June 29-July 5?"
 category: "crypto"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-30
 expiryDate: 2026-07-06
 tags: ["crypto", "ethereum", "polymarket"]

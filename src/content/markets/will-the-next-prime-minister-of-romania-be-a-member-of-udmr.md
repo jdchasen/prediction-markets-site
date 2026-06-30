@@ -3,7 +3,7 @@ title: "Will the next Prime Minister of Romania be a member of UDMR?"
 description: "Will the next Prime Minister of Romania be a member of UDMR? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the next Prime Minister of Romania be a member of UDMR?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-30
 expiryDate: 2027-12-31
 tags: ["politics", "polymarket"]

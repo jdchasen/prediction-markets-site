@@ -1,14 +1,14 @@
 ---
 title: "Will the Republican Party win the MS-04 House seat?"
-description: "Will the Republican Party win the MS-04 House seat? Odds: 93.0% YES on Polymarket. See live prices and trade this market."
+description: "Will the Republican Party win the MS-04 House seat? Odds: 93.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Republican Party win the MS-04 House seat?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-06-30
 expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
-polymarketYes: 93.0
-polymarketNo: 7.0
+polymarketYes: 93.2
+polymarketNo: 6.9
 polymarketVolume: 9771
 polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-ms-04-house-seat"
 ---
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-m
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 93.0% | 7.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 93.2% | 6.9% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-m
 
 ### What are the current odds for "Will the Republican Party win the MS-04 House seat?"?
 
-As of June 30, 2026, Polymarket prices YES at 93.0%.
+As of June 30, 2026, Polymarket prices YES at 93.2%.
 
 ### Where can I trade on this prediction market?
 

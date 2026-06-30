@@ -1,23 +1,23 @@
 ---
-title: "Will JP Morgan (JPM) Q2 investment banking fees be above $2.55B?"
-description: "Will JP Morgan (JPM) Q2 investment banking fees be above $2.55B? Odds: 97.9% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will JP Morgan (JPM) Q2 investment banking fees be above $2.55B?"
+title: "Will WTI Crude Oil (WTI) hit (LOW) $60 in July?"
+description: "Will WTI Crude Oil (WTI) hit (LOW) $60 in July? Odds: 16.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will WTI Crude Oil (WTI) hit (LOW) $60 in July?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-06-30
-expiryDate: 2026-07-14
+expiryDate: 2026-08-01
 tags: ["politics", "polymarket"]
-polymarketYes: 97.9
-polymarketNo: 2.1
-polymarketVolume: 9789
-polymarketUrl: "https://polymarket.com/event/will-jp-morgan-jpm-q2-investment-banking-fees-be-above-2pt55b"
+polymarketYes: 16.5
+polymarketNo: 83.5
+polymarketVolume: 9987
+polymarketUrl: "https://polymarket.com/event/will-wti-dip-to-60-in-july-2026-528"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 97.9% | 2.1% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 16.5% | 83.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-jp-morgan-jpm-q2-investment-ba
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will JP Morgan (JPM) Q2 investment banking fees be above $2.55B?"?
+### What are the current odds for "Will WTI Crude Oil (WTI) hit (LOW) $60 in July?"?
 
-As of June 30, 2026, Polymarket prices YES at 97.9%.
+As of June 30, 2026, Polymarket prices YES at 16.5%.
 
 ### Where can I trade on this prediction market?
 

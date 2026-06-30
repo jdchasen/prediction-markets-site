@@ -1,14 +1,14 @@
 ---
 title: "Ventuals FDV above $500M one day after launch?"
-description: "Ventuals FDV above $500M one day after launch? Odds: 4.9% YES on Polymarket. See live prices and trade this market."
+description: "Ventuals FDV above $500M one day after launch? Odds: 5.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Ventuals FDV above $500M one day after launch?"
 category: "crypto"
 status: "active"
 lastUpdated: 2026-06-30
 expiryDate: 2027-01-01
 tags: ["crypto", "polymarket"]
-polymarketYes: 4.9
-polymarketNo: 95.2
+polymarketYes: 5.0
+polymarketNo: 95.0
 polymarketVolume: 9920
 polymarketUrl: "https://polymarket.com/event/ventuals-fdv-above-500m-one-day-after-launch-918"
 ---
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/ventuals-fdv-above-500m-one-day-aft
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 4.9% | 95.2% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 5.0% | 95.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/ventuals-fdv-above-500m-one-day-aft
 
 ### What are the current odds for "Ventuals FDV above $500M one day after launch?"?
 
-As of June 30, 2026, Polymarket prices YES at 4.9%.
+As of June 30, 2026, Polymarket prices YES at 5.0%.
 
 ### Where can I trade on this prediction market?
 

@@ -3,7 +3,7 @@ title: "Will the price of Bitcoin be above $64,000 on July 4?"
 description: "Will the price of Bitcoin be above $64,000 on July 4? Odds: 2.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the price of Bitcoin be above $64,000 on July 4?"
 category: "crypto"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-30
 expiryDate: 2026-07-04
 tags: ["bitcoin", "crypto", "polymarket"]

@@ -3,7 +3,7 @@ title: "Will Morocco win the 2026 FIFA World Cup?"
 description: "Will Morocco win the 2026 FIFA World Cup? Odds: 3.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Morocco win the 2026 FIFA World Cup?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-06-30
 expiryDate: 2026-07-20
 tags: ["polymarket", "sports"]

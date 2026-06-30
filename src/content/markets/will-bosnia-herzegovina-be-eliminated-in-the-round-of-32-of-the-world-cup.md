@@ -1,15 +1,15 @@
 ---
 title: "Will Bosnia & Herzegovina be eliminated in the Round of 32 of the World Cup?"
-description: "Will Bosnia & Herzegovina be eliminated in the Round of 32 of the World Cup? Odds: 82.0% YES on Polymarket. See live prices and trade this market."
+description: "Will Bosnia & Herzegovina be eliminated in the Round of 32 of the World Cup? Odds: 83.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Bosnia & Herzegovina be eliminated in the Round of 32 of the World Cup?"
 category: "sports"
 status: "active"
 lastUpdated: 2026-06-30
 expiryDate: 2026-07-19
 tags: ["polymarket", "sports"]
-polymarketYes: 82.0
-polymarketNo: 18.0
-polymarketVolume: 9787
+polymarketYes: 83.0
+polymarketNo: 17.0
+polymarketVolume: 9847
 polymarketUrl: "https://polymarket.com/event/will-bosnia-herzegovina-be-eliminated-in-the-round-of-32-of-the-world-cup-20260605224220830"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-bosnia-herzegovina-be-eliminat
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 82.0% | 18.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 83.0% | 17.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Morocco win the 2026 FIFA World Cup?](/odds/will-morocco-win-the-2026-fifa-world-cup) — 4% YES
 - [Will Egypt win the 2026 FIFA World Cup?](/odds/will-egypt-win-the-2026-fifa-world-cup) — 0% YES
+- [Will Vinicius Junior be the top goalscorer at the 2026 FIFA World Cup?](/odds/will-vinicius-junior-be-the-top-goalscorer-at-the-2026-fifa-world-cup) — 2% YES
 - [Will Arizona Cardinals win the 2027 NFL NFC Championship?](/odds/will-arizona-cardinals-win-the-2027-nfl-nfc-championship) — 1% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Bosnia & Herzegovina be eliminated in the Round of 32 of the World Cup?"?
 
-As of June 30, 2026, Polymarket prices YES at 82.0%.
+As of June 30, 2026, Polymarket prices YES at 83.0%.
 
 ### Where can I trade on this prediction market?
 
