@@ -3,8 +3,8 @@ title: "Quito: Pedro Sakamoto vs Alan Magadan"
 description: "Quito: Pedro Sakamoto vs Alan Magadan Odds: 53.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Quito: Pedro Sakamoto vs Alan Magadan"
 category: "politics"
-status: "active"
-lastUpdated: 2026-06-30
+status: "settled"
+lastUpdated: 2026-07-01
 expiryDate: 2026-07-06
 tags: ["politics", "polymarket"]
 polymarketYes: 53.5

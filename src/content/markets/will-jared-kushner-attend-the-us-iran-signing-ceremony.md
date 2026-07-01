@@ -3,8 +3,8 @@ title: "Will Jared Kushner attend the US-Iran Signing Ceremony?"
 description: "Will Jared Kushner attend the US-Iran Signing Ceremony? Odds: 1.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Jared Kushner attend the US-Iran Signing Ceremony?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-06-30
+status: "settled"
+lastUpdated: 2026-07-01
 expiryDate: 2026-07-07
 tags: ["politics", "polymarket"]
 polymarketYes: 1.5

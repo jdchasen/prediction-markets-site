@@ -3,8 +3,8 @@ title: "Will Bosnia & Herzegovina be eliminated in the Round of 32 of the World 
 description: "Will Bosnia & Herzegovina be eliminated in the Round of 32 of the World Cup? Odds: 83.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Bosnia & Herzegovina be eliminated in the Round of 32 of the World Cup?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-06-30
+status: "settled"
+lastUpdated: 2026-07-01
 expiryDate: 2026-07-19
 tags: ["polymarket", "sports"]
 polymarketYes: 83.0

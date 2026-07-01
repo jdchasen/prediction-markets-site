@@ -3,8 +3,8 @@ title: "Ventuals FDV above $300M one day after launch?"
 description: "Ventuals FDV above $300M one day after launch? Odds: 3.6% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Ventuals FDV above $300M one day after launch?"
 category: "crypto"
-status: "active"
-lastUpdated: 2026-06-30
+status: "settled"
+lastUpdated: 2026-07-01
 expiryDate: 2027-01-01
 tags: ["crypto", "polymarket"]
 polymarketYes: 3.6

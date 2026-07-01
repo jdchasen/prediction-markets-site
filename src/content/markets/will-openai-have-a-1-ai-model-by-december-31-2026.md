@@ -3,8 +3,8 @@ title: "Will OpenAI have a #1 AI model by December 31, 2026?"
 description: "Will OpenAI have a #1 AI model by December 31, 2026? Odds: 37.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will OpenAI have a #1 AI model by December 31, 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-06-30
+status: "settled"
+lastUpdated: 2026-07-01
 expiryDate: 2026-12-31
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 37.5

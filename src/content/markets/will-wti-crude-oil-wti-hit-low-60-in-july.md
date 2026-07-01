@@ -3,8 +3,8 @@ title: "Will WTI Crude Oil (WTI) hit (LOW) $60 in July?"
 description: "Will WTI Crude Oil (WTI) hit (LOW) $60 in July? Odds: 16.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will WTI Crude Oil (WTI) hit (LOW) $60 in July?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-06-30
+status: "settled"
+lastUpdated: 2026-07-01
 expiryDate: 2026-08-01
 tags: ["politics", "polymarket"]
 polymarketYes: 16.5

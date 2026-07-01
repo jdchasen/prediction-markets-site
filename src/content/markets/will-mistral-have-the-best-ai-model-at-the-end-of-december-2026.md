@@ -3,8 +3,8 @@ title: "Will Mistral have the best AI model at the end of December 2026?"
 description: "Will Mistral have the best AI model at the end of December 2026? Odds: 0.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Mistral have the best AI model at the end of December 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-06-30
+status: "settled"
+lastUpdated: 2026-07-01
 expiryDate: 2026-12-31
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 0.2

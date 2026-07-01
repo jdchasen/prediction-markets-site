@@ -4,12 +4,12 @@ description: "Will any AI model reach 1550 Overall Arena Score by September 30, 
 marketQuestion: "Will any AI model reach 1550 Overall Arena Score by September 30, 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-06-30
+lastUpdated: 2026-07-01
 expiryDate: 2026-09-30
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 6.5
 polymarketNo: 93.5
-polymarketVolume: 9885
+polymarketVolume: 9907
 polymarketUrl: "https://polymarket.com/event/will-any-ai-model-reach-1550-overall-arena-score-by-september-30-2026"
 ---
 
@@ -22,14 +22,14 @@ polymarketUrl: "https://polymarket.com/event/will-any-ai-model-reach-1550-overal
 ## Related Markets
 
 - [Will Eduardo Bolsonaro win the 2026 Brazilian presidential election?](/odds/will-eduardo-bolsonaro-win-the-2026-brazilian-presidential-election) — 0% YES
-- [Will James Talarico win the 2028 Democratic presidential nomination?](/odds/will-james-talarico-win-the-2028-democratic-presidential-nomination) — 1% YES
+- [Will James Talarico win the 2028 Democratic presidential nomination?](/odds/will-james-talarico-win-the-2028-democratic-presidential-nomination) — 2% YES
 - [Will Édouard Philippe win the 2027 French presidential election?](/odds/will-douard-philippe-win-the-2027-french-presidential-election) — 18% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will any AI model reach 1550 Overall Arena Score by September 30, 2026?"?
 
-As of June 30, 2026, Polymarket prices YES at 6.5%.
+As of July 01, 2026, Polymarket prices YES at 6.5%.
 
 ### Where can I trade on this prediction market?
 

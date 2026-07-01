@@ -3,8 +3,8 @@ title: "Will Aaron Judge lead the MLB in RBIs for the 2026 regular season?"
 description: "Will Aaron Judge lead the MLB in RBIs for the 2026 regular season? Odds: 0.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Aaron Judge lead the MLB in RBIs for the 2026 regular season?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-06-30
+status: "settled"
+lastUpdated: 2026-07-01
 expiryDate: 2026-09-28
 tags: ["polymarket", "sports"]
 polymarketYes: 0.7

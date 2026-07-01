@@ -1,15 +1,15 @@
 ---
 title: "Will Mojtaba Khamenei sign a U.S. x Iran deal by July 31?"
-description: "Will Mojtaba Khamenei sign a U.S. x Iran deal by July 31? Odds: 6.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Mojtaba Khamenei sign a U.S. x Iran deal by July 31? Odds: 0.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Mojtaba Khamenei sign a U.S. x Iran deal by July 31?"
 category: "politics"
-status: "settled"
-lastUpdated: 2026-06-14
+status: "active"
+lastUpdated: 2026-07-01
 expiryDate: 2026-08-01
 tags: ["politics", "polymarket"]
-polymarketYes: 6.5
-polymarketNo: 93.5
-polymarketVolume: 9897
+polymarketYes: 0.9
+polymarketNo: 99.1
+polymarketVolume: 98274
 polymarketUrl: "https://polymarket.com/event/will-mojtaba-khamenei-sign-a-uptspt-x-iran-deal-by-july-31-20260611235950074"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-mojtaba-khamenei-sign-a-uptspt
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 6.5% | 93.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.9% | 99.1% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Carlos Roberto Massa Júnior win the 2026 Brazilian presidential election?](/odds/will-carlos-roberto-massa-jnior-win-the-2026-brazilian-presidential-election) — 0% YES
-- [Will Nikki Haley win the 2028 Republican presidential nomination?](/odds/will-nikki-haley-win-the-2028-republican-presidential-nomination) — 1% YES
-- [Will DeepSeek have the best AI model at the end of June 2026?](/odds/will-deepseek-have-the-best-ai-model-at-the-end-of-june-2026) — 0% YES
+- [Will Eduardo Bolsonaro win the 2026 Brazilian presidential election?](/odds/will-eduardo-bolsonaro-win-the-2026-brazilian-presidential-election) — 0% YES
+- [Will James Talarico win the 2028 Democratic presidential nomination?](/odds/will-james-talarico-win-the-2028-democratic-presidential-nomination) — 2% YES
+- [Will Édouard Philippe win the 2027 French presidential election?](/odds/will-douard-philippe-win-the-2027-french-presidential-election) — 18% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Mojtaba Khamenei sign a U.S. x Iran deal by July 31?"?
 
-As of June 14, 2026, Polymarket prices YES at 6.5%.
+As of July 01, 2026, Polymarket prices YES at 0.9%.
 
 ### Where can I trade on this prediction market?
 

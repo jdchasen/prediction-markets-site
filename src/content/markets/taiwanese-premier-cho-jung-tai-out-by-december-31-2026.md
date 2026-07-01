@@ -4,7 +4,7 @@ description: "Taiwanese Premier Cho Jung-tai out by December 31, 2026? Odds: 13.
 marketQuestion: "Taiwanese Premier Cho Jung-tai out by December 31, 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-06-30
+lastUpdated: 2026-07-01
 expiryDate: 2026-12-31
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 13.0
@@ -22,14 +22,14 @@ polymarketUrl: "https://polymarket.com/event/taiwanese-premier-cho-jung-tai-out-
 ## Related Markets
 
 - [Will Eduardo Bolsonaro win the 2026 Brazilian presidential election?](/odds/will-eduardo-bolsonaro-win-the-2026-brazilian-presidential-election) — 0% YES
-- [Will James Talarico win the 2028 Democratic presidential nomination?](/odds/will-james-talarico-win-the-2028-democratic-presidential-nomination) — 1% YES
+- [Will James Talarico win the 2028 Democratic presidential nomination?](/odds/will-james-talarico-win-the-2028-democratic-presidential-nomination) — 2% YES
 - [Will Édouard Philippe win the 2027 French presidential election?](/odds/will-douard-philippe-win-the-2027-french-presidential-election) — 18% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Taiwanese Premier Cho Jung-tai out by December 31, 2026?"?
 
-As of June 30, 2026, Polymarket prices YES at 13.0%.
+As of July 01, 2026, Polymarket prices YES at 13.0%.
 
 ### Where can I trade on this prediction market?
 

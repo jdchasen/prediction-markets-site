@@ -1,15 +1,15 @@
 ---
 title: "Will JP Morgan (JPM) Q2 investment banking fees be above $2.55B?"
-description: "Will JP Morgan (JPM) Q2 investment banking fees be above $2.55B? Odds: 97.9% YES on Polymarket. See live prices and trade this market."
+description: "Will JP Morgan (JPM) Q2 investment banking fees be above $2.55B? Odds: 97.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will JP Morgan (JPM) Q2 investment banking fees be above $2.55B?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-06-30
+lastUpdated: 2026-07-01
 expiryDate: 2026-07-14
 tags: ["politics", "polymarket"]
-polymarketYes: 97.9
-polymarketNo: 2.1
-polymarketVolume: 9789
+polymarketYes: 97.8
+polymarketNo: 2.2
+polymarketVolume: 9799
 polymarketUrl: "https://polymarket.com/event/will-jp-morgan-jpm-q2-investment-banking-fees-be-above-2pt55b"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-jp-morgan-jpm-q2-investment-ba
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 97.9% | 2.1% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 97.8% | 2.2% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Eduardo Bolsonaro win the 2026 Brazilian presidential election?](/odds/will-eduardo-bolsonaro-win-the-2026-brazilian-presidential-election) — 0% YES
-- [Will James Talarico win the 2028 Democratic presidential nomination?](/odds/will-james-talarico-win-the-2028-democratic-presidential-nomination) — 1% YES
+- [Will James Talarico win the 2028 Democratic presidential nomination?](/odds/will-james-talarico-win-the-2028-democratic-presidential-nomination) — 2% YES
 - [Will Édouard Philippe win the 2027 French presidential election?](/odds/will-douard-philippe-win-the-2027-french-presidential-election) — 18% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will JP Morgan (JPM) Q2 investment banking fees be above $2.55B?"?
 
-As of June 30, 2026, Polymarket prices YES at 97.9%.
+As of July 01, 2026, Polymarket prices YES at 97.8%.
 
 ### Where can I trade on this prediction market?
 
