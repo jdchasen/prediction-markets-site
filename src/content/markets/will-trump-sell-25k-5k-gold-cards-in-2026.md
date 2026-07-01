@@ -1,13 +1,13 @@
 ---
 title: "Will Trump sell 2.5k-5k Gold Cards in 2026?"
-description: "Will Trump sell 2.5k-5k Gold Cards in 2026? Odds: 1.9% YES on Polymarket. See live prices and trade this market."
+description: "Will Trump sell 2.5k-5k Gold Cards in 2026? Odds: 2.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Trump sell 2.5k-5k Gold Cards in 2026?"
 category: "finance"
 status: "active"
 lastUpdated: 2026-07-01
 expiryDate: 2026-12-31
 tags: ["finance", "polymarket", "trump"]
-polymarketYes: 1.9
+polymarketYes: 2.1
 polymarketNo: 98.0
 polymarketVolume: 9835
 polymarketUrl: "https://polymarket.com/event/will-trump-sell-2pt5k-5k-gold-cards-in-2026"
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-trump-sell-2pt5k-5k-gold-cards
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 1.9% | 98.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 2.1% | 98.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Anysphere (Cursor) IPO before 2027?](/odds/anysphere-cursor-ipo-before-2027) — 1% YES
-- [SpaceX or OpenAI higher IPO Market Cap?](/odds/spacex-or-openai-higher-ipo-market-cap) — 97% YES
+- [SpaceX or OpenAI higher IPO Market Cap?](/odds/spacex-or-openai-higher-ipo-market-cap) — 98% YES
 - [Will OpenAI’s market cap be $1.5T or greater at market close on IPO day by December 31, 2027?](/odds/will-openais-market-cap-be-15t-or-greater-at-market-close-on-ipo-day-by-december) — 29% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Trump sell 2.5k-5k Gold Cards in 2026?"?
 
-As of July 01, 2026, Polymarket prices YES at 1.9%.
+As of July 01, 2026, Polymarket prices YES at 2.1%.
 
 ### Where can I trade on this prediction market?
 

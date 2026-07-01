@@ -22,8 +22,8 @@ polymarketUrl: "https://polymarket.com/event/will-dreamcash-launch-a-token-by-de
 ## Related Markets
 
 - [Will Bitcoin reach $150,000 by December 31, 2026?](/odds/will-bitcoin-reach-150000-by-december-31-2026) — 3% YES
+- [Will China unban Bitcoin by 2027?](/odds/will-china-unban-bitcoin-by-2027) — 3% YES
 - [Will MetaMask launch a token by September 30, 2026?](/odds/will-metamask-launch-a-token-by-september-30-2026) — 2% YES
-- [Will Bitcoin reach $120,000 by December 31, 2026?](/odds/will-bitcoin-reach-120000-by-december-31-2026) — 6% YES
 
 ## Frequently Asked Questions
 

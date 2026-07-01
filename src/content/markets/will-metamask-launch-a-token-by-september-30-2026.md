@@ -9,7 +9,7 @@ expiryDate: 2026-10-01
 tags: ["crypto", "polymarket"]
 polymarketYes: 2.4
 polymarketNo: 97.7
-polymarketVolume: 981258
+polymarketVolume: 981327
 polymarketUrl: "https://polymarket.com/event/will-metamask-launch-a-token-by-september-30-2026"
 ---
 
@@ -22,8 +22,8 @@ polymarketUrl: "https://polymarket.com/event/will-metamask-launch-a-token-by-sep
 ## Related Markets
 
 - [Will Bitcoin reach $150,000 by December 31, 2026?](/odds/will-bitcoin-reach-150000-by-december-31-2026) — 3% YES
-- [Will Bitcoin reach $120,000 by December 31, 2026?](/odds/will-bitcoin-reach-120000-by-december-31-2026) — 6% YES
 - [Will China unban Bitcoin by 2027?](/odds/will-china-unban-bitcoin-by-2027) — 3% YES
+- [Will Bitcoin reach $120,000 by December 31, 2026?](/odds/will-bitcoin-reach-120000-by-december-31-2026) — 6% YES
 
 ## Frequently Asked Questions
 

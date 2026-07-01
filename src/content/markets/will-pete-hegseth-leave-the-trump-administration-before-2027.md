@@ -3,7 +3,7 @@ title: "Will Pete Hegseth leave the Trump administration before 2027?"
 description: "Will Pete Hegseth leave the Trump administration before 2027? Odds: 27.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Pete Hegseth leave the Trump administration before 2027?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-07-01
 expiryDate: 2026-12-31
 tags: ["ethereum", "politics", "polymarket", "trump"]

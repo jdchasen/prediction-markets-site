@@ -21,7 +21,7 @@ polymarketUrl: "https://polymarket.com/event/anysphere-cursor-ipo-before-2027"
 
 ## Related Markets
 
-- [SpaceX or OpenAI higher IPO Market Cap?](/odds/spacex-or-openai-higher-ipo-market-cap) — 97% YES
+- [SpaceX or OpenAI higher IPO Market Cap?](/odds/spacex-or-openai-higher-ipo-market-cap) — 98% YES
 - [Will Trump sell 2.5k-5k Gold Cards in 2026?](/odds/will-trump-sell-25k-5k-gold-cards-in-2026) — 2% YES
 - [Will OpenAI’s market cap be $1.5T or greater at market close on IPO day by December 31, 2027?](/odds/will-openais-market-cap-be-15t-or-greater-at-market-close-on-ipo-day-by-december) — 29% YES
 

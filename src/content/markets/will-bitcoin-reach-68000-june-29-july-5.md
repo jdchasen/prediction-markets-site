@@ -3,7 +3,7 @@ title: "Will Bitcoin reach $68,000 June 29-July 5?"
 description: "Will Bitcoin reach $68,000 June 29-July 5? Odds: 0.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Bitcoin reach $68,000 June 29-July 5?"
 category: "crypto"
-status: "active"
+status: "settled"
 lastUpdated: 2026-07-01
 expiryDate: 2026-07-06
 tags: ["bitcoin", "crypto", "polymarket"]

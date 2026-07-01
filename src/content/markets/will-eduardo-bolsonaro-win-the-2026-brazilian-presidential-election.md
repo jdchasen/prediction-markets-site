@@ -9,9 +9,8 @@ expiryDate: 2026-10-04
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.1
 polymarketNo: 99.9
-polymarketVolume: 9961795
+polymarketVolume: 9969389
 polymarketUrl: "https://polymarket.com/event/will-eduardo-bolsonaro-win-the-2026-brazilian-presidential-election"
-analysisDate: 2026-07-01
 ---
 
 Eduardo Bolsonaro, the son of former Brazilian President Jair Bolsonaro, faces near-prohibitive odds at 0.1% to win the 2026 presidential election, reflecting both his political limitations and Brazil's current trajectory away from the Bolsonaro brand. The market prices in significant structural barriers despite his role as a federal deputy and prominent social media presence with millions of followers.

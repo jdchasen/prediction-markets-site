@@ -9,7 +9,7 @@ expiryDate: 2026-11-01
 tags: ["politics", "polymarket"]
 polymarketYes: 2.8
 polymarketNo: 97.2
-polymarketVolume: 98098
+polymarketVolume: 98138
 polymarketUrl: "https://polymarket.com/event/will-detroit-tigers-win-the-2026-american-league-championship-series"
 ---
 
@@ -23,7 +23,7 @@ polymarketUrl: "https://polymarket.com/event/will-detroit-tigers-win-the-2026-am
 
 - [Will Eduardo Bolsonaro win the 2026 Brazilian presidential election?](/odds/will-eduardo-bolsonaro-win-the-2026-brazilian-presidential-election) — 0% YES
 - [Will James Talarico win the 2028 Democratic presidential nomination?](/odds/will-james-talarico-win-the-2028-democratic-presidential-nomination) — 2% YES
-- [Will Édouard Philippe win the 2027 French presidential election?](/odds/will-douard-philippe-win-the-2027-french-presidential-election) — 18% YES
+- [Will Donald Trump be the leader of Venezuela end of 2026?](/odds/will-donald-trump-be-the-leader-of-venezuela-end-of-2026) — 0% YES
 
 ## Frequently Asked Questions
 

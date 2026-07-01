@@ -1,15 +1,15 @@
 ---
 title: "Will China unban Bitcoin by 2027?"
-description: "Will China unban Bitcoin by 2027? Odds: 3.1% YES on Polymarket. See live prices and trade this market."
+description: "Will China unban Bitcoin by 2027? Odds: 3.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will China unban Bitcoin by 2027?"
 category: "crypto"
 status: "active"
 lastUpdated: 2026-07-01
 expiryDate: 2026-12-31
 tags: ["bitcoin", "crypto", "polymarket", "sports"]
-polymarketYes: 3.1
-polymarketNo: 96.9
-polymarketVolume: 975666
+polymarketYes: 3.0
+polymarketNo: 97.0
+polymarketVolume: 985898
 polymarketUrl: "https://polymarket.com/event/will-china-unban-bitcoin-by-2027"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-china-unban-bitcoin-by-2027"
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 3.1% | 96.9% | $976K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 3.0% | 97.0% | $986K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-china-unban-bitcoin-by-2027"
 
 ### What are the current odds for "Will China unban Bitcoin by 2027?"?
 
-As of July 01, 2026, Polymarket prices YES at 3.1%.
+As of July 01, 2026, Polymarket prices YES at 3.0%.
 
 ### Where can I trade on this prediction market?
 

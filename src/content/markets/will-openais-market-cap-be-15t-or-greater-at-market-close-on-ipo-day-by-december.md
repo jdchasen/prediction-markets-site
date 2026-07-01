@@ -22,7 +22,7 @@ polymarketUrl: "https://polymarket.com/event/will-openais-market-cap-be-1pt5t-or
 ## Related Markets
 
 - [Anysphere (Cursor) IPO before 2027?](/odds/anysphere-cursor-ipo-before-2027) — 1% YES
-- [SpaceX or OpenAI higher IPO Market Cap?](/odds/spacex-or-openai-higher-ipo-market-cap) — 97% YES
+- [SpaceX or OpenAI higher IPO Market Cap?](/odds/spacex-or-openai-higher-ipo-market-cap) — 98% YES
 - [Will Trump sell 2.5k-5k Gold Cards in 2026?](/odds/will-trump-sell-25k-5k-gold-cards-in-2026) — 2% YES
 
 ## Frequently Asked Questions

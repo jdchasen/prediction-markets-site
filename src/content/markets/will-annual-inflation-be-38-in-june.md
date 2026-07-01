@@ -1,15 +1,15 @@
 ---
 title: "Will annual inflation be 3.8% in June?"
-description: "Will annual inflation be 3.8% in June? Odds: 46.8% YES on Polymarket. See live prices and trade this market."
+description: "Will annual inflation be 3.8% in June? Odds: 45.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will annual inflation be 3.8% in June?"
 category: "economics"
 status: "active"
 lastUpdated: 2026-07-01
 expiryDate: 2026-07-15
 tags: ["economics", "polymarket", "sports"]
-polymarketYes: 46.8
-polymarketNo: 53.2
-polymarketVolume: 95501
+polymarketYes: 45.0
+polymarketNo: 55.0
+polymarketVolume: 96842
 polymarketUrl: "https://polymarket.com/event/will-annual-inflation-be-3pt8-in-june-20260610151731660"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-annual-inflation-be-3pt8-in-ju
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 46.8% | 53.2% | $96K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 45.0% | 55.0% | $97K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-annual-inflation-be-3pt8-in-ju
 
 ### What are the current odds for "Will annual inflation be 3.8% in June?"?
 
-As of July 01, 2026, Polymarket prices YES at 46.8%.
+As of July 01, 2026, Polymarket prices YES at 45.0%.
 
 ### Where can I trade on this prediction market?
 

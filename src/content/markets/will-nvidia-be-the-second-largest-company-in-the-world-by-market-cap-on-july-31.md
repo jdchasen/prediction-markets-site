@@ -3,7 +3,7 @@ title: "Will NVIDIA be the second-largest company in the world by market cap on 
 description: "Will NVIDIA be the second-largest company in the world by market cap on July 31? Odds: 7.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will NVIDIA be the second-largest company in the world by market cap on July 31?"
 category: "finance"
-status: "active"
+status: "settled"
 lastUpdated: 2026-07-01
 expiryDate: 2026-07-31
 tags: ["finance", "polymarket"]

@@ -9,9 +9,8 @@ expiryDate: 2028-11-07
 tags: ["politics", "polymarket"]
 polymarketYes: 1.5
 polymarketNo: 98.6
-polymarketVolume: 9883978
+polymarketVolume: 9884305
 polymarketUrl: "https://polymarket.com/event/will-james-talarico-win-the-2028-democratic-presidential-nomination"
-analysisDate: 2026-07-01
 ---
 
 James Talarico, a Texas state representative first elected in 2018, faces extraordinary longshot odds at 1.5% to capture the 2028 Democratic presidential nomination, reflecting both his relative obscurity on the national stage and the significant structural barriers between state legislative office and a major party presidential nomination.

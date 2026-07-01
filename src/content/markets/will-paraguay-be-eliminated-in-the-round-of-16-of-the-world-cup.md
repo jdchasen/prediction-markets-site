@@ -3,7 +3,7 @@ title: "Will Paraguay be eliminated in the Round of 16 of the World Cup?"
 description: "Will Paraguay be eliminated in the Round of 16 of the World Cup? Odds: 91.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Paraguay be eliminated in the Round of 16 of the World Cup?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-07-01
 expiryDate: 2026-07-19
 tags: ["polymarket", "sports"]

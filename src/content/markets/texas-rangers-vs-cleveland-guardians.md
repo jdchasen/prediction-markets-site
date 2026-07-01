@@ -3,7 +3,7 @@ title: "Texas Rangers vs. Cleveland Guardians"
 description: "Texas Rangers vs. Cleveland Guardians Odds: 49.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Texas Rangers vs. Cleveland Guardians"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-07-01
 expiryDate: 2026-07-08
 tags: ["politics", "polymarket"]

@@ -3,7 +3,7 @@ title: "Will \"The Odyssey\" Opening Weekend Box Office be between 105m and 115m
 description: "Will \"The Odyssey\" Opening Weekend Box Office be between 105m and 115m? Odds: 18.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will \"The Odyssey\" Opening Weekend Box Office be between 105m and 115m?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-07-01
 expiryDate: 2026-07-19
 tags: ["politics", "polymarket"]

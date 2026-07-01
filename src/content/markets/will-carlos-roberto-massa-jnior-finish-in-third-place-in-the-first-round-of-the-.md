@@ -1,14 +1,14 @@
 ---
 title: "Will Carlos Roberto Massa Júnior finish in third place in the first round of the 2026 Brazilian presidential election?"
-description: "Will Carlos Roberto Massa Júnior finish in third place in the first round of the 2026 Brazilian presidential election? Odds: 0.2% YES on Polymarket. See live..."
+description: "Will Carlos Roberto Massa Júnior finish in third place in the first round of the 2026 Brazilian presidential election? Odds: 0.1% YES on Polymarket. See live..."
 marketQuestion: "Will Carlos Roberto Massa Júnior finish in third place in the first round of the 2026 Brazilian presidential election?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-07-01
 expiryDate: 2026-10-04
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 0.2
-polymarketNo: 99.8
+polymarketYes: 0.1
+polymarketNo: 99.9
 polymarketVolume: 98504
 polymarketUrl: "https://polymarket.com/event/will-carlos-roberto-massa-jnior-finish-in-third-place-in-the-first-round-of-the-2026-brazilian-presidential-election"
 ---
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-carlos-roberto-massa-jnior-fin
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.2% | 99.8% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.1% | 99.9% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Eduardo Bolsonaro win the 2026 Brazilian presidential election?](/odds/will-eduardo-bolsonaro-win-the-2026-brazilian-presidential-election) — 0% YES
 - [Will James Talarico win the 2028 Democratic presidential nomination?](/odds/will-james-talarico-win-the-2028-democratic-presidential-nomination) — 2% YES
-- [Will Édouard Philippe win the 2027 French presidential election?](/odds/will-douard-philippe-win-the-2027-french-presidential-election) — 18% YES
+- [Will Donald Trump be the leader of Venezuela end of 2026?](/odds/will-donald-trump-be-the-leader-of-venezuela-end-of-2026) — 0% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Carlos Roberto Massa Júnior finish in third place in the first round of the 2026 Brazilian presidential election?"?
 
-As of July 01, 2026, Polymarket prices YES at 0.2%.
+As of July 01, 2026, Polymarket prices YES at 0.1%.
 
 ### Where can I trade on this prediction market?
 

@@ -1,14 +1,14 @@
 ---
 title: "SpaceX or OpenAI higher IPO Market Cap?"
-description: "SpaceX or OpenAI higher IPO Market Cap? Odds: 97.0% YES on Polymarket. See live prices and trade this market."
+description: "SpaceX or OpenAI higher IPO Market Cap? Odds: 97.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "SpaceX or OpenAI higher IPO Market Cap?"
 category: "finance"
 status: "active"
 lastUpdated: 2026-07-01
 expiryDate: 2027-12-31
 tags: ["ai", "finance", "polymarket"]
-polymarketYes: 97.0
-polymarketNo: 3.0
+polymarketYes: 97.5
+polymarketNo: 2.5
 polymarketVolume: 9994
 polymarketUrl: "https://polymarket.com/event/spacex-or-openai-higher-ipo-closing-market-cap"
 ---
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/spacex-or-openai-higher-ipo-closing
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 97.0% | 3.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 97.5% | 2.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/spacex-or-openai-higher-ipo-closing
 
 ### What are the current odds for "SpaceX or OpenAI higher IPO Market Cap?"?
 
-As of July 01, 2026, Polymarket prices YES at 97.0%.
+As of July 01, 2026, Polymarket prices YES at 97.5%.
 
 ### Where can I trade on this prediction market?
 
