@@ -1,15 +1,15 @@
 ---
 title: "Will the next Prime Minister of Romania be a member of AUR?"
-description: "Will the next Prime Minister of Romania be a member of AUR? Odds: 2.2% YES on Polymarket. See live prices and trade this market."
+description: "Will the next Prime Minister of Romania be a member of AUR? Odds: 2.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the next Prime Minister of Romania be a member of AUR?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-07-01
+lastUpdated: 2026-07-02
 expiryDate: 2027-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 2.2
-polymarketNo: 97.8
-polymarketVolume: 9774
+polymarketYes: 2.1
+polymarketNo: 97.9
+polymarketVolume: 9883
 polymarketUrl: "https://polymarket.com/event/will-the-next-prime-minister-of-romania-be-a-member-of-aur-516"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-the-next-prime-minister-of-rom
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 2.2% | 97.8% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 2.1% | 97.9% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Eduardo Bolsonaro win the 2026 Brazilian presidential election?](/odds/will-eduardo-bolsonaro-win-the-2026-brazilian-presidential-election) — 0% YES
 - [Will James Talarico win the 2028 Democratic presidential nomination?](/odds/will-james-talarico-win-the-2028-democratic-presidential-nomination) — 2% YES
-- [Will Donald Trump be the leader of Venezuela end of 2026?](/odds/will-donald-trump-be-the-leader-of-venezuela-end-of-2026) — 0% YES
+- [Will Keir Starmer be the next leader out before 2027?](/odds/will-keir-starmer-be-the-next-leader-out-before-2027) — 96% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will the next Prime Minister of Romania be a member of AUR?"?
 
-As of July 01, 2026, Polymarket prices YES at 2.2%.
+As of July 02, 2026, Polymarket prices YES at 2.1%.
 
 ### Where can I trade on this prediction market?
 

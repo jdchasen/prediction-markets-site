@@ -3,8 +3,8 @@ title: "Will Louise Haigh be the next Chancellor of the Exchequer of the UK in 2
 description: "Will Louise Haigh be the next Chancellor of the Exchequer of the UK in 2026? Odds: 0.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Louise Haigh be the next Chancellor of the Exchequer of the UK in 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-07-01
+status: "settled"
+lastUpdated: 2026-07-02
 expiryDate: 2026-12-31
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 0.5

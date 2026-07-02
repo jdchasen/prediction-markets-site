@@ -3,8 +3,8 @@ title: "Will Spain be eliminated in the Final of the World Cup?"
 description: "Will Spain be eliminated in the Final of the World Cup? Odds: 8.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Spain be eliminated in the Final of the World Cup?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-07-01
+status: "settled"
+lastUpdated: 2026-07-02
 expiryDate: 2026-07-19
 tags: ["ai", "polymarket", "sports"]
 polymarketYes: 8.5

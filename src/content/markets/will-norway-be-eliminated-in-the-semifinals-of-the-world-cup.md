@@ -3,8 +3,8 @@ title: "Will Norway be eliminated in the Semifinals of the World Cup?"
 description: "Will Norway be eliminated in the Semifinals of the World Cup? Odds: 13.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Norway be eliminated in the Semifinals of the World Cup?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-07-01
+status: "settled"
+lastUpdated: 2026-07-02
 expiryDate: 2026-07-19
 tags: ["polymarket", "sports"]
 polymarketYes: 13.0

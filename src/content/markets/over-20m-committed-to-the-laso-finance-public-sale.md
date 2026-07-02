@@ -3,8 +3,8 @@ title: "Over $20M committed to the Laso Finance public sale?"
 description: "Over $20M committed to the Laso Finance public sale? Odds: 97.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Over $20M committed to the Laso Finance public sale?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-07-01
+status: "settled"
+lastUpdated: 2026-07-02
 expiryDate: 2026-08-01
 tags: ["politics", "polymarket"]
 polymarketYes: 97.2

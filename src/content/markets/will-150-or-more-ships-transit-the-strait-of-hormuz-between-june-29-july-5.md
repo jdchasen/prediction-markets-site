@@ -3,8 +3,8 @@ title: "Will 150 or more ships transit the Strait of Hormuz between June 29-July
 description: "Will 150 or more ships transit the Strait of Hormuz between June 29-July 5? Odds: 91.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will 150 or more ships transit the Strait of Hormuz between June 29-July 5?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-07-01
+status: "settled"
+lastUpdated: 2026-07-02
 expiryDate: 2026-07-05
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 91.5

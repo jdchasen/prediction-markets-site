@@ -1,15 +1,15 @@
 ---
 title: "Will Brazil’s Annual Inflation in 2026 be between 4.50% and 4.99%?"
-description: "Will Brazil’s Annual Inflation in 2026 be between 4.50% and 4.99%? Odds: 28.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Brazil’s Annual Inflation in 2026 be between 4.50% and 4.99%? Odds: 28.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Brazil’s Annual Inflation in 2026 be between 4.50% and 4.99%?"
 category: "economics"
 status: "active"
-lastUpdated: 2026-07-01
+lastUpdated: 2026-07-02
 expiryDate: 2027-01-12
 tags: ["economics", "polymarket", "sports"]
-polymarketYes: 28.5
-polymarketNo: 71.5
-polymarketVolume: 9604
+polymarketYes: 28.4
+polymarketNo: 71.6
+polymarketVolume: 9611
 polymarketUrl: "https://polymarket.com/event/will-brazils-annual-inflation-in-2026-be-between-4pt50-and-4pt99"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-brazils-annual-inflation-in-20
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 28.5% | 71.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 28.4% | 71.6% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will inflation reach more than 4.5% in 2026?](/odds/will-inflation-reach-more-than-45-in-2026) — 20% YES
-- [Will annual inflation be 3.8% in June?](/odds/will-annual-inflation-be-38-in-june) — 45% YES
-- [Will China GDP growth in Q2 2026 be between 5.8% and 6.1%?](/odds/will-china-gdp-growth-in-q2-2026-be-between-58-and-61) — 0% YES
+- [Will annual inflation be 3.8% in June?](/odds/will-annual-inflation-be-38-in-june) — 46% YES
+- [Will South Korea’s 2026 Annual Inflation be at least 3.0%?](/odds/will-south-koreas-2026-annual-inflation-be-at-least-30) — 36% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Brazil’s Annual Inflation in 2026 be between 4.50% and 4.99%?"?
 
-As of July 01, 2026, Polymarket prices YES at 28.5%.
+As of July 02, 2026, Polymarket prices YES at 28.4%.
 
 ### Where can I trade on this prediction market?
 

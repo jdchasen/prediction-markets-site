@@ -1,15 +1,15 @@
 ---
 title: "Will Keir Starmer be the next leader out before 2027?"
-description: "Will Keir Starmer be the next leader out before 2027? Odds: 95.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Keir Starmer be the next leader out before 2027? Odds: 95.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Keir Starmer be the next leader out before 2027?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-07-01
+lastUpdated: 2026-07-02
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 95.5
-polymarketNo: 4.5
-polymarketVolume: 976348
+polymarketYes: 95.7
+polymarketNo: 4.3
+polymarketVolume: 992546
 polymarketUrl: "https://polymarket.com/event/will-keir-starmer-be-the-next-leader-out-before-2027-565"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-keir-starmer-be-the-next-leade
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 95.5% | 4.5% | $976K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 95.7% | 4.3% | $993K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-keir-starmer-be-the-next-leade
 
 ### What are the current odds for "Will Keir Starmer be the next leader out before 2027?"?
 
-As of July 01, 2026, Polymarket prices YES at 95.5%.
+As of July 02, 2026, Polymarket prices YES at 95.7%.
 
 ### Where can I trade on this prediction market?
 

@@ -3,8 +3,8 @@ title: "Will Dwayne 'The Rock' Johnson announce a Presidential run before 2027?"
 description: "Will Dwayne 'The Rock' Johnson announce a Presidential run before 2027? Odds: 1.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Dwayne 'The Rock' Johnson announce a Presidential run before 2027?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-07-01
+status: "settled"
+lastUpdated: 2026-07-02
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 1.2

@@ -4,12 +4,12 @@ description: "Will Microsoft have the best AI model at the end of December 2026?
 marketQuestion: "Will Microsoft have the best AI model at the end of December 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-07-01
+lastUpdated: 2026-07-02
 expiryDate: 2026-12-31
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 0.4
 polymarketNo: 99.6
-polymarketVolume: 9809
+polymarketVolume: 9909
 polymarketUrl: "https://polymarket.com/event/will-microsoft-have-the-best-ai-model-at-the-end-of-december-2026"
 ---
 
@@ -23,13 +23,13 @@ polymarketUrl: "https://polymarket.com/event/will-microsoft-have-the-best-ai-mod
 
 - [Will Eduardo Bolsonaro win the 2026 Brazilian presidential election?](/odds/will-eduardo-bolsonaro-win-the-2026-brazilian-presidential-election) — 0% YES
 - [Will James Talarico win the 2028 Democratic presidential nomination?](/odds/will-james-talarico-win-the-2028-democratic-presidential-nomination) — 2% YES
-- [Will Donald Trump be the leader of Venezuela end of 2026?](/odds/will-donald-trump-be-the-leader-of-venezuela-end-of-2026) — 0% YES
+- [Will Keir Starmer be the next leader out before 2027?](/odds/will-keir-starmer-be-the-next-leader-out-before-2027) — 96% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Microsoft have the best AI model at the end of December 2026?"?
 
-As of July 01, 2026, Polymarket prices YES at 0.4%.
+As of July 02, 2026, Polymarket prices YES at 0.4%.
 
 ### Where can I trade on this prediction market?
 

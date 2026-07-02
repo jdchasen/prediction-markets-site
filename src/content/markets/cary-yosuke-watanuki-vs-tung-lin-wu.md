@@ -3,8 +3,8 @@ title: "Cary: Yosuke Watanuki vs Tung-Lin Wu"
 description: "Cary: Yosuke Watanuki vs Tung-Lin Wu Odds: 85.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Cary: Yosuke Watanuki vs Tung-Lin Wu"
 category: "politics"
-status: "active"
-lastUpdated: 2026-07-01
+status: "settled"
+lastUpdated: 2026-07-02
 expiryDate: 2026-07-09
 tags: ["politics", "polymarket"]
 polymarketYes: 85.5

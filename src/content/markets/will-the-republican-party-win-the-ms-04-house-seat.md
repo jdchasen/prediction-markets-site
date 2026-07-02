@@ -4,7 +4,7 @@ description: "Will the Republican Party win the MS-04 House seat? Odds: 93.7% YE
 marketQuestion: "Will the Republican Party win the MS-04 House seat?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-07-01
+lastUpdated: 2026-07-02
 expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
 polymarketYes: 93.7
@@ -23,13 +23,13 @@ polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-m
 
 - [Will Eduardo Bolsonaro win the 2026 Brazilian presidential election?](/odds/will-eduardo-bolsonaro-win-the-2026-brazilian-presidential-election) — 0% YES
 - [Will James Talarico win the 2028 Democratic presidential nomination?](/odds/will-james-talarico-win-the-2028-democratic-presidential-nomination) — 2% YES
-- [Will Donald Trump be the leader of Venezuela end of 2026?](/odds/will-donald-trump-be-the-leader-of-venezuela-end-of-2026) — 0% YES
+- [Will Keir Starmer be the next leader out before 2027?](/odds/will-keir-starmer-be-the-next-leader-out-before-2027) — 96% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will the Republican Party win the MS-04 House seat?"?
 
-As of July 01, 2026, Polymarket prices YES at 93.7%.
+As of July 02, 2026, Polymarket prices YES at 93.7%.
 
 ### Where can I trade on this prediction market?
 

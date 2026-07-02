@@ -3,8 +3,8 @@ title: "Will Jude Bellingham win the Golden Ball at the 2026 FIFA World Cup?"
 description: "Will Jude Bellingham win the Golden Ball at the 2026 FIFA World Cup? Odds: 2.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Jude Bellingham win the Golden Ball at the 2026 FIFA World Cup?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-07-01
+status: "settled"
+lastUpdated: 2026-07-02
 expiryDate: 2026-07-20
 tags: ["polymarket", "sports"]
 polymarketYes: 2.8

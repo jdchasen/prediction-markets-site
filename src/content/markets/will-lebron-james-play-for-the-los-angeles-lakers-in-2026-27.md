@@ -1,15 +1,15 @@
 ---
 title: "Will LeBron James play for the Los Angeles Lakers in 2026-27?"
-description: "Will LeBron James play for the Los Angeles Lakers in 2026-27? Odds: 68.0% YES on Polymarket. See live prices and trade this market."
+description: "Will LeBron James play for the Los Angeles Lakers in 2026-27? Odds: 1.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will LeBron James play for the Los Angeles Lakers in 2026-27?"
 category: "sports"
-status: "settled"
-lastUpdated: 2026-06-25
+status: "active"
+lastUpdated: 2026-07-02
 expiryDate: 2026-11-01
 tags: ["polymarket", "sports"]
-polymarketYes: 68.0
-polymarketNo: 32.0
-polymarketVolume: 9798
+polymarketYes: 1.1
+polymarketNo: 98.9
+polymarketVolume: 983650
 polymarketUrl: "https://polymarket.com/event/will-lebron-james-play-for-the-los-angeles-lakers-in-2026-27"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-lebron-james-play-for-the-los-
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 68.0% | 32.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 1.1% | 98.9% | $984K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will USA win the 2026 FIFA World Cup?](/odds/will-usa-win-the-2026-fifa-world-cup) — 4% YES
 - [Will Arizona Cardinals win the 2027 NFL NFC Championship?](/odds/will-arizona-cardinals-win-the-2027-nfl-nfc-championship) — 1% YES
-- [Will Baker Mayfield win the 2026 NFL MVP?](/odds/will-baker-mayfield-win-the-2026-nfl-mvp) — 1% YES
+- [Will the Jacksonville Jaguars win the 2027 NFL league championship?](/odds/will-the-jacksonville-jaguars-win-the-2027-nfl-league-championship) — 2% YES
+- [Will the Green Bay Packers win the 2027 NFL league championship?](/odds/will-the-green-bay-packers-win-the-2027-nfl-league-championship) — 2% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will LeBron James play for the Los Angeles Lakers in 2026-27?"?
 
-As of June 25, 2026, Polymarket prices YES at 68.0%.
+As of July 02, 2026, Polymarket prices YES at 1.1%.
 
 ### Where can I trade on this prediction market?
 

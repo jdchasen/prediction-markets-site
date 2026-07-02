@@ -3,8 +3,8 @@ title: "Will Sánchez win the 2nd round of the 2026 Peru presidential election b
 description: "Will Sánchez win the 2nd round of the 2026 Peru presidential election by 1%+? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Sánchez win the 2nd round of the 2026 Peru presidential election by 1%+?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-07-01
+status: "settled"
+lastUpdated: 2026-07-02
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.1
 polymarketNo: 100.0

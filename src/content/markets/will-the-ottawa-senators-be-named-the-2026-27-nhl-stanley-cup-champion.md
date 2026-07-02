@@ -4,12 +4,12 @@ description: "Will the Ottawa Senators be named the 2026-27 NHL Stanley Cup Cham
 marketQuestion: "Will the Ottawa Senators be named the 2026-27 NHL Stanley Cup Champion?"
 category: "sports"
 status: "active"
-lastUpdated: 2026-07-01
+lastUpdated: 2026-07-02
 expiryDate: 2027-07-01
 tags: ["polymarket", "sports"]
 polymarketYes: 1.5
 polymarketNo: 98.6
-polymarketVolume: 9831
+polymarketVolume: 9840
 polymarketUrl: "https://polymarket.com/event/will-the-ottawa-senators-be-named-the-2026-27-nhl-stanley-cup-champion-20260612185657092"
 ---
 
@@ -21,15 +21,15 @@ polymarketUrl: "https://polymarket.com/event/will-the-ottawa-senators-be-named-t
 
 ## Related Markets
 
+- [Will LeBron James play for the Los Angeles Lakers in 2026-27?](/odds/will-lebron-james-play-for-the-los-angeles-lakers-in-2026-27) — 1% YES
 - [Will Arizona Cardinals win the 2027 NFL NFC Championship?](/odds/will-arizona-cardinals-win-the-2027-nfl-nfc-championship) — 1% YES
 - [Will the Jacksonville Jaguars win the 2027 NFL league championship?](/odds/will-the-jacksonville-jaguars-win-the-2027-nfl-league-championship) — 2% YES
-- [Will the Green Bay Packers win the 2027 NFL league championship?](/odds/will-the-green-bay-packers-win-the-2027-nfl-league-championship) — 2% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will the Ottawa Senators be named the 2026-27 NHL Stanley Cup Champion?"?
 
-As of July 01, 2026, Polymarket prices YES at 1.5%.
+As of July 02, 2026, Polymarket prices YES at 1.5%.
 
 ### Where can I trade on this prediction market?
 

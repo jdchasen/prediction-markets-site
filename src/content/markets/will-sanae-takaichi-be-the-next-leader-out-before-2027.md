@@ -3,8 +3,8 @@ title: "Will Sanae Takaichi be the next leader out before 2027?"
 description: "Will Sanae Takaichi be the next leader out before 2027? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Sanae Takaichi be the next leader out before 2027?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-07-01
+status: "settled"
+lastUpdated: 2026-07-02
 expiryDate: 2026-12-31
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 0.1

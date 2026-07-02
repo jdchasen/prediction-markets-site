@@ -3,8 +3,8 @@ title: "Will WTI Crude Oil (WTI) hit (HIGH) $110 in July?"
 description: "Will WTI Crude Oil (WTI) hit (HIGH) $110 in July? Odds: 0.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will WTI Crude Oil (WTI) hit (HIGH) $110 in July?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-07-01
+status: "settled"
+lastUpdated: 2026-07-02
 expiryDate: 2026-08-01
 tags: ["politics", "polymarket"]
 polymarketYes: 0.8
