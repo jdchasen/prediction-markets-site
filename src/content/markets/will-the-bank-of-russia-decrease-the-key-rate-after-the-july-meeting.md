@@ -3,7 +3,7 @@ title: "Will the Bank of Russia decrease the key rate after the July Meeting?"
 description: "Will the Bank of Russia decrease the key rate after the July Meeting? Odds: 54.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Bank of Russia decrease the key rate after the July Meeting?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-07-02
 expiryDate: 2026-07-24
 tags: ["politics", "polymarket"]

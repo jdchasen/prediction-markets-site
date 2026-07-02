@@ -3,7 +3,7 @@ title: "Will Australia reach the Quarterfinals at the 2026 FIFA World Cup?"
 description: "Will Australia reach the Quarterfinals at the 2026 FIFA World Cup? Odds: 5.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Australia reach the Quarterfinals at the 2026 FIFA World Cup?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-07-02
 tags: ["polymarket", "sports"]
 polymarketYes: 5.1

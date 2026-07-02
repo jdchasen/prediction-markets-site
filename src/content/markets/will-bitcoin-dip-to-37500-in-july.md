@@ -3,7 +3,7 @@ title: "Will Bitcoin dip to $37,500 in July?"
 description: "Will Bitcoin dip to $37,500 in July? Odds: 0.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Bitcoin dip to $37,500 in July?"
 category: "crypto"
-status: "active"
+status: "settled"
 lastUpdated: 2026-07-02
 expiryDate: 2026-08-01
 tags: ["bitcoin", "crypto", "polymarket"]

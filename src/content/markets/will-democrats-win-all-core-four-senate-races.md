@@ -3,7 +3,7 @@ title: "Will Democrats win all \"core four\" senate races?"
 description: "Will Democrats win all \"core four\" senate races? Odds: 47.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Democrats win all \"core four\" senate races?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-07-02
 expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]

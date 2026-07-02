@@ -3,7 +3,7 @@ title: "Set 1 Winner: Bergs vs Faria"
 description: "Set 1 Winner: Bergs vs Faria Odds: 100.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Set 1 Winner: Bergs vs Faria"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-07-02
 expiryDate: 2026-07-09
 tags: ["politics", "polymarket"]

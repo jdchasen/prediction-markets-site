@@ -21,9 +21,9 @@ polymarketUrl: "https://polymarket.com/event/will-arizona-cardinals-win-the-2027
 
 ## Related Markets
 
-- [Will LeBron James play for the Los Angeles Lakers in 2026-27?](/odds/will-lebron-james-play-for-the-los-angeles-lakers-in-2026-27) — 1% YES
 - [Will the Jacksonville Jaguars win the 2027 NFL league championship?](/odds/will-the-jacksonville-jaguars-win-the-2027-nfl-league-championship) — 2% YES
 - [Will the Green Bay Packers win the 2027 NFL league championship?](/odds/will-the-green-bay-packers-win-the-2027-nfl-league-championship) — 2% YES
+- [Will the Los Angeles Chargers win the 2027 NFL league championship?](/odds/will-the-los-angeles-chargers-win-the-2027-nfl-league-championship) — 4% YES
 
 ## Frequently Asked Questions
 

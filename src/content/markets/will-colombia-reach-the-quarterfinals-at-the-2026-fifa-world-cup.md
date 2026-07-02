@@ -3,7 +3,7 @@ title: "Will Colombia reach the Quarterfinals at the 2026 FIFA World Cup?"
 description: "Will Colombia reach the Quarterfinals at the 2026 FIFA World Cup? Odds: 52.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Colombia reach the Quarterfinals at the 2026 FIFA World Cup?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-07-02
 tags: ["polymarket", "sports"]
 polymarketYes: 52.5

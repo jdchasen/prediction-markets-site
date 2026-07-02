@@ -9,7 +9,7 @@ expiryDate: 2028-11-07
 tags: ["politics", "polymarket"]
 polymarketYes: 1.5
 polymarketNo: 98.6
-polymarketVolume: 9884650
+polymarketVolume: 9885007
 polymarketUrl: "https://polymarket.com/event/will-james-talarico-win-the-2028-democratic-presidential-nomination"
 ---
 
@@ -22,7 +22,7 @@ polymarketUrl: "https://polymarket.com/event/will-james-talarico-win-the-2028-de
 ## Related Markets
 
 - [Will Eduardo Bolsonaro win the 2026 Brazilian presidential election?](/odds/will-eduardo-bolsonaro-win-the-2026-brazilian-presidential-election) — 0% YES
-- [Will Keir Starmer be the next leader out before 2027?](/odds/will-keir-starmer-be-the-next-leader-out-before-2027) — 96% YES
+- [Will Keir Starmer be the next leader out before 2027?](/odds/will-keir-starmer-be-the-next-leader-out-before-2027) — 97% YES
 - [Will Donald Trump be the leader of Venezuela end of 2026?](/odds/will-donald-trump-be-the-leader-of-venezuela-end-of-2026) — 0% YES
 
 ## Frequently Asked Questions
