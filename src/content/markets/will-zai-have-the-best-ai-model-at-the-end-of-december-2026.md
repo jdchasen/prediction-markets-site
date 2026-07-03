@@ -3,8 +3,8 @@ title: "Will Z.ai have the best AI model at the end of December 2026?"
 description: "Will Z.ai have the best AI model at the end of December 2026? Odds: 0.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Z.ai have the best AI model at the end of December 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-07-02
+status: "settled"
+lastUpdated: 2026-07-03
 expiryDate: 2026-12-31
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 0.8

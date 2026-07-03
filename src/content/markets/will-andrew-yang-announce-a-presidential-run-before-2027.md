@@ -3,8 +3,8 @@ title: "Will Andrew Yang announce a Presidential run before 2027?"
 description: "Will Andrew Yang announce a Presidential run before 2027? Odds: 10.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Andrew Yang announce a Presidential run before 2027?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-07-02
+status: "settled"
+lastUpdated: 2026-07-03
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 10.2

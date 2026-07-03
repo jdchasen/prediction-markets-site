@@ -1,14 +1,14 @@
 ---
 title: "Will JP Morgan (JPM) Q2 investment banking fees be above $2.55B?"
-description: "Will JP Morgan (JPM) Q2 investment banking fees be above $2.55B? Odds: 97.2% YES on Polymarket. See live prices and trade this market."
+description: "Will JP Morgan (JPM) Q2 investment banking fees be above $2.55B? Odds: 97.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will JP Morgan (JPM) Q2 investment banking fees be above $2.55B?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-07-02
+lastUpdated: 2026-07-03
 expiryDate: 2026-07-14
 tags: ["politics", "polymarket"]
-polymarketYes: 97.2
-polymarketNo: 2.8
+polymarketYes: 97.0
+polymarketNo: 2.9
 polymarketVolume: 9803
 polymarketUrl: "https://polymarket.com/event/will-jp-morgan-jpm-q2-investment-banking-fees-be-above-2pt55b"
 ---
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-jp-morgan-jpm-q2-investment-ba
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 97.2% | 2.8% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 97.0% | 2.9% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-jp-morgan-jpm-q2-investment-ba
 
 ### What are the current odds for "Will JP Morgan (JPM) Q2 investment banking fees be above $2.55B?"?
 
-As of July 02, 2026, Polymarket prices YES at 97.2%.
+As of July 03, 2026, Polymarket prices YES at 97.0%.
 
 ### Where can I trade on this prediction market?
 

@@ -3,8 +3,8 @@ title: "Will Morocco reach the Quarterfinals at the 2026 FIFA World Cup?"
 description: "Will Morocco reach the Quarterfinals at the 2026 FIFA World Cup? Odds: 71.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Morocco reach the Quarterfinals at the 2026 FIFA World Cup?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-07-02
+status: "settled"
+lastUpdated: 2026-07-03
 tags: ["polymarket", "sports"]
 polymarketYes: 71.5
 polymarketNo: 28.5

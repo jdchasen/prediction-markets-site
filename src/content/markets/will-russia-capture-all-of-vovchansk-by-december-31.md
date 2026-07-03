@@ -1,15 +1,15 @@
 ---
 title: "Will Russia capture all of Vovchansk by December 31?"
-description: "Will Russia capture all of Vovchansk by December 31? Odds: 44.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Russia capture all of Vovchansk by December 31? Odds: 45.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Russia capture all of Vovchansk by December 31?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-07-02
+lastUpdated: 2026-07-03
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 44.5
-polymarketNo: 55.5
-polymarketVolume: 9781
+polymarketYes: 45.0
+polymarketNo: 55.0
+polymarketVolume: 9789
 polymarketUrl: "https://polymarket.com/event/will-russia-capture-all-of-vovchansk-by-december-31-464"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-russia-capture-all-of-vovchans
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 44.5% | 55.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 45.0% | 55.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-russia-capture-all-of-vovchans
 
 ### What are the current odds for "Will Russia capture all of Vovchansk by December 31?"?
 
-As of July 02, 2026, Polymarket prices YES at 44.5%.
+As of July 03, 2026, Polymarket prices YES at 45.0%.
 
 ### Where can I trade on this prediction market?
 

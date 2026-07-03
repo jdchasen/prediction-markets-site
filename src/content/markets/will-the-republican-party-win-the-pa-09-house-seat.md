@@ -4,7 +4,7 @@ description: "Will the Republican Party win the PA-09 House seat? Odds: 94.3% YE
 marketQuestion: "Will the Republican Party win the PA-09 House seat?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-07-02
+lastUpdated: 2026-07-03
 expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
 polymarketYes: 94.3
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-p
 
 ### What are the current odds for "Will the Republican Party win the PA-09 House seat?"?
 
-As of July 02, 2026, Polymarket prices YES at 94.3%.
+As of July 03, 2026, Polymarket prices YES at 94.3%.
 
 ### Where can I trade on this prediction market?
 

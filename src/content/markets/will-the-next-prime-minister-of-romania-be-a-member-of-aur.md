@@ -3,8 +3,8 @@ title: "Will the next Prime Minister of Romania be a member of AUR?"
 description: "Will the next Prime Minister of Romania be a member of AUR? Odds: 2.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the next Prime Minister of Romania be a member of AUR?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-07-02
+status: "settled"
+lastUpdated: 2026-07-03
 expiryDate: 2027-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 2.1

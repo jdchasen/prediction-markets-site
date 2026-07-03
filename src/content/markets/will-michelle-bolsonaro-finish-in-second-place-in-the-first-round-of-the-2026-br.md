@@ -1,15 +1,15 @@
 ---
 title: "Will Michelle Bolsonaro finish in second place in the first round of the 2026 Brazilian presidential election?"
-description: "Will Michelle Bolsonaro finish in second place in the first round of the 2026 Brazilian presidential election? Odds: 1.1% YES on Polymarket. See live prices ..."
+description: "Will Michelle Bolsonaro finish in second place in the first round of the 2026 Brazilian presidential election? Odds: 1.0% YES on Polymarket. See live prices ..."
 marketQuestion: "Will Michelle Bolsonaro finish in second place in the first round of the 2026 Brazilian presidential election?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-07-02
+lastUpdated: 2026-07-03
 expiryDate: 2026-10-04
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 1.1
-polymarketNo: 98.9
-polymarketVolume: 98160
+polymarketYes: 1.0
+polymarketNo: 99.0
+polymarketVolume: 98474
 polymarketUrl: "https://polymarket.com/event/will-michelle-bolsonaro-finish-in-second-place-in-the-first-round-of-the-2026-brazilian-presidential-election"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-michelle-bolsonaro-finish-in-s
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 1.1% | 98.9% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 1.0% | 99.0% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-michelle-bolsonaro-finish-in-s
 
 ### What are the current odds for "Will Michelle Bolsonaro finish in second place in the first round of the 2026 Brazilian presidential election?"?
 
-As of July 02, 2026, Polymarket prices YES at 1.1%.
+As of July 03, 2026, Polymarket prices YES at 1.0%.
 
 ### Where can I trade on this prediction market?
 

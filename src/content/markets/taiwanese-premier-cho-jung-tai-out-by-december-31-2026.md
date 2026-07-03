@@ -4,7 +4,7 @@ description: "Taiwanese Premier Cho Jung-tai out by December 31, 2026? Odds: 13.
 marketQuestion: "Taiwanese Premier Cho Jung-tai out by December 31, 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-07-02
+lastUpdated: 2026-07-03
 expiryDate: 2026-12-31
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 13.0
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/taiwanese-premier-cho-jung-tai-out-
 
 ### What are the current odds for "Taiwanese Premier Cho Jung-tai out by December 31, 2026?"?
 
-As of July 02, 2026, Polymarket prices YES at 13.0%.
+As of July 03, 2026, Polymarket prices YES at 13.0%.
 
 ### Where can I trade on this prediction market?
 

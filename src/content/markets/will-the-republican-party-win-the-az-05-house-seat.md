@@ -4,7 +4,7 @@ description: "Will the Republican Party win the AZ-05 House seat? Odds: 84.5% YE
 marketQuestion: "Will the Republican Party win the AZ-05 House seat?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-07-02
+lastUpdated: 2026-07-03
 expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
 polymarketYes: 84.5
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-a
 
 ### What are the current odds for "Will the Republican Party win the AZ-05 House seat?"?
 
-As of July 02, 2026, Polymarket prices YES at 84.5%.
+As of July 03, 2026, Polymarket prices YES at 84.5%.
 
 ### Where can I trade on this prediction market?
 

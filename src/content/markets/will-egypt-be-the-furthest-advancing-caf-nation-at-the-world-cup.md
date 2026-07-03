@@ -3,8 +3,8 @@ title: "Will Egypt be the furthest advancing CAF nation at the World Cup?"
 description: "Will Egypt be the furthest advancing CAF nation at the World Cup? Odds: 6.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Egypt be the furthest advancing CAF nation at the World Cup?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-07-02
+status: "settled"
+lastUpdated: 2026-07-03
 expiryDate: 2026-07-20
 tags: ["polymarket", "sports"]
 polymarketYes: 6.2

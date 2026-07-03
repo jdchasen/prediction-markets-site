@@ -3,8 +3,8 @@ title: "Will Brazil reach the 2026 FIFA World Cup final?"
 description: "Will Brazil reach the 2026 FIFA World Cup final? Odds: 18.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Brazil reach the 2026 FIFA World Cup final?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-07-02
+status: "settled"
+lastUpdated: 2026-07-03
 expiryDate: 2026-07-20
 tags: ["polymarket", "sports"]
 polymarketYes: 18.5

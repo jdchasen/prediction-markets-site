@@ -4,7 +4,7 @@ description: "Will the Republican Party win the TX-31 House seat? Odds: 85.5% YE
 marketQuestion: "Will the Republican Party win the TX-31 House seat?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-07-02
+lastUpdated: 2026-07-03
 expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
 polymarketYes: 85.5
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-t
 
 ### What are the current odds for "Will the Republican Party win the TX-31 House seat?"?
 
-As of July 02, 2026, Polymarket prices YES at 85.5%.
+As of July 03, 2026, Polymarket prices YES at 85.5%.
 
 ### Where can I trade on this prediction market?
 

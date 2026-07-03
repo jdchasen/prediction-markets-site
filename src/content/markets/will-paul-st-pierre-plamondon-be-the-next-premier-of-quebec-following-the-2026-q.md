@@ -3,8 +3,8 @@ title: "Will Paul St-Pierre Plamondon be the next Premier of Quebec following th
 description: "Will Paul St-Pierre Plamondon be the next Premier of Quebec following the 2026 Quebec general election? Odds: 64.0% YES on Polymarket. See live prices and tr..."
 marketQuestion: "Will Paul St-Pierre Plamondon be the next Premier of Quebec following the 2026 Quebec general election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-07-02
+status: "settled"
+lastUpdated: 2026-07-03
 expiryDate: 2026-10-05
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 64.0

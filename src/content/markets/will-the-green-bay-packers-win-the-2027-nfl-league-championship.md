@@ -4,12 +4,12 @@ description: "Will the Green Bay Packers win the 2027 NFL league championship? O
 marketQuestion: "Will the Green Bay Packers win the 2027 NFL league championship?"
 category: "sports"
 status: "active"
-lastUpdated: 2026-07-02
+lastUpdated: 2026-07-03
 expiryDate: 2027-03-31
 tags: ["polymarket", "sports"]
 polymarketYes: 2.5
 polymarketNo: 97.5
-polymarketVolume: 981074
+polymarketVolume: 984229
 polymarketUrl: "https://polymarket.com/event/will-the-green-bay-packers-win-the-2027-nfl-league-championship"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-the-green-bay-packers-win-the-
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 2.5% | 97.5% | $981K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 2.5% | 97.5% | $984K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will the Jacksonville Jaguars win the 2027 NFL league championship?](/odds/will-the-jacksonville-jaguars-win-the-2027-nfl-league-championship) — 2% YES
-- [Will Arizona Cardinals win the 2027 NFL NFC Championship?](/odds/will-arizona-cardinals-win-the-2027-nfl-nfc-championship) — 1% YES
-- [Will the Los Angeles Chargers win the 2027 NFL league championship?](/odds/will-the-los-angeles-chargers-win-the-2027-nfl-league-championship) — 4% YES
+- [Will Cape Verde win the 2026 FIFA World Cup?](/odds/will-cape-verde-win-the-2026-fifa-world-cup) — 0% YES
+- [Will Belgium win the 2026 FIFA World Cup?](/odds/will-belgium-win-the-2026-fifa-world-cup) — 1% YES
+- [Will the Denver Broncos win the 2027 NFL league championship?](/odds/will-the-denver-broncos-win-the-2027-nfl-league-championship) — 4% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will the Green Bay Packers win the 2027 NFL league championship?"?
 
-As of July 02, 2026, Polymarket prices YES at 2.5%.
+As of July 03, 2026, Polymarket prices YES at 2.5%.
 
 ### Where can I trade on this prediction market?
 

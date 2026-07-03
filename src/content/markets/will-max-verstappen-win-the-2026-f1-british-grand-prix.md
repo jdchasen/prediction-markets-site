@@ -3,8 +3,8 @@ title: "Will Max Verstappen win the 2026 F1 British Grand Prix?"
 description: "Will Max Verstappen win the 2026 F1 British Grand Prix? Odds: 14.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Max Verstappen win the 2026 F1 British Grand Prix?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-07-02
+status: "settled"
+lastUpdated: 2026-07-03
 expiryDate: 2026-07-12
 tags: ["polymarket", "sports"]
 polymarketYes: 14.0

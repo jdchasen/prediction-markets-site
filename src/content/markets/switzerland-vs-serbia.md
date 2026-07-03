@@ -3,8 +3,8 @@ title: "Switzerland vs. Serbia"
 description: "Switzerland vs. Serbia Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Switzerland vs. Serbia"
 category: "politics"
-status: "active"
-lastUpdated: 2026-07-02
+status: "settled"
+lastUpdated: 2026-07-03
 expiryDate: 2026-07-09
 tags: ["politics", "polymarket"]
 polymarketYes: 0.1

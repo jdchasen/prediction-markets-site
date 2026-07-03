@@ -1,15 +1,15 @@
 ---
 title: "Will the Democratic Party win the MD-06 House seat?"
-description: "Will the Democratic Party win the MD-06 House seat? Odds: 93.5% YES on Polymarket. See live prices and trade this market."
+description: "Will the Democratic Party win the MD-06 House seat? Odds: 92.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Democratic Party win the MD-06 House seat?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-07-02
+lastUpdated: 2026-07-03
 expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
-polymarketYes: 93.5
-polymarketNo: 6.5
-polymarketVolume: 9735
+polymarketYes: 92.5
+polymarketNo: 7.5
+polymarketVolume: 9902
 polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-md-06-house-seat"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-m
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 93.5% | 6.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 92.5% | 7.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-m
 
 ### What are the current odds for "Will the Democratic Party win the MD-06 House seat?"?
 
-As of July 02, 2026, Polymarket prices YES at 93.5%.
+As of July 03, 2026, Polymarket prices YES at 92.5%.
 
 ### Where can I trade on this prediction market?
 

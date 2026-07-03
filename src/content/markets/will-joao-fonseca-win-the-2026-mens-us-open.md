@@ -4,7 +4,7 @@ description: "Will Joao Fonseca win the 2026 Men's US Open? Odds: 2.9% YES on Po
 marketQuestion: "Will Joao Fonseca win the 2026 Men's US Open?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-07-02
+lastUpdated: 2026-07-03
 expiryDate: 2026-09-13
 tags: ["politics", "polymarket"]
 polymarketYes: 2.9
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-joao-fonseca-win-the-2026-mens
 
 ### What are the current odds for "Will Joao Fonseca win the 2026 Men's US Open?"?
 
-As of July 02, 2026, Polymarket prices YES at 2.9%.
+As of July 03, 2026, Polymarket prices YES at 2.9%.
 
 ### Where can I trade on this prediction market?
 

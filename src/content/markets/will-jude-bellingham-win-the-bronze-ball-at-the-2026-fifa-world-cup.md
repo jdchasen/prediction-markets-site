@@ -3,13 +3,13 @@ title: "Will Jude Bellingham win the Bronze Ball at the 2026 FIFA World Cup?"
 description: "Will Jude Bellingham win the Bronze Ball at the 2026 FIFA World Cup? Odds: 1.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Jude Bellingham win the Bronze Ball at the 2026 FIFA World Cup?"
 category: "sports"
-status: "settled"
-lastUpdated: 2026-07-01
+status: "active"
+lastUpdated: 2026-07-03
 expiryDate: 2026-07-20
 tags: ["polymarket", "sports"]
 polymarketYes: 1.8
 polymarketNo: 98.2
-polymarketVolume: 9721
+polymarketVolume: 9750
 polymarketUrl: "https://polymarket.com/event/will-jude-bellingham-win-the-bronze-ball-at-the-2026-fifa-world-cup-20260603194939952"
 ---
 
@@ -21,15 +21,15 @@ polymarketUrl: "https://polymarket.com/event/will-jude-bellingham-win-the-bronze
 
 ## Related Markets
 
-- [Will Egypt win the 2026 FIFA World Cup?](/odds/will-egypt-win-the-2026-fifa-world-cup) — 0% YES
-- [Will Vinicius Junior be the top goalscorer at the 2026 FIFA World Cup?](/odds/will-vinicius-junior-be-the-top-goalscorer-at-the-2026-fifa-world-cup) — 2% YES
-- [Will Arizona Cardinals win the 2027 NFL NFC Championship?](/odds/will-arizona-cardinals-win-the-2027-nfl-nfc-championship) — 1% YES
+- [Will Cape Verde win the 2026 FIFA World Cup?](/odds/will-cape-verde-win-the-2026-fifa-world-cup) — 0% YES
+- [Will Belgium win the 2026 FIFA World Cup?](/odds/will-belgium-win-the-2026-fifa-world-cup) — 1% YES
+- [Will the Denver Broncos win the 2027 NFL league championship?](/odds/will-the-denver-broncos-win-the-2027-nfl-league-championship) — 4% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Jude Bellingham win the Bronze Ball at the 2026 FIFA World Cup?"?
 
-As of June 30, 2026, Polymarket prices YES at 1.8%.
+As of July 03, 2026, Polymarket prices YES at 1.8%.
 
 ### Where can I trade on this prediction market?
 

@@ -1,15 +1,15 @@
 ---
 title: "Will Marsha Blackburn win the 2026 Tennessee Governor Republican primary election?"
-description: "Will Marsha Blackburn win the 2026 Tennessee Governor Republican primary election? Odds: 96.4% YES on Polymarket. See live prices and trade this market."
+description: "Will Marsha Blackburn win the 2026 Tennessee Governor Republican primary election? Odds: 96.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Marsha Blackburn win the 2026 Tennessee Governor Republican primary election?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-07-02
+lastUpdated: 2026-07-03
 expiryDate: 2026-08-06
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 96.4
-polymarketNo: 3.6
-polymarketVolume: 9789
+polymarketYes: 96.7
+polymarketNo: 3.3
+polymarketVolume: 9932
 polymarketUrl: "https://polymarket.com/event/will-marsha-blackburn-win-the-2026-tennessee-governor-republican-primary-election"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-marsha-blackburn-win-the-2026-
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 96.4% | 3.6% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 96.7% | 3.3% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-marsha-blackburn-win-the-2026-
 
 ### What are the current odds for "Will Marsha Blackburn win the 2026 Tennessee Governor Republican primary election?"?
 
-As of July 02, 2026, Polymarket prices YES at 96.4%.
+As of July 03, 2026, Polymarket prices YES at 96.7%.
 
 ### Where can I trade on this prediction market?
 

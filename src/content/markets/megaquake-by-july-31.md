@@ -3,8 +3,8 @@ title: "Megaquake by July 31?"
 description: "Megaquake by July 31? Odds: 15.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Megaquake by July 31?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-07-02
+status: "settled"
+lastUpdated: 2026-07-03
 expiryDate: 2026-07-31
 tags: ["politics", "polymarket"]
 polymarketYes: 15.0

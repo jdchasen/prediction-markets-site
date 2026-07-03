@@ -3,8 +3,8 @@ title: "Will \"Spider-Man: Brand New Day\" Opening Weekend Box Office be between
 description: "Will \"Spider-Man: Brand New Day\" Opening Weekend Box Office be between 200m and 220m? Odds: 8.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will \"Spider-Man: Brand New Day\" Opening Weekend Box Office be between 200m and 220m?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-07-02
+status: "settled"
+lastUpdated: 2026-07-03
 expiryDate: 2026-08-02
 tags: ["politics", "polymarket"]
 polymarketYes: 8.0

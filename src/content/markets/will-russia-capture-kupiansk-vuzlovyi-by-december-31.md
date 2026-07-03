@@ -3,8 +3,8 @@ title: "Will Russia capture Kupiansk-Vuzlovyi by December 31?"
 description: "Will Russia capture Kupiansk-Vuzlovyi by December 31? Odds: 45.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Russia capture Kupiansk-Vuzlovyi by December 31?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-07-02
+status: "settled"
+lastUpdated: 2026-07-03
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 45.5

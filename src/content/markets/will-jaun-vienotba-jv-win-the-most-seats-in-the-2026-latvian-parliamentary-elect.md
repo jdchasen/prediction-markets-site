@@ -4,12 +4,12 @@ description: "Will Jaunā Vienotība (JV) win the most seats in the 2026 Latvian
 marketQuestion: "Will Jaunā Vienotība (JV) win the most seats in the 2026 Latvian parliamentary election?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-07-02
+lastUpdated: 2026-07-03
 expiryDate: 2026-10-03
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 6.5
 polymarketNo: 93.5
-polymarketVolume: 9804
+polymarketVolume: 9924
 polymarketUrl: "https://polymarket.com/event/will-jaun-vienotba-jv-win-the-most-seats-in-the-2026-latvian-parliamentary-election"
 ---
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-jaun-vienotba-jv-win-the-most-
 
 ### What are the current odds for "Will Jaunā Vienotība (JV) win the most seats in the 2026 Latvian parliamentary election?"?
 
-As of July 02, 2026, Polymarket prices YES at 6.5%.
+As of July 03, 2026, Polymarket prices YES at 6.5%.
 
 ### Where can I trade on this prediction market?
 

@@ -1,15 +1,15 @@
 ---
 title: "Will Seth Moulton be the Democratic nominee for Senate in Massachusetts?"
-description: "Will Seth Moulton be the Democratic nominee for Senate in Massachusetts? Odds: 20.0% YES on Polymarket. See live prices and trade this market."
+description: "Will Seth Moulton be the Democratic nominee for Senate in Massachusetts? Odds: 18.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Seth Moulton be the Democratic nominee for Senate in Massachusetts?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-07-02
+lastUpdated: 2026-07-03
 expiryDate: 2026-09-01
 tags: ["ethereum", "politics", "polymarket"]
-polymarketYes: 20.0
-polymarketNo: 80.0
-polymarketVolume: 9764
+polymarketYes: 18.5
+polymarketNo: 81.5
+polymarketVolume: 9964
 polymarketUrl: "https://polymarket.com/event/will-seth-moulton-be-the-democratic-nominee-for-senate-in-massachusetts"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-seth-moulton-be-the-democratic
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 20.0% | 80.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 18.5% | 81.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-seth-moulton-be-the-democratic
 
 ### What are the current odds for "Will Seth Moulton be the Democratic nominee for Senate in Massachusetts?"?
 
-As of July 02, 2026, Polymarket prices YES at 20.0%.
+As of July 03, 2026, Polymarket prices YES at 18.5%.
 
 ### Where can I trade on this prediction market?
 
