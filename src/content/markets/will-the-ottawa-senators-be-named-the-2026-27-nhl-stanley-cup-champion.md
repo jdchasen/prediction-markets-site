@@ -3,7 +3,7 @@ title: "Will the Ottawa Senators be named the 2026-27 NHL Stanley Cup Champion?"
 description: "Will the Ottawa Senators be named the 2026-27 NHL Stanley Cup Champion? Odds: 1.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Ottawa Senators be named the 2026-27 NHL Stanley Cup Champion?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-07-03
 expiryDate: 2027-07-01
 tags: ["polymarket", "sports"]

@@ -9,7 +9,7 @@ expiryDate: 2027-01-01
 tags: ["bitcoin", "crypto", "polymarket"]
 polymarketYes: 5.5
 polymarketNo: 94.5
-polymarketVolume: 987271
+polymarketVolume: 987399
 polymarketUrl: "https://polymarket.com/event/will-bitcoin-reach-120000-by-december-31-2026-625-425-562"
 ---
 

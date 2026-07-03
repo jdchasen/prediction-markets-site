@@ -3,7 +3,7 @@ title: "Strait of Hormuz traffic returns to normal by July 7?"
 description: "Strait of Hormuz traffic returns to normal by July 7? Odds: 0.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Strait of Hormuz traffic returns to normal by July 7?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-07-03
 expiryDate: 2026-07-07
 tags: ["ai", "politics", "polymarket"]

@@ -9,7 +9,7 @@ expiryDate: 2026-12-31
 tags: ["politics", "polymarket", "trump"]
 polymarketYes: 0.1
 polymarketNo: 99.9
-polymarketVolume: 994635
+polymarketVolume: 994706
 polymarketUrl: "https://polymarket.com/event/will-donald-trump-be-the-leader-of-venezuela-end-of-2026"
 ---
 
@@ -21,9 +21,9 @@ polymarketUrl: "https://polymarket.com/event/will-donald-trump-be-the-leader-of-
 
 ## Related Markets
 
-- [Will Eduardo Bolsonaro win the 2026 Brazilian presidential election?](/odds/will-eduardo-bolsonaro-win-the-2026-brazilian-presidential-election) — 0% YES
 - [Will James Talarico win the 2028 Democratic presidential nomination?](/odds/will-james-talarico-win-the-2028-democratic-presidential-nomination) — 2% YES
-- [Will Keir Starmer be the next leader out before 2027?](/odds/will-keir-starmer-be-the-next-leader-out-before-2027) — 97% YES
+- [Will there be no Head of State in Iran end of 2026?](/odds/will-there-be-no-head-of-state-in-iran-end-of-2026) — 2% YES
+- [Will no next Prime Minister of the United Kingdom be appointed in 2026?](/odds/will-no-next-prime-minister-of-the-united-kingdom-be-appointed-in-2026) — 0% YES
 
 ## Frequently Asked Questions
 

@@ -3,7 +3,7 @@ title: "Will Andrew Tate attend Taylor Swift's wedding?"
 description: "Will Andrew Tate attend Taylor Swift's wedding? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Andrew Tate attend Taylor Swift's wedding?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-07-03
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]

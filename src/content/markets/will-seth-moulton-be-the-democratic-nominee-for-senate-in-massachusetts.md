@@ -3,7 +3,7 @@ title: "Will Seth Moulton be the Democratic nominee for Senate in Massachusetts?
 description: "Will Seth Moulton be the Democratic nominee for Senate in Massachusetts? Odds: 18.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Seth Moulton be the Democratic nominee for Senate in Massachusetts?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-07-03
 expiryDate: 2026-09-01
 tags: ["ethereum", "politics", "polymarket"]

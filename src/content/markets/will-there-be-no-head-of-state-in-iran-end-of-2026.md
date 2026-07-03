@@ -1,15 +1,15 @@
 ---
 title: "Will there be no Head of State in Iran end of 2026?"
-description: "Will there be no Head of State in Iran end of 2026? Odds: 2.1% YES on Polymarket. See live prices and trade this market."
+description: "Will there be no Head of State in Iran end of 2026? Odds: 2.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will there be no Head of State in Iran end of 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-07-03
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 2.1
-polymarketNo: 97.9
-polymarketVolume: 988913
+polymarketYes: 2.5
+polymarketNo: 97.5
+polymarketVolume: 989111
 polymarketUrl: "https://polymarket.com/event/will-there-be-no-head-of-state-in-iran-end-of-2026"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-there-be-no-head-of-state-in-i
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 2.1% | 97.9% | $989K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 2.5% | 97.5% | $989K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Eduardo Bolsonaro win the 2026 Brazilian presidential election?](/odds/will-eduardo-bolsonaro-win-the-2026-brazilian-presidential-election) — 0% YES
 - [Will James Talarico win the 2028 Democratic presidential nomination?](/odds/will-james-talarico-win-the-2028-democratic-presidential-nomination) — 2% YES
-- [Will Keir Starmer be the next leader out before 2027?](/odds/will-keir-starmer-be-the-next-leader-out-before-2027) — 97% YES
+- [Will Donald Trump be the leader of Venezuela end of 2026?](/odds/will-donald-trump-be-the-leader-of-venezuela-end-of-2026) — 0% YES
+- [Will no next Prime Minister of the United Kingdom be appointed in 2026?](/odds/will-no-next-prime-minister-of-the-united-kingdom-be-appointed-in-2026) — 0% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will there be no Head of State in Iran end of 2026?"?
 
-As of July 03, 2026, Polymarket prices YES at 2.1%.
+As of July 03, 2026, Polymarket prices YES at 2.5%.
 
 ### Where can I trade on this prediction market?
 

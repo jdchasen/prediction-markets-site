@@ -3,7 +3,7 @@ title: "Will Blake Lively attend Taylor Swift's wedding?"
 description: "Will Blake Lively attend Taylor Swift's wedding? Odds: 18.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Blake Lively attend Taylor Swift's wedding?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-07-03
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]

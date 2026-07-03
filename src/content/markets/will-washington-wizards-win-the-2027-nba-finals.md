@@ -9,7 +9,7 @@ expiryDate: 2027-07-01
 tags: ["polymarket", "sports"]
 polymarketYes: 1.5
 polymarketNo: 98.6
-polymarketVolume: 97594
+polymarketVolume: 97928
 polymarketUrl: "https://polymarket.com/event/will-washington-wizards-win-the-2027-nba-finals"
 ---
 
@@ -21,8 +21,8 @@ polymarketUrl: "https://polymarket.com/event/will-washington-wizards-win-the-202
 
 ## Related Markets
 
-- [Will Cape Verde win the 2026 FIFA World Cup?](/odds/will-cape-verde-win-the-2026-fifa-world-cup) — 0% YES
 - [Will Belgium win the 2026 FIFA World Cup?](/odds/will-belgium-win-the-2026-fifa-world-cup) — 1% YES
+- [Will Canada win the 2026 FIFA World Cup?](/odds/will-canada-win-the-2026-fifa-world-cup) — 0% YES
 - [Will the Denver Broncos win the 2027 NFL league championship?](/odds/will-the-denver-broncos-win-the-2027-nfl-league-championship) — 4% YES
 
 ## Frequently Asked Questions

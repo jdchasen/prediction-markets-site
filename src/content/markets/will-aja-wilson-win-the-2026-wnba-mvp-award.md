@@ -3,7 +3,7 @@ title: "Will A'ja Wilson win the 2026 WNBA MVP award?"
 description: "Will A'ja Wilson win the 2026 WNBA MVP award? Odds: 84.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will A'ja Wilson win the 2026 WNBA MVP award?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-07-03
 expiryDate: 2026-09-25
 tags: ["politics", "polymarket", "sports"]
