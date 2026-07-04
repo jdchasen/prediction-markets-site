@@ -3,8 +3,8 @@ title: "Will China unban Bitcoin by 2027?"
 description: "Will China unban Bitcoin by 2027? Odds: 2.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will China unban Bitcoin by 2027?"
 category: "crypto"
-status: "active"
-lastUpdated: 2026-07-03
+status: "settled"
+lastUpdated: 2026-07-04
 expiryDate: 2026-12-31
 tags: ["bitcoin", "crypto", "polymarket", "sports"]
 polymarketYes: 2.9

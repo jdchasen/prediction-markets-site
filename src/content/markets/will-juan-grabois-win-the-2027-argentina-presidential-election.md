@@ -4,7 +4,7 @@ description: "Will Juan Grabois win the 2027 Argentina presidential election? Od
 marketQuestion: "Will Juan Grabois win the 2027 Argentina presidential election?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-07-03
+lastUpdated: 2026-07-04
 expiryDate: 2027-10-24
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.5
@@ -21,7 +21,7 @@ polymarketUrl: "https://polymarket.com/event/will-juan-grabois-win-the-2027-arge
 
 ## Related Markets
 
-- [Will James Talarico win the 2028 Democratic presidential nomination?](/odds/will-james-talarico-win-the-2028-democratic-presidential-nomination) — 2% YES
+- [Will James Talarico win the 2028 Democratic presidential nomination?](/odds/will-james-talarico-win-the-2028-democratic-presidential-nomination) — 1% YES
 - [Will Donald Trump be the leader of Venezuela end of 2026?](/odds/will-donald-trump-be-the-leader-of-venezuela-end-of-2026) — 0% YES
 - [Will there be no Head of State in Iran end of 2026?](/odds/will-there-be-no-head-of-state-in-iran-end-of-2026) — 2% YES
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-juan-grabois-win-the-2027-arge
 
 ### What are the current odds for "Will Juan Grabois win the 2027 Argentina presidential election?"?
 
-As of July 03, 2026, Polymarket prices YES at 0.5%.
+As of July 04, 2026, Polymarket prices YES at 0.5%.
 
 ### Where can I trade on this prediction market?
 

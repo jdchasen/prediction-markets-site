@@ -3,8 +3,8 @@ title: "Will Kate Marshall win the 2026 Reno mayoral election?"
 description: "Will Kate Marshall win the 2026 Reno mayoral election? Odds: 81.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Kate Marshall win the 2026 Reno mayoral election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-07-03
+status: "settled"
+lastUpdated: 2026-07-04
 expiryDate: 2026-11-03
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 81.5

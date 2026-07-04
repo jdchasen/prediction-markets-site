@@ -1,15 +1,15 @@
 ---
 title: "Will there be no Head of State in Iran end of 2026?"
-description: "Will there be no Head of State in Iran end of 2026? Odds: 2.5% YES on Polymarket. See live prices and trade this market."
+description: "Will there be no Head of State in Iran end of 2026? Odds: 2.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will there be no Head of State in Iran end of 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-07-03
+lastUpdated: 2026-07-04
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 2.5
-polymarketNo: 97.5
-polymarketVolume: 989111
+polymarketYes: 2.4
+polymarketNo: 97.6
+polymarketVolume: 989816
 polymarketUrl: "https://polymarket.com/event/will-there-be-no-head-of-state-in-iran-end-of-2026"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-there-be-no-head-of-state-in-i
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 2.5% | 97.5% | $989K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 2.4% | 97.6% | $990K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will James Talarico win the 2028 Democratic presidential nomination?](/odds/will-james-talarico-win-the-2028-democratic-presidential-nomination) — 2% YES
+- [Will James Talarico win the 2028 Democratic presidential nomination?](/odds/will-james-talarico-win-the-2028-democratic-presidential-nomination) — 1% YES
 - [Will Donald Trump be the leader of Venezuela end of 2026?](/odds/will-donald-trump-be-the-leader-of-venezuela-end-of-2026) — 0% YES
-- [Will no next Prime Minister of the United Kingdom be appointed in 2026?](/odds/will-no-next-prime-minister-of-the-united-kingdom-be-appointed-in-2026) — 0% YES
+- [Will Civic Platform (GP) gain the most seats in the next Russian parliamentary election?](/odds/will-civic-platform-gp-gain-the-most-seats-in-the-next-russian-parliamentary-ele) — 0% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will there be no Head of State in Iran end of 2026?"?
 
-As of July 03, 2026, Polymarket prices YES at 2.5%.
+As of July 04, 2026, Polymarket prices YES at 2.4%.
 
 ### Where can I trade on this prediction market?
 

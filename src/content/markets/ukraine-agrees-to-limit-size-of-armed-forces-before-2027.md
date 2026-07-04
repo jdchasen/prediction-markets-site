@@ -4,12 +4,12 @@ description: "Ukraine agrees to limit size of armed forces before 2027? Odds: 12
 marketQuestion: "Ukraine agrees to limit size of armed forces before 2027?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-07-03
+lastUpdated: 2026-07-04
 expiryDate: 2026-12-31
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 12.0
 polymarketNo: 88.0
-polymarketVolume: 97478
+polymarketVolume: 97480
 polymarketUrl: "https://polymarket.com/event/ukraine-agrees-to-limit-size-of-armed-forces-before-2027"
 ---
 
@@ -21,7 +21,7 @@ polymarketUrl: "https://polymarket.com/event/ukraine-agrees-to-limit-size-of-arm
 
 ## Related Markets
 
-- [Will James Talarico win the 2028 Democratic presidential nomination?](/odds/will-james-talarico-win-the-2028-democratic-presidential-nomination) — 2% YES
+- [Will James Talarico win the 2028 Democratic presidential nomination?](/odds/will-james-talarico-win-the-2028-democratic-presidential-nomination) — 1% YES
 - [Will Donald Trump be the leader of Venezuela end of 2026?](/odds/will-donald-trump-be-the-leader-of-venezuela-end-of-2026) — 0% YES
 - [Will there be no Head of State in Iran end of 2026?](/odds/will-there-be-no-head-of-state-in-iran-end-of-2026) — 2% YES
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/ukraine-agrees-to-limit-size-of-arm
 
 ### What are the current odds for "Ukraine agrees to limit size of armed forces before 2027?"?
 
-As of July 03, 2026, Polymarket prices YES at 12.0%.
+As of July 04, 2026, Polymarket prices YES at 12.0%.
 
 ### Where can I trade on this prediction market?
 

@@ -3,8 +3,8 @@ title: "Will Trump pardon Sam Bankman-Fried before 2027?"
 description: "Will Trump pardon Sam Bankman-Fried before 2027? Odds: 9.6% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Trump pardon Sam Bankman-Fried before 2027?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-07-03
+status: "settled"
+lastUpdated: 2026-07-04
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket", "trump"]
 polymarketYes: 9.6

@@ -4,12 +4,12 @@ description: "Will Canada win the 2026 FIFA World Cup? Odds: 0.2% YES on Polymar
 marketQuestion: "Will Canada win the 2026 FIFA World Cup?"
 category: "sports"
 status: "active"
-lastUpdated: 2026-07-03
+lastUpdated: 2026-07-04
 expiryDate: 2026-07-20
 tags: ["polymarket", "sports"]
 polymarketYes: 0.2
 polymarketNo: 99.8
-polymarketVolume: 97470067
+polymarketVolume: 98272772
 polymarketUrl: "https://polymarket.com/event/will-canada-win-the-2026-fifa-world-cup-755"
 ---
 
@@ -17,11 +17,11 @@ polymarketUrl: "https://polymarket.com/event/will-canada-win-the-2026-fifa-world
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.2% | 99.8% | $97.5M | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.2% | 99.8% | $98.3M | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Belgium win the 2026 FIFA World Cup?](/odds/will-belgium-win-the-2026-fifa-world-cup) — 1% YES
+- [Will Argentina win the 2026 FIFA World Cup?](/odds/will-argentina-win-the-2026-fifa-world-cup) — 17% YES
 - [Will the Denver Broncos win the 2027 NFL league championship?](/odds/will-the-denver-broncos-win-the-2027-nfl-league-championship) — 4% YES
 - [Will the Jacksonville Jaguars win the 2027 NFL league championship?](/odds/will-the-jacksonville-jaguars-win-the-2027-nfl-league-championship) — 2% YES
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-canada-win-the-2026-fifa-world
 
 ### What are the current odds for "Will Canada win the 2026 FIFA World Cup?"?
 
-As of July 03, 2026, Polymarket prices YES at 0.2%.
+As of July 04, 2026, Polymarket prices YES at 0.2%.
 
 ### Where can I trade on this prediction market?
 

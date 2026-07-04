@@ -3,8 +3,8 @@ title: "Will Toronto Raptors win the 2027 NBA Finals?"
 description: "Will Toronto Raptors win the 2027 NBA Finals? Odds: 4.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Toronto Raptors win the 2027 NBA Finals?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-07-03
+status: "settled"
+lastUpdated: 2026-07-04
 expiryDate: 2027-07-01
 tags: ["polymarket", "sports"]
 polymarketYes: 4.2

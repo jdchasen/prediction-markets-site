@@ -3,8 +3,8 @@ title: "Will Bitcoin dip to $50,000 in July?"
 description: "Will Bitcoin dip to $50,000 in July? Odds: 8.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Bitcoin dip to $50,000 in July?"
 category: "crypto"
-status: "active"
-lastUpdated: 2026-07-03
+status: "settled"
+lastUpdated: 2026-07-04
 expiryDate: 2026-08-01
 tags: ["bitcoin", "crypto", "polymarket"]
 polymarketYes: 8.5

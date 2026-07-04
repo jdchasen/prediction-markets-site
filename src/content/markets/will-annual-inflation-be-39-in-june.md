@@ -1,15 +1,15 @@
 ---
 title: "Will annual inflation be 3.9% in June?"
-description: "Will annual inflation be 3.9% in June? Odds: 11.0% YES on Polymarket. See live prices and trade this market."
+description: "Will annual inflation be 3.9% in June? Odds: 13.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will annual inflation be 3.9% in June?"
 category: "economics"
 status: "active"
-lastUpdated: 2026-07-03
+lastUpdated: 2026-07-04
 expiryDate: 2026-07-15
 tags: ["economics", "polymarket", "sports"]
-polymarketYes: 11.0
-polymarketNo: 89.0
-polymarketVolume: 95081
+polymarketYes: 13.0
+polymarketNo: 87.0
+polymarketVolume: 95119
 polymarketUrl: "https://polymarket.com/event/will-annual-inflation-be-3pt9-in-june-20260610151731661"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-annual-inflation-be-3pt9-in-ju
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 11.0% | 89.0% | $95K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 13.0% | 87.0% | $95K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will annual inflation be 3.8% in June?](/odds/will-annual-inflation-be-38-in-june) — 48% YES
+- [Will South Korea GDP growth in Q2 2026 be between 3.0% and 3.4%?](/odds/will-south-korea-gdp-growth-in-q2-2026-be-between-30-and-34) — 56% YES
 - [Will Brazil’s Annual Inflation in 2026 be between 4.50% and 4.99%?](/odds/will-brazils-annual-inflation-in-2026-be-between-450-and-499) — 28% YES
-- [Will South Korea GDP growth in Q2 2026 be between 3.0% and 3.4%?](/odds/will-south-korea-gdp-growth-in-q2-2026-be-between-30-and-34) — 58% YES
+- [No change in Bank of England’s interest rates after July 2026 meeting?](/odds/no-change-in-bank-of-englands-interest-rates-after-july-2026-meeting) — 98% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will annual inflation be 3.9% in June?"?
 
-As of July 03, 2026, Polymarket prices YES at 11.0%.
+As of July 04, 2026, Polymarket prices YES at 13.0%.
 
 ### Where can I trade on this prediction market?
 

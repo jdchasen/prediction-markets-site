@@ -3,8 +3,8 @@ title: "Will Selena Gomez be one of Taylor Swift's bridesmaids?"
 description: "Will Selena Gomez be one of Taylor Swift's bridesmaids? Odds: 69.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Selena Gomez be one of Taylor Swift's bridesmaids?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-07-03
+status: "settled"
+lastUpdated: 2026-07-04
 expiryDate: 2027-06-30
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 69.0

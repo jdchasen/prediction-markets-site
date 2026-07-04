@@ -1,14 +1,14 @@
 ---
 title: "Will the Republican Party win the GA-07 House seat?"
-description: "Will the Republican Party win the GA-07 House seat? Odds: 82.5% YES on Polymarket. See live prices and trade this market."
+description: "Will the Republican Party win the GA-07 House seat? Odds: 83.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Republican Party win the GA-07 House seat?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-07-03
+lastUpdated: 2026-07-04
 expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
-polymarketYes: 82.5
-polymarketNo: 17.5
+polymarketYes: 83.0
+polymarketNo: 17.0
 polymarketVolume: 9877
 polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-ga-07-house-seat"
 ---
@@ -17,11 +17,11 @@ polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-g
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 82.5% | 17.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 83.0% | 17.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will James Talarico win the 2028 Democratic presidential nomination?](/odds/will-james-talarico-win-the-2028-democratic-presidential-nomination) — 2% YES
+- [Will James Talarico win the 2028 Democratic presidential nomination?](/odds/will-james-talarico-win-the-2028-democratic-presidential-nomination) — 1% YES
 - [Will Donald Trump be the leader of Venezuela end of 2026?](/odds/will-donald-trump-be-the-leader-of-venezuela-end-of-2026) — 0% YES
 - [Will there be no Head of State in Iran end of 2026?](/odds/will-there-be-no-head-of-state-in-iran-end-of-2026) — 2% YES
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-g
 
 ### What are the current odds for "Will the Republican Party win the GA-07 House seat?"?
 
-As of July 03, 2026, Polymarket prices YES at 82.5%.
+As of July 04, 2026, Polymarket prices YES at 83.0%.
 
 ### Where can I trade on this prediction market?
 

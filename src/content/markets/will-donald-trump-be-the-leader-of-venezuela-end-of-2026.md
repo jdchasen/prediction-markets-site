@@ -4,12 +4,12 @@ description: "Will Donald Trump be the leader of Venezuela end of 2026? Odds: 0.
 marketQuestion: "Will Donald Trump be the leader of Venezuela end of 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-07-03
+lastUpdated: 2026-07-04
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket", "trump"]
 polymarketYes: 0.1
 polymarketNo: 99.9
-polymarketVolume: 994706
+polymarketVolume: 996455
 polymarketUrl: "https://polymarket.com/event/will-donald-trump-be-the-leader-of-venezuela-end-of-2026"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-donald-trump-be-the-leader-of-
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.1% | 99.9% | $995K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.1% | 99.9% | $996K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will James Talarico win the 2028 Democratic presidential nomination?](/odds/will-james-talarico-win-the-2028-democratic-presidential-nomination) — 2% YES
+- [Will James Talarico win the 2028 Democratic presidential nomination?](/odds/will-james-talarico-win-the-2028-democratic-presidential-nomination) — 1% YES
 - [Will there be no Head of State in Iran end of 2026?](/odds/will-there-be-no-head-of-state-in-iran-end-of-2026) — 2% YES
-- [Will no next Prime Minister of the United Kingdom be appointed in 2026?](/odds/will-no-next-prime-minister-of-the-united-kingdom-be-appointed-in-2026) — 0% YES
+- [Will Civic Platform (GP) gain the most seats in the next Russian parliamentary election?](/odds/will-civic-platform-gp-gain-the-most-seats-in-the-next-russian-parliamentary-ele) — 0% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Donald Trump be the leader of Venezuela end of 2026?"?
 
-As of July 03, 2026, Polymarket prices YES at 0.1%.
+As of July 04, 2026, Polymarket prices YES at 0.1%.
 
 ### Where can I trade on this prediction market?
 

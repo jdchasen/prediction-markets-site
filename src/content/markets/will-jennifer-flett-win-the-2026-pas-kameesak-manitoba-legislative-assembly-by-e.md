@@ -3,8 +3,8 @@ title: "Will Jennifer Flett win the 2026 Pas-Kameesak Manitoba Legislative Assem
 description: "Will Jennifer Flett win the 2026 Pas-Kameesak Manitoba Legislative Assembly by-election? Odds: 93.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Jennifer Flett win the 2026 Pas-Kameesak Manitoba Legislative Assembly by-election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-07-03
+status: "settled"
+lastUpdated: 2026-07-04
 expiryDate: 2026-07-21
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 93.5

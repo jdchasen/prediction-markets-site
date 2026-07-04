@@ -3,8 +3,8 @@ title: "Will England be eliminated in the Final of the World Cup?"
 description: "Will England be eliminated in the Final of the World Cup? Odds: 11.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will England be eliminated in the Final of the World Cup?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-07-03
+status: "settled"
+lastUpdated: 2026-07-04
 expiryDate: 2026-07-19
 tags: ["polymarket", "sports"]
 polymarketYes: 11.0
