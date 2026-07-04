@@ -9,7 +9,7 @@ expiryDate: 2027-07-01
 tags: ["polymarket", "sports"]
 polymarketYes: 1.1
 polymarketNo: 98.9
-polymarketVolume: 97517
+polymarketVolume: 98032
 polymarketUrl: "https://polymarket.com/event/will-houston-rockets-win-the-2027-nba-finals"
 ---
 
@@ -21,9 +21,9 @@ polymarketUrl: "https://polymarket.com/event/will-houston-rockets-win-the-2027-n
 
 ## Related Markets
 
-- [Will Canada win the 2026 FIFA World Cup?](/odds/will-canada-win-the-2026-fifa-world-cup) — 0% YES
 - [Will Argentina win the 2026 FIFA World Cup?](/odds/will-argentina-win-the-2026-fifa-world-cup) — 17% YES
 - [Will the Denver Broncos win the 2027 NFL league championship?](/odds/will-the-denver-broncos-win-the-2027-nfl-league-championship) — 4% YES
+- [Will the Jacksonville Jaguars win the 2027 NFL league championship?](/odds/will-the-jacksonville-jaguars-win-the-2027-nfl-league-championship) — 3% YES
 
 ## Frequently Asked Questions
 

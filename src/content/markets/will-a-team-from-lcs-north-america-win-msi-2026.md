@@ -9,7 +9,7 @@ expiryDate: 2026-07-12
 tags: ["politics", "polymarket"]
 polymarketYes: 0.5
 polymarketNo: 99.5
-polymarketVolume: 98166
+polymarketVolume: 98223
 polymarketUrl: "https://polymarket.com/event/will-a-team-from-lcs-north-america-win-msi-2026"
 ---
 

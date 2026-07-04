@@ -1,14 +1,14 @@
 ---
 title: "Will the Republican Party win the GA-07 House seat?"
-description: "Will the Republican Party win the GA-07 House seat? Odds: 83.0% YES on Polymarket. See live prices and trade this market."
+description: "Will the Republican Party win the GA-07 House seat? Odds: 82.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Republican Party win the GA-07 House seat?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-07-04
 expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
-polymarketYes: 83.0
-polymarketNo: 17.0
+polymarketYes: 82.0
+polymarketNo: 18.0
 polymarketVolume: 9877
 polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-ga-07-house-seat"
 ---
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-g
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 83.0% | 17.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 82.0% | 18.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-g
 
 ### What are the current odds for "Will the Republican Party win the GA-07 House seat?"?
 
-As of July 04, 2026, Polymarket prices YES at 83.0%.
+As of July 04, 2026, Polymarket prices YES at 82.0%.
 
 ### Where can I trade on this prediction market?
 

@@ -1,15 +1,15 @@
 ---
 title: "Will Hanwha Life Esports win the LCK 2026 season playoffs?"
-description: "Will Hanwha Life Esports win the LCK 2026 season playoffs? Odds: 26.1% YES on Polymarket. See live prices and trade this market."
+description: "Will Hanwha Life Esports win the LCK 2026 season playoffs? Odds: 27.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Hanwha Life Esports win the LCK 2026 season playoffs?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-07-04
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 26.1
-polymarketNo: 73.9
-polymarketVolume: 99667
+polymarketYes: 27.0
+polymarketNo: 73.0
+polymarketVolume: 99890
 polymarketUrl: "https://polymarket.com/event/will-hanwha-life-esports-win-the-lck-2026-season-playoffs"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-hanwha-life-esports-win-the-lc
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 26.1% | 73.9% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 27.0% | 73.0% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-hanwha-life-esports-win-the-lc
 
 ### What are the current odds for "Will Hanwha Life Esports win the LCK 2026 season playoffs?"?
 
-As of July 04, 2026, Polymarket prices YES at 26.1%.
+As of July 04, 2026, Polymarket prices YES at 27.0%.
 
 ### Where can I trade on this prediction market?
 

@@ -1,23 +1,23 @@
 ---
-title: "Will Elena Rybakina be the 2026 Women’s Wimbledon Winner?"
-description: "Will Elena Rybakina be the 2026 Women’s Wimbledon Winner? Odds: 12.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Elena Rybakina be the 2026 Women’s Wimbledon Winner?"
+title: "Will Jonas Vingegaard win the 2026 Tour De France?"
+description: "Will Jonas Vingegaard win the 2026 Tour De France? Odds: 16.7% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Jonas Vingegaard win the 2026 Tour De France?"
 category: "politics"
-status: "settled"
+status: "active"
 lastUpdated: 2026-07-04
-expiryDate: 2026-07-12
+expiryDate: 2026-08-09
 tags: ["politics", "polymarket"]
-polymarketYes: 12.5
-polymarketNo: 87.5
-polymarketVolume: 98627
-polymarketUrl: "https://polymarket.com/event/will-elena-rybakina-be-the-2026-womens-wimbledon-winner"
+polymarketYes: 16.7
+polymarketNo: 83.4
+polymarketVolume: 9775
+polymarketUrl: "https://polymarket.com/event/will-jonas-vingegaard-win-the-2026-tour-de-france-20260702201214013"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 12.5% | 87.5% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 16.7% | 83.4% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-elena-rybakina-be-the-2026-wom
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Elena Rybakina be the 2026 Women’s Wimbledon Winner?"?
+### What are the current odds for "Will Jonas Vingegaard win the 2026 Tour De France?"?
 
-As of July 04, 2026, Polymarket prices YES at 12.5%.
+As of July 04, 2026, Polymarket prices YES at 16.7%.
 
 ### Where can I trade on this prediction market?
 

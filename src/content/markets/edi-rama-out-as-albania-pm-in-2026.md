@@ -1,23 +1,23 @@
 ---
-title: "Will Elena Rybakina be the 2026 Women’s Wimbledon Winner?"
-description: "Will Elena Rybakina be the 2026 Women’s Wimbledon Winner? Odds: 12.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Elena Rybakina be the 2026 Women’s Wimbledon Winner?"
+title: "Edi Rama out as Albania PM in 2026?"
+description: "Edi Rama out as Albania PM in 2026? Odds: 21.0% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Edi Rama out as Albania PM in 2026?"
 category: "politics"
-status: "settled"
+status: "active"
 lastUpdated: 2026-07-04
-expiryDate: 2026-07-12
+expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 12.5
-polymarketNo: 87.5
-polymarketVolume: 98627
-polymarketUrl: "https://polymarket.com/event/will-elena-rybakina-be-the-2026-womens-wimbledon-winner"
+polymarketYes: 21.0
+polymarketNo: 79.0
+polymarketVolume: 99374
+polymarketUrl: "https://polymarket.com/event/edi-rama-out-as-albania-pm-in-2026"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 12.5% | 87.5% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 21.0% | 79.0% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-elena-rybakina-be-the-2026-wom
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Elena Rybakina be the 2026 Women’s Wimbledon Winner?"?
+### What are the current odds for "Edi Rama out as Albania PM in 2026?"?
 
-As of July 04, 2026, Polymarket prices YES at 12.5%.
+As of July 04, 2026, Polymarket prices YES at 21.0%.
 
 ### Where can I trade on this prediction market?
 

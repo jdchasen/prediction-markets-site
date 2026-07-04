@@ -1,15 +1,15 @@
 ---
 title: "Will the Republic of the Congo have an Ebola case in 2026?"
-description: "Will the Republic of the Congo have an Ebola case in 2026? Odds: 14.5% YES on Polymarket. See live prices and trade this market."
+description: "Will the Republic of the Congo have an Ebola case in 2026? Odds: 18.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Republic of the Congo have an Ebola case in 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-07-04
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 14.5
-polymarketNo: 85.5
-polymarketVolume: 9812
+polymarketYes: 18.5
+polymarketNo: 81.5
+polymarketVolume: 9887
 polymarketUrl: "https://polymarket.com/event/will-the-republic-of-the-congo-have-an-ebola-case-in-2026"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-republic-of-the-congo-have
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 14.5% | 85.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 18.5% | 81.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-republic-of-the-congo-have
 
 ### What are the current odds for "Will the Republic of the Congo have an Ebola case in 2026?"?
 
-As of July 04, 2026, Polymarket prices YES at 14.5%.
+As of July 04, 2026, Polymarket prices YES at 18.5%.
 
 ### Where can I trade on this prediction market?
 

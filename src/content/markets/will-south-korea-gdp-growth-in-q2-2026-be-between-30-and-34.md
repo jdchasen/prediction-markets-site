@@ -9,7 +9,7 @@ expiryDate: 2026-07-23
 tags: ["economics", "polymarket"]
 polymarketYes: 56.0
 polymarketNo: 44.0
-polymarketVolume: 9844
+polymarketVolume: 9946
 polymarketUrl: "https://polymarket.com/event/will-south-korea-gdp-growth-in-q2-2026-be-between-3pt0-and-3pt4"
 ---
 
@@ -22,8 +22,8 @@ polymarketUrl: "https://polymarket.com/event/will-south-korea-gdp-growth-in-q2-2
 ## Related Markets
 
 - [Will annual inflation be 3.9% in June?](/odds/will-annual-inflation-be-39-in-june) — 13% YES
+- [No change in Bank of England’s interest rates after July 2026 meeting?](/odds/no-change-in-bank-of-englands-interest-rates-after-july-2026-meeting) — 97% YES
 - [Will Brazil’s Annual Inflation in 2026 be between 4.50% and 4.99%?](/odds/will-brazils-annual-inflation-in-2026-be-between-450-and-499) — 28% YES
-- [No change in Bank of England’s interest rates after July 2026 meeting?](/odds/no-change-in-bank-of-englands-interest-rates-after-july-2026-meeting) — 98% YES
 
 ## Frequently Asked Questions
 

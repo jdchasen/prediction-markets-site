@@ -3,7 +3,7 @@ title: "Detroit Tigers vs. Texas Rangers"
 description: "Detroit Tigers vs. Texas Rangers Odds: 50.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Detroit Tigers vs. Texas Rangers"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-07-04
 expiryDate: 2026-07-11
 tags: ["politics", "polymarket"]

@@ -1,14 +1,14 @@
 ---
 title: "Will XRP reach $2.80 in July?"
-description: "Will XRP reach $2.80 in July? Odds: 0.6% YES on Polymarket. See live prices and trade this market."
+description: "Will XRP reach $2.80 in July? Odds: 0.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will XRP reach $2.80 in July?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-07-04
 expiryDate: 2026-08-01
 tags: ["politics", "polymarket"]
-polymarketYes: 0.6
-polymarketNo: 99.4
+polymarketYes: 0.5
+polymarketNo: 99.5
 polymarketVolume: 9887
 polymarketUrl: "https://polymarket.com/event/will-xrp-reach-2pt8-in-july-2026"
 ---
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-xrp-reach-2pt8-in-july-2026"
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.6% | 99.4% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.5% | 99.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-xrp-reach-2pt8-in-july-2026"
 
 ### What are the current odds for "Will XRP reach $2.80 in July?"?
 
-As of July 04, 2026, Polymarket prices YES at 0.6%.
+As of July 04, 2026, Polymarket prices YES at 0.5%.
 
 ### Where can I trade on this prediction market?
 

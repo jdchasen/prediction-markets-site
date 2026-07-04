@@ -1,15 +1,15 @@
 ---
 title: "Will there be no Head of State in Iran end of 2026?"
-description: "Will there be no Head of State in Iran end of 2026? Odds: 2.4% YES on Polymarket. See live prices and trade this market."
+description: "Will there be no Head of State in Iran end of 2026? Odds: 2.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will there be no Head of State in Iran end of 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-07-04
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 2.4
-polymarketNo: 97.6
-polymarketVolume: 989816
+polymarketYes: 2.5
+polymarketNo: 97.5
+polymarketVolume: 989849
 polymarketUrl: "https://polymarket.com/event/will-there-be-no-head-of-state-in-iran-end-of-2026"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-there-be-no-head-of-state-in-i
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 2.4% | 97.6% | $990K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 2.5% | 97.5% | $990K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-there-be-no-head-of-state-in-i
 
 ### What are the current odds for "Will there be no Head of State in Iran end of 2026?"?
 
-As of July 04, 2026, Polymarket prices YES at 2.4%.
+As of July 04, 2026, Polymarket prices YES at 2.5%.
 
 ### Where can I trade on this prediction market?
 

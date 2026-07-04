@@ -9,7 +9,7 @@ expiryDate: 2027-01-01
 tags: ["bitcoin", "crypto", "polymarket"]
 polymarketYes: 5.5
 polymarketNo: 94.5
-polymarketVolume: 988387
+polymarketVolume: 988884
 polymarketUrl: "https://polymarket.com/event/will-bitcoin-reach-120000-by-december-31-2026-625-425-562"
 ---
 
@@ -17,13 +17,13 @@ polymarketUrl: "https://polymarket.com/event/will-bitcoin-reach-120000-by-decemb
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 5.5% | 94.5% | $988K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 5.5% | 94.5% | $989K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will MetaMask launch a token by September 30, 2026?](/odds/will-metamask-launch-a-token-by-september-30-2026) — 2% YES
-- [Will Bitcoin dip to $55,000 in July?](/odds/will-bitcoin-dip-to-55000-in-july) — 26% YES
-- [Will Bitcoin reach $72,500 in July?](/odds/will-bitcoin-reach-72500-in-july) — 12% YES
+- [Will Loopscale launch a token by December 31, 2026?](/odds/will-loopscale-launch-a-token-by-december-31-2026) — 18% YES
+- [Ventuals FDV above $500M one day after launch?](/odds/ventuals-fdv-above-500m-one-day-after-launch) — 5% YES
 
 ## Frequently Asked Questions
 

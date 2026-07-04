@@ -1,14 +1,14 @@
 ---
 title: "Will Helena Foulkes win the 2026 Rhode Island Governor Democratic primary election?"
-description: "Will Helena Foulkes win the 2026 Rhode Island Governor Democratic primary election? Odds: 95.0% YES on Polymarket. See live prices and trade this market."
+description: "Will Helena Foulkes win the 2026 Rhode Island Governor Democratic primary election? Odds: 94.6% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Helena Foulkes win the 2026 Rhode Island Governor Democratic primary election?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-07-04
 expiryDate: 2026-09-08
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 95.0
-polymarketNo: 5.0
+polymarketYes: 94.6
+polymarketNo: 5.4
 polymarketVolume: 9836
 polymarketUrl: "https://polymarket.com/event/will-helena-foulkes-win-the-2026-rhode-island-governor-democratic-primary-election"
 ---
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-helena-foulkes-win-the-2026-rh
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 95.0% | 5.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 94.6% | 5.4% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-helena-foulkes-win-the-2026-rh
 
 ### What are the current odds for "Will Helena Foulkes win the 2026 Rhode Island Governor Democratic primary election?"?
 
-As of July 04, 2026, Polymarket prices YES at 95.0%.
+As of July 04, 2026, Polymarket prices YES at 94.6%.
 
 ### Where can I trade on this prediction market?
 

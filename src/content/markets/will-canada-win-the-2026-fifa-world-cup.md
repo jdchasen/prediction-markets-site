@@ -3,7 +3,7 @@ title: "Will Canada win the 2026 FIFA World Cup?"
 description: "Will Canada win the 2026 FIFA World Cup? Odds: 0.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Canada win the 2026 FIFA World Cup?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-07-04
 expiryDate: 2026-07-20
 tags: ["polymarket", "sports"]

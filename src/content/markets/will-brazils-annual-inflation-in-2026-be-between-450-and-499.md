@@ -23,7 +23,7 @@ polymarketUrl: "https://polymarket.com/event/will-brazils-annual-inflation-in-20
 
 - [Will annual inflation be 3.9% in June?](/odds/will-annual-inflation-be-39-in-june) — 13% YES
 - [Will South Korea GDP growth in Q2 2026 be between 3.0% and 3.4%?](/odds/will-south-korea-gdp-growth-in-q2-2026-be-between-30-and-34) — 56% YES
-- [No change in Bank of England’s interest rates after July 2026 meeting?](/odds/no-change-in-bank-of-englands-interest-rates-after-july-2026-meeting) — 98% YES
+- [No change in Bank of England’s interest rates after July 2026 meeting?](/odds/no-change-in-bank-of-englands-interest-rates-after-july-2026-meeting) — 97% YES
 
 ## Frequently Asked Questions
 

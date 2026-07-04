@@ -9,7 +9,7 @@ expiryDate: 2026-07-15
 tags: ["economics", "polymarket", "sports"]
 polymarketYes: 13.0
 polymarketNo: 87.0
-polymarketVolume: 95119
+polymarketVolume: 95153
 polymarketUrl: "https://polymarket.com/event/will-annual-inflation-be-3pt9-in-june-20260610151731661"
 ---
 
@@ -22,8 +22,8 @@ polymarketUrl: "https://polymarket.com/event/will-annual-inflation-be-3pt9-in-ju
 ## Related Markets
 
 - [Will South Korea GDP growth in Q2 2026 be between 3.0% and 3.4%?](/odds/will-south-korea-gdp-growth-in-q2-2026-be-between-30-and-34) — 56% YES
+- [No change in Bank of England’s interest rates after July 2026 meeting?](/odds/no-change-in-bank-of-englands-interest-rates-after-july-2026-meeting) — 97% YES
 - [Will Brazil’s Annual Inflation in 2026 be between 4.50% and 4.99%?](/odds/will-brazils-annual-inflation-in-2026-be-between-450-and-499) — 28% YES
-- [No change in Bank of England’s interest rates after July 2026 meeting?](/odds/no-change-in-bank-of-englands-interest-rates-after-july-2026-meeting) — 98% YES
 
 ## Frequently Asked Questions
 

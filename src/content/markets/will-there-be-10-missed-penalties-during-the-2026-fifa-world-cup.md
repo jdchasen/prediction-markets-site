@@ -1,22 +1,23 @@
 ---
-title: "MLB: Perfect Game thrown in 2026 season?"
-description: "MLB: Perfect Game thrown in 2026 season? Odds: 16.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "MLB: Perfect Game thrown in 2026 season?"
+title: "Will there be 10+ missed penalties during the 2026 FIFA World Cup?"
+description: "Will there be 10+ missed penalties during the 2026 FIFA World Cup? Odds: 1.7% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will there be 10+ missed penalties during the 2026 FIFA World Cup?"
 category: "sports"
 status: "active"
 lastUpdated: 2026-07-04
+expiryDate: 2026-07-20
 tags: ["polymarket", "sports"]
-polymarketYes: 16.5
-polymarketNo: 83.5
-polymarketVolume: 9852
-polymarketUrl: "https://polymarket.com/event/mlb-perfect-game-thrown-in-2026-season"
+polymarketYes: 1.7
+polymarketNo: 98.4
+polymarketVolume: 99117
+polymarketUrl: "https://polymarket.com/event/will-there-be-10-missed-penalties-during-the-2026-fifa-world-cup-20260610205750574"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 16.5% | 83.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 1.7% | 98.4% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -26,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/mlb-perfect-game-thrown-in-2026-sea
 
 ## Frequently Asked Questions
 
-### What are the current odds for "MLB: Perfect Game thrown in 2026 season?"?
+### What are the current odds for "Will there be 10+ missed penalties during the 2026 FIFA World Cup?"?
 
-As of July 04, 2026, Polymarket prices YES at 16.5%.
+As of July 04, 2026, Polymarket prices YES at 1.7%.
 
 ### Where can I trade on this prediction market?
 
@@ -36,6 +37,6 @@ You can trade this market on [Polymarket](https://polymarket.us/1762?utm_source=
 
 ## Learn More
 
+- [2026 FIFA World Cup Winner Odds & Predictions](/blog/2026-fifa-world-cup-winner-odds-predictions)
 - [Will ETH Hit $4,500 in 2026? Live Market Odds](/blog/will-ethereum-reach-4500-in-2026-what-prediction-markets-say)
-- [Will Discord IPO in 2026? What Prediction Markets Say](/blog/will-discord-ipo-in-2026-what-prediction-markets-say)
 

@@ -23,7 +23,7 @@ polymarketUrl: "https://polymarket.com/event/ventuals-fdv-above-300m-one-day-aft
 
 - [Will Bitcoin reach $120,000 by December 31, 2026?](/odds/will-bitcoin-reach-120000-by-december-31-2026) — 6% YES
 - [Will MetaMask launch a token by September 30, 2026?](/odds/will-metamask-launch-a-token-by-september-30-2026) — 2% YES
-- [Will Bitcoin dip to $55,000 in July?](/odds/will-bitcoin-dip-to-55000-in-july) — 26% YES
+- [Will Loopscale launch a token by December 31, 2026?](/odds/will-loopscale-launch-a-token-by-december-31-2026) — 18% YES
 
 ## Frequently Asked Questions
 
