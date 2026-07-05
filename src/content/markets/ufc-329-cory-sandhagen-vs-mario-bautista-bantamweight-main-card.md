@@ -3,8 +3,8 @@ title: "UFC 329: Cory Sandhagen vs. Mario Bautista (Bantamweight, Main Card)"
 description: "UFC 329: Cory Sandhagen vs. Mario Bautista (Bantamweight, Main Card) Odds: 59.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "UFC 329: Cory Sandhagen vs. Mario Bautista (Bantamweight, Main Card)"
 category: "politics"
-status: "active"
-lastUpdated: 2026-07-04
+status: "settled"
+lastUpdated: 2026-07-05
 expiryDate: 2026-07-12
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 59.5

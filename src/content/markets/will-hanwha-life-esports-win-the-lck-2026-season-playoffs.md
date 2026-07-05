@@ -3,8 +3,8 @@ title: "Will Hanwha Life Esports win the LCK 2026 season playoffs?"
 description: "Will Hanwha Life Esports win the LCK 2026 season playoffs? Odds: 27.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Hanwha Life Esports win the LCK 2026 season playoffs?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-07-04
+status: "settled"
+lastUpdated: 2026-07-05
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 27.0

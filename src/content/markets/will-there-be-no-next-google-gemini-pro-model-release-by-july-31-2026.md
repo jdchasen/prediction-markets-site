@@ -3,8 +3,8 @@ title: "Will there be no next Google Gemini Pro model release by July 31, 2026?"
 description: "Will there be no next Google Gemini Pro model release by July 31, 2026? Odds: 24.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will there be no next Google Gemini Pro model release by July 31, 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-07-04
+status: "settled"
+lastUpdated: 2026-07-05
 expiryDate: 2026-07-31
 tags: ["politics", "polymarket"]
 polymarketYes: 24.5

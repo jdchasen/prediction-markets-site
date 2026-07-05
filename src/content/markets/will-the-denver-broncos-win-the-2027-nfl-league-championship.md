@@ -3,8 +3,8 @@ title: "Will the Denver Broncos win the 2027 NFL league championship?"
 description: "Will the Denver Broncos win the 2027 NFL league championship? Odds: 3.6% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Denver Broncos win the 2027 NFL league championship?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-07-04
+status: "settled"
+lastUpdated: 2026-07-05
 expiryDate: 2027-03-31
 tags: ["polymarket", "sports"]
 polymarketYes: 3.6

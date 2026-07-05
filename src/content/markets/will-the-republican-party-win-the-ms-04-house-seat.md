@@ -1,14 +1,14 @@
 ---
 title: "Will the Republican Party win the MS-04 House seat?"
-description: "Will the Republican Party win the MS-04 House seat? Odds: 94.0% YES on Polymarket. See live prices and trade this market."
+description: "Will the Republican Party win the MS-04 House seat? Odds: 93.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Republican Party win the MS-04 House seat?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-07-04
+lastUpdated: 2026-07-05
 expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
-polymarketYes: 94.0
-polymarketNo: 6.0
+polymarketYes: 93.8
+polymarketNo: 6.2
 polymarketVolume: 9771
 polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-ms-04-house-seat"
 ---
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-m
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 94.0% | 6.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 93.8% | 6.2% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will James Talarico win the 2028 Democratic presidential nomination?](/odds/will-james-talarico-win-the-2028-democratic-presidential-nomination) — 1% YES
-- [Will Donald Trump be the leader of Venezuela end of 2026?](/odds/will-donald-trump-be-the-leader-of-venezuela-end-of-2026) — 0% YES
-- [Will there be no Head of State in Iran end of 2026?](/odds/will-there-be-no-head-of-state-in-iran-end-of-2026) — 2% YES
+- [Trump out as President before 2027?](/odds/trump-out-as-president-before-2027) — 8% YES
+- [Will there be no Head of State in Iran end of 2026?](/odds/will-there-be-no-head-of-state-in-iran-end-of-2026) — 3% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will the Republican Party win the MS-04 House seat?"?
 
-As of July 04, 2026, Polymarket prices YES at 94.0%.
+As of July 05, 2026, Polymarket prices YES at 93.8%.
 
 ### Where can I trade on this prediction market?
 

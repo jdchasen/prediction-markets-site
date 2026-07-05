@@ -4,12 +4,12 @@ description: "Will the Green Bay Packers win the 2027 NFL league championship? O
 marketQuestion: "Will the Green Bay Packers win the 2027 NFL league championship?"
 category: "sports"
 status: "active"
-lastUpdated: 2026-07-04
+lastUpdated: 2026-07-05
 expiryDate: 2027-03-31
 tags: ["polymarket", "sports"]
 polymarketYes: 2.6
 polymarketNo: 97.4
-polymarketVolume: 991931
+polymarketVolume: 994333
 polymarketUrl: "https://polymarket.com/event/will-the-green-bay-packers-win-the-2027-nfl-league-championship"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-the-green-bay-packers-win-the-
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 2.6% | 97.4% | $992K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 2.6% | 97.4% | $994K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Argentina win the 2026 FIFA World Cup?](/odds/will-argentina-win-the-2026-fifa-world-cup) — 17% YES
-- [Will the Denver Broncos win the 2027 NFL league championship?](/odds/will-the-denver-broncos-win-the-2027-nfl-league-championship) — 4% YES
+- [Will Portugal win the 2026 FIFA World Cup?](/odds/will-portugal-win-the-2026-fifa-world-cup) — 6% YES
 - [Will the Jacksonville Jaguars win the 2027 NFL league championship?](/odds/will-the-jacksonville-jaguars-win-the-2027-nfl-league-championship) — 3% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will the Green Bay Packers win the 2027 NFL league championship?"?
 
-As of July 04, 2026, Polymarket prices YES at 2.6%.
+As of July 05, 2026, Polymarket prices YES at 2.6%.
 
 ### Where can I trade on this prediction market?
 

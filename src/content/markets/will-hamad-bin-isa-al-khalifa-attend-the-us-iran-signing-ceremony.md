@@ -3,8 +3,8 @@ title: "Will Hamad bin Isa Al Khalifa attend the US-Iran Signing Ceremony?"
 description: "Will Hamad bin Isa Al Khalifa attend the US-Iran Signing Ceremony? Odds: 0.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Hamad bin Isa Al Khalifa attend the US-Iran Signing Ceremony?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-07-04
+status: "settled"
+lastUpdated: 2026-07-05
 expiryDate: 2026-07-07
 tags: ["politics", "polymarket"]
 polymarketYes: 0.5

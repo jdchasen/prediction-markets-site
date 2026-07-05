@@ -3,8 +3,8 @@ title: "Will Donald Trump be the leader of Venezuela end of 2026?"
 description: "Will Donald Trump be the leader of Venezuela end of 2026? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Donald Trump be the leader of Venezuela end of 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-07-04
+status: "settled"
+lastUpdated: 2026-07-05
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket", "trump"]
 polymarketYes: 0.1

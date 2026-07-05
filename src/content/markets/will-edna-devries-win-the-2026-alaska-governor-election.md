@@ -1,15 +1,15 @@
 ---
 title: "Will Edna DeVries win the 2026 Alaska governor election?"
-description: "Will Edna DeVries win the 2026 Alaska governor election? Odds: 0.3% YES on Polymarket. See live prices and trade this market."
+description: "Will Edna DeVries win the 2026 Alaska governor election? Odds: 0.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Edna DeVries win the 2026 Alaska governor election?"
 category: "politics"
-status: "settled"
-lastUpdated: 2026-07-01
+status: "active"
+lastUpdated: 2026-07-05
 expiryDate: 2026-11-03
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 0.3
-polymarketNo: 99.7
-polymarketVolume: 9718
+polymarketYes: 0.2
+polymarketNo: 99.8
+polymarketVolume: 9729
 polymarketUrl: "https://polymarket.com/event/will-edna-devries-win-the-2026-alaska-governor-election"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-edna-devries-win-the-2026-alas
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.3% | 99.7% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.2% | 99.8% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Eduardo Bolsonaro win the 2026 Brazilian presidential election?](/odds/will-eduardo-bolsonaro-win-the-2026-brazilian-presidential-election) — 0% YES
 - [Will James Talarico win the 2028 Democratic presidential nomination?](/odds/will-james-talarico-win-the-2028-democratic-presidential-nomination) — 1% YES
-- [Will Édouard Philippe win the 2027 French presidential election?](/odds/will-douard-philippe-win-the-2027-french-presidential-election) — 18% YES
+- [Trump out as President before 2027?](/odds/trump-out-as-president-before-2027) — 8% YES
+- [Will there be no Head of State in Iran end of 2026?](/odds/will-there-be-no-head-of-state-in-iran-end-of-2026) — 3% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Edna DeVries win the 2026 Alaska governor election?"?
 
-As of June 30, 2026, Polymarket prices YES at 0.3%.
+As of July 05, 2026, Polymarket prices YES at 0.2%.
 
 ### Where can I trade on this prediction market?
 

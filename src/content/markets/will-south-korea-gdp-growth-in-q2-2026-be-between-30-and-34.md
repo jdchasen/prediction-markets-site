@@ -3,8 +3,8 @@ title: "Will South Korea GDP growth in Q2 2026 be between 3.0% and 3.4%?"
 description: "Will South Korea GDP growth in Q2 2026 be between 3.0% and 3.4%? Odds: 56.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will South Korea GDP growth in Q2 2026 be between 3.0% and 3.4%?"
 category: "economics"
-status: "active"
-lastUpdated: 2026-07-04
+status: "settled"
+lastUpdated: 2026-07-05
 expiryDate: 2026-07-23
 tags: ["economics", "polymarket"]
 polymarketYes: 56.0

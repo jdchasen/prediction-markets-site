@@ -3,8 +3,8 @@ title: "Will Cristiano Ronaldo score 5+ goals during the 2026 FIFA World Cup?"
 description: "Will Cristiano Ronaldo score 5+ goals during the 2026 FIFA World Cup? Odds: 26.3% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Cristiano Ronaldo score 5+ goals during the 2026 FIFA World Cup?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-07-04
+status: "settled"
+lastUpdated: 2026-07-05
 expiryDate: 2026-08-03
 tags: ["polymarket", "sports"]
 polymarketYes: 26.3

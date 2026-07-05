@@ -4,12 +4,12 @@ description: "Will Baidu have the best AI model at the end of December 2026? Odd
 marketQuestion: "Will Baidu have the best AI model at the end of December 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-07-04
+lastUpdated: 2026-07-05
 expiryDate: 2026-12-31
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 0.2
 polymarketNo: 99.8
-polymarketVolume: 9962
+polymarketVolume: 9992
 polymarketUrl: "https://polymarket.com/event/will-baidu-have-the-best-ai-model-at-the-end-of-december-2026"
 ---
 
@@ -22,14 +22,14 @@ polymarketUrl: "https://polymarket.com/event/will-baidu-have-the-best-ai-model-a
 ## Related Markets
 
 - [Will James Talarico win the 2028 Democratic presidential nomination?](/odds/will-james-talarico-win-the-2028-democratic-presidential-nomination) — 1% YES
-- [Will Donald Trump be the leader of Venezuela end of 2026?](/odds/will-donald-trump-be-the-leader-of-venezuela-end-of-2026) — 0% YES
-- [Will there be no Head of State in Iran end of 2026?](/odds/will-there-be-no-head-of-state-in-iran-end-of-2026) — 2% YES
+- [Trump out as President before 2027?](/odds/trump-out-as-president-before-2027) — 8% YES
+- [Will there be no Head of State in Iran end of 2026?](/odds/will-there-be-no-head-of-state-in-iran-end-of-2026) — 3% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Baidu have the best AI model at the end of December 2026?"?
 
-As of July 04, 2026, Polymarket prices YES at 0.2%.
+As of July 05, 2026, Polymarket prices YES at 0.2%.
 
 ### Where can I trade on this prediction market?
 

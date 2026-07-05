@@ -1,15 +1,15 @@
 ---
 title: "Will the next diplomatic US-Iran meeting be in Italy by September 30, 2026?"
-description: "Will the next diplomatic US-Iran meeting be in Italy by September 30, 2026? Odds: 0.9% YES on Polymarket. See live prices and trade this market."
+description: "Will the next diplomatic US-Iran meeting be in Italy by September 30, 2026? Odds: 0.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the next diplomatic US-Iran meeting be in Italy by September 30, 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-07-04
+lastUpdated: 2026-07-05
 expiryDate: 2026-09-30
 tags: ["politics", "polymarket"]
-polymarketYes: 0.9
-polymarketNo: 99.2
-polymarketVolume: 98836
+polymarketYes: 0.7
+polymarketNo: 99.3
+polymarketVolume: 99388
 polymarketUrl: "https://polymarket.com/event/will-the-next-diplomatic-us-iran-meeting-be-in-italy-by-september-30-2026-20260622185050774"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-the-next-diplomatic-us-iran-me
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.9% | 99.2% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.7% | 99.3% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will James Talarico win the 2028 Democratic presidential nomination?](/odds/will-james-talarico-win-the-2028-democratic-presidential-nomination) — 1% YES
-- [Will Donald Trump be the leader of Venezuela end of 2026?](/odds/will-donald-trump-be-the-leader-of-venezuela-end-of-2026) — 0% YES
-- [Will there be no Head of State in Iran end of 2026?](/odds/will-there-be-no-head-of-state-in-iran-end-of-2026) — 2% YES
+- [Trump out as President before 2027?](/odds/trump-out-as-president-before-2027) — 8% YES
+- [Will there be no Head of State in Iran end of 2026?](/odds/will-there-be-no-head-of-state-in-iran-end-of-2026) — 3% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will the next diplomatic US-Iran meeting be in Italy by September 30, 2026?"?
 
-As of July 04, 2026, Polymarket prices YES at 0.9%.
+As of July 05, 2026, Polymarket prices YES at 0.7%.
 
 ### Where can I trade on this prediction market?
 

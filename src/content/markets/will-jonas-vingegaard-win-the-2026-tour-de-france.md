@@ -3,8 +3,8 @@ title: "Will Jonas Vingegaard win the 2026 Tour De France?"
 description: "Will Jonas Vingegaard win the 2026 Tour De France? Odds: 16.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Jonas Vingegaard win the 2026 Tour De France?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-07-04
+status: "settled"
+lastUpdated: 2026-07-05
 expiryDate: 2026-08-09
 tags: ["politics", "polymarket"]
 polymarketYes: 16.7

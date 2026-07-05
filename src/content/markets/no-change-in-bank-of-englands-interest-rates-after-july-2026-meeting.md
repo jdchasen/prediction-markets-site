@@ -1,15 +1,15 @@
 ---
 title: "No change in Bank of England’s interest rates after July 2026 meeting?"
-description: "No change in Bank of England’s interest rates after July 2026 meeting? Odds: 97.2% YES on Polymarket. See live prices and trade this market."
+description: "No change in Bank of England’s interest rates after July 2026 meeting? Odds: 97.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "No change in Bank of England’s interest rates after July 2026 meeting?"
 category: "economics"
 status: "active"
-lastUpdated: 2026-07-04
+lastUpdated: 2026-07-05
 expiryDate: 2026-07-30
 tags: ["economics", "interest-rates", "polymarket"]
-polymarketYes: 97.2
-polymarketNo: 2.9
-polymarketVolume: 9725
+polymarketYes: 97.5
+polymarketNo: 2.5
+polymarketVolume: 9985
 polymarketUrl: "https://polymarket.com/event/no-change-in-bank-of-englands-interest-rates-after-july-2026-meeting"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/no-change-in-bank-of-englands-inter
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 97.2% | 2.9% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 97.5% | 2.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will annual inflation be 3.9% in June?](/odds/will-annual-inflation-be-39-in-june) — 13% YES
-- [Will South Korea GDP growth in Q2 2026 be between 3.0% and 3.4%?](/odds/will-south-korea-gdp-growth-in-q2-2026-be-between-30-and-34) — 56% YES
+- [Will annual inflation be 3.9% in June?](/odds/will-annual-inflation-be-39-in-june) — 12% YES
 - [Will Brazil’s Annual Inflation in 2026 be between 4.50% and 4.99%?](/odds/will-brazils-annual-inflation-in-2026-be-between-450-and-499) — 28% YES
+- [Will South Korea’s 2026 Annual Inflation be at least 3.0%?](/odds/will-south-koreas-2026-annual-inflation-be-at-least-30) — 29% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "No change in Bank of England’s interest rates after July 2026 meeting?"?
 
-As of July 04, 2026, Polymarket prices YES at 97.2%.
+As of July 05, 2026, Polymarket prices YES at 97.5%.
 
 ### Where can I trade on this prediction market?
 
