@@ -9,7 +9,7 @@ expiryDate: 2027-03-31
 tags: ["polymarket", "sports"]
 polymarketYes: 2.6
 polymarketNo: 97.4
-polymarketVolume: 994333
+polymarketVolume: 996068
 polymarketUrl: "https://polymarket.com/event/will-the-green-bay-packers-win-the-2027-nfl-league-championship"
 ---
 
@@ -17,13 +17,13 @@ polymarketUrl: "https://polymarket.com/event/will-the-green-bay-packers-win-the-
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 2.6% | 97.4% | $994K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 2.6% | 97.4% | $996K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Argentina win the 2026 FIFA World Cup?](/odds/will-argentina-win-the-2026-fifa-world-cup) — 17% YES
 - [Will Portugal win the 2026 FIFA World Cup?](/odds/will-portugal-win-the-2026-fifa-world-cup) — 6% YES
-- [Will the Jacksonville Jaguars win the 2027 NFL league championship?](/odds/will-the-jacksonville-jaguars-win-the-2027-nfl-league-championship) — 3% YES
+- [Will Arizona Cardinals win the 2027 NFL NFC Championship?](/odds/will-arizona-cardinals-win-the-2027-nfl-nfc-championship) — 1% YES
+- [Will Brazil reach the Semifinals at the 2026 FIFA World Cup?](/odds/will-brazil-reach-the-semifinals-at-the-2026-fifa-world-cup) — 0% YES
 
 ## Frequently Asked Questions
 

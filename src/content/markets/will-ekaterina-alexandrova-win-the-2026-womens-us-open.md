@@ -3,7 +3,7 @@ title: "Will Ekaterina Alexandrova win the 2026 Women’s US Open?"
 description: "Will Ekaterina Alexandrova win the 2026 Women’s US Open? Odds: 0.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Ekaterina Alexandrova win the 2026 Women’s US Open?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-07-05
 expiryDate: 2026-09-13
 tags: ["politics", "polymarket"]

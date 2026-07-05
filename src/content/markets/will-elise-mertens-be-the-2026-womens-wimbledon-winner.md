@@ -9,7 +9,7 @@ expiryDate: 2026-07-12
 tags: ["politics", "polymarket"]
 polymarketYes: 2.1
 polymarketNo: 98.0
-polymarketVolume: 97543
+polymarketVolume: 99671
 polymarketUrl: "https://polymarket.com/event/will-elise-mertens-be-the-2026-womens-wimbledon-winner"
 ---
 
@@ -17,13 +17,13 @@ polymarketUrl: "https://polymarket.com/event/will-elise-mertens-be-the-2026-wome
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 2.1% | 98.0% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 2.1% | 98.0% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will James Talarico win the 2028 Democratic presidential nomination?](/odds/will-james-talarico-win-the-2028-democratic-presidential-nomination) — 1% YES
-- [Trump out as President before 2027?](/odds/trump-out-as-president-before-2027) — 8% YES
-- [Will there be no Head of State in Iran end of 2026?](/odds/will-there-be-no-head-of-state-in-iran-end-of-2026) — 3% YES
+- [Trump out as President before 2027?](/odds/trump-out-as-president-before-2027) — 6% YES
+- [Will Eric Trump win the 2028 Republican presidential nomination?](/odds/will-eric-trump-win-the-2028-republican-presidential-nomination) — 1% YES
 
 ## Frequently Asked Questions
 

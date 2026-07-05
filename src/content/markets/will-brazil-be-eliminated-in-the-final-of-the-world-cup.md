@@ -1,23 +1,23 @@
 ---
-title: "Will Brazil reach the Semifinals at the 2026 FIFA World Cup?"
-description: "Will Brazil reach the Semifinals at the 2026 FIFA World Cup? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Brazil reach the Semifinals at the 2026 FIFA World Cup?"
+title: "Will Brazil be eliminated in the Final of the World Cup?"
+description: "Will Brazil be eliminated in the Final of the World Cup? Odds: 0.2% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Brazil be eliminated in the Final of the World Cup?"
 category: "sports"
 status: "active"
 lastUpdated: 2026-07-05
-expiryDate: 2026-07-13
+expiryDate: 2026-07-19
 tags: ["polymarket", "sports"]
-polymarketYes: 0.1
-polymarketNo: 100.0
-polymarketVolume: 99648
-polymarketUrl: "https://polymarket.com/event/will-brazil-reach-the-semifinals-at-the-2026-fifa-world-cup-20260602145149717"
+polymarketYes: 0.2
+polymarketNo: 99.8
+polymarketVolume: 9993
+polymarketUrl: "https://polymarket.com/event/will-brazil-be-eliminated-in-the-final-of-the-world-cup-20260605224220932"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.1% | 100.0% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.2% | 99.8% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-brazil-reach-the-semifinals-at
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Brazil reach the Semifinals at the 2026 FIFA World Cup?"?
+### What are the current odds for "Will Brazil be eliminated in the Final of the World Cup?"?
 
-As of July 05, 2026, Polymarket prices YES at 0.1%.
+As of July 05, 2026, Polymarket prices YES at 0.2%.
 
 ### Where can I trade on this prediction market?
 
@@ -38,5 +38,5 @@ You can trade this market on [Polymarket](https://polymarket.us/1762?utm_source=
 ## Learn More
 
 - [2026 World Cup Odds: Spain & Brazil Lead Betting](/blog/2026-world-cup-odds-spain-brazil-lead-betting)
-- [2026 FIFA World Cup Winner Odds & Predictions](/blog/2026-fifa-world-cup-winner-odds-predictions)
+- [Will Oil Hit $100? March Crude Prediction Market Odds](/blog/will-oil-hit-100-march-crude-prediction-market-odds)
 

@@ -1,23 +1,23 @@
 ---
-title: "Will San Antonio Spurs win the 2027 NBA Finals?"
-description: "Will San Antonio Spurs win the 2027 NBA Finals? Odds: 15.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will San Antonio Spurs win the 2027 NBA Finals?"
+title: "Will Morocco be the furthest advancing CAF nation at the World Cup?"
+description: "Will Morocco be the furthest advancing CAF nation at the World Cup? Odds: 94.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Morocco be the furthest advancing CAF nation at the World Cup?"
 category: "sports"
 status: "active"
 lastUpdated: 2026-07-05
-expiryDate: 2027-07-01
+expiryDate: 2026-07-20
 tags: ["polymarket", "sports"]
-polymarketYes: 15.5
-polymarketNo: 84.5
-polymarketVolume: 98504
-polymarketUrl: "https://polymarket.com/event/will-san-antonio-spurs-win-the-2027-nba-finals"
+polymarketYes: 94.5
+polymarketNo: 5.5
+polymarketVolume: 97461
+polymarketUrl: "https://polymarket.com/event/will-morocco-be-the-furthest-advancing-caf-nation-at-the-world-cup-20260603202016871"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 15.5% | 84.5% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 94.5% | 5.5% | $97K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-san-antonio-spurs-win-the-2027
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will San Antonio Spurs win the 2027 NBA Finals?"?
+### What are the current odds for "Will Morocco be the furthest advancing CAF nation at the World Cup?"?
 
-As of July 05, 2026, Polymarket prices YES at 15.5%.
+As of July 05, 2026, Polymarket prices YES at 94.5%.
 
 ### Where can I trade on this prediction market?
 

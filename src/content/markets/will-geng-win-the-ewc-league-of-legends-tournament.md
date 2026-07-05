@@ -3,7 +3,7 @@ title: "Will Gen.G win the EWC League of Legends Tournament"
 description: "Will Gen.G win the EWC League of Legends Tournament Odds: 28.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Gen.G win the EWC League of Legends Tournament"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-07-05
 tags: ["politics", "polymarket"]
 polymarketYes: 28.0

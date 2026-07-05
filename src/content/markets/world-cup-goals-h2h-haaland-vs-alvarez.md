@@ -8,7 +8,7 @@ lastUpdated: 2026-07-05
 expiryDate: 2026-07-20
 tags: ["polymarket", "sports"]
 polymarketYes: 99.0
-polymarketNo: 1.0
+polymarketNo: 1.1
 polymarketVolume: 9942
 polymarketUrl: "https://polymarket.com/event/world-cup-goals-h2h-haaland-vspt-alvarez-20260604011418095"
 ---
@@ -17,13 +17,13 @@ polymarketUrl: "https://polymarket.com/event/world-cup-goals-h2h-haaland-vspt-al
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 99.0% | 1.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 99.0% | 1.1% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Argentina win the 2026 FIFA World Cup?](/odds/will-argentina-win-the-2026-fifa-world-cup) — 17% YES
 - [Will Portugal win the 2026 FIFA World Cup?](/odds/will-portugal-win-the-2026-fifa-world-cup) — 6% YES
-- [Will the Jacksonville Jaguars win the 2027 NFL league championship?](/odds/will-the-jacksonville-jaguars-win-the-2027-nfl-league-championship) — 3% YES
+- [Will the Green Bay Packers win the 2027 NFL league championship?](/odds/will-the-green-bay-packers-win-the-2027-nfl-league-championship) — 3% YES
+- [Will Arizona Cardinals win the 2027 NFL NFC Championship?](/odds/will-arizona-cardinals-win-the-2027-nfl-nfc-championship) — 1% YES
 
 ## Frequently Asked Questions
 

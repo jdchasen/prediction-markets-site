@@ -3,7 +3,7 @@ title: "Will Camilo Santana finish in third place in the first round of the 2026
 description: "Will Camilo Santana finish in third place in the first round of the 2026 Brazilian presidential election? Odds: 0.6% YES on Polymarket. See live prices and t..."
 marketQuestion: "Will Camilo Santana finish in third place in the first round of the 2026 Brazilian presidential election?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-07-05
 expiryDate: 2026-10-04
 tags: ["elections", "politics", "polymarket"]

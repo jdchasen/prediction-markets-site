@@ -21,9 +21,9 @@ polymarketUrl: "https://polymarket.com/event/will-james-talarico-win-the-2028-de
 
 ## Related Markets
 
-- [Trump out as President before 2027?](/odds/trump-out-as-president-before-2027) — 8% YES
+- [Trump out as President before 2027?](/odds/trump-out-as-president-before-2027) — 6% YES
+- [Will Eric Trump win the 2028 Republican presidential nomination?](/odds/will-eric-trump-win-the-2028-republican-presidential-nomination) — 1% YES
 - [Will there be no Head of State in Iran end of 2026?](/odds/will-there-be-no-head-of-state-in-iran-end-of-2026) — 3% YES
-- [Will Civic Platform (GP) gain the most seats in the next Russian parliamentary election?](/odds/will-civic-platform-gp-gain-the-most-seats-in-the-next-russian-parliamentary-ele) — 0% YES
 
 ## Frequently Asked Questions
 

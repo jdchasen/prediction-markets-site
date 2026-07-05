@@ -1,15 +1,15 @@
 ---
 title: "Will Michelle Bolsonaro finish in second place in the first round of the 2026 Brazilian presidential election?"
-description: "Will Michelle Bolsonaro finish in second place in the first round of the 2026 Brazilian presidential election? Odds: 1.7% YES on Polymarket. See live prices ..."
+description: "Will Michelle Bolsonaro finish in second place in the first round of the 2026 Brazilian presidential election? Odds: 1.9% YES on Polymarket. See live prices ..."
 marketQuestion: "Will Michelle Bolsonaro finish in second place in the first round of the 2026 Brazilian presidential election?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-07-05
 expiryDate: 2026-10-04
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 1.7
-polymarketNo: 98.4
-polymarketVolume: 98680
+polymarketYes: 1.9
+polymarketNo: 98.0
+polymarketVolume: 98681
 polymarketUrl: "https://polymarket.com/event/will-michelle-bolsonaro-finish-in-second-place-in-the-first-round-of-the-2026-brazilian-presidential-election"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-michelle-bolsonaro-finish-in-s
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 1.7% | 98.4% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 1.9% | 98.0% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will James Talarico win the 2028 Democratic presidential nomination?](/odds/will-james-talarico-win-the-2028-democratic-presidential-nomination) — 1% YES
-- [Trump out as President before 2027?](/odds/trump-out-as-president-before-2027) — 8% YES
-- [Will there be no Head of State in Iran end of 2026?](/odds/will-there-be-no-head-of-state-in-iran-end-of-2026) — 3% YES
+- [Trump out as President before 2027?](/odds/trump-out-as-president-before-2027) — 6% YES
+- [Will Eric Trump win the 2028 Republican presidential nomination?](/odds/will-eric-trump-win-the-2028-republican-presidential-nomination) — 1% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Michelle Bolsonaro finish in second place in the first round of the 2026 Brazilian presidential election?"?
 
-As of July 05, 2026, Polymarket prices YES at 1.7%.
+As of July 05, 2026, Polymarket prices YES at 1.9%.
 
 ### Where can I trade on this prediction market?
 

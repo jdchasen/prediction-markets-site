@@ -19,10 +19,6 @@ polymarketUrl: "https://polymarket.com/event/elon-musk-of-tweets-july-2026-420-4
 |----------|-----|-----|--------|-------|
 | Polymarket | 0.8% | 99.2% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
-## Related Markets
-
-- [Will Elon Musk post 480-499 tweets in July 2026?](/odds/will-elon-musk-post-480-499-tweets-in-july-2026) — 2% YES
-
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Elon Musk post 420-439 tweets in July 2026?"?

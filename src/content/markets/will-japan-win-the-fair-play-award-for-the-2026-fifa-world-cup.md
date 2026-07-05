@@ -1,15 +1,15 @@
 ---
 title: "Will Japan win the Fair Play Award for the 2026 FIFA World Cup?"
-description: "Will Japan win the Fair Play Award for the 2026 FIFA World Cup? Odds: 8.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Japan win the Fair Play Award for the 2026 FIFA World Cup? Odds: 6.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Japan win the Fair Play Award for the 2026 FIFA World Cup?"
 category: "sports"
 status: "active"
 lastUpdated: 2026-07-05
 expiryDate: 2026-07-20
 tags: ["ai", "polymarket", "sports"]
-polymarketYes: 8.5
-polymarketNo: 91.5
-polymarketVolume: 9930
+polymarketYes: 6.1
+polymarketNo: 93.9
+polymarketVolume: 9935
 polymarketUrl: "https://polymarket.com/event/will-japan-win-the-fair-play-award-for-the-2026-fifa-world-cup-20260603201521213"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-japan-win-the-fair-play-award-
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 8.5% | 91.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 6.1% | 93.9% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Argentina win the 2026 FIFA World Cup?](/odds/will-argentina-win-the-2026-fifa-world-cup) — 17% YES
 - [Will Portugal win the 2026 FIFA World Cup?](/odds/will-portugal-win-the-2026-fifa-world-cup) — 6% YES
-- [Will the Jacksonville Jaguars win the 2027 NFL league championship?](/odds/will-the-jacksonville-jaguars-win-the-2027-nfl-league-championship) — 3% YES
+- [Will the Green Bay Packers win the 2027 NFL league championship?](/odds/will-the-green-bay-packers-win-the-2027-nfl-league-championship) — 3% YES
+- [Will Arizona Cardinals win the 2027 NFL NFC Championship?](/odds/will-arizona-cardinals-win-the-2027-nfl-nfc-championship) — 1% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Japan win the Fair Play Award for the 2026 FIFA World Cup?"?
 
-As of July 05, 2026, Polymarket prices YES at 8.5%.
+As of July 05, 2026, Polymarket prices YES at 6.1%.
 
 ### Where can I trade on this prediction market?
 

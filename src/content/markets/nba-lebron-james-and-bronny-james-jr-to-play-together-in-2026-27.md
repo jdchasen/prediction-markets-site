@@ -1,22 +1,23 @@
 ---
-title: "MLB: Perfect Game thrown in 2026 season?"
-description: "MLB: Perfect Game thrown in 2026 season? Odds: 16.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "MLB: Perfect Game thrown in 2026 season?"
+title: "NBA: LeBron James and Bronny James Jr. to Play Together in 2026-27?"
+description: "NBA: LeBron James and Bronny James Jr. to Play Together in 2026-27? Odds: 51.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "NBA: LeBron James and Bronny James Jr. to Play Together in 2026-27?"
 category: "sports"
 status: "active"
 lastUpdated: 2026-07-05
-tags: ["polymarket", "sports"]
-polymarketYes: 16.5
-polymarketNo: 83.5
-polymarketVolume: 9858
-polymarketUrl: "https://polymarket.com/event/mlb-perfect-game-thrown-in-2026-season"
+expiryDate: 2026-10-31
+tags: ["ethereum", "polymarket", "sports"]
+polymarketYes: 51.5
+polymarketNo: 48.5
+polymarketVolume: 9946
+polymarketUrl: "https://polymarket.com/event/nba-lebron-james-and-bronny-james-jrpt-to-play-together-in-2026-27-20260630182039143"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 16.5% | 83.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 51.5% | 48.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -26,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/mlb-perfect-game-thrown-in-2026-sea
 
 ## Frequently Asked Questions
 
-### What are the current odds for "MLB: Perfect Game thrown in 2026 season?"?
+### What are the current odds for "NBA: LeBron James and Bronny James Jr. to Play Together in 2026-27?"?
 
-As of July 05, 2026, Polymarket prices YES at 16.5%.
+As of July 05, 2026, Polymarket prices YES at 51.5%.
 
 ### Where can I trade on this prediction market?
 

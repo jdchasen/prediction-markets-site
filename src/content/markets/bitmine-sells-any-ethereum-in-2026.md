@@ -23,7 +23,7 @@ polymarketUrl: "https://polymarket.com/event/bitmine-sells-any-ethereum-in-2026"
 
 - [Will Bitcoin reach $120,000 by December 31, 2026?](/odds/will-bitcoin-reach-120000-by-december-31-2026) — 6% YES
 - [Will MetaMask launch a token by September 30, 2026?](/odds/will-metamask-launch-a-token-by-september-30-2026) — 2% YES
-- [Will Loopscale launch a token by December 31, 2026?](/odds/will-loopscale-launch-a-token-by-december-31-2026) — 18% YES
+- [Opensea FDV above $100M one day after launch?](/odds/opensea-fdv-above-100m-one-day-after-launch) — 34% YES
 
 ## Frequently Asked Questions
 

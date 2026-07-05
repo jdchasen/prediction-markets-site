@@ -1,15 +1,15 @@
 ---
 title: "Pacifica FDV above $2B one day after launch?"
-description: "Pacifica FDV above $2B one day after launch? Odds: 4.6% YES on Polymarket. See live prices and trade this market."
+description: "Pacifica FDV above $2B one day after launch? Odds: 4.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Pacifica FDV above $2B one day after launch?"
 category: "crypto"
 status: "active"
 lastUpdated: 2026-07-05
 expiryDate: 2027-01-01
 tags: ["crypto", "polymarket"]
-polymarketYes: 4.6
-polymarketNo: 95.4
-polymarketVolume: 9762
+polymarketYes: 4.7
+polymarketNo: 95.3
+polymarketVolume: 9932
 polymarketUrl: "https://polymarket.com/event/pacifica-fdv-above-2b-one-day-after-launch-382"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/pacifica-fdv-above-2b-one-day-after
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 4.6% | 95.4% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 4.7% | 95.3% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Bitcoin reach $120,000 by December 31, 2026?](/odds/will-bitcoin-reach-120000-by-december-31-2026) — 6% YES
 - [Will MetaMask launch a token by September 30, 2026?](/odds/will-metamask-launch-a-token-by-september-30-2026) — 2% YES
-- [Will Loopscale launch a token by December 31, 2026?](/odds/will-loopscale-launch-a-token-by-december-31-2026) — 18% YES
+- [Opensea FDV above $100M one day after launch?](/odds/opensea-fdv-above-100m-one-day-after-launch) — 34% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Pacifica FDV above $2B one day after launch?"?
 
-As of July 05, 2026, Polymarket prices YES at 4.6%.
+As of July 05, 2026, Polymarket prices YES at 4.7%.
 
 ### Where can I trade on this prediction market?
 

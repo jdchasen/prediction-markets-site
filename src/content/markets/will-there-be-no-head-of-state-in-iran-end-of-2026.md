@@ -9,7 +9,7 @@ expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 2.8
 polymarketNo: 97.2
-polymarketVolume: 989991
+polymarketVolume: 990005
 polymarketUrl: "https://polymarket.com/event/will-there-be-no-head-of-state-in-iran-end-of-2026"
 ---
 
@@ -22,8 +22,8 @@ polymarketUrl: "https://polymarket.com/event/will-there-be-no-head-of-state-in-i
 ## Related Markets
 
 - [Will James Talarico win the 2028 Democratic presidential nomination?](/odds/will-james-talarico-win-the-2028-democratic-presidential-nomination) — 1% YES
-- [Trump out as President before 2027?](/odds/trump-out-as-president-before-2027) — 8% YES
-- [Will Civic Platform (GP) gain the most seats in the next Russian parliamentary election?](/odds/will-civic-platform-gp-gain-the-most-seats-in-the-next-russian-parliamentary-ele) — 0% YES
+- [Trump out as President before 2027?](/odds/trump-out-as-president-before-2027) — 6% YES
+- [Will Eric Trump win the 2028 Republican presidential nomination?](/odds/will-eric-trump-win-the-2028-republican-presidential-nomination) — 1% YES
 
 ## Frequently Asked Questions
 
