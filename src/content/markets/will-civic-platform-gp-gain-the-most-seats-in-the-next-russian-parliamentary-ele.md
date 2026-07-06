@@ -3,7 +3,7 @@ title: "Will Civic Platform (GP) gain the most seats in the next Russian parliam
 description: "Will Civic Platform (GP) gain the most seats in the next Russian parliamentary election? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Civic Platform (GP) gain the most seats in the next Russian parliamentary election?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-07-06
 expiryDate: 2026-09-30
 tags: ["ai", "elections", "politics", "polymarket"]

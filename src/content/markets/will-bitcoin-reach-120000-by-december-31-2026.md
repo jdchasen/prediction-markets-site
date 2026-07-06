@@ -22,8 +22,8 @@ polymarketUrl: "https://polymarket.com/event/will-bitcoin-reach-120000-by-decemb
 ## Related Markets
 
 - [Will MetaMask launch a token by September 30, 2026?](/odds/will-metamask-launch-a-token-by-september-30-2026) — 2% YES
-- [Opensea FDV above $100M one day after launch?](/odds/opensea-fdv-above-100m-one-day-after-launch) — 34% YES
-- [Will Bitcoin dip to $37,500 in July?](/odds/will-bitcoin-dip-to-37500-in-july) — 0% YES
+- [Opensea FDV above $100M one day after launch?](/odds/opensea-fdv-above-100m-one-day-after-launch) — 30% YES
+- [Will Loopscale launch a token by December 31, 2026?](/odds/will-loopscale-launch-a-token-by-december-31-2026) — 17% YES
 
 ## Frequently Asked Questions
 

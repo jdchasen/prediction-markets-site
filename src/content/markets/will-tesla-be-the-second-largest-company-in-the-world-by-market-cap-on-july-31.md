@@ -3,7 +3,7 @@ title: "Will Tesla be the second-largest company in the world by market cap on J
 description: "Will Tesla be the second-largest company in the world by market cap on July 31? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Tesla be the second-largest company in the world by market cap on July 31?"
 category: "finance"
-status: "active"
+status: "settled"
 lastUpdated: 2026-07-06
 expiryDate: 2026-07-31
 tags: ["finance", "polymarket"]

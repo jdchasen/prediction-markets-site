@@ -3,7 +3,7 @@ title: "Will Kyle Schwarber hit the most home runs during the 2026 MLB regular s
 description: "Will Kyle Schwarber hit the most home runs during the 2026 MLB regular season? Odds: 54.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Kyle Schwarber hit the most home runs during the 2026 MLB regular season?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-07-06
 expiryDate: 2026-10-11
 tags: ["polymarket", "sports"]

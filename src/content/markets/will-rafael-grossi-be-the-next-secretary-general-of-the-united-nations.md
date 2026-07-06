@@ -3,7 +3,7 @@ title: "Will Rafael Grossi be the next Secretary-General of the United Nations?"
 description: "Will Rafael Grossi be the next Secretary-General of the United Nations? Odds: 50.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Rafael Grossi be the next Secretary-General of the United Nations?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-07-06
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]

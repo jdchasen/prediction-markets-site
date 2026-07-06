@@ -1,23 +1,23 @@
 ---
-title: "Will Kendrick Lamar be the top artist for 2026?"
-description: "Will Kendrick Lamar be the top artist for 2026? Odds: 0.2% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Kendrick Lamar be the top artist for 2026?"
+title: "Will Vitinha win the 2026 Ballon d'Or?"
+description: "Will Vitinha win the 2026 Ballon d'Or? Odds: 0.8% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Vitinha win the 2026 Ballon d'Or?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-07-06
-expiryDate: 2026-12-31
+expiryDate: 2026-10-31
 tags: ["politics", "polymarket"]
-polymarketYes: 0.2
-polymarketNo: 99.8
-polymarketVolume: 97734
-polymarketUrl: "https://polymarket.com/event/will-kendrick-lamar-be-the-top-spotify-artist-for-2026"
+polymarketYes: 0.8
+polymarketNo: 99.2
+polymarketVolume: 99925
+polymarketUrl: "https://polymarket.com/event/will-vitinha-win-the-2026-ballon-dor"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.2% | 99.8% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.8% | 99.2% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-kendrick-lamar-be-the-top-spot
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Kendrick Lamar be the top artist for 2026?"?
+### What are the current odds for "Will Vitinha win the 2026 Ballon d'Or?"?
 
-As of July 06, 2026, Polymarket prices YES at 0.2%.
+As of July 06, 2026, Polymarket prices YES at 0.8%.
 
 ### Where can I trade on this prediction market?
 

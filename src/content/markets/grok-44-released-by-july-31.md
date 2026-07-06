@@ -3,7 +3,7 @@ title: "Grok 4.4 released by July 31?"
 description: "Grok 4.4 released by July 31? Odds: 78.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Grok 4.4 released by July 31?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-07-06
 expiryDate: 2026-07-31
 tags: ["politics", "polymarket"]

@@ -3,7 +3,7 @@ title: "Will Solana reach $110 in July?"
 description: "Will Solana reach $110 in July? Odds: 6.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Solana reach $110 in July?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-07-06
 expiryDate: 2026-08-01
 tags: ["politics", "polymarket"]

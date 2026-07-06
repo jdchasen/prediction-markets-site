@@ -21,9 +21,9 @@ polymarketUrl: "https://polymarket.com/event/bank-of-japan-decreases-interest-ra
 
 ## Related Markets
 
-- [Will there be no change in Fed interest rates after the July 2026 meeting?](/odds/will-there-be-no-change-in-fed-interest-rates-after-the-july-2026-meeting) — 88% YES
 - [Will annual inflation be 3.9% in June?](/odds/will-annual-inflation-be-39-in-june) — 14% YES
-- [Will Brazil’s Annual Inflation in 2026 be between 4.50% and 4.99%?](/odds/will-brazils-annual-inflation-in-2026-be-between-450-and-499) — 15% YES
+- [Will the Fed increase interest rates by 50+ bps after the October 2026 meeting?](/odds/will-the-fed-increase-interest-rates-by-50-bps-after-the-october-2026-meeting) — 2% YES
+- [Will Brazil’s Annual Inflation in 2026 be between 4.50% and 4.99%?](/odds/will-brazils-annual-inflation-in-2026-be-between-450-and-499) — 25% YES
 
 ## Frequently Asked Questions
 

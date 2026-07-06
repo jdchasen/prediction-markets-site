@@ -9,7 +9,7 @@ expiryDate: 2027-01-25
 tags: ["polymarket", "sports"]
 polymarketYes: 8.5
 polymarketNo: 91.5
-polymarketVolume: 98189
+polymarketVolume: 98268
 polymarketUrl: "https://polymarket.com/event/will-kansas-city-chiefs-win-the-2027-nfl-afc-championship-257"
 ---
 
@@ -22,8 +22,8 @@ polymarketUrl: "https://polymarket.com/event/will-kansas-city-chiefs-win-the-202
 ## Related Markets
 
 - [Will Switzerland win the 2026 FIFA World Cup?](/odds/will-switzerland-win-the-2026-fifa-world-cup) — 1% YES
-- [Will Jude Bellingham be the top goalscorer at the 2026 FIFA World Cup?](/odds/will-jude-bellingham-be-the-top-goalscorer-at-the-2026-fifa-world-cup) — 0% YES
-- [Will Arizona Cardinals win the 2027 NFL NFC Championship?](/odds/will-arizona-cardinals-win-the-2027-nfl-nfc-championship) — 1% YES
+- [Will Colombia win the 2026 FIFA World Cup?](/odds/will-colombia-win-the-2026-fifa-world-cup) — 3% YES
+- [Will France win the 2026 FIFA World Cup?](/odds/will-france-win-the-2026-fifa-world-cup) — 33% YES
 
 ## Frequently Asked Questions
 

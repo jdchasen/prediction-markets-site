@@ -3,7 +3,7 @@ title: "NBA: LeBron James and Bronny James Jr. to Play Together in 2026-27?"
 description: "NBA: LeBron James and Bronny James Jr. to Play Together in 2026-27? Odds: 60.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "NBA: LeBron James and Bronny James Jr. to Play Together in 2026-27?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-07-06
 expiryDate: 2026-10-31
 tags: ["ethereum", "polymarket", "sports"]

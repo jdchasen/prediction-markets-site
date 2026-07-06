@@ -3,7 +3,7 @@ title: "Wimbledon WTA: Jasmine Paolini vs Alexandra Eala"
 description: "Wimbledon WTA: Jasmine Paolini vs Alexandra Eala Odds: 47.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Wimbledon WTA: Jasmine Paolini vs Alexandra Eala"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-07-06
 expiryDate: 2026-07-12
 tags: ["politics", "polymarket"]

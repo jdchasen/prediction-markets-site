@@ -1,35 +1,35 @@
 ---
-title: "Will Switzerland win the 2026 FIFA World Cup?"
-description: "Will Switzerland win the 2026 FIFA World Cup? Odds: 0.9% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Switzerland win the 2026 FIFA World Cup?"
+title: "Will Colombia win the 2026 FIFA World Cup?"
+description: "Will Colombia win the 2026 FIFA World Cup? Odds: 3.2% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Colombia win the 2026 FIFA World Cup?"
 category: "sports"
 status: "active"
 lastUpdated: 2026-07-06
 expiryDate: 2026-07-20
 tags: ["polymarket", "sports"]
-polymarketYes: 0.9
-polymarketNo: 99.1
-polymarketVolume: 98928741
-polymarketUrl: "https://polymarket.com/event/will-switzerland-win-the-2026-fifa-world-cup"
+polymarketYes: 3.2
+polymarketNo: 96.8
+polymarketVolume: 98259255
+polymarketUrl: "https://polymarket.com/event/will-colombia-win-the-2026-fifa-world-cup-734"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.9% | 99.1% | $98.9M | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 3.2% | 96.8% | $98.3M | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Colombia win the 2026 FIFA World Cup?](/odds/will-colombia-win-the-2026-fifa-world-cup) — 3% YES
+- [Will Switzerland win the 2026 FIFA World Cup?](/odds/will-switzerland-win-the-2026-fifa-world-cup) — 1% YES
 - [Will France win the 2026 FIFA World Cup?](/odds/will-france-win-the-2026-fifa-world-cup) — 33% YES
 - [Will Arizona Cardinals win the 2027 NFL NFC Championship?](/odds/will-arizona-cardinals-win-the-2027-nfl-nfc-championship) — 1% YES
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Switzerland win the 2026 FIFA World Cup?"?
+### What are the current odds for "Will Colombia win the 2026 FIFA World Cup?"?
 
-As of July 06, 2026, Polymarket prices YES at 0.9%.
+As of July 06, 2026, Polymarket prices YES at 3.2%.
 
 ### Where can I trade on this prediction market?
 

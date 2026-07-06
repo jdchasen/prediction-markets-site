@@ -1,14 +1,14 @@
 ---
 title: "Will Austin Reaves play for the Cleveland Cavaliers in 2026-27?"
-description: "Will Austin Reaves play for the Cleveland Cavaliers in 2026-27? Odds: 0.6% YES on Polymarket. See live prices and trade this market."
+description: "Will Austin Reaves play for the Cleveland Cavaliers in 2026-27? Odds: 0.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Austin Reaves play for the Cleveland Cavaliers in 2026-27?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-07-06
 expiryDate: 2026-10-31
 tags: ["politics", "polymarket"]
-polymarketYes: 0.6
-polymarketNo: 99.4
+polymarketYes: 0.9
+polymarketNo: 99.1
 polymarketVolume: 99703
 polymarketUrl: "https://polymarket.com/event/will-austin-reaves-play-for-the-cleveland-cavaliers-in-2026-27-20260622165416991"
 ---
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-austin-reaves-play-for-the-cle
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.6% | 99.4% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.9% | 99.1% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will James Talarico win the 2028 Democratic presidential nomination?](/odds/will-james-talarico-win-the-2028-democratic-presidential-nomination) — 1% YES
 - [Trump out as President before 2027?](/odds/trump-out-as-president-before-2027) — 6% YES
-- [Will Alexander Zverev be the 2026 Men’s Wimbledon winner?](/odds/will-alexander-zverev-be-the-2026-mens-wimbledon-winner) — 9% YES
+- [Will Eric Trump win the 2028 Republican presidential nomination?](/odds/will-eric-trump-win-the-2028-republican-presidential-nomination) — 1% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Austin Reaves play for the Cleveland Cavaliers in 2026-27?"?
 
-As of July 06, 2026, Polymarket prices YES at 0.6%.
+As of July 06, 2026, Polymarket prices YES at 0.9%.
 
 ### Where can I trade on this prediction market?
 

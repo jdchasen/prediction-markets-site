@@ -21,9 +21,9 @@ polymarketUrl: "https://polymarket.com/event/will-openais-market-cap-be-1pt5t-or
 
 ## Related Markets
 
-- [Anysphere (Cursor) IPO before 2027?](/odds/anysphere-cursor-ipo-before-2027) — 2% YES
+- [Will Anthropic's market cap be $3.0T or greater at market close on IPO day?](/odds/will-anthropics-market-cap-be-30t-or-greater-at-market-close-on-ipo-day) — 9% YES
+- [Will S&P 500 (SPY) hit (LOW) $700 in July?](/odds/will-sp-500-spy-hit-low-700-in-july) — 2% YES
 - [Will Trump sell 2.5k-5k Gold Cards in 2026?](/odds/will-trump-sell-25k-5k-gold-cards-in-2026) — 2% YES
-- [Will Trump sell 25k-100k Gold Cards in 2026?](/odds/will-trump-sell-25k-100k-gold-cards-in-2026) — 0% YES
 
 ## Frequently Asked Questions
 
