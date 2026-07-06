@@ -1,15 +1,15 @@
 ---
 title: "Will Esther Charlestin win the 2026 Vermont Governor Democratic primary election?"
-description: "Will Esther Charlestin win the 2026 Vermont Governor Democratic primary election? Odds: 0.4% YES on Polymarket. See live prices and trade this market."
+description: "Will Esther Charlestin win the 2026 Vermont Governor Democratic primary election? Odds: 0.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Esther Charlestin win the 2026 Vermont Governor Democratic primary election?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-07-05
+lastUpdated: 2026-07-06
 expiryDate: 2026-08-11
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 0.4
-polymarketNo: 99.6
-polymarketVolume: 9856
+polymarketYes: 0.8
+polymarketNo: 99.2
+polymarketVolume: 9891
 polymarketUrl: "https://polymarket.com/event/will-esther-charlestin-win-the-2026-vermont-governor-democratic-primary-election"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-esther-charlestin-win-the-2026
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.4% | 99.6% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.8% | 99.2% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will James Talarico win the 2028 Democratic presidential nomination?](/odds/will-james-talarico-win-the-2028-democratic-presidential-nomination) — 1% YES
 - [Trump out as President before 2027?](/odds/trump-out-as-president-before-2027) — 6% YES
-- [Will Eric Trump win the 2028 Republican presidential nomination?](/odds/will-eric-trump-win-the-2028-republican-presidential-nomination) — 1% YES
+- [Will Alexander Zverev be the 2026 Men’s Wimbledon winner?](/odds/will-alexander-zverev-be-the-2026-mens-wimbledon-winner) — 9% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Esther Charlestin win the 2026 Vermont Governor Democratic primary election?"?
 
-As of July 05, 2026, Polymarket prices YES at 0.4%.
+As of July 06, 2026, Polymarket prices YES at 0.8%.
 
 ### Where can I trade on this prediction market?
 

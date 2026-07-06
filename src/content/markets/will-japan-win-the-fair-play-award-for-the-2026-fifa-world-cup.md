@@ -3,8 +3,8 @@ title: "Will Japan win the Fair Play Award for the 2026 FIFA World Cup?"
 description: "Will Japan win the Fair Play Award for the 2026 FIFA World Cup? Odds: 6.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Japan win the Fair Play Award for the 2026 FIFA World Cup?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-07-05
+status: "settled"
+lastUpdated: 2026-07-06
 expiryDate: 2026-07-20
 tags: ["ai", "polymarket", "sports"]
 polymarketYes: 6.1

@@ -3,8 +3,8 @@ title: "Will Russia capture all of Vovchansk by December 31?"
 description: "Will Russia capture all of Vovchansk by December 31? Odds: 47.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Russia capture all of Vovchansk by December 31?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-07-05
+status: "settled"
+lastUpdated: 2026-07-06
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 47.0

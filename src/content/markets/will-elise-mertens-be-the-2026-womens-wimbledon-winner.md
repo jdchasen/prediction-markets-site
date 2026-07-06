@@ -3,8 +3,8 @@ title: "Will Elise Mertens be the 2026 Women’s Wimbledon Winner?"
 description: "Will Elise Mertens be the 2026 Women’s Wimbledon Winner? Odds: 2.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Elise Mertens be the 2026 Women’s Wimbledon Winner?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-07-05
+status: "settled"
+lastUpdated: 2026-07-06
 expiryDate: 2026-07-12
 tags: ["politics", "polymarket"]
 polymarketYes: 2.1

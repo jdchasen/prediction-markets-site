@@ -1,15 +1,15 @@
 ---
 title: "Will Michelle Bolsonaro finish in second place in the first round of the 2026 Brazilian presidential election?"
-description: "Will Michelle Bolsonaro finish in second place in the first round of the 2026 Brazilian presidential election? Odds: 1.9% YES on Polymarket. See live prices ..."
+description: "Will Michelle Bolsonaro finish in second place in the first round of the 2026 Brazilian presidential election? Odds: 2.5% YES on Polymarket. See live prices ..."
 marketQuestion: "Will Michelle Bolsonaro finish in second place in the first round of the 2026 Brazilian presidential election?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-07-05
+lastUpdated: 2026-07-06
 expiryDate: 2026-10-04
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 1.9
-polymarketNo: 98.0
-polymarketVolume: 98681
+polymarketYes: 2.5
+polymarketNo: 97.5
+polymarketVolume: 98704
 polymarketUrl: "https://polymarket.com/event/will-michelle-bolsonaro-finish-in-second-place-in-the-first-round-of-the-2026-brazilian-presidential-election"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-michelle-bolsonaro-finish-in-s
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 1.9% | 98.0% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 2.5% | 97.5% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will James Talarico win the 2028 Democratic presidential nomination?](/odds/will-james-talarico-win-the-2028-democratic-presidential-nomination) — 1% YES
 - [Trump out as President before 2027?](/odds/trump-out-as-president-before-2027) — 6% YES
-- [Will Eric Trump win the 2028 Republican presidential nomination?](/odds/will-eric-trump-win-the-2028-republican-presidential-nomination) — 1% YES
+- [Will Alexander Zverev be the 2026 Men’s Wimbledon winner?](/odds/will-alexander-zverev-be-the-2026-mens-wimbledon-winner) — 9% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Michelle Bolsonaro finish in second place in the first round of the 2026 Brazilian presidential election?"?
 
-As of July 05, 2026, Polymarket prices YES at 1.9%.
+As of July 06, 2026, Polymarket prices YES at 2.5%.
 
 ### Where can I trade on this prediction market?
 

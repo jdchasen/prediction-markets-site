@@ -1,15 +1,15 @@
 ---
 title: "Russia coup attempt in 2026?"
-description: "Russia coup attempt in 2026? Odds: 10.0% YES on Polymarket. See live prices and trade this market."
+description: "Russia coup attempt in 2026? Odds: 9.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Russia coup attempt in 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-07-05
+lastUpdated: 2026-07-06
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 10.0
-polymarketNo: 90.0
-polymarketVolume: 97395
+polymarketYes: 9.5
+polymarketNo: 90.5
+polymarketVolume: 97405
 polymarketUrl: "https://polymarket.com/event/russia-coup-attempt-in-2026"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/russia-coup-attempt-in-2026"
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 10.0% | 90.0% | $97K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 9.5% | 90.5% | $97K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will James Talarico win the 2028 Democratic presidential nomination?](/odds/will-james-talarico-win-the-2028-democratic-presidential-nomination) — 1% YES
 - [Trump out as President before 2027?](/odds/trump-out-as-president-before-2027) — 6% YES
-- [Will Eric Trump win the 2028 Republican presidential nomination?](/odds/will-eric-trump-win-the-2028-republican-presidential-nomination) — 1% YES
+- [Will Alexander Zverev be the 2026 Men’s Wimbledon winner?](/odds/will-alexander-zverev-be-the-2026-mens-wimbledon-winner) — 9% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Russia coup attempt in 2026?"?
 
-As of July 05, 2026, Polymarket prices YES at 10.0%.
+As of July 06, 2026, Polymarket prices YES at 9.5%.
 
 ### Where can I trade on this prediction market?
 

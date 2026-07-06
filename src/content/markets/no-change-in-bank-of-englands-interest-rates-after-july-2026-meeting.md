@@ -3,8 +3,8 @@ title: "No change in Bank of England’s interest rates after July 2026 meeting?
 description: "No change in Bank of England’s interest rates after July 2026 meeting? Odds: 97.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "No change in Bank of England’s interest rates after July 2026 meeting?"
 category: "economics"
-status: "active"
-lastUpdated: 2026-07-05
+status: "settled"
+lastUpdated: 2026-07-06
 expiryDate: 2026-07-30
 tags: ["economics", "interest-rates", "polymarket"]
 polymarketYes: 97.4

@@ -3,8 +3,8 @@ title: "Will Jude Bellingham win the Bronze Ball at the 2026 FIFA World Cup?"
 description: "Will Jude Bellingham win the Bronze Ball at the 2026 FIFA World Cup? Odds: 1.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Jude Bellingham win the Bronze Ball at the 2026 FIFA World Cup?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-07-05
+status: "settled"
+lastUpdated: 2026-07-06
 expiryDate: 2026-07-20
 tags: ["polymarket", "sports"]
 polymarketYes: 1.2

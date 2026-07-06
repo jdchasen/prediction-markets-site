@@ -1,15 +1,15 @@
 ---
 title: "Will Bitcoin reach $120,000 by December 31, 2026?"
-description: "Will Bitcoin reach $120,000 by December 31, 2026? Odds: 5.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Bitcoin reach $120,000 by December 31, 2026? Odds: 4.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Bitcoin reach $120,000 by December 31, 2026?"
 category: "crypto"
 status: "active"
-lastUpdated: 2026-07-05
+lastUpdated: 2026-07-06
 expiryDate: 2027-01-01
 tags: ["bitcoin", "crypto", "polymarket"]
-polymarketYes: 5.5
-polymarketNo: 94.5
-polymarketVolume: 989827
+polymarketYes: 4.5
+polymarketNo: 95.5
+polymarketVolume: 992348
 polymarketUrl: "https://polymarket.com/event/will-bitcoin-reach-120000-by-december-31-2026-625-425-562"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-bitcoin-reach-120000-by-decemb
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 5.5% | 94.5% | $990K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 4.5% | 95.5% | $992K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will MetaMask launch a token by September 30, 2026?](/odds/will-metamask-launch-a-token-by-september-30-2026) — 2% YES
 - [Opensea FDV above $100M one day after launch?](/odds/opensea-fdv-above-100m-one-day-after-launch) — 34% YES
-- [Will Loopscale launch a token by December 31, 2026?](/odds/will-loopscale-launch-a-token-by-december-31-2026) — 17% YES
+- [Will Bitcoin dip to $37,500 in July?](/odds/will-bitcoin-dip-to-37500-in-july) — 0% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Bitcoin reach $120,000 by December 31, 2026?"?
 
-As of July 05, 2026, Polymarket prices YES at 5.5%.
+As of July 06, 2026, Polymarket prices YES at 4.5%.
 
 ### Where can I trade on this prediction market?
 

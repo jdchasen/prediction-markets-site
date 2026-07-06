@@ -1,15 +1,15 @@
 ---
 title: "Will South Korea’s 2026 Annual Inflation be at least 3.0%?"
-description: "Will South Korea’s 2026 Annual Inflation be at least 3.0%? Odds: 28.5% YES on Polymarket. See live prices and trade this market."
+description: "Will South Korea’s 2026 Annual Inflation be at least 3.0%? Odds: 30.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will South Korea’s 2026 Annual Inflation be at least 3.0%?"
 category: "economics"
 status: "active"
-lastUpdated: 2026-07-05
+lastUpdated: 2026-07-06
 expiryDate: 2026-12-31
 tags: ["economics", "polymarket", "sports"]
-polymarketYes: 28.5
-polymarketNo: 71.5
-polymarketVolume: 9491
+polymarketYes: 30.5
+polymarketNo: 69.5
+polymarketVolume: 9495
 polymarketUrl: "https://polymarket.com/event/will-south-koreas-2026-annual-inflation-be-at-least-3pt0"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-south-koreas-2026-annual-infla
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 28.5% | 71.5% | $9K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 30.5% | 69.5% | $9K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will annual inflation be 3.9% in June?](/odds/will-annual-inflation-be-39-in-june) — 16% YES
-- [No change in Bank of England’s interest rates after July 2026 meeting?](/odds/no-change-in-bank-of-englands-interest-rates-after-july-2026-meeting) — 97% YES
-- [Will Brazil’s Annual Inflation in 2026 be between 4.50% and 4.99%?](/odds/will-brazils-annual-inflation-in-2026-be-between-450-and-499) — 23% YES
+- [Will there be no change in Fed interest rates after the July 2026 meeting?](/odds/will-there-be-no-change-in-fed-interest-rates-after-the-july-2026-meeting) — 88% YES
+- [Will annual inflation be 3.9% in June?](/odds/will-annual-inflation-be-39-in-june) — 14% YES
+- [Bank of Japan decreases interest rates by 50+ bps after the July 2026 meeting?](/odds/bank-of-japan-decreases-interest-rates-by-50-bps-after-the-july-2026-meeting) — 0% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will South Korea’s 2026 Annual Inflation be at least 3.0%?"?
 
-As of July 05, 2026, Polymarket prices YES at 28.5%.
+As of July 06, 2026, Polymarket prices YES at 30.5%.
 
 ### Where can I trade on this prediction market?
 

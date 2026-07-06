@@ -3,8 +3,8 @@ title: "Will Brazil be eliminated in the Final of the World Cup?"
 description: "Will Brazil be eliminated in the Final of the World Cup? Odds: 0.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Brazil be eliminated in the Final of the World Cup?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-07-05
+status: "settled"
+lastUpdated: 2026-07-06
 expiryDate: 2026-07-19
 tags: ["polymarket", "sports"]
 polymarketYes: 0.2

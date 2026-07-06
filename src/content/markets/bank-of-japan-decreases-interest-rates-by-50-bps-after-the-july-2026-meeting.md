@@ -4,12 +4,12 @@ description: "Bank of Japan decreases interest rates by 50+ bps after the July 2
 marketQuestion: "Bank of Japan decreases interest rates by 50+ bps after the July 2026 meeting?"
 category: "economics"
 status: "active"
-lastUpdated: 2026-07-05
+lastUpdated: 2026-07-06
 expiryDate: 2026-07-31
 tags: ["economics", "interest-rates", "polymarket"]
 polymarketYes: 0.1
 polymarketNo: 99.9
-polymarketVolume: 9385
+polymarketVolume: 9920
 polymarketUrl: "https://polymarket.com/event/bank-of-japan-decreases-interest-rates-by-50-bps-after-the-july-2026-meeting"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/bank-of-japan-decreases-interest-ra
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.1% | 99.9% | $9K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.1% | 99.9% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will annual inflation be 3.9% in June?](/odds/will-annual-inflation-be-39-in-june) — 16% YES
-- [No change in Bank of England’s interest rates after July 2026 meeting?](/odds/no-change-in-bank-of-englands-interest-rates-after-july-2026-meeting) — 97% YES
-- [Will Brazil’s Annual Inflation in 2026 be between 4.50% and 4.99%?](/odds/will-brazils-annual-inflation-in-2026-be-between-450-and-499) — 23% YES
+- [Will there be no change in Fed interest rates after the July 2026 meeting?](/odds/will-there-be-no-change-in-fed-interest-rates-after-the-july-2026-meeting) — 88% YES
+- [Will annual inflation be 3.9% in June?](/odds/will-annual-inflation-be-39-in-june) — 14% YES
+- [Will Brazil’s Annual Inflation in 2026 be between 4.50% and 4.99%?](/odds/will-brazils-annual-inflation-in-2026-be-between-450-and-499) — 15% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Bank of Japan decreases interest rates by 50+ bps after the July 2026 meeting?"?
 
-As of July 05, 2026, Polymarket prices YES at 0.1%.
+As of July 06, 2026, Polymarket prices YES at 0.1%.
 
 ### Where can I trade on this prediction market?
 

@@ -4,12 +4,12 @@ description: "Will James Talarico win the 2028 Democratic presidential nominatio
 marketQuestion: "Will James Talarico win the 2028 Democratic presidential nomination?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-07-05
+lastUpdated: 2026-07-06
 expiryDate: 2028-11-07
 tags: ["politics", "polymarket"]
 polymarketYes: 1.4
-polymarketNo: 98.6
-polymarketVolume: 9971820
+polymarketNo: 98.7
+polymarketVolume: 9971900
 polymarketUrl: "https://polymarket.com/event/will-james-talarico-win-the-2028-democratic-presidential-nomination"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-james-talarico-win-the-2028-de
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 1.4% | 98.6% | $10.0M | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 1.4% | 98.7% | $10.0M | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Trump out as President before 2027?](/odds/trump-out-as-president-before-2027) — 6% YES
-- [Will Eric Trump win the 2028 Republican presidential nomination?](/odds/will-eric-trump-win-the-2028-republican-presidential-nomination) — 1% YES
-- [Will there be no Head of State in Iran end of 2026?](/odds/will-there-be-no-head-of-state-in-iran-end-of-2026) — 3% YES
+- [Will Alexander Zverev be the 2026 Men’s Wimbledon winner?](/odds/will-alexander-zverev-be-the-2026-mens-wimbledon-winner) — 9% YES
+- [Will there be no Head of State in Iran end of 2026?](/odds/will-there-be-no-head-of-state-in-iran-end-of-2026) — 2% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will James Talarico win the 2028 Democratic presidential nomination?"?
 
-As of July 05, 2026, Polymarket prices YES at 1.4%.
+As of July 06, 2026, Polymarket prices YES at 1.4%.
 
 ### Where can I trade on this prediction market?
 

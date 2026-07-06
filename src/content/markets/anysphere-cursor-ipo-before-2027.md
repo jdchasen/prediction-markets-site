@@ -4,7 +4,7 @@ description: "Anysphere (Cursor) IPO before 2027? Odds: 1.8% YES on Polymarket. 
 marketQuestion: "Anysphere (Cursor) IPO before 2027?"
 category: "finance"
 status: "active"
-lastUpdated: 2026-07-05
+lastUpdated: 2026-07-06
 expiryDate: 2026-12-31
 tags: ["finance", "polymarket"]
 polymarketYes: 1.8
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/anysphere-cursor-ipo-before-2027"
 
 ### What are the current odds for "Anysphere (Cursor) IPO before 2027?"?
 
-As of July 05, 2026, Polymarket prices YES at 1.8%.
+As of July 06, 2026, Polymarket prices YES at 1.8%.
 
 ### Where can I trade on this prediction market?
 

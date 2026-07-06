@@ -3,8 +3,8 @@ title: "World Cup Goals H2H: Haaland vs. Alvarez"
 description: "World Cup Goals H2H: Haaland vs. Alvarez Odds: 99.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "World Cup Goals H2H: Haaland vs. Alvarez"
 category: "sports"
-status: "active"
-lastUpdated: 2026-07-05
+status: "settled"
+lastUpdated: 2026-07-06
 expiryDate: 2026-07-20
 tags: ["polymarket", "sports"]
 polymarketYes: 99.0

@@ -1,14 +1,14 @@
 ---
 title: "Will the median home value in Miami be between $1,089,000 and $1,125,000 on September 30?"
-description: "Will the median home value in Miami be between $1,089,000 and $1,125,000 on September 30? Odds: 24.5% YES on Polymarket. See live prices and trade this market."
+description: "Will the median home value in Miami be between $1,089,000 and $1,125,000 on September 30? Odds: 25.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the median home value in Miami be between $1,089,000 and $1,125,000 on September 30?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-07-05
+lastUpdated: 2026-07-06
 expiryDate: 2026-09-30
 tags: ["politics", "polymarket"]
-polymarketYes: 24.5
-polymarketNo: 75.5
+polymarketYes: 25.0
+polymarketNo: 75.0
 polymarketVolume: 9876
 polymarketUrl: "https://polymarket.com/event/will-the-median-home-value-in-miami-be-between-1089000-and-1125000-20260630172332855"
 ---
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-the-median-home-value-in-miami
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 24.5% | 75.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 25.0% | 75.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will James Talarico win the 2028 Democratic presidential nomination?](/odds/will-james-talarico-win-the-2028-democratic-presidential-nomination) — 1% YES
 - [Trump out as President before 2027?](/odds/trump-out-as-president-before-2027) — 6% YES
-- [Will Eric Trump win the 2028 Republican presidential nomination?](/odds/will-eric-trump-win-the-2028-republican-presidential-nomination) — 1% YES
+- [Will Alexander Zverev be the 2026 Men’s Wimbledon winner?](/odds/will-alexander-zverev-be-the-2026-mens-wimbledon-winner) — 9% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will the median home value in Miami be between $1,089,000 and $1,125,000 on September 30?"?
 
-As of July 05, 2026, Polymarket prices YES at 24.5%.
+As of July 06, 2026, Polymarket prices YES at 25.0%.
 
 ### Where can I trade on this prediction market?
 

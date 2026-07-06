@@ -1,15 +1,15 @@
 ---
 title: "Will Alexander Zverev be the 2026 Men’s Wimbledon winner?"
-description: "Will Alexander Zverev be the 2026 Men’s Wimbledon winner? Odds: 8.6% YES on Polymarket. See live prices and trade this market."
+description: "Will Alexander Zverev be the 2026 Men’s Wimbledon winner? Odds: 9.3% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Alexander Zverev be the 2026 Men’s Wimbledon winner?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-07-05
+lastUpdated: 2026-07-06
 expiryDate: 2026-07-12
 tags: ["politics", "polymarket"]
-polymarketYes: 8.6
-polymarketNo: 91.5
-polymarketVolume: 975394
+polymarketYes: 9.3
+polymarketNo: 90.7
+polymarketVolume: 995703
 polymarketUrl: "https://polymarket.com/event/will-alexander-zverev-be-the-2026-mens-wimbledon-winner"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-alexander-zverev-be-the-2026-m
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 8.6% | 91.5% | $975K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 9.3% | 90.7% | $996K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will James Talarico win the 2028 Democratic presidential nomination?](/odds/will-james-talarico-win-the-2028-democratic-presidential-nomination) — 1% YES
 - [Trump out as President before 2027?](/odds/trump-out-as-president-before-2027) — 6% YES
-- [Will Eric Trump win the 2028 Republican presidential nomination?](/odds/will-eric-trump-win-the-2028-republican-presidential-nomination) — 1% YES
+- [Will there be no Head of State in Iran end of 2026?](/odds/will-there-be-no-head-of-state-in-iran-end-of-2026) — 2% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Alexander Zverev be the 2026 Men’s Wimbledon winner?"?
 
-As of July 05, 2026, Polymarket prices YES at 8.6%.
+As of July 06, 2026, Polymarket prices YES at 9.3%.
 
 ### Where can I trade on this prediction market?
 

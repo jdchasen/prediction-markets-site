@@ -3,8 +3,8 @@ title: "Will Morocco be the furthest advancing CAF nation at the World Cup?"
 description: "Will Morocco be the furthest advancing CAF nation at the World Cup? Odds: 94.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Morocco be the furthest advancing CAF nation at the World Cup?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-07-05
+status: "settled"
+lastUpdated: 2026-07-06
 expiryDate: 2026-07-20
 tags: ["polymarket", "sports"]
 polymarketYes: 94.5
