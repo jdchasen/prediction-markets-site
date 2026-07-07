@@ -1,14 +1,14 @@
 ---
 title: "Will ANSEM flip PUMP by December 31, 2027?"
-description: "Will ANSEM flip PUMP by December 31, 2027? Odds: 33.0% YES on Polymarket. See live prices and trade this market."
+description: "Will ANSEM flip PUMP by December 31, 2027? Odds: 35.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will ANSEM flip PUMP by December 31, 2027?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-07-06
+lastUpdated: 2026-07-07
 expiryDate: 2027-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 33.0
-polymarketNo: 67.0
+polymarketYes: 35.0
+polymarketNo: 65.0
 polymarketVolume: 9842
 polymarketUrl: "https://polymarket.com/event/will-ansem-flip-pump-by-december-31-2027-20260702152126832"
 ---
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-ansem-flip-pump-by-december-31
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 33.0% | 67.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 35.0% | 65.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will James Talarico win the 2028 Democratic presidential nomination?](/odds/will-james-talarico-win-the-2028-democratic-presidential-nomination) — 1% YES
-- [Trump out as President before 2027?](/odds/trump-out-as-president-before-2027) — 6% YES
-- [Will Eric Trump win the 2028 Republican presidential nomination?](/odds/will-eric-trump-win-the-2028-republican-presidential-nomination) — 1% YES
+- [Will there be no Head of State in Iran end of 2026?](/odds/will-there-be-no-head-of-state-in-iran-end-of-2026) — 2% YES
+- [Will LeBron James play for the Cleveland Cavaliers in 2026-27?](/odds/will-lebron-james-play-for-the-cleveland-cavaliers-in-2026-27) — 57% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will ANSEM flip PUMP by December 31, 2027?"?
 
-As of July 06, 2026, Polymarket prices YES at 33.0%.
+As of July 07, 2026, Polymarket prices YES at 35.0%.
 
 ### Where can I trade on this prediction market?
 

@@ -1,15 +1,15 @@
 ---
 title: "Will Kansas City Chiefs win the 2027 NFL AFC Championship?"
-description: "Will Kansas City Chiefs win the 2027 NFL AFC Championship? Odds: 8.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Kansas City Chiefs win the 2027 NFL AFC Championship? Odds: 9.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Kansas City Chiefs win the 2027 NFL AFC Championship?"
 category: "sports"
 status: "active"
-lastUpdated: 2026-07-06
+lastUpdated: 2026-07-07
 expiryDate: 2027-01-25
 tags: ["polymarket", "sports"]
-polymarketYes: 8.5
-polymarketNo: 91.5
-polymarketVolume: 98268
+polymarketYes: 9.0
+polymarketNo: 91.0
+polymarketVolume: 98433
 polymarketUrl: "https://polymarket.com/event/will-kansas-city-chiefs-win-the-2027-nfl-afc-championship-257"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-kansas-city-chiefs-win-the-202
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 8.5% | 91.5% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 9.0% | 91.0% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Switzerland win the 2026 FIFA World Cup?](/odds/will-switzerland-win-the-2026-fifa-world-cup) — 1% YES
 - [Will Colombia win the 2026 FIFA World Cup?](/odds/will-colombia-win-the-2026-fifa-world-cup) — 3% YES
 - [Will France win the 2026 FIFA World Cup?](/odds/will-france-win-the-2026-fifa-world-cup) — 33% YES
+- [Will Arizona Cardinals win the 2027 NFL NFC Championship?](/odds/will-arizona-cardinals-win-the-2027-nfl-nfc-championship) — 1% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Kansas City Chiefs win the 2027 NFL AFC Championship?"?
 
-As of July 06, 2026, Polymarket prices YES at 8.5%.
+As of July 07, 2026, Polymarket prices YES at 9.0%.
 
 ### Where can I trade on this prediction market?
 

@@ -3,8 +3,8 @@ title: "Will Vitinha win the 2026 Ballon d'Or?"
 description: "Will Vitinha win the 2026 Ballon d'Or? Odds: 0.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Vitinha win the 2026 Ballon d'Or?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-07-06
+status: "settled"
+lastUpdated: 2026-07-07
 expiryDate: 2026-10-31
 tags: ["politics", "polymarket"]
 polymarketYes: 0.8

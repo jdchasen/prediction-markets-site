@@ -3,8 +3,8 @@ title: "Will Tadej Pogačar win the 2026 Tour De France?"
 description: "Will Tadej Pogačar win the 2026 Tour De France? Odds: 86.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Tadej Pogačar win the 2026 Tour De France?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-07-06
+status: "settled"
+lastUpdated: 2026-07-07
 expiryDate: 2026-08-09
 tags: ["politics", "polymarket"]
 polymarketYes: 86.0

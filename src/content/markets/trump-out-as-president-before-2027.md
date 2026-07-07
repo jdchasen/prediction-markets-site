@@ -3,8 +3,8 @@ title: "Trump out as President before 2027?"
 description: "Trump out as President before 2027? Odds: 6.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Trump out as President before 2027?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-07-06
+status: "settled"
+lastUpdated: 2026-07-07
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket", "trump"]
 polymarketYes: 6.5

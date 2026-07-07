@@ -3,8 +3,8 @@ title: "Bank of Japan decreases interest rates by 50+ bps after the July 2026 me
 description: "Bank of Japan decreases interest rates by 50+ bps after the July 2026 meeting? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Bank of Japan decreases interest rates by 50+ bps after the July 2026 meeting?"
 category: "economics"
-status: "active"
-lastUpdated: 2026-07-06
+status: "settled"
+lastUpdated: 2026-07-07
 expiryDate: 2026-07-31
 tags: ["economics", "interest-rates", "polymarket"]
 polymarketYes: 0.1

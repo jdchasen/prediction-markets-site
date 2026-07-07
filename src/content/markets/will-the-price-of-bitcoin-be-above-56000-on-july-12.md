@@ -4,12 +4,12 @@ description: "Will the price of Bitcoin be above $56,000 on July 12? Odds: 98.0%
 marketQuestion: "Will the price of Bitcoin be above $56,000 on July 12?"
 category: "crypto"
 status: "active"
-lastUpdated: 2026-07-06
+lastUpdated: 2026-07-07
 expiryDate: 2026-07-12
 tags: ["bitcoin", "crypto", "polymarket"]
 polymarketYes: 98.0
 polymarketNo: 2.0
-polymarketVolume: 9771
+polymarketVolume: 9798
 polymarketUrl: "https://polymarket.com/event/bitcoin-above-56k-on-july-12-2026"
 ---
 
@@ -21,15 +21,15 @@ polymarketUrl: "https://polymarket.com/event/bitcoin-above-56k-on-july-12-2026"
 
 ## Related Markets
 
-- [Will Bitcoin reach $120,000 by December 31, 2026?](/odds/will-bitcoin-reach-120000-by-december-31-2026) — 4% YES
 - [Will MetaMask launch a token by September 30, 2026?](/odds/will-metamask-launch-a-token-by-september-30-2026) — 2% YES
-- [Opensea FDV above $100M one day after launch?](/odds/opensea-fdv-above-100m-one-day-after-launch) — 30% YES
+- [Will Loopscale launch a token by December 31, 2026?](/odds/will-loopscale-launch-a-token-by-december-31-2026) — 17% YES
+- [Pacifica FDV above $2B one day after launch?](/odds/pacifica-fdv-above-2b-one-day-after-launch) — 5% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will the price of Bitcoin be above $56,000 on July 12?"?
 
-As of July 06, 2026, Polymarket prices YES at 98.0%.
+As of July 07, 2026, Polymarket prices YES at 98.0%.
 
 ### Where can I trade on this prediction market?
 

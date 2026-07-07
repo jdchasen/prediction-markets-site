@@ -1,15 +1,15 @@
 ---
 title: "Will Anthropic's market cap be $3.0T or greater at market close on IPO day?"
-description: "Will Anthropic's market cap be $3.0T or greater at market close on IPO day? Odds: 8.8% YES on Polymarket. See live prices and trade this market."
+description: "Will Anthropic's market cap be $3.0T or greater at market close on IPO day? Odds: 8.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Anthropic's market cap be $3.0T or greater at market close on IPO day?"
 category: "finance"
 status: "active"
-lastUpdated: 2026-07-06
+lastUpdated: 2026-07-07
 expiryDate: 2026-12-31
 tags: ["finance", "polymarket"]
-polymarketYes: 8.8
+polymarketYes: 8.9
 polymarketNo: 91.1
-polymarketVolume: 9953
+polymarketVolume: 9961
 polymarketUrl: "https://polymarket.com/event/will-anthropics-market-cap-be-3pt0t-or-greater-at-market-close-on-ipo-day"
 ---
 
@@ -17,11 +17,11 @@ polymarketUrl: "https://polymarket.com/event/will-anthropics-market-cap-be-3pt0t
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 8.8% | 91.1% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 8.9% | 91.1% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will S&P 500 (SPY) hit (LOW) $700 in July?](/odds/will-sp-500-spy-hit-low-700-in-july) — 2% YES
+- [Will Trump sell 25k-100k Gold Cards in 2026?](/odds/will-trump-sell-25k-100k-gold-cards-in-2026) — 0% YES
 - [Will Trump sell 2.5k-5k Gold Cards in 2026?](/odds/will-trump-sell-25k-5k-gold-cards-in-2026) — 2% YES
 - [Will OpenAI’s market cap be $1.5T or greater at market close on IPO day by December 31, 2027?](/odds/will-openais-market-cap-be-15t-or-greater-at-market-close-on-ipo-day-by-december) — 29% YES
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-anthropics-market-cap-be-3pt0t
 
 ### What are the current odds for "Will Anthropic's market cap be $3.0T or greater at market close on IPO day?"?
 
-As of July 06, 2026, Polymarket prices YES at 8.8%.
+As of July 07, 2026, Polymarket prices YES at 8.9%.
 
 ### Where can I trade on this prediction market?
 

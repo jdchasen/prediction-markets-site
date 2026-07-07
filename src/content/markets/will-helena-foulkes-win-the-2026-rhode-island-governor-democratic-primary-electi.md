@@ -3,8 +3,8 @@ title: "Will Helena Foulkes win the 2026 Rhode Island Governor Democratic primar
 description: "Will Helena Foulkes win the 2026 Rhode Island Governor Democratic primary election? Odds: 93.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Helena Foulkes win the 2026 Rhode Island Governor Democratic primary election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-07-06
+status: "settled"
+lastUpdated: 2026-07-07
 expiryDate: 2026-09-08
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 93.2

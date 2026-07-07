@@ -3,8 +3,8 @@ title: "Will S&P 500 (SPY) hit (LOW) $700 in July?"
 description: "Will S&P 500 (SPY) hit (LOW) $700 in July? Odds: 2.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will S&P 500 (SPY) hit (LOW) $700 in July?"
 category: "finance"
-status: "active"
-lastUpdated: 2026-07-06
+status: "settled"
+lastUpdated: 2026-07-07
 expiryDate: 2026-08-01
 tags: ["finance", "polymarket", "stocks"]
 polymarketYes: 2.1
