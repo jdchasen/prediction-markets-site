@@ -3,7 +3,7 @@ title: "Will OpenAI announce a ring in 2026?"
 description: "Will OpenAI announce a ring in 2026? Odds: 10.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will OpenAI announce a ring in 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-07-07
 expiryDate: 2026-12-31
 tags: ["ai", "politics", "polymarket"]

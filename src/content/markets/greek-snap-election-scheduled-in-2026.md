@@ -1,23 +1,23 @@
 ---
-title: "Will Atlanta United FC win the 2026 MLS Cup?"
-description: "Will Atlanta United FC win the 2026 MLS Cup? Odds: 0.6% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Atlanta United FC win the 2026 MLS Cup?"
+title: "Greek snap election scheduled in 2026?"
+description: "Greek snap election scheduled in 2026? Odds: 55.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Greek snap election scheduled in 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-07-07
-expiryDate: 2026-12-19
-tags: ["politics", "polymarket"]
-polymarketYes: 0.6
-polymarketNo: 99.4
-polymarketVolume: 98419
-polymarketUrl: "https://polymarket.com/event/will-atlanta-united-fc-win-the-2026-mls-cup"
+expiryDate: 2026-12-31
+tags: ["elections", "politics", "polymarket"]
+polymarketYes: 55.5
+polymarketNo: 44.5
+polymarketVolume: 9917
+polymarketUrl: "https://polymarket.com/event/greek-snap-election-scheduled-in-2026-20260618181513020"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.6% | 99.4% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 55.5% | 44.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-atlanta-united-fc-win-the-2026
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Atlanta United FC win the 2026 MLS Cup?"?
+### What are the current odds for "Greek snap election scheduled in 2026?"?
 
-As of July 07, 2026, Polymarket prices YES at 0.6%.
+As of July 07, 2026, Polymarket prices YES at 55.5%.
 
 ### Where can I trade on this prediction market?
 

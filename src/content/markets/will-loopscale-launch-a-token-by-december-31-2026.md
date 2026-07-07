@@ -22,8 +22,8 @@ polymarketUrl: "https://polymarket.com/event/will-loopscale-launch-a-token-by-de
 ## Related Markets
 
 - [Will MetaMask launch a token by September 30, 2026?](/odds/will-metamask-launch-a-token-by-september-30-2026) — 2% YES
-- [Pacifica FDV above $2B one day after launch?](/odds/pacifica-fdv-above-2b-one-day-after-launch) — 5% YES
-- [Will the price of Bitcoin be above $68,000 on July 10?](/odds/will-the-price-of-bitcoin-be-above-68000-on-july-10) — 2% YES
+- [Will Ethereum reach $3,000 by December 31, 2026?](/odds/will-ethereum-reach-3000-by-december-31-2026) — 13% YES
+- [Ventuals FDV above $300M one day after launch?](/odds/ventuals-fdv-above-300m-one-day-after-launch) — 4% YES
 
 ## Frequently Asked Questions
 

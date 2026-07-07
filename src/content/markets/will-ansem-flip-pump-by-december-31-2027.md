@@ -3,7 +3,7 @@ title: "Will ANSEM flip PUMP by December 31, 2027?"
 description: "Will ANSEM flip PUMP by December 31, 2027? Odds: 35.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will ANSEM flip PUMP by December 31, 2027?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-07-07
 expiryDate: 2027-12-31
 tags: ["politics", "polymarket"]

@@ -1,23 +1,23 @@
 ---
-title: "Will Atlanta United FC win the 2026 MLS Cup?"
-description: "Will Atlanta United FC win the 2026 MLS Cup? Odds: 0.6% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Atlanta United FC win the 2026 MLS Cup?"
+title: "Will Michelle Bolsonaro finish in third place in the first round of the 2026 Brazilian presidential election?"
+description: "Will Michelle Bolsonaro finish in third place in the first round of the 2026 Brazilian presidential election? Odds: 0.2% YES on Polymarket. See live prices a..."
+marketQuestion: "Will Michelle Bolsonaro finish in third place in the first round of the 2026 Brazilian presidential election?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-07-07
-expiryDate: 2026-12-19
-tags: ["politics", "polymarket"]
-polymarketYes: 0.6
-polymarketNo: 99.4
-polymarketVolume: 98419
-polymarketUrl: "https://polymarket.com/event/will-atlanta-united-fc-win-the-2026-mls-cup"
+expiryDate: 2026-10-04
+tags: ["elections", "politics", "polymarket"]
+polymarketYes: 0.2
+polymarketNo: 99.8
+polymarketVolume: 9874
+polymarketUrl: "https://polymarket.com/event/will-michelle-bolsonaro-finish-in-third-place-in-the-first-round-of-the-2026-brazilian-presidential-election"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.6% | 99.4% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.2% | 99.8% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-atlanta-united-fc-win-the-2026
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Atlanta United FC win the 2026 MLS Cup?"?
+### What are the current odds for "Will Michelle Bolsonaro finish in third place in the first round of the 2026 Brazilian presidential election?"?
 
-As of July 07, 2026, Polymarket prices YES at 0.6%.
+As of July 07, 2026, Polymarket prices YES at 0.2%.
 
 ### Where can I trade on this prediction market?
 

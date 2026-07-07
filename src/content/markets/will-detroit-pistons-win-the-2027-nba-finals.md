@@ -9,7 +9,7 @@ expiryDate: 2027-07-01
 tags: ["polymarket", "sports"]
 polymarketYes: 2.5
 polymarketNo: 97.5
-polymarketVolume: 97875
+polymarketVolume: 98909
 polymarketUrl: "https://polymarket.com/event/will-detroit-pistons-win-the-2027-nba-finals"
 ---
 
@@ -17,13 +17,13 @@ polymarketUrl: "https://polymarket.com/event/will-detroit-pistons-win-the-2027-n
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 2.5% | 97.5% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 2.5% | 97.5% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Colombia win the 2026 FIFA World Cup?](/odds/will-colombia-win-the-2026-fifa-world-cup) — 3% YES
-- [Will France win the 2026 FIFA World Cup?](/odds/will-france-win-the-2026-fifa-world-cup) — 33% YES
 - [Will Arizona Cardinals win the 2027 NFL NFC Championship?](/odds/will-arizona-cardinals-win-the-2027-nfl-nfc-championship) — 1% YES
+- [Will Dallas Mavericks win the 2027 NBA Finals?](/odds/will-dallas-mavericks-win-the-2027-nba-finals) — 1% YES
+- [Will Baker Mayfield win the 2026 NFL MVP?](/odds/will-baker-mayfield-win-the-2026-nfl-mvp) — 2% YES
 
 ## Frequently Asked Questions
 

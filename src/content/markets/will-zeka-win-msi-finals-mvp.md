@@ -1,23 +1,22 @@
 ---
-title: "Will the Democratic Party win the TX-10 House seat?"
-description: "Will the Democratic Party win the TX-10 House seat? Odds: 14.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will the Democratic Party win the TX-10 House seat?"
+title: "Will Zeka Win MSI Finals MVP"
+description: "Will Zeka Win MSI Finals MVP Odds: 17.0% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Zeka Win MSI Finals MVP"
 category: "politics"
 status: "active"
 lastUpdated: 2026-07-07
-expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
-polymarketYes: 14.5
-polymarketNo: 85.5
-polymarketVolume: 9880
-polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-tx-10-house-seat"
+polymarketYes: 17.0
+polymarketNo: 83.0
+polymarketVolume: 9812
+polymarketUrl: "https://polymarket.com/event/will-zeka-win-msi-finals-mvp-20260625193044847"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 14.5% | 85.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 17.0% | 83.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +26,9 @@ polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-t
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will the Democratic Party win the TX-10 House seat?"?
+### What are the current odds for "Will Zeka Win MSI Finals MVP"?
 
-As of July 07, 2026, Polymarket prices YES at 14.5%.
+As of July 07, 2026, Polymarket prices YES at 17.0%.
 
 ### Where can I trade on this prediction market?
 

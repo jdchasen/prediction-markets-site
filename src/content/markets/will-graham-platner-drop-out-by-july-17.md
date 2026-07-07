@@ -3,7 +3,7 @@ title: "Will Graham Platner drop out by July 17?"
 description: "Will Graham Platner drop out by July 17? Odds: 97.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Graham Platner drop out by July 17?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-07-07
 expiryDate: 2026-07-17
 tags: ["politics", "polymarket"]

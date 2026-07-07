@@ -3,7 +3,7 @@ title: "Will STRC hit $100 by September 30?"
 description: "Will STRC hit $100 by September 30? Odds: 35.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will STRC hit $100 by September 30?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-07-07
 expiryDate: 2026-09-30
 tags: ["politics", "polymarket"]

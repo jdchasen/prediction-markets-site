@@ -22,8 +22,8 @@ polymarketUrl: "https://polymarket.com/event/ukraine-agrees-to-limit-size-of-arm
 ## Related Markets
 
 - [Will James Talarico win the 2028 Democratic presidential nomination?](/odds/will-james-talarico-win-the-2028-democratic-presidential-nomination) — 1% YES
-- [Will there be no Head of State in Iran end of 2026?](/odds/will-there-be-no-head-of-state-in-iran-end-of-2026) — 2% YES
-- [Will LeBron James play for the Cleveland Cavaliers in 2026-27?](/odds/will-lebron-james-play-for-the-cleveland-cavaliers-in-2026-27) — 57% YES
+- [Trump out as President before 2027?](/odds/trump-out-as-president-before-2027) — 7% YES
+- [Will A Just Russia – For Truth (SRZP) gain the most seats in the next Russian parliamentary election?](/odds/will-a-just-russia-for-truth-srzp-gain-the-most-seats-in-the-next-russian-parlia) — 0% YES
 
 ## Frequently Asked Questions
 

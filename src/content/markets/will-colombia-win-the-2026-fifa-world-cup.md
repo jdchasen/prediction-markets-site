@@ -3,7 +3,7 @@ title: "Will Colombia win the 2026 FIFA World Cup?"
 description: "Will Colombia win the 2026 FIFA World Cup? Odds: 3.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Colombia win the 2026 FIFA World Cup?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-07-07
 expiryDate: 2026-07-20
 tags: ["polymarket", "sports"]

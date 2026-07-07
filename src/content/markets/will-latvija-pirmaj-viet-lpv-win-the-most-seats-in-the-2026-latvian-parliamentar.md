@@ -3,7 +3,7 @@ title: "Will Latvija Pirmajā Vietā (LPV) win the most seats in the 2026 Latvia
 description: "Will Latvija Pirmajā Vietā (LPV) win the most seats in the 2026 Latvian parliamentary election? Odds: 22.5% YES on Polymarket. See live prices and trade this..."
 marketQuestion: "Will Latvija Pirmajā Vietā (LPV) win the most seats in the 2026 Latvian parliamentary election?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-07-07
 expiryDate: 2026-10-03
 tags: ["elections", "politics", "polymarket"]

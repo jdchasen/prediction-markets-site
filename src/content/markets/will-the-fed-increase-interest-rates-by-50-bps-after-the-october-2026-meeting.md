@@ -3,7 +3,7 @@ title: "Will the Fed increase interest rates by 50+ bps after the October 2026 m
 description: "Will the Fed increase interest rates by 50+ bps after the October 2026 meeting? Odds: 1.6% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Fed increase interest rates by 50+ bps after the October 2026 meeting?"
 category: "economics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-07-07
 expiryDate: 2026-10-28
 tags: ["economics", "federal-reserve", "interest-rates", "polymarket"]

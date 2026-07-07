@@ -1,23 +1,23 @@
 ---
-title: "Will the Democratic Party win the TX-10 House seat?"
-description: "Will the Democratic Party win the TX-10 House seat? Odds: 14.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will the Democratic Party win the TX-10 House seat?"
+title: "Will XRP reach $1.80 in July?"
+description: "Will XRP reach $1.80 in July? Odds: 2.2% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will XRP reach $1.80 in July?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-07-07
-expiryDate: 2026-11-03
+expiryDate: 2026-08-01
 tags: ["politics", "polymarket"]
-polymarketYes: 14.5
-polymarketNo: 85.5
-polymarketVolume: 9880
-polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-tx-10-house-seat"
+polymarketYes: 2.2
+polymarketNo: 97.8
+polymarketVolume: 9835
+polymarketUrl: "https://polymarket.com/event/will-xrp-reach-1pt8-in-july-2026"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 14.5% | 85.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 2.2% | 97.8% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-t
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will the Democratic Party win the TX-10 House seat?"?
+### What are the current odds for "Will XRP reach $1.80 in July?"?
 
-As of July 07, 2026, Polymarket prices YES at 14.5%.
+As of July 07, 2026, Polymarket prices YES at 2.2%.
 
 ### Where can I trade on this prediction market?
 

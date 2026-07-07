@@ -1,23 +1,23 @@
 ---
-title: "Will the median home value in Miami be between $1,089,000 and $1,125,000 on September 30?"
-description: "Will the median home value in Miami be between $1,089,000 and $1,125,000 on September 30? Odds: 24.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will the median home value in Miami be between $1,089,000 and $1,125,000 on September 30?"
+title: "Will the Communist Party of the Russian Federation (KPRF) gain the most seats in the next Russian parliamentary election?"
+description: "Will the Communist Party of the Russian Federation (KPRF) gain the most seats in the next Russian parliamentary election? Odds: 1.9% YES on Polymarket. See l..."
+marketQuestion: "Will the Communist Party of the Russian Federation (KPRF) gain the most seats in the next Russian parliamentary election?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-07-07
 expiryDate: 2026-09-30
-tags: ["politics", "polymarket"]
-polymarketYes: 24.5
-polymarketNo: 75.5
-polymarketVolume: 9876
-polymarketUrl: "https://polymarket.com/event/will-the-median-home-value-in-miami-be-between-1089000-and-1125000-20260630172332855"
+tags: ["ai", "elections", "federal-reserve", "politics", "polymarket"]
+polymarketYes: 1.9
+polymarketNo: 98.0
+polymarketVolume: 991738
+polymarketUrl: "https://polymarket.com/event/will-the-communist-party-of-the-russian-federation-kprf-gain-the-most-seats-in-the-next-russian-parliamentary-election"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 24.5% | 75.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 1.9% | 98.0% | $992K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-the-median-home-value-in-miami
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will the median home value in Miami be between $1,089,000 and $1,125,000 on September 30?"?
+### What are the current odds for "Will the Communist Party of the Russian Federation (KPRF) gain the most seats in the next Russian parliamentary election?"?
 
-As of July 07, 2026, Polymarket prices YES at 24.5%.
+As of July 07, 2026, Polymarket prices YES at 1.9%.
 
 ### Where can I trade on this prediction market?
 

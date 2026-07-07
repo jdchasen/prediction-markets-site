@@ -1,14 +1,14 @@
 ---
 title: "Will Brazil’s Annual Inflation in 2026 be between 4.50% and 4.99%?"
-description: "Will Brazil’s Annual Inflation in 2026 be between 4.50% and 4.99%? Odds: 27.6% YES on Polymarket. See live prices and trade this market."
+description: "Will Brazil’s Annual Inflation in 2026 be between 4.50% and 4.99%? Odds: 28.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Brazil’s Annual Inflation in 2026 be between 4.50% and 4.99%?"
 category: "economics"
 status: "active"
 lastUpdated: 2026-07-07
 expiryDate: 2027-01-12
 tags: ["economics", "polymarket", "sports"]
-polymarketYes: 27.6
-polymarketNo: 72.5
+polymarketYes: 28.4
+polymarketNo: 71.6
 polymarketVolume: 9728
 polymarketUrl: "https://polymarket.com/event/will-brazils-annual-inflation-in-2026-be-between-4pt50-and-4pt99"
 ---
@@ -17,19 +17,18 @@ polymarketUrl: "https://polymarket.com/event/will-brazils-annual-inflation-in-20
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 27.6% | 72.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 28.4% | 71.6% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will annual inflation be 3.9% in June?](/odds/will-annual-inflation-be-39-in-june) — 15% YES
-- [Will the Fed increase interest rates by 50+ bps after the October 2026 meeting?](/odds/will-the-fed-increase-interest-rates-by-50-bps-after-the-october-2026-meeting) — 2% YES
+- [No change in Bank of England’s interest rates after September 2026 meeting?](/odds/no-change-in-bank-of-englands-interest-rates-after-september-2026-meeting) — 89% YES
 - [Will South Korea’s 2026 Annual Inflation be at least 3.0%?](/odds/will-south-koreas-2026-annual-inflation-be-at-least-30) — 30% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Brazil’s Annual Inflation in 2026 be between 4.50% and 4.99%?"?
 
-As of July 07, 2026, Polymarket prices YES at 27.6%.
+As of July 07, 2026, Polymarket prices YES at 28.4%.
 
 ### Where can I trade on this prediction market?
 

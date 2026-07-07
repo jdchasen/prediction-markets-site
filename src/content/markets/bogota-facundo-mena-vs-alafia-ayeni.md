@@ -1,23 +1,23 @@
 ---
-title: "Russia coup attempt in 2026?"
-description: "Russia coup attempt in 2026? Odds: 9.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Russia coup attempt in 2026?"
+title: "Bogota: Facundo Mena vs Alafia Ayeni"
+description: "Bogota: Facundo Mena vs Alafia Ayeni Odds: 62.0% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Bogota: Facundo Mena vs Alafia Ayeni"
 category: "politics"
 status: "active"
 lastUpdated: 2026-07-07
-expiryDate: 2026-12-31
+expiryDate: 2026-07-13
 tags: ["politics", "polymarket"]
-polymarketYes: 9.5
-polymarketNo: 90.5
-polymarketVolume: 97410
-polymarketUrl: "https://polymarket.com/event/russia-coup-attempt-in-2026"
+polymarketYes: 62.0
+polymarketNo: 38.0
+polymarketVolume: 98131
+polymarketUrl: "https://polymarket.com/event/atp-mena-ayeni-2026-07-06"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 9.5% | 90.5% | $97K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 62.0% | 38.0% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,16 +27,11 @@ polymarketUrl: "https://polymarket.com/event/russia-coup-attempt-in-2026"
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Russia coup attempt in 2026?"?
+### What are the current odds for "Bogota: Facundo Mena vs Alafia Ayeni"?
 
-As of July 07, 2026, Polymarket prices YES at 9.5%.
+As of July 07, 2026, Polymarket prices YES at 62.0%.
 
 ### Where can I trade on this prediction market?
 
 You can trade this market on [Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) (crypto-based).
-
-## Learn More
-
-- [Will ETH Hit $4,500 in 2026? Live Market Odds](/blog/will-ethereum-reach-4500-in-2026-what-prediction-markets-say)
-- [Will Discord IPO in 2026? What Prediction Markets Say](/blog/will-discord-ipo-in-2026-what-prediction-markets-say)
 

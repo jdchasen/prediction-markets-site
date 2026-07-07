@@ -3,7 +3,7 @@ title: "Will a player representing Morocco be the top goalscorer at the 2026 FIF
 description: "Will a player representing Morocco be the top goalscorer at the 2026 FIFA World Cup? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will a player representing Morocco be the top goalscorer at the 2026 FIFA World Cup?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-07-07
 expiryDate: 2026-08-20
 tags: ["polymarket", "sports"]

@@ -20,9 +20,9 @@ polymarketUrl: "https://polymarket.com/event/mlb-perfect-game-thrown-in-2026-sea
 
 ## Related Markets
 
-- [Will Colombia win the 2026 FIFA World Cup?](/odds/will-colombia-win-the-2026-fifa-world-cup) — 3% YES
-- [Will France win the 2026 FIFA World Cup?](/odds/will-france-win-the-2026-fifa-world-cup) — 33% YES
 - [Will Arizona Cardinals win the 2027 NFL NFC Championship?](/odds/will-arizona-cardinals-win-the-2027-nfl-nfc-championship) — 1% YES
+- [Will Dallas Mavericks win the 2027 NBA Finals?](/odds/will-dallas-mavericks-win-the-2027-nba-finals) — 1% YES
+- [Will Detroit Pistons win the 2027 NBA Finals?](/odds/will-detroit-pistons-win-the-2027-nba-finals) — 2% YES
 
 ## Frequently Asked Questions
 

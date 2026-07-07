@@ -3,7 +3,7 @@ title: "Will Indiana Pacers win the 2027 NBA Finals?"
 description: "Will Indiana Pacers win the 2027 NBA Finals? Odds: 2.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Indiana Pacers win the 2027 NBA Finals?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-07-07
 expiryDate: 2027-07-01
 tags: ["polymarket", "sports"]
