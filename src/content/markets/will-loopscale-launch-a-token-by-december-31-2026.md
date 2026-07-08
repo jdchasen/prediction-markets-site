@@ -9,7 +9,7 @@ expiryDate: 2027-01-01
 tags: ["crypto", "polymarket"]
 polymarketYes: 17.0
 polymarketNo: 83.0
-polymarketVolume: 97939
+polymarketVolume: 97949
 polymarketUrl: "https://polymarket.com/event/will-loopscale-launch-a-token-by-december-31-2026"
 ---
 
@@ -22,8 +22,8 @@ polymarketUrl: "https://polymarket.com/event/will-loopscale-launch-a-token-by-de
 ## Related Markets
 
 - [Will MetaMask launch a token by September 30, 2026?](/odds/will-metamask-launch-a-token-by-september-30-2026) — 2% YES
-- [Will Ethereum reach $3,000 by December 31, 2026?](/odds/will-ethereum-reach-3000-by-december-31-2026) — 14% YES
-- [Ventuals FDV above $300M one day after launch?](/odds/ventuals-fdv-above-300m-one-day-after-launch) — 4% YES
+- [Will Ethereum reach $3,000 by December 31, 2026?](/odds/will-ethereum-reach-3000-by-december-31-2026) — 13% YES
+- [Will the price of Bitcoin be above $60,000 on July 12?](/odds/will-the-price-of-bitcoin-be-above-60000-on-july-12) — 86% YES
 
 ## Frequently Asked Questions
 

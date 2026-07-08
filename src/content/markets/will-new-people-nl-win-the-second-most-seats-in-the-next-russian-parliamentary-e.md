@@ -1,23 +1,23 @@
 ---
-title: "Will the Democratic Party win the CA-11 House seat?"
-description: "Will the Democratic Party win the CA-11 House seat? Odds: 94.9% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will the Democratic Party win the CA-11 House seat?"
+title: "Will New People (NL) win the second-most seats in the next Russian parliamentary election?"
+description: "Will New People (NL) win the second-most seats in the next Russian parliamentary election? Odds: 23.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will New People (NL) win the second-most seats in the next Russian parliamentary election?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-07-08
-expiryDate: 2026-11-03
-tags: ["politics", "polymarket"]
-polymarketYes: 94.9
-polymarketNo: 5.1
-polymarketVolume: 9765
-polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-ca-11-house-seat"
+expiryDate: 2026-09-20
+tags: ["elections", "politics", "polymarket"]
+polymarketYes: 23.5
+polymarketNo: 76.5
+polymarketVolume: 9868
+polymarketUrl: "https://polymarket.com/event/will-new-people-nl-win-the-second-most-seats-in-the-next-russian-parliamentary-election"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 94.9% | 5.1% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 23.5% | 76.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-c
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will the Democratic Party win the CA-11 House seat?"?
+### What are the current odds for "Will New People (NL) win the second-most seats in the next Russian parliamentary election?"?
 
-As of July 08, 2026, Polymarket prices YES at 94.9%.
+As of July 08, 2026, Polymarket prices YES at 23.5%.
 
 ### Where can I trade on this prediction market?
 

@@ -3,7 +3,7 @@ title: "Will Perplexity's valuation hit (HIGH) $20B by July 31?"
 description: "Will Perplexity's valuation hit (HIGH) $20B by July 31? Odds: 4.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Perplexity's valuation hit (HIGH) $20B by July 31?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-07-08
 expiryDate: 2026-08-01
 tags: ["politics", "polymarket"]

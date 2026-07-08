@@ -9,7 +9,7 @@ expiryDate: 2027-01-25
 tags: ["polymarket", "sports"]
 polymarketYes: 6.6
 polymarketNo: 93.4
-polymarketVolume: 9846
+polymarketVolume: 9896
 polymarketUrl: "https://polymarket.com/event/will-new-york-giants-win-the-2027-nfl-nfc-championship-866"
 ---
 
@@ -22,8 +22,8 @@ polymarketUrl: "https://polymarket.com/event/will-new-york-giants-win-the-2027-n
 ## Related Markets
 
 - [Will Arizona Cardinals win the 2027 NFL NFC Championship?](/odds/will-arizona-cardinals-win-the-2027-nfl-nfc-championship) — 1% YES
-- [Will Detroit Pistons win the 2027 NBA Finals?](/odds/will-detroit-pistons-win-the-2027-nba-finals) — 2% YES
 - [Will Oklahoma City Thunder win the 2027 NBA Finals?](/odds/will-oklahoma-city-thunder-win-the-2027-nba-finals) — 22% YES
+- [Will Kansas City Chiefs win the 2027 NFL AFC Championship?](/odds/will-kansas-city-chiefs-win-the-2027-nfl-afc-championship) — 10% YES
 
 ## Frequently Asked Questions
 

@@ -3,7 +3,7 @@ title: "Will Janet Mills be the Maine Senate Democratic nominee on July 27?"
 description: "Will Janet Mills be the Maine Senate Democratic nominee on July 27? Odds: 2.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Janet Mills be the Maine Senate Democratic nominee on July 27?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-07-08
 expiryDate: 2026-07-27
 tags: ["ai", "politics", "polymarket"]

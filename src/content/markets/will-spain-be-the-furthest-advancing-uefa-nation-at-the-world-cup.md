@@ -3,7 +3,7 @@ title: "Will Spain be the furthest advancing UEFA nation at the World Cup?"
 description: "Will Spain be the furthest advancing UEFA nation at the World Cup? Odds: 25.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Spain be the furthest advancing UEFA nation at the World Cup?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-07-08
 expiryDate: 2026-07-20
 tags: ["ai", "polymarket", "sports"]

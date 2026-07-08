@@ -3,7 +3,7 @@ title: "Will Bridget Brink be the Democratic nominee for MI-07?"
 description: "Will Bridget Brink be the Democratic nominee for MI-07? Odds: 53.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Bridget Brink be the Democratic nominee for MI-07?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-07-08
 expiryDate: 2026-08-04
 tags: ["politics", "polymarket"]

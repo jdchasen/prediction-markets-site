@@ -19,12 +19,6 @@ polymarketUrl: "https://polymarket.com/event/will-trump-sell-25k-100k-gold-cards
 |----------|-----|-----|--------|-------|
 | Polymarket | 0.5% | 99.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
-## Related Markets
-
-- [Will Trump sell 2.5k-5k Gold Cards in 2026?](/odds/will-trump-sell-25k-5k-gold-cards-in-2026) — 2% YES
-- [Will OpenAI’s market cap be $1.5T or greater at market close on IPO day by December 31, 2027?](/odds/will-openais-market-cap-be-15t-or-greater-at-market-close-on-ipo-day-by-december) — 29% YES
-- [Will Anthropic's market cap be between $2.5T and $2.75T at market close on IPO day?](/odds/will-anthropics-market-cap-be-between-25t-and-275t-at-market-close-on-ipo-day) — 10% YES
-
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Trump sell 25k-100k Gold Cards in 2026?"?

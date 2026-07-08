@@ -1,23 +1,23 @@
 ---
-title: "Will the Democratic Party win the CA-11 House seat?"
-description: "Will the Democratic Party win the CA-11 House seat? Odds: 94.9% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will the Democratic Party win the CA-11 House seat?"
+title: "Will Brittany Mahomes attend Taylor Swift's wedding?"
+description: "Will Brittany Mahomes attend Taylor Swift's wedding? Odds: 64.0% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Brittany Mahomes attend Taylor Swift's wedding?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-07-08
-expiryDate: 2026-11-03
+expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 94.9
-polymarketNo: 5.1
-polymarketVolume: 9765
-polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-ca-11-house-seat"
+polymarketYes: 64.0
+polymarketNo: 35.9
+polymarketVolume: 98569
+polymarketUrl: "https://polymarket.com/event/will-brittany-mahomes-attend-taylor-swifts-wedding"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 94.9% | 5.1% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 64.0% | 35.9% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-c
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will the Democratic Party win the CA-11 House seat?"?
+### What are the current odds for "Will Brittany Mahomes attend Taylor Swift's wedding?"?
 
-As of July 08, 2026, Polymarket prices YES at 94.9%.
+As of July 08, 2026, Polymarket prices YES at 64.0%.
 
 ### Where can I trade on this prediction market?
 

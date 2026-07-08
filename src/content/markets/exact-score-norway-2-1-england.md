@@ -3,7 +3,7 @@ title: "Exact Score: Norway 2 - 1 England?"
 description: "Exact Score: Norway 2 - 1 England? Odds: 6.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Exact Score: Norway 2 - 1 England?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-07-08
 expiryDate: 2026-07-11
 tags: ["politics", "polymarket"]

@@ -1,23 +1,23 @@
 ---
-title: "Will the Democratic Party win the CA-11 House seat?"
-description: "Will the Democratic Party win the CA-11 House seat? Odds: 94.9% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will the Democratic Party win the CA-11 House seat?"
+title: "Will Sergio Moro win the Governor of Paraná election?"
+description: "Will Sergio Moro win the Governor of Paraná election? Odds: 83.0% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Sergio Moro win the Governor of Paraná election?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-07-08
-expiryDate: 2026-11-03
-tags: ["politics", "polymarket"]
-polymarketYes: 94.9
-polymarketNo: 5.1
-polymarketVolume: 9765
-polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-ca-11-house-seat"
+expiryDate: 2026-10-05
+tags: ["elections", "politics", "polymarket"]
+polymarketYes: 83.0
+polymarketNo: 17.0
+polymarketVolume: 9804
+polymarketUrl: "https://polymarket.com/event/will-sergio-moro-win-the-governor-of-parana-election-20260608205122817"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 94.9% | 5.1% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 83.0% | 17.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-c
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will the Democratic Party win the CA-11 House seat?"?
+### What are the current odds for "Will Sergio Moro win the Governor of Paraná election?"?
 
-As of July 08, 2026, Polymarket prices YES at 94.9%.
+As of July 08, 2026, Polymarket prices YES at 83.0%.
 
 ### Where can I trade on this prediction market?
 

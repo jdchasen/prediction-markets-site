@@ -9,7 +9,7 @@ expiryDate: 2027-01-25
 tags: ["polymarket", "sports"]
 polymarketYes: 9.5
 polymarketNo: 90.5
-polymarketVolume: 98712
+polymarketVolume: 98849
 polymarketUrl: "https://polymarket.com/event/will-kansas-city-chiefs-win-the-2027-nfl-afc-championship-257"
 ---
 
@@ -22,8 +22,8 @@ polymarketUrl: "https://polymarket.com/event/will-kansas-city-chiefs-win-the-202
 ## Related Markets
 
 - [Will Arizona Cardinals win the 2027 NFL NFC Championship?](/odds/will-arizona-cardinals-win-the-2027-nfl-nfc-championship) — 1% YES
-- [Will Detroit Pistons win the 2027 NBA Finals?](/odds/will-detroit-pistons-win-the-2027-nba-finals) — 2% YES
 - [Will Oklahoma City Thunder win the 2027 NBA Finals?](/odds/will-oklahoma-city-thunder-win-the-2027-nba-finals) — 22% YES
+- [Will Baker Mayfield win the 2026 NFL MVP?](/odds/will-baker-mayfield-win-the-2026-nfl-mvp) — 2% YES
 
 ## Frequently Asked Questions
 

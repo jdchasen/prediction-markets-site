@@ -3,7 +3,7 @@ title: "Will Labour Party win the most seats in the New Zealand House of Represe
 description: "Will Labour Party win the most seats in the New Zealand House of Representatives in the 2026 New Zealand legislative election? Odds: 66.5% YES on Polymarket...."
 marketQuestion: "Will Labour Party win the most seats in the New Zealand House of Representatives in the 2026 New Zealand legislative election?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-07-08
 expiryDate: 2026-11-07
 tags: ["elections", "politics", "polymarket"]

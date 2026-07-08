@@ -1,14 +1,14 @@
 ---
 title: "MLB: Perfect Game thrown in 2026 season?"
-description: "MLB: Perfect Game thrown in 2026 season? Odds: 20.0% YES on Polymarket. See live prices and trade this market."
+description: "MLB: Perfect Game thrown in 2026 season? Odds: 43.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "MLB: Perfect Game thrown in 2026 season?"
 category: "sports"
 status: "active"
 lastUpdated: 2026-07-08
 tags: ["polymarket", "sports"]
-polymarketYes: 20.0
-polymarketNo: 80.0
-polymarketVolume: 9895
+polymarketYes: 43.0
+polymarketNo: 57.0
+polymarketVolume: 9901
 polymarketUrl: "https://polymarket.com/event/mlb-perfect-game-thrown-in-2026-season"
 ---
 
@@ -16,19 +16,19 @@ polymarketUrl: "https://polymarket.com/event/mlb-perfect-game-thrown-in-2026-sea
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 20.0% | 80.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 43.0% | 57.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Arizona Cardinals win the 2027 NFL NFC Championship?](/odds/will-arizona-cardinals-win-the-2027-nfl-nfc-championship) — 1% YES
-- [Will Detroit Pistons win the 2027 NBA Finals?](/odds/will-detroit-pistons-win-the-2027-nba-finals) — 2% YES
 - [Will Oklahoma City Thunder win the 2027 NBA Finals?](/odds/will-oklahoma-city-thunder-win-the-2027-nba-finals) — 22% YES
+- [Will Kansas City Chiefs win the 2027 NFL AFC Championship?](/odds/will-kansas-city-chiefs-win-the-2027-nfl-afc-championship) — 10% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "MLB: Perfect Game thrown in 2026 season?"?
 
-As of July 08, 2026, Polymarket prices YES at 20.0%.
+As of July 08, 2026, Polymarket prices YES at 43.0%.
 
 ### Where can I trade on this prediction market?
 

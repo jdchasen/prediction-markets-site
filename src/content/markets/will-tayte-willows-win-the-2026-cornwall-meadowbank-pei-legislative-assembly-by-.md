@@ -1,15 +1,15 @@
 ---
 title: "Will Tayte Willows win the 2026 Cornwall-Meadowbank PEI Legislative Assembly by-election?"
-description: "Will Tayte Willows win the 2026 Cornwall-Meadowbank PEI Legislative Assembly by-election? Odds: 48.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Tayte Willows win the 2026 Cornwall-Meadowbank PEI Legislative Assembly by-election? Odds: 51.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Tayte Willows win the 2026 Cornwall-Meadowbank PEI Legislative Assembly by-election?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-07-08
 expiryDate: 2026-07-13
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 48.5
-polymarketNo: 51.5
-polymarketVolume: 9838
+polymarketYes: 51.5
+polymarketNo: 48.5
+polymarketVolume: 9942
 polymarketUrl: "https://polymarket.com/event/will-tayte-willows-win-the-2026-cornwall-meadowbank-pei-legislative-assembly-by-election-20260702005256487"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-tayte-willows-win-the-2026-cor
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 48.5% | 51.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 51.5% | 48.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will James Talarico win the 2028 Democratic presidential nomination?](/odds/will-james-talarico-win-the-2028-democratic-presidential-nomination) — 1% YES
 - [Trump out as President before 2027?](/odds/trump-out-as-president-before-2027) — 8% YES
-- [Will there be no Head of State in Iran end of 2026?](/odds/will-there-be-no-head-of-state-in-iran-end-of-2026) — 2% YES
+- [Will there be no Head of State in Iran end of 2026?](/odds/will-there-be-no-head-of-state-in-iran-end-of-2026) — 3% YES
+- [Will the New York Mets win the 2026 World Series?](/odds/will-the-new-york-mets-win-the-2026-world-series) — 1% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Tayte Willows win the 2026 Cornwall-Meadowbank PEI Legislative Assembly by-election?"?
 
-As of July 08, 2026, Polymarket prices YES at 48.5%.
+As of July 08, 2026, Polymarket prices YES at 51.5%.
 
 ### Where can I trade on this prediction market?
 

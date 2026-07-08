@@ -1,14 +1,14 @@
 ---
 title: "World Cup Goals H2H: Yamal vs. Mbappe"
-description: "World Cup Goals H2H: Yamal vs. Mbappe Odds: 0.5% YES on Polymarket. See live prices and trade this market."
+description: "World Cup Goals H2H: Yamal vs. Mbappe Odds: 0.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "World Cup Goals H2H: Yamal vs. Mbappe"
 category: "sports"
 status: "active"
 lastUpdated: 2026-07-08
 expiryDate: 2026-07-20
 tags: ["polymarket", "sports"]
-polymarketYes: 0.5
-polymarketNo: 99.5
+polymarketYes: 0.7
+polymarketNo: 99.4
 polymarketVolume: 9913
 polymarketUrl: "https://polymarket.com/event/world-cup-goals-h2h-yamal-vspt-mbappe-20260604014012402"
 ---
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/world-cup-goals-h2h-yamal-vspt-mbap
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.5% | 99.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.7% | 99.4% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Arizona Cardinals win the 2027 NFL NFC Championship?](/odds/will-arizona-cardinals-win-the-2027-nfl-nfc-championship) — 1% YES
-- [Will Detroit Pistons win the 2027 NBA Finals?](/odds/will-detroit-pistons-win-the-2027-nba-finals) — 2% YES
 - [Will Oklahoma City Thunder win the 2027 NBA Finals?](/odds/will-oklahoma-city-thunder-win-the-2027-nba-finals) — 22% YES
+- [Will Kansas City Chiefs win the 2027 NFL AFC Championship?](/odds/will-kansas-city-chiefs-win-the-2027-nfl-afc-championship) — 10% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "World Cup Goals H2H: Yamal vs. Mbappe"?
 
-As of July 08, 2026, Polymarket prices YES at 0.5%.
+As of July 08, 2026, Polymarket prices YES at 0.7%.
 
 ### Where can I trade on this prediction market?
 
