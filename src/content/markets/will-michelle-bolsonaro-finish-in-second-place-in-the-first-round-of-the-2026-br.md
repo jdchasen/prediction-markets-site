@@ -1,14 +1,14 @@
 ---
 title: "Will Michelle Bolsonaro finish in second place in the first round of the 2026 Brazilian presidential election?"
-description: "Will Michelle Bolsonaro finish in second place in the first round of the 2026 Brazilian presidential election? Odds: 0.7% YES on Polymarket. See live prices ..."
+description: "Will Michelle Bolsonaro finish in second place in the first round of the 2026 Brazilian presidential election? Odds: 0.6% YES on Polymarket. See live prices ..."
 marketQuestion: "Will Michelle Bolsonaro finish in second place in the first round of the 2026 Brazilian presidential election?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-07-07
+lastUpdated: 2026-07-08
 expiryDate: 2026-10-04
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 0.7
-polymarketNo: 99.3
+polymarketYes: 0.6
+polymarketNo: 99.4
 polymarketVolume: 98911
 polymarketUrl: "https://polymarket.com/event/will-michelle-bolsonaro-finish-in-second-place-in-the-first-round-of-the-2026-brazilian-presidential-election"
 ---
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-michelle-bolsonaro-finish-in-s
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.7% | 99.3% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.6% | 99.4% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will James Talarico win the 2028 Democratic presidential nomination?](/odds/will-james-talarico-win-the-2028-democratic-presidential-nomination) — 1% YES
-- [Trump out as President before 2027?](/odds/trump-out-as-president-before-2027) — 7% YES
-- [Will A Just Russia – For Truth (SRZP) gain the most seats in the next Russian parliamentary election?](/odds/will-a-just-russia-for-truth-srzp-gain-the-most-seats-in-the-next-russian-parlia) — 0% YES
+- [Trump out as President before 2027?](/odds/trump-out-as-president-before-2027) — 8% YES
+- [Will there be no Head of State in Iran end of 2026?](/odds/will-there-be-no-head-of-state-in-iran-end-of-2026) — 2% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Michelle Bolsonaro finish in second place in the first round of the 2026 Brazilian presidential election?"?
 
-As of July 07, 2026, Polymarket prices YES at 0.7%.
+As of July 08, 2026, Polymarket prices YES at 0.6%.
 
 ### Where can I trade on this prediction market?
 

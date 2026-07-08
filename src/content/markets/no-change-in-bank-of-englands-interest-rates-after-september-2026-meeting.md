@@ -3,8 +3,8 @@ title: "No change in Bank of England’s interest rates after September 2026 mee
 description: "No change in Bank of England’s interest rates after September 2026 meeting? Odds: 89.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "No change in Bank of England’s interest rates after September 2026 meeting?"
 category: "economics"
-status: "active"
-lastUpdated: 2026-07-07
+status: "settled"
+lastUpdated: 2026-07-08
 expiryDate: 2026-09-17
 tags: ["economics", "interest-rates", "polymarket"]
 polymarketYes: 89.0

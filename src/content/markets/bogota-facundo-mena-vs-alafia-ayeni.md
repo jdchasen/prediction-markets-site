@@ -3,8 +3,8 @@ title: "Bogota: Facundo Mena vs Alafia Ayeni"
 description: "Bogota: Facundo Mena vs Alafia Ayeni Odds: 62.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Bogota: Facundo Mena vs Alafia Ayeni"
 category: "politics"
-status: "active"
-lastUpdated: 2026-07-07
+status: "settled"
+lastUpdated: 2026-07-08
 expiryDate: 2026-07-13
 tags: ["politics", "polymarket"]
 polymarketYes: 62.0

@@ -3,8 +3,8 @@ title: "Will John E. Sununu be the Republican nominee for Senate in New Hampshir
 description: "Will John E. Sununu be the Republican nominee for Senate in New Hampshire? Odds: 97.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will John E. Sununu be the Republican nominee for Senate in New Hampshire?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-07-07
+status: "settled"
+lastUpdated: 2026-07-08
 expiryDate: 2026-09-08
 tags: ["politics", "polymarket"]
 polymarketYes: 97.9

@@ -1,14 +1,14 @@
 ---
 title: "Will the Republic of the Congo have an Ebola case in 2026?"
-description: "Will the Republic of the Congo have an Ebola case in 2026? Odds: 17.0% YES on Polymarket. See live prices and trade this market."
+description: "Will the Republic of the Congo have an Ebola case in 2026? Odds: 15.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Republic of the Congo have an Ebola case in 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-07-07
+lastUpdated: 2026-07-08
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 17.0
-polymarketNo: 83.0
+polymarketYes: 15.0
+polymarketNo: 85.0
 polymarketVolume: 9917
 polymarketUrl: "https://polymarket.com/event/will-the-republic-of-the-congo-have-an-ebola-case-in-2026"
 ---
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-the-republic-of-the-congo-have
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 17.0% | 83.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 15.0% | 85.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will James Talarico win the 2028 Democratic presidential nomination?](/odds/will-james-talarico-win-the-2028-democratic-presidential-nomination) — 1% YES
-- [Trump out as President before 2027?](/odds/trump-out-as-president-before-2027) — 7% YES
-- [Will A Just Russia – For Truth (SRZP) gain the most seats in the next Russian parliamentary election?](/odds/will-a-just-russia-for-truth-srzp-gain-the-most-seats-in-the-next-russian-parlia) — 0% YES
+- [Trump out as President before 2027?](/odds/trump-out-as-president-before-2027) — 8% YES
+- [Will there be no Head of State in Iran end of 2026?](/odds/will-there-be-no-head-of-state-in-iran-end-of-2026) — 2% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will the Republic of the Congo have an Ebola case in 2026?"?
 
-As of July 07, 2026, Polymarket prices YES at 17.0%.
+As of July 08, 2026, Polymarket prices YES at 15.0%.
 
 ### Where can I trade on this prediction market?
 

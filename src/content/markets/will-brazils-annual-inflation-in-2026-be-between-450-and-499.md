@@ -4,11 +4,11 @@ description: "Will Brazil’s Annual Inflation in 2026 be between 4.50% and 4.99
 marketQuestion: "Will Brazil’s Annual Inflation in 2026 be between 4.50% and 4.99%?"
 category: "economics"
 status: "active"
-lastUpdated: 2026-07-07
+lastUpdated: 2026-07-08
 expiryDate: 2027-01-12
 tags: ["economics", "polymarket", "sports"]
 polymarketYes: 28.4
-polymarketNo: 71.6
+polymarketNo: 71.5
 polymarketVolume: 9728
 polymarketUrl: "https://polymarket.com/event/will-brazils-annual-inflation-in-2026-be-between-4pt50-and-4pt99"
 ---
@@ -17,18 +17,18 @@ polymarketUrl: "https://polymarket.com/event/will-brazils-annual-inflation-in-20
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 28.4% | 71.6% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 28.4% | 71.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [No change in Bank of England’s interest rates after September 2026 meeting?](/odds/no-change-in-bank-of-englands-interest-rates-after-september-2026-meeting) — 89% YES
 - [Will South Korea’s 2026 Annual Inflation be at least 3.0%?](/odds/will-south-koreas-2026-annual-inflation-be-at-least-30) — 30% YES
+- [Will UK annual GDP growth in 2026 be below 0%?](/odds/will-uk-annual-gdp-growth-in-2026-be-below-0) — 12% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Brazil’s Annual Inflation in 2026 be between 4.50% and 4.99%?"?
 
-As of July 07, 2026, Polymarket prices YES at 28.4%.
+As of July 08, 2026, Polymarket prices YES at 28.4%.
 
 ### Where can I trade on this prediction market?
 

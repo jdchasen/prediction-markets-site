@@ -1,15 +1,15 @@
 ---
 title: "Will Kansas City Chiefs win the 2027 NFL AFC Championship?"
-description: "Will Kansas City Chiefs win the 2027 NFL AFC Championship? Odds: 9.0% YES on Polymarket. See live prices and trade this market."
+description: "Will Kansas City Chiefs win the 2027 NFL AFC Championship? Odds: 9.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Kansas City Chiefs win the 2027 NFL AFC Championship?"
 category: "sports"
 status: "active"
-lastUpdated: 2026-07-07
+lastUpdated: 2026-07-08
 expiryDate: 2027-01-25
 tags: ["polymarket", "sports"]
-polymarketYes: 9.0
-polymarketNo: 91.0
-polymarketVolume: 98517
+polymarketYes: 9.5
+polymarketNo: 90.5
+polymarketVolume: 98712
 polymarketUrl: "https://polymarket.com/event/will-kansas-city-chiefs-win-the-2027-nfl-afc-championship-257"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-kansas-city-chiefs-win-the-202
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 9.0% | 91.0% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 9.5% | 90.5% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Arizona Cardinals win the 2027 NFL NFC Championship?](/odds/will-arizona-cardinals-win-the-2027-nfl-nfc-championship) — 1% YES
-- [Will Dallas Mavericks win the 2027 NBA Finals?](/odds/will-dallas-mavericks-win-the-2027-nba-finals) — 1% YES
 - [Will Detroit Pistons win the 2027 NBA Finals?](/odds/will-detroit-pistons-win-the-2027-nba-finals) — 2% YES
+- [Will Oklahoma City Thunder win the 2027 NBA Finals?](/odds/will-oklahoma-city-thunder-win-the-2027-nba-finals) — 22% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Kansas City Chiefs win the 2027 NFL AFC Championship?"?
 
-As of July 07, 2026, Polymarket prices YES at 9.0%.
+As of July 08, 2026, Polymarket prices YES at 9.5%.
 
 ### Where can I trade on this prediction market?
 

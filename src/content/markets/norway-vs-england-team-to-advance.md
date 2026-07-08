@@ -3,8 +3,8 @@ title: "Norway vs. England: Team to Advance"
 description: "Norway vs. England: Team to Advance Odds: 33.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Norway vs. England: Team to Advance"
 category: "politics"
-status: "active"
-lastUpdated: 2026-07-07
+status: "settled"
+lastUpdated: 2026-07-08
 expiryDate: 2026-07-11
 tags: ["politics", "polymarket"]
 polymarketYes: 33.5

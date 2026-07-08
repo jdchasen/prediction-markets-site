@@ -4,12 +4,12 @@ description: "Will Khvicha Kvaratskhelia win the 2026 Ballon d'Or? Odds: 0.2% YE
 marketQuestion: "Will Khvicha Kvaratskhelia win the 2026 Ballon d'Or?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-07-07
+lastUpdated: 2026-07-08
 expiryDate: 2026-10-31
 tags: ["politics", "polymarket"]
 polymarketYes: 0.2
 polymarketNo: 99.8
-polymarketVolume: 98179
+polymarketVolume: 99039
 polymarketUrl: "https://polymarket.com/event/will-khvicha-kvaratskhelia-win-the-2026-ballon-dor"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-khvicha-kvaratskhelia-win-the-
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.2% | 99.8% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.2% | 99.8% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will James Talarico win the 2028 Democratic presidential nomination?](/odds/will-james-talarico-win-the-2028-democratic-presidential-nomination) — 1% YES
-- [Trump out as President before 2027?](/odds/trump-out-as-president-before-2027) — 7% YES
-- [Will A Just Russia – For Truth (SRZP) gain the most seats in the next Russian parliamentary election?](/odds/will-a-just-russia-for-truth-srzp-gain-the-most-seats-in-the-next-russian-parlia) — 0% YES
+- [Trump out as President before 2027?](/odds/trump-out-as-president-before-2027) — 8% YES
+- [Will there be no Head of State in Iran end of 2026?](/odds/will-there-be-no-head-of-state-in-iran-end-of-2026) — 2% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Khvicha Kvaratskhelia win the 2026 Ballon d'Or?"?
 
-As of July 07, 2026, Polymarket prices YES at 0.2%.
+As of July 08, 2026, Polymarket prices YES at 0.2%.
 
 ### Where can I trade on this prediction market?
 

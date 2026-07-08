@@ -3,8 +3,8 @@ title: "Will the ECB announce no change at the September 2026 meeting?"
 description: "Will the ECB announce no change at the September 2026 meeting? Odds: 63.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the ECB announce no change at the September 2026 meeting?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-07-07
+status: "settled"
+lastUpdated: 2026-07-08
 expiryDate: 2026-09-10
 tags: ["politics", "polymarket"]
 polymarketYes: 63.5
