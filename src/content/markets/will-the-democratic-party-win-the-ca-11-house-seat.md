@@ -1,14 +1,14 @@
 ---
 title: "Will the Democratic Party win the CA-11 House seat?"
-description: "Will the Democratic Party win the CA-11 House seat? Odds: 95.0% YES on Polymarket. See live prices and trade this market."
+description: "Will the Democratic Party win the CA-11 House seat? Odds: 95.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Democratic Party win the CA-11 House seat?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-07-09
 expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
-polymarketYes: 95.0
-polymarketNo: 5.1
+polymarketYes: 95.2
+polymarketNo: 4.8
 polymarketVolume: 9765
 polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-ca-11-house-seat"
 ---
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-c
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 95.0% | 5.1% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 95.2% | 4.8% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Trump out as President before 2027?](/odds/trump-out-as-president-before-2027) — 8% YES
-- [Will there be no Head of State in Iran end of 2026?](/odds/will-there-be-no-head-of-state-in-iran-end-of-2026) — 3% YES
-- [Will the New York Mets win the 2026 World Series?](/odds/will-the-new-york-mets-win-the-2026-world-series) — 1% YES
+- [Will there be no Head of State in Iran end of 2026?](/odds/will-there-be-no-head-of-state-in-iran-end-of-2026) — 2% YES
+- [Will Samuel Alito announce his retirement by July 15, 2026?](/odds/will-samuel-alito-announce-his-retirement-by-july-15-2026) — 5% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will the Democratic Party win the CA-11 House seat?"?
 
-As of July 09, 2026, Polymarket prices YES at 95.0%.
+As of July 09, 2026, Polymarket prices YES at 95.2%.
 
 ### Where can I trade on this prediction market?
 

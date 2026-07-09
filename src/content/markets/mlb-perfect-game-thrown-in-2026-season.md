@@ -21,8 +21,8 @@ polymarketUrl: "https://polymarket.com/event/mlb-perfect-game-thrown-in-2026-sea
 ## Related Markets
 
 - [Will Arizona Cardinals win the 2027 NFL NFC Championship?](/odds/will-arizona-cardinals-win-the-2027-nfl-nfc-championship) — 1% YES
-- [Will a player representing France be the top goalscorer at the 2026 FIFA World Cup?](/odds/will-a-player-representing-france-be-the-top-goalscorer-at-the-2026-fifa-world-c) — 38% YES
-- [Will Belgium reach the Semifinals at the 2026 FIFA World Cup?](/odds/will-belgium-reach-the-semifinals-at-the-2026-fifa-world-cup) — 25% YES
+- [Will Kansas City Chiefs win the 2027 NFL AFC Championship?](/odds/will-kansas-city-chiefs-win-the-2027-nfl-afc-championship) — 9% YES
+- [Will Baker Mayfield win the 2026 NFL MVP?](/odds/will-baker-mayfield-win-the-2026-nfl-mvp) — 2% YES
 
 ## Frequently Asked Questions
 

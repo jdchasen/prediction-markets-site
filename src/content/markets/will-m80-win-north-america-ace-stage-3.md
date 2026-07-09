@@ -1,23 +1,22 @@
 ---
-title: "Will the Democratic Party win the GA-02 House seat?"
-description: "Will the Democratic Party win the GA-02 House seat? Odds: 92.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will the Democratic Party win the GA-02 House seat?"
+title: "Will M80 Win North America ACE Stage 3"
+description: "Will M80 Win North America ACE Stage 3 Odds: 62.0% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will M80 Win North America ACE Stage 3"
 category: "politics"
 status: "active"
 lastUpdated: 2026-07-09
-expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
-polymarketYes: 92.5
-polymarketNo: 7.5
-polymarketVolume: 9785
-polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-ga-02-house-seat"
+polymarketYes: 62.0
+polymarketNo: 38.0
+polymarketVolume: 9965
+polymarketUrl: "https://polymarket.com/event/will-m80-win-north-america-ace-stage-3-20260625200323697"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 92.5% | 7.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 62.0% | 38.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +26,9 @@ polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-g
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will the Democratic Party win the GA-02 House seat?"?
+### What are the current odds for "Will M80 Win North America ACE Stage 3"?
 
-As of July 09, 2026, Polymarket prices YES at 92.5%.
+As of July 09, 2026, Polymarket prices YES at 62.0%.
 
 ### Where can I trade on this prediction market?
 

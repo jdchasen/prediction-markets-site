@@ -21,9 +21,9 @@ polymarketUrl: "https://polymarket.com/event/will-metamask-launch-a-token-by-sep
 
 ## Related Markets
 
-- [Will Loopscale launch a token by December 31, 2026?](/odds/will-loopscale-launch-a-token-by-december-31-2026) — 24% YES
-- [Will Ethereum reach $3,000 by December 31, 2026?](/odds/will-ethereum-reach-3000-by-december-31-2026) — 13% YES
-- [Ventuals FDV above $300M one day after launch?](/odds/ventuals-fdv-above-300m-one-day-after-launch) — 4% YES
+- [Will Bitcoin dip to $60,000 in July?](/odds/will-bitcoin-dip-to-60000-in-july) — 54% YES
+- [Will Bitcoin dip to $42,500 in July?](/odds/will-bitcoin-dip-to-42500-in-july) — 1% YES
+- [Will Loopscale launch a token by December 31, 2026?](/odds/will-loopscale-launch-a-token-by-december-31-2026) — 21% YES
 
 ## Frequently Asked Questions
 

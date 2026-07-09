@@ -22,7 +22,7 @@ polymarketUrl: "https://polymarket.com/event/will-uk-annual-gdp-growth-in-2026-b
 ## Related Markets
 
 - [Will Brazil’s Annual Inflation in 2026 be between 4.50% and 4.99%?](/odds/will-brazils-annual-inflation-in-2026-be-between-450-and-499) — 28% YES
-- [Will South Korea’s 2026 Annual Inflation be at least 3.0%?](/odds/will-south-koreas-2026-annual-inflation-be-at-least-30) — 20% YES
+- [Will South Korea’s 2026 Annual Inflation be at least 3.0%?](/odds/will-south-koreas-2026-annual-inflation-be-at-least-30) — 18% YES
 
 ## Frequently Asked Questions
 

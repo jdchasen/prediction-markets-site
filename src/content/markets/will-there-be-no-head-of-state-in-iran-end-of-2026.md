@@ -1,15 +1,15 @@
 ---
 title: "Will there be no Head of State in Iran end of 2026?"
-description: "Will there be no Head of State in Iran end of 2026? Odds: 2.6% YES on Polymarket. See live prices and trade this market."
+description: "Will there be no Head of State in Iran end of 2026? Odds: 2.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will there be no Head of State in Iran end of 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-07-09
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 2.6
-polymarketNo: 97.4
-polymarketVolume: 992953
+polymarketYes: 2.5
+polymarketNo: 97.5
+polymarketVolume: 994126
 polymarketUrl: "https://polymarket.com/event/will-there-be-no-head-of-state-in-iran-end-of-2026"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-there-be-no-head-of-state-in-i
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 2.6% | 97.4% | $993K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 2.5% | 97.5% | $994K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Trump out as President before 2027?](/odds/trump-out-as-president-before-2027) — 8% YES
+- [Will Samuel Alito announce his retirement by July 15, 2026?](/odds/will-samuel-alito-announce-his-retirement-by-july-15-2026) — 5% YES
 - [Will the New York Mets win the 2026 World Series?](/odds/will-the-new-york-mets-win-the-2026-world-series) — 1% YES
-- [Will the Fed decide differently in the next three decisions (Jul–Sep–Oct)?](/odds/will-the-fed-decide-differently-in-the-next-three-decisions-julsepoct) — 48% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will there be no Head of State in Iran end of 2026?"?
 
-As of July 09, 2026, Polymarket prices YES at 2.6%.
+As of July 09, 2026, Polymarket prices YES at 2.5%.
 
 ### Where can I trade on this prediction market?
 

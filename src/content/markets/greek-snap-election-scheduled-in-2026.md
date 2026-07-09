@@ -3,7 +3,7 @@ title: "Greek snap election scheduled in 2026?"
 description: "Greek snap election scheduled in 2026? Odds: 53.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Greek snap election scheduled in 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-07-09
 expiryDate: 2026-12-31
 tags: ["elections", "politics", "polymarket"]

@@ -3,7 +3,7 @@ title: "Will G2 Esports win MSI 2026?"
 description: "Will G2 Esports win MSI 2026? Odds: 5.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will G2 Esports win MSI 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-07-09
 expiryDate: 2026-07-13
 tags: ["politics", "polymarket"]

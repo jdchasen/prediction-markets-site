@@ -3,7 +3,7 @@ title: "Will Revolut's valuation hit (LOW) $77.5B by July 31?"
 description: "Will Revolut's valuation hit (LOW) $77.5B by July 31? Odds: 0.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Revolut's valuation hit (LOW) $77.5B by July 31?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-07-09
 expiryDate: 2026-08-01
 tags: ["politics", "polymarket"]

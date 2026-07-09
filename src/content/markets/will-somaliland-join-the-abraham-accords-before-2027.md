@@ -3,7 +3,7 @@ title: "Will Somaliland join the Abraham Accords before 2027?"
 description: "Will Somaliland join the Abraham Accords before 2027? Odds: 15.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Somaliland join the Abraham Accords before 2027?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-07-09
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]

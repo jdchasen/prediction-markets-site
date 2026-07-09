@@ -21,7 +21,7 @@ polymarketUrl: "https://polymarket.com/event/will-brazils-annual-inflation-in-20
 
 ## Related Markets
 
-- [Will South Korea’s 2026 Annual Inflation be at least 3.0%?](/odds/will-south-koreas-2026-annual-inflation-be-at-least-30) — 20% YES
+- [Will South Korea’s 2026 Annual Inflation be at least 3.0%?](/odds/will-south-koreas-2026-annual-inflation-be-at-least-30) — 18% YES
 - [Will UK annual GDP growth in 2026 be below 0%?](/odds/will-uk-annual-gdp-growth-in-2026-be-below-0) — 10% YES
 
 ## Frequently Asked Questions

@@ -1,14 +1,14 @@
 ---
 title: "Will South Korea’s 2026 Annual Inflation be at least 3.0%?"
-description: "Will South Korea’s 2026 Annual Inflation be at least 3.0%? Odds: 19.5% YES on Polymarket. See live prices and trade this market."
+description: "Will South Korea’s 2026 Annual Inflation be at least 3.0%? Odds: 18.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will South Korea’s 2026 Annual Inflation be at least 3.0%?"
 category: "economics"
 status: "active"
 lastUpdated: 2026-07-09
 expiryDate: 2026-12-31
 tags: ["economics", "polymarket", "sports"]
-polymarketYes: 19.5
-polymarketNo: 80.5
+polymarketYes: 18.0
+polymarketNo: 82.0
 polymarketVolume: 9500
 polymarketUrl: "https://polymarket.com/event/will-south-koreas-2026-annual-inflation-be-at-least-3pt0"
 ---
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-south-koreas-2026-annual-infla
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 19.5% | 80.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 18.0% | 82.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -28,7 +28,7 @@ polymarketUrl: "https://polymarket.com/event/will-south-koreas-2026-annual-infla
 
 ### What are the current odds for "Will South Korea’s 2026 Annual Inflation be at least 3.0%?"?
 
-As of July 09, 2026, Polymarket prices YES at 19.5%.
+As of July 09, 2026, Polymarket prices YES at 18.0%.
 
 ### Where can I trade on this prediction market?
 

@@ -1,23 +1,23 @@
 ---
-title: "Will the Democratic Party win the GA-02 House seat?"
-description: "Will the Democratic Party win the GA-02 House seat? Odds: 92.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will the Democratic Party win the GA-02 House seat?"
+title: "Will Kraken's valuation hit (HIGH) $12.5B by December 31?"
+description: "Will Kraken's valuation hit (HIGH) $12.5B by December 31? Odds: 55.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Kraken's valuation hit (HIGH) $12.5B by December 31?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-07-09
-expiryDate: 2026-11-03
+expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]
-polymarketYes: 92.5
-polymarketNo: 7.5
-polymarketVolume: 9785
-polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-ga-02-house-seat"
+polymarketYes: 55.5
+polymarketNo: 44.5
+polymarketVolume: 9941
+polymarketUrl: "https://polymarket.com/event/will-krakens-valuation-hit-high-12pt5b-by-december-31"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 92.5% | 7.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 55.5% | 44.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-g
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will the Democratic Party win the GA-02 House seat?"?
+### What are the current odds for "Will Kraken's valuation hit (HIGH) $12.5B by December 31?"?
 
-As of July 09, 2026, Polymarket prices YES at 92.5%.
+As of July 09, 2026, Polymarket prices YES at 55.5%.
 
 ### Where can I trade on this prediction market?
 

@@ -3,7 +3,7 @@ title: "Will Natural Gas (NG) hit (LOW) $2.80 in July?"
 description: "Will Natural Gas (NG) hit (LOW) $2.80 in July? Odds: 14.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Natural Gas (NG) hit (LOW) $2.80 in July?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-07-09
 expiryDate: 2026-08-01
 tags: ["politics", "polymarket"]

@@ -1,23 +1,23 @@
 ---
-title: "Will Esther Charlestin win the 2026 Vermont Governor Democratic primary election?"
-description: "Will Esther Charlestin win the 2026 Vermont Governor Democratic primary election? Odds: 0.2% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Esther Charlestin win the 2026 Vermont Governor Democratic primary election?"
+title: "Will any AI model reach 1530 Overall Arena Score by September 30, 2026?"
+description: "Will any AI model reach 1530 Overall Arena Score by September 30, 2026? Odds: 14.0% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will any AI model reach 1530 Overall Arena Score by September 30, 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-07-09
-expiryDate: 2026-08-11
-tags: ["elections", "politics", "polymarket"]
-polymarketYes: 0.2
-polymarketNo: 99.8
-polymarketVolume: 9891
-polymarketUrl: "https://polymarket.com/event/will-esther-charlestin-win-the-2026-vermont-governor-democratic-primary-election"
+expiryDate: 2026-09-30
+tags: ["ai", "politics", "polymarket"]
+polymarketYes: 14.0
+polymarketNo: 86.0
+polymarketVolume: 9862
+polymarketUrl: "https://polymarket.com/event/will-any-ai-model-reach-1530-overall-arena-score-by-september-30-2026"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.2% | 99.8% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 14.0% | 86.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-esther-charlestin-win-the-2026
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Esther Charlestin win the 2026 Vermont Governor Democratic primary election?"?
+### What are the current odds for "Will any AI model reach 1530 Overall Arena Score by September 30, 2026?"?
 
-As of July 09, 2026, Polymarket prices YES at 0.2%.
+As of July 09, 2026, Polymarket prices YES at 14.0%.
 
 ### Where can I trade on this prediction market?
 
