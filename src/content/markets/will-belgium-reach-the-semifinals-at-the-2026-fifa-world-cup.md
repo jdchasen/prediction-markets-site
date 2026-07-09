@@ -1,15 +1,15 @@
 ---
 title: "Will Belgium reach the Semifinals at the 2026 FIFA World Cup?"
-description: "Will Belgium reach the Semifinals at the 2026 FIFA World Cup? Odds: 25.4% YES on Polymarket. See live prices and trade this market."
+description: "Will Belgium reach the Semifinals at the 2026 FIFA World Cup? Odds: 25.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Belgium reach the Semifinals at the 2026 FIFA World Cup?"
 category: "sports"
 status: "active"
-lastUpdated: 2026-07-08
+lastUpdated: 2026-07-09
 expiryDate: 2026-07-13
 tags: ["polymarket", "sports"]
-polymarketYes: 25.4
-polymarketNo: 74.7
-polymarketVolume: 97869
+polymarketYes: 25.2
+polymarketNo: 74.8
+polymarketVolume: 99470
 polymarketUrl: "https://polymarket.com/event/will-belgium-reach-the-semifinals-at-the-2026-fifa-world-cup-20260602145149733"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-belgium-reach-the-semifinals-a
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 25.4% | 74.7% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 25.2% | 74.8% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Arizona Cardinals win the 2027 NFL NFC Championship?](/odds/will-arizona-cardinals-win-the-2027-nfl-nfc-championship) — 1% YES
-- [Will Oklahoma City Thunder win the 2027 NBA Finals?](/odds/will-oklahoma-city-thunder-win-the-2027-nba-finals) — 22% YES
+- [Will a player representing France be the top goalscorer at the 2026 FIFA World Cup?](/odds/will-a-player-representing-france-be-the-top-goalscorer-at-the-2026-fifa-world-c) — 38% YES
 - [Will Kansas City Chiefs win the 2027 NFL AFC Championship?](/odds/will-kansas-city-chiefs-win-the-2027-nfl-afc-championship) — 10% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Belgium reach the Semifinals at the 2026 FIFA World Cup?"?
 
-As of July 08, 2026, Polymarket prices YES at 25.4%.
+As of July 09, 2026, Polymarket prices YES at 25.2%.
 
 ### Where can I trade on this prediction market?
 

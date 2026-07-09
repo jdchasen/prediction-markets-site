@@ -1,23 +1,23 @@
 ---
-title: "Will XRP reach $1.80 in July?"
-description: "Will XRP reach $1.80 in July? Odds: 2.8% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will XRP reach $1.80 in July?"
+title: "Will Revolut's valuation hit (LOW) $77.5B by July 31?"
+description: "Will Revolut's valuation hit (LOW) $77.5B by July 31? Odds: 0.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Revolut's valuation hit (LOW) $77.5B by July 31?"
 category: "politics"
-status: "settled"
+status: "active"
 lastUpdated: 2026-07-09
 expiryDate: 2026-08-01
 tags: ["politics", "polymarket"]
-polymarketYes: 2.8
-polymarketNo: 97.2
-polymarketVolume: 9887
-polymarketUrl: "https://polymarket.com/event/will-xrp-reach-1pt8-in-july-2026"
+polymarketYes: 0.5
+polymarketNo: 99.5
+polymarketVolume: 9927
+polymarketUrl: "https://polymarket.com/event/will-revoluts-valuation-hit-low-77pt5b-by-july-31-20260630204859530"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 2.8% | 97.2% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.5% | 99.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-xrp-reach-1pt8-in-july-2026"
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will XRP reach $1.80 in July?"?
+### What are the current odds for "Will Revolut's valuation hit (LOW) $77.5B by July 31?"?
 
-As of July 08, 2026, Polymarket prices YES at 2.8%.
+As of July 09, 2026, Polymarket prices YES at 0.5%.
 
 ### Where can I trade on this prediction market?
 

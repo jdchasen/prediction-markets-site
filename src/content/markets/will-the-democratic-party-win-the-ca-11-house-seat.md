@@ -1,13 +1,13 @@
 ---
 title: "Will the Democratic Party win the CA-11 House seat?"
-description: "Will the Democratic Party win the CA-11 House seat? Odds: 94.9% YES on Polymarket. See live prices and trade this market."
+description: "Will the Democratic Party win the CA-11 House seat? Odds: 95.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Democratic Party win the CA-11 House seat?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-07-08
+lastUpdated: 2026-07-09
 expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
-polymarketYes: 94.9
+polymarketYes: 95.0
 polymarketNo: 5.1
 polymarketVolume: 9765
 polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-ca-11-house-seat"
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-c
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 94.9% | 5.1% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 95.0% | 5.1% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-c
 
 ### What are the current odds for "Will the Democratic Party win the CA-11 House seat?"?
 
-As of July 08, 2026, Polymarket prices YES at 94.9%.
+As of July 09, 2026, Polymarket prices YES at 95.0%.
 
 ### Where can I trade on this prediction market?
 

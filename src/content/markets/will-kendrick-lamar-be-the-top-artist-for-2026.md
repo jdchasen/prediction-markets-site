@@ -4,7 +4,7 @@ description: "Will Kendrick Lamar be the top artist for 2026? Odds: 0.2% YES on 
 marketQuestion: "Will Kendrick Lamar be the top artist for 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-07-08
+lastUpdated: 2026-07-09
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 0.2
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-kendrick-lamar-be-the-top-spot
 
 ### What are the current odds for "Will Kendrick Lamar be the top artist for 2026?"?
 
-As of July 08, 2026, Polymarket prices YES at 0.2%.
+As of July 09, 2026, Polymarket prices YES at 0.2%.
 
 ### Where can I trade on this prediction market?
 

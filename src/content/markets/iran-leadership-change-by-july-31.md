@@ -3,8 +3,8 @@ title: "Iran leadership change by July 31?"
 description: "Iran leadership change by July 31? Odds: 3.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Iran leadership change by July 31?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-07-08
+status: "settled"
+lastUpdated: 2026-07-09
 expiryDate: 2026-07-31
 tags: ["politics", "polymarket"]
 polymarketYes: 3.8

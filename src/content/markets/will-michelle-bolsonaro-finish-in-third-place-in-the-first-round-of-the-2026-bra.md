@@ -4,7 +4,7 @@ description: "Will Michelle Bolsonaro finish in third place in the first round o
 marketQuestion: "Will Michelle Bolsonaro finish in third place in the first round of the 2026 Brazilian presidential election?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-07-08
+lastUpdated: 2026-07-09
 expiryDate: 2026-10-04
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.2
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-michelle-bolsonaro-finish-in-t
 
 ### What are the current odds for "Will Michelle Bolsonaro finish in third place in the first round of the 2026 Brazilian presidential election?"?
 
-As of July 08, 2026, Polymarket prices YES at 0.2%.
+As of July 09, 2026, Polymarket prices YES at 0.2%.
 
 ### Where can I trade on this prediction market?
 

@@ -1,23 +1,23 @@
 ---
-title: "Will XRP reach $1.80 in July?"
-description: "Will XRP reach $1.80 in July? Odds: 2.8% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will XRP reach $1.80 in July?"
+title: "Will Silver (XAGUSD) hit (LOW) $48 in July?"
+description: "Will Silver (XAGUSD) hit (LOW) $48 in July? Odds: 3.4% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Silver (XAGUSD) hit (LOW) $48 in July?"
 category: "politics"
-status: "settled"
+status: "active"
 lastUpdated: 2026-07-09
 expiryDate: 2026-08-01
 tags: ["politics", "polymarket"]
-polymarketYes: 2.8
-polymarketNo: 97.2
-polymarketVolume: 9887
-polymarketUrl: "https://polymarket.com/event/will-xrp-reach-1pt8-in-july-2026"
+polymarketYes: 3.4
+polymarketNo: 96.6
+polymarketVolume: 97762
+polymarketUrl: "https://polymarket.com/event/will-xagusd-dip-to-48-in-july-2026"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 2.8% | 97.2% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 3.4% | 96.6% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-xrp-reach-1pt8-in-july-2026"
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will XRP reach $1.80 in July?"?
+### What are the current odds for "Will Silver (XAGUSD) hit (LOW) $48 in July?"?
 
-As of July 08, 2026, Polymarket prices YES at 2.8%.
+As of July 09, 2026, Polymarket prices YES at 3.4%.
 
 ### Where can I trade on this prediction market?
 

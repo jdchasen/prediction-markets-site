@@ -1,15 +1,15 @@
 ---
 title: "Greek snap election scheduled in 2026?"
-description: "Greek snap election scheduled in 2026? Odds: 54.5% YES on Polymarket. See live prices and trade this market."
+description: "Greek snap election scheduled in 2026? Odds: 53.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Greek snap election scheduled in 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-07-08
+lastUpdated: 2026-07-09
 expiryDate: 2026-12-31
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 54.5
-polymarketNo: 45.5
-polymarketVolume: 9924
+polymarketYes: 53.5
+polymarketNo: 46.5
+polymarketVolume: 9974
 polymarketUrl: "https://polymarket.com/event/greek-snap-election-scheduled-in-2026-20260618181513020"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/greek-snap-election-scheduled-in-20
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 54.5% | 45.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 53.5% | 46.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/greek-snap-election-scheduled-in-20
 
 ### What are the current odds for "Greek snap election scheduled in 2026?"?
 
-As of July 08, 2026, Polymarket prices YES at 54.5%.
+As of July 09, 2026, Polymarket prices YES at 53.5%.
 
 ### Where can I trade on this prediction market?
 

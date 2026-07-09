@@ -3,8 +3,8 @@ title: "Will Michelle Bolsonaro finish in second place in the first round of the
 description: "Will Michelle Bolsonaro finish in second place in the first round of the 2026 Brazilian presidential election? Odds: 0.6% YES on Polymarket. See live prices ..."
 marketQuestion: "Will Michelle Bolsonaro finish in second place in the first round of the 2026 Brazilian presidential election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-07-08
+status: "settled"
+lastUpdated: 2026-07-09
 expiryDate: 2026-10-04
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.6

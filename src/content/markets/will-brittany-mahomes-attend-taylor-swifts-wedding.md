@@ -3,8 +3,8 @@ title: "Will Brittany Mahomes attend Taylor Swift's wedding?"
 description: "Will Brittany Mahomes attend Taylor Swift's wedding? Odds: 64.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Brittany Mahomes attend Taylor Swift's wedding?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-07-08
+status: "settled"
+lastUpdated: 2026-07-09
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 64.0

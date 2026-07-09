@@ -3,8 +3,8 @@ title: "Will Bank of America (BAC) Q2 provision for credit losses be above $1.3B
 description: "Will Bank of America (BAC) Q2 provision for credit losses be above $1.3B? Odds: 45.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Bank of America (BAC) Q2 provision for credit losses be above $1.3B?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-07-08
+status: "settled"
+lastUpdated: 2026-07-09
 expiryDate: 2026-07-14
 tags: ["politics", "polymarket"]
 polymarketYes: 45.0

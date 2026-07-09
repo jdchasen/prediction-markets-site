@@ -3,8 +3,8 @@ title: "World Cup Goals H2H: Yamal vs. Mbappe"
 description: "World Cup Goals H2H: Yamal vs. Mbappe Odds: 0.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "World Cup Goals H2H: Yamal vs. Mbappe"
 category: "sports"
-status: "active"
-lastUpdated: 2026-07-08
+status: "settled"
+lastUpdated: 2026-07-09
 expiryDate: 2026-07-20
 tags: ["polymarket", "sports"]
 polymarketYes: 0.7

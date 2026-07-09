@@ -1,23 +1,23 @@
 ---
-title: "Will Las Vegas Aces win the 2026 WNBA Finals?"
-description: "Will Las Vegas Aces win the 2026 WNBA Finals? Odds: 19.0% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Las Vegas Aces win the 2026 WNBA Finals?"
+title: "Will Paula Badosa win the 2026 Women’s US Open?"
+description: "Will Paula Badosa win the 2026 Women’s US Open? Odds: 0.4% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Paula Badosa win the 2026 Women’s US Open?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-07-09
-expiryDate: 2026-10-31
-tags: ["politics", "polymarket", "sports"]
-polymarketYes: 19.0
-polymarketNo: 81.0
-polymarketVolume: 9905
-polymarketUrl: "https://polymarket.com/event/will-las-vegas-aces-win-the-2026-wnba-finals-794"
+expiryDate: 2026-09-13
+tags: ["politics", "polymarket"]
+polymarketYes: 0.4
+polymarketNo: 99.6
+polymarketVolume: 9865
+polymarketUrl: "https://polymarket.com/event/will-paula-badosa-win-the-2026-womens-us-open"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 19.0% | 81.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.4% | 99.6% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-las-vegas-aces-win-the-2026-wn
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Las Vegas Aces win the 2026 WNBA Finals?"?
+### What are the current odds for "Will Paula Badosa win the 2026 Women’s US Open?"?
 
-As of July 09, 2026, Polymarket prices YES at 19.0%.
+As of July 09, 2026, Polymarket prices YES at 0.4%.
 
 ### Where can I trade on this prediction market?
 

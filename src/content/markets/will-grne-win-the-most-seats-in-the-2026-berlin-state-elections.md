@@ -1,15 +1,15 @@
 ---
 title: "Will Grüne win the most seats in the 2026 Berlin state elections?"
-description: "Will Grüne win the most seats in the 2026 Berlin state elections? Odds: 20.2% YES on Polymarket. See live prices and trade this market."
+description: "Will Grüne win the most seats in the 2026 Berlin state elections? Odds: 20.3% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Grüne win the most seats in the 2026 Berlin state elections?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-07-08
+lastUpdated: 2026-07-09
 expiryDate: 2026-09-20
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 20.2
-polymarketNo: 79.8
-polymarketVolume: 97657
+polymarketYes: 20.3
+polymarketNo: 79.7
+polymarketVolume: 97721
 polymarketUrl: "https://polymarket.com/event/will-grne-win-the-most-seats-in-the-2026-berlin-state-elections"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-grne-win-the-most-seats-in-the
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 20.2% | 79.8% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 20.3% | 79.7% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-grne-win-the-most-seats-in-the
 
 ### What are the current odds for "Will Grüne win the most seats in the 2026 Berlin state elections?"?
 
-As of July 08, 2026, Polymarket prices YES at 20.2%.
+As of July 09, 2026, Polymarket prices YES at 20.3%.
 
 ### Where can I trade on this prediction market?
 

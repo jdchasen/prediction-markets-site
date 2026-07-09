@@ -3,8 +3,8 @@ title: "Will the price of Bitcoin be above $60,000 on July 12?"
 description: "Will the price of Bitcoin be above $60,000 on July 12? Odds: 86.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the price of Bitcoin be above $60,000 on July 12?"
 category: "crypto"
-status: "active"
-lastUpdated: 2026-07-08
+status: "settled"
+lastUpdated: 2026-07-09
 expiryDate: 2026-07-12
 tags: ["bitcoin", "crypto", "polymarket"]
 polymarketYes: 86.5

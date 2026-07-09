@@ -3,8 +3,8 @@ title: "Will JP Morgan (JPM) Q2 investment banking fees be above $2.55B?"
 description: "Will JP Morgan (JPM) Q2 investment banking fees be above $2.55B? Odds: 99.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will JP Morgan (JPM) Q2 investment banking fees be above $2.55B?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-07-08
+status: "settled"
+lastUpdated: 2026-07-09
 expiryDate: 2026-07-14
 tags: ["politics", "polymarket"]
 polymarketYes: 99.2

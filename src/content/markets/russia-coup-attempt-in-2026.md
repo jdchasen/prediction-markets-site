@@ -4,7 +4,7 @@ description: "Russia coup attempt in 2026? Odds: 9.5% YES on Polymarket. See liv
 marketQuestion: "Russia coup attempt in 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-07-08
+lastUpdated: 2026-07-09
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 9.5
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/russia-coup-attempt-in-2026"
 
 ### What are the current odds for "Russia coup attempt in 2026?"?
 
-As of July 08, 2026, Polymarket prices YES at 9.5%.
+As of July 09, 2026, Polymarket prices YES at 9.5%.
 
 ### Where can I trade on this prediction market?
 

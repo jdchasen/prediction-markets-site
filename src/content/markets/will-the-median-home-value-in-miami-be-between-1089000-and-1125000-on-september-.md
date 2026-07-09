@@ -4,12 +4,12 @@ description: "Will the median home value in Miami be between $1,089,000 and $1,1
 marketQuestion: "Will the median home value in Miami be between $1,089,000 and $1,125,000 on September 30?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-07-08
+lastUpdated: 2026-07-09
 expiryDate: 2026-09-30
 tags: ["politics", "polymarket"]
 polymarketYes: 24.5
 polymarketNo: 75.5
-polymarketVolume: 9876
+polymarketVolume: 9898
 polymarketUrl: "https://polymarket.com/event/will-the-median-home-value-in-miami-be-between-1089000-and-1125000-20260630172332855"
 ---
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-median-home-value-in-miami
 
 ### What are the current odds for "Will the median home value in Miami be between $1,089,000 and $1,125,000 on September 30?"?
 
-As of July 08, 2026, Polymarket prices YES at 24.5%.
+As of July 09, 2026, Polymarket prices YES at 24.5%.
 
 ### Where can I trade on this prediction market?
 

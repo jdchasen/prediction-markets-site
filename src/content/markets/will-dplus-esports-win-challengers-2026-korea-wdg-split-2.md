@@ -1,23 +1,22 @@
 ---
-title: "Will Las Vegas Aces win the 2026 WNBA Finals?"
-description: "Will Las Vegas Aces win the 2026 WNBA Finals? Odds: 19.0% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Las Vegas Aces win the 2026 WNBA Finals?"
+title: "Will Dplus Esports Win Challengers 2026: Korea WDG Split 2"
+description: "Will Dplus Esports Win Challengers 2026: Korea WDG Split 2 Odds: 20.6% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Dplus Esports Win Challengers 2026: Korea WDG Split 2"
 category: "politics"
 status: "active"
 lastUpdated: 2026-07-09
-expiryDate: 2026-10-31
-tags: ["politics", "polymarket", "sports"]
-polymarketYes: 19.0
-polymarketNo: 81.0
-polymarketVolume: 9905
-polymarketUrl: "https://polymarket.com/event/will-las-vegas-aces-win-the-2026-wnba-finals-794"
+tags: ["politics", "polymarket"]
+polymarketYes: 20.6
+polymarketNo: 79.3
+polymarketVolume: 9752
+polymarketUrl: "https://polymarket.com/event/will-dplus-esports-win-challengers-2026-korea-wdg-split-2-20260625201721837"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 19.0% | 81.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 20.6% | 79.3% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +26,9 @@ polymarketUrl: "https://polymarket.com/event/will-las-vegas-aces-win-the-2026-wn
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Las Vegas Aces win the 2026 WNBA Finals?"?
+### What are the current odds for "Will Dplus Esports Win Challengers 2026: Korea WDG Split 2"?
 
-As of July 09, 2026, Polymarket prices YES at 19.0%.
+As of July 09, 2026, Polymarket prices YES at 20.6%.
 
 ### Where can I trade on this prediction market?
 

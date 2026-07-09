@@ -4,7 +4,7 @@ description: "Will Kim Jong Un be the next leader out before 2027? Odds: 0.1% YE
 marketQuestion: "Will Kim Jong Un be the next leader out before 2027?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-07-08
+lastUpdated: 2026-07-09
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 0.1
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-kim-jong-un-be-the-next-leader
 
 ### What are the current odds for "Will Kim Jong Un be the next leader out before 2027?"?
 
-As of July 08, 2026, Polymarket prices YES at 0.1%.
+As of July 09, 2026, Polymarket prices YES at 0.1%.
 
 ### Where can I trade on this prediction market?
 

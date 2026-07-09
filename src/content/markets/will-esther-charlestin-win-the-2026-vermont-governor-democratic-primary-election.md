@@ -4,7 +4,7 @@ description: "Will Esther Charlestin win the 2026 Vermont Governor Democratic pr
 marketQuestion: "Will Esther Charlestin win the 2026 Vermont Governor Democratic primary election?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-07-08
+lastUpdated: 2026-07-09
 expiryDate: 2026-08-11
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.2
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-esther-charlestin-win-the-2026
 
 ### What are the current odds for "Will Esther Charlestin win the 2026 Vermont Governor Democratic primary election?"?
 
-As of July 08, 2026, Polymarket prices YES at 0.2%.
+As of July 09, 2026, Polymarket prices YES at 0.2%.
 
 ### Where can I trade on this prediction market?
 

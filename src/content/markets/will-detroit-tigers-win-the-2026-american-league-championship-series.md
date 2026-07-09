@@ -4,7 +4,7 @@ description: "Will Detroit Tigers win the 2026 American League Championship Seri
 marketQuestion: "Will Detroit Tigers win the 2026 American League Championship Series?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-07-08
+lastUpdated: 2026-07-09
 expiryDate: 2026-11-01
 tags: ["politics", "polymarket"]
 polymarketYes: 2.9
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-detroit-tigers-win-the-2026-am
 
 ### What are the current odds for "Will Detroit Tigers win the 2026 American League Championship Series?"?
 
-As of July 08, 2026, Polymarket prices YES at 2.9%.
+As of July 09, 2026, Polymarket prices YES at 2.9%.
 
 ### Where can I trade on this prediction market?
 

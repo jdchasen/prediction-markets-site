@@ -1,23 +1,23 @@
 ---
-title: "Will Las Vegas Aces win the 2026 WNBA Finals?"
-description: "Will Las Vegas Aces win the 2026 WNBA Finals? Odds: 19.0% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Las Vegas Aces win the 2026 WNBA Finals?"
+title: "Will Haley Stevens win the 2026 Michigan Democratic Primary?"
+description: "Will Haley Stevens win the 2026 Michigan Democratic Primary? Odds: 22.6% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Haley Stevens win the 2026 Michigan Democratic Primary?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-07-09
-expiryDate: 2026-10-31
-tags: ["politics", "polymarket", "sports"]
-polymarketYes: 19.0
-polymarketNo: 81.0
-polymarketVolume: 9905
-polymarketUrl: "https://polymarket.com/event/will-las-vegas-aces-win-the-2026-wnba-finals-794"
+expiryDate: 2026-08-04
+tags: ["politics", "polymarket"]
+polymarketYes: 22.6
+polymarketNo: 77.5
+polymarketVolume: 97589
+polymarketUrl: "https://polymarket.com/event/will-haley-stevens-win-the-2026-michigan-democratic-primary"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 19.0% | 81.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 22.6% | 77.5% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-las-vegas-aces-win-the-2026-wn
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Las Vegas Aces win the 2026 WNBA Finals?"?
+### What are the current odds for "Will Haley Stevens win the 2026 Michigan Democratic Primary?"?
 
-As of July 09, 2026, Polymarket prices YES at 19.0%.
+As of July 09, 2026, Polymarket prices YES at 22.6%.
 
 ### Where can I trade on this prediction market?
 

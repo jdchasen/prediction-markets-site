@@ -4,7 +4,7 @@ description: "Will the New York Mets win the 2026 World Series? Odds: 0.7% YES o
 marketQuestion: "Will the New York Mets win the 2026 World Series?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-07-08
+lastUpdated: 2026-07-09
 expiryDate: 2026-10-31
 tags: ["politics", "polymarket"]
 polymarketYes: 0.7
@@ -23,13 +23,13 @@ polymarketUrl: "https://polymarket.com/event/will-the-new-york-mets-win-the-2026
 
 - [Trump out as President before 2027?](/odds/trump-out-as-president-before-2027) — 8% YES
 - [Will there be no Head of State in Iran end of 2026?](/odds/will-there-be-no-head-of-state-in-iran-end-of-2026) — 3% YES
-- [Will New People (NL) win the most seats in the next Russian parliamentary election?](/odds/will-new-people-nl-win-the-most-seats-in-the-next-russian-parliamentary-election) — 2% YES
+- [Will the Fed decide differently in the next three decisions (Jul–Sep–Oct)?](/odds/will-the-fed-decide-differently-in-the-next-three-decisions-julsepoct) — 48% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will the New York Mets win the 2026 World Series?"?
 
-As of July 08, 2026, Polymarket prices YES at 0.7%.
+As of July 09, 2026, Polymarket prices YES at 0.7%.
 
 ### Where can I trade on this prediction market?
 

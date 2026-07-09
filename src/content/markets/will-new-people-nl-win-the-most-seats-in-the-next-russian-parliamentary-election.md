@@ -1,15 +1,15 @@
 ---
 title: "Will New People (NL) win the most seats in the next Russian parliamentary election?"
-description: "Will New People (NL) win the most seats in the next Russian parliamentary election? Odds: 2.2% YES on Polymarket. See live prices and trade this market."
+description: "Will New People (NL) win the most seats in the next Russian parliamentary election? Odds: 1.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will New People (NL) win the most seats in the next Russian parliamentary election?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-07-08
+lastUpdated: 2026-07-09
 expiryDate: 2026-09-30
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 2.2
-polymarketNo: 97.8
-polymarketVolume: 99874
+polymarketYes: 1.8
+polymarketNo: 98.2
+polymarketVolume: 99886
 polymarketUrl: "https://polymarket.com/event/will-new-people-nl-win-the-most-seats-in-the-next-russian-parliamentary-election"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-new-people-nl-win-the-most-sea
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 2.2% | 97.8% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 1.8% | 98.2% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-new-people-nl-win-the-most-sea
 
 ### What are the current odds for "Will New People (NL) win the most seats in the next Russian parliamentary election?"?
 
-As of July 08, 2026, Polymarket prices YES at 2.2%.
+As of July 09, 2026, Polymarket prices YES at 1.8%.
 
 ### Where can I trade on this prediction market?
 

@@ -3,8 +3,8 @@ title: "Will Tayte Willows win the 2026 Cornwall-Meadowbank PEI Legislative Asse
 description: "Will Tayte Willows win the 2026 Cornwall-Meadowbank PEI Legislative Assembly by-election? Odds: 51.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Tayte Willows win the 2026 Cornwall-Meadowbank PEI Legislative Assembly by-election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-07-08
+status: "settled"
+lastUpdated: 2026-07-09
 expiryDate: 2026-07-13
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 51.5
