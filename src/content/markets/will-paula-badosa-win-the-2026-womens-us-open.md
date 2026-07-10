@@ -3,8 +3,8 @@ title: "Will Paula Badosa win the 2026 Women’s US Open?"
 description: "Will Paula Badosa win the 2026 Women’s US Open? Odds: 0.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Paula Badosa win the 2026 Women’s US Open?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-07-09
+status: "settled"
+lastUpdated: 2026-07-10
 expiryDate: 2026-09-13
 tags: ["politics", "polymarket"]
 polymarketYes: 0.4

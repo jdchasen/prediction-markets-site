@@ -3,8 +3,8 @@ title: "Will Jordan Pickford win the Golden Glove at the 2026 FIFA World Cup?"
 description: "Will Jordan Pickford win the Golden Glove at the 2026 FIFA World Cup? Odds: 9.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Jordan Pickford win the Golden Glove at the 2026 FIFA World Cup?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-07-09
+status: "settled"
+lastUpdated: 2026-07-10
 expiryDate: 2026-07-20
 tags: ["polymarket", "sports"]
 polymarketYes: 9.4

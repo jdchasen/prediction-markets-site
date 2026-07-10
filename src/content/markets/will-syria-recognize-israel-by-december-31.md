@@ -3,8 +3,8 @@ title: "Will Syria recognize Israel by December 31?"
 description: "Will Syria recognize Israel by December 31? Odds: 9.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Syria recognize Israel by December 31?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-07-09
+status: "settled"
+lastUpdated: 2026-07-10
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 9.5

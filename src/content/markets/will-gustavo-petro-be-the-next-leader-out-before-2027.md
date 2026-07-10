@@ -1,23 +1,23 @@
 ---
-title: "Will the Democratic Party win the TX-10 House seat?"
-description: "Will the Democratic Party win the TX-10 House seat? Odds: 14.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will the Democratic Party win the TX-10 House seat?"
+title: "Will Gustavo Petro be the next leader out before 2027?"
+description: "Will Gustavo Petro be the next leader out before 2027? Odds: 0.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Gustavo Petro be the next leader out before 2027?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-07-10
-expiryDate: 2026-11-03
+expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 14.5
-polymarketNo: 85.5
-polymarketVolume: 9880
-polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-tx-10-house-seat"
+polymarketYes: 0.5
+polymarketNo: 99.5
+polymarketVolume: 977744
+polymarketUrl: "https://polymarket.com/event/will-gustavo-petro-be-the-next-leader-out-before-2027-576"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 14.5% | 85.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.5% | 99.5% | $978K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-t
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will the Democratic Party win the TX-10 House seat?"?
+### What are the current odds for "Will Gustavo Petro be the next leader out before 2027?"?
 
-As of July 10, 2026, Polymarket prices YES at 14.5%.
+As of July 10, 2026, Polymarket prices YES at 0.5%.
 
 ### Where can I trade on this prediction market?
 

@@ -3,8 +3,8 @@ title: "Will M80 Win North America ACE Stage 3"
 description: "Will M80 Win North America ACE Stage 3 Odds: 62.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will M80 Win North America ACE Stage 3"
 category: "politics"
-status: "active"
-lastUpdated: 2026-07-09
+status: "settled"
+lastUpdated: 2026-07-10
 tags: ["politics", "polymarket"]
 polymarketYes: 62.0
 polymarketNo: 38.0

@@ -3,8 +3,8 @@ title: "Will the next Google Gemini Pro model be released by July 17, 2026?"
 description: "Will the next Google Gemini Pro model be released by July 17, 2026? Odds: 6.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the next Google Gemini Pro model be released by July 17, 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-07-09
+status: "settled"
+lastUpdated: 2026-07-10
 expiryDate: 2026-07-17
 tags: ["politics", "polymarket"]
 polymarketYes: 6.0

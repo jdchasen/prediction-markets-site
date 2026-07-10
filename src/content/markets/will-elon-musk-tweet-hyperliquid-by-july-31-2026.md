@@ -1,14 +1,14 @@
 ---
 title: "Will Elon Musk tweet \"Hyperliquid\" by July 31, 2026?"
-description: "Will Elon Musk tweet \"Hyperliquid\" by July 31, 2026? Odds: 2.6% YES on Polymarket. See live prices and trade this market."
+description: "Will Elon Musk tweet \"Hyperliquid\" by July 31, 2026? Odds: 2.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Elon Musk tweet \"Hyperliquid\" by July 31, 2026?"
 category: "tech"
 status: "active"
-lastUpdated: 2026-07-09
+lastUpdated: 2026-07-10
 expiryDate: 2026-08-01
 tags: ["polymarket", "tech"]
-polymarketYes: 2.6
-polymarketNo: 97.4
+polymarketYes: 2.8
+polymarketNo: 97.2
 polymarketVolume: 9829
 polymarketUrl: "https://polymarket.com/event/will-elon-musk-tweet-about-hyperliquid-by-july-31-2026"
 ---
@@ -17,18 +17,17 @@ polymarketUrl: "https://polymarket.com/event/will-elon-musk-tweet-about-hyperliq
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 2.6% | 97.4% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 2.8% | 97.2% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Elon Musk post 1320-1359 tweets in July 2026?](/odds/will-elon-musk-post-1320-1359-tweets-in-july-2026) — 0% YES
-- [Will Elon Musk post 1120-1159 tweets in July 2026?](/odds/will-elon-musk-post-1120-1159-tweets-in-july-2026) — 1% YES
+- [Will Elon Musk post 1280-1319 tweets in July 2026?](/odds/will-elon-musk-post-1280-1319-tweets-in-july-2026) — 0% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Elon Musk tweet "Hyperliquid" by July 31, 2026?"?
 
-As of July 09, 2026, Polymarket prices YES at 2.6%.
+As of July 10, 2026, Polymarket prices YES at 2.8%.
 
 ### Where can I trade on this prediction market?
 

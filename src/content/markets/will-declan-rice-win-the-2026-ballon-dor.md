@@ -1,23 +1,23 @@
 ---
-title: "Will Edna DeVries win the 2026 Alaska governor election?"
-description: "Will Edna DeVries win the 2026 Alaska governor election? Odds: 0.2% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Edna DeVries win the 2026 Alaska governor election?"
+title: "Will Declan Rice win the 2026 Ballon d'Or?"
+description: "Will Declan Rice win the 2026 Ballon d'Or? Odds: 0.7% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Declan Rice win the 2026 Ballon d'Or?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-07-10
-expiryDate: 2026-11-03
-tags: ["elections", "politics", "polymarket"]
-polymarketYes: 0.2
-polymarketNo: 99.8
-polymarketVolume: 9813
-polymarketUrl: "https://polymarket.com/event/will-edna-devries-win-the-2026-alaska-governor-election"
+expiryDate: 2026-10-31
+tags: ["politics", "polymarket"]
+polymarketYes: 0.7
+polymarketNo: 99.4
+polymarketVolume: 99748
+polymarketUrl: "https://polymarket.com/event/will-declan-rice-win-the-2026-ballon-dor"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.2% | 99.8% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.7% | 99.4% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-edna-devries-win-the-2026-alas
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Edna DeVries win the 2026 Alaska governor election?"?
+### What are the current odds for "Will Declan Rice win the 2026 Ballon d'Or?"?
 
-As of July 10, 2026, Polymarket prices YES at 0.2%.
+As of July 10, 2026, Polymarket prices YES at 0.7%.
 
 ### Where can I trade on this prediction market?
 

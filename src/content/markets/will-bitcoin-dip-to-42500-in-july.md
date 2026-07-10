@@ -1,15 +1,15 @@
 ---
 title: "Will Bitcoin dip to $42,500 in July?"
-description: "Will Bitcoin dip to $42,500 in July? Odds: 1.1% YES on Polymarket. See live prices and trade this market."
+description: "Will Bitcoin dip to $42,500 in July? Odds: 0.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Bitcoin dip to $42,500 in July?"
 category: "crypto"
 status: "active"
-lastUpdated: 2026-07-09
+lastUpdated: 2026-07-10
 expiryDate: 2026-08-01
 tags: ["bitcoin", "crypto", "polymarket"]
-polymarketYes: 1.1
-polymarketNo: 99.0
-polymarketVolume: 98518
+polymarketYes: 0.8
+polymarketNo: 99.2
+polymarketVolume: 99054
 polymarketUrl: "https://polymarket.com/event/will-bitcoin-dip-to-42pt5k-in-july-2026-821"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-bitcoin-dip-to-42pt5k-in-july-
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 1.1% | 99.0% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.8% | 99.2% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will MetaMask launch a token by September 30, 2026?](/odds/will-metamask-launch-a-token-by-september-30-2026) — 2% YES
-- [Will Bitcoin dip to $60,000 in July?](/odds/will-bitcoin-dip-to-60000-in-july) — 54% YES
-- [Will Loopscale launch a token by December 31, 2026?](/odds/will-loopscale-launch-a-token-by-december-31-2026) — 21% YES
+- [Will Loopscale launch a token by December 31, 2026?](/odds/will-loopscale-launch-a-token-by-december-31-2026) — 24% YES
+- [Will Ethereum reach $3,000 by December 31, 2026?](/odds/will-ethereum-reach-3000-by-december-31-2026) — 13% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Bitcoin dip to $42,500 in July?"?
 
-As of July 09, 2026, Polymarket prices YES at 1.1%.
+As of July 10, 2026, Polymarket prices YES at 0.8%.
 
 ### Where can I trade on this prediction market?
 

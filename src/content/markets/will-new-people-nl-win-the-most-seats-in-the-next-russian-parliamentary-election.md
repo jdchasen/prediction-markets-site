@@ -3,8 +3,8 @@ title: "Will New People (NL) win the most seats in the next Russian parliamentar
 description: "Will New People (NL) win the most seats in the next Russian parliamentary election? Odds: 1.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will New People (NL) win the most seats in the next Russian parliamentary election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-07-09
+status: "settled"
+lastUpdated: 2026-07-10
 expiryDate: 2026-09-30
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 1.8

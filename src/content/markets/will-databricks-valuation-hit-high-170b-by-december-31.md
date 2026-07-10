@@ -1,23 +1,23 @@
 ---
-title: "Will the Democratic Party win the TX-10 House seat?"
-description: "Will the Democratic Party win the TX-10 House seat? Odds: 14.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will the Democratic Party win the TX-10 House seat?"
+title: "Will Databricks' valuation hit (HIGH) $170B by December 31?"
+description: "Will Databricks' valuation hit (HIGH) $170B by December 31? Odds: 74.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Databricks' valuation hit (HIGH) $170B by December 31?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-07-10
-expiryDate: 2026-11-03
+expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]
-polymarketYes: 14.5
-polymarketNo: 85.5
-polymarketVolume: 9880
-polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-tx-10-house-seat"
+polymarketYes: 74.5
+polymarketNo: 25.5
+polymarketVolume: 9822
+polymarketUrl: "https://polymarket.com/event/will-databricks-valuation-hit-high-170b-by-december-31"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 14.5% | 85.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 74.5% | 25.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-t
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will the Democratic Party win the TX-10 House seat?"?
+### What are the current odds for "Will Databricks' valuation hit (HIGH) $170B by December 31?"?
 
-As of July 10, 2026, Polymarket prices YES at 14.5%.
+As of July 10, 2026, Polymarket prices YES at 74.5%.
 
 ### Where can I trade on this prediction market?
 

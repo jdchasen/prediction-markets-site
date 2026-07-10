@@ -1,0 +1,42 @@
+---
+title: "Will Harry Kane win the Golden Ball at the 2026 FIFA World Cup?"
+description: "Will Harry Kane win the Golden Ball at the 2026 FIFA World Cup? Odds: 7.1% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Harry Kane win the Golden Ball at the 2026 FIFA World Cup?"
+category: "sports"
+status: "active"
+lastUpdated: 2026-07-10
+expiryDate: 2026-07-20
+tags: ["polymarket", "sports"]
+polymarketYes: 7.1
+polymarketNo: 92.8
+polymarketVolume: 99814
+polymarketUrl: "https://polymarket.com/event/will-harry-kane-win-the-golden-ball-at-the-2026-fifa-world-cup-20260603194032281"
+---
+
+## Current Odds
+
+| Platform | Yes | No | Volume | Trade |
+|----------|-----|-----|--------|-------|
+| Polymarket | 7.1% | 92.8% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+
+## Related Markets
+
+- [Will Spain win the 2026 FIFA World Cup?](/odds/will-spain-win-the-2026-fifa-world-cup) — 16% YES
+- [Will Arizona Cardinals win the 2027 NFL NFC Championship?](/odds/will-arizona-cardinals-win-the-2027-nfl-nfc-championship) — 1% YES
+- [Will Kansas City Chiefs win the 2027 NFL AFC Championship?](/odds/will-kansas-city-chiefs-win-the-2027-nfl-afc-championship) — 9% YES
+
+## Frequently Asked Questions
+
+### What are the current odds for "Will Harry Kane win the Golden Ball at the 2026 FIFA World Cup?"?
+
+As of July 10, 2026, Polymarket prices YES at 7.1%.
+
+### Where can I trade on this prediction market?
+
+You can trade this market on [Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) (crypto-based).
+
+## Learn More
+
+- [Gold Price Prediction 2026: Will Gold Hit $7,000?](/blog/gold-price-prediction-2026-will-gold-hit-7000)
+- [2026 FIFA World Cup Winner Odds & Predictions](/blog/2026-fifa-world-cup-winner-odds-predictions)
+

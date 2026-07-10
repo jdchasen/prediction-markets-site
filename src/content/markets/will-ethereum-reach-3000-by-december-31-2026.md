@@ -4,7 +4,7 @@ description: "Will Ethereum reach $3,000 by December 31, 2026? Odds: 13.0% YES o
 marketQuestion: "Will Ethereum reach $3,000 by December 31, 2026?"
 category: "crypto"
 status: "active"
-lastUpdated: 2026-07-09
+lastUpdated: 2026-07-10
 expiryDate: 2027-01-01
 tags: ["crypto", "ethereum", "polymarket"]
 polymarketYes: 13.0
@@ -22,14 +22,14 @@ polymarketUrl: "https://polymarket.com/event/will-ethereum-reach-3000-by-decembe
 ## Related Markets
 
 - [Will MetaMask launch a token by September 30, 2026?](/odds/will-metamask-launch-a-token-by-september-30-2026) — 2% YES
-- [Will Bitcoin dip to $60,000 in July?](/odds/will-bitcoin-dip-to-60000-in-july) — 54% YES
 - [Will Bitcoin dip to $42,500 in July?](/odds/will-bitcoin-dip-to-42500-in-july) — 1% YES
+- [Will Loopscale launch a token by December 31, 2026?](/odds/will-loopscale-launch-a-token-by-december-31-2026) — 24% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Ethereum reach $3,000 by December 31, 2026?"?
 
-As of July 09, 2026, Polymarket prices YES at 13.0%.
+As of July 10, 2026, Polymarket prices YES at 13.0%.
 
 ### Where can I trade on this prediction market?
 
