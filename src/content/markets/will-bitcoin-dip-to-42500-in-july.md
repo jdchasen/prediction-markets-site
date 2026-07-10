@@ -9,7 +9,7 @@ expiryDate: 2026-08-01
 tags: ["bitcoin", "crypto", "polymarket"]
 polymarketYes: 0.8
 polymarketNo: 99.2
-polymarketVolume: 99054
+polymarketVolume: 99841
 polymarketUrl: "https://polymarket.com/event/will-bitcoin-dip-to-42pt5k-in-july-2026-821"
 ---
 
@@ -17,12 +17,12 @@ polymarketUrl: "https://polymarket.com/event/will-bitcoin-dip-to-42pt5k-in-july-
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.8% | 99.2% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.8% | 99.2% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will MetaMask launch a token by September 30, 2026?](/odds/will-metamask-launch-a-token-by-september-30-2026) — 2% YES
-- [Will Loopscale launch a token by December 31, 2026?](/odds/will-loopscale-launch-a-token-by-december-31-2026) — 24% YES
+- [Will Loopscale launch a token by December 31, 2026?](/odds/will-loopscale-launch-a-token-by-december-31-2026) — 23% YES
 - [Will Ethereum reach $3,000 by December 31, 2026?](/odds/will-ethereum-reach-3000-by-december-31-2026) — 13% YES
 
 ## Frequently Asked Questions

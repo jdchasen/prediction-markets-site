@@ -3,7 +3,7 @@ title: "Will Declan Rice win the 2026 Ballon d'Or?"
 description: "Will Declan Rice win the 2026 Ballon d'Or? Odds: 0.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Declan Rice win the 2026 Ballon d'Or?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-07-10
 expiryDate: 2026-10-31
 tags: ["politics", "polymarket"]

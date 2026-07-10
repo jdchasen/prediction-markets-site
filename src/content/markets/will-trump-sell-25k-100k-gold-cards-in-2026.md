@@ -19,6 +19,11 @@ polymarketUrl: "https://polymarket.com/event/will-trump-sell-25k-100k-gold-cards
 |----------|-----|-----|--------|-------|
 | Polymarket | 0.5% | 99.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
+## Related Markets
+
+- [Iran agrees to surrender enriched uranium stockpile by July 31, 2026?](/odds/iran-agrees-to-surrender-enriched-uranium-stockpile-by-july-31-2026) — 1% YES
+- [Will Amazon be the largest company in the world by market cap on July 31?](/odds/will-amazon-be-the-largest-company-in-the-world-by-market-cap-on-july-31) — 0% YES
+
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Trump sell 25k-100k Gold Cards in 2026?"?

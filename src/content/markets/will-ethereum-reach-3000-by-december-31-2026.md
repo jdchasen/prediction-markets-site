@@ -23,7 +23,7 @@ polymarketUrl: "https://polymarket.com/event/will-ethereum-reach-3000-by-decembe
 
 - [Will MetaMask launch a token by September 30, 2026?](/odds/will-metamask-launch-a-token-by-september-30-2026) — 2% YES
 - [Will Bitcoin dip to $42,500 in July?](/odds/will-bitcoin-dip-to-42500-in-july) — 1% YES
-- [Will Loopscale launch a token by December 31, 2026?](/odds/will-loopscale-launch-a-token-by-december-31-2026) — 24% YES
+- [Will Loopscale launch a token by December 31, 2026?](/odds/will-loopscale-launch-a-token-by-december-31-2026) — 23% YES
 
 ## Frequently Asked Questions
 

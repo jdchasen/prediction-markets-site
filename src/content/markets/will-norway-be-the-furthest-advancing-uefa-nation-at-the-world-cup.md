@@ -1,23 +1,23 @@
 ---
-title: "Will New York Giants win the 2027 NFL NFC Championship?"
-description: "Will New York Giants win the 2027 NFL NFC Championship? Odds: 6.0% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will New York Giants win the 2027 NFL NFC Championship?"
+title: "Will Norway be the furthest advancing UEFA nation at the World Cup?"
+description: "Will Norway be the furthest advancing UEFA nation at the World Cup? Odds: 5.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Norway be the furthest advancing UEFA nation at the World Cup?"
 category: "sports"
 status: "active"
 lastUpdated: 2026-07-10
-expiryDate: 2027-01-25
+expiryDate: 2026-07-20
 tags: ["polymarket", "sports"]
-polymarketYes: 6.0
-polymarketNo: 94.0
-polymarketVolume: 9950
-polymarketUrl: "https://polymarket.com/event/will-new-york-giants-win-the-2027-nfl-nfc-championship-866"
+polymarketYes: 5.5
+polymarketNo: 94.5
+polymarketVolume: 9927
+polymarketUrl: "https://polymarket.com/event/will-norway-be-the-furthest-advancing-uefa-nation-at-the-world-cup-20260603202005039"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 6.0% | 94.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 5.5% | 94.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-new-york-giants-win-the-2027-n
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will New York Giants win the 2027 NFL NFC Championship?"?
+### What are the current odds for "Will Norway be the furthest advancing UEFA nation at the World Cup?"?
 
-As of July 10, 2026, Polymarket prices YES at 6.0%.
+As of July 10, 2026, Polymarket prices YES at 5.5%.
 
 ### Where can I trade on this prediction market?
 

@@ -22,7 +22,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-new-york-mets-win-the-2026
 ## Related Markets
 
 - [Trump out as President before 2027?](/odds/trump-out-as-president-before-2027) — 8% YES
-- [Will there be no Head of State in Iran end of 2026?](/odds/will-there-be-no-head-of-state-in-iran-end-of-2026) — 3% YES
+- [Will there be no Head of State in Iran end of 2026?](/odds/will-there-be-no-head-of-state-in-iran-end-of-2026) — 2% YES
 - [Will Gustavo Petro be the next leader out before 2027?](/odds/will-gustavo-petro-be-the-next-leader-out-before-2027) — 0% YES
 
 ## Frequently Asked Questions

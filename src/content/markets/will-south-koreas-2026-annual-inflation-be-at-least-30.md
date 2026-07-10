@@ -21,8 +21,8 @@ polymarketUrl: "https://polymarket.com/event/will-south-koreas-2026-annual-infla
 
 ## Related Markets
 
-- [Will Brazil’s Annual Inflation in 2026 be between 4.50% and 4.99%?](/odds/will-brazils-annual-inflation-in-2026-be-between-450-and-499) — 26% YES
-- [Will UK annual GDP growth in 2026 be below 0%?](/odds/will-uk-annual-gdp-growth-in-2026-be-below-0) — 10% YES
+- [Will Brazil’s Annual Inflation in 2026 be between 4.50% and 4.99%?](/odds/will-brazils-annual-inflation-in-2026-be-between-450-and-499) — 28% YES
+- [Will UK annual GDP growth in 2026 be below 0%?](/odds/will-uk-annual-gdp-growth-in-2026-be-below-0) — 8% YES
 
 ## Frequently Asked Questions
 

@@ -1,15 +1,15 @@
 ---
 title: "Will MetaMask launch a token by September 30, 2026?"
-description: "Will MetaMask launch a token by September 30, 2026? Odds: 2.2% YES on Polymarket. See live prices and trade this market."
+description: "Will MetaMask launch a token by September 30, 2026? Odds: 2.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will MetaMask launch a token by September 30, 2026?"
 category: "crypto"
 status: "active"
 lastUpdated: 2026-07-10
 expiryDate: 2026-10-01
 tags: ["crypto", "polymarket"]
-polymarketYes: 2.2
-polymarketNo: 97.8
-polymarketVolume: 982469
+polymarketYes: 2.4
+polymarketNo: 97.7
+polymarketVolume: 982479
 polymarketUrl: "https://polymarket.com/event/will-metamask-launch-a-token-by-september-30-2026"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-metamask-launch-a-token-by-sep
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 2.2% | 97.8% | $982K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 2.4% | 97.7% | $982K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Bitcoin dip to $42,500 in July?](/odds/will-bitcoin-dip-to-42500-in-july) — 1% YES
-- [Will Loopscale launch a token by December 31, 2026?](/odds/will-loopscale-launch-a-token-by-december-31-2026) — 24% YES
+- [Will Loopscale launch a token by December 31, 2026?](/odds/will-loopscale-launch-a-token-by-december-31-2026) — 23% YES
 - [Will Ethereum reach $3,000 by December 31, 2026?](/odds/will-ethereum-reach-3000-by-december-31-2026) — 13% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will MetaMask launch a token by September 30, 2026?"?
 
-As of July 10, 2026, Polymarket prices YES at 2.2%.
+As of July 10, 2026, Polymarket prices YES at 2.4%.
 
 ### Where can I trade on this prediction market?
 

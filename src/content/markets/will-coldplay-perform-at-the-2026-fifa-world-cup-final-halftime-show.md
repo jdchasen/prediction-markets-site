@@ -1,15 +1,15 @@
 ---
 title: "Will Coldplay perform at the 2026 FIFA World Cup Final halftime show?"
-description: "Will Coldplay perform at the 2026 FIFA World Cup Final halftime show? Odds: 58.0% YES on Polymarket. See live prices and trade this market."
+description: "Will Coldplay perform at the 2026 FIFA World Cup Final halftime show? Odds: 98.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Coldplay perform at the 2026 FIFA World Cup Final halftime show?"
 category: "sports"
-status: "settled"
-lastUpdated: 2026-07-06
+status: "active"
+lastUpdated: 2026-07-10
 expiryDate: 2026-07-19
 tags: ["polymarket", "sports"]
-polymarketYes: 58.0
-polymarketNo: 42.0
-polymarketVolume: 9809
+polymarketYes: 98.9
+polymarketNo: 1.1
+polymarketVolume: 97910
 polymarketUrl: "https://polymarket.com/event/will-coldplay-perform-at-the-2026-fifa-world-cup-final-halftime-show"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-coldplay-perform-at-the-2026-f
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 58.0% | 42.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 98.9% | 1.1% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Portugal win the 2026 FIFA World Cup?](/odds/will-portugal-win-the-2026-fifa-world-cup) — 6% YES
-- [Will the Green Bay Packers win the 2027 NFL league championship?](/odds/will-the-green-bay-packers-win-the-2027-nfl-league-championship) — 3% YES
 - [Will Arizona Cardinals win the 2027 NFL NFC Championship?](/odds/will-arizona-cardinals-win-the-2027-nfl-nfc-championship) — 1% YES
+- [Will Kansas City Chiefs win the 2027 NFL AFC Championship?](/odds/will-kansas-city-chiefs-win-the-2027-nfl-afc-championship) — 9% YES
+- [Will Baker Mayfield win the 2026 NFL MVP?](/odds/will-baker-mayfield-win-the-2026-nfl-mvp) — 2% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Coldplay perform at the 2026 FIFA World Cup Final halftime show?"?
 
-As of July 05, 2026, Polymarket prices YES at 58.0%.
+As of July 10, 2026, Polymarket prices YES at 98.9%.
 
 ### Where can I trade on this prediction market?
 

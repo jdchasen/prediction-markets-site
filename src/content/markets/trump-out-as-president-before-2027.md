@@ -9,7 +9,7 @@ expiryDate: 2026-12-31
 tags: ["politics", "polymarket", "trump"]
 polymarketYes: 7.5
 polymarketNo: 92.5
-polymarketVolume: 9821826
+polymarketVolume: 9832636
 polymarketUrl: "https://polymarket.com/event/trump-out-as-president-before-2027"
 ---
 
@@ -21,7 +21,7 @@ polymarketUrl: "https://polymarket.com/event/trump-out-as-president-before-2027"
 
 ## Related Markets
 
-- [Will there be no Head of State in Iran end of 2026?](/odds/will-there-be-no-head-of-state-in-iran-end-of-2026) — 3% YES
+- [Will there be no Head of State in Iran end of 2026?](/odds/will-there-be-no-head-of-state-in-iran-end-of-2026) — 2% YES
 - [Will the New York Mets win the 2026 World Series?](/odds/will-the-new-york-mets-win-the-2026-world-series) — 1% YES
 - [Will Gustavo Petro be the next leader out before 2027?](/odds/will-gustavo-petro-be-the-next-leader-out-before-2027) — 0% YES
 

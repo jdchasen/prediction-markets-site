@@ -9,7 +9,7 @@ expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]
 polymarketYes: 14.0
 polymarketNo: 86.0
-polymarketVolume: 9779
+polymarketVolume: 9892
 polymarketUrl: "https://polymarket.com/event/will-databricks-valuation-hit-low-125b-by-december-31"
 ---
 
@@ -22,7 +22,7 @@ polymarketUrl: "https://polymarket.com/event/will-databricks-valuation-hit-low-1
 ## Related Markets
 
 - [Trump out as President before 2027?](/odds/trump-out-as-president-before-2027) — 8% YES
-- [Will there be no Head of State in Iran end of 2026?](/odds/will-there-be-no-head-of-state-in-iran-end-of-2026) — 3% YES
+- [Will there be no Head of State in Iran end of 2026?](/odds/will-there-be-no-head-of-state-in-iran-end-of-2026) — 2% YES
 - [Will the New York Mets win the 2026 World Series?](/odds/will-the-new-york-mets-win-the-2026-world-series) — 1% YES
 
 ## Frequently Asked Questions

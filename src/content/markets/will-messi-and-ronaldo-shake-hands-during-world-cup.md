@@ -3,7 +3,7 @@ title: "Will Messi and Ronaldo Shake Hands During World Cup?"
 description: "Will Messi and Ronaldo Shake Hands During World Cup? Odds: 0.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Messi and Ronaldo Shake Hands During World Cup?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-07-10
 expiryDate: 2026-07-20
 tags: ["polymarket", "sports"]
