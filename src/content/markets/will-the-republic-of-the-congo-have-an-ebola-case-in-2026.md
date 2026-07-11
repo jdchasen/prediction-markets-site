@@ -1,14 +1,14 @@
 ---
 title: "Will the Republic of the Congo have an Ebola case in 2026?"
-description: "Will the Republic of the Congo have an Ebola case in 2026? Odds: 20.5% YES on Polymarket. See live prices and trade this market."
+description: "Will the Republic of the Congo have an Ebola case in 2026? Odds: 19.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Republic of the Congo have an Ebola case in 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-07-10
+lastUpdated: 2026-07-11
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 20.5
-polymarketNo: 79.5
+polymarketYes: 19.0
+polymarketNo: 81.0
 polymarketVolume: 9917
 polymarketUrl: "https://polymarket.com/event/will-the-republic-of-the-congo-have-an-ebola-case-in-2026"
 ---
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-the-republic-of-the-congo-have
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 20.5% | 79.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 19.0% | 81.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Trump out as President before 2027?](/odds/trump-out-as-president-before-2027) — 8% YES
-- [Will there be no Head of State in Iran end of 2026?](/odds/will-there-be-no-head-of-state-in-iran-end-of-2026) — 2% YES
-- [Will the New York Mets win the 2026 World Series?](/odds/will-the-new-york-mets-win-the-2026-world-series) — 1% YES
+- [Will there be no Head of State in Iran end of 2026?](/odds/will-there-be-no-head-of-state-in-iran-end-of-2026) — 3% YES
+- [Will LeBron James play for the Philadelphia 76ers in 2026-27?](/odds/will-lebron-james-play-for-the-philadelphia-76ers-in-2026-27) — 12% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will the Republic of the Congo have an Ebola case in 2026?"?
 
-As of July 10, 2026, Polymarket prices YES at 20.5%.
+As of July 11, 2026, Polymarket prices YES at 19.0%.
 
 ### Where can I trade on this prediction market?
 

@@ -3,8 +3,8 @@ title: "Will Coldplay perform at the 2026 FIFA World Cup Final halftime show?"
 description: "Will Coldplay perform at the 2026 FIFA World Cup Final halftime show? Odds: 98.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Coldplay perform at the 2026 FIFA World Cup Final halftime show?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-07-10
+status: "settled"
+lastUpdated: 2026-07-11
 expiryDate: 2026-07-19
 tags: ["polymarket", "sports"]
 polymarketYes: 98.9

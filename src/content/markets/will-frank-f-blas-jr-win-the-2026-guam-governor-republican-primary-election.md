@@ -1,23 +1,23 @@
 ---
-title: "Kylie Jenner and Timothée Chalamet engaged in 2026?"
-description: "Kylie Jenner and Timothée Chalamet engaged in 2026? Odds: 16.0% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Kylie Jenner and Timothée Chalamet engaged in 2026?"
+title: "Will Frank F. Blas Jr. win the 2026 Guam Governor Republican primary election?"
+description: "Will Frank F. Blas Jr. win the 2026 Guam Governor Republican primary election? Odds: 46.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Frank F. Blas Jr. win the 2026 Guam Governor Republican primary election?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-07-11
-expiryDate: 2026-12-31
-tags: ["politics", "polymarket"]
-polymarketYes: 16.0
-polymarketNo: 84.0
-polymarketVolume: 9812
-polymarketUrl: "https://polymarket.com/event/kylie-jenner-and-timothe-chalamet-engaged-in-2026"
+expiryDate: 2026-08-01
+tags: ["elections", "politics", "polymarket"]
+polymarketYes: 46.5
+polymarketNo: 53.5
+polymarketVolume: 9803
+polymarketUrl: "https://polymarket.com/event/will-frank-f-blas-jr-win-the-2026-guam-governor-republican-primary-election-495"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 16.0% | 84.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 46.5% | 53.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/kylie-jenner-and-timothe-chalamet-e
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Kylie Jenner and Timothée Chalamet engaged in 2026?"?
+### What are the current odds for "Will Frank F. Blas Jr. win the 2026 Guam Governor Republican primary election?"?
 
-As of July 11, 2026, Polymarket prices YES at 16.0%.
+As of July 11, 2026, Polymarket prices YES at 46.5%.
 
 ### Where can I trade on this prediction market?
 

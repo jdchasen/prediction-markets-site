@@ -3,8 +3,8 @@ title: "Will Switzerland be eliminated in the Final of the World Cup?"
 description: "Will Switzerland be eliminated in the Final of the World Cup? Odds: 5.3% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Switzerland be eliminated in the Final of the World Cup?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-07-10
+status: "settled"
+lastUpdated: 2026-07-11
 expiryDate: 2026-07-19
 tags: ["polymarket", "sports"]
 polymarketYes: 5.3

@@ -4,7 +4,7 @@ description: "Will Trump sell 25k-100k Gold Cards in 2026? Odds: 0.5% YES on Pol
 marketQuestion: "Will Trump sell 25k-100k Gold Cards in 2026?"
 category: "finance"
 status: "active"
-lastUpdated: 2026-07-10
+lastUpdated: 2026-07-11
 expiryDate: 2026-12-31
 tags: ["finance", "polymarket", "trump"]
 polymarketYes: 0.5
@@ -19,16 +19,11 @@ polymarketUrl: "https://polymarket.com/event/will-trump-sell-25k-100k-gold-cards
 |----------|-----|-----|--------|-------|
 | Polymarket | 0.5% | 99.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
-## Related Markets
-
-- [Iran agrees to surrender enriched uranium stockpile by July 31, 2026?](/odds/iran-agrees-to-surrender-enriched-uranium-stockpile-by-july-31-2026) — 1% YES
-- [Will Amazon be the largest company in the world by market cap on July 31?](/odds/will-amazon-be-the-largest-company-in-the-world-by-market-cap-on-july-31) — 0% YES
-
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Trump sell 25k-100k Gold Cards in 2026?"?
 
-As of July 10, 2026, Polymarket prices YES at 0.5%.
+As of July 11, 2026, Polymarket prices YES at 0.5%.
 
 ### Where can I trade on this prediction market?
 

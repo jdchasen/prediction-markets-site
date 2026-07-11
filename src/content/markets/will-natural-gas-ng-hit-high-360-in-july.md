@@ -3,8 +3,8 @@ title: "Will Natural Gas (NG) hit (HIGH) $3.60 in July?"
 description: "Will Natural Gas (NG) hit (HIGH) $3.60 in July? Odds: 11.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Natural Gas (NG) hit (HIGH) $3.60 in July?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-07-10
+status: "settled"
+lastUpdated: 2026-07-11
 expiryDate: 2026-08-01
 tags: ["politics", "polymarket"]
 polymarketYes: 11.0

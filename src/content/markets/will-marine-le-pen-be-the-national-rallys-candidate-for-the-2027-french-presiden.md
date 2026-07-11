@@ -3,8 +3,8 @@ title: "Will Marine Le Pen be the National Rally’s candidate for the 2027 Fren
 description: "Will Marine Le Pen be the National Rally’s candidate for the 2027 French Presidential election? Odds: 94.0% YES on Polymarket. See live prices and trade this..."
 marketQuestion: "Will Marine Le Pen be the National Rally’s candidate for the 2027 French Presidential election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-07-10
+status: "settled"
+lastUpdated: 2026-07-11
 expiryDate: 2027-04-23
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 94.0

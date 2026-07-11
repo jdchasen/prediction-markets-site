@@ -1,23 +1,23 @@
 ---
-title: "Will the Fed’s lower bound reach 1.75% or lower before 2027?"
-description: "Will the Fed’s lower bound reach 1.75% or lower before 2027? Odds: 4.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will the Fed’s lower bound reach 1.75% or lower before 2027?"
+title: "Will MrBeast hit 520 million subscribers by July 31?"
+description: "Will MrBeast hit 520 million subscribers by July 31? Odds: 0.3% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will MrBeast hit 520 million subscribers by July 31?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-07-11
-expiryDate: 2026-12-31
-tags: ["federal-reserve", "politics", "polymarket"]
-polymarketYes: 4.5
-polymarketNo: 95.5
-polymarketVolume: 9863
-polymarketUrl: "https://polymarket.com/event/will-the-feds-lower-bound-reach-1pt75-or-lower-before-2027-123-334-678-153-953-848-473"
+expiryDate: 2026-07-31
+tags: ["politics", "polymarket"]
+polymarketYes: 0.3
+polymarketNo: 99.7
+polymarketVolume: 9955
+polymarketUrl: "https://polymarket.com/event/will-mrbeast-hit-520-million-subscribers-by-july-31-20260623145858518"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 4.5% | 95.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.3% | 99.7% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-the-feds-lower-bound-reach-1pt
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will the Fed’s lower bound reach 1.75% or lower before 2027?"?
+### What are the current odds for "Will MrBeast hit 520 million subscribers by July 31?"?
 
-As of July 11, 2026, Polymarket prices YES at 4.5%.
+As of July 11, 2026, Polymarket prices YES at 0.3%.
 
 ### Where can I trade on this prediction market?
 

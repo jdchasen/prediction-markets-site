@@ -1,23 +1,23 @@
 ---
-title: "Kylie Jenner and Timothée Chalamet engaged in 2026?"
-description: "Kylie Jenner and Timothée Chalamet engaged in 2026? Odds: 16.0% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Kylie Jenner and Timothée Chalamet engaged in 2026?"
+title: "Will OpenAI have the best AI Agent at the end of July 2026?"
+description: "Will OpenAI have the best AI Agent at the end of July 2026? Odds: 10.2% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will OpenAI have the best AI Agent at the end of July 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-07-11
-expiryDate: 2026-12-31
-tags: ["politics", "polymarket"]
-polymarketYes: 16.0
-polymarketNo: 84.0
-polymarketVolume: 9812
-polymarketUrl: "https://polymarket.com/event/kylie-jenner-and-timothe-chalamet-engaged-in-2026"
+expiryDate: 2026-07-31
+tags: ["ai", "politics", "polymarket"]
+polymarketYes: 10.2
+polymarketNo: 89.8
+polymarketVolume: 9946
+polymarketUrl: "https://polymarket.com/event/will-openai-have-the-best-ai-agent-at-the-end-of-july-2026-20260626204312505"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 16.0% | 84.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 10.2% | 89.8% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/kylie-jenner-and-timothe-chalamet-e
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Kylie Jenner and Timothée Chalamet engaged in 2026?"?
+### What are the current odds for "Will OpenAI have the best AI Agent at the end of July 2026?"?
 
-As of July 11, 2026, Polymarket prices YES at 16.0%.
+As of July 11, 2026, Polymarket prices YES at 10.2%.
 
 ### Where can I trade on this prediction market?
 

@@ -1,35 +1,35 @@
 ---
-title: "Will Arizona Cardinals win the 2027 NFL NFC Championship?"
-description: "Will Arizona Cardinals win the 2027 NFL NFC Championship? Odds: 0.8% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Arizona Cardinals win the 2027 NFL NFC Championship?"
+title: "Will the Indianapolis Colts win the 2027 NFL league championship?"
+description: "Will the Indianapolis Colts win the 2027 NFL league championship? Odds: 1.2% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will the Indianapolis Colts win the 2027 NFL league championship?"
 category: "sports"
 status: "active"
 lastUpdated: 2026-07-11
-expiryDate: 2027-01-25
+expiryDate: 2027-03-31
 tags: ["polymarket", "sports"]
-polymarketYes: 0.8
-polymarketNo: 99.2
-polymarketVolume: 983486
-polymarketUrl: "https://polymarket.com/event/will-arizona-cardinals-win-the-2027-nfl-nfc-championship-199"
+polymarketYes: 1.2
+polymarketNo: 98.8
+polymarketVolume: 990323
+polymarketUrl: "https://polymarket.com/event/will-the-indianapolis-colts-win-the-2027-nfl-league-championship"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.8% | 99.2% | $983K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 1.2% | 98.8% | $990K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will the Indianapolis Colts win the 2027 NFL league championship?](/odds/will-the-indianapolis-colts-win-the-2027-nfl-league-championship) — 1% YES
+- [Will Arizona Cardinals win the 2027 NFL NFC Championship?](/odds/will-arizona-cardinals-win-the-2027-nfl-nfc-championship) — 1% YES
 - [Will Argentina reach the 2026 FIFA World Cup final?](/odds/will-argentina-reach-the-2026-fifa-world-cup-final) — 41% YES
 - [Will Michael Olise win the Golden Ball at the 2026 FIFA World Cup?](/odds/will-michael-olise-win-the-golden-ball-at-the-2026-fifa-world-cup) — 4% YES
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Arizona Cardinals win the 2027 NFL NFC Championship?"?
+### What are the current odds for "Will the Indianapolis Colts win the 2027 NFL league championship?"?
 
-As of July 11, 2026, Polymarket prices YES at 0.8%.
+As of July 11, 2026, Polymarket prices YES at 1.2%.
 
 ### Where can I trade on this prediction market?
 

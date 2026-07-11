@@ -3,8 +3,8 @@ title: "Will Count Binface win the Clacton by-election?"
 description: "Will Count Binface win the Clacton by-election? Odds: 7.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Count Binface win the Clacton by-election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-07-10
+status: "settled"
+lastUpdated: 2026-07-11
 expiryDate: 2027-06-30
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 7.0

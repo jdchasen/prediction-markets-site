@@ -1,14 +1,14 @@
 ---
 title: "Will Ethereum reach $3,000 by December 31, 2026?"
-description: "Will Ethereum reach $3,000 by December 31, 2026? Odds: 13.0% YES on Polymarket. See live prices and trade this market."
+description: "Will Ethereum reach $3,000 by December 31, 2026? Odds: 14.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Ethereum reach $3,000 by December 31, 2026?"
 category: "crypto"
 status: "active"
-lastUpdated: 2026-07-10
+lastUpdated: 2026-07-11
 expiryDate: 2027-01-01
 tags: ["crypto", "ethereum", "polymarket"]
-polymarketYes: 13.0
-polymarketNo: 87.0
+polymarketYes: 14.5
+polymarketNo: 85.5
 polymarketVolume: 9935
 polymarketUrl: "https://polymarket.com/event/will-ethereum-reach-3000-by-december-31-2026-from-june-8"
 ---
@@ -17,19 +17,18 @@ polymarketUrl: "https://polymarket.com/event/will-ethereum-reach-3000-by-decembe
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 13.0% | 87.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 14.5% | 85.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will MetaMask launch a token by September 30, 2026?](/odds/will-metamask-launch-a-token-by-september-30-2026) — 2% YES
-- [Will Bitcoin dip to $42,500 in July?](/odds/will-bitcoin-dip-to-42500-in-july) — 1% YES
-- [Will Loopscale launch a token by December 31, 2026?](/odds/will-loopscale-launch-a-token-by-december-31-2026) — 23% YES
+- [Will MetaMask launch a token by September 30, 2026?](/odds/will-metamask-launch-a-token-by-september-30-2026) — 3% YES
+- [Will Loopscale launch a token by December 31, 2026?](/odds/will-loopscale-launch-a-token-by-december-31-2026) — 24% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Ethereum reach $3,000 by December 31, 2026?"?
 
-As of July 10, 2026, Polymarket prices YES at 13.0%.
+As of July 11, 2026, Polymarket prices YES at 14.5%.
 
 ### Where can I trade on this prediction market?
 

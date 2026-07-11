@@ -1,15 +1,15 @@
 ---
 title: "Tamas Sulyok out as President of Hungary by July 31?"
-description: "Tamas Sulyok out as President of Hungary by July 31? Odds: 87.5% YES on Polymarket. See live prices and trade this market."
+description: "Tamas Sulyok out as President of Hungary by July 31? Odds: 86.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Tamas Sulyok out as President of Hungary by July 31?"
 category: "politics"
-status: "settled"
-lastUpdated: 2026-06-30
+status: "active"
+lastUpdated: 2026-07-11
 expiryDate: 2026-07-31
 tags: ["politics", "polymarket"]
-polymarketYes: 87.5
-polymarketNo: 12.5
-polymarketVolume: 9975
+polymarketYes: 86.5
+polymarketNo: 13.5
+polymarketVolume: 98464
 polymarketUrl: "https://polymarket.com/event/tamas-sulyok-out-as-president-of-hungary-by-july-31-20260626200424352"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/tamas-sulyok-out-as-president-of-hu
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 87.5% | 12.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 86.5% | 13.5% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Eduardo Bolsonaro win the 2026 Brazilian presidential election?](/odds/will-eduardo-bolsonaro-win-the-2026-brazilian-presidential-election) — 0% YES
-- [Will James Talarico win the 2028 Democratic presidential nomination?](/odds/will-james-talarico-win-the-2028-democratic-presidential-nomination) — 2% YES
-- [Will Édouard Philippe win the 2027 French presidential election?](/odds/will-douard-philippe-win-the-2027-french-presidential-election) — 18% YES
+- [Trump out as President before 2027?](/odds/trump-out-as-president-before-2027) — 8% YES
+- [Will there be no Head of State in Iran end of 2026?](/odds/will-there-be-no-head-of-state-in-iran-end-of-2026) — 3% YES
+- [Will LeBron James play for the Philadelphia 76ers in 2026-27?](/odds/will-lebron-james-play-for-the-philadelphia-76ers-in-2026-27) — 12% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Tamas Sulyok out as President of Hungary by July 31?"?
 
-As of June 29, 2026, Polymarket prices YES at 87.5%.
+As of July 11, 2026, Polymarket prices YES at 86.5%.
 
 ### Where can I trade on this prediction market?
 

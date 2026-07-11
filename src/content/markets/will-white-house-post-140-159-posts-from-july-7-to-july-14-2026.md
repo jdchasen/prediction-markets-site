@@ -1,23 +1,23 @@
 ---
-title: "Kylie Jenner and Timothée Chalamet engaged in 2026?"
-description: "Kylie Jenner and Timothée Chalamet engaged in 2026? Odds: 16.0% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Kylie Jenner and Timothée Chalamet engaged in 2026?"
+title: "Will White House post 140-159 posts from July 7 to July 14, 2026?"
+description: "Will White House post 140-159 posts from July 7 to July 14, 2026? Odds: 0.3% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will White House post 140-159 posts from July 7 to July 14, 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-07-11
-expiryDate: 2026-12-31
+expiryDate: 2026-07-14
 tags: ["politics", "polymarket"]
-polymarketYes: 16.0
-polymarketNo: 84.0
-polymarketVolume: 9812
-polymarketUrl: "https://polymarket.com/event/kylie-jenner-and-timothe-chalamet-engaged-in-2026"
+polymarketYes: 0.3
+polymarketNo: 99.7
+polymarketVolume: 9986
+polymarketUrl: "https://polymarket.com/event/white-house-of-tweets-july-7-july-14-2026-140-159"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 16.0% | 84.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.3% | 99.7% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/kylie-jenner-and-timothe-chalamet-e
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Kylie Jenner and Timothée Chalamet engaged in 2026?"?
+### What are the current odds for "Will White House post 140-159 posts from July 7 to July 14, 2026?"?
 
-As of July 11, 2026, Polymarket prices YES at 16.0%.
+As of July 11, 2026, Polymarket prices YES at 0.3%.
 
 ### Where can I trade on this prediction market?
 

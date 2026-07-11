@@ -3,8 +3,8 @@ title: "Will the Democratic Party win the MA-06 House seat?"
 description: "Will the Democratic Party win the MA-06 House seat? Odds: 93.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Democratic Party win the MA-06 House seat?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-07-10
+status: "settled"
+lastUpdated: 2026-07-11
 expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
 polymarketYes: 93.8

@@ -3,8 +3,8 @@ title: "Will Marcus Thuram score a goal at the 2026 FIFA World Cup?"
 description: "Will Marcus Thuram score a goal at the 2026 FIFA World Cup? Odds: 1.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Marcus Thuram score a goal at the 2026 FIFA World Cup?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-07-10
+status: "settled"
+lastUpdated: 2026-07-11
 expiryDate: 2026-07-20
 tags: ["polymarket", "sports"]
 polymarketYes: 1.9
