@@ -3,7 +3,7 @@ title: "Will Argentina reach the 2026 FIFA World Cup final?"
 description: "Will Argentina reach the 2026 FIFA World Cup final? Odds: 41.3% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Argentina reach the 2026 FIFA World Cup final?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-07-11
 expiryDate: 2026-07-20
 tags: ["polymarket", "sports"]

@@ -1,15 +1,15 @@
 ---
 title: "Will South Korea’s 2026 Annual Inflation be at least 3.0%?"
-description: "Will South Korea’s 2026 Annual Inflation be at least 3.0%? Odds: 20.5% YES on Polymarket. See live prices and trade this market."
+description: "Will South Korea’s 2026 Annual Inflation be at least 3.0%? Odds: 16.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will South Korea’s 2026 Annual Inflation be at least 3.0%?"
 category: "economics"
 status: "active"
 lastUpdated: 2026-07-11
 expiryDate: 2026-12-31
 tags: ["economics", "polymarket", "sports"]
-polymarketYes: 20.5
-polymarketNo: 79.5
-polymarketVolume: 9510
+polymarketYes: 16.5
+polymarketNo: 83.5
+polymarketVolume: 9525
 polymarketUrl: "https://polymarket.com/event/will-south-koreas-2026-annual-inflation-be-at-least-3pt0"
 ---
 
@@ -17,18 +17,18 @@ polymarketUrl: "https://polymarket.com/event/will-south-koreas-2026-annual-infla
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 20.5% | 79.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 16.5% | 83.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Brazil’s Annual Inflation in 2026 be between 4.50% and 4.99%?](/odds/will-brazils-annual-inflation-in-2026-be-between-450-and-499) — 29% YES
-- [Will UK annual GDP growth in 2026 be below 0%?](/odds/will-uk-annual-gdp-growth-in-2026-be-below-0) — 10% YES
+- [Will Brazil’s Annual Inflation in 2026 be between 4.50% and 4.99%?](/odds/will-brazils-annual-inflation-in-2026-be-between-450-and-499) — 28% YES
+- [Will UK annual GDP growth in 2026 be below 0%?](/odds/will-uk-annual-gdp-growth-in-2026-be-below-0) — 12% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will South Korea’s 2026 Annual Inflation be at least 3.0%?"?
 
-As of July 11, 2026, Polymarket prices YES at 20.5%.
+As of July 11, 2026, Polymarket prices YES at 16.5%.
 
 ### Where can I trade on this prediction market?
 

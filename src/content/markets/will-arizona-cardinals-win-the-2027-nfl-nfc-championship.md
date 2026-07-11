@@ -22,8 +22,8 @@ polymarketUrl: "https://polymarket.com/event/will-arizona-cardinals-win-the-2027
 ## Related Markets
 
 - [Will the Indianapolis Colts win the 2027 NFL league championship?](/odds/will-the-indianapolis-colts-win-the-2027-nfl-league-championship) — 1% YES
-- [Will Argentina reach the 2026 FIFA World Cup final?](/odds/will-argentina-reach-the-2026-fifa-world-cup-final) — 41% YES
-- [Will Michael Olise win the Golden Ball at the 2026 FIFA World Cup?](/odds/will-michael-olise-win-the-golden-ball-at-the-2026-fifa-world-cup) — 4% YES
+- [Will Kansas City Chiefs win the 2027 NFL AFC Championship?](/odds/will-kansas-city-chiefs-win-the-2027-nfl-afc-championship) — 9% YES
+- [Will Baker Mayfield win the 2026 NFL MVP?](/odds/will-baker-mayfield-win-the-2026-nfl-mvp) — 2% YES
 
 ## Frequently Asked Questions
 

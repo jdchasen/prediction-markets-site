@@ -1,15 +1,15 @@
 ---
 title: "Will the Republican Party win the OR-06 House seat?"
-description: "Will the Republican Party win the OR-06 House seat? Odds: 3.5% YES on Polymarket. See live prices and trade this market."
+description: "Will the Republican Party win the OR-06 House seat? Odds: 2.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Republican Party win the OR-06 House seat?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-07-11
 expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
-polymarketYes: 3.5
-polymarketNo: 96.5
-polymarketVolume: 9777
+polymarketYes: 2.9
+polymarketNo: 97.1
+polymarketVolume: 9827
 polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-or-06-house-seat"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-o
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 3.5% | 96.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 2.9% | 97.1% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Trump out as President before 2027?](/odds/trump-out-as-president-before-2027) — 8% YES
+- [Will Marco Rubio win the 2028 Republican presidential nomination?](/odds/will-marco-rubio-win-the-2028-republican-presidential-nomination) — 26% YES
 - [Will there be no Head of State in Iran end of 2026?](/odds/will-there-be-no-head-of-state-in-iran-end-of-2026) — 3% YES
-- [Will LeBron James play for the Philadelphia 76ers in 2026-27?](/odds/will-lebron-james-play-for-the-philadelphia-76ers-in-2026-27) — 12% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will the Republican Party win the OR-06 House seat?"?
 
-As of July 11, 2026, Polymarket prices YES at 3.5%.
+As of July 11, 2026, Polymarket prices YES at 2.9%.
 
 ### Where can I trade on this prediction market?
 

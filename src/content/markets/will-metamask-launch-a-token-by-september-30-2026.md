@@ -22,7 +22,7 @@ polymarketUrl: "https://polymarket.com/event/will-metamask-launch-a-token-by-sep
 ## Related Markets
 
 - [Will Loopscale launch a token by December 31, 2026?](/odds/will-loopscale-launch-a-token-by-december-31-2026) — 24% YES
-- [Will Ethereum reach $3,000 by December 31, 2026?](/odds/will-ethereum-reach-3000-by-december-31-2026) — 14% YES
+- [Will Ethereum reach $3,000 by December 31, 2026?](/odds/will-ethereum-reach-3000-by-december-31-2026) — 15% YES
 
 ## Frequently Asked Questions
 

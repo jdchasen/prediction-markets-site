@@ -1,23 +1,23 @@
 ---
-title: "Will OpenAI have the best AI Agent at the end of July 2026?"
-description: "Will OpenAI have the best AI Agent at the end of July 2026? Odds: 12.4% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will OpenAI have the best AI Agent at the end of July 2026?"
+title: "Will the United Kingdom send warships through the Strait of Hormuz by July 31, 2026?"
+description: "Will the United Kingdom send warships through the Strait of Hormuz by July 31, 2026? Odds: 3.4% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will the United Kingdom send warships through the Strait of Hormuz by July 31, 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-07-11
 expiryDate: 2026-07-31
 tags: ["ai", "politics", "polymarket"]
-polymarketYes: 12.4
-polymarketNo: 87.6
-polymarketVolume: 9946
-polymarketUrl: "https://polymarket.com/event/will-openai-have-the-best-ai-agent-at-the-end-of-july-2026-20260626204312505"
+polymarketYes: 3.4
+polymarketNo: 96.6
+polymarketVolume: 97792
+polymarketUrl: "https://polymarket.com/event/will-the-united-kingdom-send-warships-through-the-strait-of-hormuz-by-july-31-2026-20260701001952739"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 12.4% | 87.6% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 3.4% | 96.6% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-openai-have-the-best-ai-agent-
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will OpenAI have the best AI Agent at the end of July 2026?"?
+### What are the current odds for "Will the United Kingdom send warships through the Strait of Hormuz by July 31, 2026?"?
 
-As of July 11, 2026, Polymarket prices YES at 12.4%.
+As of July 11, 2026, Polymarket prices YES at 3.4%.
 
 ### Where can I trade on this prediction market?
 

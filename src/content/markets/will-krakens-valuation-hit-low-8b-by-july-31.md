@@ -3,7 +3,7 @@ title: "Will Kraken's valuation hit (LOW) $8B by July 31?"
 description: "Will Kraken's valuation hit (LOW) $8B by July 31? Odds: 8.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Kraken's valuation hit (LOW) $8B by July 31?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-07-11
 expiryDate: 2026-08-01
 tags: ["politics", "polymarket"]

@@ -1,23 +1,23 @@
 ---
-title: "Will Gustavo Petro be the next leader out before 2027?"
-description: "Will Gustavo Petro be the next leader out before 2027? Odds: 0.6% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Gustavo Petro be the next leader out before 2027?"
+title: "Will Epic Games' valuation hit (HIGH) $13.5B by December 31?"
+description: "Will Epic Games' valuation hit (HIGH) $13.5B by December 31? Odds: 34.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Epic Games' valuation hit (HIGH) $13.5B by December 31?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-07-11
-expiryDate: 2026-12-31
+expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]
-polymarketYes: 0.6
-polymarketNo: 99.4
-polymarketVolume: 994473
-polymarketUrl: "https://polymarket.com/event/will-gustavo-petro-be-the-next-leader-out-before-2027-576"
+polymarketYes: 34.5
+polymarketNo: 65.5
+polymarketVolume: 9880
+polymarketUrl: "https://polymarket.com/event/will-epic-games-valuation-hit-high-13pt5b-by-december-31"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.6% | 99.4% | $994K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 34.5% | 65.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-gustavo-petro-be-the-next-lead
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Gustavo Petro be the next leader out before 2027?"?
+### What are the current odds for "Will Epic Games' valuation hit (HIGH) $13.5B by December 31?"?
 
-As of July 11, 2026, Polymarket prices YES at 0.6%.
+As of July 11, 2026, Polymarket prices YES at 34.5%.
 
 ### Where can I trade on this prediction market?
 

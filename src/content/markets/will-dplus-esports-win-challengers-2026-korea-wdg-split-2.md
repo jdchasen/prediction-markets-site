@@ -3,7 +3,7 @@ title: "Will Dplus Esports Win Challengers 2026: Korea WDG Split 2"
 description: "Will Dplus Esports Win Challengers 2026: Korea WDG Split 2 Odds: 6.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Dplus Esports Win Challengers 2026: Korea WDG Split 2"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-07-11
 tags: ["politics", "polymarket"]
 polymarketYes: 6.5

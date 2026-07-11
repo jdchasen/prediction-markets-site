@@ -3,7 +3,7 @@ title: "Will Grüne win the most seats in the 2026 Berlin state elections?"
 description: "Will Grüne win the most seats in the 2026 Berlin state elections? Odds: 20.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Grüne win the most seats in the 2026 Berlin state elections?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-07-11
 expiryDate: 2026-09-20
 tags: ["elections", "politics", "polymarket"]

@@ -21,7 +21,7 @@ polymarketUrl: "https://polymarket.com/event/will-elon-musk-tweet-about-hyperliq
 
 ## Related Markets
 
-- [Will Elon Musk post 1240-1279 tweets in July 2026?](/odds/will-elon-musk-post-1240-1279-tweets-in-july-2026) — 1% YES
+- [Will Elon Musk post 1240-1279 tweets in July 2026?](/odds/will-elon-musk-post-1240-1279-tweets-in-july-2026) — 2% YES
 
 ## Frequently Asked Questions
 

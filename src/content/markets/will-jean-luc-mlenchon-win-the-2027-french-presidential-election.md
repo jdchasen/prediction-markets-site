@@ -1,23 +1,23 @@
 ---
-title: "Will Gustavo Petro be the next leader out before 2027?"
-description: "Will Gustavo Petro be the next leader out before 2027? Odds: 0.6% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Gustavo Petro be the next leader out before 2027?"
+title: "Will Jean-Luc Mélenchon win the 2027 French presidential election?"
+description: "Will Jean-Luc Mélenchon win the 2027 French presidential election? Odds: 11.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Jean-Luc Mélenchon win the 2027 French presidential election?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-07-11
-expiryDate: 2026-12-31
-tags: ["politics", "polymarket"]
-polymarketYes: 0.6
-polymarketNo: 99.4
-polymarketVolume: 994473
-polymarketUrl: "https://polymarket.com/event/will-gustavo-petro-be-the-next-leader-out-before-2027-576"
+expiryDate: 2027-04-30
+tags: ["elections", "politics", "polymarket"]
+polymarketYes: 11.5
+polymarketNo: 88.5
+polymarketVolume: 975164
+polymarketUrl: "https://polymarket.com/event/will-jean-luc-mlenchon-win-the-2027-french-presidential-election"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.6% | 99.4% | $994K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 11.5% | 88.5% | $975K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-gustavo-petro-be-the-next-lead
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Gustavo Petro be the next leader out before 2027?"?
+### What are the current odds for "Will Jean-Luc Mélenchon win the 2027 French presidential election?"?
 
-As of July 11, 2026, Polymarket prices YES at 0.6%.
+As of July 11, 2026, Polymarket prices YES at 11.5%.
 
 ### Where can I trade on this prediction market?
 

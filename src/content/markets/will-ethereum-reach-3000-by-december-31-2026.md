@@ -1,14 +1,14 @@
 ---
 title: "Will Ethereum reach $3,000 by December 31, 2026?"
-description: "Will Ethereum reach $3,000 by December 31, 2026? Odds: 14.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Ethereum reach $3,000 by December 31, 2026? Odds: 15.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Ethereum reach $3,000 by December 31, 2026?"
 category: "crypto"
 status: "active"
 lastUpdated: 2026-07-11
 expiryDate: 2027-01-01
 tags: ["crypto", "ethereum", "polymarket"]
-polymarketYes: 14.5
-polymarketNo: 85.5
+polymarketYes: 15.0
+polymarketNo: 85.0
 polymarketVolume: 9935
 polymarketUrl: "https://polymarket.com/event/will-ethereum-reach-3000-by-december-31-2026-from-june-8"
 ---
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-ethereum-reach-3000-by-decembe
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 14.5% | 85.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 15.0% | 85.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -28,7 +28,7 @@ polymarketUrl: "https://polymarket.com/event/will-ethereum-reach-3000-by-decembe
 
 ### What are the current odds for "Will Ethereum reach $3,000 by December 31, 2026?"?
 
-As of July 11, 2026, Polymarket prices YES at 14.5%.
+As of July 11, 2026, Polymarket prices YES at 15.0%.
 
 ### Where can I trade on this prediction market?
 

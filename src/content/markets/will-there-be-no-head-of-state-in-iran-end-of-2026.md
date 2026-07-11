@@ -1,15 +1,15 @@
 ---
 title: "Will there be no Head of State in Iran end of 2026?"
-description: "Will there be no Head of State in Iran end of 2026? Odds: 2.8% YES on Polymarket. See live prices and trade this market."
+description: "Will there be no Head of State in Iran end of 2026? Odds: 3.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will there be no Head of State in Iran end of 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-07-11
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 2.8
-polymarketNo: 97.2
-polymarketVolume: 998219
+polymarketYes: 3.1
+polymarketNo: 96.9
+polymarketVolume: 998729
 polymarketUrl: "https://polymarket.com/event/will-there-be-no-head-of-state-in-iran-end-of-2026"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-there-be-no-head-of-state-in-i
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 2.8% | 97.2% | $998K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 3.1% | 96.9% | $999K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Trump out as President before 2027?](/odds/trump-out-as-president-before-2027) — 8% YES
-- [Will LeBron James play for the Philadelphia 76ers in 2026-27?](/odds/will-lebron-james-play-for-the-philadelphia-76ers-in-2026-27) — 12% YES
-- [Will the New York Mets win the 2026 World Series?](/odds/will-the-new-york-mets-win-the-2026-world-series) — 1% YES
+- [Will Marco Rubio win the 2028 Republican presidential nomination?](/odds/will-marco-rubio-win-the-2028-republican-presidential-nomination) — 26% YES
+- [Will Gustavo Petro be the next leader out before 2027?](/odds/will-gustavo-petro-be-the-next-leader-out-before-2027) — 1% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will there be no Head of State in Iran end of 2026?"?
 
-As of July 11, 2026, Polymarket prices YES at 2.8%.
+As of July 11, 2026, Polymarket prices YES at 3.1%.
 
 ### Where can I trade on this prediction market?
 

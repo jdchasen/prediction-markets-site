@@ -1,15 +1,15 @@
 ---
 title: "Will Google have the third best AI model at the end of July 2026?"
-description: "Will Google have the third best AI model at the end of July 2026? Odds: 7.1% YES on Polymarket. See live prices and trade this market."
+description: "Will Google have the third best AI model at the end of July 2026? Odds: 7.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Google have the third best AI model at the end of July 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-07-11
 expiryDate: 2026-07-31
 tags: ["ai", "politics", "polymarket"]
-polymarketYes: 7.1
-polymarketNo: 92.9
-polymarketVolume: 9870
+polymarketYes: 7.2
+polymarketNo: 92.8
+polymarketVolume: 9886
 polymarketUrl: "https://polymarket.com/event/will-google-have-the-third-best-ai-model-at-the-end-of-july-2026"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-google-have-the-third-best-ai-
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 7.1% | 92.9% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 7.2% | 92.8% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Trump out as President before 2027?](/odds/trump-out-as-president-before-2027) — 8% YES
+- [Will Marco Rubio win the 2028 Republican presidential nomination?](/odds/will-marco-rubio-win-the-2028-republican-presidential-nomination) — 26% YES
 - [Will there be no Head of State in Iran end of 2026?](/odds/will-there-be-no-head-of-state-in-iran-end-of-2026) — 3% YES
-- [Will LeBron James play for the Philadelphia 76ers in 2026-27?](/odds/will-lebron-james-play-for-the-philadelphia-76ers-in-2026-27) — 12% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Google have the third best AI model at the end of July 2026?"?
 
-As of July 11, 2026, Polymarket prices YES at 7.1%.
+As of July 11, 2026, Polymarket prices YES at 7.2%.
 
 ### Where can I trade on this prediction market?
 

@@ -1,23 +1,23 @@
 ---
-title: "Will OpenAI's valuation hit (HIGH) $900B by December 31?"
-description: "Will OpenAI's valuation hit (HIGH) $900B by December 31? Odds: 73.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will OpenAI's valuation hit (HIGH) $900B by December 31?"
+title: "Will Dan Kleban be the Maine Senate Democratic nominee on July 27?"
+description: "Will Dan Kleban be the Maine Senate Democratic nominee on July 27? Odds: 1.8% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Dan Kleban be the Maine Senate Democratic nominee on July 27?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-07-11
-expiryDate: 2027-01-01
+expiryDate: 2026-07-27
 tags: ["ai", "politics", "polymarket"]
-polymarketYes: 73.5
-polymarketNo: 26.5
-polymarketVolume: 98076
-polymarketUrl: "https://polymarket.com/event/will-openais-valuation-hit-high-900b-by-december-31-942-235"
+polymarketYes: 1.8
+polymarketNo: 98.2
+polymarketVolume: 9830
+polymarketUrl: "https://polymarket.com/event/will-dan-kleban-be-the-maine-senate-democratic-nominee-on-july-27-20260706182929393"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 73.5% | 26.5% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 1.8% | 98.2% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-openais-valuation-hit-high-900
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will OpenAI's valuation hit (HIGH) $900B by December 31?"?
+### What are the current odds for "Will Dan Kleban be the Maine Senate Democratic nominee on July 27?"?
 
-As of July 11, 2026, Polymarket prices YES at 73.5%.
+As of July 11, 2026, Polymarket prices YES at 1.8%.
 
 ### Where can I trade on this prediction market?
 
@@ -37,6 +37,6 @@ You can trade this market on [Polymarket](https://polymarket.us/1762?utm_source=
 
 ## Learn More
 
+- [2028 Democratic Nominee Odds: Market Analysis](/blog/2028-democratic-nominee-odds-market-analysis)
 - [Will Oil Hit $100? March Crude Prediction Market Odds](/blog/will-oil-hit-100-march-crude-prediction-market-odds)
-- [Will MicroStrategy Sell Bitcoin? Market Odds](/blog/will-microstrategy-sell-bitcoin-market-odds)
 
