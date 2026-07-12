@@ -1,23 +1,23 @@
 ---
-title: "Will Kendrick Lamar be the top artist for 2026?"
-description: "Will Kendrick Lamar be the top artist for 2026? Odds: 0.2% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Kendrick Lamar be the top artist for 2026?"
+title: "Will CDU win the most seats in the 2026 Berlin state elections?"
+description: "Will CDU win the most seats in the 2026 Berlin state elections? Odds: 14.0% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will CDU win the most seats in the 2026 Berlin state elections?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-07-12
-expiryDate: 2026-12-31
-tags: ["politics", "polymarket"]
-polymarketYes: 0.2
-polymarketNo: 99.8
-polymarketVolume: 97862
-polymarketUrl: "https://polymarket.com/event/will-kendrick-lamar-be-the-top-spotify-artist-for-2026"
+expiryDate: 2026-09-20
+tags: ["elections", "politics", "polymarket"]
+polymarketYes: 14.0
+polymarketNo: 86.0
+polymarketVolume: 98983
+polymarketUrl: "https://polymarket.com/event/will-cdu-win-the-most-seats-in-the-2026-berlin-state-elections"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.2% | 99.8% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 14.0% | 86.0% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-kendrick-lamar-be-the-top-spot
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Kendrick Lamar be the top artist for 2026?"?
+### What are the current odds for "Will CDU win the most seats in the 2026 Berlin state elections?"?
 
-As of July 12, 2026, Polymarket prices YES at 0.2%.
+As of July 12, 2026, Polymarket prices YES at 14.0%.
 
 ### Where can I trade on this prediction market?
 
@@ -37,6 +37,6 @@ You can trade this market on [Polymarket](https://polymarket.us/1762?utm_source=
 
 ## Learn More
 
+- [Is Kalshi Legal? State-by-State Guide (2026)](/blog/is-kalshi-legal)
 - [Will ETH Hit $4,500 in 2026? Live Market Odds](/blog/will-ethereum-reach-4500-in-2026-what-prediction-markets-say)
-- [Will Discord IPO in 2026? What Prediction Markets Say](/blog/will-discord-ipo-in-2026-what-prediction-markets-say)
 

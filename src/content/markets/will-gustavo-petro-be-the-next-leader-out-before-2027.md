@@ -9,7 +9,7 @@ expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 0.4
 polymarketNo: 99.6
-polymarketVolume: 994904
+polymarketVolume: 995987
 polymarketUrl: "https://polymarket.com/event/will-gustavo-petro-be-the-next-leader-out-before-2027-576"
 ---
 
@@ -17,12 +17,12 @@ polymarketUrl: "https://polymarket.com/event/will-gustavo-petro-be-the-next-lead
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.4% | 99.6% | $995K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.4% | 99.6% | $996K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Trump out as President before 2027?](/odds/trump-out-as-president-before-2027) — 6% YES
-- [Will Marco Rubio win the 2028 Republican presidential nomination?](/odds/will-marco-rubio-win-the-2028-republican-presidential-nomination) — 27% YES
+- [Will Marco Rubio win the 2028 Republican presidential nomination?](/odds/will-marco-rubio-win-the-2028-republican-presidential-nomination) — 28% YES
 - [Will Eric Trump win the 2028 Republican presidential nomination?](/odds/will-eric-trump-win-the-2028-republican-presidential-nomination) — 1% YES
 
 ## Frequently Asked Questions

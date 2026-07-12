@@ -3,7 +3,7 @@ title: "Will Databricks' valuation hit (LOW) $125B by December 31?"
 description: "Will Databricks' valuation hit (LOW) $125B by December 31? Odds: 13.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Databricks' valuation hit (LOW) $125B by December 31?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-07-12
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]

@@ -1,23 +1,23 @@
 ---
-title: "Bitmine sells any Ethereum in 2026?"
-description: "Bitmine sells any Ethereum in 2026? Odds: 27.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Bitmine sells any Ethereum in 2026?"
+title: "GRVT FDV above $300M one day after launch?"
+description: "GRVT FDV above $300M one day after launch? Odds: 65.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "GRVT FDV above $300M one day after launch?"
 category: "crypto"
 status: "active"
 lastUpdated: 2026-07-12
-expiryDate: 2027-01-01
-tags: ["crypto", "ethereum", "polymarket"]
-polymarketYes: 27.5
-polymarketNo: 72.5
-polymarketVolume: 9733
-polymarketUrl: "https://polymarket.com/event/bitmine-sells-any-ethereum-in-2026"
+expiryDate: 2028-01-01
+tags: ["crypto", "polymarket"]
+polymarketYes: 65.5
+polymarketNo: 34.5
+polymarketVolume: 97830
+polymarketUrl: "https://polymarket.com/event/grvt-fdv-above-300m-one-day-after-launch"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 27.5% | 72.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 65.5% | 34.5% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/bitmine-sells-any-ethereum-in-2026"
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Bitmine sells any Ethereum in 2026?"?
+### What are the current odds for "GRVT FDV above $300M one day after launch?"?
 
-As of July 12, 2026, Polymarket prices YES at 27.5%.
+As of July 12, 2026, Polymarket prices YES at 65.5%.
 
 ### Where can I trade on this prediction market?
 

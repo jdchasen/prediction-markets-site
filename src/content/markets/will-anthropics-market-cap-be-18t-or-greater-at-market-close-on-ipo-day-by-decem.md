@@ -9,7 +9,7 @@ expiryDate: 2027-12-31
 tags: ["finance", "polymarket"]
 polymarketYes: 53.0
 polymarketNo: 47.0
-polymarketVolume: 97646
+polymarketVolume: 97651
 polymarketUrl: "https://polymarket.com/event/will-anthropics-market-cap-be-1pt8t-or-greater-at-market-close-on-ipo-day-by-december-31-2027"
 ---
 

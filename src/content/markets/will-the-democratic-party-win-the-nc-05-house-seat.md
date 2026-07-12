@@ -1,15 +1,15 @@
 ---
 title: "Will the Democratic Party win the NC-05 House seat?"
-description: "Will the Democratic Party win the NC-05 House seat? Odds: 12.2% YES on Polymarket. See live prices and trade this market."
+description: "Will the Democratic Party win the NC-05 House seat? Odds: 11.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Democratic Party win the NC-05 House seat?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-07-12
 expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
-polymarketYes: 12.2
-polymarketNo: 87.8
-polymarketVolume: 9849
+polymarketYes: 11.8
+polymarketNo: 88.1
+polymarketVolume: 9953
 polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-nc-05-house-seat"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-n
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 12.2% | 87.8% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 11.8% | 88.1% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Trump out as President before 2027?](/odds/trump-out-as-president-before-2027) — 6% YES
-- [Will Marco Rubio win the 2028 Republican presidential nomination?](/odds/will-marco-rubio-win-the-2028-republican-presidential-nomination) — 27% YES
+- [Will Marco Rubio win the 2028 Republican presidential nomination?](/odds/will-marco-rubio-win-the-2028-republican-presidential-nomination) — 28% YES
 - [Will Eric Trump win the 2028 Republican presidential nomination?](/odds/will-eric-trump-win-the-2028-republican-presidential-nomination) — 1% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will the Democratic Party win the NC-05 House seat?"?
 
-As of July 12, 2026, Polymarket prices YES at 12.2%.
+As of July 12, 2026, Polymarket prices YES at 11.8%.
 
 ### Where can I trade on this prediction market?
 

@@ -9,7 +9,7 @@ expiryDate: 2026-10-04
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 54.5
 polymarketNo: 45.5
-polymarketVolume: 9798
+polymarketVolume: 9804
 polymarketUrl: "https://polymarket.com/event/will-bakir-izetbegovi-be-the-bosniak-presidency-member-of-bosnia-and-herzegovina-following-the-2026-general-election"
 ---
 
@@ -22,7 +22,7 @@ polymarketUrl: "https://polymarket.com/event/will-bakir-izetbegovi-be-the-bosnia
 ## Related Markets
 
 - [Trump out as President before 2027?](/odds/trump-out-as-president-before-2027) — 6% YES
-- [Will Marco Rubio win the 2028 Republican presidential nomination?](/odds/will-marco-rubio-win-the-2028-republican-presidential-nomination) — 27% YES
+- [Will Marco Rubio win the 2028 Republican presidential nomination?](/odds/will-marco-rubio-win-the-2028-republican-presidential-nomination) — 28% YES
 - [Will Eric Trump win the 2028 Republican presidential nomination?](/odds/will-eric-trump-win-the-2028-republican-presidential-nomination) — 1% YES
 
 ## Frequently Asked Questions

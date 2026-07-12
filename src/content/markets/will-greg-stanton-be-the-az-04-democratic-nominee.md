@@ -3,7 +3,7 @@ title: "Will Greg Stanton be the AZ-04 Democratic nominee?"
 description: "Will Greg Stanton be the AZ-04 Democratic nominee? Odds: 90.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Greg Stanton be the AZ-04 Democratic nominee?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-07-12
 expiryDate: 2026-07-21
 tags: ["politics", "polymarket"]

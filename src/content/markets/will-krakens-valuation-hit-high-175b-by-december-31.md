@@ -1,23 +1,23 @@
 ---
-title: "Will Lovable be acquired before 2027?"
-description: "Will Lovable be acquired before 2027? Odds: 19.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Lovable be acquired before 2027?"
+title: "Will Kraken's valuation hit (HIGH) $17.5B by December 31?"
+description: "Will Kraken's valuation hit (HIGH) $17.5B by December 31? Odds: 27.0% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Kraken's valuation hit (HIGH) $17.5B by December 31?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-07-12
-expiryDate: 2026-12-31
+expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]
-polymarketYes: 19.5
-polymarketNo: 80.5
-polymarketVolume: 973702
-polymarketUrl: "https://polymarket.com/event/will-lovable-be-acquired-before-2027-423-881"
+polymarketYes: 27.0
+polymarketNo: 73.0
+polymarketVolume: 9961
+polymarketUrl: "https://polymarket.com/event/will-krakens-valuation-hit-high-17pt5b-by-december-31"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 19.5% | 80.5% | $974K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 27.0% | 73.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-lovable-be-acquired-before-202
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Lovable be acquired before 2027?"?
+### What are the current odds for "Will Kraken's valuation hit (HIGH) $17.5B by December 31?"?
 
-As of July 12, 2026, Polymarket prices YES at 19.5%.
+As of July 12, 2026, Polymarket prices YES at 27.0%.
 
 ### Where can I trade on this prediction market?
 

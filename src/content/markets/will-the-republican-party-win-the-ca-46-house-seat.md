@@ -3,7 +3,7 @@ title: "Will the Republican Party win the CA-46 House seat?"
 description: "Will the Republican Party win the CA-46 House seat? Odds: 5.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Republican Party win the CA-46 House seat?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-07-12
 expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]

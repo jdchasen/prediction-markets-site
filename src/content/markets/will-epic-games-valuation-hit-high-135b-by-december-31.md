@@ -1,14 +1,14 @@
 ---
 title: "Will Epic Games' valuation hit (HIGH) $13.5B by December 31?"
-description: "Will Epic Games' valuation hit (HIGH) $13.5B by December 31? Odds: 41.0% YES on Polymarket. See live prices and trade this market."
+description: "Will Epic Games' valuation hit (HIGH) $13.5B by December 31? Odds: 40.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Epic Games' valuation hit (HIGH) $13.5B by December 31?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-07-12
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]
-polymarketYes: 41.0
-polymarketNo: 59.0
+polymarketYes: 40.5
+polymarketNo: 59.6
 polymarketVolume: 9890
 polymarketUrl: "https://polymarket.com/event/will-epic-games-valuation-hit-high-13pt5b-by-december-31"
 ---
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-epic-games-valuation-hit-high-
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 41.0% | 59.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 40.5% | 59.6% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Trump out as President before 2027?](/odds/trump-out-as-president-before-2027) — 6% YES
-- [Will Marco Rubio win the 2028 Republican presidential nomination?](/odds/will-marco-rubio-win-the-2028-republican-presidential-nomination) — 27% YES
+- [Will Marco Rubio win the 2028 Republican presidential nomination?](/odds/will-marco-rubio-win-the-2028-republican-presidential-nomination) — 28% YES
 - [Will Eric Trump win the 2028 Republican presidential nomination?](/odds/will-eric-trump-win-the-2028-republican-presidential-nomination) — 1% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Epic Games' valuation hit (HIGH) $13.5B by December 31?"?
 
-As of July 12, 2026, Polymarket prices YES at 41.0%.
+As of July 12, 2026, Polymarket prices YES at 40.5%.
 
 ### Where can I trade on this prediction market?
 

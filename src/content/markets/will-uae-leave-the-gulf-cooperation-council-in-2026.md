@@ -9,7 +9,7 @@ expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 7.0
 polymarketNo: 93.0
-polymarketVolume: 99663
+polymarketVolume: 99756
 polymarketUrl: "https://polymarket.com/event/will-uae-leave-the-gulf-cooperation-council-in-2026"
 ---
 
@@ -22,7 +22,7 @@ polymarketUrl: "https://polymarket.com/event/will-uae-leave-the-gulf-cooperation
 ## Related Markets
 
 - [Trump out as President before 2027?](/odds/trump-out-as-president-before-2027) — 6% YES
-- [Will Marco Rubio win the 2028 Republican presidential nomination?](/odds/will-marco-rubio-win-the-2028-republican-presidential-nomination) — 27% YES
+- [Will Marco Rubio win the 2028 Republican presidential nomination?](/odds/will-marco-rubio-win-the-2028-republican-presidential-nomination) — 28% YES
 - [Will Eric Trump win the 2028 Republican presidential nomination?](/odds/will-eric-trump-win-the-2028-republican-presidential-nomination) — 1% YES
 
 ## Frequently Asked Questions
