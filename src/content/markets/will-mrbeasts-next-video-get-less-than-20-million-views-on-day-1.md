@@ -3,8 +3,8 @@ title: "Will MrBeast's next video get less than 20 million views on day 1?"
 description: "Will MrBeast's next video get less than 20 million views on day 1? Odds: 2.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will MrBeast's next video get less than 20 million views on day 1?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-07-11
+status: "settled"
+lastUpdated: 2026-07-12
 expiryDate: 2026-07-31
 tags: ["politics", "polymarket"]
 polymarketYes: 2.4

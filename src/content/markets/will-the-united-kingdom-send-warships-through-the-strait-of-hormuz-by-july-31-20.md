@@ -3,8 +3,8 @@ title: "Will the United Kingdom send warships through the Strait of Hormuz by Ju
 description: "Will the United Kingdom send warships through the Strait of Hormuz by July 31, 2026? Odds: 3.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the United Kingdom send warships through the Strait of Hormuz by July 31, 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-07-11
+status: "settled"
+lastUpdated: 2026-07-12
 expiryDate: 2026-07-31
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 3.4

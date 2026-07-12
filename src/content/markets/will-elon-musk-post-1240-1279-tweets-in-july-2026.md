@@ -1,14 +1,14 @@
 ---
 title: "Will Elon Musk post 1240-1279 tweets in July 2026?"
-description: "Will Elon Musk post 1240-1279 tweets in July 2026? Odds: 1.6% YES on Polymarket. See live prices and trade this market."
+description: "Will Elon Musk post 1240-1279 tweets in July 2026? Odds: 0.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Elon Musk post 1240-1279 tweets in July 2026?"
 category: "tech"
 status: "active"
-lastUpdated: 2026-07-11
+lastUpdated: 2026-07-12
 expiryDate: 2026-08-01
 tags: ["polymarket", "tech"]
-polymarketYes: 1.6
-polymarketNo: 98.4
+polymarketYes: 0.8
+polymarketNo: 99.2
 polymarketVolume: 9878
 polymarketUrl: "https://polymarket.com/event/elon-musk-of-tweets-july-2026-1240-1279"
 ---
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/elon-musk-of-tweets-july-2026-1240-
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 1.6% | 98.4% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.8% | 99.2% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,7 +27,7 @@ polymarketUrl: "https://polymarket.com/event/elon-musk-of-tweets-july-2026-1240-
 
 ### What are the current odds for "Will Elon Musk post 1240-1279 tweets in July 2026?"?
 
-As of July 11, 2026, Polymarket prices YES at 1.6%.
+As of July 12, 2026, Polymarket prices YES at 0.8%.
 
 ### Where can I trade on this prediction market?
 

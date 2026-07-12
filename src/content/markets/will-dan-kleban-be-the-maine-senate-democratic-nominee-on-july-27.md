@@ -3,8 +3,8 @@ title: "Will Dan Kleban be the Maine Senate Democratic nominee on July 27?"
 description: "Will Dan Kleban be the Maine Senate Democratic nominee on July 27? Odds: 1.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Dan Kleban be the Maine Senate Democratic nominee on July 27?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-07-11
+status: "settled"
+lastUpdated: 2026-07-12
 expiryDate: 2026-07-27
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 1.8

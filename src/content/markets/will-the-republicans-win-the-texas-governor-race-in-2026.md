@@ -3,8 +3,8 @@ title: "Will the Republicans win the Texas governor race in 2026?"
 description: "Will the Republicans win the Texas governor race in 2026? Odds: 92.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Republicans win the Texas governor race in 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-07-11
+status: "settled"
+lastUpdated: 2026-07-12
 tags: ["politics", "polymarket"]
 polymarketYes: 92.5
 polymarketNo: 7.5

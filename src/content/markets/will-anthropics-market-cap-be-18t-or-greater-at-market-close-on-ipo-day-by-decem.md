@@ -1,15 +1,15 @@
 ---
 title: "Will Anthropic’s market cap be 1.8T or greater at market close on IPO day by December 31 2027?"
-description: "Will Anthropic’s market cap be 1.8T or greater at market close on IPO day by December 31 2027? Odds: 54.0% YES on Polymarket. See live prices and trade this ..."
+description: "Will Anthropic’s market cap be 1.8T or greater at market close on IPO day by December 31 2027? Odds: 53.0% YES on Polymarket. See live prices and trade this ..."
 marketQuestion: "Will Anthropic’s market cap be 1.8T or greater at market close on IPO day by December 31 2027?"
 category: "finance"
 status: "active"
-lastUpdated: 2026-07-11
+lastUpdated: 2026-07-12
 expiryDate: 2027-12-31
 tags: ["finance", "polymarket"]
-polymarketYes: 54.0
-polymarketNo: 46.0
-polymarketVolume: 97626
+polymarketYes: 53.0
+polymarketNo: 47.0
+polymarketVolume: 97646
 polymarketUrl: "https://polymarket.com/event/will-anthropics-market-cap-be-1pt8t-or-greater-at-market-close-on-ipo-day-by-december-31-2027"
 ---
 
@@ -17,18 +17,17 @@ polymarketUrl: "https://polymarket.com/event/will-anthropics-market-cap-be-1pt8t
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 54.0% | 46.0% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 53.0% | 47.0% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Trump sell 25k-100k Gold Cards in 2026?](/odds/will-trump-sell-25k-100k-gold-cards-in-2026) — 0% YES
-- [Will Anthropic's market cap be between $2.25T and $2.5T at market close on IPO day?](/odds/will-anthropics-market-cap-be-between-225t-and-25t-at-market-close-on-ipo-day) — 14% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Anthropic’s market cap be 1.8T or greater at market close on IPO day by December 31 2027?"?
 
-As of July 11, 2026, Polymarket prices YES at 54.0%.
+As of July 12, 2026, Polymarket prices YES at 53.0%.
 
 ### Where can I trade on this prediction market?
 

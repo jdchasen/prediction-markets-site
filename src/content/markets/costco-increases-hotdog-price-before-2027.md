@@ -1,23 +1,23 @@
 ---
-title: "Will Lovable be acquired before 2027?"
-description: "Will Lovable be acquired before 2027? Odds: 19.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Lovable be acquired before 2027?"
+title: "Costco increases hotdog price before 2027?"
+description: "Costco increases hotdog price before 2027? Odds: 7.0% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Costco increases hotdog price before 2027?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-07-12
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 19.5
-polymarketNo: 80.5
-polymarketVolume: 973702
-polymarketUrl: "https://polymarket.com/event/will-lovable-be-acquired-before-2027-423-881"
+polymarketYes: 7.0
+polymarketNo: 93.0
+polymarketVolume: 9744
+polymarketUrl: "https://polymarket.com/event/costco-increases-hotdog-price-before-2027"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 19.5% | 80.5% | $974K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 7.0% | 93.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-lovable-be-acquired-before-202
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Lovable be acquired before 2027?"?
+### What are the current odds for "Costco increases hotdog price before 2027?"?
 
-As of July 12, 2026, Polymarket prices YES at 19.5%.
+As of July 12, 2026, Polymarket prices YES at 7.0%.
 
 ### Where can I trade on this prediction market?
 
@@ -37,6 +37,6 @@ You can trade this market on [Polymarket](https://polymarket.us/1762?utm_source=
 
 ## Learn More
 
-- [Will Oil Hit $100? March Crude Prediction Market Odds](/blog/will-oil-hit-100-march-crude-prediction-market-odds)
-- [Will MicroStrategy Sell Bitcoin? Market Odds](/blog/will-microstrategy-sell-bitcoin-market-odds)
+- [Kalshi Fees Explained: The Real Cost Per Trade](/blog/kalshi-fees-explained)
+- [Gold Price Prediction 2026: Will Gold Hit $7,000?](/blog/gold-price-prediction-2026-will-gold-hit-7000)
 

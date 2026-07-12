@@ -1,15 +1,15 @@
 ---
 title: "Will Gustavo Petro be the next leader out before 2027?"
-description: "Will Gustavo Petro be the next leader out before 2027? Odds: 0.6% YES on Polymarket. See live prices and trade this market."
+description: "Will Gustavo Petro be the next leader out before 2027? Odds: 0.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Gustavo Petro be the next leader out before 2027?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-07-11
+lastUpdated: 2026-07-12
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 0.6
-polymarketNo: 99.4
-polymarketVolume: 994473
+polymarketYes: 0.4
+polymarketNo: 99.6
+polymarketVolume: 994904
 polymarketUrl: "https://polymarket.com/event/will-gustavo-petro-be-the-next-leader-out-before-2027-576"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-gustavo-petro-be-the-next-lead
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.6% | 99.4% | $994K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.4% | 99.6% | $995K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Trump out as President before 2027?](/odds/trump-out-as-president-before-2027) — 8% YES
-- [Will Marco Rubio win the 2028 Republican presidential nomination?](/odds/will-marco-rubio-win-the-2028-republican-presidential-nomination) — 26% YES
-- [Will there be no Head of State in Iran end of 2026?](/odds/will-there-be-no-head-of-state-in-iran-end-of-2026) — 3% YES
+- [Trump out as President before 2027?](/odds/trump-out-as-president-before-2027) — 6% YES
+- [Will Marco Rubio win the 2028 Republican presidential nomination?](/odds/will-marco-rubio-win-the-2028-republican-presidential-nomination) — 27% YES
+- [Will Eric Trump win the 2028 Republican presidential nomination?](/odds/will-eric-trump-win-the-2028-republican-presidential-nomination) — 1% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Gustavo Petro be the next leader out before 2027?"?
 
-As of July 11, 2026, Polymarket prices YES at 0.6%.
+As of July 12, 2026, Polymarket prices YES at 0.4%.
 
 ### Where can I trade on this prediction market?
 

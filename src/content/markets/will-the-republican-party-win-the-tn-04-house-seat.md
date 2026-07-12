@@ -1,23 +1,23 @@
 ---
-title: "Will the Democratic Party win the MD-02 House seat?"
-description: "Will the Democratic Party win the MD-02 House seat? Odds: 95.0% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will the Democratic Party win the MD-02 House seat?"
+title: "Will the Republican Party win the TN-04 House seat?"
+description: "Will the Republican Party win the TN-04 House seat? Odds: 88.0% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will the Republican Party win the TN-04 House seat?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-07-12
 expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
-polymarketYes: 95.0
-polymarketNo: 5.0
-polymarketVolume: 9839
-polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-md-02-house-seat"
+polymarketYes: 88.0
+polymarketNo: 12.0
+polymarketVolume: 9781
+polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-tn-04-house-seat"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 95.0% | 5.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 88.0% | 12.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-m
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will the Democratic Party win the MD-02 House seat?"?
+### What are the current odds for "Will the Republican Party win the TN-04 House seat?"?
 
-As of July 12, 2026, Polymarket prices YES at 95.0%.
+As of July 12, 2026, Polymarket prices YES at 88.0%.
 
 ### Where can I trade on this prediction market?
 

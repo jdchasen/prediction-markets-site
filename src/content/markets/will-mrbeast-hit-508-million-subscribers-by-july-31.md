@@ -1,23 +1,23 @@
 ---
-title: "Will the Democratic Party win the MD-02 House seat?"
-description: "Will the Democratic Party win the MD-02 House seat? Odds: 95.0% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will the Democratic Party win the MD-02 House seat?"
+title: "Will MrBeast hit 508 million subscribers by July 31?"
+description: "Will MrBeast hit 508 million subscribers by July 31? Odds: 99.8% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will MrBeast hit 508 million subscribers by July 31?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-07-12
-expiryDate: 2026-11-03
+expiryDate: 2026-07-31
 tags: ["politics", "polymarket"]
-polymarketYes: 95.0
-polymarketNo: 5.0
-polymarketVolume: 9839
-polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-md-02-house-seat"
+polymarketYes: 99.8
+polymarketNo: 0.2
+polymarketVolume: 9802
+polymarketUrl: "https://polymarket.com/event/will-mrbeast-hit-508-million-subscribers-by-july-31-20260623145858514"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 95.0% | 5.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 99.8% | 0.2% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-m
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will the Democratic Party win the MD-02 House seat?"?
+### What are the current odds for "Will MrBeast hit 508 million subscribers by July 31?"?
 
-As of July 12, 2026, Polymarket prices YES at 95.0%.
+As of July 12, 2026, Polymarket prices YES at 99.8%.
 
 ### Where can I trade on this prediction market?
 

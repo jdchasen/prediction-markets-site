@@ -3,8 +3,8 @@ title: "Will Ethereum reach $3,000 by December 31, 2026?"
 description: "Will Ethereum reach $3,000 by December 31, 2026? Odds: 15.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Ethereum reach $3,000 by December 31, 2026?"
 category: "crypto"
-status: "active"
-lastUpdated: 2026-07-11
+status: "settled"
+lastUpdated: 2026-07-12
 expiryDate: 2027-01-01
 tags: ["crypto", "ethereum", "polymarket"]
 polymarketYes: 15.0

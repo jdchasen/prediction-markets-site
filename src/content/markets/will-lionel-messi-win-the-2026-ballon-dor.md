@@ -3,8 +3,8 @@ title: "Will Lionel Messi win the 2026 Ballon d'Or?"
 description: "Will Lionel Messi win the 2026 Ballon d'Or? Odds: 13.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Lionel Messi win the 2026 Ballon d'Or?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-07-11
+status: "settled"
+lastUpdated: 2026-07-12
 expiryDate: 2026-10-31
 tags: ["politics", "polymarket"]
 polymarketYes: 13.1

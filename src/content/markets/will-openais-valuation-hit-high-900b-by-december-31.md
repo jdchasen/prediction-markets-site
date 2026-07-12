@@ -1,15 +1,15 @@
 ---
 title: "Will OpenAI's valuation hit (HIGH) $900B by December 31?"
-description: "Will OpenAI's valuation hit (HIGH) $900B by December 31? Odds: 73.5% YES on Polymarket. See live prices and trade this market."
+description: "Will OpenAI's valuation hit (HIGH) $900B by December 31? Odds: 73.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will OpenAI's valuation hit (HIGH) $900B by December 31?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-07-11
+lastUpdated: 2026-07-12
 expiryDate: 2027-01-01
 tags: ["ai", "politics", "polymarket"]
-polymarketYes: 73.5
-polymarketNo: 26.5
-polymarketVolume: 98076
+polymarketYes: 73.0
+polymarketNo: 27.0
+polymarketVolume: 98234
 polymarketUrl: "https://polymarket.com/event/will-openais-valuation-hit-high-900b-by-december-31-942-235"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-openais-valuation-hit-high-900
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 73.5% | 26.5% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 73.0% | 27.0% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Trump out as President before 2027?](/odds/trump-out-as-president-before-2027) — 8% YES
-- [Will Marco Rubio win the 2028 Republican presidential nomination?](/odds/will-marco-rubio-win-the-2028-republican-presidential-nomination) — 26% YES
-- [Will there be no Head of State in Iran end of 2026?](/odds/will-there-be-no-head-of-state-in-iran-end-of-2026) — 3% YES
+- [Trump out as President before 2027?](/odds/trump-out-as-president-before-2027) — 6% YES
+- [Will Marco Rubio win the 2028 Republican presidential nomination?](/odds/will-marco-rubio-win-the-2028-republican-presidential-nomination) — 27% YES
+- [Will Eric Trump win the 2028 Republican presidential nomination?](/odds/will-eric-trump-win-the-2028-republican-presidential-nomination) — 1% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will OpenAI's valuation hit (HIGH) $900B by December 31?"?
 
-As of July 11, 2026, Polymarket prices YES at 73.5%.
+As of July 12, 2026, Polymarket prices YES at 73.0%.
 
 ### Where can I trade on this prediction market?
 

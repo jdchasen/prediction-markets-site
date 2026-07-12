@@ -1,23 +1,23 @@
 ---
-title: "Will Google have the third best AI model at the end of July 2026?"
-description: "Will Google have the third best AI model at the end of July 2026? Odds: 7.1% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Google have the third best AI model at the end of July 2026?"
+title: "Will the Atlanta Braves win the 2026 World Series?"
+description: "Will the Atlanta Braves win the 2026 World Series? Odds: 8.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will the Atlanta Braves win the 2026 World Series?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-07-12
-expiryDate: 2026-07-31
-tags: ["ai", "politics", "polymarket"]
-polymarketYes: 7.1
-polymarketNo: 92.9
-polymarketVolume: 9892
-polymarketUrl: "https://polymarket.com/event/will-google-have-the-third-best-ai-model-at-the-end-of-july-2026"
+expiryDate: 2026-10-31
+tags: ["politics", "polymarket"]
+polymarketYes: 8.5
+polymarketNo: 91.5
+polymarketVolume: 992389
+polymarketUrl: "https://polymarket.com/event/will-the-atlanta-braves-win-the-2026-world-series"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 7.1% | 92.9% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 8.5% | 91.5% | $992K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-google-have-the-third-best-ai-
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Google have the third best AI model at the end of July 2026?"?
+### What are the current odds for "Will the Atlanta Braves win the 2026 World Series?"?
 
-As of July 12, 2026, Polymarket prices YES at 7.1%.
+As of July 12, 2026, Polymarket prices YES at 8.5%.
 
 ### Where can I trade on this prediction market?
 
