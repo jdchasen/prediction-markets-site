@@ -3,8 +3,8 @@ title: "Will South America (CONMEBOL) score the most goals at the 2026 FIFA Worl
 description: "Will South America (CONMEBOL) score the most goals at the 2026 FIFA World Cup? Odds: 0.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will South America (CONMEBOL) score the most goals at the 2026 FIFA World Cup?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-07-12
+status: "settled"
+lastUpdated: 2026-07-13
 expiryDate: 2026-07-20
 tags: ["polymarket", "sports"]
 polymarketYes: 0.2

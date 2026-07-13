@@ -4,7 +4,7 @@ description: "Will MegaETH perform an airdrop by December 31, 2026? Odds: 21.0% 
 marketQuestion: "Will MegaETH perform an airdrop by December 31, 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-07-12
+lastUpdated: 2026-07-13
 expiryDate: 2027-01-01
 tags: ["ai", "ethereum", "politics", "polymarket"]
 polymarketYes: 21.0
@@ -21,7 +21,7 @@ polymarketUrl: "https://polymarket.com/event/will-megaeth-perform-an-airdrop-by-
 
 ## Related Markets
 
-- [Trump out as President before 2027?](/odds/trump-out-as-president-before-2027) — 6% YES
+- [Trump out as President before 2027?](/odds/trump-out-as-president-before-2027) — 8% YES
 - [Will Marco Rubio win the 2028 Republican presidential nomination?](/odds/will-marco-rubio-win-the-2028-republican-presidential-nomination) — 28% YES
 - [Will Eric Trump win the 2028 Republican presidential nomination?](/odds/will-eric-trump-win-the-2028-republican-presidential-nomination) — 1% YES
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-megaeth-perform-an-airdrop-by-
 
 ### What are the current odds for "Will MegaETH perform an airdrop by December 31, 2026?"?
 
-As of July 12, 2026, Polymarket prices YES at 21.0%.
+As of July 13, 2026, Polymarket prices YES at 21.0%.
 
 ### Where can I trade on this prediction market?
 

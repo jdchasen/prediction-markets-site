@@ -3,8 +3,8 @@ title: "Will Lamine Yamal score 3+ goals during the 2026 FIFA World Cup?"
 description: "Will Lamine Yamal score 3+ goals during the 2026 FIFA World Cup? Odds: 18.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Lamine Yamal score 3+ goals during the 2026 FIFA World Cup?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-07-12
+status: "settled"
+lastUpdated: 2026-07-13
 expiryDate: 2026-08-03
 tags: ["polymarket", "sports"]
 polymarketYes: 18.5

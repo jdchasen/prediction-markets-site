@@ -4,12 +4,12 @@ description: "Will ByteDance have the best Chinese AI model at the end of July 2
 marketQuestion: "Will ByteDance have the best Chinese AI model at the end of July 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-07-12
+lastUpdated: 2026-07-13
 expiryDate: 2026-07-31
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 0.1
 polymarketNo: 99.9
-polymarketVolume: 9828
+polymarketVolume: 9927
 polymarketUrl: "https://polymarket.com/event/will-bytedance-have-the-best-chinese-ai-model-at-the-end-of-july-2026"
 ---
 
@@ -21,7 +21,7 @@ polymarketUrl: "https://polymarket.com/event/will-bytedance-have-the-best-chines
 
 ## Related Markets
 
-- [Trump out as President before 2027?](/odds/trump-out-as-president-before-2027) — 6% YES
+- [Trump out as President before 2027?](/odds/trump-out-as-president-before-2027) — 8% YES
 - [Will Marco Rubio win the 2028 Republican presidential nomination?](/odds/will-marco-rubio-win-the-2028-republican-presidential-nomination) — 28% YES
 - [Will Eric Trump win the 2028 Republican presidential nomination?](/odds/will-eric-trump-win-the-2028-republican-presidential-nomination) — 1% YES
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-bytedance-have-the-best-chines
 
 ### What are the current odds for "Will ByteDance have the best Chinese AI model at the end of July 2026?"?
 
-As of July 12, 2026, Polymarket prices YES at 0.1%.
+As of July 13, 2026, Polymarket prices YES at 0.1%.
 
 ### Where can I trade on this prediction market?
 

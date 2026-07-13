@@ -1,15 +1,15 @@
 ---
 title: "Will UK annual GDP growth in 2026 be below 0%?"
-description: "Will UK annual GDP growth in 2026 be below 0%? Odds: 12.5% YES on Polymarket. See live prices and trade this market."
+description: "Will UK annual GDP growth in 2026 be below 0%? Odds: 14.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will UK annual GDP growth in 2026 be below 0%?"
 category: "economics"
 status: "active"
-lastUpdated: 2026-07-12
+lastUpdated: 2026-07-13
 expiryDate: 2027-02-12
 tags: ["economics", "polymarket"]
-polymarketYes: 12.5
-polymarketNo: 87.5
-polymarketVolume: 9733
+polymarketYes: 14.5
+polymarketNo: 85.5
+polymarketVolume: 9858
 polymarketUrl: "https://polymarket.com/event/will-uk-annual-gdp-growth-in-2026-be-below-0"
 ---
 
@@ -17,17 +17,18 @@ polymarketUrl: "https://polymarket.com/event/will-uk-annual-gdp-growth-in-2026-b
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 12.5% | 87.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 14.5% | 85.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will South Korea’s 2026 Annual Inflation be at least 3.0%?](/odds/will-south-koreas-2026-annual-inflation-be-at-least-30) — 23% YES
+- [Will South Korea’s 2026 Annual Inflation be at least 3.0%?](/odds/will-south-koreas-2026-annual-inflation-be-at-least-30) — 20% YES
+- [Will Brazil’s Annual Inflation in 2026 be between 4.00% and 4.49%?](/odds/will-brazils-annual-inflation-in-2026-be-between-400-and-449) — 6% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will UK annual GDP growth in 2026 be below 0%?"?
 
-As of July 12, 2026, Polymarket prices YES at 12.5%.
+As of July 13, 2026, Polymarket prices YES at 14.5%.
 
 ### Where can I trade on this prediction market?
 

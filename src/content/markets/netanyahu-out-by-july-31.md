@@ -1,15 +1,15 @@
 ---
 title: "Netanyahu out by July 31?"
-description: "Netanyahu out by July 31? Odds: 0.7% YES on Polymarket. See live prices and trade this market."
+description: "Netanyahu out by July 31? Odds: 0.6% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Netanyahu out by July 31?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-07-12
+lastUpdated: 2026-07-13
 expiryDate: 2026-07-31
 tags: ["politics", "polymarket"]
-polymarketYes: 0.7
+polymarketYes: 0.6
 polymarketNo: 99.4
-polymarketVolume: 97868
+polymarketVolume: 98342
 polymarketUrl: "https://polymarket.com/event/netanyahu-out-by-july-31"
 ---
 
@@ -17,11 +17,11 @@ polymarketUrl: "https://polymarket.com/event/netanyahu-out-by-july-31"
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.7% | 99.4% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.6% | 99.4% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Trump out as President before 2027?](/odds/trump-out-as-president-before-2027) — 6% YES
+- [Trump out as President before 2027?](/odds/trump-out-as-president-before-2027) — 8% YES
 - [Will Marco Rubio win the 2028 Republican presidential nomination?](/odds/will-marco-rubio-win-the-2028-republican-presidential-nomination) — 28% YES
 - [Will Eric Trump win the 2028 Republican presidential nomination?](/odds/will-eric-trump-win-the-2028-republican-presidential-nomination) — 1% YES
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/netanyahu-out-by-july-31"
 
 ### What are the current odds for "Netanyahu out by July 31?"?
 
-As of July 12, 2026, Polymarket prices YES at 0.7%.
+As of July 13, 2026, Polymarket prices YES at 0.6%.
 
 ### Where can I trade on this prediction market?
 

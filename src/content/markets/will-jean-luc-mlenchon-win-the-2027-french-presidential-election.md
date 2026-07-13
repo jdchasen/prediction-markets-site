@@ -1,15 +1,15 @@
 ---
 title: "Will Jean-Luc Mélenchon win the 2027 French presidential election?"
-description: "Will Jean-Luc Mélenchon win the 2027 French presidential election? Odds: 10.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Jean-Luc Mélenchon win the 2027 French presidential election? Odds: 11.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Jean-Luc Mélenchon win the 2027 French presidential election?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-07-12
+lastUpdated: 2026-07-13
 expiryDate: 2027-04-30
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 10.5
-polymarketNo: 89.5
-polymarketVolume: 994206
+polymarketYes: 11.5
+polymarketNo: 88.5
+polymarketVolume: 997349
 polymarketUrl: "https://polymarket.com/event/will-jean-luc-mlenchon-win-the-2027-french-presidential-election"
 ---
 
@@ -17,11 +17,11 @@ polymarketUrl: "https://polymarket.com/event/will-jean-luc-mlenchon-win-the-2027
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 10.5% | 89.5% | $994K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 11.5% | 88.5% | $997K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Trump out as President before 2027?](/odds/trump-out-as-president-before-2027) — 6% YES
+- [Trump out as President before 2027?](/odds/trump-out-as-president-before-2027) — 8% YES
 - [Will Marco Rubio win the 2028 Republican presidential nomination?](/odds/will-marco-rubio-win-the-2028-republican-presidential-nomination) — 28% YES
 - [Will Eric Trump win the 2028 Republican presidential nomination?](/odds/will-eric-trump-win-the-2028-republican-presidential-nomination) — 1% YES
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-jean-luc-mlenchon-win-the-2027
 
 ### What are the current odds for "Will Jean-Luc Mélenchon win the 2027 French presidential election?"?
 
-As of July 12, 2026, Polymarket prices YES at 10.5%.
+As of July 13, 2026, Polymarket prices YES at 11.5%.
 
 ### Where can I trade on this prediction market?
 

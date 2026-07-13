@@ -3,8 +3,8 @@ title: "Will Austin Reaves play for the Cleveland Cavaliers in 2026-27?"
 description: "Will Austin Reaves play for the Cleveland Cavaliers in 2026-27? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Austin Reaves play for the Cleveland Cavaliers in 2026-27?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-07-12
+status: "settled"
+lastUpdated: 2026-07-13
 expiryDate: 2026-10-31
 tags: ["politics", "polymarket"]
 polymarketYes: 0.1

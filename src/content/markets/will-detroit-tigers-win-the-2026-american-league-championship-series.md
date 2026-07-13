@@ -4,11 +4,11 @@ description: "Will Detroit Tigers win the 2026 American League Championship Seri
 marketQuestion: "Will Detroit Tigers win the 2026 American League Championship Series?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-07-12
+lastUpdated: 2026-07-13
 expiryDate: 2026-11-01
 tags: ["politics", "polymarket"]
 polymarketYes: 3.9
-polymarketNo: 96.2
+polymarketNo: 96.1
 polymarketVolume: 99905
 polymarketUrl: "https://polymarket.com/event/will-detroit-tigers-win-the-2026-american-league-championship-series"
 ---
@@ -17,11 +17,11 @@ polymarketUrl: "https://polymarket.com/event/will-detroit-tigers-win-the-2026-am
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 3.9% | 96.2% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 3.9% | 96.1% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Trump out as President before 2027?](/odds/trump-out-as-president-before-2027) — 6% YES
+- [Trump out as President before 2027?](/odds/trump-out-as-president-before-2027) — 8% YES
 - [Will Marco Rubio win the 2028 Republican presidential nomination?](/odds/will-marco-rubio-win-the-2028-republican-presidential-nomination) — 28% YES
 - [Will Eric Trump win the 2028 Republican presidential nomination?](/odds/will-eric-trump-win-the-2028-republican-presidential-nomination) — 1% YES
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-detroit-tigers-win-the-2026-am
 
 ### What are the current odds for "Will Detroit Tigers win the 2026 American League Championship Series?"?
 
-As of July 12, 2026, Polymarket prices YES at 3.9%.
+As of July 13, 2026, Polymarket prices YES at 3.9%.
 
 ### Where can I trade on this prediction market?
 

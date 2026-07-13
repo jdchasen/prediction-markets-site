@@ -3,8 +3,8 @@ title: "Will Kraken's valuation hit (HIGH) $17.5B by December 31?"
 description: "Will Kraken's valuation hit (HIGH) $17.5B by December 31? Odds: 27.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Kraken's valuation hit (HIGH) $17.5B by December 31?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-07-12
+status: "settled"
+lastUpdated: 2026-07-13
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]
 polymarketYes: 27.0

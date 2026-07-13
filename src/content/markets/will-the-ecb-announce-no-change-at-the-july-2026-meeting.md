@@ -1,15 +1,15 @@
 ---
 title: "Will the ECB announce no change at the July 2026 meeting?"
-description: "Will the ECB announce no change at the July 2026 meeting? Odds: 97.5% YES on Polymarket. See live prices and trade this market."
+description: "Will the ECB announce no change at the July 2026 meeting? Odds: 97.6% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the ECB announce no change at the July 2026 meeting?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-07-12
+lastUpdated: 2026-07-13
 expiryDate: 2026-07-23
 tags: ["politics", "polymarket"]
-polymarketYes: 97.5
-polymarketNo: 2.5
-polymarketVolume: 95945
+polymarketYes: 97.6
+polymarketNo: 2.4
+polymarketVolume: 98844
 polymarketUrl: "https://polymarket.com/event/will-the-ecb-announce-no-change-at-the-july-2026-meeting"
 ---
 
@@ -17,11 +17,11 @@ polymarketUrl: "https://polymarket.com/event/will-the-ecb-announce-no-change-at-
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 97.5% | 2.5% | $96K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 97.6% | 2.4% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Trump out as President before 2027?](/odds/trump-out-as-president-before-2027) — 6% YES
+- [Trump out as President before 2027?](/odds/trump-out-as-president-before-2027) — 8% YES
 - [Will Marco Rubio win the 2028 Republican presidential nomination?](/odds/will-marco-rubio-win-the-2028-republican-presidential-nomination) — 28% YES
 - [Will Eric Trump win the 2028 Republican presidential nomination?](/odds/will-eric-trump-win-the-2028-republican-presidential-nomination) — 1% YES
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-ecb-announce-no-change-at-
 
 ### What are the current odds for "Will the ECB announce no change at the July 2026 meeting?"?
 
-As of July 12, 2026, Polymarket prices YES at 97.5%.
+As of July 13, 2026, Polymarket prices YES at 97.6%.
 
 ### Where can I trade on this prediction market?
 
