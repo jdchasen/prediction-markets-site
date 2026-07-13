@@ -1,14 +1,14 @@
 ---
 title: "Will the Republican Party win the OR-06 House seat?"
-description: "Will the Republican Party win the OR-06 House seat? Odds: 3.0% YES on Polymarket. See live prices and trade this market."
+description: "Will the Republican Party win the OR-06 House seat? Odds: 3.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Republican Party win the OR-06 House seat?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-07-13
 expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
-polymarketYes: 3.0
-polymarketNo: 97.0
+polymarketYes: 3.1
+polymarketNo: 96.9
 polymarketVolume: 9861
 polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-or-06-house-seat"
 ---
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-o
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 3.0% | 97.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 3.1% | 96.9% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-o
 
 ### What are the current odds for "Will the Republican Party win the OR-06 House seat?"?
 
-As of July 13, 2026, Polymarket prices YES at 3.0%.
+As of July 13, 2026, Polymarket prices YES at 3.1%.
 
 ### Where can I trade on this prediction market?
 

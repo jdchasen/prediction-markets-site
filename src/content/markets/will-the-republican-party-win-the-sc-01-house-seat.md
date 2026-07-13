@@ -1,23 +1,23 @@
 ---
-title: "Will Jean-Luc Mélenchon win the 2027 French presidential election?"
-description: "Will Jean-Luc Mélenchon win the 2027 French presidential election? Odds: 11.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Jean-Luc Mélenchon win the 2027 French presidential election?"
+title: "Will the Republican Party win the SC-01 House seat?"
+description: "Will the Republican Party win the SC-01 House seat? Odds: 74.0% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will the Republican Party win the SC-01 House seat?"
 category: "politics"
-status: "settled"
+status: "active"
 lastUpdated: 2026-07-13
-expiryDate: 2027-04-30
-tags: ["elections", "politics", "polymarket"]
-polymarketYes: 11.5
-polymarketNo: 88.5
-polymarketVolume: 997349
-polymarketUrl: "https://polymarket.com/event/will-jean-luc-mlenchon-win-the-2027-french-presidential-election"
+expiryDate: 2026-11-03
+tags: ["politics", "polymarket"]
+polymarketYes: 74.0
+polymarketNo: 26.0
+polymarketVolume: 9876
+polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-sc-01-house-seat"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 11.5% | 88.5% | $997K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 74.0% | 26.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-jean-luc-mlenchon-win-the-2027
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Jean-Luc Mélenchon win the 2027 French presidential election?"?
+### What are the current odds for "Will the Republican Party win the SC-01 House seat?"?
 
-As of July 13, 2026, Polymarket prices YES at 11.5%.
+As of July 13, 2026, Polymarket prices YES at 74.0%.
 
 ### Where can I trade on this prediction market?
 

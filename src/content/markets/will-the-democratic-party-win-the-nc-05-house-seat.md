@@ -1,14 +1,14 @@
 ---
 title: "Will the Democratic Party win the NC-05 House seat?"
-description: "Will the Democratic Party win the NC-05 House seat? Odds: 11.7% YES on Polymarket. See live prices and trade this market."
+description: "Will the Democratic Party win the NC-05 House seat? Odds: 11.6% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Democratic Party win the NC-05 House seat?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-07-13
 expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
-polymarketYes: 11.7
-polymarketNo: 88.3
+polymarketYes: 11.6
+polymarketNo: 88.4
 polymarketVolume: 9953
 polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-nc-05-house-seat"
 ---
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-n
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 11.7% | 88.3% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 11.6% | 88.4% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-n
 
 ### What are the current odds for "Will the Democratic Party win the NC-05 House seat?"?
 
-As of July 13, 2026, Polymarket prices YES at 11.7%.
+As of July 13, 2026, Polymarket prices YES at 11.6%.
 
 ### Where can I trade on this prediction market?
 

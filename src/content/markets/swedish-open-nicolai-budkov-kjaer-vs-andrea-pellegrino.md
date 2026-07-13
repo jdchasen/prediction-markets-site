@@ -3,7 +3,7 @@ title: "Swedish Open: Nicolai Budkov Kjaer vs Andrea Pellegrino"
 description: "Swedish Open: Nicolai Budkov Kjaer vs Andrea Pellegrino Odds: 46.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Swedish Open: Nicolai Budkov Kjaer vs Andrea Pellegrino"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-07-13
 expiryDate: 2026-07-20
 tags: ["ai", "politics", "polymarket"]

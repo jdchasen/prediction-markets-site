@@ -1,23 +1,23 @@
 ---
-title: "Will Jean-Luc Mélenchon win the 2027 French presidential election?"
-description: "Will Jean-Luc Mélenchon win the 2027 French presidential election? Odds: 11.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Jean-Luc Mélenchon win the 2027 French presidential election?"
+title: "Will Ukraine re-enter Obratne or Temyrivka by December 31?"
+description: "Will Ukraine re-enter Obratne or Temyrivka by December 31? Odds: 46.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Ukraine re-enter Obratne or Temyrivka by December 31?"
 category: "politics"
-status: "settled"
+status: "active"
 lastUpdated: 2026-07-13
-expiryDate: 2027-04-30
-tags: ["elections", "politics", "polymarket"]
-polymarketYes: 11.5
-polymarketNo: 88.5
-polymarketVolume: 997349
-polymarketUrl: "https://polymarket.com/event/will-jean-luc-mlenchon-win-the-2027-french-presidential-election"
+expiryDate: 2026-12-31
+tags: ["ai", "politics", "polymarket"]
+polymarketYes: 46.5
+polymarketNo: 53.5
+polymarketVolume: 9913
+polymarketUrl: "https://polymarket.com/event/will-ukraine-re-enter-obratne-or-temyrivka-by-december-31"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 11.5% | 88.5% | $997K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 46.5% | 53.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-jean-luc-mlenchon-win-the-2027
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Jean-Luc Mélenchon win the 2027 French presidential election?"?
+### What are the current odds for "Will Ukraine re-enter Obratne or Temyrivka by December 31?"?
 
-As of July 13, 2026, Polymarket prices YES at 11.5%.
+As of July 13, 2026, Polymarket prices YES at 46.5%.
 
 ### Where can I trade on this prediction market?
 

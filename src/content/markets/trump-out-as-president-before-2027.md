@@ -9,7 +9,7 @@ expiryDate: 2026-12-31
 tags: ["politics", "polymarket", "trump"]
 polymarketYes: 7.5
 polymarketNo: 92.5
-polymarketVolume: 9934234
+polymarketVolume: 9938614
 polymarketUrl: "https://polymarket.com/event/trump-out-as-president-before-2027"
 ---
 
@@ -23,7 +23,7 @@ polymarketUrl: "https://polymarket.com/event/trump-out-as-president-before-2027"
 
 - [Will Marco Rubio win the 2028 Republican presidential nomination?](/odds/will-marco-rubio-win-the-2028-republican-presidential-nomination) — 28% YES
 - [Will Eric Trump win the 2028 Republican presidential nomination?](/odds/will-eric-trump-win-the-2028-republican-presidential-nomination) — 1% YES
-- [Will Jean-Luc Mélenchon win the 2027 French presidential election?](/odds/will-jean-luc-mlenchon-win-the-2027-french-presidential-election) — 12% YES
+- [Will the Atlanta Braves win the 2026 World Series?](/odds/will-the-atlanta-braves-win-the-2026-world-series) — 7% YES
 
 ## Frequently Asked Questions
 

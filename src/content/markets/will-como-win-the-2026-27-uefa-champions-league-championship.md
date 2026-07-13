@@ -1,22 +1,23 @@
 ---
-title: "MLB: Perfect Game thrown in 2026 season?"
-description: "MLB: Perfect Game thrown in 2026 season? Odds: 15.0% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "MLB: Perfect Game thrown in 2026 season?"
+title: "Will Como win the 2026-27 UEFA Champions League Championship?"
+description: "Will Como win the 2026-27 UEFA Champions League Championship? Odds: 0.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Como win the 2026-27 UEFA Champions League Championship?"
 category: "sports"
 status: "active"
 lastUpdated: 2026-07-13
+expiryDate: 2027-05-30
 tags: ["polymarket", "sports"]
-polymarketYes: 15.0
-polymarketNo: 85.0
-polymarketVolume: 9942
-polymarketUrl: "https://polymarket.com/event/mlb-perfect-game-thrown-in-2026-season"
+polymarketYes: 0.5
+polymarketNo: 99.5
+polymarketVolume: 9902
+polymarketUrl: "https://polymarket.com/event/will-como-win-the-2026-27-uefa-champions-league-championship-20260701202025559"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 15.0% | 85.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.5% | 99.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -26,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/mlb-perfect-game-thrown-in-2026-sea
 
 ## Frequently Asked Questions
 
-### What are the current odds for "MLB: Perfect Game thrown in 2026 season?"?
+### What are the current odds for "Will Como win the 2026-27 UEFA Champions League Championship?"?
 
-As of July 13, 2026, Polymarket prices YES at 15.0%.
+As of July 13, 2026, Polymarket prices YES at 0.5%.
 
 ### Where can I trade on this prediction market?
 

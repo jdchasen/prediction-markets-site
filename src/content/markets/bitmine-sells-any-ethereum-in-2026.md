@@ -3,7 +3,7 @@ title: "Bitmine sells any Ethereum in 2026?"
 description: "Bitmine sells any Ethereum in 2026? Odds: 26.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Bitmine sells any Ethereum in 2026?"
 category: "crypto"
-status: "active"
+status: "settled"
 lastUpdated: 2026-07-13
 expiryDate: 2027-01-01
 tags: ["crypto", "ethereum", "polymarket"]

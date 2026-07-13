@@ -1,23 +1,23 @@
 ---
-title: "Will Jean-Luc Mélenchon win the 2027 French presidential election?"
-description: "Will Jean-Luc Mélenchon win the 2027 French presidential election? Odds: 11.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Jean-Luc Mélenchon win the 2027 French presidential election?"
+title: "Will Dogecoin reach $0.15 in July?"
+description: "Will Dogecoin reach $0.15 in July? Odds: 0.9% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Dogecoin reach $0.15 in July?"
 category: "politics"
-status: "settled"
+status: "active"
 lastUpdated: 2026-07-13
-expiryDate: 2027-04-30
-tags: ["elections", "politics", "polymarket"]
-polymarketYes: 11.5
-polymarketNo: 88.5
-polymarketVolume: 997349
-polymarketUrl: "https://polymarket.com/event/will-jean-luc-mlenchon-win-the-2027-french-presidential-election"
+expiryDate: 2026-08-01
+tags: ["politics", "polymarket"]
+polymarketYes: 0.9
+polymarketNo: 99.2
+polymarketVolume: 97922
+polymarketUrl: "https://polymarket.com/event/will-dogecoin-reach-0pt15-in-july-2026"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 11.5% | 88.5% | $997K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.9% | 99.2% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-jean-luc-mlenchon-win-the-2027
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Jean-Luc Mélenchon win the 2027 French presidential election?"?
+### What are the current odds for "Will Dogecoin reach $0.15 in July?"?
 
-As of July 13, 2026, Polymarket prices YES at 11.5%.
+As of July 13, 2026, Polymarket prices YES at 0.9%.
 
 ### Where can I trade on this prediction market?
 

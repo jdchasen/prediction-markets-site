@@ -3,7 +3,7 @@ title: "Will Google have the third best AI model at the end of July 2026?"
 description: "Will Google have the third best AI model at the end of July 2026? Odds: 8.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Google have the third best AI model at the end of July 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-07-13
 expiryDate: 2026-07-31
 tags: ["ai", "politics", "polymarket"]

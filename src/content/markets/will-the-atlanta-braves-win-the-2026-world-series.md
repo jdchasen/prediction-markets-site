@@ -1,15 +1,15 @@
 ---
 title: "Will the Atlanta Braves win the 2026 World Series?"
-description: "Will the Atlanta Braves win the 2026 World Series? Odds: 7.3% YES on Polymarket. See live prices and trade this market."
+description: "Will the Atlanta Braves win the 2026 World Series? Odds: 7.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Atlanta Braves win the 2026 World Series?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-07-13
 expiryDate: 2026-10-31
 tags: ["politics", "polymarket"]
-polymarketYes: 7.3
-polymarketNo: 92.7
-polymarketVolume: 993333
+polymarketYes: 7.1
+polymarketNo: 92.8
+polymarketVolume: 994730
 polymarketUrl: "https://polymarket.com/event/will-the-atlanta-braves-win-the-2026-world-series"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-atlanta-braves-win-the-202
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 7.3% | 92.7% | $993K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 7.1% | 92.8% | $995K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-atlanta-braves-win-the-202
 
 ### What are the current odds for "Will the Atlanta Braves win the 2026 World Series?"?
 
-As of July 13, 2026, Polymarket prices YES at 7.3%.
+As of July 13, 2026, Polymarket prices YES at 7.1%.
 
 ### Where can I trade on this prediction market?
 

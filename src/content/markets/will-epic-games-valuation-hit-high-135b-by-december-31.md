@@ -1,14 +1,14 @@
 ---
 title: "Will Epic Games' valuation hit (HIGH) $13.5B by December 31?"
-description: "Will Epic Games' valuation hit (HIGH) $13.5B by December 31? Odds: 39.0% YES on Polymarket. See live prices and trade this market."
+description: "Will Epic Games' valuation hit (HIGH) $13.5B by December 31? Odds: 39.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Epic Games' valuation hit (HIGH) $13.5B by December 31?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-07-13
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]
-polymarketYes: 39.0
-polymarketNo: 61.0
+polymarketYes: 39.1
+polymarketNo: 60.9
 polymarketVolume: 9890
 polymarketUrl: "https://polymarket.com/event/will-epic-games-valuation-hit-high-13pt5b-by-december-31"
 ---
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-epic-games-valuation-hit-high-
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 39.0% | 61.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 39.1% | 60.9% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-epic-games-valuation-hit-high-
 
 ### What are the current odds for "Will Epic Games' valuation hit (HIGH) $13.5B by December 31?"?
 
-As of July 13, 2026, Polymarket prices YES at 39.0%.
+As of July 13, 2026, Polymarket prices YES at 39.1%.
 
 ### Where can I trade on this prediction market?
 

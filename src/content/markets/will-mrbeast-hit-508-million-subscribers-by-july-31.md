@@ -3,7 +3,7 @@ title: "Will MrBeast hit 508 million subscribers by July 31?"
 description: "Will MrBeast hit 508 million subscribers by July 31? Odds: 100.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will MrBeast hit 508 million subscribers by July 31?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-07-13
 expiryDate: 2026-07-31
 tags: ["politics", "polymarket"]

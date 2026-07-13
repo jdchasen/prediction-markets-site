@@ -1,23 +1,23 @@
 ---
-title: "Will the New York Mets win the 2026 World Series?"
-description: "Will the New York Mets win the 2026 World Series? Odds: 0.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will the New York Mets win the 2026 World Series?"
+title: "Will Holger Rune win the 2026 Men's US Open?"
+description: "Will Holger Rune win the 2026 Men's US Open? Odds: 0.4% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Holger Rune win the 2026 Men's US Open?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-07-13
-expiryDate: 2026-10-31
+expiryDate: 2026-09-13
 tags: ["politics", "polymarket"]
-polymarketYes: 0.5
-polymarketNo: 99.5
-polymarketVolume: 987997
-polymarketUrl: "https://polymarket.com/event/will-the-new-york-mets-win-the-2026-world-series"
+polymarketYes: 0.4
+polymarketNo: 99.7
+polymarketVolume: 9779
+polymarketUrl: "https://polymarket.com/event/will-holger-rune-win-the-2026-mens-us-open"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.5% | 99.5% | $988K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.4% | 99.7% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-the-new-york-mets-win-the-2026
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will the New York Mets win the 2026 World Series?"?
+### What are the current odds for "Will Holger Rune win the 2026 Men's US Open?"?
 
-As of July 13, 2026, Polymarket prices YES at 0.5%.
+As of July 13, 2026, Polymarket prices YES at 0.4%.
 
 ### Where can I trade on this prediction market?
 

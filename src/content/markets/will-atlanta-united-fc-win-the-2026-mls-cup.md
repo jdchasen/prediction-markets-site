@@ -9,7 +9,7 @@ expiryDate: 2026-12-19
 tags: ["politics", "polymarket"]
 polymarketYes: 0.6
 polymarketNo: 99.4
-polymarketVolume: 98717
+polymarketVolume: 99003
 polymarketUrl: "https://polymarket.com/event/will-atlanta-united-fc-win-the-2026-mls-cup"
 ---
 

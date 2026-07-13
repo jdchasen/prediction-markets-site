@@ -9,7 +9,7 @@ expiryDate: 2026-10-01
 tags: ["crypto", "polymarket"]
 polymarketYes: 6.8
 polymarketNo: 93.2
-polymarketVolume: 984975
+polymarketVolume: 984997
 polymarketUrl: "https://polymarket.com/event/will-metamask-launch-a-token-by-september-30-2026"
 ---
 

@@ -8,8 +8,8 @@ lastUpdated: 2026-07-13
 expiryDate: 2026-08-15
 tags: ["politics", "polymarket"]
 polymarketYes: 95.9
-polymarketNo: 4.2
-polymarketVolume: 98801
+polymarketNo: 4.1
+polymarketVolume: 99264
 polymarketUrl: "https://polymarket.com/event/will-the-workers-party-nominate-lula-for-president-of-brazil-by-august-15"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-workers-party-nominate-lul
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 95.9% | 4.2% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 95.9% | 4.1% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 

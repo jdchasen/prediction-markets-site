@@ -1,23 +1,23 @@
 ---
-title: "Netanyahu out by July 31?"
-description: "Netanyahu out by July 31? Odds: 0.7% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Netanyahu out by July 31?"
+title: "Over $100M committed to the Credible public sale?"
+description: "Over $100M committed to the Credible public sale? Odds: 6.0% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Over $100M committed to the Credible public sale?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-07-13
-expiryDate: 2026-07-31
+expiryDate: 2026-08-31
 tags: ["politics", "polymarket"]
-polymarketYes: 0.7
-polymarketNo: 99.4
-polymarketVolume: 98847
-polymarketUrl: "https://polymarket.com/event/netanyahu-out-by-july-31"
+polymarketYes: 6.0
+polymarketNo: 94.0
+polymarketVolume: 9820
+polymarketUrl: "https://polymarket.com/event/over-100m-committed-to-the-credible-public-sale-20260708134325661-891"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.7% | 99.4% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 6.0% | 94.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,16 +27,11 @@ polymarketUrl: "https://polymarket.com/event/netanyahu-out-by-july-31"
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Netanyahu out by July 31?"?
+### What are the current odds for "Over $100M committed to the Credible public sale?"?
 
-As of July 13, 2026, Polymarket prices YES at 0.7%.
+As of July 13, 2026, Polymarket prices YES at 6.0%.
 
 ### Where can I trade on this prediction market?
 
 You can trade this market on [Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) (crypto-based).
-
-## Learn More
-
-- [Netanyahu Out by When? Prediction Market Odds](/blog/netanyahu-out-by-when-prediction-market-odds)
-- [Netanyahu Out as PM? Prediction Market Odds Explained](/blog/netanyahu-out-as-pm-prediction-market-odds-explained)
 

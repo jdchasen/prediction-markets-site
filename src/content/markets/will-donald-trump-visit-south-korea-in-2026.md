@@ -1,14 +1,14 @@
 ---
 title: "Will Donald Trump visit South Korea in 2026?"
-description: "Will Donald Trump visit South Korea in 2026? Odds: 41.0% YES on Polymarket. See live prices and trade this market."
+description: "Will Donald Trump visit South Korea in 2026? Odds: 35.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Donald Trump visit South Korea in 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-07-13
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket", "trump"]
-polymarketYes: 41.0
-polymarketNo: 59.0
+polymarketYes: 35.5
+polymarketNo: 64.5
 polymarketVolume: 9749
 polymarketUrl: "https://polymarket.com/event/will-donald-trump-visit-south-korea-in-2026"
 ---
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-donald-trump-visit-south-korea
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 41.0% | 59.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 35.5% | 64.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-donald-trump-visit-south-korea
 
 ### What are the current odds for "Will Donald Trump visit South Korea in 2026?"?
 
-As of July 13, 2026, Polymarket prices YES at 41.0%.
+As of July 13, 2026, Polymarket prices YES at 35.5%.
 
 ### Where can I trade on this prediction market?
 
