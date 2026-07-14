@@ -1,15 +1,15 @@
 ---
 title: "Will Anthropic’s market cap be 1.8T or greater at market close on IPO day by December 31 2027?"
-description: "Will Anthropic’s market cap be 1.8T or greater at market close on IPO day by December 31 2027? Odds: 52.0% YES on Polymarket. See live prices and trade this ..."
+description: "Will Anthropic’s market cap be 1.8T or greater at market close on IPO day by December 31 2027? Odds: 53.5% YES on Polymarket. See live prices and trade this ..."
 marketQuestion: "Will Anthropic’s market cap be 1.8T or greater at market close on IPO day by December 31 2027?"
 category: "finance"
 status: "active"
 lastUpdated: 2026-07-14
 expiryDate: 2027-12-31
 tags: ["finance", "polymarket"]
-polymarketYes: 52.0
-polymarketNo: 48.0
-polymarketVolume: 97656
+polymarketYes: 53.5
+polymarketNo: 46.5
+polymarketVolume: 97666
 polymarketUrl: "https://polymarket.com/event/will-anthropics-market-cap-be-1pt8t-or-greater-at-market-close-on-ipo-day-by-december-31-2027"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-anthropics-market-cap-be-1pt8t
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 52.0% | 48.0% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 53.5% | 46.5% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,7 +27,7 @@ polymarketUrl: "https://polymarket.com/event/will-anthropics-market-cap-be-1pt8t
 
 ### What are the current odds for "Will Anthropic’s market cap be 1.8T or greater at market close on IPO day by December 31 2027?"?
 
-As of July 14, 2026, Polymarket prices YES at 52.0%.
+As of July 14, 2026, Polymarket prices YES at 53.5%.
 
 ### Where can I trade on this prediction market?
 

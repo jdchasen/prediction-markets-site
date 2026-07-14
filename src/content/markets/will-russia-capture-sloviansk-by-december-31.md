@@ -3,8 +3,8 @@ title: "Will Russia capture Sloviansk by December 31?"
 description: "Will Russia capture Sloviansk by December 31? Odds: 8.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Russia capture Sloviansk by December 31?"
 category: "politics"
-status: "settled"
-lastUpdated: 2026-07-13
+status: "active"
+lastUpdated: 2026-07-14
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 8.0
@@ -21,15 +21,15 @@ polymarketUrl: "https://polymarket.com/event/will-russia-capture-sloviansk-by-de
 
 ## Related Markets
 
-- [Trump out as President before 2027?](/odds/trump-out-as-president-before-2027) — 6% YES
-- [Will Marco Rubio win the 2028 Republican presidential nomination?](/odds/will-marco-rubio-win-the-2028-republican-presidential-nomination) — 28% YES
+- [Trump out as President before 2027?](/odds/trump-out-as-president-before-2027) — 8% YES
+- [Will Marco Rubio win the 2028 Republican presidential nomination?](/odds/will-marco-rubio-win-the-2028-republican-presidential-nomination) — 27% YES
 - [Will Eric Trump win the 2028 Republican presidential nomination?](/odds/will-eric-trump-win-the-2028-republican-presidential-nomination) — 1% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Russia capture Sloviansk by December 31?"?
 
-As of July 12, 2026, Polymarket prices YES at 8.0%.
+As of July 14, 2026, Polymarket prices YES at 8.0%.
 
 ### Where can I trade on this prediction market?
 

@@ -3,7 +3,7 @@ title: "Cordenons: Maxim Mrva vs Carlo Alberto Caniato"
 description: "Cordenons: Maxim Mrva vs Carlo Alberto Caniato Odds: 55.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Cordenons: Maxim Mrva vs Carlo Alberto Caniato"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-07-14
 expiryDate: 2026-07-20
 tags: ["politics", "polymarket"]

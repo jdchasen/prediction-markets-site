@@ -9,7 +9,7 @@ expiryDate: 2026-11-01
 tags: ["politics", "polymarket"]
 polymarketYes: 3.9
 polymarketNo: 96.1
-polymarketVolume: 99906
+polymarketVolume: 99916
 polymarketUrl: "https://polymarket.com/event/will-detroit-tigers-win-the-2026-american-league-championship-series"
 ---
 
@@ -21,8 +21,8 @@ polymarketUrl: "https://polymarket.com/event/will-detroit-tigers-win-the-2026-am
 
 ## Related Markets
 
-- [Trump out as President before 2027?](/odds/trump-out-as-president-before-2027) — 6% YES
-- [Will Marco Rubio win the 2028 Republican presidential nomination?](/odds/will-marco-rubio-win-the-2028-republican-presidential-nomination) — 28% YES
+- [Trump out as President before 2027?](/odds/trump-out-as-president-before-2027) — 8% YES
+- [Will Marco Rubio win the 2028 Republican presidential nomination?](/odds/will-marco-rubio-win-the-2028-republican-presidential-nomination) — 27% YES
 - [Will Eric Trump win the 2028 Republican presidential nomination?](/odds/will-eric-trump-win-the-2028-republican-presidential-nomination) — 1% YES
 
 ## Frequently Asked Questions

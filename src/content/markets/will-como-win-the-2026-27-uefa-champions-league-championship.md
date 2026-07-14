@@ -3,7 +3,7 @@ title: "Will Como win the 2026-27 UEFA Champions League Championship?"
 description: "Will Como win the 2026-27 UEFA Champions League Championship? Odds: 0.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Como win the 2026-27 UEFA Champions League Championship?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-07-14
 expiryDate: 2027-05-30
 tags: ["polymarket", "sports"]

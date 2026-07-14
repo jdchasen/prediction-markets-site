@@ -1,15 +1,15 @@
 ---
 title: "Trump out as President before 2027?"
-description: "Trump out as President before 2027? Odds: 6.5% YES on Polymarket. See live prices and trade this market."
+description: "Trump out as President before 2027? Odds: 7.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Trump out as President before 2027?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-07-14
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket", "trump"]
-polymarketYes: 6.5
-polymarketNo: 93.5
-polymarketVolume: 9944744
+polymarketYes: 7.5
+polymarketNo: 92.5
+polymarketVolume: 9951721
 polymarketUrl: "https://polymarket.com/event/trump-out-as-president-before-2027"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/trump-out-as-president-before-2027"
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 6.5% | 93.5% | $9.9M | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 7.5% | 92.5% | $10.0M | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Marco Rubio win the 2028 Republican presidential nomination?](/odds/will-marco-rubio-win-the-2028-republican-presidential-nomination) — 28% YES
+- [Will Marco Rubio win the 2028 Republican presidential nomination?](/odds/will-marco-rubio-win-the-2028-republican-presidential-nomination) — 27% YES
 - [Will Eric Trump win the 2028 Republican presidential nomination?](/odds/will-eric-trump-win-the-2028-republican-presidential-nomination) — 1% YES
-- [US-Iran Final Nuclear Deal by July 31, 2026?](/odds/us-iran-final-nuclear-deal-by-july-31-2026) — 1% YES
+- [Will the Atlanta Braves win the 2026 World Series?](/odds/will-the-atlanta-braves-win-the-2026-world-series) — 8% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Trump out as President before 2027?"?
 
-As of July 14, 2026, Polymarket prices YES at 6.5%.
+As of July 14, 2026, Polymarket prices YES at 7.5%.
 
 ### Where can I trade on this prediction market?
 

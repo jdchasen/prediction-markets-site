@@ -1,15 +1,15 @@
 ---
 title: "Will the Indianapolis Colts win the 2027 NFL league championship?"
-description: "Will the Indianapolis Colts win the 2027 NFL league championship? Odds: 1.2% YES on Polymarket. See live prices and trade this market."
+description: "Will the Indianapolis Colts win the 2027 NFL league championship? Odds: 1.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Indianapolis Colts win the 2027 NFL league championship?"
 category: "sports"
 status: "active"
 lastUpdated: 2026-07-14
 expiryDate: 2027-03-31
 tags: ["polymarket", "sports"]
-polymarketYes: 1.2
-polymarketNo: 98.8
-polymarketVolume: 992089
+polymarketYes: 1.1
+polymarketNo: 98.9
+polymarketVolume: 993088
 polymarketUrl: "https://polymarket.com/event/will-the-indianapolis-colts-win-the-2027-nfl-league-championship"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-the-indianapolis-colts-win-the
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 1.2% | 98.8% | $992K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 1.1% | 98.9% | $993K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Arizona Cardinals win the 2027 NFL NFC Championship?](/odds/will-arizona-cardinals-win-the-2027-nfl-nfc-championship) — 1% YES
+- [Will South America (CONMEBOL) win the 2026 FIFA World Cup?](/odds/will-south-america-conmebol-win-the-2026-fifa-world-cup) — 20% YES
 - [Will the Kansas City Chiefs win the 2027 NFL league championship?](/odds/will-the-kansas-city-chiefs-win-the-2027-nfl-league-championship) — 6% YES
-- [Will Kansas City Chiefs win the 2027 NFL AFC Championship?](/odds/will-kansas-city-chiefs-win-the-2027-nfl-afc-championship) — 9% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will the Indianapolis Colts win the 2027 NFL league championship?"?
 
-As of July 14, 2026, Polymarket prices YES at 1.2%.
+As of July 14, 2026, Polymarket prices YES at 1.1%.
 
 ### Where can I trade on this prediction market?
 

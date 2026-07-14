@@ -3,7 +3,7 @@ title: "Will the next Prime Minister of Romania be a member of USR?"
 description: "Will the next Prime Minister of Romania be a member of USR? Odds: 0.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the next Prime Minister of Romania be a member of USR?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-07-14
 expiryDate: 2027-12-31
 tags: ["politics", "polymarket"]

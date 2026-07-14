@@ -3,7 +3,7 @@ title: "Will Xtreme Gaming win the EWC Dota 2 Tournament"
 description: "Will Xtreme Gaming win the EWC Dota 2 Tournament Odds: 1.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Xtreme Gaming win the EWC Dota 2 Tournament"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-07-14
 tags: ["politics", "polymarket"]
 polymarketYes: 1.8

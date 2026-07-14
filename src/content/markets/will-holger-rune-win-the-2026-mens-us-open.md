@@ -3,7 +3,7 @@ title: "Will Holger Rune win the 2026 Men's US Open?"
 description: "Will Holger Rune win the 2026 Men's US Open? Odds: 0.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Holger Rune win the 2026 Men's US Open?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-07-14
 expiryDate: 2026-09-13
 tags: ["politics", "polymarket"]
