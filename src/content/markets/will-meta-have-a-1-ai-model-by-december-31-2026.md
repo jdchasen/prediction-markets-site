@@ -4,7 +4,7 @@ description: "Will Meta have a #1 AI model by December 31, 2026? Odds: 11.5% YES
 marketQuestion: "Will Meta have a #1 AI model by December 31, 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-07-13
+lastUpdated: 2026-07-14
 expiryDate: 2026-12-31
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 11.5
@@ -21,7 +21,7 @@ polymarketUrl: "https://polymarket.com/event/will-meta-have-a-1-ai-model-by-dece
 
 ## Related Markets
 
-- [Trump out as President before 2027?](/odds/trump-out-as-president-before-2027) — 8% YES
+- [Trump out as President before 2027?](/odds/trump-out-as-president-before-2027) — 6% YES
 - [Will Marco Rubio win the 2028 Republican presidential nomination?](/odds/will-marco-rubio-win-the-2028-republican-presidential-nomination) — 28% YES
 - [Will Eric Trump win the 2028 Republican presidential nomination?](/odds/will-eric-trump-win-the-2028-republican-presidential-nomination) — 1% YES
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-meta-have-a-1-ai-model-by-dece
 
 ### What are the current odds for "Will Meta have a #1 AI model by December 31, 2026?"?
 
-As of July 13, 2026, Polymarket prices YES at 11.5%.
+As of July 14, 2026, Polymarket prices YES at 11.5%.
 
 ### Where can I trade on this prediction market?
 

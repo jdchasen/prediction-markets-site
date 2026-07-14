@@ -1,15 +1,15 @@
 ---
 title: "Will the Atlanta Braves win the 2026 World Series?"
-description: "Will the Atlanta Braves win the 2026 World Series? Odds: 7.1% YES on Polymarket. See live prices and trade this market."
+description: "Will the Atlanta Braves win the 2026 World Series? Odds: 7.6% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Atlanta Braves win the 2026 World Series?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-07-13
+lastUpdated: 2026-07-14
 expiryDate: 2026-10-31
 tags: ["politics", "polymarket"]
-polymarketYes: 7.1
-polymarketNo: 92.8
-polymarketVolume: 994730
+polymarketYes: 7.6
+polymarketNo: 92.4
+polymarketVolume: 995153
 polymarketUrl: "https://polymarket.com/event/will-the-atlanta-braves-win-the-2026-world-series"
 ---
 
@@ -17,11 +17,11 @@ polymarketUrl: "https://polymarket.com/event/will-the-atlanta-braves-win-the-202
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 7.1% | 92.8% | $995K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 7.6% | 92.4% | $995K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Trump out as President before 2027?](/odds/trump-out-as-president-before-2027) — 8% YES
+- [Trump out as President before 2027?](/odds/trump-out-as-president-before-2027) — 6% YES
 - [Will Marco Rubio win the 2028 Republican presidential nomination?](/odds/will-marco-rubio-win-the-2028-republican-presidential-nomination) — 28% YES
 - [Will Eric Trump win the 2028 Republican presidential nomination?](/odds/will-eric-trump-win-the-2028-republican-presidential-nomination) — 1% YES
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-atlanta-braves-win-the-202
 
 ### What are the current odds for "Will the Atlanta Braves win the 2026 World Series?"?
 
-As of July 13, 2026, Polymarket prices YES at 7.1%.
+As of July 14, 2026, Polymarket prices YES at 7.6%.
 
 ### Where can I trade on this prediction market?
 

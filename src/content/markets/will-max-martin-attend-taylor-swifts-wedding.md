@@ -3,8 +3,8 @@ title: "Will Max Martin attend Taylor Swift's wedding?"
 description: "Will Max Martin attend Taylor Swift's wedding? Odds: 90.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Max Martin attend Taylor Swift's wedding?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-07-13
+status: "settled"
+lastUpdated: 2026-07-14
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 90.5

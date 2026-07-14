@@ -3,8 +3,8 @@ title: "Will Ukraine re-enter Obratne or Temyrivka by December 31?"
 description: "Will Ukraine re-enter Obratne or Temyrivka by December 31? Odds: 46.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Ukraine re-enter Obratne or Temyrivka by December 31?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-07-13
+status: "settled"
+lastUpdated: 2026-07-14
 expiryDate: 2026-12-31
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 46.5

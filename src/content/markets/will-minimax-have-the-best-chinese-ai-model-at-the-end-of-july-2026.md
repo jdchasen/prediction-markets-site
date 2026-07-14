@@ -3,8 +3,8 @@ title: "Will MiniMax have the best Chinese AI model at the end of July 2026?"
 description: "Will MiniMax have the best Chinese AI model at the end of July 2026? Odds: 0.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will MiniMax have the best Chinese AI model at the end of July 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-07-13
+status: "settled"
+lastUpdated: 2026-07-14
 expiryDate: 2026-07-31
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 0.4

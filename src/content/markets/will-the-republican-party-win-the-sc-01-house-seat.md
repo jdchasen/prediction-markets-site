@@ -3,8 +3,8 @@ title: "Will the Republican Party win the SC-01 House seat?"
 description: "Will the Republican Party win the SC-01 House seat? Odds: 74.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Republican Party win the SC-01 House seat?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-07-13
+status: "settled"
+lastUpdated: 2026-07-14
 expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
 polymarketYes: 74.0

@@ -4,7 +4,7 @@ description: "Will the Republican Party win the OR-06 House seat? Odds: 3.1% YES
 marketQuestion: "Will the Republican Party win the OR-06 House seat?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-07-13
+lastUpdated: 2026-07-14
 expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
 polymarketYes: 3.1
@@ -21,7 +21,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-o
 
 ## Related Markets
 
-- [Trump out as President before 2027?](/odds/trump-out-as-president-before-2027) — 8% YES
+- [Trump out as President before 2027?](/odds/trump-out-as-president-before-2027) — 6% YES
 - [Will Marco Rubio win the 2028 Republican presidential nomination?](/odds/will-marco-rubio-win-the-2028-republican-presidential-nomination) — 28% YES
 - [Will Eric Trump win the 2028 Republican presidential nomination?](/odds/will-eric-trump-win-the-2028-republican-presidential-nomination) — 1% YES
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-o
 
 ### What are the current odds for "Will the Republican Party win the OR-06 House seat?"?
 
-As of July 13, 2026, Polymarket prices YES at 3.1%.
+As of July 14, 2026, Polymarket prices YES at 3.1%.
 
 ### Where can I trade on this prediction market?
 

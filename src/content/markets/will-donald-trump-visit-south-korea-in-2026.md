@@ -1,15 +1,15 @@
 ---
 title: "Will Donald Trump visit South Korea in 2026?"
-description: "Will Donald Trump visit South Korea in 2026? Odds: 35.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Donald Trump visit South Korea in 2026? Odds: 46.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Donald Trump visit South Korea in 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-07-13
+lastUpdated: 2026-07-14
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket", "trump"]
-polymarketYes: 35.5
-polymarketNo: 64.5
-polymarketVolume: 9749
+polymarketYes: 46.5
+polymarketNo: 53.5
+polymarketVolume: 9857
 polymarketUrl: "https://polymarket.com/event/will-donald-trump-visit-south-korea-in-2026"
 ---
 
@@ -17,11 +17,11 @@ polymarketUrl: "https://polymarket.com/event/will-donald-trump-visit-south-korea
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 35.5% | 64.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 46.5% | 53.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Trump out as President before 2027?](/odds/trump-out-as-president-before-2027) — 8% YES
+- [Trump out as President before 2027?](/odds/trump-out-as-president-before-2027) — 6% YES
 - [Will Marco Rubio win the 2028 Republican presidential nomination?](/odds/will-marco-rubio-win-the-2028-republican-presidential-nomination) — 28% YES
 - [Will Eric Trump win the 2028 Republican presidential nomination?](/odds/will-eric-trump-win-the-2028-republican-presidential-nomination) — 1% YES
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-donald-trump-visit-south-korea
 
 ### What are the current odds for "Will Donald Trump visit South Korea in 2026?"?
 
-As of July 13, 2026, Polymarket prices YES at 35.5%.
+As of July 14, 2026, Polymarket prices YES at 46.5%.
 
 ### Where can I trade on this prediction market?
 

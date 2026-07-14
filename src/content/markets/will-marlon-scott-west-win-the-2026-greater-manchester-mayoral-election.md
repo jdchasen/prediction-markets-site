@@ -3,8 +3,8 @@ title: "Will Marlon Scott West win the 2026 Greater Manchester Mayoral Election?
 description: "Will Marlon Scott West win the 2026 Greater Manchester Mayoral Election? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Marlon Scott West win the 2026 Greater Manchester Mayoral Election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-07-13
+status: "settled"
+lastUpdated: 2026-07-14
 expiryDate: 2026-07-30
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.1

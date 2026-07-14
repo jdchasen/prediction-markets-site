@@ -3,8 +3,8 @@ title: "Will England win the 2026 FIFA World Cup?"
 description: "Will England win the 2026 FIFA World Cup? Odds: 22.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will England win the 2026 FIFA World Cup?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-07-13
+status: "settled"
+lastUpdated: 2026-07-14
 expiryDate: 2026-07-20
 tags: ["polymarket", "sports"]
 polymarketYes: 22.1

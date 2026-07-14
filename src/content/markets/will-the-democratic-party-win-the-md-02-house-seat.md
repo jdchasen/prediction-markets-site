@@ -4,7 +4,7 @@ description: "Will the Democratic Party win the MD-02 House seat? Odds: 95.0% YE
 marketQuestion: "Will the Democratic Party win the MD-02 House seat?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-07-13
+lastUpdated: 2026-07-14
 expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
 polymarketYes: 95.0
@@ -21,7 +21,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-m
 
 ## Related Markets
 
-- [Trump out as President before 2027?](/odds/trump-out-as-president-before-2027) — 8% YES
+- [Trump out as President before 2027?](/odds/trump-out-as-president-before-2027) — 6% YES
 - [Will Marco Rubio win the 2028 Republican presidential nomination?](/odds/will-marco-rubio-win-the-2028-republican-presidential-nomination) — 28% YES
 - [Will Eric Trump win the 2028 Republican presidential nomination?](/odds/will-eric-trump-win-the-2028-republican-presidential-nomination) — 1% YES
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-m
 
 ### What are the current odds for "Will the Democratic Party win the MD-02 House seat?"?
 
-As of July 13, 2026, Polymarket prices YES at 95.0%.
+As of July 14, 2026, Polymarket prices YES at 95.0%.
 
 ### Where can I trade on this prediction market?
 

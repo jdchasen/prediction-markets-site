@@ -4,7 +4,7 @@ description: "Will Como win the 2026-27 UEFA Champions League Championship? Odds
 marketQuestion: "Will Como win the 2026-27 UEFA Champions League Championship?"
 category: "sports"
 status: "active"
-lastUpdated: 2026-07-13
+lastUpdated: 2026-07-14
 expiryDate: 2027-05-30
 tags: ["polymarket", "sports"]
 polymarketYes: 0.5
@@ -21,15 +21,15 @@ polymarketUrl: "https://polymarket.com/event/will-como-win-the-2026-27-uefa-cham
 
 ## Related Markets
 
-- [Will England win the 2026 FIFA World Cup?](/odds/will-england-win-the-2026-fifa-world-cup) — 22% YES
 - [Will the Indianapolis Colts win the 2027 NFL league championship?](/odds/will-the-indianapolis-colts-win-the-2027-nfl-league-championship) — 1% YES
 - [Will Arizona Cardinals win the 2027 NFL NFC Championship?](/odds/will-arizona-cardinals-win-the-2027-nfl-nfc-championship) — 1% YES
+- [Will the Kansas City Chiefs win the 2027 NFL league championship?](/odds/will-the-kansas-city-chiefs-win-the-2027-nfl-league-championship) — 6% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Como win the 2026-27 UEFA Champions League Championship?"?
 
-As of July 13, 2026, Polymarket prices YES at 0.5%.
+As of July 14, 2026, Polymarket prices YES at 0.5%.
 
 ### Where can I trade on this prediction market?
 

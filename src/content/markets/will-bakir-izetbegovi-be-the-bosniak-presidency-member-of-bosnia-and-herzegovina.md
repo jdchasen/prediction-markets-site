@@ -1,15 +1,15 @@
 ---
 title: "Will Bakir Izetbegović be the Bosniak Presidency Member of Bosnia and Herzegovina following the 2026 general election?"
-description: "Will Bakir Izetbegović be the Bosniak Presidency Member of Bosnia and Herzegovina following the 2026 general election? Odds: 54.5% YES on Polymarket. See liv..."
+description: "Will Bakir Izetbegović be the Bosniak Presidency Member of Bosnia and Herzegovina following the 2026 general election? Odds: 53.5% YES on Polymarket. See liv..."
 marketQuestion: "Will Bakir Izetbegović be the Bosniak Presidency Member of Bosnia and Herzegovina following the 2026 general election?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-07-13
+lastUpdated: 2026-07-14
 expiryDate: 2026-10-04
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 54.5
-polymarketNo: 45.5
-polymarketVolume: 9804
+polymarketYes: 53.5
+polymarketNo: 46.5
+polymarketVolume: 9830
 polymarketUrl: "https://polymarket.com/event/will-bakir-izetbegovi-be-the-bosniak-presidency-member-of-bosnia-and-herzegovina-following-the-2026-general-election"
 ---
 
@@ -17,11 +17,11 @@ polymarketUrl: "https://polymarket.com/event/will-bakir-izetbegovi-be-the-bosnia
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 54.5% | 45.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 53.5% | 46.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Trump out as President before 2027?](/odds/trump-out-as-president-before-2027) — 8% YES
+- [Trump out as President before 2027?](/odds/trump-out-as-president-before-2027) — 6% YES
 - [Will Marco Rubio win the 2028 Republican presidential nomination?](/odds/will-marco-rubio-win-the-2028-republican-presidential-nomination) — 28% YES
 - [Will Eric Trump win the 2028 Republican presidential nomination?](/odds/will-eric-trump-win-the-2028-republican-presidential-nomination) — 1% YES
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-bakir-izetbegovi-be-the-bosnia
 
 ### What are the current odds for "Will Bakir Izetbegović be the Bosniak Presidency Member of Bosnia and Herzegovina following the 2026 general election?"?
 
-As of July 13, 2026, Polymarket prices YES at 54.5%.
+As of July 14, 2026, Polymarket prices YES at 53.5%.
 
 ### Where can I trade on this prediction market?
 

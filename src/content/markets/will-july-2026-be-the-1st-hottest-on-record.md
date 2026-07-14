@@ -3,8 +3,8 @@ title: "Will July 2026 be the 1st hottest on record?"
 description: "Will July 2026 be the 1st hottest on record? Odds: 74.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will July 2026 be the 1st hottest on record?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-07-13
+status: "settled"
+lastUpdated: 2026-07-14
 expiryDate: 2026-07-31
 tags: ["politics", "polymarket"]
 polymarketYes: 74.5
