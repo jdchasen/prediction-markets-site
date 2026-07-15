@@ -3,7 +3,7 @@ title: "Viktor Orbán arrested by December 31?"
 description: "Viktor Orbán arrested by December 31? Odds: 17.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Viktor Orbán arrested by December 31?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-07-15
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]

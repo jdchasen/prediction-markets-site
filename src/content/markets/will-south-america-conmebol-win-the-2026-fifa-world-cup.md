@@ -3,7 +3,7 @@ title: "Will South America (CONMEBOL) win the 2026 FIFA World Cup?"
 description: "Will South America (CONMEBOL) win the 2026 FIFA World Cup? Odds: 19.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will South America (CONMEBOL) win the 2026 FIFA World Cup?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-07-15
 tags: ["polymarket", "sports"]
 polymarketYes: 19.5

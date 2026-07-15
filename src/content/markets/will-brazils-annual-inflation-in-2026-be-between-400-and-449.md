@@ -21,8 +21,6 @@ polymarketUrl: "https://polymarket.com/event/will-brazils-annual-inflation-in-20
 
 ## Related Markets
 
-- [Will the Fed decrease interest rates by 25 bps after the July 2026 meeting?](/odds/will-the-fed-decrease-interest-rates-by-25-bps-after-the-july-2026-meeting) — 0% YES
-- [Will South Korea’s 2026 Annual Inflation be at least 3.0%?](/odds/will-south-koreas-2026-annual-inflation-be-at-least-30) — 26% YES
 - [Will UK annual GDP growth in 2026 be below 0%?](/odds/will-uk-annual-gdp-growth-in-2026-be-below-0) — 12% YES
 
 ## Frequently Asked Questions

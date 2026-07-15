@@ -3,7 +3,7 @@ title: "Will Bakir Izetbegović be the Bosniak Presidency Member of Bosnia and H
 description: "Will Bakir Izetbegović be the Bosniak Presidency Member of Bosnia and Herzegovina following the 2026 general election? Odds: 53.5% YES on Polymarket. See liv..."
 marketQuestion: "Will Bakir Izetbegović be the Bosniak Presidency Member of Bosnia and Herzegovina following the 2026 general election?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-07-15
 expiryDate: 2026-10-04
 tags: ["elections", "politics", "polymarket"]

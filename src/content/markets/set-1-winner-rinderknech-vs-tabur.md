@@ -3,7 +3,7 @@ title: "Set 1 Winner: Rinderknech vs Tabur"
 description: "Set 1 Winner: Rinderknech vs Tabur Odds: 30.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Set 1 Winner: Rinderknech vs Tabur"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-07-15
 expiryDate: 2026-07-22
 tags: ["politics", "polymarket"]

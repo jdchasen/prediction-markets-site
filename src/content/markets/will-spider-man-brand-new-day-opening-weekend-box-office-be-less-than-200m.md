@@ -9,7 +9,7 @@ expiryDate: 2026-08-02
 tags: ["politics", "polymarket"]
 polymarketYes: 5.7
 polymarketNo: 94.3
-polymarketVolume: 9832
+polymarketVolume: 9959
 polymarketUrl: "https://polymarket.com/event/will-spider-man-brand-new-day-opening-weekend-box-office-be-less-than-200m-20260618144049372"
 ---
 
@@ -22,8 +22,8 @@ polymarketUrl: "https://polymarket.com/event/will-spider-man-brand-new-day-openi
 ## Related Markets
 
 - [Trump out as President before 2027?](/odds/trump-out-as-president-before-2027) — 8% YES
-- [Will Marco Rubio win the 2028 Republican presidential nomination?](/odds/will-marco-rubio-win-the-2028-republican-presidential-nomination) — 27% YES
-- [Will the Atlanta Braves win the 2026 World Series?](/odds/will-the-atlanta-braves-win-the-2026-world-series) — 8% YES
+- [Will Marco Rubio win the 2028 Republican presidential nomination?](/odds/will-marco-rubio-win-the-2028-republican-presidential-nomination) — 28% YES
+- [Will Eric Trump win the 2028 Republican presidential nomination?](/odds/will-eric-trump-win-the-2028-republican-presidential-nomination) — 1% YES
 
 ## Frequently Asked Questions
 

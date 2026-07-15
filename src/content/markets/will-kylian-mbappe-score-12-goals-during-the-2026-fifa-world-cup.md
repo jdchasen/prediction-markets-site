@@ -9,7 +9,7 @@ expiryDate: 2026-08-03
 tags: ["polymarket", "sports"]
 polymarketYes: 0.5
 polymarketNo: 99.5
-polymarketVolume: 9884
+polymarketVolume: 9894
 polymarketUrl: "https://polymarket.com/event/will-kylian-mbappe-score-12-goals-during-the-2026-fifa-world-cup-20260701232316818"
 ---
 
@@ -22,8 +22,8 @@ polymarketUrl: "https://polymarket.com/event/will-kylian-mbappe-score-12-goals-d
 ## Related Markets
 
 - [Will the Indianapolis Colts win the 2027 NFL league championship?](/odds/will-the-indianapolis-colts-win-the-2027-nfl-league-championship) — 1% YES
-- [Will South America (CONMEBOL) win the 2026 FIFA World Cup?](/odds/will-south-america-conmebol-win-the-2026-fifa-world-cup) — 20% YES
-- [Will Arizona Cardinals win the 2027 NFL NFC Championship?](/odds/will-arizona-cardinals-win-the-2027-nfl-nfc-championship) — 1% YES
+- [Will England reach the 2026 FIFA World Cup final?](/odds/will-england-reach-the-2026-fifa-world-cup-final) — 0% YES
+- [Will the Kansas City Chiefs win the 2027 NFL league championship?](/odds/will-the-kansas-city-chiefs-win-the-2027-nfl-league-championship) — 8% YES
 
 ## Frequently Asked Questions
 

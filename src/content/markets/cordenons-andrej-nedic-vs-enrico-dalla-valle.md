@@ -3,7 +3,7 @@ title: "Cordenons: Andrej Nedic vs Enrico Dalla Valle"
 description: "Cordenons: Andrej Nedic vs Enrico Dalla Valle Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Cordenons: Andrej Nedic vs Enrico Dalla Valle"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-07-15
 expiryDate: 2026-07-20
 tags: ["politics", "polymarket"]

@@ -3,7 +3,7 @@ title: "Will South Korea’s 2026 Annual Inflation be at least 3.0%?"
 description: "Will South Korea’s 2026 Annual Inflation be at least 3.0%? Odds: 26.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will South Korea’s 2026 Annual Inflation be at least 3.0%?"
 category: "economics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-07-15
 expiryDate: 2026-12-31
 tags: ["economics", "polymarket", "sports"]

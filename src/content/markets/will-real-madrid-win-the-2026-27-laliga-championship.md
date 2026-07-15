@@ -3,7 +3,7 @@ title: "Will Real Madrid win the 2026-27 LALIGA Championship?"
 description: "Will Real Madrid win the 2026-27 LALIGA Championship? Odds: 44.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Real Madrid win the 2026-27 LALIGA Championship?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-07-15
 expiryDate: 2027-05-30
 tags: ["politics", "polymarket"]

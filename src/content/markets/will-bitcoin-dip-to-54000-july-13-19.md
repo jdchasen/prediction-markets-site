@@ -3,7 +3,7 @@ title: "Will Bitcoin dip to $54,000 July 13-19?"
 description: "Will Bitcoin dip to $54,000 July 13-19? Odds: 1.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Bitcoin dip to $54,000 July 13-19?"
 category: "crypto"
-status: "active"
+status: "settled"
 lastUpdated: 2026-07-15
 expiryDate: 2026-07-20
 tags: ["bitcoin", "crypto", "polymarket"]

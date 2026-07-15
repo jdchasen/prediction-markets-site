@@ -3,7 +3,7 @@ title: "Will Emiliano Grillo finish in the Top 10 at the 2026 Corales Puntacana 
 description: "Will Emiliano Grillo finish in the Top 10 at the 2026 Corales Puntacana Championship? Odds: 0.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Emiliano Grillo finish in the Top 10 at the 2026 Corales Puntacana Championship?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-07-15
 expiryDate: 2026-07-19
 tags: ["politics", "polymarket"]

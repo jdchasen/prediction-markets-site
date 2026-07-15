@@ -1,14 +1,14 @@
 ---
 title: "Will the Republican Party win the AL-06 House seat?"
-description: "Will the Republican Party win the AL-06 House seat? Odds: 94.0% YES on Polymarket. See live prices and trade this market."
+description: "Will the Republican Party win the AL-06 House seat? Odds: 94.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Republican Party win the AL-06 House seat?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-07-15
 expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
-polymarketYes: 94.0
-polymarketNo: 6.0
+polymarketYes: 94.5
+polymarketNo: 5.5
 polymarketVolume: 9796
 polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-al-06-house-seat"
 ---
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-a
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 94.0% | 6.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 94.5% | 5.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Trump out as President before 2027?](/odds/trump-out-as-president-before-2027) — 8% YES
-- [Will Marco Rubio win the 2028 Republican presidential nomination?](/odds/will-marco-rubio-win-the-2028-republican-presidential-nomination) — 27% YES
-- [Will the Atlanta Braves win the 2026 World Series?](/odds/will-the-atlanta-braves-win-the-2026-world-series) — 8% YES
+- [Will Marco Rubio win the 2028 Republican presidential nomination?](/odds/will-marco-rubio-win-the-2028-republican-presidential-nomination) — 28% YES
+- [Will Eric Trump win the 2028 Republican presidential nomination?](/odds/will-eric-trump-win-the-2028-republican-presidential-nomination) — 1% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will the Republican Party win the AL-06 House seat?"?
 
-As of July 15, 2026, Polymarket prices YES at 94.0%.
+As of July 15, 2026, Polymarket prices YES at 94.5%.
 
 ### Where can I trade on this prediction market?
 

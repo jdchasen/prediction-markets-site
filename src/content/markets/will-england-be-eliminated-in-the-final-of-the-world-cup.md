@@ -1,15 +1,15 @@
 ---
 title: "Will England be eliminated in the Final of the World Cup?"
-description: "Will England be eliminated in the Final of the World Cup? Odds: 11.0% YES on Polymarket. See live prices and trade this market."
+description: "Will England be eliminated in the Final of the World Cup? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will England be eliminated in the Final of the World Cup?"
 category: "sports"
-status: "settled"
-lastUpdated: 2026-07-04
+status: "active"
+lastUpdated: 2026-07-15
 expiryDate: 2026-07-19
 tags: ["polymarket", "sports"]
-polymarketYes: 11.0
-polymarketNo: 89.0
-polymarketVolume: 9828
+polymarketYes: 0.1
+polymarketNo: 100.0
+polymarketVolume: 99572
 polymarketUrl: "https://polymarket.com/event/will-england-be-eliminated-in-the-final-of-the-world-cup-20260605224222108"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-england-be-eliminated-in-the-f
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 11.0% | 89.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.1% | 100.0% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Belgium win the 2026 FIFA World Cup?](/odds/will-belgium-win-the-2026-fifa-world-cup) — 1% YES
-- [Will Canada win the 2026 FIFA World Cup?](/odds/will-canada-win-the-2026-fifa-world-cup) — 0% YES
-- [Will the Denver Broncos win the 2027 NFL league championship?](/odds/will-the-denver-broncos-win-the-2027-nfl-league-championship) — 4% YES
+- [Will the Indianapolis Colts win the 2027 NFL league championship?](/odds/will-the-indianapolis-colts-win-the-2027-nfl-league-championship) — 1% YES
+- [Will England reach the 2026 FIFA World Cup final?](/odds/will-england-reach-the-2026-fifa-world-cup-final) — 0% YES
+- [Will the Kansas City Chiefs win the 2027 NFL league championship?](/odds/will-the-kansas-city-chiefs-win-the-2027-nfl-league-championship) — 8% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will England be eliminated in the Final of the World Cup?"?
 
-As of July 03, 2026, Polymarket prices YES at 11.0%.
+As of July 15, 2026, Polymarket prices YES at 0.1%.
 
 ### Where can I trade on this prediction market?
 
