@@ -4,12 +4,12 @@ description: "Will the Workers' Party nominate Lula for President of Brazil by A
 marketQuestion: "Will the Workers' Party nominate Lula for President of Brazil by August 15?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-07-14
+lastUpdated: 2026-07-15
 expiryDate: 2026-08-15
 tags: ["politics", "polymarket"]
 polymarketYes: 95.9
 polymarketNo: 4.1
-polymarketVolume: 99393
+polymarketVolume: 99398
 polymarketUrl: "https://polymarket.com/event/will-the-workers-party-nominate-lula-for-president-of-brazil-by-august-15"
 ---
 
@@ -23,13 +23,13 @@ polymarketUrl: "https://polymarket.com/event/will-the-workers-party-nominate-lul
 
 - [Trump out as President before 2027?](/odds/trump-out-as-president-before-2027) — 8% YES
 - [Will Marco Rubio win the 2028 Republican presidential nomination?](/odds/will-marco-rubio-win-the-2028-republican-presidential-nomination) — 27% YES
-- [Will Eric Trump win the 2028 Republican presidential nomination?](/odds/will-eric-trump-win-the-2028-republican-presidential-nomination) — 1% YES
+- [Will the Atlanta Braves win the 2026 World Series?](/odds/will-the-atlanta-braves-win-the-2026-world-series) — 8% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will the Workers' Party nominate Lula for President of Brazil by August 15?"?
 
-As of July 14, 2026, Polymarket prices YES at 95.9%.
+As of July 15, 2026, Polymarket prices YES at 95.9%.
 
 ### Where can I trade on this prediction market?
 

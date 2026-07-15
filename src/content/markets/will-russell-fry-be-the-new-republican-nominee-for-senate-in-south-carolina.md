@@ -3,8 +3,8 @@ title: "Will Russell Fry be the new Republican nominee for Senate in South Carol
 description: "Will Russell Fry be the new Republican nominee for Senate in South Carolina? Odds: 67.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Russell Fry be the new Republican nominee for Senate in South Carolina?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-07-14
+status: "settled"
+lastUpdated: 2026-07-15
 expiryDate: 2026-08-11
 tags: ["politics", "polymarket"]
 polymarketYes: 67.0

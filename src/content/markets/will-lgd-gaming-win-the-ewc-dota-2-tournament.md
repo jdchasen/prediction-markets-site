@@ -3,8 +3,8 @@ title: "Will LGD Gaming win the EWC Dota 2 Tournament"
 description: "Will LGD Gaming win the EWC Dota 2 Tournament Odds: 3.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will LGD Gaming win the EWC Dota 2 Tournament"
 category: "politics"
-status: "active"
-lastUpdated: 2026-07-14
+status: "settled"
+lastUpdated: 2026-07-15
 tags: ["politics", "polymarket"]
 polymarketYes: 3.0
 polymarketNo: 97.0

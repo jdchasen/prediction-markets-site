@@ -3,8 +3,8 @@ title: "Will Donald Trump visit South Korea in 2026?"
 description: "Will Donald Trump visit South Korea in 2026? Odds: 50.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Donald Trump visit South Korea in 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-07-14
+status: "settled"
+lastUpdated: 2026-07-15
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket", "trump"]
 polymarketYes: 50.0

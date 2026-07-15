@@ -3,8 +3,8 @@ title: "Will Argentina score the most goals at the 2026 FIFA World Cup?"
 description: "Will Argentina score the most goals at the 2026 FIFA World Cup? Odds: 81.3% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Argentina score the most goals at the 2026 FIFA World Cup?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-07-14
+status: "settled"
+lastUpdated: 2026-07-15
 expiryDate: 2026-08-03
 tags: ["polymarket", "sports"]
 polymarketYes: 81.3

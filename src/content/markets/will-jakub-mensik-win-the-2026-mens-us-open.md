@@ -3,8 +3,8 @@ title: "Will Jakub Mensik win the 2026 Men's US Open?"
 description: "Will Jakub Mensik win the 2026 Men's US Open? Odds: 1.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Jakub Mensik win the 2026 Men's US Open?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-07-14
+status: "settled"
+lastUpdated: 2026-07-15
 expiryDate: 2026-09-13
 tags: ["politics", "polymarket"]
 polymarketYes: 1.1

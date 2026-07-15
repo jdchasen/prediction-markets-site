@@ -3,8 +3,8 @@ title: "Will the Republic of the Congo have an Ebola case in 2026?"
 description: "Will the Republic of the Congo have an Ebola case in 2026? Odds: 13.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Republic of the Congo have an Ebola case in 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-07-14
+status: "settled"
+lastUpdated: 2026-07-15
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 13.5

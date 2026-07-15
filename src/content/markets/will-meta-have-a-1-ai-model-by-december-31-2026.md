@@ -3,8 +3,8 @@ title: "Will Meta have a #1 AI model by December 31, 2026?"
 description: "Will Meta have a #1 AI model by December 31, 2026? Odds: 11.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Meta have a #1 AI model by December 31, 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-07-14
+status: "settled"
+lastUpdated: 2026-07-15
 expiryDate: 2026-12-31
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 11.5

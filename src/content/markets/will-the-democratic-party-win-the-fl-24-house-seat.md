@@ -3,8 +3,8 @@ title: "Will the Democratic Party win the FL-24 House seat?"
 description: "Will the Democratic Party win the FL-24 House seat? Odds: 94.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Democratic Party win the FL-24 House seat?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-07-14
+status: "settled"
+lastUpdated: 2026-07-15
 expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
 polymarketYes: 94.0

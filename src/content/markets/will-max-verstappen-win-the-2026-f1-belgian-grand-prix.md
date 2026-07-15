@@ -3,8 +3,8 @@ title: "Will Max Verstappen win the 2026 F1 Belgian Grand Prix?"
 description: "Will Max Verstappen win the 2026 F1 Belgian Grand Prix? Odds: 7.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Max Verstappen win the 2026 F1 Belgian Grand Prix?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-07-14
+status: "settled"
+lastUpdated: 2026-07-15
 expiryDate: 2026-07-26
 tags: ["polymarket", "sports"]
 polymarketYes: 7.5

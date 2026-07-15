@@ -4,11 +4,11 @@ description: "Will Epic Games' valuation hit (HIGH) $13.5B by December 31? Odds:
 marketQuestion: "Will Epic Games' valuation hit (HIGH) $13.5B by December 31?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-07-14
+lastUpdated: 2026-07-15
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]
 polymarketYes: 39.1
-polymarketNo: 61.0
+polymarketNo: 60.9
 polymarketVolume: 9890
 polymarketUrl: "https://polymarket.com/event/will-epic-games-valuation-hit-high-13pt5b-by-december-31"
 ---
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-epic-games-valuation-hit-high-
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 39.1% | 61.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 39.1% | 60.9% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Trump out as President before 2027?](/odds/trump-out-as-president-before-2027) — 8% YES
 - [Will Marco Rubio win the 2028 Republican presidential nomination?](/odds/will-marco-rubio-win-the-2028-republican-presidential-nomination) — 27% YES
-- [Will Eric Trump win the 2028 Republican presidential nomination?](/odds/will-eric-trump-win-the-2028-republican-presidential-nomination) — 1% YES
+- [Will the Atlanta Braves win the 2026 World Series?](/odds/will-the-atlanta-braves-win-the-2026-world-series) — 8% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Epic Games' valuation hit (HIGH) $13.5B by December 31?"?
 
-As of July 14, 2026, Polymarket prices YES at 39.1%.
+As of July 15, 2026, Polymarket prices YES at 39.1%.
 
 ### Where can I trade on this prediction market?
 

@@ -3,8 +3,8 @@ title: "Predict.fun FDV above $1.5B one day after launch?"
 description: "Predict.fun FDV above $1.5B one day after launch? Odds: 23.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Predict.fun FDV above $1.5B one day after launch?"
 category: "crypto"
-status: "active"
-lastUpdated: 2026-07-14
+status: "settled"
+lastUpdated: 2026-07-15
 expiryDate: 2028-01-01
 tags: ["crypto", "polymarket"]
 polymarketYes: 23.1

@@ -4,7 +4,7 @@ description: "Will the ECB announce a 50+ bps decrease at the September 2026 mee
 marketQuestion: "Will the ECB announce a 50+ bps decrease at the September 2026 meeting?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-07-14
+lastUpdated: 2026-07-15
 expiryDate: 2026-09-10
 tags: ["politics", "polymarket"]
 polymarketYes: 0.1
@@ -23,13 +23,13 @@ polymarketUrl: "https://polymarket.com/event/will-the-ecb-announce-a-50-bps-decr
 
 - [Trump out as President before 2027?](/odds/trump-out-as-president-before-2027) — 8% YES
 - [Will Marco Rubio win the 2028 Republican presidential nomination?](/odds/will-marco-rubio-win-the-2028-republican-presidential-nomination) — 27% YES
-- [Will Eric Trump win the 2028 Republican presidential nomination?](/odds/will-eric-trump-win-the-2028-republican-presidential-nomination) — 1% YES
+- [Will the Atlanta Braves win the 2026 World Series?](/odds/will-the-atlanta-braves-win-the-2026-world-series) — 8% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will the ECB announce a 50+ bps decrease at the September 2026 meeting?"?
 
-As of July 14, 2026, Polymarket prices YES at 0.1%.
+As of July 15, 2026, Polymarket prices YES at 0.1%.
 
 ### Where can I trade on this prediction market?
 

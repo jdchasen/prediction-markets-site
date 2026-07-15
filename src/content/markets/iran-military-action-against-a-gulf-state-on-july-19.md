@@ -3,8 +3,8 @@ title: "Iran military action against a Gulf State on July 19?"
 description: "Iran military action against a Gulf State on July 19? Odds: 41.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Iran military action against a Gulf State on July 19?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-07-14
+status: "settled"
+lastUpdated: 2026-07-15
 expiryDate: 2026-07-19
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 41.5

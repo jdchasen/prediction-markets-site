@@ -4,7 +4,7 @@ description: "Will the Washington Capitals be named the 2026-27 NHL Stanley Cup 
 marketQuestion: "Will the Washington Capitals be named the 2026-27 NHL Stanley Cup Champion?"
 category: "sports"
 status: "active"
-lastUpdated: 2026-07-14
+lastUpdated: 2026-07-15
 expiryDate: 2027-07-01
 tags: ["polymarket", "sports"]
 polymarketYes: 4.3
@@ -22,14 +22,14 @@ polymarketUrl: "https://polymarket.com/event/will-the-washington-capitals-be-nam
 ## Related Markets
 
 - [Will the Indianapolis Colts win the 2027 NFL league championship?](/odds/will-the-indianapolis-colts-win-the-2027-nfl-league-championship) — 1% YES
-- [Will Arizona Cardinals win the 2027 NFL NFC Championship?](/odds/will-arizona-cardinals-win-the-2027-nfl-nfc-championship) — 1% YES
 - [Will South America (CONMEBOL) win the 2026 FIFA World Cup?](/odds/will-south-america-conmebol-win-the-2026-fifa-world-cup) — 20% YES
+- [Will Arizona Cardinals win the 2027 NFL NFC Championship?](/odds/will-arizona-cardinals-win-the-2027-nfl-nfc-championship) — 1% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will the Washington Capitals be named the 2026-27 NHL Stanley Cup Champion?"?
 
-As of July 14, 2026, Polymarket prices YES at 4.3%.
+As of July 15, 2026, Polymarket prices YES at 4.3%.
 
 ### Where can I trade on this prediction market?
 

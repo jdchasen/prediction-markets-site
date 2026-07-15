@@ -3,8 +3,8 @@ title: "Iasi Open: Elina Avanesyan vs Petra Marcinko"
 description: "Iasi Open: Elina Avanesyan vs Petra Marcinko Odds: 40.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Iasi Open: Elina Avanesyan vs Petra Marcinko"
 category: "politics"
-status: "active"
-lastUpdated: 2026-07-14
+status: "settled"
+lastUpdated: 2026-07-15
 expiryDate: 2026-07-22
 tags: ["politics", "polymarket"]
 polymarketYes: 40.5

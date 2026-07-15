@@ -3,8 +3,8 @@ title: "Netanyahu out by July 31?"
 description: "Netanyahu out by July 31? Odds: 0.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Netanyahu out by July 31?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-07-14
+status: "settled"
+lastUpdated: 2026-07-15
 expiryDate: 2026-07-31
 tags: ["politics", "polymarket"]
 polymarketYes: 0.5
