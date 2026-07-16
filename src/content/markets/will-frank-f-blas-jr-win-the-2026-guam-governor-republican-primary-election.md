@@ -1,15 +1,15 @@
 ---
 title: "Will Frank F. Blas Jr. win the 2026 Guam Governor Republican primary election?"
-description: "Will Frank F. Blas Jr. win the 2026 Guam Governor Republican primary election? Odds: 47.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Frank F. Blas Jr. win the 2026 Guam Governor Republican primary election? Odds: 49.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Frank F. Blas Jr. win the 2026 Guam Governor Republican primary election?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-07-15
+lastUpdated: 2026-07-16
 expiryDate: 2026-08-01
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 47.5
-polymarketNo: 52.5
-polymarketVolume: 9898
+polymarketYes: 49.5
+polymarketNo: 50.5
+polymarketVolume: 9948
 polymarketUrl: "https://polymarket.com/event/will-frank-f-blas-jr-win-the-2026-guam-governor-republican-primary-election-495"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-frank-f-blas-jr-win-the-2026-g
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 47.5% | 52.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 49.5% | 50.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Trump out as President before 2027?](/odds/trump-out-as-president-before-2027) — 8% YES
 - [Will Marco Rubio win the 2028 Republican presidential nomination?](/odds/will-marco-rubio-win-the-2028-republican-presidential-nomination) — 28% YES
 - [Will Eric Trump win the 2028 Republican presidential nomination?](/odds/will-eric-trump-win-the-2028-republican-presidential-nomination) — 1% YES
+- [Will the Atlanta Braves win the 2026 World Series?](/odds/will-the-atlanta-braves-win-the-2026-world-series) — 8% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Frank F. Blas Jr. win the 2026 Guam Governor Republican primary election?"?
 
-As of July 15, 2026, Polymarket prices YES at 47.5%.
+As of July 16, 2026, Polymarket prices YES at 49.5%.
 
 ### Where can I trade on this prediction market?
 

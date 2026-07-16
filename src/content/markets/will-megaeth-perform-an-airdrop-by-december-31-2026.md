@@ -1,15 +1,15 @@
 ---
 title: "Will MegaETH perform an airdrop by December 31, 2026?"
-description: "Will MegaETH perform an airdrop by December 31, 2026? Odds: 17.0% YES on Polymarket. See live prices and trade this market."
+description: "Will MegaETH perform an airdrop by December 31, 2026? Odds: 14.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will MegaETH perform an airdrop by December 31, 2026?"
 category: "politics"
-status: "settled"
-lastUpdated: 2026-07-15
+status: "active"
+lastUpdated: 2026-07-16
 expiryDate: 2027-01-01
 tags: ["ai", "ethereum", "politics", "polymarket"]
-polymarketYes: 17.0
-polymarketNo: 83.0
-polymarketVolume: 9738
+polymarketYes: 14.0
+polymarketNo: 86.0
+polymarketVolume: 9931
 polymarketUrl: "https://polymarket.com/event/will-megaeth-perform-an-airdrop-by-december-31-2026"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-megaeth-perform-an-airdrop-by-
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 17.0% | 83.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 14.0% | 86.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Trump out as President before 2027?](/odds/trump-out-as-president-before-2027) — 8% YES
-- [Will Marco Rubio win the 2028 Republican presidential nomination?](/odds/will-marco-rubio-win-the-2028-republican-presidential-nomination) — 27% YES
+- [Will Marco Rubio win the 2028 Republican presidential nomination?](/odds/will-marco-rubio-win-the-2028-republican-presidential-nomination) — 28% YES
 - [Will Eric Trump win the 2028 Republican presidential nomination?](/odds/will-eric-trump-win-the-2028-republican-presidential-nomination) — 1% YES
+- [Will the Atlanta Braves win the 2026 World Series?](/odds/will-the-atlanta-braves-win-the-2026-world-series) — 8% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will MegaETH perform an airdrop by December 31, 2026?"?
 
-As of July 14, 2026, Polymarket prices YES at 17.0%.
+As of July 16, 2026, Polymarket prices YES at 14.0%.
 
 ### Where can I trade on this prediction market?
 

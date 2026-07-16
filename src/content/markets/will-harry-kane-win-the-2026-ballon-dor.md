@@ -1,23 +1,23 @@
 ---
-title: "Will John Pardon win the 2026 Fields Medal?"
-description: "Will John Pardon win the 2026 Fields Medal? Odds: 98.1% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will John Pardon win the 2026 Fields Medal?"
+title: "Will Harry Kane win the 2026 Ballon d'Or?"
+description: "Will Harry Kane win the 2026 Ballon d'Or? Odds: 17.0% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Harry Kane win the 2026 Ballon d'Or?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-07-16
-expiryDate: 2026-07-30
+expiryDate: 2026-10-31
 tags: ["politics", "polymarket"]
-polymarketYes: 98.1
-polymarketNo: 1.9
-polymarketVolume: 99294
-polymarketUrl: "https://polymarket.com/event/will-john-pardon-win-the-2026-fields-medal"
+polymarketYes: 17.0
+polymarketNo: 83.0
+polymarketVolume: 990437
+polymarketUrl: "https://polymarket.com/event/will-harry-kane-win-the-2026-ballon-dor"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 98.1% | 1.9% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 17.0% | 83.0% | $990K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-john-pardon-win-the-2026-field
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will John Pardon win the 2026 Fields Medal?"?
+### What are the current odds for "Will Harry Kane win the 2026 Ballon d'Or?"?
 
-As of July 16, 2026, Polymarket prices YES at 98.1%.
+As of July 16, 2026, Polymarket prices YES at 17.0%.
 
 ### Where can I trade on this prediction market?
 

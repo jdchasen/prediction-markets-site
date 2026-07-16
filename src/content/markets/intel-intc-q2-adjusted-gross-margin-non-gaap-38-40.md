@@ -3,8 +3,8 @@ title: "Intel (INTC) Q2 adjusted gross margin (non-GAAP) 38%-40%?"
 description: "Intel (INTC) Q2 adjusted gross margin (non-GAAP) 38%-40%? Odds: 26.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Intel (INTC) Q2 adjusted gross margin (non-GAAP) 38%-40%?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-07-15
+status: "settled"
+lastUpdated: 2026-07-16
 expiryDate: 2026-07-23
 tags: ["politics", "polymarket"]
 polymarketYes: 26.0

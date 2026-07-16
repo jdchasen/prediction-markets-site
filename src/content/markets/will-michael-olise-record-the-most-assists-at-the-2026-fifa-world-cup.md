@@ -3,8 +3,8 @@ title: "Will Michael Olise record the most assists at the 2026 FIFA World Cup?"
 description: "Will Michael Olise record the most assists at the 2026 FIFA World Cup? Odds: 91.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Michael Olise record the most assists at the 2026 FIFA World Cup?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-07-15
+status: "settled"
+lastUpdated: 2026-07-16
 expiryDate: 2026-08-03
 tags: ["polymarket", "sports"]
 polymarketYes: 91.2

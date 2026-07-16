@@ -4,7 +4,7 @@ description: "Will Anthropic’s market cap be 1.8T or greater at market close o
 marketQuestion: "Will Anthropic’s market cap be 1.8T or greater at market close on IPO day by December 31 2027?"
 category: "finance"
 status: "active"
-lastUpdated: 2026-07-15
+lastUpdated: 2026-07-16
 expiryDate: 2027-12-31
 tags: ["finance", "polymarket"]
 polymarketYes: 57.5
@@ -27,7 +27,7 @@ polymarketUrl: "https://polymarket.com/event/will-anthropics-market-cap-be-1pt8t
 
 ### What are the current odds for "Will Anthropic’s market cap be 1.8T or greater at market close on IPO day by December 31 2027?"?
 
-As of July 15, 2026, Polymarket prices YES at 57.5%.
+As of July 16, 2026, Polymarket prices YES at 57.5%.
 
 ### Where can I trade on this prediction market?
 

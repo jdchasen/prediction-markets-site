@@ -4,7 +4,7 @@ description: "Will the Democratic Party win the NC-05 House seat? Odds: 11.6% YE
 marketQuestion: "Will the Democratic Party win the NC-05 House seat?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-07-15
+lastUpdated: 2026-07-16
 expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
 polymarketYes: 11.6
@@ -21,15 +21,15 @@ polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-n
 
 ## Related Markets
 
-- [Trump out as President before 2027?](/odds/trump-out-as-president-before-2027) — 8% YES
 - [Will Marco Rubio win the 2028 Republican presidential nomination?](/odds/will-marco-rubio-win-the-2028-republican-presidential-nomination) — 28% YES
 - [Will Eric Trump win the 2028 Republican presidential nomination?](/odds/will-eric-trump-win-the-2028-republican-presidential-nomination) — 1% YES
+- [Will the Atlanta Braves win the 2026 World Series?](/odds/will-the-atlanta-braves-win-the-2026-world-series) — 8% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will the Democratic Party win the NC-05 House seat?"?
 
-As of July 15, 2026, Polymarket prices YES at 11.6%.
+As of July 16, 2026, Polymarket prices YES at 11.6%.
 
 ### Where can I trade on this prediction market?
 

@@ -1,23 +1,23 @@
 ---
-title: "Will any FaZe member come out as a furry by July 31?"
-description: "Will any FaZe member come out as a furry by July 31? Odds: 5.0% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will any FaZe member come out as a furry by July 31?"
+title: "Will Microsoft Corporation (MSFT) hit (LOW) $345 in July?"
+description: "Will Microsoft Corporation (MSFT) hit (LOW) $345 in July? Odds: 15.0% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Microsoft Corporation (MSFT) hit (LOW) $345 in July?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-07-16
-expiryDate: 2026-07-31
+expiryDate: 2026-08-01
 tags: ["politics", "polymarket"]
-polymarketYes: 5.0
-polymarketNo: 95.0
-polymarketVolume: 9837
-polymarketUrl: "https://polymarket.com/event/will-any-faze-member-come-out-as-a-furry-by-july-31"
+polymarketYes: 15.0
+polymarketNo: 85.0
+polymarketVolume: 9785
+polymarketUrl: "https://polymarket.com/event/will-msft-dip-to-345-in-july-2026"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 5.0% | 95.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 15.0% | 85.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-any-faze-member-come-out-as-a-
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will any FaZe member come out as a furry by July 31?"?
+### What are the current odds for "Will Microsoft Corporation (MSFT) hit (LOW) $345 in July?"?
 
-As of July 16, 2026, Polymarket prices YES at 5.0%.
+As of July 16, 2026, Polymarket prices YES at 15.0%.
 
 ### Where can I trade on this prediction market?
 

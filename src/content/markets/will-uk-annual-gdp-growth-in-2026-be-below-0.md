@@ -1,15 +1,15 @@
 ---
 title: "Will UK annual GDP growth in 2026 be below 0%?"
-description: "Will UK annual GDP growth in 2026 be below 0%? Odds: 12.0% YES on Polymarket. See live prices and trade this market."
+description: "Will UK annual GDP growth in 2026 be below 0%? Odds: 11.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will UK annual GDP growth in 2026 be below 0%?"
 category: "economics"
 status: "active"
-lastUpdated: 2026-07-15
+lastUpdated: 2026-07-16
 expiryDate: 2027-02-12
 tags: ["economics", "polymarket"]
-polymarketYes: 12.0
-polymarketNo: 88.0
-polymarketVolume: 9916
+polymarketYes: 11.5
+polymarketNo: 88.5
+polymarketVolume: 9946
 polymarketUrl: "https://polymarket.com/event/will-uk-annual-gdp-growth-in-2026-be-below-0"
 ---
 
@@ -17,17 +17,18 @@ polymarketUrl: "https://polymarket.com/event/will-uk-annual-gdp-growth-in-2026-b
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 12.0% | 88.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 11.5% | 88.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Brazil’s Annual Inflation in 2026 be between 4.00% and 4.49%?](/odds/will-brazils-annual-inflation-in-2026-be-between-400-and-449) — 7% YES
+- [Will the Fed decrease interest rates by 50+ bps after the July 2026 meeting?](/odds/will-the-fed-decrease-interest-rates-by-50-bps-after-the-july-2026-meeting) — 0% YES
+- [Will Brazil’s Annual Inflation in 2026 be between 4.00% and 4.49%?](/odds/will-brazils-annual-inflation-in-2026-be-between-400-and-449) — 6% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will UK annual GDP growth in 2026 be below 0%?"?
 
-As of July 15, 2026, Polymarket prices YES at 12.0%.
+As of July 16, 2026, Polymarket prices YES at 11.5%.
 
 ### Where can I trade on this prediction market?
 

@@ -4,12 +4,12 @@ description: "Will the Indianapolis Colts win the 2027 NFL league championship? 
 marketQuestion: "Will the Indianapolis Colts win the 2027 NFL league championship?"
 category: "sports"
 status: "active"
-lastUpdated: 2026-07-15
+lastUpdated: 2026-07-16
 expiryDate: 2027-03-31
 tags: ["polymarket", "sports"]
 polymarketYes: 1.1
 polymarketNo: 98.9
-polymarketVolume: 993088
+polymarketVolume: 997107
 polymarketUrl: "https://polymarket.com/event/will-the-indianapolis-colts-win-the-2027-nfl-league-championship"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-the-indianapolis-colts-win-the
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 1.1% | 98.9% | $993K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 1.1% | 98.9% | $997K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will England reach the 2026 FIFA World Cup final?](/odds/will-england-reach-the-2026-fifa-world-cup-final) — 0% YES
-- [Will the Kansas City Chiefs win the 2027 NFL league championship?](/odds/will-the-kansas-city-chiefs-win-the-2027-nfl-league-championship) — 8% YES
+- [Will the Kansas City Chiefs win the 2027 NFL league championship?](/odds/will-the-kansas-city-chiefs-win-the-2027-nfl-league-championship) — 7% YES
 - [Will Arizona Cardinals win the 2027 NFL NFC Championship?](/odds/will-arizona-cardinals-win-the-2027-nfl-nfc-championship) — 1% YES
+- [Will Kansas City Chiefs win the 2027 NFL AFC Championship?](/odds/will-kansas-city-chiefs-win-the-2027-nfl-afc-championship) — 10% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will the Indianapolis Colts win the 2027 NFL league championship?"?
 
-As of July 15, 2026, Polymarket prices YES at 1.1%.
+As of July 16, 2026, Polymarket prices YES at 1.1%.
 
 ### Where can I trade on this prediction market?
 

@@ -3,8 +3,8 @@ title: "Will Dogecoin reach $0.15 in July?"
 description: "Will Dogecoin reach $0.15 in July? Odds: 0.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Dogecoin reach $0.15 in July?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-07-15
+status: "settled"
+lastUpdated: 2026-07-16
 expiryDate: 2026-08-01
 tags: ["politics", "polymarket"]
 polymarketYes: 0.8

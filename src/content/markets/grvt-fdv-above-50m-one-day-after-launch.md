@@ -3,8 +3,8 @@ title: "GRVT FDV above $50M one day after launch?"
 description: "GRVT FDV above $50M one day after launch? Odds: 98.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "GRVT FDV above $50M one day after launch?"
 category: "crypto"
-status: "active"
-lastUpdated: 2026-07-15
+status: "settled"
+lastUpdated: 2026-07-16
 expiryDate: 2028-01-01
 tags: ["crypto", "polymarket"]
 polymarketYes: 98.0

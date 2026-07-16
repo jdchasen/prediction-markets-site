@@ -3,8 +3,8 @@ title: "Will Nir Barkat be the next Prime Minister of Israel?"
 description: "Will Nir Barkat be the next Prime Minister of Israel? Odds: 0.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Nir Barkat be the next Prime Minister of Israel?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-07-15
+status: "settled"
+lastUpdated: 2026-07-16
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 0.4

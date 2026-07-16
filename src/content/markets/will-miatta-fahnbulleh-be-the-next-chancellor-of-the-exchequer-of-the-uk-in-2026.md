@@ -1,23 +1,23 @@
 ---
-title: "Will John Pardon win the 2026 Fields Medal?"
-description: "Will John Pardon win the 2026 Fields Medal? Odds: 98.1% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will John Pardon win the 2026 Fields Medal?"
+title: "Will Miatta Fahnbulleh be the next Chancellor of the Exchequer of the UK in 2026?"
+description: "Will Miatta Fahnbulleh be the next Chancellor of the Exchequer of the UK in 2026? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Miatta Fahnbulleh be the next Chancellor of the Exchequer of the UK in 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-07-16
-expiryDate: 2026-07-30
+expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 98.1
-polymarketNo: 1.9
-polymarketVolume: 99294
-polymarketUrl: "https://polymarket.com/event/will-john-pardon-win-the-2026-fields-medal"
+polymarketYes: 0.1
+polymarketNo: 100.0
+polymarketVolume: 9951
+polymarketUrl: "https://polymarket.com/event/will-miatta-fahnbulleh-be-the-next-chancellor-of-the-exchequer-of-the-uk-in-2026"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 98.1% | 1.9% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.1% | 100.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-john-pardon-win-the-2026-field
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will John Pardon win the 2026 Fields Medal?"?
+### What are the current odds for "Will Miatta Fahnbulleh be the next Chancellor of the Exchequer of the UK in 2026?"?
 
-As of July 16, 2026, Polymarket prices YES at 98.1%.
+As of July 16, 2026, Polymarket prices YES at 0.1%.
 
 ### Where can I trade on this prediction market?
 

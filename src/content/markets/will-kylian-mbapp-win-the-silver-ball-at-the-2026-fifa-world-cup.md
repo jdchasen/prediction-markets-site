@@ -1,23 +1,23 @@
 ---
-title: "Will Kylian Mbappe score 12+ goals during the 2026 FIFA World Cup?"
-description: "Will Kylian Mbappe score 12+ goals during the 2026 FIFA World Cup? Odds: 0.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Kylian Mbappe score 12+ goals during the 2026 FIFA World Cup?"
+title: "Will Kylian Mbappé win the Silver Ball at the 2026 FIFA World Cup?"
+description: "Will Kylian Mbappé win the Silver Ball at the 2026 FIFA World Cup? Odds: 50.4% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Kylian Mbappé win the Silver Ball at the 2026 FIFA World Cup?"
 category: "sports"
 status: "active"
 lastUpdated: 2026-07-16
-expiryDate: 2026-08-03
+expiryDate: 2026-07-20
 tags: ["polymarket", "sports"]
-polymarketYes: 0.5
-polymarketNo: 99.5
-polymarketVolume: 9904
-polymarketUrl: "https://polymarket.com/event/will-kylian-mbappe-score-12-goals-during-the-2026-fifa-world-cup-20260701232316818"
+polymarketYes: 50.4
+polymarketNo: 49.5
+polymarketVolume: 9996
+polymarketUrl: "https://polymarket.com/event/will-kylian-mbappe-win-the-silver-ball-at-the-2026-fifa-world-cup-20260603194503872"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.5% | 99.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 50.4% | 49.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-kylian-mbappe-score-12-goals-d
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Kylian Mbappe score 12+ goals during the 2026 FIFA World Cup?"?
+### What are the current odds for "Will Kylian Mbappé win the Silver Ball at the 2026 FIFA World Cup?"?
 
-As of July 16, 2026, Polymarket prices YES at 0.5%.
+As of July 16, 2026, Polymarket prices YES at 50.4%.
 
 ### Where can I trade on this prediction market?
 

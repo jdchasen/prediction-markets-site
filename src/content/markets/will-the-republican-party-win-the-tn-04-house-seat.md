@@ -3,8 +3,8 @@ title: "Will the Republican Party win the TN-04 House seat?"
 description: "Will the Republican Party win the TN-04 House seat? Odds: 88.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Republican Party win the TN-04 House seat?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-07-15
+status: "settled"
+lastUpdated: 2026-07-16
 expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
 polymarketYes: 88.5

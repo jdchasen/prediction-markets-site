@@ -1,15 +1,15 @@
 ---
 title: "Will Bitcoin reach $70,000 by December 31, 2026?"
-description: "Will Bitcoin reach $70,000 by December 31, 2026? Odds: 79.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Bitcoin reach $70,000 by December 31, 2026? Odds: 76.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Bitcoin reach $70,000 by December 31, 2026?"
 category: "crypto"
 status: "active"
-lastUpdated: 2026-07-15
+lastUpdated: 2026-07-16
 expiryDate: 2027-01-01
 tags: ["bitcoin", "crypto", "polymarket"]
-polymarketYes: 79.5
-polymarketNo: 20.5
-polymarketVolume: 98062
+polymarketYes: 76.0
+polymarketNo: 24.0
+polymarketVolume: 99807
 polymarketUrl: "https://polymarket.com/event/will-bitcoin-reach-70000-by-december-31-2026-from-june-8"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-bitcoin-reach-70000-by-decembe
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 79.5% | 20.5% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 76.0% | 24.0% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will MetaMask launch a token by September 30, 2026?](/odds/will-metamask-launch-a-token-by-september-30-2026) — 4% YES
-- [Will Bitcoin dip to $25,000 by December 31, 2026?](/odds/will-bitcoin-dip-to-25000-by-december-31-2026) — 6% YES
-- [Will Loopscale launch a token by December 31, 2026?](/odds/will-loopscale-launch-a-token-by-december-31-2026) — 32% YES
+- [Will MetaMask launch a token by September 30, 2026?](/odds/will-metamask-launch-a-token-by-september-30-2026) — 3% YES
+- [Will Loopscale launch a token by December 31, 2026?](/odds/will-loopscale-launch-a-token-by-december-31-2026) — 23% YES
+- [Extended FDV above $1B one day after launch?](/odds/extended-fdv-above-1b-one-day-after-launch) — 6% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Bitcoin reach $70,000 by December 31, 2026?"?
 
-As of July 15, 2026, Polymarket prices YES at 79.5%.
+As of July 16, 2026, Polymarket prices YES at 76.0%.
 
 ### Where can I trade on this prediction market?
 

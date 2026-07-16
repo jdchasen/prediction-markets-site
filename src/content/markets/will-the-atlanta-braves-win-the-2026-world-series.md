@@ -4,12 +4,12 @@ description: "Will the Atlanta Braves win the 2026 World Series? Odds: 7.5% YES 
 marketQuestion: "Will the Atlanta Braves win the 2026 World Series?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-07-15
+lastUpdated: 2026-07-16
 expiryDate: 2026-10-31
 tags: ["politics", "polymarket"]
 polymarketYes: 7.5
 polymarketNo: 92.5
-polymarketVolume: 996544
+polymarketVolume: 997933
 polymarketUrl: "https://polymarket.com/event/will-the-atlanta-braves-win-the-2026-world-series"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-the-atlanta-braves-win-the-202
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 7.5% | 92.5% | $997K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 7.5% | 92.5% | $998K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Trump out as President before 2027?](/odds/trump-out-as-president-before-2027) — 8% YES
 - [Will Marco Rubio win the 2028 Republican presidential nomination?](/odds/will-marco-rubio-win-the-2028-republican-presidential-nomination) — 28% YES
 - [Will Eric Trump win the 2028 Republican presidential nomination?](/odds/will-eric-trump-win-the-2028-republican-presidential-nomination) — 1% YES
+- [Will Harry Kane win the 2026 Ballon d'Or?](/odds/will-harry-kane-win-the-2026-ballon-dor) — 17% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will the Atlanta Braves win the 2026 World Series?"?
 
-As of July 15, 2026, Polymarket prices YES at 7.5%.
+As of July 16, 2026, Polymarket prices YES at 7.5%.
 
 ### Where can I trade on this prediction market?
 

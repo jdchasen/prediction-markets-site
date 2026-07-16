@@ -4,7 +4,7 @@ description: "Will Apyx launch a token by September 30, 2027? Odds: 73.0% YES on
 marketQuestion: "Will Apyx launch a token by September 30, 2027?"
 category: "crypto"
 status: "active"
-lastUpdated: 2026-07-15
+lastUpdated: 2026-07-16
 expiryDate: 2027-10-01
 tags: ["crypto", "polymarket"]
 polymarketYes: 73.0
@@ -21,15 +21,15 @@ polymarketUrl: "https://polymarket.com/event/will-apyx-launch-a-token-by-septemb
 
 ## Related Markets
 
-- [Will MetaMask launch a token by September 30, 2026?](/odds/will-metamask-launch-a-token-by-september-30-2026) — 4% YES
-- [Will Bitcoin dip to $25,000 by December 31, 2026?](/odds/will-bitcoin-dip-to-25000-by-december-31-2026) — 6% YES
-- [Will Loopscale launch a token by December 31, 2026?](/odds/will-loopscale-launch-a-token-by-december-31-2026) — 32% YES
+- [Will MetaMask launch a token by September 30, 2026?](/odds/will-metamask-launch-a-token-by-september-30-2026) — 3% YES
+- [Will Bitcoin reach $70,000 by December 31, 2026?](/odds/will-bitcoin-reach-70000-by-december-31-2026) — 76% YES
+- [Will Loopscale launch a token by December 31, 2026?](/odds/will-loopscale-launch-a-token-by-december-31-2026) — 23% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Apyx launch a token by September 30, 2027?"?
 
-As of July 15, 2026, Polymarket prices YES at 73.0%.
+As of July 16, 2026, Polymarket prices YES at 73.0%.
 
 ### Where can I trade on this prediction market?
 

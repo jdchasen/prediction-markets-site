@@ -3,8 +3,8 @@ title: "Will Rune Eaters win the EWC Dota 2 Tournament"
 description: "Will Rune Eaters win the EWC Dota 2 Tournament Odds: 1.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Rune Eaters win the EWC Dota 2 Tournament"
 category: "politics"
-status: "active"
-lastUpdated: 2026-07-15
+status: "settled"
+lastUpdated: 2026-07-16
 tags: ["politics", "polymarket"]
 polymarketYes: 1.9
 polymarketNo: 98.1

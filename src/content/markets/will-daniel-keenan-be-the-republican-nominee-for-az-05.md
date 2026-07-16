@@ -3,8 +3,8 @@ title: "Will Daniel Keenan be the Republican nominee for AZ-05?"
 description: "Will Daniel Keenan be the Republican nominee for AZ-05? Odds: 8.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Daniel Keenan be the Republican nominee for AZ-05?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-07-15
+status: "settled"
+lastUpdated: 2026-07-16
 expiryDate: 2026-08-04
 tags: ["politics", "polymarket"]
 polymarketYes: 8.0
