@@ -1,23 +1,23 @@
 ---
-title: "Intel (INTC) Q2 adjusted gross margin (non-GAAP) 38%-40%?"
-description: "Intel (INTC) Q2 adjusted gross margin (non-GAAP) 38%-40%? Odds: 15.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Intel (INTC) Q2 adjusted gross margin (non-GAAP) 38%-40%?"
+title: "Over $40M committed to the Credible public sale?"
+description: "Over $40M committed to the Credible public sale? Odds: 11.0% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Over $40M committed to the Credible public sale?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-07-16
-expiryDate: 2026-07-23
+expiryDate: 2026-08-31
 tags: ["politics", "polymarket"]
-polymarketYes: 15.5
-polymarketNo: 84.5
-polymarketVolume: 9768
-polymarketUrl: "https://polymarket.com/event/intel-intc-q2-adjusted-gross-margin-non-gaap-38-40-20260708025432944"
+polymarketYes: 11.0
+polymarketNo: 89.0
+polymarketVolume: 98115
+polymarketUrl: "https://polymarket.com/event/over-40m-committed-to-the-credible-public-sale-20260708134325654"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 15.5% | 84.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 11.0% | 89.0% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/intel-intc-q2-adjusted-gross-margin
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Intel (INTC) Q2 adjusted gross margin (non-GAAP) 38%-40%?"?
+### What are the current odds for "Over $40M committed to the Credible public sale?"?
 
-As of July 16, 2026, Polymarket prices YES at 15.5%.
+As of July 16, 2026, Polymarket prices YES at 11.0%.
 
 ### Where can I trade on this prediction market?
 

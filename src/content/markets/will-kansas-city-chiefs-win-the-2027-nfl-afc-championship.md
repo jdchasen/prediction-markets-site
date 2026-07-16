@@ -9,7 +9,7 @@ expiryDate: 2027-01-25
 tags: ["polymarket", "sports"]
 polymarketYes: 9.5
 polymarketNo: 90.5
-polymarketVolume: 99772
+polymarketVolume: 99783
 polymarketUrl: "https://polymarket.com/event/will-kansas-city-chiefs-win-the-2027-nfl-afc-championship-257"
 ---
 

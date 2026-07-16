@@ -21,7 +21,8 @@ polymarketUrl: "https://polymarket.com/event/will-trump-sell-25k-100k-gold-cards
 
 ## Related Markets
 
-- [Will Anthropic’s market cap be 1.8T or greater at market close on IPO day by December 31 2027?](/odds/will-anthropics-market-cap-be-18t-or-greater-at-market-close-on-ipo-day-by-decem) — 58% YES
+- [Will Anthropic’s market cap be 1.8T or greater at market close on IPO day by December 31 2027?](/odds/will-anthropics-market-cap-be-18t-or-greater-at-market-close-on-ipo-day-by-decem) — 57% YES
+- [Will Microsoft be the third-largest company in the world by market cap on July 31?](/odds/will-microsoft-be-the-third-largest-company-in-the-world-by-market-cap-on-july-3) — 1% YES
 
 ## Frequently Asked Questions
 

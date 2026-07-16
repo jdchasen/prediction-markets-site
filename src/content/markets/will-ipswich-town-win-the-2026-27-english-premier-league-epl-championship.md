@@ -3,7 +3,7 @@ title: "Will Ipswich Town win the 2026-27 English Premier League (EPL) Champions
 description: "Will Ipswich Town win the 2026-27 English Premier League (EPL) Championship? Odds: 0.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Ipswich Town win the 2026-27 English Premier League (EPL) Championship?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-07-16
 expiryDate: 2027-05-30
 tags: ["polymarket", "sports"]

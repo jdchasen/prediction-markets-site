@@ -3,7 +3,7 @@ title: "Will Moonshot have the best Math AI model at the end of July 2026?"
 description: "Will Moonshot have the best Math AI model at the end of July 2026? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Moonshot have the best Math AI model at the end of July 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-07-16
 expiryDate: 2026-07-31
 tags: ["ai", "politics", "polymarket"]

@@ -8,8 +8,8 @@ lastUpdated: 2026-07-16
 expiryDate: 2027-03-31
 tags: ["polymarket", "sports"]
 polymarketYes: 6.6
-polymarketNo: 93.5
-polymarketVolume: 989254
+polymarketNo: 93.4
+polymarketVolume: 989500
 polymarketUrl: "https://polymarket.com/event/will-the-kansas-city-chiefs-win-the-2027-nfl-league-championship"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-kansas-city-chiefs-win-the
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 6.6% | 93.5% | $989K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 6.6% | 93.4% | $990K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 

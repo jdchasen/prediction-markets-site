@@ -1,23 +1,23 @@
 ---
-title: "Israel withdraws from Lebanon by December 31, 2026?"
-description: "Israel withdraws from Lebanon by December 31, 2026? Odds: 11.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Israel withdraws from Lebanon by December 31, 2026?"
+title: "Swedish Open: Nuno Borges vs Luciano Darderi"
+description: "Swedish Open: Nuno Borges vs Luciano Darderi Odds: 45.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Swedish Open: Nuno Borges vs Luciano Darderi"
 category: "politics"
 status: "active"
 lastUpdated: 2026-07-16
-expiryDate: 2026-12-31
+expiryDate: 2026-07-24
 tags: ["politics", "polymarket"]
-polymarketYes: 11.5
-polymarketNo: 88.5
-polymarketVolume: 99747
-polymarketUrl: "https://polymarket.com/event/israel-withdraws-from-lebanon-by-december-31-2026"
+polymarketYes: 45.5
+polymarketNo: 54.5
+polymarketVolume: 9854
+polymarketUrl: "https://polymarket.com/event/atp-borges-darderi-2026-07-17"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 11.5% | 88.5% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 45.5% | 54.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/israel-withdraws-from-lebanon-by-de
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Israel withdraws from Lebanon by December 31, 2026?"?
+### What are the current odds for "Swedish Open: Nuno Borges vs Luciano Darderi"?
 
-As of July 16, 2026, Polymarket prices YES at 11.5%.
+As of July 16, 2026, Polymarket prices YES at 45.5%.
 
 ### Where can I trade on this prediction market?
 
@@ -37,6 +37,5 @@ You can trade this market on [Polymarket](https://polymarket.us/1762?utm_source=
 
 ## Learn More
 
-- [How to Withdraw from Kalshi Fast (2026)](/blog/kalshi-withdrawal)
-- [How to Withdraw from Polymarket to Your Bank](/blog/polymarket-withdrawal)
+- [Cobolli vs Zverev Odds: French Open Markets](/blog/cobolli-vs-zverev-odds-french-open-markets)
 

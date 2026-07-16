@@ -1,23 +1,22 @@
 ---
-title: "Will Microsoft Corporation (MSFT) hit (LOW) $345 in July?"
-description: "Will Microsoft Corporation (MSFT) hit (LOW) $345 in July? Odds: 8.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Microsoft Corporation (MSFT) hit (LOW) $345 in July?"
+title: "Will Jorginho Mello win the Governor of Santa Catarina election?"
+description: "Will Jorginho Mello win the Governor of Santa Catarina election? Odds: 87.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Jorginho Mello win the Governor of Santa Catarina election?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-07-16
-expiryDate: 2026-08-01
-tags: ["politics", "polymarket"]
-polymarketYes: 8.5
-polymarketNo: 91.5
+tags: ["elections", "politics", "polymarket"]
+polymarketYes: 87.5
+polymarketNo: 12.5
 polymarketVolume: 9785
-polymarketUrl: "https://polymarket.com/event/will-msft-dip-to-345-in-july-2026"
+polymarketUrl: "https://polymarket.com/event/will-jorginho-mello-win-the-governor-of-santa-catarina-election-20260609164311690"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 8.5% | 91.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 87.5% | 12.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +26,9 @@ polymarketUrl: "https://polymarket.com/event/will-msft-dip-to-345-in-july-2026"
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Microsoft Corporation (MSFT) hit (LOW) $345 in July?"?
+### What are the current odds for "Will Jorginho Mello win the Governor of Santa Catarina election?"?
 
-As of July 16, 2026, Polymarket prices YES at 8.5%.
+As of July 16, 2026, Polymarket prices YES at 87.5%.
 
 ### Where can I trade on this prediction market?
 

@@ -3,7 +3,7 @@ title: "Will Kylian Mbappé win the Silver Ball at the 2026 FIFA World Cup?"
 description: "Will Kylian Mbappé win the Silver Ball at the 2026 FIFA World Cup? Odds: 50.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Kylian Mbappé win the Silver Ball at the 2026 FIFA World Cup?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-07-16
 expiryDate: 2026-07-20
 tags: ["polymarket", "sports"]
