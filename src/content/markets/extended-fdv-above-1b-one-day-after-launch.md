@@ -21,9 +21,9 @@ polymarketUrl: "https://polymarket.com/event/extended-fdv-above-1b-one-day-after
 
 ## Related Markets
 
-- [Will MetaMask launch a token by September 30, 2026?](/odds/will-metamask-launch-a-token-by-september-30-2026) — 3% YES
-- [Will Loopscale launch a token by December 31, 2026?](/odds/will-loopscale-launch-a-token-by-december-31-2026) — 28% YES
-- [Will Ethereum dip to $700 in July?](/odds/will-ethereum-dip-to-700-in-july) — 0% YES
+- [Will MetaMask launch a token by September 30, 2026?](/odds/will-metamask-launch-a-token-by-september-30-2026) — 2% YES
+- [Will Bitcoin dip to $25,000 by December 31, 2026?](/odds/will-bitcoin-dip-to-25000-by-december-31-2026) — 6% YES
+- [Will Loopscale launch a token by December 31, 2026?](/odds/will-loopscale-launch-a-token-by-december-31-2026) — 35% YES
 
 ## Frequently Asked Questions
 

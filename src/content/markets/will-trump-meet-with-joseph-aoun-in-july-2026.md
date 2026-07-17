@@ -1,15 +1,15 @@
 ---
 title: "Will Trump meet with Joseph Aoun in July 2026?"
-description: "Will Trump meet with Joseph Aoun in July 2026? Odds: 95.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Trump meet with Joseph Aoun in July 2026? Odds: 99.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Trump meet with Joseph Aoun in July 2026?"
 category: "politics"
-status: "settled"
+status: "active"
 lastUpdated: 2026-07-17
 expiryDate: 2026-07-31
 tags: ["politics", "polymarket", "trump"]
-polymarketYes: 95.5
-polymarketNo: 4.5
-polymarketVolume: 9778
+polymarketYes: 99.0
+polymarketNo: 1.1
+polymarketVolume: 9791
 polymarketUrl: "https://polymarket.com/event/will-trump-meet-with-joseph-aoun-in-july-2026-20260626153701915"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-trump-meet-with-joseph-aoun-in
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 95.5% | 4.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 99.0% | 1.1% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-trump-meet-with-joseph-aoun-in
 
 ### What are the current odds for "Will Trump meet with Joseph Aoun in July 2026?"?
 
-As of July 16, 2026, Polymarket prices YES at 95.5%.
+As of July 17, 2026, Polymarket prices YES at 99.0%.
 
 ### Where can I trade on this prediction market?
 

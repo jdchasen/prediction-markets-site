@@ -9,7 +9,7 @@ expiryDate: 2027-01-01
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 72.0
 polymarketNo: 28.0
-polymarketVolume: 99258
+polymarketVolume: 99298
 polymarketUrl: "https://polymarket.com/event/will-openais-valuation-hit-high-900b-by-december-31-942-235"
 ---
 

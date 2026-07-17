@@ -1,15 +1,15 @@
 ---
 title: "Intel (INTC) Q2 adjusted gross margin (non-GAAP) 38%-40%?"
-description: "Intel (INTC) Q2 adjusted gross margin (non-GAAP) 38%-40%? Odds: 15.5% YES on Polymarket. See live prices and trade this market."
+description: "Intel (INTC) Q2 adjusted gross margin (non-GAAP) 38%-40%? Odds: 6.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Intel (INTC) Q2 adjusted gross margin (non-GAAP) 38%-40%?"
 category: "politics"
-status: "settled"
+status: "active"
 lastUpdated: 2026-07-17
 expiryDate: 2026-07-23
 tags: ["politics", "polymarket"]
-polymarketYes: 15.5
-polymarketNo: 84.5
-polymarketVolume: 9768
+polymarketYes: 6.5
+polymarketNo: 93.5
+polymarketVolume: 9828
 polymarketUrl: "https://polymarket.com/event/intel-intc-q2-adjusted-gross-margin-non-gaap-38-40-20260708025432944"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/intel-intc-q2-adjusted-gross-margin
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 15.5% | 84.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 6.5% | 93.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/intel-intc-q2-adjusted-gross-margin
 
 ### What are the current odds for "Intel (INTC) Q2 adjusted gross margin (non-GAAP) 38%-40%?"?
 
-As of July 16, 2026, Polymarket prices YES at 15.5%.
+As of July 17, 2026, Polymarket prices YES at 6.5%.
 
 ### Where can I trade on this prediction market?
 

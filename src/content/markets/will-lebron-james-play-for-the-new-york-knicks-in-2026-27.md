@@ -1,23 +1,23 @@
 ---
-title: "Will Argentina dollarize by December 31, 2026?"
-description: "Will Argentina dollarize by December 31, 2026? Odds: 3.8% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Argentina dollarize by December 31, 2026?"
+title: "Will LeBron James play for the New York Knicks in 2026-27?"
+description: "Will LeBron James play for the New York Knicks in 2026-27? Odds: 0.6% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will LeBron James play for the New York Knicks in 2026-27?"
 category: "politics"
-status: "settled"
+status: "active"
 lastUpdated: 2026-07-17
-expiryDate: 2026-12-31
+expiryDate: 2026-10-31
 tags: ["politics", "polymarket"]
-polymarketYes: 3.8
-polymarketNo: 96.2
-polymarketVolume: 9974
-polymarketUrl: "https://polymarket.com/event/will-argentina-dollarize-by-december-31-2026-20260628214554778"
+polymarketYes: 0.6
+polymarketNo: 99.4
+polymarketVolume: 987245
+polymarketUrl: "https://polymarket.com/event/will-lebron-james-play-for-the-new-york-knicks-in-2026-27"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 3.8% | 96.2% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.6% | 99.4% | $987K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-argentina-dollarize-by-decembe
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Argentina dollarize by December 31, 2026?"?
+### What are the current odds for "Will LeBron James play for the New York Knicks in 2026-27?"?
 
-As of July 17, 2026, Polymarket prices YES at 3.8%.
+As of July 17, 2026, Polymarket prices YES at 0.6%.
 
 ### Where can I trade on this prediction market?
 

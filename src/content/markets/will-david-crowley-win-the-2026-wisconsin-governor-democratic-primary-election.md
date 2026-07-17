@@ -1,23 +1,23 @@
 ---
-title: "Will Argentina dollarize by December 31, 2026?"
-description: "Will Argentina dollarize by December 31, 2026? Odds: 3.8% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Argentina dollarize by December 31, 2026?"
+title: "Will David Crowley win the 2026 Wisconsin Governor Democratic primary election?"
+description: "Will David Crowley win the 2026 Wisconsin Governor Democratic primary election? Odds: 25.1% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will David Crowley win the 2026 Wisconsin Governor Democratic primary election?"
 category: "politics"
-status: "settled"
+status: "active"
 lastUpdated: 2026-07-17
-expiryDate: 2026-12-31
-tags: ["politics", "polymarket"]
-polymarketYes: 3.8
-polymarketNo: 96.2
-polymarketVolume: 9974
-polymarketUrl: "https://polymarket.com/event/will-argentina-dollarize-by-december-31-2026-20260628214554778"
+expiryDate: 2026-08-11
+tags: ["elections", "politics", "polymarket"]
+polymarketYes: 25.1
+polymarketNo: 74.9
+polymarketVolume: 9806
+polymarketUrl: "https://polymarket.com/event/will-david-crowley-win-the-2026-wisconsin-governor-democratic-primary-election"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 3.8% | 96.2% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 25.1% | 74.9% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-argentina-dollarize-by-decembe
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Argentina dollarize by December 31, 2026?"?
+### What are the current odds for "Will David Crowley win the 2026 Wisconsin Governor Democratic primary election?"?
 
-As of July 17, 2026, Polymarket prices YES at 3.8%.
+As of July 17, 2026, Polymarket prices YES at 25.1%.
 
 ### Where can I trade on this prediction market?
 

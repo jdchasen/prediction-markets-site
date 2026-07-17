@@ -1,23 +1,23 @@
 ---
-title: "Will Argentina dollarize by December 31, 2026?"
-description: "Will Argentina dollarize by December 31, 2026? Odds: 3.8% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Argentina dollarize by December 31, 2026?"
+title: "Will Jordan Bardella leave the National Rally by December 31, 2026?"
+description: "Will Jordan Bardella leave the National Rally by December 31, 2026? Odds: 4.4% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Jordan Bardella leave the National Rally by December 31, 2026?"
 category: "politics"
-status: "settled"
+status: "active"
 lastUpdated: 2026-07-17
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 3.8
-polymarketNo: 96.2
-polymarketVolume: 9974
-polymarketUrl: "https://polymarket.com/event/will-argentina-dollarize-by-december-31-2026-20260628214554778"
+polymarketYes: 4.4
+polymarketNo: 95.6
+polymarketVolume: 9970
+polymarketUrl: "https://polymarket.com/event/will-jordan-bardella-leave-the-national-rally-by-december-31-2026-20260709012217844"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 3.8% | 96.2% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 4.4% | 95.6% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-argentina-dollarize-by-decembe
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Argentina dollarize by December 31, 2026?"?
+### What are the current odds for "Will Jordan Bardella leave the National Rally by December 31, 2026?"?
 
-As of July 17, 2026, Polymarket prices YES at 3.8%.
+As of July 17, 2026, Polymarket prices YES at 4.4%.
 
 ### Where can I trade on this prediction market?
 

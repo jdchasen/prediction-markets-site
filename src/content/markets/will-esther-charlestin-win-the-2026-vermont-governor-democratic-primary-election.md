@@ -9,7 +9,7 @@ expiryDate: 2026-08-11
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.2
 polymarketNo: 99.8
-polymarketVolume: 9913
+polymarketVolume: 9943
 polymarketUrl: "https://polymarket.com/event/will-esther-charlestin-win-the-2026-vermont-governor-democratic-primary-election"
 ---
 

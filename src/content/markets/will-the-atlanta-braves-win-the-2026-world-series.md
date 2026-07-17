@@ -23,7 +23,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-atlanta-braves-win-the-202
 
 - [Will Marco Rubio win the 2028 Republican presidential nomination?](/odds/will-marco-rubio-win-the-2028-republican-presidential-nomination) — 27% YES
 - [Will Eric Trump win the 2028 Republican presidential nomination?](/odds/will-eric-trump-win-the-2028-republican-presidential-nomination) — 1% YES
-- [Iran full airspace closure by July 31?](/odds/iran-full-airspace-closure-by-july-31) — 23% YES
+- [Will the New York Mets win the 2026 World Series?](/odds/will-the-new-york-mets-win-the-2026-world-series) — 0% YES
 
 ## Frequently Asked Questions
 

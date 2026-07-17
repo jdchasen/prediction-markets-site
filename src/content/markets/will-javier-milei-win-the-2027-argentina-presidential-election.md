@@ -1,23 +1,23 @@
 ---
-title: "Will Microsoft Corporation (MSFT) hit (LOW) $345 in July?"
-description: "Will Microsoft Corporation (MSFT) hit (LOW) $345 in July? Odds: 14.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Microsoft Corporation (MSFT) hit (LOW) $345 in July?"
+title: "Will Javier Milei win the 2027 Argentina presidential election?"
+description: "Will Javier Milei win the 2027 Argentina presidential election? Odds: 47.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Javier Milei win the 2027 Argentina presidential election?"
 category: "politics"
-status: "settled"
+status: "active"
 lastUpdated: 2026-07-17
-expiryDate: 2026-08-01
-tags: ["politics", "polymarket"]
-polymarketYes: 14.5
-polymarketNo: 85.5
-polymarketVolume: 9830
-polymarketUrl: "https://polymarket.com/event/will-msft-dip-to-345-in-july-2026"
+expiryDate: 2027-10-24
+tags: ["elections", "politics", "polymarket"]
+polymarketYes: 47.5
+polymarketNo: 52.5
+polymarketVolume: 98424
+polymarketUrl: "https://polymarket.com/event/will-javier-milei-win-the-2027-argentina-presidential-election"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 14.5% | 85.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 47.5% | 52.5% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-msft-dip-to-345-in-july-2026"
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Microsoft Corporation (MSFT) hit (LOW) $345 in July?"?
+### What are the current odds for "Will Javier Milei win the 2027 Argentina presidential election?"?
 
-As of July 17, 2026, Polymarket prices YES at 14.5%.
+As of July 17, 2026, Polymarket prices YES at 47.5%.
 
 ### Where can I trade on this prediction market?
 

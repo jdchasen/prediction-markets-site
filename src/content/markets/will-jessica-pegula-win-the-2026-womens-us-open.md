@@ -3,7 +3,7 @@ title: "Will Jessica Pegula win the 2026 Women’s US Open?"
 description: "Will Jessica Pegula win the 2026 Women’s US Open? Odds: 4.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Jessica Pegula win the 2026 Women’s US Open?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-07-17
 expiryDate: 2026-09-13
 tags: ["politics", "polymarket"]

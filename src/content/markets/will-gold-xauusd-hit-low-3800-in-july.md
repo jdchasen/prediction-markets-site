@@ -1,15 +1,15 @@
 ---
 title: "Will Gold (XAUUSD) hit (LOW) $3,800 in July?"
-description: "Will Gold (XAUUSD) hit (LOW) $3,800 in July? Odds: 17.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Gold (XAUUSD) hit (LOW) $3,800 in July? Odds: 15.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Gold (XAUUSD) hit (LOW) $3,800 in July?"
 category: "finance"
 status: "active"
 lastUpdated: 2026-07-17
 expiryDate: 2026-08-01
 tags: ["finance", "polymarket"]
-polymarketYes: 17.5
-polymarketNo: 82.5
-polymarketVolume: 97958
+polymarketYes: 15.0
+polymarketNo: 85.0
+polymarketVolume: 98691
 polymarketUrl: "https://polymarket.com/event/will-xauusd-dip-to-3800-in-july-2026"
 ---
 
@@ -17,13 +17,13 @@ polymarketUrl: "https://polymarket.com/event/will-xauusd-dip-to-3800-in-july-202
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 17.5% | 82.5% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 15.0% | 85.0% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Gold (XAUUSD) hit (LOW) $3,800 in July?"?
 
-As of July 17, 2026, Polymarket prices YES at 17.5%.
+As of July 17, 2026, Polymarket prices YES at 15.0%.
 
 ### Where can I trade on this prediction market?
 

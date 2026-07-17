@@ -1,14 +1,14 @@
 ---
 title: "Epstein storage units raided in 2026?"
-description: "Epstein storage units raided in 2026? Odds: 29.0% YES on Polymarket. See live prices and trade this market."
+description: "Epstein storage units raided in 2026? Odds: 30.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Epstein storage units raided in 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-07-17
 expiryDate: 2026-12-31
 tags: ["ai", "politics", "polymarket"]
-polymarketYes: 29.0
-polymarketNo: 71.0
+polymarketYes: 30.5
+polymarketNo: 69.5
 polymarketVolume: 9959
 polymarketUrl: "https://polymarket.com/event/epstein-storage-units-raided-in-2026"
 ---
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/epstein-storage-units-raided-in-202
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 29.0% | 71.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 30.5% | 69.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/epstein-storage-units-raided-in-202
 
 ### What are the current odds for "Epstein storage units raided in 2026?"?
 
-As of July 17, 2026, Polymarket prices YES at 29.0%.
+As of July 17, 2026, Polymarket prices YES at 30.5%.
 
 ### Where can I trade on this prediction market?
 

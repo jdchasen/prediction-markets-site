@@ -21,9 +21,9 @@ polymarketUrl: "https://polymarket.com/event/will-ethereum-dip-to-700-in-july-20
 
 ## Related Markets
 
-- [Will MetaMask launch a token by September 30, 2026?](/odds/will-metamask-launch-a-token-by-september-30-2026) — 3% YES
-- [Will Loopscale launch a token by December 31, 2026?](/odds/will-loopscale-launch-a-token-by-december-31-2026) — 28% YES
-- [Extended FDV above $1B one day after launch?](/odds/extended-fdv-above-1b-one-day-after-launch) — 6% YES
+- [Will MetaMask launch a token by September 30, 2026?](/odds/will-metamask-launch-a-token-by-september-30-2026) — 2% YES
+- [Will Bitcoin dip to $25,000 by December 31, 2026?](/odds/will-bitcoin-dip-to-25000-by-december-31-2026) — 6% YES
+- [Will Loopscale launch a token by December 31, 2026?](/odds/will-loopscale-launch-a-token-by-december-31-2026) — 35% YES
 
 ## Frequently Asked Questions
 

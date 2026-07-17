@@ -22,7 +22,8 @@ polymarketUrl: "https://polymarket.com/event/will-uk-annual-gdp-growth-in-2026-b
 ## Related Markets
 
 - [Will the Fed decrease interest rates by 50+ bps after the July 2026 meeting?](/odds/will-the-fed-decrease-interest-rates-by-50-bps-after-the-july-2026-meeting) — 0% YES
-- [Will Brazil’s Annual Inflation in 2026 be between 4.00% and 4.49%?](/odds/will-brazils-annual-inflation-in-2026-be-between-400-and-449) — 7% YES
+- [Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?](/odds/will-the-fed-decrease-interest-rates-by-25-bps-after-the-september-2026-meeting) — 4% YES
+- [Will Brazil’s Annual Inflation in 2026 be between 4.00% and 4.49%?](/odds/will-brazils-annual-inflation-in-2026-be-between-400-and-449) — 6% YES
 
 ## Frequently Asked Questions
 

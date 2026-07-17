@@ -3,7 +3,7 @@ title: "Will any FaZe member come out as a furry by July 31?"
 description: "Will any FaZe member come out as a furry by July 31? Odds: 5.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will any FaZe member come out as a furry by July 31?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-07-17
 expiryDate: 2026-07-31
 tags: ["politics", "polymarket"]

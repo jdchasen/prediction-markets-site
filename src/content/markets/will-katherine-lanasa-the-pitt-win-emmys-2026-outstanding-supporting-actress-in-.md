@@ -9,7 +9,7 @@ expiryDate: 2026-09-14
 tags: ["entertainment", "politics", "polymarket"]
 polymarketYes: 74.5
 polymarketNo: 25.5
-polymarketVolume: 9826
+polymarketVolume: 9831
 polymarketUrl: "https://polymarket.com/event/will-katherine-lanasa-the-pitt-win-emmys-2026-outstanding-supporting-actress-in-a-drama-series-20260709174230321"
 ---
 

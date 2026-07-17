@@ -9,7 +9,7 @@ expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
 polymarketYes: 7.5
 polymarketNo: 92.5
-polymarketVolume: 9963
+polymarketVolume: 9985
 polymarketUrl: "https://polymarket.com/event/will-the-democrats-win-the-louisiana-senate-race-in-2026"
 ---
 

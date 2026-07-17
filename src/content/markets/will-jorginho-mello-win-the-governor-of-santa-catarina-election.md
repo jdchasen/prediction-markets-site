@@ -3,7 +3,7 @@ title: "Will Jorginho Mello win the Governor of Santa Catarina election?"
 description: "Will Jorginho Mello win the Governor of Santa Catarina election? Odds: 87.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Jorginho Mello win the Governor of Santa Catarina election?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-07-17
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 87.5

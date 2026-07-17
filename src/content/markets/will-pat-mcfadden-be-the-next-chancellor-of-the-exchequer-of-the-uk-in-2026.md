@@ -8,8 +8,8 @@ lastUpdated: 2026-07-17
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 1.7
-polymarketNo: 98.4
-polymarketVolume: 97884
+polymarketNo: 98.3
+polymarketVolume: 98077
 polymarketUrl: "https://polymarket.com/event/will-pat-mcfadden-be-the-next-chancellor-of-the-exchequer-of-the-uk-in-2026-20260621005429781"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-pat-mcfadden-be-the-next-chanc
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 1.7% | 98.4% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 1.7% | 98.3% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 

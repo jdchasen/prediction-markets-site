@@ -9,7 +9,7 @@ expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 0.2
 polymarketNo: 99.8
-polymarketVolume: 98534
+polymarketVolume: 98644
 polymarketUrl: "https://polymarket.com/event/will-kendrick-lamar-be-the-top-spotify-artist-for-2026"
 ---
 

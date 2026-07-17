@@ -9,7 +9,7 @@ expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
 polymarketYes: 14.5
 polymarketNo: 85.5
-polymarketVolume: 9887
+polymarketVolume: 9893
 polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-tx-10-house-seat"
 ---
 

@@ -1,15 +1,15 @@
 ---
 title: "Will the Republican Party win the TX-27 House seat?"
-description: "Will the Republican Party win the TX-27 House seat? Odds: 89.8% YES on Polymarket. See live prices and trade this market."
+description: "Will the Republican Party win the TX-27 House seat? Odds: 90.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Republican Party win the TX-27 House seat?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-07-17
 expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
-polymarketYes: 89.8
-polymarketNo: 10.2
-polymarketVolume: 9856
+polymarketYes: 90.0
+polymarketNo: 10.1
+polymarketVolume: 9929
 polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-tx-27-house-seat"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-t
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 89.8% | 10.2% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 90.0% | 10.1% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-t
 
 ### What are the current odds for "Will the Republican Party win the TX-27 House seat?"?
 
-As of July 17, 2026, Polymarket prices YES at 89.8%.
+As of July 17, 2026, Polymarket prices YES at 90.0%.
 
 ### Where can I trade on this prediction market?
 
