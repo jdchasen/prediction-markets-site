@@ -4,12 +4,12 @@ description: "Will the Republican Party win the OH-10 House seat? Odds: 72.5% YE
 marketQuestion: "Will the Republican Party win the OH-10 House seat?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-07-16
+lastUpdated: 2026-07-17
 expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
 polymarketYes: 72.5
 polymarketNo: 27.5
-polymarketVolume: 9949
+polymarketVolume: 9999
 polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-oh-10-house-seat"
 ---
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-o
 
 ### What are the current odds for "Will the Republican Party win the OH-10 House seat?"?
 
-As of July 16, 2026, Polymarket prices YES at 72.5%.
+As of July 17, 2026, Polymarket prices YES at 72.5%.
 
 ### Where can I trade on this prediction market?
 

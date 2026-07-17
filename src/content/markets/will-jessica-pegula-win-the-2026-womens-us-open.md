@@ -1,23 +1,23 @@
 ---
-title: "Will Min Woo Lee win the 2026 TOUR Championship?"
-description: "Will Min Woo Lee win the 2026 TOUR Championship? Odds: 3.2% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Min Woo Lee win the 2026 TOUR Championship?"
+title: "Will Jessica Pegula win the 2026 Women’s US Open?"
+description: "Will Jessica Pegula win the 2026 Women’s US Open? Odds: 4.7% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Jessica Pegula win the 2026 Women’s US Open?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-07-17
-expiryDate: 2026-08-31
+expiryDate: 2026-09-13
 tags: ["politics", "polymarket"]
-polymarketYes: 3.2
-polymarketNo: 96.8
-polymarketVolume: 98242
-polymarketUrl: "https://polymarket.com/event/will-min-woo-lee-win-the-2026-tour-championship-517"
+polymarketYes: 4.7
+polymarketNo: 95.3
+polymarketVolume: 99249
+polymarketUrl: "https://polymarket.com/event/will-jessica-pegula-win-the-2026-womens-us-open"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 3.2% | 96.8% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 4.7% | 95.3% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-min-woo-lee-win-the-2026-tour-
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Min Woo Lee win the 2026 TOUR Championship?"?
+### What are the current odds for "Will Jessica Pegula win the 2026 Women’s US Open?"?
 
-As of July 17, 2026, Polymarket prices YES at 3.2%.
+As of July 17, 2026, Polymarket prices YES at 4.7%.
 
 ### Where can I trade on this prediction market?
 

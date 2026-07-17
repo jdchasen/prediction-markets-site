@@ -3,8 +3,8 @@ title: "Will the Bank of Russia increase the key rate after the July Meeting?"
 description: "Will the Bank of Russia increase the key rate after the July Meeting? Odds: 1.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Bank of Russia increase the key rate after the July Meeting?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-07-16
+status: "settled"
+lastUpdated: 2026-07-17
 expiryDate: 2026-07-24
 tags: ["politics", "polymarket"]
 polymarketYes: 1.1

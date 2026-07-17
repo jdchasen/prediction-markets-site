@@ -4,7 +4,7 @@ description: "Will the Republican Party win the AL-06 House seat? Odds: 93.5% YE
 marketQuestion: "Will the Republican Party win the AL-06 House seat?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-07-16
+lastUpdated: 2026-07-17
 expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
 polymarketYes: 93.5
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-a
 
 ### What are the current odds for "Will the Republican Party win the AL-06 House seat?"?
 
-As of July 16, 2026, Polymarket prices YES at 93.5%.
+As of July 17, 2026, Polymarket prices YES at 93.5%.
 
 ### Where can I trade on this prediction market?
 

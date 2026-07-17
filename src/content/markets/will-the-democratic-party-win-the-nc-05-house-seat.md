@@ -3,8 +3,8 @@ title: "Will the Democratic Party win the NC-05 House seat?"
 description: "Will the Democratic Party win the NC-05 House seat? Odds: 11.6% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Democratic Party win the NC-05 House seat?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-07-16
+status: "settled"
+lastUpdated: 2026-07-17
 expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
 polymarketYes: 11.6

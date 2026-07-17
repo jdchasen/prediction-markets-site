@@ -4,7 +4,7 @@ description: "Will OpenAI's valuation hit (HIGH) $900B by December 31? Odds: 72.
 marketQuestion: "Will OpenAI's valuation hit (HIGH) $900B by December 31?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-07-16
+lastUpdated: 2026-07-17
 expiryDate: 2027-01-01
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 72.0
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-openais-valuation-hit-high-900
 
 ### What are the current odds for "Will OpenAI's valuation hit (HIGH) $900B by December 31?"?
 
-As of July 16, 2026, Polymarket prices YES at 72.0%.
+As of July 17, 2026, Polymarket prices YES at 72.0%.
 
 ### Where can I trade on this prediction market?
 

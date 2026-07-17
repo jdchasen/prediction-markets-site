@@ -3,8 +3,8 @@ title: "Will Ed Miliband be the next Foreign Secretary of the UK in 2026?"
 description: "Will Ed Miliband be the next Foreign Secretary of the UK in 2026? Odds: 54.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Ed Miliband be the next Foreign Secretary of the UK in 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-07-16
+status: "settled"
+lastUpdated: 2026-07-17
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 54.0

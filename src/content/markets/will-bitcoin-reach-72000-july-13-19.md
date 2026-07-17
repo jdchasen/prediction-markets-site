@@ -3,8 +3,8 @@ title: "Will Bitcoin reach $72,000 July 13-19?"
 description: "Will Bitcoin reach $72,000 July 13-19? Odds: 0.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Bitcoin reach $72,000 July 13-19?"
 category: "crypto"
-status: "active"
-lastUpdated: 2026-07-16
+status: "settled"
+lastUpdated: 2026-07-17
 expiryDate: 2026-07-20
 tags: ["bitcoin", "crypto", "polymarket"]
 polymarketYes: 0.4

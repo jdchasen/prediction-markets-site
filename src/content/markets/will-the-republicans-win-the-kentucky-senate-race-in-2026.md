@@ -3,8 +3,8 @@ title: "Will the Republicans win the Kentucky Senate race in 2026?"
 description: "Will the Republicans win the Kentucky Senate race in 2026? Odds: 92.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Republicans win the Kentucky Senate race in 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-07-16
+status: "settled"
+lastUpdated: 2026-07-17
 tags: ["politics", "polymarket"]
 polymarketYes: 92.0
 polymarketNo: 8.1

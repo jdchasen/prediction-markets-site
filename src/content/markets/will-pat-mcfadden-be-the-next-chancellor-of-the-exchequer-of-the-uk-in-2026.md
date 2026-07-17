@@ -1,23 +1,23 @@
 ---
-title: "Will Min Woo Lee win the 2026 TOUR Championship?"
-description: "Will Min Woo Lee win the 2026 TOUR Championship? Odds: 3.2% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Min Woo Lee win the 2026 TOUR Championship?"
+title: "Will Pat McFadden be the next Chancellor of the Exchequer of the UK in 2026?"
+description: "Will Pat McFadden be the next Chancellor of the Exchequer of the UK in 2026? Odds: 1.7% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Pat McFadden be the next Chancellor of the Exchequer of the UK in 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-07-17
-expiryDate: 2026-08-31
+expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 3.2
-polymarketNo: 96.8
-polymarketVolume: 98242
-polymarketUrl: "https://polymarket.com/event/will-min-woo-lee-win-the-2026-tour-championship-517"
+polymarketYes: 1.7
+polymarketNo: 98.4
+polymarketVolume: 97884
+polymarketUrl: "https://polymarket.com/event/will-pat-mcfadden-be-the-next-chancellor-of-the-exchequer-of-the-uk-in-2026-20260621005429781"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 3.2% | 96.8% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 1.7% | 98.4% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-min-woo-lee-win-the-2026-tour-
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Min Woo Lee win the 2026 TOUR Championship?"?
+### What are the current odds for "Will Pat McFadden be the next Chancellor of the Exchequer of the UK in 2026?"?
 
-As of July 17, 2026, Polymarket prices YES at 3.2%.
+As of July 17, 2026, Polymarket prices YES at 1.7%.
 
 ### Where can I trade on this prediction market?
 

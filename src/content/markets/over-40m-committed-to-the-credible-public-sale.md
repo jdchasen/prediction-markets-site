@@ -3,8 +3,8 @@ title: "Over $40M committed to the Credible public sale?"
 description: "Over $40M committed to the Credible public sale? Odds: 11.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Over $40M committed to the Credible public sale?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-07-16
+status: "settled"
+lastUpdated: 2026-07-17
 expiryDate: 2026-08-31
 tags: ["politics", "polymarket"]
 polymarketYes: 11.0

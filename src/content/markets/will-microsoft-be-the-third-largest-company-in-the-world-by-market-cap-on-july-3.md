@@ -3,8 +3,8 @@ title: "Will Microsoft be the third-largest company in the world by market cap o
 description: "Will Microsoft be the third-largest company in the world by market cap on July 31? Odds: 0.6% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Microsoft be the third-largest company in the world by market cap on July 31?"
 category: "finance"
-status: "active"
-lastUpdated: 2026-07-16
+status: "settled"
+lastUpdated: 2026-07-17
 expiryDate: 2026-07-31
 tags: ["finance", "polymarket"]
 polymarketYes: 0.6

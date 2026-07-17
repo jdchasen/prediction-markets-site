@@ -1,15 +1,15 @@
 ---
 title: "Will the ECB announce a 25 bps decrease at the September 2026 meeting?"
-description: "Will the ECB announce a 25 bps decrease at the September 2026 meeting? Odds: 0.7% YES on Polymarket. See live prices and trade this market."
+description: "Will the ECB announce a 25 bps decrease at the September 2026 meeting? Odds: 0.6% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the ECB announce a 25 bps decrease at the September 2026 meeting?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-07-16
+lastUpdated: 2026-07-17
 expiryDate: 2026-09-10
 tags: ["politics", "polymarket"]
-polymarketYes: 0.7
+polymarketYes: 0.6
 polymarketNo: 99.4
-polymarketVolume: 9826
+polymarketVolume: 9858
 polymarketUrl: "https://polymarket.com/event/will-the-ecb-announce-a-25-bps-decrease-at-the-september-2026-meeting-20260616222656564"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-ecb-announce-a-25-bps-decr
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.7% | 99.4% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.6% | 99.4% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-ecb-announce-a-25-bps-decr
 
 ### What are the current odds for "Will the ECB announce a 25 bps decrease at the September 2026 meeting?"?
 
-As of July 16, 2026, Polymarket prices YES at 0.7%.
+As of July 17, 2026, Polymarket prices YES at 0.6%.
 
 ### Where can I trade on this prediction market?
 

@@ -3,8 +3,8 @@ title: "Will Spain score the most goals at the 2026 FIFA World Cup?"
 description: "Will Spain score the most goals at the 2026 FIFA World Cup? Odds: 0.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Spain score the most goals at the 2026 FIFA World Cup?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-07-16
+status: "settled"
+lastUpdated: 2026-07-17
 expiryDate: 2026-08-03
 tags: ["ai", "polymarket", "sports"]
 polymarketYes: 0.2

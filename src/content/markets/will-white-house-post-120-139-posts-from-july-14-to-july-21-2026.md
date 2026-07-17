@@ -4,7 +4,7 @@ description: "Will White House post 120-139 posts from July 14 to July 21, 2026?
 marketQuestion: "Will White House post 120-139 posts from July 14 to July 21, 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-07-16
+lastUpdated: 2026-07-17
 expiryDate: 2026-07-21
 tags: ["politics", "polymarket"]
 polymarketYes: 0.1
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/white-house-of-tweets-july-14-july-
 
 ### What are the current odds for "Will White House post 120-139 posts from July 14 to July 21, 2026?"?
 
-As of July 16, 2026, Polymarket prices YES at 0.1%.
+As of July 17, 2026, Polymarket prices YES at 0.1%.
 
 ### Where can I trade on this prediction market?
 

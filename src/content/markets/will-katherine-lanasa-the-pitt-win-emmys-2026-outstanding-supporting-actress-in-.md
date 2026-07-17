@@ -1,23 +1,23 @@
 ---
-title: "Will Min Woo Lee win the 2026 TOUR Championship?"
-description: "Will Min Woo Lee win the 2026 TOUR Championship? Odds: 3.2% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Min Woo Lee win the 2026 TOUR Championship?"
+title: "Will Katherine LaNasa – “The Pitt” win Emmys 2026: Outstanding supporting actress in a drama series?"
+description: "Will Katherine LaNasa – “The Pitt” win Emmys 2026: Outstanding supporting actress in a drama series? Odds: 74.5% YES on Polymarket. See live prices and trade..."
+marketQuestion: "Will Katherine LaNasa – “The Pitt” win Emmys 2026: Outstanding supporting actress in a drama series?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-07-17
-expiryDate: 2026-08-31
-tags: ["politics", "polymarket"]
-polymarketYes: 3.2
-polymarketNo: 96.8
-polymarketVolume: 98242
-polymarketUrl: "https://polymarket.com/event/will-min-woo-lee-win-the-2026-tour-championship-517"
+expiryDate: 2026-09-14
+tags: ["entertainment", "politics", "polymarket"]
+polymarketYes: 74.5
+polymarketNo: 25.5
+polymarketVolume: 9826
+polymarketUrl: "https://polymarket.com/event/will-katherine-lanasa-the-pitt-win-emmys-2026-outstanding-supporting-actress-in-a-drama-series-20260709174230321"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 3.2% | 96.8% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 74.5% | 25.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-min-woo-lee-win-the-2026-tour-
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Min Woo Lee win the 2026 TOUR Championship?"?
+### What are the current odds for "Will Katherine LaNasa – “The Pitt” win Emmys 2026: Outstanding supporting actress in a drama series?"?
 
-As of July 17, 2026, Polymarket prices YES at 3.2%.
+As of July 17, 2026, Polymarket prices YES at 74.5%.
 
 ### Where can I trade on this prediction market?
 

@@ -4,7 +4,7 @@ description: "Will the Democrats win the Louisiana Senate race in 2026? Odds: 7.
 marketQuestion: "Will the Democrats win the Louisiana Senate race in 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-07-16
+lastUpdated: 2026-07-17
 expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
 polymarketYes: 7.5
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-democrats-win-the-louisian
 
 ### What are the current odds for "Will the Democrats win the Louisiana Senate race in 2026?"?
 
-As of July 16, 2026, Polymarket prices YES at 7.5%.
+As of July 17, 2026, Polymarket prices YES at 7.5%.
 
 ### Where can I trade on this prediction market?
 

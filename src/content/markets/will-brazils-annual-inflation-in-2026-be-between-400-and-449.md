@@ -1,14 +1,14 @@
 ---
 title: "Will Brazil’s Annual Inflation in 2026 be between 4.00% and 4.49%?"
-description: "Will Brazil’s Annual Inflation in 2026 be between 4.00% and 4.49%? Odds: 6.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Brazil’s Annual Inflation in 2026 be between 4.00% and 4.49%? Odds: 6.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Brazil’s Annual Inflation in 2026 be between 4.00% and 4.49%?"
 category: "economics"
 status: "active"
-lastUpdated: 2026-07-16
+lastUpdated: 2026-07-17
 expiryDate: 2027-01-12
 tags: ["economics", "polymarket", "sports"]
-polymarketYes: 6.5
-polymarketNo: 93.5
+polymarketYes: 6.7
+polymarketNo: 93.3
 polymarketVolume: 9598
 polymarketUrl: "https://polymarket.com/event/will-brazils-annual-inflation-in-2026-be-between-4pt00-and-4pt49"
 ---
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-brazils-annual-inflation-in-20
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 6.5% | 93.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 6.7% | 93.3% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -28,7 +28,7 @@ polymarketUrl: "https://polymarket.com/event/will-brazils-annual-inflation-in-20
 
 ### What are the current odds for "Will Brazil’s Annual Inflation in 2026 be between 4.00% and 4.49%?"?
 
-As of July 16, 2026, Polymarket prices YES at 6.5%.
+As of July 17, 2026, Polymarket prices YES at 6.7%.
 
 ### Where can I trade on this prediction market?
 

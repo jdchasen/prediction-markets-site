@@ -1,14 +1,14 @@
 ---
 title: "Will Elmedin Konaković be the next Chairman of the Council of Ministers of Bosnia and Herzegovina?"
-description: "Will Elmedin Konaković be the next Chairman of the Council of Ministers of Bosnia and Herzegovina? Odds: 33.5% YES on Polymarket. See live prices and trade t..."
+description: "Will Elmedin Konaković be the next Chairman of the Council of Ministers of Bosnia and Herzegovina? Odds: 33.0% YES on Polymarket. See live prices and trade t..."
 marketQuestion: "Will Elmedin Konaković be the next Chairman of the Council of Ministers of Bosnia and Herzegovina?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-07-16
+lastUpdated: 2026-07-17
 expiryDate: 2027-12-31
 tags: ["ai", "politics", "polymarket"]
-polymarketYes: 33.5
-polymarketNo: 66.5
+polymarketYes: 33.0
+polymarketNo: 67.0
 polymarketVolume: 9916
 polymarketUrl: "https://polymarket.com/event/will-elmedin-konakovic-be-the-next-chairman-of-the-council-of-ministers-of-bosnia-and-herzegovina-20260702191248533"
 ---
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-elmedin-konakovic-be-the-next-
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 33.5% | 66.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 33.0% | 67.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-elmedin-konakovic-be-the-next-
 
 ### What are the current odds for "Will Elmedin Konaković be the next Chairman of the Council of Ministers of Bosnia and Herzegovina?"?
 
-As of July 16, 2026, Polymarket prices YES at 33.5%.
+As of July 17, 2026, Polymarket prices YES at 33.0%.
 
 ### Where can I trade on this prediction market?
 

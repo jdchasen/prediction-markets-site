@@ -3,8 +3,8 @@ title: "Swedish Open: Nuno Borges vs Luciano Darderi"
 description: "Swedish Open: Nuno Borges vs Luciano Darderi Odds: 45.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Swedish Open: Nuno Borges vs Luciano Darderi"
 category: "politics"
-status: "active"
-lastUpdated: 2026-07-16
+status: "settled"
+lastUpdated: 2026-07-17
 expiryDate: 2026-07-24
 tags: ["politics", "polymarket"]
 polymarketYes: 45.5

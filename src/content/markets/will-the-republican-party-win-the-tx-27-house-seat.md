@@ -4,12 +4,12 @@ description: "Will the Republican Party win the TX-27 House seat? Odds: 89.8% YE
 marketQuestion: "Will the Republican Party win the TX-27 House seat?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-07-16
+lastUpdated: 2026-07-17
 expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
 polymarketYes: 89.8
 polymarketNo: 10.2
-polymarketVolume: 9806
+polymarketVolume: 9856
 polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-tx-27-house-seat"
 ---
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-t
 
 ### What are the current odds for "Will the Republican Party win the TX-27 House seat?"?
 
-As of July 16, 2026, Polymarket prices YES at 89.8%.
+As of July 17, 2026, Polymarket prices YES at 89.8%.
 
 ### Where can I trade on this prediction market?
 

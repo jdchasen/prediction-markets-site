@@ -4,7 +4,7 @@ description: "Will the Democratic Party win the MD-04 House seat? Odds: 93.7% YE
 marketQuestion: "Will the Democratic Party win the MD-04 House seat?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-07-16
+lastUpdated: 2026-07-17
 expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
 polymarketYes: 93.7
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-m
 
 ### What are the current odds for "Will the Democratic Party win the MD-04 House seat?"?
 
-As of July 16, 2026, Polymarket prices YES at 93.7%.
+As of July 17, 2026, Polymarket prices YES at 93.7%.
 
 ### Where can I trade on this prediction market?
 

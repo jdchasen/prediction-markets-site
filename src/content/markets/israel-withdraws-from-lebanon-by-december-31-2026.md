@@ -4,12 +4,12 @@ description: "Israel withdraws from Lebanon by December 31, 2026? Odds: 11.5% YE
 marketQuestion: "Israel withdraws from Lebanon by December 31, 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-07-16
+lastUpdated: 2026-07-17
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 11.5
 polymarketNo: 88.5
-polymarketVolume: 99747
+polymarketVolume: 99765
 polymarketUrl: "https://polymarket.com/event/israel-withdraws-from-lebanon-by-december-31-2026"
 ---
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/israel-withdraws-from-lebanon-by-de
 
 ### What are the current odds for "Israel withdraws from Lebanon by December 31, 2026?"?
 
-As of July 16, 2026, Polymarket prices YES at 11.5%.
+As of July 17, 2026, Polymarket prices YES at 11.5%.
 
 ### Where can I trade on this prediction market?
 
