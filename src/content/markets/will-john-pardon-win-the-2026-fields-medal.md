@@ -1,15 +1,15 @@
 ---
 title: "Will John Pardon win the 2026 Fields Medal?"
-description: "Will John Pardon win the 2026 Fields Medal? Odds: 98.4% YES on Polymarket. See live prices and trade this market."
+description: "Will John Pardon win the 2026 Fields Medal? Odds: 97.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will John Pardon win the 2026 Fields Medal?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-07-17
+lastUpdated: 2026-07-18
 expiryDate: 2026-07-30
 tags: ["politics", "polymarket"]
-polymarketYes: 98.4
-polymarketNo: 1.6
-polymarketVolume: 99468
+polymarketYes: 97.5
+polymarketNo: 2.5
+polymarketVolume: 99512
 polymarketUrl: "https://polymarket.com/event/will-john-pardon-win-the-2026-fields-medal"
 ---
 
@@ -17,11 +17,11 @@ polymarketUrl: "https://polymarket.com/event/will-john-pardon-win-the-2026-field
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 98.4% | 1.6% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 97.5% | 2.5% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Marco Rubio win the 2028 Republican presidential nomination?](/odds/will-marco-rubio-win-the-2028-republican-presidential-nomination) — 27% YES
+- [Will Marco Rubio win the 2028 Republican presidential nomination?](/odds/will-marco-rubio-win-the-2028-republican-presidential-nomination) — 28% YES
 - [Will Eric Trump win the 2028 Republican presidential nomination?](/odds/will-eric-trump-win-the-2028-republican-presidential-nomination) — 1% YES
 - [Will the Atlanta Braves win the 2026 World Series?](/odds/will-the-atlanta-braves-win-the-2026-world-series) — 7% YES
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-john-pardon-win-the-2026-field
 
 ### What are the current odds for "Will John Pardon win the 2026 Fields Medal?"?
 
-As of July 17, 2026, Polymarket prices YES at 98.4%.
+As of July 18, 2026, Polymarket prices YES at 97.5%.
 
 ### Where can I trade on this prediction market?
 

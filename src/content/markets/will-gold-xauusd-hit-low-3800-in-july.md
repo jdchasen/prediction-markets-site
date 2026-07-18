@@ -3,8 +3,8 @@ title: "Will Gold (XAUUSD) hit (LOW) $3,800 in July?"
 description: "Will Gold (XAUUSD) hit (LOW) $3,800 in July? Odds: 15.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Gold (XAUUSD) hit (LOW) $3,800 in July?"
 category: "finance"
-status: "active"
-lastUpdated: 2026-07-17
+status: "settled"
+lastUpdated: 2026-07-18
 expiryDate: 2026-08-01
 tags: ["finance", "polymarket"]
 polymarketYes: 15.0

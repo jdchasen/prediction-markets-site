@@ -4,12 +4,12 @@ description: "Will Katherine LaNasa – “The Pitt” win Emmys 2026: Outstandi
 marketQuestion: "Will Katherine LaNasa – “The Pitt” win Emmys 2026: Outstanding supporting actress in a drama series?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-07-17
+lastUpdated: 2026-07-18
 expiryDate: 2026-09-14
 tags: ["entertainment", "politics", "polymarket"]
 polymarketYes: 74.5
 polymarketNo: 25.5
-polymarketVolume: 9831
+polymarketVolume: 9877
 polymarketUrl: "https://polymarket.com/event/will-katherine-lanasa-the-pitt-win-emmys-2026-outstanding-supporting-actress-in-a-drama-series-20260709174230321"
 ---
 
@@ -21,7 +21,7 @@ polymarketUrl: "https://polymarket.com/event/will-katherine-lanasa-the-pitt-win-
 
 ## Related Markets
 
-- [Will Marco Rubio win the 2028 Republican presidential nomination?](/odds/will-marco-rubio-win-the-2028-republican-presidential-nomination) — 27% YES
+- [Will Marco Rubio win the 2028 Republican presidential nomination?](/odds/will-marco-rubio-win-the-2028-republican-presidential-nomination) — 28% YES
 - [Will Eric Trump win the 2028 Republican presidential nomination?](/odds/will-eric-trump-win-the-2028-republican-presidential-nomination) — 1% YES
 - [Will the Atlanta Braves win the 2026 World Series?](/odds/will-the-atlanta-braves-win-the-2026-world-series) — 7% YES
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-katherine-lanasa-the-pitt-win-
 
 ### What are the current odds for "Will Katherine LaNasa – “The Pitt” win Emmys 2026: Outstanding supporting actress in a drama series?"?
 
-As of July 17, 2026, Polymarket prices YES at 74.5%.
+As of July 18, 2026, Polymarket prices YES at 74.5%.
 
 ### Where can I trade on this prediction market?
 

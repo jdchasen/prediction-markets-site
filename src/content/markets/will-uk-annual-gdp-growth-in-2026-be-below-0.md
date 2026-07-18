@@ -3,8 +3,8 @@ title: "Will UK annual GDP growth in 2026 be below 0%?"
 description: "Will UK annual GDP growth in 2026 be below 0%? Odds: 11.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will UK annual GDP growth in 2026 be below 0%?"
 category: "economics"
-status: "active"
-lastUpdated: 2026-07-17
+status: "settled"
+lastUpdated: 2026-07-18
 expiryDate: 2027-02-12
 tags: ["economics", "polymarket"]
 polymarketYes: 11.5

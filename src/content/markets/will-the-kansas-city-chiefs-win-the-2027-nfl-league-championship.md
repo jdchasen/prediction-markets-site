@@ -3,8 +3,8 @@ title: "Will the Kansas City Chiefs win the 2027 NFL league championship?"
 description: "Will the Kansas City Chiefs win the 2027 NFL league championship? Odds: 6.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Kansas City Chiefs win the 2027 NFL league championship?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-07-17
+status: "settled"
+lastUpdated: 2026-07-18
 expiryDate: 2027-03-31
 tags: ["polymarket", "sports"]
 polymarketYes: 6.8

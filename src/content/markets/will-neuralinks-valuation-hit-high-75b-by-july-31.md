@@ -1,23 +1,23 @@
 ---
-title: "Will the Democratic Party win the GA-02 House seat?"
-description: "Will the Democratic Party win the GA-02 House seat? Odds: 92.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will the Democratic Party win the GA-02 House seat?"
+title: "Will Neuralink's valuation hit (HIGH) $75B by July 31?"
+description: "Will Neuralink's valuation hit (HIGH) $75B by July 31? Odds: 1.8% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Neuralink's valuation hit (HIGH) $75B by July 31?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-07-18
-expiryDate: 2026-11-03
+expiryDate: 2026-08-01
 tags: ["politics", "polymarket"]
-polymarketYes: 92.5
-polymarketNo: 7.5
-polymarketVolume: 9879
-polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-ga-02-house-seat"
+polymarketYes: 1.8
+polymarketNo: 98.2
+polymarketVolume: 9878
+polymarketUrl: "https://polymarket.com/event/untitled-market-1-20260629173634756"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 92.5% | 7.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 1.8% | 98.2% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-g
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will the Democratic Party win the GA-02 House seat?"?
+### What are the current odds for "Will Neuralink's valuation hit (HIGH) $75B by July 31?"?
 
-As of July 18, 2026, Polymarket prices YES at 92.5%.
+As of July 18, 2026, Polymarket prices YES at 1.8%.
 
 ### Where can I trade on this prediction market?
 

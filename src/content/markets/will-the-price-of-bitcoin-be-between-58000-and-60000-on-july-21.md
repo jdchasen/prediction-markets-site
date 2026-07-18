@@ -3,8 +3,8 @@ title: "Will the price of Bitcoin be between $58,000 and $60,000 on July 21?"
 description: "Will the price of Bitcoin be between $58,000 and $60,000 on July 21? Odds: 1.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the price of Bitcoin be between $58,000 and $60,000 on July 21?"
 category: "crypto"
-status: "active"
-lastUpdated: 2026-07-17
+status: "settled"
+lastUpdated: 2026-07-18
 expiryDate: 2026-07-21
 tags: ["bitcoin", "crypto", "polymarket"]
 polymarketYes: 1.2

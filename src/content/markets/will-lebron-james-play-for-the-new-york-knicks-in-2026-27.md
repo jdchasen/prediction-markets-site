@@ -3,8 +3,8 @@ title: "Will LeBron James play for the New York Knicks in 2026-27?"
 description: "Will LeBron James play for the New York Knicks in 2026-27? Odds: 0.6% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will LeBron James play for the New York Knicks in 2026-27?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-07-17
+status: "settled"
+lastUpdated: 2026-07-18
 expiryDate: 2026-10-31
 tags: ["politics", "polymarket"]
 polymarketYes: 0.6

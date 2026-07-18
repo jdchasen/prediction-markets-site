@@ -1,15 +1,15 @@
 ---
 title: "China x Japan military clash before 2027?"
-description: "China x Japan military clash before 2027? Odds: 7.5% YES on Polymarket. See live prices and trade this market."
+description: "China x Japan military clash before 2027? Odds: 6.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "China x Japan military clash before 2027?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-07-17
+lastUpdated: 2026-07-18
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 7.5
-polymarketNo: 92.5
-polymarketVolume: 984555
+polymarketYes: 6.5
+polymarketNo: 93.5
+polymarketVolume: 985657
 polymarketUrl: "https://polymarket.com/event/china-x-japan-military-clash-before-2027"
 ---
 
@@ -17,11 +17,11 @@ polymarketUrl: "https://polymarket.com/event/china-x-japan-military-clash-before
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 7.5% | 92.5% | $985K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 6.5% | 93.5% | $986K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Marco Rubio win the 2028 Republican presidential nomination?](/odds/will-marco-rubio-win-the-2028-republican-presidential-nomination) — 27% YES
+- [Will Marco Rubio win the 2028 Republican presidential nomination?](/odds/will-marco-rubio-win-the-2028-republican-presidential-nomination) — 28% YES
 - [Will Eric Trump win the 2028 Republican presidential nomination?](/odds/will-eric-trump-win-the-2028-republican-presidential-nomination) — 1% YES
 - [Will the Atlanta Braves win the 2026 World Series?](/odds/will-the-atlanta-braves-win-the-2026-world-series) — 7% YES
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/china-x-japan-military-clash-before
 
 ### What are the current odds for "China x Japan military clash before 2027?"?
 
-As of July 17, 2026, Polymarket prices YES at 7.5%.
+As of July 18, 2026, Polymarket prices YES at 6.5%.
 
 ### Where can I trade on this prediction market?
 

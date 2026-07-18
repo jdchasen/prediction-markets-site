@@ -1,15 +1,15 @@
 ---
 title: "Will England score the most goals at the 2026 FIFA World Cup?"
-description: "Will England score the most goals at the 2026 FIFA World Cup? Odds: 7.5% YES on Polymarket. See live prices and trade this market."
+description: "Will England score the most goals at the 2026 FIFA World Cup? Odds: 0.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will England score the most goals at the 2026 FIFA World Cup?"
 category: "sports"
-status: "settled"
-lastUpdated: 2026-06-17
+status: "active"
+lastUpdated: 2026-07-18
 expiryDate: 2026-08-03
 tags: ["polymarket", "sports"]
-polymarketYes: 7.5
-polymarketNo: 92.5
-polymarketVolume: 9762
+polymarketYes: 0.5
+polymarketNo: 99.5
+polymarketVolume: 99501
 polymarketUrl: "https://polymarket.com/event/will-england-score-the-most-goals-at-the-2026-fifa-world-cup"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-england-score-the-most-goals-a
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 7.5% | 92.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.5% | 99.5% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Sweden win Group F in the 2026 FIFA World Cup?](/odds/will-sweden-win-group-f-in-the-2026-fifa-world-cup) — 28% YES
-- [Will Baker Mayfield win the 2026 NFL MVP?](/odds/will-baker-mayfield-win-the-2026-nfl-mvp) — 1% YES
-- [Will USA advance to the knockout stages at the 2026 FIFA World Cup?](/odds/will-usa-advance-to-the-knockout-stages-at-the-2026-fifa-world-cup) — 98% YES
+- [Will the Indianapolis Colts win the 2027 NFL league championship?](/odds/will-the-indianapolis-colts-win-the-2027-nfl-league-championship) — 1% YES
+- [Will Arizona Cardinals win the 2027 NFL NFC Championship?](/odds/will-arizona-cardinals-win-the-2027-nfl-nfc-championship) — 1% YES
+- [Will Baker Mayfield win the 2026 NFL MVP?](/odds/will-baker-mayfield-win-the-2026-nfl-mvp) — 2% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will England score the most goals at the 2026 FIFA World Cup?"?
 
-As of June 16, 2026, Polymarket prices YES at 7.5%.
+As of July 18, 2026, Polymarket prices YES at 0.5%.
 
 ### Where can I trade on this prediction market?
 

@@ -1,15 +1,15 @@
 ---
 title: "Ukraine agrees to limit size of armed forces before 2027?"
-description: "Ukraine agrees to limit size of armed forces before 2027? Odds: 8.5% YES on Polymarket. See live prices and trade this market."
+description: "Ukraine agrees to limit size of armed forces before 2027? Odds: 9.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Ukraine agrees to limit size of armed forces before 2027?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-07-17
+lastUpdated: 2026-07-18
 expiryDate: 2026-12-31
 tags: ["ai", "politics", "polymarket"]
-polymarketYes: 8.5
-polymarketNo: 91.5
-polymarketVolume: 98590
+polymarketYes: 9.0
+polymarketNo: 91.0
+polymarketVolume: 98597
 polymarketUrl: "https://polymarket.com/event/ukraine-agrees-to-limit-size-of-armed-forces-before-2027"
 ---
 
@@ -17,11 +17,11 @@ polymarketUrl: "https://polymarket.com/event/ukraine-agrees-to-limit-size-of-arm
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 8.5% | 91.5% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 9.0% | 91.0% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Marco Rubio win the 2028 Republican presidential nomination?](/odds/will-marco-rubio-win-the-2028-republican-presidential-nomination) — 27% YES
+- [Will Marco Rubio win the 2028 Republican presidential nomination?](/odds/will-marco-rubio-win-the-2028-republican-presidential-nomination) — 28% YES
 - [Will Eric Trump win the 2028 Republican presidential nomination?](/odds/will-eric-trump-win-the-2028-republican-presidential-nomination) — 1% YES
 - [Will the Atlanta Braves win the 2026 World Series?](/odds/will-the-atlanta-braves-win-the-2026-world-series) — 7% YES
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/ukraine-agrees-to-limit-size-of-arm
 
 ### What are the current odds for "Ukraine agrees to limit size of armed forces before 2027?"?
 
-As of July 17, 2026, Polymarket prices YES at 8.5%.
+As of July 18, 2026, Polymarket prices YES at 9.0%.
 
 ### Where can I trade on this prediction market?
 

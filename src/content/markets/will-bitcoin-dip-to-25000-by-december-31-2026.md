@@ -4,7 +4,7 @@ description: "Will Bitcoin dip to $25,000 by December 31, 2026? Odds: 5.5% YES o
 marketQuestion: "Will Bitcoin dip to $25,000 by December 31, 2026?"
 category: "crypto"
 status: "active"
-lastUpdated: 2026-07-17
+lastUpdated: 2026-07-18
 expiryDate: 2027-01-01
 tags: ["bitcoin", "crypto", "polymarket"]
 polymarketYes: 5.5
@@ -21,15 +21,15 @@ polymarketUrl: "https://polymarket.com/event/will-bitcoin-dip-to-25000-by-decemb
 
 ## Related Markets
 
-- [Will MetaMask launch a token by September 30, 2026?](/odds/will-metamask-launch-a-token-by-september-30-2026) — 2% YES
-- [Will Loopscale launch a token by December 31, 2026?](/odds/will-loopscale-launch-a-token-by-december-31-2026) — 35% YES
-- [Extended FDV above $1B one day after launch?](/odds/extended-fdv-above-1b-one-day-after-launch) — 6% YES
+- [Will MetaMask launch a token by September 30, 2026?](/odds/will-metamask-launch-a-token-by-september-30-2026) — 3% YES
+- [Extended FDV above $1B one day after launch?](/odds/extended-fdv-above-1b-one-day-after-launch) — 10% YES
+- [Will Loopscale launch a token by December 31, 2026?](/odds/will-loopscale-launch-a-token-by-december-31-2026) — 30% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Bitcoin dip to $25,000 by December 31, 2026?"?
 
-As of July 17, 2026, Polymarket prices YES at 5.5%.
+As of July 18, 2026, Polymarket prices YES at 5.5%.
 
 ### Where can I trade on this prediction market?
 

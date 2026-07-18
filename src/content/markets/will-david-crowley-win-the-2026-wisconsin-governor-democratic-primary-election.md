@@ -3,8 +3,8 @@ title: "Will David Crowley win the 2026 Wisconsin Governor Democratic primary el
 description: "Will David Crowley win the 2026 Wisconsin Governor Democratic primary election? Odds: 25.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will David Crowley win the 2026 Wisconsin Governor Democratic primary election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-07-17
+status: "settled"
+lastUpdated: 2026-07-18
 expiryDate: 2026-08-11
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 25.1

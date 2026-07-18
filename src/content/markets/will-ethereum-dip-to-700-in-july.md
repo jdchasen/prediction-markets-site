@@ -3,8 +3,8 @@ title: "Will Ethereum dip to $700 in July?"
 description: "Will Ethereum dip to $700 in July? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Ethereum dip to $700 in July?"
 category: "crypto"
-status: "active"
-lastUpdated: 2026-07-17
+status: "settled"
+lastUpdated: 2026-07-18
 expiryDate: 2026-08-01
 tags: ["crypto", "ethereum", "polymarket"]
 polymarketYes: 0.1

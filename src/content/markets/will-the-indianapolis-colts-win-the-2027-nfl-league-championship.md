@@ -4,12 +4,12 @@ description: "Will the Indianapolis Colts win the 2027 NFL league championship? 
 marketQuestion: "Will the Indianapolis Colts win the 2027 NFL league championship?"
 category: "sports"
 status: "active"
-lastUpdated: 2026-07-17
+lastUpdated: 2026-07-18
 expiryDate: 2027-03-31
 tags: ["polymarket", "sports"]
 polymarketYes: 1.1
 polymarketNo: 98.9
-polymarketVolume: 997158
+polymarketVolume: 997206
 polymarketUrl: "https://polymarket.com/event/will-the-indianapolis-colts-win-the-2027-nfl-league-championship"
 ---
 
@@ -21,15 +21,15 @@ polymarketUrl: "https://polymarket.com/event/will-the-indianapolis-colts-win-the
 
 ## Related Markets
 
-- [Will the Kansas City Chiefs win the 2027 NFL league championship?](/odds/will-the-kansas-city-chiefs-win-the-2027-nfl-league-championship) — 7% YES
 - [Will Arizona Cardinals win the 2027 NFL NFC Championship?](/odds/will-arizona-cardinals-win-the-2027-nfl-nfc-championship) — 1% YES
-- [Will Kansas City Chiefs win the 2027 NFL AFC Championship?](/odds/will-kansas-city-chiefs-win-the-2027-nfl-afc-championship) — 10% YES
+- [Will England score the most goals at the 2026 FIFA World Cup?](/odds/will-england-score-the-most-goals-at-the-2026-fifa-world-cup) — 0% YES
+- [Will Baker Mayfield win the 2026 NFL MVP?](/odds/will-baker-mayfield-win-the-2026-nfl-mvp) — 2% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will the Indianapolis Colts win the 2027 NFL league championship?"?
 
-As of July 17, 2026, Polymarket prices YES at 1.1%.
+As of July 18, 2026, Polymarket prices YES at 1.1%.
 
 ### Where can I trade on this prediction market?
 

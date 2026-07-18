@@ -1,23 +1,23 @@
 ---
-title: "Will Javier Milei win the 2027 Argentina presidential election?"
-description: "Will Javier Milei win the 2027 Argentina presidential election? Odds: 46.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Javier Milei win the 2027 Argentina presidential election?"
+title: "Will United Russia win between 310 and 324 seats in the next Russian State Duma election?"
+description: "Will United Russia win between 310 and 324 seats in the next Russian State Duma election? Odds: 15.7% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will United Russia win between 310 and 324 seats in the next Russian State Duma election?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-07-18
-expiryDate: 2027-10-24
+expiryDate: 2026-09-20
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 46.5
-polymarketNo: 53.5
-polymarketVolume: 98682
-polymarketUrl: "https://polymarket.com/event/will-javier-milei-win-the-2027-argentina-presidential-election"
+polymarketYes: 15.7
+polymarketNo: 84.3
+polymarketVolume: 9983
+polymarketUrl: "https://polymarket.com/event/will-united-russia-win-between-310-and-324-seats-in-the-next-russian-state-duma-election"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 46.5% | 53.5% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 15.7% | 84.3% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-javier-milei-win-the-2027-arge
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Javier Milei win the 2027 Argentina presidential election?"?
+### What are the current odds for "Will United Russia win between 310 and 324 seats in the next Russian State Duma election?"?
 
-As of July 18, 2026, Polymarket prices YES at 46.5%.
+As of July 18, 2026, Polymarket prices YES at 15.7%.
 
 ### Where can I trade on this prediction market?
 
@@ -37,6 +37,6 @@ You can trade this market on [Polymarket](https://polymarket.us/1762?utm_source=
 
 ## Learn More
 
+- [Is Kalshi Legal? State-by-State Guide (2026)](/blog/is-kalshi-legal)
 - [Will Oil Hit $100? March Crude Prediction Market Odds](/blog/will-oil-hit-100-march-crude-prediction-market-odds)
-- [Will MicroStrategy Sell Bitcoin? Market Odds](/blog/will-microstrategy-sell-bitcoin-market-odds)
 

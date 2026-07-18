@@ -4,7 +4,7 @@ description: "Will Miatta Fahnbulleh be the next Chancellor of the Exchequer of 
 marketQuestion: "Will Miatta Fahnbulleh be the next Chancellor of the Exchequer of the UK in 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-07-17
+lastUpdated: 2026-07-18
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 0.1
@@ -21,7 +21,7 @@ polymarketUrl: "https://polymarket.com/event/will-miatta-fahnbulleh-be-the-next-
 
 ## Related Markets
 
-- [Will Marco Rubio win the 2028 Republican presidential nomination?](/odds/will-marco-rubio-win-the-2028-republican-presidential-nomination) — 27% YES
+- [Will Marco Rubio win the 2028 Republican presidential nomination?](/odds/will-marco-rubio-win-the-2028-republican-presidential-nomination) — 28% YES
 - [Will Eric Trump win the 2028 Republican presidential nomination?](/odds/will-eric-trump-win-the-2028-republican-presidential-nomination) — 1% YES
 - [Will the Atlanta Braves win the 2026 World Series?](/odds/will-the-atlanta-braves-win-the-2026-world-series) — 7% YES
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-miatta-fahnbulleh-be-the-next-
 
 ### What are the current odds for "Will Miatta Fahnbulleh be the next Chancellor of the Exchequer of the UK in 2026?"?
 
-As of July 17, 2026, Polymarket prices YES at 0.1%.
+As of July 18, 2026, Polymarket prices YES at 0.1%.
 
 ### Where can I trade on this prediction market?
 

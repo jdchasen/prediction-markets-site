@@ -4,12 +4,12 @@ description: "Will the Fed decrease interest rates by 50+ bps after the July 202
 marketQuestion: "Will the Fed decrease interest rates by 50+ bps after the July 2026 meeting?"
 category: "economics"
 status: "active"
-lastUpdated: 2026-07-17
+lastUpdated: 2026-07-18
 expiryDate: 2026-07-29
 tags: ["economics", "federal-reserve", "interest-rates", "polymarket"]
 polymarketYes: 0.1
 polymarketNo: 99.9
-polymarketVolume: 9749169
+polymarketVolume: 9751736
 polymarketUrl: "https://polymarket.com/event/will-the-fed-decrease-interest-rates-by-50-bps-after-the-july-2026-meeting"
 ---
 
@@ -17,19 +17,18 @@ polymarketUrl: "https://polymarket.com/event/will-the-fed-decrease-interest-rate
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.1% | 99.9% | $9.7M | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.1% | 99.9% | $9.8M | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?](/odds/will-the-fed-decrease-interest-rates-by-25-bps-after-the-september-2026-meeting) — 4% YES
-- [Will UK annual GDP growth in 2026 be below 0%?](/odds/will-uk-annual-gdp-growth-in-2026-be-below-0) — 12% YES
 - [Will Brazil’s Annual Inflation in 2026 be between 4.00% and 4.49%?](/odds/will-brazils-annual-inflation-in-2026-be-between-400-and-449) — 6% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will the Fed decrease interest rates by 50+ bps after the July 2026 meeting?"?
 
-As of July 17, 2026, Polymarket prices YES at 0.1%.
+As of July 18, 2026, Polymarket prices YES at 0.1%.
 
 ### Where can I trade on this prediction market?
 
