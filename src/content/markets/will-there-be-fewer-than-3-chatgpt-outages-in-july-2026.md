@@ -3,7 +3,7 @@ title: "Will there be fewer than 3 ChatGPT outages in July 2026?"
 description: "Will there be fewer than 3 ChatGPT outages in July 2026? Odds: 0.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will there be fewer than 3 ChatGPT outages in July 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-07-18
 expiryDate: 2026-07-31
 tags: ["ai", "politics", "polymarket"]

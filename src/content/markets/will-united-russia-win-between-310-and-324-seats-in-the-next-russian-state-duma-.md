@@ -3,7 +3,7 @@ title: "Will United Russia win between 310 and 324 seats in the next Russian Sta
 description: "Will United Russia win between 310 and 324 seats in the next Russian State Duma election? Odds: 15.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will United Russia win between 310 and 324 seats in the next Russian State Duma election?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-07-18
 expiryDate: 2026-09-20
 tags: ["elections", "politics", "polymarket"]

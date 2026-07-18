@@ -1,23 +1,23 @@
 ---
-title: "Will Jordan Bardella leave the National Rally by December 31, 2026?"
-description: "Will Jordan Bardella leave the National Rally by December 31, 2026? Odds: 3.6% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Jordan Bardella leave the National Rally by December 31, 2026?"
+title: "Will LeBron James play for the Washington Wizards in 2026-27?"
+description: "Will LeBron James play for the Washington Wizards in 2026-27? Odds: 0.3% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will LeBron James play for the Washington Wizards in 2026-27?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-07-18
-expiryDate: 2026-12-31
+expiryDate: 2026-11-01
 tags: ["politics", "polymarket"]
-polymarketYes: 3.6
-polymarketNo: 96.4
-polymarketVolume: 9979
-polymarketUrl: "https://polymarket.com/event/will-jordan-bardella-leave-the-national-rally-by-december-31-2026-20260709012217844"
+polymarketYes: 0.3
+polymarketNo: 99.7
+polymarketVolume: 993809
+polymarketUrl: "https://polymarket.com/event/will-lebron-james-play-for-the-washington-wizards-in-2026-27"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 3.6% | 96.4% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.3% | 99.7% | $994K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-jordan-bardella-leave-the-nati
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Jordan Bardella leave the National Rally by December 31, 2026?"?
+### What are the current odds for "Will LeBron James play for the Washington Wizards in 2026-27?"?
 
-As of July 18, 2026, Polymarket prices YES at 3.6%.
+As of July 18, 2026, Polymarket prices YES at 0.3%.
 
 ### Where can I trade on this prediction market?
 

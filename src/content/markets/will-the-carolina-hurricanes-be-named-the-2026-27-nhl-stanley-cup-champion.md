@@ -23,7 +23,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-carolina-hurricanes-be-nam
 
 - [Will the Indianapolis Colts win the 2027 NFL league championship?](/odds/will-the-indianapolis-colts-win-the-2027-nfl-league-championship) — 1% YES
 - [Will Arizona Cardinals win the 2027 NFL NFC Championship?](/odds/will-arizona-cardinals-win-the-2027-nfl-nfc-championship) — 1% YES
-- [Will England score the most goals at the 2026 FIFA World Cup?](/odds/will-england-score-the-most-goals-at-the-2026-fifa-world-cup) — 0% YES
+- [Will Baker Mayfield win the 2026 NFL MVP?](/odds/will-baker-mayfield-win-the-2026-nfl-mvp) — 2% YES
 
 ## Frequently Asked Questions
 

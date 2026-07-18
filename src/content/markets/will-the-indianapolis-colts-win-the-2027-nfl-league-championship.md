@@ -9,7 +9,7 @@ expiryDate: 2027-03-31
 tags: ["polymarket", "sports"]
 polymarketYes: 1.1
 polymarketNo: 98.9
-polymarketVolume: 997206
+polymarketVolume: 997345
 polymarketUrl: "https://polymarket.com/event/will-the-indianapolis-colts-win-the-2027-nfl-league-championship"
 ---
 
@@ -22,8 +22,8 @@ polymarketUrl: "https://polymarket.com/event/will-the-indianapolis-colts-win-the
 ## Related Markets
 
 - [Will Arizona Cardinals win the 2027 NFL NFC Championship?](/odds/will-arizona-cardinals-win-the-2027-nfl-nfc-championship) — 1% YES
-- [Will England score the most goals at the 2026 FIFA World Cup?](/odds/will-england-score-the-most-goals-at-the-2026-fifa-world-cup) — 0% YES
 - [Will Baker Mayfield win the 2026 NFL MVP?](/odds/will-baker-mayfield-win-the-2026-nfl-mvp) — 2% YES
+- [Will the Carolina Hurricanes be named the 2026-27 NHL Stanley Cup Champion?](/odds/will-the-carolina-hurricanes-be-named-the-2026-27-nhl-stanley-cup-champion) — 10% YES
 
 ## Frequently Asked Questions
 

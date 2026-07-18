@@ -9,7 +9,7 @@ expiryDate: 2026-09-14
 tags: ["entertainment", "politics", "polymarket"]
 polymarketYes: 74.5
 polymarketNo: 25.5
-polymarketVolume: 9877
+polymarketVolume: 9903
 polymarketUrl: "https://polymarket.com/event/will-katherine-lanasa-the-pitt-win-emmys-2026-outstanding-supporting-actress-in-a-drama-series-20260709174230321"
 ---
 
@@ -21,8 +21,8 @@ polymarketUrl: "https://polymarket.com/event/will-katherine-lanasa-the-pitt-win-
 
 ## Related Markets
 
-- [Will Marco Rubio win the 2028 Republican presidential nomination?](/odds/will-marco-rubio-win-the-2028-republican-presidential-nomination) — 28% YES
 - [Will Eric Trump win the 2028 Republican presidential nomination?](/odds/will-eric-trump-win-the-2028-republican-presidential-nomination) — 1% YES
+- [Will Marco Rubio win the 2028 Republican presidential nomination?](/odds/will-marco-rubio-win-the-2028-republican-presidential-nomination) — 28% YES
 - [Will the Atlanta Braves win the 2026 World Series?](/odds/will-the-atlanta-braves-win-the-2026-world-series) — 7% YES
 
 ## Frequently Asked Questions

@@ -21,9 +21,9 @@ polymarketUrl: "https://polymarket.com/event/will-apyx-launch-a-token-by-septemb
 
 ## Related Markets
 
+- [Will Bitcoin reach $70,000 in July?](/odds/will-bitcoin-reach-70000-in-july) — 20% YES
 - [Will MetaMask launch a token by September 30, 2026?](/odds/will-metamask-launch-a-token-by-september-30-2026) — 3% YES
 - [Will Bitcoin dip to $25,000 by December 31, 2026?](/odds/will-bitcoin-dip-to-25000-by-december-31-2026) — 6% YES
-- [Extended FDV above $1B one day after launch?](/odds/extended-fdv-above-1b-one-day-after-launch) — 10% YES
 
 ## Frequently Asked Questions
 

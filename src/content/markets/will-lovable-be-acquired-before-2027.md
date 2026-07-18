@@ -1,15 +1,15 @@
 ---
 title: "Will Lovable be acquired before 2027?"
-description: "Will Lovable be acquired before 2027? Odds: 13.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Lovable be acquired before 2027? Odds: 10.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Lovable be acquired before 2027?"
 category: "politics"
-status: "settled"
-lastUpdated: 2026-07-15
+status: "active"
+lastUpdated: 2026-07-18
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 13.5
-polymarketNo: 86.5
-polymarketVolume: 974375
+polymarketYes: 10.5
+polymarketNo: 89.5
+polymarketVolume: 974696
 polymarketUrl: "https://polymarket.com/event/will-lovable-be-acquired-before-2027-423-881"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-lovable-be-acquired-before-202
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 13.5% | 86.5% | $974K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 10.5% | 89.5% | $975K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Trump out as President before 2027?](/odds/trump-out-as-president-before-2027) — 8% YES
-- [Will Marco Rubio win the 2028 Republican presidential nomination?](/odds/will-marco-rubio-win-the-2028-republican-presidential-nomination) — 27% YES
 - [Will Eric Trump win the 2028 Republican presidential nomination?](/odds/will-eric-trump-win-the-2028-republican-presidential-nomination) — 1% YES
+- [Will Marco Rubio win the 2028 Republican presidential nomination?](/odds/will-marco-rubio-win-the-2028-republican-presidential-nomination) — 28% YES
+- [Will the Atlanta Braves win the 2026 World Series?](/odds/will-the-atlanta-braves-win-the-2026-world-series) — 7% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Lovable be acquired before 2027?"?
 
-As of July 14, 2026, Polymarket prices YES at 13.5%.
+As of July 18, 2026, Polymarket prices YES at 10.5%.
 
 ### Where can I trade on this prediction market?
 

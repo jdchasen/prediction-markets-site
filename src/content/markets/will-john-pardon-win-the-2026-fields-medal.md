@@ -3,7 +3,7 @@ title: "Will John Pardon win the 2026 Fields Medal?"
 description: "Will John Pardon win the 2026 Fields Medal? Odds: 97.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will John Pardon win the 2026 Fields Medal?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-07-18
 expiryDate: 2026-07-30
 tags: ["politics", "polymarket"]

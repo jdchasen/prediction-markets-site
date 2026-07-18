@@ -23,7 +23,7 @@ polymarketUrl: "https://polymarket.com/event/will-baker-mayfield-win-the-2026-nf
 
 - [Will the Indianapolis Colts win the 2027 NFL league championship?](/odds/will-the-indianapolis-colts-win-the-2027-nfl-league-championship) — 1% YES
 - [Will Arizona Cardinals win the 2027 NFL NFC Championship?](/odds/will-arizona-cardinals-win-the-2027-nfl-nfc-championship) — 1% YES
-- [Will England score the most goals at the 2026 FIFA World Cup?](/odds/will-england-score-the-most-goals-at-the-2026-fifa-world-cup) — 0% YES
+- [Will the Carolina Hurricanes be named the 2026-27 NHL Stanley Cup Champion?](/odds/will-the-carolina-hurricanes-be-named-the-2026-27-nhl-stanley-cup-champion) — 10% YES
 
 ## Frequently Asked Questions
 
