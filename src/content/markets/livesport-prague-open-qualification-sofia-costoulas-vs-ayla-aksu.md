@@ -3,7 +3,7 @@ title: "Livesport Prague Open, Qualification: Sofia Costoulas vs Ayla Aksu"
 description: "Livesport Prague Open, Qualification: Sofia Costoulas vs Ayla Aksu Odds: 60.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Livesport Prague Open, Qualification: Sofia Costoulas vs Ayla Aksu"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-07-19
 expiryDate: 2026-07-26
 tags: ["politics", "polymarket"]

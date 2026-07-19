@@ -21,9 +21,7 @@ polymarketUrl: "https://polymarket.com/event/will-spacexai-have-the-best-ai-mode
 
 ## Related Markets
 
-- [Will SpaceX Starship Flight Test 13 Superheavy explode?](/odds/will-spacex-starship-flight-test-13-superheavy-explode) — 77% YES
 - [Will less than 5 SpaceX Starship launches successfully reach Space in 2026?](/odds/will-less-than-5-spacex-starship-launches-successfully-reach-space-in-2026) — 31% YES
-- [Will Elon Musk post 420-439 tweets from July 21 to July 28, 2026?](/odds/will-elon-musk-post-420-439-tweets-from-july-21-to-july-28-2026) — 0% YES
 
 ## Frequently Asked Questions
 

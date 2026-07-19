@@ -3,7 +3,7 @@ title: "Estoril Open, Qualification: Kyrian Jacquet vs Taro Daniel"
 description: "Estoril Open, Qualification: Kyrian Jacquet vs Taro Daniel Odds: 57.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Estoril Open, Qualification: Kyrian Jacquet vs Taro Daniel"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-07-19
 expiryDate: 2026-07-26
 tags: ["politics", "polymarket"]

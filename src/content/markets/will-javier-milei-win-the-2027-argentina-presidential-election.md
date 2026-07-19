@@ -3,7 +3,7 @@ title: "Will Javier Milei win the 2027 Argentina presidential election?"
 description: "Will Javier Milei win the 2027 Argentina presidential election? Odds: 48.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Javier Milei win the 2027 Argentina presidential election?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-07-19
 expiryDate: 2027-10-24
 tags: ["elections", "politics", "polymarket"]

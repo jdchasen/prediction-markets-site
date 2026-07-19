@@ -21,9 +21,7 @@ polymarketUrl: "https://polymarket.com/event/will-less-than-5-spacex-starship-la
 
 ## Related Markets
 
-- [Will SpaceX Starship Flight Test 13 Superheavy explode?](/odds/will-spacex-starship-flight-test-13-superheavy-explode) — 77% YES
-- [Will Elon Musk post 420-439 tweets from July 21 to July 28, 2026?](/odds/will-elon-musk-post-420-439-tweets-from-july-21-to-july-28-2026) — 0% YES
-- [Will Elon Musk post 140-159 tweets from July 17 to July 24, 2026?](/odds/will-elon-musk-post-140-159-tweets-from-july-17-to-july-24-2026) — 20% YES
+- [Will SpaceXAI have the best AI model at the end of August 2026?](/odds/will-spacexai-have-the-best-ai-model-at-the-end-of-august-2026) — 0% YES
 
 ## Frequently Asked Questions
 

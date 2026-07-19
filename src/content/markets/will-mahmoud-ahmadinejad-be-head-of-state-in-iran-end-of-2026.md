@@ -9,7 +9,7 @@ expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 0.3
 polymarketNo: 99.7
-polymarketVolume: 972144
+polymarketVolume: 972720
 polymarketUrl: "https://polymarket.com/event/will-mahmoud-ahmadinejad-be-head-of-state-in-iran-end-of-2026"
 ---
 
@@ -17,11 +17,11 @@ polymarketUrl: "https://polymarket.com/event/will-mahmoud-ahmadinejad-be-head-of
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.3% | 99.7% | $972K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.3% | 99.7% | $973K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Marco Rubio win the 2028 Republican presidential nomination?](/odds/will-marco-rubio-win-the-2028-republican-presidential-nomination) — 28% YES
+- [Will Marco Rubio win the 2028 Republican presidential nomination?](/odds/will-marco-rubio-win-the-2028-republican-presidential-nomination) — 27% YES
 - [Will Eric Trump win the 2028 Republican presidential nomination?](/odds/will-eric-trump-win-the-2028-republican-presidential-nomination) — 0% YES
 - [Will the New York Mets win the 2026 World Series?](/odds/will-the-new-york-mets-win-the-2026-world-series) — 0% YES
 

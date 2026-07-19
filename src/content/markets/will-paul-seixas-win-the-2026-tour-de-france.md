@@ -3,7 +3,7 @@ title: "Will Paul Seixas win the 2026 Tour De France?"
 description: "Will Paul Seixas win the 2026 Tour De France? Odds: 0.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Paul Seixas win the 2026 Tour De France?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-07-19
 expiryDate: 2026-08-09
 tags: ["politics", "polymarket"]

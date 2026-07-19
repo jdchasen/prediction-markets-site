@@ -3,7 +3,7 @@ title: "KBO: Doosan Bears vs. NC Dinos"
 description: "KBO: Doosan Bears vs. NC Dinos Odds: 98.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "KBO: Doosan Bears vs. NC Dinos"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-07-19
 expiryDate: 2026-07-26
 tags: ["politics", "polymarket"]

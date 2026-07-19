@@ -23,6 +23,7 @@ polymarketUrl: "https://polymarket.com/event/bank-of-england-decreases-interest-
 
 - [Will Brazil’s Annual Inflation in 2026 be between 4.00% and 4.49%?](/odds/will-brazils-annual-inflation-in-2026-be-between-400-and-449) — 7% YES
 - [Will Core CPI MoM be 0.1% in July?](/odds/will-core-cpi-mom-be-01-in-july) — 26% YES
+- [Will Mexico GDP growth in Q2 2026 be between -0.5% and 0.0%?](/odds/will-mexico-gdp-growth-in-q2-2026-be-between-05-and-00) — 8% YES
 
 ## Frequently Asked Questions
 

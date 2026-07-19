@@ -23,6 +23,7 @@ polymarketUrl: "https://polymarket.com/event/will-core-cpi-mom-be-0pt1-in-july-2
 
 - [Will Brazil’s Annual Inflation in 2026 be between 4.00% and 4.49%?](/odds/will-brazils-annual-inflation-in-2026-be-between-400-and-449) — 7% YES
 - [Bank of England decreases interest rates by 50+ bps after July 2026 meeting?](/odds/bank-of-england-decreases-interest-rates-by-50-bps-after-july-2026-meeting) — 0% YES
+- [Will Mexico GDP growth in Q2 2026 be between -0.5% and 0.0%?](/odds/will-mexico-gdp-growth-in-q2-2026-be-between-05-and-00) — 8% YES
 
 ## Frequently Asked Questions
 

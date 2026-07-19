@@ -3,7 +3,7 @@ title: "Will Julian Alvarez join Barcelona?"
 description: "Will Julian Alvarez join Barcelona? Odds: 27.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Julian Alvarez join Barcelona?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-07-19
 expiryDate: 2026-09-02
 tags: ["politics", "polymarket"]

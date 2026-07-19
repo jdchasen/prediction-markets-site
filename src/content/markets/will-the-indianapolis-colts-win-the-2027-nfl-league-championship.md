@@ -9,7 +9,7 @@ expiryDate: 2027-03-31
 tags: ["polymarket", "sports"]
 polymarketYes: 1.1
 polymarketNo: 98.9
-polymarketVolume: 998345
+polymarketVolume: 998400
 polymarketUrl: "https://polymarket.com/event/will-the-indianapolis-colts-win-the-2027-nfl-league-championship"
 ---
 
