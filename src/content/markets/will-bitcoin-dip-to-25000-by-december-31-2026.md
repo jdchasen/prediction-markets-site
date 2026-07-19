@@ -4,12 +4,12 @@ description: "Will Bitcoin dip to $25,000 by December 31, 2026? Odds: 5.5% YES o
 marketQuestion: "Will Bitcoin dip to $25,000 by December 31, 2026?"
 category: "crypto"
 status: "active"
-lastUpdated: 2026-07-18
+lastUpdated: 2026-07-19
 expiryDate: 2027-01-01
 tags: ["bitcoin", "crypto", "polymarket"]
 polymarketYes: 5.5
 polymarketNo: 94.5
-polymarketVolume: 982038
+polymarketVolume: 985792
 polymarketUrl: "https://polymarket.com/event/will-bitcoin-dip-to-25000-by-december-31-2026-948-243-253-666-115-787-981-282-573-719-186-417-762-754-486-851-278-145-417-178"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-bitcoin-dip-to-25000-by-decemb
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 5.5% | 94.5% | $982K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 5.5% | 94.5% | $986K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Bitcoin reach $70,000 in July?](/odds/will-bitcoin-reach-70000-in-july) — 20% YES
 - [Will MetaMask launch a token by September 30, 2026?](/odds/will-metamask-launch-a-token-by-september-30-2026) — 3% YES
+- [Extended FDV above $500M one day after launch?](/odds/extended-fdv-above-500m-one-day-after-launch) — 24% YES
 - [Extended FDV above $1B one day after launch?](/odds/extended-fdv-above-1b-one-day-after-launch) — 10% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Bitcoin dip to $25,000 by December 31, 2026?"?
 
-As of July 18, 2026, Polymarket prices YES at 5.5%.
+As of July 19, 2026, Polymarket prices YES at 5.5%.
 
 ### Where can I trade on this prediction market?
 

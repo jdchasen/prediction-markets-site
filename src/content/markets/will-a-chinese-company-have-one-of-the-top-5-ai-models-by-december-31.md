@@ -3,8 +3,8 @@ title: "Will a Chinese company have one of the top 5 AI models by December 31?"
 description: "Will a Chinese company have one of the top 5 AI models by December 31? Odds: 68.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will a Chinese company have one of the top 5 AI models by December 31?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-07-18
+status: "settled"
+lastUpdated: 2026-07-19
 expiryDate: 2026-12-31
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 68.5

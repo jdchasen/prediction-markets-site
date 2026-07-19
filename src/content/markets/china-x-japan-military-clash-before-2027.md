@@ -3,8 +3,8 @@ title: "China x Japan military clash before 2027?"
 description: "China x Japan military clash before 2027? Odds: 6.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "China x Japan military clash before 2027?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-07-18
+status: "settled"
+lastUpdated: 2026-07-19
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 6.5

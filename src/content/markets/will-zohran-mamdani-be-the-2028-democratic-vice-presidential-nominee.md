@@ -3,8 +3,8 @@ title: "Will Zohran Mamdani be the 2028 Democratic Vice-Presidential nominee?"
 description: "Will Zohran Mamdani be the 2028 Democratic Vice-Presidential nominee? Odds: 8.6% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Zohran Mamdani be the 2028 Democratic Vice-Presidential nominee?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-07-18
+status: "settled"
+lastUpdated: 2026-07-19
 expiryDate: 2028-08-10
 tags: ["politics", "polymarket"]
 polymarketYes: 8.6

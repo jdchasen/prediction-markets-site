@@ -3,8 +3,8 @@ title: "Will the Atlanta Braves win the 2026 World Series?"
 description: "Will the Atlanta Braves win the 2026 World Series? Odds: 7.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Atlanta Braves win the 2026 World Series?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-07-18
+status: "settled"
+lastUpdated: 2026-07-19
 expiryDate: 2026-10-31
 tags: ["politics", "polymarket"]
 polymarketYes: 7.1

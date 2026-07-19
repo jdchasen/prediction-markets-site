@@ -3,8 +3,8 @@ title: "Will Russia enter Myrne by July 31, 2026?"
 description: "Will Russia enter Myrne by July 31, 2026? Odds: 26.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Russia enter Myrne by July 31, 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-07-18
+status: "settled"
+lastUpdated: 2026-07-19
 expiryDate: 2026-07-31
 tags: ["politics", "polymarket"]
 polymarketYes: 26.5

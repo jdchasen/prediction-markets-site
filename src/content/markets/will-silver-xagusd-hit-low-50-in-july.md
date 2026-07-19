@@ -3,8 +3,8 @@ title: "Will Silver (XAGUSD) hit (LOW) $50 in July?"
 description: "Will Silver (XAGUSD) hit (LOW) $50 in July? Odds: 9.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Silver (XAGUSD) hit (LOW) $50 in July?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-07-18
+status: "settled"
+lastUpdated: 2026-07-19
 expiryDate: 2026-08-01
 tags: ["politics", "polymarket"]
 polymarketYes: 9.5

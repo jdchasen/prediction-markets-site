@@ -3,8 +3,8 @@ title: "Will the number of Republican Senate members who retire in 2026 be exact
 description: "Will the number of Republican Senate members who retire in 2026 be exactly 7? Odds: 30.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the number of Republican Senate members who retire in 2026 be exactly 7?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-07-18
+status: "settled"
+lastUpdated: 2026-07-19
 expiryDate: 2026-08-31
 tags: ["politics", "polymarket"]
 polymarketYes: 30.5

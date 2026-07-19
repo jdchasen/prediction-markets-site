@@ -3,8 +3,8 @@ title: "Will Elmedin Konaković be the next Chairman of the Council of Ministers
 description: "Will Elmedin Konaković be the next Chairman of the Council of Ministers of Bosnia and Herzegovina? Odds: 29.5% YES on Polymarket. See live prices and trade t..."
 marketQuestion: "Will Elmedin Konaković be the next Chairman of the Council of Ministers of Bosnia and Herzegovina?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-07-18
+status: "settled"
+lastUpdated: 2026-07-19
 expiryDate: 2027-12-31
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 29.5
