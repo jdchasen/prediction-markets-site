@@ -3,7 +3,7 @@ title: "Israel x Iran ceasefire continues through July 25?"
 description: "Israel x Iran ceasefire continues through July 25? Odds: 85.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Israel x Iran ceasefire continues through July 25?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-07-20
 expiryDate: 2026-07-25
 tags: ["politics", "polymarket"]

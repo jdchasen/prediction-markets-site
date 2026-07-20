@@ -3,7 +3,7 @@ title: "Will Katherine LaNasa – “The Pitt” win Emmys 2026: Outstanding sup
 description: "Will Katherine LaNasa – “The Pitt” win Emmys 2026: Outstanding supporting actress in a drama series? Odds: 74.5% YES on Polymarket. See live prices and trade..."
 marketQuestion: "Will Katherine LaNasa – “The Pitt” win Emmys 2026: Outstanding supporting actress in a drama series?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-07-20
 expiryDate: 2026-09-14
 tags: ["entertainment", "politics", "polymarket"]

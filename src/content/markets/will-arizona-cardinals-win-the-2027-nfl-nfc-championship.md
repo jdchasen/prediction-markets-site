@@ -23,7 +23,7 @@ polymarketUrl: "https://polymarket.com/event/will-arizona-cardinals-win-the-2027
 
 - [Will the Indianapolis Colts win the 2027 NFL league championship?](/odds/will-the-indianapolis-colts-win-the-2027-nfl-league-championship) — 1% YES
 - [Will the Pittsburgh Steelers win the 2027 NFL league championship?](/odds/will-the-pittsburgh-steelers-win-the-2027-nfl-league-championship) — 1% YES
-- [Will LeBron James play for the Boston Celtics in 2026-27?](/odds/will-lebron-james-play-for-the-boston-celtics-in-2026-27) — 0% YES
+- [Will the Chicago Bears win the 2027 NFL league championship?](/odds/will-the-chicago-bears-win-the-2027-nfl-league-championship) — 3% YES
 
 ## Frequently Asked Questions
 

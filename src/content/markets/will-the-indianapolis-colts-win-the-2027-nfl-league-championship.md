@@ -9,7 +9,7 @@ expiryDate: 2027-03-31
 tags: ["polymarket", "sports"]
 polymarketYes: 1.1
 polymarketNo: 98.9
-polymarketVolume: 999894
+polymarketVolume: 999956
 polymarketUrl: "https://polymarket.com/event/will-the-indianapolis-colts-win-the-2027-nfl-league-championship"
 ---
 
@@ -23,7 +23,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-indianapolis-colts-win-the
 
 - [Will the Pittsburgh Steelers win the 2027 NFL league championship?](/odds/will-the-pittsburgh-steelers-win-the-2027-nfl-league-championship) — 1% YES
 - [Will Arizona Cardinals win the 2027 NFL NFC Championship?](/odds/will-arizona-cardinals-win-the-2027-nfl-nfc-championship) — 1% YES
-- [Will LeBron James play for the Boston Celtics in 2026-27?](/odds/will-lebron-james-play-for-the-boston-celtics-in-2026-27) — 0% YES
+- [Will the Chicago Bears win the 2027 NFL league championship?](/odds/will-the-chicago-bears-win-the-2027-nfl-league-championship) — 3% YES
 
 ## Frequently Asked Questions
 

@@ -3,7 +3,7 @@ title: "Will LeBron James play for the Houston Rockets in 2026-27?"
 description: "Will LeBron James play for the Houston Rockets in 2026-27? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will LeBron James play for the Houston Rockets in 2026-27?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-07-20
 expiryDate: 2026-10-31
 tags: ["politics", "polymarket"]

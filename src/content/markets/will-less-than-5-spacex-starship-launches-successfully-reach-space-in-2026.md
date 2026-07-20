@@ -22,6 +22,7 @@ polymarketUrl: "https://polymarket.com/event/will-less-than-5-spacex-starship-la
 ## Related Markets
 
 - [Will Elon Musk post 60-79 tweets from July 17 to July 24, 2026?](/odds/will-elon-musk-post-60-79-tweets-from-july-17-to-july-24-2026) — 0% YES
+- [Will Elon Musk post 100-119 tweets from July 21 to July 28, 2026?](/odds/will-elon-musk-post-100-119-tweets-from-july-21-to-july-28-2026) — 6% YES
 
 ## Frequently Asked Questions
 

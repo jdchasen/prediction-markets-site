@@ -1,15 +1,15 @@
 ---
 title: "Will France send warships through the Strait of Hormuz by July 31, 2026?"
-description: "Will France send warships through the Strait of Hormuz by July 31, 2026? Odds: 2.2% YES on Polymarket. See live prices and trade this market."
+description: "Will France send warships through the Strait of Hormuz by July 31, 2026? Odds: 2.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will France send warships through the Strait of Hormuz by July 31, 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-07-20
 expiryDate: 2026-07-31
 tags: ["ai", "politics", "polymarket"]
-polymarketYes: 2.2
-polymarketNo: 97.8
-polymarketVolume: 98605
+polymarketYes: 2.1
+polymarketNo: 97.9
+polymarketVolume: 99169
 polymarketUrl: "https://polymarket.com/event/will-france-send-warships-through-the-strait-of-hormuz-by-july-31-2026-20260701001952740"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-france-send-warships-through-t
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 2.2% | 97.8% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 2.1% | 97.9% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Marco Rubio win the 2028 Republican presidential nomination?](/odds/will-marco-rubio-win-the-2028-republican-presidential-nomination) — 28% YES
 - [Will Eric Trump win the 2028 Republican presidential nomination?](/odds/will-eric-trump-win-the-2028-republican-presidential-nomination) — 0% YES
-- [Will LeBron James play for the Houston Rockets in 2026-27?](/odds/will-lebron-james-play-for-the-houston-rockets-in-2026-27) — 0% YES
+- [Will the New York Mets win the 2026 World Series?](/odds/will-the-new-york-mets-win-the-2026-world-series) — 0% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will France send warships through the Strait of Hormuz by July 31, 2026?"?
 
-As of July 20, 2026, Polymarket prices YES at 2.2%.
+As of July 20, 2026, Polymarket prices YES at 2.1%.
 
 ### Where can I trade on this prediction market?
 

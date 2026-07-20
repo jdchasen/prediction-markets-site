@@ -9,7 +9,7 @@ expiryDate: 2027-05-30
 tags: ["polymarket", "sports"]
 polymarketYes: 1.2
 polymarketNo: 98.8
-polymarketVolume: 9848
+polymarketVolume: 9898
 polymarketUrl: "https://polymarket.com/event/will-aston-villa-win-the-2026-27-uefa-champions-league-championship-20260701202025551"
 ---
 

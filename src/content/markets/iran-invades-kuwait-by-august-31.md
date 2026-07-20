@@ -3,7 +3,7 @@ title: "Iran invades Kuwait by August 31?"
 description: "Iran invades Kuwait by August 31? Odds: 4.3% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Iran invades Kuwait by August 31?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-07-20
 expiryDate: 2026-08-31
 tags: ["ai", "politics", "polymarket"]

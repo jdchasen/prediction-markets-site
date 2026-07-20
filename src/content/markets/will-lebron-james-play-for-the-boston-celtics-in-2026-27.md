@@ -3,7 +3,7 @@ title: "Will LeBron James play for the Boston Celtics in 2026-27?"
 description: "Will LeBron James play for the Boston Celtics in 2026-27? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will LeBron James play for the Boston Celtics in 2026-27?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-07-20
 expiryDate: 2026-10-31
 tags: ["polymarket", "sports"]

@@ -3,7 +3,7 @@ title: "Netanyahu drops out of Israel election by September 30?"
 description: "Netanyahu drops out of Israel election by September 30? Odds: 19.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Netanyahu drops out of Israel election by September 30?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-07-20
 expiryDate: 2026-09-30
 tags: ["elections", "politics", "polymarket"]

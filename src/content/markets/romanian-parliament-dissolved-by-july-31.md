@@ -1,23 +1,23 @@
 ---
-title: "Will XRP reach $2.00 in July?"
-description: "Will XRP reach $2.00 in July? Odds: 0.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will XRP reach $2.00 in July?"
+title: "Romanian parliament dissolved by July 31?"
+description: "Romanian parliament dissolved by July 31? Odds: 1.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Romanian parliament dissolved by July 31?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-07-20
-expiryDate: 2026-08-01
+expiryDate: 2026-07-31
 tags: ["politics", "polymarket"]
-polymarketYes: 0.5
-polymarketNo: 99.5
-polymarketVolume: 9796
-polymarketUrl: "https://polymarket.com/event/will-xrp-reach-2-in-july-2026"
+polymarketYes: 1.5
+polymarketNo: 98.6
+polymarketVolume: 97407
+polymarketUrl: "https://polymarket.com/event/romanian-parliament-dissolved-by-july-31"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.5% | 99.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 1.5% | 98.6% | $97K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,16 +27,11 @@ polymarketUrl: "https://polymarket.com/event/will-xrp-reach-2-in-july-2026"
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will XRP reach $2.00 in July?"?
+### What are the current odds for "Romanian parliament dissolved by July 31?"?
 
-As of July 20, 2026, Polymarket prices YES at 0.5%.
+As of July 20, 2026, Polymarket prices YES at 1.5%.
 
 ### Where can I trade on this prediction market?
 
 You can trade this market on [Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) (crypto-based).
-
-## Learn More
-
-- [Will Oil Hit $100? March Crude Prediction Market Odds](/blog/will-oil-hit-100-march-crude-prediction-market-odds)
-- [Will MicroStrategy Sell Bitcoin? Market Odds](/blog/will-microstrategy-sell-bitcoin-market-odds)
 

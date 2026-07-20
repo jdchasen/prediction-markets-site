@@ -3,7 +3,7 @@ title: "Will Pat McFadden be the next Chancellor of the Exchequer of the UK in 2
 description: "Will Pat McFadden be the next Chancellor of the Exchequer of the UK in 2026? Odds: 0.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Pat McFadden be the next Chancellor of the Exchequer of the UK in 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-07-20
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]

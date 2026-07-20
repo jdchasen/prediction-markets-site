@@ -1,15 +1,15 @@
 ---
 title: "NBA: LeBron to Sign With Former Team?"
-description: "NBA: LeBron to Sign With Former Team? Odds: 74.5% YES on Polymarket. See live prices and trade this market."
+description: "NBA: LeBron to Sign With Former Team? Odds: 77.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "NBA: LeBron to Sign With Former Team?"
 category: "sports"
 status: "active"
 lastUpdated: 2026-07-20
 expiryDate: 2026-10-31
 tags: ["polymarket", "sports"]
-polymarketYes: 74.5
-polymarketNo: 25.5
-polymarketVolume: 9837
+polymarketYes: 77.0
+polymarketNo: 23.0
+polymarketVolume: 9935
 polymarketUrl: "https://polymarket.com/event/nba-lebron-to-sign-with-former-team-20260701212006851"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/nba-lebron-to-sign-with-former-team
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 74.5% | 25.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 77.0% | 23.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/nba-lebron-to-sign-with-former-team
 
 ### What are the current odds for "NBA: LeBron to Sign With Former Team?"?
 
-As of July 20, 2026, Polymarket prices YES at 74.5%.
+As of July 20, 2026, Polymarket prices YES at 77.0%.
 
 ### Where can I trade on this prediction market?
 

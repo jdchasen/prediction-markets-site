@@ -1,35 +1,35 @@
 ---
-title: "Extended FDV above $500M one day after launch?"
-description: "Extended FDV above $500M one day after launch? Odds: 27.0% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Extended FDV above $500M one day after launch?"
+title: "Unit FDV above $200M one day after launch?"
+description: "Unit FDV above $200M one day after launch? Odds: 62.0% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Unit FDV above $200M one day after launch?"
 category: "crypto"
 status: "active"
 lastUpdated: 2026-07-20
-expiryDate: 2027-01-01
+expiryDate: 2028-01-01
 tags: ["crypto", "polymarket"]
-polymarketYes: 27.0
-polymarketNo: 73.0
-polymarketVolume: 975214
-polymarketUrl: "https://polymarket.com/event/extended-fdv-above-500m-one-day-after-launch-711-975-248"
+polymarketYes: 62.0
+polymarketNo: 38.0
+polymarketVolume: 98015
+polymarketUrl: "https://polymarket.com/event/unit-fdv-above-200m-one-day-after-launch"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 27.0% | 73.0% | $975K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 62.0% | 38.0% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Bitcoin dip to $25,000 by December 31, 2026?](/odds/will-bitcoin-dip-to-25000-by-december-31-2026) — 4% YES
 - [Will MetaMask launch a token by September 30, 2026?](/odds/will-metamask-launch-a-token-by-september-30-2026) — 4% YES
-- [Extended FDV above $1B one day after launch?](/odds/extended-fdv-above-1b-one-day-after-launch) — 10% YES
+- [Extended FDV above $500M one day after launch?](/odds/extended-fdv-above-500m-one-day-after-launch) — 27% YES
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Extended FDV above $500M one day after launch?"?
+### What are the current odds for "Unit FDV above $200M one day after launch?"?
 
-As of July 20, 2026, Polymarket prices YES at 27.0%.
+As of July 20, 2026, Polymarket prices YES at 62.0%.
 
 ### Where can I trade on this prediction market?
 

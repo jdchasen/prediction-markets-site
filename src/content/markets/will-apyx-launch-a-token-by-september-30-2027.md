@@ -9,7 +9,7 @@ expiryDate: 2027-10-01
 tags: ["crypto", "polymarket"]
 polymarketYes: 73.5
 polymarketNo: 26.5
-polymarketVolume: 9918
+polymarketVolume: 9933
 polymarketUrl: "https://polymarket.com/event/will-apyx-launch-a-token-by-september-30-2027"
 ---
 
