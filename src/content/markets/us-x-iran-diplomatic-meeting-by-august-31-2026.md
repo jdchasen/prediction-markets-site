@@ -3,8 +3,8 @@ title: "US x Iran diplomatic meeting by August 31, 2026?"
 description: "US x Iran diplomatic meeting by August 31, 2026? Odds: 45.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "US x Iran diplomatic meeting by August 31, 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-07-19
+status: "settled"
+lastUpdated: 2026-07-20
 expiryDate: 2026-08-31
 tags: ["politics", "polymarket"]
 polymarketYes: 45.5

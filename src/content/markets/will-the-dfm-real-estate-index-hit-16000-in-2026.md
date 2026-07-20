@@ -1,23 +1,23 @@
 ---
-title: "Will Atlanta United FC win the 2026 MLS Cup?"
-description: "Will Atlanta United FC win the 2026 MLS Cup? Odds: 0.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Atlanta United FC win the 2026 MLS Cup?"
+title: "Will the DFM Real Estate Index hit 16,000 in 2026?"
+description: "Will the DFM Real Estate Index hit 16,000 in 2026? Odds: 5.6% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will the DFM Real Estate Index hit 16,000 in 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-07-20
-expiryDate: 2026-12-19
+expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]
-polymarketYes: 0.5
-polymarketNo: 99.5
-polymarketVolume: 99575
-polymarketUrl: "https://polymarket.com/event/will-atlanta-united-fc-win-the-2026-mls-cup"
+polymarketYes: 5.6
+polymarketNo: 94.4
+polymarketVolume: 9746
+polymarketUrl: "https://polymarket.com/event/will-the-dfm-real-estate-index-hit-16000-in-2026"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.5% | 99.5% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 5.6% | 94.4% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-atlanta-united-fc-win-the-2026
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Atlanta United FC win the 2026 MLS Cup?"?
+### What are the current odds for "Will the DFM Real Estate Index hit 16,000 in 2026?"?
 
-As of July 20, 2026, Polymarket prices YES at 0.5%.
+As of July 20, 2026, Polymarket prices YES at 5.6%.
 
 ### Where can I trade on this prediction market?
 
@@ -37,6 +37,6 @@ You can trade this market on [Polymarket](https://polymarket.us/1762?utm_source=
 
 ## Learn More
 
+- [Is Kalshi Legal? State-by-State Guide (2026)](/blog/is-kalshi-legal)
 - [Will ETH Hit $4,500 in 2026? Live Market Odds](/blog/will-ethereum-reach-4500-in-2026-what-prediction-markets-say)
-- [Will Discord IPO in 2026? What Prediction Markets Say](/blog/will-discord-ipo-in-2026-what-prediction-markets-say)
 

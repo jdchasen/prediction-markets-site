@@ -1,23 +1,23 @@
 ---
-title: "Will Baker Mayfield win the 2026 NFL MVP?"
-description: "Will Baker Mayfield win the 2026 NFL MVP? Odds: 1.8% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Baker Mayfield win the 2026 NFL MVP?"
+title: "Will LeBron James play for the Boston Celtics in 2026-27?"
+description: "Will LeBron James play for the Boston Celtics in 2026-27? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will LeBron James play for the Boston Celtics in 2026-27?"
 category: "sports"
 status: "active"
 lastUpdated: 2026-07-20
-expiryDate: 2027-02-15
+expiryDate: 2026-10-31
 tags: ["polymarket", "sports"]
-polymarketYes: 1.8
-polymarketNo: 98.2
-polymarketVolume: 98828
-polymarketUrl: "https://polymarket.com/event/will-baker-mayfield-win-the-2026-nfl-mvp"
+polymarketYes: 0.1
+polymarketNo: 99.9
+polymarketVolume: 977183
+polymarketUrl: "https://polymarket.com/event/will-lebron-james-play-for-the-boston-celtics-in-2026-27"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 1.8% | 98.2% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.1% | 99.9% | $977K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-baker-mayfield-win-the-2026-nf
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Baker Mayfield win the 2026 NFL MVP?"?
+### What are the current odds for "Will LeBron James play for the Boston Celtics in 2026-27?"?
 
-As of July 20, 2026, Polymarket prices YES at 1.8%.
+As of July 20, 2026, Polymarket prices YES at 0.1%.
 
 ### Where can I trade on this prediction market?
 

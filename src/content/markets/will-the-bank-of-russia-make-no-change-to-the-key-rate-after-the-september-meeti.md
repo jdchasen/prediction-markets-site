@@ -3,8 +3,8 @@ title: "Will the Bank of Russia make no change to the key rate after the Septemb
 description: "Will the Bank of Russia make no change to the key rate after the September Meeting? Odds: 30.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Bank of Russia make no change to the key rate after the September Meeting?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-07-19
+status: "settled"
+lastUpdated: 2026-07-20
 expiryDate: 2026-09-11
 tags: ["politics", "polymarket"]
 polymarketYes: 30.5

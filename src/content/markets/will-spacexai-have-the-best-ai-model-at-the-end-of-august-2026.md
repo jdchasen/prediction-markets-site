@@ -3,8 +3,8 @@ title: "Will SpaceXAI have the best AI model at the end of August 2026?"
 description: "Will SpaceXAI have the best AI model at the end of August 2026? Odds: 0.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will SpaceXAI have the best AI model at the end of August 2026?"
 category: "tech"
-status: "active"
-lastUpdated: 2026-07-19
+status: "settled"
+lastUpdated: 2026-07-20
 expiryDate: 2026-08-31
 tags: ["ai", "polymarket", "tech"]
 polymarketYes: 0.5

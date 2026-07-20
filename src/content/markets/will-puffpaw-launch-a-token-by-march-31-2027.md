@@ -3,8 +3,8 @@ title: "Will Puffpaw launch a token by March 31, 2027?"
 description: "Will Puffpaw launch a token by March 31, 2027? Odds: 42.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Puffpaw launch a token by March 31, 2027?"
 category: "crypto"
-status: "active"
-lastUpdated: 2026-07-19
+status: "settled"
+lastUpdated: 2026-07-20
 expiryDate: 2028-01-01
 tags: ["crypto", "polymarket"]
 polymarketYes: 42.0

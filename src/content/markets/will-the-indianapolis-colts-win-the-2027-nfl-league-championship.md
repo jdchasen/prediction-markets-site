@@ -4,12 +4,12 @@ description: "Will the Indianapolis Colts win the 2027 NFL league championship? 
 marketQuestion: "Will the Indianapolis Colts win the 2027 NFL league championship?"
 category: "sports"
 status: "active"
-lastUpdated: 2026-07-19
+lastUpdated: 2026-07-20
 expiryDate: 2027-03-31
 tags: ["polymarket", "sports"]
 polymarketYes: 1.1
 polymarketNo: 98.9
-polymarketVolume: 998400
+polymarketVolume: 999894
 polymarketUrl: "https://polymarket.com/event/will-the-indianapolis-colts-win-the-2027-nfl-league-championship"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-the-indianapolis-colts-win-the
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 1.1% | 98.9% | $998K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 1.1% | 98.9% | $1000K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
+- [Will the Pittsburgh Steelers win the 2027 NFL league championship?](/odds/will-the-pittsburgh-steelers-win-the-2027-nfl-league-championship) — 1% YES
 - [Will Arizona Cardinals win the 2027 NFL NFC Championship?](/odds/will-arizona-cardinals-win-the-2027-nfl-nfc-championship) — 1% YES
-- [Will the Chicago Bears win the 2027 NFL league championship?](/odds/will-the-chicago-bears-win-the-2027-nfl-league-championship) — 3% YES
-- [Will Baker Mayfield win the 2026 NFL MVP?](/odds/will-baker-mayfield-win-the-2026-nfl-mvp) — 2% YES
+- [Will LeBron James play for the Boston Celtics in 2026-27?](/odds/will-lebron-james-play-for-the-boston-celtics-in-2026-27) — 0% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will the Indianapolis Colts win the 2027 NFL league championship?"?
 
-As of July 19, 2026, Polymarket prices YES at 1.1%.
+As of July 20, 2026, Polymarket prices YES at 1.1%.
 
 ### Where can I trade on this prediction market?
 

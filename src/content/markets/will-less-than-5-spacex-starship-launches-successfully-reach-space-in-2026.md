@@ -1,14 +1,14 @@
 ---
 title: "Will less than 5 SpaceX Starship launches successfully reach Space in 2026?"
-description: "Will less than 5 SpaceX Starship launches successfully reach Space in 2026? Odds: 31.0% YES on Polymarket. See live prices and trade this market."
+description: "Will less than 5 SpaceX Starship launches successfully reach Space in 2026? Odds: 30.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will less than 5 SpaceX Starship launches successfully reach Space in 2026?"
 category: "tech"
 status: "active"
-lastUpdated: 2026-07-19
+lastUpdated: 2026-07-20
 expiryDate: 2026-12-31
 tags: ["polymarket", "tech"]
-polymarketYes: 31.0
-polymarketNo: 69.0
+polymarketYes: 30.0
+polymarketNo: 70.0
 polymarketVolume: 97817
 polymarketUrl: "https://polymarket.com/event/will-less-than-5-spacex-starship-launches-successfully-reach-space-in-2026"
 ---
@@ -17,17 +17,17 @@ polymarketUrl: "https://polymarket.com/event/will-less-than-5-spacex-starship-la
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 31.0% | 69.0% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 30.0% | 70.0% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will SpaceXAI have the best AI model at the end of August 2026?](/odds/will-spacexai-have-the-best-ai-model-at-the-end-of-august-2026) — 0% YES
+- [Will Elon Musk post 60-79 tweets from July 17 to July 24, 2026?](/odds/will-elon-musk-post-60-79-tweets-from-july-17-to-july-24-2026) — 0% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will less than 5 SpaceX Starship launches successfully reach Space in 2026?"?
 
-As of July 19, 2026, Polymarket prices YES at 31.0%.
+As of July 20, 2026, Polymarket prices YES at 30.0%.
 
 ### Where can I trade on this prediction market?
 

@@ -1,23 +1,23 @@
 ---
-title: "Will the Republican Party win the MS-03 House seat?"
-description: "Will the Republican Party win the MS-03 House seat? Odds: 93.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will the Republican Party win the MS-03 House seat?"
+title: "Will Nigel Farage win the Clacton by-election?"
+description: "Will Nigel Farage win the Clacton by-election? Odds: 94.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Nigel Farage win the Clacton by-election?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-07-20
-expiryDate: 2026-11-03
-tags: ["politics", "polymarket"]
-polymarketYes: 93.5
-polymarketNo: 6.5
-polymarketVolume: 9789
-polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-ms-03-house-seat"
+expiryDate: 2027-06-30
+tags: ["elections", "politics", "polymarket"]
+polymarketYes: 94.5
+polymarketNo: 5.5
+polymarketVolume: 979983
+polymarketUrl: "https://polymarket.com/event/will-nigel-farage-win-the-clacton-by-election-20260707144027825"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 93.5% | 6.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 94.5% | 5.5% | $980K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-m
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will the Republican Party win the MS-03 House seat?"?
+### What are the current odds for "Will Nigel Farage win the Clacton by-election?"?
 
-As of July 20, 2026, Polymarket prices YES at 93.5%.
+As of July 20, 2026, Polymarket prices YES at 94.5%.
 
 ### Where can I trade on this prediction market?
 

@@ -3,8 +3,8 @@ title: "Will the Democrats win the South Dakota governor race in 2026?"
 description: "Will the Democrats win the South Dakota governor race in 2026? Odds: 6.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Democrats win the South Dakota governor race in 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-07-19
+status: "settled"
+lastUpdated: 2026-07-20
 tags: ["politics", "polymarket"]
 polymarketYes: 6.8
 polymarketNo: 93.2

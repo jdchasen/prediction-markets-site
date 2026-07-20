@@ -3,8 +3,8 @@ title: "Will OpenAI’s market cap be between $1T and $1.25T at market close on 
 description: "Will OpenAI’s market cap be between $1T and $1.25T at market close on IPO day by December 31, 2027? Odds: 16.2% YES on Polymarket. See live prices and trade ..."
 marketQuestion: "Will OpenAI’s market cap be between $1T and $1.25T at market close on IPO day by December 31, 2027?"
 category: "finance"
-status: "active"
-lastUpdated: 2026-07-19
+status: "settled"
+lastUpdated: 2026-07-20
 expiryDate: 2027-12-31
 tags: ["ai", "finance", "polymarket"]
 polymarketYes: 16.2

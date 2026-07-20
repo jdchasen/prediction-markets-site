@@ -3,8 +3,8 @@ title: "Will Jordan Bardella leave the National Rally by December 31, 2026?"
 description: "Will Jordan Bardella leave the National Rally by December 31, 2026? Odds: 3.6% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Jordan Bardella leave the National Rally by December 31, 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-07-19
+status: "settled"
+lastUpdated: 2026-07-20
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 3.6

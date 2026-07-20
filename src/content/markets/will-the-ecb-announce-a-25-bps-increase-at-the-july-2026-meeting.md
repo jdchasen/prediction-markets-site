@@ -3,8 +3,8 @@ title: "Will the ECB announce a 25 bps increase at the July 2026 meeting?"
 description: "Will the ECB announce a 25 bps increase at the July 2026 meeting? Odds: 1.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the ECB announce a 25 bps increase at the July 2026 meeting?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-07-19
+status: "settled"
+lastUpdated: 2026-07-20
 expiryDate: 2026-07-23
 tags: ["politics", "polymarket"]
 polymarketYes: 1.1

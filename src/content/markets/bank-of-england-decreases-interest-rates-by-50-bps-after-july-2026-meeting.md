@@ -4,7 +4,7 @@ description: "Bank of England decreases interest rates by 50+ bps after July 202
 marketQuestion: "Bank of England decreases interest rates by 50+ bps after July 2026 meeting?"
 category: "economics"
 status: "active"
-lastUpdated: 2026-07-19
+lastUpdated: 2026-07-20
 expiryDate: 2026-07-30
 tags: ["economics", "interest-rates", "polymarket"]
 polymarketYes: 0.1
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/bank-of-england-decreases-interest-
 
 ### What are the current odds for "Bank of England decreases interest rates by 50+ bps after July 2026 meeting?"?
 
-As of July 19, 2026, Polymarket prices YES at 0.1%.
+As of July 20, 2026, Polymarket prices YES at 0.1%.
 
 ### Where can I trade on this prediction market?
 

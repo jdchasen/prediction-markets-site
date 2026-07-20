@@ -1,23 +1,23 @@
 ---
-title: "Will Baker Mayfield win the 2026 NFL MVP?"
-description: "Will Baker Mayfield win the 2026 NFL MVP? Odds: 1.8% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Baker Mayfield win the 2026 NFL MVP?"
+title: "Will Aston Villa win the 2026-27 UEFA Champions League Championship?"
+description: "Will Aston Villa win the 2026-27 UEFA Champions League Championship? Odds: 1.2% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Aston Villa win the 2026-27 UEFA Champions League Championship?"
 category: "sports"
 status: "active"
 lastUpdated: 2026-07-20
-expiryDate: 2027-02-15
+expiryDate: 2027-05-30
 tags: ["polymarket", "sports"]
-polymarketYes: 1.8
-polymarketNo: 98.2
-polymarketVolume: 98828
-polymarketUrl: "https://polymarket.com/event/will-baker-mayfield-win-the-2026-nfl-mvp"
+polymarketYes: 1.2
+polymarketNo: 98.8
+polymarketVolume: 9848
+polymarketUrl: "https://polymarket.com/event/will-aston-villa-win-the-2026-27-uefa-champions-league-championship-20260701202025551"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 1.8% | 98.2% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 1.2% | 98.8% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-baker-mayfield-win-the-2026-nf
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Baker Mayfield win the 2026 NFL MVP?"?
+### What are the current odds for "Will Aston Villa win the 2026-27 UEFA Champions League Championship?"?
 
-As of July 20, 2026, Polymarket prices YES at 1.8%.
+As of July 20, 2026, Polymarket prices YES at 1.2%.
 
 ### Where can I trade on this prediction market?
 

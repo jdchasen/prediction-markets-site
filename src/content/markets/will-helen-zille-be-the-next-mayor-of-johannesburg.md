@@ -3,8 +3,8 @@ title: "Will Helen Zille be the next mayor of Johannesburg?"
 description: "Will Helen Zille be the next mayor of Johannesburg? Odds: 67.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Helen Zille be the next mayor of Johannesburg?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-07-19
+status: "settled"
+lastUpdated: 2026-07-20
 expiryDate: 2026-11-05
 tags: ["politics", "polymarket"]
 polymarketYes: 67.0

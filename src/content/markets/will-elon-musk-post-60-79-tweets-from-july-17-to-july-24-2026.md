@@ -1,15 +1,15 @@
 ---
 title: "Will Elon Musk post 60-79 tweets from July 17 to July 24, 2026?"
-description: "Will Elon Musk post 60-79 tweets from July 17 to July 24, 2026? Odds: 0.2% YES on Polymarket. See live prices and trade this market."
+description: "Will Elon Musk post 60-79 tweets from July 17 to July 24, 2026? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Elon Musk post 60-79 tweets from July 17 to July 24, 2026?"
 category: "tech"
-status: "settled"
-lastUpdated: 2026-07-16
+status: "active"
+lastUpdated: 2026-07-20
 expiryDate: 2026-07-24
 tags: ["polymarket", "tech"]
-polymarketYes: 0.2
-polymarketNo: 99.8
-polymarketVolume: 9808
+polymarketYes: 0.1
+polymarketNo: 99.9
+polymarketVolume: 98319
 polymarketUrl: "https://polymarket.com/event/elon-musk-of-tweets-july-17-july-24-60-79"
 ---
 
@@ -17,13 +17,17 @@ polymarketUrl: "https://polymarket.com/event/elon-musk-of-tweets-july-17-july-24
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.2% | 99.8% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.1% | 99.9% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+
+## Related Markets
+
+- [Will less than 5 SpaceX Starship launches successfully reach Space in 2026?](/odds/will-less-than-5-spacex-starship-launches-successfully-reach-space-in-2026) — 30% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Elon Musk post 60-79 tweets from July 17 to July 24, 2026?"?
 
-As of July 16, 2026, Polymarket prices YES at 0.2%.
+As of July 20, 2026, Polymarket prices YES at 0.1%.
 
 ### Where can I trade on this prediction market?
 

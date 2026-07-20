@@ -4,12 +4,12 @@ description: "Will Core CPI MoM be 0.1% in July? Odds: 26.1% YES on Polymarket. 
 marketQuestion: "Will Core CPI MoM be 0.1% in July?"
 category: "economics"
 status: "active"
-lastUpdated: 2026-07-19
+lastUpdated: 2026-07-20
 expiryDate: 2026-08-12
 tags: ["economics", "polymarket"]
 polymarketYes: 26.1
 polymarketNo: 74.0
-polymarketVolume: 9701
+polymarketVolume: 9743
 polymarketUrl: "https://polymarket.com/event/will-core-cpi-mom-be-0pt1-in-july-20260705181349575"
 ---
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-core-cpi-mom-be-0pt1-in-july-2
 
 ### What are the current odds for "Will Core CPI MoM be 0.1% in July?"?
 
-As of July 19, 2026, Polymarket prices YES at 26.1%.
+As of July 20, 2026, Polymarket prices YES at 26.1%.
 
 ### Where can I trade on this prediction market?
 

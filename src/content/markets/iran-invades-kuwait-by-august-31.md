@@ -1,23 +1,23 @@
 ---
-title: "Epstein storage units raided in 2026?"
-description: "Epstein storage units raided in 2026? Odds: 30.0% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Epstein storage units raided in 2026?"
+title: "Iran invades Kuwait by August 31?"
+description: "Iran invades Kuwait by August 31? Odds: 4.3% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Iran invades Kuwait by August 31?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-07-20
-expiryDate: 2026-12-31
+expiryDate: 2026-08-31
 tags: ["ai", "politics", "polymarket"]
-polymarketYes: 30.0
-polymarketNo: 70.0
-polymarketVolume: 9959
-polymarketUrl: "https://polymarket.com/event/epstein-storage-units-raided-in-2026"
+polymarketYes: 4.3
+polymarketNo: 95.7
+polymarketVolume: 9935
+polymarketUrl: "https://polymarket.com/event/iran-invades-kuwait-by-august-31-20260720015031546"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 30.0% | 70.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 4.3% | 95.7% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/epstein-storage-units-raided-in-202
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Epstein storage units raided in 2026?"?
+### What are the current odds for "Iran invades Kuwait by August 31?"?
 
-As of July 20, 2026, Polymarket prices YES at 30.0%.
+As of July 20, 2026, Polymarket prices YES at 4.3%.
 
 ### Where can I trade on this prediction market?
 
@@ -37,6 +37,6 @@ You can trade this market on [Polymarket](https://polymarket.us/1762?utm_source=
 
 ## Learn More
 
-- [Will ETH Hit $4,500 in 2026? Live Market Odds](/blog/will-ethereum-reach-4500-in-2026-what-prediction-markets-say)
-- [Will Discord IPO in 2026? What Prediction Markets Say](/blog/will-discord-ipo-in-2026-what-prediction-markets-say)
+- [US-Iran Peace Deal Odds: Will It Happen in 2025?](/blog/us-iran-peace-deal-odds-will-it-happen-in-2025)
+- [US-Iran Peace Deal Odds: What Traders Are Betting](/blog/us-iran-peace-deal-odds-what-traders-are-betting)
 
