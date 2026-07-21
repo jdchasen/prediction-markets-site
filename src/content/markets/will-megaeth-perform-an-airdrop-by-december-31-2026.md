@@ -9,7 +9,7 @@ expiryDate: 2027-01-01
 tags: ["ai", "ethereum", "politics", "polymarket"]
 polymarketYes: 16.5
 polymarketNo: 83.5
-polymarketVolume: 9981
+polymarketVolume: 9986
 polymarketUrl: "https://polymarket.com/event/will-megaeth-perform-an-airdrop-by-december-31-2026"
 ---
 

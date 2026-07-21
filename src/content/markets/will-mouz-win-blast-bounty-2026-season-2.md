@@ -1,23 +1,22 @@
 ---
-title: "Will Carlos Roberto Massa Júnior finish in third place in the first round of the 2026 Brazilian presidential election?"
-description: "Will Carlos Roberto Massa Júnior finish in third place in the first round of the 2026 Brazilian presidential election? Odds: 1.2% YES on Polymarket. See live..."
-marketQuestion: "Will Carlos Roberto Massa Júnior finish in third place in the first round of the 2026 Brazilian presidential election?"
+title: "Will MOUZ Win BLAST Bounty 2026 Season 2?"
+description: "Will MOUZ Win BLAST Bounty 2026 Season 2? Odds: 3.2% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will MOUZ Win BLAST Bounty 2026 Season 2?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-07-21
-expiryDate: 2026-10-04
-tags: ["elections", "politics", "polymarket"]
-polymarketYes: 1.2
-polymarketNo: 98.8
-polymarketVolume: 99831
-polymarketUrl: "https://polymarket.com/event/will-carlos-roberto-massa-jnior-finish-in-third-place-in-the-first-round-of-the-2026-brazilian-presidential-election"
+tags: ["politics", "polymarket"]
+polymarketYes: 3.2
+polymarketNo: 96.8
+polymarketVolume: 9982
+polymarketUrl: "https://polymarket.com/event/will-mouz-win-blast-bounty-2026-season-2-20260709030045122"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 1.2% | 98.8% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 3.2% | 96.8% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +26,9 @@ polymarketUrl: "https://polymarket.com/event/will-carlos-roberto-massa-jnior-fin
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Carlos Roberto Massa Júnior finish in third place in the first round of the 2026 Brazilian presidential election?"?
+### What are the current odds for "Will MOUZ Win BLAST Bounty 2026 Season 2?"?
 
-As of July 21, 2026, Polymarket prices YES at 1.2%.
+As of July 21, 2026, Polymarket prices YES at 3.2%.
 
 ### Where can I trade on this prediction market?
 

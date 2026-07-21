@@ -3,7 +3,7 @@ title: "US announces halt in Iran offensive operations by July 31?"
 description: "US announces halt in Iran offensive operations by July 31? Odds: 33.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "US announces halt in Iran offensive operations by July 31?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-07-21
 expiryDate: 2026-08-31
 tags: ["politics", "polymarket"]

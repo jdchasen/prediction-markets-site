@@ -3,7 +3,7 @@ title: "Will the median home value in the Chicago Metro be between $335,000 and 
 description: "Will the median home value in the Chicago Metro be between $335,000 and $340,000 on September 30? Odds: 41.5% YES on Polymarket. See live prices and trade th..."
 marketQuestion: "Will the median home value in the Chicago Metro be between $335,000 and $340,000 on September 30?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-07-21
 expiryDate: 2026-09-30
 tags: ["politics", "polymarket"]

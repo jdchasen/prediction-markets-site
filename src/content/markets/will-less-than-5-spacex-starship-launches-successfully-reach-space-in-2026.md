@@ -19,10 +19,6 @@ polymarketUrl: "https://polymarket.com/event/will-less-than-5-spacex-starship-la
 |----------|-----|-----|--------|-------|
 | Polymarket | 29.0% | 71.0% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
-## Related Markets
-
-- [Will Elon Musk post 340-359 tweets from July 21 to July 28, 2026?](/odds/will-elon-musk-post-340-359-tweets-from-july-21-to-july-28-2026) — 1% YES
-
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will less than 5 SpaceX Starship launches successfully reach Space in 2026?"?

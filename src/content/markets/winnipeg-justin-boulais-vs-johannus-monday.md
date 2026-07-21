@@ -1,23 +1,23 @@
 ---
-title: "Romanian parliament dissolved by July 31?"
-description: "Romanian parliament dissolved by July 31? Odds: 1.2% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Romanian parliament dissolved by July 31?"
+title: "Winnipeg: Justin Boulais vs Johannus Monday"
+description: "Winnipeg: Justin Boulais vs Johannus Monday Odds: 20.3% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Winnipeg: Justin Boulais vs Johannus Monday"
 category: "politics"
-status: "settled"
+status: "active"
 lastUpdated: 2026-07-21
-expiryDate: 2026-07-31
-tags: ["politics", "polymarket"]
-polymarketYes: 1.2
-polymarketNo: 98.8
-polymarketVolume: 97407
-polymarketUrl: "https://polymarket.com/event/romanian-parliament-dissolved-by-july-31"
+expiryDate: 2026-07-27
+tags: ["ai", "politics", "polymarket"]
+polymarketYes: 20.3
+polymarketNo: 79.7
+polymarketVolume: 99231
+polymarketUrl: "https://polymarket.com/event/atp-boulais-monday-2026-07-20"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 1.2% | 98.8% | $97K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 20.3% | 79.7% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/romanian-parliament-dissolved-by-ju
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Romanian parliament dissolved by July 31?"?
+### What are the current odds for "Winnipeg: Justin Boulais vs Johannus Monday"?
 
-As of July 21, 2026, Polymarket prices YES at 1.2%.
+As of July 21, 2026, Polymarket prices YES at 20.3%.
 
 ### Where can I trade on this prediction market?
 

@@ -1,15 +1,15 @@
 ---
 title: "Reserve Bank of Australia increases interest rates by 25 bps at the August 2026 meeting?"
-description: "Reserve Bank of Australia increases interest rates by 25 bps at the August 2026 meeting? Odds: 8.6% YES on Polymarket. See live prices and trade this market."
+description: "Reserve Bank of Australia increases interest rates by 25 bps at the August 2026 meeting? Odds: 8.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Reserve Bank of Australia increases interest rates by 25 bps at the August 2026 meeting?"
 category: "economics"
 status: "active"
 lastUpdated: 2026-07-21
 expiryDate: 2026-08-11
 tags: ["economics", "interest-rates", "polymarket"]
-polymarketYes: 8.6
-polymarketNo: 91.5
-polymarketVolume: 9480
+polymarketYes: 8.8
+polymarketNo: 91.2
+polymarketVolume: 9515
 polymarketUrl: "https://polymarket.com/event/reserve-bank-of-australia-increases-interest-rates-by-25-bps-at-the-august-2026-meeting"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/reserve-bank-of-australia-increases
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 8.6% | 91.5% | $9K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 8.8% | 91.2% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
+- [Will the Fed increase interest rates by 25 bps after the September 2026 meeting?](/odds/will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting) — 48% YES
 - [Will Core CPI MoM be 0.1% in July?](/odds/will-core-cpi-mom-be-01-in-july) — 26% YES
-- [Will Brazil’s Annual Inflation in 2026 be between 4.00% and 4.49%?](/odds/will-brazils-annual-inflation-in-2026-be-between-400-and-449) — 6% YES
-- [Bank of England decreases interest rates by 25 bps after July 2026 meeting?](/odds/bank-of-england-decreases-interest-rates-by-25-bps-after-july-2026-meeting) — 0% YES
+- [Will Brazil’s Annual Inflation in 2026 be between 4.00% and 4.49%?](/odds/will-brazils-annual-inflation-in-2026-be-between-400-and-449) — 7% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Reserve Bank of Australia increases interest rates by 25 bps at the August 2026 meeting?"?
 
-As of July 21, 2026, Polymarket prices YES at 8.6%.
+As of July 21, 2026, Polymarket prices YES at 8.8%.
 
 ### Where can I trade on this prediction market?
 

@@ -1,14 +1,14 @@
 ---
 title: "Will the Bank of Brazil decrease the target for the Selic rate by 25 bps at the September meeting?"
-description: "Will the Bank of Brazil decrease the target for the Selic rate by 25 bps at the September meeting? Odds: 56.9% YES on Polymarket. See live prices and trade t..."
+description: "Will the Bank of Brazil decrease the target for the Selic rate by 25 bps at the September meeting? Odds: 57.0% YES on Polymarket. See live prices and trade t..."
 marketQuestion: "Will the Bank of Brazil decrease the target for the Selic rate by 25 bps at the September meeting?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-07-21
 expiryDate: 2026-09-15
 tags: ["politics", "polymarket"]
-polymarketYes: 56.9
-polymarketNo: 43.1
+polymarketYes: 57.0
+polymarketNo: 43.0
 polymarketVolume: 9835
 polymarketUrl: "https://polymarket.com/event/will-the-bank-of-brazil-decrease-the-target-for-the-selic-rate-by-25-bps-at-the-september-meeting-20260616232715263"
 ---
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-bank-of-brazil-decrease-th
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 56.9% | 43.1% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 57.0% | 43.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-bank-of-brazil-decrease-th
 
 ### What are the current odds for "Will the Bank of Brazil decrease the target for the Selic rate by 25 bps at the September meeting?"?
 
-As of July 21, 2026, Polymarket prices YES at 56.9%.
+As of July 21, 2026, Polymarket prices YES at 57.0%.
 
 ### Where can I trade on this prediction market?
 

@@ -3,7 +3,7 @@ title: "Will Mohamed Salah play in Süper Lig next?"
 description: "Will Mohamed Salah play in Süper Lig next? Odds: 73.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Mohamed Salah play in Süper Lig next?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-07-21
 expiryDate: 2026-09-01
 tags: ["politics", "polymarket"]

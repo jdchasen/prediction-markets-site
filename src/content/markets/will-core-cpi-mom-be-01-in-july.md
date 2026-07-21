@@ -1,15 +1,15 @@
 ---
 title: "Will Core CPI MoM be 0.1% in July?"
-description: "Will Core CPI MoM be 0.1% in July? Odds: 26.1% YES on Polymarket. See live prices and trade this market."
+description: "Will Core CPI MoM be 0.1% in July? Odds: 25.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Core CPI MoM be 0.1% in July?"
 category: "economics"
 status: "active"
 lastUpdated: 2026-07-21
 expiryDate: 2026-08-12
 tags: ["economics", "polymarket"]
-polymarketYes: 26.1
-polymarketNo: 73.9
-polymarketVolume: 9846
+polymarketYes: 25.8
+polymarketNo: 74.2
+polymarketVolume: 9965
 polymarketUrl: "https://polymarket.com/event/will-core-cpi-mom-be-0pt1-in-july-20260705181349575"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-core-cpi-mom-be-0pt1-in-july-2
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 26.1% | 73.9% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 25.8% | 74.2% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Brazil’s Annual Inflation in 2026 be between 4.00% and 4.49%?](/odds/will-brazils-annual-inflation-in-2026-be-between-400-and-449) — 6% YES
-- [Bank of England decreases interest rates by 25 bps after July 2026 meeting?](/odds/bank-of-england-decreases-interest-rates-by-25-bps-after-july-2026-meeting) — 0% YES
-- [Bank of England decreases interest rates by 50+ bps after July 2026 meeting?](/odds/bank-of-england-decreases-interest-rates-by-50-bps-after-july-2026-meeting) — 0% YES
+- [Will the Fed increase interest rates by 25 bps after the September 2026 meeting?](/odds/will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting) — 48% YES
+- [Will Brazil’s Annual Inflation in 2026 be between 4.00% and 4.49%?](/odds/will-brazils-annual-inflation-in-2026-be-between-400-and-449) — 7% YES
+- [Will Eurozone annual GDP growth in 2026 be between 0% and 1.0%?](/odds/will-eurozone-annual-gdp-growth-in-2026-be-between-0-and-10) — 71% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Core CPI MoM be 0.1% in July?"?
 
-As of July 21, 2026, Polymarket prices YES at 26.1%.
+As of July 21, 2026, Polymarket prices YES at 25.8%.
 
 ### Where can I trade on this prediction market?
 

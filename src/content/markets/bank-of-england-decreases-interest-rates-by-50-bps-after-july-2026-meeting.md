@@ -3,7 +3,7 @@ title: "Bank of England decreases interest rates by 50+ bps after July 2026 meet
 description: "Bank of England decreases interest rates by 50+ bps after July 2026 meeting? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Bank of England decreases interest rates by 50+ bps after July 2026 meeting?"
 category: "economics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-07-21
 expiryDate: 2026-07-30
 tags: ["economics", "interest-rates", "polymarket"]

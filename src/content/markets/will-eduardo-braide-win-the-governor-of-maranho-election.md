@@ -1,23 +1,23 @@
 ---
-title: "Will the Republican Party win the OH-07 House seat?"
-description: "Will the Republican Party win the OH-07 House seat? Odds: 59.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will the Republican Party win the OH-07 House seat?"
+title: "Will Eduardo Braide win the Governor of Maranhão election?"
+description: "Will Eduardo Braide win the Governor of Maranhão election? Odds: 77.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Eduardo Braide win the Governor of Maranhão election?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-07-21
-expiryDate: 2026-11-03
-tags: ["politics", "polymarket"]
-polymarketYes: 59.5
-polymarketNo: 40.5
-polymarketVolume: 9955
-polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-oh-07-house-seat"
+expiryDate: 2026-10-05
+tags: ["ai", "elections", "politics", "polymarket"]
+polymarketYes: 77.5
+polymarketNo: 22.5
+polymarketVolume: 9806
+polymarketUrl: "https://polymarket.com/event/will-eduardo-braide-win-the-governor-of-maranhao-election-20260611182114393"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 59.5% | 40.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 77.5% | 22.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-o
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will the Republican Party win the OH-07 House seat?"?
+### What are the current odds for "Will Eduardo Braide win the Governor of Maranhão election?"?
 
-As of July 21, 2026, Polymarket prices YES at 59.5%.
+As of July 21, 2026, Polymarket prices YES at 77.5%.
 
 ### Where can I trade on this prediction market?
 

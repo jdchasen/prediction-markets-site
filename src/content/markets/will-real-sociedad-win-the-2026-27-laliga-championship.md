@@ -3,7 +3,7 @@ title: "Will Real Sociedad win the 2026-27 LALIGA Championship?"
 description: "Will Real Sociedad win the 2026-27 LALIGA Championship? Odds: 0.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Real Sociedad win the 2026-27 LALIGA Championship?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-07-21
 expiryDate: 2027-05-30
 tags: ["politics", "polymarket"]

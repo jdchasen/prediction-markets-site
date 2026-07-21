@@ -1,23 +1,23 @@
 ---
-title: "Will Carlos Roberto Massa Júnior finish in third place in the first round of the 2026 Brazilian presidential election?"
-description: "Will Carlos Roberto Massa Júnior finish in third place in the first round of the 2026 Brazilian presidential election? Odds: 1.2% YES on Polymarket. See live..."
-marketQuestion: "Will Carlos Roberto Massa Júnior finish in third place in the first round of the 2026 Brazilian presidential election?"
+title: "Will the Ornn B200 Index be at least $7.00 on July 31, 2026?"
+description: "Will the Ornn B200 Index be at least $7.00 on July 31, 2026? Odds: 25.2% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will the Ornn B200 Index be at least $7.00 on July 31, 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-07-21
-expiryDate: 2026-10-04
-tags: ["elections", "politics", "polymarket"]
-polymarketYes: 1.2
-polymarketNo: 98.8
-polymarketVolume: 99831
-polymarketUrl: "https://polymarket.com/event/will-carlos-roberto-massa-jnior-finish-in-third-place-in-the-first-round-of-the-2026-brazilian-presidential-election"
+expiryDate: 2026-07-31
+tags: ["politics", "polymarket"]
+polymarketYes: 25.2
+polymarketNo: 74.8
+polymarketVolume: 9888
+polymarketUrl: "https://polymarket.com/event/will-the-ornn-b200-index-be-at-least-7pt00-on-july-31-2026-20260626214212588"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 1.2% | 98.8% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 25.2% | 74.8% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-carlos-roberto-massa-jnior-fin
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Carlos Roberto Massa Júnior finish in third place in the first round of the 2026 Brazilian presidential election?"?
+### What are the current odds for "Will the Ornn B200 Index be at least $7.00 on July 31, 2026?"?
 
-As of July 21, 2026, Polymarket prices YES at 1.2%.
+As of July 21, 2026, Polymarket prices YES at 25.2%.
 
 ### Where can I trade on this prediction market?
 

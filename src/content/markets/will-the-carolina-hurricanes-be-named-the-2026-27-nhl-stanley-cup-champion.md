@@ -9,7 +9,7 @@ expiryDate: 2027-07-01
 tags: ["polymarket", "sports"]
 polymarketYes: 10.5
 polymarketNo: 89.5
-polymarketVolume: 9957
+polymarketVolume: 9980
 polymarketUrl: "https://polymarket.com/event/will-the-carolina-hurricanes-be-named-the-2026-27-nhl-stanley-cup-champion-20260612185657077"
 ---
 
