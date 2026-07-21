@@ -4,7 +4,7 @@ description: "Will the Democratic Party win the GA-02 House seat? Odds: 92.5% YE
 marketQuestion: "Will the Democratic Party win the GA-02 House seat?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-07-20
+lastUpdated: 2026-07-21
 expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
 polymarketYes: 92.5
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-g
 
 ### What are the current odds for "Will the Democratic Party win the GA-02 House seat?"?
 
-As of July 20, 2026, Polymarket prices YES at 92.5%.
+As of July 21, 2026, Polymarket prices YES at 92.5%.
 
 ### Where can I trade on this prediction market?
 

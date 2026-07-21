@@ -4,7 +4,7 @@ description: "Will Gold (XAUUSD) hit (LOW) $3,300 in July? Odds: 0.5% YES on Pol
 marketQuestion: "Will Gold (XAUUSD) hit (LOW) $3,300 in July?"
 category: "finance"
 status: "active"
-lastUpdated: 2026-07-20
+lastUpdated: 2026-07-21
 expiryDate: 2026-08-01
 tags: ["finance", "polymarket"]
 polymarketYes: 0.5
@@ -23,7 +23,7 @@ polymarketUrl: "https://polymarket.com/event/will-xauusd-dip-to-3300-in-july-202
 
 ### What are the current odds for "Will Gold (XAUUSD) hit (LOW) $3,300 in July?"?
 
-As of July 20, 2026, Polymarket prices YES at 0.5%.
+As of July 21, 2026, Polymarket prices YES at 0.5%.
 
 ### Where can I trade on this prediction market?
 

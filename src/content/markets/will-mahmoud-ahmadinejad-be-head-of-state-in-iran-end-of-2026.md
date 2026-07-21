@@ -4,12 +4,12 @@ description: "Will Mahmoud Ahmadinejad be head of state in Iran end of 2026? Odd
 marketQuestion: "Will Mahmoud Ahmadinejad be head of state in Iran end of 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-07-20
+lastUpdated: 2026-07-21
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 0.4
 polymarketNo: 99.6
-polymarketVolume: 974040
+polymarketVolume: 974186
 polymarketUrl: "https://polymarket.com/event/will-mahmoud-ahmadinejad-be-head-of-state-in-iran-end-of-2026"
 ---
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-mahmoud-ahmadinejad-be-head-of
 
 ### What are the current odds for "Will Mahmoud Ahmadinejad be head of state in Iran end of 2026?"?
 
-As of July 20, 2026, Polymarket prices YES at 0.4%.
+As of July 21, 2026, Polymarket prices YES at 0.4%.
 
 ### Where can I trade on this prediction market?
 

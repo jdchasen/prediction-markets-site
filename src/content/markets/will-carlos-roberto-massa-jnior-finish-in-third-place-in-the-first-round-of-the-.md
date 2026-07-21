@@ -4,7 +4,7 @@ description: "Will Carlos Roberto Massa Júnior finish in third place in the fir
 marketQuestion: "Will Carlos Roberto Massa Júnior finish in third place in the first round of the 2026 Brazilian presidential election?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-07-20
+lastUpdated: 2026-07-21
 expiryDate: 2026-10-04
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 1.2
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-carlos-roberto-massa-jnior-fin
 
 ### What are the current odds for "Will Carlos Roberto Massa Júnior finish in third place in the first round of the 2026 Brazilian presidential election?"?
 
-As of July 20, 2026, Polymarket prices YES at 1.2%.
+As of July 21, 2026, Polymarket prices YES at 1.2%.
 
 ### Where can I trade on this prediction market?
 

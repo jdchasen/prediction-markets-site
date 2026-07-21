@@ -3,8 +3,8 @@ title: "Will Aston Villa win the 2026-27 UEFA Champions League Championship?"
 description: "Will Aston Villa win the 2026-27 UEFA Champions League Championship? Odds: 1.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Aston Villa win the 2026-27 UEFA Champions League Championship?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-07-20
+status: "settled"
+lastUpdated: 2026-07-21
 expiryDate: 2027-05-30
 tags: ["polymarket", "sports"]
 polymarketYes: 1.2

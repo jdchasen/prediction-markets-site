@@ -4,7 +4,7 @@ description: "Will Frank F. Blas Jr. win the 2026 Guam Governor Republican prima
 marketQuestion: "Will Frank F. Blas Jr. win the 2026 Guam Governor Republican primary election?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-07-20
+lastUpdated: 2026-07-21
 expiryDate: 2026-08-01
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 49.0
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-frank-f-blas-jr-win-the-2026-g
 
 ### What are the current odds for "Will Frank F. Blas Jr. win the 2026 Guam Governor Republican primary election?"?
 
-As of July 20, 2026, Polymarket prices YES at 49.0%.
+As of July 21, 2026, Polymarket prices YES at 49.0%.
 
 ### Where can I trade on this prediction market?
 

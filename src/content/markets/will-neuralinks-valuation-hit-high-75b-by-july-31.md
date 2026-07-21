@@ -1,13 +1,13 @@
 ---
 title: "Will Neuralink's valuation hit (HIGH) $75B by July 31?"
-description: "Will Neuralink's valuation hit (HIGH) $75B by July 31? Odds: 1.4% YES on Polymarket. See live prices and trade this market."
+description: "Will Neuralink's valuation hit (HIGH) $75B by July 31? Odds: 1.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Neuralink's valuation hit (HIGH) $75B by July 31?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-07-20
+lastUpdated: 2026-07-21
 expiryDate: 2026-08-01
 tags: ["politics", "polymarket"]
-polymarketYes: 1.4
+polymarketYes: 1.5
 polymarketNo: 98.6
 polymarketVolume: 9888
 polymarketUrl: "https://polymarket.com/event/untitled-market-1-20260629173634756"
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/untitled-market-1-20260629173634756
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 1.4% | 98.6% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 1.5% | 98.6% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/untitled-market-1-20260629173634756
 
 ### What are the current odds for "Will Neuralink's valuation hit (HIGH) $75B by July 31?"?
 
-As of July 20, 2026, Polymarket prices YES at 1.4%.
+As of July 21, 2026, Polymarket prices YES at 1.5%.
 
 ### Where can I trade on this prediction market?
 

@@ -1,15 +1,15 @@
 ---
 title: "Will the Texas Rangers win the 2026 World Series?"
-description: "Will the Texas Rangers win the 2026 World Series? Odds: 2.4% YES on Polymarket. See live prices and trade this market."
+description: "Will the Texas Rangers win the 2026 World Series? Odds: 2.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Texas Rangers win the 2026 World Series?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-07-20
+lastUpdated: 2026-07-21
 expiryDate: 2026-10-31
 tags: ["politics", "polymarket"]
-polymarketYes: 2.4
-polymarketNo: 97.7
-polymarketVolume: 985591
+polymarketYes: 2.2
+polymarketNo: 97.8
+polymarketVolume: 987260
 polymarketUrl: "https://polymarket.com/event/will-the-texas-rangers-win-the-2026-world-series"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-texas-rangers-win-the-2026
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 2.4% | 97.7% | $986K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 2.2% | 97.8% | $987K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-texas-rangers-win-the-2026
 
 ### What are the current odds for "Will the Texas Rangers win the 2026 World Series?"?
 
-As of July 20, 2026, Polymarket prices YES at 2.4%.
+As of July 21, 2026, Polymarket prices YES at 2.2%.
 
 ### Where can I trade on this prediction market?
 

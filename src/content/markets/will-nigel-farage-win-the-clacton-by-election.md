@@ -1,15 +1,15 @@
 ---
 title: "Will Nigel Farage win the Clacton by-election?"
-description: "Will Nigel Farage win the Clacton by-election? Odds: 95.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Nigel Farage win the Clacton by-election? Odds: 94.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Nigel Farage win the Clacton by-election?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-07-20
+lastUpdated: 2026-07-21
 expiryDate: 2027-06-30
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 95.5
-polymarketNo: 4.5
-polymarketVolume: 982838
+polymarketYes: 94.8
+polymarketNo: 5.2
+polymarketVolume: 987788
 polymarketUrl: "https://polymarket.com/event/will-nigel-farage-win-the-clacton-by-election-20260707144027825"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-nigel-farage-win-the-clacton-b
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 95.5% | 4.5% | $983K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 94.8% | 5.2% | $988K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-nigel-farage-win-the-clacton-b
 
 ### What are the current odds for "Will Nigel Farage win the Clacton by-election?"?
 
-As of July 20, 2026, Polymarket prices YES at 95.5%.
+As of July 21, 2026, Polymarket prices YES at 94.8%.
 
 ### Where can I trade on this prediction market?
 

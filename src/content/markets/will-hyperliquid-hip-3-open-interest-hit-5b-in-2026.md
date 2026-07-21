@@ -1,15 +1,15 @@
 ---
 title: "Will Hyperliquid HIP-3 open interest hit $5B in 2026?"
-description: "Will Hyperliquid HIP-3 open interest hit $5B in 2026? Odds: 84.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Hyperliquid HIP-3 open interest hit $5B in 2026? Odds: 82.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Hyperliquid HIP-3 open interest hit $5B in 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-07-20
+lastUpdated: 2026-07-21
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]
-polymarketYes: 84.5
-polymarketNo: 15.5
-polymarketVolume: 9778
+polymarketYes: 82.5
+polymarketNo: 17.5
+polymarketVolume: 9831
 polymarketUrl: "https://polymarket.com/event/will-hyperliquid-hip-3-open-interest-hit-5b-in-2026"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-hyperliquid-hip-3-open-interes
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 84.5% | 15.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 82.5% | 17.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-hyperliquid-hip-3-open-interes
 
 ### What are the current odds for "Will Hyperliquid HIP-3 open interest hit $5B in 2026?"?
 
-As of July 20, 2026, Polymarket prices YES at 84.5%.
+As of July 21, 2026, Polymarket prices YES at 82.5%.
 
 ### Where can I trade on this prediction market?
 

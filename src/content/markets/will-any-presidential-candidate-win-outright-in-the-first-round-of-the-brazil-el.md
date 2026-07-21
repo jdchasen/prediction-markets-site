@@ -1,14 +1,14 @@
 ---
 title: "Will any presidential candidate win outright in the first round of the Brazil election?"
-description: "Will any presidential candidate win outright in the first round of the Brazil election? Odds: 11.5% YES on Polymarket. See live prices and trade this market."
+description: "Will any presidential candidate win outright in the first round of the Brazil election? Odds: 10.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will any presidential candidate win outright in the first round of the Brazil election?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-07-20
+lastUpdated: 2026-07-21
 expiryDate: 2026-10-04
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 11.5
-polymarketNo: 88.5
+polymarketYes: 10.5
+polymarketNo: 89.5
 polymarketVolume: 97577
 polymarketUrl: "https://polymarket.com/event/will-any-presidential-candidate-win-outright-in-the-first-round-of-the-brazil-election"
 ---
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-any-presidential-candidate-win
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 11.5% | 88.5% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 10.5% | 89.5% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-any-presidential-candidate-win
 
 ### What are the current odds for "Will any presidential candidate win outright in the first round of the Brazil election?"?
 
-As of July 20, 2026, Polymarket prices YES at 11.5%.
+As of July 21, 2026, Polymarket prices YES at 10.5%.
 
 ### Where can I trade on this prediction market?
 

@@ -3,8 +3,8 @@ title: "Will USD be at least 1.9M Iranian rials on July 31?"
 description: "Will USD be at least 1.9M Iranian rials on July 31? Odds: 59.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will USD be at least 1.9M Iranian rials on July 31?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-07-20
+status: "settled"
+lastUpdated: 2026-07-21
 expiryDate: 2026-07-31
 tags: ["politics", "polymarket"]
 polymarketYes: 59.5

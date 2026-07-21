@@ -1,0 +1,42 @@
+---
+title: "Will the Bank of Brazil decrease the target for the Selic rate by 25 bps at the September meeting?"
+description: "Will the Bank of Brazil decrease the target for the Selic rate by 25 bps at the September meeting? Odds: 56.9% YES on Polymarket. See live prices and trade t..."
+marketQuestion: "Will the Bank of Brazil decrease the target for the Selic rate by 25 bps at the September meeting?"
+category: "politics"
+status: "active"
+lastUpdated: 2026-07-21
+expiryDate: 2026-09-15
+tags: ["politics", "polymarket"]
+polymarketYes: 56.9
+polymarketNo: 43.1
+polymarketVolume: 9835
+polymarketUrl: "https://polymarket.com/event/will-the-bank-of-brazil-decrease-the-target-for-the-selic-rate-by-25-bps-at-the-september-meeting-20260616232715263"
+---
+
+## Current Odds
+
+| Platform | Yes | No | Volume | Trade |
+|----------|-----|-----|--------|-------|
+| Polymarket | 56.9% | 43.1% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+
+## Related Markets
+
+- [Will Marco Rubio win the 2028 Republican presidential nomination?](/odds/will-marco-rubio-win-the-2028-republican-presidential-nomination) — 28% YES
+- [Will Eric Trump win the 2028 Republican presidential nomination?](/odds/will-eric-trump-win-the-2028-republican-presidential-nomination) — 0% YES
+- [Will the New York Mets win the 2026 World Series?](/odds/will-the-new-york-mets-win-the-2026-world-series) — 0% YES
+
+## Frequently Asked Questions
+
+### What are the current odds for "Will the Bank of Brazil decrease the target for the Selic rate by 25 bps at the September meeting?"?
+
+As of July 21, 2026, Polymarket prices YES at 56.9%.
+
+### Where can I trade on this prediction market?
+
+You can trade this market on [Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) (crypto-based).
+
+## Learn More
+
+- [Trump-Xi Meeting Predictions: What Will He Say?](/blog/trump-xi-meeting-predictions-what-will-he-say)
+- [Fed March Meeting: Will Rates Change? Market Says No](/blog/fed-march-meeting-will-rates-change-market-says-no)
+

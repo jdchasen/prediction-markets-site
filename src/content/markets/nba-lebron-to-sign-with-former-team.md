@@ -3,8 +3,8 @@ title: "NBA: LeBron to Sign With Former Team?"
 description: "NBA: LeBron to Sign With Former Team? Odds: 77.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "NBA: LeBron to Sign With Former Team?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-07-20
+status: "settled"
+lastUpdated: 2026-07-21
 expiryDate: 2026-10-31
 tags: ["polymarket", "sports"]
 polymarketYes: 77.0

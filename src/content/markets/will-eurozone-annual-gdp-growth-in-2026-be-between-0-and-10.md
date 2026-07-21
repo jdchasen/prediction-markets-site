@@ -4,12 +4,12 @@ description: "Will Eurozone annual GDP growth in 2026 be between 0% and 1.0%? Od
 marketQuestion: "Will Eurozone annual GDP growth in 2026 be between 0% and 1.0%?"
 category: "economics"
 status: "active"
-lastUpdated: 2026-07-20
+lastUpdated: 2026-07-21
 expiryDate: 2027-01-31
 tags: ["economics", "polymarket"]
 polymarketYes: 71.0
 polymarketNo: 29.0
-polymarketVolume: 9497
+polymarketVolume: 9561
 polymarketUrl: "https://polymarket.com/event/will-eurozone-annual-gdp-growth-in-2026-be-between-0-and-1pt0"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-eurozone-annual-gdp-growth-in-
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 71.0% | 29.0% | $9K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 71.0% | 29.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Brazil’s Annual Inflation in 2026 be between 4.00% and 4.49%?](/odds/will-brazils-annual-inflation-in-2026-be-between-400-and-449) — 6% YES
 - [Will Core CPI MoM be 0.1% in July?](/odds/will-core-cpi-mom-be-01-in-july) — 26% YES
-- [Bank of England decreases interest rates by 50+ bps after July 2026 meeting?](/odds/bank-of-england-decreases-interest-rates-by-50-bps-after-july-2026-meeting) — 0% YES
+- [Will Brazil’s Annual Inflation in 2026 be between 4.00% and 4.49%?](/odds/will-brazils-annual-inflation-in-2026-be-between-400-and-449) — 6% YES
+- [Bank of England decreases interest rates by 25 bps after July 2026 meeting?](/odds/bank-of-england-decreases-interest-rates-by-25-bps-after-july-2026-meeting) — 0% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Eurozone annual GDP growth in 2026 be between 0% and 1.0%?"?
 
-As of July 20, 2026, Polymarket prices YES at 71.0%.
+As of July 21, 2026, Polymarket prices YES at 71.0%.
 
 ### Where can I trade on this prediction market?
 

@@ -3,8 +3,8 @@ title: "Livesport Prague Open: Anna Blinkova vs Sara Bejlek"
 description: "Livesport Prague Open: Anna Blinkova vs Sara Bejlek Odds: 37.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Livesport Prague Open: Anna Blinkova vs Sara Bejlek"
 category: "politics"
-status: "active"
-lastUpdated: 2026-07-20
+status: "settled"
+lastUpdated: 2026-07-21
 expiryDate: 2026-07-27
 tags: ["politics", "polymarket"]
 polymarketYes: 37.5

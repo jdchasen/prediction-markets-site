@@ -1,15 +1,15 @@
 ---
 title: "Will Mexico GDP growth in Q2 2026 be between -0.5% and 0.0%?"
-description: "Will Mexico GDP growth in Q2 2026 be between -0.5% and 0.0%? Odds: 8.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Mexico GDP growth in Q2 2026 be between -0.5% and 0.0%? Odds: 3.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Mexico GDP growth in Q2 2026 be between -0.5% and 0.0%?"
 category: "economics"
 status: "active"
-lastUpdated: 2026-07-20
+lastUpdated: 2026-07-21
 expiryDate: 2026-07-30
 tags: ["economics", "polymarket"]
-polymarketYes: 8.5
-polymarketNo: 91.5
-polymarketVolume: 9510
+polymarketYes: 3.5
+polymarketNo: 96.5
+polymarketVolume: 9559
 polymarketUrl: "https://polymarket.com/event/will-mexico-gdp-growth-in-q2-2026-be-between-0pt5-and-0pt0"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-mexico-gdp-growth-in-q2-2026-b
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 8.5% | 91.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 3.5% | 96.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Brazil’s Annual Inflation in 2026 be between 4.00% and 4.49%?](/odds/will-brazils-annual-inflation-in-2026-be-between-400-and-449) — 6% YES
 - [Will Core CPI MoM be 0.1% in July?](/odds/will-core-cpi-mom-be-01-in-july) — 26% YES
-- [Bank of England decreases interest rates by 50+ bps after July 2026 meeting?](/odds/bank-of-england-decreases-interest-rates-by-50-bps-after-july-2026-meeting) — 0% YES
+- [Will Brazil’s Annual Inflation in 2026 be between 4.00% and 4.49%?](/odds/will-brazils-annual-inflation-in-2026-be-between-400-and-449) — 6% YES
+- [Bank of England decreases interest rates by 25 bps after July 2026 meeting?](/odds/bank-of-england-decreases-interest-rates-by-25-bps-after-july-2026-meeting) — 0% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Mexico GDP growth in Q2 2026 be between -0.5% and 0.0%?"?
 
-As of July 20, 2026, Polymarket prices YES at 8.5%.
+As of July 21, 2026, Polymarket prices YES at 3.5%.
 
 ### Where can I trade on this prediction market?
 

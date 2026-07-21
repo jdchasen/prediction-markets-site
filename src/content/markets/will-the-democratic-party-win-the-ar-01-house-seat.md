@@ -4,11 +4,11 @@ description: "Will the Democratic Party win the AR-01 House seat? Odds: 1.7% YES
 marketQuestion: "Will the Democratic Party win the AR-01 House seat?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-07-20
+lastUpdated: 2026-07-21
 expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
 polymarketYes: 1.7
-polymarketNo: 98.3
+polymarketNo: 98.4
 polymarketVolume: 9867
 polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-ar-01-house-seat"
 ---
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-a
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 1.7% | 98.3% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 1.7% | 98.4% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-a
 
 ### What are the current odds for "Will the Democratic Party win the AR-01 House seat?"?
 
-As of July 20, 2026, Polymarket prices YES at 1.7%.
+As of July 21, 2026, Polymarket prices YES at 1.7%.
 
 ### Where can I trade on this prediction market?
 

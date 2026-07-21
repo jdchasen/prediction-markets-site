@@ -1,15 +1,15 @@
 ---
 title: "Hamad bin Isa Al Khalifa out as leader of Bahrain by December 31, 2026?"
-description: "Hamad bin Isa Al Khalifa out as leader of Bahrain by December 31, 2026? Odds: 7.5% YES on Polymarket. See live prices and trade this market."
+description: "Hamad bin Isa Al Khalifa out as leader of Bahrain by December 31, 2026? Odds: 6.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Hamad bin Isa Al Khalifa out as leader of Bahrain by December 31, 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-07-20
+lastUpdated: 2026-07-21
 expiryDate: 2026-12-31
 tags: ["ai", "politics", "polymarket"]
-polymarketYes: 7.5
-polymarketNo: 92.5
-polymarketVolume: 98308
+polymarketYes: 6.5
+polymarketNo: 93.5
+polymarketVolume: 98795
 polymarketUrl: "https://polymarket.com/event/hamad-bin-isa-al-khalifa-out-as-leader-of-bahrain-by-december-31-2026"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/hamad-bin-isa-al-khalifa-out-as-lea
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 7.5% | 92.5% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 6.5% | 93.5% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/hamad-bin-isa-al-khalifa-out-as-lea
 
 ### What are the current odds for "Hamad bin Isa Al Khalifa out as leader of Bahrain by December 31, 2026?"?
 
-As of July 20, 2026, Polymarket prices YES at 7.5%.
+As of July 21, 2026, Polymarket prices YES at 6.5%.
 
 ### Where can I trade on this prediction market?
 

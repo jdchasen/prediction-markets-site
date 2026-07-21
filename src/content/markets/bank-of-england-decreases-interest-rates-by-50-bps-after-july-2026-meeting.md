@@ -4,7 +4,7 @@ description: "Bank of England decreases interest rates by 50+ bps after July 202
 marketQuestion: "Bank of England decreases interest rates by 50+ bps after July 2026 meeting?"
 category: "economics"
 status: "active"
-lastUpdated: 2026-07-20
+lastUpdated: 2026-07-21
 expiryDate: 2026-07-30
 tags: ["economics", "interest-rates", "polymarket"]
 polymarketYes: 0.1
@@ -21,15 +21,15 @@ polymarketUrl: "https://polymarket.com/event/bank-of-england-decreases-interest-
 
 ## Related Markets
 
-- [Will Brazil’s Annual Inflation in 2026 be between 4.00% and 4.49%?](/odds/will-brazils-annual-inflation-in-2026-be-between-400-and-449) — 6% YES
 - [Will Core CPI MoM be 0.1% in July?](/odds/will-core-cpi-mom-be-01-in-july) — 26% YES
-- [Bank of England decreases interest rates by 25 bps after July 2026 meeting?](/odds/bank-of-england-decreases-interest-rates-by-25-bps-after-july-2026-meeting) — 1% YES
+- [Will Brazil’s Annual Inflation in 2026 be between 4.00% and 4.49%?](/odds/will-brazils-annual-inflation-in-2026-be-between-400-and-449) — 6% YES
+- [Bank of England decreases interest rates by 25 bps after July 2026 meeting?](/odds/bank-of-england-decreases-interest-rates-by-25-bps-after-july-2026-meeting) — 0% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Bank of England decreases interest rates by 50+ bps after July 2026 meeting?"?
 
-As of July 20, 2026, Polymarket prices YES at 0.1%.
+As of July 21, 2026, Polymarket prices YES at 0.1%.
 
 ### Where can I trade on this prediction market?
 

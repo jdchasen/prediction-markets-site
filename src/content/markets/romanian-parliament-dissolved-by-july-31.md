@@ -1,14 +1,14 @@
 ---
 title: "Romanian parliament dissolved by July 31?"
-description: "Romanian parliament dissolved by July 31? Odds: 1.5% YES on Polymarket. See live prices and trade this market."
+description: "Romanian parliament dissolved by July 31? Odds: 1.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Romanian parliament dissolved by July 31?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-07-20
+lastUpdated: 2026-07-21
 expiryDate: 2026-07-31
 tags: ["politics", "polymarket"]
-polymarketYes: 1.5
-polymarketNo: 98.6
+polymarketYes: 1.2
+polymarketNo: 98.8
 polymarketVolume: 97407
 polymarketUrl: "https://polymarket.com/event/romanian-parliament-dissolved-by-july-31"
 ---
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/romanian-parliament-dissolved-by-ju
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 1.5% | 98.6% | $97K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 1.2% | 98.8% | $97K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/romanian-parliament-dissolved-by-ju
 
 ### What are the current odds for "Romanian parliament dissolved by July 31?"?
 
-As of July 20, 2026, Polymarket prices YES at 1.5%.
+As of July 21, 2026, Polymarket prices YES at 1.2%.
 
 ### Where can I trade on this prediction market?
 
