@@ -3,8 +3,8 @@ title: "Will the Ornn B200 Index be at least $7.00 on July 31, 2026?"
 description: "Will the Ornn B200 Index be at least $7.00 on July 31, 2026? Odds: 25.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Ornn B200 Index be at least $7.00 on July 31, 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-07-21
+status: "settled"
+lastUpdated: 2026-07-22
 expiryDate: 2026-07-31
 tags: ["politics", "polymarket"]
 polymarketYes: 25.2

@@ -1,23 +1,23 @@
 ---
-title: "Will the Republican Party win the OR-06 House seat?"
-description: "Will the Republican Party win the OR-06 House seat? Odds: 2.6% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will the Republican Party win the OR-06 House seat?"
+title: "Will NVIDIA (NVDA) hit (LOW) $152 in July?"
+description: "Will NVIDIA (NVDA) hit (LOW) $152 in July? Odds: 0.3% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will NVIDIA (NVDA) hit (LOW) $152 in July?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-07-22
-expiryDate: 2026-11-03
+expiryDate: 2026-08-01
 tags: ["politics", "polymarket"]
-polymarketYes: 2.6
-polymarketNo: 97.4
-polymarketVolume: 9861
-polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-or-06-house-seat"
+polymarketYes: 0.3
+polymarketNo: 99.7
+polymarketVolume: 9782
+polymarketUrl: "https://polymarket.com/event/will-nvda-dip-to-152-in-july-2026"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 2.6% | 97.4% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.3% | 99.7% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-o
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will the Republican Party win the OR-06 House seat?"?
+### What are the current odds for "Will NVIDIA (NVDA) hit (LOW) $152 in July?"?
 
-As of July 22, 2026, Polymarket prices YES at 2.6%.
+As of July 22, 2026, Polymarket prices YES at 0.3%.
 
 ### Where can I trade on this prediction market?
 

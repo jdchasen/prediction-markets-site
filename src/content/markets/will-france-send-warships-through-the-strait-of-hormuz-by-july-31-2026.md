@@ -3,8 +3,8 @@ title: "Will France send warships through the Strait of Hormuz by July 31, 2026?
 description: "Will France send warships through the Strait of Hormuz by July 31, 2026? Odds: 1.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will France send warships through the Strait of Hormuz by July 31, 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-07-21
+status: "settled"
+lastUpdated: 2026-07-22
 expiryDate: 2026-07-31
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 1.9

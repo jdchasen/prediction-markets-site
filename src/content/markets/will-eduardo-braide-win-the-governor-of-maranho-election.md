@@ -1,14 +1,14 @@
 ---
 title: "Will Eduardo Braide win the Governor of Maranhão election?"
-description: "Will Eduardo Braide win the Governor of Maranhão election? Odds: 77.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Eduardo Braide win the Governor of Maranhão election? Odds: 79.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Eduardo Braide win the Governor of Maranhão election?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-07-21
+lastUpdated: 2026-07-22
 expiryDate: 2026-10-05
 tags: ["ai", "elections", "politics", "polymarket"]
-polymarketYes: 77.5
-polymarketNo: 22.5
+polymarketYes: 79.0
+polymarketNo: 21.0
 polymarketVolume: 9806
 polymarketUrl: "https://polymarket.com/event/will-eduardo-braide-win-the-governor-of-maranhao-election-20260611182114393"
 ---
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-eduardo-braide-win-the-governo
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 77.5% | 22.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 79.0% | 21.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Marco Rubio win the 2028 Republican presidential nomination?](/odds/will-marco-rubio-win-the-2028-republican-presidential-nomination) — 28% YES
 - [Will Eric Trump win the 2028 Republican presidential nomination?](/odds/will-eric-trump-win-the-2028-republican-presidential-nomination) — 0% YES
-- [Will the New York Mets win the 2026 World Series?](/odds/will-the-new-york-mets-win-the-2026-world-series) — 0% YES
+- [Will Nigel Farage win the Clacton by-election?](/odds/will-nigel-farage-win-the-clacton-by-election) — 96% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Eduardo Braide win the Governor of Maranhão election?"?
 
-As of July 21, 2026, Polymarket prices YES at 77.5%.
+As of July 22, 2026, Polymarket prices YES at 79.0%.
 
 ### Where can I trade on this prediction market?
 

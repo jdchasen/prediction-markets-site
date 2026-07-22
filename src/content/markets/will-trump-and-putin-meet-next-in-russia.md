@@ -3,8 +3,8 @@ title: "Will Trump and Putin meet next in Russia?"
 description: "Will Trump and Putin meet next in Russia? Odds: 4.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Trump and Putin meet next in Russia?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-07-21
+status: "settled"
+lastUpdated: 2026-07-22
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket", "trump"]
 polymarketYes: 4.4

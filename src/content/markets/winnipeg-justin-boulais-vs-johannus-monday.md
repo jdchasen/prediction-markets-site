@@ -3,8 +3,8 @@ title: "Winnipeg: Justin Boulais vs Johannus Monday"
 description: "Winnipeg: Justin Boulais vs Johannus Monday Odds: 20.3% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Winnipeg: Justin Boulais vs Johannus Monday"
 category: "politics"
-status: "active"
-lastUpdated: 2026-07-21
+status: "settled"
+lastUpdated: 2026-07-22
 expiryDate: 2026-07-27
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 20.3

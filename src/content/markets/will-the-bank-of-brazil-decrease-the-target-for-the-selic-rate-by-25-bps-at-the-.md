@@ -1,14 +1,14 @@
 ---
 title: "Will the Bank of Brazil decrease the target for the Selic rate by 25 bps at the September meeting?"
-description: "Will the Bank of Brazil decrease the target for the Selic rate by 25 bps at the September meeting? Odds: 57.0% YES on Polymarket. See live prices and trade t..."
+description: "Will the Bank of Brazil decrease the target for the Selic rate by 25 bps at the September meeting? Odds: 56.0% YES on Polymarket. See live prices and trade t..."
 marketQuestion: "Will the Bank of Brazil decrease the target for the Selic rate by 25 bps at the September meeting?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-07-21
+lastUpdated: 2026-07-22
 expiryDate: 2026-09-15
 tags: ["politics", "polymarket"]
-polymarketYes: 57.0
-polymarketNo: 43.0
+polymarketYes: 56.0
+polymarketNo: 44.0
 polymarketVolume: 9835
 polymarketUrl: "https://polymarket.com/event/will-the-bank-of-brazil-decrease-the-target-for-the-selic-rate-by-25-bps-at-the-september-meeting-20260616232715263"
 ---
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-the-bank-of-brazil-decrease-th
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 57.0% | 43.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 56.0% | 44.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Marco Rubio win the 2028 Republican presidential nomination?](/odds/will-marco-rubio-win-the-2028-republican-presidential-nomination) — 28% YES
 - [Will Eric Trump win the 2028 Republican presidential nomination?](/odds/will-eric-trump-win-the-2028-republican-presidential-nomination) — 0% YES
-- [Will the New York Mets win the 2026 World Series?](/odds/will-the-new-york-mets-win-the-2026-world-series) — 0% YES
+- [Will Nigel Farage win the Clacton by-election?](/odds/will-nigel-farage-win-the-clacton-by-election) — 96% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will the Bank of Brazil decrease the target for the Selic rate by 25 bps at the September meeting?"?
 
-As of July 21, 2026, Polymarket prices YES at 57.0%.
+As of July 22, 2026, Polymarket prices YES at 56.0%.
 
 ### Where can I trade on this prediction market?
 

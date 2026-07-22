@@ -3,8 +3,8 @@ title: "Will Neuralink's valuation hit (HIGH) $75B by July 31?"
 description: "Will Neuralink's valuation hit (HIGH) $75B by July 31? Odds: 1.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Neuralink's valuation hit (HIGH) $75B by July 31?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-07-21
+status: "settled"
+lastUpdated: 2026-07-22
 expiryDate: 2026-08-01
 tags: ["politics", "polymarket"]
 polymarketYes: 1.5

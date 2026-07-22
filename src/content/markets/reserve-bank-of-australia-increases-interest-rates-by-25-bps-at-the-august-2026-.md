@@ -3,8 +3,8 @@ title: "Reserve Bank of Australia increases interest rates by 25 bps at the Augu
 description: "Reserve Bank of Australia increases interest rates by 25 bps at the August 2026 meeting? Odds: 8.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Reserve Bank of Australia increases interest rates by 25 bps at the August 2026 meeting?"
 category: "economics"
-status: "active"
-lastUpdated: 2026-07-21
+status: "settled"
+lastUpdated: 2026-07-22
 expiryDate: 2026-08-11
 tags: ["economics", "interest-rates", "polymarket"]
 polymarketYes: 8.8

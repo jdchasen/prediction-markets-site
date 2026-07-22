@@ -3,8 +3,8 @@ title: "Will MOUZ Win BLAST Bounty 2026 Season 2?"
 description: "Will MOUZ Win BLAST Bounty 2026 Season 2? Odds: 3.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will MOUZ Win BLAST Bounty 2026 Season 2?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-07-21
+status: "settled"
+lastUpdated: 2026-07-22
 tags: ["politics", "polymarket"]
 polymarketYes: 3.2
 polymarketNo: 96.8

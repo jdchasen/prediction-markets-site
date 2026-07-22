@@ -3,8 +3,8 @@ title: "Will the Carolina Hurricanes be named the 2026-27 NHL Stanley Cup Champi
 description: "Will the Carolina Hurricanes be named the 2026-27 NHL Stanley Cup Champion? Odds: 10.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Carolina Hurricanes be named the 2026-27 NHL Stanley Cup Champion?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-07-21
+status: "settled"
+lastUpdated: 2026-07-22
 expiryDate: 2027-07-01
 tags: ["polymarket", "sports"]
 polymarketYes: 10.5

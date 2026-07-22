@@ -3,8 +3,8 @@ title: "Hamad bin Isa Al Khalifa out as leader of Bahrain by December 31, 2026?"
 description: "Hamad bin Isa Al Khalifa out as leader of Bahrain by December 31, 2026? Odds: 7.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Hamad bin Isa Al Khalifa out as leader of Bahrain by December 31, 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-07-21
+status: "settled"
+lastUpdated: 2026-07-22
 expiryDate: 2026-12-31
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 7.0

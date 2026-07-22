@@ -1,23 +1,23 @@
 ---
-title: "Will the Republican Party win the OR-06 House seat?"
-description: "Will the Republican Party win the OR-06 House seat? Odds: 2.6% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will the Republican Party win the OR-06 House seat?"
+title: "Will Russia enter Oleksiievo-Druzhkivka by September 30?"
+description: "Will Russia enter Oleksiievo-Druzhkivka by September 30? Odds: 37.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Russia enter Oleksiievo-Druzhkivka by September 30?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-07-22
-expiryDate: 2026-11-03
+expiryDate: 2026-09-30
 tags: ["politics", "polymarket"]
-polymarketYes: 2.6
-polymarketNo: 97.4
-polymarketVolume: 9861
-polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-or-06-house-seat"
+polymarketYes: 37.5
+polymarketNo: 62.5
+polymarketVolume: 9834
+polymarketUrl: "https://polymarket.com/event/will-russia-enter-oleksiievo-druzhkivka-by-september-30-20260706175201730"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 2.6% | 97.4% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 37.5% | 62.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-o
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will the Republican Party win the OR-06 House seat?"?
+### What are the current odds for "Will Russia enter Oleksiievo-Druzhkivka by September 30?"?
 
-As of July 22, 2026, Polymarket prices YES at 2.6%.
+As of July 22, 2026, Polymarket prices YES at 37.5%.
 
 ### Where can I trade on this prediction market?
 

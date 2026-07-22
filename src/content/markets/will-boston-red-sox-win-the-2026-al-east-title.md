@@ -3,8 +3,8 @@ title: "Will Boston Red Sox win the 2026 AL East title?"
 description: "Will Boston Red Sox win the 2026 AL East title? Odds: 8.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Boston Red Sox win the 2026 AL East title?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-07-21
+status: "settled"
+lastUpdated: 2026-07-22
 expiryDate: 2026-10-11
 tags: ["politics", "polymarket"]
 polymarketYes: 8.1
