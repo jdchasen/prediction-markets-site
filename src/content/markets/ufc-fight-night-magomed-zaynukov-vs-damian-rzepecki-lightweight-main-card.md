@@ -1,23 +1,23 @@
 ---
-title: "UFC Fight Night: Ramazan Temirov vs. Steve Erceg (Flyweight, Main Card)"
-description: "UFC Fight Night: Ramazan Temirov vs. Steve Erceg (Flyweight, Main Card) Odds: 50.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "UFC Fight Night: Ramazan Temirov vs. Steve Erceg (Flyweight, Main Card)"
+title: "UFC Fight Night: Magomed Zaynukov vs. Damian Rzepecki (Lightweight, Main Card)"
+description: "UFC Fight Night: Magomed Zaynukov vs. Damian Rzepecki (Lightweight, Main Card) Odds: 73.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "UFC Fight Night: Magomed Zaynukov vs. Damian Rzepecki (Lightweight, Main Card)"
 category: "politics"
-status: "settled"
+status: "active"
 lastUpdated: 2026-07-22
 expiryDate: 2026-07-26
 tags: ["ai", "politics", "polymarket"]
-polymarketYes: 50.5
-polymarketNo: 49.5
-polymarketVolume: 9788
-polymarketUrl: "https://polymarket.com/event/ufc-ram10-ste14-2026-07-25"
+polymarketYes: 73.5
+polymarketNo: 26.5
+polymarketVolume: 9891
+polymarketUrl: "https://polymarket.com/event/ufc-mag11-drzepe-2026-07-25"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 50.5% | 49.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 73.5% | 26.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/ufc-ram10-ste14-2026-07-25"
 
 ## Frequently Asked Questions
 
-### What are the current odds for "UFC Fight Night: Ramazan Temirov vs. Steve Erceg (Flyweight, Main Card)"?
+### What are the current odds for "UFC Fight Night: Magomed Zaynukov vs. Damian Rzepecki (Lightweight, Main Card)"?
 
-As of July 22, 2026, Polymarket prices YES at 50.5%.
+As of July 22, 2026, Polymarket prices YES at 73.5%.
 
 ### Where can I trade on this prediction market?
 

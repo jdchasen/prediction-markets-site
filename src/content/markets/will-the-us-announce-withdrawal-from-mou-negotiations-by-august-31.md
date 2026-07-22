@@ -3,7 +3,7 @@ title: "Will the US announce withdrawal from MOU negotiations by August 31?"
 description: "Will the US announce withdrawal from MOU negotiations by August 31? Odds: 23.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the US announce withdrawal from MOU negotiations by August 31?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-07-22
 expiryDate: 2026-08-31
 tags: ["politics", "polymarket"]

@@ -9,7 +9,7 @@ expiryDate: 2026-07-30
 tags: ["economics", "polymarket"]
 polymarketYes: 3.5
 polymarketNo: 96.5
-polymarketVolume: 9559
+polymarketVolume: 9564
 polymarketUrl: "https://polymarket.com/event/will-mexico-gdp-growth-in-q2-2026-be-between-0pt5-and-0pt0"
 ---
 
@@ -21,9 +21,9 @@ polymarketUrl: "https://polymarket.com/event/will-mexico-gdp-growth-in-q2-2026-b
 
 ## Related Markets
 
-- [Will the Fed increase interest rates by 25 bps after the September 2026 meeting?](/odds/will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting) — 48% YES
+- [Will the Fed increase interest rates by 25 bps after the September 2026 meeting?](/odds/will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting) — 50% YES
+- [Will the Fed decrease interest rates by 50+ bps after the October 2026 meeting?](/odds/will-the-fed-decrease-interest-rates-by-50-bps-after-the-october-2026-meeting) — 2% YES
 - [Will Core CPI MoM be 0.1% in July?](/odds/will-core-cpi-mom-be-01-in-july) — 26% YES
-- [Will Brazil’s Annual Inflation in 2026 be between 4.00% and 4.49%?](/odds/will-brazils-annual-inflation-in-2026-be-between-400-and-449) — 7% YES
 
 ## Frequently Asked Questions
 

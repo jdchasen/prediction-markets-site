@@ -1,14 +1,14 @@
 ---
 title: "Will less than 5 SpaceX Starship launches successfully reach Space in 2026?"
-description: "Will less than 5 SpaceX Starship launches successfully reach Space in 2026? Odds: 27.5% YES on Polymarket. See live prices and trade this market."
+description: "Will less than 5 SpaceX Starship launches successfully reach Space in 2026? Odds: 26.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will less than 5 SpaceX Starship launches successfully reach Space in 2026?"
 category: "tech"
 status: "active"
 lastUpdated: 2026-07-22
 expiryDate: 2026-12-31
 tags: ["polymarket", "tech"]
-polymarketYes: 27.5
-polymarketNo: 72.5
+polymarketYes: 26.5
+polymarketNo: 73.5
 polymarketVolume: 97891
 polymarketUrl: "https://polymarket.com/event/will-less-than-5-spacex-starship-launches-successfully-reach-space-in-2026"
 ---
@@ -17,17 +17,17 @@ polymarketUrl: "https://polymarket.com/event/will-less-than-5-spacex-starship-la
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 27.5% | 72.5% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 26.5% | 73.5% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Elon Musk post 40-64 tweets from July 23 to July 25, 2026?](/odds/will-elon-musk-post-40-64-tweets-from-july-23-to-july-25-2026) — 44% YES
+- [Will Elon Musk tweet "Hyperliquid" by August 31, 2026?](/odds/will-elon-musk-tweet-hyperliquid-by-august-31-2026) — 26% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will less than 5 SpaceX Starship launches successfully reach Space in 2026?"?
 
-As of July 22, 2026, Polymarket prices YES at 27.5%.
+As of July 22, 2026, Polymarket prices YES at 26.5%.
 
 ### Where can I trade on this prediction market?
 

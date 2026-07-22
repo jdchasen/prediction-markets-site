@@ -3,7 +3,7 @@ title: "Will Rodri stay at Manchester City?"
 description: "Will Rodri stay at Manchester City? Odds: 42.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Rodri stay at Manchester City?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-07-22
 expiryDate: 2026-09-02
 tags: ["politics", "polymarket"]

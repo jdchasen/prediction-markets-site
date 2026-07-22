@@ -9,7 +9,7 @@ expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
 polymarketYes: 67.5
 polymarketNo: 32.5
-polymarketVolume: 9858
+polymarketVolume: 9955
 polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-fl-07-house-seat"
 ---
 

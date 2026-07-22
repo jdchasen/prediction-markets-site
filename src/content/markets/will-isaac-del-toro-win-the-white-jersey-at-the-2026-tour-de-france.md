@@ -1,23 +1,23 @@
 ---
-title: "Will Luiz Inácio Lula da Silva finish in third place in the first round of the 2026 Brazilian presidential election?"
-description: "Will Luiz Inácio Lula da Silva finish in third place in the first round of the 2026 Brazilian presidential election? Odds: 1.7% YES on Polymarket. See live p..."
-marketQuestion: "Will Luiz Inácio Lula da Silva finish in third place in the first round of the 2026 Brazilian presidential election?"
+title: "Will Isaac del Toro win the White Jersey at the 2026 Tour De France?"
+description: "Will Isaac del Toro win the White Jersey at the 2026 Tour De France? Odds: 51.0% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Isaac del Toro win the White Jersey at the 2026 Tour De France?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-07-22
-expiryDate: 2026-10-04
-tags: ["elections", "politics", "polymarket"]
-polymarketYes: 1.7
-polymarketNo: 98.4
-polymarketVolume: 9782
-polymarketUrl: "https://polymarket.com/event/will-luiz-incio-lula-da-silva-finish-in-third-place-in-the-first-round-of-the-2026-brazilian-presidential-election"
+expiryDate: 2026-08-09
+tags: ["politics", "polymarket"]
+polymarketYes: 51.0
+polymarketNo: 49.0
+polymarketVolume: 9985
+polymarketUrl: "https://polymarket.com/event/will-isaac-del-toro-win-the-white-jersey-at-the-2026-tour-de-france-20260702205142933"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 1.7% | 98.4% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 51.0% | 49.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-luiz-incio-lula-da-silva-finis
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Luiz Inácio Lula da Silva finish in third place in the first round of the 2026 Brazilian presidential election?"?
+### What are the current odds for "Will Isaac del Toro win the White Jersey at the 2026 Tour De France?"?
 
-As of July 22, 2026, Polymarket prices YES at 1.7%.
+As of July 22, 2026, Polymarket prices YES at 51.0%.
 
 ### Where can I trade on this prediction market?
 

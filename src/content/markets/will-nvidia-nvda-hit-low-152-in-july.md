@@ -1,15 +1,15 @@
 ---
 title: "Will NVIDIA (NVDA) hit (LOW) $152 in July?"
-description: "Will NVIDIA (NVDA) hit (LOW) $152 in July? Odds: 0.3% YES on Polymarket. See live prices and trade this market."
+description: "Will NVIDIA (NVDA) hit (LOW) $152 in July? Odds: 0.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will NVIDIA (NVDA) hit (LOW) $152 in July?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-07-22
 expiryDate: 2026-08-01
 tags: ["politics", "polymarket"]
-polymarketYes: 0.3
-polymarketNo: 99.7
-polymarketVolume: 9782
+polymarketYes: 0.2
+polymarketNo: 99.8
+polymarketVolume: 9866
 polymarketUrl: "https://polymarket.com/event/will-nvda-dip-to-152-in-july-2026"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-nvda-dip-to-152-in-july-2026"
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.3% | 99.7% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.2% | 99.8% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-nvda-dip-to-152-in-july-2026"
 
 ### What are the current odds for "Will NVIDIA (NVDA) hit (LOW) $152 in July?"?
 
-As of July 22, 2026, Polymarket prices YES at 0.3%.
+As of July 22, 2026, Polymarket prices YES at 0.2%.
 
 ### Where can I trade on this prediction market?
 

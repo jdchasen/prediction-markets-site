@@ -3,7 +3,7 @@ title: "Will Rahm Emanuel announce a Presidential run before 2027?"
 description: "Will Rahm Emanuel announce a Presidential run before 2027? Odds: 11.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Rahm Emanuel announce a Presidential run before 2027?"
 category: "politics"
-status: "settled"
+status: "active"
 lastUpdated: 2026-07-22
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
@@ -23,13 +23,13 @@ polymarketUrl: "https://polymarket.com/event/will-rahm-emanuel-announce-a-presid
 
 - [Will Marco Rubio win the 2028 Republican presidential nomination?](/odds/will-marco-rubio-win-the-2028-republican-presidential-nomination) — 28% YES
 - [Will Eric Trump win the 2028 Republican presidential nomination?](/odds/will-eric-trump-win-the-2028-republican-presidential-nomination) — 0% YES
-- [Will the New York Mets win the 2026 World Series?](/odds/will-the-new-york-mets-win-the-2026-world-series) — 0% YES
+- [Will Nigel Farage win the Clacton by-election?](/odds/will-nigel-farage-win-the-clacton-by-election) — 96% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Rahm Emanuel announce a Presidential run before 2027?"?
 
-As of July 21, 2026, Polymarket prices YES at 11.5%.
+As of July 22, 2026, Polymarket prices YES at 11.5%.
 
 ### Where can I trade on this prediction market?
 

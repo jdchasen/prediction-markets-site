@@ -9,7 +9,7 @@ expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
 polymarketYes: 2.6
 polymarketNo: 97.4
-polymarketVolume: 9861
+polymarketVolume: 9961
 polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-or-06-house-seat"
 ---
 

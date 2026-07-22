@@ -1,23 +1,23 @@
 ---
-title: "Will Byron Donalds announce a presidential run before 2027?"
-description: "Will Byron Donalds announce a presidential run before 2027? Odds: 1.9% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Byron Donalds announce a presidential run before 2027?"
+title: "Will the Republican Party win the FL-09 House seat?"
+description: "Will the Republican Party win the FL-09 House seat? Odds: 75.0% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will the Republican Party win the FL-09 House seat?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-07-22
-expiryDate: 2026-12-31
+expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
-polymarketYes: 1.9
-polymarketNo: 98.0
-polymarketVolume: 9911
-polymarketUrl: "https://polymarket.com/event/will-byron-donalds-announce-a-presidential-run-before-2027"
+polymarketYes: 75.0
+polymarketNo: 25.0
+polymarketVolume: 9934
+polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-fl-09-house-seat"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 1.9% | 98.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 75.0% | 25.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-byron-donalds-announce-a-presi
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Byron Donalds announce a presidential run before 2027?"?
+### What are the current odds for "Will the Republican Party win the FL-09 House seat?"?
 
-As of July 22, 2026, Polymarket prices YES at 1.9%.
+As of July 22, 2026, Polymarket prices YES at 75.0%.
 
 ### Where can I trade on this prediction market?
 
