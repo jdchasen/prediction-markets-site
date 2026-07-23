@@ -3,7 +3,7 @@ title: "Will Russia enter Oleksiievo-Druzhkivka by September 30?"
 description: "Will Russia enter Oleksiievo-Druzhkivka by September 30? Odds: 37.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Russia enter Oleksiievo-Druzhkivka by September 30?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-07-23
 expiryDate: 2026-09-30
 tags: ["politics", "polymarket"]

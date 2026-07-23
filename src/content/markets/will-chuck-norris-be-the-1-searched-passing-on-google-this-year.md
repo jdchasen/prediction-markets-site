@@ -1,23 +1,23 @@
 ---
-title: "Will any presidential candidate win outright in the first round of the Brazil election?"
-description: "Will any presidential candidate win outright in the first round of the Brazil election? Odds: 12.0% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will any presidential candidate win outright in the first round of the Brazil election?"
+title: "Will Chuck Norris be the #1 searched passing on Google this year?"
+description: "Will Chuck Norris be the #1 searched passing on Google this year? Odds: 19.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Chuck Norris be the #1 searched passing on Google this year?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-07-23
-expiryDate: 2026-10-04
-tags: ["elections", "politics", "polymarket"]
-polymarketYes: 12.0
-polymarketNo: 88.0
-polymarketVolume: 97874
-polymarketUrl: "https://polymarket.com/event/will-any-presidential-candidate-win-outright-in-the-first-round-of-the-brazil-election"
+expiryDate: 2026-12-31
+tags: ["politics", "polymarket"]
+polymarketYes: 19.5
+polymarketNo: 80.5
+polymarketVolume: 9773
+polymarketUrl: "https://polymarket.com/event/will-chuck-norris-be-the-1-searched-passing-on-google-this-year-20260717220846803"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 12.0% | 88.0% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 19.5% | 80.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-any-presidential-candidate-win
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will any presidential candidate win outright in the first round of the Brazil election?"?
+### What are the current odds for "Will Chuck Norris be the #1 searched passing on Google this year?"?
 
-As of July 23, 2026, Polymarket prices YES at 12.0%.
+As of July 23, 2026, Polymarket prices YES at 19.5%.
 
 ### Where can I trade on this prediction market?
 

@@ -3,7 +3,7 @@ title: "Will Luiz Inácio Lula da Silva win the first round of the 2026 Brazilia
 description: "Will Luiz Inácio Lula da Silva win the first round of the 2026 Brazilian presidential election by at least 15%? Odds: 11.2% YES on Polymarket. See live price..."
 marketQuestion: "Will Luiz Inácio Lula da Silva win the first round of the 2026 Brazilian presidential election by at least 15%?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-07-23
 expiryDate: 2026-10-04
 tags: ["elections", "politics", "polymarket"]

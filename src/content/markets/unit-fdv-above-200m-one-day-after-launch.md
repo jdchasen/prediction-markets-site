@@ -22,8 +22,8 @@ polymarketUrl: "https://polymarket.com/event/unit-fdv-above-200m-one-day-after-l
 ## Related Markets
 
 - [Will MetaMask launch a token by September 30, 2026?](/odds/will-metamask-launch-a-token-by-september-30-2026) — 4% YES
-- [Will Bitcoin reach $72,500 in July?](/odds/will-bitcoin-reach-72500-in-july) — 6% YES
 - [Extended FDV above $1B one day after launch?](/odds/extended-fdv-above-1b-one-day-after-launch) — 8% YES
+- [Will Loopscale launch a token by December 31, 2026?](/odds/will-loopscale-launch-a-token-by-december-31-2026) — 28% YES
 
 ## Frequently Asked Questions
 

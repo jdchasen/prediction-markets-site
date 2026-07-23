@@ -3,7 +3,7 @@ title: "Will Ethereum reach $2,100 July 20-26?"
 description: "Will Ethereum reach $2,100 July 20-26? Odds: 4.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Ethereum reach $2,100 July 20-26?"
 category: "crypto"
-status: "active"
+status: "settled"
 lastUpdated: 2026-07-23
 expiryDate: 2026-07-27
 tags: ["crypto", "ethereum", "polymarket"]

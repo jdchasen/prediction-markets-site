@@ -3,7 +3,7 @@ title: "Will Russia enter Krasnoiarske by September 30?"
 description: "Will Russia enter Krasnoiarske by September 30? Odds: 96.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Russia enter Krasnoiarske by September 30?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-07-23
 expiryDate: 2026-09-30
 tags: ["politics", "polymarket"]

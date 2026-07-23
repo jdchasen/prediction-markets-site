@@ -9,7 +9,7 @@ expiryDate: 2026-08-31
 tags: ["politics", "polymarket"]
 polymarketYes: 1.1
 polymarketNo: 99.0
-polymarketVolume: 98344
+polymarketVolume: 98352
 polymarketUrl: "https://polymarket.com/event/will-min-woo-lee-win-the-2026-tour-championship-517"
 ---
 

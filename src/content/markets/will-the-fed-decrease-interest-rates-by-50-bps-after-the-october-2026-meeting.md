@@ -22,8 +22,8 @@ polymarketUrl: "https://polymarket.com/event/will-the-fed-decrease-interest-rate
 ## Related Markets
 
 - [Will Core CPI MoM be 0.1% in July?](/odds/will-core-cpi-mom-be-01-in-july) — 26% YES
-- [Will Brazil’s Annual Inflation in 2026 be between 4.00% and 4.49%?](/odds/will-brazils-annual-inflation-in-2026-be-between-400-and-449) — 6% YES
-- [Will 1 Fed rate hike happen in 2026?](/odds/will-1-fed-rate-hike-happen-in-2026) — 30% YES
+- [Will 1 Fed rate hike happen in 2026?](/odds/will-1-fed-rate-hike-happen-in-2026) — 28% YES
+- [Will Brazil’s Annual Inflation in 2026 be between 4.00% and 4.49%?](/odds/will-brazils-annual-inflation-in-2026-be-between-400-and-449) — 7% YES
 
 ## Frequently Asked Questions
 

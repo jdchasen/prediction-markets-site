@@ -1,23 +1,23 @@
 ---
-title: "Will any presidential candidate win outright in the first round of the Brazil election?"
-description: "Will any presidential candidate win outright in the first round of the Brazil election? Odds: 12.0% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will any presidential candidate win outright in the first round of the Brazil election?"
+title: "Will Russia capture all of Chasiv Yar by December 31?"
+description: "Will Russia capture all of Chasiv Yar by December 31? Odds: 52.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Russia capture all of Chasiv Yar by December 31?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-07-23
-expiryDate: 2026-10-04
-tags: ["elections", "politics", "polymarket"]
-polymarketYes: 12.0
-polymarketNo: 88.0
-polymarketVolume: 97874
-polymarketUrl: "https://polymarket.com/event/will-any-presidential-candidate-win-outright-in-the-first-round-of-the-brazil-election"
+expiryDate: 2026-12-31
+tags: ["politics", "polymarket"]
+polymarketYes: 52.5
+polymarketNo: 47.5
+polymarketVolume: 9774
+polymarketUrl: "https://polymarket.com/event/will-russia-capture-all-of-chasiv-yar-by-december-31"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 12.0% | 88.0% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 52.5% | 47.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-any-presidential-candidate-win
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will any presidential candidate win outright in the first round of the Brazil election?"?
+### What are the current odds for "Will Russia capture all of Chasiv Yar by December 31?"?
 
-As of July 23, 2026, Polymarket prices YES at 12.0%.
+As of July 23, 2026, Polymarket prices YES at 52.5%.
 
 ### Where can I trade on this prediction market?
 

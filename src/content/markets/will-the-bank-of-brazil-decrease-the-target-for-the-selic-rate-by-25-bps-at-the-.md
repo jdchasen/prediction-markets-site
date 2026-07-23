@@ -3,7 +3,7 @@ title: "Will the Bank of Brazil decrease the target for the Selic rate by 25 bps
 description: "Will the Bank of Brazil decrease the target for the Selic rate by 25 bps at the September meeting? Odds: 54.6% YES on Polymarket. See live prices and trade t..."
 marketQuestion: "Will the Bank of Brazil decrease the target for the Selic rate by 25 bps at the September meeting?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-07-23
 expiryDate: 2026-09-15
 tags: ["politics", "polymarket"]

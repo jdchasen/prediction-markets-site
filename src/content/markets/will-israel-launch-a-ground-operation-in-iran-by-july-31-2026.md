@@ -1,15 +1,15 @@
 ---
 title: "Will Israel launch a ground operation in Iran by July 31, 2026?"
-description: "Will Israel launch a ground operation in Iran by July 31, 2026? Odds: 1.8% YES on Polymarket. See live prices and trade this market."
+description: "Will Israel launch a ground operation in Iran by July 31, 2026? Odds: 4.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Israel launch a ground operation in Iran by July 31, 2026?"
 category: "politics"
-status: "settled"
-lastUpdated: 2026-07-08
+status: "active"
+lastUpdated: 2026-07-23
 expiryDate: 2026-07-31
 tags: ["politics", "polymarket"]
-polymarketYes: 1.8
-polymarketNo: 98.2
-polymarketVolume: 9967
+polymarketYes: 4.0
+polymarketNo: 96.0
+polymarketVolume: 99941
 polymarketUrl: "https://polymarket.com/event/will-israel-launch-a-ground-operation-in-iran-by-july-31-2026"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-israel-launch-a-ground-operati
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 1.8% | 98.2% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 4.0% | 96.0% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will James Talarico win the 2028 Democratic presidential nomination?](/odds/will-james-talarico-win-the-2028-democratic-presidential-nomination) — 1% YES
-- [Trump out as President before 2027?](/odds/trump-out-as-president-before-2027) — 8% YES
-- [Will there be no Head of State in Iran end of 2026?](/odds/will-there-be-no-head-of-state-in-iran-end-of-2026) — 2% YES
+- [Will Marco Rubio win the 2028 Republican presidential nomination?](/odds/will-marco-rubio-win-the-2028-republican-presidential-nomination) — 28% YES
+- [Will Eric Trump win the 2028 Republican presidential nomination?](/odds/will-eric-trump-win-the-2028-republican-presidential-nomination) — 0% YES
+- [Will the New York Mets win the 2026 World Series?](/odds/will-the-new-york-mets-win-the-2026-world-series) — 0% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Israel launch a ground operation in Iran by July 31, 2026?"?
 
-As of July 08, 2026, Polymarket prices YES at 1.8%.
+As of July 23, 2026, Polymarket prices YES at 4.0%.
 
 ### Where can I trade on this prediction market?
 

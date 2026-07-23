@@ -9,7 +9,7 @@ expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 0.2
 polymarketNo: 99.8
-polymarketVolume: 97790
+polymarketVolume: 97844
 polymarketUrl: "https://polymarket.com/event/will-sabrina-carpenter-be-the-top-spotify-artist-for-2026"
 ---
 

@@ -3,7 +3,7 @@ title: "Will Bitcoin reach $72,500 in July?"
 description: "Will Bitcoin reach $72,500 in July? Odds: 5.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Bitcoin reach $72,500 in July?"
 category: "crypto"
-status: "active"
+status: "settled"
 lastUpdated: 2026-07-23
 expiryDate: 2026-08-01
 tags: ["bitcoin", "crypto", "polymarket"]

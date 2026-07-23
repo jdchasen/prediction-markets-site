@@ -1,15 +1,15 @@
 ---
 title: "Will the Republican Party win the FL-09 House seat?"
-description: "Will the Republican Party win the FL-09 House seat? Odds: 75.0% YES on Polymarket. See live prices and trade this market."
+description: "Will the Republican Party win the FL-09 House seat? Odds: 76.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Republican Party win the FL-09 House seat?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-07-23
 expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
-polymarketYes: 75.0
-polymarketNo: 25.0
-polymarketVolume: 9948
+polymarketYes: 76.5
+polymarketNo: 23.5
+polymarketVolume: 9958
 polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-fl-09-house-seat"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-f
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 75.0% | 25.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 76.5% | 23.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-f
 
 ### What are the current odds for "Will the Republican Party win the FL-09 House seat?"?
 
-As of July 23, 2026, Polymarket prices YES at 75.0%.
+As of July 23, 2026, Polymarket prices YES at 76.5%.
 
 ### Where can I trade on this prediction market?
 

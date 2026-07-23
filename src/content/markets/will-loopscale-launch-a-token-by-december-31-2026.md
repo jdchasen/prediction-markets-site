@@ -1,14 +1,14 @@
 ---
 title: "Will Loopscale launch a token by December 31, 2026?"
-description: "Will Loopscale launch a token by December 31, 2026? Odds: 29.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Loopscale launch a token by December 31, 2026? Odds: 28.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Loopscale launch a token by December 31, 2026?"
 category: "crypto"
 status: "active"
 lastUpdated: 2026-07-23
 expiryDate: 2027-01-01
 tags: ["crypto", "polymarket"]
-polymarketYes: 29.5
-polymarketNo: 70.5
+polymarketYes: 28.0
+polymarketNo: 72.0
 polymarketVolume: 98809
 polymarketUrl: "https://polymarket.com/event/will-loopscale-launch-a-token-by-december-31-2026"
 ---
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-loopscale-launch-a-token-by-de
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 29.5% | 70.5% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 28.0% | 72.0% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will MetaMask launch a token by September 30, 2026?](/odds/will-metamask-launch-a-token-by-september-30-2026) — 4% YES
-- [Will Bitcoin reach $72,500 in July?](/odds/will-bitcoin-reach-72500-in-july) — 6% YES
 - [Extended FDV above $1B one day after launch?](/odds/extended-fdv-above-1b-one-day-after-launch) — 8% YES
+- [Unit FDV above $200M one day after launch?](/odds/unit-fdv-above-200m-one-day-after-launch) — 50% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Loopscale launch a token by December 31, 2026?"?
 
-As of July 23, 2026, Polymarket prices YES at 29.5%.
+As of July 23, 2026, Polymarket prices YES at 28.0%.
 
 ### Where can I trade on this prediction market?
 

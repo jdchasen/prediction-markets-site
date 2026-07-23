@@ -9,7 +9,7 @@ expiryDate: 2027-03-31
 tags: ["polymarket", "sports"]
 polymarketYes: 3.9
 polymarketNo: 96.2
-polymarketVolume: 979243
+polymarketVolume: 979307
 polymarketUrl: "https://polymarket.com/event/will-the-philadelphia-eagles-win-the-2027-nfl-league-championship"
 ---
 

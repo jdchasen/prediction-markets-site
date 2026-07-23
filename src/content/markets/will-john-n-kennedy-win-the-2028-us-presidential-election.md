@@ -1,23 +1,23 @@
 ---
-title: "Will any presidential candidate win outright in the first round of the Brazil election?"
-description: "Will any presidential candidate win outright in the first round of the Brazil election? Odds: 12.0% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will any presidential candidate win outright in the first round of the Brazil election?"
+title: "Will John N. Kennedy win the 2028 US Presidential Election?"
+description: "Will John N. Kennedy win the 2028 US Presidential Election? Odds: 0.2% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will John N. Kennedy win the 2028 US Presidential Election?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-07-23
-expiryDate: 2026-10-04
+expiryDate: 2028-11-07
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 12.0
-polymarketNo: 88.0
-polymarketVolume: 97874
-polymarketUrl: "https://polymarket.com/event/will-any-presidential-candidate-win-outright-in-the-first-round-of-the-brazil-election"
+polymarketYes: 0.2
+polymarketNo: 99.8
+polymarketVolume: 98231
+polymarketUrl: "https://polymarket.com/event/will-john-n-kennedy-win-the-2028-us-presidential-election"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 12.0% | 88.0% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.2% | 99.8% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-any-presidential-candidate-win
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will any presidential candidate win outright in the first round of the Brazil election?"?
+### What are the current odds for "Will John N. Kennedy win the 2028 US Presidential Election?"?
 
-As of July 23, 2026, Polymarket prices YES at 12.0%.
+As of July 23, 2026, Polymarket prices YES at 0.2%.
 
 ### Where can I trade on this prediction market?
 
@@ -37,6 +37,6 @@ You can trade this market on [Polymarket](https://polymarket.us/1762?utm_source=
 
 ## Learn More
 
+- [Who Will Win 2028 GOP Nomination? Market Odds](/blog/who-will-win-2028-gop-nomination-market-odds)
 - [Will Oil Hit $100? March Crude Prediction Market Odds](/blog/will-oil-hit-100-march-crude-prediction-market-odds)
-- [Will MicroStrategy Sell Bitcoin? Market Odds](/blog/will-microstrategy-sell-bitcoin-market-odds)
 

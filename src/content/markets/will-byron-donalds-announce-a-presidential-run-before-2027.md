@@ -1,14 +1,14 @@
 ---
 title: "Will Byron Donalds announce a presidential run before 2027?"
-description: "Will Byron Donalds announce a presidential run before 2027? Odds: 1.8% YES on Polymarket. See live prices and trade this market."
+description: "Will Byron Donalds announce a presidential run before 2027? Odds: 1.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Byron Donalds announce a presidential run before 2027?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-07-23
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 1.8
-polymarketNo: 98.2
+polymarketYes: 1.5
+polymarketNo: 98.5
 polymarketVolume: 9911
 polymarketUrl: "https://polymarket.com/event/will-byron-donalds-announce-a-presidential-run-before-2027"
 ---
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-byron-donalds-announce-a-presi
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 1.8% | 98.2% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 1.5% | 98.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-byron-donalds-announce-a-presi
 
 ### What are the current odds for "Will Byron Donalds announce a presidential run before 2027?"?
 
-As of July 23, 2026, Polymarket prices YES at 1.8%.
+As of July 23, 2026, Polymarket prices YES at 1.5%.
 
 ### Where can I trade on this prediction market?
 
