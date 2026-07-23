@@ -1,23 +1,23 @@
 ---
-title: "Unit FDV above $200M one day after launch?"
-description: "Unit FDV above $200M one day after launch? Odds: 50.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Unit FDV above $200M one day after launch?"
+title: "Will Ethereum reach $2,100 July 20-26?"
+description: "Will Ethereum reach $2,100 July 20-26? Odds: 4.0% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Ethereum reach $2,100 July 20-26?"
 category: "crypto"
 status: "active"
 lastUpdated: 2026-07-23
-expiryDate: 2028-01-01
-tags: ["crypto", "polymarket"]
-polymarketYes: 50.5
-polymarketNo: 49.5
-polymarketVolume: 98268
-polymarketUrl: "https://polymarket.com/event/unit-fdv-above-200m-one-day-after-launch"
+expiryDate: 2026-07-27
+tags: ["crypto", "ethereum", "polymarket"]
+polymarketYes: 4.0
+polymarketNo: 96.0
+polymarketVolume: 9881
+polymarketUrl: "https://polymarket.com/event/will-ethereum-reach-2100-july-20-26-2026"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 50.5% | 49.5% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 4.0% | 96.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/unit-fdv-above-200m-one-day-after-l
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Unit FDV above $200M one day after launch?"?
+### What are the current odds for "Will Ethereum reach $2,100 July 20-26?"?
 
-As of July 23, 2026, Polymarket prices YES at 50.5%.
+As of July 23, 2026, Polymarket prices YES at 4.0%.
 
 ### Where can I trade on this prediction market?
 

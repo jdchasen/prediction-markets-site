@@ -3,8 +3,8 @@ title: "Epstein storage units raided in 2026?"
 description: "Epstein storage units raided in 2026? Odds: 25.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Epstein storage units raided in 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-07-22
+status: "settled"
+lastUpdated: 2026-07-23
 expiryDate: 2026-12-31
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 25.5

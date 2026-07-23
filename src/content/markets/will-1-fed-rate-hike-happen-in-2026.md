@@ -1,23 +1,23 @@
 ---
-title: "Will Mexico GDP growth in Q2 2026 be between -0.5% and 0.0%?"
-description: "Will Mexico GDP growth in Q2 2026 be between -0.5% and 0.0%? Odds: 2.9% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Mexico GDP growth in Q2 2026 be between -0.5% and 0.0%?"
+title: "Will 1 Fed rate hike happen in 2026?"
+description: "Will 1 Fed rate hike happen in 2026? Odds: 30.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will 1 Fed rate hike happen in 2026?"
 category: "economics"
 status: "active"
 lastUpdated: 2026-07-23
-expiryDate: 2026-07-30
-tags: ["economics", "polymarket"]
-polymarketYes: 2.9
-polymarketNo: 97.0
-polymarketVolume: 9564
-polymarketUrl: "https://polymarket.com/event/will-mexico-gdp-growth-in-q2-2026-be-between-0pt5-and-0pt0"
+expiryDate: 2026-12-31
+tags: ["economics", "federal-reserve", "polymarket"]
+polymarketYes: 30.5
+polymarketNo: 69.5
+polymarketVolume: 9641
+polymarketUrl: "https://polymarket.com/event/will-1-fed-rate-hike-happen-in-2026-20260623190852890"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 2.9% | 97.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 30.5% | 69.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-mexico-gdp-growth-in-q2-2026-b
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Mexico GDP growth in Q2 2026 be between -0.5% and 0.0%?"?
+### What are the current odds for "Will 1 Fed rate hike happen in 2026?"?
 
-As of July 23, 2026, Polymarket prices YES at 2.9%.
+As of July 23, 2026, Polymarket prices YES at 30.5%.
 
 ### Where can I trade on this prediction market?
 
@@ -37,6 +37,6 @@ You can trade this market on [Polymarket](https://polymarket.us/1762?utm_source=
 
 ## Learn More
 
+- [Tesla SpaceX Merger: Will It Actually Happen in 2026?](/blog/tesla-spacex-merger-will-it-actually-happen-in-2026)
 - [Will ETH Hit $4,500 in 2026? Live Market Odds](/blog/will-ethereum-reach-4500-in-2026-what-prediction-markets-say)
-- [Will Discord IPO in 2026? What Prediction Markets Say](/blog/will-discord-ipo-in-2026-what-prediction-markets-say)
 

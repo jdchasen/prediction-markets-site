@@ -3,8 +3,8 @@ title: "Will Gold (XAUUSD) hit (HIGH) $4,300 in July?"
 description: "Will Gold (XAUUSD) hit (HIGH) $4,300 in July? Odds: 17.3% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Gold (XAUUSD) hit (HIGH) $4,300 in July?"
 category: "finance"
-status: "active"
-lastUpdated: 2026-07-22
+status: "settled"
+lastUpdated: 2026-07-23
 expiryDate: 2026-08-01
 tags: ["finance", "polymarket"]
 polymarketYes: 17.3

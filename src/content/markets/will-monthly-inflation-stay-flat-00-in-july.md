@@ -3,8 +3,8 @@ title: "Will monthly inflation stay flat (0.0%) in July?"
 description: "Will monthly inflation stay flat (0.0%) in July? Odds: 20.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will monthly inflation stay flat (0.0%) in July?"
 category: "economics"
-status: "active"
-lastUpdated: 2026-07-22
+status: "settled"
+lastUpdated: 2026-07-23
 expiryDate: 2026-08-12
 tags: ["economics", "polymarket", "sports"]
 polymarketYes: 20.5

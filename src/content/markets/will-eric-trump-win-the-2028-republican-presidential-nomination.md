@@ -4,12 +4,12 @@ description: "Will Eric Trump win the 2028 Republican presidential nomination? O
 marketQuestion: "Will Eric Trump win the 2028 Republican presidential nomination?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-07-22
+lastUpdated: 2026-07-23
 expiryDate: 2028-11-07
 tags: ["politics", "polymarket", "trump"]
 polymarketYes: 0.5
 polymarketNo: 99.5
-polymarketVolume: 9882377
+polymarketVolume: 9882888
 polymarketUrl: "https://polymarket.com/event/will-eric-trump-win-the-2028-republican-presidential-nomination"
 ---
 
@@ -22,14 +22,14 @@ polymarketUrl: "https://polymarket.com/event/will-eric-trump-win-the-2028-republ
 ## Related Markets
 
 - [Will Marco Rubio win the 2028 Republican presidential nomination?](/odds/will-marco-rubio-win-the-2028-republican-presidential-nomination) — 28% YES
-- [Will Nigel Farage win the Clacton by-election?](/odds/will-nigel-farage-win-the-clacton-by-election) — 96% YES
 - [Will the New York Mets win the 2026 World Series?](/odds/will-the-new-york-mets-win-the-2026-world-series) — 0% YES
+- [Will the Texas Rangers win the 2026 World Series?](/odds/will-the-texas-rangers-win-the-2026-world-series) — 2% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Eric Trump win the 2028 Republican presidential nomination?"?
 
-As of July 22, 2026, Polymarket prices YES at 0.5%.
+As of July 23, 2026, Polymarket prices YES at 0.5%.
 
 ### Where can I trade on this prediction market?
 

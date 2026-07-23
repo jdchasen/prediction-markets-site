@@ -4,12 +4,12 @@ description: "Will Sabrina Carpenter be the top artist for 2026? Odds: 0.2% YES 
 marketQuestion: "Will Sabrina Carpenter be the top artist for 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-07-22
+lastUpdated: 2026-07-23
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 0.2
 polymarketNo: 99.8
-polymarketVolume: 97638
+polymarketVolume: 97790
 polymarketUrl: "https://polymarket.com/event/will-sabrina-carpenter-be-the-top-spotify-artist-for-2026"
 ---
 
@@ -23,13 +23,13 @@ polymarketUrl: "https://polymarket.com/event/will-sabrina-carpenter-be-the-top-s
 
 - [Will Marco Rubio win the 2028 Republican presidential nomination?](/odds/will-marco-rubio-win-the-2028-republican-presidential-nomination) — 28% YES
 - [Will Eric Trump win the 2028 Republican presidential nomination?](/odds/will-eric-trump-win-the-2028-republican-presidential-nomination) — 0% YES
-- [Will Nigel Farage win the Clacton by-election?](/odds/will-nigel-farage-win-the-clacton-by-election) — 96% YES
+- [Will the New York Mets win the 2026 World Series?](/odds/will-the-new-york-mets-win-the-2026-world-series) — 0% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Sabrina Carpenter be the top artist for 2026?"?
 
-As of July 22, 2026, Polymarket prices YES at 0.2%.
+As of July 23, 2026, Polymarket prices YES at 0.2%.
 
 ### Where can I trade on this prediction market?
 

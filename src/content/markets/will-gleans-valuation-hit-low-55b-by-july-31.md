@@ -1,23 +1,23 @@
 ---
-title: "Will the Republican Party win the IA-04 House seat?"
-description: "Will the Republican Party win the IA-04 House seat? Odds: 93.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will the Republican Party win the IA-04 House seat?"
+title: "Will Glean's valuation hit (LOW) $5.5B by July 31?"
+description: "Will Glean's valuation hit (LOW) $5.5B by July 31? Odds: 0.7% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Glean's valuation hit (LOW) $5.5B by July 31?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-07-23
-expiryDate: 2026-11-03
+expiryDate: 2026-08-01
 tags: ["politics", "polymarket"]
-polymarketYes: 93.5
-polymarketNo: 6.5
-polymarketVolume: 9863
-polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-ia-04-house-seat"
+polymarketYes: 0.7
+polymarketNo: 99.4
+polymarketVolume: 9809
+polymarketUrl: "https://polymarket.com/event/will-gleans-valuation-hit-low-5pt5b-by-july-31-20260630205002629"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 93.5% | 6.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.7% | 99.4% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-i
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will the Republican Party win the IA-04 House seat?"?
+### What are the current odds for "Will Glean's valuation hit (LOW) $5.5B by July 31?"?
 
-As of July 23, 2026, Polymarket prices YES at 93.5%.
+As of July 23, 2026, Polymarket prices YES at 0.7%.
 
 ### Where can I trade on this prediction market?
 

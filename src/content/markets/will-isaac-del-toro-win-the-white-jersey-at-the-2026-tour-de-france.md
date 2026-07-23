@@ -3,8 +3,8 @@ title: "Will Isaac del Toro win the White Jersey at the 2026 Tour De France?"
 description: "Will Isaac del Toro win the White Jersey at the 2026 Tour De France? Odds: 51.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Isaac del Toro win the White Jersey at the 2026 Tour De France?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-07-22
+status: "settled"
+lastUpdated: 2026-07-23
 expiryDate: 2026-08-09
 tags: ["politics", "polymarket"]
 polymarketYes: 51.0

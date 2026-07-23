@@ -3,8 +3,8 @@ title: "Will Trump meet with Mohammed bin Salman in July 2026?"
 description: "Will Trump meet with Mohammed bin Salman in July 2026? Odds: 2.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Trump meet with Mohammed bin Salman in July 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-07-22
+status: "settled"
+lastUpdated: 2026-07-23
 expiryDate: 2026-07-31
 tags: ["politics", "polymarket", "trump"]
 polymarketYes: 2.7

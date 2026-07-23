@@ -1,23 +1,23 @@
 ---
-title: "Will UAE leave the Gulf Cooperation Council  in 2026?"
-description: "Will UAE leave the Gulf Cooperation Council  in 2026? Odds: 6.0% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will UAE leave the Gulf Cooperation Council  in 2026?"
+title: "Will Milan win the 2026-27 UEFA Europa League Championship?"
+description: "Will Milan win the 2026-27 UEFA Europa League Championship? Odds: 22.0% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Milan win the 2026-27 UEFA Europa League Championship?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-07-23
-expiryDate: 2026-12-31
+expiryDate: 2027-05-30
 tags: ["politics", "polymarket"]
-polymarketYes: 6.0
-polymarketNo: 94.0
-polymarketVolume: 99885
-polymarketUrl: "https://polymarket.com/event/will-uae-leave-the-gulf-cooperation-council-in-2026"
+polymarketYes: 22.0
+polymarketNo: 78.0
+polymarketVolume: 9918
+polymarketUrl: "https://polymarket.com/event/will-milan-win-the-2026-27-uefa-europa-league-championship-20260701202403685"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 6.0% | 94.0% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 22.0% | 78.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-uae-leave-the-gulf-cooperation
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will UAE leave the Gulf Cooperation Council  in 2026?"?
+### What are the current odds for "Will Milan win the 2026-27 UEFA Europa League Championship?"?
 
-As of July 23, 2026, Polymarket prices YES at 6.0%.
+As of July 23, 2026, Polymarket prices YES at 22.0%.
 
 ### Where can I trade on this prediction market?
 

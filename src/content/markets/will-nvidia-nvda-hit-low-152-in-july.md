@@ -3,8 +3,8 @@ title: "Will NVIDIA (NVDA) hit (LOW) $152 in July?"
 description: "Will NVIDIA (NVDA) hit (LOW) $152 in July? Odds: 0.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will NVIDIA (NVDA) hit (LOW) $152 in July?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-07-22
+status: "settled"
+lastUpdated: 2026-07-23
 expiryDate: 2026-08-01
 tags: ["politics", "polymarket"]
 polymarketYes: 0.2

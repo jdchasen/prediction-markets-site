@@ -3,8 +3,8 @@ title: "Will any presidential candidate win outright in the first round of the B
 description: "Will any presidential candidate win outright in the first round of the Brazil election? Odds: 11.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will any presidential candidate win outright in the first round of the Brazil election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-07-22
+status: "settled"
+lastUpdated: 2026-07-23
 expiryDate: 2026-10-04
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 11.5

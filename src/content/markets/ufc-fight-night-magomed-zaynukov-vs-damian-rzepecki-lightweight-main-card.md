@@ -3,8 +3,8 @@ title: "UFC Fight Night: Magomed Zaynukov vs. Damian Rzepecki (Lightweight, Main
 description: "UFC Fight Night: Magomed Zaynukov vs. Damian Rzepecki (Lightweight, Main Card) Odds: 73.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "UFC Fight Night: Magomed Zaynukov vs. Damian Rzepecki (Lightweight, Main Card)"
 category: "politics"
-status: "active"
-lastUpdated: 2026-07-22
+status: "settled"
+lastUpdated: 2026-07-23
 expiryDate: 2026-07-26
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 73.5

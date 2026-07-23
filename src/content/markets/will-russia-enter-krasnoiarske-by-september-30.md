@@ -1,23 +1,23 @@
 ---
-title: "Will the Republican Party win the IA-04 House seat?"
-description: "Will the Republican Party win the IA-04 House seat? Odds: 93.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will the Republican Party win the IA-04 House seat?"
+title: "Will Russia enter Krasnoiarske by September 30?"
+description: "Will Russia enter Krasnoiarske by September 30? Odds: 96.8% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Russia enter Krasnoiarske by September 30?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-07-23
-expiryDate: 2026-11-03
+expiryDate: 2026-09-30
 tags: ["politics", "polymarket"]
-polymarketYes: 93.5
-polymarketNo: 6.5
-polymarketVolume: 9863
-polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-ia-04-house-seat"
+polymarketYes: 96.8
+polymarketNo: 3.2
+polymarketVolume: 9930
+polymarketUrl: "https://polymarket.com/event/will-russia-enter-krasnoiarske-by-september-30"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 93.5% | 6.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 96.8% | 3.2% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-i
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will the Republican Party win the IA-04 House seat?"?
+### What are the current odds for "Will Russia enter Krasnoiarske by September 30?"?
 
-As of July 23, 2026, Polymarket prices YES at 93.5%.
+As of July 23, 2026, Polymarket prices YES at 96.8%.
 
 ### Where can I trade on this prediction market?
 

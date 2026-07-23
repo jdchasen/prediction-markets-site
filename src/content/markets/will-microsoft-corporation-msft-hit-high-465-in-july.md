@@ -3,8 +3,8 @@ title: "Will Microsoft Corporation (MSFT) hit (HIGH) $465 in July?"
 description: "Will Microsoft Corporation (MSFT) hit (HIGH) $465 in July? Odds: 6.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Microsoft Corporation (MSFT) hit (HIGH) $465 in July?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-07-22
+status: "settled"
+lastUpdated: 2026-07-23
 expiryDate: 2026-08-01
 tags: ["politics", "polymarket"]
 polymarketYes: 6.2
