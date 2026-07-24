@@ -9,7 +9,7 @@ expiryDate: 2027-05-30
 tags: ["politics", "polymarket"]
 polymarketYes: 22.0
 polymarketNo: 78.0
-polymarketVolume: 9918
+polymarketVolume: 9931
 polymarketUrl: "https://polymarket.com/event/will-milan-win-the-2026-27-uefa-europa-league-championship-20260701202403685"
 ---
 

@@ -9,7 +9,7 @@ expiryDate: 2026-10-31
 tags: ["politics", "polymarket"]
 polymarketYes: 1.8
 polymarketNo: 98.2
-polymarketVolume: 990516
+polymarketVolume: 990658
 polymarketUrl: "https://polymarket.com/event/will-the-texas-rangers-win-the-2026-world-series"
 ---
 

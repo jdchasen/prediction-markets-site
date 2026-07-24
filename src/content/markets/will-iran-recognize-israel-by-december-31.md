@@ -1,15 +1,15 @@
 ---
 title: "Will Iran recognize Israel by December 31?"
-description: "Will Iran recognize Israel by December 31? Odds: 4.8% YES on Polymarket. See live prices and trade this market."
+description: "Will Iran recognize Israel by December 31? Odds: 4.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Iran recognize Israel by December 31?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-07-24
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 4.8
-polymarketNo: 95.2
-polymarketVolume: 9863
+polymarketYes: 4.5
+polymarketNo: 95.5
+polymarketVolume: 9883
 polymarketUrl: "https://polymarket.com/event/will-iran-recognize-israel-by-december-31"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-iran-recognize-israel-by-decem
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 4.8% | 95.2% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 4.5% | 95.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-iran-recognize-israel-by-decem
 
 ### What are the current odds for "Will Iran recognize Israel by December 31?"?
 
-As of July 24, 2026, Polymarket prices YES at 4.8%.
+As of July 24, 2026, Polymarket prices YES at 4.5%.
 
 ### Where can I trade on this prediction market?
 

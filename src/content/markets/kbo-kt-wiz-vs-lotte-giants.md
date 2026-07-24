@@ -3,7 +3,7 @@ title: "KBO: KT Wiz vs. Lotte Giants"
 description: "KBO: KT Wiz vs. Lotte Giants Odds: 100.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "KBO: KT Wiz vs. Lotte Giants"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-07-24
 expiryDate: 2026-07-31
 tags: ["politics", "polymarket"]

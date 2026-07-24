@@ -1,15 +1,15 @@
 ---
 title: "Will FaZe win a Tier 1 event in 2026? "
-description: "Will FaZe win a Tier 1 event in 2026?  Odds: 12.2% YES on Polymarket. See live prices and trade this market."
+description: "Will FaZe win a Tier 1 event in 2026?  Odds: 13.6% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will FaZe win a Tier 1 event in 2026? "
 category: "politics"
 status: "active"
 lastUpdated: 2026-07-24
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 12.2
-polymarketNo: 87.8
-polymarketVolume: 9947
+polymarketYes: 13.6
+polymarketNo: 86.5
+polymarketVolume: 9957
 polymarketUrl: "https://polymarket.com/event/will-faze-win-a-tier-1-event-in-2026"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-faze-win-a-tier-1-event-in-202
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 12.2% | 87.8% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 13.6% | 86.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-faze-win-a-tier-1-event-in-202
 
 ### What are the current odds for "Will FaZe win a Tier 1 event in 2026? "?
 
-As of July 24, 2026, Polymarket prices YES at 12.2%.
+As of July 24, 2026, Polymarket prices YES at 13.6%.
 
 ### Where can I trade on this prediction market?
 

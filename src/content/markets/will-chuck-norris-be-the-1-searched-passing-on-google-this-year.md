@@ -9,7 +9,7 @@ expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 19.5
 polymarketNo: 80.5
-polymarketVolume: 9773
+polymarketVolume: 9783
 polymarketUrl: "https://polymarket.com/event/will-chuck-norris-be-the-1-searched-passing-on-google-this-year-20260717220846803"
 ---
 

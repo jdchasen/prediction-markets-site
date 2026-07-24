@@ -3,7 +3,7 @@ title: "Will the Democratic Party win the TX-27 House seat?"
 description: "Will the Democratic Party win the TX-27 House seat? Odds: 10.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Democratic Party win the TX-27 House seat?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-07-24
 expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]

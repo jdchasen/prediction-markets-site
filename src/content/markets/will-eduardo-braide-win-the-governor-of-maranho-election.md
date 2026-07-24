@@ -9,7 +9,7 @@ expiryDate: 2026-10-05
 tags: ["ai", "elections", "politics", "polymarket"]
 polymarketYes: 78.5
 polymarketNo: 21.5
-polymarketVolume: 9806
+polymarketVolume: 9938
 polymarketUrl: "https://polymarket.com/event/will-eduardo-braide-win-the-governor-of-maranhao-election-20260611182114393"
 ---
 

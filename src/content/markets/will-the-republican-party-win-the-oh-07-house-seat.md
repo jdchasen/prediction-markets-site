@@ -9,7 +9,7 @@ expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
 polymarketYes: 59.5
 polymarketNo: 40.5
-polymarketVolume: 9991
+polymarketVolume: 9994
 polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-oh-07-house-seat"
 ---
 

@@ -9,7 +9,7 @@ expiryDate: 2027-06-30
 tags: ["politics", "polymarket"]
 polymarketYes: 39.5
 polymarketNo: 60.5
-polymarketVolume: 99339
+polymarketVolume: 99537
 polymarketUrl: "https://polymarket.com/event/iran-leadership-change-by-june-30-2027-674"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/iran-leadership-change-by-june-30-2
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 39.5% | 60.5% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 39.5% | 60.5% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 

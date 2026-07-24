@@ -9,7 +9,7 @@ expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 0.5
 polymarketNo: 99.5
-polymarketVolume: 99327
+polymarketVolume: 99465
 polymarketUrl: "https://polymarket.com/event/will-dune-messiah-have-the-best-domestic-opening-weekend-in-2026"
 ---
 

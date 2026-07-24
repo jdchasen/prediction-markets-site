@@ -1,22 +1,23 @@
 ---
-title: "Will LeBron sign his next NBA contract by July 27, 2026?"
-description: "Will LeBron sign his next NBA contract by July 27, 2026? Odds: 24.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will LeBron sign his next NBA contract by July 27, 2026?"
+title: "Will Kimi Antonelli get pole position at the 2026 F1 Hungarian Grand Prix?"
+description: "Will Kimi Antonelli get pole position at the 2026 F1 Hungarian Grand Prix? Odds: 23.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Kimi Antonelli get pole position at the 2026 F1 Hungarian Grand Prix?"
 category: "sports"
-status: "settled"
+status: "active"
 lastUpdated: 2026-07-24
+expiryDate: 2026-08-01
 tags: ["polymarket", "sports"]
-polymarketYes: 24.5
-polymarketNo: 75.5
-polymarketVolume: 9951
-polymarketUrl: "https://polymarket.com/event/will-lebron-sign-his-next-nba-contract-by-july-27-2026-20260709223851529"
+polymarketYes: 23.5
+polymarketNo: 76.5
+polymarketVolume: 9893
+polymarketUrl: "https://polymarket.com/event/f1-hungarian-grand-prix-driver-pole-position-antonelli-2026-07-25"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 24.5% | 75.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 23.5% | 76.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -26,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-lebron-sign-his-next-nba-contr
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will LeBron sign his next NBA contract by July 27, 2026?"?
+### What are the current odds for "Will Kimi Antonelli get pole position at the 2026 F1 Hungarian Grand Prix?"?
 
-As of July 24, 2026, Polymarket prices YES at 24.5%.
+As of July 24, 2026, Polymarket prices YES at 23.5%.
 
 ### Where can I trade on this prediction market?
 

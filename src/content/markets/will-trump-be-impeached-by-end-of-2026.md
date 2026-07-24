@@ -9,7 +9,7 @@ expiryDate: 2026-12-31
 tags: ["politics", "polymarket", "trump"]
 polymarketYes: 2.1
 polymarketNo: 97.9
-polymarketVolume: 979053
+polymarketVolume: 979083
 polymarketUrl: "https://polymarket.com/event/will-trump-be-impeached-by-december-31-2026"
 ---
 

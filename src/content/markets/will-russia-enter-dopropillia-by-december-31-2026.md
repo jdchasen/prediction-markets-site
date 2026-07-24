@@ -3,7 +3,7 @@ title: "Will Russia enter Dopropillia by December 31, 2026?"
 description: "Will Russia enter Dopropillia by December 31, 2026? Odds: 71.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Russia enter Dopropillia by December 31, 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-07-24
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]

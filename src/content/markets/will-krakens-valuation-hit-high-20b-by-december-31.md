@@ -1,23 +1,23 @@
 ---
-title: "Will the Republican Party win the FL-09 House seat?"
-description: "Will the Republican Party win the FL-09 House seat? Odds: 76.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will the Republican Party win the FL-09 House seat?"
+title: "Will Kraken's valuation hit (HIGH) $20B by December 31?"
+description: "Will Kraken's valuation hit (HIGH) $20B by December 31? Odds: 10.7% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Kraken's valuation hit (HIGH) $20B by December 31?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-07-24
-expiryDate: 2026-11-03
+expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]
-polymarketYes: 76.5
-polymarketNo: 23.5
-polymarketVolume: 9983
-polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-fl-09-house-seat"
+polymarketYes: 10.7
+polymarketNo: 89.3
+polymarketVolume: 9822
+polymarketUrl: "https://polymarket.com/event/will-krakens-valuation-hit-high-20b-by-december-31"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 76.5% | 23.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 10.7% | 89.3% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-f
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will the Republican Party win the FL-09 House seat?"?
+### What are the current odds for "Will Kraken's valuation hit (HIGH) $20B by December 31?"?
 
-As of July 24, 2026, Polymarket prices YES at 76.5%.
+As of July 24, 2026, Polymarket prices YES at 10.7%.
 
 ### Where can I trade on this prediction market?
 

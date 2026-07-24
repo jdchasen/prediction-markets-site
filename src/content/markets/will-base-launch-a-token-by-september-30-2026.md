@@ -3,7 +3,7 @@ title: "Will Base launch a token by September 30, 2026?"
 description: "Will Base launch a token by September 30, 2026? Odds: 2.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Base launch a token by September 30, 2026?"
 category: "crypto"
-status: "active"
+status: "settled"
 lastUpdated: 2026-07-24
 expiryDate: 2026-10-01
 tags: ["crypto", "polymarket"]

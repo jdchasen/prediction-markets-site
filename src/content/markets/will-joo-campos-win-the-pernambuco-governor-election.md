@@ -3,7 +3,7 @@ title: "Will João Campos win the Pernambuco Governor election?"
 description: "Will João Campos win the Pernambuco Governor election? Odds: 55.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will João Campos win the Pernambuco Governor election?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-07-24
 expiryDate: 2026-10-04
 tags: ["elections", "politics", "polymarket"]
