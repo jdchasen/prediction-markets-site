@@ -1,15 +1,15 @@
 ---
 title: "Will Russia capture all of Chasiv Yar by December 31?"
-description: "Will Russia capture all of Chasiv Yar by December 31? Odds: 52.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Russia capture all of Chasiv Yar by December 31? Odds: 52.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Russia capture all of Chasiv Yar by December 31?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-07-23
+lastUpdated: 2026-07-24
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 52.5
-polymarketNo: 47.5
-polymarketVolume: 9774
+polymarketYes: 52.0
+polymarketNo: 48.0
+polymarketVolume: 9779
 polymarketUrl: "https://polymarket.com/event/will-russia-capture-all-of-chasiv-yar-by-december-31"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-russia-capture-all-of-chasiv-y
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 52.5% | 47.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 52.0% | 48.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-russia-capture-all-of-chasiv-y
 
 ### What are the current odds for "Will Russia capture all of Chasiv Yar by December 31?"?
 
-As of July 23, 2026, Polymarket prices YES at 52.5%.
+As of July 24, 2026, Polymarket prices YES at 52.0%.
 
 ### Where can I trade on this prediction market?
 

@@ -1,15 +1,15 @@
 ---
 title: "Will Kraken's valuation hit (LOW) $9B by July 31?"
-description: "Will Kraken's valuation hit (LOW) $9B by July 31? Odds: 65.8% YES on Polymarket. See live prices and trade this market."
+description: "Will Kraken's valuation hit (LOW) $9B by July 31? Odds: 64.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Kraken's valuation hit (LOW) $9B by July 31?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-07-23
+lastUpdated: 2026-07-24
 expiryDate: 2026-08-01
 tags: ["politics", "polymarket"]
-polymarketYes: 65.8
-polymarketNo: 34.2
-polymarketVolume: 9950
+polymarketYes: 64.0
+polymarketNo: 36.0
+polymarketVolume: 9974
 polymarketUrl: "https://polymarket.com/event/will-krakens-valuation-hit-low-9-by-july-31-20260629184742677"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-krakens-valuation-hit-low-9-by
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 65.8% | 34.2% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 64.0% | 36.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-krakens-valuation-hit-low-9-by
 
 ### What are the current odds for "Will Kraken's valuation hit (LOW) $9B by July 31?"?
 
-As of July 23, 2026, Polymarket prices YES at 65.8%.
+As of July 24, 2026, Polymarket prices YES at 64.0%.
 
 ### Where can I trade on this prediction market?
 

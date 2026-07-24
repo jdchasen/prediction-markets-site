@@ -1,23 +1,22 @@
 ---
-title: "Will Baker Mayfield win the 2026 NFL MVP?"
-description: "Will Baker Mayfield win the 2026 NFL MVP? Odds: 1.8% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Baker Mayfield win the 2026 NFL MVP?"
+title: "Will LeBron sign his next NBA contract by July 27, 2026?"
+description: "Will LeBron sign his next NBA contract by July 27, 2026? Odds: 24.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will LeBron sign his next NBA contract by July 27, 2026?"
 category: "sports"
 status: "active"
 lastUpdated: 2026-07-24
-expiryDate: 2027-02-15
 tags: ["polymarket", "sports"]
-polymarketYes: 1.8
-polymarketNo: 98.2
-polymarketVolume: 98834
-polymarketUrl: "https://polymarket.com/event/will-baker-mayfield-win-the-2026-nfl-mvp"
+polymarketYes: 24.5
+polymarketNo: 75.5
+polymarketVolume: 9951
+polymarketUrl: "https://polymarket.com/event/will-lebron-sign-his-next-nba-contract-by-july-27-2026-20260709223851529"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 1.8% | 98.2% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 24.5% | 75.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +26,9 @@ polymarketUrl: "https://polymarket.com/event/will-baker-mayfield-win-the-2026-nf
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Baker Mayfield win the 2026 NFL MVP?"?
+### What are the current odds for "Will LeBron sign his next NBA contract by July 27, 2026?"?
 
-As of July 24, 2026, Polymarket prices YES at 1.8%.
+As of July 24, 2026, Polymarket prices YES at 24.5%.
 
 ### Where can I trade on this prediction market?
 

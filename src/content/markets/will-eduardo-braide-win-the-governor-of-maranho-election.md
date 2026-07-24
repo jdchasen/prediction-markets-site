@@ -4,7 +4,7 @@ description: "Will Eduardo Braide win the Governor of Maranhão election? Odds: 
 marketQuestion: "Will Eduardo Braide win the Governor of Maranhão election?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-07-23
+lastUpdated: 2026-07-24
 expiryDate: 2026-10-05
 tags: ["ai", "elections", "politics", "polymarket"]
 polymarketYes: 78.5
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-eduardo-braide-win-the-governo
 
 ### What are the current odds for "Will Eduardo Braide win the Governor of Maranhão election?"?
 
-As of July 23, 2026, Polymarket prices YES at 78.5%.
+As of July 24, 2026, Polymarket prices YES at 78.5%.
 
 ### Where can I trade on this prediction market?
 

@@ -4,12 +4,12 @@ description: "Will Eurozone annual GDP growth in 2026 be between 0% and 1.0%? Od
 marketQuestion: "Will Eurozone annual GDP growth in 2026 be between 0% and 1.0%?"
 category: "economics"
 status: "active"
-lastUpdated: 2026-07-23
+lastUpdated: 2026-07-24
 expiryDate: 2027-01-31
 tags: ["economics", "polymarket"]
 polymarketYes: 71.0
 polymarketNo: 29.0
-polymarketVolume: 9579
+polymarketVolume: 9630
 polymarketUrl: "https://polymarket.com/event/will-eurozone-annual-gdp-growth-in-2026-be-between-0-and-1pt0"
 ---
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-eurozone-annual-gdp-growth-in-
 
 ### What are the current odds for "Will Eurozone annual GDP growth in 2026 be between 0% and 1.0%?"?
 
-As of July 23, 2026, Polymarket prices YES at 71.0%.
+As of July 24, 2026, Polymarket prices YES at 71.0%.
 
 ### Where can I trade on this prediction market?
 

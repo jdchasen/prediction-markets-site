@@ -1,14 +1,14 @@
 ---
 title: "Will Karishma Manzur be the Democratic nominee for Senate in New Hampshire?"
-description: "Will Karishma Manzur be the Democratic nominee for Senate in New Hampshire? Odds: 4.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Karishma Manzur be the Democratic nominee for Senate in New Hampshire? Odds: 4.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Karishma Manzur be the Democratic nominee for Senate in New Hampshire?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-07-23
+lastUpdated: 2026-07-24
 expiryDate: 2026-09-08
 tags: ["politics", "polymarket"]
-polymarketYes: 4.5
-polymarketNo: 95.5
+polymarketYes: 4.2
+polymarketNo: 95.8
 polymarketVolume: 9829
 polymarketUrl: "https://polymarket.com/event/will-karishma-manzur-be-the-democratic-nominee-for-senate-in-new-hampshire"
 ---
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-karishma-manzur-be-the-democra
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 4.5% | 95.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 4.2% | 95.8% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-karishma-manzur-be-the-democra
 
 ### What are the current odds for "Will Karishma Manzur be the Democratic nominee for Senate in New Hampshire?"?
 
-As of July 23, 2026, Polymarket prices YES at 4.5%.
+As of July 24, 2026, Polymarket prices YES at 4.2%.
 
 ### Where can I trade on this prediction market?
 

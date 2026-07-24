@@ -1,14 +1,14 @@
 ---
 title: "Unit FDV above $200M one day after launch?"
-description: "Unit FDV above $200M one day after launch? Odds: 50.5% YES on Polymarket. See live prices and trade this market."
+description: "Unit FDV above $200M one day after launch? Odds: 51.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Unit FDV above $200M one day after launch?"
 category: "crypto"
 status: "active"
-lastUpdated: 2026-07-23
+lastUpdated: 2026-07-24
 expiryDate: 2028-01-01
 tags: ["crypto", "polymarket"]
-polymarketYes: 50.5
-polymarketNo: 49.5
+polymarketYes: 51.0
+polymarketNo: 49.0
 polymarketVolume: 98268
 polymarketUrl: "https://polymarket.com/event/unit-fdv-above-200m-one-day-after-launch"
 ---
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/unit-fdv-above-200m-one-day-after-l
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 50.5% | 49.5% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 51.0% | 49.0% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will MetaMask launch a token by September 30, 2026?](/odds/will-metamask-launch-a-token-by-september-30-2026) — 4% YES
+- [Extended FDV above $500M one day after launch?](/odds/extended-fdv-above-500m-one-day-after-launch) — 30% YES
 - [Extended FDV above $1B one day after launch?](/odds/extended-fdv-above-1b-one-day-after-launch) — 8% YES
-- [Will Loopscale launch a token by December 31, 2026?](/odds/will-loopscale-launch-a-token-by-december-31-2026) — 28% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Unit FDV above $200M one day after launch?"?
 
-As of July 23, 2026, Polymarket prices YES at 50.5%.
+As of July 24, 2026, Polymarket prices YES at 51.0%.
 
 ### Where can I trade on this prediction market?
 

@@ -4,7 +4,7 @@ description: "Will Glean's valuation hit (LOW) $5.5B by July 31? Odds: 0.7% YES 
 marketQuestion: "Will Glean's valuation hit (LOW) $5.5B by July 31?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-07-23
+lastUpdated: 2026-07-24
 expiryDate: 2026-08-01
 tags: ["politics", "polymarket"]
 polymarketYes: 0.7
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-gleans-valuation-hit-low-5pt5b
 
 ### What are the current odds for "Will Glean's valuation hit (LOW) $5.5B by July 31?"?
 
-As of July 23, 2026, Polymarket prices YES at 0.7%.
+As of July 24, 2026, Polymarket prices YES at 0.7%.
 
 ### Where can I trade on this prediction market?
 

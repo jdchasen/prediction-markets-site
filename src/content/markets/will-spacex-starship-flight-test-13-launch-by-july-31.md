@@ -3,8 +3,8 @@ title: "Will SpaceX Starship Flight Test 13 launch by July 31?"
 description: "Will SpaceX Starship Flight Test 13 launch by July 31? Odds: 87.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will SpaceX Starship Flight Test 13 launch by July 31?"
 category: "tech"
-status: "active"
-lastUpdated: 2026-07-23
+status: "settled"
+lastUpdated: 2026-07-24
 expiryDate: 2026-07-31
 tags: ["polymarket", "tech"]
 polymarketYes: 87.4

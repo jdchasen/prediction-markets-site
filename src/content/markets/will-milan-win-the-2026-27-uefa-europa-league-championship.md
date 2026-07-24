@@ -4,7 +4,7 @@ description: "Will Milan win the 2026-27 UEFA Europa League Championship? Odds: 
 marketQuestion: "Will Milan win the 2026-27 UEFA Europa League Championship?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-07-23
+lastUpdated: 2026-07-24
 expiryDate: 2027-05-30
 tags: ["politics", "polymarket"]
 polymarketYes: 22.0
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-milan-win-the-2026-27-uefa-eur
 
 ### What are the current odds for "Will Milan win the 2026-27 UEFA Europa League Championship?"?
 
-As of July 23, 2026, Polymarket prices YES at 22.0%.
+As of July 24, 2026, Polymarket prices YES at 22.0%.
 
 ### Where can I trade on this prediction market?
 

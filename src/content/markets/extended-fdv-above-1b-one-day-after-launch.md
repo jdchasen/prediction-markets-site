@@ -4,12 +4,12 @@ description: "Extended FDV above $1B one day after launch? Odds: 8.5% YES on Pol
 marketQuestion: "Extended FDV above $1B one day after launch?"
 category: "crypto"
 status: "active"
-lastUpdated: 2026-07-23
+lastUpdated: 2026-07-24
 expiryDate: 2027-01-01
 tags: ["crypto", "polymarket"]
 polymarketYes: 8.5
 polymarketNo: 91.5
-polymarketVolume: 99278
+polymarketVolume: 99300
 polymarketUrl: "https://polymarket.com/event/extended-fdv-above-1b-one-day-after-launch-166-135-747"
 ---
 
@@ -22,14 +22,14 @@ polymarketUrl: "https://polymarket.com/event/extended-fdv-above-1b-one-day-after
 ## Related Markets
 
 - [Will MetaMask launch a token by September 30, 2026?](/odds/will-metamask-launch-a-token-by-september-30-2026) — 4% YES
+- [Extended FDV above $500M one day after launch?](/odds/extended-fdv-above-500m-one-day-after-launch) — 30% YES
 - [Will Loopscale launch a token by December 31, 2026?](/odds/will-loopscale-launch-a-token-by-december-31-2026) — 28% YES
-- [Unit FDV above $200M one day after launch?](/odds/unit-fdv-above-200m-one-day-after-launch) — 50% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Extended FDV above $1B one day after launch?"?
 
-As of July 23, 2026, Polymarket prices YES at 8.5%.
+As of July 24, 2026, Polymarket prices YES at 8.5%.
 
 ### Where can I trade on this prediction market?
 

@@ -4,7 +4,7 @@ description: "Will 1 Fed rate hike happen in 2026? Odds: 27.5% YES on Polymarket
 marketQuestion: "Will 1 Fed rate hike happen in 2026?"
 category: "economics"
 status: "active"
-lastUpdated: 2026-07-23
+lastUpdated: 2026-07-24
 expiryDate: 2026-12-31
 tags: ["economics", "federal-reserve", "polymarket"]
 polymarketYes: 27.5
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-1-fed-rate-hike-happen-in-2026
 
 ### What are the current odds for "Will 1 Fed rate hike happen in 2026?"?
 
-As of July 23, 2026, Polymarket prices YES at 27.5%.
+As of July 24, 2026, Polymarket prices YES at 27.5%.
 
 ### Where can I trade on this prediction market?
 

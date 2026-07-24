@@ -1,14 +1,14 @@
 ---
 title: "Will Mexico GDP growth in Q2 2026 be between -0.5% and 0.0%?"
-description: "Will Mexico GDP growth in Q2 2026 be between -0.5% and 0.0%? Odds: 2.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Mexico GDP growth in Q2 2026 be between -0.5% and 0.0%? Odds: 2.6% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Mexico GDP growth in Q2 2026 be between -0.5% and 0.0%?"
 category: "economics"
 status: "active"
-lastUpdated: 2026-07-23
+lastUpdated: 2026-07-24
 expiryDate: 2026-07-30
 tags: ["economics", "polymarket"]
-polymarketYes: 2.5
-polymarketNo: 97.5
+polymarketYes: 2.6
+polymarketNo: 97.4
 polymarketVolume: 9619
 polymarketUrl: "https://polymarket.com/event/will-mexico-gdp-growth-in-q2-2026-be-between-0pt5-and-0pt0"
 ---
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-mexico-gdp-growth-in-q2-2026-b
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 2.5% | 97.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 2.6% | 97.4% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-mexico-gdp-growth-in-q2-2026-b
 
 ### What are the current odds for "Will Mexico GDP growth in Q2 2026 be between -0.5% and 0.0%?"?
 
-As of July 23, 2026, Polymarket prices YES at 2.5%.
+As of July 24, 2026, Polymarket prices YES at 2.6%.
 
 ### Where can I trade on this prediction market?
 

@@ -3,13 +3,13 @@ title: "Will the Chicago Bears win the 2027 NFL league championship?"
 description: "Will the Chicago Bears win the 2027 NFL league championship? Odds: 3.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Chicago Bears win the 2027 NFL league championship?"
 category: "sports"
-status: "settled"
-lastUpdated: 2026-07-23
+status: "active"
+lastUpdated: 2026-07-24
 expiryDate: 2027-03-31
 tags: ["polymarket", "sports"]
 polymarketYes: 3.0
 polymarketNo: 97.0
-polymarketVolume: 976912
+polymarketVolume: 977442
 polymarketUrl: "https://polymarket.com/event/will-the-chicago-bears-win-the-2027-nfl-league-championship"
 ---
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-chicago-bears-win-the-2027
 
 ### What are the current odds for "Will the Chicago Bears win the 2027 NFL league championship?"?
 
-As of July 22, 2026, Polymarket prices YES at 3.0%.
+As of July 24, 2026, Polymarket prices YES at 3.0%.
 
 ### Where can I trade on this prediction market?
 

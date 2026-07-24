@@ -3,8 +3,8 @@ title: "Will Israel launch a ground operation in Iran by July 31, 2026?"
 description: "Will Israel launch a ground operation in Iran by July 31, 2026? Odds: 4.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Israel launch a ground operation in Iran by July 31, 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-07-23
+status: "settled"
+lastUpdated: 2026-07-24
 expiryDate: 2026-07-31
 tags: ["politics", "polymarket"]
 polymarketYes: 4.0

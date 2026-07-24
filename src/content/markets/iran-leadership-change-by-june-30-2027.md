@@ -1,23 +1,23 @@
 ---
-title: "Will Iran recognize Israel by December 31?"
-description: "Will Iran recognize Israel by December 31? Odds: 4.8% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Iran recognize Israel by December 31?"
+title: "Iran leadership change by June 30, 2027?"
+description: "Iran leadership change by June 30, 2027? Odds: 39.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Iran leadership change by June 30, 2027?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-07-24
-expiryDate: 2026-12-31
+expiryDate: 2027-06-30
 tags: ["politics", "polymarket"]
-polymarketYes: 4.8
-polymarketNo: 95.2
-polymarketVolume: 9863
-polymarketUrl: "https://polymarket.com/event/will-iran-recognize-israel-by-december-31"
+polymarketYes: 39.5
+polymarketNo: 60.5
+polymarketVolume: 99339
+polymarketUrl: "https://polymarket.com/event/iran-leadership-change-by-june-30-2027-674"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 4.8% | 95.2% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 39.5% | 60.5% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-iran-recognize-israel-by-decem
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Iran recognize Israel by December 31?"?
+### What are the current odds for "Iran leadership change by June 30, 2027?"?
 
-As of July 24, 2026, Polymarket prices YES at 4.8%.
+As of July 24, 2026, Polymarket prices YES at 39.5%.
 
 ### Where can I trade on this prediction market?
 
@@ -38,5 +38,5 @@ You can trade this market on [Polymarket](https://polymarket.us/1762?utm_source=
 ## Learn More
 
 - [US-Iran Peace Deal Odds: Will It Happen in 2025?](/blog/us-iran-peace-deal-odds-will-it-happen-in-2025)
-- [Iran-Israel Conflict End Date: Prediction Market Odds](/blog/iran-israel-conflict-end-date-prediction-market-odds)
+- [US-Iran Peace Deal Odds: What Traders Are Betting](/blog/us-iran-peace-deal-odds-what-traders-are-betting)
 

@@ -4,7 +4,7 @@ description: "Will Melisa Hortman be the Democratic nominee for Senate in Minnes
 marketQuestion: "Will Melisa Hortman be the Democratic nominee for Senate in Minnesota?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-07-23
+lastUpdated: 2026-07-24
 expiryDate: 2026-08-11
 tags: ["politics", "polymarket"]
 polymarketYes: 0.1
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-melisa-hortman-be-the-democrat
 
 ### What are the current odds for "Will Melisa Hortman be the Democratic nominee for Senate in Minnesota?"?
 
-As of July 23, 2026, Polymarket prices YES at 0.1%.
+As of July 24, 2026, Polymarket prices YES at 0.1%.
 
 ### Where can I trade on this prediction market?
 

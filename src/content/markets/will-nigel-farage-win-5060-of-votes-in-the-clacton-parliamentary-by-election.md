@@ -1,23 +1,23 @@
 ---
-title: "Will the Republican Party win the FL-09 House seat?"
-description: "Will the Republican Party win the FL-09 House seat? Odds: 76.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will the Republican Party win the FL-09 House seat?"
+title: "Will Nigel Farage win 50–60% of votes in the Clacton parliamentary by-election?"
+description: "Will Nigel Farage win 50–60% of votes in the Clacton parliamentary by-election? Odds: 15.0% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Nigel Farage win 50–60% of votes in the Clacton parliamentary by-election?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-07-24
-expiryDate: 2026-11-03
-tags: ["politics", "polymarket"]
-polymarketYes: 76.5
-polymarketNo: 23.5
-polymarketVolume: 9978
-polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-fl-09-house-seat"
+expiryDate: 2027-06-30
+tags: ["elections", "politics", "polymarket"]
+polymarketYes: 15.0
+polymarketNo: 85.0
+polymarketVolume: 9833
+polymarketUrl: "https://polymarket.com/event/will-nigel-farage-win-5060-of-votes-in-the-clacton-parliamentary-by-election-20260708151424123"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 76.5% | 23.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 15.0% | 85.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-f
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will the Republican Party win the FL-09 House seat?"?
+### What are the current odds for "Will Nigel Farage win 50–60% of votes in the Clacton parliamentary by-election?"?
 
-As of July 24, 2026, Polymarket prices YES at 76.5%.
+As of July 24, 2026, Polymarket prices YES at 15.0%.
 
 ### Where can I trade on this prediction market?
 

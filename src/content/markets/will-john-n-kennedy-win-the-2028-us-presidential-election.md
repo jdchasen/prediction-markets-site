@@ -1,15 +1,15 @@
 ---
 title: "Will John N. Kennedy win the 2028 US Presidential Election?"
-description: "Will John N. Kennedy win the 2028 US Presidential Election? Odds: 0.2% YES on Polymarket. See live prices and trade this market."
+description: "Will John N. Kennedy win the 2028 US Presidential Election? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will John N. Kennedy win the 2028 US Presidential Election?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-07-23
+lastUpdated: 2026-07-24
 expiryDate: 2028-11-07
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 0.2
-polymarketNo: 99.8
-polymarketVolume: 98231
+polymarketYes: 0.1
+polymarketNo: 99.9
+polymarketVolume: 99555
 polymarketUrl: "https://polymarket.com/event/will-john-n-kennedy-win-the-2028-us-presidential-election"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-john-n-kennedy-win-the-2028-us
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.2% | 99.8% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.1% | 99.9% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-john-n-kennedy-win-the-2028-us
 
 ### What are the current odds for "Will John N. Kennedy win the 2028 US Presidential Election?"?
 
-As of July 23, 2026, Polymarket prices YES at 0.2%.
+As of July 24, 2026, Polymarket prices YES at 0.1%.
 
 ### Where can I trade on this prediction market?
 

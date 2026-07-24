@@ -4,7 +4,7 @@ description: "Will the Fed decrease interest rates by 50+ bps after the October 
 marketQuestion: "Will the Fed decrease interest rates by 50+ bps after the October 2026 meeting?"
 category: "economics"
 status: "active"
-lastUpdated: 2026-07-23
+lastUpdated: 2026-07-24
 expiryDate: 2026-10-28
 tags: ["economics", "federal-reserve", "interest-rates", "polymarket"]
 polymarketYes: 2.3
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-fed-decrease-interest-rate
 
 ### What are the current odds for "Will the Fed decrease interest rates by 50+ bps after the October 2026 meeting?"?
 
-As of July 23, 2026, Polymarket prices YES at 2.3%.
+As of July 24, 2026, Polymarket prices YES at 2.3%.
 
 ### Where can I trade on this prediction market?
 

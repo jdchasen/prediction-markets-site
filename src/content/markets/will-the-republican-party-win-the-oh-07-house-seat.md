@@ -4,12 +4,12 @@ description: "Will the Republican Party win the OH-07 House seat? Odds: 59.5% YE
 marketQuestion: "Will the Republican Party win the OH-07 House seat?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-07-23
+lastUpdated: 2026-07-24
 expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
 polymarketYes: 59.5
 polymarketNo: 40.5
-polymarketVolume: 9986
+polymarketVolume: 9991
 polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-oh-07-house-seat"
 ---
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-o
 
 ### What are the current odds for "Will the Republican Party win the OH-07 House seat?"?
 
-As of July 23, 2026, Polymarket prices YES at 59.5%.
+As of July 24, 2026, Polymarket prices YES at 59.5%.
 
 ### Where can I trade on this prediction market?
 

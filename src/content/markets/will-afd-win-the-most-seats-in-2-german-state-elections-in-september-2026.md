@@ -3,8 +3,8 @@ title: "Will AfD win the most seats in 2 German state elections in September 202
 description: "Will AfD win the most seats in 2 German state elections in September 2026? Odds: 81.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will AfD win the most seats in 2 German state elections in September 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-07-23
+status: "settled"
+lastUpdated: 2026-07-24
 expiryDate: 2026-12-31
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 81.0

@@ -4,12 +4,12 @@ description: "Will Trump be impeached by end of 2026? Odds: 2.1% YES on Polymark
 marketQuestion: "Will Trump be impeached by end of 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-07-23
+lastUpdated: 2026-07-24
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket", "trump"]
 polymarketYes: 2.1
 polymarketNo: 97.9
-polymarketVolume: 978326
+polymarketVolume: 979053
 polymarketUrl: "https://polymarket.com/event/will-trump-be-impeached-by-december-31-2026"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-trump-be-impeached-by-december
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 2.1% | 97.9% | $978K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 2.1% | 97.9% | $979K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-trump-be-impeached-by-december
 
 ### What are the current odds for "Will Trump be impeached by end of 2026?"?
 
-As of July 23, 2026, Polymarket prices YES at 2.1%.
+As of July 24, 2026, Polymarket prices YES at 2.1%.
 
 ### Where can I trade on this prediction market?
 

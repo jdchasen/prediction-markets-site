@@ -1,15 +1,15 @@
 ---
 title: "Will Dune: Messiah have the best domestic opening weekend in 2026?"
-description: "Will Dune: Messiah have the best domestic opening weekend in 2026? Odds: 0.6% YES on Polymarket. See live prices and trade this market."
+description: "Will Dune: Messiah have the best domestic opening weekend in 2026? Odds: 0.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Dune: Messiah have the best domestic opening weekend in 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-07-23
+lastUpdated: 2026-07-24
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 0.6
-polymarketNo: 99.4
-polymarketVolume: 98994
+polymarketYes: 0.5
+polymarketNo: 99.5
+polymarketVolume: 99327
 polymarketUrl: "https://polymarket.com/event/will-dune-messiah-have-the-best-domestic-opening-weekend-in-2026"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-dune-messiah-have-the-best-dom
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.6% | 99.4% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.5% | 99.5% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-dune-messiah-have-the-best-dom
 
 ### What are the current odds for "Will Dune: Messiah have the best domestic opening weekend in 2026?"?
 
-As of July 23, 2026, Polymarket prices YES at 0.6%.
+As of July 24, 2026, Polymarket prices YES at 0.5%.
 
 ### Where can I trade on this prediction market?
 
