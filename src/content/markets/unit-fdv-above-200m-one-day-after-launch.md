@@ -4,7 +4,7 @@ description: "Unit FDV above $200M one day after launch? Odds: 51.0% YES on Poly
 marketQuestion: "Unit FDV above $200M one day after launch?"
 category: "crypto"
 status: "active"
-lastUpdated: 2026-07-24
+lastUpdated: 2026-07-25
 expiryDate: 2028-01-01
 tags: ["crypto", "polymarket"]
 polymarketYes: 51.0
@@ -22,14 +22,14 @@ polymarketUrl: "https://polymarket.com/event/unit-fdv-above-200m-one-day-after-l
 ## Related Markets
 
 - [Will MetaMask launch a token by September 30, 2026?](/odds/will-metamask-launch-a-token-by-september-30-2026) — 4% YES
-- [Extended FDV above $500M one day after launch?](/odds/extended-fdv-above-500m-one-day-after-launch) — 29% YES
-- [Extended FDV above $1B one day after launch?](/odds/extended-fdv-above-1b-one-day-after-launch) — 8% YES
+- [Will MetaMask launch a token by September 30, 2026?](/odds/will-metamask-launch-a-token-by-september-30-2026) — 4% YES
+- [Extended FDV above $500M one day after launch?](/odds/extended-fdv-above-500m-one-day-after-launch) — 26% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Unit FDV above $200M one day after launch?"?
 
-As of July 24, 2026, Polymarket prices YES at 51.0%.
+As of July 25, 2026, Polymarket prices YES at 51.0%.
 
 ### Where can I trade on this prediction market?
 

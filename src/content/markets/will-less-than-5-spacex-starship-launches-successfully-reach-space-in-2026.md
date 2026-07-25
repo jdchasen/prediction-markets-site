@@ -1,15 +1,15 @@
 ---
 title: "Will less than 5 SpaceX Starship launches successfully reach Space in 2026?"
-description: "Will less than 5 SpaceX Starship launches successfully reach Space in 2026? Odds: 29.0% YES on Polymarket. See live prices and trade this market."
+description: "Will less than 5 SpaceX Starship launches successfully reach Space in 2026? Odds: 23.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will less than 5 SpaceX Starship launches successfully reach Space in 2026?"
 category: "tech"
 status: "active"
-lastUpdated: 2026-07-24
+lastUpdated: 2026-07-25
 expiryDate: 2026-12-31
 tags: ["polymarket", "tech"]
-polymarketYes: 29.0
-polymarketNo: 71.0
-polymarketVolume: 97975
+polymarketYes: 23.5
+polymarketNo: 76.5
+polymarketVolume: 98037
 polymarketUrl: "https://polymarket.com/event/will-less-than-5-spacex-starship-launches-successfully-reach-space-in-2026"
 ---
 
@@ -17,19 +17,18 @@ polymarketUrl: "https://polymarket.com/event/will-less-than-5-spacex-starship-la
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 29.0% | 71.0% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 23.5% | 76.5% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Elon Musk post 360-379 tweets from July 24 to July 31, 2026?](/odds/will-elon-musk-post-360-379-tweets-from-july-24-to-july-31-2026) — 0% YES
-- [Will Elon Musk post 160-179 tweets from July 24 to July 31, 2026?](/odds/will-elon-musk-post-160-179-tweets-from-july-24-to-july-31-2026) — 12% YES
-- [Will Elon Musk tweet "Hyperliquid" by August 31, 2026?](/odds/will-elon-musk-tweet-hyperliquid-by-august-31-2026) — 19% YES
+- [Will Elon Musk tweet "Hyperliquid" by December 31, 2026?](/odds/will-elon-musk-tweet-hyperliquid-by-december-31-2026) — 14% YES
+- [Will Elon Musk’s net worth be between $0.90T and $1.00T on July 31?](/odds/will-elon-musks-net-worth-be-between-090t-and-100t-on-july-31) — 3% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will less than 5 SpaceX Starship launches successfully reach Space in 2026?"?
 
-As of July 24, 2026, Polymarket prices YES at 29.0%.
+As of July 25, 2026, Polymarket prices YES at 23.5%.
 
 ### Where can I trade on this prediction market?
 

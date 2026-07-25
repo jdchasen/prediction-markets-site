@@ -3,8 +3,8 @@ title: "Will Draymond Green play for the Golden State Warriors in 2026-27?"
 description: "Will Draymond Green play for the Golden State Warriors in 2026-27? Odds: 96.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Draymond Green play for the Golden State Warriors in 2026-27?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-07-24
+status: "settled"
+lastUpdated: 2026-07-25
 expiryDate: 2026-10-31
 tags: ["politics", "polymarket"]
 polymarketYes: 96.9

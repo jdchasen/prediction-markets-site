@@ -1,23 +1,23 @@
 ---
-title: "Will Apyx launch a token by September 30, 2027?"
-description: "Will Apyx launch a token by September 30, 2027? Odds: 75.0% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Apyx launch a token by September 30, 2027?"
+title: "Will Reya launch a token by September 30, 2026?"
+description: "Will Reya launch a token by September 30, 2026? Odds: 31.0% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Reya launch a token by September 30, 2026?"
 category: "crypto"
 status: "active"
 lastUpdated: 2026-07-25
-expiryDate: 2027-10-01
+expiryDate: 2026-10-01
 tags: ["crypto", "polymarket"]
-polymarketYes: 75.0
-polymarketNo: 25.0
-polymarketVolume: 9952
-polymarketUrl: "https://polymarket.com/event/will-apyx-launch-a-token-by-september-30-2027"
+polymarketYes: 31.0
+polymarketNo: 69.0
+polymarketVolume: 9846
+polymarketUrl: "https://polymarket.com/event/will-reya-launch-a-token-by-september-30-2026"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 75.0% | 25.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 31.0% | 69.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-apyx-launch-a-token-by-septemb
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Apyx launch a token by September 30, 2027?"?
+### What are the current odds for "Will Reya launch a token by September 30, 2026?"?
 
-As of July 25, 2026, Polymarket prices YES at 75.0%.
+As of July 25, 2026, Polymarket prices YES at 31.0%.
 
 ### Where can I trade on this prediction market?
 

@@ -1,23 +1,23 @@
 ---
-title: "Will Baker Mayfield win the 2026 NFL MVP?"
-description: "Will Baker Mayfield win the 2026 NFL MVP? Odds: 1.8% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Baker Mayfield win the 2026 NFL MVP?"
+title: "Will the Tampa Bay Lightning be named the 2026-27 NHL Stanley Cup Champion?"
+description: "Will the Tampa Bay Lightning be named the 2026-27 NHL Stanley Cup Champion? Odds: 6.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will the Tampa Bay Lightning be named the 2026-27 NHL Stanley Cup Champion?"
 category: "sports"
 status: "active"
 lastUpdated: 2026-07-25
-expiryDate: 2027-02-15
+expiryDate: 2027-07-01
 tags: ["polymarket", "sports"]
-polymarketYes: 1.8
-polymarketNo: 98.2
-polymarketVolume: 98853
-polymarketUrl: "https://polymarket.com/event/will-baker-mayfield-win-the-2026-nfl-mvp"
+polymarketYes: 6.5
+polymarketNo: 93.5
+polymarketVolume: 9806
+polymarketUrl: "https://polymarket.com/event/will-the-tampa-bay-lightning-be-named-the-2026-27-nhl-stanley-cup-champion-20260612185657098"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 1.8% | 98.2% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 6.5% | 93.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-baker-mayfield-win-the-2026-nf
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Baker Mayfield win the 2026 NFL MVP?"?
+### What are the current odds for "Will the Tampa Bay Lightning be named the 2026-27 NHL Stanley Cup Champion?"?
 
-As of July 25, 2026, Polymarket prices YES at 1.8%.
+As of July 25, 2026, Polymarket prices YES at 6.5%.
 
 ### Where can I trade on this prediction market?
 

@@ -3,8 +3,8 @@ title: "US-Saudi nuclear deal enters into force in 2026?"
 description: "US-Saudi nuclear deal enters into force in 2026? Odds: 21.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "US-Saudi nuclear deal enters into force in 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-07-24
+status: "settled"
+lastUpdated: 2026-07-25
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 21.5

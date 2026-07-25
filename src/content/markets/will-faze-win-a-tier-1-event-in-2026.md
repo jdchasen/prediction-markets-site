@@ -3,8 +3,8 @@ title: "Will FaZe win a Tier 1 event in 2026? "
 description: "Will FaZe win a Tier 1 event in 2026?  Odds: 13.6% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will FaZe win a Tier 1 event in 2026? "
 category: "politics"
-status: "active"
-lastUpdated: 2026-07-24
+status: "settled"
+lastUpdated: 2026-07-25
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 13.6

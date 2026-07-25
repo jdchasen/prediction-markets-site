@@ -3,8 +3,8 @@ title: "Will global temperature increase by between 1.25ºC and 1.29ºC in July 
 description: "Will global temperature increase by between 1.25ºC and 1.29ºC in July 2026? Odds: 14.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will global temperature increase by between 1.25ºC and 1.29ºC in July 2026?"
 category: "science"
-status: "active"
-lastUpdated: 2026-07-24
+status: "settled"
+lastUpdated: 2026-07-25
 expiryDate: 2026-08-01
 tags: ["polymarket", "science", "weather"]
 polymarketYes: 14.5

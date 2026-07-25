@@ -3,8 +3,8 @@ title: "Bank of Mexico increases interest rates by 25 bps after August 2026 meet
 description: "Bank of Mexico increases interest rates by 25 bps after August 2026 meeting? Odds: 0.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Bank of Mexico increases interest rates by 25 bps after August 2026 meeting?"
 category: "economics"
-status: "active"
-lastUpdated: 2026-07-24
+status: "settled"
+lastUpdated: 2026-07-25
 expiryDate: 2026-08-06
 tags: ["economics", "interest-rates", "polymarket"]
 polymarketYes: 0.2

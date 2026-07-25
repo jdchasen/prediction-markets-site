@@ -3,8 +3,8 @@ title: "Will Alphabet be the second-largest company in the world by market cap o
 description: "Will Alphabet be the second-largest company in the world by market cap on July 31? Odds: 1.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Alphabet be the second-largest company in the world by market cap on July 31?"
 category: "finance"
-status: "active"
-lastUpdated: 2026-07-24
+status: "settled"
+lastUpdated: 2026-07-25
 expiryDate: 2026-07-31
 tags: ["finance", "polymarket"]
 polymarketYes: 1.0

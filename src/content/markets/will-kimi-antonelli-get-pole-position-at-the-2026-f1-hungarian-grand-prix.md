@@ -3,8 +3,8 @@ title: "Will Kimi Antonelli get pole position at the 2026 F1 Hungarian Grand Pri
 description: "Will Kimi Antonelli get pole position at the 2026 F1 Hungarian Grand Prix? Odds: 23.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Kimi Antonelli get pole position at the 2026 F1 Hungarian Grand Prix?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-07-24
+status: "settled"
+lastUpdated: 2026-07-25
 expiryDate: 2026-08-01
 tags: ["polymarket", "sports"]
 polymarketYes: 23.5

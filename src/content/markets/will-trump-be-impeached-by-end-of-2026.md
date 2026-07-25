@@ -1,15 +1,15 @@
 ---
 title: "Will Trump be impeached by end of 2026?"
-description: "Will Trump be impeached by end of 2026? Odds: 2.1% YES on Polymarket. See live prices and trade this market."
+description: "Will Trump be impeached by end of 2026? Odds: 2.6% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Trump be impeached by end of 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-07-24
+lastUpdated: 2026-07-25
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket", "trump"]
-polymarketYes: 2.1
-polymarketNo: 97.9
-polymarketVolume: 979083
+polymarketYes: 2.6
+polymarketNo: 97.4
+polymarketVolume: 982770
 polymarketUrl: "https://polymarket.com/event/will-trump-be-impeached-by-december-31-2026"
 ---
 
@@ -17,11 +17,11 @@ polymarketUrl: "https://polymarket.com/event/will-trump-be-impeached-by-december
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 2.1% | 97.9% | $979K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 2.6% | 97.4% | $983K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Marco Rubio win the 2028 Republican presidential nomination?](/odds/will-marco-rubio-win-the-2028-republican-presidential-nomination) — 28% YES
+- [Will Marco Rubio win the 2028 Republican presidential nomination?](/odds/will-marco-rubio-win-the-2028-republican-presidential-nomination) — 27% YES
 - [Will Eric Trump win the 2028 Republican presidential nomination?](/odds/will-eric-trump-win-the-2028-republican-presidential-nomination) — 0% YES
 - [Will the New York Mets win the 2026 World Series?](/odds/will-the-new-york-mets-win-the-2026-world-series) — 0% YES
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-trump-be-impeached-by-december
 
 ### What are the current odds for "Will Trump be impeached by end of 2026?"?
 
-As of July 24, 2026, Polymarket prices YES at 2.1%.
+As of July 25, 2026, Polymarket prices YES at 2.6%.
 
 ### Where can I trade on this prediction market?
 

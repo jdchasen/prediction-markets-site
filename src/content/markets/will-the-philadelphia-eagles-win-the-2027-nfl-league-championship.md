@@ -4,12 +4,12 @@ description: "Will the Philadelphia Eagles win the 2027 NFL league championship?
 marketQuestion: "Will the Philadelphia Eagles win the 2027 NFL league championship?"
 category: "sports"
 status: "active"
-lastUpdated: 2026-07-24
+lastUpdated: 2026-07-25
 expiryDate: 2027-03-31
 tags: ["polymarket", "sports"]
 polymarketYes: 4.0
 polymarketNo: 96.0
-polymarketVolume: 981941
+polymarketVolume: 982071
 polymarketUrl: "https://polymarket.com/event/will-the-philadelphia-eagles-win-the-2027-nfl-league-championship"
 ---
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-philadelphia-eagles-win-th
 
 ### What are the current odds for "Will the Philadelphia Eagles win the 2027 NFL league championship?"?
 
-As of July 24, 2026, Polymarket prices YES at 4.0%.
+As of July 25, 2026, Polymarket prices YES at 4.0%.
 
 ### Where can I trade on this prediction market?
 

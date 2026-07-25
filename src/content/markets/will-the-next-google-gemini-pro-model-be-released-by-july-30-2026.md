@@ -1,23 +1,23 @@
 ---
-title: "Kylie Jenner and Timothée Chalamet engaged in 2026?"
-description: "Kylie Jenner and Timothée Chalamet engaged in 2026? Odds: 15.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Kylie Jenner and Timothée Chalamet engaged in 2026?"
+title: "Will the next Google Gemini Pro model be released by July 30, 2026?"
+description: "Will the next Google Gemini Pro model be released by July 30, 2026? Odds: 3.9% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will the next Google Gemini Pro model be released by July 30, 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-07-25
-expiryDate: 2026-12-31
+expiryDate: 2026-07-30
 tags: ["politics", "polymarket"]
-polymarketYes: 15.5
-polymarketNo: 84.5
-polymarketVolume: 9879
-polymarketUrl: "https://polymarket.com/event/kylie-jenner-and-timothe-chalamet-engaged-in-2026"
+polymarketYes: 3.9
+polymarketNo: 96.1
+polymarketVolume: 9839
+polymarketUrl: "https://polymarket.com/event/will-the-next-google-gemini-pro-model-be-released-by-july-30-2026"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 15.5% | 84.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 3.9% | 96.1% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/kylie-jenner-and-timothe-chalamet-e
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Kylie Jenner and Timothée Chalamet engaged in 2026?"?
+### What are the current odds for "Will the next Google Gemini Pro model be released by July 30, 2026?"?
 
-As of July 25, 2026, Polymarket prices YES at 15.5%.
+As of July 25, 2026, Polymarket prices YES at 3.9%.
 
 ### Where can I trade on this prediction market?
 

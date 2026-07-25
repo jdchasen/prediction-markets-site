@@ -1,15 +1,15 @@
 ---
 title: "Will Base launch a token by September 30, 2026?"
-description: "Will Base launch a token by September 30, 2026? Odds: 2.0% YES on Polymarket. See live prices and trade this market."
+description: "Will Base launch a token by September 30, 2026? Odds: 2.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Base launch a token by September 30, 2026?"
 category: "crypto"
-status: "settled"
-lastUpdated: 2026-07-24
+status: "active"
+lastUpdated: 2026-07-25
 expiryDate: 2026-10-01
 tags: ["crypto", "polymarket"]
-polymarketYes: 2.0
-polymarketNo: 98.0
-polymarketVolume: 97688
+polymarketYes: 2.5
+polymarketNo: 97.5
+polymarketVolume: 98357
 polymarketUrl: "https://polymarket.com/event/will-base-launch-a-token-by-september-30-2026"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-base-launch-a-token-by-septemb
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 2.0% | 98.0% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 2.5% | 97.5% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will MetaMask launch a token by September 30, 2026?](/odds/will-metamask-launch-a-token-by-september-30-2026) — 4% YES
-- [Extended FDV above $500M one day after launch?](/odds/extended-fdv-above-500m-one-day-after-launch) — 30% YES
-- [Extended FDV above $1B one day after launch?](/odds/extended-fdv-above-1b-one-day-after-launch) — 8% YES
+- [Will MetaMask launch a token by September 30, 2026?](/odds/will-metamask-launch-a-token-by-september-30-2026) — 4% YES
+- [Extended FDV above $500M one day after launch?](/odds/extended-fdv-above-500m-one-day-after-launch) — 26% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Base launch a token by September 30, 2026?"?
 
-As of July 24, 2026, Polymarket prices YES at 2.0%.
+As of July 25, 2026, Polymarket prices YES at 2.5%.
 
 ### Where can I trade on this prediction market?
 

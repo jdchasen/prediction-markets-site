@@ -1,15 +1,15 @@
 ---
 title: "Will Madonna's monthly listeners figure hit 58m by August 31?"
-description: "Will Madonna's monthly listeners figure hit 58m by August 31? Odds: 7.6% YES on Polymarket. See live prices and trade this market."
+description: "Will Madonna's monthly listeners figure hit 58m by August 31? Odds: 7.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Madonna's monthly listeners figure hit 58m by August 31?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-07-24
+lastUpdated: 2026-07-25
 expiryDate: 2026-08-31
 tags: ["politics", "polymarket"]
-polymarketYes: 7.6
-polymarketNo: 92.4
-polymarketVolume: 9838
+polymarketYes: 7.1
+polymarketNo: 92.8
+polymarketVolume: 9901
 polymarketUrl: "https://polymarket.com/event/will-madonnas-monthly-listeners-figure-hit-58m-by-august-31-20260723155541884"
 ---
 
@@ -17,11 +17,11 @@ polymarketUrl: "https://polymarket.com/event/will-madonnas-monthly-listeners-fig
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 7.6% | 92.4% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 7.1% | 92.8% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Marco Rubio win the 2028 Republican presidential nomination?](/odds/will-marco-rubio-win-the-2028-republican-presidential-nomination) — 28% YES
+- [Will Marco Rubio win the 2028 Republican presidential nomination?](/odds/will-marco-rubio-win-the-2028-republican-presidential-nomination) — 27% YES
 - [Will Eric Trump win the 2028 Republican presidential nomination?](/odds/will-eric-trump-win-the-2028-republican-presidential-nomination) — 0% YES
 - [Will the New York Mets win the 2026 World Series?](/odds/will-the-new-york-mets-win-the-2026-world-series) — 0% YES
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-madonnas-monthly-listeners-fig
 
 ### What are the current odds for "Will Madonna's monthly listeners figure hit 58m by August 31?"?
 
-As of July 24, 2026, Polymarket prices YES at 7.6%.
+As of July 25, 2026, Polymarket prices YES at 7.1%.
 
 ### Where can I trade on this prediction market?
 

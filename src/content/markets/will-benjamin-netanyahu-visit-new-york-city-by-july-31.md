@@ -3,8 +3,8 @@ title: "Will Benjamin Netanyahu visit New York City by July 31?"
 description: "Will Benjamin Netanyahu visit New York City by July 31? Odds: 1.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Benjamin Netanyahu visit New York City by July 31?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-07-24
+status: "settled"
+lastUpdated: 2026-07-25
 expiryDate: 2026-07-31
 tags: ["politics", "polymarket"]
 polymarketYes: 1.5

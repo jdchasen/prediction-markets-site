@@ -1,14 +1,14 @@
 ---
 title: "Will Mexico GDP growth in Q2 2026 be between -0.5% and 0.0%?"
-description: "Will Mexico GDP growth in Q2 2026 be between -0.5% and 0.0%? Odds: 2.7% YES on Polymarket. See live prices and trade this market."
+description: "Will Mexico GDP growth in Q2 2026 be between -0.5% and 0.0%? Odds: 2.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Mexico GDP growth in Q2 2026 be between -0.5% and 0.0%?"
 category: "economics"
 status: "active"
-lastUpdated: 2026-07-24
+lastUpdated: 2026-07-25
 expiryDate: 2026-07-30
 tags: ["economics", "polymarket"]
-polymarketYes: 2.7
-polymarketNo: 97.3
+polymarketYes: 2.9
+polymarketNo: 97.0
 polymarketVolume: 9619
 polymarketUrl: "https://polymarket.com/event/will-mexico-gdp-growth-in-q2-2026-be-between-0pt5-and-0pt0"
 ---
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-mexico-gdp-growth-in-q2-2026-b
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 2.7% | 97.3% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 2.9% | 97.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will the Fed decrease interest rates by 50+ bps after the October 2026 meeting?](/odds/will-the-fed-decrease-interest-rates-by-50-bps-after-the-october-2026-meeting) — 2% YES
-- [Will 1 Fed rate hike happen in 2026?](/odds/will-1-fed-rate-hike-happen-in-2026) — 30% YES
 - [Will Brazil’s Annual Inflation in 2026 be between 4.00% and 4.49%?](/odds/will-brazils-annual-inflation-in-2026-be-between-400-and-449) — 6% YES
+- [Will 2 Fed rate hikes happen in 2026?](/odds/will-2-fed-rate-hikes-happen-in-2026) — 34% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Mexico GDP growth in Q2 2026 be between -0.5% and 0.0%?"?
 
-As of July 24, 2026, Polymarket prices YES at 2.7%.
+As of July 25, 2026, Polymarket prices YES at 2.9%.
 
 ### Where can I trade on this prediction market?
 
