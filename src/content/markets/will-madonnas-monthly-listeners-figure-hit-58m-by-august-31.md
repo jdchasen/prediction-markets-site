@@ -3,7 +3,7 @@ title: "Will Madonna's monthly listeners figure hit 58m by August 31?"
 description: "Will Madonna's monthly listeners figure hit 58m by August 31? Odds: 7.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Madonna's monthly listeners figure hit 58m by August 31?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-07-25
 expiryDate: 2026-08-31
 tags: ["politics", "polymarket"]

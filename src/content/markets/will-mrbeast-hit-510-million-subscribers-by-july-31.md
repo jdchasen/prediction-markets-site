@@ -1,23 +1,23 @@
 ---
-title: "Will Byron Donalds announce a presidential run before 2027?"
-description: "Will Byron Donalds announce a presidential run before 2027? Odds: 1.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Byron Donalds announce a presidential run before 2027?"
+title: "Will MrBeast hit 510 million subscribers by July 31?"
+description: "Will MrBeast hit 510 million subscribers by July 31? Odds: 97.7% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will MrBeast hit 510 million subscribers by July 31?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-07-25
-expiryDate: 2026-12-31
+expiryDate: 2026-07-31
 tags: ["politics", "polymarket"]
-polymarketYes: 1.5
-polymarketNo: 98.5
-polymarketVolume: 9911
-polymarketUrl: "https://polymarket.com/event/will-byron-donalds-announce-a-presidential-run-before-2027"
+polymarketYes: 97.7
+polymarketNo: 2.4
+polymarketVolume: 9905
+polymarketUrl: "https://polymarket.com/event/will-mrbeast-hit-510-million-subscribers-by-july-31-20260623145858515"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 1.5% | 98.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 97.7% | 2.4% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-byron-donalds-announce-a-presi
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Byron Donalds announce a presidential run before 2027?"?
+### What are the current odds for "Will MrBeast hit 510 million subscribers by July 31?"?
 
-As of July 25, 2026, Polymarket prices YES at 1.5%.
+As of July 25, 2026, Polymarket prices YES at 97.7%.
 
 ### Where can I trade on this prediction market?
 

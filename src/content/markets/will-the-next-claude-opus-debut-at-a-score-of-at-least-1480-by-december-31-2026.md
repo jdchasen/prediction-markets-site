@@ -1,23 +1,23 @@
 ---
-title: "Will the next Google Gemini Pro model be released by July 30, 2026?"
-description: "Will the next Google Gemini Pro model be released by July 30, 2026? Odds: 3.9% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will the next Google Gemini Pro model be released by July 30, 2026?"
+title: "Will the next Claude Opus debut at a score of at least 1480 by December 31, 2026?"
+description: "Will the next Claude Opus debut at a score of at least 1480 by December 31, 2026? Odds: 78.0% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will the next Claude Opus debut at a score of at least 1480 by December 31, 2026?"
 category: "politics"
-status: "settled"
+status: "active"
 lastUpdated: 2026-07-25
-expiryDate: 2026-07-30
+expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 3.9
-polymarketNo: 96.1
-polymarketVolume: 9839
-polymarketUrl: "https://polymarket.com/event/will-the-next-google-gemini-pro-model-be-released-by-july-30-2026"
+polymarketYes: 78.0
+polymarketNo: 22.0
+polymarketVolume: 9911
+polymarketUrl: "https://polymarket.com/event/will-the-next-claude-opus-debut-at-a-score-of-at-least-1480-by-december-31-2026-20260715004553749"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 3.9% | 96.1% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 78.0% | 22.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-the-next-google-gemini-pro-mod
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will the next Google Gemini Pro model be released by July 30, 2026?"?
+### What are the current odds for "Will the next Claude Opus debut at a score of at least 1480 by December 31, 2026?"?
 
-As of July 25, 2026, Polymarket prices YES at 3.9%.
+As of July 25, 2026, Polymarket prices YES at 78.0%.
 
 ### Where can I trade on this prediction market?
 

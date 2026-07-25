@@ -9,7 +9,7 @@ expiryDate: 2027-03-31
 tags: ["polymarket", "sports"]
 polymarketYes: 3.0
 polymarketNo: 97.0
-polymarketVolume: 978329
+polymarketVolume: 978564
 polymarketUrl: "https://polymarket.com/event/will-the-chicago-bears-win-the-2027-nfl-league-championship"
 ---
 
@@ -17,13 +17,13 @@ polymarketUrl: "https://polymarket.com/event/will-the-chicago-bears-win-the-2027
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 3.0% | 97.0% | $978K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 3.0% | 97.0% | $979K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Arizona Cardinals win the 2027 NFL NFC Championship?](/odds/will-arizona-cardinals-win-the-2027-nfl-nfc-championship) — 1% YES
 - [Will the Philadelphia Eagles win the 2027 NFL league championship?](/odds/will-the-philadelphia-eagles-win-the-2027-nfl-league-championship) — 4% YES
-- [Will Baker Mayfield win the 2026 NFL MVP?](/odds/will-baker-mayfield-win-the-2026-nfl-mvp) — 2% YES
+- [Will Mercedes be the 2026 F1 Constructors' Champion?](/odds/will-mercedes-be-the-2026-f1-constructors-champion) — 84% YES
 
 ## Frequently Asked Questions
 

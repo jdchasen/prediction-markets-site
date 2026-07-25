@@ -9,7 +9,7 @@ expiryDate: 2027-07-01
 tags: ["polymarket", "sports"]
 polymarketYes: 6.5
 polymarketNo: 93.5
-polymarketVolume: 9806
+polymarketVolume: 9844
 polymarketUrl: "https://polymarket.com/event/will-the-tampa-bay-lightning-be-named-the-2026-27-nhl-stanley-cup-champion-20260612185657098"
 ---
 
@@ -23,7 +23,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-tampa-bay-lightning-be-nam
 
 - [Will Arizona Cardinals win the 2027 NFL NFC Championship?](/odds/will-arizona-cardinals-win-the-2027-nfl-nfc-championship) — 1% YES
 - [Will the Philadelphia Eagles win the 2027 NFL league championship?](/odds/will-the-philadelphia-eagles-win-the-2027-nfl-league-championship) — 4% YES
-- [Will the Chicago Bears win the 2027 NFL league championship?](/odds/will-the-chicago-bears-win-the-2027-nfl-league-championship) — 3% YES
+- [Will Mercedes be the 2026 F1 Constructors' Champion?](/odds/will-mercedes-be-the-2026-f1-constructors-champion) — 84% YES
 
 ## Frequently Asked Questions
 

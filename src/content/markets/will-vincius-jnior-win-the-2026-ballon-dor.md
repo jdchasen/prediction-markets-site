@@ -1,23 +1,23 @@
 ---
-title: "Will the next Google Gemini Pro model be released by July 30, 2026?"
-description: "Will the next Google Gemini Pro model be released by July 30, 2026? Odds: 3.9% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will the next Google Gemini Pro model be released by July 30, 2026?"
+title: "Will Vinícius Júnior win the 2026 Ballon d'Or?"
+description: "Will Vinícius Júnior win the 2026 Ballon d'Or? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Vinícius Júnior win the 2026 Ballon d'Or?"
 category: "politics"
-status: "settled"
+status: "active"
 lastUpdated: 2026-07-25
-expiryDate: 2026-07-30
+expiryDate: 2026-10-31
 tags: ["politics", "polymarket"]
-polymarketYes: 3.9
-polymarketNo: 96.1
-polymarketVolume: 9839
-polymarketUrl: "https://polymarket.com/event/will-the-next-google-gemini-pro-model-be-released-by-july-30-2026"
+polymarketYes: 0.1
+polymarketNo: 99.9
+polymarketVolume: 979172
+polymarketUrl: "https://polymarket.com/event/will-vincius-jnior-win-the-2026-ballon-dor"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 3.9% | 96.1% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.1% | 99.9% | $979K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-the-next-google-gemini-pro-mod
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will the next Google Gemini Pro model be released by July 30, 2026?"?
+### What are the current odds for "Will Vinícius Júnior win the 2026 Ballon d'Or?"?
 
-As of July 25, 2026, Polymarket prices YES at 3.9%.
+As of July 25, 2026, Polymarket prices YES at 0.1%.
 
 ### Where can I trade on this prediction market?
 

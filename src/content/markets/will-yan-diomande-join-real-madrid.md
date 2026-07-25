@@ -1,23 +1,23 @@
 ---
-title: "Will Byron Donalds announce a presidential run before 2027?"
-description: "Will Byron Donalds announce a presidential run before 2027? Odds: 1.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Byron Donalds announce a presidential run before 2027?"
+title: "Will Yan Diomande join Real Madrid?"
+description: "Will Yan Diomande join Real Madrid? Odds: 72.0% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Yan Diomande join Real Madrid?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-07-25
-expiryDate: 2026-12-31
+expiryDate: 2026-09-02
 tags: ["politics", "polymarket"]
-polymarketYes: 1.5
-polymarketNo: 98.5
-polymarketVolume: 9911
-polymarketUrl: "https://polymarket.com/event/will-byron-donalds-announce-a-presidential-run-before-2027"
+polymarketYes: 72.0
+polymarketNo: 28.1
+polymarketVolume: 9992
+polymarketUrl: "https://polymarket.com/event/will-yan-diomande-join-real-madrid-20260612220856161"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 1.5% | 98.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 72.0% | 28.1% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-byron-donalds-announce-a-presi
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Byron Donalds announce a presidential run before 2027?"?
+### What are the current odds for "Will Yan Diomande join Real Madrid?"?
 
-As of July 25, 2026, Polymarket prices YES at 1.5%.
+As of July 25, 2026, Polymarket prices YES at 72.0%.
 
 ### Where can I trade on this prediction market?
 

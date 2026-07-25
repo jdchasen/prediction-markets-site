@@ -9,7 +9,7 @@ expiryDate: 2027-01-01
 tags: ["polymarket", "tech"]
 polymarketYes: 14.5
 polymarketNo: 85.5
-polymarketVolume: 9902
+polymarketVolume: 9942
 polymarketUrl: "https://polymarket.com/event/will-elon-musk-tweet-about-hyperliquid-by-december-31-2026"
 ---
 
@@ -21,7 +21,7 @@ polymarketUrl: "https://polymarket.com/event/will-elon-musk-tweet-about-hyperliq
 
 ## Related Markets
 
-- [Will less than 5 SpaceX Starship launches successfully reach Space in 2026?](/odds/will-less-than-5-spacex-starship-launches-successfully-reach-space-in-2026) — 24% YES
+- [Will less than 5 SpaceX Starship launches successfully reach Space in 2026?](/odds/will-less-than-5-spacex-starship-launches-successfully-reach-space-in-2026) — 22% YES
 - [Will Elon Musk’s net worth be between $0.90T and $1.00T on July 31?](/odds/will-elon-musks-net-worth-be-between-090t-and-100t-on-july-31) — 3% YES
 
 ## Frequently Asked Questions

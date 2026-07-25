@@ -3,7 +3,7 @@ title: "Will CXMT’s closing IPO market cap be at least 3T yuan?"
 description: "Will CXMT’s closing IPO market cap be at least 3T yuan? Odds: 33.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will CXMT’s closing IPO market cap be at least 3T yuan?"
 category: "finance"
-status: "active"
+status: "settled"
 lastUpdated: 2026-07-25
 expiryDate: 2026-12-31
 tags: ["finance", "polymarket"]

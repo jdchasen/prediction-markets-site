@@ -1,14 +1,14 @@
 ---
 title: "Will Brazil’s Annual Inflation in 2026 be between 4.00% and 4.49%?"
-description: "Will Brazil’s Annual Inflation in 2026 be between 4.00% and 4.49%? Odds: 6.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Brazil’s Annual Inflation in 2026 be between 4.00% and 4.49%? Odds: 7.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Brazil’s Annual Inflation in 2026 be between 4.00% and 4.49%?"
 category: "economics"
 status: "active"
 lastUpdated: 2026-07-25
 expiryDate: 2027-01-12
 tags: ["economics", "polymarket", "sports"]
-polymarketYes: 6.5
-polymarketNo: 93.5
+polymarketYes: 7.0
+polymarketNo: 93.0
 polymarketVolume: 9802
 polymarketUrl: "https://polymarket.com/event/will-brazils-annual-inflation-in-2026-be-between-4pt00-and-4pt49"
 ---
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-brazils-annual-inflation-in-20
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 6.5% | 93.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 7.0% | 93.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will the Fed decrease interest rates by 50+ bps after the October 2026 meeting?](/odds/will-the-fed-decrease-interest-rates-by-50-bps-after-the-october-2026-meeting) — 2% YES
-- [Will 2 Fed rate hikes happen in 2026?](/odds/will-2-fed-rate-hikes-happen-in-2026) — 34% YES
+- [Will 2 Fed rate hikes happen in 2026?](/odds/will-2-fed-rate-hikes-happen-in-2026) — 33% YES
 - [Will Eurozone annual GDP growth in 2026 be between 0% and 1.0%?](/odds/will-eurozone-annual-gdp-growth-in-2026-be-between-0-and-10) — 71% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Brazil’s Annual Inflation in 2026 be between 4.00% and 4.49%?"?
 
-As of July 25, 2026, Polymarket prices YES at 6.5%.
+As of July 25, 2026, Polymarket prices YES at 7.0%.
 
 ### Where can I trade on this prediction market?
 
