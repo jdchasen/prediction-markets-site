@@ -1,23 +1,23 @@
 ---
-title: "Will Byron Donalds announce a presidential run before 2027?"
-description: "Will Byron Donalds announce a presidential run before 2027? Odds: 1.1% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Byron Donalds announce a presidential run before 2027?"
+title: "Will Wildberries announce bankruptcy before 2027?"
+description: "Will Wildberries announce bankruptcy before 2027? Odds: 12.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Wildberries announce bankruptcy before 2027?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-07-26
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 1.1
-polymarketNo: 98.9
-polymarketVolume: 9961
-polymarketUrl: "https://polymarket.com/event/will-byron-donalds-announce-a-presidential-run-before-2027"
+polymarketYes: 12.5
+polymarketNo: 87.5
+polymarketVolume: 9893
+polymarketUrl: "https://polymarket.com/event/will-wildberries-announce-bankruptcy-before-2027-20260723171611669"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 1.1% | 98.9% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 12.5% | 87.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-byron-donalds-announce-a-presi
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Byron Donalds announce a presidential run before 2027?"?
+### What are the current odds for "Will Wildberries announce bankruptcy before 2027?"?
 
-As of July 26, 2026, Polymarket prices YES at 1.1%.
+As of July 26, 2026, Polymarket prices YES at 12.5%.
 
 ### Where can I trade on this prediction market?
 

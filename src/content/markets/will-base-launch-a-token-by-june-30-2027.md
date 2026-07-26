@@ -1,23 +1,23 @@
 ---
-title: "Will Reya launch a token by September 30, 2026?"
-description: "Will Reya launch a token by September 30, 2026? Odds: 26.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Reya launch a token by September 30, 2026?"
+title: "Will Base launch a token by June 30, 2027?"
+description: "Will Base launch a token by June 30, 2027? Odds: 51.0% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Base launch a token by June 30, 2027?"
 category: "crypto"
 status: "active"
 lastUpdated: 2026-07-26
-expiryDate: 2026-10-01
+expiryDate: 2027-07-01
 tags: ["crypto", "polymarket"]
-polymarketYes: 26.5
-polymarketNo: 73.5
-polymarketVolume: 9846
-polymarketUrl: "https://polymarket.com/event/will-reya-launch-a-token-by-september-30-2026"
+polymarketYes: 51.0
+polymarketNo: 49.0
+polymarketVolume: 9792
+polymarketUrl: "https://polymarket.com/event/will-base-launch-a-token-by-june-30-2027"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 26.5% | 73.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 51.0% | 49.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-reya-launch-a-token-by-septemb
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Reya launch a token by September 30, 2026?"?
+### What are the current odds for "Will Base launch a token by June 30, 2027?"?
 
-As of July 26, 2026, Polymarket prices YES at 26.5%.
+As of July 26, 2026, Polymarket prices YES at 51.0%.
 
 ### Where can I trade on this prediction market?
 

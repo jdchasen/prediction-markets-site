@@ -3,8 +3,8 @@ title: "Will the next Claude Opus debut at a score of at least 1480 by December 
 description: "Will the next Claude Opus debut at a score of at least 1480 by December 31, 2026? Odds: 78.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the next Claude Opus debut at a score of at least 1480 by December 31, 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-07-25
+status: "settled"
+lastUpdated: 2026-07-26
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 78.0

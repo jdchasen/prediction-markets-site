@@ -4,12 +4,12 @@ description: "UNSC Resolution Endorsing Final U.S.-Iran Deal by December 31? Odd
 marketQuestion: "UNSC Resolution Endorsing Final U.S.-Iran Deal by December 31?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-07-25
+lastUpdated: 2026-07-26
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 30.5
 polymarketNo: 69.5
-polymarketVolume: 99152
+polymarketVolume: 99251
 polymarketUrl: "https://polymarket.com/event/will-the-unsc-adopt-a-resolution-endorsing-the-final-us-iran-deal-by-date"
 ---
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-unsc-adopt-a-resolution-en
 
 ### What are the current odds for "UNSC Resolution Endorsing Final U.S.-Iran Deal by December 31?"?
 
-As of July 25, 2026, Polymarket prices YES at 30.5%.
+As of July 26, 2026, Polymarket prices YES at 30.5%.
 
 ### Where can I trade on this prediction market?
 

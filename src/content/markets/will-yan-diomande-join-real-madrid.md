@@ -3,8 +3,8 @@ title: "Will Yan Diomande join Real Madrid?"
 description: "Will Yan Diomande join Real Madrid? Odds: 72.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Yan Diomande join Real Madrid?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-07-25
+status: "settled"
+lastUpdated: 2026-07-26
 expiryDate: 2026-09-02
 tags: ["politics", "polymarket"]
 polymarketYes: 72.0

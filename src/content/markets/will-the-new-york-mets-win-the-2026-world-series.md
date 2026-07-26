@@ -4,12 +4,12 @@ description: "Will the New York Mets win the 2026 World Series? Odds: 0.4% YES o
 marketQuestion: "Will the New York Mets win the 2026 World Series?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-07-25
+lastUpdated: 2026-07-26
 expiryDate: 2026-10-31
 tags: ["politics", "polymarket"]
 polymarketYes: 0.4
 polymarketNo: 99.7
-polymarketVolume: 998123
+polymarketVolume: 998968
 polymarketUrl: "https://polymarket.com/event/will-the-new-york-mets-win-the-2026-world-series"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-the-new-york-mets-win-the-2026
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.4% | 99.7% | $998K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.4% | 99.7% | $999K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Marco Rubio win the 2028 Republican presidential nomination?](/odds/will-marco-rubio-win-the-2028-republican-presidential-nomination) — 27% YES
 - [Will Eric Trump win the 2028 Republican presidential nomination?](/odds/will-eric-trump-win-the-2028-republican-presidential-nomination) — 0% YES
-- [Will Trump be impeached by end of 2026?](/odds/will-trump-be-impeached-by-end-of-2026) — 3% YES
+- [Will Vinícius Júnior win the 2026 Ballon d'Or?](/odds/will-vincius-jnior-win-the-2026-ballon-dor) — 0% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will the New York Mets win the 2026 World Series?"?
 
-As of July 25, 2026, Polymarket prices YES at 0.4%.
+As of July 26, 2026, Polymarket prices YES at 0.4%.
 
 ### Where can I trade on this prediction market?
 

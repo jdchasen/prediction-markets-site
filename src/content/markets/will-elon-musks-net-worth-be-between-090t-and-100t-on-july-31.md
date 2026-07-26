@@ -3,8 +3,8 @@ title: "Will Elon Musk’s net worth be between $0.90T and $1.00T on July 31?"
 description: "Will Elon Musk’s net worth be between $0.90T and $1.00T on July 31? Odds: 3.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Elon Musk’s net worth be between $0.90T and $1.00T on July 31?"
 category: "tech"
-status: "active"
-lastUpdated: 2026-07-25
+status: "settled"
+lastUpdated: 2026-07-26
 expiryDate: 2026-07-31
 tags: ["polymarket", "tech"]
 polymarketYes: 3.4

@@ -4,12 +4,12 @@ description: "Will Sabrina Carpenter be the top artist for 2026? Odds: 0.2% YES 
 marketQuestion: "Will Sabrina Carpenter be the top artist for 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-07-25
+lastUpdated: 2026-07-26
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 0.2
 polymarketNo: 99.8
-polymarketVolume: 98501
+polymarketVolume: 99010
 polymarketUrl: "https://polymarket.com/event/will-sabrina-carpenter-be-the-top-spotify-artist-for-2026"
 ---
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-sabrina-carpenter-be-the-top-s
 
 ### What are the current odds for "Will Sabrina Carpenter be the top artist for 2026?"?
 
-As of July 25, 2026, Polymarket prices YES at 0.2%.
+As of July 26, 2026, Polymarket prices YES at 0.2%.
 
 ### Where can I trade on this prediction market?
 

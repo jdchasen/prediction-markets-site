@@ -4,12 +4,12 @@ description: "Will the Republican Party win the FL-07 House seat? Odds: 67.5% YE
 marketQuestion: "Will the Republican Party win the FL-07 House seat?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-07-25
+lastUpdated: 2026-07-26
 expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
 polymarketYes: 67.5
 polymarketNo: 32.5
-polymarketVolume: 9978
+polymarketVolume: 9981
 polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-fl-07-house-seat"
 ---
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-f
 
 ### What are the current odds for "Will the Republican Party win the FL-07 House seat?"?
 
-As of July 25, 2026, Polymarket prices YES at 67.5%.
+As of July 26, 2026, Polymarket prices YES at 67.5%.
 
 ### Where can I trade on this prediction market?
 

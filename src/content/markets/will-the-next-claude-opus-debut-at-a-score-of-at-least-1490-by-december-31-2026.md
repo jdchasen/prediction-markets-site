@@ -1,23 +1,23 @@
 ---
-title: "Will Carlos Roberto Massa Júnior finish in third place in the first round of the 2026 Brazilian presidential election?"
-description: "Will Carlos Roberto Massa Júnior finish in third place in the first round of the 2026 Brazilian presidential election? Odds: 0.9% YES on Polymarket. See live..."
-marketQuestion: "Will Carlos Roberto Massa Júnior finish in third place in the first round of the 2026 Brazilian presidential election?"
+title: "Will the next Claude Opus debut at a score of at least 1490 by December 31, 2026?"
+description: "Will the next Claude Opus debut at a score of at least 1490 by December 31, 2026? Odds: 52.0% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will the next Claude Opus debut at a score of at least 1490 by December 31, 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-07-26
-expiryDate: 2026-10-04
-tags: ["elections", "politics", "polymarket"]
-polymarketYes: 0.9
-polymarketNo: 99.2
-polymarketVolume: 99881
-polymarketUrl: "https://polymarket.com/event/will-carlos-roberto-massa-jnior-finish-in-third-place-in-the-first-round-of-the-2026-brazilian-presidential-election"
+expiryDate: 2026-12-31
+tags: ["politics", "polymarket"]
+polymarketYes: 52.0
+polymarketNo: 48.0
+polymarketVolume: 9802
+polymarketUrl: "https://polymarket.com/event/will-the-next-claude-opus-debut-at-a-score-of-at-least-1490-by-december-31-2026-20260715004553750"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.9% | 99.2% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 52.0% | 48.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-carlos-roberto-massa-jnior-fin
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Carlos Roberto Massa Júnior finish in third place in the first round of the 2026 Brazilian presidential election?"?
+### What are the current odds for "Will the next Claude Opus debut at a score of at least 1490 by December 31, 2026?"?
 
-As of July 26, 2026, Polymarket prices YES at 0.9%.
+As of July 26, 2026, Polymarket prices YES at 52.0%.
 
 ### Where can I trade on this prediction market?
 

@@ -1,15 +1,15 @@
 ---
 title: "Will Bitcoin reach $75,000 by December 31, 2026?"
-description: "Will Bitcoin reach $75,000 by December 31, 2026? Odds: 52.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Bitcoin reach $75,000 by December 31, 2026? Odds: 53.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Bitcoin reach $75,000 by December 31, 2026?"
 category: "crypto"
 status: "active"
-lastUpdated: 2026-07-25
+lastUpdated: 2026-07-26
 expiryDate: 2027-01-01
 tags: ["bitcoin", "crypto", "polymarket"]
-polymarketYes: 52.5
-polymarketNo: 47.5
-polymarketVolume: 99825
+polymarketYes: 53.5
+polymarketNo: 46.5
+polymarketVolume: 99842
 polymarketUrl: "https://polymarket.com/event/will-bitcoin-reach-75000-by-december-31-2026-from-june-8"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-bitcoin-reach-75000-by-decembe
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 52.5% | 47.5% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 53.5% | 46.5% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-bitcoin-reach-75000-by-decembe
 
 ### What are the current odds for "Will Bitcoin reach $75,000 by December 31, 2026?"?
 
-As of July 25, 2026, Polymarket prices YES at 52.5%.
+As of July 26, 2026, Polymarket prices YES at 53.5%.
 
 ### Where can I trade on this prediction market?
 

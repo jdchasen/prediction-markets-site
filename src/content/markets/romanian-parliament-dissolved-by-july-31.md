@@ -3,8 +3,8 @@ title: "Romanian parliament dissolved by July 31?"
 description: "Romanian parliament dissolved by July 31? Odds: 1.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Romanian parliament dissolved by July 31?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-07-25
+status: "settled"
+lastUpdated: 2026-07-26
 expiryDate: 2026-07-31
 tags: ["politics", "polymarket"]
 polymarketYes: 1.1

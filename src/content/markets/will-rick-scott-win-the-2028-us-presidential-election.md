@@ -4,7 +4,7 @@ description: "Will Rick Scott win the 2028 US Presidential Election? Odds: 0.1% 
 marketQuestion: "Will Rick Scott win the 2028 US Presidential Election?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-07-25
+lastUpdated: 2026-07-26
 expiryDate: 2028-11-07
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.1
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-rick-scott-win-the-2028-us-pre
 
 ### What are the current odds for "Will Rick Scott win the 2028 US Presidential Election?"?
 
-As of July 25, 2026, Polymarket prices YES at 0.1%.
+As of July 26, 2026, Polymarket prices YES at 0.1%.
 
 ### Where can I trade on this prediction market?
 

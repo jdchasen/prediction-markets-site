@@ -1,15 +1,15 @@
 ---
 title: "Will Apyx launch a token by September 30, 2027?"
-description: "Will Apyx launch a token by September 30, 2027? Odds: 75.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Apyx launch a token by September 30, 2027? Odds: 75.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Apyx launch a token by September 30, 2027?"
 category: "crypto"
 status: "active"
-lastUpdated: 2026-07-25
+lastUpdated: 2026-07-26
 expiryDate: 2027-10-01
 tags: ["crypto", "polymarket"]
-polymarketYes: 75.5
-polymarketNo: 24.5
-polymarketVolume: 9952
+polymarketYes: 75.0
+polymarketNo: 25.0
+polymarketVolume: 9972
 polymarketUrl: "https://polymarket.com/event/will-apyx-launch-a-token-by-september-30-2027"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-apyx-launch-a-token-by-septemb
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 75.5% | 24.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 75.0% | 25.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will MetaMask launch a token by September 30, 2026?](/odds/will-metamask-launch-a-token-by-september-30-2026) — 4% YES
 - [Extended FDV above $500M one day after launch?](/odds/extended-fdv-above-500m-one-day-after-launch) — 26% YES
-- [Will Bitcoin reach $75,000 by December 31, 2026?](/odds/will-bitcoin-reach-75000-by-december-31-2026) — 52% YES
+- [Will Bitcoin reach $75,000 by December 31, 2026?](/odds/will-bitcoin-reach-75000-by-december-31-2026) — 54% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Apyx launch a token by September 30, 2027?"?
 
-As of July 25, 2026, Polymarket prices YES at 75.5%.
+As of July 26, 2026, Polymarket prices YES at 75.0%.
 
 ### Where can I trade on this prediction market?
 

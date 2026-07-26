@@ -1,23 +1,23 @@
 ---
-title: "Will Byron Donalds announce a presidential run before 2027?"
-description: "Will Byron Donalds announce a presidential run before 2027? Odds: 1.1% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Byron Donalds announce a presidential run before 2027?"
+title: "Will MrBeast's next video get between 60 and 70 million views on week 1?"
+description: "Will MrBeast's next video get between 60 and 70 million views on week 1? Odds: 1.0% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will MrBeast's next video get between 60 and 70 million views on week 1?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-07-26
-expiryDate: 2026-12-31
+expiryDate: 2026-07-31
 tags: ["politics", "polymarket"]
-polymarketYes: 1.1
-polymarketNo: 98.9
-polymarketVolume: 9961
-polymarketUrl: "https://polymarket.com/event/will-byron-donalds-announce-a-presidential-run-before-2027"
+polymarketYes: 1.0
+polymarketNo: 99.0
+polymarketVolume: 9966
+polymarketUrl: "https://polymarket.com/event/will-mrbeasts-next-video-get-between-60-and-70-million-views-on-week-1-20260706143022534"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 1.1% | 98.9% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 1.0% | 99.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-byron-donalds-announce-a-presi
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Byron Donalds announce a presidential run before 2027?"?
+### What are the current odds for "Will MrBeast's next video get between 60 and 70 million views on week 1?"?
 
-As of July 26, 2026, Polymarket prices YES at 1.1%.
+As of July 26, 2026, Polymarket prices YES at 1.0%.
 
 ### Where can I trade on this prediction market?
 

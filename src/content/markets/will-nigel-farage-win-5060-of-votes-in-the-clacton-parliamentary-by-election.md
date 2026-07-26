@@ -4,7 +4,7 @@ description: "Will Nigel Farage win 50–60% of votes in the Clacton parliamenta
 marketQuestion: "Will Nigel Farage win 50–60% of votes in the Clacton parliamentary by-election?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-07-25
+lastUpdated: 2026-07-26
 expiryDate: 2027-06-30
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 16.0
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-nigel-farage-win-5060-of-votes
 
 ### What are the current odds for "Will Nigel Farage win 50–60% of votes in the Clacton parliamentary by-election?"?
 
-As of July 25, 2026, Polymarket prices YES at 16.0%.
+As of July 26, 2026, Polymarket prices YES at 16.0%.
 
 ### Where can I trade on this prediction market?
 

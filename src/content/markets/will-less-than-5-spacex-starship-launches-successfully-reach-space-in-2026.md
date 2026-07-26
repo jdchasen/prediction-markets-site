@@ -1,15 +1,15 @@
 ---
 title: "Will less than 5 SpaceX Starship launches successfully reach Space in 2026?"
-description: "Will less than 5 SpaceX Starship launches successfully reach Space in 2026? Odds: 22.5% YES on Polymarket. See live prices and trade this market."
+description: "Will less than 5 SpaceX Starship launches successfully reach Space in 2026? Odds: 18.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will less than 5 SpaceX Starship launches successfully reach Space in 2026?"
 category: "tech"
 status: "active"
-lastUpdated: 2026-07-25
+lastUpdated: 2026-07-26
 expiryDate: 2026-12-31
 tags: ["polymarket", "tech"]
-polymarketYes: 22.5
-polymarketNo: 77.5
-polymarketVolume: 98123
+polymarketYes: 18.5
+polymarketNo: 81.5
+polymarketVolume: 98188
 polymarketUrl: "https://polymarket.com/event/will-less-than-5-spacex-starship-launches-successfully-reach-space-in-2026"
 ---
 
@@ -17,18 +17,17 @@ polymarketUrl: "https://polymarket.com/event/will-less-than-5-spacex-starship-la
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 22.5% | 77.5% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 18.5% | 81.5% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Elon Musk tweet "Hyperliquid" by December 31, 2026?](/odds/will-elon-musk-tweet-hyperliquid-by-december-31-2026) — 14% YES
-- [Will Elon Musk’s net worth be between $0.90T and $1.00T on July 31?](/odds/will-elon-musks-net-worth-be-between-090t-and-100t-on-july-31) — 3% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will less than 5 SpaceX Starship launches successfully reach Space in 2026?"?
 
-As of July 25, 2026, Polymarket prices YES at 22.5%.
+As of July 26, 2026, Polymarket prices YES at 18.5%.
 
 ### Where can I trade on this prediction market?
 

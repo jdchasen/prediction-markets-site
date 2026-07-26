@@ -1,23 +1,23 @@
 ---
-title: "Will Carlos Roberto Massa Júnior finish in third place in the first round of the 2026 Brazilian presidential election?"
-description: "Will Carlos Roberto Massa Júnior finish in third place in the first round of the 2026 Brazilian presidential election? Odds: 0.9% YES on Polymarket. See live..."
-marketQuestion: "Will Carlos Roberto Massa Júnior finish in third place in the first round of the 2026 Brazilian presidential election?"
+title: "Lecornu  out as French PM by December 31, 2026?"
+description: "Lecornu  out as French PM by December 31, 2026? Odds: 33.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Lecornu  out as French PM by December 31, 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-07-26
-expiryDate: 2026-10-04
-tags: ["elections", "politics", "polymarket"]
-polymarketYes: 0.9
-polymarketNo: 99.2
-polymarketVolume: 99881
-polymarketUrl: "https://polymarket.com/event/will-carlos-roberto-massa-jnior-finish-in-third-place-in-the-first-round-of-the-2026-brazilian-presidential-election"
+expiryDate: 2026-12-31
+tags: ["politics", "polymarket"]
+polymarketYes: 33.5
+polymarketNo: 66.5
+polymarketVolume: 9903
+polymarketUrl: "https://polymarket.com/event/lecornu-out-as-french-pm-by-december-31-2026"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.9% | 99.2% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 33.5% | 66.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-carlos-roberto-massa-jnior-fin
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Carlos Roberto Massa Júnior finish in third place in the first round of the 2026 Brazilian presidential election?"?
+### What are the current odds for "Lecornu  out as French PM by December 31, 2026?"?
 
-As of July 26, 2026, Polymarket prices YES at 0.9%.
+As of July 26, 2026, Polymarket prices YES at 33.5%.
 
 ### Where can I trade on this prediction market?
 

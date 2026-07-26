@@ -3,8 +3,8 @@ title: "Will Microsoft Corporation (MSFT) hit (LOW) $360 in July?"
 description: "Will Microsoft Corporation (MSFT) hit (LOW) $360 in July? Odds: 41.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Microsoft Corporation (MSFT) hit (LOW) $360 in July?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-07-25
+status: "settled"
+lastUpdated: 2026-07-26
 expiryDate: 2026-08-01
 tags: ["politics", "polymarket"]
 polymarketYes: 41.0

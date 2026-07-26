@@ -4,12 +4,12 @@ description: "Will the Tampa Bay Lightning be named the 2026-27 NHL Stanley Cup 
 marketQuestion: "Will the Tampa Bay Lightning be named the 2026-27 NHL Stanley Cup Champion?"
 category: "sports"
 status: "active"
-lastUpdated: 2026-07-25
+lastUpdated: 2026-07-26
 expiryDate: 2027-07-01
 tags: ["polymarket", "sports"]
 polymarketYes: 6.5
 polymarketNo: 93.5
-polymarketVolume: 9844
+polymarketVolume: 9979
 polymarketUrl: "https://polymarket.com/event/will-the-tampa-bay-lightning-be-named-the-2026-27-nhl-stanley-cup-champion-20260612185657098"
 ---
 
@@ -21,15 +21,15 @@ polymarketUrl: "https://polymarket.com/event/will-the-tampa-bay-lightning-be-nam
 
 ## Related Markets
 
-- [Will Arizona Cardinals win the 2027 NFL NFC Championship?](/odds/will-arizona-cardinals-win-the-2027-nfl-nfc-championship) — 1% YES
 - [Will the Philadelphia Eagles win the 2027 NFL league championship?](/odds/will-the-philadelphia-eagles-win-the-2027-nfl-league-championship) — 4% YES
-- [Will Mercedes be the 2026 F1 Constructors' Champion?](/odds/will-mercedes-be-the-2026-f1-constructors-champion) — 84% YES
+- [Will Arizona Cardinals win the 2027 NFL NFC Championship?](/odds/will-arizona-cardinals-win-the-2027-nfl-nfc-championship) — 1% YES
+- [Will Baker Mayfield win the 2026 NFL MVP?](/odds/will-baker-mayfield-win-the-2026-nfl-mvp) — 2% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will the Tampa Bay Lightning be named the 2026-27 NHL Stanley Cup Champion?"?
 
-As of July 25, 2026, Polymarket prices YES at 6.5%.
+As of July 26, 2026, Polymarket prices YES at 6.5%.
 
 ### Where can I trade on this prediction market?
 

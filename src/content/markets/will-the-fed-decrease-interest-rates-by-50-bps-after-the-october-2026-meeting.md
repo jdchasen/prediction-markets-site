@@ -4,12 +4,12 @@ description: "Will the Fed decrease interest rates by 50+ bps after the October 
 marketQuestion: "Will the Fed decrease interest rates by 50+ bps after the October 2026 meeting?"
 category: "economics"
 status: "active"
-lastUpdated: 2026-07-25
+lastUpdated: 2026-07-26
 expiryDate: 2026-10-28
 tags: ["economics", "federal-reserve", "interest-rates", "polymarket"]
 polymarketYes: 2.3
 polymarketNo: 97.7
-polymarketVolume: 95283
+polymarketVolume: 95700
 polymarketUrl: "https://polymarket.com/event/will-the-fed-decrease-interest-rates-by-50-bps-after-the-october-2026-meeting-20260617190324029"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-the-fed-decrease-interest-rate
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 2.3% | 97.7% | $95K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 2.3% | 97.7% | $96K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Brazil’s Annual Inflation in 2026 be between 4.00% and 4.49%?](/odds/will-brazils-annual-inflation-in-2026-be-between-400-and-449) — 7% YES
-- [Will 2 Fed rate hikes happen in 2026?](/odds/will-2-fed-rate-hikes-happen-in-2026) — 33% YES
+- [Will 2 Fed rate hikes happen in 2026?](/odds/will-2-fed-rate-hikes-happen-in-2026) — 30% YES
+- [Will Brazil’s Annual Inflation in 2026 be between 4.00% and 4.49%?](/odds/will-brazils-annual-inflation-in-2026-be-between-400-and-449) — 6% YES
 - [Will Eurozone annual GDP growth in 2026 be between 0% and 1.0%?](/odds/will-eurozone-annual-gdp-growth-in-2026-be-between-0-and-10) — 71% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will the Fed decrease interest rates by 50+ bps after the October 2026 meeting?"?
 
-As of July 25, 2026, Polymarket prices YES at 2.3%.
+As of July 26, 2026, Polymarket prices YES at 2.3%.
 
 ### Where can I trade on this prediction market?
 

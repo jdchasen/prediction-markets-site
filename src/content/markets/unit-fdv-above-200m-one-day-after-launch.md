@@ -1,14 +1,14 @@
 ---
 title: "Unit FDV above $200M one day after launch?"
-description: "Unit FDV above $200M one day after launch? Odds: 51.0% YES on Polymarket. See live prices and trade this market."
+description: "Unit FDV above $200M one day after launch? Odds: 49.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Unit FDV above $200M one day after launch?"
 category: "crypto"
 status: "active"
-lastUpdated: 2026-07-25
+lastUpdated: 2026-07-26
 expiryDate: 2028-01-01
 tags: ["crypto", "polymarket"]
-polymarketYes: 51.0
-polymarketNo: 49.0
+polymarketYes: 49.0
+polymarketNo: 51.0
 polymarketVolume: 98268
 polymarketUrl: "https://polymarket.com/event/unit-fdv-above-200m-one-day-after-launch"
 ---
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/unit-fdv-above-200m-one-day-after-l
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 51.0% | 49.0% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 49.0% | 51.0% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will MetaMask launch a token by September 30, 2026?](/odds/will-metamask-launch-a-token-by-september-30-2026) — 4% YES
 - [Extended FDV above $500M one day after launch?](/odds/extended-fdv-above-500m-one-day-after-launch) — 26% YES
-- [Will Bitcoin reach $75,000 by December 31, 2026?](/odds/will-bitcoin-reach-75000-by-december-31-2026) — 52% YES
+- [Will Bitcoin reach $75,000 by December 31, 2026?](/odds/will-bitcoin-reach-75000-by-december-31-2026) — 54% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Unit FDV above $200M one day after launch?"?
 
-As of July 25, 2026, Polymarket prices YES at 51.0%.
+As of July 26, 2026, Polymarket prices YES at 49.0%.
 
 ### Where can I trade on this prediction market?
 
