@@ -1,14 +1,14 @@
 ---
 title: "Will the median home value in the Chicago Metro be at least $345,000 on September 30?"
-description: "Will the median home value in the Chicago Metro be at least $345,000 on September 30? Odds: 21.5% YES on Polymarket. See live prices and trade this market."
+description: "Will the median home value in the Chicago Metro be at least $345,000 on September 30? Odds: 22.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the median home value in the Chicago Metro be at least $345,000 on September 30?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-07-26
 expiryDate: 2026-09-30
 tags: ["politics", "polymarket"]
-polymarketYes: 21.5
-polymarketNo: 78.5
+polymarketYes: 22.0
+polymarketNo: 78.0
 polymarketVolume: 9956
 polymarketUrl: "https://polymarket.com/event/will-the-median-home-value-in-the-chicago-metro-be-at-least-345000-on-september-30-20260630182304850"
 ---
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-median-home-value-in-the-c
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 21.5% | 78.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 22.0% | 78.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-median-home-value-in-the-c
 
 ### What are the current odds for "Will the median home value in the Chicago Metro be at least $345,000 on September 30?"?
 
-As of July 26, 2026, Polymarket prices YES at 21.5%.
+As of July 26, 2026, Polymarket prices YES at 22.0%.
 
 ### Where can I trade on this prediction market?
 

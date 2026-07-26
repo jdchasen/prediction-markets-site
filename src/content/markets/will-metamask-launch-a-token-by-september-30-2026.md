@@ -1,15 +1,15 @@
 ---
 title: "Will MetaMask launch a token by September 30, 2026?"
-description: "Will MetaMask launch a token by September 30, 2026? Odds: 3.8% YES on Polymarket. See live prices and trade this market."
+description: "Will MetaMask launch a token by September 30, 2026? Odds: 3.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will MetaMask launch a token by September 30, 2026?"
 category: "crypto"
 status: "active"
 lastUpdated: 2026-07-26
 expiryDate: 2026-10-01
 tags: ["crypto", "polymarket"]
-polymarketYes: 3.8
-polymarketNo: 96.2
-polymarketVolume: 988253
+polymarketYes: 3.0
+polymarketNo: 97.0
+polymarketVolume: 988280
 polymarketUrl: "https://polymarket.com/event/will-metamask-launch-a-token-by-september-30-2026"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-metamask-launch-a-token-by-sep
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 3.8% | 96.2% | $988K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 3.0% | 97.0% | $988K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-metamask-launch-a-token-by-sep
 
 ### What are the current odds for "Will MetaMask launch a token by September 30, 2026?"?
 
-As of July 26, 2026, Polymarket prices YES at 3.8%.
+As of July 26, 2026, Polymarket prices YES at 3.0%.
 
 ### Where can I trade on this prediction market?
 

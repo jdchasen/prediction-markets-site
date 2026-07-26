@@ -9,7 +9,7 @@ expiryDate: 2028-11-07
 tags: ["politics", "polymarket"]
 polymarketYes: 27.0
 polymarketNo: 73.0
-polymarketVolume: 9973482
+polymarketVolume: 9976437
 polymarketUrl: "https://polymarket.com/event/will-marco-rubio-win-the-2028-republican-presidential-nomination"
 ---
 

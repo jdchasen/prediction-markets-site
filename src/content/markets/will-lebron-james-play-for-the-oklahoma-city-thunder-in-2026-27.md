@@ -3,13 +3,13 @@ title: "Will LeBron James play for the Oklahoma City Thunder in 2026-27?"
 description: "Will LeBron James play for the Oklahoma City Thunder in 2026-27? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will LeBron James play for the Oklahoma City Thunder in 2026-27?"
 category: "politics"
-status: "settled"
+status: "active"
 lastUpdated: 2026-07-26
 expiryDate: 2026-10-31
 tags: ["politics", "polymarket"]
 polymarketYes: 0.1
 polymarketNo: 100.0
-polymarketVolume: 978356
+polymarketVolume: 979356
 polymarketUrl: "https://polymarket.com/event/will-lebron-james-play-for-the-oklahoma-city-thunder-in-2026-27"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-lebron-james-play-for-the-okla
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.1% | 100.0% | $978K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.1% | 100.0% | $979K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-lebron-james-play-for-the-okla
 
 ### What are the current odds for "Will LeBron James play for the Oklahoma City Thunder in 2026-27?"?
 
-As of July 25, 2026, Polymarket prices YES at 0.1%.
+As of July 26, 2026, Polymarket prices YES at 0.1%.
 
 ### Where can I trade on this prediction market?
 

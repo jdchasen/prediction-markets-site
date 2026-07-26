@@ -9,7 +9,7 @@ expiryDate: 2026-10-04
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.9
 polymarketNo: 99.2
-polymarketVolume: 99881
+polymarketVolume: 99886
 polymarketUrl: "https://polymarket.com/event/will-carlos-roberto-massa-jnior-finish-in-third-place-in-the-first-round-of-the-2026-brazilian-presidential-election"
 ---
 

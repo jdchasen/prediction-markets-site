@@ -3,7 +3,7 @@ title: "Lecornu  out as French PM by December 31, 2026?"
 description: "Lecornu  out as French PM by December 31, 2026? Odds: 33.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Lecornu  out as French PM by December 31, 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-07-26
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]

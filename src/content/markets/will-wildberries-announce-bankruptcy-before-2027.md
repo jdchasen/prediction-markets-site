@@ -3,7 +3,7 @@ title: "Will Wildberries announce bankruptcy before 2027?"
 description: "Will Wildberries announce bankruptcy before 2027? Odds: 12.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Wildberries announce bankruptcy before 2027?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-07-26
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]

@@ -9,7 +9,7 @@ expiryDate: 2026-10-31
 tags: ["politics", "polymarket"]
 polymarketYes: 0.4
 polymarketNo: 99.7
-polymarketVolume: 998968
+polymarketVolume: 999146
 polymarketUrl: "https://polymarket.com/event/will-the-new-york-mets-win-the-2026-world-series"
 ---
 

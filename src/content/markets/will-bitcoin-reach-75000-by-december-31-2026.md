@@ -9,7 +9,7 @@ expiryDate: 2027-01-01
 tags: ["bitcoin", "crypto", "polymarket"]
 polymarketYes: 53.5
 polymarketNo: 46.5
-polymarketVolume: 99842
+polymarketVolume: 99955
 polymarketUrl: "https://polymarket.com/event/will-bitcoin-reach-75000-by-december-31-2026-from-june-8"
 ---
 
@@ -21,7 +21,7 @@ polymarketUrl: "https://polymarket.com/event/will-bitcoin-reach-75000-by-decembe
 
 ## Related Markets
 
-- [Will MetaMask launch a token by September 30, 2026?](/odds/will-metamask-launch-a-token-by-september-30-2026) — 4% YES
+- [Will MetaMask launch a token by September 30, 2026?](/odds/will-metamask-launch-a-token-by-september-30-2026) — 3% YES
 - [Extended FDV above $500M one day after launch?](/odds/extended-fdv-above-500m-one-day-after-launch) — 26% YES
 - [Will Loopscale launch a token by December 31, 2026?](/odds/will-loopscale-launch-a-token-by-december-31-2026) — 28% YES
 

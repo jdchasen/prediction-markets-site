@@ -1,15 +1,15 @@
 ---
 title: "Will Anthropic have the best AI model at the end of July 2026?"
-description: "Will Anthropic have the best AI model at the end of July 2026? Odds: 99.4% YES on Polymarket. See live prices and trade this market."
+description: "Will Anthropic have the best AI model at the end of July 2026? Odds: 99.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Anthropic have the best AI model at the end of July 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-07-26
 expiryDate: 2026-07-31
 tags: ["ai", "politics", "polymarket"]
-polymarketYes: 99.4
-polymarketNo: 0.7
-polymarketVolume: 981733
+polymarketYes: 99.0
+polymarketNo: 1.1
+polymarketVolume: 995278
 polymarketUrl: "https://polymarket.com/event/will-anthropic-have-the-best-ai-model-at-the-end-of-july-2026"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-anthropic-have-the-best-ai-mod
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 99.4% | 0.7% | $982K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 99.0% | 1.1% | $995K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-anthropic-have-the-best-ai-mod
 
 ### What are the current odds for "Will Anthropic have the best AI model at the end of July 2026?"?
 
-As of July 26, 2026, Polymarket prices YES at 99.4%.
+As of July 26, 2026, Polymarket prices YES at 99.0%.
 
 ### Where can I trade on this prediction market?
 

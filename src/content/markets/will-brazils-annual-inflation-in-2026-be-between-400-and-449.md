@@ -9,7 +9,7 @@ expiryDate: 2027-01-12
 tags: ["economics", "polymarket", "sports"]
 polymarketYes: 6.2
 polymarketNo: 93.8
-polymarketVolume: 9802
+polymarketVolume: 9822
 polymarketUrl: "https://polymarket.com/event/will-brazils-annual-inflation-in-2026-be-between-4pt00-and-4pt49"
 ---
 
@@ -21,9 +21,9 @@ polymarketUrl: "https://polymarket.com/event/will-brazils-annual-inflation-in-20
 
 ## Related Markets
 
+- [No change in Bank of Japan’s interest rates after the July 2026 meeting?](/odds/no-change-in-bank-of-japans-interest-rates-after-the-july-2026-meeting) — 98% YES
 - [Will the Fed decrease interest rates by 50+ bps after the October 2026 meeting?](/odds/will-the-fed-decrease-interest-rates-by-50-bps-after-the-october-2026-meeting) — 2% YES
 - [Will 2 Fed rate hikes happen in 2026?](/odds/will-2-fed-rate-hikes-happen-in-2026) — 30% YES
-- [Will Eurozone annual GDP growth in 2026 be between 0% and 1.0%?](/odds/will-eurozone-annual-gdp-growth-in-2026-be-between-0-and-10) — 71% YES
 
 ## Frequently Asked Questions
 

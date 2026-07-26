@@ -3,7 +3,7 @@ title: "Will the Tampa Bay Lightning be named the 2026-27 NHL Stanley Cup Champi
 description: "Will the Tampa Bay Lightning be named the 2026-27 NHL Stanley Cup Champion? Odds: 6.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Tampa Bay Lightning be named the 2026-27 NHL Stanley Cup Champion?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-07-26
 expiryDate: 2027-07-01
 tags: ["polymarket", "sports"]

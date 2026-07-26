@@ -3,7 +3,7 @@ title: "Will Alavés win the 2026-27 LALIGA Championship?"
 description: "Will Alavés win the 2026-27 LALIGA Championship? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Alavés win the 2026-27 LALIGA Championship?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-07-26
 expiryDate: 2027-05-30
 tags: ["politics", "polymarket"]

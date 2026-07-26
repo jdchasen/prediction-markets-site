@@ -9,7 +9,7 @@ expiryDate: 2026-10-28
 tags: ["economics", "federal-reserve", "interest-rates", "polymarket"]
 polymarketYes: 2.3
 polymarketNo: 97.7
-polymarketVolume: 95700
+polymarketVolume: 95856
 polymarketUrl: "https://polymarket.com/event/will-the-fed-decrease-interest-rates-by-50-bps-after-the-october-2026-meeting-20260617190324029"
 ---
 
@@ -21,9 +21,9 @@ polymarketUrl: "https://polymarket.com/event/will-the-fed-decrease-interest-rate
 
 ## Related Markets
 
+- [No change in Bank of Japan’s interest rates after the July 2026 meeting?](/odds/no-change-in-bank-of-japans-interest-rates-after-the-july-2026-meeting) — 98% YES
 - [Will 2 Fed rate hikes happen in 2026?](/odds/will-2-fed-rate-hikes-happen-in-2026) — 30% YES
-- [Will Brazil’s Annual Inflation in 2026 be between 4.00% and 4.49%?](/odds/will-brazils-annual-inflation-in-2026-be-between-400-and-449) — 6% YES
-- [Will Eurozone annual GDP growth in 2026 be between 0% and 1.0%?](/odds/will-eurozone-annual-gdp-growth-in-2026-be-between-0-and-10) — 71% YES
+- [Will annual inflation be 3.2% in July?](/odds/will-annual-inflation-be-32-in-july) — 5% YES
 
 ## Frequently Asked Questions
 

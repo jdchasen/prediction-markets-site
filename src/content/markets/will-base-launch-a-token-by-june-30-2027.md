@@ -1,15 +1,15 @@
 ---
 title: "Will Base launch a token by June 30, 2027?"
-description: "Will Base launch a token by June 30, 2027? Odds: 51.0% YES on Polymarket. See live prices and trade this market."
+description: "Will Base launch a token by June 30, 2027? Odds: 48.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Base launch a token by June 30, 2027?"
 category: "crypto"
 status: "active"
 lastUpdated: 2026-07-26
 expiryDate: 2027-07-01
 tags: ["crypto", "polymarket"]
-polymarketYes: 51.0
-polymarketNo: 49.0
-polymarketVolume: 9792
+polymarketYes: 48.5
+polymarketNo: 51.5
+polymarketVolume: 9840
 polymarketUrl: "https://polymarket.com/event/will-base-launch-a-token-by-june-30-2027"
 ---
 
@@ -17,11 +17,11 @@ polymarketUrl: "https://polymarket.com/event/will-base-launch-a-token-by-june-30
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 51.0% | 49.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 48.5% | 51.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will MetaMask launch a token by September 30, 2026?](/odds/will-metamask-launch-a-token-by-september-30-2026) — 4% YES
+- [Will MetaMask launch a token by September 30, 2026?](/odds/will-metamask-launch-a-token-by-september-30-2026) — 3% YES
 - [Extended FDV above $500M one day after launch?](/odds/extended-fdv-above-500m-one-day-after-launch) — 26% YES
 - [Will Bitcoin reach $75,000 by December 31, 2026?](/odds/will-bitcoin-reach-75000-by-december-31-2026) — 54% YES
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-base-launch-a-token-by-june-30
 
 ### What are the current odds for "Will Base launch a token by June 30, 2027?"?
 
-As of July 26, 2026, Polymarket prices YES at 51.0%.
+As of July 26, 2026, Polymarket prices YES at 48.5%.
 
 ### Where can I trade on this prediction market?
 
