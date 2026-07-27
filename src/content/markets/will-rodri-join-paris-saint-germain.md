@@ -1,23 +1,23 @@
 ---
-title: "Will Lovable be acquired before 2027?"
-description: "Will Lovable be acquired before 2027? Odds: 17.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Lovable be acquired before 2027?"
+title: "Will Rodri join Paris Saint-Germain?"
+description: "Will Rodri join Paris Saint-Germain? Odds: 2.8% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Rodri join Paris Saint-Germain?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-07-27
-expiryDate: 2026-12-31
-tags: ["politics", "polymarket"]
-polymarketYes: 17.5
-polymarketNo: 82.5
-polymarketVolume: 977357
-polymarketUrl: "https://polymarket.com/event/will-lovable-be-acquired-before-2027-423-881"
+expiryDate: 2026-09-02
+tags: ["ai", "politics", "polymarket"]
+polymarketYes: 2.8
+polymarketNo: 97.2
+polymarketVolume: 9879
+polymarketUrl: "https://polymarket.com/event/will-rodri-join-paris-saint-germain-20260612230522482"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 17.5% | 82.5% | $977K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 2.8% | 97.2% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-lovable-be-acquired-before-202
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Lovable be acquired before 2027?"?
+### What are the current odds for "Will Rodri join Paris Saint-Germain?"?
 
-As of July 27, 2026, Polymarket prices YES at 17.5%.
+As of July 27, 2026, Polymarket prices YES at 2.8%.
 
 ### Where can I trade on this prediction market?
 

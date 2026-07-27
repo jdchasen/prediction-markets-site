@@ -23,7 +23,7 @@ polymarketUrl: "https://polymarket.com/event/extended-fdv-above-500m-one-day-aft
 
 - [Will MetaMask launch a token by September 30, 2026?](/odds/will-metamask-launch-a-token-by-september-30-2026) — 3% YES
 - [Will Loopscale launch a token by December 31, 2026?](/odds/will-loopscale-launch-a-token-by-december-31-2026) — 28% YES
-- [Will El Salvador hold $1b+ of BTC by December 31, 2026?](/odds/will-el-salvador-hold-1b-of-btc-by-december-31-2026) — 36% YES
+- [Will Bitcoin reach $95,000 by December 31, 2026?](/odds/will-bitcoin-reach-95000-by-december-31-2026) — 12% YES
 
 ## Frequently Asked Questions
 

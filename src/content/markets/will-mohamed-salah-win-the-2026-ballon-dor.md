@@ -1,23 +1,23 @@
 ---
-title: "Will Anthropic be the second-best Code Arena | WebDev AI lab at the end of August 2026?"
-description: "Will Anthropic be the second-best Code Arena | WebDev AI lab at the end of August 2026? Odds: 65.0% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Anthropic be the second-best Code Arena | WebDev AI lab at the end of August 2026?"
+title: "Will Mohamed Salah win the 2026 Ballon d'Or?"
+description: "Will Mohamed Salah win the 2026 Ballon d'Or? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Mohamed Salah win the 2026 Ballon d'Or?"
 category: "politics"
-status: "settled"
+status: "active"
 lastUpdated: 2026-07-27
-expiryDate: 2026-08-31
-tags: ["ai", "politics", "polymarket"]
-polymarketYes: 65.0
-polymarketNo: 35.0
-polymarketVolume: 9984
-polymarketUrl: "https://polymarket.com/event/will-anthropic-be-the-second-best-code-arena-webdev-ai-lab-at-the-end-of-august-2026-20260720215927835"
+expiryDate: 2026-10-31
+tags: ["politics", "polymarket"]
+polymarketYes: 0.1
+polymarketNo: 99.9
+polymarketVolume: 986999
+polymarketUrl: "https://polymarket.com/event/will-mohamed-salah-win-the-2026-ballon-dor"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 65.0% | 35.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.1% | 99.9% | $987K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-anthropic-be-the-second-best-c
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Anthropic be the second-best Code Arena | WebDev AI lab at the end of August 2026?"?
+### What are the current odds for "Will Mohamed Salah win the 2026 Ballon d'Or?"?
 
-As of July 27, 2026, Polymarket prices YES at 65.0%.
+As of July 27, 2026, Polymarket prices YES at 0.1%.
 
 ### Where can I trade on this prediction market?
 

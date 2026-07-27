@@ -23,7 +23,7 @@ polymarketUrl: "https://polymarket.com/event/will-loopscale-launch-a-token-by-de
 
 - [Will MetaMask launch a token by September 30, 2026?](/odds/will-metamask-launch-a-token-by-september-30-2026) — 3% YES
 - [Extended FDV above $500M one day after launch?](/odds/extended-fdv-above-500m-one-day-after-launch) — 26% YES
-- [Will El Salvador hold $1b+ of BTC by December 31, 2026?](/odds/will-el-salvador-hold-1b-of-btc-by-december-31-2026) — 36% YES
+- [Will Bitcoin reach $95,000 by December 31, 2026?](/odds/will-bitcoin-reach-95000-by-december-31-2026) — 12% YES
 
 ## Frequently Asked Questions
 

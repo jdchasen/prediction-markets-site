@@ -3,7 +3,7 @@ title: "No change in Bank of Japan’s interest rates after the July 2026 meetin
 description: "No change in Bank of Japan’s interest rates after the July 2026 meeting? Odds: 98.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "No change in Bank of Japan’s interest rates after the July 2026 meeting?"
 category: "economics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-07-27
 expiryDate: 2026-07-31
 tags: ["economics", "interest-rates", "polymarket"]

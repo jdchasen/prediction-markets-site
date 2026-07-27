@@ -3,7 +3,7 @@ title: "Mykhailo Fedorov reinstated as Ukrainian Defense Minister by July 31, 20
 description: "Mykhailo Fedorov reinstated as Ukrainian Defense Minister by July 31, 2026? Odds: 2.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Mykhailo Fedorov reinstated as Ukrainian Defense Minister by July 31, 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-07-27
 expiryDate: 2026-07-31
 tags: ["ai", "federal-reserve", "politics", "polymarket"]

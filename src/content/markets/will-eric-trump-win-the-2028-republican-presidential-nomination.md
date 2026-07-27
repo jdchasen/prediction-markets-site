@@ -9,7 +9,7 @@ expiryDate: 2028-11-07
 tags: ["politics", "polymarket", "trump"]
 polymarketYes: 0.4
 polymarketNo: 99.6
-polymarketVolume: 9896541
+polymarketVolume: 9896591
 polymarketUrl: "https://polymarket.com/event/will-eric-trump-win-the-2028-republican-presidential-nomination"
 ---
 
@@ -22,8 +22,8 @@ polymarketUrl: "https://polymarket.com/event/will-eric-trump-win-the-2028-republ
 ## Related Markets
 
 - [Will Marco Rubio win the 2028 Republican presidential nomination?](/odds/will-marco-rubio-win-the-2028-republican-presidential-nomination) — 27% YES
+- [Will Mohamed Salah win the 2026 Ballon d'Or?](/odds/will-mohamed-salah-win-the-2026-ballon-dor) — 0% YES
 - [Will Trump be impeached by end of 2026?](/odds/will-trump-be-impeached-by-end-of-2026) — 3% YES
-- [Will Sabrina Carpenter be the top artist for 2026?](/odds/will-sabrina-carpenter-be-the-top-artist-for-2026) — 0% YES
 
 ## Frequently Asked Questions
 

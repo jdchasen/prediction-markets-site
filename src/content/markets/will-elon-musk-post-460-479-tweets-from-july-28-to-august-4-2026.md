@@ -3,7 +3,7 @@ title: "Will Elon Musk post 460-479 tweets from July 28 to August 4, 2026?"
 description: "Will Elon Musk post 460-479 tweets from July 28 to August 4, 2026? Odds: 0.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Elon Musk post 460-479 tweets from July 28 to August 4, 2026?"
 category: "tech"
-status: "active"
+status: "settled"
 lastUpdated: 2026-07-27
 expiryDate: 2026-08-04
 tags: ["polymarket", "tech"]

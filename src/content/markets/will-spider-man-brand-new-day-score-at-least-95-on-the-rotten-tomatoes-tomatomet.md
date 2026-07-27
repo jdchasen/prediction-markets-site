@@ -3,7 +3,7 @@ title: "Will \"Spider-Man: Brand New Day\" score at least 95 on the Rotten Tomat
 description: "Will \"Spider-Man: Brand New Day\" score at least 95 on the Rotten Tomatoes Tomatometer? Odds: 9.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will \"Spider-Man: Brand New Day\" score at least 95 on the Rotten Tomatoes Tomatometer?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-07-27
 expiryDate: 2026-08-03
 tags: ["politics", "polymarket"]

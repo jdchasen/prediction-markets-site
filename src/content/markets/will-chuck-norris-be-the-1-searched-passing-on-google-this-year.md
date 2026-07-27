@@ -9,7 +9,7 @@ expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 19.5
 polymarketNo: 80.5
-polymarketVolume: 9826
+polymarketVolume: 9832
 polymarketUrl: "https://polymarket.com/event/will-chuck-norris-be-the-1-searched-passing-on-google-this-year-20260717220846803"
 ---
 
@@ -23,7 +23,7 @@ polymarketUrl: "https://polymarket.com/event/will-chuck-norris-be-the-1-searched
 
 - [Will Marco Rubio win the 2028 Republican presidential nomination?](/odds/will-marco-rubio-win-the-2028-republican-presidential-nomination) — 27% YES
 - [Will Eric Trump win the 2028 Republican presidential nomination?](/odds/will-eric-trump-win-the-2028-republican-presidential-nomination) — 0% YES
-- [Will Trump be impeached by end of 2026?](/odds/will-trump-be-impeached-by-end-of-2026) — 3% YES
+- [Will Mohamed Salah win the 2026 Ballon d'Or?](/odds/will-mohamed-salah-win-the-2026-ballon-dor) — 0% YES
 
 ## Frequently Asked Questions
 

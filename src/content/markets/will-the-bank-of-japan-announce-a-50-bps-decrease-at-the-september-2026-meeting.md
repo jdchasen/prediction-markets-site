@@ -1,23 +1,23 @@
 ---
-title: "Will Eurozone annual GDP growth in 2026 be between 0% and 1.0%?"
-description: "Will Eurozone annual GDP growth in 2026 be between 0% and 1.0%? Odds: 70.8% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Eurozone annual GDP growth in 2026 be between 0% and 1.0%?"
+title: "Will the Bank of Japan announce a 50+ bps decrease at the September 2026 meeting?"
+description: "Will the Bank of Japan announce a 50+ bps decrease at the September 2026 meeting? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will the Bank of Japan announce a 50+ bps decrease at the September 2026 meeting?"
 category: "economics"
 status: "active"
 lastUpdated: 2026-07-27
-expiryDate: 2027-01-31
+expiryDate: 2026-09-18
 tags: ["economics", "polymarket"]
-polymarketYes: 70.8
-polymarketNo: 29.2
-polymarketVolume: 9752
-polymarketUrl: "https://polymarket.com/event/will-eurozone-annual-gdp-growth-in-2026-be-between-0-and-1pt0"
+polymarketYes: 0.1
+polymarketNo: 99.9
+polymarketVolume: 9447
+polymarketUrl: "https://polymarket.com/event/will-the-bank-of-japan-announce-a-50-bps-decrease-at-the-september-2026-meeting-20260616223724867"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 70.8% | 29.2% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.1% | 99.9% | $9K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-eurozone-annual-gdp-growth-in-
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Eurozone annual GDP growth in 2026 be between 0% and 1.0%?"?
+### What are the current odds for "Will the Bank of Japan announce a 50+ bps decrease at the September 2026 meeting?"?
 
-As of July 27, 2026, Polymarket prices YES at 70.8%.
+As of July 27, 2026, Polymarket prices YES at 0.1%.
 
 ### Where can I trade on this prediction market?
 

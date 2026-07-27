@@ -3,7 +3,7 @@ title: "Will Indiana Hoosiers win the 2027 CFP National Championship?"
 description: "Will Indiana Hoosiers win the 2027 CFP National Championship? Odds: 10.3% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Indiana Hoosiers win the 2027 CFP National Championship?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-07-27
 expiryDate: 2027-01-26
 tags: ["politics", "polymarket"]

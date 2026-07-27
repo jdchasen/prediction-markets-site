@@ -1,14 +1,14 @@
 ---
 title: "Will Luiz Inácio Lula da Silva finish in third place in the first round of the 2026 Brazilian presidential election?"
-description: "Will Luiz Inácio Lula da Silva finish in third place in the first round of the 2026 Brazilian presidential election? Odds: 1.4% YES on Polymarket. See live p..."
+description: "Will Luiz Inácio Lula da Silva finish in third place in the first round of the 2026 Brazilian presidential election? Odds: 1.1% YES on Polymarket. See live p..."
 marketQuestion: "Will Luiz Inácio Lula da Silva finish in third place in the first round of the 2026 Brazilian presidential election?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-07-27
 expiryDate: 2026-10-04
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 1.4
-polymarketNo: 98.7
+polymarketYes: 1.1
+polymarketNo: 98.9
 polymarketVolume: 9787
 polymarketUrl: "https://polymarket.com/event/will-luiz-incio-lula-da-silva-finish-in-third-place-in-the-first-round-of-the-2026-brazilian-presidential-election"
 ---
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-luiz-incio-lula-da-silva-finis
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 1.4% | 98.7% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 1.1% | 98.9% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Marco Rubio win the 2028 Republican presidential nomination?](/odds/will-marco-rubio-win-the-2028-republican-presidential-nomination) — 27% YES
 - [Will Eric Trump win the 2028 Republican presidential nomination?](/odds/will-eric-trump-win-the-2028-republican-presidential-nomination) — 0% YES
-- [Will Trump be impeached by end of 2026?](/odds/will-trump-be-impeached-by-end-of-2026) — 3% YES
+- [Will Mohamed Salah win the 2026 Ballon d'Or?](/odds/will-mohamed-salah-win-the-2026-ballon-dor) — 0% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Luiz Inácio Lula da Silva finish in third place in the first round of the 2026 Brazilian presidential election?"?
 
-As of July 27, 2026, Polymarket prices YES at 1.4%.
+As of July 27, 2026, Polymarket prices YES at 1.1%.
 
 ### Where can I trade on this prediction market?
 

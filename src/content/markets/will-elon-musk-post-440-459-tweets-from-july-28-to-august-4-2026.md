@@ -23,7 +23,6 @@ polymarketUrl: "https://polymarket.com/event/elon-musk-of-tweets-july-28-august-
 
 - [Will less than 5 SpaceX Starship launches successfully reach Space in 2026?](/odds/will-less-than-5-spacex-starship-launches-successfully-reach-space-in-2026) — 18% YES
 - [Will Elon Musk tweet "Hyperliquid" by December 31, 2026?](/odds/will-elon-musk-tweet-hyperliquid-by-december-31-2026) — 14% YES
-- [Will Elon Musk post 460-479 tweets from July 28 to August 4, 2026?](/odds/will-elon-musk-post-460-479-tweets-from-july-28-to-august-4-2026) — 0% YES
 
 ## Frequently Asked Questions
 
