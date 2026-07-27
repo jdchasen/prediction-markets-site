@@ -1,23 +1,23 @@
 ---
-title: "Will Min Woo Lee win the 2026 TOUR Championship?"
-description: "Will Min Woo Lee win the 2026 TOUR Championship? Odds: 0.9% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Min Woo Lee win the 2026 TOUR Championship?"
+title: "Putin out as President of Russia by August 31, 2026?"
+description: "Putin out as President of Russia by August 31, 2026? Odds: 1.7% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Putin out as President of Russia by August 31, 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-07-27
 expiryDate: 2026-08-31
 tags: ["politics", "polymarket"]
-polymarketYes: 0.9
-polymarketNo: 99.2
-polymarketVolume: 98352
-polymarketUrl: "https://polymarket.com/event/will-min-woo-lee-win-the-2026-tour-championship-517"
+polymarketYes: 1.7
+polymarketNo: 98.4
+polymarketVolume: 97955
+polymarketUrl: "https://polymarket.com/event/putin-out-as-president-of-russia-by-august-31-2026"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.9% | 99.2% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 1.7% | 98.4% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-min-woo-lee-win-the-2026-tour-
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Min Woo Lee win the 2026 TOUR Championship?"?
+### What are the current odds for "Putin out as President of Russia by August 31, 2026?"?
 
-As of July 27, 2026, Polymarket prices YES at 0.9%.
+As of July 27, 2026, Polymarket prices YES at 1.7%.
 
 ### Where can I trade on this prediction market?
 

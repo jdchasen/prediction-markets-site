@@ -1,7 +1,7 @@
 ---
-title: "Will the Republican Party win the AL-06 House seat?"
-description: "Will the Republican Party win the AL-06 House seat? Odds: 93.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will the Republican Party win the AL-06 House seat?"
+title: "Will the Republican Party win the SC-07 House seat?"
+description: "Will the Republican Party win the SC-07 House seat? Odds: 93.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will the Republican Party win the SC-07 House seat?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-07-27
@@ -9,8 +9,8 @@ expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
 polymarketYes: 93.5
 polymarketNo: 6.5
-polymarketVolume: 9802
-polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-al-06-house-seat"
+polymarketVolume: 9829
+polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-sc-07-house-seat"
 ---
 
 ## Current Odds
@@ -27,7 +27,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-a
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will the Republican Party win the AL-06 House seat?"?
+### What are the current odds for "Will the Republican Party win the SC-07 House seat?"?
 
 As of July 27, 2026, Polymarket prices YES at 93.5%.
 

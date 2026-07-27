@@ -1,23 +1,23 @@
 ---
-title: "Romanian parliament dissolved by July 31?"
-description: "Romanian parliament dissolved by July 31? Odds: 0.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Romanian parliament dissolved by July 31?"
+title: "Obama federally charged before 2027?"
+description: "Obama federally charged before 2027? Odds: 4.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Obama federally charged before 2027?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-07-27
-expiryDate: 2026-07-31
-tags: ["politics", "polymarket"]
-polymarketYes: 0.5
-polymarketNo: 99.5
-polymarketVolume: 98552
-polymarketUrl: "https://polymarket.com/event/romanian-parliament-dissolved-by-july-31"
+expiryDate: 2026-12-31
+tags: ["federal-reserve", "politics", "polymarket"]
+polymarketYes: 4.5
+polymarketNo: 95.5
+polymarketVolume: 9823
+polymarketUrl: "https://polymarket.com/event/obama-federally-charged-before-2027"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.5% | 99.5% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 4.5% | 95.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/romanian-parliament-dissolved-by-ju
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Romanian parliament dissolved by July 31?"?
+### What are the current odds for "Obama federally charged before 2027?"?
 
-As of July 27, 2026, Polymarket prices YES at 0.5%.
+As of July 27, 2026, Polymarket prices YES at 4.5%.
 
 ### Where can I trade on this prediction market?
 

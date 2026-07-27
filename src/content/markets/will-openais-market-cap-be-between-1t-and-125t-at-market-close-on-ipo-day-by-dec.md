@@ -1,15 +1,15 @@
 ---
 title: "Will OpenAI’s market cap be between $1T and $1.25T at market close on IPO day by December 31, 2027?"
-description: "Will OpenAI’s market cap be between $1T and $1.25T at market close on IPO day by December 31, 2027? Odds: 16.2% YES on Polymarket. See live prices and trade ..."
+description: "Will OpenAI’s market cap be between $1T and $1.25T at market close on IPO day by December 31, 2027? Odds: 16.4% YES on Polymarket. See live prices and trade ..."
 marketQuestion: "Will OpenAI’s market cap be between $1T and $1.25T at market close on IPO day by December 31, 2027?"
 category: "finance"
-status: "settled"
-lastUpdated: 2026-07-20
+status: "active"
+lastUpdated: 2026-07-27
 expiryDate: 2027-12-31
 tags: ["ai", "finance", "polymarket"]
-polymarketYes: 16.2
-polymarketNo: 83.8
-polymarketVolume: 9699
+polymarketYes: 16.4
+polymarketNo: 83.7
+polymarketVolume: 9817
 polymarketUrl: "https://polymarket.com/event/will-openais-market-cap-be-between-1t-and-1pt25t-at-market-close-on-ipo-day-by-december-31-2027-986"
 ---
 
@@ -17,13 +17,17 @@ polymarketUrl: "https://polymarket.com/event/will-openais-market-cap-be-between-
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 16.2% | 83.8% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 16.4% | 83.7% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+
+## Related Markets
+
+- [Will Gold (XAUUSD) hit (HIGH) $4,400 in July?](/odds/will-gold-xauusd-hit-high-4400-in-july) — 1% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will OpenAI’s market cap be between $1T and $1.25T at market close on IPO day by December 31, 2027?"?
 
-As of July 19, 2026, Polymarket prices YES at 16.2%.
+As of July 27, 2026, Polymarket prices YES at 16.4%.
 
 ### Where can I trade on this prediction market?
 

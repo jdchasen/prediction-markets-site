@@ -3,8 +3,8 @@ title: "Will 2 Fed rate hikes happen in 2026?"
 description: "Will 2 Fed rate hikes happen in 2026? Odds: 30.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will 2 Fed rate hikes happen in 2026?"
 category: "economics"
-status: "active"
-lastUpdated: 2026-07-26
+status: "settled"
+lastUpdated: 2026-07-27
 expiryDate: 2026-12-31
 tags: ["economics", "federal-reserve", "polymarket"]
 polymarketYes: 30.5

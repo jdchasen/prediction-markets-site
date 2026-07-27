@@ -3,8 +3,8 @@ title: "Will Vinícius Júnior win the 2026 Ballon d'Or?"
 description: "Will Vinícius Júnior win the 2026 Ballon d'Or? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Vinícius Júnior win the 2026 Ballon d'Or?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-07-26
+status: "settled"
+lastUpdated: 2026-07-27
 expiryDate: 2026-10-31
 tags: ["politics", "polymarket"]
 polymarketYes: 0.1

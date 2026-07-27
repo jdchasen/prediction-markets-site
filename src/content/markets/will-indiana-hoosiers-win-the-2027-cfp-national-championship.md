@@ -1,23 +1,23 @@
 ---
-title: "Will the Republican Party win the AL-06 House seat?"
-description: "Will the Republican Party win the AL-06 House seat? Odds: 93.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will the Republican Party win the AL-06 House seat?"
+title: "Will Indiana Hoosiers win the 2027 CFP National Championship?"
+description: "Will Indiana Hoosiers win the 2027 CFP National Championship? Odds: 10.3% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Indiana Hoosiers win the 2027 CFP National Championship?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-07-27
-expiryDate: 2026-11-03
+expiryDate: 2027-01-26
 tags: ["politics", "polymarket"]
-polymarketYes: 93.5
-polymarketNo: 6.5
-polymarketVolume: 9802
-polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-al-06-house-seat"
+polymarketYes: 10.3
+polymarketNo: 89.6
+polymarketVolume: 9939
+polymarketUrl: "https://polymarket.com/event/will-indiana-hoosiers-win-the-2027-cfp-national-championship"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 93.5% | 6.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 10.3% | 89.6% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-a
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will the Republican Party win the AL-06 House seat?"?
+### What are the current odds for "Will Indiana Hoosiers win the 2027 CFP National Championship?"?
 
-As of July 27, 2026, Polymarket prices YES at 93.5%.
+As of July 27, 2026, Polymarket prices YES at 10.3%.
 
 ### Where can I trade on this prediction market?
 

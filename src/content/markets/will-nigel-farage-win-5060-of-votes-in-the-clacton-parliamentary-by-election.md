@@ -1,15 +1,15 @@
 ---
 title: "Will Nigel Farage win 50–60% of votes in the Clacton parliamentary by-election?"
-description: "Will Nigel Farage win 50–60% of votes in the Clacton parliamentary by-election? Odds: 16.0% YES on Polymarket. See live prices and trade this market."
+description: "Will Nigel Farage win 50–60% of votes in the Clacton parliamentary by-election? Odds: 15.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Nigel Farage win 50–60% of votes in the Clacton parliamentary by-election?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-07-26
+lastUpdated: 2026-07-27
 expiryDate: 2027-06-30
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 16.0
-polymarketNo: 84.0
-polymarketVolume: 9833
+polymarketYes: 15.0
+polymarketNo: 85.0
+polymarketVolume: 9843
 polymarketUrl: "https://polymarket.com/event/will-nigel-farage-win-5060-of-votes-in-the-clacton-parliamentary-by-election-20260708151424123"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-nigel-farage-win-5060-of-votes
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 16.0% | 84.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 15.0% | 85.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Marco Rubio win the 2028 Republican presidential nomination?](/odds/will-marco-rubio-win-the-2028-republican-presidential-nomination) — 27% YES
 - [Will Eric Trump win the 2028 Republican presidential nomination?](/odds/will-eric-trump-win-the-2028-republican-presidential-nomination) — 0% YES
-- [Will the New York Mets win the 2026 World Series?](/odds/will-the-new-york-mets-win-the-2026-world-series) — 0% YES
+- [Will Trump be impeached by end of 2026?](/odds/will-trump-be-impeached-by-end-of-2026) — 3% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Nigel Farage win 50–60% of votes in the Clacton parliamentary by-election?"?
 
-As of July 26, 2026, Polymarket prices YES at 16.0%.
+As of July 27, 2026, Polymarket prices YES at 15.0%.
 
 ### Where can I trade on this prediction market?
 

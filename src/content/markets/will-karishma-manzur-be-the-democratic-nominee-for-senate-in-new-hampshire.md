@@ -3,8 +3,8 @@ title: "Will Karishma Manzur be the Democratic nominee for Senate in New Hampshi
 description: "Will Karishma Manzur be the Democratic nominee for Senate in New Hampshire? Odds: 3.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Karishma Manzur be the Democratic nominee for Senate in New Hampshire?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-07-26
+status: "settled"
+lastUpdated: 2026-07-27
 expiryDate: 2026-09-08
 tags: ["politics", "polymarket"]
 polymarketYes: 3.8

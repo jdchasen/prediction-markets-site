@@ -1,23 +1,23 @@
 ---
-title: "Will the Republican Party win the AL-06 House seat?"
-description: "Will the Republican Party win the AL-06 House seat? Odds: 93.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will the Republican Party win the AL-06 House seat?"
+title: "Will the Republican Party win the CA-21 House seat?"
+description: "Will the Republican Party win the CA-21 House seat? Odds: 8.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will the Republican Party win the CA-21 House seat?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-07-27
 expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
-polymarketYes: 93.5
-polymarketNo: 6.5
-polymarketVolume: 9802
-polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-al-06-house-seat"
+polymarketYes: 8.5
+polymarketNo: 91.5
+polymarketVolume: 9785
+polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-ca-21-house-seat"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 93.5% | 6.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 8.5% | 91.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-a
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will the Republican Party win the AL-06 House seat?"?
+### What are the current odds for "Will the Republican Party win the CA-21 House seat?"?
 
-As of July 27, 2026, Polymarket prices YES at 93.5%.
+As of July 27, 2026, Polymarket prices YES at 8.5%.
 
 ### Where can I trade on this prediction market?
 

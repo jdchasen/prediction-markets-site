@@ -1,23 +1,23 @@
 ---
-title: "Will Min Woo Lee win the 2026 TOUR Championship?"
-description: "Will Min Woo Lee win the 2026 TOUR Championship? Odds: 0.9% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Min Woo Lee win the 2026 TOUR Championship?"
+title: "Will Anthropic have the best Math AI model at the end of July 2026?"
+description: "Will Anthropic have the best Math AI model at the end of July 2026? Odds: 97.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Anthropic have the best Math AI model at the end of July 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-07-27
-expiryDate: 2026-08-31
-tags: ["politics", "polymarket"]
-polymarketYes: 0.9
-polymarketNo: 99.2
-polymarketVolume: 98352
-polymarketUrl: "https://polymarket.com/event/will-min-woo-lee-win-the-2026-tour-championship-517"
+expiryDate: 2026-07-31
+tags: ["ai", "politics", "polymarket"]
+polymarketYes: 97.5
+polymarketNo: 2.5
+polymarketVolume: 98469
+polymarketUrl: "https://polymarket.com/event/will-anthropic-have-the-best-math-ai-model-at-the-end-of-july-2026"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.9% | 99.2% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 97.5% | 2.5% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-min-woo-lee-win-the-2026-tour-
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Min Woo Lee win the 2026 TOUR Championship?"?
+### What are the current odds for "Will Anthropic have the best Math AI model at the end of July 2026?"?
 
-As of July 27, 2026, Polymarket prices YES at 0.9%.
+As of July 27, 2026, Polymarket prices YES at 97.5%.
 
 ### Where can I trade on this prediction market?
 

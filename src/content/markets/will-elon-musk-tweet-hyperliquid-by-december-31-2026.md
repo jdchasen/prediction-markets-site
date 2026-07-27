@@ -4,7 +4,7 @@ description: "Will Elon Musk tweet \"Hyperliquid\" by December 31, 2026? Odds: 1
 marketQuestion: "Will Elon Musk tweet \"Hyperliquid\" by December 31, 2026?"
 category: "tech"
 status: "active"
-lastUpdated: 2026-07-26
+lastUpdated: 2026-07-27
 expiryDate: 2027-01-01
 tags: ["polymarket", "tech"]
 polymarketYes: 13.5
@@ -22,12 +22,14 @@ polymarketUrl: "https://polymarket.com/event/will-elon-musk-tweet-about-hyperliq
 ## Related Markets
 
 - [Will less than 5 SpaceX Starship launches successfully reach Space in 2026?](/odds/will-less-than-5-spacex-starship-launches-successfully-reach-space-in-2026) — 18% YES
+- [Will Elon Musk post 440-459 tweets from July 28 to August 4, 2026?](/odds/will-elon-musk-post-440-459-tweets-from-july-28-to-august-4-2026) — 0% YES
+- [Will Elon Musk post 460-479 tweets from July 28 to August 4, 2026?](/odds/will-elon-musk-post-460-479-tweets-from-july-28-to-august-4-2026) — 0% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Elon Musk tweet "Hyperliquid" by December 31, 2026?"?
 
-As of July 26, 2026, Polymarket prices YES at 13.5%.
+As of July 27, 2026, Polymarket prices YES at 13.5%.
 
 ### Where can I trade on this prediction market?
 

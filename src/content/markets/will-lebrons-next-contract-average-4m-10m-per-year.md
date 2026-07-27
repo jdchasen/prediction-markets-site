@@ -3,8 +3,8 @@ title: "Will LeBron's next contract average $4M-$10M per year?"
 description: "Will LeBron's next contract average $4M-$10M per year? Odds: 1.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will LeBron's next contract average $4M-$10M per year?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-07-26
+status: "settled"
+lastUpdated: 2026-07-27
 expiryDate: 2026-10-31
 tags: ["politics", "polymarket"]
 polymarketYes: 1.5
