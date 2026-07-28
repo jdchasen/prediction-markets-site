@@ -4,7 +4,7 @@ description: "Extended FDV above $500M one day after launch? Odds: 26.5% YES on 
 marketQuestion: "Extended FDV above $500M one day after launch?"
 category: "crypto"
 status: "active"
-lastUpdated: 2026-07-27
+lastUpdated: 2026-07-28
 expiryDate: 2027-01-01
 tags: ["crypto", "polymarket"]
 polymarketYes: 26.5
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/extended-fdv-above-500m-one-day-aft
 
 ### What are the current odds for "Extended FDV above $500M one day after launch?"?
 
-As of July 27, 2026, Polymarket prices YES at 26.5%.
+As of July 28, 2026, Polymarket prices YES at 26.5%.
 
 ### Where can I trade on this prediction market?
 

@@ -1,15 +1,15 @@
 ---
 title: "Will Gold (XAUUSD) hit (HIGH) $4,400 in July?"
-description: "Will Gold (XAUUSD) hit (HIGH) $4,400 in July? Odds: 1.8% YES on Polymarket. See live prices and trade this market."
+description: "Will Gold (XAUUSD) hit (HIGH) $4,400 in July? Odds: 0.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Gold (XAUUSD) hit (HIGH) $4,400 in July?"
 category: "finance"
 status: "active"
-lastUpdated: 2026-07-27
+lastUpdated: 2026-07-28
 expiryDate: 2026-08-01
 tags: ["finance", "polymarket"]
-polymarketYes: 1.8
-polymarketNo: 98.2
-polymarketVolume: 98451
+polymarketYes: 0.7
+polymarketNo: 99.3
+polymarketVolume: 98641
 polymarketUrl: "https://polymarket.com/event/will-xauusd-reach-4400-in-july-2026"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-xauusd-reach-4400-in-july-2026
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 1.8% | 98.2% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.7% | 99.3% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,7 +27,7 @@ polymarketUrl: "https://polymarket.com/event/will-xauusd-reach-4400-in-july-2026
 
 ### What are the current odds for "Will Gold (XAUUSD) hit (HIGH) $4,400 in July?"?
 
-As of July 27, 2026, Polymarket prices YES at 1.8%.
+As of July 28, 2026, Polymarket prices YES at 0.7%.
 
 ### Where can I trade on this prediction market?
 

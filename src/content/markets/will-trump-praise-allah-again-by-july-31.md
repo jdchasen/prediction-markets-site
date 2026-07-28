@@ -3,8 +3,8 @@ title: "Will Trump praise Allah again by July 31?"
 description: "Will Trump praise Allah again by July 31? Odds: 10.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Trump praise Allah again by July 31?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-07-27
+status: "settled"
+lastUpdated: 2026-07-28
 expiryDate: 2026-07-31
 tags: ["ai", "politics", "polymarket", "trump"]
 polymarketYes: 10.0

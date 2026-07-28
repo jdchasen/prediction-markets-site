@@ -4,7 +4,7 @@ description: "Will Phil Scott win the 2026 Vermont Governor Republican primary e
 marketQuestion: "Will Phil Scott win the 2026 Vermont Governor Republican primary election?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-07-27
+lastUpdated: 2026-07-28
 expiryDate: 2026-08-11
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 99.4
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-phil-scott-win-the-2026-vermon
 
 ### What are the current odds for "Will Phil Scott win the 2026 Vermont Governor Republican primary election?"?
 
-As of July 27, 2026, Polymarket prices YES at 99.4%.
+As of July 28, 2026, Polymarket prices YES at 99.4%.
 
 ### Where can I trade on this prediction market?
 

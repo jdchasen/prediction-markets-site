@@ -1,23 +1,23 @@
 ---
-title: "Kylie Jenner and Timothée Chalamet engaged in 2026?"
-description: "Kylie Jenner and Timothée Chalamet engaged in 2026? Odds: 17.0% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Kylie Jenner and Timothée Chalamet engaged in 2026?"
+title: "Will Coalition Avenir Québec win the most seats in the 2026 Quebec general election?"
+description: "Will Coalition Avenir Québec win the most seats in the 2026 Quebec general election? Odds: 18.0% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Coalition Avenir Québec win the most seats in the 2026 Quebec general election?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-07-28
-expiryDate: 2026-12-31
-tags: ["politics", "polymarket"]
-polymarketYes: 17.0
-polymarketNo: 83.0
-polymarketVolume: 9879
-polymarketUrl: "https://polymarket.com/event/kylie-jenner-and-timothe-chalamet-engaged-in-2026"
+expiryDate: 2026-10-05
+tags: ["elections", "politics", "polymarket"]
+polymarketYes: 18.0
+polymarketNo: 82.0
+polymarketVolume: 99219
+polymarketUrl: "https://polymarket.com/event/will-coalition-avenir-qubec-win-the-most-seats-in-the-2026-quebec-general-election"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 17.0% | 83.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 18.0% | 82.0% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/kylie-jenner-and-timothe-chalamet-e
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Kylie Jenner and Timothée Chalamet engaged in 2026?"?
+### What are the current odds for "Will Coalition Avenir Québec win the most seats in the 2026 Quebec general election?"?
 
-As of July 28, 2026, Polymarket prices YES at 17.0%.
+As of July 28, 2026, Polymarket prices YES at 18.0%.
 
 ### Where can I trade on this prediction market?
 

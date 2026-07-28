@@ -1,14 +1,14 @@
 ---
 title: "Will Kraken's valuation hit (HIGH) $20B by December 31?"
-description: "Will Kraken's valuation hit (HIGH) $20B by December 31? Odds: 6.4% YES on Polymarket. See live prices and trade this market."
+description: "Will Kraken's valuation hit (HIGH) $20B by December 31? Odds: 5.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Kraken's valuation hit (HIGH) $20B by December 31?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-07-27
+lastUpdated: 2026-07-28
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]
-polymarketYes: 6.4
-polymarketNo: 93.6
+polymarketYes: 5.9
+polymarketNo: 94.0
 polymarketVolume: 9872
 polymarketUrl: "https://polymarket.com/event/will-krakens-valuation-hit-high-20b-by-december-31"
 ---
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-krakens-valuation-hit-high-20b
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 6.4% | 93.6% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 5.9% | 94.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-krakens-valuation-hit-high-20b
 
 ### What are the current odds for "Will Kraken's valuation hit (HIGH) $20B by December 31?"?
 
-As of July 27, 2026, Polymarket prices YES at 6.4%.
+As of July 28, 2026, Polymarket prices YES at 5.9%.
 
 ### Where can I trade on this prediction market?
 

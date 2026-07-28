@@ -3,8 +3,8 @@ title: "Will Mexico GDP growth in Q2 2026 be between -0.5% and 0.0%?"
 description: "Will Mexico GDP growth in Q2 2026 be between -0.5% and 0.0%? Odds: 1.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Mexico GDP growth in Q2 2026 be between -0.5% and 0.0%?"
 category: "economics"
-status: "active"
-lastUpdated: 2026-07-27
+status: "settled"
+lastUpdated: 2026-07-28
 expiryDate: 2026-07-30
 tags: ["economics", "polymarket"]
 polymarketYes: 1.5

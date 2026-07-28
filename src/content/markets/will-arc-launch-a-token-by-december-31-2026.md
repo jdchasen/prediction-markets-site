@@ -1,23 +1,23 @@
 ---
-title: "Will El Salvador hold $1b+ of BTC by December 31, 2026?"
-description: "Will El Salvador hold $1b+ of BTC by December 31, 2026? Odds: 25.0% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will El Salvador hold $1b+ of BTC by December 31, 2026?"
+title: "Will Arc launch a token by December 31 2026?"
+description: "Will Arc launch a token by December 31 2026? Odds: 45.0% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Arc launch a token by December 31 2026?"
 category: "crypto"
 status: "active"
 lastUpdated: 2026-07-28
 expiryDate: 2027-01-01
-tags: ["bitcoin", "crypto", "polymarket"]
-polymarketYes: 25.0
-polymarketNo: 75.0
-polymarketVolume: 9988
-polymarketUrl: "https://polymarket.com/event/will-el-salvador-hold-1b-of-btc-by-december-31-2026"
+tags: ["crypto", "polymarket"]
+polymarketYes: 45.0
+polymarketNo: 55.0
+polymarketVolume: 98624
+polymarketUrl: "https://polymarket.com/event/will-arc-launch-a-token-by-december-31-2026"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 25.0% | 75.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 45.0% | 55.0% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-el-salvador-hold-1b-of-btc-by-
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will El Salvador hold $1b+ of BTC by December 31, 2026?"?
+### What are the current odds for "Will Arc launch a token by December 31 2026?"?
 
-As of July 28, 2026, Polymarket prices YES at 25.0%.
+As of July 28, 2026, Polymarket prices YES at 45.0%.
 
 ### Where can I trade on this prediction market?
 

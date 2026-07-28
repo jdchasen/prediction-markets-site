@@ -4,12 +4,12 @@ description: "Will the Bank of Japan announce a 50+ bps decrease at the Septembe
 marketQuestion: "Will the Bank of Japan announce a 50+ bps decrease at the September 2026 meeting?"
 category: "economics"
 status: "active"
-lastUpdated: 2026-07-27
+lastUpdated: 2026-07-28
 expiryDate: 2026-09-18
 tags: ["economics", "polymarket"]
 polymarketYes: 0.1
-polymarketNo: 99.9
-polymarketVolume: 9447
+polymarketNo: 100.0
+polymarketVolume: 9583
 polymarketUrl: "https://polymarket.com/event/will-the-bank-of-japan-announce-a-50-bps-decrease-at-the-september-2026-meeting-20260616223724867"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-the-bank-of-japan-announce-a-5
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.1% | 99.9% | $9K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.1% | 100.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will the Fed decrease interest rates by 50+ bps after the October 2026 meeting?](/odds/will-the-fed-decrease-interest-rates-by-50-bps-after-the-october-2026-meeting) — 2% YES
 - [Bank of Japan increases interest rates by 50+ bps after the July 2026 meeting?](/odds/bank-of-japan-increases-interest-rates-by-50-bps-after-the-july-2026-meeting) — 0% YES
-- [Will annual inflation be 3.2% in July?](/odds/will-annual-inflation-be-32-in-july) — 4% YES
+- [Will the Fed decrease interest rates by 50+ bps after the October 2026 meeting?](/odds/will-the-fed-decrease-interest-rates-by-50-bps-after-the-october-2026-meeting) — 2% YES
+- [Will Brazil’s Annual Inflation in 2026 be between 4.00% and 4.49%?](/odds/will-brazils-annual-inflation-in-2026-be-between-400-and-449) — 7% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will the Bank of Japan announce a 50+ bps decrease at the September 2026 meeting?"?
 
-As of July 27, 2026, Polymarket prices YES at 0.1%.
+As of July 28, 2026, Polymarket prices YES at 0.1%.
 
 ### Where can I trade on this prediction market?
 

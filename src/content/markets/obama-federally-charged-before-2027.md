@@ -1,14 +1,14 @@
 ---
 title: "Obama federally charged before 2027?"
-description: "Obama federally charged before 2027? Odds: 4.5% YES on Polymarket. See live prices and trade this market."
+description: "Obama federally charged before 2027? Odds: 4.6% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Obama federally charged before 2027?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-07-27
+lastUpdated: 2026-07-28
 expiryDate: 2026-12-31
 tags: ["federal-reserve", "politics", "polymarket"]
-polymarketYes: 4.5
-polymarketNo: 95.5
+polymarketYes: 4.6
+polymarketNo: 95.4
 polymarketVolume: 9823
 polymarketUrl: "https://polymarket.com/event/obama-federally-charged-before-2027"
 ---
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/obama-federally-charged-before-2027
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 4.5% | 95.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 4.6% | 95.4% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/obama-federally-charged-before-2027
 
 ### What are the current odds for "Obama federally charged before 2027?"?
 
-As of July 27, 2026, Polymarket prices YES at 4.5%.
+As of July 28, 2026, Polymarket prices YES at 4.6%.
 
 ### Where can I trade on this prediction market?
 

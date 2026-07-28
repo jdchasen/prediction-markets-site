@@ -4,7 +4,7 @@ description: "Will the Republican Party win the CA-21 House seat? Odds: 8.5% YES
 marketQuestion: "Will the Republican Party win the CA-21 House seat?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-07-27
+lastUpdated: 2026-07-28
 expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
 polymarketYes: 8.5
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-c
 
 ### What are the current odds for "Will the Republican Party win the CA-21 House seat?"?
 
-As of July 27, 2026, Polymarket prices YES at 8.5%.
+As of July 28, 2026, Polymarket prices YES at 8.5%.
 
 ### Where can I trade on this prediction market?
 

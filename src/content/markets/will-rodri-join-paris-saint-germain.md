@@ -3,8 +3,8 @@ title: "Will Rodri join Paris Saint-Germain?"
 description: "Will Rodri join Paris Saint-Germain? Odds: 2.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Rodri join Paris Saint-Germain?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-07-27
+status: "settled"
+lastUpdated: 2026-07-28
 expiryDate: 2026-09-02
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 2.8
