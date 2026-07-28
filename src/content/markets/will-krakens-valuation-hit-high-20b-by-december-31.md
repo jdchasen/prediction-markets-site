@@ -8,7 +8,7 @@ lastUpdated: 2026-07-28
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]
 polymarketYes: 5.9
-polymarketNo: 94.0
+polymarketNo: 94.1
 polymarketVolume: 9872
 polymarketUrl: "https://polymarket.com/event/will-krakens-valuation-hit-high-20b-by-december-31"
 ---
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-krakens-valuation-hit-high-20b
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 5.9% | 94.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 5.9% | 94.1% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 

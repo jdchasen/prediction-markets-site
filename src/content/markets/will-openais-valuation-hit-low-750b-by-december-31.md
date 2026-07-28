@@ -1,23 +1,23 @@
 ---
-title: "Will Rahm Emanuel announce a Presidential run before 2027?"
-description: "Will Rahm Emanuel announce a Presidential run before 2027? Odds: 11.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Rahm Emanuel announce a Presidential run before 2027?"
+title: "Will OpenAI's valuation hit (LOW) $750B by December 31?"
+description: "Will OpenAI's valuation hit (LOW) $750B by December 31? Odds: 32.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will OpenAI's valuation hit (LOW) $750B by December 31?"
 category: "politics"
-status: "settled"
+status: "active"
 lastUpdated: 2026-07-28
-expiryDate: 2026-12-31
-tags: ["politics", "polymarket"]
-polymarketYes: 11.5
-polymarketNo: 88.5
-polymarketVolume: 9805
-polymarketUrl: "https://polymarket.com/event/will-rahm-emanuel-announce-a-presidential-run-before-2027"
+expiryDate: 2027-01-01
+tags: ["ai", "politics", "polymarket"]
+polymarketYes: 32.5
+polymarketNo: 67.5
+polymarketVolume: 98367
+polymarketUrl: "https://polymarket.com/event/will-openais-valuation-hit-low-750b-by-december-31-995-138"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 11.5% | 88.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 32.5% | 67.5% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-rahm-emanuel-announce-a-presid
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Rahm Emanuel announce a Presidential run before 2027?"?
+### What are the current odds for "Will OpenAI's valuation hit (LOW) $750B by December 31?"?
 
-As of July 28, 2026, Polymarket prices YES at 11.5%.
+As of July 28, 2026, Polymarket prices YES at 32.5%.
 
 ### Where can I trade on this prediction market?
 

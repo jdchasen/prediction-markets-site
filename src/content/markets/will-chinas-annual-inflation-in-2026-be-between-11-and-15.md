@@ -1,23 +1,23 @@
 ---
-title: "Will the Bank of Japan announce a 50+ bps decrease at the September 2026 meeting?"
-description: "Will the Bank of Japan announce a 50+ bps decrease at the September 2026 meeting? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will the Bank of Japan announce a 50+ bps decrease at the September 2026 meeting?"
+title: "Will China's annual inflation in 2026 be between 1.1% and 1.5%?"
+description: "Will China's annual inflation in 2026 be between 1.1% and 1.5%? Odds: 40.0% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will China's annual inflation in 2026 be between 1.1% and 1.5%?"
 category: "economics"
 status: "active"
 lastUpdated: 2026-07-28
-expiryDate: 2026-09-18
-tags: ["economics", "polymarket"]
-polymarketYes: 0.1
-polymarketNo: 100.0
-polymarketVolume: 9583
-polymarketUrl: "https://polymarket.com/event/will-the-bank-of-japan-announce-a-50-bps-decrease-at-the-september-2026-meeting-20260616223724867"
+expiryDate: 2027-01-10
+tags: ["economics", "polymarket", "sports"]
+polymarketYes: 40.0
+polymarketNo: 60.0
+polymarketVolume: 9745
+polymarketUrl: "https://polymarket.com/event/will-chinas-annual-inflation-in-2026-be-between-1pt1-and-1pt5"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.1% | 100.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 40.0% | 60.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-the-bank-of-japan-announce-a-5
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will the Bank of Japan announce a 50+ bps decrease at the September 2026 meeting?"?
+### What are the current odds for "Will China's annual inflation in 2026 be between 1.1% and 1.5%?"?
 
-As of July 28, 2026, Polymarket prices YES at 0.1%.
+As of July 28, 2026, Polymarket prices YES at 40.0%.
 
 ### Where can I trade on this prediction market?
 

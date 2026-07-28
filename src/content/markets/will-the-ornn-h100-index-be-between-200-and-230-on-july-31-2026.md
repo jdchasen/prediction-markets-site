@@ -1,15 +1,15 @@
 ---
 title: "Will the Ornn H100 Index be between $2.00 and $2.30 on July 31, 2026?"
-description: "Will the Ornn H100 Index be between $2.00 and $2.30 on July 31, 2026? Odds: 0.4% YES on Polymarket. See live prices and trade this market."
+description: "Will the Ornn H100 Index be between $2.00 and $2.30 on July 31, 2026? Odds: 0.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Ornn H100 Index be between $2.00 and $2.30 on July 31, 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-07-28
 expiryDate: 2026-07-31
 tags: ["politics", "polymarket"]
-polymarketYes: 0.4
-polymarketNo: 99.6
-polymarketVolume: 9791
+polymarketYes: 0.2
+polymarketNo: 99.8
+polymarketVolume: 9941
 polymarketUrl: "https://polymarket.com/event/will-the-ornn-h100-index-be-between-2pt00-and-2pt30-on-july-31-2026-20260626214740666"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-ornn-h100-index-be-between
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.4% | 99.6% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.2% | 99.8% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-ornn-h100-index-be-between
 
 ### What are the current odds for "Will the Ornn H100 Index be between $2.00 and $2.30 on July 31, 2026?"?
 
-As of July 28, 2026, Polymarket prices YES at 0.4%.
+As of July 28, 2026, Polymarket prices YES at 0.2%.
 
 ### Where can I trade on this prediction market?
 

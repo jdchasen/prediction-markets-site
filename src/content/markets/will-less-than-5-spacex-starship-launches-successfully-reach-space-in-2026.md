@@ -21,7 +21,7 @@ polymarketUrl: "https://polymarket.com/event/will-less-than-5-spacex-starship-la
 
 ## Related Markets
 
-- [Will Elon Musk tweet "Hyperliquid" by December 31, 2026?](/odds/will-elon-musk-tweet-hyperliquid-by-december-31-2026) — 14% YES
+- [Will Elon Musk post 360-379 tweets from July 28 to August 4, 2026?](/odds/will-elon-musk-post-360-379-tweets-from-july-28-to-august-4-2026) — 0% YES
 
 ## Frequently Asked Questions
 

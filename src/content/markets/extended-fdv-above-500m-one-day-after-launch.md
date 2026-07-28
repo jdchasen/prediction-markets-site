@@ -1,15 +1,15 @@
 ---
 title: "Extended FDV above $500M one day after launch?"
-description: "Extended FDV above $500M one day after launch? Odds: 26.5% YES on Polymarket. See live prices and trade this market."
+description: "Extended FDV above $500M one day after launch? Odds: 26.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Extended FDV above $500M one day after launch?"
 category: "crypto"
 status: "active"
 lastUpdated: 2026-07-28
 expiryDate: 2027-01-01
 tags: ["crypto", "polymarket"]
-polymarketYes: 26.5
-polymarketNo: 73.5
-polymarketVolume: 979617
+polymarketYes: 26.0
+polymarketNo: 74.0
+polymarketVolume: 979622
 polymarketUrl: "https://polymarket.com/event/extended-fdv-above-500m-one-day-after-launch-711-975-248"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/extended-fdv-above-500m-one-day-aft
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 26.5% | 73.5% | $980K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 26.0% | 74.0% | $980K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
+- [Will Bitcoin dip to $60,000 in July?](/odds/will-bitcoin-dip-to-60000-in-july) — 10% YES
 - [Will MetaMask launch a token by September 30, 2026?](/odds/will-metamask-launch-a-token-by-september-30-2026) — 3% YES
 - [Will Loopscale launch a token by December 31, 2026?](/odds/will-loopscale-launch-a-token-by-december-31-2026) — 28% YES
-- [Will Bitcoin reach $95,000 by December 31, 2026?](/odds/will-bitcoin-reach-95000-by-december-31-2026) — 12% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Extended FDV above $500M one day after launch?"?
 
-As of July 28, 2026, Polymarket prices YES at 26.5%.
+As of July 28, 2026, Polymarket prices YES at 26.0%.
 
 ### Where can I trade on this prediction market?
 

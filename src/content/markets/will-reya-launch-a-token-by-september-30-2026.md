@@ -3,7 +3,7 @@ title: "Will Reya launch a token by September 30, 2026?"
 description: "Will Reya launch a token by September 30, 2026? Odds: 26.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Reya launch a token by September 30, 2026?"
 category: "crypto"
-status: "active"
+status: "settled"
 lastUpdated: 2026-07-28
 expiryDate: 2026-10-01
 tags: ["crypto", "polymarket"]

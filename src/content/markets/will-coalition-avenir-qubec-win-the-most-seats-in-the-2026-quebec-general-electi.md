@@ -3,7 +3,7 @@ title: "Will Coalition Avenir Québec win the most seats in the 2026 Quebec gene
 description: "Will Coalition Avenir Québec win the most seats in the 2026 Quebec general election? Odds: 18.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Coalition Avenir Québec win the most seats in the 2026 Quebec general election?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-07-28
 expiryDate: 2026-10-05
 tags: ["elections", "politics", "polymarket"]

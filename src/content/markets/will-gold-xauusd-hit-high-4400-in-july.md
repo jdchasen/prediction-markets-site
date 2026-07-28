@@ -8,8 +8,8 @@ lastUpdated: 2026-07-28
 expiryDate: 2026-08-01
 tags: ["finance", "polymarket"]
 polymarketYes: 0.7
-polymarketNo: 99.3
-polymarketVolume: 98641
+polymarketNo: 99.4
+polymarketVolume: 99824
 polymarketUrl: "https://polymarket.com/event/will-xauusd-reach-4400-in-july-2026"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-xauusd-reach-4400-in-july-2026
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.7% | 99.3% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.7% | 99.4% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 

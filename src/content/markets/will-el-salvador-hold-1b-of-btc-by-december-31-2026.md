@@ -1,14 +1,14 @@
 ---
 title: "Will El Salvador hold $1b+ of BTC by December 31, 2026?"
-description: "Will El Salvador hold $1b+ of BTC by December 31, 2026? Odds: 25.0% YES on Polymarket. See live prices and trade this market."
+description: "Will El Salvador hold $1b+ of BTC by December 31, 2026? Odds: 26.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will El Salvador hold $1b+ of BTC by December 31, 2026?"
 category: "crypto"
 status: "active"
 lastUpdated: 2026-07-28
 expiryDate: 2027-01-01
 tags: ["bitcoin", "crypto", "polymarket"]
-polymarketYes: 25.0
-polymarketNo: 75.0
+polymarketYes: 26.0
+polymarketNo: 74.0
 polymarketVolume: 9988
 polymarketUrl: "https://polymarket.com/event/will-el-salvador-hold-1b-of-btc-by-december-31-2026"
 ---
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-el-salvador-hold-1b-of-btc-by-
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 25.0% | 75.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 26.0% | 74.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
+- [Will Bitcoin dip to $60,000 in July?](/odds/will-bitcoin-dip-to-60000-in-july) — 10% YES
 - [Will MetaMask launch a token by September 30, 2026?](/odds/will-metamask-launch-a-token-by-september-30-2026) — 3% YES
 - [Extended FDV above $500M one day after launch?](/odds/extended-fdv-above-500m-one-day-after-launch) — 26% YES
-- [Will Loopscale launch a token by December 31, 2026?](/odds/will-loopscale-launch-a-token-by-december-31-2026) — 28% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will El Salvador hold $1b+ of BTC by December 31, 2026?"?
 
-As of July 28, 2026, Polymarket prices YES at 25.0%.
+As of July 28, 2026, Polymarket prices YES at 26.0%.
 
 ### Where can I trade on this prediction market?
 

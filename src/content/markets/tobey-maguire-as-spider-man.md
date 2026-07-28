@@ -1,23 +1,23 @@
 ---
-title: "Obama federally charged before 2027?"
-description: "Obama federally charged before 2027? Odds: 4.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Obama federally charged before 2027?"
+title: "Tobey Maguire as Spider-Man?"
+description: "Tobey Maguire as Spider-Man? Odds: 87.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Tobey Maguire as Spider-Man?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-07-28
-expiryDate: 2026-12-31
-tags: ["federal-reserve", "politics", "polymarket"]
-polymarketYes: 4.5
-polymarketNo: 95.5
-polymarketVolume: 9823
-polymarketUrl: "https://polymarket.com/event/obama-federally-charged-before-2027"
+expiryDate: 2026-12-18
+tags: ["politics", "polymarket"]
+polymarketYes: 87.5
+polymarketNo: 12.5
+polymarketVolume: 9826
+polymarketUrl: "https://polymarket.com/event/tobey-maguire-as-spider-man"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 4.5% | 95.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 87.5% | 12.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/obama-federally-charged-before-2027
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Obama federally charged before 2027?"?
+### What are the current odds for "Tobey Maguire as Spider-Man?"?
 
-As of July 28, 2026, Polymarket prices YES at 4.5%.
+As of July 28, 2026, Polymarket prices YES at 87.5%.
 
 ### Where can I trade on this prediction market?
 

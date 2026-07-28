@@ -9,7 +9,7 @@ expiryDate: 2026-10-28
 tags: ["economics", "federal-reserve", "interest-rates", "polymarket"]
 polymarketYes: 2.3
 polymarketNo: 97.7
-polymarketVolume: 95866
+polymarketVolume: 96074
 polymarketUrl: "https://polymarket.com/event/will-the-fed-decrease-interest-rates-by-50-bps-after-the-october-2026-meeting-20260617190324029"
 ---
 
@@ -21,9 +21,9 @@ polymarketUrl: "https://polymarket.com/event/will-the-fed-decrease-interest-rate
 
 ## Related Markets
 
+- [Will there be no change in Fed interest rates after the September 2026 meeting?](/odds/will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting) — 40% YES
 - [Bank of Japan increases interest rates by 50+ bps after the July 2026 meeting?](/odds/bank-of-japan-increases-interest-rates-by-50-bps-after-the-july-2026-meeting) — 0% YES
-- [Will Brazil’s Annual Inflation in 2026 be between 4.00% and 4.49%?](/odds/will-brazils-annual-inflation-in-2026-be-between-400-and-449) — 7% YES
-- [Will the Bank of Canada make no change to the target for the overnight rate at the September interest rate announcement?](/odds/will-the-bank-of-canada-make-no-change-to-the-target-for-the-overnight-rate-at-t) — 93% YES
+- [Will Brazil’s Annual Inflation in 2026 be between 4.00% and 4.49%?](/odds/will-brazils-annual-inflation-in-2026-be-between-400-and-449) — 8% YES
 
 ## Frequently Asked Questions
 

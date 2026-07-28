@@ -1,23 +1,23 @@
 ---
-title: "Will Rahm Emanuel announce a Presidential run before 2027?"
-description: "Will Rahm Emanuel announce a Presidential run before 2027? Odds: 11.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Rahm Emanuel announce a Presidential run before 2027?"
+title: "Will the Serbian National Assembly be dissolved by August 31?"
+description: "Will the Serbian National Assembly be dissolved by August 31? Odds: 23.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will the Serbian National Assembly be dissolved by August 31?"
 category: "politics"
-status: "settled"
+status: "active"
 lastUpdated: 2026-07-28
-expiryDate: 2026-12-31
+expiryDate: 2026-08-31
 tags: ["politics", "polymarket"]
-polymarketYes: 11.5
-polymarketNo: 88.5
-polymarketVolume: 9805
-polymarketUrl: "https://polymarket.com/event/will-rahm-emanuel-announce-a-presidential-run-before-2027"
+polymarketYes: 23.5
+polymarketNo: 76.5
+polymarketVolume: 9848
+polymarketUrl: "https://polymarket.com/event/will-the-serbian-national-assembly-be-dissolved-by-august-31-20260629164744651"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 11.5% | 88.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 23.5% | 76.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-rahm-emanuel-announce-a-presid
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Rahm Emanuel announce a Presidential run before 2027?"?
+### What are the current odds for "Will the Serbian National Assembly be dissolved by August 31?"?
 
-As of July 28, 2026, Polymarket prices YES at 11.5%.
+As of July 28, 2026, Polymarket prices YES at 23.5%.
 
 ### Where can I trade on this prediction market?
 

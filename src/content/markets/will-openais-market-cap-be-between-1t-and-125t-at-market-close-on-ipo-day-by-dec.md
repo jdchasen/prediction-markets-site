@@ -8,7 +8,7 @@ lastUpdated: 2026-07-28
 expiryDate: 2027-12-31
 tags: ["ai", "finance", "polymarket"]
 polymarketYes: 16.4
-polymarketNo: 83.6
+polymarketNo: 83.5
 polymarketVolume: 9817
 polymarketUrl: "https://polymarket.com/event/will-openais-market-cap-be-between-1t-and-1pt25t-at-market-close-on-ipo-day-by-december-31-2027-986"
 ---
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-openais-market-cap-be-between-
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 16.4% | 83.6% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 16.4% | 83.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 

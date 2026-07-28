@@ -3,7 +3,7 @@ title: "Will Elon Musk tweet \"Hyperliquid\" by December 31, 2026?"
 description: "Will Elon Musk tweet \"Hyperliquid\" by December 31, 2026? Odds: 13.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Elon Musk tweet \"Hyperliquid\" by December 31, 2026?"
 category: "tech"
-status: "active"
+status: "settled"
 lastUpdated: 2026-07-28
 expiryDate: 2027-01-01
 tags: ["polymarket", "tech"]

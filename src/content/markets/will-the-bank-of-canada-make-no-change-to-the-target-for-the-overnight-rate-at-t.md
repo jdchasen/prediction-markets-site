@@ -3,7 +3,7 @@ title: "Will the Bank of Canada make no change to the target for the overnight r
 description: "Will the Bank of Canada make no change to the target for the overnight rate at the September interest rate announcement? Odds: 93.4% YES on Polymarket. See l..."
 marketQuestion: "Will the Bank of Canada make no change to the target for the overnight rate at the September interest rate announcement?"
 category: "economics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-07-28
 expiryDate: 2026-09-02
 tags: ["economics", "interest-rates", "polymarket"]

@@ -9,7 +9,7 @@ expiryDate: 2027-06-30
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 16.5
 polymarketNo: 83.5
-polymarketVolume: 9887
+polymarketVolume: 9902
 polymarketUrl: "https://polymarket.com/event/will-nigel-farage-win-5060-of-votes-in-the-clacton-parliamentary-by-election-20260708151424123"
 ---
 
