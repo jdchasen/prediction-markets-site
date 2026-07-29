@@ -8,7 +8,7 @@ lastUpdated: 2026-07-29
 expiryDate: 2027-01-31
 tags: ["economics", "polymarket"]
 polymarketYes: 70.0
-polymarketNo: 30.0
+polymarketNo: 29.9
 polymarketVolume: 9779
 polymarketUrl: "https://polymarket.com/event/will-eurozone-annual-gdp-growth-in-2026-be-between-0-and-1pt0"
 ---
@@ -17,13 +17,13 @@ polymarketUrl: "https://polymarket.com/event/will-eurozone-annual-gdp-growth-in-
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 70.0% | 30.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 70.0% | 29.9% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will there be no change in Fed interest rates after the September 2026 meeting?](/odds/will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting) — 40% YES
+- [Will the Fed increase interest rates by 25 bps after the October 2026 meeting?](/odds/will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting) — 22% YES
 - [Will the Fed decrease interest rates by 50+ bps after the October 2026 meeting?](/odds/will-the-fed-decrease-interest-rates-by-50-bps-after-the-october-2026-meeting) — 2% YES
-- [Will Brazil’s Annual Inflation in 2026 be between 4.00% and 4.49%?](/odds/will-brazils-annual-inflation-in-2026-be-between-400-and-449) — 7% YES
+- [Will China's annual inflation in 2026 be between 1.1% and 1.5%?](/odds/will-chinas-annual-inflation-in-2026-be-between-11-and-15) — 40% YES
 
 ## Frequently Asked Questions
 

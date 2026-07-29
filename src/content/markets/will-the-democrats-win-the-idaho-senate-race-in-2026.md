@@ -3,7 +3,7 @@ title: "Will the Democrats win the Idaho Senate race in 2026?"
 description: "Will the Democrats win the Idaho Senate race in 2026? Odds: 4.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Democrats win the Idaho Senate race in 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-07-29
 tags: ["politics", "polymarket"]
 polymarketYes: 4.5

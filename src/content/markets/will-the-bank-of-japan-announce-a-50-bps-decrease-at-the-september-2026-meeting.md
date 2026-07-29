@@ -21,9 +21,9 @@ polymarketUrl: "https://polymarket.com/event/will-the-bank-of-japan-announce-a-5
 
 ## Related Markets
 
-- [Will there be no change in Fed interest rates after the September 2026 meeting?](/odds/will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting) — 40% YES
+- [Will the Fed increase interest rates by 25 bps after the October 2026 meeting?](/odds/will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting) — 22% YES
 - [Will the Fed decrease interest rates by 50+ bps after the October 2026 meeting?](/odds/will-the-fed-decrease-interest-rates-by-50-bps-after-the-october-2026-meeting) — 2% YES
-- [Will Brazil’s Annual Inflation in 2026 be between 4.00% and 4.49%?](/odds/will-brazils-annual-inflation-in-2026-be-between-400-and-449) — 7% YES
+- [Will Eurozone annual GDP growth in 2026 be between 0% and 1.0%?](/odds/will-eurozone-annual-gdp-growth-in-2026-be-between-0-and-10) — 70% YES
 
 ## Frequently Asked Questions
 

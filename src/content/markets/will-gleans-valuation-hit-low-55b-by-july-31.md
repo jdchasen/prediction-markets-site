@@ -3,7 +3,7 @@ title: "Will Glean's valuation hit (LOW) $5.5B by July 31?"
 description: "Will Glean's valuation hit (LOW) $5.5B by July 31? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Glean's valuation hit (LOW) $5.5B by July 31?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-07-29
 expiryDate: 2026-08-01
 tags: ["politics", "polymarket"]

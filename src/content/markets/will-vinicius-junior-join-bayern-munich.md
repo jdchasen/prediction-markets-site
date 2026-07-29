@@ -3,7 +3,7 @@ title: "Will Vinicius Junior join Bayern Munich?"
 description: "Will Vinicius Junior join Bayern Munich? Odds: 0.3% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Vinicius Junior join Bayern Munich?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-07-29
 expiryDate: 2026-09-02
 tags: ["politics", "polymarket"]

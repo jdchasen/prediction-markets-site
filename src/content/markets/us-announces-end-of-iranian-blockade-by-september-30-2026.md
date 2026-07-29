@@ -1,22 +1,23 @@
 ---
-title: "Will the Democrats win the South Dakota governor race in 2026?"
-description: "Will the Democrats win the South Dakota governor race in 2026? Odds: 6.9% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will the Democrats win the South Dakota governor race in 2026?"
+title: "US announces end of Iranian blockade by September 30, 2026?"
+description: "US announces end of Iranian blockade by September 30, 2026? Odds: 68.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "US announces end of Iranian blockade by September 30, 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-07-29
+expiryDate: 2026-09-30
 tags: ["politics", "polymarket"]
-polymarketYes: 6.9
-polymarketNo: 93.1
-polymarketVolume: 9771
-polymarketUrl: "https://polymarket.com/event/will-the-democrats-win-the-south-dakota-governor-race-in-2026"
+polymarketYes: 68.5
+polymarketNo: 31.5
+polymarketVolume: 9928
+polymarketUrl: "https://polymarket.com/event/us-announces-end-of-iranian-blockade-by-september-30-2026-20260727171615364"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 6.9% | 93.1% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 68.5% | 31.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -26,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-the-democrats-win-the-south-da
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will the Democrats win the South Dakota governor race in 2026?"?
+### What are the current odds for "US announces end of Iranian blockade by September 30, 2026?"?
 
-As of July 29, 2026, Polymarket prices YES at 6.9%.
+As of July 29, 2026, Polymarket prices YES at 68.5%.
 
 ### Where can I trade on this prediction market?
 
@@ -36,6 +37,6 @@ You can trade this market on [Polymarket](https://polymarket.us/1762?utm_source=
 
 ## Learn More
 
+- [Polymarket February 2026: Iran at 97%, $36M on Elon's Tweets](/blog/top-polymarket-markets-february-2026)
 - [Will ETH Hit $4,500 in 2026? Live Market Odds](/blog/will-ethereum-reach-4500-in-2026-what-prediction-markets-say)
-- [Will Discord IPO in 2026? What Prediction Markets Say](/blog/will-discord-ipo-in-2026-what-prediction-markets-say)
 

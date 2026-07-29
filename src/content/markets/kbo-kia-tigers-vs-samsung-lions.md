@@ -3,7 +3,7 @@ title: "KBO: Kia Tigers vs. Samsung Lions"
 description: "KBO: Kia Tigers vs. Samsung Lions Odds: 100.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "KBO: Kia Tigers vs. Samsung Lions"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-07-29
 expiryDate: 2026-08-05
 tags: ["politics", "polymarket"]

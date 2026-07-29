@@ -1,14 +1,14 @@
 ---
 title: "Unit FDV above $1B one day after launch?"
-description: "Unit FDV above $1B one day after launch? Odds: 10.5% YES on Polymarket. See live prices and trade this market."
+description: "Unit FDV above $1B one day after launch? Odds: 11.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Unit FDV above $1B one day after launch?"
 category: "crypto"
 status: "active"
 lastUpdated: 2026-07-29
 expiryDate: 2028-01-01
 tags: ["crypto", "polymarket"]
-polymarketYes: 10.5
-polymarketNo: 89.5
+polymarketYes: 11.5
+polymarketNo: 88.5
 polymarketVolume: 9793
 polymarketUrl: "https://polymarket.com/event/unit-fdv-above-1b-one-day-after-launch"
 ---
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/unit-fdv-above-1b-one-day-after-lau
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 10.5% | 89.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 11.5% | 88.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will MetaMask launch a token by September 30, 2026?](/odds/will-metamask-launch-a-token-by-september-30-2026) — 3% YES
-- [Extended FDV above $500M one day after launch?](/odds/extended-fdv-above-500m-one-day-after-launch) — 24% YES
+- [Will MetaMask launch a token by September 30, 2026?](/odds/will-metamask-launch-a-token-by-september-30-2026) — 2% YES
+- [Extended FDV above $500M one day after launch?](/odds/extended-fdv-above-500m-one-day-after-launch) — 22% YES
 - [Will Loopscale launch a token by December 31, 2026?](/odds/will-loopscale-launch-a-token-by-december-31-2026) — 28% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Unit FDV above $1B one day after launch?"?
 
-As of July 29, 2026, Polymarket prices YES at 10.5%.
+As of July 29, 2026, Polymarket prices YES at 11.5%.
 
 ### Where can I trade on this prediction market?
 

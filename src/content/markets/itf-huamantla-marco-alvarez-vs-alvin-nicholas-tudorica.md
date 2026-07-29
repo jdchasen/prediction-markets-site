@@ -1,16 +1,16 @@
 ---
-title: "Will Petr Yan fight Deiveson Figueiredo next?"
-description: "Will Petr Yan fight Deiveson Figueiredo next? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Petr Yan fight Deiveson Figueiredo next?"
+title: "ITF Huamantla: Marco Alvarez vs Alvin Nicholas Tudorica"
+description: "ITF Huamantla: Marco Alvarez vs Alvin Nicholas Tudorica Odds: 0.1% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "ITF Huamantla: Marco Alvarez vs Alvin Nicholas Tudorica"
 category: "politics"
 status: "active"
 lastUpdated: 2026-07-29
-expiryDate: 2026-12-31
+expiryDate: 2026-08-05
 tags: ["politics", "polymarket"]
 polymarketYes: 0.1
 polymarketNo: 100.0
-polymarketVolume: 9826
-polymarketUrl: "https://polymarket.com/event/will-petr-yan-fight-deiveson-figueiredo-next"
+polymarketVolume: 9900
+polymarketUrl: "https://polymarket.com/event/itf-alvare-tudoric-2026-07-29"
 ---
 
 ## Current Odds
@@ -27,16 +27,11 @@ polymarketUrl: "https://polymarket.com/event/will-petr-yan-fight-deiveson-figuei
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Petr Yan fight Deiveson Figueiredo next?"?
+### What are the current odds for "ITF Huamantla: Marco Alvarez vs Alvin Nicholas Tudorica"?
 
 As of July 29, 2026, Polymarket prices YES at 0.1%.
 
 ### Where can I trade on this prediction market?
 
 You can trade this market on [Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) (crypto-based).
-
-## Learn More
-
-- [Will Oil Hit $100? March Crude Prediction Market Odds](/blog/will-oil-hit-100-march-crude-prediction-market-odds)
-- [Will MicroStrategy Sell Bitcoin? Market Odds](/blog/will-microstrategy-sell-bitcoin-market-odds)
 

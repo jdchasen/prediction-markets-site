@@ -1,15 +1,15 @@
 ---
 title: "Will the Fed decrease interest rates by 50+ bps after the October 2026 meeting?"
-description: "Will the Fed decrease interest rates by 50+ bps after the October 2026 meeting? Odds: 2.4% YES on Polymarket. See live prices and trade this market."
+description: "Will the Fed decrease interest rates by 50+ bps after the October 2026 meeting? Odds: 2.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Fed decrease interest rates by 50+ bps after the October 2026 meeting?"
 category: "economics"
 status: "active"
 lastUpdated: 2026-07-29
 expiryDate: 2026-10-28
 tags: ["economics", "federal-reserve", "interest-rates", "polymarket"]
-polymarketYes: 2.4
-polymarketNo: 97.7
-polymarketVolume: 96259
+polymarketYes: 2.2
+polymarketNo: 97.8
+polymarketVolume: 96629
 polymarketUrl: "https://polymarket.com/event/will-the-fed-decrease-interest-rates-by-50-bps-after-the-october-2026-meeting-20260617190324029"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-the-fed-decrease-interest-rate
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 2.4% | 97.7% | $96K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 2.2% | 97.8% | $97K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will there be no change in Fed interest rates after the September 2026 meeting?](/odds/will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting) — 40% YES
-- [Will Brazil’s Annual Inflation in 2026 be between 4.00% and 4.49%?](/odds/will-brazils-annual-inflation-in-2026-be-between-400-and-449) — 7% YES
+- [Will the Fed increase interest rates by 25 bps after the October 2026 meeting?](/odds/will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting) — 22% YES
 - [Will Eurozone annual GDP growth in 2026 be between 0% and 1.0%?](/odds/will-eurozone-annual-gdp-growth-in-2026-be-between-0-and-10) — 70% YES
+- [Will China's annual inflation in 2026 be between 1.1% and 1.5%?](/odds/will-chinas-annual-inflation-in-2026-be-between-11-and-15) — 40% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will the Fed decrease interest rates by 50+ bps after the October 2026 meeting?"?
 
-As of July 29, 2026, Polymarket prices YES at 2.4%.
+As of July 29, 2026, Polymarket prices YES at 2.2%.
 
 ### Where can I trade on this prediction market?
 

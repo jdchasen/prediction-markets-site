@@ -8,7 +8,7 @@ lastUpdated: 2026-07-29
 expiryDate: 2027-12-31
 tags: ["ai", "finance", "polymarket"]
 polymarketYes: 16.4
-polymarketNo: 83.5
+polymarketNo: 83.6
 polymarketVolume: 9817
 polymarketUrl: "https://polymarket.com/event/will-openais-market-cap-be-between-1t-and-1pt25t-at-market-close-on-ipo-day-by-december-31-2027-986"
 ---
@@ -17,11 +17,11 @@ polymarketUrl: "https://polymarket.com/event/will-openais-market-cap-be-between-
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 16.4% | 83.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 16.4% | 83.6% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Discord’s market cap be between $8B and $11B at market close on IPO day by December 31, 2027?](/odds/will-discords-market-cap-be-between-8b-and-11b-at-market-close-on-ipo-day-by-dec) — 35% YES
+- [Will Discord’s market cap be between $8B and $11B at market close on IPO day by December 31, 2027?](/odds/will-discords-market-cap-be-between-8b-and-11b-at-market-close-on-ipo-day-by-dec) — 34% YES
 
 ## Frequently Asked Questions
 

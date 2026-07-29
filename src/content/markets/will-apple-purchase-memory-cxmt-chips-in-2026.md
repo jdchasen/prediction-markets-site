@@ -3,7 +3,7 @@ title: "Will Apple purchase memory CXMT chips in 2026?"
 description: "Will Apple purchase memory CXMT chips in 2026? Odds: 33.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Apple purchase memory CXMT chips in 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-07-29
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
