@@ -1,23 +1,23 @@
 ---
-title: "Will El Salvador hold $1b+ of BTC by December 31, 2026?"
-description: "Will El Salvador hold $1b+ of BTC by December 31, 2026? Odds: 25.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will El Salvador hold $1b+ of BTC by December 31, 2026?"
+title: "Unit FDV above $1B one day after launch?"
+description: "Unit FDV above $1B one day after launch? Odds: 10.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Unit FDV above $1B one day after launch?"
 category: "crypto"
 status: "active"
 lastUpdated: 2026-07-29
-expiryDate: 2027-01-01
-tags: ["bitcoin", "crypto", "polymarket"]
-polymarketYes: 25.5
-polymarketNo: 74.5
-polymarketVolume: 9988
-polymarketUrl: "https://polymarket.com/event/will-el-salvador-hold-1b-of-btc-by-december-31-2026"
+expiryDate: 2028-01-01
+tags: ["crypto", "polymarket"]
+polymarketYes: 10.5
+polymarketNo: 89.5
+polymarketVolume: 9793
+polymarketUrl: "https://polymarket.com/event/unit-fdv-above-1b-one-day-after-launch"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 25.5% | 74.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 10.5% | 89.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-el-salvador-hold-1b-of-btc-by-
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will El Salvador hold $1b+ of BTC by December 31, 2026?"?
+### What are the current odds for "Unit FDV above $1B one day after launch?"?
 
-As of July 29, 2026, Polymarket prices YES at 25.5%.
+As of July 29, 2026, Polymarket prices YES at 10.5%.
 
 ### Where can I trade on this prediction market?
 

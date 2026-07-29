@@ -1,23 +1,23 @@
 ---
-title: "Tobey Maguire as Spider-Man?"
-description: "Tobey Maguire as Spider-Man? Odds: 87.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Tobey Maguire as Spider-Man?"
+title: "KBO: Kia Tigers vs. Samsung Lions"
+description: "KBO: Kia Tigers vs. Samsung Lions Odds: 100.0% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "KBO: Kia Tigers vs. Samsung Lions"
 category: "politics"
 status: "active"
 lastUpdated: 2026-07-29
-expiryDate: 2026-12-18
+expiryDate: 2026-08-05
 tags: ["politics", "polymarket"]
-polymarketYes: 87.5
-polymarketNo: 12.5
-polymarketVolume: 9842
-polymarketUrl: "https://polymarket.com/event/tobey-maguire-as-spider-man"
+polymarketYes: 100.0
+polymarketNo: 0.1
+polymarketVolume: 9895
+polymarketUrl: "https://polymarket.com/event/kbo-kia-sam-2026-07-29"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 87.5% | 12.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 100.0% | 0.1% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/tobey-maguire-as-spider-man"
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Tobey Maguire as Spider-Man?"?
+### What are the current odds for "KBO: Kia Tigers vs. Samsung Lions"?
 
-As of July 29, 2026, Polymarket prices YES at 87.5%.
+As of July 29, 2026, Polymarket prices YES at 100.0%.
 
 ### Where can I trade on this prediction market?
 

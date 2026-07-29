@@ -1,23 +1,23 @@
 ---
-title: "Will Lovable be acquired before 2027?"
-description: "Will Lovable be acquired before 2027? Odds: 17.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Lovable be acquired before 2027?"
+title: "Will Lambda's valuation hit (HIGH) $12.5B by December 31?"
+description: "Will Lambda's valuation hit (HIGH) $12.5B by December 31? Odds: 28.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Lambda's valuation hit (HIGH) $12.5B by December 31?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-07-29
-expiryDate: 2026-12-31
+expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]
-polymarketYes: 17.5
-polymarketNo: 82.5
-polymarketVolume: 977357
-polymarketUrl: "https://polymarket.com/event/will-lovable-be-acquired-before-2027-423-881"
+polymarketYes: 28.5
+polymarketNo: 71.5
+polymarketVolume: 9813
+polymarketUrl: "https://polymarket.com/event/will-lambdas-valuation-hit-high-12pt5b-by-december-31"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 17.5% | 82.5% | $977K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 28.5% | 71.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-lovable-be-acquired-before-202
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Lovable be acquired before 2027?"?
+### What are the current odds for "Will Lambda's valuation hit (HIGH) $12.5B by December 31?"?
 
-As of July 29, 2026, Polymarket prices YES at 17.5%.
+As of July 29, 2026, Polymarket prices YES at 28.5%.
 
 ### Where can I trade on this prediction market?
 

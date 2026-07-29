@@ -4,12 +4,12 @@ description: "Will Marco Rubio win the 2028 Republican presidential nomination? 
 marketQuestion: "Will Marco Rubio win the 2028 Republican presidential nomination?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-07-28
+lastUpdated: 2026-07-29
 expiryDate: 2028-11-07
 tags: ["politics", "polymarket"]
 polymarketYes: 27.0
 polymarketNo: 73.0
-polymarketVolume: 9998808
+polymarketVolume: 9999382
 polymarketUrl: "https://polymarket.com/event/will-marco-rubio-win-the-2028-republican-presidential-nomination"
 ---
 
@@ -22,14 +22,14 @@ polymarketUrl: "https://polymarket.com/event/will-marco-rubio-win-the-2028-repub
 ## Related Markets
 
 - [Will Eric Trump win the 2028 Republican presidential nomination?](/odds/will-eric-trump-win-the-2028-republican-presidential-nomination) — 0% YES
-- [Will Mohamed Salah win the 2026 Ballon d'Or?](/odds/will-mohamed-salah-win-the-2026-ballon-dor) — 0% YES
 - [Will Trump be impeached by end of 2026?](/odds/will-trump-be-impeached-by-end-of-2026) — 3% YES
+- [Will Lovable be acquired before 2027?](/odds/will-lovable-be-acquired-before-2027) — 18% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Marco Rubio win the 2028 Republican presidential nomination?"?
 
-As of July 28, 2026, Polymarket prices YES at 27.0%.
+As of July 29, 2026, Polymarket prices YES at 27.0%.
 
 ### Where can I trade on this prediction market?
 

@@ -1,15 +1,15 @@
 ---
 title: "Will OpenAI's valuation hit (LOW) $750B by December 31?"
-description: "Will OpenAI's valuation hit (LOW) $750B by December 31? Odds: 32.5% YES on Polymarket. See live prices and trade this market."
+description: "Will OpenAI's valuation hit (LOW) $750B by December 31? Odds: 32.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will OpenAI's valuation hit (LOW) $750B by December 31?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-07-28
+lastUpdated: 2026-07-29
 expiryDate: 2027-01-01
 tags: ["ai", "politics", "polymarket"]
-polymarketYes: 32.5
-polymarketNo: 67.5
-polymarketVolume: 98367
+polymarketYes: 32.0
+polymarketNo: 68.0
+polymarketVolume: 98651
 polymarketUrl: "https://polymarket.com/event/will-openais-valuation-hit-low-750b-by-december-31-995-138"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-openais-valuation-hit-low-750b
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 32.5% | 67.5% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 32.0% | 68.0% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Marco Rubio win the 2028 Republican presidential nomination?](/odds/will-marco-rubio-win-the-2028-republican-presidential-nomination) — 27% YES
 - [Will Eric Trump win the 2028 Republican presidential nomination?](/odds/will-eric-trump-win-the-2028-republican-presidential-nomination) — 0% YES
-- [Will Mohamed Salah win the 2026 Ballon d'Or?](/odds/will-mohamed-salah-win-the-2026-ballon-dor) — 0% YES
+- [Will Trump be impeached by end of 2026?](/odds/will-trump-be-impeached-by-end-of-2026) — 3% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will OpenAI's valuation hit (LOW) $750B by December 31?"?
 
-As of July 28, 2026, Polymarket prices YES at 32.5%.
+As of July 29, 2026, Polymarket prices YES at 32.0%.
 
 ### Where can I trade on this prediction market?
 

@@ -1,22 +1,23 @@
 ---
-title: "Will the Democrats win the South Dakota governor race in 2026?"
-description: "Will the Democrats win the South Dakota governor race in 2026? Odds: 6.9% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will the Democrats win the South Dakota governor race in 2026?"
+title: "Will Apple purchase memory CXMT chips in 2026?"
+description: "Will Apple purchase memory CXMT chips in 2026? Odds: 33.0% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Apple purchase memory CXMT chips in 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-07-29
+expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 6.9
-polymarketNo: 93.1
-polymarketVolume: 9771
-polymarketUrl: "https://polymarket.com/event/will-the-democrats-win-the-south-dakota-governor-race-in-2026"
+polymarketYes: 33.0
+polymarketNo: 67.0
+polymarketVolume: 9945
+polymarketUrl: "https://polymarket.com/event/will-apple-purchase-memory-cxmt-chips-in-2026-20260630171913147"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 6.9% | 93.1% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 33.0% | 67.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -26,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-the-democrats-win-the-south-da
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will the Democrats win the South Dakota governor race in 2026?"?
+### What are the current odds for "Will Apple purchase memory CXMT chips in 2026?"?
 
-As of July 29, 2026, Polymarket prices YES at 6.9%.
+As of July 29, 2026, Polymarket prices YES at 33.0%.
 
 ### Where can I trade on this prediction market?
 

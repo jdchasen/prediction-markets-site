@@ -3,8 +3,8 @@ title: "Will NVIDIA (NVDA) hit (HIGH) $224 in July?"
 description: "Will NVIDIA (NVDA) hit (HIGH) $224 in July? Odds: 2.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will NVIDIA (NVDA) hit (HIGH) $224 in July?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-07-28
+status: "settled"
+lastUpdated: 2026-07-29
 expiryDate: 2026-08-01
 tags: ["politics", "polymarket"]
 polymarketYes: 2.8
