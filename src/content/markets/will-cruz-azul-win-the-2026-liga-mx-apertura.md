@@ -1,23 +1,23 @@
 ---
-title: "Will Truist fail by end of 2026?"
-description: "Will Truist fail by end of 2026? Odds: 1.9% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Truist fail by end of 2026?"
+title: "Will Cruz Azul win the 2026 Liga MX Apertura?"
+description: "Will Cruz Azul win the 2026 Liga MX Apertura? Odds: 19.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Cruz Azul win the 2026 Liga MX Apertura?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-07-30
-expiryDate: 2026-12-31
-tags: ["ai", "politics", "polymarket"]
-polymarketYes: 1.9
-polymarketNo: 98.1
-polymarketVolume: 9793
-polymarketUrl: "https://polymarket.com/event/will-truist-fail-by-end-of-2026"
+expiryDate: 2026-12-13
+tags: ["politics", "polymarket"]
+polymarketYes: 19.5
+polymarketNo: 80.5
+polymarketVolume: 9824
+polymarketUrl: "https://polymarket.com/event/will-cruz-azul-win-the-2026-liga-mx-apertura-20260713222753211"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 1.9% | 98.1% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 19.5% | 80.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-truist-fail-by-end-of-2026"
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Truist fail by end of 2026?"?
+### What are the current odds for "Will Cruz Azul win the 2026 Liga MX Apertura?"?
 
-As of July 30, 2026, Polymarket prices YES at 1.9%.
+As of July 30, 2026, Polymarket prices YES at 19.5%.
 
 ### Where can I trade on this prediction market?
 

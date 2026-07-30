@@ -1,15 +1,15 @@
 ---
 title: "Will Trump be impeached by end of 2026?"
-description: "Will Trump be impeached by end of 2026? Odds: 2.8% YES on Polymarket. See live prices and trade this market."
+description: "Will Trump be impeached by end of 2026? Odds: 2.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Trump be impeached by end of 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-07-29
+lastUpdated: 2026-07-30
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket", "trump"]
-polymarketYes: 2.8
-polymarketNo: 97.2
-polymarketVolume: 983123
+polymarketYes: 2.4
+polymarketNo: 97.7
+polymarketVolume: 985989
 polymarketUrl: "https://polymarket.com/event/will-trump-be-impeached-by-december-31-2026"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-trump-be-impeached-by-december
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 2.8% | 97.2% | $983K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 2.4% | 97.7% | $986K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Eric Trump win the 2028 Republican presidential nomination?](/odds/will-eric-trump-win-the-2028-republican-presidential-nomination) — 0% YES
+- [Will Erling Haaland win the 2026 Ballon d'Or?](/odds/will-erling-haaland-win-the-2026-ballon-dor) — 0% YES
 - [Will Lovable be acquired before 2027?](/odds/will-lovable-be-acquired-before-2027) — 18% YES
-- [Will Sabrina Carpenter be the top artist for 2026?](/odds/will-sabrina-carpenter-be-the-top-artist-for-2026) — 0% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Trump be impeached by end of 2026?"?
 
-As of July 29, 2026, Polymarket prices YES at 2.8%.
+As of July 30, 2026, Polymarket prices YES at 2.4%.
 
 ### Where can I trade on this prediction market?
 

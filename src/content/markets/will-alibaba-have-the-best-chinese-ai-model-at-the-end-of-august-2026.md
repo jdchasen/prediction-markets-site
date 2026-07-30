@@ -1,23 +1,23 @@
 ---
-title: "Will Truist fail by end of 2026?"
-description: "Will Truist fail by end of 2026? Odds: 1.9% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Truist fail by end of 2026?"
+title: "Will Alibaba have the best Chinese AI model at the end of August 2026?"
+description: "Will Alibaba have the best Chinese AI model at the end of August 2026? Odds: 63.0% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Alibaba have the best Chinese AI model at the end of August 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-07-30
-expiryDate: 2026-12-31
+expiryDate: 2026-08-31
 tags: ["ai", "politics", "polymarket"]
-polymarketYes: 1.9
-polymarketNo: 98.1
-polymarketVolume: 9793
-polymarketUrl: "https://polymarket.com/event/will-truist-fail-by-end-of-2026"
+polymarketYes: 63.0
+polymarketNo: 37.0
+polymarketVolume: 9906
+polymarketUrl: "https://polymarket.com/event/will-alibaba-have-the-best-chinese-ai-model-at-the-end-of-august-2026-20260717004241593"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 1.9% | 98.1% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 63.0% | 37.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-truist-fail-by-end-of-2026"
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Truist fail by end of 2026?"?
+### What are the current odds for "Will Alibaba have the best Chinese AI model at the end of August 2026?"?
 
-As of July 30, 2026, Polymarket prices YES at 1.9%.
+As of July 30, 2026, Polymarket prices YES at 63.0%.
 
 ### Where can I trade on this prediction market?
 

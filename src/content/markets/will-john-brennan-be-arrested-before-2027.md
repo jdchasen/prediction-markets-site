@@ -3,8 +3,8 @@ title: "Will John Brennan be arrested before 2027?"
 description: "Will John Brennan be arrested before 2027? Odds: 36.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will John Brennan be arrested before 2027?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-07-29
+status: "settled"
+lastUpdated: 2026-07-30
 tags: ["politics", "polymarket"]
 polymarketYes: 36.5
 polymarketNo: 63.5

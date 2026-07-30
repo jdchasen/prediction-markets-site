@@ -4,7 +4,7 @@ description: "Will Discord’s market cap be between $8B and $11B at market clos
 marketQuestion: "Will Discord’s market cap be between $8B and $11B at market close on IPO day by December 31, 2027?"
 category: "finance"
 status: "active"
-lastUpdated: 2026-07-29
+lastUpdated: 2026-07-30
 expiryDate: 2027-12-31
 tags: ["finance", "polymarket"]
 polymarketYes: 34.5
@@ -21,13 +21,14 @@ polymarketUrl: "https://polymarket.com/event/will-discords-market-cap-be-between
 
 ## Related Markets
 
+- [Will Alphabet be the second-largest company in the world by market cap on August 31?](/odds/will-alphabet-be-the-second-largest-company-in-the-world-by-market-cap-on-august) — 14% YES
 - [Will OpenAI’s market cap be between $1T and $1.25T at market close on IPO day by December 31, 2027?](/odds/will-openais-market-cap-be-between-1t-and-125t-at-market-close-on-ipo-day-by-dec) — 16% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Discord’s market cap be between $8B and $11B at market close on IPO day by December 31, 2027?"?
 
-As of July 29, 2026, Polymarket prices YES at 34.5%.
+As of July 30, 2026, Polymarket prices YES at 34.5%.
 
 ### Where can I trade on this prediction market?
 

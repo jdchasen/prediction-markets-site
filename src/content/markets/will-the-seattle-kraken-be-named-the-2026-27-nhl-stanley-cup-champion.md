@@ -1,23 +1,23 @@
 ---
-title: "Will the Pittsburgh Penguins be named the 2026-27 NHL Stanley Cup Champion?"
-description: "Will the Pittsburgh Penguins be named the 2026-27 NHL Stanley Cup Champion? Odds: 1.8% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will the Pittsburgh Penguins be named the 2026-27 NHL Stanley Cup Champion?"
+title: "Will the Seattle Kraken be named the 2026-27 NHL Stanley Cup Champion?"
+description: "Will the Seattle Kraken be named the 2026-27 NHL Stanley Cup Champion? Odds: 0.4% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will the Seattle Kraken be named the 2026-27 NHL Stanley Cup Champion?"
 category: "sports"
-status: "settled"
+status: "active"
 lastUpdated: 2026-07-30
 expiryDate: 2027-07-01
 tags: ["polymarket", "sports"]
-polymarketYes: 1.8
-polymarketNo: 98.2
-polymarketVolume: 9772
-polymarketUrl: "https://polymarket.com/event/will-the-pittsburgh-penguins-be-named-the-2026-27-nhl-stanley-cup-champion-20260612185657094"
+polymarketYes: 0.4
+polymarketNo: 99.7
+polymarketVolume: 9915
+polymarketUrl: "https://polymarket.com/event/will-the-seattle-kraken-be-named-the-2026-27-nhl-stanley-cup-champion-20260612185657096"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 1.8% | 98.2% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.4% | 99.7% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-the-pittsburgh-penguins-be-nam
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will the Pittsburgh Penguins be named the 2026-27 NHL Stanley Cup Champion?"?
+### What are the current odds for "Will the Seattle Kraken be named the 2026-27 NHL Stanley Cup Champion?"?
 
-As of July 29, 2026, Polymarket prices YES at 1.8%.
+As of July 30, 2026, Polymarket prices YES at 0.4%.
 
 ### Where can I trade on this prediction market?
 

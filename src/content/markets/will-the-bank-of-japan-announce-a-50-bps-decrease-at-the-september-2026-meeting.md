@@ -4,7 +4,7 @@ description: "Will the Bank of Japan announce a 50+ bps decrease at the Septembe
 marketQuestion: "Will the Bank of Japan announce a 50+ bps decrease at the September 2026 meeting?"
 category: "economics"
 status: "active"
-lastUpdated: 2026-07-29
+lastUpdated: 2026-07-30
 expiryDate: 2026-09-18
 tags: ["economics", "polymarket"]
 polymarketYes: 0.1
@@ -21,15 +21,15 @@ polymarketUrl: "https://polymarket.com/event/will-the-bank-of-japan-announce-a-5
 
 ## Related Markets
 
+- [Will the Fed decrease interest rates by 50+ bps after the September 2026 meeting?](/odds/will-the-fed-decrease-interest-rates-by-50-bps-after-the-september-2026-meeting) — 1% YES
 - [Will the Fed increase interest rates by 25 bps after the October 2026 meeting?](/odds/will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting) — 22% YES
 - [Will the Fed decrease interest rates by 50+ bps after the October 2026 meeting?](/odds/will-the-fed-decrease-interest-rates-by-50-bps-after-the-october-2026-meeting) — 2% YES
-- [Will Eurozone annual GDP growth in 2026 be between 0% and 1.0%?](/odds/will-eurozone-annual-gdp-growth-in-2026-be-between-0-and-10) — 70% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will the Bank of Japan announce a 50+ bps decrease at the September 2026 meeting?"?
 
-As of July 29, 2026, Polymarket prices YES at 0.1%.
+As of July 30, 2026, Polymarket prices YES at 0.1%.
 
 ### Where can I trade on this prediction market?
 

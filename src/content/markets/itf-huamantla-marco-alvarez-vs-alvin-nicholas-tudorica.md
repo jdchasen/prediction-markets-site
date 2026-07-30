@@ -3,8 +3,8 @@ title: "ITF Huamantla: Marco Alvarez vs Alvin Nicholas Tudorica"
 description: "ITF Huamantla: Marco Alvarez vs Alvin Nicholas Tudorica Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "ITF Huamantla: Marco Alvarez vs Alvin Nicholas Tudorica"
 category: "politics"
-status: "active"
-lastUpdated: 2026-07-29
+status: "settled"
+lastUpdated: 2026-07-30
 expiryDate: 2026-08-05
 tags: ["politics", "polymarket"]
 polymarketYes: 0.1

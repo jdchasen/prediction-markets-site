@@ -1,23 +1,23 @@
 ---
-title: "Will Truist fail by end of 2026?"
-description: "Will Truist fail by end of 2026? Odds: 1.9% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Truist fail by end of 2026?"
+title: "Will Javokhir Sindarov win the 2026 World Chess Championship?"
+description: "Will Javokhir Sindarov win the 2026 World Chess Championship? Odds: 65.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Javokhir Sindarov win the 2026 World Chess Championship?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-07-30
-expiryDate: 2026-12-31
-tags: ["ai", "politics", "polymarket"]
-polymarketYes: 1.9
-polymarketNo: 98.1
-polymarketVolume: 9793
-polymarketUrl: "https://polymarket.com/event/will-truist-fail-by-end-of-2026"
+expiryDate: 2027-01-01
+tags: ["politics", "polymarket"]
+polymarketYes: 65.5
+polymarketNo: 34.5
+polymarketVolume: 9799
+polymarketUrl: "https://polymarket.com/event/will-javokhir-sindarov-win-the-2026-world-chess-championship"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 1.9% | 98.1% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 65.5% | 34.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-truist-fail-by-end-of-2026"
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Truist fail by end of 2026?"?
+### What are the current odds for "Will Javokhir Sindarov win the 2026 World Chess Championship?"?
 
-As of July 30, 2026, Polymarket prices YES at 1.9%.
+As of July 30, 2026, Polymarket prices YES at 65.5%.
 
 ### Where can I trade on this prediction market?
 

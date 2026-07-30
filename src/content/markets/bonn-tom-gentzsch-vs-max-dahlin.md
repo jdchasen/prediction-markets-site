@@ -1,23 +1,23 @@
 ---
-title: "Obama federally charged before 2027?"
-description: "Obama federally charged before 2027? Odds: 4.3% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Obama federally charged before 2027?"
+title: "Bonn: Tom Gentzsch vs Max Dahlin"
+description: "Bonn: Tom Gentzsch vs Max Dahlin Odds: 76.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Bonn: Tom Gentzsch vs Max Dahlin"
 category: "politics"
 status: "active"
 lastUpdated: 2026-07-30
-expiryDate: 2026-12-31
-tags: ["federal-reserve", "politics", "polymarket"]
-polymarketYes: 4.3
-polymarketNo: 95.7
-polymarketVolume: 9823
-polymarketUrl: "https://polymarket.com/event/obama-federally-charged-before-2027"
+expiryDate: 2026-08-06
+tags: ["politics", "polymarket"]
+polymarketYes: 76.5
+polymarketNo: 23.5
+polymarketVolume: 9812
+polymarketUrl: "https://polymarket.com/event/atp-gentzsc-dahlin-2026-07-30"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 4.3% | 95.7% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 76.5% | 23.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/obama-federally-charged-before-2027
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Obama federally charged before 2027?"?
+### What are the current odds for "Bonn: Tom Gentzsch vs Max Dahlin"?
 
-As of July 30, 2026, Polymarket prices YES at 4.3%.
+As of July 30, 2026, Polymarket prices YES at 76.5%.
 
 ### Where can I trade on this prediction market?
 

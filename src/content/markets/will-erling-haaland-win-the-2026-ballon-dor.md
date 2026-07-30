@@ -1,35 +1,35 @@
 ---
-title: "Will Truist fail by end of 2026?"
-description: "Will Truist fail by end of 2026? Odds: 1.9% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Truist fail by end of 2026?"
+title: "Will Erling Haaland win the 2026 Ballon d'Or?"
+description: "Will Erling Haaland win the 2026 Ballon d'Or? Odds: 0.4% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Erling Haaland win the 2026 Ballon d'Or?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-07-30
-expiryDate: 2026-12-31
-tags: ["ai", "politics", "polymarket"]
-polymarketYes: 1.9
-polymarketNo: 98.1
-polymarketVolume: 9793
-polymarketUrl: "https://polymarket.com/event/will-truist-fail-by-end-of-2026"
+expiryDate: 2026-10-31
+tags: ["politics", "polymarket"]
+polymarketYes: 0.4
+polymarketNo: 99.6
+polymarketVolume: 981905
+polymarketUrl: "https://polymarket.com/event/will-erling-haaland-win-the-2026-ballon-dor"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 1.9% | 98.1% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.4% | 99.6% | $982K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Eric Trump win the 2028 Republican presidential nomination?](/odds/will-eric-trump-win-the-2028-republican-presidential-nomination) — 0% YES
 - [Will Trump be impeached by end of 2026?](/odds/will-trump-be-impeached-by-end-of-2026) — 2% YES
-- [Will Erling Haaland win the 2026 Ballon d'Or?](/odds/will-erling-haaland-win-the-2026-ballon-dor) — 0% YES
+- [Will Lovable be acquired before 2027?](/odds/will-lovable-be-acquired-before-2027) — 18% YES
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Truist fail by end of 2026?"?
+### What are the current odds for "Will Erling Haaland win the 2026 Ballon d'Or?"?
 
-As of July 30, 2026, Polymarket prices YES at 1.9%.
+As of July 30, 2026, Polymarket prices YES at 0.4%.
 
 ### Where can I trade on this prediction market?
 
