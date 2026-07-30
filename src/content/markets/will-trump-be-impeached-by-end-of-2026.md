@@ -8,8 +8,8 @@ lastUpdated: 2026-07-30
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket", "trump"]
 polymarketYes: 2.4
-polymarketNo: 97.7
-polymarketVolume: 985989
+polymarketNo: 97.6
+polymarketVolume: 986411
 polymarketUrl: "https://polymarket.com/event/will-trump-be-impeached-by-december-31-2026"
 ---
 
@@ -17,13 +17,13 @@ polymarketUrl: "https://polymarket.com/event/will-trump-be-impeached-by-december
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 2.4% | 97.7% | $986K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 2.4% | 97.6% | $986K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Eric Trump win the 2028 Republican presidential nomination?](/odds/will-eric-trump-win-the-2028-republican-presidential-nomination) — 0% YES
+- [Will Masoud Pezeshkian be head of state in Iran end of 2026?](/odds/will-masoud-pezeshkian-be-head-of-state-in-iran-end-of-2026) — 0% YES
 - [Will Erling Haaland win the 2026 Ballon d'Or?](/odds/will-erling-haaland-win-the-2026-ballon-dor) — 0% YES
-- [Will Lovable be acquired before 2027?](/odds/will-lovable-be-acquired-before-2027) — 18% YES
 
 ## Frequently Asked Questions
 

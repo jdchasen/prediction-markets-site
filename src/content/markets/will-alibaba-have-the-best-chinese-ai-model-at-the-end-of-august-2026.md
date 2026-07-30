@@ -3,7 +3,7 @@ title: "Will Alibaba have the best Chinese AI model at the end of August 2026?"
 description: "Will Alibaba have the best Chinese AI model at the end of August 2026? Odds: 63.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Alibaba have the best Chinese AI model at the end of August 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-07-30
 expiryDate: 2026-08-31
 tags: ["ai", "politics", "polymarket"]

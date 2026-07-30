@@ -9,7 +9,7 @@ expiryDate: 2026-08-12
 tags: ["economics", "polymarket", "sports"]
 polymarketYes: 1.9
 polymarketNo: 98.0
-polymarketVolume: 9762
+polymarketVolume: 9848
 polymarketUrl: "https://polymarket.com/event/will-annual-inflation-be-3pt7-in-july-20260714150613274"
 ---
 
@@ -21,9 +21,9 @@ polymarketUrl: "https://polymarket.com/event/will-annual-inflation-be-3pt7-in-ju
 
 ## Related Markets
 
-- [Will the Fed decrease interest rates by 50+ bps after the September 2026 meeting?](/odds/will-the-fed-decrease-interest-rates-by-50-bps-after-the-september-2026-meeting) — 1% YES
-- [Will the Fed increase interest rates by 25 bps after the October 2026 meeting?](/odds/will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting) — 22% YES
 - [Will the Fed decrease interest rates by 50+ bps after the October 2026 meeting?](/odds/will-the-fed-decrease-interest-rates-by-50-bps-after-the-october-2026-meeting) — 2% YES
+- [Will Eurozone annual GDP growth in 2026 be between 0% and 1.0%?](/odds/will-eurozone-annual-gdp-growth-in-2026-be-between-0-and-10) — 70% YES
+- [Will China's annual inflation in 2026 be between 1.1% and 1.5%?](/odds/will-chinas-annual-inflation-in-2026-be-between-11-and-15) — 40% YES
 
 ## Frequently Asked Questions
 

@@ -21,7 +21,6 @@ polymarketUrl: "https://polymarket.com/event/will-openais-market-cap-be-between-
 
 ## Related Markets
 
-- [Will Alphabet be the second-largest company in the world by market cap on August 31?](/odds/will-alphabet-be-the-second-largest-company-in-the-world-by-market-cap-on-august) — 14% YES
 - [Will Discord’s market cap be between $8B and $11B at market close on IPO day by December 31, 2027?](/odds/will-discords-market-cap-be-between-8b-and-11b-at-market-close-on-ipo-day-by-dec) — 34% YES
 
 ## Frequently Asked Questions

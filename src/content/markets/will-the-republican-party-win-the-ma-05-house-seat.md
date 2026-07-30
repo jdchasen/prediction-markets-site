@@ -1,14 +1,14 @@
 ---
 title: "Will the Republican Party win the MA-05 House seat?"
-description: "Will the Republican Party win the MA-05 House seat? Odds: 5.3% YES on Polymarket. See live prices and trade this market."
+description: "Will the Republican Party win the MA-05 House seat? Odds: 5.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Republican Party win the MA-05 House seat?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-07-30
 expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
-polymarketYes: 5.3
-polymarketNo: 94.7
+polymarketYes: 5.2
+polymarketNo: 94.8
 polymarketVolume: 9977
 polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-ma-05-house-seat"
 ---
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-m
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 5.3% | 94.7% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 5.2% | 94.8% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Eric Trump win the 2028 Republican presidential nomination?](/odds/will-eric-trump-win-the-2028-republican-presidential-nomination) — 0% YES
-- [Will Trump be impeached by end of 2026?](/odds/will-trump-be-impeached-by-end-of-2026) — 2% YES
+- [Will Masoud Pezeshkian be head of state in Iran end of 2026?](/odds/will-masoud-pezeshkian-be-head-of-state-in-iran-end-of-2026) — 0% YES
 - [Will Erling Haaland win the 2026 Ballon d'Or?](/odds/will-erling-haaland-win-the-2026-ballon-dor) — 0% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will the Republican Party win the MA-05 House seat?"?
 
-As of July 30, 2026, Polymarket prices YES at 5.3%.
+As of July 30, 2026, Polymarket prices YES at 5.2%.
 
 ### Where can I trade on this prediction market?
 

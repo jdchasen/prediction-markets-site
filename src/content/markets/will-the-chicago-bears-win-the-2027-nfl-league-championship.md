@@ -9,7 +9,7 @@ expiryDate: 2027-03-31
 tags: ["polymarket", "sports"]
 polymarketYes: 3.0
 polymarketNo: 97.0
-polymarketVolume: 981526
+polymarketVolume: 981536
 polymarketUrl: "https://polymarket.com/event/will-the-chicago-bears-win-the-2027-nfl-league-championship"
 ---
 

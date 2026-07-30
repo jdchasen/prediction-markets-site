@@ -1,23 +1,23 @@
 ---
-title: "Will Nigel Farage win 50–60% of votes in the Clacton parliamentary by-election?"
-description: "Will Nigel Farage win 50–60% of votes in the Clacton parliamentary by-election? Odds: 16.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Nigel Farage win 50–60% of votes in the Clacton parliamentary by-election?"
+title: "Will there be exactly 1 earthquake of magnitude 6.5 or higher worldwide from July 27 - August 2?"
+description: "Will there be exactly 1 earthquake of magnitude 6.5 or higher worldwide from July 27 - August 2? Odds: 68.0% YES on Polymarket. See live prices and trade thi..."
+marketQuestion: "Will there be exactly 1 earthquake of magnitude 6.5 or higher worldwide from July 27 - August 2?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-07-30
-expiryDate: 2027-06-30
-tags: ["elections", "politics", "polymarket"]
-polymarketYes: 16.5
-polymarketNo: 83.5
-polymarketVolume: 9902
-polymarketUrl: "https://polymarket.com/event/will-nigel-farage-win-5060-of-votes-in-the-clacton-parliamentary-by-election-20260708151424123"
+expiryDate: 2026-08-02
+tags: ["politics", "polymarket"]
+polymarketYes: 68.0
+polymarketNo: 32.0
+polymarketVolume: 9995
+polymarketUrl: "https://polymarket.com/event/will-there-be-exactly-1-earthquake-of-magnitude-6pt5-or-higher-worldwide-from-july-20-july-26-20260723164507548"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 16.5% | 83.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 68.0% | 32.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-nigel-farage-win-5060-of-votes
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Nigel Farage win 50–60% of votes in the Clacton parliamentary by-election?"?
+### What are the current odds for "Will there be exactly 1 earthquake of magnitude 6.5 or higher worldwide from July 27 - August 2?"?
 
-As of July 30, 2026, Polymarket prices YES at 16.5%.
+As of July 30, 2026, Polymarket prices YES at 68.0%.
 
 ### Where can I trade on this prediction market?
 

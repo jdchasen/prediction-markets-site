@@ -1,16 +1,16 @@
 ---
-title: "Will the Democratic Party win the AR-01 House seat?"
-description: "Will the Democratic Party win the AR-01 House seat? Odds: 1.8% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will the Democratic Party win the AR-01 House seat?"
+title: "Will fewer than 25 ships transit the Strait of Hormuz between July 27-August 2?"
+description: "Will fewer than 25 ships transit the Strait of Hormuz between July 27-August 2? Odds: 1.8% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will fewer than 25 ships transit the Strait of Hormuz between July 27-August 2?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-07-30
-expiryDate: 2026-11-03
-tags: ["politics", "polymarket"]
+expiryDate: 2026-08-02
+tags: ["ai", "politics", "polymarket"]
 polymarketYes: 1.8
 polymarketNo: 98.2
-polymarketVolume: 9882
-polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-ar-01-house-seat"
+polymarketVolume: 9942
+polymarketUrl: "https://polymarket.com/event/will-fewer-than-25-ships-transit-the-strait-of-hormuz-between-july-27-august-2-20260724144200303"
 ---
 
 ## Current Odds
@@ -27,7 +27,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-a
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will the Democratic Party win the AR-01 House seat?"?
+### What are the current odds for "Will fewer than 25 ships transit the Strait of Hormuz between July 27-August 2?"?
 
 As of July 30, 2026, Polymarket prices YES at 1.8%.
 
@@ -37,6 +37,6 @@ You can trade this market on [Polymarket](https://polymarket.us/1762?utm_source=
 
 ## Learn More
 
+- [Strait of Hormuz: 57% Closure Odds, Oil Up 13%](/blog/strait-of-hormuz-closure-odds-iran-oil-crisis)
 - [Will Oil Hit $100? March Crude Prediction Market Odds](/blog/will-oil-hit-100-march-crude-prediction-market-odds)
-- [Will MicroStrategy Sell Bitcoin? Market Odds](/blog/will-microstrategy-sell-bitcoin-market-odds)
 

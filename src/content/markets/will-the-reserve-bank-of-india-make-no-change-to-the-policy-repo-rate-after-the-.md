@@ -3,7 +3,7 @@ title: "Will the Reserve Bank of India make no change to the policy repo rate af
 description: "Will the Reserve Bank of India make no change to the policy repo rate after the August Meeting? Odds: 88.5% YES on Polymarket. See live prices and trade this..."
 marketQuestion: "Will the Reserve Bank of India make no change to the policy repo rate after the August Meeting?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-07-30
 expiryDate: 2026-08-05
 tags: ["politics", "polymarket"]

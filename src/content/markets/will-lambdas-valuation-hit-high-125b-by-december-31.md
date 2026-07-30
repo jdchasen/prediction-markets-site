@@ -3,7 +3,7 @@ title: "Will Lambda's valuation hit (HIGH) $12.5B by December 31?"
 description: "Will Lambda's valuation hit (HIGH) $12.5B by December 31? Odds: 38.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Lambda's valuation hit (HIGH) $12.5B by December 31?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-07-30
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]

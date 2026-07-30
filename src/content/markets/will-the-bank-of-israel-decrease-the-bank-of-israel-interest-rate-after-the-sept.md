@@ -21,9 +21,9 @@ polymarketUrl: "https://polymarket.com/event/will-the-bank-of-israel-decrease-th
 
 ## Related Markets
 
-- [Will the Fed decrease interest rates by 50+ bps after the September 2026 meeting?](/odds/will-the-fed-decrease-interest-rates-by-50-bps-after-the-september-2026-meeting) — 1% YES
-- [Will the Fed increase interest rates by 25 bps after the October 2026 meeting?](/odds/will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting) — 22% YES
 - [Will the Fed decrease interest rates by 50+ bps after the October 2026 meeting?](/odds/will-the-fed-decrease-interest-rates-by-50-bps-after-the-october-2026-meeting) — 2% YES
+- [Will Eurozone annual GDP growth in 2026 be between 0% and 1.0%?](/odds/will-eurozone-annual-gdp-growth-in-2026-be-between-0-and-10) — 70% YES
+- [Will annual inflation be 3.7% in July?](/odds/will-annual-inflation-be-37-in-july) — 2% YES
 
 ## Frequently Asked Questions
 

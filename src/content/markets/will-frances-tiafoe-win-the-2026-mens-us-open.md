@@ -9,7 +9,7 @@ expiryDate: 2026-09-13
 tags: ["politics", "polymarket"]
 polymarketYes: 0.4
 polymarketNo: 99.6
-polymarketVolume: 98012
+polymarketVolume: 98013
 polymarketUrl: "https://polymarket.com/event/will-frances-tiafoe-win-the-2026-mens-us-open"
 ---
 
@@ -22,7 +22,7 @@ polymarketUrl: "https://polymarket.com/event/will-frances-tiafoe-win-the-2026-me
 ## Related Markets
 
 - [Will Eric Trump win the 2028 Republican presidential nomination?](/odds/will-eric-trump-win-the-2028-republican-presidential-nomination) — 0% YES
-- [Will Trump be impeached by end of 2026?](/odds/will-trump-be-impeached-by-end-of-2026) — 2% YES
+- [Will Masoud Pezeshkian be head of state in Iran end of 2026?](/odds/will-masoud-pezeshkian-be-head-of-state-in-iran-end-of-2026) — 0% YES
 - [Will Erling Haaland win the 2026 Ballon d'Or?](/odds/will-erling-haaland-win-the-2026-ballon-dor) — 0% YES
 
 ## Frequently Asked Questions

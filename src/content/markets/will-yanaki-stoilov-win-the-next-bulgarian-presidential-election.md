@@ -1,23 +1,23 @@
 ---
-title: "Will Nigel Farage win 50–60% of votes in the Clacton parliamentary by-election?"
-description: "Will Nigel Farage win 50–60% of votes in the Clacton parliamentary by-election? Odds: 16.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Nigel Farage win 50–60% of votes in the Clacton parliamentary by-election?"
+title: "Will Yanaki Stoilov win the next Bulgarian presidential election?"
+description: "Will Yanaki Stoilov win the next Bulgarian presidential election? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Yanaki Stoilov win the next Bulgarian presidential election?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-07-30
-expiryDate: 2027-06-30
+expiryDate: 2026-11-30
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 16.5
-polymarketNo: 83.5
-polymarketVolume: 9902
-polymarketUrl: "https://polymarket.com/event/will-nigel-farage-win-5060-of-votes-in-the-clacton-parliamentary-by-election-20260708151424123"
+polymarketYes: 0.1
+polymarketNo: 99.9
+polymarketVolume: 9837
+polymarketUrl: "https://polymarket.com/event/will-yanaki-stoilov-win-the-next-bulgarian-presidential-election"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 16.5% | 83.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.1% | 99.9% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-nigel-farage-win-5060-of-votes
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Nigel Farage win 50–60% of votes in the Clacton parliamentary by-election?"?
+### What are the current odds for "Will Yanaki Stoilov win the next Bulgarian presidential election?"?
 
-As of July 30, 2026, Polymarket prices YES at 16.5%.
+As of July 30, 2026, Polymarket prices YES at 0.1%.
 
 ### Where can I trade on this prediction market?
 

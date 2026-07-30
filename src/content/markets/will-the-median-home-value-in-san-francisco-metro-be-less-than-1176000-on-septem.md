@@ -1,23 +1,23 @@
 ---
-title: "Will Nigel Farage win 50–60% of votes in the Clacton parliamentary by-election?"
-description: "Will Nigel Farage win 50–60% of votes in the Clacton parliamentary by-election? Odds: 16.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Nigel Farage win 50–60% of votes in the Clacton parliamentary by-election?"
+title: "Will the median home value in San Francisco Metro be less than $1,176,000 on September 30?"
+description: "Will the median home value in San Francisco Metro be less than $1,176,000 on September 30? Odds: 47.0% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will the median home value in San Francisco Metro be less than $1,176,000 on September 30?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-07-30
-expiryDate: 2027-06-30
-tags: ["elections", "politics", "polymarket"]
-polymarketYes: 16.5
-polymarketNo: 83.5
-polymarketVolume: 9902
-polymarketUrl: "https://polymarket.com/event/will-nigel-farage-win-5060-of-votes-in-the-clacton-parliamentary-by-election-20260708151424123"
+expiryDate: 2026-09-30
+tags: ["politics", "polymarket"]
+polymarketYes: 47.0
+polymarketNo: 53.0
+polymarketVolume: 9909
+polymarketUrl: "https://polymarket.com/event/will-the-median-home-value-in-san-francisco-metro-be-less-than-1176000-on-september-30-20260630181308440"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 16.5% | 83.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 47.0% | 53.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-nigel-farage-win-5060-of-votes
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Nigel Farage win 50–60% of votes in the Clacton parliamentary by-election?"?
+### What are the current odds for "Will the median home value in San Francisco Metro be less than $1,176,000 on September 30?"?
 
-As of July 30, 2026, Polymarket prices YES at 16.5%.
+As of July 30, 2026, Polymarket prices YES at 47.0%.
 
 ### Where can I trade on this prediction market?
 

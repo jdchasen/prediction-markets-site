@@ -3,7 +3,7 @@ title: "Will the Fed decrease interest rates by 50+ bps after the September 2026
 description: "Will the Fed decrease interest rates by 50+ bps after the September 2026 meeting? Odds: 1.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Fed decrease interest rates by 50+ bps after the September 2026 meeting?"
 category: "economics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-07-30
 expiryDate: 2026-09-16
 tags: ["economics", "federal-reserve", "interest-rates", "polymarket"]

@@ -3,7 +3,7 @@ title: "Bonn: Tom Gentzsch vs Max Dahlin"
 description: "Bonn: Tom Gentzsch vs Max Dahlin Odds: 76.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Bonn: Tom Gentzsch vs Max Dahlin"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-07-30
 expiryDate: 2026-08-06
 tags: ["politics", "polymarket"]

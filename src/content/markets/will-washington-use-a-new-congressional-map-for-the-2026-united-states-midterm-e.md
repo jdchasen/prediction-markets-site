@@ -3,7 +3,7 @@ title: "Will Washington use a new congressional map for the 2026 United States m
 description: "Will Washington use a new congressional map for the 2026 United States midterm elections? Odds: 4.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Washington use a new congressional map for the 2026 United States midterm elections?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-07-30
 expiryDate: 2026-11-03
 tags: ["elections", "politics", "polymarket"]
