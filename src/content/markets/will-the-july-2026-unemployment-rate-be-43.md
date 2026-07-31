@@ -1,16 +1,16 @@
 ---
-title: "Will China's annual inflation in 2026 be between 1.1% and 1.5%?"
-description: "Will China's annual inflation in 2026 be between 1.1% and 1.5%? Odds: 40.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will China's annual inflation in 2026 be between 1.1% and 1.5%?"
+title: "Will the July 2026 unemployment rate be 4.3%?"
+description: "Will the July 2026 unemployment rate be 4.3%? Odds: 40.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will the July 2026 unemployment rate be 4.3%?"
 category: "economics"
 status: "active"
 lastUpdated: 2026-07-31
-expiryDate: 2027-01-10
-tags: ["economics", "polymarket", "sports"]
+expiryDate: 2026-08-07
+tags: ["economics", "polymarket"]
 polymarketYes: 40.5
 polymarketNo: 59.5
-polymarketVolume: 9787
-polymarketUrl: "https://polymarket.com/event/will-chinas-annual-inflation-in-2026-be-between-1pt1-and-1pt5"
+polymarketVolume: 9680
+polymarketUrl: "https://polymarket.com/event/will-the-july-2026-unemployment-rate-be-4pt3-20260702221258032"
 ---
 
 ## Current Odds
@@ -27,7 +27,7 @@ polymarketUrl: "https://polymarket.com/event/will-chinas-annual-inflation-in-202
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will China's annual inflation in 2026 be between 1.1% and 1.5%?"?
+### What are the current odds for "Will the July 2026 unemployment rate be 4.3%?"?
 
 As of July 31, 2026, Polymarket prices YES at 40.5%.
 

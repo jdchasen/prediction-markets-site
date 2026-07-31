@@ -3,7 +3,7 @@ title: "Will Cruz Azul win the 2026 Liga MX Apertura?"
 description: "Will Cruz Azul win the 2026 Liga MX Apertura? Odds: 19.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Cruz Azul win the 2026 Liga MX Apertura?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-07-31
 expiryDate: 2026-12-13
 tags: ["politics", "polymarket"]

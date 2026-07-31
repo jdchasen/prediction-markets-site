@@ -3,7 +3,7 @@ title: "Will Andy Ogles be the TN-05 Republican nominee?"
 description: "Will Andy Ogles be the TN-05 Republican nominee? Odds: 74.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Andy Ogles be the TN-05 Republican nominee?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-07-31
 expiryDate: 2026-08-06
 tags: ["politics", "polymarket"]

@@ -1,15 +1,15 @@
 ---
 title: "Will the Boston Red Sox have the longest winning streak during the 2026 MLB regular season?"
-description: "Will the Boston Red Sox have the longest winning streak during the 2026 MLB regular season? Odds: 94.2% YES on Polymarket. See live prices and trade this mar..."
+description: "Will the Boston Red Sox have the longest winning streak during the 2026 MLB regular season? Odds: 94.5% YES on Polymarket. See live prices and trade this mar..."
 marketQuestion: "Will the Boston Red Sox have the longest winning streak during the 2026 MLB regular season?"
 category: "sports"
 status: "active"
 lastUpdated: 2026-07-31
 expiryDate: 2026-09-28
 tags: ["polymarket", "sports"]
-polymarketYes: 94.2
-polymarketNo: 5.8
-polymarketVolume: 9851
+polymarketYes: 94.5
+polymarketNo: 5.5
+polymarketVolume: 9879
 polymarketUrl: "https://polymarket.com/event/will-the-boston-red-sox-have-the-longest-winning-streak-during-the-2026-mlb-regular-season"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-boston-red-sox-have-the-lo
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 94.2% | 5.8% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 94.5% | 5.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-boston-red-sox-have-the-lo
 
 ### What are the current odds for "Will the Boston Red Sox have the longest winning streak during the 2026 MLB regular season?"?
 
-As of July 31, 2026, Polymarket prices YES at 94.2%.
+As of July 31, 2026, Polymarket prices YES at 94.5%.
 
 ### Where can I trade on this prediction market?
 

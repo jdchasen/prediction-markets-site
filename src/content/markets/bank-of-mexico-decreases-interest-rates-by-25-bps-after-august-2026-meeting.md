@@ -1,14 +1,14 @@
 ---
 title: "Bank of Mexico decreases interest rates by 25 bps after August 2026 meeting?"
-description: "Bank of Mexico decreases interest rates by 25 bps after August 2026 meeting? Odds: 2.1% YES on Polymarket. See live prices and trade this market."
+description: "Bank of Mexico decreases interest rates by 25 bps after August 2026 meeting? Odds: 2.3% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Bank of Mexico decreases interest rates by 25 bps after August 2026 meeting?"
 category: "economics"
 status: "active"
 lastUpdated: 2026-07-31
 expiryDate: 2026-08-06
 tags: ["economics", "interest-rates", "polymarket"]
-polymarketYes: 2.1
-polymarketNo: 97.9
+polymarketYes: 2.3
+polymarketNo: 97.7
 polymarketVolume: 9730
 polymarketUrl: "https://polymarket.com/event/bank-of-mexico-decreases-interest-rates-by-25-bps-after-august-2026-meeting"
 ---
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/bank-of-mexico-decreases-interest-r
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 2.1% | 97.9% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 2.3% | 97.7% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
+- [Will there be no change in Fed interest rates after the October 2026 meeting?](/odds/will-there-be-no-change-in-fed-interest-rates-after-the-october-2026-meeting) — 68% YES
 - [Will the Fed decrease interest rates by 50+ bps after the October 2026 meeting?](/odds/will-the-fed-decrease-interest-rates-by-50-bps-after-the-october-2026-meeting) — 2% YES
-- [Will Japan's core-core CPI increase by less than or equal to 1.9% in 2026?](/odds/will-japans-core-core-cpi-increase-by-less-than-or-equal-to-19-in-2026) — 35% YES
-- [Will annual inflation be 3.8% in July?](/odds/will-annual-inflation-be-38-in-july) — 1% YES
+- [Will Japan's core-core CPI increase by less than or equal to 1.9% in 2026?](/odds/will-japans-core-core-cpi-increase-by-less-than-or-equal-to-19-in-2026) — 36% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Bank of Mexico decreases interest rates by 25 bps after August 2026 meeting?"?
 
-As of July 31, 2026, Polymarket prices YES at 2.1%.
+As of July 31, 2026, Polymarket prices YES at 2.3%.
 
 ### Where can I trade on this prediction market?
 

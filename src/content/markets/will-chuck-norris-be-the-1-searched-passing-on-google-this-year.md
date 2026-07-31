@@ -3,7 +3,7 @@ title: "Will Chuck Norris be the #1 searched passing on Google this year?"
 description: "Will Chuck Norris be the #1 searched passing on Google this year? Odds: 19.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Chuck Norris be the #1 searched passing on Google this year?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-07-31
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]

@@ -3,7 +3,7 @@ title: "Will Debbie Wasserman Schultz be the Democratic nominee for FL-20?"
 description: "Will Debbie Wasserman Schultz be the Democratic nominee for FL-20? Odds: 73.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Debbie Wasserman Schultz be the Democratic nominee for FL-20?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-07-31
 expiryDate: 2026-08-18
 tags: ["politics", "polymarket"]

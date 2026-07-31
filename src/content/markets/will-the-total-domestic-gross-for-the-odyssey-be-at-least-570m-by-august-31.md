@@ -1,23 +1,23 @@
 ---
-title: "Will the Democratic Party win the AR-01 House seat?"
-description: "Will the Democratic Party win the AR-01 House seat? Odds: 1.6% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will the Democratic Party win the AR-01 House seat?"
+title: "Will the total domestic gross for The Odyssey be at least 570m by August 31?"
+description: "Will the total domestic gross for The Odyssey be at least 570m by August 31? Odds: 27.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will the total domestic gross for The Odyssey be at least 570m by August 31?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-07-31
-expiryDate: 2026-11-03
+expiryDate: 2026-08-31
 tags: ["politics", "polymarket"]
-polymarketYes: 1.6
-polymarketNo: 98.4
-polymarketVolume: 9882
-polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-ar-01-house-seat"
+polymarketYes: 27.5
+polymarketNo: 72.5
+polymarketVolume: 9836
+polymarketUrl: "https://polymarket.com/event/will-the-total-domestic-gross-for-the-odyssey-be-greater-than-570m-by-august-31-20260724150841342"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 1.6% | 98.4% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 27.5% | 72.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-a
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will the Democratic Party win the AR-01 House seat?"?
+### What are the current odds for "Will the total domestic gross for The Odyssey be at least 570m by August 31?"?
 
-As of July 31, 2026, Polymarket prices YES at 1.6%.
+As of July 31, 2026, Polymarket prices YES at 27.5%.
 
 ### Where can I trade on this prediction market?
 

@@ -1,15 +1,15 @@
 ---
 title: "Will Japan's core-core CPI increase by less than or equal to 1.9% in 2026?"
-description: "Will Japan's core-core CPI increase by less than or equal to 1.9% in 2026? Odds: 35.0% YES on Polymarket. See live prices and trade this market."
+description: "Will Japan's core-core CPI increase by less than or equal to 1.9% in 2026? Odds: 35.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Japan's core-core CPI increase by less than or equal to 1.9% in 2026?"
 category: "economics"
 status: "active"
 lastUpdated: 2026-07-31
 expiryDate: 2027-02-12
 tags: ["economics", "polymarket"]
-polymarketYes: 35.0
-polymarketNo: 65.0
-polymarketVolume: 9924
+polymarketYes: 35.5
+polymarketNo: 64.5
+polymarketVolume: 9944
 polymarketUrl: "https://polymarket.com/event/will-japans-core-core-cpi-increase-by-less-than-or-equal-to-1pt9-in-2026-20260617223730870"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-japans-core-core-cpi-increase-
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 35.0% | 65.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 35.5% | 64.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
+- [Will there be no change in Fed interest rates after the October 2026 meeting?](/odds/will-there-be-no-change-in-fed-interest-rates-after-the-october-2026-meeting) — 68% YES
 - [Will the Fed decrease interest rates by 50+ bps after the October 2026 meeting?](/odds/will-the-fed-decrease-interest-rates-by-50-bps-after-the-october-2026-meeting) — 2% YES
-- [Will annual inflation be 3.8% in July?](/odds/will-annual-inflation-be-38-in-july) — 1% YES
-- [Will Japan Q2 GDP growth (annualized) be between 0.8% and 1.6%?](/odds/will-japan-q2-gdp-growth-annualized-be-between-08-and-16) — 24% YES
+- [Will China's annual inflation in 2026 be between 1.1% and 1.5%?](/odds/will-chinas-annual-inflation-in-2026-be-between-11-and-15) — 40% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Japan's core-core CPI increase by less than or equal to 1.9% in 2026?"?
 
-As of July 31, 2026, Polymarket prices YES at 35.0%.
+As of July 31, 2026, Polymarket prices YES at 35.5%.
 
 ### Where can I trade on this prediction market?
 

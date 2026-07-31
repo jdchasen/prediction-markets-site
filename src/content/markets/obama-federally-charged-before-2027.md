@@ -3,7 +3,7 @@ title: "Obama federally charged before 2027?"
 description: "Obama federally charged before 2027? Odds: 4.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Obama federally charged before 2027?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-07-31
 expiryDate: 2026-12-31
 tags: ["federal-reserve", "politics", "polymarket"]

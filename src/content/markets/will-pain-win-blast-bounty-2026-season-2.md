@@ -3,7 +3,7 @@ title: "Will paiN Win BLAST Bounty 2026 Season 2?"
 description: "Will paiN Win BLAST Bounty 2026 Season 2? Odds: 2.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will paiN Win BLAST Bounty 2026 Season 2?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-07-31
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 2.8

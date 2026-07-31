@@ -1,23 +1,23 @@
 ---
-title: "Will the Democratic Party win the AR-01 House seat?"
-description: "Will the Democratic Party win the AR-01 House seat? Odds: 1.6% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will the Democratic Party win the AR-01 House seat?"
+title: "Will Rebeca Grynspan be the next Secretary-General of the United Nations?"
+description: "Will Rebeca Grynspan be the next Secretary-General of the United Nations? Odds: 40.0% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Rebeca Grynspan be the next Secretary-General of the United Nations?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-07-31
-expiryDate: 2026-11-03
+expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 1.6
-polymarketNo: 98.4
-polymarketVolume: 9882
-polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-ar-01-house-seat"
+polymarketYes: 40.0
+polymarketNo: 60.0
+polymarketVolume: 9852
+polymarketUrl: "https://polymarket.com/event/will-rebeca-grynspan-be-the-next-secretary-general-of-the-united-nations-979"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 1.6% | 98.4% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 40.0% | 60.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-a
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will the Democratic Party win the AR-01 House seat?"?
+### What are the current odds for "Will Rebeca Grynspan be the next Secretary-General of the United Nations?"?
 
-As of July 31, 2026, Polymarket prices YES at 1.6%.
+As of July 31, 2026, Polymarket prices YES at 40.0%.
 
 ### Where can I trade on this prediction market?
 

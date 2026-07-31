@@ -3,7 +3,7 @@ title: "Will Darline Graham Nordone win the first round of the South Carolina Re
 description: "Will Darline Graham Nordone win the first round of the South Carolina Republican Senate special primary? Odds: 77.0% YES on Polymarket. See live prices and t..."
 marketQuestion: "Will Darline Graham Nordone win the first round of the South Carolina Republican Senate special primary?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-07-31
 expiryDate: 2026-08-11
 tags: ["politics", "polymarket"]

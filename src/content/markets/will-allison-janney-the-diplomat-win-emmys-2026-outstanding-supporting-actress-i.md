@@ -1,14 +1,14 @@
 ---
 title: "Will Allison Janney – “The Diplomat” win Emmys 2026: Outstanding supporting actress in a drama series?"
-description: "Will Allison Janney – “The Diplomat” win Emmys 2026: Outstanding supporting actress in a drama series? Odds: 4.4% YES on Polymarket. See live prices and trad..."
+description: "Will Allison Janney – “The Diplomat” win Emmys 2026: Outstanding supporting actress in a drama series? Odds: 4.5% YES on Polymarket. See live prices and trad..."
 marketQuestion: "Will Allison Janney – “The Diplomat” win Emmys 2026: Outstanding supporting actress in a drama series?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-07-31
 expiryDate: 2026-09-14
 tags: ["entertainment", "politics", "polymarket"]
-polymarketYes: 4.4
-polymarketNo: 95.6
+polymarketYes: 4.5
+polymarketNo: 95.5
 polymarketVolume: 9919
 polymarketUrl: "https://polymarket.com/event/will-allison-janney-the-diplomat-win-emmys-2026-outstanding-supporting-actress-in-a-drama-series-20260709174230320"
 ---
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-allison-janney-the-diplomat-wi
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 4.4% | 95.6% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 4.5% | 95.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Eric Trump win the 2028 Republican presidential nomination?](/odds/will-eric-trump-win-the-2028-republican-presidential-nomination) — 0% YES
 - [Will Erling Haaland win the 2026 Ballon d'Or?](/odds/will-erling-haaland-win-the-2026-ballon-dor) — 0% YES
-- [NATO x Russia military clash by December 31, 2026?](/odds/nato-x-russia-military-clash-by-december-31-2026) — 28% YES
+- [Will Masoud Pezeshkian be head of state in Iran end of 2026?](/odds/will-masoud-pezeshkian-be-head-of-state-in-iran-end-of-2026) — 0% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Allison Janney – “The Diplomat” win Emmys 2026: Outstanding supporting actress in a drama series?"?
 
-As of July 31, 2026, Polymarket prices YES at 4.4%.
+As of July 31, 2026, Polymarket prices YES at 4.5%.
 
 ### Where can I trade on this prediction market?
 
