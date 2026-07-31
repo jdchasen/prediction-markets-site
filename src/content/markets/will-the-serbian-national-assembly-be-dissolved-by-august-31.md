@@ -3,8 +3,8 @@ title: "Will the Serbian National Assembly be dissolved by August 31?"
 description: "Will the Serbian National Assembly be dissolved by August 31? Odds: 24.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Serbian National Assembly be dissolved by August 31?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-07-30
+status: "settled"
+lastUpdated: 2026-07-31
 expiryDate: 2026-08-31
 tags: ["politics", "polymarket"]
 polymarketYes: 24.0

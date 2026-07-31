@@ -4,12 +4,12 @@ description: "Will Erling Haaland win the 2026 Ballon d'Or? Odds: 0.4% YES on Po
 marketQuestion: "Will Erling Haaland win the 2026 Ballon d'Or?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-07-30
+lastUpdated: 2026-07-31
 expiryDate: 2026-10-31
 tags: ["politics", "polymarket"]
 polymarketYes: 0.4
 polymarketNo: 99.6
-polymarketVolume: 989332
+polymarketVolume: 995117
 polymarketUrl: "https://polymarket.com/event/will-erling-haaland-win-the-2026-ballon-dor"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-erling-haaland-win-the-2026-ba
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.4% | 99.6% | $989K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.4% | 99.6% | $995K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Eric Trump win the 2028 Republican presidential nomination?](/odds/will-eric-trump-win-the-2028-republican-presidential-nomination) — 0% YES
+- [NATO x Russia military clash by December 31, 2026?](/odds/nato-x-russia-military-clash-by-december-31-2026) — 28% YES
 - [Will Masoud Pezeshkian be head of state in Iran end of 2026?](/odds/will-masoud-pezeshkian-be-head-of-state-in-iran-end-of-2026) — 0% YES
-- [Will Trump be impeached by end of 2026?](/odds/will-trump-be-impeached-by-end-of-2026) — 2% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Erling Haaland win the 2026 Ballon d'Or?"?
 
-As of July 30, 2026, Polymarket prices YES at 0.4%.
+As of July 31, 2026, Polymarket prices YES at 0.4%.
 
 ### Where can I trade on this prediction market?
 

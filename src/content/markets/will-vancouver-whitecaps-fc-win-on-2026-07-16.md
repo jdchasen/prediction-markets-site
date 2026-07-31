@@ -1,23 +1,23 @@
 ---
-title: "Will Truist fail by end of 2026?"
-description: "Will Truist fail by end of 2026? Odds: 1.9% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Truist fail by end of 2026?"
+title: "Will Vancouver Whitecaps FC win on 2026-07-16?"
+description: "Will Vancouver Whitecaps FC win on 2026-07-16? Odds: 37.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Vancouver Whitecaps FC win on 2026-07-16?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-07-31
-expiryDate: 2026-12-31
-tags: ["ai", "politics", "polymarket"]
-polymarketYes: 1.9
-polymarketNo: 98.1
-polymarketVolume: 9793
-polymarketUrl: "https://polymarket.com/event/will-truist-fail-by-end-of-2026"
+expiryDate: 2026-10-07
+tags: ["politics", "polymarket"]
+polymarketYes: 37.5
+polymarketNo: 62.5
+polymarketVolume: 99382
+polymarketUrl: "https://polymarket.com/event/mls-chi-vwh-2026-07-16-vwh"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 1.9% | 98.1% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 37.5% | 62.5% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-truist-fail-by-end-of-2026"
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Truist fail by end of 2026?"?
+### What are the current odds for "Will Vancouver Whitecaps FC win on 2026-07-16?"?
 
-As of July 31, 2026, Polymarket prices YES at 1.9%.
+As of July 31, 2026, Polymarket prices YES at 37.5%.
 
 ### Where can I trade on this prediction market?
 

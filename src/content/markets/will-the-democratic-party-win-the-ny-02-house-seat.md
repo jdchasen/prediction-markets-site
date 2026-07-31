@@ -1,23 +1,23 @@
 ---
-title: "Will Yanaki Stoilov win the next Bulgarian presidential election?"
-description: "Will Yanaki Stoilov win the next Bulgarian presidential election? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Yanaki Stoilov win the next Bulgarian presidential election?"
+title: "Will the Democratic Party win the NY-02 House seat?"
+description: "Will the Democratic Party win the NY-02 House seat? Odds: 12.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will the Democratic Party win the NY-02 House seat?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-07-31
-expiryDate: 2026-11-30
-tags: ["elections", "politics", "polymarket"]
-polymarketYes: 0.1
-polymarketNo: 99.9
-polymarketVolume: 9837
-polymarketUrl: "https://polymarket.com/event/will-yanaki-stoilov-win-the-next-bulgarian-presidential-election"
+expiryDate: 2026-11-03
+tags: ["politics", "polymarket"]
+polymarketYes: 12.5
+polymarketNo: 87.5
+polymarketVolume: 9927
+polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-ny-02-house-seat"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.1% | 99.9% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 12.5% | 87.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-yanaki-stoilov-win-the-next-bu
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Yanaki Stoilov win the next Bulgarian presidential election?"?
+### What are the current odds for "Will the Democratic Party win the NY-02 House seat?"?
 
-As of July 31, 2026, Polymarket prices YES at 0.1%.
+As of July 31, 2026, Polymarket prices YES at 12.5%.
 
 ### Where can I trade on this prediction market?
 

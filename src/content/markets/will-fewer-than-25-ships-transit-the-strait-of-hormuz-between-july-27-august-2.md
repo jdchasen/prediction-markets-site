@@ -3,8 +3,8 @@ title: "Will fewer than 25 ships transit the Strait of Hormuz between July 27-Au
 description: "Will fewer than 25 ships transit the Strait of Hormuz between July 27-August 2? Odds: 1.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will fewer than 25 ships transit the Strait of Hormuz between July 27-August 2?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-07-30
+status: "settled"
+lastUpdated: 2026-07-31
 expiryDate: 2026-08-02
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 1.8

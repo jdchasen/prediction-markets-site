@@ -3,8 +3,8 @@ title: "Will the Bank of Japan announce a 50+ bps decrease at the September 2026
 description: "Will the Bank of Japan announce a 50+ bps decrease at the September 2026 meeting? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Bank of Japan announce a 50+ bps decrease at the September 2026 meeting?"
 category: "economics"
-status: "active"
-lastUpdated: 2026-07-30
+status: "settled"
+lastUpdated: 2026-07-31
 expiryDate: 2026-09-18
 tags: ["economics", "polymarket"]
 polymarketYes: 0.1

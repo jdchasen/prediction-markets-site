@@ -1,14 +1,14 @@
 ---
 title: "Will Michelle Bachelet be the next Secretary-General of the United Nations?"
-description: "Will Michelle Bachelet be the next Secretary-General of the United Nations? Odds: 6.7% YES on Polymarket. See live prices and trade this market."
+description: "Will Michelle Bachelet be the next Secretary-General of the United Nations? Odds: 6.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Michelle Bachelet be the next Secretary-General of the United Nations?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-07-30
+lastUpdated: 2026-07-31
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 6.7
-polymarketNo: 93.3
+polymarketYes: 6.0
+polymarketNo: 94.0
 polymarketVolume: 9816
 polymarketUrl: "https://polymarket.com/event/will-michelle-bachelet-be-the-next-secretary-general-of-the-united-nations-126"
 ---
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-michelle-bachelet-be-the-next-
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 6.7% | 93.3% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 6.0% | 94.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Eric Trump win the 2028 Republican presidential nomination?](/odds/will-eric-trump-win-the-2028-republican-presidential-nomination) — 0% YES
-- [Will Masoud Pezeshkian be head of state in Iran end of 2026?](/odds/will-masoud-pezeshkian-be-head-of-state-in-iran-end-of-2026) — 0% YES
 - [Will Erling Haaland win the 2026 Ballon d'Or?](/odds/will-erling-haaland-win-the-2026-ballon-dor) — 0% YES
+- [NATO x Russia military clash by December 31, 2026?](/odds/nato-x-russia-military-clash-by-december-31-2026) — 28% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Michelle Bachelet be the next Secretary-General of the United Nations?"?
 
-As of July 30, 2026, Polymarket prices YES at 6.7%.
+As of July 31, 2026, Polymarket prices YES at 6.0%.
 
 ### Where can I trade on this prediction market?
 

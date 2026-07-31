@@ -3,8 +3,8 @@ title: "Will Moonshot have the best Code Arena | WebDev AI at the end of Septemb
 description: "Will Moonshot have the best Code Arena | WebDev AI at the end of September 2026? Odds: 7.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Moonshot have the best Code Arena | WebDev AI at the end of September 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-07-30
+status: "settled"
+lastUpdated: 2026-07-31
 expiryDate: 2026-09-30
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 7.8

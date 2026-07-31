@@ -1,23 +1,23 @@
 ---
-title: "Will Yanaki Stoilov win the next Bulgarian presidential election?"
-description: "Will Yanaki Stoilov win the next Bulgarian presidential election? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Yanaki Stoilov win the next Bulgarian presidential election?"
+title: "Will Darline Graham Nordone win the first round of the South Carolina Republican Senate special primary?"
+description: "Will Darline Graham Nordone win the first round of the South Carolina Republican Senate special primary? Odds: 77.0% YES on Polymarket. See live prices and t..."
+marketQuestion: "Will Darline Graham Nordone win the first round of the South Carolina Republican Senate special primary?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-07-31
-expiryDate: 2026-11-30
-tags: ["elections", "politics", "polymarket"]
-polymarketYes: 0.1
-polymarketNo: 99.9
-polymarketVolume: 9837
-polymarketUrl: "https://polymarket.com/event/will-yanaki-stoilov-win-the-next-bulgarian-presidential-election"
+expiryDate: 2026-08-11
+tags: ["politics", "polymarket"]
+polymarketYes: 77.0
+polymarketNo: 23.0
+polymarketVolume: 9977
+polymarketUrl: "https://polymarket.com/event/will-darline-graham-win-the-south-carolina-republican-senate-special-primary-20260721172033651"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.1% | 99.9% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 77.0% | 23.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-yanaki-stoilov-win-the-next-bu
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Yanaki Stoilov win the next Bulgarian presidential election?"?
+### What are the current odds for "Will Darline Graham Nordone win the first round of the South Carolina Republican Senate special primary?"?
 
-As of July 31, 2026, Polymarket prices YES at 0.1%.
+As of July 31, 2026, Polymarket prices YES at 77.0%.
 
 ### Where can I trade on this prediction market?
 

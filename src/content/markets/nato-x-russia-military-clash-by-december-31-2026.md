@@ -1,35 +1,35 @@
 ---
-title: "Will Truist fail by end of 2026?"
-description: "Will Truist fail by end of 2026? Odds: 1.9% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Truist fail by end of 2026?"
+title: "NATO x Russia military clash by December 31, 2026?"
+description: "NATO x Russia military clash by December 31, 2026? Odds: 27.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "NATO x Russia military clash by December 31, 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-07-31
 expiryDate: 2026-12-31
-tags: ["ai", "politics", "polymarket"]
-polymarketYes: 1.9
-polymarketNo: 98.1
-polymarketVolume: 9793
-polymarketUrl: "https://polymarket.com/event/will-truist-fail-by-end-of-2026"
+tags: ["politics", "polymarket"]
+polymarketYes: 27.5
+polymarketNo: 72.5
+polymarketVolume: 993377
+polymarketUrl: "https://polymarket.com/event/nato-x-russia-military-clash-by-december-31-2026-244-538-582"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 1.9% | 98.1% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 27.5% | 72.5% | $993K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Eric Trump win the 2028 Republican presidential nomination?](/odds/will-eric-trump-win-the-2028-republican-presidential-nomination) — 0% YES
 - [Will Erling Haaland win the 2026 Ballon d'Or?](/odds/will-erling-haaland-win-the-2026-ballon-dor) — 0% YES
-- [NATO x Russia military clash by December 31, 2026?](/odds/nato-x-russia-military-clash-by-december-31-2026) — 28% YES
+- [Will Masoud Pezeshkian be head of state in Iran end of 2026?](/odds/will-masoud-pezeshkian-be-head-of-state-in-iran-end-of-2026) — 0% YES
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Truist fail by end of 2026?"?
+### What are the current odds for "NATO x Russia military clash by December 31, 2026?"?
 
-As of July 31, 2026, Polymarket prices YES at 1.9%.
+As of July 31, 2026, Polymarket prices YES at 27.5%.
 
 ### Where can I trade on this prediction market?
 

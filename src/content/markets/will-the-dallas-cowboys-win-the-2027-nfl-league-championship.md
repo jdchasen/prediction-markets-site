@@ -1,15 +1,15 @@
 ---
 title: "Will the Dallas Cowboys win the 2027 NFL league championship?"
-description: "Will the Dallas Cowboys win the 2027 NFL league championship? Odds: 3.5% YES on Polymarket. See live prices and trade this market."
+description: "Will the Dallas Cowboys win the 2027 NFL league championship? Odds: 3.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Dallas Cowboys win the 2027 NFL league championship?"
 category: "sports"
 status: "active"
-lastUpdated: 2026-07-30
+lastUpdated: 2026-07-31
 expiryDate: 2027-03-31
 tags: ["polymarket", "sports"]
-polymarketYes: 3.5
-polymarketNo: 96.5
-polymarketVolume: 997588
+polymarketYes: 3.7
+polymarketNo: 96.3
+polymarketVolume: 998133
 polymarketUrl: "https://polymarket.com/event/will-the-dallas-cowboys-win-the-2027-nfl-league-championship"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-dallas-cowboys-win-the-202
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 3.5% | 96.5% | $998K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 3.7% | 96.3% | $998K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-dallas-cowboys-win-the-202
 
 ### What are the current odds for "Will the Dallas Cowboys win the 2027 NFL league championship?"?
 
-As of July 30, 2026, Polymarket prices YES at 3.5%.
+As of July 31, 2026, Polymarket prices YES at 3.7%.
 
 ### Where can I trade on this prediction market?
 

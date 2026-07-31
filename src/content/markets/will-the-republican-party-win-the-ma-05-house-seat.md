@@ -1,14 +1,14 @@
 ---
 title: "Will the Republican Party win the MA-05 House seat?"
-description: "Will the Republican Party win the MA-05 House seat? Odds: 5.2% YES on Polymarket. See live prices and trade this market."
+description: "Will the Republican Party win the MA-05 House seat? Odds: 4.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Republican Party win the MA-05 House seat?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-07-30
+lastUpdated: 2026-07-31
 expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
-polymarketYes: 5.2
-polymarketNo: 94.8
+polymarketYes: 4.9
+polymarketNo: 95.2
 polymarketVolume: 9977
 polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-ma-05-house-seat"
 ---
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-m
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 5.2% | 94.8% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 4.9% | 95.2% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Eric Trump win the 2028 Republican presidential nomination?](/odds/will-eric-trump-win-the-2028-republican-presidential-nomination) — 0% YES
-- [Will Masoud Pezeshkian be head of state in Iran end of 2026?](/odds/will-masoud-pezeshkian-be-head-of-state-in-iran-end-of-2026) — 0% YES
 - [Will Erling Haaland win the 2026 Ballon d'Or?](/odds/will-erling-haaland-win-the-2026-ballon-dor) — 0% YES
+- [NATO x Russia military clash by December 31, 2026?](/odds/nato-x-russia-military-clash-by-december-31-2026) — 28% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will the Republican Party win the MA-05 House seat?"?
 
-As of July 30, 2026, Polymarket prices YES at 5.2%.
+As of July 31, 2026, Polymarket prices YES at 4.9%.
 
 ### Where can I trade on this prediction market?
 

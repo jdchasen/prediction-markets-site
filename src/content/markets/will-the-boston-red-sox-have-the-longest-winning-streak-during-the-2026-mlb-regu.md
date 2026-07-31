@@ -1,23 +1,23 @@
 ---
-title: "Will the Seattle Kraken be named the 2026-27 NHL Stanley Cup Champion?"
-description: "Will the Seattle Kraken be named the 2026-27 NHL Stanley Cup Champion? Odds: 0.4% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will the Seattle Kraken be named the 2026-27 NHL Stanley Cup Champion?"
+title: "Will the Boston Red Sox have the longest winning streak during the 2026 MLB regular season?"
+description: "Will the Boston Red Sox have the longest winning streak during the 2026 MLB regular season? Odds: 94.2% YES on Polymarket. See live prices and trade this mar..."
+marketQuestion: "Will the Boston Red Sox have the longest winning streak during the 2026 MLB regular season?"
 category: "sports"
 status: "active"
 lastUpdated: 2026-07-31
-expiryDate: 2027-07-01
+expiryDate: 2026-09-28
 tags: ["polymarket", "sports"]
-polymarketYes: 0.4
-polymarketNo: 99.7
-polymarketVolume: 9915
-polymarketUrl: "https://polymarket.com/event/will-the-seattle-kraken-be-named-the-2026-27-nhl-stanley-cup-champion-20260612185657096"
+polymarketYes: 94.2
+polymarketNo: 5.8
+polymarketVolume: 9851
+polymarketUrl: "https://polymarket.com/event/will-the-boston-red-sox-have-the-longest-winning-streak-during-the-2026-mlb-regular-season"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.4% | 99.7% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 94.2% | 5.8% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-the-seattle-kraken-be-named-th
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will the Seattle Kraken be named the 2026-27 NHL Stanley Cup Champion?"?
+### What are the current odds for "Will the Boston Red Sox have the longest winning streak during the 2026 MLB regular season?"?
 
-As of July 31, 2026, Polymarket prices YES at 0.4%.
+As of July 31, 2026, Polymarket prices YES at 94.2%.
 
 ### Where can I trade on this prediction market?
 

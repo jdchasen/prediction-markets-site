@@ -3,8 +3,8 @@ title: "Will Eric Chung be the Democratic Nominee for MI-10?"
 description: "Will Eric Chung be the Democratic Nominee for MI-10? Odds: 16.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Eric Chung be the Democratic Nominee for MI-10?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-07-30
+status: "settled"
+lastUpdated: 2026-07-31
 expiryDate: 2026-08-04
 tags: ["politics", "polymarket"]
 polymarketYes: 16.0

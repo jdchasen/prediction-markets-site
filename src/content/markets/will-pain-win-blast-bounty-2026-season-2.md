@@ -1,23 +1,22 @@
 ---
-title: "Will Truist fail by end of 2026?"
-description: "Will Truist fail by end of 2026? Odds: 1.9% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Truist fail by end of 2026?"
+title: "Will paiN Win BLAST Bounty 2026 Season 2?"
+description: "Will paiN Win BLAST Bounty 2026 Season 2? Odds: 2.8% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will paiN Win BLAST Bounty 2026 Season 2?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-07-31
-expiryDate: 2026-12-31
 tags: ["ai", "politics", "polymarket"]
-polymarketYes: 1.9
-polymarketNo: 98.1
-polymarketVolume: 9793
-polymarketUrl: "https://polymarket.com/event/will-truist-fail-by-end-of-2026"
+polymarketYes: 2.8
+polymarketNo: 97.2
+polymarketVolume: 98827
+polymarketUrl: "https://polymarket.com/event/will-pain-win-blast-bounty-2026-season-2-20260709030045128"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 1.9% | 98.1% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 2.8% | 97.2% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +26,9 @@ polymarketUrl: "https://polymarket.com/event/will-truist-fail-by-end-of-2026"
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Truist fail by end of 2026?"?
+### What are the current odds for "Will paiN Win BLAST Bounty 2026 Season 2?"?
 
-As of July 31, 2026, Polymarket prices YES at 1.9%.
+As of July 31, 2026, Polymarket prices YES at 2.8%.
 
 ### Where can I trade on this prediction market?
 

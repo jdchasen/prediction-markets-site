@@ -1,23 +1,23 @@
 ---
-title: "Will Andy Beshear announce a Presidential run before 2027?"
-description: "Will Andy Beshear announce a Presidential run before 2027? Odds: 9.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Andy Beshear announce a Presidential run before 2027?"
+title: "Will Robert F. Kennedy Jr. be the next to leave the Trump Cabinet before 2027?"
+description: "Will Robert F. Kennedy Jr. be the next to leave the Trump Cabinet before 2027? Odds: 32.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Robert F. Kennedy Jr. be the next to leave the Trump Cabinet before 2027?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-07-31
 expiryDate: 2026-12-31
-tags: ["politics", "polymarket"]
-polymarketYes: 9.5
-polymarketNo: 90.5
+tags: ["politics", "polymarket", "trump"]
+polymarketYes: 32.5
+polymarketNo: 67.5
 polymarketVolume: 9816
-polymarketUrl: "https://polymarket.com/event/will-andy-beshear-announce-a-presidential-run-before-2027"
+polymarketUrl: "https://polymarket.com/event/will-robert-f-kennedy-jr-be-the-next-to-leave-the-trump-cabinet-before-2027-947"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 9.5% | 90.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 32.5% | 67.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-andy-beshear-announce-a-presid
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Andy Beshear announce a Presidential run before 2027?"?
+### What are the current odds for "Will Robert F. Kennedy Jr. be the next to leave the Trump Cabinet before 2027?"?
 
-As of July 31, 2026, Polymarket prices YES at 9.5%.
+As of July 31, 2026, Polymarket prices YES at 32.5%.
 
 ### Where can I trade on this prediction market?
 
@@ -37,6 +37,6 @@ You can trade this market on [Polymarket](https://polymarket.us/1762?utm_source=
 
 ## Learn More
 
+- [Trump-Xi Meeting Predictions: What Will He Say?](/blog/trump-xi-meeting-predictions-what-will-he-say)
 - [Will Oil Hit $100? March Crude Prediction Market Odds](/blog/will-oil-hit-100-march-crude-prediction-market-odds)
-- [Will MicroStrategy Sell Bitcoin? Market Odds](/blog/will-microstrategy-sell-bitcoin-market-odds)
 

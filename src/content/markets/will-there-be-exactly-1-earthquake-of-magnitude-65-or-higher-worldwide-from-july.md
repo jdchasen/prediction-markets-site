@@ -3,8 +3,8 @@ title: "Will there be exactly 1 earthquake of magnitude 6.5 or higher worldwide 
 description: "Will there be exactly 1 earthquake of magnitude 6.5 or higher worldwide from July 27 - August 2? Odds: 68.0% YES on Polymarket. See live prices and trade thi..."
 marketQuestion: "Will there be exactly 1 earthquake of magnitude 6.5 or higher worldwide from July 27 - August 2?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-07-30
+status: "settled"
+lastUpdated: 2026-07-31
 expiryDate: 2026-08-02
 tags: ["politics", "polymarket"]
 polymarketYes: 68.0

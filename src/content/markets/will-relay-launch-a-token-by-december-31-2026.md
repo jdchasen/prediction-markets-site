@@ -1,35 +1,35 @@
 ---
-title: "Will Loopscale launch a token by December 31, 2026?"
-description: "Will Loopscale launch a token by December 31, 2026? Odds: 27.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Loopscale launch a token by December 31, 2026?"
+title: "Will Relay launch a token by December 31, 2026?"
+description: "Will Relay launch a token by December 31, 2026? Odds: 11.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Relay launch a token by December 31, 2026?"
 category: "crypto"
 status: "active"
 lastUpdated: 2026-07-31
 expiryDate: 2027-01-01
 tags: ["crypto", "polymarket"]
-polymarketYes: 27.5
-polymarketNo: 72.5
-polymarketVolume: 98842
-polymarketUrl: "https://polymarket.com/event/will-loopscale-launch-a-token-by-december-31-2026"
+polymarketYes: 11.5
+polymarketNo: 88.5
+polymarketVolume: 9990
+polymarketUrl: "https://polymarket.com/event/will-relay-launch-a-token-by-december-31-2026"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 27.5% | 72.5% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 11.5% | 88.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will MetaMask launch a token by September 30, 2026?](/odds/will-metamask-launch-a-token-by-september-30-2026) — 2% YES
 - [Extended FDV above $500M one day after launch?](/odds/extended-fdv-above-500m-one-day-after-launch) — 20% YES
-- [Will Relay launch a token by December 31, 2026?](/odds/will-relay-launch-a-token-by-december-31-2026) — 12% YES
+- [Will Loopscale launch a token by December 31, 2026?](/odds/will-loopscale-launch-a-token-by-december-31-2026) — 28% YES
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Loopscale launch a token by December 31, 2026?"?
+### What are the current odds for "Will Relay launch a token by December 31, 2026?"?
 
-As of July 31, 2026, Polymarket prices YES at 27.5%.
+As of July 31, 2026, Polymarket prices YES at 11.5%.
 
 ### Where can I trade on this prediction market?
 

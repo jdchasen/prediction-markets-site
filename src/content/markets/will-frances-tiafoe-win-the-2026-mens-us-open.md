@@ -4,7 +4,7 @@ description: "Will Frances Tiafoe win the 2026 Men's US Open? Odds: 0.4% YES on 
 marketQuestion: "Will Frances Tiafoe win the 2026 Men's US Open?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-07-30
+lastUpdated: 2026-07-31
 expiryDate: 2026-09-13
 tags: ["politics", "polymarket"]
 polymarketYes: 0.4
@@ -22,14 +22,14 @@ polymarketUrl: "https://polymarket.com/event/will-frances-tiafoe-win-the-2026-me
 ## Related Markets
 
 - [Will Eric Trump win the 2028 Republican presidential nomination?](/odds/will-eric-trump-win-the-2028-republican-presidential-nomination) — 0% YES
-- [Will Masoud Pezeshkian be head of state in Iran end of 2026?](/odds/will-masoud-pezeshkian-be-head-of-state-in-iran-end-of-2026) — 0% YES
 - [Will Erling Haaland win the 2026 Ballon d'Or?](/odds/will-erling-haaland-win-the-2026-ballon-dor) — 0% YES
+- [NATO x Russia military clash by December 31, 2026?](/odds/nato-x-russia-military-clash-by-december-31-2026) — 28% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Frances Tiafoe win the 2026 Men's US Open?"?
 
-As of July 30, 2026, Polymarket prices YES at 0.4%.
+As of July 31, 2026, Polymarket prices YES at 0.4%.
 
 ### Where can I trade on this prediction market?
 

@@ -3,8 +3,8 @@ title: "Will annual inflation be 3.7% in July?"
 description: "Will annual inflation be 3.7% in July? Odds: 1.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will annual inflation be 3.7% in July?"
 category: "economics"
-status: "active"
-lastUpdated: 2026-07-30
+status: "settled"
+lastUpdated: 2026-07-31
 expiryDate: 2026-08-12
 tags: ["economics", "polymarket", "sports"]
 polymarketYes: 1.9
