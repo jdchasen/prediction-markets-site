@@ -3,8 +3,8 @@ title: "Will Google be the third-best AI lab at the end of September 2026?"
 description: "Will Google be the third-best AI lab at the end of September 2026? Odds: 29.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Google be the third-best AI lab at the end of September 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-07-31
+status: "settled"
+lastUpdated: 2026-08-01
 expiryDate: 2026-09-30
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 29.5

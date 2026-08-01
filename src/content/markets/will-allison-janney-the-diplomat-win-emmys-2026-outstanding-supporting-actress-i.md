@@ -3,8 +3,8 @@ title: "Will Allison Janney – “The Diplomat” win Emmys 2026: Outstanding s
 description: "Will Allison Janney – “The Diplomat” win Emmys 2026: Outstanding supporting actress in a drama series? Odds: 4.5% YES on Polymarket. See live prices and trad..."
 marketQuestion: "Will Allison Janney – “The Diplomat” win Emmys 2026: Outstanding supporting actress in a drama series?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-07-31
+status: "settled"
+lastUpdated: 2026-08-01
 expiryDate: 2026-09-14
 tags: ["entertainment", "politics", "polymarket"]
 polymarketYes: 4.5

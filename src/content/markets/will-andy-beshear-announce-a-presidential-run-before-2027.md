@@ -4,7 +4,7 @@ description: "Will Andy Beshear announce a Presidential run before 2027? Odds: 9
 marketQuestion: "Will Andy Beshear announce a Presidential run before 2027?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-07-31
+lastUpdated: 2026-08-01
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 9.5
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-andy-beshear-announce-a-presid
 
 ### What are the current odds for "Will Andy Beshear announce a Presidential run before 2027?"?
 
-As of July 31, 2026, Polymarket prices YES at 9.5%.
+As of August 01, 2026, Polymarket prices YES at 9.5%.
 
 ### Where can I trade on this prediction market?
 

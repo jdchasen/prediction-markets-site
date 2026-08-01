@@ -1,15 +1,15 @@
 ---
 title: "Will James Harden play for the Cleveland Cavaliers in 2026-27?"
-description: "Will James Harden play for the Cleveland Cavaliers in 2026-27? Odds: 94.3% YES on Polymarket. See live prices and trade this market."
+description: "Will James Harden play for the Cleveland Cavaliers in 2026-27? Odds: 94.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will James Harden play for the Cleveland Cavaliers in 2026-27?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-07-31
+lastUpdated: 2026-08-01
 expiryDate: 2026-10-31
 tags: ["politics", "polymarket"]
-polymarketYes: 94.3
-polymarketNo: 5.7
-polymarketVolume: 9928
+polymarketYes: 94.5
+polymarketNo: 5.5
+polymarketVolume: 9930
 polymarketUrl: "https://polymarket.com/event/will-james-harden-play-for-the-cleveland-cavaliers-in-2026-27-20260622161457156"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-james-harden-play-for-the-clev
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 94.3% | 5.7% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 94.5% | 5.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-james-harden-play-for-the-clev
 
 ### What are the current odds for "Will James Harden play for the Cleveland Cavaliers in 2026-27?"?
 
-As of July 31, 2026, Polymarket prices YES at 94.3%.
+As of August 01, 2026, Polymarket prices YES at 94.5%.
 
 ### Where can I trade on this prediction market?
 

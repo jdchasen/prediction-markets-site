@@ -1,14 +1,14 @@
 ---
 title: "Will Raquel Lyra win the Pernambuco Governor election?"
-description: "Will Raquel Lyra win the Pernambuco Governor election? Odds: 62.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Raquel Lyra win the Pernambuco Governor election? Odds: 61.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Raquel Lyra win the Pernambuco Governor election?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-07-31
+lastUpdated: 2026-08-01
 expiryDate: 2026-10-04
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 62.5
-polymarketNo: 37.5
+polymarketYes: 61.0
+polymarketNo: 39.0
 polymarketVolume: 9955
 polymarketUrl: "https://polymarket.com/event/will-raquel-lyra-win-the-pernambuco-governor-election-20260709143134927"
 ---
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-raquel-lyra-win-the-pernambuco
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 62.5% | 37.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 61.0% | 39.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-raquel-lyra-win-the-pernambuco
 
 ### What are the current odds for "Will Raquel Lyra win the Pernambuco Governor election?"?
 
-As of July 31, 2026, Polymarket prices YES at 62.5%.
+As of August 01, 2026, Polymarket prices YES at 61.0%.
 
 ### Where can I trade on this prediction market?
 

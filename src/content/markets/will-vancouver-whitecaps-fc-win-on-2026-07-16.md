@@ -3,8 +3,8 @@ title: "Will Vancouver Whitecaps FC win on 2026-07-16?"
 description: "Will Vancouver Whitecaps FC win on 2026-07-16? Odds: 37.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Vancouver Whitecaps FC win on 2026-07-16?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-07-31
+status: "settled"
+lastUpdated: 2026-08-01
 expiryDate: 2026-10-07
 tags: ["politics", "polymarket"]
 polymarketYes: 37.5

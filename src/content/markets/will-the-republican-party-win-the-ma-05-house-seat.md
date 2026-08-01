@@ -4,7 +4,7 @@ description: "Will the Republican Party win the MA-05 House seat? Odds: 4.9% YES
 marketQuestion: "Will the Republican Party win the MA-05 House seat?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-07-31
+lastUpdated: 2026-08-01
 expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
 polymarketYes: 4.9
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-m
 
 ### What are the current odds for "Will the Republican Party win the MA-05 House seat?"?
 
-As of July 31, 2026, Polymarket prices YES at 4.9%.
+As of August 01, 2026, Polymarket prices YES at 4.9%.
 
 ### Where can I trade on this prediction market?
 

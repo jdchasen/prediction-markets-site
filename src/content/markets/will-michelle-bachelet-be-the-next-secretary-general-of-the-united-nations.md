@@ -1,15 +1,15 @@
 ---
 title: "Will Michelle Bachelet be the next Secretary-General of the United Nations?"
-description: "Will Michelle Bachelet be the next Secretary-General of the United Nations? Odds: 6.3% YES on Polymarket. See live prices and trade this market."
+description: "Will Michelle Bachelet be the next Secretary-General of the United Nations? Odds: 4.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Michelle Bachelet be the next Secretary-General of the United Nations?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-07-31
+lastUpdated: 2026-08-01
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 6.3
-polymarketNo: 93.7
-polymarketVolume: 9826
+polymarketYes: 4.9
+polymarketNo: 95.1
+polymarketVolume: 9974
 polymarketUrl: "https://polymarket.com/event/will-michelle-bachelet-be-the-next-secretary-general-of-the-united-nations-126"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-michelle-bachelet-be-the-next-
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 6.3% | 93.7% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 4.9% | 95.1% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-michelle-bachelet-be-the-next-
 
 ### What are the current odds for "Will Michelle Bachelet be the next Secretary-General of the United Nations?"?
 
-As of July 31, 2026, Polymarket prices YES at 6.3%.
+As of August 01, 2026, Polymarket prices YES at 4.9%.
 
 ### Where can I trade on this prediction market?
 

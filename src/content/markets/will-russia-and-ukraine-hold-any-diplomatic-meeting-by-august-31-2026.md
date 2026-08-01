@@ -3,8 +3,8 @@ title: "Will Russia and Ukraine hold any diplomatic meeting by August 31, 2026?"
 description: "Will Russia and Ukraine hold any diplomatic meeting by August 31, 2026? Odds: 53.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Russia and Ukraine hold any diplomatic meeting by August 31, 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-07-31
+status: "settled"
+lastUpdated: 2026-08-01
 expiryDate: 2026-08-31
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 53.5

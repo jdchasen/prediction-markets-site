@@ -3,8 +3,8 @@ title: "Will Relay launch a token by December 31, 2026?"
 description: "Will Relay launch a token by December 31, 2026? Odds: 11.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Relay launch a token by December 31, 2026?"
 category: "crypto"
-status: "active"
-lastUpdated: 2026-07-31
+status: "settled"
+lastUpdated: 2026-08-01
 expiryDate: 2027-01-01
 tags: ["crypto", "polymarket"]
 polymarketYes: 11.5

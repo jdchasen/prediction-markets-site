@@ -4,12 +4,12 @@ description: "Will Masoud Pezeshkian be head of state in Iran end of 2026? Odds:
 marketQuestion: "Will Masoud Pezeshkian be head of state in Iran end of 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-07-31
+lastUpdated: 2026-08-01
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 0.5
 polymarketNo: 99.5
-polymarketVolume: 993048
+polymarketVolume: 993424
 polymarketUrl: "https://polymarket.com/event/will-masoud-pezeshkian-be-head-of-state-in-iran-end-of-2026"
 ---
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-masoud-pezeshkian-be-head-of-s
 
 ### What are the current odds for "Will Masoud Pezeshkian be head of state in Iran end of 2026?"?
 
-As of July 31, 2026, Polymarket prices YES at 0.5%.
+As of August 01, 2026, Polymarket prices YES at 0.5%.
 
 ### Where can I trade on this prediction market?
 

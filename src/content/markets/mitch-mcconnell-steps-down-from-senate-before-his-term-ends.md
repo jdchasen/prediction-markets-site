@@ -1,23 +1,23 @@
 ---
-title: "Will Israeli forces withdraw from beyond the Litani River by August 31?"
-description: "Will Israeli forces withdraw from beyond the Litani River by August 31? Odds: 3.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Israeli forces withdraw from beyond the Litani River by August 31?"
+title: "Mitch McConnell steps down from Senate before his term ends?"
+description: "Mitch McConnell steps down from Senate before his term ends? Odds: 35.0% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Mitch McConnell steps down from Senate before his term ends?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-01
-expiryDate: 2026-08-31
+expiryDate: 2027-01-03
 tags: ["politics", "polymarket"]
-polymarketYes: 3.5
-polymarketNo: 96.5
-polymarketVolume: 9995
-polymarketUrl: "https://polymarket.com/event/will-israeli-forces-withdraw-from-beyond-the-litani-river-by-august-31"
+polymarketYes: 35.0
+polymarketNo: 65.0
+polymarketVolume: 978485
+polymarketUrl: "https://polymarket.com/event/will-mitch-mcconnell-resign-from-the-senate-before-his-term-ends"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 3.5% | 96.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 35.0% | 65.0% | $978K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-israeli-forces-withdraw-from-b
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Israeli forces withdraw from beyond the Litani River by August 31?"?
+### What are the current odds for "Mitch McConnell steps down from Senate before his term ends?"?
 
-As of August 01, 2026, Polymarket prices YES at 3.5%.
+As of August 01, 2026, Polymarket prices YES at 35.0%.
 
 ### Where can I trade on this prediction market?
 
@@ -38,5 +38,5 @@ You can trade this market on [Polymarket](https://polymarket.us/1762?utm_source=
 ## Learn More
 
 - [How to Withdraw from Polymarket to Your Bank](/blog/polymarket-withdrawal)
-- [How to Withdraw from Kalshi Fast (2026)](/blog/kalshi-withdrawal)
+- [Goldman Warns $100 Oil as Hormuz Shuts Down](/blog/oil-price-100-goldman-sachs-hormuz-crisis)
 

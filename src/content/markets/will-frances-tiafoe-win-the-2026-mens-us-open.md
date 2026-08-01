@@ -4,12 +4,12 @@ description: "Will Frances Tiafoe win the 2026 Men's US Open? Odds: 0.4% YES on 
 marketQuestion: "Will Frances Tiafoe win the 2026 Men's US Open?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-07-31
+lastUpdated: 2026-08-01
 expiryDate: 2026-09-13
 tags: ["politics", "polymarket"]
 polymarketYes: 0.4
-polymarketNo: 99.6
-polymarketVolume: 98013
+polymarketNo: 99.7
+polymarketVolume: 98762
 polymarketUrl: "https://polymarket.com/event/will-frances-tiafoe-win-the-2026-mens-us-open"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-frances-tiafoe-win-the-2026-me
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.4% | 99.6% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.4% | 99.7% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-frances-tiafoe-win-the-2026-me
 
 ### What are the current odds for "Will Frances Tiafoe win the 2026 Men's US Open?"?
 
-As of July 31, 2026, Polymarket prices YES at 0.4%.
+As of August 01, 2026, Polymarket prices YES at 0.4%.
 
 ### Where can I trade on this prediction market?
 

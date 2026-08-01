@@ -3,8 +3,8 @@ title: "Will Robert F. Kennedy Jr. be the next to leave the Trump Cabinet before
 description: "Will Robert F. Kennedy Jr. be the next to leave the Trump Cabinet before 2027? Odds: 32.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Robert F. Kennedy Jr. be the next to leave the Trump Cabinet before 2027?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-07-31
+status: "settled"
+lastUpdated: 2026-08-01
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket", "trump"]
 polymarketYes: 32.5

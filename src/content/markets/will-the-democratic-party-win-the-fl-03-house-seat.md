@@ -1,23 +1,23 @@
 ---
-title: "Will Rebeca Grynspan be the next Secretary-General of the United Nations?"
-description: "Will Rebeca Grynspan be the next Secretary-General of the United Nations? Odds: 41.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Rebeca Grynspan be the next Secretary-General of the United Nations?"
+title: "Will the Democratic Party win the FL-03 House seat?"
+description: "Will the Democratic Party win the FL-03 House seat? Odds: 8.0% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will the Democratic Party win the FL-03 House seat?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-01
-expiryDate: 2026-12-31
+expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
-polymarketYes: 41.5
-polymarketNo: 58.5
-polymarketVolume: 9852
-polymarketUrl: "https://polymarket.com/event/will-rebeca-grynspan-be-the-next-secretary-general-of-the-united-nations-979"
+polymarketYes: 8.0
+polymarketNo: 92.0
+polymarketVolume: 9879
+polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-fl-03-house-seat"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 41.5% | 58.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 8.0% | 92.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-rebeca-grynspan-be-the-next-se
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Rebeca Grynspan be the next Secretary-General of the United Nations?"?
+### What are the current odds for "Will the Democratic Party win the FL-03 House seat?"?
 
-As of August 01, 2026, Polymarket prices YES at 41.5%.
+As of August 01, 2026, Polymarket prices YES at 8.0%.
 
 ### Where can I trade on this prediction market?
 

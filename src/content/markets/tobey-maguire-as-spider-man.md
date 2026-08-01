@@ -3,8 +3,8 @@ title: "Tobey Maguire as Spider-Man?"
 description: "Tobey Maguire as Spider-Man? Odds: 87.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Tobey Maguire as Spider-Man?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-07-31
+status: "settled"
+lastUpdated: 2026-08-01
 expiryDate: 2026-12-18
 tags: ["politics", "polymarket"]
 polymarketYes: 87.5

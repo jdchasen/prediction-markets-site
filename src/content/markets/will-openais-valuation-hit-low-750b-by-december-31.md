@@ -3,8 +3,8 @@ title: "Will OpenAI's valuation hit (LOW) $750B by December 31?"
 description: "Will OpenAI's valuation hit (LOW) $750B by December 31? Odds: 45.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will OpenAI's valuation hit (LOW) $750B by December 31?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-07-31
+status: "settled"
+lastUpdated: 2026-08-01
 expiryDate: 2027-01-01
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 45.0

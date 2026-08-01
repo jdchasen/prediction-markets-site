@@ -4,7 +4,7 @@ description: "Will the Republican Party win the MS-03 House seat? Odds: 93.5% YE
 marketQuestion: "Will the Republican Party win the MS-03 House seat?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-07-31
+lastUpdated: 2026-08-01
 expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
 polymarketYes: 93.5
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-m
 
 ### What are the current odds for "Will the Republican Party win the MS-03 House seat?"?
 
-As of July 31, 2026, Polymarket prices YES at 93.5%.
+As of August 01, 2026, Polymarket prices YES at 93.5%.
 
 ### Where can I trade on this prediction market?
 

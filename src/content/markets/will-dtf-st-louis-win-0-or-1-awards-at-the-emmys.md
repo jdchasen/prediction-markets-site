@@ -1,23 +1,23 @@
 ---
-title: "Will Rebeca Grynspan be the next Secretary-General of the United Nations?"
-description: "Will Rebeca Grynspan be the next Secretary-General of the United Nations? Odds: 41.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Rebeca Grynspan be the next Secretary-General of the United Nations?"
+title: "Will \"DTF St. Louis\" win 0 or 1 awards at the Emmys?"
+description: "Will \"DTF St. Louis\" win 0 or 1 awards at the Emmys? Odds: 69.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will \"DTF St. Louis\" win 0 or 1 awards at the Emmys?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-01
-expiryDate: 2026-12-31
-tags: ["politics", "polymarket"]
-polymarketYes: 41.5
-polymarketNo: 58.5
-polymarketVolume: 9852
-polymarketUrl: "https://polymarket.com/event/will-rebeca-grynspan-be-the-next-secretary-general-of-the-united-nations-979"
+expiryDate: 2026-09-14
+tags: ["entertainment", "politics", "polymarket"]
+polymarketYes: 69.5
+polymarketNo: 30.5
+polymarketVolume: 9894
+polymarketUrl: "https://polymarket.com/event/will-dtf-stpt-louis-win-0-or-1-awards-at-the-emmys-20260730202919978"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 41.5% | 58.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 69.5% | 30.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-rebeca-grynspan-be-the-next-se
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Rebeca Grynspan be the next Secretary-General of the United Nations?"?
+### What are the current odds for "Will "DTF St. Louis" win 0 or 1 awards at the Emmys?"?
 
-As of August 01, 2026, Polymarket prices YES at 41.5%.
+As of August 01, 2026, Polymarket prices YES at 69.5%.
 
 ### Where can I trade on this prediction market?
 

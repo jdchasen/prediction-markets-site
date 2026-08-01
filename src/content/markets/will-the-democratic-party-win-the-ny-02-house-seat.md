@@ -4,7 +4,7 @@ description: "Will the Democratic Party win the NY-02 House seat? Odds: 15.5% YE
 marketQuestion: "Will the Democratic Party win the NY-02 House seat?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-07-31
+lastUpdated: 2026-08-01
 expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
 polymarketYes: 15.5
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-n
 
 ### What are the current odds for "Will the Democratic Party win the NY-02 House seat?"?
 
-As of July 31, 2026, Polymarket prices YES at 15.5%.
+As of August 01, 2026, Polymarket prices YES at 15.5%.
 
 ### Where can I trade on this prediction market?
 

@@ -4,12 +4,12 @@ description: "Will Erling Haaland win the 2026 Ballon d'Or? Odds: 0.4% YES on Po
 marketQuestion: "Will Erling Haaland win the 2026 Ballon d'Or?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-07-31
+lastUpdated: 2026-08-01
 expiryDate: 2026-10-31
 tags: ["politics", "polymarket"]
 polymarketYes: 0.4
 polymarketNo: 99.6
-polymarketVolume: 997576
+polymarketVolume: 998373
 polymarketUrl: "https://polymarket.com/event/will-erling-haaland-win-the-2026-ballon-dor"
 ---
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-erling-haaland-win-the-2026-ba
 
 ### What are the current odds for "Will Erling Haaland win the 2026 Ballon d'Or?"?
 
-As of July 31, 2026, Polymarket prices YES at 0.4%.
+As of August 01, 2026, Polymarket prices YES at 0.4%.
 
 ### Where can I trade on this prediction market?
 
