@@ -22,8 +22,8 @@ polymarketUrl: "https://polymarket.com/event/will-the-fed-decrease-interest-rate
 ## Related Markets
 
 - [Will there be no change in Fed interest rates after the October 2026 meeting?](/odds/will-there-be-no-change-in-fed-interest-rates-after-the-october-2026-meeting) — 68% YES
+- [Will Japan Q2 GDP growth (annualized) be between 0.8% and 1.6%?](/odds/will-japan-q2-gdp-growth-annualized-be-between-08-and-16) — 28% YES
 - [Will China's annual inflation in 2026 be between 1.1% and 1.5%?](/odds/will-chinas-annual-inflation-in-2026-be-between-11-and-15) — 40% YES
-- [Will the Bank of Israel decrease the Bank of Israel Interest Rate after the September decision?](/odds/will-the-bank-of-israel-decrease-the-bank-of-israel-interest-rate-after-the-sept) — 22% YES
 
 ## Frequently Asked Questions
 

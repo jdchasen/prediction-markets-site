@@ -9,7 +9,7 @@ expiryDate: 2027-03-31
 tags: ["polymarket", "sports"]
 polymarketYes: 6.9
 polymarketNo: 93.2
-polymarketVolume: 979893
+polymarketVolume: 980062
 polymarketUrl: "https://polymarket.com/event/will-the-baltimore-ravens-win-the-2027-nfl-league-championship"
 ---
 
@@ -23,7 +23,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-baltimore-ravens-win-the-2
 
 - [Will Arizona Cardinals win the 2027 NFL NFC Championship?](/odds/will-arizona-cardinals-win-the-2027-nfl-nfc-championship) — 1% YES
 - [Will Baker Mayfield win the 2026 NFL MVP?](/odds/will-baker-mayfield-win-the-2026-nfl-mvp) — 2% YES
-- [Will Mohamed Salah play in Premier League next?](/odds/will-mohamed-salah-play-in-premier-league-next) — 1% YES
+- [Will Paris Saint-Germain win the 2026-27 UEFA Champions League Championship?](/odds/will-paris-saint-germain-win-the-2026-27-uefa-champions-league-championship) — 14% YES
 
 ## Frequently Asked Questions
 

@@ -3,7 +3,7 @@ title: "Will the July 2026 unemployment rate be 4.3%?"
 description: "Will the July 2026 unemployment rate be 4.3%? Odds: 41.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the July 2026 unemployment rate be 4.3%?"
 category: "economics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-08-01
 expiryDate: 2026-08-07
 tags: ["economics", "polymarket"]

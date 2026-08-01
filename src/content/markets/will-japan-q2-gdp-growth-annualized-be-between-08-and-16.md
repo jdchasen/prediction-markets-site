@@ -1,15 +1,15 @@
 ---
 title: "Will Japan Q2 GDP growth (annualized) be between 0.8% and 1.6%?"
-description: "Will Japan Q2 GDP growth (annualized) be between 0.8% and 1.6%? Odds: 24.0% YES on Polymarket. See live prices and trade this market."
+description: "Will Japan Q2 GDP growth (annualized) be between 0.8% and 1.6%? Odds: 27.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Japan Q2 GDP growth (annualized) be between 0.8% and 1.6%?"
 category: "economics"
 status: "active"
 lastUpdated: 2026-08-01
 expiryDate: 2026-08-17
 tags: ["economics", "polymarket"]
-polymarketYes: 24.0
-polymarketNo: 76.0
-polymarketVolume: 9823
+polymarketYes: 27.5
+polymarketNo: 72.5
+polymarketVolume: 9974
 polymarketUrl: "https://polymarket.com/event/will-japan-q2-gdp-growth-annualized-be-between-0pt8-and-1pt6"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-japan-q2-gdp-growth-annualized
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 24.0% | 76.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 27.5% | 72.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-japan-q2-gdp-growth-annualized
 
 ### What are the current odds for "Will Japan Q2 GDP growth (annualized) be between 0.8% and 1.6%?"?
 
-As of August 01, 2026, Polymarket prices YES at 24.0%.
+As of August 01, 2026, Polymarket prices YES at 27.5%.
 
 ### Where can I trade on this prediction market?
 

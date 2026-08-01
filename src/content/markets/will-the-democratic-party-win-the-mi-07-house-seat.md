@@ -1,23 +1,23 @@
 ---
-title: "Will Raquel Lyra win the Pernambuco Governor election?"
-description: "Will Raquel Lyra win the Pernambuco Governor election? Odds: 63.0% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Raquel Lyra win the Pernambuco Governor election?"
+title: "Will the Democratic Party win the MI-07 House seat?"
+description: "Will the Democratic Party win the MI-07 House seat? Odds: 67.0% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will the Democratic Party win the MI-07 House seat?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-01
-expiryDate: 2026-10-04
-tags: ["elections", "politics", "polymarket"]
-polymarketYes: 63.0
-polymarketNo: 37.0
-polymarketVolume: 9955
-polymarketUrl: "https://polymarket.com/event/will-raquel-lyra-win-the-pernambuco-governor-election-20260709143134927"
+expiryDate: 2026-11-04
+tags: ["politics", "polymarket"]
+polymarketYes: 67.0
+polymarketNo: 33.0
+polymarketVolume: 9867
+polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-mi-07-house-seat"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 63.0% | 37.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 67.0% | 33.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-raquel-lyra-win-the-pernambuco
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Raquel Lyra win the Pernambuco Governor election?"?
+### What are the current odds for "Will the Democratic Party win the MI-07 House seat?"?
 
-As of August 01, 2026, Polymarket prices YES at 63.0%.
+As of August 01, 2026, Polymarket prices YES at 67.0%.
 
 ### Where can I trade on this prediction market?
 

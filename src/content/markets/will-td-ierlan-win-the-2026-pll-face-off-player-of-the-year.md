@@ -1,35 +1,35 @@
 ---
-title: "Will James Harden play for the Cleveland Cavaliers in 2026-27?"
-description: "Will James Harden play for the Cleveland Cavaliers in 2026-27? Odds: 94.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will James Harden play for the Cleveland Cavaliers in 2026-27?"
+title: "Will TD Ierlan win the 2026 PLL Face-Off Player of the Year?"
+description: "Will TD Ierlan win the 2026 PLL Face-Off Player of the Year? Odds: 24.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will TD Ierlan win the 2026 PLL Face-Off Player of the Year?"
 category: "politics"
-status: "settled"
+status: "active"
 lastUpdated: 2026-08-01
-expiryDate: 2026-10-31
+expiryDate: 2026-09-13
 tags: ["politics", "polymarket"]
-polymarketYes: 94.5
-polymarketNo: 5.5
-polymarketVolume: 9930
-polymarketUrl: "https://polymarket.com/event/will-james-harden-play-for-the-cleveland-cavaliers-in-2026-27-20260622161457156"
+polymarketYes: 24.5
+polymarketNo: 75.5
+polymarketVolume: 9795
+polymarketUrl: "https://polymarket.com/event/will-td-ierlan-win-the-2026-pll-face-off-player-of-the-year"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 94.5% | 5.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 24.5% | 75.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Eric Trump win the 2028 Republican presidential nomination?](/odds/will-eric-trump-win-the-2028-republican-presidential-nomination) — 0% YES
-- [Will Erling Haaland win the 2026 Ballon d'Or?](/odds/will-erling-haaland-win-the-2026-ballon-dor) — 0% YES
+- [Will Hamas agree to disarm by December 31?](/odds/will-hamas-agree-to-disarm-by-december-31) — 64% YES
 - [Will Masoud Pezeshkian be head of state in Iran end of 2026?](/odds/will-masoud-pezeshkian-be-head-of-state-in-iran-end-of-2026) — 0% YES
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will James Harden play for the Cleveland Cavaliers in 2026-27?"?
+### What are the current odds for "Will TD Ierlan win the 2026 PLL Face-Off Player of the Year?"?
 
-As of August 01, 2026, Polymarket prices YES at 94.5%.
+As of August 01, 2026, Polymarket prices YES at 24.5%.
 
 ### Where can I trade on this prediction market?
 

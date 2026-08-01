@@ -1,23 +1,23 @@
 ---
-title: "Will Truist fail by end of 2026?"
-description: "Will Truist fail by end of 2026? Odds: 1.9% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Truist fail by end of 2026?"
+title: "Will Matthew Rhys – “Widow’s Bay” win Emmys 2026: Outstanding lead actor in a comedy series?"
+description: "Will Matthew Rhys – “Widow’s Bay” win Emmys 2026: Outstanding lead actor in a comedy series? Odds: 91.8% YES on Polymarket. See live prices and trade this ma..."
+marketQuestion: "Will Matthew Rhys – “Widow’s Bay” win Emmys 2026: Outstanding lead actor in a comedy series?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-01
-expiryDate: 2026-12-31
-tags: ["ai", "politics", "polymarket"]
-polymarketYes: 1.9
-polymarketNo: 98.1
-polymarketVolume: 9793
-polymarketUrl: "https://polymarket.com/event/will-truist-fail-by-end-of-2026"
+expiryDate: 2026-09-14
+tags: ["entertainment", "politics", "polymarket"]
+polymarketYes: 91.8
+polymarketNo: 8.2
+polymarketVolume: 9845
+polymarketUrl: "https://polymarket.com/event/will-matthew-rhys-widows-bay-win-emmys-2026-outstanding-lead-actor-in-a-comedy-series-20260709174230874"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 1.9% | 98.1% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 91.8% | 8.2% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-truist-fail-by-end-of-2026"
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Truist fail by end of 2026?"?
+### What are the current odds for "Will Matthew Rhys – “Widow’s Bay” win Emmys 2026: Outstanding lead actor in a comedy series?"?
 
-As of August 01, 2026, Polymarket prices YES at 1.9%.
+As of August 01, 2026, Polymarket prices YES at 91.8%.
 
 ### Where can I trade on this prediction market?
 

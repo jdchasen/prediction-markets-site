@@ -3,7 +3,7 @@ title: "Bank of Mexico decreases interest rates by 25 bps after August 2026 meet
 description: "Bank of Mexico decreases interest rates by 25 bps after August 2026 meeting? Odds: 1.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Bank of Mexico decreases interest rates by 25 bps after August 2026 meeting?"
 category: "economics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-08-01
 expiryDate: 2026-08-06
 tags: ["economics", "interest-rates", "polymarket"]

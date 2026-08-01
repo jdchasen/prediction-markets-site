@@ -1,14 +1,14 @@
 ---
 title: "Unit FDV above $1B one day after launch?"
-description: "Unit FDV above $1B one day after launch? Odds: 12.0% YES on Polymarket. See live prices and trade this market."
+description: "Unit FDV above $1B one day after launch? Odds: 12.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Unit FDV above $1B one day after launch?"
 category: "crypto"
 status: "active"
 lastUpdated: 2026-08-01
 expiryDate: 2028-01-01
 tags: ["crypto", "polymarket"]
-polymarketYes: 12.0
-polymarketNo: 88.0
+polymarketYes: 12.5
+polymarketNo: 87.5
 polymarketVolume: 9798
 polymarketUrl: "https://polymarket.com/event/unit-fdv-above-1b-one-day-after-launch"
 ---
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/unit-fdv-above-1b-one-day-after-lau
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 12.0% | 88.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 12.5% | 87.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/unit-fdv-above-1b-one-day-after-lau
 
 ### What are the current odds for "Unit FDV above $1B one day after launch?"?
 
-As of August 01, 2026, Polymarket prices YES at 12.0%.
+As of August 01, 2026, Polymarket prices YES at 12.5%.
 
 ### Where can I trade on this prediction market?
 

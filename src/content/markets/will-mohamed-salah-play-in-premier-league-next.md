@@ -3,7 +3,7 @@ title: "Will Mohamed Salah play in Premier League next?"
 description: "Will Mohamed Salah play in Premier League next? Odds: 0.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Mohamed Salah play in Premier League next?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-08-01
 expiryDate: 2026-09-01
 tags: ["polymarket", "sports"]

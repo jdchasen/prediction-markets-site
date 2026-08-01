@@ -3,7 +3,7 @@ title: "Will Israeli forces withdraw from beyond the Litani River by August 31?"
 description: "Will Israeli forces withdraw from beyond the Litani River by August 31? Odds: 3.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Israeli forces withdraw from beyond the Litani River by August 31?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-08-01
 expiryDate: 2026-08-31
 tags: ["politics", "polymarket"]

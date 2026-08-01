@@ -3,7 +3,7 @@ title: "Will \"DTF St. Louis\" win 0 or 1 awards at the Emmys?"
 description: "Will \"DTF St. Louis\" win 0 or 1 awards at the Emmys? Odds: 69.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will \"DTF St. Louis\" win 0 or 1 awards at the Emmys?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-08-01
 expiryDate: 2026-09-14
 tags: ["entertainment", "politics", "polymarket"]

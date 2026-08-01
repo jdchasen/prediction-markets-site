@@ -1,23 +1,23 @@
 ---
-title: "Will Márcio França win the 2026 São Paulo gubernatorial election?"
-description: "Will Márcio França win the 2026 São Paulo gubernatorial election? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Márcio França win the 2026 São Paulo gubernatorial election?"
+title: "Will Darijana Filipović be the Croat Presidency Member of Bosnia and Herzegovina following the 2026 general election?"
+description: "Will Darijana Filipović be the Croat Presidency Member of Bosnia and Herzegovina following the 2026 general election? Odds: 46.5% YES on Polymarket. See live..."
+marketQuestion: "Will Darijana Filipović be the Croat Presidency Member of Bosnia and Herzegovina following the 2026 general election?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-01
 expiryDate: 2026-10-04
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 0.1
-polymarketNo: 99.9
-polymarketVolume: 9905
-polymarketUrl: "https://polymarket.com/event/will-mrcio-frana-win-the-2026-so-paulo-gubernatorial-election"
+polymarketYes: 46.5
+polymarketNo: 53.5
+polymarketVolume: 9917
+polymarketUrl: "https://polymarket.com/event/will-darijana-filipovi-be-the-croat-presidency-member-of-bosnia-and-herzegovina-following-the-2026-general-election"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.1% | 99.9% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 46.5% | 53.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-mrcio-frana-win-the-2026-so-pa
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Márcio França win the 2026 São Paulo gubernatorial election?"?
+### What are the current odds for "Will Darijana Filipović be the Croat Presidency Member of Bosnia and Herzegovina following the 2026 general election?"?
 
-As of August 01, 2026, Polymarket prices YES at 0.1%.
+As of August 01, 2026, Polymarket prices YES at 46.5%.
 
 ### Where can I trade on this prediction market?
 

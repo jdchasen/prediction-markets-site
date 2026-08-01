@@ -1,23 +1,23 @@
 ---
-title: "Will Raquel Lyra win the Pernambuco Governor election?"
-description: "Will Raquel Lyra win the Pernambuco Governor election? Odds: 63.0% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Raquel Lyra win the Pernambuco Governor election?"
+title: "Will Anthropic's valuation hit (LOW) $800B by December 31?"
+description: "Will Anthropic's valuation hit (LOW) $800B by December 31? Odds: 17.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Anthropic's valuation hit (LOW) $800B by December 31?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-01
-expiryDate: 2026-10-04
-tags: ["elections", "politics", "polymarket"]
-polymarketYes: 63.0
-polymarketNo: 37.0
-polymarketVolume: 9955
-polymarketUrl: "https://polymarket.com/event/will-raquel-lyra-win-the-pernambuco-governor-election-20260709143134927"
+expiryDate: 2027-01-01
+tags: ["politics", "polymarket"]
+polymarketYes: 17.5
+polymarketNo: 82.5
+polymarketVolume: 97797
+polymarketUrl: "https://polymarket.com/event/will-anthropics-valuation-hit-low-800b-by-december-31-957-743"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 63.0% | 37.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 17.5% | 82.5% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-raquel-lyra-win-the-pernambuco
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Raquel Lyra win the Pernambuco Governor election?"?
+### What are the current odds for "Will Anthropic's valuation hit (LOW) $800B by December 31?"?
 
-As of August 01, 2026, Polymarket prices YES at 63.0%.
+As of August 01, 2026, Polymarket prices YES at 17.5%.
 
 ### Where can I trade on this prediction market?
 

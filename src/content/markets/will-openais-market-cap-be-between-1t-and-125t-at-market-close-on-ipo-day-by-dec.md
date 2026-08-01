@@ -19,10 +19,6 @@ polymarketUrl: "https://polymarket.com/event/will-openais-market-cap-be-between-
 |----------|-----|-----|--------|-------|
 | Polymarket | 16.4% | 83.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
-## Related Markets
-
-- [Will Stripe have the highest IPO Market Cap 2026?](/odds/will-stripe-have-the-highest-ipo-market-cap-2026) — 0% YES
-
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will OpenAI’s market cap be between $1T and $1.25T at market close on IPO day by December 31, 2027?"?

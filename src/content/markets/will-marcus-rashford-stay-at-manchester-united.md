@@ -1,23 +1,23 @@
 ---
-title: "Will Raquel Lyra win the Pernambuco Governor election?"
-description: "Will Raquel Lyra win the Pernambuco Governor election? Odds: 63.0% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Raquel Lyra win the Pernambuco Governor election?"
+title: "Will Marcus Rashford stay at Manchester United?"
+description: "Will Marcus Rashford stay at Manchester United? Odds: 68.0% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Marcus Rashford stay at Manchester United?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-01
-expiryDate: 2026-10-04
-tags: ["elections", "politics", "polymarket"]
-polymarketYes: 63.0
-polymarketNo: 37.0
-polymarketVolume: 9955
-polymarketUrl: "https://polymarket.com/event/will-raquel-lyra-win-the-pernambuco-governor-election-20260709143134927"
+expiryDate: 2026-09-02
+tags: ["politics", "polymarket"]
+polymarketYes: 68.0
+polymarketNo: 32.0
+polymarketVolume: 9817
+polymarketUrl: "https://polymarket.com/event/will-marcus-rashford-stay-at-manchester-united-20260612223901167"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 63.0% | 37.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 68.0% | 32.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-raquel-lyra-win-the-pernambuco
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Raquel Lyra win the Pernambuco Governor election?"?
+### What are the current odds for "Will Marcus Rashford stay at Manchester United?"?
 
-As of August 01, 2026, Polymarket prices YES at 63.0%.
+As of August 01, 2026, Polymarket prices YES at 68.0%.
 
 ### Where can I trade on this prediction market?
 
