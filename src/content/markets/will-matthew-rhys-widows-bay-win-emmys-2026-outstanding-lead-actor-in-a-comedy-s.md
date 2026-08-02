@@ -3,8 +3,8 @@ title: "Will Matthew Rhys – “Widow’s Bay” win Emmys 2026: Outstanding le
 description: "Will Matthew Rhys – “Widow’s Bay” win Emmys 2026: Outstanding lead actor in a comedy series? Odds: 91.8% YES on Polymarket. See live prices and trade this ma..."
 marketQuestion: "Will Matthew Rhys – “Widow’s Bay” win Emmys 2026: Outstanding lead actor in a comedy series?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-08-01
+status: "settled"
+lastUpdated: 2026-08-02
 expiryDate: 2026-09-14
 tags: ["entertainment", "politics", "polymarket"]
 polymarketYes: 91.8

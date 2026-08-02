@@ -1,22 +1,23 @@
 ---
-title: "Will the Democrats win the South Dakota governor race in 2026?"
-description: "Will the Democrats win the South Dakota governor race in 2026? Odds: 7.0% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will the Democrats win the South Dakota governor race in 2026?"
+title: "Will OpenAI be the third-best Code Arena | WebDev AI lab at the end of August 2026?"
+description: "Will OpenAI be the third-best Code Arena | WebDev AI lab at the end of August 2026? Odds: 55.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will OpenAI be the third-best Code Arena | WebDev AI lab at the end of August 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-02
-tags: ["politics", "polymarket"]
-polymarketYes: 7.0
-polymarketNo: 93.0
-polymarketVolume: 9796
-polymarketUrl: "https://polymarket.com/event/will-the-democrats-win-the-south-dakota-governor-race-in-2026"
+expiryDate: 2026-08-31
+tags: ["ai", "politics", "polymarket"]
+polymarketYes: 55.5
+polymarketNo: 44.5
+polymarketVolume: 9963
+polymarketUrl: "https://polymarket.com/event/will-openai-be-the-third-best-code-arena-webdev-ai-lab-at-the-end-of-august-2026-20260720220546732"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 7.0% | 93.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 55.5% | 44.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -26,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-the-democrats-win-the-south-da
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will the Democrats win the South Dakota governor race in 2026?"?
+### What are the current odds for "Will OpenAI be the third-best Code Arena | WebDev AI lab at the end of August 2026?"?
 
-As of August 02, 2026, Polymarket prices YES at 7.0%.
+As of August 02, 2026, Polymarket prices YES at 55.5%.
 
 ### Where can I trade on this prediction market?
 

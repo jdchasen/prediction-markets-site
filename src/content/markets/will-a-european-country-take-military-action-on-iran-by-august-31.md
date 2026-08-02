@@ -3,8 +3,8 @@ title: "Will a European country take military action on Iran by August 31?"
 description: "Will a European country take military action on Iran by August 31? Odds: 3.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will a European country take military action on Iran by August 31?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-08-01
+status: "settled"
+lastUpdated: 2026-08-02
 expiryDate: 2026-08-31
 tags: ["politics", "polymarket"]
 polymarketYes: 3.1

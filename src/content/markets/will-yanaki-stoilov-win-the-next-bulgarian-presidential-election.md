@@ -4,7 +4,7 @@ description: "Will Yanaki Stoilov win the next Bulgarian presidential election? 
 marketQuestion: "Will Yanaki Stoilov win the next Bulgarian presidential election?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-08-01
+lastUpdated: 2026-08-02
 expiryDate: 2026-11-30
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.1
@@ -22,14 +22,14 @@ polymarketUrl: "https://polymarket.com/event/will-yanaki-stoilov-win-the-next-bu
 ## Related Markets
 
 - [Will Eric Trump win the 2028 Republican presidential nomination?](/odds/will-eric-trump-win-the-2028-republican-presidential-nomination) — 0% YES
-- [Will Hamas agree to disarm by December 31?](/odds/will-hamas-agree-to-disarm-by-december-31) — 64% YES
 - [Will Masoud Pezeshkian be head of state in Iran end of 2026?](/odds/will-masoud-pezeshkian-be-head-of-state-in-iran-end-of-2026) — 0% YES
+- [Mitch McConnell steps down from Senate before his term ends?](/odds/mitch-mcconnell-steps-down-from-senate-before-his-term-ends) — 34% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Yanaki Stoilov win the next Bulgarian presidential election?"?
 
-As of August 01, 2026, Polymarket prices YES at 0.1%.
+As of August 02, 2026, Polymarket prices YES at 0.1%.
 
 ### Where can I trade on this prediction market?
 

@@ -3,8 +3,8 @@ title: "Will Michelle Bachelet be the next Secretary-General of the United Natio
 description: "Will Michelle Bachelet be the next Secretary-General of the United Nations? Odds: 5.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Michelle Bachelet be the next Secretary-General of the United Nations?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-08-01
+status: "settled"
+lastUpdated: 2026-08-02
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 5.0

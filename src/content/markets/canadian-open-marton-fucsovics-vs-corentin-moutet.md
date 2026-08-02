@@ -1,23 +1,23 @@
 ---
-title: "Costco increases hotdog price before 2027?"
-description: "Costco increases hotdog price before 2027? Odds: 7.0% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Costco increases hotdog price before 2027?"
+title: "Canadian Open: Marton Fucsovics vs Corentin Moutet"
+description: "Canadian Open: Marton Fucsovics vs Corentin Moutet Odds: 47.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Canadian Open: Marton Fucsovics vs Corentin Moutet"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-02
-expiryDate: 2026-12-31
+expiryDate: 2026-08-10
 tags: ["politics", "polymarket"]
-polymarketYes: 7.0
-polymarketNo: 93.0
-polymarketVolume: 9806
-polymarketUrl: "https://polymarket.com/event/costco-increases-hotdog-price-before-2027"
+polymarketYes: 47.5
+polymarketNo: 52.5
+polymarketVolume: 9998
+polymarketUrl: "https://polymarket.com/event/atp-fucsovi-moutet-2026-08-03"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 7.0% | 93.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 47.5% | 52.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/costco-increases-hotdog-price-befor
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Costco increases hotdog price before 2027?"?
+### What are the current odds for "Canadian Open: Marton Fucsovics vs Corentin Moutet"?
 
-As of August 02, 2026, Polymarket prices YES at 7.0%.
+As of August 02, 2026, Polymarket prices YES at 47.5%.
 
 ### Where can I trade on this prediction market?
 
@@ -37,6 +37,5 @@ You can trade this market on [Polymarket](https://polymarket.us/1762?utm_source=
 
 ## Learn More
 
-- [Kalshi Fees Explained: The Real Cost Per Trade](/blog/kalshi-fees-explained)
-- [Gold Price Prediction 2026: Will Gold Hit $7,000?](/blog/gold-price-prediction-2026-will-gold-hit-7000)
+- [Cobolli vs Zverev Odds: French Open Markets](/blog/cobolli-vs-zverev-odds-french-open-markets)
 

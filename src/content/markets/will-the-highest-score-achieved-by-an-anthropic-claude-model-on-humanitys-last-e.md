@@ -1,22 +1,23 @@
 ---
-title: "Will the Democrats win the South Dakota governor race in 2026?"
-description: "Will the Democrats win the South Dakota governor race in 2026? Odds: 7.0% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will the Democrats win the South Dakota governor race in 2026?"
+title: "Will the highest score achieved by an Anthropic Claude model on Humanity’s Last Exam in 2026 be 65% or higher?"
+description: "Will the highest score achieved by an Anthropic Claude model on Humanity’s Last Exam in 2026 be 65% or higher? Odds: 29.0% YES on Polymarket. See live prices..."
+marketQuestion: "Will the highest score achieved by an Anthropic Claude model on Humanity’s Last Exam in 2026 be 65% or higher?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-02
+expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 7.0
-polymarketNo: 93.0
-polymarketVolume: 9796
-polymarketUrl: "https://polymarket.com/event/will-the-democrats-win-the-south-dakota-governor-race-in-2026"
+polymarketYes: 29.0
+polymarketNo: 71.0
+polymarketVolume: 9800
+polymarketUrl: "https://polymarket.com/event/will-the-highest-score-achieved-by-an-anthropic-claude-model-on-humanitys-last-exam-in-2026-be-65-or-higher-20260723190836288"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 7.0% | 93.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 29.0% | 71.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -26,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-the-democrats-win-the-south-da
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will the Democrats win the South Dakota governor race in 2026?"?
+### What are the current odds for "Will the highest score achieved by an Anthropic Claude model on Humanity’s Last Exam in 2026 be 65% or higher?"?
 
-As of August 02, 2026, Polymarket prices YES at 7.0%.
+As of August 02, 2026, Polymarket prices YES at 29.0%.
 
 ### Where can I trade on this prediction market?
 

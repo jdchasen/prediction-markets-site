@@ -3,8 +3,8 @@ title: "Will WTI Crude Oil (WTI) hit (LOW) $20 in August?"
 description: "Will WTI Crude Oil (WTI) hit (LOW) $20 in August? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will WTI Crude Oil (WTI) hit (LOW) $20 in August?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-08-01
+status: "settled"
+lastUpdated: 2026-08-02
 expiryDate: 2026-09-01
 tags: ["politics", "polymarket"]
 polymarketYes: 0.1

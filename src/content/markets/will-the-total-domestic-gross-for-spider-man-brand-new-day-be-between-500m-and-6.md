@@ -1,23 +1,23 @@
 ---
-title: "Will Anthropic's valuation hit (LOW) $800B by December 31?"
-description: "Will Anthropic's valuation hit (LOW) $800B by December 31? Odds: 17.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Anthropic's valuation hit (LOW) $800B by December 31?"
+title: "Will the total domestic gross for Spider-Man: Brand New Day be between 500m and 600m by August 31?"
+description: "Will the total domestic gross for Spider-Man: Brand New Day be between 500m and 600m by August 31? Odds: 1.4% YES on Polymarket. See live prices and trade th..."
+marketQuestion: "Will the total domestic gross for Spider-Man: Brand New Day be between 500m and 600m by August 31?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-02
-expiryDate: 2027-01-01
+expiryDate: 2026-08-31
 tags: ["politics", "polymarket"]
-polymarketYes: 17.5
-polymarketNo: 82.5
-polymarketVolume: 97898
-polymarketUrl: "https://polymarket.com/event/will-anthropics-valuation-hit-low-800b-by-december-31-957-743"
+polymarketYes: 1.4
+polymarketNo: 98.7
+polymarketVolume: 9938
+polymarketUrl: "https://polymarket.com/event/will-the-total-domestic-gross-for-spider-man-brand-new-day-be-between-500m-and-600m-by-august-31-20260717152040201"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 17.5% | 82.5% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 1.4% | 98.7% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-anthropics-valuation-hit-low-8
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Anthropic's valuation hit (LOW) $800B by December 31?"?
+### What are the current odds for "Will the total domestic gross for Spider-Man: Brand New Day be between 500m and 600m by August 31?"?
 
-As of August 02, 2026, Polymarket prices YES at 17.5%.
+As of August 02, 2026, Polymarket prices YES at 1.4%.
 
 ### Where can I trade on this prediction market?
 

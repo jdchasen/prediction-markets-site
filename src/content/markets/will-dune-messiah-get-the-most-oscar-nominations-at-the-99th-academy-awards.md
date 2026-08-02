@@ -3,8 +3,8 @@ title: "Will Dune: Messiah get the most Oscar nominations at the 99th Academy Aw
 description: "Will Dune: Messiah get the most Oscar nominations at the 99th Academy Awards? Odds: 14.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Dune: Messiah get the most Oscar nominations at the 99th Academy Awards?"
 category: "entertainment"
-status: "active"
-lastUpdated: 2026-08-01
+status: "settled"
+lastUpdated: 2026-08-02
 expiryDate: 2027-02-28
 tags: ["entertainment", "polymarket"]
 polymarketYes: 14.5

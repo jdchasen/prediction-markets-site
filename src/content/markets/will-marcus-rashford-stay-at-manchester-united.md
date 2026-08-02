@@ -3,8 +3,8 @@ title: "Will Marcus Rashford stay at Manchester United?"
 description: "Will Marcus Rashford stay at Manchester United? Odds: 68.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Marcus Rashford stay at Manchester United?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-08-01
+status: "settled"
+lastUpdated: 2026-08-02
 expiryDate: 2026-09-02
 tags: ["politics", "polymarket"]
 polymarketYes: 68.0

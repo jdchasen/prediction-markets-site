@@ -4,12 +4,12 @@ description: "Will Paris Saint-Germain win the 2026-27 UEFA Champions League Cha
 marketQuestion: "Will Paris Saint-Germain win the 2026-27 UEFA Champions League Championship?"
 category: "sports"
 status: "active"
-lastUpdated: 2026-08-01
+lastUpdated: 2026-08-02
 expiryDate: 2027-05-30
 tags: ["ai", "polymarket", "sports"]
 polymarketYes: 14.5
 polymarketNo: 85.5
-polymarketVolume: 98146
+polymarketVolume: 98440
 polymarketUrl: "https://polymarket.com/event/will-paris-saint-germain-win-the-2026-27-uefa-champions-league-championship-20260701202025550"
 ---
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-paris-saint-germain-win-the-20
 
 ### What are the current odds for "Will Paris Saint-Germain win the 2026-27 UEFA Champions League Championship?"?
 
-As of August 01, 2026, Polymarket prices YES at 14.5%.
+As of August 02, 2026, Polymarket prices YES at 14.5%.
 
 ### Where can I trade on this prediction market?
 

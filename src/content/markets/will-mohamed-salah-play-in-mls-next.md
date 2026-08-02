@@ -1,23 +1,23 @@
 ---
-title: "Will Anthropic's valuation hit (LOW) $800B by December 31?"
-description: "Will Anthropic's valuation hit (LOW) $800B by December 31? Odds: 17.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Anthropic's valuation hit (LOW) $800B by December 31?"
+title: "Will Mohamed Salah play in MLS next?"
+description: "Will Mohamed Salah play in MLS next? Odds: 10.1% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Mohamed Salah play in MLS next?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-02
-expiryDate: 2027-01-01
+expiryDate: 2026-09-01
 tags: ["politics", "polymarket"]
-polymarketYes: 17.5
-polymarketNo: 82.5
-polymarketVolume: 97898
-polymarketUrl: "https://polymarket.com/event/will-anthropics-valuation-hit-low-800b-by-december-31-957-743"
+polymarketYes: 10.1
+polymarketNo: 90.0
+polymarketVolume: 9942
+polymarketUrl: "https://polymarket.com/event/will-mohamed-salah-play-in-mls-next"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 17.5% | 82.5% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 10.1% | 90.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-anthropics-valuation-hit-low-8
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Anthropic's valuation hit (LOW) $800B by December 31?"?
+### What are the current odds for "Will Mohamed Salah play in MLS next?"?
 
-As of August 02, 2026, Polymarket prices YES at 17.5%.
+As of August 02, 2026, Polymarket prices YES at 10.1%.
 
 ### Where can I trade on this prediction market?
 

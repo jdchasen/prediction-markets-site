@@ -1,22 +1,22 @@
 ---
-title: "Will the Democrats win the South Dakota governor race in 2026?"
-description: "Will the Democrats win the South Dakota governor race in 2026? Odds: 7.0% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will the Democrats win the South Dakota governor race in 2026?"
+title: "Will the Democrats win the Michigan Senate race in 2026?"
+description: "Will the Democrats win the Michigan Senate race in 2026? Odds: 68.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will the Democrats win the Michigan Senate race in 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-02
 tags: ["politics", "polymarket"]
-polymarketYes: 7.0
-polymarketNo: 93.0
-polymarketVolume: 9796
-polymarketUrl: "https://polymarket.com/event/will-the-democrats-win-the-south-dakota-governor-race-in-2026"
+polymarketYes: 68.5
+polymarketNo: 31.5
+polymarketVolume: 98931
+polymarketUrl: "https://polymarket.com/event/will-the-democrats-win-the-michigan-senate-race-in-2026"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 7.0% | 93.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 68.5% | 31.5% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -26,9 +26,9 @@ polymarketUrl: "https://polymarket.com/event/will-the-democrats-win-the-south-da
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will the Democrats win the South Dakota governor race in 2026?"?
+### What are the current odds for "Will the Democrats win the Michigan Senate race in 2026?"?
 
-As of August 02, 2026, Polymarket prices YES at 7.0%.
+As of August 02, 2026, Polymarket prices YES at 68.5%.
 
 ### Where can I trade on this prediction market?
 
