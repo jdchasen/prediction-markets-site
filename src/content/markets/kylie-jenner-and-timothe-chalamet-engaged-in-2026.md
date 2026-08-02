@@ -1,14 +1,14 @@
 ---
 title: "Kylie Jenner and Timothée Chalamet engaged in 2026?"
-description: "Kylie Jenner and Timothée Chalamet engaged in 2026? Odds: 19.0% YES on Polymarket. See live prices and trade this market."
+description: "Kylie Jenner and Timothée Chalamet engaged in 2026? Odds: 17.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Kylie Jenner and Timothée Chalamet engaged in 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-02
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 19.0
-polymarketNo: 81.0
+polymarketYes: 17.5
+polymarketNo: 82.5
 polymarketVolume: 9879
 polymarketUrl: "https://polymarket.com/event/kylie-jenner-and-timothe-chalamet-engaged-in-2026"
 ---
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/kylie-jenner-and-timothe-chalamet-e
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 19.0% | 81.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 17.5% | 82.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/kylie-jenner-and-timothe-chalamet-e
 
 ### What are the current odds for "Kylie Jenner and Timothée Chalamet engaged in 2026?"?
 
-As of August 02, 2026, Polymarket prices YES at 19.0%.
+As of August 02, 2026, Polymarket prices YES at 17.5%.
 
 ### Where can I trade on this prediction market?
 

@@ -3,7 +3,7 @@ title: "Will OpenAI be the third-best Code Arena | WebDev AI lab at the end of A
 description: "Will OpenAI be the third-best Code Arena | WebDev AI lab at the end of August 2026? Odds: 55.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will OpenAI be the third-best Code Arena | WebDev AI lab at the end of August 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-08-02
 expiryDate: 2026-08-31
 tags: ["ai", "politics", "polymarket"]

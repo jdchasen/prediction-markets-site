@@ -1,15 +1,15 @@
 ---
 title: "Will Mohamed Salah play in MLS next?"
-description: "Will Mohamed Salah play in MLS next? Odds: 10.1% YES on Polymarket. See live prices and trade this market."
+description: "Will Mohamed Salah play in MLS next? Odds: 6.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Mohamed Salah play in MLS next?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-02
 expiryDate: 2026-09-01
 tags: ["politics", "polymarket"]
-polymarketYes: 10.1
-polymarketNo: 90.0
-polymarketVolume: 9942
+polymarketYes: 6.0
+polymarketNo: 94.0
+polymarketVolume: 9983
 polymarketUrl: "https://polymarket.com/event/will-mohamed-salah-play-in-mls-next"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-mohamed-salah-play-in-mls-next
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 10.1% | 90.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 6.0% | 94.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-mohamed-salah-play-in-mls-next
 
 ### What are the current odds for "Will Mohamed Salah play in MLS next?"?
 
-As of August 02, 2026, Polymarket prices YES at 10.1%.
+As of August 02, 2026, Polymarket prices YES at 6.0%.
 
 ### Where can I trade on this prediction market?
 

@@ -1,23 +1,22 @@
 ---
-title: "Will Truist fail by end of 2026?"
-description: "Will Truist fail by end of 2026? Odds: 1.9% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Truist fail by end of 2026?"
+title: "Will Gen.G Win KeSPA Cup 2026?"
+description: "Will Gen.G Win KeSPA Cup 2026? Odds: 16.7% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Gen.G Win KeSPA Cup 2026?"
 category: "politics"
-status: "settled"
+status: "active"
 lastUpdated: 2026-08-02
-expiryDate: 2026-12-31
-tags: ["ai", "politics", "polymarket"]
-polymarketYes: 1.9
-polymarketNo: 98.1
-polymarketVolume: 9793
-polymarketUrl: "https://polymarket.com/event/will-truist-fail-by-end-of-2026"
+tags: ["politics", "polymarket"]
+polymarketYes: 16.7
+polymarketNo: 83.4
+polymarketVolume: 9970
+polymarketUrl: "https://polymarket.com/event/will-genptg-win-kespa-cup-2026-20260713163611199"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 1.9% | 98.1% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 16.7% | 83.4% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +26,9 @@ polymarketUrl: "https://polymarket.com/event/will-truist-fail-by-end-of-2026"
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Truist fail by end of 2026?"?
+### What are the current odds for "Will Gen.G Win KeSPA Cup 2026?"?
 
-As of August 02, 2026, Polymarket prices YES at 1.9%.
+As of August 02, 2026, Polymarket prices YES at 16.7%.
 
 ### Where can I trade on this prediction market?
 

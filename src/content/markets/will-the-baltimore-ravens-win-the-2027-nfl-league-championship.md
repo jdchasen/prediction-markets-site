@@ -9,7 +9,7 @@ expiryDate: 2027-03-31
 tags: ["polymarket", "sports"]
 polymarketYes: 6.9
 polymarketNo: 93.2
-polymarketVolume: 980371
+polymarketVolume: 981181
 polymarketUrl: "https://polymarket.com/event/will-the-baltimore-ravens-win-the-2027-nfl-league-championship"
 ---
 
@@ -17,13 +17,13 @@ polymarketUrl: "https://polymarket.com/event/will-the-baltimore-ravens-win-the-2
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 6.9% | 93.2% | $980K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 6.9% | 93.2% | $981K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Arizona Cardinals win the 2027 NFL NFC Championship?](/odds/will-arizona-cardinals-win-the-2027-nfl-nfc-championship) — 1% YES
 - [Will Baker Mayfield win the 2026 NFL MVP?](/odds/will-baker-mayfield-win-the-2026-nfl-mvp) — 2% YES
-- [Will Paris Saint-Germain win the 2026-27 UEFA Champions League Championship?](/odds/will-paris-saint-germain-win-the-2026-27-uefa-champions-league-championship) — 14% YES
+- [Will the Boston Red Sox have the longest winning streak during the 2026 MLB regular season?](/odds/will-the-boston-red-sox-have-the-longest-winning-streak-during-the-2026-mlb-regu) — 97% YES
 
 ## Frequently Asked Questions
 

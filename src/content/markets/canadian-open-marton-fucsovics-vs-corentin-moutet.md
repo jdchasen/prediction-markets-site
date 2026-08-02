@@ -3,7 +3,7 @@ title: "Canadian Open: Marton Fucsovics vs Corentin Moutet"
 description: "Canadian Open: Marton Fucsovics vs Corentin Moutet Odds: 47.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Canadian Open: Marton Fucsovics vs Corentin Moutet"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-08-02
 expiryDate: 2026-08-10
 tags: ["politics", "polymarket"]

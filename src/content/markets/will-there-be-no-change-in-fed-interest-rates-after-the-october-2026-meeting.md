@@ -3,7 +3,7 @@ title: "Will there be no change in Fed interest rates after the October 2026 mee
 description: "Will there be no change in Fed interest rates after the October 2026 meeting? Odds: 68.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will there be no change in Fed interest rates after the October 2026 meeting?"
 category: "economics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-08-02
 expiryDate: 2026-10-28
 tags: ["economics", "federal-reserve", "interest-rates", "polymarket"]

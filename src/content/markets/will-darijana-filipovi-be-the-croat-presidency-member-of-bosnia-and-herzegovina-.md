@@ -3,7 +3,7 @@ title: "Will Darijana Filipović be the Croat Presidency Member of Bosnia and He
 description: "Will Darijana Filipović be the Croat Presidency Member of Bosnia and Herzegovina following the 2026 general election? Odds: 46.5% YES on Polymarket. See live..."
 marketQuestion: "Will Darijana Filipović be the Croat Presidency Member of Bosnia and Herzegovina following the 2026 general election?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-08-02
 expiryDate: 2026-10-04
 tags: ["elections", "politics", "polymarket"]

@@ -1,15 +1,15 @@
 ---
 title: "Will the highest score achieved by an Anthropic Claude model on Humanity’s Last Exam in 2026 be 65% or higher?"
-description: "Will the highest score achieved by an Anthropic Claude model on Humanity’s Last Exam in 2026 be 65% or higher? Odds: 29.0% YES on Polymarket. See live prices..."
+description: "Will the highest score achieved by an Anthropic Claude model on Humanity’s Last Exam in 2026 be 65% or higher? Odds: 26.5% YES on Polymarket. See live prices..."
 marketQuestion: "Will the highest score achieved by an Anthropic Claude model on Humanity’s Last Exam in 2026 be 65% or higher?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-02
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 29.0
-polymarketNo: 71.0
-polymarketVolume: 9800
+polymarketYes: 26.5
+polymarketNo: 73.5
+polymarketVolume: 9905
 polymarketUrl: "https://polymarket.com/event/will-the-highest-score-achieved-by-an-anthropic-claude-model-on-humanitys-last-exam-in-2026-be-65-or-higher-20260723190836288"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-highest-score-achieved-by-
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 29.0% | 71.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 26.5% | 73.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-highest-score-achieved-by-
 
 ### What are the current odds for "Will the highest score achieved by an Anthropic Claude model on Humanity’s Last Exam in 2026 be 65% or higher?"?
 
-As of August 02, 2026, Polymarket prices YES at 29.0%.
+As of August 02, 2026, Polymarket prices YES at 26.5%.
 
 ### Where can I trade on this prediction market?
 

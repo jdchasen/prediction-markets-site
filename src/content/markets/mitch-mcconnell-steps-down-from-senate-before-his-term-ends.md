@@ -9,7 +9,7 @@ expiryDate: 2027-01-03
 tags: ["politics", "polymarket"]
 polymarketYes: 34.5
 polymarketNo: 65.5
-polymarketVolume: 989239
+polymarketVolume: 993527
 polymarketUrl: "https://polymarket.com/event/will-mitch-mcconnell-resign-from-the-senate-before-his-term-ends"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-mitch-mcconnell-resign-from-th
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 34.5% | 65.5% | $989K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 34.5% | 65.5% | $994K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 

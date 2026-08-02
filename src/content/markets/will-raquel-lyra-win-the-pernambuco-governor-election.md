@@ -3,7 +3,7 @@ title: "Will Raquel Lyra win the Pernambuco Governor election?"
 description: "Will Raquel Lyra win the Pernambuco Governor election? Odds: 61.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Raquel Lyra win the Pernambuco Governor election?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-08-02
 expiryDate: 2026-10-04
 tags: ["elections", "politics", "polymarket"]

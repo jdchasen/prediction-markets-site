@@ -9,7 +9,7 @@ expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 38.5
 polymarketNo: 61.5
-polymarketVolume: 9880
+polymarketVolume: 9918
 polymarketUrl: "https://polymarket.com/event/will-rebeca-grynspan-be-the-next-secretary-general-of-the-united-nations-979"
 ---
 

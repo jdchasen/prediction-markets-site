@@ -23,7 +23,7 @@ polymarketUrl: "https://polymarket.com/event/will-baker-mayfield-win-the-2026-nf
 
 - [Will Arizona Cardinals win the 2027 NFL NFC Championship?](/odds/will-arizona-cardinals-win-the-2027-nfl-nfc-championship) — 1% YES
 - [Will the Baltimore Ravens win the 2027 NFL league championship?](/odds/will-the-baltimore-ravens-win-the-2027-nfl-league-championship) — 7% YES
-- [Will Paris Saint-Germain win the 2026-27 UEFA Champions League Championship?](/odds/will-paris-saint-germain-win-the-2026-27-uefa-champions-league-championship) — 14% YES
+- [Will the Boston Red Sox have the longest winning streak during the 2026 MLB regular season?](/odds/will-the-boston-red-sox-have-the-longest-winning-streak-during-the-2026-mlb-regu) — 97% YES
 
 ## Frequently Asked Questions
 

@@ -9,7 +9,7 @@ expiryDate: 2026-09-13
 tags: ["politics", "polymarket"]
 polymarketYes: 24.5
 polymarketNo: 75.5
-polymarketVolume: 9815
+polymarketVolume: 9824
 polymarketUrl: "https://polymarket.com/event/will-td-ierlan-win-the-2026-pll-face-off-player-of-the-year"
 ---
 

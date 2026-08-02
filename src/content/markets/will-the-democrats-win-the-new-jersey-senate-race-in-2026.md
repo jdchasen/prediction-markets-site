@@ -1,23 +1,22 @@
 ---
-title: "Will Truist fail by end of 2026?"
-description: "Will Truist fail by end of 2026? Odds: 1.9% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Truist fail by end of 2026?"
+title: "Will the Democrats win the New Jersey Senate race in 2026?"
+description: "Will the Democrats win the New Jersey Senate race in 2026? Odds: 94.0% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will the Democrats win the New Jersey Senate race in 2026?"
 category: "politics"
-status: "settled"
+status: "active"
 lastUpdated: 2026-08-02
-expiryDate: 2026-12-31
-tags: ["ai", "politics", "polymarket"]
-polymarketYes: 1.9
-polymarketNo: 98.1
-polymarketVolume: 9793
-polymarketUrl: "https://polymarket.com/event/will-truist-fail-by-end-of-2026"
+tags: ["politics", "polymarket"]
+polymarketYes: 94.0
+polymarketNo: 6.0
+polymarketVolume: 9982
+polymarketUrl: "https://polymarket.com/event/will-the-democrats-win-the-new-jersey-senate-race-in-2026"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 1.9% | 98.1% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 94.0% | 6.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +26,9 @@ polymarketUrl: "https://polymarket.com/event/will-truist-fail-by-end-of-2026"
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Truist fail by end of 2026?"?
+### What are the current odds for "Will the Democrats win the New Jersey Senate race in 2026?"?
 
-As of August 02, 2026, Polymarket prices YES at 1.9%.
+As of August 02, 2026, Polymarket prices YES at 94.0%.
 
 ### Where can I trade on this prediction market?
 

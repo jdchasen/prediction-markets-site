@@ -22,7 +22,6 @@ polymarketUrl: "https://polymarket.com/event/will-japan-q2-gdp-growth-annualized
 ## Related Markets
 
 - [Will the Fed decrease interest rates by 50+ bps after the October 2026 meeting?](/odds/will-the-fed-decrease-interest-rates-by-50-bps-after-the-october-2026-meeting) — 2% YES
-- [Will there be no change in Fed interest rates after the October 2026 meeting?](/odds/will-there-be-no-change-in-fed-interest-rates-after-the-october-2026-meeting) — 68% YES
 - [Will China's annual inflation in 2026 be between 1.1% and 1.5%?](/odds/will-chinas-annual-inflation-in-2026-be-between-11-and-15) — 40% YES
 
 ## Frequently Asked Questions
