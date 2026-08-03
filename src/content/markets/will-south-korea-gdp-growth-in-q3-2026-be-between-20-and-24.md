@@ -9,7 +9,7 @@ expiryDate: 2026-10-27
 tags: ["economics", "polymarket"]
 polymarketYes: 6.5
 polymarketNo: 93.5
-polymarketVolume: 9756
+polymarketVolume: 9846
 polymarketUrl: "https://polymarket.com/event/will-south-korea-gdp-growth-in-q3-2026-be-between-2pt0-and-2pt4-20260723231127766"
 ---
 
@@ -22,8 +22,8 @@ polymarketUrl: "https://polymarket.com/event/will-south-korea-gdp-growth-in-q3-2
 ## Related Markets
 
 - [Will the Fed decrease interest rates by 50+ bps after the October 2026 meeting?](/odds/will-the-fed-decrease-interest-rates-by-50-bps-after-the-october-2026-meeting) — 2% YES
-- [Will Japan Q2 GDP growth (annualized) be between 0.8% and 1.6%?](/odds/will-japan-q2-gdp-growth-annualized-be-between-08-and-16) — 26% YES
-- [Will the UK’s 2026 inflation be between 3.5% and 3.9%?](/odds/will-the-uks-2026-inflation-be-between-35-and-39) — 26% YES
+- [Will Brazil’s Annual Inflation in 2026 be between 5.00% and 5.49%?](/odds/will-brazils-annual-inflation-in-2026-be-between-500-and-549) — 37% YES
+- [Will the UK’s 2026 inflation be between 3.5% and 3.9%?](/odds/will-the-uks-2026-inflation-be-between-35-and-39) — 28% YES
 
 ## Frequently Asked Questions
 

@@ -3,7 +3,7 @@ title: "Will Squid launch a token by October 31, 2026?"
 description: "Will Squid launch a token by October 31, 2026? Odds: 99.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Squid launch a token by October 31, 2026?"
 category: "crypto"
-status: "active"
+status: "settled"
 lastUpdated: 2026-08-03
 expiryDate: 2026-11-01
 tags: ["crypto", "polymarket"]

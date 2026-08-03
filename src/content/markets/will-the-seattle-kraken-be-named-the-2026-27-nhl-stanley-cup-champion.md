@@ -22,8 +22,8 @@ polymarketUrl: "https://polymarket.com/event/will-the-seattle-kraken-be-named-th
 ## Related Markets
 
 - [Will Arizona Cardinals win the 2027 NFL NFC Championship?](/odds/will-arizona-cardinals-win-the-2027-nfl-nfc-championship) — 1% YES
+- [Will the Baltimore Ravens win the 2027 NFL league championship?](/odds/will-the-baltimore-ravens-win-the-2027-nfl-league-championship) — 7% YES
 - [Will Baker Mayfield win the 2026 NFL MVP?](/odds/will-baker-mayfield-win-the-2026-nfl-mvp) — 2% YES
-- [ICC Cricket World Cup League Two: Scotland vs United Arab Emirates](/odds/icc-cricket-world-cup-league-two-scotland-vs-united-arab-emirates) — 67% YES
 
 ## Frequently Asked Questions
 

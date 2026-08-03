@@ -3,7 +3,7 @@ title: "Will Japan Q2 GDP growth (annualized) be between 0.8% and 1.6%?"
 description: "Will Japan Q2 GDP growth (annualized) be between 0.8% and 1.6%? Odds: 26.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Japan Q2 GDP growth (annualized) be between 0.8% and 1.6%?"
 category: "economics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-08-03
 expiryDate: 2026-08-17
 tags: ["economics", "polymarket"]

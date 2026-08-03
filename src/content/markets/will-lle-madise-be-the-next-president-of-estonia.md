@@ -1,23 +1,23 @@
 ---
-title: "Will Yanaki Stoilov win the next Bulgarian presidential election?"
-description: "Will Yanaki Stoilov win the next Bulgarian presidential election? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Yanaki Stoilov win the next Bulgarian presidential election?"
+title: "Will Ülle Madise be the next President of Estonia?"
+description: "Will Ülle Madise be the next President of Estonia? Odds: 59.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Ülle Madise be the next President of Estonia?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-03
-expiryDate: 2026-11-30
-tags: ["elections", "politics", "polymarket"]
-polymarketYes: 0.1
-polymarketNo: 99.9
-polymarketVolume: 9948
-polymarketUrl: "https://polymarket.com/event/will-yanaki-stoilov-win-the-next-bulgarian-presidential-election"
+expiryDate: 2026-09-02
+tags: ["politics", "polymarket"]
+polymarketYes: 59.5
+polymarketNo: 40.5
+polymarketVolume: 9918
+polymarketUrl: "https://polymarket.com/event/will-ulle-madise-be-the-next-president-of-estonia-20260727225811944"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.1% | 99.9% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 59.5% | 40.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-yanaki-stoilov-win-the-next-bu
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Yanaki Stoilov win the next Bulgarian presidential election?"?
+### What are the current odds for "Will Ülle Madise be the next President of Estonia?"?
 
-As of August 03, 2026, Polymarket prices YES at 0.1%.
+As of August 03, 2026, Polymarket prices YES at 59.5%.
 
 ### Where can I trade on this prediction market?
 

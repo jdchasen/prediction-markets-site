@@ -3,7 +3,7 @@ title: "Will Sarah Knafo be on the ballot for the 2027 French presidential elect
 description: "Will Sarah Knafo be on the ballot for the 2027 French presidential election? Odds: 40.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Sarah Knafo be on the ballot for the 2027 French presidential election?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-08-03
 expiryDate: 2027-04-17
 tags: ["elections", "politics", "polymarket"]

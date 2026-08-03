@@ -1,23 +1,23 @@
 ---
-title: "Will Matt Klein be the Democratic nominee for MN-02?"
-description: "Will Matt Klein be the Democratic nominee for MN-02? Odds: 9.4% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Matt Klein be the Democratic nominee for MN-02?"
+title: "Will Ralph Norman be the new Republican nominee for Senate in South Carolina?"
+description: "Will Ralph Norman be the new Republican nominee for Senate in South Carolina? Odds: 16.0% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Ralph Norman be the new Republican nominee for Senate in South Carolina?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-03
 expiryDate: 2026-08-11
 tags: ["politics", "polymarket"]
-polymarketYes: 9.4
-polymarketNo: 90.6
-polymarketVolume: 9925
-polymarketUrl: "https://polymarket.com/event/will-matt-klein-be-the-democratic-nominee-for-mn-02"
+polymarketYes: 16.0
+polymarketNo: 84.0
+polymarketVolume: 98318
+polymarketUrl: "https://polymarket.com/event/will-ralph-norman-be-the-new-republican-nominee-for-senate-in-south-carolina-20260712140628829"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 9.4% | 90.6% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 16.0% | 84.0% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-matt-klein-be-the-democratic-n
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Matt Klein be the Democratic nominee for MN-02?"?
+### What are the current odds for "Will Ralph Norman be the new Republican nominee for Senate in South Carolina?"?
 
-As of August 03, 2026, Polymarket prices YES at 9.4%.
+As of August 03, 2026, Polymarket prices YES at 16.0%.
 
 ### Where can I trade on this prediction market?
 
@@ -37,6 +37,6 @@ You can trade this market on [Polymarket](https://polymarket.us/1762?utm_source=
 
 ## Learn More
 
-- [2028 Democratic Nominee Odds: Market Analysis](/blog/2028-democratic-nominee-odds-market-analysis)
+- [2028 Republican Nominee Odds: Who Traders Are Backing](/blog/2028-republican-nominee-odds-who-traders-are-backing)
 - [Will Oil Hit $100? March Crude Prediction Market Odds](/blog/will-oil-hit-100-march-crude-prediction-market-odds)
 

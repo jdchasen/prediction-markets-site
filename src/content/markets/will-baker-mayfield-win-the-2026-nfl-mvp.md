@@ -22,8 +22,8 @@ polymarketUrl: "https://polymarket.com/event/will-baker-mayfield-win-the-2026-nf
 ## Related Markets
 
 - [Will Arizona Cardinals win the 2027 NFL NFC Championship?](/odds/will-arizona-cardinals-win-the-2027-nfl-nfc-championship) — 1% YES
+- [Will the Baltimore Ravens win the 2027 NFL league championship?](/odds/will-the-baltimore-ravens-win-the-2027-nfl-league-championship) — 7% YES
 - [Will the Seattle Kraken be named the 2026-27 NHL Stanley Cup Champion?](/odds/will-the-seattle-kraken-be-named-the-2026-27-nhl-stanley-cup-champion) — 0% YES
-- [ICC Cricket World Cup League Two: Scotland vs United Arab Emirates](/odds/icc-cricket-world-cup-league-two-scotland-vs-united-arab-emirates) — 67% YES
 
 ## Frequently Asked Questions
 

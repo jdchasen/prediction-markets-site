@@ -1,23 +1,23 @@
 ---
-title: "Will Yanaki Stoilov win the next Bulgarian presidential election?"
-description: "Will Yanaki Stoilov win the next Bulgarian presidential election? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Yanaki Stoilov win the next Bulgarian presidential election?"
+title: "Will Simona Mohamsson be the next Prime Minister of Sweden?"
+description: "Will Simona Mohamsson be the next Prime Minister of Sweden? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Simona Mohamsson be the next Prime Minister of Sweden?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-03
-expiryDate: 2026-11-30
-tags: ["elections", "politics", "polymarket"]
+expiryDate: 2026-09-13
+tags: ["politics", "polymarket"]
 polymarketYes: 0.1
 polymarketNo: 99.9
-polymarketVolume: 9948
-polymarketUrl: "https://polymarket.com/event/will-yanaki-stoilov-win-the-next-bulgarian-presidential-election"
+polymarketVolume: 98357
+polymarketUrl: "https://polymarket.com/event/will-simona-mohamsson-be-the-next-prime-minister-of-sweden"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.1% | 99.9% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.1% | 99.9% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,7 +27,7 @@ polymarketUrl: "https://polymarket.com/event/will-yanaki-stoilov-win-the-next-bu
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Yanaki Stoilov win the next Bulgarian presidential election?"?
+### What are the current odds for "Will Simona Mohamsson be the next Prime Minister of Sweden?"?
 
 As of August 03, 2026, Polymarket prices YES at 0.1%.
 

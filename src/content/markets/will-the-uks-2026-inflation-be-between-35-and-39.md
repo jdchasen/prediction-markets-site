@@ -1,15 +1,15 @@
 ---
 title: "Will the UK’s 2026 inflation be between 3.5% and 3.9%?"
-description: "Will the UK’s 2026 inflation be between 3.5% and 3.9%? Odds: 26.5% YES on Polymarket. See live prices and trade this market."
+description: "Will the UK’s 2026 inflation be between 3.5% and 3.9%? Odds: 27.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the UK’s 2026 inflation be between 3.5% and 3.9%?"
 category: "economics"
 status: "active"
 lastUpdated: 2026-08-03
 expiryDate: 2027-01-20
 tags: ["economics", "polymarket", "sports"]
-polymarketYes: 26.5
-polymarketNo: 73.6
-polymarketVolume: 9882
+polymarketYes: 27.9
+polymarketNo: 72.2
+polymarketVolume: 9907
 polymarketUrl: "https://polymarket.com/event/will-the-uks-2026-inflation-be-between-3pt5-and-3pt9"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-the-uks-2026-inflation-be-betw
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 26.5% | 73.6% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 27.9% | 72.2% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will the Fed decrease interest rates by 50+ bps after the October 2026 meeting?](/odds/will-the-fed-decrease-interest-rates-by-50-bps-after-the-october-2026-meeting) — 2% YES
-- [Will Japan Q2 GDP growth (annualized) be between 0.8% and 1.6%?](/odds/will-japan-q2-gdp-growth-annualized-be-between-08-and-16) — 26% YES
+- [Will Brazil’s Annual Inflation in 2026 be between 5.00% and 5.49%?](/odds/will-brazils-annual-inflation-in-2026-be-between-500-and-549) — 37% YES
 - [Will South Korea GDP growth in Q3 2026 be between 2.0% and 2.4%?](/odds/will-south-korea-gdp-growth-in-q3-2026-be-between-20-and-24) — 6% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will the UK’s 2026 inflation be between 3.5% and 3.9%?"?
 
-As of August 03, 2026, Polymarket prices YES at 26.5%.
+As of August 03, 2026, Polymarket prices YES at 27.9%.
 
 ### Where can I trade on this prediction market?
 

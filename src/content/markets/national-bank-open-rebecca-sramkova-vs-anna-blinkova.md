@@ -3,7 +3,7 @@ title: "National Bank Open: Rebecca Sramkova vs Anna Blinkova"
 description: "National Bank Open: Rebecca Sramkova vs Anna Blinkova Odds: 42.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "National Bank Open: Rebecca Sramkova vs Anna Blinkova"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-08-03
 expiryDate: 2026-08-09
 tags: ["politics", "polymarket"]

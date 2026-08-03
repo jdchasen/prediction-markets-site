@@ -3,7 +3,7 @@ title: "Will Trump and Putin meet next in Switzerland?"
 description: "Will Trump and Putin meet next in Switzerland? Odds: 0.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Trump and Putin meet next in Switzerland?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-08-03
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket", "trump"]

@@ -9,7 +9,7 @@ expiryDate: 2026-10-28
 tags: ["economics", "federal-reserve", "interest-rates", "polymarket"]
 polymarketYes: 1.5
 polymarketNo: 98.5
-polymarketVolume: 99754
+polymarketVolume: 99874
 polymarketUrl: "https://polymarket.com/event/will-the-fed-decrease-interest-rates-by-50-bps-after-the-october-2026-meeting-20260617190324029"
 ---
 
@@ -21,8 +21,8 @@ polymarketUrl: "https://polymarket.com/event/will-the-fed-decrease-interest-rate
 
 ## Related Markets
 
-- [Will Japan Q2 GDP growth (annualized) be between 0.8% and 1.6%?](/odds/will-japan-q2-gdp-growth-annualized-be-between-08-and-16) — 26% YES
-- [Will the UK’s 2026 inflation be between 3.5% and 3.9%?](/odds/will-the-uks-2026-inflation-be-between-35-and-39) — 26% YES
+- [Will Brazil’s Annual Inflation in 2026 be between 5.00% and 5.49%?](/odds/will-brazils-annual-inflation-in-2026-be-between-500-and-549) — 37% YES
+- [Will the UK’s 2026 inflation be between 3.5% and 3.9%?](/odds/will-the-uks-2026-inflation-be-between-35-and-39) — 28% YES
 - [Will South Korea GDP growth in Q3 2026 be between 2.0% and 2.4%?](/odds/will-south-korea-gdp-growth-in-q3-2026-be-between-20-and-24) — 6% YES
 
 ## Frequently Asked Questions

@@ -9,7 +9,7 @@ expiryDate: 2026-12-31
 tags: ["politics", "polymarket", "trump"]
 polymarketYes: 2.2
 polymarketNo: 97.8
-polymarketVolume: 989382
+polymarketVolume: 989383
 polymarketUrl: "https://polymarket.com/event/will-trump-be-impeached-by-december-31-2026"
 ---
 
@@ -22,8 +22,8 @@ polymarketUrl: "https://polymarket.com/event/will-trump-be-impeached-by-december
 ## Related Markets
 
 - [Will Eric Trump win the 2028 Republican presidential nomination?](/odds/will-eric-trump-win-the-2028-republican-presidential-nomination) — 0% YES
-- [Will the Cleveland Guardians win the 2026 World Series?](/odds/will-the-cleveland-guardians-win-the-2026-world-series) — 1% YES
-- [Will the US strike 13 countries in 2026?](/odds/will-the-us-strike-13-countries-in-2026) — 0% YES
+- [Will the Cleveland Guardians win the 2026 World Series?](/odds/will-the-cleveland-guardians-win-the-2026-world-series) — 2% YES
+- [Israel x Iran ceasefire continues through August 31?](/odds/israel-x-iran-ceasefire-continues-through-august-31) — 68% YES
 
 ## Frequently Asked Questions
 

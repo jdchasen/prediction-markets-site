@@ -3,7 +3,7 @@ title: "ICC Cricket World Cup League Two: Scotland vs United Arab Emirates"
 description: "ICC Cricket World Cup League Two: Scotland vs United Arab Emirates Odds: 67.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "ICC Cricket World Cup League Two: Scotland vs United Arab Emirates"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-08-03
 expiryDate: 2026-08-10
 tags: ["polymarket", "sports"]
