@@ -1,35 +1,35 @@
 ---
-title: "Will Baker Mayfield win the 2026 NFL MVP?"
-description: "Will Baker Mayfield win the 2026 NFL MVP? Odds: 1.8% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Baker Mayfield win the 2026 NFL MVP?"
+title: "Will the Washington Nationals clinch a spot in the 2026 MLB Postseason?"
+description: "Will the Washington Nationals clinch a spot in the 2026 MLB Postseason? Odds: 7.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will the Washington Nationals clinch a spot in the 2026 MLB Postseason?"
 category: "sports"
 status: "active"
 lastUpdated: 2026-08-03
-expiryDate: 2027-02-15
+expiryDate: 2026-09-28
 tags: ["polymarket", "sports"]
-polymarketYes: 1.8
-polymarketNo: 98.2
-polymarketVolume: 99503
-polymarketUrl: "https://polymarket.com/event/will-baker-mayfield-win-the-2026-nfl-mvp"
+polymarketYes: 7.5
+polymarketNo: 92.5
+polymarketVolume: 9814
+polymarketUrl: "https://polymarket.com/event/will-the-washington-nationals-clinch-a-spot-in-the-2026-mlb-postseason"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 1.8% | 98.2% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 7.5% | 92.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Arizona Cardinals win the 2027 NFL NFC Championship?](/odds/will-arizona-cardinals-win-the-2027-nfl-nfc-championship) — 1% YES
+- [Will Baker Mayfield win the 2026 NFL MVP?](/odds/will-baker-mayfield-win-the-2026-nfl-mvp) — 2% YES
 - [Will the Seattle Kraken be named the 2026-27 NHL Stanley Cup Champion?](/odds/will-the-seattle-kraken-be-named-the-2026-27-nhl-stanley-cup-champion) — 0% YES
-- [ICC Cricket World Cup League Two: Scotland vs United Arab Emirates](/odds/icc-cricket-world-cup-league-two-scotland-vs-united-arab-emirates) — 67% YES
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Baker Mayfield win the 2026 NFL MVP?"?
+### What are the current odds for "Will the Washington Nationals clinch a spot in the 2026 MLB Postseason?"?
 
-As of August 03, 2026, Polymarket prices YES at 1.8%.
+As of August 03, 2026, Polymarket prices YES at 7.5%.
 
 ### Where can I trade on this prediction market?
 

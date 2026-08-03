@@ -1,15 +1,15 @@
 ---
 title: "Will Rebeca Grynspan be the next Secretary-General of the United Nations?"
-description: "Will Rebeca Grynspan be the next Secretary-General of the United Nations? Odds: 38.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Rebeca Grynspan be the next Secretary-General of the United Nations? Odds: 41.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Rebeca Grynspan be the next Secretary-General of the United Nations?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-08-02
+lastUpdated: 2026-08-03
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 38.5
-polymarketNo: 61.5
-polymarketVolume: 9918
+polymarketYes: 41.5
+polymarketNo: 58.5
+polymarketVolume: 9945
 polymarketUrl: "https://polymarket.com/event/will-rebeca-grynspan-be-the-next-secretary-general-of-the-united-nations-979"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-rebeca-grynspan-be-the-next-se
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 38.5% | 61.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 41.5% | 58.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Eric Trump win the 2028 Republican presidential nomination?](/odds/will-eric-trump-win-the-2028-republican-presidential-nomination) — 0% YES
-- [Will Masoud Pezeshkian be head of state in Iran end of 2026?](/odds/will-masoud-pezeshkian-be-head-of-state-in-iran-end-of-2026) — 0% YES
-- [Mitch McConnell steps down from Senate before his term ends?](/odds/mitch-mcconnell-steps-down-from-senate-before-his-term-ends) — 34% YES
+- [Will the Cleveland Guardians win the 2026 World Series?](/odds/will-the-cleveland-guardians-win-the-2026-world-series) — 1% YES
+- [Will Trump be impeached by end of 2026?](/odds/will-trump-be-impeached-by-end-of-2026) — 2% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Rebeca Grynspan be the next Secretary-General of the United Nations?"?
 
-As of August 02, 2026, Polymarket prices YES at 38.5%.
+As of August 03, 2026, Polymarket prices YES at 41.5%.
 
 ### Where can I trade on this prediction market?
 

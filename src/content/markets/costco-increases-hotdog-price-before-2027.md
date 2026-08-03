@@ -3,8 +3,8 @@ title: "Costco increases hotdog price before 2027?"
 description: "Costco increases hotdog price before 2027? Odds: 7.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Costco increases hotdog price before 2027?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-08-02
+status: "settled"
+lastUpdated: 2026-08-03
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 7.0

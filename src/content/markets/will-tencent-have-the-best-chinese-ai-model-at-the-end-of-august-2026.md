@@ -1,23 +1,23 @@
 ---
-title: "Will Min Woo Lee win the 2026 TOUR Championship?"
-description: "Will Min Woo Lee win the 2026 TOUR Championship? Odds: 0.8% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Min Woo Lee win the 2026 TOUR Championship?"
+title: "Will Tencent have the best Chinese AI model at the end of August 2026?"
+description: "Will Tencent have the best Chinese AI model at the end of August 2026? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Tencent have the best Chinese AI model at the end of August 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-03
 expiryDate: 2026-08-31
-tags: ["politics", "polymarket"]
-polymarketYes: 0.8
-polymarketNo: 99.2
-polymarketVolume: 98352
-polymarketUrl: "https://polymarket.com/event/will-min-woo-lee-win-the-2026-tour-championship-517"
+tags: ["ai", "politics", "polymarket"]
+polymarketYes: 0.1
+polymarketNo: 100.0
+polymarketVolume: 9854
+polymarketUrl: "https://polymarket.com/event/will-tencent-have-the-best-chinese-ai-model-at-the-end-of-august-2026-20260717004241603"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.8% | 99.2% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.1% | 100.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-min-woo-lee-win-the-2026-tour-
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Min Woo Lee win the 2026 TOUR Championship?"?
+### What are the current odds for "Will Tencent have the best Chinese AI model at the end of August 2026?"?
 
-As of August 03, 2026, Polymarket prices YES at 0.8%.
+As of August 03, 2026, Polymarket prices YES at 0.1%.
 
 ### Where can I trade on this prediction market?
 

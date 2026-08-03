@@ -4,7 +4,7 @@ description: "Will the highest score achieved by an Anthropic Claude model on Hu
 marketQuestion: "Will the highest score achieved by an Anthropic Claude model on Humanity’s Last Exam in 2026 be 65% or higher?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-08-02
+lastUpdated: 2026-08-03
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 26.5
@@ -22,14 +22,14 @@ polymarketUrl: "https://polymarket.com/event/will-the-highest-score-achieved-by-
 ## Related Markets
 
 - [Will Eric Trump win the 2028 Republican presidential nomination?](/odds/will-eric-trump-win-the-2028-republican-presidential-nomination) — 0% YES
-- [Will Masoud Pezeshkian be head of state in Iran end of 2026?](/odds/will-masoud-pezeshkian-be-head-of-state-in-iran-end-of-2026) — 0% YES
-- [Mitch McConnell steps down from Senate before his term ends?](/odds/mitch-mcconnell-steps-down-from-senate-before-his-term-ends) — 34% YES
+- [Will the Cleveland Guardians win the 2026 World Series?](/odds/will-the-cleveland-guardians-win-the-2026-world-series) — 1% YES
+- [Will Trump be impeached by end of 2026?](/odds/will-trump-be-impeached-by-end-of-2026) — 2% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will the highest score achieved by an Anthropic Claude model on Humanity’s Last Exam in 2026 be 65% or higher?"?
 
-As of August 02, 2026, Polymarket prices YES at 26.5%.
+As of August 03, 2026, Polymarket prices YES at 26.5%.
 
 ### Where can I trade on this prediction market?
 

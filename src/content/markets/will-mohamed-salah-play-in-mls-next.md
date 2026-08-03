@@ -3,8 +3,8 @@ title: "Will Mohamed Salah play in MLS next?"
 description: "Will Mohamed Salah play in MLS next? Odds: 6.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Mohamed Salah play in MLS next?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-08-02
+status: "settled"
+lastUpdated: 2026-08-03
 expiryDate: 2026-09-01
 tags: ["politics", "polymarket"]
 polymarketYes: 6.0

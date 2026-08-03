@@ -1,15 +1,15 @@
 ---
 title: "Will El Salvador hold $1b+ of BTC by December 31, 2026?"
-description: "Will El Salvador hold $1b+ of BTC by December 31, 2026? Odds: 26.0% YES on Polymarket. See live prices and trade this market."
+description: "Will El Salvador hold $1b+ of BTC by December 31, 2026? Odds: 25.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will El Salvador hold $1b+ of BTC by December 31, 2026?"
 category: "crypto"
 status: "active"
-lastUpdated: 2026-08-02
+lastUpdated: 2026-08-03
 expiryDate: 2027-01-01
 tags: ["bitcoin", "crypto", "polymarket"]
-polymarketYes: 26.0
-polymarketNo: 74.0
-polymarketVolume: 9992
+polymarketYes: 25.5
+polymarketNo: 74.5
+polymarketVolume: 9997
 polymarketUrl: "https://polymarket.com/event/will-el-salvador-hold-1b-of-btc-by-december-31-2026"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-el-salvador-hold-1b-of-btc-by-
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 26.0% | 74.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 25.5% | 74.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-el-salvador-hold-1b-of-btc-by-
 
 ### What are the current odds for "Will El Salvador hold $1b+ of BTC by December 31, 2026?"?
 
-As of August 02, 2026, Polymarket prices YES at 26.0%.
+As of August 03, 2026, Polymarket prices YES at 25.5%.
 
 ### Where can I trade on this prediction market?
 

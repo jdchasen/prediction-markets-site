@@ -1,23 +1,23 @@
 ---
-title: "Will the Democratic Party win the FL-03 House seat?"
-description: "Will the Democratic Party win the FL-03 House seat? Odds: 8.0% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will the Democratic Party win the FL-03 House seat?"
+title: "Will Matt Klein be the Democratic nominee for MN-02?"
+description: "Will Matt Klein be the Democratic nominee for MN-02? Odds: 9.9% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Matt Klein be the Democratic nominee for MN-02?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-03
-expiryDate: 2026-11-03
+expiryDate: 2026-08-11
 tags: ["politics", "polymarket"]
-polymarketYes: 8.0
-polymarketNo: 92.0
-polymarketVolume: 9879
-polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-fl-03-house-seat"
+polymarketYes: 9.9
+polymarketNo: 90.1
+polymarketVolume: 9925
+polymarketUrl: "https://polymarket.com/event/will-matt-klein-be-the-democratic-nominee-for-mn-02"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 8.0% | 92.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 9.9% | 90.1% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-f
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will the Democratic Party win the FL-03 House seat?"?
+### What are the current odds for "Will Matt Klein be the Democratic nominee for MN-02?"?
 
-As of August 03, 2026, Polymarket prices YES at 8.0%.
+As of August 03, 2026, Polymarket prices YES at 9.9%.
 
 ### Where can I trade on this prediction market?
 
@@ -37,6 +37,6 @@ You can trade this market on [Polymarket](https://polymarket.us/1762?utm_source=
 
 ## Learn More
 
+- [2028 Democratic Nominee Odds: Market Analysis](/blog/2028-democratic-nominee-odds-market-analysis)
 - [Will Oil Hit $100? March Crude Prediction Market Odds](/blog/will-oil-hit-100-march-crude-prediction-market-odds)
-- [Will MicroStrategy Sell Bitcoin? Market Odds](/blog/will-microstrategy-sell-bitcoin-market-odds)
 

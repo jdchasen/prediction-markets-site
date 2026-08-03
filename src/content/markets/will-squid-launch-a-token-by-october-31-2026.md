@@ -1,23 +1,23 @@
 ---
-title: "Unit FDV above $1B one day after launch?"
-description: "Unit FDV above $1B one day after launch? Odds: 12.0% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Unit FDV above $1B one day after launch?"
+title: "Will Squid launch a token by October 31, 2026?"
+description: "Will Squid launch a token by October 31, 2026? Odds: 99.8% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Squid launch a token by October 31, 2026?"
 category: "crypto"
-status: "settled"
+status: "active"
 lastUpdated: 2026-08-03
-expiryDate: 2028-01-01
+expiryDate: 2026-11-01
 tags: ["crypto", "polymarket"]
-polymarketYes: 12.0
-polymarketNo: 88.0
-polymarketVolume: 9798
-polymarketUrl: "https://polymarket.com/event/unit-fdv-above-1b-one-day-after-launch"
+polymarketYes: 99.8
+polymarketNo: 0.2
+polymarketVolume: 9952
+polymarketUrl: "https://polymarket.com/event/will-squid-launch-a-token-by-october-31-2026"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 12.0% | 88.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 99.8% | 0.2% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/unit-fdv-above-1b-one-day-after-lau
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Unit FDV above $1B one day after launch?"?
+### What are the current odds for "Will Squid launch a token by October 31, 2026?"?
 
-As of August 02, 2026, Polymarket prices YES at 12.0%.
+As of August 03, 2026, Polymarket prices YES at 99.8%.
 
 ### Where can I trade on this prediction market?
 

@@ -3,8 +3,8 @@ title: "Will the price of Bitcoin be between $60,000 and $62,000 on August 7?"
 description: "Will the price of Bitcoin be between $60,000 and $62,000 on August 7? Odds: 16.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the price of Bitcoin be between $60,000 and $62,000 on August 7?"
 category: "crypto"
-status: "active"
-lastUpdated: 2026-08-02
+status: "settled"
+lastUpdated: 2026-08-03
 expiryDate: 2026-08-07
 tags: ["bitcoin", "crypto", "polymarket"]
 polymarketYes: 16.0

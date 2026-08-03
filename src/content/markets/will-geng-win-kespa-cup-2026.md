@@ -3,8 +3,8 @@ title: "Will Gen.G Win KeSPA Cup 2026?"
 description: "Will Gen.G Win KeSPA Cup 2026? Odds: 16.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Gen.G Win KeSPA Cup 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-08-02
+status: "settled"
+lastUpdated: 2026-08-03
 tags: ["politics", "polymarket"]
 polymarketYes: 16.7
 polymarketNo: 83.4

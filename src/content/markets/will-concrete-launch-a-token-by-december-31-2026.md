@@ -1,23 +1,23 @@
 ---
-title: "Unit FDV above $1B one day after launch?"
-description: "Unit FDV above $1B one day after launch? Odds: 12.0% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Unit FDV above $1B one day after launch?"
+title: "Will Concrete launch a token by December 31, 2026?"
+description: "Will Concrete launch a token by December 31, 2026? Odds: 44.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Concrete launch a token by December 31, 2026?"
 category: "crypto"
-status: "settled"
+status: "active"
 lastUpdated: 2026-08-03
-expiryDate: 2028-01-01
+expiryDate: 2027-01-01
 tags: ["crypto", "polymarket"]
-polymarketYes: 12.0
-polymarketNo: 88.0
-polymarketVolume: 9798
-polymarketUrl: "https://polymarket.com/event/unit-fdv-above-1b-one-day-after-launch"
+polymarketYes: 44.5
+polymarketNo: 55.5
+polymarketVolume: 9953
+polymarketUrl: "https://polymarket.com/event/will-concrete-launch-a-token-by-december-31-2026"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 12.0% | 88.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 44.5% | 55.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/unit-fdv-above-1b-one-day-after-lau
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Unit FDV above $1B one day after launch?"?
+### What are the current odds for "Will Concrete launch a token by December 31, 2026?"?
 
-As of August 02, 2026, Polymarket prices YES at 12.0%.
+As of August 03, 2026, Polymarket prices YES at 44.5%.
 
 ### Where can I trade on this prediction market?
 

@@ -3,8 +3,8 @@ title: "Will the Boston Red Sox have the longest winning streak during the 2026 
 description: "Will the Boston Red Sox have the longest winning streak during the 2026 MLB regular season? Odds: 96.8% YES on Polymarket. See live prices and trade this mar..."
 marketQuestion: "Will the Boston Red Sox have the longest winning streak during the 2026 MLB regular season?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-08-02
+status: "settled"
+lastUpdated: 2026-08-03
 expiryDate: 2026-09-28
 tags: ["polymarket", "sports"]
 polymarketYes: 96.8

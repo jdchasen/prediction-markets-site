@@ -3,8 +3,8 @@ title: "Will Laurence Fox get second place in the Clacton by-election?"
 description: "Will Laurence Fox get second place in the Clacton by-election? Odds: 4.3% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Laurence Fox get second place in the Clacton by-election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-08-02
+status: "settled"
+lastUpdated: 2026-08-03
 expiryDate: 2026-08-13
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 4.3

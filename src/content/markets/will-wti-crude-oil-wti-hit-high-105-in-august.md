@@ -1,23 +1,23 @@
 ---
-title: "Will the Democratic Party win the FL-03 House seat?"
-description: "Will the Democratic Party win the FL-03 House seat? Odds: 8.0% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will the Democratic Party win the FL-03 House seat?"
+title: "Will WTI Crude Oil (WTI) hit (HIGH) $105 in August?"
+description: "Will WTI Crude Oil (WTI) hit (HIGH) $105 in August? Odds: 7.0% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will WTI Crude Oil (WTI) hit (HIGH) $105 in August?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-03
-expiryDate: 2026-11-03
+expiryDate: 2026-09-01
 tags: ["politics", "polymarket"]
-polymarketYes: 8.0
-polymarketNo: 92.0
-polymarketVolume: 9879
-polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-fl-03-house-seat"
+polymarketYes: 7.0
+polymarketNo: 93.0
+polymarketVolume: 98442
+polymarketUrl: "https://polymarket.com/event/will-wti-reach-105-in-august-2026"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 8.0% | 92.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 7.0% | 93.0% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-f
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will the Democratic Party win the FL-03 House seat?"?
+### What are the current odds for "Will WTI Crude Oil (WTI) hit (HIGH) $105 in August?"?
 
-As of August 03, 2026, Polymarket prices YES at 8.0%.
+As of August 03, 2026, Polymarket prices YES at 7.0%.
 
 ### Where can I trade on this prediction market?
 

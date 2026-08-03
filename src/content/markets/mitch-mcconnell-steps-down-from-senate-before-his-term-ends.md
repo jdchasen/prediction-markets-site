@@ -3,8 +3,8 @@ title: "Mitch McConnell steps down from Senate before his term ends?"
 description: "Mitch McConnell steps down from Senate before his term ends? Odds: 34.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Mitch McConnell steps down from Senate before his term ends?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-08-02
+status: "settled"
+lastUpdated: 2026-08-03
 expiryDate: 2027-01-03
 tags: ["politics", "polymarket"]
 polymarketYes: 34.5
