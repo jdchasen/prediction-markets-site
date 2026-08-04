@@ -3,8 +3,8 @@ title: "Will Modena FC win on 2026-08-08?"
 description: "Will Modena FC win on 2026-08-08? Odds: 2.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Modena FC win on 2026-08-08?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-08-03
+status: "settled"
+lastUpdated: 2026-08-04
 expiryDate: 2026-08-08
 tags: ["politics", "polymarket"]
 polymarketYes: 2.2

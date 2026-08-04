@@ -3,8 +3,8 @@ title: "Will the UK’s 2026 inflation be between 3.5% and 3.9%?"
 description: "Will the UK’s 2026 inflation be between 3.5% and 3.9%? Odds: 27.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the UK’s 2026 inflation be between 3.5% and 3.9%?"
 category: "economics"
-status: "active"
-lastUpdated: 2026-08-03
+status: "settled"
+lastUpdated: 2026-08-04
 expiryDate: 2027-01-20
 tags: ["economics", "polymarket", "sports"]
 polymarketYes: 27.9

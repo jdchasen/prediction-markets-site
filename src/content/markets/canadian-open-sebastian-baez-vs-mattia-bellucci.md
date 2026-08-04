@@ -3,8 +3,8 @@ title: "Canadian Open: Sebastian Baez vs Mattia Bellucci"
 description: "Canadian Open: Sebastian Baez vs Mattia Bellucci Odds: 51.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Canadian Open: Sebastian Baez vs Mattia Bellucci"
 category: "politics"
-status: "active"
-lastUpdated: 2026-08-03
+status: "settled"
+lastUpdated: 2026-08-04
 expiryDate: 2026-08-10
 tags: ["politics", "polymarket"]
 polymarketYes: 51.5

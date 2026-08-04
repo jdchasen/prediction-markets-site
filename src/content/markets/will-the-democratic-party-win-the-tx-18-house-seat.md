@@ -1,23 +1,23 @@
 ---
-title: "Will the Democratic Party win the AR-01 House seat?"
-description: "Will the Democratic Party win the AR-01 House seat? Odds: 1.6% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will the Democratic Party win the AR-01 House seat?"
+title: "Will the Democratic Party win the TX-18 House seat?"
+description: "Will the Democratic Party win the TX-18 House seat? Odds: 95.8% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will the Democratic Party win the TX-18 House seat?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-04
-expiryDate: 2026-11-03
+expiryDate: 2026-11-04
 tags: ["politics", "polymarket"]
-polymarketYes: 1.6
-polymarketNo: 98.5
-polymarketVolume: 9882
-polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-ar-01-house-seat"
+polymarketYes: 95.8
+polymarketNo: 4.2
+polymarketVolume: 9875
+polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-tx-18-house-seat"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 1.6% | 98.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 95.8% | 4.2% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-a
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will the Democratic Party win the AR-01 House seat?"?
+### What are the current odds for "Will the Democratic Party win the TX-18 House seat?"?
 
-As of August 04, 2026, Polymarket prices YES at 1.6%.
+As of August 04, 2026, Polymarket prices YES at 95.8%.
 
 ### Where can I trade on this prediction market?
 

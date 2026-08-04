@@ -1,23 +1,23 @@
 ---
-title: "Will the Democratic Party win the AR-01 House seat?"
-description: "Will the Democratic Party win the AR-01 House seat? Odds: 1.6% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will the Democratic Party win the AR-01 House seat?"
+title: "Will \"Beef\" win 2 or 3 awards at the Emmys?"
+description: "Will \"Beef\" win 2 or 3 awards at the Emmys? Odds: 40.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will \"Beef\" win 2 or 3 awards at the Emmys?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-04
-expiryDate: 2026-11-03
-tags: ["politics", "polymarket"]
-polymarketYes: 1.6
-polymarketNo: 98.5
-polymarketVolume: 9882
-polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-ar-01-house-seat"
+expiryDate: 2026-09-14
+tags: ["entertainment", "politics", "polymarket"]
+polymarketYes: 40.5
+polymarketNo: 59.5
+polymarketVolume: 9995
+polymarketUrl: "https://polymarket.com/event/will-beef-win-2-or-3-awards-at-the-emmys-20260730202919764"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 1.6% | 98.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 40.5% | 59.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-a
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will the Democratic Party win the AR-01 House seat?"?
+### What are the current odds for "Will "Beef" win 2 or 3 awards at the Emmys?"?
 
-As of August 04, 2026, Polymarket prices YES at 1.6%.
+As of August 04, 2026, Polymarket prices YES at 40.5%.
 
 ### Where can I trade on this prediction market?
 

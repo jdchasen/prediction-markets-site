@@ -4,7 +4,7 @@ description: "Will the Fed decrease interest rates by 50+ bps after the October 
 marketQuestion: "Will the Fed decrease interest rates by 50+ bps after the October 2026 meeting?"
 category: "economics"
 status: "active"
-lastUpdated: 2026-08-03
+lastUpdated: 2026-08-04
 expiryDate: 2026-10-28
 tags: ["economics", "federal-reserve", "interest-rates", "polymarket"]
 polymarketYes: 1.5
@@ -21,15 +21,15 @@ polymarketUrl: "https://polymarket.com/event/will-the-fed-decrease-interest-rate
 
 ## Related Markets
 
-- [Will Brazil’s Annual Inflation in 2026 be between 5.00% and 5.49%?](/odds/will-brazils-annual-inflation-in-2026-be-between-500-and-549) — 37% YES
-- [Will the UK’s 2026 inflation be between 3.5% and 3.9%?](/odds/will-the-uks-2026-inflation-be-between-35-and-39) — 28% YES
+- [Will the Fed decrease interest rates by 25 bps after the October 2026 meeting?](/odds/will-the-fed-decrease-interest-rates-by-25-bps-after-the-october-2026-meeting) — 6% YES
+- [Will Brazil’s Annual Inflation in 2026 be between 5.00% and 5.49%?](/odds/will-brazils-annual-inflation-in-2026-be-between-500-and-549) — 38% YES
 - [Will South Korea GDP growth in Q3 2026 be between 2.0% and 2.4%?](/odds/will-south-korea-gdp-growth-in-q3-2026-be-between-20-and-24) — 6% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will the Fed decrease interest rates by 50+ bps after the October 2026 meeting?"?
 
-As of August 03, 2026, Polymarket prices YES at 1.5%.
+As of August 04, 2026, Polymarket prices YES at 1.5%.
 
 ### Where can I trade on this prediction market?
 

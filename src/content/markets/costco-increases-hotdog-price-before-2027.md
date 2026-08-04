@@ -1,15 +1,15 @@
 ---
 title: "Costco increases hotdog price before 2027?"
-description: "Costco increases hotdog price before 2027? Odds: 7.0% YES on Polymarket. See live prices and trade this market."
+description: "Costco increases hotdog price before 2027? Odds: 7.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Costco increases hotdog price before 2027?"
 category: "politics"
-status: "settled"
-lastUpdated: 2026-08-03
+status: "active"
+lastUpdated: 2026-08-04
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 7.0
-polymarketNo: 93.0
-polymarketVolume: 9806
+polymarketYes: 7.5
+polymarketNo: 92.5
+polymarketVolume: 9838
 polymarketUrl: "https://polymarket.com/event/costco-increases-hotdog-price-before-2027"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/costco-increases-hotdog-price-befor
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 7.0% | 93.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 7.5% | 92.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Eric Trump win the 2028 Republican presidential nomination?](/odds/will-eric-trump-win-the-2028-republican-presidential-nomination) — 0% YES
-- [Will Masoud Pezeshkian be head of state in Iran end of 2026?](/odds/will-masoud-pezeshkian-be-head-of-state-in-iran-end-of-2026) — 0% YES
-- [Mitch McConnell steps down from Senate before his term ends?](/odds/mitch-mcconnell-steps-down-from-senate-before-his-term-ends) — 34% YES
+- [New pandemic in 2026?](/odds/new-pandemic-in-2026) — 6% YES
+- [Iran full airspace closure by August 31?](/odds/iran-full-airspace-closure-by-august-31) — 22% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Costco increases hotdog price before 2027?"?
 
-As of August 02, 2026, Polymarket prices YES at 7.0%.
+As of August 04, 2026, Polymarket prices YES at 7.5%.
 
 ### Where can I trade on this prediction market?
 

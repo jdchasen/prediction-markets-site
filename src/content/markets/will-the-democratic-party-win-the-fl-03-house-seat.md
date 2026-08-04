@@ -3,8 +3,8 @@ title: "Will the Democratic Party win the FL-03 House seat?"
 description: "Will the Democratic Party win the FL-03 House seat? Odds: 8.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Democratic Party win the FL-03 House seat?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-08-03
+status: "settled"
+lastUpdated: 2026-08-04
 expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
 polymarketYes: 8.0

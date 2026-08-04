@@ -4,7 +4,7 @@ description: "Will the Democratic Party win the MI-07 House seat? Odds: 67.0% YE
 marketQuestion: "Will the Democratic Party win the MI-07 House seat?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-08-03
+lastUpdated: 2026-08-04
 expiryDate: 2026-11-04
 tags: ["politics", "polymarket"]
 polymarketYes: 67.0
@@ -22,14 +22,14 @@ polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-m
 ## Related Markets
 
 - [Will Eric Trump win the 2028 Republican presidential nomination?](/odds/will-eric-trump-win-the-2028-republican-presidential-nomination) — 0% YES
-- [Will the Cleveland Guardians win the 2026 World Series?](/odds/will-the-cleveland-guardians-win-the-2026-world-series) — 2% YES
-- [Israel x Iran ceasefire continues through August 31?](/odds/israel-x-iran-ceasefire-continues-through-august-31) — 68% YES
+- [New pandemic in 2026?](/odds/new-pandemic-in-2026) — 6% YES
+- [Iran full airspace closure by August 31?](/odds/iran-full-airspace-closure-by-august-31) — 22% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will the Democratic Party win the MI-07 House seat?"?
 
-As of August 03, 2026, Polymarket prices YES at 67.0%.
+As of August 04, 2026, Polymarket prices YES at 67.0%.
 
 ### Where can I trade on this prediction market?
 

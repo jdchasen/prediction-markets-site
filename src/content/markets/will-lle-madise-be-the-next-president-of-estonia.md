@@ -3,8 +3,8 @@ title: "Will Ülle Madise be the next President of Estonia?"
 description: "Will Ülle Madise be the next President of Estonia? Odds: 59.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Ülle Madise be the next President of Estonia?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-08-03
+status: "settled"
+lastUpdated: 2026-08-04
 expiryDate: 2026-09-02
 tags: ["politics", "polymarket"]
 polymarketYes: 59.5

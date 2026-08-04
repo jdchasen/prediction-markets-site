@@ -3,8 +3,8 @@ title: "Will Ralph Norman be the new Republican nominee for Senate in South Caro
 description: "Will Ralph Norman be the new Republican nominee for Senate in South Carolina? Odds: 16.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Ralph Norman be the new Republican nominee for Senate in South Carolina?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-08-03
+status: "settled"
+lastUpdated: 2026-08-04
 expiryDate: 2026-08-11
 tags: ["politics", "polymarket"]
 polymarketYes: 16.0

@@ -3,8 +3,8 @@ title: "Will Jay Schroeder be the Wisconsin Secretary of State Republican nomine
 description: "Will Jay Schroeder be the Wisconsin Secretary of State Republican nominee? Odds: 9.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Jay Schroeder be the Wisconsin Secretary of State Republican nominee?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-08-03
+status: "settled"
+lastUpdated: 2026-08-04
 expiryDate: 2026-08-11
 tags: ["politics", "polymarket"]
 polymarketYes: 9.5

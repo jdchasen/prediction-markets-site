@@ -3,8 +3,8 @@ title: "Israel x Iran ceasefire continues through August 31?"
 description: "Israel x Iran ceasefire continues through August 31? Odds: 68.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Israel x Iran ceasefire continues through August 31?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-08-03
+status: "settled"
+lastUpdated: 2026-08-04
 expiryDate: 2026-08-31
 tags: ["politics", "polymarket"]
 polymarketYes: 68.5

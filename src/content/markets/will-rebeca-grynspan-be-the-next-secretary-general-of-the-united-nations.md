@@ -3,8 +3,8 @@ title: "Will Rebeca Grynspan be the next Secretary-General of the United Nations
 description: "Will Rebeca Grynspan be the next Secretary-General of the United Nations? Odds: 41.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Rebeca Grynspan be the next Secretary-General of the United Nations?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-08-03
+status: "settled"
+lastUpdated: 2026-08-04
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 41.5

@@ -1,35 +1,35 @@
 ---
-title: "Will MetaMask launch a token by September 30, 2026?"
-description: "Will MetaMask launch a token by September 30, 2026? Odds: 2.4% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will MetaMask launch a token by September 30, 2026?"
+title: "Variational FDV above $2B one day after launch?"
+description: "Variational FDV above $2B one day after launch? Odds: 15.3% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Variational FDV above $2B one day after launch?"
 category: "crypto"
 status: "active"
 lastUpdated: 2026-08-04
-expiryDate: 2026-10-01
+expiryDate: 2028-01-01
 tags: ["crypto", "polymarket"]
-polymarketYes: 2.4
-polymarketNo: 97.7
-polymarketVolume: 999789
-polymarketUrl: "https://polymarket.com/event/will-metamask-launch-a-token-by-september-30-2026"
+polymarketYes: 15.3
+polymarketNo: 84.7
+polymarketVolume: 98777
+polymarketUrl: "https://polymarket.com/event/variational-fdv-above-2b-one-day-after-launch-713-376-681"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 2.4% | 97.7% | $1000K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 15.3% | 84.7% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
+- [Will MetaMask launch a token by September 30, 2026?](/odds/will-metamask-launch-a-token-by-september-30-2026) — 2% YES
 - [Extended FDV above $500M one day after launch?](/odds/extended-fdv-above-500m-one-day-after-launch) — 21% YES
 - [Will Loopscale launch a token by December 31, 2026?](/odds/will-loopscale-launch-a-token-by-december-31-2026) — 31% YES
-- [Variational FDV above $2B one day after launch?](/odds/variational-fdv-above-2b-one-day-after-launch) — 15% YES
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will MetaMask launch a token by September 30, 2026?"?
+### What are the current odds for "Variational FDV above $2B one day after launch?"?
 
-As of August 04, 2026, Polymarket prices YES at 2.4%.
+As of August 04, 2026, Polymarket prices YES at 15.3%.
 
 ### Where can I trade on this prediction market?
 
