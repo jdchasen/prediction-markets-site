@@ -1,23 +1,23 @@
 ---
-title: "Will Trump and Putin meet next in a Gulf country?"
-description: "Will Trump and Putin meet next in a Gulf country? Odds: 0.9% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Trump and Putin meet next in a Gulf country?"
+title: "Trump declassifies new UFO files by August 15?"
+description: "Trump declassifies new UFO files by August 15? Odds: 49.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Trump declassifies new UFO files by August 15?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-04
-expiryDate: 2026-12-31
+expiryDate: 2026-08-15
 tags: ["politics", "polymarket", "trump"]
-polymarketYes: 0.9
-polymarketNo: 99.1
-polymarketVolume: 9891
-polymarketUrl: "https://polymarket.com/event/will-trump-and-putin-meet-next-in-a-gulf-country"
+polymarketYes: 49.5
+polymarketNo: 50.5
+polymarketVolume: 9864
+polymarketUrl: "https://polymarket.com/event/trump-declassifies-new-ufo-files-by-august-15-20260710184334566"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.9% | 99.1% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 49.5% | 50.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-trump-and-putin-meet-next-in-a
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Trump and Putin meet next in a Gulf country?"?
+### What are the current odds for "Trump declassifies new UFO files by August 15?"?
 
-As of August 04, 2026, Polymarket prices YES at 0.9%.
+As of August 04, 2026, Polymarket prices YES at 49.5%.
 
 ### Where can I trade on this prediction market?
 
@@ -38,5 +38,5 @@ You can trade this market on [Polymarket](https://polymarket.us/1762?utm_source=
 ## Learn More
 
 - [Trump-Xi Meeting Predictions: What Will He Say?](/blog/trump-xi-meeting-predictions-what-will-he-say)
-- [Will Oil Hit $100? March Crude Prediction Market Odds](/blog/will-oil-hit-100-march-crude-prediction-market-odds)
+- [Trump Kiss Prediction Market: $12M in Bets Explained](/blog/trump-kiss-prediction-market-12m-in-bets-explained)
 

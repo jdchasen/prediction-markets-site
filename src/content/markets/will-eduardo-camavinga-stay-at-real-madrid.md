@@ -3,7 +3,7 @@ title: "Will Eduardo Camavinga stay at Real Madrid?"
 description: "Will Eduardo Camavinga stay at Real Madrid? Odds: 68.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Eduardo Camavinga stay at Real Madrid?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-08-04
 expiryDate: 2026-09-02
 tags: ["politics", "polymarket"]

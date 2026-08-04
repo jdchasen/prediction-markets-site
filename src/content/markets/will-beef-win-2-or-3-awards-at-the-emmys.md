@@ -3,7 +3,7 @@ title: "Will \"Beef\" win 2 or 3 awards at the Emmys?"
 description: "Will \"Beef\" win 2 or 3 awards at the Emmys? Odds: 40.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will \"Beef\" win 2 or 3 awards at the Emmys?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-08-04
 expiryDate: 2026-09-14
 tags: ["entertainment", "politics", "polymarket"]

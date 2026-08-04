@@ -1,16 +1,16 @@
 ---
-title: "Will the Democratic Party win the NY-02 House seat?"
-description: "Will the Democratic Party win the NY-02 House seat? Odds: 15.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will the Democratic Party win the NY-02 House seat?"
+title: "Will Strait of Hormuz traffic return to normal in September?"
+description: "Will Strait of Hormuz traffic return to normal in September? Odds: 15.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Strait of Hormuz traffic return to normal in September?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-04
-expiryDate: 2026-11-03
-tags: ["politics", "polymarket"]
+expiryDate: 2026-09-30
+tags: ["ai", "politics", "polymarket"]
 polymarketYes: 15.5
 polymarketNo: 84.5
-polymarketVolume: 9942
-polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-ny-02-house-seat"
+polymarketVolume: 9895
+polymarketUrl: "https://polymarket.com/event/will-strait-of-hormuz-traffic-return-to-normal-in-september-20260702155718117"
 ---
 
 ## Current Odds
@@ -27,7 +27,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-n
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will the Democratic Party win the NY-02 House seat?"?
+### What are the current odds for "Will Strait of Hormuz traffic return to normal in September?"?
 
 As of August 04, 2026, Polymarket prices YES at 15.5%.
 
@@ -37,6 +37,6 @@ You can trade this market on [Polymarket](https://polymarket.us/1762?utm_source=
 
 ## Learn More
 
+- [Strait of Hormuz: 57% Closure Odds, Oil Up 13%](/blog/strait-of-hormuz-closure-odds-iran-oil-crisis)
 - [Will Oil Hit $100? March Crude Prediction Market Odds](/blog/will-oil-hit-100-march-crude-prediction-market-odds)
-- [Will MicroStrategy Sell Bitcoin? Market Odds](/blog/will-microstrategy-sell-bitcoin-market-odds)
 

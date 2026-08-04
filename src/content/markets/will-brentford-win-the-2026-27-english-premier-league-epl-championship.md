@@ -1,23 +1,23 @@
 ---
-title: "Will the Washington Nationals clinch a spot in the 2026 MLB Postseason?"
-description: "Will the Washington Nationals clinch a spot in the 2026 MLB Postseason? Odds: 6.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will the Washington Nationals clinch a spot in the 2026 MLB Postseason?"
+title: "Will Brentford win the 2026-27 English Premier League (EPL) Championship?"
+description: "Will Brentford win the 2026-27 English Premier League (EPL) Championship? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Brentford win the 2026-27 English Premier League (EPL) Championship?"
 category: "sports"
 status: "active"
 lastUpdated: 2026-08-04
-expiryDate: 2026-09-28
+expiryDate: 2027-05-30
 tags: ["polymarket", "sports"]
-polymarketYes: 6.5
-polymarketNo: 93.5
-polymarketVolume: 9824
-polymarketUrl: "https://polymarket.com/event/will-the-washington-nationals-clinch-a-spot-in-the-2026-mlb-postseason"
+polymarketYes: 0.1
+polymarketNo: 99.9
+polymarketVolume: 98256
+polymarketUrl: "https://polymarket.com/event/will-brentford-win-the-2026-27-english-premier-league-epl-championship-20260701200428753"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 6.5% | 93.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.1% | 99.9% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-the-washington-nationals-clinc
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will the Washington Nationals clinch a spot in the 2026 MLB Postseason?"?
+### What are the current odds for "Will Brentford win the 2026-27 English Premier League (EPL) Championship?"?
 
-As of August 04, 2026, Polymarket prices YES at 6.5%.
+As of August 04, 2026, Polymarket prices YES at 0.1%.
 
 ### Where can I trade on this prediction market?
 

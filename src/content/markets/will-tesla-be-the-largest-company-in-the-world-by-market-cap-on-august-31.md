@@ -3,7 +3,7 @@ title: "Will Tesla be the largest company in the world by market cap on August 3
 description: "Will Tesla be the largest company in the world by market cap on August 31? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Tesla be the largest company in the world by market cap on August 31?"
 category: "finance"
-status: "active"
+status: "settled"
 lastUpdated: 2026-08-04
 expiryDate: 2026-08-31
 tags: ["finance", "polymarket"]

@@ -1,22 +1,23 @@
 ---
-title: "Will the Democrats win the Tennessee Senate race in 2026?"
-description: "Will the Democrats win the Tennessee Senate race in 2026? Odds: 2.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will the Democrats win the Tennessee Senate race in 2026?"
+title: "Will Francesca Hong win the 2026 Wisconsin Governor Democratic primary election?"
+description: "Will Francesca Hong win the 2026 Wisconsin Governor Democratic primary election? Odds: 93.2% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Francesca Hong win the 2026 Wisconsin Governor Democratic primary election?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-04
-tags: ["politics", "polymarket"]
-polymarketYes: 2.5
-polymarketNo: 97.5
-polymarketVolume: 9861
-polymarketUrl: "https://polymarket.com/event/will-the-democrats-win-the-tennessee-senate-race-in-2026"
+expiryDate: 2026-08-11
+tags: ["elections", "politics", "polymarket"]
+polymarketYes: 93.2
+polymarketNo: 6.8
+polymarketVolume: 98690
+polymarketUrl: "https://polymarket.com/event/will-francesca-hong-win-the-2026-wisconsin-governor-democratic-primary-election"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 2.5% | 97.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 93.2% | 6.8% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -26,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-the-democrats-win-the-tennesse
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will the Democrats win the Tennessee Senate race in 2026?"?
+### What are the current odds for "Will Francesca Hong win the 2026 Wisconsin Governor Democratic primary election?"?
 
-As of August 04, 2026, Polymarket prices YES at 2.5%.
+As of August 04, 2026, Polymarket prices YES at 93.2%.
 
 ### Where can I trade on this prediction market?
 

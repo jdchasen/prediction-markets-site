@@ -1,22 +1,23 @@
 ---
-title: "Will the Democrats win the Tennessee Senate race in 2026?"
-description: "Will the Democrats win the Tennessee Senate race in 2026? Odds: 2.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will the Democrats win the Tennessee Senate race in 2026?"
+title: "Will GPT-6 be released by December 31, 2026?"
+description: "Will GPT-6 be released by December 31, 2026? Odds: 91.0% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will GPT-6 be released by December 31, 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-04
+expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 2.5
-polymarketNo: 97.5
-polymarketVolume: 9861
-polymarketUrl: "https://polymarket.com/event/will-the-democrats-win-the-tennessee-senate-race-in-2026"
+polymarketYes: 91.0
+polymarketNo: 9.0
+polymarketVolume: 98774
+polymarketUrl: "https://polymarket.com/event/will-gpt-6-be-released-by-december-31-2026-834-362-194-984-527"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 2.5% | 97.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 91.0% | 9.0% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -26,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-the-democrats-win-the-tennesse
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will the Democrats win the Tennessee Senate race in 2026?"?
+### What are the current odds for "Will GPT-6 be released by December 31, 2026?"?
 
-As of August 04, 2026, Polymarket prices YES at 2.5%.
+As of August 04, 2026, Polymarket prices YES at 91.0%.
 
 ### Where can I trade on this prediction market?
 

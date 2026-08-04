@@ -3,7 +3,7 @@ title: "Will the Democratic Party win the TX-18 House seat?"
 description: "Will the Democratic Party win the TX-18 House seat? Odds: 95.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Democratic Party win the TX-18 House seat?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-08-04
 expiryDate: 2026-11-04
 tags: ["politics", "polymarket"]

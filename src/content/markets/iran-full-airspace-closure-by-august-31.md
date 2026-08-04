@@ -3,7 +3,7 @@ title: "Iran full airspace closure by August 31?"
 description: "Iran full airspace closure by August 31? Odds: 21.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Iran full airspace closure by August 31?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-08-04
 expiryDate: 2026-08-31
 tags: ["ai", "politics", "polymarket"]

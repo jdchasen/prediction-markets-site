@@ -9,7 +9,7 @@ expiryDate: 2026-10-28
 tags: ["economics", "federal-reserve", "interest-rates", "polymarket"]
 polymarketYes: 1.5
 polymarketNo: 98.5
-polymarketVolume: 99874
+polymarketVolume: 99899
 polymarketUrl: "https://polymarket.com/event/will-the-fed-decrease-interest-rates-by-50-bps-after-the-october-2026-meeting-20260617190324029"
 ---
 

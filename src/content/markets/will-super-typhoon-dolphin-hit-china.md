@@ -1,23 +1,23 @@
 ---
-title: "Will the Democratic Party win the MI-07 House seat?"
-description: "Will the Democratic Party win the MI-07 House seat? Odds: 67.0% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will the Democratic Party win the MI-07 House seat?"
+title: "Will Super Typhoon Dolphin hit China?"
+description: "Will Super Typhoon Dolphin hit China? Odds: 66.0% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Super Typhoon Dolphin hit China?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-04
-expiryDate: 2026-11-04
+expiryDate: 2026-08-16
 tags: ["politics", "polymarket"]
-polymarketYes: 67.0
-polymarketNo: 33.0
-polymarketVolume: 9867
-polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-mi-07-house-seat"
+polymarketYes: 66.0
+polymarketNo: 34.0
+polymarketVolume: 98450
+polymarketUrl: "https://polymarket.com/event/will-super-typhoon-dolphin-hit-china-20260730202351925"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 67.0% | 33.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 66.0% | 34.0% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-m
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will the Democratic Party win the MI-07 House seat?"?
+### What are the current odds for "Will Super Typhoon Dolphin hit China?"?
 
-As of August 04, 2026, Polymarket prices YES at 67.0%.
+As of August 04, 2026, Polymarket prices YES at 66.0%.
 
 ### Where can I trade on this prediction market?
 

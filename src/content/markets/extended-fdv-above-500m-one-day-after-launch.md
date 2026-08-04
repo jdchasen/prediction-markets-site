@@ -1,14 +1,14 @@
 ---
 title: "Extended FDV above $500M one day after launch?"
-description: "Extended FDV above $500M one day after launch? Odds: 21.0% YES on Polymarket. See live prices and trade this market."
+description: "Extended FDV above $500M one day after launch? Odds: 20.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Extended FDV above $500M one day after launch?"
 category: "crypto"
 status: "active"
 lastUpdated: 2026-08-04
 expiryDate: 2027-01-01
 tags: ["crypto", "polymarket"]
-polymarketYes: 21.0
-polymarketNo: 79.0
+polymarketYes: 20.5
+polymarketNo: 79.5
 polymarketVolume: 998287
 polymarketUrl: "https://polymarket.com/event/extended-fdv-above-500m-one-day-after-launch-711-975-248"
 ---
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/extended-fdv-above-500m-one-day-aft
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 21.0% | 79.0% | $998K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 20.5% | 79.5% | $998K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will MetaMask launch a token by September 30, 2026?](/odds/will-metamask-launch-a-token-by-september-30-2026) — 2% YES
-- [Will Loopscale launch a token by December 31, 2026?](/odds/will-loopscale-launch-a-token-by-december-31-2026) — 31% YES
-- [Variational FDV above $2B one day after launch?](/odds/variational-fdv-above-2b-one-day-after-launch) — 15% YES
+- [Will Loopscale launch a token by December 31, 2026?](/odds/will-loopscale-launch-a-token-by-december-31-2026) — 28% YES
+- [Variational FDV above $2B one day after launch?](/odds/variational-fdv-above-2b-one-day-after-launch) — 16% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Extended FDV above $500M one day after launch?"?
 
-As of August 04, 2026, Polymarket prices YES at 21.0%.
+As of August 04, 2026, Polymarket prices YES at 20.5%.
 
 ### Where can I trade on this prediction market?
 

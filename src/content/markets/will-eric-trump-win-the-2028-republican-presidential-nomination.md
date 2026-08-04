@@ -9,7 +9,7 @@ expiryDate: 2028-11-07
 tags: ["politics", "polymarket", "trump"]
 polymarketYes: 0.4
 polymarketNo: 99.7
-polymarketVolume: 9923024
+polymarketVolume: 9923040
 polymarketUrl: "https://polymarket.com/event/will-eric-trump-win-the-2028-republican-presidential-nomination"
 ---
 
@@ -22,8 +22,8 @@ polymarketUrl: "https://polymarket.com/event/will-eric-trump-win-the-2028-republ
 ## Related Markets
 
 - [New pandemic in 2026?](/odds/new-pandemic-in-2026) — 6% YES
-- [Iran full airspace closure by August 31?](/odds/iran-full-airspace-closure-by-august-31) — 22% YES
 - [Will Trump be impeached by end of 2026?](/odds/will-trump-be-impeached-by-end-of-2026) — 3% YES
+- [Will the US strike 13 countries in 2026?](/odds/will-the-us-strike-13-countries-in-2026) — 0% YES
 
 ## Frequently Asked Questions
 
