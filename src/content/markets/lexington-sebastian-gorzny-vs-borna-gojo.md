@@ -1,23 +1,23 @@
 ---
-title: "Xi meets with Lee Jae-Myung by December 31?"
-description: "Xi meets with Lee Jae-Myung by December 31? Odds: 87.0% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Xi meets with Lee Jae-Myung by December 31?"
+title: "Lexington: Sebastian Gorzny vs Borna Gojo"
+description: "Lexington: Sebastian Gorzny vs Borna Gojo Odds: 27.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Lexington: Sebastian Gorzny vs Borna Gojo"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-05
-expiryDate: 2026-12-31
+expiryDate: 2026-08-12
 tags: ["politics", "polymarket"]
-polymarketYes: 87.0
-polymarketNo: 13.0
-polymarketVolume: 9857
-polymarketUrl: "https://polymarket.com/event/xi-meets-with-lee-jae-myung-by-december-31"
+polymarketYes: 27.5
+polymarketNo: 72.5
+polymarketVolume: 9995
+polymarketUrl: "https://polymarket.com/event/atp-gorzny-gojo-2026-08-05"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 87.0% | 13.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 27.5% | 72.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/xi-meets-with-lee-jae-myung-by-dece
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Xi meets with Lee Jae-Myung by December 31?"?
+### What are the current odds for "Lexington: Sebastian Gorzny vs Borna Gojo"?
 
-As of August 05, 2026, Polymarket prices YES at 87.0%.
+As of August 05, 2026, Polymarket prices YES at 27.5%.
 
 ### Where can I trade on this prediction market?
 

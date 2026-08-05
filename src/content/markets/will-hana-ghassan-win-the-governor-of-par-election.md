@@ -3,7 +3,7 @@ title: "Will Hana Ghassan win the Governor of Pará election?"
 description: "Will Hana Ghassan win the Governor of Pará election? Odds: 48.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Hana Ghassan win the Governor of Pará election?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-08-05
 expiryDate: 2026-10-05
 tags: ["elections", "politics", "polymarket"]

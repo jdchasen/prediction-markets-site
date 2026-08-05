@@ -1,23 +1,23 @@
 ---
-title: "Will Anthropic's valuation hit (LOW) $800B by December 31?"
-description: "Will Anthropic's valuation hit (LOW) $800B by December 31? Odds: 15.0% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Anthropic's valuation hit (LOW) $800B by December 31?"
+title: "Will Zelenskyy talk to Putin by December 31?"
+description: "Will Zelenskyy talk to Putin by December 31? Odds: 13.0% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Zelenskyy talk to Putin by December 31?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-05
-expiryDate: 2027-01-01
+expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 15.0
-polymarketNo: 85.0
-polymarketVolume: 99124
-polymarketUrl: "https://polymarket.com/event/will-anthropics-valuation-hit-low-800b-by-december-31-957-743"
+polymarketYes: 13.0
+polymarketNo: 87.0
+polymarketVolume: 98638
+polymarketUrl: "https://polymarket.com/event/will-zelenskyy-talk-to-putin-by-december-31-992-711"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 15.0% | 85.0% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 13.0% | 87.0% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-anthropics-valuation-hit-low-8
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Anthropic's valuation hit (LOW) $800B by December 31?"?
+### What are the current odds for "Will Zelenskyy talk to Putin by December 31?"?
 
-As of August 05, 2026, Polymarket prices YES at 15.0%.
+As of August 05, 2026, Polymarket prices YES at 13.0%.
 
 ### Where can I trade on this prediction market?
 

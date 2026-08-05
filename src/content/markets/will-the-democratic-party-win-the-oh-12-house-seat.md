@@ -1,23 +1,23 @@
 ---
-title: "Will Anthropic's valuation hit (LOW) $800B by December 31?"
-description: "Will Anthropic's valuation hit (LOW) $800B by December 31? Odds: 15.0% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Anthropic's valuation hit (LOW) $800B by December 31?"
+title: "Will the Democratic Party win the OH-12 House seat?"
+description: "Will the Democratic Party win the OH-12 House seat? Odds: 6.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will the Democratic Party win the OH-12 House seat?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-05
-expiryDate: 2027-01-01
+expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
-polymarketYes: 15.0
-polymarketNo: 85.0
-polymarketVolume: 99124
-polymarketUrl: "https://polymarket.com/event/will-anthropics-valuation-hit-low-800b-by-december-31-957-743"
+polymarketYes: 6.5
+polymarketNo: 93.5
+polymarketVolume: 9834
+polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-oh-12-house-seat"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 15.0% | 85.0% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 6.5% | 93.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-anthropics-valuation-hit-low-8
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Anthropic's valuation hit (LOW) $800B by December 31?"?
+### What are the current odds for "Will the Democratic Party win the OH-12 House seat?"?
 
-As of August 05, 2026, Polymarket prices YES at 15.0%.
+As of August 05, 2026, Polymarket prices YES at 6.5%.
 
 ### Where can I trade on this prediction market?
 

@@ -3,7 +3,7 @@ title: "Will Petr Yan fight Deiveson Figueiredo next?"
 description: "Will Petr Yan fight Deiveson Figueiredo next? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Petr Yan fight Deiveson Figueiredo next?"
 category: "politics"
-status: "settled"
+status: "active"
 lastUpdated: 2026-08-05
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
@@ -23,13 +23,13 @@ polymarketUrl: "https://polymarket.com/event/will-petr-yan-fight-deiveson-figuei
 
 - [Will Eric Trump win the 2028 Republican presidential nomination?](/odds/will-eric-trump-win-the-2028-republican-presidential-nomination) — 0% YES
 - [New pandemic in 2026?](/odds/new-pandemic-in-2026) — 6% YES
-- [Will Trump be impeached by end of 2026?](/odds/will-trump-be-impeached-by-end-of-2026) — 3% YES
+- [Will Trump be impeached by end of 2026?](/odds/will-trump-be-impeached-by-end-of-2026) — 2% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Petr Yan fight Deiveson Figueiredo next?"?
 
-As of August 04, 2026, Polymarket prices YES at 0.1%.
+As of August 05, 2026, Polymarket prices YES at 0.1%.
 
 ### Where can I trade on this prediction market?
 

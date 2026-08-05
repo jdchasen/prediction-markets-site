@@ -1,23 +1,23 @@
 ---
-title: "Will Anthropic's valuation hit (LOW) $800B by December 31?"
-description: "Will Anthropic's valuation hit (LOW) $800B by December 31? Odds: 15.0% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Anthropic's valuation hit (LOW) $800B by December 31?"
+title: "Will Dee Valladares win Big Brother season 28?"
+description: "Will Dee Valladares win Big Brother season 28? Odds: 27.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Dee Valladares win Big Brother season 28?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-05
-expiryDate: 2027-01-01
+expiryDate: 2026-10-01
 tags: ["politics", "polymarket"]
-polymarketYes: 15.0
-polymarketNo: 85.0
-polymarketVolume: 99124
-polymarketUrl: "https://polymarket.com/event/will-anthropics-valuation-hit-low-800b-by-december-31-957-743"
+polymarketYes: 27.5
+polymarketNo: 72.5
+polymarketVolume: 9962
+polymarketUrl: "https://polymarket.com/event/will-dee-valladares-win-big-brother-season-28-20260712230326323"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 15.0% | 85.0% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 27.5% | 72.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-anthropics-valuation-hit-low-8
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Anthropic's valuation hit (LOW) $800B by December 31?"?
+### What are the current odds for "Will Dee Valladares win Big Brother season 28?"?
 
-As of August 05, 2026, Polymarket prices YES at 15.0%.
+As of August 05, 2026, Polymarket prices YES at 27.5%.
 
 ### Where can I trade on this prediction market?
 

@@ -3,7 +3,7 @@ title: "SHEIN IPO before 2027?"
 description: "SHEIN IPO before 2027? Odds: 91.3% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "SHEIN IPO before 2027?"
 category: "finance"
-status: "active"
+status: "settled"
 lastUpdated: 2026-08-05
 expiryDate: 2026-12-31
 tags: ["finance", "polymarket"]

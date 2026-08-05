@@ -21,8 +21,7 @@ polymarketUrl: "https://polymarket.com/event/will-south-korea-gdp-growth-in-q3-2
 
 ## Related Markets
 
-- [Will the Fed decrease interest rates by 50+ bps after the October 2026 meeting?](/odds/will-the-fed-decrease-interest-rates-by-50-bps-after-the-october-2026-meeting) — 1% YES
-- [Will Brazil’s Annual Inflation in 2026 be between 5.00% and 5.49%?](/odds/will-brazils-annual-inflation-in-2026-be-between-500-and-549) — 38% YES
+- [Will Brazil’s Annual Inflation in 2026 be between 5.00% and 5.49%?](/odds/will-brazils-annual-inflation-in-2026-be-between-500-and-549) — 39% YES
 
 ## Frequently Asked Questions
 

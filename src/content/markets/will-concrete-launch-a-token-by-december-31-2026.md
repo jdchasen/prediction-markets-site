@@ -3,7 +3,7 @@ title: "Will Concrete launch a token by December 31, 2026?"
 description: "Will Concrete launch a token by December 31, 2026? Odds: 48.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Concrete launch a token by December 31, 2026?"
 category: "crypto"
-status: "active"
+status: "settled"
 lastUpdated: 2026-08-05
 expiryDate: 2027-01-01
 tags: ["crypto", "polymarket"]

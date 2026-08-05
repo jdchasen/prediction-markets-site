@@ -3,7 +3,7 @@ title: "Will Giorgio Chiellini attend Cristiano Ronaldo's wedding?"
 description: "Will Giorgio Chiellini attend Cristiano Ronaldo's wedding? Odds: 8.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Giorgio Chiellini attend Cristiano Ronaldo's wedding?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-08-05
 expiryDate: 2026-08-08
 tags: ["politics", "polymarket"]

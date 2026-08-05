@@ -1,23 +1,23 @@
 ---
-title: "Unit FDV above $1B one day after launch?"
-description: "Unit FDV above $1B one day after launch? Odds: 12.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Unit FDV above $1B one day after launch?"
+title: "Pacifica FDV above $1B one day after launch?"
+description: "Pacifica FDV above $1B one day after launch? Odds: 7.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Pacifica FDV above $1B one day after launch?"
 category: "crypto"
 status: "active"
 lastUpdated: 2026-08-05
-expiryDate: 2028-01-01
+expiryDate: 2027-01-01
 tags: ["crypto", "polymarket"]
-polymarketYes: 12.5
-polymarketNo: 87.5
-polymarketVolume: 9963
-polymarketUrl: "https://polymarket.com/event/unit-fdv-above-1b-one-day-after-launch"
+polymarketYes: 7.5
+polymarketNo: 92.5
+polymarketVolume: 9906
+polymarketUrl: "https://polymarket.com/event/pacifica-fdv-above-1b-one-day-after-launch-995-562"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 12.5% | 87.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 7.5% | 92.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/unit-fdv-above-1b-one-day-after-lau
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Unit FDV above $1B one day after launch?"?
+### What are the current odds for "Pacifica FDV above $1B one day after launch?"?
 
-As of August 05, 2026, Polymarket prices YES at 12.5%.
+As of August 05, 2026, Polymarket prices YES at 7.5%.
 
 ### Where can I trade on this prediction market?
 
