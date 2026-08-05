@@ -1,23 +1,23 @@
 ---
-title: "Will the Democratic Party win the AR-01 House seat?"
-description: "Will the Democratic Party win the AR-01 House seat? Odds: 1.6% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will the Democratic Party win the AR-01 House seat?"
+title: "Will Giorgio Chiellini attend Cristiano Ronaldo's wedding?"
+description: "Will Giorgio Chiellini attend Cristiano Ronaldo's wedding? Odds: 8.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Giorgio Chiellini attend Cristiano Ronaldo's wedding?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-05
-expiryDate: 2026-11-03
+expiryDate: 2026-08-08
 tags: ["politics", "polymarket"]
-polymarketYes: 1.6
-polymarketNo: 98.5
-polymarketVolume: 9882
-polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-ar-01-house-seat"
+polymarketYes: 8.5
+polymarketNo: 91.5
+polymarketVolume: 9998
+polymarketUrl: "https://polymarket.com/event/will-giorgio-chiellini-attend-cristiano-ronaldos-wedding-20260803185630268"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 1.6% | 98.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 8.5% | 91.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-a
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will the Democratic Party win the AR-01 House seat?"?
+### What are the current odds for "Will Giorgio Chiellini attend Cristiano Ronaldo's wedding?"?
 
-As of August 05, 2026, Polymarket prices YES at 1.6%.
+As of August 05, 2026, Polymarket prices YES at 8.5%.
 
 ### Where can I trade on this prediction market?
 

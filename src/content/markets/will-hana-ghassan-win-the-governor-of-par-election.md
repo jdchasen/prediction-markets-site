@@ -1,15 +1,15 @@
 ---
 title: "Will Hana Ghassan win the Governor of Pará election?"
-description: "Will Hana Ghassan win the Governor of Pará election? Odds: 49.0% YES on Polymarket. See live prices and trade this market."
+description: "Will Hana Ghassan win the Governor of Pará election? Odds: 48.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Hana Ghassan win the Governor of Pará election?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-08-04
+lastUpdated: 2026-08-05
 expiryDate: 2026-10-05
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 49.0
-polymarketNo: 51.0
-polymarketVolume: 9892
+polymarketYes: 48.0
+polymarketNo: 52.0
+polymarketVolume: 9986
 polymarketUrl: "https://polymarket.com/event/will-hana-ghassan-win-the-governor-of-para-election-20260609154624113"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-hana-ghassan-win-the-governor-
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 49.0% | 51.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 48.0% | 52.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Eric Trump win the 2028 Republican presidential nomination?](/odds/will-eric-trump-win-the-2028-republican-presidential-nomination) — 0% YES
 - [New pandemic in 2026?](/odds/new-pandemic-in-2026) — 6% YES
-- [Will Trump be impeached by end of 2026?](/odds/will-trump-be-impeached-by-end-of-2026) — 3% YES
+- [Israel x Iran ceasefire continues through August 15?](/odds/israel-x-iran-ceasefire-continues-through-august-15) — 90% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Hana Ghassan win the Governor of Pará election?"?
 
-As of August 04, 2026, Polymarket prices YES at 49.0%.
+As of August 05, 2026, Polymarket prices YES at 48.0%.
 
 ### Where can I trade on this prediction market?
 

@@ -3,8 +3,8 @@ title: "Will Strait of Hormuz traffic return to normal in September?"
 description: "Will Strait of Hormuz traffic return to normal in September? Odds: 15.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Strait of Hormuz traffic return to normal in September?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-08-04
+status: "settled"
+lastUpdated: 2026-08-05
 expiryDate: 2026-09-30
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 15.5

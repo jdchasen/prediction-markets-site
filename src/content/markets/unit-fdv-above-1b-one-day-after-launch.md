@@ -4,12 +4,12 @@ description: "Unit FDV above $1B one day after launch? Odds: 12.0% YES on Polyma
 marketQuestion: "Unit FDV above $1B one day after launch?"
 category: "crypto"
 status: "active"
-lastUpdated: 2026-08-04
+lastUpdated: 2026-08-05
 expiryDate: 2028-01-01
 tags: ["crypto", "polymarket"]
 polymarketYes: 12.0
 polymarketNo: 88.0
-polymarketVolume: 9962
+polymarketVolume: 9963
 polymarketUrl: "https://polymarket.com/event/unit-fdv-above-1b-one-day-after-launch"
 ---
 
@@ -21,15 +21,15 @@ polymarketUrl: "https://polymarket.com/event/unit-fdv-above-1b-one-day-after-lau
 
 ## Related Markets
 
-- [Will MetaMask launch a token by September 30, 2026?](/odds/will-metamask-launch-a-token-by-september-30-2026) — 2% YES
 - [Extended FDV above $500M one day after launch?](/odds/extended-fdv-above-500m-one-day-after-launch) — 20% YES
-- [Will Loopscale launch a token by December 31, 2026?](/odds/will-loopscale-launch-a-token-by-december-31-2026) — 28% YES
+- [Variational FDV above $2B one day after launch?](/odds/variational-fdv-above-2b-one-day-after-launch) — 14% YES
+- [Will Loopscale launch a token by December 31, 2026?](/odds/will-loopscale-launch-a-token-by-december-31-2026) — 18% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Unit FDV above $1B one day after launch?"?
 
-As of August 04, 2026, Polymarket prices YES at 12.0%.
+As of August 05, 2026, Polymarket prices YES at 12.0%.
 
 ### Where can I trade on this prediction market?
 

@@ -4,7 +4,7 @@ description: "Will South Korea GDP growth in Q3 2026 be between 2.0% and 2.4%? O
 marketQuestion: "Will South Korea GDP growth in Q3 2026 be between 2.0% and 2.4%?"
 category: "economics"
 status: "active"
-lastUpdated: 2026-08-04
+lastUpdated: 2026-08-05
 expiryDate: 2026-10-27
 tags: ["economics", "polymarket"]
 polymarketYes: 6.5
@@ -21,15 +21,14 @@ polymarketUrl: "https://polymarket.com/event/will-south-korea-gdp-growth-in-q3-2
 
 ## Related Markets
 
-- [Will the Fed decrease interest rates by 50+ bps after the October 2026 meeting?](/odds/will-the-fed-decrease-interest-rates-by-50-bps-after-the-october-2026-meeting) — 2% YES
-- [Will the Fed decrease interest rates by 25 bps after the October 2026 meeting?](/odds/will-the-fed-decrease-interest-rates-by-25-bps-after-the-october-2026-meeting) — 6% YES
+- [Will the Fed decrease interest rates by 50+ bps after the October 2026 meeting?](/odds/will-the-fed-decrease-interest-rates-by-50-bps-after-the-october-2026-meeting) — 1% YES
 - [Will Brazil’s Annual Inflation in 2026 be between 5.00% and 5.49%?](/odds/will-brazils-annual-inflation-in-2026-be-between-500-and-549) — 38% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will South Korea GDP growth in Q3 2026 be between 2.0% and 2.4%?"?
 
-As of August 04, 2026, Polymarket prices YES at 6.5%.
+As of August 05, 2026, Polymarket prices YES at 6.5%.
 
 ### Where can I trade on this prediction market?
 

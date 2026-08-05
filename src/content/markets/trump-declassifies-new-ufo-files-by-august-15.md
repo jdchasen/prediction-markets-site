@@ -3,8 +3,8 @@ title: "Trump declassifies new UFO files by August 15?"
 description: "Trump declassifies new UFO files by August 15? Odds: 49.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Trump declassifies new UFO files by August 15?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-08-04
+status: "settled"
+lastUpdated: 2026-08-05
 expiryDate: 2026-08-15
 tags: ["politics", "polymarket", "trump"]
 polymarketYes: 49.5

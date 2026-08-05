@@ -4,12 +4,12 @@ description: "Will Brentford win the 2026-27 English Premier League (EPL) Champi
 marketQuestion: "Will Brentford win the 2026-27 English Premier League (EPL) Championship?"
 category: "sports"
 status: "active"
-lastUpdated: 2026-08-04
+lastUpdated: 2026-08-05
 expiryDate: 2027-05-30
 tags: ["polymarket", "sports"]
 polymarketYes: 0.1
 polymarketNo: 99.9
-polymarketVolume: 98256
+polymarketVolume: 98709
 polymarketUrl: "https://polymarket.com/event/will-brentford-win-the-2026-27-english-premier-league-epl-championship-20260701200428753"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-brentford-win-the-2026-27-engl
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.1% | 99.9% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.1% | 99.9% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-brentford-win-the-2026-27-engl
 
 ### What are the current odds for "Will Brentford win the 2026-27 English Premier League (EPL) Championship?"?
 
-As of August 04, 2026, Polymarket prices YES at 0.1%.
+As of August 05, 2026, Polymarket prices YES at 0.1%.
 
 ### Where can I trade on this prediction market?
 

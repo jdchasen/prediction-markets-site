@@ -3,8 +3,8 @@ title: "Will the Washington Nationals clinch a spot in the 2026 MLB Postseason?"
 description: "Will the Washington Nationals clinch a spot in the 2026 MLB Postseason? Odds: 6.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Washington Nationals clinch a spot in the 2026 MLB Postseason?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-08-04
+status: "settled"
+lastUpdated: 2026-08-05
 expiryDate: 2026-09-28
 tags: ["polymarket", "sports"]
 polymarketYes: 6.5

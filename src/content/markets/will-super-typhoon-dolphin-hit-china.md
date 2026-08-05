@@ -3,8 +3,8 @@ title: "Will Super Typhoon Dolphin hit China?"
 description: "Will Super Typhoon Dolphin hit China? Odds: 66.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Super Typhoon Dolphin hit China?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-08-04
+status: "settled"
+lastUpdated: 2026-08-05
 expiryDate: 2026-08-16
 tags: ["politics", "polymarket"]
 polymarketYes: 66.0

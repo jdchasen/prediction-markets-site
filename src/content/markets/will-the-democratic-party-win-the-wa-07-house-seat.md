@@ -1,23 +1,23 @@
 ---
-title: "Will the Democratic Party win the AR-01 House seat?"
-description: "Will the Democratic Party win the AR-01 House seat? Odds: 1.6% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will the Democratic Party win the AR-01 House seat?"
+title: "Will the Democratic Party win the WA-07 House seat?"
+description: "Will the Democratic Party win the WA-07 House seat? Odds: 95.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will the Democratic Party win the WA-07 House seat?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-05
 expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
-polymarketYes: 1.6
-polymarketNo: 98.5
-polymarketVolume: 9882
-polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-ar-01-house-seat"
+polymarketYes: 95.5
+polymarketNo: 4.5
+polymarketVolume: 9878
+polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-wa-07-house-seat"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 1.6% | 98.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 95.5% | 4.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-a
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will the Democratic Party win the AR-01 House seat?"?
+### What are the current odds for "Will the Democratic Party win the WA-07 House seat?"?
 
-As of August 05, 2026, Polymarket prices YES at 1.6%.
+As of August 05, 2026, Polymarket prices YES at 95.5%.
 
 ### Where can I trade on this prediction market?
 
