@@ -3,8 +3,8 @@ title: "Will the highest score achieved by an Anthropic Claude model on Humanity
 description: "Will the highest score achieved by an Anthropic Claude model on Humanity’s Last Exam in 2026 be 65% or higher? Odds: 26.0% YES on Polymarket. See live prices..."
 marketQuestion: "Will the highest score achieved by an Anthropic Claude model on Humanity’s Last Exam in 2026 be 65% or higher?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-08-05
+status: "settled"
+lastUpdated: 2026-08-06
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 26.0

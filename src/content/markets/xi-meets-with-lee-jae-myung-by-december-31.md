@@ -4,7 +4,7 @@ description: "Xi meets with Lee Jae-Myung by December 31? Odds: 87.0% YES on Pol
 marketQuestion: "Xi meets with Lee Jae-Myung by December 31?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-08-05
+lastUpdated: 2026-08-06
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 87.0
@@ -23,13 +23,13 @@ polymarketUrl: "https://polymarket.com/event/xi-meets-with-lee-jae-myung-by-dece
 
 - [Will Eric Trump win the 2028 Republican presidential nomination?](/odds/will-eric-trump-win-the-2028-republican-presidential-nomination) — 0% YES
 - [New pandemic in 2026?](/odds/new-pandemic-in-2026) — 6% YES
-- [Will Trump be impeached by end of 2026?](/odds/will-trump-be-impeached-by-end-of-2026) — 2% YES
+- [Will Michael Olise win the 2026 Ballon d'Or?](/odds/will-michael-olise-win-the-2026-ballon-dor) — 0% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Xi meets with Lee Jae-Myung by December 31?"?
 
-As of August 05, 2026, Polymarket prices YES at 87.0%.
+As of August 06, 2026, Polymarket prices YES at 87.0%.
 
 ### Where can I trade on this prediction market?
 

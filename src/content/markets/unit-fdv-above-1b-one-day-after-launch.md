@@ -1,15 +1,15 @@
 ---
 title: "Unit FDV above $1B one day after launch?"
-description: "Unit FDV above $1B one day after launch? Odds: 12.5% YES on Polymarket. See live prices and trade this market."
+description: "Unit FDV above $1B one day after launch? Odds: 12.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Unit FDV above $1B one day after launch?"
 category: "crypto"
 status: "active"
-lastUpdated: 2026-08-05
+lastUpdated: 2026-08-06
 expiryDate: 2028-01-01
 tags: ["crypto", "polymarket"]
-polymarketYes: 12.5
-polymarketNo: 87.5
-polymarketVolume: 9963
+polymarketYes: 12.0
+polymarketNo: 88.0
+polymarketVolume: 9968
 polymarketUrl: "https://polymarket.com/event/unit-fdv-above-1b-one-day-after-launch"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/unit-fdv-above-1b-one-day-after-lau
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 12.5% | 87.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 12.0% | 88.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Extended FDV above $500M one day after launch?](/odds/extended-fdv-above-500m-one-day-after-launch) — 20% YES
-- [Variational FDV above $2B one day after launch?](/odds/variational-fdv-above-2b-one-day-after-launch) — 13% YES
-- [Will Bitcoin reach $70,000 in August?](/odds/will-bitcoin-reach-70000-in-august) — 30% YES
+- [Bitcoin all time high by September 30, 2026?](/odds/bitcoin-all-time-high-by-september-30-2026) — 1% YES
+- [Variational FDV above $2B one day after launch?](/odds/variational-fdv-above-2b-one-day-after-launch) — 14% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Unit FDV above $1B one day after launch?"?
 
-As of August 05, 2026, Polymarket prices YES at 12.5%.
+As of August 06, 2026, Polymarket prices YES at 12.0%.
 
 ### Where can I trade on this prediction market?
 

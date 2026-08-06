@@ -3,8 +3,8 @@ title: "Will WTI Crude Oil (WTI) hit (LOW) $70 in August?"
 description: "Will WTI Crude Oil (WTI) hit (LOW) $70 in August? Odds: 63.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will WTI Crude Oil (WTI) hit (LOW) $70 in August?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-08-05
+status: "settled"
+lastUpdated: 2026-08-06
 expiryDate: 2026-09-01
 tags: ["politics", "polymarket"]
 polymarketYes: 63.5

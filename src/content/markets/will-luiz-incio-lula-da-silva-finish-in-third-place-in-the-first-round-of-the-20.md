@@ -3,8 +3,8 @@ title: "Will Luiz Inácio Lula da Silva finish in third place in the first round
 description: "Will Luiz Inácio Lula da Silva finish in third place in the first round of the 2026 Brazilian presidential election? Odds: 1.0% YES on Polymarket. See live p..."
 marketQuestion: "Will Luiz Inácio Lula da Silva finish in third place in the first round of the 2026 Brazilian presidential election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-08-05
+status: "settled"
+lastUpdated: 2026-08-06
 expiryDate: 2026-10-04
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 1.0

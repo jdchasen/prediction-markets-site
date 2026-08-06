@@ -3,8 +3,8 @@ title: "Will Dee Valladares win Big Brother season 28?"
 description: "Will Dee Valladares win Big Brother season 28? Odds: 27.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Dee Valladares win Big Brother season 28?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-08-05
+status: "settled"
+lastUpdated: 2026-08-06
 expiryDate: 2026-10-01
 tags: ["politics", "polymarket"]
 polymarketYes: 27.5

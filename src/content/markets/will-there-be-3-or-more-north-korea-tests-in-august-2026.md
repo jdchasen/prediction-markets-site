@@ -3,8 +3,8 @@ title: "Will there be 3 or more North Korea tests in August 2026?"
 description: "Will there be 3 or more North Korea tests in August 2026? Odds: 17.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will there be 3 or more North Korea tests in August 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-08-05
+status: "settled"
+lastUpdated: 2026-08-06
 expiryDate: 2026-08-31
 tags: ["politics", "polymarket"]
 polymarketYes: 17.0

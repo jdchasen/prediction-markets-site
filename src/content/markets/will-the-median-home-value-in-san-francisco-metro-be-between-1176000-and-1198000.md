@@ -1,23 +1,23 @@
 ---
-title: "Will Anthropic's valuation hit (LOW) $800B by December 31?"
-description: "Will Anthropic's valuation hit (LOW) $800B by December 31? Odds: 14.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Anthropic's valuation hit (LOW) $800B by December 31?"
+title: "Will the median home value in San Francisco Metro be between $1,176,000 and $1,198,000 on September 30?"
+description: "Will the median home value in San Francisco Metro be between $1,176,000 and $1,198,000 on September 30? Odds: 42.5% YES on Polymarket. See live prices and tr..."
+marketQuestion: "Will the median home value in San Francisco Metro be between $1,176,000 and $1,198,000 on September 30?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-06
-expiryDate: 2027-01-01
+expiryDate: 2026-09-30
 tags: ["politics", "polymarket"]
-polymarketYes: 14.5
-polymarketNo: 85.5
-polymarketVolume: 99393
-polymarketUrl: "https://polymarket.com/event/will-anthropics-valuation-hit-low-800b-by-december-31-957-743"
+polymarketYes: 42.5
+polymarketNo: 57.5
+polymarketVolume: 9866
+polymarketUrl: "https://polymarket.com/event/will-the-median-home-value-in-san-francisco-metro-be-between-1176000-and-1198000-on-september-30-20260630181308441"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 14.5% | 85.5% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 42.5% | 57.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-anthropics-valuation-hit-low-8
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Anthropic's valuation hit (LOW) $800B by December 31?"?
+### What are the current odds for "Will the median home value in San Francisco Metro be between $1,176,000 and $1,198,000 on September 30?"?
 
-As of August 06, 2026, Polymarket prices YES at 14.5%.
+As of August 06, 2026, Polymarket prices YES at 42.5%.
 
 ### Where can I trade on this prediction market?
 

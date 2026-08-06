@@ -1,14 +1,14 @@
 ---
 title: "Will the Democratic Party win the AR-01 House seat?"
-description: "Will the Democratic Party win the AR-01 House seat? Odds: 1.8% YES on Polymarket. See live prices and trade this market."
+description: "Will the Democratic Party win the AR-01 House seat? Odds: 2.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Democratic Party win the AR-01 House seat?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-08-05
+lastUpdated: 2026-08-06
 expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
-polymarketYes: 1.8
-polymarketNo: 98.2
+polymarketYes: 2.5
+polymarketNo: 97.5
 polymarketVolume: 9914
 polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-ar-01-house-seat"
 ---
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-a
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 1.8% | 98.2% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 2.5% | 97.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Eric Trump win the 2028 Republican presidential nomination?](/odds/will-eric-trump-win-the-2028-republican-presidential-nomination) — 0% YES
 - [New pandemic in 2026?](/odds/new-pandemic-in-2026) — 6% YES
-- [Will Trump be impeached by end of 2026?](/odds/will-trump-be-impeached-by-end-of-2026) — 2% YES
+- [Will Michael Olise win the 2026 Ballon d'Or?](/odds/will-michael-olise-win-the-2026-ballon-dor) — 0% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will the Democratic Party win the AR-01 House seat?"?
 
-As of August 05, 2026, Polymarket prices YES at 1.8%.
+As of August 06, 2026, Polymarket prices YES at 2.5%.
 
 ### Where can I trade on this prediction market?
 

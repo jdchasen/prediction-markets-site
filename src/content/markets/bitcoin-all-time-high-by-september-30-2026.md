@@ -1,35 +1,35 @@
 ---
-title: "Will Bitcoin reach $70,000 in August?"
-description: "Will Bitcoin reach $70,000 in August? Odds: 30.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Bitcoin reach $70,000 in August?"
+title: "Bitcoin all time high by September 30, 2026?"
+description: "Bitcoin all time high by September 30, 2026? Odds: 1.1% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Bitcoin all time high by September 30, 2026?"
 category: "crypto"
-status: "settled"
+status: "active"
 lastUpdated: 2026-08-06
-expiryDate: 2026-09-01
+expiryDate: 2026-10-01
 tags: ["bitcoin", "crypto", "polymarket"]
-polymarketYes: 30.5
-polymarketNo: 69.5
-polymarketVolume: 98948
-polymarketUrl: "https://polymarket.com/event/will-bitcoin-reach-70k-in-august-2026"
+polymarketYes: 1.1
+polymarketNo: 98.9
+polymarketVolume: 998350
+polymarketUrl: "https://polymarket.com/event/bitcoin-all-time-high-by-september-30-2026"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 30.5% | 69.5% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 1.1% | 98.9% | $998K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Extended FDV above $500M one day after launch?](/odds/extended-fdv-above-500m-one-day-after-launch) — 20% YES
-- [Variational FDV above $2B one day after launch?](/odds/variational-fdv-above-2b-one-day-after-launch) — 13% YES
+- [Variational FDV above $2B one day after launch?](/odds/variational-fdv-above-2b-one-day-after-launch) — 14% YES
 - [Will Loopscale launch a token by December 31, 2026?](/odds/will-loopscale-launch-a-token-by-december-31-2026) — 16% YES
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Bitcoin reach $70,000 in August?"?
+### What are the current odds for "Bitcoin all time high by September 30, 2026?"?
 
-As of August 05, 2026, Polymarket prices YES at 30.5%.
+As of August 06, 2026, Polymarket prices YES at 1.1%.
 
 ### Where can I trade on this prediction market?
 

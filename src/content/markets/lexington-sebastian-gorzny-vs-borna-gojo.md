@@ -3,8 +3,8 @@ title: "Lexington: Sebastian Gorzny vs Borna Gojo"
 description: "Lexington: Sebastian Gorzny vs Borna Gojo Odds: 27.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Lexington: Sebastian Gorzny vs Borna Gojo"
 category: "politics"
-status: "active"
-lastUpdated: 2026-08-05
+status: "settled"
+lastUpdated: 2026-08-06
 expiryDate: 2026-08-12
 tags: ["politics", "polymarket"]
 polymarketYes: 27.5

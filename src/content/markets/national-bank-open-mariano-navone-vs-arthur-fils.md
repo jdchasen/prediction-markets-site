@@ -1,16 +1,16 @@
 ---
-title: "Will TD Ierlan win the 2026 PLL Face-Off Player of the Year?"
-description: "Will TD Ierlan win the 2026 PLL Face-Off Player of the Year? Odds: 24.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will TD Ierlan win the 2026 PLL Face-Off Player of the Year?"
+title: "National Bank Open: Mariano Navone vs Arthur Fils"
+description: "National Bank Open: Mariano Navone vs Arthur Fils Odds: 24.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "National Bank Open: Mariano Navone vs Arthur Fils"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-06
-expiryDate: 2026-09-13
+expiryDate: 2026-08-13
 tags: ["politics", "polymarket"]
 polymarketYes: 24.5
 polymarketNo: 75.5
-polymarketVolume: 9857
-polymarketUrl: "https://polymarket.com/event/will-td-ierlan-win-the-2026-pll-face-off-player-of-the-year"
+polymarketVolume: 9869
+polymarketUrl: "https://polymarket.com/event/atp-navone-fils-2026-08-06"
 ---
 
 ## Current Odds
@@ -27,7 +27,7 @@ polymarketUrl: "https://polymarket.com/event/will-td-ierlan-win-the-2026-pll-fac
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will TD Ierlan win the 2026 PLL Face-Off Player of the Year?"?
+### What are the current odds for "National Bank Open: Mariano Navone vs Arthur Fils"?
 
 As of August 06, 2026, Polymarket prices YES at 24.5%.
 
@@ -37,6 +37,6 @@ You can trade this market on [Polymarket](https://polymarket.us/1762?utm_source=
 
 ## Learn More
 
-- [Will ETH Hit $4,500 in 2026? Live Market Odds](/blog/will-ethereum-reach-4500-in-2026-what-prediction-markets-say)
-- [Will Discord IPO in 2026? What Prediction Markets Say](/blog/will-discord-ipo-in-2026-what-prediction-markets-say)
+- [How to Withdraw from Polymarket to Your Bank](/blog/polymarket-withdrawal)
+- [Cobolli vs Zverev Odds: French Open Markets](/blog/cobolli-vs-zverev-odds-french-open-markets)
 

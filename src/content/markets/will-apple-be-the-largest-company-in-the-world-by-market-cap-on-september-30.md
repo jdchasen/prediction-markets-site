@@ -3,8 +3,8 @@ title: "Will Apple be the largest company in the world by market cap on Septembe
 description: "Will Apple be the largest company in the world by market cap on September 30? Odds: 12.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Apple be the largest company in the world by market cap on September 30?"
 category: "finance"
-status: "active"
-lastUpdated: 2026-08-05
+status: "settled"
+lastUpdated: 2026-08-06
 expiryDate: 2026-09-30
 tags: ["finance", "polymarket"]
 polymarketYes: 12.5

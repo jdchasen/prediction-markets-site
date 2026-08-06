@@ -1,22 +1,23 @@
 ---
-title: "Will the Democrats win the Tennessee Senate race in 2026?"
-description: "Will the Democrats win the Tennessee Senate race in 2026? Odds: 2.2% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will the Democrats win the Tennessee Senate race in 2026?"
+title: "Will the Bank of Korea hold at the August 2026 meeting?"
+description: "Will the Bank of Korea hold at the August 2026 meeting? Odds: 74.0% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will the Bank of Korea hold at the August 2026 meeting?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-06
+expiryDate: 2026-08-26
 tags: ["politics", "polymarket"]
-polymarketYes: 2.2
-polymarketNo: 97.8
-polymarketVolume: 9861
-polymarketUrl: "https://polymarket.com/event/will-the-democrats-win-the-tennessee-senate-race-in-2026"
+polymarketYes: 74.0
+polymarketNo: 26.0
+polymarketVolume: 9864
+polymarketUrl: "https://polymarket.com/event/will-the-bank-of-korea-hold-at-the-august-2026-meeting"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 2.2% | 97.8% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 74.0% | 26.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -26,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-the-democrats-win-the-tennesse
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will the Democrats win the Tennessee Senate race in 2026?"?
+### What are the current odds for "Will the Bank of Korea hold at the August 2026 meeting?"?
 
-As of August 06, 2026, Polymarket prices YES at 2.2%.
+As of August 06, 2026, Polymarket prices YES at 74.0%.
 
 ### Where can I trade on this prediction market?
 

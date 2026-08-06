@@ -3,8 +3,8 @@ title: "Will Brentford win the 2026-27 English Premier League (EPL) Championship
 description: "Will Brentford win the 2026-27 English Premier League (EPL) Championship? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Brentford win the 2026-27 English Premier League (EPL) Championship?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-08-05
+status: "settled"
+lastUpdated: 2026-08-06
 expiryDate: 2027-05-30
 tags: ["polymarket", "sports"]
 polymarketYes: 0.1

@@ -1,14 +1,14 @@
 ---
 title: "Will Baker Mayfield win the 2026 NFL MVP?"
-description: "Will Baker Mayfield win the 2026 NFL MVP? Odds: 2.4% YES on Polymarket. See live prices and trade this market."
+description: "Will Baker Mayfield win the 2026 NFL MVP? Odds: 2.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Baker Mayfield win the 2026 NFL MVP?"
 category: "sports"
 status: "active"
-lastUpdated: 2026-08-05
+lastUpdated: 2026-08-06
 expiryDate: 2027-02-15
 tags: ["polymarket", "sports"]
-polymarketYes: 2.4
-polymarketNo: 97.7
+polymarketYes: 2.2
+polymarketNo: 97.8
 polymarketVolume: 99912
 polymarketUrl: "https://polymarket.com/event/will-baker-mayfield-win-the-2026-nfl-mvp"
 ---
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-baker-mayfield-win-the-2026-nf
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 2.4% | 97.7% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 2.2% | 97.8% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will the Baltimore Ravens win the 2027 NFL league championship?](/odds/will-the-baltimore-ravens-win-the-2027-nfl-league-championship) — 7% YES
 - [Will Arizona Cardinals win the 2027 NFL NFC Championship?](/odds/will-arizona-cardinals-win-the-2027-nfl-nfc-championship) — 1% YES
-- [Will Brentford win the 2026-27 English Premier League (EPL) Championship?](/odds/will-brentford-win-the-2026-27-english-premier-league-epl-championship) — 0% YES
+- [Will the Seattle Kraken be named the 2026-27 NHL Stanley Cup Champion?](/odds/will-the-seattle-kraken-be-named-the-2026-27-nhl-stanley-cup-champion) — 0% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Baker Mayfield win the 2026 NFL MVP?"?
 
-As of August 05, 2026, Polymarket prices YES at 2.4%.
+As of August 06, 2026, Polymarket prices YES at 2.2%.
 
 ### Where can I trade on this prediction market?
 

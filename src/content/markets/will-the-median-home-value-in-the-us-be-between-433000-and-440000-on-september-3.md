@@ -1,23 +1,23 @@
 ---
-title: "Will Anthropic's valuation hit (LOW) $800B by December 31?"
-description: "Will Anthropic's valuation hit (LOW) $800B by December 31? Odds: 14.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Anthropic's valuation hit (LOW) $800B by December 31?"
+title: "Will the median home value in the US be between $433,000 and $440,000 on September 30?"
+description: "Will the median home value in the US be between $433,000 and $440,000 on September 30? Odds: 3.2% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will the median home value in the US be between $433,000 and $440,000 on September 30?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-06
-expiryDate: 2027-01-01
+expiryDate: 2026-09-30
 tags: ["politics", "polymarket"]
-polymarketYes: 14.5
-polymarketNo: 85.5
-polymarketVolume: 99393
-polymarketUrl: "https://polymarket.com/event/will-anthropics-valuation-hit-low-800b-by-december-31-957-743"
+polymarketYes: 3.2
+polymarketNo: 96.8
+polymarketVolume: 9979
+polymarketUrl: "https://polymarket.com/event/will-the-median-home-value-in-the-us-be-between-433000-and-440000-on-september-30-20260630175543149"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 14.5% | 85.5% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 3.2% | 96.8% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-anthropics-valuation-hit-low-8
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Anthropic's valuation hit (LOW) $800B by December 31?"?
+### What are the current odds for "Will the median home value in the US be between $433,000 and $440,000 on September 30?"?
 
-As of August 06, 2026, Polymarket prices YES at 14.5%.
+As of August 06, 2026, Polymarket prices YES at 3.2%.
 
 ### Where can I trade on this prediction market?
 

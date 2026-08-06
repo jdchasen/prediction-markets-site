@@ -4,7 +4,7 @@ description: "Extended FDV above $500M one day after launch? Odds: 20.5% YES on 
 marketQuestion: "Extended FDV above $500M one day after launch?"
 category: "crypto"
 status: "active"
-lastUpdated: 2026-08-05
+lastUpdated: 2026-08-06
 expiryDate: 2027-01-01
 tags: ["crypto", "polymarket"]
 polymarketYes: 20.5
@@ -21,15 +21,15 @@ polymarketUrl: "https://polymarket.com/event/extended-fdv-above-500m-one-day-aft
 
 ## Related Markets
 
-- [Variational FDV above $2B one day after launch?](/odds/variational-fdv-above-2b-one-day-after-launch) — 13% YES
-- [Will Bitcoin reach $70,000 in August?](/odds/will-bitcoin-reach-70000-in-august) — 30% YES
+- [Bitcoin all time high by September 30, 2026?](/odds/bitcoin-all-time-high-by-september-30-2026) — 1% YES
+- [Variational FDV above $2B one day after launch?](/odds/variational-fdv-above-2b-one-day-after-launch) — 14% YES
 - [Will Loopscale launch a token by December 31, 2026?](/odds/will-loopscale-launch-a-token-by-december-31-2026) — 16% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Extended FDV above $500M one day after launch?"?
 
-As of August 05, 2026, Polymarket prices YES at 20.5%.
+As of August 06, 2026, Polymarket prices YES at 20.5%.
 
 ### Where can I trade on this prediction market?
 
