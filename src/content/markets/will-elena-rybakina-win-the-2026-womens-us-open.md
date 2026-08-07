@@ -1,23 +1,23 @@
 ---
-title: "Will Trump be impeached by end of 2026?"
-description: "Will Trump be impeached by end of 2026? Odds: 2.3% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Trump be impeached by end of 2026?"
+title: "Will Elena Rybakina win the 2026 Women’s US Open?"
+description: "Will Elena Rybakina win the 2026 Women’s US Open? Odds: 9.0% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Elena Rybakina win the 2026 Women’s US Open?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-07
-expiryDate: 2026-12-31
-tags: ["politics", "polymarket", "trump"]
-polymarketYes: 2.3
-polymarketNo: 97.7
-polymarketVolume: 990945
-polymarketUrl: "https://polymarket.com/event/will-trump-be-impeached-by-december-31-2026"
+expiryDate: 2026-09-13
+tags: ["politics", "polymarket"]
+polymarketYes: 9.0
+polymarketNo: 91.0
+polymarketVolume: 98599
+polymarketUrl: "https://polymarket.com/event/will-elena-rybakina-win-the-2026-womens-us-open"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 2.3% | 97.7% | $991K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 9.0% | 91.0% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-trump-be-impeached-by-december
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Trump be impeached by end of 2026?"?
+### What are the current odds for "Will Elena Rybakina win the 2026 Women’s US Open?"?
 
-As of August 07, 2026, Polymarket prices YES at 2.3%.
+As of August 07, 2026, Polymarket prices YES at 9.0%.
 
 ### Where can I trade on this prediction market?
 

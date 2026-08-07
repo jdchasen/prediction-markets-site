@@ -3,7 +3,7 @@ title: "Will Elijah Manley be the Democratic nominee for FL-20?"
 description: "Will Elijah Manley be the Democratic nominee for FL-20? Odds: 24.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Elijah Manley be the Democratic nominee for FL-20?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-08-07
 expiryDate: 2026-08-18
 tags: ["politics", "polymarket"]

@@ -1,14 +1,14 @@
 ---
 title: "Will OpenAI IPO by September 30 2026?"
-description: "Will OpenAI IPO by September 30 2026? Odds: 3.1% YES on Polymarket. See live prices and trade this market."
+description: "Will OpenAI IPO by September 30 2026? Odds: 2.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will OpenAI IPO by September 30 2026?"
 category: "finance"
 status: "active"
 lastUpdated: 2026-08-07
 tags: ["ai", "finance", "polymarket"]
-polymarketYes: 3.1
-polymarketNo: 96.9
-polymarketVolume: 99554
+polymarketYes: 2.7
+polymarketNo: 97.3
+polymarketVolume: 99687
 polymarketUrl: "https://polymarket.com/event/will-openai-ipo-by-september-30-2026"
 ---
 
@@ -16,18 +16,17 @@ polymarketUrl: "https://polymarket.com/event/will-openai-ipo-by-september-30-202
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 3.1% | 96.9% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 2.7% | 97.3% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will NVIDIA be the largest company in the world by market cap on December 31?](/odds/will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-december-31) — 68% YES
-- [Will Gold (GC) hit (HIGH) $7,000 by end of December?](/odds/will-gold-gc-hit-high-7000-by-end-of-december) — 6% YES
+- [Will NVIDIA be the largest company in the world by market cap on December 31?](/odds/will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-december-31) — 70% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will OpenAI IPO by September 30 2026?"?
 
-As of August 07, 2026, Polymarket prices YES at 3.1%.
+As of August 07, 2026, Polymarket prices YES at 2.7%.
 
 ### Where can I trade on this prediction market?
 

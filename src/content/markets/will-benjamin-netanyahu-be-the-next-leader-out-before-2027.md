@@ -3,7 +3,7 @@ title: "Will Benjamin Netanyahu be the next leader out before 2027?"
 description: "Will Benjamin Netanyahu be the next leader out before 2027? Odds: 27.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Benjamin Netanyahu be the next leader out before 2027?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-08-07
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]

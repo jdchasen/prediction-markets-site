@@ -1,23 +1,23 @@
 ---
-title: "Will Trump be impeached by end of 2026?"
-description: "Will Trump be impeached by end of 2026? Odds: 2.3% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Trump be impeached by end of 2026?"
+title: "Will the Toronto Tempo make the 2026 WNBA Playoffs?"
+description: "Will the Toronto Tempo make the 2026 WNBA Playoffs? Odds: 1.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will the Toronto Tempo make the 2026 WNBA Playoffs?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-07
-expiryDate: 2026-12-31
-tags: ["politics", "polymarket", "trump"]
-polymarketYes: 2.3
-polymarketNo: 97.7
-polymarketVolume: 990945
-polymarketUrl: "https://polymarket.com/event/will-trump-be-impeached-by-december-31-2026"
+expiryDate: 2026-09-25
+tags: ["politics", "polymarket", "sports"]
+polymarketYes: 1.5
+polymarketNo: 98.5
+polymarketVolume: 9934
+polymarketUrl: "https://polymarket.com/event/will-the-toronto-tempo-make-the-2026-wnba-playoffs"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 2.3% | 97.7% | $991K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 1.5% | 98.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-trump-be-impeached-by-december
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Trump be impeached by end of 2026?"?
+### What are the current odds for "Will the Toronto Tempo make the 2026 WNBA Playoffs?"?
 
-As of August 07, 2026, Polymarket prices YES at 2.3%.
+As of August 07, 2026, Polymarket prices YES at 1.5%.
 
 ### Where can I trade on this prediction market?
 

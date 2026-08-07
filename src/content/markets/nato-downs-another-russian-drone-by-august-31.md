@@ -3,7 +3,7 @@ title: "NATO downs another Russian drone by August 31?"
 description: "NATO downs another Russian drone by August 31? Odds: 58.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "NATO downs another Russian drone by August 31?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-08-07
 expiryDate: 2026-08-31
 tags: ["politics", "polymarket"]

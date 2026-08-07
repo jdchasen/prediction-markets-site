@@ -1,15 +1,15 @@
 ---
 title: "Will the Fed’s upper bound reach 4.25% or higher before 2027?"
-description: "Will the Fed’s upper bound reach 4.25% or higher before 2027? Odds: 36.6% YES on Polymarket. See live prices and trade this market."
+description: "Will the Fed’s upper bound reach 4.25% or higher before 2027? Odds: 26.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Fed’s upper bound reach 4.25% or higher before 2027?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-07
 expiryDate: 2026-12-31
 tags: ["federal-reserve", "politics", "polymarket"]
-polymarketYes: 36.6
-polymarketNo: 63.3
-polymarketVolume: 98151
+polymarketYes: 26.7
+polymarketNo: 73.4
+polymarketVolume: 98221
 polymarketUrl: "https://polymarket.com/event/will-the-feds-upper-bound-reach-4pt25-or-higher-before-2027"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-the-feds-upper-bound-reach-4pt
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 36.6% | 63.3% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 26.7% | 73.4% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Eric Trump win the 2028 Republican presidential nomination?](/odds/will-eric-trump-win-the-2028-republican-presidential-nomination) — 0% YES
+- [Will Jude Bellingham win the 2026 Ballon d'Or?](/odds/will-jude-bellingham-win-the-2026-ballon-dor) — 0% YES
 - [New pandemic in 2026?](/odds/new-pandemic-in-2026) — 6% YES
-- [Will Michael Olise win the 2026 Ballon d'Or?](/odds/will-michael-olise-win-the-2026-ballon-dor) — 0% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will the Fed’s upper bound reach 4.25% or higher before 2027?"?
 
-As of August 07, 2026, Polymarket prices YES at 36.6%.
+As of August 07, 2026, Polymarket prices YES at 26.7%.
 
 ### Where can I trade on this prediction market?
 

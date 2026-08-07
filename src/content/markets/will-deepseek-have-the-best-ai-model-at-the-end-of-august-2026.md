@@ -1,23 +1,23 @@
 ---
-title: "Will Trump be impeached by end of 2026?"
-description: "Will Trump be impeached by end of 2026? Odds: 2.3% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Trump be impeached by end of 2026?"
+title: "Will DeepSeek have the best AI model at the end of August 2026?"
+description: "Will DeepSeek have the best AI model at the end of August 2026? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will DeepSeek have the best AI model at the end of August 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-07
-expiryDate: 2026-12-31
-tags: ["politics", "polymarket", "trump"]
-polymarketYes: 2.3
-polymarketNo: 97.7
-polymarketVolume: 990945
-polymarketUrl: "https://polymarket.com/event/will-trump-be-impeached-by-december-31-2026"
+expiryDate: 2026-08-31
+tags: ["ai", "politics", "polymarket"]
+polymarketYes: 0.1
+polymarketNo: 99.9
+polymarketVolume: 99004
+polymarketUrl: "https://polymarket.com/event/will-deepseek-have-the-best-ai-model-at-the-end-of-august-2026-20260717020210295"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 2.3% | 97.7% | $991K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.1% | 99.9% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-trump-be-impeached-by-december
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Trump be impeached by end of 2026?"?
+### What are the current odds for "Will DeepSeek have the best AI model at the end of August 2026?"?
 
-As of August 07, 2026, Polymarket prices YES at 2.3%.
+As of August 07, 2026, Polymarket prices YES at 0.1%.
 
 ### Where can I trade on this prediction market?
 

@@ -3,7 +3,7 @@ title: "Nothing Ever Happens: August"
 description: "Nothing Ever Happens: August Odds: 85.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Nothing Ever Happens: August"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-08-07
 expiryDate: 2026-08-31
 tags: ["politics", "polymarket"]

@@ -1,15 +1,15 @@
 ---
 title: "Variational FDV above $2B one day after launch?"
-description: "Variational FDV above $2B one day after launch? Odds: 13.2% YES on Polymarket. See live prices and trade this market."
+description: "Variational FDV above $2B one day after launch? Odds: 14.6% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Variational FDV above $2B one day after launch?"
 category: "crypto"
 status: "active"
 lastUpdated: 2026-08-07
 expiryDate: 2028-01-01
 tags: ["crypto", "polymarket"]
-polymarketYes: 13.2
-polymarketNo: 86.8
-polymarketVolume: 99396
+polymarketYes: 14.6
+polymarketNo: 85.4
+polymarketVolume: 99722
 polymarketUrl: "https://polymarket.com/event/variational-fdv-above-2b-one-day-after-launch-713-376-681"
 ---
 
@@ -17,11 +17,11 @@ polymarketUrl: "https://polymarket.com/event/variational-fdv-above-2b-one-day-af
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 13.2% | 86.8% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 14.6% | 85.4% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Extended FDV above $500M one day after launch?](/odds/extended-fdv-above-500m-one-day-after-launch) — 20% YES
+- [Extended FDV above $500M one day after launch?](/odds/extended-fdv-above-500m-one-day-after-launch) — 18% YES
 - [Will Loopscale launch a token by December 31, 2026?](/odds/will-loopscale-launch-a-token-by-december-31-2026) — 16% YES
 - [Unit FDV above $1B one day after launch?](/odds/unit-fdv-above-1b-one-day-after-launch) — 12% YES
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/variational-fdv-above-2b-one-day-af
 
 ### What are the current odds for "Variational FDV above $2B one day after launch?"?
 
-As of August 07, 2026, Polymarket prices YES at 13.2%.
+As of August 07, 2026, Polymarket prices YES at 14.6%.
 
 ### Where can I trade on this prediction market?
 

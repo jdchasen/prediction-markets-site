@@ -1,23 +1,23 @@
 ---
-title: "Will Petr Yan fight Deiveson Figueiredo next?"
-description: "Will Petr Yan fight Deiveson Figueiredo next? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Petr Yan fight Deiveson Figueiredo next?"
+title: "Will XRP reach $1.20 in August?"
+description: "Will XRP reach $1.20 in August? Odds: 12.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will XRP reach $1.20 in August?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-07
-expiryDate: 2026-12-31
+expiryDate: 2026-09-01
 tags: ["politics", "polymarket"]
-polymarketYes: 0.1
-polymarketNo: 100.0
-polymarketVolume: 9826
-polymarketUrl: "https://polymarket.com/event/will-petr-yan-fight-deiveson-figueiredo-next"
+polymarketYes: 12.5
+polymarketNo: 87.5
+polymarketVolume: 9989
+polymarketUrl: "https://polymarket.com/event/will-xrp-reach-1pt2-in-august-2026"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.1% | 100.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 12.5% | 87.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-petr-yan-fight-deiveson-figuei
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Petr Yan fight Deiveson Figueiredo next?"?
+### What are the current odds for "Will XRP reach $1.20 in August?"?
 
-As of August 07, 2026, Polymarket prices YES at 0.1%.
+As of August 07, 2026, Polymarket prices YES at 12.5%.
 
 ### Where can I trade on this prediction market?
 

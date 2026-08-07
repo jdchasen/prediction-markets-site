@@ -1,23 +1,23 @@
 ---
-title: "Will Petr Yan fight Deiveson Figueiredo next?"
-description: "Will Petr Yan fight Deiveson Figueiredo next? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Petr Yan fight Deiveson Figueiredo next?"
+title: "Will there be a run scored in the first inning?: Toronto Blue Jays vs. Philadelphia Phillies"
+description: "Will there be a run scored in the first inning?: Toronto Blue Jays vs. Philadelphia Phillies Odds: 44.0% YES on Polymarket. See live prices and trade this ma..."
+marketQuestion: "Will there be a run scored in the first inning?: Toronto Blue Jays vs. Philadelphia Phillies"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-07
-expiryDate: 2026-12-31
+expiryDate: 2026-08-14
 tags: ["politics", "polymarket"]
-polymarketYes: 0.1
-polymarketNo: 100.0
-polymarketVolume: 9826
-polymarketUrl: "https://polymarket.com/event/will-petr-yan-fight-deiveson-figueiredo-next"
+polymarketYes: 44.0
+polymarketNo: 56.0
+polymarketVolume: 9830
+polymarketUrl: "https://polymarket.com/event/mlb-tor-phi-2026-08-07-nrfi"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.1% | 100.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 44.0% | 56.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-petr-yan-fight-deiveson-figuei
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Petr Yan fight Deiveson Figueiredo next?"?
+### What are the current odds for "Will there be a run scored in the first inning?: Toronto Blue Jays vs. Philadelphia Phillies"?
 
-As of August 07, 2026, Polymarket prices YES at 0.1%.
+As of August 07, 2026, Polymarket prices YES at 44.0%.
 
 ### Where can I trade on this prediction market?
 

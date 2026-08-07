@@ -1,23 +1,23 @@
 ---
-title: "Will Petr Yan fight Deiveson Figueiredo next?"
-description: "Will Petr Yan fight Deiveson Figueiredo next? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Petr Yan fight Deiveson Figueiredo next?"
+title: "Will Russia capture Rai-Oleksandrivka by September 30?"
+description: "Will Russia capture Rai-Oleksandrivka by September 30? Odds: 30.0% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Russia capture Rai-Oleksandrivka by September 30?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-07
-expiryDate: 2026-12-31
-tags: ["politics", "polymarket"]
-polymarketYes: 0.1
-polymarketNo: 100.0
-polymarketVolume: 9826
-polymarketUrl: "https://polymarket.com/event/will-petr-yan-fight-deiveson-figueiredo-next"
+expiryDate: 2026-09-30
+tags: ["ai", "politics", "polymarket"]
+polymarketYes: 30.0
+polymarketNo: 70.0
+polymarketVolume: 9898
+polymarketUrl: "https://polymarket.com/event/will-russia-capture-rai-oleksandrivka-by-september-30"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.1% | 100.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 30.0% | 70.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-petr-yan-fight-deiveson-figuei
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Petr Yan fight Deiveson Figueiredo next?"?
+### What are the current odds for "Will Russia capture Rai-Oleksandrivka by September 30?"?
 
-As of August 07, 2026, Polymarket prices YES at 0.1%.
+As of August 07, 2026, Polymarket prices YES at 30.0%.
 
 ### Where can I trade on this prediction market?
 

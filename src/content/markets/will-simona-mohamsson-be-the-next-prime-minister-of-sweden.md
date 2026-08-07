@@ -9,7 +9,7 @@ expiryDate: 2026-09-13
 tags: ["politics", "polymarket"]
 polymarketYes: 0.1
 polymarketNo: 99.9
-polymarketVolume: 99837
+polymarketVolume: 99883
 polymarketUrl: "https://polymarket.com/event/will-simona-mohamsson-be-the-next-prime-minister-of-sweden"
 ---
 
@@ -22,8 +22,8 @@ polymarketUrl: "https://polymarket.com/event/will-simona-mohamsson-be-the-next-p
 ## Related Markets
 
 - [Will Eric Trump win the 2028 Republican presidential nomination?](/odds/will-eric-trump-win-the-2028-republican-presidential-nomination) — 0% YES
+- [Will Jude Bellingham win the 2026 Ballon d'Or?](/odds/will-jude-bellingham-win-the-2026-ballon-dor) — 0% YES
 - [New pandemic in 2026?](/odds/new-pandemic-in-2026) — 6% YES
-- [Will Michael Olise win the 2026 Ballon d'Or?](/odds/will-michael-olise-win-the-2026-ballon-dor) — 0% YES
 
 ## Frequently Asked Questions
 

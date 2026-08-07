@@ -3,7 +3,7 @@ title: "Will the highest score achieved by an OpenAI model on Humanity’s Last 
 description: "Will the highest score achieved by an OpenAI model on Humanity’s Last Exam in 2026 be 55% or higher? Odds: 45.5% YES on Polymarket. See live prices and trade..."
 marketQuestion: "Will the highest score achieved by an OpenAI model on Humanity’s Last Exam in 2026 be 55% or higher?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-08-07
 expiryDate: 2026-12-31
 tags: ["ai", "politics", "polymarket"]

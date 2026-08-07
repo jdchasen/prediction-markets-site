@@ -23,6 +23,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-seattle-kraken-be-named-th
 
 - [Will Arizona Cardinals win the 2027 NFL NFC Championship?](/odds/will-arizona-cardinals-win-the-2027-nfl-nfc-championship) — 1% YES
 - [Will Baker Mayfield win the 2026 NFL MVP?](/odds/will-baker-mayfield-win-the-2026-nfl-mvp) — 2% YES
+- [Hamilton Tiger-Cats vs. British Columbia Lions: O/U 55.5](/odds/hamilton-tiger-cats-vs-british-columbia-lions-ou-555) — 55% YES
 
 ## Frequently Asked Questions
 

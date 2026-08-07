@@ -3,7 +3,7 @@ title: "Xi meets with Lee Jae-Myung by December 31?"
 description: "Xi meets with Lee Jae-Myung by December 31? Odds: 87.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Xi meets with Lee Jae-Myung by December 31?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-08-07
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]

@@ -1,23 +1,23 @@
 ---
-title: "Will Parti libéral du Québec win the most seats in the 2026 Quebec general election?"
-description: "Will Parti libéral du Québec win the most seats in the 2026 Quebec general election? Odds: 11.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Parti libéral du Québec win the most seats in the 2026 Quebec general election?"
+title: "Will the Moderate Party (M) win the third most seats in the 2026 Swedish parliamentary election?"
+description: "Will the Moderate Party (M) win the third most seats in the 2026 Swedish parliamentary election? Odds: 82.0% YES on Polymarket. See live prices and trade thi..."
+marketQuestion: "Will the Moderate Party (M) win the third most seats in the 2026 Swedish parliamentary election?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-07
-expiryDate: 2026-10-05
+expiryDate: 2026-09-13
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 11.5
-polymarketNo: 88.5
-polymarketVolume: 98960
-polymarketUrl: "https://polymarket.com/event/will-parti-libral-du-qubec-win-the-most-seats-in-the-2026-quebec-general-election"
+polymarketYes: 82.0
+polymarketNo: 18.0
+polymarketVolume: 9850
+polymarketUrl: "https://polymarket.com/event/will-the-moderate-party-m-win-the-third-most-seats-in-the-2026-swedish-parliamentary-election"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 11.5% | 88.5% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 82.0% | 18.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-parti-libral-du-qubec-win-the-
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Parti libéral du Québec win the most seats in the 2026 Quebec general election?"?
+### What are the current odds for "Will the Moderate Party (M) win the third most seats in the 2026 Swedish parliamentary election?"?
 
-As of August 07, 2026, Polymarket prices YES at 11.5%.
+As of August 07, 2026, Polymarket prices YES at 82.0%.
 
 ### Where can I trade on this prediction market?
 
