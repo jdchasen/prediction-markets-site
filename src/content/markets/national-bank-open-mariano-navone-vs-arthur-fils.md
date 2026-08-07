@@ -3,8 +3,8 @@ title: "National Bank Open: Mariano Navone vs Arthur Fils"
 description: "National Bank Open: Mariano Navone vs Arthur Fils Odds: 24.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "National Bank Open: Mariano Navone vs Arthur Fils"
 category: "politics"
-status: "active"
-lastUpdated: 2026-08-06
+status: "settled"
+lastUpdated: 2026-08-07
 expiryDate: 2026-08-13
 tags: ["politics", "polymarket"]
 polymarketYes: 24.5

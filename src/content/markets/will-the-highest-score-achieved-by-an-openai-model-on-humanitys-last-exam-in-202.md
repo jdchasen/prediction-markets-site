@@ -1,23 +1,23 @@
 ---
-title: "Will Trump be impeached by end of 2026?"
-description: "Will Trump be impeached by end of 2026? Odds: 2.4% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Trump be impeached by end of 2026?"
+title: "Will the highest score achieved by an OpenAI model on Humanity’s Last Exam in 2026 be 55% or higher?"
+description: "Will the highest score achieved by an OpenAI model on Humanity’s Last Exam in 2026 be 55% or higher? Odds: 45.5% YES on Polymarket. See live prices and trade..."
+marketQuestion: "Will the highest score achieved by an OpenAI model on Humanity’s Last Exam in 2026 be 55% or higher?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-07
 expiryDate: 2026-12-31
-tags: ["politics", "polymarket", "trump"]
-polymarketYes: 2.4
-polymarketNo: 97.7
-polymarketVolume: 990933
-polymarketUrl: "https://polymarket.com/event/will-trump-be-impeached-by-december-31-2026"
+tags: ["ai", "politics", "polymarket"]
+polymarketYes: 45.5
+polymarketNo: 54.5
+polymarketVolume: 9834
+polymarketUrl: "https://polymarket.com/event/will-the-highest-score-achieved-by-an-openai-model-on-humanitys-last-exam-in-2026-be-55-or-higher-20260723225144064"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 2.4% | 97.7% | $991K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 45.5% | 54.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-trump-be-impeached-by-december
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Trump be impeached by end of 2026?"?
+### What are the current odds for "Will the highest score achieved by an OpenAI model on Humanity’s Last Exam in 2026 be 55% or higher?"?
 
-As of August 07, 2026, Polymarket prices YES at 2.4%.
+As of August 07, 2026, Polymarket prices YES at 45.5%.
 
 ### Where can I trade on this prediction market?
 

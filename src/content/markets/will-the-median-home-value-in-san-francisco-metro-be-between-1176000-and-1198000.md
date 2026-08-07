@@ -3,8 +3,8 @@ title: "Will the median home value in San Francisco Metro be between $1,176,000 
 description: "Will the median home value in San Francisco Metro be between $1,176,000 and $1,198,000 on September 30? Odds: 42.5% YES on Polymarket. See live prices and tr..."
 marketQuestion: "Will the median home value in San Francisco Metro be between $1,176,000 and $1,198,000 on September 30?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-08-06
+status: "settled"
+lastUpdated: 2026-08-07
 expiryDate: 2026-09-30
 tags: ["politics", "polymarket"]
 polymarketYes: 42.5

@@ -4,7 +4,7 @@ description: "Will the Democratic Party win the WA-07 House seat? Odds: 96.1% YE
 marketQuestion: "Will the Democratic Party win the WA-07 House seat?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-08-06
+lastUpdated: 2026-08-07
 expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
 polymarketYes: 96.1
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-w
 
 ### What are the current odds for "Will the Democratic Party win the WA-07 House seat?"?
 
-As of August 06, 2026, Polymarket prices YES at 96.1%.
+As of August 07, 2026, Polymarket prices YES at 96.1%.
 
 ### Where can I trade on this prediction market?
 

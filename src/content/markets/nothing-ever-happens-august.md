@@ -1,23 +1,23 @@
 ---
-title: "US-Iran Final Nuclear Deal by August 13, 2026?"
-description: "US-Iran Final Nuclear Deal by August 13, 2026? Odds: 0.6% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "US-Iran Final Nuclear Deal by August 13, 2026?"
+title: "Nothing Ever Happens: August"
+description: "Nothing Ever Happens: August Odds: 85.0% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Nothing Ever Happens: August"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-07
-expiryDate: 2026-08-13
+expiryDate: 2026-08-31
 tags: ["politics", "polymarket"]
-polymarketYes: 0.6
-polymarketNo: 99.4
-polymarketVolume: 991127
-polymarketUrl: "https://polymarket.com/event/us-iran-final-nuclear-deal-by-august-13-2026-20260621201255152"
+polymarketYes: 85.0
+polymarketNo: 15.0
+polymarketVolume: 9888
+polymarketUrl: "https://polymarket.com/event/nothing-ever-happens-august-20260731190455728"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.6% | 99.4% | $991K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 85.0% | 15.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/us-iran-final-nuclear-deal-by-augus
 
 ## Frequently Asked Questions
 
-### What are the current odds for "US-Iran Final Nuclear Deal by August 13, 2026?"?
+### What are the current odds for "Nothing Ever Happens: August"?
 
-As of August 07, 2026, Polymarket prices YES at 0.6%.
+As of August 07, 2026, Polymarket prices YES at 85.0%.
 
 ### Where can I trade on this prediction market?
 
@@ -38,5 +38,5 @@ You can trade this market on [Polymarket](https://polymarket.us/1762?utm_source=
 ## Learn More
 
 - [US-Iran Peace Deal Odds: Will It Happen in 2025?](/blog/us-iran-peace-deal-odds-will-it-happen-in-2025)
-- [US-Iran Peace Deal Odds: What Traders Are Betting](/blog/us-iran-peace-deal-odds-what-traders-are-betting)
+- [Tesla SpaceX Merger: Will It Actually Happen in 2026?](/blog/tesla-spacex-merger-will-it-actually-happen-in-2026)
 

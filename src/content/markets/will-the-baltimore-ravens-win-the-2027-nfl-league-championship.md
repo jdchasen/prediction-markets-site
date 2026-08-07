@@ -3,8 +3,8 @@ title: "Will the Baltimore Ravens win the 2027 NFL league championship?"
 description: "Will the Baltimore Ravens win the 2027 NFL league championship? Odds: 6.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Baltimore Ravens win the 2027 NFL league championship?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-08-06
+status: "settled"
+lastUpdated: 2026-08-07
 expiryDate: 2027-03-31
 tags: ["polymarket", "sports"]
 polymarketYes: 6.9

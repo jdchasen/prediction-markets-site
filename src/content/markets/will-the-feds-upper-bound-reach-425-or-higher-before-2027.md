@@ -1,23 +1,23 @@
 ---
-title: "Will Zelenskyy talk to Putin by December 31?"
-description: "Will Zelenskyy talk to Putin by December 31? Odds: 14.0% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Zelenskyy talk to Putin by December 31?"
+title: "Will the Fed’s upper bound reach 4.25% or higher before 2027?"
+description: "Will the Fed’s upper bound reach 4.25% or higher before 2027? Odds: 36.6% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will the Fed’s upper bound reach 4.25% or higher before 2027?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-07
 expiryDate: 2026-12-31
-tags: ["politics", "polymarket"]
-polymarketYes: 14.0
-polymarketNo: 86.0
-polymarketVolume: 99894
-polymarketUrl: "https://polymarket.com/event/will-zelenskyy-talk-to-putin-by-december-31-992-711"
+tags: ["federal-reserve", "politics", "polymarket"]
+polymarketYes: 36.6
+polymarketNo: 63.3
+polymarketVolume: 98151
+polymarketUrl: "https://polymarket.com/event/will-the-feds-upper-bound-reach-4pt25-or-higher-before-2027"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 14.0% | 86.0% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 36.6% | 63.3% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-zelenskyy-talk-to-putin-by-dec
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Zelenskyy talk to Putin by December 31?"?
+### What are the current odds for "Will the Fed’s upper bound reach 4.25% or higher before 2027?"?
 
-As of August 07, 2026, Polymarket prices YES at 14.0%.
+As of August 07, 2026, Polymarket prices YES at 36.6%.
 
 ### Where can I trade on this prediction market?
 

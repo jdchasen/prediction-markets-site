@@ -3,8 +3,8 @@ title: "Will S&P 500 (SPY) hit (HIGH) $790 in August?"
 description: "Will S&P 500 (SPY) hit (HIGH) $790 in August? Odds: 46.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will S&P 500 (SPY) hit (HIGH) $790 in August?"
 category: "finance"
-status: "active"
-lastUpdated: 2026-08-06
+status: "settled"
+lastUpdated: 2026-08-07
 expiryDate: 2026-09-01
 tags: ["finance", "polymarket", "stocks"]
 polymarketYes: 46.7

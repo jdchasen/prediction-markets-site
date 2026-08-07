@@ -4,7 +4,7 @@ description: "Will Gold (GC) hit (HIGH) $7,000 by end of December? Odds: 5.5% YE
 marketQuestion: "Will Gold (GC) hit (HIGH) $7,000 by end of December?"
 category: "finance"
 status: "active"
-lastUpdated: 2026-08-06
+lastUpdated: 2026-08-07
 expiryDate: 2026-12-31
 tags: ["finance", "polymarket"]
 polymarketYes: 5.5
@@ -21,14 +21,14 @@ polymarketUrl: "https://polymarket.com/event/will-gold-gc-hit-high-7000-by-end-o
 
 ## Related Markets
 
-- [Will NVIDIA be the largest company in the world by market cap on December 31?](/odds/will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-december-31) — 66% YES
-- [Will S&P 500 (SPY) hit (HIGH) $790 in August?](/odds/will-sp-500-spy-hit-high-790-in-august) — 47% YES
+- [Will NVIDIA be the largest company in the world by market cap on December 31?](/odds/will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-december-31) — 68% YES
+- [Will OpenAI IPO by September 30 2026?](/odds/will-openai-ipo-by-september-30-2026) — 3% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Gold (GC) hit (HIGH) $7,000 by end of December?"?
 
-As of August 06, 2026, Polymarket prices YES at 5.5%.
+As of August 07, 2026, Polymarket prices YES at 5.5%.
 
 ### Where can I trade on this prediction market?
 

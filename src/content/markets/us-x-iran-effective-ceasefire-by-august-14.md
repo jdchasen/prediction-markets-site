@@ -3,8 +3,8 @@ title: "US x Iran Effective Ceasefire by August 14?"
 description: "US x Iran Effective Ceasefire by August 14? Odds: 86.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "US x Iran Effective Ceasefire by August 14?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-08-06
+status: "settled"
+lastUpdated: 2026-08-07
 expiryDate: 2026-08-14
 tags: ["politics", "polymarket"]
 polymarketYes: 86.5

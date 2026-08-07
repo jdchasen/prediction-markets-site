@@ -4,7 +4,7 @@ description: "Will TD Ierlan win the 2026 PLL Face-Off Player of the Year? Odds:
 marketQuestion: "Will TD Ierlan win the 2026 PLL Face-Off Player of the Year?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-08-06
+lastUpdated: 2026-08-07
 expiryDate: 2026-09-13
 tags: ["politics", "polymarket"]
 polymarketYes: 24.5
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-td-ierlan-win-the-2026-pll-fac
 
 ### What are the current odds for "Will TD Ierlan win the 2026 PLL Face-Off Player of the Year?"?
 
-As of August 06, 2026, Polymarket prices YES at 24.5%.
+As of August 07, 2026, Polymarket prices YES at 24.5%.
 
 ### Where can I trade on this prediction market?
 

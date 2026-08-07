@@ -4,12 +4,12 @@ description: "Bank of England decreases interest rates by 50+ bps after Septembe
 marketQuestion: "Bank of England decreases interest rates by 50+ bps after September 2026 meeting?"
 category: "economics"
 status: "active"
-lastUpdated: 2026-08-06
+lastUpdated: 2026-08-07
 expiryDate: 2026-09-17
 tags: ["economics", "interest-rates", "polymarket"]
 polymarketYes: 0.1
 polymarketNo: 99.9
-polymarketVolume: 9898
+polymarketVolume: 9981
 polymarketUrl: "https://polymarket.com/event/bank-of-england-decreases-interest-rates-by-50-bps-after-september-2026-meeting-20260623013424709"
 ---
 
@@ -19,15 +19,11 @@ polymarketUrl: "https://polymarket.com/event/bank-of-england-decreases-interest-
 |----------|-----|-----|--------|-------|
 | Polymarket | 0.1% | 99.9% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
-## Related Markets
-
-- [Will Brazil’s Annual Inflation in 2026 be between 5.00% and 5.49%?](/odds/will-brazils-annual-inflation-in-2026-be-between-500-and-549) — 39% YES
-
 ## Frequently Asked Questions
 
 ### What are the current odds for "Bank of England decreases interest rates by 50+ bps after September 2026 meeting?"?
 
-As of August 06, 2026, Polymarket prices YES at 0.1%.
+As of August 07, 2026, Polymarket prices YES at 0.1%.
 
 ### Where can I trade on this prediction market?
 

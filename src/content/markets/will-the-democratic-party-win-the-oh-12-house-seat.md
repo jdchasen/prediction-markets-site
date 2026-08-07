@@ -4,7 +4,7 @@ description: "Will the Democratic Party win the OH-12 House seat? Odds: 6.5% YES
 marketQuestion: "Will the Democratic Party win the OH-12 House seat?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-08-06
+lastUpdated: 2026-08-07
 expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
 polymarketYes: 6.5
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-o
 
 ### What are the current odds for "Will the Democratic Party win the OH-12 House seat?"?
 
-As of August 06, 2026, Polymarket prices YES at 6.5%.
+As of August 07, 2026, Polymarket prices YES at 6.5%.
 
 ### Where can I trade on this prediction market?
 

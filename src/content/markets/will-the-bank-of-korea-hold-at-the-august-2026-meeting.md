@@ -3,8 +3,8 @@ title: "Will the Bank of Korea hold at the August 2026 meeting?"
 description: "Will the Bank of Korea hold at the August 2026 meeting? Odds: 74.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Bank of Korea hold at the August 2026 meeting?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-08-06
+status: "settled"
+lastUpdated: 2026-08-07
 expiryDate: 2026-08-26
 tags: ["politics", "polymarket"]
 polymarketYes: 74.0

@@ -4,7 +4,7 @@ description: "Will the Republicans win the Wyoming Senate race in 2026? Odds: 95
 marketQuestion: "Will the Republicans win the Wyoming Senate race in 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-08-06
+lastUpdated: 2026-08-07
 tags: ["politics", "polymarket"]
 polymarketYes: 95.2
 polymarketNo: 4.8
@@ -28,7 +28,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-republicans-win-the-wyomin
 
 ### What are the current odds for "Will the Republicans win the Wyoming Senate race in 2026?"?
 
-As of August 06, 2026, Polymarket prices YES at 95.2%.
+As of August 07, 2026, Polymarket prices YES at 95.2%.
 
 ### Where can I trade on this prediction market?
 

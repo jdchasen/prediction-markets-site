@@ -3,8 +3,8 @@ title: "Will the median home value in the US be between $433,000 and $440,000 on
 description: "Will the median home value in the US be between $433,000 and $440,000 on September 30? Odds: 3.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the median home value in the US be between $433,000 and $440,000 on September 30?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-08-06
+status: "settled"
+lastUpdated: 2026-08-07
 expiryDate: 2026-09-30
 tags: ["politics", "polymarket"]
 polymarketYes: 3.2

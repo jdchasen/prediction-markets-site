@@ -3,8 +3,8 @@ title: "Bitcoin all time high by September 30, 2026?"
 description: "Bitcoin all time high by September 30, 2026? Odds: 1.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Bitcoin all time high by September 30, 2026?"
 category: "crypto"
-status: "active"
-lastUpdated: 2026-08-06
+status: "settled"
+lastUpdated: 2026-08-07
 expiryDate: 2026-10-01
 tags: ["bitcoin", "crypto", "polymarket"]
 polymarketYes: 1.1

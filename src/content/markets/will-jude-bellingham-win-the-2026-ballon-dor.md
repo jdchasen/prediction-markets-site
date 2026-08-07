@@ -4,12 +4,12 @@ description: "Will Jude Bellingham win the 2026 Ballon d'Or? Odds: 0.2% YES on P
 marketQuestion: "Will Jude Bellingham win the 2026 Ballon d'Or?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-08-06
+lastUpdated: 2026-08-07
 expiryDate: 2026-10-31
 tags: ["politics", "polymarket"]
 polymarketYes: 0.2
 polymarketNo: 99.8
-polymarketVolume: 990794
+polymarketVolume: 991149
 polymarketUrl: "https://polymarket.com/event/will-jude-bellingham-win-the-2026-ballon-dor"
 ---
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-jude-bellingham-win-the-2026-b
 
 ### What are the current odds for "Will Jude Bellingham win the 2026 Ballon d'Or?"?
 
-As of August 06, 2026, Polymarket prices YES at 0.2%.
+As of August 07, 2026, Polymarket prices YES at 0.2%.
 
 ### Where can I trade on this prediction market?
 

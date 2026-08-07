@@ -1,23 +1,23 @@
 ---
-title: "Will Parti libéral du Québec win the most seats in the 2026 Quebec general election?"
-description: "Will Parti libéral du Québec win the most seats in the 2026 Quebec general election? Odds: 11.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Parti libéral du Québec win the most seats in the 2026 Quebec general election?"
+title: "Will Eduardo Bolsonaro finish in second place in the first round of the 2026 Brazilian presidential election?"
+description: "Will Eduardo Bolsonaro finish in second place in the first round of the 2026 Brazilian presidential election? Odds: 0.1% YES on Polymarket. See live prices a..."
+marketQuestion: "Will Eduardo Bolsonaro finish in second place in the first round of the 2026 Brazilian presidential election?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-07
-expiryDate: 2026-10-05
+expiryDate: 2026-10-04
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 11.5
-polymarketNo: 88.5
-polymarketVolume: 98864
-polymarketUrl: "https://polymarket.com/event/will-parti-libral-du-qubec-win-the-most-seats-in-the-2026-quebec-general-election"
+polymarketYes: 0.1
+polymarketNo: 99.9
+polymarketVolume: 98923
+polymarketUrl: "https://polymarket.com/event/will-eduardo-bolsonaro-finish-in-second-place-in-the-first-round-of-the-2026-brazilian-presidential-election"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 11.5% | 88.5% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.1% | 99.9% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-parti-libral-du-qubec-win-the-
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Parti libéral du Québec win the most seats in the 2026 Quebec general election?"?
+### What are the current odds for "Will Eduardo Bolsonaro finish in second place in the first round of the 2026 Brazilian presidential election?"?
 
-As of August 07, 2026, Polymarket prices YES at 11.5%.
+As of August 07, 2026, Polymarket prices YES at 0.1%.
 
 ### Where can I trade on this prediction market?
 

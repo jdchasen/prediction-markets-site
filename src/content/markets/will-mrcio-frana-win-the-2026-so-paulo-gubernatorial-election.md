@@ -4,7 +4,7 @@ description: "Will Márcio França win the 2026 São Paulo gubernatorial electio
 marketQuestion: "Will Márcio França win the 2026 São Paulo gubernatorial election?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-08-06
+lastUpdated: 2026-08-07
 expiryDate: 2026-10-04
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.1
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-mrcio-frana-win-the-2026-so-pa
 
 ### What are the current odds for "Will Márcio França win the 2026 São Paulo gubernatorial election?"?
 
-As of August 06, 2026, Polymarket prices YES at 0.1%.
+As of August 07, 2026, Polymarket prices YES at 0.1%.
 
 ### Where can I trade on this prediction market?
 
