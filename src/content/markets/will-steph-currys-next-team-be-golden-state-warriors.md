@@ -3,8 +3,8 @@ title: "Will Steph Curry's next team be Golden State Warriors?"
 description: "Will Steph Curry's next team be Golden State Warriors? Odds: 93.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Steph Curry's next team be Golden State Warriors?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-08-07
+status: "settled"
+lastUpdated: 2026-08-08
 expiryDate: 2027-02-11
 tags: ["politics", "polymarket"]
 polymarketYes: 93.5

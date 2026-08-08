@@ -1,14 +1,14 @@
 ---
 title: "Will Russia capture Kindrativka by September 30?"
-description: "Will Russia capture Kindrativka by September 30? Odds: 30.0% YES on Polymarket. See live prices and trade this market."
+description: "Will Russia capture Kindrativka by September 30? Odds: 29.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Russia capture Kindrativka by September 30?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-08-07
+lastUpdated: 2026-08-08
 expiryDate: 2026-09-30
 tags: ["politics", "polymarket"]
-polymarketYes: 30.0
-polymarketNo: 70.0
+polymarketYes: 29.5
+polymarketNo: 70.5
 polymarketVolume: 9985
 polymarketUrl: "https://polymarket.com/event/will-russia-capture-kindrativka-by-september-30"
 ---
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-russia-capture-kindrativka-by-
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 30.0% | 70.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 29.5% | 70.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Eric Trump win the 2028 Republican presidential nomination?](/odds/will-eric-trump-win-the-2028-republican-presidential-nomination) — 0% YES
-- [Will Jude Bellingham win the 2026 Ballon d'Or?](/odds/will-jude-bellingham-win-the-2026-ballon-dor) — 0% YES
 - [New pandemic in 2026?](/odds/new-pandemic-in-2026) — 6% YES
+- [Will Trump be impeached by end of 2026?](/odds/will-trump-be-impeached-by-end-of-2026) — 2% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Russia capture Kindrativka by September 30?"?
 
-As of August 07, 2026, Polymarket prices YES at 30.0%.
+As of August 08, 2026, Polymarket prices YES at 29.5%.
 
 ### Where can I trade on this prediction market?
 

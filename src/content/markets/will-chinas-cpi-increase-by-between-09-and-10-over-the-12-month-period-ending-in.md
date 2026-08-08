@@ -1,15 +1,15 @@
 ---
 title: "Will China's CPI increase by between 0.9% and 1.0% over the 12 month period ending in July 2026?"
-description: "Will China's CPI increase by between 0.9% and 1.0% over the 12 month period ending in July 2026? Odds: 16.9% YES on Polymarket. See live prices and trade thi..."
+description: "Will China's CPI increase by between 0.9% and 1.0% over the 12 month period ending in July 2026? Odds: 17.4% YES on Polymarket. See live prices and trade thi..."
 marketQuestion: "Will China's CPI increase by between 0.9% and 1.0% over the 12 month period ending in July 2026?"
 category: "economics"
 status: "active"
-lastUpdated: 2026-08-07
+lastUpdated: 2026-08-08
 expiryDate: 2026-08-10
 tags: ["economics", "polymarket"]
-polymarketYes: 16.9
-polymarketNo: 83.2
-polymarketVolume: 9811
+polymarketYes: 17.4
+polymarketNo: 82.6
+polymarketVolume: 9834
 polymarketUrl: "https://polymarket.com/event/will-chinas-annual-inflation-increase-by-between-0pt9-and-1pt0-in-july-20260730163640989"
 ---
 
@@ -17,17 +17,17 @@ polymarketUrl: "https://polymarket.com/event/will-chinas-annual-inflation-increa
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 16.9% | 83.2% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 17.4% | 82.6% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Core CPI YoY be 2.5% in July?](/odds/will-core-cpi-yoy-be-25-in-july) — 42% YES
+- [Will monthly inflation decrease by 0.6% in July?](/odds/will-monthly-inflation-decrease-by-06-in-july) — 0% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will China's CPI increase by between 0.9% and 1.0% over the 12 month period ending in July 2026?"?
 
-As of August 07, 2026, Polymarket prices YES at 16.9%.
+As of August 08, 2026, Polymarket prices YES at 17.4%.
 
 ### Where can I trade on this prediction market?
 

@@ -1,14 +1,14 @@
 ---
 title: "Hamilton Tiger-Cats vs. British Columbia Lions: O/U 55.5"
-description: "Hamilton Tiger-Cats vs. British Columbia Lions: O/U 55.5 Odds: 55.0% YES on Polymarket. See live prices and trade this market."
+description: "Hamilton Tiger-Cats vs. British Columbia Lions: O/U 55.5 Odds: 54.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Hamilton Tiger-Cats vs. British Columbia Lions: O/U 55.5"
 category: "sports"
 status: "active"
-lastUpdated: 2026-08-07
+lastUpdated: 2026-08-08
 expiryDate: 2026-08-15
 tags: ["polymarket", "sports"]
-polymarketYes: 55.0
-polymarketNo: 45.0
+polymarketYes: 54.5
+polymarketNo: 45.5
 polymarketVolume: 9983
 polymarketUrl: "https://polymarket.com/event/cfl-ham-bc-2026-08-08-total-55pt5"
 ---
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/cfl-ham-bc-2026-08-08-total-55pt5"
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 55.0% | 45.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 54.5% | 45.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/cfl-ham-bc-2026-08-08-total-55pt5"
 
 ### What are the current odds for "Hamilton Tiger-Cats vs. British Columbia Lions: O/U 55.5"?
 
-As of August 07, 2026, Polymarket prices YES at 55.0%.
+As of August 08, 2026, Polymarket prices YES at 54.5%.
 
 ### Where can I trade on this prediction market?
 

@@ -3,8 +3,8 @@ title: "Will Luke Bronin be the Democratic nominee for CT-01?"
 description: "Will Luke Bronin be the Democratic nominee for CT-01? Odds: 71.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Luke Bronin be the Democratic nominee for CT-01?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-08-07
+status: "settled"
+lastUpdated: 2026-08-08
 expiryDate: 2026-08-11
 tags: ["politics", "polymarket"]
 polymarketYes: 71.5

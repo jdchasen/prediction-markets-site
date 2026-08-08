@@ -1,23 +1,23 @@
 ---
-title: "Will Core CPI YoY be 2.5% in July?"
-description: "Will Core CPI YoY be 2.5% in July? Odds: 42.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Core CPI YoY be 2.5% in July?"
+title: "Will monthly inflation decrease by 0.6% in July?"
+description: "Will monthly inflation decrease by 0.6% in July? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will monthly inflation decrease by 0.6% in July?"
 category: "economics"
-status: "settled"
+status: "active"
 lastUpdated: 2026-08-08
 expiryDate: 2026-08-12
-tags: ["economics", "polymarket"]
-polymarketYes: 42.5
-polymarketNo: 57.5
-polymarketVolume: 9677
-polymarketUrl: "https://polymarket.com/event/will-core-cpi-yoy-be-2pt5-in-july-20260714151811924"
+tags: ["economics", "polymarket", "sports"]
+polymarketYes: 0.1
+polymarketNo: 99.9
+polymarketVolume: 9796
+polymarketUrl: "https://polymarket.com/event/will-monthly-inflation-decrease-by-0pt6-in-july-20260714151054968"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 42.5% | 57.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.1% | 99.9% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -25,9 +25,9 @@ polymarketUrl: "https://polymarket.com/event/will-core-cpi-yoy-be-2pt5-in-july-2
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Core CPI YoY be 2.5% in July?"?
+### What are the current odds for "Will monthly inflation decrease by 0.6% in July?"?
 
-As of August 07, 2026, Polymarket prices YES at 42.5%.
+As of August 08, 2026, Polymarket prices YES at 0.1%.
 
 ### Where can I trade on this prediction market?
 

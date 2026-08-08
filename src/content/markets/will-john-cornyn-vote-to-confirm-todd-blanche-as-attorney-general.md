@@ -1,23 +1,23 @@
 ---
-title: "Will the Democratic Party win the AR-01 House seat?"
-description: "Will the Democratic Party win the AR-01 House seat? Odds: 1.8% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will the Democratic Party win the AR-01 House seat?"
+title: "Will John Cornyn vote to confirm Todd Blanche as Attorney General?"
+description: "Will John Cornyn vote to confirm Todd Blanche as Attorney General? Odds: 100.0% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will John Cornyn vote to confirm Todd Blanche as Attorney General?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-08
-expiryDate: 2026-11-03
+expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]
-polymarketYes: 1.8
-polymarketNo: 98.2
-polymarketVolume: 9914
-polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-ar-01-house-seat"
+polymarketYes: 100.0
+polymarketNo: 0.1
+polymarketVolume: 9903
+polymarketUrl: "https://polymarket.com/event/will-john-cornyn-vote-to-confirm-todd-blanche-as-attorney-general-20260609155821983"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 1.8% | 98.2% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 100.0% | 0.1% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-a
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will the Democratic Party win the AR-01 House seat?"?
+### What are the current odds for "Will John Cornyn vote to confirm Todd Blanche as Attorney General?"?
 
-As of August 08, 2026, Polymarket prices YES at 1.8%.
+As of August 08, 2026, Polymarket prices YES at 100.0%.
 
 ### Where can I trade on this prediction market?
 

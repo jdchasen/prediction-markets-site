@@ -4,12 +4,12 @@ description: "Will Elena Rybakina win the 2026 Women’s US Open? Odds: 9.0% YES
 marketQuestion: "Will Elena Rybakina win the 2026 Women’s US Open?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-08-07
+lastUpdated: 2026-08-08
 expiryDate: 2026-09-13
 tags: ["politics", "polymarket"]
 polymarketYes: 9.0
 polymarketNo: 91.0
-polymarketVolume: 98599
+polymarketVolume: 98662
 polymarketUrl: "https://polymarket.com/event/will-elena-rybakina-win-the-2026-womens-us-open"
 ---
 
@@ -22,14 +22,14 @@ polymarketUrl: "https://polymarket.com/event/will-elena-rybakina-win-the-2026-wo
 ## Related Markets
 
 - [Will Eric Trump win the 2028 Republican presidential nomination?](/odds/will-eric-trump-win-the-2028-republican-presidential-nomination) — 0% YES
-- [Will Jude Bellingham win the 2026 Ballon d'Or?](/odds/will-jude-bellingham-win-the-2026-ballon-dor) — 0% YES
 - [New pandemic in 2026?](/odds/new-pandemic-in-2026) — 6% YES
+- [Will Trump be impeached by end of 2026?](/odds/will-trump-be-impeached-by-end-of-2026) — 2% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Elena Rybakina win the 2026 Women’s US Open?"?
 
-As of August 07, 2026, Polymarket prices YES at 9.0%.
+As of August 08, 2026, Polymarket prices YES at 9.0%.
 
 ### Where can I trade on this prediction market?
 

@@ -3,8 +3,8 @@ title: "Will Russia capture Kostyantynivka by August 15?"
 description: "Will Russia capture Kostyantynivka by August 15? Odds: 13.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Russia capture Kostyantynivka by August 15?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-08-07
+status: "settled"
+lastUpdated: 2026-08-08
 expiryDate: 2026-08-15
 tags: ["politics", "polymarket"]
 polymarketYes: 13.5

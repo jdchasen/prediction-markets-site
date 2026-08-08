@@ -1,15 +1,15 @@
 ---
 title: "Will the Toronto Tempo make the 2026 WNBA Playoffs?"
-description: "Will the Toronto Tempo make the 2026 WNBA Playoffs? Odds: 1.5% YES on Polymarket. See live prices and trade this market."
+description: "Will the Toronto Tempo make the 2026 WNBA Playoffs? Odds: 1.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Toronto Tempo make the 2026 WNBA Playoffs?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-08-07
+lastUpdated: 2026-08-08
 expiryDate: 2026-09-25
 tags: ["politics", "polymarket", "sports"]
-polymarketYes: 1.5
-polymarketNo: 98.5
-polymarketVolume: 9934
+polymarketYes: 1.4
+polymarketNo: 98.6
+polymarketVolume: 9954
 polymarketUrl: "https://polymarket.com/event/will-the-toronto-tempo-make-the-2026-wnba-playoffs"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-the-toronto-tempo-make-the-202
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 1.5% | 98.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 1.4% | 98.6% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Eric Trump win the 2028 Republican presidential nomination?](/odds/will-eric-trump-win-the-2028-republican-presidential-nomination) — 0% YES
-- [Will Jude Bellingham win the 2026 Ballon d'Or?](/odds/will-jude-bellingham-win-the-2026-ballon-dor) — 0% YES
 - [New pandemic in 2026?](/odds/new-pandemic-in-2026) — 6% YES
+- [Will Trump be impeached by end of 2026?](/odds/will-trump-be-impeached-by-end-of-2026) — 2% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will the Toronto Tempo make the 2026 WNBA Playoffs?"?
 
-As of August 07, 2026, Polymarket prices YES at 1.5%.
+As of August 08, 2026, Polymarket prices YES at 1.4%.
 
 ### Where can I trade on this prediction market?
 

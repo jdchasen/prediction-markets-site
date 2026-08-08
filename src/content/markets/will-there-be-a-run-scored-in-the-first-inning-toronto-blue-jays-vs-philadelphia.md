@@ -3,8 +3,8 @@ title: "Will there be a run scored in the first inning?: Toronto Blue Jays vs. P
 description: "Will there be a run scored in the first inning?: Toronto Blue Jays vs. Philadelphia Phillies Odds: 44.0% YES on Polymarket. See live prices and trade this ma..."
 marketQuestion: "Will there be a run scored in the first inning?: Toronto Blue Jays vs. Philadelphia Phillies"
 category: "politics"
-status: "active"
-lastUpdated: 2026-08-07
+status: "settled"
+lastUpdated: 2026-08-08
 expiryDate: 2026-08-14
 tags: ["politics", "polymarket"]
 polymarketYes: 44.0

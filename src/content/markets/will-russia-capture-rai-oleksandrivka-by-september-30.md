@@ -3,8 +3,8 @@ title: "Will Russia capture Rai-Oleksandrivka by September 30?"
 description: "Will Russia capture Rai-Oleksandrivka by September 30? Odds: 30.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Russia capture Rai-Oleksandrivka by September 30?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-08-07
+status: "settled"
+lastUpdated: 2026-08-08
 expiryDate: 2026-09-30
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 30.0

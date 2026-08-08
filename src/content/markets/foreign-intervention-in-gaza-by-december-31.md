@@ -3,8 +3,8 @@ title: "Foreign intervention in Gaza by December 31?"
 description: "Foreign intervention in Gaza by December 31? Odds: 31.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Foreign intervention in Gaza by December 31?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-08-07
+status: "settled"
+lastUpdated: 2026-08-08
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 31.0

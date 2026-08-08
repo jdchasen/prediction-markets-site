@@ -1,23 +1,22 @@
 ---
-title: "Will Min Woo Lee win the 2026 TOUR Championship?"
-description: "Will Min Woo Lee win the 2026 TOUR Championship? Odds: 0.9% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Min Woo Lee win the 2026 TOUR Championship?"
+title: "Will TEAM VISION Win The International 2026?"
+description: "Will TEAM VISION Win The International 2026? Odds: 22.0% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will TEAM VISION Win The International 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-08
-expiryDate: 2026-08-31
 tags: ["politics", "polymarket"]
-polymarketYes: 0.9
-polymarketNo: 99.1
-polymarketVolume: 98352
-polymarketUrl: "https://polymarket.com/event/will-min-woo-lee-win-the-2026-tour-championship-517"
+polymarketYes: 22.0
+polymarketNo: 78.0
+polymarketVolume: 9899
+polymarketUrl: "https://polymarket.com/event/will-team-vision-win-the-international-2026-20260629212053622"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.9% | 99.1% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 22.0% | 78.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +26,9 @@ polymarketUrl: "https://polymarket.com/event/will-min-woo-lee-win-the-2026-tour-
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Min Woo Lee win the 2026 TOUR Championship?"?
+### What are the current odds for "Will TEAM VISION Win The International 2026?"?
 
-As of August 08, 2026, Polymarket prices YES at 0.9%.
+As of August 08, 2026, Polymarket prices YES at 22.0%.
 
 ### Where can I trade on this prediction market?
 

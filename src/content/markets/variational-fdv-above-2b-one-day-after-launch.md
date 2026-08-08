@@ -4,12 +4,12 @@ description: "Variational FDV above $2B one day after launch? Odds: 14.6% YES on
 marketQuestion: "Variational FDV above $2B one day after launch?"
 category: "crypto"
 status: "active"
-lastUpdated: 2026-08-07
+lastUpdated: 2026-08-08
 expiryDate: 2028-01-01
 tags: ["crypto", "polymarket"]
 polymarketYes: 14.6
 polymarketNo: 85.4
-polymarketVolume: 99722
+polymarketVolume: 99818
 polymarketUrl: "https://polymarket.com/event/variational-fdv-above-2b-one-day-after-launch-713-376-681"
 ---
 
@@ -21,7 +21,6 @@ polymarketUrl: "https://polymarket.com/event/variational-fdv-above-2b-one-day-af
 
 ## Related Markets
 
-- [Extended FDV above $500M one day after launch?](/odds/extended-fdv-above-500m-one-day-after-launch) — 18% YES
 - [Will Loopscale launch a token by December 31, 2026?](/odds/will-loopscale-launch-a-token-by-december-31-2026) — 16% YES
 - [Unit FDV above $1B one day after launch?](/odds/unit-fdv-above-1b-one-day-after-launch) — 12% YES
 
@@ -29,7 +28,7 @@ polymarketUrl: "https://polymarket.com/event/variational-fdv-above-2b-one-day-af
 
 ### What are the current odds for "Variational FDV above $2B one day after launch?"?
 
-As of August 07, 2026, Polymarket prices YES at 14.6%.
+As of August 08, 2026, Polymarket prices YES at 14.6%.
 
 ### Where can I trade on this prediction market?
 
