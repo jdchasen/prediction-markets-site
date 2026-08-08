@@ -3,7 +3,7 @@ title: "Hamilton Tiger-Cats vs. British Columbia Lions: O/U 55.5"
 description: "Hamilton Tiger-Cats vs. British Columbia Lions: O/U 55.5 Odds: 54.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Hamilton Tiger-Cats vs. British Columbia Lions: O/U 55.5"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-08-08
 expiryDate: 2026-08-15
 tags: ["polymarket", "sports"]

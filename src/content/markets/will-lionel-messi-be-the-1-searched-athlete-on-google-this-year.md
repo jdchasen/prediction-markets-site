@@ -3,7 +3,7 @@ title: "Will Lionel Messi be the #1 searched athlete on Google this year?"
 description: "Will Lionel Messi be the #1 searched athlete on Google this year? Odds: 6.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Lionel Messi be the #1 searched athlete on Google this year?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-08-08
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]

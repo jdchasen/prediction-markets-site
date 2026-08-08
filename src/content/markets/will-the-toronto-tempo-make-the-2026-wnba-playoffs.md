@@ -8,7 +8,7 @@ lastUpdated: 2026-08-08
 expiryDate: 2026-09-25
 tags: ["politics", "polymarket", "sports"]
 polymarketYes: 1.4
-polymarketNo: 98.6
+polymarketNo: 98.7
 polymarketVolume: 9954
 polymarketUrl: "https://polymarket.com/event/will-the-toronto-tempo-make-the-2026-wnba-playoffs"
 ---
@@ -17,13 +17,13 @@ polymarketUrl: "https://polymarket.com/event/will-the-toronto-tempo-make-the-202
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 1.4% | 98.6% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 1.4% | 98.7% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Eric Trump win the 2028 Republican presidential nomination?](/odds/will-eric-trump-win-the-2028-republican-presidential-nomination) — 0% YES
 - [New pandemic in 2026?](/odds/new-pandemic-in-2026) — 6% YES
 - [Will Trump be impeached by end of 2026?](/odds/will-trump-be-impeached-by-end-of-2026) — 2% YES
+- [Will Khvicha Kvaratskhelia win the 2026 Ballon d'Or?](/odds/will-khvicha-kvaratskhelia-win-the-2026-ballon-dor) — 1% YES
 
 ## Frequently Asked Questions
 

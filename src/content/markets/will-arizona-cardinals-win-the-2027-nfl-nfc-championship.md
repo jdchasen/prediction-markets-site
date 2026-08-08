@@ -22,7 +22,6 @@ polymarketUrl: "https://polymarket.com/event/will-arizona-cardinals-win-the-2027
 ## Related Markets
 
 - [Will Baker Mayfield win the 2026 NFL MVP?](/odds/will-baker-mayfield-win-the-2026-nfl-mvp) — 2% YES
-- [Hamilton Tiger-Cats vs. British Columbia Lions: O/U 55.5](/odds/hamilton-tiger-cats-vs-british-columbia-lions-ou-555) — 54% YES
 - [Will the Seattle Kraken be named the 2026-27 NHL Stanley Cup Champion?](/odds/will-the-seattle-kraken-be-named-the-2026-27-nhl-stanley-cup-champion) — 0% YES
 
 ## Frequently Asked Questions

@@ -1,23 +1,23 @@
 ---
-title: "Will the Democratic Party win the AR-01 House seat?"
-description: "Will the Democratic Party win the AR-01 House seat? Odds: 1.8% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will the Democratic Party win the AR-01 House seat?"
+title: "Will STRC hit $100 by December 31?"
+description: "Will STRC hit $100 by December 31? Odds: 63.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will STRC hit $100 by December 31?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-08
-expiryDate: 2026-11-03
+expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 1.8
-polymarketNo: 98.2
-polymarketVolume: 9914
-polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-ar-01-house-seat"
+polymarketYes: 63.5
+polymarketNo: 36.5
+polymarketVolume: 98720
+polymarketUrl: "https://polymarket.com/event/will-strc-hit-100-by-december-31-20260618001621119"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 1.8% | 98.2% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 63.5% | 36.5% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-a
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will the Democratic Party win the AR-01 House seat?"?
+### What are the current odds for "Will STRC hit $100 by December 31?"?
 
-As of August 08, 2026, Polymarket prices YES at 1.8%.
+As of August 08, 2026, Polymarket prices YES at 63.5%.
 
 ### Where can I trade on this prediction market?
 

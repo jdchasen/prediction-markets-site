@@ -1,23 +1,23 @@
 ---
-title: "Will the Democratic Party win the AR-01 House seat?"
-description: "Will the Democratic Party win the AR-01 House seat? Odds: 1.8% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will the Democratic Party win the AR-01 House seat?"
+title: "Will Alfred Cannan be the next Chief Minister of the Isle of Man?"
+description: "Will Alfred Cannan be the next Chief Minister of the Isle of Man? Odds: 30.0% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Alfred Cannan be the next Chief Minister of the Isle of Man?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-08
-expiryDate: 2026-11-03
+expiryDate: 2026-09-24
 tags: ["politics", "polymarket"]
-polymarketYes: 1.8
-polymarketNo: 98.2
-polymarketVolume: 9914
-polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-ar-01-house-seat"
+polymarketYes: 30.0
+polymarketNo: 70.0
+polymarketVolume: 9903
+polymarketUrl: "https://polymarket.com/event/will-alfred-cannan-be-the-next-chief-minister-of-the-isle-of-man-20260728212256053"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 1.8% | 98.2% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 30.0% | 70.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-a
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will the Democratic Party win the AR-01 House seat?"?
+### What are the current odds for "Will Alfred Cannan be the next Chief Minister of the Isle of Man?"?
 
-As of August 08, 2026, Polymarket prices YES at 1.8%.
+As of August 08, 2026, Polymarket prices YES at 30.0%.
 
 ### Where can I trade on this prediction market?
 

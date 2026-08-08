@@ -3,7 +3,7 @@ title: "Will China's CPI increase by between 0.9% and 1.0% over the 12 month per
 description: "Will China's CPI increase by between 0.9% and 1.0% over the 12 month period ending in July 2026? Odds: 17.4% YES on Polymarket. See live prices and trade thi..."
 marketQuestion: "Will China's CPI increase by between 0.9% and 1.0% over the 12 month period ending in July 2026?"
 category: "economics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-08-08
 expiryDate: 2026-08-10
 tags: ["economics", "polymarket"]

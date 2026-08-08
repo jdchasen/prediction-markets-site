@@ -23,6 +23,7 @@ polymarketUrl: "https://polymarket.com/event/unit-fdv-above-1b-one-day-after-lau
 
 - [Variational FDV above $2B one day after launch?](/odds/variational-fdv-above-2b-one-day-after-launch) — 15% YES
 - [Will Loopscale launch a token by December 31, 2026?](/odds/will-loopscale-launch-a-token-by-december-31-2026) — 16% YES
+- [Will Predict.fun launch a token by March 31, 2027?](/odds/will-predictfun-launch-a-token-by-march-31-2027) — 59% YES
 
 ## Frequently Asked Questions
 

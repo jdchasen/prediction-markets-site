@@ -1,23 +1,23 @@
 ---
-title: "Will the Democratic Party win the AR-01 House seat?"
-description: "Will the Democratic Party win the AR-01 House seat? Odds: 1.8% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will the Democratic Party win the AR-01 House seat?"
+title: "Will Marco Rubio announce a presidential run before 2027?"
+description: "Will Marco Rubio announce a presidential run before 2027? Odds: 5.9% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Marco Rubio announce a presidential run before 2027?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-08
-expiryDate: 2026-11-03
+expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 1.8
-polymarketNo: 98.2
-polymarketVolume: 9914
-polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-ar-01-house-seat"
+polymarketYes: 5.9
+polymarketNo: 94.1
+polymarketVolume: 9863
+polymarketUrl: "https://polymarket.com/event/will-marco-rubio-announce-a-presidential-run-before-2027"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 1.8% | 98.2% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 5.9% | 94.1% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-a
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will the Democratic Party win the AR-01 House seat?"?
+### What are the current odds for "Will Marco Rubio announce a presidential run before 2027?"?
 
-As of August 08, 2026, Polymarket prices YES at 1.8%.
+As of August 08, 2026, Polymarket prices YES at 5.9%.
 
 ### Where can I trade on this prediction market?
 

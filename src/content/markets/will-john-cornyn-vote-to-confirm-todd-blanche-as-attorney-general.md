@@ -3,7 +3,7 @@ title: "Will John Cornyn vote to confirm Todd Blanche as Attorney General?"
 description: "Will John Cornyn vote to confirm Todd Blanche as Attorney General? Odds: 100.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will John Cornyn vote to confirm Todd Blanche as Attorney General?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-08-08
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]

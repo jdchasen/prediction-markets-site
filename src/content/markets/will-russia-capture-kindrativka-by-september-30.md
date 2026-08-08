@@ -3,7 +3,7 @@ title: "Will Russia capture Kindrativka by September 30?"
 description: "Will Russia capture Kindrativka by September 30? Odds: 29.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Russia capture Kindrativka by September 30?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-08-08
 expiryDate: 2026-09-30
 tags: ["politics", "polymarket"]

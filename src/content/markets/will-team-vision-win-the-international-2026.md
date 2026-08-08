@@ -3,7 +3,7 @@ title: "Will TEAM VISION Win The International 2026?"
 description: "Will TEAM VISION Win The International 2026? Odds: 22.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will TEAM VISION Win The International 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-08-08
 tags: ["politics", "polymarket"]
 polymarketYes: 22.0

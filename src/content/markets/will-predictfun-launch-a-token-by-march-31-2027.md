@@ -1,35 +1,35 @@
 ---
-title: "Will Loopscale launch a token by December 31, 2026?"
-description: "Will Loopscale launch a token by December 31, 2026? Odds: 16.0% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Loopscale launch a token by December 31, 2026?"
+title: "Will Predict.fun launch a token by March 31, 2027?"
+description: "Will Predict.fun launch a token by March 31, 2027? Odds: 59.0% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Predict.fun launch a token by March 31, 2027?"
 category: "crypto"
 status: "active"
 lastUpdated: 2026-08-08
-expiryDate: 2027-01-01
+expiryDate: 2028-01-01
 tags: ["crypto", "polymarket"]
-polymarketYes: 16.0
-polymarketNo: 84.0
-polymarketVolume: 98867
-polymarketUrl: "https://polymarket.com/event/will-loopscale-launch-a-token-by-december-31-2026"
+polymarketYes: 59.0
+polymarketNo: 41.0
+polymarketVolume: 9823
+polymarketUrl: "https://polymarket.com/event/will-predictfun-launch-a-token-by-march-31-2027"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 16.0% | 84.0% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 59.0% | 41.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Variational FDV above $2B one day after launch?](/odds/variational-fdv-above-2b-one-day-after-launch) — 15% YES
+- [Will Loopscale launch a token by December 31, 2026?](/odds/will-loopscale-launch-a-token-by-december-31-2026) — 16% YES
 - [Unit FDV above $1B one day after launch?](/odds/unit-fdv-above-1b-one-day-after-launch) — 12% YES
-- [Will Predict.fun launch a token by March 31, 2027?](/odds/will-predictfun-launch-a-token-by-march-31-2027) — 59% YES
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Loopscale launch a token by December 31, 2026?"?
+### What are the current odds for "Will Predict.fun launch a token by March 31, 2027?"?
 
-As of August 08, 2026, Polymarket prices YES at 16.0%.
+As of August 08, 2026, Polymarket prices YES at 59.0%.
 
 ### Where can I trade on this prediction market?
 

@@ -9,7 +9,7 @@ expiryDate: 2028-01-01
 tags: ["crypto", "polymarket"]
 polymarketYes: 14.6
 polymarketNo: 85.4
-polymarketVolume: 99818
+polymarketVolume: 99820
 polymarketUrl: "https://polymarket.com/event/variational-fdv-above-2b-one-day-after-launch-713-376-681"
 ---
 
@@ -23,6 +23,7 @@ polymarketUrl: "https://polymarket.com/event/variational-fdv-above-2b-one-day-af
 
 - [Will Loopscale launch a token by December 31, 2026?](/odds/will-loopscale-launch-a-token-by-december-31-2026) — 16% YES
 - [Unit FDV above $1B one day after launch?](/odds/unit-fdv-above-1b-one-day-after-launch) — 12% YES
+- [Will Predict.fun launch a token by March 31, 2027?](/odds/will-predictfun-launch-a-token-by-march-31-2027) — 59% YES
 
 ## Frequently Asked Questions
 
