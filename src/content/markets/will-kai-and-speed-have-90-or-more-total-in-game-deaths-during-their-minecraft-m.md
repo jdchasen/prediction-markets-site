@@ -3,7 +3,7 @@ title: "Will Kai and Speed have 90 or more total in-game deaths during their Min
 description: "Will Kai and Speed have 90 or more total in-game deaths during their Minecraft marathon? Odds: 82.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Kai and Speed have 90 or more total in-game deaths during their Minecraft marathon?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-08-09
 expiryDate: 2026-09-30
 tags: ["ai", "politics", "polymarket"]

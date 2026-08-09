@@ -1,14 +1,14 @@
 ---
 title: "Unit FDV above $1B one day after launch?"
-description: "Unit FDV above $1B one day after launch? Odds: 11.5% YES on Polymarket. See live prices and trade this market."
+description: "Unit FDV above $1B one day after launch? Odds: 12.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Unit FDV above $1B one day after launch?"
 category: "crypto"
 status: "active"
 lastUpdated: 2026-08-09
 expiryDate: 2028-01-01
 tags: ["crypto", "polymarket"]
-polymarketYes: 11.5
-polymarketNo: 88.5
+polymarketYes: 12.0
+polymarketNo: 88.0
 polymarketVolume: 9968
 polymarketUrl: "https://polymarket.com/event/unit-fdv-above-1b-one-day-after-launch"
 ---
@@ -17,19 +17,18 @@ polymarketUrl: "https://polymarket.com/event/unit-fdv-above-1b-one-day-after-lau
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 11.5% | 88.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 12.0% | 88.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Variational FDV above $2B one day after launch?](/odds/variational-fdv-above-2b-one-day-after-launch) — 15% YES
 - [Will Loopscale launch a token by December 31, 2026?](/odds/will-loopscale-launch-a-token-by-december-31-2026) — 16% YES
-- [Will Predict.fun launch a token by March 31, 2027?](/odds/will-predictfun-launch-a-token-by-march-31-2027) — 58% YES
+- [Will Predict.fun launch a token by March 31, 2027?](/odds/will-predictfun-launch-a-token-by-march-31-2027) — 57% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Unit FDV above $1B one day after launch?"?
 
-As of August 09, 2026, Polymarket prices YES at 11.5%.
+As of August 09, 2026, Polymarket prices YES at 12.0%.
 
 ### Where can I trade on this prediction market?
 

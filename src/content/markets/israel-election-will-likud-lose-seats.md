@@ -1,23 +1,23 @@
 ---
-title: "Will the Fed’s upper bound reach 4.25% or higher before 2027?"
-description: "Will the Fed’s upper bound reach 4.25% or higher before 2027? Odds: 22.9% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will the Fed’s upper bound reach 4.25% or higher before 2027?"
+title: "Israel election: will Likud lose seats?"
+description: "Israel election: will Likud lose seats? Odds: 89.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Israel election: will Likud lose seats?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-09
-expiryDate: 2026-12-31
-tags: ["federal-reserve", "politics", "polymarket"]
-polymarketYes: 22.9
-polymarketNo: 77.0
-polymarketVolume: 98834
-polymarketUrl: "https://polymarket.com/event/will-the-feds-upper-bound-reach-4pt25-or-higher-before-2027"
+expiryDate: 2026-10-27
+tags: ["elections", "politics", "polymarket"]
+polymarketYes: 89.5
+polymarketNo: 10.5
+polymarketVolume: 9983
+polymarketUrl: "https://polymarket.com/event/israel-election-will-likud-lose-seats"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 22.9% | 77.0% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 89.5% | 10.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-the-feds-upper-bound-reach-4pt
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will the Fed’s upper bound reach 4.25% or higher before 2027?"?
+### What are the current odds for "Israel election: will Likud lose seats?"?
 
-As of August 09, 2026, Polymarket prices YES at 22.9%.
+As of August 09, 2026, Polymarket prices YES at 89.5%.
 
 ### Where can I trade on this prediction market?
 

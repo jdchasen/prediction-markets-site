@@ -8,7 +8,7 @@ lastUpdated: 2026-08-09
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 5.9
-polymarketNo: 94.1
+polymarketNo: 94.2
 polymarketVolume: 9863
 polymarketUrl: "https://polymarket.com/event/will-marco-rubio-announce-a-presidential-run-before-2027"
 ---
@@ -17,13 +17,13 @@ polymarketUrl: "https://polymarket.com/event/will-marco-rubio-announce-a-preside
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 5.9% | 94.1% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 5.9% | 94.2% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Eric Trump win the 2028 Republican presidential nomination?](/odds/will-eric-trump-win-the-2028-republican-presidential-nomination) — 0% YES
-- [New pandemic in 2026?](/odds/new-pandemic-in-2026) — 6% YES
 - [Will Trump be impeached by end of 2026?](/odds/will-trump-be-impeached-by-end-of-2026) — 2% YES
+- [Will Khvicha Kvaratskhelia win the 2026 Ballon d'Or?](/odds/will-khvicha-kvaratskhelia-win-the-2026-ballon-dor) — 1% YES
 
 ## Frequently Asked Questions
 

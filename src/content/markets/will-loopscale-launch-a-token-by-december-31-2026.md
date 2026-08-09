@@ -21,9 +21,8 @@ polymarketUrl: "https://polymarket.com/event/will-loopscale-launch-a-token-by-de
 
 ## Related Markets
 
-- [Variational FDV above $2B one day after launch?](/odds/variational-fdv-above-2b-one-day-after-launch) — 15% YES
 - [Unit FDV above $1B one day after launch?](/odds/unit-fdv-above-1b-one-day-after-launch) — 12% YES
-- [Will Predict.fun launch a token by March 31, 2027?](/odds/will-predictfun-launch-a-token-by-march-31-2027) — 58% YES
+- [Will Predict.fun launch a token by March 31, 2027?](/odds/will-predictfun-launch-a-token-by-march-31-2027) — 57% YES
 
 ## Frequently Asked Questions
 

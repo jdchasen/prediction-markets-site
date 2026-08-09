@@ -1,23 +1,23 @@
 ---
-title: "Will the Toronto Tempo make the 2026 WNBA Playoffs?"
-description: "Will the Toronto Tempo make the 2026 WNBA Playoffs? Odds: 1.4% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will the Toronto Tempo make the 2026 WNBA Playoffs?"
+title: "Will Steve Witkoff attend a US x Iran diplomatic meeting by August 31, 2026?"
+description: "Will Steve Witkoff attend a US x Iran diplomatic meeting by August 31, 2026? Odds: 16.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Steve Witkoff attend a US x Iran diplomatic meeting by August 31, 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-09
-expiryDate: 2026-09-25
-tags: ["politics", "polymarket", "sports"]
-polymarketYes: 1.4
-polymarketNo: 98.7
-polymarketVolume: 9954
-polymarketUrl: "https://polymarket.com/event/will-the-toronto-tempo-make-the-2026-wnba-playoffs"
+expiryDate: 2026-08-31
+tags: ["politics", "polymarket"]
+polymarketYes: 16.5
+polymarketNo: 83.5
+polymarketVolume: 9896
+polymarketUrl: "https://polymarket.com/event/will-steve-witkoff-attend-a-us-x-iran-diplomatic-meeting-by-august-31-2026-20260622201044258"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 1.4% | 98.7% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 16.5% | 83.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-the-toronto-tempo-make-the-202
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will the Toronto Tempo make the 2026 WNBA Playoffs?"?
+### What are the current odds for "Will Steve Witkoff attend a US x Iran diplomatic meeting by August 31, 2026?"?
 
-As of August 09, 2026, Polymarket prices YES at 1.4%.
+As of August 09, 2026, Polymarket prices YES at 16.5%.
 
 ### Where can I trade on this prediction market?
 

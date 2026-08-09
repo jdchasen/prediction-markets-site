@@ -3,7 +3,7 @@ title: "Will the Moderate Party (M) win the third most seats in the 2026 Swedish
 description: "Will the Moderate Party (M) win the third most seats in the 2026 Swedish parliamentary election? Odds: 83.5% YES on Polymarket. See live prices and trade thi..."
 marketQuestion: "Will the Moderate Party (M) win the third most seats in the 2026 Swedish parliamentary election?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-08-09
 expiryDate: 2026-09-13
 tags: ["elections", "politics", "polymarket"]

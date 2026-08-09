@@ -1,23 +1,23 @@
 ---
-title: "Will the Fed’s upper bound reach 4.25% or higher before 2027?"
-description: "Will the Fed’s upper bound reach 4.25% or higher before 2027? Odds: 22.9% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will the Fed’s upper bound reach 4.25% or higher before 2027?"
+title: "Will Canva's valuation hit (HIGH) $50B by December 31?"
+description: "Will Canva's valuation hit (HIGH) $50B by December 31? Odds: 23.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Canva's valuation hit (HIGH) $50B by December 31?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-09
-expiryDate: 2026-12-31
-tags: ["federal-reserve", "politics", "polymarket"]
-polymarketYes: 22.9
-polymarketNo: 77.0
-polymarketVolume: 98834
-polymarketUrl: "https://polymarket.com/event/will-the-feds-upper-bound-reach-4pt25-or-higher-before-2027"
+expiryDate: 2027-01-01
+tags: ["politics", "polymarket"]
+polymarketYes: 23.5
+polymarketNo: 76.5
+polymarketVolume: 9971
+polymarketUrl: "https://polymarket.com/event/will-canvas-valuation-hit-high-50b-by-december-31"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 22.9% | 77.0% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 23.5% | 76.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-the-feds-upper-bound-reach-4pt
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will the Fed’s upper bound reach 4.25% or higher before 2027?"?
+### What are the current odds for "Will Canva's valuation hit (HIGH) $50B by December 31?"?
 
-As of August 09, 2026, Polymarket prices YES at 22.9%.
+As of August 09, 2026, Polymarket prices YES at 23.5%.
 
 ### Where can I trade on this prediction market?
 

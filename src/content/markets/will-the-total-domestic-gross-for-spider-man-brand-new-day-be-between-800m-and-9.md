@@ -3,7 +3,7 @@ title: "Will the total domestic gross for Spider-Man: Brand New Day be between 8
 description: "Will the total domestic gross for Spider-Man: Brand New Day be between 800m and 900m by August 31? Odds: 37.0% YES on Polymarket. See live prices and trade t..."
 marketQuestion: "Will the total domestic gross for Spider-Man: Brand New Day be between 800m and 900m by August 31?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-08-09
 expiryDate: 2026-08-31
 tags: ["politics", "polymarket"]
