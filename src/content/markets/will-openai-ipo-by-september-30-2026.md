@@ -4,7 +4,7 @@ description: "Will OpenAI IPO by September 30 2026? Odds: 2.8% YES on Polymarket
 marketQuestion: "Will OpenAI IPO by September 30 2026?"
 category: "finance"
 status: "active"
-lastUpdated: 2026-08-08
+lastUpdated: 2026-08-09
 tags: ["ai", "finance", "polymarket"]
 polymarketYes: 2.8
 polymarketNo: 97.2
@@ -26,7 +26,7 @@ polymarketUrl: "https://polymarket.com/event/will-openai-ipo-by-september-30-202
 
 ### What are the current odds for "Will OpenAI IPO by September 30 2026?"?
 
-As of August 08, 2026, Polymarket prices YES at 2.8%.
+As of August 09, 2026, Polymarket prices YES at 2.8%.
 
 ### Where can I trade on this prediction market?
 

@@ -1,15 +1,15 @@
 ---
 title: "Will the Republican Party win the NC-09 House seat?"
-description: "Will the Republican Party win the NC-09 House seat? Odds: 80.5% YES on Polymarket. See live prices and trade this market."
+description: "Will the Republican Party win the NC-09 House seat? Odds: 80.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Republican Party win the NC-09 House seat?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-08-08
+lastUpdated: 2026-08-09
 expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
-polymarketYes: 80.5
-polymarketNo: 19.5
-polymarketVolume: 9912
+polymarketYes: 80.0
+polymarketNo: 20.0
+polymarketVolume: 9927
 polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-nc-09-house-seat"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-n
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 80.5% | 19.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 80.0% | 20.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
+- [Will Eric Trump win the 2028 Republican presidential nomination?](/odds/will-eric-trump-win-the-2028-republican-presidential-nomination) — 0% YES
 - [New pandemic in 2026?](/odds/new-pandemic-in-2026) — 6% YES
 - [Will Trump be impeached by end of 2026?](/odds/will-trump-be-impeached-by-end-of-2026) — 2% YES
-- [Will Khvicha Kvaratskhelia win the 2026 Ballon d'Or?](/odds/will-khvicha-kvaratskhelia-win-the-2026-ballon-dor) — 1% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will the Republican Party win the NC-09 House seat?"?
 
-As of August 08, 2026, Polymarket prices YES at 80.5%.
+As of August 09, 2026, Polymarket prices YES at 80.0%.
 
 ### Where can I trade on this prediction market?
 

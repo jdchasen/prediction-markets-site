@@ -1,23 +1,23 @@
 ---
-title: "Will Beto O’Rourke announce a Presidential run before 2027?"
-description: "Will Beto O’Rourke announce a Presidential run before 2027? Odds: 1.8% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Beto O’Rourke announce a Presidential run before 2027?"
+title: "Will Lucas Ribeiro win the Governor of Paraíba election?"
+description: "Will Lucas Ribeiro win the Governor of Paraíba election? Odds: 73.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Lucas Ribeiro win the Governor of Paraíba election?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-09
-expiryDate: 2026-12-31
-tags: ["politics", "polymarket"]
-polymarketYes: 1.8
-polymarketNo: 98.2
-polymarketVolume: 9894
-polymarketUrl: "https://polymarket.com/event/will-beto-orourke-announce-a-presidential-run-before-2027"
+expiryDate: 2026-10-05
+tags: ["elections", "politics", "polymarket"]
+polymarketYes: 73.5
+polymarketNo: 26.5
+polymarketVolume: 9815
+polymarketUrl: "https://polymarket.com/event/will-lucas-ribeiro-win-the-governor-of-paraiba-election-20260706173717101"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 1.8% | 98.2% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 73.5% | 26.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-beto-orourke-announce-a-presid
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Beto O’Rourke announce a Presidential run before 2027?"?
+### What are the current odds for "Will Lucas Ribeiro win the Governor of Paraíba election?"?
 
-As of August 09, 2026, Polymarket prices YES at 1.8%.
+As of August 09, 2026, Polymarket prices YES at 73.5%.
 
 ### Where can I trade on this prediction market?
 

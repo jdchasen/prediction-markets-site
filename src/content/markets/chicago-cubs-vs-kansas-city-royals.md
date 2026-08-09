@@ -3,8 +3,8 @@ title: "Chicago Cubs vs. Kansas City Royals"
 description: "Chicago Cubs vs. Kansas City Royals Odds: 58.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Chicago Cubs vs. Kansas City Royals"
 category: "politics"
-status: "active"
-lastUpdated: 2026-08-08
+status: "settled"
+lastUpdated: 2026-08-09
 expiryDate: 2026-08-15
 tags: ["politics", "polymarket"]
 polymarketYes: 58.5

@@ -3,8 +3,8 @@ title: "Will Elena Rybakina win the 2026 Women’s US Open?"
 description: "Will Elena Rybakina win the 2026 Women’s US Open? Odds: 9.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Elena Rybakina win the 2026 Women’s US Open?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-08-08
+status: "settled"
+lastUpdated: 2026-08-09
 expiryDate: 2026-09-13
 tags: ["politics", "polymarket"]
 polymarketYes: 9.0

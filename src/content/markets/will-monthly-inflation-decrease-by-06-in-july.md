@@ -3,8 +3,8 @@ title: "Will monthly inflation decrease by 0.6% in July?"
 description: "Will monthly inflation decrease by 0.6% in July? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will monthly inflation decrease by 0.6% in July?"
 category: "economics"
-status: "active"
-lastUpdated: 2026-08-08
+status: "settled"
+lastUpdated: 2026-08-09
 expiryDate: 2026-08-12
 tags: ["economics", "polymarket", "sports"]
 polymarketYes: 0.1

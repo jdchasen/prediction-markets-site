@@ -3,8 +3,8 @@ title: "Will Alfred Cannan be the next Chief Minister of the Isle of Man?"
 description: "Will Alfred Cannan be the next Chief Minister of the Isle of Man? Odds: 30.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Alfred Cannan be the next Chief Minister of the Isle of Man?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-08-08
+status: "settled"
+lastUpdated: 2026-08-09
 expiryDate: 2026-09-24
 tags: ["politics", "polymarket"]
 polymarketYes: 30.0

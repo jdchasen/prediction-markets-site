@@ -3,8 +3,8 @@ title: "Will STRC hit $100 by December 31?"
 description: "Will STRC hit $100 by December 31? Odds: 63.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will STRC hit $100 by December 31?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-08-08
+status: "settled"
+lastUpdated: 2026-08-09
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 63.5

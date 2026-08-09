@@ -4,7 +4,7 @@ description: "Will Loopscale launch a token by December 31, 2026? Odds: 16.0% YE
 marketQuestion: "Will Loopscale launch a token by December 31, 2026?"
 category: "crypto"
 status: "active"
-lastUpdated: 2026-08-08
+lastUpdated: 2026-08-09
 expiryDate: 2027-01-01
 tags: ["crypto", "polymarket"]
 polymarketYes: 16.0
@@ -23,13 +23,13 @@ polymarketUrl: "https://polymarket.com/event/will-loopscale-launch-a-token-by-de
 
 - [Variational FDV above $2B one day after launch?](/odds/variational-fdv-above-2b-one-day-after-launch) — 15% YES
 - [Unit FDV above $1B one day after launch?](/odds/unit-fdv-above-1b-one-day-after-launch) — 12% YES
-- [Will Predict.fun launch a token by March 31, 2027?](/odds/will-predictfun-launch-a-token-by-march-31-2027) — 59% YES
+- [Will Predict.fun launch a token by March 31, 2027?](/odds/will-predictfun-launch-a-token-by-march-31-2027) — 58% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Loopscale launch a token by December 31, 2026?"?
 
-As of August 08, 2026, Polymarket prices YES at 16.0%.
+As of August 09, 2026, Polymarket prices YES at 16.0%.
 
 ### Where can I trade on this prediction market?
 

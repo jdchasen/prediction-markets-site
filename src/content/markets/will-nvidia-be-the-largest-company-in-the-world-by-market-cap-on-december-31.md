@@ -4,12 +4,12 @@ description: "Will NVIDIA be the largest company in the world by market cap on D
 marketQuestion: "Will NVIDIA be the largest company in the world by market cap on December 31?"
 category: "finance"
 status: "active"
-lastUpdated: 2026-08-08
+lastUpdated: 2026-08-09
 expiryDate: 2026-12-31
 tags: ["finance", "polymarket"]
 polymarketYes: 70.5
 polymarketNo: 29.5
-polymarketVolume: 995461
+polymarketVolume: 995810
 polymarketUrl: "https://polymarket.com/event/will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-december-31-244"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-nvidia-be-the-largest-company-
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 70.5% | 29.5% | $995K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 70.5% | 29.5% | $996K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,7 +27,7 @@ polymarketUrl: "https://polymarket.com/event/will-nvidia-be-the-largest-company-
 
 ### What are the current odds for "Will NVIDIA be the largest company in the world by market cap on December 31?"?
 
-As of August 08, 2026, Polymarket prices YES at 70.5%.
+As of August 09, 2026, Polymarket prices YES at 70.5%.
 
 ### Where can I trade on this prediction market?
 

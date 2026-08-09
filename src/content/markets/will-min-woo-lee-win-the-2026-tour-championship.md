@@ -4,11 +4,11 @@ description: "Will Min Woo Lee win the 2026 TOUR Championship? Odds: 0.9% YES on
 marketQuestion: "Will Min Woo Lee win the 2026 TOUR Championship?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-08-08
+lastUpdated: 2026-08-09
 expiryDate: 2026-08-31
 tags: ["politics", "polymarket"]
 polymarketYes: 0.9
-polymarketNo: 99.2
+polymarketNo: 99.1
 polymarketVolume: 98352
 polymarketUrl: "https://polymarket.com/event/will-min-woo-lee-win-the-2026-tour-championship-517"
 ---
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-min-woo-lee-win-the-2026-tour-
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.9% | 99.2% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.9% | 99.1% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
+- [Will Eric Trump win the 2028 Republican presidential nomination?](/odds/will-eric-trump-win-the-2028-republican-presidential-nomination) — 0% YES
 - [New pandemic in 2026?](/odds/new-pandemic-in-2026) — 6% YES
 - [Will Trump be impeached by end of 2026?](/odds/will-trump-be-impeached-by-end-of-2026) — 2% YES
-- [Will Khvicha Kvaratskhelia win the 2026 Ballon d'Or?](/odds/will-khvicha-kvaratskhelia-win-the-2026-ballon-dor) — 1% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Min Woo Lee win the 2026 TOUR Championship?"?
 
-As of August 08, 2026, Polymarket prices YES at 0.9%.
+As of August 09, 2026, Polymarket prices YES at 0.9%.
 
 ### Where can I trade on this prediction market?
 

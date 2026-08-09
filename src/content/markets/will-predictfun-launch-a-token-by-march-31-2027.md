@@ -1,14 +1,14 @@
 ---
 title: "Will Predict.fun launch a token by March 31, 2027?"
-description: "Will Predict.fun launch a token by March 31, 2027? Odds: 59.0% YES on Polymarket. See live prices and trade this market."
+description: "Will Predict.fun launch a token by March 31, 2027? Odds: 58.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Predict.fun launch a token by March 31, 2027?"
 category: "crypto"
 status: "active"
-lastUpdated: 2026-08-08
+lastUpdated: 2026-08-09
 expiryDate: 2028-01-01
 tags: ["crypto", "polymarket"]
-polymarketYes: 59.0
-polymarketNo: 41.0
+polymarketYes: 58.5
+polymarketNo: 41.5
 polymarketVolume: 9823
 polymarketUrl: "https://polymarket.com/event/will-predictfun-launch-a-token-by-march-31-2027"
 ---
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-predictfun-launch-a-token-by-m
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 59.0% | 41.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 58.5% | 41.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-predictfun-launch-a-token-by-m
 
 ### What are the current odds for "Will Predict.fun launch a token by March 31, 2027?"?
 
-As of August 08, 2026, Polymarket prices YES at 59.0%.
+As of August 09, 2026, Polymarket prices YES at 58.5%.
 
 ### Where can I trade on this prediction market?
 
