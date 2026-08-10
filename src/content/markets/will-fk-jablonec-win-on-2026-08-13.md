@@ -3,7 +3,7 @@ title: "Will FK Jablonec win on 2026-08-13?"
 description: "Will FK Jablonec win on 2026-08-13? Odds: 27.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will FK Jablonec win on 2026-08-13?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-08-10
 expiryDate: 2026-08-13
 tags: ["politics", "polymarket"]

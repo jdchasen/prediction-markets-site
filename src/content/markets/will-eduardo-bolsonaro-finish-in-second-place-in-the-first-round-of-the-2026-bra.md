@@ -9,7 +9,7 @@ expiryDate: 2026-10-04
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.1
 polymarketNo: 99.9
-polymarketVolume: 99731
+polymarketVolume: 99751
 polymarketUrl: "https://polymarket.com/event/will-eduardo-bolsonaro-finish-in-second-place-in-the-first-round-of-the-2026-brazilian-presidential-election"
 ---
 
@@ -23,7 +23,7 @@ polymarketUrl: "https://polymarket.com/event/will-eduardo-bolsonaro-finish-in-se
 
 - [Will Eric Trump win the 2028 Republican presidential nomination?](/odds/will-eric-trump-win-the-2028-republican-presidential-nomination) — 0% YES
 - [Will Trump be impeached by end of 2026?](/odds/will-trump-be-impeached-by-end-of-2026) — 2% YES
-- [Will a ≤5% Uranium Enrichment Cap (1+ Year) be in a US-Iran deal in 2026?](/odds/will-a-5-uranium-enrichment-cap-1-year-be-in-a-us-iran-deal-in-2026) — 18% YES
+- [US announces end of Iranian blockade by August 31, 2026?](/odds/us-announces-end-of-iranian-blockade-by-august-31-2026) — 34% YES
 
 ## Frequently Asked Questions
 

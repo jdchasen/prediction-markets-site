@@ -8,7 +8,7 @@ lastUpdated: 2026-08-10
 expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
 polymarketYes: 1.6
-polymarketNo: 98.4
+polymarketNo: 98.5
 polymarketVolume: 9914
 polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-ar-01-house-seat"
 ---
@@ -17,13 +17,13 @@ polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-a
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 1.6% | 98.4% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 1.6% | 98.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Eric Trump win the 2028 Republican presidential nomination?](/odds/will-eric-trump-win-the-2028-republican-presidential-nomination) — 0% YES
 - [Will Trump be impeached by end of 2026?](/odds/will-trump-be-impeached-by-end-of-2026) — 2% YES
-- [Will Eduardo Bolsonaro finish in second place in the first round of the 2026 Brazilian presidential election?](/odds/will-eduardo-bolsonaro-finish-in-second-place-in-the-first-round-of-the-2026-bra) — 0% YES
+- [US announces end of Iranian blockade by August 31, 2026?](/odds/us-announces-end-of-iranian-blockade-by-august-31-2026) — 34% YES
 
 ## Frequently Asked Questions
 

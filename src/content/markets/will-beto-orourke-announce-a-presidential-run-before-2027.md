@@ -23,7 +23,7 @@ polymarketUrl: "https://polymarket.com/event/will-beto-orourke-announce-a-presid
 
 - [Will Eric Trump win the 2028 Republican presidential nomination?](/odds/will-eric-trump-win-the-2028-republican-presidential-nomination) — 0% YES
 - [Will Trump be impeached by end of 2026?](/odds/will-trump-be-impeached-by-end-of-2026) — 2% YES
-- [Will Eduardo Bolsonaro finish in second place in the first round of the 2026 Brazilian presidential election?](/odds/will-eduardo-bolsonaro-finish-in-second-place-in-the-first-round-of-the-2026-bra) — 0% YES
+- [US announces end of Iranian blockade by August 31, 2026?](/odds/us-announces-end-of-iranian-blockade-by-august-31-2026) — 34% YES
 
 ## Frequently Asked Questions
 

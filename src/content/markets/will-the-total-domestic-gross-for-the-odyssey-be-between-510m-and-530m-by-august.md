@@ -3,7 +3,7 @@ title: "Will the total domestic gross for The Odyssey be between 510m and 530m b
 description: "Will the total domestic gross for The Odyssey be between 510m and 530m by August 31? Odds: 6.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the total domestic gross for The Odyssey be between 510m and 530m by August 31?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-08-10
 expiryDate: 2026-08-31
 tags: ["politics", "polymarket"]

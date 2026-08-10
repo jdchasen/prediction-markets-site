@@ -1,23 +1,23 @@
 ---
-title: "Will the Fed’s upper bound reach 4.25% or higher before 2027?"
-description: "Will the Fed’s upper bound reach 4.25% or higher before 2027? Odds: 22.9% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will the Fed’s upper bound reach 4.25% or higher before 2027?"
+title: "Will UMich Consumer Sentiment be between 52.0 and 54.9 in August?"
+description: "Will UMich Consumer Sentiment be between 52.0 and 54.9 in August? Odds: 35.0% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will UMich Consumer Sentiment be between 52.0 and 54.9 in August?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-10
-expiryDate: 2026-12-31
-tags: ["federal-reserve", "politics", "polymarket"]
-polymarketYes: 22.9
-polymarketNo: 77.0
-polymarketVolume: 98860
-polymarketUrl: "https://polymarket.com/event/will-the-feds-upper-bound-reach-4pt25-or-higher-before-2027"
+expiryDate: 2026-08-28
+tags: ["politics", "polymarket"]
+polymarketYes: 35.0
+polymarketNo: 65.0
+polymarketVolume: 9853
+polymarketUrl: "https://polymarket.com/event/will-umich-consumer-sentiment-be-between-52pt0-and-54pt9-in-august-1785878499356"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 22.9% | 77.0% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 35.0% | 65.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-the-feds-upper-bound-reach-4pt
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will the Fed’s upper bound reach 4.25% or higher before 2027?"?
+### What are the current odds for "Will UMich Consumer Sentiment be between 52.0 and 54.9 in August?"?
 
-As of August 10, 2026, Polymarket prices YES at 22.9%.
+As of August 10, 2026, Polymarket prices YES at 35.0%.
 
 ### Where can I trade on this prediction market?
 

@@ -1,14 +1,14 @@
 ---
 title: "Will the Ornn A100 Index be between $1.00 and $1.25 on August 31, 2026?"
-description: "Will the Ornn A100 Index be between $1.00 and $1.25 on August 31, 2026? Odds: 64.0% YES on Polymarket. See live prices and trade this market."
+description: "Will the Ornn A100 Index be between $1.00 and $1.25 on August 31, 2026? Odds: 61.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Ornn A100 Index be between $1.00 and $1.25 on August 31, 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-10
 expiryDate: 2026-08-31
 tags: ["politics", "polymarket"]
-polymarketYes: 64.0
-polymarketNo: 36.0
+polymarketYes: 61.5
+polymarketNo: 38.5
 polymarketVolume: 9894
 polymarketUrl: "https://polymarket.com/event/will-the-ornn-a100-index-be-between-1pt00-and-1pt25-on-august-31-2026-1785423806795"
 ---
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-the-ornn-a100-index-be-between
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 64.0% | 36.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 61.5% | 38.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Eric Trump win the 2028 Republican presidential nomination?](/odds/will-eric-trump-win-the-2028-republican-presidential-nomination) — 0% YES
 - [Will Trump be impeached by end of 2026?](/odds/will-trump-be-impeached-by-end-of-2026) — 2% YES
-- [Will Eduardo Bolsonaro finish in second place in the first round of the 2026 Brazilian presidential election?](/odds/will-eduardo-bolsonaro-finish-in-second-place-in-the-first-round-of-the-2026-bra) — 0% YES
+- [US announces end of Iranian blockade by August 31, 2026?](/odds/us-announces-end-of-iranian-blockade-by-august-31-2026) — 34% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will the Ornn A100 Index be between $1.00 and $1.25 on August 31, 2026?"?
 
-As of August 10, 2026, Polymarket prices YES at 64.0%.
+As of August 10, 2026, Polymarket prices YES at 61.5%.
 
 ### Where can I trade on this prediction market?
 

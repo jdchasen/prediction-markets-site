@@ -3,7 +3,7 @@ title: "Will JavierLoL Win the 2026 Soloq Challenge (High Elo)"
 description: "Will JavierLoL Win the 2026 Soloq Challenge (High Elo) Odds: 29.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will JavierLoL Win the 2026 Soloq Challenge (High Elo)"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-08-10
 tags: ["politics", "polymarket"]
 polymarketYes: 29.5

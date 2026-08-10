@@ -1,15 +1,15 @@
 ---
 title: "Will Dogecoin reach $0.15 in August?"
-description: "Will Dogecoin reach $0.15 in August? Odds: 1.0% YES on Polymarket. See live prices and trade this market."
+description: "Will Dogecoin reach $0.15 in August? Odds: 0.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Dogecoin reach $0.15 in August?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-10
 expiryDate: 2026-09-01
 tags: ["politics", "polymarket"]
-polymarketYes: 1.0
-polymarketNo: 99.0
-polymarketVolume: 9895
+polymarketYes: 0.9
+polymarketNo: 99.1
+polymarketVolume: 9896
 polymarketUrl: "https://polymarket.com/event/will-dogecoin-reach-0pt15-in-august-2026"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-dogecoin-reach-0pt15-in-august
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 1.0% | 99.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.9% | 99.1% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Eric Trump win the 2028 Republican presidential nomination?](/odds/will-eric-trump-win-the-2028-republican-presidential-nomination) — 0% YES
 - [Will Trump be impeached by end of 2026?](/odds/will-trump-be-impeached-by-end-of-2026) — 2% YES
-- [Will Eduardo Bolsonaro finish in second place in the first round of the 2026 Brazilian presidential election?](/odds/will-eduardo-bolsonaro-finish-in-second-place-in-the-first-round-of-the-2026-bra) — 0% YES
+- [US announces end of Iranian blockade by August 31, 2026?](/odds/us-announces-end-of-iranian-blockade-by-august-31-2026) — 34% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Dogecoin reach $0.15 in August?"?
 
-As of August 10, 2026, Polymarket prices YES at 1.0%.
+As of August 10, 2026, Polymarket prices YES at 0.9%.
 
 ### Where can I trade on this prediction market?
 

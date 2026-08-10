@@ -1,23 +1,23 @@
 ---
-title: "Will the Fed’s upper bound reach 4.25% or higher before 2027?"
-description: "Will the Fed’s upper bound reach 4.25% or higher before 2027? Odds: 22.9% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will the Fed’s upper bound reach 4.25% or higher before 2027?"
+title: "Will Typhoon Dolphin be a \"Very Strong Typhoon\" at Japan landfall?"
+description: "Will Typhoon Dolphin be a \"Very Strong Typhoon\" at Japan landfall? Odds: 99.4% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Typhoon Dolphin be a \"Very Strong Typhoon\" at Japan landfall?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-10
-expiryDate: 2026-12-31
-tags: ["federal-reserve", "politics", "polymarket"]
-polymarketYes: 22.9
-polymarketNo: 77.0
-polymarketVolume: 98860
-polymarketUrl: "https://polymarket.com/event/will-the-feds-upper-bound-reach-4pt25-or-higher-before-2027"
+expiryDate: 2026-08-15
+tags: ["politics", "polymarket"]
+polymarketYes: 99.4
+polymarketNo: 0.6
+polymarketVolume: 9942
+polymarketUrl: "https://polymarket.com/event/will-typhoon-dolphin-be-a-very-strong-typhoon-at-japan-landfall-20260804170510870"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 22.9% | 77.0% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 99.4% | 0.6% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-the-feds-upper-bound-reach-4pt
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will the Fed’s upper bound reach 4.25% or higher before 2027?"?
+### What are the current odds for "Will Typhoon Dolphin be a "Very Strong Typhoon" at Japan landfall?"?
 
-As of August 10, 2026, Polymarket prices YES at 22.9%.
+As of August 10, 2026, Polymarket prices YES at 99.4%.
 
 ### Where can I trade on this prediction market?
 

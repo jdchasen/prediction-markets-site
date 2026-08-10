@@ -3,7 +3,7 @@ title: "Will OpenAI’s Astra model be released by September 15, 2026?"
 description: "Will OpenAI’s Astra model be released by September 15, 2026? Odds: 46.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will OpenAI’s Astra model be released by September 15, 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-08-10
 expiryDate: 2026-09-15
 tags: ["ai", "politics", "polymarket"]

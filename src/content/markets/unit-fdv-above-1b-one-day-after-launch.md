@@ -22,7 +22,8 @@ polymarketUrl: "https://polymarket.com/event/unit-fdv-above-1b-one-day-after-lau
 ## Related Markets
 
 - [Will Loopscale launch a token by December 31, 2026?](/odds/will-loopscale-launch-a-token-by-december-31-2026) — 16% YES
-- [Will Predict.fun launch a token by March 31, 2027?](/odds/will-predictfun-launch-a-token-by-march-31-2027) — 56% YES
+- [Will Bitcoin reach $68,000 August 10-16?](/odds/will-bitcoin-reach-68000-august-10-16) — 8% YES
+- [Will Predict.fun launch a token by March 31, 2027?](/odds/will-predictfun-launch-a-token-by-march-31-2027) — 57% YES
 
 ## Frequently Asked Questions
 
