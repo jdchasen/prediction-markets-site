@@ -1,23 +1,23 @@
 ---
-title: "Will the Democratic Party win the OH-12 House seat?"
-description: "Will the Democratic Party win the OH-12 House seat? Odds: 6.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will the Democratic Party win the OH-12 House seat?"
+title: "Will the total domestic gross for The Odyssey be between 510m and 530m by August 31?"
+description: "Will the total domestic gross for The Odyssey be between 510m and 530m by August 31? Odds: 6.2% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will the total domestic gross for The Odyssey be between 510m and 530m by August 31?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-10
-expiryDate: 2026-11-03
+expiryDate: 2026-08-31
 tags: ["politics", "polymarket"]
-polymarketYes: 6.5
-polymarketNo: 93.5
-polymarketVolume: 9834
-polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-oh-12-house-seat"
+polymarketYes: 6.2
+polymarketNo: 93.8
+polymarketVolume: 9825
+polymarketUrl: "https://polymarket.com/event/will-the-total-domestic-gross-for-the-odyssey-be-between-510m-and-530m-by-august-31-20260724150841339"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 6.5% | 93.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 6.2% | 93.8% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-o
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will the Democratic Party win the OH-12 House seat?"?
+### What are the current odds for "Will the total domestic gross for The Odyssey be between 510m and 530m by August 31?"?
 
-As of August 10, 2026, Polymarket prices YES at 6.5%.
+As of August 10, 2026, Polymarket prices YES at 6.2%.
 
 ### Where can I trade on this prediction market?
 

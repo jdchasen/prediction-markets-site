@@ -1,23 +1,23 @@
 ---
-title: "Will Parti libéral du Québec win the most seats in the 2026 Quebec general election?"
-description: "Will Parti libéral du Québec win the most seats in the 2026 Quebec general election? Odds: 10.0% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Parti libéral du Québec win the most seats in the 2026 Quebec general election?"
+title: "Will OpenAI’s Astra model be released by September 15, 2026?"
+description: "Will OpenAI’s Astra model be released by September 15, 2026? Odds: 46.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will OpenAI’s Astra model be released by September 15, 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-10
-expiryDate: 2026-10-05
-tags: ["elections", "politics", "polymarket"]
-polymarketYes: 10.0
-polymarketNo: 90.0
-polymarketVolume: 99056
-polymarketUrl: "https://polymarket.com/event/will-parti-libral-du-qubec-win-the-most-seats-in-the-2026-quebec-general-election"
+expiryDate: 2026-09-15
+tags: ["ai", "politics", "polymarket"]
+polymarketYes: 46.5
+polymarketNo: 53.5
+polymarketVolume: 9952
+polymarketUrl: "https://polymarket.com/event/will-openais-astra-model-be-released-by-september-15-2026"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 10.0% | 90.0% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 46.5% | 53.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-parti-libral-du-qubec-win-the-
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Parti libéral du Québec win the most seats in the 2026 Quebec general election?"?
+### What are the current odds for "Will OpenAI’s Astra model be released by September 15, 2026?"?
 
-As of August 10, 2026, Polymarket prices YES at 10.0%.
+As of August 10, 2026, Polymarket prices YES at 46.5%.
 
 ### Where can I trade on this prediction market?
 

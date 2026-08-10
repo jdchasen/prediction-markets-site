@@ -4,12 +4,12 @@ description: "Will Canva's valuation hit (HIGH) $50B by December 31? Odds: 23.5%
 marketQuestion: "Will Canva's valuation hit (HIGH) $50B by December 31?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-08-09
+lastUpdated: 2026-08-10
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]
 polymarketYes: 23.5
 polymarketNo: 76.5
-polymarketVolume: 9971
+polymarketVolume: 9991
 polymarketUrl: "https://polymarket.com/event/will-canvas-valuation-hit-high-50b-by-december-31"
 ---
 
@@ -23,13 +23,13 @@ polymarketUrl: "https://polymarket.com/event/will-canvas-valuation-hit-high-50b-
 
 - [Will Eric Trump win the 2028 Republican presidential nomination?](/odds/will-eric-trump-win-the-2028-republican-presidential-nomination) — 0% YES
 - [Will Trump be impeached by end of 2026?](/odds/will-trump-be-impeached-by-end-of-2026) — 2% YES
-- [Will Khvicha Kvaratskhelia win the 2026 Ballon d'Or?](/odds/will-khvicha-kvaratskhelia-win-the-2026-ballon-dor) — 1% YES
+- [Will Eduardo Bolsonaro finish in second place in the first round of the 2026 Brazilian presidential election?](/odds/will-eduardo-bolsonaro-finish-in-second-place-in-the-first-round-of-the-2026-bra) — 0% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Canva's valuation hit (HIGH) $50B by December 31?"?
 
-As of August 09, 2026, Polymarket prices YES at 23.5%.
+As of August 10, 2026, Polymarket prices YES at 23.5%.
 
 ### Where can I trade on this prediction market?
 

@@ -1,23 +1,23 @@
 ---
-title: "Will Parti libéral du Québec win the most seats in the 2026 Quebec general election?"
-description: "Will Parti libéral du Québec win the most seats in the 2026 Quebec general election? Odds: 10.0% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Parti libéral du Québec win the most seats in the 2026 Quebec general election?"
+title: "Will FK Jablonec win on 2026-08-13?"
+description: "Will FK Jablonec win on 2026-08-13? Odds: 27.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will FK Jablonec win on 2026-08-13?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-10
-expiryDate: 2026-10-05
-tags: ["elections", "politics", "polymarket"]
-polymarketYes: 10.0
-polymarketNo: 90.0
-polymarketVolume: 99056
-polymarketUrl: "https://polymarket.com/event/will-parti-libral-du-qubec-win-the-most-seats-in-the-2026-quebec-general-election"
+expiryDate: 2026-08-13
+tags: ["politics", "polymarket"]
+polymarketYes: 27.5
+polymarketNo: 72.5
+polymarketVolume: 9907
+polymarketUrl: "https://polymarket.com/event/col-rfs-jab-2026-08-13-jab"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 10.0% | 90.0% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 27.5% | 72.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-parti-libral-du-qubec-win-the-
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Parti libéral du Québec win the most seats in the 2026 Quebec general election?"?
+### What are the current odds for "Will FK Jablonec win on 2026-08-13?"?
 
-As of August 10, 2026, Polymarket prices YES at 10.0%.
+As of August 10, 2026, Polymarket prices YES at 27.5%.
 
 ### Where can I trade on this prediction market?
 

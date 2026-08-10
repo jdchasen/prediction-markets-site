@@ -3,8 +3,8 @@ title: "Will Khvicha Kvaratskhelia win the 2026 Ballon d'Or?"
 description: "Will Khvicha Kvaratskhelia win the 2026 Ballon d'Or? Odds: 1.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Khvicha Kvaratskhelia win the 2026 Ballon d'Or?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-08-09
+status: "settled"
+lastUpdated: 2026-08-10
 expiryDate: 2026-10-31
 tags: ["politics", "polymarket"]
 polymarketYes: 1.1

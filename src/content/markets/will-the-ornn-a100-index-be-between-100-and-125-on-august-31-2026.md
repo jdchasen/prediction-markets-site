@@ -1,23 +1,23 @@
 ---
-title: "Will Parti libéral du Québec win the most seats in the 2026 Quebec general election?"
-description: "Will Parti libéral du Québec win the most seats in the 2026 Quebec general election? Odds: 10.0% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Parti libéral du Québec win the most seats in the 2026 Quebec general election?"
+title: "Will the Ornn A100 Index be between $1.00 and $1.25 on August 31, 2026?"
+description: "Will the Ornn A100 Index be between $1.00 and $1.25 on August 31, 2026? Odds: 64.0% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will the Ornn A100 Index be between $1.00 and $1.25 on August 31, 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-10
-expiryDate: 2026-10-05
-tags: ["elections", "politics", "polymarket"]
-polymarketYes: 10.0
-polymarketNo: 90.0
-polymarketVolume: 99056
-polymarketUrl: "https://polymarket.com/event/will-parti-libral-du-qubec-win-the-most-seats-in-the-2026-quebec-general-election"
+expiryDate: 2026-08-31
+tags: ["politics", "polymarket"]
+polymarketYes: 64.0
+polymarketNo: 36.0
+polymarketVolume: 9894
+polymarketUrl: "https://polymarket.com/event/will-the-ornn-a100-index-be-between-1pt00-and-1pt25-on-august-31-2026-1785423806795"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 10.0% | 90.0% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 64.0% | 36.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-parti-libral-du-qubec-win-the-
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Parti libéral du Québec win the most seats in the 2026 Quebec general election?"?
+### What are the current odds for "Will the Ornn A100 Index be between $1.00 and $1.25 on August 31, 2026?"?
 
-As of August 10, 2026, Polymarket prices YES at 10.0%.
+As of August 10, 2026, Polymarket prices YES at 64.0%.
 
 ### Where can I trade on this prediction market?
 

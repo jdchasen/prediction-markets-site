@@ -1,23 +1,23 @@
 ---
-title: "Will the Democratic Party win the OH-12 House seat?"
-description: "Will the Democratic Party win the OH-12 House seat? Odds: 6.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will the Democratic Party win the OH-12 House seat?"
+title: "Will Dogecoin reach $0.15 in August?"
+description: "Will Dogecoin reach $0.15 in August? Odds: 1.0% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Dogecoin reach $0.15 in August?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-10
-expiryDate: 2026-11-03
+expiryDate: 2026-09-01
 tags: ["politics", "polymarket"]
-polymarketYes: 6.5
-polymarketNo: 93.5
-polymarketVolume: 9834
-polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-oh-12-house-seat"
+polymarketYes: 1.0
+polymarketNo: 99.0
+polymarketVolume: 9895
+polymarketUrl: "https://polymarket.com/event/will-dogecoin-reach-0pt15-in-august-2026"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 6.5% | 93.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 1.0% | 99.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-o
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will the Democratic Party win the OH-12 House seat?"?
+### What are the current odds for "Will Dogecoin reach $0.15 in August?"?
 
-As of August 10, 2026, Polymarket prices YES at 6.5%.
+As of August 10, 2026, Polymarket prices YES at 1.0%.
 
 ### Where can I trade on this prediction market?
 

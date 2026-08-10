@@ -3,8 +3,8 @@ title: "Will Inde Navarrette win Best Actress at the 99th Academy Awards?"
 description: "Will Inde Navarrette win Best Actress at the 99th Academy Awards? Odds: 16.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Inde Navarrette win Best Actress at the 99th Academy Awards?"
 category: "entertainment"
-status: "active"
-lastUpdated: 2026-08-09
+status: "settled"
+lastUpdated: 2026-08-10
 expiryDate: 2027-03-14
 tags: ["entertainment", "polymarket"]
 polymarketYes: 16.0

@@ -3,8 +3,8 @@ title: "Will Jim Schwartzel be the Republican nominee for FL-19?"
 description: "Will Jim Schwartzel be the Republican nominee for FL-19? Odds: 51.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Jim Schwartzel be the Republican nominee for FL-19?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-08-09
+status: "settled"
+lastUpdated: 2026-08-10
 expiryDate: 2026-08-18
 tags: ["politics", "polymarket"]
 polymarketYes: 51.0
