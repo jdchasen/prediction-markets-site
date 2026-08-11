@@ -1,23 +1,23 @@
 ---
-title: "NYSE marketwide circuit breaker before 2027?"
-description: "NYSE marketwide circuit breaker before 2027? Odds: 14.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "NYSE marketwide circuit breaker before 2027?"
+title: "Will the Republican Party win the PA-13 House seat?"
+description: "Will the Republican Party win the PA-13 House seat? Odds: 94.0% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will the Republican Party win the PA-13 House seat?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-11
-expiryDate: 2026-12-31
+expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
-polymarketYes: 14.5
-polymarketNo: 85.5
-polymarketVolume: 99137
-polymarketUrl: "https://polymarket.com/event/nyse-marketwide-circuit-breaker-before-2027"
+polymarketYes: 94.0
+polymarketNo: 6.0
+polymarketVolume: 9882
+polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-pa-13-house-seat"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 14.5% | 85.5% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 94.0% | 6.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/nyse-marketwide-circuit-breaker-bef
 
 ## Frequently Asked Questions
 
-### What are the current odds for "NYSE marketwide circuit breaker before 2027?"?
+### What are the current odds for "Will the Republican Party win the PA-13 House seat?"?
 
-As of August 11, 2026, Polymarket prices YES at 14.5%.
+As of August 11, 2026, Polymarket prices YES at 94.0%.
 
 ### Where can I trade on this prediction market?
 

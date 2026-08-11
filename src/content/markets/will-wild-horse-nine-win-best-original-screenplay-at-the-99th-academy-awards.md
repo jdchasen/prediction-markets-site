@@ -9,7 +9,7 @@ expiryDate: 2027-03-14
 tags: ["entertainment", "polymarket"]
 polymarketYes: 35.5
 polymarketNo: 64.5
-polymarketVolume: 9819
+polymarketVolume: 9859
 polymarketUrl: "https://polymarket.com/event/will-wild-horse-nine-win-best-original-screenplay-at-the-99th-academy-awards-20260805190946022"
 ---
 

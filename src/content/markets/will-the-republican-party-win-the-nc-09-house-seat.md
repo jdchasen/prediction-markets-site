@@ -22,8 +22,8 @@ polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-n
 ## Related Markets
 
 - [Will Eric Trump win the 2028 Republican presidential nomination?](/odds/will-eric-trump-win-the-2028-republican-presidential-nomination) — 0% YES
-- [Will Trump be impeached by end of 2026?](/odds/will-trump-be-impeached-by-end-of-2026) — 3% YES
 - [Will Crude Oil reach a new all-time high by September 30?](/odds/will-crude-oil-reach-a-new-all-time-high-by-september-30) — 5% YES
+- [Will Samuel Alito announce his retirement by September 30, 2026?](/odds/will-samuel-alito-announce-his-retirement-by-september-30-2026) — 3% YES
 
 ## Frequently Asked Questions
 

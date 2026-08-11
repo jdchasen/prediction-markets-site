@@ -3,7 +3,7 @@ title: "Will a ≤5% Uranium Enrichment Cap (1+ Year) be in a US-Iran deal in 20
 description: "Will a ≤5% Uranium Enrichment Cap (1+ Year) be in a US-Iran deal in 2026? Odds: 17.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will a ≤5% Uranium Enrichment Cap (1+ Year) be in a US-Iran deal in 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-08-11
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]

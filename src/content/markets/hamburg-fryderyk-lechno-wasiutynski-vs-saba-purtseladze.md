@@ -3,7 +3,7 @@ title: "Hamburg: Fryderyk Lechno-Wasiutynski vs Saba Purtseladze"
 description: "Hamburg: Fryderyk Lechno-Wasiutynski vs Saba Purtseladze Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Hamburg: Fryderyk Lechno-Wasiutynski vs Saba Purtseladze"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-08-11
 expiryDate: 2026-08-18
 tags: ["politics", "polymarket"]

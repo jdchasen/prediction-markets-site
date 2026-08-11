@@ -1,23 +1,23 @@
 ---
-title: "Will Trump be impeached by end of 2026?"
-description: "Will Trump be impeached by end of 2026? Odds: 2.8% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Trump be impeached by end of 2026?"
+title: "Will Samuel Alito announce his retirement by September 30, 2026?"
+description: "Will Samuel Alito announce his retirement by September 30, 2026? Odds: 2.6% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Samuel Alito announce his retirement by September 30, 2026?"
 category: "politics"
-status: "settled"
+status: "active"
 lastUpdated: 2026-08-11
 expiryDate: 2026-12-31
-tags: ["politics", "polymarket", "trump"]
-polymarketYes: 2.8
-polymarketNo: 97.2
-polymarketVolume: 992039
-polymarketUrl: "https://polymarket.com/event/will-trump-be-impeached-by-december-31-2026"
+tags: ["politics", "polymarket"]
+polymarketYes: 2.6
+polymarketNo: 97.4
+polymarketVolume: 982023
+polymarketUrl: "https://polymarket.com/event/will-samuel-alito-announce-his-retirement-by-september-30-2026-20260630151901966"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 2.8% | 97.2% | $992K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 2.6% | 97.4% | $982K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-trump-be-impeached-by-december
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Trump be impeached by end of 2026?"?
+### What are the current odds for "Will Samuel Alito announce his retirement by September 30, 2026?"?
 
-As of August 11, 2026, Polymarket prices YES at 2.8%.
+As of August 11, 2026, Polymarket prices YES at 2.6%.
 
 ### Where can I trade on this prediction market?
 

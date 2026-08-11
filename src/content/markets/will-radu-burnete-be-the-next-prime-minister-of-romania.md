@@ -1,23 +1,23 @@
 ---
-title: "NYSE marketwide circuit breaker before 2027?"
-description: "NYSE marketwide circuit breaker before 2027? Odds: 14.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "NYSE marketwide circuit breaker before 2027?"
+title: "Will Radu Burnete be the next Prime Minister of Romania?"
+description: "Will Radu Burnete be the next Prime Minister of Romania? Odds: 6.2% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Radu Burnete be the next Prime Minister of Romania?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-11
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 14.5
-polymarketNo: 85.5
-polymarketVolume: 99137
-polymarketUrl: "https://polymarket.com/event/nyse-marketwide-circuit-breaker-before-2027"
+polymarketYes: 6.2
+polymarketNo: 93.8
+polymarketVolume: 98808
+polymarketUrl: "https://polymarket.com/event/will-radu-burnete-be-the-next-prime-minister-of-romania"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 14.5% | 85.5% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 6.2% | 93.8% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/nyse-marketwide-circuit-breaker-bef
 
 ## Frequently Asked Questions
 
-### What are the current odds for "NYSE marketwide circuit breaker before 2027?"?
+### What are the current odds for "Will Radu Burnete be the next Prime Minister of Romania?"?
 
-As of August 11, 2026, Polymarket prices YES at 14.5%.
+As of August 11, 2026, Polymarket prices YES at 6.2%.
 
 ### Where can I trade on this prediction market?
 

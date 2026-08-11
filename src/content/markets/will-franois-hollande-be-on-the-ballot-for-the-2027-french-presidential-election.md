@@ -1,23 +1,23 @@
 ---
-title: "NYSE marketwide circuit breaker before 2027?"
-description: "NYSE marketwide circuit breaker before 2027? Odds: 14.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "NYSE marketwide circuit breaker before 2027?"
+title: "Will François Hollande be on the ballot for the 2027 French presidential election?"
+description: "Will François Hollande be on the ballot for the 2027 French presidential election? Odds: 30.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will François Hollande be on the ballot for the 2027 French presidential election?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-11
-expiryDate: 2026-12-31
-tags: ["politics", "polymarket"]
-polymarketYes: 14.5
-polymarketNo: 85.5
-polymarketVolume: 99137
-polymarketUrl: "https://polymarket.com/event/nyse-marketwide-circuit-breaker-before-2027"
+expiryDate: 2027-04-17
+tags: ["elections", "politics", "polymarket"]
+polymarketYes: 30.5
+polymarketNo: 69.5
+polymarketVolume: 9990
+polymarketUrl: "https://polymarket.com/event/will-franois-hollande-be-on-the-ballot-for-the-2027-french-presidential-election"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 14.5% | 85.5% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 30.5% | 69.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/nyse-marketwide-circuit-breaker-bef
 
 ## Frequently Asked Questions
 
-### What are the current odds for "NYSE marketwide circuit breaker before 2027?"?
+### What are the current odds for "Will François Hollande be on the ballot for the 2027 French presidential election?"?
 
-As of August 11, 2026, Polymarket prices YES at 14.5%.
+As of August 11, 2026, Polymarket prices YES at 30.5%.
 
 ### Where can I trade on this prediction market?
 

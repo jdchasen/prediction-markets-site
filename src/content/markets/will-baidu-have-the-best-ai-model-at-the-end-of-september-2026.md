@@ -1,23 +1,23 @@
 ---
-title: "Will UNI reach $15.50 by December 31, 2026?"
-description: "Will UNI reach $15.50 by December 31, 2026? Odds: 4.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will UNI reach $15.50 by December 31, 2026?"
+title: "Will Baidu have the best AI model at the end of September 2026?"
+description: "Will Baidu have the best AI model at the end of September 2026? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Baidu have the best AI model at the end of September 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-11
-expiryDate: 2027-01-01
-tags: ["politics", "polymarket"]
-polymarketYes: 4.5
-polymarketNo: 95.5
-polymarketVolume: 9815
-polymarketUrl: "https://polymarket.com/event/will-uni-reach-15pt50-by-december-31-2026"
+expiryDate: 2026-09-30
+tags: ["ai", "politics", "polymarket"]
+polymarketYes: 0.1
+polymarketNo: 99.9
+polymarketVolume: 9854
+polymarketUrl: "https://polymarket.com/event/will-baidu-have-the-best-ai-model-at-the-end-of-september-2026-20260717143137059"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 4.5% | 95.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.1% | 99.9% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-uni-reach-15pt50-by-december-3
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will UNI reach $15.50 by December 31, 2026?"?
+### What are the current odds for "Will Baidu have the best AI model at the end of September 2026?"?
 
-As of August 11, 2026, Polymarket prices YES at 4.5%.
+As of August 11, 2026, Polymarket prices YES at 0.1%.
 
 ### Where can I trade on this prediction market?
 

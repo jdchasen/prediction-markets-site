@@ -3,7 +3,7 @@ title: "Will Marco Rubio announce a presidential run before 2027?"
 description: "Will Marco Rubio announce a presidential run before 2027? Odds: 6.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Marco Rubio announce a presidential run before 2027?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-08-11
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]

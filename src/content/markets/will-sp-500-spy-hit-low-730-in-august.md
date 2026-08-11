@@ -1,15 +1,15 @@
 ---
 title: "Will S&P 500 (SPY) hit (LOW) $730 in August?"
-description: "Will S&P 500 (SPY) hit (LOW) $730 in August? Odds: 13.5% YES on Polymarket. See live prices and trade this market."
+description: "Will S&P 500 (SPY) hit (LOW) $730 in August? Odds: 14.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will S&P 500 (SPY) hit (LOW) $730 in August?"
 category: "finance"
 status: "active"
 lastUpdated: 2026-08-11
 expiryDate: 2026-09-01
 tags: ["finance", "polymarket", "stocks"]
-polymarketYes: 13.5
-polymarketNo: 86.5
-polymarketVolume: 9899
+polymarketYes: 14.0
+polymarketNo: 86.0
+polymarketVolume: 9902
 polymarketUrl: "https://polymarket.com/event/will-spy-dip-to-730-in-august-2026"
 ---
 
@@ -17,13 +17,13 @@ polymarketUrl: "https://polymarket.com/event/will-spy-dip-to-730-in-august-2026"
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 13.5% | 86.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 14.0% | 86.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will S&P 500 (SPY) hit (LOW) $730 in August?"?
 
-As of August 11, 2026, Polymarket prices YES at 13.5%.
+As of August 11, 2026, Polymarket prices YES at 14.0%.
 
 ### Where can I trade on this prediction market?
 

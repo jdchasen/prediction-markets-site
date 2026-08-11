@@ -3,7 +3,7 @@ title: "Israel election: will Likud lose seats?"
 description: "Israel election: will Likud lose seats? Odds: 90.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Israel election: will Likud lose seats?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-08-11
 expiryDate: 2026-10-27
 tags: ["elections", "politics", "polymarket"]
