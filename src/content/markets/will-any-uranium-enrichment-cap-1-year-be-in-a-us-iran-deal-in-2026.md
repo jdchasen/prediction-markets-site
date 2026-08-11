@@ -4,12 +4,12 @@ description: "Will any Uranium Enrichment % Cap (1+ Year) be in a US-Iran deal i
 marketQuestion: "Will any Uranium Enrichment % Cap (1+ Year) be in a US-Iran deal in 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-08-10
+lastUpdated: 2026-08-11
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 19.5
 polymarketNo: 80.5
-polymarketVolume: 98554
+polymarketVolume: 98809
 polymarketUrl: "https://polymarket.com/event/will-any-uranium-enrichment-cap-1-year-be-in-a-us-iran-deal-in-2026-20260623023201636"
 ---
 
@@ -22,14 +22,14 @@ polymarketUrl: "https://polymarket.com/event/will-any-uranium-enrichment-cap-1-y
 ## Related Markets
 
 - [Will Eric Trump win the 2028 Republican presidential nomination?](/odds/will-eric-trump-win-the-2028-republican-presidential-nomination) — 0% YES
-- [Will Trump be impeached by end of 2026?](/odds/will-trump-be-impeached-by-end-of-2026) — 2% YES
-- [US announces end of Iranian blockade by August 31, 2026?](/odds/us-announces-end-of-iranian-blockade-by-august-31-2026) — 34% YES
+- [Will Trump be impeached by end of 2026?](/odds/will-trump-be-impeached-by-end-of-2026) — 3% YES
+- [Will Crude Oil reach a new all-time high by September 30?](/odds/will-crude-oil-reach-a-new-all-time-high-by-september-30) — 5% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will any Uranium Enrichment % Cap (1+ Year) be in a US-Iran deal in 2026?"?
 
-As of August 10, 2026, Polymarket prices YES at 19.5%.
+As of August 11, 2026, Polymarket prices YES at 19.5%.
 
 ### Where can I trade on this prediction market?
 

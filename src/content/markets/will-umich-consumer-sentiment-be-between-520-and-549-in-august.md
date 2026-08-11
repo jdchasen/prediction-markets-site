@@ -1,14 +1,14 @@
 ---
 title: "Will UMich Consumer Sentiment be between 52.0 and 54.9 in August?"
-description: "Will UMich Consumer Sentiment be between 52.0 and 54.9 in August? Odds: 35.0% YES on Polymarket. See live prices and trade this market."
+description: "Will UMich Consumer Sentiment be between 52.0 and 54.9 in August? Odds: 34.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will UMich Consumer Sentiment be between 52.0 and 54.9 in August?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-08-10
+lastUpdated: 2026-08-11
 expiryDate: 2026-08-28
 tags: ["politics", "polymarket"]
-polymarketYes: 35.0
-polymarketNo: 65.0
+polymarketYes: 34.5
+polymarketNo: 65.5
 polymarketVolume: 9853
 polymarketUrl: "https://polymarket.com/event/will-umich-consumer-sentiment-be-between-52pt0-and-54pt9-in-august-1785878499356"
 ---
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-umich-consumer-sentiment-be-be
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 35.0% | 65.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 34.5% | 65.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Eric Trump win the 2028 Republican presidential nomination?](/odds/will-eric-trump-win-the-2028-republican-presidential-nomination) — 0% YES
-- [Will Trump be impeached by end of 2026?](/odds/will-trump-be-impeached-by-end-of-2026) — 2% YES
-- [US announces end of Iranian blockade by August 31, 2026?](/odds/us-announces-end-of-iranian-blockade-by-august-31-2026) — 34% YES
+- [Will Trump be impeached by end of 2026?](/odds/will-trump-be-impeached-by-end-of-2026) — 3% YES
+- [Will Crude Oil reach a new all-time high by September 30?](/odds/will-crude-oil-reach-a-new-all-time-high-by-september-30) — 5% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will UMich Consumer Sentiment be between 52.0 and 54.9 in August?"?
 
-As of August 10, 2026, Polymarket prices YES at 35.0%.
+As of August 11, 2026, Polymarket prices YES at 34.5%.
 
 ### Where can I trade on this prediction market?
 

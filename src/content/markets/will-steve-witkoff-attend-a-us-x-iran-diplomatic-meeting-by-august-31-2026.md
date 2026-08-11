@@ -3,8 +3,8 @@ title: "Will Steve Witkoff attend a US x Iran diplomatic meeting by August 31, 2
 description: "Will Steve Witkoff attend a US x Iran diplomatic meeting by August 31, 2026? Odds: 16.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Steve Witkoff attend a US x Iran diplomatic meeting by August 31, 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-08-10
+status: "settled"
+lastUpdated: 2026-08-11
 expiryDate: 2026-08-31
 tags: ["politics", "polymarket"]
 polymarketYes: 16.5

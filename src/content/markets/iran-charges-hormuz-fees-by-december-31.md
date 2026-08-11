@@ -3,8 +3,8 @@ title: "Iran charges Hormuz fees by December 31?"
 description: "Iran charges Hormuz fees by December 31? Odds: 55.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Iran charges Hormuz fees by December 31?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-08-10
+status: "settled"
+lastUpdated: 2026-08-11
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 55.5

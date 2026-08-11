@@ -3,8 +3,8 @@ title: "Russia Elections: United Russia Wins Every Region?"
 description: "Russia Elections: United Russia Wins Every Region? Odds: 69.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Russia Elections: United Russia Wins Every Region?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-08-10
+status: "settled"
+lastUpdated: 2026-08-11
 expiryDate: 2026-09-20
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 69.5

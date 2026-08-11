@@ -1,15 +1,15 @@
 ---
 title: "Will the Bank of Japan announce no change at the September 2026 meeting?"
-description: "Will the Bank of Japan announce no change at the September 2026 meeting? Odds: 40.5% YES on Polymarket. See live prices and trade this market."
+description: "Will the Bank of Japan announce no change at the September 2026 meeting? Odds: 41.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Bank of Japan announce no change at the September 2026 meeting?"
 category: "economics"
 status: "active"
-lastUpdated: 2026-08-10
+lastUpdated: 2026-08-11
 expiryDate: 2026-09-18
 tags: ["economics", "polymarket"]
-polymarketYes: 40.5
-polymarketNo: 59.5
-polymarketVolume: 97001
+polymarketYes: 41.5
+polymarketNo: 58.5
+polymarketVolume: 99340
 polymarketUrl: "https://polymarket.com/event/will-the-bank-of-japan-announce-no-change-at-the-september-2026-meeting-20260616223724869"
 ---
 
@@ -17,13 +17,13 @@ polymarketUrl: "https://polymarket.com/event/will-the-bank-of-japan-announce-no-
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 40.5% | 59.5% | $97K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 41.5% | 58.5% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will the Bank of Japan announce no change at the September 2026 meeting?"?
 
-As of August 10, 2026, Polymarket prices YES at 40.5%.
+As of August 11, 2026, Polymarket prices YES at 41.5%.
 
 ### Where can I trade on this prediction market?
 

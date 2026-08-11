@@ -3,8 +3,8 @@ title: "Will the Toronto Tempo make the 2026 WNBA Playoffs?"
 description: "Will the Toronto Tempo make the 2026 WNBA Playoffs? Odds: 0.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Toronto Tempo make the 2026 WNBA Playoffs?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-08-10
+status: "settled"
+lastUpdated: 2026-08-11
 expiryDate: 2026-09-25
 tags: ["politics", "polymarket", "sports"]
 polymarketYes: 0.4

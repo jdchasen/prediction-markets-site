@@ -1,23 +1,23 @@
 ---
-title: "Will Marco Rubio announce a presidential run before 2027?"
-description: "Will Marco Rubio announce a presidential run before 2027? Odds: 6.0% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Marco Rubio announce a presidential run before 2027?"
+title: "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?"
+description: "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027? Odds: 13.5% YES on Polymarket. See live prices and trade this..."
+marketQuestion: "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-11
-expiryDate: 2026-12-31
+expiryDate: 2027-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 6.0
-polymarketNo: 94.0
-polymarketVolume: 9962
-polymarketUrl: "https://polymarket.com/event/will-marco-rubio-announce-a-presidential-run-before-2027"
+polymarketYes: 13.5
+polymarketNo: 86.5
+polymarketVolume: 99162
+polymarketUrl: "https://polymarket.com/event/will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 6.0% | 94.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 13.5% | 86.5% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-marco-rubio-announce-a-preside
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Marco Rubio announce a presidential run before 2027?"?
+### What are the current odds for "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?"?
 
-As of August 11, 2026, Polymarket prices YES at 6.0%.
+As of August 11, 2026, Polymarket prices YES at 13.5%.
 
 ### Where can I trade on this prediction market?
 

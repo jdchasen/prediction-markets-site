@@ -1,23 +1,23 @@
 ---
-title: "Will Marco Rubio announce a presidential run before 2027?"
-description: "Will Marco Rubio announce a presidential run before 2027? Odds: 6.0% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Marco Rubio announce a presidential run before 2027?"
+title: "Will the Republican Party win the PA-06 House seat?"
+description: "Will the Republican Party win the PA-06 House seat? Odds: 6.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will the Republican Party win the PA-06 House seat?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-11
-expiryDate: 2026-12-31
+expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
-polymarketYes: 6.0
-polymarketNo: 94.0
-polymarketVolume: 9962
-polymarketUrl: "https://polymarket.com/event/will-marco-rubio-announce-a-presidential-run-before-2027"
+polymarketYes: 6.5
+polymarketNo: 93.5
+polymarketVolume: 9832
+polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-pa-06-house-seat"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 6.0% | 94.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 6.5% | 93.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-marco-rubio-announce-a-preside
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Marco Rubio announce a presidential run before 2027?"?
+### What are the current odds for "Will the Republican Party win the PA-06 House seat?"?
 
-As of August 11, 2026, Polymarket prices YES at 6.0%.
+As of August 11, 2026, Polymarket prices YES at 6.5%.
 
 ### Where can I trade on this prediction market?
 
