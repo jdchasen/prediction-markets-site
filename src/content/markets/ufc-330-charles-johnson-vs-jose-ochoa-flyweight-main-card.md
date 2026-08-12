@@ -1,23 +1,23 @@
 ---
-title: "Rocket Lab’s Neutron Rocket Launch by December 31?"
-description: "Rocket Lab’s Neutron Rocket Launch by December 31? Odds: 13.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Rocket Lab’s Neutron Rocket Launch by December 31?"
+title: "UFC 330: Charles Johnson vs. Jose Ochoa (Flyweight, Main Card)"
+description: "UFC 330: Charles Johnson vs. Jose Ochoa (Flyweight, Main Card) Odds: 49.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "UFC 330: Charles Johnson vs. Jose Ochoa (Flyweight, Main Card)"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-12
-expiryDate: 2026-12-31
-tags: ["politics", "polymarket"]
-polymarketYes: 13.5
-polymarketNo: 86.5
-polymarketVolume: 9945
-polymarketUrl: "https://polymarket.com/event/rocket-labs-neutron-rocket-launch-by-december-31-691"
+expiryDate: 2026-08-16
+tags: ["ai", "politics", "polymarket"]
+polymarketYes: 49.5
+polymarketNo: 50.5
+polymarketVolume: 98674
+polymarketUrl: "https://polymarket.com/event/ufc-cha15-jos54-2026-08-15"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 13.5% | 86.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 49.5% | 50.5% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/rocket-labs-neutron-rocket-launch-b
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Rocket Lab’s Neutron Rocket Launch by December 31?"?
+### What are the current odds for "UFC 330: Charles Johnson vs. Jose Ochoa (Flyweight, Main Card)"?
 
-As of August 12, 2026, Polymarket prices YES at 13.5%.
+As of August 12, 2026, Polymarket prices YES at 49.5%.
 
 ### Where can I trade on this prediction market?
 

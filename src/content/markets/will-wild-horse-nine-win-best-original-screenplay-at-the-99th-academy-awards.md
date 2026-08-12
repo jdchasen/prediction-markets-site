@@ -3,7 +3,7 @@ title: "Will Wild Horse Nine win Best Original Screenplay at the 99th Academy Aw
 description: "Will Wild Horse Nine win Best Original Screenplay at the 99th Academy Awards? Odds: 36.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Wild Horse Nine win Best Original Screenplay at the 99th Academy Awards?"
 category: "entertainment"
-status: "active"
+status: "settled"
 lastUpdated: 2026-08-12
 expiryDate: 2027-03-14
 tags: ["entertainment", "polymarket"]

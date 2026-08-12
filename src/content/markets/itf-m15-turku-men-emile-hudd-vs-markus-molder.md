@@ -9,7 +9,7 @@ expiryDate: 2026-08-19
 tags: ["politics", "polymarket"]
 polymarketYes: 50.5
 polymarketNo: 49.5
-polymarketVolume: 9908
+polymarketVolume: 9934
 polymarketUrl: "https://polymarket.com/event/itf-hudd-molder-2026-08-12"
 ---
 
@@ -23,7 +23,7 @@ polymarketUrl: "https://polymarket.com/event/itf-hudd-molder-2026-08-12"
 
 - [Will Eric Trump win the 2028 Republican presidential nomination?](/odds/will-eric-trump-win-the-2028-republican-presidential-nomination) — 0% YES
 - [Will Crude Oil reach a new all-time high by September 30?](/odds/will-crude-oil-reach-a-new-all-time-high-by-september-30) — 4% YES
-- [Will Samuel Alito announce his retirement by September 30, 2026?](/odds/will-samuel-alito-announce-his-retirement-by-september-30-2026) — 3% YES
+- [Will Samuel Alito announce his retirement by September 30, 2026?](/odds/will-samuel-alito-announce-his-retirement-by-september-30-2026) — 2% YES
 
 ## Frequently Asked Questions
 

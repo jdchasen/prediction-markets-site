@@ -3,7 +3,7 @@ title: "Will Parti libéral du Québec win the most seats in the 2026 Quebec gen
 description: "Will Parti libéral du Québec win the most seats in the 2026 Quebec general election? Odds: 9.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Parti libéral du Québec win the most seats in the 2026 Quebec general election?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-08-12
 expiryDate: 2026-10-05
 tags: ["elections", "politics", "polymarket"]

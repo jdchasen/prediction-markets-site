@@ -3,7 +3,7 @@ title: "Will ByteDance have the best AI model at the end of September 2026?"
 description: "Will ByteDance have the best AI model at the end of September 2026? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will ByteDance have the best AI model at the end of September 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-08-12
 expiryDate: 2026-09-30
 tags: ["ai", "politics", "polymarket"]

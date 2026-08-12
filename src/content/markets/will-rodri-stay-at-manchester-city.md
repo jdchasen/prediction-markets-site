@@ -1,15 +1,15 @@
 ---
 title: "Will Rodri stay at Manchester City?"
-description: "Will Rodri stay at Manchester City? Odds: 42.4% YES on Polymarket. See live prices and trade this market."
+description: "Will Rodri stay at Manchester City? Odds: 9.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Rodri stay at Manchester City?"
 category: "politics"
-status: "settled"
-lastUpdated: 2026-07-22
+status: "active"
+lastUpdated: 2026-08-12
 expiryDate: 2026-09-02
 tags: ["politics", "polymarket"]
-polymarketYes: 42.4
-polymarketNo: 57.6
-polymarketVolume: 9940
+polymarketYes: 9.0
+polymarketNo: 91.0
+polymarketVolume: 99709
 polymarketUrl: "https://polymarket.com/event/will-rodri-stay-at-manchester-city-20260612230522494"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-rodri-stay-at-manchester-city-
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 42.4% | 57.6% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 9.0% | 91.0% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Marco Rubio win the 2028 Republican presidential nomination?](/odds/will-marco-rubio-win-the-2028-republican-presidential-nomination) — 28% YES
 - [Will Eric Trump win the 2028 Republican presidential nomination?](/odds/will-eric-trump-win-the-2028-republican-presidential-nomination) — 0% YES
-- [Will Nigel Farage win the Clacton by-election?](/odds/will-nigel-farage-win-the-clacton-by-election) — 96% YES
+- [Will Crude Oil reach a new all-time high by September 30?](/odds/will-crude-oil-reach-a-new-all-time-high-by-september-30) — 4% YES
+- [Will Samuel Alito announce his retirement by September 30, 2026?](/odds/will-samuel-alito-announce-his-retirement-by-september-30-2026) — 2% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Rodri stay at Manchester City?"?
 
-As of July 22, 2026, Polymarket prices YES at 42.4%.
+As of August 12, 2026, Polymarket prices YES at 9.0%.
 
 ### Where can I trade on this prediction market?
 

@@ -1,14 +1,14 @@
 ---
 title: "Will the Ornn RTX 5090 Index be between $0.45 and $0.50 on August 31, 2026?"
-description: "Will the Ornn RTX 5090 Index be between $0.45 and $0.50 on August 31, 2026? Odds: 56.5% YES on Polymarket. See live prices and trade this market."
+description: "Will the Ornn RTX 5090 Index be between $0.45 and $0.50 on August 31, 2026? Odds: 54.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Ornn RTX 5090 Index be between $0.45 and $0.50 on August 31, 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-12
 expiryDate: 2026-08-31
 tags: ["politics", "polymarket"]
-polymarketYes: 56.5
-polymarketNo: 43.5
+polymarketYes: 54.5
+polymarketNo: 45.5
 polymarketVolume: 9884
 polymarketUrl: "https://polymarket.com/event/will-the-ornn-rtx-5090-index-be-between-0pt45-and-0pt50-on-august-31-2026-1785423806994"
 ---
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-the-ornn-rtx-5090-index-be-bet
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 56.5% | 43.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 54.5% | 45.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Eric Trump win the 2028 Republican presidential nomination?](/odds/will-eric-trump-win-the-2028-republican-presidential-nomination) — 0% YES
 - [Will Crude Oil reach a new all-time high by September 30?](/odds/will-crude-oil-reach-a-new-all-time-high-by-september-30) — 4% YES
-- [Will Samuel Alito announce his retirement by September 30, 2026?](/odds/will-samuel-alito-announce-his-retirement-by-september-30-2026) — 3% YES
+- [Will Samuel Alito announce his retirement by September 30, 2026?](/odds/will-samuel-alito-announce-his-retirement-by-september-30-2026) — 2% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will the Ornn RTX 5090 Index be between $0.45 and $0.50 on August 31, 2026?"?
 
-As of August 12, 2026, Polymarket prices YES at 56.5%.
+As of August 12, 2026, Polymarket prices YES at 54.5%.
 
 ### Where can I trade on this prediction market?
 

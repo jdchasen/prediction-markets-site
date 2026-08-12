@@ -1,23 +1,23 @@
 ---
-title: "Will any AI model reach 1540 Overall Arena Score by September 30, 2026?"
-description: "Will any AI model reach 1540 Overall Arena Score by September 30, 2026? Odds: 8.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will any AI model reach 1540 Overall Arena Score by September 30, 2026?"
+title: "Will Meta be the third-best AI lab at the end of August 2026?"
+description: "Will Meta be the third-best AI lab at the end of August 2026? Odds: 60.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Meta be the third-best AI lab at the end of August 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-12
-expiryDate: 2026-09-30
+expiryDate: 2026-08-31
 tags: ["ai", "politics", "polymarket"]
-polymarketYes: 8.5
-polymarketNo: 91.5
-polymarketVolume: 9820
-polymarketUrl: "https://polymarket.com/event/will-any-ai-model-reach-1540-overall-arena-score-by-september-30-2026"
+polymarketYes: 60.5
+polymarketNo: 39.5
+polymarketVolume: 9898
+polymarketUrl: "https://polymarket.com/event/will-meta-be-the-third-best-ai-lab-at-the-end-of-august-2026-20260720230611804"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 8.5% | 91.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 60.5% | 39.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-any-ai-model-reach-1540-overal
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will any AI model reach 1540 Overall Arena Score by September 30, 2026?"?
+### What are the current odds for "Will Meta be the third-best AI lab at the end of August 2026?"?
 
-As of August 12, 2026, Polymarket prices YES at 8.5%.
+As of August 12, 2026, Polymarket prices YES at 60.5%.
 
 ### Where can I trade on this prediction market?
 

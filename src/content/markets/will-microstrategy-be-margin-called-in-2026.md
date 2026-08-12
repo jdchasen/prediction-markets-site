@@ -3,13 +3,13 @@ title: "Will MicroStrategy be margin called in 2026?"
 description: "Will MicroStrategy be margin called in 2026? Odds: 3.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will MicroStrategy be margin called in 2026?"
 category: "politics"
-status: "settled"
+status: "active"
 lastUpdated: 2026-08-12
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]
 polymarketYes: 3.8
 polymarketNo: 96.2
-polymarketVolume: 99151
+polymarketVolume: 99153
 polymarketUrl: "https://polymarket.com/event/will-microstrategy-be-margin-called-in-2026"
 ---
 
@@ -22,14 +22,14 @@ polymarketUrl: "https://polymarket.com/event/will-microstrategy-be-margin-called
 ## Related Markets
 
 - [Will Eric Trump win the 2028 Republican presidential nomination?](/odds/will-eric-trump-win-the-2028-republican-presidential-nomination) — 0% YES
-- [Will Crude Oil reach a new all-time high by September 30?](/odds/will-crude-oil-reach-a-new-all-time-high-by-september-30) — 5% YES
-- [Will Samuel Alito announce his retirement by September 30, 2026?](/odds/will-samuel-alito-announce-his-retirement-by-september-30-2026) — 3% YES
+- [Will Crude Oil reach a new all-time high by September 30?](/odds/will-crude-oil-reach-a-new-all-time-high-by-september-30) — 4% YES
+- [Will Samuel Alito announce his retirement by September 30, 2026?](/odds/will-samuel-alito-announce-his-retirement-by-september-30-2026) — 2% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will MicroStrategy be margin called in 2026?"?
 
-As of August 11, 2026, Polymarket prices YES at 3.8%.
+As of August 12, 2026, Polymarket prices YES at 3.8%.
 
 ### Where can I trade on this prediction market?
 

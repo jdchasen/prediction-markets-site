@@ -1,23 +1,23 @@
 ---
-title: "Will any AI model reach 1540 Overall Arena Score by September 30, 2026?"
-description: "Will any AI model reach 1540 Overall Arena Score by September 30, 2026? Odds: 8.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will any AI model reach 1540 Overall Arena Score by September 30, 2026?"
+title: "Will Flávio Bolsonaro win the first round of the 2026 Brazilian presidential election by less than 5%?"
+description: "Will Flávio Bolsonaro win the first round of the 2026 Brazilian presidential election by less than 5%? Odds: 6.6% YES on Polymarket. See live prices and trad..."
+marketQuestion: "Will Flávio Bolsonaro win the first round of the 2026 Brazilian presidential election by less than 5%?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-12
-expiryDate: 2026-09-30
-tags: ["ai", "politics", "polymarket"]
-polymarketYes: 8.5
-polymarketNo: 91.5
-polymarketVolume: 9820
-polymarketUrl: "https://polymarket.com/event/will-any-ai-model-reach-1540-overall-arena-score-by-september-30-2026"
+expiryDate: 2026-10-04
+tags: ["elections", "politics", "polymarket"]
+polymarketYes: 6.6
+polymarketNo: 93.4
+polymarketVolume: 9881
+polymarketUrl: "https://polymarket.com/event/will-flvio-bolsonaro-win-the-first-round-of-the-2026-brazilian-presidential-election-by-less-than-5-183"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 8.5% | 91.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 6.6% | 93.4% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-any-ai-model-reach-1540-overal
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will any AI model reach 1540 Overall Arena Score by September 30, 2026?"?
+### What are the current odds for "Will Flávio Bolsonaro win the first round of the 2026 Brazilian presidential election by less than 5%?"?
 
-As of August 12, 2026, Polymarket prices YES at 8.5%.
+As of August 12, 2026, Polymarket prices YES at 6.6%.
 
 ### Where can I trade on this prediction market?
 

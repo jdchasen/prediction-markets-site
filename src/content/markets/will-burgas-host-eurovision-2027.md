@@ -1,23 +1,23 @@
 ---
-title: "Will the US federal government take a stake in OpenAI?"
-description: "Will the US federal government take a stake in OpenAI? Odds: 17.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will the US federal government take a stake in OpenAI?"
+title: "Will Burgas host Eurovision 2027?"
+description: "Will Burgas host Eurovision 2027? Odds: 72.2% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Burgas host Eurovision 2027?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-12
 expiryDate: 2026-12-31
-tags: ["ai", "federal-reserve", "politics", "polymarket"]
-polymarketYes: 17.5
-polymarketNo: 82.5
-polymarketVolume: 9818
-polymarketUrl: "https://polymarket.com/event/will-the-us-federal-government-take-a-stake-in-openai"
+tags: ["politics", "polymarket"]
+polymarketYes: 72.2
+polymarketNo: 27.8
+polymarketVolume: 99877
+polymarketUrl: "https://polymarket.com/event/will-burgas-host-eurovision-2027"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 17.5% | 82.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 72.2% | 27.8% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-the-us-federal-government-take
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will the US federal government take a stake in OpenAI?"?
+### What are the current odds for "Will Burgas host Eurovision 2027?"?
 
-As of August 12, 2026, Polymarket prices YES at 17.5%.
+As of August 12, 2026, Polymarket prices YES at 72.2%.
 
 ### Where can I trade on this prediction market?
 
