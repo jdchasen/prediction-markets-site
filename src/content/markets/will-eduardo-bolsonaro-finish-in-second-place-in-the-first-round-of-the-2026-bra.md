@@ -4,12 +4,12 @@ description: "Will Eduardo Bolsonaro finish in second place in the first round o
 marketQuestion: "Will Eduardo Bolsonaro finish in second place in the first round of the 2026 Brazilian presidential election?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-08-11
+lastUpdated: 2026-08-12
 expiryDate: 2026-10-04
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.1
 polymarketNo: 99.9
-polymarketVolume: 99797
+polymarketVolume: 99805
 polymarketUrl: "https://polymarket.com/event/will-eduardo-bolsonaro-finish-in-second-place-in-the-first-round-of-the-2026-brazilian-presidential-election"
 ---
 
@@ -22,14 +22,14 @@ polymarketUrl: "https://polymarket.com/event/will-eduardo-bolsonaro-finish-in-se
 ## Related Markets
 
 - [Will Eric Trump win the 2028 Republican presidential nomination?](/odds/will-eric-trump-win-the-2028-republican-presidential-nomination) — 0% YES
-- [Will Crude Oil reach a new all-time high by September 30?](/odds/will-crude-oil-reach-a-new-all-time-high-by-september-30) — 5% YES
+- [Will Crude Oil reach a new all-time high by September 30?](/odds/will-crude-oil-reach-a-new-all-time-high-by-september-30) — 4% YES
 - [Will Samuel Alito announce his retirement by September 30, 2026?](/odds/will-samuel-alito-announce-his-retirement-by-september-30-2026) — 3% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Eduardo Bolsonaro finish in second place in the first round of the 2026 Brazilian presidential election?"?
 
-As of August 11, 2026, Polymarket prices YES at 0.1%.
+As of August 12, 2026, Polymarket prices YES at 0.1%.
 
 ### Where can I trade on this prediction market?
 

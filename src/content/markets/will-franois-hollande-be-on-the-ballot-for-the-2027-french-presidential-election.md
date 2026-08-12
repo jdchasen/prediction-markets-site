@@ -3,8 +3,8 @@ title: "Will François Hollande be on the ballot for the 2027 French presidentia
 description: "Will François Hollande be on the ballot for the 2027 French presidential election? Odds: 30.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will François Hollande be on the ballot for the 2027 French presidential election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-08-11
+status: "settled"
+lastUpdated: 2026-08-12
 expiryDate: 2027-04-17
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 30.5

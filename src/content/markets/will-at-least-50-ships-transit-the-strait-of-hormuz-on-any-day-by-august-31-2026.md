@@ -1,23 +1,23 @@
 ---
-title: "Will Parti libéral du Québec win the most seats in the 2026 Quebec general election?"
-description: "Will Parti libéral du Québec win the most seats in the 2026 Quebec general election? Odds: 9.0% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Parti libéral du Québec win the most seats in the 2026 Quebec general election?"
+title: "Will at least 50 ships transit the Strait of Hormuz on any day by August 31, 2026?"
+description: "Will at least 50 ships transit the Strait of Hormuz on any day by August 31, 2026? Odds: 10.0% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will at least 50 ships transit the Strait of Hormuz on any day by August 31, 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-12
-expiryDate: 2026-10-05
-tags: ["elections", "politics", "polymarket"]
-polymarketYes: 9.0
-polymarketNo: 91.0
-polymarketVolume: 99781
-polymarketUrl: "https://polymarket.com/event/will-parti-libral-du-qubec-win-the-most-seats-in-the-2026-quebec-general-election"
+expiryDate: 2026-08-31
+tags: ["ai", "politics", "polymarket"]
+polymarketYes: 10.0
+polymarketNo: 90.0
+polymarketVolume: 9889
+polymarketUrl: "https://polymarket.com/event/will-50-ships-transit-the-strait-of-hormuz-on-any-day-by-august-31-2026-20260728213741054"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 9.0% | 91.0% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 10.0% | 90.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-parti-libral-du-qubec-win-the-
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Parti libéral du Québec win the most seats in the 2026 Quebec general election?"?
+### What are the current odds for "Will at least 50 ships transit the Strait of Hormuz on any day by August 31, 2026?"?
 
-As of August 12, 2026, Polymarket prices YES at 9.0%.
+As of August 12, 2026, Polymarket prices YES at 10.0%.
 
 ### Where can I trade on this prediction market?
 

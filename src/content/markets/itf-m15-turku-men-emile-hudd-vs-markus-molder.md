@@ -1,23 +1,23 @@
 ---
-title: "Rocket Lab’s Neutron Rocket Launch by December 31?"
-description: "Rocket Lab’s Neutron Rocket Launch by December 31? Odds: 13.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Rocket Lab’s Neutron Rocket Launch by December 31?"
+title: "ITF M15 Turku Men: Emile Hudd vs Markus Molder"
+description: "ITF M15 Turku Men: Emile Hudd vs Markus Molder Odds: 50.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "ITF M15 Turku Men: Emile Hudd vs Markus Molder"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-12
-expiryDate: 2026-12-31
+expiryDate: 2026-08-19
 tags: ["politics", "polymarket"]
-polymarketYes: 13.5
-polymarketNo: 86.5
-polymarketVolume: 9890
-polymarketUrl: "https://polymarket.com/event/rocket-labs-neutron-rocket-launch-by-december-31-691"
+polymarketYes: 50.5
+polymarketNo: 49.5
+polymarketVolume: 9908
+polymarketUrl: "https://polymarket.com/event/itf-hudd-molder-2026-08-12"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 13.5% | 86.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 50.5% | 49.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/rocket-labs-neutron-rocket-launch-b
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Rocket Lab’s Neutron Rocket Launch by December 31?"?
+### What are the current odds for "ITF M15 Turku Men: Emile Hudd vs Markus Molder"?
 
-As of August 12, 2026, Polymarket prices YES at 13.5%.
+As of August 12, 2026, Polymarket prices YES at 50.5%.
 
 ### Where can I trade on this prediction market?
 

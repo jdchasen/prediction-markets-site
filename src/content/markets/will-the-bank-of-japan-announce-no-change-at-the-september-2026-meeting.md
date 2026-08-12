@@ -3,8 +3,8 @@ title: "Will the Bank of Japan announce no change at the September 2026 meeting?
 description: "Will the Bank of Japan announce no change at the September 2026 meeting? Odds: 39.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Bank of Japan announce no change at the September 2026 meeting?"
 category: "economics"
-status: "active"
-lastUpdated: 2026-08-11
+status: "settled"
+lastUpdated: 2026-08-12
 expiryDate: 2026-09-18
 tags: ["economics", "polymarket"]
 polymarketYes: 39.5

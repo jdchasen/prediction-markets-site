@@ -4,12 +4,12 @@ description: "Will Dogecoin reach $0.15 in August? Odds: 1.1% YES on Polymarket.
 marketQuestion: "Will Dogecoin reach $0.15 in August?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-08-11
+lastUpdated: 2026-08-12
 expiryDate: 2026-09-01
 tags: ["politics", "polymarket"]
 polymarketYes: 1.1
 polymarketNo: 99.0
-polymarketVolume: 9896
+polymarketVolume: 9963
 polymarketUrl: "https://polymarket.com/event/will-dogecoin-reach-0pt15-in-august-2026"
 ---
 
@@ -22,14 +22,14 @@ polymarketUrl: "https://polymarket.com/event/will-dogecoin-reach-0pt15-in-august
 ## Related Markets
 
 - [Will Eric Trump win the 2028 Republican presidential nomination?](/odds/will-eric-trump-win-the-2028-republican-presidential-nomination) — 0% YES
-- [Will Crude Oil reach a new all-time high by September 30?](/odds/will-crude-oil-reach-a-new-all-time-high-by-september-30) — 5% YES
+- [Will Crude Oil reach a new all-time high by September 30?](/odds/will-crude-oil-reach-a-new-all-time-high-by-september-30) — 4% YES
 - [Will Samuel Alito announce his retirement by September 30, 2026?](/odds/will-samuel-alito-announce-his-retirement-by-september-30-2026) — 3% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Dogecoin reach $0.15 in August?"?
 
-As of August 11, 2026, Polymarket prices YES at 1.1%.
+As of August 12, 2026, Polymarket prices YES at 1.1%.
 
 ### Where can I trade on this prediction market?
 

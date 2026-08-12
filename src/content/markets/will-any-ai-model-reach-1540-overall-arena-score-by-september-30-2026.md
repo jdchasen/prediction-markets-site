@@ -4,7 +4,7 @@ description: "Will any AI model reach 1540 Overall Arena Score by September 30, 
 marketQuestion: "Will any AI model reach 1540 Overall Arena Score by September 30, 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-08-11
+lastUpdated: 2026-08-12
 expiryDate: 2026-09-30
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 8.5
@@ -22,14 +22,14 @@ polymarketUrl: "https://polymarket.com/event/will-any-ai-model-reach-1540-overal
 ## Related Markets
 
 - [Will Eric Trump win the 2028 Republican presidential nomination?](/odds/will-eric-trump-win-the-2028-republican-presidential-nomination) — 0% YES
-- [Will Crude Oil reach a new all-time high by September 30?](/odds/will-crude-oil-reach-a-new-all-time-high-by-september-30) — 5% YES
+- [Will Crude Oil reach a new all-time high by September 30?](/odds/will-crude-oil-reach-a-new-all-time-high-by-september-30) — 4% YES
 - [Will Samuel Alito announce his retirement by September 30, 2026?](/odds/will-samuel-alito-announce-his-retirement-by-september-30-2026) — 3% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will any AI model reach 1540 Overall Arena Score by September 30, 2026?"?
 
-As of August 11, 2026, Polymarket prices YES at 8.5%.
+As of August 12, 2026, Polymarket prices YES at 8.5%.
 
 ### Where can I trade on this prediction market?
 

@@ -3,8 +3,8 @@ title: "Will the Seattle Kraken be named the 2026-27 NHL Stanley Cup Champion?"
 description: "Will the Seattle Kraken be named the 2026-27 NHL Stanley Cup Champion? Odds: 0.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Seattle Kraken be named the 2026-27 NHL Stanley Cup Champion?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-08-11
+status: "settled"
+lastUpdated: 2026-08-12
 expiryDate: 2027-07-01
 tags: ["polymarket", "sports"]
 polymarketYes: 0.4

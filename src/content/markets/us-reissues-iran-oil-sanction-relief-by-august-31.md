@@ -3,8 +3,8 @@ title: "US reissues Iran oil sanction relief by August 31?"
 description: "US reissues Iran oil sanction relief by August 31? Odds: 33.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "US reissues Iran oil sanction relief by August 31?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-08-11
+status: "settled"
+lastUpdated: 2026-08-12
 expiryDate: 2026-08-31
 tags: ["politics", "polymarket"]
 polymarketYes: 33.0

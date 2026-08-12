@@ -3,8 +3,8 @@ title: "Over $5M committed to the Ryvo public sale?"
 description: "Over $5M committed to the Ryvo public sale? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Over $5M committed to the Ryvo public sale?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-08-11
+status: "settled"
+lastUpdated: 2026-08-12
 expiryDate: 2026-09-01
 tags: ["politics", "polymarket"]
 polymarketYes: 0.1
