@@ -3,8 +3,8 @@ title: "Will “Last Week Tonight With John Oliver” win Emmys 2026: Outstandin
 description: "Will “Last Week Tonight With John Oliver” win Emmys 2026: Outstanding variety series? Odds: 17.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will “Last Week Tonight With John Oliver” win Emmys 2026: Outstanding variety series?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-08-12
+status: "settled"
+lastUpdated: 2026-08-13
 expiryDate: 2026-09-14
 tags: ["entertainment", "politics", "polymarket"]
 polymarketYes: 17.0

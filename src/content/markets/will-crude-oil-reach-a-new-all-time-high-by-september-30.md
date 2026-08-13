@@ -1,15 +1,15 @@
 ---
 title: "Will Crude Oil reach a new all-time high by September 30?"
-description: "Will Crude Oil reach a new all-time high by September 30? Odds: 3.8% YES on Polymarket. See live prices and trade this market."
+description: "Will Crude Oil reach a new all-time high by September 30? Odds: 3.6% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Crude Oil reach a new all-time high by September 30?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-08-12
+lastUpdated: 2026-08-13
 expiryDate: 2026-09-30
 tags: ["politics", "polymarket"]
-polymarketYes: 3.8
-polymarketNo: 96.2
-polymarketVolume: 995823
+polymarketYes: 3.6
+polymarketNo: 96.4
+polymarketVolume: 997929
 polymarketUrl: "https://polymarket.com/event/will-crude-oil-reach-a-new-all-time-high-by-september-30"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-crude-oil-reach-a-new-all-time
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 3.8% | 96.2% | $996K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 3.6% | 96.4% | $998K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Eric Trump win the 2028 Republican presidential nomination?](/odds/will-eric-trump-win-the-2028-republican-presidential-nomination) — 0% YES
 - [Will Samuel Alito announce his retirement by September 30, 2026?](/odds/will-samuel-alito-announce-his-retirement-by-september-30-2026) — 2% YES
-- [Will Burgas host Eurovision 2027?](/odds/will-burgas-host-eurovision-2027) — 72% YES
+- [NYSE marketwide circuit breaker before 2027?](/odds/nyse-marketwide-circuit-breaker-before-2027) — 14% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Crude Oil reach a new all-time high by September 30?"?
 
-As of August 12, 2026, Polymarket prices YES at 3.8%.
+As of August 13, 2026, Polymarket prices YES at 3.6%.
 
 ### Where can I trade on this prediction market?
 

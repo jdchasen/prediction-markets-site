@@ -3,8 +3,8 @@ title: "Will Typhoon Dolphin be a \"Very Strong Typhoon\" at Japan landfall?"
 description: "Will Typhoon Dolphin be a \"Very Strong Typhoon\" at Japan landfall? Odds: 99.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Typhoon Dolphin be a \"Very Strong Typhoon\" at Japan landfall?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-08-12
+status: "settled"
+lastUpdated: 2026-08-13
 expiryDate: 2026-08-15
 tags: ["politics", "polymarket"]
 polymarketYes: 99.5

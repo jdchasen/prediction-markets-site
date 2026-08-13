@@ -4,7 +4,7 @@ description: "Will Thinky have the best AI model at the end of September 2026? O
 marketQuestion: "Will Thinky have the best AI model at the end of September 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-08-12
+lastUpdated: 2026-08-13
 expiryDate: 2026-09-30
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 0.1
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-thinky-have-the-best-ai-model-
 
 ### What are the current odds for "Will Thinky have the best AI model at the end of September 2026?"?
 
-As of August 12, 2026, Polymarket prices YES at 0.1%.
+As of August 13, 2026, Polymarket prices YES at 0.1%.
 
 ### Where can I trade on this prediction market?
 

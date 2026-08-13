@@ -1,15 +1,15 @@
 ---
 title: "Spain accuses Morocco of facilitating Ceuta migrant wave by August 31?"
-description: "Spain accuses Morocco of facilitating Ceuta migrant wave by August 31? Odds: 2.3% YES on Polymarket. See live prices and trade this market."
+description: "Spain accuses Morocco of facilitating Ceuta migrant wave by August 31? Odds: 2.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Spain accuses Morocco of facilitating Ceuta migrant wave by August 31?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-08-12
+lastUpdated: 2026-08-13
 expiryDate: 2026-08-31
 tags: ["ai", "politics", "polymarket"]
-polymarketYes: 2.3
-polymarketNo: 97.7
-polymarketVolume: 99340
+polymarketYes: 2.4
+polymarketNo: 97.6
+polymarketVolume: 99386
 polymarketUrl: "https://polymarket.com/event/will-spain-accuse-morocco-of-facilitating-the-ceuta-migrant-influx-by-august-31-20260731174220331"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-spain-accuse-morocco-of-facili
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 2.3% | 97.7% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 2.4% | 97.6% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-spain-accuse-morocco-of-facili
 
 ### What are the current odds for "Spain accuses Morocco of facilitating Ceuta migrant wave by August 31?"?
 
-As of August 12, 2026, Polymarket prices YES at 2.3%.
+As of August 13, 2026, Polymarket prices YES at 2.4%.
 
 ### Where can I trade on this prediction market?
 

@@ -3,8 +3,8 @@ title: "Rocket Lab’s Neutron Rocket Launch by December 31?"
 description: "Rocket Lab’s Neutron Rocket Launch by December 31? Odds: 13.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Rocket Lab’s Neutron Rocket Launch by December 31?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-08-12
+status: "settled"
+lastUpdated: 2026-08-13
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 13.5

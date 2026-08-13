@@ -3,8 +3,8 @@ title: "Will at least 50 ships transit the Strait of Hormuz on any day by August
 description: "Will at least 50 ships transit the Strait of Hormuz on any day by August 31, 2026? Odds: 10.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will at least 50 ships transit the Strait of Hormuz on any day by August 31, 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-08-12
+status: "settled"
+lastUpdated: 2026-08-13
 expiryDate: 2026-08-31
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 10.0

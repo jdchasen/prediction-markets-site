@@ -1,15 +1,15 @@
 ---
 title: "Will Silver (XAGUSD) hit (LOW) $54 in August?"
-description: "Will Silver (XAGUSD) hit (LOW) $54 in August? Odds: 11.0% YES on Polymarket. See live prices and trade this market."
+description: "Will Silver (XAGUSD) hit (LOW) $54 in August? Odds: 7.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Silver (XAGUSD) hit (LOW) $54 in August?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-08-12
+lastUpdated: 2026-08-13
 expiryDate: 2026-09-01
 tags: ["politics", "polymarket"]
-polymarketYes: 11.0
-polymarketNo: 89.0
-polymarketVolume: 9886
+polymarketYes: 7.0
+polymarketNo: 93.0
+polymarketVolume: 9946
 polymarketUrl: "https://polymarket.com/event/will-xagusd-dip-to-54-in-august-2026"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-xagusd-dip-to-54-in-august-202
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 11.0% | 89.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 7.0% | 93.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-xagusd-dip-to-54-in-august-202
 
 ### What are the current odds for "Will Silver (XAGUSD) hit (LOW) $54 in August?"?
 
-As of August 12, 2026, Polymarket prices YES at 11.0%.
+As of August 13, 2026, Polymarket prices YES at 7.0%.
 
 ### Where can I trade on this prediction market?
 

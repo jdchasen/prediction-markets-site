@@ -4,7 +4,7 @@ description: "Will MicroStrategy be margin called in 2026? Odds: 3.8% YES on Pol
 marketQuestion: "Will MicroStrategy be margin called in 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-08-12
+lastUpdated: 2026-08-13
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]
 polymarketYes: 3.8
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-microstrategy-be-margin-called
 
 ### What are the current odds for "Will MicroStrategy be margin called in 2026?"?
 
-As of August 12, 2026, Polymarket prices YES at 3.8%.
+As of August 13, 2026, Polymarket prices YES at 3.8%.
 
 ### Where can I trade on this prediction market?
 

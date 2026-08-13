@@ -3,8 +3,8 @@ title: "ITF M15 Turku Men: Emile Hudd vs Markus Molder"
 description: "ITF M15 Turku Men: Emile Hudd vs Markus Molder Odds: 50.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "ITF M15 Turku Men: Emile Hudd vs Markus Molder"
 category: "politics"
-status: "active"
-lastUpdated: 2026-08-12
+status: "settled"
+lastUpdated: 2026-08-13
 expiryDate: 2026-08-19
 tags: ["politics", "polymarket"]
 polymarketYes: 50.5

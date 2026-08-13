@@ -1,15 +1,15 @@
 ---
 title: "Will UMich Consumer Sentiment be between 52.0 and 54.9 in August?"
-description: "Will UMich Consumer Sentiment be between 52.0 and 54.9 in August? Odds: 35.0% YES on Polymarket. See live prices and trade this market."
+description: "Will UMich Consumer Sentiment be between 52.0 and 54.9 in August? Odds: 34.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will UMich Consumer Sentiment be between 52.0 and 54.9 in August?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-08-12
+lastUpdated: 2026-08-13
 expiryDate: 2026-08-28
 tags: ["politics", "polymarket"]
-polymarketYes: 35.0
-polymarketNo: 65.0
-polymarketVolume: 9853
+polymarketYes: 34.5
+polymarketNo: 65.5
+polymarketVolume: 9903
 polymarketUrl: "https://polymarket.com/event/will-umich-consumer-sentiment-be-between-52pt0-and-54pt9-in-august-1785878499356"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-umich-consumer-sentiment-be-be
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 35.0% | 65.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 34.5% | 65.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-umich-consumer-sentiment-be-be
 
 ### What are the current odds for "Will UMich Consumer Sentiment be between 52.0 and 54.9 in August?"?
 
-As of August 12, 2026, Polymarket prices YES at 35.0%.
+As of August 13, 2026, Polymarket prices YES at 34.5%.
 
 ### Where can I trade on this prediction market?
 

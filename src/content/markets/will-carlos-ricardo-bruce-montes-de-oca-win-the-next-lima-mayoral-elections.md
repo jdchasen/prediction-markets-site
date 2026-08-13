@@ -1,23 +1,23 @@
 ---
-title: "Will the US federal government take a stake in OpenAI?"
-description: "Will the US federal government take a stake in OpenAI? Odds: 17.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will the US federal government take a stake in OpenAI?"
+title: "Will Carlos Ricardo Bruce Montes de Oca win the next Lima mayoral elections?"
+description: "Will Carlos Ricardo Bruce Montes de Oca win the next Lima mayoral elections? Odds: 18.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Carlos Ricardo Bruce Montes de Oca win the next Lima mayoral elections?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-13
-expiryDate: 2026-12-31
-tags: ["ai", "federal-reserve", "politics", "polymarket"]
-polymarketYes: 17.5
-polymarketNo: 82.5
-polymarketVolume: 9818
-polymarketUrl: "https://polymarket.com/event/will-the-us-federal-government-take-a-stake-in-openai"
+expiryDate: 2026-10-04
+tags: ["elections", "politics", "polymarket"]
+polymarketYes: 18.5
+polymarketNo: 81.5
+polymarketVolume: 9905
+polymarketUrl: "https://polymarket.com/event/will-carlos-ricardo-bruce-montes-de-oca-win-the-next-lima-mayoral-elections-20260724154000913"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 17.5% | 82.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 18.5% | 81.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-the-us-federal-government-take
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will the US federal government take a stake in OpenAI?"?
+### What are the current odds for "Will Carlos Ricardo Bruce Montes de Oca win the next Lima mayoral elections?"?
 
-As of August 13, 2026, Polymarket prices YES at 17.5%.
+As of August 13, 2026, Polymarket prices YES at 18.5%.
 
 ### Where can I trade on this prediction market?
 

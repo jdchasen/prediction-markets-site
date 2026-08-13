@@ -3,8 +3,8 @@ title: "UFC 330: Charles Johnson vs. Jose Ochoa (Flyweight, Main Card)"
 description: "UFC 330: Charles Johnson vs. Jose Ochoa (Flyweight, Main Card) Odds: 49.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "UFC 330: Charles Johnson vs. Jose Ochoa (Flyweight, Main Card)"
 category: "politics"
-status: "active"
-lastUpdated: 2026-08-12
+status: "settled"
+lastUpdated: 2026-08-13
 expiryDate: 2026-08-16
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 49.5

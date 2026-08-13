@@ -3,8 +3,8 @@ title: "Will the Ornn RTX 5090 Index be between $0.45 and $0.50 on August 31, 20
 description: "Will the Ornn RTX 5090 Index be between $0.45 and $0.50 on August 31, 2026? Odds: 54.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Ornn RTX 5090 Index be between $0.45 and $0.50 on August 31, 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-08-12
+status: "settled"
+lastUpdated: 2026-08-13
 expiryDate: 2026-08-31
 tags: ["politics", "polymarket"]
 polymarketYes: 54.5

@@ -1,14 +1,14 @@
 ---
 title: "Will Truist fail by end of 2026?"
-description: "Will Truist fail by end of 2026? Odds: 3.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Truist fail by end of 2026? Odds: 3.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Truist fail by end of 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-08-12
+lastUpdated: 2026-08-13
 expiryDate: 2026-12-31
 tags: ["ai", "politics", "polymarket"]
-polymarketYes: 3.5
-polymarketNo: 96.5
+polymarketYes: 3.9
+polymarketNo: 96.2
 polymarketVolume: 9973
 polymarketUrl: "https://polymarket.com/event/will-truist-fail-by-end-of-2026"
 ---
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-truist-fail-by-end-of-2026"
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 3.5% | 96.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 3.9% | 96.2% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-truist-fail-by-end-of-2026"
 
 ### What are the current odds for "Will Truist fail by end of 2026?"?
 
-As of August 12, 2026, Polymarket prices YES at 3.5%.
+As of August 13, 2026, Polymarket prices YES at 3.9%.
 
 ### Where can I trade on this prediction market?
 

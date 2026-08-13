@@ -3,8 +3,8 @@ title: "Will Gold (XAUUSD) hit (HIGH) $4,700 in August?"
 description: "Will Gold (XAUUSD) hit (HIGH) $4,700 in August? Odds: 20.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Gold (XAUUSD) hit (HIGH) $4,700 in August?"
 category: "finance"
-status: "active"
-lastUpdated: 2026-08-12
+status: "settled"
+lastUpdated: 2026-08-13
 expiryDate: 2026-09-01
 tags: ["finance", "polymarket"]
 polymarketYes: 20.9
