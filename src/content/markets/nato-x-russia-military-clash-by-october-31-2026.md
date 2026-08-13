@@ -1,15 +1,15 @@
 ---
 title: "NATO x Russia military clash by October 31, 2026?"
-description: "NATO x Russia military clash by October 31, 2026? Odds: 8.5% YES on Polymarket. See live prices and trade this market."
+description: "NATO x Russia military clash by October 31, 2026? Odds: 7.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "NATO x Russia military clash by October 31, 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-13
 expiryDate: 2026-10-31
 tags: ["politics", "polymarket"]
-polymarketYes: 8.5
-polymarketNo: 91.5
-polymarketVolume: 98842
+polymarketYes: 7.5
+polymarketNo: 92.5
+polymarketVolume: 99035
 polymarketUrl: "https://polymarket.com/event/nato-x-russia-military-clash-by-october-31-2026"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/nato-x-russia-military-clash-by-oct
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 8.5% | 91.5% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 7.5% | 92.5% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Eric Trump win the 2028 Republican presidential nomination?](/odds/will-eric-trump-win-the-2028-republican-presidential-nomination) — 0% YES
 - [Will Crude Oil reach a new all-time high by September 30?](/odds/will-crude-oil-reach-a-new-all-time-high-by-september-30) — 4% YES
-- [Will Samuel Alito announce his retirement by September 30, 2026?](/odds/will-samuel-alito-announce-his-retirement-by-september-30-2026) — 2% YES
+- [Chicago Cubs vs. Washington Nationals](/odds/chicago-cubs-vs-washington-nationals) — 2% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "NATO x Russia military clash by October 31, 2026?"?
 
-As of August 13, 2026, Polymarket prices YES at 8.5%.
+As of August 13, 2026, Polymarket prices YES at 7.5%.
 
 ### Where can I trade on this prediction market?
 

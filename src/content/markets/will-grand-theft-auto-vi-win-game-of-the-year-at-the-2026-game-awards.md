@@ -1,22 +1,23 @@
 ---
-title: "Will the Democrats win the Tennessee Senate race in 2026?"
-description: "Will the Democrats win the Tennessee Senate race in 2026? Odds: 2.3% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will the Democrats win the Tennessee Senate race in 2026?"
+title: "Will Grand Theft Auto VI win Game of the Year at the 2026 Game Awards?"
+description: "Will Grand Theft Auto VI win Game of the Year at the 2026 Game Awards? Odds: 58.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Grand Theft Auto VI win Game of the Year at the 2026 Game Awards?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-13
+expiryDate: 2026-12-10
 tags: ["politics", "polymarket"]
-polymarketYes: 2.3
-polymarketNo: 97.7
-polymarketVolume: 9863
-polymarketUrl: "https://polymarket.com/event/will-the-democrats-win-the-tennessee-senate-race-in-2026"
+polymarketYes: 58.5
+polymarketNo: 41.5
+polymarketVolume: 9913
+polymarketUrl: "https://polymarket.com/event/will-grand-theft-auto-vi-win-game-of-the-year-at-the-2026-game-awards-20260804145651075"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 2.3% | 97.7% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 58.5% | 41.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -26,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-the-democrats-win-the-tennesse
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will the Democrats win the Tennessee Senate race in 2026?"?
+### What are the current odds for "Will Grand Theft Auto VI win Game of the Year at the 2026 Game Awards?"?
 
-As of August 13, 2026, Polymarket prices YES at 2.3%.
+As of August 13, 2026, Polymarket prices YES at 58.5%.
 
 ### Where can I trade on this prediction market?
 

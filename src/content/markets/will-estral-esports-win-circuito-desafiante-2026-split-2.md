@@ -3,7 +3,7 @@ title: "Will Estral Esports Win Circuito Desafiante 2026 Split 2"
 description: "Will Estral Esports Win Circuito Desafiante 2026 Split 2 Odds: 62.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Estral Esports Win Circuito Desafiante 2026 Split 2"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-08-13
 tags: ["politics", "polymarket"]
 polymarketYes: 62.0

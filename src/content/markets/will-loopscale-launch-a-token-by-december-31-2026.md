@@ -19,6 +19,11 @@ polymarketUrl: "https://polymarket.com/event/will-loopscale-launch-a-token-by-de
 |----------|-----|-----|--------|-------|
 | Polymarket | 13.5% | 86.5% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
+## Related Markets
+
+- [Will Bitcoin reach $70,000 August 10-16?](/odds/will-bitcoin-reach-70000-august-10-16) — 1% YES
+- [Will Bitcoin reach $74,000 August 10-16?](/odds/will-bitcoin-reach-74000-august-10-16) — 0% YES
+
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Loopscale launch a token by December 31, 2026?"?

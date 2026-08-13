@@ -1,14 +1,14 @@
 ---
 title: "Will Virginia use a new congressional map for the 2026 United States midterm elections?"
-description: "Will Virginia use a new congressional map for the 2026 United States midterm elections? Odds: 7.2% YES on Polymarket. See live prices and trade this market."
+description: "Will Virginia use a new congressional map for the 2026 United States midterm elections? Odds: 7.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Virginia use a new congressional map for the 2026 United States midterm elections?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-13
 expiryDate: 2026-11-03
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 7.2
-polymarketNo: 92.8
+polymarketYes: 7.1
+polymarketNo: 92.9
 polymarketVolume: 9835
 polymarketUrl: "https://polymarket.com/event/will-virginia-use-a-new-congressional-map-for-the-2026-united-states-midterm-elections"
 ---
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-virginia-use-a-new-congression
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 7.2% | 92.8% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 7.1% | 92.9% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Eric Trump win the 2028 Republican presidential nomination?](/odds/will-eric-trump-win-the-2028-republican-presidential-nomination) — 0% YES
 - [Will Crude Oil reach a new all-time high by September 30?](/odds/will-crude-oil-reach-a-new-all-time-high-by-september-30) — 4% YES
-- [Will Samuel Alito announce his retirement by September 30, 2026?](/odds/will-samuel-alito-announce-his-retirement-by-september-30-2026) — 2% YES
+- [Chicago Cubs vs. Washington Nationals](/odds/chicago-cubs-vs-washington-nationals) — 2% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Virginia use a new congressional map for the 2026 United States midterm elections?"?
 
-As of August 13, 2026, Polymarket prices YES at 7.2%.
+As of August 13, 2026, Polymarket prices YES at 7.1%.
 
 ### Where can I trade on this prediction market?
 
