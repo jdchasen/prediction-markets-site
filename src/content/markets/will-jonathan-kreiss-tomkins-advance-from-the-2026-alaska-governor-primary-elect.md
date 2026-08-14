@@ -3,7 +3,7 @@ title: "Will Jonathan Kreiss-Tomkins advance from the 2026 Alaska Governor prima
 description: "Will Jonathan Kreiss-Tomkins advance from the 2026 Alaska Governor primary election? Odds: 78.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Jonathan Kreiss-Tomkins advance from the 2026 Alaska Governor primary election?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-08-14
 expiryDate: 2026-08-18
 tags: ["elections", "politics", "polymarket"]

@@ -1,22 +1,22 @@
 ---
-title: "Will the Democrats win the Tennessee Senate race in 2026?"
-description: "Will the Democrats win the Tennessee Senate race in 2026? Odds: 2.3% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will the Democrats win the Tennessee Senate race in 2026?"
+title: "Will Democratic House incumbents not win in between seven and nine nominating elections in the 2026 cycle?"
+description: "Will Democratic House incumbents not win in between seven and nine nominating elections in the 2026 cycle? Odds: 34.6% YES on Polymarket. See live prices and..."
+marketQuestion: "Will Democratic House incumbents not win in between seven and nine nominating elections in the 2026 cycle?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-14
-tags: ["politics", "polymarket"]
-polymarketYes: 2.3
-polymarketNo: 97.7
-polymarketVolume: 9863
-polymarketUrl: "https://polymarket.com/event/will-the-democrats-win-the-tennessee-senate-race-in-2026"
+tags: ["elections", "politics", "polymarket"]
+polymarketYes: 34.6
+polymarketNo: 65.4
+polymarketVolume: 9898
+polymarketUrl: "https://polymarket.com/event/will-democratic-house-incumbents-not-win-in-between-seven-and-nine-nominating-elections-in-the-2026-cycle"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 2.3% | 97.7% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 34.6% | 65.4% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -26,9 +26,9 @@ polymarketUrl: "https://polymarket.com/event/will-the-democrats-win-the-tennesse
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will the Democrats win the Tennessee Senate race in 2026?"?
+### What are the current odds for "Will Democratic House incumbents not win in between seven and nine nominating elections in the 2026 cycle?"?
 
-As of August 14, 2026, Polymarket prices YES at 2.3%.
+As of August 14, 2026, Polymarket prices YES at 34.6%.
 
 ### Where can I trade on this prediction market?
 

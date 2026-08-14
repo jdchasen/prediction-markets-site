@@ -3,7 +3,7 @@ title: "Will Carlos Ricardo Bruce Montes de Oca win the next Lima mayoral electi
 description: "Will Carlos Ricardo Bruce Montes de Oca win the next Lima mayoral elections? Odds: 23.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Carlos Ricardo Bruce Montes de Oca win the next Lima mayoral elections?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-08-14
 expiryDate: 2026-10-04
 tags: ["elections", "politics", "polymarket"]

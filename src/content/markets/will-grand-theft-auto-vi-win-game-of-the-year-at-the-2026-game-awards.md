@@ -3,7 +3,7 @@ title: "Will Grand Theft Auto VI win Game of the Year at the 2026 Game Awards?"
 description: "Will Grand Theft Auto VI win Game of the Year at the 2026 Game Awards? Odds: 61.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Grand Theft Auto VI win Game of the Year at the 2026 Game Awards?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-08-14
 expiryDate: 2026-12-10
 tags: ["politics", "polymarket"]

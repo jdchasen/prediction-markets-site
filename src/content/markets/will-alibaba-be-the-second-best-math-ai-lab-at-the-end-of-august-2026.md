@@ -3,7 +3,7 @@ title: "Will Alibaba be the second-best Math AI lab at the end of August 2026?"
 description: "Will Alibaba be the second-best Math AI lab at the end of August 2026? Odds: 12.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Alibaba be the second-best Math AI lab at the end of August 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-08-14
 expiryDate: 2026-08-31
 tags: ["ai", "politics", "polymarket"]
