@@ -1,15 +1,15 @@
 ---
 title: "Will Natural Gas (NG) hit (HIGH) $3.00 in August?"
-description: "Will Natural Gas (NG) hit (HIGH) $3.00 in August? Odds: 33.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Natural Gas (NG) hit (HIGH) $3.00 in August? Odds: 35.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Natural Gas (NG) hit (HIGH) $3.00 in August?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-08-13
+lastUpdated: 2026-08-14
 expiryDate: 2026-09-01
 tags: ["politics", "polymarket"]
-polymarketYes: 33.5
-polymarketNo: 66.5
-polymarketVolume: 9863
+polymarketYes: 35.5
+polymarketNo: 64.5
+polymarketVolume: 9881
 polymarketUrl: "https://polymarket.com/event/will-ng-reach-3-00-in-august-2026"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-ng-reach-3-00-in-august-2026"
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 33.5% | 66.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 35.5% | 64.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Eric Trump win the 2028 Republican presidential nomination?](/odds/will-eric-trump-win-the-2028-republican-presidential-nomination) — 0% YES
-- [Will Crude Oil reach a new all-time high by September 30?](/odds/will-crude-oil-reach-a-new-all-time-high-by-september-30) — 4% YES
-- [Chicago Cubs vs. Washington Nationals](/odds/chicago-cubs-vs-washington-nationals) — 2% YES
+- [Will Samuel Alito announce his retirement by September 30, 2026?](/odds/will-samuel-alito-announce-his-retirement-by-september-30-2026) — 2% YES
+- [Will Yabloko gain the most seats in the next Russian parliamentary election?](/odds/will-yabloko-gain-the-most-seats-in-the-next-russian-parliamentary-election) — 0% YES
+- [NYSE marketwide circuit breaker before 2027?](/odds/nyse-marketwide-circuit-breaker-before-2027) — 14% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Natural Gas (NG) hit (HIGH) $3.00 in August?"?
 
-As of August 13, 2026, Polymarket prices YES at 33.5%.
+As of August 14, 2026, Polymarket prices YES at 35.5%.
 
 ### Where can I trade on this prediction market?
 

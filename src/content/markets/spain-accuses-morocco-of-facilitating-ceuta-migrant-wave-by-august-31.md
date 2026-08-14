@@ -3,8 +3,8 @@ title: "Spain accuses Morocco of facilitating Ceuta migrant wave by August 31?"
 description: "Spain accuses Morocco of facilitating Ceuta migrant wave by August 31? Odds: 2.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Spain accuses Morocco of facilitating Ceuta migrant wave by August 31?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-08-13
+status: "settled"
+lastUpdated: 2026-08-14
 expiryDate: 2026-08-31
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 2.4

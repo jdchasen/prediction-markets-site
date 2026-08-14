@@ -1,14 +1,14 @@
 ---
 title: "Will MicroStrategy be margin called in 2026?"
-description: "Will MicroStrategy be margin called in 2026? Odds: 3.5% YES on Polymarket. See live prices and trade this market."
+description: "Will MicroStrategy be margin called in 2026? Odds: 3.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will MicroStrategy be margin called in 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-08-13
+lastUpdated: 2026-08-14
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]
-polymarketYes: 3.5
-polymarketNo: 96.5
+polymarketYes: 3.4
+polymarketNo: 96.6
 polymarketVolume: 99159
 polymarketUrl: "https://polymarket.com/event/will-microstrategy-be-margin-called-in-2026"
 ---
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-microstrategy-be-margin-called
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 3.5% | 96.5% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 3.4% | 96.6% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Eric Trump win the 2028 Republican presidential nomination?](/odds/will-eric-trump-win-the-2028-republican-presidential-nomination) — 0% YES
-- [Will Crude Oil reach a new all-time high by September 30?](/odds/will-crude-oil-reach-a-new-all-time-high-by-september-30) — 4% YES
-- [Chicago Cubs vs. Washington Nationals](/odds/chicago-cubs-vs-washington-nationals) — 2% YES
+- [Will Samuel Alito announce his retirement by September 30, 2026?](/odds/will-samuel-alito-announce-his-retirement-by-september-30-2026) — 2% YES
+- [Will Yabloko gain the most seats in the next Russian parliamentary election?](/odds/will-yabloko-gain-the-most-seats-in-the-next-russian-parliamentary-election) — 0% YES
+- [NYSE marketwide circuit breaker before 2027?](/odds/nyse-marketwide-circuit-breaker-before-2027) — 14% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will MicroStrategy be margin called in 2026?"?
 
-As of August 13, 2026, Polymarket prices YES at 3.5%.
+As of August 14, 2026, Polymarket prices YES at 3.4%.
 
 ### Where can I trade on this prediction market?
 

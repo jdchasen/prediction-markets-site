@@ -3,8 +3,8 @@ title: "Will Crude Oil reach a new all-time high by September 30?"
 description: "Will Crude Oil reach a new all-time high by September 30? Odds: 3.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Crude Oil reach a new all-time high by September 30?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-08-13
+status: "settled"
+lastUpdated: 2026-08-14
 expiryDate: 2026-09-30
 tags: ["politics", "polymarket"]
 polymarketYes: 3.5

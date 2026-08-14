@@ -3,8 +3,8 @@ title: "Chicago Cubs vs. Washington Nationals"
 description: "Chicago Cubs vs. Washington Nationals Odds: 2.3% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Chicago Cubs vs. Washington Nationals"
 category: "politics"
-status: "active"
-lastUpdated: 2026-08-13
+status: "settled"
+lastUpdated: 2026-08-14
 expiryDate: 2026-08-20
 tags: ["politics", "polymarket"]
 polymarketYes: 2.3

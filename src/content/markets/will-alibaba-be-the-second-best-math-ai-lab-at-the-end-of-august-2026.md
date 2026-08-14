@@ -1,23 +1,23 @@
 ---
-title: "Kylie Jenner and Timothée Chalamet engaged in 2026?"
-description: "Kylie Jenner and Timothée Chalamet engaged in 2026? Odds: 45.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Kylie Jenner and Timothée Chalamet engaged in 2026?"
+title: "Will Alibaba be the second-best Math AI lab at the end of August 2026?"
+description: "Will Alibaba be the second-best Math AI lab at the end of August 2026? Odds: 12.0% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Alibaba be the second-best Math AI lab at the end of August 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-14
-expiryDate: 2026-12-31
-tags: ["politics", "polymarket"]
-polymarketYes: 45.5
-polymarketNo: 54.5
-polymarketVolume: 9903
-polymarketUrl: "https://polymarket.com/event/kylie-jenner-and-timothe-chalamet-engaged-in-2026"
+expiryDate: 2026-08-31
+tags: ["ai", "politics", "polymarket"]
+polymarketYes: 12.0
+polymarketNo: 87.9
+polymarketVolume: 9974
+polymarketUrl: "https://polymarket.com/event/will-alibaba-be-the-second-best-math-ai-lab-at-the-end-of-august-2026-20260720225207700"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 45.5% | 54.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 12.0% | 87.9% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/kylie-jenner-and-timothe-chalamet-e
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Kylie Jenner and Timothée Chalamet engaged in 2026?"?
+### What are the current odds for "Will Alibaba be the second-best Math AI lab at the end of August 2026?"?
 
-As of August 14, 2026, Polymarket prices YES at 45.5%.
+As of August 14, 2026, Polymarket prices YES at 12.0%.
 
 ### Where can I trade on this prediction market?
 

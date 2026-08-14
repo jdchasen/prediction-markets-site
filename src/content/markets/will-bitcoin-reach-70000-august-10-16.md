@@ -3,8 +3,8 @@ title: "Will Bitcoin reach $70,000 August 10-16?"
 description: "Will Bitcoin reach $70,000 August 10-16? Odds: 1.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Bitcoin reach $70,000 August 10-16?"
 category: "crypto"
-status: "active"
-lastUpdated: 2026-08-13
+status: "settled"
+lastUpdated: 2026-08-14
 expiryDate: 2026-08-17
 tags: ["bitcoin", "crypto", "polymarket"]
 polymarketYes: 1.1

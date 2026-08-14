@@ -3,8 +3,8 @@ title: "Will Steve Friess be the WY-AL Republican nominee?"
 description: "Will Steve Friess be the WY-AL Republican nominee? Odds: 55.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Steve Friess be the WY-AL Republican nominee?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-08-13
+status: "settled"
+lastUpdated: 2026-08-14
 expiryDate: 2026-08-18
 tags: ["politics", "polymarket"]
 polymarketYes: 55.5

@@ -3,8 +3,8 @@ title: "Will Geraldo Alckmin finish in third place in the first round of the 202
 description: "Will Geraldo Alckmin finish in third place in the first round of the 2026 Brazilian presidential election? Odds: 0.1% YES on Polymarket. See live prices and ..."
 marketQuestion: "Will Geraldo Alckmin finish in third place in the first round of the 2026 Brazilian presidential election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-08-13
+status: "settled"
+lastUpdated: 2026-08-14
 expiryDate: 2026-10-04
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.1

@@ -1,15 +1,15 @@
 ---
 title: "Will the US federal government take a stake in OpenAI?"
-description: "Will the US federal government take a stake in OpenAI? Odds: 17.5% YES on Polymarket. See live prices and trade this market."
+description: "Will the US federal government take a stake in OpenAI? Odds: 24.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the US federal government take a stake in OpenAI?"
 category: "politics"
-status: "settled"
-lastUpdated: 2026-08-13
+status: "active"
+lastUpdated: 2026-08-14
 expiryDate: 2026-12-31
 tags: ["ai", "federal-reserve", "politics", "polymarket"]
-polymarketYes: 17.5
-polymarketNo: 82.5
-polymarketVolume: 9818
+polymarketYes: 24.0
+polymarketNo: 76.0
+polymarketVolume: 9969
 polymarketUrl: "https://polymarket.com/event/will-the-us-federal-government-take-a-stake-in-openai"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-the-us-federal-government-take
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 17.5% | 82.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 24.0% | 76.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Eric Trump win the 2028 Republican presidential nomination?](/odds/will-eric-trump-win-the-2028-republican-presidential-nomination) — 0% YES
-- [Will Crude Oil reach a new all-time high by September 30?](/odds/will-crude-oil-reach-a-new-all-time-high-by-september-30) — 4% YES
 - [Will Samuel Alito announce his retirement by September 30, 2026?](/odds/will-samuel-alito-announce-his-retirement-by-september-30-2026) — 2% YES
+- [Will Yabloko gain the most seats in the next Russian parliamentary election?](/odds/will-yabloko-gain-the-most-seats-in-the-next-russian-parliamentary-election) — 0% YES
+- [NYSE marketwide circuit breaker before 2027?](/odds/nyse-marketwide-circuit-breaker-before-2027) — 14% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will the US federal government take a stake in OpenAI?"?
 
-As of August 13, 2026, Polymarket prices YES at 17.5%.
+As of August 14, 2026, Polymarket prices YES at 24.0%.
 
 ### Where can I trade on this prediction market?
 

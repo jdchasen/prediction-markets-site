@@ -1,23 +1,23 @@
 ---
-title: "Kylie Jenner and Timothée Chalamet engaged in 2026?"
-description: "Kylie Jenner and Timothée Chalamet engaged in 2026? Odds: 45.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Kylie Jenner and Timothée Chalamet engaged in 2026?"
+title: "Will the next diplomatic US-Iran meeting be in another Middle East/North Africa country by September 30, 2026?"
+description: "Will the next diplomatic US-Iran meeting be in another Middle East/North Africa country by September 30, 2026? Odds: 0.1% YES on Polymarket. See live prices ..."
+marketQuestion: "Will the next diplomatic US-Iran meeting be in another Middle East/North Africa country by September 30, 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-14
-expiryDate: 2026-12-31
+expiryDate: 2026-09-30
 tags: ["politics", "polymarket"]
-polymarketYes: 45.5
-polymarketNo: 54.5
-polymarketVolume: 9903
-polymarketUrl: "https://polymarket.com/event/kylie-jenner-and-timothe-chalamet-engaged-in-2026"
+polymarketYes: 0.1
+polymarketNo: 99.9
+polymarketVolume: 98404
+polymarketUrl: "https://polymarket.com/event/will-the-next-diplomatic-us-iran-meeting-be-in-another-middle-eastnorth-africa-country-by-september-30-2026-20260622185050779"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 45.5% | 54.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.1% | 99.9% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/kylie-jenner-and-timothe-chalamet-e
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Kylie Jenner and Timothée Chalamet engaged in 2026?"?
+### What are the current odds for "Will the next diplomatic US-Iran meeting be in another Middle East/North Africa country by September 30, 2026?"?
 
-As of August 14, 2026, Polymarket prices YES at 45.5%.
+As of August 14, 2026, Polymarket prices YES at 0.1%.
 
 ### Where can I trade on this prediction market?
 

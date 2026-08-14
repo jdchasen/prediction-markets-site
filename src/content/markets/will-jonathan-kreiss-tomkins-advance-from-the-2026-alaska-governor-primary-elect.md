@@ -1,23 +1,23 @@
 ---
-title: "Kylie Jenner and Timothée Chalamet engaged in 2026?"
-description: "Kylie Jenner and Timothée Chalamet engaged in 2026? Odds: 45.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Kylie Jenner and Timothée Chalamet engaged in 2026?"
+title: "Will Jonathan Kreiss-Tomkins advance from the 2026 Alaska Governor primary election?"
+description: "Will Jonathan Kreiss-Tomkins advance from the 2026 Alaska Governor primary election? Odds: 78.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Jonathan Kreiss-Tomkins advance from the 2026 Alaska Governor primary election?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-14
-expiryDate: 2026-12-31
-tags: ["politics", "polymarket"]
-polymarketYes: 45.5
-polymarketNo: 54.5
-polymarketVolume: 9903
-polymarketUrl: "https://polymarket.com/event/kylie-jenner-and-timothe-chalamet-engaged-in-2026"
+expiryDate: 2026-08-18
+tags: ["elections", "politics", "polymarket"]
+polymarketYes: 78.5
+polymarketNo: 21.5
+polymarketVolume: 9840
+polymarketUrl: "https://polymarket.com/event/will-jonathan-kreiss-tomkins-advance-from-the-2026-alaska-governor-primary-election"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 45.5% | 54.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 78.5% | 21.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/kylie-jenner-and-timothe-chalamet-e
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Kylie Jenner and Timothée Chalamet engaged in 2026?"?
+### What are the current odds for "Will Jonathan Kreiss-Tomkins advance from the 2026 Alaska Governor primary election?"?
 
-As of August 14, 2026, Polymarket prices YES at 45.5%.
+As of August 14, 2026, Polymarket prices YES at 78.5%.
 
 ### Where can I trade on this prediction market?
 

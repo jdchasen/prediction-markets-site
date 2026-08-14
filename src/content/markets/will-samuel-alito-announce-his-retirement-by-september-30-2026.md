@@ -1,14 +1,14 @@
 ---
 title: "Will Samuel Alito announce his retirement by September 30, 2026?"
-description: "Will Samuel Alito announce his retirement by September 30, 2026? Odds: 2.3% YES on Polymarket. See live prices and trade this market."
+description: "Will Samuel Alito announce his retirement by September 30, 2026? Odds: 2.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Samuel Alito announce his retirement by September 30, 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-08-13
+lastUpdated: 2026-08-14
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 2.3
-polymarketNo: 97.7
+polymarketYes: 2.1
+polymarketNo: 98.0
 polymarketVolume: 985888
 polymarketUrl: "https://polymarket.com/event/will-samuel-alito-announce-his-retirement-by-september-30-2026-20260630151901966"
 ---
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-samuel-alito-announce-his-reti
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 2.3% | 97.7% | $986K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 2.1% | 98.0% | $986K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Eric Trump win the 2028 Republican presidential nomination?](/odds/will-eric-trump-win-the-2028-republican-presidential-nomination) — 0% YES
-- [Will Crude Oil reach a new all-time high by September 30?](/odds/will-crude-oil-reach-a-new-all-time-high-by-september-30) — 4% YES
-- [Chicago Cubs vs. Washington Nationals](/odds/chicago-cubs-vs-washington-nationals) — 2% YES
+- [Will Yabloko gain the most seats in the next Russian parliamentary election?](/odds/will-yabloko-gain-the-most-seats-in-the-next-russian-parliamentary-election) — 0% YES
+- [NYSE marketwide circuit breaker before 2027?](/odds/nyse-marketwide-circuit-breaker-before-2027) — 14% YES
+- [Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?](/odds/will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-dec) — 11% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Samuel Alito announce his retirement by September 30, 2026?"?
 
-As of August 13, 2026, Polymarket prices YES at 2.3%.
+As of August 14, 2026, Polymarket prices YES at 2.1%.
 
 ### Where can I trade on this prediction market?
 
