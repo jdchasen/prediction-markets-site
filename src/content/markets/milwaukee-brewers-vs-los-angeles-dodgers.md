@@ -3,7 +3,7 @@ title: "Milwaukee Brewers vs. Los Angeles Dodgers"
 description: "Milwaukee Brewers vs. Los Angeles Dodgers Odds: 53.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Milwaukee Brewers vs. Los Angeles Dodgers"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-08-15
 expiryDate: 2026-08-22
 tags: ["politics", "polymarket"]

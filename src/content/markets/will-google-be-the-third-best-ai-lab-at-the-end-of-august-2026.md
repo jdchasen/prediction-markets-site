@@ -1,23 +1,23 @@
 ---
-title: "Will Aldo Rebelo finish in third place in the first round of the 2026 Brazilian presidential election?"
-description: "Will Aldo Rebelo finish in third place in the first round of the 2026 Brazilian presidential election? Odds: 0.1% YES on Polymarket. See live prices and trad..."
-marketQuestion: "Will Aldo Rebelo finish in third place in the first round of the 2026 Brazilian presidential election?"
+title: "Will Google be the third-best AI lab at the end of August 2026?"
+description: "Will Google be the third-best AI lab at the end of August 2026? Odds: 44.0% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Google be the third-best AI lab at the end of August 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-15
-expiryDate: 2026-10-04
-tags: ["elections", "politics", "polymarket"]
-polymarketYes: 0.1
-polymarketNo: 100.0
-polymarketVolume: 9865
-polymarketUrl: "https://polymarket.com/event/will-aldo-rebelo-finish-in-third-place-in-the-first-round-of-the-2026-brazilian-presidential-election"
+expiryDate: 2026-08-31
+tags: ["ai", "politics", "polymarket"]
+polymarketYes: 44.0
+polymarketNo: 56.0
+polymarketVolume: 9907
+polymarketUrl: "https://polymarket.com/event/will-google-be-the-third-best-ai-lab-at-the-end-of-august-2026-20260720230611805"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.1% | 100.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 44.0% | 56.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-aldo-rebelo-finish-in-third-pl
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Aldo Rebelo finish in third place in the first round of the 2026 Brazilian presidential election?"?
+### What are the current odds for "Will Google be the third-best AI lab at the end of August 2026?"?
 
-As of August 15, 2026, Polymarket prices YES at 0.1%.
+As of August 15, 2026, Polymarket prices YES at 44.0%.
 
 ### Where can I trade on this prediction market?
 

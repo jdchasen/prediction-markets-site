@@ -1,13 +1,13 @@
 ---
 title: "Will G2 Esports Win the Shortest Game in LEC 2026 Summer Split?"
-description: "Will G2 Esports Win the Shortest Game in LEC 2026 Summer Split? Odds: 12.5% YES on Polymarket. See live prices and trade this market."
+description: "Will G2 Esports Win the Shortest Game in LEC 2026 Summer Split? Odds: 13.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will G2 Esports Win the Shortest Game in LEC 2026 Summer Split?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-15
 tags: ["politics", "polymarket"]
-polymarketYes: 12.5
-polymarketNo: 87.5
+polymarketYes: 13.0
+polymarketNo: 87.0
 polymarketVolume: 9844
 polymarketUrl: "https://polymarket.com/event/will-g2-esports-win-the-shortest-game-in-lec-2026-summer-split-20260730152244662"
 ---
@@ -16,19 +16,19 @@ polymarketUrl: "https://polymarket.com/event/will-g2-esports-win-the-shortest-ga
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 12.5% | 87.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 13.0% | 87.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Yabloko gain the most seats in the next Russian parliamentary election?](/odds/will-yabloko-gain-the-most-seats-in-the-next-russian-parliamentary-election) — 0% YES
+- [Will Josh Stein win the 2028 Democratic presidential nomination?](/odds/will-josh-stein-win-the-2028-democratic-presidential-nomination) — 0% YES
 - [Will Samuel Alito announce his retirement by September 30, 2026?](/odds/will-samuel-alito-announce-his-retirement-by-september-30-2026) — 2% YES
-- [NATO x Russia military clash by October 31, 2026?](/odds/nato-x-russia-military-clash-by-october-31-2026) — 8% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will G2 Esports Win the Shortest Game in LEC 2026 Summer Split?"?
 
-As of August 15, 2026, Polymarket prices YES at 12.5%.
+As of August 15, 2026, Polymarket prices YES at 13.0%.
 
 ### Where can I trade on this prediction market?
 

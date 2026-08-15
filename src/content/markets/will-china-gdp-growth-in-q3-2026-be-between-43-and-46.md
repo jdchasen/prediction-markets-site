@@ -9,7 +9,7 @@ expiryDate: 2026-10-20
 tags: ["economics", "polymarket"]
 polymarketYes: 47.5
 polymarketNo: 52.5
-polymarketVolume: 9736
+polymarketVolume: 9757
 polymarketUrl: "https://polymarket.com/event/will-china-gdp-growth-in-q3-2026-be-between-4pt3-and-4pt6-20260716161116878"
 ---
 
@@ -18,6 +18,10 @@ polymarketUrl: "https://polymarket.com/event/will-china-gdp-growth-in-q3-2026-be
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
 | Polymarket | 47.5% | 52.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+
+## Related Markets
+
+- [Will US GDP growth in Q3 2026 be greater than 3.0%?](/odds/will-us-gdp-growth-in-q3-2026-be-greater-than-30) — 37% YES
 
 ## Frequently Asked Questions
 

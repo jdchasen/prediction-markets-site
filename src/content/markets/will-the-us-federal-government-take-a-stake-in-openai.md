@@ -3,7 +3,7 @@ title: "Will the US federal government take a stake in OpenAI?"
 description: "Will the US federal government take a stake in OpenAI? Odds: 25.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the US federal government take a stake in OpenAI?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-08-15
 expiryDate: 2026-12-31
 tags: ["ai", "federal-reserve", "politics", "polymarket"]

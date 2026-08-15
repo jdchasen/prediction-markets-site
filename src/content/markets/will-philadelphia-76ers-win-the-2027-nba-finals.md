@@ -9,7 +9,7 @@ expiryDate: 2027-07-01
 tags: ["polymarket", "sports"]
 polymarketYes: 13.2
 polymarketNo: 86.9
-polymarketVolume: 985645
+polymarketVolume: 986890
 polymarketUrl: "https://polymarket.com/event/will-philadelphia-76ers-win-the-2027-nba-finals"
 ---
 
@@ -17,7 +17,11 @@ polymarketUrl: "https://polymarket.com/event/will-philadelphia-76ers-win-the-202
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 13.2% | 86.9% | $986K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 13.2% | 86.9% | $987K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+
+## Related Markets
+
+- [Will Arizona Cardinals win the 2027 NFL NFC Championship?](/odds/will-arizona-cardinals-win-the-2027-nfl-nfc-championship) — 1% YES
 
 ## Frequently Asked Questions
 

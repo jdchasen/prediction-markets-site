@@ -1,23 +1,23 @@
 ---
-title: "NYSE marketwide circuit breaker before 2027?"
-description: "NYSE marketwide circuit breaker before 2027? Odds: 14.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "NYSE marketwide circuit breaker before 2027?"
+title: "Will Santiago Abascal be the next Prime Minister of Spain?"
+description: "Will Santiago Abascal be the next Prime Minister of Spain? Odds: 5.7% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Santiago Abascal be the next Prime Minister of Spain?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-15
-expiryDate: 2026-12-31
-tags: ["politics", "polymarket"]
-polymarketYes: 14.5
-polymarketNo: 85.5
-polymarketVolume: 99543
-polymarketUrl: "https://polymarket.com/event/nyse-marketwide-circuit-breaker-before-2027"
+expiryDate: 2028-03-31
+tags: ["ai", "politics", "polymarket"]
+polymarketYes: 5.7
+polymarketNo: 94.3
+polymarketVolume: 9928
+polymarketUrl: "https://polymarket.com/event/will-santiago-abascal-be-the-next-prime-minister-of-spain-20260625005710104"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 14.5% | 85.5% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 5.7% | 94.3% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/nyse-marketwide-circuit-breaker-bef
 
 ## Frequently Asked Questions
 
-### What are the current odds for "NYSE marketwide circuit breaker before 2027?"?
+### What are the current odds for "Will Santiago Abascal be the next Prime Minister of Spain?"?
 
-As of August 15, 2026, Polymarket prices YES at 14.5%.
+As of August 15, 2026, Polymarket prices YES at 5.7%.
 
 ### Where can I trade on this prediction market?
 

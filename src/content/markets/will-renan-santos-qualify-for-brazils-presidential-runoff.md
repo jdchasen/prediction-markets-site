@@ -1,35 +1,35 @@
 ---
-title: "Will Shakira's monthly listeners figure hit 107m by August 31?"
-description: "Will Shakira's monthly listeners figure hit 107m by August 31? Odds: 95.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Shakira's monthly listeners figure hit 107m by August 31?"
+title: "Will Renan Santos qualify for Brazil's presidential runoff?"
+description: "Will Renan Santos qualify for Brazil's presidential runoff? Odds: 8.0% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Renan Santos qualify for Brazil's presidential runoff?"
 category: "politics"
-status: "settled"
+status: "active"
 lastUpdated: 2026-08-15
-expiryDate: 2026-08-31
+expiryDate: 2026-10-04
 tags: ["politics", "polymarket"]
-polymarketYes: 95.5
-polymarketNo: 4.5
-polymarketVolume: 9976
-polymarketUrl: "https://polymarket.com/event/will-shakiras-monthly-listeners-figure-hit-107m-by-august-31-20260723155943132"
+polymarketYes: 8.0
+polymarketNo: 92.0
+polymarketVolume: 9868
+polymarketUrl: "https://polymarket.com/event/will-renan-santos-qualify-for-brazils-presidential-runoff-20260617203623448"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 95.5% | 4.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 8.0% | 92.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Yabloko gain the most seats in the next Russian parliamentary election?](/odds/will-yabloko-gain-the-most-seats-in-the-next-russian-parliamentary-election) — 0% YES
+- [Will Josh Stein win the 2028 Democratic presidential nomination?](/odds/will-josh-stein-win-the-2028-democratic-presidential-nomination) — 0% YES
 - [Will Samuel Alito announce his retirement by September 30, 2026?](/odds/will-samuel-alito-announce-his-retirement-by-september-30-2026) — 2% YES
-- [NATO x Russia military clash by October 31, 2026?](/odds/nato-x-russia-military-clash-by-october-31-2026) — 8% YES
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Shakira's monthly listeners figure hit 107m by August 31?"?
+### What are the current odds for "Will Renan Santos qualify for Brazil's presidential runoff?"?
 
-As of August 15, 2026, Polymarket prices YES at 95.5%.
+As of August 15, 2026, Polymarket prices YES at 8.0%.
 
 ### Where can I trade on this prediction market?
 

@@ -3,7 +3,7 @@ title: "Will Alfonso Sánchez García win the 2027 Tlaxcala Governor Election?"
 description: "Will Alfonso Sánchez García win the 2027 Tlaxcala Governor Election? Odds: 35.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Alfonso Sánchez García win the 2027 Tlaxcala Governor Election?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-08-15
 expiryDate: 2027-06-06
 tags: ["elections", "politics", "polymarket"]
