@@ -4,7 +4,7 @@ description: "NATO x Russia military clash by October 31, 2026? Odds: 7.5% YES o
 marketQuestion: "NATO x Russia military clash by October 31, 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-08-14
+lastUpdated: 2026-08-15
 expiryDate: 2026-10-31
 tags: ["politics", "polymarket"]
 polymarketYes: 7.5
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/nato-x-russia-military-clash-by-oct
 
 ### What are the current odds for "NATO x Russia military clash by October 31, 2026?"?
 
-As of August 14, 2026, Polymarket prices YES at 7.5%.
+As of August 15, 2026, Polymarket prices YES at 7.5%.
 
 ### Where can I trade on this prediction market?
 

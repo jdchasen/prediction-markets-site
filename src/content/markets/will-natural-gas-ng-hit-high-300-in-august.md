@@ -3,8 +3,8 @@ title: "Will Natural Gas (NG) hit (HIGH) $3.00 in August?"
 description: "Will Natural Gas (NG) hit (HIGH) $3.00 in August? Odds: 35.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Natural Gas (NG) hit (HIGH) $3.00 in August?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-08-14
+status: "settled"
+lastUpdated: 2026-08-15
 expiryDate: 2026-09-01
 tags: ["politics", "polymarket"]
 polymarketYes: 35.5

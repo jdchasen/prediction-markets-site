@@ -1,16 +1,16 @@
 ---
-title: "Will David Crowley win the Wisconsin Democratic Governor primary by 2–3%?"
-description: "Will David Crowley win the Wisconsin Democratic Governor primary by 2–3%? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will David Crowley win the Wisconsin Democratic Governor primary by 2–3%?"
+title: "Will MiniMax have the best AI model at the end of September 2026?"
+description: "Will MiniMax have the best AI model at the end of September 2026? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will MiniMax have the best AI model at the end of September 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-15
-expiryDate: 2026-08-31
-tags: ["politics", "polymarket"]
+expiryDate: 2026-09-30
+tags: ["ai", "politics", "polymarket"]
 polymarketYes: 0.1
 polymarketNo: 99.9
-polymarketVolume: 9905
-polymarketUrl: "https://polymarket.com/event/will-david-crowley-win-the-wisconsin-democratic-governor-primary-by-23-20260812015550468"
+polymarketVolume: 9888
+polymarketUrl: "https://polymarket.com/event/will-minimax-have-the-best-ai-model-at-the-end-of-september-2026-20260717143137068"
 ---
 
 ## Current Odds
@@ -27,7 +27,7 @@ polymarketUrl: "https://polymarket.com/event/will-david-crowley-win-the-wisconsi
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will David Crowley win the Wisconsin Democratic Governor primary by 2–3%?"?
+### What are the current odds for "Will MiniMax have the best AI model at the end of September 2026?"?
 
 As of August 15, 2026, Polymarket prices YES at 0.1%.
 
@@ -37,6 +37,6 @@ You can trade this market on [Polymarket](https://polymarket.us/1762?utm_source=
 
 ## Learn More
 
-- [Will Oil Hit $100? March Crude Prediction Market Odds](/blog/will-oil-hit-100-march-crude-prediction-market-odds)
-- [Will MicroStrategy Sell Bitcoin? Market Odds](/blog/will-microstrategy-sell-bitcoin-market-odds)
+- [Will ETH Hit $4,500 in 2026? Live Market Odds](/blog/will-ethereum-reach-4500-in-2026-what-prediction-markets-say)
+- [Will Discord IPO in 2026? What Prediction Markets Say](/blog/will-discord-ipo-in-2026-what-prediction-markets-say)
 

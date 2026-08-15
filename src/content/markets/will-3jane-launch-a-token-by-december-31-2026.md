@@ -3,8 +3,8 @@ title: "Will 3jane launch a token by December 31, 2026?"
 description: "Will 3jane launch a token by December 31, 2026? Odds: 46.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will 3jane launch a token by December 31, 2026?"
 category: "crypto"
-status: "active"
-lastUpdated: 2026-08-14
+status: "settled"
+lastUpdated: 2026-08-15
 expiryDate: 2028-01-01
 tags: ["crypto", "polymarket"]
 polymarketYes: 46.5

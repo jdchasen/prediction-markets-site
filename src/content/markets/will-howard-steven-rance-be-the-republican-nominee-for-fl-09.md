@@ -3,8 +3,8 @@ title: "Will Howard Steven Rance be the Republican nominee for FL-09?"
 description: "Will Howard Steven Rance be the Republican nominee for FL-09? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Howard Steven Rance be the Republican nominee for FL-09?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-08-14
+status: "settled"
+lastUpdated: 2026-08-15
 expiryDate: 2026-08-18
 tags: ["politics", "polymarket"]
 polymarketYes: 0.1

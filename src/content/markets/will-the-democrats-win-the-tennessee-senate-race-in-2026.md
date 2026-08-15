@@ -4,7 +4,7 @@ description: "Will the Democrats win the Tennessee Senate race in 2026? Odds: 2.
 marketQuestion: "Will the Democrats win the Tennessee Senate race in 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-08-14
+lastUpdated: 2026-08-15
 tags: ["politics", "polymarket"]
 polymarketYes: 2.3
 polymarketNo: 97.7
@@ -28,7 +28,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-democrats-win-the-tennesse
 
 ### What are the current odds for "Will the Democrats win the Tennessee Senate race in 2026?"?
 
-As of August 14, 2026, Polymarket prices YES at 2.3%.
+As of August 15, 2026, Polymarket prices YES at 2.3%.
 
 ### Where can I trade on this prediction market?
 

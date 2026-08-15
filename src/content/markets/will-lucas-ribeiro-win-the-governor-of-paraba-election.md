@@ -4,7 +4,7 @@ description: "Will Lucas Ribeiro win the Governor of Paraíba election? Odds: 74
 marketQuestion: "Will Lucas Ribeiro win the Governor of Paraíba election?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-08-14
+lastUpdated: 2026-08-15
 expiryDate: 2026-10-05
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 74.0
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-lucas-ribeiro-win-the-governor
 
 ### What are the current odds for "Will Lucas Ribeiro win the Governor of Paraíba election?"?
 
-As of August 14, 2026, Polymarket prices YES at 74.0%.
+As of August 15, 2026, Polymarket prices YES at 74.0%.
 
 ### Where can I trade on this prediction market?
 

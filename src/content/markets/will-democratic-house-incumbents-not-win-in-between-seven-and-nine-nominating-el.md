@@ -3,8 +3,8 @@ title: "Will Democratic House incumbents not win in between seven and nine nomin
 description: "Will Democratic House incumbents not win in between seven and nine nominating elections in the 2026 cycle? Odds: 34.6% YES on Polymarket. See live prices and..."
 marketQuestion: "Will Democratic House incumbents not win in between seven and nine nominating elections in the 2026 cycle?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-08-14
+status: "settled"
+lastUpdated: 2026-08-15
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 34.6
 polymarketNo: 65.4

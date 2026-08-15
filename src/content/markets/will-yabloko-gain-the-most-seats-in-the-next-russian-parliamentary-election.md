@@ -4,12 +4,12 @@ description: "Will Yabloko gain the most seats in the next Russian parliamentary
 marketQuestion: "Will Yabloko gain the most seats in the next Russian parliamentary election?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-08-14
+lastUpdated: 2026-08-15
 expiryDate: 2026-09-30
 tags: ["ai", "elections", "politics", "polymarket"]
 polymarketYes: 0.4
 polymarketNo: 99.7
-polymarketVolume: 991183
+polymarketVolume: 993775
 polymarketUrl: "https://polymarket.com/event/will-yabloko-gain-the-most-seats-in-the-next-russian-parliamentary-election"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-yabloko-gain-the-most-seats-in
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.4% | 99.7% | $991K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.4% | 99.7% | $994K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-yabloko-gain-the-most-seats-in
 
 ### What are the current odds for "Will Yabloko gain the most seats in the next Russian parliamentary election?"?
 
-As of August 14, 2026, Polymarket prices YES at 0.4%.
+As of August 15, 2026, Polymarket prices YES at 0.4%.
 
 ### Where can I trade on this prediction market?
 

@@ -1,14 +1,14 @@
 ---
 title: "Will Beto O’Rourke announce a Presidential run before 2027?"
-description: "Will Beto O’Rourke announce a Presidential run before 2027? Odds: 1.9% YES on Polymarket. See live prices and trade this market."
+description: "Will Beto O’Rourke announce a Presidential run before 2027? Odds: 2.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Beto O’Rourke announce a Presidential run before 2027?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-08-14
+lastUpdated: 2026-08-15
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 1.9
-polymarketNo: 98.0
+polymarketYes: 2.5
+polymarketNo: 97.5
 polymarketVolume: 9894
 polymarketUrl: "https://polymarket.com/event/will-beto-orourke-announce-a-presidential-run-before-2027"
 ---
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-beto-orourke-announce-a-presid
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 1.9% | 98.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 2.5% | 97.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-beto-orourke-announce-a-presid
 
 ### What are the current odds for "Will Beto O’Rourke announce a Presidential run before 2027?"?
 
-As of August 14, 2026, Polymarket prices YES at 1.9%.
+As of August 15, 2026, Polymarket prices YES at 2.5%.
 
 ### Where can I trade on this prediction market?
 

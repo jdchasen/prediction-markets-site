@@ -1,23 +1,23 @@
 ---
-title: "Will Silver (XAGUSD) hit (LOW) $54 in August?"
-description: "Will Silver (XAGUSD) hit (LOW) $54 in August? Odds: 8.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Silver (XAGUSD) hit (LOW) $54 in August?"
+title: "Will the Democratic Party win the FL-10 House seat?"
+description: "Will the Democratic Party win the FL-10 House seat? Odds: 94.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will the Democratic Party win the FL-10 House seat?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-15
-expiryDate: 2026-09-01
+expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
-polymarketYes: 8.5
-polymarketNo: 91.5
-polymarketVolume: 9946
-polymarketUrl: "https://polymarket.com/event/will-xagusd-dip-to-54-in-august-2026"
+polymarketYes: 94.5
+polymarketNo: 5.5
+polymarketVolume: 9997
+polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-fl-10-house-seat"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 8.5% | 91.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 94.5% | 5.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-xagusd-dip-to-54-in-august-202
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Silver (XAGUSD) hit (LOW) $54 in August?"?
+### What are the current odds for "Will the Democratic Party win the FL-10 House seat?"?
 
-As of August 15, 2026, Polymarket prices YES at 8.5%.
+As of August 15, 2026, Polymarket prices YES at 94.5%.
 
 ### Where can I trade on this prediction market?
 

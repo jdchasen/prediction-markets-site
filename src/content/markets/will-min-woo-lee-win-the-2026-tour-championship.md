@@ -4,7 +4,7 @@ description: "Will Min Woo Lee win the 2026 TOUR Championship? Odds: 0.8% YES on
 marketQuestion: "Will Min Woo Lee win the 2026 TOUR Championship?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-08-14
+lastUpdated: 2026-08-15
 expiryDate: 2026-08-31
 tags: ["politics", "polymarket"]
 polymarketYes: 0.8
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-min-woo-lee-win-the-2026-tour-
 
 ### What are the current odds for "Will Min Woo Lee win the 2026 TOUR Championship?"?
 
-As of August 14, 2026, Polymarket prices YES at 0.8%.
+As of August 15, 2026, Polymarket prices YES at 0.8%.
 
 ### Where can I trade on this prediction market?
 

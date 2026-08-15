@@ -1,14 +1,14 @@
 ---
 title: "Will the US federal government take a stake in OpenAI?"
-description: "Will the US federal government take a stake in OpenAI? Odds: 29.5% YES on Polymarket. See live prices and trade this market."
+description: "Will the US federal government take a stake in OpenAI? Odds: 25.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the US federal government take a stake in OpenAI?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-08-14
+lastUpdated: 2026-08-15
 expiryDate: 2026-12-31
 tags: ["ai", "federal-reserve", "politics", "polymarket"]
-polymarketYes: 29.5
-polymarketNo: 70.5
+polymarketYes: 25.0
+polymarketNo: 75.0
 polymarketVolume: 9969
 polymarketUrl: "https://polymarket.com/event/will-the-us-federal-government-take-a-stake-in-openai"
 ---
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-us-federal-government-take
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 29.5% | 70.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 25.0% | 75.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-us-federal-government-take
 
 ### What are the current odds for "Will the US federal government take a stake in OpenAI?"?
 
-As of August 14, 2026, Polymarket prices YES at 29.5%.
+As of August 15, 2026, Polymarket prices YES at 25.0%.
 
 ### Where can I trade on this prediction market?
 
