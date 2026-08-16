@@ -3,7 +3,7 @@ title: "Will Tally Gotliv win the 2026 Likud party primary elections?"
 description: "Will Tally Gotliv win the 2026 Likud party primary elections? Odds: 6.6% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Tally Gotliv win the 2026 Likud party primary elections?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-08-16
 expiryDate: 2026-10-26
 tags: ["elections", "politics", "polymarket"]

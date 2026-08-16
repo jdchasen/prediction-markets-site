@@ -3,7 +3,7 @@ title: "Tom Holland as Spider-Man?"
 description: "Tom Holland as Spider-Man? Odds: 49.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Tom Holland as Spider-Man?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-08-16
 expiryDate: 2026-12-18
 tags: ["politics", "polymarket"]

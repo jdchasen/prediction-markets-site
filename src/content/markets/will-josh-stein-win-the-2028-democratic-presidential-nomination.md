@@ -22,8 +22,8 @@ polymarketUrl: "https://polymarket.com/event/will-josh-stein-win-the-2028-democr
 ## Related Markets
 
 - [Will Samuel Alito announce his retirement by September 30, 2026?](/odds/will-samuel-alito-announce-his-retirement-by-september-30-2026) — 2% YES
+- [Will the Republicans win the Iowa Senate race in 2026?](/odds/will-the-republicans-win-the-iowa-senate-race-in-2026) — 58% YES
 - [NATO x Russia military clash by October 31, 2026?](/odds/nato-x-russia-military-clash-by-october-31-2026) — 8% YES
-- [NYSE marketwide circuit breaker before 2027?](/odds/nyse-marketwide-circuit-breaker-before-2027) — 14% YES
 
 ## Frequently Asked Questions
 

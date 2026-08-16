@@ -9,7 +9,7 @@ expiryDate: 2026-10-31
 tags: ["politics", "polymarket"]
 polymarketYes: 8.0
 polymarketNo: 92.0
-polymarketVolume: 99847
+polymarketVolume: 99899
 polymarketUrl: "https://polymarket.com/event/nato-x-russia-military-clash-by-october-31-2026"
 ---
 
@@ -23,7 +23,7 @@ polymarketUrl: "https://polymarket.com/event/nato-x-russia-military-clash-by-oct
 
 - [Will Josh Stein win the 2028 Democratic presidential nomination?](/odds/will-josh-stein-win-the-2028-democratic-presidential-nomination) — 0% YES
 - [Will Samuel Alito announce his retirement by September 30, 2026?](/odds/will-samuel-alito-announce-his-retirement-by-september-30-2026) — 2% YES
-- [NYSE marketwide circuit breaker before 2027?](/odds/nyse-marketwide-circuit-breaker-before-2027) — 14% YES
+- [Will the Republicans win the Iowa Senate race in 2026?](/odds/will-the-republicans-win-the-iowa-senate-race-in-2026) — 58% YES
 
 ## Frequently Asked Questions
 

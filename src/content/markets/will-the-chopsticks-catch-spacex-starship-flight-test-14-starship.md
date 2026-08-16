@@ -3,7 +3,7 @@ title: "Will the chopsticks catch SpaceX Starship Flight Test 14 Starship?"
 description: "Will the chopsticks catch SpaceX Starship Flight Test 14 Starship? Odds: 18.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the chopsticks catch SpaceX Starship Flight Test 14 Starship?"
 category: "tech"
-status: "active"
+status: "settled"
 lastUpdated: 2026-08-16
 expiryDate: 2027-06-30
 tags: ["polymarket", "tech"]

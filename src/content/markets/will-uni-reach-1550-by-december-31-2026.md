@@ -1,15 +1,15 @@
 ---
 title: "Will UNI reach $15.50 by December 31, 2026?"
-description: "Will UNI reach $15.50 by December 31, 2026? Odds: 5.0% YES on Polymarket. See live prices and trade this market."
+description: "Will UNI reach $15.50 by December 31, 2026? Odds: 4.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will UNI reach $15.50 by December 31, 2026?"
 category: "politics"
-status: "settled"
-lastUpdated: 2026-08-13
+status: "active"
+lastUpdated: 2026-08-16
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]
-polymarketYes: 5.0
-polymarketNo: 95.0
-polymarketVolume: 9815
+polymarketYes: 4.0
+polymarketNo: 96.0
+polymarketVolume: 9827
 polymarketUrl: "https://polymarket.com/event/will-uni-reach-15pt50-by-december-31-2026"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-uni-reach-15pt50-by-december-3
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 5.0% | 95.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 4.0% | 96.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Eric Trump win the 2028 Republican presidential nomination?](/odds/will-eric-trump-win-the-2028-republican-presidential-nomination) — 0% YES
-- [Will Crude Oil reach a new all-time high by September 30?](/odds/will-crude-oil-reach-a-new-all-time-high-by-september-30) — 4% YES
+- [Will Josh Stein win the 2028 Democratic presidential nomination?](/odds/will-josh-stein-win-the-2028-democratic-presidential-nomination) — 0% YES
 - [Will Samuel Alito announce his retirement by September 30, 2026?](/odds/will-samuel-alito-announce-his-retirement-by-september-30-2026) — 2% YES
+- [Will the Republicans win the Iowa Senate race in 2026?](/odds/will-the-republicans-win-the-iowa-senate-race-in-2026) — 58% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will UNI reach $15.50 by December 31, 2026?"?
 
-As of August 12, 2026, Polymarket prices YES at 5.0%.
+As of August 16, 2026, Polymarket prices YES at 4.0%.
 
 ### Where can I trade on this prediction market?
 

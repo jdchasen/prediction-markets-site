@@ -3,7 +3,7 @@ title: "Chunichi Dragons vs. Yomiuri Giants"
 description: "Chunichi Dragons vs. Yomiuri Giants Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Chunichi Dragons vs. Yomiuri Giants"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-08-16
 expiryDate: 2026-08-23
 tags: ["politics", "polymarket"]

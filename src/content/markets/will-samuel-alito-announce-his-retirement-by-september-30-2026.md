@@ -9,7 +9,7 @@ expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 1.8
 polymarketNo: 98.2
-polymarketVolume: 988542
+polymarketVolume: 988590
 polymarketUrl: "https://polymarket.com/event/will-samuel-alito-announce-his-retirement-by-september-30-2026-20260630151901966"
 ---
 
@@ -22,8 +22,8 @@ polymarketUrl: "https://polymarket.com/event/will-samuel-alito-announce-his-reti
 ## Related Markets
 
 - [Will Josh Stein win the 2028 Democratic presidential nomination?](/odds/will-josh-stein-win-the-2028-democratic-presidential-nomination) — 0% YES
+- [Will the Republicans win the Iowa Senate race in 2026?](/odds/will-the-republicans-win-the-iowa-senate-race-in-2026) — 58% YES
 - [NATO x Russia military clash by October 31, 2026?](/odds/nato-x-russia-military-clash-by-october-31-2026) — 8% YES
-- [NYSE marketwide circuit breaker before 2027?](/odds/nyse-marketwide-circuit-breaker-before-2027) — 14% YES
 
 ## Frequently Asked Questions
 

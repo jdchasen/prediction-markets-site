@@ -3,8 +3,8 @@ title: "Will Petr Yan fight Deiveson Figueiredo next?"
 description: "Will Petr Yan fight Deiveson Figueiredo next? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Petr Yan fight Deiveson Figueiredo next?"
 category: "politics"
-status: "settled"
-lastUpdated: 2026-08-14
+status: "active"
+lastUpdated: 2026-08-16
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 0.1
@@ -21,15 +21,15 @@ polymarketUrl: "https://polymarket.com/event/will-petr-yan-fight-deiveson-figuei
 
 ## Related Markets
 
-- [Will Eric Trump win the 2028 Republican presidential nomination?](/odds/will-eric-trump-win-the-2028-republican-presidential-nomination) — 0% YES
-- [Will Crude Oil reach a new all-time high by September 30?](/odds/will-crude-oil-reach-a-new-all-time-high-by-september-30) — 4% YES
-- [Chicago Cubs vs. Washington Nationals](/odds/chicago-cubs-vs-washington-nationals) — 2% YES
+- [Will Josh Stein win the 2028 Democratic presidential nomination?](/odds/will-josh-stein-win-the-2028-democratic-presidential-nomination) — 0% YES
+- [Will Samuel Alito announce his retirement by September 30, 2026?](/odds/will-samuel-alito-announce-his-retirement-by-september-30-2026) — 2% YES
+- [Will the Republicans win the Iowa Senate race in 2026?](/odds/will-the-republicans-win-the-iowa-senate-race-in-2026) — 58% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Petr Yan fight Deiveson Figueiredo next?"?
 
-As of August 13, 2026, Polymarket prices YES at 0.1%.
+As of August 16, 2026, Polymarket prices YES at 0.1%.
 
 ### Where can I trade on this prediction market?
 

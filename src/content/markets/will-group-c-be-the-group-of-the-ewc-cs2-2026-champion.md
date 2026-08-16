@@ -3,7 +3,7 @@ title: "Will Group C be the group of the EWC CS2 2026 Champion?"
 description: "Will Group C be the group of the EWC CS2 2026 Champion? Odds: 29.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Group C be the group of the EWC CS2 2026 Champion?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-08-16
 tags: ["politics", "polymarket"]
 polymarketYes: 29.5

@@ -1,14 +1,14 @@
 ---
 title: "Kylie Jenner and Timothée Chalamet engaged in 2026?"
-description: "Kylie Jenner and Timothée Chalamet engaged in 2026? Odds: 22.5% YES on Polymarket. See live prices and trade this market."
+description: "Kylie Jenner and Timothée Chalamet engaged in 2026? Odds: 23.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Kylie Jenner and Timothée Chalamet engaged in 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-16
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 22.5
-polymarketNo: 77.5
+polymarketYes: 23.5
+polymarketNo: 76.5
 polymarketVolume: 9915
 polymarketUrl: "https://polymarket.com/event/kylie-jenner-and-timothe-chalamet-engaged-in-2026"
 ---
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/kylie-jenner-and-timothe-chalamet-e
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 22.5% | 77.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 23.5% | 76.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Josh Stein win the 2028 Democratic presidential nomination?](/odds/will-josh-stein-win-the-2028-democratic-presidential-nomination) — 0% YES
 - [Will Samuel Alito announce his retirement by September 30, 2026?](/odds/will-samuel-alito-announce-his-retirement-by-september-30-2026) — 2% YES
-- [NATO x Russia military clash by October 31, 2026?](/odds/nato-x-russia-military-clash-by-october-31-2026) — 8% YES
+- [Will the Republicans win the Iowa Senate race in 2026?](/odds/will-the-republicans-win-the-iowa-senate-race-in-2026) — 58% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Kylie Jenner and Timothée Chalamet engaged in 2026?"?
 
-As of August 16, 2026, Polymarket prices YES at 22.5%.
+As of August 16, 2026, Polymarket prices YES at 23.5%.
 
 ### Where can I trade on this prediction market?
 

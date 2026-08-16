@@ -1,14 +1,14 @@
 ---
 title: "Will Radu Burnete be the next Prime Minister of Romania?"
-description: "Will Radu Burnete be the next Prime Minister of Romania? Odds: 6.7% YES on Polymarket. See live prices and trade this market."
+description: "Will Radu Burnete be the next Prime Minister of Romania? Odds: 6.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Radu Burnete be the next Prime Minister of Romania?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-16
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 6.7
-polymarketNo: 93.3
+polymarketYes: 6.9
+polymarketNo: 93.1
 polymarketVolume: 98922
 polymarketUrl: "https://polymarket.com/event/will-radu-burnete-be-the-next-prime-minister-of-romania"
 ---
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-radu-burnete-be-the-next-prime
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 6.7% | 93.3% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 6.9% | 93.1% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Josh Stein win the 2028 Democratic presidential nomination?](/odds/will-josh-stein-win-the-2028-democratic-presidential-nomination) — 0% YES
 - [Will Samuel Alito announce his retirement by September 30, 2026?](/odds/will-samuel-alito-announce-his-retirement-by-september-30-2026) — 2% YES
-- [NATO x Russia military clash by October 31, 2026?](/odds/nato-x-russia-military-clash-by-october-31-2026) — 8% YES
+- [Will the Republicans win the Iowa Senate race in 2026?](/odds/will-the-republicans-win-the-iowa-senate-race-in-2026) — 58% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Radu Burnete be the next Prime Minister of Romania?"?
 
-As of August 16, 2026, Polymarket prices YES at 6.7%.
+As of August 16, 2026, Polymarket prices YES at 6.9%.
 
 ### Where can I trade on this prediction market?
 

@@ -1,14 +1,14 @@
 ---
 title: "Will DeepSeek have the best Chinese AI model at the end of September 2026?"
-description: "Will DeepSeek have the best Chinese AI model at the end of September 2026? Odds: 3.5% YES on Polymarket. See live prices and trade this market."
+description: "Will DeepSeek have the best Chinese AI model at the end of September 2026? Odds: 3.3% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will DeepSeek have the best Chinese AI model at the end of September 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-16
 expiryDate: 2026-09-30
 tags: ["ai", "politics", "polymarket"]
-polymarketYes: 3.5
-polymarketNo: 96.5
+polymarketYes: 3.3
+polymarketNo: 96.7
 polymarketVolume: 9933
 polymarketUrl: "https://polymarket.com/event/will-deepseek-have-the-best-chinese-ai-model-at-the-end-of-september-2026-20260717140852830"
 ---
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-deepseek-have-the-best-chinese
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 3.5% | 96.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 3.3% | 96.7% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Josh Stein win the 2028 Democratic presidential nomination?](/odds/will-josh-stein-win-the-2028-democratic-presidential-nomination) — 0% YES
 - [Will Samuel Alito announce his retirement by September 30, 2026?](/odds/will-samuel-alito-announce-his-retirement-by-september-30-2026) — 2% YES
-- [NATO x Russia military clash by October 31, 2026?](/odds/nato-x-russia-military-clash-by-october-31-2026) — 8% YES
+- [Will the Republicans win the Iowa Senate race in 2026?](/odds/will-the-republicans-win-the-iowa-senate-race-in-2026) — 58% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will DeepSeek have the best Chinese AI model at the end of September 2026?"?
 
-As of August 16, 2026, Polymarket prices YES at 3.5%.
+As of August 16, 2026, Polymarket prices YES at 3.3%.
 
 ### Where can I trade on this prediction market?
 

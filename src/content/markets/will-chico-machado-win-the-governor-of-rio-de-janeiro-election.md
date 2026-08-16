@@ -1,23 +1,23 @@
 ---
-title: "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?"
-description: "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027? Odds: 12.5% YES on Polymarket. See live prices and trade this..."
-marketQuestion: "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?"
+title: "Will Chico Machado win the Governor of Rio de Janeiro election?"
+description: "Will Chico Machado win the Governor of Rio de Janeiro election? Odds: 0.3% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Chico Machado win the Governor of Rio de Janeiro election?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-16
-expiryDate: 2027-12-31
-tags: ["politics", "polymarket"]
-polymarketYes: 12.5
-polymarketNo: 87.5
-polymarketVolume: 99210
-polymarketUrl: "https://polymarket.com/event/will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679"
+expiryDate: 2026-10-05
+tags: ["elections", "politics", "polymarket"]
+polymarketYes: 0.3
+polymarketNo: 99.7
+polymarketVolume: 9842
+polymarketUrl: "https://polymarket.com/event/will-chico-machado-win-the-governor-of-rio-de-janeiro-election-20260608202950328"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 12.5% | 87.5% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.3% | 99.7% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-an-international-court-find-is
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?"?
+### What are the current odds for "Will Chico Machado win the Governor of Rio de Janeiro election?"?
 
-As of August 16, 2026, Polymarket prices YES at 12.5%.
+As of August 16, 2026, Polymarket prices YES at 0.3%.
 
 ### Where can I trade on this prediction market?
 

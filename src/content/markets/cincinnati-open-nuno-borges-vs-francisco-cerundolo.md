@@ -3,7 +3,7 @@ title: "Cincinnati Open: Nuno Borges vs Francisco Cerundolo"
 description: "Cincinnati Open: Nuno Borges vs Francisco Cerundolo Odds: 55.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Cincinnati Open: Nuno Borges vs Francisco Cerundolo"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-08-16
 expiryDate: 2026-08-23
 tags: ["politics", "polymarket"]

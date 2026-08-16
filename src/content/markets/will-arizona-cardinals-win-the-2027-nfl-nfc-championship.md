@@ -22,6 +22,7 @@ polymarketUrl: "https://polymarket.com/event/will-arizona-cardinals-win-the-2027
 ## Related Markets
 
 - [Will Philadelphia 76ers win the 2027 NBA Finals?](/odds/will-philadelphia-76ers-win-the-2027-nba-finals) — 13% YES
+- [Will Joe Burrow win the 2026 NFL MVP?](/odds/will-joe-burrow-win-the-2026-nfl-mvp) — 9% YES
 
 ## Frequently Asked Questions
 

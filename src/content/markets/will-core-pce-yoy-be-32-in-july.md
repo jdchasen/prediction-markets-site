@@ -1,0 +1,40 @@
+---
+title: "Will Core PCE YoY be 3.2% in July?"
+description: "Will Core PCE YoY be 3.2% in July? Odds: 34.0% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Core PCE YoY be 3.2% in July?"
+category: "economics"
+status: "active"
+lastUpdated: 2026-08-16
+expiryDate: 2026-08-26
+tags: ["economics", "polymarket"]
+polymarketYes: 34.0
+polymarketNo: 66.0
+polymarketVolume: 9867
+polymarketUrl: "https://polymarket.com/event/will-core-pce-yoy-be-3pt2-in-july-20260731151543819"
+---
+
+## Current Odds
+
+| Platform | Yes | No | Volume | Trade |
+|----------|-----|-----|--------|-------|
+| Polymarket | 34.0% | 66.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+
+## Related Markets
+
+- [Bank of Mexico decreases interest rates by 25 bps after September 2026 meeting?](/odds/bank-of-mexico-decreases-interest-rates-by-25-bps-after-september-2026-meeting) — 6% YES
+
+## Frequently Asked Questions
+
+### What are the current odds for "Will Core PCE YoY be 3.2% in July?"?
+
+As of August 16, 2026, Polymarket prices YES at 34.0%.
+
+### Where can I trade on this prediction market?
+
+You can trade this market on [Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) (crypto-based).
+
+## Learn More
+
+- [Will Oil Hit $100? March Crude Prediction Market Odds](/blog/will-oil-hit-100-march-crude-prediction-market-odds)
+- [Will MicroStrategy Sell Bitcoin? Market Odds](/blog/will-microstrategy-sell-bitcoin-market-odds)
+
