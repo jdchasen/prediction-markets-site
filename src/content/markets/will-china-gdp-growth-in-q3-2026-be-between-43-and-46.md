@@ -1,15 +1,15 @@
 ---
 title: "Will China GDP growth in Q3 2026 be between 4.3% and 4.6%?"
-description: "Will China GDP growth in Q3 2026 be between 4.3% and 4.6%? Odds: 47.5% YES on Polymarket. See live prices and trade this market."
+description: "Will China GDP growth in Q3 2026 be between 4.3% and 4.6%? Odds: 48.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will China GDP growth in Q3 2026 be between 4.3% and 4.6%?"
 category: "economics"
 status: "active"
-lastUpdated: 2026-08-15
+lastUpdated: 2026-08-16
 expiryDate: 2026-10-20
 tags: ["economics", "polymarket"]
-polymarketYes: 47.5
-polymarketNo: 52.5
-polymarketVolume: 9757
+polymarketYes: 48.5
+polymarketNo: 51.5
+polymarketVolume: 9836
 polymarketUrl: "https://polymarket.com/event/will-china-gdp-growth-in-q3-2026-be-between-4pt3-and-4pt6-20260716161116878"
 ---
 
@@ -17,17 +17,13 @@ polymarketUrl: "https://polymarket.com/event/will-china-gdp-growth-in-q3-2026-be
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 47.5% | 52.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
-
-## Related Markets
-
-- [Will US GDP growth in Q3 2026 be greater than 3.0%?](/odds/will-us-gdp-growth-in-q3-2026-be-greater-than-30) — 37% YES
+| Polymarket | 48.5% | 51.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will China GDP growth in Q3 2026 be between 4.3% and 4.6%?"?
 
-As of August 15, 2026, Polymarket prices YES at 47.5%.
+As of August 16, 2026, Polymarket prices YES at 48.5%.
 
 ### Where can I trade on this prediction market?
 

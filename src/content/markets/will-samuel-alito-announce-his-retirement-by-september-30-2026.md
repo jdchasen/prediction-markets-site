@@ -1,15 +1,15 @@
 ---
 title: "Will Samuel Alito announce his retirement by September 30, 2026?"
-description: "Will Samuel Alito announce his retirement by September 30, 2026? Odds: 1.9% YES on Polymarket. See live prices and trade this market."
+description: "Will Samuel Alito announce his retirement by September 30, 2026? Odds: 1.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Samuel Alito announce his retirement by September 30, 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-08-15
+lastUpdated: 2026-08-16
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 1.9
-polymarketNo: 98.0
-polymarketVolume: 988169
+polymarketYes: 1.8
+polymarketNo: 98.2
+polymarketVolume: 988542
 polymarketUrl: "https://polymarket.com/event/will-samuel-alito-announce-his-retirement-by-september-30-2026-20260630151901966"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-samuel-alito-announce-his-reti
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 1.9% | 98.0% | $988K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 1.8% | 98.2% | $989K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Yabloko gain the most seats in the next Russian parliamentary election?](/odds/will-yabloko-gain-the-most-seats-in-the-next-russian-parliamentary-election) — 0% YES
 - [Will Josh Stein win the 2028 Democratic presidential nomination?](/odds/will-josh-stein-win-the-2028-democratic-presidential-nomination) — 0% YES
 - [NATO x Russia military clash by October 31, 2026?](/odds/nato-x-russia-military-clash-by-october-31-2026) — 8% YES
+- [NYSE marketwide circuit breaker before 2027?](/odds/nyse-marketwide-circuit-breaker-before-2027) — 14% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Samuel Alito announce his retirement by September 30, 2026?"?
 
-As of August 15, 2026, Polymarket prices YES at 1.9%.
+As of August 16, 2026, Polymarket prices YES at 1.8%.
 
 ### Where can I trade on this prediction market?
 

@@ -3,8 +3,8 @@ title: "Will Ethereum dip to $1,700 in August?"
 description: "Will Ethereum dip to $1,700 in August? Odds: 18.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Ethereum dip to $1,700 in August?"
 category: "crypto"
-status: "active"
-lastUpdated: 2026-08-15
+status: "settled"
+lastUpdated: 2026-08-16
 expiryDate: 2026-09-01
 tags: ["crypto", "ethereum", "polymarket"]
 polymarketYes: 18.5

@@ -1,23 +1,23 @@
 ---
-title: "US charges Hormuz fees by December 31, 2026?"
-description: "US charges Hormuz fees by December 31, 2026? Odds: 6.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "US charges Hormuz fees by December 31, 2026?"
+title: "Will DeepSeek have the best Chinese AI model at the end of September 2026?"
+description: "Will DeepSeek have the best Chinese AI model at the end of September 2026? Odds: 3.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will DeepSeek have the best Chinese AI model at the end of September 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-16
-expiryDate: 2026-12-31
-tags: ["politics", "polymarket"]
-polymarketYes: 6.5
-polymarketNo: 93.5
-polymarketVolume: 98824
-polymarketUrl: "https://polymarket.com/event/us-charges-hormuz-fees-by-december-31-2026-20260713151243236"
+expiryDate: 2026-09-30
+tags: ["ai", "politics", "polymarket"]
+polymarketYes: 3.5
+polymarketNo: 96.5
+polymarketVolume: 9933
+polymarketUrl: "https://polymarket.com/event/will-deepseek-have-the-best-chinese-ai-model-at-the-end-of-september-2026-20260717140852830"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 6.5% | 93.5% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 3.5% | 96.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/us-charges-hormuz-fees-by-december-
 
 ## Frequently Asked Questions
 
-### What are the current odds for "US charges Hormuz fees by December 31, 2026?"?
+### What are the current odds for "Will DeepSeek have the best Chinese AI model at the end of September 2026?"?
 
-As of August 16, 2026, Polymarket prices YES at 6.5%.
+As of August 16, 2026, Polymarket prices YES at 3.5%.
 
 ### Where can I trade on this prediction market?
 

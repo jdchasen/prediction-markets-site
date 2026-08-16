@@ -1,15 +1,15 @@
 ---
 title: "NYSE marketwide circuit breaker before 2027?"
-description: "NYSE marketwide circuit breaker before 2027? Odds: 14.5% YES on Polymarket. See live prices and trade this market."
+description: "NYSE marketwide circuit breaker before 2027? Odds: 14.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "NYSE marketwide circuit breaker before 2027?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-08-15
+lastUpdated: 2026-08-16
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 14.5
-polymarketNo: 85.5
-polymarketVolume: 99543
+polymarketYes: 14.0
+polymarketNo: 86.0
+polymarketVolume: 99798
 polymarketUrl: "https://polymarket.com/event/nyse-marketwide-circuit-breaker-before-2027"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/nyse-marketwide-circuit-breaker-bef
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 14.5% | 85.5% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 14.0% | 86.0% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Yabloko gain the most seats in the next Russian parliamentary election?](/odds/will-yabloko-gain-the-most-seats-in-the-next-russian-parliamentary-election) — 0% YES
 - [Will Josh Stein win the 2028 Democratic presidential nomination?](/odds/will-josh-stein-win-the-2028-democratic-presidential-nomination) — 0% YES
 - [Will Samuel Alito announce his retirement by September 30, 2026?](/odds/will-samuel-alito-announce-his-retirement-by-september-30-2026) — 2% YES
+- [NATO x Russia military clash by October 31, 2026?](/odds/nato-x-russia-military-clash-by-october-31-2026) — 8% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "NYSE marketwide circuit breaker before 2027?"?
 
-As of August 15, 2026, Polymarket prices YES at 14.5%.
+As of August 16, 2026, Polymarket prices YES at 14.0%.
 
 ### Where can I trade on this prediction market?
 

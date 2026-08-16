@@ -1,23 +1,23 @@
 ---
-title: "USMCA extended in 2026?"
-description: "USMCA extended in 2026? Odds: 20.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "USMCA extended in 2026?"
+title: "Cincinnati Open: Nuno Borges vs Francisco Cerundolo"
+description: "Cincinnati Open: Nuno Borges vs Francisco Cerundolo Odds: 55.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Cincinnati Open: Nuno Borges vs Francisco Cerundolo"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-16
-expiryDate: 2026-12-31
+expiryDate: 2026-08-23
 tags: ["politics", "polymarket"]
-polymarketYes: 20.5
-polymarketNo: 79.5
-polymarketVolume: 9923
-polymarketUrl: "https://polymarket.com/event/usmca-extended-in-2026-20260701162719768"
+polymarketYes: 55.5
+polymarketNo: 44.5
+polymarketVolume: 9861
+polymarketUrl: "https://polymarket.com/event/atp-borges-cerundo-2026-08-16"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 20.5% | 79.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 55.5% | 44.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/usmca-extended-in-2026-202607011627
 
 ## Frequently Asked Questions
 
-### What are the current odds for "USMCA extended in 2026?"?
+### What are the current odds for "Cincinnati Open: Nuno Borges vs Francisco Cerundolo"?
 
-As of August 16, 2026, Polymarket prices YES at 20.5%.
+As of August 16, 2026, Polymarket prices YES at 55.5%.
 
 ### Where can I trade on this prediction market?
 
@@ -37,6 +37,5 @@ You can trade this market on [Polymarket](https://polymarket.us/1762?utm_source=
 
 ## Learn More
 
-- [Will ETH Hit $4,500 in 2026? Live Market Odds](/blog/will-ethereum-reach-4500-in-2026-what-prediction-markets-say)
-- [Will Discord IPO in 2026? What Prediction Markets Say](/blog/will-discord-ipo-in-2026-what-prediction-markets-say)
+- [Cobolli vs Zverev Odds: French Open Markets](/blog/cobolli-vs-zverev-odds-french-open-markets)
 

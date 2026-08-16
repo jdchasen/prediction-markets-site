@@ -1,23 +1,23 @@
 ---
-title: "Will the Democratic Party win the FL-10 House seat?"
-description: "Will the Democratic Party win the FL-10 House seat? Odds: 94.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will the Democratic Party win the FL-10 House seat?"
+title: "Will Russia capture Stavky by September 30?"
+description: "Will Russia capture Stavky by September 30? Odds: 13.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Russia capture Stavky by September 30?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-16
-expiryDate: 2026-11-03
+expiryDate: 2026-09-30
 tags: ["politics", "polymarket"]
-polymarketYes: 94.5
-polymarketNo: 5.5
-polymarketVolume: 9997
-polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-fl-10-house-seat"
+polymarketYes: 13.5
+polymarketNo: 86.5
+polymarketVolume: 9894
+polymarketUrl: "https://polymarket.com/event/will-russia-capture-stavky-by-september-30"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 94.5% | 5.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 13.5% | 86.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-f
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will the Democratic Party win the FL-10 House seat?"?
+### What are the current odds for "Will Russia capture Stavky by September 30?"?
 
-As of August 16, 2026, Polymarket prices YES at 94.5%.
+As of August 16, 2026, Polymarket prices YES at 13.5%.
 
 ### Where can I trade on this prediction market?
 

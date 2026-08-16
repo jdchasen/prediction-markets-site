@@ -3,8 +3,8 @@ title: "Will US GDP growth in Q3 2026 be greater than 3.0%?"
 description: "Will US GDP growth in Q3 2026 be greater than 3.0%? Odds: 37.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will US GDP growth in Q3 2026 be greater than 3.0%?"
 category: "economics"
-status: "active"
-lastUpdated: 2026-08-15
+status: "settled"
+lastUpdated: 2026-08-16
 expiryDate: 2026-10-29
 tags: ["economics", "polymarket"]
 polymarketYes: 37.0

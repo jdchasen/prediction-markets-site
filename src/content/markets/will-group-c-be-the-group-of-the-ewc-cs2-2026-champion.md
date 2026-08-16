@@ -1,23 +1,22 @@
 ---
-title: "US charges Hormuz fees by December 31, 2026?"
-description: "US charges Hormuz fees by December 31, 2026? Odds: 6.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "US charges Hormuz fees by December 31, 2026?"
+title: "Will Group C be the group of the EWC CS2 2026 Champion?"
+description: "Will Group C be the group of the EWC CS2 2026 Champion? Odds: 29.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Group C be the group of the EWC CS2 2026 Champion?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-16
-expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 6.5
-polymarketNo: 93.5
-polymarketVolume: 98824
-polymarketUrl: "https://polymarket.com/event/us-charges-hormuz-fees-by-december-31-2026-20260713151243236"
+polymarketYes: 29.5
+polymarketNo: 70.5
+polymarketVolume: 9928
+polymarketUrl: "https://polymarket.com/event/will-group-c-be-the-group-of-the-ewc-cs2-2026-champion-20260810191935352"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 6.5% | 93.5% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 29.5% | 70.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +26,9 @@ polymarketUrl: "https://polymarket.com/event/us-charges-hormuz-fees-by-december-
 
 ## Frequently Asked Questions
 
-### What are the current odds for "US charges Hormuz fees by December 31, 2026?"?
+### What are the current odds for "Will Group C be the group of the EWC CS2 2026 Champion?"?
 
-As of August 16, 2026, Polymarket prices YES at 6.5%.
+As of August 16, 2026, Polymarket prices YES at 29.5%.
 
 ### Where can I trade on this prediction market?
 

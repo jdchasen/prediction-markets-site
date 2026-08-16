@@ -1,23 +1,23 @@
 ---
-title: "US charges Hormuz fees by December 31, 2026?"
-description: "US charges Hormuz fees by December 31, 2026? Odds: 6.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "US charges Hormuz fees by December 31, 2026?"
+title: "Will Tally Gotliv win the 2026 Likud party primary elections?"
+description: "Will Tally Gotliv win the 2026 Likud party primary elections? Odds: 6.6% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Tally Gotliv win the 2026 Likud party primary elections?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-16
-expiryDate: 2026-12-31
-tags: ["politics", "polymarket"]
-polymarketYes: 6.5
-polymarketNo: 93.5
-polymarketVolume: 98824
-polymarketUrl: "https://polymarket.com/event/us-charges-hormuz-fees-by-december-31-2026-20260713151243236"
+expiryDate: 2026-10-26
+tags: ["elections", "politics", "polymarket"]
+polymarketYes: 6.6
+polymarketNo: 93.4
+polymarketVolume: 9870
+polymarketUrl: "https://polymarket.com/event/will-tally-gotliv-win-the-2026-likud-party-primary-elections-20260720203933767"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 6.5% | 93.5% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 6.6% | 93.4% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/us-charges-hormuz-fees-by-december-
 
 ## Frequently Asked Questions
 
-### What are the current odds for "US charges Hormuz fees by December 31, 2026?"?
+### What are the current odds for "Will Tally Gotliv win the 2026 Likud party primary elections?"?
 
-As of August 16, 2026, Polymarket prices YES at 6.5%.
+As of August 16, 2026, Polymarket prices YES at 6.6%.
 
 ### Where can I trade on this prediction market?
 

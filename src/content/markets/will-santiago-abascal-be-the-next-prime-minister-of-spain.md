@@ -3,8 +3,8 @@ title: "Will Santiago Abascal be the next Prime Minister of Spain?"
 description: "Will Santiago Abascal be the next Prime Minister of Spain? Odds: 5.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Santiago Abascal be the next Prime Minister of Spain?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-08-15
+status: "settled"
+lastUpdated: 2026-08-16
 expiryDate: 2028-03-31
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 5.7

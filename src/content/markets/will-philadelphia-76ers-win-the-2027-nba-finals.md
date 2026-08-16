@@ -4,12 +4,12 @@ description: "Will Philadelphia 76ers win the 2027 NBA Finals? Odds: 13.2% YES o
 marketQuestion: "Will Philadelphia 76ers win the 2027 NBA Finals?"
 category: "sports"
 status: "active"
-lastUpdated: 2026-08-15
+lastUpdated: 2026-08-16
 expiryDate: 2027-07-01
 tags: ["polymarket", "sports"]
 polymarketYes: 13.2
 polymarketNo: 86.9
-polymarketVolume: 986890
+polymarketVolume: 987194
 polymarketUrl: "https://polymarket.com/event/will-philadelphia-76ers-win-the-2027-nba-finals"
 ---
 
@@ -27,7 +27,7 @@ polymarketUrl: "https://polymarket.com/event/will-philadelphia-76ers-win-the-202
 
 ### What are the current odds for "Will Philadelphia 76ers win the 2027 NBA Finals?"?
 
-As of August 15, 2026, Polymarket prices YES at 13.2%.
+As of August 16, 2026, Polymarket prices YES at 13.2%.
 
 ### Where can I trade on this prediction market?
 

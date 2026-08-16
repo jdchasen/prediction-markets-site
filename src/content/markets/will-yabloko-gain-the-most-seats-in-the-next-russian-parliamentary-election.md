@@ -3,8 +3,8 @@ title: "Will Yabloko gain the most seats in the next Russian parliamentary elect
 description: "Will Yabloko gain the most seats in the next Russian parliamentary election? Odds: 0.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Yabloko gain the most seats in the next Russian parliamentary election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-08-15
+status: "settled"
+lastUpdated: 2026-08-16
 expiryDate: 2026-09-30
 tags: ["ai", "elections", "politics", "polymarket"]
 polymarketYes: 0.4

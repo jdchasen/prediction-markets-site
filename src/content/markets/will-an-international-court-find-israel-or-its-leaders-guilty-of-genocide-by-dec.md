@@ -1,15 +1,15 @@
 ---
 title: "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?"
-description: "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027? Odds: 10.0% YES on Polymarket. See live prices and trade this..."
+description: "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027? Odds: 13.5% YES on Polymarket. See live prices and trade this..."
 marketQuestion: "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-08-15
+lastUpdated: 2026-08-16
 expiryDate: 2027-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 10.0
-polymarketNo: 90.0
-polymarketVolume: 99162
+polymarketYes: 13.5
+polymarketNo: 86.5
+polymarketVolume: 99202
 polymarketUrl: "https://polymarket.com/event/will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-an-international-court-find-is
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 10.0% | 90.0% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 13.5% | 86.5% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Yabloko gain the most seats in the next Russian parliamentary election?](/odds/will-yabloko-gain-the-most-seats-in-the-next-russian-parliamentary-election) — 0% YES
 - [Will Josh Stein win the 2028 Democratic presidential nomination?](/odds/will-josh-stein-win-the-2028-democratic-presidential-nomination) — 0% YES
 - [Will Samuel Alito announce his retirement by September 30, 2026?](/odds/will-samuel-alito-announce-his-retirement-by-september-30-2026) — 2% YES
+- [NATO x Russia military clash by October 31, 2026?](/odds/nato-x-russia-military-clash-by-october-31-2026) — 8% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?"?
 
-As of August 15, 2026, Polymarket prices YES at 10.0%.
+As of August 16, 2026, Polymarket prices YES at 13.5%.
 
 ### Where can I trade on this prediction market?
 

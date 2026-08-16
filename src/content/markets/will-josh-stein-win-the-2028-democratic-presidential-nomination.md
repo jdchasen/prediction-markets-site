@@ -4,7 +4,7 @@ description: "Will Josh Stein win the 2028 Democratic presidential nomination? O
 marketQuestion: "Will Josh Stein win the 2028 Democratic presidential nomination?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-08-15
+lastUpdated: 2026-08-16
 expiryDate: 2028-11-07
 tags: ["politics", "polymarket"]
 polymarketYes: 0.1
@@ -21,15 +21,15 @@ polymarketUrl: "https://polymarket.com/event/will-josh-stein-win-the-2028-democr
 
 ## Related Markets
 
-- [Will Yabloko gain the most seats in the next Russian parliamentary election?](/odds/will-yabloko-gain-the-most-seats-in-the-next-russian-parliamentary-election) — 0% YES
 - [Will Samuel Alito announce his retirement by September 30, 2026?](/odds/will-samuel-alito-announce-his-retirement-by-september-30-2026) — 2% YES
 - [NATO x Russia military clash by October 31, 2026?](/odds/nato-x-russia-military-clash-by-october-31-2026) — 8% YES
+- [NYSE marketwide circuit breaker before 2027?](/odds/nyse-marketwide-circuit-breaker-before-2027) — 14% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Josh Stein win the 2028 Democratic presidential nomination?"?
 
-As of August 15, 2026, Polymarket prices YES at 0.1%.
+As of August 16, 2026, Polymarket prices YES at 0.1%.
 
 ### Where can I trade on this prediction market?
 

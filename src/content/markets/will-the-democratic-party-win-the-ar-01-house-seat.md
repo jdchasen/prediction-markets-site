@@ -4,7 +4,7 @@ description: "Will the Democratic Party win the AR-01 House seat? Odds: 1.6% YES
 marketQuestion: "Will the Democratic Party win the AR-01 House seat?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-08-15
+lastUpdated: 2026-08-16
 expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
 polymarketYes: 1.6
@@ -21,15 +21,15 @@ polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-a
 
 ## Related Markets
 
-- [Will Yabloko gain the most seats in the next Russian parliamentary election?](/odds/will-yabloko-gain-the-most-seats-in-the-next-russian-parliamentary-election) — 0% YES
 - [Will Josh Stein win the 2028 Democratic presidential nomination?](/odds/will-josh-stein-win-the-2028-democratic-presidential-nomination) — 0% YES
 - [Will Samuel Alito announce his retirement by September 30, 2026?](/odds/will-samuel-alito-announce-his-retirement-by-september-30-2026) — 2% YES
+- [NATO x Russia military clash by October 31, 2026?](/odds/nato-x-russia-military-clash-by-october-31-2026) — 8% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will the Democratic Party win the AR-01 House seat?"?
 
-As of August 15, 2026, Polymarket prices YES at 1.6%.
+As of August 16, 2026, Polymarket prices YES at 1.6%.
 
 ### Where can I trade on this prediction market?
 

@@ -3,8 +3,8 @@ title: "Will Renan Santos qualify for Brazil's presidential runoff?"
 description: "Will Renan Santos qualify for Brazil's presidential runoff? Odds: 8.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Renan Santos qualify for Brazil's presidential runoff?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-08-15
+status: "settled"
+lastUpdated: 2026-08-16
 expiryDate: 2026-10-04
 tags: ["politics", "polymarket"]
 polymarketYes: 8.0

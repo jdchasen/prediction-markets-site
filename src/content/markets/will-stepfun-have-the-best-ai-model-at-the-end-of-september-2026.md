@@ -3,8 +3,8 @@ title: "Will StepFun have the best AI model at the end of September 2026?"
 description: "Will StepFun have the best AI model at the end of September 2026? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will StepFun have the best AI model at the end of September 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-08-15
+status: "settled"
+lastUpdated: 2026-08-16
 expiryDate: 2026-09-30
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 0.1

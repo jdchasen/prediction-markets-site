@@ -1,23 +1,23 @@
 ---
-title: "Will the Democratic Party win the FL-10 House seat?"
-description: "Will the Democratic Party win the FL-10 House seat? Odds: 94.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will the Democratic Party win the FL-10 House seat?"
+title: "Will Gabriel Attal be on the ballot for the 2027 French presidential election?"
+description: "Will Gabriel Attal be on the ballot for the 2027 French presidential election? Odds: 29.0% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Gabriel Attal be on the ballot for the 2027 French presidential election?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-16
-expiryDate: 2026-11-03
-tags: ["politics", "polymarket"]
-polymarketYes: 94.5
-polymarketNo: 5.5
-polymarketVolume: 9997
-polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-fl-10-house-seat"
+expiryDate: 2027-04-17
+tags: ["elections", "politics", "polymarket"]
+polymarketYes: 29.0
+polymarketNo: 71.0
+polymarketVolume: 9858
+polymarketUrl: "https://polymarket.com/event/will-gabriel-attal-be-on-the-ballot-for-the-2027-french-presidential-election"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 94.5% | 5.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 29.0% | 71.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-f
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will the Democratic Party win the FL-10 House seat?"?
+### What are the current odds for "Will Gabriel Attal be on the ballot for the 2027 French presidential election?"?
 
-As of August 16, 2026, Polymarket prices YES at 94.5%.
+As of August 16, 2026, Polymarket prices YES at 29.0%.
 
 ### Where can I trade on this prediction market?
 
