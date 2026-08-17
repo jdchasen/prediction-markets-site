@@ -1,23 +1,23 @@
 ---
-title: "Will the next diplomatic US-Iran meeting be in Iraq by September 30, 2026?"
-description: "Will the next diplomatic US-Iran meeting be in Iraq by September 30, 2026? Odds: 0.7% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will the next diplomatic US-Iran meeting be in Iraq by September 30, 2026?"
+title: "Will Esmail Qaani attend a US x Iran diplomatic meeting by December 31, 2026?"
+description: "Will Esmail Qaani attend a US x Iran diplomatic meeting by December 31, 2026? Odds: 8.7% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Esmail Qaani attend a US x Iran diplomatic meeting by December 31, 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-17
-expiryDate: 2026-09-30
-tags: ["politics", "polymarket"]
-polymarketYes: 0.7
-polymarketNo: 99.4
-polymarketVolume: 98958
-polymarketUrl: "https://polymarket.com/event/will-the-next-diplomatic-us-iran-meeting-be-in-iraq-by-september-30-2026-20260622185050775"
+expiryDate: 2026-12-31
+tags: ["ai", "politics", "polymarket"]
+polymarketYes: 8.7
+polymarketNo: 91.3
+polymarketVolume: 9882
+polymarketUrl: "https://polymarket.com/event/will-esmail-qaani-attend-a-us-x-iran-diplomatic-meeting-by-december-31-2026-20260812154221275"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.7% | 99.4% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 8.7% | 91.3% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-the-next-diplomatic-us-iran-me
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will the next diplomatic US-Iran meeting be in Iraq by September 30, 2026?"?
+### What are the current odds for "Will Esmail Qaani attend a US x Iran diplomatic meeting by December 31, 2026?"?
 
-As of August 17, 2026, Polymarket prices YES at 0.7%.
+As of August 17, 2026, Polymarket prices YES at 8.7%.
 
 ### Where can I trade on this prediction market?
 

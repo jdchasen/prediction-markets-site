@@ -1,23 +1,23 @@
 ---
-title: "Will the Democratic Party win the OH-12 House seat?"
-description: "Will the Democratic Party win the OH-12 House seat? Odds: 6.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will the Democratic Party win the OH-12 House seat?"
+title: "Will Hesai be removed from Chinese Military Companies list by June 30, 2027?"
+description: "Will Hesai be removed from Chinese Military Companies list by June 30, 2027? Odds: 29.0% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Hesai be removed from Chinese Military Companies list by June 30, 2027?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-17
-expiryDate: 2026-11-03
-tags: ["politics", "polymarket"]
-polymarketYes: 6.5
-polymarketNo: 93.5
-polymarketVolume: 9834
-polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-oh-12-house-seat"
+expiryDate: 2027-06-30
+tags: ["ai", "politics", "polymarket"]
+polymarketYes: 29.0
+polymarketNo: 71.0
+polymarketVolume: 9865
+polymarketUrl: "https://polymarket.com/event/will-hesai-be-removed-from-chinese-military-companies-list-by-june-30-2027-20260706223230557"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 6.5% | 93.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 29.0% | 71.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-o
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will the Democratic Party win the OH-12 House seat?"?
+### What are the current odds for "Will Hesai be removed from Chinese Military Companies list by June 30, 2027?"?
 
-As of August 17, 2026, Polymarket prices YES at 6.5%.
+As of August 17, 2026, Polymarket prices YES at 29.0%.
 
 ### Where can I trade on this prediction market?
 

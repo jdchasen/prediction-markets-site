@@ -3,8 +3,8 @@ title: "Will Core PCE YoY be 3.2% in July?"
 description: "Will Core PCE YoY be 3.2% in July? Odds: 34.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Core PCE YoY be 3.2% in July?"
 category: "economics"
-status: "active"
-lastUpdated: 2026-08-16
+status: "settled"
+lastUpdated: 2026-08-17
 expiryDate: 2026-08-26
 tags: ["economics", "polymarket"]
 polymarketYes: 34.0

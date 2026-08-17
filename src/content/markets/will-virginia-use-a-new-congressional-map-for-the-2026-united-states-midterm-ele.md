@@ -4,7 +4,7 @@ description: "Will Virginia use a new congressional map for the 2026 United Stat
 marketQuestion: "Will Virginia use a new congressional map for the 2026 United States midterm elections?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-08-16
+lastUpdated: 2026-08-17
 expiryDate: 2026-11-03
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 4.7
@@ -21,15 +21,15 @@ polymarketUrl: "https://polymarket.com/event/will-virginia-use-a-new-congression
 
 ## Related Markets
 
-- [Will Josh Stein win the 2028 Democratic presidential nomination?](/odds/will-josh-stein-win-the-2028-democratic-presidential-nomination) — 0% YES
+- [Will Renan Santos win the 2026 Brazilian presidential election?](/odds/will-renan-santos-win-the-2026-brazilian-presidential-election) — 5% YES
 - [Will Samuel Alito announce his retirement by September 30, 2026?](/odds/will-samuel-alito-announce-his-retirement-by-september-30-2026) — 2% YES
-- [Will the Republicans win the Iowa Senate race in 2026?](/odds/will-the-republicans-win-the-iowa-senate-race-in-2026) — 58% YES
+- [Will Josh Stein win the 2028 Democratic presidential nomination?](/odds/will-josh-stein-win-the-2028-democratic-presidential-nomination) — 0% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Virginia use a new congressional map for the 2026 United States midterm elections?"?
 
-As of August 16, 2026, Polymarket prices YES at 4.7%.
+As of August 17, 2026, Polymarket prices YES at 4.7%.
 
 ### Where can I trade on this prediction market?
 

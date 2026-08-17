@@ -1,14 +1,14 @@
 ---
 title: "Aligned FDV above $100M one day after launch?"
-description: "Aligned FDV above $100M one day after launch? Odds: 79.5% YES on Polymarket. See live prices and trade this market."
+description: "Aligned FDV above $100M one day after launch? Odds: 82.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Aligned FDV above $100M one day after launch?"
 category: "crypto"
 status: "active"
-lastUpdated: 2026-08-16
+lastUpdated: 2026-08-17
 expiryDate: 2028-01-01
 tags: ["crypto", "polymarket"]
-polymarketYes: 79.5
-polymarketNo: 20.5
+polymarketYes: 82.0
+polymarketNo: 18.0
 polymarketVolume: 9898
 polymarketUrl: "https://polymarket.com/event/aligned-fdv-above-100m-one-day-after-launch"
 ---
@@ -17,18 +17,18 @@ polymarketUrl: "https://polymarket.com/event/aligned-fdv-above-100m-one-day-afte
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 79.5% | 20.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 82.0% | 18.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Loopscale launch a token by December 31, 2026?](/odds/will-loopscale-launch-a-token-by-december-31-2026) — 16% YES
-- [APYX FDV above $50M one day after launch?](/odds/apyx-fdv-above-50m-one-day-after-launch) — 80% YES
+- [APYX FDV above $50M one day after launch?](/odds/apyx-fdv-above-50m-one-day-after-launch) — 81% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Aligned FDV above $100M one day after launch?"?
 
-As of August 16, 2026, Polymarket prices YES at 79.5%.
+As of August 17, 2026, Polymarket prices YES at 82.0%.
 
 ### Where can I trade on this prediction market?
 

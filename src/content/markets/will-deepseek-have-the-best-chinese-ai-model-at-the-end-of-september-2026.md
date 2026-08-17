@@ -3,8 +3,8 @@ title: "Will DeepSeek have the best Chinese AI model at the end of September 202
 description: "Will DeepSeek have the best Chinese AI model at the end of September 2026? Odds: 3.3% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will DeepSeek have the best Chinese AI model at the end of September 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-08-16
+status: "settled"
+lastUpdated: 2026-08-17
 expiryDate: 2026-09-30
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 3.3

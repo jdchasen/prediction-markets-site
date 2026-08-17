@@ -3,8 +3,8 @@ title: "Will Joe Burrow win the 2026 NFL MVP?"
 description: "Will Joe Burrow win the 2026 NFL MVP? Odds: 8.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Joe Burrow win the 2026 NFL MVP?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-08-16
+status: "settled"
+lastUpdated: 2026-08-17
 expiryDate: 2027-02-15
 tags: ["polymarket", "sports"]
 polymarketYes: 8.9

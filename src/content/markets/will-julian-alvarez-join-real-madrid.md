@@ -3,8 +3,8 @@ title: "Will Julian Alvarez join Real Madrid?"
 description: "Will Julian Alvarez join Real Madrid? Odds: 0.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Julian Alvarez join Real Madrid?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-08-16
+status: "settled"
+lastUpdated: 2026-08-17
 expiryDate: 2026-09-02
 tags: ["politics", "polymarket"]
 polymarketYes: 0.4

@@ -1,15 +1,15 @@
 ---
 title: "Will Jack Reed be the Democratic nominee for Senate in Rhode Island?"
-description: "Will Jack Reed be the Democratic nominee for Senate in Rhode Island? Odds: 97.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Jack Reed be the Democratic nominee for Senate in Rhode Island? Odds: 96.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Jack Reed be the Democratic nominee for Senate in Rhode Island?"
 category: "politics"
-status: "settled"
-lastUpdated: 2026-08-13
+status: "active"
+lastUpdated: 2026-08-17
 expiryDate: 2026-09-08
 tags: ["politics", "polymarket"]
-polymarketYes: 97.5
-polymarketNo: 2.5
-polymarketVolume: 9816
+polymarketYes: 96.2
+polymarketNo: 3.9
+polymarketVolume: 9861
 polymarketUrl: "https://polymarket.com/event/will-jack-reed-be-the-democratic-nominee-for-senate-in-rhode-island"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-jack-reed-be-the-democratic-no
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 97.5% | 2.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 96.2% | 3.9% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Eric Trump win the 2028 Republican presidential nomination?](/odds/will-eric-trump-win-the-2028-republican-presidential-nomination) — 0% YES
-- [Will Crude Oil reach a new all-time high by September 30?](/odds/will-crude-oil-reach-a-new-all-time-high-by-september-30) — 4% YES
+- [Will Renan Santos win the 2026 Brazilian presidential election?](/odds/will-renan-santos-win-the-2026-brazilian-presidential-election) — 5% YES
 - [Will Samuel Alito announce his retirement by September 30, 2026?](/odds/will-samuel-alito-announce-his-retirement-by-september-30-2026) — 2% YES
+- [Will Josh Stein win the 2028 Democratic presidential nomination?](/odds/will-josh-stein-win-the-2028-democratic-presidential-nomination) — 0% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Jack Reed be the Democratic nominee for Senate in Rhode Island?"?
 
-As of August 12, 2026, Polymarket prices YES at 97.5%.
+As of August 17, 2026, Polymarket prices YES at 96.2%.
 
 ### Where can I trade on this prediction market?
 

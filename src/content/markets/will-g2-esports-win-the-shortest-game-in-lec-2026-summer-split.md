@@ -1,13 +1,13 @@
 ---
 title: "Will G2 Esports Win the Shortest Game in LEC 2026 Summer Split?"
-description: "Will G2 Esports Win the Shortest Game in LEC 2026 Summer Split? Odds: 13.5% YES on Polymarket. See live prices and trade this market."
+description: "Will G2 Esports Win the Shortest Game in LEC 2026 Summer Split? Odds: 6.6% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will G2 Esports Win the Shortest Game in LEC 2026 Summer Split?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-08-16
+lastUpdated: 2026-08-17
 tags: ["politics", "polymarket"]
-polymarketYes: 13.5
-polymarketNo: 86.5
+polymarketYes: 6.6
+polymarketNo: 93.4
 polymarketVolume: 9844
 polymarketUrl: "https://polymarket.com/event/will-g2-esports-win-the-shortest-game-in-lec-2026-summer-split-20260730152244662"
 ---
@@ -16,19 +16,19 @@ polymarketUrl: "https://polymarket.com/event/will-g2-esports-win-the-shortest-ga
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 13.5% | 86.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 6.6% | 93.4% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Josh Stein win the 2028 Democratic presidential nomination?](/odds/will-josh-stein-win-the-2028-democratic-presidential-nomination) — 0% YES
+- [Will Renan Santos win the 2026 Brazilian presidential election?](/odds/will-renan-santos-win-the-2026-brazilian-presidential-election) — 5% YES
 - [Will Samuel Alito announce his retirement by September 30, 2026?](/odds/will-samuel-alito-announce-his-retirement-by-september-30-2026) — 2% YES
-- [Will the Republicans win the Iowa Senate race in 2026?](/odds/will-the-republicans-win-the-iowa-senate-race-in-2026) — 58% YES
+- [Will Josh Stein win the 2028 Democratic presidential nomination?](/odds/will-josh-stein-win-the-2028-democratic-presidential-nomination) — 0% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will G2 Esports Win the Shortest Game in LEC 2026 Summer Split?"?
 
-As of August 16, 2026, Polymarket prices YES at 13.5%.
+As of August 17, 2026, Polymarket prices YES at 6.6%.
 
 ### Where can I trade on this prediction market?
 

@@ -3,8 +3,8 @@ title: "Will Russia enter Stavky by September 30?"
 description: "Will Russia enter Stavky by September 30? Odds: 46.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Russia enter Stavky by September 30?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-08-16
+status: "settled"
+lastUpdated: 2026-08-17
 expiryDate: 2026-09-30
 tags: ["politics", "polymarket"]
 polymarketYes: 46.0

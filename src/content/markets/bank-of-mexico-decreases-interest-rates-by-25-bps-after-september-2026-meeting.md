@@ -4,12 +4,12 @@ description: "Bank of Mexico decreases interest rates by 25 bps after September 
 marketQuestion: "Bank of Mexico decreases interest rates by 25 bps after September 2026 meeting?"
 category: "economics"
 status: "active"
-lastUpdated: 2026-08-16
+lastUpdated: 2026-08-17
 expiryDate: 2026-09-24
 tags: ["economics", "interest-rates", "polymarket"]
 polymarketYes: 6.0
 polymarketNo: 94.0
-polymarketVolume: 9793
+polymarketVolume: 9843
 polymarketUrl: "https://polymarket.com/event/bank-of-mexico-decreases-interest-rates-by-25-bps-after-september-2026-meeting-20260623015320013"
 ---
 
@@ -21,13 +21,13 @@ polymarketUrl: "https://polymarket.com/event/bank-of-mexico-decreases-interest-r
 
 ## Related Markets
 
-- [Will Core PCE YoY be 3.2% in July?](/odds/will-core-pce-yoy-be-32-in-july) — 34% YES
+- [Will Canada’s 2026 inflation be between 2.5% and 2.9%?](/odds/will-canadas-2026-inflation-be-between-25-and-29) — 36% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Bank of Mexico decreases interest rates by 25 bps after September 2026 meeting?"?
 
-As of August 16, 2026, Polymarket prices YES at 6.0%.
+As of August 17, 2026, Polymarket prices YES at 6.0%.
 
 ### Where can I trade on this prediction market?
 

@@ -1,23 +1,23 @@
 ---
-title: "Will the next diplomatic US-Iran meeting be in Iraq by September 30, 2026?"
-description: "Will the next diplomatic US-Iran meeting be in Iraq by September 30, 2026? Odds: 0.7% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will the next diplomatic US-Iran meeting be in Iraq by September 30, 2026?"
+title: "Will Google be the third-best Math AI lab at the end of August 2026?"
+description: "Will Google be the third-best Math AI lab at the end of August 2026? Odds: 23.9% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Google be the third-best Math AI lab at the end of August 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-17
-expiryDate: 2026-09-30
-tags: ["politics", "polymarket"]
-polymarketYes: 0.7
-polymarketNo: 99.4
-polymarketVolume: 98958
-polymarketUrl: "https://polymarket.com/event/will-the-next-diplomatic-us-iran-meeting-be-in-iraq-by-september-30-2026-20260622185050775"
+expiryDate: 2026-08-31
+tags: ["ai", "politics", "polymarket"]
+polymarketYes: 23.9
+polymarketNo: 76.1
+polymarketVolume: 9894
+polymarketUrl: "https://polymarket.com/event/will-google-be-the-third-best-math-ai-lab-at-the-end-of-august-2026-20260720230105164"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.7% | 99.4% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 23.9% | 76.1% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-the-next-diplomatic-us-iran-me
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will the next diplomatic US-Iran meeting be in Iraq by September 30, 2026?"?
+### What are the current odds for "Will Google be the third-best Math AI lab at the end of August 2026?"?
 
-As of August 17, 2026, Polymarket prices YES at 0.7%.
+As of August 17, 2026, Polymarket prices YES at 23.9%.
 
 ### Where can I trade on this prediction market?
 

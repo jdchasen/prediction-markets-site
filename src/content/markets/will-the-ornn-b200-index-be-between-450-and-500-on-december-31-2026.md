@@ -3,8 +3,8 @@ title: "Will the Ornn B200 Index be between $4.50 and $5.00 on December 31, 2026
 description: "Will the Ornn B200 Index be between $4.50 and $5.00 on December 31, 2026? Odds: 16.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Ornn B200 Index be between $4.50 and $5.00 on December 31, 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-08-16
+status: "settled"
+lastUpdated: 2026-08-17
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 16.5

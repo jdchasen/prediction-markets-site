@@ -3,8 +3,8 @@ title: "Will Anthropic's valuation hit (HIGH) $5.0T by December 31?"
 description: "Will Anthropic's valuation hit (HIGH) $5.0T by December 31? Odds: 6.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Anthropic's valuation hit (HIGH) $5.0T by December 31?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-08-16
+status: "settled"
+lastUpdated: 2026-08-17
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]
 polymarketYes: 6.2

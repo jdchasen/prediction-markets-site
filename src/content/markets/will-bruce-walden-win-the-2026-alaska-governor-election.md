@@ -1,23 +1,23 @@
 ---
-title: "Will the next diplomatic US-Iran meeting be in Iraq by September 30, 2026?"
-description: "Will the next diplomatic US-Iran meeting be in Iraq by September 30, 2026? Odds: 0.7% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will the next diplomatic US-Iran meeting be in Iraq by September 30, 2026?"
+title: "Will Bruce Walden win the 2026 Alaska governor election?"
+description: "Will Bruce Walden win the 2026 Alaska governor election? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Bruce Walden win the 2026 Alaska governor election?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-17
-expiryDate: 2026-09-30
-tags: ["politics", "polymarket"]
-polymarketYes: 0.7
-polymarketNo: 99.4
-polymarketVolume: 98958
-polymarketUrl: "https://polymarket.com/event/will-the-next-diplomatic-us-iran-meeting-be-in-iraq-by-september-30-2026-20260622185050775"
+expiryDate: 2026-11-03
+tags: ["elections", "politics", "polymarket"]
+polymarketYes: 0.1
+polymarketNo: 99.9
+polymarketVolume: 9973
+polymarketUrl: "https://polymarket.com/event/will-bruce-walden-win-the-2026-alaska-governor-election"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.7% | 99.4% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.1% | 99.9% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-the-next-diplomatic-us-iran-me
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will the next diplomatic US-Iran meeting be in Iraq by September 30, 2026?"?
+### What are the current odds for "Will Bruce Walden win the 2026 Alaska governor election?"?
 
-As of August 17, 2026, Polymarket prices YES at 0.7%.
+As of August 17, 2026, Polymarket prices YES at 0.1%.
 
 ### Where can I trade on this prediction market?
 

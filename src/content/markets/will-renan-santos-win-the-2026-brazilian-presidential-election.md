@@ -1,35 +1,35 @@
 ---
-title: "Will UNI reach $15.50 by December 31, 2026?"
-description: "Will UNI reach $15.50 by December 31, 2026? Odds: 4.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will UNI reach $15.50 by December 31, 2026?"
+title: "Will Renan Santos win the 2026 Brazilian presidential election?"
+description: "Will Renan Santos win the 2026 Brazilian presidential election? Odds: 5.0% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Renan Santos win the 2026 Brazilian presidential election?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-17
-expiryDate: 2027-01-01
-tags: ["politics", "polymarket"]
-polymarketYes: 4.5
-polymarketNo: 95.5
-polymarketVolume: 9828
-polymarketUrl: "https://polymarket.com/event/will-uni-reach-15pt50-by-december-31-2026"
+expiryDate: 2026-10-04
+tags: ["elections", "politics", "polymarket"]
+polymarketYes: 5.0
+polymarketNo: 95.0
+polymarketVolume: 9872103
+polymarketUrl: "https://polymarket.com/event/will-renan-santos-win-the-2026-brazilian-presidential-election"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 4.5% | 95.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 5.0% | 95.0% | $9.9M | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Renan Santos win the 2026 Brazilian presidential election?](/odds/will-renan-santos-win-the-2026-brazilian-presidential-election) — 5% YES
 - [Will Samuel Alito announce his retirement by September 30, 2026?](/odds/will-samuel-alito-announce-his-retirement-by-september-30-2026) — 2% YES
 - [Will Josh Stein win the 2028 Democratic presidential nomination?](/odds/will-josh-stein-win-the-2028-democratic-presidential-nomination) — 0% YES
+- [NATO x Russia military clash by October 31, 2026?](/odds/nato-x-russia-military-clash-by-october-31-2026) — 8% YES
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will UNI reach $15.50 by December 31, 2026?"?
+### What are the current odds for "Will Renan Santos win the 2026 Brazilian presidential election?"?
 
-As of August 17, 2026, Polymarket prices YES at 4.5%.
+As of August 17, 2026, Polymarket prices YES at 5.0%.
 
 ### Where can I trade on this prediction market?
 

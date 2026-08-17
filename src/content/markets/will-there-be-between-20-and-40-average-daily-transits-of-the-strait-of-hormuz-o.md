@@ -1,16 +1,16 @@
 ---
-title: "Will the Democratic Party win the OH-12 House seat?"
-description: "Will the Democratic Party win the OH-12 House seat? Odds: 6.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will the Democratic Party win the OH-12 House seat?"
+title: "Will there be between 20 and 40 average daily transits of the Strait of Hormuz on August 31?"
+description: "Will there be between 20 and 40 average daily transits of the Strait of Hormuz on August 31? Odds: 6.5% YES on Polymarket. See live prices and trade this mar..."
+marketQuestion: "Will there be between 20 and 40 average daily transits of the Strait of Hormuz on August 31?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-17
-expiryDate: 2026-11-03
-tags: ["politics", "polymarket"]
+expiryDate: 2026-08-31
+tags: ["ai", "politics", "polymarket"]
 polymarketYes: 6.5
 polymarketNo: 93.5
-polymarketVolume: 9834
-polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-oh-12-house-seat"
+polymarketVolume: 9908
+polymarketUrl: "https://polymarket.com/event/will-there-be-between-20-and-40-average-daily-transits-of-the-strait-of-hormuz-on-august-31-20260728213741554"
 ---
 
 ## Current Odds
@@ -27,7 +27,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-o
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will the Democratic Party win the OH-12 House seat?"?
+### What are the current odds for "Will there be between 20 and 40 average daily transits of the Strait of Hormuz on August 31?"?
 
 As of August 17, 2026, Polymarket prices YES at 6.5%.
 
@@ -37,6 +37,6 @@ You can trade this market on [Polymarket](https://polymarket.us/1762?utm_source=
 
 ## Learn More
 
-- [Will Oil Hit $100? March Crude Prediction Market Odds](/blog/will-oil-hit-100-march-crude-prediction-market-odds)
-- [Will MicroStrategy Sell Bitcoin? Market Odds](/blog/will-microstrategy-sell-bitcoin-market-odds)
+- [Iran Strikes US Embassy | Daily Market Pulse](/blog/daily-market-pulse-2026-03-03)
+- [Khamenei Gone? Polymarket Hits 91.6% | Daily Market Pulse](/blog/daily-market-pulse-2026-02-28)
 
