@@ -1,33 +1,33 @@
 ---
-title: "Will Bruce Walden win the 2026 Alaska governor election?"
-description: "Will Bruce Walden win the 2026 Alaska governor election? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Bruce Walden win the 2026 Alaska governor election?"
+title: "Will Michelle Bolsonaro win the 2026 Brazilian presidential election?"
+description: "Will Michelle Bolsonaro win the 2026 Brazilian presidential election? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Michelle Bolsonaro win the 2026 Brazilian presidential election?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-17
-expiryDate: 2026-11-03
+expiryDate: 2026-10-04
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.1
 polymarketNo: 99.9
-polymarketVolume: 9973
-polymarketUrl: "https://polymarket.com/event/will-bruce-walden-win-the-2026-alaska-governor-election"
+polymarketVolume: 9858015
+polymarketUrl: "https://polymarket.com/event/will-michelle-bolsonaro-win-the-2026-brazilian-presidential-election"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.1% | 99.9% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.1% | 99.9% | $9.9M | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Renan Santos win the 2026 Brazilian presidential election?](/odds/will-renan-santos-win-the-2026-brazilian-presidential-election) — 4% YES
-- [Will Michelle Bolsonaro win the 2026 Brazilian presidential election?](/odds/will-michelle-bolsonaro-win-the-2026-brazilian-presidential-election) — 0% YES
 - [Will Samuel Alito announce his retirement by September 30, 2026?](/odds/will-samuel-alito-announce-his-retirement-by-september-30-2026) — 2% YES
+- [US x Iran diplomatic meeting by August 31, 2026?](/odds/us-x-iran-diplomatic-meeting-by-august-31-2026) — 8% YES
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Bruce Walden win the 2026 Alaska governor election?"?
+### What are the current odds for "Will Michelle Bolsonaro win the 2026 Brazilian presidential election?"?
 
 As of August 17, 2026, Polymarket prices YES at 0.1%.
 

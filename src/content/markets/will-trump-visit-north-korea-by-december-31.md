@@ -3,7 +3,7 @@ title: "Will Trump visit North Korea by December 31?"
 description: "Will Trump visit North Korea by December 31? Odds: 8.3% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Trump visit North Korea by December 31?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-08-17
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket", "trump"]

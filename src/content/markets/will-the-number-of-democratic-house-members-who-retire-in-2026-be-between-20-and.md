@@ -1,23 +1,23 @@
 ---
-title: "Will Esmail Qaani attend a US x Iran diplomatic meeting by December 31, 2026?"
-description: "Will Esmail Qaani attend a US x Iran diplomatic meeting by December 31, 2026? Odds: 7.4% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Esmail Qaani attend a US x Iran diplomatic meeting by December 31, 2026?"
+title: "Will the number of Democratic House members who retire in 2026 be between 20 and 23 inclusive?"
+description: "Will the number of Democratic House members who retire in 2026 be between 20 and 23 inclusive? Odds: 47.6% YES on Polymarket. See live prices and trade this ..."
+marketQuestion: "Will the number of Democratic House members who retire in 2026 be between 20 and 23 inclusive?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-17
-expiryDate: 2026-12-31
-tags: ["ai", "politics", "polymarket"]
-polymarketYes: 7.4
-polymarketNo: 92.6
-polymarketVolume: 9907
-polymarketUrl: "https://polymarket.com/event/will-esmail-qaani-attend-a-us-x-iran-diplomatic-meeting-by-december-31-2026-20260812154221275"
+expiryDate: 2026-08-31
+tags: ["politics", "polymarket"]
+polymarketYes: 47.6
+polymarketNo: 52.4
+polymarketVolume: 9851
+polymarketUrl: "https://polymarket.com/event/will-the-number-of-democratic-house-members-who-retire-in-2026-be-between-20-and-23-inclusive"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 7.4% | 92.6% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 47.6% | 52.4% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-esmail-qaani-attend-a-us-x-ira
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Esmail Qaani attend a US x Iran diplomatic meeting by December 31, 2026?"?
+### What are the current odds for "Will the number of Democratic House members who retire in 2026 be between 20 and 23 inclusive?"?
 
-As of August 17, 2026, Polymarket prices YES at 7.4%.
+As of August 17, 2026, Polymarket prices YES at 47.6%.
 
 ### Where can I trade on this prediction market?
 

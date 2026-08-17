@@ -3,7 +3,7 @@ title: "Will Hesai be removed from Chinese Military Companies list by June 30, 2
 description: "Will Hesai be removed from Chinese Military Companies list by June 30, 2027? Odds: 29.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Hesai be removed from Chinese Military Companies list by June 30, 2027?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-08-17
 expiryDate: 2027-06-30
 tags: ["ai", "politics", "polymarket"]

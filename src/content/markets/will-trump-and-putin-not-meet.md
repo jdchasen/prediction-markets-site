@@ -3,7 +3,7 @@ title: "Will Trump and Putin not meet?"
 description: "Will Trump and Putin not meet? Odds: 61.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Trump and Putin not meet?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-08-17
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket", "trump"]

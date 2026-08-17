@@ -3,7 +3,7 @@ title: "Will Natural Gas (NG) hit (LOW) $2.60 in August?"
 description: "Will Natural Gas (NG) hit (LOW) $2.60 in August? Odds: 75.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Natural Gas (NG) hit (LOW) $2.60 in August?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-08-17
 expiryDate: 2026-09-01
 tags: ["politics", "polymarket"]

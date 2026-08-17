@@ -21,7 +21,7 @@ polymarketUrl: "https://polymarket.com/event/bank-of-mexico-decreases-interest-r
 
 ## Related Markets
 
-- [Will Canada’s 2026 inflation be between 2.5% and 2.9%?](/odds/will-canadas-2026-inflation-be-between-25-and-29) — 36% YES
+- [Will Canada’s 2026 inflation be between 2.5% and 2.9%?](/odds/will-canadas-2026-inflation-be-between-25-and-29) — 37% YES
 
 ## Frequently Asked Questions
 

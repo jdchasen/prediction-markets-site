@@ -9,7 +9,7 @@ expiryDate: 2027-01-01
 tags: ["crypto", "polymarket"]
 polymarketYes: 15.5
 polymarketNo: 84.5
-polymarketVolume: 99017
+polymarketVolume: 99023
 polymarketUrl: "https://polymarket.com/event/will-loopscale-launch-a-token-by-december-31-2026"
 ---
 
@@ -21,8 +21,8 @@ polymarketUrl: "https://polymarket.com/event/will-loopscale-launch-a-token-by-de
 
 ## Related Markets
 
-- [APYX FDV above $50M one day after launch?](/odds/apyx-fdv-above-50m-one-day-after-launch) — 81% YES
-- [Aligned FDV above $100M one day after launch?](/odds/aligned-fdv-above-100m-one-day-after-launch) — 82% YES
+- [APYX FDV above $50M one day after launch?](/odds/apyx-fdv-above-50m-one-day-after-launch) — 78% YES
+- [Printr FDV above $150M one day after launch?](/odds/printr-fdv-above-150m-one-day-after-launch) — 4% YES
 
 ## Frequently Asked Questions
 

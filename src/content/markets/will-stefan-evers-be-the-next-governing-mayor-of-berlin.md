@@ -3,7 +3,7 @@ title: "Will Stefan Evers be the next Governing Mayor of Berlin?"
 description: "Will Stefan Evers be the next Governing Mayor of Berlin? Odds: 34.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Stefan Evers be the next Governing Mayor of Berlin?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-08-17
 expiryDate: 2026-09-20
 tags: ["politics", "polymarket"]

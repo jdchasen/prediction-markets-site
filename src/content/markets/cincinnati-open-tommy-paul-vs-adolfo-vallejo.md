@@ -1,23 +1,23 @@
 ---
-title: "NYSE marketwide circuit breaker before 2027?"
-description: "NYSE marketwide circuit breaker before 2027? Odds: 14.0% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "NYSE marketwide circuit breaker before 2027?"
+title: "Cincinnati Open: Tommy Paul vs Adolfo Vallejo"
+description: "Cincinnati Open: Tommy Paul vs Adolfo Vallejo Odds: 79.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Cincinnati Open: Tommy Paul vs Adolfo Vallejo"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-17
-expiryDate: 2026-12-31
+expiryDate: 2026-08-24
 tags: ["politics", "polymarket"]
-polymarketYes: 14.0
-polymarketNo: 86.0
-polymarketVolume: 99798
-polymarketUrl: "https://polymarket.com/event/nyse-marketwide-circuit-breaker-before-2027"
+polymarketYes: 79.5
+polymarketNo: 20.5
+polymarketVolume: 9915
+polymarketUrl: "https://polymarket.com/event/atp-paul-vallejo-2026-08-17"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 14.0% | 86.0% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 79.5% | 20.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/nyse-marketwide-circuit-breaker-bef
 
 ## Frequently Asked Questions
 
-### What are the current odds for "NYSE marketwide circuit breaker before 2027?"?
+### What are the current odds for "Cincinnati Open: Tommy Paul vs Adolfo Vallejo"?
 
-As of August 17, 2026, Polymarket prices YES at 14.0%.
+As of August 17, 2026, Polymarket prices YES at 79.5%.
 
 ### Where can I trade on this prediction market?
 
@@ -37,6 +37,5 @@ You can trade this market on [Polymarket](https://polymarket.us/1762?utm_source=
 
 ## Learn More
 
-- [Will Oil Hit $100? March Crude Prediction Market Odds](/blog/will-oil-hit-100-march-crude-prediction-market-odds)
-- [Will MicroStrategy Sell Bitcoin? Market Odds](/blog/will-microstrategy-sell-bitcoin-market-odds)
+- [Cobolli vs Zverev Odds: French Open Markets](/blog/cobolli-vs-zverev-odds-french-open-markets)
 

@@ -3,7 +3,7 @@ title: "ITF W35 Krakow Women: Salma Drugdova vs Darya Velikova"
 description: "ITF W35 Krakow Women: Salma Drugdova vs Darya Velikova Odds: 0.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "ITF W35 Krakow Women: Salma Drugdova vs Darya Velikova"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-08-17
 expiryDate: 2026-08-24
 tags: ["politics", "polymarket"]

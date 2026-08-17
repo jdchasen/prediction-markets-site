@@ -3,7 +3,7 @@ title: "Will The Odyssey win Best Original Score at the 99th Academy Awards?"
 description: "Will The Odyssey win Best Original Score at the 99th Academy Awards? Odds: 41.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will The Odyssey win Best Original Score at the 99th Academy Awards?"
 category: "entertainment"
-status: "active"
+status: "settled"
 lastUpdated: 2026-08-17
 expiryDate: 2027-03-14
 tags: ["entertainment", "polymarket"]

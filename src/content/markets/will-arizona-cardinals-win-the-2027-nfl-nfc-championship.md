@@ -22,6 +22,8 @@ polymarketUrl: "https://polymarket.com/event/will-arizona-cardinals-win-the-2027
 ## Related Markets
 
 - [Will Philadelphia 76ers win the 2027 NBA Finals?](/odds/will-philadelphia-76ers-win-the-2027-nba-finals) — 13% YES
+- [Will the Atlanta Falcons win the 2027 NFL league championship?](/odds/will-the-atlanta-falcons-win-the-2027-nfl-league-championship) — 1% YES
+- [Will the Arizona Diamondbacks clinch a spot in the 2026 MLB Postseason?](/odds/will-the-arizona-diamondbacks-clinch-a-spot-in-the-2026-mlb-postseason) — 46% YES
 
 ## Frequently Asked Questions
 

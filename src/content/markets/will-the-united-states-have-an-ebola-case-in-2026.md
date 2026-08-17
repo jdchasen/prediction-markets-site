@@ -3,7 +3,7 @@ title: "Will the United States have an Ebola case in 2026?"
 description: "Will the United States have an Ebola case in 2026? Odds: 19.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the United States have an Ebola case in 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-08-17
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]

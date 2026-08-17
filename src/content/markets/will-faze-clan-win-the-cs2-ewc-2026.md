@@ -1,23 +1,22 @@
 ---
-title: "Will Esmail Qaani attend a US x Iran diplomatic meeting by December 31, 2026?"
-description: "Will Esmail Qaani attend a US x Iran diplomatic meeting by December 31, 2026? Odds: 7.4% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Esmail Qaani attend a US x Iran diplomatic meeting by December 31, 2026?"
+title: "Will FaZe Clan Win the CS2 EWC 2026?"
+description: "Will FaZe Clan Win the CS2 EWC 2026? Odds: 1.9% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will FaZe Clan Win the CS2 EWC 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-17
-expiryDate: 2026-12-31
-tags: ["ai", "politics", "polymarket"]
-polymarketYes: 7.4
-polymarketNo: 92.6
-polymarketVolume: 9907
-polymarketUrl: "https://polymarket.com/event/will-esmail-qaani-attend-a-us-x-iran-diplomatic-meeting-by-december-31-2026-20260812154221275"
+tags: ["politics", "polymarket"]
+polymarketYes: 1.9
+polymarketNo: 98.1
+polymarketVolume: 99463
+polymarketUrl: "https://polymarket.com/event/will-faze-clan-win-the-cs2-ewc-2026-20260810160005098"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 7.4% | 92.6% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 1.9% | 98.1% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +26,9 @@ polymarketUrl: "https://polymarket.com/event/will-esmail-qaani-attend-a-us-x-ira
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Esmail Qaani attend a US x Iran diplomatic meeting by December 31, 2026?"?
+### What are the current odds for "Will FaZe Clan Win the CS2 EWC 2026?"?
 
-As of August 17, 2026, Polymarket prices YES at 7.4%.
+As of August 17, 2026, Polymarket prices YES at 1.9%.
 
 ### Where can I trade on this prediction market?
 

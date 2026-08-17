@@ -3,7 +3,7 @@ title: "Will Marco Rubio be the 2028 Republican Vice-Presidential nominee?"
 description: "Will Marco Rubio be the 2028 Republican Vice-Presidential nominee? Odds: 31.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Marco Rubio be the 2028 Republican Vice-Presidential nominee?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-08-17
 expiryDate: 2028-08-14
 tags: ["politics", "polymarket"]
