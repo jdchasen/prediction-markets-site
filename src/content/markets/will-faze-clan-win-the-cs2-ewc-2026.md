@@ -1,14 +1,14 @@
 ---
 title: "Will FaZe Clan Win the CS2 EWC 2026?"
-description: "Will FaZe Clan Win the CS2 EWC 2026? Odds: 1.9% YES on Polymarket. See live prices and trade this market."
+description: "Will FaZe Clan Win the CS2 EWC 2026? Odds: 1.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will FaZe Clan Win the CS2 EWC 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-08-17
+lastUpdated: 2026-08-18
 tags: ["politics", "polymarket"]
-polymarketYes: 1.9
-polymarketNo: 98.1
-polymarketVolume: 99463
+polymarketYes: 1.8
+polymarketNo: 98.2
+polymarketVolume: 99600
 polymarketUrl: "https://polymarket.com/event/will-faze-clan-win-the-cs2-ewc-2026-20260810160005098"
 ---
 
@@ -16,19 +16,19 @@ polymarketUrl: "https://polymarket.com/event/will-faze-clan-win-the-cs2-ewc-2026
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 1.9% | 98.1% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 1.8% | 98.2% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Renan Santos win the 2026 Brazilian presidential election?](/odds/will-renan-santos-win-the-2026-brazilian-presidential-election) — 4% YES
 - [Will Michelle Bolsonaro win the 2026 Brazilian presidential election?](/odds/will-michelle-bolsonaro-win-the-2026-brazilian-presidential-election) — 0% YES
 - [Will Samuel Alito announce his retirement by September 30, 2026?](/odds/will-samuel-alito-announce-his-retirement-by-september-30-2026) — 2% YES
+- [Will the Democrats win the Ohio Senate race in 2026?](/odds/will-the-democrats-win-the-ohio-senate-race-in-2026) — 52% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will FaZe Clan Win the CS2 EWC 2026?"?
 
-As of August 17, 2026, Polymarket prices YES at 1.9%.
+As of August 18, 2026, Polymarket prices YES at 1.8%.
 
 ### Where can I trade on this prediction market?
 

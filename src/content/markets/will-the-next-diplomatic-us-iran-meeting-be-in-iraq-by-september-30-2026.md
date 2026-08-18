@@ -3,8 +3,8 @@ title: "Will the next diplomatic US-Iran meeting be in Iraq by September 30, 202
 description: "Will the next diplomatic US-Iran meeting be in Iraq by September 30, 2026? Odds: 0.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the next diplomatic US-Iran meeting be in Iraq by September 30, 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-08-17
+status: "settled"
+lastUpdated: 2026-08-18
 expiryDate: 2026-09-30
 tags: ["politics", "polymarket"]
 polymarketYes: 0.5

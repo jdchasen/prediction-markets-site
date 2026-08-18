@@ -4,12 +4,12 @@ description: "Will Samuel Alito announce his retirement by September 30, 2026? O
 marketQuestion: "Will Samuel Alito announce his retirement by September 30, 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-08-17
+lastUpdated: 2026-08-18
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 1.8
 polymarketNo: 98.2
-polymarketVolume: 994346
+polymarketVolume: 994764
 polymarketUrl: "https://polymarket.com/event/will-samuel-alito-announce-his-retirement-by-september-30-2026-20260630151901966"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-samuel-alito-announce-his-reti
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 1.8% | 98.2% | $994K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 1.8% | 98.2% | $995K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Renan Santos win the 2026 Brazilian presidential election?](/odds/will-renan-santos-win-the-2026-brazilian-presidential-election) — 4% YES
 - [Will Michelle Bolsonaro win the 2026 Brazilian presidential election?](/odds/will-michelle-bolsonaro-win-the-2026-brazilian-presidential-election) — 0% YES
-- [US x Iran diplomatic meeting by August 31, 2026?](/odds/us-x-iran-diplomatic-meeting-by-august-31-2026) — 8% YES
+- [Will the Democrats win the Ohio Senate race in 2026?](/odds/will-the-democrats-win-the-ohio-senate-race-in-2026) — 52% YES
+- [NYSE marketwide circuit breaker before 2027?](/odds/nyse-marketwide-circuit-breaker-before-2027) — 14% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Samuel Alito announce his retirement by September 30, 2026?"?
 
-As of August 17, 2026, Polymarket prices YES at 1.8%.
+As of August 18, 2026, Polymarket prices YES at 1.8%.
 
 ### Where can I trade on this prediction market?
 

@@ -4,7 +4,7 @@ description: "Will the Democratic Party win the FL-10 House seat? Odds: 94.5% YE
 marketQuestion: "Will the Democratic Party win the FL-10 House seat?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-08-17
+lastUpdated: 2026-08-18
 expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
 polymarketYes: 94.5
@@ -21,15 +21,15 @@ polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-f
 
 ## Related Markets
 
-- [Will Renan Santos win the 2026 Brazilian presidential election?](/odds/will-renan-santos-win-the-2026-brazilian-presidential-election) — 4% YES
 - [Will Michelle Bolsonaro win the 2026 Brazilian presidential election?](/odds/will-michelle-bolsonaro-win-the-2026-brazilian-presidential-election) — 0% YES
 - [Will Samuel Alito announce his retirement by September 30, 2026?](/odds/will-samuel-alito-announce-his-retirement-by-september-30-2026) — 2% YES
+- [Will the Democrats win the Ohio Senate race in 2026?](/odds/will-the-democrats-win-the-ohio-senate-race-in-2026) — 52% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will the Democratic Party win the FL-10 House seat?"?
 
-As of August 17, 2026, Polymarket prices YES at 94.5%.
+As of August 18, 2026, Polymarket prices YES at 94.5%.
 
 ### Where can I trade on this prediction market?
 

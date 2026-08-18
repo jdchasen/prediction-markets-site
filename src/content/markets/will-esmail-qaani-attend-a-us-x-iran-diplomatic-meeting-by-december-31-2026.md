@@ -3,8 +3,8 @@ title: "Will Esmail Qaani attend a US x Iran diplomatic meeting by December 31, 
 description: "Will Esmail Qaani attend a US x Iran diplomatic meeting by December 31, 2026? Odds: 7.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Esmail Qaani attend a US x Iran diplomatic meeting by December 31, 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-08-17
+status: "settled"
+lastUpdated: 2026-08-18
 expiryDate: 2026-12-31
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 7.4

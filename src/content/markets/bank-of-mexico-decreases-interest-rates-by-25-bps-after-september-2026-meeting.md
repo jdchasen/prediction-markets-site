@@ -1,14 +1,14 @@
 ---
 title: "Bank of Mexico decreases interest rates by 25 bps after September 2026 meeting?"
-description: "Bank of Mexico decreases interest rates by 25 bps after September 2026 meeting? Odds: 6.0% YES on Polymarket. See live prices and trade this market."
+description: "Bank of Mexico decreases interest rates by 25 bps after September 2026 meeting? Odds: 5.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Bank of Mexico decreases interest rates by 25 bps after September 2026 meeting?"
 category: "economics"
 status: "active"
-lastUpdated: 2026-08-17
+lastUpdated: 2026-08-18
 expiryDate: 2026-09-24
 tags: ["economics", "interest-rates", "polymarket"]
-polymarketYes: 6.0
-polymarketNo: 94.0
+polymarketYes: 5.5
+polymarketNo: 94.5
 polymarketVolume: 9843
 polymarketUrl: "https://polymarket.com/event/bank-of-mexico-decreases-interest-rates-by-25-bps-after-september-2026-meeting-20260623015320013"
 ---
@@ -17,17 +17,17 @@ polymarketUrl: "https://polymarket.com/event/bank-of-mexico-decreases-interest-r
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 6.0% | 94.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 5.5% | 94.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Canada’s 2026 inflation be between 2.5% and 2.9%?](/odds/will-canadas-2026-inflation-be-between-25-and-29) — 37% YES
+- [Will Canada’s 2026 inflation be between 2.5% and 2.9%?](/odds/will-canadas-2026-inflation-be-between-25-and-29) — 35% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Bank of Mexico decreases interest rates by 25 bps after September 2026 meeting?"?
 
-As of August 17, 2026, Polymarket prices YES at 6.0%.
+As of August 18, 2026, Polymarket prices YES at 5.5%.
 
 ### Where can I trade on this prediction market?
 

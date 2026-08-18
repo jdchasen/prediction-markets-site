@@ -3,8 +3,8 @@ title: "Will there be a run scored in the first inning?: Baltimore Orioles vs. T
 description: "Will there be a run scored in the first inning?: Baltimore Orioles vs. Tampa Bay Rays Odds: 47.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will there be a run scored in the first inning?: Baltimore Orioles vs. Tampa Bay Rays"
 category: "politics"
-status: "active"
-lastUpdated: 2026-08-17
+status: "settled"
+lastUpdated: 2026-08-18
 expiryDate: 2026-08-24
 tags: ["politics", "polymarket"]
 polymarketYes: 47.5

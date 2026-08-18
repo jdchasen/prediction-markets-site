@@ -1,13 +1,13 @@
 ---
 title: "APYX FDV above $50M one day after launch?"
-description: "APYX FDV above $50M one day after launch? Odds: 78.5% YES on Polymarket. See live prices and trade this market."
+description: "APYX FDV above $50M one day after launch? Odds: 78.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "APYX FDV above $50M one day after launch?"
 category: "crypto"
 status: "active"
-lastUpdated: 2026-08-17
+lastUpdated: 2026-08-18
 expiryDate: 2028-01-01
 tags: ["crypto", "polymarket"]
-polymarketYes: 78.5
+polymarketYes: 78.4
 polymarketNo: 21.6
 polymarketVolume: 9951
 polymarketUrl: "https://polymarket.com/event/apyx-fdv-above-50m-one-day-after-launch"
@@ -17,18 +17,17 @@ polymarketUrl: "https://polymarket.com/event/apyx-fdv-above-50m-one-day-after-la
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 78.5% | 21.6% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 78.4% | 21.6% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Loopscale launch a token by December 31, 2026?](/odds/will-loopscale-launch-a-token-by-december-31-2026) — 16% YES
-- [Printr FDV above $150M one day after launch?](/odds/printr-fdv-above-150m-one-day-after-launch) — 4% YES
+- [Will Loopscale launch a token by December 31, 2026?](/odds/will-loopscale-launch-a-token-by-december-31-2026) — 15% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "APYX FDV above $50M one day after launch?"?
 
-As of August 17, 2026, Polymarket prices YES at 78.5%.
+As of August 18, 2026, Polymarket prices YES at 78.4%.
 
 ### Where can I trade on this prediction market?
 

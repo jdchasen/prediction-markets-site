@@ -1,23 +1,23 @@
 ---
-title: "Will Beto O’Rourke announce a Presidential run before 2027?"
-description: "Will Beto O’Rourke announce a Presidential run before 2027? Odds: 2.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Beto O’Rourke announce a Presidential run before 2027?"
+title: "Will New People (NL) win the third-most seats in the next Russian parliamentary election?"
+description: "Will New People (NL) win the third-most seats in the next Russian parliamentary election? Odds: 41.0% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will New People (NL) win the third-most seats in the next Russian parliamentary election?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-18
-expiryDate: 2026-12-31
-tags: ["politics", "polymarket"]
-polymarketYes: 2.5
-polymarketNo: 97.5
-polymarketVolume: 9894
-polymarketUrl: "https://polymarket.com/event/will-beto-orourke-announce-a-presidential-run-before-2027"
+expiryDate: 2026-09-20
+tags: ["elections", "politics", "polymarket"]
+polymarketYes: 41.0
+polymarketNo: 59.0
+polymarketVolume: 9846
+polymarketUrl: "https://polymarket.com/event/will-new-people-nl-win-the-third-most-seats-in-the-next-russian-parliamentary-election"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 2.5% | 97.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 41.0% | 59.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-beto-orourke-announce-a-presid
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Beto O’Rourke announce a Presidential run before 2027?"?
+### What are the current odds for "Will New People (NL) win the third-most seats in the next Russian parliamentary election?"?
 
-As of August 18, 2026, Polymarket prices YES at 2.5%.
+As of August 18, 2026, Polymarket prices YES at 41.0%.
 
 ### Where can I trade on this prediction market?
 

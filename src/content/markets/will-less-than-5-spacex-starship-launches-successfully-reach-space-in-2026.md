@@ -4,12 +4,12 @@ description: "Will less than 5 SpaceX Starship launches successfully reach Space
 marketQuestion: "Will less than 5 SpaceX Starship launches successfully reach Space in 2026?"
 category: "tech"
 status: "active"
-lastUpdated: 2026-08-17
+lastUpdated: 2026-08-18
 expiryDate: 2026-12-31
 tags: ["polymarket", "tech"]
 polymarketYes: 32.0
 polymarketNo: 68.0
-polymarketVolume: 99127
+polymarketVolume: 99153
 polymarketUrl: "https://polymarket.com/event/will-less-than-5-spacex-starship-launches-successfully-reach-space-in-2026"
 ---
 
@@ -23,7 +23,7 @@ polymarketUrl: "https://polymarket.com/event/will-less-than-5-spacex-starship-la
 
 ### What are the current odds for "Will less than 5 SpaceX Starship launches successfully reach Space in 2026?"?
 
-As of August 17, 2026, Polymarket prices YES at 32.0%.
+As of August 18, 2026, Polymarket prices YES at 32.0%.
 
 ### Where can I trade on this prediction market?
 

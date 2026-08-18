@@ -1,23 +1,23 @@
 ---
-title: "Will Truist fail by end of 2026?"
-description: "Will Truist fail by end of 2026? Odds: 3.1% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Truist fail by end of 2026?"
+title: "Will the ECB announce a 25 bps increase at the October 2026 meeting?"
+description: "Will the ECB announce a 25 bps increase at the October 2026 meeting? Odds: 8.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will the ECB announce a 25 bps increase at the October 2026 meeting?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-18
-expiryDate: 2026-12-31
-tags: ["ai", "politics", "polymarket"]
-polymarketYes: 3.1
-polymarketNo: 96.9
-polymarketVolume: 9973
-polymarketUrl: "https://polymarket.com/event/will-truist-fail-by-end-of-2026"
+expiryDate: 2026-10-29
+tags: ["politics", "polymarket"]
+polymarketYes: 8.5
+polymarketNo: 91.5
+polymarketVolume: 9766
+polymarketUrl: "https://polymarket.com/event/will-the-ecb-announce-a-25-bps-increase-at-the-october-2026-meeting-20260723225848782"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 3.1% | 96.9% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 8.5% | 91.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-truist-fail-by-end-of-2026"
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Truist fail by end of 2026?"?
+### What are the current odds for "Will the ECB announce a 25 bps increase at the October 2026 meeting?"?
 
-As of August 18, 2026, Polymarket prices YES at 3.1%.
+As of August 18, 2026, Polymarket prices YES at 8.5%.
 
 ### Where can I trade on this prediction market?
 

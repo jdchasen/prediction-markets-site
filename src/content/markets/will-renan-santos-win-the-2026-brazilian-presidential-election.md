@@ -3,8 +3,8 @@ title: "Will Renan Santos win the 2026 Brazilian presidential election?"
 description: "Will Renan Santos win the 2026 Brazilian presidential election? Odds: 3.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Renan Santos win the 2026 Brazilian presidential election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-08-17
+status: "settled"
+lastUpdated: 2026-08-18
 expiryDate: 2026-10-04
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 3.8

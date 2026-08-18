@@ -3,8 +3,8 @@ title: "Will the Arizona Diamondbacks clinch a spot in the 2026 MLB Postseason?"
 description: "Will the Arizona Diamondbacks clinch a spot in the 2026 MLB Postseason? Odds: 46.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Arizona Diamondbacks clinch a spot in the 2026 MLB Postseason?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-08-17
+status: "settled"
+lastUpdated: 2026-08-18
 expiryDate: 2026-09-28
 tags: ["polymarket", "sports"]
 polymarketYes: 46.5

@@ -3,8 +3,8 @@ title: "Cincinnati Open: Tommy Paul vs Adolfo Vallejo"
 description: "Cincinnati Open: Tommy Paul vs Adolfo Vallejo Odds: 79.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Cincinnati Open: Tommy Paul vs Adolfo Vallejo"
 category: "politics"
-status: "active"
-lastUpdated: 2026-08-17
+status: "settled"
+lastUpdated: 2026-08-18
 expiryDate: 2026-08-24
 tags: ["politics", "polymarket"]
 polymarketYes: 79.5

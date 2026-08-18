@@ -3,8 +3,8 @@ title: "Will Jack Reed be the Democratic nominee for Senate in Rhode Island?"
 description: "Will Jack Reed be the Democratic nominee for Senate in Rhode Island? Odds: 96.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Jack Reed be the Democratic nominee for Senate in Rhode Island?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-08-17
+status: "settled"
+lastUpdated: 2026-08-18
 expiryDate: 2026-09-08
 tags: ["politics", "polymarket"]
 polymarketYes: 96.2

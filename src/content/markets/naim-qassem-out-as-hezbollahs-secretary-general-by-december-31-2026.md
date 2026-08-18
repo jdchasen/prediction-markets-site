@@ -1,23 +1,23 @@
 ---
-title: "Will Truist fail by end of 2026?"
-description: "Will Truist fail by end of 2026? Odds: 3.1% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Truist fail by end of 2026?"
+title: "Naim Qassem out as Hezbollah’s secretary-general by December 31, 2026?"
+description: "Naim Qassem out as Hezbollah’s secretary-general by December 31, 2026? Odds: 8.3% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Naim Qassem out as Hezbollah’s secretary-general by December 31, 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-18
 expiryDate: 2026-12-31
 tags: ["ai", "politics", "polymarket"]
-polymarketYes: 3.1
-polymarketNo: 96.9
-polymarketVolume: 9973
-polymarketUrl: "https://polymarket.com/event/will-truist-fail-by-end-of-2026"
+polymarketYes: 8.3
+polymarketNo: 91.6
+polymarketVolume: 9987
+polymarketUrl: "https://polymarket.com/event/naim-qassem-out-as-hezbollahs-secretary-general-by-december-31-2026"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 3.1% | 96.9% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 8.3% | 91.6% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-truist-fail-by-end-of-2026"
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Truist fail by end of 2026?"?
+### What are the current odds for "Naim Qassem out as Hezbollah’s secretary-general by December 31, 2026?"?
 
-As of August 18, 2026, Polymarket prices YES at 3.1%.
+As of August 18, 2026, Polymarket prices YES at 8.3%.
 
 ### Where can I trade on this prediction market?
 

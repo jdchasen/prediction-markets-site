@@ -1,15 +1,15 @@
 ---
 title: "US charges Hormuz fees by December 31, 2026?"
-description: "US charges Hormuz fees by December 31, 2026? Odds: 6.5% YES on Polymarket. See live prices and trade this market."
+description: "US charges Hormuz fees by December 31, 2026? Odds: 5.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "US charges Hormuz fees by December 31, 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-08-17
+lastUpdated: 2026-08-18
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 6.5
-polymarketNo: 93.5
-polymarketVolume: 98858
+polymarketYes: 5.5
+polymarketNo: 94.5
+polymarketVolume: 98946
 polymarketUrl: "https://polymarket.com/event/us-charges-hormuz-fees-by-december-31-2026-20260713151243236"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/us-charges-hormuz-fees-by-december-
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 6.5% | 93.5% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 5.5% | 94.5% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Renan Santos win the 2026 Brazilian presidential election?](/odds/will-renan-santos-win-the-2026-brazilian-presidential-election) — 4% YES
 - [Will Michelle Bolsonaro win the 2026 Brazilian presidential election?](/odds/will-michelle-bolsonaro-win-the-2026-brazilian-presidential-election) — 0% YES
 - [Will Samuel Alito announce his retirement by September 30, 2026?](/odds/will-samuel-alito-announce-his-retirement-by-september-30-2026) — 2% YES
+- [Will the Democrats win the Ohio Senate race in 2026?](/odds/will-the-democrats-win-the-ohio-senate-race-in-2026) — 52% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "US charges Hormuz fees by December 31, 2026?"?
 
-As of August 17, 2026, Polymarket prices YES at 6.5%.
+As of August 18, 2026, Polymarket prices YES at 5.5%.
 
 ### Where can I trade on this prediction market?
 

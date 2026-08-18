@@ -1,23 +1,22 @@
 ---
-title: "Will Truist fail by end of 2026?"
-description: "Will Truist fail by end of 2026? Odds: 3.1% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Truist fail by end of 2026?"
+title: "Will Democratic Senate incumbents win all their nominating elections in the 2026 cycle?"
+description: "Will Democratic Senate incumbents win all their nominating elections in the 2026 cycle? Odds: 95.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Democratic Senate incumbents win all their nominating elections in the 2026 cycle?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-18
-expiryDate: 2026-12-31
-tags: ["ai", "politics", "polymarket"]
-polymarketYes: 3.1
-polymarketNo: 96.9
-polymarketVolume: 9973
-polymarketUrl: "https://polymarket.com/event/will-truist-fail-by-end-of-2026"
+tags: ["elections", "politics", "polymarket"]
+polymarketYes: 95.5
+polymarketNo: 4.5
+polymarketVolume: 9804
+polymarketUrl: "https://polymarket.com/event/will-democratic-senate-incumbents-win-all-their-nominating-elections-in-the-2026-cycle"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 3.1% | 96.9% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 95.5% | 4.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +26,9 @@ polymarketUrl: "https://polymarket.com/event/will-truist-fail-by-end-of-2026"
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Truist fail by end of 2026?"?
+### What are the current odds for "Will Democratic Senate incumbents win all their nominating elections in the 2026 cycle?"?
 
-As of August 18, 2026, Polymarket prices YES at 3.1%.
+As of August 18, 2026, Polymarket prices YES at 95.5%.
 
 ### Where can I trade on this prediction market?
 

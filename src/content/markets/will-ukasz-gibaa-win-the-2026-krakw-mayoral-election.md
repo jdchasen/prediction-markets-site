@@ -1,23 +1,23 @@
 ---
-title: "Will Truist fail by end of 2026?"
-description: "Will Truist fail by end of 2026? Odds: 3.1% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Truist fail by end of 2026?"
+title: "Will Łukasz Gibała win the 2026 Kraków mayoral election?"
+description: "Will Łukasz Gibała win the 2026 Kraków mayoral election? Odds: 69.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Łukasz Gibała win the 2026 Kraków mayoral election?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-18
-expiryDate: 2026-12-31
-tags: ["ai", "politics", "polymarket"]
-polymarketYes: 3.1
-polymarketNo: 96.9
-polymarketVolume: 9973
-polymarketUrl: "https://polymarket.com/event/will-truist-fail-by-end-of-2026"
+expiryDate: 2026-09-27
+tags: ["elections", "politics", "polymarket"]
+polymarketYes: 69.5
+polymarketNo: 30.5
+polymarketVolume: 9846
+polymarketUrl: "https://polymarket.com/event/will-ukasz-gibaa-win-the-2026-krakow-mayoral-election-20260806121025556"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 3.1% | 96.9% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 69.5% | 30.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-truist-fail-by-end-of-2026"
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Truist fail by end of 2026?"?
+### What are the current odds for "Will Łukasz Gibała win the 2026 Kraków mayoral election?"?
 
-As of August 18, 2026, Polymarket prices YES at 3.1%.
+As of August 18, 2026, Polymarket prices YES at 69.5%.
 
 ### Where can I trade on this prediction market?
 

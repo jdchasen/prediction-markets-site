@@ -3,8 +3,8 @@ title: "Will Bruce Walden win the 2026 Alaska governor election?"
 description: "Will Bruce Walden win the 2026 Alaska governor election? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Bruce Walden win the 2026 Alaska governor election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-08-17
+status: "settled"
+lastUpdated: 2026-08-18
 expiryDate: 2026-11-03
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.1
