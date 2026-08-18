@@ -3,7 +3,7 @@ title: "APYX FDV above $50M one day after launch?"
 description: "APYX FDV above $50M one day after launch? Odds: 78.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "APYX FDV above $50M one day after launch?"
 category: "crypto"
-status: "active"
+status: "settled"
 lastUpdated: 2026-08-18
 expiryDate: 2028-01-01
 tags: ["crypto", "polymarket"]

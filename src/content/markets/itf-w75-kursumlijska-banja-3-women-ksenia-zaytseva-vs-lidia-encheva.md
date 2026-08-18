@@ -3,7 +3,7 @@ title: "ITF W75 Kursumlijska Banja 3 Women: Ksenia Zaytseva vs Lidia Encheva"
 description: "ITF W75 Kursumlijska Banja 3 Women: Ksenia Zaytseva vs Lidia Encheva Odds: 49.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "ITF W75 Kursumlijska Banja 3 Women: Ksenia Zaytseva vs Lidia Encheva"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-08-18
 expiryDate: 2026-08-25
 tags: ["politics", "polymarket"]

@@ -9,7 +9,7 @@ expiryDate: 2027-07-01
 tags: ["polymarket", "sports"]
 polymarketYes: 13.2
 polymarketNo: 86.9
-polymarketVolume: 987984
+polymarketVolume: 988310
 polymarketUrl: "https://polymarket.com/event/will-philadelphia-76ers-win-the-2027-nba-finals"
 ---
 

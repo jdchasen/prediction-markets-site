@@ -19,10 +19,6 @@ polymarketUrl: "https://polymarket.com/event/will-loopscale-launch-a-token-by-de
 |----------|-----|-----|--------|-------|
 | Polymarket | 15.0% | 85.0% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
-## Related Markets
-
-- [APYX FDV above $50M one day after launch?](/odds/apyx-fdv-above-50m-one-day-after-launch) — 78% YES
-
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Loopscale launch a token by December 31, 2026?"?

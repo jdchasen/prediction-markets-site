@@ -1,14 +1,14 @@
 ---
 title: "Will the US federal government take a stake in The Boeing Company?"
-description: "Will the US federal government take a stake in The Boeing Company? Odds: 7.0% YES on Polymarket. See live prices and trade this market."
+description: "Will the US federal government take a stake in The Boeing Company? Odds: 13.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the US federal government take a stake in The Boeing Company?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-18
 expiryDate: 2026-12-31
 tags: ["federal-reserve", "politics", "polymarket"]
-polymarketYes: 7.0
-polymarketNo: 93.0
+polymarketYes: 13.0
+polymarketNo: 87.0
 polymarketVolume: 9835
 polymarketUrl: "https://polymarket.com/event/will-the-us-federal-government-take-a-stake-in-the-boeing-company"
 ---
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-the-us-federal-government-take
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 7.0% | 93.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 13.0% | 87.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Michelle Bolsonaro win the 2026 Brazilian presidential election?](/odds/will-michelle-bolsonaro-win-the-2026-brazilian-presidential-election) — 0% YES
-- [Will Samuel Alito announce his retirement by September 30, 2026?](/odds/will-samuel-alito-announce-his-retirement-by-september-30-2026) — 2% YES
-- [Will the Democrats win the Ohio Senate race in 2026?](/odds/will-the-democrats-win-the-ohio-senate-race-in-2026) — 52% YES
+- [NYSE marketwide circuit breaker before 2027?](/odds/nyse-marketwide-circuit-breaker-before-2027) — 14% YES
+- [Will Russia capture all of Prymorske by December 31, 2026?](/odds/will-russia-capture-all-of-prymorske-by-december-31-2026) — 6% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will the US federal government take a stake in The Boeing Company?"?
 
-As of August 18, 2026, Polymarket prices YES at 7.0%.
+As of August 18, 2026, Polymarket prices YES at 13.0%.
 
 ### Where can I trade on this prediction market?
 

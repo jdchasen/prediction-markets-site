@@ -1,23 +1,23 @@
 ---
-title: "Will UNI reach $15.50 by December 31, 2026?"
-description: "Will UNI reach $15.50 by December 31, 2026? Odds: 4.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will UNI reach $15.50 by December 31, 2026?"
+title: "Will Georgia Tree win the 2026 Secret Harbour state by-election?"
+description: "Will Georgia Tree win the 2026 Secret Harbour state by-election? Odds: 83.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Georgia Tree win the 2026 Secret Harbour state by-election?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-18
-expiryDate: 2027-01-01
-tags: ["politics", "polymarket"]
-polymarketYes: 4.5
-polymarketNo: 95.5
-polymarketVolume: 9828
-polymarketUrl: "https://polymarket.com/event/will-uni-reach-15pt50-by-december-31-2026"
+expiryDate: 2026-08-29
+tags: ["elections", "politics", "polymarket"]
+polymarketYes: 83.5
+polymarketNo: 16.5
+polymarketVolume: 9975
+polymarketUrl: "https://polymarket.com/event/will-georgia-tree-win-the-2026-secret-harbour-state-by-election-20260727232510800"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 4.5% | 95.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 83.5% | 16.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-uni-reach-15pt50-by-december-3
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will UNI reach $15.50 by December 31, 2026?"?
+### What are the current odds for "Will Georgia Tree win the 2026 Secret Harbour state by-election?"?
 
-As of August 18, 2026, Polymarket prices YES at 4.5%.
+As of August 18, 2026, Polymarket prices YES at 83.5%.
 
 ### Where can I trade on this prediction market?
 
@@ -37,6 +37,6 @@ You can trade this market on [Polymarket](https://polymarket.us/1762?utm_source=
 
 ## Learn More
 
+- [Is Kalshi Legal? State-by-State Guide (2026)](/blog/is-kalshi-legal)
 - [Will ETH Hit $4,500 in 2026? Live Market Odds](/blog/will-ethereum-reach-4500-in-2026-what-prediction-markets-say)
-- [Will Discord IPO in 2026? What Prediction Markets Say](/blog/will-discord-ipo-in-2026-what-prediction-markets-say)
 

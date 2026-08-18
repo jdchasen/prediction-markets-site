@@ -3,7 +3,7 @@ title: "Kylie Jenner and Timothée Chalamet engaged in 2026?"
 description: "Kylie Jenner and Timothée Chalamet engaged in 2026? Odds: 23.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Kylie Jenner and Timothée Chalamet engaged in 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-08-18
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]

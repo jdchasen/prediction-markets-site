@@ -1,23 +1,23 @@
 ---
-title: "Will the Republican Party win the PA-13 House seat?"
-description: "Will the Republican Party win the PA-13 House seat? Odds: 94.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will the Republican Party win the PA-13 House seat?"
+title: "Will Åsa Johansson be the next Regional Board Chair of Region Värmland?"
+description: "Will Åsa Johansson be the next Regional Board Chair of Region Värmland? Odds: 83.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Åsa Johansson be the next Regional Board Chair of Region Värmland?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-18
-expiryDate: 2026-11-03
-tags: ["politics", "polymarket"]
-polymarketYes: 94.5
-polymarketNo: 5.5
-polymarketVolume: 9885
-polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-pa-13-house-seat"
+expiryDate: 2026-09-13
+tags: ["ai", "politics", "polymarket"]
+polymarketYes: 83.5
+polymarketNo: 16.5
+polymarketVolume: 9985
+polymarketUrl: "https://polymarket.com/event/will-asa-johansson-be-the-next-regional-board-chair-of-region-varmland-1786127814093"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 94.5% | 5.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 83.5% | 16.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-p
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will the Republican Party win the PA-13 House seat?"?
+### What are the current odds for "Will Åsa Johansson be the next Regional Board Chair of Region Värmland?"?
 
-As of August 18, 2026, Polymarket prices YES at 94.5%.
+As of August 18, 2026, Polymarket prices YES at 83.5%.
 
 ### Where can I trade on this prediction market?
 

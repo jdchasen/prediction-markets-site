@@ -1,23 +1,23 @@
 ---
-title: "Will the Republican Party win the PA-13 House seat?"
-description: "Will the Republican Party win the PA-13 House seat? Odds: 94.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will the Republican Party win the PA-13 House seat?"
+title: "Will Russia enter Dobropillia by October 31?"
+description: "Will Russia enter Dobropillia by October 31? Odds: 70.0% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Russia enter Dobropillia by October 31?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-18
-expiryDate: 2026-11-03
+expiryDate: 2026-10-31
 tags: ["politics", "polymarket"]
-polymarketYes: 94.5
-polymarketNo: 5.5
-polymarketVolume: 9885
-polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-pa-13-house-seat"
+polymarketYes: 70.0
+polymarketNo: 30.0
+polymarketVolume: 9818
+polymarketUrl: "https://polymarket.com/event/will-russia-enter-dobropillia-by-october-31"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 94.5% | 5.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 70.0% | 30.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-p
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will the Republican Party win the PA-13 House seat?"?
+### What are the current odds for "Will Russia enter Dobropillia by October 31?"?
 
-As of August 18, 2026, Polymarket prices YES at 94.5%.
+As of August 18, 2026, Polymarket prices YES at 70.0%.
 
 ### Where can I trade on this prediction market?
 

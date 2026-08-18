@@ -1,23 +1,23 @@
 ---
-title: "Will the Republican Party win the PA-13 House seat?"
-description: "Will the Republican Party win the PA-13 House seat? Odds: 94.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will the Republican Party win the PA-13 House seat?"
+title: "Will NVIDIA (NVDA) hit (HIGH) $240 in August?"
+description: "Will NVIDIA (NVDA) hit (HIGH) $240 in August? Odds: 23.0% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will NVIDIA (NVDA) hit (HIGH) $240 in August?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-18
-expiryDate: 2026-11-03
+expiryDate: 2026-09-01
 tags: ["politics", "polymarket"]
-polymarketYes: 94.5
-polymarketNo: 5.5
-polymarketVolume: 9885
-polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-pa-13-house-seat"
+polymarketYes: 23.0
+polymarketNo: 77.0
+polymarketVolume: 9813
+polymarketUrl: "https://polymarket.com/event/will-nvda-reach-240-in-august-2026"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 94.5% | 5.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 23.0% | 77.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-p
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will the Republican Party win the PA-13 House seat?"?
+### What are the current odds for "Will NVIDIA (NVDA) hit (HIGH) $240 in August?"?
 
-As of August 18, 2026, Polymarket prices YES at 94.5%.
+As of August 18, 2026, Polymarket prices YES at 23.0%.
 
 ### Where can I trade on this prediction market?
 

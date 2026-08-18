@@ -3,7 +3,7 @@ title: "Will the Democrats win the Ohio Senate race in 2026?"
 description: "Will the Democrats win the Ohio Senate race in 2026? Odds: 52.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Democrats win the Ohio Senate race in 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-08-18
 tags: ["politics", "polymarket"]
 polymarketYes: 52.5

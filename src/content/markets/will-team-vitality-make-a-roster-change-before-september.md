@@ -1,13 +1,13 @@
 ---
 title: "Will Team Vitality Make a Roster Change before September?"
-description: "Will Team Vitality Make a Roster Change before September? Odds: 5.9% YES on Polymarket. See live prices and trade this market."
+description: "Will Team Vitality Make a Roster Change before September? Odds: 5.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Team Vitality Make a Roster Change before September?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-18
 tags: ["politics", "polymarket"]
-polymarketYes: 5.9
-polymarketNo: 94.2
+polymarketYes: 5.5
+polymarketNo: 94.5
 polymarketVolume: 9848
 polymarketUrl: "https://polymarket.com/event/will-team-vitality-make-a-roster-change-before-september-20260623151753357"
 ---
@@ -16,19 +16,19 @@ polymarketUrl: "https://polymarket.com/event/will-team-vitality-make-a-roster-ch
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 5.9% | 94.2% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 5.5% | 94.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Michelle Bolsonaro win the 2026 Brazilian presidential election?](/odds/will-michelle-bolsonaro-win-the-2026-brazilian-presidential-election) — 0% YES
-- [Will Samuel Alito announce his retirement by September 30, 2026?](/odds/will-samuel-alito-announce-his-retirement-by-september-30-2026) — 2% YES
-- [Will the Democrats win the Ohio Senate race in 2026?](/odds/will-the-democrats-win-the-ohio-senate-race-in-2026) — 52% YES
+- [NYSE marketwide circuit breaker before 2027?](/odds/nyse-marketwide-circuit-breaker-before-2027) — 14% YES
+- [Will Russia capture all of Prymorske by December 31, 2026?](/odds/will-russia-capture-all-of-prymorske-by-december-31-2026) — 6% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Team Vitality Make a Roster Change before September?"?
 
-As of August 18, 2026, Polymarket prices YES at 5.9%.
+As of August 18, 2026, Polymarket prices YES at 5.5%.
 
 ### Where can I trade on this prediction market?
 

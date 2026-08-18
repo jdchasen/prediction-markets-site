@@ -19,6 +19,10 @@ polymarketUrl: "https://polymarket.com/event/will-less-than-5-spacex-starship-la
 |----------|-----|-----|--------|-------|
 | Polymarket | 32.0% | 68.0% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
+## Related Markets
+
+- [Will Trump meet with Elon Musk in August 2026?](/odds/will-trump-meet-with-elon-musk-in-august-2026) — 4% YES
+
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will less than 5 SpaceX Starship launches successfully reach Space in 2026?"?

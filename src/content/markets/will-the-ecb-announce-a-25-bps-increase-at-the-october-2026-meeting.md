@@ -1,15 +1,15 @@
 ---
 title: "Will the ECB announce a 25 bps increase at the October 2026 meeting?"
-description: "Will the ECB announce a 25 bps increase at the October 2026 meeting? Odds: 8.5% YES on Polymarket. See live prices and trade this market."
+description: "Will the ECB announce a 25 bps increase at the October 2026 meeting? Odds: 9.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the ECB announce a 25 bps increase at the October 2026 meeting?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-18
 expiryDate: 2026-10-29
 tags: ["politics", "polymarket"]
-polymarketYes: 8.5
-polymarketNo: 91.5
-polymarketVolume: 9766
+polymarketYes: 9.5
+polymarketNo: 90.5
+polymarketVolume: 9801
 polymarketUrl: "https://polymarket.com/event/will-the-ecb-announce-a-25-bps-increase-at-the-october-2026-meeting-20260723225848782"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-the-ecb-announce-a-25-bps-incr
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 8.5% | 91.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 9.5% | 90.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Michelle Bolsonaro win the 2026 Brazilian presidential election?](/odds/will-michelle-bolsonaro-win-the-2026-brazilian-presidential-election) — 0% YES
-- [Will Samuel Alito announce his retirement by September 30, 2026?](/odds/will-samuel-alito-announce-his-retirement-by-september-30-2026) — 2% YES
-- [Will the Democrats win the Ohio Senate race in 2026?](/odds/will-the-democrats-win-the-ohio-senate-race-in-2026) — 52% YES
+- [NYSE marketwide circuit breaker before 2027?](/odds/nyse-marketwide-circuit-breaker-before-2027) — 14% YES
+- [Will Russia capture all of Prymorske by December 31, 2026?](/odds/will-russia-capture-all-of-prymorske-by-december-31-2026) — 6% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will the ECB announce a 25 bps increase at the October 2026 meeting?"?
 
-As of August 18, 2026, Polymarket prices YES at 8.5%.
+As of August 18, 2026, Polymarket prices YES at 9.5%.
 
 ### Where can I trade on this prediction market?
 

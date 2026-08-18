@@ -3,7 +3,7 @@ title: "Will valve announce no hero as the new hero at The International 2026?"
 description: "Will valve announce no hero as the new hero at The International 2026? Odds: 37.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will valve announce no hero as the new hero at The International 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-08-18
 tags: ["politics", "polymarket"]
 polymarketYes: 37.5
