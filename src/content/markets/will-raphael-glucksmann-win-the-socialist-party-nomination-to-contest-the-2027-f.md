@@ -3,8 +3,8 @@ title: "Will Raphael Glucksmann win the Socialist Party nomination to contest th
 description: "Will Raphael Glucksmann win the Socialist Party nomination to contest the 2027 French presidential elections? Odds: 56.0% YES on Polymarket. See live prices ..."
 marketQuestion: "Will Raphael Glucksmann win the Socialist Party nomination to contest the 2027 French presidential elections?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-08-18
+status: "settled"
+lastUpdated: 2026-08-19
 expiryDate: 2026-10-31
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 56.0

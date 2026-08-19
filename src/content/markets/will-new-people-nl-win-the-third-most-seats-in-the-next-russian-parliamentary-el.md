@@ -1,14 +1,14 @@
 ---
 title: "Will New People (NL) win the third-most seats in the next Russian parliamentary election?"
-description: "Will New People (NL) win the third-most seats in the next Russian parliamentary election? Odds: 38.0% YES on Polymarket. See live prices and trade this market."
+description: "Will New People (NL) win the third-most seats in the next Russian parliamentary election? Odds: 38.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will New People (NL) win the third-most seats in the next Russian parliamentary election?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-08-18
+lastUpdated: 2026-08-19
 expiryDate: 2026-09-20
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 38.0
-polymarketNo: 62.0
+polymarketYes: 38.5
+polymarketNo: 61.5
 polymarketVolume: 9850
 polymarketUrl: "https://polymarket.com/event/will-new-people-nl-win-the-third-most-seats-in-the-next-russian-parliamentary-election"
 ---
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-new-people-nl-win-the-third-mo
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 38.0% | 62.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 38.5% | 61.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Michelle Bolsonaro win the 2026 Brazilian presidential election?](/odds/will-michelle-bolsonaro-win-the-2026-brazilian-presidential-election) — 0% YES
+- [Will Donald Trump win the 2028 US Presidential Election?](/odds/will-donald-trump-win-the-2028-us-presidential-election) — 2% YES
+- [Iran charges Hormuz fees by August 31?](/odds/iran-charges-hormuz-fees-by-august-31) — 10% YES
 - [NYSE marketwide circuit breaker before 2027?](/odds/nyse-marketwide-circuit-breaker-before-2027) — 14% YES
-- [Will Russia capture all of Prymorske by December 31, 2026?](/odds/will-russia-capture-all-of-prymorske-by-december-31-2026) — 6% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will New People (NL) win the third-most seats in the next Russian parliamentary election?"?
 
-As of August 18, 2026, Polymarket prices YES at 38.0%.
+As of August 19, 2026, Polymarket prices YES at 38.5%.
 
 ### Where can I trade on this prediction market?
 

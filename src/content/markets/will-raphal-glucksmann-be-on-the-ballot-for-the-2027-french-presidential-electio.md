@@ -1,23 +1,23 @@
 ---
-title: "Will Chico Machado win the Governor of Rio de Janeiro election?"
-description: "Will Chico Machado win the Governor of Rio de Janeiro election? Odds: 0.3% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Chico Machado win the Governor of Rio de Janeiro election?"
+title: "Will Raphaël Glucksmann be on the ballot for the 2027 French presidential election?"
+description: "Will Raphaël Glucksmann be on the ballot for the 2027 French presidential election? Odds: 62.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Raphaël Glucksmann be on the ballot for the 2027 French presidential election?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-19
-expiryDate: 2026-10-05
+expiryDate: 2027-04-17
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 0.3
-polymarketNo: 99.7
-polymarketVolume: 9842
-polymarketUrl: "https://polymarket.com/event/will-chico-machado-win-the-governor-of-rio-de-janeiro-election-20260608202950328"
+polymarketYes: 62.5
+polymarketNo: 37.5
+polymarketVolume: 9826
+polymarketUrl: "https://polymarket.com/event/will-raphal-glucksmann-be-on-the-ballot-for-the-2027-french-presidential-election"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.3% | 99.7% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 62.5% | 37.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-chico-machado-win-the-governor
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Chico Machado win the Governor of Rio de Janeiro election?"?
+### What are the current odds for "Will Raphaël Glucksmann be on the ballot for the 2027 French presidential election?"?
 
-As of August 19, 2026, Polymarket prices YES at 0.3%.
+As of August 19, 2026, Polymarket prices YES at 62.5%.
 
 ### Where can I trade on this prediction market?
 

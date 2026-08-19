@@ -3,8 +3,8 @@ title: "Will Lucas Ribeiro win the Governor of Paraíba election?"
 description: "Will Lucas Ribeiro win the Governor of Paraíba election? Odds: 74.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Lucas Ribeiro win the Governor of Paraíba election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-08-18
+status: "settled"
+lastUpdated: 2026-08-19
 expiryDate: 2026-10-05
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 74.0

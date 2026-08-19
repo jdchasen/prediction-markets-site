@@ -3,8 +3,8 @@ title: "Will Georgia Tree win the 2026 Secret Harbour state by-election?"
 description: "Will Georgia Tree win the 2026 Secret Harbour state by-election? Odds: 83.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Georgia Tree win the 2026 Secret Harbour state by-election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-08-18
+status: "settled"
+lastUpdated: 2026-08-19
 expiryDate: 2026-08-29
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 83.5

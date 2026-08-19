@@ -3,8 +3,8 @@ title: "Will Łukasz Gibała win the 2026 Kraków mayoral election?"
 description: "Will Łukasz Gibała win the 2026 Kraków mayoral election? Odds: 70.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Łukasz Gibała win the 2026 Kraków mayoral election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-08-18
+status: "settled"
+lastUpdated: 2026-08-19
 expiryDate: 2026-09-27
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 70.0

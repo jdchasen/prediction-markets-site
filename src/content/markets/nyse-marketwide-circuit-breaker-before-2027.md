@@ -4,7 +4,7 @@ description: "NYSE marketwide circuit breaker before 2027? Odds: 14.0% YES on Po
 marketQuestion: "NYSE marketwide circuit breaker before 2027?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-08-18
+lastUpdated: 2026-08-19
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 14.0
@@ -21,15 +21,15 @@ polymarketUrl: "https://polymarket.com/event/nyse-marketwide-circuit-breaker-bef
 
 ## Related Markets
 
-- [Will Michelle Bolsonaro win the 2026 Brazilian presidential election?](/odds/will-michelle-bolsonaro-win-the-2026-brazilian-presidential-election) — 0% YES
-- [Will Russia capture all of Prymorske by December 31, 2026?](/odds/will-russia-capture-all-of-prymorske-by-december-31-2026) — 6% YES
+- [Will Donald Trump win the 2028 US Presidential Election?](/odds/will-donald-trump-win-the-2028-us-presidential-election) — 2% YES
+- [Iran charges Hormuz fees by August 31?](/odds/iran-charges-hormuz-fees-by-august-31) — 10% YES
 - [Will MicroStrategy be margin called in 2026?](/odds/will-microstrategy-be-margin-called-in-2026) — 4% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "NYSE marketwide circuit breaker before 2027?"?
 
-As of August 18, 2026, Polymarket prices YES at 14.0%.
+As of August 19, 2026, Polymarket prices YES at 14.0%.
 
 ### Where can I trade on this prediction market?
 

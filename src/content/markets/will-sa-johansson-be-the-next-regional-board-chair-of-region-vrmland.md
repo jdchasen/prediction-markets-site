@@ -3,8 +3,8 @@ title: "Will Åsa Johansson be the next Regional Board Chair of Region Värmland
 description: "Will Åsa Johansson be the next Regional Board Chair of Region Värmland? Odds: 83.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Åsa Johansson be the next Regional Board Chair of Region Värmland?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-08-18
+status: "settled"
+lastUpdated: 2026-08-19
 expiryDate: 2026-09-13
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 83.5

@@ -4,7 +4,7 @@ description: "Will Dune: Part Three win Best Picture at the 99th Academy Awards?
 marketQuestion: "Will Dune: Part Three win Best Picture at the 99th Academy Awards?"
 category: "entertainment"
 status: "active"
-lastUpdated: 2026-08-18
+lastUpdated: 2026-08-19
 expiryDate: 2027-03-14
 tags: ["entertainment", "polymarket"]
 polymarketYes: 12.5
@@ -23,7 +23,7 @@ polymarketUrl: "https://polymarket.com/event/will-dune-part-three-win-best-pictu
 
 ### What are the current odds for "Will Dune: Part Three win Best Picture at the 99th Academy Awards?"?
 
-As of August 18, 2026, Polymarket prices YES at 12.5%.
+As of August 19, 2026, Polymarket prices YES at 12.5%.
 
 ### Where can I trade on this prediction market?
 

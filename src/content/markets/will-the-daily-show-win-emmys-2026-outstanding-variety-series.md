@@ -1,16 +1,16 @@
 ---
-title: "Will Truist fail by end of 2026?"
-description: "Will Truist fail by end of 2026? Odds: 3.1% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Truist fail by end of 2026?"
+title: "Will “The Daily Show” win Emmys 2026: Outstanding variety series?"
+description: "Will “The Daily Show” win Emmys 2026: Outstanding variety series? Odds: 3.1% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will “The Daily Show” win Emmys 2026: Outstanding variety series?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-19
-expiryDate: 2026-12-31
-tags: ["ai", "politics", "polymarket"]
+expiryDate: 2026-09-14
+tags: ["ai", "entertainment", "politics", "polymarket"]
 polymarketYes: 3.1
 polymarketNo: 96.9
-polymarketVolume: 9973
-polymarketUrl: "https://polymarket.com/event/will-truist-fail-by-end-of-2026"
+polymarketVolume: 9835
+polymarketUrl: "https://polymarket.com/event/will-the-daily-show-win-emmys-2026-outstanding-variety-series-20260709174232978"
 ---
 
 ## Current Odds
@@ -27,7 +27,7 @@ polymarketUrl: "https://polymarket.com/event/will-truist-fail-by-end-of-2026"
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Truist fail by end of 2026?"?
+### What are the current odds for "Will “The Daily Show” win Emmys 2026: Outstanding variety series?"?
 
 As of August 19, 2026, Polymarket prices YES at 3.1%.
 
@@ -37,6 +37,6 @@ You can trade this market on [Polymarket](https://polymarket.us/1762?utm_source=
 
 ## Learn More
 
-- [Will ETH Hit $4,500 in 2026? Live Market Odds](/blog/will-ethereum-reach-4500-in-2026-what-prediction-markets-say)
-- [Will Discord IPO in 2026? What Prediction Markets Say](/blog/will-discord-ipo-in-2026-what-prediction-markets-say)
+- [Prediction Market Roundup March 05, 2026](/blog/daily-market-pulse-2026-03-05)
+- [Prediction Market Roundup March 04, 2026](/blog/daily-market-pulse-2026-03-04)
 

@@ -3,8 +3,8 @@ title: "Will Alexander Zverev Win the Cincinnati Open?"
 description: "Will Alexander Zverev Win the Cincinnati Open? Odds: 23.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Alexander Zverev Win the Cincinnati Open?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-08-18
+status: "settled"
+lastUpdated: 2026-08-19
 tags: ["politics", "polymarket"]
 polymarketYes: 23.0
 polymarketNo: 77.0

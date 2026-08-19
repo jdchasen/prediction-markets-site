@@ -4,12 +4,12 @@ description: "Will Philadelphia 76ers win the 2027 NBA Finals? Odds: 13.2% YES o
 marketQuestion: "Will Philadelphia 76ers win the 2027 NBA Finals?"
 category: "sports"
 status: "active"
-lastUpdated: 2026-08-18
+lastUpdated: 2026-08-19
 expiryDate: 2027-07-01
 tags: ["polymarket", "sports"]
 polymarketYes: 13.2
 polymarketNo: 86.9
-polymarketVolume: 988310
+polymarketVolume: 990196
 polymarketUrl: "https://polymarket.com/event/will-philadelphia-76ers-win-the-2027-nba-finals"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-philadelphia-76ers-win-the-202
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 13.2% | 86.9% | $988K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 13.2% | 86.9% | $990K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will the Atlanta Falcons win the 2027 NFL league championship?](/odds/will-the-atlanta-falcons-win-the-2027-nfl-league-championship) — 1% YES
 - [Will Arizona Cardinals win the 2027 NFL NFC Championship?](/odds/will-arizona-cardinals-win-the-2027-nfl-nfc-championship) — 1% YES
-- [Will Seattle Seahawks win the 2027 NFL NFC Championship?](/odds/will-seattle-seahawks-win-the-2027-nfl-nfc-championship) — 12% YES
+- [Will Yordan Alvarez hit the most home runs during the 2026 MLB regular season?](/odds/will-yordan-alvarez-hit-the-most-home-runs-during-the-2026-mlb-regular-season) — 25% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Philadelphia 76ers win the 2027 NBA Finals?"?
 
-As of August 18, 2026, Polymarket prices YES at 13.2%.
+As of August 19, 2026, Polymarket prices YES at 13.2%.
 
 ### Where can I trade on this prediction market?
 

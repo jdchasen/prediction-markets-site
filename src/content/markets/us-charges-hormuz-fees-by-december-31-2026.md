@@ -3,8 +3,8 @@ title: "US charges Hormuz fees by December 31, 2026?"
 description: "US charges Hormuz fees by December 31, 2026? Odds: 5.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "US charges Hormuz fees by December 31, 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-08-18
+status: "settled"
+lastUpdated: 2026-08-19
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 5.5

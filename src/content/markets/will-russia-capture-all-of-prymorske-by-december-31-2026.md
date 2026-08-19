@@ -3,8 +3,8 @@ title: "Will Russia capture all of Prymorske by December 31, 2026?"
 description: "Will Russia capture all of Prymorske by December 31, 2026? Odds: 6.3% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Russia capture all of Prymorske by December 31, 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-08-18
+status: "settled"
+lastUpdated: 2026-08-19
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 6.3

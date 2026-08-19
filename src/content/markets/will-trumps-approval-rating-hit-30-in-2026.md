@@ -1,23 +1,23 @@
 ---
-title: "Will Truist fail by end of 2026?"
-description: "Will Truist fail by end of 2026? Odds: 3.1% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Truist fail by end of 2026?"
+title: "Will Trump's approval rating hit 30% in 2026?"
+description: "Will Trump's approval rating hit 30% in 2026? Odds: 6.0% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Trump's approval rating hit 30% in 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-19
 expiryDate: 2026-12-31
-tags: ["ai", "politics", "polymarket"]
-polymarketYes: 3.1
-polymarketNo: 96.9
-polymarketVolume: 9973
-polymarketUrl: "https://polymarket.com/event/will-truist-fail-by-end-of-2026"
+tags: ["politics", "polymarket", "trump"]
+polymarketYes: 6.0
+polymarketNo: 94.0
+polymarketVolume: 9881
+polymarketUrl: "https://polymarket.com/event/will-trumps-approval-rating-hit-30-in-2026"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 3.1% | 96.9% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 6.0% | 94.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-truist-fail-by-end-of-2026"
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Truist fail by end of 2026?"?
+### What are the current odds for "Will Trump's approval rating hit 30% in 2026?"?
 
-As of August 19, 2026, Polymarket prices YES at 3.1%.
+As of August 19, 2026, Polymarket prices YES at 6.0%.
 
 ### Where can I trade on this prediction market?
 

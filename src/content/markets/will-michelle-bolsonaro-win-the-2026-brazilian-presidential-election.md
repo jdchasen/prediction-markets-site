@@ -3,8 +3,8 @@ title: "Will Michelle Bolsonaro win the 2026 Brazilian presidential election?"
 description: "Will Michelle Bolsonaro win the 2026 Brazilian presidential election? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Michelle Bolsonaro win the 2026 Brazilian presidential election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-08-18
+status: "settled"
+lastUpdated: 2026-08-19
 expiryDate: 2026-10-04
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.1

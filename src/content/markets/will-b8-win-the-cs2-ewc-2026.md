@@ -1,23 +1,22 @@
 ---
-title: "Will Truist fail by end of 2026?"
-description: "Will Truist fail by end of 2026? Odds: 3.1% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Truist fail by end of 2026?"
+title: "Will B8 Win the CS2 EWC 2026?"
+description: "Will B8 Win the CS2 EWC 2026? Odds: 1.6% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will B8 Win the CS2 EWC 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-19
-expiryDate: 2026-12-31
-tags: ["ai", "politics", "polymarket"]
-polymarketYes: 3.1
-polymarketNo: 96.9
-polymarketVolume: 9973
-polymarketUrl: "https://polymarket.com/event/will-truist-fail-by-end-of-2026"
+tags: ["politics", "polymarket"]
+polymarketYes: 1.6
+polymarketNo: 98.4
+polymarketVolume: 98884
+polymarketUrl: "https://polymarket.com/event/will-b8-win-the-cs2-ewc-2026-20260810160005094"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 3.1% | 96.9% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 1.6% | 98.4% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +26,9 @@ polymarketUrl: "https://polymarket.com/event/will-truist-fail-by-end-of-2026"
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Truist fail by end of 2026?"?
+### What are the current odds for "Will B8 Win the CS2 EWC 2026?"?
 
-As of August 19, 2026, Polymarket prices YES at 3.1%.
+As of August 19, 2026, Polymarket prices YES at 1.6%.
 
 ### Where can I trade on this prediction market?
 
