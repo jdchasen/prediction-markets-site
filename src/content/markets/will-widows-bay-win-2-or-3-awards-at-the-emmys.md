@@ -3,7 +3,7 @@ title: "Will \"Widow's Bay\" win 2 or 3 awards at the Emmys?"
 description: "Will \"Widow's Bay\" win 2 or 3 awards at the Emmys? Odds: 56.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will \"Widow's Bay\" win 2 or 3 awards at the Emmys?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-08-19
 expiryDate: 2026-09-14
 tags: ["entertainment", "politics", "polymarket"]

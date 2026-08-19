@@ -3,7 +3,7 @@ title: "AI wins IMO gold medal in 2026?"
 description: "AI wins IMO gold medal in 2026? Odds: 17.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "AI wins IMO gold medal in 2026?"
 category: "finance"
-status: "active"
+status: "settled"
 lastUpdated: 2026-08-19
 expiryDate: 2026-12-31
 tags: ["ai", "finance", "polymarket"]

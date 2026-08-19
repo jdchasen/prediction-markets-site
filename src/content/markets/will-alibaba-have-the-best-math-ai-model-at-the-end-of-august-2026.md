@@ -9,7 +9,7 @@ expiryDate: 2026-08-31
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 0.2
 polymarketNo: 99.8
-polymarketVolume: 9827
+polymarketVolume: 9946
 polymarketUrl: "https://polymarket.com/event/will-alibaba-have-the-best-math-ai-model-at-the-end-of-august-2026-20260717014120872"
 ---
 
@@ -22,8 +22,8 @@ polymarketUrl: "https://polymarket.com/event/will-alibaba-have-the-best-math-ai-
 ## Related Markets
 
 - [Will Donald Trump win the 2028 US Presidential Election?](/odds/will-donald-trump-win-the-2028-us-presidential-election) — 2% YES
-- [Iran charges Hormuz fees by August 31?](/odds/iran-charges-hormuz-fees-by-august-31) — 10% YES
 - [NYSE marketwide circuit breaker before 2027?](/odds/nyse-marketwide-circuit-breaker-before-2027) — 14% YES
+- [Will MicroStrategy be margin called in 2026?](/odds/will-microstrategy-be-margin-called-in-2026) — 4% YES
 
 ## Frequently Asked Questions
 

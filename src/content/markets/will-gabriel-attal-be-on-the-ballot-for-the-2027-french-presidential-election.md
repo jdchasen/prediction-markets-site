@@ -3,7 +3,7 @@ title: "Will Gabriel Attal be on the ballot for the 2027 French presidential ele
 description: "Will Gabriel Attal be on the ballot for the 2027 French presidential election? Odds: 30.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Gabriel Attal be on the ballot for the 2027 French presidential election?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-08-19
 expiryDate: 2027-04-17
 tags: ["elections", "politics", "polymarket"]

@@ -3,7 +3,7 @@ title: "Will B8 Win the CS2 EWC 2026?"
 description: "Will B8 Win the CS2 EWC 2026? Odds: 1.6% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will B8 Win the CS2 EWC 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-08-19
 tags: ["politics", "polymarket"]
 polymarketYes: 1.6

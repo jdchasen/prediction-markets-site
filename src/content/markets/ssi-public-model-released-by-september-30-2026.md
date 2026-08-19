@@ -3,7 +3,7 @@ title: "SSI public model released by September 30, 2026?"
 description: "SSI public model released by September 30, 2026? Odds: 20.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "SSI public model released by September 30, 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-08-19
 expiryDate: 2026-09-30
 tags: ["politics", "polymarket"]

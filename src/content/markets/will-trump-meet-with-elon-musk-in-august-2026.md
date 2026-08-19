@@ -3,7 +3,7 @@ title: "Will Trump meet with Elon Musk in August 2026?"
 description: "Will Trump meet with Elon Musk in August 2026? Odds: 3.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Trump meet with Elon Musk in August 2026?"
 category: "tech"
-status: "active"
+status: "settled"
 lastUpdated: 2026-08-19
 expiryDate: 2026-08-31
 tags: ["polymarket", "tech", "trump"]

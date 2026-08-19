@@ -1,15 +1,15 @@
 ---
 title: "Will the number of Democratic House members who retire in 2026 be between 20 and 23 inclusive?"
-description: "Will the number of Democratic House members who retire in 2026 be between 20 and 23 inclusive? Odds: 45.5% YES on Polymarket. See live prices and trade this ..."
+description: "Will the number of Democratic House members who retire in 2026 be between 20 and 23 inclusive? Odds: 45.0% YES on Polymarket. See live prices and trade this ..."
 marketQuestion: "Will the number of Democratic House members who retire in 2026 be between 20 and 23 inclusive?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-19
 expiryDate: 2026-08-31
 tags: ["politics", "polymarket"]
-polymarketYes: 45.5
-polymarketNo: 54.5
-polymarketVolume: 9851
+polymarketYes: 45.0
+polymarketNo: 55.0
+polymarketVolume: 9853
 polymarketUrl: "https://polymarket.com/event/will-the-number-of-democratic-house-members-who-retire-in-2026-be-between-20-and-23-inclusive"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-the-number-of-democratic-house
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 45.5% | 54.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 45.0% | 55.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Donald Trump win the 2028 US Presidential Election?](/odds/will-donald-trump-win-the-2028-us-presidential-election) — 2% YES
-- [Iran charges Hormuz fees by August 31?](/odds/iran-charges-hormuz-fees-by-august-31) — 10% YES
 - [NYSE marketwide circuit breaker before 2027?](/odds/nyse-marketwide-circuit-breaker-before-2027) — 14% YES
+- [Will MicroStrategy be margin called in 2026?](/odds/will-microstrategy-be-margin-called-in-2026) — 4% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will the number of Democratic House members who retire in 2026 be between 20 and 23 inclusive?"?
 
-As of August 19, 2026, Polymarket prices YES at 45.5%.
+As of August 19, 2026, Polymarket prices YES at 45.0%.
 
 ### Where can I trade on this prediction market?
 

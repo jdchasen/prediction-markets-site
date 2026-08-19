@@ -1,15 +1,15 @@
 ---
 title: "Will Radu Burnete be the next Prime Minister of Romania?"
-description: "Will Radu Burnete be the next Prime Minister of Romania? Odds: 6.4% YES on Polymarket. See live prices and trade this market."
+description: "Will Radu Burnete be the next Prime Minister of Romania? Odds: 5.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Radu Burnete be the next Prime Minister of Romania?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-19
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 6.4
-polymarketNo: 93.6
-polymarketVolume: 99036
+polymarketYes: 5.7
+polymarketNo: 94.3
+polymarketVolume: 99270
 polymarketUrl: "https://polymarket.com/event/will-radu-burnete-be-the-next-prime-minister-of-romania"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-radu-burnete-be-the-next-prime
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 6.4% | 93.6% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 5.7% | 94.3% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Donald Trump win the 2028 US Presidential Election?](/odds/will-donald-trump-win-the-2028-us-presidential-election) — 2% YES
-- [Iran charges Hormuz fees by August 31?](/odds/iran-charges-hormuz-fees-by-august-31) — 10% YES
 - [NYSE marketwide circuit breaker before 2027?](/odds/nyse-marketwide-circuit-breaker-before-2027) — 14% YES
+- [Will MicroStrategy be margin called in 2026?](/odds/will-microstrategy-be-margin-called-in-2026) — 4% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Radu Burnete be the next Prime Minister of Romania?"?
 
-As of August 19, 2026, Polymarket prices YES at 6.4%.
+As of August 19, 2026, Polymarket prices YES at 5.7%.
 
 ### Where can I trade on this prediction market?
 

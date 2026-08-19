@@ -9,7 +9,7 @@ expiryDate: 2027-07-01
 tags: ["ai", "finance", "polymarket"]
 polymarketYes: 18.0
 polymarketNo: 82.0
-polymarketVolume: 9916
+polymarketVolume: 9928
 polymarketUrl: "https://polymarket.com/event/will-openais-ipo-valuation-be-between-1pt75t-and-2pt0t"
 ---
 
@@ -18,10 +18,6 @@ polymarketUrl: "https://polymarket.com/event/will-openais-ipo-valuation-be-betwe
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
 | Polymarket | 18.0% | 82.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
-
-## Related Markets
-
-- [AI wins IMO gold medal in 2026?](/odds/ai-wins-imo-gold-medal-in-2026) — 17% YES
 
 ## Frequently Asked Questions
 

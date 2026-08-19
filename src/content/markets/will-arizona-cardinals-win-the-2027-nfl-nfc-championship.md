@@ -23,7 +23,7 @@ polymarketUrl: "https://polymarket.com/event/will-arizona-cardinals-win-the-2027
 
 - [Will the Atlanta Falcons win the 2027 NFL league championship?](/odds/will-the-atlanta-falcons-win-the-2027-nfl-league-championship) — 1% YES
 - [Will Philadelphia 76ers win the 2027 NBA Finals?](/odds/will-philadelphia-76ers-win-the-2027-nba-finals) — 13% YES
-- [Will Yordan Alvarez hit the most home runs during the 2026 MLB regular season?](/odds/will-yordan-alvarez-hit-the-most-home-runs-during-the-2026-mlb-regular-season) — 25% YES
+- [Will the Minnesota Vikings win the 2027 NFL league championship?](/odds/will-the-minnesota-vikings-win-the-2027-nfl-league-championship) — 1% YES
 
 ## Frequently Asked Questions
 

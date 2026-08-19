@@ -1,14 +1,14 @@
 ---
 title: "Will Yordan Alvarez hit the most home runs during the 2026 MLB regular season?"
-description: "Will Yordan Alvarez hit the most home runs during the 2026 MLB regular season? Odds: 25.2% YES on Polymarket. See live prices and trade this market."
+description: "Will Yordan Alvarez hit the most home runs during the 2026 MLB regular season? Odds: 22.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Yordan Alvarez hit the most home runs during the 2026 MLB regular season?"
 category: "sports"
 status: "active"
 lastUpdated: 2026-08-19
 expiryDate: 2026-10-11
 tags: ["polymarket", "sports"]
-polymarketYes: 25.2
-polymarketNo: 74.8
+polymarketYes: 22.9
+polymarketNo: 77.1
 polymarketVolume: 9990
 polymarketUrl: "https://polymarket.com/event/will-yordan-alvarez-hit-the-most-home-runs-during-the-2026-mlb-regular-season"
 ---
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-yordan-alvarez-hit-the-most-ho
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 25.2% | 74.8% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 22.9% | 77.1% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-yordan-alvarez-hit-the-most-ho
 
 ### What are the current odds for "Will Yordan Alvarez hit the most home runs during the 2026 MLB regular season?"?
 
-As of August 19, 2026, Polymarket prices YES at 25.2%.
+As of August 19, 2026, Polymarket prices YES at 22.9%.
 
 ### Where can I trade on this prediction market?
 

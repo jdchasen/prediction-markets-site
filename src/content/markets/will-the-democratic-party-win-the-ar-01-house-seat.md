@@ -8,7 +8,7 @@ lastUpdated: 2026-08-19
 expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
 polymarketYes: 1.6
-polymarketNo: 98.5
+polymarketNo: 98.4
 polymarketVolume: 9914
 polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-ar-01-house-seat"
 ---
@@ -17,13 +17,13 @@ polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-a
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 1.6% | 98.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 1.6% | 98.4% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Donald Trump win the 2028 US Presidential Election?](/odds/will-donald-trump-win-the-2028-us-presidential-election) — 2% YES
-- [Iran charges Hormuz fees by August 31?](/odds/iran-charges-hormuz-fees-by-august-31) — 10% YES
 - [NYSE marketwide circuit breaker before 2027?](/odds/nyse-marketwide-circuit-breaker-before-2027) — 14% YES
+- [Will MicroStrategy be margin called in 2026?](/odds/will-microstrategy-be-margin-called-in-2026) — 4% YES
 
 ## Frequently Asked Questions
 

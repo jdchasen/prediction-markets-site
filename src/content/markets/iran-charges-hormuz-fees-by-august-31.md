@@ -3,7 +3,7 @@ title: "Iran charges Hormuz fees by August 31?"
 description: "Iran charges Hormuz fees by August 31? Odds: 10.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Iran charges Hormuz fees by August 31?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-08-19
 expiryDate: 2026-08-31
 tags: ["politics", "polymarket"]
