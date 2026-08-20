@@ -1,23 +1,23 @@
 ---
-title: "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?"
-description: "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027? Odds: 9.5% YES on Polymarket. See live prices and trade this ..."
-marketQuestion: "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?"
+title: "Will Julian Alvarez stay at Atletico Madrid?"
+description: "Will Julian Alvarez stay at Atletico Madrid? Odds: 87.3% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Julian Alvarez stay at Atletico Madrid?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-20
-expiryDate: 2027-12-31
+expiryDate: 2026-09-02
 tags: ["politics", "polymarket"]
-polymarketYes: 9.5
-polymarketNo: 90.5
-polymarketVolume: 99210
-polymarketUrl: "https://polymarket.com/event/will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679"
+polymarketYes: 87.3
+polymarketNo: 12.7
+polymarketVolume: 98507
+polymarketUrl: "https://polymarket.com/event/will-julian-alvarez-stay-at-atletico-madrid-20260612230229126"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 9.5% | 90.5% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 87.3% | 12.7% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-an-international-court-find-is
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?"?
+### What are the current odds for "Will Julian Alvarez stay at Atletico Madrid?"?
 
-As of August 20, 2026, Polymarket prices YES at 9.5%.
+As of August 20, 2026, Polymarket prices YES at 87.3%.
 
 ### Where can I trade on this prediction market?
 

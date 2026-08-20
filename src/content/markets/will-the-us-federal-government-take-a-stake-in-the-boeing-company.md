@@ -1,14 +1,14 @@
 ---
 title: "Will the US federal government take a stake in The Boeing Company?"
-description: "Will the US federal government take a stake in The Boeing Company? Odds: 12.0% YES on Polymarket. See live prices and trade this market."
+description: "Will the US federal government take a stake in The Boeing Company? Odds: 11.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the US federal government take a stake in The Boeing Company?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-08-19
+lastUpdated: 2026-08-20
 expiryDate: 2026-12-31
 tags: ["federal-reserve", "politics", "polymarket"]
-polymarketYes: 12.0
-polymarketNo: 88.0
+polymarketYes: 11.5
+polymarketNo: 88.5
 polymarketVolume: 9856
 polymarketUrl: "https://polymarket.com/event/will-the-us-federal-government-take-a-stake-in-the-boeing-company"
 ---
@@ -17,11 +17,11 @@ polymarketUrl: "https://polymarket.com/event/will-the-us-federal-government-take
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 12.0% | 88.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 11.5% | 88.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Donald Trump win the 2028 US Presidential Election?](/odds/will-donald-trump-win-the-2028-us-presidential-election) — 2% YES
+- [Will Donald Trump win the 2028 US Presidential Election?](/odds/will-donald-trump-win-the-2028-us-presidential-election) — 3% YES
 - [NYSE marketwide circuit breaker before 2027?](/odds/nyse-marketwide-circuit-breaker-before-2027) — 14% YES
 - [Will MicroStrategy be margin called in 2026?](/odds/will-microstrategy-be-margin-called-in-2026) — 4% YES
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-us-federal-government-take
 
 ### What are the current odds for "Will the US federal government take a stake in The Boeing Company?"?
 
-As of August 19, 2026, Polymarket prices YES at 12.0%.
+As of August 20, 2026, Polymarket prices YES at 11.5%.
 
 ### Where can I trade on this prediction market?
 

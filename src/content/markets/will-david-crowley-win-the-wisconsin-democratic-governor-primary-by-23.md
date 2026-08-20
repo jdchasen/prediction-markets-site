@@ -4,12 +4,12 @@ description: "Will David Crowley win the Wisconsin Democratic Governor primary b
 marketQuestion: "Will David Crowley win the Wisconsin Democratic Governor primary by 2–3%?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-08-19
+lastUpdated: 2026-08-20
 expiryDate: 2026-08-31
 tags: ["politics", "polymarket"]
 polymarketYes: 0.1
 polymarketNo: 99.9
-polymarketVolume: 9910
+polymarketVolume: 9925
 polymarketUrl: "https://polymarket.com/event/will-david-crowley-win-the-wisconsin-democratic-governor-primary-by-23-20260812015550468"
 ---
 
@@ -21,7 +21,7 @@ polymarketUrl: "https://polymarket.com/event/will-david-crowley-win-the-wisconsi
 
 ## Related Markets
 
-- [Will Donald Trump win the 2028 US Presidential Election?](/odds/will-donald-trump-win-the-2028-us-presidential-election) — 2% YES
+- [Will Donald Trump win the 2028 US Presidential Election?](/odds/will-donald-trump-win-the-2028-us-presidential-election) — 3% YES
 - [NYSE marketwide circuit breaker before 2027?](/odds/nyse-marketwide-circuit-breaker-before-2027) — 14% YES
 - [Will MicroStrategy be margin called in 2026?](/odds/will-microstrategy-be-margin-called-in-2026) — 4% YES
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-david-crowley-win-the-wisconsi
 
 ### What are the current odds for "Will David Crowley win the Wisconsin Democratic Governor primary by 2–3%?"?
 
-As of August 19, 2026, Polymarket prices YES at 0.1%.
+As of August 20, 2026, Polymarket prices YES at 0.1%.
 
 ### Where can I trade on this prediction market?
 

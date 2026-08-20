@@ -4,7 +4,7 @@ description: "Will the ECB announce a 25 bps increase at the October 2026 meetin
 marketQuestion: "Will the ECB announce a 25 bps increase at the October 2026 meeting?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-08-19
+lastUpdated: 2026-08-20
 expiryDate: 2026-10-29
 tags: ["politics", "polymarket"]
 polymarketYes: 9.5
@@ -21,7 +21,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-ecb-announce-a-25-bps-incr
 
 ## Related Markets
 
-- [Will Donald Trump win the 2028 US Presidential Election?](/odds/will-donald-trump-win-the-2028-us-presidential-election) — 2% YES
+- [Will Donald Trump win the 2028 US Presidential Election?](/odds/will-donald-trump-win-the-2028-us-presidential-election) — 3% YES
 - [NYSE marketwide circuit breaker before 2027?](/odds/nyse-marketwide-circuit-breaker-before-2027) — 14% YES
 - [Will MicroStrategy be margin called in 2026?](/odds/will-microstrategy-be-margin-called-in-2026) — 4% YES
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-ecb-announce-a-25-bps-incr
 
 ### What are the current odds for "Will the ECB announce a 25 bps increase at the October 2026 meeting?"?
 
-As of August 19, 2026, Polymarket prices YES at 9.5%.
+As of August 20, 2026, Polymarket prices YES at 9.5%.
 
 ### Where can I trade on this prediction market?
 

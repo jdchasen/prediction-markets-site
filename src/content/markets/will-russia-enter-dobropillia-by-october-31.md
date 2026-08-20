@@ -3,8 +3,8 @@ title: "Will Russia enter Dobropillia by October 31?"
 description: "Will Russia enter Dobropillia by October 31? Odds: 70.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Russia enter Dobropillia by October 31?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-08-19
+status: "settled"
+lastUpdated: 2026-08-20
 expiryDate: 2026-10-31
 tags: ["politics", "polymarket"]
 polymarketYes: 70.5

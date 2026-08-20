@@ -4,7 +4,7 @@ description: "Will Truist fail by end of 2026? Odds: 3.1% YES on Polymarket. See
 marketQuestion: "Will Truist fail by end of 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-08-19
+lastUpdated: 2026-08-20
 expiryDate: 2026-12-31
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 3.1
@@ -21,7 +21,7 @@ polymarketUrl: "https://polymarket.com/event/will-truist-fail-by-end-of-2026"
 
 ## Related Markets
 
-- [Will Donald Trump win the 2028 US Presidential Election?](/odds/will-donald-trump-win-the-2028-us-presidential-election) — 2% YES
+- [Will Donald Trump win the 2028 US Presidential Election?](/odds/will-donald-trump-win-the-2028-us-presidential-election) — 3% YES
 - [NYSE marketwide circuit breaker before 2027?](/odds/nyse-marketwide-circuit-breaker-before-2027) — 14% YES
 - [Will MicroStrategy be margin called in 2026?](/odds/will-microstrategy-be-margin-called-in-2026) — 4% YES
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-truist-fail-by-end-of-2026"
 
 ### What are the current odds for "Will Truist fail by end of 2026?"?
 
-As of August 19, 2026, Polymarket prices YES at 3.1%.
+As of August 20, 2026, Polymarket prices YES at 3.1%.
 
 ### Where can I trade on this prediction market?
 

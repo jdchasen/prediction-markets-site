@@ -1,23 +1,23 @@
 ---
-title: "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?"
-description: "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027? Odds: 9.5% YES on Polymarket. See live prices and trade this ..."
-marketQuestion: "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?"
+title: "Will OpenAI's valuation hit (HIGH) $1.0T by December 31?"
+description: "Will OpenAI's valuation hit (HIGH) $1.0T by December 31? Odds: 59.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will OpenAI's valuation hit (HIGH) $1.0T by December 31?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-20
-expiryDate: 2027-12-31
-tags: ["politics", "polymarket"]
-polymarketYes: 9.5
-polymarketNo: 90.5
-polymarketVolume: 99210
-polymarketUrl: "https://polymarket.com/event/will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679"
+expiryDate: 2027-01-01
+tags: ["ai", "politics", "polymarket"]
+polymarketYes: 59.5
+polymarketNo: 40.5
+polymarketVolume: 98183
+polymarketUrl: "https://polymarket.com/event/will-openais-valuation-hit-high-1pt0t-by-december-31-846-461"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 9.5% | 90.5% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 59.5% | 40.5% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-an-international-court-find-is
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?"?
+### What are the current odds for "Will OpenAI's valuation hit (HIGH) $1.0T by December 31?"?
 
-As of August 20, 2026, Polymarket prices YES at 9.5%.
+As of August 20, 2026, Polymarket prices YES at 59.5%.
 
 ### Where can I trade on this prediction market?
 

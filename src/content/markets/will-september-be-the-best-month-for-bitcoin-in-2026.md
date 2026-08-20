@@ -3,8 +3,8 @@ title: "Will September be the best month for Bitcoin in 2026?"
 description: "Will September be the best month for Bitcoin in 2026? Odds: 9.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will September be the best month for Bitcoin in 2026?"
 category: "crypto"
-status: "active"
-lastUpdated: 2026-08-19
+status: "settled"
+lastUpdated: 2026-08-20
 expiryDate: 2027-01-01
 tags: ["bitcoin", "crypto", "polymarket"]
 polymarketYes: 9.5

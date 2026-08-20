@@ -3,8 +3,8 @@ title: "Will Trump's approval rating hit 30% in 2026?"
 description: "Will Trump's approval rating hit 30% in 2026? Odds: 6.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Trump's approval rating hit 30% in 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-08-19
+status: "settled"
+lastUpdated: 2026-08-20
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket", "trump"]
 polymarketYes: 6.0

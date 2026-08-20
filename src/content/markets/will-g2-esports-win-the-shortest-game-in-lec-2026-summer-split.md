@@ -4,7 +4,7 @@ description: "Will G2 Esports Win the Shortest Game in LEC 2026 Summer Split? Od
 marketQuestion: "Will G2 Esports Win the Shortest Game in LEC 2026 Summer Split?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-08-19
+lastUpdated: 2026-08-20
 tags: ["politics", "polymarket"]
 polymarketYes: 7.8
 polymarketNo: 92.2
@@ -20,7 +20,7 @@ polymarketUrl: "https://polymarket.com/event/will-g2-esports-win-the-shortest-ga
 
 ## Related Markets
 
-- [Will Donald Trump win the 2028 US Presidential Election?](/odds/will-donald-trump-win-the-2028-us-presidential-election) — 2% YES
+- [Will Donald Trump win the 2028 US Presidential Election?](/odds/will-donald-trump-win-the-2028-us-presidential-election) — 3% YES
 - [NYSE marketwide circuit breaker before 2027?](/odds/nyse-marketwide-circuit-breaker-before-2027) — 14% YES
 - [Will MicroStrategy be margin called in 2026?](/odds/will-microstrategy-be-margin-called-in-2026) — 4% YES
 
@@ -28,7 +28,7 @@ polymarketUrl: "https://polymarket.com/event/will-g2-esports-win-the-shortest-ga
 
 ### What are the current odds for "Will G2 Esports Win the Shortest Game in LEC 2026 Summer Split?"?
 
-As of August 19, 2026, Polymarket prices YES at 7.8%.
+As of August 20, 2026, Polymarket prices YES at 7.8%.
 
 ### Where can I trade on this prediction market?
 

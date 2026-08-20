@@ -1,23 +1,23 @@
 ---
-title: "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?"
-description: "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027? Odds: 9.5% YES on Polymarket. See live prices and trade this ..."
-marketQuestion: "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?"
+title: "Will NVIDIA (NVDA) hit (HIGH) $248 in August?"
+description: "Will NVIDIA (NVDA) hit (HIGH) $248 in August? Odds: 8.6% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will NVIDIA (NVDA) hit (HIGH) $248 in August?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-20
-expiryDate: 2027-12-31
+expiryDate: 2026-09-01
 tags: ["politics", "polymarket"]
-polymarketYes: 9.5
-polymarketNo: 90.5
-polymarketVolume: 99210
-polymarketUrl: "https://polymarket.com/event/will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679"
+polymarketYes: 8.6
+polymarketNo: 91.3
+polymarketVolume: 9962
+polymarketUrl: "https://polymarket.com/event/will-nvda-reach-248-in-august-2026"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 9.5% | 90.5% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 8.6% | 91.3% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-an-international-court-find-is
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?"?
+### What are the current odds for "Will NVIDIA (NVDA) hit (HIGH) $248 in August?"?
 
-As of August 20, 2026, Polymarket prices YES at 9.5%.
+As of August 20, 2026, Polymarket prices YES at 8.6%.
 
 ### Where can I trade on this prediction market?
 

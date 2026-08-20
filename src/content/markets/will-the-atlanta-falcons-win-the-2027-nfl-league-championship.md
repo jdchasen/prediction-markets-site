@@ -3,8 +3,8 @@ title: "Will the Atlanta Falcons win the 2027 NFL league championship?"
 description: "Will the Atlanta Falcons win the 2027 NFL league championship? Odds: 0.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Atlanta Falcons win the 2027 NFL league championship?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-08-19
+status: "settled"
+lastUpdated: 2026-08-20
 expiryDate: 2027-03-31
 tags: ["polymarket", "sports"]
 polymarketYes: 0.7

@@ -3,8 +3,8 @@ title: "Will USD/JPY hit 165 (High) in 2026?"
 description: "Will USD/JPY hit 165 (High) in 2026? Odds: 41.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will USD/JPY hit 165 (High) in 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-08-19
+status: "settled"
+lastUpdated: 2026-08-20
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 41.0

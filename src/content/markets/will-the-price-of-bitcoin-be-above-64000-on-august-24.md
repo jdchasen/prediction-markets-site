@@ -3,8 +3,8 @@ title: "Will the price of Bitcoin be above $64,000 on August 24?"
 description: "Will the price of Bitcoin be above $64,000 on August 24? Odds: 96.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the price of Bitcoin be above $64,000 on August 24?"
 category: "crypto"
-status: "active"
-lastUpdated: 2026-08-19
+status: "settled"
+lastUpdated: 2026-08-20
 expiryDate: 2026-08-24
 tags: ["bitcoin", "crypto", "polymarket"]
 polymarketYes: 96.8

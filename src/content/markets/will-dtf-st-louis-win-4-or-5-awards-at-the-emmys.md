@@ -1,23 +1,23 @@
 ---
-title: "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?"
-description: "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027? Odds: 9.5% YES on Polymarket. See live prices and trade this ..."
-marketQuestion: "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?"
+title: "Will \"DTF St. Louis\" win 4 or 5 awards at the Emmys?"
+description: "Will \"DTF St. Louis\" win 4 or 5 awards at the Emmys? Odds: 0.2% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will \"DTF St. Louis\" win 4 or 5 awards at the Emmys?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-20
-expiryDate: 2027-12-31
-tags: ["politics", "polymarket"]
-polymarketYes: 9.5
-polymarketNo: 90.5
-polymarketVolume: 99210
-polymarketUrl: "https://polymarket.com/event/will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679"
+expiryDate: 2026-09-14
+tags: ["entertainment", "politics", "polymarket"]
+polymarketYes: 0.2
+polymarketNo: 99.8
+polymarketVolume: 9945
+polymarketUrl: "https://polymarket.com/event/will-dtf-stpt-louis-win-4-or-5-awards-at-the-emmys-20260730202919980"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 9.5% | 90.5% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.2% | 99.8% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-an-international-court-find-is
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?"?
+### What are the current odds for "Will "DTF St. Louis" win 4 or 5 awards at the Emmys?"?
 
-As of August 20, 2026, Polymarket prices YES at 9.5%.
+As of August 20, 2026, Polymarket prices YES at 0.2%.
 
 ### Where can I trade on this prediction market?
 

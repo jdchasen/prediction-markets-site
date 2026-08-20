@@ -1,14 +1,14 @@
 ---
 title: "Will UNI reach $15.50 by December 31, 2026?"
-description: "Will UNI reach $15.50 by December 31, 2026? Odds: 6.5% YES on Polymarket. See live prices and trade this market."
+description: "Will UNI reach $15.50 by December 31, 2026? Odds: 7.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will UNI reach $15.50 by December 31, 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-08-19
+lastUpdated: 2026-08-20
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]
-polymarketYes: 6.5
-polymarketNo: 93.5
+polymarketYes: 7.0
+polymarketNo: 93.0
 polymarketVolume: 9828
 polymarketUrl: "https://polymarket.com/event/will-uni-reach-15pt50-by-december-31-2026"
 ---
@@ -17,11 +17,11 @@ polymarketUrl: "https://polymarket.com/event/will-uni-reach-15pt50-by-december-3
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 6.5% | 93.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 7.0% | 93.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Donald Trump win the 2028 US Presidential Election?](/odds/will-donald-trump-win-the-2028-us-presidential-election) — 2% YES
+- [Will Donald Trump win the 2028 US Presidential Election?](/odds/will-donald-trump-win-the-2028-us-presidential-election) — 3% YES
 - [NYSE marketwide circuit breaker before 2027?](/odds/nyse-marketwide-circuit-breaker-before-2027) — 14% YES
 - [Will MicroStrategy be margin called in 2026?](/odds/will-microstrategy-be-margin-called-in-2026) — 4% YES
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-uni-reach-15pt50-by-december-3
 
 ### What are the current odds for "Will UNI reach $15.50 by December 31, 2026?"?
 
-As of August 19, 2026, Polymarket prices YES at 6.5%.
+As of August 20, 2026, Polymarket prices YES at 7.0%.
 
 ### Where can I trade on this prediction market?
 

@@ -1,15 +1,15 @@
 ---
 title: "Will Donald Trump win the 2028 US Presidential Election?"
-description: "Will Donald Trump win the 2028 US Presidential Election? Odds: 2.2% YES on Polymarket. See live prices and trade this market."
+description: "Will Donald Trump win the 2028 US Presidential Election? Odds: 2.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Donald Trump win the 2028 US Presidential Election?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-08-19
+lastUpdated: 2026-08-20
 expiryDate: 2028-11-07
 tags: ["elections", "politics", "polymarket", "trump"]
-polymarketYes: 2.2
-polymarketNo: 97.8
-polymarketVolume: 9911247
+polymarketYes: 2.9
+polymarketNo: 97.2
+polymarketVolume: 9914498
 polymarketUrl: "https://polymarket.com/event/will-donald-trump-win-the-2028-us-presidential-election"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-donald-trump-win-the-2028-us-p
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 2.2% | 97.8% | $9.9M | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 2.9% | 97.2% | $9.9M | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-donald-trump-win-the-2028-us-p
 
 ### What are the current odds for "Will Donald Trump win the 2028 US Presidential Election?"?
 
-As of August 19, 2026, Polymarket prices YES at 2.2%.
+As of August 20, 2026, Polymarket prices YES at 2.9%.
 
 ### Where can I trade on this prediction market?
 

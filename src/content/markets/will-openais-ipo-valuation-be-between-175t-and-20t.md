@@ -4,12 +4,12 @@ description: "Will OpenAI's IPO valuation be between $1.75T and $2.0T? Odds: 18.
 marketQuestion: "Will OpenAI's IPO valuation be between $1.75T and $2.0T?"
 category: "finance"
 status: "active"
-lastUpdated: 2026-08-19
+lastUpdated: 2026-08-20
 expiryDate: 2027-07-01
 tags: ["ai", "finance", "polymarket"]
 polymarketYes: 18.0
 polymarketNo: 82.0
-polymarketVolume: 9928
+polymarketVolume: 9960
 polymarketUrl: "https://polymarket.com/event/will-openais-ipo-valuation-be-between-1pt75t-and-2pt0t"
 ---
 
@@ -23,7 +23,7 @@ polymarketUrl: "https://polymarket.com/event/will-openais-ipo-valuation-be-betwe
 
 ### What are the current odds for "Will OpenAI's IPO valuation be between $1.75T and $2.0T?"?
 
-As of August 19, 2026, Polymarket prices YES at 18.0%.
+As of August 20, 2026, Polymarket prices YES at 18.0%.
 
 ### Where can I trade on this prediction market?
 
