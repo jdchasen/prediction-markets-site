@@ -21,7 +21,6 @@ polymarketUrl: "https://polymarket.com/event/will-arizona-cardinals-win-the-2027
 
 ## Related Markets
 
-- [Will Philadelphia 76ers win the 2027 NBA Finals?](/odds/will-philadelphia-76ers-win-the-2027-nba-finals) — 13% YES
 - [Will the Minnesota Vikings win the 2027 NFL league championship?](/odds/will-the-minnesota-vikings-win-the-2027-nfl-league-championship) — 1% YES
 - [Will Seattle Seahawks win the 2027 NFL NFC Championship?](/odds/will-seattle-seahawks-win-the-2027-nfl-nfc-championship) — 12% YES
 

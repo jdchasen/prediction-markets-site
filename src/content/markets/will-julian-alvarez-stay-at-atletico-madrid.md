@@ -3,7 +3,7 @@ title: "Will Julian Alvarez stay at Atletico Madrid?"
 description: "Will Julian Alvarez stay at Atletico Madrid? Odds: 87.3% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Julian Alvarez stay at Atletico Madrid?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-08-20
 expiryDate: 2026-09-02
 tags: ["politics", "polymarket"]

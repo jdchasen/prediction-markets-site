@@ -3,7 +3,7 @@ title: "Will Julian Alvarez join Chelsea?"
 description: "Will Julian Alvarez join Chelsea? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Julian Alvarez join Chelsea?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-08-20
 expiryDate: 2026-09-02
 tags: ["politics", "polymarket"]

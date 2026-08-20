@@ -3,7 +3,7 @@ title: "Will Elon Musk’s net worth be between $600B and $700B on August 31?"
 description: "Will Elon Musk’s net worth be between $600B and $700B on August 31? Odds: 3.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Elon Musk’s net worth be between $600B and $700B on August 31?"
 category: "tech"
-status: "active"
+status: "settled"
 lastUpdated: 2026-08-20
 expiryDate: 2026-08-31
 tags: ["polymarket", "tech"]

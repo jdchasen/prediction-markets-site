@@ -3,7 +3,7 @@ title: "Will “The Daily Show” win Emmys 2026: Outstanding variety series?"
 description: "Will “The Daily Show” win Emmys 2026: Outstanding variety series? Odds: 3.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will “The Daily Show” win Emmys 2026: Outstanding variety series?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-08-20
 expiryDate: 2026-09-14
 tags: ["ai", "entertainment", "politics", "polymarket"]

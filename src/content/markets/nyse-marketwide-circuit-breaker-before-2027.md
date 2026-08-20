@@ -3,7 +3,7 @@ title: "NYSE marketwide circuit breaker before 2027?"
 description: "NYSE marketwide circuit breaker before 2027? Odds: 14.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "NYSE marketwide circuit breaker before 2027?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-08-20
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]

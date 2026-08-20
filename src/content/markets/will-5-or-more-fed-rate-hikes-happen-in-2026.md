@@ -3,7 +3,7 @@ title: "Will 5 or more Fed rate hikes happen in 2026?"
 description: "Will 5 or more Fed rate hikes happen in 2026? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will 5 or more Fed rate hikes happen in 2026?"
 category: "economics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-08-20
 expiryDate: 2026-12-31
 tags: ["economics", "federal-reserve", "polymarket"]

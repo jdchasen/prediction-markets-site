@@ -3,7 +3,7 @@ title: "Will NVIDIA (NVDA) hit (HIGH) $248 in August?"
 description: "Will NVIDIA (NVDA) hit (HIGH) $248 in August? Odds: 8.6% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will NVIDIA (NVDA) hit (HIGH) $248 in August?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-08-20
 expiryDate: 2026-09-01
 tags: ["politics", "polymarket"]

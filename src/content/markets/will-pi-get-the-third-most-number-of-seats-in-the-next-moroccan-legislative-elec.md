@@ -1,23 +1,23 @@
 ---
-title: "Will David Crowley win the Wisconsin Democratic Governor primary by 2–3%?"
-description: "Will David Crowley win the Wisconsin Democratic Governor primary by 2–3%? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will David Crowley win the Wisconsin Democratic Governor primary by 2–3%?"
+title: "Will PI get the third-most number of seats in the next Moroccan legislative elections?"
+description: "Will PI get the third-most number of seats in the next Moroccan legislative elections? Odds: 31.0% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will PI get the third-most number of seats in the next Moroccan legislative elections?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-20
-expiryDate: 2026-08-31
-tags: ["politics", "polymarket"]
-polymarketYes: 0.1
-polymarketNo: 99.9
-polymarketVolume: 9925
-polymarketUrl: "https://polymarket.com/event/will-david-crowley-win-the-wisconsin-democratic-governor-primary-by-23-20260812015550468"
+expiryDate: 2026-09-23
+tags: ["elections", "politics", "polymarket"]
+polymarketYes: 31.0
+polymarketNo: 69.0
+polymarketVolume: 9865
+polymarketUrl: "https://polymarket.com/event/will-pi-get-the-third-most-number-of-seats-in-the-next-moroccan-legislative-elections-20260728180301080"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.1% | 99.9% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 31.0% | 69.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-david-crowley-win-the-wisconsi
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will David Crowley win the Wisconsin Democratic Governor primary by 2–3%?"?
+### What are the current odds for "Will PI get the third-most number of seats in the next Moroccan legislative elections?"?
 
-As of August 20, 2026, Polymarket prices YES at 0.1%.
+As of August 20, 2026, Polymarket prices YES at 31.0%.
 
 ### Where can I trade on this prediction market?
 
