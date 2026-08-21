@@ -9,7 +9,7 @@ expiryDate: 2027-03-31
 tags: ["polymarket", "sports"]
 polymarketYes: 3.6
 polymarketNo: 96.4
-polymarketVolume: 983148
+polymarketVolume: 985455
 polymarketUrl: "https://polymarket.com/event/will-the-san-francisco-49ers-win-the-2027-nfl-league-championship"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-san-francisco-49ers-win-th
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 3.6% | 96.4% | $983K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 3.6% | 96.4% | $985K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 

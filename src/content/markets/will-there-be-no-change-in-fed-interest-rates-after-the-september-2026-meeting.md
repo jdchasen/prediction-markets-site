@@ -1,15 +1,15 @@
 ---
 title: "Will there be no change in Fed interest rates after the September 2026 meeting?"
-description: "Will there be no change in Fed interest rates after the September 2026 meeting? Odds: 39.5% YES on Polymarket. See live prices and trade this market."
+description: "Will there be no change in Fed interest rates after the September 2026 meeting? Odds: 67.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will there be no change in Fed interest rates after the September 2026 meeting?"
 category: "economics"
-status: "settled"
-lastUpdated: 2026-07-29
+status: "active"
+lastUpdated: 2026-08-21
 expiryDate: 2026-09-16
 tags: ["economics", "federal-reserve", "interest-rates", "polymarket"]
-polymarketYes: 39.5
-polymarketNo: 60.5
-polymarketVolume: 976841
+polymarketYes: 67.5
+polymarketNo: 32.5
+polymarketVolume: 9774162
 polymarketUrl: "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-there-be-no-change-in-fed-inte
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 39.5% | 60.5% | $977K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 67.5% | 32.5% | $9.8M | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will the Fed decrease interest rates by 50+ bps after the October 2026 meeting?](/odds/will-the-fed-decrease-interest-rates-by-50-bps-after-the-october-2026-meeting) — 2% YES
-- [Will Brazil’s Annual Inflation in 2026 be between 4.00% and 4.49%?](/odds/will-brazils-annual-inflation-in-2026-be-between-400-and-449) — 7% YES
-- [Will Eurozone annual GDP growth in 2026 be between 0% and 1.0%?](/odds/will-eurozone-annual-gdp-growth-in-2026-be-between-0-and-10) — 70% YES
+- [Will Canada's GDP growth rate MoM in June 2026 be between 0.2% and 0.3%?](/odds/will-canadas-gdp-growth-rate-mom-in-june-2026-be-between-02-and-03) — 60% YES
+- [Will Canada’s 2026 inflation be between 2.5% and 2.9%?](/odds/will-canadas-2026-inflation-be-between-25-and-29) — 33% YES
+- [Will Brazil’s Annual Inflation in 2026 be between 5.50% and 5.99%?](/odds/will-brazils-annual-inflation-in-2026-be-between-550-and-599) — 17% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will there be no change in Fed interest rates after the September 2026 meeting?"?
 
-As of July 29, 2026, Polymarket prices YES at 39.5%.
+As of August 21, 2026, Polymarket prices YES at 67.5%.
 
 ### Where can I trade on this prediction market?
 

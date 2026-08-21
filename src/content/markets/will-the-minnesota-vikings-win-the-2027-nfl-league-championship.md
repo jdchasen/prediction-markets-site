@@ -9,7 +9,7 @@ expiryDate: 2027-03-31
 tags: ["polymarket", "sports"]
 polymarketYes: 1.2
 polymarketNo: 98.8
-polymarketVolume: 985032
+polymarketVolume: 985601
 polymarketUrl: "https://polymarket.com/event/will-the-minnesota-vikings-win-the-2027-nfl-league-championship"
 ---
 
@@ -17,12 +17,12 @@ polymarketUrl: "https://polymarket.com/event/will-the-minnesota-vikings-win-the-
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 1.2% | 98.8% | $985K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 1.2% | 98.8% | $986K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Arizona Cardinals win the 2027 NFL NFC Championship?](/odds/will-arizona-cardinals-win-the-2027-nfl-nfc-championship) — 1% YES
 - [Will the San Francisco 49ers win the 2027 NFL league championship?](/odds/will-the-san-francisco-49ers-win-the-2027-nfl-league-championship) — 4% YES
+- [Will Arizona Cardinals win the 2027 NFL NFC Championship?](/odds/will-arizona-cardinals-win-the-2027-nfl-nfc-championship) — 1% YES
 - [Will Seattle Seahawks win the 2027 NFL NFC Championship?](/odds/will-seattle-seahawks-win-the-2027-nfl-nfc-championship) — 12% YES
 
 ## Frequently Asked Questions

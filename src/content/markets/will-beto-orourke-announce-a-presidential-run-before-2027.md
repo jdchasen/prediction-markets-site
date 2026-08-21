@@ -3,7 +3,7 @@ title: "Will Beto O’Rourke announce a Presidential run before 2027?"
 description: "Will Beto O’Rourke announce a Presidential run before 2027? Odds: 6.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Beto O’Rourke announce a Presidential run before 2027?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-08-21
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]

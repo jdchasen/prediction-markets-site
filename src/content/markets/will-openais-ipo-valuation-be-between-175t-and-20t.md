@@ -19,6 +19,10 @@ polymarketUrl: "https://polymarket.com/event/will-openais-ipo-valuation-be-betwe
 |----------|-----|-----|--------|-------|
 | Polymarket | 18.0% | 82.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
+## Related Markets
+
+- [Will Gold (GC) hit (HIGH) $6,000 by end of December?](/odds/will-gold-gc-hit-high-6000-by-end-of-december) — 12% YES
+
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will OpenAI's IPO valuation be between $1.75T and $2.0T?"?

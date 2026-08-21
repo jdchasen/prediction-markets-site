@@ -1,14 +1,14 @@
 ---
 title: "Will the US federal government take a stake in The Boeing Company?"
-description: "Will the US federal government take a stake in The Boeing Company? Odds: 9.5% YES on Polymarket. See live prices and trade this market."
+description: "Will the US federal government take a stake in The Boeing Company? Odds: 8.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the US federal government take a stake in The Boeing Company?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-21
 expiryDate: 2026-12-31
 tags: ["federal-reserve", "politics", "polymarket"]
-polymarketYes: 9.5
-polymarketNo: 90.5
+polymarketYes: 8.5
+polymarketNo: 91.5
 polymarketVolume: 9856
 polymarketUrl: "https://polymarket.com/event/will-the-us-federal-government-take-a-stake-in-the-boeing-company"
 ---
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-the-us-federal-government-take
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 9.5% | 90.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 8.5% | 91.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Donald Trump win the 2028 US Presidential Election?](/odds/will-donald-trump-win-the-2028-us-presidential-election) — 3% YES
-- [Will Radu Burnete be the next Prime Minister of Romania?](/odds/will-radu-burnete-be-the-next-prime-minister-of-romania) — 7% YES
-- [US-Iran Final Nuclear Deal by October 31, 2026?](/odds/us-iran-final-nuclear-deal-by-october-31-2026) — 4% YES
+- [Will Donald Trump win the 2028 US Presidential Election?](/odds/will-donald-trump-win-the-2028-us-presidential-election) — 2% YES
+- [Will Radu Burnete be the next Prime Minister of Romania?](/odds/will-radu-burnete-be-the-next-prime-minister-of-romania) — 6% YES
+- [Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?](/odds/will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-dec) — 16% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will the US federal government take a stake in The Boeing Company?"?
 
-As of August 21, 2026, Polymarket prices YES at 9.5%.
+As of August 21, 2026, Polymarket prices YES at 8.5%.
 
 ### Where can I trade on this prediction market?
 

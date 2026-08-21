@@ -1,23 +1,22 @@
 ---
-title: "Will Jeff Weninger win the 2026 Chandler mayoral election?"
-description: "Will Jeff Weninger win the 2026 Chandler mayoral election? Odds: 0.3% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Jeff Weninger win the 2026 Chandler mayoral election?"
+title: "Will Western Europe region win The International 2026?"
+description: "Will Western Europe region win The International 2026? Odds: 4.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Western Europe region win The International 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-21
-expiryDate: 2026-11-03
-tags: ["elections", "politics", "polymarket"]
-polymarketYes: 0.3
-polymarketNo: 99.7
-polymarketVolume: 9876
-polymarketUrl: "https://polymarket.com/event/will-jeff-weninger-win-the-2026-chandler-mayoral-election-20260626000820429"
+tags: ["politics", "polymarket"]
+polymarketYes: 4.5
+polymarketNo: 95.5
+polymarketVolume: 9987
+polymarketUrl: "https://polymarket.com/event/will-europe-region-win-the-international-2026-20260805215811239"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.3% | 99.7% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 4.5% | 95.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +26,9 @@ polymarketUrl: "https://polymarket.com/event/will-jeff-weninger-win-the-2026-cha
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Jeff Weninger win the 2026 Chandler mayoral election?"?
+### What are the current odds for "Will Western Europe region win The International 2026?"?
 
-As of August 21, 2026, Polymarket prices YES at 0.3%.
+As of August 21, 2026, Polymarket prices YES at 4.5%.
 
 ### Where can I trade on this prediction market?
 

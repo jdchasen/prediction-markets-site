@@ -3,7 +3,7 @@ title: "Will Stripe's valuation hit (HIGH) $500B by December 31?"
 description: "Will Stripe's valuation hit (HIGH) $500B by December 31? Odds: 5.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Stripe's valuation hit (HIGH) $500B by December 31?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-08-21
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]

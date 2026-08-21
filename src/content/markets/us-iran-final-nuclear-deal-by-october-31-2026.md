@@ -3,7 +3,7 @@ title: "US-Iran Final Nuclear Deal by October 31, 2026?"
 description: "US-Iran Final Nuclear Deal by October 31, 2026? Odds: 3.6% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "US-Iran Final Nuclear Deal by October 31, 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-08-21
 expiryDate: 2026-10-31
 tags: ["politics", "polymarket"]
