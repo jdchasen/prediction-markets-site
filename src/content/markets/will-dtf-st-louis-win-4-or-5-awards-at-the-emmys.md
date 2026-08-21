@@ -3,8 +3,8 @@ title: "Will \"DTF St. Louis\" win 4 or 5 awards at the Emmys?"
 description: "Will \"DTF St. Louis\" win 4 or 5 awards at the Emmys? Odds: 0.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will \"DTF St. Louis\" win 4 or 5 awards at the Emmys?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-08-20
+status: "settled"
+lastUpdated: 2026-08-21
 expiryDate: 2026-09-14
 tags: ["entertainment", "politics", "polymarket"]
 polymarketYes: 0.2

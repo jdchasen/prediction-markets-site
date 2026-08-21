@@ -3,8 +3,8 @@ title: "Will the ECB announce a 25 bps increase at the October 2026 meeting?"
 description: "Will the ECB announce a 25 bps increase at the October 2026 meeting? Odds: 9.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the ECB announce a 25 bps increase at the October 2026 meeting?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-08-20
+status: "settled"
+lastUpdated: 2026-08-21
 expiryDate: 2026-10-29
 tags: ["politics", "polymarket"]
 polymarketYes: 9.5

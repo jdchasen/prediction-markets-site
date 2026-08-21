@@ -1,13 +1,13 @@
 ---
 title: "Will the Swedish Social Democratic Party (S) win the most seats in the 2026 Swedish parliamentary election?"
-description: "Will the Swedish Social Democratic Party (S) win the most seats in the 2026 Swedish parliamentary election? Odds: 98.5% YES on Polymarket. See live prices an..."
+description: "Will the Swedish Social Democratic Party (S) win the most seats in the 2026 Swedish parliamentary election? Odds: 98.4% YES on Polymarket. See live prices an..."
 marketQuestion: "Will the Swedish Social Democratic Party (S) win the most seats in the 2026 Swedish parliamentary election?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-08-20
+lastUpdated: 2026-08-21
 expiryDate: 2026-09-13
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 98.5
+polymarketYes: 98.4
 polymarketNo: 1.6
 polymarketVolume: 98722
 polymarketUrl: "https://polymarket.com/event/will-the-swedish-social-democratic-party-s-win-the-most-seats-in-the-2026-swedish-parliamentary-election"
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-the-swedish-social-democratic-
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 98.5% | 1.6% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 98.4% | 1.6% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Donald Trump win the 2028 US Presidential Election?](/odds/will-donald-trump-win-the-2028-us-presidential-election) — 3% YES
-- [Will Radu Burnete be the next Prime Minister of Romania?](/odds/will-radu-burnete-be-the-next-prime-minister-of-romania) — 6% YES
-- [Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?](/odds/will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-dec) — 10% YES
+- [Will Radu Burnete be the next Prime Minister of Romania?](/odds/will-radu-burnete-be-the-next-prime-minister-of-romania) — 7% YES
+- [US-Iran Final Nuclear Deal by October 31, 2026?](/odds/us-iran-final-nuclear-deal-by-october-31-2026) — 4% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will the Swedish Social Democratic Party (S) win the most seats in the 2026 Swedish parliamentary election?"?
 
-As of August 20, 2026, Polymarket prices YES at 98.5%.
+As of August 21, 2026, Polymarket prices YES at 98.4%.
 
 ### Where can I trade on this prediction market?
 

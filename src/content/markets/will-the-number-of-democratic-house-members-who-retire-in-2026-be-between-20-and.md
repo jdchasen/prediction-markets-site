@@ -3,8 +3,8 @@ title: "Will the number of Democratic House members who retire in 2026 be betwee
 description: "Will the number of Democratic House members who retire in 2026 be between 20 and 23 inclusive? Odds: 40.5% YES on Polymarket. See live prices and trade this ..."
 marketQuestion: "Will the number of Democratic House members who retire in 2026 be between 20 and 23 inclusive?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-08-20
+status: "settled"
+lastUpdated: 2026-08-21
 expiryDate: 2026-08-31
 tags: ["politics", "polymarket"]
 polymarketYes: 40.5

@@ -4,7 +4,7 @@ description: "Will Seattle Seahawks win the 2027 NFL NFC Championship? Odds: 12.
 marketQuestion: "Will Seattle Seahawks win the 2027 NFL NFC Championship?"
 category: "sports"
 status: "active"
-lastUpdated: 2026-08-20
+lastUpdated: 2026-08-21
 expiryDate: 2027-01-25
 tags: ["polymarket", "sports"]
 polymarketYes: 12.5
@@ -23,12 +23,13 @@ polymarketUrl: "https://polymarket.com/event/will-seattle-seahawks-win-the-2027-
 
 - [Will the Minnesota Vikings win the 2027 NFL league championship?](/odds/will-the-minnesota-vikings-win-the-2027-nfl-league-championship) — 1% YES
 - [Will Arizona Cardinals win the 2027 NFL NFC Championship?](/odds/will-arizona-cardinals-win-the-2027-nfl-nfc-championship) — 1% YES
+- [Will the San Francisco 49ers win the 2027 NFL league championship?](/odds/will-the-san-francisco-49ers-win-the-2027-nfl-league-championship) — 4% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Seattle Seahawks win the 2027 NFL NFC Championship?"?
 
-As of August 20, 2026, Polymarket prices YES at 12.5%.
+As of August 21, 2026, Polymarket prices YES at 12.5%.
 
 ### Where can I trade on this prediction market?
 

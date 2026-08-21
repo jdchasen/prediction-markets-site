@@ -3,8 +3,8 @@ title: "Will PI get the third-most number of seats in the next Moroccan legislat
 description: "Will PI get the third-most number of seats in the next Moroccan legislative elections? Odds: 31.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will PI get the third-most number of seats in the next Moroccan legislative elections?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-08-20
+status: "settled"
+lastUpdated: 2026-08-21
 expiryDate: 2026-09-23
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 31.0

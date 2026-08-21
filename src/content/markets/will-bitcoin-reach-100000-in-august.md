@@ -3,8 +3,8 @@ title: "Will Bitcoin reach $100,000 in August?"
 description: "Will Bitcoin reach $100,000 in August? Odds: 1.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Bitcoin reach $100,000 in August?"
 category: "crypto"
-status: "active"
-lastUpdated: 2026-08-20
+status: "settled"
+lastUpdated: 2026-08-21
 expiryDate: 2026-09-01
 tags: ["bitcoin", "crypto", "polymarket"]
 polymarketYes: 1.1
