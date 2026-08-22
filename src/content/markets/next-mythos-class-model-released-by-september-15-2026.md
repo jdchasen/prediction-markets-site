@@ -1,23 +1,23 @@
 ---
-title: "Will Raphaël Glucksmann announce their candidacy for the 2027 French presidential election in 2026?"
-description: "Will Raphaël Glucksmann announce their candidacy for the 2027 French presidential election in 2026? Odds: 94.5% YES on Polymarket. See live prices and trade ..."
-marketQuestion: "Will Raphaël Glucksmann announce their candidacy for the 2027 French presidential election in 2026?"
+title: "Next Mythos-Class Model released by September 15, 2026?"
+description: "Next Mythos-Class Model released by September 15, 2026? Odds: 49.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Next Mythos-Class Model released by September 15, 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-22
-expiryDate: 2027-04-23
-tags: ["elections", "politics", "polymarket"]
-polymarketYes: 94.5
-polymarketNo: 5.5
-polymarketVolume: 9907
-polymarketUrl: "https://polymarket.com/event/will-raphal-glucksmann-announce-their-candidacy-for-the-2027-french-presidential-election-in-2026"
+expiryDate: 2026-09-16
+tags: ["politics", "polymarket"]
+polymarketYes: 49.5
+polymarketNo: 50.5
+polymarketVolume: 9863
+polymarketUrl: "https://polymarket.com/event/next-mythos-class-model-released-by-september-15-2026-112"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 94.5% | 5.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 49.5% | 50.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-raphal-glucksmann-announce-the
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Raphaël Glucksmann announce their candidacy for the 2027 French presidential election in 2026?"?
+### What are the current odds for "Next Mythos-Class Model released by September 15, 2026?"?
 
-As of August 22, 2026, Polymarket prices YES at 94.5%.
+As of August 22, 2026, Polymarket prices YES at 49.5%.
 
 ### Where can I trade on this prediction market?
 

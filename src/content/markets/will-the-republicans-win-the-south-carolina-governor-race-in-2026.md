@@ -1,23 +1,22 @@
 ---
-title: "Will Raphaël Glucksmann announce their candidacy for the 2027 French presidential election in 2026?"
-description: "Will Raphaël Glucksmann announce their candidacy for the 2027 French presidential election in 2026? Odds: 94.5% YES on Polymarket. See live prices and trade ..."
-marketQuestion: "Will Raphaël Glucksmann announce their candidacy for the 2027 French presidential election in 2026?"
+title: "Will the Republicans win the South Carolina governor race in 2026?"
+description: "Will the Republicans win the South Carolina governor race in 2026? Odds: 93.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will the Republicans win the South Carolina governor race in 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-22
-expiryDate: 2027-04-23
-tags: ["elections", "politics", "polymarket"]
-polymarketYes: 94.5
-polymarketNo: 5.5
-polymarketVolume: 9907
-polymarketUrl: "https://polymarket.com/event/will-raphal-glucksmann-announce-their-candidacy-for-the-2027-french-presidential-election-in-2026"
+tags: ["politics", "polymarket"]
+polymarketYes: 93.5
+polymarketNo: 6.5
+polymarketVolume: 9982
+polymarketUrl: "https://polymarket.com/event/will-the-republicans-win-the-south-carolina-governor-race-in-2026"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 94.5% | 5.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 93.5% | 6.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +26,9 @@ polymarketUrl: "https://polymarket.com/event/will-raphal-glucksmann-announce-the
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Raphaël Glucksmann announce their candidacy for the 2027 French presidential election in 2026?"?
+### What are the current odds for "Will the Republicans win the South Carolina governor race in 2026?"?
 
-As of August 22, 2026, Polymarket prices YES at 94.5%.
+As of August 22, 2026, Polymarket prices YES at 93.5%.
 
 ### Where can I trade on this prediction market?
 

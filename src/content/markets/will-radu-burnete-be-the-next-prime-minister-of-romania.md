@@ -22,8 +22,8 @@ polymarketUrl: "https://polymarket.com/event/will-radu-burnete-be-the-next-prime
 ## Related Markets
 
 - [Will Donald Trump win the 2028 US Presidential Election?](/odds/will-donald-trump-win-the-2028-us-presidential-election) — 2% YES
-- [Will Solana reach $160 by December 31, 2026?](/odds/will-solana-reach-160-by-december-31-2026) — 18% YES
-- [Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?](/odds/will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-dec) — 16% YES
+- [Will Solana reach $160 by December 31, 2026?](/odds/will-solana-reach-160-by-december-31-2026) — 20% YES
+- [Another GTA VI trailer released by August 31?](/odds/another-gta-vi-trailer-released-by-august-31) — 31% YES
 
 ## Frequently Asked Questions
 

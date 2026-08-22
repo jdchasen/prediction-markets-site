@@ -3,7 +3,7 @@ title: "US-Canada diplomatic agreement to lower tariffs by August 31?"
 description: "US-Canada diplomatic agreement to lower tariffs by August 31? Odds: 18.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "US-Canada diplomatic agreement to lower tariffs by August 31?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-08-22
 expiryDate: 2026-08-31
 tags: ["politics", "polymarket"]

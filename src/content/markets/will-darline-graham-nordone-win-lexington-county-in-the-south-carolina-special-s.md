@@ -1,23 +1,23 @@
 ---
-title: "Will the US federal government take a stake in The Boeing Company?"
-description: "Will the US federal government take a stake in The Boeing Company? Odds: 9.0% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will the US federal government take a stake in The Boeing Company?"
+title: "Will Darline Graham Nordone win Lexington County in the South Carolina Special Senate Primary runoff?"
+description: "Will Darline Graham Nordone win Lexington County in the South Carolina Special Senate Primary runoff? Odds: 95.7% YES on Polymarket. See live prices and trad..."
+marketQuestion: "Will Darline Graham Nordone win Lexington County in the South Carolina Special Senate Primary runoff?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-22
-expiryDate: 2026-12-31
-tags: ["federal-reserve", "politics", "polymarket"]
-polymarketYes: 9.0
-polymarketNo: 91.0
-polymarketVolume: 9876
-polymarketUrl: "https://polymarket.com/event/will-the-us-federal-government-take-a-stake-in-the-boeing-company"
+expiryDate: 2026-08-25
+tags: ["politics", "polymarket"]
+polymarketYes: 95.7
+polymarketNo: 4.3
+polymarketVolume: 9857
+polymarketUrl: "https://polymarket.com/event/will-darline-graham-nordone-win-lexington-county-in-the-south-carolina-special-senate-primary-runoff"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 9.0% | 91.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 95.7% | 4.3% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-the-us-federal-government-take
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will the US federal government take a stake in The Boeing Company?"?
+### What are the current odds for "Will Darline Graham Nordone win Lexington County in the South Carolina Special Senate Primary runoff?"?
 
-As of August 22, 2026, Polymarket prices YES at 9.0%.
+As of August 22, 2026, Polymarket prices YES at 95.7%.
 
 ### Where can I trade on this prediction market?
 

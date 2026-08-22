@@ -3,7 +3,7 @@ title: "Will the Minnesota Vikings win the 2027 NFL league championship?"
 description: "Will the Minnesota Vikings win the 2027 NFL league championship? Odds: 1.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Minnesota Vikings win the 2027 NFL league championship?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-08-22
 expiryDate: 2027-03-31
 tags: ["polymarket", "sports"]

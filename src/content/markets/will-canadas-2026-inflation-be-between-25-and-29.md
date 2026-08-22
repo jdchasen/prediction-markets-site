@@ -21,7 +21,7 @@ polymarketUrl: "https://polymarket.com/event/will-canadas-2026-inflation-be-betw
 
 ## Related Markets
 
-- [Will there be no change in Fed interest rates after the September 2026 meeting?](/odds/will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting) — 68% YES
+- [Will Brazil’s Annual Inflation in 2026 be between 5.50% and 5.99%?](/odds/will-brazils-annual-inflation-in-2026-be-between-550-and-599) — 16% YES
 
 ## Frequently Asked Questions
 

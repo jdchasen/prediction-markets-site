@@ -1,13 +1,13 @@
 ---
 title: "Will the Republicans win the Rhode Island governor race in 2026?"
-description: "Will the Republicans win the Rhode Island governor race in 2026? Odds: 2.9% YES on Polymarket. See live prices and trade this market."
+description: "Will the Republicans win the Rhode Island governor race in 2026? Odds: 1.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Republicans win the Rhode Island governor race in 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-22
 tags: ["politics", "polymarket"]
-polymarketYes: 2.9
-polymarketNo: 97.2
+polymarketYes: 1.8
+polymarketNo: 98.2
 polymarketVolume: 9881
 polymarketUrl: "https://polymarket.com/event/will-the-republicans-win-the-rhode-island-governor-race-in-2026"
 ---
@@ -16,19 +16,19 @@ polymarketUrl: "https://polymarket.com/event/will-the-republicans-win-the-rhode-
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 2.9% | 97.2% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 1.8% | 98.2% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Donald Trump win the 2028 US Presidential Election?](/odds/will-donald-trump-win-the-2028-us-presidential-election) — 2% YES
+- [Will Solana reach $160 by December 31, 2026?](/odds/will-solana-reach-160-by-december-31-2026) — 20% YES
 - [Will Radu Burnete be the next Prime Minister of Romania?](/odds/will-radu-burnete-be-the-next-prime-minister-of-romania) — 6% YES
-- [Will Solana reach $160 by December 31, 2026?](/odds/will-solana-reach-160-by-december-31-2026) — 18% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will the Republicans win the Rhode Island governor race in 2026?"?
 
-As of August 22, 2026, Polymarket prices YES at 2.9%.
+As of August 22, 2026, Polymarket prices YES at 1.8%.
 
 ### Where can I trade on this prediction market?
 

@@ -21,7 +21,7 @@ polymarketUrl: "https://polymarket.com/event/will-ethereum-hit-1k-or-3k-first"
 
 ## Related Markets
 
-- [Will Loopscale launch a token by December 31, 2026?](/odds/will-loopscale-launch-a-token-by-december-31-2026) — 15% YES
+- [Will Loopscale launch a token by December 31, 2026?](/odds/will-loopscale-launch-a-token-by-december-31-2026) — 20% YES
 - [Will Ethereum dip to $700 by December 31, 2026?](/odds/will-ethereum-dip-to-700-by-december-31-2026) — 3% YES
 - [Ventuals FDV above $2B one day after launch?](/odds/ventuals-fdv-above-2b-one-day-after-launch) — 2% YES
 

@@ -3,7 +3,7 @@ title: "Will Yabloko win the third-most seats in the next Russian parliamentary 
 description: "Will Yabloko win the third-most seats in the next Russian parliamentary election? Odds: 0.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Yabloko win the third-most seats in the next Russian parliamentary election?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-08-22
 expiryDate: 2026-09-20
 tags: ["elections", "politics", "polymarket"]

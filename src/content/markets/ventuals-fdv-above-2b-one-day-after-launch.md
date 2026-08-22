@@ -21,7 +21,7 @@ polymarketUrl: "https://polymarket.com/event/ventuals-fdv-above-2b-one-day-after
 
 ## Related Markets
 
-- [Will Loopscale launch a token by December 31, 2026?](/odds/will-loopscale-launch-a-token-by-december-31-2026) — 15% YES
+- [Will Loopscale launch a token by December 31, 2026?](/odds/will-loopscale-launch-a-token-by-december-31-2026) — 20% YES
 - [Will Ethereum hit $1,000 or $3,000 first?](/odds/will-ethereum-hit-1000-or-3000-first) — 25% YES
 - [Will Ethereum dip to $700 by December 31, 2026?](/odds/will-ethereum-dip-to-700-by-december-31-2026) — 3% YES
 

@@ -1,14 +1,14 @@
 ---
 title: "Will Truist fail by end of 2026?"
-description: "Will Truist fail by end of 2026? Odds: 3.1% YES on Polymarket. See live prices and trade this market."
+description: "Will Truist fail by end of 2026? Odds: 3.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Truist fail by end of 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-22
 expiryDate: 2026-12-31
 tags: ["ai", "politics", "polymarket"]
-polymarketYes: 3.1
-polymarketNo: 96.9
+polymarketYes: 3.0
+polymarketNo: 97.0
 polymarketVolume: 9973
 polymarketUrl: "https://polymarket.com/event/will-truist-fail-by-end-of-2026"
 ---
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-truist-fail-by-end-of-2026"
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 3.1% | 96.9% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 3.0% | 97.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Donald Trump win the 2028 US Presidential Election?](/odds/will-donald-trump-win-the-2028-us-presidential-election) — 2% YES
+- [Will Solana reach $160 by December 31, 2026?](/odds/will-solana-reach-160-by-december-31-2026) — 20% YES
 - [Will Radu Burnete be the next Prime Minister of Romania?](/odds/will-radu-burnete-be-the-next-prime-minister-of-romania) — 6% YES
-- [Will Solana reach $160 by December 31, 2026?](/odds/will-solana-reach-160-by-december-31-2026) — 18% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Truist fail by end of 2026?"?
 
-As of August 22, 2026, Polymarket prices YES at 3.1%.
+As of August 22, 2026, Polymarket prices YES at 3.0%.
 
 ### Where can I trade on this prediction market?
 
