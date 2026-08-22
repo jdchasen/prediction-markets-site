@@ -3,8 +3,8 @@ title: "Will OpenAI have the best Math AI model at the end of September 2026?"
 description: "Will OpenAI have the best Math AI model at the end of September 2026? Odds: 9.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will OpenAI have the best Math AI model at the end of September 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-08-21
+status: "settled"
+lastUpdated: 2026-08-22
 expiryDate: 2026-09-30
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 9.0

@@ -1,23 +1,23 @@
 ---
-title: "Will Aldo Rebelo finish in third place in the first round of the 2026 Brazilian presidential election?"
-description: "Will Aldo Rebelo finish in third place in the first round of the 2026 Brazilian presidential election? Odds: 0.1% YES on Polymarket. See live prices and trad..."
-marketQuestion: "Will Aldo Rebelo finish in third place in the first round of the 2026 Brazilian presidential election?"
+title: "Will Moonshot be the second-best Chinese AI company at the end of October 2026?"
+description: "Will Moonshot be the second-best Chinese AI company at the end of October 2026? Odds: 25.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Moonshot be the second-best Chinese AI company at the end of October 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-22
-expiryDate: 2026-10-04
-tags: ["elections", "politics", "polymarket"]
-polymarketYes: 0.1
-polymarketNo: 100.0
-polymarketVolume: 9865
-polymarketUrl: "https://polymarket.com/event/will-aldo-rebelo-finish-in-third-place-in-the-first-round-of-the-2026-brazilian-presidential-election"
+expiryDate: 2026-10-31
+tags: ["ai", "politics", "polymarket"]
+polymarketYes: 25.5
+polymarketNo: 74.5
+polymarketVolume: 9910
+polymarketUrl: "https://polymarket.com/event/will-moonshot-be-the-second-best-chinese-ai-company-at-the-end-of-october-2026-20260811194841600"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.1% | 100.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 25.5% | 74.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-aldo-rebelo-finish-in-third-pl
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Aldo Rebelo finish in third place in the first round of the 2026 Brazilian presidential election?"?
+### What are the current odds for "Will Moonshot be the second-best Chinese AI company at the end of October 2026?"?
 
-As of August 22, 2026, Polymarket prices YES at 0.1%.
+As of August 22, 2026, Polymarket prices YES at 25.5%.
 
 ### Where can I trade on this prediction market?
 

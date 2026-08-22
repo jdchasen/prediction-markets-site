@@ -3,8 +3,8 @@ title: "Will the For safe food – through strengthening sustainable domestic pr
 description: "Will the For safe food – through strengthening sustainable domestic production, increasing plant-based foods and ensuring clean drinking water (food initiati..."
 marketQuestion: "Will the For safe food – through strengthening sustainable domestic production, increasing plant-based foods and ensuring clean drinking water (food initiative) initiative be approved in Switzerland’s September 27, 2026 popular vote?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-08-21
+status: "settled"
+lastUpdated: 2026-08-22
 expiryDate: 2026-09-27
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 4.0

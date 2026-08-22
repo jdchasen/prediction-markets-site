@@ -1,14 +1,14 @@
 ---
 title: "Naim Qassem out as Hezbollah’s secretary-general by December 31, 2026?"
-description: "Naim Qassem out as Hezbollah’s secretary-general by December 31, 2026? Odds: 8.3% YES on Polymarket. See live prices and trade this market."
+description: "Naim Qassem out as Hezbollah’s secretary-general by December 31, 2026? Odds: 8.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Naim Qassem out as Hezbollah’s secretary-general by December 31, 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-08-21
+lastUpdated: 2026-08-22
 expiryDate: 2027-01-01
 tags: ["ai", "politics", "polymarket"]
-polymarketYes: 8.3
-polymarketNo: 91.6
+polymarketYes: 8.2
+polymarketNo: 91.8
 polymarketVolume: 9987
 polymarketUrl: "https://polymarket.com/event/naim-qassem-out-as-hezbollahs-secretary-general-by-december-31-2026"
 ---
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/naim-qassem-out-as-hezbollahs-secre
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 8.3% | 91.6% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 8.2% | 91.8% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Donald Trump win the 2028 US Presidential Election?](/odds/will-donald-trump-win-the-2028-us-presidential-election) — 2% YES
 - [Will Radu Burnete be the next Prime Minister of Romania?](/odds/will-radu-burnete-be-the-next-prime-minister-of-romania) — 6% YES
-- [Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?](/odds/will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-dec) — 16% YES
+- [Will Solana reach $160 by December 31, 2026?](/odds/will-solana-reach-160-by-december-31-2026) — 18% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Naim Qassem out as Hezbollah’s secretary-general by December 31, 2026?"?
 
-As of August 21, 2026, Polymarket prices YES at 8.3%.
+As of August 22, 2026, Polymarket prices YES at 8.2%.
 
 ### Where can I trade on this prediction market?
 

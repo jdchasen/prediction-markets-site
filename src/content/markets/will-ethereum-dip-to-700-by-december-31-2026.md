@@ -1,35 +1,35 @@
 ---
-title: "Ventuals FDV above $2B one day after launch?"
-description: "Ventuals FDV above $2B one day after launch? Odds: 1.8% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Ventuals FDV above $2B one day after launch?"
+title: "Will Ethereum dip to $700 by December 31, 2026?"
+description: "Will Ethereum dip to $700 by December 31, 2026? Odds: 2.8% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Ethereum dip to $700 by December 31, 2026?"
 category: "crypto"
 status: "active"
 lastUpdated: 2026-08-22
 expiryDate: 2027-01-01
-tags: ["crypto", "polymarket"]
-polymarketYes: 1.8
-polymarketNo: 98.2
-polymarketVolume: 9847
-polymarketUrl: "https://polymarket.com/event/ventuals-fdv-above-2b-one-day-after-launch-314"
+tags: ["crypto", "ethereum", "polymarket"]
+polymarketYes: 2.8
+polymarketNo: 97.2
+polymarketVolume: 9870
+polymarketUrl: "https://polymarket.com/event/will-ethereum-dip-to-700-by-december-31-2026-from-june-8"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 1.8% | 98.2% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 2.8% | 97.2% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Loopscale launch a token by December 31, 2026?](/odds/will-loopscale-launch-a-token-by-december-31-2026) — 15% YES
 - [Will Ethereum hit $1,000 or $3,000 first?](/odds/will-ethereum-hit-1000-or-3000-first) — 25% YES
-- [Will Ethereum dip to $700 by December 31, 2026?](/odds/will-ethereum-dip-to-700-by-december-31-2026) — 3% YES
+- [Ventuals FDV above $2B one day after launch?](/odds/ventuals-fdv-above-2b-one-day-after-launch) — 2% YES
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Ventuals FDV above $2B one day after launch?"?
+### What are the current odds for "Will Ethereum dip to $700 by December 31, 2026?"?
 
-As of August 22, 2026, Polymarket prices YES at 1.8%.
+As of August 22, 2026, Polymarket prices YES at 2.8%.
 
 ### Where can I trade on this prediction market?
 

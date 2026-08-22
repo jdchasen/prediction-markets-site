@@ -3,8 +3,8 @@ title: "Will the Swedish Social Democratic Party (S) win the most seats in the 2
 description: "Will the Swedish Social Democratic Party (S) win the most seats in the 2026 Swedish parliamentary election? Odds: 98.5% YES on Polymarket. See live prices an..."
 marketQuestion: "Will the Swedish Social Democratic Party (S) win the most seats in the 2026 Swedish parliamentary election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-08-21
+status: "settled"
+lastUpdated: 2026-08-22
 expiryDate: 2026-09-13
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 98.5

@@ -1,23 +1,23 @@
 ---
-title: "Will the US federal government take a stake in The Boeing Company?"
-description: "Will the US federal government take a stake in The Boeing Company? Odds: 8.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will the US federal government take a stake in The Boeing Company?"
+title: "Will the Democratic Party win the UT-02 House seat?"
+description: "Will the Democratic Party win the UT-02 House seat? Odds: 4.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will the Democratic Party win the UT-02 House seat?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-22
-expiryDate: 2026-12-31
-tags: ["federal-reserve", "politics", "polymarket"]
-polymarketYes: 8.5
-polymarketNo: 91.5
-polymarketVolume: 9856
-polymarketUrl: "https://polymarket.com/event/will-the-us-federal-government-take-a-stake-in-the-boeing-company"
+expiryDate: 2026-11-04
+tags: ["politics", "polymarket"]
+polymarketYes: 4.5
+polymarketNo: 95.5
+polymarketVolume: 9891
+polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-ut-02-house-seat"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 8.5% | 91.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 4.5% | 95.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-the-us-federal-government-take
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will the US federal government take a stake in The Boeing Company?"?
+### What are the current odds for "Will the Democratic Party win the UT-02 House seat?"?
 
-As of August 22, 2026, Polymarket prices YES at 8.5%.
+As of August 22, 2026, Polymarket prices YES at 4.5%.
 
 ### Where can I trade on this prediction market?
 

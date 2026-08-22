@@ -1,23 +1,23 @@
 ---
-title: "Will Aldo Rebelo finish in third place in the first round of the 2026 Brazilian presidential election?"
-description: "Will Aldo Rebelo finish in third place in the first round of the 2026 Brazilian presidential election? Odds: 0.1% YES on Polymarket. See live prices and trad..."
-marketQuestion: "Will Aldo Rebelo finish in third place in the first round of the 2026 Brazilian presidential election?"
+title: "Will Raphaël Glucksmann announce their candidacy for the 2027 French presidential election in 2026?"
+description: "Will Raphaël Glucksmann announce their candidacy for the 2027 French presidential election in 2026? Odds: 94.5% YES on Polymarket. See live prices and trade ..."
+marketQuestion: "Will Raphaël Glucksmann announce their candidacy for the 2027 French presidential election in 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-22
-expiryDate: 2026-10-04
+expiryDate: 2027-04-23
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 0.1
-polymarketNo: 100.0
-polymarketVolume: 9865
-polymarketUrl: "https://polymarket.com/event/will-aldo-rebelo-finish-in-third-place-in-the-first-round-of-the-2026-brazilian-presidential-election"
+polymarketYes: 94.5
+polymarketNo: 5.5
+polymarketVolume: 9907
+polymarketUrl: "https://polymarket.com/event/will-raphal-glucksmann-announce-their-candidacy-for-the-2027-french-presidential-election-in-2026"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.1% | 100.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 94.5% | 5.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-aldo-rebelo-finish-in-third-pl
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Aldo Rebelo finish in third place in the first round of the 2026 Brazilian presidential election?"?
+### What are the current odds for "Will Raphaël Glucksmann announce their candidacy for the 2027 French presidential election in 2026?"?
 
-As of August 22, 2026, Polymarket prices YES at 0.1%.
+As of August 22, 2026, Polymarket prices YES at 94.5%.
 
 ### Where can I trade on this prediction market?
 

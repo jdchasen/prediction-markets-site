@@ -4,7 +4,7 @@ description: "Will Yabloko win the third-most seats in the next Russian parliame
 marketQuestion: "Will Yabloko win the third-most seats in the next Russian parliamentary election?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-08-21
+lastUpdated: 2026-08-22
 expiryDate: 2026-09-20
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.9
@@ -23,13 +23,13 @@ polymarketUrl: "https://polymarket.com/event/will-yabloko-win-the-third-most-sea
 
 - [Will Donald Trump win the 2028 US Presidential Election?](/odds/will-donald-trump-win-the-2028-us-presidential-election) — 2% YES
 - [Will Radu Burnete be the next Prime Minister of Romania?](/odds/will-radu-burnete-be-the-next-prime-minister-of-romania) — 6% YES
-- [Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?](/odds/will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-dec) — 16% YES
+- [Will Solana reach $160 by December 31, 2026?](/odds/will-solana-reach-160-by-december-31-2026) — 18% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Yabloko win the third-most seats in the next Russian parliamentary election?"?
 
-As of August 21, 2026, Polymarket prices YES at 0.9%.
+As of August 22, 2026, Polymarket prices YES at 0.9%.
 
 ### Where can I trade on this prediction market?
 

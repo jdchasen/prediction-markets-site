@@ -3,8 +3,8 @@ title: "Will Chico Machado win the Governor of Rio de Janeiro election?"
 description: "Will Chico Machado win the Governor of Rio de Janeiro election? Odds: 0.3% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Chico Machado win the Governor of Rio de Janeiro election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-08-21
+status: "settled"
+lastUpdated: 2026-08-22
 expiryDate: 2026-10-05
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.3

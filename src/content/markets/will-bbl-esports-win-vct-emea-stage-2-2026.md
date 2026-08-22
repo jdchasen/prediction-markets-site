@@ -3,8 +3,8 @@ title: "Will BBL Esports Win VCT EMEA Stage 2 2026?"
 description: "Will BBL Esports Win VCT EMEA Stage 2 2026? Odds: 21.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will BBL Esports Win VCT EMEA Stage 2 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-08-21
+status: "settled"
+lastUpdated: 2026-08-22
 tags: ["politics", "polymarket"]
 polymarketYes: 21.5
 polymarketNo: 78.5

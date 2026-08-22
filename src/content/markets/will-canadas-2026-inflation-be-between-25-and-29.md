@@ -1,14 +1,14 @@
 ---
 title: "Will Canada’s 2026 inflation be between 2.5% and 2.9%?"
-description: "Will Canada’s 2026 inflation be between 2.5% and 2.9%? Odds: 33.0% YES on Polymarket. See live prices and trade this market."
+description: "Will Canada’s 2026 inflation be between 2.5% and 2.9%? Odds: 24.3% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Canada’s 2026 inflation be between 2.5% and 2.9%?"
 category: "economics"
 status: "active"
-lastUpdated: 2026-08-21
+lastUpdated: 2026-08-22
 expiryDate: 2027-01-18
 tags: ["economics", "polymarket", "sports"]
-polymarketYes: 33.0
-polymarketNo: 67.0
+polymarketYes: 24.3
+polymarketNo: 75.6
 polymarketVolume: 9798
 polymarketUrl: "https://polymarket.com/event/will-canadas-2026-inflation-be-between-2pt5-and-2pt9"
 ---
@@ -17,19 +17,17 @@ polymarketUrl: "https://polymarket.com/event/will-canadas-2026-inflation-be-betw
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 33.0% | 67.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 24.3% | 75.6% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will there be no change in Fed interest rates after the September 2026 meeting?](/odds/will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting) — 68% YES
-- [Will Canada's GDP growth rate MoM in June 2026 be between 0.2% and 0.3%?](/odds/will-canadas-gdp-growth-rate-mom-in-june-2026-be-between-02-and-03) — 60% YES
-- [Will Brazil’s Annual Inflation in 2026 be between 5.50% and 5.99%?](/odds/will-brazils-annual-inflation-in-2026-be-between-550-and-599) — 17% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Canada’s 2026 inflation be between 2.5% and 2.9%?"?
 
-As of August 21, 2026, Polymarket prices YES at 33.0%.
+As of August 22, 2026, Polymarket prices YES at 24.3%.
 
 ### Where can I trade on this prediction market?
 

@@ -3,8 +3,8 @@ title: "Will Canada's GDP growth rate MoM in June 2026 be between 0.2% and 0.3%?
 description: "Will Canada's GDP growth rate MoM in June 2026 be between 0.2% and 0.3%? Odds: 60.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Canada's GDP growth rate MoM in June 2026 be between 0.2% and 0.3%?"
 category: "economics"
-status: "active"
-lastUpdated: 2026-08-21
+status: "settled"
+lastUpdated: 2026-08-22
 expiryDate: 2026-08-28
 tags: ["economics", "polymarket"]
 polymarketYes: 60.5

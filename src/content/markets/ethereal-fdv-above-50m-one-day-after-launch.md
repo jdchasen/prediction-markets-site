@@ -3,8 +3,8 @@ title: "Ethereal FDV above $50M one day after launch?"
 description: "Ethereal FDV above $50M one day after launch? Odds: 23.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Ethereal FDV above $50M one day after launch?"
 category: "crypto"
-status: "active"
-lastUpdated: 2026-08-21
+status: "settled"
+lastUpdated: 2026-08-22
 expiryDate: 2028-01-01
 tags: ["crypto", "ethereum", "polymarket"]
 polymarketYes: 23.5

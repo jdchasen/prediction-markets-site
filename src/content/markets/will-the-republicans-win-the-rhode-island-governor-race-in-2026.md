@@ -1,23 +1,22 @@
 ---
-title: "Will Aldo Rebelo finish in third place in the first round of the 2026 Brazilian presidential election?"
-description: "Will Aldo Rebelo finish in third place in the first round of the 2026 Brazilian presidential election? Odds: 0.1% YES on Polymarket. See live prices and trad..."
-marketQuestion: "Will Aldo Rebelo finish in third place in the first round of the 2026 Brazilian presidential election?"
+title: "Will the Republicans win the Rhode Island governor race in 2026?"
+description: "Will the Republicans win the Rhode Island governor race in 2026? Odds: 2.9% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will the Republicans win the Rhode Island governor race in 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-22
-expiryDate: 2026-10-04
-tags: ["elections", "politics", "polymarket"]
-polymarketYes: 0.1
-polymarketNo: 100.0
-polymarketVolume: 9865
-polymarketUrl: "https://polymarket.com/event/will-aldo-rebelo-finish-in-third-place-in-the-first-round-of-the-2026-brazilian-presidential-election"
+tags: ["politics", "polymarket"]
+polymarketYes: 2.9
+polymarketNo: 97.2
+polymarketVolume: 9881
+polymarketUrl: "https://polymarket.com/event/will-the-republicans-win-the-rhode-island-governor-race-in-2026"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.1% | 100.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 2.9% | 97.2% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +26,9 @@ polymarketUrl: "https://polymarket.com/event/will-aldo-rebelo-finish-in-third-pl
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Aldo Rebelo finish in third place in the first round of the 2026 Brazilian presidential election?"?
+### What are the current odds for "Will the Republicans win the Rhode Island governor race in 2026?"?
 
-As of August 22, 2026, Polymarket prices YES at 0.1%.
+As of August 22, 2026, Polymarket prices YES at 2.9%.
 
 ### Where can I trade on this prediction market?
 
