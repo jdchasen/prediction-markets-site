@@ -1,15 +1,15 @@
 ---
 title: "Will the number of Democratic House members who retire in 2026 be between 24 and 27 inclusive?"
-description: "Will the number of Democratic House members who retire in 2026 be between 24 and 27 inclusive? Odds: 27.5% YES on Polymarket. See live prices and trade this ..."
+description: "Will the number of Democratic House members who retire in 2026 be between 24 and 27 inclusive? Odds: 15.0% YES on Polymarket. See live prices and trade this ..."
 marketQuestion: "Will the number of Democratic House members who retire in 2026 be between 24 and 27 inclusive?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-23
 expiryDate: 2026-08-31
 tags: ["politics", "polymarket"]
-polymarketYes: 27.5
-polymarketNo: 72.5
-polymarketVolume: 9912
+polymarketYes: 15.0
+polymarketNo: 85.0
+polymarketVolume: 9999
 polymarketUrl: "https://polymarket.com/event/will-the-number-of-democratic-house-members-who-retire-in-2026-be-between-24-and-27-inclusive"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-the-number-of-democratic-house
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 27.5% | 72.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 15.0% | 85.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Donald Trump win the 2028 US Presidential Election?](/odds/will-donald-trump-win-the-2028-us-presidential-election) — 2% YES
-- [Will Radu Burnete be the next Prime Minister of Romania?](/odds/will-radu-burnete-be-the-next-prime-minister-of-romania) — 6% YES
 - [US obtains Iranian enriched uranium by September 30?](/odds/us-obtains-iranian-enriched-uranium-by-september-30) — 2% YES
+- [Will Radu Burnete be the next Prime Minister of Romania?](/odds/will-radu-burnete-be-the-next-prime-minister-of-romania) — 6% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will the number of Democratic House members who retire in 2026 be between 24 and 27 inclusive?"?
 
-As of August 23, 2026, Polymarket prices YES at 27.5%.
+As of August 23, 2026, Polymarket prices YES at 15.0%.
 
 ### Where can I trade on this prediction market?
 

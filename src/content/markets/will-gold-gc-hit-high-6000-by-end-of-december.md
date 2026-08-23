@@ -9,7 +9,7 @@ expiryDate: 2026-12-31
 tags: ["finance", "polymarket"]
 polymarketYes: 13.0
 polymarketNo: 87.0
-polymarketVolume: 993572
+polymarketVolume: 993806
 polymarketUrl: "https://polymarket.com/event/will-gold-gc-hit-high-6000-by-end-of-december"
 ---
 
@@ -21,7 +21,7 @@ polymarketUrl: "https://polymarket.com/event/will-gold-gc-hit-high-6000-by-end-o
 
 ## Related Markets
 
-- [Will Apple be the second-largest company in the world by market cap on September 30?](/odds/will-apple-be-the-second-largest-company-in-the-world-by-market-cap-on-september) — 76% YES
+- [Will Apple be the second-largest company in the world by market cap on September 30?](/odds/will-apple-be-the-second-largest-company-in-the-world-by-market-cap-on-september) — 75% YES
 - [Will OpenAI's IPO valuation be less than $1T?](/odds/will-openais-ipo-valuation-be-less-than-1t) — 9% YES
 
 ## Frequently Asked Questions

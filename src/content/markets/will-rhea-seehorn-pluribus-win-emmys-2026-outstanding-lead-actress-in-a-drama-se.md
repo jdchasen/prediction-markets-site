@@ -1,23 +1,23 @@
 ---
-title: "Will UNI reach $15.50 by December 31, 2026?"
-description: "Will UNI reach $15.50 by December 31, 2026? Odds: 6.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will UNI reach $15.50 by December 31, 2026?"
+title: "Will Rhea Seehorn – “Pluribus” win Emmys 2026: Outstanding lead actress in a drama series?"
+description: "Will Rhea Seehorn – “Pluribus” win Emmys 2026: Outstanding lead actress in a drama series? Odds: 81.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Rhea Seehorn – “Pluribus” win Emmys 2026: Outstanding lead actress in a drama series?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-23
-expiryDate: 2027-01-01
-tags: ["politics", "polymarket"]
-polymarketYes: 6.5
-polymarketNo: 93.5
-polymarketVolume: 9848
-polymarketUrl: "https://polymarket.com/event/will-uni-reach-15pt50-by-december-31-2026"
+expiryDate: 2026-09-14
+tags: ["entertainment", "politics", "polymarket"]
+polymarketYes: 81.5
+polymarketNo: 18.5
+polymarketVolume: 9866
+polymarketUrl: "https://polymarket.com/event/will-rhea-seehorn-pluribus-win-emmys-2026-outstanding-lead-actress-in-a-drama-series-20260709174229803"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 6.5% | 93.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 81.5% | 18.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-uni-reach-15pt50-by-december-3
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will UNI reach $15.50 by December 31, 2026?"?
+### What are the current odds for "Will Rhea Seehorn – “Pluribus” win Emmys 2026: Outstanding lead actress in a drama series?"?
 
-As of August 23, 2026, Polymarket prices YES at 6.5%.
+As of August 23, 2026, Polymarket prices YES at 81.5%.
 
 ### Where can I trade on this prediction market?
 

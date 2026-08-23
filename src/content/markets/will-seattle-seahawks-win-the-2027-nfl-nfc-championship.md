@@ -22,7 +22,7 @@ polymarketUrl: "https://polymarket.com/event/will-seattle-seahawks-win-the-2027-
 ## Related Markets
 
 - [Will Arizona Cardinals win the 2027 NFL NFC Championship?](/odds/will-arizona-cardinals-win-the-2027-nfl-nfc-championship) — 1% YES
-- [Will Jalen Hurts win the 2026 NFL MVP?](/odds/will-jalen-hurts-win-the-2026-nfl-mvp) — 4% YES
+- [Will Nasim Nuñez lead the MLB in stolen bases for the 2026 regular season?](/odds/will-nasim-nuez-lead-the-mlb-in-stolen-bases-for-the-2026-regular-season) — 76% YES
 
 ## Frequently Asked Questions
 

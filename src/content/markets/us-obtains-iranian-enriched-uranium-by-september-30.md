@@ -8,8 +8,8 @@ lastUpdated: 2026-08-23
 expiryDate: 2026-10-01
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 1.7
-polymarketNo: 98.4
-polymarketVolume: 99524
+polymarketNo: 98.3
+polymarketVolume: 99964
 polymarketUrl: "https://polymarket.com/event/us-obtains-iranian-enriched-uranium-by-september-30-145"
 ---
 
@@ -17,13 +17,13 @@ polymarketUrl: "https://polymarket.com/event/us-obtains-iranian-enriched-uranium
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 1.7% | 98.4% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 1.7% | 98.3% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Donald Trump win the 2028 US Presidential Election?](/odds/will-donald-trump-win-the-2028-us-presidential-election) — 2% YES
 - [Will Radu Burnete be the next Prime Minister of Romania?](/odds/will-radu-burnete-be-the-next-prime-minister-of-romania) — 6% YES
-- [Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?](/odds/will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-dec) — 15% YES
+- [Will a 1+ Year Enrichment Moratorium be in a US-Iran deal in 2026?](/odds/will-a-1-year-enrichment-moratorium-be-in-a-us-iran-deal-in-2026) — 10% YES
 
 ## Frequently Asked Questions
 

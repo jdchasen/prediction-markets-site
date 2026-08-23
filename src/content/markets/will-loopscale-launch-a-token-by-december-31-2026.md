@@ -9,7 +9,7 @@ expiryDate: 2027-01-01
 tags: ["crypto", "polymarket"]
 polymarketYes: 14.5
 polymarketNo: 85.5
-polymarketVolume: 99057
+polymarketVolume: 99063
 polymarketUrl: "https://polymarket.com/event/will-loopscale-launch-a-token-by-december-31-2026"
 ---
 

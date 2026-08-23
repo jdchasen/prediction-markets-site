@@ -1,13 +1,13 @@
 ---
 title: "Will BBL Esports Win VCT EMEA Stage 2 2026?"
-description: "Will BBL Esports Win VCT EMEA Stage 2 2026? Odds: 4.7% YES on Polymarket. See live prices and trade this market."
+description: "Will BBL Esports Win VCT EMEA Stage 2 2026? Odds: 5.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will BBL Esports Win VCT EMEA Stage 2 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-23
 tags: ["politics", "polymarket"]
-polymarketYes: 4.7
-polymarketNo: 95.3
+polymarketYes: 5.1
+polymarketNo: 95.0
 polymarketVolume: 9839
 polymarketUrl: "https://polymarket.com/event/will-bbl-esports-win-vct-emea-stage-2-2026-20260714205608109"
 ---
@@ -16,19 +16,19 @@ polymarketUrl: "https://polymarket.com/event/will-bbl-esports-win-vct-emea-stage
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 4.7% | 95.3% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 5.1% | 95.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Donald Trump win the 2028 US Presidential Election?](/odds/will-donald-trump-win-the-2028-us-presidential-election) — 2% YES
-- [Will Radu Burnete be the next Prime Minister of Romania?](/odds/will-radu-burnete-be-the-next-prime-minister-of-romania) — 6% YES
 - [US obtains Iranian enriched uranium by September 30?](/odds/us-obtains-iranian-enriched-uranium-by-september-30) — 2% YES
+- [Will Radu Burnete be the next Prime Minister of Romania?](/odds/will-radu-burnete-be-the-next-prime-minister-of-romania) — 6% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will BBL Esports Win VCT EMEA Stage 2 2026?"?
 
-As of August 23, 2026, Polymarket prices YES at 4.7%.
+As of August 23, 2026, Polymarket prices YES at 5.1%.
 
 ### Where can I trade on this prediction market?
 

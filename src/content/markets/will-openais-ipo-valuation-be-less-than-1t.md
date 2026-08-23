@@ -8,7 +8,7 @@ lastUpdated: 2026-08-23
 expiryDate: 2027-07-01
 tags: ["ai", "finance", "polymarket"]
 polymarketYes: 8.6
-polymarketNo: 91.5
+polymarketNo: 91.4
 polymarketVolume: 9891
 polymarketUrl: "https://polymarket.com/event/will-openais-ipo-valuation-be-less-than-1t"
 ---
@@ -17,12 +17,12 @@ polymarketUrl: "https://polymarket.com/event/will-openais-ipo-valuation-be-less-
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 8.6% | 91.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 8.6% | 91.4% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Gold (GC) hit (HIGH) $6,000 by end of December?](/odds/will-gold-gc-hit-high-6000-by-end-of-december) — 13% YES
-- [Will Apple be the second-largest company in the world by market cap on September 30?](/odds/will-apple-be-the-second-largest-company-in-the-world-by-market-cap-on-september) — 76% YES
+- [Will Apple be the second-largest company in the world by market cap on September 30?](/odds/will-apple-be-the-second-largest-company-in-the-world-by-market-cap-on-september) — 75% YES
 
 ## Frequently Asked Questions
 

@@ -1,23 +1,23 @@
 ---
-title: "Will Jalen Hurts win the 2026 NFL MVP?"
-description: "Will Jalen Hurts win the 2026 NFL MVP? Odds: 3.6% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Jalen Hurts win the 2026 NFL MVP?"
+title: "Will Nasim Nuñez lead the MLB in stolen bases for the 2026 regular season?"
+description: "Will Nasim Nuñez lead the MLB in stolen bases for the 2026 regular season? Odds: 75.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Nasim Nuñez lead the MLB in stolen bases for the 2026 regular season?"
 category: "sports"
-status: "settled"
+status: "active"
 lastUpdated: 2026-08-23
-expiryDate: 2027-02-15
+expiryDate: 2026-09-28
 tags: ["polymarket", "sports"]
-polymarketYes: 3.6
-polymarketNo: 96.4
-polymarketVolume: 9916
-polymarketUrl: "https://polymarket.com/event/will-jalen-hurts-win-the-2026-nfl-mvp"
+polymarketYes: 75.5
+polymarketNo: 24.5
+polymarketVolume: 9838
+polymarketUrl: "https://polymarket.com/event/will-nasim-nuez-lead-the-mlb-in-stolen-bases-for-the-2026-regular-season"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 3.6% | 96.4% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 75.5% | 24.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -26,9 +26,9 @@ polymarketUrl: "https://polymarket.com/event/will-jalen-hurts-win-the-2026-nfl-m
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Jalen Hurts win the 2026 NFL MVP?"?
+### What are the current odds for "Will Nasim Nuñez lead the MLB in stolen bases for the 2026 regular season?"?
 
-As of August 23, 2026, Polymarket prices YES at 3.6%.
+As of August 23, 2026, Polymarket prices YES at 75.5%.
 
 ### Where can I trade on this prediction market?
 

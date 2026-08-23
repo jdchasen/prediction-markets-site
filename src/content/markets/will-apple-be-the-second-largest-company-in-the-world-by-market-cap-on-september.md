@@ -1,15 +1,15 @@
 ---
 title: "Will Apple be the second-largest company in the world by market cap on September 30?"
-description: "Will Apple be the second-largest company in the world by market cap on September 30? Odds: 76.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Apple be the second-largest company in the world by market cap on September 30? Odds: 75.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Apple be the second-largest company in the world by market cap on September 30?"
 category: "finance"
 status: "active"
 lastUpdated: 2026-08-23
 expiryDate: 2026-09-30
 tags: ["finance", "polymarket"]
-polymarketYes: 76.5
-polymarketNo: 23.5
-polymarketVolume: 9972
+polymarketYes: 75.0
+polymarketNo: 25.0
+polymarketVolume: 9989
 polymarketUrl: "https://polymarket.com/event/will-apple-be-the-second-largest-company-in-the-world-by-market-cap-on-september-30-20260729222954862"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-apple-be-the-second-largest-co
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 76.5% | 23.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 75.0% | 25.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -28,7 +28,7 @@ polymarketUrl: "https://polymarket.com/event/will-apple-be-the-second-largest-co
 
 ### What are the current odds for "Will Apple be the second-largest company in the world by market cap on September 30?"?
 
-As of August 23, 2026, Polymarket prices YES at 76.5%.
+As of August 23, 2026, Polymarket prices YES at 75.0%.
 
 ### Where can I trade on this prediction market?
 
