@@ -4,12 +4,12 @@ description: "Will Gold (GC) hit (HIGH) $6,000 by end of December? Odds: 13.0% Y
 marketQuestion: "Will Gold (GC) hit (HIGH) $6,000 by end of December?"
 category: "finance"
 status: "active"
-lastUpdated: 2026-08-22
+lastUpdated: 2026-08-23
 expiryDate: 2026-12-31
 tags: ["finance", "polymarket"]
 polymarketYes: 13.0
 polymarketNo: 87.0
-polymarketVolume: 991631
+polymarketVolume: 993572
 polymarketUrl: "https://polymarket.com/event/will-gold-gc-hit-high-6000-by-end-of-december"
 ---
 
@@ -17,17 +17,18 @@ polymarketUrl: "https://polymarket.com/event/will-gold-gc-hit-high-6000-by-end-o
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 13.0% | 87.0% | $992K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 13.0% | 87.0% | $994K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
+- [Will Apple be the second-largest company in the world by market cap on September 30?](/odds/will-apple-be-the-second-largest-company-in-the-world-by-market-cap-on-september) — 76% YES
 - [Will OpenAI's IPO valuation be less than $1T?](/odds/will-openais-ipo-valuation-be-less-than-1t) — 9% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Gold (GC) hit (HIGH) $6,000 by end of December?"?
 
-As of August 22, 2026, Polymarket prices YES at 13.0%.
+As of August 23, 2026, Polymarket prices YES at 13.0%.
 
 ### Where can I trade on this prediction market?
 

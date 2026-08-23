@@ -3,8 +3,8 @@ title: "Monterrey Open, Qualification: Panna Udvardy vs Emiliana Arango"
 description: "Monterrey Open, Qualification: Panna Udvardy vs Emiliana Arango Odds: 49.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Monterrey Open, Qualification: Panna Udvardy vs Emiliana Arango"
 category: "politics"
-status: "active"
-lastUpdated: 2026-08-22
+status: "settled"
+lastUpdated: 2026-08-23
 expiryDate: 2026-08-29
 tags: ["politics", "polymarket"]
 polymarketYes: 49.5

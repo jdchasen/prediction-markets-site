@@ -4,7 +4,7 @@ description: "Will the Republican Party win the NC-09 House seat? Odds: 80.0% YE
 marketQuestion: "Will the Republican Party win the NC-09 House seat?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-08-22
+lastUpdated: 2026-08-23
 expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
 polymarketYes: 80.0
@@ -22,14 +22,14 @@ polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-n
 ## Related Markets
 
 - [Will Donald Trump win the 2028 US Presidential Election?](/odds/will-donald-trump-win-the-2028-us-presidential-election) — 2% YES
-- [Will Solana reach $160 by December 31, 2026?](/odds/will-solana-reach-160-by-december-31-2026) — 20% YES
 - [Will Radu Burnete be the next Prime Minister of Romania?](/odds/will-radu-burnete-be-the-next-prime-minister-of-romania) — 6% YES
+- [US obtains Iranian enriched uranium by September 30?](/odds/us-obtains-iranian-enriched-uranium-by-september-30) — 2% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will the Republican Party win the NC-09 House seat?"?
 
-As of August 22, 2026, Polymarket prices YES at 80.0%.
+As of August 23, 2026, Polymarket prices YES at 80.0%.
 
 ### Where can I trade on this prediction market?
 

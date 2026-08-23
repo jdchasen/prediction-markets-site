@@ -1,0 +1,41 @@
+---
+title: "Will Jalen Hurts win the 2026 NFL MVP?"
+description: "Will Jalen Hurts win the 2026 NFL MVP? Odds: 3.6% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Jalen Hurts win the 2026 NFL MVP?"
+category: "sports"
+status: "active"
+lastUpdated: 2026-08-23
+expiryDate: 2027-02-15
+tags: ["polymarket", "sports"]
+polymarketYes: 3.6
+polymarketNo: 96.4
+polymarketVolume: 9916
+polymarketUrl: "https://polymarket.com/event/will-jalen-hurts-win-the-2026-nfl-mvp"
+---
+
+## Current Odds
+
+| Platform | Yes | No | Volume | Trade |
+|----------|-----|-----|--------|-------|
+| Polymarket | 3.6% | 96.4% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+
+## Related Markets
+
+- [Will Arizona Cardinals win the 2027 NFL NFC Championship?](/odds/will-arizona-cardinals-win-the-2027-nfl-nfc-championship) — 1% YES
+- [Will Seattle Seahawks win the 2027 NFL NFC Championship?](/odds/will-seattle-seahawks-win-the-2027-nfl-nfc-championship) — 12% YES
+
+## Frequently Asked Questions
+
+### What are the current odds for "Will Jalen Hurts win the 2026 NFL MVP?"?
+
+As of August 23, 2026, Polymarket prices YES at 3.6%.
+
+### Where can I trade on this prediction market?
+
+You can trade this market on [Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) (crypto-based).
+
+## Learn More
+
+- [Will ETH Hit $4,500 in 2026? Live Market Odds](/blog/will-ethereum-reach-4500-in-2026-what-prediction-markets-say)
+- [Will Discord IPO in 2026? What Prediction Markets Say](/blog/will-discord-ipo-in-2026-what-prediction-markets-say)
+

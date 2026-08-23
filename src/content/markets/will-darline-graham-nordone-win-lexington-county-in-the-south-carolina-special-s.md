@@ -3,8 +3,8 @@ title: "Will Darline Graham Nordone win Lexington County in the South Carolina S
 description: "Will Darline Graham Nordone win Lexington County in the South Carolina Special Senate Primary runoff? Odds: 95.7% YES on Polymarket. See live prices and trad..."
 marketQuestion: "Will Darline Graham Nordone win Lexington County in the South Carolina Special Senate Primary runoff?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-08-22
+status: "settled"
+lastUpdated: 2026-08-23
 expiryDate: 2026-08-25
 tags: ["politics", "polymarket"]
 polymarketYes: 95.7

@@ -3,8 +3,8 @@ title: "Will Raphaël Glucksmann announce their candidacy for the 2027 French pr
 description: "Will Raphaël Glucksmann announce their candidacy for the 2027 French presidential election in 2026? Odds: 94.5% YES on Polymarket. See live prices and trade ..."
 marketQuestion: "Will Raphaël Glucksmann announce their candidacy for the 2027 French presidential election in 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-08-22
+status: "settled"
+lastUpdated: 2026-08-23
 expiryDate: 2027-04-23
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 94.5

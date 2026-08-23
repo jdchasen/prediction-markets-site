@@ -3,8 +3,8 @@ title: "Will Ethereum dip to $700 by December 31, 2026?"
 description: "Will Ethereum dip to $700 by December 31, 2026? Odds: 2.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Ethereum dip to $700 by December 31, 2026?"
 category: "crypto"
-status: "active"
-lastUpdated: 2026-08-22
+status: "settled"
+lastUpdated: 2026-08-23
 expiryDate: 2027-01-01
 tags: ["crypto", "ethereum", "polymarket"]
 polymarketYes: 2.8

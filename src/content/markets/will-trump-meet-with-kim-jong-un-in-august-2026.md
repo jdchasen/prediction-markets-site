@@ -3,8 +3,8 @@ title: "Will Trump meet with Kim Jong Un in August 2026?"
 description: "Will Trump meet with Kim Jong Un in August 2026? Odds: 0.6% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Trump meet with Kim Jong Un in August 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-08-22
+status: "settled"
+lastUpdated: 2026-08-23
 expiryDate: 2026-08-31
 tags: ["politics", "polymarket", "trump"]
 polymarketYes: 0.6

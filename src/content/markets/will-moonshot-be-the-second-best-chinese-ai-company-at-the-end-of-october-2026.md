@@ -3,8 +3,8 @@ title: "Will Moonshot be the second-best Chinese AI company at the end of Octobe
 description: "Will Moonshot be the second-best Chinese AI company at the end of October 2026? Odds: 25.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Moonshot be the second-best Chinese AI company at the end of October 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-08-22
+status: "settled"
+lastUpdated: 2026-08-23
 expiryDate: 2026-10-31
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 25.5

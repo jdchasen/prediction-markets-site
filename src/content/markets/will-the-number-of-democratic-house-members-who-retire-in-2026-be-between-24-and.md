@@ -1,23 +1,23 @@
 ---
-title: "Naim Qassem out as Hezbollah’s secretary-general by December 31, 2026?"
-description: "Naim Qassem out as Hezbollah’s secretary-general by December 31, 2026? Odds: 8.2% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Naim Qassem out as Hezbollah’s secretary-general by December 31, 2026?"
+title: "Will the number of Democratic House members who retire in 2026 be between 24 and 27 inclusive?"
+description: "Will the number of Democratic House members who retire in 2026 be between 24 and 27 inclusive? Odds: 27.5% YES on Polymarket. See live prices and trade this ..."
+marketQuestion: "Will the number of Democratic House members who retire in 2026 be between 24 and 27 inclusive?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-23
-expiryDate: 2027-01-01
-tags: ["ai", "politics", "polymarket"]
-polymarketYes: 8.2
-polymarketNo: 91.8
-polymarketVolume: 9987
-polymarketUrl: "https://polymarket.com/event/naim-qassem-out-as-hezbollahs-secretary-general-by-december-31-2026"
+expiryDate: 2026-08-31
+tags: ["politics", "polymarket"]
+polymarketYes: 27.5
+polymarketNo: 72.5
+polymarketVolume: 9912
+polymarketUrl: "https://polymarket.com/event/will-the-number-of-democratic-house-members-who-retire-in-2026-be-between-24-and-27-inclusive"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 8.2% | 91.8% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 27.5% | 72.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/naim-qassem-out-as-hezbollahs-secre
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Naim Qassem out as Hezbollah’s secretary-general by December 31, 2026?"?
+### What are the current odds for "Will the number of Democratic House members who retire in 2026 be between 24 and 27 inclusive?"?
 
-As of August 23, 2026, Polymarket prices YES at 8.2%.
+As of August 23, 2026, Polymarket prices YES at 27.5%.
 
 ### Where can I trade on this prediction market?
 

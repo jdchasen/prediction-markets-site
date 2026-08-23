@@ -4,11 +4,11 @@ description: "Will the Republicans win the Rhode Island governor race in 2026? O
 marketQuestion: "Will the Republicans win the Rhode Island governor race in 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-08-22
+lastUpdated: 2026-08-23
 tags: ["politics", "polymarket"]
 polymarketYes: 1.8
 polymarketNo: 98.2
-polymarketVolume: 9881
+polymarketVolume: 9882
 polymarketUrl: "https://polymarket.com/event/will-the-republicans-win-the-rhode-island-governor-race-in-2026"
 ---
 
@@ -21,14 +21,14 @@ polymarketUrl: "https://polymarket.com/event/will-the-republicans-win-the-rhode-
 ## Related Markets
 
 - [Will Donald Trump win the 2028 US Presidential Election?](/odds/will-donald-trump-win-the-2028-us-presidential-election) — 2% YES
-- [Will Solana reach $160 by December 31, 2026?](/odds/will-solana-reach-160-by-december-31-2026) — 20% YES
 - [Will Radu Burnete be the next Prime Minister of Romania?](/odds/will-radu-burnete-be-the-next-prime-minister-of-romania) — 6% YES
+- [US obtains Iranian enriched uranium by September 30?](/odds/us-obtains-iranian-enriched-uranium-by-september-30) — 2% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will the Republicans win the Rhode Island governor race in 2026?"?
 
-As of August 22, 2026, Polymarket prices YES at 1.8%.
+As of August 23, 2026, Polymarket prices YES at 1.8%.
 
 ### Where can I trade on this prediction market?
 

@@ -3,8 +3,8 @@ title: "0 ships transit Hormuz on any date by August 31?"
 description: "0 ships transit Hormuz on any date by August 31? Odds: 35.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "0 ships transit Hormuz on any date by August 31?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-08-22
+status: "settled"
+lastUpdated: 2026-08-23
 expiryDate: 2026-09-01
 tags: ["politics", "polymarket"]
 polymarketYes: 35.7

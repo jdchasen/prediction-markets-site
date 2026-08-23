@@ -3,8 +3,8 @@ title: "Will the Rhine River return to normal levels between October 1 and Octob
 description: "Will the Rhine River return to normal levels between October 1 and October 31, 2026? Odds: 4.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Rhine River return to normal levels between October 1 and October 31, 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-08-22
+status: "settled"
+lastUpdated: 2026-08-23
 expiryDate: 2026-10-31
 tags: ["politics", "polymarket"]
 polymarketYes: 4.2

@@ -4,7 +4,7 @@ description: "Will Ethereum hit $1,000 or $3,000 first? Odds: 25.0% YES on Polym
 marketQuestion: "Will Ethereum hit $1,000 or $3,000 first?"
 category: "crypto"
 status: "active"
-lastUpdated: 2026-08-22
+lastUpdated: 2026-08-23
 expiryDate: 2027-01-01
 tags: ["crypto", "ethereum", "polymarket"]
 polymarketYes: 25.0
@@ -21,15 +21,14 @@ polymarketUrl: "https://polymarket.com/event/will-ethereum-hit-1k-or-3k-first"
 
 ## Related Markets
 
-- [Will Loopscale launch a token by December 31, 2026?](/odds/will-loopscale-launch-a-token-by-december-31-2026) — 20% YES
-- [Will Ethereum dip to $700 by December 31, 2026?](/odds/will-ethereum-dip-to-700-by-december-31-2026) — 3% YES
+- [Will Loopscale launch a token by December 31, 2026?](/odds/will-loopscale-launch-a-token-by-december-31-2026) — 14% YES
 - [Ventuals FDV above $2B one day after launch?](/odds/ventuals-fdv-above-2b-one-day-after-launch) — 2% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Ethereum hit $1,000 or $3,000 first?"?
 
-As of August 22, 2026, Polymarket prices YES at 25.0%.
+As of August 23, 2026, Polymarket prices YES at 25.0%.
 
 ### Where can I trade on this prediction market?
 
