@@ -3,8 +3,8 @@ title: "Philadelphia: Anastasia Zakharova vs Anna Blinkova"
 description: "Philadelphia: Anastasia Zakharova vs Anna Blinkova Odds: 100.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Philadelphia: Anastasia Zakharova vs Anna Blinkova"
 category: "politics"
-status: "active"
-lastUpdated: 2026-08-23
+status: "settled"
+lastUpdated: 2026-08-24
 expiryDate: 2026-08-30
 tags: ["politics", "polymarket"]
 polymarketYes: 100.0

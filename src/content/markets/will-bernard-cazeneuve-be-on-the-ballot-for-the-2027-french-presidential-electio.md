@@ -1,23 +1,23 @@
 ---
-title: "Will David Crowley win the Wisconsin Democratic Governor primary by 2–3%?"
-description: "Will David Crowley win the Wisconsin Democratic Governor primary by 2–3%? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will David Crowley win the Wisconsin Democratic Governor primary by 2–3%?"
+title: "Will Bernard Cazeneuve be on the ballot for the 2027 French presidential election?"
+description: "Will Bernard Cazeneuve be on the ballot for the 2027 French presidential election? Odds: 6.3% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Bernard Cazeneuve be on the ballot for the 2027 French presidential election?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-24
-expiryDate: 2026-08-31
-tags: ["politics", "polymarket"]
-polymarketYes: 0.1
-polymarketNo: 99.9
-polymarketVolume: 9925
-polymarketUrl: "https://polymarket.com/event/will-david-crowley-win-the-wisconsin-democratic-governor-primary-by-23-20260812015550468"
+expiryDate: 2027-04-17
+tags: ["elections", "politics", "polymarket"]
+polymarketYes: 6.3
+polymarketNo: 93.7
+polymarketVolume: 9866
+polymarketUrl: "https://polymarket.com/event/will-bernard-cazeneuve-be-on-the-ballot-for-the-2027-french-presidential-election"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.1% | 99.9% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 6.3% | 93.7% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-david-crowley-win-the-wisconsi
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will David Crowley win the Wisconsin Democratic Governor primary by 2–3%?"?
+### What are the current odds for "Will Bernard Cazeneuve be on the ballot for the 2027 French presidential election?"?
 
-As of August 24, 2026, Polymarket prices YES at 0.1%.
+As of August 24, 2026, Polymarket prices YES at 6.3%.
 
 ### Where can I trade on this prediction market?
 

@@ -1,14 +1,14 @@
 ---
 title: "Will Democratic Senate incumbents win all their nominating elections in the 2026 cycle?"
-description: "Will Democratic Senate incumbents win all their nominating elections in the 2026 cycle? Odds: 95.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Democratic Senate incumbents win all their nominating elections in the 2026 cycle? Odds: 93.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Democratic Senate incumbents win all their nominating elections in the 2026 cycle?"
 category: "politics"
-status: "settled"
-lastUpdated: 2026-08-19
+status: "active"
+lastUpdated: 2026-08-24
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 95.5
-polymarketNo: 4.5
-polymarketVolume: 9804
+polymarketYes: 93.0
+polymarketNo: 7.0
+polymarketVolume: 9824
 polymarketUrl: "https://polymarket.com/event/will-democratic-senate-incumbents-win-all-their-nominating-elections-in-the-2026-cycle"
 ---
 
@@ -16,19 +16,19 @@ polymarketUrl: "https://polymarket.com/event/will-democratic-senate-incumbents-w
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 95.5% | 4.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 93.0% | 7.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Michelle Bolsonaro win the 2026 Brazilian presidential election?](/odds/will-michelle-bolsonaro-win-the-2026-brazilian-presidential-election) — 0% YES
-- [NYSE marketwide circuit breaker before 2027?](/odds/nyse-marketwide-circuit-breaker-before-2027) — 14% YES
-- [Will Russia capture all of Prymorske by December 31, 2026?](/odds/will-russia-capture-all-of-prymorske-by-december-31-2026) — 6% YES
+- [Will Donald Trump win the 2028 US Presidential Election?](/odds/will-donald-trump-win-the-2028-us-presidential-election) — 2% YES
+- [US obtains Iranian enriched uranium by September 30?](/odds/us-obtains-iranian-enriched-uranium-by-september-30) — 2% YES
+- [Will Radu Burnete be the next Prime Minister of Romania?](/odds/will-radu-burnete-be-the-next-prime-minister-of-romania) — 6% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Democratic Senate incumbents win all their nominating elections in the 2026 cycle?"?
 
-As of August 18, 2026, Polymarket prices YES at 95.5%.
+As of August 24, 2026, Polymarket prices YES at 93.0%.
 
 ### Where can I trade on this prediction market?
 

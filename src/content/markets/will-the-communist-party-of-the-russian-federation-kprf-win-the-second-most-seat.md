@@ -1,15 +1,15 @@
 ---
 title: "Will the Communist Party of the Russian Federation (KPRF) win the second-most seats in the next Russian parliamentary election?"
-description: "Will the Communist Party of the Russian Federation (KPRF) win the second-most seats in the next Russian parliamentary election? Odds: 83.5% YES on Polymarket..."
+description: "Will the Communist Party of the Russian Federation (KPRF) win the second-most seats in the next Russian parliamentary election? Odds: 84.0% YES on Polymarket..."
 marketQuestion: "Will the Communist Party of the Russian Federation (KPRF) win the second-most seats in the next Russian parliamentary election?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-08-23
+lastUpdated: 2026-08-24
 expiryDate: 2026-09-20
 tags: ["elections", "federal-reserve", "politics", "polymarket"]
-polymarketYes: 83.5
-polymarketNo: 16.5
-polymarketVolume: 98877
+polymarketYes: 84.0
+polymarketNo: 16.0
+polymarketVolume: 99644
 polymarketUrl: "https://polymarket.com/event/will-the-communist-party-of-the-russian-federation-kprf-win-the-second-most-seats-in-the-next-russian-parliamentary-election"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-communist-party-of-the-rus
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 83.5% | 16.5% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 84.0% | 16.0% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-communist-party-of-the-rus
 
 ### What are the current odds for "Will the Communist Party of the Russian Federation (KPRF) win the second-most seats in the next Russian parliamentary election?"?
 
-As of August 23, 2026, Polymarket prices YES at 83.5%.
+As of August 24, 2026, Polymarket prices YES at 84.0%.
 
 ### Where can I trade on this prediction market?
 

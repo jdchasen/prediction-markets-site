@@ -4,11 +4,11 @@ description: "US obtains Iranian enriched uranium by September 30? Odds: 1.7% YE
 marketQuestion: "US obtains Iranian enriched uranium by September 30?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-08-23
+lastUpdated: 2026-08-24
 expiryDate: 2026-10-01
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 1.7
-polymarketNo: 98.3
+polymarketNo: 98.4
 polymarketVolume: 99964
 polymarketUrl: "https://polymarket.com/event/us-obtains-iranian-enriched-uranium-by-september-30-145"
 ---
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/us-obtains-iranian-enriched-uranium
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 1.7% | 98.3% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 1.7% | 98.4% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/us-obtains-iranian-enriched-uranium
 
 ### What are the current odds for "US obtains Iranian enriched uranium by September 30?"?
 
-As of August 23, 2026, Polymarket prices YES at 1.7%.
+As of August 24, 2026, Polymarket prices YES at 1.7%.
 
 ### Where can I trade on this prediction market?
 

@@ -4,12 +4,12 @@ description: "Will a 1+ Year Enrichment Moratorium be in a US-Iran deal in 2026?
 marketQuestion: "Will a 1+ Year Enrichment Moratorium be in a US-Iran deal in 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-08-23
+lastUpdated: 2026-08-24
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 9.5
 polymarketNo: 90.5
-polymarketVolume: 99932
+polymarketVolume: 99946
 polymarketUrl: "https://polymarket.com/event/will-a-1-year-enrichment-moratorium-be-in-a-us-iran-deal-in-2026-20260623023201635"
 ---
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-a-1-year-enrichment-moratorium
 
 ### What are the current odds for "Will a 1+ Year Enrichment Moratorium be in a US-Iran deal in 2026?"?
 
-As of August 23, 2026, Polymarket prices YES at 9.5%.
+As of August 24, 2026, Polymarket prices YES at 9.5%.
 
 ### Where can I trade on this prediction market?
 

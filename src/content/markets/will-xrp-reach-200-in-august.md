@@ -1,23 +1,23 @@
 ---
-title: "Will David Crowley win the Wisconsin Democratic Governor primary by 2–3%?"
-description: "Will David Crowley win the Wisconsin Democratic Governor primary by 2–3%? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will David Crowley win the Wisconsin Democratic Governor primary by 2–3%?"
+title: "Will XRP reach $2.00 in August?"
+description: "Will XRP reach $2.00 in August? Odds: 6.8% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will XRP reach $2.00 in August?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-24
-expiryDate: 2026-08-31
+expiryDate: 2026-09-01
 tags: ["politics", "polymarket"]
-polymarketYes: 0.1
-polymarketNo: 99.9
-polymarketVolume: 9925
-polymarketUrl: "https://polymarket.com/event/will-david-crowley-win-the-wisconsin-democratic-governor-primary-by-23-20260812015550468"
+polymarketYes: 6.8
+polymarketNo: 93.2
+polymarketVolume: 98294
+polymarketUrl: "https://polymarket.com/event/will-xrp-reach-2-in-august-2026"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.1% | 99.9% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 6.8% | 93.2% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-david-crowley-win-the-wisconsi
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will David Crowley win the Wisconsin Democratic Governor primary by 2–3%?"?
+### What are the current odds for "Will XRP reach $2.00 in August?"?
 
-As of August 24, 2026, Polymarket prices YES at 0.1%.
+As of August 24, 2026, Polymarket prices YES at 6.8%.
 
 ### Where can I trade on this prediction market?
 

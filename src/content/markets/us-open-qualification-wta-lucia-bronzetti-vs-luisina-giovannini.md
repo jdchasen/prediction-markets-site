@@ -1,16 +1,16 @@
 ---
-title: "Will the Republican Party win the NC-09 House seat?"
-description: "Will the Republican Party win the NC-09 House seat? Odds: 79.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will the Republican Party win the NC-09 House seat?"
+title: "US Open, Qualification WTA: Lucia Bronzetti vs Luisina Giovannini"
+description: "US Open, Qualification WTA: Lucia Bronzetti vs Luisina Giovannini Odds: 79.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "US Open, Qualification WTA: Lucia Bronzetti vs Luisina Giovannini"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-24
-expiryDate: 2026-11-03
+expiryDate: 2026-08-31
 tags: ["politics", "polymarket"]
 polymarketYes: 79.5
 polymarketNo: 20.5
-polymarketVolume: 9966
-polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-nc-09-house-seat"
+polymarketVolume: 9918
+polymarketUrl: "https://polymarket.com/event/wta-bronzet-giovann-2026-08-24"
 ---
 
 ## Current Odds
@@ -27,7 +27,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-n
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will the Republican Party win the NC-09 House seat?"?
+### What are the current odds for "US Open, Qualification WTA: Lucia Bronzetti vs Luisina Giovannini"?
 
 As of August 24, 2026, Polymarket prices YES at 79.5%.
 
@@ -37,6 +37,5 @@ You can trade this market on [Polymarket](https://polymarket.us/1762?utm_source=
 
 ## Learn More
 
-- [Will Oil Hit $100? March Crude Prediction Market Odds](/blog/will-oil-hit-100-march-crude-prediction-market-odds)
-- [Will MicroStrategy Sell Bitcoin? Market Odds](/blog/will-microstrategy-sell-bitcoin-market-odds)
+- [Cobolli vs Zverev Odds: French Open Markets](/blog/cobolli-vs-zverev-odds-french-open-markets)
 

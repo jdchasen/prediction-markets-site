@@ -1,23 +1,23 @@
 ---
-title: "Will David Crowley win the Wisconsin Democratic Governor primary by 2–3%?"
-description: "Will David Crowley win the Wisconsin Democratic Governor primary by 2–3%? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will David Crowley win the Wisconsin Democratic Governor primary by 2–3%?"
+title: "Will Rosa María Bayardo Cabrera win the 2027 Colima Governor Election?"
+description: "Will Rosa María Bayardo Cabrera win the 2027 Colima Governor Election? Odds: 54.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Rosa María Bayardo Cabrera win the 2027 Colima Governor Election?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-24
-expiryDate: 2026-08-31
-tags: ["politics", "polymarket"]
-polymarketYes: 0.1
-polymarketNo: 99.9
-polymarketVolume: 9925
-polymarketUrl: "https://polymarket.com/event/will-david-crowley-win-the-wisconsin-democratic-governor-primary-by-23-20260812015550468"
+expiryDate: 2027-06-06
+tags: ["elections", "politics", "polymarket"]
+polymarketYes: 54.5
+polymarketNo: 45.5
+polymarketVolume: 9890
+polymarketUrl: "https://polymarket.com/event/will-rosa-maria-bayardo-cabrera-win-the-2027-colima-governor-election-20260803173852321"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.1% | 99.9% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 54.5% | 45.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-david-crowley-win-the-wisconsi
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will David Crowley win the Wisconsin Democratic Governor primary by 2–3%?"?
+### What are the current odds for "Will Rosa María Bayardo Cabrera win the 2027 Colima Governor Election?"?
 
-As of August 24, 2026, Polymarket prices YES at 0.1%.
+As of August 24, 2026, Polymarket prices YES at 54.5%.
 
 ### Where can I trade on this prediction market?
 

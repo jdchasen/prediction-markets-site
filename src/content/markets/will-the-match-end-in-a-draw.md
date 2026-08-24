@@ -3,8 +3,8 @@ title: "Will the match end in a draw?"
 description: "Will the match end in a draw? Odds: 20.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the match end in a draw?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-08-23
+status: "settled"
+lastUpdated: 2026-08-24
 expiryDate: 2026-08-30
 tags: ["politics", "polymarket"]
 polymarketYes: 20.5

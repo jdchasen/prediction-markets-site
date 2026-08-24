@@ -1,23 +1,23 @@
 ---
-title: "Will Jeff Weninger win the 2026 Chandler mayoral election?"
-description: "Will Jeff Weninger win the 2026 Chandler mayoral election? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Jeff Weninger win the 2026 Chandler mayoral election?"
+title: "Will Wellington Fagundes win the 2026 Mato Grosso gubernatorial election?"
+description: "Will Wellington Fagundes win the 2026 Mato Grosso gubernatorial election? Odds: 64.0% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Wellington Fagundes win the 2026 Mato Grosso gubernatorial election?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-24
-expiryDate: 2026-11-03
+expiryDate: 2026-10-04
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 0.1
-polymarketNo: 99.9
-polymarketVolume: 9907
-polymarketUrl: "https://polymarket.com/event/will-jeff-weninger-win-the-2026-chandler-mayoral-election-20260626000820429"
+polymarketYes: 64.0
+polymarketNo: 36.0
+polymarketVolume: 9908
+polymarketUrl: "https://polymarket.com/event/will-wellington-fagundes-win-the-2026-mato-grosso-gubernatorial-election"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.1% | 99.9% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 64.0% | 36.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-jeff-weninger-win-the-2026-cha
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Jeff Weninger win the 2026 Chandler mayoral election?"?
+### What are the current odds for "Will Wellington Fagundes win the 2026 Mato Grosso gubernatorial election?"?
 
-As of August 24, 2026, Polymarket prices YES at 0.1%.
+As of August 24, 2026, Polymarket prices YES at 64.0%.
 
 ### Where can I trade on this prediction market?
 

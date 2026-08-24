@@ -1,14 +1,14 @@
 ---
 title: "Will Canada’s 2026 inflation be between 2.5% and 2.9%?"
-description: "Will Canada’s 2026 inflation be between 2.5% and 2.9%? Odds: 30.6% YES on Polymarket. See live prices and trade this market."
+description: "Will Canada’s 2026 inflation be between 2.5% and 2.9%? Odds: 27.3% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Canada’s 2026 inflation be between 2.5% and 2.9%?"
 category: "economics"
 status: "active"
-lastUpdated: 2026-08-23
+lastUpdated: 2026-08-24
 expiryDate: 2027-01-18
 tags: ["economics", "polymarket", "sports"]
-polymarketYes: 30.6
-polymarketNo: 69.3
+polymarketYes: 27.3
+polymarketNo: 72.8
 polymarketVolume: 9823
 polymarketUrl: "https://polymarket.com/event/will-canadas-2026-inflation-be-between-2pt5-and-2pt9"
 ---
@@ -17,18 +17,18 @@ polymarketUrl: "https://polymarket.com/event/will-canadas-2026-inflation-be-betw
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 30.6% | 69.3% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 27.3% | 72.8% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
+- [Will Brazil’s Annual Inflation in 2026 be between 5.50% and 5.99%?](/odds/will-brazils-annual-inflation-in-2026-be-between-550-and-599) — 21% YES
 - [Will annual inflation be 3.4% in August?](/odds/will-annual-inflation-be-34-in-august) — 43% YES
-- [Will Brazil’s Annual Inflation in 2026 be between 5.50% and 5.99%?](/odds/will-brazils-annual-inflation-in-2026-be-between-550-and-599) — 16% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Canada’s 2026 inflation be between 2.5% and 2.9%?"?
 
-As of August 23, 2026, Polymarket prices YES at 30.6%.
+As of August 24, 2026, Polymarket prices YES at 27.3%.
 
 ### Where can I trade on this prediction market?
 

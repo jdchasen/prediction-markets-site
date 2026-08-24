@@ -1,13 +1,13 @@
 ---
 title: "Will Team Vitality Make a Roster Change before September?"
-description: "Will Team Vitality Make a Roster Change before September? Odds: 7.3% YES on Polymarket. See live prices and trade this market."
+description: "Will Team Vitality Make a Roster Change before September? Odds: 7.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Team Vitality Make a Roster Change before September?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-08-23
+lastUpdated: 2026-08-24
 tags: ["politics", "polymarket"]
-polymarketYes: 7.3
-polymarketNo: 92.7
+polymarketYes: 7.1
+polymarketNo: 92.9
 polymarketVolume: 9868
 polymarketUrl: "https://polymarket.com/event/will-team-vitality-make-a-roster-change-before-september-20260623151753357"
 ---
@@ -16,7 +16,7 @@ polymarketUrl: "https://polymarket.com/event/will-team-vitality-make-a-roster-ch
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 7.3% | 92.7% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 7.1% | 92.9% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -28,7 +28,7 @@ polymarketUrl: "https://polymarket.com/event/will-team-vitality-make-a-roster-ch
 
 ### What are the current odds for "Will Team Vitality Make a Roster Change before September?"?
 
-As of August 23, 2026, Polymarket prices YES at 7.3%.
+As of August 24, 2026, Polymarket prices YES at 7.1%.
 
 ### Where can I trade on this prediction market?
 

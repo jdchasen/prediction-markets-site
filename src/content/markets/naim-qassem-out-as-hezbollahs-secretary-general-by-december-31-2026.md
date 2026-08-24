@@ -4,7 +4,7 @@ description: "Naim Qassem out as Hezbollah’s secretary-general by December 31,
 marketQuestion: "Naim Qassem out as Hezbollah’s secretary-general by December 31, 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-08-23
+lastUpdated: 2026-08-24
 expiryDate: 2027-01-01
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 8.2
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/naim-qassem-out-as-hezbollahs-secre
 
 ### What are the current odds for "Naim Qassem out as Hezbollah’s secretary-general by December 31, 2026?"?
 
-As of August 23, 2026, Polymarket prices YES at 8.2%.
+As of August 24, 2026, Polymarket prices YES at 8.2%.
 
 ### Where can I trade on this prediction market?
 

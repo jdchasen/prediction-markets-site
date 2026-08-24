@@ -3,8 +3,8 @@ title: "Will “Saturday Night Live” win Emmys 2026: Outstanding variety serie
 description: "Will “Saturday Night Live” win Emmys 2026: Outstanding variety series? Odds: 5.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will “Saturday Night Live” win Emmys 2026: Outstanding variety series?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-08-23
+status: "settled"
+lastUpdated: 2026-08-24
 expiryDate: 2026-09-14
 tags: ["entertainment", "politics", "polymarket"]
 polymarketYes: 5.1

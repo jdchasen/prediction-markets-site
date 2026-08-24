@@ -3,8 +3,8 @@ title: "Will Rhea Seehorn – “Pluribus” win Emmys 2026: Outstanding lead ac
 description: "Will Rhea Seehorn – “Pluribus” win Emmys 2026: Outstanding lead actress in a drama series? Odds: 81.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Rhea Seehorn – “Pluribus” win Emmys 2026: Outstanding lead actress in a drama series?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-08-23
+status: "settled"
+lastUpdated: 2026-08-24
 expiryDate: 2026-09-14
 tags: ["entertainment", "politics", "polymarket"]
 polymarketYes: 81.5

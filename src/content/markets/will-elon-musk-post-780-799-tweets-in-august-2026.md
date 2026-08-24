@@ -3,8 +3,8 @@ title: "Will Elon Musk post 780-799 tweets in August 2026?"
 description: "Will Elon Musk post 780-799 tweets in August 2026? Odds: 1.3% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Elon Musk post 780-799 tweets in August 2026?"
 category: "tech"
-status: "active"
-lastUpdated: 2026-08-23
+status: "settled"
+lastUpdated: 2026-08-24
 expiryDate: 2026-09-01
 tags: ["polymarket", "tech"]
 polymarketYes: 1.3

@@ -1,16 +1,16 @@
 ---
-title: "US-Iran Final Nuclear Deal by November 30, 2026?"
-description: "US-Iran Final Nuclear Deal by November 30, 2026? Odds: 6.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "US-Iran Final Nuclear Deal by November 30, 2026?"
+title: "Will the Ornn H100 Index be between $2.25 and $2.50 on August 31, 2026?"
+description: "Will the Ornn H100 Index be between $2.25 and $2.50 on August 31, 2026? Odds: 6.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will the Ornn H100 Index be between $2.25 and $2.50 on August 31, 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-24
-expiryDate: 2026-12-01
+expiryDate: 2026-08-31
 tags: ["politics", "polymarket"]
 polymarketYes: 6.5
 polymarketNo: 93.5
-polymarketVolume: 9950
-polymarketUrl: "https://polymarket.com/event/us-iran-final-nuclear-deal-by-november-30-2026"
+polymarketVolume: 9847
+polymarketUrl: "https://polymarket.com/event/will-the-ornn-h100-index-be-between-2pt25-and-2pt50-on-august-31-2026-1785423806193"
 ---
 
 ## Current Odds
@@ -27,7 +27,7 @@ polymarketUrl: "https://polymarket.com/event/us-iran-final-nuclear-deal-by-novem
 
 ## Frequently Asked Questions
 
-### What are the current odds for "US-Iran Final Nuclear Deal by November 30, 2026?"?
+### What are the current odds for "Will the Ornn H100 Index be between $2.25 and $2.50 on August 31, 2026?"?
 
 As of August 24, 2026, Polymarket prices YES at 6.5%.
 
@@ -37,6 +37,6 @@ You can trade this market on [Polymarket](https://polymarket.us/1762?utm_source=
 
 ## Learn More
 
-- [US-Iran Peace Deal Odds: Will It Happen in 2025?](/blog/us-iran-peace-deal-odds-will-it-happen-in-2025)
-- [US-Iran Peace Deal Odds: What Traders Are Betting](/blog/us-iran-peace-deal-odds-what-traders-are-betting)
+- [Will ETH Hit $4,500 in 2026? Live Market Odds](/blog/will-ethereum-reach-4500-in-2026-what-prediction-markets-say)
+- [Will Discord IPO in 2026? What Prediction Markets Say](/blog/will-discord-ipo-in-2026-what-prediction-markets-say)
 

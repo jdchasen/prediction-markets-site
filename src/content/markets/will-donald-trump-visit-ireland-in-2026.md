@@ -1,23 +1,23 @@
 ---
-title: "Will Jeff Weninger win the 2026 Chandler mayoral election?"
-description: "Will Jeff Weninger win the 2026 Chandler mayoral election? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Jeff Weninger win the 2026 Chandler mayoral election?"
+title: "Will Donald Trump visit Ireland in 2026?"
+description: "Will Donald Trump visit Ireland in 2026? Odds: 98.6% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Donald Trump visit Ireland in 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-24
-expiryDate: 2026-11-03
-tags: ["elections", "politics", "polymarket"]
-polymarketYes: 0.1
-polymarketNo: 99.9
-polymarketVolume: 9907
-polymarketUrl: "https://polymarket.com/event/will-jeff-weninger-win-the-2026-chandler-mayoral-election-20260626000820429"
+expiryDate: 2026-12-31
+tags: ["politics", "polymarket", "trump"]
+polymarketYes: 98.6
+polymarketNo: 1.4
+polymarketVolume: 9982
+polymarketUrl: "https://polymarket.com/event/will-donald-trump-visit-ireland-in-2026"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.1% | 99.9% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 98.6% | 1.4% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-jeff-weninger-win-the-2026-cha
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Jeff Weninger win the 2026 Chandler mayoral election?"?
+### What are the current odds for "Will Donald Trump visit Ireland in 2026?"?
 
-As of August 24, 2026, Polymarket prices YES at 0.1%.
+As of August 24, 2026, Polymarket prices YES at 98.6%.
 
 ### Where can I trade on this prediction market?
 
