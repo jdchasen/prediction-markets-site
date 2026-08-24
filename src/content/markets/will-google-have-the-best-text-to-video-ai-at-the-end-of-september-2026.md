@@ -3,7 +3,7 @@ title: "Will Google have the best Text-to-Video AI at the end of September 2026?
 description: "Will Google have the best Text-to-Video AI at the end of September 2026? Odds: 63.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Google have the best Text-to-Video AI at the end of September 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-08-24
 expiryDate: 2026-09-30
 tags: ["ai", "politics", "polymarket"]

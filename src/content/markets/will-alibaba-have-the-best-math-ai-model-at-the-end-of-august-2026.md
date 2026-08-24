@@ -1,14 +1,14 @@
 ---
 title: "Will Alibaba have the best Math AI model at the end of August 2026?"
-description: "Will Alibaba have the best Math AI model at the end of August 2026? Odds: 0.2% YES on Polymarket. See live prices and trade this market."
+description: "Will Alibaba have the best Math AI model at the end of August 2026? Odds: 0.3% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Alibaba have the best Math AI model at the end of August 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-24
 expiryDate: 2026-08-31
 tags: ["ai", "politics", "polymarket"]
-polymarketYes: 0.2
-polymarketNo: 99.8
+polymarketYes: 0.3
+polymarketNo: 99.7
 polymarketVolume: 9946
 polymarketUrl: "https://polymarket.com/event/will-alibaba-have-the-best-math-ai-model-at-the-end-of-august-2026-20260717014120872"
 ---
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-alibaba-have-the-best-math-ai-
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.2% | 99.8% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.3% | 99.7% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
+- [Clarity Act (H.R.3633) signed into law in 2026?](/odds/clarity-act-hr3633-signed-into-law-in-2026) — 18% YES
 - [Will Donald Trump win the 2028 US Presidential Election?](/odds/will-donald-trump-win-the-2028-us-presidential-election) — 2% YES
-- [US obtains Iranian enriched uranium by September 30?](/odds/us-obtains-iranian-enriched-uranium-by-september-30) — 2% YES
-- [Will Radu Burnete be the next Prime Minister of Romania?](/odds/will-radu-burnete-be-the-next-prime-minister-of-romania) — 6% YES
+- [Will a 1+ Year Enrichment Moratorium be in a US-Iran deal in 2026?](/odds/will-a-1-year-enrichment-moratorium-be-in-a-us-iran-deal-in-2026) — 10% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Alibaba have the best Math AI model at the end of August 2026?"?
 
-As of August 24, 2026, Polymarket prices YES at 0.2%.
+As of August 24, 2026, Polymarket prices YES at 0.3%.
 
 ### Where can I trade on this prediction market?
 

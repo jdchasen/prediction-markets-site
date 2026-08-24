@@ -3,7 +3,7 @@ title: "Will Anthropic's initial public offering occur in September 2026 (ET)?"
 description: "Will Anthropic's initial public offering occur in September 2026 (ET)? Odds: 14.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Anthropic's initial public offering occur in September 2026 (ET)?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-08-24
 expiryDate: 2027-12-31
 tags: ["politics", "polymarket"]

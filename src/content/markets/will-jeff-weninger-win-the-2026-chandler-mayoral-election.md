@@ -9,7 +9,7 @@ expiryDate: 2026-11-03
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.1
 polymarketNo: 99.9
-polymarketVolume: 9907
+polymarketVolume: 9943
 polymarketUrl: "https://polymarket.com/event/will-jeff-weninger-win-the-2026-chandler-mayoral-election-20260626000820429"
 ---
 
@@ -21,9 +21,9 @@ polymarketUrl: "https://polymarket.com/event/will-jeff-weninger-win-the-2026-cha
 
 ## Related Markets
 
+- [Clarity Act (H.R.3633) signed into law in 2026?](/odds/clarity-act-hr3633-signed-into-law-in-2026) — 18% YES
 - [Will Donald Trump win the 2028 US Presidential Election?](/odds/will-donald-trump-win-the-2028-us-presidential-election) — 2% YES
-- [US obtains Iranian enriched uranium by September 30?](/odds/us-obtains-iranian-enriched-uranium-by-september-30) — 2% YES
-- [Will Radu Burnete be the next Prime Minister of Romania?](/odds/will-radu-burnete-be-the-next-prime-minister-of-romania) — 6% YES
+- [Will a 1+ Year Enrichment Moratorium be in a US-Iran deal in 2026?](/odds/will-a-1-year-enrichment-moratorium-be-in-a-us-iran-deal-in-2026) — 10% YES
 
 ## Frequently Asked Questions
 

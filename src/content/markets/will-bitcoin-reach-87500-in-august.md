@@ -3,7 +3,7 @@ title: "Will Bitcoin reach $87,500 in August?"
 description: "Will Bitcoin reach $87,500 in August? Odds: 13.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Bitcoin reach $87,500 in August?"
 category: "crypto"
-status: "active"
+status: "settled"
 lastUpdated: 2026-08-24
 expiryDate: 2026-09-01
 tags: ["bitcoin", "crypto", "polymarket"]

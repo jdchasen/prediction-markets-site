@@ -1,14 +1,14 @@
 ---
 title: "Will Brazil’s Annual Inflation in 2026 be between 5.50% and 5.99%?"
-description: "Will Brazil’s Annual Inflation in 2026 be between 5.50% and 5.99%? Odds: 20.9% YES on Polymarket. See live prices and trade this market."
+description: "Will Brazil’s Annual Inflation in 2026 be between 5.50% and 5.99%? Odds: 20.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Brazil’s Annual Inflation in 2026 be between 5.50% and 5.99%?"
 category: "economics"
 status: "active"
 lastUpdated: 2026-08-24
 expiryDate: 2027-01-12
 tags: ["economics", "polymarket", "sports"]
-polymarketYes: 20.9
-polymarketNo: 79.1
+polymarketYes: 20.7
+polymarketNo: 79.3
 polymarketVolume: 9997
 polymarketUrl: "https://polymarket.com/event/will-brazils-annual-inflation-in-2026-be-between-5pt50-and-5pt99"
 ---
@@ -17,18 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-brazils-annual-inflation-in-20
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 20.9% | 79.1% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 20.7% | 79.3% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
+- [Will the Fed increase interest rates by 25 bps after the September 2026 meeting?](/odds/will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting) — 34% YES
 - [Will annual inflation be 3.4% in August?](/odds/will-annual-inflation-be-34-in-august) — 43% YES
-- [Will Canada’s 2026 inflation be between 2.5% and 2.9%?](/odds/will-canadas-2026-inflation-be-between-25-and-29) — 27% YES
+- [Will Canada’s 2026 inflation be between 2.5% and 2.9%?](/odds/will-canadas-2026-inflation-be-between-25-and-29) — 32% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Brazil’s Annual Inflation in 2026 be between 5.50% and 5.99%?"?
 
-As of August 24, 2026, Polymarket prices YES at 20.9%.
+As of August 24, 2026, Polymarket prices YES at 20.7%.
 
 ### Where can I trade on this prediction market?
 

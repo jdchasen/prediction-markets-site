@@ -1,35 +1,35 @@
 ---
 title: "Will Solana reach $100 in August?"
-description: "Will Solana reach $100 in August? Odds: 3.2% YES on Polymarket. See live prices and trade this market."
+description: "Will Solana reach $100 in August? Odds: 75.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Solana reach $100 in August?"
 category: "politics"
-status: "settled"
-lastUpdated: 2026-08-05
+status: "active"
+lastUpdated: 2026-08-24
 expiryDate: 2026-09-01
 tags: ["politics", "polymarket"]
-polymarketYes: 3.2
-polymarketNo: 96.8
-polymarketVolume: 9965
-polymarketUrl: "https://polymarket.com/event/will-solana-reach-100-in-august-2026"
+polymarketYes: 75.5
+polymarketNo: 24.5
+polymarketVolume: 9886
+polymarketUrl: "https://polymarket.com/event/will-solana-reach-100-in-august-2026-from-august-22"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 3.2% | 96.8% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 75.5% | 24.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Eric Trump win the 2028 Republican presidential nomination?](/odds/will-eric-trump-win-the-2028-republican-presidential-nomination) — 0% YES
-- [New pandemic in 2026?](/odds/new-pandemic-in-2026) — 6% YES
-- [Will Trump be impeached by end of 2026?](/odds/will-trump-be-impeached-by-end-of-2026) — 3% YES
+- [Clarity Act (H.R.3633) signed into law in 2026?](/odds/clarity-act-hr3633-signed-into-law-in-2026) — 18% YES
+- [Will Donald Trump win the 2028 US Presidential Election?](/odds/will-donald-trump-win-the-2028-us-presidential-election) — 2% YES
+- [Will a 1+ Year Enrichment Moratorium be in a US-Iran deal in 2026?](/odds/will-a-1-year-enrichment-moratorium-be-in-a-us-iran-deal-in-2026) — 10% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Solana reach $100 in August?"?
 
-As of August 04, 2026, Polymarket prices YES at 3.2%.
+As of August 24, 2026, Polymarket prices YES at 75.5%.
 
 ### Where can I trade on this prediction market?
 

@@ -1,23 +1,23 @@
 ---
-title: "Will OpenAI's valuation hit (HIGH) $1.0T by December 31?"
-description: "Will OpenAI's valuation hit (HIGH) $1.0T by December 31? Odds: 69.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will OpenAI's valuation hit (HIGH) $1.0T by December 31?"
+title: "Will Enzo Fernandez join Paris Saint-Germain?"
+description: "Will Enzo Fernandez join Paris Saint-Germain? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Enzo Fernandez join Paris Saint-Germain?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-24
-expiryDate: 2027-01-01
+expiryDate: 2026-09-02
 tags: ["ai", "politics", "polymarket"]
-polymarketYes: 69.5
-polymarketNo: 30.5
-polymarketVolume: 98427
-polymarketUrl: "https://polymarket.com/event/will-openais-valuation-hit-high-1pt0t-by-december-31-846-461"
+polymarketYes: 0.1
+polymarketNo: 99.9
+polymarketVolume: 9966
+polymarketUrl: "https://polymarket.com/event/will-enzo-fernandez-join-paris-saint-germain-20260612231645940"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 69.5% | 30.5% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.1% | 99.9% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-openais-valuation-hit-high-1pt
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will OpenAI's valuation hit (HIGH) $1.0T by December 31?"?
+### What are the current odds for "Will Enzo Fernandez join Paris Saint-Germain?"?
 
-As of August 24, 2026, Polymarket prices YES at 69.5%.
+As of August 24, 2026, Polymarket prices YES at 0.1%.
 
 ### Where can I trade on this prediction market?
 

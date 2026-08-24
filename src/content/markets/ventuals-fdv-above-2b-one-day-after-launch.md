@@ -21,8 +21,8 @@ polymarketUrl: "https://polymarket.com/event/ventuals-fdv-above-2b-one-day-after
 
 ## Related Markets
 
-- [Will Bitcoin reach $87,500 in August?](/odds/will-bitcoin-reach-87500-in-august) — 13% YES
-- [Will Loopscale launch a token by December 31, 2026?](/odds/will-loopscale-launch-a-token-by-december-31-2026) — 15% YES
+- [Will Bitcoin dip to $62,500 in August?](/odds/will-bitcoin-dip-to-62500-in-august) — 1% YES
+- [Will Loopscale launch a token by December 31, 2026?](/odds/will-loopscale-launch-a-token-by-december-31-2026) — 14% YES
 - [Will Ethereum hit $1,000 or $3,000 first?](/odds/will-ethereum-hit-1000-or-3000-first) — 28% YES
 
 ## Frequently Asked Questions

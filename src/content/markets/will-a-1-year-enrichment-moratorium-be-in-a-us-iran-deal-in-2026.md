@@ -9,7 +9,7 @@ expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 9.5
 polymarketNo: 90.5
-polymarketVolume: 99946
+polymarketVolume: 99966
 polymarketUrl: "https://polymarket.com/event/will-a-1-year-enrichment-moratorium-be-in-a-us-iran-deal-in-2026-20260623023201635"
 ---
 
@@ -21,8 +21,8 @@ polymarketUrl: "https://polymarket.com/event/will-a-1-year-enrichment-moratorium
 
 ## Related Markets
 
+- [Clarity Act (H.R.3633) signed into law in 2026?](/odds/clarity-act-hr3633-signed-into-law-in-2026) — 18% YES
 - [Will Donald Trump win the 2028 US Presidential Election?](/odds/will-donald-trump-win-the-2028-us-presidential-election) — 2% YES
-- [US obtains Iranian enriched uranium by September 30?](/odds/us-obtains-iranian-enriched-uranium-by-september-30) — 2% YES
 - [Will Radu Burnete be the next Prime Minister of Romania?](/odds/will-radu-burnete-be-the-next-prime-minister-of-romania) — 6% YES
 
 ## Frequently Asked Questions

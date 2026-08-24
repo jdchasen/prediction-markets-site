@@ -9,7 +9,7 @@ expiryDate: 2028-11-07
 tags: ["elections", "politics", "polymarket", "trump"]
 polymarketYes: 2.4
 polymarketNo: 97.7
-polymarketVolume: 9923305
+polymarketVolume: 9923680
 polymarketUrl: "https://polymarket.com/event/will-donald-trump-win-the-2028-us-presidential-election"
 ---
 
@@ -21,9 +21,9 @@ polymarketUrl: "https://polymarket.com/event/will-donald-trump-win-the-2028-us-p
 
 ## Related Markets
 
-- [US obtains Iranian enriched uranium by September 30?](/odds/us-obtains-iranian-enriched-uranium-by-september-30) — 2% YES
-- [Will Radu Burnete be the next Prime Minister of Romania?](/odds/will-radu-burnete-be-the-next-prime-minister-of-romania) — 6% YES
+- [Clarity Act (H.R.3633) signed into law in 2026?](/odds/clarity-act-hr3633-signed-into-law-in-2026) — 18% YES
 - [Will a 1+ Year Enrichment Moratorium be in a US-Iran deal in 2026?](/odds/will-a-1-year-enrichment-moratorium-be-in-a-us-iran-deal-in-2026) — 10% YES
+- [Will Radu Burnete be the next Prime Minister of Romania?](/odds/will-radu-burnete-be-the-next-prime-minister-of-romania) — 6% YES
 
 ## Frequently Asked Questions
 

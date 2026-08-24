@@ -1,34 +1,35 @@
 ---
-title: "Will the Republicans win the South Carolina governor race in 2026?"
-description: "Will the Republicans win the South Carolina governor race in 2026? Odds: 93.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will the Republicans win the South Carolina governor race in 2026?"
+title: "Clarity Act (H.R.3633) signed into law in 2026?"
+description: "Clarity Act (H.R.3633) signed into law in 2026? Odds: 18.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Clarity Act (H.R.3633) signed into law in 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-24
+expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]
-polymarketYes: 93.5
-polymarketNo: 6.5
-polymarketVolume: 9992
-polymarketUrl: "https://polymarket.com/event/will-the-republicans-win-the-south-carolina-governor-race-in-2026"
+polymarketYes: 18.5
+polymarketNo: 81.5
+polymarketVolume: 9945582
+polymarketUrl: "https://polymarket.com/event/clarity-act-signed-into-law-in-2026"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 93.5% | 6.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 18.5% | 81.5% | $9.9M | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Clarity Act (H.R.3633) signed into law in 2026?](/odds/clarity-act-hr3633-signed-into-law-in-2026) — 18% YES
 - [Will Donald Trump win the 2028 US Presidential Election?](/odds/will-donald-trump-win-the-2028-us-presidential-election) — 2% YES
 - [Will a 1+ Year Enrichment Moratorium be in a US-Iran deal in 2026?](/odds/will-a-1-year-enrichment-moratorium-be-in-a-us-iran-deal-in-2026) — 10% YES
+- [Will Radu Burnete be the next Prime Minister of Romania?](/odds/will-radu-burnete-be-the-next-prime-minister-of-romania) — 6% YES
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will the Republicans win the South Carolina governor race in 2026?"?
+### What are the current odds for "Clarity Act (H.R.3633) signed into law in 2026?"?
 
-As of August 24, 2026, Polymarket prices YES at 93.5%.
+As of August 24, 2026, Polymarket prices YES at 18.5%.
 
 ### Where can I trade on this prediction market?
 

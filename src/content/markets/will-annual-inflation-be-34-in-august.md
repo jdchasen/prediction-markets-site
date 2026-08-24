@@ -9,7 +9,7 @@ expiryDate: 2026-09-11
 tags: ["economics", "polymarket", "sports"]
 polymarketYes: 43.0
 polymarketNo: 57.0
-polymarketVolume: 9868
+polymarketVolume: 9873
 polymarketUrl: "https://polymarket.com/event/will-annual-inflation-be-3pt4-in-august-1786474663059"
 ---
 
@@ -21,8 +21,9 @@ polymarketUrl: "https://polymarket.com/event/will-annual-inflation-be-3pt4-in-au
 
 ## Related Markets
 
+- [Will the Fed increase interest rates by 25 bps after the September 2026 meeting?](/odds/will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting) — 34% YES
 - [Will Brazil’s Annual Inflation in 2026 be between 5.50% and 5.99%?](/odds/will-brazils-annual-inflation-in-2026-be-between-550-and-599) — 21% YES
-- [Will Canada’s 2026 inflation be between 2.5% and 2.9%?](/odds/will-canadas-2026-inflation-be-between-25-and-29) — 27% YES
+- [Will Canada’s 2026 inflation be between 2.5% and 2.9%?](/odds/will-canadas-2026-inflation-be-between-25-and-29) — 32% YES
 
 ## Frequently Asked Questions
 

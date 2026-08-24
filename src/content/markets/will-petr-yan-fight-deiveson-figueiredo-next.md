@@ -3,7 +3,7 @@ title: "Will Petr Yan fight Deiveson Figueiredo next?"
 description: "Will Petr Yan fight Deiveson Figueiredo next? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Petr Yan fight Deiveson Figueiredo next?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-08-24
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]

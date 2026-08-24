@@ -3,7 +3,7 @@ title: "Will the next Claude Opus model be released by August 31, 2026?"
 description: "Will the next Claude Opus model be released by August 31, 2026? Odds: 24.6% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the next Claude Opus model be released by August 31, 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-08-24
 expiryDate: 2026-09-01
 tags: ["politics", "polymarket"]

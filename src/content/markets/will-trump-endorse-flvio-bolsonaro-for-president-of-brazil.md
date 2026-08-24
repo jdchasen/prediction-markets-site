@@ -1,23 +1,23 @@
 ---
-title: "Will OpenAI's valuation hit (HIGH) $1.0T by December 31?"
-description: "Will OpenAI's valuation hit (HIGH) $1.0T by December 31? Odds: 69.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will OpenAI's valuation hit (HIGH) $1.0T by December 31?"
+title: "Will Trump endorse Flávio Bolsonaro for President of Brazil?"
+description: "Will Trump endorse Flávio Bolsonaro for President of Brazil? Odds: 74.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Trump endorse Flávio Bolsonaro for President of Brazil?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-24
-expiryDate: 2027-01-01
-tags: ["ai", "politics", "polymarket"]
-polymarketYes: 69.5
-polymarketNo: 30.5
-polymarketVolume: 98427
-polymarketUrl: "https://polymarket.com/event/will-openais-valuation-hit-high-1pt0t-by-december-31-846-461"
+expiryDate: 2026-10-26
+tags: ["politics", "polymarket", "trump"]
+polymarketYes: 74.5
+polymarketNo: 25.5
+polymarketVolume: 9906
+polymarketUrl: "https://polymarket.com/event/will-trump-endorse-flavio-bolsonaro-for-president-of-brazil-20260803210809714"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 69.5% | 30.5% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 74.5% | 25.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-openais-valuation-hit-high-1pt
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will OpenAI's valuation hit (HIGH) $1.0T by December 31?"?
+### What are the current odds for "Will Trump endorse Flávio Bolsonaro for President of Brazil?"?
 
-As of August 24, 2026, Polymarket prices YES at 69.5%.
+As of August 24, 2026, Polymarket prices YES at 74.5%.
 
 ### Where can I trade on this prediction market?
 
@@ -37,6 +37,6 @@ You can trade this market on [Polymarket](https://polymarket.us/1762?utm_source=
 
 ## Learn More
 
+- [Trump-Xi Meeting Predictions: What Will He Say?](/blog/trump-xi-meeting-predictions-what-will-he-say)
 - [Will Oil Hit $100? March Crude Prediction Market Odds](/blog/will-oil-hit-100-march-crude-prediction-market-odds)
-- [Will MicroStrategy Sell Bitcoin? Market Odds](/blog/will-microstrategy-sell-bitcoin-market-odds)
 

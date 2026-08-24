@@ -3,7 +3,7 @@ title: "US obtains Iranian enriched uranium by September 30?"
 description: "US obtains Iranian enriched uranium by September 30? Odds: 1.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "US obtains Iranian enriched uranium by September 30?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-08-24
 expiryDate: 2026-10-01
 tags: ["ai", "politics", "polymarket"]

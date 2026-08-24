@@ -21,7 +21,7 @@ polymarketUrl: "https://polymarket.com/event/tesla-and-spacex-merger-officially-
 
 ## Related Markets
 
-- [Will OpenAI's IPO valuation be less than $1T?](/odds/will-openais-ipo-valuation-be-less-than-1t) — 9% YES
+- [Will NVIDIA be the largest company in the world by market cap on September 30?](/odds/will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-september-30) — 88% YES
 
 ## Frequently Asked Questions
 

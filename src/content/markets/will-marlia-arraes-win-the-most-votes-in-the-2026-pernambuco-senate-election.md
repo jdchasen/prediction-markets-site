@@ -1,22 +1,23 @@
 ---
-title: "Will the Republicans win the South Carolina governor race in 2026?"
-description: "Will the Republicans win the South Carolina governor race in 2026? Odds: 93.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will the Republicans win the South Carolina governor race in 2026?"
+title: "Will Marília Arraes win the most votes in the 2026 Pernambuco Senate election?"
+description: "Will Marília Arraes win the most votes in the 2026 Pernambuco Senate election? Odds: 62.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Marília Arraes win the most votes in the 2026 Pernambuco Senate election?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-24
-tags: ["politics", "polymarket"]
-polymarketYes: 93.5
-polymarketNo: 6.5
-polymarketVolume: 9992
-polymarketUrl: "https://polymarket.com/event/will-the-republicans-win-the-south-carolina-governor-race-in-2026"
+expiryDate: 2026-10-04
+tags: ["elections", "politics", "polymarket"]
+polymarketYes: 62.5
+polymarketNo: 37.5
+polymarketVolume: 9851
+polymarketUrl: "https://polymarket.com/event/will-marilia-arraes-win-the-most-votes-in-the-2026-pernambuco-senate-election"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 93.5% | 6.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 62.5% | 37.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -26,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-the-republicans-win-the-south-
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will the Republicans win the South Carolina governor race in 2026?"?
+### What are the current odds for "Will Marília Arraes win the most votes in the 2026 Pernambuco Senate election?"?
 
-As of August 24, 2026, Polymarket prices YES at 93.5%.
+As of August 24, 2026, Polymarket prices YES at 62.5%.
 
 ### Where can I trade on this prediction market?
 

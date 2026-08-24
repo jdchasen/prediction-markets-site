@@ -3,7 +3,7 @@ title: "Will Sílvia Cristina win the most votes in the 2026 Rondônia Senate el
 description: "Will Sílvia Cristina win the most votes in the 2026 Rondônia Senate election? Odds: 37.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Sílvia Cristina win the most votes in the 2026 Rondônia Senate election?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-08-24
 expiryDate: 2026-10-04
 tags: ["elections", "politics", "polymarket"]

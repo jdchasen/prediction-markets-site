@@ -1,23 +1,23 @@
 ---
-title: "Will Seattle Seahawks win the 2027 NFL NFC Championship?"
-description: "Will Seattle Seahawks win the 2027 NFL NFC Championship? Odds: 12.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Seattle Seahawks win the 2027 NFL NFC Championship?"
+title: "Will the Washington Commanders win the 2027 NFL league championship?"
+description: "Will the Washington Commanders win the 2027 NFL league championship? Odds: 1.1% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will the Washington Commanders win the 2027 NFL league championship?"
 category: "sports"
-status: "settled"
+status: "active"
 lastUpdated: 2026-08-24
-expiryDate: 2027-01-25
+expiryDate: 2027-03-31
 tags: ["polymarket", "sports"]
-polymarketYes: 12.5
-polymarketNo: 87.5
-polymarketVolume: 9830
-polymarketUrl: "https://polymarket.com/event/will-seattle-seahawks-win-the-2027-nfl-nfc-championship-625"
+polymarketYes: 1.1
+polymarketNo: 99.0
+polymarketVolume: 986453
+polymarketUrl: "https://polymarket.com/event/will-the-washington-commanders-win-the-2027-nfl-league-championship"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 12.5% | 87.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 1.1% | 99.0% | $986K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -26,9 +26,9 @@ polymarketUrl: "https://polymarket.com/event/will-seattle-seahawks-win-the-2027-
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Seattle Seahawks win the 2027 NFL NFC Championship?"?
+### What are the current odds for "Will the Washington Commanders win the 2027 NFL league championship?"?
 
-As of August 24, 2026, Polymarket prices YES at 12.5%.
+As of August 24, 2026, Polymarket prices YES at 1.1%.
 
 ### Where can I trade on this prediction market?
 

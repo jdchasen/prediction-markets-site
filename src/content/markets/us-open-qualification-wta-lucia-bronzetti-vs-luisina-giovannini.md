@@ -3,7 +3,7 @@ title: "US Open, Qualification WTA: Lucia Bronzetti vs Luisina Giovannini"
 description: "US Open, Qualification WTA: Lucia Bronzetti vs Luisina Giovannini Odds: 79.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "US Open, Qualification WTA: Lucia Bronzetti vs Luisina Giovannini"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-08-24
 expiryDate: 2026-08-31
 tags: ["politics", "polymarket"]

@@ -1,15 +1,15 @@
 ---
 title: "Will François Asselineau be on the ballot for the 2027 French presidential election?"
-description: "Will François Asselineau be on the ballot for the 2027 French presidential election? Odds: 14.5% YES on Polymarket. See live prices and trade this market."
+description: "Will François Asselineau be on the ballot for the 2027 French presidential election? Odds: 14.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will François Asselineau be on the ballot for the 2027 French presidential election?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-24
 expiryDate: 2027-04-17
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 14.5
-polymarketNo: 85.5
-polymarketVolume: 9839
+polymarketYes: 14.0
+polymarketNo: 86.0
+polymarketVolume: 9895
 polymarketUrl: "https://polymarket.com/event/will-franois-asselineau-be-on-the-ballot-for-the-2027-french-presidential-election"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-franois-asselineau-be-on-the-b
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 14.5% | 85.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 14.0% | 86.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
+- [Clarity Act (H.R.3633) signed into law in 2026?](/odds/clarity-act-hr3633-signed-into-law-in-2026) — 18% YES
 - [Will Donald Trump win the 2028 US Presidential Election?](/odds/will-donald-trump-win-the-2028-us-presidential-election) — 2% YES
-- [US obtains Iranian enriched uranium by September 30?](/odds/us-obtains-iranian-enriched-uranium-by-september-30) — 2% YES
-- [Will Radu Burnete be the next Prime Minister of Romania?](/odds/will-radu-burnete-be-the-next-prime-minister-of-romania) — 6% YES
+- [Will a 1+ Year Enrichment Moratorium be in a US-Iran deal in 2026?](/odds/will-a-1-year-enrichment-moratorium-be-in-a-us-iran-deal-in-2026) — 10% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will François Asselineau be on the ballot for the 2027 French presidential election?"?
 
-As of August 24, 2026, Polymarket prices YES at 14.5%.
+As of August 24, 2026, Polymarket prices YES at 14.0%.
 
 ### Where can I trade on this prediction market?
 

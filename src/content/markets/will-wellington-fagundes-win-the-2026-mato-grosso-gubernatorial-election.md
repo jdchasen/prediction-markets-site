@@ -3,7 +3,7 @@ title: "Will Wellington Fagundes win the 2026 Mato Grosso gubernatorial election
 description: "Will Wellington Fagundes win the 2026 Mato Grosso gubernatorial election? Odds: 64.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Wellington Fagundes win the 2026 Mato Grosso gubernatorial election?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-08-24
 expiryDate: 2026-10-04
 tags: ["elections", "politics", "polymarket"]
