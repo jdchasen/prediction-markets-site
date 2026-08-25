@@ -3,7 +3,7 @@ title: "Will Team Vitality Make a Roster Change before September?"
 description: "Will Team Vitality Make a Roster Change before September? Odds: 6.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Team Vitality Make a Roster Change before September?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-08-25
 tags: ["politics", "polymarket"]
 polymarketYes: 6.7

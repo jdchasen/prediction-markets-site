@@ -1,22 +1,23 @@
 ---
-title: "Situational Awareness Anthropic sale confirmed by August 31?"
-description: "Situational Awareness Anthropic sale confirmed by August 31? Odds: 3.4% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Situational Awareness Anthropic sale confirmed by August 31?"
+title: "US Open, Qualification ATP: Yunchaokete Bu vs Rio Noguchi"
+description: "US Open, Qualification ATP: Yunchaokete Bu vs Rio Noguchi Odds: 60.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "US Open, Qualification ATP: Yunchaokete Bu vs Rio Noguchi"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-25
+expiryDate: 2026-09-01
 tags: ["politics", "polymarket"]
-polymarketYes: 3.4
-polymarketNo: 96.6
-polymarketVolume: 9918
-polymarketUrl: "https://polymarket.com/event/situational-awareness-anthropic-sale-confirmed-by-august-31-20260730182057663"
+polymarketYes: 60.5
+polymarketNo: 39.5
+polymarketVolume: 99983
+polymarketUrl: "https://polymarket.com/event/atp-bu-noguchi-2026-08-25"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 3.4% | 96.6% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 60.5% | 39.5% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -26,11 +27,15 @@ polymarketUrl: "https://polymarket.com/event/situational-awareness-anthropic-sal
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Situational Awareness Anthropic sale confirmed by August 31?"?
+### What are the current odds for "US Open, Qualification ATP: Yunchaokete Bu vs Rio Noguchi"?
 
-As of August 25, 2026, Polymarket prices YES at 3.4%.
+As of August 25, 2026, Polymarket prices YES at 60.5%.
 
 ### Where can I trade on this prediction market?
 
 You can trade this market on [Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) (crypto-based).
+
+## Learn More
+
+- [Cobolli vs Zverev Odds: French Open Markets](/blog/cobolli-vs-zverev-odds-french-open-markets)
 

@@ -3,7 +3,7 @@ title: "Will Google be the second-best Math AI lab at the end of September 2026?
 description: "Will Google be the second-best Math AI lab at the end of September 2026? Odds: 84.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Google be the second-best Math AI lab at the end of September 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-08-25
 expiryDate: 2026-09-30
 tags: ["ai", "politics", "polymarket"]

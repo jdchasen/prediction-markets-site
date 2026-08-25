@@ -1,22 +1,23 @@
 ---
-title: "Will the Republicans win the Rhode Island governor race in 2026?"
-description: "Will the Republicans win the Rhode Island governor race in 2026? Odds: 1.8% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will the Republicans win the Rhode Island governor race in 2026?"
+title: "Will the highest score achieved by a Moonshot Kimi model on Humanity’s Last Exam in 2026 be 50% or higher?"
+description: "Will the highest score achieved by a Moonshot Kimi model on Humanity’s Last Exam in 2026 be 50% or higher? Odds: 50.0% YES on Polymarket. See live prices and..."
+marketQuestion: "Will the highest score achieved by a Moonshot Kimi model on Humanity’s Last Exam in 2026 be 50% or higher?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-25
+expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 1.8
-polymarketNo: 98.2
-polymarketVolume: 9895
-polymarketUrl: "https://polymarket.com/event/will-the-republicans-win-the-rhode-island-governor-race-in-2026"
+polymarketYes: 50.0
+polymarketNo: 50.0
+polymarketVolume: 9939
+polymarketUrl: "https://polymarket.com/event/will-the-highest-score-achieved-by-a-moonshot-kimi-model-on-humanitys-last-exam-in-2026-be-50-or-higher-20260723191206822"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 1.8% | 98.2% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 50.0% | 50.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -26,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-the-republicans-win-the-rhode-
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will the Republicans win the Rhode Island governor race in 2026?"?
+### What are the current odds for "Will the highest score achieved by a Moonshot Kimi model on Humanity’s Last Exam in 2026 be 50% or higher?"?
 
-As of August 25, 2026, Polymarket prices YES at 1.8%.
+As of August 25, 2026, Polymarket prices YES at 50.0%.
 
 ### Where can I trade on this prediction market?
 

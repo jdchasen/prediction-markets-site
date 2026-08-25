@@ -9,7 +9,7 @@ expiryDate: 2028-11-07
 tags: ["elections", "politics", "polymarket", "trump"]
 polymarketYes: 1.9
 polymarketNo: 98.0
-polymarketVolume: 9945149
+polymarketVolume: 9949565
 polymarketUrl: "https://polymarket.com/event/will-donald-trump-win-the-2028-us-presidential-election"
 ---
 
@@ -22,8 +22,8 @@ polymarketUrl: "https://polymarket.com/event/will-donald-trump-win-the-2028-us-p
 ## Related Markets
 
 - [Will Tom Cotton win the 2028 Republican presidential nomination?](/odds/will-tom-cotton-win-the-2028-republican-presidential-nomination) — 0% YES
-- [Will a 1+ Year Enrichment Moratorium be in a US-Iran deal in 2026?](/odds/will-a-1-year-enrichment-moratorium-be-in-a-us-iran-deal-in-2026) — 10% YES
-- [Will Radu Burnete be the next Prime Minister of Romania?](/odds/will-radu-burnete-be-the-next-prime-minister-of-romania) — 6% YES
+- [Will WTI Crude Oil (WTI) hit (HIGH) $95 in August?](/odds/will-wti-crude-oil-wti-hit-high-95-in-august) — 2% YES
+- [US Open, Qualification ATP: Yunchaokete Bu vs Rio Noguchi](/odds/us-open-qualification-atp-yunchaokete-bu-vs-rio-noguchi) — 60% YES
 
 ## Frequently Asked Questions
 

@@ -9,7 +9,7 @@ expiryDate: 2026-12-19
 tags: ["politics", "polymarket"]
 polymarketYes: 20.5
 polymarketNo: 79.5
-polymarketVolume: 98356
+polymarketVolume: 98375
 polymarketUrl: "https://polymarket.com/event/will-inter-miami-cf-win-the-2026-mls-cup"
 ---
 
@@ -23,7 +23,7 @@ polymarketUrl: "https://polymarket.com/event/will-inter-miami-cf-win-the-2026-ml
 
 - [Will Donald Trump win the 2028 US Presidential Election?](/odds/will-donald-trump-win-the-2028-us-presidential-election) — 2% YES
 - [Will Tom Cotton win the 2028 Republican presidential nomination?](/odds/will-tom-cotton-win-the-2028-republican-presidential-nomination) — 0% YES
-- [Will a 1+ Year Enrichment Moratorium be in a US-Iran deal in 2026?](/odds/will-a-1-year-enrichment-moratorium-be-in-a-us-iran-deal-in-2026) — 10% YES
+- [Will WTI Crude Oil (WTI) hit (HIGH) $95 in August?](/odds/will-wti-crude-oil-wti-hit-high-95-in-august) — 2% YES
 
 ## Frequently Asked Questions
 

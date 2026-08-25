@@ -3,7 +3,7 @@ title: "Will Jeremiyah Love win the 2026 NFL Offensive Rookie of the Year award 
 description: "Will Jeremiyah Love win the 2026 NFL Offensive Rookie of the Year award for the 2026-27 NFL season? Odds: 14.5% YES on Polymarket. See live prices and trade ..."
 marketQuestion: "Will Jeremiyah Love win the 2026 NFL Offensive Rookie of the Year award for the 2026-27 NFL season?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-08-25
 expiryDate: 2027-02-11
 tags: ["polymarket", "sports"]

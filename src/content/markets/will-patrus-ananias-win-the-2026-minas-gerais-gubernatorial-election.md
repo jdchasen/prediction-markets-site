@@ -3,7 +3,7 @@ title: "Will Patrus Ananias win the 2026 Minas Gerais gubernatorial election?"
 description: "Will Patrus Ananias win the 2026 Minas Gerais gubernatorial election? Odds: 2.6% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Patrus Ananias win the 2026 Minas Gerais gubernatorial election?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-08-25
 expiryDate: 2026-10-04
 tags: ["ai", "elections", "politics", "polymarket"]

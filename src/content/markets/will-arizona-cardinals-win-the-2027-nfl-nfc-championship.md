@@ -22,7 +22,6 @@ polymarketUrl: "https://polymarket.com/event/will-arizona-cardinals-win-the-2027
 ## Related Markets
 
 - [Will the Washington Commanders win the 2027 NFL league championship?](/odds/will-the-washington-commanders-win-the-2027-nfl-league-championship) — 1% YES
-- [Will Jeremiyah Love win the 2026 NFL Offensive Rookie of the Year award for the 2026-27 NFL season?](/odds/will-jeremiyah-love-win-the-2026-nfl-offensive-rookie-of-the-year-award-for-the-) — 14% YES
 - [Will Nasim Nuñez lead the MLB in stolen bases for the 2026 regular season?](/odds/will-nasim-nuez-lead-the-mlb-in-stolen-bases-for-the-2026-regular-season) — 76% YES
 
 ## Frequently Asked Questions

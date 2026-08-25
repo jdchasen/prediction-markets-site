@@ -1,15 +1,15 @@
 ---
 title: "Will the Ornn H100 Index be between $2.25 and $2.50 on August 31, 2026?"
-description: "Will the Ornn H100 Index be between $2.25 and $2.50 on August 31, 2026? Odds: 6.5% YES on Polymarket. See live prices and trade this market."
+description: "Will the Ornn H100 Index be between $2.25 and $2.50 on August 31, 2026? Odds: 4.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Ornn H100 Index be between $2.25 and $2.50 on August 31, 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-25
 expiryDate: 2026-08-31
 tags: ["politics", "polymarket"]
-polymarketYes: 6.5
-polymarketNo: 93.5
-polymarketVolume: 9847
+polymarketYes: 4.5
+polymarketNo: 95.5
+polymarketVolume: 9859
 polymarketUrl: "https://polymarket.com/event/will-the-ornn-h100-index-be-between-2pt25-and-2pt50-on-august-31-2026-1785423806193"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-the-ornn-h100-index-be-between
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 6.5% | 93.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 4.5% | 95.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Donald Trump win the 2028 US Presidential Election?](/odds/will-donald-trump-win-the-2028-us-presidential-election) — 2% YES
 - [Will Tom Cotton win the 2028 Republican presidential nomination?](/odds/will-tom-cotton-win-the-2028-republican-presidential-nomination) — 0% YES
-- [Will a 1+ Year Enrichment Moratorium be in a US-Iran deal in 2026?](/odds/will-a-1-year-enrichment-moratorium-be-in-a-us-iran-deal-in-2026) — 10% YES
+- [Will WTI Crude Oil (WTI) hit (HIGH) $95 in August?](/odds/will-wti-crude-oil-wti-hit-high-95-in-august) — 2% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will the Ornn H100 Index be between $2.25 and $2.50 on August 31, 2026?"?
 
-As of August 25, 2026, Polymarket prices YES at 6.5%.
+As of August 25, 2026, Polymarket prices YES at 4.5%.
 
 ### Where can I trade on this prediction market?
 
