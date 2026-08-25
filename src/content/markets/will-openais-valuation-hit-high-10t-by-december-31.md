@@ -1,15 +1,15 @@
 ---
 title: "Will OpenAI's valuation hit (HIGH) $1.0T by December 31?"
-description: "Will OpenAI's valuation hit (HIGH) $1.0T by December 31? Odds: 69.5% YES on Polymarket. See live prices and trade this market."
+description: "Will OpenAI's valuation hit (HIGH) $1.0T by December 31? Odds: 65.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will OpenAI's valuation hit (HIGH) $1.0T by December 31?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-08-24
+lastUpdated: 2026-08-25
 expiryDate: 2027-01-01
 tags: ["ai", "politics", "polymarket"]
-polymarketYes: 69.5
-polymarketNo: 30.5
-polymarketVolume: 98427
+polymarketYes: 65.0
+polymarketNo: 35.0
+polymarketVolume: 98628
 polymarketUrl: "https://polymarket.com/event/will-openais-valuation-hit-high-1pt0t-by-december-31-846-461"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-openais-valuation-hit-high-1pt
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 69.5% | 30.5% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 65.0% | 35.0% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Clarity Act (H.R.3633) signed into law in 2026?](/odds/clarity-act-hr3633-signed-into-law-in-2026) — 18% YES
 - [Will Donald Trump win the 2028 US Presidential Election?](/odds/will-donald-trump-win-the-2028-us-presidential-election) — 2% YES
+- [Will Tom Cotton win the 2028 Republican presidential nomination?](/odds/will-tom-cotton-win-the-2028-republican-presidential-nomination) — 0% YES
 - [Will a 1+ Year Enrichment Moratorium be in a US-Iran deal in 2026?](/odds/will-a-1-year-enrichment-moratorium-be-in-a-us-iran-deal-in-2026) — 10% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will OpenAI's valuation hit (HIGH) $1.0T by December 31?"?
 
-As of August 24, 2026, Polymarket prices YES at 69.5%.
+As of August 25, 2026, Polymarket prices YES at 65.0%.
 
 ### Where can I trade on this prediction market?
 

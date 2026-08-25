@@ -3,8 +3,8 @@ title: "Will Jeff Weninger win the 2026 Chandler mayoral election?"
 description: "Will Jeff Weninger win the 2026 Chandler mayoral election? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Jeff Weninger win the 2026 Chandler mayoral election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-08-24
+status: "settled"
+lastUpdated: 2026-08-25
 expiryDate: 2026-11-03
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.1

@@ -1,23 +1,23 @@
 ---
-title: "Will MrBeast's next video get between 40 and 50 million views on week 1?"
-description: "Will MrBeast's next video get between 40 and 50 million views on week 1? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will MrBeast's next video get between 40 and 50 million views on week 1?"
+title: "Will the Republican Party win the AR-03 House seat?"
+description: "Will the Republican Party win the AR-03 House seat? Odds: 95.0% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will the Republican Party win the AR-03 House seat?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-25
-expiryDate: 2026-08-29
+expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
-polymarketYes: 0.1
-polymarketNo: 100.0
-polymarketVolume: 9916
-polymarketUrl: "https://polymarket.com/event/will-mrbeasts-next-video-get-between-40-and-50-million-views-on-week-1-20260822"
+polymarketYes: 95.0
+polymarketNo: 5.0
+polymarketVolume: 9889
+polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-ar-03-house-seat"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.1% | 100.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 95.0% | 5.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-mrbeasts-next-video-get-betwee
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will MrBeast's next video get between 40 and 50 million views on week 1?"?
+### What are the current odds for "Will the Republican Party win the AR-03 House seat?"?
 
-As of August 25, 2026, Polymarket prices YES at 0.1%.
+As of August 25, 2026, Polymarket prices YES at 95.0%.
 
 ### Where can I trade on this prediction market?
 

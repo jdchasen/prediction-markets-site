@@ -1,23 +1,23 @@
 ---
-title: "Will Taylor Swift be the third most streamed artist for 2026?"
-description: "Will Taylor Swift be the third most streamed artist for 2026? Odds: 72.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Taylor Swift be the third most streamed artist for 2026?"
+title: "Will Inter Miami CF win the 2026 MLS Cup?"
+description: "Will Inter Miami CF win the 2026 MLS Cup? Odds: 20.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Inter Miami CF win the 2026 MLS Cup?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-25
-expiryDate: 2027-01-01
+expiryDate: 2026-12-19
 tags: ["politics", "polymarket"]
-polymarketYes: 72.5
-polymarketNo: 27.5
-polymarketVolume: 9909
-polymarketUrl: "https://polymarket.com/event/will-taylor-swift-be-the-third-most-streamed-spotify-artist-for-2026-20260609190656419"
+polymarketYes: 20.5
+polymarketNo: 79.5
+polymarketVolume: 98356
+polymarketUrl: "https://polymarket.com/event/will-inter-miami-cf-win-the-2026-mls-cup"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 72.5% | 27.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 20.5% | 79.5% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-taylor-swift-be-the-third-most
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Taylor Swift be the third most streamed artist for 2026?"?
+### What are the current odds for "Will Inter Miami CF win the 2026 MLS Cup?"?
 
-As of August 25, 2026, Polymarket prices YES at 72.5%.
+As of August 25, 2026, Polymarket prices YES at 20.5%.
 
 ### Where can I trade on this prediction market?
 

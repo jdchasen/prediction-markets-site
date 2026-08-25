@@ -3,8 +3,8 @@ title: "Will Solana reach $100 in August?"
 description: "Will Solana reach $100 in August? Odds: 75.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Solana reach $100 in August?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-08-24
+status: "settled"
+lastUpdated: 2026-08-25
 expiryDate: 2026-09-01
 tags: ["politics", "polymarket"]
 polymarketYes: 75.5

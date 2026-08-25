@@ -3,8 +3,8 @@ title: "Tesla and SpaceX merger officially announced by December 31, 2027?"
 description: "Tesla and SpaceX merger officially announced by December 31, 2027? Odds: 43.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Tesla and SpaceX merger officially announced by December 31, 2027?"
 category: "finance"
-status: "active"
-lastUpdated: 2026-08-24
+status: "settled"
+lastUpdated: 2026-08-25
 expiryDate: 2028-01-01
 tags: ["finance", "polymarket"]
 polymarketYes: 43.5

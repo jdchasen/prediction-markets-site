@@ -1,14 +1,14 @@
 ---
 title: "Will Brazil’s Annual Inflation in 2026 be between 5.50% and 5.99%?"
-description: "Will Brazil’s Annual Inflation in 2026 be between 5.50% and 5.99%? Odds: 20.7% YES on Polymarket. See live prices and trade this market."
+description: "Will Brazil’s Annual Inflation in 2026 be between 5.50% and 5.99%? Odds: 19.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Brazil’s Annual Inflation in 2026 be between 5.50% and 5.99%?"
 category: "economics"
 status: "active"
-lastUpdated: 2026-08-24
+lastUpdated: 2026-08-25
 expiryDate: 2027-01-12
 tags: ["economics", "polymarket", "sports"]
-polymarketYes: 20.7
-polymarketNo: 79.3
+polymarketYes: 19.9
+polymarketNo: 80.2
 polymarketVolume: 9997
 polymarketUrl: "https://polymarket.com/event/will-brazils-annual-inflation-in-2026-be-between-5pt50-and-5pt99"
 ---
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-brazils-annual-inflation-in-20
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 20.7% | 79.3% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 19.9% | 80.2% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will the Fed increase interest rates by 25 bps after the September 2026 meeting?](/odds/will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting) — 34% YES
-- [Will annual inflation be 3.4% in August?](/odds/will-annual-inflation-be-34-in-august) — 43% YES
+- [Will the Fed increase interest rates by 25 bps after the September 2026 meeting?](/odds/will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting) — 32% YES
 - [Will Canada’s 2026 inflation be between 2.5% and 2.9%?](/odds/will-canadas-2026-inflation-be-between-25-and-29) — 32% YES
+- [Will the Bank of Canada increase the target for the overnight rate by 25 bps at the September interest rate announcement?](/odds/will-the-bank-of-canada-increase-the-target-for-the-overnight-rate-by-25-bps-at-) — 0% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Brazil’s Annual Inflation in 2026 be between 5.50% and 5.99%?"?
 
-As of August 24, 2026, Polymarket prices YES at 20.7%.
+As of August 25, 2026, Polymarket prices YES at 19.9%.
 
 ### Where can I trade on this prediction market?
 

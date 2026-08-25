@@ -3,8 +3,8 @@ title: "Will Enzo Fernandez join Paris Saint-Germain?"
 description: "Will Enzo Fernandez join Paris Saint-Germain? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Enzo Fernandez join Paris Saint-Germain?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-08-24
+status: "settled"
+lastUpdated: 2026-08-25
 expiryDate: 2026-09-02
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 0.1

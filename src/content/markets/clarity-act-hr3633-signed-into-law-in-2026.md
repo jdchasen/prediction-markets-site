@@ -3,8 +3,8 @@ title: "Clarity Act (H.R.3633) signed into law in 2026?"
 description: "Clarity Act (H.R.3633) signed into law in 2026? Odds: 18.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Clarity Act (H.R.3633) signed into law in 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-08-24
+status: "settled"
+lastUpdated: 2026-08-25
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]
 polymarketYes: 18.5

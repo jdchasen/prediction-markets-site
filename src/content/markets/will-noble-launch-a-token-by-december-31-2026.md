@@ -1,14 +1,14 @@
 ---
 title: "Will Noble launch a token by December 31, 2026?"
-description: "Will Noble launch a token by December 31, 2026? Odds: 10.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Noble launch a token by December 31, 2026? Odds: 9.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Noble launch a token by December 31, 2026?"
 category: "crypto"
-status: "settled"
-lastUpdated: 2026-08-23
+status: "active"
+lastUpdated: 2026-08-25
 expiryDate: 2027-01-01
 tags: ["crypto", "polymarket"]
-polymarketYes: 10.5
-polymarketNo: 89.5
+polymarketYes: 9.0
+polymarketNo: 91.0
 polymarketVolume: 9821
 polymarketUrl: "https://polymarket.com/event/will-noble-launch-a-token-by-december-31-2026"
 ---
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-noble-launch-a-token-by-decemb
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 10.5% | 89.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 9.0% | 91.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Loopscale launch a token by December 31, 2026?](/odds/will-loopscale-launch-a-token-by-december-31-2026) — 20% YES
-- [Will Ethereum hit $1,000 or $3,000 first?](/odds/will-ethereum-hit-1000-or-3000-first) — 25% YES
-- [Will Ethereum dip to $700 by December 31, 2026?](/odds/will-ethereum-dip-to-700-by-december-31-2026) — 3% YES
+- [Will Loopscale launch a token by December 31, 2026?](/odds/will-loopscale-launch-a-token-by-december-31-2026) — 13% YES
+- [Will Ethereum hit $1,000 or $3,000 first?](/odds/will-ethereum-hit-1000-or-3000-first) — 28% YES
+- [Ventuals FDV above $2B one day after launch?](/odds/ventuals-fdv-above-2b-one-day-after-launch) — 2% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Noble launch a token by December 31, 2026?"?
 
-As of August 22, 2026, Polymarket prices YES at 10.5%.
+As of August 25, 2026, Polymarket prices YES at 9.0%.
 
 ### Where can I trade on this prediction market?
 

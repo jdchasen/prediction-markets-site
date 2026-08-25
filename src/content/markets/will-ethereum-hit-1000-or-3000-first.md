@@ -1,14 +1,14 @@
 ---
 title: "Will Ethereum hit $1,000 or $3,000 first?"
-description: "Will Ethereum hit $1,000 or $3,000 first? Odds: 27.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Ethereum hit $1,000 or $3,000 first? Odds: 28.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Ethereum hit $1,000 or $3,000 first?"
 category: "crypto"
 status: "active"
-lastUpdated: 2026-08-24
+lastUpdated: 2026-08-25
 expiryDate: 2027-01-01
 tags: ["crypto", "ethereum", "polymarket"]
-polymarketYes: 27.5
-polymarketNo: 72.5
+polymarketYes: 28.0
+polymarketNo: 72.0
 polymarketVolume: 98936
 polymarketUrl: "https://polymarket.com/event/will-ethereum-hit-1k-or-3k-first"
 ---
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-ethereum-hit-1k-or-3k-first"
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 27.5% | 72.5% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 28.0% | 72.0% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Bitcoin dip to $62,500 in August?](/odds/will-bitcoin-dip-to-62500-in-august) — 1% YES
-- [Will Loopscale launch a token by December 31, 2026?](/odds/will-loopscale-launch-a-token-by-december-31-2026) — 14% YES
-- [Will Ethereum reach $2,800 in August?](/odds/will-ethereum-reach-2800-in-august) — 18% YES
+- [Will Loopscale launch a token by December 31, 2026?](/odds/will-loopscale-launch-a-token-by-december-31-2026) — 13% YES
+- [Ventuals FDV above $2B one day after launch?](/odds/ventuals-fdv-above-2b-one-day-after-launch) — 2% YES
+- [Will Noble launch a token by December 31, 2026?](/odds/will-noble-launch-a-token-by-december-31-2026) — 9% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Ethereum hit $1,000 or $3,000 first?"?
 
-As of August 24, 2026, Polymarket prices YES at 27.5%.
+As of August 25, 2026, Polymarket prices YES at 28.0%.
 
 ### Where can I trade on this prediction market?
 

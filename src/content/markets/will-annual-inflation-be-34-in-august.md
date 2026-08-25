@@ -3,8 +3,8 @@ title: "Will annual inflation be 3.4% in August?"
 description: "Will annual inflation be 3.4% in August? Odds: 43.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will annual inflation be 3.4% in August?"
 category: "economics"
-status: "active"
-lastUpdated: 2026-08-24
+status: "settled"
+lastUpdated: 2026-08-25
 expiryDate: 2026-09-11
 tags: ["economics", "polymarket", "sports"]
 polymarketYes: 43.0

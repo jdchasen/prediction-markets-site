@@ -3,8 +3,8 @@ title: "Will Ethereum reach $2,800 in August?"
 description: "Will Ethereum reach $2,800 in August? Odds: 18.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Ethereum reach $2,800 in August?"
 category: "crypto"
-status: "active"
-lastUpdated: 2026-08-24
+status: "settled"
+lastUpdated: 2026-08-25
 expiryDate: 2026-09-01
 tags: ["crypto", "ethereum", "polymarket"]
 polymarketYes: 18.2

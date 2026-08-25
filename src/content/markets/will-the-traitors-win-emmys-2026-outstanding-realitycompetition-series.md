@@ -3,8 +3,8 @@ title: "Will “The Traitors” win Emmys 2026: Outstanding reality/competition 
 description: "Will “The Traitors” win Emmys 2026: Outstanding reality/competition series? Odds: 86.6% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will “The Traitors” win Emmys 2026: Outstanding reality/competition series?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-08-24
+status: "settled"
+lastUpdated: 2026-08-25
 expiryDate: 2026-09-14
 tags: ["ai", "entertainment", "politics", "polymarket"]
 polymarketYes: 86.6

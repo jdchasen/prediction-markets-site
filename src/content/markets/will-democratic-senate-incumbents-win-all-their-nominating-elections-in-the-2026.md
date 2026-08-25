@@ -3,8 +3,8 @@ title: "Will Democratic Senate incumbents win all their nominating elections in 
 description: "Will Democratic Senate incumbents win all their nominating elections in the 2026 cycle? Odds: 93.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Democratic Senate incumbents win all their nominating elections in the 2026 cycle?"
 category: "politics"
-status: "settled"
-lastUpdated: 2026-08-24
+status: "active"
+lastUpdated: 2026-08-25
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 93.0
 polymarketNo: 7.0
@@ -21,14 +21,14 @@ polymarketUrl: "https://polymarket.com/event/will-democratic-senate-incumbents-w
 ## Related Markets
 
 - [Will Donald Trump win the 2028 US Presidential Election?](/odds/will-donald-trump-win-the-2028-us-presidential-election) — 2% YES
-- [US obtains Iranian enriched uranium by September 30?](/odds/us-obtains-iranian-enriched-uranium-by-september-30) — 2% YES
-- [Will Radu Burnete be the next Prime Minister of Romania?](/odds/will-radu-burnete-be-the-next-prime-minister-of-romania) — 6% YES
+- [Will Tom Cotton win the 2028 Republican presidential nomination?](/odds/will-tom-cotton-win-the-2028-republican-presidential-nomination) — 0% YES
+- [Will a 1+ Year Enrichment Moratorium be in a US-Iran deal in 2026?](/odds/will-a-1-year-enrichment-moratorium-be-in-a-us-iran-deal-in-2026) — 10% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Democratic Senate incumbents win all their nominating elections in the 2026 cycle?"?
 
-As of August 24, 2026, Polymarket prices YES at 93.0%.
+As of August 25, 2026, Polymarket prices YES at 93.0%.
 
 ### Where can I trade on this prediction market?
 

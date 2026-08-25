@@ -1,23 +1,23 @@
 ---
-title: "Will MrBeast's next video get between 40 and 50 million views on week 1?"
-description: "Will MrBeast's next video get between 40 and 50 million views on week 1? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will MrBeast's next video get between 40 and 50 million views on week 1?"
+title: "Will the total domestic gross for Spider-Man: Brand New Day be between 900m and 920m by August 31?"
+description: "Will the total domestic gross for Spider-Man: Brand New Day be between 900m and 920m by August 31? Odds: 10.5% YES on Polymarket. See live prices and trade t..."
+marketQuestion: "Will the total domestic gross for Spider-Man: Brand New Day be between 900m and 920m by August 31?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-25
-expiryDate: 2026-08-29
+expiryDate: 2026-08-31
 tags: ["politics", "polymarket"]
-polymarketYes: 0.1
-polymarketNo: 100.0
-polymarketVolume: 9916
-polymarketUrl: "https://polymarket.com/event/will-mrbeasts-next-video-get-between-40-and-50-million-views-on-week-1-20260822"
+polymarketYes: 10.5
+polymarketNo: 89.5
+polymarketVolume: 98512
+polymarketUrl: "https://polymarket.com/event/will-the-total-domestic-gross-for-spider-man-brand-new-day-be-between-900m-and-920m-by-august-31-1785941825451"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.1% | 100.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 10.5% | 89.5% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-mrbeasts-next-video-get-betwee
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will MrBeast's next video get between 40 and 50 million views on week 1?"?
+### What are the current odds for "Will the total domestic gross for Spider-Man: Brand New Day be between 900m and 920m by August 31?"?
 
-As of August 25, 2026, Polymarket prices YES at 0.1%.
+As of August 25, 2026, Polymarket prices YES at 10.5%.
 
 ### Where can I trade on this prediction market?
 

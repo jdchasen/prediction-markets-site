@@ -1,15 +1,15 @@
 ---
 title: "Will Donald Trump win the 2028 US Presidential Election?"
-description: "Will Donald Trump win the 2028 US Presidential Election? Odds: 2.4% YES on Polymarket. See live prices and trade this market."
+description: "Will Donald Trump win the 2028 US Presidential Election? Odds: 1.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Donald Trump win the 2028 US Presidential Election?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-08-24
+lastUpdated: 2026-08-25
 expiryDate: 2028-11-07
 tags: ["elections", "politics", "polymarket", "trump"]
-polymarketYes: 2.4
-polymarketNo: 97.7
-polymarketVolume: 9923680
+polymarketYes: 1.9
+polymarketNo: 98.0
+polymarketVolume: 9945149
 polymarketUrl: "https://polymarket.com/event/will-donald-trump-win-the-2028-us-presidential-election"
 ---
 
@@ -17,11 +17,11 @@ polymarketUrl: "https://polymarket.com/event/will-donald-trump-win-the-2028-us-p
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 2.4% | 97.7% | $9.9M | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 1.9% | 98.0% | $9.9M | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Clarity Act (H.R.3633) signed into law in 2026?](/odds/clarity-act-hr3633-signed-into-law-in-2026) — 18% YES
+- [Will Tom Cotton win the 2028 Republican presidential nomination?](/odds/will-tom-cotton-win-the-2028-republican-presidential-nomination) — 0% YES
 - [Will a 1+ Year Enrichment Moratorium be in a US-Iran deal in 2026?](/odds/will-a-1-year-enrichment-moratorium-be-in-a-us-iran-deal-in-2026) — 10% YES
 - [Will Radu Burnete be the next Prime Minister of Romania?](/odds/will-radu-burnete-be-the-next-prime-minister-of-romania) — 6% YES
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-donald-trump-win-the-2028-us-p
 
 ### What are the current odds for "Will Donald Trump win the 2028 US Presidential Election?"?
 
-As of August 24, 2026, Polymarket prices YES at 2.4%.
+As of August 25, 2026, Polymarket prices YES at 1.9%.
 
 ### Where can I trade on this prediction market?
 

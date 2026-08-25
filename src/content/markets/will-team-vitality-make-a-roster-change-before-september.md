@@ -1,13 +1,13 @@
 ---
 title: "Will Team Vitality Make a Roster Change before September?"
-description: "Will Team Vitality Make a Roster Change before September? Odds: 7.3% YES on Polymarket. See live prices and trade this market."
+description: "Will Team Vitality Make a Roster Change before September? Odds: 6.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Team Vitality Make a Roster Change before September?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-08-24
+lastUpdated: 2026-08-25
 tags: ["politics", "polymarket"]
-polymarketYes: 7.3
-polymarketNo: 92.7
+polymarketYes: 6.7
+polymarketNo: 93.3
 polymarketVolume: 9868
 polymarketUrl: "https://polymarket.com/event/will-team-vitality-make-a-roster-change-before-september-20260623151753357"
 ---
@@ -16,19 +16,19 @@ polymarketUrl: "https://polymarket.com/event/will-team-vitality-make-a-roster-ch
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 7.3% | 92.7% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 6.7% | 93.3% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Clarity Act (H.R.3633) signed into law in 2026?](/odds/clarity-act-hr3633-signed-into-law-in-2026) — 18% YES
 - [Will Donald Trump win the 2028 US Presidential Election?](/odds/will-donald-trump-win-the-2028-us-presidential-election) — 2% YES
+- [Will Tom Cotton win the 2028 Republican presidential nomination?](/odds/will-tom-cotton-win-the-2028-republican-presidential-nomination) — 0% YES
 - [Will a 1+ Year Enrichment Moratorium be in a US-Iran deal in 2026?](/odds/will-a-1-year-enrichment-moratorium-be-in-a-us-iran-deal-in-2026) — 10% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Team Vitality Make a Roster Change before September?"?
 
-As of August 24, 2026, Polymarket prices YES at 7.3%.
+As of August 25, 2026, Polymarket prices YES at 6.7%.
 
 ### Where can I trade on this prediction market?
 

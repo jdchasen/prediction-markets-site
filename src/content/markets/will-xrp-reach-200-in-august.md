@@ -3,8 +3,8 @@ title: "Will XRP reach $2.00 in August?"
 description: "Will XRP reach $2.00 in August? Odds: 7.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will XRP reach $2.00 in August?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-08-24
+status: "settled"
+lastUpdated: 2026-08-25
 expiryDate: 2026-09-01
 tags: ["politics", "polymarket"]
 polymarketYes: 7.7

@@ -3,8 +3,8 @@ title: "Will the Reserve Bank of New Zealand increase the official cash rate aft
 description: "Will the Reserve Bank of New Zealand increase the official cash rate after the September decision? Odds: 94.5% YES on Polymarket. See live prices and trade t..."
 marketQuestion: "Will the Reserve Bank of New Zealand increase the official cash rate after the September decision?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-08-24
+status: "settled"
+lastUpdated: 2026-08-25
 expiryDate: 2026-09-02
 tags: ["politics", "polymarket"]
 polymarketYes: 94.5

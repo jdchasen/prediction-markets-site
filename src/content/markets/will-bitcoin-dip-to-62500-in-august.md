@@ -3,8 +3,8 @@ title: "Will Bitcoin dip to $62,500 in August?"
 description: "Will Bitcoin dip to $62,500 in August? Odds: 1.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Bitcoin dip to $62,500 in August?"
 category: "crypto"
-status: "active"
-lastUpdated: 2026-08-24
+status: "settled"
+lastUpdated: 2026-08-25
 expiryDate: 2026-09-01
 tags: ["bitcoin", "crypto", "polymarket"]
 polymarketYes: 1.1
