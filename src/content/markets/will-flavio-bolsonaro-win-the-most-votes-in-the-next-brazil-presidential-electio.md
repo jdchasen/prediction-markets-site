@@ -1,23 +1,23 @@
 ---
-title: "Will OpenAI's valuation hit (HIGH) $1.0T by December 31?"
-description: "Will OpenAI's valuation hit (HIGH) $1.0T by December 31? Odds: 68.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will OpenAI's valuation hit (HIGH) $1.0T by December 31?"
+title: "Will Flavio Bolsonaro win the most votes in the next Brazil presidential election from Federal District?"
+description: "Will Flavio Bolsonaro win the most votes in the next Brazil presidential election from Federal District? Odds: 84.5% YES on Polymarket. See live prices and t..."
+marketQuestion: "Will Flavio Bolsonaro win the most votes in the next Brazil presidential election from Federal District?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-26
-expiryDate: 2027-01-01
-tags: ["ai", "politics", "polymarket"]
-polymarketYes: 68.5
-polymarketNo: 31.5
-polymarketVolume: 98730
-polymarketUrl: "https://polymarket.com/event/will-openais-valuation-hit-high-1pt0t-by-december-31-846-461"
+expiryDate: 2026-10-04
+tags: ["elections", "federal-reserve", "politics", "polymarket"]
+polymarketYes: 84.5
+polymarketNo: 15.5
+polymarketVolume: 9866
+polymarketUrl: "https://polymarket.com/event/will-flavio-bolsonaro-win-the-most-votes-in-the-next-brazil-presidential-election-from-federal-district"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 68.5% | 31.5% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 84.5% | 15.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-openais-valuation-hit-high-1pt
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will OpenAI's valuation hit (HIGH) $1.0T by December 31?"?
+### What are the current odds for "Will Flavio Bolsonaro win the most votes in the next Brazil presidential election from Federal District?"?
 
-As of August 26, 2026, Polymarket prices YES at 68.5%.
+As of August 26, 2026, Polymarket prices YES at 84.5%.
 
 ### Where can I trade on this prediction market?
 

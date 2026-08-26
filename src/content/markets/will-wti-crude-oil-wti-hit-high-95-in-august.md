@@ -3,8 +3,8 @@ title: "Will WTI Crude Oil (WTI) hit (HIGH) $95 in August?"
 description: "Will WTI Crude Oil (WTI) hit (HIGH) $95 in August? Odds: 2.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will WTI Crude Oil (WTI) hit (HIGH) $95 in August?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-08-25
+status: "settled"
+lastUpdated: 2026-08-26
 expiryDate: 2026-09-01
 tags: ["politics", "polymarket"]
 polymarketYes: 2.5

@@ -3,8 +3,8 @@ title: "Will the Bank of Canada increase the target for the overnight rate by 25
 description: "Will the Bank of Canada increase the target for the overnight rate by 25 bps at the September interest rate announcement? Odds: 0.1% YES on Polymarket. See l..."
 marketQuestion: "Will the Bank of Canada increase the target for the overnight rate by 25 bps at the September interest rate announcement?"
 category: "economics"
-status: "active"
-lastUpdated: 2026-08-25
+status: "settled"
+lastUpdated: 2026-08-26
 expiryDate: 2026-09-02
 tags: ["economics", "interest-rates", "polymarket"]
 polymarketYes: 0.1

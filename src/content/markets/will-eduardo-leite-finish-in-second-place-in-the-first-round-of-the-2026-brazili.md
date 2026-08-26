@@ -1,23 +1,23 @@
 ---
-title: "Will Drake be the second most streamed artist for 2026?"
-description: "Will Drake be the second most streamed artist for 2026? Odds: 74.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Drake be the second most streamed artist for 2026?"
+title: "Will Eduardo Leite finish in second place in the first round of the 2026 Brazilian presidential election?"
+description: "Will Eduardo Leite finish in second place in the first round of the 2026 Brazilian presidential election? Odds: 0.1% YES on Polymarket. See live prices and t..."
+marketQuestion: "Will Eduardo Leite finish in second place in the first round of the 2026 Brazilian presidential election?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-26
-expiryDate: 2027-01-01
-tags: ["politics", "polymarket"]
-polymarketYes: 74.5
-polymarketNo: 25.5
-polymarketVolume: 9844
-polymarketUrl: "https://polymarket.com/event/will-drake-be-the-second-most-streamed-spotify-artist-for-2026-20260609190428833"
+expiryDate: 2026-10-04
+tags: ["elections", "politics", "polymarket"]
+polymarketYes: 0.1
+polymarketNo: 99.9
+polymarketVolume: 98928
+polymarketUrl: "https://polymarket.com/event/will-eduardo-leite-finish-in-second-place-in-the-first-round-of-the-2026-brazilian-presidential-election"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 74.5% | 25.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.1% | 99.9% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-drake-be-the-second-most-strea
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Drake be the second most streamed artist for 2026?"?
+### What are the current odds for "Will Eduardo Leite finish in second place in the first round of the 2026 Brazilian presidential election?"?
 
-As of August 26, 2026, Polymarket prices YES at 74.5%.
+As of August 26, 2026, Polymarket prices YES at 0.1%.
 
 ### Where can I trade on this prediction market?
 

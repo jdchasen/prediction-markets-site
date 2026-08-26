@@ -3,8 +3,8 @@ title: "No change in Bank of England’s interest rates after November 2026 meet
 description: "No change in Bank of England’s interest rates after November 2026 meeting? Odds: 78.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "No change in Bank of England’s interest rates after November 2026 meeting?"
 category: "economics"
-status: "active"
-lastUpdated: 2026-08-25
+status: "settled"
+lastUpdated: 2026-08-26
 expiryDate: 2026-11-05
 tags: ["economics", "interest-rates", "polymarket"]
 polymarketYes: 78.5

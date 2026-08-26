@@ -3,8 +3,8 @@ title: "Will Jaques Wagner win the second-most votes in the 2026 Bahia Senate el
 description: "Will Jaques Wagner win the second-most votes in the 2026 Bahia Senate election? Odds: 53.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Jaques Wagner win the second-most votes in the 2026 Bahia Senate election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-08-25
+status: "settled"
+lastUpdated: 2026-08-26
 expiryDate: 2026-10-04
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 53.5

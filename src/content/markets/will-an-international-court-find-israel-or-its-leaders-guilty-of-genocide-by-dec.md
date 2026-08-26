@@ -1,14 +1,14 @@
 ---
 title: "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?"
-description: "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027? Odds: 11.5% YES on Polymarket. See live prices and trade this..."
+description: "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027? Odds: 9.5% YES on Polymarket. See live prices and trade this ..."
 marketQuestion: "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-08-25
+lastUpdated: 2026-08-26
 expiryDate: 2027-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 11.5
-polymarketNo: 88.5
+polymarketYes: 9.5
+polymarketNo: 90.5
 polymarketVolume: 99362
 polymarketUrl: "https://polymarket.com/event/will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679"
 ---
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-an-international-court-find-is
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 11.5% | 88.5% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 9.5% | 90.5% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Donald Trump win the 2028 US Presidential Election?](/odds/will-donald-trump-win-the-2028-us-presidential-election) — 2% YES
 - [Will Tom Cotton win the 2028 Republican presidential nomination?](/odds/will-tom-cotton-win-the-2028-republican-presidential-nomination) — 0% YES
-- [Will WTI Crude Oil (WTI) hit (HIGH) $95 in August?](/odds/will-wti-crude-oil-wti-hit-high-95-in-august) — 2% YES
+- [US announces end of Iranian blockade by December 31, 2026?](/odds/us-announces-end-of-iranian-blockade-by-december-31-2026) — 78% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?"?
 
-As of August 25, 2026, Polymarket prices YES at 11.5%.
+As of August 26, 2026, Polymarket prices YES at 9.5%.
 
 ### Where can I trade on this prediction market?
 

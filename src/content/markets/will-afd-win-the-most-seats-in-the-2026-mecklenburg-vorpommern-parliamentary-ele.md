@@ -1,23 +1,23 @@
 ---
-title: "Will Drake be the second most streamed artist for 2026?"
-description: "Will Drake be the second most streamed artist for 2026? Odds: 74.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Drake be the second most streamed artist for 2026?"
+title: "Will AfD win the most seats in the 2026 Mecklenburg-Vorpommern parliamentary elections?"
+description: "Will AfD win the most seats in the 2026 Mecklenburg-Vorpommern parliamentary elections? Odds: 87.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will AfD win the most seats in the 2026 Mecklenburg-Vorpommern parliamentary elections?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-26
-expiryDate: 2027-01-01
-tags: ["politics", "polymarket"]
-polymarketYes: 74.5
-polymarketNo: 25.5
-polymarketVolume: 9844
-polymarketUrl: "https://polymarket.com/event/will-drake-be-the-second-most-streamed-spotify-artist-for-2026-20260609190428833"
+expiryDate: 2026-09-20
+tags: ["elections", "politics", "polymarket"]
+polymarketYes: 87.5
+polymarketNo: 12.5
+polymarketVolume: 98804
+polymarketUrl: "https://polymarket.com/event/will-afd-win-the-most-seats-in-the-2026-mecklenburg-vorpommern-parliamentary-elections"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 74.5% | 25.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 87.5% | 12.5% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-drake-be-the-second-most-strea
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Drake be the second most streamed artist for 2026?"?
+### What are the current odds for "Will AfD win the most seats in the 2026 Mecklenburg-Vorpommern parliamentary elections?"?
 
-As of August 26, 2026, Polymarket prices YES at 74.5%.
+As of August 26, 2026, Polymarket prices YES at 87.5%.
 
 ### Where can I trade on this prediction market?
 

@@ -1,35 +1,35 @@
 ---
-title: "Ventuals FDV above $2B one day after launch?"
-description: "Ventuals FDV above $2B one day after launch? Odds: 1.8% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Ventuals FDV above $2B one day after launch?"
+title: "Hurupay FDV above $40M one day after launch?"
+description: "Hurupay FDV above $40M one day after launch? Odds: 8.3% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Hurupay FDV above $40M one day after launch?"
 category: "crypto"
 status: "active"
 lastUpdated: 2026-08-26
 expiryDate: 2027-01-01
 tags: ["crypto", "polymarket"]
-polymarketYes: 1.8
-polymarketNo: 98.2
-polymarketVolume: 9847
-polymarketUrl: "https://polymarket.com/event/ventuals-fdv-above-2b-one-day-after-launch-314"
+polymarketYes: 8.3
+polymarketNo: 91.7
+polymarketVolume: 9831
+polymarketUrl: "https://polymarket.com/event/hurupay-fdv-above-40m-one-day-after-launch"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 1.8% | 98.2% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 8.3% | 91.7% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Loopscale launch a token by December 31, 2026?](/odds/will-loopscale-launch-a-token-by-december-31-2026) — 14% YES
 - [Will Ethereum hit $1,000 or $3,000 first?](/odds/will-ethereum-hit-1000-or-3000-first) — 26% YES
-- [Hurupay FDV above $40M one day after launch?](/odds/hurupay-fdv-above-40m-one-day-after-launch) — 8% YES
+- [Ventuals FDV above $2B one day after launch?](/odds/ventuals-fdv-above-2b-one-day-after-launch) — 2% YES
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Ventuals FDV above $2B one day after launch?"?
+### What are the current odds for "Hurupay FDV above $40M one day after launch?"?
 
-As of August 26, 2026, Polymarket prices YES at 1.8%.
+As of August 26, 2026, Polymarket prices YES at 8.3%.
 
 ### Where can I trade on this prediction market?
 

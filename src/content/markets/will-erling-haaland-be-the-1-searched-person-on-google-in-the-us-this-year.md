@@ -3,8 +3,8 @@ title: "Will Erling Haaland be the #1 searched person on Google in the US this y
 description: "Will Erling Haaland be the #1 searched person on Google in the US this year? Odds: 13.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Erling Haaland be the #1 searched person on Google in the US this year?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-08-25
+status: "settled"
+lastUpdated: 2026-08-26
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 13.1

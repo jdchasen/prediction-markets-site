@@ -4,12 +4,12 @@ description: "Will Donald Trump win the 2028 US Presidential Election? Odds: 1.9
 marketQuestion: "Will Donald Trump win the 2028 US Presidential Election?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-08-25
+lastUpdated: 2026-08-26
 expiryDate: 2028-11-07
 tags: ["elections", "politics", "polymarket", "trump"]
 polymarketYes: 1.9
 polymarketNo: 98.0
-polymarketVolume: 9949565
+polymarketVolume: 9950378
 polymarketUrl: "https://polymarket.com/event/will-donald-trump-win-the-2028-us-presidential-election"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-donald-trump-win-the-2028-us-p
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 1.9% | 98.0% | $9.9M | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 1.9% | 98.0% | $10.0M | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Tom Cotton win the 2028 Republican presidential nomination?](/odds/will-tom-cotton-win-the-2028-republican-presidential-nomination) — 0% YES
-- [Will WTI Crude Oil (WTI) hit (HIGH) $95 in August?](/odds/will-wti-crude-oil-wti-hit-high-95-in-august) — 2% YES
-- [US Open, Qualification ATP: Yunchaokete Bu vs Rio Noguchi](/odds/us-open-qualification-atp-yunchaokete-bu-vs-rio-noguchi) — 60% YES
+- [US announces end of Iranian blockade by December 31, 2026?](/odds/us-announces-end-of-iranian-blockade-by-december-31-2026) — 78% YES
+- [Will Radu Burnete be the next Prime Minister of Romania?](/odds/will-radu-burnete-be-the-next-prime-minister-of-romania) — 6% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Donald Trump win the 2028 US Presidential Election?"?
 
-As of August 25, 2026, Polymarket prices YES at 1.9%.
+As of August 26, 2026, Polymarket prices YES at 1.9%.
 
 ### Where can I trade on this prediction market?
 

@@ -3,8 +3,8 @@ title: "Will Trump endorse Flávio Bolsonaro for President of Brazil?"
 description: "Will Trump endorse Flávio Bolsonaro for President of Brazil? Odds: 75.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Trump endorse Flávio Bolsonaro for President of Brazil?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-08-25
+status: "settled"
+lastUpdated: 2026-08-26
 expiryDate: 2026-10-26
 tags: ["politics", "polymarket", "trump"]
 polymarketYes: 75.0
