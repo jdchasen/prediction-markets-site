@@ -3,7 +3,7 @@ title: "Will no Atlantic hurricane form in August 2026?"
 description: "Will no Atlantic hurricane form in August 2026? Odds: 94.3% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will no Atlantic hurricane form in August 2026?"
 category: "science"
-status: "active"
+status: "settled"
 lastUpdated: 2026-08-27
 expiryDate: 2026-09-01
 tags: ["polymarket", "science"]

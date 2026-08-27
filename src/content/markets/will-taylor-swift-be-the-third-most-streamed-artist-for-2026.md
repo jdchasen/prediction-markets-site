@@ -3,7 +3,7 @@ title: "Will Taylor Swift be the third most streamed artist for 2026?"
 description: "Will Taylor Swift be the third most streamed artist for 2026? Odds: 71.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Taylor Swift be the third most streamed artist for 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-08-27
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]

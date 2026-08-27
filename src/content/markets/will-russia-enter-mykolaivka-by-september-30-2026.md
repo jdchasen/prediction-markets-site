@@ -3,7 +3,7 @@ title: "Will Russia enter Mykolaivka by September 30, 2026?"
 description: "Will Russia enter Mykolaivka by September 30, 2026? Odds: 80.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Russia enter Mykolaivka by September 30, 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-08-27
 expiryDate: 2026-10-01
 tags: ["ai", "politics", "polymarket"]

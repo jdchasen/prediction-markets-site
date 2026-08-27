@@ -3,7 +3,7 @@ title: "Will Perplexity's valuation hit (LOW) $15B by December 31?"
 description: "Will Perplexity's valuation hit (LOW) $15B by December 31? Odds: 23.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Perplexity's valuation hit (LOW) $15B by December 31?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-08-27
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]

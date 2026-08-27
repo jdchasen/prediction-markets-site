@@ -3,7 +3,7 @@ title: "Will SPD win the most seats in the 2026 Mecklenburg-Vorpommern parliamen
 description: "Will SPD win the most seats in the 2026 Mecklenburg-Vorpommern parliamentary elections? Odds: 13.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will SPD win the most seats in the 2026 Mecklenburg-Vorpommern parliamentary elections?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-08-27
 expiryDate: 2026-09-20
 tags: ["elections", "politics", "polymarket"]

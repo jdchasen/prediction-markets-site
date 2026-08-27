@@ -9,7 +9,7 @@ expiryDate: 2026-11-04
 tags: ["politics", "polymarket"]
 polymarketYes: 94.5
 polymarketNo: 5.5
-polymarketVolume: 9833
+polymarketVolume: 9986
 polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-ut-03-house-seat"
 ---
 
@@ -22,8 +22,8 @@ polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-u
 ## Related Markets
 
 - [Will Donald Trump win the 2028 US Presidential Election?](/odds/will-donald-trump-win-the-2028-us-presidential-election) — 2% YES
-- [US announces end of Iranian blockade by December 31, 2026?](/odds/us-announces-end-of-iranian-blockade-by-december-31-2026) — 76% YES
 - [Will Tom Cotton win the 2028 Republican presidential nomination?](/odds/will-tom-cotton-win-the-2028-republican-presidential-nomination) — 0% YES
+- [Will OpenAI's valuation hit (HIGH) $1.0T by December 31?](/odds/will-openais-valuation-hit-high-10t-by-december-31) — 66% YES
 
 ## Frequently Asked Questions
 

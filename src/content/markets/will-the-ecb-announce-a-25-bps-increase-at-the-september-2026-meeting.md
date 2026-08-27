@@ -1,23 +1,23 @@
 ---
-title: "Will Alibaba have the best Math AI model at the end of August 2026?"
-description: "Will Alibaba have the best Math AI model at the end of August 2026? Odds: 0.2% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Alibaba have the best Math AI model at the end of August 2026?"
+title: "Will the ECB announce a 25 bps increase at the September 2026 meeting?"
+description: "Will the ECB announce a 25 bps increase at the September 2026 meeting? Odds: 96.9% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will the ECB announce a 25 bps increase at the September 2026 meeting?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-27
-expiryDate: 2026-08-31
-tags: ["ai", "politics", "polymarket"]
-polymarketYes: 0.2
-polymarketNo: 99.8
-polymarketVolume: 9947
-polymarketUrl: "https://polymarket.com/event/will-alibaba-have-the-best-math-ai-model-at-the-end-of-august-2026-20260717014120872"
+expiryDate: 2026-09-10
+tags: ["politics", "polymarket"]
+polymarketYes: 96.9
+polymarketNo: 3.1
+polymarketVolume: 98078
+polymarketUrl: "https://polymarket.com/event/will-the-ecb-announce-a-25-bps-increase-at-the-september-2026-meeting-20260616222656566"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.2% | 99.8% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 96.9% | 3.1% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-alibaba-have-the-best-math-ai-
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Alibaba have the best Math AI model at the end of August 2026?"?
+### What are the current odds for "Will the ECB announce a 25 bps increase at the September 2026 meeting?"?
 
-As of August 27, 2026, Polymarket prices YES at 0.2%.
+As of August 27, 2026, Polymarket prices YES at 96.9%.
 
 ### Where can I trade on this prediction market?
 

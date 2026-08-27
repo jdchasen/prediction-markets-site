@@ -1,23 +1,23 @@
 ---
-title: "Will the Republican Party win the AL-06 House seat?"
-description: "Will the Republican Party win the AL-06 House seat? Odds: 94.0% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will the Republican Party win the AL-06 House seat?"
+title: "Will Delyan Peevski win the next Bulgarian presidential election?"
+description: "Will Delyan Peevski win the next Bulgarian presidential election? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Delyan Peevski win the next Bulgarian presidential election?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-27
-expiryDate: 2026-11-03
-tags: ["politics", "polymarket"]
-polymarketYes: 94.0
-polymarketNo: 6.0
-polymarketVolume: 9856
-polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-al-06-house-seat"
+expiryDate: 2026-11-30
+tags: ["elections", "politics", "polymarket"]
+polymarketYes: 0.1
+polymarketNo: 99.9
+polymarketVolume: 9888
+polymarketUrl: "https://polymarket.com/event/will-delyan-peevski-win-the-next-bulgarian-presidential-election"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 94.0% | 6.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.1% | 99.9% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-a
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will the Republican Party win the AL-06 House seat?"?
+### What are the current odds for "Will Delyan Peevski win the next Bulgarian presidential election?"?
 
-As of August 27, 2026, Polymarket prices YES at 94.0%.
+As of August 27, 2026, Polymarket prices YES at 0.1%.
 
 ### Where can I trade on this prediction market?
 

@@ -1,23 +1,23 @@
 ---
-title: "Will the Republican Party win the AL-06 House seat?"
-description: "Will the Republican Party win the AL-06 House seat? Odds: 94.0% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will the Republican Party win the AL-06 House seat?"
+title: "Will Lorenzo Pazolini win the Governor of Espírito Santo election?"
+description: "Will Lorenzo Pazolini win the Governor of Espírito Santo election? Odds: 19.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Lorenzo Pazolini win the Governor of Espírito Santo election?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-27
-expiryDate: 2026-11-03
-tags: ["politics", "polymarket"]
-polymarketYes: 94.0
-polymarketNo: 6.0
-polymarketVolume: 9856
-polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-al-06-house-seat"
+expiryDate: 2026-10-05
+tags: ["elections", "politics", "polymarket"]
+polymarketYes: 19.5
+polymarketNo: 80.5
+polymarketVolume: 9887
+polymarketUrl: "https://polymarket.com/event/will-lorenzo-pazolini-win-the-governor-of-espirito-santo-election-20260611183842895"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 94.0% | 6.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 19.5% | 80.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-a
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will the Republican Party win the AL-06 House seat?"?
+### What are the current odds for "Will Lorenzo Pazolini win the Governor of Espírito Santo election?"?
 
-As of August 27, 2026, Polymarket prices YES at 94.0%.
+As of August 27, 2026, Polymarket prices YES at 19.5%.
 
 ### Where can I trade on this prediction market?
 

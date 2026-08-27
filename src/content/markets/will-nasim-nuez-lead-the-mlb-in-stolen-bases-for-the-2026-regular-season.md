@@ -3,7 +3,7 @@ title: "Will Nasim Nuñez lead the MLB in stolen bases for the 2026 regular seas
 description: "Will Nasim Nuñez lead the MLB in stolen bases for the 2026 regular season? Odds: 72.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Nasim Nuñez lead the MLB in stolen bases for the 2026 regular season?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-08-27
 expiryDate: 2026-09-28
 tags: ["polymarket", "sports"]

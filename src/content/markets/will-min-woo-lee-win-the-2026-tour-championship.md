@@ -1,15 +1,15 @@
 ---
 title: "Will Min Woo Lee win the 2026 TOUR Championship?"
-description: "Will Min Woo Lee win the 2026 TOUR Championship? Odds: 1.1% YES on Polymarket. See live prices and trade this market."
+description: "Will Min Woo Lee win the 2026 TOUR Championship? Odds: 11.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Min Woo Lee win the 2026 TOUR Championship?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-27
 expiryDate: 2026-08-31
 tags: ["politics", "polymarket"]
-polymarketYes: 1.1
-polymarketNo: 98.9
-polymarketVolume: 98669
+polymarketYes: 11.8
+polymarketNo: 88.2
+polymarketVolume: 99232
 polymarketUrl: "https://polymarket.com/event/will-min-woo-lee-win-the-2026-tour-championship-517"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-min-woo-lee-win-the-2026-tour-
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 1.1% | 98.9% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 11.8% | 88.2% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Donald Trump win the 2028 US Presidential Election?](/odds/will-donald-trump-win-the-2028-us-presidential-election) — 2% YES
-- [US announces end of Iranian blockade by December 31, 2026?](/odds/us-announces-end-of-iranian-blockade-by-december-31-2026) — 76% YES
 - [Will Tom Cotton win the 2028 Republican presidential nomination?](/odds/will-tom-cotton-win-the-2028-republican-presidential-nomination) — 0% YES
+- [Will OpenAI's valuation hit (HIGH) $1.0T by December 31?](/odds/will-openais-valuation-hit-high-10t-by-december-31) — 66% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Min Woo Lee win the 2026 TOUR Championship?"?
 
-As of August 27, 2026, Polymarket prices YES at 1.1%.
+As of August 27, 2026, Polymarket prices YES at 11.8%.
 
 ### Where can I trade on this prediction market?
 

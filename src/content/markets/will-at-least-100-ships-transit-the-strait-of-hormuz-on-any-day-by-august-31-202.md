@@ -1,23 +1,23 @@
 ---
-title: "Will Alibaba have the best Math AI model at the end of August 2026?"
-description: "Will Alibaba have the best Math AI model at the end of August 2026? Odds: 0.2% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Alibaba have the best Math AI model at the end of August 2026?"
+title: "Will at least 100 ships transit the Strait of Hormuz on any day by August 31, 2026?"
+description: "Will at least 100 ships transit the Strait of Hormuz on any day by August 31, 2026? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will at least 100 ships transit the Strait of Hormuz on any day by August 31, 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-27
 expiryDate: 2026-08-31
 tags: ["ai", "politics", "polymarket"]
-polymarketYes: 0.2
-polymarketNo: 99.8
-polymarketVolume: 9947
-polymarketUrl: "https://polymarket.com/event/will-alibaba-have-the-best-math-ai-model-at-the-end-of-august-2026-20260717014120872"
+polymarketYes: 0.1
+polymarketNo: 99.9
+polymarketVolume: 9892
+polymarketUrl: "https://polymarket.com/event/will-100-ships-transit-the-strait-of-hormuz-on-any-day-by-august-31-2026-20260728213741057"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.2% | 99.8% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.1% | 99.9% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-alibaba-have-the-best-math-ai-
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Alibaba have the best Math AI model at the end of August 2026?"?
+### What are the current odds for "Will at least 100 ships transit the Strait of Hormuz on any day by August 31, 2026?"?
 
-As of August 27, 2026, Polymarket prices YES at 0.2%.
+As of August 27, 2026, Polymarket prices YES at 0.1%.
 
 ### Where can I trade on this prediction market?
 

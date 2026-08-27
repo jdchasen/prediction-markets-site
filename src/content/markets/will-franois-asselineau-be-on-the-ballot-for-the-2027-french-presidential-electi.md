@@ -3,7 +3,7 @@ title: "Will François Asselineau be on the ballot for the 2027 French president
 description: "Will François Asselineau be on the ballot for the 2027 French presidential election? Odds: 13.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will François Asselineau be on the ballot for the 2027 French presidential election?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-08-27
 expiryDate: 2027-04-17
 tags: ["elections", "politics", "polymarket"]

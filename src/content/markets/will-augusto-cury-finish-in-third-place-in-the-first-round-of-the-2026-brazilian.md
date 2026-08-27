@@ -3,7 +3,7 @@ title: "Will Augusto Cury finish in third place in the first round of the 2026 B
 description: "Will Augusto Cury finish in third place in the first round of the 2026 Brazilian presidential election? Odds: 10.9% YES on Polymarket. See live prices and tr..."
 marketQuestion: "Will Augusto Cury finish in third place in the first round of the 2026 Brazilian presidential election?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-08-27
 expiryDate: 2026-10-04
 tags: ["elections", "politics", "polymarket"]

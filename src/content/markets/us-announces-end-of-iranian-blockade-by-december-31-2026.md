@@ -3,7 +3,7 @@ title: "US announces end of Iranian blockade by December 31, 2026?"
 description: "US announces end of Iranian blockade by December 31, 2026? Odds: 76.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "US announces end of Iranian blockade by December 31, 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-08-27
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]

@@ -3,7 +3,7 @@ title: "OpenAI announces it has achieved AGI before 2027?"
 description: "OpenAI announces it has achieved AGI before 2027? Odds: 13.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "OpenAI announces it has achieved AGI before 2027?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-08-27
 expiryDate: 2026-12-31
 tags: ["ai", "politics", "polymarket"]

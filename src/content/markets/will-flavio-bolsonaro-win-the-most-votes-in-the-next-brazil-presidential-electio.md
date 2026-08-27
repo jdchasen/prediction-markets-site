@@ -3,7 +3,7 @@ title: "Will Flavio Bolsonaro win the most votes in the next Brazil presidential
 description: "Will Flavio Bolsonaro win the most votes in the next Brazil presidential election from Federal District? Odds: 84.5% YES on Polymarket. See live prices and t..."
 marketQuestion: "Will Flavio Bolsonaro win the most votes in the next Brazil presidential election from Federal District?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-08-27
 expiryDate: 2026-10-04
 tags: ["elections", "federal-reserve", "politics", "polymarket"]

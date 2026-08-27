@@ -3,7 +3,7 @@ title: "Will Solana dip to $90 in August?"
 description: "Will Solana dip to $90 in August? Odds: 12.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Solana dip to $90 in August?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-08-27
 expiryDate: 2026-09-01
 tags: ["politics", "polymarket"]
