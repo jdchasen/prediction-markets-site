@@ -1,23 +1,23 @@
 ---
-title: "Will OpenAI be the second-best AI Agent Lab at the end of October 2026?"
-description: "Will OpenAI be the second-best AI Agent Lab at the end of October 2026? Odds: 52.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will OpenAI be the second-best AI Agent Lab at the end of October 2026?"
+title: "Will Augusto Cury finish in third place in the first round of the 2026 Brazilian presidential election?"
+description: "Will Augusto Cury finish in third place in the first round of the 2026 Brazilian presidential election? Odds: 10.9% YES on Polymarket. See live prices and tr..."
+marketQuestion: "Will Augusto Cury finish in third place in the first round of the 2026 Brazilian presidential election?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-27
-expiryDate: 2026-10-31
-tags: ["ai", "politics", "polymarket"]
-polymarketYes: 52.5
-polymarketNo: 47.5
-polymarketVolume: 9947
-polymarketUrl: "https://polymarket.com/event/will-openai-be-the-second-best-ai-agent-lab-at-the-end-of-october-2026"
+expiryDate: 2026-10-04
+tags: ["elections", "politics", "polymarket"]
+polymarketYes: 10.9
+polymarketNo: 89.1
+polymarketVolume: 9942
+polymarketUrl: "https://polymarket.com/event/will-augusto-cury-finish-in-third-place-in-the-first-round-of-the-2026-brazilian-presidential-election"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 52.5% | 47.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 10.9% | 89.1% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-openai-be-the-second-best-ai-a
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will OpenAI be the second-best AI Agent Lab at the end of October 2026?"?
+### What are the current odds for "Will Augusto Cury finish in third place in the first round of the 2026 Brazilian presidential election?"?
 
-As of August 27, 2026, Polymarket prices YES at 52.5%.
+As of August 27, 2026, Polymarket prices YES at 10.9%.
 
 ### Where can I trade on this prediction market?
 

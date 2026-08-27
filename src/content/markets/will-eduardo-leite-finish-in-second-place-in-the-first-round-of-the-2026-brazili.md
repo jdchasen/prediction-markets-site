@@ -3,8 +3,8 @@ title: "Will Eduardo Leite finish in second place in the first round of the 2026
 description: "Will Eduardo Leite finish in second place in the first round of the 2026 Brazilian presidential election? Odds: 0.1% YES on Polymarket. See live prices and t..."
 marketQuestion: "Will Eduardo Leite finish in second place in the first round of the 2026 Brazilian presidential election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-08-26
+status: "settled"
+lastUpdated: 2026-08-27
 expiryDate: 2026-10-04
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.1

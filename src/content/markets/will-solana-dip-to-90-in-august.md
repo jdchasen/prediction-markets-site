@@ -1,23 +1,23 @@
 ---
-title: "Will Venezuelan crude oil production reach 1.5m barrels per day in 2026?"
-description: "Will Venezuelan crude oil production reach 1.5m barrels per day in 2026? Odds: 5.2% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Venezuelan crude oil production reach 1.5m barrels per day in 2026?"
+title: "Will Solana dip to $90 in August?"
+description: "Will Solana dip to $90 in August? Odds: 12.0% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Solana dip to $90 in August?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-27
-expiryDate: 2027-02-28
+expiryDate: 2026-09-01
 tags: ["politics", "polymarket"]
-polymarketYes: 5.2
-polymarketNo: 94.8
-polymarketVolume: 9840
-polymarketUrl: "https://polymarket.com/event/will-venezuelan-crude-oil-production-reach-1pt5m-barrels-per-day-in-2026"
+polymarketYes: 12.0
+polymarketNo: 88.0
+polymarketVolume: 9984
+polymarketUrl: "https://polymarket.com/event/will-solana-dip-to-90-in-august-2026-from-august-22"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 5.2% | 94.8% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 12.0% | 88.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-venezuelan-crude-oil-productio
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Venezuelan crude oil production reach 1.5m barrels per day in 2026?"?
+### What are the current odds for "Will Solana dip to $90 in August?"?
 
-As of August 27, 2026, Polymarket prices YES at 5.2%.
+As of August 27, 2026, Polymarket prices YES at 12.0%.
 
 ### Where can I trade on this prediction market?
 
@@ -38,5 +38,5 @@ You can trade this market on [Polymarket](https://polymarket.us/1762?utm_source=
 ## Learn More
 
 - [Will Oil Hit $100? March Crude Prediction Market Odds](/blog/will-oil-hit-100-march-crude-prediction-market-odds)
-- [Will ETH Hit $4,500 in 2026? Live Market Odds](/blog/will-ethereum-reach-4500-in-2026-what-prediction-markets-say)
+- [Will MicroStrategy Sell Bitcoin? Market Odds](/blog/will-microstrategy-sell-bitcoin-market-odds)
 

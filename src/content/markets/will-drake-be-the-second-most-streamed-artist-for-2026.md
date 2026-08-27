@@ -3,8 +3,8 @@ title: "Will Drake be the second most streamed artist for 2026?"
 description: "Will Drake be the second most streamed artist for 2026? Odds: 74.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Drake be the second most streamed artist for 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-08-26
+status: "settled"
+lastUpdated: 2026-08-27
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]
 polymarketYes: 74.5

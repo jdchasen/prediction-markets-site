@@ -3,8 +3,8 @@ title: "Will the highest score achieved by a Moonshot Kimi model on Humanity’s
 description: "Will the highest score achieved by a Moonshot Kimi model on Humanity’s Last Exam in 2026 be 50% or higher? Odds: 52.5% YES on Polymarket. See live prices and..."
 marketQuestion: "Will the highest score achieved by a Moonshot Kimi model on Humanity’s Last Exam in 2026 be 50% or higher?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-08-26
+status: "settled"
+lastUpdated: 2026-08-27
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 52.5

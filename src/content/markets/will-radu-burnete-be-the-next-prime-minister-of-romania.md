@@ -3,8 +3,8 @@ title: "Will Radu Burnete be the next Prime Minister of Romania?"
 description: "Will Radu Burnete be the next Prime Minister of Romania? Odds: 5.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Radu Burnete be the next Prime Minister of Romania?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-08-26
+status: "settled"
+lastUpdated: 2026-08-27
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 5.9

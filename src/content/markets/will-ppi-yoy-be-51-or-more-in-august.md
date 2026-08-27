@@ -4,12 +4,12 @@ description: "Will PPI YoY be 5.1% or more in August? Odds: 58.0% YES on Polymar
 marketQuestion: "Will PPI YoY be 5.1% or more in August?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-08-26
+lastUpdated: 2026-08-27
 expiryDate: 2026-09-10
 tags: ["politics", "polymarket"]
 polymarketYes: 58.0
 polymarketNo: 42.0
-polymarketVolume: 9922
+polymarketVolume: 9930
 polymarketUrl: "https://polymarket.com/event/will-ppi-yoy-be-5pt1-or-more-in-august-1786642620440"
 ---
 
@@ -22,14 +22,14 @@ polymarketUrl: "https://polymarket.com/event/will-ppi-yoy-be-5pt1-or-more-in-aug
 ## Related Markets
 
 - [Will Donald Trump win the 2028 US Presidential Election?](/odds/will-donald-trump-win-the-2028-us-presidential-election) — 2% YES
+- [US announces end of Iranian blockade by December 31, 2026?](/odds/us-announces-end-of-iranian-blockade-by-december-31-2026) — 76% YES
 - [Will Tom Cotton win the 2028 Republican presidential nomination?](/odds/will-tom-cotton-win-the-2028-republican-presidential-nomination) — 0% YES
-- [US announces end of Iranian blockade by December 31, 2026?](/odds/us-announces-end-of-iranian-blockade-by-december-31-2026) — 78% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will PPI YoY be 5.1% or more in August?"?
 
-As of August 26, 2026, Polymarket prices YES at 58.0%.
+As of August 27, 2026, Polymarket prices YES at 58.0%.
 
 ### Where can I trade on this prediction market?
 

@@ -4,12 +4,12 @@ description: "Will Tom Cotton win the 2028 Republican presidential nomination? O
 marketQuestion: "Will Tom Cotton win the 2028 Republican presidential nomination?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-08-26
+lastUpdated: 2026-08-27
 expiryDate: 2028-11-07
 tags: ["politics", "polymarket"]
 polymarketYes: 0.1
 polymarketNo: 99.9
-polymarketVolume: 991799
+polymarketVolume: 997043
 polymarketUrl: "https://polymarket.com/event/will-tom-cotton-win-the-2028-republican-presidential-nomination"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-tom-cotton-win-the-2028-republ
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.1% | 99.9% | $992K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.1% | 99.9% | $997K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Donald Trump win the 2028 US Presidential Election?](/odds/will-donald-trump-win-the-2028-us-presidential-election) — 2% YES
-- [US announces end of Iranian blockade by December 31, 2026?](/odds/us-announces-end-of-iranian-blockade-by-december-31-2026) — 78% YES
-- [Will Radu Burnete be the next Prime Minister of Romania?](/odds/will-radu-burnete-be-the-next-prime-minister-of-romania) — 6% YES
+- [US announces end of Iranian blockade by December 31, 2026?](/odds/us-announces-end-of-iranian-blockade-by-december-31-2026) — 76% YES
+- [Will Inter Miami CF win the 2026 MLS Cup?](/odds/will-inter-miami-cf-win-the-2026-mls-cup) — 20% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Tom Cotton win the 2028 Republican presidential nomination?"?
 
-As of August 26, 2026, Polymarket prices YES at 0.1%.
+As of August 27, 2026, Polymarket prices YES at 0.1%.
 
 ### Where can I trade on this prediction market?
 

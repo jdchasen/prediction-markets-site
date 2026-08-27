@@ -1,14 +1,14 @@
 ---
 title: "Will the Republican Party win the PA-13 House seat?"
-description: "Will the Republican Party win the PA-13 House seat? Odds: 94.5% YES on Polymarket. See live prices and trade this market."
+description: "Will the Republican Party win the PA-13 House seat? Odds: 95.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Republican Party win the PA-13 House seat?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-08-26
+lastUpdated: 2026-08-27
 expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
-polymarketYes: 94.5
-polymarketNo: 5.5
+polymarketYes: 95.5
+polymarketNo: 4.5
 polymarketVolume: 9885
 polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-pa-13-house-seat"
 ---
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-p
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 94.5% | 5.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 95.5% | 4.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Donald Trump win the 2028 US Presidential Election?](/odds/will-donald-trump-win-the-2028-us-presidential-election) — 2% YES
+- [US announces end of Iranian blockade by December 31, 2026?](/odds/us-announces-end-of-iranian-blockade-by-december-31-2026) — 76% YES
 - [Will Tom Cotton win the 2028 Republican presidential nomination?](/odds/will-tom-cotton-win-the-2028-republican-presidential-nomination) — 0% YES
-- [US announces end of Iranian blockade by December 31, 2026?](/odds/us-announces-end-of-iranian-blockade-by-december-31-2026) — 78% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will the Republican Party win the PA-13 House seat?"?
 
-As of August 26, 2026, Polymarket prices YES at 94.5%.
+As of August 27, 2026, Polymarket prices YES at 95.5%.
 
 ### Where can I trade on this prediction market?
 

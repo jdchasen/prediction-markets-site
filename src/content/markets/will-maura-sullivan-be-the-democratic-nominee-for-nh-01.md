@@ -3,8 +3,8 @@ title: "Will Maura Sullivan be the Democratic nominee for NH-01?"
 description: "Will Maura Sullivan be the Democratic nominee for NH-01? Odds: 44.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Maura Sullivan be the Democratic nominee for NH-01?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-08-26
+status: "settled"
+lastUpdated: 2026-08-27
 expiryDate: 2026-09-08
 tags: ["politics", "polymarket"]
 polymarketYes: 44.0

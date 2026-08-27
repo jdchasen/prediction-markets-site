@@ -3,8 +3,8 @@ title: "Will the Republican Party win the NC-09 House seat?"
 description: "Will the Republican Party win the NC-09 House seat? Odds: 80.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Republican Party win the NC-09 House seat?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-08-26
+status: "settled"
+lastUpdated: 2026-08-27
 expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
 polymarketYes: 80.0

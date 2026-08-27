@@ -4,7 +4,7 @@ description: "Will AfD win the most seats in the 2026 Mecklenburg-Vorpommern par
 marketQuestion: "Will AfD win the most seats in the 2026 Mecklenburg-Vorpommern parliamentary elections?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-08-26
+lastUpdated: 2026-08-27
 expiryDate: 2026-09-20
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 87.5
@@ -22,14 +22,14 @@ polymarketUrl: "https://polymarket.com/event/will-afd-win-the-most-seats-in-the-
 ## Related Markets
 
 - [Will Donald Trump win the 2028 US Presidential Election?](/odds/will-donald-trump-win-the-2028-us-presidential-election) — 2% YES
+- [US announces end of Iranian blockade by December 31, 2026?](/odds/us-announces-end-of-iranian-blockade-by-december-31-2026) — 76% YES
 - [Will Tom Cotton win the 2028 Republican presidential nomination?](/odds/will-tom-cotton-win-the-2028-republican-presidential-nomination) — 0% YES
-- [US announces end of Iranian blockade by December 31, 2026?](/odds/us-announces-end-of-iranian-blockade-by-december-31-2026) — 78% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will AfD win the most seats in the 2026 Mecklenburg-Vorpommern parliamentary elections?"?
 
-As of August 26, 2026, Polymarket prices YES at 87.5%.
+As of August 27, 2026, Polymarket prices YES at 87.5%.
 
 ### Where can I trade on this prediction market?
 

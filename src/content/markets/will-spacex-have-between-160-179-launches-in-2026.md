@@ -1,15 +1,15 @@
 ---
 title: "Will SpaceX have between 160-179 launches in 2026?"
-description: "Will SpaceX have between 160-179 launches in 2026? Odds: 3.0% YES on Polymarket. See live prices and trade this market."
+description: "Will SpaceX have between 160-179 launches in 2026? Odds: 18.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will SpaceX have between 160-179 launches in 2026?"
 category: "tech"
 status: "active"
-lastUpdated: 2026-08-26
+lastUpdated: 2026-08-27
 expiryDate: 2026-12-31
 tags: ["polymarket", "tech"]
-polymarketYes: 3.0
-polymarketNo: 97.0
-polymarketVolume: 98338
+polymarketYes: 18.0
+polymarketNo: 82.0
+polymarketVolume: 99709
 polymarketUrl: "https://polymarket.com/event/will-spacex-have-between-160-179-launches-in-2026"
 ---
 
@@ -17,13 +17,17 @@ polymarketUrl: "https://polymarket.com/event/will-spacex-have-between-160-179-la
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 3.0% | 97.0% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 18.0% | 82.0% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+
+## Related Markets
+
+- [Will the chopsticks catch SpaceX Starship Flight Test 14 Superheavy booster?](/odds/will-the-chopsticks-catch-spacex-starship-flight-test-14-superheavy-booster) — 7% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will SpaceX have between 160-179 launches in 2026?"?
 
-As of August 26, 2026, Polymarket prices YES at 3.0%.
+As of August 27, 2026, Polymarket prices YES at 18.0%.
 
 ### Where can I trade on this prediction market?
 

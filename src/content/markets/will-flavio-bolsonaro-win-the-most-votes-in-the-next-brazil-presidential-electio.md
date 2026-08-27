@@ -4,7 +4,7 @@ description: "Will Flavio Bolsonaro win the most votes in the next Brazil presid
 marketQuestion: "Will Flavio Bolsonaro win the most votes in the next Brazil presidential election from Federal District?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-08-26
+lastUpdated: 2026-08-27
 expiryDate: 2026-10-04
 tags: ["elections", "federal-reserve", "politics", "polymarket"]
 polymarketYes: 84.5
@@ -22,14 +22,14 @@ polymarketUrl: "https://polymarket.com/event/will-flavio-bolsonaro-win-the-most-
 ## Related Markets
 
 - [Will Donald Trump win the 2028 US Presidential Election?](/odds/will-donald-trump-win-the-2028-us-presidential-election) — 2% YES
+- [US announces end of Iranian blockade by December 31, 2026?](/odds/us-announces-end-of-iranian-blockade-by-december-31-2026) — 76% YES
 - [Will Tom Cotton win the 2028 Republican presidential nomination?](/odds/will-tom-cotton-win-the-2028-republican-presidential-nomination) — 0% YES
-- [US announces end of Iranian blockade by December 31, 2026?](/odds/us-announces-end-of-iranian-blockade-by-december-31-2026) — 78% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Flavio Bolsonaro win the most votes in the next Brazil presidential election from Federal District?"?
 
-As of August 26, 2026, Polymarket prices YES at 84.5%.
+As of August 27, 2026, Polymarket prices YES at 84.5%.
 
 ### Where can I trade on this prediction market?
 

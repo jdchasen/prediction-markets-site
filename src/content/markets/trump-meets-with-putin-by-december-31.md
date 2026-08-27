@@ -3,8 +3,8 @@ title: "Trump meets with Putin by December 31?"
 description: "Trump meets with Putin by December 31? Odds: 51.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Trump meets with Putin by December 31?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-08-26
+status: "settled"
+lastUpdated: 2026-08-27
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket", "trump"]
 polymarketYes: 51.5
