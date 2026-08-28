@@ -1,23 +1,22 @@
 ---
-title: "Will the Republican Party win the PA-13 House seat?"
-description: "Will the Republican Party win the PA-13 House seat? Odds: 97.7% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will the Republican Party win the PA-13 House seat?"
+title: "Will Carlos Alcaraz Play in the U.S. Open?"
+description: "Will Carlos Alcaraz Play in the U.S. Open? Odds: 98.2% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Carlos Alcaraz Play in the U.S. Open?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-28
-expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
-polymarketYes: 97.7
-polymarketNo: 2.4
-polymarketVolume: 9885
-polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-pa-13-house-seat"
+polymarketYes: 98.2
+polymarketNo: 1.8
+polymarketVolume: 99134
+polymarketUrl: "https://polymarket.com/event/will-carlos-alcaraz-play-in-the-uptspt-open-20260805193315485"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 97.7% | 2.4% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 98.2% | 1.8% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +26,9 @@ polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-p
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will the Republican Party win the PA-13 House seat?"?
+### What are the current odds for "Will Carlos Alcaraz Play in the U.S. Open?"?
 
-As of August 28, 2026, Polymarket prices YES at 97.7%.
+As of August 28, 2026, Polymarket prices YES at 98.2%.
 
 ### Where can I trade on this prediction market?
 

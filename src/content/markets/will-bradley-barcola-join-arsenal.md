@@ -1,15 +1,15 @@
 ---
 title: "Will Bradley Barcola join Arsenal?"
-description: "Will Bradley Barcola join Arsenal? Odds: 0.9% YES on Polymarket. See live prices and trade this market."
+description: "Will Bradley Barcola join Arsenal? Odds: 0.6% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Bradley Barcola join Arsenal?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-28
 expiryDate: 2026-09-02
 tags: ["politics", "polymarket"]
-polymarketYes: 0.9
-polymarketNo: 99.1
-polymarketVolume: 9932
+polymarketYes: 0.6
+polymarketNo: 99.4
+polymarketVolume: 9952
 polymarketUrl: "https://polymarket.com/event/will-bradley-barcola-join-arsenal"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-bradley-barcola-join-arsenal"
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.9% | 99.1% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.6% | 99.4% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Donald Trump win the 2028 US Presidential Election?](/odds/will-donald-trump-win-the-2028-us-presidential-election) — 2% YES
+- [Strait of Hormuz traffic returns to normal by December 31?](/odds/strait-of-hormuz-traffic-returns-to-normal-by-december-31) — 32% YES
 - [Will Tom Cotton win the 2028 Republican presidential nomination?](/odds/will-tom-cotton-win-the-2028-republican-presidential-nomination) — 0% YES
-- [Will OpenAI's valuation hit (HIGH) $1.0T by December 31?](/odds/will-openais-valuation-hit-high-10t-by-december-31) — 68% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Bradley Barcola join Arsenal?"?
 
-As of August 28, 2026, Polymarket prices YES at 0.9%.
+As of August 28, 2026, Polymarket prices YES at 0.6%.
 
 ### Where can I trade on this prediction market?
 

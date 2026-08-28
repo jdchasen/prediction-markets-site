@@ -3,7 +3,7 @@ title: "Will Russia capture Kucheriv Yar by October 31?"
 description: "Will Russia capture Kucheriv Yar by October 31? Odds: 17.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Russia capture Kucheriv Yar by October 31?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-08-28
 expiryDate: 2026-11-01
 tags: ["politics", "polymarket"]

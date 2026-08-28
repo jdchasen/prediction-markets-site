@@ -3,7 +3,7 @@ title: "Will the price of Bitcoin be above $80,000 on August 31?"
 description: "Will the price of Bitcoin be above $80,000 on August 31? Odds: 47.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the price of Bitcoin be above $80,000 on August 31?"
 category: "crypto"
-status: "active"
+status: "settled"
 lastUpdated: 2026-08-28
 expiryDate: 2026-08-31
 tags: ["bitcoin", "crypto", "polymarket"]

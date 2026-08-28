@@ -3,7 +3,7 @@ title: "Will Magomed Ankalaev fight Carlos Ulberg next?"
 description: "Will Magomed Ankalaev fight Carlos Ulberg next? Odds: 36.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Magomed Ankalaev fight Carlos Ulberg next?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-08-28
 expiryDate: 2027-07-25
 tags: ["politics", "polymarket"]

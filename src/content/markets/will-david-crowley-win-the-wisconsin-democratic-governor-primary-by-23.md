@@ -22,8 +22,8 @@ polymarketUrl: "https://polymarket.com/event/will-david-crowley-win-the-wisconsi
 ## Related Markets
 
 - [Will Donald Trump win the 2028 US Presidential Election?](/odds/will-donald-trump-win-the-2028-us-presidential-election) — 2% YES
+- [Strait of Hormuz traffic returns to normal by December 31?](/odds/strait-of-hormuz-traffic-returns-to-normal-by-december-31) — 32% YES
 - [Will Tom Cotton win the 2028 Republican presidential nomination?](/odds/will-tom-cotton-win-the-2028-republican-presidential-nomination) — 0% YES
-- [Will OpenAI's valuation hit (HIGH) $1.0T by December 31?](/odds/will-openais-valuation-hit-high-10t-by-december-31) — 68% YES
 
 ## Frequently Asked Questions
 

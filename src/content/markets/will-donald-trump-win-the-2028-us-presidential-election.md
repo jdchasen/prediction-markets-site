@@ -9,7 +9,7 @@ expiryDate: 2028-11-07
 tags: ["elections", "politics", "polymarket", "trump"]
 polymarketYes: 1.9
 polymarketNo: 98.0
-polymarketVolume: 9954483
+polymarketVolume: 9956998
 polymarketUrl: "https://polymarket.com/event/will-donald-trump-win-the-2028-us-presidential-election"
 ---
 
@@ -21,9 +21,9 @@ polymarketUrl: "https://polymarket.com/event/will-donald-trump-win-the-2028-us-p
 
 ## Related Markets
 
+- [Strait of Hormuz traffic returns to normal by December 31?](/odds/strait-of-hormuz-traffic-returns-to-normal-by-december-31) — 32% YES
 - [Will Tom Cotton win the 2028 Republican presidential nomination?](/odds/will-tom-cotton-win-the-2028-republican-presidential-nomination) — 0% YES
-- [Will OpenAI's valuation hit (HIGH) $1.0T by December 31?](/odds/will-openais-valuation-hit-high-10t-by-december-31) — 68% YES
-- [Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?](/odds/will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-dec) — 11% YES
+- [Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?](/odds/will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-dec) — 14% YES
 
 ## Frequently Asked Questions
 

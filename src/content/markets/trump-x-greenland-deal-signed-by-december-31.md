@@ -3,7 +3,7 @@ title: "Trump x Greenland deal signed by December 31?"
 description: "Trump x Greenland deal signed by December 31? Odds: 16.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Trump x Greenland deal signed by December 31?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-08-28
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket", "trump"]

@@ -3,7 +3,7 @@ title: "Will OpenAI be the second-best AI Agent Lab at the end of October 2026?"
 description: "Will OpenAI be the second-best AI Agent Lab at the end of October 2026? Odds: 52.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will OpenAI be the second-best AI Agent Lab at the end of October 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-08-28
 expiryDate: 2026-10-31
 tags: ["ai", "politics", "polymarket"]

@@ -3,7 +3,7 @@ title: "Will Lorenzo Pazolini win the Governor of Espírito Santo election?"
 description: "Will Lorenzo Pazolini win the Governor of Espírito Santo election? Odds: 22.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Lorenzo Pazolini win the Governor of Espírito Santo election?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-08-28
 expiryDate: 2026-10-05
 tags: ["elections", "politics", "polymarket"]
