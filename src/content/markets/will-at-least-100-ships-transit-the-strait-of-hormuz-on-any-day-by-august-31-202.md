@@ -4,12 +4,12 @@ description: "Will at least 100 ships transit the Strait of Hormuz on any day by
 marketQuestion: "Will at least 100 ships transit the Strait of Hormuz on any day by August 31, 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-08-27
+lastUpdated: 2026-08-28
 expiryDate: 2026-08-31
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 0.1
 polymarketNo: 99.9
-polymarketVolume: 9892
+polymarketVolume: 9893
 polymarketUrl: "https://polymarket.com/event/will-100-ships-transit-the-strait-of-hormuz-on-any-day-by-august-31-2026-20260728213741057"
 ---
 
@@ -23,13 +23,13 @@ polymarketUrl: "https://polymarket.com/event/will-100-ships-transit-the-strait-o
 
 - [Will Donald Trump win the 2028 US Presidential Election?](/odds/will-donald-trump-win-the-2028-us-presidential-election) — 2% YES
 - [Will Tom Cotton win the 2028 Republican presidential nomination?](/odds/will-tom-cotton-win-the-2028-republican-presidential-nomination) — 0% YES
-- [Will OpenAI's valuation hit (HIGH) $1.0T by December 31?](/odds/will-openais-valuation-hit-high-10t-by-december-31) — 66% YES
+- [Will OpenAI's valuation hit (HIGH) $1.0T by December 31?](/odds/will-openais-valuation-hit-high-10t-by-december-31) — 68% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will at least 100 ships transit the Strait of Hormuz on any day by August 31, 2026?"?
 
-As of August 27, 2026, Polymarket prices YES at 0.1%.
+As of August 28, 2026, Polymarket prices YES at 0.1%.
 
 ### Where can I trade on this prediction market?
 

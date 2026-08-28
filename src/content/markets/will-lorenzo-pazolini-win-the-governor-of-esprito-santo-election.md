@@ -1,15 +1,15 @@
 ---
 title: "Will Lorenzo Pazolini win the Governor of Espírito Santo election?"
-description: "Will Lorenzo Pazolini win the Governor of Espírito Santo election? Odds: 19.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Lorenzo Pazolini win the Governor of Espírito Santo election? Odds: 22.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Lorenzo Pazolini win the Governor of Espírito Santo election?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-08-27
+lastUpdated: 2026-08-28
 expiryDate: 2026-10-05
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 19.5
-polymarketNo: 80.5
-polymarketVolume: 9887
+polymarketYes: 22.5
+polymarketNo: 77.5
+polymarketVolume: 9953
 polymarketUrl: "https://polymarket.com/event/will-lorenzo-pazolini-win-the-governor-of-espirito-santo-election-20260611183842895"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-lorenzo-pazolini-win-the-gover
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 19.5% | 80.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 22.5% | 77.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Donald Trump win the 2028 US Presidential Election?](/odds/will-donald-trump-win-the-2028-us-presidential-election) — 2% YES
 - [Will Tom Cotton win the 2028 Republican presidential nomination?](/odds/will-tom-cotton-win-the-2028-republican-presidential-nomination) — 0% YES
-- [Will OpenAI's valuation hit (HIGH) $1.0T by December 31?](/odds/will-openais-valuation-hit-high-10t-by-december-31) — 66% YES
+- [Will OpenAI's valuation hit (HIGH) $1.0T by December 31?](/odds/will-openais-valuation-hit-high-10t-by-december-31) — 68% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Lorenzo Pazolini win the Governor of Espírito Santo election?"?
 
-As of August 27, 2026, Polymarket prices YES at 19.5%.
+As of August 28, 2026, Polymarket prices YES at 22.5%.
 
 ### Where can I trade on this prediction market?
 

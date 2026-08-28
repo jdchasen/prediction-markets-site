@@ -3,8 +3,8 @@ title: "Will \"Boston - Stella Lefty\" be the Billboard Hot 100 #2 song for the 
 description: "Will \"Boston - Stella Lefty\" be the Billboard Hot 100 #2 song for the week of September 5? Odds: 97.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will \"Boston - Stella Lefty\" be the Billboard Hot 100 #2 song for the week of September 5?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-08-27
+status: "settled"
+lastUpdated: 2026-08-28
 expiryDate: 2026-09-01
 tags: ["politics", "polymarket"]
 polymarketYes: 97.2

@@ -1,14 +1,14 @@
 ---
 title: "Will Canada’s 2026 inflation be between 2.5% and 2.9%?"
-description: "Will Canada’s 2026 inflation be between 2.5% and 2.9%? Odds: 33.3% YES on Polymarket. See live prices and trade this market."
+description: "Will Canada’s 2026 inflation be between 2.5% and 2.9%? Odds: 33.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Canada’s 2026 inflation be between 2.5% and 2.9%?"
 category: "economics"
 status: "active"
-lastUpdated: 2026-08-27
+lastUpdated: 2026-08-28
 expiryDate: 2027-01-18
 tags: ["economics", "polymarket", "sports"]
-polymarketYes: 33.3
-polymarketNo: 66.7
+polymarketYes: 33.4
+polymarketNo: 66.6
 polymarketVolume: 9823
 polymarketUrl: "https://polymarket.com/event/will-canadas-2026-inflation-be-between-2pt5-and-2pt9"
 ---
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-canadas-2026-inflation-be-betw
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 33.3% | 66.7% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 33.4% | 66.6% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will the Fed increase interest rates by 50+ bps after the October 2026 meeting?](/odds/will-the-fed-increase-interest-rates-by-50-bps-after-the-october-2026-meeting) — 1% YES
 - [Will Mexico GDP growth in Q3 2026 be between 2.0% and 2.5%?](/odds/will-mexico-gdp-growth-in-q3-2026-be-between-20-and-25) — 31% YES
-- [Reserve Bank of Australia increases interest rates by 25 bps at the September 2026 meeting?](/odds/reserve-bank-of-australia-increases-interest-rates-by-25-bps-at-the-september-20) — 32% YES
+- [No change in Bank of Mexico’s interest rates after November 2026 meeting?](/odds/no-change-in-bank-of-mexicos-interest-rates-after-november-2026-meeting) — 86% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Canada’s 2026 inflation be between 2.5% and 2.9%?"?
 
-As of August 27, 2026, Polymarket prices YES at 33.3%.
+As of August 28, 2026, Polymarket prices YES at 33.4%.
 
 ### Where can I trade on this prediction market?
 

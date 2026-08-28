@@ -4,7 +4,7 @@ description: "Hurupay FDV above $40M one day after launch? Odds: 8.0% YES on Pol
 marketQuestion: "Hurupay FDV above $40M one day after launch?"
 category: "crypto"
 status: "active"
-lastUpdated: 2026-08-27
+lastUpdated: 2026-08-28
 expiryDate: 2027-01-01
 tags: ["crypto", "polymarket"]
 polymarketYes: 8.0
@@ -22,14 +22,14 @@ polymarketUrl: "https://polymarket.com/event/hurupay-fdv-above-40m-one-day-after
 ## Related Markets
 
 - [Will Loopscale launch a token by December 31, 2026?](/odds/will-loopscale-launch-a-token-by-december-31-2026) — 15% YES
-- [Will Ethereum hit $1,000 or $3,000 first?](/odds/will-ethereum-hit-1000-or-3000-first) — 30% YES
+- [Will the price of Bitcoin be above $80,000 on August 31?](/odds/will-the-price-of-bitcoin-be-above-80000-on-august-31) — 48% YES
 - [Ventuals FDV above $2B one day after launch?](/odds/ventuals-fdv-above-2b-one-day-after-launch) — 2% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Hurupay FDV above $40M one day after launch?"?
 
-As of August 27, 2026, Polymarket prices YES at 8.0%.
+As of August 28, 2026, Polymarket prices YES at 8.0%.
 
 ### Where can I trade on this prediction market?
 

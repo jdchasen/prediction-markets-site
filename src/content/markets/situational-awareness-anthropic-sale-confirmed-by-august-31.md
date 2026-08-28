@@ -4,7 +4,7 @@ description: "Situational Awareness Anthropic sale confirmed by August 31? Odds:
 marketQuestion: "Situational Awareness Anthropic sale confirmed by August 31?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-08-27
+lastUpdated: 2026-08-28
 tags: ["politics", "polymarket"]
 polymarketYes: 3.0
 polymarketNo: 97.0
@@ -22,13 +22,13 @@ polymarketUrl: "https://polymarket.com/event/situational-awareness-anthropic-sal
 
 - [Will Donald Trump win the 2028 US Presidential Election?](/odds/will-donald-trump-win-the-2028-us-presidential-election) — 2% YES
 - [Will Tom Cotton win the 2028 Republican presidential nomination?](/odds/will-tom-cotton-win-the-2028-republican-presidential-nomination) — 0% YES
-- [Will OpenAI's valuation hit (HIGH) $1.0T by December 31?](/odds/will-openais-valuation-hit-high-10t-by-december-31) — 66% YES
+- [Will OpenAI's valuation hit (HIGH) $1.0T by December 31?](/odds/will-openais-valuation-hit-high-10t-by-december-31) — 68% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Situational Awareness Anthropic sale confirmed by August 31?"?
 
-As of August 27, 2026, Polymarket prices YES at 3.0%.
+As of August 28, 2026, Polymarket prices YES at 3.0%.
 
 ### Where can I trade on this prediction market?
 

@@ -3,8 +3,8 @@ title: "Will Ethereum hit $1,000 or $3,000 first?"
 description: "Will Ethereum hit $1,000 or $3,000 first? Odds: 30.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Ethereum hit $1,000 or $3,000 first?"
 category: "crypto"
-status: "active"
-lastUpdated: 2026-08-27
+status: "settled"
+lastUpdated: 2026-08-28
 expiryDate: 2027-01-01
 tags: ["crypto", "ethereum", "polymarket"]
 polymarketYes: 30.0

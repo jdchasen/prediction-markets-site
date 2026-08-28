@@ -1,23 +1,23 @@
 ---
-title: "Reserve Bank of Australia increases interest rates by 25 bps at the September 2026 meeting?"
-description: "Reserve Bank of Australia increases interest rates by 25 bps at the September 2026 meeting? Odds: 32.4% YES on Polymarket. See live prices and trade this mar..."
-marketQuestion: "Reserve Bank of Australia increases interest rates by 25 bps at the September 2026 meeting?"
+title: "No change in Bank of Mexico’s interest rates after November 2026 meeting?"
+description: "No change in Bank of Mexico’s interest rates after November 2026 meeting? Odds: 86.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "No change in Bank of Mexico’s interest rates after November 2026 meeting?"
 category: "economics"
-status: "settled"
+status: "active"
 lastUpdated: 2026-08-28
-expiryDate: 2026-09-29
+expiryDate: 2026-11-05
 tags: ["economics", "interest-rates", "polymarket"]
-polymarketYes: 32.4
-polymarketNo: 67.7
-polymarketVolume: 9879
-polymarketUrl: "https://polymarket.com/event/reserve-bank-of-australia-increases-interest-rates-by-25-bps-at-the-september-2026-meeting-20260729163823948"
+polymarketYes: 86.5
+polymarketNo: 13.5
+polymarketVolume: 9669
+polymarketUrl: "https://polymarket.com/event/no-change-in-bank-of-mexicos-interest-rates-after-november-2026-meeting-1786030375140"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 32.4% | 67.7% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 86.5% | 13.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/reserve-bank-of-australia-increases
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Reserve Bank of Australia increases interest rates by 25 bps at the September 2026 meeting?"?
+### What are the current odds for "No change in Bank of Mexico’s interest rates after November 2026 meeting?"?
 
-As of August 27, 2026, Polymarket prices YES at 32.4%.
+As of August 28, 2026, Polymarket prices YES at 86.5%.
 
 ### Where can I trade on this prediction market?
 

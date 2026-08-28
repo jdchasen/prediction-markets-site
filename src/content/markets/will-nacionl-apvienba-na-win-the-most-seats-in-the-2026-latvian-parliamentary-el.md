@@ -3,8 +3,8 @@ title: "Will Nacionālā Apvienība (NA) win the most seats in the 2026 Latvian 
 description: "Will Nacionālā Apvienība (NA) win the most seats in the 2026 Latvian parliamentary election? Odds: 1.3% YES on Polymarket. See live prices and trade this mar..."
 marketQuestion: "Will Nacionālā Apvienība (NA) win the most seats in the 2026 Latvian parliamentary election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-08-27
+status: "settled"
+lastUpdated: 2026-08-28
 expiryDate: 2026-10-03
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 1.3

@@ -3,8 +3,8 @@ title: "US Open, Qualification WTA: Heather Watson vs Harriet Dart"
 description: "US Open, Qualification WTA: Heather Watson vs Harriet Dart Odds: 36.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "US Open, Qualification WTA: Heather Watson vs Harriet Dart"
 category: "politics"
-status: "active"
-lastUpdated: 2026-08-27
+status: "settled"
+lastUpdated: 2026-08-28
 expiryDate: 2026-09-03
 tags: ["politics", "polymarket"]
 polymarketYes: 36.5

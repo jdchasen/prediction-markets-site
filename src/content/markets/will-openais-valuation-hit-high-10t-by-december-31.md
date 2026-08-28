@@ -1,14 +1,14 @@
 ---
 title: "Will OpenAI's valuation hit (HIGH) $1.0T by December 31?"
-description: "Will OpenAI's valuation hit (HIGH) $1.0T by December 31? Odds: 66.5% YES on Polymarket. See live prices and trade this market."
+description: "Will OpenAI's valuation hit (HIGH) $1.0T by December 31? Odds: 67.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will OpenAI's valuation hit (HIGH) $1.0T by December 31?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-08-27
+lastUpdated: 2026-08-28
 expiryDate: 2027-01-01
 tags: ["ai", "politics", "polymarket"]
-polymarketYes: 66.5
-polymarketNo: 33.5
+polymarketYes: 67.5
+polymarketNo: 32.5
 polymarketVolume: 99630
 polymarketUrl: "https://polymarket.com/event/will-openais-valuation-hit-high-1pt0t-by-december-31-846-461"
 ---
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-openais-valuation-hit-high-1pt
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 66.5% | 33.5% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 67.5% | 32.5% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-openais-valuation-hit-high-1pt
 
 ### What are the current odds for "Will OpenAI's valuation hit (HIGH) $1.0T by December 31?"?
 
-As of August 27, 2026, Polymarket prices YES at 66.5%.
+As of August 28, 2026, Polymarket prices YES at 67.5%.
 
 ### Where can I trade on this prediction market?
 

@@ -4,7 +4,7 @@ description: "Will the Fed increase interest rates by 50+ bps after the October 
 marketQuestion: "Will the Fed increase interest rates by 50+ bps after the October 2026 meeting?"
 category: "economics"
 status: "active"
-lastUpdated: 2026-08-27
+lastUpdated: 2026-08-28
 expiryDate: 2026-10-28
 tags: ["economics", "federal-reserve", "interest-rates", "polymarket"]
 polymarketYes: 1.1
@@ -22,14 +22,14 @@ polymarketUrl: "https://polymarket.com/event/will-the-fed-increase-interest-rate
 ## Related Markets
 
 - [Will Mexico GDP growth in Q3 2026 be between 2.0% and 2.5%?](/odds/will-mexico-gdp-growth-in-q3-2026-be-between-20-and-25) — 31% YES
-- [Reserve Bank of Australia increases interest rates by 25 bps at the September 2026 meeting?](/odds/reserve-bank-of-australia-increases-interest-rates-by-25-bps-at-the-september-20) — 32% YES
 - [Will Canada’s 2026 inflation be between 2.5% and 2.9%?](/odds/will-canadas-2026-inflation-be-between-25-and-29) — 33% YES
+- [No change in Bank of Mexico’s interest rates after November 2026 meeting?](/odds/no-change-in-bank-of-mexicos-interest-rates-after-november-2026-meeting) — 86% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will the Fed increase interest rates by 50+ bps after the October 2026 meeting?"?
 
-As of August 27, 2026, Polymarket prices YES at 1.1%.
+As of August 28, 2026, Polymarket prices YES at 1.1%.
 
 ### Where can I trade on this prediction market?
 

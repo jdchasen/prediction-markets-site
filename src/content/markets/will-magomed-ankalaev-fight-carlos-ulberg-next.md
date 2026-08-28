@@ -1,23 +1,23 @@
 ---
-title: "Will the Republican Party win the TX-15 House seat?"
-description: "Will the Republican Party win the TX-15 House seat? Odds: 43.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will the Republican Party win the TX-15 House seat?"
+title: "Will Magomed Ankalaev fight Carlos Ulberg next?"
+description: "Will Magomed Ankalaev fight Carlos Ulberg next? Odds: 36.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Magomed Ankalaev fight Carlos Ulberg next?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-28
-expiryDate: 2026-11-04
+expiryDate: 2027-07-25
 tags: ["politics", "polymarket"]
-polymarketYes: 43.5
-polymarketNo: 56.5
-polymarketVolume: 9845
-polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-tx-15-house-seat"
+polymarketYes: 36.5
+polymarketNo: 63.5
+polymarketVolume: 9992
+polymarketUrl: "https://polymarket.com/event/will-magomed-ankalaev-fight-carlos-ulberg-next-20260724195508050"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 43.5% | 56.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 36.5% | 63.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-t
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will the Republican Party win the TX-15 House seat?"?
+### What are the current odds for "Will Magomed Ankalaev fight Carlos Ulberg next?"?
 
-As of August 28, 2026, Polymarket prices YES at 43.5%.
+As of August 28, 2026, Polymarket prices YES at 36.5%.
 
 ### Where can I trade on this prediction market?
 

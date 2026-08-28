@@ -1,14 +1,14 @@
 ---
 title: "Will the chopsticks catch SpaceX Starship Flight Test 14 Superheavy booster?"
-description: "Will the chopsticks catch SpaceX Starship Flight Test 14 Superheavy booster? Odds: 7.3% YES on Polymarket. See live prices and trade this market."
+description: "Will the chopsticks catch SpaceX Starship Flight Test 14 Superheavy booster? Odds: 7.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the chopsticks catch SpaceX Starship Flight Test 14 Superheavy booster?"
 category: "tech"
 status: "active"
-lastUpdated: 2026-08-27
+lastUpdated: 2026-08-28
 expiryDate: 2027-07-01
 tags: ["polymarket", "tech"]
-polymarketYes: 7.3
-polymarketNo: 92.7
+polymarketYes: 7.2
+polymarketNo: 92.8
 polymarketVolume: 9959
 polymarketUrl: "https://polymarket.com/event/will-the-chopsticks-catch-spacex-starship-flight-test-14-superheavy-booster-674"
 ---
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-chopsticks-catch-spacex-st
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 7.3% | 92.7% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 7.2% | 92.8% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,7 +27,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-chopsticks-catch-spacex-st
 
 ### What are the current odds for "Will the chopsticks catch SpaceX Starship Flight Test 14 Superheavy booster?"?
 
-As of August 27, 2026, Polymarket prices YES at 7.3%.
+As of August 28, 2026, Polymarket prices YES at 7.2%.
 
 ### Where can I trade on this prediction market?
 

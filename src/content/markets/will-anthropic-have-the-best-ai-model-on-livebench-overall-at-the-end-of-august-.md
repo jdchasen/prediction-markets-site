@@ -1,15 +1,15 @@
 ---
 title: "Will Anthropic have the best AI model on LiveBench (Overall) at the end of August 2026?"
-description: "Will Anthropic have the best AI model on LiveBench (Overall) at the end of August 2026? Odds: 96.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Anthropic have the best AI model on LiveBench (Overall) at the end of August 2026? Odds: 96.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Anthropic have the best AI model on LiveBench (Overall) at the end of August 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-08-27
+lastUpdated: 2026-08-28
 expiryDate: 2026-08-31
 tags: ["ai", "politics", "polymarket"]
-polymarketYes: 96.5
-polymarketNo: 3.5
-polymarketVolume: 9947
+polymarketYes: 96.9
+polymarketNo: 3.1
+polymarketVolume: 9997
 polymarketUrl: "https://polymarket.com/event/will-anthropic-have-the-best-ai-model-on-livebench-overall-at-the-end-of-august-2026-20260728170525238"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-anthropic-have-the-best-ai-mod
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 96.5% | 3.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 96.9% | 3.1% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Donald Trump win the 2028 US Presidential Election?](/odds/will-donald-trump-win-the-2028-us-presidential-election) — 2% YES
 - [Will Tom Cotton win the 2028 Republican presidential nomination?](/odds/will-tom-cotton-win-the-2028-republican-presidential-nomination) — 0% YES
-- [Will OpenAI's valuation hit (HIGH) $1.0T by December 31?](/odds/will-openais-valuation-hit-high-10t-by-december-31) — 66% YES
+- [Will OpenAI's valuation hit (HIGH) $1.0T by December 31?](/odds/will-openais-valuation-hit-high-10t-by-december-31) — 68% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Anthropic have the best AI model on LiveBench (Overall) at the end of August 2026?"?
 
-As of August 27, 2026, Polymarket prices YES at 96.5%.
+As of August 28, 2026, Polymarket prices YES at 96.9%.
 
 ### Where can I trade on this prediction market?
 

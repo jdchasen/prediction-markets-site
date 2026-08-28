@@ -1,14 +1,14 @@
 ---
 title: "Will SpaceX have between 160-179 launches in 2026?"
-description: "Will SpaceX have between 160-179 launches in 2026? Odds: 14.3% YES on Polymarket. See live prices and trade this market."
+description: "Will SpaceX have between 160-179 launches in 2026? Odds: 13.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will SpaceX have between 160-179 launches in 2026?"
 category: "tech"
 status: "active"
-lastUpdated: 2026-08-27
+lastUpdated: 2026-08-28
 expiryDate: 2026-12-31
 tags: ["polymarket", "tech"]
-polymarketYes: 14.3
-polymarketNo: 85.7
+polymarketYes: 13.8
+polymarketNo: 86.2
 polymarketVolume: 99722
 polymarketUrl: "https://polymarket.com/event/will-spacex-have-between-160-179-launches-in-2026"
 ---
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-spacex-have-between-160-179-la
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 14.3% | 85.7% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 13.8% | 86.2% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,7 +27,7 @@ polymarketUrl: "https://polymarket.com/event/will-spacex-have-between-160-179-la
 
 ### What are the current odds for "Will SpaceX have between 160-179 launches in 2026?"?
 
-As of August 27, 2026, Polymarket prices YES at 14.3%.
+As of August 28, 2026, Polymarket prices YES at 13.8%.
 
 ### Where can I trade on this prediction market?
 

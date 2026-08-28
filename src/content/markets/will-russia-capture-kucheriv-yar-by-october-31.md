@@ -1,23 +1,23 @@
 ---
-title: "Will the Republican Party win the TX-15 House seat?"
-description: "Will the Republican Party win the TX-15 House seat? Odds: 43.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will the Republican Party win the TX-15 House seat?"
+title: "Will Russia capture Kucheriv Yar by October 31?"
+description: "Will Russia capture Kucheriv Yar by October 31? Odds: 17.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Russia capture Kucheriv Yar by October 31?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-28
-expiryDate: 2026-11-04
+expiryDate: 2026-11-01
 tags: ["politics", "polymarket"]
-polymarketYes: 43.5
-polymarketNo: 56.5
-polymarketVolume: 9845
-polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-tx-15-house-seat"
+polymarketYes: 17.5
+polymarketNo: 82.5
+polymarketVolume: 9848
+polymarketUrl: "https://polymarket.com/event/will-russia-capture-kucheriv-yar-by-october-31-20260724165221454"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 43.5% | 56.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 17.5% | 82.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-t
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will the Republican Party win the TX-15 House seat?"?
+### What are the current odds for "Will Russia capture Kucheriv Yar by October 31?"?
 
-As of August 28, 2026, Polymarket prices YES at 43.5%.
+As of August 28, 2026, Polymarket prices YES at 17.5%.
 
 ### Where can I trade on this prediction market?
 
