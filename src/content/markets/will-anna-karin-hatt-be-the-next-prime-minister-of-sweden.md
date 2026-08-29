@@ -1,22 +1,23 @@
 ---
-title: "Will Carlos Alcaraz Play in the U.S. Open?"
-description: "Will Carlos Alcaraz Play in the U.S. Open? Odds: 98.2% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Carlos Alcaraz Play in the U.S. Open?"
+title: "Will Anna-Karin Hatt be the next Prime Minister of Sweden?"
+description: "Will Anna-Karin Hatt be the next Prime Minister of Sweden? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Anna-Karin Hatt be the next Prime Minister of Sweden?"
 category: "politics"
-status: "settled"
+status: "active"
 lastUpdated: 2026-08-29
+expiryDate: 2026-09-13
 tags: ["politics", "polymarket"]
-polymarketYes: 98.2
-polymarketNo: 1.8
-polymarketVolume: 99134
-polymarketUrl: "https://polymarket.com/event/will-carlos-alcaraz-play-in-the-uptspt-open-20260805193315485"
+polymarketYes: 0.1
+polymarketNo: 99.9
+polymarketVolume: 98515
+polymarketUrl: "https://polymarket.com/event/will-anna-karin-hatt-be-the-next-prime-minister-of-sweden"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 98.2% | 1.8% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.1% | 99.9% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -26,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-carlos-alcaraz-play-in-the-upt
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Carlos Alcaraz Play in the U.S. Open?"?
+### What are the current odds for "Will Anna-Karin Hatt be the next Prime Minister of Sweden?"?
 
-As of August 28, 2026, Polymarket prices YES at 98.2%.
+As of August 29, 2026, Polymarket prices YES at 0.1%.
 
 ### Where can I trade on this prediction market?
 

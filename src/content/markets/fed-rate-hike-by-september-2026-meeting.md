@@ -3,8 +3,8 @@ title: "Fed Rate Hike by September 2026 Meeting?"
 description: "Fed Rate Hike by September 2026 Meeting? Odds: 50.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Fed Rate Hike by September 2026 Meeting?"
 category: "economics"
-status: "active"
-lastUpdated: 2026-08-28
+status: "settled"
+lastUpdated: 2026-08-29
 expiryDate: 2026-12-09
 tags: ["economics", "federal-reserve", "polymarket"]
 polymarketYes: 50.5

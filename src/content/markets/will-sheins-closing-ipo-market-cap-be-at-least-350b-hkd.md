@@ -3,8 +3,8 @@ title: "Will Shein's closing IPO market cap be at least 350B HKD?"
 description: "Will Shein's closing IPO market cap be at least 350B HKD? Odds: 4.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Shein's closing IPO market cap be at least 350B HKD?"
 category: "finance"
-status: "active"
-lastUpdated: 2026-08-28
+status: "settled"
+lastUpdated: 2026-08-29
 expiryDate: 2027-12-31
 tags: ["finance", "polymarket"]
 polymarketYes: 4.5

@@ -3,8 +3,8 @@ title: "Will the Ornn H100 Index be between $2.25 and $2.50 on August 31, 2026?"
 description: "Will the Ornn H100 Index be between $2.25 and $2.50 on August 31, 2026? Odds: 5.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Ornn H100 Index be between $2.25 and $2.50 on August 31, 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-08-28
+status: "settled"
+lastUpdated: 2026-08-29
 expiryDate: 2026-08-31
 tags: ["politics", "polymarket"]
 polymarketYes: 5.0

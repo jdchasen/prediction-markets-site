@@ -1,14 +1,14 @@
 ---
 title: "Will Mexico GDP growth in Q3 2026 be between 2.0% and 2.5%?"
-description: "Will Mexico GDP growth in Q3 2026 be between 2.0% and 2.5%? Odds: 31.0% YES on Polymarket. See live prices and trade this market."
+description: "Will Mexico GDP growth in Q3 2026 be between 2.0% and 2.5%? Odds: 30.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Mexico GDP growth in Q3 2026 be between 2.0% and 2.5%?"
 category: "economics"
 status: "active"
-lastUpdated: 2026-08-28
+lastUpdated: 2026-08-29
 expiryDate: 2026-10-30
 tags: ["economics", "polymarket"]
-polymarketYes: 31.0
-polymarketNo: 69.0
+polymarketYes: 30.5
+polymarketNo: 69.5
 polymarketVolume: 9929
 polymarketUrl: "https://polymarket.com/event/will-mexico-gdp-growth-in-q3-2026-be-between-2pt0-and-2pt5-20260731151540700"
 ---
@@ -17,11 +17,11 @@ polymarketUrl: "https://polymarket.com/event/will-mexico-gdp-growth-in-q3-2026-b
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 31.0% | 69.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 30.5% | 69.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Fed Rate Hike by September 2026 Meeting?](/odds/fed-rate-hike-by-september-2026-meeting) — 50% YES
+- [Will the Fed increase interest rates by 50+ bps after the September 2026 meeting?](/odds/will-the-fed-increase-interest-rates-by-50-bps-after-the-september-2026-meeting) — 1% YES
 - [Will Canada’s 2026 inflation be between 2.5% and 2.9%?](/odds/will-canadas-2026-inflation-be-between-25-and-29) — 33% YES
 - [No change in Bank of Mexico’s interest rates after November 2026 meeting?](/odds/no-change-in-bank-of-mexicos-interest-rates-after-november-2026-meeting) — 86% YES
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-mexico-gdp-growth-in-q3-2026-b
 
 ### What are the current odds for "Will Mexico GDP growth in Q3 2026 be between 2.0% and 2.5%?"?
 
-As of August 28, 2026, Polymarket prices YES at 31.0%.
+As of August 29, 2026, Polymarket prices YES at 30.5%.
 
 ### Where can I trade on this prediction market?
 

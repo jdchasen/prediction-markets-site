@@ -1,23 +1,23 @@
 ---
-title: "Will at least 100 ships transit the Strait of Hormuz on any day by August 31, 2026?"
-description: "Will at least 100 ships transit the Strait of Hormuz on any day by August 31, 2026? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will at least 100 ships transit the Strait of Hormuz on any day by August 31, 2026?"
+title: "Will Alibaba be the second-best Code Arena | WebDev AI lab at the end of September 2026?"
+description: "Will Alibaba be the second-best Code Arena | WebDev AI lab at the end of September 2026? Odds: 35.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Alibaba be the second-best Code Arena | WebDev AI lab at the end of September 2026?"
 category: "politics"
-status: "settled"
+status: "active"
 lastUpdated: 2026-08-29
-expiryDate: 2026-08-31
+expiryDate: 2026-10-01
 tags: ["ai", "politics", "polymarket"]
-polymarketYes: 0.1
-polymarketNo: 99.9
-polymarketVolume: 9951
-polymarketUrl: "https://polymarket.com/event/will-100-ships-transit-the-strait-of-hormuz-on-any-day-by-august-31-2026-20260728213741057"
+polymarketYes: 35.5
+polymarketNo: 64.5
+polymarketVolume: 9837
+polymarketUrl: "https://polymarket.com/event/will-alibaba-be-the-second-best-code-arena-webdev-ai-lab-at-the-end-of-september-2026-20260722215814735"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.1% | 99.9% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 35.5% | 64.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-100-ships-transit-the-strait-o
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will at least 100 ships transit the Strait of Hormuz on any day by August 31, 2026?"?
+### What are the current odds for "Will Alibaba be the second-best Code Arena | WebDev AI lab at the end of September 2026?"?
 
-As of August 28, 2026, Polymarket prices YES at 0.1%.
+As of August 29, 2026, Polymarket prices YES at 35.5%.
 
 ### Where can I trade on this prediction market?
 

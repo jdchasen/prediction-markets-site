@@ -4,8 +4,8 @@ description: "Will Anthropic have the best AI model on LiveBench (Overall) at th
 marketQuestion: "Will Anthropic have the best AI model on LiveBench (Overall) at the end of August 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-08-28
-expiryDate: 2026-08-31
+lastUpdated: 2026-08-29
+expiryDate: 2026-09-01
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 96.9
 polymarketNo: 3.1
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-anthropic-have-the-best-ai-mod
 
 ### What are the current odds for "Will Anthropic have the best AI model on LiveBench (Overall) at the end of August 2026?"?
 
-As of August 28, 2026, Polymarket prices YES at 96.9%.
+As of August 29, 2026, Polymarket prices YES at 96.9%.
 
 ### Where can I trade on this prediction market?
 

@@ -3,8 +3,8 @@ title: "Will Manchester City win the 2026-27 UEFA Champions League Championship?
 description: "Will Manchester City win the 2026-27 UEFA Champions League Championship? Odds: 8.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Manchester City win the 2026-27 UEFA Champions League Championship?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-08-28
+status: "settled"
+lastUpdated: 2026-08-29
 expiryDate: 2027-05-30
 tags: ["polymarket", "sports"]
 polymarketYes: 8.5

@@ -1,14 +1,14 @@
 ---
 title: "No change in Bank of Mexico’s interest rates after November 2026 meeting?"
-description: "No change in Bank of Mexico’s interest rates after November 2026 meeting? Odds: 86.0% YES on Polymarket. See live prices and trade this market."
+description: "No change in Bank of Mexico’s interest rates after November 2026 meeting? Odds: 86.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "No change in Bank of Mexico’s interest rates after November 2026 meeting?"
 category: "economics"
 status: "active"
-lastUpdated: 2026-08-28
+lastUpdated: 2026-08-29
 expiryDate: 2026-11-05
 tags: ["economics", "interest-rates", "polymarket"]
-polymarketYes: 86.0
-polymarketNo: 14.0
+polymarketYes: 86.5
+polymarketNo: 13.5
 polymarketVolume: 9669
 polymarketUrl: "https://polymarket.com/event/no-change-in-bank-of-mexicos-interest-rates-after-november-2026-meeting-1786030375140"
 ---
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/no-change-in-bank-of-mexicos-intere
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 86.0% | 14.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 86.5% | 13.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Fed Rate Hike by September 2026 Meeting?](/odds/fed-rate-hike-by-september-2026-meeting) — 50% YES
-- [Will Mexico GDP growth in Q3 2026 be between 2.0% and 2.5%?](/odds/will-mexico-gdp-growth-in-q3-2026-be-between-20-and-25) — 31% YES
+- [Will the Fed increase interest rates by 50+ bps after the September 2026 meeting?](/odds/will-the-fed-increase-interest-rates-by-50-bps-after-the-september-2026-meeting) — 1% YES
+- [Will Mexico GDP growth in Q3 2026 be between 2.0% and 2.5%?](/odds/will-mexico-gdp-growth-in-q3-2026-be-between-20-and-25) — 30% YES
 - [Will Canada’s 2026 inflation be between 2.5% and 2.9%?](/odds/will-canadas-2026-inflation-be-between-25-and-29) — 33% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "No change in Bank of Mexico’s interest rates after November 2026 meeting?"?
 
-As of August 28, 2026, Polymarket prices YES at 86.0%.
+As of August 29, 2026, Polymarket prices YES at 86.5%.
 
 ### Where can I trade on this prediction market?
 

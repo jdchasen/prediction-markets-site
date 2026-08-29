@@ -1,23 +1,23 @@
 ---
-title: "Will Bradley Barcola join Arsenal?"
-description: "Will Bradley Barcola join Arsenal? Odds: 0.6% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Bradley Barcola join Arsenal?"
+title: "Pittsburgh Pirates vs. St. Louis Cardinals"
+description: "Pittsburgh Pirates vs. St. Louis Cardinals Odds: 0.1% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Pittsburgh Pirates vs. St. Louis Cardinals"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-29
-expiryDate: 2026-09-02
+expiryDate: 2026-09-05
 tags: ["politics", "polymarket"]
-polymarketYes: 0.6
-polymarketNo: 99.4
-polymarketVolume: 9970
-polymarketUrl: "https://polymarket.com/event/will-bradley-barcola-join-arsenal"
+polymarketYes: 0.1
+polymarketNo: 100.0
+polymarketVolume: 98715
+polymarketUrl: "https://polymarket.com/event/mlb-pit-stl-2026-08-28"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.6% | 99.4% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.1% | 100.0% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-bradley-barcola-join-arsenal"
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Bradley Barcola join Arsenal?"?
+### What are the current odds for "Pittsburgh Pirates vs. St. Louis Cardinals"?
 
-As of August 29, 2026, Polymarket prices YES at 0.6%.
+As of August 29, 2026, Polymarket prices YES at 0.1%.
 
 ### Where can I trade on this prediction market?
 
@@ -37,6 +37,6 @@ You can trade this market on [Polymarket](https://polymarket.us/1762?utm_source=
 
 ## Learn More
 
-- [Will Oil Hit $100? March Crude Prediction Market Odds](/blog/will-oil-hit-100-march-crude-prediction-market-odds)
-- [Will MicroStrategy Sell Bitcoin? Market Odds](/blog/will-microstrategy-sell-bitcoin-market-odds)
+- [Fed March Rate Decision: What the Odds Say](/blog/fed-march-rate-decision-what-the-odds-say)
+- [Fed March Rate Decision: What Prediction Markets Say](/blog/fed-march-rate-decision-what-prediction-markets-say)
 

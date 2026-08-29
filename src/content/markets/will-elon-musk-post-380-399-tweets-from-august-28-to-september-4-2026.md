@@ -1,16 +1,16 @@
 ---
-title: "Will Elon Musk post 360-379 tweets from July 28 to August 4, 2026?"
-description: "Will Elon Musk post 360-379 tweets from July 28 to August 4, 2026? Odds: 0.3% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Elon Musk post 360-379 tweets from July 28 to August 4, 2026?"
+title: "Will Elon Musk post 380-399 tweets from August 28 to September 4, 2026?"
+description: "Will Elon Musk post 380-399 tweets from August 28 to September 4, 2026? Odds: 0.3% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Elon Musk post 380-399 tweets from August 28 to September 4, 2026?"
 category: "tech"
-status: "settled"
-lastUpdated: 2026-07-29
-expiryDate: 2026-08-04
+status: "active"
+lastUpdated: 2026-08-29
+expiryDate: 2026-09-04
 tags: ["polymarket", "tech"]
 polymarketYes: 0.3
 polymarketNo: 99.7
-polymarketVolume: 9996
-polymarketUrl: "https://polymarket.com/event/elon-musk-of-tweets-july-28-august-4-360-379"
+polymarketVolume: 9970
+polymarketUrl: "https://polymarket.com/event/elon-musk-of-tweets-august-28-september-4-2026-380-399"
 ---
 
 ## Current Odds
@@ -21,13 +21,13 @@ polymarketUrl: "https://polymarket.com/event/elon-musk-of-tweets-july-28-august-
 
 ## Related Markets
 
-- [Will less than 5 SpaceX Starship launches successfully reach Space in 2026?](/odds/will-less-than-5-spacex-starship-launches-successfully-reach-space-in-2026) — 20% YES
+- [Will SpaceX have between 160-179 launches in 2026?](/odds/will-spacex-have-between-160-179-launches-in-2026) — 19% YES
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Elon Musk post 360-379 tweets from July 28 to August 4, 2026?"?
+### What are the current odds for "Will Elon Musk post 380-399 tweets from August 28 to September 4, 2026?"?
 
-As of July 28, 2026, Polymarket prices YES at 0.3%.
+As of August 29, 2026, Polymarket prices YES at 0.3%.
 
 ### Where can I trade on this prediction market?
 

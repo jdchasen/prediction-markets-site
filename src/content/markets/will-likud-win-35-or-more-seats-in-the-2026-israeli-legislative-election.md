@@ -4,7 +4,7 @@ description: "Will Likud win 35 or more seats in the 2026 Israeli legislative el
 marketQuestion: "Will Likud win 35 or more seats in the 2026 Israeli legislative election?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-08-28
+lastUpdated: 2026-08-29
 expiryDate: 2026-10-27
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 2.8
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-likud-win-35-or-more-seats-in-
 
 ### What are the current odds for "Will Likud win 35 or more seats in the 2026 Israeli legislative election?"?
 
-As of August 28, 2026, Polymarket prices YES at 2.8%.
+As of August 29, 2026, Polymarket prices YES at 2.8%.
 
 ### Where can I trade on this prediction market?
 

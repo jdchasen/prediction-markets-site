@@ -4,7 +4,7 @@ description: "Will Canada’s 2026 inflation be between 2.5% and 2.9%? Odds: 33.
 marketQuestion: "Will Canada’s 2026 inflation be between 2.5% and 2.9%?"
 category: "economics"
 status: "active"
-lastUpdated: 2026-08-28
+lastUpdated: 2026-08-29
 expiryDate: 2027-01-18
 tags: ["economics", "polymarket", "sports"]
 polymarketYes: 33.4
@@ -21,15 +21,15 @@ polymarketUrl: "https://polymarket.com/event/will-canadas-2026-inflation-be-betw
 
 ## Related Markets
 
-- [Fed Rate Hike by September 2026 Meeting?](/odds/fed-rate-hike-by-september-2026-meeting) — 50% YES
-- [Will Mexico GDP growth in Q3 2026 be between 2.0% and 2.5%?](/odds/will-mexico-gdp-growth-in-q3-2026-be-between-20-and-25) — 31% YES
+- [Will the Fed increase interest rates by 50+ bps after the September 2026 meeting?](/odds/will-the-fed-increase-interest-rates-by-50-bps-after-the-september-2026-meeting) — 1% YES
+- [Will Mexico GDP growth in Q3 2026 be between 2.0% and 2.5%?](/odds/will-mexico-gdp-growth-in-q3-2026-be-between-20-and-25) — 30% YES
 - [No change in Bank of Mexico’s interest rates after November 2026 meeting?](/odds/no-change-in-bank-of-mexicos-interest-rates-after-november-2026-meeting) — 86% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Canada’s 2026 inflation be between 2.5% and 2.9%?"?
 
-As of August 28, 2026, Polymarket prices YES at 33.4%.
+As of August 29, 2026, Polymarket prices YES at 33.4%.
 
 ### Where can I trade on this prediction market?
 

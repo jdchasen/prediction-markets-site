@@ -1,14 +1,14 @@
 ---
 title: "Will Democratic Senate incumbents win all their nominating elections in the 2026 cycle?"
-description: "Will Democratic Senate incumbents win all their nominating elections in the 2026 cycle? Odds: 93.0% YES on Polymarket. See live prices and trade this market."
+description: "Will Democratic Senate incumbents win all their nominating elections in the 2026 cycle? Odds: 96.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Democratic Senate incumbents win all their nominating elections in the 2026 cycle?"
 category: "politics"
-status: "settled"
-lastUpdated: 2026-08-28
+status: "active"
+lastUpdated: 2026-08-29
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 93.0
-polymarketNo: 7.0
-polymarketVolume: 9824
+polymarketYes: 96.5
+polymarketNo: 3.5
+polymarketVolume: 9844
 polymarketUrl: "https://polymarket.com/event/will-democratic-senate-incumbents-win-all-their-nominating-elections-in-the-2026-cycle"
 ---
 
@@ -16,19 +16,19 @@ polymarketUrl: "https://polymarket.com/event/will-democratic-senate-incumbents-w
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 93.0% | 7.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 96.5% | 3.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Donald Trump win the 2028 US Presidential Election?](/odds/will-donald-trump-win-the-2028-us-presidential-election) — 2% YES
+- [Strait of Hormuz traffic returns to normal by December 31?](/odds/strait-of-hormuz-traffic-returns-to-normal-by-december-31) — 32% YES
 - [Will Tom Cotton win the 2028 Republican presidential nomination?](/odds/will-tom-cotton-win-the-2028-republican-presidential-nomination) — 0% YES
-- [Will OpenAI's valuation hit (HIGH) $1.0T by December 31?](/odds/will-openais-valuation-hit-high-10t-by-december-31) — 66% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Democratic Senate incumbents win all their nominating elections in the 2026 cycle?"?
 
-As of August 27, 2026, Polymarket prices YES at 93.0%.
+As of August 29, 2026, Polymarket prices YES at 96.5%.
 
 ### Where can I trade on this prediction market?
 

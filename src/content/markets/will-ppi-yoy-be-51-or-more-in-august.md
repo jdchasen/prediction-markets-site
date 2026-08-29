@@ -3,8 +3,8 @@ title: "Will PPI YoY be 5.1% or more in August?"
 description: "Will PPI YoY be 5.1% or more in August? Odds: 60.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will PPI YoY be 5.1% or more in August?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-08-28
+status: "settled"
+lastUpdated: 2026-08-29
 expiryDate: 2026-09-10
 tags: ["politics", "polymarket"]
 polymarketYes: 60.0
