@@ -3,7 +3,7 @@ title: "Will Microsoft be the second-largest company in the world by market cap 
 description: "Will Microsoft be the second-largest company in the world by market cap on September 30? Odds: 0.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Microsoft be the second-largest company in the world by market cap on September 30?"
 category: "finance"
-status: "active"
+status: "settled"
 lastUpdated: 2026-08-29
 expiryDate: 2026-09-30
 tags: ["finance", "polymarket"]

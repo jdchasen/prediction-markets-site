@@ -1,23 +1,22 @@
 ---
-title: "Will the highest score achieved by a Google Gemini model on Humanity’s Last Exam in 2026 be 55% or higher?"
-description: "Will the highest score achieved by a Google Gemini model on Humanity’s Last Exam in 2026 be 55% or higher? Odds: 36.5% YES on Polymarket. See live prices and..."
-marketQuestion: "Will the highest score achieved by a Google Gemini model on Humanity’s Last Exam in 2026 be 55% or higher?"
+title: "Will VfB Stuttgart be the 2026-27 Bundesliga champion?"
+description: "Will VfB Stuttgart be the 2026-27 Bundesliga champion? Odds: 0.9% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will VfB Stuttgart be the 2026-27 Bundesliga champion?"
 category: "politics"
-status: "settled"
+status: "active"
 lastUpdated: 2026-08-29
-expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]
-polymarketYes: 36.5
-polymarketNo: 63.5
-polymarketVolume: 9869
-polymarketUrl: "https://polymarket.com/event/will-the-highest-score-achieved-by-a-google-gemini-model-on-humanitys-last-exam-in-2026-be-55-or-higher-20260723192605547"
+polymarketYes: 0.9
+polymarketNo: 99.2
+polymarketVolume: 9893
+polymarketUrl: "https://polymarket.com/event/will-vfb-stuttgart-be-the-2026-27-bundesliga-champion-20260708164840309"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 36.5% | 63.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.9% | 99.2% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +26,9 @@ polymarketUrl: "https://polymarket.com/event/will-the-highest-score-achieved-by-
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will the highest score achieved by a Google Gemini model on Humanity’s Last Exam in 2026 be 55% or higher?"?
+### What are the current odds for "Will VfB Stuttgart be the 2026-27 Bundesliga champion?"?
 
-As of August 29, 2026, Polymarket prices YES at 36.5%.
+As of August 29, 2026, Polymarket prices YES at 0.9%.
 
 ### Where can I trade on this prediction market?
 

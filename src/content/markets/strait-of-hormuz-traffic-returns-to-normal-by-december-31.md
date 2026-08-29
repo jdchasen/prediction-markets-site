@@ -9,7 +9,7 @@ expiryDate: 2026-12-31
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 31.5
 polymarketNo: 68.5
-polymarketVolume: 9884814
+polymarketVolume: 9944559
 polymarketUrl: "https://polymarket.com/event/strait-of-hormuz-traffic-returns-to-normal-by-december-31"
 ---
 
@@ -23,7 +23,7 @@ polymarketUrl: "https://polymarket.com/event/strait-of-hormuz-traffic-returns-to
 
 - [Will Donald Trump win the 2028 US Presidential Election?](/odds/will-donald-trump-win-the-2028-us-presidential-election) — 2% YES
 - [Will Tom Cotton win the 2028 Republican presidential nomination?](/odds/will-tom-cotton-win-the-2028-republican-presidential-nomination) — 0% YES
-- [Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?](/odds/will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-dec) — 10% YES
+- [Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?](/odds/will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-dec) — 13% YES
 
 ## Frequently Asked Questions
 

@@ -3,7 +3,7 @@ title: "No change in Bank of Mexico’s interest rates after November 2026 meeti
 description: "No change in Bank of Mexico’s interest rates after November 2026 meeting? Odds: 86.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "No change in Bank of Mexico’s interest rates after November 2026 meeting?"
 category: "economics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-08-29
 expiryDate: 2026-11-05
 tags: ["economics", "interest-rates", "polymarket"]

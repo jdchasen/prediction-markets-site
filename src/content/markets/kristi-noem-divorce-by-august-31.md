@@ -3,7 +3,7 @@ title: "Kristi Noem divorce by August 31?"
 description: "Kristi Noem divorce by August 31? Odds: 15.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Kristi Noem divorce by August 31?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-08-29
 expiryDate: 2026-09-01
 tags: ["politics", "polymarket"]

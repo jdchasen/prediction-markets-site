@@ -3,7 +3,7 @@ title: "Pittsburgh Pirates vs. St. Louis Cardinals"
 description: "Pittsburgh Pirates vs. St. Louis Cardinals Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Pittsburgh Pirates vs. St. Louis Cardinals"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-08-29
 expiryDate: 2026-09-05
 tags: ["politics", "polymarket"]

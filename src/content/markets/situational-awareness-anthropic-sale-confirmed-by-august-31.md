@@ -1,13 +1,13 @@
 ---
 title: "Situational Awareness Anthropic sale confirmed by August 31?"
-description: "Situational Awareness Anthropic sale confirmed by August 31? Odds: 3.5% YES on Polymarket. See live prices and trade this market."
+description: "Situational Awareness Anthropic sale confirmed by August 31? Odds: 2.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Situational Awareness Anthropic sale confirmed by August 31?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-29
 tags: ["politics", "polymarket"]
-polymarketYes: 3.5
-polymarketNo: 96.5
+polymarketYes: 2.9
+polymarketNo: 97.0
 polymarketVolume: 9918
 polymarketUrl: "https://polymarket.com/event/situational-awareness-anthropic-sale-confirmed-by-august-31-20260730182057663"
 ---
@@ -16,7 +16,7 @@ polymarketUrl: "https://polymarket.com/event/situational-awareness-anthropic-sal
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 3.5% | 96.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 2.9% | 97.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -28,7 +28,7 @@ polymarketUrl: "https://polymarket.com/event/situational-awareness-anthropic-sal
 
 ### What are the current odds for "Situational Awareness Anthropic sale confirmed by August 31?"?
 
-As of August 29, 2026, Polymarket prices YES at 3.5%.
+As of August 29, 2026, Polymarket prices YES at 2.9%.
 
 ### Where can I trade on this prediction market?
 

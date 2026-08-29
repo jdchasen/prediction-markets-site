@@ -9,7 +9,7 @@ expiryDate: 2026-09-13
 tags: ["politics", "polymarket"]
 polymarketYes: 0.1
 polymarketNo: 99.9
-polymarketVolume: 98515
+polymarketVolume: 99017
 polymarketUrl: "https://polymarket.com/event/will-anna-karin-hatt-be-the-next-prime-minister-of-sweden"
 ---
 

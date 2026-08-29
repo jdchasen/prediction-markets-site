@@ -21,9 +21,8 @@ polymarketUrl: "https://polymarket.com/event/will-mexico-gdp-growth-in-q3-2026-b
 
 ## Related Markets
 
-- [Will the Fed increase interest rates by 50+ bps after the September 2026 meeting?](/odds/will-the-fed-increase-interest-rates-by-50-bps-after-the-september-2026-meeting) — 1% YES
+- [Will the Fed increase interest rates by 50+ bps after the September 2026 meeting?](/odds/will-the-fed-increase-interest-rates-by-50-bps-after-the-september-2026-meeting) — 0% YES
 - [Will Canada’s 2026 inflation be between 2.5% and 2.9%?](/odds/will-canadas-2026-inflation-be-between-25-and-29) — 33% YES
-- [No change in Bank of Mexico’s interest rates after November 2026 meeting?](/odds/no-change-in-bank-of-mexicos-interest-rates-after-november-2026-meeting) — 86% YES
 
 ## Frequently Asked Questions
 

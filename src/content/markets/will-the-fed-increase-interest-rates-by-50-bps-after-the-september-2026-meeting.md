@@ -1,15 +1,15 @@
 ---
 title: "Will the Fed increase interest rates by 50+ bps after the September 2026 meeting?"
-description: "Will the Fed increase interest rates by 50+ bps after the September 2026 meeting? Odds: 0.7% YES on Polymarket. See live prices and trade this market."
+description: "Will the Fed increase interest rates by 50+ bps after the September 2026 meeting? Odds: 0.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Fed increase interest rates by 50+ bps after the September 2026 meeting?"
 category: "economics"
 status: "active"
 lastUpdated: 2026-08-29
 expiryDate: 2026-09-16
 tags: ["economics", "federal-reserve", "interest-rates", "polymarket"]
-polymarketYes: 0.7
-polymarketNo: 99.4
-polymarketVolume: 9797522
+polymarketYes: 0.5
+polymarketNo: 99.5
+polymarketVolume: 9959340
 polymarketUrl: "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-50-bps-after-the-september-2026-meeting-664"
 ---
 
@@ -17,19 +17,18 @@ polymarketUrl: "https://polymarket.com/event/will-the-fed-increase-interest-rate
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.7% | 99.4% | $9.8M | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.5% | 99.5% | $10.0M | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Mexico GDP growth in Q3 2026 be between 2.0% and 2.5%?](/odds/will-mexico-gdp-growth-in-q3-2026-be-between-20-and-25) — 30% YES
 - [Will Canada’s 2026 inflation be between 2.5% and 2.9%?](/odds/will-canadas-2026-inflation-be-between-25-and-29) — 33% YES
-- [No change in Bank of Mexico’s interest rates after November 2026 meeting?](/odds/no-change-in-bank-of-mexicos-interest-rates-after-november-2026-meeting) — 86% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will the Fed increase interest rates by 50+ bps after the September 2026 meeting?"?
 
-As of August 29, 2026, Polymarket prices YES at 0.7%.
+As of August 29, 2026, Polymarket prices YES at 0.5%.
 
 ### Where can I trade on this prediction market?
 

@@ -1,23 +1,23 @@
 ---
-title: "Will the Republican Party win the PA-13 House seat?"
-description: "Will the Republican Party win the PA-13 House seat? Odds: 97.7% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will the Republican Party win the PA-13 House seat?"
+title: "Will Ana Lilia Rivera Rivera win the 2027 Tlaxcala Governor Election?"
+description: "Will Ana Lilia Rivera Rivera win the 2027 Tlaxcala Governor Election? Odds: 59.0% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Ana Lilia Rivera Rivera win the 2027 Tlaxcala Governor Election?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-29
-expiryDate: 2026-11-03
-tags: ["politics", "polymarket"]
-polymarketYes: 97.7
-polymarketNo: 2.4
-polymarketVolume: 9885
-polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-pa-13-house-seat"
+expiryDate: 2027-06-06
+tags: ["elections", "politics", "polymarket"]
+polymarketYes: 59.0
+polymarketNo: 41.0
+polymarketVolume: 9917
+polymarketUrl: "https://polymarket.com/event/will-ana-lilia-rivera-rivera-win-the-2027-tlaxcala-governor-election-20260803173858358"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 97.7% | 2.4% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 59.0% | 41.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-p
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will the Republican Party win the PA-13 House seat?"?
+### What are the current odds for "Will Ana Lilia Rivera Rivera win the 2027 Tlaxcala Governor Election?"?
 
-As of August 29, 2026, Polymarket prices YES at 97.7%.
+As of August 29, 2026, Polymarket prices YES at 59.0%.
 
 ### Where can I trade on this prediction market?
 

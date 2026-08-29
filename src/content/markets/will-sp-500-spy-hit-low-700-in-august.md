@@ -3,7 +3,7 @@ title: "Will S&P 500 (SPY) hit (LOW) $700 in August?"
 description: "Will S&P 500 (SPY) hit (LOW) $700 in August? Odds: 0.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will S&P 500 (SPY) hit (LOW) $700 in August?"
 category: "finance"
-status: "active"
+status: "settled"
 lastUpdated: 2026-08-29
 expiryDate: 2026-09-01
 tags: ["finance", "polymarket", "stocks"]

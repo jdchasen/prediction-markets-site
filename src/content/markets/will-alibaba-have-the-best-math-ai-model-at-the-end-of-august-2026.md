@@ -3,7 +3,7 @@ title: "Will Alibaba have the best Math AI model at the end of August 2026?"
 description: "Will Alibaba have the best Math AI model at the end of August 2026? Odds: 0.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Alibaba have the best Math AI model at the end of August 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-08-29
 expiryDate: 2026-09-01
 tags: ["ai", "politics", "polymarket"]

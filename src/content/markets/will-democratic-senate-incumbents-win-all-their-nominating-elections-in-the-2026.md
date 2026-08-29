@@ -3,7 +3,7 @@ title: "Will Democratic Senate incumbents win all their nominating elections in 
 description: "Will Democratic Senate incumbents win all their nominating elections in the 2026 cycle? Odds: 96.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Democratic Senate incumbents win all their nominating elections in the 2026 cycle?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-08-29
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 96.5

@@ -3,7 +3,7 @@ title: "Will Bradley Barcola join Arsenal?"
 description: "Will Bradley Barcola join Arsenal? Odds: 0.6% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Bradley Barcola join Arsenal?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-08-29
 expiryDate: 2026-09-02
 tags: ["politics", "polymarket"]

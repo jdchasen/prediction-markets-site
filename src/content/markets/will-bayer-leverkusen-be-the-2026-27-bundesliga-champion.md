@@ -3,7 +3,7 @@ title: "Will Bayer Leverkusen be the 2026-27 Bundesliga champion?"
 description: "Will Bayer Leverkusen be the 2026-27 Bundesliga champion? Odds: 3.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Bayer Leverkusen be the 2026-27 Bundesliga champion?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-08-29
 tags: ["politics", "polymarket"]
 polymarketYes: 3.5

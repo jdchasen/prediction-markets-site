@@ -1,14 +1,14 @@
 ---
 title: "Will the Sweden Democrats (SD) win the third most seats in the 2026 Swedish parliamentary election?"
-description: "Will the Sweden Democrats (SD) win the third most seats in the 2026 Swedish parliamentary election? Odds: 32.0% YES on Polymarket. See live prices and trade ..."
+description: "Will the Sweden Democrats (SD) win the third most seats in the 2026 Swedish parliamentary election? Odds: 32.5% YES on Polymarket. See live prices and trade ..."
 marketQuestion: "Will the Sweden Democrats (SD) win the third most seats in the 2026 Swedish parliamentary election?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-29
 expiryDate: 2026-09-13
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 32.0
-polymarketNo: 68.0
+polymarketYes: 32.5
+polymarketNo: 67.5
 polymarketVolume: 9964
 polymarketUrl: "https://polymarket.com/event/will-the-sweden-democrats-sd-win-the-third-most-seats-in-the-2026-swedish-parliamentary-election"
 ---
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-sweden-democrats-sd-win-th
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 32.0% | 68.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 32.5% | 67.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-sweden-democrats-sd-win-th
 
 ### What are the current odds for "Will the Sweden Democrats (SD) win the third most seats in the 2026 Swedish parliamentary election?"?
 
-As of August 29, 2026, Polymarket prices YES at 32.0%.
+As of August 29, 2026, Polymarket prices YES at 32.5%.
 
 ### Where can I trade on this prediction market?
 
