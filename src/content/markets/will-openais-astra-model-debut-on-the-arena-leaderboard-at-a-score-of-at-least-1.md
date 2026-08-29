@@ -1,23 +1,22 @@
 ---
-title: "Will the Republican Party win the TX-15 House seat?"
-description: "Will the Republican Party win the TX-15 House seat? Odds: 43.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will the Republican Party win the TX-15 House seat?"
+title: "Will OpenAI’s Astra model debut on the Arena Leaderboard at a score of at least 1510?"
+description: "Will OpenAI’s Astra model debut on the Arena Leaderboard at a score of at least 1510? Odds: 9.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will OpenAI’s Astra model debut on the Arena Leaderboard at a score of at least 1510?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-29
-expiryDate: 2026-11-04
-tags: ["politics", "polymarket"]
-polymarketYes: 43.5
-polymarketNo: 56.5
-polymarketVolume: 9845
-polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-tx-15-house-seat"
+tags: ["ai", "politics", "polymarket"]
+polymarketYes: 9.5
+polymarketNo: 90.5
+polymarketVolume: 9950
+polymarketUrl: "https://polymarket.com/event/will-openais-astra-model-debut-on-the-arena-leaderboard-at-a-score-of-at-least-1510"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 43.5% | 56.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 9.5% | 90.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +26,9 @@ polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-t
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will the Republican Party win the TX-15 House seat?"?
+### What are the current odds for "Will OpenAI’s Astra model debut on the Arena Leaderboard at a score of at least 1510?"?
 
-As of August 29, 2026, Polymarket prices YES at 43.5%.
+As of August 29, 2026, Polymarket prices YES at 9.5%.
 
 ### Where can I trade on this prediction market?
 

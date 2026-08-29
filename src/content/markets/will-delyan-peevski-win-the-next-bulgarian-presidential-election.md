@@ -3,7 +3,7 @@ title: "Will Delyan Peevski win the next Bulgarian presidential election?"
 description: "Will Delyan Peevski win the next Bulgarian presidential election? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Delyan Peevski win the next Bulgarian presidential election?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-08-29
 expiryDate: 2026-11-30
 tags: ["elections", "politics", "polymarket"]

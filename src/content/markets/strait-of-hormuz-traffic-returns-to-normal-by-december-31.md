@@ -1,15 +1,15 @@
 ---
 title: "Strait of Hormuz traffic returns to normal by December 31?"
-description: "Strait of Hormuz traffic returns to normal by December 31? Odds: 31.5% YES on Polymarket. See live prices and trade this market."
+description: "Strait of Hormuz traffic returns to normal by December 31? Odds: 30.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Strait of Hormuz traffic returns to normal by December 31?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-29
 expiryDate: 2026-12-31
 tags: ["ai", "politics", "polymarket"]
-polymarketYes: 31.5
-polymarketNo: 68.5
-polymarketVolume: 9944559
+polymarketYes: 30.5
+polymarketNo: 69.5
+polymarketVolume: 9948409
 polymarketUrl: "https://polymarket.com/event/strait-of-hormuz-traffic-returns-to-normal-by-december-31"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/strait-of-hormuz-traffic-returns-to
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 31.5% | 68.5% | $9.9M | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 30.5% | 69.5% | $9.9M | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Donald Trump win the 2028 US Presidential Election?](/odds/will-donald-trump-win-the-2028-us-presidential-election) — 2% YES
 - [Will Tom Cotton win the 2028 Republican presidential nomination?](/odds/will-tom-cotton-win-the-2028-republican-presidential-nomination) — 0% YES
-- [Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?](/odds/will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-dec) — 13% YES
+- [Will Carlos Alcaraz win the 2026 Men's US Open?](/odds/will-carlos-alcaraz-win-the-2026-mens-us-open) — 26% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Strait of Hormuz traffic returns to normal by December 31?"?
 
-As of August 29, 2026, Polymarket prices YES at 31.5%.
+As of August 29, 2026, Polymarket prices YES at 30.5%.
 
 ### Where can I trade on this prediction market?
 

@@ -1,15 +1,15 @@
 ---
 title: "Will Ana Lilia Rivera Rivera win the 2027 Tlaxcala Governor Election?"
-description: "Will Ana Lilia Rivera Rivera win the 2027 Tlaxcala Governor Election? Odds: 59.0% YES on Polymarket. See live prices and trade this market."
+description: "Will Ana Lilia Rivera Rivera win the 2027 Tlaxcala Governor Election? Odds: 57.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Ana Lilia Rivera Rivera win the 2027 Tlaxcala Governor Election?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-29
 expiryDate: 2027-06-06
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 59.0
-polymarketNo: 41.0
-polymarketVolume: 9917
+polymarketYes: 57.7
+polymarketNo: 42.3
+polymarketVolume: 9967
 polymarketUrl: "https://polymarket.com/event/will-ana-lilia-rivera-rivera-win-the-2027-tlaxcala-governor-election-20260803173858358"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-ana-lilia-rivera-rivera-win-th
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 59.0% | 41.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 57.7% | 42.3% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Donald Trump win the 2028 US Presidential Election?](/odds/will-donald-trump-win-the-2028-us-presidential-election) — 2% YES
-- [Strait of Hormuz traffic returns to normal by December 31?](/odds/strait-of-hormuz-traffic-returns-to-normal-by-december-31) — 32% YES
+- [Strait of Hormuz traffic returns to normal by December 31?](/odds/strait-of-hormuz-traffic-returns-to-normal-by-december-31) — 30% YES
 - [Will Tom Cotton win the 2028 Republican presidential nomination?](/odds/will-tom-cotton-win-the-2028-republican-presidential-nomination) — 0% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Ana Lilia Rivera Rivera win the 2027 Tlaxcala Governor Election?"?
 
-As of August 29, 2026, Polymarket prices YES at 59.0%.
+As of August 29, 2026, Polymarket prices YES at 57.7%.
 
 ### Where can I trade on this prediction market?
 

@@ -1,15 +1,15 @@
 ---
 title: "Will Likud win 35 or more seats in the 2026 Israeli legislative election?"
-description: "Will Likud win 35 or more seats in the 2026 Israeli legislative election? Odds: 2.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Likud win 35 or more seats in the 2026 Israeli legislative election? Odds: 4.6% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Likud win 35 or more seats in the 2026 Israeli legislative election?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-29
 expiryDate: 2026-10-27
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 2.5
-polymarketNo: 97.5
-polymarketVolume: 9872
+polymarketYes: 4.6
+polymarketNo: 95.4
+polymarketVolume: 9917
 polymarketUrl: "https://polymarket.com/event/will-likud-win-35-or-more-seats-in-the-2026-israeli-legislative-election"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-likud-win-35-or-more-seats-in-
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 2.5% | 97.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 4.6% | 95.4% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Donald Trump win the 2028 US Presidential Election?](/odds/will-donald-trump-win-the-2028-us-presidential-election) — 2% YES
-- [Strait of Hormuz traffic returns to normal by December 31?](/odds/strait-of-hormuz-traffic-returns-to-normal-by-december-31) — 32% YES
+- [Strait of Hormuz traffic returns to normal by December 31?](/odds/strait-of-hormuz-traffic-returns-to-normal-by-december-31) — 30% YES
 - [Will Tom Cotton win the 2028 Republican presidential nomination?](/odds/will-tom-cotton-win-the-2028-republican-presidential-nomination) — 0% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Likud win 35 or more seats in the 2026 Israeli legislative election?"?
 
-As of August 29, 2026, Polymarket prices YES at 2.5%.
+As of August 29, 2026, Polymarket prices YES at 4.6%.
 
 ### Where can I trade on this prediction market?
 

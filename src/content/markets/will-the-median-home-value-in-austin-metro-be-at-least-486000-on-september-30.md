@@ -1,23 +1,23 @@
 ---
-title: "Will the Republican Party win the TX-15 House seat?"
-description: "Will the Republican Party win the TX-15 House seat? Odds: 43.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will the Republican Party win the TX-15 House seat?"
+title: "Will the median home value in Austin Metro be at least $486,000 on September 30?"
+description: "Will the median home value in Austin Metro be at least $486,000 on September 30? Odds: 1.8% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will the median home value in Austin Metro be at least $486,000 on September 30?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-29
-expiryDate: 2026-11-04
+expiryDate: 2026-09-30
 tags: ["politics", "polymarket"]
-polymarketYes: 43.5
-polymarketNo: 56.5
-polymarketVolume: 9845
-polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-tx-15-house-seat"
+polymarketYes: 1.8
+polymarketNo: 98.2
+polymarketVolume: 9891
+polymarketUrl: "https://polymarket.com/event/will-the-median-home-value-in-austin-metro-be-at-least-486000-on-september-30-20260630180633314"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 43.5% | 56.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 1.8% | 98.2% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-t
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will the Republican Party win the TX-15 House seat?"?
+### What are the current odds for "Will the median home value in Austin Metro be at least $486,000 on September 30?"?
 
-As of August 29, 2026, Polymarket prices YES at 43.5%.
+As of August 29, 2026, Polymarket prices YES at 1.8%.
 
 ### Where can I trade on this prediction market?
 

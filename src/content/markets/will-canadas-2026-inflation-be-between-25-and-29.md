@@ -1,14 +1,14 @@
 ---
 title: "Will Canada’s 2026 inflation be between 2.5% and 2.9%?"
-description: "Will Canada’s 2026 inflation be between 2.5% and 2.9%? Odds: 33.4% YES on Polymarket. See live prices and trade this market."
+description: "Will Canada’s 2026 inflation be between 2.5% and 2.9%? Odds: 33.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Canada’s 2026 inflation be between 2.5% and 2.9%?"
 category: "economics"
 status: "active"
 lastUpdated: 2026-08-29
 expiryDate: 2027-01-18
 tags: ["economics", "polymarket", "sports"]
-polymarketYes: 33.4
-polymarketNo: 66.6
+polymarketYes: 33.7
+polymarketNo: 66.3
 polymarketVolume: 9823
 polymarketUrl: "https://polymarket.com/event/will-canadas-2026-inflation-be-between-2pt5-and-2pt9"
 ---
@@ -17,18 +17,17 @@ polymarketUrl: "https://polymarket.com/event/will-canadas-2026-inflation-be-betw
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 33.4% | 66.6% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 33.7% | 66.3% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will the Fed increase interest rates by 50+ bps after the September 2026 meeting?](/odds/will-the-fed-increase-interest-rates-by-50-bps-after-the-september-2026-meeting) — 0% YES
-- [Will Mexico GDP growth in Q3 2026 be between 2.0% and 2.5%?](/odds/will-mexico-gdp-growth-in-q3-2026-be-between-20-and-25) — 30% YES
+- [Will Mexico GDP growth in Q3 2026 be between 2.0% and 2.5%?](/odds/will-mexico-gdp-growth-in-q3-2026-be-between-20-and-25) — 32% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Canada’s 2026 inflation be between 2.5% and 2.9%?"?
 
-As of August 29, 2026, Polymarket prices YES at 33.4%.
+As of August 29, 2026, Polymarket prices YES at 33.7%.
 
 ### Where can I trade on this prediction market?
 

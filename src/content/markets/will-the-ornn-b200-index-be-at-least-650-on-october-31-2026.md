@@ -1,23 +1,23 @@
 ---
-title: "Will Alibaba be the second-best Code Arena | WebDev AI lab at the end of September 2026?"
-description: "Will Alibaba be the second-best Code Arena | WebDev AI lab at the end of September 2026? Odds: 35.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Alibaba be the second-best Code Arena | WebDev AI lab at the end of September 2026?"
+title: "Will the Ornn B200 Index be at least $6.50 on October 31, 2026?"
+description: "Will the Ornn B200 Index be at least $6.50 on October 31, 2026? Odds: 38.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will the Ornn B200 Index be at least $6.50 on October 31, 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-29
-expiryDate: 2026-10-01
-tags: ["ai", "politics", "polymarket"]
-polymarketYes: 35.5
-polymarketNo: 64.5
-polymarketVolume: 9854
-polymarketUrl: "https://polymarket.com/event/will-alibaba-be-the-second-best-code-arena-webdev-ai-lab-at-the-end-of-september-2026-20260722215814735"
+expiryDate: 2026-10-31
+tags: ["politics", "polymarket"]
+polymarketYes: 38.5
+polymarketNo: 61.5
+polymarketVolume: 9843
+polymarketUrl: "https://polymarket.com/event/will-the-ornn-b200-index-be-at-least-6pt50-on-october-31-2026-20260811191113943"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 35.5% | 64.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 38.5% | 61.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-alibaba-be-the-second-best-cod
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Alibaba be the second-best Code Arena | WebDev AI lab at the end of September 2026?"?
+### What are the current odds for "Will the Ornn B200 Index be at least $6.50 on October 31, 2026?"?
 
-As of August 29, 2026, Polymarket prices YES at 35.5%.
+As of August 29, 2026, Polymarket prices YES at 38.5%.
 
 ### Where can I trade on this prediction market?
 

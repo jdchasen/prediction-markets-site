@@ -3,7 +3,7 @@ title: "Will Enzo Fernandez join Manchester City?"
 description: "Will Enzo Fernandez join Manchester City? Odds: 83.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Enzo Fernandez join Manchester City?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-08-29
 expiryDate: 2026-09-02
 tags: ["politics", "polymarket"]

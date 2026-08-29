@@ -1,23 +1,23 @@
 ---
-title: "Will the Republican Party win the TX-15 House seat?"
-description: "Will the Republican Party win the TX-15 House seat? Odds: 43.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will the Republican Party win the TX-15 House seat?"
+title: "Will Natalie Harp be the next White House Press Secretary?"
+description: "Will Natalie Harp be the next White House Press Secretary? Odds: 3.0% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Natalie Harp be the next White House Press Secretary?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-29
-expiryDate: 2026-11-04
+expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 43.5
-polymarketNo: 56.5
-polymarketVolume: 9845
-polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-tx-15-house-seat"
+polymarketYes: 3.0
+polymarketNo: 97.0
+polymarketVolume: 9938
+polymarketUrl: "https://polymarket.com/event/will-natalie-harp-be-the-next-white-house-press-secretary"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 43.5% | 56.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 3.0% | 97.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-t
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will the Republican Party win the TX-15 House seat?"?
+### What are the current odds for "Will Natalie Harp be the next White House Press Secretary?"?
 
-As of August 29, 2026, Polymarket prices YES at 43.5%.
+As of August 29, 2026, Polymarket prices YES at 3.0%.
 
 ### Where can I trade on this prediction market?
 

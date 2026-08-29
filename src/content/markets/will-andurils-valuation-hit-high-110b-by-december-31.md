@@ -1,14 +1,14 @@
 ---
 title: "Will Anduril's valuation hit (HIGH) $110B by December 31?"
-description: "Will Anduril's valuation hit (HIGH) $110B by December 31? Odds: 94.0% YES on Polymarket. See live prices and trade this market."
+description: "Will Anduril's valuation hit (HIGH) $110B by December 31? Odds: 96.3% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Anduril's valuation hit (HIGH) $110B by December 31?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-29
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]
-polymarketYes: 94.0
-polymarketNo: 6.0
+polymarketYes: 96.3
+polymarketNo: 3.7
 polymarketVolume: 9855
 polymarketUrl: "https://polymarket.com/event/will-andurils-valuation-hit-high-110b-by-december-31"
 ---
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-andurils-valuation-hit-high-11
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 94.0% | 6.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 96.3% | 3.7% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Donald Trump win the 2028 US Presidential Election?](/odds/will-donald-trump-win-the-2028-us-presidential-election) — 2% YES
-- [Strait of Hormuz traffic returns to normal by December 31?](/odds/strait-of-hormuz-traffic-returns-to-normal-by-december-31) — 32% YES
+- [Strait of Hormuz traffic returns to normal by December 31?](/odds/strait-of-hormuz-traffic-returns-to-normal-by-december-31) — 30% YES
 - [Will Tom Cotton win the 2028 Republican presidential nomination?](/odds/will-tom-cotton-win-the-2028-republican-presidential-nomination) — 0% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Anduril's valuation hit (HIGH) $110B by December 31?"?
 
-As of August 29, 2026, Polymarket prices YES at 94.0%.
+As of August 29, 2026, Polymarket prices YES at 96.3%.
 
 ### Where can I trade on this prediction market?
 

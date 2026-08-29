@@ -22,8 +22,8 @@ polymarketUrl: "https://polymarket.com/event/will-tom-cotton-win-the-2028-republ
 ## Related Markets
 
 - [Will Donald Trump win the 2028 US Presidential Election?](/odds/will-donald-trump-win-the-2028-us-presidential-election) — 2% YES
-- [Strait of Hormuz traffic returns to normal by December 31?](/odds/strait-of-hormuz-traffic-returns-to-normal-by-december-31) — 32% YES
-- [Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?](/odds/will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-dec) — 13% YES
+- [Strait of Hormuz traffic returns to normal by December 31?](/odds/strait-of-hormuz-traffic-returns-to-normal-by-december-31) — 30% YES
+- [Will Carlos Alcaraz win the 2026 Men's US Open?](/odds/will-carlos-alcaraz-win-the-2026-mens-us-open) — 26% YES
 
 ## Frequently Asked Questions
 

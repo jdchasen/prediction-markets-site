@@ -1,23 +1,23 @@
 ---
-title: "Will the Republican Party win the TX-15 House seat?"
-description: "Will the Republican Party win the TX-15 House seat? Odds: 43.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will the Republican Party win the TX-15 House seat?"
+title: "Will Anthropic's public ticker be $ANT?"
+description: "Will Anthropic's public ticker be $ANT? Odds: 22.7% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Anthropic's public ticker be $ANT?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-29
-expiryDate: 2026-11-04
+expiryDate: 2027-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 43.5
-polymarketNo: 56.5
-polymarketVolume: 9845
-polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-tx-15-house-seat"
+polymarketYes: 22.7
+polymarketNo: 77.3
+polymarketVolume: 9843
+polymarketUrl: "https://polymarket.com/event/will-anthropics-public-ticker-be-ant"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 43.5% | 56.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 22.7% | 77.3% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-t
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will the Republican Party win the TX-15 House seat?"?
+### What are the current odds for "Will Anthropic's public ticker be $ANT?"?
 
-As of August 29, 2026, Polymarket prices YES at 43.5%.
+As of August 29, 2026, Polymarket prices YES at 22.7%.
 
 ### Where can I trade on this prediction market?
 

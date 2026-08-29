@@ -3,7 +3,7 @@ title: "Indiana lions in custody by September 4, 2026 11:59 PM ET?"
 description: "Indiana lions in custody by September 4, 2026 11:59 PM ET? Odds: 0.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Indiana lions in custody by September 4, 2026 11:59 PM ET?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-08-29
 expiryDate: 2026-09-04
 tags: ["politics", "polymarket"]

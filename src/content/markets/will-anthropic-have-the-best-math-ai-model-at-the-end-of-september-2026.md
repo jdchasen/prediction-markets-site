@@ -3,7 +3,7 @@ title: "Will Anthropic have the best Math AI model at the end of September 2026?
 description: "Will Anthropic have the best Math AI model at the end of September 2026? Odds: 91.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Anthropic have the best Math AI model at the end of September 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-08-29
 expiryDate: 2026-10-01
 tags: ["ai", "politics", "polymarket"]
