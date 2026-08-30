@@ -3,8 +3,8 @@ title: "Will Carlos Alcaraz win the 2026 Men's US Open?"
 description: "Will Carlos Alcaraz win the 2026 Men's US Open? Odds: 25.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Carlos Alcaraz win the 2026 Men's US Open?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-08-29
+status: "settled"
+lastUpdated: 2026-08-30
 expiryDate: 2026-09-13
 tags: ["politics", "polymarket"]
 polymarketYes: 25.5

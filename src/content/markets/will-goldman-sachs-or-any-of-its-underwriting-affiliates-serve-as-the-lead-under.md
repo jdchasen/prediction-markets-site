@@ -1,15 +1,15 @@
 ---
 title: "Will Goldman Sachs or any of its underwriting affiliates serve as the lead underwriter in OpenAI's initial public offering?"
-description: "Will Goldman Sachs or any of its underwriting affiliates serve as the lead underwriter in OpenAI's initial public offering? Odds: 66.5% YES on Polymarket. Se..."
+description: "Will Goldman Sachs or any of its underwriting affiliates serve as the lead underwriter in OpenAI's initial public offering? Odds: 68.5% YES on Polymarket. Se..."
 marketQuestion: "Will Goldman Sachs or any of its underwriting affiliates serve as the lead underwriter in OpenAI's initial public offering?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-08-29
+lastUpdated: 2026-08-30
 expiryDate: 2027-12-31
 tags: ["ai", "politics", "polymarket"]
-polymarketYes: 66.5
-polymarketNo: 33.5
-polymarketVolume: 9872
+polymarketYes: 68.5
+polymarketNo: 31.5
+polymarketVolume: 9947
 polymarketUrl: "https://polymarket.com/event/will-goldman-sachs-or-any-of-its-underwriting-affiliates-serve-as-the-lead-underwriter-in-openais-initial-public-offering"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-goldman-sachs-or-any-of-its-un
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 66.5% | 33.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 68.5% | 31.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Donald Trump win the 2028 US Presidential Election?](/odds/will-donald-trump-win-the-2028-us-presidential-election) — 2% YES
 - [Strait of Hormuz traffic returns to normal by December 31?](/odds/strait-of-hormuz-traffic-returns-to-normal-by-december-31) — 30% YES
+- [Will Donald Trump win the 2028 US Presidential Election?](/odds/will-donald-trump-win-the-2028-us-presidential-election) — 2% YES
 - [Will Tom Cotton win the 2028 Republican presidential nomination?](/odds/will-tom-cotton-win-the-2028-republican-presidential-nomination) — 0% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Goldman Sachs or any of its underwriting affiliates serve as the lead underwriter in OpenAI's initial public offering?"?
 
-As of August 29, 2026, Polymarket prices YES at 66.5%.
+As of August 30, 2026, Polymarket prices YES at 68.5%.
 
 ### Where can I trade on this prediction market?
 

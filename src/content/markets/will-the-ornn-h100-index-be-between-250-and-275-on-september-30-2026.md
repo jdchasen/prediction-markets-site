@@ -1,23 +1,23 @@
 ---
-title: "Will the Sweden Democrats (SD) win the third most seats in the 2026 Swedish parliamentary election?"
-description: "Will the Sweden Democrats (SD) win the third most seats in the 2026 Swedish parliamentary election? Odds: 32.5% YES on Polymarket. See live prices and trade ..."
-marketQuestion: "Will the Sweden Democrats (SD) win the third most seats in the 2026 Swedish parliamentary election?"
+title: "Will the Ornn H100 Index be between $2.50 and $2.75 on September 30, 2026?"
+description: "Will the Ornn H100 Index be between $2.50 and $2.75 on September 30, 2026? Odds: 19.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will the Ornn H100 Index be between $2.50 and $2.75 on September 30, 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-30
-expiryDate: 2026-09-13
-tags: ["elections", "politics", "polymarket"]
-polymarketYes: 32.5
-polymarketNo: 67.5
-polymarketVolume: 9964
-polymarketUrl: "https://polymarket.com/event/will-the-sweden-democrats-sd-win-the-third-most-seats-in-the-2026-swedish-parliamentary-election"
+expiryDate: 2026-09-30
+tags: ["politics", "polymarket"]
+polymarketYes: 19.5
+polymarketNo: 80.5
+polymarketVolume: 9915
+polymarketUrl: "https://polymarket.com/event/will-the-ornn-h100-index-be-between-2pt50-and-2pt75-on-september-30-2026-1785423806294"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 32.5% | 67.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 19.5% | 80.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-the-sweden-democrats-sd-win-th
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will the Sweden Democrats (SD) win the third most seats in the 2026 Swedish parliamentary election?"?
+### What are the current odds for "Will the Ornn H100 Index be between $2.50 and $2.75 on September 30, 2026?"?
 
-As of August 30, 2026, Polymarket prices YES at 32.5%.
+As of August 30, 2026, Polymarket prices YES at 19.5%.
 
 ### Where can I trade on this prediction market?
 

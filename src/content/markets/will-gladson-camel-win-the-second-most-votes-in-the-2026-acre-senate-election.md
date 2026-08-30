@@ -1,23 +1,23 @@
 ---
-title: "Will the Sweden Democrats (SD) win the third most seats in the 2026 Swedish parliamentary election?"
-description: "Will the Sweden Democrats (SD) win the third most seats in the 2026 Swedish parliamentary election? Odds: 32.5% YES on Polymarket. See live prices and trade ..."
-marketQuestion: "Will the Sweden Democrats (SD) win the third most seats in the 2026 Swedish parliamentary election?"
+title: "Will Gladson Camelí win the second-most votes in the 2026 Acre Senate election?"
+description: "Will Gladson Camelí win the second-most votes in the 2026 Acre Senate election? Odds: 14.0% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Gladson Camelí win the second-most votes in the 2026 Acre Senate election?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-30
-expiryDate: 2026-09-13
+expiryDate: 2026-10-04
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 32.5
-polymarketNo: 67.5
-polymarketVolume: 9964
-polymarketUrl: "https://polymarket.com/event/will-the-sweden-democrats-sd-win-the-third-most-seats-in-the-2026-swedish-parliamentary-election"
+polymarketYes: 14.0
+polymarketNo: 86.0
+polymarketVolume: 9961
+polymarketUrl: "https://polymarket.com/event/will-gladson-cameli-win-the-second-most-votes-in-the-2026-acre-senate-election"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 32.5% | 67.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 14.0% | 86.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-the-sweden-democrats-sd-win-th
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will the Sweden Democrats (SD) win the third most seats in the 2026 Swedish parliamentary election?"?
+### What are the current odds for "Will Gladson Camelí win the second-most votes in the 2026 Acre Senate election?"?
 
-As of August 30, 2026, Polymarket prices YES at 32.5%.
+As of August 30, 2026, Polymarket prices YES at 14.0%.
 
 ### Where can I trade on this prediction market?
 

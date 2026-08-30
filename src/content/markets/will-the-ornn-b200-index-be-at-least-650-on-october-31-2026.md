@@ -3,8 +3,8 @@ title: "Will the Ornn B200 Index be at least $6.50 on October 31, 2026?"
 description: "Will the Ornn B200 Index be at least $6.50 on October 31, 2026? Odds: 38.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Ornn B200 Index be at least $6.50 on October 31, 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-08-29
+status: "settled"
+lastUpdated: 2026-08-30
 expiryDate: 2026-10-31
 tags: ["politics", "polymarket"]
 polymarketYes: 38.5

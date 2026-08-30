@@ -3,8 +3,8 @@ title: "Will Ana Lilia Rivera Rivera win the 2027 Tlaxcala Governor Election?"
 description: "Will Ana Lilia Rivera Rivera win the 2027 Tlaxcala Governor Election? Odds: 57.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Ana Lilia Rivera Rivera win the 2027 Tlaxcala Governor Election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-08-29
+status: "settled"
+lastUpdated: 2026-08-30
 expiryDate: 2027-06-06
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 57.7

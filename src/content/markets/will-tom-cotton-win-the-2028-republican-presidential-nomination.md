@@ -4,7 +4,7 @@ description: "Will Tom Cotton win the 2028 Republican presidential nomination? O
 marketQuestion: "Will Tom Cotton win the 2028 Republican presidential nomination?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-08-29
+lastUpdated: 2026-08-30
 expiryDate: 2028-11-07
 tags: ["politics", "polymarket"]
 polymarketYes: 0.1
@@ -21,15 +21,15 @@ polymarketUrl: "https://polymarket.com/event/will-tom-cotton-win-the-2028-republ
 
 ## Related Markets
 
-- [Will Donald Trump win the 2028 US Presidential Election?](/odds/will-donald-trump-win-the-2028-us-presidential-election) — 2% YES
 - [Strait of Hormuz traffic returns to normal by December 31?](/odds/strait-of-hormuz-traffic-returns-to-normal-by-december-31) — 30% YES
-- [Will Carlos Alcaraz win the 2026 Men's US Open?](/odds/will-carlos-alcaraz-win-the-2026-mens-us-open) — 26% YES
+- [Will Donald Trump win the 2028 US Presidential Election?](/odds/will-donald-trump-win-the-2028-us-presidential-election) — 2% YES
+- [Will the Democrats win the 2028 US Presidential Election?](/odds/will-the-democrats-win-the-2028-us-presidential-election) — 58% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Tom Cotton win the 2028 Republican presidential nomination?"?
 
-As of August 29, 2026, Polymarket prices YES at 0.1%.
+As of August 30, 2026, Polymarket prices YES at 0.1%.
 
 ### Where can I trade on this prediction market?
 

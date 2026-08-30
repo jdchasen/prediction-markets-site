@@ -1,23 +1,22 @@
 ---
-title: "Will the Sweden Democrats (SD) win the third most seats in the 2026 Swedish parliamentary election?"
-description: "Will the Sweden Democrats (SD) win the third most seats in the 2026 Swedish parliamentary election? Odds: 32.5% YES on Polymarket. See live prices and trade ..."
-marketQuestion: "Will the Sweden Democrats (SD) win the third most seats in the 2026 Swedish parliamentary election?"
+title: "Will TSG Hoffenheim be the 2026-27 Bundesliga champion?"
+description: "Will TSG Hoffenheim be the 2026-27 Bundesliga champion? Odds: 0.2% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will TSG Hoffenheim be the 2026-27 Bundesliga champion?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-30
-expiryDate: 2026-09-13
-tags: ["elections", "politics", "polymarket"]
-polymarketYes: 32.5
-polymarketNo: 67.5
-polymarketVolume: 9964
-polymarketUrl: "https://polymarket.com/event/will-the-sweden-democrats-sd-win-the-third-most-seats-in-the-2026-swedish-parliamentary-election"
+tags: ["politics", "polymarket"]
+polymarketYes: 0.2
+polymarketNo: 99.8
+polymarketVolume: 9850
+polymarketUrl: "https://polymarket.com/event/will-tsg-hoffenheim-be-the-2026-27-bundesliga-champion-20260708164840310"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 32.5% | 67.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.2% | 99.8% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +26,9 @@ polymarketUrl: "https://polymarket.com/event/will-the-sweden-democrats-sd-win-th
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will the Sweden Democrats (SD) win the third most seats in the 2026 Swedish parliamentary election?"?
+### What are the current odds for "Will TSG Hoffenheim be the 2026-27 Bundesliga champion?"?
 
-As of August 30, 2026, Polymarket prices YES at 32.5%.
+As of August 30, 2026, Polymarket prices YES at 0.2%.
 
 ### Where can I trade on this prediction market?
 

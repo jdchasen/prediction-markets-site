@@ -3,8 +3,8 @@ title: "Will Bernard Cazeneuve be on the ballot for the 2027 French presidential
 description: "Will Bernard Cazeneuve be on the ballot for the 2027 French presidential election? Odds: 10.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Bernard Cazeneuve be on the ballot for the 2027 French presidential election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-08-29
+status: "settled"
+lastUpdated: 2026-08-30
 expiryDate: 2027-04-17
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 10.8

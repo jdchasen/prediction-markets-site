@@ -1,15 +1,15 @@
 ---
 title: "US-Iran Hormuz Agreement by September 15?"
-description: "US-Iran Hormuz Agreement by September 15? Odds: 4.5% YES on Polymarket. See live prices and trade this market."
+description: "US-Iran Hormuz Agreement by September 15? Odds: 5.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "US-Iran Hormuz Agreement by September 15?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-08-29
+lastUpdated: 2026-08-30
 expiryDate: 2026-09-16
 tags: ["politics", "polymarket"]
-polymarketYes: 4.5
-polymarketNo: 95.5
-polymarketVolume: 99423
+polymarketYes: 5.0
+polymarketNo: 95.0
+polymarketVolume: 99706
 polymarketUrl: "https://polymarket.com/event/us-iran-hormuz-agreement-by-september-15"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/us-iran-hormuz-agreement-by-septemb
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 4.5% | 95.5% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 5.0% | 95.0% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Donald Trump win the 2028 US Presidential Election?](/odds/will-donald-trump-win-the-2028-us-presidential-election) — 2% YES
 - [Strait of Hormuz traffic returns to normal by December 31?](/odds/strait-of-hormuz-traffic-returns-to-normal-by-december-31) — 30% YES
+- [Will Donald Trump win the 2028 US Presidential Election?](/odds/will-donald-trump-win-the-2028-us-presidential-election) — 2% YES
 - [Will Tom Cotton win the 2028 Republican presidential nomination?](/odds/will-tom-cotton-win-the-2028-republican-presidential-nomination) — 0% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "US-Iran Hormuz Agreement by September 15?"?
 
-As of August 29, 2026, Polymarket prices YES at 4.5%.
+As of August 30, 2026, Polymarket prices YES at 5.0%.
 
 ### Where can I trade on this prediction market?
 

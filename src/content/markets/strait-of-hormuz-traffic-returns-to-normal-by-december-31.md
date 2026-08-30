@@ -1,15 +1,15 @@
 ---
 title: "Strait of Hormuz traffic returns to normal by December 31?"
-description: "Strait of Hormuz traffic returns to normal by December 31? Odds: 30.5% YES on Polymarket. See live prices and trade this market."
+description: "Strait of Hormuz traffic returns to normal by December 31? Odds: 29.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Strait of Hormuz traffic returns to normal by December 31?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-08-29
+lastUpdated: 2026-08-30
 expiryDate: 2026-12-31
 tags: ["ai", "politics", "polymarket"]
-polymarketYes: 30.5
-polymarketNo: 69.5
-polymarketVolume: 9948409
+polymarketYes: 29.5
+polymarketNo: 70.5
+polymarketVolume: 9980947
 polymarketUrl: "https://polymarket.com/event/strait-of-hormuz-traffic-returns-to-normal-by-december-31"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/strait-of-hormuz-traffic-returns-to
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 30.5% | 69.5% | $9.9M | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 29.5% | 70.5% | $10.0M | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Donald Trump win the 2028 US Presidential Election?](/odds/will-donald-trump-win-the-2028-us-presidential-election) — 2% YES
 - [Will Tom Cotton win the 2028 Republican presidential nomination?](/odds/will-tom-cotton-win-the-2028-republican-presidential-nomination) — 0% YES
-- [Will Carlos Alcaraz win the 2026 Men's US Open?](/odds/will-carlos-alcaraz-win-the-2026-mens-us-open) — 26% YES
+- [Will the Democrats win the 2028 US Presidential Election?](/odds/will-the-democrats-win-the-2028-us-presidential-election) — 58% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Strait of Hormuz traffic returns to normal by December 31?"?
 
-As of August 29, 2026, Polymarket prices YES at 30.5%.
+As of August 30, 2026, Polymarket prices YES at 29.5%.
 
 ### Where can I trade on this prediction market?
 

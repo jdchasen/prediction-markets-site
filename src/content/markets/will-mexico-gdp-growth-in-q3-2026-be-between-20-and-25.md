@@ -4,7 +4,7 @@ description: "Will Mexico GDP growth in Q3 2026 be between 2.0% and 2.5%? Odds: 
 marketQuestion: "Will Mexico GDP growth in Q3 2026 be between 2.0% and 2.5%?"
 category: "economics"
 status: "active"
-lastUpdated: 2026-08-29
+lastUpdated: 2026-08-30
 expiryDate: 2026-10-30
 tags: ["economics", "polymarket"]
 polymarketYes: 31.5
@@ -21,13 +21,13 @@ polymarketUrl: "https://polymarket.com/event/will-mexico-gdp-growth-in-q3-2026-b
 
 ## Related Markets
 
-- [Will Canada’s 2026 inflation be between 2.5% and 2.9%?](/odds/will-canadas-2026-inflation-be-between-25-and-29) — 34% YES
+- [Will Canada’s 2026 inflation be between 2.5% and 2.9%?](/odds/will-canadas-2026-inflation-be-between-25-and-29) — 33% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Mexico GDP growth in Q3 2026 be between 2.0% and 2.5%?"?
 
-As of August 29, 2026, Polymarket prices YES at 31.5%.
+As of August 30, 2026, Polymarket prices YES at 31.5%.
 
 ### Where can I trade on this prediction market?
 
