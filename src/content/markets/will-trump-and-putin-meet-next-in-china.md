@@ -9,7 +9,7 @@ expiryDate: 2027-01-01
 tags: ["politics", "polymarket", "trump"]
 polymarketYes: 40.5
 polymarketNo: 59.5
-polymarketVolume: 98612
+polymarketVolume: 98874
 polymarketUrl: "https://polymarket.com/event/will-trump-and-putin-meet-next-in-china-784"
 ---
 
@@ -21,9 +21,9 @@ polymarketUrl: "https://polymarket.com/event/will-trump-and-putin-meet-next-in-c
 
 ## Related Markets
 
-- [Strait of Hormuz traffic returns to normal by December 31?](/odds/strait-of-hormuz-traffic-returns-to-normal-by-december-31) — 30% YES
 - [Will Donald Trump win the 2028 US Presidential Election?](/odds/will-donald-trump-win-the-2028-us-presidential-election) — 2% YES
 - [Will Tom Cotton win the 2028 Republican presidential nomination?](/odds/will-tom-cotton-win-the-2028-republican-presidential-nomination) — 0% YES
+- [Will the Democrats win the 2028 US Presidential Election?](/odds/will-the-democrats-win-the-2028-us-presidential-election) — 58% YES
 
 ## Frequently Asked Questions
 

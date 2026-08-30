@@ -3,7 +3,7 @@ title: "Will Goldman Sachs or any of its underwriting affiliates serve as the le
 description: "Will Goldman Sachs or any of its underwriting affiliates serve as the lead underwriter in OpenAI's initial public offering? Odds: 68.5% YES on Polymarket. Se..."
 marketQuestion: "Will Goldman Sachs or any of its underwriting affiliates serve as the lead underwriter in OpenAI's initial public offering?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-08-30
 expiryDate: 2027-12-31
 tags: ["ai", "politics", "polymarket"]

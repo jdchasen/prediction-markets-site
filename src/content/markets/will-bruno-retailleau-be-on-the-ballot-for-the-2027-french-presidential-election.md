@@ -1,23 +1,23 @@
 ---
-title: "Will Anduril's valuation hit (HIGH) $110B by December 31?"
-description: "Will Anduril's valuation hit (HIGH) $110B by December 31? Odds: 96.0% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Anduril's valuation hit (HIGH) $110B by December 31?"
+title: "Will Bruno Retailleau be on the ballot for the 2027 French presidential election?"
+description: "Will Bruno Retailleau be on the ballot for the 2027 French presidential election? Odds: 76.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Bruno Retailleau be on the ballot for the 2027 French presidential election?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-30
-expiryDate: 2027-01-01
-tags: ["politics", "polymarket"]
-polymarketYes: 96.0
-polymarketNo: 4.0
-polymarketVolume: 9855
-polymarketUrl: "https://polymarket.com/event/will-andurils-valuation-hit-high-110b-by-december-31"
+expiryDate: 2027-04-17
+tags: ["ai", "elections", "politics", "polymarket"]
+polymarketYes: 76.5
+polymarketNo: 23.5
+polymarketVolume: 9851
+polymarketUrl: "https://polymarket.com/event/will-bruno-retailleau-be-on-the-ballot-for-the-2027-french-presidential-election"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 96.0% | 4.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 76.5% | 23.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-andurils-valuation-hit-high-11
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Anduril's valuation hit (HIGH) $110B by December 31?"?
+### What are the current odds for "Will Bruno Retailleau be on the ballot for the 2027 French presidential election?"?
 
-As of August 30, 2026, Polymarket prices YES at 96.0%.
+As of August 30, 2026, Polymarket prices YES at 76.5%.
 
 ### Where can I trade on this prediction market?
 

@@ -3,7 +3,7 @@ title: "Strait of Hormuz traffic returns to normal by December 31?"
 description: "Strait of Hormuz traffic returns to normal by December 31? Odds: 29.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Strait of Hormuz traffic returns to normal by December 31?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-08-30
 expiryDate: 2026-12-31
 tags: ["ai", "politics", "polymarket"]

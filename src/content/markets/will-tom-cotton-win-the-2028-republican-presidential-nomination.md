@@ -9,7 +9,7 @@ expiryDate: 2028-11-07
 tags: ["politics", "polymarket"]
 polymarketYes: 0.1
 polymarketNo: 99.9
-polymarketVolume: 997229
+polymarketVolume: 997238
 polymarketUrl: "https://polymarket.com/event/will-tom-cotton-win-the-2028-republican-presidential-nomination"
 ---
 
@@ -21,9 +21,9 @@ polymarketUrl: "https://polymarket.com/event/will-tom-cotton-win-the-2028-republ
 
 ## Related Markets
 
-- [Strait of Hormuz traffic returns to normal by December 31?](/odds/strait-of-hormuz-traffic-returns-to-normal-by-december-31) — 30% YES
 - [Will Donald Trump win the 2028 US Presidential Election?](/odds/will-donald-trump-win-the-2028-us-presidential-election) — 2% YES
 - [Will the Democrats win the 2028 US Presidential Election?](/odds/will-the-democrats-win-the-2028-us-presidential-election) — 58% YES
+- [US-Iran Hormuz Agreement by September 30?](/odds/us-iran-hormuz-agreement-by-september-30) — 10% YES
 
 ## Frequently Asked Questions
 

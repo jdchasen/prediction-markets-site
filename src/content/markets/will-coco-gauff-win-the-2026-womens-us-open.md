@@ -1,23 +1,23 @@
 ---
-title: "Will Aldo Rebelo finish in third place in the first round of the 2026 Brazilian presidential election?"
-description: "Will Aldo Rebelo finish in third place in the first round of the 2026 Brazilian presidential election? Odds: 0.1% YES on Polymarket. See live prices and trad..."
-marketQuestion: "Will Aldo Rebelo finish in third place in the first round of the 2026 Brazilian presidential election?"
+title: "Will Coco Gauff win the 2026 Women’s US Open?"
+description: "Will Coco Gauff win the 2026 Women’s US Open? Odds: 16.3% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Coco Gauff win the 2026 Women’s US Open?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-30
-expiryDate: 2026-10-04
-tags: ["elections", "politics", "polymarket"]
-polymarketYes: 0.1
-polymarketNo: 100.0
-polymarketVolume: 9865
-polymarketUrl: "https://polymarket.com/event/will-aldo-rebelo-finish-in-third-place-in-the-first-round-of-the-2026-brazilian-presidential-election"
+expiryDate: 2026-09-13
+tags: ["politics", "polymarket"]
+polymarketYes: 16.3
+polymarketNo: 83.7
+polymarketVolume: 99032
+polymarketUrl: "https://polymarket.com/event/will-coco-gauff-win-the-2026-womens-us-open"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.1% | 100.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 16.3% | 83.7% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-aldo-rebelo-finish-in-third-pl
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Aldo Rebelo finish in third place in the first round of the 2026 Brazilian presidential election?"?
+### What are the current odds for "Will Coco Gauff win the 2026 Women’s US Open?"?
 
-As of August 30, 2026, Polymarket prices YES at 0.1%.
+As of August 30, 2026, Polymarket prices YES at 16.3%.
 
 ### Where can I trade on this prediction market?
 

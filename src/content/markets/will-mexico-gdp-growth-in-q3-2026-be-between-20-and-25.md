@@ -3,7 +3,7 @@ title: "Will Mexico GDP growth in Q3 2026 be between 2.0% and 2.5%?"
 description: "Will Mexico GDP growth in Q3 2026 be between 2.0% and 2.5%? Odds: 31.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Mexico GDP growth in Q3 2026 be between 2.0% and 2.5%?"
 category: "economics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-08-30
 expiryDate: 2026-10-30
 tags: ["economics", "polymarket"]

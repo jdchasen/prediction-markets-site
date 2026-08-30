@@ -1,23 +1,23 @@
 ---
-title: "Will Aldo Rebelo finish in third place in the first round of the 2026 Brazilian presidential election?"
-description: "Will Aldo Rebelo finish in third place in the first round of the 2026 Brazilian presidential election? Odds: 0.1% YES on Polymarket. See live prices and trad..."
-marketQuestion: "Will Aldo Rebelo finish in third place in the first round of the 2026 Brazilian presidential election?"
+title: "Will Marcelo Castro win the most votes in the 2026 Piauí Senate election?"
+description: "Will Marcelo Castro win the most votes in the 2026 Piauí Senate election? Odds: 39.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Marcelo Castro win the most votes in the 2026 Piauí Senate election?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-30
 expiryDate: 2026-10-04
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 0.1
-polymarketNo: 100.0
-polymarketVolume: 9865
-polymarketUrl: "https://polymarket.com/event/will-aldo-rebelo-finish-in-third-place-in-the-first-round-of-the-2026-brazilian-presidential-election"
+polymarketYes: 39.5
+polymarketNo: 60.5
+polymarketVolume: 9896
+polymarketUrl: "https://polymarket.com/event/will-marcelo-castro-win-the-most-votes-in-the-2026-piaui-senate-election"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.1% | 100.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 39.5% | 60.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-aldo-rebelo-finish-in-third-pl
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Aldo Rebelo finish in third place in the first round of the 2026 Brazilian presidential election?"?
+### What are the current odds for "Will Marcelo Castro win the most votes in the 2026 Piauí Senate election?"?
 
-As of August 30, 2026, Polymarket prices YES at 0.1%.
+As of August 30, 2026, Polymarket prices YES at 39.5%.
 
 ### Where can I trade on this prediction market?
 

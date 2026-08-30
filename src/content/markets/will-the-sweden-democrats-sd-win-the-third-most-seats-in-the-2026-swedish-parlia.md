@@ -3,7 +3,7 @@ title: "Will the Sweden Democrats (SD) win the third most seats in the 2026 Swed
 description: "Will the Sweden Democrats (SD) win the third most seats in the 2026 Swedish parliamentary election? Odds: 32.5% YES on Polymarket. See live prices and trade ..."
 marketQuestion: "Will the Sweden Democrats (SD) win the third most seats in the 2026 Swedish parliamentary election?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-08-30
 expiryDate: 2026-09-13
 tags: ["elections", "politics", "polymarket"]

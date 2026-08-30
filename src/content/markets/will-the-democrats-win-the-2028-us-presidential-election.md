@@ -21,9 +21,9 @@ polymarketUrl: "https://polymarket.com/event/will-the-democrats-win-the-2028-us-
 
 ## Related Markets
 
-- [Strait of Hormuz traffic returns to normal by December 31?](/odds/strait-of-hormuz-traffic-returns-to-normal-by-december-31) — 30% YES
 - [Will Donald Trump win the 2028 US Presidential Election?](/odds/will-donald-trump-win-the-2028-us-presidential-election) — 2% YES
 - [Will Tom Cotton win the 2028 Republican presidential nomination?](/odds/will-tom-cotton-win-the-2028-republican-presidential-nomination) — 0% YES
+- [US-Iran Hormuz Agreement by September 30?](/odds/us-iran-hormuz-agreement-by-september-30) — 10% YES
 
 ## Frequently Asked Questions
 

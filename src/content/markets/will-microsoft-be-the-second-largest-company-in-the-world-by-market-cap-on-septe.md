@@ -9,7 +9,7 @@ expiryDate: 2026-09-30
 tags: ["finance", "polymarket"]
 polymarketYes: 0.2
 polymarketNo: 99.8
-polymarketVolume: 9868
+polymarketVolume: 9899
 polymarketUrl: "https://polymarket.com/event/will-microsoft-be-the-second-largest-company-in-the-world-by-market-cap-on-september-30-20260729222933667"
 ---
 
