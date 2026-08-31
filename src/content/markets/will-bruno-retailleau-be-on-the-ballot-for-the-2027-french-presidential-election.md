@@ -3,8 +3,8 @@ title: "Will Bruno Retailleau be on the ballot for the 2027 French presidential 
 description: "Will Bruno Retailleau be on the ballot for the 2027 French presidential election? Odds: 76.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Bruno Retailleau be on the ballot for the 2027 French presidential election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-08-30
+status: "settled"
+lastUpdated: 2026-08-31
 expiryDate: 2027-04-17
 tags: ["ai", "elections", "politics", "polymarket"]
 polymarketYes: 76.5

@@ -1,15 +1,15 @@
 ---
 title: "Will Natalie Harp be the next White House Press Secretary?"
-description: "Will Natalie Harp be the next White House Press Secretary? Odds: 2.8% YES on Polymarket. See live prices and trade this market."
+description: "Will Natalie Harp be the next White House Press Secretary? Odds: 2.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Natalie Harp be the next White House Press Secretary?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-08-30
+lastUpdated: 2026-08-31
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 2.8
+polymarketYes: 2.9
 polymarketNo: 97.2
-polymarketVolume: 9943
+polymarketVolume: 9948
 polymarketUrl: "https://polymarket.com/event/will-natalie-harp-be-the-next-white-house-press-secretary"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-natalie-harp-be-the-next-white
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 2.8% | 97.2% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 2.9% | 97.2% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-natalie-harp-be-the-next-white
 
 ### What are the current odds for "Will Natalie Harp be the next White House Press Secretary?"?
 
-As of August 30, 2026, Polymarket prices YES at 2.8%.
+As of August 31, 2026, Polymarket prices YES at 2.9%.
 
 ### Where can I trade on this prediction market?
 

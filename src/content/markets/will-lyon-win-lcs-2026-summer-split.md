@@ -1,13 +1,13 @@
 ---
 title: "Will LYON Win LCS 2026 Summer Split"
-description: "Will LYON Win LCS 2026 Summer Split Odds: 52.0% YES on Polymarket. See live prices and trade this market."
+description: "Will LYON Win LCS 2026 Summer Split Odds: 52.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will LYON Win LCS 2026 Summer Split"
 category: "politics"
 status: "active"
-lastUpdated: 2026-08-30
+lastUpdated: 2026-08-31
 tags: ["politics", "polymarket"]
-polymarketYes: 52.0
-polymarketNo: 48.0
+polymarketYes: 52.5
+polymarketNo: 47.5
 polymarketVolume: 9933
 polymarketUrl: "https://polymarket.com/event/will-lyon-win-lcs-2026-summer-split-20260703175356405"
 ---
@@ -16,7 +16,7 @@ polymarketUrl: "https://polymarket.com/event/will-lyon-win-lcs-2026-summer-split
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 52.0% | 48.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 52.5% | 47.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -28,7 +28,7 @@ polymarketUrl: "https://polymarket.com/event/will-lyon-win-lcs-2026-summer-split
 
 ### What are the current odds for "Will LYON Win LCS 2026 Summer Split"?
 
-As of August 30, 2026, Polymarket prices YES at 52.0%.
+As of August 31, 2026, Polymarket prices YES at 52.5%.
 
 ### Where can I trade on this prediction market?
 

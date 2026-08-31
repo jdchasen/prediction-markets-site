@@ -1,14 +1,14 @@
 ---
 title: "Will Anduril's valuation hit (HIGH) $110B by December 31?"
-description: "Will Anduril's valuation hit (HIGH) $110B by December 31? Odds: 96.0% YES on Polymarket. See live prices and trade this market."
+description: "Will Anduril's valuation hit (HIGH) $110B by December 31? Odds: 96.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Anduril's valuation hit (HIGH) $110B by December 31?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-08-30
+lastUpdated: 2026-08-31
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]
-polymarketYes: 96.0
-polymarketNo: 4.0
+polymarketYes: 96.4
+polymarketNo: 3.6
 polymarketVolume: 9855
 polymarketUrl: "https://polymarket.com/event/will-andurils-valuation-hit-high-110b-by-december-31"
 ---
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-andurils-valuation-hit-high-11
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 96.0% | 4.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 96.4% | 3.6% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-andurils-valuation-hit-high-11
 
 ### What are the current odds for "Will Anduril's valuation hit (HIGH) $110B by December 31?"?
 
-As of August 30, 2026, Polymarket prices YES at 96.0%.
+As of August 31, 2026, Polymarket prices YES at 96.4%.
 
 ### Where can I trade on this prediction market?
 

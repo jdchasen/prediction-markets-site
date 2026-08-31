@@ -1,15 +1,15 @@
 ---
 title: "Will Marcelo Castro win the most votes in the 2026 Piauí Senate election?"
-description: "Will Marcelo Castro win the most votes in the 2026 Piauí Senate election? Odds: 39.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Marcelo Castro win the most votes in the 2026 Piauí Senate election? Odds: 40.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Marcelo Castro win the most votes in the 2026 Piauí Senate election?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-08-30
+lastUpdated: 2026-08-31
 expiryDate: 2026-10-04
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 39.5
-polymarketNo: 60.5
-polymarketVolume: 9896
+polymarketYes: 40.5
+polymarketNo: 59.5
+polymarketVolume: 9916
 polymarketUrl: "https://polymarket.com/event/will-marcelo-castro-win-the-most-votes-in-the-2026-piaui-senate-election"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-marcelo-castro-win-the-most-vo
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 39.5% | 60.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 40.5% | 59.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-marcelo-castro-win-the-most-vo
 
 ### What are the current odds for "Will Marcelo Castro win the most votes in the 2026 Piauí Senate election?"?
 
-As of August 30, 2026, Polymarket prices YES at 39.5%.
+As of August 31, 2026, Polymarket prices YES at 40.5%.
 
 ### Where can I trade on this prediction market?
 

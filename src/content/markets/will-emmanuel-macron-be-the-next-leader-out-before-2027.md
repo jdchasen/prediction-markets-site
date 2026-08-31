@@ -1,23 +1,23 @@
 ---
-title: "Will Anthropic's public ticker be $ANT?"
-description: "Will Anthropic's public ticker be $ANT? Odds: 30.9% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Anthropic's public ticker be $ANT?"
+title: "Will Emmanuel Macron be the next leader out before 2027?"
+description: "Will Emmanuel Macron be the next leader out before 2027? Odds: 2.7% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Emmanuel Macron be the next leader out before 2027?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-31
-expiryDate: 2027-12-31
+expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]
-polymarketYes: 30.9
-polymarketNo: 69.0
-polymarketVolume: 9882
-polymarketUrl: "https://polymarket.com/event/will-anthropics-public-ticker-be-ant"
+polymarketYes: 2.7
+polymarketNo: 97.3
+polymarketVolume: 9939
+polymarketUrl: "https://polymarket.com/event/will-emmanuel-macron-be-the-next-leader-out-before-2027-20260630194627364"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 30.9% | 69.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 2.7% | 97.3% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-anthropics-public-ticker-be-an
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Anthropic's public ticker be $ANT?"?
+### What are the current odds for "Will Emmanuel Macron be the next leader out before 2027?"?
 
-As of August 31, 2026, Polymarket prices YES at 30.9%.
+As of August 31, 2026, Polymarket prices YES at 2.7%.
 
 ### Where can I trade on this prediction market?
 

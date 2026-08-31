@@ -1,23 +1,23 @@
 ---
-title: "Will Anthropic's public ticker be $ANT?"
-description: "Will Anthropic's public ticker be $ANT? Odds: 30.9% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Anthropic's public ticker be $ANT?"
+title: "Will Lula win the most votes in the next Brazil presidential election from Federal District?"
+description: "Will Lula win the most votes in the next Brazil presidential election from Federal District? Odds: 14.5% YES on Polymarket. See live prices and trade this ma..."
+marketQuestion: "Will Lula win the most votes in the next Brazil presidential election from Federal District?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-31
-expiryDate: 2027-12-31
-tags: ["politics", "polymarket"]
-polymarketYes: 30.9
-polymarketNo: 69.0
-polymarketVolume: 9882
-polymarketUrl: "https://polymarket.com/event/will-anthropics-public-ticker-be-ant"
+expiryDate: 2026-10-04
+tags: ["elections", "federal-reserve", "politics", "polymarket"]
+polymarketYes: 14.5
+polymarketNo: 85.5
+polymarketVolume: 9911
+polymarketUrl: "https://polymarket.com/event/will-lula-win-the-most-votes-in-the-next-brazil-presidential-election-from-federal-district"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 30.9% | 69.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 14.5% | 85.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-anthropics-public-ticker-be-an
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Anthropic's public ticker be $ANT?"?
+### What are the current odds for "Will Lula win the most votes in the next Brazil presidential election from Federal District?"?
 
-As of August 31, 2026, Polymarket prices YES at 30.9%.
+As of August 31, 2026, Polymarket prices YES at 14.5%.
 
 ### Where can I trade on this prediction market?
 

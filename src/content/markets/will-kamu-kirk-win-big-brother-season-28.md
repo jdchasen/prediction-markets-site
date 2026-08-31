@@ -1,23 +1,23 @@
 ---
-title: "Will Anthropic's public ticker be $ANT?"
-description: "Will Anthropic's public ticker be $ANT? Odds: 30.9% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Anthropic's public ticker be $ANT?"
+title: "Will Kamu Kirk win Big Brother season 28?"
+description: "Will Kamu Kirk win Big Brother season 28? Odds: 0.2% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Kamu Kirk win Big Brother season 28?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-31
-expiryDate: 2027-12-31
+expiryDate: 2026-10-01
 tags: ["politics", "polymarket"]
-polymarketYes: 30.9
-polymarketNo: 69.0
-polymarketVolume: 9882
-polymarketUrl: "https://polymarket.com/event/will-anthropics-public-ticker-be-ant"
+polymarketYes: 0.2
+polymarketNo: 99.8
+polymarketVolume: 9858
+polymarketUrl: "https://polymarket.com/event/will-kamu-kirk-win-big-brother-season-28-20260708173711851"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 30.9% | 69.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.2% | 99.8% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-anthropics-public-ticker-be-an
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Anthropic's public ticker be $ANT?"?
+### What are the current odds for "Will Kamu Kirk win Big Brother season 28?"?
 
-As of August 31, 2026, Polymarket prices YES at 30.9%.
+As of August 31, 2026, Polymarket prices YES at 0.2%.
 
 ### Where can I trade on this prediction market?
 

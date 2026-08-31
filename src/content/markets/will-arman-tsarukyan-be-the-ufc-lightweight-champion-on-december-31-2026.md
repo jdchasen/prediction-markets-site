@@ -3,8 +3,8 @@ title: "Will Arman Tsarukyan be the UFC Lightweight Champion on December 31, 202
 description: "Will Arman Tsarukyan be the UFC Lightweight Champion on December 31, 2026? Odds: 4.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Arman Tsarukyan be the UFC Lightweight Champion on December 31, 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-08-30
+status: "settled"
+lastUpdated: 2026-08-31
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]
 polymarketYes: 4.5

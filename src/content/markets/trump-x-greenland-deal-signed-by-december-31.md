@@ -1,14 +1,14 @@
 ---
 title: "Trump x Greenland deal signed by December 31?"
-description: "Trump x Greenland deal signed by December 31? Odds: 16.5% YES on Polymarket. See live prices and trade this market."
+description: "Trump x Greenland deal signed by December 31? Odds: 17.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Trump x Greenland deal signed by December 31?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-08-30
+lastUpdated: 2026-08-31
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket", "trump"]
-polymarketYes: 16.5
-polymarketNo: 83.5
+polymarketYes: 17.0
+polymarketNo: 83.0
 polymarketVolume: 98592
 polymarketUrl: "https://polymarket.com/event/trump-x-greenland-deal-signed-by-december-31"
 ---
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/trump-x-greenland-deal-signed-by-de
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 16.5% | 83.5% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 17.0% | 83.0% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/trump-x-greenland-deal-signed-by-de
 
 ### What are the current odds for "Trump x Greenland deal signed by December 31?"?
 
-As of August 30, 2026, Polymarket prices YES at 16.5%.
+As of August 31, 2026, Polymarket prices YES at 17.0%.
 
 ### Where can I trade on this prediction market?
 

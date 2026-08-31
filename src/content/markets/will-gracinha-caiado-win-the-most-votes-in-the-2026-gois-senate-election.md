@@ -1,23 +1,23 @@
 ---
-title: "Will Alibaba be the second-best Code Arena | WebDev AI lab at the end of September 2026?"
-description: "Will Alibaba be the second-best Code Arena | WebDev AI lab at the end of September 2026? Odds: 35.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Alibaba be the second-best Code Arena | WebDev AI lab at the end of September 2026?"
+title: "Will Gracinha Caiado win the most votes in the 2026 Goiás Senate election?"
+description: "Will Gracinha Caiado win the most votes in the 2026 Goiás Senate election? Odds: 74.0% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Gracinha Caiado win the most votes in the 2026 Goiás Senate election?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-31
-expiryDate: 2026-10-01
-tags: ["ai", "politics", "polymarket"]
-polymarketYes: 35.5
-polymarketNo: 64.5
-polymarketVolume: 9919
-polymarketUrl: "https://polymarket.com/event/will-alibaba-be-the-second-best-code-arena-webdev-ai-lab-at-the-end-of-september-2026-20260722215814735"
+expiryDate: 2026-10-04
+tags: ["ai", "elections", "politics", "polymarket"]
+polymarketYes: 74.0
+polymarketNo: 26.0
+polymarketVolume: 9995
+polymarketUrl: "https://polymarket.com/event/will-gracinha-caiado-win-the-most-votes-in-the-2026-goias-senate-election"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 35.5% | 64.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 74.0% | 26.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-alibaba-be-the-second-best-cod
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Alibaba be the second-best Code Arena | WebDev AI lab at the end of September 2026?"?
+### What are the current odds for "Will Gracinha Caiado win the most votes in the 2026 Goiás Senate election?"?
 
-As of August 31, 2026, Polymarket prices YES at 35.5%.
+As of August 31, 2026, Polymarket prices YES at 74.0%.
 
 ### Where can I trade on this prediction market?
 

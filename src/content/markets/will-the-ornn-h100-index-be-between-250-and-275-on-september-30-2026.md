@@ -1,15 +1,15 @@
 ---
 title: "Will the Ornn H100 Index be between $2.50 and $2.75 on September 30, 2026?"
-description: "Will the Ornn H100 Index be between $2.50 and $2.75 on September 30, 2026? Odds: 19.5% YES on Polymarket. See live prices and trade this market."
+description: "Will the Ornn H100 Index be between $2.50 and $2.75 on September 30, 2026? Odds: 20.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Ornn H100 Index be between $2.50 and $2.75 on September 30, 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-08-30
+lastUpdated: 2026-08-31
 expiryDate: 2026-09-30
 tags: ["politics", "polymarket"]
-polymarketYes: 19.5
-polymarketNo: 80.5
-polymarketVolume: 9915
+polymarketYes: 20.0
+polymarketNo: 80.0
+polymarketVolume: 9983
 polymarketUrl: "https://polymarket.com/event/will-the-ornn-h100-index-be-between-2pt50-and-2pt75-on-september-30-2026-1785423806294"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-ornn-h100-index-be-between
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 19.5% | 80.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 20.0% | 80.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-ornn-h100-index-be-between
 
 ### What are the current odds for "Will the Ornn H100 Index be between $2.50 and $2.75 on September 30, 2026?"?
 
-As of August 30, 2026, Polymarket prices YES at 19.5%.
+As of August 31, 2026, Polymarket prices YES at 20.0%.
 
 ### Where can I trade on this prediction market?
 

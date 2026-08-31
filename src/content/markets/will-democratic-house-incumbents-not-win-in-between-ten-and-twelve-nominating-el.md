@@ -1,14 +1,14 @@
 ---
 title: "Will Democratic House incumbents not win in between ten and twelve nominating elections in the 2026 cycle?"
-description: "Will Democratic House incumbents not win in between ten and twelve nominating elections in the 2026 cycle? Odds: 78.8% YES on Polymarket. See live prices and..."
+description: "Will Democratic House incumbents not win in between ten and twelve nominating elections in the 2026 cycle? Odds: 84.4% YES on Polymarket. See live prices and..."
 marketQuestion: "Will Democratic House incumbents not win in between ten and twelve nominating elections in the 2026 cycle?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-08-30
+lastUpdated: 2026-08-31
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 78.8
-polymarketNo: 21.2
-polymarketVolume: 9876
+polymarketYes: 84.4
+polymarketNo: 15.7
+polymarketVolume: 9882
 polymarketUrl: "https://polymarket.com/event/will-democratic-house-incumbents-not-win-in-between-ten-and-twelve-nominating-elections-in-the-2026-cycle"
 ---
 
@@ -16,7 +16,7 @@ polymarketUrl: "https://polymarket.com/event/will-democratic-house-incumbents-no
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 78.8% | 21.2% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 84.4% | 15.7% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -28,7 +28,7 @@ polymarketUrl: "https://polymarket.com/event/will-democratic-house-incumbents-no
 
 ### What are the current odds for "Will Democratic House incumbents not win in between ten and twelve nominating elections in the 2026 cycle?"?
 
-As of August 30, 2026, Polymarket prices YES at 78.8%.
+As of August 31, 2026, Polymarket prices YES at 84.4%.
 
 ### Where can I trade on this prediction market?
 

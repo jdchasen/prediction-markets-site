@@ -1,14 +1,14 @@
 ---
 title: "Will the Republican Party win the PA-13 House seat?"
-description: "Will the Republican Party win the PA-13 House seat? Odds: 97.5% YES on Polymarket. See live prices and trade this market."
+description: "Will the Republican Party win the PA-13 House seat? Odds: 98.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Republican Party win the PA-13 House seat?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-08-30
+lastUpdated: 2026-08-31
 expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
-polymarketYes: 97.5
-polymarketNo: 2.5
+polymarketYes: 98.0
+polymarketNo: 2.0
 polymarketVolume: 9885
 polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-pa-13-house-seat"
 ---
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-p
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 97.5% | 2.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 98.0% | 2.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-p
 
 ### What are the current odds for "Will the Republican Party win the PA-13 House seat?"?
 
-As of August 30, 2026, Polymarket prices YES at 97.5%.
+As of August 31, 2026, Polymarket prices YES at 98.0%.
 
 ### Where can I trade on this prediction market?
 

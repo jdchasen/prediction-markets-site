@@ -1,15 +1,15 @@
 ---
 title: "Will the median home value in Austin Metro be at least $486,000 on September 30?"
-description: "Will the median home value in Austin Metro be at least $486,000 on September 30? Odds: 2.1% YES on Polymarket. See live prices and trade this market."
+description: "Will the median home value in Austin Metro be at least $486,000 on September 30? Odds: 1.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the median home value in Austin Metro be at least $486,000 on September 30?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-08-30
+lastUpdated: 2026-08-31
 expiryDate: 2026-09-30
 tags: ["politics", "polymarket"]
-polymarketYes: 2.1
-polymarketNo: 97.9
-polymarketVolume: 9891
+polymarketYes: 1.5
+polymarketNo: 98.5
+polymarketVolume: 9896
 polymarketUrl: "https://polymarket.com/event/will-the-median-home-value-in-austin-metro-be-at-least-486000-on-september-30-20260630180633314"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-median-home-value-in-austi
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 2.1% | 97.9% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 1.5% | 98.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-median-home-value-in-austi
 
 ### What are the current odds for "Will the median home value in Austin Metro be at least $486,000 on September 30?"?
 
-As of August 30, 2026, Polymarket prices YES at 2.1%.
+As of August 31, 2026, Polymarket prices YES at 1.5%.
 
 ### Where can I trade on this prediction market?
 

@@ -4,12 +4,12 @@ description: "Will the Democrats win the 2028 US Presidential Election? Odds: 58
 marketQuestion: "Will the Democrats win the 2028 US Presidential Election?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-08-30
+lastUpdated: 2026-08-31
 expiryDate: 2028-11-07
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 58.5
 polymarketNo: 41.5
-polymarketVolume: 985444
+polymarketVolume: 985456
 polymarketUrl: "https://polymarket.com/event/will-the-democrats-win-the-2028-us-presidential-election"
 ---
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-democrats-win-the-2028-us-
 
 ### What are the current odds for "Will the Democrats win the 2028 US Presidential Election?"?
 
-As of August 30, 2026, Polymarket prices YES at 58.5%.
+As of August 31, 2026, Polymarket prices YES at 58.5%.
 
 ### Where can I trade on this prediction market?
 

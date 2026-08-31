@@ -3,8 +3,8 @@ title: "Will TSG Hoffenheim be the 2026-27 Bundesliga champion?"
 description: "Will TSG Hoffenheim be the 2026-27 Bundesliga champion? Odds: 0.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will TSG Hoffenheim be the 2026-27 Bundesliga champion?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-08-30
+status: "settled"
+lastUpdated: 2026-08-31
 tags: ["politics", "polymarket"]
 polymarketYes: 0.2
 polymarketNo: 99.8

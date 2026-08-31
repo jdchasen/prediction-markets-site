@@ -1,23 +1,23 @@
 ---
-title: "Will Anthropic's public ticker be $ANT?"
-description: "Will Anthropic's public ticker be $ANT? Odds: 30.9% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Anthropic's public ticker be $ANT?"
+title: "Will the Democratic Party win the TX-38 House seat?"
+description: "Will the Democratic Party win the TX-38 House seat? Odds: 1.4% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will the Democratic Party win the TX-38 House seat?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-08-31
-expiryDate: 2027-12-31
+expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
-polymarketYes: 30.9
-polymarketNo: 69.0
-polymarketVolume: 9882
-polymarketUrl: "https://polymarket.com/event/will-anthropics-public-ticker-be-ant"
+polymarketYes: 1.4
+polymarketNo: 98.6
+polymarketVolume: 9903
+polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-tx-38-house-seat"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 30.9% | 69.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 1.4% | 98.6% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-anthropics-public-ticker-be-an
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Anthropic's public ticker be $ANT?"?
+### What are the current odds for "Will the Democratic Party win the TX-38 House seat?"?
 
-As of August 31, 2026, Polymarket prices YES at 30.9%.
+As of August 31, 2026, Polymarket prices YES at 1.4%.
 
 ### Where can I trade on this prediction market?
 
