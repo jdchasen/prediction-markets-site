@@ -3,7 +3,7 @@ title: "Will Lula win the most votes in the next Brazil presidential election fr
 description: "Will Lula win the most votes in the next Brazil presidential election from Federal District? Odds: 14.5% YES on Polymarket. See live prices and trade this ma..."
 marketQuestion: "Will Lula win the most votes in the next Brazil presidential election from Federal District?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-09-01
 expiryDate: 2026-10-04
 tags: ["elections", "federal-reserve", "politics", "polymarket"]

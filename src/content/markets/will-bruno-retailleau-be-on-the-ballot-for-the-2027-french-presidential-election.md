@@ -9,7 +9,7 @@ expiryDate: 2027-04-17
 tags: ["ai", "elections", "politics", "polymarket"]
 polymarketYes: 76.5
 polymarketNo: 23.5
-polymarketVolume: 9851
+polymarketVolume: 9877
 polymarketUrl: "https://polymarket.com/event/will-bruno-retailleau-be-on-the-ballot-for-the-2027-french-presidential-election"
 ---
 
@@ -21,9 +21,9 @@ polymarketUrl: "https://polymarket.com/event/will-bruno-retailleau-be-on-the-bal
 
 ## Related Markets
 
-- [Will Donald Trump win the 2028 US Presidential Election?](/odds/will-donald-trump-win-the-2028-us-presidential-election) — 2% YES
-- [Will the Democrats win the 2028 US Presidential Election?](/odds/will-the-democrats-win-the-2028-us-presidential-election) — 59% YES
-- [US-Iran Hormuz Agreement by September 30?](/odds/us-iran-hormuz-agreement-by-september-30) — 10% YES
+- [Will Spirit Win the BLAST Open Porto 2026?](/odds/will-spirit-win-the-blast-open-porto-2026) — 40% YES
+- [Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?](/odds/will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-dec) — 12% YES
+- [Will Trump and Putin meet next in China?](/odds/will-trump-and-putin-meet-next-in-china) — 40% YES
 
 ## Frequently Asked Questions
 

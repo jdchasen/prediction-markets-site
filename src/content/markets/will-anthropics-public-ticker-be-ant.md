@@ -3,7 +3,7 @@ title: "Will Anthropic's public ticker be $ANT?"
 description: "Will Anthropic's public ticker be $ANT? Odds: 32.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Anthropic's public ticker be $ANT?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-09-01
 expiryDate: 2027-12-31
 tags: ["politics", "polymarket"]

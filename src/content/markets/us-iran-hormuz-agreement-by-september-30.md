@@ -3,7 +3,7 @@ title: "US-Iran Hormuz Agreement by September 30?"
 description: "US-Iran Hormuz Agreement by September 30? Odds: 9.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "US-Iran Hormuz Agreement by September 30?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-09-01
 expiryDate: 2026-10-01
 tags: ["politics", "polymarket"]

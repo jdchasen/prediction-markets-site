@@ -3,7 +3,7 @@ title: "Will Kamu Kirk win Big Brother season 28?"
 description: "Will Kamu Kirk win Big Brother season 28? Odds: 0.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Kamu Kirk win Big Brother season 28?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-09-01
 expiryDate: 2026-10-01
 tags: ["politics", "polymarket"]

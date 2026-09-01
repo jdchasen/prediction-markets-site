@@ -1,23 +1,23 @@
 ---
-title: "Trump x Greenland deal signed by December 31?"
-description: "Trump x Greenland deal signed by December 31? Odds: 16.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Trump x Greenland deal signed by December 31?"
+title: "Iran charges Hormuz fees by September 30?"
+description: "Iran charges Hormuz fees by September 30? Odds: 12.0% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Iran charges Hormuz fees by September 30?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-09-01
-expiryDate: 2027-01-01
-tags: ["politics", "polymarket", "trump"]
-polymarketYes: 16.5
-polymarketNo: 83.5
-polymarketVolume: 98898
-polymarketUrl: "https://polymarket.com/event/trump-x-greenland-deal-signed-by-december-31"
+expiryDate: 2026-10-01
+tags: ["politics", "polymarket"]
+polymarketYes: 12.0
+polymarketNo: 88.0
+polymarketVolume: 98721
+polymarketUrl: "https://polymarket.com/event/iran-charges-hormuz-fees-by-september-30"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 16.5% | 83.5% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 12.0% | 88.0% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/trump-x-greenland-deal-signed-by-de
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Trump x Greenland deal signed by December 31?"?
+### What are the current odds for "Iran charges Hormuz fees by September 30?"?
 
-As of September 01, 2026, Polymarket prices YES at 16.5%.
+As of September 01, 2026, Polymarket prices YES at 12.0%.
 
 ### Where can I trade on this prediction market?
 

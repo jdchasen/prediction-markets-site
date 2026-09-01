@@ -1,23 +1,23 @@
 ---
-title: "Will Marcelo Castro win the most votes in the 2026 Piauí Senate election?"
-description: "Will Marcelo Castro win the most votes in the 2026 Piauí Senate election? Odds: 42.0% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Marcelo Castro win the most votes in the 2026 Piauí Senate election?"
+title: "Will Juventus win the 2026-27 Serie A Championship?"
+description: "Will Juventus win the 2026-27 Serie A Championship? Odds: 12.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Juventus win the 2026-27 Serie A Championship?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-09-01
-expiryDate: 2026-10-04
-tags: ["elections", "politics", "polymarket"]
-polymarketYes: 42.0
-polymarketNo: 58.0
-polymarketVolume: 9956
-polymarketUrl: "https://polymarket.com/event/will-marcelo-castro-win-the-most-votes-in-the-2026-piaui-senate-election"
+expiryDate: 2027-05-30
+tags: ["politics", "polymarket"]
+polymarketYes: 12.5
+polymarketNo: 87.5
+polymarketVolume: 9970
+polymarketUrl: "https://polymarket.com/event/will-juventus-win-the-2026-27-serie-a-championship-20260701200118398"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 42.0% | 58.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 12.5% | 87.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-marcelo-castro-win-the-most-vo
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Marcelo Castro win the most votes in the 2026 Piauí Senate election?"?
+### What are the current odds for "Will Juventus win the 2026-27 Serie A Championship?"?
 
-As of September 01, 2026, Polymarket prices YES at 42.0%.
+As of September 01, 2026, Polymarket prices YES at 12.5%.
 
 ### Where can I trade on this prediction market?
 

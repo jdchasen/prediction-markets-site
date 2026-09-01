@@ -1,14 +1,14 @@
 ---
 title: "Will Predict.fun launch a token by June 30, 2027?"
-description: "Will Predict.fun launch a token by June 30, 2027? Odds: 71.4% YES on Polymarket. See live prices and trade this market."
+description: "Will Predict.fun launch a token by June 30, 2027? Odds: 72.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Predict.fun launch a token by June 30, 2027?"
 category: "crypto"
 status: "active"
 lastUpdated: 2026-09-01
 expiryDate: 2028-01-01
 tags: ["crypto", "polymarket"]
-polymarketYes: 71.4
-polymarketNo: 28.6
+polymarketYes: 72.1
+polymarketNo: 27.9
 polymarketVolume: 9902
 polymarketUrl: "https://polymarket.com/event/will-predictfun-launch-a-token-by-june-30-2027"
 ---
@@ -17,18 +17,18 @@ polymarketUrl: "https://polymarket.com/event/will-predictfun-launch-a-token-by-j
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 71.4% | 28.6% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 72.1% | 27.9% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Loopscale launch a token by December 31, 2026?](/odds/will-loopscale-launch-a-token-by-december-31-2026) — 16% YES
-- [Ventuals FDV above $2B one day after launch?](/odds/ventuals-fdv-above-2b-one-day-after-launch) — 2% YES
+- [Will Loopscale launch a token by December 31, 2026?](/odds/will-loopscale-launch-a-token-by-december-31-2026) — 15% YES
+- [Will the price of Bitcoin be above $86,000 on September 5?](/odds/will-the-price-of-bitcoin-be-above-86000-on-september-5) — 2% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Predict.fun launch a token by June 30, 2027?"?
 
-As of September 01, 2026, Polymarket prices YES at 71.4%.
+As of September 01, 2026, Polymarket prices YES at 72.1%.
 
 ### Where can I trade on this prediction market?
 

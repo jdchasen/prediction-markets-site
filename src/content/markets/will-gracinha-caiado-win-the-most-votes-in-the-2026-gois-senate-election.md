@@ -1,14 +1,14 @@
 ---
 title: "Will Gracinha Caiado win the most votes in the 2026 Goiás Senate election?"
-description: "Will Gracinha Caiado win the most votes in the 2026 Goiás Senate election? Odds: 74.0% YES on Polymarket. See live prices and trade this market."
+description: "Will Gracinha Caiado win the most votes in the 2026 Goiás Senate election? Odds: 79.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Gracinha Caiado win the most votes in the 2026 Goiás Senate election?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-09-01
 expiryDate: 2026-10-04
 tags: ["ai", "elections", "politics", "polymarket"]
-polymarketYes: 74.0
-polymarketNo: 26.0
+polymarketYes: 79.0
+polymarketNo: 21.0
 polymarketVolume: 9995
 polymarketUrl: "https://polymarket.com/event/will-gracinha-caiado-win-the-most-votes-in-the-2026-goias-senate-election"
 ---
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-gracinha-caiado-win-the-most-v
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 74.0% | 26.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 79.0% | 21.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Donald Trump win the 2028 US Presidential Election?](/odds/will-donald-trump-win-the-2028-us-presidential-election) — 2% YES
-- [Will the Democrats win the 2028 US Presidential Election?](/odds/will-the-democrats-win-the-2028-us-presidential-election) — 59% YES
-- [US-Iran Hormuz Agreement by September 30?](/odds/us-iran-hormuz-agreement-by-september-30) — 10% YES
+- [Will Spirit Win the BLAST Open Porto 2026?](/odds/will-spirit-win-the-blast-open-porto-2026) — 40% YES
+- [Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?](/odds/will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-dec) — 12% YES
+- [Will Trump and Putin meet next in China?](/odds/will-trump-and-putin-meet-next-in-china) — 40% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Gracinha Caiado win the most votes in the 2026 Goiás Senate election?"?
 
-As of September 01, 2026, Polymarket prices YES at 74.0%.
+As of September 01, 2026, Polymarket prices YES at 79.0%.
 
 ### Where can I trade on this prediction market?
 

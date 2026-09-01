@@ -3,7 +3,7 @@ title: "Will Belit Onay win the next Hannover mayoral election?"
 description: "Will Belit Onay win the next Hannover mayoral election? Odds: 81.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Belit Onay win the next Hannover mayoral election?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-09-01
 expiryDate: 2026-09-13
 tags: ["elections", "politics", "polymarket"]

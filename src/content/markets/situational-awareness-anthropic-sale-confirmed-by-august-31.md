@@ -3,7 +3,7 @@ title: "Situational Awareness Anthropic sale confirmed by August 31?"
 description: "Situational Awareness Anthropic sale confirmed by August 31? Odds: 3.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Situational Awareness Anthropic sale confirmed by August 31?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-09-01
 tags: ["politics", "polymarket"]
 polymarketYes: 3.4
