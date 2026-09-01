@@ -4,7 +4,7 @@ description: "Will the US federal government take a stake in The Boeing Company?
 marketQuestion: "Will the US federal government take a stake in The Boeing Company?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-08-31
+lastUpdated: 2026-09-01
 expiryDate: 2026-12-31
 tags: ["federal-reserve", "politics", "polymarket"]
 polymarketYes: 7.5
@@ -22,14 +22,14 @@ polymarketUrl: "https://polymarket.com/event/will-the-us-federal-government-take
 ## Related Markets
 
 - [Will Donald Trump win the 2028 US Presidential Election?](/odds/will-donald-trump-win-the-2028-us-presidential-election) — 2% YES
-- [Will Tom Cotton win the 2028 Republican presidential nomination?](/odds/will-tom-cotton-win-the-2028-republican-presidential-nomination) — 0% YES
-- [Will the Democrats win the 2028 US Presidential Election?](/odds/will-the-democrats-win-the-2028-us-presidential-election) — 58% YES
+- [Will the Democrats win the 2028 US Presidential Election?](/odds/will-the-democrats-win-the-2028-us-presidential-election) — 59% YES
+- [US-Iran Hormuz Agreement by September 30?](/odds/us-iran-hormuz-agreement-by-september-30) — 10% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will the US federal government take a stake in The Boeing Company?"?
 
-As of August 31, 2026, Polymarket prices YES at 7.5%.
+As of September 01, 2026, Polymarket prices YES at 7.5%.
 
 ### Where can I trade on this prediction market?
 

@@ -4,12 +4,12 @@ description: "Will the Democratic Party win the TX-38 House seat? Odds: 1.4% YES
 marketQuestion: "Will the Democratic Party win the TX-38 House seat?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-08-31
+lastUpdated: 2026-09-01
 expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
 polymarketYes: 1.4
 polymarketNo: 98.6
-polymarketVolume: 9903
+polymarketVolume: 9937
 polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-tx-38-house-seat"
 ---
 
@@ -22,14 +22,14 @@ polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-t
 ## Related Markets
 
 - [Will Donald Trump win the 2028 US Presidential Election?](/odds/will-donald-trump-win-the-2028-us-presidential-election) — 2% YES
-- [Will Tom Cotton win the 2028 Republican presidential nomination?](/odds/will-tom-cotton-win-the-2028-republican-presidential-nomination) — 0% YES
-- [Will the Democrats win the 2028 US Presidential Election?](/odds/will-the-democrats-win-the-2028-us-presidential-election) — 58% YES
+- [Will the Democrats win the 2028 US Presidential Election?](/odds/will-the-democrats-win-the-2028-us-presidential-election) — 59% YES
+- [US-Iran Hormuz Agreement by September 30?](/odds/us-iran-hormuz-agreement-by-september-30) — 10% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will the Democratic Party win the TX-38 House seat?"?
 
-As of August 31, 2026, Polymarket prices YES at 1.4%.
+As of September 01, 2026, Polymarket prices YES at 1.4%.
 
 ### Where can I trade on this prediction market?
 

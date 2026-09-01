@@ -3,8 +3,8 @@ title: "Will Natalie Harp be the next White House Press Secretary?"
 description: "Will Natalie Harp be the next White House Press Secretary? Odds: 2.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Natalie Harp be the next White House Press Secretary?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-08-31
+status: "settled"
+lastUpdated: 2026-09-01
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 2.9

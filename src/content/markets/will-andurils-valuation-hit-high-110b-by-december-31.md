@@ -1,14 +1,14 @@
 ---
 title: "Will Anduril's valuation hit (HIGH) $110B by December 31?"
-description: "Will Anduril's valuation hit (HIGH) $110B by December 31? Odds: 96.4% YES on Polymarket. See live prices and trade this market."
+description: "Will Anduril's valuation hit (HIGH) $110B by December 31? Odds: 96.3% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Anduril's valuation hit (HIGH) $110B by December 31?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-08-31
+lastUpdated: 2026-09-01
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]
-polymarketYes: 96.4
-polymarketNo: 3.6
+polymarketYes: 96.3
+polymarketNo: 3.7
 polymarketVolume: 9855
 polymarketUrl: "https://polymarket.com/event/will-andurils-valuation-hit-high-110b-by-december-31"
 ---
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-andurils-valuation-hit-high-11
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 96.4% | 3.6% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 96.3% | 3.7% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Donald Trump win the 2028 US Presidential Election?](/odds/will-donald-trump-win-the-2028-us-presidential-election) — 2% YES
-- [Will Tom Cotton win the 2028 Republican presidential nomination?](/odds/will-tom-cotton-win-the-2028-republican-presidential-nomination) — 0% YES
-- [Will the Democrats win the 2028 US Presidential Election?](/odds/will-the-democrats-win-the-2028-us-presidential-election) — 58% YES
+- [Will the Democrats win the 2028 US Presidential Election?](/odds/will-the-democrats-win-the-2028-us-presidential-election) — 59% YES
+- [US-Iran Hormuz Agreement by September 30?](/odds/us-iran-hormuz-agreement-by-september-30) — 10% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Anduril's valuation hit (HIGH) $110B by December 31?"?
 
-As of August 31, 2026, Polymarket prices YES at 96.4%.
+As of September 01, 2026, Polymarket prices YES at 96.3%.
 
 ### Where can I trade on this prediction market?
 

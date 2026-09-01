@@ -1,23 +1,23 @@
 ---
-title: "Will Bruno Retailleau be on the ballot for the 2027 French presidential election?"
-description: "Will Bruno Retailleau be on the ballot for the 2027 French presidential election? Odds: 76.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Bruno Retailleau be on the ballot for the 2027 French presidential election?"
+title: "Will Belit Onay win the next Hannover mayoral election?"
+description: "Will Belit Onay win the next Hannover mayoral election? Odds: 81.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Belit Onay win the next Hannover mayoral election?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-09-01
-expiryDate: 2027-04-17
-tags: ["ai", "elections", "politics", "polymarket"]
-polymarketYes: 76.5
-polymarketNo: 23.5
-polymarketVolume: 9851
-polymarketUrl: "https://polymarket.com/event/will-bruno-retailleau-be-on-the-ballot-for-the-2027-french-presidential-election"
+expiryDate: 2026-09-13
+tags: ["elections", "politics", "polymarket"]
+polymarketYes: 81.5
+polymarketNo: 18.5
+polymarketVolume: 9916
+polymarketUrl: "https://polymarket.com/event/will-belit-onay-win-the-next-hannover-mayoral-election-20260724232337443"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 76.5% | 23.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 81.5% | 18.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-bruno-retailleau-be-on-the-bal
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Bruno Retailleau be on the ballot for the 2027 French presidential election?"?
+### What are the current odds for "Will Belit Onay win the next Hannover mayoral election?"?
 
-As of September 01, 2026, Polymarket prices YES at 76.5%.
+As of September 01, 2026, Polymarket prices YES at 81.5%.
 
 ### Where can I trade on this prediction market?
 

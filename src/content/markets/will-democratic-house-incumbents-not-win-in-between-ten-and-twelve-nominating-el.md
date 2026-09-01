@@ -1,13 +1,13 @@
 ---
 title: "Will Democratic House incumbents not win in between ten and twelve nominating elections in the 2026 cycle?"
-description: "Will Democratic House incumbents not win in between ten and twelve nominating elections in the 2026 cycle? Odds: 84.4% YES on Polymarket. See live prices and..."
+description: "Will Democratic House incumbents not win in between ten and twelve nominating elections in the 2026 cycle? Odds: 84.0% YES on Polymarket. See live prices and..."
 marketQuestion: "Will Democratic House incumbents not win in between ten and twelve nominating elections in the 2026 cycle?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-08-31
+lastUpdated: 2026-09-01
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 84.4
-polymarketNo: 15.7
+polymarketYes: 84.0
+polymarketNo: 16.0
 polymarketVolume: 9882
 polymarketUrl: "https://polymarket.com/event/will-democratic-house-incumbents-not-win-in-between-ten-and-twelve-nominating-elections-in-the-2026-cycle"
 ---
@@ -16,19 +16,19 @@ polymarketUrl: "https://polymarket.com/event/will-democratic-house-incumbents-no
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 84.4% | 15.7% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 84.0% | 16.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Donald Trump win the 2028 US Presidential Election?](/odds/will-donald-trump-win-the-2028-us-presidential-election) — 2% YES
-- [Will Tom Cotton win the 2028 Republican presidential nomination?](/odds/will-tom-cotton-win-the-2028-republican-presidential-nomination) — 0% YES
-- [Will the Democrats win the 2028 US Presidential Election?](/odds/will-the-democrats-win-the-2028-us-presidential-election) — 58% YES
+- [Will the Democrats win the 2028 US Presidential Election?](/odds/will-the-democrats-win-the-2028-us-presidential-election) — 59% YES
+- [US-Iran Hormuz Agreement by September 30?](/odds/us-iran-hormuz-agreement-by-september-30) — 10% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Democratic House incumbents not win in between ten and twelve nominating elections in the 2026 cycle?"?
 
-As of August 31, 2026, Polymarket prices YES at 84.4%.
+As of September 01, 2026, Polymarket prices YES at 84.0%.
 
 ### Where can I trade on this prediction market?
 

@@ -3,8 +3,8 @@ title: "Will OpenAI’s Astra model debut on the Arena Leaderboard at a score of
 description: "Will OpenAI’s Astra model debut on the Arena Leaderboard at a score of at least 1510? Odds: 9.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will OpenAI’s Astra model debut on the Arena Leaderboard at a score of at least 1510?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-08-31
+status: "settled"
+lastUpdated: 2026-09-01
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 9.5
 polymarketNo: 90.5

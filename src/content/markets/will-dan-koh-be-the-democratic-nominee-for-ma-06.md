@@ -3,8 +3,8 @@ title: "Will Dan Koh be the Democratic nominee for MA-06?"
 description: "Will Dan Koh be the Democratic nominee for MA-06? Odds: 89.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Dan Koh be the Democratic nominee for MA-06?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-08-31
+status: "settled"
+lastUpdated: 2026-09-01
 expiryDate: 2026-09-15
 tags: ["politics", "polymarket"]
 polymarketYes: 89.5

@@ -3,12 +3,12 @@ title: "Will TSG Hoffenheim be the 2026-27 Bundesliga champion?"
 description: "Will TSG Hoffenheim be the 2026-27 Bundesliga champion? Odds: 0.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will TSG Hoffenheim be the 2026-27 Bundesliga champion?"
 category: "politics"
-status: "settled"
-lastUpdated: 2026-08-31
+status: "active"
+lastUpdated: 2026-09-01
 tags: ["politics", "polymarket"]
 polymarketYes: 0.2
 polymarketNo: 99.8
-polymarketVolume: 9850
+polymarketVolume: 9862
 polymarketUrl: "https://polymarket.com/event/will-tsg-hoffenheim-be-the-2026-27-bundesliga-champion-20260708164840310"
 ---
 
@@ -21,14 +21,14 @@ polymarketUrl: "https://polymarket.com/event/will-tsg-hoffenheim-be-the-2026-27-
 ## Related Markets
 
 - [Will Donald Trump win the 2028 US Presidential Election?](/odds/will-donald-trump-win-the-2028-us-presidential-election) — 2% YES
-- [Will Tom Cotton win the 2028 Republican presidential nomination?](/odds/will-tom-cotton-win-the-2028-republican-presidential-nomination) — 0% YES
-- [Will the Democrats win the 2028 US Presidential Election?](/odds/will-the-democrats-win-the-2028-us-presidential-election) — 58% YES
+- [Will the Democrats win the 2028 US Presidential Election?](/odds/will-the-democrats-win-the-2028-us-presidential-election) — 59% YES
+- [US-Iran Hormuz Agreement by September 30?](/odds/us-iran-hormuz-agreement-by-september-30) — 10% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will TSG Hoffenheim be the 2026-27 Bundesliga champion?"?
 
-As of August 30, 2026, Polymarket prices YES at 0.2%.
+As of September 01, 2026, Polymarket prices YES at 0.2%.
 
 ### Where can I trade on this prediction market?
 

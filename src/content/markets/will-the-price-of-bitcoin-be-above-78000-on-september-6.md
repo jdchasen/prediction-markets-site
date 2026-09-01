@@ -3,8 +3,8 @@ title: "Will the price of Bitcoin be above $78,000 on September 6?"
 description: "Will the price of Bitcoin be above $78,000 on September 6? Odds: 59.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the price of Bitcoin be above $78,000 on September 6?"
 category: "crypto"
-status: "active"
-lastUpdated: 2026-08-31
+status: "settled"
+lastUpdated: 2026-09-01
 expiryDate: 2026-09-06
 tags: ["bitcoin", "crypto", "polymarket"]
 polymarketYes: 59.5

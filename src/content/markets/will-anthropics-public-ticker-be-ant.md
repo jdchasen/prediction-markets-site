@@ -1,14 +1,14 @@
 ---
 title: "Will Anthropic's public ticker be $ANT?"
-description: "Will Anthropic's public ticker be $ANT? Odds: 30.9% YES on Polymarket. See live prices and trade this market."
+description: "Will Anthropic's public ticker be $ANT? Odds: 32.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Anthropic's public ticker be $ANT?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-08-31
+lastUpdated: 2026-09-01
 expiryDate: 2027-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 30.9
-polymarketNo: 69.0
+polymarketYes: 32.8
+polymarketNo: 67.2
 polymarketVolume: 9882
 polymarketUrl: "https://polymarket.com/event/will-anthropics-public-ticker-be-ant"
 ---
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-anthropics-public-ticker-be-an
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 30.9% | 69.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 32.8% | 67.2% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Donald Trump win the 2028 US Presidential Election?](/odds/will-donald-trump-win-the-2028-us-presidential-election) — 2% YES
-- [Will Tom Cotton win the 2028 Republican presidential nomination?](/odds/will-tom-cotton-win-the-2028-republican-presidential-nomination) — 0% YES
-- [Will the Democrats win the 2028 US Presidential Election?](/odds/will-the-democrats-win-the-2028-us-presidential-election) — 58% YES
+- [Will the Democrats win the 2028 US Presidential Election?](/odds/will-the-democrats-win-the-2028-us-presidential-election) — 59% YES
+- [US-Iran Hormuz Agreement by September 30?](/odds/us-iran-hormuz-agreement-by-september-30) — 10% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Anthropic's public ticker be $ANT?"?
 
-As of August 31, 2026, Polymarket prices YES at 30.9%.
+As of September 01, 2026, Polymarket prices YES at 32.8%.
 
 ### Where can I trade on this prediction market?
 

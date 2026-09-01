@@ -4,7 +4,7 @@ description: "Will Jaxson Smith-Njigba win the 2026 NFL MVP? Odds: 0.2% YES on P
 marketQuestion: "Will Jaxson Smith-Njigba win the 2026 NFL MVP?"
 category: "sports"
 status: "active"
-lastUpdated: 2026-08-31
+lastUpdated: 2026-09-01
 expiryDate: 2027-02-15
 tags: ["polymarket", "sports"]
 polymarketYes: 0.2
@@ -27,7 +27,7 @@ polymarketUrl: "https://polymarket.com/event/will-jaxson-smith-njigba-win-the-20
 
 ### What are the current odds for "Will Jaxson Smith-Njigba win the 2026 NFL MVP?"?
 
-As of August 31, 2026, Polymarket prices YES at 0.2%.
+As of September 01, 2026, Polymarket prices YES at 0.2%.
 
 ### Where can I trade on this prediction market?
 
