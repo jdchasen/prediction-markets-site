@@ -22,6 +22,7 @@ polymarketUrl: "https://polymarket.com/event/will-jaxson-smith-njigba-win-the-20
 ## Related Markets
 
 - [Will Crystal Palace win the 2026-27 English Premier League (EPL) Championship?](/odds/will-crystal-palace-win-the-2026-27-english-premier-league-epl-championship) — 0% YES
+- [Will Omarion Hampton have 7.5+ rushing touchdowns in the 2026-27 NFL regular season?](/odds/will-omarion-hampton-have-75-rushing-touchdowns-in-the-2026-27-nfl-regular-seaso) — 52% YES
 
 ## Frequently Asked Questions
 

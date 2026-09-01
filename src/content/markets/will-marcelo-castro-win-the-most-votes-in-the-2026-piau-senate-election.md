@@ -1,14 +1,14 @@
 ---
 title: "Will Marcelo Castro win the most votes in the 2026 Piauí Senate election?"
-description: "Will Marcelo Castro win the most votes in the 2026 Piauí Senate election? Odds: 42.0% YES on Polymarket. See live prices and trade this market."
+description: "Will Marcelo Castro win the most votes in the 2026 Piauí Senate election? Odds: 43.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Marcelo Castro win the most votes in the 2026 Piauí Senate election?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-09-01
 expiryDate: 2026-10-04
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 42.0
-polymarketNo: 58.0
+polymarketYes: 43.5
+polymarketNo: 56.5
 polymarketVolume: 9956
 polymarketUrl: "https://polymarket.com/event/will-marcelo-castro-win-the-most-votes-in-the-2026-piaui-senate-election"
 ---
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-marcelo-castro-win-the-most-vo
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 42.0% | 58.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 43.5% | 56.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Spirit Win the BLAST Open Porto 2026?](/odds/will-spirit-win-the-blast-open-porto-2026) — 40% YES
+- [Will Trump be impeached before his term ends?](/odds/will-trump-be-impeached-before-his-term-ends) — 66% YES
+- [Will Stefanos Tsitsipas win the 2026 Men's US Open?](/odds/will-stefanos-tsitsipas-win-the-2026-mens-us-open) — 0% YES
 - [Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?](/odds/will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-dec) — 12% YES
-- [Will Trump and Putin meet next in China?](/odds/will-trump-and-putin-meet-next-in-china) — 40% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Marcelo Castro win the most votes in the 2026 Piauí Senate election?"?
 
-As of September 01, 2026, Polymarket prices YES at 42.0%.
+As of September 01, 2026, Polymarket prices YES at 43.5%.
 
 ### Where can I trade on this prediction market?
 

@@ -1,23 +1,23 @@
 ---
-title: "Will Emmanuel Macron be the next leader out before 2027?"
-description: "Will Emmanuel Macron be the next leader out before 2027? Odds: 3.6% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Emmanuel Macron be the next leader out before 2027?"
+title: "Will Marine Le Pen advance to the second round of the next French presidential election?"
+description: "Will Marine Le Pen advance to the second round of the next French presidential election? Odds: 86.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Marine Le Pen advance to the second round of the next French presidential election?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-09-01
-expiryDate: 2027-01-01
-tags: ["politics", "polymarket"]
-polymarketYes: 3.6
-polymarketNo: 96.4
-polymarketVolume: 9960
-polymarketUrl: "https://polymarket.com/event/will-emmanuel-macron-be-the-next-leader-out-before-2027-20260630194627364"
+expiryDate: 2027-04-30
+tags: ["elections", "politics", "polymarket"]
+polymarketYes: 86.5
+polymarketNo: 13.5
+polymarketVolume: 9984
+polymarketUrl: "https://polymarket.com/event/will-marine-le-pen-advance-to-the-second-round-of-the-next-french-presidential-election"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 3.6% | 96.4% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 86.5% | 13.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-emmanuel-macron-be-the-next-le
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Emmanuel Macron be the next leader out before 2027?"?
+### What are the current odds for "Will Marine Le Pen advance to the second round of the next French presidential election?"?
 
-As of September 01, 2026, Polymarket prices YES at 3.6%.
+As of September 01, 2026, Polymarket prices YES at 86.5%.
 
 ### Where can I trade on this prediction market?
 

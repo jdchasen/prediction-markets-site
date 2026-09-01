@@ -3,7 +3,7 @@ title: "Will Gladson Camelí win the second-most votes in the 2026 Acre Senate e
 description: "Will Gladson Camelí win the second-most votes in the 2026 Acre Senate election? Odds: 12.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Gladson Camelí win the second-most votes in the 2026 Acre Senate election?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-09-01
 expiryDate: 2026-10-04
 tags: ["elections", "politics", "polymarket"]

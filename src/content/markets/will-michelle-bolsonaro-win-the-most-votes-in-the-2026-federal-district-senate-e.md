@@ -1,23 +1,23 @@
 ---
-title: "Will the next diplomatic US-Iran meeting be in another European country by September 30, 2026?"
-description: "Will the next diplomatic US-Iran meeting be in another European country by September 30, 2026? Odds: 0.1% YES on Polymarket. See live prices and trade this m..."
-marketQuestion: "Will the next diplomatic US-Iran meeting be in another European country by September 30, 2026?"
+title: "Will Michelle Bolsonaro win the most votes in the 2026 Federal District Senate election?"
+description: "Will Michelle Bolsonaro win the most votes in the 2026 Federal District Senate election? Odds: 84.0% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Michelle Bolsonaro win the most votes in the 2026 Federal District Senate election?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-09-01
-expiryDate: 2026-10-01
-tags: ["politics", "polymarket"]
-polymarketYes: 0.1
-polymarketNo: 100.0
-polymarketVolume: 98761
-polymarketUrl: "https://polymarket.com/event/will-the-next-diplomatic-us-iran-meeting-be-in-another-european-country-by-september-30-2026-20260622185050780"
+expiryDate: 2026-10-04
+tags: ["elections", "federal-reserve", "politics", "polymarket"]
+polymarketYes: 84.0
+polymarketNo: 16.0
+polymarketVolume: 9901
+polymarketUrl: "https://polymarket.com/event/will-michelle-bolsonaro-win-the-most-votes-in-the-2026-federal-district-senate-election"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.1% | 100.0% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 84.0% | 16.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-the-next-diplomatic-us-iran-me
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will the next diplomatic US-Iran meeting be in another European country by September 30, 2026?"?
+### What are the current odds for "Will Michelle Bolsonaro win the most votes in the 2026 Federal District Senate election?"?
 
-As of September 01, 2026, Polymarket prices YES at 0.1%.
+As of September 01, 2026, Polymarket prices YES at 84.0%.
 
 ### Where can I trade on this prediction market?
 

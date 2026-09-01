@@ -1,14 +1,14 @@
 ---
 title: "Will the Republican Party win the PA-13 House seat?"
-description: "Will the Republican Party win the PA-13 House seat? Odds: 97.8% YES on Polymarket. See live prices and trade this market."
+description: "Will the Republican Party win the PA-13 House seat? Odds: 97.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Republican Party win the PA-13 House seat?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-09-01
 expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
-polymarketYes: 97.8
-polymarketNo: 2.2
+polymarketYes: 97.7
+polymarketNo: 2.3
 polymarketVolume: 9885
 polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-pa-13-house-seat"
 ---
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-p
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 97.8% | 2.2% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 97.7% | 2.3% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Spirit Win the BLAST Open Porto 2026?](/odds/will-spirit-win-the-blast-open-porto-2026) — 40% YES
+- [Will Trump be impeached before his term ends?](/odds/will-trump-be-impeached-before-his-term-ends) — 66% YES
+- [Will Stefanos Tsitsipas win the 2026 Men's US Open?](/odds/will-stefanos-tsitsipas-win-the-2026-mens-us-open) — 0% YES
 - [Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?](/odds/will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-dec) — 12% YES
-- [Will Trump and Putin meet next in China?](/odds/will-trump-and-putin-meet-next-in-china) — 40% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will the Republican Party win the PA-13 House seat?"?
 
-As of September 01, 2026, Polymarket prices YES at 97.8%.
+As of September 01, 2026, Polymarket prices YES at 97.7%.
 
 ### Where can I trade on this prediction market?
 

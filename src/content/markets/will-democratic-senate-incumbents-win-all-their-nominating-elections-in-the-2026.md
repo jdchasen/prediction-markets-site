@@ -1,14 +1,14 @@
 ---
 title: "Will Democratic Senate incumbents win all their nominating elections in the 2026 cycle?"
-description: "Will Democratic Senate incumbents win all their nominating elections in the 2026 cycle? Odds: 95.9% YES on Polymarket. See live prices and trade this market."
+description: "Will Democratic Senate incumbents win all their nominating elections in the 2026 cycle? Odds: 97.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Democratic Senate incumbents win all their nominating elections in the 2026 cycle?"
 category: "politics"
-status: "settled"
-lastUpdated: 2026-08-30
+status: "active"
+lastUpdated: 2026-09-01
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 95.9
-polymarketNo: 4.2
-polymarketVolume: 9844
+polymarketYes: 97.9
+polymarketNo: 2.1
+polymarketVolume: 9985
 polymarketUrl: "https://polymarket.com/event/will-democratic-senate-incumbents-win-all-their-nominating-elections-in-the-2026-cycle"
 ---
 
@@ -16,19 +16,19 @@ polymarketUrl: "https://polymarket.com/event/will-democratic-senate-incumbents-w
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 95.9% | 4.2% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 97.9% | 2.1% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Donald Trump win the 2028 US Presidential Election?](/odds/will-donald-trump-win-the-2028-us-presidential-election) — 2% YES
-- [Strait of Hormuz traffic returns to normal by December 31?](/odds/strait-of-hormuz-traffic-returns-to-normal-by-december-31) — 30% YES
-- [Will Tom Cotton win the 2028 Republican presidential nomination?](/odds/will-tom-cotton-win-the-2028-republican-presidential-nomination) — 0% YES
+- [Will Trump be impeached before his term ends?](/odds/will-trump-be-impeached-before-his-term-ends) — 66% YES
+- [Will Stefanos Tsitsipas win the 2026 Men's US Open?](/odds/will-stefanos-tsitsipas-win-the-2026-mens-us-open) — 0% YES
+- [Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?](/odds/will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-dec) — 12% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Democratic Senate incumbents win all their nominating elections in the 2026 cycle?"?
 
-As of August 29, 2026, Polymarket prices YES at 95.9%.
+As of September 01, 2026, Polymarket prices YES at 97.9%.
 
 ### Where can I trade on this prediction market?
 

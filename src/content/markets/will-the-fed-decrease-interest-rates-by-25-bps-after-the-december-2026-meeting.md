@@ -1,15 +1,15 @@
 ---
 title: "Will the Fed decrease interest rates by 25 bps after the December 2026 meeting?"
-description: "Will the Fed decrease interest rates by 25 bps after the December 2026 meeting? Odds: 7.2% YES on Polymarket. See live prices and trade this market."
+description: "Will the Fed decrease interest rates by 25 bps after the December 2026 meeting? Odds: 8.3% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Fed decrease interest rates by 25 bps after the December 2026 meeting?"
 category: "economics"
 status: "active"
 lastUpdated: 2026-09-01
 expiryDate: 2026-12-09
 tags: ["economics", "federal-reserve", "interest-rates", "polymarket"]
-polymarketYes: 7.2
-polymarketNo: 92.8
-polymarketVolume: 98733
+polymarketYes: 8.3
+polymarketNo: 91.6
+polymarketVolume: 98936
 polymarketUrl: "https://polymarket.com/event/will-the-fed-decrease-interest-rates-by-25-bps-after-the-december-2026-meeting-20260729232808634"
 ---
 
@@ -17,13 +17,13 @@ polymarketUrl: "https://polymarket.com/event/will-the-fed-decrease-interest-rate
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 7.2% | 92.8% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 8.3% | 91.6% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will the Fed decrease interest rates by 25 bps after the December 2026 meeting?"?
 
-As of September 01, 2026, Polymarket prices YES at 7.2%.
+As of September 01, 2026, Polymarket prices YES at 8.3%.
 
 ### Where can I trade on this prediction market?
 

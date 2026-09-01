@@ -22,6 +22,7 @@ polymarketUrl: "https://polymarket.com/event/will-crystal-palace-win-the-2026-27
 ## Related Markets
 
 - [Will Jaxson Smith-Njigba win the 2026 NFL MVP?](/odds/will-jaxson-smith-njigba-win-the-2026-nfl-mvp) — 0% YES
+- [Will Omarion Hampton have 7.5+ rushing touchdowns in the 2026-27 NFL regular season?](/odds/will-omarion-hampton-have-75-rushing-touchdowns-in-the-2026-27-nfl-regular-seaso) — 52% YES
 
 ## Frequently Asked Questions
 

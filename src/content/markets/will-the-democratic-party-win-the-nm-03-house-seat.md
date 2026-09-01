@@ -21,9 +21,9 @@ polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-n
 
 ## Related Markets
 
-- [Will Spirit Win the BLAST Open Porto 2026?](/odds/will-spirit-win-the-blast-open-porto-2026) — 40% YES
+- [Will Trump be impeached before his term ends?](/odds/will-trump-be-impeached-before-his-term-ends) — 66% YES
+- [Will Stefanos Tsitsipas win the 2026 Men's US Open?](/odds/will-stefanos-tsitsipas-win-the-2026-mens-us-open) — 0% YES
 - [Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?](/odds/will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-dec) — 12% YES
-- [Will Trump and Putin meet next in China?](/odds/will-trump-and-putin-meet-next-in-china) — 40% YES
 
 ## Frequently Asked Questions
 

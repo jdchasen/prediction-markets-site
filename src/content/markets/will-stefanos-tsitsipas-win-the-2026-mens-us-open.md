@@ -1,35 +1,35 @@
 ---
-title: "Will the Ornn H100 Index be between $2.50 and $2.75 on September 30, 2026?"
-description: "Will the Ornn H100 Index be between $2.50 and $2.75 on September 30, 2026? Odds: 19.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will the Ornn H100 Index be between $2.50 and $2.75 on September 30, 2026?"
+title: "Will Stefanos Tsitsipas win the 2026 Men's US Open?"
+description: "Will Stefanos Tsitsipas win the 2026 Men's US Open? Odds: 0.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Stefanos Tsitsipas win the 2026 Men's US Open?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-09-01
-expiryDate: 2026-09-30
+expiryDate: 2026-09-13
 tags: ["politics", "polymarket"]
-polymarketYes: 19.5
-polymarketNo: 80.5
-polymarketVolume: 9993
-polymarketUrl: "https://polymarket.com/event/will-the-ornn-h100-index-be-between-2pt50-and-2pt75-on-september-30-2026-1785423806294"
+polymarketYes: 0.5
+polymarketNo: 99.5
+polymarketVolume: 99579
+polymarketUrl: "https://polymarket.com/event/will-stefanos-tsitsipas-win-the-2026-mens-us-open"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 19.5% | 80.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.5% | 99.5% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Trump be impeached before his term ends?](/odds/will-trump-be-impeached-before-his-term-ends) — 66% YES
-- [Will Stefanos Tsitsipas win the 2026 Men's US Open?](/odds/will-stefanos-tsitsipas-win-the-2026-mens-us-open) — 0% YES
 - [Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?](/odds/will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-dec) — 12% YES
+- [Will Francisco Cerundolo win the 2026 Men's US Open?](/odds/will-francisco-cerundolo-win-the-2026-mens-us-open) — 0% YES
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will the Ornn H100 Index be between $2.50 and $2.75 on September 30, 2026?"?
+### What are the current odds for "Will Stefanos Tsitsipas win the 2026 Men's US Open?"?
 
-As of September 01, 2026, Polymarket prices YES at 19.5%.
+As of September 01, 2026, Polymarket prices YES at 0.5%.
 
 ### Where can I trade on this prediction market?
 

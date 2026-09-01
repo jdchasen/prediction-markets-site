@@ -3,7 +3,7 @@ title: "Will AfD win 34-37 seats in the 2026 Sachsen-Anhalt parliamentary electi
 description: "Will AfD win 34-37 seats in the 2026 Sachsen-Anhalt parliamentary elections? Odds: 6.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will AfD win 34-37 seats in the 2026 Sachsen-Anhalt parliamentary elections?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-09-01
 expiryDate: 2026-09-06
 tags: ["elections", "politics", "polymarket"]

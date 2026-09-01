@@ -3,7 +3,7 @@ title: "Will Spirit Win the BLAST Open Porto 2026?"
 description: "Will Spirit Win the BLAST Open Porto 2026? Odds: 39.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Spirit Win the BLAST Open Porto 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-09-01
 tags: ["politics", "polymarket"]
 polymarketYes: 39.5
