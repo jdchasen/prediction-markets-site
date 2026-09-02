@@ -4,7 +4,7 @@ description: "Will Crystal Palace win the 2026-27 English Premier League (EPL) C
 marketQuestion: "Will Crystal Palace win the 2026-27 English Premier League (EPL) Championship?"
 category: "sports"
 status: "active"
-lastUpdated: 2026-09-01
+lastUpdated: 2026-09-02
 expiryDate: 2027-05-30
 tags: ["polymarket", "sports"]
 polymarketYes: 0.1
@@ -28,7 +28,7 @@ polymarketUrl: "https://polymarket.com/event/will-crystal-palace-win-the-2026-27
 
 ### What are the current odds for "Will Crystal Palace win the 2026-27 English Premier League (EPL) Championship?"?
 
-As of September 01, 2026, Polymarket prices YES at 0.1%.
+As of September 02, 2026, Polymarket prices YES at 0.1%.
 
 ### Where can I trade on this prediction market?
 

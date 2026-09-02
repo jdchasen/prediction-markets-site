@@ -3,8 +3,8 @@ title: "UFC Fight Night: Luis Felipe Dias vs. Matthieu Letho Duclos (Middleweigh
 description: "UFC Fight Night: Luis Felipe Dias vs. Matthieu Letho Duclos (Middleweight, Prelims) Odds: 48.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "UFC Fight Night: Luis Felipe Dias vs. Matthieu Letho Duclos (Middleweight, Prelims)"
 category: "politics"
-status: "active"
-lastUpdated: 2026-09-01
+status: "settled"
+lastUpdated: 2026-09-02
 expiryDate: 2026-09-06
 tags: ["ethereum", "politics", "polymarket"]
 polymarketYes: 48.5

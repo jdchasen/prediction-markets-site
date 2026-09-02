@@ -3,8 +3,8 @@ title: "Will OpenAI have the best AI model on LiveBench (Mathematics) at the end
 description: "Will OpenAI have the best AI model on LiveBench (Mathematics) at the end of September 2026? Odds: 56.0% YES on Polymarket. See live prices and trade this mar..."
 marketQuestion: "Will OpenAI have the best AI model on LiveBench (Mathematics) at the end of September 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-09-01
+status: "settled"
+lastUpdated: 2026-09-02
 expiryDate: 2026-10-01
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 56.0

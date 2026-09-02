@@ -3,8 +3,8 @@ title: "Will the Fed decrease interest rates by 25 bps after the December 2026 m
 description: "Will the Fed decrease interest rates by 25 bps after the December 2026 meeting? Odds: 8.3% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Fed decrease interest rates by 25 bps after the December 2026 meeting?"
 category: "economics"
-status: "active"
-lastUpdated: 2026-09-01
+status: "settled"
+lastUpdated: 2026-09-02
 expiryDate: 2026-12-09
 tags: ["economics", "federal-reserve", "interest-rates", "polymarket"]
 polymarketYes: 8.3

@@ -3,8 +3,8 @@ title: "Will Marine Le Pen advance to the second round of the next French presid
 description: "Will Marine Le Pen advance to the second round of the next French presidential election? Odds: 86.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Marine Le Pen advance to the second round of the next French presidential election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-09-01
+status: "settled"
+lastUpdated: 2026-09-02
 expiryDate: 2027-04-30
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 86.5

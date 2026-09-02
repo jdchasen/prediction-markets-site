@@ -1,23 +1,23 @@
 ---
-title: "Will the next diplomatic US-Iran meeting be in Saudi Arabia by September 30, 2026?"
-description: "Will the next diplomatic US-Iran meeting be in Saudi Arabia by September 30, 2026? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will the next diplomatic US-Iran meeting be in Saudi Arabia by September 30, 2026?"
+title: "Will AfD win the most seats in the 2026 Sachsen-Anhalt parliamentary elections?"
+description: "Will AfD win the most seats in the 2026 Sachsen-Anhalt parliamentary elections? Odds: 99.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will AfD win the most seats in the 2026 Sachsen-Anhalt parliamentary elections?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-09-02
-expiryDate: 2026-10-01
-tags: ["politics", "polymarket"]
-polymarketYes: 0.1
-polymarketNo: 100.0
-polymarketVolume: 98830
-polymarketUrl: "https://polymarket.com/event/will-the-next-diplomatic-us-iran-meeting-be-in-saudi-arabia-by-september-30-2026-20260622185050766"
+expiryDate: 2026-09-06
+tags: ["elections", "politics", "polymarket"]
+polymarketYes: 99.5
+polymarketNo: 0.5
+polymarketVolume: 99632
+polymarketUrl: "https://polymarket.com/event/will-afd-win-the-most-seats-in-the-2026-sachsen-anhalt-parliamentary-elections"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.1% | 100.0% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 99.5% | 0.5% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-the-next-diplomatic-us-iran-me
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will the next diplomatic US-Iran meeting be in Saudi Arabia by September 30, 2026?"?
+### What are the current odds for "Will AfD win the most seats in the 2026 Sachsen-Anhalt parliamentary elections?"?
 
-As of September 02, 2026, Polymarket prices YES at 0.1%.
+As of September 02, 2026, Polymarket prices YES at 99.5%.
 
 ### Where can I trade on this prediction market?
 

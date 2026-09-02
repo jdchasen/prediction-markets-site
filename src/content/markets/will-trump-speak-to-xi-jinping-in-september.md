@@ -1,23 +1,23 @@
 ---
-title: "Will the Democratic Party win the NM-03 House seat?"
-description: "Will the Democratic Party win the NM-03 House seat? Odds: 92.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will the Democratic Party win the NM-03 House seat?"
+title: "Will Trump speak to Xi Jinping in September?"
+description: "Will Trump speak to Xi Jinping in September? Odds: 95.2% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Trump speak to Xi Jinping in September?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-09-02
-expiryDate: 2026-11-03
-tags: ["politics", "polymarket"]
-polymarketYes: 92.5
-polymarketNo: 7.5
-polymarketVolume: 9880
-polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-nm-03-house-seat"
+expiryDate: 2026-09-30
+tags: ["politics", "polymarket", "trump"]
+polymarketYes: 95.2
+polymarketNo: 4.9
+polymarketVolume: 9911
+polymarketUrl: "https://polymarket.com/event/will-trump-speak-to-xi-jinping-in-september"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 92.5% | 7.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 95.2% | 4.9% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-n
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will the Democratic Party win the NM-03 House seat?"?
+### What are the current odds for "Will Trump speak to Xi Jinping in September?"?
 
-As of September 02, 2026, Polymarket prices YES at 92.5%.
+As of September 02, 2026, Polymarket prices YES at 95.2%.
 
 ### Where can I trade on this prediction market?
 
@@ -37,6 +37,6 @@ You can trade this market on [Polymarket](https://polymarket.us/1762?utm_source=
 
 ## Learn More
 
+- [Trump-Xi Meeting Predictions: What Will He Say?](/blog/trump-xi-meeting-predictions-what-will-he-say)
 - [Will Oil Hit $100? March Crude Prediction Market Odds](/blog/will-oil-hit-100-march-crude-prediction-market-odds)
-- [Will MicroStrategy Sell Bitcoin? Market Odds](/blog/will-microstrategy-sell-bitcoin-market-odds)
 

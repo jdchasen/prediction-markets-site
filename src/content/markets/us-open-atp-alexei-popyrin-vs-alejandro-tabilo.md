@@ -1,23 +1,23 @@
 ---
-title: "Liberty vs. James Madison: 4Q Moneyline"
-description: "Liberty vs. James Madison: 4Q Moneyline Odds: 64.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Liberty vs. James Madison: 4Q Moneyline"
+title: "US Open ATP: Alexei Popyrin vs Alejandro Tabilo"
+description: "US Open ATP: Alexei Popyrin vs Alejandro Tabilo Odds: 42.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "US Open ATP: Alexei Popyrin vs Alejandro Tabilo"
 category: "politics"
 status: "active"
 lastUpdated: 2026-09-02
-expiryDate: 2026-09-05
+expiryDate: 2026-09-09
 tags: ["politics", "polymarket"]
-polymarketYes: 64.5
-polymarketNo: 35.5
-polymarketVolume: 9978
-polymarketUrl: "https://polymarket.com/event/cfb-librty-jmad-2026-09-05-4q-moneyline"
+polymarketYes: 42.5
+polymarketNo: 57.5
+polymarketVolume: 9935
+polymarketUrl: "https://polymarket.com/event/atp-popyrin-tabilo-2026-09-02"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 64.5% | 35.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 42.5% | 57.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/cfb-librty-jmad-2026-09-05-4q-money
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Liberty vs. James Madison: 4Q Moneyline"?
+### What are the current odds for "US Open ATP: Alexei Popyrin vs Alejandro Tabilo"?
 
-As of September 02, 2026, Polymarket prices YES at 64.5%.
+As of September 02, 2026, Polymarket prices YES at 42.5%.
 
 ### Where can I trade on this prediction market?
 
@@ -37,5 +37,5 @@ You can trade this market on [Polymarket](https://polymarket.us/1762?utm_source=
 
 ## Learn More
 
-- [Can You Make Money on Prediction Markets? [Real P&L]](/blog/prediction-markets-making-money)
+- [Cobolli vs Zverev Odds: French Open Markets](/blog/cobolli-vs-zverev-odds-french-open-markets)
 

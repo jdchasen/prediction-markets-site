@@ -4,12 +4,12 @@ description: "Will Trump be impeached before his term ends? Odds: 66.0% YES on P
 marketQuestion: "Will Trump be impeached before his term ends?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-09-01
+lastUpdated: 2026-09-02
 expiryDate: 2029-01-20
 tags: ["politics", "polymarket", "trump"]
 polymarketYes: 66.0
 polymarketNo: 34.0
-polymarketVolume: 99604
+polymarketVolume: 99633
 polymarketUrl: "https://polymarket.com/event/will-trump-be-impeached-before-his-term-ends"
 ---
 
@@ -21,15 +21,15 @@ polymarketUrl: "https://polymarket.com/event/will-trump-be-impeached-before-his-
 
 ## Related Markets
 
-- [Will Stefanos Tsitsipas win the 2026 Men's US Open?](/odds/will-stefanos-tsitsipas-win-the-2026-mens-us-open) — 0% YES
-- [Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?](/odds/will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-dec) — 12% YES
-- [Will Francisco Cerundolo win the 2026 Men's US Open?](/odds/will-francisco-cerundolo-win-the-2026-mens-us-open) — 0% YES
+- [Will Nooshi Dadgostar be the next Prime Minister of Sweden?](/odds/will-nooshi-dadgostar-be-the-next-prime-minister-of-sweden) — 0% YES
+- [Russia x Ukraine ceasefire agreement by October 31, 2026?](/odds/russia-x-ukraine-ceasefire-agreement-by-october-31-2026) — 8% YES
+- [Will AfD win the most seats in the 2026 Sachsen-Anhalt parliamentary elections?](/odds/will-afd-win-the-most-seats-in-the-2026-sachsen-anhalt-parliamentary-elections) — 100% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Trump be impeached before his term ends?"?
 
-As of September 01, 2026, Polymarket prices YES at 66.0%.
+As of September 02, 2026, Polymarket prices YES at 66.0%.
 
 ### Where can I trade on this prediction market?
 

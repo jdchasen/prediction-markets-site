@@ -1,23 +1,23 @@
 ---
-title: "Will the next diplomatic US-Iran meeting be in Saudi Arabia by September 30, 2026?"
-description: "Will the next diplomatic US-Iran meeting be in Saudi Arabia by September 30, 2026? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will the next diplomatic US-Iran meeting be in Saudi Arabia by September 30, 2026?"
+title: "Will the next Mythos-Class model debut at a score of at least 1490 by December 31, 2026?"
+description: "Will the next Mythos-Class model debut at a score of at least 1490 by December 31, 2026? Odds: 85.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will the next Mythos-Class model debut at a score of at least 1490 by December 31, 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-09-02
-expiryDate: 2026-10-01
+expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 0.1
-polymarketNo: 100.0
-polymarketVolume: 98830
-polymarketUrl: "https://polymarket.com/event/will-the-next-diplomatic-us-iran-meeting-be-in-saudi-arabia-by-september-30-2026-20260622185050766"
+polymarketYes: 85.5
+polymarketNo: 14.5
+polymarketVolume: 9921
+polymarketUrl: "https://polymarket.com/event/will-the-next-mythos-class-model-debut-at-a-score-of-at-least-1490-by-december-31-2026"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.1% | 100.0% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 85.5% | 14.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-the-next-diplomatic-us-iran-me
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will the next diplomatic US-Iran meeting be in Saudi Arabia by September 30, 2026?"?
+### What are the current odds for "Will the next Mythos-Class model debut at a score of at least 1490 by December 31, 2026?"?
 
-As of September 02, 2026, Polymarket prices YES at 0.1%.
+As of September 02, 2026, Polymarket prices YES at 85.5%.
 
 ### Where can I trade on this prediction market?
 

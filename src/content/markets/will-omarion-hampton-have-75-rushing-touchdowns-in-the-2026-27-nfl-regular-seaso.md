@@ -1,14 +1,14 @@
 ---
 title: "Will Omarion Hampton have 7.5+ rushing touchdowns in the 2026-27 NFL regular season?"
-description: "Will Omarion Hampton have 7.5+ rushing touchdowns in the 2026-27 NFL regular season? Odds: 51.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Omarion Hampton have 7.5+ rushing touchdowns in the 2026-27 NFL regular season? Odds: 52.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Omarion Hampton have 7.5+ rushing touchdowns in the 2026-27 NFL regular season?"
 category: "sports"
 status: "active"
-lastUpdated: 2026-09-01
+lastUpdated: 2026-09-02
 expiryDate: 2027-01-12
 tags: ["polymarket", "sports"]
-polymarketYes: 51.5
-polymarketNo: 48.5
+polymarketYes: 52.0
+polymarketNo: 48.0
 polymarketVolume: 9865
 polymarketUrl: "https://polymarket.com/event/omarion-hampton-7pt5-rushing-touchdowns-2026-27"
 ---
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/omarion-hampton-7pt5-rushing-touchd
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 51.5% | 48.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 52.0% | 48.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -28,7 +28,7 @@ polymarketUrl: "https://polymarket.com/event/omarion-hampton-7pt5-rushing-touchd
 
 ### What are the current odds for "Will Omarion Hampton have 7.5+ rushing touchdowns in the 2026-27 NFL regular season?"?
 
-As of September 01, 2026, Polymarket prices YES at 51.5%.
+As of September 02, 2026, Polymarket prices YES at 52.0%.
 
 ### Where can I trade on this prediction market?
 

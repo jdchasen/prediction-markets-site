@@ -3,8 +3,8 @@ title: "Will Alibaba be the second-best Code Arena | WebDev AI lab at the end of
 description: "Will Alibaba be the second-best Code Arena | WebDev AI lab at the end of September 2026? Odds: 36.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Alibaba be the second-best Code Arena | WebDev AI lab at the end of September 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-09-01
+status: "settled"
+lastUpdated: 2026-09-02
 expiryDate: 2026-10-01
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 36.0
