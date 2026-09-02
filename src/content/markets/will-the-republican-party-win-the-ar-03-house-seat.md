@@ -21,9 +21,9 @@ polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-a
 
 ## Related Markets
 
-- [Will Nooshi Dadgostar be the next Prime Minister of Sweden?](/odds/will-nooshi-dadgostar-be-the-next-prime-minister-of-sweden) — 0% YES
 - [Russia x Ukraine ceasefire agreement by October 31, 2026?](/odds/russia-x-ukraine-ceasefire-agreement-by-october-31-2026) — 8% YES
-- [Will Trump be impeached before his term ends?](/odds/will-trump-be-impeached-before-his-term-ends) — 66% YES
+- [Will Nooshi Dadgostar be the next Prime Minister of Sweden?](/odds/will-nooshi-dadgostar-be-the-next-prime-minister-of-sweden) — 0% YES
+- [Jack Lowden announced as next James Bond?](/odds/jack-lowden-announced-as-next-james-bond) — 20% YES
 
 ## Frequently Asked Questions
 

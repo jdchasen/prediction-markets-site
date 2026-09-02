@@ -9,7 +9,7 @@ expiryDate: 2026-11-01
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 7.5
 polymarketNo: 92.5
-polymarketVolume: 990725
+polymarketVolume: 995305
 polymarketUrl: "https://polymarket.com/event/russia-x-ukraine-ceasefire-agreement-by-october-31-2026"
 ---
 
@@ -17,12 +17,12 @@ polymarketUrl: "https://polymarket.com/event/russia-x-ukraine-ceasefire-agreemen
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 7.5% | 92.5% | $991K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 7.5% | 92.5% | $995K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Nooshi Dadgostar be the next Prime Minister of Sweden?](/odds/will-nooshi-dadgostar-be-the-next-prime-minister-of-sweden) — 0% YES
-- [Will Trump be impeached before his term ends?](/odds/will-trump-be-impeached-before-his-term-ends) — 66% YES
+- [Jack Lowden announced as next James Bond?](/odds/jack-lowden-announced-as-next-james-bond) — 20% YES
 - [Will AfD win the most seats in the 2026 Sachsen-Anhalt parliamentary elections?](/odds/will-afd-win-the-most-seats-in-the-2026-sachsen-anhalt-parliamentary-elections) — 100% YES
 
 ## Frequently Asked Questions

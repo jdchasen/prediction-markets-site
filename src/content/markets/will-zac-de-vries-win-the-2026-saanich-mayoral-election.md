@@ -1,23 +1,23 @@
 ---
-title: "Will AfD win the most seats in the 2026 Sachsen-Anhalt parliamentary elections?"
-description: "Will AfD win the most seats in the 2026 Sachsen-Anhalt parliamentary elections? Odds: 99.7% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will AfD win the most seats in the 2026 Sachsen-Anhalt parliamentary elections?"
+title: "Will Zac de Vries win the 2026 Saanich mayoral election?"
+description: "Will Zac de Vries win the 2026 Saanich mayoral election? Odds: 37.0% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Zac de Vries win the 2026 Saanich mayoral election?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-09-02
-expiryDate: 2026-09-06
+expiryDate: 2026-10-17
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 99.7
-polymarketNo: 0.4
-polymarketVolume: 99684
-polymarketUrl: "https://polymarket.com/event/will-afd-win-the-most-seats-in-the-2026-sachsen-anhalt-parliamentary-elections"
+polymarketYes: 37.0
+polymarketNo: 63.0
+polymarketVolume: 9947
+polymarketUrl: "https://polymarket.com/event/will-zac-de-vries-win-the-2026-saanich-mayoral-election"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 99.7% | 0.4% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 37.0% | 63.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-afd-win-the-most-seats-in-the-
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will AfD win the most seats in the 2026 Sachsen-Anhalt parliamentary elections?"?
+### What are the current odds for "Will Zac de Vries win the 2026 Saanich mayoral election?"?
 
-As of September 02, 2026, Polymarket prices YES at 99.7%.
+As of September 02, 2026, Polymarket prices YES at 37.0%.
 
 ### Where can I trade on this prediction market?
 

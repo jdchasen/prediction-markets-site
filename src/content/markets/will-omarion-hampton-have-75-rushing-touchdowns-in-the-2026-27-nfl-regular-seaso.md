@@ -3,7 +3,7 @@ title: "Will Omarion Hampton have 7.5+ rushing touchdowns in the 2026-27 NFL reg
 description: "Will Omarion Hampton have 7.5+ rushing touchdowns in the 2026-27 NFL regular season? Odds: 52.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Omarion Hampton have 7.5+ rushing touchdowns in the 2026-27 NFL regular season?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-09-02
 expiryDate: 2027-01-12
 tags: ["polymarket", "sports"]

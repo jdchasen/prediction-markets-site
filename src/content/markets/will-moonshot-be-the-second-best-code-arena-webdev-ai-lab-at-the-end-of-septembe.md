@@ -1,23 +1,23 @@
 ---
-title: "Will AfD win the most seats in the 2026 Sachsen-Anhalt parliamentary elections?"
-description: "Will AfD win the most seats in the 2026 Sachsen-Anhalt parliamentary elections? Odds: 99.7% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will AfD win the most seats in the 2026 Sachsen-Anhalt parliamentary elections?"
+title: "Will Moonshot be the second-best Code Arena | WebDev AI lab at the end of September 2026?"
+description: "Will Moonshot be the second-best Code Arena | WebDev AI lab at the end of September 2026? Odds: 14.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Moonshot be the second-best Code Arena | WebDev AI lab at the end of September 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-09-02
-expiryDate: 2026-09-06
-tags: ["elections", "politics", "polymarket"]
-polymarketYes: 99.7
-polymarketNo: 0.4
-polymarketVolume: 99684
-polymarketUrl: "https://polymarket.com/event/will-afd-win-the-most-seats-in-the-2026-sachsen-anhalt-parliamentary-elections"
+expiryDate: 2026-10-01
+tags: ["ai", "politics", "polymarket"]
+polymarketYes: 14.5
+polymarketNo: 85.5
+polymarketVolume: 9914
+polymarketUrl: "https://polymarket.com/event/will-moonshot-be-the-second-best-code-arena-webdev-ai-lab-at-the-end-of-september-2026-20260722215814728"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 99.7% | 0.4% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 14.5% | 85.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-afd-win-the-most-seats-in-the-
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will AfD win the most seats in the 2026 Sachsen-Anhalt parliamentary elections?"?
+### What are the current odds for "Will Moonshot be the second-best Code Arena | WebDev AI lab at the end of September 2026?"?
 
-As of September 02, 2026, Polymarket prices YES at 99.7%.
+As of September 02, 2026, Polymarket prices YES at 14.5%.
 
 ### Where can I trade on this prediction market?
 

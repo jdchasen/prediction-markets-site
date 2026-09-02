@@ -1,23 +1,23 @@
 ---
-title: "Will Predict.fun launch a token by June 30, 2027?"
-description: "Will Predict.fun launch a token by June 30, 2027? Odds: 72.7% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Predict.fun launch a token by June 30, 2027?"
+title: "Will Extended launch a token by September 30 2026?"
+description: "Will Extended launch a token by September 30 2026? Odds: 1.1% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Extended launch a token by September 30 2026?"
 category: "crypto"
-status: "settled"
+status: "active"
 lastUpdated: 2026-09-02
-expiryDate: 2028-01-01
+expiryDate: 2026-10-01
 tags: ["crypto", "polymarket"]
-polymarketYes: 72.7
-polymarketNo: 27.3
-polymarketVolume: 9902
-polymarketUrl: "https://polymarket.com/event/will-predictfun-launch-a-token-by-june-30-2027"
+polymarketYes: 1.1
+polymarketNo: 98.9
+polymarketVolume: 99595
+polymarketUrl: "https://polymarket.com/event/will-extended-launch-a-token-by-september-30-2026"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 72.7% | 27.3% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 1.1% | 98.9% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -26,9 +26,9 @@ polymarketUrl: "https://polymarket.com/event/will-predictfun-launch-a-token-by-j
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Predict.fun launch a token by June 30, 2027?"?
+### What are the current odds for "Will Extended launch a token by September 30 2026?"?
 
-As of September 02, 2026, Polymarket prices YES at 72.7%.
+As of September 02, 2026, Polymarket prices YES at 1.1%.
 
 ### Where can I trade on this prediction market?
 

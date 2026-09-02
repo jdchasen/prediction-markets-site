@@ -3,7 +3,7 @@ title: "UFC Fight Night: Michael Page vs. Nursulton Ruziboev (Middleweight, Main
 description: "UFC Fight Night: Michael Page vs. Nursulton Ruziboev (Middleweight, Main Card) Odds: 60.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "UFC Fight Night: Michael Page vs. Nursulton Ruziboev (Middleweight, Main Card)"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-09-02
 expiryDate: 2026-09-06
 tags: ["ai", "politics", "polymarket"]

@@ -3,7 +3,7 @@ title: "Liberty vs. James Madison: 4Q Moneyline"
 description: "Liberty vs. James Madison: 4Q Moneyline Odds: 64.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Liberty vs. James Madison: 4Q Moneyline"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-09-02
 expiryDate: 2026-09-05
 tags: ["politics", "polymarket"]

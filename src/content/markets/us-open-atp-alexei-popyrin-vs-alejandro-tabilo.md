@@ -3,7 +3,7 @@ title: "US Open ATP: Alexei Popyrin vs Alejandro Tabilo"
 description: "US Open ATP: Alexei Popyrin vs Alejandro Tabilo Odds: 42.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "US Open ATP: Alexei Popyrin vs Alejandro Tabilo"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-09-02
 expiryDate: 2026-09-09
 tags: ["politics", "polymarket"]

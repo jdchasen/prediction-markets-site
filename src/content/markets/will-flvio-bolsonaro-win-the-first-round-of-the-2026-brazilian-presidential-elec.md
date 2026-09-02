@@ -1,35 +1,35 @@
 ---
-title: "Will Flávio Bolsonaro win the first round of the 2026 Brazilian presidential election by less than 5%?"
-description: "Will Flávio Bolsonaro win the first round of the 2026 Brazilian presidential election by less than 5%? Odds: 6.6% YES on Polymarket. See live prices and trad..."
-marketQuestion: "Will Flávio Bolsonaro win the first round of the 2026 Brazilian presidential election by less than 5%?"
+title: "Will Flávio Bolsonaro win the first round of the 2026 Brazilian presidential election by 5–10%?"
+description: "Will Flávio Bolsonaro win the first round of the 2026 Brazilian presidential election by 5–10%? Odds: 2.8% YES on Polymarket. See live prices and trade this ..."
+marketQuestion: "Will Flávio Bolsonaro win the first round of the 2026 Brazilian presidential election by 5–10%?"
 category: "politics"
-status: "settled"
-lastUpdated: 2026-08-13
+status: "active"
+lastUpdated: 2026-09-02
 expiryDate: 2026-10-04
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 6.6
-polymarketNo: 93.4
-polymarketVolume: 9961
-polymarketUrl: "https://polymarket.com/event/will-flvio-bolsonaro-win-the-first-round-of-the-2026-brazilian-presidential-election-by-less-than-5-183"
+polymarketYes: 2.8
+polymarketNo: 97.2
+polymarketVolume: 9919
+polymarketUrl: "https://polymarket.com/event/will-flvio-bolsonaro-win-the-first-round-of-the-2026-brazilian-presidential-election-by-510"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 6.6% | 93.4% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 2.8% | 97.2% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Eric Trump win the 2028 Republican presidential nomination?](/odds/will-eric-trump-win-the-2028-republican-presidential-nomination) — 0% YES
-- [Will Crude Oil reach a new all-time high by September 30?](/odds/will-crude-oil-reach-a-new-all-time-high-by-september-30) — 4% YES
-- [Will Samuel Alito announce his retirement by September 30, 2026?](/odds/will-samuel-alito-announce-his-retirement-by-september-30-2026) — 2% YES
+- [Russia x Ukraine ceasefire agreement by October 31, 2026?](/odds/russia-x-ukraine-ceasefire-agreement-by-october-31-2026) — 8% YES
+- [Will Nooshi Dadgostar be the next Prime Minister of Sweden?](/odds/will-nooshi-dadgostar-be-the-next-prime-minister-of-sweden) — 0% YES
+- [Jack Lowden announced as next James Bond?](/odds/jack-lowden-announced-as-next-james-bond) — 20% YES
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Flávio Bolsonaro win the first round of the 2026 Brazilian presidential election by less than 5%?"?
+### What are the current odds for "Will Flávio Bolsonaro win the first round of the 2026 Brazilian presidential election by 5–10%?"?
 
-As of August 13, 2026, Polymarket prices YES at 6.6%.
+As of September 02, 2026, Polymarket prices YES at 2.8%.
 
 ### Where can I trade on this prediction market?
 

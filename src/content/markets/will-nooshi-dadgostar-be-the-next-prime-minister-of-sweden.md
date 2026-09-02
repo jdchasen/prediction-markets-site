@@ -9,7 +9,7 @@ expiryDate: 2026-09-13
 tags: ["politics", "polymarket"]
 polymarketYes: 0.1
 polymarketNo: 99.9
-polymarketVolume: 992664
+polymarketVolume: 993041
 polymarketUrl: "https://polymarket.com/event/will-nooshi-dadgostar-be-the-next-prime-minister-of-sweden"
 ---
 
@@ -22,7 +22,7 @@ polymarketUrl: "https://polymarket.com/event/will-nooshi-dadgostar-be-the-next-p
 ## Related Markets
 
 - [Russia x Ukraine ceasefire agreement by October 31, 2026?](/odds/russia-x-ukraine-ceasefire-agreement-by-october-31-2026) — 8% YES
-- [Will Trump be impeached before his term ends?](/odds/will-trump-be-impeached-before-his-term-ends) — 66% YES
+- [Jack Lowden announced as next James Bond?](/odds/jack-lowden-announced-as-next-james-bond) — 20% YES
 - [Will AfD win the most seats in the 2026 Sachsen-Anhalt parliamentary elections?](/odds/will-afd-win-the-most-seats-in-the-2026-sachsen-anhalt-parliamentary-elections) — 100% YES
 
 ## Frequently Asked Questions

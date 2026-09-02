@@ -9,7 +9,7 @@ expiryDate: 2027-01-01
 tags: ["crypto", "ethereum", "polymarket"]
 polymarketYes: 2.2
 polymarketNo: 97.8
-polymarketVolume: 98723
+polymarketVolume: 98783
 polymarketUrl: "https://polymarket.com/event/will-ethereum-dip-to-500-by-december-31-2026-from-june-8"
 ---
 
@@ -21,8 +21,8 @@ polymarketUrl: "https://polymarket.com/event/will-ethereum-dip-to-500-by-decembe
 
 ## Related Markets
 
+- [Will Extended launch a token by September 30 2026?](/odds/will-extended-launch-a-token-by-september-30-2026) — 1% YES
 - [Will Loopscale launch a token by December 31, 2026?](/odds/will-loopscale-launch-a-token-by-december-31-2026) — 13% YES
-- [Will Predict.fun launch a token by June 30, 2027?](/odds/will-predictfun-launch-a-token-by-june-30-2027) — 73% YES
 
 ## Frequently Asked Questions
 

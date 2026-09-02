@@ -9,7 +9,7 @@ expiryDate: 2026-09-16
 tags: ["economics", "federal-reserve", "interest-rates", "polymarket"]
 polymarketYes: 0.1
 polymarketNo: 99.9
-polymarketVolume: 9731804
+polymarketVolume: 9837277
 polymarketUrl: "https://polymarket.com/event/will-the-fed-decrease-interest-rates-by-50-bps-after-the-september-2026-meeting-863"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-fed-decrease-interest-rate
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.1% | 99.9% | $9.7M | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.1% | 99.9% | $9.8M | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Frequently Asked Questions
 

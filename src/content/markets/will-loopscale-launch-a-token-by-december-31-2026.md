@@ -21,8 +21,8 @@ polymarketUrl: "https://polymarket.com/event/will-loopscale-launch-a-token-by-de
 
 ## Related Markets
 
+- [Will Extended launch a token by September 30 2026?](/odds/will-extended-launch-a-token-by-september-30-2026) — 1% YES
 - [Will Ethereum dip to $500 by December 31, 2026?](/odds/will-ethereum-dip-to-500-by-december-31-2026) — 2% YES
-- [Will Predict.fun launch a token by June 30, 2027?](/odds/will-predictfun-launch-a-token-by-june-30-2027) — 73% YES
 
 ## Frequently Asked Questions
 

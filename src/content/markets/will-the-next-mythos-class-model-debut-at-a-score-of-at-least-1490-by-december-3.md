@@ -3,7 +3,7 @@ title: "Will the next Mythos-Class model debut at a score of at least 1490 by De
 description: "Will the next Mythos-Class model debut at a score of at least 1490 by December 31, 2026? Odds: 85.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the next Mythos-Class model debut at a score of at least 1490 by December 31, 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-09-02
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]

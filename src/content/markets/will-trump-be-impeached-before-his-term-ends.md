@@ -9,7 +9,7 @@ expiryDate: 2029-01-20
 tags: ["politics", "polymarket", "trump"]
 polymarketYes: 66.0
 polymarketNo: 34.0
-polymarketVolume: 99633
+polymarketVolume: 99636
 polymarketUrl: "https://polymarket.com/event/will-trump-be-impeached-before-his-term-ends"
 ---
 
@@ -21,9 +21,9 @@ polymarketUrl: "https://polymarket.com/event/will-trump-be-impeached-before-his-
 
 ## Related Markets
 
-- [Will Nooshi Dadgostar be the next Prime Minister of Sweden?](/odds/will-nooshi-dadgostar-be-the-next-prime-minister-of-sweden) — 0% YES
 - [Russia x Ukraine ceasefire agreement by October 31, 2026?](/odds/russia-x-ukraine-ceasefire-agreement-by-october-31-2026) — 8% YES
-- [Will AfD win the most seats in the 2026 Sachsen-Anhalt parliamentary elections?](/odds/will-afd-win-the-most-seats-in-the-2026-sachsen-anhalt-parliamentary-elections) — 100% YES
+- [Will Nooshi Dadgostar be the next Prime Minister of Sweden?](/odds/will-nooshi-dadgostar-be-the-next-prime-minister-of-sweden) — 0% YES
+- [Jack Lowden announced as next James Bond?](/odds/jack-lowden-announced-as-next-james-bond) — 20% YES
 
 ## Frequently Asked Questions
 

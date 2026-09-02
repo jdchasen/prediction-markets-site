@@ -1,15 +1,15 @@
 ---
 title: "Will Emmanuel Macron be the next leader out before 2027?"
-description: "Will Emmanuel Macron be the next leader out before 2027? Odds: 2.2% YES on Polymarket. See live prices and trade this market."
+description: "Will Emmanuel Macron be the next leader out before 2027? Odds: 1.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Emmanuel Macron be the next leader out before 2027?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-09-02
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]
-polymarketYes: 2.2
-polymarketNo: 97.8
-polymarketVolume: 9960
+polymarketYes: 1.8
+polymarketNo: 98.2
+polymarketVolume: 9988
 polymarketUrl: "https://polymarket.com/event/will-emmanuel-macron-be-the-next-leader-out-before-2027-20260630194627364"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-emmanuel-macron-be-the-next-le
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 2.2% | 97.8% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 1.8% | 98.2% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Nooshi Dadgostar be the next Prime Minister of Sweden?](/odds/will-nooshi-dadgostar-be-the-next-prime-minister-of-sweden) — 0% YES
 - [Russia x Ukraine ceasefire agreement by October 31, 2026?](/odds/russia-x-ukraine-ceasefire-agreement-by-october-31-2026) — 8% YES
-- [Will Trump be impeached before his term ends?](/odds/will-trump-be-impeached-before-his-term-ends) — 66% YES
+- [Will Nooshi Dadgostar be the next Prime Minister of Sweden?](/odds/will-nooshi-dadgostar-be-the-next-prime-minister-of-sweden) — 0% YES
+- [Jack Lowden announced as next James Bond?](/odds/jack-lowden-announced-as-next-james-bond) — 20% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Emmanuel Macron be the next leader out before 2027?"?
 
-As of September 02, 2026, Polymarket prices YES at 2.2%.
+As of September 02, 2026, Polymarket prices YES at 1.8%.
 
 ### Where can I trade on this prediction market?
 
