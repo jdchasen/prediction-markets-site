@@ -1,16 +1,16 @@
 ---
-title: "Will Jaxson Smith-Njigba win the 2026 NFL MVP?"
-description: "Will Jaxson Smith-Njigba win the 2026 NFL MVP? Odds: 0.2% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Jaxson Smith-Njigba win the 2026 NFL MVP?"
+title: "Will Ja'Marr Chase win the 2026 NFL MVP?"
+description: "Will Ja'Marr Chase win the 2026 NFL MVP? Odds: 0.2% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Ja'Marr Chase win the 2026 NFL MVP?"
 category: "sports"
-status: "settled"
+status: "active"
 lastUpdated: 2026-09-03
 expiryDate: 2027-02-15
 tags: ["polymarket", "sports"]
 polymarketYes: 0.2
 polymarketNo: 99.8
-polymarketVolume: 9926
-polymarketUrl: "https://polymarket.com/event/will-jaxson-smith-njigba-win-the-2026-nfl-mvp"
+polymarketVolume: 9930
+polymarketUrl: "https://polymarket.com/event/will-jamarr-chase-win-the-2026-nfl-mvp"
 ---
 
 ## Current Odds
@@ -21,13 +21,15 @@ polymarketUrl: "https://polymarket.com/event/will-jaxson-smith-njigba-win-the-20
 
 ## Related Markets
 
-- [Will Crystal Palace win the 2026-27 English Premier League (EPL) Championship?](/odds/will-crystal-palace-win-the-2026-27-english-premier-league-epl-championship) — 0% YES
+- [Will Lewis Hamilton win the 2026 F1 Italian Grand Prix?](/odds/will-lewis-hamilton-win-the-2026-f1-italian-grand-prix) — 12% YES
+- [Will Lewis Hamilton win the 2026 F1 Italian Grand Prix?](/odds/will-lewis-hamilton-win-the-2026-f1-italian-grand-prix) — 12% YES
+- [Will Matthew Stafford win the 2026 NFL MVP?](/odds/will-matthew-stafford-win-the-2026-nfl-mvp) — 4% YES
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Jaxson Smith-Njigba win the 2026 NFL MVP?"?
+### What are the current odds for "Will Ja'Marr Chase win the 2026 NFL MVP?"?
 
-As of September 02, 2026, Polymarket prices YES at 0.2%.
+As of September 03, 2026, Polymarket prices YES at 0.2%.
 
 ### Where can I trade on this prediction market?
 

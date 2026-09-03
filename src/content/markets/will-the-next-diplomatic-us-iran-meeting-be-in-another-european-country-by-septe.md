@@ -4,7 +4,7 @@ description: "Will the next diplomatic US-Iran meeting be in another European co
 marketQuestion: "Will the next diplomatic US-Iran meeting be in another European country by September 30, 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-09-02
+lastUpdated: 2026-09-03
 expiryDate: 2026-10-01
 tags: ["politics", "polymarket"]
 polymarketYes: 0.1
@@ -21,15 +21,15 @@ polymarketUrl: "https://polymarket.com/event/will-the-next-diplomatic-us-iran-me
 
 ## Related Markets
 
-- [Russia x Ukraine ceasefire agreement by October 31, 2026?](/odds/russia-x-ukraine-ceasefire-agreement-by-october-31-2026) — 8% YES
-- [Will Nooshi Dadgostar be the next Prime Minister of Sweden?](/odds/will-nooshi-dadgostar-be-the-next-prime-minister-of-sweden) — 0% YES
-- [Jack Lowden announced as next James Bond?](/odds/jack-lowden-announced-as-next-james-bond) — 20% YES
+- [Will Faker win a Finals MVP Award at an international event in 2026?](/odds/will-faker-win-a-finals-mvp-award-at-an-international-event-in-2026) — 9% YES
+- [Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?](/odds/will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-dec) — 12% YES
+- [Will Drake be the top artist for 2026?](/odds/will-drake-be-the-top-artist-for-2026) — 7% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will the next diplomatic US-Iran meeting be in another European country by September 30, 2026?"?
 
-As of September 02, 2026, Polymarket prices YES at 0.1%.
+As of September 03, 2026, Polymarket prices YES at 0.1%.
 
 ### Where can I trade on this prediction market?
 

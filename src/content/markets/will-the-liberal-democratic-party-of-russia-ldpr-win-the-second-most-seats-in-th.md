@@ -3,8 +3,8 @@ title: "Will the Liberal Democratic Party of Russia (LDPR) win the second-most s
 description: "Will the Liberal Democratic Party of Russia (LDPR) win the second-most seats in the next Russian parliamentary election? Odds: 5.2% YES on Polymarket. See li..."
 marketQuestion: "Will the Liberal Democratic Party of Russia (LDPR) win the second-most seats in the next Russian parliamentary election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-09-02
+status: "settled"
+lastUpdated: 2026-09-03
 expiryDate: 2026-09-20
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 5.2

@@ -3,8 +3,8 @@ title: "Will Trump be impeached before his term ends?"
 description: "Will Trump be impeached before his term ends? Odds: 66.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Trump be impeached before his term ends?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-09-02
+status: "settled"
+lastUpdated: 2026-09-03
 expiryDate: 2029-01-20
 tags: ["politics", "polymarket", "trump"]
 polymarketYes: 66.0

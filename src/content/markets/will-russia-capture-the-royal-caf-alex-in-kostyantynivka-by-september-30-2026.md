@@ -1,23 +1,23 @@
 ---
-title: "Will Michelle Bolsonaro win the most votes in the 2026 Federal District Senate election?"
-description: "Will Michelle Bolsonaro win the most votes in the 2026 Federal District Senate election? Odds: 83.0% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Michelle Bolsonaro win the most votes in the 2026 Federal District Senate election?"
+title: "Will Russia capture the Royal Café Alex in Kostyantynivka by September 30, 2026?"
+description: "Will Russia capture the Royal Café Alex in Kostyantynivka by September 30, 2026? Odds: 15.0% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Russia capture the Royal Café Alex in Kostyantynivka by September 30, 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-09-03
-expiryDate: 2026-10-04
-tags: ["elections", "federal-reserve", "politics", "polymarket"]
-polymarketYes: 83.0
-polymarketNo: 17.0
-polymarketVolume: 9985
-polymarketUrl: "https://polymarket.com/event/will-michelle-bolsonaro-win-the-most-votes-in-the-2026-federal-district-senate-election"
+expiryDate: 2026-10-01
+tags: ["politics", "polymarket"]
+polymarketYes: 15.0
+polymarketNo: 85.0
+polymarketVolume: 9916
+polymarketUrl: "https://polymarket.com/event/will-russia-capture-the-royal-cafe-alex-in-kostyantynivka-by-september-30-2026"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 83.0% | 17.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 15.0% | 85.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-michelle-bolsonaro-win-the-mos
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Michelle Bolsonaro win the most votes in the 2026 Federal District Senate election?"?
+### What are the current odds for "Will Russia capture the Royal Café Alex in Kostyantynivka by September 30, 2026?"?
 
-As of September 03, 2026, Polymarket prices YES at 83.0%.
+As of September 03, 2026, Polymarket prices YES at 15.0%.
 
 ### Where can I trade on this prediction market?
 

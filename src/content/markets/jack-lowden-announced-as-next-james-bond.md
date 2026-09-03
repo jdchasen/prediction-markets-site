@@ -3,8 +3,8 @@ title: "Jack Lowden announced as next James Bond?"
 description: "Jack Lowden announced as next James Bond? Odds: 20.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Jack Lowden announced as next James Bond?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-09-02
+status: "settled"
+lastUpdated: 2026-09-03
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 20.1

@@ -3,8 +3,8 @@ title: "Will Flávio Bolsonaro win the first round of the 2026 Brazilian preside
 description: "Will Flávio Bolsonaro win the first round of the 2026 Brazilian presidential election by 5–10%? Odds: 2.8% YES on Polymarket. See live prices and trade this ..."
 marketQuestion: "Will Flávio Bolsonaro win the first round of the 2026 Brazilian presidential election by 5–10%?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-09-02
+status: "settled"
+lastUpdated: 2026-09-03
 expiryDate: 2026-10-04
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 2.8

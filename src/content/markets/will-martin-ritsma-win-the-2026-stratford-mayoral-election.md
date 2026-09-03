@@ -1,23 +1,23 @@
 ---
-title: "Will Michelle Bolsonaro win the most votes in the 2026 Federal District Senate election?"
-description: "Will Michelle Bolsonaro win the most votes in the 2026 Federal District Senate election? Odds: 83.0% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Michelle Bolsonaro win the most votes in the 2026 Federal District Senate election?"
+title: "Will Martin Ritsma win the 2026 Stratford mayoral election?"
+description: "Will Martin Ritsma win the 2026 Stratford mayoral election? Odds: 71.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Martin Ritsma win the 2026 Stratford mayoral election?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-09-03
-expiryDate: 2026-10-04
-tags: ["elections", "federal-reserve", "politics", "polymarket"]
-polymarketYes: 83.0
-polymarketNo: 17.0
-polymarketVolume: 9985
-polymarketUrl: "https://polymarket.com/event/will-michelle-bolsonaro-win-the-most-votes-in-the-2026-federal-district-senate-election"
+expiryDate: 2026-10-26
+tags: ["elections", "politics", "polymarket"]
+polymarketYes: 71.5
+polymarketNo: 28.5
+polymarketVolume: 9899
+polymarketUrl: "https://polymarket.com/event/will-martin-ritsma-win-the-2026-stratford-ontario-mayoral-election"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 83.0% | 17.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 71.5% | 28.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-michelle-bolsonaro-win-the-mos
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Michelle Bolsonaro win the most votes in the 2026 Federal District Senate election?"?
+### What are the current odds for "Will Martin Ritsma win the 2026 Stratford mayoral election?"?
 
-As of September 03, 2026, Polymarket prices YES at 83.0%.
+As of September 03, 2026, Polymarket prices YES at 71.5%.
 
 ### Where can I trade on this prediction market?
 

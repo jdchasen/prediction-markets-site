@@ -4,12 +4,12 @@ description: "Will Extended launch a token by September 30 2026? Odds: 1.1% YES 
 marketQuestion: "Will Extended launch a token by September 30 2026?"
 category: "crypto"
 status: "active"
-lastUpdated: 2026-09-02
+lastUpdated: 2026-09-03
 expiryDate: 2026-10-01
 tags: ["crypto", "polymarket"]
 polymarketYes: 1.1
 polymarketNo: 98.9
-polymarketVolume: 99595
+polymarketVolume: 99731
 polymarketUrl: "https://polymarket.com/event/will-extended-launch-a-token-by-september-30-2026"
 ---
 
@@ -23,12 +23,13 @@ polymarketUrl: "https://polymarket.com/event/will-extended-launch-a-token-by-sep
 
 - [Will Loopscale launch a token by December 31, 2026?](/odds/will-loopscale-launch-a-token-by-december-31-2026) — 13% YES
 - [Will Ethereum dip to $500 by December 31, 2026?](/odds/will-ethereum-dip-to-500-by-december-31-2026) — 2% YES
+- [Hurupay FDV above $40M one day after launch?](/odds/hurupay-fdv-above-40m-one-day-after-launch) — 4% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Extended launch a token by September 30 2026?"?
 
-As of September 02, 2026, Polymarket prices YES at 1.1%.
+As of September 03, 2026, Polymarket prices YES at 1.1%.
 
 ### Where can I trade on this prediction market?
 

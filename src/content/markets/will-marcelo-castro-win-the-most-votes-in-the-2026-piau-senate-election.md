@@ -1,15 +1,15 @@
 ---
 title: "Will Marcelo Castro win the most votes in the 2026 Piauí Senate election?"
-description: "Will Marcelo Castro win the most votes in the 2026 Piauí Senate election? Odds: 43.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Marcelo Castro win the most votes in the 2026 Piauí Senate election? Odds: 44.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Marcelo Castro win the most votes in the 2026 Piauí Senate election?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-09-02
+lastUpdated: 2026-09-03
 expiryDate: 2026-10-04
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 43.5
-polymarketNo: 56.5
-polymarketVolume: 9958
+polymarketYes: 44.5
+polymarketNo: 55.5
+polymarketVolume: 9984
 polymarketUrl: "https://polymarket.com/event/will-marcelo-castro-win-the-most-votes-in-the-2026-piaui-senate-election"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-marcelo-castro-win-the-most-vo
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 43.5% | 56.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 44.5% | 55.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Russia x Ukraine ceasefire agreement by October 31, 2026?](/odds/russia-x-ukraine-ceasefire-agreement-by-october-31-2026) — 8% YES
-- [Will Nooshi Dadgostar be the next Prime Minister of Sweden?](/odds/will-nooshi-dadgostar-be-the-next-prime-minister-of-sweden) — 0% YES
-- [Jack Lowden announced as next James Bond?](/odds/jack-lowden-announced-as-next-james-bond) — 20% YES
+- [Will Faker win a Finals MVP Award at an international event in 2026?](/odds/will-faker-win-a-finals-mvp-award-at-an-international-event-in-2026) — 9% YES
+- [Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?](/odds/will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-dec) — 12% YES
+- [Will Drake be the top artist for 2026?](/odds/will-drake-be-the-top-artist-for-2026) — 7% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Marcelo Castro win the most votes in the 2026 Piauí Senate election?"?
 
-As of September 02, 2026, Polymarket prices YES at 43.5%.
+As of September 03, 2026, Polymarket prices YES at 44.5%.
 
 ### Where can I trade on this prediction market?
 

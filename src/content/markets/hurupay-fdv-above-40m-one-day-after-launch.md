@@ -1,15 +1,15 @@
 ---
 title: "Hurupay FDV above $40M one day after launch?"
-description: "Hurupay FDV above $40M one day after launch? Odds: 8.0% YES on Polymarket. See live prices and trade this market."
+description: "Hurupay FDV above $40M one day after launch? Odds: 3.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Hurupay FDV above $40M one day after launch?"
 category: "crypto"
-status: "settled"
-lastUpdated: 2026-08-28
+status: "active"
+lastUpdated: 2026-09-03
 expiryDate: 2027-01-01
 tags: ["crypto", "polymarket"]
-polymarketYes: 8.0
-polymarketNo: 92.0
-polymarketVolume: 9831
+polymarketYes: 3.8
+polymarketNo: 96.2
+polymarketVolume: 9876
 polymarketUrl: "https://polymarket.com/event/hurupay-fdv-above-40m-one-day-after-launch"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/hurupay-fdv-above-40m-one-day-after
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 8.0% | 92.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 3.8% | 96.2% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Loopscale launch a token by December 31, 2026?](/odds/will-loopscale-launch-a-token-by-december-31-2026) — 15% YES
-- [Will the price of Bitcoin be above $80,000 on August 31?](/odds/will-the-price-of-bitcoin-be-above-80000-on-august-31) — 48% YES
-- [Ventuals FDV above $2B one day after launch?](/odds/ventuals-fdv-above-2b-one-day-after-launch) — 2% YES
+- [Will Extended launch a token by September 30 2026?](/odds/will-extended-launch-a-token-by-september-30-2026) — 1% YES
+- [Will Loopscale launch a token by December 31, 2026?](/odds/will-loopscale-launch-a-token-by-december-31-2026) — 13% YES
+- [Will Ethereum dip to $500 by December 31, 2026?](/odds/will-ethereum-dip-to-500-by-december-31-2026) — 2% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Hurupay FDV above $40M one day after launch?"?
 
-As of August 28, 2026, Polymarket prices YES at 8.0%.
+As of September 03, 2026, Polymarket prices YES at 3.8%.
 
 ### Where can I trade on this prediction market?
 

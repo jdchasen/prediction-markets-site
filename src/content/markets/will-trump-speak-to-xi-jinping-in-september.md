@@ -3,8 +3,8 @@ title: "Will Trump speak to Xi Jinping in September?"
 description: "Will Trump speak to Xi Jinping in September? Odds: 94.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Trump speak to Xi Jinping in September?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-09-02
+status: "settled"
+lastUpdated: 2026-09-03
 expiryDate: 2026-09-30
 tags: ["politics", "polymarket", "trump"]
 polymarketYes: 94.2

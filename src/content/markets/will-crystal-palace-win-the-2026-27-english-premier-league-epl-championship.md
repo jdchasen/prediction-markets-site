@@ -3,8 +3,8 @@ title: "Will Crystal Palace win the 2026-27 English Premier League (EPL) Champio
 description: "Will Crystal Palace win the 2026-27 English Premier League (EPL) Championship? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Crystal Palace win the 2026-27 English Premier League (EPL) Championship?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-09-02
+status: "settled"
+lastUpdated: 2026-09-03
 expiryDate: 2027-05-30
 tags: ["polymarket", "sports"]
 polymarketYes: 0.1

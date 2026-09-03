@@ -1,23 +1,23 @@
 ---
-title: "Will Omarion Hampton have 7.5+ rushing touchdowns in the 2026-27 NFL regular season?"
-description: "Will Omarion Hampton have 7.5+ rushing touchdowns in the 2026-27 NFL regular season? Odds: 51.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Omarion Hampton have 7.5+ rushing touchdowns in the 2026-27 NFL regular season?"
+title: "Will Matthew Stafford win the 2026 NFL MVP?"
+description: "Will Matthew Stafford win the 2026 NFL MVP? Odds: 4.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Matthew Stafford win the 2026 NFL MVP?"
 category: "sports"
 status: "active"
 lastUpdated: 2026-09-03
-expiryDate: 2027-01-12
+expiryDate: 2027-02-15
 tags: ["polymarket", "sports"]
-polymarketYes: 51.5
-polymarketNo: 48.5
-polymarketVolume: 9865
-polymarketUrl: "https://polymarket.com/event/omarion-hampton-7pt5-rushing-touchdowns-2026-27"
+polymarketYes: 4.5
+polymarketNo: 95.5
+polymarketVolume: 9918
+polymarketUrl: "https://polymarket.com/event/will-matthew-stafford-win-the-2026-nfl-mvp"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 51.5% | 48.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 4.5% | 95.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/omarion-hampton-7pt5-rushing-touchd
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Omarion Hampton have 7.5+ rushing touchdowns in the 2026-27 NFL regular season?"?
+### What are the current odds for "Will Matthew Stafford win the 2026 NFL MVP?"?
 
-As of September 03, 2026, Polymarket prices YES at 51.5%.
+As of September 03, 2026, Polymarket prices YES at 4.5%.
 
 ### Where can I trade on this prediction market?
 

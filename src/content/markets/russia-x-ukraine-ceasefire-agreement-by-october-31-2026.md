@@ -3,8 +3,8 @@ title: "Russia x Ukraine ceasefire agreement by October 31, 2026?"
 description: "Russia x Ukraine ceasefire agreement by October 31, 2026? Odds: 7.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Russia x Ukraine ceasefire agreement by October 31, 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-09-02
+status: "settled"
+lastUpdated: 2026-09-03
 expiryDate: 2026-11-01
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 7.5
