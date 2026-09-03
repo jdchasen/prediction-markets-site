@@ -1,23 +1,23 @@
 ---
-title: "Will Martin Ritsma win the 2026 Stratford mayoral election?"
-description: "Will Martin Ritsma win the 2026 Stratford mayoral election? Odds: 61.0% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Martin Ritsma win the 2026 Stratford mayoral election?"
+title: "Will Ciro Gomes win the 2026 Ceará gubernatorial election?"
+description: "Will Ciro Gomes win the 2026 Ceará gubernatorial election? Odds: 61.0% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Ciro Gomes win the 2026 Ceará gubernatorial election?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-09-03
-expiryDate: 2026-10-26
+expiryDate: 2026-10-04
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 61.0
 polymarketNo: 39.0
-polymarketVolume: 9919
-polymarketUrl: "https://polymarket.com/event/will-martin-ritsma-win-the-2026-stratford-ontario-mayoral-election"
+polymarketVolume: 99053
+polymarketUrl: "https://polymarket.com/event/will-ciro-gomes-win-the-2026-cear-gubernatorial-election"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 61.0% | 39.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 61.0% | 39.0% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,7 +27,7 @@ polymarketUrl: "https://polymarket.com/event/will-martin-ritsma-win-the-2026-str
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Martin Ritsma win the 2026 Stratford mayoral election?"?
+### What are the current odds for "Will Ciro Gomes win the 2026 Ceará gubernatorial election?"?
 
 As of September 03, 2026, Polymarket prices YES at 61.0%.
 

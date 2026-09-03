@@ -23,7 +23,7 @@ polymarketUrl: "https://polymarket.com/event/will-extended-launch-a-token-by-sep
 
 - [Will Loopscale launch a token by December 31, 2026?](/odds/will-loopscale-launch-a-token-by-december-31-2026) — 13% YES
 - [Will Ethereum dip to $500 by December 31, 2026?](/odds/will-ethereum-dip-to-500-by-december-31-2026) — 2% YES
-- [Hurupay FDV above $40M one day after launch?](/odds/hurupay-fdv-above-40m-one-day-after-launch) — 4% YES
+- [Will Concrete launch a token by June 30, 2027?](/odds/will-concrete-launch-a-token-by-june-30-2027) — 88% YES
 
 ## Frequently Asked Questions
 

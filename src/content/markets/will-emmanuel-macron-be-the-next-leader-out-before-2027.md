@@ -1,14 +1,14 @@
 ---
 title: "Will Emmanuel Macron be the next leader out before 2027?"
-description: "Will Emmanuel Macron be the next leader out before 2027? Odds: 1.9% YES on Polymarket. See live prices and trade this market."
+description: "Will Emmanuel Macron be the next leader out before 2027? Odds: 2.6% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Emmanuel Macron be the next leader out before 2027?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-09-03
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]
-polymarketYes: 1.9
-polymarketNo: 98.1
+polymarketYes: 2.6
+polymarketNo: 97.4
 polymarketVolume: 9988
 polymarketUrl: "https://polymarket.com/event/will-emmanuel-macron-be-the-next-leader-out-before-2027-20260630194627364"
 ---
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-emmanuel-macron-be-the-next-le
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 1.9% | 98.1% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 2.6% | 97.4% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
+- [Israel x Iran ceasefire continues through September 30?](/odds/israel-x-iran-ceasefire-continues-through-september-30) — 84% YES
 - [Will Faker win a Finals MVP Award at an international event in 2026?](/odds/will-faker-win-a-finals-mvp-award-at-an-international-event-in-2026) — 9% YES
 - [Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?](/odds/will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-dec) — 12% YES
-- [Will Drake be the top artist for 2026?](/odds/will-drake-be-the-top-artist-for-2026) — 7% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Emmanuel Macron be the next leader out before 2027?"?
 
-As of September 03, 2026, Polymarket prices YES at 1.9%.
+As of September 03, 2026, Polymarket prices YES at 2.6%.
 
 ### Where can I trade on this prediction market?
 

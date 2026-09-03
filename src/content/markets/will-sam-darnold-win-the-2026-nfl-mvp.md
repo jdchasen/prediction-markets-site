@@ -21,9 +21,9 @@ polymarketUrl: "https://polymarket.com/event/will-sam-darnold-win-the-2026-nfl-m
 
 ## Related Markets
 
-- [Will Lewis Hamilton win the 2026 F1 Italian Grand Prix?](/odds/will-lewis-hamilton-win-the-2026-f1-italian-grand-prix) — 12% YES
-- [Will Lewis Hamilton win the 2026 F1 Italian Grand Prix?](/odds/will-lewis-hamilton-win-the-2026-f1-italian-grand-prix) — 12% YES
 - [Will Ja'Marr Chase win the 2026 NFL MVP?](/odds/will-jamarr-chase-win-the-2026-nfl-mvp) — 0% YES
+- [Will Matthew Stafford win the 2026 NFL MVP?](/odds/will-matthew-stafford-win-the-2026-nfl-mvp) — 4% YES
+- [Will Omarion Hampton have 7.5+ rushing touchdowns in the 2026-27 NFL regular season?](/odds/will-omarion-hampton-have-75-rushing-touchdowns-in-the-2026-27-nfl-regular-seaso) — 52% YES
 
 ## Frequently Asked Questions
 

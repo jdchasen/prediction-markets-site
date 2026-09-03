@@ -3,7 +3,7 @@ title: "Will Lewis Hamilton win the 2026 F1 Italian Grand Prix?"
 description: "Will Lewis Hamilton win the 2026 F1 Italian Grand Prix? Odds: 11.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Lewis Hamilton win the 2026 F1 Italian Grand Prix?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-09-03
 expiryDate: 2026-09-13
 tags: ["polymarket", "sports"]

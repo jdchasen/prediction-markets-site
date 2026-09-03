@@ -9,7 +9,7 @@ expiryDate: 2026-10-01
 tags: ["politics", "polymarket"]
 polymarketYes: 15.0
 polymarketNo: 85.0
-polymarketVolume: 9916
+polymarketVolume: 9928
 polymarketUrl: "https://polymarket.com/event/will-russia-capture-the-royal-cafe-alex-in-kostyantynivka-by-september-30-2026"
 ---
 
@@ -21,9 +21,9 @@ polymarketUrl: "https://polymarket.com/event/will-russia-capture-the-royal-cafe-
 
 ## Related Markets
 
+- [Israel x Iran ceasefire continues through September 30?](/odds/israel-x-iran-ceasefire-continues-through-september-30) — 84% YES
 - [Will Faker win a Finals MVP Award at an international event in 2026?](/odds/will-faker-win-a-finals-mvp-award-at-an-international-event-in-2026) — 9% YES
 - [Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?](/odds/will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-dec) — 12% YES
-- [Will Drake be the top artist for 2026?](/odds/will-drake-be-the-top-artist-for-2026) — 7% YES
 
 ## Frequently Asked Questions
 

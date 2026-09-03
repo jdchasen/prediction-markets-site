@@ -1,23 +1,23 @@
 ---
-title: "Will Anthropic's public ticker be $CLAU?"
-description: "Will Anthropic's public ticker be $CLAU? Odds: 2.1% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Anthropic's public ticker be $CLAU?"
+title: "Will the next UK parliament by-election be called by September 30?"
+description: "Will the next UK parliament by-election be called by September 30? Odds: 81.0% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will the next UK parliament by-election be called by September 30?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-09-03
-expiryDate: 2027-12-31
-tags: ["politics", "polymarket"]
-polymarketYes: 2.1
-polymarketNo: 97.9
-polymarketVolume: 9964
-polymarketUrl: "https://polymarket.com/event/will-anthropics-public-ticker-be-clau"
+expiryDate: 2026-10-01
+tags: ["elections", "politics", "polymarket"]
+polymarketYes: 81.0
+polymarketNo: 19.0
+polymarketVolume: 9981
+polymarketUrl: "https://polymarket.com/event/will-the-next-uk-parliament-by-election-be-called-by-september-30-20260724165029952"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 2.1% | 97.9% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 81.0% | 19.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-anthropics-public-ticker-be-cl
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Anthropic's public ticker be $CLAU?"?
+### What are the current odds for "Will the next UK parliament by-election be called by September 30?"?
 
-As of September 03, 2026, Polymarket prices YES at 2.1%.
+As of September 03, 2026, Polymarket prices YES at 81.0%.
 
 ### Where can I trade on this prediction market?
 

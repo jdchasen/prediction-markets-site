@@ -1,14 +1,14 @@
 ---
 title: "Hurupay FDV above $40M one day after launch?"
-description: "Hurupay FDV above $40M one day after launch? Odds: 3.8% YES on Polymarket. See live prices and trade this market."
+description: "Hurupay FDV above $40M one day after launch? Odds: 4.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Hurupay FDV above $40M one day after launch?"
 category: "crypto"
 status: "active"
 lastUpdated: 2026-09-03
 expiryDate: 2027-01-01
 tags: ["crypto", "polymarket"]
-polymarketYes: 3.8
-polymarketNo: 96.2
+polymarketYes: 4.7
+polymarketNo: 95.3
 polymarketVolume: 9876
 polymarketUrl: "https://polymarket.com/event/hurupay-fdv-above-40m-one-day-after-launch"
 ---
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/hurupay-fdv-above-40m-one-day-after
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 3.8% | 96.2% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 4.7% | 95.3% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/hurupay-fdv-above-40m-one-day-after
 
 ### What are the current odds for "Hurupay FDV above $40M one day after launch?"?
 
-As of September 03, 2026, Polymarket prices YES at 3.8%.
+As of September 03, 2026, Polymarket prices YES at 4.7%.
 
 ### Where can I trade on this prediction market?
 

@@ -1,35 +1,35 @@
 ---
-title: "Will Ethereum dip to $500 by December 31, 2026?"
-description: "Will Ethereum dip to $500 by December 31, 2026? Odds: 2.2% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Ethereum dip to $500 by December 31, 2026?"
+title: "Will Concrete launch a token by June 30, 2027?"
+description: "Will Concrete launch a token by June 30, 2027? Odds: 87.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Concrete launch a token by June 30, 2027?"
 category: "crypto"
 status: "active"
 lastUpdated: 2026-09-03
-expiryDate: 2027-01-01
-tags: ["crypto", "ethereum", "polymarket"]
-polymarketYes: 2.2
-polymarketNo: 97.8
-polymarketVolume: 98783
-polymarketUrl: "https://polymarket.com/event/will-ethereum-dip-to-500-by-december-31-2026-from-june-8"
+expiryDate: 2027-07-01
+tags: ["crypto", "polymarket"]
+polymarketYes: 87.5
+polymarketNo: 12.5
+polymarketVolume: 9884
+polymarketUrl: "https://polymarket.com/event/will-concrete-launch-a-token-by-june-30-2027"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 2.2% | 97.8% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 87.5% | 12.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Extended launch a token by September 30 2026?](/odds/will-extended-launch-a-token-by-september-30-2026) — 1% YES
 - [Will Loopscale launch a token by December 31, 2026?](/odds/will-loopscale-launch-a-token-by-december-31-2026) — 13% YES
-- [Will Concrete launch a token by June 30, 2027?](/odds/will-concrete-launch-a-token-by-june-30-2027) — 88% YES
+- [Will Ethereum dip to $500 by December 31, 2026?](/odds/will-ethereum-dip-to-500-by-december-31-2026) — 2% YES
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Ethereum dip to $500 by December 31, 2026?"?
+### What are the current odds for "Will Concrete launch a token by June 30, 2027?"?
 
-As of September 03, 2026, Polymarket prices YES at 2.2%.
+As of September 03, 2026, Polymarket prices YES at 87.5%.
 
 ### Where can I trade on this prediction market?
 

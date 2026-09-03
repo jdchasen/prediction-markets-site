@@ -3,8 +3,8 @@ title: "Will Aldo Rebelo finish in third place in the first round of the 2026 Br
 description: "Will Aldo Rebelo finish in third place in the first round of the 2026 Brazilian presidential election? Odds: 0.1% YES on Polymarket. See live prices and trad..."
 marketQuestion: "Will Aldo Rebelo finish in third place in the first round of the 2026 Brazilian presidential election?"
 category: "politics"
-status: "settled"
-lastUpdated: 2026-09-02
+status: "active"
+lastUpdated: 2026-09-03
 expiryDate: 2026-10-04
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.1
@@ -21,15 +21,15 @@ polymarketUrl: "https://polymarket.com/event/will-aldo-rebelo-finish-in-third-pl
 
 ## Related Markets
 
-- [Will Nooshi Dadgostar be the next Prime Minister of Sweden?](/odds/will-nooshi-dadgostar-be-the-next-prime-minister-of-sweden) — 0% YES
-- [Russia x Ukraine ceasefire agreement by October 31, 2026?](/odds/russia-x-ukraine-ceasefire-agreement-by-october-31-2026) — 8% YES
-- [Will Trump be impeached before his term ends?](/odds/will-trump-be-impeached-before-his-term-ends) — 66% YES
+- [Israel x Iran ceasefire continues through September 30?](/odds/israel-x-iran-ceasefire-continues-through-september-30) — 84% YES
+- [Will Faker win a Finals MVP Award at an international event in 2026?](/odds/will-faker-win-a-finals-mvp-award-at-an-international-event-in-2026) — 9% YES
+- [Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?](/odds/will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-dec) — 12% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Aldo Rebelo finish in third place in the first round of the 2026 Brazilian presidential election?"?
 
-As of September 02, 2026, Polymarket prices YES at 0.1%.
+As of September 03, 2026, Polymarket prices YES at 0.1%.
 
 ### Where can I trade on this prediction market?
 

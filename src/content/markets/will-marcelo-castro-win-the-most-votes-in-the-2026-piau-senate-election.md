@@ -3,7 +3,7 @@ title: "Will Marcelo Castro win the most votes in the 2026 Piauí Senate electio
 description: "Will Marcelo Castro win the most votes in the 2026 Piauí Senate election? Odds: 44.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Marcelo Castro win the most votes in the 2026 Piauí Senate election?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-09-03
 expiryDate: 2026-10-04
 tags: ["elections", "politics", "polymarket"]

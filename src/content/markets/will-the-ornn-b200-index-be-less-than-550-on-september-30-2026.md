@@ -3,7 +3,7 @@ title: "Will the Ornn B200 Index be less than $5.50 on September 30, 2026?"
 description: "Will the Ornn B200 Index be less than $5.50 on September 30, 2026? Odds: 9.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Ornn B200 Index be less than $5.50 on September 30, 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-09-03
 expiryDate: 2026-09-30
 tags: ["politics", "polymarket"]
