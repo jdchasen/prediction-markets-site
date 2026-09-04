@@ -3,8 +3,8 @@ title: "Will Sam Darnold win the 2026 NFL MVP?"
 description: "Will Sam Darnold win the 2026 NFL MVP? Odds: 1.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Sam Darnold win the 2026 NFL MVP?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-09-03
+status: "settled"
+lastUpdated: 2026-09-04
 expiryDate: 2027-02-15
 tags: ["polymarket", "sports"]
 polymarketYes: 1.2

@@ -3,8 +3,8 @@ title: "Will Martin Ritsma win the 2026 Stratford mayoral election?"
 description: "Will Martin Ritsma win the 2026 Stratford mayoral election? Odds: 61.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Martin Ritsma win the 2026 Stratford mayoral election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-09-03
+status: "settled"
+lastUpdated: 2026-09-04
 expiryDate: 2026-10-26
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 61.0

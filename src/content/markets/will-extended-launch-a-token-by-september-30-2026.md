@@ -1,15 +1,15 @@
 ---
 title: "Will Extended launch a token by September 30 2026?"
-description: "Will Extended launch a token by September 30 2026? Odds: 1.1% YES on Polymarket. See live prices and trade this market."
+description: "Will Extended launch a token by September 30 2026? Odds: 1.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Extended launch a token by September 30 2026?"
 category: "crypto"
 status: "active"
-lastUpdated: 2026-09-03
+lastUpdated: 2026-09-04
 expiryDate: 2026-10-01
 tags: ["crypto", "polymarket"]
-polymarketYes: 1.1
-polymarketNo: 98.9
-polymarketVolume: 99731
+polymarketYes: 1.0
+polymarketNo: 99.0
+polymarketVolume: 99737
 polymarketUrl: "https://polymarket.com/event/will-extended-launch-a-token-by-september-30-2026"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-extended-launch-a-token-by-sep
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 1.1% | 98.9% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 1.0% | 99.0% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Loopscale launch a token by December 31, 2026?](/odds/will-loopscale-launch-a-token-by-december-31-2026) — 13% YES
 - [Will Ethereum dip to $500 by December 31, 2026?](/odds/will-ethereum-dip-to-500-by-december-31-2026) — 2% YES
-- [Will Concrete launch a token by June 30, 2027?](/odds/will-concrete-launch-a-token-by-june-30-2027) — 88% YES
+- [Will Concrete launch a token by June 30, 2027?](/odds/will-concrete-launch-a-token-by-june-30-2027) — 90% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Extended launch a token by September 30 2026?"?
 
-As of September 03, 2026, Polymarket prices YES at 1.1%.
+As of September 04, 2026, Polymarket prices YES at 1.0%.
 
 ### Where can I trade on this prediction market?
 

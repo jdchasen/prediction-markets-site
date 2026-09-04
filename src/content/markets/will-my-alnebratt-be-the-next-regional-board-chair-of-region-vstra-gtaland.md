@@ -1,23 +1,23 @@
 ---
-title: "Will the US federal government take a stake in The Boeing Company?"
-description: "Will the US federal government take a stake in The Boeing Company? Odds: 7.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will the US federal government take a stake in The Boeing Company?"
+title: "Will My Alnebratt be the next Regional Board Chair of Region Västra Götaland?"
+description: "Will My Alnebratt be the next Regional Board Chair of Region Västra Götaland? Odds: 80.0% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will My Alnebratt be the next Regional Board Chair of Region Västra Götaland?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-09-04
-expiryDate: 2026-12-31
-tags: ["federal-reserve", "politics", "polymarket"]
-polymarketYes: 7.5
-polymarketNo: 92.5
-polymarketVolume: 9950
-polymarketUrl: "https://polymarket.com/event/will-the-us-federal-government-take-a-stake-in-the-boeing-company"
+expiryDate: 2026-09-13
+tags: ["ai", "politics", "polymarket"]
+polymarketYes: 80.0
+polymarketNo: 20.0
+polymarketVolume: 9882
+polymarketUrl: "https://polymarket.com/event/will-my-alnebratt-be-the-next-regional-board-chair-of-region-vastra-gotaland-20260812161832109"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 7.5% | 92.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 80.0% | 20.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-the-us-federal-government-take
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will the US federal government take a stake in The Boeing Company?"?
+### What are the current odds for "Will My Alnebratt be the next Regional Board Chair of Region Västra Götaland?"?
 
-As of September 04, 2026, Polymarket prices YES at 7.5%.
+As of September 04, 2026, Polymarket prices YES at 80.0%.
 
 ### Where can I trade on this prediction market?
 

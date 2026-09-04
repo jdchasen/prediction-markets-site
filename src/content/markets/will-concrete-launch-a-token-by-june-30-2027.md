@@ -1,15 +1,15 @@
 ---
 title: "Will Concrete launch a token by June 30, 2027?"
-description: "Will Concrete launch a token by June 30, 2027? Odds: 87.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Concrete launch a token by June 30, 2027? Odds: 90.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Concrete launch a token by June 30, 2027?"
 category: "crypto"
 status: "active"
-lastUpdated: 2026-09-03
+lastUpdated: 2026-09-04
 expiryDate: 2027-07-01
 tags: ["crypto", "polymarket"]
-polymarketYes: 87.5
-polymarketNo: 12.5
-polymarketVolume: 9884
+polymarketYes: 90.5
+polymarketNo: 9.5
+polymarketVolume: 9964
 polymarketUrl: "https://polymarket.com/event/will-concrete-launch-a-token-by-june-30-2027"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-concrete-launch-a-token-by-jun
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 87.5% | 12.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 90.5% | 9.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-concrete-launch-a-token-by-jun
 
 ### What are the current odds for "Will Concrete launch a token by June 30, 2027?"?
 
-As of September 03, 2026, Polymarket prices YES at 87.5%.
+As of September 04, 2026, Polymarket prices YES at 90.5%.
 
 ### Where can I trade on this prediction market?
 

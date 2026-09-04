@@ -3,8 +3,8 @@ title: "Will OpenAI’s Astra model debut with a Humanity’s Last Exam score of
 description: "Will OpenAI’s Astra model debut with a Humanity’s Last Exam score of 60% or higher? Odds: 1.3% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will OpenAI’s Astra model debut with a Humanity’s Last Exam score of 60% or higher?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-09-03
+status: "settled"
+lastUpdated: 2026-09-04
 expiryDate: 2026-12-31
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 1.3

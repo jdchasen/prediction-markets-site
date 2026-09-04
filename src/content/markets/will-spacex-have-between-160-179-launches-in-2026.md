@@ -3,8 +3,8 @@ title: "Will SpaceX have between 160-179 launches in 2026?"
 description: "Will SpaceX have between 160-179 launches in 2026? Odds: 8.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will SpaceX have between 160-179 launches in 2026?"
 category: "tech"
-status: "active"
-lastUpdated: 2026-09-03
+status: "settled"
+lastUpdated: 2026-09-04
 expiryDate: 2027-01-01
 tags: ["polymarket", "tech"]
 polymarketYes: 8.5

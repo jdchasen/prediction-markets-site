@@ -3,8 +3,8 @@ title: "Israel x Iran ceasefire continues through September 30?"
 description: "Israel x Iran ceasefire continues through September 30? Odds: 83.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Israel x Iran ceasefire continues through September 30?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-09-03
+status: "settled"
+lastUpdated: 2026-09-04
 expiryDate: 2026-09-30
 tags: ["politics", "polymarket"]
 polymarketYes: 83.5

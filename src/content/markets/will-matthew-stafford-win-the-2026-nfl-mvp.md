@@ -3,8 +3,8 @@ title: "Will Matthew Stafford win the 2026 NFL MVP?"
 description: "Will Matthew Stafford win the 2026 NFL MVP? Odds: 4.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Matthew Stafford win the 2026 NFL MVP?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-09-03
+status: "settled"
+lastUpdated: 2026-09-04
 expiryDate: 2027-02-15
 tags: ["polymarket", "sports"]
 polymarketYes: 4.5

@@ -1,15 +1,15 @@
 ---
 title: "Will Ciro Gomes win the 2026 Ceará gubernatorial election?"
-description: "Will Ciro Gomes win the 2026 Ceará gubernatorial election? Odds: 61.0% YES on Polymarket. See live prices and trade this market."
+description: "Will Ciro Gomes win the 2026 Ceará gubernatorial election? Odds: 64.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Ciro Gomes win the 2026 Ceará gubernatorial election?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-09-03
+lastUpdated: 2026-09-04
 expiryDate: 2026-10-04
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 61.0
-polymarketNo: 39.0
-polymarketVolume: 99053
+polymarketYes: 64.5
+polymarketNo: 35.5
+polymarketVolume: 99277
 polymarketUrl: "https://polymarket.com/event/will-ciro-gomes-win-the-2026-cear-gubernatorial-election"
 ---
 
@@ -17,11 +17,11 @@ polymarketUrl: "https://polymarket.com/event/will-ciro-gomes-win-the-2026-cear-g
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 61.0% | 39.0% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 64.5% | 35.5% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Israel x Iran ceasefire continues through September 30?](/odds/israel-x-iran-ceasefire-continues-through-september-30) — 84% YES
+- [Will Crude Oil reach a new all-time high by December 31?](/odds/will-crude-oil-reach-a-new-all-time-high-by-december-31) — 10% YES
 - [Will Faker win a Finals MVP Award at an international event in 2026?](/odds/will-faker-win-a-finals-mvp-award-at-an-international-event-in-2026) — 9% YES
 - [Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?](/odds/will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-dec) — 12% YES
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-ciro-gomes-win-the-2026-cear-g
 
 ### What are the current odds for "Will Ciro Gomes win the 2026 Ceará gubernatorial election?"?
 
-As of September 03, 2026, Polymarket prices YES at 61.0%.
+As of September 04, 2026, Polymarket prices YES at 64.5%.
 
 ### Where can I trade on this prediction market?
 

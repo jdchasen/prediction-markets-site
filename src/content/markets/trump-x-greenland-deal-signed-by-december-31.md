@@ -1,15 +1,15 @@
 ---
 title: "Trump x Greenland deal signed by December 31?"
-description: "Trump x Greenland deal signed by December 31? Odds: 15.0% YES on Polymarket. See live prices and trade this market."
+description: "Trump x Greenland deal signed by December 31? Odds: 14.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Trump x Greenland deal signed by December 31?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-09-03
+lastUpdated: 2026-09-04
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket", "trump"]
-polymarketYes: 15.0
-polymarketNo: 85.0
-polymarketVolume: 99076
+polymarketYes: 14.5
+polymarketNo: 85.5
+polymarketVolume: 99082
 polymarketUrl: "https://polymarket.com/event/trump-x-greenland-deal-signed-by-december-31"
 ---
 
@@ -17,11 +17,11 @@ polymarketUrl: "https://polymarket.com/event/trump-x-greenland-deal-signed-by-de
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 15.0% | 85.0% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 14.5% | 85.5% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Israel x Iran ceasefire continues through September 30?](/odds/israel-x-iran-ceasefire-continues-through-september-30) — 84% YES
+- [Will Crude Oil reach a new all-time high by December 31?](/odds/will-crude-oil-reach-a-new-all-time-high-by-december-31) — 10% YES
 - [Will Faker win a Finals MVP Award at an international event in 2026?](/odds/will-faker-win-a-finals-mvp-award-at-an-international-event-in-2026) — 9% YES
 - [Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?](/odds/will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-dec) — 12% YES
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/trump-x-greenland-deal-signed-by-de
 
 ### What are the current odds for "Trump x Greenland deal signed by December 31?"?
 
-As of September 03, 2026, Polymarket prices YES at 15.0%.
+As of September 04, 2026, Polymarket prices YES at 14.5%.
 
 ### Where can I trade on this prediction market?
 

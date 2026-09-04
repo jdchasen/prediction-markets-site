@@ -3,8 +3,8 @@ title: "Hurupay FDV above $40M one day after launch?"
 description: "Hurupay FDV above $40M one day after launch? Odds: 4.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Hurupay FDV above $40M one day after launch?"
 category: "crypto"
-status: "active"
-lastUpdated: 2026-09-03
+status: "settled"
+lastUpdated: 2026-09-04
 expiryDate: 2027-01-01
 tags: ["crypto", "polymarket"]
 polymarketYes: 4.7

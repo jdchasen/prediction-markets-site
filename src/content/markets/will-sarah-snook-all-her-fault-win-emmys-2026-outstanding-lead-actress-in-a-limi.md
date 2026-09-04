@@ -1,23 +1,23 @@
 ---
-title: "Will the next diplomatic US-Iran meeting be in Saudi Arabia by September 30, 2026?"
-description: "Will the next diplomatic US-Iran meeting be in Saudi Arabia by September 30, 2026? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will the next diplomatic US-Iran meeting be in Saudi Arabia by September 30, 2026?"
+title: "Will Sarah Snook – “All Her Fault” win Emmys 2026: Outstanding lead actress in a limited or anthology series or movie?"
+description: "Will Sarah Snook – “All Her Fault” win Emmys 2026: Outstanding lead actress in a limited or anthology series or movie? Odds: 21.5% YES on Polymarket. See liv..."
+marketQuestion: "Will Sarah Snook – “All Her Fault” win Emmys 2026: Outstanding lead actress in a limited or anthology series or movie?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-09-04
-expiryDate: 2026-10-01
-tags: ["politics", "polymarket"]
-polymarketYes: 0.1
-polymarketNo: 100.0
-polymarketVolume: 98830
-polymarketUrl: "https://polymarket.com/event/will-the-next-diplomatic-us-iran-meeting-be-in-saudi-arabia-by-september-30-2026-20260622185050766"
+expiryDate: 2026-09-14
+tags: ["entertainment", "politics", "polymarket"]
+polymarketYes: 21.5
+polymarketNo: 78.5
+polymarketVolume: 9975
+polymarketUrl: "https://polymarket.com/event/will-sarah-snook-all-her-fault-win-emmys-2026-outstanding-lead-actress-in-a-limited-or-anthology-series-or-movie-20260710152217848"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.1% | 100.0% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 21.5% | 78.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-the-next-diplomatic-us-iran-me
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will the next diplomatic US-Iran meeting be in Saudi Arabia by September 30, 2026?"?
+### What are the current odds for "Will Sarah Snook – “All Her Fault” win Emmys 2026: Outstanding lead actress in a limited or anthology series or movie?"?
 
-As of September 04, 2026, Polymarket prices YES at 0.1%.
+As of September 04, 2026, Polymarket prices YES at 21.5%.
 
 ### Where can I trade on this prediction market?
 

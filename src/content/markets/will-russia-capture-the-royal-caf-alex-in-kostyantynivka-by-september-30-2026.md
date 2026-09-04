@@ -4,7 +4,7 @@ description: "Will Russia capture the Royal Café Alex in Kostyantynivka by Sept
 marketQuestion: "Will Russia capture the Royal Café Alex in Kostyantynivka by September 30, 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-09-03
+lastUpdated: 2026-09-04
 expiryDate: 2026-10-01
 tags: ["politics", "polymarket"]
 polymarketYes: 15.0
@@ -21,7 +21,7 @@ polymarketUrl: "https://polymarket.com/event/will-russia-capture-the-royal-cafe-
 
 ## Related Markets
 
-- [Israel x Iran ceasefire continues through September 30?](/odds/israel-x-iran-ceasefire-continues-through-september-30) — 84% YES
+- [Will Crude Oil reach a new all-time high by December 31?](/odds/will-crude-oil-reach-a-new-all-time-high-by-december-31) — 10% YES
 - [Will Faker win a Finals MVP Award at an international event in 2026?](/odds/will-faker-win-a-finals-mvp-award-at-an-international-event-in-2026) — 9% YES
 - [Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?](/odds/will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-dec) — 12% YES
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-russia-capture-the-royal-cafe-
 
 ### What are the current odds for "Will Russia capture the Royal Café Alex in Kostyantynivka by September 30, 2026?"?
 
-As of September 03, 2026, Polymarket prices YES at 15.0%.
+As of September 04, 2026, Polymarket prices YES at 15.0%.
 
 ### Where can I trade on this prediction market?
 

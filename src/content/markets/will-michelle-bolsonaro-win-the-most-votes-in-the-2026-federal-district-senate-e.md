@@ -3,8 +3,8 @@ title: "Will Michelle Bolsonaro win the most votes in the 2026 Federal District 
 description: "Will Michelle Bolsonaro win the most votes in the 2026 Federal District Senate election? Odds: 84.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Michelle Bolsonaro win the most votes in the 2026 Federal District Senate election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-09-03
+status: "settled"
+lastUpdated: 2026-09-04
 expiryDate: 2026-10-04
 tags: ["elections", "federal-reserve", "politics", "polymarket"]
 polymarketYes: 84.0

@@ -4,7 +4,7 @@ description: "Will the Democratic Party win the NM-03 House seat? Odds: 92.5% YE
 marketQuestion: "Will the Democratic Party win the NM-03 House seat?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-09-03
+lastUpdated: 2026-09-04
 expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
 polymarketYes: 92.5
@@ -21,7 +21,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-n
 
 ## Related Markets
 
-- [Israel x Iran ceasefire continues through September 30?](/odds/israel-x-iran-ceasefire-continues-through-september-30) — 84% YES
+- [Will Crude Oil reach a new all-time high by December 31?](/odds/will-crude-oil-reach-a-new-all-time-high-by-december-31) — 10% YES
 - [Will Faker win a Finals MVP Award at an international event in 2026?](/odds/will-faker-win-a-finals-mvp-award-at-an-international-event-in-2026) — 9% YES
 - [Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?](/odds/will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-dec) — 12% YES
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-n
 
 ### What are the current odds for "Will the Democratic Party win the NM-03 House seat?"?
 
-As of September 03, 2026, Polymarket prices YES at 92.5%.
+As of September 04, 2026, Polymarket prices YES at 92.5%.
 
 ### Where can I trade on this prediction market?
 

@@ -3,8 +3,8 @@ title: "Will no Fed rate hikes happen in 2026?"
 description: "Will no Fed rate hikes happen in 2026? Odds: 36.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will no Fed rate hikes happen in 2026?"
 category: "economics"
-status: "active"
-lastUpdated: 2026-09-03
+status: "settled"
+lastUpdated: 2026-09-04
 expiryDate: 2026-12-31
 tags: ["economics", "federal-reserve", "polymarket"]
 polymarketYes: 36.5

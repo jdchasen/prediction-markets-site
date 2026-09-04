@@ -3,8 +3,8 @@ title: "Will Aldo Rebelo finish in third place in the first round of the 2026 Br
 description: "Will Aldo Rebelo finish in third place in the first round of the 2026 Brazilian presidential election? Odds: 0.1% YES on Polymarket. See live prices and trad..."
 marketQuestion: "Will Aldo Rebelo finish in third place in the first round of the 2026 Brazilian presidential election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-09-03
+status: "settled"
+lastUpdated: 2026-09-04
 expiryDate: 2026-10-04
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.1

@@ -3,8 +3,8 @@ title: "No change in Reserve Bank of New Zealand's interest rates at the October
 description: "No change in Reserve Bank of New Zealand's interest rates at the October 2026 meeting? Odds: 82.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "No change in Reserve Bank of New Zealand's interest rates at the October 2026 meeting?"
 category: "economics"
-status: "active"
-lastUpdated: 2026-09-03
+status: "settled"
+lastUpdated: 2026-09-04
 expiryDate: 2026-10-28
 tags: ["economics", "interest-rates", "polymarket"]
 polymarketYes: 82.0

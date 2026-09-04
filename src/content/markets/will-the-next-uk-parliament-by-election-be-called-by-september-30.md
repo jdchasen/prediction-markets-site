@@ -3,8 +3,8 @@ title: "Will the next UK parliament by-election be called by September 30?"
 description: "Will the next UK parliament by-election be called by September 30? Odds: 81.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the next UK parliament by-election be called by September 30?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-09-03
+status: "settled"
+lastUpdated: 2026-09-04
 expiryDate: 2026-10-01
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 81.0
