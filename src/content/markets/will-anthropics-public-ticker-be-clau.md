@@ -1,14 +1,14 @@
 ---
 title: "Will Anthropic's public ticker be $CLAU?"
-description: "Will Anthropic's public ticker be $CLAU? Odds: 1.9% YES on Polymarket. See live prices and trade this market."
+description: "Will Anthropic's public ticker be $CLAU? Odds: 1.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Anthropic's public ticker be $CLAU?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-09-04
 expiryDate: 2027-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 1.9
-polymarketNo: 98.1
+polymarketYes: 1.8
+polymarketNo: 98.2
 polymarketVolume: 9964
 polymarketUrl: "https://polymarket.com/event/will-anthropics-public-ticker-be-clau"
 ---
@@ -17,11 +17,11 @@ polymarketUrl: "https://polymarket.com/event/will-anthropics-public-ticker-be-cl
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 1.9% | 98.1% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 1.8% | 98.2% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Crude Oil reach a new all-time high by December 31?](/odds/will-crude-oil-reach-a-new-all-time-high-by-december-31) — 10% YES
+- [Will Ciro Gomes win the 2026 Ceará gubernatorial election?](/odds/will-ciro-gomes-win-the-2026-cear-gubernatorial-election) — 64% YES
 - [Will Faker win a Finals MVP Award at an international event in 2026?](/odds/will-faker-win-a-finals-mvp-award-at-an-international-event-in-2026) — 9% YES
 - [Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?](/odds/will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-dec) — 12% YES
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-anthropics-public-ticker-be-cl
 
 ### What are the current odds for "Will Anthropic's public ticker be $CLAU?"?
 
-As of September 04, 2026, Polymarket prices YES at 1.9%.
+As of September 04, 2026, Polymarket prices YES at 1.8%.
 
 ### Where can I trade on this prediction market?
 

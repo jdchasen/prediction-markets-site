@@ -3,7 +3,7 @@ title: "What will be the next Fed rate change?"
 description: "What will be the next Fed rate change? Odds: 79.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "What will be the next Fed rate change?"
 category: "economics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-09-04
 expiryDate: 2028-12-31
 tags: ["economics", "federal-reserve", "polymarket"]

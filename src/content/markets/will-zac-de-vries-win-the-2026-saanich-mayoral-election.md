@@ -3,7 +3,7 @@ title: "Will Zac de Vries win the 2026 Saanich mayoral election?"
 description: "Will Zac de Vries win the 2026 Saanich mayoral election? Odds: 35.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Zac de Vries win the 2026 Saanich mayoral election?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-09-04
 expiryDate: 2026-10-17
 tags: ["elections", "politics", "polymarket"]

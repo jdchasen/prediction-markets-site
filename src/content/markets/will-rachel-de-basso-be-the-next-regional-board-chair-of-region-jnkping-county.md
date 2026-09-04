@@ -1,23 +1,23 @@
 ---
-title: "Will the Republican Party win the PA-13 House seat?"
-description: "Will the Republican Party win the PA-13 House seat? Odds: 97.7% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will the Republican Party win the PA-13 House seat?"
+title: "Will Rachel De Basso be the next Regional Board Chair of Region Jönköping County?"
+description: "Will Rachel De Basso be the next Regional Board Chair of Region Jönköping County? Odds: 68.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Rachel De Basso be the next Regional Board Chair of Region Jönköping County?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-09-04
-expiryDate: 2026-11-03
-tags: ["politics", "polymarket"]
-polymarketYes: 97.7
-polymarketNo: 2.4
-polymarketVolume: 9885
-polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-pa-13-house-seat"
+expiryDate: 2026-09-13
+tags: ["ai", "politics", "polymarket"]
+polymarketYes: 68.5
+polymarketNo: 31.5
+polymarketVolume: 9944
+polymarketUrl: "https://polymarket.com/event/will-rachel-de-basso-be-the-next-regional-board-chair-of-region-jonkoping-county-1786127776515"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 97.7% | 2.4% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 68.5% | 31.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-p
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will the Republican Party win the PA-13 House seat?"?
+### What are the current odds for "Will Rachel De Basso be the next Regional Board Chair of Region Jönköping County?"?
 
-As of September 04, 2026, Polymarket prices YES at 97.7%.
+As of September 04, 2026, Polymarket prices YES at 68.5%.
 
 ### Where can I trade on this prediction market?
 

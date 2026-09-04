@@ -1,23 +1,23 @@
 ---
-title: "Will the Republican Party win the PA-13 House seat?"
-description: "Will the Republican Party win the PA-13 House seat? Odds: 97.7% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will the Republican Party win the PA-13 House seat?"
+title: "Will Swedish Social Democratic Party (S) win between 27% and 30% of all valid votes?"
+description: "Will Swedish Social Democratic Party (S) win between 27% and 30% of all valid votes? Odds: 58.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Swedish Social Democratic Party (S) win between 27% and 30% of all valid votes?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-09-04
-expiryDate: 2026-11-03
+expiryDate: 2026-09-13
 tags: ["politics", "polymarket"]
-polymarketYes: 97.7
-polymarketNo: 2.4
-polymarketVolume: 9885
-polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-pa-13-house-seat"
+polymarketYes: 58.5
+polymarketNo: 41.5
+polymarketVolume: 9890
+polymarketUrl: "https://polymarket.com/event/will-swedish-social-democratic-party-s-win-between-27-and-30-of-all-valid-votes-20260812172636412"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 97.7% | 2.4% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 58.5% | 41.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-p
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will the Republican Party win the PA-13 House seat?"?
+### What are the current odds for "Will Swedish Social Democratic Party (S) win between 27% and 30% of all valid votes?"?
 
-As of September 04, 2026, Polymarket prices YES at 97.7%.
+As of September 04, 2026, Polymarket prices YES at 58.5%.
 
 ### Where can I trade on this prediction market?
 

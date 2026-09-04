@@ -3,7 +3,7 @@ title: "Will Sarah Snook – “All Her Fault” win Emmys 2026: Outstanding lea
 description: "Will Sarah Snook – “All Her Fault” win Emmys 2026: Outstanding lead actress in a limited or anthology series or movie? Odds: 21.5% YES on Polymarket. See liv..."
 marketQuestion: "Will Sarah Snook – “All Her Fault” win Emmys 2026: Outstanding lead actress in a limited or anthology series or movie?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-09-04
 expiryDate: 2026-09-14
 tags: ["entertainment", "politics", "polymarket"]

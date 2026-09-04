@@ -1,23 +1,23 @@
 ---
-title: "Will the Republican Party win the PA-13 House seat?"
-description: "Will the Republican Party win the PA-13 House seat? Odds: 97.7% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will the Republican Party win the PA-13 House seat?"
+title: "Will there be ≤6 earthquakes of 5.5 or above magnitude worldwide?"
+description: "Will there be ≤6 earthquakes of 5.5 or above magnitude worldwide? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will there be ≤6 earthquakes of 5.5 or above magnitude worldwide?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-09-04
-expiryDate: 2026-11-03
+expiryDate: 2026-09-07
 tags: ["politics", "polymarket"]
-polymarketYes: 97.7
-polymarketNo: 2.4
-polymarketVolume: 9885
-polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-pa-13-house-seat"
+polymarketYes: 0.1
+polymarketNo: 99.9
+polymarketVolume: 9917
+polymarketUrl: "https://polymarket.com/event/will-there-be-6-earthquakes-of-5pt5-or-above-magnitude-worldwide-copy"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 97.7% | 2.4% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.1% | 99.9% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-p
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will the Republican Party win the PA-13 House seat?"?
+### What are the current odds for "Will there be ≤6 earthquakes of 5.5 or above magnitude worldwide?"?
 
-As of September 04, 2026, Polymarket prices YES at 97.7%.
+As of September 04, 2026, Polymarket prices YES at 0.1%.
 
 ### Where can I trade on this prediction market?
 

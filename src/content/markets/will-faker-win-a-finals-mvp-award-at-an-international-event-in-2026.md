@@ -1,14 +1,14 @@
 ---
 title: "Will Faker win a Finals MVP Award at an international event in 2026?"
-description: "Will Faker win a Finals MVP Award at an international event in 2026? Odds: 9.1% YES on Polymarket. See live prices and trade this market."
+description: "Will Faker win a Finals MVP Award at an international event in 2026? Odds: 9.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Faker win a Finals MVP Award at an international event in 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-09-04
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]
-polymarketYes: 9.1
-polymarketNo: 90.9
+polymarketYes: 9.2
+polymarketNo: 90.8
 polymarketVolume: 99484
 polymarketUrl: "https://polymarket.com/event/will-faker-win-a-finals-mvp-award-at-an-international-event-in-2026"
 ---
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-faker-win-a-finals-mvp-award-a
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 9.1% | 90.9% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 9.2% | 90.8% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Crude Oil reach a new all-time high by December 31?](/odds/will-crude-oil-reach-a-new-all-time-high-by-december-31) — 10% YES
-- [Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?](/odds/will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-dec) — 12% YES
 - [Will Ciro Gomes win the 2026 Ceará gubernatorial election?](/odds/will-ciro-gomes-win-the-2026-cear-gubernatorial-election) — 64% YES
+- [Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?](/odds/will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-dec) — 12% YES
+- [Andrew Tate released from custody by December 31, 2026?](/odds/andrew-tate-released-from-custody-by-december-31-2026) — 20% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Faker win a Finals MVP Award at an international event in 2026?"?
 
-As of September 04, 2026, Polymarket prices YES at 9.1%.
+As of September 04, 2026, Polymarket prices YES at 9.2%.
 
 ### Where can I trade on this prediction market?
 
