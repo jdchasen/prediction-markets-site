@@ -3,8 +3,8 @@ title: "Will the Communist Party of the Russian Federation (KPRF) win the third-
 description: "Will the Communist Party of the Russian Federation (KPRF) win the third-most seats in the next Russian parliamentary election? Odds: 4.5% YES on Polymarket. ..."
 marketQuestion: "Will the Communist Party of the Russian Federation (KPRF) win the third-most seats in the next Russian parliamentary election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-09-04
+status: "settled"
+lastUpdated: 2026-09-05
 expiryDate: 2026-09-20
 tags: ["elections", "federal-reserve", "politics", "polymarket"]
 polymarketYes: 4.5

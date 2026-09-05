@@ -1,15 +1,15 @@
 ---
 title: "Will Alibaba be the third-best Math AI lab at the end of October 2026?"
-description: "Will Alibaba be the third-best Math AI lab at the end of October 2026? Odds: 23.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Alibaba be the third-best Math AI lab at the end of October 2026? Odds: 24.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Alibaba be the third-best Math AI lab at the end of October 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-09-04
+lastUpdated: 2026-09-05
 expiryDate: 2026-11-01
 tags: ["ai", "politics", "polymarket"]
-polymarketYes: 23.5
-polymarketNo: 76.5
-polymarketVolume: 9895
+polymarketYes: 24.0
+polymarketNo: 76.0
+polymarketVolume: 9935
 polymarketUrl: "https://polymarket.com/event/will-alibaba-be-the-third-best-math-ai-lab-at-the-end-of-october-2026-20260811194841952"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-alibaba-be-the-third-best-math
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 23.5% | 76.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 24.0% | 76.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-alibaba-be-the-third-best-math
 
 ### What are the current odds for "Will Alibaba be the third-best Math AI lab at the end of October 2026?"?
 
-As of September 04, 2026, Polymarket prices YES at 23.5%.
+As of September 05, 2026, Polymarket prices YES at 24.0%.
 
 ### Where can I trade on this prediction market?
 

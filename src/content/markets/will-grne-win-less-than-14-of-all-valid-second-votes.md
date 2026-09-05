@@ -1,23 +1,23 @@
 ---
-title: "Will the Republican Party win the PA-13 House seat?"
-description: "Will the Republican Party win the PA-13 House seat? Odds: 97.7% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will the Republican Party win the PA-13 House seat?"
+title: "Will Grüne win less than 14% of all valid second votes?"
+description: "Will Grüne win less than 14% of all valid second votes? Odds: 21.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Grüne win less than 14% of all valid second votes?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-09-05
-expiryDate: 2026-11-03
+expiryDate: 2026-09-20
 tags: ["politics", "polymarket"]
-polymarketYes: 97.7
-polymarketNo: 2.3
-polymarketVolume: 9885
-polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-pa-13-house-seat"
+polymarketYes: 21.5
+polymarketNo: 78.5
+polymarketVolume: 9929
+polymarketUrl: "https://polymarket.com/event/will-grune-win-less-than-14-of-all-valid-second-votes-berlin"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 97.7% | 2.3% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 21.5% | 78.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-p
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will the Republican Party win the PA-13 House seat?"?
+### What are the current odds for "Will Grüne win less than 14% of all valid second votes?"?
 
-As of September 05, 2026, Polymarket prices YES at 97.7%.
+As of September 05, 2026, Polymarket prices YES at 21.5%.
 
 ### Where can I trade on this prediction market?
 

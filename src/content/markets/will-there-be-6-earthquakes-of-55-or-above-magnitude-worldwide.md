@@ -3,8 +3,8 @@ title: "Will there be ≤6 earthquakes of 5.5 or above magnitude worldwide?"
 description: "Will there be ≤6 earthquakes of 5.5 or above magnitude worldwide? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will there be ≤6 earthquakes of 5.5 or above magnitude worldwide?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-09-04
+status: "settled"
+lastUpdated: 2026-09-05
 expiryDate: 2026-09-07
 tags: ["politics", "polymarket"]
 polymarketYes: 0.1

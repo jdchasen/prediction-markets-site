@@ -1,14 +1,14 @@
 ---
 title: "Will Emmanuel Macron be the next leader out before 2027?"
-description: "Will Emmanuel Macron be the next leader out before 2027? Odds: 2.4% YES on Polymarket. See live prices and trade this market."
+description: "Will Emmanuel Macron be the next leader out before 2027? Odds: 1.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Emmanuel Macron be the next leader out before 2027?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-09-04
+lastUpdated: 2026-09-05
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]
-polymarketYes: 2.4
-polymarketNo: 97.6
+polymarketYes: 1.8
+polymarketNo: 98.2
 polymarketVolume: 9988
 polymarketUrl: "https://polymarket.com/event/will-emmanuel-macron-be-the-next-leader-out-before-2027-20260630194627364"
 ---
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-emmanuel-macron-be-the-next-le
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 2.4% | 97.6% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 1.8% | 98.2% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-emmanuel-macron-be-the-next-le
 
 ### What are the current odds for "Will Emmanuel Macron be the next leader out before 2027?"?
 
-As of September 04, 2026, Polymarket prices YES at 2.4%.
+As of September 05, 2026, Polymarket prices YES at 1.8%.
 
 ### Where can I trade on this prediction market?
 

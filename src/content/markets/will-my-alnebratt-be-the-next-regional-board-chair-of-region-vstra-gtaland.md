@@ -3,8 +3,8 @@ title: "Will My Alnebratt be the next Regional Board Chair of Region Västra Gö
 description: "Will My Alnebratt be the next Regional Board Chair of Region Västra Götaland? Odds: 80.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will My Alnebratt be the next Regional Board Chair of Region Västra Götaland?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-09-04
+status: "settled"
+lastUpdated: 2026-09-05
 expiryDate: 2026-09-13
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 80.5

@@ -1,23 +1,23 @@
 ---
-title: "Will the Republican Party win the PA-13 House seat?"
-description: "Will the Republican Party win the PA-13 House seat? Odds: 97.7% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will the Republican Party win the PA-13 House seat?"
+title: "Will Dr. Daniel Santos win the Governor of Pará election?"
+description: "Will Dr. Daniel Santos win the Governor of Pará election? Odds: 43.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Dr. Daniel Santos win the Governor of Pará election?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-09-05
-expiryDate: 2026-11-03
-tags: ["politics", "polymarket"]
-polymarketYes: 97.7
-polymarketNo: 2.3
-polymarketVolume: 9885
-polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-pa-13-house-seat"
+expiryDate: 2026-10-05
+tags: ["elections", "politics", "polymarket"]
+polymarketYes: 43.5
+polymarketNo: 56.5
+polymarketVolume: 9901
+polymarketUrl: "https://polymarket.com/event/will-drpt-daniel-santos-win-the-governor-of-para-election-20260609154624114"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 97.7% | 2.3% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 43.5% | 56.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-p
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will the Republican Party win the PA-13 House seat?"?
+### What are the current odds for "Will Dr. Daniel Santos win the Governor of Pará election?"?
 
-As of September 05, 2026, Polymarket prices YES at 97.7%.
+As of September 05, 2026, Polymarket prices YES at 43.5%.
 
 ### Where can I trade on this prediction market?
 

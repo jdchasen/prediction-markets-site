@@ -4,12 +4,12 @@ description: "Will Moonshot have a #1 AI model by December 31, 2026? Odds: 9.5% 
 marketQuestion: "Will Moonshot have a #1 AI model by December 31, 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-09-04
+lastUpdated: 2026-09-05
 expiryDate: 2027-01-01
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 9.5
 polymarketNo: 90.5
-polymarketVolume: 9907
+polymarketVolume: 9951
 polymarketUrl: "https://polymarket.com/event/will-moonshot-have-a-1-ai-model-by-december-31-2026"
 ---
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-moonshot-have-a-1-ai-model-by-
 
 ### What are the current odds for "Will Moonshot have a #1 AI model by December 31, 2026?"?
 
-As of September 04, 2026, Polymarket prices YES at 9.5%.
+As of September 05, 2026, Polymarket prices YES at 9.5%.
 
 ### Where can I trade on this prediction market?
 

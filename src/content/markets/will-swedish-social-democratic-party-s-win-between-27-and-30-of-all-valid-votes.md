@@ -3,8 +3,8 @@ title: "Will Swedish Social Democratic Party (S) win between 27% and 30% of all 
 description: "Will Swedish Social Democratic Party (S) win between 27% and 30% of all valid votes? Odds: 58.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Swedish Social Democratic Party (S) win between 27% and 30% of all valid votes?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-09-04
+status: "settled"
+lastUpdated: 2026-09-05
 expiryDate: 2026-09-13
 tags: ["politics", "polymarket"]
 polymarketYes: 58.5

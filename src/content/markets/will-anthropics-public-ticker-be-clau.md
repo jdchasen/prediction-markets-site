@@ -1,14 +1,14 @@
 ---
 title: "Will Anthropic's public ticker be $CLAU?"
-description: "Will Anthropic's public ticker be $CLAU? Odds: 1.8% YES on Polymarket. See live prices and trade this market."
+description: "Will Anthropic's public ticker be $CLAU? Odds: 1.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Anthropic's public ticker be $CLAU?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-09-04
+lastUpdated: 2026-09-05
 expiryDate: 2027-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 1.8
-polymarketNo: 98.2
+polymarketYes: 1.4
+polymarketNo: 98.6
 polymarketVolume: 9964
 polymarketUrl: "https://polymarket.com/event/will-anthropics-public-ticker-be-clau"
 ---
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-anthropics-public-ticker-be-cl
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 1.8% | 98.2% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 1.4% | 98.6% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-anthropics-public-ticker-be-cl
 
 ### What are the current odds for "Will Anthropic's public ticker be $CLAU?"?
 
-As of September 04, 2026, Polymarket prices YES at 1.8%.
+As of September 05, 2026, Polymarket prices YES at 1.4%.
 
 ### Where can I trade on this prediction market?
 

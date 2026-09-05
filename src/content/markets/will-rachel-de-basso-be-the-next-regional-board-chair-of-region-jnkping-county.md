@@ -3,8 +3,8 @@ title: "Will Rachel De Basso be the next Regional Board Chair of Region Jönköp
 description: "Will Rachel De Basso be the next Regional Board Chair of Region Jönköping County? Odds: 68.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Rachel De Basso be the next Regional Board Chair of Region Jönköping County?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-09-04
+status: "settled"
+lastUpdated: 2026-09-05
 expiryDate: 2026-09-13
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 68.5

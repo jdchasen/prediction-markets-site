@@ -3,8 +3,8 @@ title: "Will JPMorgan Chase or any of its underwriting affiliates serve as the l
 description: "Will JPMorgan Chase or any of its underwriting affiliates serve as the lead underwriter in Anthropic's initial public offering? Odds: 0.8% YES on Polymarket...."
 marketQuestion: "Will JPMorgan Chase or any of its underwriting affiliates serve as the lead underwriter in Anthropic's initial public offering?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-09-04
+status: "settled"
+lastUpdated: 2026-09-05
 expiryDate: 2027-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 0.8

@@ -3,8 +3,8 @@ title: "Andrew Tate released from custody by December 31, 2026?"
 description: "Andrew Tate released from custody by December 31, 2026? Odds: 19.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Andrew Tate released from custody by December 31, 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-09-04
+status: "settled"
+lastUpdated: 2026-09-05
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]
 polymarketYes: 19.5

@@ -1,14 +1,14 @@
 ---
 title: "Will Urban Granström be the next Regional Board Chair of Region Sörmland?"
-description: "Will Urban Granström be the next Regional Board Chair of Region Sörmland? Odds: 52.0% YES on Polymarket. See live prices and trade this market."
+description: "Will Urban Granström be the next Regional Board Chair of Region Sörmland? Odds: 53.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Urban Granström be the next Regional Board Chair of Region Sörmland?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-09-04
+lastUpdated: 2026-09-05
 expiryDate: 2026-09-13
 tags: ["ai", "politics", "polymarket"]
-polymarketYes: 52.0
-polymarketNo: 48.0
+polymarketYes: 53.0
+polymarketNo: 47.0
 polymarketVolume: 9991
 polymarketUrl: "https://polymarket.com/event/will-urban-granstrom-be-the-next-regional-board-chair-of-region-sormland-20260812162003133"
 ---
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-urban-granstrom-be-the-next-re
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 52.0% | 48.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 53.0% | 47.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-urban-granstrom-be-the-next-re
 
 ### What are the current odds for "Will Urban Granström be the next Regional Board Chair of Region Sörmland?"?
 
-As of September 04, 2026, Polymarket prices YES at 52.0%.
+As of September 05, 2026, Polymarket prices YES at 53.0%.
 
 ### Where can I trade on this prediction market?
 
