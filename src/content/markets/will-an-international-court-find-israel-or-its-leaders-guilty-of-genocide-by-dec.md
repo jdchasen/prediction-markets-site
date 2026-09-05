@@ -21,9 +21,9 @@ polymarketUrl: "https://polymarket.com/event/will-an-international-court-find-is
 
 ## Related Markets
 
-- [Will Ciro Gomes win the 2026 Ceará gubernatorial election?](/odds/will-ciro-gomes-win-the-2026-cear-gubernatorial-election) — 64% YES
-- [Will Faker win a Finals MVP Award at an international event in 2026?](/odds/will-faker-win-a-finals-mvp-award-at-an-international-event-in-2026) — 9% YES
 - [Trump x Greenland deal signed by December 31?](/odds/trump-x-greenland-deal-signed-by-december-31) — 14% YES
+- [Will the Fed Pause–Pause–Cut in the next three decisions (Jun–Jul–Sep)?](/odds/will-the-fed-pausepausecut-in-the-next-three-decisions-junjulsep) — 0% YES
+- [Will the next diplomatic US-Iran meeting be in Saudi Arabia by September 30, 2026?](/odds/will-the-next-diplomatic-us-iran-meeting-be-in-saudi-arabia-by-september-30-2026) — 0% YES
 
 ## Frequently Asked Questions
 

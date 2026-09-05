@@ -1,14 +1,14 @@
 ---
 title: "Will Emmanuel Macron be the next leader out before 2027?"
-description: "Will Emmanuel Macron be the next leader out before 2027? Odds: 1.8% YES on Polymarket. See live prices and trade this market."
+description: "Will Emmanuel Macron be the next leader out before 2027? Odds: 1.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Emmanuel Macron be the next leader out before 2027?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-09-05
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]
-polymarketYes: 1.8
-polymarketNo: 98.2
+polymarketYes: 1.7
+polymarketNo: 98.3
 polymarketVolume: 9988
 polymarketUrl: "https://polymarket.com/event/will-emmanuel-macron-be-the-next-leader-out-before-2027-20260630194627364"
 ---
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-emmanuel-macron-be-the-next-le
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 1.8% | 98.2% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 1.7% | 98.3% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Ciro Gomes win the 2026 Ceará gubernatorial election?](/odds/will-ciro-gomes-win-the-2026-cear-gubernatorial-election) — 64% YES
-- [Will Faker win a Finals MVP Award at an international event in 2026?](/odds/will-faker-win-a-finals-mvp-award-at-an-international-event-in-2026) — 9% YES
 - [Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?](/odds/will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-dec) — 12% YES
+- [Trump x Greenland deal signed by December 31?](/odds/trump-x-greenland-deal-signed-by-december-31) — 14% YES
+- [Will the Fed Pause–Pause–Cut in the next three decisions (Jun–Jul–Sep)?](/odds/will-the-fed-pausepausecut-in-the-next-three-decisions-junjulsep) — 0% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Emmanuel Macron be the next leader out before 2027?"?
 
-As of September 05, 2026, Polymarket prices YES at 1.8%.
+As of September 05, 2026, Polymarket prices YES at 1.7%.
 
 ### Where can I trade on this prediction market?
 

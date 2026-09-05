@@ -1,14 +1,14 @@
 ---
 title: "Will the Republican Party win the PA-13 House seat?"
-description: "Will the Republican Party win the PA-13 House seat? Odds: 97.7% YES on Polymarket. See live prices and trade this market."
+description: "Will the Republican Party win the PA-13 House seat? Odds: 97.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Republican Party win the PA-13 House seat?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-09-05
 expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
-polymarketYes: 97.7
-polymarketNo: 2.3
+polymarketYes: 97.2
+polymarketNo: 2.8
 polymarketVolume: 9885
 polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-pa-13-house-seat"
 ---
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-p
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 97.7% | 2.3% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 97.2% | 2.8% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Ciro Gomes win the 2026 Ceará gubernatorial election?](/odds/will-ciro-gomes-win-the-2026-cear-gubernatorial-election) — 64% YES
-- [Will Faker win a Finals MVP Award at an international event in 2026?](/odds/will-faker-win-a-finals-mvp-award-at-an-international-event-in-2026) — 9% YES
 - [Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?](/odds/will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-dec) — 12% YES
+- [Trump x Greenland deal signed by December 31?](/odds/trump-x-greenland-deal-signed-by-december-31) — 14% YES
+- [Will the Fed Pause–Pause–Cut in the next three decisions (Jun–Jul–Sep)?](/odds/will-the-fed-pausepausecut-in-the-next-three-decisions-junjulsep) — 0% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will the Republican Party win the PA-13 House seat?"?
 
-As of September 05, 2026, Polymarket prices YES at 97.7%.
+As of September 05, 2026, Polymarket prices YES at 97.2%.
 
 ### Where can I trade on this prediction market?
 

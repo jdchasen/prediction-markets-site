@@ -3,7 +3,7 @@ title: "Will Faker win a Finals MVP Award at an international event in 2026?"
 description: "Will Faker win a Finals MVP Award at an international event in 2026? Odds: 9.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Faker win a Finals MVP Award at an international event in 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-09-05
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]

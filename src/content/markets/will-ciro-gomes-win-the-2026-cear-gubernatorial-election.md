@@ -3,7 +3,7 @@ title: "Will Ciro Gomes win the 2026 Ceará gubernatorial election?"
 description: "Will Ciro Gomes win the 2026 Ceará gubernatorial election? Odds: 64.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Ciro Gomes win the 2026 Ceará gubernatorial election?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-09-05
 expiryDate: 2026-10-04
 tags: ["elections", "politics", "polymarket"]

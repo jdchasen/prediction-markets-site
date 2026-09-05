@@ -21,9 +21,9 @@ polymarketUrl: "https://polymarket.com/event/will-the-fed-pausepausecut-in-the-n
 
 ## Related Markets
 
-- [Will Ciro Gomes win the 2026 Ceará gubernatorial election?](/odds/will-ciro-gomes-win-the-2026-cear-gubernatorial-election) — 64% YES
-- [Will Faker win a Finals MVP Award at an international event in 2026?](/odds/will-faker-win-a-finals-mvp-award-at-an-international-event-in-2026) — 9% YES
 - [Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?](/odds/will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-dec) — 12% YES
+- [Trump x Greenland deal signed by December 31?](/odds/trump-x-greenland-deal-signed-by-december-31) — 14% YES
+- [Will the next diplomatic US-Iran meeting be in Saudi Arabia by September 30, 2026?](/odds/will-the-next-diplomatic-us-iran-meeting-be-in-saudi-arabia-by-september-30-2026) — 0% YES
 
 ## Frequently Asked Questions
 

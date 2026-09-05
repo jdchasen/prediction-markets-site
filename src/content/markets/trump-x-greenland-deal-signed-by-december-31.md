@@ -9,7 +9,7 @@ expiryDate: 2027-01-01
 tags: ["politics", "polymarket", "trump"]
 polymarketYes: 14.5
 polymarketNo: 85.5
-polymarketVolume: 99145
+polymarketVolume: 99212
 polymarketUrl: "https://polymarket.com/event/trump-x-greenland-deal-signed-by-december-31"
 ---
 
@@ -21,9 +21,9 @@ polymarketUrl: "https://polymarket.com/event/trump-x-greenland-deal-signed-by-de
 
 ## Related Markets
 
-- [Will Ciro Gomes win the 2026 Ceará gubernatorial election?](/odds/will-ciro-gomes-win-the-2026-cear-gubernatorial-election) — 64% YES
-- [Will Faker win a Finals MVP Award at an international event in 2026?](/odds/will-faker-win-a-finals-mvp-award-at-an-international-event-in-2026) — 9% YES
 - [Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?](/odds/will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-dec) — 12% YES
+- [Will the Fed Pause–Pause–Cut in the next three decisions (Jun–Jul–Sep)?](/odds/will-the-fed-pausepausecut-in-the-next-three-decisions-junjulsep) — 0% YES
+- [Will the next diplomatic US-Iran meeting be in Saudi Arabia by September 30, 2026?](/odds/will-the-next-diplomatic-us-iran-meeting-be-in-saudi-arabia-by-september-30-2026) — 0% YES
 
 ## Frequently Asked Questions
 

@@ -3,7 +3,7 @@ title: "Will Urban Granström be the next Regional Board Chair of Region Sörmla
 description: "Will Urban Granström be the next Regional Board Chair of Region Sörmland? Odds: 53.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Urban Granström be the next Regional Board Chair of Region Sörmland?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-09-05
 expiryDate: 2026-09-13
 tags: ["ai", "politics", "polymarket"]

@@ -3,7 +3,7 @@ title: "Will Arthur Lira win the most votes in the 2026 Alagoas Senate election?
 description: "Will Arthur Lira win the most votes in the 2026 Alagoas Senate election? Odds: 32.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Arthur Lira win the most votes in the 2026 Alagoas Senate election?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-09-05
 expiryDate: 2026-10-04
 tags: ["elections", "politics", "polymarket"]

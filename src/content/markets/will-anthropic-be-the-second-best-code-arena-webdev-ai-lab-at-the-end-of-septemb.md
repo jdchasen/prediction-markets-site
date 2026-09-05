@@ -1,23 +1,23 @@
 ---
-title: "Will the next diplomatic US-Iran meeting be in Saudi Arabia by September 30, 2026?"
-description: "Will the next diplomatic US-Iran meeting be in Saudi Arabia by September 30, 2026? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will the next diplomatic US-Iran meeting be in Saudi Arabia by September 30, 2026?"
+title: "Will Anthropic be the second-best Code Arena | WebDev AI lab at the end of September 2026?"
+description: "Will Anthropic be the second-best Code Arena | WebDev AI lab at the end of September 2026? Odds: 65.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Anthropic be the second-best Code Arena | WebDev AI lab at the end of September 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-09-05
 expiryDate: 2026-10-01
-tags: ["politics", "polymarket"]
-polymarketYes: 0.1
-polymarketNo: 100.0
-polymarketVolume: 98830
-polymarketUrl: "https://polymarket.com/event/will-the-next-diplomatic-us-iran-meeting-be-in-saudi-arabia-by-september-30-2026-20260622185050766"
+tags: ["ai", "politics", "polymarket"]
+polymarketYes: 65.5
+polymarketNo: 34.4
+polymarketVolume: 9932
+polymarketUrl: "https://polymarket.com/event/will-anthropic-be-the-second-best-code-arena-webdev-ai-lab-at-the-end-of-september-2026-20260722215814729"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.1% | 100.0% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 65.5% | 34.4% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-the-next-diplomatic-us-iran-me
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will the next diplomatic US-Iran meeting be in Saudi Arabia by September 30, 2026?"?
+### What are the current odds for "Will Anthropic be the second-best Code Arena | WebDev AI lab at the end of September 2026?"?
 
-As of September 05, 2026, Polymarket prices YES at 0.1%.
+As of September 05, 2026, Polymarket prices YES at 65.5%.
 
 ### Where can I trade on this prediction market?
 

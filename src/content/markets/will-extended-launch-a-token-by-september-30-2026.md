@@ -1,14 +1,14 @@
 ---
 title: "Will Extended launch a token by September 30 2026?"
-description: "Will Extended launch a token by September 30 2026? Odds: 0.7% YES on Polymarket. See live prices and trade this market."
+description: "Will Extended launch a token by September 30 2026? Odds: 0.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Extended launch a token by September 30 2026?"
 category: "crypto"
 status: "active"
 lastUpdated: 2026-09-05
 expiryDate: 2026-10-01
 tags: ["crypto", "polymarket"]
-polymarketYes: 0.7
-polymarketNo: 99.3
+polymarketYes: 0.8
+polymarketNo: 99.2
 polymarketVolume: 99798
 polymarketUrl: "https://polymarket.com/event/will-extended-launch-a-token-by-september-30-2026"
 ---
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-extended-launch-a-token-by-sep
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.7% | 99.3% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.8% | 99.2% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,7 +27,7 @@ polymarketUrl: "https://polymarket.com/event/will-extended-launch-a-token-by-sep
 
 ### What are the current odds for "Will Extended launch a token by September 30 2026?"?
 
-As of September 05, 2026, Polymarket prices YES at 0.7%.
+As of September 05, 2026, Polymarket prices YES at 0.8%.
 
 ### Where can I trade on this prediction market?
 

@@ -9,7 +9,7 @@ expiryDate: 2027-01-01
 tags: ["ai", "polymarket", "tech"]
 polymarketYes: 58.5
 polymarketNo: 41.5
-polymarketVolume: 9989
+polymarketVolume: 9994
 polymarketUrl: "https://polymarket.com/event/will-the-highest-score-achieved-by-a-spacexai-grok-model-on-humanitys-last-exam-in-2026-be-50-or-higher-20260723191456651"
 ---
 
